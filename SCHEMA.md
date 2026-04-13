@@ -605,3 +605,114 @@ General:
 - `food-production` — food-production
 - `microclimate` — microclimate
 - `ponds` — ponds
+
+### Additional Tags (added during lint 2026-04-13 maintenance)
+- `adaptogen` — Adaptogenic compounds and herbs
+- `anatomy` — Biological anatomy, organ systems
+- `anti-inflammatory` — Anti-inflammatory compounds and effects
+- `antioxidant` — Antioxidant compounds and effects
+- `ayahuasca` — Ayahuasca, psychedelic brew
+- `bardo` — Bardo, intermediate states in Tibetan Buddhism
+- `barley` — Barley cultivation and uses
+- `beta-carboline` — Beta-carboline class compounds
+- `beta-glucan` — Beta-glucan polysaccharides in fungi
+- `betulin` — Betulin compound from birch bark
+- `betulinic-acid` — Betulinic acid compound
+- `breeding` — Plant breeding and genetics
+- `bufonid-toad` — Bufonid toads, bufo venom compounds
+- `cancer` — Cancer, oncology, anti-tumor research
+- `cardiovascular` — Cardiovascular system, heart health
+- `clay-pellets` — Clay pellets for cultivation substrates
+- `clinical-trial` — Clinical trials, clinical research
+- `clover-cover` — Clover as cover crop
+- `co2` — Carbon dioxide management
+- `comedown` — Comedown, after-effects
+- `d-fraction` — D-fraction, maitake extract compound
+- `direct-seeding` — Direct seeding, no-transplant methods
+- `dose-response-curve` — Dose-response relationships and curves
+- `ectomycorrhiza` — Ectomycorrhizal fungal associations
+- `ego-death` — Ego death, ego dissolution experiences
+- `endogenous-compound` — Endogenous compounds, naturally occurring
+- `enzymes` — Enzymes, enzymatic processes
+- `essential-oil` — Essential oils, aromatic compounds
+- `experience-guide` — Experience guides, trip reports
+- `extraction` — Extraction methods and techniques
+- `fae` — Fresh air exchange for cultivation
+- `fire` — Fire ecology, controlled burns, fire management
+- `fukuoka` — Masanobu Fukuoka, natural farming pioneer
+- `ganoderic-acid` — Ganoderic acid from reishi mushroom
+- `genotype` — Genotype, genetic makeup
+- `geology` — geology
+- `glandular` — Glandular structures, secretory tissues
+- `gourmet-mushroom` — Gourmet and culinary mushrooms
+- `grifola-frondosa` — Grifola frondosa (maitake) species
+- `grifolan` — Grifolan beta-glucan from maitake
+- `harmala` — Harmala alkaloids (harmine, harmaline)
+- `hashish` — Hashish, concentrated cannabis resin
+- `hybridization` — Hybridization, cross-breeding
+- `identification` — Identification methods, species ID
+- `indica` — Cannabis indica subspecies
+- `indigenous-medicine` — Indigenous healing practices and plant medicine
+- `indoor-cultivation` — Indoor cultivation techniques
+- `inflammation` — Inflammation, inflammatory response
+- `integration` — Integration of experiences, psychological integration
+- `kief` — Kief, dry-sieved cannabis trichomes
+- `landrace` — Landrace varieties, heirloom strains
+- `leary` — Timothy Leary, psychedelic research
+- `lentinula-edodes` — Lentinula edodes (shiitake) species
+- `lion's-mane` — Lion's mane mushroom (Hericium erinaceus)
+- `maoi` — Monoamine oxidase inhibitors
+- `maoi-interaction` — MAOI interactions and contraindications
+- `materials` — Materials, construction materials
+- `medicinal-mushroom` — Medicinal mushrooms, therapeutic fungi
+- `melanin` — Melanin pigmentation
+- `morphology` — Morphology, physical form and structure
+- `mushroom-alkaloid` — Alkaloid compounds from mushrooms
+- `mysticism` — Mysticism, mystical experiences
+- `natural-farming` — Natural farming broadly, Masanobu Fukuoka methods
+- `onset` — Onset time of compound effects
+- `oral-active` — Orally active compounds
+- `oyster` — Oyster mushroom broadly
+- `pain-management` — Pain management, analgesia
+- `pasture` — Pasture management, rotational grazing
+- `peak` — Peak effects of compounds
+- `pf-tek` — PF TEK beginner mushroom cultivation
+- `pharmacokinetics` — Pharmacokinetics, drug metabolism
+- `phenomenology` — Phenomenology, subjective experience
+- `phenotype` — Phenotype, expressed traits
+- `phosphate-ester` — Phosphate ester chemistry
+- `plant-biology` — Plant biology broadly
+- `plant-medicine` — Plant medicine broadly, herbal medicine
+- `polysaccharide-k` — Polysaccharide-K (PSK) from turkey tail
+- `polysaccharide-peptide` — Polysaccharide peptides from fungi
+- `ruderalis` — Cannabis ruderalis subspecies
+- `sativa` — Cannabis sativa subspecies
+- `science` — Science broadly
+- `seed-production` — Seed production and saving
+- `selection` — Selection, plant or strain selection
+- `session-guide` — Session guides for therapeutic experiences
+- `set-and-setting` — Set and setting in psychedelic experiences
+- `sleep` — Sleep, sleep disorders, sleep science
+- `smoked-compound` — Smokable plant compounds
+- `snuff` — Nasal snuff preparations
+- `soil-science` — Soil science, pedology
+- `solvent` — Solvents for extraction and chemistry
+- `stacking` — Function stacking in permaculture
+- `straw-mulch` — Straw as mulching material
+- `superoxide-dismutase` — Superoxide dismutase (SOD) enzyme
+- `sustainable-agriculture` — Sustainable agriculture practices
+- `synergy` — Synergistic effects between compounds
+- `synthetic-log` — Synthetic log substrates for mushroom growing
+- `threshold` — Threshold effects, minimum effective doses
+- `tibetan-book-of-the-dead` — Tibetan Book of the Dead (Bardo Thodol)
+- `traditional-chinese-medicine` — Traditional Chinese Medicine (TCM)
+- `traditional-medicine` — Traditional medicine systems, ethnomedicine
+- `training` — Plant training techniques (LST, HST)
+- `tree-inoculation` — Tree inoculation with fungi or microbes
+- `trichome` — Trichomes, plant glandular structures
+- `triterpenoid` — Triterpenoid compounds in fungi
+- `tropical-gardening` — Tropical gardening techniques
+- `truffle` — Truffles, hypogeous fungi
+- `tryptamine` — Tryptamine class compounds and chemistry
+- `virola` — Virola tree genus, DMT sources
+- `zones` — Zoning, permaculture zones

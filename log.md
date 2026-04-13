@@ -2086,3 +2086,8 @@ Total: 989 -> 1044 pages. index.md rebuilt.
 - All pages have YAML frontmatter (created/updated: 2026-04-13, type: concept, appropriate tags)
 - All pages include 2+ [[wikilinks]] to existing pages
 - Updated index.md: added 10 entries, page count 1082 → 1092
+## [2026-04-13] lint | Maintenance sweep — all checks pass
+- Fixed 21 pages with missing `title:` field in frontmatter (subagent-created pages from prior session)
+- Added 20 missing index entries for concept pages not indexed
+- Updated index.md page count (1107 → 1127) and last-updated date
+- Final state: 1127 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 frontmatter issues, 0 pages over 200 lines

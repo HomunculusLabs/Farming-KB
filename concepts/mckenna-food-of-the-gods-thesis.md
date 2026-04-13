@@ -1,4 +1,5 @@
 ---
+title: McKenna's Food of the Gods Thesis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

@@ -1,125 +1,72 @@
 ---
-
 title: Cannabis Genetics and Breeding
-created: 2026-04-10
-updated: 2026-04-12
+created: 2026-04-13
+updated: 2026-04-13
 type: concept
-
-tags:
-- cannabis
-- regenerative
-- indoor
-- plant-systems
-- underground-press
-- genetics
-- seeds
-- plants
-
-sources:
-- raw/papers/greg-green-the-cannabis-grow-bible.md
-- raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md
-- raw/papers/vic-high-creating-true-breeding-strains.md
-- raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+tags: [cannabis, genetics, breeding, hybridization, indica, sativa, ruderalis, landrace, phenotype, genotype, selection, seed-production]
+sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 ---
 
-# Cannabis Genetics and Breeding
+## Cannabis Genetics and Breeding
 
-Cannabis breeding is the practice of manipulating gene frequencies within a population to produce offspring with desired traits. Understanding basic genetics is essential for selecting parent plants, stabilizing strains, and making informed decisions about which seeds or clones to grow.
+### Taxonomic Varieties
 
-## Basic Genetics Terminology
+Three major taxonomic groups are recognized within Cannabis:
 
-- **Gene**: A unit of heredity controlling a single characteristic (leaf color, potency, smell, etc.)
-- **Allele**: Alternative forms of one gene (e.g., purple bud allele vs. dark red bud allele)
-- **Genotype**: The genetic constitution — what genes the plant carries (not visible)
-- **Phenotype**: The observable expression — what the plant looks, smells, and tastes like
-- **Homozygous**: Both alleles at a locus are identical (BB or bb) — breeds true for that trait
-- **Heterozygous**: Alleles at a locus differ (Bb) — dominant trait is expressed but recessive is carried
-- **Dominant**: Expressed when only one allele is present (e.g., BB or Bb both show the dominant trait)
-- **Recessive**: Only expressed when both alleles are present (bb)
+**Cannabis sativa**:
+- Tall (2-5+ meters), with long internodes and narrow leaflets
+- Originally from equatorial regions; adapted to long growing seasons
+- Longer flowering time (8-16+ weeks)
+- Effects traditionally described as cerebral, energetic, uplifting
+- Higher THC-to-CBD ratios in modern selections
 
-## Key Breeding Concepts
+**Cannabis indica**:
+- Shorter (1-2 meters), bushy, with wide leaflets
+- Originated in Central Asian highlands (Hindu Kush, Afghanistan)
+- Shorter flowering time (6-9 weeks)
+- Effects traditionally described as body-centered, sedating, relaxing
+- Historically used for hashish production
 
-### Hardy-Weinberg Equilibrium
+**Cannabis ruderalis**:
+- Small (0.5-1 meter), auto-flowering (flowers based on age rather than photoperiod)
+- Originated in Central/Eastern Europe and Russia
+- Low THC content
+- Used in modern breeding to confer auto-flowering traits to hybrids
 
-In a population that is not evolving, gene frequencies remain constant from generation to generation. Equilibrium is disrupted by:
-1. Mutation — changes in genetic material
-2. Gene migration — introduction of new genes from outside populations (introgression)
-3. Genetic drift — random changes in small populations
-4. Non-random mating — some plants breed more than others
-5. Natural selection — environmental pressures eliminate certain genotypes
+### Genetic Diversity and Landraces
 
-Breeding is about intentionally disrupting equilibrium to promote desired traits.
+Clarke emphasizes the critical importance of genetic diversity in Cannabis. Centuries of natural and human selection have produced distinct landrace varieties adapted to specific niches worldwide — from tropical Southeast Asia to the Hindu Kush mountains to equatorial Africa. Each landrace population carries a unique combination of genes for flowering time, potency, pest resistance, climate adaptation, and cannabinoid/terpene profile.
 
-### Test Cross
+This genetic diversity is threatened by:
+- Commercial hybridization replacing native landraces
+- Wind-borne pollen from introduced strains contaminating landrace gene pools
+- The potential for patented hybrid strains to dominate agriculture
 
-A test cross determines whether a plant showing a dominant trait is homozygous (BB) or heterozygous (Bb):
+### Breeding Strategies
 
-1. Cross the unknown plant with a plant showing the recessive trait (bb)
-2. If ANY offspring show the recessive trait, the unknown parent is heterozygous (Bb)
-3. If ALL offspring show the dominant trait, the unknown parent is homozygous (BB)
-4. Large numbers of offspring are needed for reliable results
+**Simple cross**: Crossing a male from one strain with a female from another produces F1 hybrid seed. F1 hybrids typically show hybrid vigor (heterosis) — they are more uniform and vigorous than either parent. However, F2 generation (self-pollinated F1) will show significant segregation and variation.
 
-Rules:
-- The plant with the dominant trait is always crossed with a recessive-trait plant
-- If any recessive offspring appear, the unknown genotype is heterozygous
-- If all offspring show the dominant trait, the genotype is homozygous dominant
+**Backcrossing**: Crossing an F1 back to one of the parent strains to reinforce specific traits while maintaining some hybrid vigor. Repeated backcrossing (BC1, BC2, etc.) progressively returns the genotype toward the recurrent parent while retaining selected traits from the donor.
 
-## True Breeding Strains (IBL)
+**Inbreeding**: Repeated self-pollination or crossing of siblings to fix desirable traits. Creates homozygous lines. Excessive inbreeding reduces genetic diversity and can expose deleterious recessive traits (inbreeding depression).
 
-An In-Bred Line (IBL) is a strain where 90%+ of phenotypes breed true within the population. Creating an IBL requires:
+**Selection**: The most fundamental breeding technique. Identifying individual plants with desired traits (early flowering, high potency, disease resistance, specific aroma profile) and using them as parents for the next generation. Clarke advocates for preserving as wide a genetic base as possible while selecting for improvement.
 
-1. Identify 4-5 key traits you want to lock down (potency, flavor, yield, color, etc.)
-2. For each trait, determine the genotype of the parent plants through test crosses
-3. Select parent plants that are homozygous dominant (BB) for the desired traits — these are "donor" plants
-4. Backcross offspring to the donor parent repeatedly to increase homozygosity
-5. Select offspring at each generation that most closely match the ideal phenotype
-6. Keep detailed records of every cross and the resulting phenotypes
+### Sex Determination and Pollination
 
-Known true-breeding strains like Skunk #1 and Afghani #1 took 20+ years to stabilize. Anyone claiming a true-breeding strain in 1-2 years started with genetics that were already mostly stable.
+Cannabis is normally dioecious (separate sexes), controlled by an X/Y chromosome system (males are XY, females are XX). Under stress, female plants can develop male flowers (hermaphroditism), a genetically influenced trait.
 
-### Backcrossing
+Controlled breeding requires isolation to prevent unwanted pollen contamination. Clarke describes the standard approach: selecting desirable males and females, isolating them, and collecting pollen for hand-pollination of specific female flowers.
 
-Cross offspring back to the original parent (kept alive through cloning):
-- First backcross: 50% homozygous, 50% heterozygous for the target trait
-- Second backcross (squaring): may achieve 100% homozygous for the target trait
-- Keep the parent alive as a clone to preserve exact genetics
+### Phenotype vs. Genotype
 
-### Cubing
+A single genetic cross can produce plants with dramatically different phenotypes — different growth patterns, flowering times, potencies, aromas, and morphological characteristics. This is why clones (vegetative cuttings) are preferred for consistent production, while seed production is necessary for breeding programs.
 
-A less controlled method to increase frequency of desired traits:
-1. Select a mother plant with desired traits
-2. Collect pollen from males with similar traits
-3. Cross pollen with clones of the mother
-4. Select offspring that most resemble the mother
-5. Repeat for 3+ generations (BX1, BX2, BX3...)
+### The Corn Blight Warning
 
-
-## Advanced Breeding Strategies
-
-For Vic High's detailed strategies on cubing, generational inbreeding, selective pressure, and cannabis species/chemotype classification, see [[cannabis-breeding-basics]].
-
-## Strain Development Approaches
-
-### Selective Breeding (The Rev)
-The Rev's approach emphasizes selecting for specific terpene and cannabinoid profiles rather than just potency or yield. Key concepts:
-
-- **Targeted trait selection**: Identify 3-5 primary target traits (e.g., myrcene-dominant terpene profile, THCV production, specific flower structure) and breed toward those simultaneously
-- **Phenotype hunting**: Grow large populations (50-100+ seeds) from each cross to find rare recombinant phenotypes. Most seeds from a cross are intermediates; the exceptional ones appear in 1-5% of offspring
-- **Male selection**: Males contribute 50% of offspring genetics. Select males based on: stem structure, leaf morphology, internode spacing, resistance to stress, and ideally through pollen testing or test crosses before full breeding use
-- **Terpene-focused breeding**: Terpene profiles are more heritable than cannabinoid profiles. Selecting for terpenes often stabilizes cannabinoid ratios as a side effect
-
-### Landrace and Heirloom Preservation
-- Landrace strains from their native growing regions represent irreplaceable genetic reservoirs
-- Breeding programs benefit from incorporating landrace genetics for stress resistance, unique terpene profiles, and genetic diversity
-- Documented landrace regions: Hindu Kush mountains (indica), Thai/Lao/Cambodian highlands (sativa), African equatorial zones, Central American highlands
-
-### Chemotype Breeding
-Cannabis chemotypes (I = high THC/CBD ratio, II = balanced THC:CBD, III = high CBD) are genetically determined. Selecting parents from the same chemotype produces consistent offspring. Cross-chemotype breeding can produce Type II (1:1) plants useful for medical applications. See [[cannabis-health-therapeutics]] for therapeutic implications of chemotype selection.
+Clarke draws a direct parallel to the 1970 Southern corn leaf blight that devastated American corn production. A widely planted hybrid shared a common cytoplasm — when a mutant pathogen appeared, it was vulnerable across millions of acres. He warns that patented, genetically uniform Cannabis hybrids face the same risk: if new varieties replace the diverse landrace gene pool, a single pathogen could devastate the entire crop. Preserving genetic diversity through seed reserves of landrace and heirloom varieties is essential.
 
 ## See Also
 
-- [[cannabis-breeding-basics]] — Advanced breeding strategies (Vic High), species, chemotypes
-- [[cannabis-plant-nutrition]] — Plant nutrition and genetics interactions
-- [[cannabis-living-soil-guide]] — Growing environment for breeding projects
-- [[seed-saving-techniques]] — Seed saving principles applicable to cannabis
-- [[robert-clarke]] — cannabis botanist, "Marijuana Botany", foundational breeding methodology
+- [[cannabis-plant-anatomy]]
+- [[cannabis-extraction-methods]]

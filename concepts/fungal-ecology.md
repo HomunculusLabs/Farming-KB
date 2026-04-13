@@ -136,3 +136,8 @@ Select saprophytic mushrooms can outcompete parasitic forest pathogens:
 - [[fungicolous-fungi]]
 - [[litter-wood-decomposing-fungi]]
 - [[marine-estuarine-fungi]]
+- [[fungal-conservation-strategies]]
+- [[extremophilic-fungi]]
+- [[truffle-cultivation-basics]]
+- [[fungal-interactions-with-microbes]]
+- [[fungal-succession-in-decomposition]]
