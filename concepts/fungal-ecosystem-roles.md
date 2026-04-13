@@ -103,4 +103,4 @@ Mycelium-insect interactions are crucial to ecosystem recovery:
 ## Related
 
 - [[john-dighton]]
-- [[fungi-climate-change]]
+- [[fungi-in-climate-change]]

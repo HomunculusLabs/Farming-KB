@@ -147,6 +147,6 @@ It is important to understand that strain selection is less important than genet
 ## Related Topics
 
 - [[mushroom-agar-work]] — isolating and selecting the best genetics within a strain
-- [[psilocybin-mushroom-cultivation-basics]] — cultivation overview for applying strain knowledge
+- [[psilocybin-mushroom-cultivation]] — cultivation overview for applying strain knowledge
 - [[mushroom-yield-optimization]] — maximizing yield regardless of strain
-- [[psilocybin-mushroom-potency]] — factors affecting psilocybin content
+- [[psilocybin-mushroom-chemistry]] — factors affecting psilocybin content

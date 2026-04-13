@@ -22,7 +22,7 @@ sources:
 
 # Psilocybin Psychotherapy
 
-The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early psycholytic therapy to modern clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-effects-and-safety]] for pharmacological details.
+The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early psycholytic therapy to modern clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-chemistry]] for pharmacological details.
 
 ## Early Clinical History (1950s-1970s)
 
@@ -151,7 +151,7 @@ Gartz noted that early European researchers documented both remarkable therapeut
 
 ## See Also
 
-- [[psilocybin-mushroom-effects-and-safety]] — Pharmacology and toxicity
+- [[psilocybin-mushroom-chemistry]] — Pharmacology and toxicity
 - [[psilocybin-mushroom-chemistry]] — Chemical composition and analysis
 - [[psychedelic-mushroom-history]] — Historical timeline
 - [[jochen-gartz]] — Researcher who documented European psycholytic therapy

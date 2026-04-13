@@ -116,6 +116,6 @@ Spore syringes and spore prints are legal to possess and sell in many jurisdicti
 ## Related Topics
 
 - [[agar-work-guide]] — germinating spores on agar and isolating cultures
-- [[mushroom-sterile-technique]] — maintaining sterility during syringe preparation
+- [[mushroom-sterile-technique-detailed]] — maintaining sterility during syringe preparation
 - [[mushroom-laminarar-flow-hood]] — the ideal workspace for syringe preparation
 - [[grain-spawn-preparation]] — using spore syringes to inoculate grain jars

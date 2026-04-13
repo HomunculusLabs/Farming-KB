@@ -97,7 +97,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Written emergency contact list
 
 ### First Aid and Health
-- Complete first aid kit (see [[homestead-first-aid-kit-list]])
+- Complete first aid kit (see [[homestead-first-aid-guide]])
 - Prescription medications (30-day supply minimum)
 - Mosquito repellent
 - Sunscreen
@@ -144,7 +144,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Ensure access to feed and water for 7+ days (water bowls may blow away — secure them)
 - Do not leave animals in pastures that may flood from storm surge or rainfall
 - Tag or mark all animals with identification
-- Have veterinary first aid supplies ready (see [[homestead-first-aid-kit-list]])
+- Have veterinary first aid supplies ready (see [[homestead-first-aid-guide]])
 - After the storm, check animals for injuries and provide clean water immediately
 
 ## Recovery After Hurricane
@@ -174,7 +174,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety]] — General safety principles and emergency preparedness
+- [[mushroom-foraging-safety-guide]] — General safety principles and emergency preparedness
 - [[flood-preparedness-guide]] — Flooding is often the most destructive component of hurricanes
-- [[homestead-first-aid-kit-list]] — Comprehensive first aid supplies
+- [[homestead-first-aid-guide]] — Comprehensive first aid supplies
 - [[homestead-communication]] — Communication during extended power outages

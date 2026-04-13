@@ -183,4 +183,4 @@ Porcini are among the most versatile and prized culinary mushrooms:
 ## Related
 
 - [[truffle-guide]]
-- [[mushroom-cooking-guide]]
+- [[mushroom-cooking-techniques]]

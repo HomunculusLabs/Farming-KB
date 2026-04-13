@@ -31,7 +31,7 @@ sources:
 
 # Cannabis Living Soil Amendment Schedule
 
-A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-cycle-theory]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-indoor-living-soil]], and [[cannabis-plant-nutrition]]. Designed for indoor living soil beds with KNF supplement inputs.
+A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-cycle-theory]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-living-soil-guide]], and [[cannabis-plant-nutrition]]. Designed for indoor living soil beds with KNF supplement inputs.
 
 ## Pre-Plant (1-2 Weeks Before)
 
@@ -106,7 +106,7 @@ A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-
 - **Water**: Reduce frequency \u2014 let soil dry more between waterings
 - **Environment**: 65-75\u00b0F day, 58-65\u00b0F night, 40-45% humidity
 - **Observe**: Trichomes shifting clear \u2192 milky \u2192 amber. Pistils browning from tips inward
-- **Harvest decision**: See [[cannabis-harvesting-and-curing]] for trichome indicators
+- **Harvest decision**: See [[cannabis-harvest-and-curing]] for trichome indicators
 
 ## Post-Harvest (Soil Recovery)
 
@@ -134,9 +134,9 @@ A synthesized week-by-week schedule combining [[knf-preparations]], [[nutritive-
 
 - [[knf-preparations]] \u2014 complete input guide with dilution rates
 - [[nutritive-cycle-theory]] \u2014 Cho's growth stage framework explained
-- [[cannabis-indoor-living-soil]] \u2014 soil mix recipe and no-till cycle
+- [[cannabis-living-soil-guide]] \u2014 soil mix recipe and no-till cycle
 - [[cannabis-vegetative-stage]] \u2014 training techniques and environment
 - [[cannabis-flowering-stage]] \u2014 bud development and harvest timing
 - [[cannabis-plant-nutrition]] \u2014 deficiency diagnosis and organic sources
 - [[compost-tea-aact]] \u2014 aerated compost tea method
-- [[soil-food-web]] \u2014 why biological inputs work
+- [[soil-food-web-nutrient-cycling]] \u2014 why biological inputs work

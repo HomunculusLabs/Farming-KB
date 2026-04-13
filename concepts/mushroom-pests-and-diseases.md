@@ -24,14 +24,14 @@ sources:
 
 # Mushroom Pests and Diseases
 
-Mushroom crops face threats from competitor molds, bacterial pathogens, viral diseases, and insect pests. Prevention through [[mushroom-sterile-technique]] and environmental control is far more effective than treatment. This page covers identification and IPM for mushroom cultivation — complementing [[mushroom-contamination-troubleshooting]] which focuses on lab/stage contamination.
+Mushroom crops face threats from competitor molds, bacterial pathogens, viral diseases, and insect pests. Prevention through [[mushroom-sterile-technique-detailed]] and environmental control is far more effective than treatment. This page covers identification and IPM for mushroom cultivation — complementing [[mushroom-contamination-identification]] which focuses on lab/stage contamination.
 
 ## Competitor Molds
 
 Molds are the most common contaminants in mushroom cultivation. They compete for substrate nutrients and can overrun mushroom mycelium (Stamets, *The Mushroom Cultivator*).
 
 ### Trichoderma (Forest Green Mold)
-The most damaging competitor mold. Parasitizes mushrooms directly. Encouraged by acid conditions, wet casings, undecomposed woody tissue, and potting soil in casing. Control: raise pH of surrounding area, lower humidity, careful picking, remove diseased mushrooms, improve air exchange (3–5 exchanges/hour at 85–92% humidity). Mites spread Trichoderma spores — control mite populations. See [[mushroom-contamination-troubleshooting]] for treatment.
+The most damaging competitor mold. Parasitizes mushrooms directly. Encouraged by acid conditions, wet casings, undecomposed woody tissue, and potting soil in casing. Control: raise pH of surrounding area, lower humidity, careful picking, remove diseased mushrooms, improve air exchange (3–5 exchanges/hour at 85–92% humidity). Mites spread Trichoderma spores — control mite populations. See [[mushroom-contamination-identification]] for treatment.
 
 ### Penicillium (Bluish Green Mold)
 Common on grain spawn, compost, and casing soil. Humans are the most frequent carriers. Isolated outbreaks contained by improving hygiene and air filtration. Penicillium discovery led to Alexander Fleming's penicillin.
@@ -89,7 +89,7 @@ Control: thorough pasteurization, proper substrate preparation, avoiding anaerob
 
 ## IPM Approach for Mushroom Cultivation
 
-1. **Prevention first** — [[mushroom-sterile-technique]], proper pasteurization, clean growing environment
+1. **Prevention first** — [[mushroom-sterile-technique-detailed]], proper pasteurization, clean growing environment
 2. **Environmental control** — correct temperature, humidity, and air exchange make conditions favorable for mushrooms, not competitors
 3. **Exclusion** — microporous filters, sealed rooms, sticky traps at entry points
 4. **Monitoring** — regular scouting for early signs of pests or disease
@@ -99,4 +99,4 @@ Control: thorough pasteurization, proper substrate preparation, avoiding anaerob
 
 The answer to disease and pest control in mushroom growing is strict hygiene, for which there can be no substitute (Stamets).
 
-See [[fungal-biology-lifecycle]] for understanding how competitor organisms interact with mushroom mycelium, and [[soil-food-web]] for the ecological context of these organisms in decomposition systems.
+See [[fungal-biology-fundamentals]] for understanding how competitor organisms interact with mushroom mycelium, and [[soil-food-web-nutrient-cycling]] for the ecological context of these organisms in decomposition systems.

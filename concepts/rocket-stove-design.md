@@ -125,4 +125,4 @@ A well-built rocket stove achieves:
 - Check for rust or corrosion on steel components
 - Replace the grate/burn tunnel floor when it burns through (this is a wear item)
 
-For wood-fired cooking applications, a [[cob-oven-construction]] complements the rocket stove for baking. See [[homestead-emergency-preparedness]] for backup cooking during power outages.
+For wood-fired cooking applications, a [[cob-oven-construction]] complements the rocket stove for baking. See [[emergency-preparedness]] for backup cooking during power outages.

@@ -188,9 +188,9 @@ To harvest: hold base, support cluster weight, cut thick base with small sharp k
 ## Related
 
 - [[mushroom-species-guide]] — Overview of cultivated mushroom species
-- [[medicinal-mushrooms-guide]] — Maitake's medicinal compounds (D-fraction, beta-glucans)
+- [[medicinal-mushroom-guide]] — Maitake's medicinal compounds (D-fraction, beta-glucans)
 - [[mushroom-substrates]] — Substrate science and alternatives
-- [[mushroom-sterile-technique]] — Sterile inoculation procedures
-- [[mushroom-spawn-making]] — Grain and sawdust spawn production
+- [[mushroom-sterile-technique-detailed]] — Sterile inoculation procedures
+- [[mushroom-spawn-making-detailed]] — Grain and sawdust spawn production
 - [[mushroom-pasteurization]] — Pasteurization methods for substrate bags
-- [[mushroom-cultivation-methods-comparison]] — Comparison of cultivation approaches
+- [[mushroom-cultivation-methods]] — Comparison of cultivation approaches

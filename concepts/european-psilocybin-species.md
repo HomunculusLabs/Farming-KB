@@ -158,7 +158,7 @@ On December 16, 1981, three teenagers on Whidbey Island, WA collected Galerina s
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution]] — Global distribution patterns
+- [[psilocybin-mushroom-chemistry]] — Global distribution patterns
 - [[mushroom-species-guide]] — Cultivated species profiles
 - [[fungal-research-compound-reference]] — Alkaloid chemistry data
 - [[jochen-gartz]] — Primary researcher

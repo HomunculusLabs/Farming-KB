@@ -125,8 +125,8 @@ The following raw papers in this wiki contain relevant but not yet fully mined d
 ## See Also
 
 - [[cannabis-root-microbiome]] — detailed research findings from Winston et al.
-- [[cannabis-indoor-living-soil]] — practical living soil cultivation
-- [[soil-food-web]] — the biological foundation
+- [[cannabis-living-soil-guide]] — practical living soil cultivation
+- [[soil-food-web-nutrient-cycling]] — the biological foundation
 - [[endophytic-fungi]] — fungal endophyte biology
 - [[mycorrhizal-fungi]] — fungal root symbiosis
 - [[max-winston]] — lead researcher

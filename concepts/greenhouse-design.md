@@ -38,13 +38,13 @@ A greenhouse extends the growing season, protects crops from weather, and enable
 
 **Cold Frame** — Simple bottomless box with angled glazing. 2-8 sq ft. Extends season 4-6 weeks in spring/fall. Best for hardening off seedlings, growing cold-hardy greens. DIY cost: $50-150.
 
-**Low Tunnel** — Metal or PVC hoops covered with row cover or poly film. 3-4 ft tall, any length. Portable, excellent for [[cover-cropping]] beds and season extension. Cost: $0.50-1.00/linear ft.
+**Low Tunnel** — Metal or PVC hoops covered with row cover or poly film. 3-4 ft tall, any length. Portable, excellent for [[cover-cropping-guide]] beds and season extension. Cost: $0.50-1.00/linear ft.
 
 **High Tunnel / Hoop House** — Quonset or gothic arch, 12-30 ft wide, any length. No permanent heating. Roll-up sides for ventilation. The core homestead workhorse — Eliot Coleman's "unheated greenhouse" model. Cost: $2-6/sq ft (DIY) to $8-15/sq ft (kit).
 
 **Attached Lean-To** — Shares a wall with an existing structure. Good passive solar gain from the house wall as thermal mass. Limited by available wall length. Structural attachment must handle wind/snow loads.
 
-**Freestanding Greenhouse** — Full独立 structure with foundation. Highest control over environment. Suitable for [[composting-systems]] integration, [[seed-saving]], and year-round growing. Cost: $10-30/sq ft.
+**Freestanding Greenhouse** — Full独立 structure with foundation. Highest control over environment. Suitable for [[composting-systems]] integration, [[seed-saving-techniques]], and year-round growing. Cost: $10-30/sq ft.
 
 ## Passive Solar Design
 
@@ -91,7 +91,7 @@ See [[seasonal-planning]] for full monthly calendar. Greenhouse-specific schedul
 
 **Summer (Jun-Aug)** — Tomatoes, peppers, cucumbers, basil in ground. Remove shade cloth for full sun crops; add for greens. Maximize ventilation.
 
-**Fall (Sep-Nov)** — Second planting of greens, carrots, brassicas. Sow cover crops in beds being rotated out. See [[cover-cropping]].
+**Fall (Sep-Nov)** — Second planting of greens, carrots, brassicas. Sow cover crops in beds being rotated out. See [[cover-cropping-guide]].
 
 ## Crop Selection by Season
 
@@ -106,7 +106,7 @@ See [[seasonal-planning]] for full monthly calendar. Greenhouse-specific schedul
 
 **Rainwater Catchment** — Gutters on greenhouse feed cisterns. 1" rain on 500 sq ft roof = 310 gallons. Use for irrigation, [[water-management]].
 
-**Worm Bins** — [[vermicompost]] bins under benches process greenhouse waste. Worm castings go directly into beds. Optimal temp 55-77°F — greenhouse provides winter warmth.
+**Worm Bins** — [[vermicomposting]] bins under benches process greenhouse waste. Worm castings go directly into beds. Optimal temp 55-77°F — greenhouse provides winter warmth.
 
 **Seed Starting Station** — Heat mats + grow lights on shelving. 4-tier shelf (2x4 ft footprint) holds 16 standard flats. Start seeds 6-8 weeks before transplant date.
 

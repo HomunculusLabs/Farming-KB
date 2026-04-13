@@ -111,7 +111,7 @@ Fungi secrete antibiotics to:
 - Remove competing microorganisms from their territory
 - Obtain nitrogen from dead bacteria (plant tissues are sugar-rich but protein-poor)
 - Species that form ink-caps, puffballs, and bird's nest fungi are adept bacterial predators
-- See [[fungal-symbiosis-with-plants]] and [[soil-food-web-advanced]] for ecological context
+- See [[fungal-symbiosis-types]] and [[soil-food-web-nutrient-cycling]] for ecological context
 
 ## Nematode-Trapping Fungi
 
@@ -126,9 +126,9 @@ Some fungi are active predators of nematode worms:
 - [[fungal-spore-biology]] — How fungal spores spread, including indoors
 - [[nicholas-money]] — Primary source for mycotoxin research
 - [[mushroom-species-guide]] — Edible vs. poisonous identification
-- [[soil-food-web-advanced]] — Fungal roles in soil ecology
-- [[fungal-symbiosis-with-plants]] — Beneficial fungal associations
+- [[soil-food-web-nutrient-cycling]] — Fungal roles in soil ecology
+- [[fungal-symbiosis-types]] — Beneficial fungal associations
 
 ## Related
 
-- [[homestead-first-aid-kit-list]]
+- [[homestead-first-aid-guide]]

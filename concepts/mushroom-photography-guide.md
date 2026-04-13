@@ -184,10 +184,10 @@ For documentation and identification purposes:
 - Clearly label any significant digital manipulation
 - Compositional cropping and exposure adjustment are standard
 - Adding or removing specimens from a scene should be disclosed
-- See [[sustainable-mushroom-foraging]] for ethical foraging while photographing
+- See [[mushroom-foraging-safety-guide]] for ethical foraging while photographing
 
 ## See Also
 
-- [[sustainable-mushroom-foraging]] -- ethical practices while photographing in the field
+- [[mushroom-foraging-safety-guide]] -- ethical practices while photographing in the field
 - [[mushroom-festivals-and-events]] -- photography competitions and workshops at events
 - [[edible-wild-mushrooms-by-region]] -- regional subjects for your photography

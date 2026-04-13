@@ -32,7 +32,7 @@ sources:
 
 # First-Time Grower Common Mistakes
 
-The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others' failures before making your own. See [[mushroom-contamination-troubleshooting]] and [[cannabis-pest-management]] for detailed fixes.
+The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others' failures before making your own. See [[mushroom-contamination-identification]] and [[cannabis-pest-management]] for detailed fixes.
 
 ---
 
@@ -41,7 +41,7 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ### 1. Skipping Sterile Technique
 **What happens**: Contamination wipes out your entire grow -- green mold, bacteria, or yeasts take over before mycelium colonizes.
 **Why**: Airborne spores are everywhere. Opening jars outside the SAB, not flame-sterilizing tools, or working in a dirty room introduces competitors.
-**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See [[mushroom-sterile-technique]].
+**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See [[mushroom-sterile-technique-detailed]].
 
 ### 2. Substrate Too Wet
 **What happens**: Bacterial contamination (sour rot), anaerobic conditions, stunted mycelial growth, grain jars that never fully colonize.
@@ -100,7 +100,7 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ### 12. Light Burns and Stress
 **What happens**: Bleached, yellowing leaves at the top of canopy. Tips curling upward. Bud structure loose and airy.
 **Why**: Lights too close, too intense, or wrong spectrum. Seedlings under high PPFD stretch or bleach.
-**How to avoid**: Start seedlings at PPFD 200-400. Veg at 400-600. Flower at 800-1200. Adjust height with a PAR meter. See [[cannabis-light-spectrums]].
+**How to avoid**: Start seedlings at PPFD 200-400. Veg at 400-600. Flower at 800-1200. Adjust height with a PAR meter. See [[cannabis-lighting-guide]].
 
 ### 13. Nutrient Burn from Overfeeding
 **What happens**: Brown, crispy leaf tips (tip burn). Dark green foliage with curled "claw" leaves. Excessive salt buildup in soil.
@@ -115,12 +115,12 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 ### 15. Harvesting Too Early
 **What happens**: Buds are airy, low potency, clear trichomes indicate undeveloped cannabinoids. Lower yield.
 **Why**: Impatience or following breeder timelines too rigidly without checking trichomes.
-**How to avoid**: Use a 60-100x loupe. Harvest when 50-70% trichomes are cloudy with 10-30% amber. See [[cannabis-harvesting-and-curing]].
+**How to avoid**: Use a 60-100x loupe. Harvest when 50-70% trichomes are cloudy with 10-30% amber. See [[cannabis-harvest-and-curing]].
 
 ### 16. Rushing the Dry and Cure
 **What happens**: Harsh, chlorophyll-tasting smoke that burns the throat. Buds crumble to dust or develop mold in jars.
 **Why**: Drying too fast (high heat/low humidity) or skipping the cure entirely.
-**How to avoid**: Dry at 60-70F, 45-55% RH for 7-14 days. Cure in glass jars, burping daily for 2 weeks minimum, 4-8 weeks for best results. See [[cannabis-harvest-techniques]].
+**How to avoid**: Dry at 60-70F, 45-55% RH for 7-14 days. Cure in glass jars, burping daily for 2 weeks minimum, 4-8 weeks for best results. See [[cannabis-harvest-and-curing]].
 
 ### 17. Light Leaks During Flower
 **What happens**: Hermaphroditism (bananas/seeds in buds), delayed flowering, stretched plants, reduced yield.
@@ -146,11 +146,11 @@ The 20 most common mistakes split between mushroom cultivation and cannabis cult
 
 ## See Also
 
-- [[mushroom-contamination-troubleshooting]] — contaminant identification and response
-- [[mushroom-sterile-technique]] — proper lab procedures
+- [[mushroom-contamination-identification]] — contaminant identification and response
+- [[mushroom-sterile-technique-detailed]] — proper lab procedures
 - [[mushroom-cultivation-basics]] — 10-step cultivation process
 - [[cannabis-vegetative-stage]] — veg environment, training, watering
 - [[cannabis-flowering-stage]] — flower timeline, nutrition, environment
 - [[cannabis-plant-nutrition]] — NPK, organic sources, deficiency diagnosis
-- [[cannabis-harvesting-and-curing]] — proper harvest, dry, and cure
+- [[cannabis-harvest-and-curing]] — proper harvest, dry, and cure
 - [[cannabis-pest-management]] — IPM and organic controls

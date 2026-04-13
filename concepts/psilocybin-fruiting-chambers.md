@@ -85,4 +85,4 @@ Three distinct stages of carpophore development, each with specific environmenta
 - [[psilocybin-liquid-culture]] — Mycelial liquid culture method and species parameters
 - [[mushroom-indoor-cultivation]] — General indoor growing environments and parameters
 - [[pf-tek-guide]] — Complete PF TEK documentation
-- [[mushroom-contamination-troubleshooting]] — Contaminant identification and prevention
+- [[mushroom-contamination-identification]] — Contaminant identification and prevention

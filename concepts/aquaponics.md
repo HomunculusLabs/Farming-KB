@@ -167,10 +167,10 @@ Aquaponics fits into permaculture systems as a Zone 1 intensive production eleme
 - Fish waste can be composted or added to [[composting-systems]] when cleaning tanks
 - System water can be used to irrigate outdoor gardens (nutrient-rich)
 - Worms in media beds (vermiaquaponics) process solid waste into vermicompost
-- Solar-powered pumps integrate with [[homestead-renewable-energy]] systems
+- Solar-powered pumps integrate with [[homestead-energy-conservation]] systems
 - Greenhouse integration provides climate control and extends the growing season
 - Feed fish with [[duck-keeping]] or [[chicken-keeping]] scraps (black soldier fly larvae from compost are excellent fish feed)
-- Scale output by integrating with [[pond-and-aquaculture]] and [[rainwater-harvesting]]
+- Scale output by integrating with [[pond-and-aquaculture]] and [[rainwater-harvesting-systems]]
 
 ## Troubleshooting
 

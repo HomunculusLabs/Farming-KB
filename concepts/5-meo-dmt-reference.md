@@ -196,4 +196,4 @@ The Colorado River toad has become a conservation concern due to increasing dema
 ## See Also
 
 - [[dmt-reference]] — N,N-DMT chemistry, pharmacology, and effects
-- [[psilocybin-mushroom-potency]]
+- [[psilocybin-mushroom-chemistry]]

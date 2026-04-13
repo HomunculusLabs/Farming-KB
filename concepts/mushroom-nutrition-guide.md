@@ -102,13 +102,13 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 ### Ergothioneine
 
 - Unique antioxidant found in high concentrations in mushrooms
-- See [[medicinal-mushroom-compounds]] for detailed discussion
+- See [[medicinal-mushroom-guide]] for detailed discussion
 - Porcini mushrooms are the richest known dietary source
 
 ### Beta-Glucans
 
 - Immune-modulating polysaccharides
-- See [[medicinal-mushroom-compounds]] for detailed discussion
+- See [[medicinal-mushroom-guide]] for detailed discussion
 - All edible mushrooms contain beta-glucans; content varies by species
 
 ### Glutathione
@@ -194,6 +194,6 @@ Most culinary mushrooms should be cooked. Raw button mushrooms contain agaritine
 
 ## See Also
 
-- [[medicinal-mushroom-compounds]] — bioactive compounds beyond basic nutrition
+- [[medicinal-mushroom-guide]] — bioactive compounds beyond basic nutrition
 - [[functional-mushroom-products]] — concentrated mushroom products for therapeutic use
 - [[mushroom-nutrition-guide]] — this page

@@ -103,7 +103,7 @@ Common blend (per cubic yard): 2 cups bone meal, 2 cups rock phosphate, 2 cups k
 
 ### Mulch Layer
 
-1-2 inch mulch layer (straw, leaves, alfalfa, compost) conserves moisture, feeds the food web, suppresses weeds, and buffers temperatures. Living mulches like clover serve as a [[cover-cropping|cover crop]].
+1-2 inch mulch layer (straw, leaves, alfalfa, compost) conserves moisture, feeds the food web, suppresses weeds, and buffers temperatures. Living mulches like clover serve as a [[cover-cropping-guide|cover crop]].
 
 ## No-Till Principles
 

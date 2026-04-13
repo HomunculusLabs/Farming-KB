@@ -182,4 +182,4 @@ Medical treatment: Antitoxin administration and intensive respiratory support. R
 
 ## Related Topics
 
-For the complete canning process, see [[mason-jar-preserving-guide]]. For alternative preservation methods that avoid botulism risk entirely, see [[smoking-meat-and-fish]] and [[root-vegetable-storage-guide]]. Understanding safe canning is part of broader [[food-fermentation]] safety practices on the homestead.
+For the complete canning process, see [[mason-jar-preserving-guide]]. For alternative preservation methods that avoid botulism risk entirely, see [[smoking-meat-and-fish]] and [[root-vegetable-storage-guide]]. Understanding safe canning is part of broader [[food-fermentation-guide]] safety practices on the homestead.

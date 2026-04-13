@@ -160,16 +160,16 @@ Bad sampling produces bad data. Follow this protocol:
 
 - [[interpreting-soil-test-results]] — how to read your lab report and plan amendments
 - [[soil-fertility-management]] — comprehensive fertility framework, COF recipe
-- [[soil-food-web]] — the biological engine that makes nutrients available
+- [[soil-food-web-nutrient-cycling]] — the biological engine that makes nutrients available
 - [[cannabis-plant-nutrition]] — cannabis-specific nutrient needs and organic sources
 - [[knf-preparations]] — biological inputs as alternative to mineral amendments
-- [[no-till-farming]] — preserving soil structure and biology
+- [[no-till-gardening-method]] — preserving soil structure and biology
 
 ## Related
 
 - [[dynamic-accumulators]]
 - [[composting-systems]]
-- [[vermicompost]]
+- [[vermicomposting]]
 - [[effective-microorganisms-em]]
 - [[common-homestead-weeds]]
 - [[soil-health-indicators]]

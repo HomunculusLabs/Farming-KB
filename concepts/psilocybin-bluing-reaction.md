@@ -22,7 +22,7 @@ sources:
 
 # Psilocybin Bluing Reaction
 
-The characteristic blue-to-green discoloration observed in psilocybin-producing mushrooms when bruised, handled, or aged. Understanding this reaction is essential for [[mushroom-identification]] and distinguishes psychoactive Agaricales from non-psychoactive species. See also [[psilocybin-mushroom-potency]] for alkaloid content and [[mushroom-toxicity-identification-warnings]] for lookalike species.
+The characteristic blue-to-green discoloration observed in psilocybin-producing mushrooms when bruised, handled, or aged. Understanding this reaction is essential for [[mushroom-identification]] and distinguishes psychoactive Agaricales from non-psychoactive species. See also [[psilocybin-mushroom-chemistry]] for alkaloid content and [[mushroom-toxicity-identification-warnings]] for lookalike species.
 
 ## Biochemical Mechanism
 
@@ -94,7 +94,7 @@ Iron chloride (FeCl₃) produces a deep blue color with *Inocybe aeruginascens* 
 ## See Also
 
 - [[mushroom-identification]] — Field identification methods and tools
-- [[psilocybin-mushroom-potency]] — Alkaloid content across species
+- [[psilocybin-mushroom-chemistry]] — Alkaloid content across species
 - [[mushroom-toxicity-identification-warnings]] — Dangerous lookalikes
 - [[european-psilocybin-species]] — European psychoactive species
-- [[psilocybin-mushroom-distribution]] — Global distribution
+- [[psilocybin-mushroom-chemistry]] — Global distribution

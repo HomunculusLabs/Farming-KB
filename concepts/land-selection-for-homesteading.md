@@ -17,7 +17,7 @@ Soil is the foundation of a productive homestead. Evaluate it thoroughly before 
 
 ### Soil Types and Their Characteristics
 - **Loam** — the gold standard. Balanced mixture of sand, silt, and clay. Good drainage, good water retention, easy to work. If you find loam, consider it a major asset.
-- **Clay** — high nutrient content but poor drainage. Can be improved with organic matter, sand, and raised beds. Turns rock-hard when dry, sticky when wet. See [[soil-food-web]] for amendment strategies.
+- **Clay** — high nutrient content but poor drainage. Can be improved with organic matter, sand, and raised beds. Turns rock-hard when dry, sticky when wet. See [[soil-food-web-nutrient-cycling]] for amendment strategies.
 - **Sandy** — excellent drainage but poor nutrient and water retention. Requires frequent irrigation and heavy organic matter additions. Warms quickly in spring.
 - **Silt** — smooth, fertile, good moisture retention. Can compact easily. Often found in floodplains.
 - **Rocky** — challenging for cultivation but may have good underlying soil. Raised beds and hugelkultur can work around shallow rock.

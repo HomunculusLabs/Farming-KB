@@ -85,7 +85,7 @@ For farming purposes, hulled barley is traditional but not required. Sweet potat
 
 ## Role in KNF System
 
-Maltose fits into the [[nutritive-cycle-theory]] as an enzyme activator and sugar source. While [[fermented-plant-extract-fpe]] provides plant-specific nutrients and sugars, maltose provides a broader enzymatic action that accelerates decomposition of organic matter. In combination with [[brown-rice-vinegar-brv]], maltose helps solubilize minerals and make nutrients more available to plants. The enzyme-rich nature of maltose also supports the [[soil-food-web]] by feeding beneficial bacteria and accelerating nutrient cycling.
+Maltose fits into the [[nutritive-cycle-theory]] as an enzyme activator and sugar source. While [[fermented-plant-extract-fpe]] provides plant-specific nutrients and sugars, maltose provides a broader enzymatic action that accelerates decomposition of organic matter. In combination with [[brown-rice-vinegar-brv]], maltose helps solubilize minerals and make nutrients more available to plants. The enzyme-rich nature of maltose also supports the [[soil-food-web-nutrient-cycling]] by feeding beneficial bacteria and accelerating nutrient cycling.
 
 ## See Also
 

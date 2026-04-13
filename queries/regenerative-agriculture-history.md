@@ -11,7 +11,7 @@ sources:
 # Regenerative Agriculture History
 
 The evolution from organic certification to the regenerative agriculture movement.
-See [[organic-farming-history]] for pre-2000 roots and [[regenerative-agriculture]]
+See [[organic-farming-history]] for pre-2000 roots and [[regenerative-agriculture-history]]
 for the conceptual framework.
 
 ## 2000s — Regenerative Agriculture Emerges
@@ -22,13 +22,13 @@ for the conceptual framework.
   soil health, increasing biodiversity, improving water cycles,
   and sequestering carbon.
   Robert Rodale coined "regenerative organic" in the 1980s.
-  See [[regenerative-agriculture]].
+  See [[regenerative-agriculture-history]].
 
 - **2007-2010s — No-till farming spreads:**
   Gabe Brown (North Dakota), Ray Archuleta (NRCS), and others
   demonstrate that no-till + cover cropping + diverse rotations
   can regenerate degraded soils.
-  See [[no-till-farming]].
+  See [[no-till-gardening-method]].
 
 ## 2010s — Soil Health Movement Matures
 
@@ -68,7 +68,7 @@ for the conceptual framework.
   into cannabis cultivation, market gardening, and homesteading.
   Living soil approaches emphasize building self-sustaining
   soil ecosystems rather than adding external inputs.
-  See [[cannabis-indoor-living-soil]] and [[cannabis-growing-mediums]].
+  See [[cannabis-living-soil-guide]] and [[cannabis-growing-mediums]].
 
 - **2020s — KNF and JADAM global spread:**
   Korean Natural Farming and JADAM spread worldwide through online communities.
@@ -85,10 +85,10 @@ for the conceptual framework.
 ## See Also
 
 - [[organic-farming-history]] — pre-2000 organic and natural farming roots
-- [[regenerative-agriculture]] — conceptual framework and principles
-- [[soil-food-web]] — biological foundation of regenerative practices
+- [[regenerative-agriculture-history]] — conceptual framework and principles
+- [[soil-food-web-nutrient-cycling]] — biological foundation of regenerative practices
 - [[elaine-ingham]] — soil food web pioneer
-- [[no-till-farming]] — key regenerative practice
+- [[no-till-gardening-method]] — key regenerative practice
 - [[knf-preparations]] — KNF input catalog with recipes
 - [[jadam-methods]] — ultra-low-cost organic farming methods
 - [[cannabis-living-soil-amendment-schedule]] — applied living soil techniques

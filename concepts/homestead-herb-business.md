@@ -160,7 +160,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Consider wholesale at 50% of retail once production capacity allows
 - Target revenue: $500-2,000/month at medium scale
 
-The herb business integrates naturally with [[homestead-mushroom-business]] at market and builds on [[food-fermentation-guide|fermentation]] and [[food-preservation|preservation]] skills.
+The herb business integrates naturally with [[homestead-mushroom-business]] at market and builds on [[food-fermentation-guide|fermentation]] and [[food-preservation-canning|preservation]] skills.
 
 ## Related
 

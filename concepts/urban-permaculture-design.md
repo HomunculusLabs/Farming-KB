@@ -73,7 +73,7 @@ Applying permaculture principles in small spaces: balconies, rooftops, vacant lo
 
 ## Container Growing
 
-**Soil mixes**: Container soil differs from garden soil — needs excellent drainage and water retention. Standard mix: 1/3 compost, 1/3 peat moss or coconut coir, 1/3 perlite or vermiculite. Add worm castings (10%) for biology. See [[soil-food-web]] for microbiology.
+**Soil mixes**: Container soil differs from garden soil — needs excellent drainage and water retention. Standard mix: 1/3 compost, 1/3 peat moss or coconut coir, 1/3 perlite or vermiculite. Add worm castings (10%) for biology. See [[soil-food-web-nutrient-cycling]] for microbiology.
 
 **Fertilization**: Container plants deplete nutrients faster than garden beds. Top-dress with compost monthly. Liquid feeds (compost tea, fish emulsion, seaweed extract) every 1-2 weeks during active growth. Slow-release organic fertilizers at planting reduce maintenance.
 
@@ -127,7 +127,7 @@ Guerilla gardening transforms neglected urban spaces into productive landscapes.
 
 ## Balcony Composting
 
-**Vermicomposting**: Worm bins (Worm Factory, DIY tote) work perfectly on balconies — odorless, compact, processes kitchen scraps continuously. See [[vermicompost]] for setup. One pound of worms (Eisenia fetida) processes 0.5 lb food scraps per day.
+**Vermicomposting**: Worm bins (Worm Factory, DIY tote) work perfectly on balconies — odorless, compact, processes kitchen scraps continuously. See [[vermicomposting]] for setup. One pound of worms (Eisenia fetida) processes 0.5 lb food scraps per day.
 
 **Bokashi**: Anaerobic fermentation in sealed buckets handles all food scraps including meat/dairy. See [[bokashi]] for method. Fermented pre-compost is buried in containers after 2 weeks. No odor when properly maintained.
 
@@ -157,7 +157,7 @@ Building an urban permaculture site largely from salvaged materials is both prac
 - [[seasonal-planning]] — Monthly task calendar
 - [[food-forest-design]] — Food forest layers and guilds
 - [[composting-systems]] — All composting methods
-- [[vermicompost]] — Worm bin setup
+- [[vermicomposting]] — Worm bin setup
 - [[bokashi]] — Anaerobic fermentation
 - [[raised-beds-vs-in-ground-vs-containers]] — Growing method comparison
 - [[natural-farming-seed-balls]] — Seed ball technique

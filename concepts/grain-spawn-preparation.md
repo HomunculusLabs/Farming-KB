@@ -93,7 +93,7 @@ Grain is dense and packed tightly in jars. Heat penetration is slow. Insufficien
 
 ## Inoculation
 
-After jars have cooled completely to room temperature (overnight is safest), they are ready for inoculation. See [[mushroom-sterile-technique]] for full sterile procedure.
+After jars have cooled completely to room temperature (overnight is safest), they are ready for inoculation. See [[mushroom-sterile-technique-detailed]] for full sterile procedure.
 
 Inoculation sources:
 - **Spore syringe**: 1-2 cc per quart jar. Slower colonization (2-4 weeks) because spores must germinate first. Genetic variability is high.
@@ -114,8 +114,8 @@ Colonized grain spawn can be stored in the refrigerator (35-40F / 2-4C) for 2-4 
 
 ## Related Topics
 
-- [[mushroom-spawn-making]] — grain-to-grain transfer and expansion
+- [[mushroom-spawn-making-detailed]] — grain-to-grain transfer and expansion
 - [[mushroom-liquid-culture]] — liquid culture as an alternative inoculant
-- [[mushroom-sterile-technique]] — maintaining sterility during inoculation
+- [[mushroom-sterile-technique-detailed]] — maintaining sterility during inoculation
 - [[bulk-substrate-preparation]] — preparing CVG for spawning
 - [[mushroom-spawn-making-detailed]]

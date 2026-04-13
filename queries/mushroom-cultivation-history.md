@@ -19,7 +19,7 @@ sources:
 Chronological development of mushroom cultivation from ancient Asian log culture
 to modern sterile technique and home growing.
 Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
-[[mushroom-cultivation-methods-comparison]], and entity pages for key cultivators.
+[[mushroom-cultivation-methods]], and entity pages for key cultivators.
 
 ## Ancient Cultivation in Asia
 
@@ -131,7 +131,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
   inoculated with mycelium from agar cultures.
   This becomes the standard method for commercial spawn production,
   enabling reliable, scalable cultivation.
-  See [[mushroom-spawn-making]].
+  See [[mushroom-spawn-making-detailed]].
 
 - **1930s-1960s — Agaricus industry industrializes:**
   Button mushroom cultivation becomes a major industry.
@@ -143,14 +143,14 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
 
 ## Modern Era (1950–Present)
 
-The late 20th and 21st centuries of mushroom cultivation — from species diversification and the home cultivation revolution through PF TEK, the gourmet mushroom boom, and mainstream mycology — are covered in detail on [[mushroom-cultivation-modern-era]]. Key milestones include the McKenna brothers' grower's guide, Stamets' definitive manuals, PF TEK democratization, and the rise of online cultivation communities. See also [[mushroom-cultivation-21st-century]].
+The late 20th and 21st centuries of mushroom cultivation — from species diversification and the home cultivation revolution through PF TEK, the gourmet mushroom boom, and mainstream mycology — are covered in detail on [[mushroom-cultivation-history]]. Key milestones include the McKenna brothers' grower's guide, Stamets' definitive manuals, PF TEK democratization, and the rise of online cultivation communities. See also [[mushroom-cultivation-history]].
 
 ## Related Pages
 
-- [[mushroom-cultivation-modern-era]] — late 20th century through present
+- [[mushroom-cultivation-history]] — late 20th century through present
 - [[historical-mushroom-cultivation]] — detailed cultivation history concept page
 - [[mushroom-cultivation-basics]] — modern 10-step cultivation process
-- [[mushroom-cultivation-methods-comparison]] — side-by-side method comparison
+- [[mushroom-cultivation-methods]] — side-by-side method comparison
 - [[pf-tek-guide]] — complete PF TEK documentation
 - [[mushroom-species-guide]] — species profiles with cultivation parameters
 - [[mushroom-grow-equipment]] — complete equipment guide with costs

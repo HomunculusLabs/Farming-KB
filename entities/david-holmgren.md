@@ -57,4 +57,4 @@ Holmgren's Melliodora property in Hepburn, Victoria serves as a living demonstra
 - [[food-forest-design]] — Food forest applications
 - [[homesteading-infrastructure]] — Infrastructure design
 - [[water-management]] — Water design systems
-- [[regenerative-agriculture]] — Broader regenerative context
+- [[regenerative-agriculture-history]] — Broader regenerative context

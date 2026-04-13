@@ -159,5 +159,5 @@ Multiple mushroom species can be grown sequentially on the same substrate. Once 
 - [[psilocybe-natalensis]]
 - [[african-psilocybin-mushroom-guide]]
 - [[asian-psilocybin-mushroom-guide]]
-- [[psilocybin-mushroom-species-field-guide]]
+- [[psilocybin-mushroom-chemistry]]
 - [[reishi-cultivation-guide]]

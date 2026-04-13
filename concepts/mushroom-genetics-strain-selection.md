@@ -161,8 +161,8 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 ## See Also
 
-- [[fungal-biology-lifecycle]] for the complete fungal lifecycle
+- [[fungal-biology-fundamentals]] for the complete fungal lifecycle
 - [[fungal-sexual-reproduction]] for mating type genetics
 - [[agar-work-guide]] for isolation techniques
-- [[mushroom-spawn-making]] for propagating selected strains
+- [[mushroom-spawn-making-detailed]] for propagating selected strains
 - [[fungal-genetics]] for advanced genetic tools and CRISPR applications

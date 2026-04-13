@@ -86,5 +86,5 @@ Controlled clinical trials in Prague documented the species' psychoactive effect
 
 - [[european-psilocybin-species]] — Other European psychoactive mushroom species
 - [[psilocybin-bluing-reaction]] — Detailed biochemistry of the bluing phenomenon
-- [[psilocybin-mushroom-distribution]] — Global distribution of psychoactive species
+- [[psilocybin-mushroom-chemistry]] — Global distribution of psychoactive species
 - [[jochen-gartz]] — Researcher who studied and cultivated this species

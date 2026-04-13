@@ -190,6 +190,6 @@ These have distinctive features and few or no deadly lookalikes:
 
 - [[mushroom-identification]] -- systematic ID features, microscopy, field guides
 - [[mushroom-toxicity-identification-warnings]] -- detailed lookalike comparison table
-- [[edible-wild-mushrooms-of-north-america]] -- seasonal foraging guide with species profiles
+- [[edible-wild-mushrooms-by-region]] -- seasonal foraging guide with species profiles
 - [[mushroom-species-guide]] -- cultivated species profiles for comparison
 - [[mushroom-identification-resources]] -- regional field guides, microscopy references

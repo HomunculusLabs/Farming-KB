@@ -81,7 +81,7 @@ Visual symptom reference for diagnosing nutrient deficiencies in cannabis. Cover
 
 ## pH and Nutrient Availability
 
-In a [[cannabis-indoor-living-soil]] system, the soil food web buffers pH naturally. Per Lowenfels' "Teaming With Nutrients," microbes adjust local pH around roots through exudate production. This is why living soil supports healthy plants across a wider pH range than hydroponic systems. Key lockouts to watch:
+In a [[cannabis-living-soil-guide]] system, the soil food web buffers pH naturally. Per Lowenfels' "Teaming With Nutrients," microbes adjust local pH around roots through exudate production. This is why living soil supports healthy plants across a wider pH range than hydroponic systems. Key lockouts to watch:
 
 | pH Range | Nutrients Affected |
 |----------|-------------------|

@@ -178,5 +178,5 @@ The rule: if LC smells bad (anything other than mushroomy or neutral), discard i
 
 - [[mushroom-spawn-making-detailed|spawn]]-preparation]] — inoculating grain jars with liquid culture
 - [[agar-work-guide]] — preparing agar wedges for LC inoculation
-- [[mushroom-sterile-technique]] — maintaining sterility during LC preparation
+- [[mushroom-sterile-technique-detailed]] — maintaining sterility during LC preparation
 - [[mushroom-spore-printing-and-storage]] — alternative inoculation method

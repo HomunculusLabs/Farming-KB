@@ -59,7 +59,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 - Drives leafy growth; most plants show dramatic response to N
 - **Deficiency**: Pale yellowing leaves (chlorosis), stunted growth
 - **Excess**: Excessive foliage, delayed flowering, soft growth susceptible to pests
-- **Organic sources**: Seed meal (most concentrated), blood meal, fish meal, well-rotted manure, legume [[cover-cropping]]
+- **Organic sources**: Seed meal (most concentrated), blood meal, fish meal, well-rotted manure, legume [[cover-cropping-guide]]
 - Seed meal provides 5-7% N — the highest practical concentration from organic sources
 
 ### Phosphorus (P)
@@ -107,7 +107,7 @@ Solomon cautions against relying on compost alone as a fertility source:
 - To supply adequate nitrogen from compost alone, you would need to apply impractical volumes (several inches per year)
 - **Best use of compost**: As a soil conditioner applied at 1/4-1/2 inch per year, plus the COF for actual nutrient supply
 - Compost from manure is more nutrient-dense than compost from yard waste only
-- See [[vermicompost]] for worm-based composting methods
+- See [[vermicomposting]] for worm-based composting methods
 
 ## The Importance of Calcium
 
@@ -126,12 +126,12 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 - Improves water retention (holds 4-5x its weight in water)
 - Improves drainage in clay soils (binds particles into aggregates)
 - Provides cation exchange sites (holds nutrients in root zone)
-- Feeds [[soil-food-web]] microorganisms
+- Feeds [[soil-food-web-nutrient-cycling]] microorganisms
 - Buffers pH changes
 - Releases nutrients slowly through microbial decomposition
 
 ### Building Organic Matter
-- [[cover-cropping]] with legumes adds both N and organic matter
+- [[cover-cropping-guide]] with legumes adds both N and organic matter
 - Incorporating crop residues (not removing them)
 - Applying compost at 1/4-1/2 inch annually
 - Green manures (grown and tilled in before maturity)
@@ -183,11 +183,11 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 8. **Mulch** to retain moisture, suppress weeds, and add organic matter as it breaks down
 
 ## Related Pages
-- [[soil-food-web]]
-- [[vermicompost]]
-- [[cover-cropping]]
-- [[no-till-farming]]
-- [[regenerative-agriculture]]
+- [[soil-food-web-nutrient-cycling]]
+- [[vermicomposting]]
+- [[cover-cropping-guide]]
+- [[no-till-gardening-method]]
+- [[regenerative-agriculture-history]]
 - [[permaculture-principles]]
 - [[conventional-vs-organic-vs-regenerative]] — comparison
 - [[cover-crop-quick-reference]] — quick reference

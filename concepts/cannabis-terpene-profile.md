@@ -131,7 +131,7 @@ The genetic foundation determines which terpenes a plant can produce and in what
 
 ### Light Spectrum
 
-UV-B exposure can stimulate terpene production as a stress response. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex terpene profiles than narrow-band LED. See [[cannabis-light-spectrum-guide]] for details.
+UV-B exposure can stimulate terpene production as a stress response. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex terpene profiles than narrow-band LED. See [[cannabis-lighting-guide]] for details.
 
 ### Temperature
 
@@ -169,4 +169,4 @@ Professional labs can provide detailed terpene profiles using gas chromatography
 
 - [[cannabis-trichome-guide]] for the structures that produce terpenes
 - [[cannabis-flavonoids]] for non-terpene aromatic compounds
-- [[cannabis-light-spectrum-guide]] for how light affects terpene production
+- [[cannabis-lighting-guide]] for how light affects terpene production

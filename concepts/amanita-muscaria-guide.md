@@ -174,7 +174,7 @@ Donald E. Teeter (author of *Amanita Muscaria: Herb of Immortality*, 2007) repor
 - Anti-anxiety effects and insomnia relief at low doses (1-2g dried)
 - Kennel cough (canine respiratory infection) remission in dogs given ambrosia
 
-The mycorrhizal relationship between A. muscaria and host trees involves the fungus supplying antibiotic and antiviral compounds to its partner — the same compounds may have medicinal value in mammals. See [[medicinal-mushroom-compounds]] for broader context.
+The mycorrhizal relationship between A. muscaria and host trees involves the fungus supplying antibiotic and antiviral compounds to its partner — the same compounds may have medicinal value in mammals. See [[medicinal-mushroom-guide]] for broader context.
 
 ## Additional Preparation Methods
 

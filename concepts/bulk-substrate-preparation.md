@@ -129,4 +129,4 @@ For a 66-quart monotub, 4-5 inches of substrate depth is standard, requiring app
 - [[monotub-cultivation]] — using CVG in a monotub setup
 - [[mushroom-harvesting-potency]] — maximizing flush yields
 - [[grain-spawn-preparation]] — preparing the spawn that inoculates the bulk substrate
-- [[mushroom-contamination-troubleshooting]] — identifying substrate contamination
+- [[mushroom-contamination-identification]] — identifying substrate contamination

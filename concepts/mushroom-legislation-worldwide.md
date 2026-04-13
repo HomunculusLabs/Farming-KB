@@ -194,7 +194,7 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 
 ## Related Pages
 
-- [[psychedelic-therapy-history]] for the arc of research and prohibition
+- [[psychedelic-therapy-current-research]] for the arc of research and prohibition
 - [[psychedelic-compounds-reference]] for pharmacological context
 - [[psychedelic-mushroom-history]] for the cultural history
-- [[harm-reduction]] for safety in contexts where mushrooms are accessible
+- [[harm-reduction-guide]] for safety in contexts where mushrooms are accessible

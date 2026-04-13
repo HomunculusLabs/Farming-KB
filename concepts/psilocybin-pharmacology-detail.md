@@ -23,7 +23,7 @@ sources:
 
 # Psilocybin Pharmacology Detail
 
-Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for psilocybin mushrooms. See [[psilocybin-mushroom-effects-and-safety]] for dosage guidelines, subjective effects, and acute incidents.
+Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for psilocybin mushrooms. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
 
 ## Gartz's Aeruginascin Hypothesis
 
@@ -156,7 +156,7 @@ Psilocybin and psilocin are Schedule I under the UN Convention on Psychotropic S
 
 ## Related Pages
 
-- [[psilocybin-mushroom-effects-and-safety]] -- Dosage, effects, acute data
+- [[psilocybin-mushroom-chemistry]] -- Dosage, effects, acute data
 - [[psilocybin-mushroom-chemistry]] -- Chemical profiles
-- [[psilocybin-mushroom-distribution]] -- Geographic distribution
+- [[psilocybin-mushroom-chemistry]] -- Geographic distribution
 - [[jochen-gartz]] -- Primary researcher

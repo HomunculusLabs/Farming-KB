@@ -120,6 +120,6 @@ Wild T. iboga populations are declining due to:
 ## Related Pages
 
 - [[psychedelic-compounds-reference]] for pharmacological comparison with other entheogens
-- [[richard-evans-schultes]] documented iboga use during his ethnobotanical fieldwork in the region
-- [[psychedelic-therapy-history]] covers the broader history of psychedelic-assisted treatment
-- [[harm-reduction]] for safety principles relevant to ibogaine use
+- [[richard-evans-schultes-updated]] documented iboga use during his ethnobotanical fieldwork in the region
+- [[psychedelic-therapy-current-research]] covers the broader history of psychedelic-assisted treatment
+- [[harm-reduction-guide]] for safety principles relevant to ibogaine use

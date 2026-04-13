@@ -135,7 +135,7 @@ Both systems are compatible — many growers combine techniques from both.
 - [[knf-preparations]] — KNF inputs for comparison
 - [[indigenous-microorganisms-imo]] — KNF's IMO vs JADAM's JMS
 - [[effective-microorganisms-em]] — commercial EM as third alternative
-- [[soil-food-web]] — the biology these systems support
+- [[soil-food-web-nutrient-cycling]] — the biology these systems support
 - [[fermented-plant-extract-fpe]] — KNF FPJ approach
 - [[nutritive-cycle-theory]] — Cho's growth stage framework (KNF-specific)
 - [[fermented-mixed-compost-fmc]] — KNF compost method using IMO

@@ -43,7 +43,7 @@ The plant is building its body — leaves, stems, roots. It needs energy and bui
 **KNF inputs**:
 - [[fermented-plant-extract-fpe]] from fast-growing plants (mugwort, bamboo, arrowroot) at 1:800-1000
 - [[fish-amino-acid-faa]] at 1:1000 — nitrogen for protein synthesis
-- [[lactic-acid-bacteria]] at 1:1000 — boost soil microbial activity
+- [[lactic-acid-bacteria-lab]] at 1:1000 — boost soil microbial activity
 - [[indigenous-microorganisms-imo]] — IMO-4 or IMO-2 for soil inoculation
 - WS-K at 1:30 if stems are thin and weak
 
@@ -150,7 +150,7 @@ Apply 15 days and 2 days before harvest.
 
 ## Cannabis-Specific Notes
 
-For cannabis in [[cannabis-indoor-living-soil]], the nutritive cycle maps to:
+For cannabis in [[cannabis-living-soil-guide]], the nutritive cycle maps to:
 - **Vegetative stage** (18/6 light): FPJ from fast-growing plants, light FAA if N-deficient
 - **Changeover** (flip to 12/12, weeks 1-2 of flower): WS-CaPo, sour FFJ, reduce all N inputs
 - **Reproductive** (weeks 3-8+ of flower): OHN for IPM, WS-Ca for calyx development, FFJ for resin production
@@ -168,7 +168,7 @@ Note: Living soil already provides baseline nutrition — use KNF inputs as supp
 - [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for the critical changeover period
 - [[brown-rice-vinegar-brv]] — BRV sour nutrient for changeover
 - [[indigenous-microorganisms-imo]] — IMO for soil building across all stages
-- [[cannabis-indoor-living-soil]] — cannabis-specific application
+- [[cannabis-living-soil-guide]] — cannabis-specific application
 
 ## Related
 

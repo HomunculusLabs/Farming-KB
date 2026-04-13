@@ -40,7 +40,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   the importance of mycorrhizal associations,
   and the concept that soil health determines
   plant, animal, and human health.
-  See [[regenerative-agriculture]].
+  See [[regenerative-agriculture-history]].
 
 - **1950s — P.A. Yeomans' keyline design:**
   Australian farmer develops the Keyline System
@@ -154,7 +154,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
 
 ## North American Popularization and Beyond (2000s-Present)
 
-The modern era of permaculture — from Gaia's Garden and Holmgren's 12 principles through global PDC spread, digital democratization, and convergence with regenerative agriculture — is covered in detail on [[permaculture-history-modern-era]]. Key milestones include Hemenway's best-selling Gaia's Garden, Holmgren's Principles and Pathways, the spread of online PDCs, Transition Towns, YouTube democratization, and integration with KNF/JADAM methods.
+The modern era of permaculture — from Gaia's Garden and Holmgren's 12 principles through global PDC spread, digital democratization, and convergence with regenerative agriculture — is covered in detail on [[permaculture-history-timeline]]. Key milestones include Hemenway's best-selling Gaia's Garden, Holmgren's Principles and Pathways, the spread of online PDCs, Transition Towns, YouTube democratization, and integration with KNF/JADAM methods.
 
 ## Related Pages
 
@@ -165,5 +165,5 @@ The modern era of permaculture — from Gaia's Garden and Holmgren's 12 principl
 - [[permaculture-zones-in-practice]] — zone planning with examples
 - [[permaculture-plant-catalog]] — plant reference for design
 - [[urban-permaculture-design]] — small-space and urban permaculture
-- [[regenerative-agriculture]] — broader regenerative context
+- [[regenerative-agriculture-history]] — broader regenerative context
 - [[keyline-design]] — water management precursor and integration

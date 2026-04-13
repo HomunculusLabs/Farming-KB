@@ -173,8 +173,8 @@ S. cerevisiae is one of the most important model organisms in biology:
 
 ## See Also
 
-- [[fungal-cell-biology]] for yeast cell structure in the broader fungal context
+- [[fungal-biology-fundamentals]] for yeast cell structure in the broader fungal context
 - [[fungal-genetics]] for yeast as a genetic model organism
 - [[fungal-evolution]] for the evolutionary origin of yeast forms
-- [[food-fermentation]] for yeast in broader fermentation contexts
+- [[food-fermentation-guide]] for yeast in broader fermentation contexts
 - [[knf-yeast-preparation]] for wild yeast capture and use in Korean Natural Farming

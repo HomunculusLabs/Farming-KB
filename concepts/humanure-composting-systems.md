@@ -147,4 +147,4 @@ Best practices suggest applying to fruit trees, berry bushes, and ornamental pla
 ## Related Topics
 
 For the collection side of the system, see [[sawdust-toilet-composting]]. For companion water systems, see [[greywater-systems-detailed]]. The finished compost integrates into broader [[fukuoka-soil-building-method]] practices and [[composting-methods-comparison]] systems on the homestead.
-- [[homestead-first-aid-kit-list]]
+- [[homestead-first-aid-guide]]

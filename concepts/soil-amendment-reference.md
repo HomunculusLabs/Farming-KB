@@ -120,5 +120,5 @@ This reference covers common organic soil amendments, their nutrient profiles, a
 
 - [[composting-methods-comparison]] for building organic matter alongside mineral amendments
 - [[compost-tea-brewing]] for delivering soluble nutrients biologically
-- [[soil-food-web]] for understanding soil composition and testing
+- [[soil-food-web-nutrient-cycling]] for understanding soil composition and testing
 - [[raised-bed-gardening]] for amendment rates in contained beds

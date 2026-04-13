@@ -96,7 +96,7 @@ Food is properly dried when it is leathery and pliable (fruits), brittle and cri
 
 ## Storage
 
-Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[homestead-emergency-preparedness]] for long-term food storage strategies.
+Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[emergency-preparedness]] for long-term food storage strategies.
 
 ## Maintenance
 
@@ -106,4 +106,4 @@ Condition dried foods before storage: place in jars, seal, and shake daily for 7
 - Store indoors or cover during winter in freezing climates to extend life
 - Clean the absorber plate annually (wipe with a damp cloth)
 
-For other off-grid cooking and heating methods, see [[rocket-stove-design]] and [[cob-oven-construction]]. For long-term storage of your dehydrated goods, refer to [[homestead-emergency-preparedness]].
+For other off-grid cooking and heating methods, see [[rocket-stove-design]] and [[cob-oven-construction]]. For long-term storage of your dehydrated goods, refer to [[emergency-preparedness]].

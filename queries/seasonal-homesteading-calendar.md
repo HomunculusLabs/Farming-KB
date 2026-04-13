@@ -59,7 +59,7 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 **Infrastructure**: Build or repair animal housing before arrivals. Set up brooders for chicks. Install new rain barrels or repair irrigation. Order composting supplies.
 
-**Planning**: Finalize seed orders. Order potatoes, sweet potato slips, bare-root plants. Review [[cover-cropping]] plan for the year.
+**Planning**: Finalize seed orders. Order potatoes, sweet potato slips, bare-root plants. Review [[cover-cropping-guide]] plan for the year.
 
 ---
 
@@ -69,17 +69,17 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 **Livestock**: Ducks -- increase forage as pasture greens up. Goats -- reduce hay as browse becomes available. Watch for kidding season. Set up electro-net fencing for rotational grazing.
 
-**Food preservation**: Start [[food-fermentation]] projects (sauerkraut, kimchi). Make bone broth from saved bones.
+**Food preservation**: Start [[food-fermentation-guide]] projects (sauerkraut, kimchi). Make bone broth from saved bones.
 
 **Infrastructure**: Begin compost turning (winter piles). Set up cold frames or low tunnels. Repair garden beds. Install drip irrigation lines.
 
-**Planning**: [[seed-starting]] schedule finalized. Succession planting calendar written. Mark expected harvest dates for perennials.
+**Planning**: [[seed-starting-reference]] schedule finalized. Succession planting calendar written. Mark expected harvest dates for perennials.
 
 ---
 
 ## April
 
-**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cannabis-vegetative-stage]] if growing indoor. [[cover-cropping]] -- terminate crimson clover and winter pea (crimp or mow 2-3 weeks before planting).
+**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cannabis-vegetative-stage]] if growing indoor. [[cover-cropping-guide]] -- terminate crimson clover and winter pea (crimp or mow 2-3 weeks before planting).
 
 **Livestock**: Spring pasture rotation begins. Integrate ducklings with flock. First rotational graze. Check for parasites after turnout.
 
@@ -111,7 +111,7 @@ Month-by-month task list for temperate climate zones 5-7. Last frost ~April 5-15
 
 **Livestock**: Monitor parasites closely -- peak season. Pasture rest rotation (minimum 30-day rest between grazings). Collect and store manure for composting.
 
-**Food preservation**: Peak [[food-preservation]] season begins. Canning strawberries, making jam. Freeze peas, beans. Begin lacto-fermentation of early summer vegetables.
+**Food preservation**: Peak [[food-preservation-canning]] season begins. Canning strawberries, making jam. Freeze peas, beans. Begin lacto-fermentation of early summer vegetables.
 
 **Infrastructure**: Maintain hot compost piles. Start [[bokashi]] fermentation of kitchen scraps. Check irrigation systems, repair leaks.
 
@@ -130,7 +130,7 @@ The fall and winter months — peak harvest, preservation, cover cropping, winte
 - [[seasonal-homesteading-fall-winter]] -- July through December tasks
 - [[seasonal-planning]] -- cannabis-integrated monthly calendar
 - [[homesteading]] -- core elements, planning priorities, skills progression
-- [[food-preservation]] -- comprehensive preservation methods
+- [[food-preservation-canning]] -- comprehensive preservation methods
 - [[composting-systems]] -- hot/cold composting, vermicompost, bokashi
 - [[cover-cropping-guide]] -- cover crop selection and management
 - [[duck-keeping]] -- duck care through the seasons

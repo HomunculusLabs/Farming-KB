@@ -33,7 +33,7 @@ Application rates, soil treatment solution (SOS), Carandang's bokashi alternativ
 | Field application | 1-2 kg/m2 (10-20 tons/ha) | Base dressing before planting |
 | Raised beds | 2-5 cm layer mixed into top 15 cm | Blend into soil |
 | Potted plants | 10-20% of total soil volume | Mix into potting medium |
-| Cannabis living soil | 20-30% of total mix | See [[cannabis-indoor-living-soil]] |
+| Cannabis living soil | 20-30% of total mix | See [[cannabis-living-soil-guide]] |
 | Top-dress (established) | 1-2 cm layer, watered in | For no-till beds |
 | Compost tea base | 2-5 kg per 50L water | See [[compost-tea-aact]] |
 
@@ -76,7 +76,7 @@ Bokashi complements FMC — use bokashi for rapid processing of kitchen scraps, 
 
 ## FMC and the Soil Food Web
 
-FMC directly builds [[soil-food-web]] diversity by:
+FMC directly builds [[soil-food-web-nutrient-cycling]] diversity by:
 - Introducing indigenous microorganisms adapted to local conditions
 - Providing diverse carbon sources for different trophic levels
 - Creating habitat (charcoal, red clay) for microbial colonization
@@ -108,4 +108,4 @@ The charcoal in FMC is particularly important — it provides:
 - [[knf-preparations]] — KNF inputs used in FMC
 - [[compost-tea-aact]] — Compost tea as liquid FMC extension
 - [[bokashi]] — EM bokashi as alternative approach
-- [[soil-food-web-advanced]] — Nutrient cycling from FMC
+- [[soil-food-web-nutrient-cycling]] — Nutrient cycling from FMC

@@ -10,7 +10,7 @@ sources:
 
 # Mycorrhizal Plant Defense
 
-How mycorrhizal and endophytic fungi protect plants from diseases, pests, and environmental stress. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycorrhizal-fungi]], [[endophytic-fungi]], [[plant-defense-mechanisms]], and [[fungal-symbiosis-with-plants]].
+How mycorrhizal and endophytic fungi protect plants from diseases, pests, and environmental stress. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycorrhizal-fungi]], [[endophytic-fungi]], [[plant-defense-mechanisms]], and [[fungal-symbiosis-types]].
 
 ## The Root Armor Concept
 
@@ -147,10 +147,10 @@ Stamets discusses endophytic fungi that live INSIDE plant tissues:
 - [[mycorrhizal-networks]] for network architecture and forest intelligence
 - [[endophytic-fungi]] for internal fungal symbionts
 - [[plant-defense-mechanisms]] for the full plant defense picture
-- [[fungal-symbiosis-with-plants]] for the symbiosis spectrum
+- [[fungal-symbiosis-types]] for the symbiosis spectrum
 - [[mycoforestry-forest-restoration]] for practical inoculation methods
-- [[soil-food-web]] for the soil biology context
+- [[soil-food-web-nutrient-cycling]] for the soil biology context
 
 ## Related
 
-- [[fungal-plant-pathogens]]
+- [[fungal-plant-diseases]]

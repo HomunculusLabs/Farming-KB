@@ -1924,3 +1924,24 @@ All heartbeat queue tasks were already complete. Ran full maintenance sweep:
 - 5 pages trimmed from 204-207 lines to ≤200 lines: homestead-tool-maintenance, homestead-internet-options, fungal-sampling-methods, homestead-water-purification, fungal-species-estimates-taxonomy
 
 **Final state: 1000 pages | 0 broken links | 0 orphans | 0 missing index | 0 over-200 | 0 tag violations**
+
+## [2026-04-12] lint | Maintenance sweep (no pending tasks)
+
+All heartbeat queue tasks were already complete. Ran full maintenance sweep:
+
+**Fixed:**
+- 2 low-link pages enriched with Related sections: homestead-internet-options.md (1→5 links), homestead-tool-maintenance.md (1→6 links)
+- 2 broken wikilinks fixed: [[homestead-workshop-setup]]→[[homestead-workshop-tools]], [[off-grid-power-basics]]→[[off-grid-electricity-basics]]
+- 2 pages trimmed from 202-204 lines to ≤200 lines
+
+**Final state: 1000 pages | 0 broken links | 0 orphans | 0 missing index | 0 over-200 | 0 low-link**
+## [2026-04-12] cleanup | Merged 98 duplicate pages, removed 4 duplicate raw sources
+- 93 wiki pages merged (exact + near-duplicates) into primary pages
+- 5 additional pages merged (cannabis-living-soil-amendment-schedule, pda-and-tissue-culture,
+  fukuoka-rice-barley-annual-calendar, mushroom-harvesting-potency, pf-tek-fruiting-chamber)
+- 4 duplicate raw source files removed
+- All 443 pages with updated wikilinks had links redirected to keepers
+- 6 remaining broken links fixed
+- Final broken link count: 0
+- index.md rebuilt: 902 pages
+- Pages removed: 98 | Net change: 1000 -> 902

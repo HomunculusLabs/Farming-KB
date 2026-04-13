@@ -50,7 +50,7 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Draw zone map: Zone 0 (house) through Zone 5 (wilderness)
 - [ ] Soil test \u2014 send samples for NPK, pH, CEC, organic matter
 - [ ] Research water rights and local zoning (livestock, structures, selling products)
-- [ ] Order seeds: December-January from Johnny's, High Mowing, Baker Creek (see [[seed-saving]])
+- [ ] Order seeds: December-January from Johnny's, High Mowing, Baker Creek (see [[seed-saving-techniques]])
 - [ ] Design compost area between kitchen and garden
 - [ ] Identify existing trees, wetlands, slopes \u2014 work with, not against
 
@@ -60,12 +60,12 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 
 - [ ] Install rainwater catchment at every downspout (see [[water-management]])
 - [ ] Set up 3-bin compost system near kitchen (see [[composting-systems]])
-- [ ] Install vermicompost bin for kitchen scraps (see [[vermicompost]])
+- [ ] Install vermicompost bin for kitchen scraps (see [[vermicomposting]])
 - [ ] Run perimeter fencing (deer fence minimum 8 ft)
 - [ ] Establish tool storage near garden area
 - [ ] Test well water quality if applicable
 - [ ] Install basic irrigation (hose bibs, drip lines from tanks)
-- [ ] Start [[cover-cropping]] any bare soil (crimson clover, winter rye)
+- [ ] Start [[cover-cropping-guide]] any bare soil (crimson clover, winter rye)
 
 ## Phase 2: Animals \u2014 Months 1-3
 
@@ -94,7 +94,7 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Amend soil based on test results \u2014 see [[soil-fertility-management]]
 - [ ] Start seeds indoors under lights (Feb-Mar: onions, peppers, tomatoes)
 - [ ] Direct sow cool crops after last frost (peas, spinach, radishes, potatoes)
-- [ ] Plant [[cover-cropping]] between rows and on fallow beds
+- [ ] Plant [[cover-cropping-guide]] between rows and on fallow beds
 - [ ] Set up [[greenhouse-design]] or cold frame for season extension
 - [ ] Begin weekly compost tea applications (see [[compost-tea-aact]])
 
@@ -109,13 +109,13 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [ ] Sow nitrogen-fixing ground cover (white clover) between trees
 - [ ] Install swales or contour planting for water management
 - [ ] Order and plant asparagus crowns, rhubarb, strawberry runners
-- [ ] Begin [[seed-saving]] from open-pollinated varieties
+- [ ] Begin [[seed-saving-techniques]] from open-pollinated varieties
 
 ## Phase 5: Food Processing & Preservation \u2014 Months 6-12
 
 **Budget**: $200-600
 
-- [ ] Set up root cellar or cool storage area (see [[food-preservation]])
+- [ ] Set up root cellar or cool storage area (see [[food-preservation-canning]])
 - [ ] Acquire pressure canner, water bath canner, dehydrator
 - [ ] Start fermentation station (sauerkraut, kimchi, kombucha)
 - [ ] Build or buy drying racks for herbs and fruits
@@ -168,9 +168,9 @@ A phased startup plan synthesizing the wiki's homesteading knowledge into action
 - [[greenhouse-design]] \u2014 types, sizing, passive solar, budget
 - [[composting-systems]] \u2014 hot/cold composting, vermicompost, bokashi
 - [[water-management]] \u2014 catchment, irrigation, greywater
-- [[food-preservation]] \u2014 canning, fermentation, dehydrating, root cellaring
-- [[seed-saving]] \u2014 open-pollinated varieties, isolation, storage
-- [[cover-cropping]] \u2014 cover crop selection and management
+- [[food-preservation-canning]] \u2014 canning, fermentation, dehydrating, root cellaring
+- [[seed-saving-techniques]] \u2014 open-pollinated varieties, isolation, storage
+- [[cover-cropping-guide]] \u2014 cover crop selection and management
 
 ## Related
 

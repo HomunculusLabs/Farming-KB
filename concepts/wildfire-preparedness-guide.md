@@ -163,8 +163,8 @@ Keep a packed bag for each family member and pet at all times during fire season
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety]] — General safety principles and risk management
-- [[homestead-first-aid-kit-list]] — First aid supplies for fire-related injuries
+- [[mushroom-foraging-safety-guide]] — General safety principles and risk management
+- [[homestead-first-aid-guide]] — First aid supplies for fire-related injuries
 - [[homestead-communication]] — Emergency communication during wildfire events
 - [[emergency-preparedness]] — Multi-hazard preparedness for earthquake zones
 - [[earthquake-preparedness-guide]]

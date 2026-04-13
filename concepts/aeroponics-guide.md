@@ -185,4 +185,4 @@ Aeroponics is the most vulnerable system to power outages:
 ## See Also
 
 - [[hydroponic-growing-basics]] for simpler hydroponic alternatives
-- [[cannabis-light-spectrum-guide]] for pairing aeroponics with optimal lighting
+- [[cannabis-lighting-guide]] for pairing aeroponics with optimal lighting

@@ -45,7 +45,7 @@ Immediately outside the house. Visit multiple times daily. Elements include:
 - Duck pond (if integrated with daily routine)
 - Rainwater collection from roof
 
-This zone uses the most [[water-management]] infrastructure and the most intensive [[soil-food-web]] management.
+This zone uses the most [[water-management]] infrastructure and the most intensive [[soil-food-web-nutrient-cycling]] management.
 
 ### Zone 2: Main Food Production
 Visited daily to weekly. Elements include:
@@ -55,16 +55,16 @@ Visited daily to weekly. Elements include:
 - Goat barn and milking area
 - Perennial herbs
 - [[food-forest-design]] edges and polyculture beds
-- [[companion-planting]] guilds around fruit trees
+- [[companion-planting-reference]] guilds around fruit trees
 
 ### Zone 3: Orchards and Larger Food Systems
 Visited weekly to monthly. Elements include:
 - Larger fruit and nut trees
-- [[cover-cropping]] areas for soil building
+- [[cover-cropping-guide]] areas for soil building
 - Pasture for goats
 - Larger [[food-forest-design]] plantings
 - Seasonal vegetables (potatoes, squash, corn)
-- [[no-till-farming]] field-scale areas
+- [[no-till-gardening-method]] field-scale areas
 
 ### Zone 4: Forage and Woodlot
 Visited monthly to seasonally. Elements include:
@@ -72,7 +72,7 @@ Visited monthly to seasonally. Elements include:
 - Wild foraging areas
 - Pasture rotation areas
 - Animal forage beyond managed pasture
-- [[permaculture-plants-reference]] species that need minimal care
+- [[permaculture-useful-plants-reference]] species that need minimal care
 
 ### Zone 5: Wilderness
 Left to nature. Minimal human intervention. This is your wildlife corridor, native ecosystem, and reference for how natural systems work. Even on a small homestead, leave a wild area -- it supports pollinators, pest predators, and provides a baseline for observation.
@@ -91,7 +91,7 @@ Observe prevailing winds and storm directions. Place windbreaks (trees, shrubs, 
 Map where water flows across the site -- natural drainage, runoff patterns, springs, wet areas. Design [[water-management]] elements (swales, ponds, rain gardens) to slow, spread, and sink water. See [[water-management]] for detailed techniques.
 
 ### Fire Sector
-In fire-prone areas, design fire breaks, choose fire-resistant plants, and position structures away from fuel loads. The [[permaculture-plants-reference]] includes lists of low-fire-potential trees and ground covers.
+In fire-prone areas, design fire breaks, choose fire-resistant plants, and position structures away from fuel loads. The [[permaculture-useful-plants-reference]] includes lists of low-fire-potential trees and ground covers.
 
 ### Wildlife Sector
 Note wildlife corridors, pest entry points, and beneficial habitat. Design hedgerows and buffer zones that support pollinators and pest predators while protecting crops.

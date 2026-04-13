@@ -139,8 +139,8 @@ Techniques from Mollison for reducing annual replanting:
 
 - [[grain-and-staple-crops]] — General homestead grain growing
 - [[one-straw-revolution-guide]] — Fukuoka's philosophy and methods
-- [[no-till-farming]] — No-tillage soil science
+- [[no-till-gardening-method]] — No-tillage soil science
 - [[mulching-guide]] — Mulch types and application
-- [[cover-cropping]] — Cover crop selection
+- [[cover-cropping-guide]] — Cover crop selection
 - [[permaculture-climate-strategies]] — Climate-specific approaches
-- [[seed-saving]] — Seed saving and storage
+- [[seed-saving-techniques]] — Seed saving and storage

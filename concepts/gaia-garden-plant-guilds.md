@@ -140,5 +140,5 @@ For the two guild design methods (field observation and armchair), super-guilds,
 - [[food-forest-design]] -- Guilds in forest garden context
 - [[permaculture-design-methods]] -- Broader design toolkit
 - [[dynamic-accumulators]] -- Comprehensive accumulator list
-- [[companion-planting]] -- Companion planting reference
+- [[companion-planting-reference]] -- Companion planting reference
 - [[insect-allies]] -- Beneficial insects

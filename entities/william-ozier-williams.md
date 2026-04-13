@@ -37,8 +37,8 @@ The standard PDC curriculum covers core topics that Williams helped teach and re
 - **Zone planning**: [[permaculture-zones-in-practice]] — intensive zone 0-1 through extensive zone 5
 - **Sector analysis**: sun, wind, water, fire, wildlife mapping
 - **Pattern understanding**: branching, waves, spirals, nets in design
-- **Soil**: [[soil-food-web]], composting, [[cover-crop-species-comparison]]
-- **Water**: [[rainwater-harvesting]], [[swale-design]], [[graywater-systems]]
+- **Soil**: [[soil-food-web-nutrient-cycling]], composting, [[cover-crop-species-comparison]]
+- **Water**: [[rainwater-harvesting-systems]], [[swale-design-construction]], [[graywater-systems]]
 - **Plants**: [[permaculture-useful-plants-reference]], [[food-forest-design]], [[gaia-garden-plant-guilds]]
 
 ## See Also

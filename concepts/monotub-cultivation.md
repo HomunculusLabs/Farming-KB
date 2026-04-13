@@ -72,7 +72,7 @@ Example: A 66-quart monotub with 4 quarts of grain spawn uses 8-12 quarts of CVG
 
 ### 2. Spawning
 
-- In a still-air environment (see [[mushroom-sterile-technique]]), break up colonized grain spawn in the jar by shaking.
+- In a still-air environment (see [[mushroom-sterile-technique-detailed]]), break up colonized grain spawn in the jar by shaking.
 - Add a thin layer (1/2 inch) of CVG to the bottom of the tub — this prevents grain from touching the bare plastic.
 - Mix the grain spawn and CVG substrate thoroughly in the tub. Some growers layer spawn and substrate alternately.
 - Add a 1/4 to 1/2 inch top layer of plain CVG (no grain) — this is called a "casing layer" and helps maintain surface humidity while protecting exposed grain from contamination.
@@ -118,6 +118,6 @@ See [[mushroom-harvesting-potency]] for strategies to maximize each flush.
 ## Related Topics
 
 - [[bulk-substrate-preparation]] — CVG substrate recipe and preparation
-- [[mushroom-growing-room-design]] — environmental control for monotub setups
-- [[psilocybin-mushroom-cultivation-basics]] — broader cultivation overview
+- [[mushroom-grow-room-design]] — environmental control for monotub setups
+- [[psilocybin-mushroom-cultivation]] — broader cultivation overview
 - [[mushroom-harvesting-potency]] — when and how to harvest

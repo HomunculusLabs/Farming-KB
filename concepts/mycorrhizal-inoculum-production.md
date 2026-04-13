@@ -131,4 +131,4 @@ To visualize arbuscular mycorrhizal colonization in roots: clear root tissue wit
 - [[inoculation-methods]] — Mushroom spawn production techniques
 - [[fungal-spore-biology]] — Spore biology and dispersal
 - [[compost-tea-aact]] — Compost tea brewing (compatible with mycorrhizae)
-- [[soil-food-web]] — The soil ecosystem context
+- [[soil-food-web-nutrient-cycling]] — The soil ecosystem context

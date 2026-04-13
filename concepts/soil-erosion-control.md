@@ -69,7 +69,7 @@ Living plant cover protects soil from raindrop impact and binds soil with roots:
 - **Winter cover crops**: Cereal rye, winter wheat, crimson clover, hairy vetch protect soil through winter
 - **Summer cover crops**: Buckwheat, cowpeas, sorghum-sudangrass cover soil between cash crops
 - **Permanent cover**: Maintain permanent vegetation on steep slopes, waterways, and critical areas
-- See [[cover-cropping|cover crop]] for species selection and management details
+- See [[cover-cropping-guide|cover crop]] for species selection and management details
 
 ### Permanent Vegetation
 - **Grassed waterways**: Plant grasses in natural drainage channels to convey water without erosion; use sod-forming species like tall fescue, smooth bromegrass, or switchgrass
@@ -154,8 +154,8 @@ Consider these factors when assessing erosion risk:
 
 Erosion control connects to multiple homesteading systems:
 
-- [[no-till-farming|no till]] and [[cannabis-living-soil-amendment-schedule|living soil]] practices minimize soil disturbance and maintain surface cover
-- [[cover-cropping|cover crop]] plantings provide continuous soil protection between cash crops
+- [[no-till-gardening-method|no till]] and [[cannabis-living-soil-amendment-schedule|living soil]] practices minimize soil disturbance and maintain surface cover
+- [[cover-cropping-guide|cover crop]] plantings provide continuous soil protection between cash crops
 - [[permaculture-earthworks|earthworks]] (swales, terraces, berms) manage water flow and reduce erosive energy
 - [[riparian-zone-restoration]] protects stream banks and water quality
 - [[watershed-management]] addresses erosion at the landscape scale

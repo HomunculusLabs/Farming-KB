@@ -190,6 +190,6 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 
 - [[fungal-biodiversity-biogeography]] — Global diversity patterns
 - [[fungal-ecology]] — Fungal ecology overview
-- [[soil-food-web]] — Soil ecosystem processes
+- [[soil-food-web-nutrient-cycling]] — Soil ecosystem processes
 - [[fungal-ecosystem-roles]] — Fungal roles in ecosystems
 - [[coprophilous-fungi]] — Dung-inhabiting mycetozoans

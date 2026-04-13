@@ -24,17 +24,17 @@ sources:
 
 # Emergency Preparedness
 
-Planning for power outages, severe weather, food and water shortages, and communication disruptions on the rural homestead. See [[homestead-first-aid]] for first aid kits, common injuries, and poison control.
+Planning for power outages, severe weather, food and water shortages, and communication disruptions on the rural homestead. See [[homestead-first-aid-guide]] for first aid kits, common injuries, and poison control.
 
 ## Emergency Preparedness
 
 ### Power Outage Planning
-Rural areas experience more frequent and longer outages. See [[homestead-renewable-energy]] for generation options.
+Rural areas experience more frequent and longer outages. See [[homestead-energy-conservation]] for generation options.
 1. **Short-term (hours)**: Flashlights, headlamps, battery-powered radio, charged power bank for phones
 2. **Medium-term (1-3 days)**: Generator (portable or standby), fuel reserve (5-10 gallons minimum), extension cords
 3. **Long-term (days-weeks)**: Solar generator (Jackery, EcoFlow, Goal Zero), solar panel array, battery bank, inverter
 4. **Water**: No power = no well pump. Keep 1 gallon per person per day minimum. See [[homestead-water-systems]] for storage solutions. Fill bathtub before expected storms.
-5. **Food**: Refrigerator stays cold ~4 hours if unopened; freezer ~24-48 hours if full. Have a plan for [[food-preservation]] of perishables during extended outages (pressure can on a camp stove, solar dehydrator, etc.)
+5. **Food**: Refrigerator stays cold ~4 hours if unopened; freezer ~24-48 hours if full. Have a plan for [[food-preservation-canning]] of perishables during extended outages (pressure can on a camp stove, solar dehydrator, etc.)
 6. **Heat**: Wood stove is the best backup. Kerosene heater with ventilation. Sleeping bags rated to 0°F. Never use generators or grills indoors — carbon monoxide kills.
 
 ### Severe Weather
@@ -59,7 +59,7 @@ Minimum 2-week supply; 1 month is better for remote homesteads.
 - Canned goods (vegetables, beans, meats, fruits) — rotate stock, use FIFO
 - Dry goods (rice, beans, oats, flour, pasta, salt, sugar) — store in airtight containers, cool/dark
 - Freeze-dried meals — lightweight, 25+ year shelf life, expensive
-- [[food-preservation]] methods extend garden harvests year-round
+- [[food-preservation-canning]] methods extend garden harvests year-round
 - MREs or emergency ration bars — compact, long shelf life
 - Cooking fuel: propane tank, camp stove, wood, solar cooker
 
@@ -109,8 +109,8 @@ Integrate with [[seasonal-planning]]:
 
 - [[homesteading-infrastructure]]: Design buildings with emergency egress, fire-resistant materials, backup power conduit
 - [[homestead-water-systems]]: Hand pump backup for well, gravity-fed storage tanks, water purification supplies
-- [[homestead-renewable-energy]]: Solar battery backup reduces generator dependence during outages
-- [[food-preservation]]: Canned and dried foods form the backbone of emergency food stores
+- [[homestead-energy-conservation]]: Solar battery backup reduces generator dependence during outages
+- [[food-preservation-canning]]: Canned and dried foods form the backbone of emergency food stores
 - [[herbal-medicine]]: Homegrown remedies complement the first aid kit for minor ailments
 - [[duck-keeping]] and [[goat-keeping]]: Emergency evacuation crates, stored feed reserves, water access plans
 - [[composting-systems]]: Composting toilet provides sanitation during water system failures
@@ -119,16 +119,16 @@ Integrate with [[seasonal-planning]]:
 
 ## See Also
 
-- [[homestead-first-aid]] — First aid kits, injuries, poison control
+- [[homestead-first-aid-guide]] — First aid kits, injuries, poison control
 - [[herbal-medicine]] — Natural remedies
 - [[homestead-water-systems]] — Water sourcing and emergency storage
 - [[homesteading-infrastructure]] — Infrastructure and safety
-- [[food-preservation]] — Long-term food storage
-- [[homestead-renewable-energy]] — Backup power systems
+- [[food-preservation-canning]] — Long-term food storage
+- [[homestead-energy-conservation]] — Backup power systems
 
 ## Related
 
-- [[homestead-emergency-preparedness]]
+- [[emergency-preparedness]]
 - [[wildfire-preparedness-guide]]
 - [[earthquake-preparedness-guide]]
 - [[extreme-heat-preparedness]]

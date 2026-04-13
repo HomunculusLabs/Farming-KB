@@ -23,7 +23,7 @@ sources:
 
 # Compost Tea (AACT) — Actively Aerated Compost Tea
 
-AACT is a liquid extract of compost, actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, it's used to restore and boost the [[soil-food-web]] in soils and on plant surfaces. AACT is NOT the same as anaerobic compost tea or leachate — it must be aerated.
+AACT is a liquid extract of compost, actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, it's used to restore and boost the [[soil-food-web-nutrient-cycling]] in soils and on plant surfaces. AACT is NOT the same as anaerobic compost tea or leachate — it must be aerated.
 
 ## Why AACT
 
@@ -77,7 +77,7 @@ AACT is a liquid extract of compost, actively aerated to multiply beneficial mic
 - **Vegetables/flowers**: 15 gal per acre, every 10-14 days
 - **Orchard/trees**: 10-15 gal per acre, spring and fall
 - **Indoor beds**: 1-2 cups per square foot, monthly
-- Apply to [[no-till-farming]] beds during watering
+- Apply to [[no-till-gardening-method]] beds during watering
 
 ### Foliar Spray
 - 5 gal per acre per 6 feet of canopy height
@@ -103,9 +103,9 @@ The quality of your AACT depends entirely on the compost:
 
 ## See Also
 
-- [[soil-food-web]] — the organisms AACT delivers
-- [[vermicompost]] — worm castings as AACT ingredient
+- [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
+- [[vermicomposting]] — worm castings as AACT ingredient
 - [[mycorrhizal-fungi]] — add spores to AACT for mycorrhizal inoculation
 - [[effective-microorganisms-em]] — EM as alternative inoculant
 - [[knf-preparations]] — KNF fermented inputs vs. AACT approach
-- [[cannabis-indoor-living-soil]] — AACT in living soil cannabis
+- [[cannabis-living-soil-guide]] — AACT in living soil cannabis

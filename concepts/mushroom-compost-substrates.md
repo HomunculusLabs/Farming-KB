@@ -73,4 +73,4 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 - [[mushroom-substrates]] — Grain spawn, wood substrates, supplements, C:N ratios
 - [[mushroom-cultivation-basics]] — Stamets' 10-step cultivation process
 - [[mushroom-species-guide]] — Species-specific substrate requirements
-- [[mushroom-contamination-troubleshooting]] — Contamination prevention and recovery
+- [[mushroom-contamination-identification]] — Contamination prevention and recovery

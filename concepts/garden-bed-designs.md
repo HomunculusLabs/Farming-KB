@@ -87,7 +87,7 @@ Self-watering garden beds that draw moisture up from a reservoir below the soil 
 
 ## Hugelkultur Beds
 
-Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design|permaculture]] and [[regenerative-agriculture|regenerative]] growing.
+Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design|permaculture]] and [[regenerative-agriculture-history|regenerative]] growing.
 
 ### Design
 - Mound of rotting wood, branches, leaves, and organic matter

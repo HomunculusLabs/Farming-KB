@@ -94,7 +94,7 @@ Hemenway's armchair method applied to his Oregon bioregion, based on Franklin an
 - [[food-forest-design]] — Guilds in the context of forest garden design
 - [[permaculture-design-methods]] — Broader permaculture design toolkit
 - [[dynamic-accumulators]] — Comprehensive list of nutrient-accumulating plants
-- [[companion-planting]] — Companion planting reference
+- [[companion-planting-reference]] — Companion planting reference
 - [[insect-allies]] — Beneficial insects and insectary plants
 - [[permaculture-animal-integration]] — Animals in guild systems
 - [[gaias-garden-methods]] — Home-scale permaculture methods from the same source
@@ -122,7 +122,7 @@ See [[food-forest-design]] and [[food-forest-layers-and-species]] for integratio
 
 ## Links
 
-- [[companion-planting]] — Simpler plant pairing combinations
+- [[companion-planting-reference]] — Simpler plant pairing combinations
 - [[food-forest-layers-and-species]] — Layered food forest species lists
 - [[dynamic-accumulators]] — Comprehensive accumulator plant list
 - [[insect-allies]] — Beneficial insect identification and attraction

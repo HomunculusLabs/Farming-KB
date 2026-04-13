@@ -140,10 +140,10 @@ The key insight from permaculture research is that "a little powerful diversity"
 
 ## Ecological Pest Management Principles
 
-Following [[regenerative-agriculture]] principles, the most sustainable pest management relies on building ecosystem resilience rather than reactive spraying:
+Following [[regenerative-agriculture-history]] principles, the most sustainable pest management relies on building ecosystem resilience rather than reactive spraying:
 
 1. **Biodiversity** — diverse plantings support complex food webs that naturally suppress pest outbreaks
-2. **Soil health** — healthy trees grown in nutrient-rich, biologically active soil resist pests and diseases more effectively (see [[soil-food-web]])
+2. **Soil health** — healthy trees grown in nutrient-rich, biologically active soil resist pests and diseases more effectively (see [[soil-food-web-nutrient-cycling]])
 3. **Habitat for predators** — maintain hedgerows, wild areas, and insectary plants to support lady beetles, lacewings, parasitic wasps, and birds
 4. **Cultural practices** — proper pruning (see [[fruit-tree-pruning]]), adequate spacing, and [[mulching-guide]] reduce disease pressure
 5. **Monitoring** — regular scouting catches problems early when intervention is most effective
@@ -154,7 +154,7 @@ Following [[regenerative-agriculture]] principles, the most sustainable pest man
 - [[orchard-management]] — Site selection, planting, pruning, harvest, seasonal calendar
 - [[fruit-tree-varieties]] — Disease-resistant variety recommendations
 - [[cannabis-pest-management]] — General IPM principles applicable across crops
-- [[companion-planting]] — Pest-repellent companion plants
-- [[companion-planting-master-table]] — Detailed companion planting reference
+- [[companion-planting-reference]] — Pest-repellent companion plants
+- [[companion-planting-reference]] — Detailed companion planting reference
 - [[fungal-pest-control]] — Fungal-based pest management approaches
 - [[fruit-tree-pruning]] — Pruning for disease prevention

@@ -162,4 +162,4 @@ Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DM
 
 ## Related
 
-- [[psychedelic-research-modern-era]]
+- [[psychedelic-research-timeline]]

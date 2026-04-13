@@ -28,7 +28,7 @@ sources:
 
 # Cannabis Plant Nutrition
 
-Cannabis requires 16 essential elements for healthy growth. In a living soil system, most of these are provided by the [[soil-food-web]] breaking down organic matter into plant-available forms. This page covers macro and micronutrients, their roles, deficiency symptoms, and organic sources.
+Cannabis requires 16 essential elements for healthy growth. In a living soil system, most of these are provided by the [[soil-food-web-nutrient-cycling]] breaking down organic matter into plant-available forms. This page covers macro and micronutrients, their roles, deficiency symptoms, and organic sources.
 
 ## Primary Macronutrients (NPK)
 
@@ -85,7 +85,7 @@ Cannabis requires 16 essential elements for healthy growth. In a living soil sys
 
 ## Nutrient Ratios by Stage (Living Soil)
 
-In a [[cannabis-indoor-living-soil]] system, the soil biology handles most nutrient delivery. The grower's role is to ensure the soil has adequate organic matter and amendments:
+In a [[cannabis-living-soil-guide]] system, the soil biology handles most nutrient delivery. The grower's role is to ensure the soil has adequate organic matter and amendments:
 
 ### Pre-Plant Soil Amendments (per cu. yd.)
 - 2 cups blood meal or feather meal (N)
@@ -105,12 +105,12 @@ In a [[cannabis-indoor-living-soil]] system, the soil biology handles most nutri
 ### Compost Tea Schedule
 - Aerated compost tea (ACT) every 1-2 weeks
 - Add molasses (1 tbsp/gallon) to feed microbial activity
-- Optional: add [[lactic-acid-bacteria]] serum for additional terpene production support
+- Optional: add [[lactic-acid-bacteria-lab]] serum for additional terpene production support
 
 ## pH in Living Soil
 
 Unlike hydroponics, living soil does not require strict pH management:
-- The [[soil-food-web]] buffers pH naturally through microbial activity
+- The [[soil-food-web-nutrient-cycling]] buffers pH naturally through microbial activity
 - Target soil pH: 6.0-7.0 (slightly acidic to neutral)
 - Dolomite lime in the base mix provides long-term pH buffering
 - If using RO water, add a pinch of dolomite lime or cal-mag to each watering
@@ -149,14 +149,14 @@ Per "Teaming With Fungi", cannabis forms arbuscular mycorrhizae with Rhizophagus
 The biosynthesis of cannabinoids and terpenes shares precursors with fatty acid pathways:
 - Olivetolic acid production increases under UV-B light exposure
 - Hexanoyl-CoA (from hexanoate) is a primer for cannabinoid biosynthesis
-- Application of [[lactic-acid-bacteria]] serum may provide hexanoic acid as a substrate, potentially boosting cannabinoid production
+- Application of [[lactic-acid-bacteria-lab]] serum may provide hexanoic acid as a substrate, potentially boosting cannabinoid production
 - Adequate phosphorus and potassium during flowering supports terpene production
 
 ## Related Pages
 
-- [[cannabis-indoor-living-soil]] — soil mix and amendment recipes
+- [[cannabis-living-soil-guide]] — soil mix and amendment recipes
 - [[cannabis-root-microbiome]] — research on how cannabis selects its microbial partners
-- [[soil-food-web]] — how biology delivers nutrients
+- [[soil-food-web-nutrient-cycling]] — how biology delivers nutrients
 - [[mycorrhizal-fungi]] — fungal partners for nutrient uptake
 - [[cannabis-vegetative-stage]] — veg nutrition management
 - [[cannabis-flowering-stage]] — flower nutrition management

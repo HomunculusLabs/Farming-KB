@@ -181,4 +181,4 @@ If milling your own flour:
 
 ## Related Topics
 
-Fresh flour for baking comes from [[grain-milling-at-home]]. Sourdough fermentation principles overlap with [[food-fermentation]] and [[effective-microorganisms-em]] topics. Bread sales connect to [[soap-and-candle-making]] and broader [[fungi-and-sustainability]] economics. Grain production ties into [[small-scale-grain-growing]] crop management and [[food-forest-design]] design.
+Fresh flour for baking comes from [[grain-milling-at-home]]. Sourdough fermentation principles overlap with [[food-fermentation-guide]] and [[effective-microorganisms-em]] topics. Bread sales connect to [[soap-making-guide]] and broader [[fungi-and-sustainability]] economics. Grain production ties into [[small-scale-grain-growing]] crop management and [[food-forest-design]] design.

@@ -53,7 +53,7 @@ Money's ability to explain complex mycological concepts in vivid, literary prose
 - [[buller-ahr]] — Money documented Buller's spore discharge research
 - [[ingold-cecil-t]] — Money documented Ingold's aquatic fungi discovery (book dedicated to him)
 - [[fairy-rings-and-giant-mycelia]] — fungal ecology topics Money covers
-- [[fungal-predators-and-nematode-trapping]] — predatory fungi covered in Money's book
+- [[fungal-parasites-and-predators]] — predatory fungi covered in Money's book
 - [[mushroom-poisoning-guide]] — toxic fungi covered in "Angels of Death" chapter
-- [[fungal-spore-dispersal-mechanisms]] — spore physics Money researches
+- [[fungal-spore-biology]] — spore physics Money researches
 - [[history-of-mycology-timeline]] — Money's historical accounts

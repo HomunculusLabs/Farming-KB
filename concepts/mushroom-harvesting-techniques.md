@@ -168,5 +168,5 @@ Understanding fresh-to-dry weight ratios is important for dosing and yield track
 
 - [[mushroom-yield-optimization]] — maximizing yield before harvest
 - [[monotub-cultivation]] — the growing method leading to harvest
-- [[psilocybin-mushroom-cultivation-basics]] — the complete cultivation cycle
+- [[psilocybin-mushroom-cultivation]] — the complete cultivation cycle
 - [[mushroom-strain-selection]] — strain characteristics affecting harvest timing

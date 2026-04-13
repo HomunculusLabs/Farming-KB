@@ -24,7 +24,7 @@ sources:
 
 # Outdoor Wood Lover Cultivation
 
-Detailed guide for cultivating wood-decomposing mushrooms (Psilocybe azurescens, P. cyanescens, P. ovoideocystidiata, P. allenii) in outdoor beds. See [[mushroom-cultivation-methods-comparison]] for method selection and [[mushroom-growing-reference]] for general parameters.
+Detailed guide for cultivating wood-decomposing mushrooms (Psilocybe azurescens, P. cyanescens, P. ovoideocystidiata, P. allenii) in outdoor beds. See [[mushroom-cultivation-methods]] for method selection and [[mushroom-growing-reference]] for general parameters.
 
 ## Species Overview
 
@@ -104,7 +104,7 @@ Critical: overwatering during summer promotes aggressive mycelial growth but sup
 - Treated patches release enormous quantities of spores annually
 
 ## Related Pages
-- [[mushroom-cultivation-methods-comparison]] — Method selection guide
+- [[mushroom-cultivation-methods]] — Method selection guide
 - [[mushroom-growing-reference]] — General cultivation reference
 - [[mushroom-substrates]] — Substrate recipes and wood chip details
 - [[fungal-ecosystem-roles]] — Fungi in decomposition and soil building

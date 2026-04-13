@@ -24,7 +24,7 @@ sources:
 
 Harvest timing, storage conditions, and detailed crop-specific notes for home vegetable gardens, based on Purdue Extension guidelines.
 
-Related: [[vegetable-garden-guide]], [[food-preservation]], [[seasonal-planning]]
+Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-planning]]
 
 ## Storage Conditions Summary
 
@@ -121,5 +121,5 @@ Related: [[vegetable-garden-guide]], [[food-preservation]], [[seasonal-planning]
 
 - [[vegetable-garden-guide]] — Site selection, planting, fertilization, and general techniques
 - [[vegetable-garden-fertilization]] — Fertilization program and pH management
-- [[food-preservation]] — Canning, fermentation, dehydrating, freezing
+- [[food-preservation-canning]] — Canning, fermentation, dehydrating, freezing
 - [[seasonal-planning]] — Year-round garden planning

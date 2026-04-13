@@ -61,8 +61,8 @@ The four independent channels typically correspond to:
 ## Practical Setup Notes
 
 - Mount at recommended height for even coverage (check manufacturer specs)
-- Use a PAR meter to verify PPFD at canopy level — see [[cannabis-light-spectrums]] for target values
-- The 4-channel capability pairs well with a living soil approach — slower-feeding plants in [[cannabis-indoor-living-soil]] beds benefit from the ability to fine-tune spectrum without changing fixtures
+- Use a PAR meter to verify PPFD at canopy level — see [[cannabis-lighting-guide]] for target values
+- The 4-channel capability pairs well with a living soil approach — slower-feeding plants in [[cannabis-living-soil-guide]] beds benefit from the ability to fine-tune spectrum without changing fixtures
 - Program the controller (if dimmable) to gradually shift spectrum during the flip from veg to flower
 
 ## Maintenance
@@ -85,7 +85,7 @@ Specific wattage, coverage area, and exact channel specifications should be veri
 
 ## Related Pages
 
-- [[cannabis-light-spectrums]] — PAR/PPFD targets and spectrum science
+- [[cannabis-lighting-guide]] — PAR/PPFD targets and spectrum science
 - [[cannabis-vegetative-stage]] — vegetative lighting requirements
 - [[cannabis-flowering-stage]] — flowering lighting requirements
 - [[plant-perception]] — how plants perceive light wavelengths

@@ -191,9 +191,9 @@ Viasat and HughesNet use geostationary satellites 22,000+ miles above Earth.
 
 ### Cons
 
-- High latency makes video calls and gaming difficult
-- Data caps are restrictive
-- Slower than Starlink and many cellular options
-- Expensive for the data provided
-- Rain fade during storms
 ## Related
+
+- [[homestead-first-aid-guide]]
+- [[homestead-water-purification]]
+- [[homestead-financial-planning]]
+- [[off-grid-electricity-basics]]

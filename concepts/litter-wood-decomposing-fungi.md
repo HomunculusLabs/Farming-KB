@@ -180,6 +180,6 @@ Dead wood is declining in managed forests:
 - [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
 - [[fungal-nutrient-cycling-mineral-transformations]] — Carbon and nutrient cycling
 - [[fungal-growth-dynamics]] — Mycelial foraging and resource translocation
-- [[fungi-climate-change]] — Climate effects on decomposition
+- [[fungi-in-climate-change]] — Climate effects on decomposition
 - [[fairy-rings-and-giant-mycelia]] — Armillaria and large mycelial networks
 - [[fungal-ecology-decomposition-cycles]] — Decomposition cycles in ecosystems

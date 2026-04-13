@@ -72,7 +72,7 @@ Discovered by [[jochen-gartz]] in this species, aeruginascin (4-phosphoryloxy-N,
 
 ### Gartz's Aeruginascin Hypothesis
 
-Gartz made a significant observation: users who consumed Inocybe aeruginascens reported predominantly positive experiences with very low incidence of anxiety, panic, or "bad trips" compared to users of other psilocybin-containing species. Gartz hypothesized that aeruginascin may act as a euphoriant or anxiolytic, modulating the psychedelic experience to produce a more consistently pleasant subjective state. This hypothesis has not been formally tested in clinical settings but represents one of the most intriguing observations in ethnopharmacology. See [[psilocybin-mushroom-effects-and-safety]] for further discussion.
+Gartz made a significant observation: users who consumed Inocybe aeruginascens reported predominantly positive experiences with very low incidence of anxiety, panic, or "bad trips" compared to users of other psilocybin-containing species. Gartz hypothesized that aeruginascin may act as a euphoriant or anxiolytic, modulating the psychedelic experience to produce a more consistently pleasant subjective state. This hypothesis has not been formally tested in clinical settings but represents one of the most intriguing observations in ethnopharmacology. See [[psilocybin-mushroom-chemistry]] for further discussion.
 
 ## Cultural and Recreational Use
 
@@ -114,7 +114,7 @@ Consuming Inocybe species is EXTREMELY DANGEROUS without expert identification:
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Chemical analysis and alkaloid profiles
-- [[psilocybin-mushroom-effects-and-safety]] — Aeruginascin hypothesis and safety
-- [[psilocybin-mushroom-distribution]] — European species distribution
+- [[psilocybin-mushroom-chemistry]] — Aeruginascin hypothesis and safety
+- [[psilocybin-mushroom-chemistry]] — European species distribution
 - [[jochen-gartz]] — Discoverer of aeruginascin in this species
 - [[mushroom-identification-resources]] — Identification safety principles

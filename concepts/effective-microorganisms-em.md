@@ -30,7 +30,7 @@ The core EM consortium contains approximately 80 species across three groups:
 
 ### 1. Lactic Acid Bacteria (Lactobacillus species)
 - Produce lactic acid, which suppresses harmful microbes
-- See [[lactic-acid-bacteria]] for detailed info
+- See [[lactic-acid-bacteria-lab]] for detailed info
 - Dominant in fermented foods (yogurt, kimchi, sauerkraut)
 
 ### 2. Yeast (Saccharomyces species)
@@ -95,10 +95,10 @@ Both approaches work. EM is convenient and consistent; IMO captures local biolog
 
 ## See Also
 
-- [[lactic-acid-bacteria]] — LAB as individual input
+- [[lactic-acid-bacteria-lab]] — LAB as individual input
 - [[indigenous-microorganisms-imo]] — KNF's local microbe approach
 - [[bokashi]] — EM-driven anaerobic fermentation
-- [[soil-food-web]] — the biology EM supports
+- [[soil-food-web-nutrient-cycling]] — the biology EM supports
 - [[compost-tea-aact]] — AACT as alternative biology delivery
 
 ## Related

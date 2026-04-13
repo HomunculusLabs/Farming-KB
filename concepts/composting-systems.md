@@ -30,7 +30,7 @@ sources:
 
 # Composting Systems
 
-Composting converts organic waste into stable, nutrient-rich humus through biological decomposition. Different systems suit different scales, inputs, and timelines. On a homestead with [[duck-keeping]] and [[goat-keeping]], manure management makes composting essential. See [[vermicompost]], [[bokashi]], [[compost-tea-aact]], and [[sepp-holzer-methods]] for specialized methods.
+Composting converts organic waste into stable, nutrient-rich humus through biological decomposition. Different systems suit different scales, inputs, and timelines. On a homestead with [[duck-keeping]] and [[goat-keeping]], manure management makes composting essential. See [[vermicomposting]], [[bokashi]], [[compost-tea-aact]], and [[sepp-holzer-methods]] for specialized methods.
 
 ## Hot Composting (Berkeley Method)
 
@@ -55,7 +55,7 @@ Minimal-effort method: pile materials as they become available, no turning requi
 
 ## Vermicomposting
 
-Worm-based composting ideal for kitchen scraps and small spaces. See [[vermicompost]] for full details: bin setup, feeding rates, harvesting castings, species selection (Eisenia fetida).
+Worm-based composting ideal for kitchen scraps and small spaces. See [[vermicomposting]] for full details: bin setup, feeding rates, harvesting castings, species selection (Eisenia fetida).
 
 ## Bokashi Fermentation
 
@@ -149,21 +149,21 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 
 ## Related
 
-- [[vermicompost]] — Worm-based composting system
+- [[vermicomposting]] — Worm-based composting system
 - [[bokashi]] — Anaerobic fermentation pre-compost
 - [[compost-tea-aact]] — Actively aerated compost tea brewing
 - [[sepp-holzer-methods]] — Hugelkultur and holistic land management
-- [[soil-food-web]] — Biology that drives decomposition
+- [[soil-food-web-nutrient-cycling]] — Biology that drives decomposition
 - [[duck-keeping]] — Duck manure as compost input
 - [[goat-keeping]] — Goat manure as compost input
-- [[cover-cropping]]
-- [[no-till-farming]]
+- [[cover-cropping-guide]]
+- [[no-till-gardening-method]]
 - [[soil-fertility-management]]
 - [[animal-byproducts]]
-- [[cannabis-indoor-living-soil]]
+- [[cannabis-living-soil-guide]]
 - [[mycorrhizal-fungi]]
 - [[hot-composting-vs-vermicompost-vs-bokashi]] — comparison
 - [[humanure-composting]] — thermophilic composting of human manure
-- [[vermicomposting-detail]] — advanced worm farming: species, bin designs, troubleshooting
+- [[vermicomposting]] — advanced worm farming: species, bin designs, troubleshooting
 - [[biochar-in-agriculture|biochar]]]
 - [[composting-systems-design-comparison]]

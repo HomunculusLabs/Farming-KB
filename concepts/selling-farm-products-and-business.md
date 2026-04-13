@@ -50,7 +50,7 @@ Meat, dairy, eggs (for sale), canned low-acid foods (pressure canned), juices, s
 - Some states require food handler's card
 - **Best resource**: Forrager.com — updated cottage food law comparison by state
 
-See also [[food-preservation]].
+See also [[food-preservation-canning]].
 
 ## Raw Milk Laws
 
@@ -88,7 +88,7 @@ See also [[dairy-and-cheesemaking]] and [[goat-keeping]].
 - **Transition period**: 3 years of compliant management before land can be certified
 - **Record-keeping**: Extensive — all inputs, practices, and sales must be documented
 
-See also [[regenerative-agriculture]].
+See also [[regenerative-agriculture-history]].
 
 ## Business Structure and Taxes
 
@@ -168,11 +168,11 @@ States with expanded producer-to-consumer sales beyond cottage food exemptions:
 
 - [[homesteading-legal-considerations]] — Zoning, livestock, water rights, building permits
 - [[dairy-and-cheesemaking]] — Milk processing regulations and licensing
-- [[food-preservation]] — Home food preservation and cottage food context
+- [[food-preservation-canning]] — Home food preservation and cottage food context
 - [[goat-keeping]] — Goat keeping and regulatory considerations
 - [[duck-keeping]] — Duck management and regulations
-- [[beekeeping]] — Apiary regulations and registration
-- [[regenerative-agriculture]] — Principles aligned with conservation program incentives
+- [[beekeeping-basics]] — Apiary regulations and registration
+- [[regenerative-agriculture-history]] — Principles aligned with conservation program incentives
 - [[homesteading-infrastructure]] — Infrastructure planning and permitting
 - [[seasonal-planning]] — Annual homesteading calendar
 - [[food-forest-design]] — Perennial systems and land use classification

@@ -69,8 +69,8 @@ Understanding glomalin has profound implications for farming and gardening:
 ## Supporting Glomalin Production
 
 See [[mycorrhizal-fungi]] for full practices. Key strategies:
-- Practice [[no-till-farming]] to protect hyphal networks
-- Keep living roots in soil year-round ([[cover-cropping]])
+- Practice [[no-till-gardening-method]] to protect hyphal networks
+- Keep living roots in soil year-round ([[cover-cropping-guide]])
 - Minimize phosphorus fertilizer applications
 - Apply [[compost-tea-aact]] with fungal foods
 - Use woody mulches to support fungal dominance
@@ -79,9 +79,9 @@ See [[mycorrhizal-fungi]] for full practices. Key strategies:
 ## See Also
 
 - [[mycorrhizal-fungi]] — The fungi that produce glomalin
-- [[soil-food-web]] — The ecosystem containing mycorrhizal fungi
-- [[soil-food-web-advanced]] — Advanced soil biology topics
-- [[no-till-farming]] — Protecting fungal networks
+- [[soil-food-web-nutrient-cycling]] — The ecosystem containing mycorrhizal fungi
+- [[soil-food-web-nutrient-cycling]] — Advanced soil biology topics
+- [[no-till-gardening-method]] — Protecting fungal networks
 - [[composting-systems]] — Building soil organic matter
 - [[soil-fertility-management]] — Overall soil health management
 - [[mycorrhizal-networks]] — How mycorrhizal networks function

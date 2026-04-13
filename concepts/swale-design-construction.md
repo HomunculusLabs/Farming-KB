@@ -127,7 +127,7 @@ Every swale needs a safe overflow point to prevent catastrophic failure during e
 
 ### Step 5: Stabilization
 
-1. Plant the berm immediately with a cover crop (see [[cover-crops-guide]]) to prevent erosion
+1. Plant the berm immediately with a cover crop (see [[cover-cropping-guide]]) to prevent erosion
 2. Mulch the berm heavily with straw or wood chips
 3. Plant trees and perennials on the berm (see below)
 4. Line the swale bottom with gravel or wood chips if water velocity will be high
@@ -186,6 +186,6 @@ Swales create ideal planting conditions — the berm is well-drained and moistur
 - [[keyline-design]] for broader landscape water management
 - [[earthworks-for-water-management]] for ponds, berms, and retention basins
 - [[rainwater-harvesting-systems]] for water collection and storage
-- [[cover-crops-guide]] for stabilizing newly built swales
+- [[cover-cropping-guide]] for stabilizing newly built swales
 - erosion for erosion control context
 - [[preserving-wood-timber-framing]]

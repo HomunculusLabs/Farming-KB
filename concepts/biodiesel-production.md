@@ -147,7 +147,7 @@ After washing, biodiesel contains suspended water droplets:
 
 Glycerin makes up about 20% of the reaction volume and has several uses:
 
-- **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-and-candle-making]]
+- **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-making-guide]]
 - **Compost additive** — Small amounts can be composted; it breaks down readily
 - **Methanol recovery** — Residual methanol can be recovered by heating the glycerin to 150F
 - **Degreaser** — Raw glycerin is an effective industrial degreaser
@@ -171,4 +171,4 @@ Do not dump large quantities of glycerin on the ground or in waterways. The meth
 
 ## Related Topics
 
-Biodiesel production complements other off-grid energy systems. See [[biogas-digester-basics]] for another renewable fuel approach. The glycerin byproduct connects to soap making in [[soap-and-candle-making]]. Energy system design principles overlap with broader [[fungi-and-sustainability]] goals on the homestead.
+Biodiesel production complements other off-grid energy systems. See [[biogas-digester-basics]] for another renewable fuel approach. The glycerin byproduct connects to soap making in [[soap-making-guide]]. Energy system design principles overlap with broader [[fungi-and-sustainability]] goals on the homestead.

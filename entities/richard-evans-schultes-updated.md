@@ -60,8 +60,8 @@ Key principles from his work:
 
 ## See Also
 
-- [[hallucinogenic-plants-world-survey]] — overview page derived from Schultes's Golden Guide
-- [[hallucinogenic-plants-old-world]] — Old World species profiles
+- [[hallucinogenic-plants-new-world]] — overview page derived from Schultes's Golden Guide
+- [[hallucinogenic-plants-new-world]] — Old World species profiles
 - [[hallucinogenic-plants-new-world]] — New World species profiles
 - [[hallucinogenic-plant-chemistry]] — chemical families from Schultes's framework
 - [[entheogen-culture]] — religious/spiritual context

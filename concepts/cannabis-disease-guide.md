@@ -182,4 +182,4 @@ Diseases often follow pest damage — weakened plants from [[cannabis-pest-manag
 
 ## Related
 
-- [[cannabis-pest-and-disease-id]]
+- [[cannabis-pest-management]]

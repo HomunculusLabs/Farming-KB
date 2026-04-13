@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-guide]] for preparation and cooking instructions, and [[fungal-spore-print-guide]] for identification aids.
+Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for preparation and cooking instructions, and [[fungal-spore-print-guide]] for identification aids.
 
 ## Species
 
@@ -122,7 +122,7 @@ True morels have these key features:
 
 1. Always cut every morel in half lengthwise before cooking to verify it is completely hollow
 2. Never eat raw morels (contain hydrazine-like compounds)
-3. Cook thoroughly — see [[mushroom-cooking-guide]] for cooking instructions
+3. Cook thoroughly — see [[mushroom-cooking-techniques]] for cooking instructions
 4. When trying morels for the first time, eat a small amount and wait 24 hours
 5. Do not consume alcohol with morels (some reports of enhanced toxicity)
 6. Do not eat large quantities — even properly prepared morels can cause GI distress in some people
@@ -159,6 +159,6 @@ Morel cultivation has been pursued for over 100 years with limited commercial su
 
 ## See Also
 
-- [[mushroom-cooking-guide]] — Cooking morels safely and deliciously
+- [[mushroom-cooking-techniques]] — Cooking morels safely and deliciously
 - [[fungal-spore-print-guide]] — Spore print technique (morel spore print is cream to pale yellow)
 - [[mushroom-taxonomy-history]] — How DNA sequencing reclassified Morchella species

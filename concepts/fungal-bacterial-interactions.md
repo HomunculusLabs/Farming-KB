@@ -10,7 +10,7 @@ sources:
 
 # Fungal Interactions with Bacteria
 
-Competition, cooperation, and coexistence between fungi and bacteria in soil, plant surfaces, and other environments. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[soil-food-web]], [[fungal-nutrient-cycling-mineral-transformations]], and [[fungal-ecology-decomposition-cycles]].
+Competition, cooperation, and coexistence between fungi and bacteria in soil, plant surfaces, and other environments. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[soil-food-web-nutrient-cycling]], [[fungal-nutrient-cycling-mineral-transformations]], and [[fungal-ecology-decomposition-cycles]].
 
 ## Overview
 
@@ -111,7 +111,7 @@ In composting systems (see [[composting-systems]]):
 Managing fungal-bacterial balance is central to soil health:
 
 - **Bacterial-dominated soils**: Typically associated with annual crops, disturbed soils, and high-nutrient conditions. Faster nutrient cycling, less stable soil structure.
-- **Fungal-dominated soils**: Associated with perennial systems, no-till, forests, and mature ecosystems. Slower nutrient cycling, more stable aggregates, greater carbon storage. See [[soil-food-web]] and [[cannabis-indoor-living-soil]].
+- **Fungal-dominated soils**: Associated with perennial systems, no-till, forests, and mature ecosystems. Slower nutrient cycling, more stable aggregates, greater carbon storage. See [[soil-food-web-nutrient-cycling]] and [[cannabis-living-soil-guide]].
 - **Management**: Practices that favor fungal dominance include no-till, perennial crops, mulching, and reduced synthetic fertilizer inputs. Practices favoring bacterial dominance include tillage, fallow periods, and high nitrogen inputs.
 
 ### Plant Disease Suppression
@@ -132,7 +132,7 @@ Understanding fungal-bacterial interactions is key to managing plant diseases:
 
 ## Related Pages
 
-- [[soil-food-web]] -- trophic structure and energy flow in soil
+- [[soil-food-web-nutrient-cycling]] -- trophic structure and energy flow in soil
 - [[fungal-ecology-decomposition-cycles]] -- decomposition succession
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling
 - [[mycorrhizal-types]] -- mycorrhizal associations

@@ -177,4 +177,4 @@ Shimeji is versatile and widely used in Japanese cuisine:
 - [[nameko-cultivation]] for cold-shock fruiting techniques
 - [[oyster-mushroom-species-guide]] for species cultivated on similar substrates
 - [[mushroom-substrates]]
-- [[mushroom-growing-room-design]]
+- [[mushroom-grow-room-design]]

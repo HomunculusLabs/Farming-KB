@@ -31,7 +31,7 @@ The foundation phase determines long-term success. Rushing past site preparation
 
 **Steps:**
 1. Complete a thorough [[permaculture-site-analysis]] including soil tests, water flow mapping, and microclimate assessment
-2. Install water management earthworks — swales, ponds, access roads (see [[permaculture-water-management]])
+2. Install water management earthworks — swales, ponds, access roads (see [[water-management]])
 3. Clear existing vegetation using sheet mulching or solarization (avoid tilling if possible)
 4. Build soil — apply compost, rock minerals, biochar, and organic matter
 5. Establish cover crops to begin building soil biology and suppress weeds

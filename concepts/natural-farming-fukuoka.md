@@ -44,10 +44,10 @@ His books (*The One-Straw Revolution*, *The Natural Way of Farming*, *The Road B
 Fukuoka distilled his approach into four principles:
 
 ### 1. No Cultivation (No Till)
-Plowing disturbs the soil ecosystem -- earthworms, mycorrhizal fungi, and beneficial microbes are destroyed. Natural soil structure, built by roots and soil organisms over years, is far superior to anything created by mechanical disturbance. Fukuoka observed that nature never plows, yet forests and meadows thrive. See [[no-till-farming]] for practical methods.
+Plowing disturbs the soil ecosystem -- earthworms, mycorrhizal fungi, and beneficial microbes are destroyed. Natural soil structure, built by roots and soil organisms over years, is far superior to anything created by mechanical disturbance. Fukuoka observed that nature never plows, yet forests and meadows thrive. See [[no-till-gardening-method]] for practical methods.
 
 ### 2. No Chemical Fertilizer
-Chemical fertilizers disrupt the natural nutrient cycling between plants, soil organisms, and organic matter. When you add soluble nitrogen, plants become dependent on external inputs and stop forming relationships with soil microbes. Fukuoka used only [[cover-cropping]] with legumes (clover, vetch) and returned all plant residues to the field. Soil fertility comes from the living soil food web -- bacteria, fungi, earthworms, and decomposition of organic matter. This aligns closely with [[cannabis-indoor-living-soil]] philosophy.
+Chemical fertilizers disrupt the natural nutrient cycling between plants, soil organisms, and organic matter. When you add soluble nitrogen, plants become dependent on external inputs and stop forming relationships with soil microbes. Fukuoka used only [[cover-cropping-guide]] with legumes (clover, vetch) and returned all plant residues to the field. Soil fertility comes from the living soil food web -- bacteria, fungi, earthworms, and decomposition of organic matter. This aligns closely with [[cannabis-living-soil-guide]] philosophy.
 
 ### 3. No Pesticides or Herbicides
 Chemical pesticides kill beneficial insects and soil life along with target pests. Fukuoka's approach was to build balanced ecosystems where pests are controlled by natural predators. He used:
@@ -56,7 +56,7 @@ Chemical pesticides kill beneficial insects and soil life along with target pest
 - **Healthy soil**: Plants grown in living soil are more pest-resistant
 - **Timing**: Sowing and harvesting at the right time reduces pest pressure
 
-This connects directly to [[companion-planting]] and [[cover-cropping]] strategies.
+This connects directly to [[companion-planting-reference]] and [[cover-cropping-guide]] strategies.
 
 ### 4. No Weeding (or minimal weeding)
 Fukuoka did not fight weeds. He managed them:
@@ -155,8 +155,8 @@ Fukuoka scattered vegetable seed on unused land -- orchards, levees, open fields
 
 ## Application on a Homestead
 
-- Adopt [[no-till-farming]] methods for all garden beds
-- Replace fertilizer inputs with [[cover-cropping]] and compost
+- Adopt [[no-till-gardening-method]] methods for all garden beds
+- Replace fertilizer inputs with [[cover-cropping-guide]] and compost
 - Use ducks for pest control in gardens (they eat slugs, snails, and insects)
 - Stop fighting weeds -- manage them with mulch and competitive plantings
 - Return all plant residues to the soil
@@ -174,11 +174,11 @@ Fukuoka scattered vegetable seed on unused land -- orchards, levees, open fields
 - [[natural-way-of-farming-guide]] — Complete deep dive into The Natural Way of Farming
 - [[fukuoka-no-prune-fruit-tree-method]] — Detailed orchard no-pruning technique
 - [[fukuoka-soil-building-method]] — Soil restoration from barren land
-- [[no-till-farming]]
-- [[cover-cropping]]
+- [[no-till-gardening-method]]
+- [[cover-cropping-guide]]
 - [[permaculture-principles]]
-- [[cannabis-indoor-living-soil]]
-- [[companion-planting]]
+- [[cannabis-living-soil-guide]]
+- [[companion-planting-reference]]
 - [[fukuoka-philosophy-in-practice]] — deep philosophy dive
 - [[natural-farming-seed-balls]] — clay pellet technique
 - [[natural-farming-vs-organic-vs-conventional]] — three-way comparison

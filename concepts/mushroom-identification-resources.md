@@ -143,7 +143,7 @@ Ramsbottom provides the most thorough early ethnographic account of A. muscaria 
 [[hallucinogenic-mushrooms-european-trends]]
 - [[mushroom-identification]] — Basic ID features and poisonous genera
 - [[mushroom-species-guide]] — Cultivated species profiles
-- [[edible-wild-mushrooms-of-north-america]] — Seasonal foraging calendar
+- [[edible-wild-mushrooms-by-region]] — Seasonal foraging calendar
 - [[amanita-muscaria-guide]] — Amanita identification and preparation
-- [[psilocybin-mushroom-distribution]] — Distribution of psychoactive species
+- [[psilocybin-mushroom-chemistry]] — Distribution of psychoactive species
 - [[mushroom-folklore-and-culture]] — Cultural attitudes toward fungi

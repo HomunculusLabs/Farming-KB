@@ -24,7 +24,7 @@ sources:
 
 # Plant Defense Mechanisms
 
-Plants are not passive victims of pests and disease. They have evolved sophisticated defense systems that work through chemistry, signaling, and partnerships with [[soil-food-web]]. Understanding these mechanisms is key to [[insect-allies]]-free gardening.
+Plants are not passive victims of pests and disease. They have evolved sophisticated defense systems that work through chemistry, signaling, and partnerships with [[soil-food-web-nutrient-cycling]]. Understanding these mechanisms is key to [[insect-allies]]-free gardening.
 
 ## Chemical Defenses
 
@@ -68,7 +68,7 @@ Plants host beneficial microbes inside their tissues (endophytes):
 - Sterile potting mix lacks these protective endophytes
 
 ### Rhizosphere Defense Zone
-The [[soil-food-web]] around plant roots creates a biological shield:
+The [[soil-food-web-nutrient-cycling]] around plant roots creates a biological shield:
 
 - Beneficial bacteria outcompete pathogens for root exudates
 - Predatory nematodes and protozoa consume pathogenic bacteria and fungi
@@ -106,7 +106,7 @@ Often overlooked as a plant nutrient, silicon:
 ## How to Support Plant Defenses
 
 1. **Complete mineral nutrition** — plants need all 13 nutrients to synthesize defensive compounds
-2. **Healthy soil biology** — [[soil-food-web]] provides biological protection
+2. **Healthy soil biology** — [[soil-food-web-nutrient-cycling]] provides biological protection
 3. **Mycorrhizal inoculation** — especially in disturbed or tilled soils
 4. **Avoid synthetic pesticides** — they kill beneficial insects and microbes that provide defense
 5. **Appropriate stress** — mild stress (hardening off, water stress) can prime defenses
@@ -114,7 +114,7 @@ Often overlooked as a plant nutrient, silicon:
 
 ## See Also
 
-- [[soil-food-web]] — biological defense system
+- [[soil-food-web-nutrient-cycling]] — biological defense system
 - [[mycorrhizal-fungi]] — fungal plant protection
 - [[nutrient-dense-gardening]] — nutritional plant defense
 - [[compost-tea-aact]] — inoculating the defense zone

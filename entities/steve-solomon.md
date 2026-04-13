@@ -88,4 +88,4 @@ Solomon's approach combines several threads:
 - [[soil-fertility-management]] — broader soil management
 - [[dynamic-accumulators]] — biological mineral mining
 - [[soil-testing]] — essential first step in his method
-- [[seed-saving]] — seed self-reliance
+- [[seed-saving-techniques]] — seed self-reliance

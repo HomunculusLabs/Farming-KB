@@ -47,14 +47,14 @@ Robert Connell Clarke (1953–2017) was an American cannabis researcher, ethnobo
 
 ## Legacy
 
-Clarke's "Marijuana Botany" remains the most cited reference for cannabis breeding methodology. His taxonomic and ethnobotanical work provides the scientific foundation for understanding cannabis diversity. His research on traditional hashish production has influenced modern solventless extraction methods. The [[cannabis-genetics-and-breeding]], [[cannabis-vegetative-stage]], and [[cannabis-harvesting-and-curing]] pages all draw on principles Clarke formalized.
+Clarke's "Marijuana Botany" remains the most cited reference for cannabis breeding methodology. His taxonomic and ethnobotanical work provides the scientific foundation for understanding cannabis diversity. His research on traditional hashish production has influenced modern solventless extraction methods. The [[cannabis-genetics-and-breeding]], [[cannabis-vegetative-stage]], and [[cannabis-harvest-and-curing]] pages all draw on principles Clarke formalized.
 
 ## See Also
 
 - [[cannabis-genetics-and-breeding]] — Breeding methodology
 - [[cannabis-vegetative-stage]] — Vegetative growth
 - [[cannabis-flowering-stage]] — Flowering phase
-- [[cannabis-harvesting-and-curing]] — Harvest and processing
+- [[cannabis-harvest-and-curing]] — Harvest and processing
 - [[cannabis-plant-nutrition]] — Plant nutrition
-- [[cannabis-indoor-living-soil]] — Indoor cultivation
+- [[cannabis-living-soil-guide]] — Indoor cultivation
 - [[cannabis-pest-management]] — Pest and disease management

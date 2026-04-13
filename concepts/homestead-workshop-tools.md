@@ -82,7 +82,7 @@ Non-negotiable safety gear for the workshop:
 - Dust masks (N95 minimum) or respirator — for cutting MDF, treated lumber, or any dusty operation
 - Steel-toed boots — when moving heavy materials or operating power tools
 - Fire extinguisher (ABC rated) — mounted near the door, inspected annually
-- First aid kit — see [[homestead-first-aid]] for workshop-specific supplies
+- First aid kit — see [[homestead-first-aid-guide]] for workshop-specific supplies
 
 ## Building a Shop on a Budget
 

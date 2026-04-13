@@ -143,4 +143,4 @@ A successful pollinator garden provides continuous blooms from early spring thro
 - [[integrated-pest-management]] -- managing pests while protecting pollinators
 - [[plant-disease-identification]] -- keeping pollinator plants healthy
 - [[pollinator-habitat]]
-- [[cover-cropping]]
+- [[cover-cropping-guide]]

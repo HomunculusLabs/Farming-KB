@@ -145,7 +145,7 @@ Saving water saves energy (pumping, heating, treating):
 - Dual-flush toilets or composting toilets
 - Fix all leaks immediately (a dripping faucet wastes 3000+ gallons/year)
 - Greywater recycling for irrigation (see [[graywater-systems]])
-- Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting]])
+- Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])
 - Mulch gardens heavily to reduce irrigation needs
 
 ## Behavioral Changes
@@ -195,4 +195,4 @@ Total investment: ~$100-150. Annual savings: $400-700. Payback: 2-3 months.
 ## See Also
 
 - [[off-grid-electricity-basics]] — System sizing and component selection
-- [[homestead-renewable-energy]] — Renewable energy generation
+- [[homestead-energy-conservation]] — Renewable energy generation

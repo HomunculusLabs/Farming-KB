@@ -164,10 +164,10 @@ Most organic fertilizers weigh roughly 1 lb per quart (varies). So 0.83 lbs bloo
 
 ## NPK and Living Soil
 
-In a [[cannabis-indoor-living-soil]] system, NPK management is different from conventional growing:
+In a [[cannabis-living-soil-guide]] system, NPK management is different from conventional growing:
 
 - Pre-amend the soil mix at planting -- the biology converts organic inputs to plant-available forms over weeks
-- Avoid synthetic NPK -- it disrupts the [[soil-food-web]] by feeding bacteria selectively and creating salt stress
+- Avoid synthetic NPK -- it disrupts the [[soil-food-web-nutrient-cycling]] by feeding bacteria selectively and creating salt stress
 - Top-dress with organic amendments (bone meal, kelp, langbeinite) when deficiencies appear
 - Compost tea feeds the biology, not the plant directly
 - Mycorrhizal fungi provide up to 80% of plant P and significant N -- don't over-apply P (>70 ppm inhibits colonization)

@@ -23,8 +23,8 @@ Homesteading requires knowledge across dozens of disciplines: agriculture, anima
 - The Vegetable Gardener's Bible (Edward C. Smith) — W-O-R-D system (Wide rows, Organic methods, Raised beds, Deep soil). Excellent for beginners.
 - Gaia's Garden (Toby Hemenway) — the most accessible introduction to [[permaculture-principles]] for home scale.
 - The New Organic Grower (Eliot Coleman) — market gardening techniques applicable to homestead-scale production. Focus on soil health and efficient systems.
-- Seed to Seed (Suzanne Ashworth) — comprehensive seed saving guide for 160+ vegetable crops. Essential for [[seed-saving]] sovereignty.
-- Teaming with Microbes (Jeff Lowenfels and Wayne Lewis) — soil biology explained accessibly. Connects to [[soil-food-web]] principles.
+- Seed to Seed (Suzanne Ashworth) — comprehensive seed saving guide for 160+ vegetable crops. Essential for [[seed-saving-techniques]] sovereignty.
+- Teaming with Microbes (Jeff Lowenfels and Wayne Lewis) — soil biology explained accessibly. Connects to [[soil-food-web-nutrient-cycling]] principles.
 
 ### Food Preservation
 - The Ball Complete Book of Home Preserving — the authoritative guide to water bath and pressure canning. Follow these recipes exactly; canning is not the place for improvisation.

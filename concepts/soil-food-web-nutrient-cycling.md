@@ -32,13 +32,13 @@ sources:
 
 # Soil Food Web Nutrient Cycling
 
-Detailed treatment of the nutrient cycling engine, the predator-prey model, glomalin and soil aggregation, and methods for building soil biology including KNF bionutrient effects. See [[soil-food-web]] for the overview of trophic levels and bacterial vs. fungal dominance.
+Detailed treatment of the nutrient cycling engine, the predator-prey model, glomalin and soil aggregation, and methods for building soil biology including KNF bionutrient effects. See [[soil-food-web-nutrient-cycling]] for the overview of trophic levels and bacterial vs. fungal dominance.
 
-Related: [[soil-food-web]], [[mycorrhizal-networks]], [[bionutrients-guide]], [[compost-tea-guide]]
+Related: [[soil-food-web-nutrient-cycling]], [[mycorrhizal-networks]], [[bionutrients-guide]], [[compost-tea-guide]]
 
 ## Nutrient Cycling
 
-The soil food web converts organic matter and rock minerals into plant-available nutrients through the microbial loop. Bacteria and fungi decompose organic matter; protozoa and nematodes graze on them, releasing nutrients in plant-available forms. See [[soil-food-web-advanced]] for additional detail.
+The soil food web converts organic matter and rock minerals into plant-available nutrients through the microbial loop. Bacteria and fungi decompose organic matter; protozoa and nematodes graze on them, releasing nutrients in plant-available forms. See [[soil-food-web-nutrient-cycling]] for additional detail.
 
 ### The Predator-Prey Engine (Ingham)
 
@@ -53,7 +53,7 @@ The soil food web converts organic matter and rock minerals into plant-available
 
 ### Glomalin and Soil Aggregation (Lowenfels/Ingham)
 
-Arbuscular mycorrhizal fungi secrete glomalin, a sticky glycoprotein that contributes up to 30% of soil carbon, binds particles into aggregates, improves aeration/drainage/water-holding capacity, and persists for decades. It cannot be produced without living mycorrhizal hyphae — this is why [[no-till-farming]] builds soil structure over time. See [[mycorrhizal-networks]] for full mycorrhizal ecology.
+Arbuscular mycorrhizal fungi secrete glomalin, a sticky glycoprotein that contributes up to 30% of soil carbon, binds particles into aggregates, improves aeration/drainage/water-holding capacity, and persists for decades. It cannot be produced without living mycorrhizal hyphae — this is why [[no-till-gardening-method]] builds soil structure over time. See [[mycorrhizal-networks]] for full mycorrhizal ecology.
 
 ## Building Soil Biology
 
@@ -86,8 +86,8 @@ Bionutrient preparations (see [[bionutrients-guide]]) directly feed and shape so
 
 ## See Also
 
-- [[soil-food-web]] — Overview of trophic levels and bacterial vs. fungal dominance
-- [[soil-food-web-advanced]] — Detailed nutrient cycling and fungal ecology
+- [[soil-food-web-nutrient-cycling]] — Overview of trophic levels and bacterial vs. fungal dominance
+- [[soil-food-web-nutrient-cycling]] — Detailed nutrient cycling and fungal ecology
 - [[mycorrhizal-networks]] — Types, carbon flow, "wood wide web", glomalin
 - [[bionutrients-guide]] — Bionutrient effects on soil microbial communities
 - [[compost-tea-guide]] — Complete AACT manual

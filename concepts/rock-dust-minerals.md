@@ -15,7 +15,7 @@ Rock dust and mineral amendments are ground geological materials used to repleni
 
 - **Trace mineral depletion**: Modern agricultural soils are often deficient in trace minerals due to decades of NPK-focused fertilization. See [[nutrient-dense-gardening]] for the connection between soil minerals and food quality.
 - **Slow-release nutrition**: Unlike soluble fertilizers, rock dusts break down gradually through microbial and chemical weathering, providing nutrients over years rather than weeks.
-- **Soil biology support**: Minerals feed microbial communities and support enzymatic processes essential for [[soil-food-web]] function.
+- **Soil biology support**: Minerals feed microbial communities and support enzymatic processes essential for [[soil-food-web-nutrient-cycling]] function.
 - **CEC improvement**: Some rock dusts (especially those with high clay mineral content) increase cation exchange capacity.
 - **Paramagnetic properties**: Certain rock dusts generate weak magnetic fields that some researchers associate with improved plant growth and microbial activity, though this remains controversial.
 

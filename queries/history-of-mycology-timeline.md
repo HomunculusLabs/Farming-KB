@@ -15,7 +15,7 @@ sources:
 # History of Mycology Timeline
 
 Chronological milestones in the scientific study of fungi, from ancient observations to modern genomics.
-Draws from [[history-of-mycology]], [[fungal-evolution]], and entity pages for key mycologists.
+Draws from [[history-of-mycology-timeline]], [[fungal-evolution]], and entity pages for key mycologists.
 
 ## Ancient and Prehistoric Era
 
@@ -116,7 +116,7 @@ Draws from [[history-of-mycology]], [[fungal-evolution]], and entity pages for k
 - **1885 — Albert Bernhard Frank:**
   German botanist coined the term "mycorrhiza" (fungus-root)
   for the symbiotic association between fungi and plant roots.
-  Foundational to understanding [[mycorrhizal-fungi]] and [[fungal-symbiosis-with-plants]].
+  Foundational to understanding [[mycorrhizal-fungi]] and [[fungal-symbiosis-types]].
 
 ## Early 20th Century (1891-1938)
 
@@ -150,7 +150,7 @@ Draws from [[history-of-mycology]], [[fungal-evolution]], and entity pages for k
   Development of pure culture grain spawn using sterilized grain
   inoculated with mycelium, replacing unreliable wild-collected spawn.
   This technique remains the standard today.
-  See [[mushroom-spawn-making]].
+  See [[mushroom-spawn-making-detailed]].
 
 ## Modern Era (1940–Present)
 
@@ -159,12 +159,12 @@ The post-WWII expansion of mycology — from Hofmann's discoveries and the psych
 ## Related Pages
 
 - [[mycology-modern-era]] — modern era mycology from 1940 to present
-- [[history-of-mycology]] — existing concept page with additional detail
+- [[history-of-mycology-timeline]] — existing concept page with additional detail
 - [[fungal-evolution]] — phylogeny, fossil record, and molecular dating
 - [[psychedelic-mushroom-history]] — parallel timeline of psychoactive fungi
 - [[historical-mushroom-cultivation]] — cultivation-focused history
 - [[victorian-mycology]] — Victorian-era fungal taxonomy and the Woolhope Club
-- [[fungal-biology-lifecycle]] — modern understanding of fungal life cycles
+- [[fungal-biology-fundamentals]] — modern understanding of fungal life cycles
 - [[fungal-ecology]] — fungi as keystone ecosystem engineers
 - [[buller-ahr]]
 - [[ingold-cecil-t]]

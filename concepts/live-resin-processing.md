@@ -110,9 +110,9 @@ Live resin is finished into several forms:
 
 ## See Also
 
-- [[cannabis-harvest-techniques]] — Harvest timing for fresh frozen material
-- [[cannabis-extraction-methods]] — Comparison of extraction methods
-- [[hashish-making]] — Solventless concentrate production methods
+- [[cannabis-harvest-and-curing]] — Harvest timing for fresh frozen material
+- [[cannabis-extraction-basics]] — Comparison of extraction methods
+- [[cannabis-hashish-guide]] — Solventless concentrate production methods
 - [[cannabis-health-therapeutics]] — Therapeutic applications of concentrates
 
 ## Related

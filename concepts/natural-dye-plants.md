@@ -181,11 +181,11 @@ Test all dyes on sample skeins before committing to a large project. Tape sample
 
 ## See Also
 
-- [[herbal-remedies-reference]] — Overlap of medicinal and dye plants on the homestead
+- [[herbal-medicine]] — Overlap of medicinal and dye plants on the homestead
 - [[permaculture-plant-catalog]] — Multi-functional plants including dye species
 - [[cover-cropping-guide]] — [[cover-crop-species-comparison|Cover crop]]s that double as dye sources (buckwheat, mustard)
 
 ## Related
 
-- [[plant-propagation]]
-- [[companion-planting-master-table]]
+- [[plant-propagation-methods]]
+- [[companion-planting-reference]]

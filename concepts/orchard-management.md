@@ -27,7 +27,7 @@ sources:
 
 # Orchard Management
 
-Establishing and maintaining a productive orchard is a cornerstone of [[regenerative-agriculture]] and [[food-forest-design]]. This guide covers site selection through harvest for homestead-scale orchards in zones 7-8. For detailed variety recommendations, rootstock selection, and chill hours, see [[fruit-tree-varieties]].
+Establishing and maintaining a productive orchard is a cornerstone of [[regenerative-agriculture-history]] and [[food-forest-design]]. This guide covers site selection through harvest for homestead-scale orchards in zones 7-8. For detailed variety recommendations, rootstock selection, and chill hours, see [[fruit-tree-varieties]].
 
 ## Site Selection
 
@@ -166,7 +166,7 @@ Orchard IPM targets the most common pests and diseases: codling moth, cedar appl
 ### Storage
 - Short-term: Refrigerate 32-38°F, high humidity. Stone fruits 1-2 weeks max.
 - Long-term (apples): 32-35°F, 90-95% humidity. Best keepers: GoldRush, Arkansas Black. 3-6 months.
-- See [[food-preservation]] for canning, drying, freezing methods
+- See [[food-preservation-canning]] for canning, drying, freezing methods
 
 ## Seasonal Calendar
 

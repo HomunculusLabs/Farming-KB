@@ -72,7 +72,7 @@ Beneficial insects are the backbone of any ecological pest management strategy. 
 ### Bees (Apidae, Megachilidae, Andrenidae, etc.)
 - **Role**: Pollination services; ~1/3 of food crops depend on insect pollinators
 - **Types**: Honeybees (managed hives), bumblebees (excellent for tomatoes/peppers in greenhouses), mason bees/solitary bees (efficient early-season pollinators)
-- See [[beekeeping]] for hive management and [[pollinator-habitat]] for habitat design
+- See [[beekeeping-basics]] for hive management and [[pollinator-habitat]] for habitat design
 
 ## Attracting Beneficial Insects
 
@@ -110,7 +110,7 @@ Plant specific species to provide nectar, pollen, and alternative prey:
 ## Insect Hotels and Pollinator Corridors
 
 - **Insect hotels**: Bundled hollow stems, drilled wood blocks, pinecones — attract solitary bees and predatory insects. Keep dry, face southeast. Avoid kits with too-deep holes or smooth plastic tunnels (disease trap).
-- **Pollinator corridors**: Connected habitat strips linking garden, orchard, and wild areas. Hedgerows, native wildflower margins, unmowed buffer zones. See [[companion-planting]] for integrated planting strategies.
+- **Pollinator corridors**: Connected habitat strips linking garden, orchard, and wild areas. Hedgerows, native wildflower margins, unmowed buffer zones. See [[companion-planting-reference]] for integrated planting strategies.
 - **Limitation**: Insect hotels alone don't solve pest problems — they're one element of a habitat strategy that includes diverse plantings, reduced tillage, and no broad-spectrum pesticides.
 
 ## IPM Framework
@@ -126,5 +126,5 @@ See [[cannabis-pest-management]] for cannabis-specific scouting thresholds and p
 ## Related
 
 - [[plant-defense-mechanisms]]
-- [[cannabis-pest-identification]]
-- [[companion-planting-master-table]]
+- [[cannabis-pest-management]]
+- [[companion-planting-reference]]

@@ -56,9 +56,9 @@ The torus growth form is a reflection of programmed senescence within each hypha
 
 Fairy rings indicate active decomposition and nutrient cycling. The mycelium decomposes organic matter in the soil, releasing nutrients that can create visible zones of enhanced or depleted grass growth (dark green rings or dead zones) depending on nitrogen dynamics. In pasture ecosystems, fairy rings are natural indicators of soil biological activity.
 
-See also [[fungal-biology-lifecycle]], [[mycorrhizal-networks]], [[saprotrophic-fungi]], armillaria-honey-fungus
+See also [[fungal-biology-fundamentals]], [[mycorrhizal-networks]], [[saprotrophic-fungi]], armillaria-honey-fungus
 
 ## Related
 
 - [[fungal-ecology]]
-- [[soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]

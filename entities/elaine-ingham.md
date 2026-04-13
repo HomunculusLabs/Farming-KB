@@ -36,7 +36,7 @@ Elaine Ingham (born 1951) is an American soil microbiologist, researcher, and ed
 - **Soil Food Web concept:** Articulated and popularized the complete biological model of soil — showing how bacteria, fungi, protozoa, nematodes, and microarthropods cycle nutrients, build soil structure, suppress disease, and support plant growth. Her work makes soil biology accessible to practitioners.
 - **Actively Aerated Compost Tea (AACT):** Developed the standardized method for brewing compost tea that maintains aerobic conditions to grow beneficial microbial populations. Her methodology is detailed in [[compost-tea-aact]].
 - **Soil Food Web Inc.:** Founded a company that provides soil biology testing and consulting services, allowing farmers to assess and manage their soil microbiome.
-- **Bacterial vs. fungal soil dominance:** Demonstrated that different plant communities prefer different soil biology profiles — annual vegetables and weeds thrive in bacterial-dominated soils, while perennials, trees, and shrubs prefer fungal-dominated soils. This insight is fundamental to understanding [[soil-food-web]] management.
+- **Bacterial vs. fungal soil dominance:** Demonstrated that different plant communities prefer different soil biology profiles — annual vegetables and weeds thrive in bacterial-dominated soils, while perennials, trees, and shrubs prefer fungal-dominated soils. This insight is fundamental to understanding [[soil-food-web-nutrient-cycling]] management.
 - **Compost quality standards:** Developed protocols for assessing compost quality based on microbial diversity and activity, not just NPK.
 - **Critique of synthetic agriculture:** Has been a vocal critic of synthetic fertilizers and pesticides, arguing they destroy soil biology and create dependency.
 
@@ -55,15 +55,15 @@ Elaine Ingham (born 1951) is an American soil microbiologist, researcher, and ed
 
 ## Legacy
 
-Ingham's work is foundational to the [[regenerative-agriculture]] movement. Her soil food web framework underpins the rationale for [[no-till-farming]], [[compost-tea-aact]], [[vermicompost]], and [[mycorrhizal-fungi]] management. She has trained thousands of soil consultants and compost tea brewers worldwide.
+Ingham's work is foundational to the [[regenerative-agriculture-history]] movement. Her soil food web framework underpins the rationale for [[no-till-gardening-method]], [[compost-tea-aact]], [[vermicomposting]], and [[mycorrhizal-fungi]] management. She has trained thousands of soil consultants and compost tea brewers worldwide.
 
 ## See Also
 
-- [[soil-food-web]] — The soil food web in detail
+- [[soil-food-web-nutrient-cycling]] — The soil food web in detail
 - [[compost-tea-aact]] — AACT brewing methodology
 - [[mycorrhizal-fungi]] — Fungal-plant relationships
-- [[vermicompost]] — Vermicomposting systems
-- [[regenerative-agriculture]] — Broader regenerative context
+- [[vermicomposting]] — Vermicomposting systems
+- [[regenerative-agriculture-history]] — Broader regenerative context
 - [[bokashi]] — EM-based fermentation
 - [[effective-microorganisms-em]] — EM consortium
 - [[soil-fertility-management]] — Soil nutrient management

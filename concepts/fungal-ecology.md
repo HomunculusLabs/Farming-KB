@@ -107,7 +107,7 @@ This is why [[paul-stamets]] calls primary decomposers "vanguard species for hab
 
 ## Antimicrobial Properties of Mycelium
 
-Mycelium "sweats" antibiotics that shape microbial populations. Cold-water extracts from mycelial exudates of 10 mushroom species were tested against E. coli O157:H7 and Staphylococcus aureus. The most active — [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom]] (Pleurotus ostreatus), birch polypore (Piptoporus betulinus), and agarikon (Fomitopsis officinalis) — reduced CFUs by more than 99.99% in 48-72 hours. Each mushroom species predetermines which bacteria thrive after it fruits. See [[medicinal-mushrooms-guide]] for the full antimicrobial species catalog.
+Mycelium "sweats" antibiotics that shape microbial populations. Cold-water extracts from mycelial exudates of 10 mushroom species were tested against E. coli O157:H7 and Staphylococcus aureus. The most active — [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom]] (Pleurotus ostreatus), birch polypore (Piptoporus betulinus), and agarikon (Fomitopsis officinalis) — reduced CFUs by more than 99.99% in 48-72 hours. Each mushroom species predetermines which bacteria thrive after it fruits. See [[medicinal-mushroom-guide]] for the full antimicrobial species catalog.
 
 ## Forest Blight Competition
 
@@ -123,7 +123,7 @@ Select saprophytic mushrooms can outcompete parasitic forest pathogens:
 - [[mycorrhizal-networks]] for plant-fungal partnerships
 - [[fungal-ecosystem-roles]] for nutrient cycling details
 - [[mushroom-natural-habitats]] for where fungi thrive in nature
-- [[medicinal-mushrooms-guide]] for antimicrobial and antiviral properties
+- [[medicinal-mushroom-guide]] for antimicrobial and antiviral properties
 - [[mushroom-cultivation-basics]] for cultivation methods
 
 ## Related
@@ -132,7 +132,7 @@ Select saprophytic mushrooms can outcompete parasitic forest pathogens:
 - [[john-dighton]]
 - [[fairy-rings-and-giant-mycelia]]
 - [[fungal-growth-dynamics]]
-- [[fungi-climate-change]]
+- [[fungi-in-climate-change]]
 - [[fungicolous-fungi]]
 - [[litter-wood-decomposing-fungi]]
 - [[marine-estuarine-fungi]]

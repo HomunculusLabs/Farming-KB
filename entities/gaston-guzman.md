@@ -68,7 +68,7 @@ Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His 
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution]] — Global distribution data
+- [[psilocybin-mushroom-chemistry]] — Global distribution data
 - [[jochen-gartz]] — Co-researcher on distribution studies
 - [[john-allen]] — Co-researcher, Australia/New Zealand fieldwork
 - [[psychedelic-mushroom-history]] — Historical use of sacred mushrooms

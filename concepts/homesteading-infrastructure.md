@@ -73,7 +73,7 @@ A well-designed homestead integrates housing, animal systems, gardens, water, en
 - **Bokashi system**: Fermented kitchen waste for fast composting
 - **Leaf mold pile**: Autumn leaves decompose into excellent soil amendment
 - **Manure composting**: Duck/goat/chicken manure + bedding = high-quality compost
-- **Cover crop seed storage**: Keep a variety of [[cover-cropping]] seeds ready
+- **Cover crop seed storage**: Keep a variety of [[cover-cropping-guide]] seeds ready
 
 ### 5. Food Processing and Storage
 - **Root cellar or cool storage**: For potatoes, carrots, onions, winter squash, apples
@@ -138,7 +138,7 @@ Zone 5: Wildlife area, observation, reference ecosystem
 1. Water system (roof catchment, storage, distribution)
 2. Composting system (bins, tools, animal manure management)
 3. Animal housing and fencing
-4. Garden beds and [[no-till-farming]] setup
+4. Garden beds and [[no-till-gardening-method]] setup
 5. [[food-forest-design]] planting
 6. Food preservation infrastructure
 7. Energy systems (as budget allows)
@@ -148,5 +148,5 @@ Zone 5: Wildlife area, observation, reference ecosystem
 - [[water-management]]
 - [[sepp-holzer-methods]]
 - [[food-forest-design]]
-- [[cover-cropping]]
+- [[cover-cropping-guide]]
 - [[homestead-energy-conservation]]

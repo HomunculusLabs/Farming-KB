@@ -118,7 +118,7 @@ Ducks prefer ground-level nesting in secluded spots near the pond. Provide cover
 ## Integration with Other Systems
 
 - Pond water can be pumped or gravity-fed to irrigate gardens, carrying dissolved nutrients from duck manure
-- Overflow from [[permaculture-water-management]] swales can feed the pond
+- Overflow from [[water-management]] swales can feed the pond
 - Duck manure-enriched water is an excellent fertilizer for [[permaculture-guild-design]] plantings
 - Combined with [[permaculture-animal-integration]] strategies for multi-species systems
 - Duck feathers can be used in compost or as mulch material
@@ -126,6 +126,6 @@ Ducks prefer ground-level nesting in secluded spots near the pond. Provide cover
 ## See Also
 
 - [[permaculture-chicken-tractors]] — comparison with chicken-based systems
-- [[permaculture-water-management]] — broader water system design
+- [[water-management]] — broader water system design
 - [[permaculture-animal-integration]] — multi-species integration
 - [[permaculture-guild-design]] — aquatic plants in design

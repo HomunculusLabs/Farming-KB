@@ -110,5 +110,5 @@ Mucormycosis is a rare but serious fungal infection caused by Mucorales (especia
 ## Related
 
 - [[fungal-biology-fundamentals]]
-- [[fungal-cell-biology]]
+- [[fungal-biology-fundamentals]]
 - [[mold-identification-guide]]

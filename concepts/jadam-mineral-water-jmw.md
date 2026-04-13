@@ -105,5 +105,5 @@ This combination provides both organic (microbe-processed) and inorganic (direct
 
 - [[jadam-microorganism-solution-jms]] — the microbial component always applied with JMW
 - [[jadam-methods]] — full JADAM soil management and nutrition philosophy
-- [[soil-food-web]] — the biology these mineral inputs support
+- [[soil-food-web-nutrient-cycling]] — the biology these mineral inputs support
 - [[dynamic-accumulators]] — plants that mine minerals as living alternative

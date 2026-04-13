@@ -132,9 +132,9 @@ Saving seeds from heirloom varieties preserves this genetic heritage. Seed libra
 
 ## See Also
 
-- [[seed-starting]] — Germinating and growing your saved seeds
+- [[seed-starting-reference]] — Germinating and growing your saved seeds
 - [[seasonal-planning]] — Planning your seed saving calendar
-- [[companion-planting]] — Companion planting to support seed crops
+- [[companion-planting-reference]] — Companion planting to support seed crops
 - [[homesteading]] — Seed saving as a core homesteading skill
 
 ## Related

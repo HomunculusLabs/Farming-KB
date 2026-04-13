@@ -163,7 +163,7 @@ See [[compost-tea-brewing]] for detailed brewing guidance.
 
 - [[composting-systems]] — Traditional thermophilic composting methods
 - [[compost-tea-brewing]] — Brewing aerated compost tea from your castings
-- [[soil-food-web]] — The microbial ecology behind vermicomposting
+- [[soil-food-web-nutrient-cycling]] — The microbial ecology behind vermicomposting
 - [[homesteading]] — Worm composting as part of a homestead waste management system
 
 ## Related

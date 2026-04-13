@@ -169,7 +169,7 @@ Functions of secondary metabolites:
 
 ## See Also
 
-- [[fungal-symbiosis-with-plants]] for broader fungal symbiosis context
+- [[fungal-symbiosis-types]] for broader fungal symbiosis context
 - [[fungal-ecology]] for fungi in ecological systems
 - [[fungal-biodiversity]] for lichen diversity in the fungal kingdom
 - [[mycorrhizal-fungi]] for the other major fungal symbiosis type

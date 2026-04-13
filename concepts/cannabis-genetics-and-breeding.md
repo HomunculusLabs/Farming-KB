@@ -96,7 +96,7 @@ A less controlled method to increase frequency of desired traits:
 
 ## Advanced Breeding Strategies
 
-For Vic High's detailed strategies on cubing, generational inbreeding, selective pressure, and cannabis species/chemotype classification, see [[cannabis-breeding-strategies]].
+For Vic High's detailed strategies on cubing, generational inbreeding, selective pressure, and cannabis species/chemotype classification, see [[cannabis-breeding-basics]].
 
 ## Strain Development Approaches
 
@@ -118,8 +118,8 @@ Cannabis chemotypes (I = high THC/CBD ratio, II = balanced THC:CBD, III = high C
 
 ## See Also
 
-- [[cannabis-breeding-strategies]] — Advanced breeding strategies (Vic High), species, chemotypes
+- [[cannabis-breeding-basics]] — Advanced breeding strategies (Vic High), species, chemotypes
 - [[cannabis-plant-nutrition]] — Plant nutrition and genetics interactions
-- [[cannabis-indoor-living-soil]] — Growing environment for breeding projects
-- [[seed-saving]] — Seed saving principles applicable to cannabis
+- [[cannabis-living-soil-guide]] — Growing environment for breeding projects
+- [[seed-saving-techniques]] — Seed saving principles applicable to cannabis
 - [[robert-clarke]] — cannabis botanist, "Marijuana Botany", foundational breeding methodology

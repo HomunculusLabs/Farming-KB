@@ -91,7 +91,7 @@ Fukuoka scattered rice seed balls in mid-November or later over standing straw a
 - **Root vegetables**: daikon, turnip, radish -- Fukuoka noted these grow surprisingly large
 - **Brassicas**: mustard, Chinese cabbage -- vigorous germinators
 - **Green manure**: alfalfa, bur clover, black wattle
-- **Wildflowers**: for [[cover-cropping]] and habitat creation
+- **Wildflowers**: for [[cover-cropping-guide]] and habitat creation
 
 ## What Doesn't Work Well
 
@@ -129,8 +129,8 @@ Seed balls are the primary tool for [[urban-permaculture-design]]:
 ## Related Pages
 
 - [[natural-farming-fukuoka]] -- Full Fukuoka method context
-- [[seed-saving]] -- Collecting and storing open-pollinated seed
-- [[seed-starting]] -- Other germination methods
-- [[cover-cropping]] -- Green manure and soil protection
+- [[seed-saving-techniques]] -- Collecting and storing open-pollinated seed
+- [[seed-starting-reference]] -- Other germination methods
+- [[cover-cropping-guide]] -- Green manure and soil protection
 - [[urban-permaculture-design]] -- Seed ball deployment tactics
 - [[fukuoka-philosophy-in-practice]] -- The philosophy behind the technique

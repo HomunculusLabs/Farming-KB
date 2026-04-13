@@ -16,7 +16,7 @@ Climate adaptation in permaculture means designing systems that can withstand an
 Drought is one of the most common and challenging climate stresses. Permaculture addresses it through water capture, soil improvement, and appropriate species selection.
 
 ### Water Capture and Storage
-- Swales on contour to infiltrate rainfall (see [[permaculture-water-management]])
+- Swales on contour to infiltrate rainfall (see [[water-management]])
 - Ponds and dams for surface water storage
 - Rain tanks and cisterns for roof catchment
 - Soil improvement to increase water-holding capacity (organic matter, biochar)
@@ -154,7 +154,7 @@ The single most effective climate adaptation strategy is biodiversity. Diverse s
 
 ## See Also
 
-- [[permaculture-water-management]] — water earthworks for drought and flood
+- [[water-management]] — water earthworks for drought and flood
 - [[permaculture-site-analysis]] — understanding climate and microclimate
 - [[permaculture-forest-garden-establishment]] — perennial systems for climate resilience
 - [[permaculture-community-resilience]] — social and economic climate adaptation

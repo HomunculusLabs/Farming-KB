@@ -188,6 +188,6 @@ Japanese agricultural scientists promoted burning rice straw to prevent rice bla
 - [[natural-farming-seed-balls]] — Seed protection technique
 - [[no-tillage-grain-systems]] — Modern no-till grain methods
 - [[cover-crop-termination]] — Cover crop management (modern approaches)
-- [[cannabis-indoor-living-soil]] — Soil biology principles
+- [[cannabis-living-soil-guide]] — Soil biology principles
 - [[one-straw-revolution-guide]] — Book context
 - [[natural-way-of-farming-guide]] — Detailed technical reference

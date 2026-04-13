@@ -155,6 +155,6 @@ In addition to standard emergency supplies, include:
 ## Related Concepts
 
 - [[water-management]] — Drainage, irrigation, and water management planning
-- [[mushroom-foraging-safety]] — Comprehensive safety planning
-- [[homestead-first-aid-kit-list]] — First aid for flood-related injuries and illness
+- [[mushroom-foraging-safety-guide]] — Comprehensive safety planning
+- [[homestead-first-aid-guide]] — First aid for flood-related injuries and illness
 - [[hurricane-preparedness-guide]] — Hurricanes bring both storm surge flooding and inland flooding

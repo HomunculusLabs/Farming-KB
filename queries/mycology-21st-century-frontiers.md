@@ -41,7 +41,7 @@ Modern mycology from genomics to conservation, covering the scientific advances,
 - **2010s — Elaine Ingham's soil food web:**
   [[elaine-ingham]] popularizes the soil food web framework,
   demonstrating the critical role of fungi in soil health and plant nutrition.
-  See [[soil-food-web]].
+  See [[soil-food-web-nutrient-cycling]].
 
 ## Fungal Genomics Revolution
 

@@ -151,5 +151,5 @@ Carbon-negative or neutral (sequesters CO₂ during growth), uses agricultural w
 ## See Also
 
 - [[mycoremediation-techniques]] — environmental applications of fungal biology
-- [[medicinal-mushroom-compounds]] — bioactive compounds from the same organisms
+- [[medicinal-mushroom-guide]] — bioactive compounds from the same organisms
 - [[functional-mushroom-products]] — mushroom-derived products for health applications

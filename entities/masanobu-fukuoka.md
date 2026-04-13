@@ -66,8 +66,8 @@ Directly influenced [[bill-mollison]] and [[david-holmgren]] in the development 
 - [[fukuoka-soil-building-method]] — Soil restoration from barren land
 - [[natural-farming-seed-balls]] — Clay pellet technique
 - [[permaculture-principles]] — Permaculture influenced by his ideas
-- [[seed-saving]] — Seed preservation practices
-- [[no-till-farming]] — Modern no-till approaches
-- [[cover-cropping]] — Cover crops as living mulch
+- [[seed-saving-techniques]] — Seed preservation practices
+- [[no-till-gardening-method]] — Modern no-till approaches
+- [[cover-cropping-guide]] — Cover crops as living mulch
 - [[food-forest-design]] — Food forest systems
-- [[regenerative-agriculture]] — Broader regenerative movement
+- [[regenerative-agriculture-history]] — Broader regenerative movement

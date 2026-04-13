@@ -130,4 +130,4 @@ Value-added processing multiplies raw product value: beeswax candles (3-5x), pro
 
 ## Related Topics
 
-Bee products connect to broader homestead production. Beeswax processing is part of [[soap-and-candle-making]]. Honey production and hive management tie into [[goat-husbandry]] and [[fungal-ecology]]. The medicinal properties of propolis and bee venom overlap with [[herbal-medicine]] and [[mycotoxins-and-human-health]] topics. Pollen collection relates to [[hay-and-forage-management]] and [[food-forest-design]] planting for bee nutrition.
+Bee products connect to broader homestead production. Beeswax processing is part of [[soap-making-guide]]. Honey production and hive management tie into [[goat-husbandry]] and [[fungal-ecology]]. The medicinal properties of propolis and bee venom overlap with [[herbal-medicine]] and [[mycotoxins-and-human-health]] topics. Pollen collection relates to [[hay-and-forage-management]] and [[food-forest-design]] planting for bee nutrition.

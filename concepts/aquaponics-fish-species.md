@@ -106,4 +106,4 @@ Regular water testing is essential. Test ammonia, nitrite, nitrate, and pH at le
 
 ## Integration with Homestead Systems
 
-Aquaponics fish production integrates with broader homestead nutrient cycling. Fish waste feeds plants, plant-filtered water returns to fish tanks, and excess fish can be processed through a [[home-butcher-shop-setup]]. Water from the system can supplement [[rainwater-catchment-systems]] for irrigation during drought periods. The fish production component makes aquaponics significantly more productive per square foot than hydroponics alone.
+Aquaponics fish production integrates with broader homestead nutrient cycling. Fish waste feeds plants, plant-filtered water returns to fish tanks, and excess fish can be processed through a [[home-butcher-shop-setup]]. Water from the system can supplement [[rainwater-harvesting-systems]] for irrigation during drought periods. The fish production component makes aquaponics significantly more productive per square foot than hydroponics alone.

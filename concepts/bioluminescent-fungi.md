@@ -92,7 +92,7 @@ Bioluminescent mushrooms have captured human imagination for centuries. Referenc
 - [[fungal-dna-barcoding]] — Molecular identification of fungal species
 - [[mushroom-taxonomy-history]] — Classification and evolutionary relationships of fungi
 - [[fungal-ecology]]
-- [[fungal-cell-biology]]
+- [[fungal-biology-fundamentals]]
 
 ## Related
 

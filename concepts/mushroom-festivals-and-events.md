@@ -133,7 +133,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Conservation and Stewardship
 - Foray data contributes to conservation assessments
 - Rare species records inform habitat protection decisions
-- Events promote sustainable foraging practices (see [[sustainable-mushroom-foraging]])
+- Events promote sustainable foraging practices (see [[mushroom-foraging-safety-guide]])
 - Public education about fungal ecology and forest health
 - Advocacy for forest conservation and mycological research funding
 
@@ -180,6 +180,6 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 
 ## See Also
 
-- [[sustainable-mushroom-foraging]] -- ethical harvesting practices for forays
+- [[mushroom-foraging-safety-guide]] -- ethical harvesting practices for forays
 - [[edible-wild-mushrooms-by-region]] -- regional species guides for foray planning
 - [[mushroom-photography-guide]] -- documenting your foray finds

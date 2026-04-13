@@ -152,4 +152,4 @@ The Controlled Substances Act, War on Drugs, medical marijuana movement, and mod
 - [[cannabis-genetics-and-breeding]] — breeding methods shaped by prohibition-era underground work
 - [[robert-clarke]] — cannabis botany and ethnobotany authority
 - [[cannabis-spiritual-ritual-use]] — ceremonial use across traditions
-- [[cannabis-indoor-living-soil]] — modern living soil cultivation methods
+- [[cannabis-living-soil-guide]] — modern living soil cultivation methods

@@ -54,8 +54,8 @@ Palmer's work appeared during the late Victorian period when mycology was transi
 ## See Also
 
 - [[john-ramsbottom]] — British poisonous fungi authority
-- [[edible-wild-mushrooms-of-north-america]] — Modern foraging guide
+- [[edible-wild-mushrooms-by-region]] — Modern foraging guide
 - [[mushroom-identification]] — Modern identification methodology
 - [[mushroom-identification-resources]] — Field guides and identification tools
-- [[history-of-mycology]] — History of mycological science
+- [[history-of-mycology-timeline]] — History of mycological science
 - [[victorian-mycology]] — Victorian-era mycological writing

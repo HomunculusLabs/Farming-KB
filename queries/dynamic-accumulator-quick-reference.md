@@ -36,10 +36,10 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 
 | Plant | Nutrients | N-Fix | Root Depth | How to Use |
 |-------|-----------|-------|------------|------------|
-| Alfalfa | N (~250 lbs/acre), P, K, Ca, traces | Yes | 6+ ft | Perennial mulch, FPJ, [[cover-cropping]] |
+| Alfalfa | N (~250 lbs/acre), P, K, Ca, traces | Yes | 6+ ft | Perennial mulch, FPJ, [[cover-cropping-guide]] |
 | Sweet white clover | N (~160 lbs/acre), K | Yes | 4-6 ft | Biennial, bio-drilling, bee forage |
 | Red clover | N (~140 lbs/acre), P, K | Yes | 3-5 ft | Chop-and-drop, green manure |
-| White clover | N (~100 lbs/acre), Ca | Yes | 1-3 ft | Living mulch, [[companion-planting]] |
+| White clover | N (~100 lbs/acre), Ca | Yes | 1-3 ft | Living mulch, [[companion-planting-reference]] |
 | Hairy vetch | N (~80 lbs/acre), K | Yes | 3-5 ft | Winter annual, crimp at flowering |
 | Cowpea | N, P, K | Yes | 2-3 ft | Summer N fixer, heat tolerant |
 
@@ -69,7 +69,7 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 |-------|-----------|-------|------------|------------|
 | Oak leaves | Ca, K, P, traces | No | N/A | Leaf mold mulch |
 | Dandelion | Ca, K, Fe, Cu, traces | No | 6-15 ft | Deep taproot miner, leave in place |
-| Chamomile | Ca, K, S | No | 1-2 ft | Tea spray, [[companion-planting]] |
+| Chamomile | Ca, K, S | No | 1-2 ft | Tea spray, [[companion-planting-reference]] |
 | Clovers | Ca, N, P, K | Yes | 1-5 ft | Living mulch, green manure |
 
 ### Iron Accumulators
@@ -88,11 +88,11 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 | Comfrey | N, P, K, Ca + traces | No | 6-10 ft | "King of accumulators" -- mulch, tea, FPJ |
 | Nettles | N, Fe, K, Ca, Mg, S | No | 3-5 ft | Compost activation, [[fermented-plant-extract-fpe]] |
 | Dandelion | K, Ca, Fe, Cu + traces | No | 6-15 ft | Deep taproot miner, leave in beds |
-| Yarrow | Cu, K, P | No | 1-2 ft | [[companion-planting]], compost |
-| Chicory | Multi-mineral (deep taproot) | No | 6-15 ft | [[cover-cropping]], forage |
+| Yarrow | Cu, K, P | No | 1-2 ft | [[companion-planting-reference]], compost |
+| Chicory | Multi-mineral (deep taproot) | No | 6-15 ft | [[cover-cropping-guide]], forage |
 | Burdock | Deep-rooted (Ca, Mg, Fe) | No | 4-6 ft | Persistent -- manage placement |
 | Plantain | Ca, Mg, S, K | No | 1-3 ft | Chop-and-drop, edible |
-| Valerian | P, K, Ca | No | 2-3 ft | Root extract, [[companion-planting]] |
+| Valerian | P, K, Ca | No | 2-3 ft | Root extract, [[companion-planting-reference]] |
 
 ## Key Rules
 
@@ -100,15 +100,15 @@ Plants that mine nutrients from deep subsoil layers and concentrate them in abov
 2. **Comfrey cut 4-5x/season** -- first cut at ~2 ft tall, subsequent cuts every 4-6 weeks. Leaves decompose rapidly as surface mulch.
 3. **Nettles for compost activation** -- a layer of fresh nettles between brown layers heats the pile quickly. Also excellent as [[fermented-plant-extract-fpe]] material.
 4. **Harvest at dawn for FPJ** -- peak sugar content in early morning. Ferment within hours for best results.
-5. **Return biomass where it grew** -- accumulators mine from below; surface-mulching returns nutrients to topsoil where crop roots access them. Works with [[soil-food-web]] biology.
-6. **Many accumulators double as cover crops** -- clovers, vetch, buckwheat, and chicory integrate into [[no-till-farming]] rotations.
+5. **Return biomass where it grew** -- accumulators mine from below; surface-mulching returns nutrients to topsoil where crop roots access them. Works with [[soil-food-web-nutrient-cycling]] biology.
+6. **Many accumulators double as cover crops** -- clovers, vetch, buckwheat, and chicory integrate into [[no-till-gardening-method]] rotations.
 
 ## See Also
 
 - [[dynamic-accumulators]] -- full concept guide
-- [[cover-cropping]] -- accumulator crops as covers
+- [[cover-cropping-guide]] -- accumulator crops as covers
 - [[fermented-plant-extract-fpe]] -- making extracts from accumulators
 - [[knf-preparations]] -- KNF inputs from accumulator plants
-- [[soil-food-web]] -- biology that cycles accumulated nutrients
-- [[no-till-farming]] -- surface-mulch integration
-- [[companion-planting]] -- accumulator placement in polycultures
+- [[soil-food-web-nutrient-cycling]] -- biology that cycles accumulated nutrients
+- [[no-till-gardening-method]] -- surface-mulch integration
+- [[companion-planting-reference]] -- accumulator placement in polycultures

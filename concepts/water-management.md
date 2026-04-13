@@ -123,7 +123,7 @@ From Gaia's Garden: A family producing 100 gallons of greywater daily needs a we
 4. Plant densely to shade soil
 5. Harvest rainwater from every roof
 6. Use greywater for irrigation
-7. Choose Mediterranean-climate and drought-adapted plants (see [[permaculture-plants-reference]])
+7. Choose Mediterranean-climate and drought-adapted plants (see [[permaculture-useful-plants-reference]])
 8. Match plants to microclimates (thirsty plants in wet spots, drought plants on dry slopes)
 
 ## Related Pages
@@ -131,6 +131,6 @@ From Gaia's Garden: A family producing 100 gallons of greywater daily needs a we
 - [[sepp-holzer-methods]]
 - [[food-forest-design]]
 - [[homesteading-infrastructure]]
-- [[cover-cropping]]
+- [[cover-cropping-guide]]
 - [[natural-pool-building]]
 - [[basic-plumbing-for-homestead]]

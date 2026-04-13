@@ -50,7 +50,7 @@ Planting a new crop immediately after harvesting the previous one in the same sp
 
 ### Seasonal Succession (Year-Round Planting)
 
-Planning plantings across all four seasons to maximize garden output year-round. This is the most comprehensive form of succession planting and integrates with [[winter-gardening-techniques]] and [[season-extension-structures]].
+Planning plantings across all four seasons to maximize garden output year-round. This is the most comprehensive form of succession planting and integrates with [[winter-gardening-techniques]] and [[season-extension-techniques]].
 
 ## Sequential Planting Schedules
 
@@ -110,7 +110,7 @@ The 14-day fall factor accounts for shorter days and cooler temperatures that sl
 
 ## Winter Crops
 
-With protection, many crops can be harvested through winter. See [[winter-gardening-techniques]] and [[season-extension-structures]].
+With protection, many crops can be harvested through winter. See [[winter-gardening-techniques]] and [[season-extension-techniques]].
 
 ### Crops That Survive Winter (with protection)
 
@@ -145,7 +145,7 @@ Plant in fall for early spring harvest:
 - Aim for every bed to produce 2-3 crops per year (spring, summer, fall)
 - Use transplants to reduce the time a bed is occupied by a slowly establishing crop
 - Interplant fast crops (radishes) between slow crops (carrots, parsnips)
-- Use [[cover-crops-guide]] for any period longer than 4 weeks between cash crops
+- Use [[cover-cropping-guide]] for any period longer than 4 weeks between cash crops
 - Keep a garden journal recording actual planting and harvest dates to refine future plans
 
 ## Regional Considerations
@@ -174,7 +174,7 @@ Plant in fall for early spring harvest:
 ## Related Topics
 
 - [[winter-gardening-techniques]] for cold-season growing methods
-- [[season-extension-structures]] for protecting crops from cold
+- [[season-extension-techniques]] for protecting crops from cold
 - [[seed-starting-reference]] for starting transplants on schedule
 - [[intercropping-systems]] for combining crops in space and time
-- [[cover-crops-guide]] for filling gaps between cash crops
+- [[cover-cropping-guide]] for filling gaps between cash crops

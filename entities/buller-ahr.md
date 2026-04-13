@@ -80,6 +80,6 @@ Buller's work on spore discharge laid the foundation for all subsequent research
 
 - [[nicholas-money]] — modern mycologist who documented Buller's legacy
 - [[fungal-spore-biology]] — the field Buller founded
-- [[fungal-biology-lifecycle]] — broader fungal biology
+- [[fungal-biology-fundamentals]] — broader fungal biology
 - [[ingold-cecil-t]] — contemporary who discovered aquatic fungi
-- [[history-of-mycology]] — Buller's place in mycological history
+- [[history-of-mycology-timeline]] — Buller's place in mycological history

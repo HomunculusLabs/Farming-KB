@@ -13,7 +13,7 @@ sources: []
 
 Psychedelic integration refers to the practices, therapies, and lifestyle changes undertaken after a psychedelic experience to process, understand, and implement the insights, emotions, and shifts in perspective that occurred during the session. Integration is increasingly recognized as a critical component of psychedelic-assisted therapy and responsible use — the psychedelic experience itself is considered only part of the therapeutic process.
 
-See [[psychedelic-therapy-history]] for the clinical context and [[harm-reduction]] for safety principles.
+See [[psychedelic-therapy-current-research]] for the clinical context and [[harm-reduction-guide]] for safety principles.
 
 ## Why Integration Matters
 
@@ -50,7 +50,7 @@ Professional support is especially valuable for processing difficult experiences
 - **Internal Family Systems (IFS)**: Maps well onto the "parts" that often emerge during psychedelic experiences
 - **Acceptance and Commitment Therapy (ACT)**: Values-based approach that aligns well with psychedelic insights about meaning and purpose
 - **Group therapy**: Sharing experiences in a facilitated group provides normalization, community, and diverse perspectives
-- See [[psychedelic-therapy-history]] for clinical frameworks
+- See [[psychedelic-therapy-current-research]] for clinical frameworks
 
 ### Meditation and Mindfulness
 
@@ -141,7 +141,7 @@ Integration practices themselves are generally safe, but certain cautions apply:
 
 ## Related Pages
 
-- [[psychedelic-therapy-history]] for clinical frameworks and current research
-- [[harm-reduction]] for safety principles and preparation guidelines
+- [[psychedelic-therapy-current-research]] for clinical frameworks and current research
+- [[harm-reduction-guide]] for safety principles and preparation guidelines
 - [[entheogen-culture]] for philosophical context on altered states
 - [[psychedelic-compounds-reference]] for understanding what different substances offer

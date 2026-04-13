@@ -99,4 +99,4 @@ Amaringo's paintings bridge Amazonian shamanism and the global art world, provid
 - [[entheogen-culture]] — Broader context of ayahuasca and sacred plant traditions
 - [[mushrooms-and-mankind]] — Other entheogenic traditions and visionary art
 - [[michael-harner]] — Anthropologist who documented Amazonian shamanism
-- [[richard-evans-schultes]] — Father of ethnobotany, documented Amazonian plant use
+- [[richard-evans-schultes-updated]] — Father of ethnobotany, documented Amazonian plant use

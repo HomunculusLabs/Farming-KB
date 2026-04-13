@@ -184,11 +184,11 @@ Psilocybe cubensis contains psilocybin and psilocin, which are controlled substa
 - [[pf-tek-fruiting-chamber]] -- Dual chambered terrarium construction and operation
 - [[mushroom-harvesting-potency]] -- Harvest timing, drying, spore printing
 - [[psilocybin-mushroom-cultivation]] -- Broader cultivation overview
-- [[mushroom-sterile-technique]] -- Sterile procedure hierarchy (SAB, glove box, flow hood)
+- [[mushroom-sterile-technique-detailed]] -- Sterile procedure hierarchy (SAB, glove box, flow hood)
 - [[mushroom-substrates]] -- Substrate options beyond PF TEK
 - [[mushroom-grow-equipment]] -- Equipment guide
 - [[inoculation-methods]] -- Inoculation techniques
-- [[mushroom-cultivation-methods-comparison]] -- Method comparison
+- [[mushroom-cultivation-methods]] -- Method comparison
 
 ## Related
 

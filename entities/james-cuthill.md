@@ -56,5 +56,5 @@ Cuthill's work is part of the historical tradition of mushroom cultivation liter
 - [[benjamin-duggar]] — Later cultivation researcher who cited Cuthill's methods
 - [[mushroom-cultivation-basics]] — Modern cultivation techniques
 - [[mushroom-composting-and-recycling]] — Compost-based substrate preparation
-- [[history-of-mycology]] — History of mycological science
+- [[history-of-mycology-timeline]] — History of mycological science
 - [[victorian-mycology]] — Victorian-era mycological writing

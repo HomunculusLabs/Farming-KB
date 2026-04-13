@@ -50,5 +50,5 @@ While [[robert-clarke]]'s *Marijuana Botany* covers the botanical science, Vic H
 - [[robert-clarke]] — complementary academic perspective on cannabis genetics
 - [[cannabis-genetics-and-breeding]] — Mendelian genetics and breeding methods
 - [[cannabis-breeding-basics]] — introductory breeding guide
-- [[cannabis-breeding-strategies]] — advanced breeding strategies including cubing
+- [[cannabis-breeding-basics]] — advanced breeding strategies including cubing
 - [[mushroom-genetics-strain-selection]] — strain selection principles applicable across species

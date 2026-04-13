@@ -23,7 +23,7 @@ sources:
 
 # Psilocybe Genus Classification
 
-Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-allen]]. See also [[psilocybin-mushroom-distribution]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
+Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-allen]]. See also [[psilocybin-mushroom-chemistry]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
 
 ## Genus Overview
 
@@ -148,7 +148,7 @@ Several other mushroom genera contain psilocybin and related tryptamines, with i
   - P. bisporus — 2-spored species, Caribbean
   - P. cambodginiensis — Southeast Asia
 - **Total psychoactive species:** ~15-20 described
-- **Key reference:** See [[psilocybin-mushroom-distribution]] for distribution data
+- **Key reference:** See [[psilocybin-mushroom-chemistry]] for distribution data
 
 ### Gymnopilus (Kühner) Singer
 
@@ -196,5 +196,5 @@ Many potentially psychoactive species remain undescribed, especially in the trop
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution]] — Geographical distribution
+- [[psilocybin-mushroom-chemistry]] — Geographical distribution
 - [[psilocybin-mushroom-chemistry]] — Chemical profiles and analysis

@@ -145,7 +145,7 @@ The title of [[nicholas-money]]'s book refers to an abandoned apple orchard belo
 - [[amanita-muscaria-guide]] — Fly agaric identification, chemistry, and Siberian use
 - [[entheogen-culture]] — Entheogens across cultures
 - [[mushroom-identification-resources]] — Identification methods and safety
-- [[edible-wild-mushrooms-of-north-america]] — Regional foraging guide
+- [[edible-wild-mushrooms-by-region]] — Regional foraging guide
 - [[nicholas-money]] — Author of Mr. Bloomfield's Orchard
 - [[christmas-mushroom-symbolism]] — Christmas traditions and Amanita connections
 - [[mythological-mushroom-symbolism]] — Mushroom symbolic vocabulary across cultures

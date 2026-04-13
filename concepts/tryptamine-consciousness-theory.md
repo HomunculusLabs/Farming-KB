@@ -122,4 +122,4 @@ McKenna relates his experiences to Borges' "The Sect of the Phoenix" and "The Al
 - "The library is the first place to go when looking into taking a new compound."
 
 ## Related
-[[terence-mckenna]], [[dmt-reference]], [[psychedelic-compounds-reference]], [[entheogen-culture]], [[entheogen-culture]], [[harm-reduction]]
+[[terence-mckenna]], [[dmt-reference]], [[psychedelic-compounds-reference]], [[entheogen-culture]], [[entheogen-culture]], [[harm-reduction-guide]]

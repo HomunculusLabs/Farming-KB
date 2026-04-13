@@ -159,4 +159,4 @@ Freshwater and marine environments contain diverse but understudied fungal commu
 - Finlay, B.J. (2002) "Global dispersal of free-living microbial eukaryote species." Science 296: 1061-3.
 - Peay, K.G., Garbelotto, M. & Bruns, T.D. (2010) "Evidence of dispersal limitation in soil microorganisms: isolation reduces species richness on mycorrhizal tree islands." Ecology 91: 3631-40.
 - [[chytrid-fungi-guide]]
-- [[fungal-endemism-biogeography]]
+- [[fungal-biodiversity-biogeography]]

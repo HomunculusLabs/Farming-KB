@@ -122,5 +122,5 @@ Best timber framing species by region:
 ## Related Concepts
 
 - [[barn-construction-reference]] — General building and construction techniques for homestead infrastructure
-- [[soap-and-candle-making]] — Woodworking and value-added homestead products
+- [[soap-making-guide]] — Woodworking and value-added homestead products
 - [[firewood-seasoning-and-storage]] — Related wood processing and storage principles

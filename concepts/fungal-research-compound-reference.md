@@ -175,4 +175,4 @@ Gram-scale synthesis of psilocin and psilocybin without chromatographic purifica
 - [[mushroom-growing-reference]] — Cultivation parameters and species tips
 - [[psychedelic-compounds-reference]] — Compound pharmacology and dosing
 - [[mushroom-substrates]] — Grain spawn and substrate details
-- [[fungal-biology-lifecycle]] — Fungal lifecycle and fruiting triggers
+- [[fungal-biology-fundamentals]] — Fungal lifecycle and fruiting triggers

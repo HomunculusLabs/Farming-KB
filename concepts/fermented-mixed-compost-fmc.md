@@ -165,4 +165,4 @@ For application rates, soil treatment solution (SOS), Carandang's bokashi altern
 - [[knf-preparations]] — KNF liquid inputs (FPJ, FAA, OHN, LAB)
 - [[composting-systems]] — Other composting methods
 - [[bokashi]] — EM-based anaerobic fermentation
-- [[soil-food-web]] — How FMC feeds the soil food web
+- [[soil-food-web-nutrient-cycling]] — How FMC feeds the soil food web

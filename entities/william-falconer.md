@@ -63,4 +63,4 @@ Falconer's work builds on the earlier British tradition of [[james-cuthill]] (18
 - [[mushroom-cultivation-basics]] — Modern cultivation techniques
 - [[mushroom-composting-and-recycling]] — Compost-based substrate preparation
 - [[mushroom-growing-reference]] — Complete growing reference
-- [[history-of-mycology]] — History of mycological science
+- [[history-of-mycology-timeline]] — History of mycological science

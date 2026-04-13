@@ -155,7 +155,7 @@ Transfer a small piece of the slant mycelium to a fresh plate. Growth should res
 
 ## Contamination on Agar
 
-Agar is an excellent diagnostic tool because it makes contamination visible. See [[mushroom-contamination-troubleshooting]] for detailed identification. Common contaminants on agar include:
+Agar is an excellent diagnostic tool because it makes contamination visible. See [[mushroom-contamination-identification]] for detailed identification. Common contaminants on agar include:
 
 - **Bacterial colonies**: Circular, shiny, often iridescent spots. May smell sour.
 - **Mold**: Fuzzy growth in colors other than white (green, blue, black, pink, yellow).
@@ -163,7 +163,7 @@ Agar is an excellent diagnostic tool because it makes contamination visible. See
 
 ## Related Topics
 
-- [[mushroom-sterile-technique]] — sterile technique for agar work
+- [[mushroom-sterile-technique-detailed]] — sterile technique for agar work
 - [[mushroom-laminarar-flow-hood]] — the ideal workspace for agar work
 - [[mushroom-spore-printing-and-storage]] — creating spore syringes for agar inoculation
 - [[grain-spawn-preparation]] — transferring from agar to grain spawn

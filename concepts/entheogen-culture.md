@@ -84,7 +84,7 @@ Ayahuasca tourism has become a significant industry in the Amazon, particularly 
 - Psychological intensity can trigger latent mental health conditions
 - Cultural appropriation: some centers work respectfully with indigenous traditions, others cater to Western spiritual seekers with minimal connection to authentic practice
 - Every shaman claims exclusive authenticity, making it nearly impossible for visitors to distinguish genuine practitioners from opportunists
-- [[richard-evans-schultes]] documented the original indigenous practices; the modern tourism industry has created a syncretic form blending indigenous, Christian, and New Age elements
+- [[richard-evans-schultes-updated]] documented the original indigenous practices; the modern tourism industry has created a syncretic form blending indigenous, Christian, and New Age elements
 
 **Historical context**: Western spiritual seekers have cycled through traditions decade by decade — Zen (1950s), Hindu swamis (1960s), cult leaders (1970s), Tibetan lamas (1980s), shamanism (1990s) — with ayahuasca tourism being the current manifestation. See [[ayahuasca-visions]] for the indigenous tradition and [[ayahuasca-preparation]] for the traditional brewing method.
 
@@ -121,7 +121,7 @@ McKenna's Esalen lecture provides a distinctive view of shamanism:
 - [[psychoactive-cacti-guide]] for peyote, San Pedro, and mescaline cacti
 - [[mushrooms-and-mankind]] for ethnomycological theories about religion
 - [[ralph-metzner]] for the scholarly bridge between Eastern and Western consciousness traditions
-- [[richard-evans-schultes]] for the father of ethnobotany
+- [[richard-evans-schultes-updated]] for the father of ethnobotany
 
 
 See also: [[jonathan-ott]] — ethnobotanist who co-coined 'entheogen' and authored Pharmacotheon.
@@ -138,7 +138,7 @@ See also: [[jonathan-ott]] — ethnobotanist who co-coined 'entheogen' and autho
 
 ## Chemical Classification of Hallucinogenic Plants
 
-Per [[richard-evans-schultes]]' *Golden Guide to Hallucinogenic Plants* (1976), hallucinogenic compounds found in plants fall into these major chemical classes:
+Per [[richard-evans-schultes-updated]]' *Golden Guide to Hallucinogenic Plants* (1976), hallucinogenic compounds found in plants fall into these major chemical classes:
 
 ### Indole Alkaloids (Tryptamine Derivatives)
 The most common class. All share the indole nucleus — a structural similarity to the neurohumoral serotonin (5-hydroxydimethyltryptamine), which may explain their activity on the central nervous system. Includes:

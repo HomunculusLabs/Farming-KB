@@ -130,7 +130,7 @@ When selecting strains for specific therapeutic goals, consider the full cannabi
 - [[cannabis-plant-nutrition]] -- Growing therapeutic cannabis
 - [[cannabis-genetics-and-breeding]] -- Selecting for therapeutic profiles
 - [[herbal-medicine]] -- Integration with other botanical medicines
-- [[cannabis-extraction-methods]] -- Making therapeutic preparations
+- [[cannabis-extraction-basics]] -- Making therapeutic preparations
 
 
 See also: [[uwe-blesching]] — evidence-based cannabis therapeutics research.

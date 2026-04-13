@@ -59,10 +59,10 @@ Raised beds are the homestead garden backbone — [[homesteading-infrastructure]
 - Soil warms 2-3 weeks earlier in spring — extends growing season
 - No soil compaction from foot traffic (never walk in beds)
 - Intensive planting (square foot gardening) maximizes yield per area
-- Easy to [[no-till-farming]] — just top-dress and mulch
-- Clean root zone for [[cannabis-indoor-living-soil]] if used outdoors
+- Easy to [[no-till-gardening-method]] — just top-dress and mulch
+- Clean root zone for [[cannabis-living-soil-guide]] if used outdoors
 - Reduces back strain (less bending)
-- Easy to [[cover-cropping]] and rotate crops in defined sections
+- Easy to [[cover-cropping-guide]] and rotate crops in defined sections
 
 **Cons:**
 - Initial cost and labor (wood, stone, or metal + soil to fill)
@@ -83,7 +83,7 @@ In-ground gardening works directly with native soil, amending it over time. It's
 - Best water retention (deep soil profile holds moisture)
 - Most natural for perennials, [[food-forest-design]], and orchard integration
 - Lowest maintenance long-term
-- Best for [[no-till-farming]] — large areas with mulch
+- Best for [[no-till-gardening-method]] — large areas with mulch
 
 **Cons:**
 - Dependent on native soil quality — may take years to build good soil
@@ -93,11 +93,11 @@ In-ground gardening works directly with native soil, amending it over time. It's
 - Harder to modify pH quickly across large areas
 - Gopher/mole damage in some regions
 
-**Transition strategy:** [[no-till-farming]] sheet mulching converts lawn or compacted ground to in-ground beds over 3-6 months without tilling.
+**Transition strategy:** [[no-till-gardening-method]] sheet mulching converts lawn or compacted ground to in-ground beds over 3-6 months without tilling.
 
 ### Containers
 
-Containers provide complete soil isolation and full mobility. Essential for [[cannabis-indoor-living-soil]] and useful for patios, decks, and small spaces.
+Containers provide complete soil isolation and full mobility. Essential for [[cannabis-living-soil-guide]] and useful for patios, decks, and small spaces.
 
 **Pros:**
 - Complete control over soil mix, pH, and nutrients
@@ -125,18 +125,18 @@ Containers provide complete soil isolation and full mobility. Essential for [[ca
 | Main vegetable garden | Raised beds | Intensive annuals: tomatoes, peppers, brassicas, onions |
 | Perennial food forest | In-ground | Fruit trees, berry bushes, asparagus, herbs |
 | Herb garden near kitchen | Containers or raised beds | Basil, thyme, rosemary, parsley, cilantro |
-| Indoor cannabis | Containers (living soil beds) | Cannabis — see [[cannabis-indoor-living-soil]] |
+| Indoor cannabis | Containers (living soil beds) | Cannabis — see [[cannabis-living-soil-guide]] |
 | Greenhouse | Raised beds or in-ground | Seed starting, winter greens, heat-loving crops |
 | Patio/deck | Containers | Peppers, herbs, dwarf tomatoes, strawberries |
 
 ## Verdict
 
-Start with raised beds for the main vegetable garden (best return on effort for food production), use in-ground for perennials and orchard, and containers for herbs, indoor cannabis, and mobile plants. Fill raised beds with a mix of [[composting-systems]] compost, [[vermicompost]] castings, and mineral amendments from [[soil-fertility-management]] for a living soil approach from day one.
+Start with raised beds for the main vegetable garden (best return on effort for food production), use in-ground for perennials and orchard, and containers for herbs, indoor cannabis, and mobile plants. Fill raised beds with a mix of [[composting-systems]] compost, [[vermicomposting]] castings, and mineral amendments from [[soil-fertility-management]] for a living soil approach from day one.
 
 ## See Also
 
-- [[no-till-farming]] — Managing beds without tilling
-- [[cannabis-indoor-living-soil]] — Living soil container method
+- [[no-till-gardening-method]] — Managing beds without tilling
+- [[cannabis-living-soil-guide]] — Living soil container method
 - [[homesteading-infrastructure]] — Layout and bed planning
 - [[greenhouse-design]] — Protected growing structures
 - [[soil-fertility-management]] — Mineral amendments for any growing method

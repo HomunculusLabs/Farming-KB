@@ -53,12 +53,12 @@ For people with disabilities, the pasteurization drum should be built lower than
 
 ## After Pasteurization
 
-Transfer cooled bags to the inoculation area. Bags should be inoculated within 24 hours of pasteurization to minimize contamination risk. See [[substrate-bag-preparation]] for the preceding steps and [[mushroom-spawn-making]] for spawn preparation.
+Transfer cooled bags to the inoculation area. Bags should be inoculated within 24 hours of pasteurization to minimize contamination risk. See [[substrate-bag-preparation]] for the preceding steps and [[mushroom-spawn-making-detailed]] for spawn preparation.
 
 ## Related
 
 - [[substrate-bag-preparation]] — Making substrate bags before pasteurization
-- [[mushroom-sterile-technique]] — Inoculation after pasteurization
+- [[mushroom-sterile-technique-detailed]] — Inoculation after pasteurization
 - [[mushroom-substrates]] — Substrate science and alternatives
-- [[accessible-mushroom-cultivation]] — Facility adaptations for disabilities
+- [[mushroom-cultivation-basics]] — Facility adaptations for disabilities
 - [[mushroom-cultivation-basics]] — Overview of the full cultivation process

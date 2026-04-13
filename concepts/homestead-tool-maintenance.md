@@ -190,11 +190,10 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 - Good for tools stored long-term
 
 **Boiled Linseed Oil on Steel**
-- Wipe on a very thin coat
-- Let dry for 48 hours
-- Provides a durable, protective film
-- Can be reapplied as needed
-
-**Silica Gel Packets**
-- Place in tool boxes and drawers to absorb moisture
 ## Related
+
+- [[fruit-tree-pruning]]
+- [[composting-systems]]
+- [[woodlot-management]]
+- [[homestead-workshop-tools]]
+- [[homestead-financial-planning]]

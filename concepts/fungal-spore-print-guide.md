@@ -137,4 +137,4 @@ Document your spore prints for future reference:
 
 - [[mushroom-taxonomy-history]] — How spore colors shaped early fungal classification
 - [[fungal-dna-barcoding]] — Modern molecular identification methods
-- [[mushroom-cooking-guide]] — Once identified, how to prepare edible species
+- [[mushroom-cooking-techniques]] — Once identified, how to prepare edible species

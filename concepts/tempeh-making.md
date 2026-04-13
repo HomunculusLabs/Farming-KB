@@ -133,4 +133,4 @@ When using non-soy substrates:
 
 - [[miso-making]] — soybean fermentation using Aspergillus koji
 - [[natto-making]] — fermented soybeans using Bacillus subtilis natto
-- [[food-fermentation]] — broader fermentation concepts and processes
+- [[food-fermentation-guide]] — broader fermentation concepts and processes

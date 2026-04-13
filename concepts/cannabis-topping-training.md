@@ -124,7 +124,7 @@ Different methods suit different situations:
 - [[cannabis-vegetative-stage]] — Training happens primarily during vegetative growth
 - [[cannabis-flowering-stage]] — Transition considerations when moving trained plants to flower
 - [[cannabis-lighting-guide]] — Matching your training method to your lighting setup
-- [[cannabis-indoor-living-soil]] — Training within a living soil grow system
+- [[cannabis-living-soil-guide]] — Training within a living soil grow system
 
 ## Related
 

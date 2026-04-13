@@ -141,4 +141,4 @@ Arthur argues that shamanism — the indigenous practice of achieving death-and-
 - [[soma-hypothesis]] — The Vedic Soma-Amanita identification
 - [[christmas-mushroom-symbolism]] — Christmas traditions as mushroom encoding
 - [[egyptian-mushroom-symbolism]] — Egyptian mystery school initiations
-- [[psychedelic-therapy-history]] — Modern therapeutic applications of entheogenic experience
+- [[psychedelic-therapy-current-research]] — Modern therapeutic applications of entheogenic experience

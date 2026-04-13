@@ -44,7 +44,7 @@ Co-editor of *Fungi in the Environment* (with [[sarah-c-watkinson]] and Paul S. 
 
 - Professor and head of mycology research at the University of Dundee
 - Published extensively in leading mycological and environmental journals
-- His work is cited throughout the [[mycoremediation-basics]] and [[soil-food-web]] literature
+- His work is cited throughout the [[mycoremediation-basics]] and [[soil-food-web-nutrient-cycling]] literature
 - Contributed to Singh's comprehensive volume on fungal bioremediation
 - Established geomycology as a recognized subdiscipline
 
@@ -58,6 +58,6 @@ Gadd demonstrated that fungi play critical roles in mineral cycling and environm
 - [[john-dighton]] — complementary fungal ecology researcher
 - [[mycoremediation-basics]] — applications of Gadd's metal interaction research
 - [[fungal-remediation-decision-tree]] — contaminant matching for bioremediation
-- [[soil-food-web]] — fungal roles in soil mineral cycling
+- [[soil-food-web-nutrient-cycling]] — fungal roles in soil mineral cycling
 - [[soil-food-web-nutrient-cycling]] — nutrient cycling driven by fungal activity
 - [[fungal-enzyme-systems-bioremediation]] — enzyme systems for pollutant degradation

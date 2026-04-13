@@ -51,15 +51,15 @@ July through December task list for temperate climate zones 5-7. See [[seasonal-
 
 ## August
 
-**Garden tasks**: Transplant fall brassicas. Direct sow spinach, radishes, turnips, kale. [[cover-cropping]] — sow buckwheat on empty beds (quick summer cover). Sow oats + crimson clover for winter cover. Cannabis mid-flower — monitor trichomes, flush if near harvest.
+**Garden tasks**: Transplant fall brassicas. Direct sow spinach, radishes, turnips, kale. [[cover-cropping-guide]] — sow buckwheat on empty beds (quick summer cover). Sow oats + crimson clover for winter cover. Cannabis mid-flower — monitor trichomes, flush if near harvest.
 
 **Livestock**: Evaluate culling/replacement before winter feed costs. Order winter hay now (prices rise in fall). Continue pasture rotation.
 
-**Food preservation**: Peak preservation — canning tomatoes (sauce, salsa, diced), pickling peppers, freezing sweet corn, drying apples, making fruit leathers. [[food-fermentation]] — kimchi, pickles, hot sauce.
+**Food preservation**: Peak preservation — canning tomatoes (sauce, salsa, diced), pickling peppers, freezing sweet corn, drying apples, making fruit leathers. [[food-fermentation-guide]] — kimchi, pickles, hot sauce.
 
 **Infrastructure**: Begin evaluating who to cull/replace before winter feed costs. Order winter hay. Clean out barns and coops. Repair winter housing.
 
-**Planning**: Begin [[seed-saving]] — tag best plants, let them go to seed. Order garlic for fall planting.
+**Planning**: Begin [[seed-saving-techniques]] — tag best plants, let them go to seed. Order garlic for fall planting.
 
 ---
 
@@ -79,7 +79,7 @@ July through December task list for temperate climate zones 5-7. See [[seasonal-
 
 ## October
 
-**Garden tasks**: Plant garlic cloves, shallots, flower bulbs. Transplant final fall greens. Final window for winter [[cover-cropping]] — winter rye, hairy vetch, crimson clover. Cannabis curing in progress. Clean and sanitize grow space. Spread finished compost and leaves on beds.
+**Garden tasks**: Plant garlic cloves, shallots, flower bulbs. Transplant final fall greens. Final window for winter [[cover-cropping-guide]] — winter rye, hairy vetch, crimson clover. Cannabis curing in progress. Clean and sanitize grow space. Spread finished compost and leaves on beds.
 
 **Livestock**: Full winter prep — draft-free housing, heated waterers, hay storage. Goats — breeding season. Increase feed rations as pasture declines. Body condition scoring.
 
@@ -113,7 +113,7 @@ July through December task list for temperate climate zones 5-7. See [[seasonal-
 
 **Food preservation**: Use stored preserves. Make holiday ferments. Plan preservation goals for next year based on what you ran out of.
 
-**Infrastructure**: [[vermicompost]] — minimal feeding, keep bins from freezing. Check stored firewood supply. Maintain equipment.
+**Infrastructure**: [[vermicomposting]] — minimal feeding, keep bins from freezing. Check stored firewood supply. Maintain equipment.
 
 **Planning**: Review and update [[homesteading-infrastructure]] plans. Set goals for next year. Take courses, read books, watch documentaries. Rest.
 
@@ -133,7 +133,7 @@ July through December task list for temperate climate zones 5-7. See [[seasonal-
 - [[seasonal-homesteading-calendar]] -- spring and summer months (January–June)
 - [[seasonal-planning]] -- cannabis-integrated monthly calendar
 - [[homesteading]] -- core elements, planning priorities, skills progression
-- [[food-preservation]] -- comprehensive preservation methods
+- [[food-preservation-canning]] -- comprehensive preservation methods
 - [[composting-systems]] -- hot/cold composting, vermicompost, bokashi
 - [[cover-cropping-guide]] -- cover crop selection and management
 - [[duck-keeping]] -- duck care through the seasons

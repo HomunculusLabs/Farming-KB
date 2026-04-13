@@ -50,5 +50,5 @@ Gottlieb's guides bridged academic mycology and home cultivation, making advance
 - [[psychoactive-cacti-guide]] — cactus cultivation and preparation
 - [[peyote-cultivation]] — detailed peyote cultivation methods
 - [[cactus-cultivation-seed-cutting]] — cactus propagation from seed and cutting
-- [[psilocybin-mycelium-extraction]] — methanol extraction method from Gottlieb's guide
+- [[psilocybin-extraction-guide]] — methanol extraction method from Gottlieb's guide
 - [[psilocybin-large-scale-production]] — production room design from Gottlieb's guide

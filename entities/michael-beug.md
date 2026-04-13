@@ -54,6 +54,6 @@ Beug's work employed reversed-phase HPLC calibrated against National Institute o
 
 - [[jeremy-bigwood]] — primary research collaborator
 - [[paul-stamets]] — cites their analytical work and includes Beug's photography
-- [[psilocybin-mushroom-potency]] — potency data from their analyses
+- [[psilocybin-mushroom-chemistry]] — potency data from their analyses
 - [[mushroom-poisoning-guide]] — Beug's toxicity expertise
-- [[psilocybin-mushroom-distribution]] — species surveyed
+- [[psilocybin-mushroom-chemistry]] — species surveyed

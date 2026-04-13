@@ -59,7 +59,7 @@ Limitations: weed seeds and pathogens survive. Materials at the top may not full
 
 ## Vermicomposting
 
-See [[worm-composting-vermicompost]] for detailed guidance. Uses Eisenia fetida (red wiggler worms) in a contained bin to process kitchen scraps into nutrient-rich castings.
+See [[vermicomposting]] for detailed guidance. Uses Eisenia fetida (red wiggler worms) in a contained bin to process kitchen scraps into nutrient-rich castings.
 
 ## Bokashi Composting
 
@@ -120,9 +120,9 @@ Use sheet mulching when:
 ## See Also
 
 - [[bokashi-composting]] -- detailed bokashi fermentation process and setup
-- [[worm-composting-vermicompost]] -- complete vermicomposting guide
+- [[vermicomposting]] -- complete vermicomposting guide
 - [[leaf-mold-composting]] -- specialized method for leaf-only composting
-- [[soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]
 
 ## Related
 

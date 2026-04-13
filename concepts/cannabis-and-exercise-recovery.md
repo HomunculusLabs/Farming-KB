@@ -66,7 +66,7 @@ Cannabis provides analgesic effects through multiple mechanisms:
 
 ### Muscle Relaxation
 
-THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in multiple sclerosis patients). [[cannabis-topical-applications|Cannabis topicals]] are particularly effective for targeted muscle relaxation without systemic effects.
+THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in multiple sclerosis patients). [[cannabis-topicals-guide|Cannabis topicals]] are particularly effective for targeted muscle relaxation without systemic effects.
 
 ### Sleep Enhancement
 
@@ -171,7 +171,7 @@ Start low, increase gradually. New users should start with CBD-only products.
 
 ### Sample Recovery Protocol
 
-**Post-workout (within 30 min):** Apply [[cannabis-topical-applications|cannabis topical]] to sore areas, stretch and cool down.
+**Post-workout (within 30 min):** Apply [[cannabis-topicals-guide|cannabis topical]] to sore areas, stretch and cool down.
 
 **1-2 hours post-workout:** Take 25mg CBD sublingually, rehydrate and eat a recovery meal.
 

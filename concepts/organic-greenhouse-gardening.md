@@ -94,5 +94,5 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
 - [[greenhouse-design]] -- Structure design and construction
-- [[seed-starting]] -- Propagation under protection
+- [[seed-starting-reference]] -- Propagation under protection
 - [[seasonal-planning]] -- Monthly task calendar

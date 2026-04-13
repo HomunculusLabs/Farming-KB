@@ -121,6 +121,6 @@ Yeast in baking produces CO2 which leavens dough, creating the light, airy textu
 
 ## Related
 
-- [[fungal-cell-biology]]
-- [[food-fermentation]]
+- [[fungal-biology-fundamentals]]
+- [[food-fermentation-guide]]
 - [[fungal-biology-fundamentals]]

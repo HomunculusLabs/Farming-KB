@@ -134,9 +134,9 @@ Mycelium fosters specific microbial communities through its antibiotic secretion
 
 ## See Also
 
-- [[fungal-ligninolytic-enzyme-systems]] for deeper biochemical detail
+- [[fungal-enzyme-systems-bioremediation]] for deeper biochemical detail
 - [[mycoremediation-basics]] for application overview
-- [[mycoremediation-petroleum-and-oil-spills]] for petroleum-specific applications
-- [[mycoremediation-heavy-metals-radioactive]] for metal bioaccumulation
+- [[mycoremediation-of-oil-spills]] for petroleum-specific applications
+- [[mycoremediation-of-heavy-metals]] for metal bioaccumulation
 - [[mycoremediation-pcbs-and-dioxins]] for chlorinated compound degradation
 - [[fungal-decomposition]] for natural decomposition processes

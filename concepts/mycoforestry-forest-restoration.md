@@ -123,7 +123,7 @@ Forests managed with mycoforestry principles sequester more carbon:
 
 Mycoforestry integrates with [[permaculture-design]]:
 - [[food-forest-design]] at the edges of managed forests
-- [[swale-design]] combined with mycofiltration for water management
+- [[swale-design-construction]] combined with mycofiltration for water management
 - [[cover-cropping-guide]] for understory soil building
 - [[food-forest-layers-and-species]] incorporating fungal allies at every layer
 - [[hugelkultur-guide]] using fungal-inoculated wood cores

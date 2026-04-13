@@ -13,7 +13,7 @@ Sheet mulching (also called lasagna gardening or composting in place) is a no-ti
 
 ## Why Sheet Mulch Instead of Tilling
 
-- Preserves soil structure and the [[soil-food-web]] intact — tilling destroys fungal networks and kills beneficial organisms
+- Preserves soil structure and the [[soil-food-web-nutrient-cycling]] intact — tilling destroys fungal networks and kills beneficial organisms
 - Encourages multiple generations of soil life (ecological succession in the soil)
 - Fills the garden bed with rich excretions of decomposer organisms instead of wasting them beneath a compost pile
 - Less work than building a compost pile and then carting finished compost to beds
@@ -71,9 +71,9 @@ Sheet mulching accelerates ecological succession in the soil. The layered organi
 ## Related
 
 - [[gaias-garden-methods]] — Sheet mulching in the context of home-scale permaculture
-- [[no-till-farming]] — Why tilling destroys soil biology
+- [[no-till-gardening-method]] — Why tilling destroys soil biology
 - [[composting-systems]] — Comparison of composting methods
 - [[mulching-guide]] — Mulch types, depth, and seasonal strategy
 - [[food-forest-design]] — Using sheet mulch to establish food forests
-- [[soil-food-web]] — The biology that sheet mulching supports
+- [[soil-food-web-nutrient-cycling]] — The biology that sheet mulching supports
 - [[gaia-garden-plant-guilds]] — Plant communities that benefit from sheet-mulched soil

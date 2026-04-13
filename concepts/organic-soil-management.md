@@ -23,7 +23,7 @@ sources:
 
 # Organic Soil Management
 
-Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's organic gardening methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[no-till-farming]] for minimum-disturbance approaches.
+Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's organic gardening methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[no-till-gardening-method]] for minimum-disturbance approaches.
 
 ## Understanding Soil
 
@@ -58,7 +58,7 @@ Sources of organic matter ranked by availability and value:
 1. **Garden compost** -- the backbone. Mix green (nitrogen-rich) and brown (carbon-rich) materials. See [[composting-systems]]
 2. **Well-rotted manure** -- farmyard manure aged 6+ months. Avoid fresh manure (can scorch plants, contains weed seeds, may harbor pathogens)
 3. **Leaf mould** -- decomposed autumn leaves, excellent soil conditioner. Takes 1-2 years. Oak and beech leaves are slower; smaller leaves decompose faster
-4. **Green manures** -- living plants grown specifically to be dug in. See [[cover-cropping]]
+4. **Green manures** -- living plants grown specifically to be dug in. See [[cover-cropping-guide]]
 5. **Worm-worked compost and vermicompost** -- exceptionally rich in plant-available nutrients and beneficial microorganisms. Worm populations indicate soil health (50+ per sq ft in healthy beds)
 6. **Mushroom compost** -- spent substrate from mushroom cultivation. Good soil conditioner but can be alkaline
 7. **Seaweed** -- rich in trace minerals. Rinse salt from beach-harvested seaweed before use
@@ -76,7 +76,7 @@ Sources of organic matter ranked by availability and value:
 - Never grow the same family of crops in the same spot two years running
 - Minimum 3-year rotation; 4-year is better for brassicas (club root prevention)
 - Standard rotation: Legumes (fix nitrogen) > Brassicas (heavy feeders) > Roots (light feeders) > Onions/Potatoes
-- See [[companion-planting]] for interplanting strategies
+- See [[companion-planting-reference]] for interplanting strategies
 
 ## Alternative Soil Conditioners
 
@@ -97,7 +97,7 @@ Sources of organic matter ranked by availability and value:
 
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
 - [[composting-systems]] -- Composting methods and recipes
-- [[cover-cropping]] -- Green manures and cover crops
-- [[no-till-farming]] -- Minimum disturbance soil management
-- [[cannabis-indoor-living-soil]] -- Soil biology and food web
+- [[cover-cropping-guide]] -- Green manures and cover crops
+- [[no-till-gardening-method]] -- Minimum disturbance soil management
+- [[cannabis-living-soil-guide]] -- Soil biology and food web
 - [[soil-fertility-management]] -- Organic nutrient management

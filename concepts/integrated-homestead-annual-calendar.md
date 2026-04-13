@@ -36,24 +36,24 @@ Seasonal integration map — how all homestead systems overlap and support each 
 ## Material Flow Overview
 
 ### Nitrogen Flow
-1. **Atmospheric N₂** → [[cover-cropping]] legumes (rhizobia) → plant biomass
+1. **Atmospheric N₂** → [[cover-cropping-guide]] legumes (rhizobia) → plant biomass
 2. **Fish scraps** ([[pond-and-aquaculture]]) → [[fish-amino-acid-faa]] → foliar/soil spray
-3. **Animal manure** ([[duck-keeping]], [[goat-keeping]]) → [[composting-systems]] → [[soil-food-web]] → plant-available N
+3. **Animal manure** ([[duck-keeping]], [[goat-keeping]]) → [[composting-systems]] → [[soil-food-web-nutrient-cycling]] → plant-available N
 4. **Spent substrate** ([[mushroom-composting-and-recycling]]) → compost → soil N
 5. **Bokashi** ([[bokashi]]) → soil burial → fast N mineralization
 
 ### Calcium Flow
 1. **Duck eggshells** ([[duck-keeping]]) → [[water-soluble-calcium-wca]] with [[brown-rice-vinegar-brv]]
 2. **Animal bones** ([[animal-byproducts]]) → [[water-soluble-calcium-phosphate-wcp]] with BRV
-3. **Wood ash** ([[homestead-renewable-energy]]) → direct soil amendment (lime substitute)
+3. **Wood ash** ([[homestead-energy-conservation]]) → direct soil amendment (lime substitute)
 4. **[[dynamic-accumulators]]** (comfrey, dandelion) → deep-mined Ca → compost/mulch
 
 ### Carbon Flow
 1. **Woody prunings** ([[orchard-management]], [[food-forest-design]]) → [[mushroom-substrates]] → SMS → compost → humus
 2. **Straw** ([[grain-and-staple-crops]]) → animal bedding → compost → soil
 3. **Leaves** → [[indigenous-microorganisms-imo]] collection + leaf mold compost
-4. **Kitchen scraps** → [[bokashi]] → [[vermicompost]] → castings → soil
-5. **Root exudates** → [[soil-food-web]] → stable soil carbon (longest residence time)
+4. **Kitchen scraps** → [[bokashi]] → [[vermicomposting]] → castings → soil
+5. **Root exudates** → [[soil-food-web-nutrient-cycling]] → stable soil carbon (longest residence time)
 
 ### Water Flow
 1. **Rain** → roof catchment → tanks → irrigation
@@ -66,10 +66,10 @@ Seasonal integration map — how all homestead systems overlap and support each 
 
 ### System Overlaps
 - **Animals**: Goats kidding, ducks laying heavily. Manure production peaks → start new [[composting-systems]] piles. Begin spring [[pasture-management]] rotation.
-- **Soil**: [[cover-cropping]] winter annuals terminated (crimp/mow) → no-till beds. [[knf-preparations]] IMO collection from emerging forest floor.
+- **Soil**: [[cover-cropping-guide]] winter annuals terminated (crimp/mow) → no-till beds. [[knf-preparations]] IMO collection from emerging forest floor.
 - **Cannabis**: Start seeds indoor ([[cannabis-vegetative-stage]]), prepare living soil beds with [[fermented-mixed-compost-fmc]] + vermicompost.
 - **Mushrooms**: Inoculate outdoor logs ([[mushroom-log-cultivation]]) as trees are pruned. Start indoor grows ([[mushroom-indoor-cultivation]]).
-- **Kitchen**: First greens from garden. Plan [[food-preservation]] for coming abundance.
+- **Kitchen**: First greens from garden. Plan [[food-preservation-canning]] for coming abundance.
 
 ### Key Integration Moments
 - Duck manure + bedding from spring cleaning → hot compost → garden beds by June
@@ -84,8 +84,8 @@ Seasonal integration map — how all homestead systems overlap and support each 
 - **Animals**: Maximum forage. Ducks on pasture rotation. Goats browsing [[food-forest-design]] edges.
 - **Soil**: Mulch all beds heavily. [[compost-tea-aact]] every 2 weeks. KNF inputs per [[nutritive-cycle-theory]].
 - **Cannabis**: Vegetative growth → flip to flower ([[cannabis-flowering-stage]]). Apply WS-CaPo during changeover.
-- **Mushrooms**: Peak fruiting for outdoor logs and indoor monotubs. Harvest, process ([[mushroom-nutrition-and-medicinal]]), SMS to compost.
-- **Kitchen**: Peak preservation — canning, dehydrating, fermenting ([[food-preservation]]).
+- **Mushrooms**: Peak fruiting for outdoor logs and indoor monotubs. Harvest, process ([[mushroom-nutrition-guide]]), SMS to compost.
+- **Kitchen**: Peak preservation — canning, dehydrating, fermenting ([[food-preservation-canning]]).
 
 ### Key Integration Moments
 - Kitchen scraps at peak volume → [[bokashi]] bins at capacity → bury in fallow beds
@@ -99,14 +99,14 @@ Seasonal integration map — how all homestead systems overlap and support each 
 
 ### System Overlaps
 - **Animals**: Reduce stocking as forage declines. Cull and process. Bones → WS-CaPo. Feathers → compost.
-- **Soil**: Final compost turning. Plant [[cover-cropping]] on all bare ground. Collect IMO for winter.
-- **Cannabis**: Harvest and cure ([[cannabis-harvesting-and-curing]]). Spent living soil → store or amend food forest.
+- **Soil**: Final compost turning. Plant [[cover-cropping-guide]] on all bare ground. Collect IMO for winter.
+- **Cannabis**: Harvest and cure ([[cannabis-harvest-and-curing]]). Spent living soil → store or amend food forest.
 - **Mushrooms**: Fall fruiting for wine caps, maitake. Final log inoculations.
-- **Kitchen**: Root cellar storage. Last fermentations. [[seed-saving]] from mature plants.
+- **Kitchen**: Root cellar storage. Last fermentations. [[seed-saving-techniques]] from mature plants.
 
 ### Key Integration Moments
 - Harvest cleanout → massive organic matter flow to compost
-- Cover crop seed from [[seed-saving]] planted in beds fertilized by summer compost
+- Cover crop seed from [[seed-saving-techniques]] planted in beds fertilized by summer compost
 - Cannabis stems/root balls → [[mushroom-substrates]] (oyster mushrooms grow on cannabis stalks)
 - Animal processing byproducts → [[animal-byproducts]] processing chain (bones→WS-CaPo, fat→soap, feathers→compost)
 - Last [[indigenous-microorganisms-imo]] collection before winter dormancy

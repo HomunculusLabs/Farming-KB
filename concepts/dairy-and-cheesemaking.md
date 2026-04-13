@@ -192,6 +192,6 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 
 ## Integration Notes
 - Whey is rich in protein and minerals — feed to ducks, goats, or add to compost
-- [[lactic-acid-bacteria]] are central to all fermented dairy — same principles as EM and FPJ
-- Herbs from [[herbal-medicine]] and [[permaculture-plants-reference]] flavor fresh cheeses beautifully
-- See [[seasonal-planning]] for dairying schedules and [[food-preservation]] for storage methods
+- [[lactic-acid-bacteria-lab]] are central to all fermented dairy — same principles as EM and FPJ
+- Herbs from [[herbal-medicine]] and [[permaculture-useful-plants-reference]] flavor fresh cheeses beautifully
+- See [[seasonal-planning]] for dairying schedules and [[food-preservation-canning]] for storage methods

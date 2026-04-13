@@ -122,7 +122,7 @@ Urban permaculture prioritizes capturing and cycling water on-site:
 - Drip irrigation from harvested water
 - Permeable surfaces (gravel, permeable pavers) to reduce runoff
 
-See [[permaculture-water-management]] for detailed water strategies.
+See [[water-management]] for detailed water strategies.
 
 ## Urban Livestock
 
@@ -138,6 +138,6 @@ See [[permaculture-animal-integration]] for multi-species strategies.
 ## See Also
 
 - [[permaculture-ethics-and-principles]] — applying permaculture ethics in urban contexts
-- [[permaculture-water-management]] — urban water harvesting and greywater
+- [[water-management]] — urban water harvesting and greywater
 - [[permaculture-food-waste-cycling]] — composting and waste cycling in small spaces
 - [[permaculture-community-resilience]] — building resilient urban communities

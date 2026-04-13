@@ -22,7 +22,7 @@ sources:
 
 # Organic Herb Gardening
 
-Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting]] for herb-based companion planting strategies.
+Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based companion planting strategies.
 
 ## Herb Classification by Growth Habit
 
@@ -73,7 +73,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 - **Division** -- mint, chives, lemon balm, oregano: lift in spring, divide into sections, replant
 - **Cuttings** -- rosemary, sage, thyme, lavender: take softwood cuttings in summer, hardwood in autumn. Root in free-draining compost (50/50 compost/perlite). Use rooting hormone for woody cuttings
 - **Layering** -- rosemary, thyme, sage: bend a low stem to ground, peg down, cover with soil. Separate when rooted
-- **Seed** -- see [[seed-starting]] for detailed propagation methods
+- **Seed** -- see [[seed-starting-reference]] for detailed propagation methods
 
 ## Harvesting
 
@@ -91,7 +91,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 
 ## Herbs as Companion Plants
 
-Herbs are central to organic pest management. See [[companion-planting]] for full details:
+Herbs are central to organic pest management. See [[companion-planting-reference]] for full details:
 - **Basil** with tomatoes -- repels whitefly, improves flavour
 - **Rosemary, sage, thyme** with brassicas -- deter cabbage white butterfly
 - **Mint** near cabbage family -- deters flea beetles and cabbage moths
@@ -103,6 +103,6 @@ Herbs are central to organic pest management. See [[companion-planting]] for ful
 ## Links
 
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
-- [[companion-planting]] -- Herb-based pest deterrence and companion combinations
-- [[seed-starting]] -- Propagation methods
+- [[companion-planting-reference]] -- Herb-based pest deterrence and companion combinations
+- [[seed-starting-reference]] -- Propagation methods
 - [[seasonal-planning]] -- Monthly task calendar

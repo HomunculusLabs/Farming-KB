@@ -154,5 +154,5 @@ The U. maydis genome was sequenced in 2006, revealing a compact genome with rela
 ## Related
 
 - [[fungal-plant-diseases]]
-- [[fungal-biology-lifecycle]]
+- [[fungal-biology-fundamentals]]
 - [[plant-disease-identification]]

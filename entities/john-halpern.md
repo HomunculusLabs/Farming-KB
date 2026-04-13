@@ -46,7 +46,7 @@ Halpern's position at Harvard Medical School and McLean Hospital places him in t
 ## See Also
 
 - [[ralph-metzner]] — Colleague who cited Halpern's research on addiction treatment and religious ayahuasca use
-- [[richard-evans-schultes]] — Predecessor who documented the indigenous use of many of the plants Halpern studied
+- [[richard-evans-schultes-updated]] — Predecessor who documented the indigenous use of many of the plants Halpern studied
 - [[richard-gottlieb]] — Author of peyote and psychoactive cacti cultivation guides
 - [[psychoactive-cacti-guide]] — Cacti containing mescaline and other compounds
 - [[entheogen-culture]] — Sacred plant use in religious contexts

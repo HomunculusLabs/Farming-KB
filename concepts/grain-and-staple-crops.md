@@ -27,7 +27,7 @@ sources:
 
 # Grain and Staple Crops for the Homestead
 
-Growing grains on a homestead scale provides food security, animal feed, soil building, and [[cover-cropping]] benefits. While commercial grain production requires specialized equipment, home-scale growing is practical within [[regenerative-agriculture]] systems — many grains double as cover crops, and processing can be done with hand tools.
+Growing grains on a homestead scale provides food security, animal feed, soil building, and [[cover-cropping-guide]] benefits. While commercial grain production requires specialized equipment, home-scale growing is practical within [[regenerative-agriculture-history]] systems — many grains double as cover crops, and processing can be done with hand tools.
 
 ## Why Grow Grains
 
@@ -35,7 +35,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 - **Animal feed**: [[duck-keeping]] and [[goat-keeping]] benefit from homegrown grain as supplemental feed
 - **Soil building**: Massive root biomass and carbon contribution; straw is [[composting-systems]] material
 - **Crop rotation**: Breaks disease cycles; fits rotations with vegetables and legumes
-- **Carbon farming**: Extensive root systems sequester carbon — aligns with [[no-till-farming]] principles
+- **Carbon farming**: Extensive root systems sequester carbon — aligns with [[no-till-gardening-method]] principles
 
 ## Grain Selection for Zone 7-8
 
@@ -52,7 +52,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 #### Winter Rye (Secale cereale)
 - **Plant**: Sep 1–Oct 15; most cold-hardy fall grain
 - **Yield**: 30-50 bu/acre; 1 bu = 56 lbs
-- **Uses**: Rye bread, pumpernickel, whiskey, [[cover-cropping]], erosion control
+- **Uses**: Rye bread, pumpernickel, whiskey, [[cover-cropping-guide]], erosion control
 - **Advantages**: Most cold-tolerant; grows in poor soils; allelopathic (weed suppression); earliest spring growth
 
 #### Oats (Avena sativa)
@@ -74,7 +74,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 - **Types**: Dent/flint corn for grinding ('Floriani Red Flint', 'Bloody Butcher', 'Hopi Blue'), popcorn ('Japanese Hulless')
 - **Yield**: 50-150 bu/acre; 1 bu = 56 lbs shelled
 - **Harvest**: Sep–Oct; husks dry/papery; kernels hard
-- **Integration**: Cornstalks → [[duck-keeping]] bedding; ground corn → goat/duck feed; [[companion-planting]] Three Sisters (corn + beans + squash)
+- **Integration**: Cornstalks → [[duck-keeping]] bedding; ground corn → goat/duck feed; [[companion-planting-reference]] Three Sisters (corn + beans + squash)
 
 #### Sorghum (Sorghum bicolor)
 - **Plant**: Soil 65°F+ (mid-May–Jun); drought-tolerant, heat-loving
@@ -91,7 +91,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 #### Buckwheat (Fagopyrum esculentum)
 - **Plant**: Anytime after frost; succession every 3-4 weeks through Aug; 70-80 days
 - **Yield**: 800-1,500 lbs/acre
-- **Uses**: Kasha, soba noodles, pancakes; excellent [[cover-cropping]]; [[dynamic-accumulators]] — mines phosphorus
+- **Uses**: Kasha, soba noodles, pancakes; excellent [[cover-cropping-guide]]; [[dynamic-accumulators]] — mines phosphorus
 - **Note**: Not a true grain (related to rhubarb); gluten-free; dual-purpose
 
 ### Dry Legumes (Protein Staples)
@@ -100,11 +100,11 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 - **Plant**: After last frost; bush 3-6" apart, pole at trellis base
 - **Varieties**: 'Jacob's Cattle' (baking), 'Black Turtle' (soup), 'Cherokee Trail of Tears' (pole)
 - **Yield**: 5-15 lbs per 100 sq ft dry shelled
-- **Integration**: Fixes nitrogen — rotate with heavy-feeding grains; mostly self-pollinating (easy [[seed-saving]])
+- **Integration**: Fixes nitrogen — rotate with heavy-feeding grains; mostly self-pollinating (easy [[seed-saving-techniques]])
 
 #### Field Peas (Pisum sativum)
 - **Plant**: Fall: Sep–Oct; Spring: Mar; 'Austrian Winter Field Pea' fixes 70-100 lbs N/acre
-- **Yield**: 1,000-3,000 lbs/acre; split pea soup, pea flour, [[cover-cropping]]
+- **Yield**: 1,000-3,000 lbs/acre; split pea soup, pea flour, [[cover-cropping-guide]]
 
 #### Cowpeas / Black-eyed Peas (Vigna unguiculata)
 - **Plant**: Soil 65°F+ (mid-May–Jul); drought-tolerant; fixes 100-150 lbs N/acre
@@ -131,12 +131,12 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 
 ### Sample 4-Year Rotation
 1. **Year 1**: Winter wheat + red clover interseed → harvest wheat, clover continues
-2. **Year 2**: Clover (full year N fixation) → [[soil-food-web]] builds
+2. **Year 2**: Clover (full year N fixation) → [[soil-food-web-nutrient-cycling]] builds
 3. **Year 3**: Corn + beans (Three Sisters) → heavy feeders use clover-fixed N
 4. **Year 4**: Buckwheat (summer) → oats (fall) → light feeders, [[dynamic-accumulators]]
 
 ### Animal-Soil Loop
-Grain crop → harvest grain + straw → grain feeds [[duck-keeping]]/[[goat-keeping]] → manure + straw bedding → [[composting-systems]] → [[vermicompost]] → soil amendment → grain crop
+Grain crop → harvest grain + straw → grain feeds [[duck-keeping]]/[[goat-keeping]] → manure + straw bedding → [[composting-systems]] → [[vermicomposting]] → soil amendment → grain crop
 
 ## Yield Expectations (Hand-Managed)
 

@@ -165,6 +165,6 @@ For homesteaders who choose to own firearms:
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety]] — Broader safety principles and risk management
+- [[mushroom-foraging-safety-guide]] — Broader safety principles and risk management
 - [[goat-husbandry]] — Livestock guardian dogs as part of animal management
 - [[homestead-communication]] — Communication systems for security and emergency coordination

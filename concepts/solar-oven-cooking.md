@@ -154,7 +154,7 @@ that melts at 150F — indicates when water is safe.
 - **Learning curve** — cooking times vary with conditions; requires
   experimentation
 - **Complement, don't replace** — best used alongside other cooking methods;
-  see [[root-cellar-design-build]] and [[ice-house-and-spring-house]] for
+  see [[root-cellaring-guide]] and [[ice-house-and-spring-house]] for
   other off-grid food preservation approaches
 
 ## Off-Grid Integration

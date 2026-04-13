@@ -80,7 +80,7 @@ Legumes provide nectar and pollen, fix nitrogen, and serve as host plants for so
 | White clover (Trifolium repens) | May-Oct | 0.3 ft | Perennial, excellent ground cover, nitrogen fixer |
 | Crimson clover (Trifolium incarnatum) | Apr-Jun | 1-2 ft | Winter annual, excellent spring nectar source |
 | Sweet clover (Melilotus spp.) | Jun-Sep | 3-6 ft | Biennial, very attractive to bees, can be weedy |
-| Vetch (Vicia spp.) | Apr-Jun | 2-6 ft | Annual/perennial, nitrogen fixer, see [[cover-crops-guide]] |
+| Vetch (Vicia spp.) | Apr-Jun | 2-6 ft | Annual/perennial, nitrogen fixer, see [[cover-cropping-guide]] |
 
 ## Insectary Design Strategies
 
@@ -113,7 +113,7 @@ Mix insectary flowers directly within crop rows.
 
 ### Cover Crop Insectaries
 
-Use [[cover-crops-guide]] that double as insectary plantings.
+Use [[cover-cropping-guide]] that double as insectary plantings.
 
 - **Buckwheat**: Attracts hover flies, parasitic wasps, and bees. Flowers in 6 weeks from seed. Extremely effective summer insectary.
 - **Crimson clover**: Excellent spring nectar source for bees and parasitic wasps

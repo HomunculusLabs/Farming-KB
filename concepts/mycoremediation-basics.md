@@ -28,9 +28,9 @@ Fungi are among nature's most versatile organisms in structure, metabolism, ecol
 ## How It Works
 
 Mycelium secretes extracellular enzymes and acids that can break down:
-- **Petroleum hydrocarbons** — PAHs, diesel, motor oil, BTEX ([[mycoremediation-petroleum-hydrocarbons]])
+- **Petroleum hydrocarbons** — PAHs, diesel, motor oil, BTEX ([[mycoremediation-of-oil-spills]])
 - **PCBs and dioxins** — persistent organic pollutants ([[mycoremediation-pcbs-and-dioxins]])
-- **Heavy metals** — lead, mercury, cadmium, copper, zinc via biosorption ([[mycoremediation-heavy-metals]])
+- **Heavy metals** — lead, mercury, cadmium, copper, zinc via biosorption ([[mycoremediation-of-heavy-metals]])
 - **PAHs** — polycyclic aromatic hydrocarbons ([[mycoremediation-pahs]])
 - **Phenols and chlorophenols** — industrial wastewater contaminants
 - **Agricultural chemicals** — pesticides, herbicides, nitrates, phosphorus
@@ -89,7 +89,7 @@ Stamets and Battelle scientists identified a fungus that metabolized **dimethyl 
 - Aspergillus niger removed 91% copper and 70% zinc from swine effluent (Price et al. 2001)
 - Fungal biosorption uses living or dead biomass; cell wall components (chitin, glucans, proteins) bind metal ions via ion exchange, complexation, and adsorption
 - Mycorrhizal fungi protect host plants from metal toxicity while accumulating metals in their tissues
-- See [[mycoremediation-heavy-metals]] for detailed coverage
+- See [[mycoremediation-of-heavy-metals]] for detailed coverage
 
 ### PAH Degradation
 - White-rot fungi degrade PAHs via cytochrome P450 and ligninolytic enzymes
@@ -147,10 +147,10 @@ Fungi are known to degrade a wide variety of materials (Singh 2006):
 
 [[fungal-bioaugmentation-inoculation]]
 - [[mycorestoration-overview]] for the broader framework
-- [[fungal-ligninolytic-enzyme-systems]] for detailed enzyme mechanisms
+- [[fungal-enzyme-systems-bioremediation]] for detailed enzyme mechanisms
 - [[mycoremediation-techniques]] for specific deployment methods
-- [[mycoremediation-heavy-metals]] for heavy metal biosorption
-- [[mycoremediation-petroleum-hydrocarbons]] for petroleum cleanup
+- [[mycoremediation-of-heavy-metals]] for heavy metal biosorption
+- [[mycoremediation-of-oil-spills]] for petroleum cleanup
 - [[mycoremediation-pahs]] for PAH degradation
 - [[mycoremediation-pcbs-and-dioxins]] for PCB/dioxin degradation
 - [[mycelium-running-techniques]] for spawn preparation

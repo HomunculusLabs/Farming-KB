@@ -151,4 +151,4 @@ Pest-damaged plants are more susceptible to [[cannabis-disease-guide]] pathogens
 
 ## Related
 
-- [[cannabis-pest-and-disease-id]]
+- [[cannabis-pest-management]]

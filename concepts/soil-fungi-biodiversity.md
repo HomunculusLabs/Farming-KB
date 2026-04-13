@@ -88,7 +88,7 @@ Soil fungi show distinct vertical stratification:
 - **Grasslands**: High diversity of AM fungi and saprotrophs
 - **Agricultural soils**: Reduced diversity; dominated by fast-growing Ascomycetes
 - **Disturbed soils**: Shift toward r-selected species (fast-growing, generalist)
-- **No-till systems**: Higher fungal:bacterial ratios than tilled systems (see [[no-till-farming]])
+- **No-till systems**: Higher fungal:bacterial ratios than tilled systems (see [[no-till-gardening-method]])
 
 ### Seasonal and Temporal Dynamics
 - Fungal biomass and community composition fluctuate seasonally
@@ -179,10 +179,10 @@ Conservation priorities:
 ## Related Topics
 
 - [[fungal-biodiversity-biogeography]] — Global fungal diversity
-- [[soil-food-web]] — Soil ecosystem processes
+- [[soil-food-web-nutrient-cycling]] — Soil ecosystem processes
 - [[mycorrhizal-types]] — Mycorrhizal associations
 - [[fungal-ecology]] — Fungal ecology overview
 - [[fungi-soil-food-webs]] — Fungal roles in soil food webs
-- [[no-till-farming]] — Impact of tillage on soil fungi
+- [[no-till-gardening-method]] — Impact of tillage on soil fungi
 - [[glomalin]] — Mycorrhizal soil glue
 - [[fungal-sampling-methods]] — Field methods

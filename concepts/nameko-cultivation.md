@@ -169,4 +169,4 @@ The gelatinous coating is the defining culinary characteristic:
 - [[shimeji-cultivation]] for bunashimeji, a companion species in Japanese markets
 - [[shiitake-cultivation-guide]] for sawdust block cultivation methods
 - [[mushroom-substrates]]
-- [[mushroom-growing-room-design]]
+- [[mushroom-grow-room-design]]

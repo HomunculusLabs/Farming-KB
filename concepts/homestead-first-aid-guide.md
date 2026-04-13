@@ -121,7 +121,7 @@ On a homestead, you may be farther from help. Err on the side of calling:
 
 ## Preparedness Context
 
-A well-stocked first aid kit is one pillar of overall [[homestead-emergency-preparedness]]. Pair your medical supplies with training and a clear communication plan. For tools and environments where injuries commonly occur, see [[homestead-workshop-tools]] for safety equipment recommendations.
+A well-stocked first aid kit is one pillar of overall [[emergency-preparedness]]. Pair your medical supplies with training and a clear communication plan. For tools and environments where injuries commonly occur, see [[homestead-workshop-tools]] for safety equipment recommendations.
 - Hypothermia (shivering stops, confusion, drowsiness)
 
 ## Training Recommendations

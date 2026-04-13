@@ -16,7 +16,7 @@ sources:
 
 From traditional agriculture through the chemical revolution
 to the organic, natural farming, and regenerative movements.
-See [[regenerative-agriculture]], [[natural-farming-vs-organic-vs-conventional]],
+See [[regenerative-agriculture-history]], [[natural-farming-vs-organic-vs-conventional]],
 and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
 
 ## Traditional and Pre-Industrial Agriculture (to 1840)
@@ -189,11 +189,11 @@ The evolution from organic certification to the regenerative agriculture movemen
 
 ## Related Pages
 
-- [[regenerative-agriculture]] — modern regenerative synthesis
+- [[regenerative-agriculture-history]] — modern regenerative synthesis
 - [[natural-farming-fukuoka]] — Fukuoka's do-nothing farming philosophy
 - [[natural-farming-vs-organic-vs-conventional]] — three-way paradigm comparison
 - [[conventional-vs-organic-vs-regenerative]] — detailed paradigm comparison
 - [[knf-preparations]] — KNF input catalog with recipes
 - [[jadam-methods]] — ultra-low-cost organic farming methods
-- [[soil-food-web]] — biological foundation of organic/regenerative practices
+- [[soil-food-web-nutrient-cycling]] — biological foundation of organic/regenerative practices
 - [[compost-tea-aact]] — actively aerated compost tea for soil biology

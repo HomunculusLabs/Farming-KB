@@ -72,4 +72,4 @@ Water plays multiple critical roles in fungal biology beyond aquatic species:
 - Is indispensable for drop-driven spore catapults (Buller's drop)
 - Creates the humidity required for fruiting body development
 
-See also [[fungal-biology-lifecycle]], [[fungal-spore-biology]], [[saprotrophic-fungi]], [[fungi-soil-food-webs]]
+See also [[fungal-biology-fundamentals]], [[fungal-spore-biology]], [[saprotrophic-fungi]], [[fungi-soil-food-webs]]

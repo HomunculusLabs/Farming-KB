@@ -24,7 +24,7 @@ sources:
 
 # Dynamic Accumulators
 
-Dynamic accumulators are plants that concentrate specific nutrients in their tissues at higher levels than most other plants. They can be grown as [[cover-cropping]] or green manure, then composted or mulched to cycle those nutrients back to crops. Some are "hyperaccumulators" that pull minerals from deep subsoil layers.
+Dynamic accumulators are plants that concentrate specific nutrients in their tissues at higher levels than most other plants. They can be grown as [[cover-cropping-guide]] or green manure, then composted or mulched to cycle those nutrients back to crops. Some are "hyperaccumulators" that pull minerals from deep subsoil layers.
 
 ## The Science Behind Accumulation
 
@@ -121,7 +121,7 @@ Buckwheat, mustard, and alfalfa not only absorb phosphorus but exhibit "subseque
 - Grow accumulators as understory plants or border plants
 - Periodically cut and drop as surface mulch
 - Nutrients release slowly as material decomposes
-- Works perfectly in [[no-till-farming]] systems
+- Works perfectly in [[no-till-gardening-method]] systems
 
 ### 5. Fermented Plant Extract
 - Use accumulator plants as FPJ/FPE material in KNF
@@ -132,9 +132,9 @@ Buckwheat, mustard, and alfalfa not only absorb phosphorus but exhibit "subseque
 ## See Also
 
 - [[fermented-plant-extract-fpe]] — making FPJ from accumulator plants
-- [[cover-cropping]] — accumulator plants as cover crops
+- [[cover-cropping-guide]] — accumulator plants as cover crops
 - [[knf-preparations]] — KNF inputs using accumulator plants
-- [[companion-planting]] — accumulators in polyculture design
-- [[soil-food-web]] — how organic matter feeds soil biology
+- [[companion-planting-reference]] — accumulators in polyculture design
+- [[soil-food-web-nutrient-cycling]] — how organic matter feeds soil biology
 - [[nutrient-dense-gardening]] — complete mineral approach
 - [[soil-fertility-management]] — overall fertility management

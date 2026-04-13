@@ -168,10 +168,10 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 
 ## See Also
 
-- [[fungal-biology-lifecycle]] for how evolutionary innovations manifest in the life cycle
+- [[fungal-biology-fundamentals]] for how evolutionary innovations manifest in the life cycle
 - [[fungal-ecology]] for the ecological context of fungal evolution
 - [[fungal-biodiversity]] for the diversity produced by evolutionary processes
-- [[fungal-symbiosis-with-plants]] for co-evolution with plants in detail
+- [[fungal-symbiosis-types]] for co-evolution with plants in detail
 - [[mycorrhizal-fungi]] for the most ancient and widespread plant-fungal symbiosis
 
 ## Related

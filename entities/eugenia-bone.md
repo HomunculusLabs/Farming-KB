@@ -25,9 +25,9 @@ Bone's "Mycophilia" arrived at a moment of growing public interest in fungi, hel
 ## Topics Covered in Mycophilia
 
 - **Mushroom subculture**: The community of foragers, cultivators, and enthusiasts
-- **Mycorrhizal networks**: How fungi connect forest trees through underground networks (see [[soil-food-web]])
+- **Mycorrhizal networks**: How fungi connect forest trees through underground networks (see [[soil-food-web-nutrient-cycling]])
 - **Commercial cultivation**: The gourmet mushroom industry from button mushrooms to exotics
-- **Foraging**: The culture and practice of wild mushroom hunting (see [[edible-wild-mushrooms-of-north-america]])
+- **Foraging**: The culture and practice of wild mushroom hunting (see [[edible-wild-mushrooms-by-region]])
 - **Fungal ecology**: Decomposition, nutrient cycling, and ecosystem roles
 - **Mycophobia vs mycophilia**: Cultural attitudes toward mushrooms across societies
 - **Medicinal mushrooms**: Health applications and scientific evidence
@@ -38,10 +38,10 @@ Bone's work helps bridge the gap between academic mycology and public understand
 
 ## See Also
 
-- [[edible-wild-mushrooms-of-north-america]] — North American foraging
+- [[edible-wild-mushrooms-by-region]] — North American foraging
 - [[nicholas-money]] — Mr. Bloomfield's Orchard author
 - [[paul-stamets]] — mycological popularizer and activist
 - [[mushroom-poisoning-guide]] — foraging safety
 - [[mycorrhizal-fungi]] — fungal networks Bone discusses
-- [[soil-food-web]] — fungal roles in nutrient cycling
+- [[soil-food-web-nutrient-cycling]] — fungal roles in nutrient cycling
 - [[mycoremediation-basics]] — bioremediation applications

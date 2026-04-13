@@ -64,7 +64,7 @@ When planning rotations, avoid consecutive non-host crops to prevent mycorrhizal
 
 ### Companion Planting
 
-Non-mycorrhizal plants won't benefit from mycorrhizal inoculation. They can be planted in areas where mycorrhizal populations are low without disadvantage. See [[companion-planting]] and [[companion-planting-master-table]] for compatibility data.
+Non-mycorrhizal plants won't benefit from mycorrhizal inoculation. They can be planted in areas where mycorrhizal populations are low without disadvantage. See [[companion-planting-reference]] and [[companion-planting-reference]] for compatibility data.
 
 ### Weed Management
 
@@ -89,6 +89,6 @@ Some sedges and rushes in Western Australia have roots that literally bind sand 
 - [[mycorrhizal-fungi]] — Overview of mycorrhizal types and benefits
 - [[mycorrhizal-agricultural-practices]] — Managing mycorrhizae in farming systems
 - [[mycorrhizal-types]] — Detailed descriptions of mycorrhizal categories
-- [[companion-planting]] — Companion planting guide
-- [[cover-cropping]] — Cover crop selection for mycorrhizal health
-- [[soil-food-web]] — The soil ecosystem context
+- [[companion-planting-reference]] — Companion planting guide
+- [[cover-cropping-guide]] — Cover crop selection for mycorrhizal health
+- [[soil-food-web-nutrient-cycling]] — The soil ecosystem context

@@ -161,7 +161,7 @@ Use a PAR meter if available to measure PPFD at the canopy level. If you don't h
 
 - [[cannabis-topping-training]] — Training techniques to optimize light absorption
 - [[cannabis-vegetative-stage]] — Lighting requirements during veg
-- [[cannabis-indoor-living-soil]] — Integrating lighting with a living soil grow
+- [[cannabis-living-soil-guide]] — Integrating lighting with a living soil grow
 - [[cannabis-flowering-stage]] — Lighting adjustments for the flowering phase
 
 ## Related

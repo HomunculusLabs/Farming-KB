@@ -24,7 +24,7 @@ sources:
 
 # Permaculture Plant Catalog
 
-Reference table of plants organised by function. Sourced primarily from "Permaculture Plants: A Selection" with additions from Mollison's Designer's Manual. See [[permaculture-plant-catalog]] companion pages: [[dynamic-accumulators]], [[cover-cropping]], [[food-forest-layers-and-species]], [[companion-planting]].
+Reference table of plants organised by function. Sourced primarily from "Permaculture Plants: A Selection" with additions from Mollison's Designer's Manual. See [[permaculture-plant-catalog]] companion pages: [[dynamic-accumulators]], [[cover-cropping-guide]], [[food-forest-layers-and-species]], [[companion-planting-reference]].
 
 ## Nitrogen Fixers (Trees)
 
@@ -103,8 +103,8 @@ Key species for fire-prone areas: carob, black locust, English oak, holm oak, co
 
 ## Related Pages
 - [[dynamic-accumulators]] -- Detailed accumulator profiles by nutrient
-- [[cover-cropping]] -- Cover crop selection and management
+- [[cover-cropping-guide]] -- Cover crop selection and management
 - [[food-forest-layers-and-species]] -- Species by forest layer
-- [[companion-planting]] -- Plant partnerships and antagonisms
-- [[permaculture-plants-reference]] -- General permaculture plant reference
+- [[companion-planting-reference]] -- Plant partnerships and antagonisms
+- [[permaculture-useful-plants-reference]] -- General permaculture plant reference
 - [[pollinator-habitat]] -- Bloom calendar and nesting habitat

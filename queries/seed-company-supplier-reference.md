@@ -38,7 +38,7 @@ Compiled from all wiki source texts. Lists seed companies, mushroom spawn suppli
 
 | Company | Specialty | Notable Varieties / Notes | Region | Source |
 |---------|-----------|--------------------------|--------|--------|
-| **Johnny's Selected Seeds** | Vegetables, herbs, flowers, tools | Extensive trial data; seed-starting supplies; reliable germination; sell trays, heat mats, grow lights | Maine, USA | [[seed-starting]], [[seasonal-planning]], [[homestead-startup-checklist]] |
+| **Johnny's Selected Seeds** | Vegetables, herbs, flowers, tools | Extensive trial data; seed-starting supplies; reliable germination; sell trays, heat mats, grow lights | Maine, USA | [[seed-starting-reference]], [[seasonal-planning]], [[homestead-startup-checklist]] |
 | **Territorial Seed Company** | Vegetables, herbs, PNW-adapted varieties | Founded 1979 by [[steve-solomon]]; varieties adapted to Pacific Northwest conditions | Oregon, USA | [[steve-solomon]], [[seasonal-planning]] |
 | **Baker Creek Heirloom Seeds** | Heirloom vegetables, herbs, flowers | Largest heirloom/rare variety selection; beautiful seed catalog | Missouri, USA | [[seasonal-planning]], [[homestead-startup-checklist]] |
 | **High Mowing Organic Seeds** | 100% certified organic seeds | Vegetables, herbs, flowers; all organic; strong germination rates | Vermont, USA | [[seasonal-planning]], [[homestead-startup-checklist]] |
@@ -72,8 +72,8 @@ No specific cannabis seed banks are mentioned in wiki source texts. For cannabis
 
 | Company | Specialty | Notable Products / Notes | Source |
 |---------|-----------|--------------------------|--------|
-| **Think Grow** | LED grow lighting | Think Grow Model H Plus — 4-channel programmable LED fixture; see [[think-grow-model-h-plus]] | [[cannabis-light-spectrums]], [[cannabis-vegetative-stage]] |
-| **Amazon** | General supplies | Seed trays, heat mats, LED shop lights, timers, fans; budget source for startup | [[seed-starting]] |
+| **Think Grow** | LED grow lighting | Think Grow Model H Plus — 4-channel programmable LED fixture; see [[think-grow-model-h-plus]] | [[cannabis-lighting-guide]], [[cannabis-vegetative-stage]] |
+| **Amazon** | General supplies | Seed trays, heat mats, LED shop lights, timers, fans; budget source for startup | [[seed-starting-reference]] |
 | **Soil Food Web Inc.** | Soil biology testing and consulting | Founded by [[elaine-ingham]]; soil microbiome assessment for farmers | [[elaine-ingham]] |
 
 ## Equipment Category Summary
@@ -98,7 +98,7 @@ No specific cannabis seed banks are mentioned in wiki source texts. For cannabis
 
 ## Sourcing Notes
 
-- For [[seed-saving]], produce your own seed stock — eliminates annual costs and develops locally adapted varieties
+- For [[seed-saving-techniques]], produce your own seed stock — eliminates annual costs and develops locally adapted varieties
 - Order seeds December-January for early bird discounts from Johnny's, High Mowing, Territorial, Baker Creek, Southern Exposure
 - For mushroom cultivation, start with oyster grow kits from Fungi Perfecti or North Spore — lowest barrier to entry
 - Source wood chips from sawmills, not roadsides — automobile exhaust contaminates with lead/aluminum
@@ -106,8 +106,8 @@ No specific cannabis seed banks are mentioned in wiki source texts. For cannabis
 
 ## See Also
 
-- [[seed-starting]] — comprehensive indoor and direct sow guide with equipment costs
-- [[seed-saving]] — producing and storing your own seeds
+- [[seed-starting-reference]] — comprehensive indoor and direct sow guide with equipment costs
+- [[seed-saving-techniques]] — producing and storing your own seeds
 - [[seasonal-planning]] — monthly calendar with ordering timelines
 - [[homestead-startup-checklist]] — full startup equipment and supply checklist
 - [[mushroom-species-guide]] — cultivation parameters for home-grown mushrooms

@@ -24,7 +24,7 @@ sources:
 
 # Mushroom Spore Printing and Storage
 
-Spore collection is the foundation of mushroom cultivation — every grow begins with spores. Techniques range from simple field prints for identification to sterile lab methods for long-term cultivation stock. See [[mushroom-identification]] for spore print colors as an ID feature, and [[fungal-biology-lifecycle]] for the role of spores in the fungal life cycle.
+Spore collection is the foundation of mushroom cultivation — every grow begins with spores. Techniques range from simple field prints for identification to sterile lab methods for long-term cultivation stock. See [[mushroom-identification]] for spore print colors as an ID feature, and [[fungal-biology-fundamentals]] for the role of spores in the fungal life cycle.
 
 ## Spore Print Technique
 
@@ -100,7 +100,7 @@ Dehydrated spores germinate poorly. Soaking improves viability:
 4. Alternatively, scrape spores above an opened petri dish and let them free-fall onto medium
 5. Incubate at species-appropriate temperature; germination visible in 3–7 days as grayish thread-like strands becoming whitish (Stamets)
 
-See [[mushroom-sterile-technique]] for full agar work procedures.
+See [[mushroom-sterile-technique-detailed]] for full agar work procedures.
 
 ## Long-Term Spore Storage
 

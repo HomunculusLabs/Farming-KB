@@ -60,7 +60,7 @@ For [[duck-keeping]] and [[goat-keeping]] manure, a hot pile or enclosed bin is 
 
 ### Integration with Garden Beds
 
-**Sheet composting** and **trench composting** are the most garden-integrated systems. Sheet composting (lasagna gardening) builds beds in place by layering browns and greens directly on the site — no turning, no transport. Trench composting digs waste into rows where crops will grow, decomposing in place and fertilizing the next crop. Both are excellent [[no-till-farming]] strategies.
+**Sheet composting** and **trench composting** are the most garden-integrated systems. Sheet composting (lasagna gardening) builds beds in place by layering browns and greens directly on the site — no turning, no transport. Trench composting digs waste into rows where crops will grow, decomposing in place and fertilizing the next crop. Both are excellent [[no-till-gardening-method]] strategies.
 
 ### Multi-Bin Strategy
 
@@ -91,7 +91,7 @@ For homesteaders who want the simplest possible approach, cold/slow composting r
 
 ## Verdict
 
-Don't use just one system — use the right tool for each waste stream. A **hot open pile or 3-bin pallet system** handles bulk manure and yard waste with pathogen kill. A **kitchen bokashi bin** pre-processes all food waste including meat and dairy. A **vermicompost bin** under the sink or in the garage produces castings for seed starting and [[cannabis-indoor-living-soil]]. **Sheet composting** builds new garden beds from scratch. For maximum simplicity on a small property, a **tumbler** handles moderate volumes with minimal effort.
+Don't use just one system — use the right tool for each waste stream. A **hot open pile or 3-bin pallet system** handles bulk manure and yard waste with pathogen kill. A **kitchen bokashi bin** pre-processes all food waste including meat and dairy. A **vermicompost bin** under the sink or in the garage produces castings for seed starting and [[cannabis-living-soil-guide]]. **Sheet composting** builds new garden beds from scratch. For maximum simplicity on a small property, a **tumbler** handles moderate volumes with minimal effort.
 
 ## Scaling Tips
 
@@ -104,9 +104,9 @@ Don't use just one system — use the right tool for each waste stream. A **hot 
 
 - [[hot-composting-vs-vermicompost-vs-bokashi]] — Biological method comparison
 - [[composting-systems]] — Full composting methods and troubleshooting
-- [[vermicompost]] — Worm bin setup and management
+- [[vermicomposting]] — Worm bin setup and management
 - [[bokashi]] — Kitchen fermentation system
-- [[no-till-farming]] — Composting as a no-till foundation
+- [[no-till-gardening-method]] — Composting as a no-till foundation
 - [[cover-cropping-guide]] — Cover crop residue as compost input
-- [[soil-food-web]] — The biology these methods support
+- [[soil-food-web-nutrient-cycling]] — The biology these methods support
 - [[permaculture-design]] — Integrating composting into whole-system design

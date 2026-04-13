@@ -166,5 +166,5 @@ Fungi are among the first organisms to colonize bare rock surfaces:
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral transformations
 - [[endophytic-fungi]] -- fungi inside plant tissues
 - [[lichens]] -- fungal-algal symbioses
-- [[mycoremediation-heavy-metals]] -- fungal metal bioremediation
+- [[mycoremediation-of-heavy-metals]] -- fungal metal bioremediation
 - [[geoffrey-gadd]] -- geomycology and extremophile research

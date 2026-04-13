@@ -115,4 +115,4 @@ Key points:
 - [[hugelkultur-guide]] for mound-based growing with built-in organic matter
 - [[composting-methods-comparison]] for converting mulch materials into finished compost
 - [[soil-amendment-reference]] for mineral additions beneath mulch
-- [[no-till-farming]] for mulch-based growing systems
+- [[no-till-gardening-method]] for mulch-based growing systems

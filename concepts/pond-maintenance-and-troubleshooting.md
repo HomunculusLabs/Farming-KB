@@ -143,7 +143,7 @@ A pond is the connective tissue of a regenerative homestead:
 - **Fire protection**: Pond provides emergency water source for firefighting. Position near structures and garden.
 - **Microclimate**: Water moderates temperature — cooler in summer, warmer in winter within 50-100 ft radius. Extends growing season for nearby [[food-forest-design]] plantings.
 - **Duck forage**: Pond supports ducks year-round with aquatic plants, insects, and snails. See [[duck-keeping]].
-- **Irrigation relay**: Pond overflow → swales → [[cover-cropping]] fields → [[water-management]] storage. No water leaves the property.
+- **Irrigation relay**: Pond overflow → swales → [[cover-cropping-guide]] fields → [[water-management]] storage. No water leaves the property.
 - **Goat/duck watering**: Gravity-fed troughs from pond reduce well dependence. See [[goat-keeping]].
 - **Pest management**: Frog populations from pond provide natural pest control in gardens. Reference [[cannabis-pest-management]].
 

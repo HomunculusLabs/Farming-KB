@@ -108,7 +108,7 @@ Proper ventilation is the most critical and most overlooked aspect of barn desig
 
 - Minimum: lights in every area, outlets for tools, heated water
 - Additional: milk room refrigeration, fans, water heaters
-- Consider solar panels for off-grid barns (see [[homestead-renewable-energy]])
+- Consider solar panels for off-grid barns (see [[homestead-energy-conservation]])
 - GFCI outlets in wet areas
 - Conduit wiring (rodent-proof)
 

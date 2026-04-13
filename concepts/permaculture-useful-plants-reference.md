@@ -123,6 +123,6 @@ Catalog of multi-functional perennial plants for permaculture design, extracted 
 - [[urban-guerrilla-gardening]] — Urban application of these plants
 - [[water-catchment-urban-permaculture]] — Water systems for plant establishment
 - [[dynamic-accumulators]] — Plants that mine minerals from deep soil
-- [[cover-cropping]] — Soil-building annual and perennial covers
+- [[cover-cropping-guide]] — Soil-building annual and perennial covers
 
 - [[forest-garden-layers]]

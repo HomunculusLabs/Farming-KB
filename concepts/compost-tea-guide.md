@@ -24,7 +24,7 @@ sources:
 
 # Compost Tea Guide — Complete AACT Manual
 
-Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
+Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with food resources and actively aerated to multiply beneficial microorganisms. Developed by Dr. Elaine Ingham, AACT delivers the full [[soil-food-web-nutrient-cycling]] — bacteria, fungi, protozoa, and nematodes — to soil and foliage. It is NOT anaerobic tea, leachate, or manure tea. True compost contains no human pathogens; AACT brewed aerobically maintains that safety.
 
 ## Equipment
 
@@ -84,7 +84,7 @@ Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with f
 - **Orchard/trees**: 20 gal/acre, spring and fall; 5 gal/acre monthly in growing season
 - **Indoor beds**: 1-2 cups per sq ft, monthly
 - **Turf**: 15-20 gal/acre, spring and fall
-- Apply to [[no-till-farming]] beds during regular watering
+- Apply to [[no-till-gardening-method]] beds during regular watering
 - Timing: at first true leaf, flower bud, post-seed-set
 
 ### Foliar Spray
@@ -103,7 +103,7 @@ Actively Aerated Compost Tea (AACT) is a water extract of compost, brewed with f
 ### Cannabis Living Soil
 - Bacterial tea in veg (molasses + fish hydrolysate), fungal tea in flower (kelp + humic acid)
 - 1-2 cups per sq ft, every 1-2 weeks
-- See [[cannabis-indoor-living-soil]] for integration with living soil beds
+- See [[cannabis-living-soil-guide]] for integration with living soil beds
 
 ## Testing and Microscope ID
 
@@ -159,9 +159,9 @@ Ingham recommends microscope assessment at 400x magnification:
 ## See Also
 
 - [[composting-systems]] — compost production as AACT ingredient source
-- [[soil-food-web]] — the organisms AACT delivers
-- [[cannabis-indoor-living-soil]] — AACT in living soil cannabis cultivation
-- [[vermicomposting-detail]] — worm castings as premium AACT ingredient
+- [[soil-food-web-nutrient-cycling]] — the organisms AACT delivers
+- [[cannabis-living-soil-guide]] — AACT in living soil cannabis cultivation
+- [[vermicomposting]] — worm castings as premium AACT ingredient
 - [[mycorrhizal-fungi]] — add spores at application time
 - [[compost-tea-aact]] — concise AACT summary
 - [[elaine-ingham]] — AACT methodology developer

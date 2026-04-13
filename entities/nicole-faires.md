@@ -75,7 +75,7 @@ Faires' work bridges several areas covered in this wiki:
 - [[homesteading]] — overall homesteading practice
 - [[permaculture-design]] — zone and element planning
 - [[food-forest-design]] — integrating perennial food systems
-- [[seed-saving]] — self-reliant seed production
+- [[seed-saving-techniques]] — self-reliant seed production
 - [[gaia-garden-plant-guilds]] — companion planting and polyculture
 
 ## See Also

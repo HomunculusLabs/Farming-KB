@@ -127,5 +127,5 @@ Livestock suffer severely during heat waves because they cannot escape condition
 ## Related
 
 - [[winter-storm-preparedness]]
-- [[homestead-emergency-preparedness]]
+- [[emergency-preparedness]]
 - [[livestock-feed-formulation]]

@@ -48,11 +48,11 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 - **Perennials**: Plant bare-root fruit trees, berries, asparagus crowns, rhubarb.
 - **Cannabis**: Start cannabis seeds indoors under lights. See [[cannabis-vegetative-stage]].
 - **Animals**: Begin spring pasture prep. Order spring chicks/ducklings.
-- **Compost**: [[vermicompost]] bins — check worm activity, add bedding if needed.
+- **Compost**: [[vermicomposting]] bins — check worm activity, add bedding if needed.
 
 ### March
 - **Seeds**: Start tomatoes, brassicas indoors (6-8 weeks). Direct sow: peas, spinach, radishes, carrots, beets, turnips, potatoes (St. Patrick's Day tradition).
-- **[[cover-cropping]]**: Crimson clover and Austrian winter pea planted in fall should be knee-high. Terminate (crimp or mow) 2-3 weeks before planting.
+- **[[cover-cropping-guide]]**: Crimson clover and Austrian winter pea planted in fall should be knee-high. Terminate (crimp or mow) 2-3 weeks before planting.
 - **Greenhouse**: Begin transplanting cold-hardy crops into tunnels. See [[greenhouse-design]].
 - **Animals**: Ducks — increase forage access as pasture greens up. Goats — reduce hay as browse becomes available. Watch for kidding season.
 - **Soil**: Take soil samples. Apply lime if needed (takes months to act). [[soil-fertility-management]] amendments.
@@ -87,30 +87,30 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 - **Heat management**: Shade cloth on greenhouse. Water deeply, early morning.
 - **Cannabis**: Early flowering. Support heavy branches. Begin nutrient shift. See [[cannabis-flowering-stage]].
 - **Animals**: Peak parasite pressure — pasture rotation critical. Ensure shade and dust bathing areas.
-- **Preserving**: Peak preservation season begins. See [[food-preservation]].
+- **Preserving**: Peak preservation season begins. See [[food-preservation-canning]].
 
 ### August
 - **Fall planting**: Transplant fall brassicas, start direct sowing spinach, radishes, turnips, kale.
-- **[[cover-cropping]]**: Sow buckwheat (quick summer cover) on empty beds. Sow oats + crimson clover for winter cover.
+- **[[cover-cropping-guide]]**: Sow buckwheat (quick summer cover) on empty beds. Sow oats + crimson clover for winter cover.
 - **Cannabis**: Mid-flower. Flush if near harvest. Monitor trichomes.
 - **Animals**: Begin evaluating who to cull/replace before winter feed costs. Order winter hay.
 - **Preserving**: Canning tomatoes, pickling cucumbers, freezing beans, drying herbs.
-- **Seeds**: Begin [[seed-saving]] — let best plants go to seed. Tag and label.
+- **Seeds**: Begin [[seed-saving-techniques]] — let best plants go to seed. Tag and label.
 
 ### September
 - **Harvest**: Peak harvest of summer crops. Winter squash cure (80°F, 75% humidity, 10-14 days).
 - **Fall greens**: Transplant lettuce, spinach, Asian greens into beds and [[greenhouse-design]] tunnels.
-- **Cannabis**: Harvest window (trichomes milky-amber). Dry and cure. See [[cannabis-harvesting-and-curing]].
+- **Cannabis**: Harvest window (trichomes milky-amber). Dry and cure. See [[cannabis-harvest-and-curing]].
 - **Animals**: Final pasture rotation before dormancy. Winterize housing. Bedding prep.
 - **Compost**: Build winter piles. Last turning of hot compost before cold weather.
 - **Perennials**: Plant garlic cloves (mid-October target but prep now). Divide perennials.
 
 ### October
 - **Planting**: Plant garlic, shallots, flower bulbs. Transplant final fall greens.
-- **[[cover-cropping]]**: Final window for winter covers — winter rye, hairy vetch, crimson clover.
+- **[[cover-cropping-guide]]**: Final window for winter covers — winter rye, hairy vetch, crimson clover.
 - **Cannabis**: Curing in progress. Clean and sanitize grow space. Start next cycle prep.
 - **Animals**: Full winter prep — draft-free housing, heated waterers, hay storage. Goats — breeding season.
-- **Preserving**: Root cellaring, final canning, fermenting. See [[food-preservation]].
+- **Preserving**: Root cellaring, final canning, fermenting. See [[food-preservation-canning]].
 - **Soil**: Spread finished compost and leaves on beds. Sheet mulch new areas.
 
 ### November
@@ -123,9 +123,9 @@ A comprehensive monthly calendar integrating annual vegetables, perennials, cann
 
 ### December
 - **Rest**: Light garden work — tool cleaning, inventory, repair.
-- **Seed orders**: Early bird discounts from Johnny's, High Mowing, Territorial, Baker Creek. See [[seed-saving]].
+- **Seed orders**: Early bird discounts from Johnny's, High Mowing, Territorial, Baker Creek. See [[seed-saving-techniques]].
 - **Animals**: Routine care. Monitor in extreme cold. Goats — early kidding prep.
-- **Compost**: [[vermicompost]] — minimal feeding, keep bins from freezing.
+- **Compost**: [[vermicomposting]] — minimal feeding, keep bins from freezing.
 - **Learning**: Read, plan, take courses. Review and update [[homesteading-infrastructure]] plans.
 
 ## Seasonal Flow Overview
@@ -180,7 +180,7 @@ With a simple low tunnel or cold frame, these crops survive to 15-20°F air temp
 - **March-April**: Last-minute fill-ins. Succession crop seeds.
 - **August-September**: Order fall cover crop seed, garlic for fall planting, fall transplants.
 
-Cross-reference with [[seed-saving]] — grow open-pollinated varieties you intend to save seed from.
+Cross-reference with [[seed-saving-techniques]] — grow open-pollinated varieties you intend to save seed from.
 
 ## Related
 

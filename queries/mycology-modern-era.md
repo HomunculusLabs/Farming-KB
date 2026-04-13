@@ -53,7 +53,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
   [[timothy-leary]], [[ralph-metzner]], and Richard Alpert
   conducted experiments at Harvard using psilocybin and LSD on volunteers.
   Dismissed in 1963 after publicity.
-  See [[psychedelic-therapy-history]].
+  See [[psychedelic-therapy-current-research]].
 
 - **1969 — Whittaker's five-kingdom system:**
   Robert Whittaker proposes the five-kingdom classification
@@ -81,7 +81,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
 - **1983 — Gaston Guzman:**
   Mexican mycologist published The Genus Psilocybe monograph,
   the definitive taxonomic treatment of psychoactive mushrooms.
-  See [[gaston-guzman]] and [[psilocybin-mushroom-distribution]].
+  See [[gaston-guzman]] and [[psilocybin-mushroom-chemistry]].
 
 ## 21st Century Frontiers
 
@@ -90,9 +90,9 @@ The modern era of mycology — from genomics and DNA phylogenetics through mycor
 ## Related Pages
 
 - [[history-of-mycology-timeline]] — ancient through early 20th century mycology
-- [[history-of-mycology]] — existing concept page with additional detail
+- [[history-of-mycology-timeline]] — existing concept page with additional detail
 - [[fungal-evolution]] — phylogeny, fossil record, and molecular dating
 - [[psychedelic-mushroom-history]] — parallel timeline of psychoactive fungi
 - [[historical-mushroom-cultivation]] — cultivation-focused history
-- [[fungal-biology-lifecycle]] — modern understanding of fungal life cycles
+- [[fungal-biology-fundamentals]] — modern understanding of fungal life cycles
 - [[fungal-ecology]] — fungi as keystone ecosystem engineers

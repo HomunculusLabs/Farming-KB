@@ -26,7 +26,7 @@ sources:
 
 # Mushroom Composting and Recycling
 
-Spent mushroom substrate (SMS) is the material remaining after mushroom fruiting is complete. Far from being waste, SMS is a valuable resource for soil building, composting, vermicomposting, and even animal feed. Integrating mushroom cultivation into a [[regenerative-agriculture]] system closes the nutrient loop and maximizes the return on substrate inputs.
+Spent mushroom substrate (SMS) is the material remaining after mushroom fruiting is complete. Far from being waste, SMS is a valuable resource for soil building, composting, vermicomposting, and even animal feed. Integrating mushroom cultivation into a [[regenerative-agriculture-history]] system closes the nutrient loop and maximizes the return on substrate inputs.
 
 ## What Is Spent Mushroom Substrate?
 
@@ -44,11 +44,11 @@ SMS is an excellent soil conditioner. Studies from Puerto Rico showed Pleurotus 
 **Application on the homestead:**
 - Directly incorporate into [[composting-systems]] as a nitrogen-rich green input
 - Age SMS outdoors under plastic cover for 4–8 weeks before field application to allow any remaining competitive fungi to die off
-- Blend into living soil beds as an amendment — the residual mycelium feeds the [[soil-food-web]]
+- Blend into living soil beds as an amendment — the residual mycelium feeds the [[soil-food-web-nutrient-cycling]]
 - Use as a mulch layer (2–3 inches) around garden plants
 
 ### 2. Vermicomposting
-Spent substrate is ideal food for earthworms. In integrated zero-emissions systems (as described in Fungi Magazine), SMS is fed to earthworms that produce vermicastings — one of the finest soil amendments available. This is a two-stage bioconversion: fungi break down lignocellulose → earthworms refine the product. See [[vermicompost]] for vermicomposting methods.
+Spent substrate is ideal food for earthworms. In integrated zero-emissions systems (as described in Fungi Magazine), SMS is fed to earthworms that produce vermicastings — one of the finest soil amendments available. This is a two-stage bioconversion: fungi break down lignocellulose → earthworms refine the product. See [[vermicomposting]] for vermicomposting methods.
 
 ### 3. Successive Mushroom Crops
 Spent Agaricus compost can be amended and reused for a second crop. Some growers use spent substrate from one species as a base for another — for example, spent Inky Cap (Coprinus) substrate can support Volvariella cultivation. The nutritional profile shifts with each cycle but often remains productive.
@@ -71,14 +71,14 @@ Mushroom cultivation fits naturally into a closed-loop homestead:
 
 | Input | Output |
 |---|---|
-| Straw/hay from [[cover-cropping]] or [[pasture-management]] | Substrate for mushroom cultivation |
+| Straw/hay from [[cover-cropping-guide]] or [[pasture-management]] | Substrate for mushroom cultivation |
 | Sawdust from homestead woodworking | Substrate supplement |
 | [[animal-byproducts]] (manure, bedding) | Compost ingredient for substrate |
-| Spent mushroom substrate | [[composting-systems]], [[vermicompost]], soil amendment |
+| Spent mushroom substrate | [[composting-systems]], [[vermicomposting]], soil amendment |
 | SMS as animal feed supplement | [[duck-keeping]], [[goat-keeping]] nutrition |
-| Mushroom harvest | Food + medicine ([[mushroom-nutrition-and-medicinal]]) |
+| Mushroom harvest | Food + medicine ([[mushroom-nutrition-guide]]) |
 
-The [[fungal-decomposition]] capabilities of mushrooms transform low-value organic materials into high-value protein (mushrooms) and soil-building amendments. This aligns with the [[regenerative-agriculture]] principle of cycling nutrients on-farm rather than importing and exporting them.
+The [[fungal-decomposition]] capabilities of mushrooms transform low-value organic materials into high-value protein (mushrooms) and soil-building amendments. This aligns with the [[regenerative-agriculture-history]] principle of cycling nutrients on-farm rather than importing and exporting them.
 
 ## Nutrient Profile
 

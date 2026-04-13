@@ -47,6 +47,6 @@ The guide included a caution section noting that possession of psilocybin mushro
 
 - [[gaston-guzman]] — Mexican mycologist who brought scientific rigor to psilocybin identification
 - [[paul-stamets]] — Author of comprehensive modern psilocybin mushroom guides
-- [[edible-wild-mushrooms-of-north-america]] — Modern foraging reference
+- [[edible-wild-mushrooms-by-region]] — Modern foraging reference
 - [[mushroom-identification]] — Identification methodology
 - [[psychedelic-mushroom-history]] — Cultural history of magic mushrooms

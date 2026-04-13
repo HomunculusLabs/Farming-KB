@@ -85,7 +85,7 @@ When in doubt, feed less. Plants need less than most growers assume during late 
 Flushing involves feeding only plain water (or lightly amended water) for the final 1-2 weeks before harvest. The intent is to allow the plant to use stored nutrients, producing a smoother smoke.
 
 - **Debate**: Scientific evidence on flushing's effectiveness is mixed. Many growers report smoother flavor; controlled studies show minimal difference in ash color or combustion quality.
-- **Living soil**: Flushing is generally unnecessary in [[cannabis-indoor-living-soil]] beds where the plant feeds on-demand from the biology. The soil buffer naturally tapers nutrient availability.
+- **Living soil**: Flushing is generally unnecessary in [[cannabis-living-soil-guide]] beds where the plant feeds on-demand from the biology. The soil buffer naturally tapers nutrient availability.
 - **Hydroponics**: More important in inert media where nutrient salts accumulate. Run plain water for 5-7 days minimum.
 
 ## Environmental Conditions in Flower

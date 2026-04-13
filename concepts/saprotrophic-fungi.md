@@ -127,7 +127,7 @@ From *Mycelium Running*, [[paul-stamets]] identifies key saprophytic species tha
 - **Pleurotus ostreatus**: Aggressive colonizer; strong antibacterial/antiviral properties
 - **Stropharia rugoso-annulata**: Garden giant; caused 100-fold drop in fecal coliforms in field trials
 
-These species can be introduced as "mycelial perimeters" around advancing blights, prefilling ecological niches to prevent parasitic invasion. See [[medicinal-mushrooms-guide]] for full details and [[mushroom-natural-habitats]] for ecological context.
+These species can be introduced as "mycelial perimeters" around advancing blights, prefilling ecological niches to prevent parasitic invasion. See [[medicinal-mushroom-guide]] for full details and [[mushroom-natural-habitats]] for ecological context.
 
 ## See Also
 
@@ -138,7 +138,7 @@ These species can be introduced as "mycelial perimeters" around advancing blight
 - [[mushroom-substrates]] — Substrate recipes, pasteurization, C:N ratios
 - [[mushroom-species-guide]] — Species-specific cultivation parameters
 - [[mushroom-cultivation-basics]] — Stamets' 10-step cultivation process
-- [[soil-food-web]] — Fungi in the soil trophic web
+- [[soil-food-web-nutrient-cycling]] — Fungi in the soil trophic web
 - [[mushroom-natural-habitats]] — Where saprophytes thrive in nature
-- [[medicinal-mushrooms-guide]] — Antimicrobial and antiviral properties
+- [[medicinal-mushroom-guide]] — Antimicrobial and antiviral properties
 - [[inoculation-methods]] — Practical techniques for starting and expanding mycelium

@@ -10,7 +10,7 @@ sources:
 
 # Psilocybe natalensis
 
-A psychoactive mushroom species first discovered in January 1994 in Natal Province, South Africa, by [[jochen-gartz]] and M. Smith. It was the first psychotropic Psilocybe species documented from southern Africa, published as *Psilocybe natalensis* Gartz, Reid, Ecker & Smith (1995) with the descriptor "the first indigenous blueing member of the Agaricales of South Africa" (*Integration*, 6, 29-34). See [[psilocybin-mushroom-distribution]] for broader context and [[african-psilocybin-mushroom-guide]] for African species survey.
+A psychoactive mushroom species first discovered in January 1994 in Natal Province, South Africa, by [[jochen-gartz]] and M. Smith. It was the first psychotropic Psilocybe species documented from southern Africa, published as *Psilocybe natalensis* Gartz, Reid, Ecker & Smith (1995) with the descriptor "the first indigenous blueing member of the Agaricales of South Africa" (*Integration*, 6, 29-34). See [[psilocybin-mushroom-chemistry]] for broader context and [[african-psilocybin-mushroom-guide]] for African species survey.
 
 ## Discovery
 
@@ -62,10 +62,10 @@ The discovery of *P. natalensis* was important because:
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution]] — Global species distribution
+- [[psilocybin-mushroom-chemistry]] — Global species distribution
 - [[jochen-gartz]] — Discoverer of the species
 - [[african-psilocybin-mushroom-guide]] — African species survey and Tassili rock art
 - [[psilocybin-mushroom-cultivation]] — Cultivation methods
 - [[psychedelic-mushroom-history]] — Historical timeline including African evidence
 - [[archaeology-of-psychedelic-mushrooms]] — Archaeological evidence of ancient use
-- [[psilocybin-mushroom-species-field-guide]] — Field identification of 16 species
+- [[psilocybin-mushroom-chemistry]] — Field identification of 16 species

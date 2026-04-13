@@ -180,7 +180,7 @@ Geese serve multiple homestead roles: **Weeder geese** (Chinese, Roman Tufted) c
 - Manure enriches pasture (moderate nitrogen content)
 - Can be rotated through garden beds after harvest for weed/grass cleanup
 - Work well with goats and sheep in multi-species grazing
-- Eggs and meat contribute to [[food-preservation]] stores
+- Eggs and meat contribute to [[food-preservation-canning]] stores
 - See [[homesteading-livestock-comparison]] for comparison with other livestock
 
 ## Related Pages

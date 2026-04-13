@@ -196,5 +196,5 @@ Most materials can be sourced free from the land or salvage.
 - [[natural-building]] -- cob, straw bale, earthbag construction
 - [[rocket-stove]] -- alternative efficient wood-burning design
 - [[homesteading-infrastructure]] -- overall homestead planning
-- [[food-fermentation]] -- bread baking (sourdough)
+- [[food-fermentation-guide]] -- bread baking (sourdough)
 - [[candle-making]] -- other homestead crafts

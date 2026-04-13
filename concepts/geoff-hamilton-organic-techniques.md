@@ -24,11 +24,11 @@ sources:
 
 # Organic Gardening Techniques (Geoff Hamilton)
 
-Practical techniques from Geoff Hamilton's organic gardening encyclopedia. Hamilton was a BBC Gardeners' World presenter and advocate of no-chemical gardening. This page covers techniques NOT already detailed in existing wiki pages. See [[composting-systems]] for composting methods, [[seed-starting]] for propagation, [[greenhouse-design]] for protected growing, and [[orchard-management]] for fruit trees.
+Practical techniques from Geoff Hamilton's organic gardening encyclopedia. Hamilton was a BBC Gardeners' World presenter and advocate of no-chemical gardening. This page covers techniques NOT already detailed in existing wiki pages. See [[composting-systems]] for composting methods, [[seed-starting-reference]] for propagation, [[greenhouse-design]] for protected growing, and [[orchard-management]] for fruit trees.
 
 ## The No-Dig Approach
 
-Hamilton's core philosophy aligns with [[no-till-farming]] but adds specific techniques:
+Hamilton's core philosophy aligns with [[no-till-gardening-method]] but adds specific techniques:
 
 ### Deep Bed System
 - Double-dig only once at establishment — never again
@@ -130,7 +130,7 @@ Hamilton's core philosophy aligns with [[no-till-farming]] but adds specific tec
 
 ### Companion Planting Combinations
 
-See [[companion-planting]] for full details. Hamilton's top combinations:
+See [[companion-planting-reference]] for full details. Hamilton's top combinations:
 - **Tomatoes + basil**: Basil repels whitefly and improves tomato flavour
 - **Carrots + onions**: Mutual pest deterrence (onion smell deters carrot fly, carrot smell deters onion fly)
 - **Beans + sweetcorn + squash**: Three Sisters — beans fix nitrogen, corn provides support, squash suppresses weeds
@@ -141,15 +141,15 @@ See [[companion-planting]] for full details. Hamilton's top combinations:
 ## Links
 
 - [[composting-systems]] — All composting methods
-- [[seed-starting]] — Indoor and outdoor propagation
+- [[seed-starting-reference]] — Indoor and outdoor propagation
 - [[greenhouse-design]] — Protected growing structures
 - [[orchard-management]] — Fruit tree care
 - [[mulching-guide]] — Mulch types and application
-- [[no-till-farming]] — Minimum disturbance soil management
-- [[weed-management]] — Weed ecology and control
+- [[no-till-gardening-method]] — Minimum disturbance soil management
+- [[weed-management-strategies]] — Weed ecology and control
 - [[seasonal-planning]] — Monthly task calendar
 - [[soil-fertility-management]] — Organic soil management
-- [[cover-cropping]] — Green manures and cover crops
+- [[cover-cropping-guide]] — Green manures and cover crops
 - [[organic-soil-management]] — Detailed soil care phases and conditioners
 - [[organic-greenhouse-gardening]] — Greenhouse growing, heating, and pest management
 - [[organic-herb-gardening]] — Herb classification, propagation, harvesting, and preserving

@@ -11,7 +11,7 @@ sources:
 
 # Cannabis Oil Isomerization — Converting CBD to THC
 
-The process of converting cannabidiol (CBD) to delta-9-THC through acid-catalyzed isomerization. Based on techniques from Lemon's "Cannabis Alchemy" (1990). See [[cannabis-extraction-methods]] for the complete extraction process.
+The process of converting cannabidiol (CBD) to delta-9-THC through acid-catalyzed isomerization. Based on techniques from Lemon's "Cannabis Alchemy" (1990). See [[cannabis-extraction-basics]] for the complete extraction process.
 
 ## Why Isomerize?
 
@@ -36,7 +36,7 @@ The isomerization of CBD to THC involves acid-catalyzed cyclization:
 
 ### Equipment Required
 - Pyrex pot (not stainless steel — acid is reactive)
-- Refluxing apparatus (see [[cannabis-extraction-methods]])
+- Refluxing apparatus (see [[cannabis-extraction-basics]])
 - Sulfuric acid (concentrated), stored in safety bottle
 - Sodium bicarbonate (baking soda) for neutralization
 - Separatory funnel
@@ -96,7 +96,7 @@ The isomerization of CBD to THC involves acid-catalyzed cyclization:
 
 ## See Also
 
-- [[cannabis-extraction-methods]] — Full extraction process leading up to isomerization
+- [[cannabis-extraction-basics]] — Full extraction process leading up to isomerization
 - [[cannabis-health-therapeutics]] — Therapeutic applications of THC and CBD
 - [[cannabis-plant-nutrition]] — Growing cannabis with specific cannabinoid profiles
 

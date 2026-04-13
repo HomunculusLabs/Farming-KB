@@ -158,4 +158,4 @@ Fukuoka noted this method could be adapted:
 - [[natural-farming-seed-balls]] -- Clay pellet technique
 - [[natural-farming-vs-organic-vs-conventional]] -- Three-way comparison
 - [[no-tillage-grain-systems]] -- Modern no-till methods
-- [[cover-cropping]] -- Green manure and soil protection
+- [[cover-cropping-guide]] -- Green manure and soil protection

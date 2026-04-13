@@ -167,5 +167,5 @@ Performed during the active growing season when trees are in full leaf.
 
 - [[food-forest-design]] — Integrating fruit trees into perennial polycultures
 - [[season-extension-techniques]] — Protecting blossoms from late frost
-- [[companion-planting]] — Beneficial understory plantings beneath fruit trees
+- [[companion-planting-reference]] — Beneficial understory plantings beneath fruit trees
 - [[homesteading]] — Orchard management as part of homestead food production

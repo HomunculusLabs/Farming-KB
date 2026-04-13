@@ -121,7 +121,7 @@ Essential diagnostic tool. Place cap gills-down on half white/half black paper, 
 ## Related Pages
 
 - [[mushroom-species-guide]] -- Cultivation profiles for common edible species
-- [[fungal-biology-lifecycle]] -- Understanding fungal reproduction aids identification
+- [[fungal-biology-fundamentals]] -- Understanding fungal reproduction aids identification
 
 
 ## See Also

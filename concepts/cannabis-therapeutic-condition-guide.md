@@ -101,5 +101,5 @@ Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendat
 - [[cannabis-health-therapeutics]] — ECS overview, cannabinoid/terpene profiles, dosing principles
 - [[cannabis-genetics-and-breeding]] — Selecting for therapeutic profiles
 - [[herbal-medicine]] — Integration with other botanical medicines
-- [[cannabis-extraction-methods]] — Making therapeutic preparations
+- [[cannabis-extraction-basics]] — Making therapeutic preparations
 - [[uwe-blesching]] — evidence-based cannabis therapeutics research

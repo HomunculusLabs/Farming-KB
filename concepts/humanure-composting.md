@@ -142,6 +142,6 @@ Odor only occurs when aerobic conditions fail:
 ## Related Pages
 
 - [[composting-systems]] — hot composting, vermicompost, bokashi methods
-- [[soil-food-web]] — microbial breakdown of organic matter
+- [[soil-food-web-nutrient-cycling]] — microbial breakdown of organic matter
 - [[homestead-water-systems]] — greywater, composting toilets, water sourcing
 - [[homesteading-legal-considerations]] — zoning, permits, building codes

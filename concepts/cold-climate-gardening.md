@@ -154,14 +154,14 @@ Rotate crop families to prevent disease and pest buildup:
 
 ## Growing Techniques and Winter Production
 
-For seed starting, raised beds, soil warming, wind protection, microclimate creation, variety selection, indoor and winter growing, and food storage, see [[cold-climate-growing-reference]].
+For seed starting, raised beds, soil warming, wind protection, microclimate creation, variety selection, indoor and winter growing, and food storage, see [[cold-climate-gardening]].
 
 ## Related Pages
 
-- [[cold-climate-growing-reference]] -- Techniques and winter production
+- [[cold-climate-gardening]] -- Techniques and winter production
 - [[season-extension-techniques]] -- Season extension construction
 - [[greenhouse-design]] -- Greenhouse types and construction
-- [[seed-starting]] -- Indoor seed starting
+- [[seed-starting-reference]] -- Indoor seed starting
 - [[raised-bed-gardening]] -- Raised bed construction
-- [[food-preservation]] -- Storing the harvest
+- [[food-preservation-canning]] -- Storing the harvest
 - [[edge-effect-and-microclimate]] -- Microclimate creation

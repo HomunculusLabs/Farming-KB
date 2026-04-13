@@ -30,7 +30,7 @@ sources:
 
 # Cannabis Growth Stage Checklist
 
-Week-by-week checklist for an indoor photoperiod grow in [[cannabis-indoor-living-soil]]. Assumes pre-amended living soil beds with balanced NPK. Timings are approximate -- indica-dominant strains finish faster; sativa-dominant may extend 2-4 weeks in flower. See [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] for full details.
+Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-guide]]. Assumes pre-amended living soil beds with balanced NPK. Timings are approximate -- indica-dominant strains finish faster; sativa-dominant may extend 2-4 weeks in flower. See [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] for full details.
 
 ---
 
@@ -56,7 +56,7 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-indoor-livin
 
 ## Week 3-4: Early Vegetative
 
-**Feeding**: First compost tea (ACT) at week 3 if growth seems slow. 1 tbsp molasses/gallon in tea. Optional [[lactic-acid-bacteria]] foliar spray for immune support. Still no heavy N inputs.
+**Feeding**: First compost tea (ACT) at week 3 if growth seems slow. 1 tbsp molasses/gallon in tea. Optional [[lactic-acid-bacteria-lab]] foliar spray for immune support. Still no heavy N inputs.
 
 **Environment**:
 - Temp: 70-82F day / 60-70F night (10F drop ideal)
@@ -115,7 +115,7 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-indoor-livin
 
 ## Week 3-6 Flower: Mid Flower
 
-**Feeding**: Top-dress at week 4-5 with langbeinite (1/2 cup) + oyster shell flour (1/4 cup). Compost tea every 1-2 weeks. Stop N-rich inputs after week 5. [[lactic-acid-bacteria]] foliar through week 6. Optional: [[water-soluble-calcium-wca]] foliar for Ca boost.
+**Feeding**: Top-dress at week 4-5 with langbeinite (1/2 cup) + oyster shell flour (1/4 cup). Compost tea every 1-2 weeks. Stop N-rich inputs after week 5. [[lactic-acid-bacteria-lab]] foliar through week 6. Optional: [[water-soluble-calcium-wca]] foliar for Ca boost.
 
 **Environment**:
 - Temp: 68-78F day / 60-68F night
@@ -156,7 +156,7 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-indoor-livin
 
 ## Week 10+: Harvest / Cure
 
-**Harvest** (see [[cannabis-harvesting-and-curing]]):
+**Harvest** (see [[cannabis-harvest-and-curing]]):
 - Cut branches at main stems; work in clean environment
 - Wet trim (remove fan leaves + sugar leaves) or dry trim (hang whole, trim later)
 - Hang branches spaced apart, not touching, on string/hangers/drying rack
@@ -191,7 +191,7 @@ Week-by-week checklist for an indoor photoperiod grow in [[cannabis-indoor-livin
 - [[cannabis-vegetative-stage]] — detailed veg stage management
 - [[cannabis-flowering-stage]] — flower stage development and environment
 - [[cannabis-plant-nutrition]] — NPK, organic sources, amendment schedules
-- [[cannabis-harvest-techniques]] — trichome assessment, drying, curing
-- [[cannabis-harvesting-and-curing]] — complete harvest and cure walkthrough
-- [[cannabis-light-spectrums]] — PPFD and spectrum targets by stage
+- [[cannabis-harvest-and-curing]] — trichome assessment, drying, curing
+- [[cannabis-harvest-and-curing]] — complete harvest and cure walkthrough
+- [[cannabis-lighting-guide]] — PPFD and spectrum targets by stage
 - [[cannabis-pest-management]] — IPM for indoor grows

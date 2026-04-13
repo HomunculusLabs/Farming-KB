@@ -137,7 +137,7 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 - Cash (ATMs and card readers will not work without power)
 
 ### First Aid
-- Comprehensive first aid kit (see [[homestead-first-aid-kit-list]])
+- Comprehensive first aid kit (see [[homestead-first-aid-guide]])
 - Include extra trauma supplies: splints, tourniquet, hemostatic gauze
 - Prescription medications (30-day minimum supply)
 
@@ -183,5 +183,5 @@ Aftershocks can be as damaging as the main earthquake and continue for days, wee
 
 - construction — Building techniques and structural considerations
 - safety — Comprehensive safety planning and risk management
-- [[homestead-first-aid-kit-list]] — First aid for earthquake-related injuries
+- [[homestead-first-aid-guide]] — First aid for earthquake-related injuries
 - [[homestead-communication]] — Communication when normal networks are down

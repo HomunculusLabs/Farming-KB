@@ -31,7 +31,7 @@ sources:
 
 # Herbal Medicine — Homestead Apothecary
 
-Growing medicinal herbs provides self-reliance for common ailments, connects you to plant medicine traditions, and integrates well into a [[food-forest-design]] or [[permaculture-plants-reference]] planting. This page covers the top herbs to grow, harvest timing, preparation methods, and building a home apothecary.
+Growing medicinal herbs provides self-reliance for common ailments, connects you to plant medicine traditions, and integrates well into a [[food-forest-design]] or [[permaculture-useful-plants-reference]] planting. This page covers the top herbs to grow, harvest timing, preparation methods, and building a home apothecary.
 
 ## Top 20 Herbs for a Homestead Apothecary
 
@@ -126,7 +126,7 @@ Growing medicinal herbs provides self-reliance for common ailments, connects you
 - Labels and permanent marker
 - Mortar and pestle or herb grinder
 
-**Organize by system**: Immune, digestive, nervous/calm, skin/[[homestead-first-aid]], respiratory.
+**Organize by system**: Immune, digestive, nervous/calm, skin/[[homestead-first-aid-guide]], respiratory.
 
 ## Reference Books and Websites
 
@@ -142,7 +142,7 @@ Growing medicinal herbs provides self-reliance for common ailments, connects you
 
 ## Related
 
-- [[cover-cropping]]
-- [[beekeeping]]
+- [[cover-cropping-guide]]
+- [[beekeeping-basics]]
 - [[seasonal-planning]]
 - [[st-johns-wort-guide]]

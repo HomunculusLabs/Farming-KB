@@ -23,7 +23,7 @@ sources:
 
 # Hallucinogenic Plants of the New World
 
-Based on [[richard-evans-schultes]]'s Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See [[hallucinogenic-plants-old-world]] for Old World species.
+Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20). This disparity is not explained by botanical distribution — Old World plants like Cannabis and Amanita have been largely abandoned for hallucinogenic use. See [[hallucinogenic-plants-new-world]] for Old World species.
 
 ---
 
@@ -75,7 +75,7 @@ Based on [[richard-evans-schultes]]'s Golden Guide. The New World has far more h
 
 ### Fly Agaric — Amanita muscaria
 - **Distribution**: Boreal and temperate Northern Hemisphere; Siberia, North America, Europe
-- **Use**: Used by Siberian tribes (Koryak, Kamchadal, Chukchi) — see [[hallucinogenic-plants-old-world]]. Also used in Oaxaca, Mexico by Mazatec peoples. The Siberian and Mexican use are culturally independent, representing convergent discovery
+- **Use**: Used by Siberian tribes (Koryak, Kamchadal, Chukchi) — see [[hallucinogenic-plants-new-world]]. Also used in Oaxaca, Mexico by Mazatec peoples. The Siberian and Mexican use are culturally independent, representing convergent discovery
 - **Chemistry**: Ibotenic acid, muscimol (muscazone). Not tryptamine-based — unique chemistry
 - **Effects**: Narcotic, intoxicating, inebriating. The dried mushroom is eaten or boiled in water to make an intoxicating beverage
 
@@ -169,10 +169,10 @@ Based on [[richard-evans-schultes]]'s Golden Guide. The New World has far more h
 
 ## See Also
 
-- [[hallucinogenic-plants-old-world]] — Old World species profiles
+- [[hallucinogenic-plants-new-world]] — Old World species profiles
 - [[hallucinogenic-plant-chemistry]] — chemical taxonomy
-- [[hallucinogenic-plants-world-survey]] — overview and cross-cultural analysis
-- [[richard-evans-schultes]] — author and ethnobotanist
+- [[hallucinogenic-plants-new-world]] — overview and cross-cultural analysis
+- [[richard-evans-schultes-updated]] — author and ethnobotanist
 - [[ayahuasca-preparation]] — detailed ayahuasca methodology
 - [[salvia-divinorum]] — Salvia profile
 - [[dmt-reference]] — DMT pharmacology

@@ -51,4 +51,4 @@ Ingold's work on spore morphology and dispersal complemented the spore physics r
 - [[fungal-spore-biology]] — broader spore science
 - [[nicholas-money]] — modern mycologist who popularized Ingold's work
 - [[buller-ahr]] — contemporary spore physics researcher
-- [[history-of-mycology]] — Ingold's place in mycological history
+- [[history-of-mycology-timeline]] — Ingold's place in mycological history

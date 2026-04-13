@@ -133,10 +133,10 @@ Sclerotia advantages for cultivation: can be harvested without fruiting, longer 
 
 ## See Also
 
-- [[mushroom-drying-and-storage]] -- drying and storage
+- [[mushroom-drying-storage]] -- drying and storage
 
 - [[mushroom-species-guide]] — Detailed species profiles and identification
-- [[psilocybin-mushroom-distribution]] — Where psychoactive species grow naturally
+- [[psilocybin-mushroom-chemistry]] — Where psychoactive species grow naturally
 - [[psilocybin-mushroom-chemistry]] — Chemical composition and alkaloid profiles
 - [[psychedelic-mushroom-history]] — Historical context of mushroom use
 - [[jochen-gartz]] — Researcher who documented many cultivation techniques

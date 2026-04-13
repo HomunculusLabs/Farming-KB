@@ -63,7 +63,7 @@ Plants detect volatile organic compounds (VOCs) in the air:
 - Plants can sense ripening fruit, neighboring species, and even herbivore damage through chemical signals
 - When a plant is attacked by pests, it releases volatile compounds that warn neighboring plants to activate their defenses
 - Companion planting works partly through chemical signaling between species
-- The [[soil-food-web]] produces chemical signals that roots detect, influencing nutrient uptake and [[mycorrhizal-fungi]] colonization
+- The [[soil-food-web-nutrient-cycling]] produces chemical signals that roots detect, influencing nutrient uptake and [[mycorrhizal-fungi]] colonization
 
 ## What a Plant Feels
 
@@ -92,7 +92,7 @@ Plants exhibit forms of memory:
 
 - **Phytochrome state**: The plant "remembers" the last color of light it saw (red or far-red) and adjusts its physiology accordingly
 - **Vernalization**: Some plants require a cold period before flowering — they "remember" winter
-- **Stress priming**: Plants that survive a stress (drought, pest attack) respond more quickly to future stress. This is the basis for using [[lactic-acid-bacteria]] serum — hexanoic acid primes the plant's defense pathways (salicylic acid and jasmonic acid), making it more resistant to future pathogen attack
+- **Stress priming**: Plants that survive a stress (drought, pest attack) respond more quickly to future stress. This is the basis for using [[lactic-acid-bacteria-lab]] serum — hexanoic acid primes the plant's defense pathways (salicylic acid and jasmonic acid), making it more resistant to future pathogen attack
 - **Circadian rhythms**: Plants maintain internal clocks that regulate metabolic processes on a ~24-hour cycle, even in constant conditions
 
 ## Practical Applications for Cannabis Growing
@@ -110,8 +110,8 @@ Plants exhibit forms of memory:
 
 ## Related Pages
 
-- [[cannabis-light-spectrums]] — detailed spectrum requirements per growth stage
+- [[cannabis-lighting-guide]] — detailed spectrum requirements per growth stage
 - [[cannabis-vegetative-stage]] — light management in veg
 - [[cannabis-flowering-stage]] — photoperiod control for flowering
 - [[cannabis-pest-management]] — plant defense responses to pest attack
-- [[soil-food-web]] — chemical signaling in the root zone
+- [[soil-food-web-nutrient-cycling]] — chemical signaling in the root zone

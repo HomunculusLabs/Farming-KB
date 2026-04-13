@@ -156,7 +156,7 @@ For faster leaf mold (6-9 months), you can add:
 
 - [[composting-methods-comparison]] -- how leaf mold compares to other composting methods
 - [[soil-testing-and-analysis]] -- assessing soil needs before applying leaf mold amendments
-- [[soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]
 - [[forest-garden-layers]]
 
 ## Related

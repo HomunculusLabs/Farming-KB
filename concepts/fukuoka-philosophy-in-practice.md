@@ -39,8 +39,8 @@ His awakening came at age 25: "Humanity knows nothing at all. There is no intrin
 ## The Four Principles
 
 1. **No cultivation** -- Plowing destroys soil structure, breaks fungal networks, and compacts soil. Nature never plows; roots, earthworms, and microbes aerate soil far deeper than any hoe. Fukuoka's fields went 30+ years without tilling.
-2. **No chemical fertilizer** -- Chemical inputs disrupt natural nutrient cycling. Fukuoka used clover, straw mulch, and chicken manure. Soil fertility comes from the living food web. See [[soil-food-web]].
-3. **No weeding** -- Weeds are soil builders and indicators. White clover as living mulch suppresses unwanted weeds. Straw mulch blocks germination. When weeds appear, ask "what is the soil telling me?" See [[weed-management]].
+2. **No chemical fertilizer** -- Chemical inputs disrupt natural nutrient cycling. Fukuoka used clover, straw mulch, and chicken manure. Soil fertility comes from the living food web. See [[soil-food-web-nutrient-cycling]].
+3. **No weeding** -- Weeds are soil builders and indicators. White clover as living mulch suppresses unwanted weeds. Straw mulch blocks germination. When weeds appear, ask "what is the soil telling me?" See [[weed-management-strategies]].
 4. **No pesticides** -- Balanced ecosystems self-regulate. Diversified plantings resist outbreaks. Ducks eat insects and weeds in paddies. See [[insect-allies]].
 
 A fifth principle -- **no pruning** -- appears in his orchard work. Trees grow best in their natural habit; branches do not tangle, sunlight reaches every leaf, and trees bear fully each year rather than alternating.
@@ -192,8 +192,8 @@ Fukuoka's analysis of why environmental problems persist:
 - [[natural-way-of-farming-guide]] -- Deep dive into The Natural Way of Farming
 - [[fukuoka-no-prune-fruit-tree-method]] -- No-pruning orchard technique
 - [[fukuoka-soil-building-method]] -- Soil restoration method
-- [[no-till-farming]] -- Modern no-till methods and transition
-- [[seed-starting]] -- Seed germination and early growth
+- [[no-till-gardening-method]] -- Modern no-till methods and transition
+- [[seed-starting-reference]] -- Seed germination and early growth
 - [[orchard-management]] -- Fruit tree care and seasonal calendar
 - [[natural-farming-vs-organic-vs-conventional]] -- Three-way comparison
 - [[permaculture-principles]] -- Design principles Fukuoka influenced

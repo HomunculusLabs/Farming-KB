@@ -48,13 +48,13 @@ The experiment grew five Cannabis cultivars (including "Bookoo Kush," "Maui Wowi
 
 ## Significance for Cultivation
 
-This work established that cannabis selectively recruits specific microbial partners from soil, with cultivar (genotype) as the dominant factor for endorhiza communities. The finding that soil type primarily determines which microbes are available for recruitment has direct practical implications for [[cannabis-indoor-living-soil]] cultivation — building diverse soil biology gives cannabis more choices for its preferred symbionts. Different cultivars may benefit from different microbial inoculants. This research also supports the [[soil-food-web]] approach: a rich, diverse soil food web provides a larger pool of candidate microbes for the plant to select from, while the plant's genetics determine which specific partnerships form in the root zone.
+This work established that cannabis selectively recruits specific microbial partners from soil, with cultivar (genotype) as the dominant factor for endorhiza communities. The finding that soil type primarily determines which microbes are available for recruitment has direct practical implications for [[cannabis-living-soil-guide]] cultivation — building diverse soil biology gives cannabis more choices for its preferred symbionts. Different cultivars may benefit from different microbial inoculants. This research also supports the [[soil-food-web-nutrient-cycling]] approach: a rich, diverse soil food web provides a larger pool of candidate microbes for the plant to select from, while the plant's genetics determine which specific partnerships form in the root zone.
 
 ## See Also
 
 - [[cannabis-root-microbiome]] — detailed research findings
 - [[cannabis-microbiome-research]] — current state of cannabis microbiome science
-- [[soil-food-web]] — the two-tier selection model in context
-- [[cannabis-indoor-living-soil]] — practical applications for living soil beds
+- [[soil-food-web-nutrient-cycling]] — the two-tier selection model in context
+- [[cannabis-living-soil-guide]] — practical applications for living soil beds
 - [[effective-microorganisms-em]] — microbial partners cannabis recruits
 - [[nutritive-cycle-theory]] — growth stage framework for microbial inputs

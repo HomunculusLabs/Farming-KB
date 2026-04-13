@@ -160,10 +160,10 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 - [[mushroom-log-cultivation]] for log methods
 - [[straw-cultivation-methods]] for straw preparation
 - [[mycoremediation-basics]] for remediation applications
-- [[medicinal-mushroom-compounds]] for medicinal properties
+- [[medicinal-mushroom-guide]] for medicinal properties
 
 ## Related Pages
 
 - [[mushroom-species-cultivation-parameters]] -- Primary species
 - [[mycoremediation-basics]] -- Remediation applications
-- [[medicinal-mushroom-compounds]] -- Medicinal properties
+- [[medicinal-mushroom-guide]] -- Medicinal properties

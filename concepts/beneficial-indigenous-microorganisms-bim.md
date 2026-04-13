@@ -33,7 +33,7 @@ Gil Carandang's Philippine approach to indigenous microorganisms. Combines multi
 
 ## Lactic Acid Bacteria (LAB)
 
-The major workhorse. See [[lactic-acid-bacteria]] for full recipe. Key points:
+The major workhorse. See [[lactic-acid-bacteria-lab]] for full recipe. Key points:
 - Collect from air using rice wash fermented 5-7 days at 20-25C
 - Purify by adding 10 parts milk (skim/powdered okay, fresh best)
 - Strain yellow serum after 5-7 days (carbohydrate/protein/fat float, discard)
@@ -76,7 +76,7 @@ See [[bionutrients-guide]] for the full bionutrient preparation system that pair
 
 - [[indigenous-microorganisms-imo]] — Cho's 4-stage IMO process
 - [[bionutrients-guide]] — Carandang's bionutrient system
-- [[lactic-acid-bacteria]] — LAB serum recipe (key component of BIM)
+- [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)
 - [[knf-preparations]] — all KNF inputs overview
-- [[soil-food-web]] — what IMO/BIM does in the soil
+- [[soil-food-web-nutrient-cycling]] — what IMO/BIM does in the soil
 - [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)

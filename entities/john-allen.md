@@ -42,7 +42,7 @@ The book covers 24 topics in comprehensive detail:
 
 ## Species Documented
 
-Allen documented key Australasian species including *Psilocybe cubensis*, *P. subaeruginosa*, *P. cyanescens*, *P. aucklandii*, *P. australiana*, *Panaeolus cyanescens*, and *Gymnopilus purpuratus* (photograph by [[jochen-gartz]]). See [[psilocybin-mushroom-species-field-guide]] for broader species coverage.
+Allen documented key Australasian species including *Psilocybe cubensis*, *P. subaeruginosa*, *P. cyanescens*, *P. aucklandii*, *P. australiana*, *Panaeolus cyanescens*, and *Gymnopilus purpuratus* (photograph by [[jochen-gartz]]). See [[psilocybin-mushroom-chemistry]] for broader species coverage.
 
 ## Major Works
 
@@ -52,10 +52,10 @@ Allen documented key Australasian species including *Psilocybe cubensis*, *P. su
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution]] — Global distribution patterns
+- [[psilocybin-mushroom-chemistry]] — Global distribution patterns
 - [[gaston-guzman]] — Co-researcher and Psilocybe authority
 - [[jochen-gartz]] — Co-researcher on worldwide distribution
 - [[asian-psilocybin-mushroom-guide]] — Thai/Southeast Asian species
-- [[psilocybin-mushroom-species-field-guide]] — Field identification of 16 species
+- [[psilocybin-mushroom-chemistry]] — Field identification of 16 species
 - [[psychedelic-mushroom-history]] — Timeline of mushroom use
 - [[mushroom-foraging-safety-guide]] — Safety principles

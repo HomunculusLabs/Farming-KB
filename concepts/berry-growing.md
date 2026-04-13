@@ -44,12 +44,12 @@ For detailed species profiles (planting, pruning, varieties, specific care), see
 
 ## Soil Preparation
 
-- Test soil pH and nutrients before planting — see [[soil-food-web]] for biological approach
+- Test soil pH and nutrients before planting — see [[soil-food-web-nutrient-cycling]] for biological approach
 - Incorporate 2-4 inches of compost (see [[composting-systems]]) into planting beds
 - For blueberries: incorporate peat moss, pine needles, or elemental sulfur to lower pH
-- Apply [[cover-cropping]] with crimson clover or buckwheat the season before planting
+- Apply [[cover-cropping-guide]] with crimson clover or buckwheat the season before planting
 - Mulch heavily after planting (3-6 inches of wood chips, straw, or pine needles)
-- Consider [[vermicompost]] as a top-dressing amendment for established plants
+- Consider [[vermicomposting]] as a top-dressing amendment for established plants
 
 ## Integrated Pest Management for Berries
 
@@ -73,7 +73,7 @@ For detailed species profiles (planting, pruning, varieties, specific care), see
 | Root Rot | All (wet soils) | Drainage, [[mycorrhizal-fungi]] inoculation, avoid overwatering |
 | Mummy Berry | Blueberry | Remove infected berries, mulch to bury mummies |
 
-For general IPM philosophy, see [[cannabis-pest-management]]. For biological controls, see [[beekeeping]].
+For general IPM philosophy, see [[cannabis-pest-management]]. For biological controls, see [[beekeeping-basics]].
 
 ## Seasonal Calendar (Zone 7-8)
 
@@ -100,7 +100,7 @@ See [[integrated-homestead-annual-calendar]] and [[seasonal-planning]] for broad
 | Freezing | All | Freeze on sheet trays first, then bag |
 | Jam/Jelly | Strawberry, blackberry, grape, elderberry | Low-sugar pectin or apple/currant for natural pectin |
 | Dehydrating | Blueberry, strawberry, elderberry | Dip blueberries in boiling water to check skins |
-| Wine | Grape, elderberry, blackberry | See [[food-preservation]] when created |
+| Wine | Grape, elderberry, blackberry | See [[food-preservation-canning]] when created |
 | Syrup | Blueberry, elderberry, mixed berry | Simple sugar syrup, can or freeze |
 | Canning | All | Follow Ball Blue Book for safe water-bath canning |
 
@@ -109,7 +109,7 @@ See [[integrated-homestead-annual-calendar]] and [[seasonal-planning]] for broad
 - **Duck/goat forage:** Ducks eat fallen berries and control slugs. Goats browse brambles ([[pasture-management]])
 - **Compost:** Berry prunings are high-carbon brown material for [[composting-systems]]
 - **Mulch source:** Use wood chips from [[homestead-water-systems]] or [[natural-building]] projects
-- **Pollination:** Site near [[beekeeping]] hives — excellent nectar source
+- **Pollination:** Site near [[beekeeping-basics]] hives — excellent nectar source
 - **Income:** Berries have high market value ($4-8/lb retail). Value-added products multiply returns
 - **Food forest:** Berries occupy the shrub layer (Zone 2-3) in [[food-forest-design]]
 
@@ -126,4 +126,4 @@ See [[integrated-homestead-annual-calendar]] and [[seasonal-planning]] for broad
 | Grape | 5.5-6.5 | Full | 6-8 ft | Year 3 | 50-100 yr | Trellis |
 | Kiwi | 5.5-7.0 | Full | 8-15 ft | Year 3 | 50+ yr | Strong trellis |
 
-For detailed species-by-species planting, pruning, variety recommendations, and care instructions, see [[berry-species-guide]]. For berry propagation (hardwood cuttings, tip layering, division), see [[plant-propagation]].
+For detailed species-by-species planting, pruning, variety recommendations, and care instructions, see [[berry-species-guide]]. For berry propagation (hardwood cuttings, tip layering, division), see [[plant-propagation-methods]].

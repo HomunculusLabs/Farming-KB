@@ -34,7 +34,7 @@ See [[soil-fertility-management]] for detailed pH management. Key points:
 - **6.0–6.8**: Optimal for most vegetables and cannabis. Maximum nutrient availability on the availability chart.
 - **< 5.5**: Aluminum and manganese toxicity risk. Liming needed.
 - **> 7.5**: Iron, manganese, zinc, boron become unavailable. Sulfur or elemental sulfur needed.
-- **Living soil note**: The [[soil-food-web]] buffers pH. Microbial respiration produces organic acids that moderate swings. But starting pH still matters — biology can't fix a pH of 4.5.
+- **Living soil note**: The [[soil-food-web-nutrient-cycling]] buffers pH. Microbial respiration produces organic acids that moderate swings. But starting pH still matters — biology can't fix a pH of 4.5.
 
 ## CEC (Cation Exchange Capacity)
 
@@ -79,7 +79,7 @@ Check which method your lab uses before comparing results to guidelines. Living 
 Most labs do NOT test total nitrogen reliably. Instead:
 - **Pre-plant nitrate-N test**: Measures plant-available N at time of sampling. Most useful for field crops.
 - **Organic matter %**: A rough proxy for N-supplying power. 1% OM ≈ 20–40 lbs N/acre/year released through mineralization.
-- **In living soil systems**: The [[soil-food-web]] mineralizes N from organic matter on demand. Synthetic N tests are less meaningful. Focus on OM%, CEC, and biological activity.
+- **In living soil systems**: The [[soil-food-web-nutrient-cycling]] mineralizes N from organic matter on demand. Synthetic N tests are less meaningful. Focus on OM%, CEC, and biological activity.
 
 ## Amending Based on Test Results
 
@@ -91,10 +91,10 @@ Most labs do NOT test total nitrogen reliably. Instead:
 
 ### Living Soil / Biological Approach
 
-The [[soil-food-web]] and KNF/[[effective-microorganisms-em]] approaches amend differently:
+The [[soil-food-web-nutrient-cycling]] and KNF/[[effective-microorganisms-em]] approaches amend differently:
 
 - **Focus on biology first, chemistry second** — if microbial life is thriving, many nutrient "deficiencies" resolve as microbes mineralize locked-up nutrients
-- **Build OM% before chasing individual nutrients** — compost, [[vermicompost]], [[cover-cropping]], and mulch raise OM which raises CEC which raises nutrient holding capacity
+- **Build OM% before chasing individual nutrients** — compost, [[vermicomposting]], [[cover-cropping-guide]], and mulch raise OM which raises CEC which raises nutrient holding capacity
 - **Use rock minerals for long-term reserves** — rock phosphate, azomite, basalt dust release over years. They feed microbes which feed plants.
 - **Mycorrhizal inoculation** can reduce P fertilizer needs by 30–60% — see [[mycorrhizal-fungi]]
 - **[[knf-preparations]]** provide biological inputs that help plants access existing soil nutrients rather than adding more
@@ -109,7 +109,7 @@ The [[soil-food-web]] and KNF/[[effective-microorganisms-em]] approaches amend d
 | Low K | Muriate of potash | Kelp meal, wood ash, greensand |
 | Low Ca | Dolomite or calcitic lime | [[water-soluble-calcium-wca]], oyster shell flour |
 | Low Mg | Epsom salt | Dolomite lime (if Ca also low), kelp meal |
-| Low OM | Compost | [[composting-systems]], [[vermicompost]], [[cover-cropping]], no-till |
+| Low OM | Compost | [[composting-systems]], [[vermicomposting]], [[cover-cropping-guide]], no-till |
 | Low biology | N/A | [[compost-tea-aact]], IMO, EM, [[bokashi]], reduce tillage |
 | High salts | Leaching with water | Organic matter, cover crops, improve drainage |
 
@@ -139,7 +139,7 @@ The KNF philosophy: test the soil, but also test the plant's response. If plants
 
 ## Cannabis-Specific Testing Considerations
 
-For [[cannabis-indoor-living-soil]] beds:
+For [[cannabis-living-soil-guide]] beds:
 
 - **Pre-mix testing**: Test your soil mix before planting — amendments can be adjusted in the mix
 - **Runoff pH/EC testing**: Collect runoff water from watering to monitor what's leaching. pH 6.0–7.0, EC depends on stage
@@ -153,7 +153,7 @@ For [[cannabis-indoor-living-soil]] beds:
 |------------------------|---------------|
 | pH < 5.5 | Lime (calcitic for Ca, dolomitic if Mg also needed). Retest in 3–6 months. |
 | pH > 7.5 | Elemental sulfur (1–5 lbs/100 sq ft depending on CEC). Add organic matter. |
-| OM < 3% | Add 1–2 inches compost annually. Start [[cover-cropping]]. Reduce tillage. |
+| OM < 3% | Add 1–2 inches compost annually. Start [[cover-cropping-guide]]. Reduce tillage. |
 | P very low | Rock phosphate (long-term) + bone meal (short-term) + inoculate [[mycorrhizal-fungi]]. |
 | K very low | Kelp meal, greensand, wood ash (sparingly — also raises pH). |
 | Ca < 60% base sat | Calcitic lime, gypsum (if pH OK), [[water-soluble-calcium-wca]]. |
@@ -165,7 +165,7 @@ For [[cannabis-indoor-living-soil]] beds:
 
 - [[soil-testing]] — what to test, labs, DIY methods, sampling technique
 - [[soil-fertility-management]] — comprehensive fertility framework, COF recipe, NPK details
-- [[soil-food-web]] — the biological engine that makes nutrients available
+- [[soil-food-web-nutrient-cycling]] — the biological engine that makes nutrients available
 - [[cannabis-plant-nutrition]] — cannabis-specific nutrient needs and organic sources
 - [[dynamic-accumulators]] — plants that mine minerals for you
 - [[knf-preparations]] — biological inputs as alternative to mineral amendments
@@ -173,9 +173,9 @@ For [[cannabis-indoor-living-soil]] beds:
 ## Related
 
 - [[animal-byproducts]]
-- [[cover-cropping]]
+- [[cover-cropping-guide]]
 - [[effective-microorganisms-em]]
 - [[mycorrhizal-fungi]]
-- [[cannabis-indoor-living-soil]]
+- [[cannabis-living-soil-guide]]
 - [[water-soluble-calcium-wca]]
 - [[nutritive-cycle-theory]]

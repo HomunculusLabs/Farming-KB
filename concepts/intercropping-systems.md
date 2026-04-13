@@ -170,5 +170,5 @@ An LER > 1.0 means intercropping produces more total yield than growing the same
 - [[companion-planting-reference]] for specific plant pairings
 - [[crop-rotation-principles]] for temporal crop diversification
 - [[succession-planting]] for timing strategies
-- [[cover-crops-guide]] for intercropping with non-cash crops
+- [[cover-cropping-guide]] for intercropping with non-cash crops
 - [[trap-cropping]] for pest management within intercrops

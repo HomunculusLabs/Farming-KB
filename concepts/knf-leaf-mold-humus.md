@@ -93,5 +93,5 @@ A simple extraction method:
 - [[fermented-mixed-compost-fmc]] — leaf mold in FMC production
 - [[knf-mineral-liquid]] — mineral liquid for soil ecosystem balance
 - [[composting-systems]] — other composting methods
-- [[soil-food-web]] — how leaf mold feeds the soil food web
+- [[soil-food-web-nutrient-cycling]] — how leaf mold feeds the soil food web
 - [[mulching-guide]] — leaf mold as mulch material

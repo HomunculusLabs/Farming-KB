@@ -27,7 +27,7 @@ sources:
 
 # Psilocybin Mushroom Chemistry
 
-Chemical composition, analysis methods, biosynthetic pathways, and alkaloid profiles of psilocybin-containing mushrooms. Based on [[jochen-gartz]]'s extensive HPLC analyses and the broader literature. See also [[psilocybin-mushroom-effects-and-safety]] for pharmacology and [[psilocybe-genus-classification]] for taxonomy.
+Chemical composition, analysis methods, biosynthetic pathways, and alkaloid profiles of psilocybin-containing mushrooms. Based on [[jochen-gartz]]'s extensive HPLC analyses and the broader literature. See also [[psilocybin-mushroom-chemistry]] for pharmacology and [[psilocybe-genus-classification]] for taxonomy.
 
 ## Major Psychoactive Compounds
 
@@ -95,7 +95,7 @@ The characteristic blue-green bruising of psilocybin mushrooms is caused by oxid
 - **Structure:** Unique quaternary ammonium compound with three methyl groups on the nitrogen
 - **Discovery:** First isolated by [[jochen-gartz]] from Inocybe aeruginascens
 - **Distribution:** Only known from I. aeruginascens (possibly present in a few other Inocybe species)
-- **Pharmacology:** Unknown; Gartz hypothesized it may have euphoriant properties (see [[inocybe-aeruginascens]] and [[psilocybin-mushroom-effects-and-safety]])
+- **Pharmacology:** Unknown; Gartz hypothesized it may have euphoriant properties (see [[inocybe-aeruginascens]] and [[psilocybin-mushroom-chemistry]])
 - **Significance:** The only known tryptamine alkaloid with a quaternary ammonium group found in nature
 
 ### Other Compounds

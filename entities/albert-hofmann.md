@@ -67,7 +67,7 @@ Hofmann's discoveries fundamentally shaped the 20th century's understanding of c
 
 - [[r-gordon-wasson]] — Colleague who brought psilocybin mushrooms from Mexico for Hofmann to analyze
 - [[jonathan-ott]] — Translated Hofmann's autobiography into English
-- [[richard-evans-schultes]] — Co-author of Plants of the Gods
+- [[richard-evans-schultes-updated]] — Co-author of Plants of the Gods
 - [[alexander-shulgin]] — Chemist who continued Hofmann's tradition of synthesizing new psychedelic compounds
 - [[psychedelic-mushroom-history]] — History of psychedelic mushroom discovery and use
 - [[entheogen-culture]] — Sacred plant use across cultures

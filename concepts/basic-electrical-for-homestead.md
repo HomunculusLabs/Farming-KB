@@ -173,5 +173,5 @@ Electrical mistakes can kill. The cost of hiring an electrician is always less t
 ## Related Concepts
 
 - [[barn-construction-reference]] — Building and construction infrastructure for the homestead
-- [[mushroom-foraging-safety]] — Safety principles and risk management across homestead systems
+- [[mushroom-foraging-safety-guide]] — Safety principles and risk management across homestead systems
 - [[emergency-preparedness]] — Backup power considerations during electrical outages

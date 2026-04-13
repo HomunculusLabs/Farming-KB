@@ -71,7 +71,7 @@ A core permaculture principle is that every output of one system becomes an inpu
   - **Bone char production:** Char bones at 400-600F in a covered container (not open flame — that produces ash); charred bones retain phosphorus structure while becoming porous; crush to 0.5-1 in pieces for WCP extraction
   - **Bone meal:** Dry bones thoroughly, then grind in a heavy-duty blender or hammer mill; apply at 1-2 lbs per 100 sq ft for slow-release phosphorus and calcium; NPK approximately 3-15-0
   - **Stock pot broth:** Large bones (goat, poultry) simmered 12-24 hours for mineral-rich broth; remaining bones can then be charred or composted
-  - **Vermicompost enhancer:** Crushed bones added to [[vermicompost]] bins provide slow-release calcium and phosphorus for worms
+  - **Vermicompost enhancer:** Crushed bones added to [[vermicomposting]] bins provide slow-release calcium and phosphorus for worms
 - **Safety:** Always char or compost bones; raw bones attract pests; bone meal from cooked/slaughtered animals is safe; avoid bones from diseased animals
 
 ## Blood Meal
@@ -102,7 +102,7 @@ A core permaculture principle is that every output of one system becomes an inpu
 - **For ducks:** 4-6 in starting depth; add 1-2 in of fresh bedding weekly; clean out fully 2-4x/year; finished material is excellent compost
 - **For goats:** 6-12 in starting depth in shelter; add carbon as needed to keep surface dry; clean out annually in spring
 - **Management:** Keep top layer dry (add more carbon); monitor ammonia smell (add more carbon); ensure drainage; occasional turning with a pitchfork speeds decomposition
-- **Output:** Rich, partially decomposed material that finishes quickly in a compost bin; high in nitrogen and microbial activity; ideal for [[vermicompost]] pre-composting or direct garden incorporation after curing
+- **Output:** Rich, partially decomposed material that finishes quickly in a compost bin; high in nitrogen and microbial activity; ideal for [[vermicomposting]] pre-composting or direct garden incorporation after curing
 
 ## Integration with KNF Preparations
 

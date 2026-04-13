@@ -143,4 +143,4 @@ sunlight. Store dried leaves in airtight containers away from light.
 - [[cannabis-living-soil-guide]] -- comfrey biomass feeds soil biology in no-till systems
 - [[knf-preparations]] -- Korean Natural Farming fermented plant juices can be made from
   comfrey leaves
-- [[cover-cropping]] -- comfrey functions as a living mulch and green manure
+- [[cover-cropping-guide]] -- comfrey functions as a living mulch and green manure

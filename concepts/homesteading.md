@@ -27,18 +27,18 @@ Homesteading is the practice of self-sufficient living on a small plot of land, 
 ## Core Elements
 
 ### Food Production
-- **Vegetable gardening** — intensive and extensive approaches; see [[nutrient-dense-gardening]] and [[no-till-farming]]
+- **Vegetable gardening** — intensive and extensive approaches; see [[nutrient-dense-gardening]] and [[no-till-gardening-method]]
 - **Food forests** — perennial food systems; see [[food-forest-design]]
 - **Animal husbandry** — poultry, goats, rabbits for eggs, meat, dairy, manure; see [[duck-keeping]], [[goat-keeping]]
-- **Seed saving** — maintain genetic diversity and self-reliance; see [[seed-saving]]
+- **Seed saving** — maintain genetic diversity and self-reliance; see [[seed-saving-techniques]]
 
 ### Food Preservation
 - Canning (pressure and water bath)
 - Drying/dehydrating
-- Fermentation (sauerkraut, kimchi, pickles); see [[food-fermentation]]
+- Fermentation (sauerkraut, kimchi, pickles); see [[food-fermentation-guide]]
 - Root cellaring and cold storage
 - Freezing
-- See [[food-preservation]] for comprehensive methods
+- See [[food-preservation-canning]] for comprehensive methods
 
 ### Water Systems
 - Rainwater harvesting
@@ -50,7 +50,7 @@ Homesteading is the practice of self-sufficient living on a small plot of land, 
 - Solar electric and hot water
 - Wood heating
 - Humanure composting; see [[humanure-composting]]
-- See [[homestead-renewable-energy]]
+- See [[homestead-energy-conservation]]
 
 ## Homestead Design
 
@@ -99,7 +99,7 @@ Priority skill progression:
 6. **Seed saving** — reduce dependency on purchased seed
 7. **Fermentation** — enhance nutrition and preservation
 8. **Foraging** — utilize wild food sources
-9. **First aid** — see [[homestead-first-aid]]
+9. **First aid** — see [[homestead-first-aid-guide]]
 10. **Mechanical repair** — maintain tools and equipment
 
 ## Economic Considerations
@@ -124,7 +124,7 @@ Priority skill progression:
 - [[permaculture-design]] — design framework for homesteads
 - [[food-forest-design]] — perennial food systems
 - [[nutrient-dense-gardening]] — maximizing food quality
-- [[food-preservation]] — extending harvest
+- [[food-preservation-canning]] — extending harvest
 - [[seasonal-planning]] — organizing the year
 - [[emergency-preparedness]] — resilience planning
 - [[homestead-startup-checklist]] — getting started guide

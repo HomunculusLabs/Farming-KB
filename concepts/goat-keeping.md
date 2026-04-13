@@ -31,7 +31,7 @@ sources:
 
 # Goat Keeping for the Small Homestead
 
-Goats are versatile, intelligent animals suited to small-acreage homesteads. They provide milk, meat, fiber, and [[vermicompost]] while clearing brush and browse. Goats are browsers (not grazers) — they prefer weeds, brush, leaves, and tree branches over [[pasture-management]] grass.
+Goats are versatile, intelligent animals suited to small-acreage homesteads. They provide milk, meat, fiber, and [[vermicomposting]] while clearing brush and browse. Goats are browsers (not grazers) — they prefer weeds, brush, leaves, and tree branches over [[pasture-management]] grass.
 
 ## Breed Selection
 
@@ -56,7 +56,7 @@ Goats are versatile, intelligent animals suited to small-acreage homesteads. The
 
 ## Feed, Forage, and Pasture Management
 
-- **Browse is primary:** Goats thrive on brush, weeds, tree leaves, brambles, and forbs; rotational browsing prevents parasite load (see [[cover-cropping]] for integrated systems)
+- **Browse is primary:** Goats thrive on brush, weeds, tree leaves, brambles, and forbs; rotational browsing prevents parasite load (see [[cover-cropping-guide]] for integrated systems)
 - **Pasture:** Supplemental grass pasture is fine but not sufficient alone; provide 2-4% body weight in dry matter daily
 - **Hay:** Good quality grass or grass-legume hay free-choice when pasture is insufficient; 2-4 lbs/day for a Nigerian Dwarf, 4-6 lbs/day for a full-size doe
 - **Grain:** Only for lactating does, growing kids, or underweight animals; 1 lb grain per 3 lbs milk produced; avoid overfeeding grain (causes acidosis)
@@ -121,7 +121,7 @@ Goats are versatile, intelligent animals suited to small-acreage homesteads. The
 
 - [[integrated-homestead-design]]
 - [[seasonal-planning]]
-- [[regenerative-agriculture]]
+- [[regenerative-agriculture-history]]
 - [[animal-harvest-and-processing]] — ethical harvesting, butchering, cuts, curing, sausage, rendering
 - [[cheese-making-basics]]
-- [[soap-and-candle-making]]
+- [[soap-making-guide]]

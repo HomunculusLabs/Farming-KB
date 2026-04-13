@@ -180,9 +180,9 @@ Gil Carandang's Philippine approach uses simpler equipment (plastic OK), shorter
 
 - [[knf-preparations]] — all KNF inputs overview
 - [[bionutrients-guide]] — Carandang's bionutrient system pairing with BIM
-- [[soil-food-web]] — what IMO does in the soil
+- [[soil-food-web-nutrient-cycling]] — what IMO does in the soil
 - [[jadam-methods]] — JADAM's alternative microorganism solution (JMS)
-- [[lactic-acid-bacteria]] — LAB serum recipe (key component of BIM)
+- [[lactic-acid-bacteria-lab]] — LAB serum recipe (key component of BIM)
 - [[fermented-mixed-compost-fmc]] — FMC uses IMO-4 as base
 
 ## Related

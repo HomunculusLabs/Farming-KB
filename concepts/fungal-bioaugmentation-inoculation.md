@@ -95,7 +95,7 @@ Laboratory studies use pure cultures, controlled environments, single chemicals,
 ## Links
 
 - [[mycoremediation-basics]] -- Overview and theory
-- [[fungal-ligninolytic-enzyme-systems]] -- Enzyme mechanisms
+- [[fungal-enzyme-systems-bioremediation]] -- Enzyme mechanisms
 - [[mycoremediation-techniques]] -- Deployment methods
-- [[mycoremediation-petroleum-hydrocarbons]] -- Petroleum-specific remediation
+- [[mycoremediation-of-oil-spills]] -- Petroleum-specific remediation
 - [[fungal-ecosystem-roles]] -- Ecological context

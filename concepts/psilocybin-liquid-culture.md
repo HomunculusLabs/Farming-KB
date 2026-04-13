@@ -94,5 +94,5 @@ Gottlieb describes a simple home test: dry and pulverize mushroom sample, extrac
 - [[psilocybin-mushroom-cultivation]] — Species overview, PF TEK, monotub, G2G, light requirements
 - [[psilocybin-fruiting-chambers]] — Fruiting stages, chamber construction, casing, drying
 - [[mushroom-cultivation-basics]] — General agar, spawn, and substrate methods
-- [[mushroom-sterile-technique]] — Modern sterile technique (SAB, flow hood)
-- [[psilocybin-mushroom-potency]] — Comparative potency data and dosage guidelines
+- [[mushroom-sterile-technique-detailed]] — Modern sterile technique (SAB, flow hood)
+- [[psilocybin-mushroom-chemistry]] — Comparative potency data and dosage guidelines

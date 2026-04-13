@@ -158,7 +158,7 @@ For fruits/vegetables during drought (to prevent cracking when rains arrive):
 - Best applied early morning or late evening (avoid midday heat -- UV kills microbes)
 - Do not mix inputs with chemical fertilizers or pesticides
 - Fresh IMO from [[indigenous-microorganisms-imo]] is the foundation -- all other inputs work best when soil biology is active
-- For cannabis in [[cannabis-indoor-living-soil]], use lower dilution rates (1:300-500) for soil drenches
+- For cannabis in [[cannabis-living-soil-guide]], use lower dilution rates (1:300-500) for soil drenches
 - All NF inputs are typically diluted at 1:1000 unless otherwise specified
 - Apply IMO-4 and FMC 2-3 hours before sunset or on cloudy days to prevent UV damage to microorganisms
 
@@ -178,8 +178,8 @@ Cho's system extends natural farming to animals: no artificial heating (fermenti
 - [[fermented-plant-extract-fpe]] — FPJ/FFJ detailed recipes
 - [[fish-amino-acid-faa]] — FAA recipe and application
 - [[oriental-herbal-nutrient-ohn]] — OHN recipe
-- [[lactic-acid-bacteria]] — LAB serum recipe
-- [[soil-food-web]] — why biological inputs work
+- [[lactic-acid-bacteria-lab]] — LAB serum recipe
+- [[soil-food-web-nutrient-cycling]] — why biological inputs work
 - [[jadam-methods]] — JADAM's parallel approach to self-made inputs
 - [[nutritive-cycle-theory]] — Cho's growth stage framework
 - [[fermented-mixed-compost-fmc]] — FMC recipe for soil building

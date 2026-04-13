@@ -157,7 +157,7 @@ Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide al
 ## Related Topics
 
 - [[saprotrophic-fungi]] — Decomposer fungi general
-- [[fungal-spore-dispersal-mechanisms]] — Spore launch physics
+- [[fungal-spore-biology]] — Spore launch physics
 - [[fungal-ecology]] — Fungal ecology overview
 - [[fungal-biodiversity-biogeography]] — Global fungal diversity patterns
-- [[soil-food-web]] — Nutrient cycling in ecosystems
+- [[soil-food-web-nutrient-cycling]] — Nutrient cycling in ecosystems

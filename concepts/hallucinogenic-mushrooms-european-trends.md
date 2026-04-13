@@ -99,11 +99,11 @@ The EMCDDA's Early Warning System (EWS) was instrumental in tracking the emergen
 - [[mushroom-identification]] -- Safe identification practices
 - [[psychedelic-compounds-reference]] -- Compound pharmacology and safety
 - [[psilocybin-liquid-culture]] — Mycelial liquid culture technique (Gottlieb)
-- [[psilocybin-mycelium-extraction]] — Post-harvest alkaloid extraction (Gottlieb)
+- [[psilocybin-extraction-guide]] — Post-harvest alkaloid extraction (Gottlieb)
 - [[psilocybin-large-scale-production]] — Room design and production workflow (Gottlieb)
-- [[psilocybin-mushroom-potency]] — Potency data
+- [[psilocybin-mushroom-chemistry]] — Potency data
 - [[mushroom-species-guide]] — Species profiles
 - [[amanita-muscaria-guide]] -- Amanita muscaria-specific information
-- [[psilocybin-mushroom-effects-and-safety]] -- Dose/effects/health risks (includes EMCDDA clinical data)
+- [[psilocybin-mushroom-chemistry]] -- Dose/effects/health risks (includes EMCDDA clinical data)
 - [[mushroom-legislation-worldwide]] -- Global legal status (includes EU timeline from EMCDDA)
 - [[hallucinogenic-mushrooms-european-trends]] -- This page (prevalence and market data)

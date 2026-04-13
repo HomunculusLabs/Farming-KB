@@ -22,7 +22,7 @@ sources:
 
 # Soil Health Indicators
 
-Healthy soil can be assessed through biological, physical, and chemical indicators. While lab tests measure chemistry, the most important indicators of soil health are biological — visible signs of a thriving [[soil-food-web]].
+Healthy soil can be assessed through biological, physical, and chemical indicators. While lab tests measure chemistry, the most important indicators of soil health are biological — visible signs of a thriving [[soil-food-web-nutrient-cycling]].
 
 ## Biological Indicators
 
@@ -48,7 +48,7 @@ Healthy soil can be assessed through biological, physical, and chemical indicato
 - Require a microscope but are critical indicators
 - Protozoa graze on bacteria, releasing plant-available nitrogen
 - Beneficial nematodes indicate balanced predator-prey dynamics
-- See [[soil-food-web-advanced]] for the full trophic cascade
+- See [[soil-food-web-nutrient-cycling]] for the full trophic cascade
 
 ## Physical Indicators
 
@@ -105,8 +105,8 @@ The simplest soil health assessment:
 
 ## See Also
 
-- [[soil-food-web]] — the biological system these indicators measure
+- [[soil-food-web-nutrient-cycling]] — the biological system these indicators measure
 - [[soil-testing]] — laboratory testing methods
 - [[compost-tea-aact]] — how to restore soil biology
-- [[no-till-farming]] — practices that protect soil health
-- [[soil-food-web]] — the philosophy of biological soil management
+- [[no-till-gardening-method]] — practices that protect soil health
+- [[soil-food-web-nutrient-cycling]] — the philosophy of biological soil management

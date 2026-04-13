@@ -88,7 +88,7 @@ Certain cover crops suppress nematode populations through natural chemical compo
 - **Sorghum-sudangrass**: Roots release a natural nematicide (sorgoleone). Incorporate the green manure at peak growth for maximum effect.
 - **Mustard**: Biofumigant glucosinolates suppress nematodes. See [[green-manure-crops]] for biofumigation protocol.
 - **Daikon radish**: Moderate biofumigant effect; breaks compaction, improving root growth of subsequent crops.
-- See [[cover-crops-guide]] and [[crop-rotation-principles]] for comprehensive rotation planning.
+- See [[cover-cropping-guide]] and [[crop-rotation-principles]] for comprehensive rotation planning.
 
 ## Marigolds for Nematode Control
 
@@ -187,7 +187,7 @@ A comprehensive approach combining multiple strategies:
 
 ## Related Topics
 
-- [[cover-crops-guide]] for cover crop selection in nematode management
+- [[cover-cropping-guide]] for cover crop selection in nematode management
 - [[crop-rotation-principles]] for rotation planning
 - [[green-manure-crops]] for biofumigant cover crops
 - [[beneficial-insects-guide]] for beneficial nematode use against insect pests

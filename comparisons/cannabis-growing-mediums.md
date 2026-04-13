@@ -27,7 +27,7 @@ sources:
 
 # Cannabis Growing Mediums Comparison
 
-The growing medium is the foundation of any cannabis cultivation system. It determines nutrient availability, root health, microbial activity, water management, and ultimately bud quality. This comparison covers eight major approaches from fully organic living soil to high-tech aeroponics, synthesized from [[cannabis-indoor-living-soil]], [[cannabis-plant-nutrition]], [[soil-food-web]], and [[aquaponics]].
+The growing medium is the foundation of any cannabis cultivation system. It determines nutrient availability, root health, microbial activity, water management, and ultimately bud quality. This comparison covers eight major approaches from fully organic living soil to high-tech aeroponics, synthesized from [[cannabis-living-soil-guide]], [[cannabis-plant-nutrition]], [[soil-food-web-nutrient-cycling]], and [[aquaponics]].
 
 The central tradeoff is biological complexity vs. environmental control. Living soil and amended soil systems rely on microbial ecosystems to deliver nutrients, producing superior flavor and terpene profiles but requiring patience and biological knowledge. Hydroponic systems deliver nutrients directly in solution, enabling faster growth and higher yields but sacrificing the complexity that living soil biology contributes to cannabinoid and terpene production.
 
@@ -46,7 +46,7 @@ The central tradeoff is biological complexity vs. environmental control. Living 
 
 ## Living Soil Deep Dive
 
-Living soil as described in [[cannabis-indoor-living-soil]] is built on the soil food web concept from [[soil-food-web]]. The grower feeds the microbiome (bacteria, fungi, protozoa, nematodes), which in turn makes nutrients bioavailable to cannabis roots. Cannabis recruits specific microbial communities from the bulk soil, with cultivar-specificity in the root interior (endorhiza). Key practices: no-till rotation over multiple grows, compost tea drenches, mulch layer, and KNF inputs ([[knf-preparations]]).
+Living soil as described in [[cannabis-living-soil-guide]] is built on the soil food web concept from [[soil-food-web-nutrient-cycling]]. The grower feeds the microbiome (bacteria, fungi, protozoa, nematodes), which in turn makes nutrients bioavailable to cannabis roots. Cannabis recruits specific microbial communities from the bulk soil, with cultivar-specificity in the root interior (endorhiza). Key practices: no-till rotation over multiple grows, compost tea drenches, mulch layer, and KNF inputs ([[knf-preparations]]).
 
 The base mix is typically 40% peat moss, 30% aeration (pumice/perlite/rice hulls), 20% compost, 10% worm castings. Amendments include kelp meal, crab meal, neem seed meal, bone meal, rock phosphate, and gypsum. Inoculants (mycorrhizae, trichoderma) establish the fungal network. A mulch layer of straw or cardboard retains moisture and feeds surface microbes.
 
@@ -54,7 +54,7 @@ Advantages: soil improves over 3-6 cycles, input costs decrease over time, no pH
 
 ## Hydroponic vs. Soil: The Yield-Quality Tradeoff
 
-Hydroponic systems (DWC, ebb and flow, aeroponics) consistently produce higher yields per watt because nutrients are immediately available and oxygenation at the root zone is maximized. However, multiple sources and grower reports indicate that living soil produces more complex terpene and cannabinoid profiles. The [[cannabis-indoor-living-soil]] approach prioritizes quality over maximum yield, which aligns with regenerative homesteading values.
+Hydroponic systems (DWC, ebb and flow, aeroponics) consistently produce higher yields per watt because nutrients are immediately available and oxygenation at the root zone is maximized. However, multiple sources and grower reports indicate that living soil produces more complex terpene and cannabinoid profiles. The [[cannabis-living-soil-guide]] approach prioritizes quality over maximum yield, which aligns with regenerative homesteading values.
 
 ## Coco Coir as a Middle Ground
 
@@ -82,12 +82,12 @@ Aquaponics (from [[aquaponics]]) combines fish farming with hydroponic growing. 
 
 ## Verdict
 
-For homestead growers prioritizing quality, sustainability, and integration with broader farm systems, [[cannabis-indoor-living-soil]] in a no-till bed is the clear winner. It produces the best flavor, has the lowest ongoing costs after initial setup, and improves with each grow cycle. For growers prioritizing maximum yield and speed, DWC hydroponics delivers the highest performance but at the cost of flavor complexity and environmental sustainability. Coco coir drain-to-waste is a strong middle ground — easier than hydroponics, faster than living soil, with good quality when using organic liquid nutrients.
+For homestead growers prioritizing quality, sustainability, and integration with broader farm systems, [[cannabis-living-soil-guide]] in a no-till bed is the clear winner. It produces the best flavor, has the lowest ongoing costs after initial setup, and improves with each grow cycle. For growers prioritizing maximum yield and speed, DWC hydroponics delivers the highest performance but at the cost of flavor complexity and environmental sustainability. Coco coir drain-to-waste is a strong middle ground — easier than hydroponics, faster than living soil, with good quality when using organic liquid nutrients.
 
 ## See Also
 
-- [[cannabis-indoor-living-soil]] — Complete living soil setup and management
-- [[soil-food-web]] — The biological foundation of living soil
+- [[cannabis-living-soil-guide]] — Complete living soil setup and management
+- [[soil-food-web-nutrient-cycling]] — The biological foundation of living soil
 - [[cannabis-plant-nutrition]] — Nutrient needs and organic sources
 - [[organic-nutrients-vs-synthetic-nutrients]] — Fertilizer approach comparison
 - [[aquaponics]] — Integrated fish and plant production system

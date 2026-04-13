@@ -55,7 +55,7 @@ Palmer noted in 1894 that "the very name cryptogamy shows our ignorance; the sec
 
 Palmer observed that spores thrown on ground rarely produced mushrooms: "I have thrown the refuse of hundreds of fungi [on soil], and the soil must have received millions of spores, yet not a toadstool of any kind has ever grown there." The transition from spore to mycelium (spawn) remains one of the more poorly understood aspects of fungal biology, with many species requiring specific conditions for successful germination and colonization.
 
-See also: [[fungal-biology-fundamentals]] | [[fungal-spore-dispersal-mechanisms]] | [[nineteenth-century-mushroom-cultivation]]
+See also: [[fungal-biology-fundamentals]] | [[fungal-spore-biology]] | [[nineteenth-century-mushroom-cultivation]]
 
 ## Related
 

@@ -25,7 +25,7 @@ sources:
 
 Gottlieb's design for a dedicated 10x15 ft production room for bulk psilocybin mushroom cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
 
-Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-mycelium-extraction]]
+Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 
 ## Room Design (Gottlieb, 1976)
 
@@ -158,6 +158,6 @@ Gottlieb estimated total startup cost at approximately $100-150 (1976 dollars) f
 
 - [[psilocybin-fruiting-chambers]] — Detailed fruiting chamber construction and management
 - [[psilocybin-liquid-culture]] — Pure culture preparation and maintenance
-- [[psilocybin-mycelium-extraction]] — Post-harvest alkaloid extraction
+- [[psilocybin-extraction-guide]] — Post-harvest alkaloid extraction
 - [[psilocybin-mushroom-cultivation]] — General cultivation overview
-- [[mushroom-sterile-technique]] — Comprehensive contamination prevention
+- [[mushroom-sterile-technique-detailed]] — Comprehensive contamination prevention

@@ -192,5 +192,5 @@ Fertigation delivers soluble fertilizers through the drip system, providing nutr
 
 - [[rainwater-harvesting-systems]] for water source options
 - [[water-management]] for broader water strategy
-- [[season-extension-structures]] for irrigation in protected culture
-- [[cover-crops-guide]] for reducing irrigation needs through soil improvement
+- [[season-extension-techniques]] for irrigation in protected culture
+- [[cover-cropping-guide]] for reducing irrigation needs through soil improvement

@@ -22,7 +22,7 @@ sources:
 
 # Hallucinogenic Plant Chemistry
 
-The chemical basis of plant hallucinogens, organized by structural family. Based on [[richard-evans-schultes]]'s Golden Guide to Hallucinogenic Plants (1976) and modern pharmacology.
+The chemical basis of plant hallucinogens, organized by structural family. Based on [[richard-evans-schultes-updated]]'s Golden Guide to Hallucinogenic Plants (1976) and modern pharmacology.
 
 ## Overview
 
@@ -122,6 +122,6 @@ These similarities may explain hallucinogenic activity and help elucidate normal
 ## See Also
 
 - [[psychedelic-compounds-reference]] for dosage and modern compound data
-- [[hallucinogenic-plants-world-survey]] for ethnobotanical context
+- [[hallucinogenic-plants-new-world]] for ethnobotanical context
 - [[dmt-reference]] for detailed DMT pharmacology
 - [[mescaline-reference]] for mescaline details

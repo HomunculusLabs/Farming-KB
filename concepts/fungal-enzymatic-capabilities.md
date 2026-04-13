@@ -10,7 +10,7 @@ sources:
 
 # Fungal Enzymatic Capabilities
 
-Extracellular enzyme systems of fungi: lignin degradation, cellulose decomposition, chitinases, phosphatases, proteases, and applications in bioremediation and biotechnology. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ligninolytic-enzyme-systems]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-ecology-decomposition-cycles]], and [[mycoremediation-basics]].
+Extracellular enzyme systems of fungi: lignin degradation, cellulose decomposition, chitinases, phosphatases, proteases, and applications in bioremediation and biotechnology. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-enzyme-systems-bioremediation]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-ecology-decomposition-cycles]], and [[mycoremediation-basics]].
 
 ## Overview
 
@@ -169,11 +169,11 @@ Fungal enzymes are central to [[mycoremediation-basics]]:
 
 ## Related Pages
 
-- [[fungal-ligninolytic-enzyme-systems]] -- detailed lignin-degrading enzyme systems
+- [[fungal-enzyme-systems-bioremediation]] -- detailed lignin-degrading enzyme systems
 - [[fungal-nutrient-cycling-mineral-transformations]] -- nutrient cycling roles
 - [[fungal-ecology-decomposition-cycles]] -- decomposition succession
 - [[mycoremediation-basics]] -- bioremediation overview
 - [[mycoremediation-pahs]] -- PAH degradation
-- [[mycoremediation-petroleum-hydrocarbons]] -- petroleum cleanup
+- [[mycoremediation-of-oil-spills]] -- petroleum cleanup
 - [[mushroom-species-guide]] -- cultivation-appropriate species
 - [[fungal-enzyme-systems-bioremediation]]

@@ -62,7 +62,7 @@ Mollison's work laid the foundation for the global permaculture movement, which 
 - [[food-forest-design]] — Permaculture food forest systems
 - [[water-management]] — Water design in permaculture
 - [[sepp-holzer-methods]] — Austrian permaculture practitioner
-- [[regenerative-agriculture]] — Broader regenerative movement
+- [[regenerative-agriculture-history]] — Broader regenerative movement
 
 
 See also: [[sepp-holzer]] for details on sepp holzer.

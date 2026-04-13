@@ -177,7 +177,7 @@ Key facts:
 |---------|-----------|------------|-------|
 | **Oyster** (Pleurotus ostreatus) | Straw, paper, wood chips | Easy | Grows on almost anything, fast |
 | **Shiitake** (Lentinula edodes) | Logs or sawdust blocks | Medium | High-value, reliable |
-| **Wine Cap** (Stropharia rugosoannulata) | Wood chips, straw | Easy | Outdoor beds, great for [[regenerative-agriculture]] |
+| **Wine Cap** (Stropharia rugosoannulata) | Wood chips, straw | Easy | Outdoor beds, great for [[regenerative-agriculture-history]] |
 | **Lion's Mane** (Hericium erinaceus) | Sawdust | Medium | Medicinal, distinctive appearance |
 | **King Oyster** (Pleurotus eryngii) | Straw, sawdust | Easy | Large, meaty, long shelf life |
 
@@ -186,14 +186,14 @@ Key facts:
 - Use wood chip inoculation in [[food-forest-design]] zones for soil building
 - Spent mushroom substrate is protein-enriched — use as livestock feed or compost
 - Mushroom cultivation converts "waste" (straw, wood chips, coffee grounds) into food
-- See [[regenerative-agriculture]] for the ZERI zero-emissions model
+- See [[regenerative-agriculture-history]] for the ZERI zero-emissions model
 - See [[mycorrhizal-fungi]] for symbiotic soil fungi (different from cultivated mushrooms)
 
 ## See Also
 
 - [[mycorrhizal-fungi]] — symbiotic plant-fungal relationships
-- [[soil-food-web]] — fungi in the soil ecosystem
-- [[regenerative-agriculture]] — mycoforestry, mycoremediation
-- [[vermicompost]] — spent substrate as worm food
+- [[soil-food-web-nutrient-cycling]] — fungi in the soil ecosystem
+- [[regenerative-agriculture-history]] — mycoforestry, mycoremediation
+- [[vermicomposting]] — spent substrate as worm food
 - [[inoculation-methods]] — spore, spawn, and stem butt techniques (from Mycelium Running Ch.9)
 - [[straw-cultivation-methods]] — pasteurization and low-tech straw growing (from Mycelium Running Ch.10)

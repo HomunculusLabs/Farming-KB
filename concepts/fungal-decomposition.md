@@ -27,7 +27,7 @@ sources:
 
 Fungi are the primary decomposers of lignocellulosic material in terrestrial ecosystems. Their ability to break down the structural polymers of wood — cellulose, hemicellulose, and lignin — underpins nutrient cycling, soil formation, and carbon sequestration worldwide.
 
-Related: [[soil-food-web]], [[mycoremediation-basics]]
+Related: [[soil-food-web-nutrient-cycling]], [[mycoremediation-basics]]
 
 ## Wood Composition
 
@@ -106,7 +106,7 @@ Fungi are fundamental to pedogenesis (soil formation):
 
 - [[harbhajan-singh]]
 
-- [[fungal-biology-lifecycle]]
+- [[fungal-biology-fundamentals]]
 - [[mushroom-composting-and-recycling]]
 - [[mycorrhizal-fungi]]
 - [[mushroom-species-guide]]

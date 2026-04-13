@@ -28,7 +28,7 @@ sources:
 
 # Food Forest Layers and Species
 
-Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-8, with guild examples, spacing, nitrogen fixers, pollination partners, succession timeline, and animal integration. See [[food-forest-design]] for design principles and [[permaculture-plants-reference]] for the full plant catalog.
+Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-8, with guild examples, spacing, nitrogen fixers, pollination partners, succession timeline, and animal integration. See [[food-forest-design]] for design principles and [[permaculture-useful-plants-reference]] for the full plant catalog.
 
 ## Species by Layer (Zones 7-8)
 
@@ -186,5 +186,5 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 - [[berry-growing]] — Berry planning, IPM, seasonal calendar
 - [[duck-keeping]] — Duck breeds, housing, forage, manure
 - [[fruit-tree-varieties]] — Detailed variety tables for zone 7-8
-- [[permaculture-plants-reference]] — Full plant function catalog
-- [[companion-planting]] — Polyculture design combinations
+- [[permaculture-useful-plants-reference]] — Full plant function catalog
+- [[companion-planting-reference]] — Polyculture design combinations

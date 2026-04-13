@@ -33,9 +33,9 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 **Visit frequency**: Constant. This is the center of all activity.
 
 ### Elements
-- **Cannabis grow room**: [[cannabis-indoor-living-soil]] with [[cannabis-light-spectrums]] and [[think-grow-model-h-plus]]. Temperature/humidity controlled environment.
-- **Vermicompost bin**: Under kitchen sink or in basement. [[vermicompost]] processes daily scraps. [[bokashi]] kitchen bin for meat/dairy/bones.
-- **Kitchen**: The processing hub — [[food-preservation]], [[dairy-and-cheesemaking]], [[herbal-medicine]], [[food-fermentation]] all happen here.
+- **Cannabis grow room**: [[cannabis-living-soil-guide]] with [[cannabis-lighting-guide]] and [[think-grow-model-h-plus]]. Temperature/humidity controlled environment.
+- **Vermicompost bin**: Under kitchen sink or in basement. [[vermicomposting]] processes daily scraps. [[bokashi]] kitchen bin for meat/dairy/bones.
+- **Kitchen**: The processing hub — [[food-preservation-canning]], [[dairy-and-cheesemaking]], [[herbal-medicine]], [[food-fermentation-guide]] all happen here.
 - **KNF brewing area**: [[knf-preparations]] — FPJ, FAA, LAB, OHN, WCA fermenting on shelves. Label everything with date and dilution rate.
 - **Sprouting and microgreens**: Shelves near a window for daily fresh greens.
 - **Seed starting**: Under grow lights or in windows before greenhouse is warm enough.
@@ -51,10 +51,10 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 **Visit frequency**: 1-5 times daily. Immediately outside the house.
 
 ### Elements
-- **Annual vegetable beds**: No-till [[no-till-farming]] beds with [[companion-planting]]. Lettuce, tomatoes, peppers, cucumbers, herbs — things you pick daily.
+- **Annual vegetable beds**: No-till [[no-till-gardening-method]] beds with [[companion-planting-reference]]. Lettuce, tomatoes, peppers, cucumbers, herbs — things you pick daily.
 - **Kitchen herb spiral**: Culinary herbs (basil, thyme, rosemary, oregano, parsley, cilantro) right outside the door. Spiral design creates microclimates (dry top, moist bottom).
 - **Greenhouse / cold frame**: [[greenhouse-design]] for season extension. Seed starting in spring, winter greens, heat-loving crops in summer.
-- **Compost system**: [[composting-systems]] bins between kitchen and garden. Hot compost, [[vermicompost]], and [[bokashi]] pre-compost all within 20 steps of the back door.
+- **Compost system**: [[composting-systems]] bins between kitchen and garden. Hot compost, [[vermicomposting]], and [[bokashi]] pre-compost all within 20 steps of the back door.
 - **Duck pond**: Small pond for 3-5 ducks ([[duck-keeping]]). Positioned for daily interaction. Overflow irrigates garden beds.
 - **Rain barrels**: 2-4 barrels on downspouts ([[homestead-water-systems]]). Fill watering cans or connect to drip irrigation ([[irrigation-systems]]).
 - **Salad and cut flower beds**: Pick-and-come-again greens, calendula, zinnias.
@@ -76,7 +76,7 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 - **Food forest edge plantings**: [[food-forest-design]] — shrub layer, herbaceous perennials, ground covers.
 - **Duck house and run**: [[duck-keeping]] — housing, egg collection, water management. Moveable electronet paddocks for rotation.
 - **Goat barn and milking stand**: [[goat-keeping]] — housing, feed storage, milking area. See [[dairy-and-cheesemaking]] for milk processing.
-- **Bee hives**: [[beekeeping]] — 2-4 hives for pollination and honey. Place with morning sun, afternoon shade, windbreak.
+- **Bee hives**: [[beekeeping-basics]] — 2-4 hives for pollination and honey. Place with morning sun, afternoon shade, windbreak.
 - **Perennial herbs**: [[herbal-medicine]] — echinacea, yarrow, lemon balm, mint (contained), chamomile.
 - **Comfrey rings**: Around every fruit tree — chop-and-drop mulch ([[dynamic-accumulators]]).
 
@@ -93,12 +93,12 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 
 ### Elements
 - **Standard fruit and nut trees**: Full-size apple, pear, chestnut, pecan, persimmon ([[food-forest-design]] canopy layer).
-- **Pasture for goats**: [[pasture-management]] — rotational grazing paddocks with [[cover-cropping]] rest periods.
+- **Pasture for goats**: [[pasture-management]] — rotational grazing paddocks with [[cover-cropping-guide]] rest periods.
 - **Main crop fields**: [[grain-and-staple-crops]] — corn, beans, squash, potatoes, grains. Also larger vegetable plantings.
-- **Cover cropping areas**: [[cover-cropping]] — clover, vetch, rye, buckwheat for soil building between crops.
+- **Cover cropping areas**: [[cover-cropping-guide]] — clover, vetch, rye, buckwheat for soil building between crops.
 - **Mushroom log cultivation**: [[mushroom-log-cultivation]] — inoculated logs stacked in shade.
 - **Larger food forest plantings**: [[food-forest-layers-and-species]] — mature guilds, vine layer, canopy trees.
-- **Firewood coppice**: [[homestead-renewable-energy]] — black locust, hazelnut, coppiced for winter heat.
+- **Firewood coppice**: [[homestead-energy-conservation]] — black locust, hazelnut, coppiced for winter heat.
 
 ### Design Tips
 - Use [[irrigation-systems]] with zone controls — different crops need different schedules.
@@ -113,10 +113,10 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 
 ### Elements
 - **Woodlot / timber**: Firewood and occasional lumber. Coppice or pollard for sustainable harvest.
-- **Wild foraging area**: [[edible-wild-mushrooms-of-north-america]] — morels, chanterelles, chicken of the woods. Also wild greens, nuts, berries.
+- **Wild foraging area**: [[edible-wild-mushrooms-by-region]] — morels, chanterelles, chicken of the woods. Also wild greens, nuts, berries.
 - **Pasture rotation overflow**: Extending [[pasture-management]] rotation into rougher terrain for goats.
 - **Pond and aquaculture**: [[pond-and-aquaculture]] — fish, duck integration, aquatic plants, irrigation reservoir.
-- **Nitrogen-fixing tree plantations**: Black locust, alder for on-farm fertility ([[permaculture-plants-reference]]).
+- **Nitrogen-fixing tree plantations**: Black locust, alder for on-farm fertility ([[permaculture-useful-plants-reference]]).
 - [[mycoremediation-basics]] sites if applicable — using fungi to clean runoff.
 
 ### Design Tips

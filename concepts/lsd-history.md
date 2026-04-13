@@ -54,7 +54,7 @@ See [[albert-hofmann]] for full biographical details.
 - Over 1,000 clinical papers and several dozen books were published
 - Humphry Osmond coined the term "psychedelic" (from Greek: psyche + deloun, "mind-revealing") in 1957
 - Two therapeutic models emerged: **psycholytic** (low-dose, repeated, analytic) and **psychedelic** (high-dose, single, mystical)
-- See [[psychedelic-therapy-history]] for detailed coverage
+- See [[psychedelic-therapy-current-research]] for detailed coverage
 
 ### Intelligence Applications
 
@@ -127,7 +127,7 @@ See [[albert-hofmann]] for full biographical details.
 - Public opinion on psychedelics has shifted dramatically since the 1990s
 - Documentaries, books, and media coverage have reframed LSD from a dangerous drug to a potentially valuable medicine
 - The 2026 landscape includes active clinical trials, growing public acceptance, and ongoing reform efforts
-- See [[psychedelic-therapy-history]] for the clinical renaissance
+- See [[psychedelic-therapy-current-research]] for the clinical renaissance
 
 ## Pharmacology Notes
 
@@ -142,6 +142,6 @@ See [[albert-hofmann]] for full biographical details.
 
 - [[albert-hofmann]] — the discoverer
 - [[timothy-leary]] — the controversial advocate
-- [[psychedelic-therapy-history]] — the therapeutic arc
+- [[psychedelic-therapy-current-research]] — the therapeutic arc
 - [[psychedelic-compounds-reference]] — pharmacology
 - [[psychedelic-mushroom-history]] — parallel history of psilocybin mushrooms

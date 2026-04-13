@@ -10,7 +10,7 @@ sources:
 
 # Fungi in Soil Food Webs
 
-Trophic structure, energy flow, biomass, and the role of fungi in soil food webs. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-bacterial-interactions]], and [[soil-food-web]].
+Trophic structure, energy flow, biomass, and the role of fungi in soil food webs. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-decomposition-cycles]], [[fungal-nutrient-cycling-mineral-transformations]], [[fungal-bacterial-interactions]], and [[soil-food-web-nutrient-cycling]].
 
 ## Overview
 
@@ -168,6 +168,6 @@ Fungal biomass and activity fluctuate seasonally:
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling
 - [[fungal-bacterial-interactions]] -- competition and cooperation
 - [[glomalin]] -- AM fungal glycoprotein for soil aggregation
-- [[soil-food-web]] -- full soil food web structure
+- [[soil-food-web-nutrient-cycling]] -- full soil food web structure
 - [[soil-food-web-nutrient-cycling]] -- nutrient cycling through the food web
-- [[no-till-farming]] -- impacts on fungal communities
+- [[no-till-gardening-method]] -- impacts on fungal communities

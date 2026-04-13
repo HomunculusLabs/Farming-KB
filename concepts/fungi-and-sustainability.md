@@ -66,7 +66,7 @@ The key virtue: mushrooms transform agricultural and organic waste into nutritio
 
 - 90% of all plants have symbiotic relationships with fungi via [[mycorrhizal-fungi]]
 - **Vesicular-arbuscular mycorrhizal fungi (VAM)** — invisible to naked eye but more important as symbionts than many mushroom-forming species; Glomus is a well-known genus; VAMs account for considerable soil fungal biodiversity (Van der Heijden et al., 1998)
-- The [[soil-food-web]]'s fungal hyphae form vast networks in the [[soil-food-web]] in complex relationships with bacteria, nematodes, and arthropods
+- The [[soil-food-web-nutrient-cycling]]'s fungal hyphae form vast networks in the [[soil-food-web-nutrient-cycling]] in complex relationships with bacteria, nematodes, and arthropods
 
 ### The Rhizosphere as Living Network
 
@@ -77,7 +77,7 @@ Paul Stamets describes the fungal rhizosphere as "a living Internet that possess
 - Build soils
 - Give habitats the ability to respond to catastrophes — natural or man-made
 
-See [[fungal-ecosystem-recovery]] for paleontological evidence of this catastrophic recovery function.
+See [[fungal-ecosystem-roles]] for paleontological evidence of this catastrophic recovery function.
 
 ### Forest Restoration
 
@@ -90,9 +90,9 @@ Matching native fungi to native tree species is a core principle of [[mycoforest
 ## See Also
 
 - [[zeri-circular-economy-systems]] — ZERI five-kingdoms circular economy model
-- [[fungal-ecosystem-recovery]] — Paleontological record of fungi after mass extinctions
+- [[fungal-ecosystem-roles]] — Paleontological record of fungi after mass extinctions
 - [[mycorestoration-framework]] — Stamets' 4-branch mycorestoration framework
 - [[mycoforestry-forest-restoration]] — Forest restoration with fungi
 - [[mycoremediation-basics]] — Fungal enzyme systems for toxin breakdown
-- [[soil-food-web]] — Bacteria, fungi, protozoa, nematodes, trophic levels
-- [[vermicomposting-detail]] — Worm composting (integrated in ZERI systems)
+- [[soil-food-web-nutrient-cycling]] — Bacteria, fungi, protozoa, nematodes, trophic levels
+- [[vermicomposting]] — Worm composting (integrated in ZERI systems)

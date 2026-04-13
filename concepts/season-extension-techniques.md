@@ -167,12 +167,12 @@ The most effective season extension combines multiple techniques:
 
 - [[seasonal-planning]] — Building your year-round planting calendar
 - [[raised-bed-gardening]] — Raised beds warm faster in spring
-- [[companion-planting]] — Strategic plant combinations for season extension
+- [[companion-planting-reference]] — Strategic plant combinations for season extension
 - [[homesteading]] — Maximizing self-sufficiency through extended seasons
 
 ## Related
 
 - [[beekeeping-basics]]
-- [[drip-irrigation]]
+- [[drip-irrigation-guide]]
 - [[seed-saving-techniques]]
 - [[cold-climate-gardening]]

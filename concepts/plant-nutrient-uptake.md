@@ -60,7 +60,7 @@ Each nutrient has an optimal pH range for root uptake:
 - **pH 6.0-7.0**: Best general range for living soil. Calcium, magnesium, and molybdenum are more available.
 - **pH >7.5**: Iron, manganese, zinc, copper, and boron become locked out (deficiency likely even if present in soil).
 - **pH <5.5**: Calcium and magnesium become deficient; aluminum and manganese may reach toxic levels.
-- The [[soil-food-web]] buffers pH naturally through microbial respiration and organic acid production.
+- The [[soil-food-web-nutrient-cycling]] buffers pH naturally through microbial respiration and organic acid production.
 
 ## Synergistic and Antagonistic Relationships
 
@@ -97,7 +97,7 @@ Chelates are organic molecules that bind mineral ions, keeping them soluble and 
 
 ## Microbial Mineralization
 
-The [[soil-food-web]] converts organic matter into plant-available nutrients:
+The [[soil-food-web-nutrient-cycling]] converts organic matter into plant-available nutrients:
 1. Bacteria and fungi decompose organic compounds (proteins, cellulose, lignin)
 2. They immobilize nutrients in their biomass (N, P, S locked in microbial cells)
 3. Protozoa and bacterial-feeding nematodes graze on microbes, excreting excess N as ammonium (NH₄⁺)
@@ -110,7 +110,7 @@ The [[soil-food-web]] converts organic matter into plant-available nutrients:
 - [[soil-fertility-management]] — COF recipe, organic nutrient sources, pH management
 - [[cannabis-plant-nutrition]] — cannabis-specific NPK, deficiency ID, amendment recipes
 - [[soil-amendment-reference]] — comprehensive amendment reference by nutrient
-- [[soil-food-web]] — organisms that drive mineralization
+- [[soil-food-web-nutrient-cycling]] — organisms that drive mineralization
 - [[mycorrhizal-networks]] — fungal nutrient uptake pathways
 - [[jeff-lowenfels]] — "Teaming With Nutrients" author
 

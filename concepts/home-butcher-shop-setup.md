@@ -145,4 +145,4 @@ Design the flow so that product moves in one direction — from receiving throug
 
 ## Integration with Homestead Systems
 
-The butcher shop connects to broader homestead production. Process rabbits from [[rabbit-processing-guide]], goats from dairy culling, and poultry from [[chickshaw-and-poultry-tractors|poultry tractor]] systems. Bone and trim scraps can be composted, used for bone broth, or fed to [[black-soldier-fly-composting|BSF composting]] bins. Coordinate with [[homestead-dairy-equipment]] if processing dairy animals as well. Water supply can be supplemented by [[rainwater-catchment-systems]] for non-potable uses (cleaning).
+The butcher shop connects to broader homestead production. Process rabbits from [[rabbit-processing-guide]], goats from dairy culling, and poultry from [[chickshaw-and-poultry-tractors|poultry tractor]] systems. Bone and trim scraps can be composted, used for bone broth, or fed to [[black-soldier-fly-composting|BSF composting]] bins. Coordinate with [[homestead-dairy-equipment]] if processing dairy animals as well. Water supply can be supplemented by [[rainwater-harvesting-systems]] for non-potable uses (cleaning).

@@ -45,7 +45,7 @@ Pollock died in 1981 under circumstances that remain controversial in the mycolo
 - [[gary-lincoff]] — co-discoverer of Psilocybe tampanensis
 - [[paul-stamets]] — colleague who acknowledged Pollock's work
 - [[sclerotia-cultivation]] — cultivation of tampanensis sclerotia
-- [[psilocybin-mushroom-distribution]] — species distribution in North America
-- [[psilocybin-mushroom-species-field-guide]] — field identification reference
+- [[psilocybin-mushroom-chemistry]] — species distribution in North America
+- [[psilocybin-mushroom-chemistry]] — field identification reference
 - [[amanita-muscaria-guide]] — Amanita muscaria, species Pollock studied in Alaska
 - [[jonathan-ott]] — colleague who commented on Pollock's amanita research

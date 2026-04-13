@@ -54,7 +54,7 @@ Jochen Gartz is a German scientist whose work spans the taxonomy, chemistry, and
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution]] — Global distribution of psychoactive species
+- [[psilocybin-mushroom-chemistry]] — Global distribution of psychoactive species
 - [[psilocybin-mushroom-chemistry]] — Detailed chemistry including Gartz's analyses
 - [[jeremy-bigwood]] — Collaborating researcher on flush variation studies
 - [[michael-beug]] — Collaborating researcher on alkaloid analysis

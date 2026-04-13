@@ -47,7 +47,7 @@ Plants measure the length of continuous darkness (not day length) to determine w
 - **Long-day plants**: Flower when nights are shorter than a critical length (irises, barley, spinach). A flash of red light in the night induces flowering.
 - **Day-neutral plants**: Flower regardless of photoperiod (tomatoes, rice).
 
-Practical application: Greenhouse growers manipulate photoperiod to control flowering. Cannabis is a short-day plant -- switching to 12/12 light cycle triggers flowering. See [[cannabis-light-spectrums]].
+Practical application: Greenhouse growers manipulate photoperiod to control flowering. Cannabis is a short-day plant -- switching to 12/12 light cycle triggers flowering. See [[cannabis-lighting-guide]].
 
 ### Shade Avoidance
 
@@ -119,16 +119,16 @@ Plants can "remember" past experiences through epigenetic mechanisms:
 
 Understanding plant sensing directly informs cultivation practices:
 
-- **Light spectrum matters**: Using the right wavelengths for each growth stage (blue for vegetative structure, red for flowering) leverages plants' photoreceptor systems. See [[cannabis-light-spectrums]]
+- **Light spectrum matters**: Using the right wavelengths for each growth stage (blue for vegetative structure, red for flowering) leverages plants' photoreceptor systems. See [[cannabis-lighting-guide]]
 - **Mechanical stress**: Gentle air movement (fans) produces stronger, sturdier stems via thigmomorphogenesis
 - **Companion planting VOCs**: Interplanting aromatic herbs may prime neighboring crops' defenses
 - **Mycorrhizal networks**: Building healthy soil mycorrhizae creates communication channels between plants. See [[mycorrhizal-networks]]
-- **Seed treatment**: Cold stratification and light exposure during germination use plants' sensory systems to break dormancy. See [[seed-starting]]
+- **Seed treatment**: Cold stratification and light exposure during germination use plants' sensory systems to break dormancy. See [[seed-starting-reference]]
 
 ## See Also
 
-- [[cannabis-light-spectrums]] — Light spectrum management for indoor growing
+- [[cannabis-lighting-guide]] — Light spectrum management for indoor growing
 - [[mycorrhizal-networks]] — Underground fungal communication networks
-- [[companion-planting]] — Using plant signaling for garden design
-- [[seed-starting]] — Germination triggers and dormancy breaking
-- [[soil-food-web]] — Root exudates and rhizosphere signaling
+- [[companion-planting-reference]] — Using plant signaling for garden design
+- [[seed-starting-reference]] — Germination triggers and dormancy breaking
+- [[soil-food-web-nutrient-cycling]] — Root exudates and rhizosphere signaling

@@ -62,7 +62,7 @@ A cascading value chain incorporating all five kingdoms:
 
 ### The Vermicompost Extension (Mary Appelhof, SCZ-NM)
 
-Mary Appelhof (Wormwoman) added another loop: spent mushroom substrate is fed to earthworms that transmute mycelium into worm biomass. Worms become food for fish or chickens; remaining substrate becomes [[vermicompost]] — a nutrient-rich natural fertilizer and soil conditioner. Earthworms also produce lumbrokinase, a fibrinolytic enzyme that dissolves blood clots, used to treat strokes and coronary thrombosis (Mihara et al., 1991).
+Mary Appelhof (Wormwoman) added another loop: spent mushroom substrate is fed to earthworms that transmute mycelium into worm biomass. Worms become food for fish or chickens; remaining substrate becomes [[vermicomposting]] — a nutrient-rich natural fertilizer and soil conditioner. Earthworms also produce lumbrokinase, a fibrinolytic enzyme that dissolves blood clots, used to treat strokes and coronary thrombosis (Mihara et al., 1991).
 
 ## The Coffee Waste System (Chinchina, Colombia)
 
@@ -85,9 +85,9 @@ Sustainable Communities / ZERI-New Mexico works under the US Forest Service Coll
 The ZERI model maps directly onto [[integrated-homestead-design]] principles:
 
 - [[mushroom-compost-substrates]] from animal or crop waste
-- [[vermicompost]] from spent mushroom substrate
+- [[vermicomposting]] from spent mushroom substrate
 - [[animal-byproducts]] as mushroom substrate input
-- [[cover-cropping]] waste as additional substrate
+- [[cover-cropping-guide]] waste as additional substrate
 - Closed-loop nutrient cycling across plant, animal, and fungal kingdoms
 
 ## See Also
@@ -95,6 +95,6 @@ The ZERI model maps directly onto [[integrated-homestead-design]] principles:
 - [[fungi-and-sustainability]] — Broader sustainability framework
 - [[mycoforestry-forest-restoration]] — Forest restoration with fungi
 - [[mushroom-species-guide]] — Species suitable for waste substrates
-- [[vermicomposting-detail]] — Worm composting integration
+- [[vermicomposting]] — Worm composting integration
 - [[integrated-homestead-design]] — Capstone homestead synthesis
-- [[soil-food-web]] — How fungal networks integrate with soil biology
+- [[soil-food-web-nutrient-cycling]] — How fungal networks integrate with soil biology

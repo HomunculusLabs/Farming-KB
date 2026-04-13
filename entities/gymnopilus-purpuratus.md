@@ -131,7 +131,7 @@ Gymnopilus represents a distinct lineage of psychoactive mushrooms separate from
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Chemical analysis and alkaloid profiles
-- [[psilocybin-mushroom-distribution]] — Worldwide distribution
-- [[psilocybin-mushroom-effects-and-safety]] — Effects and pharmacology
+- [[psilocybin-mushroom-chemistry]] — Worldwide distribution
+- [[psilocybin-mushroom-chemistry]] — Effects and pharmacology
 - [[jochen-gartz]] — Primary source researcher
 - [[mushroom-identification-resources]] — Identification safety

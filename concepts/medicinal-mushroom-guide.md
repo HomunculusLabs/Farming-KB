@@ -193,6 +193,6 @@ Medicinal mushrooms work primarily through immunomodulation rather than direct c
 - [[herbal-medicine]] -- Integration with plant-based remedies
 - [[fungal-ecology]] -- Ecological roles and decomposition mechanisms
 - [[mycoremediation-basics]] -- Fungal enzyme systems relevant to medicinal applications
-- [[soil-food-web]] — Fungi in the soil trophic web
+- [[soil-food-web-nutrient-cycling]] — Fungi in the soil trophic web
 
 See also: [[eugenia-bone]] — author of Mycophilia, food and science writer on fungi.

@@ -19,7 +19,7 @@ Beekeeping (apiculture) is the maintenance of honey bee colonies for honey produ
 - **Propolis and pollen**: Valuable bee products with medicinal and nutritional properties.
 - **Ecological benefit**: Supporting pollinators contributes to broader ecosystem health.
 - **Education and connection**: Beekeeping connects you to the natural world and provides a deeper understanding of ecology and seasonal cycles.
-- [[companion-planting]] and [[food-forest-design]] systems benefit enormously from nearby bee colonies.
+- [[companion-planting-reference]] and [[food-forest-design]] systems benefit enormously from nearby bee colonies.
 
 ## Honey Bee Biology
 
@@ -164,7 +164,7 @@ Natural colony reproduction — the old queen and half the bees leave to establi
 
 ## See Also
 
-- [[companion-planting]] — Planting for bee forage
+- [[companion-planting-reference]] — Planting for bee forage
 - [[food-forest-design]] — Creating pollinator habitat in food forests
 - [[fruit-tree-pruning]] — Fruit trees benefit from bee pollination
 - [[homesteading]] — Beekeeping as a homestead enterprise

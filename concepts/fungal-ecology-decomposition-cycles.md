@@ -10,7 +10,7 @@ sources:
 
 # Fungal Ecology — Decomposition Cycles
 
-How fungi drive decomposition, nutrient cycling, and soil formation in ecosystems. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[fungal-ecology]], [[fungal-decomposition]], [[fungal-ecosystem-roles]], and [[soil-food-web]].
+How fungi drive decomposition, nutrient cycling, and soil formation in ecosystems. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[fungal-ecology]], [[fungal-decomposition]], [[fungal-ecosystem-roles]], and [[soil-food-web-nutrient-cycling]].
 
 ## The Decomposition Succession
 
@@ -159,7 +159,7 @@ Stamets emphasizes the interdependence of fungi and bacteria:
 - [[fungal-ecology]] for the broad overview of fungal roles in ecosystems
 - [[fungal-decomposition]] for detailed white/brown rot chemistry
 - [[fungal-ecosystem-roles]] for water transport, erosion, fire ecology
-- [[soil-food-web]] for the complete soil biology picture
+- [[soil-food-web-nutrient-cycling]] for the complete soil biology picture
 - [[soil-food-web-nutrient-cycling]] for nutrient cycling details
 - [[mycorrhizal-fungi]] for plant-fungal partnerships
 - [[mycoforestry-forest-restoration]] for forest applications

@@ -160,7 +160,7 @@ See [[homesteading-legal-considerations]] for broader context.
 - Earthbag dome or earth-bermed timber frame; target 32–40°F, 85–95% humidity
 - North-facing hillside or excavated; insulated ceiling, uninsulated earth walls
 - Two-pipe passive ventilation (cool intake low, warm exhaust high)
-- See [[food-preservation]] and [[homestead-water-systems]] for drainage
+- See [[food-preservation-canning]] and [[homestead-water-systems]] for drainage
 
 ### Tool Shed / Workshop
 - Timber frame + light clay straw, or pole barn; 100–200 sq ft

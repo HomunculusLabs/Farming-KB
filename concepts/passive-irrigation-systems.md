@@ -69,7 +69,7 @@ Fill the reservoir through a vertical PVC pipe that extends from above the soil 
 - Consistent moisture at root zone reduces plant stress
 - Very water-efficient (50-80% less than overhead watering)
 - Excellent for raised bed gardens and urban settings
-- Can be connected to [[rainwater-catchment-systems]] for gravity-fed filling
+- Can be connected to [[rainwater-harvesting-systems]] for gravity-fed filling
 - Reduced watering frequency — ideal for busy homesteaders
 
 ### Limitations
@@ -136,4 +136,4 @@ Deep pipes deliver water directly to the root zone of established trees and shru
 
 ## Integration Notes
 
-Passive irrigation systems work best in combination. Use swales for landscape-scale water management, wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-catchment-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-basics]] can supplement passive systems during peak demand periods.
+Passive irrigation systems work best in combination. Use swales for landscape-scale water management, wicking beds for intensive vegetable production, and ollas for targeted plant watering. Connect all systems to [[rainwater-harvesting-systems]] for a gravity-fed, self-sustaining water supply. For more controlled delivery, [[drip-irrigation-guide]] can supplement passive systems during peak demand periods.

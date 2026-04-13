@@ -138,4 +138,4 @@ deer and rabbits.
 ## See Also
 
 - [[echinacea-growing-guide]] -- combine with yarrow in immune-support teas
-- [[cover-cropping]] -- yarrow can be integrated into polyculture cover mixes
+- [[cover-cropping-guide]] -- yarrow can be integrated into polyculture cover mixes

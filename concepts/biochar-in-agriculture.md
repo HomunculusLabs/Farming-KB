@@ -156,7 +156,7 @@ Biochar is a stable form of carbon that can persist in soil for hundreds to thou
 
 ### Contaminant Binding
 
-Biochar can bind heavy metals, pesticides, and other contaminants, reducing their bioavailability to plants. This has applications in [[mycoremediation-heavy-metals]] of contaminated soils. However, it also means biochar can bind beneficial herbicides or pesticides if applied simultaneously — apply them separately.
+Biochar can bind heavy metals, pesticides, and other contaminants, reducing their bioavailability to plants. This has applications in [[mycoremediation-of-heavy-metals]] of contaminated soils. However, it also means biochar can bind beneficial herbicides or pesticides if applied simultaneously — apply them separately.
 
 ## Biochar in Different Soil Types
 
@@ -180,13 +180,13 @@ Biochar works synergistically with:
 - **Mycorrhizal inoculants**: Biochar provides substrate for fungal colonization
 - **Rock minerals**: Biochar can hold mineral nutrients in plant-available forms
 - [[green-manure-crops]]: Cover crops add organic matter that works with biochar's nutrient-holding capacity
-- [[no-till-methods]]: Biochar is most effective in undisturbed soils where pore structure is preserved
+- [[no-till-gardening-method]]: Biochar is most effective in undisturbed soils where pore structure is preserved
 
 ## Related Topics
 
-- [[no-till-methods]] for systems that preserve biochar's soil structure benefits
+- [[no-till-gardening-method]] for systems that preserve biochar's soil structure benefits
 - [[green-manure-crops]] for pairing biochar with organic fertility sources
 - [[rainwater-harvesting-systems]] for maximizing water retention with biochar
-- [[soil-food-web]] for general soil health context
+- [[soil-food-web-nutrient-cycling]] for general soil health context
 - [[compost-tea-aact]]
-- [[vermicomposting-detail]]
+- [[vermicomposting]]

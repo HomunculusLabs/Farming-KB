@@ -24,17 +24,17 @@ sources:
 
 # Indoor vs Outdoor Cannabis Cultivation
 
-Indoor and outdoor cultivation represent fundamentally different approaches to growing cannabis. On a homestead with [[regenerative-agriculture]] principles, outdoor living soil beds integrate naturally with the broader system (compost, animals, cover crops). Indoor grows offer environmental control at the cost of energy and equipment. This comparison synthesizes from [[cannabis-indoor-living-soil]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-plant-nutrition]], and [[cannabis-pest-management]].
+Indoor and outdoor cultivation represent fundamentally different approaches to growing cannabis. On a homestead with [[regenerative-agriculture-history]] principles, outdoor living soil beds integrate naturally with the broader system (compost, animals, cover crops). Indoor grows offer environmental control at the cost of energy and equipment. This comparison synthesizes from [[cannabis-living-soil-guide]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-plant-nutrition]], and [[cannabis-pest-management]].
 
 ## Head-to-Head Comparison
 
 | Dimension | Indoor | Outdoor |
 |-----------|--------|---------|
 | **Environment control** | Full control (temp, humidity, light, CO2) | Dependent on weather and season |
-| **Light source** | Artificial ([[cannabis-light-spectrums]], [[think-grow-model-h-plus]]) | Sun (free, full spectrum) |
+| **Light source** | Artificial ([[cannabis-lighting-guide]], [[think-grow-model-h-plus]]) | Sun (free, full spectrum) |
 | **Electricity cost** | Significant (lights, fans, AC, dehumidifier) | Minimal (pumps, fans if any) |
 | **Watering** | Manual, controlled — dechlorinated water needed | Rain + irrigation; nature handles most |
-| **Soil system** | [[cannabis-indoor-living-soil]] in beds/containers | Ground beds, amended native soil, or raised beds |
+| **Soil system** | [[cannabis-living-soil-guide]] in beds/containers | Ground beds, amended native soil, or raised beds |
 | **Pest pressure** | Higher risk (enclosed space, no natural predators) | Lower risk (beneficial insects, weather, airflow) |
 | **Disease risk** | Higher (bud rot in humid indoor spaces) | Lower (natural airflow, UV from sun) |
 | **Yield per plant** | Moderate (0.5-2 oz typical; 4+ oz with CO2/training) | Higher per plant (4-16+ oz, space-limited only) |
@@ -73,7 +73,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 | **Fungus gnats** | Common (overwatering in containers) | Rare (soil dries naturally between rains) |
 | **Aphids/whiteflies** | Moderate risk | Lower (beneficial insects in ecosystem) |
 | **Animals (deer, rabbits)** | Not applicable | Significant risk — fencing required |
-| **Prevention approach** | Sanitation, filters, biological controls ([[cannabis-pest-management]]) | [[companion-planting]], biodiversity, beneficial insect habitat |
+| **Prevention approach** | Sanitation, filters, biological controls ([[cannabis-pest-management]]) | [[companion-planting-reference]], biodiversity, beneficial insect habitat |
 | **Control options** | Limited in flower (no residue on buds) | More flexibility — foliar sprays safe outdoors |
 | **IPM complexity** | High (no natural backup systems) | Lower (nature provides balance) |
 
@@ -81,7 +81,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 
 | Aspect | Indoor | Outdoor |
 |--------|--------|---------|
-| **Soil type** | Manufactured [[cannabis-indoor-living-soil]] mix | Native soil amended, or raised beds with compost |
+| **Soil type** | Manufactured [[cannabis-living-soil-guide]] mix | Native soil amended, or raised beds with compost |
 | **Compost integration** | Worm castings, compost tea ([[compost-tea-aact]]) | Full homestead compost ([[composting-systems]]) — duck/goat manure |
 | [[knf-preparations]] | Adjusted dilution rates (1:300-500 drenches) | Standard dilution (1:1000); broader application |
 | [[indigenous-microorganisms-imo]] | Used as soil inoculant | Used at scale (IMO-4 field application) |
@@ -125,18 +125,18 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 | Discretion / security | **Indoor** — locked room, no visible plants or smell |
 | Breeding and seed production | **Outdoor** — more space, natural light, lower cost per plant |
 | Strain experimentation | **Indoor** — any strain regardless of flowering time |
-| [[regenerative-agriculture]] alignment | **Outdoor** — closed-loop with compost, animals, cover crops |
+| [[regenerative-agriculture-history]] alignment | **Outdoor** — closed-loop with compost, animals, cover crops |
 
-**For a homesteader**: Outdoor living soil beds are the natural choice — they integrate with existing compost, animal manure, and cover crop systems. Indoor growing is worth adding as a supplement for year-round production, strain preservation, and breeding. Both benefit from [[knf-preparations]] inputs and [[soil-food-web]] management principles.
+**For a homesteader**: Outdoor living soil beds are the natural choice — they integrate with existing compost, animal manure, and cover crop systems. Indoor growing is worth adding as a supplement for year-round production, strain preservation, and breeding. Both benefit from [[knf-preparations]] inputs and [[soil-food-web-nutrient-cycling]] management principles.
 
 ## See Also
 
-- [[cannabis-indoor-living-soil]] — living soil bed setup and management
+- [[cannabis-living-soil-guide]] — living soil bed setup and management
 - [[cannabis-vegetative-stage]] — vegetative phase light, training, nutrition
 - [[cannabis-flowering-stage]] — flowering timeline, environment, harvest
 - [[cannabis-plant-nutrition]] — NPK, micronutrients, organic sources
 - [[cannabis-pest-management]] — IPM, organic controls, spray schedules
-- [[cannabis-light-spectrums]] — PAR/PPFD, spectrum by wavelength
-- [[cannabis-harvesting-and-curing]] — trichome timing, drying, curing
+- [[cannabis-lighting-guide]] — PAR/PPFD, spectrum by wavelength
+- [[cannabis-harvest-and-curing]] — trichome timing, drying, curing
 - [[think-grow-model-h-plus]] — specific LED fixture programming
 - [[seasonal-planning]] — homestead calendar by zone

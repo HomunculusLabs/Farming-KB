@@ -125,7 +125,7 @@ These approaches are not mutually exclusive. Many practitioners combine elements
 - [[jadam-methods]] — JADAM simplified approach
 - [[nutrient-dense-gardening]] — Solomon's mineral approach
 - [[permaculture-design]] — permaculture design framework
-- [[regenerative-agriculture]] — regenerative agriculture overview
+- [[regenerative-agriculture-history]] — regenerative agriculture overview
 
 ## Related
 

@@ -47,7 +47,7 @@ Consolidated reference for all Korean Natural Farming (KNF) inputs — ingredien
 | Fermented Fruit Juice | FFJ | Fruit / flower growth | Ripe fruit + brown sugar 1:1 | 7d sum / 10-15d win | 1:1000 | CHG / REPR | [[fermented-plant-extract-fpe]] |
 | Fish Amino Acid | FAA | Nitrogen source | Fish + brown sugar 1:1 | 7-10d sum / 10-15d win | 1:1000 | VEG only | [[fish-amino-acid-faa]] |
 | Oriental Herbal Nutrient | OHN | Immune booster / pesticide | 5 herbs + beer/rice wine | 21d (3x7d phases) | 1:500-1000 | REPR / PRE-H | [[oriental-herbal-nutrient-ohn]] |
-| Lactic Acid Bacteria | LAB | Microbe support, disease suppress | Rice wash + milk | 12-15d | 1:1000 | VEG (reduce late REPR) | [[lactic-acid-bacteria]] |
+| Lactic Acid Bacteria | LAB | Microbe support, disease suppress | Rice wash + milk | 12-15d | 1:1000 | VEG (reduce late REPR) | [[lactic-acid-bacteria-lab]] |
 | Water-Soluble Potassium | WS-K | Potassium source | Tobacco stems + water (boil) | N/A (extraction) | 1:30 | REPR | [[knf-preparations]] |
 | Water-Soluble Phosphoric Acid | WS-PA | Phosphorus source | Sesame stem charcoal + water | N/A (extraction) | 1:30 | CHG | [[knf-preparations]] |
 | Water-Soluble Calcium | WS-Ca | Calcium source | Eggshells + BRV | 7-10d | 1:1000 | CHG / REPR | [[water-soluble-calcium-wca]] |
@@ -121,6 +121,6 @@ Spray 15 days and 2 days before harvest.
 - **Timing:** Apply early AM or late PM -- never midday (UV kills microbes)
 - **Water:** Non-chlorinated only (well, rain, or dechlorinated tap)
 - **Compatibility:** Never mix with synthetic chemicals or conventional pesticides
-- **Cannabis living soil:** Use 1:300-500 for soil drenches (see [[cannabis-indoor-living-soil]])
-- **IMO foundation:** All inputs work best when [[soil-food-web]] biology is active -- IMO is the base
+- **Cannabis living soil:** Use 1:300-500 for soil drenches (see [[cannabis-living-soil-guide]])
+- **IMO foundation:** All inputs work best when [[soil-food-web-nutrient-cycling]] biology is active -- IMO is the base
 - **Storage:** Cool, dark place; glass or HDPE containers; use within shelf life

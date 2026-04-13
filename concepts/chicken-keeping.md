@@ -68,7 +68,7 @@ Bred for maximum egg production (250-320 eggs/year):
 ### Coop Types
 
 - **Stationary coop**: Permanent structure with attached run. Most common. Easier to predator-proof.
-- **Chicken tractor**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[no-till-farming]] integration. Best for spring-fall.
+- **Chicken tractor**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[no-till-gardening-method]] integration. Best for spring-fall.
 - **Coop and run**: Stationary coop with large fenced outdoor run. Cover run with wire/netting for aerial predator protection.
 
 ### Deep Litter Method
@@ -169,4 +169,4 @@ Bred for maximum egg production (250-320 eggs/year):
 - [[insect-allies]]
 - [[barn-design]]
 - [[goose-keeping]]
-- [[quail-husbandry]]
+- [[quail-husbandry-detailed]]

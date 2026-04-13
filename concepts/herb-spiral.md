@@ -125,10 +125,10 @@ The traditional design includes a small pond or basin at the base of the spiral:
 
 The herb spiral integrates with broader permaculture design:
 - Place near the kitchen for daily harvest access (Zone 1 principle from [[permaculture-zones-in-practice]])
-- Use herbs from the spiral in [[food-fermentation]] recipes and [[herbal-medicine]] preparations
+- Use herbs from the spiral in [[food-fermentation-guide]] recipes and [[herbal-medicine]] preparations
 - Include insectary flowers to support [[pollinator-habitat]]
 - Connect to [[irrigation-systems]] for automated watering during dry periods
-- Use culinary herbs in [[food-preservation]] and cooking
+- Use culinary herbs in [[food-preservation-canning]] and cooking
 - Stone walls provide thermal mass that moderates temperature extremes — a principle from [[edge-effect-and-microclimate]]
 
 ## Advantages Over Flat Beds

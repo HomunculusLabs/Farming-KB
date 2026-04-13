@@ -56,7 +56,7 @@ Water is indispensable to fungal processes. It provides:
 - Environment for enzymatic activity
 - Trigger for fruiting body emergence
 
-The abundance of fungi in humid forests reflects this dependency. [[fungal-spore-dispersal-mechanisms]] | [[fungal-ecology]] | [[soil-food-web]]
+The abundance of fungi in humid forests reflects this dependency. [[fungal-spore-biology]] | [[fungal-ecology]] | [[soil-food-web-nutrient-cycling]]
 
 ## Related
 

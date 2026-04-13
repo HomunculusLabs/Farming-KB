@@ -33,6 +33,6 @@ Chamovitz's work bridges the gap between laboratory plant science and practical 
 ## Related
 
 - [[plant-nutrient-uptake]] — sensory biology of plants
-- [[fungal-biology-lifecycle]] — molecular and genetic foundations of plant perception
+- [[fungal-biology-fundamentals]] — molecular and genetic foundations of plant perception
 - [[cannabis-lighting-guide]] — practical applications of photoreception science
-- [[companion-planting]] — plant communication via volatile chemicals
+- [[companion-planting-reference]] — plant communication via volatile chemicals

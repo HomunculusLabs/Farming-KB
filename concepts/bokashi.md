@@ -88,11 +88,11 @@ Bokashi doesn't finish composting — it pre-digests. The final step is burial:
 
 ## Bokashi for Living Soil Beds
 
-- Excellent pre-planting amendment for [[cannabis-indoor-living-soil]]
+- Excellent pre-planting amendment for [[cannabis-living-soil-guide]]
 - Can inoculate bokashi with [[indigenous-microorganisms-imo]] instead of commercial EM
 - Fermented material adds both organic matter and lactic acid bacteria
-- Combine with [[vermicompost]] and compost for complete soil biology
-- Works well in [[no-till-farming]] systems as layered amendment
+- Combine with [[vermicomposting]] and compost for complete soil biology
+- Works well in [[no-till-gardening-method]] systems as layered amendment
 
 ## Tips
 
@@ -106,10 +106,10 @@ Bokashi doesn't finish composting — it pre-digests. The final step is burial:
 ## See Also
 
 - [[effective-microorganisms-em]] — EM for bokashi inoculant
-- [[lactic-acid-bacteria]] — key organism in bokashi
-- [[vermicompost]] — alternative/parallel composting method
+- [[lactic-acid-bacteria-lab]] — key organism in bokashi
+- [[vermicomposting]] — alternative/parallel composting method
 - [[compost-tea-aact]] — aerobic biology boost
-- [[soil-food-web]] — what bokashi feeds
+- [[soil-food-web-nutrient-cycling]] — what bokashi feeds
 
 ## Related
 

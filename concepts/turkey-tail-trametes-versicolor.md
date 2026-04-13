@@ -157,6 +157,6 @@ Turkey tail is a white-rot fungus, meaning it degrades lignin in wood. It plays 
 
 ## See Also
 
-- [[mushroom-cooking-guide]] — General mushroom preparation and safety
+- [[mushroom-cooking-techniques]] — General mushroom preparation and safety
 - [[fungal-symbiosis-types]] — How fungi interact with other organisms
 - [[bioluminescent-fungi]] — Other notable fungal species

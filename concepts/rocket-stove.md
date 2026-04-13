@@ -141,7 +141,7 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 ### Homestead Processing
 
 - Maple syrup boiling: High heat output is ideal for evaporating sap
-- Canning: Sustained heat for water bath canning — see [[food-preservation]]
+- Canning: Sustained heat for water bath canning — see [[food-preservation-canning]]
 - Rendering: Melting fats for soap and candle making — see [[candle-making]]
 - Scalding: Processing poultry — see [[animal-harvest-and-processing]]
 

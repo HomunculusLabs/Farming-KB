@@ -24,7 +24,7 @@ sources:
 
 # Wayne Lewis
 
-American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With Microbes: The Organic Gardener's Guide to the Soil Food Web" (2006, updated 2010). His scientific expertise grounded the book's accessible explanations of [[soil-food-web]] biology, making it one of the most influential popular soil science books of the 21st century.
+American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With Microbes: The Organic Gardener's Guide to the Soil Food Web" (2006, updated 2010). His scientific expertise grounded the book's accessible explanations of [[soil-food-web-nutrient-cycling]] biology, making it one of the most influential popular soil science books of the 21st century.
 
 ## Role in the Teaming With Trilogy
 
@@ -36,7 +36,7 @@ Lowenfels describes Lewis as "my good friend and business colleague" and credits
 
 - **Soil food web gardening rules:** Helped formulate practical rules for managing soil biology, including the fundamental distinction between bacterial-dominant and fungal-dominant soils and how to manage each for different types of plants
 - **Compost tea science:** Contributed expertise on actively aerated compost tea (AACT) brewing and application, providing the scientific basis for what had previously been largely anecdotal practices
-- **Bacterial vs. fungal dominance:** Helped articulate the principle that annual vegetables and grasses prefer bacterial-dominant soils while perennials, shrubs, and trees prefer fungal-dominant soils — a concept with profound implications for [[regenerative-agriculture]]
+- **Bacterial vs. fungal dominance:** Helped articulate the principle that annual vegetables and grasses prefer bacterial-dominant soils while perennials, shrubs, and trees prefer fungal-dominant soils — a concept with profound implications for [[regenerative-agriculture-history]]
 - **Mycorrhizal fungi education:** His scientific background informed the subsequent "Teaming With Fungi" volume, which makes [[mycorrhizal-fungi]] accessible to home gardeners
 
 ## Impact
@@ -47,7 +47,7 @@ Lowenfels describes Lewis as "my good friend and business colleague" and credits
 
 - [[jeff-lowenfels]] — Co-author and primary writer of the Teaming With trilogy
 - [[elaine-ingham]] — Soil microbiologist who wrote the foreword and whose research informed the book
-- [[soil-food-web]] — The soil food web overview
-- [[soil-food-web-advanced]] — Advanced soil biology topics
+- [[soil-food-web-nutrient-cycling]] — The soil food web overview
+- [[soil-food-web-nutrient-cycling]] — Advanced soil biology topics
 - [[composting-systems]] — Compost methods
 - [[mycorrhizal-fungi]] — Mycorrhizal partnerships and plant relationships

@@ -147,5 +147,5 @@ Anaerobic fungi are among the most effective organisms at degrading plant struct
 - [[fungal-biodiversity-biogeography]] — Fungal diversity patterns
 - [[mycorrhizal-types]] — Other fungal symbioses
 - [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
-- [[soil-food-web]] — Nutrient cycling in ecosystems
+- [[soil-food-web-nutrient-cycling]] — Nutrient cycling in ecosystems
 - [[saprotrophic-fungi]] — Decomposer strategies

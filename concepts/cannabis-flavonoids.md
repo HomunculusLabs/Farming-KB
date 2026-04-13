@@ -170,4 +170,4 @@ Cannabis flavonoid research is significantly behind cannabinoid and terpene rese
 
 - [[cannabis-trichome-guide]] for the glandular structures that house flavonoids
 - [[cannabis-terpene-profile]] for the other major class of cannabis aromatic compounds
-- [[cannabis-light-spectrum-guide]] for how light influences flavonoid production
+- [[cannabis-lighting-guide]] for how light influences flavonoid production

@@ -80,7 +80,7 @@ Three systems for biological farming inputs, all originating from East Asia, all
 Yes. Many growers use elements from all three systems:
 
 - **KNF + JADAM**: Most compatible. Both use local microbes and fermented inputs. Swap JMS for IMO as soil inoculant, or use JNP for pest control alongside KNF nutrient inputs. Master Cho and Youngsang Cho share philosophical roots.
-- **KNF + EM**: Use [[effective-microorganisms-em]] for [[bokashi]] fermentation ([[bokashi]] requires EM), while using KNF-specific inputs (FPJ, FAA, OHN) for plant nutrition. Many [[cannabis-indoor-living-soil]] growers do this.
+- **KNF + EM**: Use [[effective-microorganisms-em]] for [[bokashi]] fermentation ([[bokashi]] requires EM), while using KNF-specific inputs (FPJ, FAA, OHN) for plant nutrition. Many [[cannabis-living-soil-guide]] growers do this.
 - **JADAM + EM**: Add EM to JMS fermentation to boost microbial diversity, or use EM-5 alongside JNP for layered pest defense. Sea water and phyllite are compatible with EM application.
 
 ## Verdict
@@ -92,7 +92,7 @@ Yes. Many growers use elements from all three systems:
 | Easiest entry point, consistent results | **EM** — buy, activate, apply |
 | Best pest management without synthetics | **JADAM** — JNP is purpose-built for this |
 | Most locally adapted soil biology | **KNF** — IMO captures your specific ecosystem |
-| Best integration with [[cannabis-indoor-living-soil]] | **KNF + EM** — KNF for nutrition, EM for soil biology |
+| Best integration with [[cannabis-living-soil-guide]] | **KNF + EM** — KNF for nutrition, EM for soil biology |
 | Best for [[bokashi]] pre-composting | **EM** — EM Bokashi is the standard |
 
 All three systems share the fundamental insight that feeding soil biology — not plants directly — produces healthier crops. The choice depends on your budget, climate, scale, and willingness to learn recipes.
@@ -104,8 +104,8 @@ All three systems share the fundamental insight that feeding soil biology — no
 - [[effective-microorganisms-em]] — EM products and activation
 - [[indigenous-microorganisms-imo]] — IMO collection step-by-step
 - [[nutritive-cycle-theory]] — Cho's growth stage framework
-- [[cannabis-indoor-living-soil]] — applying these systems to cannabis
-- [[soil-food-web]] — the biology all three systems support
+- [[cannabis-living-soil-guide]] — applying these systems to cannabis
+- [[soil-food-web-nutrient-cycling]] — the biology all three systems support
 
 ## Related
 

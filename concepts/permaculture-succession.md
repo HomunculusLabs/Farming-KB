@@ -21,7 +21,7 @@ Ecological succession is the process by which landscapes evolve from bare ground
 
 ### In the Garden
 Hemenway reframes succession as the journey from a conventional garden to a [[food-forest-design]]:
-- **Year 1-2**: Open and sunny. Lots of space between young trees. Fill with annual vegetables, [[cover-cropping]], and fast-growing nurse plants. The garden looks sparse — "a twig farm."
+- **Year 1-2**: Open and sunny. Lots of space between young trees. Fill with annual vegetables, [[cover-cropping-guide]], and fast-growing nurse plants. The garden looks sparse — "a twig farm."
 - **Year 3-5**: Trees and shrubs begin to fill in. Shade increases. Shift from sun-loving annuals to shade-tolerant perennials. Berry bushes begin to fruit. Begin chop-and-drop mulching from shrub prunings.
 - **Year 5-10**: Canopy starts to close. Forest-like structure emerges. Fruit production increases. Shade-tolerant species become dominant in lower layers. The system becomes more self-maintaining.
 - **Year 10+**: Mature food forest. Maximum production. Self-maintaining. Prune to maintain light gaps and airflow.
@@ -115,5 +115,5 @@ Hemenway advises pragmatism: "Using nonrenewable resources to create a landscape
 - [[gaias-garden-methods]] — Home-scale permaculture methods
 - [[permaculture-design-methods]] — Site analysis and design assembly
 - [[permaculture-zones-in-practice]] — Zone planning for garden assembly
-- [[soil-food-web]] — The decomposer foundation of succession
+- [[soil-food-web-nutrient-cycling]] — The decomposer foundation of succession
 - [[edge-effect-and-microclimate]] — Creating benign microclimates for establishment

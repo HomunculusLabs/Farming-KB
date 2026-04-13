@@ -109,4 +109,4 @@ Grain spawn (rye, wheat, oats) is the universal inoculum — always prepare your
 - [[outdoor-mushroom-bed]] — Outdoor bed methods for wine cap and more
 - [[outdoor-wood-lover-cultivation]] — Outdoor beds for psilocybe woodlovers
 - [[mushroom-grow-equipment]] — Sterilization and incubation equipment
-- [[mushroom-spawn-making]] — Grain spawn preparation and quality testing
+- [[mushroom-spawn-making-detailed]] — Grain spawn preparation and quality testing

@@ -64,7 +64,7 @@ KNF has spread to over 30 countries and is practiced in cannabis cultivation, ve
 - [[water-soluble-calcium-phosphate-wcp]] — Calcium phosphate from bones
 - [[brown-rice-vinegar-brv]] — Natural vinegar extraction
 - [[fermented-mixed-compost-fmc]] — IMO-enriched composting
-- [[lactic-acid-bacteria]] — LAB production and application
+- [[lactic-acid-bacteria-lab]] — LAB production and application
 - [[jadam-methods]] — Simplified descendant system
 
 ## Related

@@ -52,5 +52,5 @@ Watkinson's work is part of the strong British tradition in fungal ecology that 
 - [[fungal-ecology]] — Fungal kingdom overview
 - [[fungal-ecosystem-roles]] — Decomposition and nutrient cycling
 - [[fungal-decomposition]] — Detailed decomposition processes
-- [[soil-food-web]] — Fungi within the broader soil ecosystem
+- [[soil-food-web-nutrient-cycling]] — Fungi within the broader soil ecosystem
 - [[saprotrophic-fungi]] — Decomposer fungi and substrate preferences

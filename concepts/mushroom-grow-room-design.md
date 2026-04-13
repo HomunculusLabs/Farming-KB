@@ -139,6 +139,6 @@ A basic grow room setup can be assembled for $100-300:
 
 - [[monotub-cultivation]] — the primary fruiting vessel used in grow rooms
 - [[mushroom-harvesting-potency]] — environmental optimization for maximum yields
-- [[mushroom-contamination-troubleshooting]] — identifying and managing contamination
+- [[mushroom-contamination-identification]] — identifying and managing contamination
 - [[bulk-substrate-preparation]] — substrate considerations for the grow room
 - [[mushroom-contamination-identification]]

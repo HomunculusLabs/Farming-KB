@@ -80,7 +80,7 @@ Timing: Start in fall for spring planting. Sheet mulch builds 1-2" of topsoil pe
 - Depressed areas planted with water-tolerant natives that absorb runoff
 - Position downslope from impervious surfaces (roofs, driveways)
 - 6-12" deep, drain within 24-48 hours to avoid mosquito habitat
-- Combine with [[swale-design]] for maximum water harvesting on slopes
+- Combine with [[swale-design-construction]] for maximum water harvesting on slopes
 
 ## Herb Spirals
 
@@ -129,4 +129,4 @@ See [[food-forest-design]] for the full framework. Hemenway's approach:
 - [[geoff-hamilton-organic-techniques]]
 - [[permaculture-principles]]
 - [[graywater-systems]]
-- [[swale-design]]
+- [[swale-design-construction]]

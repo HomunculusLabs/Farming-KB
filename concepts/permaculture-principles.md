@@ -56,13 +56,13 @@ Pay attention to what works and what does not. If a technique is not producing r
 Prioritize biological resources over fossil-fuel-dependent ones. Use nitrogen-fixing plants instead of synthetic fertilizer. Use draft animals or hand tools instead of machinery. Use passive solar design instead of electric heating.
 
 ### 6. Produce No Waste
-Everything should have a use. Kitchen scraps become compost. Duck manure becomes fertilizer. Weeds become mulch. Greywater irrigates gardens. This principle connects directly to [[cannabis-indoor-living-soil]] practices where waste is always a resource.
+Everything should have a use. Kitchen scraps become compost. Duck manure becomes fertilizer. Weeds become mulch. Greywater irrigates gardens. This principle connects directly to [[cannabis-living-soil-guide]] practices where waste is always a resource.
 
 ### 7. Design from Patterns to Details
 Start with the big picture -- the overall layout of the homestead, water flows, sun angles, wind patterns -- before getting into specific plant placements. "Complex systems that work tend to evolve from simple ones that work, so finding the appropriate pattern for that design is more important than understanding all the details of the elements in the system" (Holmgren). See [[permaculture-design]] for zone and sector analysis methods, [[patterns-in-nature]] for natural pattern types, and [[permaculture-design-methods]] for the complete design process.
 
 ### 8. Integrate Rather Than Segregate
-Place elements so they support each other. Chickens near compost piles. Fruit trees with nitrogen-fixing understory. Ducks near the garden for slug control. The more connections between elements, the more resilient the system. See [[companion-planting]] for plant integration strategies.
+Place elements so they support each other. Chickens near compost piles. Fruit trees with nitrogen-fixing understory. Ducks near the garden for slug control. The more connections between elements, the more resilient the system. See [[companion-planting-reference]] for plant integration strategies.
 
 ### 9. Use Small and Slow Solutions
 Start small and scale what works. A small [[food-forest-design]] patch is better than a poorly planned large one. Hand tools over tractors. Local seeds over imported ones. Small systems are easier to manage, adapt, and fix.
@@ -83,8 +83,8 @@ For a small-to-medium homestead with animals and gardens:
 - Use ducks and goats to close nutrient loops (animal manure feeds gardens, garden waste feeds animals)
 - Design [[water-management]] systems that catch roof runoff and greywater
 - Build [[food-forest-design]] areas that produce food with minimal maintenance
-- Practice [[no-till-farming]] to protect soil biology
-- Use [[cover-cropping]] and [[companion-planting]] to reduce inputs
+- Practice [[no-till-gardening-method]] to protect soil biology
+- Use [[cover-cropping-guide]] and [[companion-planting-reference]] to reduce inputs
 - Let animals do work: ducks for pest control, goats for brush clearing, chickens for tilling
 
 ### Practical Examples from Melliodora (Holmgren's Homestead)
@@ -128,7 +128,7 @@ Yield ratio > 4 = high-value source comparable to current economic resources. Th
 - [[keyline-design]] -- Landscape water management
 - [[permaculture-plant-catalog]] -- Plants by function
 - [[natural-farming-fukuoka]]
-- [[regenerative-agriculture]]
+- [[regenerative-agriculture-history]]
 - [[food-forest-design]]
 - [[water-management]]
 - [[permaculture-zones-in-practice]] — zones 0-5 with specific homestead examples
@@ -141,14 +141,14 @@ Graham Burnett's "Permaculture: A Beginner's Guide" adds practical framing for n
 
 ### Core Attitude Shifts
 - **"You haven't got an excess of slugs, you've got a duck deficiency"** (Mollison, via Burnett) — reframe problems as opportunities for new design elements
-- **Work with nature, not against it** — instead of chemical inputs to control pests, encourage predators like ladybirds and hoverflies; instead of fighting soil with plows, build [[no-till-farming]] systems
+- **Work with nature, not against it** — instead of chemical inputs to control pests, encourage predators like ladybirds and hoverflies; instead of fighting soil with plows, build [[no-till-gardening-method]] systems
 - **Yield is limited only by imagination** — yield isn't just kilograms of food; it includes information, skills learned, health benefits, community connections, and ecological restoration
 
 ### Key Design Heuristics (Burnett's "Ecological Truisms")
 1. **Every function should be supported by many elements** — redundancy creates resilience. If one crop fails in a polyculture, others still produce
 2. **Every element should serve many functions** — a chicken provides eggs, manure, pest control, and soil cultivation
 3. **Stacking** — nature doesn't separate ornamentals, vegetables, and fruit trees. The [[food-forest-design]] concept replicates woodland layering with useful plants
-4. **Everything cycles** — in nature there is no waste; every output is an input elsewhere. Composting, [[vermicompost]], and [[bokashi]] close fertility loops
+4. **Everything cycles** — in nature there is no waste; every output is an input elsewhere. Composting, [[vermicomposting]], and [[bokashi]] close fertility loops
 5. **Local distinctiveness** — preserve regional heritage varieties (2,200+ UK apple varieties exist but only 5-6 are sold in shops). Community orchards serve as genetic banks and cultural bridges
 
 ### Rolling Permaculture

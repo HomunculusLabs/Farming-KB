@@ -64,7 +64,7 @@ Keyline cultivation is done with a chisel plow or subsoiler (Yeomans' original "
 - Subsequent passes can go deeper (up to 12-16 inches) as soil structure improves
 - The shanks fracture compacted subsoil, improving root penetration and water infiltration
 - Ground cover should always be maintained — never cultivate bare soil
-- See [[no-till-methods]] for minimizing soil disturbance
+- See [[no-till-gardening-method]] for minimizing soil disturbance
 
 ## Water Distribution Systems
 
@@ -113,7 +113,7 @@ Keyline-cultivated pastures recover faster and support higher stocking densities
 
 ### Keyline + No-Till
 
-After initial keyline cultivation to break compaction and establish water distribution patterns, the land can transition to [[no-till-methods]]. Keyline cultivation is a one-time or infrequent intervention, not an annual practice.
+After initial keyline cultivation to break compaction and establish water distribution patterns, the land can transition to [[no-till-gardening-method]]. Keyline cultivation is a one-time or infrequent intervention, not an annual practice.
 
 ## Application Scale
 

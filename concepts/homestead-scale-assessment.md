@@ -135,7 +135,7 @@ Total score interpretation:
 - Hire employees or long-term apprentices
 - Expand to part-time or full-time (see [[homestead-labor-and-volunteers]])
 - Wholesale accounts with restaurants and stores
-- Comprehensive insurance and tax planning (see [[homestead-tax-planning]], [[homestead-insurance-guide]])
+- Comprehensive insurance and tax planning (see [[homestead-financial-planning]], [[homestead-insurance-guide]])
 - Revenue target: $30,000-75,000
 
 ### Year 5+: Maturation
@@ -176,4 +176,4 @@ Stay or even scale back when:
 - You don't have systems to handle increased production
 - Life circumstances change (family, health, career)
 
-Scale assessment should be revisited annually as part of [[homestead-tax-planning]] and business planning. Use the benchmarks above to set realistic goals and track progress.
+Scale assessment should be revisited annually as part of [[homestead-financial-planning]] and business planning. Use the benchmarks above to set realistic goals and track progress.

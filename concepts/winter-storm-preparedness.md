@@ -108,4 +108,4 @@ Wind + moisture is far more dangerous than cold alone.
 - [[firewood-seasoning-and-storage]] — Ensuring adequate seasoned wood supply for winter heating
 - animal husbandry — Livestock care and management
 - [[homestead-communication]] — Communication during winter power outages
-- [[homestead-first-aid-kit-list]] — First aid for cold-weather injuries
+- [[homestead-first-aid-guide]] — First aid for cold-weather injuries

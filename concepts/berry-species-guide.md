@@ -75,7 +75,7 @@ Detailed profiles for each berry type. For overview, planning, IPM, calendar, an
 - **Pruning:** Late winter — remove dead, diseased, crossing canes. Remove oldest canes (6+ yr). Keep 6-8 canes per plant
 - **Fertilizer:** Ammonium sulfate (lowers pH + provides N). Split doses: budbreak, petal fall, early fruit, post-harvest
 - **Birds:** Net when fruit colors. Scare devices limited effectiveness
-- **Common issues:** Mummy berry, botrytis, SWD, Japanese [[beekeeping]]tles, chlorosis (pH too high)
+- **Common issues:** Mummy berry, botrytis, SWD, Japanese [[beekeeping-basics]]tles, chlorosis (pH too high)
 
 ### Varieties (Zone 7-8)
 - Southern Highbush: Legacy, Sunshine Blue, O'Neal, Emerald
@@ -140,7 +140,7 @@ Hardy, productive shrubs (8-12 ft) thriving in partial shade and wet soils. Exce
 ### Care
 - **Pruning:** Remove dead + oldest canes (>3 yr) in late winter. Best on 1-3 yr wood
 - **Harvest:** Flowers June (cordial, fritters), berries Aug-Sep (syrup, jelly, wine)
-- **Propagation:** Softwood/hardwood cuttings, division — see [[seed-saving]]
+- **Propagation:** Softwood/hardwood cuttings, division — see [[seed-saving-techniques]]
 - **Caution:** Green parts contain cyanogenic glycosides — cook berries. Avoid red-berried elder (S. racemosa)
 
 ### Varieties (Zone 7-8)

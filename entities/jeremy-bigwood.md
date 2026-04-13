@@ -18,7 +18,7 @@ Jeremy Bigwood is an American researcher at The Evergreen State College (Olympia
 
 ### Variation of Psilocybin and Psilocin Levels with Repeated Flushes
 
-Bigwood and Beug grew a selected Amazonian strain of [[psilocybin-mushroom-distribution]] (from a spore print taken near Pucallpa, Peru) in carefully controlled "miniculture" conditions — half-pint jars with 10g rye grain and 15ml water, autoclaved, inoculated from agar stock, shaken every 4 days for 28 days, then cased with peat/calcium carbonate/perlite. Key findings:
+Bigwood and Beug grew a selected Amazonian strain of [[psilocybin-mushroom-chemistry]] (from a spore print taken near Pucallpa, Peru) in carefully controlled "miniculture" conditions — half-pint jars with 10g rye grain and 15ml water, autoclaved, inoculated from agar stock, shaken every 4 days for 28 days, then cased with peat/calcium carbonate/perlite. Key findings:
 
 - **Psilocybin** levels varied unpredictably from flush to flush but showed no consistent upward or downward trend — generally the same on the last flush as the first (range: 3.2–13.3 mg/g dry weight)
 - **Psilocin** was generally absent in the first one or two flushes, reached maximum by the fourth flush, then appeared to decline
@@ -49,5 +49,5 @@ Bigwood's work provided the first systematic quantitative data on how alkaloid l
 - [[michael-beug]] — primary research collaborator on alkaloid quantification
 - [[jonathan-ott]] — co-editor of *Teonanacatl*
 - [[paul-stamets]] — cites their analytical work, co-reported P. subcubensis
-- [[psilocybin-mushroom-distribution]] — genus central to their research
-- [[psilocybin-mushroom-potency]] — potency data from their analyses
+- [[psilocybin-mushroom-chemistry]] — genus central to their research
+- [[psilocybin-mushroom-chemistry]] — potency data from their analyses

@@ -43,7 +43,7 @@ North America has ~4000 native bee species. Most are solitary, non-aggressive, a
 
 ## Honeybees
 
-Managed pollinators with social colony structure. See [[beekeeping]] for management details. Key integration points:
+Managed pollinators with social colony structure. See [[beekeeping-basics]] for management details. Key integration points:
 
 - Provide diverse, uninterrupted bloom from early spring through late fall
 - Avoid insecticide application during bloom periods
@@ -126,12 +126,12 @@ Plant both host plants (for caterpillars) and nectar plants (for adults). Avoid 
 - **Vegetable garden**: interplant flowers (calendula, borage, alyssum) between rows. Leave some crops to bolt (arugula, radish, cilantro) as bee forage.
 - **Orchard**: underplant with clover, dandelion, wildflowers as living mulch. See [[orchard-management]] for orchard floor management. Avoid tillage that destroys ground nests.
 - **Food forest**: diverse flowering layers provide continuous forage. See [[food-forest-layers-and-species]] for species lists.
-- **Companion planting**: specific pollinator-attracting companions per crop. See [[companion-planting]].
+- **Companion planting**: specific pollinator-attracting companions per crop. See [[companion-planting-reference]].
 
 ## Related Pages
 
-- [[beekeeping]] — managed honeybee colonies, hive management, seasonal calendar
+- [[beekeeping-basics]] — managed honeybee colonies, hive management, seasonal calendar
 - [[insect-allies]] — beneficial predatory insects, insectary plants, biological controls
-- [[companion-planting]] — pollinator companion combinations, polyculture design
+- [[companion-planting-reference]] — pollinator companion combinations, polyculture design
 - [[food-forest-layers-and-species]] — flowering species across all 7 food forest layers
 - [[bee-products-beyond-honey]]

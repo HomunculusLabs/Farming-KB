@@ -174,7 +174,7 @@ Unheated structures covered with greenhouse plastic:
 - See [[season-extension-techniques|season extension]] for detailed construction guidance
 
 ### Indoor Growing
-For year-round production, [[cannabis-indoor-living-soil|indoor]] growing systems can supplement the short outdoor season:
+For year-round production, [[cannabis-living-soil-guide|indoor]] growing systems can supplement the short outdoor season:
 
 - Start all seedlings indoors under lights
 - Consider [[cannabis-living-soil-amendment-schedule|living soil]] beds for indoor vegetable production

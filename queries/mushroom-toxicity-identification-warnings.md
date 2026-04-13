@@ -28,7 +28,7 @@ sources:
 
 # Mushroom Toxicity and Identification Warnings
 
-Dangerous lookalike reference for wild mushroom foragers. Covers the most commonly confused edible-toxic pairs, distinguishing features, toxicity levels, and emergency procedures. Compiled from [[mushroom-identification]], [[mushroom-species-guide]], and [[psilocybin-mushroom-distribution]].
+Dangerous lookalike reference for wild mushroom foragers. Covers the most commonly confused edible-toxic pairs, distinguishing features, toxicity levels, and emergency procedures. Compiled from [[mushroom-identification]], [[mushroom-species-guide]], and [[psilocybin-mushroom-chemistry]].
 
 ## Edible vs. Toxic Lookalike Pairs
 
@@ -105,7 +105,7 @@ Essential for identification — place cap gills-down on half white/half black p
 
 - [[mushroom-identification]] — systematic identification methods and features
 - [[mushroom-species-guide]] — cultivated species profiles and parameters
-- [[psilocybin-mushroom-distribution]] — global distribution of neurotropic species
+- [[psilocybin-mushroom-chemistry]] — global distribution of neurotropic species
 - [[mushroom-identification-resources]] — field guides and microscopy references
 
 ## Related

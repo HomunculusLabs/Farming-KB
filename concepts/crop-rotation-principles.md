@@ -17,11 +17,11 @@ Group crops by botanical family to ensure that related crops with similar pest a
 
 ### Brassicaceae (Brassicas)
 
-Cabbage, broccoli, cauliflower, kale, Brussels sprouts, radishes, turnips, kohlrabi, mustard, arugula, bok choy. Heavy nitrogen feeders. Susceptible to clubroot, cabbage root maggot, flea beetles, and Alternaria. Follow with legumes to restore nitrogen. See [[companion-planting-master-table]] for brassica allies.
+Cabbage, broccoli, cauliflower, kale, Brussels sprouts, radishes, turnips, kohlrabi, mustard, arugula, bok choy. Heavy nitrogen feeders. Susceptible to clubroot, cabbage root maggot, flea beetles, and Alternaria. Follow with legumes to restore nitrogen. See [[companion-planting-reference]] for brassica allies.
 
 ### Fabaceae (Legumes)
 
-Beans, peas, cowpeas, fava beans, peanuts, soybeans, lentils, chickpeas. Nitrogen fixers via Rhizobium symbiosis. Light feeders that improve soil fertility for subsequent crops. Susceptible to root rots and aphids. See [[cover-crops-guide]] for legume cover crops.
+Beans, peas, cowpeas, fava beans, peanuts, soybeans, lentils, chickpeas. Nitrogen fixers via Rhizobium symbiosis. Light feeders that improve soil fertility for subsequent crops. Susceptible to root rots and aphids. See [[cover-cropping-guide]] for legume cover crops.
 
 ### Solanaceae (Nightshades)
 
@@ -29,7 +29,7 @@ Tomatoes, peppers, eggplant, potatoes, tomatillos. Heavy feeders, especially pot
 
 ### Alliaceae (Alliums)
 
-Onions, garlic, leeks, shallots, chives. Shallow-rooted, moderate feeders. Susceptible to onion maggot, thrips, and various bulb rots. Benefit from following legumes. Good at repelling certain pests when interplanted — see [[companion-planting-master-table]].
+Onions, garlic, leeks, shallots, chives. Shallow-rooted, moderate feeders. Susceptible to onion maggot, thrips, and various bulb rots. Benefit from following legumes. Good at repelling certain pests when interplanted — see [[companion-planting-reference]].
 
 ### Cucurbitaceae (Cucurbits)
 
@@ -122,7 +122,7 @@ Rotate tall crops (corn, trellised tomatoes) with short crops (squash, root vege
 
 ### Include a Fallow or Cover Crop Year
 
-Devote at least one season per rotation cycle to cover crops or green manures. This rebuilds soil organic matter and provides a clean break from disease cycles. See [[cover-crops-guide]].
+Devote at least one season per rotation cycle to cover crops or green manures. This rebuilds soil organic matter and provides a clean break from disease cycles. See [[cover-cropping-guide]].
 
 ### Never Follow Same Family
 
@@ -157,7 +157,7 @@ For small plots with intensive production, use succession planting within rotati
 
 ## Intercropping Within Rotations
 
-[[companion-planting-master-table]] and [[companion-planting-master-table]] can be combined with rotation. For example, plant beans (legumes) between corn rows (heavy feeder) in the same season while still rotating the plot to a different family the following year.
+[[companion-planting-reference]] and [[companion-planting-reference]] can be combined with rotation. For example, plant beans (legumes) between corn rows (heavy feeder) in the same season while still rotating the plot to a different family the following year.
 
 ## Common Mistakes
 
@@ -169,8 +169,8 @@ For small plots with intensive production, use succession planting within rotati
 
 ## Related Topics
 
-- [[cover-crops-guide]] for cover crop selection within rotations
+- [[cover-cropping-guide]] for cover crop selection within rotations
 - [[green-manure-crops]] for fertility-building rotation entries
-- [[companion-planting-master-table]] for beneficial plant pairings within rotation plots
-- [[companion-planting-master-table]] for growing multiple crops simultaneously
+- [[companion-planting-reference]] for beneficial plant pairings within rotation plots
+- [[companion-planting-reference]] for growing multiple crops simultaneously
 - [[insect-allies]] for rotation strategies against nematodes

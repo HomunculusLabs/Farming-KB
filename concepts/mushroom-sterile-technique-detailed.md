@@ -132,5 +132,5 @@ For growers working at scale or with a flow hood, additional clean room practice
 
 - [[mushroom-laminarar-flow-hood]] — building and using a laminar flow hood
 - [[agar-work-guide]] — sterile agar technique
-- [[mushroom-contamination-troubleshooting]] — what to look for when contamination occurs
+- [[mushroom-contamination-identification]] — what to look for when contamination occurs
 - [[grain-spawn-preparation]] — the grain inoculation process

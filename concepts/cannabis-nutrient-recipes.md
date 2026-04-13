@@ -65,7 +65,7 @@ Calcium and magnesium are frequently deficient in:
 
 ### Living Soil Amendment Schedule
 
-In a [[cannabis-indoor-living-soil]] system, nutrients are provided through pre-amended soil rather than liquid feeding. The soil food web breaks down organic matter and makes nutrients bioavailable on demand.
+In a [[cannabis-living-soil-guide]] system, nutrients are provided through pre-amended soil rather than liquid feeding. The soil food web breaks down organic matter and makes nutrients bioavailable on demand.
 
 #### Base Soil Mix (per cubic foot)
 
@@ -108,7 +108,7 @@ The molasses feeds beneficial bacteria, kelp provides micronutrients, and fish h
 
 #### Simple Fermented Plant Juice Tea
 
-- 1 cup [[food-fermentation]] plant extract (comfrey, nettle, or kelp FPJ)
+- 1 cup [[food-fermentation-guide]] plant extract (comfrey, nettle, or kelp FPJ)
 - 1 gallon dechlorinated water
 - 1 tablespoon molasses
 - Dilute and apply as soil drench during vegetative growth

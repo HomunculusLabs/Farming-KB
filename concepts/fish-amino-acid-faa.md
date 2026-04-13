@@ -145,7 +145,7 @@ FAA is the strongest nitrogen input in KNF. Overuse causes:
 FAA works synergistically with:
 - [[fermented-plant-extract-fpe]] — FPJ provides energy, FAA provides nitrogen
 - [[indigenous-microorganisms-imo]] — IMO provides microbes to break down FAA in soil
-- [[lactic-acid-bacteria]] — LAB helps prevent putrefaction
+- [[lactic-acid-bacteria-lab]] — LAB helps prevent putrefaction
 - [[oriental-herbal-nutrient-ohn]] — OHN prevents disease on nitrogen-rich soft tissue
 - [[water-soluble-calcium-wca]] — WS-Ca balances nitrogen, strengthens cell walls
 
@@ -156,4 +156,4 @@ FAA works synergistically with:
 - [[nutritive-cycle-theory]] — when to apply FAA
 - [[water-soluble-calcium-phosphate-wcp]] — use FAA residue for WS-CaPo
 - [[brown-rice-vinegar-brv]] — BRV for calcium extraction from bones
-- [[cannabis-indoor-living-soil]] — caution with FAA in living soil (already N-rich)
+- [[cannabis-living-soil-guide]] — caution with FAA in living soil (already N-rich)

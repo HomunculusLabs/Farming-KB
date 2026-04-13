@@ -163,8 +163,8 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 ## Related Topics
 
 - [[fungal-bacterial-interactions]] — Fungal interactions with bacteria
-- [[fungal-plant-pathogens]] — Plant pathogenic fungi
+- [[fungal-plant-diseases]] — Plant pathogenic fungi
 - [[mycopesticides]] — Fungal-based pest control
 - [[fungal-parasites]] — Fungal parasites
 - [[fungal-ecology]] — Fungal ecology overview
-- [[mushroom-contamination-troubleshooting]] — Contamination in cultivation
+- [[mushroom-contamination-identification]] — Contamination in cultivation

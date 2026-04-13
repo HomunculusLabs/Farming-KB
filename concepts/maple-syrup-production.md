@@ -187,7 +187,7 @@ Yields vary enormously by season, weather, and tree health.
 ## Related Pages
 
 - [[homesteading]] -- broader homestead activities
-- [[food-preservation]] -- storing syrup and other foods
+- [[food-preservation-canning]] -- storing syrup and other foods
 - [[permaculture-plant-catalog]] -- maple tree profiles
 - [[candle-making]] -- other homestead production
-- [[food-fermentation]] -- value-added food processing
+- [[food-fermentation-guide]] -- value-added food processing

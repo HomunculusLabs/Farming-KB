@@ -62,7 +62,7 @@ Fungi and fungus-like organisms span **three kingdoms comprising 11 phyla:**
 - Arbuscular mycorrhizal fungi (AMF)
 - Oblate root symbionts of most terrestrial plants
 - Produce glomalin (27-30% of soil carbon in colonized soils)
-- See [[fungal-symbiosis-with-plants]]
+- See [[fungal-symbiosis-types]]
 
 ### Kingdom Straminipila (Fungus-Like)
 
@@ -153,6 +153,6 @@ DNA-based approaches are revolutionizing fungal biodiversity studies:
 
 - [[fungal-spore-biology]] — Spore diversity and dispersal mechanisms
 - [[fungal-sexual-reproduction]] — Reproductive strategies affecting diversity
-- [[fungal-symbiosis-with-plants]] — Plant-fungal associations
+- [[fungal-symbiosis-types]] — Plant-fungal associations
 - [[mycotoxins-and-human-health]] — Fungal effects on human health
 - [[nicholas-money]] — Popular science writing on fungal biology

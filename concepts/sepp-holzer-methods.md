@@ -82,7 +82,7 @@ Holzer considers water management the most important aspect of his system:
 - Simple method: Drill holes, insert spawn plugs, seal with wax
 - Provides additional food production from "waste" wood
 
-See [[mushroom-cultivation-methods-comparison]] for detailed techniques.
+See [[mushroom-cultivation-methods]] for detailed techniques.
 
 ## Fruit Tree Varieties for Cold Climates
 
@@ -144,7 +144,7 @@ Holzer achieves productive farming without irrigation through:
 - [[permaculture-design]] — Permaculture design fundamentals
 - [[food-forest-design]] — Food forest design framework
 - [[homestead-water-systems]] — Water systems for homesteads
-- [[mushroom-cultivation-methods-comparison]] — Mushroom growing techniques
+- [[mushroom-cultivation-methods]] — Mushroom growing techniques
 - [[hugelkultur-guide]] — Comprehensive hugelkultur construction guide
 - [[sepp-holzer]] — Austrian farmer, Krameterhof pioneer, agro-rebel philosophy
 

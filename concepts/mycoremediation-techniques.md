@@ -195,5 +195,5 @@ The most effective approaches combine multiple remediation strategies:
 ## See Also
 
 - [[mycoremediation-techniques]] — this page
-- [[medicinal-mushroom-compounds]] — fungal compounds with applications beyond remediation
+- [[medicinal-mushroom-guide]] — fungal compounds with applications beyond remediation
 - [[fungal-based-materials]] — mycelium applications in manufacturing and construction

@@ -151,8 +151,8 @@ Detailed harvest timing and storage conditions for all 25+ crops, organized by s
 
 - [[vegetable-garden-fertilization]] — Complete fertilization program, pH adjustment, organic matter
 - [[vegetable-garden-harvest]] — Harvest timing and storage conditions by crop
-- [[companion-planting]] — Beneficial plant pairings
-- [[seed-saving]] — Saving seeds from open-pollinated varieties
+- [[companion-planting-reference]] — Beneficial plant pairings
+- [[seed-saving-techniques]] — Saving seeds from open-pollinated varieties
 - [[mulching-guide]] — Detailed mulching techniques
 - [[soil-testing]] — Soil analysis methods
 - [[interpreting-soil-test-results]] — Understanding soil test reports

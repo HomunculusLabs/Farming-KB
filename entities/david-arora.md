@@ -49,5 +49,5 @@ Arora's field guides set the standard for accessible mycological identification 
 - [[gary-lincoff]] — fellow field guide author and collaborator
 - [[paul-stamets]] — credited Arora's contributions to his work
 - [[mushroom-species-guide]] — field identification and taxonomy
-- [[psilocybin-mushroom-distribution]] — species documentation
+- [[psilocybin-mushroom-chemistry]] — species documentation
 - [[history-of-mycology-timeline]] — broader fungal science

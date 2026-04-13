@@ -98,6 +98,6 @@ The end of prohibition: from Colorado and Washington's historic legalization vot
 - [[cannabis-prohibition-history]] — complete history from ancient use through War on Drugs
 - [[cannabis-health-therapeutics]] — medical applications by condition
 - [[cannabis-genetics-and-breeding]] — breeding methods shaped by prohibition-era underground work
-- [[cannabis-indoor-living-soil]] — modern living soil cultivation methods
+- [[cannabis-living-soil-guide]] — modern living soil cultivation methods
 - [[cannabis-spiritual-ritual-use]] — ceremonial use across traditions
 - [[robert-clarke]] — cannabis botany and ethnobotany authority

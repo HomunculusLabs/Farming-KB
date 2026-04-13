@@ -164,7 +164,7 @@ From Mollison's detailed treatment:
 - [[water-management]] — Water harvesting strategies
 - [[sepp-holzer-methods]] — Holzer's mountain climate techniques
 - [[hugelkultur-guide]] — Raised bed water retention
-- [[no-till-farming]] — Minimum disturbance soil management
+- [[no-till-gardening-method]] — Minimum disturbance soil management
 - [[mulching-guide]] — Mulch types and application
 
 ## Related

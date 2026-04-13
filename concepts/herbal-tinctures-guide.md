@@ -179,7 +179,7 @@ Tinctures can be combined in the same bottle for formula preparations:
 
 ## See Also
 
-- [[herbal-remedies-reference]] — Individual herb profiles and preparations
+- [[herbal-medicine]] — Individual herb profiles and preparations
 - [[herbal-salves-and-balms]] — Topical herbal preparations
 - [[herbal-medicine]] — Complete herbal medicine guide for the homestead
 

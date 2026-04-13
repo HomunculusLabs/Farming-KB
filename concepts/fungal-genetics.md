@@ -168,7 +168,7 @@ CRISPR-Cas9 genome editing has revolutionized fungal genetics since ~2015:
 
 ## See Also
 
-- [[fungal-biology-lifecycle]] for the genetic context of the fungal life cycle
+- [[fungal-biology-fundamentals]] for the genetic context of the fungal life cycle
 - [[mushroom-genetics-strain-selection]] for practical genetics in cultivation
 - [[fungal-sexual-reproduction]] for mating type systems
 - [[fungal-evolution]] for how fungal genomes have changed over time

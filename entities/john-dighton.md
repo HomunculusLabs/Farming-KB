@@ -18,7 +18,7 @@ Dighton's path to mycology was unconventional. As an undergraduate, he could not
 
 ## Key Research Contributions
 
-- **Mycorrhizal ecology**: Research on mycorrhizal fungal diversity and effects on plant growth and nutrient uptake (Dighton et al., 1986). His work on [[mycorrhizal-fungi]] demonstrates how fungal networks mediate plant-soil interactions central to [[cannabis-indoor-living-soil]] approaches.
+- **Mycorrhizal ecology**: Research on mycorrhizal fungal diversity and effects on plant growth and nutrient uptake (Dighton et al., 1986). His work on [[mycorrhizal-fungi]] demonstrates how fungal networks mediate plant-soil interactions central to [[cannabis-living-soil-guide]] approaches.
 - **Pollutant interactions**: Studies on fungal interactions with atmospheric pollutants and effects on ectomycorrhizal communities (Dighton & Jansen, 1991; Dighton & Boddy, 1989)
 - **Radionuclide accumulation**: Research on fungal accumulation of radionuclides (Dighton & Terry, 1996), with implications for environmental monitoring and [[mycoremediation-basics]]
 - **Nutrient cycling**: Contributions to understanding saprotrophic [[fungal-biodiversity]] roles in nitrogen, phosphorus, and sulfur cycling in forest ecosystems, directly relevant to [[soil-food-web-nutrient-cycling]]
@@ -32,11 +32,11 @@ Dighton's major reference work was motivated by the lack of a textbook approachi
 - Mycorrhizal relationships and plant-fungal interactions
 - Fungal pathology in ecosystem context
 - Fungal interactions with pollutants and environmental change
-- The role of fungi in [[soil-food-web]] dynamics
+- The role of fungi in [[soil-food-web-nutrient-cycling]] dynamics
 
 ## Significance
 
-Dighton's work provides the scientific foundation for understanding how fungi drive ecosystem processes, directly relevant to [[cannabis-indoor-living-soil]] approaches, [[composting-systems]], [[mycoremediation-basics]], and [[mycorrhizal-fungi]] in agricultural and natural systems. His research demonstrates that fungal networks are essential to nutrient cycling, plant health, and ecosystem resilience — concepts central to regenerative agriculture and homesteading practices.
+Dighton's work provides the scientific foundation for understanding how fungi drive ecosystem processes, directly relevant to [[cannabis-living-soil-guide]] approaches, [[composting-systems]], [[mycoremediation-basics]], and [[mycorrhizal-fungi]] in agricultural and natural systems. His research demonstrates that fungal networks are essential to nutrient cycling, plant health, and ecosystem resilience — concepts central to regenerative agriculture and homesteading practices.
 
 ## Related
 

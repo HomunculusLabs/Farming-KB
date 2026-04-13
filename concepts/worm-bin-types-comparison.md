@@ -118,9 +118,9 @@ Most homestead bins use one of two species:
 
 ## Related Concepts
 
-- [[vermicompost]] — Detailed guide on worm composting process and management
+- [[vermicomposting]] — Detailed guide on worm composting process and management
 - [[composting-methods-comparison]] — General composting methods including thermophilic composting as an alternative or complement to vermicomposting
-- [[cannabis-indoor-living-soil]] — How worm castings contribute to living soil biology
+- [[cannabis-living-soil-guide]] — How worm castings contribute to living soil biology
 
 ## Key Maintenance Tips
 

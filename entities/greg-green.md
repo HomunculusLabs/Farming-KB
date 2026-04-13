@@ -28,12 +28,12 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 9. **Hydroponics** — growing mediums, nutrients, the bubbler system
 10. **Outdoor growing** — site selection, care
 11. **Plant care** — thinning, light bending, pruning, training, yield increase (see [[cannabis-topping-training]])
-12. **Predators and pests** — identification and management (see [[cannabis-pest-identification]])
+12. **Predators and pests** — identification and management (see [[cannabis-pest-management]])
 13. **Problem solver** — troubleshooting common issues
-14. **Harvesting and curing** — indica vs sativa harvest timing, curing (see [[cannabis-harvesting-and-curing]])
+14. **Harvesting and curing** — indica vs sativa harvest timing, curing (see [[cannabis-harvest-and-curing]])
 15. **Breeding** — making seeds, pollen, simple breeding, genetics (dominant/recessive, Hardy-Weinberg), true breeding (cubing/backcrossing, selfing)
 16. **Strain index** — reference of known varieties
-17. **Hash making** — trichome collection, screening methods (see [[hashish-making]])
+17. **Hash making** — trichome collection, screening methods (see [[cannabis-hashish-guide]])
 
 ## Key Contributions
 
@@ -54,8 +54,8 @@ Green's Grow Bible became a foundational reference for cannabis cultivators worl
 - [[robert-clarke]] — complementary work on cannabis botany and breeding
 - [[cannabis-lighting-guide]] — lighting systems covered extensively
 - [[cannabis-topping-training]] — plant training techniques
-- [[cannabis-harvesting-and-curing]] — harvest timing and curing methods
-- [[cannabis-pest-identification]] — pest identification and management
+- [[cannabis-harvest-and-curing]] — harvest timing and curing methods
+- [[cannabis-pest-management]] — pest identification and management
 - [[cannabis-growth-stage-checklist]] — week-by-week grow checklist
 - [[cannabis-genetics-and-breeding]] — breeding chapter content
-- [[hashish-making]] — hash production from trichome screening
+- [[cannabis-hashish-guide]] — hash production from trichome screening

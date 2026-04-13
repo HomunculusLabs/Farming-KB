@@ -116,10 +116,10 @@ Biochar is a one-time investment. Unlike compost or mulch, it does not decompose
 
 ## Biochar in Living Soil Systems
 
-In no-till and [[cannabis-indoor-living-soil]] systems, biochar is particularly valuable because:
+In no-till and [[cannabis-living-soil-guide]] systems, biochar is particularly valuable because:
 
 - It provides permanent pore space that tilling would normally create temporarily
 - Its nutrient-holding capacity reduces the need for frequent top-dressing
-- It supports the [[soil-food-web]] by providing microhabitat for bacteria, fungi, and protozoa
+- It supports the [[soil-food-web-nutrient-cycling]] by providing microhabitat for bacteria, fungi, and protozoa
 - It buffers pH swings that can occur with organic matter decomposition
 - Combined with [[mycorrhizal-fungi]] inoculation, biochar creates a long-term nutrient cycling infrastructure

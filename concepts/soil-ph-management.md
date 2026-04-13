@@ -14,7 +14,7 @@ Soil pH is the master variable controlling nutrient availability, microbial acti
 ## Why pH Matters
 
 - **Nutrient availability**: Most macronutrients (N, P, K, Ca, Mg, S) are maximally available between pH 6.0-7.0. Outside this range, nutrients become locked in unavailable forms even if present in the soil.
-- **Microbial activity**: Soil bacteria peak around pH 6.3-6.8, while fungi tolerate a wider range. Extreme pH suppresses the [[soil-food-web]] and decomposition rates.
+- **Microbial activity**: Soil bacteria peak around pH 6.3-6.8, while fungi tolerate a wider range. Extreme pH suppresses the [[soil-food-web-nutrient-cycling]] and decomposition rates.
 - **Toxic element solubility**: At low pH (<5.5), aluminum and manganese become toxic to roots. At high pH (>7.5), iron, zinc, and boron become deficient.
 - **Herbicide and pesticide efficacy**: Many agrochemicals perform differently at different pH levels.
 - **Mycorrhizal colonization**: Most arbuscular mycorrhizal fungi prefer pH 5.5-7.0. Outside this range, colonization rates drop significantly.

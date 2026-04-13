@@ -170,7 +170,7 @@ Outdoor beds fruit in response to natural environmental cues:
 ## See Also
 
 - [[outdoor-wood-lover-cultivation]] for specialized outdoor psilocybe beds
-- [[mushroom-cultivation-methods-comparison]] for choosing between cultivation approaches
+- [[mushroom-cultivation-methods]] for choosing between cultivation approaches
 - [[mushroom-substrates]] for detailed substrate science
 - [[mushroom-log-cultivation]] for log-based outdoor growing
 - [[garden-mushroom-growing]] for companion planting with fungi

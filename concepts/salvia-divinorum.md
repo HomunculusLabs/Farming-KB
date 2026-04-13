@@ -1,5 +1,5 @@
 ---
-title: [[salvia-divinorum-preparation|Salvia]] divinorum — Diviner's Sage
+title: [[salvia-divinorum|Salvia]] divinorum — Diviner's Sage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -115,5 +115,5 @@ The rapid spread of online videos showing recreational use contributed significa
 - [[psychedelic-compounds-reference]] for pharmacological comparison with other psychoactive plants
 - [[maria-sabina-and-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
 - [[entheogen-culture]] for broader indigenous plant-use knowledge
-- [[harm-reduction]] for general safety principles
+- [[harm-reduction-guide]] for general safety principles
 - [[salvinorin-reference]]

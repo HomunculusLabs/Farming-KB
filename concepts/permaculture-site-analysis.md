@@ -56,7 +56,7 @@ A thorough soil assessment informs plant selection, earthwork design, and amendm
 - **Lab analysis** — for detailed nutrient levels, organic matter percentage, CEC
 
 ### Soil Mapping
-Create a soil map showing different soil types across the site. Note areas of compaction, erosion, waterlogging, or contamination. This map directly influences [[permaculture-water-management]] earthwork placement and plant community selection.
+Create a soil map showing different soil types across the site. Note areas of compaction, erosion, waterlogging, or contamination. This map directly influences [[water-management]] earthwork placement and plant community selection.
 
 ## Water Flow Analysis
 
@@ -119,5 +119,5 @@ A complete site analysis package typically includes:
 
 - [[permaculture-ethics-and-principles]] — foundational design ethics and principles
 - [[permaculture-design-methods]] — frameworks for moving from analysis to design
-- [[permaculture-water-management]] — detailed water earthworks and strategies
+- [[water-management]] — detailed water earthworks and strategies
 - [[permaculture-forest-garden-establishment]] — using site analysis for planting plans

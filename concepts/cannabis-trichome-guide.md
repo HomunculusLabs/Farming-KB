@@ -173,4 +173,4 @@ The quality of starting material directly determines the quality of the final ex
 
 - [[cannabis-terpene-profile]] for what trichomes produce beyond cannabinoids
 - [[cannabis-flavonoids]] for lesser-known compounds also produced in trichomes
-- [[cannabis-light-spectrum-guide]] for how light spectrum affects trichome development
+- [[cannabis-lighting-guide]] for how light spectrum affects trichome development

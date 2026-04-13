@@ -135,5 +135,5 @@ Enoki is low in calories and rich in:
 - [[nameko-cultivation]] for another cold-fruiting Asian mushroom
 - [[shiitake-cultivation-guide]] for hardwood substrate cultivation methods
 - [[mushroom-substrates]]
-- [[mushroom-growing-room-design]]
-- [[mushroom-drying-and-storage]]
+- [[mushroom-grow-room-design]]
+- [[mushroom-drying-storage]]

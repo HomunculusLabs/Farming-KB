@@ -47,7 +47,7 @@ A decision guide for choosing between natural farming approaches based on your g
 
 **Long-term self-sufficient homestead**
 → [[homesteading]] overview + [[permaculture-design]] for layout
-→ Combine [[no-till-farming]] + [[cover-cropping-guide]] + [[food-forest-design]]
+→ Combine [[no-till-gardening-method]] + [[cover-cropping-guide]] + [[food-forest-design]]
 
 **Philosophical/spiritual approach**
 → [[natural-farming-fukuoka]] — do-nothing farming philosophy
@@ -62,11 +62,11 @@ A decision guide for choosing between natural farming approaches based on your g
 ### Beginner (First Year)
 1. Start with [[nutrient-dense-gardening]] — one recipe, clear instructions, soil test
 2. Add [[composting-systems]] — the universal soil amendment
-3. Learn [[seed-saving]] — start building self-reliance
+3. Learn [[seed-saving-techniques]] — start building self-reliance
 4. Read permaculture introduction
 
 ### Intermediate (2-3 Years)
-1. Add [[no-till-farming]] — reduce tillage, build soil structure
+1. Add [[no-till-gardening-method]] — reduce tillage, build soil structure
 2. Try [[cover-cropping-guide]] — start closing nutrient loops
 3. Explore [[knf-preparations]] — add fermented inputs
 4. Begin [[food-forest-design]] — plant perennials
@@ -87,7 +87,7 @@ A decision guide for choosing between natural farming approaches based on your g
 ### Backyard Garden (0.1-0.5 acres)
 - [[permaculture-design]] for zone planning
 - [[nutrient-dense-gardening]] for vegetables
-- [[no-till-farming]] for soil health
+- [[no-till-gardening-method]] for soil health
 - Small fruit trees, berry bushes
 
 ### Homestead (1-10 acres)
@@ -98,7 +98,7 @@ A decision guide for choosing between natural farming approaches based on your g
 
 ### Farm Scale (10+ acres)
 - [[keyline-design]] for water management
-- [[no-till-farming]] at scale
+- [[no-till-gardening-method]] at scale
 - [[jadam-methods]] for cost-effective inputs on large areas
 - [[cover-cropping-guide]] for rotational soil building
 

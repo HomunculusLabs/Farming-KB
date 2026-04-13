@@ -166,5 +166,5 @@ Best for: bareroot transplants, tree seedlings
 - [[fungal-symbiosis-types]] — Overview of all fungal symbiotic relationships
 - [[mycorrhizal-inoculation-guide|fungal-dna-barcoding]] — Verifying AMF presence through molecular methods
 - [[mycorrhizal-networks]]
-- [[soil-food-web]]
+- [[soil-food-web-nutrient-cycling]]
 - [[fungal-ecology]]

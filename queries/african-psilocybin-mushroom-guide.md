@@ -124,7 +124,7 @@ Major gaps in African psychoactive mycology:
 
 ## See Also
 
-- [[psilocybin-mushroom-distribution]] — Worldwide distribution overview
+- [[psilocybin-mushroom-chemistry]] — Worldwide distribution overview
 - [[mushroom-folklore-and-culture]] — Tassili rock art and cultural significance
 - [[psilocybin-mushroom-chemistry]] — Chemical analysis methods
 - [[jochen-gartz]] — Discoverer of P. natalensis, Tassili researcher

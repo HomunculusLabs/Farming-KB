@@ -39,7 +39,7 @@ The organic vs synthetic nutrient debate shapes every growing decision on a home
 | **Source** | Natural materials: compost, manure, minerals, meals | Manufactured salts: ammonium nitrate, MAP, potassium sulfate |
 | **Availability to plants** | Slow — must be broken down by soil biology | Immediate — water-soluble, plant-ready |
 | **Speed of response** | Days to weeks | Hours to days |
-| **Soil biology impact** | Feeds and builds [[soil-food-web]] | Damages soil biology at high concentrations |
+| **Soil biology impact** | Feeds and builds [[soil-food-web-nutrient-cycling]] | Damages soil biology at high concentrations |
 | **Soil structure** | Improves (adds organic matter) | Degrades over time (salt buildup, compaction) |
 | **Nutrient completeness** | Broad spectrum + trace minerals + growth hormones | NPK-focused; trace minerals need separate products |
 | **pH sensitivity** | Buffered by organic matter; more forgiving | Exact pH required for uptake; lockout common |
@@ -55,15 +55,15 @@ The organic vs synthetic nutrient debate shapes every growing decision on a home
 
 ### How Each Works
 
-**Organic nutrients** feed the [[soil-food-web]], not the plant directly. Bacteria and fungi decompose organic matter (compost, meals, manures) into plant-available forms. Mycorrhizal fungi transport nutrients directly to roots. This process is biological, self-regulating, and produces complex nutrient profiles. See [[cannabis-indoor-living-soil]] for the living soil approach.
+**Organic nutrients** feed the [[soil-food-web-nutrient-cycling]], not the plant directly. Bacteria and fungi decompose organic matter (compost, meals, manures) into plant-available forms. Mycorrhizal fungi transport nutrients directly to roots. This process is biological, self-regulating, and produces complex nutrient profiles. See [[cannabis-living-soil-guide]] for the living soil approach.
 
 **Synthetic nutrients** are water-soluble mineral salts that plants absorb directly through roots. No microbial mediation is needed. The grower controls exactly what the plant receives via ppm/EC targets. This is the standard approach in hydroponics and many commercial grows.
 
 ### Impact on Soil Biology
 
-This is the most significant difference. [[soil-food-web]] organisms — bacteria, fungi, protozoa, nematodes, earthworms — depend on organic matter for food.
+This is the most significant difference. [[soil-food-web-nutrient-cycling]] organisms — bacteria, fungi, protozoa, nematodes, earthworms — depend on organic matter for food.
 
-- **Organic inputs** feed these organisms. Compost, [[vermicompost]], [[compost-tea-aact]], and [[knf-preparations]] all support and multiply soil biology. Over time, the soil ecosystem becomes self-regulating.
+- **Organic inputs** feed these organisms. Compost, [[vermicomposting]], [[compost-tea-aact]], and [[knf-preparations]] all support and multiply soil biology. Over time, the soil ecosystem becomes self-regulating.
 - **Synthetic salts** at high EC (>2.0 mS/cm) are osmotic stressors that kill or suppress beneficial microbes. Repeated synthetic use depletes soil biology, creating dependency — plants can't access nutrients without the synthetic solution because the biological bridge is gone.
 - [[soil-fertility-management]] emphasizes: soil is a living system. Feed the soil, let the soil feed the plant.
 
@@ -75,7 +75,7 @@ For cannabis specifically, organic/living soil grows consistently produce:
 - **Better ash**: Clean white ash vs harsh black ash from synthetic residues
 - **More nuanced flavors**: "Living soil" is synonymous with craft cannabis quality
 
-The [[cannabis-plant-nutrition]] page lists organic sources for every macro and micronutrient cannabis needs. The [[cannabis-indoor-living-soil]] page provides complete living soil recipes and amendment schedules.
+The [[cannabis-plant-nutrition]] page lists organic sources for every macro and micronutrient cannabis needs. The [[cannabis-living-soil-guide]] page provides complete living soil recipes and amendment schedules.
 
 ### Cost Over Time
 
@@ -95,7 +95,7 @@ Some growers use organic base soil with synthetic boosters during specific growt
 - Keep soil biology strong with regular [[compost-tea-aact]] applications
 - Avoid synthetic nitrogen (ammonium nitrate) — it's the most damaging to microbes
 
-### [[regenerative-agriculture]] Perspective
+### [[regenerative-agriculture-history]] Perspective
 
 Regenerative agriculture aligns entirely with organic nutrition. The goal is to build soil health, increase organic matter, support microbial diversity, and create closed-loop nutrient cycles. Synthetic fertilizers are fundamentally incompatible with this philosophy because they:
 
@@ -113,8 +113,8 @@ For a regenerative homestead, organic nutrients are the clear choice. They build
 ## See Also
 
 - [[cannabis-plant-nutrition]] — Organic nutrient sources for all elements
-- [[cannabis-indoor-living-soil]] — Complete living soil setup and management
-- [[soil-food-web]] — The biology that makes organic nutrition work
+- [[cannabis-living-soil-guide]] — Complete living soil setup and management
+- [[soil-food-web-nutrient-cycling]] — The biology that makes organic nutrition work
 - [[soil-fertility-management]] — Solomon's COF recipe and mineral management
 - [[knf-preparations]] — On-farm biological inputs that replace purchased nutrients
 - [[dynamic-accumulators]] — Plants that mine and cycle minerals

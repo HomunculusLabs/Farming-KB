@@ -162,7 +162,7 @@ Every homestead should have a dedicated emergency communication kit:
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety]] — Emergency preparedness and risk management
+- [[mushroom-foraging-safety-guide]] — Emergency preparedness and risk management
 - [[homestead-security]] — Communication as part of the security posture
 - [[emergency-preparedness]] — Communication during extended power outages
 - [[emergency-preparedness]] — Emergency communication during evacuation scenarios

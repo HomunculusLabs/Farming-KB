@@ -16,7 +16,7 @@ Hugelkultur (German for "mound culture") is a permaculture technique that uses w
 The concept is simple: bury logs and branches under soil and plant on top. The decomposing wood core provides several functions simultaneously:
 
 - **Water retention**: Rotting wood absorbs and holds water like a sponge. A mature hugelkultur bed may hold enough moisture to go weeks without supplemental irrigation, even in drought conditions.
-- **Nutrient cycling**: As wood decomposes, it releases nutrients slowly. Fungi, bacteria, and other decomposers in the [[soil-food-web]] break down lignin and cellulose into plant-available forms.
+- **Nutrient cycling**: As wood decomposes, it releases nutrients slowly. Fungi, bacteria, and other decomposers in the [[soil-food-web-nutrient-cycling]] break down lignin and cellulose into plant-available forms.
 - **Soil warming**: The decomposition process generates heat, warming the bed earlier in spring and extending the growing season.
 - **Soil building**: Over years, the wood breaks down into rich humus, building deep topsoil from below.
 - **Carbon sequestration**: Wood buried in hugel beds is largely anaerobic and decomposes slowly, storing carbon for decades.
@@ -27,7 +27,7 @@ The concept is simple: bury logs and branches under soil and plant on top. The d
 
 The classic above-ground method:
 
-1. **Site selection**: Choose a location that receives adequate sun for intended crops. Swales or contour features can be integrated. See [[swale-design]] for water management integration.
+1. **Site selection**: Choose a location that receives adequate sun for intended crops. Swales or contour features can be integrated. See [[swale-design-construction]] for water management integration.
 2. **Mark dimensions**: Typical beds are 4-8 feet wide at the base and 3-6 feet tall. Length is flexible. Orient the long axis north-south for even sun exposure.
 3. **Excavate (optional)**: Remove topsoil and set aside. Dig a shallow trench (6-12 inches) to increase bed height and improve contact with subsoil moisture.
 4. **Wood core layer**: Fill the bottom with logs, branches, and woody debris. Use the largest wood at the bottom, progressing to smaller branches toward the top. Pack tightly to minimize air pockets that cause settling.
@@ -124,7 +124,7 @@ As decomposition progresses, the bed becomes increasingly productive:
 - **Reduced irrigation**: Mature beds can go 2-4 weeks without watering in temperate climates
 - **Extended season**: Decomposition heat extends spring and fall growing windows
 - **Waste utilization**: Converts brush, fallen trees, and prunings into productive growing space
-- **No-till**: Once built, hugel beds are never tilled. [[no-till-farming]] is inherent to the design.
+- **No-till**: Once built, hugel beds are never tilled. [[no-till-gardening-method]] is inherent to the design.
 - **Soil building**: Creates deep, rich topsoil from wood waste
 - **Microclimate creation**: Mounds create sun-facing and shade-facing microclimates for diverse plantings
 

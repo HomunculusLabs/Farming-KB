@@ -102,7 +102,7 @@ Concept maps (or mind maps) are visual tools for organizing ideas and relationsh
 ## Design Process Tips
 
 ### Start with Water
-Water is almost always the first priority. Get water management right and the rest of the design follows more easily. See [[permaculture-water-management]] for detailed strategies.
+Water is almost always the first priority. Get water management right and the rest of the design follows more easily. See [[water-management]] for detailed strategies.
 
 ### Earthworks Before Plants
 Install swales, ponds, terraces, and access roads before planting. Moving earth around established root systems damages plants and soil.

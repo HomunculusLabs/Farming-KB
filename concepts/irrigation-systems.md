@@ -84,7 +84,7 @@ Sprinklers waste 30-50% to evaporation and wind compared to drip. Reserve for pa
 
 ## Flood/Furrow Irrigation
 - **Basin irrigation**: Build soil berms around fruit trees, flood basins weekly. Simplest method. Excellent for establishing young trees.
-- **Furrow irrigation**: Channels between crop rows. Works with gravity flow from rainwater tanks. Good for [[grain-and-staple-crops]] and [[cover-cropping]].
+- **Furrow irrigation**: Channels between crop rows. Works with gravity flow from rainwater tanks. Good for [[grain-and-staple-crops]] and [[cover-cropping-guide]].
 - **Swale irrigation**: Contour swales ([[water-management]]) fill during rain, slowly release to downslope plantings. Zero energy input.
 
 ## Olla Pots

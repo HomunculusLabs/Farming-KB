@@ -24,7 +24,7 @@ sources:
 
 # Cover Cropping Guide
 
-Cover crops are plants grown primarily to benefit the soil rather than for harvest. They protect soil from erosion, add organic matter, fix nitrogen, suppress weeds, and feed the [[soil-food-web]].
+Cover crops are plants grown primarily to benefit the soil rather than for harvest. They protect soil from erosion, add organic matter, fix nitrogen, suppress weeds, and feed the [[soil-food-web-nutrient-cycling]].
 
 ## Why Cover Crop
 
@@ -36,7 +36,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 - **Soil structure** — root channels improve water infiltration and aeration
 - **Weed suppression** — competitive canopy shades out weed seeds
 - **Pest disruption** — breaks pest and disease cycles
-- **Microbial food** — root exudates and residue feed [[soil-food-web]]
+- **Microbial food** — root exudates and residue feed [[soil-food-web-nutrient-cycling]]
 - **Moisture retention** — mulch layer reduces evaporation
 
 ### The Fallow Year Concept
@@ -132,13 +132,13 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 | Winter kill | Let frost kill | Oats, buckwheat, sorghum | Easiest; plan timing right |
 | Herbicide | Spray (non-organic) | All | Defeats organic purpose |
 
-**Best practice for [[no-till-farming]]**: Use winter-kill species or crimper. Avoid tillage termination when possible.
+**Best practice for [[no-till-gardening-method]]**: Use winter-kill species or crimper. Avoid tillage termination when possible.
 
 ## See Also
 
 - [[dynamic-accumulators]] — deep-rooted mineral miners
-- [[no-till-farming]] — cover crops as no-till foundation
-- [[soil-food-web]] — how cover crops feed soil biology
+- [[no-till-gardening-method]] — cover crops as no-till foundation
+- [[soil-food-web-nutrient-cycling]] — how cover crops feed soil biology
 - [[nutrient-dense-gardening]] — complete mineral approach
 - [[composting-systems]] — converting cover crop residue to humus
 - [[soil-fertility-management]] — overall fertility strategy

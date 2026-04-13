@@ -59,7 +59,7 @@ The techniques described in Cannabis Alchemy -- particularly isomerization and h
 
 ## See Also
 
-- [[cannabis-extraction-methods]] for comprehensive modern extraction comparison
+- [[cannabis-extraction-basics]] for comprehensive modern extraction comparison
 - [[thc-acetate-and-isomerization]] for detailed chemistry from this book
-- [[hashish-making]] for traditional and modern hashish techniques
+- [[cannabis-hashish-guide]] for traditional and modern hashish techniques
 - [[cannabis-health-therapeutics]] for medical applications of extracts

@@ -28,7 +28,7 @@ sources:
 
 # Cover Crop Quick Reference
 
-Quick-reference table for selecting cover crops by family, planting window, and purpose. See [[cover-cropping]] for the full concept page and [[no-till-farming]] for integration with reduced-disturbance systems.
+Quick-reference table for selecting cover crops by family, planting window, and purpose. See [[cover-cropping-guide]] for the full concept page and [[no-till-gardening-method]] for integration with reduced-disturbance systems.
 
 ## Crop Selection Table
 
@@ -77,8 +77,8 @@ Quick-reference table for selecting cover crops by family, planting window, and 
 
 | Method | How | Best For |
 |--------|-----|----------|
-| Crimp-and-roll | Mechanical roller at flowering | Tall upright crops (rye, vetch), [[no-till-farming]] |
-| Chop-and-drop | Cut and leave in place | Smaller crops, polycultures, [[companion-planting]] |
+| Crimp-and-roll | Mechanical roller at flowering | Tall upright crops (rye, vetch), [[no-till-gardening-method]] |
+| Chop-and-drop | Cut and leave in place | Smaller crops, polycultures, [[companion-planting-reference]] |
 | Mow | Rotary mower before seed set | Clovers, grasses, broadleaves |
 | Solarization | Clear plastic tarp 2-4 weeks | Weed-heavy beds between cycles |
 | Grazing | Livestock or poultry | Larger plantings, returns manure to soil |
@@ -94,9 +94,9 @@ Quick-reference table for selecting cover crops by family, planting window, and 
 
 ## See Also
 
-- [[cover-cropping]] -- full concept guide
-- [[no-till-farming]] -- reduced-disturbance integration
+- [[cover-cropping-guide]] -- full concept guide
+- [[no-till-gardening-method]] -- reduced-disturbance integration
 - [[dynamic-accumulators]] -- nutrient-mining cover crops
-- [[regenerative-agriculture]] -- broader context
-- [[soil-food-web]] -- how cover crops feed soil biology
-- [[companion-planting]] -- combining covers with cash crops
+- [[regenerative-agriculture-history]] -- broader context
+- [[soil-food-web-nutrient-cycling]] -- how cover crops feed soil biology
+- [[companion-planting-reference]] -- combining covers with cash crops

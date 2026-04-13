@@ -90,7 +90,7 @@ Preservation method that also creates flavor:
 - Spices: peppercorns, garlic, bay leaf, mustard seed, chili
 - Best species: chanterelles, king bolete, honey mushroom
 - Develops flavor over weeks; improves with age
-- See [[food-preservation]] methods for detailed pickling guidance
+- See [[food-preservation-canning]] methods for detailed pickling guidance
 
 ### Drying
 - Best preservation method for most mushrooms
@@ -196,4 +196,4 @@ Preservation method that also creates flavor:
 ## See Also
 
 - [[edible-wild-mushrooms-by-region]] -- finding mushrooms to cook with
-- [[sustainable-mushroom-foraging]] -- ethical harvesting for the kitchen
+- [[mushroom-foraging-safety-guide]] -- ethical harvesting for the kitchen

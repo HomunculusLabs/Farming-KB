@@ -179,4 +179,4 @@ Goat milk does not separate cream as readily as cow milk due to smaller fat glob
 
 - [[homesteading-income-streams]] -- goat dairy products as a revenue stream
 - animal husbandry for general goat care principles
-- [[food-fermentation]] -- cheese and yogurt are both fermented dairy products
+- [[food-fermentation-guide]] -- cheese and yogurt are both fermented dairy products

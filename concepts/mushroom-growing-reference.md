@@ -31,7 +31,7 @@ sources:
 
 # Mushroom Growing Reference
 
-Complete practical reference synthesizing all cultivation sources into one actionable page. See [[mushroom-cultivation-methods-comparison]] for method selection and [[mushroom-contamination-troubleshooting]] for problem-solving.
+Complete practical reference synthesizing all cultivation sources into one actionable page. See [[mushroom-cultivation-methods]] for method selection and [[mushroom-contamination-identification]] for problem-solving.
 
 ## Spawn Types
 
@@ -127,7 +127,7 @@ Outdoor beds in shaded locations. Wood chip spawn preferred over direct grain in
 |---------|-------------|-----|
 | No growth after 2 weeks | Dead spores / wrong temp | Try new syringe; verify 70-80F |
 | Slow colonization | Too cold / too wet / old spawn | Raise temp; check moisture; use fresh spawn |
-| Green mold (Trichoderma) | Contamination | See [[mushroom-contamination-troubleshooting]] |
+| Green mold (Trichoderma) | Contamination | See [[mushroom-contamination-identification]] |
 | Fluffy mycelium, no pins | Too high CO2 / too high temp | Increase FAE; lower temp 5-10F |
 | Pins aborting | Low humidity / touching / CO2 | Raise humidity; don't handle; increase FAE |
 | Small mushrooms | Insufficient substrate / genetics | Use more substrate; clone good performers |
@@ -135,11 +135,11 @@ Outdoor beds in shaded locations. Wood chip spawn preferred over direct grain in
 | Splitting caps | Low humidity / rapid growth | Raise humidity gradually |
 
 ## Related Pages
-- [[mushroom-cultivation-methods-comparison]] — Method selection guide
-- [[mushroom-contamination-troubleshooting]] — Contaminant ID and recovery
+- [[mushroom-cultivation-methods]] — Method selection guide
+- [[mushroom-contamination-identification]] — Contaminant ID and recovery
 - [[mushroom-species-guide]] — Detailed species parameters
 - [[mushroom-substrates]] — Substrate recipes and C:N ratios
-- [[mushroom-sterile-technique]] — Sterile workflow
+- [[mushroom-sterile-technique-detailed]] — Sterile workflow
 - [[mushroom-grow-equipment]] — Gear by tier
 - [[mushroom-spore-printing-and-storage]] — Spore collection and viability
 - [[outdoor-wood-lover-cultivation]] — Detailed outdoor bed guide for wood lovers

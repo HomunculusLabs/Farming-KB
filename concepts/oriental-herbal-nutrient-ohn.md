@@ -176,7 +176,7 @@ OHN is one of KNF's primary pest management tools:
 For serious pest pressure, combine OHN with:
 - [[fermented-plant-extract-fpe]] — neem or garlic FPJ for extra punch
 - [[indigenous-microorganisms-imo]] — IMO foliar spray to outcompete pathogens
-- [[lactic-acid-bacteria]] — LAB suppresses pathogenic bacteria
+- [[lactic-acid-bacteria-lab]] — LAB suppresses pathogenic bacteria
 
 ## OHN in the Nutritive Cycle
 

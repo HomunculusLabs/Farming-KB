@@ -35,7 +35,7 @@ Jeff Lowenfels writes a weekly garden column for the Anchorage Daily News that h
 
 ## Key Contributions
 
-- **"Teaming With Microbes" (2006, with Wayne Lewis):** The landmark book that introduced millions of gardeners to the [[soil-food-web]]. Explains soil bacteria, fungi, protozoa, nematodes, and how they cycle nutrients to plants. Includes practical "Soil Food Web Gardening Rules" for managing bacterial vs. fungal dominance in different garden contexts. Covers composting, mulching, and [[compost-tea-aact]] brewing in detail. Reframed gardening from a chemical-input mindset to a biological-input mindset.
+- **"Teaming With Microbes" (2006, with Wayne Lewis):** The landmark book that introduced millions of gardeners to the [[soil-food-web-nutrient-cycling]]. Explains soil bacteria, fungi, protozoa, nematodes, and how they cycle nutrients to plants. Includes practical "Soil Food Web Gardening Rules" for managing bacterial vs. fungal dominance in different garden contexts. Covers composting, mulching, and [[compost-tea-aact]] brewing in detail. Reframed gardening from a chemical-input mindset to a biological-input mindset.
 
 - **"Teaming With Nutrients" (2013):** Deep dive into plant nutrition — how plants absorb NPK and micronutrients at the molecular level, the role of soil biology in making nutrients available, and how to feed the soil rather than the plant. Covers the nitrogen cycle, phosphorus chemistry, and photosynthesis in accessible detail.
 
@@ -70,13 +70,13 @@ The "Teaming With" trilogy has become essential reading for organic and regenera
 ## See Also
 
 - [[wayne-lewis]] — Co-author of Teaming With Microbes
-- [[soil-food-web]] — The soil food web in detail
-- [[soil-food-web-advanced]] — Advanced soil biology topics
+- [[soil-food-web-nutrient-cycling]] — The soil food web in detail
+- [[soil-food-web-nutrient-cycling]] — Advanced soil biology topics
 - [[mycorrhizal-fungi]] — Mycorrhizal relationships
 - [[compost-tea-aact]] — Compost tea brewing
 - [[composting-systems]] — Compost methods
 - [[mulching-guide]] — Mulch for soil biology
 - [[glomalin]] — Mycorrhizal soil carbon compound
 - [[soil-fertility-management]] — Nutrient management
-- [[vermicompost]] — Worm composting
-- [[no-till-farming]] — Protecting fungal networks
+- [[vermicomposting]] — Worm composting
+- [[no-till-gardening-method]] — Protecting fungal networks

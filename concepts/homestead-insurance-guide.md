@@ -147,4 +147,4 @@ Insurance protects homestead businesses from financial catastrophe. As a farm or
 | Workers comp (if employees) | $200-600 | Required in most states |
 | Umbrella policy | $200-500 | Recommended |
 
-Insurance costs should be factored into [[homestead-scale-assessment]] and are a legitimate deduction for [[homestead-tax-planning]].
+Insurance costs should be factored into [[homestead-scale-assessment]] and are a legitimate deduction for [[homestead-financial-planning]].

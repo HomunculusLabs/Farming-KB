@@ -98,7 +98,7 @@ With good construction and packing, expect 50-75% ice retention:
 ### Modern Adaptations
 - Use rigid foam insulation (R-30+ walls and ceiling) instead of sawdust
 - Install a small solar-powered ventilation fan
-- Combine with a [[root-cellar-design-build|root cellar]] for a complete
+- Combine with a [[root-cellaring-guide|root cellar]] for a complete
   off-grid food preservation system
 - Use food-grade glycol or brine loops to distribute cooling to other areas
 
@@ -141,7 +141,7 @@ chill food stored in the structure.
   directly in the flowing water (in sealed containers)
 - Maintain 45-55F — sufficient for dairy, eggs, and short-term meat storage
 - Not cold enough for freezing — use in combination with ice from an
-  [[root-cellar-design-build|ice house]] or root cellar for complete
+  [[root-cellaring-guide|ice house]] or root cellar for complete
   preservation
 
 **Other uses:**

@@ -184,5 +184,5 @@ Synthetic mineral lines: General Hydroponics (Flora), Advanced Nutrients, Canna,
 ## See Also
 
 - [[aeroponics-guide]] for the most advanced hydroponic method
-- [[cannabis-light-spectrum-guide]] for optimizing light in hydroponic grows
+- [[cannabis-lighting-guide]] for optimizing light in hydroponic grows
 - [[plant-nutrient-deficiency-guide]] for diagnosing nutrient issues in solution

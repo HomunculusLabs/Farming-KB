@@ -144,7 +144,7 @@ Carandang's enhanced bokashi formula (Philippine version):
 
 ## How Bionutrients Affect Soil Biology
 
-- FPJ feeds [[soil-food-web]] bacteria and fungi with plant-available nutrients and growth hormones
+- FPJ feeds [[soil-food-web-nutrient-cycling]] bacteria and fungi with plant-available nutrients and growth hormones
 - FAA provides rapid nitrogen for bacterial bloom during early decomposition
 - LAB arrests foul odors, neutralizes ammonia, creates conditions favorable for beneficial microbes over pathogens
 - OHN's antibiotic properties selectively suppress harmful organisms while sparing beneficials
@@ -157,7 +157,7 @@ Carandang's enhanced bokashi formula (Philippine version):
 - [[indigenous-microorganisms-imo]] — IMO 4-stage collection (Cho's method)
 - [[lactic-acid-bacteria-lab]] — Detailed LAB collection and storage
 - [[jadam-methods]] — JADAM's alternative biological farming system
-- [[soil-food-web]] — How bionutrients interact with soil biology
+- [[soil-food-web-nutrient-cycling]] — How bionutrients interact with soil biology
 - [[fermented-plant-extract-fpe]] — FPJ recipes and plant selection
 - [[fish-amino-acid-faa]] — KNF FAA detailed recipe
 - [[oriental-herbal-nutrient-ohn]] — 5-herb OHN preparation

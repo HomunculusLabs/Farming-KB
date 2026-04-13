@@ -28,7 +28,7 @@ Turner was described as "the Chuck Yeager of psychonauts, a test pilot's test pi
 
 ## Historical Context
 
-Turner's introduction included a comprehensive history of psychedelics "from the Creation of Gods to the Demise of Psychedelic Reverence in Modern Times," documenting the trajectory from [[albert-hofmann]]'s discovery of LSD through the 1960s counterculture to the prohibition era. His work referenced and built upon the contributions of [[r-gordon-wasson]], [[richard-evans-schultes]], [[alexander-shulgin]], and [[terence-mckenna]].
+Turner's introduction included a comprehensive history of psychedelics "from the Creation of Gods to the Demise of Psychedelic Reverence in Modern Times," documenting the trajectory from [[albert-hofmann]]'s discovery of LSD through the 1960s counterculture to the prohibition era. His work referenced and built upon the contributions of [[r-gordon-wasson]], [[richard-evans-schultes-updated]], [[alexander-shulgin]], and [[terence-mckenna]].
 
 ## Related
 

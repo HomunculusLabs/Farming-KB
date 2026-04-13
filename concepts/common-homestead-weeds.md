@@ -24,7 +24,7 @@ sources:
 
 # Common Homestead Weeds
 
-Detailed profiles of the most common weeds found on a regenerative homestead. Covers identification, edible/medicinal uses, ecological roles, and management strategies. See [[weed-management]] for prevention, control methods, and seasonal calendar.
+Detailed profiles of the most common weeds found on a regenerative homestead. Covers identification, edible/medicinal uses, ecological roles, and management strategies. See [[weed-management-strategies]] for prevention, control methods, and seasonal calendar.
 
 ## Edible and Useful Weeds
 
@@ -173,10 +173,10 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 
 ## See Also
 
-- [[weed-management]] — prevention, control methods, organic herbicides, seasonal calendar
+- [[weed-management-strategies]] — prevention, control methods, organic herbicides, seasonal calendar
 - [[dynamic-accumulators]] — detailed accumulator plant profiles
 - [[herbal-medicine]] — medicinal uses for common weeds
-- [[no-till-farming]] — soil management approach that reduces weed pressure
-- [[cover-cropping]] — using cover crops for weed suppression
+- [[no-till-gardening-method]] — soil management approach that reduces weed pressure
+- [[cover-cropping-guide]] — using cover crops for weed suppression
 - [[soil-fertility-management]] — interpreting weed soil indicators and amending
-- [[companion-planting]] — plant communities that compete with weeds
+- [[companion-planting-reference]] — plant communities that compete with weeds

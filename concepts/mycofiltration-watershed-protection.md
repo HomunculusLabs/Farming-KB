@@ -116,10 +116,10 @@ See [[bunker-spawn-method]] for detailed construction.
 
 ## Integration with Permaculture Design
 
-Mycofiltration fits naturally into [[permaculture-design]] and [[swale-design]]:
+Mycofiltration fits naturally into [[permaculture-design]] and [[swale-design-construction]]:
 
 - Place mycofiltration barriers at key points in [[water-management]] systems
-- Integrate with [[rainwater-harvesting]] installations
+- Integrate with [[rainwater-harvesting-systems]] installations
 - Combine with [[graywater-systems]] for additional biological filtration
 - Use in [[keyline-design]] systems at discharge points
 - Pair with [[cover-cropping-guide]] on filter berms for added stability and diversity

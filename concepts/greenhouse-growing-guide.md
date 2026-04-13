@@ -61,7 +61,7 @@ Grow cold-hardy greens (spinach, mache, claytonia, kale) in unheated structures.
 
 ## Soil and Water Management
 
-Greenhouse beds dry out faster than outdoor gardens. Install drip irrigation on a timer for consistent moisture. Raised beds with [[composting-systems-design-comparison]]-rich soil warm faster in spring. Rotate crops annually to prevent disease buildup. Incorporate [[vermicompost]] for steady nutrient release.
+Greenhouse beds dry out faster than outdoor gardens. Install drip irrigation on a timer for consistent moisture. Raised beds with [[composting-systems-design-comparison]]-rich soil warm faster in spring. Rotate crops annually to prevent disease buildup. Incorporate [[vermicomposting]] for steady nutrient release.
 
 ## Covering Materials
 

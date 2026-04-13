@@ -52,7 +52,7 @@ The most common and accessible DIY graywater system. Washing machine discharge h
 
 For properties where landscape is uphill from plumbing fixtures or where gravity flow is not possible:
 
-- **Pumped system**: All fixture graywater drains to a collection tank (30-50 gallons). A sump pump activates when full and distributes water to irrigation zones through pressure lines. Works regardless of slope but requires electricity (integrate with [[homestead-renewable-energy]]) and more maintenance.
+- **Pumped system**: All fixture graywater drains to a collection tank (30-50 gallons). A sump pump activates when full and distributes water to irrigation zones through pressure lines. Works regardless of slope but requires electricity (integrate with [[homestead-energy-conservation]]) and more maintenance.
 - **Surge tank system**: Intermediate approach — graywater flows by gravity to a covered tank that temporarily stores and slowly releases water to irrigation via gravity outlet. Handles surge volumes without flooding. Requires excavation and periodic tank cleaning.
 
 ## Soap and Product Considerations
@@ -68,7 +68,7 @@ The products you use directly affect graywater quality and soil health:
 
 ### Avoid in Graywater Systems
 
-- **Bleach and chlorine compounds**: Kill soil biology, including beneficial microbes in the [[soil-food-web]]
+- **Bleach and chlorine compounds**: Kill soil biology, including beneficial microbes in the [[soil-food-web-nutrient-cycling]]
 - **Boron/borax**: Accumulates in soil to toxic levels
 - **Fabric softeners**: Contain chemicals toxic to plants
 - **Harsh drain cleaners**: Kill soil biology

@@ -174,5 +174,5 @@ The same principles apply to gourmet and medicinal species, though temperature s
 
 - [[mushroom-substrates]] for growing the mushrooms that need drying
 - [[monotub-cultivation]] for the most common growing method
-- [[mushroom-nutrition-and-medicinal]] for information on medicinal compounds to preserve
-- [[food-preservation]] for broader preservation techniques on the homestead
+- [[mushroom-nutrition-guide]] for information on medicinal compounds to preserve
+- [[food-preservation-canning]] for broader preservation techniques on the homestead

@@ -126,7 +126,7 @@ Alternative: add fermented material to a traditional compost pile as an accelera
 ## See Also
 
 - [[composting-methods-comparison]] -- how bokashi compares to other composting methods
-- [[worm-composting-vermicompost]] -- alternative indoor composting approach
+- [[vermicomposting]] -- alternative indoor composting approach
 - [[effective-microorganisms-em]]
-- [[food-fermentation]]
-- [[soil-food-web]]
+- [[food-fermentation-guide]]
+- [[soil-food-web-nutrient-cycling]]

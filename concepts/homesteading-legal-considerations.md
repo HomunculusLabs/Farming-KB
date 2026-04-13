@@ -156,8 +156,8 @@ See also [[homesteading-infrastructure]] and [[greenhouse-design]].
 - [[duck-keeping]] — Duck regulations and management
 - [[goat-keeping]] — Goat keeping, dairy, and regulatory considerations
 - [[dairy-and-cheesemaking]] — Milk processing regulations and licensing
-- [[beekeeping]] — Apiary regulations and registration
+- [[beekeeping-basics]] — Apiary regulations and registration
 - [[seasonal-planning]] — Annual homesteading calendar
-- [[regenerative-agriculture]] — Principles that align with conservation program incentives
+- [[regenerative-agriculture-history]] — Principles that align with conservation program incentives
 - [[food-forest-design]] — Perennial food systems and land use classification
 - [[humanure-composting]] — Composting toilet regulations and graywater legality

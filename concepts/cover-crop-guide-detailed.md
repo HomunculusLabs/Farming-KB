@@ -128,7 +128,7 @@ Multi-species mixes outperform monocultures in most situations. A basic fall mix
 
 ## Integration with Living Soil Systems
 
-Cover crops are an excellent way to maintain soil biology between cash crop cycles. The root exudates feed [[soil-food-web]] and mycorrhizal networks even during fallow periods. Legume cover crops provide nitrogen that living soil beds can cycle efficiently.
+Cover crops are an excellent way to maintain soil biology between cash crop cycles. The root exudates feed [[soil-food-web-nutrient-cycling]] and mycorrhizal networks even during fallow periods. Legume cover crops provide nitrogen that living soil beds can cycle efficiently.
 
 ## See Also
 

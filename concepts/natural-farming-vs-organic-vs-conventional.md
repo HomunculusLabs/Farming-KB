@@ -26,7 +26,7 @@ sources:
 
 # Natural Farming vs Organic vs Conventional
 
-Understanding the philosophical and practical differences between three major approaches to growing food. Each represents a fundamentally different relationship with land. See [[natural-farming-fukuoka]] for the Fukuoka method, [[knf-preparations]] for Korean Natural Farming inputs, and [[regenerative-agriculture]] for the modern synthesis.
+Understanding the philosophical and practical differences between three major approaches to growing food. Each represents a fundamentally different relationship with land. See [[natural-farming-fukuoka]] for the Fukuoka method, [[knf-preparations]] for Korean Natural Farming inputs, and [[regenerative-agriculture-history]] for the modern synthesis.
 
 ## Comparison Table
 
@@ -38,7 +38,7 @@ Understanding the philosophical and practical differences between three major ap
 | **Fertilizer** | None or minimal: straw mulch, clover, green manure, animal manure; soil feeds itself | Allowed organic inputs: compost, bone meal, rock minerals, cover crops | Synthetic NPK, lime, micronutrient blends |
 | **Pest Management** | Ecosystem balance: diversity, ducks, beneficial insects; no sprays | Organic-approved sprays (neem, Bt, pyrethrin); some IPM | Broad-spectrum synthetic pesticides; prophylactic spraying |
 | **Weed Management** | Living mulch (clover), straw mulch; weeds as soil builders; selective tolerance | Mechanical cultivation, flame weeding, approved herbicides; weed-free ideal | Synthetic herbicides (glyphosate, 2,4-D); clean cultivation |
-| **Seed** | Open-pollinated; saved on-farm; [[seed-saving]] | Often organic-certified seed; some hybrids allowed | Hybrid and GMO seed; purchased annually |
+| **Seed** | Open-pollinated; saved on-farm; [[seed-saving-techniques]] | Often organic-certified seed; some hybrids allowed | Hybrid and GMO seed; purchased annually |
 | **Soil Biology** | Central focus; feeds the soil food web; mycorrhizal networks preserved | Important but secondary; compost additions stimulate biology | Ignored or actively destroyed by chemicals and tillage |
 | **Yield** | Equal to or better than conventional at scale; quarter-acre proven | Slightly lower than conventional (10-20% reduction typical) | Highest short-term yield; declining over time with soil degradation |
 | **Cost** | Near zero: no purchased inputs; labor is primary cost | Moderate: organic inputs cost more; certification fees | High: seed, chemicals, equipment, fuel, irrigation |
@@ -65,15 +65,15 @@ Fukuoka calculated that scientific agriculture requires an energy expenditure pe
 ## Which Approach for Your Homestead?
 
 - **Start with observation**: Walk your land daily for a full year before deciding. See [[permaculture-design]].
-- **Transition gradually**: You don't need to jump to full natural farming. [[no-till-farming]] methods can be adopted step by step.
-- **Focus on soil first**: All three approaches work better with living soil. See [[soil-food-web]].
+- **Transition gradually**: You don't need to jump to full natural farming. [[no-till-gardening-method]] methods can be adopted step by step.
+- **Focus on soil first**: All three approaches work better with living soil. See [[soil-food-web-nutrient-cycling]].
 - **Local context matters**: Fukuoka's methods were developed for subtropical Japan. Adapt to your climate. see your local extension office.
 
 ## Related Pages
 
 - [[natural-farming-fukuoka]] -- Fukuoka's method and philosophy
 - [[knf-preparations]] -- Korean Natural Farming input recipes
-- [[no-till-farming]] -- Practical no-till transition methods
-- [[regenerative-agriculture]] -- Modern regenerative synthesis
+- [[no-till-gardening-method]] -- Practical no-till transition methods
+- [[regenerative-agriculture-history]] -- Modern regenerative synthesis
 - [[fukuoka-philosophy-in-practice]] -- Deep philosophy dive
 - [[natural-farming-seed-balls]] -- Seed ball technique

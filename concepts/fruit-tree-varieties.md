@@ -162,7 +162,7 @@ Accumulated hours at 32-45°F during dormancy that trigger budbreak and normal f
 
 ## Understory Planting
 
-Integrate with [[companion-planting]] and [[cover-cropping]] principles. Creates living mulch, supports beneficial insects, cycles nutrients.
+Integrate with [[companion-planting-reference]] and [[cover-cropping-guide]] principles. Creates living mulch, supports beneficial insects, cycles nutrients.
 
 ### Key Plants
 - **Comfrey**: Deep taproot dynamic accumulator, chop-and-drop mulch 4-6x/season. See [[dynamic-accumulators]].
@@ -191,4 +191,4 @@ Integrate with [[companion-planting]] and [[cover-cropping]] principles. Creates
 - [[orchard-management]] — Site selection, planting, pruning, pest management, harvest
 - [[food-forest-design]] — Integrating fruit trees into food forest systems
 - [[seasonal-planning]] — Monthly task calendar for the integrated homestead
-- [[plant-propagation]] — Grafting techniques (see Rootstocks section above)
+- [[plant-propagation-methods]] — Grafting techniques (see Rootstocks section above)

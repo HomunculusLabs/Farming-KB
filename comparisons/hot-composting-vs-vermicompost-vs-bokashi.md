@@ -60,17 +60,17 @@ Three composting approaches suited to different scales, inputs, and timelines on
 
 ### Pathogen and Weed Seed Control
 
-Only **hot composting** reliably kills pathogens (131°F+ for 3 days) and weed seeds. This makes it essential for composting [[duck-keeping]] and [[goat-keeping]] manure. [[vermicompost]] and [[bokashi]] should not receive manure from sick animals or seeding weeds.
+Only **hot composting** reliably kills pathogens (131°F+ for 3 days) and weed seeds. This makes it essential for composting [[duck-keeping]] and [[goat-keeping]] manure. [[vermicomposting]] and [[bokashi]] should not receive manure from sick animals or seeding weeds.
 
 ### Integration on the Homestead
 
 The three systems form a complementary stack:
 
 1. **Bokashi bin** in the kitchen handles ALL food waste daily — no sorting needed
-2. **Vermicompost bin** processes overflow kitchen scraps, coffee grounds, paper waste; produces castings for [[cannabis-indoor-living-soil]], seed starting, and [[compost-tea-aact]]
+2. **Vermicompost bin** processes overflow kitchen scraps, coffee grounds, paper waste; produces castings for [[cannabis-living-soil-guide]], seed starting, and [[compost-tea-aact]]
 3. **Hot compost pile** handles bulk waste: yard debris, animal manure + bedding, spent garden plants, large volumes from food preservation
 
-Bokashi pre-compost can be buried in garden beds where [[vermicompost]] worms further process it. Hot compost provides bulk humus for [[no-till-farming]] top-dressing. All three feed the [[soil-food-web]].
+Bokashi pre-compost can be buried in garden beds where [[vermicomposting]] worms further process it. Hot compost provides bulk humus for [[no-till-gardening-method]] top-dressing. All three feed the [[soil-food-web-nutrient-cycling]].
 
 ## Verdict
 
@@ -79,8 +79,8 @@ Don't choose one — run all three. Bokashi for zero-waste kitchen processing, v
 ## See Also
 
 - [[composting-systems]] — Full composting methods overview
-- [[vermicompost]] — Worm bin setup and management
+- [[vermicomposting]] — Worm bin setup and management
 - [[bokashi]] — Bokashi bran making and kitchen system
-- [[soil-food-web]] — The biology these methods support
-- [[cannabis-indoor-living-soil]] — Castings in living soil beds
+- [[soil-food-web-nutrient-cycling]] — The biology these methods support
+- [[cannabis-living-soil-guide]] — Castings in living soil beds
 - [[compost-tea-aact]] — Brewing biology from compost and castings

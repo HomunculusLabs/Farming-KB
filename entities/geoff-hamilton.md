@@ -51,12 +51,12 @@ Hamilton's approach was distinctive for its emphasis on recycling and using foun
 
 ## Legacy
 
-Hamilton's emphasis on organic methods, recycling, and making gardening accessible influenced a generation of British gardeners. His Barnsdale garden continues to operate as a demonstration site. His approach aligns with [[regenerative-agriculture]] principles and [[food-forest-design]] methodology. He demonstrated that organic methods could produce results equal to or better than chemical-dependent approaches.
+Hamilton's emphasis on organic methods, recycling, and making gardening accessible influenced a generation of British gardeners. His Barnsdale garden continues to operate as a demonstration site. His approach aligns with [[regenerative-agriculture-history]] principles and [[food-forest-design]] methodology. He demonstrated that organic methods could produce results equal to or better than chemical-dependent approaches.
 
 ## See Also
 
 - [[food-forest-design]] — Sustainable garden design
 - [[permaculture-principles]] — Related design philosophy
 - [[composting-systems]] — Organic soil building
-- [[companion-planting]] — Plant relationships
+- [[companion-planting-reference]] — Plant relationships
 - [[orchard-pest-management]] — Natural pest control methods

@@ -166,6 +166,6 @@ Seawater provides full-spectrum minerals (Na, Mg, K, Ca, plus 70+ trace elements
 - [[oriental-herbal-nutrient-ohn]] — OHN pest control applications
 - [[water-soluble-calcium-wca]] — WCA troubleshooting
 - [[brown-rice-vinegar-brv]] — BRV as extraction solvent
-- [[lactic-acid-bacteria]] — LAB production troubleshooting
+- [[lactic-acid-bacteria-lab]] — LAB production troubleshooting
 - [[cannabis-pest-management]] — cannabis-specific IPM
-- [[soil-food-web]] — biological foundation for all KNF inputs
+- [[soil-food-web-nutrient-cycling]] — biological foundation for all KNF inputs

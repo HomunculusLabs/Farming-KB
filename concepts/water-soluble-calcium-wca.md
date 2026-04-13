@@ -144,4 +144,4 @@ WS-Ca works synergistically with:
 - [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for changeover period
 - [[oriental-herbal-nutrient-ohn]] — OHN + WS-Ca pre-harvest formula
 - [[fermented-plant-extract-fpe]] — FPJ for balanced vegetative growth
-- [[soil-food-web]] — calcium's role in soil biology
+- [[soil-food-web-nutrient-cycling]] — calcium's role in soil biology

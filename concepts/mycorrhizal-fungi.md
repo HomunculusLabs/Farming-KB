@@ -74,8 +74,8 @@ Mycorrhizal fungi form symbiotic relationships with plant roots — the fungi ge
 
 ## How to Encourage Mycorrhizae
 
-- Practice [[no-till-farming]] — never rototill living soil beds
-- Keep living roots in the soil at all times ([[cover-cropping]])
+- Practice [[no-till-gardening-method]] — never rototill living soil beds
+- Keep living roots in the soil at all times ([[cover-cropping-guide]])
 - Use minimal phosphorus — only what plants need
 - Avoid fungicides entirely
 - Apply mycorrhizal inoculant at planting/transplanting
@@ -131,10 +131,10 @@ Mycorrhizal fungi form symbiotic relationships with plant roots — the fungi ge
 
 - [[james-trappe]]
 
-- [[soil-food-web]] — where mycorrhizae fit in the ecosystem
+- [[soil-food-web-nutrient-cycling]] — where mycorrhizae fit in the ecosystem
 - [[compost-tea-aact]] — delivering biology to support mycorrhizae
-- [[no-till-farming]] — protecting fungal networks
-- [[cannabis-indoor-living-soil]] — mycorrhizae in cannabis cultivation
+- [[no-till-gardening-method]] — protecting fungal networks
+- [[cannabis-living-soil-guide]] — mycorrhizae in cannabis cultivation
 - [[effective-microorganisms-em]] — EM includes some mycorrhizal support organisms
 
 ## Related

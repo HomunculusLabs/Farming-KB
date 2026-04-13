@@ -38,7 +38,7 @@ American permaculture designer, teacher, and author of Gaia's Garden: A Guide to
 The definitive introduction to permaculture for North American home gardeners. Core ideas:
 - **The garden as ecosystem**: Design your garden to function like a natural plant community, not a farm field
 - **Guild design**: Detailed guild recipes (apple tree guild, walnut guild, Three Sisters, chinampa-inspired wetland gardens, Oregon white oak guild)
-- **Soil as the foundation**: Deep treatment of building soil through [[cover-cropping]], [[sheet-mulching]], mulching, [[companion-planting]], and no-till methods
+- **Soil as the foundation**: Deep treatment of building soil through [[cover-cropping-guide]], [[sheet-mulching]], mulching, [[companion-planting-reference]], and no-till methods
 - **Urban and suburban focus**: Proved that permaculture applies to small lots, not just rural acreage
 - **The "pop" phenomenon**: Gardens undergo a dramatic transformation after 3-5 years when soil biology, shade, and biodiversity reach critical mass
 - **Growing by chunking**: Start small with successful nuclei, then expand outward

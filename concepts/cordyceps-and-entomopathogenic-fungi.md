@@ -174,4 +174,4 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 
 ## Related
 
-- [[fungal-biology-lifecycle]]
+- [[fungal-biology-fundamentals]]

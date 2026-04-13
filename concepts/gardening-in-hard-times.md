@@ -117,7 +117,7 @@ If commercial fertilizers become unavailable:
 
 ## Seed Self-Reliance
 
-- Learn to [[seed-saving]] — open-pollinated varieties only
+- Learn to [[seed-saving-techniques]] — open-pollinated varieties only
 - Save seeds from your best-performing plants (local adaptation)
 - Store seeds cool and dry; most last 3-5 years
 - Maintain genetic diversity — save from multiple plants
@@ -142,5 +142,5 @@ No tiller needed. No raised bed lumber. No drip irrigation. No grow lights.
 - [[steve-solomon]] — originator of low-input philosophy
 - [[dynamic-accumulators]] — free fertilizer plants
 - [[cover-cropping-guide]] — soil restoration without inputs
-- [[seed-saving]] — seed self-reliance
+- [[seed-saving-techniques]] — seed self-reliance
 - [[homesteading]] — broader self-sufficiency

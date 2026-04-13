@@ -162,5 +162,5 @@ Missing one or more spore stages, often producing only telia and basidia.
 ## Related
 
 - [[fungal-plant-diseases]]
-- [[fungal-biology-lifecycle]]
+- [[fungal-biology-fundamentals]]
 - [[plant-disease-identification]]

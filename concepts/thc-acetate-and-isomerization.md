@@ -24,7 +24,7 @@ sources:
 
 Chemical modification techniques for cannabis extracts, documented in Ben Lemon's "Cannabis Alchemy" (1979). These processes convert non-psychoactive cannabidiol (CBD) to psychoactive THC (isomerization) and further modify THC to produce THC acetate -- a compound approximately twice as potent with distinct psychoactive properties.
 
-Related: [[cannabis-extraction-methods]], [[hashish-making]]
+Related: [[cannabis-extraction-basics]], [[cannabis-hashish-guide]]
 
 ## The Chemistry
 
@@ -49,7 +49,7 @@ THC acetate is produced by reacting THC with acetic anhydride, which adds an ace
 ## Isomerization Process
 
 ### Starting Material
-Begin with cannabis oil that has been extracted and purified by petroleum ether re-extraction (see [[cannabis-extraction-methods]]). The oil should be dissolved in absolute ethanol or pure methanol at a ratio of 1 gram oil to 10 grams solvent.
+Begin with cannabis oil that has been extracted and purified by petroleum ether re-extraction (see [[cannabis-extraction-basics]]). The oil should be dissolved in absolute ethanol or pure methanol at a ratio of 1 gram oil to 10 grams solvent.
 
 ### Acid Catalysis
 Add 1 drop of 100% sulfuric acid per gram of oil, slowly with continuous stirring. Safety requirements: safety glasses, long rubber gloves, clothing covering as much body surface as possible. Sulfuric acid burns are treated by immediate washing with water and bicarbonate of soda. Store in a safety bottle (glass bottle fitted into a styrofoam-lined metal can).
@@ -139,9 +139,9 @@ These techniques, documented in 1979, prefigured the modern cannabis concentrate
 
 ## See Also
 
-- [[cannabis-extraction-methods]] for the initial extraction and solvent purification
+- [[cannabis-extraction-basics]] for the initial extraction and solvent purification
 - [[ben-lemon]] for the author
-- [[hashish-making]] for traditional concentrate methods
+- [[cannabis-hashish-guide]] for traditional concentrate methods
 - [[cannabis-health-therapeutics]] for medical applications
 
 ## Related

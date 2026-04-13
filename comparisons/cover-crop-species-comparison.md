@@ -59,7 +59,7 @@ Non-fixers still provide enormous value: grasses build soil structure through fi
 
 ### No-Till Termination
 
-For [[no-till-farming]] systems, choose species that either winter-kill naturally (oats, buckwheat, daikon radish, sorghum-sudangrass) or can be terminated with a roller-crimper at the correct stage (winter rye at boot stage, hairy vetch at flowering). These leave a mulch mat on the soil surface that suppresses weeds, retains moisture, and feeds the [[soil-food-web]].
+For [[no-till-gardening-method]] systems, choose species that either winter-kill naturally (oats, buckwheat, daikon radish, sorghum-sudangrass) or can be terminated with a roller-crimper at the correct stage (winter rye at boot stage, hairy vetch at flowering). These leave a mulch mat on the soil surface that suppresses weeds, retains moisture, and feeds the [[soil-food-web-nutrient-cycling]].
 
 ### Planting Rates and Seed Costs
 
@@ -97,6 +97,6 @@ For a first cover crop on a homestead garden, sow a **winter rye + hairy vetch +
 - [[cover-crop-quick-reference]] — Quick selection by family and season
 - [[dynamic-accumulators]] — Deep-rooted mineral mining plants
 - [[soil-fertility-management]] — Overall fertility strategy and integration
-- [[no-till-farming]] — Cover crops as the foundation of no-till systems
+- [[no-till-gardening-method]] — Cover crops as the foundation of no-till systems
 - [[composting-systems]] — Converting cover crop residue to humus
 - [[dynamic-accumulators]] — Mineral mining with deep-rooted species

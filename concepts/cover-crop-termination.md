@@ -40,7 +40,7 @@ The ideal termination window depends on the cover crop species, intended benefit
 The gold standard for no-till systems. A roller-crimper is a heavy steel cylinder with welded blades that crimps the cover crop stems at regular intervals, breaking the vascular tissue without cutting the plant. The cover crop dies in place and forms a thick mulch mat.
 
 **Advantages**:
-- No soil disturbance preserves [[no-till-farming]] benefits
+- No soil disturbance preserves [[no-till-gardening-method]] benefits
 - Creates a weed-suppressing mulch mat
 - Retains soil moisture
 - No fuel-intensive tillage
@@ -79,7 +79,7 @@ Mowing cuts the cover crop and leaves the residue on the soil surface. Effective
 
 ### Tilling
 
-Incorporating cover crops into soil with a tiller or plow. The most common method in conventional agriculture but least compatible with [[soil-food-web]] health.
+Incorporating cover crops into soil with a tiller or plow. The most common method in conventional agriculture but least compatible with [[soil-food-web-nutrient-cycling]] health.
 
 **Advantages**:
 - Fast and thorough kill
@@ -93,7 +93,7 @@ Incorporating cover crops into soil with a tiller or plow. The most common metho
 - Releases soil carbon as CO2
 - Stimulates weed seed germination from the seed bank
 - Can create hardpan if done when soil is too wet
-- Goes against [[regenerative-agriculture]] principles
+- Goes against [[regenerative-agriculture-history]] principles
 
 **If tilling is necessary**:
 - Wait until soil is dry enough to avoid compaction
@@ -140,7 +140,7 @@ Selecting cover crop species that will naturally die from freezing temperatures,
 
 ### Herbicide (Chemical) Termination
 
-Using synthetic herbicides (typically glyphosate) to kill cover crops. Mentioned for completeness but not recommended for organic, [[cannabis-indoor-living-soil]], or regenerative systems.
+Using synthetic herbicides (typically glyphosate) to kill cover crops. Mentioned for completeness but not recommended for organic, [[cannabis-living-soil-guide]], or regenerative systems.
 
 **Concerns**:
 - Harmful to soil biology including mycorrhizal fungi
