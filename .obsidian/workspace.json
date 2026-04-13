@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "8418b55b9d3d1c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4e49644577fa26f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2980b07627c6e173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/nutritive-cycle-theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nutritive-cycle-theory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccfa90bb5165b30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "69efc980604051c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac273773bfca7f97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ed5cf73e08f4afcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f8e2e7458f43dac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c0d8287c706f3ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "79a70677dd14972f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "893efbd4edc95524",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "concepts/nutritive-cycle-theory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for nutritive-cycle-theory"
+            }
+          },
+          {
+            "id": "182dff3b2a55a6d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "concepts/nutritive-cycle-theory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from nutritive-cycle-theory"
+            }
+          },
+          {
+            "id": "2ec85a091905bca5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "05c3988ec5e9e880",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "129c54e3a2cfcaa4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "concepts/nutritive-cycle-theory.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of nutritive-cycle-theory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2980b07627c6e173",
+  "lastOpenFiles": [
+    "concepts/homestead-internet-options.md",
+    "concepts/homestead-winter-preparations.md",
+    "concepts/homestead-water-purification.md",
+    "concepts/homestead-tool-maintenance.md",
+    "concepts/off-grid-waste-management.md",
+    "concepts/cob-building-basics-detailed.md",
+    "concepts/passive-solar-design.md",
+    "concepts/radiant-floor-heating.md",
+    "concepts/micro-hydro-power.md",
+    "concepts/wind-power-basics.md",
+    "concepts/masonry-heater-design.md",
+    "concepts/tiny-house-on-wheels.md",
+    "concepts/cordwood-construction.md",
+    "concepts/skoolie-bus-conversion.md",
+    "concepts/bamboo-as-building-material.md",
+    "concepts/earthbag-building.md",
+    "concepts/van-life-off-grid.md",
+    "concepts/landscape-fabric-alternatives.md",
+    "concepts/no-till-gardening-method.md",
+    "concepts/biochar-production-guide.md",
+    "concepts/cover-crop-guide-detailed.md",
+    "concepts/hugelkultur-bed-construction-detailed.md",
+    "concepts/homestead-labor-and-volunteers.md",
+    "concepts/homestead-scale-assessment.md",
+    "concepts/homestead-insurance-guide.md",
+    "concepts/homestead-tax-planning.md",
+    "pages",
+    "_audit_results.json",
+    "_audit.py"
+  ]
+}
