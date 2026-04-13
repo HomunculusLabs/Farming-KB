@@ -189,6 +189,10 @@ Cho's system extends natural farming to animals: no artificial heating (fermenti
 
 ## Related
 
+- [[knf-input-application-timing]]
+
+- [[knf-oha]]
+
 - [[knf-soap-water-and-hot-pepper]]
 
 - [[complete-knf-input-reference]] — complete input reference

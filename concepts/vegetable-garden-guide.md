@@ -157,3 +157,8 @@ Detailed harvest timing and storage conditions for all 25+ crops, organized by s
 - [[soil-testing]] — Soil analysis methods
 - [[interpreting-soil-test-results]] — Understanding soil test reports
 - [[seasonal-planning]] — Year-round garden planning
+
+## Related
+
+- [[vegetable-growing-guide]]
+- [[garden-soil-basics]]

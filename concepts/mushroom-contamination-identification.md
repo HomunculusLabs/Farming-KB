@@ -182,3 +182,4 @@ Always handle contaminated materials carefully. Dispose of them in sealed bags. 
 - [[mushroom-laminarar-flow-hood]] — equipment for reducing contamination
 - [[mushroom-agar-work]] — using agar to identify and isolate away from contamination
 - [[mushroom-grow-room-design]] — grow room contamination prevention
+- [[laminar-flow-hood-guide]]

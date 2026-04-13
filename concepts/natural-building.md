@@ -189,3 +189,7 @@ See [[seasonal-planning]] for annual integration.
 - **Summer:** Wall building, plastering (needs dry/warm weather)
 - **Fall:** Roof, interior finish, earthen floors
 - **Winter:** Planning, design, indoor finish work
+
+## Related
+
+- [[roundwood-shelter-building]]

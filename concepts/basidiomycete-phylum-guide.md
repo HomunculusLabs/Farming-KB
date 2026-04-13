@@ -88,3 +88,7 @@ Basidiomycetes reproduce sexually through basidiospores, which are produced on t
 - Look for a volva (cup at base), annulus (ring on stem), and other features
 - Examine bruising or color change reactions (especially important for Boletus)
 - Note substrate: wood, soil, dung, or living trees
+## Related
+
+- [[turkey-tail-trametes-versicolor]]
+

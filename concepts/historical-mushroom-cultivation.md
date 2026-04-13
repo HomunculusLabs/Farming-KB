@@ -76,3 +76,7 @@ See also: [[james-cuthill]] for details on james cuthill.
 See also: [[william-falconer]] for details on William Falconer's 1891 cultivation manual.
 
 See also: [[benjamin-duggar]] for details on Benjamin Duggar's scientific contributions to mushroom cultivation.
+## Related
+
+- [[mushroom-cultivation-history]]
+

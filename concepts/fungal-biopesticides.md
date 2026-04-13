@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Fungal biopesticides use pathogenic fungi to control insect pests, plant diseases, and weeds as alternatives to synthetic chemical pesticides. Entomopathogenic fungi infect and kill insects, while antagonistic fungi suppress plant pathogens through competition, antibiosis, or parasitism. These biological control agents are central to integrated pest management (IPM) and organic farming systems.
+Fungal biopesticides use pathogenic fungi to control insect pests, plant diseases, and weeds as alternatives to synthetic chemical pesticides. Entomopathogenic fungi infect and kill insects, while antagonistic fungi suppress plant pathogens through competition, antibiosis, or parasitism. These biological control agents are central to [[integrated-pest-management|integrated pest management]] (IPM) and organic farming systems.
 
 ## Entomopathogenic Fungi -- Insect Control
 
@@ -37,7 +37,7 @@ The most commercially successful entomopathogenic fungus:
 
 Applications:
 - Greenhouse vegetable production (tomato, pepper, cucumber)
-- Orchard pest management (codling moth, plum curculio)
+- [[orchard-pest-management|Orchard pest management]] (codling moth, plum curculio)
 - Field crops (soybean aphid, European corn borer)
 - Stored grain pest protection
 - Public health mosquito control

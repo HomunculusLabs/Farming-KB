@@ -153,3 +153,7 @@ See [[companion-planting-reference]] for full details. Hamilton's top combinatio
 - [[organic-soil-management]] — Detailed soil care phases and conditioners
 - [[organic-greenhouse-gardening]] — Greenhouse growing, heating, and pest management
 - [[organic-herb-gardening]] — Herb classification, propagation, harvesting, and preserving
+## Related
+
+- [[geoff-hamilton]]
+

@@ -190,3 +190,7 @@ Starting doses for common functional mushrooms (adult):
 - [[medicinal-mushroom-guide]] — the bioactive compounds these products deliver
 - [[medicinal-mushroom-guide]] — evidence behind product claims
 - [[mushroom-nutrition-guide]] — nutritional content of whole mushroom products
+## Related
+
+- [[turkey-tail-trametes-versicolor]]
+

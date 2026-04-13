@@ -78,3 +78,4 @@ The tryptamine family shares an indole ring structure. Key subfamilies:
 - [[salvia-divinorum]]
 - [[dm-turner]]
 - [[simon-powell]]
+- [[ibogaine-reference]]

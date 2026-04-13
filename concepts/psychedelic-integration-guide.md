@@ -180,3 +180,4 @@ Organizations offering directories or training:
 ## Related
 
 - [[microdosing-guide]]
+- [[psychedelic-integration]]

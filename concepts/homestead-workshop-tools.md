@@ -89,3 +89,7 @@ Non-negotiable safety gear for the workshop:
 Start with a simple structure — a shed or pole barn with a concrete slab floor, good lighting, and adequate power. Insulate if you live in a climate with extreme temperatures. You can always expand later. A 16x24 foot shop is a practical minimum for serious homestead work.
 
 Prioritize the workbench first — a solid, flat, stable surface makes every project easier. Build it yourself from 2x4 lumber and a hardwood top. Then acquire tools as projects demand them rather than buying everything at once.
+## Related
+
+- [[homestead-tool-maintenance]]
+

@@ -172,4 +172,6 @@ Note: Living soil already provides baseline nutrition — use KNF inputs as supp
 
 ## Related
 
+- [[knf-input-application-timing]]
+
 - [[complete-knf-input-reference]] — complete input reference

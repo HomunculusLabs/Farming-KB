@@ -13,7 +13,7 @@ sources: []
 
 Hawthorn is a genus of deciduous trees and large shrubs in the rose family,
 widely distributed across North America, Europe, and Asia. Revered as a
-heart tonic in European herbal medicine for centuries (referenced by
+heart tonic in European [[herbal-medicine|herbal medicine]] for centuries (referenced by
 Dioscorides in the 1st century AD), hawthorn berries, leaves, and flowers
 are among the most important cardiovascular herbs in modern herbal practice.
 The berries are also used in preserves, wines, and vinegars.
@@ -164,7 +164,7 @@ Hawthorn vinegar:
   barriers
 - Wildlife habitat: Provides food and nesting sites for birds
 - Pollinator plant: Spring flowers attract bees and other pollinators
-- Edible landscaping: Attractive in all seasons (flowers, berries, fall color)
+- [[edible-landscaping|Edible landscaping]]: Attractive in all seasons (flowers, berries, fall color)
 - Living fence: Thorny branches create an impenetrable hedge
 
 ## See Also

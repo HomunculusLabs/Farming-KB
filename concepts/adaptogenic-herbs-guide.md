@@ -193,3 +193,4 @@ Adaptogens can generally be combined safely. Start with one adaptogen for 2-4 we
 - [[medicinal-mushroom-guide-reishi]] for mushroom adaptogens
 - [[medicinal-mushroom-guide-cordyceps]] for energy-focused mushroom adaptogens
 - [[nootropic-herbs-guide]] for cognitive enhancement herbs
+- [[herbal-tinctures-guide]]

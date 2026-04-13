@@ -129,3 +129,7 @@ Application frequency: Biochar is essentially permanent in soil. One application
 - [[no-till-gardening-method]]
 - [[compost-tea-guide]]
 - [[knf-preparations]]
+## Related
+
+- [[biochar]]
+

@@ -162,3 +162,7 @@ On December 16, 1981, three teenagers on Whidbey Island, WA collected Galerina s
 - [[mushroom-species-guide]] — Cultivated species profiles
 - [[fungal-research-compound-reference]] — Alkaloid chemistry data
 - [[jochen-gartz]] — Primary researcher
+## Related
+
+- [[gymnopilus-purpuratus]]
+

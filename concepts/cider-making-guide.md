@@ -172,3 +172,5 @@ Age cider in oak barrels (5-50 gallon). Adds vanilla, spice, and tannin complexi
 - [[fruit-tree-propagation]] -- plant cider apple trees on your homestead
 - [[beer-brewing-basics]] -- shared fermentation and carbonation techniques
 - [[mead-making-guide]] -- cyser is a honey-apple mead combining both traditions
+- [[root-beer-making]]
+- [[calendula-salve-making]]

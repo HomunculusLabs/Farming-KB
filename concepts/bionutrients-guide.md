@@ -161,3 +161,9 @@ Carandang's enhanced bokashi formula (Philippine version):
 - [[fermented-plant-extract-fpe]] — FPJ recipes and plant selection
 - [[fish-amino-acid-faa]] — KNF FAA detailed recipe
 - [[oriental-herbal-nutrient-ohn]] — 5-herb OHN preparation
+## Related
+
+- [[knf-oha]]
+
+- [[herbal-tinctures-guide]]
+

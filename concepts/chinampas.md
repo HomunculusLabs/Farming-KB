@@ -158,3 +158,7 @@ The traditional chinampa system integrates fish production with crop production:
 | Mosquitoes | Stagnant water | Add fish that eat mosquito larvae (mosquitofish, gambusia); add Bti dunks; ensure water movement |
 | Pest pressure | Limited predator habitat | Add insectary plants; provide habitat for frogs and dragonflies; integrate ducks |
 | Bed drying out | Water level dropped; bed too high above water | Lower the bed; increase water level; add mulch; supplement with irrigation |
+## Related
+
+- [[permaculture-history-timeline]]
+

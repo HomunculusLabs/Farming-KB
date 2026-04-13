@@ -135,6 +135,7 @@ See also: [[jonathan-ott]] — ethnobotanist who co-coined 'entheogen' and autho
 - [[iboga-tabernanthe]]
 - [[dm-turner]]
 - [[simon-powell]]
+- [[psychedelic-integration]]
 
 ## Chemical Classification of Hallucinogenic Plants
 
@@ -197,4 +198,3 @@ Shultes documents that hallucinogens permeated nearly every aspect of life in pr
 - **Medical:** "Medicine that can transport man to the spirit world is considered better than one with purely physical effects"
 - **Initiation:** Algonquin wysoccan (Datura) caused 20 days of violent derangement and memory loss as a boy-to-manhood transition; Bwiti cult iboga initiation in Gabon
 - **Divination/prophecy:** Ayahuasca for foreseeing future, settling disputes, deciphering enemy plans; Mazatec mushroom veladas for diagnosis and curing
-- **Warfare:** Jurema (eastern Brazil) for "glorious visions of the spirit world before going into battle"; Waiká Virola snuff ceremony to memorialize the dead with endocannibalism

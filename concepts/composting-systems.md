@@ -167,3 +167,5 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - [[vermicomposting]] — advanced worm farming: species, bin designs, troubleshooting
 - [[biochar-in-agriculture|biochar]]]
 - [[composting-systems-design-comparison]]
+- [[permaculture-history-timeline]]
+- [[garden-soil-basics]]

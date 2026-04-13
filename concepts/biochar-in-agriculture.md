@@ -190,3 +190,4 @@ Biochar works synergistically with:
 - [[soil-food-web-nutrient-cycling]] for general soil health context
 - [[compost-tea-aact]]
 - [[vermicomposting]]
+- [[biochar]]

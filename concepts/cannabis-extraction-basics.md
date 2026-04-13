@@ -171,3 +171,7 @@ Typical yields by method:
 | Ice water hash | 5-15% |
 
 Yields depend heavily on starting material quality, strain, and operator skill.
+## Related
+
+- [[live-resin-processing]]
+

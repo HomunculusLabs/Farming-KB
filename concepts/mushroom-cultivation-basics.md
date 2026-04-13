@@ -197,3 +197,4 @@ Key facts:
 - [[vermicomposting]] — spent substrate as worm food
 - [[inoculation-methods]] — spore, spawn, and stem butt techniques (from Mycelium Running Ch.9)
 - [[straw-cultivation-methods]] — pasteurization and low-tech straw growing (from Mycelium Running Ch.10)
+## Related

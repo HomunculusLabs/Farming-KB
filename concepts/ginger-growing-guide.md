@@ -15,7 +15,7 @@ Ginger is a tropical herbaceous perennial in the Zingiberaceae family, native
 to Maritime Southeast Asia. One of the most important spices and medicinal
 plants in the world, ginger has been cultivated for over 5,000 years and is
 now grown commercially across the tropics. Its rhizome is used universally
-in cooking, herbal medicine, and traditional healing systems. In temperate
+in cooking, [[herbal-medicine|herbal medicine]], and traditional healing systems. In temperate
 climates, ginger can be grown successfully in containers, greenhouses, or
 high tunnels with proper management.
 

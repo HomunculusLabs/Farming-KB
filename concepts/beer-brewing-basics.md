@@ -127,3 +127,4 @@ Converts sugars to alcohol and CO2. The single most important ingredient for bee
 - [[small-scale-grain-growing]] for growing brewing grains on the homestead
 - [[mead-making-guide]] for honey-based fermentation
 - [[cider-making-guide]] for another accessible homestead fermentation project
+- [[root-beer-making]]

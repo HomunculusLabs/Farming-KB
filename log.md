@@ -1945,3 +1945,33 @@ All heartbeat queue tasks were already complete. Ran full maintenance sweep:
 - Final broken link count: 0
 - index.md rebuilt: 902 pages
 - Pages removed: 98 | Net change: 1000 -> 902
+
+## [2026-04-12] lint | Maintenance sweep (no pending tasks)
+
+All heartbeat queue tasks were already complete. Ran full maintenance sweep:
+
+**Fixed:**
+- 15 orphan pages resolved by adding inbound wikilinks from Related sections on relevant pages
+- 19 missing index entries added across entities (2), concepts (15), comparisons (1), and queries (1)
+- 4 pages trimmed from 201-205 lines to 200 lines: entheogen-culture, mushroom-cultivation-basics, psilocybe-genus-classification, organic-farming-history
+- 3 low-link pages enriched with inline keyword wikilinks: fungi-in-space-research (2→3), ginger-growing-guide (2→3), hawthorn-berry-guide (2→4)
+
+**Final state: 902 pages | 0 broken links | 0 orphans | 0 missing index | 0 over-200 | 0 tag violations | 0 low-link (<2)**
+
+## [2026-04-12] lint | Maintenance sweep — no pending tasks
+- Trimmed 4 pages from 201→200 lines: entheogen-culture, mushroom-cultivation-basics, psilocybe-genus-classification, organic-farming-history
+- Final state: 902 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 over-200-line pages
+## [2026-04-13] lint | Maintenance sweep — all checks pass
+- Fixed 6 broken wikilinks: knf-fermented-plant-juice→jadam-fermented-plant-juice (3x), knf-oriental-herbal-adjust→knf-oriental-herbal-nutrient (typo), mitochondria/plasmalemma/rhizosphere (removed brackets, no matching pages)
+- Added 30 missing index entries (29 from prior session + 1 knf-input-application-timing)
+- Fixed 2 orphan pages (knf-oha, knf-input-application-timing) by adding Related section links from relevant pages
+- Final state: 974 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 pages over 200 lines
+## [2026-04-12] create | 87 new gardening wiki pages from book content
+- Batch 1: 15 Sepp Holzer pages (method, raised beds, grafting, cellars, livestock, balcony garden, herbal remedies)
+- Batch 2: 15 Organic Gardening DK pages (wormery, manure guide, composting, pH, trace elements, green manure)
+- Batch 3: 12 Gardening When It Counts pages (tools, drought, insects, diseases, direct seeding, spacing, soil basics)
+- Batch 4: 15 soil science pages from Teaming with Nutrients/Microbes + Ingham AAct (nutrient uptake, NPK cycles, food web, micronutrients, compost tea)
+- Batch 5: 15 JADAM/KNF pages (JADAM methods, sulfur, sea salt; KNF IMO, FAA, LAB, FFJ, WSC, WPA, OHN, OHA)
+- Batch 6: 15 permaculture/plants pages (plant selection, bamboo, salt-tolerant, fire-resistant, bee forage, Fukuoka method, clay pellets, climate zones, guerilla gardening, zone analysis, design process)
+- 3 pages from Batch 3 not completed due to iteration limits (compost-building-guide, wireworm-control, seed-saving-vegetables)
+- index.md rebuilt for 989 pages

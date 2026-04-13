@@ -190,3 +190,4 @@ When to purchase vs. attract:
 - [[trap-cropping]] for pest management with sacrificial plants
 - [[natural-pest-deterrents]] for spray-based pest control that spares beneficials
 - [[companion-planting-reference]] for plant pairings that support beneficial insects
+- [[plant-sensing-communication]]

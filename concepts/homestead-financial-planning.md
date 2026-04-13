@@ -146,3 +146,4 @@ Homesteading is not about maximizing profit — it is about building a resilient
 - [[homesteading-income-streams]]
 - [[homestead-record-keeping]]
 - [[homestead-education-resources]]
+- [[homestead-tool-maintenance]]

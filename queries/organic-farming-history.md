@@ -197,3 +197,4 @@ The evolution from organic certification to the regenerative agriculture movemen
 - [[jadam-methods]] — ultra-low-cost organic farming methods
 - [[soil-food-web-nutrient-cycling]] — biological foundation of organic/regenerative practices
 - [[compost-tea-aact]] — actively aerated compost tea for soil biology
+- [[geoff-hamilton]]

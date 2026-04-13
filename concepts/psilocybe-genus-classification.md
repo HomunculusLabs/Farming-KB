@@ -182,6 +182,7 @@ Several other mushroom genera contain psilocybin and related tryptamines, with i
 - **Distinguishing features:** Pink spore print; free gills; dead wood
 - **Psychoactive species:** P. salicinus, P. cyanopodius, P. glaucinus, P. nigroviridis (~5-8 described)
 - **Note:** Pink spore print distinguishes Pluteus from all other psychoactive genera
+- [[gymnopilus-purpuratus]]
 
 ## Phylogenetics and Evolution
 
@@ -197,4 +198,3 @@ Many potentially psychoactive species remain undescribed, especially in the trop
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Geographical distribution
-- [[psilocybin-mushroom-chemistry]] — Chemical profiles and analysis

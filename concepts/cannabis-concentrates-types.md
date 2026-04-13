@@ -182,3 +182,7 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 - **Consistency**: Should be appropriate for the type (shatter should be stable, rosin should be sappy, etc.)
 - **Residual solvents**: Legal products must pass lab testing for residual solvent content. Home extracts should be thoroughly purged.
 - **Bubble test**: High-quality bubble hash and rosin will bubble and melt when heated on a nail. Contaminated material will not melt cleanly.
+## Related
+
+- [[live-resin-processing]]
+
