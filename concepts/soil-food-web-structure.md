@@ -1,7 +1,7 @@
 ---
 title: Soil Food Web Structure
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [soil, microbes, biology, nutrient-cycling, ecology]
 sources:
@@ -31,7 +31,7 @@ Protozoa are single-celled eukaryotic organisms that eat bacteria (and occasiona
 
 ### Nematodes (Second Predator Level)
 
-Nematodes are nonsegmented roundworms that are the second most dominant form of animal life after arthropods. A teaspoon of good soil averages about 40-50 nematodes. They are classified by feeding habit: bacterial-feeders, fungal-feeders, predators, omnivores, and root-feeders. The bacterial and fungal feeders are crucial mineralizers. See [[nematodes-in-soil-ecology]].
+Nematodes are nonsegmented roundworms that are the second most dominant form of animal life after [[soil-arthropods|arthropods]]. A teaspoon of good soil averages about 40-50 nematodes. They are classified by feeding habit: bacterial-feeders, fungal-feeders, predators, omnivores, and root-feeders. The bacterial and fungal feeders are crucial mineralizers. See [[nematodes-in-soil-ecology]].
 
 ### Microarthropods (Third Predator Level)
 

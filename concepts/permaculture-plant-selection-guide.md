@@ -45,7 +45,7 @@ Key techniques:
 - **Stratification**: placing seed in medium and exposing to freeze conditions for a month or more
 
 ### Accessing Plants
-"[[cornucopia-sourcebook-of-edible-plants|Cornucopia - A Sourcebook of Edible Plants]]" by Stephen Facciola (Kampong Publications 1990) is a valuable aid for locating seed sources.
+"*Cornucopia: A Sourcebook of Edible Plants* by Stephen Facciola (Kampong Publications 1990)" by Stephen Facciola (Kampong Publications 1990) is a valuable aid for locating seed sources.
 
 ## The Conservation Imperative
 

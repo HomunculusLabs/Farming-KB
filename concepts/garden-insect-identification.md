@@ -1,7 +1,7 @@
 ---
 title: Garden Insect Identification
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [gardening, pest-control, pest-management, insects, troubleshooting, vegetables]
 sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
@@ -95,7 +95,7 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 - **Damage**: Adults and larvae suck plant juice and inject a toxin causing wilt and blackened runners.
 - **Control**: Handpicking. Grow a mixed garden offering cover for beneficials, including buckwheat to harbor tachinid fly parasites. End-of-season sanitation — remove all boards, dead plant residue. Thoroughly compost all squash vegetation.
 
-## Wireworms
+## [[wireworm-control|wireworms]]
 
 - **Control**: Solomon mentions wireworms among the numerous soil-dwelling pests controlled by parasitic nematodes, along with onion maggots, carrot weevils, cutworms, and cucumber beetle larvae. See [[leatherjacket-pest-control]].
 

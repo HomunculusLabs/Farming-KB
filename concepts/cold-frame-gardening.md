@@ -1,7 +1,7 @@
 ---
 title: Cold Frame Gardening
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [season-extension, gardening, permaculture, homesteading, construction]
 sources: []
@@ -155,3 +155,4 @@ Ventilation is the most important cold frame management task:
 - [[grow-tunnel-and-hoop-house]] for larger-scale season extension structures
 - [[solar-food-dehydrator-diy]] for another passive solar structure
 - [[geodesic-greenhouse-design]] for a permanent, year-round growing structure
+- [[cold-frame-construction]]

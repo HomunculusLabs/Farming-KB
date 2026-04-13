@@ -152,3 +152,7 @@ Rainwater harvesting is a cornerstone of off-grid water supply. For well
 water as a complementary source, see [[well-drilling-and-maintenance]].
 For greywater recycling to extend water supplies, see [[composting-toilet-systems]]
 for waterless sanitation options.
+
+## Related
+
+- [[permaculture-water-harvesting]] — Permaculture Water Harvesting covers the broader permaculture design approach to capturing and storing water on-site.

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, water-management, agriculture, regenerative, design, earthworks, erosion, soil]
-sources: []
+sources:
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
 # Keyline Design

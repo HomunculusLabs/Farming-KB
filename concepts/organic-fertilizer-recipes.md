@@ -2,7 +2,7 @@
 
 title: Organic Fertilizer Recipes
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -139,3 +139,7 @@ Trace mineral boost for any stage:
 - [[nutritive-cycle-theory]] — when to apply which inputs
 - [[soil-fertility-management]] — overall fertility strategy
 - [[compost-tea-aact]] — biological soil inoculant
+
+## Related
+
+- [[liquid-fertilizer-from-weeds]]

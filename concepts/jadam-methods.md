@@ -2,7 +2,7 @@
 
 title: JADAM Methods — Ultra-Low-Cost Organic Farming
 created: 2026-04-10
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -145,3 +145,4 @@ Both systems are compatible — many growers combine techniques from both.
 
 - [[knf-vs-jadam-vs-em]] — comparison
 - [[water-soluble-potassium-wp]]
+- [[natural-farming-pest-management]]

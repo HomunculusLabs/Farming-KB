@@ -1,8 +1,8 @@
 ---
 
-title: Homesteading
+title: [[[[homesteading-water-systems]]|homesteading]]-food-preservation|homesteading]]
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:

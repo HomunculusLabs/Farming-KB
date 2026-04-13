@@ -176,3 +176,7 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 - [[lettuce-and-leafy-greens]] for companion greens
 - [[urban-farming-methods]] for container and indoor growing techniques
 - [[seasonal-gardening-calendar]] for planting and harvesting timing
+
+## Related
+
+- [[herb-spiral-design]] — Herb Spiral Design is a permaculture pattern for growing herbs in a space-efficient spiral that creates multiple microclimates.

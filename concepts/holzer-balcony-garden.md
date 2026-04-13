@@ -1,7 +1,7 @@
 ---
 title: Holzer Balcony Garden
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [permaculture, urban-gardening, balcony, container-garden, mushroom, vine, kiwi, herbs, vegetables, homesteading, design, techniques]
 sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
@@ -69,7 +69,7 @@ In exposed areas, protect plants over winter:
 
 The radiation of heat from the house wall creates a "masonry stove effect" that has a very positive effect on plant growth. Over time, climbing plants (grapes, kiwi) will stabilise and become woody, no longer needing additional support.
 
-## Bypass Technique
+## [[bypass-technique-planting|bypass technique]]
 
 If neighbours also become interested, create a terrace system reaching from storey to storey. Climbers like grapes and kiwi can grow up the front of the building from one flat to the next using balconies as climbing aids. Troughs with soil on each balcony allow plants to put down new roots (lead the plant into the trough, heap soil over it, possibly weigh down with a stone). Each storey can be overseen and harvested by the people living there, forming a communal garden.
 

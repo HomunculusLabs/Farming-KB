@@ -150,3 +150,4 @@ As the compost breaks down, it shrinks. Keep topping it up with fresh materials.
 - [[wicking-bed-construction]] for another water-efficient raised bed approach
 - [[herb-spiral-construction]] for microclimate-based planting design in a compact space
 - [[garden-bed-designs]] for another circular, intensive garden layout
+- [[herb-spiral-design]] — Herb Spiral Design is a classic permaculture pattern that, like keyhole gardens, maximizes growing space and edge effects.

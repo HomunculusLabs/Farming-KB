@@ -2,7 +2,7 @@
 
 title: Gardening in Hard Times
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -117,7 +117,7 @@ If commercial fertilizers become unavailable:
 
 ## Seed Self-Reliance
 
-- Learn to [[seed-saving-techniques]] — open-pollinated varieties only
+- Learn to [[seed-saving-vegetables|seed saving techniques]] — open-pollinated varieties only
 - Save seeds from your best-performing plants (local adaptation)
 - Store seeds cool and dry; most last 3-5 years
 - Maintain genetic diversity — save from multiple plants

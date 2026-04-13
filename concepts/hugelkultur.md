@@ -145,3 +145,4 @@ As decomposition progresses, the bed becomes increasingly productive:
 - [[permaculture-earthworks]]
 
 - [[plant-nutrient-deficiency-guide]]
+- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction provides the step-by-step building guide for creating a hugelkultur mound.

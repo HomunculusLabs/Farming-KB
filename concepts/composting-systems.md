@@ -2,7 +2,7 @@
 
 title: Composting Systems
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -61,7 +61,7 @@ Worm-based composting ideal for kitchen scraps and small spaces. See [[vermicomp
 
 Anaerobic pre-composting using effective microorganisms. See [[bokashi]] for full details: bran inoculation, two-week fermentation, soil burial of finished pre-compost.
 
-## Sheet Mulching / Lasagna Gardening
+## [[sheet-composting|sheet]] Mulching / Lasagna Gardening
 
 In-place composting that builds garden beds:
 1. Mow or sheet-mulch existing vegetation (cardboard without glossy ink, overlapping edges).
@@ -169,3 +169,4 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - [[composting-systems-design-comparison]]
 - [[permaculture-history-timeline]]
 - [[garden-soil-basics]]
+- [[hugelkultur-bed-construction]] — Hugelkultur Bed Construction is a large-scale composting technique that bury woody debris in garden beds.

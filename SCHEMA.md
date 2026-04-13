@@ -439,3 +439,59 @@ General:
 - `resilience` — Resilience, adaptation, community resilience, climate resilience
 
 - `aquaponics` — Aquaponics, integrated fish and plant systems, aquaculture
+
+### Additional Tags (added during lint 2026-04-13)
+- `application` — application
+- `balcony` — balcony
+- `building` — building
+- `calendula` — calendula
+- `container-garden` — container-garden
+- `crops` — crops
+- `difficult-sites` — difficult-sites
+- `diversity` — diversity
+- `earthworm` — earthworm
+- `green-manure` — green-manure
+- `growing-guide` — growing-guide
+- `guilds` — guilds
+- `herbalism` — herbalism
+- `herbs` — herbs
+- `intensive-gardening` — intensive-gardening
+- `intercropping` — intercropping
+- `irrigation` — irrigation
+- `kiwi` — kiwi
+- `mushroom` — mushroom
+- `natural-building` — natural-building
+- `natural-remedies` — natural-remedies
+- `nitrogen` — nitrogen
+- `nutritive-cycle` — nutritive-cycle
+- `observation` — observation
+- `plant-disease` — plant-disease
+- `plant-spacing` — plant-spacing
+- `planting` — planting
+- `polyculture` — polyculture
+- `propagation` — propagation
+- `recycling` — recycling
+- `resources` — resources
+- `rhizosphere` — rhizosphere
+- `roundwood` — roundwood
+- `self-reliance` — self-reliance
+- `self-sufficiency` — self-sufficiency
+- `shelter` — shelter
+- `soil-biology` — soil-biology
+- `systems` — systems
+- `tea` — tea
+- `temperature` — temperature
+- `thyme` — thyme
+- `timber` — timber
+- `trace-elements` — trace-elements
+- `urban-gardening` — urban-gardening
+- `vermicompost` — vermicompost
+- `vine` — vine
+
+### Additional Tags (added during lint 2026-04-13 batch 2)
+- `aquaculture` — aquaculture
+- `coppicing` — coppicing
+- `fish` — fish
+- `food-production` — food-production
+- `microclimate` — microclimate
+- `ponds` — ponds

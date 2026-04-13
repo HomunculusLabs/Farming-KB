@@ -126,3 +126,7 @@ If you currently till your garden:
 - [[cover-crop-guide-detailed]]
 - [[cannabis-living-soil-guide]]
 - [[landscape-fabric-alternatives]]
+
+## Related
+
+- [[sheet-mulching-lasagna-gardening]] — Sheet Mulching and Lasagna Gardening is the primary bed preparation technique for no-till gardens.

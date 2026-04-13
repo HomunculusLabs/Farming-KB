@@ -1975,3 +1975,52 @@ All heartbeat queue tasks were already complete. Ran full maintenance sweep:
 - Batch 6: 15 permaculture/plants pages (plant selection, bamboo, salt-tolerant, fire-resistant, bee forage, Fukuoka method, clay pellets, climate zones, guerilla gardening, zone analysis, design process)
 - 3 pages from Batch 3 not completed due to iteration limits (compost-building-guide, wireworm-control, seed-saving-vegetables)
 - index.md rebuilt for 989 pages
+
+## [2026-04-12] create | 10 wiki pages (6 from book sources + 4 from general knowledge)
+- Created 10 concept pages in concepts/
+- From book sources (with actual source material read):
+  - alkaline-soil-plants.md — species list from "Permaculture Plants: A Selection" (L7220-7460)
+  - wireworm-control.md — parasitic nematodes, cultural controls from "Gardening When It Counts" (L10706)
+  - compost-building-guide.md — C/N ratios, temperature, sheet composting, quality standards from "Gardening When It Counts" (L8013-8900)
+  - seed-saving-vegetables.md — self-pollinating vs outcrossing, hybrid myths from "Gardening When It Counts" (L5900-6150)
+  - palm-tree-uses.md — comprehensive palm catalog from "Permaculture Plants: A Selection" (L5140-5815)
+  - herbal-plant-remedies.md — calendula salve, thyme oil, chicory tea, tormentil, bone salve from "Sepp Holzer's Practical Guide" (L7789+)
+- From general knowledge (sources: []):
+  - biochar-soil-amendment.md — terra preta, CEC, application rates, pre-charging
+  - biodynamic-preparations.md — BD 500-508, horn manure, horn silica, compost preps, stirring
+  - vermicompost-tea.md — aerated vs passive brewing, disease suppression, application
+  - hot-composting-method.md — three temperature stages, C/N table, turning schedule
+- All pages have YAML frontmatter (created/updated: 2026-04-12, type: concept, tags from taxonomy)
+- All pages include [[wikilinks]] to existing pages
+- index.md updated with all 10 new entries (already done by parallel process)
+## [2026-04-12] create | 55 more wiki pages (round 3)
+
+Batch A — Permaculture Principles & Techniques (17 new):
+- Holmgren's 12 Principles (observe-and-interact through creatively-use-and-respond-to-change)
+- keyline-design.md (updated with Holmgren source)
+- swale-construction-guide.md, permaculture-earthworks-guide.md
+- hugelkultur-bed-construction.md, herb-spiral-design.md, sheet-mulching-lasagna-gardening.md
+
+Batch B — Mollison, Faires, DK, Ingham, Teaming Microbes (10 new):
+- permaculture-windbreak-design.md, permaculture-aquaculture-guide.md, permaculture-forestry-systems.md
+- permaculture-mapping-and-reading-the-landscape.md, permaculture-water-harvesting.md
+
+Batch C — Sepp Holzer, Gaia's Garden, Fukuoka (11 new):
+- slugs-and-snails-organic-control.md, town-garden-design.md, bypass-technique-planting.md
+- liquid-fertilizer-from-weeds.md, paddock-system-pigs.md, mangalitza-pig-breeds.md
+- chop-and-drop-mulching.md, cover-crop-selection-guide.md, weed-suppression-strategies.md
+- white-clover-ground-cover.md, duck-rice-paddy.md
+
+Batch D — Book sources + general knowledge (10 new):
+- alkaline-soil-plants.md, wireworm-control.md, compost-building-guide.md
+- seed-saving-vegetables.md, palm-tree-uses.md, herbal-plant-remedies.md
+- biochar-soil-amendment.md, biodynamic-preparations.md, vermicompost-tea.md, hot-composting-method.md
+
+Batch E — Main agent (11 new):
+- cold-frame-construction.md, sheet-composting.md, natural-farming-pest-management.md
+- natural-farming-seed-saving.md, natural-farming-livestock-integration.md
+- homesteading-water-systems.md, homesteading-food-preservation.md
+- soil-arthropods.md, soil-microscope-analysis.md, thermal-composting-vs-aact.md
+- soil-compaction-solutions.md
+
+Total: 989 -> 1044 pages. index.md rebuilt.

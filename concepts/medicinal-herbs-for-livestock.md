@@ -27,4 +27,4 @@ These herbs and trees should be integrated into [[bee-forage-plant-system|bee fo
 
 - [[bee-forage-plant-system]]
 - [[permaculture-zone-and-sector-analysis]]
-- [[forage-systems]]
+- forage systems
