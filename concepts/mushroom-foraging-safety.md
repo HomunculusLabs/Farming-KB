@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Mushroom Foraging Safety
 
-Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal toxins, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
+Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]]s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
 
 ## The Golden Rules
 

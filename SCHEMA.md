@@ -135,6 +135,7 @@ sources: [raw/articles/source-name.md]
 
 ### Mushroom Species & Materials
 - `shiitake` — shiitake mushroom (Lentinula edodes)
+- `lions-mane` — lion's mane mushroom (Hericium erinaceus)
 - `oyster-mushroom` — oyster mushroom (Pleurotus species)
 - `reishi` — reishi mushroom (Ganoderma lucidum)
 - `lion's-mane` — lion's mane mushroom (Hericium erinaceus)
@@ -323,6 +324,334 @@ add it here first, then use it.
 - `off-grid` — Off-grid living, self-sufficiency, independent systems
 - `windbreak` — Windbreaks, shelterbelts, wind protection
 
+
+### Entheogens & Ethnobotany
+- `ceremony` — ceremonial use, ritual contexts, sacred practices
+- `amanita-muscaria` — Amanita muscaria (fly agaric) mushroom
+- `fly-agaric` — fly agaric, Amanita muscaria
+- `bicycle-day` — Bicycle Day (April 19, LSD discovery anniversary)
+- `mk-ultra` — MK-Ultra CIA program, mind control research
+- `discovery` — historical discoveries of compounds or species
+- `mazatec` — Mazatec people, Mazatec mushroom traditions
+- `soma` — Soma, Vedic ritual drink, identity debates
+- `eleusinian` — Eleusinian Mysteries, kykeon
+- `christianity` — Christian contexts, biblical mushroom theories
+- `controversy` — controversial topics, debated claims
+- `cross-cultural` — cross-cultural comparisons, shared practices
+- `ayahuasca` — ayahuasca brew, DMT-containing preparations
+- `bardo` — bardo states, Tibetan death/rebirth cosmology
+- `bufonid-toad` — bufonid toad venom, 5-MeO-DMT sources
+- `ego-death` — ego dissolution, mystical experiences
+- `harmala` — harmala alkaloids, beta-carbolines, MAOIs
+- `iboga` — iboga plant, ibogaine
+- `peyote` — peyote cactus, mescaline
+- `set-and-setting` — set and setting, context of psychedelic experiences
+- `shamanism` — shamanic practices, indigenous healing traditions
+- `smoked-compound` — compounds administered via smoking/vaporization
+- `snuff` — snuff preparations, nasal administration
+- `virola` — Virola genus, DMT snuff sources
+- `comedown` — post-experience comedown, integration period
+- `session-guide` — session preparation and facilitation guides
+- `experience-guide` — experiential guidance, navigation aids
+- `trip-sitting` — trip sitting, psychedelic sitting, safety monitoring
+- `integration` — post-experience integration, processing insights
+- `aftercare` — aftercare, post-session support and grounding
+- `tibetan-book-of-the-dead` — Tibetan Book of the Dead, Bardo Thodol
+- `mysticism` — mystical experiences, spiritual states
+- `spirituality` — spiritual practices, beliefs, traditions
+
+### Geography & Ecology
+- `siberia` — Siberian regions, boreal environments
+- `tropics` — tropical regions, tropical ecosystems
+- `temperate` — temperate climate zones
+- `habitat` — natural habitats, ecological niches
+- `geography` — geographic features, regional characteristics
+- `corridor` — wildlife corridors, ecological connectivity
+- `forest-garden` — forest gardens, edible landscapes
+- `predators` — predator species, predator-prey dynamics
+- `voles` — vole species, small mammal management
+- `hominid` — hominid species, human evolution
+- `evolution` — evolutionary processes, adaptation
+- `ancient` — ancient history, historical contexts
+- `wind` — wind patterns, wind effects on growing
+- `frost` — frost protection, freeze events
+- `nature` — natural systems, wilderness
+- `animals` — animal biology, wildlife
+- `coastal` — coastal environments, marine-terrestrial interfaces
+- `freshwater` — freshwater systems, ponds, streams
+- `microclimate` — microclimate management, local weather modification
+- `wildlife` — wildlife management, habitat creation
+- `zones` — growing zones, hardiness zones, climate zones
+- `1960s` — 1960s counterculture, psychedelic era
+
+### Chemistry & Pharmacology (additional)
+- `lsd` — lysergic acid diethylamide (LSD)
+- `dmt` — N,N-dimethyltryptamine (DMT)
+- `muscimol` — muscimol, GABAergic compound from Amanita
+- `ibotenic-acid` — ibotenic acid, prodrug to muscimol
+- `5-ht2a` — 5-HT2A serotonin receptor
+- `ssri` — selective serotonin reuptake inhibitors
+- `ergot` — ergot fungus, ergotamine, ergoline alkaloids
+- `maoi` — monoamine oxidase inhibitors
+- `maoi-interaction` — MAOI drug interactions, dietary restrictions
+- `tryptamine` — tryptamine class compounds
+- `beta-carboline` — beta-carboline class compounds
+- `beta-glucan` — beta-glucan polysaccharides, immune modulators
+- `betulin` — betulin, betulinic acid from birch bark
+- `betulinic-acid` — betulinic acid, anti-tumor compound
+- `ganoderic-acid` — ganoderic acids, triterpenoids from Reishi
+- `grifolan` — grifolan, beta-glucan from Maitake
+- `polysaccharide-k` — PSK, polysaccharide-K from Turkey Tail
+- `polysaccharide-peptide` — PSP, polysaccharide-peptide
+- `superoxide-dismutase` — superoxide dismutase (SOD), antioxidant enzyme
+- `triterpenoid` — triterpenoid compounds
+- `phosphate-ester` — phosphate ester linkages, psilocybin chemistry
+- `mushroom-alkaloid` — alkaloids found in mushrooms
+- `endogenous-compound` — endogenous compounds, naturally occurring in body
+- `dose-response-curve` — dose-response relationships, pharmacodynamics
+- `pharmacokinetics` — drug metabolism, absorption, half-life
+- `phenomenology` — subjective experience, phenomenological descriptions
+- `oral-active` — orally active compounds, bioavailability
+- `threshold` — threshold doses, minimum effective doses
+- `onset` — onset of effects, time to peak
+- `peak` — peak effects, duration
+- `adaptogen` — adaptogenic compounds, stress modulation
+- `anti-inflammatory` — anti-inflammatory compounds, mechanisms
+- `antioxidant` — antioxidant compounds, oxidative stress
+- `anxiety` — anxiety, anxiolytic effects
+- `ptsd` — PTSD, trauma treatment
+- `depression` — depression, antidepressant effects
+- `addiction` — addiction, substance dependence, recovery
+- `contraindications` — medical contraindications, risk factors
+- `clinical-research` — clinical studies, human trials
+- `clinical-trial` — clinical trial design, methodology
+- `pain-management` — pain management, analgesic properties
+- `cancer` — cancer research, anti-tumor properties
+- `cardiovascular` — cardiovascular effects, heart health
+- `sleep` — sleep effects, sleep quality
+- `inflammation` — inflammatory processes, anti-inflammatory
+- `anatomy` — anatomical structures, morphology
+- `glandular` — glandular systems, endocrine function
+- `default-mode-network` — default mode network, brain connectivity
+- `neuroplasticity` — neuroplasticity, brain adaptation
+- `genomics` — genomics, genome studies
+- `genotype` — genotype, genetic variation
+- `phenotype` — phenotype, expressed characteristics
+- `melanin` — melanin, fungal pigmentation
+- `enzymes` — enzymatic processes, enzyme function
+
+### People & Organizations (additional)
+- `mckenna` — Terence McKenna, Dennis McKenna
+- `hofmann` — Albert Hofmann, LSD discoverer
+- `maria-sabina` — Maria Sabina, Mazatec curandera
+- `wasson` — R. Gordon Wasson, ethnomycologist
+- `sandoz` — Sandoz pharmaceutical company
+- `holzer` — Sepp Holzer, permaculture farmer
+- `allegro` — John Allegro, sacred mushroom theory
+- `harvard` — Harvard University, Harvard research
+- `leary` — Timothy Leary, psychedelic research
+- `fukuoka` — Masanobu Fukuoka, natural farming pioneer
+
+### Homesteading & Community (additional)
+- `local-economy` — local economic systems, community economics
+- `trade` — trade, barter, exchange systems
+- `biological-control` — biological pest control, natural enemies
+- `foundations` — building foundations, earthworks
+- `geometry` — geometric design, sacred geometry
+- `field-guide` — field guides, identification resources
+- `drug-policy` — drug policy, legal frameworks
+- `scheduling` — scheduling, timing, seasonal planning
+- `testing` — soil testing, quality testing
+- `journaling` — journaling, record keeping
+- `meditation` — meditation, mindfulness practices
+- `etymology` — etymology, word origins
+- `integrated-pest-management` — integrated pest management (IPM)
+- `trapping` — trapping, pest control methods
+- `activism` — activism, advocacy, social movements
+- `education` — education, teaching, learning
+- `community` — community building, social organization
+- `self-reliance` — self-reliance, independence
+- `self-sufficiency` — self-sufficiency, homesteading skills
+- `law` — legal frameworks, regulations
+- `business` — business, enterprise, marketing
+- `reform` — policy reform, social change
+- `regulation` — regulatory frameworks, compliance
+- `intellectual-property` — patents, IP, open-source licensing
+- `patents` — patent systems, patent law
+- `observation` — observation skills, nature observation
+- `tools` — tools, equipment, implements
+- `reference` — reference materials, data compilations
+- `resources` — resource management, resource lists
+
+### Growing Methods (additional)
+- `farming` — farming practices, agricultural methods
+- `natural-farming` — natural farming, minimal intervention
+- `sustainable-agriculture` — sustainable agriculture, long-term farming
+- `agroforestry` — agroforestry, tree-crop integration
+- `aquaculture` — aquaculture, fish farming
+- `aquaponics` — aquaponics, fish-plant systems
+- `foraging` — wild foraging, harvesting wild plants
+- `growing-guide` — species-specific growing guides
+- `indoor-cultivation` — indoor growing environments
+- `outdoor` — outdoor growing, field cultivation
+- `intensive-gardening` — intensive gardening, biointensive methods
+- `urban-gardening` — urban gardening, city growing
+- `tropical-gardening` — tropical gardening techniques
+- `container-garden` — container gardening, raised beds
+- `balcony` — balcony gardening, small-space growing
+- `difficult-sites` — challenging growing conditions
+- `direct-seeding` — direct seeding, field planting
+- `intercropping` — intercropping, multiple crop systems
+- `companion-planting` — companion planting combinations
+- `polyculture` — polyculture systems, multiple species
+- `green-manure` — green manure crops, soil building
+- `clover-cover` — clover cover crops, nitrogen fixation
+- `straw-mulch` — straw mulching, weed suppression
+- `guild` — plant guilds, functional groupings
+- `guilds` — guild systems, permaculture guilds
+- `coppicing` — coppicing, woodland management
+- `irrigation` — irrigation systems, water delivery
+- `ventilation` — ventilation, air circulation
+- `temperature` — temperature management, climate control
+- `propagation` — plant propagation, multiplication
+- `seeds` — seed saving, seed management
+- `seed-production` — seed production, seed crops
+- `planting` — planting techniques, timing
+- `plant-spacing` — plant spacing, density management
+- `training` — plant training, pruning, shaping
+- `stacking` — stacking functions, vertical space use
+- `succession` — ecological succession, progressive planting
+- `swales` — swales, water-harvesting earthworks
+- `fire` — fire management, controlled burns
+- `pasture` — pasture management, grazing systems
+- `livestock` — livestock management, animal husbandry
+- `pollinators` — pollinator support, bee keeping
+- `insects` — insect management, beneficial insects
+- `pests` — pest identification, pest management
+- `pathogens` — plant pathogens, disease management
+- `plant-disease` — plant diseases, diagnostics
+- `trees` — tree care, orchard management
+- `timber` — timber production, forestry
+- `roundwood` — roundwood construction, natural building
+- `shelter` — shelter construction, housing
+- `building` — building techniques, construction
+- `natural-building` — natural building materials and methods
+- `ponds` — pond construction, aquaculture ponds
+
+### Soil & Biology (additional)
+- `soil-biology` — soil biological processes, soil life
+- `soil-building` — soil building techniques, improvement
+- `soil-health` — soil health assessment, indicators
+- `soil-science` — soil science, pedology
+- `organic-matter` — organic matter, humus, soil organic carbon
+- `nitrogen` — nitrogen cycle, nitrogen management
+- `carbon` — carbon in soil, carbon management
+- `carbon-cycling` — carbon cycling, decomposition pathways
+- `carbon-sequestration` — carbon sequestration, climate mitigation
+- `nutrient-cycling` — nutrient cycling, mineral flows
+- `decomposition` — decomposition processes, breakdown
+- `decomposers` — decomposer organisms, detritivores
+- `earthworm` — earthworms, vermicomposting
+- `vermicompost` — vermicomposting, worm castings
+- `rhizosphere` — rhizosphere ecology, root-zone interactions
+- `bacteria` — bacterial biology, soil bacteria
+- `ectomycorrhiza` — ectomycorrhizal fungi associations
+- `saprotrophs` — saprotrophic organisms, decay fungi
+- `entomopathogenic` — entomopathogenic fungi, insect-killing fungi
+- `biocontrol` — biological control agents
+- `mycoremediation` — mycoremediation, fungal cleanup
+- `mycorestoration` — mycorestoration, ecological repair
+- `remediation` — environmental remediation, cleanup
+- `restoration` — ecological restoration, rehabilitation
+- `conservation` — conservation, preservation
+- `biodiversity` — biodiversity, species diversity
+- `fungal-biodiversity` — fungal biodiversity, species richness
+- `fungal-ecology` — fungal ecology, environmental roles
+- `forest-ecology` — forest ecology, woodland ecosystems
+- `environment` — environmental factors, context
+- `resilience` — ecological resilience, system stability
+- `erosion` — soil erosion, erosion control
+- `silt` — silt, soil texture, sediment
+- `trace-elements` — trace elements, micronutrients
+- `filtration` — water filtration, soil filtering
+- `recycling` — nutrient recycling, waste recycling
+
+### Plants & Crops (additional)
+- `botany` — botanical science, plant biology
+- `plant-biology` — plant biology, physiology
+- `herbs` — herbs, herbaceous plants
+- `herbalism` — herbalism, herbal medicine
+- `traditional-medicine` — traditional medicine systems
+- `traditional-chinese-medicine` — TCM, Chinese herbal medicine
+- `indigenous-medicine` — indigenous healing practices
+- `plant-medicine` — plant-based medicine, herbal remedies
+- `natural-remedies` — natural remedies, home treatments
+- `calendula` — calendula, pot marigold
+- `thyme` — thyme, Thymus species
+- `barley` — barley, Hordeum vulgare
+- `kiwi` — kiwi, Actinidia species
+- `vine` — vine crops, climbing plants
+- `vegetables` — vegetable crops, food gardens
+- `crops` — crop production, agronomic crops
+- `food` — food production, food systems
+- `food-production` — food production methods
+- `nutrition` — nutritional content, dietary value
+- `cooking` — cooking, food preparation
+- `tea` — tea, herbal teas, fermented teas
+- `essential-oil` — essential oils, aromatic compounds
+
+### Cannabis (additional)
+- `indica` — Cannabis indica, indica-type varieties
+- `sativa` — Cannabis sativa, sativa-type varieties
+- `ruderalis` — Cannabis ruderalis, autoflowering genetics
+- `landrace` — landrace varieties, heritage strains
+- `trichome` — trichomes, resin glands
+- `hashish` — hashish, resin products
+- `kief` — kief, dry-sift resin
+- `breeding` — cannabis breeding, strain development
+- `hybridization` — hybridization, cross-breeding
+- `selection` — phenotypic selection, breeding selection
+- `genetics` — cannabis genetics, inheritance
+- `classification` — cannabis classification, taxonomy debates
+- `morphology` — plant morphology, structural features
+- `identification` — plant identification, species determination
+- `substrate` — growing substrates, media
+- `clay-pellets` — clay pellets, LECA, hydroton
+- `inoculation` — inoculation, microbial inoculants
+
+### Mushroom Cultivation (additional)
+- `mushroom` — mushrooms broadly, general mushroom topics
+- `gourmet-mushroom` — gourmet/edible mushroom species
+- `medicinal-mushroom` — medicinal mushroom species
+- `oyster` — oyster mushrooms, Pleurotus species
+- `truffle` — truffles, Tuber species
+- `spawn` — mushroom spawn, inoculum
+- `inoculation` — inoculation techniques
+- `deployment` — spawn deployment, field inoculation
+- `tree-inoculation` — tree inoculation, log inoculation
+- `materials` — cultivation materials, supplies
+- `application` — substrate application, colonization
+- `techniques` — cultivation techniques, methods
+- `extraction` — extraction methods, processing
+- `solvent` — solvent extraction, solvents
+- `grifola-frondosa` — Grifola frondosa, Maitake
+- `d-fraction` — D-fraction, Maitake extract
+- `molecular-systematics` — molecular systematics, DNA analysis
+- `field-methods` — field collection methods, sampling
+- `survey` — biodiversity surveys, monitoring
+
+### Meta (additional)
+- `reference` — reference materials, data compilations
+- `growing-guide` — species-specific growing guides
+- `science` — scientific research, methodology
+- `research` — research activities, investigations
+- `systems` — systems thinking, integrated systems
+- `networks` — networks, connections, relationships
+- `multi-function` — multifunctional elements, stacked functions
+- `synergy` — synergistic relationships, mutual benefits
+- `geology` — geological factors, rock, minerals
+- `fish` — fish species, aquaculture
+- `music` — music in ceremonial/cultural contexts
 ## Page Thresholds
 - **Create a page** when an entity/concept appears in 2+ sources OR is central to one source
 - **Add to existing page** when a source mentions something already covered

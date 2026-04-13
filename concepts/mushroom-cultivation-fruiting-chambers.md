@@ -3,7 +3,7 @@ title: Mushroom Cultivation - Fruiting Chambers
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [mushroom-cultivation, fruiting-chamber, humidity, temperature, fungi, mycology, cultivation, FAE, CO2]
+tags: [mushroom-cultivation, fruiting-chamber, humidity, temperature, fungi, mycology, cultivation, fae, co2]
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 

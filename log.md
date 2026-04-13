@@ -2091,3 +2091,41 @@ Total: 989 -> 1044 pages. index.md rebuilt.
 - Added 20 missing index entries for concept pages not indexed
 - Updated index.md page count (1107 → 1127) and last-updated date
 - Final state: 1127 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 frontmatter issues, 0 pages over 200 lines
+## [2026-04-13] lint | Maintenance sweep — all checks pass
+- Fixed 5 broken links: [[decomposition]]→[[fungal-decomposition]], [[fungal-symbiosis]]→[[fungal-symbiosis-types]], [[knf-lab-preparations-guide]]→[[knf-fpj-ratio-guide]], [[nutrient-cycling]]→[[soil-food-web-nutrient-cycling]], [[soil-formation]] (removed — no match)
+- Fixed 2 orphan pages: added inbound links to [[fungal-pathogens-in-agriculture]] (from 3 pages) and [[mycoremediation-regulatory-framework]] (from 3 pages)
+- Added 10 missing index entries (all concept pages created in prior sessions)
+- Updated index.md page count to 1186
+- Files modified: endophytic-fungi-plant-interactions.md, fungal-mineral-weathering.md, fungal-role-in-phosphorus-cycling.md, fungal-succession-in-decomposition.md, jadam-natural-farming-philosophy.md, endophytic-fungi-in-agriculture.md, fungal-succession-in-decomposition.md (x2), fungal-role-in-phosphorus-cycling.md (x2), mycoremediation-basics.md, mycoremediation-case-studies.md, mycoremediation-field-applications.md
+- Final state: 1186 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 pages over 200 lines
+
+## [2026-04-13] lint | Maintenance sweep (no pending heartbeat tasks)
+- Fixed 6 tag violations across 5 pages (casing/character normalization)
+  - lion's-mane → lions-mane (2 pages, added tag to SCHEMA taxonomy)
+  - Lentinula-edodes → lentinula-edodes
+  - PF-tek → pf-tek
+  - FAE → fae, CO2 → co2
+- Added `lions-mane` to SCHEMA.md tag taxonomy (516 → 517 tags)
+- Final state: 1186 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 over-200-line pages, 0 tag violations
+## [2026-04-13] update | Deep mine Vic High breeding source
+- Source: raw/papers/vic-high-creating-true-breeding-strains.md (35KB, previously only cited in entity page)
+- Updated concepts/cannabis-breeding-basics.md (7.3KB → 10.1KB, 157 → 186 lines)
+  - Added source reference (was sources: [])
+  - Added gene frequency and probability mathematics for cubing/backcrossing
+  - Added detailed cubing outcomes table (BX1=75%, BX2=87.5%, BX3=93.75%)
+  - Added dominant vs recessive trait cubing analysis with specific percentages
+  - Added multi-gene trait probability calculations
+  - Added full-sib vs half-sib breeding comparison with outcomes
+  - Added generational inbreeding (IBL creation) methodology with gene frequency tracking
+  - Added progeny testing methodology
+  - Added mathematical shortcut for gene frequency calculations
+  - Added gene linkage warning for trait selection
+  - Added [[vic-high]] wikilink to Related section
+- All 1186 pages verified: 0 broken links, 0 orphans, 0 missing index entries, 0 pages over 200 lines
+- Assessed remaining under-mined sources: 3 unique zero-cited sources are small (<18KB) or already mined; 7 under-mined sources are mostly duplicates. No substantial unmined content remains.
+## [2026-04-13] lint | Maintenance sweep (no pending heartbeat tasks)
+- Fixed 1 broken wikilink in grain-spawn-preparation.md ([[raw/papers/...]] converted to plain text source reference)
+- Bumped updated date to 2026-04-13
+- Final state: 1186 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 over-200-line pages
+- Log entries: 134 (under 500 rotation threshold)
+- All heartbeat tasks complete — wiki in clean state

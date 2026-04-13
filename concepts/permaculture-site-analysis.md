@@ -121,3 +121,7 @@ A complete site analysis package typically includes:
 - [[permaculture-design-methods]] — frameworks for moving from analysis to design
 - [[water-management]] — detailed water earthworks and strategies
 - [[permaculture-forest-garden-establishment]] — using site analysis for planting plans
+
+## Related
+
+- [[permaculture-sector-analysis]]

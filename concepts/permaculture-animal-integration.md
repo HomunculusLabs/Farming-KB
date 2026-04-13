@@ -127,3 +127,7 @@ The most resilient and productive systems integrate multiple animal species that
 - [[permaculture-duck-pond-systems]] — integrated duck and pond design
 - [[permaculture-guild-design]] — animals as functional elements in plant guilds
 - [[permaculture-food-waste-cycling]] — converting waste to animal feed
+
+## Related
+
+- [[permaculture-chicken-tractor-system]]

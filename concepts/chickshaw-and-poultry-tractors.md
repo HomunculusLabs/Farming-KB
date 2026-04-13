@@ -120,3 +120,7 @@ Hens in well-managed mobile systems produce 200-280 eggs per year per bird, comp
 - Age of the flock — peak production at 20-30 weeks, declining gradually after 72 weeks
 
 For more intensive egg production, see [[quail-egg-production]] for alternative small-scale poultry options.
+
+## Related
+
+- [[permaculture-chicken-tractor-system]]

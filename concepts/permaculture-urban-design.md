@@ -141,3 +141,7 @@ See [[permaculture-animal-integration]] for multi-species strategies.
 - [[water-management]] — urban water harvesting and greywater
 - [[permaculture-food-waste-cycling]] — composting and waste cycling in small spaces
 - [[permaculture-community-resilience]] — building resilient urban communities
+
+## Related
+
+- [[urban-permaculture-techniques]]

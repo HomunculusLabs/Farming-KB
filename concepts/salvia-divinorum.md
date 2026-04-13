@@ -1,5 +1,5 @@
 ---
-title: [[salvia-divinorum|Salvia]] divinorum — Diviner's Sage
+title: Salvia divinorum — Diviner's Sage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

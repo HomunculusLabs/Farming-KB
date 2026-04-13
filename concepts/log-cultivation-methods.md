@@ -2,7 +2,7 @@
 
 title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -167,3 +167,7 @@ Bunker spawn is wood chip-filled burlap bags inoculated with mycelium:
 - [[straw-cultivation-methods]] — Pasteurization and low-tech straw growing
 - [[mushroom-species-guide]] — Species-specific wood preferences and growth parameters
 - [[fungal-ecology]] — Natural decomposition succession on wood
+
+## Related
+
+- [[outdoor-mushroom-bed-preparation]]

@@ -2,7 +2,7 @@
 
 title: Psilocybe Genus Classification
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -198,3 +198,4 @@ Many potentially psychoactive species remain undescribed, especially in the trop
 ## See Also
 
 - [[psilocybin-mushroom-chemistry]] — Geographical distribution
+- [[psilocybe-azurescens-profile]]

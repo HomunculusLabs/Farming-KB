@@ -91,4 +91,5 @@ When a tree falls or organic matter is deposited on soil, a predictable sequence
 ## Related
 - [[fungal-ecology-forest-floor]] — for broader forest floor ecology
 - [[fungal-role-in-carbon-cycling]] — for carbon dynamics
-- [[decomposition]] — for decomposition overview
+- [[fungal-decomposition]] — for decomposition overview
+- [[fungal-pathogens-in-agriculture]]

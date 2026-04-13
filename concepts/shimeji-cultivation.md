@@ -1,7 +1,7 @@
 ---
 title: Shimeji Cultivation Guide
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [fungi, mushrooms, cultivation, indoor, species, food, asia]
 sources: []
@@ -178,3 +178,7 @@ Shimeji is versatile and widely used in Japanese cuisine:
 - [[oyster-mushroom-species-guide]] for species cultivated on similar substrates
 - [[mushroom-substrates]]
 - [[mushroom-grow-room-design]]
+- [[grain-spawn-preparation]]
+- [[oyster-mushroom-cultivation]]
+- [[mushroom-cultivation-basics]]
+- [[mushroom-cultivation-fruiting-chambers]]

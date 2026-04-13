@@ -3,7 +3,7 @@ title: Gourmet Mushroom Species Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [gourmet-mushrooms, fungi, mycology, cultivation, shiitake, oyster, lion's-mane, reishi, maitake, stropharia, species-guide]
+tags: [gourmet-mushrooms, fungi, mycology, cultivation, shiitake, oyster, lions-mane, reishi, maitake, stropharia, species-guide]
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 

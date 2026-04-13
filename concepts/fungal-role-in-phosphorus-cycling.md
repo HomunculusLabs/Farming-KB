@@ -88,4 +88,5 @@ Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi 
 - [[arbuscular-mycorrhizal-fungi]] — for AMF details
 - [[ectomycorrhizal-ecology]] — for ECM details
 - [[fungal-mineral-weathering]] — for mineral dissolution
-- [[nutrient-cycling]] — for the complete nutrient cycle
+- [[soil-food-web-nutrient-cycling]] — for the complete nutrient cycle
+- [[fungal-pathogens-in-agriculture]]

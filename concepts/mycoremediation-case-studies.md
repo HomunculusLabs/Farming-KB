@@ -166,3 +166,7 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 - [[mycoremediation-pcbs-and-dioxins]] for PCB/dioxin mechanisms
 - [[mycofiltration-watershed-protection]] for water filtration applications
 - [[mycorestoration-framework]] for the overarching framework
+
+## Related
+
+- [[mycoremediation-regulatory-framework]]

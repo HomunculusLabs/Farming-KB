@@ -163,3 +163,4 @@ Graham Burnett's "Permaculture: A Beginner's Guide" adds practical framing for n
 - LETS (Local Exchange Trading Systems) and local currencies keep wealth circulating
 - Diverse skills = resilience, just as diverse plantings = resilience (the same principle applies to human communities)
 - [[graham-burnett]]
+- [[permaculture-energy-descent-planning]]

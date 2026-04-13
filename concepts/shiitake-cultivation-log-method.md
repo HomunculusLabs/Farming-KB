@@ -3,7 +3,7 @@ title: Shiitake Cultivation - Log Method
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [shiitake, mushroom-cultivation, log-cultivation, fungi, mycology, Lentinula-edodes, wood-cultivation]
+tags: [shiitake, mushroom-cultivation, log-cultivation, fungi, mycology, lentinula-edodes, wood-cultivation]
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 

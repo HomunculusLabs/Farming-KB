@@ -182,3 +182,7 @@ Small urban growing spaces benefit greatly from season extension techniques.
 - [[food-forest-design]] for perennial polyculture approaches
 - [[lettuce-and-leafy-greens]] for high-value urban crops
 - [[seasonal-gardening-calendar]] for year-round growing schedules
+
+## Related
+
+- [[urban-permaculture-techniques]]

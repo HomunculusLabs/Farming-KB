@@ -3,7 +3,7 @@ title: Psilocybin Mushroom Cultivation Basics
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [psilocybin, mushroom-cultivation, fungi, mycology, PF-tek, monotub, grain-to-bulk, species-identification]
+tags: [psilocybin, mushroom-cultivation, fungi, mycology, pf-tek, monotub, grain-to-bulk, species-identification]
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 

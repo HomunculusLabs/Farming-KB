@@ -2,7 +2,7 @@
 
 title: Mushroom Cultivation Methods Comparison
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: comparison
 
 tags:
@@ -91,3 +91,7 @@ For homestead integration, outdoor wine cap and king stropharia beds are the bes
 - [[outdoor-mushroom-bed]] — Outdoor bed construction and species selection
 - [[outdoor-wood-lover-cultivation]] — Woodlover bed specifics
 - [[mushroom-substrate-comparison]] — Substrate materials compared
+
+## Related
+
+- [[history-of-mushroom-cultivation]]

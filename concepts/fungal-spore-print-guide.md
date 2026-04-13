@@ -1,7 +1,7 @@
 ---
 title: Fungal Spore Print Guide
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [fungi, mycology, foraging, species, methods, lab-technique, mushrooms, taxonomy]
 sources: []
@@ -138,3 +138,7 @@ Document your spore prints for future reference:
 - [[mushroom-taxonomy-history]] — How spore colors shaped early fungal classification
 - [[fungal-dna-barcoding]] — Modern molecular identification methods
 - [[mushroom-cooking-techniques]] — Once identified, how to prepare edible species
+
+## Related
+
+- [[mushroom-spore-syringe-making]]

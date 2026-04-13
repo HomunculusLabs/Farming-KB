@@ -74,3 +74,7 @@ Pleurotus ostreatus is the keystone species for many [[mycoremediation-overview]
 - [[shiitake-cultivation-log-method]]
 - [[mushroom-cultivation-bulk-substrates]]
 - [[mushroom-cultivation-grain-spawn]]
+
+## Related
+
+- [[shimeji-cultivation]]

@@ -57,5 +57,5 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 ## Related
 - [[jadam-pest-control-recipes]] — for specific spray recipes
 - [[fukuoka-natural-farming-four-principles]] — for Fukuoka's influence
-- [[knf-lab-preparations-guide]] — for KNF comparison
+- [[knf-fpj-ratio-guide]] — for KNF comparison
 - [[fukuoka-natural-farming-four-principles]] — for broader natural farming context

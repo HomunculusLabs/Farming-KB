@@ -74,4 +74,4 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 - [[mycorrhizal-networks]] — for mycorrhizal endophytes
 - [[mycorrhizal-fungi]] — for root-associated symbionts
 - [[mycopesticides-fungal-biocontrol]] — for entomopathogenic fungi
-- [[fungal-symbiosis]] — for broader symbiosis context
+- [[fungal-symbiosis-types]] — for broader symbiosis context

@@ -58,3 +58,4 @@ A few companies employ white-rot fungi for soil bioremediation:
 - [[white-rot-fungi-bioremediation]] for primary organisms used
 - [[mycoremediation-textile-dye-degradation]] for specific applications
 - [[mycoremediation-overview]] for permitting requirements
+- [[mycoremediation-regulatory-framework]]

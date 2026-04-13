@@ -98,3 +98,4 @@ From "Permaculture Plants: A Selection," zones and sectors directly inform speci
 - [[permaculture-climate-zones]]
 - [[fire-resistant-plants]]
 - [[bee-forage-plant-system]]
+- [[permaculture-sector-analysis]]

@@ -2,7 +2,7 @@
 
 title: Mushroom Cultivation Basics
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -109,7 +109,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ## Substrates
 
 ### Wood-Based Substrates (Lignicolous Species)
-- **Best for**: Shiitake, oyster, enoki, reishi, lion's mane
+- **Best for**: Shiitake, oyster, [[enoki-cultivation|enoki]], reishi, lion's mane
 - **Hardwoods**: Oak, elm, chestnut, beech, maple, alder (best choices)
 - **Conifers**: High resin/tannin content makes them less suitable; mix 1:1 with hardwood if used
 - **Standard formula**: 4 parts sawdust + 1 part bran (by volume)

@@ -3,7 +3,7 @@ title: Medicinal Mushroom Health Benefits
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [medicinal-mushrooms, fungi, mycology, health, immunology, beta-glucans, reishi, turkey-tail, maitake, chaga, lion's-mane]
+tags: [medicinal-mushrooms, fungi, mycology, health, immunology, beta-glucans, reishi, turkey-tail, maitake, chaga, lions-mane]
 sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 

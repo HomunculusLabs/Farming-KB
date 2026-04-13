@@ -192,3 +192,7 @@ One of the most studied agricultural endophytes:
 - [[fungal-biopesticides]] -- external fungal biocontrol agents that complement endophytes
 - [[fungi-in-climate-change]] -- endophytes as tools for climate-resilient agriculture
 - [[mycorrhizal-networks-and-forest-communication]] -- related underground fungal networks
+
+## Related
+
+- [[fungal-pathogens-in-agriculture]]

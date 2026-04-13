@@ -1,7 +1,7 @@
 ---
 title: Mushroom Agar Work
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, preparation, recipe, workflow, genetics]
 sources: []
@@ -15,7 +15,7 @@ Agar work is the practice of growing mushroom mycelium on nutrient agar in petri
 
 Agar is a gelatinous substance derived from red algae. It serves as a solid growth medium that holds nutrients and water while allowing mycelium to grow visibly on its surface. Agar melts at 185F (85C) and solidifies at approximately 100-106F (38-41C). This property allows it to be poured as a liquid and then set into a firm gel.
 
-## Agar Recipes
+## Agar [[mushroom-agar-media-recipes|Recipes]]
 
 ### Malt Extract Agar (MEA) — The Standard
 

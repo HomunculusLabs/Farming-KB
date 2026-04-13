@@ -1,7 +1,7 @@
 ---
 title: Grain Spawn Preparation
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, grain, preparation, workflow, recipe, inoculation]
 sources: []
@@ -119,3 +119,23 @@ Colonized grain spawn can be stored in the refrigerator (35-40F / 2-4C) for 2-4 
 - [[mushroom-sterile-technique-detailed]] — maintaining sterility during inoculation
 - [[bulk-substrate-preparation]] — preparing CVG for spawning
 - [[mushroom-spawn-making-detailed]]
+## Spawn Grain × Substrate Interactions (Nwanze et al., 2005)
+
+Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain interacts significantly with the culture medium to affect fruitbody quality:
+
+### Key Findings
+- **Millet spawn × animal bedding/rice medium** produced the widest stipe diameter
+- **Corn spawn × animal bedding/rice medium** produced the heaviest dry weight and widest pileus diameter
+- **Wheat spawn × sawdust** produced the widest stipe diameter among sawdust-based substrates
+- The spawn grain × culture medium interaction was highly significant for all measured parameters (dry weight, stipe diameter, pileus diameter)
+
+### Cultivation Implications
+- Grain choice matters beyond colonization speed — it affects fruitbody morphology and yield
+- Protein-rich substrates (animal bedding, rice) paired with corn or millet spawn gave the best results
+- For sawdust-based substrates, wheat spawn performed better than corn or millet
+- These findings apply primarily to non-composted substrates and tropical species; results may differ for composted Agaricus cultivation
+
+Source: raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
+
+
+- raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md

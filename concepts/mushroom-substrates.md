@@ -2,7 +2,7 @@
 
 title: Mushroom Substrates
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -197,3 +197,4 @@ For detailed Agaricus compost formulas (horse manure and synthetic), supplement 
 
 ## See Also
 
+## Related

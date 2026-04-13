@@ -76,4 +76,4 @@ Fungi are among the most significant biological agents of mineral weathering —
 ## Applications
 - [[mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
-- [[soil-formation]] — fungi in pedogenesis
+-  — fungi in pedogenesis
