@@ -64,7 +64,7 @@ Choose species native to your specific ecoregion. Key categories:
 - Do not fertilize native plantings -- they are adapted to poor soils
 - Be patient: native perennials spend their first year establishing roots, with minimal above-ground growth
 
-## Shelter Corridors
+## Shelter [[permaculture-wildlife-corridors|Corridor]]s
 
 Wildlife corridors are strips of vegetation that connect larger habitat areas, allowing animals to move safely between feeding, nesting, and resting areas. On the homestead, corridors connect woodlots, wetlands, food plots, and the [[food-forest-design]].
 

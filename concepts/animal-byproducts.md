@@ -2,7 +2,7 @@
 
 title: Animal Byproducts in Homesteading Systems
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 
 tags:
@@ -132,3 +132,4 @@ Values are approximate and vary by animal diet, age, bedding, and processing met
 
 - [[organic-nutrients-vs-synthetic-nutrients]] — comparison
 - [[candle-making]] — homestead crafts
+- [[homesteading-water-systems]]

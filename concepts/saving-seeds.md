@@ -9,7 +9,7 @@ sources: []
 
 # Saving Seeds
 
-Seed saving is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
+[[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 
 ## Why Save Seeds
 

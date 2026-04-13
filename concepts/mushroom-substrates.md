@@ -30,7 +30,7 @@ The substrate is the material on which mushroom mycelium grows and from which fr
 
 Related: [[mushroom-cultivation-basics]], [[mushroom-sterile-technique-detailed]]
 
-## Grain Spawn
+## [[mushroom-cultivation-grain-spawn|Grain Spawn]]
 
 Grain spawn is the universal inoculum for expanding mycelium before introducing it to fruiting substrates.
 

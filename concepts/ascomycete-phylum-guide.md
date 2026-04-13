@@ -85,3 +85,7 @@ Ascomycetes reproduce both sexually and asexually. Sexual reproduction involves 
 - Microscopic examination of asci and ascospores is often necessary
 - Spore print colors vary but are often white, cream, pink, or dark
 - Many have distinctive asexual stages that are easier to identify than sexual structures
+
+## Related
+
+- [[fungal-species-concept-and-taxonomy]]

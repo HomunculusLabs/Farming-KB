@@ -1,5 +1,5 @@
 ---
-title: Bamboo as Building Material
+title: [[permaculture-bamboo-in-design|Bamboo]] as Building Material
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

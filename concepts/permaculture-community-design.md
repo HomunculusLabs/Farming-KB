@@ -117,3 +117,7 @@ Arcosanti, Auroville, Damanhur, The Farm, Findhorn -- all studied as models with
 - [[permaculture-principles]] -- Ethics and principles
 - [[permaculture-zones-in-practice]] -- Zone application
 - [[seasonal-planning]] -- Implementation timeline
+
+## Related
+
+- [[permaculture-currency-and-economics]]

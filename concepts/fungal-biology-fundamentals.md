@@ -62,3 +62,4 @@ The abundance of fungi in humid forests reflects this dependency. [[fungal-spore
 
 - [[fungal-decomposition]]
 - [[fungi-in-space-research]]
+- [[mycelium-composites-materials]]

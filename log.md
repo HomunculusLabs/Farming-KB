@@ -2024,3 +2024,65 @@ Batch E — Main agent (11 new):
 - soil-compaction-solutions.md
 
 Total: 989 -> 1044 pages. index.md rebuilt.
+## [2026-04-13] lint | Maintenance sweep (no pending heartbeat tasks)
+- All heartbeat tasks complete — ran maintenance sweep
+- Rebuilt index.md from filesystem (1044+ pages, 0 duplicates, 0 missing)
+- Fixed 5 orphan pages by adding inbound wikilinks from related pages
+- Fixed 2 broken links (decomposition-processes, fermentation-science → existing pages)
+- Fixed 1 broken link (broadfork-garden-aeration → soil-compaction-solutions)
+- Fixed 1 malformed wikilink in homesteading.md (corrupted title line)
+- Fixed 1 malformed wikilink in gardening-in-hard-times.md (double brackets)
+- Added Related sections to 8 pages for orphan resolution
+## [2026-04-13] lint | Maintenance sweep (no pending heartbeat tasks)
+- All heartbeat tasks complete — ran maintenance sweep
+- Fixed 12 broken links: permaculture-XXX links (9 remapped to existing permaculture pages), mycorestoration → mycorestoration-overview, mycopesticides-fungal-biocontrol → fungal-enzyme-systems-bioremediation, fungal-ecology-forest-floor → fungal-ecology-decomposition-cycles
+- Fixed 3 additional broken links: mushroom-cultivation-bulk-substrates → mushroom-substrates, mushroom-cultivation-cloning-isolation → mushroom-spawn-making-detailed, mushroom-cultivation-fruiting-chambers → psilocybin-fruiting-chambers, mushroom-cultivation-sterile-technique → pf-tek-fruiting-chamber
+- Fixed 7 orphan pages by adding inbound wikilinks from related pages
+- Trimmed homestead-water-purification.md from 201 to 200 lines
+- Added 18 missing pages to index.md (mycoremediation-*, permaculture-*, mushroom-cultivation-grain-spawn, mycelium-composites-materials, mycopesticides-fungal-biocontrol)
+- Final state: 1062 pages, 0 broken links, 0 orphans, 0 missing index entries, 0 pages over 200 lines
+
+## [2026-04-13] create | 20 new wiki pages from deep mining of PIHKAL (Shulgin, phenethylamine chemistry and pharmacology)
+- Created from raw/papers/shulgin-a-pihkal.md (56K lines, 3.3MB)
+- All 20 pages in concepts/ with proper YAML frontmatter (created/updated: 2026-04-13, type: concept, relevant tags, source listing)
+- Pages created:
+  - pihkal-introduction-and-methodology.md — Book I/II structure, testing methodology, safety philosophy, magical half-dozen
+  - phenethylamine-chemistry-basics.md — Core structure, substitution patterns (2,4,5/2,4,6/3,4,5), SAR, key families
+  - 2c-b-compound-profile.md — 2,5-dimethoxy-4-bromophenethylamine: most famous 2C, dosage, effects, synthesis, history
+  - 2c-i-compound-profile.md — 2,5-dimethoxy-4-iodophenethylamine: dosage, effects, comparison to 2C-B
+  - 2c-e-compound-profile.md — 2,5-dimethoxy-4-ethylphenethylamine: effects, duration, magical half-dozen
+  - 2c-t-2-compound-profile.md — 2C-T-2 and 2C-T-7: thioalkyl series, SAR, dosage, safety concerns
+  - mda-compound-profile.md — 3,4-methylenedioxyamphetamine: history, effects, comparison to MDMA
+  - mdoi-compound-profile.md — Hybrid DO/MD compound, SAR context
+  - dob-compound-profile.md — DOB and DOI: extremely potent DO series, sub-mg doses, 18-30hr duration
+  - mescaline-compound-profile.md — Classic natural phenethylamine, dosage, effects, SAR role as parent compound
+  - shulgin-dosage-guidelines.md — Four-level dosage scale, testing methodology, cross-compound potency comparison table
+  - phenethylamine-synthesis-safety.md — Chemical hazards, reagent risks, precursor considerations, lab requirements, legal framework
+  - phenethylamine-tryptamine-comparison.md — PIHKAL vs TIHKAL: structure, potency, duration, effect character comparison
+  - 2c-family-compounds-overview.md — Naming convention, structure, common effects, dosage table, SAR trends
+  - mdma-in-pihkal-context.md — MDMA in PIHKAL: Shulgin's role, therapeutic potential, pharmacology, legal history
+  - shulgin-research-contributions.md — 230+ compounds, SAR discoveries, DEA controversies, scientific and cultural legacy
+  - phenethylamine-receptor-pharmacology.md — 5-HT2A/2C agonism, dopamine/norepinephrine, release vs. agonism, signaling pathways
+  - phenethylamine-duration-and-timing.md — Duration categories (2hr to 30+hr), typical timeline, factors affecting duration
+  - phenethylamine-set-and-setting.md — Set/setting principles, therapeutic vs. recreational context, challenging experiences, integration
+  - pihkal-qualitative-effects-themes.md — Visual, emotional, cognitive, sensory themes across 179 compounds, dose-response patterns
+- All pages use [[wikilinks]] for cross-referencing existing wiki pages (alexander-shulgin, mescaline-reference, etc.)
+- Updated index.md: added 20 entries (6 under 2c/dob alphabetical section, 14 under mescaline/shulgin/phenethylamine section)
+- Updated page count: 1062 → 1082
+
+## [2026-04-13] create | 10 permaculture wiki pages (Designers' Manual batch 2)
+- Created 10 concept pages from Bill Mollison's Permaculture: A Designers' Manual
+- permaculture-tree-crop-systems.md — multi-strata design, succession, livestock integration, climate strategies
+- permaculture-grazing-and-pasture.md — rotational grazing, multi-species grazing, forage trees, range management
+- permaculture-fire-management.md — fire behavior, resistant building design, siting, fuel management, firebreaks
+- permaculture-waste-management.md — sewage treatment, biogas, composting, greywater, community recycling
+- permaculture-seed-saving-and-selection.md — seed sovereignty, practical techniques, heirloom varieties
+- permaculture-building-design.md — passive solar, thermal mass, earth tunnels, Trombe walls, climate-specific design
+- permaculture-settlement-design.md — village siting, economics, livelihoods, trust structures, technology criteria
+- permaculture-pond-construction.md — dam types (saddle, ridgepoint, keypoint, contour, barrier), sealing methods, aquaculture
+- permaculture-domestic-animals.md — chickens, ducks, pigs, goats, bees, rabbits as integrated system components
+- permaculture-zone-0-house-design.md — Zone 0 as design origin, energy conservation, integrated house-garden system
+- All pages sourced from raw/papers/bill-mollison-permaculture-a-designers-manual.md
+- All pages have YAML frontmatter (created/updated: 2026-04-13, type: concept, appropriate tags)
+- All pages include 2+ [[wikilinks]] to existing pages
+- Updated index.md: added 10 entries, page count 1082 → 1092

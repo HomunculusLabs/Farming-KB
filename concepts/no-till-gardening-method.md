@@ -1,7 +1,7 @@
 ---
 title: No-Till Gardening Method
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [no-till, living-soil, regenerative, soil, microbes, gardening, compost, permaculture]
 sources: []
@@ -130,3 +130,4 @@ If you currently till your garden:
 ## Related
 
 - [[sheet-mulching-lasagna-gardening]] — Sheet Mulching and Lasagna Gardening is the primary bed preparation technique for no-till gardens.
+- [[soil-compaction-solutions]]

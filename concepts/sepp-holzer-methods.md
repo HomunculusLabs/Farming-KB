@@ -151,3 +151,4 @@ Holzer achieves productive farming without irrigation through:
 ## Related
 
 - [[mountain-gardening]]
+- [[natural-farming-livestock-integration]]

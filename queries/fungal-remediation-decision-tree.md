@@ -109,3 +109,7 @@ Key rules: surface area should be several times the contamination source; water 
 - [[mycofiltration-overview]] — water filtration design, E. coli discovery, agricultural apps
 - [[mushroom-species-guide]] — species parameters for cultivation
 - [[mycorestoration-overview]] — broader restoration framework
+
+## Related
+
+- [[mycopesticides-fungal-biocontrol]]

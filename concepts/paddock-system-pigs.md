@@ -59,3 +59,4 @@ The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: t
 - [[mangalitza-pig-breeds]] -- old pig breeds suited to paddock systems
 - [[holzer-livestock-integration]] -- integrating livestock into permaculture
 - [[slugs-and-snails-organic-control]] -- pigs as biological slug control
+- [[natural-farming-livestock-integration]]

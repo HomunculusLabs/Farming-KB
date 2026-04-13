@@ -133,3 +133,8 @@ Start with prevention as the core strategy:
 - [[fungal-plant-diseases]] -- common fungal pathogens and their management within IPM
 - [[plant-disease-identification]] -- correct identification as the critical first step of IPM
 - [[pollinator-gardening]] -- supporting beneficial insects as biological control agents
+
+## Related
+
+- [[permaculture-insectary-plants]]
+- [[mycopesticides-fungal-biocontrol]]

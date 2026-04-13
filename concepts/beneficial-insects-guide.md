@@ -191,3 +191,4 @@ When to purchase vs. attract:
 - [[natural-pest-deterrents]] for spray-based pest control that spares beneficials
 - [[companion-planting-reference]] for plant pairings that support beneficial insects
 - [[plant-sensing-communication]]
+- [[permaculture-insectary-plants]]

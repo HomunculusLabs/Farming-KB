@@ -1,7 +1,7 @@
 ---
 title: Food Preservation and Canning
 created: 2026-04-11
-updated: 2026-04-12
+updated: 2026-04-13
 type: concept
 tags: [homesteading, methods, gardening, health, troubleshooting]
 sources: []
@@ -167,3 +167,7 @@ Root cellaring uses natural cool temperatures and high humidity to store certain
 - [[seasonal-planning]] — Planning preservation activities into your seasonal calendar
 - [[vermicomposting]] — Processing food scraps from preservation activities
 - [[composting-systems]] — Managing preservation waste through composting
+
+## Related
+
+- [[homesteading-food-preservation]]

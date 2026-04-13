@@ -82,6 +82,116 @@ sources: [raw/articles/source-name.md]
 - `troubleshooting` — problem-solving guides, pest/disease management
 - `homestead-crafts` — value-added products from homestead outputs (soap, candles, textiles)
 
+
+### Chemistry & Pharmacology
+- `chemistry` — chemical compounds, molecular structures, reactions
+- `pharmacology` — drug actions, mechanisms, pharmacokinetics
+- `psychopharmacology` — psychoactive compound effects on mind and behavior
+- `psychedelics` — psychedelic compounds and their effects
+- `neuroscience` — brain function, neural systems, cognition
+- `phenethylamine` — phenethylamine class compounds
+- `amphetamine` — amphetamine derivatives and related compounds
+- `serotonin` — serotonin receptors and serotonergic systems
+- `dopamine` — dopamine receptors and dopaminergic systems
+- `receptor-biology` — receptor binding, affinity, selectivity
+- `structure-activity-relationship` — molecular structure vs biological activity
+- `dosage` — dosing guidelines, threshold effects, dose-response
+- `effects` — subjective and objective effects of compounds
+- `synthesis` — chemical synthesis methods and procedures
+- `timing` — duration, onset, and temporal aspects of compound effects
+- `harm-reduction` — safety practices, risk mitigation, responsible use
+- `legal` — legal status, regulations, scheduling
+- `therapeutic-potential` — therapeutic applications and clinical research
+- `compound-profile` — detailed compound-specific reference pages
+- `psilocybin` — psilocybin and psilocin containing compounds
+
+### Mushroom Cultivation
+- `mushroom-cultivation` — mushroom growing techniques and methods
+- `mushroom-foraging` — wild mushroom identification and foraging
+- `gourmet-mushrooms` — edible/culinary mushroom species
+- `medicinal-mushrooms` — mushrooms with therapeutic properties
+- `sterile-technique` — aseptic procedures, contamination prevention
+- `agar` — agar media preparation and use
+- `grain-spawn` — grain-based spawn production
+- `bulk-substrate` — bulk substrate preparation and use
+- `fruiting-chamber` — fruiting environment setup and management
+- `laminar-flow` — laminar flow hood use and design
+- `glove-box` — still air box / glove box sterile technique
+- `monotub` — monotub cultivation method
+- `pf-tek` — PF TEK beginner cultivation method
+- `log-cultivation` — log-based outdoor mushroom cultivation
+- `cloning` — mushroom tissue cloning and isolation
+- `strain-isolation` — isolating specific mushroom strains
+- `tissue-culture` — tissue culture techniques
+- `spore-print` — spore print collection and use
+- `species-identification` — mushroom species identification methods
+- `species-guide` — species-specific cultivation or reference guides
+- `grain-to-bulk` — grain spawn to bulk substrate transition
+- `contamination` — contamination identification and prevention
+- `laboratory` — lab equipment and procedures
+- `hygiene` — sanitation and hygiene practices
+- `fae` — fresh air exchange for fruiting
+- `co2` — carbon dioxide management in cultivation
+
+### Mushroom Species & Materials
+- `shiitake` — shiitake mushroom (Lentinula edodes)
+- `oyster-mushroom` — oyster mushroom (Pleurotus species)
+- `reishi` — reishi mushroom (Ganoderma lucidum)
+- `lion's-mane` — lion's mane mushroom (Hericium erinaceus)
+- `turkey-tail` — turkey tail mushroom (Trametes versicolor)
+- `maitake` — maitake mushroom (Grifola frondosa)
+- `chaga` — chaga mushroom (Inonotus obliquus)
+- `pleurotus` — Pleurotus genus oyster mushrooms
+- `stropharia` — Stropharia genus mushrooms
+- `lentinula-edodes` — Lentinula edodes species
+- `beta-glucans` — beta-glucan compounds in fungi
+- `mycelium` — mycelial growth and networks
+- `deadly-mushrooms` — toxic and deadly mushroom species
+- `lookalikes` — mushroom species that resemble edible ones
+
+### Mycoremediation & Applied Mycology
+- `mycoforestry` — use of fungi in forestry and reforestation
+- `mycofiltration` — fungal filtration for water treatment
+- `mycopesticides` — fungi as biological pest control agents
+- `forest-restoration` — forest ecosystem restoration
+- `forest-floor` — forest floor ecology and decomposition
+- `mycorrhizal` — mycorrhizal fungal associations
+- `heavy-metals` — heavy metal contamination and remediation
+- `petroleum` — petroleum and hydrocarbon contamination
+- `pesticides` — pesticide contamination and remediation
+- `pcb` — PCB contamination and remediation
+- `dioxin` — dioxin contamination and remediation
+- `water-treatment` — water purification and treatment systems
+- `ecosystem` — ecosystem-level processes and dynamics
+
+### Cultivation Materials & Methods
+- `straw` — straw as substrate or mulch material
+- `sawdust` — sawdust as substrate material
+- `wood-chips` — wood chips as substrate or mulch
+- `composites` — composite materials from biological sources
+- `biomaterials` — biomaterials and bio-based materials
+- `building-materials` — natural and alternative building materials
+- `packaging` — sustainable packaging materials
+- `outdoor-beds` — outdoor growing bed techniques
+- `totem-method` — totem method for outdoor mushroom cultivation
+- `wood-cultivation` — wood-based cultivation methods
+
+### Permaculture & Land Management
+- `mulch` — mulching materials and techniques
+- `weed-management` — weed control and management strategies
+- `weeds` — weed species and their management
+- `rainwater` — rainwater collection and harvesting
+- `water-harvesting` — water harvesting techniques and systems
+- `mapping` — land mapping and survey techniques
+- `topography` — topographical analysis and contour mapping
+- `contour` — contour-based land design
+- `landscape-analysis` — landscape reading and analysis
+- `site-design` — permaculture site design
+
+### Research & Methods
+- `research-methods` — research methodologies and approaches
+
+
 Rule: every tag on a page must appear in this taxonomy. If a new tag is needed,
 add it here first, then use it.
 

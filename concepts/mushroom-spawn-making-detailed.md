@@ -176,3 +176,4 @@ Best practice: plan your grow timeline so that spawn is used within 2 weeks of f
 - [[mushroom-liquid-culture]] — liquid culture as an alternative expansion method
 - [[mushroom-agar-work]] — maintaining clean cultures for spawn production
 - [[mushroom-sterile-technique-detailed]] — sterile procedure for G2G transfers
+- [[mushroom-cultivation-grain-spawn]]

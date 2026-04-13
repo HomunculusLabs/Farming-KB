@@ -3,7 +3,7 @@ title: Permaculture Animal Integration
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
-tags: [permaculture, animal-husbandry, ducks, goats, [[natural-farming-livestock-integration|livestock]], ecology, forage, multi-function]
+tags: [permaculture, animal-husbandry, ducks, goats, livestock, ecology, forage, multi-function]
 sources: []
 ---
 

@@ -1,138 +1,58 @@
 ---
-title: Mycoforestry — Forest Restoration with Fungi
-created: 2026-04-12
-updated: 2026-04-12
+title: Mycoforestry and Forest Restoration
+created: 2026-04-13
+updated: 2026-04-13
 type: concept
-tags: [mycology, ecology, permaculture, food-forest, remediation]
-sources:
-  - raw/papers/unknown-mycelium-running.md
+tags: [mycoforestry, mycorestoration, forest-restoration, mycorrhizal, fungi, mycology, ecology, environment, forestry, conservation]
+sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
-# Mycoforestry — Forest Restoration with Fungi
+# Mycoforestry and Forest Restoration
 
-Using fungi to restore forests, protect trees from pathogens, improve soil health, and accelerate reforestation. One of [[paul-stamets]]' four branches of [[mycorestoration-overview]], from *Mycelium Running* (2005).
+Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with mycorrhizal fungi, deploying saprophytic fungi for decomposition and soil creation, and using fungal networks to establish nutrient cycling in damaged landscapes.
 
-## Core Principles
+## The Mycelial Network
 
-Mycoforestry harnesses fungal partnerships to:
-- Accelerate decomposition of forest debris into soil
-- Protect trees from parasitic fungi through competitive exclusion
-- Enhance mycorrhizal networks for nutrient sharing
-- Reduce erosion and retain water in forest soils
-- Create sustainable mushroom harvests from managed forests
+In old-growth forests, mycelial networks form a "mycelial mat" -- a vast underground web connecting trees, plants, and soil organisms. This mycorrhizal network facilitates nutrient exchange between trees, distributes water, and creates soil structure. In fact, the mycelium of a single fungal organism can extend for hundreds or even thousands of acres. When old-growth forests are cut, this network is destroyed, and recovery is extremely slow without intervention.
 
-## Chip-and-Leave Strategy
+## Mycorrhizal Inoculation
 
-The foundational mycoforestry technique:
+Mycorrhizal fungi form symbiotic associations with plant roots, extending the root system's reach and enabling the plant to access nutrients and water that would otherwise be unavailable. Mycorrhizal inoculation of seedlings involves:
 
-1. **Chip**: Use wood-chipping equipment to process branches, slash, and small-diameter wood from forest thinning operations
-2. **Spread**: Distribute wood chips along roadways, trails, and disturbed areas
-3. **Leave**: Allow natural fungal colonization (or inoculate with selected species)
-4. **Result**: Wood chips retain moisture, suppress competing weeds, and become substrate for beneficial fungi that protect standing trees
+1. Applying mycorrhizal inoculum (such as MycoGrow) to seedling roots at planting time
+2. Ensuring the inoculum contacts the root zone directly
+3. Planting seedlings in sites where native mycorrhizal networks have been disrupted
 
-Benefits:
-- Reduces erosion on forest roads and trails
-- Retains moisture in the forest floor
-- Creates substrate for beneficial decomposer fungi
-- Suppresses invasive plant growth
-- Builds soil organic matter over time
-- Provides habitat for beneficial microorganisms
-
-## Species Barriers: Protecting Trees from Parasitic Fungi
-
-One of Stamets' most important practical innovations:
-
-### The Problem
-Parasitic fungi like Armillaria ostoyae (honey mushroom) can kill standing trees. Armillaria is one of the largest organisms on Earth — a single specimen in Oregon covers 2,384 acres and is estimated to be 2,400+ years old.
-
-### The Solution
-Inoculate stumps and wood debris with beneficial, aggressive saprophytic fungi that:
-- Outcompete parasitic fungi for substrate
-- Create biological perimeters around vulnerable stands
-- Decompose dead wood faster than parasitic fungi can colonize it
-
-### Recommended Barrier Species
-- **Sparassis crispa** (cauliflower mushroom): Aggressive stump decomposer, edible
-- **Hypholoma capnoides** (smoky gilled woodlover): Rapid colonizer of cut stumps
-- **Pleurotus ostreatus** (oyster mushroom): Extremely aggressive, outcompetes most competitors
-- **Trametes versicolor** (turkey tail): Ubiquitous, beneficial, medicinal
-
-### Stump Inoculation Method
-1. Freshly cut stumps are ideal (within hours of cutting)
-2. Drill holes and insert plug spawn, or apply sawdust spawn to the cut surface
-3. The beneficial mycelium colonizes the stump before parasitic fungi can establish
-4. The stump becomes a nutrient source for the beneficial fungus rather than a launchpad for parasites
-
-## Mycorrhizal Inoculation at Planting
-
-### Why It Matters
-
-[[mycorrhizal-fungi]] form symbiotic relationships with tree roots:
-- Ectomycorrhizae: Associate with conifers, oaks, beeches, birches
-- Endomycorrhizae (VAM): Associate with most other plants
-
-Benefits to trees:
-- Extended root reach (mycorrhizal hyphae access water and nutrients far beyond root zone)
+Benefits of mycorrhizal inoculation:
+- Increased nutrient uptake (phosphorus, nitrogen, micronutrients)
+- Enhanced drought tolerance
 - Protection against root pathogens
-- Improved drought tolerance
-- Enhanced nutrient uptake (especially phosphorus)
-- Connection to common mycorrhizal networks ("wood wide web")
+- Improved soil structure through glomalin production
 
-### Inoculation Techniques
+## Road Reconstruction with Fungi
 
-1. **At planting**: Dip bare roots in mycorrhizal inoculant slurry before planting
-2. **Soil drench**: Water in mycorrhizal spore suspensions around newly planted trees
-3. **Companion plants**: Plant mycorrhizal host plants near target trees
-4. **Wood chip mulch**: Spread inoculated wood chips around tree bases to encourage mycorrhizal networks
-5. **Soil transfer**: Transfer soil from healthy forest to planting site to introduce native mycorrhizae
+A demonstrated mycoforestry technique for reclaiming damaged roads and disturbed sites:
 
-## Road Decommissioning
+1. Wood chips are placed along road scar surfaces
+2. Chips are inoculated with oyster mushroom (Pleurotus ostreatus) mycelium as a keystone species
+3. Straw is spread over inoculated wood chips
+4. Non-seeding wheat or native grass seed, mixed with mycorrhizal inoculum, is broadcast
+5. Rainfall activates growth; seeds sprout within a week
+6. Mycelium colonizes the wood chips, retaining moisture and binding soil
 
-When forest roads are decommissioned:
-1. Remove culverts and road surface
-2. Scarify compacted roadbed
-3. Apply wood chips and mycelial inoculant
-4. The mycelial mat captures sediment, prevents erosion
-5. Over time, the roadbed becomes productive forest floor
+Over years, the wood chips decompose into rich soil (approximately 1-2 inches of soil per 12 inches of wood chips over 4 years). A mantle of mycelium forms where wood chips and subsoil meet, binding loose gravel and providing structural resilience to the road's subsurface.
 
-## Fire Prevention
+## Wood Chips as Ecological Currency
 
-Fungal mats in the forest floor:
-- Retain moisture, reducing fire risk
-- Decompose accumulated fuel (downed wood, branches)
-- Create firebreaks when installed as continuous mycelial barriers
-- After mycoremediation, the reduced fuel load lowers fire intensity
+Wood chips serve as a primary substrate for mycoforestry practices. They provide the carbon source that fuels fungal growth, which in turn creates soil, retains moisture, and supports the re-establishment of native plant communities. As Stamets writes: "Wood chips are the ecological currency that we should bank for preventing erosion."
 
-## Armillaria-Resistant Species Selection
+## Future Approaches
 
-When planting in areas with known Armillaria infestation, consider:
-- Species with natural resistance to honey mushroom
-- Aggressive mycorrhizal partners that compete with Armillaria
-- Companion fungi inoculated at planting to provide protection
-
-## Carbon Banking
-
-Forests managed with mycoforestry principles sequester more carbon:
-- [[fungal-decomposition]] produces stable humic compounds
-- Mycorrhizal networks store carbon as glomalin (see [[glomalin]])
-- Faster decomposition of forest debris prevents catastrophic wildfire release
-- Healthy fungal soils retain more carbon than degraded soils
-- The continuous cycle of growth → decomposition → soil building creates long-term carbon storage
-
-## Integration with Permaculture
-
-Mycoforestry integrates with [[permaculture-design]]:
-- [[food-forest-design]] at the edges of managed forests
-- [[swale-design-construction]] combined with mycofiltration for water management
-- [[cover-cropping-guide]] for understory soil building
-- [[food-forest-layers-and-species]] incorporating fungal allies at every layer
-- [[hugelkultur-guide]] using fungal-inoculated wood cores
+Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrhizal species working in concert. No parasitic species are contemplated. The combination of decomposition, soil building, and symbiotic nutrient exchange creates a comprehensive approach to forest restoration.
 
 ## See Also
 
-- [[mycorestoration-overview]] for the umbrella framework
-- [[mycofiltration-watershed-protection]] for water-related applications
-- [[mycorrhizal-networks]] for the science of fungal-tree partnerships
-- [[fungal-ecology]] for ecological context
-- [[fungal-decomposition]] for the science of wood decay
-- [[log-cultivation-methods]] for productive use of forest wood
+- [[mycofiltration-water-treatment]]
+- [[mycoremediation-overview]]
+- [[fungal-ecology-decomposition-cycles]]
+- [[paul-stamets]]

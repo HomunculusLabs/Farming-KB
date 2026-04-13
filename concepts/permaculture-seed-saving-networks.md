@@ -1,5 +1,5 @@
 ---
-title: Permaculture Seed Saving Networks
+title: Permaculture [[permaculture-seed-saving-and-selection|Seed Saving]] Networks
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
