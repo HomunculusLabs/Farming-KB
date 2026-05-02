@@ -14,6 +14,16 @@ sources:
 
 American mycologist, author, and entrepreneur. Founder of Fungi Perfecti, a company specializing in gourmet and medicinal mushroom products. Based in the Pacific Northwest (Olympic Peninsula, Washington). One of the most influential figures in popular mycology, known for bridging academic research with practical cultivation.
 
+
+
+
+
+
+
+
+
+
+
 ## Key Works
 
 - **Mycelium Running: How Mushrooms Can Help Save the World** (2005) — Comprehensive guide to mycoremediation, mycofiltration, and the ecological roles of fungi. Over 1,000 pages covering [[mycoremediation-basics]] techniques, [[mycofiltration-overview]], and fungal partnerships with plants.
@@ -21,6 +31,16 @@ American mycologist, author, and entrepreneur. Founder of Fungi Perfecti, a comp
 - **Psilocybin Mushrooms of the World** (1996) — Taxonomic and identification guide to psychoactive mushroom species worldwide, with contributions from [[david-arora]], [[gary-lincoff]], [[gaston-guzman]], and [[jeremy-bigwood]].
 - **Growing Gourmet and Medicinal Mushrooms** (1993) — Practical cultivation guide.
 - **Fantastic Fungi** (2019) — Documentary film featuring his work.
+
+
+
+
+
+
+
+
+
+
 
 ## Key Contributions
 
@@ -36,9 +56,29 @@ Research on the immune-boosting properties of species including turkey tail (*Tr
 ### Psilocybin Research
 Co-reported *Psilocybe subcubensis* with [[jeremy-bigwood]] (1978). His taxonomic and photographic documentation of psilocybin mushrooms worldwide has been cited in hundreds of scientific papers. His patents on [[mycoremediation-basics]] and [[mycofiltration-overview]] technologies are held through [[stamets-patents]].
 
+
+
+
+
+
+
+
+
+
+
 ## Legacy
 
 Stamets' work has popularized mycology for a general audience while maintaining scientific credibility. His ability to communicate complex mycological concepts in accessible language has made him the most publicly recognizable mycologist of his generation. His advocacy for fungal conservation and ecological restoration has influenced permaculture, regenerative agriculture, and environmental science.
+
+
+
+
+
+
+
+
+
+
 
 ## Related
 

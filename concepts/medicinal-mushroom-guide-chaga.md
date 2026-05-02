@@ -19,7 +19,7 @@ Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk me
 
 - **Betulin and betulinic acid:** Triterpenes derived from the birch tree host. Betulinic acid has demonstrated anti-tumor, anti-inflammatory, and antiviral properties in research.
 - **Melanin:** The dark black exterior of chaga is essentially concentrated melanin, providing potent antioxidant and radioprotective effects.
-- **Beta-glucans (polysaccharides):** Immune-modulating compounds, though at lower concentrations than turkey tail or reishi.
+- **[[beta-glucans]] (polysaccharides):** Immune-modulating compounds, though at lower concentrations than turkey tail or reishi.
 - **Superoxide dismutase (SOD):** Enzyme with powerful antioxidant activity.
 - **Inotodiol:** Triterpene specific to Inonotus species with anti-inflammatory and anti-tumor activity.
 - **Polyphenols:** Including vanillic acid, syringic acid, and protocatechuic acid.

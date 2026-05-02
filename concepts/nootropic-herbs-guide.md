@@ -148,52 +148,8 @@ Mediterranean aromatic herb used since ancient times for memory enhancement. The
 - **1,8-cineole (eucalyptol):** Monoterpene ketone. Primary compound responsible for cognitive effects. Crosses blood-brain barrier.
 - **Carnosic acid:** Phenolic diterpene. Potent neuroprotective antioxidant.
 - **Rosmarinic acid:** Polyphenol with antioxidant, anti-inflammatory, and anxiolytic effects.
-- **Carnosol:** Phenolic diterpene with anti-inflammatory and neuroprotective properties.
-- **Ursolic acid:** Triterpenoid with anti-inflammatory activity.
 
-### Mechanisms
-- **Cognitive enhancement:** 1,8-cineole modulates acetylcholinesterase activity and enhances cholinergic neurotransmission. Improves speed and accuracy of cognitive performance.
-- **Neuroprotection:** Carnosic acid activates the Nrf2 pathway, triggering endogenous antioxidant defense systems in the brain. Protects neurons from beta-amyloid toxicity.
-- **Anti-inflammatory:** Rosmarinic acid and carnosic acid reduce neuroinflammation.
-- **Circulatory:** Mild vasodilatory effects improve cerebral blood flow.
-- **Mood:** Aromatherapy studies show reduced cortisol and improved mood with rosemary scent.
+## See Also
 
-### Delivery Methods and Evidence
-- **Aromatherapy:** Smelling rosemary essential oil improves cognitive performance. Blood 1,8-cineole levels correlate with performance scores. 4-10 drops in a diffuser or 2-3 drops on a tissue.
-- **Oral:** Tea, cooked rosemary, or encapsulated extract. Carnosic acid and rosmarinic acid are better absorbed orally.
-- **Topical:** Rosemary oil on temples (diluted) may improve alertness.
-
-### Dosing
-- **Aromatherapy:** 2-4 drops essential oil in a diffuser, or inhale directly 2-3 times daily.
-- **Tea:** 1-2 teaspoons dried herb per cup, steeped 5-10 minutes. 2-3 cups daily.
-- **Extract:** 250-500mg standardized extract daily.
-- **Culinary:** Generous use in cooking provides therapeutic amounts of rosmarinic acid and carnosic acid.
-
-### Contraindications
-- **Essential oil:** Never ingest undiluted. Avoid in epilepsy. Keep away from eyes and mucous membranes.
-- Pregnancy (culinary amounts safe; avoid medicinal doses). Caution with anticoagulants (mild blood-thinning). May interfere with iron absorption.
-
----
-
-## Combining Nootropic Herbs
-
-- **Memory Stack:** Bacopa + Lion's Mane + Ginkgo — neuroplasticity, neuroregeneration, and cerebral circulation.
-- **Focus Stack:** Rosemary (aroma) + Gotu Kola + Bacopa — acute alertness with long-term cognitive support.
-- **Anti-Anxiety Stack:** Gotu Kola + Bacopa — anxiety reduction without stimulation.
-- **Neuroprotection Stack:** Lion's Mane + Bacopa + Rosemary (oral) — multi-target neuroprotection.
-
-## Timing
-
-| Herb | Best Time | Onset | Duration |
-|------|-----------|-------|----------|
-| Bacopa | With meals | 8-12 weeks | Cumulative |
-| Lion's Mane | AM/afternoon | 2-4 weeks | Cumulative |
-| Gotu Kola | Morning | 1-4 weeks | Cumulative |
-| Ginkgo | Morning/midday | 4-6 weeks | Cumulative |
-| Rosemary (aroma) | Any time | Minutes | 1-4 hours |
-
-## Related Topics
-
-- [[medicinal-mushroom-guide-lions-mane]] for detailed lion's mane information
-- [[adaptogenic-herbs-guide]] for stress-supporting herbs that complement cognitive enhancement
-- [[psychedelic-plants-chemical-guide]] for psychoactive compound comparisons
+- [[adaptogenic-herbs-guide]]
+- [[parsley-celery-herbs-growing-guide]]

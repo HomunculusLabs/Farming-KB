@@ -1,84 +1,150 @@
 ---
-
 title: Terence McKenna
-created: 2026-04-11
-updated: 2026-04-12
+created: 2026-05-02
+updated: 2026-05-02
 type: entity
-
 tags:
-- person
-- ethnobotany
-- philosophy
-- psychopharmacology
-- entheogen
-- mushrooms
-- consciousness
-- cover-crop
-- reference
-- plant-systems
-- species
-
+  - person
+  - ethnobotany
+  - psychopharmacology
+  - psychedelics
+  - mycology
+  - consciousness
+  - entheogen
+  - philosophy
+  - counterculture
 sources:
-- raw/papers/mckenna_t-food_of_the_gods.md
-- raw/papers/mckenna_t-tryptamines_consciousness.md
+  - raw/papers/mckenna_t-food_of_the_gods.md
+  - raw/papers/mckenna_t-tryptamines_consciousness.md
 ---
 
 # Terence McKenna
 
-Terence McKenna (1946-2000) was an American ethnobotanist, author, lecturer, and advocate for the responsible use of natural psychoactives. Known for his speculative theories linking psychedelics to human evolution and consciousness.
-
-## Key Contributions
-
-- **Food of the Gods (1992):** Comprehensive history of psychoactive plants in human civilization, from prehistoric mushroom use to the War on Drugs. Argues that psychoactive plants shaped religion, culture, and even brain evolution.
-- **Stoned Ape Theory:** Hypothesis that psilocybin mushrooms in the early hominid diet catalyzed the expansion of the human brain, development of language, and emergence of religious experience. Low doses increase visual acuity; medium doses increase sexual arousal; high doses dissolve boundaries and promote community bonding.
-- **Psilocybin advocacy:** With brother [[dennis-mckenna]], traveled to the Amazon in 1971, discovered [[psilocybin-mushroom-cultivation]] techniques, and authored "Psilocybin: Magic Mushroom Grower's Guide" (1976) under pseudonyms Oss and Oeric.
-- **Novelty Theory / Timewave Zero:** Speculative mathematical model proposing that time has a fractal structure that converges to a point of maximum novelty (originally December 2012).
-- **"The Archaic Revival":** Concept that modern civilization must recover the shamanic, nature-based consciousness of pre-literate peoples to survive.
-
-
-## DMT Phenomenology (from "Tryptamine Hallucinogens and Consciousness", 1983/1992)
-
-McKenna's 1983 Esalen lecture provides the most detailed published account of his DMT experiences:
-
-- **Onset**: 15 seconds after smoking; sound like "ripping cellophane" and an ascending tone
-- **Mode shift**: ~30 seconds; arrival in an "underground, insulated, domed" space (the "merry go raum" from Finnegans Wake)
-- **Heraclitus reference**: "The Aeon is a child at play with colored balls" — one becomes this Aeon
-- **Entity contact**: "Self-transforming machine elves" — hyperdimensional, topologically contorting entities that "bathe one in love" and speak an alien language conveying information that "cannot be Englished"
-- **Cognitive dissonance**: As "monkeys," encountering a "translinguistic object" causes wonder/terror that must be controlled to understand the communication
-- **Glossolalia**: Unlike religious speaking-in-tongues (unconscious), DMT-induced glossolalia is conscious access to "assembly language behind language" — a primal "Ursprache"
-- **Authenticity marker**: A touch of terror validates the experience; "to not be terrified means either that one is a fool or that one has taken a compound that paralyzes the ability to be terrified"
-- **Psilocybin vs DMT**: Psilocybin produces the same "Logos" encounter but builds over an hour and lasts hours; DMT is instantaneous and brief
-
-## Stropharia cubensis Hypothesis
-
-From the same lecture, McKenna proposed that Psilocybe cubensis may be an extraterrestrial symbiote:
-- The mushroom claims (within the trance) to have re-engineered itself for galactic dispersal via spore strategy and mycelial networking on planetary surfaces
-- It achieved early symbiosis with humans through association with domesticated cattle and nomadic herders
-- The classic mushroom cults of Mexico (teonanácatl = "flesh of the gods") were destroyed by the Spanish conquest
-- McKenna later revised this: "the human soul is so alienated from us in our present culture that we treat it as an extraterrestrial"
+Terence Kemp McKenna (November 16, 1946 – April 3, 2000) was an American
+ethnobotanist, psychonaut, author, and lecturer. One of the most influential
+voices in psychedelic culture, McKenna bridged the 1960s counterculture with
+the modern psychedelic renaissance. His brother is [[dennis-mckenna]], the
+ethnopharmacologist.
 
 ## Biography
 
-- Born in Paonia, Colorado; raised in a small Colorado town
-- Studied ethnobotany at UC Berkeley
-- Traveled extensively in Amazon (La Chorrera, 1971) with Dennis
-- Became a popular lecturer and counterculture figure in the 1990s
-- Died of brain cancer in 2000
+Born in Paonia, Colorado, McKenna studied at UC Berkeley (art history, ecology,
+conservation) though never completed a degree, describing himself as an
+"autodidact." Influenced by [[aldous-huxley]], Carl Jung, and psychedelic
+literature. In 1971, at age 25, he traveled to the Colombian Amazon with
+[[dennis-mckenna]] for the La Chorrera experiment — a foundational psychedelic
+experience shaping his entire intellectual framework. He continued ethnobotanical
+fieldwork through the 1970s–80s, studying psychoactive plants in the Amazon,
+Mexico, and Southeast Asia, influenced by [[richard-evans-schultes]] and
+[[r-gordon-wasson]]. He married ethnobotanist Kathleen Harrison (later
+divorced); two children. In later years he lived on Hawaii's Big Island,
+cultivating rare psychoactive plants. He died April 3, 2000, from glioblastoma
+multiforme at age 53.
 
+## Major Theories
 
-## Spore Dispersal Hypothesis
+### Stoned Ape Hypothesis
 
-From the same 1983 Esalen lecture, McKenna presented a detailed argument for panspermia via mushroom spores:
-- **Spore durability:** Stropharia cubensis spores are "deep, deep purple" (optimal UV absorption), with one of the hardest organic casings known — electron density approaches that of a metal
-- **Atmospheric escape:** Spores are light enough for Brownian motion to percolate them to the edge of Earth's atmosphere; interaction with energetic particles could allow escape into space
-- **Galactic timescale:** At 1/100th the speed of light, crossing the 100,000 light-year galaxy takes ~100 million years. Life is 1.8 billion years old — eighteen times that duration
-- **Fossil record gap:** No fungi in the fossil record older than 40 million years. Orthodox explanation: fungi are soft-bodied. McKenna's counter: fossilized soft-bodied marine invertebrates exist from over 1 billion years ago in South African gunflint chert
-- **McKenna's own caveat:** "I don't necessarily believe what the mushroom tells me; rather we have a dialogue... When the mushroom began saying it was an extraterrestrial, I felt that I was placed in the dilemma of a child who wishes to destroy a radio to see if there are little people inside."
+Proposed in *Food of the Gods* (1992): *Psilocybe cubensis* mushrooms
+catalyzed the leap from *Homo erectus* to *Homo sapiens*. Three dose-dependent
+effects: low doses increased visual acuity; medium doses increased sexual
+arousal; high doses dissolved ego and catalyzed language through synesthesia.
+While not accepted by mainstream science, the hypothesis connects to
+[[psychedelic-consciousness-models]] and remains widely discussed.
 
-## Legacy
+### Novelty Theory / Timewave Zero
 
-McKenna's historical narratives in Food of the Gods connect [[psychedelic-mushroom-history]] to the broad sweep of human civilization. His brother [[dennis-mckenna]] continues the scientific side of their shared work.
+Developed with [[dennis-mckenna]] in the 1970s. Claimed a mathematical fractal
+pattern in novelty vs. habit throughout history, derived from the I Ching's
+King Wen sequence. Originally predicted a singularity on December 21, 2012.
+Widely criticized as numerological pseudoscience.
 
+### Psychonautics
 
-## Related
-[[soma-hypothesis]], [[entheogen-culture]], [[tryptamine-consciousness-theory]], [[dmt-reference]]
+McKenna popularized "psychonaut" — an explorer of consciousness through
+psychedelics, meditation, and other techniques. His "heroic dose" prescription
+(5g dried [[psilocybin]] in silent darkness) became a standard reference,
+emphasizing responsible use and [[set-and-setting]].
+
+## Key Works
+- **The Invisible Landscape** (1975, with [[dennis-mckenna]]) — Academic
+  account of La Chorrera and Timewave Zero theory.
+- **Food of the Gods** (1992) — Most popular work; Stoned Ape and Archaic Revival.
+- **True Hallucinations** (1993) — Literary memoir of La Chorrera expedition.
+- **The Archaic Revival** (1992) — Essays on technoculture vs. nature-based
+  consciousness, covering virtual reality, ecology, and shamanism.
+- **Trialogues at the Edge of the West** (1991, with Abraham & Sheldrake) —
+  Conversations on chaos theory and psychedelic consciousness.
+- **Psilocybin: Magic Mushroom Grower's Guide** (1976, with [[dennis-mckenna]],
+  as "Oss and Oeric") — Early practical cultivation guide.
+
+## La Chorrera Experiment (1971)
+
+In the Colombian Amazon, the McKenna brothers attempted to use
+[[psilocybe-cubensis]] with ayahuasca ([[banisteriopsis-caapi]]) to
+achieve "hypercarboxylation" — overlaying DNA with information from another
+dimension. The experiment produced intense experiences: [[dennis-mckenna]] had
+a prolonged psychotic episode, and the group experienced what they interpreted
+as synchronicities and "objectively real" hallucinations. They fled Colombia
+due to political instability. The experience shaped McKenna's ideas about the
+"Logos" and the "transcendental object at the end of time."
+
+## Key Concepts
+
+### DMT and Hyperspace
+
+McKenna was the foremost popularizer of [[dmt]], describing smoked DMT as
+encounters with "self-transforming machine elves" in "hyperspace." He coined
+"the tryptamine gnosis" and advocated DMT as the most powerful psychedelic,
+capable of transcendental contact with non-human intelligences.
+
+### The Archaic Revival
+
+Modern industrial civilization is an aberration; humanity must return to
+nature-embedded, shamanic ways. "We must go back to go forward." Influential in
+permaculture, eco-spirituality, and rewilding movements.
+
+### The Logos
+
+McKenna's term for the transcendental organizing intelligence behind reality,
+encountered through high-dose psychedelics. "The world is made of words, and
+if you know the words the world is made of, you can make of it whatever you
+wish."
+
+### Culture and Consciousness
+
+"Culture is not your friend" — culture as mass hallucination constraining
+consciousness. "The cost of sanity in this society is a certain level of
+alienation."
+
+## Mycology and Ethnobotany
+Though not formally credentialed, McKenna was deeply knowledgeable about
+psychoactive plants. He collected and identified mushrooms across the Amazon,
+Mexico, and Southeast Asia, and was a prominent popularizer of psilocybe
+species and their cultivation. His work bridges ethnobotany, anthropology, and
+pharmacology, advocating for indigenous plant knowledge and rainforest
+conservation.
+
+## Influence and Legacy
+
+McKenna helped create the cultural conditions for the current psychedelic
+renaissance. Institutions like
+[[maps-multidisciplinary-association-for-psychedelic-studies]] operate in a
+cultural ecosystem he cultivated. His lectures (hundreds of hours, widely
+shared online) remain among the most referenced materials in psychedelic
+culture, influencing decriminalization movements, artists, and filmmakers.
+
+## Criticisms
+
+- Stoned Ape Hypothesis lacks archaeological evidence; dismissed as speculative.
+- Timewave Zero criticized as pseudoscience with cherry-picked data.
+- DMT entity interpretations not accepted by mainstream science.
+- "Heroic dose" recommendations potentially irresponsible for unprepared users.
+- Some indigenous advocates critique his work as culturally appropriative.
+
+## Relationships
+- **Brother:** [[dennis-mckenna]] — ethnopharmacologist and collaborator
+- **Influenced by:** [[richard-evans-schultes]], [[r-gordon-wasson]],
+  [[albert-hofmann]], [[aldous-huxley]]
+- **Peers:** [[timothy-leary]], [[ralph-metzner]], [[claude-naranjo]],
+  [[stanislav-grof]], [[jonathan-ott]], [[alexander-shulgin]], [[andrew-weil]]

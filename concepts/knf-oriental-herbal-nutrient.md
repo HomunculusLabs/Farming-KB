@@ -78,7 +78,7 @@ For each herb (prepare separately):
 
 ## See Also
 
-- [[knf-oriental-herbal-nutrient]]
+- knf oriental herbal nutrient
 - [[knf-water-soluble-calcium]]
 - [[knf-fermented-fruit-juice]]
 - [[knf-fish-amino-acid]]

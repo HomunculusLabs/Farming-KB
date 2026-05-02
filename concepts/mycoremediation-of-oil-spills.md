@@ -48,7 +48,7 @@ The most widely studied species for petroleum remediation:
 - Edible fruiting bodies can be produced on contaminated substrate (DO NOT consume from contaminated sites)
 - Robust growth on diverse substrates (straw, sawdust, wood chips)
 
-### Trametes versicolor (Turkey Tail)
+### [[trametes-versicolor]] (Turkey Tail)
 - Exceptional PAH degradation capabilities
 - High laccase production under diverse conditions
 - Used in both soil and water-based remediation

@@ -41,7 +41,7 @@ sources:
 ## Historical Traditions
 
 ### Eleusinian Mysteries (Greece, ~1500 BCE - 392 CE)
-Annual initiation at Eleusis near Athens, running for nearly 2,000 years. Initiates reported life-changing visionary experiences. [[r-gordon-wasson]], [[albert-hofmann]], and Carl Ruck proposed in [[entheogen-culture]] (1978) that the kykeon potion contained Claviceps purpurea (ergot), which contains ergotamine -- a precursor to LSD. Sophocles wrote: "Thrice happy are those who have seen these rites; to them alone is granted a true life in death."
+Annual initiation at Eleusis near Athens, running for nearly 2,000 years. Initiates reported life-changing visionary experiences. [[r-gordon-wasson]], [[albert-hofmann]], and Carl Ruck proposed in entheogen culture (1978) that the kykeon potion contained Claviceps purpurea (ergot), which contains ergotamine -- a precursor to LSD. Sophocles wrote: "Thrice happy are those who have seen these rites; to them alone is granted a true life in death."
 
 ### Soma / Haoma (Vedic India / Zoroastrian Persia)
 Central sacrament of Vedic religion, praised in 120+ hymns of the Rig Veda. Soma was "pressed" from a plant, consumed in ritual, and produced divine visions. [[r-gordon-wasson]] proposed Amanita muscaria as Soma (1968). [[terence-mckenna]] and others have proposed Stropharia cubensis or Peganum harmala as alternatives. See [[amanita-muscaria-guide]].
@@ -148,53 +148,3 @@ The most common class. All share the indole nucleus — a structural similarity 
 - **Ergoline alkaloids:** Lysergic acid amide (morning glories/ololiuqui), ergine, lysergic acid diethylamide (LSD — semi-synthetic from Claviceps)
 - **Beta-carboline alkaloids:** Harmine, harmaline, tetrahydroharmine (Syrian Rue, Banisteriopsis caapi) — monoamine oxidase inhibitors that enable oral DMT activity
 - **Ibogaine alkaloids:** Ibogaine (Tabernanthe iboga)
-
-### Phenylethylamines
-- **Mescaline** (peyote, San Pedro cactus) — shares a structural relationship with the neurohormone norepinephrine
-
-### Tropane Alkaloids
-- **Scopolamine, hyoscyamine, atropine** (Datura species, Belladonna, Henbane, Mandrake) — anticholinergic; cause visual hallucinations, dry mouth, dilated pupils. Scopolamine is also used medically as an antispasmodic and antisecretory agent. The nightshade family (Solanaceae) is the primary source.
-
-### Isoxazole Compounds
-- **Ibotenic acid, muscimol** (Amanita muscaria) — see [[amanita-muscaria-guide]]
-
-### Dibenzopyrans (Cannabinols)
-- **THC and related compounds** (Cannabis) — terpenophenolic compounds; the only major hallucinogenic class lacking nitrogen
-
-### Miscellaneous
-- **Cryogenine/vertine** (quinolizidine alkaloids in Heimia salicifolia / Sinicuichi) — auditory hallucinogen
-- **Lagochiline** (diterpene in Lagochilus inebrians / Turkestan Mint)
-- **Lobeline** (Lobelia tupa / Devil's Tobacco)
-
-## Old World vs New World Distribution
-
-A striking asymmetry exists: the New World (Americas) has 90+ species used as hallucinogens, compared to fewer than 12 in the Old World. Shultes attributes this to the fact that New World cultures — particularly in Mexico and the Amazon — were "practically enslaved by the religious use of hallucinogens," which acquired "a deep and controlling significance in almost every aspect of life." No ethnological study of American Indians is complete without understanding their hallucinogenic traditions.
-
-### Old World Hallucinogens
-- **Amanita muscaria** — Siberia, Europe, India (see [[soma-hypothesis]])
-- **Cannabis** — Central Asia, spread globally (see [[cannabis-spiritual-ritual-use]])
-- **Peganum harmala (Syrian Rue)** — Mediterranean to northern India; harmine/harmaline
-- **Atropa belladonna** — Europe; witches' brews; name means "beautiful lady" (pupil-dilating cosmetic use)
-- **Hyoscyamus niger (Henbane)** — Europe; medieval witches' brews; sedative and anodyne
-- **Mandragora officinarum (Mandrake)** — Mediterranean to Himalayas; Doctrine of Signatures (man-shaped root); panacea in medieval European folklore
-- **Datura metel** — India; Oracle of Delphi possibly attributed to this species; mixed with cannabis and smoked across Asia
-- **Tabernanthe iboga** — Gabon/Congo; Bwiti cult initiation; ibogaine
-- **Lagochilus inebrians (Turkestan Mint)** — Central Asian steppes; lagochiline diterpene
-- **Mesembryanthemum (Kanna/Sceletium)** — South Africa; Hottentot vision-inducing narcotic; cocaine-like alkaloids
-
-### New World Hallucinogens (Not Covered Above)
-- **Lycoperdon mixtecorum / L. marginotum (Puffballs)** — Mixtec Indians of Oaxaca; auditory hallucinogens; "fungus of the first/second quality"
-- **Acorus calamus (Sweet Flag)** — Northern Canada; visual hallucinations from excessive doses; α/β-asarone
-- **Virola species** — NW Amazon; bark resin snuff (yakee/epena) with up to 8% tryptamines (mainly 5-MeO-DMT); also used as arrow poison
-- **Anadenanthera peregrina (Yopo/Cohoba)** — Orinoco basin; snuff of roasted seed pods containing DMT, 5-MeO-DMT, and bufotenine
-- **Heimia salicifolia (Sinicuichi)** — Central Mexico; auditory hallucinogen; "voices from a distance"; cryogenine/vertine
-- **Trichocereus pachanoi (San Pedro)** — Andes of Peru/Ecuador/Bolivia; mescaline-containing cactus; cimora drink; connected to moon mythology
-- **Methysticodendron amesianum (Culebra Borrachero)** — Sibundoy, Colombia; tree known only from cultivation; 80% scopolamine; "most narcotic conscious area of the New World"
-- **Calea zacatechichi (Zacatechichi)** — Oaxaca, Mexico; Chontal Indians use to "clarify the senses" and communicate with spirit world; oneirogenic (dream-enhancing); unidentified alkaloid
-
-## Aboriginal Uses Beyond the Religious
-
-Shultes documents that hallucinogens permeated nearly every aspect of life in primitive societies:
-- **Medical:** "Medicine that can transport man to the spirit world is considered better than one with purely physical effects"
-- **Initiation:** Algonquin wysoccan (Datura) caused 20 days of violent derangement and memory loss as a boy-to-manhood transition; Bwiti cult iboga initiation in Gabon
-- **Divination/prophecy:** Ayahuasca for foreseeing future, settling disputes, deciphering enemy plans; Mazatec mushroom veladas for diagnosis and curing

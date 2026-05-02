@@ -106,6 +106,8 @@ For Reishi, Turkey Tail, Almond Mushroom, outdoor/ecological species, mycoremedi
 
 ## See Also
 
+- [[psilocybian-species-cultivation-parameters]]
+
 - [[mushroom-ecological-species]] -- Additional species and mycoremediation
 - [[mushroom-species-guide]] for concise species profiles
 - [[specialty-mushroom-species]] for additional species

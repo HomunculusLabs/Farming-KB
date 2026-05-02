@@ -41,7 +41,7 @@ The traditional root cellar is dug into a hillside or underground. The earth pro
 
 Key design elements:
 - Depth: At least 4-6 feet below grade for earth insulation
-- Ventilation: Two vents -- one high (exhaust) and one low (intake) for air circulation. Close both in extreme cold.
+- Ventilation: two vents -- one high (exhaust) and one low (intake) for air circulation. Close both in extreme cold.
 - Drainage: Sloped floor with gravel base or drain tile to prevent water accumulation
 - Door: Insulated, weather-stripped door facing north to minimize solar heat gain
 - Walls: Concrete block, stone, or treated wood

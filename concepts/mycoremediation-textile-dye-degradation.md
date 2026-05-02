@@ -80,3 +80,7 @@ Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based s
 - [[white-rot-fungi-bioremediation]] for the primary fungal agents
 - [[mycoremediation-field-applications]] for field-scale deployment
 - [[mycoremediation-techniques]] for general approaches
+
+## Practical Applications
+
+Field applications have demonstrated measurable results across diverse environments. In industrial settings, primary uses include contaminated water treatment, soil amendment at brownfield sites, and integration into wastewater treatment infrastructure. The approach scales from household systems to municipal installations, with cost-effectiveness improving at scale. Pilot programs in agricultural regions show particular promise where the technology integrates with existing farming practices.

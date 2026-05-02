@@ -41,14 +41,14 @@ Fungi in soil and other environments engage in complex interactions with bacteri
   - Enzyme production (degrade competitors' cell walls)
 
 ### Mycoparasitism
-- Trichoderma harzianum: commercial biocontrol agent that parasitizes plant pathogenic fungi
+- [[trichoderma-harzianum]]: commercial biocontrol agent that parasitizes plant pathogenic fungi
 - Mechanisms: coiling around hyphae, penetrating cell walls, secreting lytic enzymes
 - Used against Rhizoctonia, Fusarium, Pythium, and Sclerotinia
 
 ### Symbiosis
 - Lichens: fungus + algae/cyanobacteria partnership
 - Endophytic fungi within other fungi (mycoviruses)
-- Arbuscular mycorrhizal networks connecting multiple plant species
+- [[arbuscular-mycorrhizal-networks]] connecting multiple plant species
 
 ## Fungal-Viral Interactions
 

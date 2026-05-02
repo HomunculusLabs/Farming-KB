@@ -1,0 +1,104 @@
+---
+title: Sepp Holzer Terrace Systems and Raised Beds
+created: 2026-04-19
+updated: 2026-04-19
+type: concept
+tags: [reference]
+sources: ["papers/sepp-holzer-practical-guide.md"]
+---
+
+Updated: 2026-04-18
+
+Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
+
+Terraces and raised beds are fundamental to the Krameterhof permaculture system, enabling cultivation of steep, previously unproductive slopes and creating diverse microclimates.
+
+## Terraces: Functions and Benefits
+
+Terraces serve multiple simultaneous functions:
+- Prevent soil erosion on steep slopes by creating steps
+- Store and hold moisture so plants access rainwater and meltwater longer
+- Increase the area available for cultivation
+- Make working conditions far more pleasant and accessible
+- Enable use of medium-sized machinery
+- Minimise danger of landslides and mudslides
+- Greatly improve microclimates in cultivated areas
+- Can be combined with paths to create dual-purpose infrastructure
+
+## Building a Terrace System
+
+### Width
+- Consider the width required by any machinery
+- The entire terrace should be cultivable or harvestable in a single trip
+- Managing two terraces of 5 metres each is easier than one of 10 metres
+- Steeper slopes require narrower terraces
+- Special care needed with fine, loamy soil on very steep slopes (erosion risk)
+
+### Gradient
+- Should be as low as possible, no more than 15-20 percent
+- Layout should maximise land accessibility with shortcuts and connecting paths
+- Dead ends waste time and energy and should be avoided
+- Embankment gradient can be 1:1 on stony soil, 1:1.5 to 1:2 on sandy/loam soils
+
+### Risers and Separating Material
+1. Remove topsoil and underlying layers until reaching solid, stable material
+2. The riser forms the foundation, angled slightly into the hill
+3. Build up the embankment, replacing excavated layers with topsoil as the uppermost layer
+4. Work is most efficient with a mechanical digger -- mini diggers fit through garden gates, walking excavators ("spiders") can climb over fences
+
+### Water Management
+- In dry areas, angle terraces slightly into the hill to retain water
+- Never angle watercourses or ditches into the hill on loamy subsoil (landslide risk)
+- On heavy soils, drain surface water over a large area with slight downward angle
+- Roads and paths should be crowned (higher in the middle) to disperse water
+- Streams and springs diverted underneath through pipes or culverts
+
+### Stabilisation
+- Large-scale projects done gradually over a long period
+- First year: create terraces at top, middle, and bottom; plant immediately
+- Second year: create more terraces between originals once stable
+- On steep slopes, start at the lowest point and work upward
+- Stones placed on terraces for additional stability and heat storage
+- Plants with different root depths stabilise slopes
+- Embankments built with loose soil rich in humus (unlike conventional flat-packed terraces)
+
+## Managing Terrace Cultivation
+
+- Any conceivable crop can be grown on terraces
+- Plant cover established immediately after construction
+- If topsoil is poor, green manure crops needed first
+- Fruit bushes and trees planted on embankments (drier, warmer conditions)
+- Sweet-smelling plants, medicinal and culinary herbs added to seed mixtures
+- Deep-rooted green manures (sweet clover, lupins) stabilise poor soils and fix nitrogen
+- Crops harvested seasonally for efficient land use
+- Even first-year plant cover creates substantial biomass for humus improvement
+
+## Raised Beds
+
+Raised beds are another key landscape element with multiple functions:
+- Vegetable and crop production
+- Barriers against emissions, dust, noise, and fumes from roads or industry
+- Visual barriers using lush vegetation that also provides wildlife habitat
+- Water retention and microclimate creation
+
+Raised beds should be rebuilt every 5-10 years depending on cultivation type. They can be flattened or compressed by animals or excessive grass growth. Repair is straightforward with a compact digger, tractor with backhoe, or plough (similar to white asparagus bed maintenance).
+
+## Holzer's Key Principles for Terraces
+
+- No straight lines, corners, or steep slopes (except raised beds)
+- Lines of terraces and paths should be rounded and winding
+- Straight lines create wind tunnels; curved shapes make niches
+- Niches are sheltered from wind and work as suntraps
+- In exposed places, create hills and hollows to reduce weather effects
+- Always separate and preserve topsoil carefully during construction
+- The practice of cutting grasses and removing them for hay is "a terrible mistake" -- biomass should remain to build humus
+
+## Microclimates from Terraces
+
+The varied topography created by terraces generates numerous microclimates. Different terraces can be relatively dry, wet, shady, or sunny depending on their position and orientation. This allows cultivation of species that would otherwise not survive in the local climate.
+
+See also:, [[sepp-holzer-method]], [[sepp-holzer-pond-construction]],, [[permaculture-earthworks]], [[holzer-microclimates-permaculture]]
+- [[holzer-green-manure-and-soil-building-plants]]
+- [[gaias-garden-cover-crops-soil-building]]
+- [[sepp-holzer-soil-fertility-and-green-manure]]
+- [[urban-permaculture-nitrogen-fixing-green-manures]]

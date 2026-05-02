@@ -6,19 +6,12 @@ type: concept
 tags: [fermentation, recipe, food, homesteading, homestead-crafts, preservation, preparation]
 sources: []
 ---
-
 ## What Is Hot Sauce
-
 Hot sauce is a condiment made primarily from chili peppers, vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and fermentation methods.
-
 There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented (lactic acid bacteria develop complex flavors over time).
-
 ## Pepper Selection
-
 Understanding pepper heat and flavor is essential for crafting good hot sauce.
-
 ### Scoville Heat Units (SHU) Reference
-
 - Sweet bell pepper: 0 SHU
 - Jalapeno: 2,500-8,000 SHU
 - Serrano: 10,000-23,000 SHU
@@ -29,24 +22,17 @@ Understanding pepper heat and flavor is essential for crafting good hot sauce.
 - Scotch bonnet: 100,000-350,000 SHU
 - Ghost pepper (Bhut Jolokia): 800,000-1,000,000+ SHU
 - Carolina Reaper: 1,500,000-2,200,000+ SHU
-
 ### Choosing Peppers
-
 - For a balanced everyday sauce: blend jalapenos with a small amount of habanero
 - For a bright, fruity sauce: use habaneros, Scotch bonnets, or fatalii
 - For a smoky sauce: use smoked jalapenos (chipotle) or smoked Morita peppers
 - For an earthy, deep sauce: use anchos, pasillas, or dried New Mexico chiles
 - For maximum heat: Carolina Reaper, ghost pepper, or 7 Pot varieties
 - For a mild sauce: use Anaheim, poblano, or shishito peppers
-
 Fresh, ripe peppers produce the best flavor. Frozen peppers work well if thawed first. Dried peppers can be rehydrated in hot water.
-
 ## Fermented Hot Sauce
-
 Fermented hot sauce develops deeper, more complex flavors than vinegar-based sauces. Lactic acid bacteria naturally present on pepper skins convert sugars into lactic acid, creating a tangy, layered condiment.
-
 ### Basic Fermented Hot Sauce Process
-
 1. Wash and stem peppers — leave them whole, halved, or chopped
 2. Pack peppers into a clean glass jar, leaving 1-2 inches of headspace
 3. Add garlic cloves, onions, shallots, or other aromatics as desired
@@ -57,19 +43,14 @@ Fermented hot sauce develops deeper, more complex flavors than vinegar-based sau
 8. Ferment at room temperature (65-75F / 18-24C) for 5-14 days
 9. Taste periodically — the sauce should develop tang and complexity
 10. When fermentation reaches desired flavor, blend the peppers and brine together
-
 ### Fermentation Notes
-
 - Avoid chlorinated water — use filtered or spring water
 - Some makers skip the brine and ferment peppers with just salt (dry salting) — the peppers release their own liquid
 - A white film (kahm yeast) on the surface is harmless; remove it before blending
 - Fuzzy or colored mold indicates spoilage — discard
 - Warmer temperatures speed fermentation; cooler temperatures slow it
-
 ## Vinegar-Based Hot Sauce (Quick Method)
-
 For a fast, no-ferment sauce:
-
 1. Stem and roughly chop peppers
 2. Combine peppers with vinegar (white, apple cider, or rice vinegar) in a saucepan
 3. Add garlic, onion, salt, and any desired spices
@@ -78,19 +59,14 @@ For a fast, no-ferment sauce:
 6. Strain through a fine mesh sieve for a smooth sauce, or leave unstrained
 7. Taste and adjust: add more vinegar for tang, sugar or honey for sweetness, salt for balance
 8. Bottle while warm
-
 ### Vinegar Selection
-
 - White distilled vinegar — neutral, clean acid; traditional for Louisiana-style sauces
 - Apple cider vinegar — fruity, mild; pairs well with sweeter peppers
 - Rice vinegar — mild, slightly sweet; good for Asian-inspired sauces
 - White wine vinegar — bright, clean
 - Red wine vinegar — deeper, more robust
-
 ## Cooking and Blending
-
 After fermentation (or as part of the quick method), cooking develops the final sauce:
-
 1. Transfer fermented peppers and brine (or fresh pepper mixture) to a saucepan
 2. Add vinegar if not already included — 1/4 to 1/2 cup per 10 peppers
 3. Simmer for 10-15 minutes
@@ -99,65 +75,43 @@ After fermentation (or as part of the quick method), cooking develops the final 
 6. For a smooth sauce: strain through a fine mesh sieve, pressing solids through
 7. For a textured sauce: blend to desired consistency without straining
 8. Return to heat and bring to a simmer if canning
-
 ## Bottling and Storage
-
 ### Bottles
-
 - Glass bottles with screw caps or flip-tops are traditional
 - Woozy bottles (the classic 5 oz hot sauce bottle) are inexpensive and widely available
 - Ensure bottles and caps are sterilized before filling
 - Leave 1/4 inch headspace
-
 ### Preservation Methods
-
 - Refrigeration: keeps for 3-6 months
 - Water bath canning: process 5 oz bottles for 10 minutes in a boiling water bath — shelf-stable for 1+ year
 - Add vinegar to at least 4-5% acidity if canning for safety
 - Adding 1-2 tablespoons of vinegar per 5 oz bottle aids preservation
-
 ## Hot Sauce Recipe Variations
-
 ### Classic Louisiana-Style
-
 - Cayenne peppers, white vinegar, salt — blended smooth, aged
 - Simple, clean, versatile
-
 ### Caribbean-Style
-
 - Habaneros or Scotch bonnets, carrots, onions, garlic, lime juice, vinegar, allspice
 - Fruity and fiery
-
 ### Smoky Chipotle
-
 - Dried chipotle peppers, garlic, onion, tomato, cumin, oregano, apple cider vinegar
 - Deep, smoky, earthy
-
 ### Asian Sriracha-Style
-
 - Red jalapenos or Fresno peppers, garlic, sugar, rice vinegar, fish sauce
 - Sweet, tangy, garlic-forward
-
 ### Green Chile Sauce
-
 - Jalapenos or serranos, tomatillos, cilantro, lime juice, garlic, onion
 - Bright, herbaceous
-
 ### Pineapple Habanero
-
 - Habaneros, fresh pineapple, lime juice, honey, garlic, white vinegar
 - Tropical, sweet heat
-
 ## Safety Considerations
-
 - Wear gloves when handling hot peppers — capsaicin burns skin and eyes
 - Work in a well-ventilated area or under an exhaust fan when blending hot peppers
 - Never touch your face or eyes while handling peppers
 - Wash hands, cutting boards, and knives thoroughly after working with hot peppers
 - Label bottles clearly with pepper type and heat level
-
 ## See Also
-
 - [[pickle-making]] — fermentation of vegetables in brine
 - [[kimchi-making]] — Korean fermented vegetable condiment
 - [[vinegar-making]] — making your own vinegar for hot sauce base

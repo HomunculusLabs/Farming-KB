@@ -118,3 +118,11 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 - **Canada**: Special Access Programme available for psilocybin under specific circumstances
 
 See [[psychedelic-assisted-therapy-protocol]] for the therapeutic framework and [[psychedelic-mushroom-pharmacology]] for the pharmacological basis of clinical effects.
+
+## See Also
+
+- [[mushroom-cancer-clinical-trials-overview]]
+- [[psk-breast-lung-cancer-clinical-trials]]
+- [[psilocybin-clinical-research-history]]
+- [[psp-phase-clinical-trials]]
+- [[cancer-turkey-tail-psk-clinical-trials]]

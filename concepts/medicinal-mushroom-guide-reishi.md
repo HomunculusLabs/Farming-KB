@@ -16,7 +16,7 @@ Reishi, known as Lingzhi in Chinese medicine and Mannentake in Japanese, is a po
 ## Key Compounds
 
 - **Triterpenes (ganoderic acids):** Bitter-tasting compounds responsible for liver protection, anti-inflammatory effects, and cholesterol reduction. Over 150 triterpenes have been identified.
-- **Beta-glucans (polysaccharides):** Long-chain sugars that modulate immune function by activating macrophages, natural killer (NK) cells, and T-lymphocytes.
+- **[[beta-glucans]] (polysaccharides):** Long-chain sugars that modulate immune function by activating macrophages, natural killer (NK) cells, and T-lymphocytes.
 - **Ganoderma lucidum peptide (GLP):** Potent antioxidant protein.
 - **Nucleosides and adenosine:** Cardiovascular support compounds.
 

@@ -50,7 +50,7 @@ Cons: Labor intensive, slow building process, vulnerable to prolonged moisture e
 
 ## Straw Bale
 
-Straw bale construction uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
+[[straw-bale-construction]] uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
 
 ### Straw vs Hay
 

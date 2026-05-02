@@ -11,12 +11,18 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size and yield potential. Proper management of light, training, and nutrition during veg is critical.
 
+
+
+
 ## Light Schedule
 - Standard: 18 hours on / 6 hours off (18/6)
 - Alternative: 24/0 (continuous light — slightly faster growth, higher electricity cost)
 - Some growers use 20/4 as a compromise
 - Light intensity: 200-400 PPFD for seedlings, 400-600 PPFD for established veg
 - Hang light 24-36 inches above seedlings, 18-24 inches above established plants
+
+
+
 
 ## Training Techniques
 
@@ -45,6 +51,9 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - Improves airflow (reduces mold risk)
 - Don't overdo it — leaves are solar panels
 
+
+
+
 ## Watering
 - Water when top inch of soil is dry
 - Water until 10-20% runoff (ensures even distribution)
@@ -52,11 +61,17 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - Vegetative plants typically need water every 2-3 days
 - Overwatering is more common and dangerous than underwatering
 
+
+
+
 ## Transplanting
 - Start in 1-gallon pot, upgrade to 3-5 gallon for flower
 - Transplant when roots circle the pot (check drainage holes)
 - Don't transplant during flowering (causes shock)
 - Final pot size: 3-7 gallons (soil), 5-10 gallons (living soil)
+
+
+
 
 ## Vegetative Duration
 - From seed: 4-8 weeks before switching to flower
@@ -64,7 +79,18 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - Height rule: switch to flower when plant is 1/3 to 1/2 of desired final height (plants stretch 50-100% in early flower)
 - Autoflowers: vegetative stage is built-in (2-4 weeks), don't manipulate light schedule
 
+
+
+
 ## Related
 - [[cannabis-grow-room-setup]] — for room and light setup
 - [[cannabis-soil-and-nutrients]] — for feeding during veg
 - [[cannabis-grow-room-setup]] — for light specifics
+
+## See Also
+
+- [[green-cannabis-grow-bible-vegetative-phase-management]]
+- [[cannabis-vegetative-growth-stage]]
+- [[cannabis-vegetative-stage]]
+- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- [[cannabis-flowering-stage-management]]

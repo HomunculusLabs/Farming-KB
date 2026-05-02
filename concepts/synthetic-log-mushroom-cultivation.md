@@ -7,6 +7,11 @@ tags: [mushroom-cultivation, maitake, grifola-frondosa, synthetic-log, fruiting,
 sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 ---
 
+
+
+
+
+
 ## Synthetic Log Cultivation of Medicinal Mushrooms
 
 Synthetic log cultivation is a well-tested indoor method for growing medicinal mushrooms on supplemented sawdust substrates inside polypropylene bags. It replaces natural logs with formulated substrates that offer faster colonization, higher yields, and greater control over environmental parameters. This guide draws primarily from Chen (1999) on Grifola frondosa (maitake) cultivation.
@@ -56,6 +61,11 @@ Maitake is described as requiring "single-minded devotion" — it is more demand
 
 With proper technique, synthetic log cultivation of maitake can produce fruiting bodies within 2-3 months of inoculation. Biological efficiency (fresh weight of mushrooms / dry weight of substrate) typically ranges from 50-100% over multiple flushes.
 
+
+
+
+
+
 ## See Also
 
 - [[maitake-mushroom-research]]
@@ -63,6 +73,11 @@ With proper technique, synthetic log cultivation of maitake can produce fruiting
 - [[medicinal-mushroom-guide-maitake]]
 - [[psilocybin-mushroom-cultivation-basics]]
 - [[psilocybin-mushroom-cultivation]]
+
+
+
+
+
 
 ## Related
 

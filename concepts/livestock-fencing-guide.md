@@ -148,44 +148,5 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Plan gate placement to allow easy movement between paddocks.
 
 ### Species-Specific Notes
-- **Cattle:** 2-3 strands of poly wire or electric tape at 30, 40, and 50
-  inches. Train first.
-- **Sheep:** Electric net fencing or 4-5 strands at 6, 12, 18, 28, and 40
-  inches. Sheep have poor depth perception and need visible wire.
-- **Goats:** Electric net fencing or 4-5 strands with tight spacing at the
-  bottom (6, 12, 18, 30, 40 inches). Goats test fences — use strong
-  energizers.
-- **Pigs:** 2-3 strands at 6, 12, and 24 inches. Strong energizer (6+
-  joules). Bury bottom wire or use logs along bottom to prevent rooting under.
-  See [[pig-husbandry]].
-- **Poultry:** Electric net fencing with small mesh (2x3 inch or smaller).
-  42-48 inch height. Clip wings on flying breeds.
 
-## Gates
-
-- Match gate width to purpose: 4 ft for foot traffic, 12-16 ft for
-  equipment and cattle.
-- Use the same or heavier construction than the adjoining fence.
-- Metal tube gates are durable and low-maintenance.
-- Hang gates on the correct side (opens into the paddock, not onto a lane).
-- Provide latches that can be operated with one hand.
-
-## Maintenance
-
-- Walk fence lines monthly. Look for: loose wires, broken posts, vegetation
-  contact, sagging, rust, damaged insulators.
-- Test electric fence voltage at the furthest point regularly.
-- Re-tension high-tensile wire seasonally (spring and fall).
-- Replace damaged insulators and broken wires promptly.
-- Keep vegetation cleared 2-3 feet on both sides of electric fences.
-- Repair gates and latches immediately — a broken gate negates the entire
-  fence line.
-
-## Links
-
-- [[goat-husbandry]]
-- [[sheep-husbandry]]
-- [[pig-husbandry]]
-- [[cattle-husbandry]]
-- [[pasture-management]]
-- [[duck-keeping]]
+Related: [[mollison-designers-electric-fencing-in-permaculture-systems]], [[mollison-designers-woven-fence-hedge-live-barrier]]

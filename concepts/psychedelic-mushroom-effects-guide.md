@@ -55,7 +55,7 @@ The classic psychedelic experience:
 
 Intense experience requiring significant preparation:
 
-- **Visuals**: All previous effects intensified. Objects may morph or transform. Vision may become highly patterned or kaleidoscopic. Possible entity encounters or archetypal imagery. Vision may be significantly altered
+- **Visuals**: All previous effects intensified. Objects may morph or transform. Vision may become highly patterned or kaleidoscopic. Possible [[2c-t-13-entity]] encounters or archetypal imagery. Vision may be significantly altered
 - **Emotional**: Extremely intense emotions. Possible ego dissolution (complete loss of sense of self). Feelings of cosmic unity, unconditional love, or confrontation with shadow aspects of psyche. Terror and ecstasy may alternate
 - **Cognitive**: Complete departure from ordinary thought. Non-linear, non-verbal cognition possible. Profound philosophical, spiritual, or mystical insights. May experience ego death — a temporary cessation of self-referential awareness
 - **Somatic**: Significant physical effects — intense sensations, possible feeling of leaving the body, nausea, vomiting (sometimes experienced as purging), tremor, pupil dilation

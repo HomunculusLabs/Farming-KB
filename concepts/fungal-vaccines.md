@@ -67,7 +67,7 @@ Invasive aspergillosis primarily affects immunocompromised patients, especially 
 
 ### ASP3976 (Astellas/GlaxoSmithKline)
 
-- **Antigen**: Recombinant Asp f3 protein from Aspergillus fumigatus
+- **Antigen**: Recombinant Asp f3 protein from [[aspergillus-fumigatus]]
 - **Mechanism**: Asp f3 is a thiol peroxidase involved in oxidative stress defense
 - **Status**: Completed Phase I trials demonstrating safety and immunogenicity in healthy adults
 - **Target population**: Patients undergoing chemotherapy, stem cell transplantation, or lung transplantation

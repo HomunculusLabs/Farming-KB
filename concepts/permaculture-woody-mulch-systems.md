@@ -17,9 +17,13 @@ sources:
 
 Mulch is central to permaculture soil management. In the humid tropics (Chapter 10), Mollison identifies mulch sources as one of the special topics requiring considerable emphasis, as humus is an essential soil fraction and humus creation is a prerequisite to sustainability.
 
+
+
 ## The Role of Mulch
 
 In the wet tropics, heat and high rainfall would leach most mobile nutrients from soils, except for the biomass of the great variety of plants, which contain 80-90% of the available nutrients. Bare-soil cultivation and intensive clearing in short cycles are identified as inappropriate strategies. Instead, complex multi-storied plant systems designed to yield basic staples, create mulch, and preserve soil nutrients are the permaculture approach.
+
+
 
 ## Mulch Sources
 
@@ -50,6 +54,8 @@ Bamboo provides constant leaf fall that contributes to humus creation. The high 
 
 Straw, crop wastes, and prunings are all recycled as mulch. In the Manual's design for tropical hillside systems, inter-swale areas are planted with deep-rooted mulch and forage crops including Dolichos, pigeon pea, Acacia, Leucaena, lupin, comfrey, lucerne, and tree lucerne.
 
+
+
 ## Mulch in Different Climate Zones
 
 ### Humid Tropics
@@ -64,6 +70,8 @@ Mulch conserves moisture, reduces soil temperature, and prevents wind erosion. S
 
 Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil organic matter through winter. Sheet mulching with cardboard and woody material is used for garden bed preparation.
 
+
+
 ## Design Principles
 
 1. Every element should produce mulch as a yield
@@ -71,6 +79,8 @@ Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil
 3. Leguminous mulch species fix nitrogen while providing organic matter
 4. A succession of mulch producers ensures year-round coverage
 5. Deep-rooted species bring nutrients from subsoil to surface via leaf fall
+
+
 
 ## Related Concepts
 

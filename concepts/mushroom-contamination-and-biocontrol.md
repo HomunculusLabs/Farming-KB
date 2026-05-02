@@ -1,0 +1,120 @@
+---
+title: Mushroom Contamination and Biocontrol
+tags: [[mycology]], contamination, biocontrol, hygiene]
+date: 2026-04-28
+updated: 2026-04-28
+sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+---
+
+# Mushroom Contamination and Biocontrol
+
+Contamination is the single greatest cause of crop loss in mushroom cultivation.
+Competing molds, bacteria, and pests can destroy entire production runs if not
+prevented or caught early. Understanding the common contaminants, their sources, and
+control methods is essential for any grower, whether operating a small home setup or a
+commercial facility. Modern approaches increasingly emphasize biocontrol and integrated
+pest management over chemical fungicides.
+
+## Major Contaminant Molds
+
+The three most problematic mold genera in mushroom cultivation are Trichoderma
+(green mold), Aspergillus, and Penicillium. Trichoderma is by far the most destructive.
+It grows rapidly, outcompeting mushroom [[mycelium]] for nutrients and space, and produces
+antibiotic compounds that inhibit or kill the mushroom mycelium. Trichoderma harzianum
+is the species most frequently encountered in compost-based systems, while T. viride
+and T. reesei are more common in sawdust-based cultivation. It appears as fast-growing
+white patches that quickly turn green as [[spore]]s mature.
+
+Aspergillus species produce black, yellow, or green colonies and thrive in warm
+conditions (above 30 degrees C). Some species produce aflatoxins, making contaminated
+blocks a health hazard. Penicillium appears as blue-green powdery colonies and is most
+common on grain spawn and supplemented substrates. Both genera are airborne and enter
+through filter failures or poor technique during inoculation.
+
+## Bacterial Contaminants
+
+Bacterial contamination is less visible but equally damaging. The most common bacterial
+problem is "wet spot" or "sour rot" in grain spawn, caused by Bacillus species that
+survive autoclaving as endospores. Affected grain appears slimy, smells sour or
+rancid, and the mycelium avoids colonizing the affected areas. Pseudomonas tolaasii
+causes bacterial blotch on mushroom caps, appearing as brown, sunken lesions that
+reduce marketability. This bacterium thrives in high humidity (>95%) and stagnant air
+conditions.
+
+## Sources of Contamination
+
+Contamination enters cultivation systems through several vectors. Airborne spores are
+the most pervasive source, which is why laminar flow hoods and HEPA filtration are
+critical for spawn production. Substrate materials carry their own microbial load,
+requiring adequate pasteurization or sterilization. Grain that is overly wet, old, or
+damaged is particularly prone to bacterial contamination. Workers carry spores on
+clothing, skin, and tools. Insects, especially fungus gnats and phorid flies, are
+active vectors that transport mold spores and bacteria between substrates. Water can
+introduce contaminants if not from a clean municipal supply.
+
+## Prevention Strategies
+
+Prevention is far more effective and economical than treatment. A hierarchical
+approach works best:
+
+1. **Facility design**: Dedicated clean rooms with smooth, washable surfaces for
+   spawn production. Positive air pressure with HEPA-filtered intake. Separate zones
+   for raw materials, inoculation, incubation, and fruiting with clear workflow
+   direction (never backtracking from dirty to clean areas).
+2. **Sterilization quality**: Verify autoclave performance with biological indicators
+   (Geobacillus stearothermophilus spore strips). Ensure substrate reaches and holds
+   target temperature for the full duration. Check bag seal integrity.
+3. **Aseptic technique**: Flame-sterilize tools between uses. Wear clean gloves and
+   lab coats. Spray work surfaces with 70% isopropyl alcohol. Work quickly to minimize
+   exposure time during inoculation.
+4. **Environmental control**: Maintain temperature and humidity within species-optimal
+   ranges. Avoid temperature fluctuations that stress mycelium and create openings for
+   competitors.
+
+## Biological Control
+
+Biocontrol is an emerging field in mushroom cultivation that uses beneficial organisms
+to suppress contaminants. Several approaches show commercial promise:
+
+- **Bacillus subtilis**: This beneficial bacterium colonizes substrate surfaces and
+  produces antifungal compounds (iturin, surfactin) that suppress Trichoderma and
+  other molds. It can be applied as a spore preparation to substrate before spawning.
+- **Trichoderma itself**: Certain strains of Trichoderma are used as biocontrol agents
+  against crop pathogens in agriculture. However, in mushroom cultivation, all
+  Trichoderma species are considered contaminants because they compete directly with
+  the crop mycelium.
+- **Competitive exclusion**: Maintaining a healthy microbial community in pasteurized
+  substrates is itself a form of biocontrol. The thermophilic bacteria that survive
+  pasteurization (such as Thermus and Bacillus species) occupy niches and consume
+  nutrients that would otherwise support mold contaminants.
+- **Mycopesticides**: Specific antagonistic fungi like Hypocrea lixii have shown
+  activity against Trichoderma contaminants in research settings but are not yet
+  commercially available for mushroom cultivation.
+
+## Chemical Controls
+
+Chemical fungicides are limited in mushroom cultivation because most are
+non-selective and harm the mushroom mycelium alongside contaminants. A few exceptions
+exist: hydrogen peroxide (3% solution) can be used as a surface disinfectant and has
+been incorporated into substrate recipes at low concentrations to suppress bacterial
+contamination. Calcium hypochlorite (bleach) is effective for surface sanitation at
+10% solution. Sodium hypochlorite at 500-1000 ppm can be used for tool and surface
+disinfection. However, no fungicides are approved for direct application to fruiting
+substrates in most jurisdictions, making cultural and biological controls the primary
+management tools.
+
+## Monitoring and Early Detection
+
+Regular monitoring catches contamination before it spreads. Growers should inspect
+every substrate block daily during incubation and fruiting. The "sniff test" is
+valuable: healthy mycelium has a clean, earthy mushroom smell, while contaminated
+substrate smells sour, sweet, or rotten. Any contaminated block should be removed
+from the growing area immediately and either discarded or treated outdoors, never
+opened indoors where spores can spread. Sticky traps placed at crop level monitor
+insect vectors and provide early warning of pest pressure.
+
+## See Also
+- Mushroom Contamination And Biocontrol
+- [[trichoderma-harzianum]]
+- [[mushroom-cultivation-in-kenya]]
+- [[grain-spawn-production]]

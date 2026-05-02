@@ -13,6 +13,8 @@ sources:
 
 Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from rice-washed water and milk. LAB improves soil ventilation, promotes rapid growth of fruit trees and leaf vegetables, and increases the solubility of fertilizers.
 
+
+
 ## Characteristics
 
 - Conditionally anaerobic (can survive with or without oxygen)
@@ -24,6 +26,8 @@ Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from r
 - Can neutralize ammonia gas from immature compost
 - Adjusts plant fluids, increasing disease tolerance during rainy season
 - About one week of resistance to some fungi
+
+
 
 ## How to Make LAB
 
@@ -47,10 +51,14 @@ Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from r
 
 **Why milk?** Milk has more nutrients than rice-washed water, so LAB multiply much more vigorously. Only the strongest bacteria survive in the poor-nutrient rice-washed water environment, so you collect resilient strains first.
 
+
+
 ## Storage
 
 - Cool temperature: 1-15C, no direct sunlight
 - For room temperature storage: mix with equal amount of brown sugar, stir with wooden stick
+
+
 
 ## Dilution and Use
 
@@ -60,6 +68,8 @@ Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from r
 - Using too much LAB will decrease sweetness in fruits
 - Extremely effective for making fruits and leaves large, but reduce amount approaching later growth stages
 
+
+
 ## Key Applications
 
 - Speeds up compost fermentation and prevents decay
@@ -68,7 +78,11 @@ Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from r
 - Recovers soil fertility rapidly
 - Helps plants absorb insoluble phosphates in phosphate-accumulated soil
 
+
+
 ## See Also
+
+- [[lactic-acid-bacteria-serum-labs]]
 
 - [[knf-indigenous-microorganism-culture]]
 - [[knf-fermented-fruit-juice]]

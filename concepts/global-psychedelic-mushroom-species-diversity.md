@@ -11,9 +11,15 @@ sources:
 
 # Global Psychedelic Mushroom Species Diversity
 
+
+
+
 ## Overview
 
 Approximately 186 known psilocybin-containing mushroom species exist worldwide, with the figure rising steadily. They are found on every continent and in a remarkable range of habitats, from tropical pastures to alpine meadows to coastal dunes.
+
+
+
 
 ## Species Counts by Region
 
@@ -41,6 +47,9 @@ Psilocybin mushrooms are found across Southeast Asia and the South Pacific islan
 
 One Psilocybe species documented from northern Algeria (P. mairei). Reports of a "tamu" (mushroom of knowledge) from the Ivory Coast remain insufficiently documented. Mushroom-based churches exist in southern Nigeria. Similar reports have come from Mexico, Brazil, and Russia.
 
+
+
+
 ## Distribution Patterns
 
 1. **Tropical concentration**: The greatest species diversity occurs in tropical and subtropical regions with high annual rainfall.
@@ -48,6 +57,9 @@ One Psilocybe species documented from northern Algeria (P. mairei). Reports of a
 3. **Horticultural spread**: Nonnative species have been distributed through the importation of exotic plants and their associated soil.
 4. **Wood chip adaptation**: Several temperate species (P. cyanescens, P. azurescens) thrive on wood chip mulch in landscaped areas.
 5. **Underreported regions**: Many areas have not been systematically surveyed. The absence of reports does not indicate absence of species.
+
+
+
 
 ## Genera Containing Psilocybin
 
@@ -58,9 +70,15 @@ One Psilocybe species documented from northern Algeria (P. mairei). Reports of a
 - **Inocybe**: Some species (identification risk -- toxic species present)
 - **Pluteus**: A few species
 
+
+
+
 ## Evolutionary Significance
 
 Stamets argues that the production of psilocybin has proven to be a competitive evolutionary advantage. Psilocybin mushrooms "have propelled themselves to the front lines of evolution precisely because of their psilocybin content." The compound may deter predation by invertebrates, or it may confer advantages through its effects on the mammals that disperse their spores.
+
+
+
 
 ## Related Concepts
 

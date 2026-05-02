@@ -12,9 +12,27 @@ sources:
 
 John Dighton is an American mycologist and ecologist at the Institute of Marine and Coastal Sciences, Cook College, and Rutgers Pinelands Field Station in New Lisbon, New Jersey. He is the author of *Fungi in Ecosystem Processes* (2003, Marcel Dekker), a comprehensive reference on the ecological roles of fungi in terrestrial ecosystems.
 
+
+
+
+
+
+
+
+
+
 ## Background
 
 Dighton's path to mycology was unconventional. As an undergraduate, he could not decide between zoology and botany, so he chose ecology "in its broadest sense." His interest in fungi began during doctoral research, particularly through university-wide lectures by [[ingold-cecil-t]] at the University of London. His position at the Institute of Terrestrial Ecology at Merlewood, UK, brought him into contact with ectomycorrhizal, decomposition, and nutrient cycling research in temperate and subtropical forest ecosystems. He credits animated discussions with Alan Rayner as particularly influential.
+
+
+
+
+
+
+
+
+
 
 ## Key Research Contributions
 
@@ -23,6 +41,15 @@ Dighton's path to mycology was unconventional. As an undergraduate, he could not
 - **Radionuclide accumulation**: Research on fungal accumulation of radionuclides (Dighton & Terry, 1996), with implications for environmental monitoring and [[mycoremediation-basics]]
 - **Nutrient cycling**: Contributions to understanding saprotrophic [[fungal-biodiversity]] roles in nitrogen, phosphorus, and sulfur cycling in forest ecosystems, directly relevant to [[soil-food-web-nutrient-cycling]]
 - **Environmental stress**: Research on ectomycorrhizal responses to heavy metals and acidic deposition
+
+
+
+
+
+
+
+
+
 
 ## *Fungi in Ecosystem Processes* (2003)
 
@@ -34,9 +61,27 @@ Dighton's major reference work was motivated by the lack of a textbook approachi
 - Fungal interactions with pollutants and environmental change
 - The role of fungi in [[soil-food-web-nutrient-cycling]] dynamics
 
+
+
+
+
+
+
+
+
+
 ## Significance
 
 Dighton's work provides the scientific foundation for understanding how fungi drive ecosystem processes, directly relevant to [[cannabis-living-soil-guide]] approaches, [[composting-systems]], [[mycoremediation-basics]], and [[mycorrhizal-fungi]] in agricultural and natural systems. His research demonstrates that fungal networks are essential to nutrient cycling, plant health, and ecosystem resilience — concepts central to regenerative agriculture and homesteading practices.
+
+
+
+
+
+
+
+
+
 
 ## Related
 

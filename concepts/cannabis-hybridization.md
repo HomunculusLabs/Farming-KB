@@ -1,0 +1,135 @@
+---
+title: Cannabis Hybridization
+created: 2026-04-26
+updated: 2026-04-23
+sources:
+  - "Cervantes - Marijuana Horticulture"
+type: concept
+tags: [cannabis]
+---
+
+# Cannabis Hybridization
+
+Hybridization is the process of crossing genetically unlike cannabis
+parents to combine desirable traits from each into offspring with
+superior characteristics. It is the foundation of modern cannabis
+variety development and the primary strategy used by commercial seed
+companies. Cervantes' breeding chapter provides a thorough treatment of
+hybrid types, hybrid vigor, and hybrid breeding strategies.
+
+## What Is a Hybrid
+
+A hybrid is the product of a cross between genetically unlike parents.
+Hybrid individuals retain their distinctive characters when reproduced
+asexually (via cloning) but fail to reproduce those characters
+completely or reliably when reproduced sexually from seed. Hybrid
+cultivars are developed by creating or obtaining inbred lines, coupling
+selection with inbreeding for homozygosity, evaluating inbreds for
+combining ability, and multiplying selected lines for hybrid seed
+production.
+
+## Types of Hybrid Varieties
+
+Cervantes identifies several categories of cannabis hybrids:
+
+### F1 Hybrids
+
+F1 hybrids are produced by crossing two unrelated, true-breeding
+varieties. They are uniform when grown from seed but genetically
+unstable -- if F1 plants are inbred, the subsequent F2 generation will
+be neither uniform nor similar to the F1. Examples include 'Northern
+Lights' x 'Haze', and 'Frostbite' (a specific F1 cross).
+
+### 3-Way Crosses
+
+A three-way cross involves hybridizing an F1 hybrid with a third
+unrelated variety. 'Blueberry', for instance, is described as a cross
+involving multiple parental lines combined in a three-way scheme.
+
+### Double Cross Hybrids
+
+A double cross results from crossing two unrelated F1 hybrids. 'Haze'
+is described as a double cross: (Afghani x Thai) x (Mexican x
+Colombian). These incorporate genetics from four parental lines.
+
+## Hybrid Vigor (Heterosis)
+
+One of the major benefits of F1 seed is hybrid vigor, or heterosis.
+Heterosis occurs when progeny from crossing two parental inbred lines
+exceed the performance of either parent in one or more characters
+(F1 > P1 or P2). F1 hybrids are often bigger, more robust, and grow
+faster than either parent population.
+
+For example, a 'Skunk #1' x 'Blueberry' F1 hybrid may grow faster and
+yield more than either pure 'Skunk #1' or 'Blueberry'. Heterosis also
+commonly manifests as increased tolerance to adverse environmental
+conditions, making F1 hybrids more resilient.
+
+## Commercial Significance of F1 Hybrids
+
+F1 seed production offers strategic advantages for seed companies:
+
+- True-breeding seed can be easily reproduced by open-pollination, but
+  most seed companies have no interest in selling easily reproduced
+  seed.
+- By releasing only hybrids of their pure lines, seed banks ensure
+  customers must return to buy more F1 seed for each new planting.
+- This also protects the breeder's long-term investment by preventing
+  competitors from reproducing their work.
+- Drug cannabis varieties cannot be protected by plant breeder's
+  rights legislation due to the illegal nature of the plant, making
+  hybrid release an important intellectual property strategy.
+
+## Filial Breeding System
+
+Filial breeding is a system where siblings of the same progeny lot and
+generation are inter-mated to produce new generations. The first hybrid
+generation of two true-breeding lines is the F1. Crossing F1 siblings
+(or allowing open pollination) produces the F2. Subsequent generations
+(F3, F4, F5, etc.) are obtained by crossing plants of the same
+generation and progeny lot.
+
+Filial inbreeding with selection for specific traits is the most
+common method for establishing a pure or true-breeding population when
+breeding cross-pollinated species like cannabis.
+
+## Outbreeding
+
+Outbreeding is the process of crossing or hybridizing plants from
+different families, groups, or varieties with no close relationship.
+Any time a breeder uses plants outside the immediate family, hybrid
+seed is produced. Outbreeding introduces new genetic material to each
+respective gene pool, creating novel combinations of traits.
+
+## Combining Ability
+
+When breeding cross-pollinators, hybrid performance is discussed in
+terms of combining ability -- the ability of an inbred line to give
+characteristic performance in hybrid combinations. Two measures are
+used:
+
+- **General combining ability (GCA):** The average performance of a
+  line in hybrid combinations with other lines.
+- **Specific combining ability (SCA):** The performance of a specific
+  line when crossed with the same specific pollen source, compared to
+  other lines.
+
+## The Genetic Bottleneck Problem
+
+Cervantes notes that the 1:1 mating strategy used by most commercial
+seed banks is a form of extreme inbreeding. Cannabis naturally existed
+in wild populations of hundreds or thousands of individuals. Selecting
+only one or two plants as a breeding population creates a genetic
+bottleneck, drastically reducing genetic variability. This variability
+is lost and unavailable to future generations.
+
+## See Also
+
+- [[oner-cannabis-breeding-fundamentals]]
+- cannabis-backcrossing|Backcrossing
+- [[cannabis-genetic-stability]]
+- [[cannabis-true-breeding-ibl-strains]]
+- [[cannabis-genetics-mendelian-breeding]]
+- [[cannabis-strain-selection-guide]]
+- [[cannabis-seed-selection-and-strain-types]]
+- [[cannabis-seed-banks-and-genetics]]

@@ -97,6 +97,10 @@ Management:
 
 ## See Also
 
+- [[uncinula-necator]]
+
+- [[sphaerotheca-fuliginea]]
+
 - [[plant-disease-identification]] -- visual diagnostic guide for all disease types
 - [[integrated-pest-management]] -- systematic approach to pest and disease control
 - [[bacterial-plant-diseases]]

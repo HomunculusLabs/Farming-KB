@@ -11,6 +11,10 @@ sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 
 Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
 
+
+
+
+
 ## The Three Broad Climatic Regions
 
 1. **Temperate and sub-tropical areas** of winter rain and hot summers -- the area most considered in Mollison's work
@@ -18,6 +22,10 @@ Bill Mollison identified three broad climatic regions where man lives and garden
 3. **Arid lands** -- where rain is irregular, coming as flash floods or sudden downpours
 
 Additionally: cold deserts, arctic and mountain climates, and equatorial jungles are little occupied but all have useful plants. **Coastlines** are not climates as such, but share problems of wind and salt with deserts and deserve specific treatment.
+
+
+
+
 
 ## Landscape Profile Analysis
 
@@ -34,6 +42,10 @@ Potentially very productive mixed agricultural areas, well suited to structures,
 
 ### Plains
 Most resistant to water damage but most open to wind erosion. Water is most cheaply stored here in soil and large surface dams. No-tillage crops, copses, and hedgerows are desperately needed.
+
+
+
+
 
 ## Arid Lands
 
@@ -52,6 +64,10 @@ Perhaps the most pressing problem of the third world. Two approaches:
 ### Frost Lines on Slopes
 Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation, so "tropical" and "temperate" crops are both possible on the same slope.
 
+
+
+
+
 ## Broad-Scale Strategies by Climate
 
 | Climate | Key Strategies |
@@ -60,6 +76,10 @@ Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation
 | Tropical Humid | Shade houses, mulch, fast-growing perennials, careful species selection |
 | Arid | Drip irrigation + mulch, run-off catchment, deep-rooted perennials, windbreaks |
 | Coastal | Salt-tolerant species, wind protection, sand stabilisation |
+
+
+
+
 
 ## Related
 

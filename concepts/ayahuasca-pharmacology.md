@@ -7,9 +7,13 @@ tags: [pharmacology, pharmacokinetics, psychedelics, tryptamine, maoi, beta-carb
 sources: [raw/papers/shulgin-a-tihkal.md]
 ---
 
+
+
+
+
 ## The Pharmacology of Ayahuasca
 
-Ayahuasca is a synergistic combination of two plant components: a [[dmt-compound-profile]]-containing plant (typically Banisteriopsis caapi, Psychotria viridis, or Diplopterys cabrerana) and a beta-carboline-containing MAO inhibitor plant (typically Banisteriopsis caapi itself or Peganum harmala / Syrian Rue). Neither component alone produces the characteristic visionary experience when taken orally.
+Ayahuasca is a synergistic combination of two plant components: a [[dmt-compound-profile]]-containing plant (typically [[banisteriopsis-caapi]], Psychotria viridis, or Diplopterys cabrerana) and a beta-carboline-containing MAO inhibitor plant (typically Banisteriopsis caapi itself or Peganum harmala / Syrian Rue). Neither component alone produces the characteristic visionary experience when taken orally.
 
 ### The Pharmacokinetic Problem
 
@@ -49,7 +53,7 @@ Shulgin noted the classification challenge: the combination "invariably shows pr
 ### DMT Content in Ayahuasca Plants
 
 - Psychotria viridis (chacruna): leaves are the primary DMT source in most Peruvian ayahuasca
-- Diplopterys cabrerana (chaliponga): contains both DMT and 5-MeO-DMT
+- Diplopterys cabrerana (chaliponga): contains both DMT and [[5-meo-dmt]]
 - Banisteriopsis caapi: the harmala alkaloids come from the bark; some varieties contain trace tryptamines
 - Mimosa hostilis (jurema): roots used in some Brazilian preparations, contains DMT (originally called "nigerine")
 
@@ -67,6 +71,10 @@ The former is ethnobotanically rich but pharmacologically imprecise. The latter 
 - Traditional use incorporates vomiting (called "la purga") as a therapeutic/diagnostic component
 - Harmaline at high doses can produce significant tremor, anxiety, and tachycardia
 - Individual sensitivity varies enormously based on body weight, metabolic rate, MAO enzyme levels, and prior exposure
+
+
+
+
 
 ## See Also
 

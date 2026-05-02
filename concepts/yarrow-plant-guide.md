@@ -20,7 +20,7 @@ garden resident.
 
 ## Botanical Profile
 
-- Scientific name: Achillea millefolium
+- Scientific name: [[achillea-millefolium]]
 - Family: Asteraceae
 - Hardiness: USDA zones 3-9
 - Lifecycle: Perennial

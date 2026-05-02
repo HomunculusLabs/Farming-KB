@@ -1,0 +1,146 @@
+---
+title: 5 Meo Nmt (Tihkal)
+created: 2026-04-16
+updated: 2026-04-16
+type: entity
+tags: [chemistry, tihkal, tryptamines]
+sources: ["raw/papers/shulgin-a-tihkal.md"]
+---
+# 5-MeO-NMT — TIHKAL #42
+
+## Compound Identity
+
+- Full name: 5-Methoxy-N-methyltryptamine
+
+- Synonyms: 3-[2-(methylamino)ethyl]-5-methoxyindole
+
+- Class: Tryptamine, 5-methoxy substituted, N-monomethyl
+
+- Source: [[tihkal-introduction-and-methodology]]
+
+## Dosage and Duration
+
+- Dosage: Unknown — activity not established in TIHKAL
+
+- Duration: Unknown
+
+- Active routes: Not established
+
+## Qualitative Effects
+
+No human trials are reported in TIHKAL. The compound is listed in Shulgin's
+systematic survey of 5-methoxylated tryptamines with the notation "unknown
+activity." In the systematic code used in TIHKAL, 5-MeO-NMT occupies position
+AB (hydrogen on one nitrogen, methyl on the other) in the table of 5-methoxylated
+tryptamines arranged by increasing mass.
+
+## Position in the 5-Methoxy Series
+
+The 5-methoxylated tryptamines organized by alkyl substitution:
+
+- AA: 5-MeO-T — anti-radiation, not a psychedelic
+
+- AB: 5-MeO-NMT — unknown activity
+
+- BB: [[5-meo-dmt-entity-tihkal]] — positive, psychedelic, out-of-body,
+6-20 mg
+
+- BE: [[5-meo-mipt-entity-tihkal]] — mixed, complex, 4-6 mg
+
+- CC: [[5-meo-det-entity-tihkal]] — negative, vertigo, erotic,
+2-3 mg
+
+- DD: 5-MeO-DPT — neutral, balance, 6-10 mg
+
+- EE: [[5-meo-dipt-entity-tihkal]] — positive, LSD-like, 8-12 mg
+
+The gap between the inactive 5-MeO-T and the highly potent 5-MeO-DMT suggests
+that even a single methyl group on the nitrogen atom may confer significant
+psychoactive properties.
+
+## Natural Occurrence
+
+5-MeO-NMT has been reported in some plant analyses alongside [[5-meo-dmt-entity-tihkal]]
+and [[nmt-entity-tihkal]], though its natural distribution is less well
+documented than its dimethyl counterpart.
+
+## Chemical Family Context
+
+5-MeO-NMT occupies a critical intermediate position in the 5-methoxytryptamine
+series, between the inactive 5-MeO-T (no N-alkyl groups) and the highly potent
+5-MeO-DMT (two methyl groups). This position makes it a compound of particular
+theoretical interest: does the first N-methyl group confer activity, or are
+two alkyl groups required?
+
+The systematic table of 5-methoxylated tryptamines that Shulgin constructed
+represents one of the most comprehensive structure-activity relationship
+studies in psychedelic chemistry. By organizing compounds by increasing
+mass at the nitrogen atom, clear patterns emerge regarding the relationship
+between N-substitution and both potency and qualitative effects.
+
+## Detailed Pharmacological Discussion
+
+Based on the systematic trends in the 5-methoxytryptamine series, 5-MeO-NMT
+is predicted to have moderate activity, with an estimated oral dose range
+of approximately 30-80 mg. This extrapolation assumes a roughly linear
+relationship between N-alkyl mass and potency in the lower portion of the
+series, followed by a plateau at higher masses.
+
+The compound would be expected to act primarily through 5-HT2A receptor
+agonism, consistent with the mechanism of action of all active 5-methoxytryptamines.
+The 5-methoxy group is a well-established pharmacophore element that enhances
+affinity for this receptor compared to unsubstituted tryptamines.
+
+5-MeO-NMT is also a structural analogue of melatonin (5-methoxy-N-acetyltryptamine),
+with the acetyl group replaced by a methyl group. While melatonin is not
+psychedelic, its affinity for melatonin receptors and its role in circadian
+rhythm regulation suggest that 5-MeO-NMT may have some cross-reactivity
+with these or related receptor systems.
+
+The compound's natural occurrence in plants suggests it serves as a
+biosynthetic intermediate in the production of 5-MeO-DMT, via a second
+N-methylation step. This biosynthetic role may be its primary function
+in the plants where it occurs.
+
+## Comparison to Related Compounds
+
+- 5-MeO-T: No N-alkyl groups, inactive as psychedelic, anti-radiation properties
+
+- 5-MeO-NMT: One methyl group, activity unknown (this compound)
+
+- 5-MeO-DMT: Two methyl groups, highly potent psychedelic, 6-20 mg
+
+- 5-MeO-MIPT: Methyl + isopropyl, mixed effects, 4-6 mg
+
+- 5-MeO-DET: Two ethyl groups, vertigo + erotic, 2-3 mg
+
+The transition from inactivity (5-MeO-T) through unknown activity (5-MeO-NMT)
+to high potency (5-MeO-DMT) with the addition of methyl groups illustrates
+the critical importance of N-alkylation for 5-HT2A receptor activation in
+the 5-methoxytryptamine series.
+
+## Harm Reduction and Safety Considerations
+
+- Activity has not been established; any experimentation would be entirely
+exploratory with unknown risks
+
+- Based on related compounds, potential dose range could be anywhere from
+20-100+ mg; extreme caution is warranted
+
+- The compound may share some pharmacological properties with 5-MeO-DMT,
+which can produce overwhelming experiences at higher doses
+
+- As with all tryptamines, avoid MAO inhibitors, SSRIs, and other serotonergic
+medications
+
+- The compound's natural occurrence in plants does not guarantee safety when
+isolated and administered in pure form
+
+## Legal Status
+
+5-MeO-NMT is not specifically scheduled in most jurisdictions. As a
+5-methoxy-substituted tryptamine, it could potentially fall under analogue
+legislation related to 5-MeO-DMT, which is controlled in several countries.
+The compound's lack of demonstrated psychoactivity makes enforcement unlikely.
+Its natural occurrence in some plant species may also complicate regulatory
+approaches.

@@ -14,11 +14,25 @@ The tenth of David Holmgren's twelve permaculture design principles. The great d
 
 > "Don't put all your eggs in one basket: Diversity provides insurance against the vagaries of nature and everyday life." — David Holmgren
 
+
+
+
+
+
+
+
 ## Core Concept
 
 Holmgren is careful to distinguish diversity as more than just variety — a collection of different things. True diversity involves functional connections between different elements. A polyculture of ten unrelated plants is less valuable than a guild of five plants that actively support each other through nutrient sharing, pest protection, and complementary growth habits.
 
 It is now widely recognized that monoculture is a major cause of vulnerability to pests and diseases. Polyculture is one of the most important applications of this principle, but by no means the only one.
+
+
+
+
+
+
+
 
 ## Diversity as Resilience, Not Just Variety
 
@@ -31,6 +45,13 @@ Multiple dimensions of diversity contribute to resilience:
 - **Age diversity**: Mixed-age populations ensure continuous regeneration (single-age forests are vulnerable to catastrophic events)
 - **Genetic diversity**: Individual variation within populations allows adaptation to changing conditions — "Nature rarely seems to place all her eggs in one basket"
 
+
+
+
+
+
+
+
 ## Specialization vs Generalization
 
 Holmgren describes the ecological classification of species as generalists or specialists:
@@ -40,15 +61,36 @@ Holmgren describes the ecological classification of species as generalists or sp
 
 A healthy permaculture design includes both — pioneer generalists to establish and protect, and specialists that exploit well-created niches.
 
+
+
+
+
+
+
+
 ## Landscape Patterns of Diversity
 
 At a landscape scale, diversity maps onto the underlying variation in climate, landform, and bedrock minerals. Different species and ecosystems are most efficient in different places. These niches range from bioregions down to microclimatic niches occupied by single organisms.
 
 Where resources are highly differentiated into niches, different species prevail in different niches — typically as a mosaic spatial pattern. Beyond the absence of competition, mutual and even symbiotic relationships can develop. Where resources are undifferentiated, a single generalist dominates and diversity collapses.
 
+
+
+
+
+
+
+
 ## Pre-Industrial Cultivated Diversity
 
 In pre-industrial agriculture, polyculture was the norm. Self-reliant households needed diversity of crops to provide nutrition, variety, and insurance against failure. Holmgren notes that modern agricultural research systematically ignores the myriad of small-scale and situation-specific opportunities for innovation because it focuses on issues affecting whole industries.
+
+
+
+
+
+
+
 
 ## Connections
 

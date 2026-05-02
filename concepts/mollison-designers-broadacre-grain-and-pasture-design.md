@@ -1,0 +1,139 @@
+---
+title: Broadacre Grain and Pasture Design
+tags:
+  - permaculture
+  - broadacre-agriculture
+  - pasture-systems
+  - grain-crops
+  - farm-design
+date: 2026-04-25
+updated: 2026-04-25
+sources:
+  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+---
+
+# Broadacre Grain and Pasture Design
+
+Broadacre [[permaculture-design]] adapts the principles of permanent agriculture to
+large-scale grain and pasture systems. While permaculture is often associated
+with smallholdings, Mollison emphasised that its principles apply equally to
+farm-scale operations. The goal is to integrate trees with cropping, use ley
+farming cycles, select appropriate pasture species, and manage water at the
+farm scale while reducing or eliminating external inputs.
+
+## Integrating Trees with Cropping
+
+Agroforestry and alley cropping systems place rows of productive or shelter
+trees within grain and pasture paddocks. In temperate broadacre systems, tagasaste (Chamaecytisus proliferus), carob, honey locust, and oaks provide
+fodder, nitrogen fixation, and wind shelter. In tropical systems, leguminous
+trees such as leucaena, gliricidia, and sesbania intercrop with maize, sorghum,
+or millet. Tree rows spaced 15 to 30 metres apart allow conventional machinery
+passes while providing shade that reduces evapotranspiration and heat stress on
+pastures and livestock.
+
+Alley cropping on contour maximises water capture. Leaf litter from tree rows
+adds organic matter to adjacent crop rows. Root systems of deep-rooted trees
+bring nutrients from subsoil layers into the cycling system. Mollison stresses
+that tree-crop integration is the primary strategy for converting conventional
+broadacre farms toward permanent agriculture.
+
+## Ley Farming Systems
+
+Ley farming alternates periods of perennial pasture (leys) with arable crop
+phases. A typical rotation might include three to five years of mixed pasture
+followed by two to three years of grain crops. During the ley phase, perennial
+legumes and grasses build soil structure, fix nitrogen, break pest and disease
+cycles, and add organic matter. When the ley is ploughed (or preferably,
+cropped in directly), the stored fertility supports grain production without
+synthetic nitrogen inputs.
+
+The key to successful ley farming is selecting pasture species that match the
+soil and climate while providing maximum nitrogen fixation and ground cover.
+See [[mollison-designers-cover-crops-and-green-manure-species]] for detailed
+species selection guidance.
+
+## Pasture Species Selection
+
+Mollison advocates mixed-species pastures that include legumes, grasses, and
+forbs. In temperate zones, white clover, red clover, lucerne, chicory, plantain,
+ cocksfoot, and ryegrass form productive and resilient swards. In subtropical
+and tropical zones, species such as siratro, centro, stylo, kikuyu, and rhodes
+grass are more appropriate. Deep-rooted species like chicory and lucerne
+access water and minerals from subsoil layers, while shallow-rooted grasses
+protect the surface.
+
+A minimum of five to eight species in any pasture mix provides resilience
+against drought, pest outbreaks, and seasonal variability. Matching species to
+soil pH, drainage, and fertility is essential for establishment and persistence.
+
+## Rotational Grazing Integration
+
+Rotational grazing is the controlled movement of livestock through a series of
+paddocks, allowing rest periods for pasture recovery. Mollison recommends
+dividing broadacre paddocks into smaller units using portable electric fencing.
+Stock are moved frequently, from daily to weekly, depending on stocking density
+and growth rates. This prevents overgrazing of preferred species, encourages
+even utilisation, and allows plants to rebuild root reserves and energy stores
+during rest periods.
+
+High-density, short-duration grazing stimulates root growth, cycles nutrients
+through manure and urine evenly across the landscape, and breaks parasite life
+cycles. When integrated with cropping, grazing livestock on crop residues after
+harvest reduces stubble burning, cycles nutrients, and provides supplementary
+feed without additional land allocation.
+
+## Minimum Tillage Approaches
+
+Permaculture design favours minimum or zero tillage on broadacre scale.
+Direct drilling (no-till seeding) places seed into undisturbed soil using
+specialised machinery. Pastures are established by overdrilling legumes into
+existing swards rather than cultivating and resowing. Where cultivation is
+unavoidable, shallow tillage that minimises soil structure disruption is
+preferred.
+
+Cover crops between grain phases protect the soil surface and add organic
+matter. The use of roller-crimpers to terminate cover crops without herbicides
+is increasingly viable. Residue retention on the soil surface reduces
+evaporation, moderates soil temperature, suppresses weeds, and feeds soil
+biology. See [[mollison-designers-cover-crops-and-green-manure-species]] for
+cover crop integration strategies.
+
+## Farm-Scale [[water-management]]
+
+Broadacre water management follows the keyline principle of storing water high
+in the landscape and distributing it via gentle contour channels. Swales on
+contour across pasture slopes capture runoff and allow infiltration, extending
+the effective rainfall. Shallow contour drains with gentle grades move water
+to storage dams positioned at keypoint locations in valleys.
+
+Farm dams provide stock water, irrigation reserves, and fire protection. Their
+placement follows the keyline system described by P.A. Yeomans, which Mollison
+strongly endorses. Spillways are designed as stabilized earthworks that safely
+pass peak flows. Retention of tree cover on ridges and waterways slows runoff
+and reduces erosion. Whole-farm water planning considers all sources: rainfall,
+springs, streams, and groundwater.
+
+## Design Layout Principles
+
+Broadacre permaculture layouts follow contour-aligned paddock boundaries,
+tree-lined internal fences for shelter and fodder, and water access in every
+paddock. Roads follow ridges to minimise cutting and filling. The farm is
+zoned with intensively managed areas near the homestead and broader zones for
+extensive grazing and cropping at greater distances. Windbreaks are planted on
+exposed boundaries using multi-row designs of productive species. Corridors of
+native vegetation connect remnant patches, supporting wildlife that provides
+pest control services.
+
+## Economic Considerations
+
+Broadacre permaculture reduces input costs by replacing synthetic fertilisers
+with legume-fixed nitrogen, replacing herbicides with competitive pastures and
+cover crops, and replacing pesticides with biological diversity. While
+transition may temporarily reduce yields, the long-term trajectory increases
+soil health, reduces risk, and diversifies income through integrated tree
+crops, livestock, and grain products.
+
+## See Also
+
+- [[mollison-designers-snow-ice-and-winter-design-strategies]]
+- [[mollison-designers-climate-classification-and-design-zones]]

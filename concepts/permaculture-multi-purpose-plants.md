@@ -113,7 +113,7 @@ When choosing plants for a design, evaluate each candidate against the following
 - [[permaculture-guild-design-method]]
 - [[permaculture-dynamic-accumulator-plants]]
 - [[permaculture-nitrogen-fixing-trees]]
-- [[permaculture-multi-purpose-plants|permaculture-useful-plants-reference]]
+- permaculture-useful-plants-reference
 - [[permaculture-plant-selection-guide]]
 - [[comfrey-plant-guide]]
 - [[bamboo-species-guide]]

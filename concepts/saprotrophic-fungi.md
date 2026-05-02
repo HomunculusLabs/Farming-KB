@@ -131,6 +131,8 @@ These species can be introduced as "mycelial perimeters" around advancing blight
 
 ## See Also
 
+- [[fistulina-hepatica]]
+
 - [[fungal-decomposition]] — White/brown/soft rot mechanisms, wood decay stages
 - [[fungal-ecology]] — Fungal roles overview in ecosystems
 - [[fungal-ecosystem-roles]] — Nutrient cycling, carbon sequestration

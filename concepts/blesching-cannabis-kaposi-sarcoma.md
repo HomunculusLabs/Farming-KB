@@ -1,0 +1,103 @@
+---
+title: Cannabis and Kaposi's Sarcoma
+created: 2026-04-26
+tags:
+  - cannabis
+  - kaposi-sarcoma
+  - oncology
+  - HHV-8
+  - cannabinoid-research
+date: 2026-04-25
+updated: 2026-04-25
+sources:
+  - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
+type: concept
+---
+
+# Cannabis and Kaposi's Sarcoma
+
+## Overview
+
+Kaposi's sarcoma (KS) is an abnormal connective tissue mass, commonly
+presenting as multiple lesions on the skin. Moritz Kaposi first described the
+disease in the late nineteenth century. At that time it was thought to be a
+cancer, a hereditary condition, or a viral infection. The confusion continued
+at the beginning of the "AIDS epidemic" in the early 1980s, when doctors
+considered it the signature disease in people diagnosed with AIDS (especially
+in the gay community).
+
+By 1994, it was established that KS is a cancer caused by a virus from the
+herpes family -- the eighth human herpes virus (HHV-8), also called Kaposi's
+sarcoma-associated herpes virus (KSHV). The allopathic community no longer
+considers KS to be an indication of AIDS when combined with a positive HIV
+test.
+
+## Cannabis Health Index (CHI) Score
+
+- Total Studies Reviewed: 2
+- CHI Value: 1
+
+## Research Evidence
+
+### Synthetic Cannabinoid Inhibits KS Growth
+
+A 2009 laboratory study from the University of Catania School of Medicine in
+Italy discovered that the synthetic cannabinoid WIN55,212-2 was able to
+inhibit Kaposi's sarcoma growth in vitro. WIN55,212-2 binds with higher
+affinity to CB2 receptors than CB1 receptors, suggesting that the anti-tumor
+effect occurs primarily through CB2-mediated pathways.
+
+### Cannabis Use Not Correlated with Increased KS Risk
+
+A 2009 Los Angeles study focused on the hypothesis that KS development may be
+influenced by the use of street drugs, particularly amyl nitrite ("poppers").
+The study of 401 HIV- and HHV-8-coinfected homosexual men found that patients
+with a long-term history of using poppers showed a correlation between poppers
+and KS development. Importantly, long-term cannabis use was not correlated with
+an increased risk of developing Kaposi's sarcoma.
+
+### Study Summary
+
+| Drug | Study Type | Key Findings | CHI |
+|------|-----------|-------------|-----|
+| WIN55,212-2 (synthetic cannabinoid) | Laboratory | 2009, University of Catania, Italy: WIN55,212-2 reduced viability of human Kaposi's sarcoma cells in vitro | 1 |
+| Cannabis vs. cocaine, amphetamines, poppers | 401 HIV+/HHV-8+ men | 2009, Los Angeles: Poppers correlated with KS; long-term cannabis use not correlated with increased KS risk | 0 |
+
+## Strain-Specific Considerations
+
+WIN55,212-2 binds with higher affinity to CB2 receptors than CB1 receptors.
+Indicas and indica-dominant strains tend to present a lower THC:CBD ratio,
+thus relatively favoring CB2 receptor activation. This suggests that indica
+strains with higher CBD content may be more relevant for potential anti-KS
+therapeutic applications.
+
+## Clinical Context
+
+Kaposi's sarcoma lesions often develop around visible areas (nose, mouth,
+neck, chest) and are therefore very noticeable. While KS was historically
+associated with AIDS, it can develop independently of HIV status. The finding
+that cannabis use is not associated with increased KS risk is reassuring for
+immunocompromised patients who may use cannabis for symptom management.
+
+The anti-tumor activity of CB2-binding cannabinoids against KS cells is
+consistent with findings in other cancers where CB2 receptor activation has
+shown anti-proliferative and pro-apoptotic effects. See also related cancer
+pages in the Cannabis Health Index.
+
+## Mind-Body Medicine
+
+The lesions formed by KS often develop around visible areas (nose, mouth,
+neck, chest) and are very noticeable. Even though the allopathic community was
+wrong in painting KS as the signature disease of AIDS, the highly charged
+shame and judgment associated with that era may persist for patients. KS
+development suggests that a combination of cancer and viral herpes patterns
+may be activated. Suggested blessing: "May you create love and approval for all
+aspects of yourself."
+
+## See Also
+
+- [[blesching-cannabis-hiv-aids]]
+- [[blesching-cannabis-cancer-symptoms]]
+- [[blesching-cannabis-immune-system-modulation]]
+- [[blesching-cannabis-liver-cancer]]
+- [[blesching-endocannabinoid-system-overview]]

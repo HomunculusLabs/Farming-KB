@@ -75,7 +75,9 @@ Welded plastic, neoprene, or poured concrete. Expensive but appropriate for crit
 
 Dams and ponds are potential aquaculture sites. Ponds can be organised as fodder pond sequences where ducks add manure upstream, shrimp eat algae, small fish breed in mid-ponds, and trout or perch occupy the outlet pond. Species suitable at each stage create a self-feeding polyculture.
 
-## Related Concepts
+## Related
+
+- [[waterworks-construction-permaculture]] Concepts
 
 - [[permaculture-aquaculture-guide]] -- fish and aquatic plant systems
 - [[permaculture-water-harvesting]] -- broader water management strategies

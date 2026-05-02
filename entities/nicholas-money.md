@@ -1,9 +1,14 @@
 ---
 title: Nicholas P. Money
+
 created: 2026-04-12
+
 updated: 2026-04-12
+
 type: entity
+
 tags: [person, mycology, biology, academia]
+
 sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
 ---
 
@@ -20,13 +25,21 @@ Money studied at Bristol University, where his "first and most inspiring guide t
 Money's most influential popular work traces the history of mycology through its greatest practitioners. The book's 10 chapters cover:
 
 1. **Offensive Phalli and Frigid Caps** — Introduction to bizarre fungal morphology
+
 2. **Insidious Killers** — Fungal pathogens of plants and animals
+
 3. **What Lies Beneath** — Hidden fungal networks in soil and decomposition
+
 4. **Metamorphosis** — Fungal life cycles and reproductive strategies
+
 5. **The Odd Couple** — Symbiotic relationships (lichens, mycorrhizae)
+
 6. **Ingold's Jewels** — [[ingold-cecil-t]]'s aquatic fungi discovery
+
 7. **Siren Songs** — Fungal attraction mechanisms (pheromones, volatile compounds)
+
 8. **Angels of Death** — Deadly poisonous mushrooms and [[mycotoxins-and-human-health]]
+
 9. **Mr. Bloomfield's Orchard** — The title chapter on fungal ecology
 
 The book opens with a quote from M.C. Cooke's *British Fungi* (1871): "It is indeed a singular and despised family to the history of which we are about to dedicate this volume."
@@ -34,14 +47,19 @@ The book opens with a quote from M.C. Cooke's *British Fungi* (1871): "It is ind
 ## Scientific Research
 
 - **Spore discharge mechanics**: Money's research confirmed [[buller-ahr]]'s hypothesis that surface tension drives the ballistospore catapult mechanism, 70+ years after Buller proposed it
+
 - **Appressorium physics**: Studied the mechanical forces exerted by fungal appressoria during plant infection
+
 - **Rice blast research**: Investigated *Magnaporthe grisea* infection mechanics
+
 - **Fungal biology popularization**: Multiple books making fungi accessible to general audiences
 
 ## Other Works
 
 - *Mushroom* (2011) — General mycology for general readers
+
 - *The Amoeba in the Room* (2014) — Microbial life
+
 - *Fungi: A Very Short Introduction* (2016) — Oxford University Press
 
 ## Legacy
@@ -50,10 +68,18 @@ Money's ability to explain complex mycological concepts in vivid, literary prose
 
 ## See Also
 
+- [[nicholas-money-mycologist]]
+
 - [[buller-ahr]] — Money documented Buller's spore discharge research
+
 - [[ingold-cecil-t]] — Money documented Ingold's aquatic fungi discovery (book dedicated to him)
+
 - [[fairy-rings-and-giant-mycelia]] — fungal ecology topics Money covers
+
 - [[fungal-parasites-and-predators]] — predatory fungi covered in Money's book
+
 - [[mushroom-poisoning-guide]] — toxic fungi covered in "Angels of Death" chapter
+
 - [[fungal-spore-biology]] — spore physics Money researches
+
 - [[history-of-mycology-timeline]] — Money's historical accounts

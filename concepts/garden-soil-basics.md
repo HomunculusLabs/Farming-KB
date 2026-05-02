@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Soil Basics
 
-Soil fundamentals for vegetable gardening, from Steve Solomon's *Gardening When It Counts*. Solomon argues that soil mineral balance directly determines the nutritional quality of your food.
+Soil fundamentals for vegetable gardening, from [[steve-solomon]]'s *Gardening When It Counts*. Solomon argues that soil mineral balance directly determines the nutritional quality of your food.
 
 ## The Foundation: Mineral Balance
 

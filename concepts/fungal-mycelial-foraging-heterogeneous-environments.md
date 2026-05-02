@@ -1,0 +1,123 @@
+---
+title: "Mycelial Foraging Strategies in Heterogeneous Environments"
+tags: [fungal-ecology, mycelial-networks, foraging-behavior, basidiomycetes]
+date: 2026-04-25
+updated: 2026-04-25
+sources: [~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md]
+---
+
+# Mycelial Foraging Strategies in Heterogeneous Environments
+
+Cord-forming saprotrophic basidiomycetes grow as mycelial networks
+through soil, foraging for and connecting discrete organic resources
+such as pieces of wood. Their mycelial systems exhibit complex
+foraging behaviors that parallel those of animals and clonal plants,
+responding dynamically to resource distribution, quality, and
+environmental conditions. These strategies are central to fungal mycelial foraging heterogeneous environments and fungal mycelial foraging heterogeneous environments.
+
+## Short-Range and Long-Range Foraging
+
+Cord-forming basidiomycetes display two contrasting foraging strategies.
+Short-range foragers such as [[hypholoma-fasciculare]] produce dense,
+slowly extending mycelia that thoroughly explore the immediate
+surroundings. Long-range foragers like [[phanerochaete-velutina]] extend
+rapidly as diffuse mycelia with fewer cords, covering larger areas but
+with less complete exploration. These strategies parallel the "phalanx"
+and "guerrilla" foraging patterns described in clonal plant ecology.
+
+Soil factors influence foraging morphology. Soil pH affects space-filling
+and mycelial density, with some species producing more biomass at lower
+pH values. Soil water potential affects cord formation, with some species
+showing greater aggregation into cords under drier conditions. Temperature
+and water potential fluctuations affect mycelial development, nutrient
+uptake, and translocation within networks.
+
+## Biomass Re-Allocation on Resource Discovery
+
+When foraging mycelia encounter new resources, they exhibit remarkable
+patterns of biomass re-allocation. When Phanerochaete velutina encounters
+a resource substantially larger than its original inoculum, the response
+includes thickening of resource-connected cords, regression of
+non-resource-connected mycelium, cessation of radial extension, and
+subsequent outgrowth from the newly colonized resource. This represents
+a complete remodeling of the mycelial system architecture.
+
+Short-range foragers like H. fasciculare show even more dramatic changes
+when encountering resources similar in size to the original. The
+distribution of resources also matters: when multiple resources are
+encountered simultaneously at different points around the periphery,
+the mycelium produces fans from all margins, a response not triggered by
+a single resource of equivalent total volume.
+
+## Delays and the Marginal Value Theorem
+
+Mycelial extension often slows or stops after resource encounter. The
+time before egress from a newly colonized resource depends on both the
+size of the new resource and the nutrient status of the whole system.
+With Phan. velutina, egress from a 0.2 cubic cm resource took 7 days,
+but from a 16 cubic cm resource took 63 days. This pattern parallels
+the marginal value theorem from optimal foraging theory: just as animal
+predators stay longer in patches when travel time between patches is
+greater, fungal mycelia remain longer in larger resources.
+
+Prior colonization of resources by other fungi also affects egress
+timing. Phan. velutina typically egressed first from uncolonized rather
+than pre-colonized resources, reflecting the relative difficulty of
+colonization.
+
+## Division of Labour and Nutrient Translocation
+
+Nutrients scavenged during soil exploration are translocated through
+the mycelial network, commonly accumulating in connected wood resources.
+Translocation rates can be rapid, sometimes exceeding 25 cm per hour,
+with the largest fluxes through cords interconnecting resources. This
+creates a physiological division of labour: original inoculum resources
+tend to decay more rapidly than newly encountered ones, because they
+are well-colonized and supply carbon to the expanding network.
+
+There is also evidence for spatial coordination of nutrient partitioning.
+When radiolabeled phosphorus-32 was added to a central inoculum, the
+total allocation to new wood resources increased linearly with time,
+but the proportion allocated to each varied with colonization status.
+Better-colonized resources received more phosphorus than recently added
+ones, demonstrating system-wide coordination analogous to a water ring
+main with multiple draw-off points.
+
+## Response to Other Organisms
+
+Mycelia inevitably encounter other fungi and soil organisms during
+growth. Combat outcomes between fungal species include deadlock,
+replacement, partial replacement, and mutual replacement, with
+morphological changes including production of defensive fans and
+altered fractal dimensions. The ectomycorrhizal [[paxillus-involutus]] and
+saprotrophic Phan. velutina both sequestered labeled phosphorus from
+shared litter patches, competing for dissolved nutrients in soil.
+
+## Invertebrate Grazing Effects
+
+Soil invertebrates including Collembola, termites, and nematodes graze
+on mycelia. Grazing intensity and species identity differentially affect
+mycelial morphology. Intense grazing by Folsomia candida completely
+removed hyphal tips from Phan. velutina margins, producing much smaller
+systems. Moderate grazing shifted H. fasciculare from dense exploitative
+growth to less dense explorative growth, sometimes triggering points of
+rapid cord outgrowth. These effects parallel herbivory on plants, where
+removal of apical dominance releases branching.
+
+Grazing also triggers physiological changes distant from the grazing
+site. Phan. velutina switched on ligninolytic enzymes in the presence
+of nematodes, and changes in protease expression occurred at locations
+remote from grazing, suggesting system-wide signaling.
+
+## Sit-and-Wait Strategy at Landscape Scale
+
+In forests, genets of saprotrophic and ectomycorrhizal basidiomycetes
+can cover areas from several square meters to many hectares. Armillaria
+ostoyae genets have been documented spanning 965 hectares with
+estimated ages of 1900-8650 years. These persistent networks act as
+"sit-and-wait" strategists, positioned to capture new resources from
+litter fall or root death. In tropical forest canopies, rhizomorphic
+fungi form suspended networks that trap and colonize falling litter,
+analogous to animal filter feeders.
+
+See also: [[fungal-mycelial-network-architecture]], [[cannabis-and-neurological-conditions]], [[fungal-wood-decay-types-white-rot-brown-rot]], [[ectomycorrhizal-associations]].

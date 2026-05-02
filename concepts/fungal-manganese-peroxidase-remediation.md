@@ -1,0 +1,148 @@
+---
+title: Fungal Manganese Peroxidase in Bioremediation
+tags: [manganese-peroxidase, bioremediation, enzymes, white-rot-fungi, mycoremediation]
+date: 2026-04-25
+updated: 2026-04-25
+sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
+---
+
+# Fungal Manganese Peroxidase in Bioremediation
+
+## Overview
+
+Manganese peroxidase (MnP, EC 1.11.1.7) is an extracellular
+glycosylated heme enzyme secreted by white rot fungi that uses
+hydrogen peroxide to oxidize manganese(II) to manganese(III). The
+generated manganese(III)-chelate acts as a freely diffusible,
+non-specific oxidant capable of degrading phenolic lignin subunits,
+aromatic pollutants, and, in the presence of co-substrates,
+non-phenolic compounds including polycyclic aromatic hydrocarbons.
+MnP is one of the three major families of lignin-modifying enzymes
+produced by white rot fungi, alongside lignin peroxidase and laccase,
+and plays a central role in fungal bioremediation of organic
+pollutants.
+
+## Enzyme Classification and Structure
+
+MnP belongs to class II of the peroxidase family, designated for
+extracellular fungal peroxidases. These enzymes share limited
+homology with other peroxidases but have striking structural
+similarity within the class, related to envelopment of the protein
+around a heme moiety. The heme is the site of oxidation by hydrogen
+peroxide, creating catalytic intermediates Compound I and Compound II.
+MnP has been crystallized, and X-ray crystallographic studies show
+its heme environment is very similar to other plant and fungal
+peroxidases. MnP shares a high degree of sequence homology with
+lignin peroxidase (LiP) but has a unique manganese(II) binding site
+involving carboxylate side chains of three acidic amino acid residues.
+
+## Catalytic Cycle
+
+The MnP catalytic cycle begins with reaction of native enzyme (E)
+with hydrogen peroxide to yield Compound I, containing an oxyferryl
+heme with a porphyrin cation radical. Two sequential single-electron
+reductions by manganese(II) restore the native enzyme via Compound II,
+releasing two manganese(III) ions. The relative concentrations of
+hydrogen peroxide and manganese(II) must be carefully balanced to
+prevent Compound II from reacting with excess hydrogen peroxide to
+form catalytically inactive Compound III. This inactivation pathway
+is a practical concern in bioremediation applications where hydrogen
+peroxide concentrations are difficult to control in soil.
+
+## Requirement for Organic Acid Chelators
+
+Organic acids are essential for MnP function because they chelate
+and stabilize the manganese(III) product. Malonate, citrate,
+glyoxylate, and oxalate are common secondary metabolites of wood-
+rotting basidiomycetes secreted alongside MnP. Oxalate shows unique
+effects in chelating and stabilizing manganese(III) and may bind
+closely to the heme during catalysis. Manganese(II) reacts with
+oxidized MnP as a monochelated complex but is released in its
+dichelated form. These organic acids are naturally produced by white
+rot fungi during lignin degradation, ensuring co-substrate
+availability in the fungal microenvironment.
+
+## Oxidation of Phenolic Compounds
+
+Unchelated manganese(III) has a high standard redox potential of
+1.5 V/NHE, reduced by chelation with organic acids to approximately
+1.12 V/SCE (1.362 V/NHE). According to the Nernst equation, a broad
+range of organic substrates could be oxidized if chelated
+manganese(III) concentration were maintained sufficiently high.
+Manganese(III)-chelates oxidize monomeric phenols, phenolic lignin
+dimers, and synthetic lignin to phenoxy radicals, triggering
+coupling, depolymerization, and demethoxylation reactions similar
+to those catalyzed by laccase. While MnP is highly specific for
+manganese(II) as its reducing substrate, its reactions are mediated
+by diffusible manganese(III)-chelates that attack diverse phenolic
+targets.
+
+## Role in PAH Degradation
+
+MnP plays a significant role in polycyclic aromatic hydrocarbon
+(PAH) degradation by white rot fungi. In Phanerochaete laevis,
+MnP was the predominant ligninolytic enzyme during anthracene and
+benzo[a]pyrene degradation, with levels stimulated by manganese(II)
+in the culture medium. In vitro, MnP produced small amounts of
+quinones as intermediates in anthracene and benzo[a]pyrene
+degradation. The ability to generate diffusible manganese(III)-
+chelates provides a route for increasing the availability of
+hydrophobic PAHs for microbial metabolism, as these chelates can
+penetrate substrate matrices inaccessible to the enzyme itself.
+
+## Co-substrate Mediated Reactions
+
+Like laccase and LiP, MnP substrate range is extended by co-substrates.
+With glutathione, veratryl alcohol (normally not oxidized by MnP) is
+oxidized to veratraldehyde via thiol radicals. Non-phenolic lignin
+and phenanthrene degradation occurs in the presence of unsaturated
+lipids, where lipid peroxidation by manganese(III)-chelates creates
+peroxyl and alkoxyl radicals that initiate degradation via radical
+cations or oxy radicals adding to aromatic rings. These co-substrate
+pathways significantly expand MnP utility for bioremediation.
+
+## MnP in Chlorophenol Degradation
+
+MnP participates in the degradation of chlorophenols by white rot
+fungi. The degradation pathway for pentachlorophenol by P.
+chrysosporium involves LiP- or MnP-catalyzed oxidative
+dechlorination to produce tetrachloro-1,4-benzoquinone, followed
+by reduction and successive dechlorinations to yield 1,2,4-
+trihydroxybenzene. For 2,4-dichlorophenol, both LiP and MnP are
+involved at multiple stages of the degradation pathway. Lentinula
+edodes produced maximal MnP activity during the rapid degradation
+phase of pentachlorophenol in contaminated soil, confirming the
+enzyme's in situ role.
+
+## Gene Regulation
+
+MnP gene transcription in P. chrysosporium is regulated by nitrogen,
+manganese(II), and heat shock. The mnp gene family from various white
+rot fungi has been cloned and sequenced. Both homologous and
+heterologous expression of mnp genes have been reported. Understanding
+MnP gene regulation is important because expression must be maintained
+under field conditions. Nitrogen limitation promotes MnP expression
+in the laboratory, but must be managed through soil amendments and
+formulation strategies when applying fungi to contaminated sites.
+
+## Advantages and Limitations for Bioremediation
+
+MnP offers several advantages for bioremediation: its diffusible
+manganese(III)-chelate oxidant can reach pollutants beyond enzyme
+diffusion distance; its organic acid co-substrates are naturally
+produced by white rot fungi; and it operates effectively against
+phenolic pollutants. Limitations include the need for hydrogen
+peroxide (toxic and difficult to supply at controlled rates), the
+risk of Compound III inactivation, and dependence on manganese(II)
+availability which varies with soil conditions. The co-substrate
+requirements (organic acids and, for non-phenolic degradation,
+lipids or thiols) add complexity but also provide flexibility in
+system design.
+
+## See Also
+
+- [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
+- [[mycoremediation-enzymology]]
+- [[mycoremediation-enzyme-production-optimization]]
+- [[fungal-laccase-redox-mediators]]
+- [[mycoremediation-of-pahs]]

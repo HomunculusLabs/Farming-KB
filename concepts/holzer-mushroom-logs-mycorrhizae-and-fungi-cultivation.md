@@ -1,0 +1,148 @@
+---
+title: Holzer Mushroom Logs Mycorrhizae and Fungi Cultivation
+created: 2026-04-21
+updated: 2026-04-18
+type: concept
+tags: [holzer, permaculture, homesteading]
+sources:
+  - raw/papers/sepp-holzer-practical-guide.md
+---
+
+# Holzer Mushroom Logs, Mycorrhizae and Fungi Cultivation
+
+[[sepp-holzer]] devotes a substantial chapter to mushroom cultivation, which complements his existing [[holzer-mushroom-cultivation]], [[holzer-mushroom-cultivation-methods]], and [[holzer-mushroom-cultivation-experiments]] pages. His approach covers three main methods: log cultivation, straw cultivation, and wild mushroom propagation.
+
+## Fungal Biology Basics
+
+Holzer emphasises understanding fungal biology before attempting cultivation:
+
+- Fungi belong to a separate kingdom from plants
+- They are primary decomposers (saprotrophs), converting accumulated biomass into plant-absorbable nutrients
+- The visible mushroom is only the fruiting body; the organism itself is the mycelium, composed of thread-like hyphae
+- Many fungi form mycorrhizae -- symbiotic associations with plant roots
+- In mycorrhizal relationships, the fungus helps the plant absorb water, nitrogen, and phosphates, while the plant supplies carbohydrates from photosynthesis
+- If a plant lacks its specific mycorrhizal partner, it will grow poorly even in good soil
+- Adding a little soil from a plant's natural environment can introduce the missing symbiotic partner
+
+## Health Benefits of Mushrooms
+
+Holzer draws on both European folk medicine and Asian traditions:
+
+- Honey fungus ([[armillaria-mellea]]) -- used as a laxative for centuries in European folk medicine
+- Giant puffball (Calvatia gigantea) and agarikon (Laricifomes officinalis) -- traditionally used to staunch bleeding
+- Shiitake ([[lentinula-edodes]]) -- lowers cholesterol, effective against colds, strengthens immune system, positive effect in cancer treatment. Grows on sycamore logs at the Krameterhof up to 1,500m altitude
+- Judas' ear (Auricularia auricula-judae) -- treats nausea, lowers blood pressure
+- Lingzhi / reishi (Ganoderma lucidum) -- treats sleeping disorders, strengthens immune system
+- Mushrooms generally: high fibre, low calorie, rich in vitamins and minerals. Best fresh but retain flavour and nutrients when dried. Mushroom tea is used for illness prevention and detoxification
+
+## Growing Mushrooms on Wood
+
+### Species for Log Cultivation
+
+All of the following grow on hardwood at the Krameterhof. Fruiting begins at 10C minimum for most species (2C for enoki, 15C for black poplar mushroom):
+
+- Shiitake (Lentinula edodes) -- premier culinary and medicinal mushroom, can be grown on narrow logs or branches, can be eaten raw or as tea
+- Oyster mushroom (Pleurotus ostreatus) -- excellent culinary mushroom, not particular about wood type but grows especially well on beech, maple, and elm
+- King oyster mushroom (Pleurotus eryngii) -- thick fleshy stems, excellent flavour
+- Golden oyster mushroom (Pleurotus citrinopileatus) -- large yellow clusters, excellent culinary mushroom
+- Sheathed woodtuft (Kuehneromyces mutabilis) -- small, clusters, intense flavour for sauces and soups, particularly undemanding
+- Nameko (Pholiota nameko) -- Japanese sheathed woodtuft, excellent culinary mushroom
+- Enoki (Flammulina velutipes) -- winter mushroom, fruits in autumn and winter
+- Black poplar mushroom (Agrocybe aegerita) -- aromatic, requires higher temperatures, prefers softwood (poplar and willow)
+- Judas' ear (Auricularia auricula-judae) -- popular in Asian cuisine, prefers elder wood
+
+### Substrate Selection
+
+- Only fresh, uncontaminated hardwood should be used
+- Stone fruit wood is least suitable for mushroom cultivation
+- Softwood (poplar, willow, alder, birch) is colonised faster (6-12 months) but decomposes sooner
+- Hardwood (beech, oak) takes twice as long to colonise but yields last substantially longer (over 10 years at 1,500m)
+- Logs stored more than half a year are probably no longer suitable
+- Trees near busy roads may contain heavy metals in the bark -- unsuitable for food cultivation
+- Expected total yield: 20-30 percent of the log's weight
+- Log size: 0.5-1 metre length, minimum 20cm diameter
+
+### Inoculation Methods
+
+1. Spawn plugs: Drill holes slightly larger than plugs, insert evenly distributed, seal with fresh branch wood
+2. Notched inoculation: Use chainsaw to cut notches over half the log's diameter, fill with grain or substrate spawn, cover with plastic sheeting or tape
+3. Spore propagation: Place ripe caps on moist log ends (works for sheathed woodtuft and enoki, but much slower)
+4. Self-propagated spawn: Soak and boil wooden dowels, place with existing spawn in clean plastic bag, wait one month for full colonisation
+
+### Placement and Maintenance
+
+- Start cultures in spring or early summer for best results
+- During colonisation phase: store logs closely together in shade, covered with leaves and jute bags, at approximately 20C
+- After colonisation (white mycelium visible): sink logs into ground by one-third of their length in their direction of growth
+- Space logs adequately for harvesting access
+- Ground contact provides moisture, nutrients, and eliminates irrigation needs
+- No special winter protection required
+- Dormant logs can be activated by soaking for several hours and striking with a mallet (Holzer discovered this accidentally when disposing of "failed" cultures in a wetland)
+
+## Growing Mushrooms on Straw
+
+### Species for Straw Cultivation
+
+- All oyster mushroom varieties (Pleurotus sp.)
+- King stropharia (Stropharia rugosoannulata) -- resembles a cep, excellent culinary mushroom, lower humidity requirements than oyster mushrooms, fruits above 10C
+
+### Substrate Preparation
+
+- Use only organic straw (conventional straw may contain herbicides, fungicides, and growth regulators)
+- Straw should be golden yellow, no mould spots or dark areas, no musty smell
+- Small compressed bales are easiest to handle when wet
+- Soak bales fully in water for several days -- this also begins slight fermentation, aiding mycelial colonisation
+- Drain for a day before inoculation
+
+### Inoculation and Maintenance
+
+- Make 8-10 holes per bale reaching the middle, fill with spawn
+- Or push plug/dowel spawn evenly into the bale
+- Position in shaded area
+- Optimal mycelial growth temperature: just over 20C
+- Spring/early summer inoculation yields in approximately 3 months
+- Autumn inoculation yields the following spring
+- Life span: 1-2 years, after which exhausted bales become mulch or organic fertiliser
+- Mycelium can be transferred from colonised bales to fresh ones by brief contact, eliminating need to purchase new spawn
+
+### The Sustainable Cycle
+
+Holzer describes a complete cycle: cereal crop (maize with beans/peas) produces straw, straw is used for mushroom cultivation, exhausted straw becomes mulch for garden beds where seeds germinate through the mulch layer, and the cycle begins again.
+
+## Cultivating Wild Mushrooms (Mycorrhizal Species)
+
+### Species and Symbiotic Partners
+
+- Ceps (Boletus edulis) -- symbiotic with spruce (Picea abies) and other forest trees
+- Chanterelles (Cantharellus cibarius) -- symbiotic with spruce and mixed forest trees
+- Birch boletes (Leccinum scabrum) -- symbiotic with birch (Betula sp.)
+
+### Cultivation Method
+
+Mixed forest is essential for wild mushroom cultivation because:
+- Mixed forests are more stable than monocultures
+- Humus composition is better in mixed stands
+- Pine needles alone acidify soil; mixed leaf litter creates balanced humus
+- Water balance is better in mixed forests
+
+Birch bolete cultivation procedure:
+1. Create the correct environment (e.g., plant young birch trees on a terrace)
+2. Prepare substrate mixture: forest soil and sawdust soaked in liquid manure from different symbiotic plants
+3. Spread substrate around existing birch bolete fruiting bodies during the growing season
+4. Check for fine white mycelial threads after the season
+5. Introduce colonised substrate at different depths around young birch trees or living birch stumps
+6. Fruiting bodies may appear as soon as the following year
+
+Spore distribution method:
+1. Collect ripe fruiting bodies with mature spores
+2. Place in loose-weave bag (jute or onion bag)
+3. Hang in well-ventilated area to dry
+4. Walk around the target area, striking the bag lightly with a stick to distribute spores
+5. Or hang the bag on a wide-branched spruce in an elevated location for natural distribution
+
+## Pest Protection
+
+Slugs and snails (especially the non-indigenous Spanish slug, Arion vulgaris) are the main pest of mushroom cultures. Holzer's integrated approach:
+- Pigs, ducks, and toads naturally reduce slug populations
+- Protective ring barrier: mixture of wood ash, sawdust, and slaked lime, kept dry
+- Wet grass clipping trap: attracts slugs to lay eggs, then turn over to expose eggs to sun and UV light

@@ -148,49 +148,7 @@ See [[mushroom-harvesting-potency]] for complete details:
 - Desiccant: Drierite, silica gel, or Damp Gone (drying)
 
 ### Stage Three: Spore Printing and Syringe Making
-- Micro curved cuticle scissors (cosmetics/drug store)
-- Denatured alcohol
-- Tequila shot glass and eye dropper
-- Glass stirring rod (science supply)
-- Plastic syringes (10cc or larger) and 18 gauge 1/2 inch needles
 
-## Key Principles
+Related: [[brown-rice-flour-substrate]]
 
-1. **Mass spore inoculation** preserves genetic diversity and avoids senescence
-2. **Vermiculite structure** provides air space for mycelial growth
-3. **Dry vermiculite barrier** replaces complex sterile procedures
-4. **Steam sterilization** (no pressure cooker needed for this substrate)
-5. **Half-pint jars** are the optimal size -- larger jars fail more easily
-6. **Never spray fungus directly** -- use the spray shield for molecularized humidity
-7. **Harvest young** for maximum potency
-
-## Troubleshooting
-
-- **Halted growth with no contamination:** Substrate too dry. Increase water content.
-- **Green/blue contamination:** Most common contaminant (Trichoderma). Likely introduced during inoculation. Improve sterile technique.
-- **Non-germination:** Spores may be non-viable. Ensure syringes are stored cool and dark.
-- **Sloppy wet substrate:** Reduce water. Vermiculite grade affects water holding capacity.
-- **Loose water in jar:** Excess moisture. Reduce water content in next batch.
-- **Lots of mycelium spreading but no fruiting:** Terrarium too hot. Remove all direct heat sources.
-- **Fuzzy white mycelium on caps:** Low humidity symptom (not contamination). Increase spraying frequency.
-- **Deformed/withering mushrooms:** Low humidity. Increase spraying and ventilation.
-
-## Legal Note
-
-Psilocybe cubensis contains psilocybin and psilocin, which are controlled substances in many jurisdictions. Spores typically contain no active compounds and may be legal in some jurisdictions. PF originally distributed spores from Seattle, WA.
-
-## See Also
-
-- [[pf-tek-fruiting-chamber]] -- Dual chambered terrarium construction and operation
-- [[mushroom-harvesting-potency]] -- Harvest timing, drying, spore printing
-- [[psilocybin-mushroom-cultivation]] -- Broader cultivation overview
-- [[mushroom-sterile-technique-detailed]] -- Sterile procedure hierarchy (SAB, glove box, flow hood)
-- [[mushroom-substrates]] -- Substrate options beyond PF TEK
-- [[mushroom-grow-equipment]] -- Equipment guide
-- [[inoculation-methods]] -- Inoculation techniques
-- [[mushroom-cultivation-methods]] -- Method comparison
-
-## Related
-
-- [[mushroom-cultivation-methods]]
-- [[psilocybin-liquid-culture]]
+Related: [[brown-rice-flour-substrate]]

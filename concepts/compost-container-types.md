@@ -77,6 +77,10 @@ Use rough-sawn lumber (cheaper and looks fine). Old floorboards work well for si
 
 ## Related
 
-- [[wormery-construction]] — vermicomposting in a purpose-built box
+- [[wormery-construction]] — [[vermicomposting]] in a purpose-built box
 - [[composting-materials-alternative]] — sourcing compost materials beyond the garden
 - [[soil-conditioners-guide]] — alternative soil conditioners for bed preparation
+
+## Practical Implementation
+
+Successful implementation requires attention to local conditions including climate zone, soil type, and available resources. Start with a small test area before scaling. The approach works best integrated with existing systems rather than in isolation. Regular observation and adaptive management are key. Results typically improve over time as soil biology establishes and ecological relationships mature.

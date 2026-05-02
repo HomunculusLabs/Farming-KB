@@ -78,4 +78,8 @@ Bees are among the most easily protected from predators by elevation on pole str
 - [[permaculture-grazing-and-pasture]] -- pasture management
 - [[animal-manure-guide]] -- nutrient cycling from animals
 - [[permaculture-tree-crop-systems]] -- animals integrated with tree crops
-- [[permaculture-domestic-animals]] -- this page
+- permaculture domestic animals -- this page
+
+## Cultivation Applications
+
+This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

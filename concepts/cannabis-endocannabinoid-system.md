@@ -11,6 +11,11 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine.
 
+
+
+
+
+
 ## Components of the ECS
 
 ### CB1 Receptors
@@ -34,6 +39,11 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - **MAGL** (Monoacylglycerol Lipase): Breaks down 2-AG
 - These enzymes regulate how long endocannabinoids act in the body
 
+
+
+
+
+
 ## How Cannabis Interacts with the ECS
 
 ### THC
@@ -56,11 +66,23 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - **CBC**: Anti-inflammatory, analgesic, anti-fungal
 - **CBDV**: Similar to CBD, anti-convulsant
 
+
+
+
+
+
 ## Clinical Significance
 
 The ECS explains why cannabis treats such a wide variety of conditions — it is not that cannabis is a wonder drug, but that the ECS is involved in regulating virtually every physiological system. When the ECS is deficient (clinical endocannabinoid deficiency hypothesis), cannabis can supplement the body's own cannabinoids.
 
+
+
+
+
+
 ## Related
+
+- [[win55212-2]]
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-thc-therapeutic-profile]] — for THC specifics
 - [[cannabis-for-chronic-pain]] — for pain applications

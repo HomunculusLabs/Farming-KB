@@ -1,0 +1,139 @@
+---
+title: JADAM Combined Pesticide Programs with JWA JS and JHS
+tags: [jadam, pesticide-programs, jwa-js-jhs, [[integrated-pest-management]]]
+date: 2026-04-25
+updated: 2026-04-25
+sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
+---
+
+# JADAM Combined Pesticide Programs with JWA, JS, and JHS
+
+The JADAM natural pesticide system is built around three core ingredients:
+JADAM wetting agent (JWA), JADAM sulfur (JS), and JADAM herb solution (JHS).
+When combined in various proportions, these three components create a
+versatile pest management system capable of controlling diseases, insects,
+and mites across all crop types. Understanding how to combine them
+effectively is essential for successful organic pest management.
+
+## The Three Core Components
+
+**JADAM Wetting Agent (JWA)** is the foundation of all JADAM pesticide
+mixtures. It is a natural surfactant made from canola oil and potassium
+hydroxide without heating. JWA increases the wetting, coating, and
+penetrating power of pesticides. It also has its own pesticide and
+germicide effect. JWA alone can control aphids, mites, and powdery mildew
+in their early stages. The cost is less than 50 cents per liter.
+
+**JADAM Sulfur (JS)** is a powerful germicide made from sulfur, caustic
+soda, phyllite, red clay powder, and sea salt. It is very effective against
+most diseases, and diseases do not develop resistance to it. Unlike lime-
+sulfur mixture, JS is made without heating (in its modern form), does not
+damage plastic or steel pipes in greenhouses, and costs 50 cents per liter.
+It is effective against black spot, pear rust, powdery mildew, and downy
+mildew.
+
+**JADAM Herb Solution (JHS)** extends pest control to a wider range of
+insects including cabbage white butterfly caterpillars, tobacco moth, beet
+armyworm, stinkbug, and thrips. JHS is made by boiling herbs such as
+Jerusalem artichoke, gingko, or Korean pasque flower root in water. JHS
+also functions as a fertilizer, providing nutrients to crops while
+controlling pests.
+
+## Basic Combination Ratios
+
+For a standard 500-liter (132 gal) spray tank of water, the following
+ratios serve as starting points. All ratios should be adjusted based on
+pest pressure, crop sensitivity, and field conditions.
+
+**Mild pest pressure (prevention or early stage):**
+- JWA: 3 liters (0.8 gal)
+- JS: 0.5 liters (0.13 gal) for greenhouses; 1 liter (0.26 gal) for
+  open fields
+- JHS: 3 liters (0.8 gal)
+
+**Moderate pest pressure (active problems):**
+- JWA: 5 liters (1.3 gal)
+- JS: 1-1.5 liters (0.26-0.4 gal)
+- JHS: 5-10 liters (1.3-2.6 gal)
+
+**Severe pest pressure (heavy infestation):**
+- JWA: 10-15 liters (2.6-4 gal)
+- JS: 1.5-2 liters (0.4-0.53 gal)
+- JHS: 15-20 liters (4-5.3 gal)
+
+## Combining JWA and JS
+
+JWA and JS are the basic disease-control combination. When mixed together
+in soft water, the solution should remain clear and produce good foam.
+If clotting occurs, the water is too hard and must be changed. Roughly,
+JS is used at one-fifth the quantity of JWA.
+
+JWA must always be used with JS because JS without JWA can leave marks on
+plants, reduce germicide effectiveness, and cause concentration problems.
+The wetting agent ensures even coverage and prevents phytotoxicity from
+sulfur concentration. Always start with lower doses and increase in 0.2-
+liter increments for JS.
+
+JS should only be used when disease has broken out or there is clear risk.
+Continuous use can stunt plant growth. Grappersimmonmmons, walnuts, and
+greenhouse crops are particularly sensitive to JS.
+
+## Adding JHS for Insect Control
+
+When insect problems are present, JHS is added to the JWA-JS base. JHS
+causes little concentration stress, so it can be used relatively freely
+within the 3-20 liter range per 500 liters of water. The choice of herb
+determines the spectrum of insect control:
+
+- **Jerusalem artichoke** (basic): controls aphids, mites, and most moths
+- **Gingko** (stronger): broadens insect control range
+- **Korean pasque flower root** (strongest): maximum insecticidal effect
+- **Red spider lily root**: highly poisonous, strong pest control
+
+Multiple JHS types can be prepared from different herbs and rotated or
+combined for broader spectrum control. Jerusalem artichoke, gingko,
+Korean pasque flower, and red spider lily can be grown on the farm for
+complete self-sufficiency in pesticide production.
+
+## Enhanced Combinations
+
+For even stronger pesticide effect, JADAM suggests adding red clay powder
+to the JWA-JS-JHS mixture. Red clay powder enhances the formulation's
+sticking and coating properties. The clay particles also contribute
+additional minerals to the foliar application.
+
+## Winter Pest Control Program
+
+For fruit tree dormant season pest control, use JS at higher rates:
+- Before sprouting or bud break: JS 5 liters (1.3 gal) with JWA 3-5
+  liters (0.8-1.3 gal) per 500 liters
+- As buds enlarge: JS 1 liter (0.26 gal) with JWA 3 liters
+- For flower thinning (risky, requires prior testing): JS 2 liters with
+  JWA 3 liters, applied immediately after full bloom
+
+## Rice Pesticide Program
+
+For rice cultivation, JADAM has developed specific programs:
+- **Rice bakanae disease**: immerse seeds 48 hours in cold water solution
+  containing JS
+- **Rice water weevil**: use a surface-spreading agent formulation
+- **Comprehensive rice pesticide**: combines JWA, JS, and JHS for multiple
+  rice pests including blast, sheath blight, smut, and stinkbug
+
+## Mixing Order and Safety
+
+When preparing combined pesticide, add ingredients one by one into the
+water while stirring. The general order is water first, then JWA, then
+JS, then JHS. Always do a mixture test when combining ingredients. Never
+mix undiluted JS and JWA together directly, as clotting will occur. In
+cold temperatures, mix JWA in a small amount of warm water before adding.
+
+If leftover pesticide remains, it can be stored for future use. However,
+if the solution contains JS, use it promptly as it can degrade. For
+storage, keep containers sealed and above freezing temperature.
+
+## See Also
+
+- [[jadam-natural-pesticide-programs]]
+- [[jadam-jms-jhs-pesticide]]
+- [[jadam-natural-pesticide-universal]]

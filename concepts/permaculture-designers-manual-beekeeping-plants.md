@@ -1,0 +1,117 @@
+---
+title: Beekeeping Plants
+created: 2026-04-18
+updated: 2026-04-18
+type: concept
+tags: [permaculture, animals, plant-systems]
+sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+---
+
+# Beekeeping Plants
+
+**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
+**Updated:** 2026-04-18
+
+## Overview
+
+Mollison treats bee fodder plants as an essential component of integrated permaculture design. Bees provide pollination services critical to crop production, plus honey, wax, and propolis. Designing for bee forage means selecting plants that provide nectar and pollen across as many months of the year as possible.
+
+## The Role of Bees in Permaculture
+
+Bees serve multiple functions in permaculture systems:
+- **Pollination:** Essential for fruit, seed, and vegetable production
+- **Honey production:** A high-value, storable food product
+- **Wax production:** For candles, polish, and craft
+- **Propolis:** Medicinal resin collected from tree buds
+- **Biodiversity indicator:** Healthy bee populations indicate healthy ecosystems
+
+## Bee Fodder Plant Categories
+
+In the farm forestry section (12.10), Mollison lists "bee fodder plants" as a valid nursery enterprise, noting they also serve as butterfly and insectivorous bird attractors. Many such species provide hedgerow and forage crop, fruits, and flowers.
+
+### Trees and Shrubs for Bee Forage
+- **Eucalyptus spp.:** Major nectar source in Australia; different species flower at different times
+- **Leucaena leucocephala:** Nectar and pollen for tropical bees
+- **Acacia spp.:** Early spring pollen source
+- **Clover (Trifolium spp.):** Major temperate forage; white, red, and subterranean varieties
+- **Lucerne (Medicago sativa):** Long flowering period; excellent pollen and nectar
+- **Buckwheat (Fagopyrum esculentum):** Fast summer nectar source
+- **Borage (Borago officinalis):** Prolific nectar producer
+- **Phacelia:** Excellent bee attractant; used as cover crop
+- **Thyme (Thymus vulgaris):** Mediterranean nectar source; yields fine honey
+- **Rosemary (Rosmarinus officinalis):** Winter nectar in mild climates
+- **Lavender (Lavendula spp.):** Summer nectar; aromatic honey
+- **Citrus:** Spring nectar flow
+- **Avocado (Persea americana):** Pollination essential for fruit set
+- **Macadamia:** Requires bee pollination
+- **Lychee (Litchi chinensis):** Requires bee pollination
+- **Carob (Ceratonia siliqua):** Nectar source in Mediterranean climates
+
+### Herbaceous Bee Plants
+- **Comfrey (Symphytum spp.):** Long flowering; deep-rooted mineral accumulator
+- **Chicory (Cichorium intybus):** Late summer nectar; deep-rooted
+- **Dandelion (Taraxacum officinale):** Early spring pollen and nectar
+- **Mustard (Brassica spp.):** Fast spring forage
+- **Coriander (Coriandrum sativum):** Umbellifer; good forage
+- **Fennel (Foeniculum vulgare):** Tall umbellifer; long flowering
+- **Clovers:** White, red, crimson, strawberry, alsike
+- **Vetch (Vicia spp.):** Spring pollen and nectar
+- **Buckwheat:** Quick crop for summer nectar gaps
+
+### Aquatic and Edge Plants
+- **Typha (cumbungi/reedmace):** Marshland bee forage
+- **Water hyacinth (Eichhornia):** Tropical bee forage (use with caution -- invasive)
+- **Pontederia (pickerel weed):** Marsh nectar source
+
+## Apiary Placement
+
+Mollison discusses apiary placement in the context of zone planning:
+- **Zone 1-2:** 2-4 hives near the garden for pollination services
+- **Zone 3-4:** Larger apiaries in forest or farm areas for honey production
+- Site hives facing morning sun for early flight
+- Protect from wind with hedges or structures
+- Ensure clean water source within 200m
+- Avoid placing near livestock yards or composting areas
+
+## Designing for Continuous Forage
+
+The goal is to have bee forage available across as many months as possible. In temperate climates, this means:
+- **Late winter/early spring:** Willow (Salix), crocus, dandelion, fruit tree bloom
+- **Spring:** Clover, fruit trees, brassicas, phacelia
+- **Summer:** Lavender, thyme, borage, buckwheat, clover, eucalyptus
+- **Autumn:** Ivy (Hedera helix), aster, goldenrod (Solidago)
+- **Winter:** Rosemary, winter heather (Erica) in mild climates
+
+## Integration with Other Systems
+
+Bee fodder plants serve multiple functions simultaneously:
+- **Hedgerow plants:** Provide windbreak, animal barrier, and bee forage
+- **Cover crops:** Buckwheat, clover, phacelia build soil and feed bees
+- **Orchard understorey:** Comfrey, clover, dandelion support both trees and bees
+- **Waste areas:** Wildflower meadows on marginal land
+- **Aquatic edges:** Marsh plants at pond margins
+
+## Ethical Investment in Bee Systems
+
+Mollison lists bee forage systems as a medium-term ethical investment (amortise over 2-5 years). Bee/chicken/pig forage systems represent a viable investment category that produces returns while building ecological capital.
+
+## Key Principles
+
+1. **Continuous bloom:** Select species for year-round nectar and pollen supply
+2. **Multiple functions:** Every bee plant should serve at least two other functions
+3. **Avoid pesticides:** Design systems that eliminate need for biocides near hives
+4. **Water access:** Provide clean water near every apiary
+5. **Shelter:** Protect hives from wind and extreme heat
+6. **Native species:** Include native flowering plants adapted to local conditions
+7. **Diversity:** Plant many species rather than monocultures; resilience through variety
+
+## Related Topics
+
+- [[permaculture-designers-manual-beekeeping]] - Hive management and honey production
+- [[permaculture-designers-manual-crop-pollination]] - Pollination services in design
+- [[permaculture-designers-manual-animal-forage-systems]] - Integrated forage design
+- [[permaculture-designers-manual-designer-reference-species]] - Plant species reference
+- [[permaculture-designers-manual-plant-nursery]] - Propagating bee fodder plants
+- [[mollison-native-seed-forage-systems-and-arid-species-lists]]
+- [[gaias-garden-cover-crops-soil-building]]
+- [[permaculture-designers-manual-cover-crops-detailed]]

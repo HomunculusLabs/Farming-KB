@@ -1,0 +1,104 @@
+---
+title: Mycorrhiza Bioassays in Ecological Studies
+created: 2026-04-21
+updated: 2026-05-01
+type: concept
+tags: [reference]
+sources: []
+---
+
+# Mycorrhiza Bioassays in Ecological Studies
+
+
+
+## Overview
+
+Arbuscular mycorrhizal (AM) fungi are ubiquitous in agricultural and natural ecosystems, and most plant species form symbiotic associations with these fungi. The symbiosis increases plant growth and development by enhancing nutrient uptake, especially phosphorus (Ortas 1996; Smith et al. 2004). Bioassays provide critical tools for assessing the functional significance of mycorrhizal associations in ecological contexts.
+
+
+
+## Principles of Mycorrhiza Bioassays
+
+Bioassays measure the growth response of plants to mycorrhizal colonization under controlled or semi-controlled conditions. They typically compare mycorrhizal and non-mycorrhizal treatments to quantify the contribution of AM fungi to plant nutrition and ecosystem function.
+
+
+
+## Key Parameters Measured
+
+- **Plant biomass**: Above-ground and below-ground dry weight
+- **Phosphorus uptake**: Plant tissue P concentration and content
+- **Root colonization percentage**: Visual assessment of fungal structures in roots
+- **Spore density**: Number of AM fungal spores per gram of soil
+- **Hyphal length density**: Extent of extraradical mycelium in soil
+
+
+
+## Bioassay Design Considerations
+
+### Trap Culture Approach
+
+Trap cultures use a susceptible host plant grown in soil samples to "trap" and propagate indigenous AM fungi. This allows assessment of the mycorrhizal inoculum potential of field soils.
+
+### Dilution Series
+
+Dilution of soil inoculum allows quantification of the relationship between inoculum density and plant response, providing information about the infectivity and effectiveness of indigenous AM fungal populations.
+
+### Most Probable Number (MPN) Method
+
+The MPN technique quantifies the number of infective propagules of AM fungi in soil, including spores, hyphal fragments, and infected root pieces.
+
+
+
+## Standardized Bioassay Protocols
+
+The most widely used bioassay protocols include the Mehlich method (growing seedlings in soil dilution series) and the open-pot method (using field soil with a susceptible host). A critical consideration is the choice of host plant -- maize, sorghum, and clover are commonly used because of their strong mycorrhizal responsiveness and well-characterized growth patterns.
+
+Sterilization of control soil is essential but must be done carefully. Autoclaving can alter soil chemistry, particularly phosphorus availability, which may confound results. Gamma irradiation or chemical sterilization with sodium hypochlorite may be preferable for certain soil types. Inoculated and non-inoculated controls should be grown in parallel under identical conditions. The duration of bioassay experiments varies from 6-12 weeks depending on the host species and growth conditions.
+
+
+
+## Interpreting Bioassay Results
+
+The mycorrhizal dependency (MD) of a plant species is calculated as: MD = (dry weight of mycorrhizal plant - dry weight of non-mycorrhizal plant) / dry weight of mycorrhizal plant x 100. Species with high MD values (>75%) are considered obligately mycorrhizal, while those with low values (<25%) may benefit only marginally from the association. Understanding MD helps predict which crops will respond most strongly to inoculation practices.
+
+
+
+## Ecological Applications
+
+- Assessing the impact of land use change on [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities
+- Evaluating the role of mycorrhizae in plant community dynamics
+- Monitoring restoration success in degraded ecosystems
+- Comparing mycorrhizal function across different soil types
+- Investigating the effects of agricultural management practices on mycorrhizal symbiosis
+
+
+
+## Limitations of Bioassays
+
+Bioassays have important limitations. They typically assess only a subset of the total AM fungal community, as not all species establish equally well under controlled conditions. Results from pot experiments may not accurately predict field performance, where soil heterogeneity, competing organisms, and environmental variability introduce complexity that laboratory conditions cannot replicate. The choice of trap plant can bias results, as different host species select for different fungal assemblages.
+
+
+
+## Relationship to Sustainable Agriculture
+
+Mycorrhiza bioassays are directly relevant to [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. Understanding the ecological function of native mycorrhizal communities helps inform decisions about when and how to supplement with commercial inoculants. Field bioassays can reveal whether native AM fungal populations are already providing adequate services, potentially saving the cost of unnecessary inoculant applications.
+
+
+
+## See Also
+
+- [[agricultural-mycorrhizae]]
+
+- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
+- [[tropical-rainforest-restoration-arbuscular-mycorrhizal-fungi]]
+- [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
+
+
+
+## Related
+
+- [[mycorrhizal-diversity-assessment]]
+- [[mycorrhizal-carbon-nitrogen-economics]]
+- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+- mycorrhiza bioassays ecological studies

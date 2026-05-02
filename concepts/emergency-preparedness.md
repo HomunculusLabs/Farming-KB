@@ -128,7 +128,7 @@ Integrate with [[seasonal-planning]]:
 
 ## Related
 
-- [[emergency-preparedness]]
+- emergency preparedness
 - [[wildfire-preparedness-guide]]
 - [[earthquake-preparedness-guide]]
 - [[extreme-heat-preparedness]]

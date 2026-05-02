@@ -77,4 +77,8 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 - [[soil-food-web-structure]] — for the biology that prevents and heals compaction
 - [[bacterial-vs-fungal-soil]] — for how soil biology type affects structure
 - [[no-till-gardening-method]] — for preventing compaction through reduced tillage
-- [[soil-compaction-solutions]] — for tool-specific guidance
+- soil compaction solutions — for tool-specific guidance
+
+## Key Considerations
+
+Consider site-specific conditions when implementing this approach. Local climate, soil characteristics, and existing biological communities affect outcomes. Start with small trials before full implementation and maintain detailed records. Connecting with experienced practitioners provides valuable guidance tailored to your context and goals.

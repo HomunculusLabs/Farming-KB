@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a powerful psychedelic tryptamine found naturally in several plant species and in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It is one of the most potent psychedelics known, producing intense, short-duration experiences often described as ego-dissolution or "the void." It has gained significant attention in clinical and ceremonial contexts for its potential in treating depression, anxiety, and addiction.
+5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a powerful psychedelic [[tryptamine]] found naturally in several plant species and in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It is one of the most potent psychedelics known, producing intense, short-duration experiences often described as ego-dissolution or "the void." It has gained significant attention in clinical and ceremonial contexts for its potential in treating depression, anxiety, and addiction.
 
 ## Natural Sources
 
@@ -22,7 +22,7 @@ The most famous source. The toad's parotoid glands secrete a milky venom contain
 ### Plant Sources
 
 - Virola species (V. theiodora, V. sebifera) — bark resin used by Amazonian tribes
-- Anadenanthera peregrina (yopo) — seeds contain 5-MeO-DMT alongside DMT and bufotenin
+- [[anadenanthera-peregrina]] (yopo) — seeds contain 5-MeO-DMT alongside DMT and bufotenin
 - Dictyoloma incanescens — bark
 - Various Phalaris grass species (trace amounts)
 

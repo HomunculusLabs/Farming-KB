@@ -1,0 +1,127 @@
+---
+title: HEPA Filter Selection and Testing for Mushroom Cultivation
+created: 2026-04-15
+updated: 2026-04-15
+type: concept
+tags: [reference]
+sources: []
+---
+# HEPA Filter Selection and Testing for Mushroom Cultivation
+
+HEPA (High Efficiency Particulate Air) filtration is the cornerstone of [[sterile-technique-mushroom-cultivation]] in mushroom cultivation. Understanding HEPA filter specifications, selection criteria, and testing methods is essential for building or purchasing an effective [[laminar-flow-hood-diy-construction]].
+
+## What HEPA Filters Do
+
+HEPA filters remove 99.99% of all airborne materials including dust, spores, mycelia, bacteria, and other particulate contamination. Room air is drawn through the filter and delivered as a sterile laminar stream into the working area of a [[comparison-laminar-flow-hood-vs-fruiting-chamber]].
+
+## HEPA Filter Standards and Classes
+
+### European Standard (EN 1822)
+
+| Class | Local Efficiency | Overall Efficiency |
+|-------|-----------------|-------------------|
+| H10 | 85% | 85% |
+| H11 | 95% | 95% |
+| H12 | 99.5% | 99.5% |
+| H13 | 99.95% | 99.95% |
+| **H14** | **99.995%** | **99.995%** |
+| U15 | 99.9995% | 99.9995% |
+| U16 | 99.99995% | 99.99995% |
+| U17 | 99.999995% | 99.999995% |
+
+For mushroom cultivation, **H14 class** is the recommended minimum. This removes 99.995% of particles at the Most Penetrating Particle Size (MPPS), typically 0.1-0.3 micrometers. Mushroom spores range from 5-20 micrometers, well within the capture range.
+
+### US Standard (DOE-STD-3020)
+
+US HEPA filters must capture 99.97% of particles 0.3 micrometers in diameter. This standard is roughly equivalent to the European H13 class.
+
+## Filter Types for Flow Hoods
+
+### Traditional Deep- Pleat HEPA
+
+The most common type for DIY [[laminar-flow-hood-diy-construction]]. Typically 6 inches (15 cm) deep with aluminium or cardboard separators between pleats. Dimensions commonly available:
+- 24" x 30" x 6" (61 x 76 x 15 cm)
+- 24" x 24" x 6" (61 x 61 x 15 cm)
+- 12" x 24" x 6" (30 x 61 x 15 cm)
+
+The Forister & Burger (UC Davis) construction used 24" x 30" x 6" HEPA filters at $220.00 for two filters (prices from the original paper, likely 1980s-1990s).
+
+### Mini-Pleat HEPA
+
+Thinner profile (2-4 inches) with much denser pleating and no separators. Advantages: lighter weight, more compact housing. Disadvantages: higher pressure drop, more expensive.
+
+## Sizing the Filter to the Blower
+
+The HEPA filter creates significant airflow resistance (pressure drop). Key relationships:
+
+```
+Required airflow (CFM or m³/h) = Filter face area × Desired face velocity
+Typical face velocity: 0.3-0.5 m/s (60-100 fpm)
+```
+
+The blower must be sized to overcome both the HEPA filter pressure drop (typically 150-250 Pa when clean) and the prefilter resistance. See [[laminar-flow-hood-diy-construction]] for detailed blower sizing calculations.
+
+## Prefilters
+
+A prefilter extends HEPA life by removing large particles before they reach the expensive HEPA media:
+
+- **Extended surface air filters** (as used in the Forister & Burger design): 16" x 20" x 2", available in cases of 6
+- **Washable foam pre-filters**: Reusable, lower initial cost
+- **Synthetic media prefilters**: Better filtration, disposable
+
+The Forister & Burger design used Dayton pre-filters housed between the blower and the HEPA filter.
+
+## Multi-Station Flow Hood Designs
+
+The Forister & Burger paper describes an innovative design connecting two laminar flow hoods to one blower via dryer vent hose:
+
+- **Fan housing**: Plywood box (3/4" thick, 4' x 8' sheet) housing a direct-drive blower (Dayton #5C094)
+- **Air distribution**: Top center panel with six 4" diameter holes connected to aluminium irrigation pipe hose attachments
+- **Connection**: Dryer vent hose and clamps connect the fan housing to each hood
+- **Switch**: Rotary switch (ELECTROSWITCH #21301A series 21) with custom recessed mounting
+
+This design allows one blower to serve multiple workstations, reducing overall cost. The motor is capable of driving additional outlets beyond the six described.
+
+## Open Petri Plate Contamination Testing
+
+The effectiveness of any laminar flow hood should be verified through contamination testing:
+
+1. Prepare nutrient agar plates ([[cotter-agar-tissue-culture-techniques]])
+2. Expose the open plates in the working area of the flow hood for a set time (5-30 minutes)
+3. Close the plates, label, and incubate at room temperature
+4. Check for colony growth after 3-7 days
+5. Compare with control plates exposed outside the hood
+
+A properly functioning hood should produce zero or near-zero colonies on test plates. Any colony growth indicates a filter leak, improper sealing, or contamination from the operator.
+
+## Cost Considerations
+
+The Forister & Burger cost analysis (for two hoods, one fan) provides a useful reference point, though prices have changed substantially:
+
+| Component Category | Original Cost | Notes |
+|-------------------|--------------|-------|
+| HEPA Filters (2) | $220.00 | 24" x 30" x 6" |
+| Plywood & lumber | $61.00 | 3/4" and 1/4" plywood, pine |
+| Blower | $185.00 | Dayton #5C094 direct-drive |
+| Plexiglass | $110.00 | Clear, 1/4" thick |
+| Hardware & misc. | $227.00 | Screws, glue, paint, hose, clamps |
+| **Total** | **$903.00** | Two hoods, one blower |
+
+Modern equivalents would cost significantly more due to inflation, but the proportional breakdown remains useful for budgeting.
+
+## Filter Lifespan and Replacement
+
+- HEPA filters typically last 3-5 years with regular prefilter maintenance
+- Prefilters should be checked monthly and replaced when visibly dirty or every 6-12 months
+- Never wash a HEPA filter -- water damages the glass fibre media
+- A differential pressure gauge across the filter can indicate when replacement is needed (replace when pressure drop reaches 2x the clean rating)
+
+## See Also
+
+- [[laminar-flow-hood-diy-construction]] — complete DIY construction guide
+- [[laminar-flow-hood-guide]] — laminar flow hood usage and protocol
+- [[mushroom-laminarar-flow-hood]] — laminar flow hood overview
+- [[mushroom-cultivation-sterile-technique]] — sterile technique principles
+- [[mushroom-sterile-technique-detailed]] — detailed sterile procedures
+- [[contamination-identification-prevention]] — contamination identification and prevention
+- [[agar-work-guide]] — agar work in the flow hood

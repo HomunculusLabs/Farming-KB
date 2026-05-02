@@ -78,3 +78,7 @@ Despite these criticisms, McKenna's work has been enormously influential in popu
 - [[psychedelic-plants-in-ancient-cultures]] for historical evidence
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic practice
 - [[ayahuasca-preparation-and-ceremony]] for McKenna's Amazon experiences
+
+## Historical Context
+
+This approach emerged from decades of field observation and experimentation. Early practitioners documented results through careful record-keeping, building empirical evidence later validated by controlled studies. The methodology has evolved considerably, incorporating insights from soil science, microbiology, and ecology. Modern practitioners benefit from both traditional knowledge and contemporary scientific understanding.

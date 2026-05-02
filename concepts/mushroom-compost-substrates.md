@@ -22,9 +22,13 @@ sources:
 
 Compost preparation for Agaricus (button mushroom) cultivation from Stamets' Mushroom Cultivator. For grain spawn, wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
 
+
+
 ## Purpose of Composting
 
 The composting process prepares a nutritious medium that promotes mushroom mycelium growth while excluding competitors: (1) creates physically and chemically homogeneous substrate, (2) creates a selective substrate where mushroom mycelium thrives over competitors, (3) concentrates nutrients for mushrooms while exhausting nutrients favored by competitors, (4) removes heat-generating capabilities. Divided into Phase I (outdoor mixing/decomposition) and Phase II (indoor pasteurization/conditioning).
+
+
 
 ## Compost Formulas (Stamets)
 
@@ -48,6 +52,8 @@ The composting process prepares a nutritious medium that promotes mushroom mycel
 
 Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed during composting (20-30% in Phase I, 10-15% in Phase II).
 
+
+
 ## Supplement Groups (Stamets)
 
 - **Group I** (high N, no organic matter): Ammonium sulfate (21% N), ammonium nitrate (26% N), urea (46% N) — max 25 lbs/dry ton. Not for horse manure composts.
@@ -55,11 +61,15 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 - **Group IV** (low N, high carb — temperature boosters): Grape pomace, sugar beet pulp, cottonseed hulls — add at 250 lbs/dry ton
 - **Gypsum**: Essential at 50-100 lbs/dry ton. Aggregates colloidal particles (better aeration), increases water holding capacity, counteracts harmful K/Mg/P/Na concentrations, supplies calcium for mushroom metabolism.
 
+
+
 ## C:N Ratio Targets
 
 - 30:1 at pile make-up → 20:1 at filling → 17:1 at spawning
 - Over-supplementation with nitrogen = prolonged ammonia release (compost unsuitable for mycelium)
 - Over-supplementation with carbohydrates = residual carbon compounds feed competitors
+
+
 
 ## Moisture Targets
 
@@ -67,6 +77,8 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 - Synthetic compost: 71-73% moisture
 - Overwetting (75%+) = anaerobic; underwetting (67%-) = insufficient thermogenesis
 - Pre-wetting methods: dipping, spraying, flat pile with sprinkler (2-3 ft high)
+
+
 
 ## See Also
 

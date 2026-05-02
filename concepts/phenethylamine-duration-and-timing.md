@@ -113,4 +113,4 @@ Shulgin's documentation implicitly emphasizes the importance of duration awarene
 | MD (methylenedioxy) | 4-12 hours | Alpha-methylation, N-substitution |
 | Mescaline analogues | 8-12 hours | Ring substitution pattern |
 
-See also: [[shulgin-dosage-guidelines]], [[psychedelic-mushroom-set-and-setting]], [[2c-family-compounds-overview]], [[dob-compound-profile]], [[phenethylamine-duration-and-timing]]
+See also: [[shulgin-dosage-guidelines]], [[psychedelic-mushroom-set-and-setting]], [[2c-family-compounds-overview]], [[dob-compound-profile]], phenethylamine duration and timing

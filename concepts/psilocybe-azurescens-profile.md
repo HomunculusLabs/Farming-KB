@@ -10,15 +10,21 @@ sources:
 
 # Psilocybe azurescens Profile
 
+
+
 ## Overview
 
 Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms known, first identified by Paul Stamets and Jochen Gartz along the northern Oregon coast near Astoria. Common names include "Astoriensis," "flying saucer mushroom," and "indigo Psilocybe."
+
+
 
 ## Taxonomy
 
 - **Species**: Psilocybe azurescens Stamets and Gartz
 - **Genus**: Psilocybe
 - **Family**: Hymenogastraceae
+
+
 
 ## Macroscopic Features
 
@@ -30,6 +36,8 @@ Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms k
 - **Odor**: None to slightly farinaceous.
 - **Spore print**: Dark purplish brown to purplish black.
 
+
+
 ## Microscopic Features
 
 - **Spores**: 12-13.5 x 6.5-8 micrometers, ellipsoid, dark purplish black in deposit.
@@ -38,14 +46,18 @@ Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms k
 - **Cheilocystidia**: Similar to pleurocystidia, 23-28 x 6.5-8 micrometers.
 - **Notable**: Tissue notably awash with bluish tones.
 
+
+
 ## Potency
 
 One of the most potent psilocybin mushrooms in the world:
 - Up to 1.78% psilocybin
 - 0.38% psilocin
-- 0.35% baeocystin
+- 0.35% [[baeocystin]]
 
 After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with Psilocybe semilanceata.
+
+
 
 ## Habitat and Distribution
 
@@ -55,6 +67,8 @@ After six months of storage, analyses revealed that this species retained most o
 - **Fruiting season**: Late September through late December and early January. A cold weather-tolerant species that fruits well after the first frost.
 - **Cultivation**: Outdoor beds have been established with ease in the United States.
 
+
+
 ## Distinguishing Features
 
 - Extremely strong bluing reaction -- flesh becomes indigo black where damaged.
@@ -63,8 +77,18 @@ After six months of storage, analyses revealed that this species retained most o
 - Broad but pronounced umbo.
 - Extremely bitter taste.
 
+
+
 ## Related Species
 
 - Psilocybe cyanescens -- similar but smaller, with characteristically wavy cap margin
 - Psilocybe semilanceata -- shares high baeocystin content
 - Psilocybe subaeruginosa, Psilocybe serbica, Psilocybe venenata
+
+## See Also
+
+- [[psilocybe-stuntzii-profile]]
+- [[psilocybe-baeocystis-profile]]
+- [[stamets-psylo-psilocybe-azurescens]]
+- [[psilocybe-pelliculosa-profile]]
+- [[stamets-psi-psilocybe-azurescens-species-guide]]

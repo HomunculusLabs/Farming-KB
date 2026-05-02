@@ -1,0 +1,134 @@
+---
+title: Psilocybe stuntzii Blue Ringers Guide
+tags: [mycology, psilocybe, species-guide, pacific-northwest]
+date: 2026-04-25
+updated: 2026-04-25
+sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
+---
+
+# Psilocybe stuntzii Blue Ringers Guide
+
+## Overview
+
+Guzman and Ott, commonly known as "Stuntz's
+Psilocybe," "Stuntz's blue legs," or "blue ringers," is a
+wood-inhabiting psilocybin mushroom of the Pacific Northwest. Named in
+honor of Dr. Daniel Stuntz, who made the type collections, this
+species is particularly notable for its whitish partial veil that
+bruises bluish or is bluish tinged. P. stuntzii is one of the more
+common bluing Psilocybes found in the Pacific Northwest, often fruiting
+in prodigious colonies. The species is also known by the synonym
+Harris.
+
+## Macroscopic Features
+
+**Cap:** 1.5-5 cm broad. Obtusely conic at first, soon expanding to
+convex to broadly convex-umbonate to nearly flattened or plane, with
+the margin uplifting in very mature fruiting bodies. Margin
+translucent-striate halfway to the disc when moist; decurved, then
+straightening, and finally elevated, undulating, and often eroded in
+extreme age. Dark chestnut brown, lighter towards the margin, which is
+often olive greenish; hygrophanous, fading to more yellowish brown to
+pale yellow in drying. Some varieties tend to be more olive yellowish
+brown and are not very hygrophanous. Context relatively thin, watery
+brown or nearly concolorous with the cap. Surface viscid when moist
+from a separable gelatinous pellicle.
+
+**Gills:** Attachment adnate to adnexed, close to subdistant,
+moderately broad, with three tiers of intermediate gills. Color pallid
+in young fruiting bodies, soon becoming more brownish and eventually
+very dark brown with spore maturity.
+
+**Stem:** 30-60 mm long by 2-4 mm thick. Subequal, slightly enlarged at
+the apex and often curved, twisted and inflated at the base. Dingy
+yellow to pale yellowish brown. Surface dry, covered with pallid
+appressed fibrils to the annulus, and smooth above. Context stuffed
+with a fibrous whitish pith. Partial veil thinly membranous, typically
+streaked bluish, leaving a fragile membranous annulus as the cap
+expands, which soon deteriorates into a fairly persistent annular zone
+darkened by spores. Stem often with rhizomorphs protruding about the
+base.
+
+## Microscopic Features
+
+Spores are dark purplish grayish brown in deposit, subellipsoid in
+side view, subrhomboid in face view, (8) 9-10.5 (13.5) by 5.5-7.5
+microns. Basidia are 4-spored. Pleurocystidia are absent.
+Cheilocystidia measure 22-30 by 4.4-6.6 microns, lageniform,
+fusoid-ampullaceous, or fusiform-lanceolate with an elongated and
+flexuous neck 1-2.2 microns thick.
+
+## Habitat and Distribution
+
+P. stuntzii grows in gregarious to subcespitose clusters on conifer
+wood chips, in soils rich with woody debris, in newly placed lawns and
+fields, along roads and paths, and in gardens. Common in the fall to
+early winter, and to a minor degree in the spring. Abundant within
+ninety kilometers of coastal regions, especially in Oregon,
+Washington, and British Columbia.
+
+This mushroom often fruits in prodigious colonies and has benefited
+from landscaping practices that introduce wood chips into garden and
+urban environments. The species is closely associated with disturbed
+habitats where woody debris has been recently deposited.
+
+## Potency
+
+Weakly to moderately active. Reported alkaloid concentrations:
+- Beug and Bigwood (1982b): range of 0-0.36% psilocybin, 0-0.12%
+ psilocin
+- Repke et al. (1977): 0.02% baeocystin
+
+By weight, P. stuntzii is one of the less potent of the bluing
+Psilocybes. However, its tendency to fruit in large colonies can
+compensate for the lower individual potency.
+
+## Distinguishing Features
+
+The most characteristic feature of this species is its whitish, partial
+veil that bruises bluish or is bluish tinged. The field variety, which
+is slender and paler, is recognized as P. stuntzii var. tenuis. The P.
+stuntzii group encompasses a great variety of forms growing in varied
+habitats, making it a taxonomically complex group.
+
+## Danger: [[galerina-autumnalis]] Confusion
+
+, a deadly mushroom, has the same overall
+appearance as P. stuntzii and would look identical to a color-blind
+person. The orangish brown cap and rusty brown spores are the major
+differences visible to the unaided eye. Stamets emphasizes that this
+similarity is extremely dangerous and that foragers must be thoroughly
+familiar with both species before attempting to collect P. stuntzii.
+
+## Related Species
+
+- - Japanese species in the same group
+- - more potent Pacific Northwest species
+- - conifer-inhabiting relative
+- - wood-chip inhabiting species
+- - deadly look-alike
+
+## Taxonomic Notes
+
+Two taxonomically similar species are,
+reported from Uruguay and Brazil, and, collected
+in Oaxaca, Mexico. The P. stuntzii group is part of a larger complex
+of wood-inhabiting Psilocybes that includes species from North America,
+Central America, South America, and Asia, suggesting an ancient and
+widely distributed lineage.
+
+## See Also
+
+- [[psilocybe-stuntzii]]
+
+- [[stamets-psylo-psilocybe-stuntzii]]
+
+- [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
+- [[stamets-psi-psilocybe-mexicana-species-guide]]
+- [[stamets-psi-psilocybe-cubensis-species-guide]]
+
+- - deadly look-alike genus and safety guidelines
+- - indicator of psilocin presence
+- - comprehensive field identification
+- - comparative data across species
+

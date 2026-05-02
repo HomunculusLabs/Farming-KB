@@ -148,48 +148,8 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 ### Field Collection
 - Myxomycetes: collect fruiting bodies from natural substrata; store in boxes with glued substrata
 - Preserve as dried specimens or permanent slide mounts
-- Photograph in situ when possible
 
-### Culture Methods
-- Protostelids and dictyostelids require culture for identification
-- Bait with bacteria (Escherichia coli) on weak nutrient agar
-- Soil/litter samples plated; emerging colonies documented over time
-- ATCC and specialized collections maintain living cultures
+## See Also
+Related: [[leaf-litter-microfungal-diversity-tropical-temperate]], [[tropical-vs-temperate-fungal-diversity-patterns]]
 
-### Substrata by Group
-
-| Group | Dead plant parts | Litter | Soil | Bark | Dung | Rotting wood |
-|-------|-----------------|--------|------|------|------|-------------|
-| Protostelids | +++ | +++ | + | +++ | + | ++ |
-| Myxomycetes | ++ | +++ | +++ | ++ | ++ | +++ |
-| Dictyostelids | * | ++ | +++ | * | +++ | * |
-| Acrasis | +++ | - | - | + | - | - |
-| Pocheina | - | - | - | +++ | - | * |
-| Copromyxa | - | - | - | - | ++ | - |
-
-(+ = occasional, ++ = common, +++ = abundant, * = very rare, - = absent)
-
-## Ecological Significance
-
-- Major bacterial predators in soil and litter ecosystems
-- Food source for specialized mycetophagous invertebrates
-- Contribute to nutrient cycling by regulating bacterial populations
-- Myxomycete plasmodia concentrate and redistribute nutrients
-- Dictyostelids are model organisms for studying cell differentiation and chemotaxis
-- Can be major components of agricultural soils (Feest 1987)
-
-## Conservation and Research Needs
-
-- Many species remain undescribed (especially protostelids in tropics)
-- Tropical mycetozoan fauna poorly documented
-- Long-term monitoring studies needed to assess seasonal and annual variation
-- Molecular phylogenetics reshaping understanding of relationships within and between groups
-- Climate change effects on mycetozoan communities unknown
-
-## Related Topics
-
-- [[fungal-biodiversity-biogeography]] — Global diversity patterns
-- [[fungal-ecology]] — Fungal ecology overview
-- [[soil-food-web-nutrient-cycling]] — Soil ecosystem processes
-- [[fungal-ecosystem-roles]] — Fungal roles in ecosystems
-- [[coprophilous-fungi]] — Dung-inhabiting mycetozoans
+- [[mycetozoans-slime-molds]]

@@ -27,9 +27,29 @@ sources:
 
 Psychiatrist and researcher at Harvard Medical School and McLean Hospital's Biological Psychiatry Laboratory. Specialist in hallucinogen pharmacology and the religious use of psychoactive plants in the United States. Published in Pharmacology & Therapeutics and the Journal of Psychoactive Drugs.
 
+
+
+
+
+
+
+
+
+
+
 ## Research Focus
 
 Halpern's 2004 paper "Hallucinogens and Dissociative Agents Naturally Growing in the United States" (Pharmacology & Therapeutics, 102:131-138) is the most comprehensive survey of legally obtainable psychoactive plants in the US. The paper systematically reviews plants containing N,N-dimethyltryptamine (DMT), reversible type A monoamine oxidase inhibitors (MAOI), lysergic acid amide, atropine and scopolamine, and salvinorin-A (Salvia divinorum). It also covers mescaline-containing cacti, psilocybin/psilocin mushrooms, and Amanita muscaria and Amanita pantherina mushrooms containing muscimol and ibotenic acid.
+
+
+
+
+
+
+
+
+
+
 
 ## Key Research Contributions
 
@@ -39,9 +59,29 @@ Halpern's 2004 paper "Hallucinogens and Dissociative Agents Naturally Growing in
 - **Geographic distribution:** Documented the geographic ranges, drug content, preparation methods, and intoxication profiles of psychoactive plants growing wild across the United States
 - **Internet-era foraging:** Noted that "through the ever-expanding dissemination of information via the Internet" knowledge of psychoactive plant identification and preparation is being obtained by more individuals, increasing both access and risk
 
+
+
+
+
+
+
+
+
+
+
 ## Connection to the Harvard Psychedelic Tradition
 
 Halpern's position at Harvard Medical School and McLean Hospital places him in the institutional lineage of the Harvard Psilocybin Project of the 1960s ([[timothy-leary]], [[ralph-metzner]], Richard Alpert), though his approach is far more conservative and clinically oriented. His research on religious freedom and psychoactive sacraments was cited by [[ralph-metzner]] in discussions of syncretic religious movements using entheogenic plants.
+
+
+
+
+
+
+
+
+
+
 
 ## See Also
 

@@ -9,11 +9,23 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 # MDOI Compound Profile
 
+
+
+
+
+
+
 ## Chemical Identity
 
 **MDOI**: 3,4-Methylenedioxyoxyamphetamin e, also known as 2,5-dimethoxy-3,4-methylenedioxyamphetamine. The compound carries both methoxy groups and a methylenedioxy bridge on the amphetamine ring, making it a hybrid of the DO and MD chemical families.
 
 Molecular formula: C12H17NO4
+
+
+
+
+
+
 
 ## Dosage
 
@@ -22,9 +34,21 @@ Molecular formula: C12H17NO4
 - **Common:** 25-40 mg
 - **Strong:** 40-60 mg
 
+
+
+
+
+
+
 ## Duration
 
 Effective duration: 8-12 hours.
+
+
+
+
+
+
 
 ## Qualitative Effects
 
@@ -35,13 +59,31 @@ Shulgin's qualitative notes describe MDOI as a compound with moderate psychedeli
 - A generally clear-headed experience
 - Extended duration typical of alpha-methylated compounds
 
+
+
+
+
+
+
 ## SAR Context
 
 MDOI is an example of Shulgin's systematic exploration of substitution patterns. By combining the 2,5-dimethoxy pattern (found in the DO family) with the 3,4-methylenedioxy pattern (found in the MD family), the compound tests whether these two productive pharmacophores can coexist and produce novel activity. The results suggest moderate activity but no dramatic synergy between the two patterns.
 
+
+
+
+
+
+
 ## Pharmacology
 
 As a ring-substituted amphetamine, MDOI likely acts as a serotonin receptor agonist (particularly 5-HT2A) and as a monoamine releaser. The combination of methoxy and methylenedioxy substituents creates a more complex receptor interaction profile than either pattern alone. See [[phenethylamine-receptor-pharmacology]].
+
+
+
+
+
+
 
 ## Comparison to Related Compounds
 

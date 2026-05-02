@@ -1,0 +1,136 @@
+---
+title: "The Plant Kingdom and Hallucinogenic Plants"
+tags:
+  - ethnobotany
+  - plant-kingdom
+  - classification
+  - botany
+  - schultes
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md"
+---
+
+# The Plant Kingdom and Hallucinogenic Plants
+
+## Linnaean Classification and the Rise of Botany
+
+Before the eighteenth century, there was really no logical or widely
+accepted classification or naming of plants. They were known in Europe
+by vernacular names current in the various countries and were referred
+to technically in Latin by cumbersome descriptive phrases, often
+several words long. The invention of printing and movable type in the
+middle of the 1400s stimulated the production of herbals -- botanical
+books mainly on medicinal plants. The so-called Age of Herbals, from
+about 1470 to 1670, led to the freeing of botany and medicine from the
+ancient concepts of Dioscorides and other classical naturalists that
+shaped Europe for some sixteen centuries.
+
+It was not until the eighteenth century that Carolus Linnaeus (Carl
+von Linne), a Swedish naturalist-physician and professor at the
+University of Uppsala, offered the first comprehensive and scientific
+system of classification and nomenclature for plants in his monumental
+1,200-page book *Species Plantarum*, published in 1753. Linnaeus
+grouped plants according to his "sexual system" -- a simple system of
+twenty-four classes based primarily on the number and characteristics
+of the stamens. He gave each plant a generic and a specific name,
+resulting in a binomial nomenclature.
+
+While his sexual classification is no longer followed, his binomial
+nomenclature is now universally accepted, and botanists have agreed on
+the year 1753 as the starting point of current nomenclature. Linnaeus
+calculated the size of the Plant Kingdom as 10,000 or fewer species.
+By 1847, the British botanist John Lindley increased the estimate to
+nearly 100,000 species in 8,900 genera.
+
+## Major Divisions of the Plant Kingdom
+
+Modern estimates of plant diversity vary from 280,000 to 700,000
+species. The higher figures are generally accepted by botanists whose
+research is centered in the still only superficially explored tropical
+regions. Hallucinogenic species occur among the highest-evolved
+flowering plants (angiosperms) and in the fungi.
+
+### Fungi
+
+Modern specialists estimate the fungi at between 30,000 and 100,000
+species. One mycologist suggests that the total figure might reach
+200,000. Almost all antibiotics in wide use are derived from fungi.
+Hallucinogenic compounds may be widespread in the fungi, but those
+that have been of importance in human affairs belong to the
+ascomycetes ([[plants-of-the-gods-claviceps-ergot-alkaloids]])
+and the basidiomycetes (various mushrooms including
+[[schultes-psilocybe-little-flowers-gods]] and
+[[plants-of-the-gods-conocybe-psychoactive-mushrooms]]).
+
+### Algae and Lichens
+
+All algae are aquatic, more than half being marine. This varied group
+is believed to comprise from 19,000 to 32,000 species, with blue-green
+algae (Collenia) representing the oldest known form of life on Earth,
+dating from one to more than three billion years of age. Algae and
+lichens have not yet yielded any confirmed hallucinogenic species,
+though persistent reports of hallucinogenic lichens employed in
+northwesternmost North America exist. In South America, a lichen
+(Dictyonema) is used as a psychoactive.
+
+### Bryophytes and Pteridophytes
+
+Bryophytes (mosses and liverworts) have been phytochemically
+neglected and have given little hope as sources of biodynamic compounds.
+Pteridophytes (ferns) number 12,000 to 15,000 species. Some ferns
+appear to be bioactive, and a recent survey of 44 Trinidadian ferns
+indicated 77 percent had antibacterial activity. No hallucinogenic
+constituents have yet been discovered in ferns, although several are
+employed in South America as additives to [[schultes-ayahuasca-magic-drink-amazon]].
+
+### Spermatophytes
+
+Seed-bearing plants dominate the earth's land flora. Gymnosperms
+(cone-bearing plants) constitute a small group of some 675 species
+and are known primarily as the source of ephedrine and the toxic
+taxine. Angiosperms (flowering plants) are the principal group,
+with estimates ranging from 200,000 to 500,000 species in 300 families.
+Almost all hallucinogens used by man, as well as other narcotics,
+belong to this group.
+
+## Biodynamic Potential Across the Plant Kingdom
+
+Each species is a veritable chemical factory. Although indigenous
+societies have discovered many medicinal, toxic, and narcotic
+properties in their ambient vegetation, there is no reason to presume
+that their experimentation has brought to light all the psychoactive
+principles hidden in these plants. Undoubtedly new hallucinogens are
+lurking in the Plant Kingdom and, in them, possible constituents of
+extreme interest to modern medical practice. The angiosperms
+themselves have been merely superficially examined. It is clear that
+the Plant Kingdom represents an only partially studied emporium of
+biodynamic principles.
+
+## Key Plant Families with Hallucinogenic Species
+
+Among the angiosperms, several families are particularly rich in
+hallucinogenic species:
+
+- **Solanaceae** (Nightshade family): [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]],
+  [[schultes-datura-holy-flower-north-star]], [[schultes-henbane-hyoscyamus-oracle-delphi]],
+  [[schultes-mandrake-mandragora-officinarum]], [[plants-of-the-gods-brugmansia-angels-trumpet]]
+- **Cactaceae** (Cactus family): [[schultes-peyote-and-mescaline]], [[schultes-san-pedro-four-winds]]
+- **Convolvulaceae** (Morning Glory family): [[plants-of-the-gods-turbina-corymbosa-ololiuqui]],
+  [[schultes-morning-glory-ipomoea-seeds]]
+- **Malpighiaceae** (Malpighia family): [[schultes-ayahuasca-magic-drink-amazon]],
+Tetrapteris methystica (yage)
+- **Apocynaceae** (Dogbane family): [[plants-of-the-gods-tabernanthe-iboga]]
+- **Leguminosae** (Pea family): [[plants-of-the-gods-anadenanthera-yopo-cebil]],
+  [[schultes-syrian-rue-seeds-civilization]]
+- **Myristicaceae** (Nutmeg family): [[plants-of-the-gods-virola-epena-snuff]]
+- **Cannabaceae**: [[plants-of-the-gods-cannabis-ancient-cultures]]
+
+## See Also
+
+- [[the-aware-plant-plant-consciousness-debate]]
+
+- [[plants-of-the-gods-mushroom-stone-artifacts]]
+- [[plants-of-the-gods-erythroxylum-coca]]
+- [[plants-of-the-gods-piper-methysticum-kava]]

@@ -1,0 +1,146 @@
+---
+title: Food Forest Succession and Year-Round Eating
+created: 2026-04-18
+updated: 2026-04-21
+type: concept
+tags: [permaculture, gardening, urban-agriculture]
+sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
+---
+
+# Food Forest Succession and Year-Round Eating
+
+[[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] mature through ecological succession, and the skilled permaculture gardener designs for [[pdc-food-forest-layers-and-succession]] at every stage. Successional eating means selecting crops and varieties that ripen in sequence, ensuring that something is always ready to harvest.
+
+## Successional Eating: No Hungry Seasons
+
+By growing many different kinds of things, a diverse food system guarantees eating well year-round. When onion season is over, leek season is just beginning. When the kale starts going to seed, the first heads of lettuce are ready to harvest. In a well-designed orchard, early, mid, and late season apple trees grow right next to each other, extending the fresh fruit harvest from mid-summer through late autumn.
+
+The key principle: never rely on a single crop or single harvest window. Diversity is all about stability and abundance -- the important stuff. If this was an industrial monocrop farm, the community would have to ship in tons of food or things would get really boring.
+
+## Early, Mid, and Late Varieties
+
+Most fruit and vegetable species have been bred into early, mid, and late season varieties. By planting all three, a gardener extends the harvest window without increasing the number of beds or trees:
+
+**Apples:**
+- Early season (summer) -- Lodi, Yellow Transparent, Pristine
+- Mid season (early autumn) -- Gala, Honeycrisp, Granny Smith
+- Late season (late autumn/winter) -- Fuji, Braeburn, Winesap
+
+**Stone fruits:**
+- Early cherries in June, mid-season peaches in July, late plums in September
+
+**Vegetables:**
+- Early potatoes, mid-season potatoes, late storage potatoes
+- Spring-sown and fall-sown brassicas for year-round greens
+
+The principle applies to every crop category. Planting a range of varieties is one of the simplest and most effective strategies for food security.
+
+## Seasonal Succession Planning
+
+A year-round eating plan follows the natural rhythm of seasons:
+
+**Spring:** Asparagus, radishes, spinach, peas, early lettuce, onions from storage, overwintered kale going to seed (harvest flower buds like broccoli)
+
+**Early summer:** Strawberries, cherries, early apples, zucchini, beans, tomatoes starting, herbs at peak
+
+**Mid-summer:** Stone fruits, main-season apples, tomatoes, peppers, eggplant, cucumbers, corn, beans
+
+**Late summer/early autumn:** Grapes, pears, late apples, winter squash, root crops, drying herbs
+
+**Autumn:** Late apples, persimmons, nuts, pumpkins, root vegetables in storage, kale and brassicas after frost sweetens them
+
+**Winter:** Stored root crops (potatoes, carrots, beets, turnips), stored squash, canned goods, frozen vegetables, dried herbs and fruits, winter greens (kale, collards, Brussels sprouts, mache, claytonia)
+
+## Preservation Strategies
+
+With canning, drying, and freezing, there is no problem eating jam, pesto, and all sorts of other goodies all year round. No one ever goes hungry around a well-managed permaculture site. Preservation extends the harvest and creates food security:
+
+**Canning:**
+- Tomato sauce, salsa, jam, jelly, pickles, chutney, relish
+- Pressure canning for low-acid vegetables (beans, corn, carrots)
+- Fruit preserves capture the abundance of summer for winter eating
+
+**Drying/Dehydrating:**
+- Herbs (easy, high value, stores for years)
+- Fruit (apples, pears, berries, stone fruits)
+- Tomatoes (sun-dried or dehydrated)
+- Jerky from meat animals on the farm
+
+**Freezing:**
+- Blanch and freeze vegetables (beans, peas, corn, greens)
+- Berries freeze well for smoothies and baking
+- Cooked dishes (soups, stews, pesto in ice cube trays)
+
+**Root cellaring:**
+- Potatoes, carrots, beets, turnips, parsnips store for months in cool, humid conditions
+- Winter squash stores at room temperature for months
+- Onions and garlic hang in mesh bags
+
+**Fermentation:**
+- Sauerkraut, kimchi, pickles -- probiotic preservation
+- Wine, cider, mead from fruit
+- Miso, tempeh, soy sauce from beans
+
+## Successional Planting in the Garden
+
+Beyond variety selection, successional planting techniques extend harvests:
+
+- **Succession sowing** -- plant small batches of lettuce, radishes, and beans every 2-3 weeks for continuous harvest
+- **Intercropping** -- fast-maturing crops (radishes) between slow-maturing ones (carrots); harvest the radishes before the carrots need the space
+- **Relay planting** -- plant the next crop before the current one is finished (transplant fall brassicas under summer tomatoes)
+- **Cut-and-come-again** -- harvest outer leaves of lettuce, chard, and kale so the plant keeps producing
+
+## Forest Succession: From Bare Ground to Mature Food Forest
+
+A food forest passes through predictable successional stages:
+
+**Year 1-2: Pioneer phase**
+- Soil building with sheet mulch, cover crops, and green manures
+- Fast-growing annuals and short-lived perennials
+- Nitrogen-fixing trees and shrubs establish the nitrogen economy
+- [[comparison-sheet-mulching-vs-chop-and-drop]] builds organic matter rapidly
+
+**Year 3-5: Establishment phase**
+- Fruit trees and berry bushes begin producing
+- Perennial vegetables and herbs fill the herbaceous layer
+- Nitrogen fixers still dominant but fruit trees growing fast
+- Canopy begins to close, creating shade for understory species
+
+**Year 5-15: Productive phase**
+- Fruit and nut trees in full production
+- Diverse [[mollison-permaculture-two-earth-houses-plant-shelters]] are self-maintaining
+- Ground covers suppress weeds without intervention
+- System produces more than it consumes
+
+**Year 15+: Mature phase**
+- Full canopy closure, maximum diversity
+- Self-seeding and natural propagation maintain plant populations
+- Minimal input required -- the system manages itself
+- Focus shifts to harvesting, processing, and preservation
+
+## Urban Food Forest Succession
+
+Urban food forests follow the same principles at smaller scale:
+
+- Start with fast-producing annuals and herbs while fruit trees establish
+- Plant berries and small fruits that produce within 1-3 years
+- Include nitrogen-fixing shrubs (butterfly bush, Russian olive, seaberry)
+- Layer plantings vertically: tree canopy, shrub layer, herbs, ground covers, root crops
+- Replace annual beds with perennials over time as soil improves
+- Use containers and vertical structures to add growing space
+
+The goal is a landscape that feeds you through every season, with preservation strategies filling the gaps between fresh harvests. Diversity ensures that no single crop failure causes food insecurity.
+
+## See Also
+
+- [[pdc-food-forest-layers-and-succession]]
+- [[permaculture-forest-garden-design]]
+- [[forest-garden-design-principles]]
+- [[comparison-sheet-mulching-vs-chop-and-drop]]
+- Nitrogen-Fixing Plants Guide
+
+---
+Updated: 2026-04-18
+- [[urban-permaculture-nitrogen-fixing-green-manures]]
+- [[gaias-garden-cover-crops-soil-building]]
+- [[gaias-garden-fruit-tree-selection]]

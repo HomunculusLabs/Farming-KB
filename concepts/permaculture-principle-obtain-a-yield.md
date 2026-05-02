@@ -14,9 +14,21 @@ The third of David Holmgren's twelve permaculture design principles. This princi
 
 > "The yield of a system is theoretically unlimited (or only limited by the imagination and information of the designer)." — David Holmgren
 
+
+
+
+
+
+
 ## Core Concept
 
 Holmgren frames this principle around the concept of the "yield" as the real surplus produced by a system after accounting for the costs of maintaining it. Too many sustainable design projects fail because they do not produce adequate real yields — they may be environmentally noble but economically unviable. The principle insists that we ensure our designed systems actually deliver useful products and services.
+
+
+
+
+
+
 
 ## The Maximum Power Principle
 
@@ -24,11 +36,23 @@ Holmgren draws on Howard T. Odum's Maximum Power Principle, which states that sy
 
 The challenge is to define "yield" broadly. Holmgren argues that industrial measures of productivity (tonnes per hectare, dollars per hour) are too narrow. A permaculture yield includes food, fiber, fuel, water, habitat, beauty, education, community, and resilience.
 
+
+
+
+
+
+
 ## Meaningful Work
 
 Holmgren connects the concept of yield to meaningful work. When people obtain real, tangible yields from their efforts — growing food, building shelter, generating energy — the work itself becomes meaningful and sustaining. This contrasts with industrial economy where many workers produce abstract outputs disconnected from fundamental needs.
 
 A yield that provides for genuine needs is also more resilient. Households and communities that can meet their own basic needs are less vulnerable to supply chain disruptions and economic shocks.
+
+
+
+
+
+
 
 ## Types of Yields
 
@@ -39,13 +63,31 @@ Holmgren identifies several categories of yield that permaculture systems should
 - **Cultural yields**: Beauty, education, recreation, spiritual connection, community — the human wellbeing factors
 - **Financial yields**: Income from surplus production, reduced costs from self-reliance
 
+
+
+
+
+
+
 ## Self-Reliance Through Yield
 
 Self-reliant households and gardens are, almost by definition, on a human scale: the tasks and available yields fit the capacities and needs of people. Holmgren notes that self-reliance demands diversity of crops to provide nutrition, variety, and insurance against failure. This connects directly to [[permaculture-principle-use-and-value-diversity]].
 
+
+
+
+
+
+
 ## Wild and Marginal Yields
 
 Holmgren discusses the value of yields from wild and marginal systems — foods, medicines, and materials from hedgerows, woodlands, and edges that require little labor to maintain. These marginal yields are often ignored or undervalued but can be critical during times of shortage. See [[permaculture-principle-use-edges-and-value-the-marginal]].
+
+
+
+
+
+
 
 ## Connections
 

@@ -1,0 +1,134 @@
+---
+title: JADAM Cover Crop Method and Wild Grass Symbiosis
+created: 2026-04-18
+updated: 2026-04-18
+type: concept
+tags: [jadam, cover-crop, soil, organic]
+sources:
+  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
+---
+
+JADAM's cover crop method transforms the relationship between farmers and wild grass from antagonistic to symbiotic. Rather than viewing grass as a competitor to be eliminated, JADAM treats it as a partner that provides organic matter, mineral mining, temperature regulation, and disease suppression.
+
+## Core Philosophy
+
+JADAM rejects the conventional view that weeds absorb all water and nutrients meant for crops and cause disease. While this may be partially true in the short term (1-2 years), observation over 4-5 years reveals the opposite: fields with wild grass become more moist, more fertile, and have less disease.
+
+The key is management, not elimination. Leave space between crop rows so grass can grow without competing, then cut the grass to mulch the soil surface.
+
+## Benefits of Cover Crop and Wild Grass
+
+### 1. Prevents Early Flowering
+
+Global warming causes rapid spring temperature rises, triggering fruit trees to flower too early. This produces poor quality pollen and failed pollination.
+
+Cover crop solution:
+- Sow grass seeds around October, before fruit trees drop their leaves
+- Grass sprouts before leaves fall, trapping fallen leaves between the grass stems
+- Fallen leaves contain a full year's worth of nutrients pulled from deep soil
+- The grass cover moderates soil temperature, preventing premature root warming
+- The trapped leaves decompose within one year, returning all nutrients to the soil
+
+Without grass cover, fallen leaves blow away -- representing a tremendous loss of nutrition.
+
+### 2. Prevents Chilling and Freezing Damage
+
+Cover crop raises soil temperature through microbial activity. Grass provides nutrition and air to the soil, increasing microorganism populations. More microbes generate more biological heat, keeping soil warmer through winter.
+
+The mechanism: warmer soil allows roots to continue absorbing nutrients through autumn. Wood sap continues flowing, and sugar content (Brix) of the sap increases. Higher Brix raises the freezing point of the sap, physically equipping the tree to resist cold damage.
+
+Evidence from nature: leaf mold in mountains rarely freezes in winter, even when surface air temperature drops well below freezing.
+
+### 3. Suppresses Soil Overheating in Summer
+
+When soil temperature reaches 40C (104F), most crop roots stop functioning. Under black plastic mulch, surface soil can reach 45C (113F) in early summer, with nighttime drops to 15C (59F). This extreme temperature fluctuation damages roots.
+
+Cover crop solution:
+- Grass shades the soil surface
+- Transpiration cools the air above the soil
+- Organic matter acts as insulation
+- Temperature remains stable within the crop's preferred range
+
+JADAM measurement data (June, 34C ambient):
+- Black plastic at 1cm depth: 45C
+- Black plastic at 15cm depth: 30C
+- Weed mat at 1cm depth: 41.8C (significantly cooler)
+- Weed mat at 15cm depth: 30.15C
+
+### 4. Mitigates Soil Compaction and Increases Mineral Content
+
+Wild grass roots penetrate deep -- more than 1.5 times the above-ground height. This deep rooting:
+- Physically breaks up compacted soil layers
+- Pulls minerals from deep subsoil to the surface
+- Deposits organic matter at depth as roots die and decompose
+- Creates channels for water infiltration and air circulation
+
+Rye roots penetrate 2-3 meters (7-10 feet), enriching deep soil with organic matter and bringing up inorganic nutrients from the subsoil sphere.
+
+### 5. Prevents Nutrient Leaching
+
+Spring rains leach soil nutrients, stunting growth and weakening lower buds. Abundant organic matter from cover crop/grass acts as a sponge, holding nutrients in the root zone and preventing them from washing away.
+
+### 6. Reduces Pest and Disease Incidence
+
+Symbiosis with wild grass actually reduces pest and disease problems. The mechanism: healthier soil produces healthier plants with stronger natural defenses. Leaving 5cm (2 inches) of grass after cutting also helps stop the spread of aphids and mites.
+
+## Preferred Cover Crops
+
+### Rye
+- Deep rooting (2-3 meters), excellent for breaking compaction
+- Provides approximately 20 tons of organic matter per 0.1 hectare (1/4 acre)
+- Broadcast in autumn, covers entire field by spring
+- Winter-hardy
+
+### Hairy Vetch
+- Legume that fixes nitrogen
+- Excellent companion with rye
+- Creates dense mat that suppresses weeds
+- Proven over 20 years in Korean orchards to produce top-quality fruit
+- Sow in autumn alongside rye
+
+### Oats
+- Good autumn/winter cover crop
+- Quick germination and establishment
+- Can be combined with hairy vetch
+
+## Management Practice
+
+1. Leave ample space between crop rows for grass to grow without competing
+2. Cut grass 2-3 times per year (spring through autumn)
+3. Cut at 5cm (2 inches) height -- do not cut lower
+4. Do not try to be perfect; some remaining uncut grass is beneficial
+5. Use a sickle for small fields, mower for larger plots
+6. 2-3 hours of work covers several acres
+7. Do NOT hand-pull weeds -- this is exhausting and counterproductive
+8. The cut grass becomes mulch that feeds the soil
+
+## Alternatives to Cover Crop
+
+### Weed Mats
+- UV-coated, last approximately 5 years
+- Small holes allow air passage, preventing extreme temperature buildup
+- Allow application of water and [[jadam-liquid-fertilizer]] through the mat
+- Better than black plastic for temperature management
+- Can be moved from one location to another
+
+### Black Plastic Mulch (with modifications)
+- Make holes on left, right, and top edges when hot season begins
+- Grow grass intentionally in the furrow between plastic-covered rows
+- Never block the hole where nursery plants are planted
+- Accept that roots will suffer in summer -- this is fundamentally flawed but sometimes necessary
+
+## The Big Picture
+
+JADAM summarizes the relationship between grass and yield: "Big yield comes from big roots; big roots come from good soil temperature management." Cover crop and wild grass symbiosis is the simplest, most cost-effective method for achieving optimal soil temperature, which drives root growth, which drives yield. The grass is not your enemy -- it is your partner.
+
+## See Also
+
+- [[cover-cropping-guide]]
+- [[jadam-cover-crop-soil-temperature-management]]
+- [[jadam-leaf-mold-soil-method]]
+- [[jadam-fruit-tree-winter-pest-control]]
+- [[jadam-wild-grass-liquid-fertilizer]]
+- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
+- [[jadam-coexisting-with-wild-grass]]

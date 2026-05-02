@@ -82,7 +82,7 @@ Each overlay isolates one factor for analysis before combining them into a final
 
 ### Key Patterns to Identify
 
-- **Keylines** -- the line of maximum change in slope (where convex becomes concave), critical for water management design
+- **Keylines** -- the line of maximum change in slope (where convex becomes concave), critical for [[water-management]] design
 - **Ridge lines and drainage lines** -- the skeleton of the watershed
 - **Saddle points** -- low points on ridges, useful for road placement and dam sites
 - **Re-entrant corners** -- where water naturally concentrates, potential dam sites

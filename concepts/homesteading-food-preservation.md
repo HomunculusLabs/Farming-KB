@@ -78,3 +78,7 @@ The oldest and most nutritious preservation method:
 - [[fermented-plant-extract-fpe]] — for the science behind fermentation
 - [[earth-cellar-construction]] — for root cellar design
 - [[compost-building-guide]] — for food scraps that can't be preserved
+
+## Key Considerations
+
+Consider site-specific conditions when implementing this approach. Local climate, soil characteristics, and existing biological communities affect outcomes. Start with small trials before full implementation and maintain detailed records. Connecting with experienced practitioners provides valuable guidance tailored to your context and goals.

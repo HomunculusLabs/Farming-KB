@@ -10,9 +10,23 @@ sources:
 
 # Slugs and Snails - Organic Control
 
+
+
+
+
+
+
+
 ## The Problem
 
 The non-indigenous Spanish slug (*Arion vulgaris*) breeds on an enormous scale in many regions. Sepp Holzer found up to 15 slugs per square metre on farms and vegetable plots in Southern Styria and Lower Austria. Cattle would no longer graze because the grass was so full of them. In town gardens, slugs crawl up house walls all the way to balconies, forcing removal of espalier trees and climbing plants.
+
+
+
+
+
+
+
 
 ## Sawdust Barrier Method
 
@@ -28,6 +42,13 @@ For smaller gardens, Holzer recommends a sawdust-and-ash barrier:
 
 **Mechanism:** The fine dry sawdust adheres to the foot of a slug or snail. The ash and quicklime extract moisture, preventing them from entering the crop. Slugs visibly turn around when they reach this barrier.
 
+
+
+
+
+
+
+
 ## Egg-Trap and Solar Destruction Method
 
 Slugs and snails lay eggs in dark, moist places. Create deliberate egg-laying habitat:
@@ -42,12 +63,26 @@ Slugs and snails lay eggs in dark, moist places. Create deliberate egg-laying ha
 
 This method also demonstrates how improper use of mulch (fresh material, piled too high and not loosely enough) can cause slug overpopulation.
 
+
+
+
+
+
+
+
 ## Biological Controls
 
 - **Pigs:** Movable pens can place pigs exactly where needed. Mix collected snails with their normal feed. Pigs soon acquire a taste and eat all newcomers. They need a great deal of water to digest snails. Pigs also control soil insects like cockchafer larvae through rooting.
 - **Ducks and toads:** Also reduce slug and snail numbers to a harmless level
 - **Hedgehogs, shrews, lizards, and ground beetles:** Excellent natural predators
 - **Edible snail (*Helix pomatia*):** Helps regulate slug populations by eating their eggs -- not all snails are harmful
+
+
+
+
+
+
+
 
 ## Related
 

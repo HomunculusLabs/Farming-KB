@@ -148,44 +148,9 @@ direct drive.
 - See [[solar-water-heating]] for complementary solar energy systems
 - See [[rainwater-harvesting-systems]] for combining well and rainwater
 
-## Water Quality Testing
+## See Also
 
-Test your well water annually for:
-
-| Parameter | EPA Limit | Health Concern |
-|---|---|---|
-| Coliform bacteria | 0 total coliforms/100mL | Gastrointestinal illness |
-| E. coli | 0/100mL | Severe gastrointestinal illness |
-| Nitrate | 10 mg/L | Blue baby syndrome |
-| Lead | 0.015 mg/L | Neurological damage |
-| Arsenic | 0.01 mg/L | Cancer, skin damage |
-| pH | 6.5-8.5 | Corrosion, taste |
-| Hardness | N/A | Scale buildup, soap inefficiency |
-| Iron | 0.3 mg/L | Taste, staining |
-| Manganese | 0.05 mg/L | Taste, staining |
-
-### Treatment Options
-- **Bacteria** — UV disinfection or continuous chlorination
-- **Nitrate** — reverse osmosis or ion exchange
-- **Hardness** — water softener (ion exchange)
-- **Iron/manganese** — greensand filter or oxidizing filter
-
-## Well Maintenance
-
-- **Annual inspection** — check well cap, casing, and surrounding area
-- **Water testing** — annual bacterial and nitrate testing; comprehensive
-  every 3-5 years
-- **Pump maintenance** — check pressure tank air pressure annually
-- **Shock chlorination** — disinfect with chlorine if contamination detected
-- **Record keeping** — maintain well log with depth, yield, and test results
-
-## Yield and Sustainability
-
-- **Well yield test** — measures sustainable yield in GPM
-- **Static water level** — monitor annually for decline
-- **Recovery rate** — indicates aquifer productivity
-- **Conservation** — efficient fixtures and rainwater supplementation
-  reduce well demand
-
-For complementary off-grid water infrastructure, see
-[[rainwater-harvesting-systems]] and [[composting-toilet-systems]].
+- [[greg-green-mother-plants-and-clone-maintenance]]
+- [[solomon-garden-tools-selection-and-maintenance]]
+- [[pdc-design-implementation-and-maintenance]]
+- [[pond-maintenance-and-troubleshooting]]

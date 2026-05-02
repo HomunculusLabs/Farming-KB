@@ -14,7 +14,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 ## Trees and Shrubs with Low Fire Potential
 
 ### Acacias
-- Acacia baileyana* (Cootamundra Wattle)
+- [[acacia]] baileyana* (Cootamundra Wattle)
 - Acacia cyanophylla (Western Wattle)
 - Acacia cyclops (Coastal Wattle)
 - Acacia howittii (Sticky Wattle)

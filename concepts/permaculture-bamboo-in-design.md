@@ -17,6 +17,13 @@ sources:
 
 Bamboo is one of the most versatile multi-function plants in permaculture systems. Throughout Mollison's Designers' Manual, bamboo appears as a windbreak species, construction material, craft resource, mulch producer, water conduit, and structural element in tropical and subtropical designs.
 
+
+
+
+
+
+
+
 ## Functions in the Landscape
 
 ### Windbreak and Shelter
@@ -39,6 +46,13 @@ Bamboo leaves provide a constant supply of mulch. Fallen leaves from bamboo grov
 
 Bamboo provides material for a wide range of crafts, tools, and utensils, representing a renewable income source for permaculture systems. The Manual lists bamboo among plants with "special value" alongside vanilla and quinine -- plants that justify their place in a design through unique economic returns.
 
+
+
+
+
+
+
+
 ## Design Considerations
 
 Bamboo is most prominent in tropical and subtropical designs (Chapters 10-11 of the Manual). In the humid tropics, bamboo forms part of the structural framework of garden and village systems. In temperate areas, cold-hardy species can still serve as screens, poles, and ornamental elements.
@@ -50,9 +64,23 @@ Key considerations:
 - Bamboo benefits from regular harvesting, which stimulates new culm production
 - Placement should consider wind direction, access for harvesting, and integration with water systems
 
+
+
+
+
+
+
+
 ## Integration with Other Systems
 
 Bamboo integrates with [[permaculture-woody-mulch-systems]] through leaf litter production, with [[permaculture-design-process]] as a construction material, and with [[permaculture-design-process]] as a screening and windbreak element around the home. In aquaculture systems, bamboo poles serve as structural elements for fish shelters and pond-edge plantings.
+
+
+
+
+
+
+
 
 ## Related Concepts
 

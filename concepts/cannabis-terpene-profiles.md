@@ -10,9 +10,27 @@ sources:
 
 # Cannabis Terpene Profiles
 
+
+
+
+
+
+
+
+
+
 ## Overview
 
 Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
+
+
+
+
+
+
+
+
+
 
 ## Major Cannabis Terpenes
 
@@ -40,6 +58,15 @@ A spicy, peppery terpene found in black pepper, cloves, cinnamon, and cannabis. 
 
 An earthy, woody terpene also prominent in hops (Humulus lupulus, its namesake). Contributes notes described as "earthy," "woody," or "spice." Strains with earthy aroma profiles often have notable humulene content. It is associated with appetite suppression and anti-inflammatory effects.
 
+
+
+
+
+
+
+
+
+
 ## Terpene Profiles in Practice
 
 In S.T. Oner's Cannabis Sativa Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
@@ -52,6 +79,33 @@ In S.T. Oner's Cannabis Sativa Vol. 3, terpene profiles are described through ar
 
 The interaction between a strain's terpene profile and its cannabinoid content (THC:CBD ratio) determines the character of the experience more than either component alone.
 
+
+
+
+
+
+
+
+
+
 ## Related Concepts
 
 - [[cannabis-concentrates-and-extracts]] -- terpenes in concentrated form
+
+## See Also
+
+- [[pinene]]
+
+- [[myrcene]]
+
+- [[linalool]]
+
+- [[limonene]]
+
+- [[humulene]]
+
+- [[cannabis-terpene-entourage-effect-profiles]]
+- [[oner-cannabis-terpene-profiles-effects]]
+- [[cannabis-microbial-terpene-enhancement]]
+- [[cannabis-terpene-profile]]
+- [[sativa-terpene-profiles-and-aromatic-diversity]]

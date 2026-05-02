@@ -1,0 +1,139 @@
+---
+title: Photoperiod Interruption and Light Leak Stress
+created: 2026-04-26
+tags: [cannabis, photoperiod, light-stress, flowering, hermaphrodism]
+date: 2026-04-25
+updated: 2026-04-25
+sources:
+  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
+---
+
+# Photoperiod Interruption and Light Leak Stress
+
+The photoperiod -- the duration of light and dark periods -- is the
+primary signal that controls cannabis flowering. Jorge Cervantes
+stresses that marijuana must have 12 hours of uninterrupted, total
+darkness to flower properly. Any light leak during the critical dark
+period can confuse plants, delay flowering, reduce yield, and trigger
+hermaphroditism in genetically susceptible strains.
+
+## How Photoperiod Controls Flowering
+
+Cannabis is a short-day plant: flowering is triggered when the dark
+period reaches approximately 12 hours. Plants grown from seed under
+an 18/6 day/night photoperiod will usually show pronounced pre-
+flowers. Under a 24/0 photoperiod, pre-flowers may be less visible.
+Once pre-flowers are distinguishable as male or female, plants are
+induced to flower with a 12/12 day/night photoperiod.
+
+Indica-dominant plants will revert to vegetative growth within three
+days if the dark period is disrupted. Sativa-dominant plants take
+four to five days to revert. Once re-vegetation begins, it takes four
+to six additional weeks to re-induce flowering -- a costly setback.
+
+## Light Leak Causes and Detection
+
+Light leaks can enter the grow space from many sources:
+
+- Cracks around doors, windows, or ventilation ducting
+- Uncovered exhaust/intake ports
+- Power indicator lights on timers, fans, or equipment
+- Light seeping through thin or torn blackout material
+- Unshielded hallway or room lighting
+
+Less than one half of one foot-candle of light will prevent cannabis
+from flowering -- that is slightly more light than reflected by a
+full moon on a clear night. Cervantes recommends going outdoors after
+dark to inspect for light leaks that may not be visible from inside
+a lit room.
+
+## Consequences of Dark Period Interruption
+
+When the 12-hour dark period is interrupted by light, plants receive
+the signal that it is daytime and should resume vegetative growth.
+The results include:
+
+- Flowering is retarded or stopped entirely
+- Plants revert to vegetative growth if disruption occurs on two or
+  three consecutive nights
+- Genetically unstable strains may express hermaphroditic tendencies
+  if the photoperiod fluctuates repeatedly
+- Buds become looser and leafier
+- Overall harvest is diminished
+- The stress can cause peculiar growth patterns
+
+Giving plants less than 12 hours of darkness will not make them
+flower faster. Instead, flowering takes longer, buds are smaller, and
+harvest is lessened. Some growers experiment with gradually
+decreasing daylight hours to simulate outdoor conditions, but Cervantes
+notes this prolongs flowering without increasing yield.
+
+## The Green Light Solution
+
+The smart way to visit a grow room during the dark period is to
+illuminate it with a green light. Marijuana does not respond to the
+green portion of the light spectrum, so a green bulb is usable at
+night with no ill effects on flowering. This allows growers to
+perform maintenance, check plants, and handle emergencies without
+disrupting the photoperiod.
+
+## Photoperiod Stability
+
+Cervantes warns against varying the photoperiod during flowering. If
+you plan to give plants a 13/11 day/night schedule, stick to it. Do
+not decide to change to a 15/9 ratio. Such variation will stress
+plants and could produce hermaphrodites. Even small fluctuations
+bouncing up and down several times can trigger intersex traits in
+susceptible genetics.
+
+## Vegetative Photoperiod Options
+
+During vegetative growth, cannabis can efficiently process 16 to 18
+hours of light per day. Beyond 18 hours, the plant reaches a point of
+diminishing returns and electricity is wasted. Common vegetative
+schedules include:
+
+- 18/6: standard, allows dark period for root development and
+  energy recovery
+- 24/0: continuous light, some growers report faster growth but at
+  increased electricity cost
+- 16/8: pre-flowers show more quickly and are often more pronounced
+
+## Pre-Flower Timing and Photoperiod
+
+Cervantes stresses the importance of waiting for pre-flowers to
+appear before inducing flowering. Inducing flowering with 12 hours
+of darkness before pre-flowers develop will stress the plant. This
+stress could cause peculiar growth, and plants might develop into
+hermaphrodites. Importantly, inducing flowering before pre-flowers
+form will not speed up the process. Flowering occurs at about the
+same time as if the grower had waited for pre-flowers to show.
+
+Plants grown from seed under an 18/6 day/night photoperiod will
+usually show pronounced pre-flowers before plants given a 24/0
+photoperiod. Under a 16/8 regimen, pre-flowers show more quickly
+and are often more pronounced, giving growers a clearer window for
+sex identification before committing to the 12/12 flowering
+schedule.
+
+## Emergency Light Leak Response
+
+If a light leak is discovered during flowering, immediate action is
+necessary. The leak source should be sealed with black tape,
+aluminum foil, or light-proof material. If plants show signs of
+re-vegetation (new leaf growth, stretched internodes, or reverting
+pistils), they may recover on their own once the dark period is
+restored, provided the disruption was brief (one or two nights).
+Extended exposure may require extending the flowering period by
+several weeks to allow buds to mature properly again.
+
+## See Also
+
+- [[cervantes-flowering-phase]] - managing the flowering cycle
+- [[cervantes-lighting-systems]] - light setup and scheduling
+- [[cervantes-hermaphrodism-intersexuality]] - stress-induced sex
+  reversal
+- [[photoperiod-cannabis]] - photoperiod biology in cannabis
+- [[cervantes-light-spectrum-photomorphogenesis]] - light spectrum
+  effects on development

@@ -1,0 +1,95 @@
+---
+title: Bulk Substrate Field Capacity and Moisture Management
+created: 2026-04-17
+updated: 2026-04-17
+type: concept
+tags: [reference]
+sources: []
+---
+
+# Bulk Substrate Field Capacity and Moisture Management
+
+Field capacity is the moisture content of a substrate after it has been fully saturated and allowed to drain freely. In mushroom cultivation, achieving proper field capacity is one of the most important practical skills, as substrate moisture directly affects mycelial growth rate, contamination resistance, and yield. Both under-hydration and over-hydration can severely compromise a grow.
+
+
+
+## Defining Field Capacity
+
+In soil science, field capacity is the water content remaining after gravity has drained all freely available water. In mushroom cultivation, the term is used more practically to describe the ideal moisture level for a substrate. At proper field capacity, the substrate holds the maximum amount of water that can be retained without creating waterlogged, anaerobic conditions. The substrate should feel moist to the touch but should not drip when squeezed.
+
+For most bulk substrates, field capacity corresponds to a moisture content of 60-75% by weight, depending on the material. Wheat straw pasteurized by hot water bath naturally reaches approximately 75% moisture content. Compost-based substrates for Agaricus are typically balanced to 65-70% moisture. Sawdust/bran substrates for wood-loving species are typically 60-65% moisture. Casing layers based on peat moss are balanced to 70-75% moisture content.
+
+### Substrate-Specific Targets
+
+Different substrates have different field capacity targets due to their physical structure:
+
+- **Coco coir**: 70-75% moisture — coir holds water exceptionally well due to its fine particle structure, so it feels less wet than straw at equivalent moisture content
+- **Vermiculite**: 75-80% moisture — expanded vermiculite has enormous water-holding capacity and is often used to adjust moisture in mixed substrates
+- **Straw**: 70-75% moisture — the hollow stems of straw absorb water rapidly during pasteurization
+- **Hardwood sawdust**: 60-65% moisture — denser than straw, sawdust can become waterlogged more easily
+- **Manure/compost**: 65-70% moisture — the fine, homogeneous texture of finished compost allows even moisture distribution
+
+
+
+## The Squeeze Test
+
+The most widely used field assessment for field capacity is the squeeze test. A handful of substrate is squeezed firmly in the fist. At proper field capacity, a few drops of water should appear between the fingers but no stream of water should flow. If no water appears, the substrate is too dry. If water streams freely or drips continuously, the substrate is too wet. This test works for straw, compost, sawdust, coir, and vermiculite-based substrates.
+
+The squeeze test requires some calibration through experience. Different materials feel different at proper moisture levels. Coir, for example, feels less wet at equivalent moisture content than straw because of its fine particle structure. Cultivators should practice the squeeze test with known-correct samples to develop a reliable tactile sense.
+
+
+
+## Moisture Content by Weight
+
+For precise moisture management, moisture content is determined gravimetrically. A sample of substrate (approximately 100 grams) is weighed, then dried in an oven at 200-250°F for 2-3 hours until completely dry. The sample is reweighed, and moisture content is calculated as the weight lost divided by the original wet weight, multiplied by 100.
+
+For example, if 100 grams of wet substrate dries to 30 grams, the moisture content is (100 - 30) / 100 x 100 = 70%. Commercial grain has a natural moisture content of approximately 11% plus or minus 2%, which is why additional water must be added during grain spawn preparation. Precise measurement allows reproducible results across batches and seasons.
+
+
+
+## Effects of Improper Moisture
+
+Dry substrates produce fine, wispy mycelial growth because water is essential for the transport and assimilation of nutrients. Mushroom formation is poor because developing primordia and growing fruitbodies require substantial water for cell expansion. Dry substrates also colonize more slowly, extending the spawn run period and increasing the window for contamination.
+
+Over-wet substrates are equally problematic. Excess water fills the air spaces between substrate particles, displacing oxygen and creating anaerobic conditions. Mycelial growth becomes stringy and weak. Bacteria thrive in wet environments and can rapidly outcompete mushroom mycelium. Over-wet grain kernels may explode during sterilization, exposing their starchy interiors and creating concentrated pockets of contamination risk. Spawn made with over-wet grain is difficult to break apart into individual kernels, reducing the number of inoculation points.
+
+Controlled experiments with Agaricus brunnescens on horse manure compost have demonstrated yield depressions when moisture content deviates more than 2% from the optimum. Deviations greater than 5% generally result in a spawn run that does not support fruitbody production at all.
+
+
+
+## Moisture Correction Methods
+
+If a substrate is too dry at spawning, it can be lightly watered and mixed thoroughly to distribute the added moisture and avoid creating wet spots. For compost, this is a standard practice. For straw, the dry areas should be targeted and the straw re-mixed.
+
+If a substrate is too wet, correction is more difficult. For compost, adding gypsum helps bind loose water by flocculating organic particles. Excessively wet straw should be spread out and allowed to air dry before spawning. Over-wet grain spawn should generally be discarded, as the damage to grain structure and the bacterial load are difficult to reverse.
+
+
+
+## Moisture During Spawn Running
+
+During spawn running, the metabolism of growing mycelium generates heat and consumes water. Substrate temperatures normally peak on the 7th to 9th day after spawning and can easily reach 90°F. This elevated temperature increases evaporation from the substrate surface. The casing layer, if present, helps maintain substrate moisture, but in uncased substrates or those with thin casing, additional misting may be required to prevent surface drying during the spawn run.
+
+
+
+## Moisture During Fruiting
+
+The transition from spawn running to fruiting represents a critical moisture management period. Lowering temperature and increasing fresh air exchange accelerate evaporation from the substrate surface. This evaporation is actually an important pinning trigger, as it creates a microclimate that stimulates primordia formation. However, excessive evaporation during pinning can abort developing primordia, while insufficient evaporation fails to trigger pinning altogether.
+
+During active fruiting, mushrooms draw water from the substrate to expand their cells. Heavy flushes can significantly deplete substrate moisture reserves. Misting between flushes and maintaining high ambient humidity (85-92% during cropping) ensure that water supply meets demand. The casing layer functions as a water reservoir that buffers these fluctuations, making it particularly important for species that produce multiple flushes.
+
+### Watering Between Flushes
+
+Between flushes, a technique called "dunking" can rehydrate substrates. The colonized block or cake is submerged in water for 4-12 hours, allowing it to reabsorb moisture through capillary action. This is especially useful for [[stem-butt-cardboard-cultivation]] cakes and small bulk grows. For larger trays and beds, direct watering of the casing layer between flushes helps replenish moisture reserves.
+
+
+
+## Related
+
+- [[bulk-substrate-preparation]]
+- [[mushroom-substrates]]
+- [[mushroom-cultivation-bulk-substrates]]
+- [[casing-layer-preparation]]
+- [[straw-pasteurization-methods]]
+- [[mushroom-primordia-formation-triggers]]
+- [[wood-loving-substrate-recipes]]
+- [[mushroom-cultivation-grain-spawn]]

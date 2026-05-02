@@ -87,6 +87,8 @@ Choose fruits appropriate to the plant's growth stage:
 
 ## See Also
 
+- [[knf-fruit-ripeness-crack-prevention]]
+
 - [[knf-fpj-ratio-guide]]
 - [[knf-fish-amino-acid]]
 - [[jadam-fermented-plant-juice]]

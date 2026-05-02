@@ -6,13 +6,9 @@ type: concept
 tags: [plants, species, permaculture, plant-catalog, ph, gardening, difficult-sites]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
-
 # Alkaline Soil Plants
-
 A comprehensive list of plant species tolerant of alkaline soils, sourced from permaculture plant selections. These species are suited to sites with high pH, calcareous soils, or areas with salt spray and coastal exposure. Many are also drought-hardy and fire-resistant.
-
 ## Trees
-
 - **Acacia spp** — A. ampliceps (salt wattle, jila jila), A. aneura (mulga), A. bivenosa, A. cuspidifolia (spine-tipped wattle), A. cyclops (coastal wattle), A. harpophylla (brigalow), A. ligulata (sandhill wattle), A. notabilis (Flinders wattle), A. pycnantha (Australian golden wattle, 40% tannin in bark), A. ramulosa (horse mulga), A. salicina (cooba), A. saligna (golden wreath wattle), A. sclerosperma, A. sibilans (whispering myall), A. stenophylla (river cooba)
 - **Acer negundo** (box elder maple)
 - **Acer platanoides** (Norway maple)
@@ -63,9 +59,7 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Swietenia mahagoni** (mahogany) — deciduous shrub
 - **Sorbus aria** (white beam) — good for windswept coastal areas, high pollution areas
 - **Sorbus intermedia** (Swedish whitebeam)
-
 ## Shrubs
-
 - **Brachycome iberidifolia** (Swan River daisy) — hardy wildflower
 - **Brachysema lanceolata** (Swan River pea bush) — hardy legume
 - **Buddleia davidii** (butterfly bush)
@@ -136,9 +130,7 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Santolina spp** — low evergreen, Mediterranean, leaves as flavouring
 - **Senecio spp** — S. reinoldii for exposed coastal areas
 - **Solanum rantonnetii** (Paraguayan nightshade) — evergreen, frost resistant
-
 ## Groundcovers and Grasses
-
 - **Baccaris halimifolia** (groundsel bush) — pollen in autumn
 - **Baccaris patagonica**
 - **Banksia ashbyi** — nectar in spring
@@ -148,7 +140,5 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Oryzopsis miliacea** (smilo, millet grass)
 - **Ribes spp**
 - **Sambucus spp** (elder) — edible fruits, flowers, roots
-
 ## Notes
-
 Most palms are also fire tolerant and useful in bee forage systems — see [[palm-tree-uses]] for detailed palm species listings. For soil pH management strategies, see [[soil-testing]] and related [[compost-building-guide]] pages. Many of these species also appear in permaculture design contexts — see [[sepp-holzer-method]] and [[cold-climate-gardening]].

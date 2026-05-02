@@ -77,6 +77,8 @@ Put leftover bones from FAA production into brown rice vinegar (BRV) at 10:1 rat
 
 ## See Also
 
+- [[fish-amino-acid]]
+
 - [[knf-fermented-fruit-juice]]
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-water-soluble-calcium]]

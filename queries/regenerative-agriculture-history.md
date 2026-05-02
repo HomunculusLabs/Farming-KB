@@ -11,7 +11,7 @@ sources:
 # Regenerative Agriculture History
 
 The evolution from organic certification to the regenerative agriculture movement.
-See [[organic-farming-history]] for pre-2000 roots and [[regenerative-agriculture-history]]
+See [[organic-farming-history]] for pre-2000 roots and regenerative agriculture history
 for the conceptual framework.
 
 ## 2000s — Regenerative Agriculture Emerges
@@ -22,7 +22,7 @@ for the conceptual framework.
   soil health, increasing biodiversity, improving water cycles,
   and sequestering carbon.
   Robert Rodale coined "regenerative organic" in the 1980s.
-  See [[regenerative-agriculture-history]].
+  See regenerative agriculture history.
 
 - **2007-2010s — No-till farming spreads:**
   Gabe Brown (North Dakota), Ray Archuleta (NRCS), and others
@@ -85,7 +85,7 @@ for the conceptual framework.
 ## See Also
 
 - [[organic-farming-history]] — pre-2000 organic and natural farming roots
-- [[regenerative-agriculture-history]] — conceptual framework and principles
+- regenerative agriculture history — conceptual framework and principles
 - [[soil-food-web-nutrient-cycling]] — biological foundation of regenerative practices
 - [[elaine-ingham]] — soil food web pioneer
 - [[no-till-gardening-method]] — key regenerative practice

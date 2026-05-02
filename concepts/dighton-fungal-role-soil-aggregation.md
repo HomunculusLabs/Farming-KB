@@ -1,0 +1,122 @@
+---
+title: Fungal Role in Soil Aggregation
+created: 2026-04-26
+sources: Dighton (2003) "Fungi in Ecosystem Processes" Ch. 2, 6
+tags: [soil-aggregation, glomalin, macroaggregate, microaggregate, soil-structure, carbon-sequestration]
+related: [dighton-fungal-decomposition-nutrient-cycling, dighton-fungal-responses-climate-change]
+type: concept
+updated: 2026-04-26
+---
+
+# Fungal Role in Soil Aggregation
+
+## Overview
+
+Soil aggregation -- the binding of soil particles into stable structural units -- is a critical process for soil fertility, erosion resistance, water infiltration, and carbon sequestration. Fungi play a central role in aggregate formation and stabilization through their physical hyphal networks, polysaccharide secretions, and production of the persistent glycoprotein glomalin.
+
+## Aggregate Hierarchy
+
+Soil aggregates exist in a hierarchy (Tisdall and Oades, 1982):
+- **Microaggregates** (<250 μm): Form around bacterial/fungal hot spots; more stable, longer-lived
+- **Macroaggregates** (>250 μm): Composed of microaggregates bound together by fungal hyphae and root networks; less stable, faster turnover
+
+## Mechanisms of Fungal Aggregate Formation
+
+### 1. Physical Binding by Hyphae
+
+Mycorrhizal fungi and root carbohydrate exudates create bacterial and fungal "hot spots" in soil that enhance aggregate density and size (Guggenberger et al., 1999). Fungal hyphae physically enmesh soil particles:
+
+- Hyphae penetrate between mineral particles, acting as a web to retain soil
+- The longevity of fungal hyphae (compared to rapid bacterial turnover) provides greater permanence to the soil-stabilizing function
+- Cryptogamic crusts on nutrient-poor or sandy soils rely on fungal hyphae for particle binding
+
+### 2. Polysaccharide Secretions
+
+Both fungi and bacteria secrete polysaccharides that act as glue, binding mineral particles together. These sticky exudates are particularly important in:
+- Surface soil crust formation
+- Microaggregate stabilization
+- Water-stable aggregate formation
+
+### 3. Glomalin Production
+
+Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi (Wright and Upadhyaya, 1996):
+
+- May account for **30-60%** of carbon in undisturbed soils (Treseder and Allen, 2000)
+- Highly resistant to decomposition
+- Acts as a long-term glue for aggregate stability
+- Content increases in grassland soils under long-term elevated CO₂ (Rillig et al., 2000)
+- AM hyphal biomass estimates: 0.02 m/g soil (poplar) to 111 m/ml soil (prairie), up to ~500 kg C/ha
+
+### 4. Hydrophobic Hyphal Effects
+
+The hydrophobic nature of some fungal hyphae alters water flow through soil:
+- Water flows laterally across surface soil in the presence of fungal crusts rather than downward
+- This prevents downward movement of soil particles and organic matter
+- Reduces erosion risk
+- Retains nutrients in upper soil horizons
+
+## Aggregate Dynamics in Restoration
+
+Jastrow (1996) studied prairie soil restoration from agriculture:
+
+- Aggregate formation rate constant (k) was **35 times faster** than whole-soil carbon accumulation
+- Time to reach 99% equilibrium: **10.5 years** for aggregates vs. **384 years** for whole soil
+- C:N ratio of aggregate carbon indicates very recent origin -- derived from bacterial and fungal biomass, not highly processed organic matter
+- **Fungal cell wall residues** contribute significantly to binding microaggregates into macroaggregates
+
+### Carbon Partitioning in Restored Prairies
+
+| Carbon Fraction | Under Corn | 4-Season Rest. | 10-Season Rest. | Virgin Prairie |
+|----------------|-----------|----------------|-----------------|----------------|
+| Mineral-associated macroaggregate C | 1,181 | 2,548 | 3,348 | 4,692 |
+| Intramacroaggregate POM C | 77 | 131 | 138 | 250 |
+| Total macroaggregate C | 1,258 | 2,679 | 3,485 | 4,924 |
+| Total C in aggregates <212 μm | 1,918 | 837 | 576 | 567 |
+| Total C whole soil | 3,517 | 3,996 | 4,733 | 6,106 |
+
+(Source: Jastrow, 1996)
+
+## Agricultural Implications
+
+### No-Till Benefits
+
+No-till and minimal-till practices increase soil carbon stocks by 3.2-4.7 t C/ha in 10 years (Beare et al., 1994a,b; George and Boehm, 2001). Benefits arise because:
+- Soil aggregates are larger and more stable in undisturbed soils
+- Fungal hyphal networks remain intact
+- Glomalin and protected organic matter accumulate
+
+### Tillage Disruption
+
+- Plowing and ripping destroy fungal networks and aggregates
+- Causes massive pulses of respiratory carbon loss
+- Irrigation without residue incorporation causes 2.4 t C/ha loss over 17 years
+- Crop residue incorporation increases topsoil C by 3.4 t C/ha over 17 years
+
+## Carbon Sequestration Through Aggregates
+
+Carbon in aggregates is physically protected from rapid decay:
+- It exists in a particulate or colloidal state
+- Protected from microbial access
+- Represents a potential long-term carbon sink
+- Jastrow et al. (2000) showed increased C and N stocks under elevated CO₂ in tallgrass prairie, with root-like light POM turning over faster than amorphous heavy POM
+
+## Land-Use Change and Aggregate Carbon
+
+Howard et al. (1995) modeled land-use change effects on soil carbon in Great Britain (1984-1990), predicting a net loss of 151,000 × 10³ t C by 2044. Jastrow (1996) warns that aggregate degradation from soil mismanagement releases protected carbon fractions, underscoring the importance of fungi in maintaining the soil carbon sink.
+
+## Key References
+
+- Tisdall, J.M. and Oades, J.M. (1982). Organic matter and water-stable aggregates. *J. Soil Sci.*
+- Wright, S.F. and Upadhyaya, A. (1996). Glomalin: a glycoprotein from AM fungi. *Soil Sci.*
+- Treseder, K.K. and Allen, M.F. (2000). Mycorrhizal fungi and carbon sequestration. *Trends Ecol. Evol.*
+- Jastrow, J.D. (1996). Soil aggregate formation and carbon sequestration. *Plant Soil*.
+- Rillig, M.C. et al. (2000). Glomalin and elevated CO₂. *New Phytol.*
+
+## See Also
+
+- [[fungal-soil-aggregation]]
+- [[glomalin-and-soil-carbon]]
+- [[fungal-contributions-soil-structure]]
+- [[fungal-glomalin-and-soil-carbon]]
+- [[soil-food-web]]
+- [[humus-formation-and-soil-organic-matter]]

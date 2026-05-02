@@ -106,4 +106,4 @@ The EMCDDA's Early Warning System (EWS) was instrumental in tracking the emergen
 - [[amanita-muscaria-guide]] -- Amanita muscaria-specific information
 - [[psilocybin-mushroom-chemistry]] -- Dose/effects/health risks (includes EMCDDA clinical data)
 - [[mushroom-legislation-worldwide]] -- Global legal status (includes EU timeline from EMCDDA)
-- [[hallucinogenic-mushrooms-european-trends]] -- This page (prevalence and market data)
+- hallucinogenic mushrooms european trends -- This page (prevalence and market data)

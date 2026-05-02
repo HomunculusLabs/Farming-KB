@@ -1,0 +1,148 @@
+---
+title: Vegetable Harvest and Storage Guide
+created: 2026-04-21
+updated: 2026-04-21
+type: concept
+tags: [gardening, vegetables, storage, preservation, homesteading]
+sources:
+  - Purdue University Cooperative Extension Service — Home Gardener's Guide
+---
+
+# Vegetable Harvest and Storage Guide
+
+Proper harvesting at the right stage of maturity ensures high-quality,
+nutritious vegetables from the home garden and prevents waste. Each crop has
+optimal harvest indicators and specific storage requirements depending on its
+category and sensitivity to temperature and humidity.
+
+## General Harvest Principles
+
+Harvest vegetables when they reach peak maturity for their intended use.
+Most vegetables are best harvested in the morning when temperatures are cool
+and plant turgor is high, which helps them retain crispness. Use clean,
+sharp tools to minimize damage and reduce the risk of introducing pathogens.
+Handle all produce gently to avoid bruising, which accelerates spoilage.
+
+Check the garden frequently during peak harvest periods. Many vegetables,
+especially beans, summer squash, and sweet corn, pass their prime quickly
+and become tough or starchy if left too long. See [[vegetable-garden-harvest]] for crop-specific harvest timing.
+
+## Root Crops
+
+Root crops generally store best under cool, moist conditions at 32 to 40
+degrees Fahrenheit with 90 to 95 percent relative humidity.
+
+Beets can be harvested when one inch in diameter. Beet tops at this stage
+make excellent tender greens. Main-crop beets should be harvested before
+hot weather in July. Fall beets should be harvested before the first moderate
+freeze. For storage, wash roots, trim tops to half an inch, and store in
+perforated plastic bags in a refrigerator or cold cellar for two to four
+months. See [[root-vegetable-storage-guide]] and [[carrot-growing-guide]].
+
+Carrots should be harvested in spring before hot weather or in fall before
+the first freeze. For storage, wash roots, trim tops, and place in
+perforated bags. Storage life is two to four months. See [[solomon-growing-root-crops-guide]].
+
+Parsnips develop their sweetest flavor after exposure to cold in late fall.
+They share the same storage requirements as carrots.
+
+Horseradish is harvested after several severe freezes. It can be stored in
+the ground all winter under mulch and dug as needed.
+
+Irish potatoes should be harvested when tops have yellowed or died. Do
+not leave in ground because high soil temperatures accelerate over-ripening.
+Cure for about a week in a shaded, well-ventilated area, then store above
+40 degrees Fahrenheit with high humidity and good ventilation. Avoid light
+exposure, which causes greening. Storage life is two to four months.
+See [[potato-growing-guide]].
+
+Radishes are harvested at half to one inch in diameter. Wash, trim both
+tap root and tops, and store in plastic bags in the refrigerator for up
+to one month. Winter radishes store like carrots.
+
+Turnips can be harvested from one inch in diameter and are best as a fall
+crop. They withstand several light freezes and store like carrots.
+
+## Leafy Greens
+
+Swiss chard can be harvested continuously by breaking off outer leaves. A
+spring planting provides greens from early summer to the first moderate freeze.
+It stores up to two weeks in the refrigerator.
+
+Collards, kale, mustard, and spinach should have leaves harvested when they
+reach suitable size. Harvest the whole plant or just the outer larger leaves.
+Greens do not store well but may be kept in plastic bags in the refrigerator
+for up to two weeks. Freeze any surplus. See [[salad-crops-growing-guide]].
+
+Endive is harvested whole. Wash thoroughly, gather leaves together, and tie
+with a rubber band. Store in plastic bags in the refrigerator for up to
+three weeks.
+
+Head, semi-head, and leaf lettuce can be stored for up to two weeks in
+perforated plastic bags in the refrigerator.
+
+Parsley allows successive harvests by snipping stems close to the ground.
+Do not cut more than half the plant at once. Parsley keeps in plastic bags
+for one or more weeks and can be over-wintered with protection.
+
+## Cole Crops
+
+Broccoli should be harvested when the terminal head has florets still tight
+and of good green-blue color. Smaller side heads will develop later. Store
+in perforated bags for up to one week. Freeze surplus.
+
+Brussels sprouts are harvested from the bottom of the plant upward when
+sprouts are firm. They can stand several moderate freezes. Harvest all sprouts
+before the first severe freeze. Store in perforated bags for up to three weeks.
+
+Cabbage is harvested when heads are solid. Store in a refrigerator or cold
+cellar in plastic bags for up to two months.
+
+Cauliflower heads are kept white by tying outer leaves above the head when
+curds are one to two inches in diameter. Heads are ready about two weeks
+later. Store in perforated bags for up to two weeks. Freeze surplus.
+
+Kohlrabi is harvested when swollen stems are two to three inches in diameter.
+Stems become woody if left too long. Storage life is two to four weeks.
+
+## Legumes
+
+Lima beans are harvested when pods have filled. For tender limas, harvest a
+bit immature; for meaty limas, harvest when dry and mature. Shelled limas
+store in perforated bags in the refrigerator for about one week.
+
+Garden peas are similar to limas. Unshelled peas keep in perforated bags
+for about one week. Snap peas stay on the plant until peas reach full size
+and the pod is cylindrical.
+
+Green bean pods are most tender when the seed inside is one-fourth mature.
+They become more fibrous as beans mature. Store up to one week in perforated
+bags. See [[solomon-growing-beans-and-peas]] and [[bean-growing-guide]].
+
+Okra pods should be harvested at two to three inches. Over-mature pods are
+woody. Store about one week. Freeze surplus.
+
+## Fruit Vegetables
+
+Tomatoes at peak ripeness keep for about one week in the refrigerator.
+Green mature tomatoes can be stored at 55 to 70 degrees Fahrenheit for three
+to five weeks by wrapping each in newspaper. A cellar at 55 to 58 degrees
+is ideal for holding green tomatoes. See [[tomato-growing-guide]].
+
+Sweet corn is harvested when kernels are plump and tender with dry silks.
+Check maturity by pressing a few kernels with the thumbnail. If milky juice
+exudes, the corn is ready. Harvest at peak quality and store in plastic bags.
+Freeze or can surplus.
+
+Sweet peppers are harvested when fruits are firm and full-sized. If red
+fruits are desired, leave on the plant until the color develops. Sweet
+peppers store for two to three weeks in the warmer part of the refrigerator.
+See [[tomato-pepper-eggplant-growing-guide]].
+
+Eggplant is harvested when fruits are nearly full-grown but color is still
+bright. Eggplants are not adapted to long storage. Keep about one week in
+the refrigerator.
+
+Cucumbers should be harvested before seeds become half-size. Slicing
+cucumbers are typically one and a half to two and a half inches in diameter.
+Store in the warmest part of the refrigerator for about one week.

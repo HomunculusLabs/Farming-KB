@@ -10,14 +10,35 @@ sources:
 
 # Liquid Fertilizer from Weeds
 
+
+
+
+
+
+
+
 ## Overview
 
 Liquid fertiliser is made by steeping plants (often considered weeds) in water until they ferment, producing a nutrient-rich liquid that fertilises, strengthens plants, and naturally prevents disease and pests. Sepp Holzer notes that when he was young, every farmer understood how to prepare liquid fertiliser. With the appearance of chemical fertilisers and synthetic pesticides, this knowledge has died out in many places.
+
+
+
+
+
+
+
 
 ## Plant Feed vs Liquid Fertiliser
 
 - **Plant feed (cold water extraction):** Place freshly cut or dried plants in cold water for one day, then spray on plants. No boiling needed.
 - **Liquid fertiliser:** Leave plants in water longer and stir regularly. The feed begins to ferment and becomes so rich in nutrients that it must always be diluted before use.
+
+
+
+
+
+
+
 
 ## Plant Selection
 
@@ -25,11 +46,18 @@ Almost all locally growing plants are suitable. Select plants containing certain
 
 ### Holzer's Preferred Mixture
 
-- **Nettles** (*Urtica dioica*, *Urtica urens*) -- provides nitrogen; strengthens plants; effective against aphids (the smell and burning effect of the nettle's poison deters them). Good for vigorous vegetables like courgettes, cucumbers, and cabbage. Do not use on low-nutrient plants like peas and beans (risk of overfertilising).
-- **Comfrey** (*Symphytum officinale*, *Symphytum x uplandicum*) -- provides potash
+- **Nettles** (*[[urtica-dioica]]*, *Urtica urens*) -- provides nitrogen; strengthens plants; effective against aphids (the smell and burning effect of the nettle's poison deters them). Good for vigorous vegetables like courgettes, cucumbers, and cabbage. Do not use on low-nutrient plants like peas and beans (risk of overfertilising).
+- **Comfrey** (*[[symphytum-officinale]]*, *Symphytum x uplandicum*) -- provides potash
 - **Tansy** (*Tanacetum vulgare*)
 - **Horsetail** (*Equisetum arvense*)
 - **Wormwood** (*Artemisia absinthium*) -- particularly effective against aphids, scale insects, and red spider mites. Increase the amount of wormwood until desired effect is achieved.
+
+
+
+
+
+
+
 
 ## Method
 
@@ -44,9 +72,23 @@ Almost all locally growing plants are suitable. Select plants containing certain
 9. The fertiliser is ready when it is not foamy any more and has a dark colour
 10. Always dilute before use
 
+
+
+
+
+
+
+
 ## Multiple Functions
 
 These natural plant-based pesticides are very easy to make at home and cost nothing. They fertilise, strengthen plants against disease, and control pests simultaneously. Strong, healthy plants are more resistant to disease; insects usually prefer weakened plants.
+
+
+
+
+
+
+
 
 ## Related
 

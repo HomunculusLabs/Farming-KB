@@ -1,0 +1,137 @@
+---
+title: "Cervantes - Whitefly Pest Control on Cannabis"
+created: 2026-04-26
+tags: [cannabis, pest-control, whiteflies, integrated-pest-management, insects]
+date: 2026-04-25
+updated: 2026-04-25
+sources:
+  - ~/wiki/raw/papers/marijuana-horticulture-cervantes.md
+type: concept
+---
+
+# Whitefly Pest Control on Cannabis
+
+Whiteflies are small, winged insects that resemble tiny white
+moths approximately 0.04 inch (1 mm) long. They typically
+appear first near the top of the weakest plant in the garden
+and then move downward on the plant or fly off to infest
+other plants. Whiteflies can cause significant damage to
+cannabis crops if left unchecked, reducing both yield and
+[[cervantes-photosynthesis-chlorophyll-plant-science]].
+
+## Identification
+
+The easiest way to check for whiteflies is to grab a branch
+or limb and shake it gently. If any whiteflies are present,
+they will flutter up from under the leaves where they
+typically congregate. Key identification features include:
+
+- Small white moth-like appearance, about 1 mm long
+- Adults have distinct wings and fly when disturbed
+- Eggs are found on leaf undersides, connected with a
+  small hook-like structure
+- They tend to cluster on the undersides of leaves
+- Weakest or most stressed plants are usually attacked
+  first
+
+Regular monitoring is essential because whitefly populations
+can multiply rapidly under favorable conditions. Check the
+undersides of leaves weekly, especially on plants showing
+signs of stress or reduced vigor.
+
+## Damage Symptoms
+
+Whiteflies cause damage similar to spider mites, producing
+visible symptoms on affected foliage:
+
+- White speckles or stipple marks appear on the upper
+  leaf surfaces
+- Loss of [[cervantes-photosynthesis-chlorophyll-plant-science]] reduces overall plant
+  energy
+- Plant vigor diminishes progressively as the infestation
+  worsens
+- Heavy infestations can cause significant leaf yellowing
+  and premature leaf drop
+- Honeydew excretions promote sooty mold growth on leaves
+
+The stippling damage from whitefly feeding reduces the
+photosynthetic capacity of affected leaves. In severe
+infestations, this can substantially reduce flower
+production and overall yield.
+
+## Cultural and Physical Control
+
+Several cultural and physical methods effectively manage
+whitefly populations without chemicals:
+
+- Yellow sticky traps are highly effective because adult
+  whiteflies are strongly attracted to the color yellow
+- Build traps by covering bright yellow objects with a
+  sticky substance like Tanglefoot
+- Place traps on top of pots among the plants at canopy
+  level where whiteflies congregate
+- Replace traps when they become covered with insects
+- Remove any leaves that have been more than 50 percent
+  damaged before treatment
+- Heat-treat or burn infested foliage to destroy eggs
+  and larvae
+- Maintain clean growing conditions to reduce hiding
+  places
+
+Yellow sticky traps are simple to make and remarkably
+effective. They capture adult whiteflies continuously,
+reducing the breeding population without any chemical
+inputs. See [[cervantes-sticky-traps-pest-monitoring]] for detailed construction guidance.
+
+## Biological Control
+
+The parasitic wasp Encarsia formosa is the most effective
+biological control for whiteflies. Important considerations
+for using this parasite:
+
+- The wasps are small, about 0.125 inch (3 mm) long,
+  smaller than the whitefly itself
+- They only attack whiteflies and do not sting people
+- All toxic [[cervantes-pyrethrum-pyrethroid-insecticides]] must be completely washed off plants before
+  introducing parasites
+- The wasp lays an egg inside the whitefly larva that
+  hatches and consumes the larva from the inside out
+- Control is slower than chemical methods because the
+  life cycle of the parasite takes time
+- Release two or more parasites per plant as soon as
+  the first whitefly is detected
+- Repeat releases every two to four weeks throughout
+  the life of the plants
+
+The fungus Verticillium lecanii, also known as
+Cephalosporium lecanii (trade name Mycotal), is also very
+effective against whiteflies and can be used as a
+supplement to parasitic wasps.
+
+## Chemical and Spray Control
+
+Whiteflies are relatively easy to control with natural spray
+programs when biological controls are insufficient:
+
+- Homemade sprays applied at five to ten day intervals
+- [[cervantes-neem-oil-organic-pest-control]] applied at five to ten day intervals
+- [[cervantes-pyrethrum-pyrethroid-insecticides]]
+  aerosol formulations applied at five to ten day intervals
+- Neem oil provides both contact and systemic protection
+
+The key to successful spray control is consistency. Multiple
+applications at regular intervals are necessary because eggs,
+nymphs, and adults are all present simultaneously and no
+single spray kills all life stages. Always rotate between
+different classes of insecticides to prevent resistance
+development.
+
+## Prevention
+
+Preventing whitefly introduction is easier than eradicating
+an established infestation. Inspect all new plants carefully
+before bringing them into the grow room. Quarantine new
+additions for at least two weeks. Maintain proper
+[[cervantes-air-quality-ventilation]] and avoid
+overcrowding, which creates the sheltered microclimates
+whiteflies prefer.

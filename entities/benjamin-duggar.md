@@ -26,9 +26,17 @@ sources:
 
 American botanist and plant pathologist (1872-1956), author of "Mushroom Growing" (1915), and discoverer of aureomycin (chlortetracycline). His cultivation manual represents the transition from practical gardening guides to scientifically-informed mushroom farming.
 
+
+
+
+
 ## Overview
 
 Benjamin Minge Duggar was an American botanist who made contributions to both plant pathology and mushroom cultivation. His 1915 manual "Mushroom Growing" brought scientific rigor to the practical tradition of mushroom cultivation established by earlier authors like [[william-falconer]] (1891) and [[james-cuthill]]. Duggar is also best known for discovering the antibiotic aureomycin (chlortetracycline) in 1945 while working at Lederle Laboratories.
+
+
+
+
 
 ## Key Contributions
 
@@ -36,6 +44,10 @@ Benjamin Minge Duggar was an American botanist who made contributions to both pl
 - **"Mushroom Growing" (1915):** A comprehensive manual that bridged the gap between the practical Victorian-era cultivation guides and modern scientific mycology. Duggar covered compost preparation, spawn management, environmental control, and pest management with more systematic rigor than earlier authors.
 - **Mushroom cultivation research:** Conducted early scientific studies on the growing conditions, substrate preferences, and environmental requirements for cultivated mushrooms.
 - **Plant pathology:** Made contributions to understanding plant diseases and their control.
+
+
+
+
 
 
 ## Mushroom Growing (1915) — Content Summary
@@ -50,13 +62,25 @@ Duggar's 295-page manual represents one of the most comprehensive early American
 - **Harvesting and marketing:** Picking techniques, grading standards, and market preparation
 
 The manual reflects the state of commercial mushroom farming in the northeastern United States, where most American mushroom production was concentrated in underground caves and cellars around Philadelphia and New York. Duggar's systematic approach — with attention to the biological basis of each step — distinguished his manual from earlier practical guides.
+
+
+
+
 ## Historical Context
 
 Duggar's work stands at the intersection of two traditions: the practical mushroom-growing knowledge developed by 19th-century gardeners and cultivators, and the emerging science of mycology. His manual reflects the increasing professionalization of mushroom farming in early 20th-century America.
 
+
+
+
+
 ## Legacy
 
 Duggar's work on mushroom cultivation predates the modern era of commercial mushroom farming and represents part of the historical foundation that later researchers like [[paul-stamets]] would build upon. His dual contributions to both mushroom cultivation and antibiotic discovery illustrate the deep connections between mycological research and medical science.
+
+
+
+
 
 ## See Also
 

@@ -1,0 +1,127 @@
+---
+title: Korean Natural Farming LAB and OHN Recipes
+created: 2026-04-13
+updated: 2026-04-13
+type: concept
+tags: [agriculture, homesteading]
+sources:
+  - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
+---
+# Korean Natural Farming LAB and OHN Recipes
+
+Lactic Acid Bacteria (LAB) and Oriental Herbal Nutrient (OHN) are two essential Korean Natural Farming inputs. LAB boosts soil and plant immunity while OHN provides trace minerals and natural growth stimulants from medicinal herbs.
+
+## Lactic Acid Bacteria (LAB)
+
+### Purpose
+- Suppresses disease-causing organisms (bacteria, fungi)
+- Boosts plant immune system
+- Improves soil health
+- Reduces odors (in compost, animal housing)
+- Enhances nutrient availability in soil
+
+### Method (Rice Wash Water Technique)
+
+#### Step 1: Collect LAB
+1. Wash rice in water (1 cup rice to 2-3 cups water)
+2. Pour the cloudy rice wash water into a container (glass or clay, not metal)
+3. Cover loosely with cloth
+4. Leave at room temperature for 2-3 days
+5. A thin layer forms: rice solids at bottom, clear liquid, and a thin cream-colored layer on top
+6. The cream layer contains lactic acid bacteria — this is what you want
+
+#### Step 2: Multiply with Milk
+1. Collect the cream layer from the rice wash water
+2. Add fresh milk at 10:1 ratio (milk to cream layer)
+3. Whole milk works best (more nutrients for bacteria)
+4. Cover loosely and leave at room temperature
+5. After 5-7 days, the milk separates into:
+   - **Top layer**: Curds/cheese (protein and fat — can be used as animal feed or compost)
+   - **Bottom liquid**: LAB-rich serum (yellowish, smells like yogurt)
+6. Extract the liquid — this is your LAB culture
+
+### Storage and Use
+- Store in glass bottles in cool, dark place
+- Shelf life: 6-12 months
+- Dilution: 1:500 to 1:1000 with water
+- Can be mixed with FPJ, FAA, or other KNF inputs
+- Apply as foliar spray or soil drench
+- Apply every 1-2 weeks for disease prevention
+- Spray on compost to accelerate decomposition and reduce odor
+- Add to animal water (1:1000) for digestive health
+
+## Oriental Herbal Nutrient (OHN)
+
+### Purpose
+- Provides concentrated trace minerals from medicinal herbs
+- Stimulates plant growth and flowering
+- Enhances plant resistance to disease and pests
+- Provides natural growth hormones
+- Considered KNF's "vitamin supplement" for plants
+
+### Herbs Used
+1. **Angelica root (Angelica gigas/Dong Quai)**: Calcium, minerals, growth stimulant
+2. **Cinnamon bark**: Antimicrobial, warming
+3. **Licorice root (Glycyrrhiza uralensis)**: Mineral accumulator, harmonizing
+4. **Garlic**: Antimicrobial, insect repellent, sulfur-rich
+5. **Ginger**: Antimicrobial, warming, digestive stimulant
+
+### Method (Separate Fermentations)
+
+#### Step 1: Preparation
+1. Crush or slice each herb separately (increase surface area)
+2. Prepare 5 separate clay jars
+3. Use makgeolli (Korean rice wine) or vodka as the extraction solvent
+4. Each herb ferments separately before combining
+
+#### Step 2: Fermentation (Per Herb)
+1. Place herb material in a clay jar (fill 1/3)
+2. Add brown sugar at 1:1 ratio with herb by weight
+3. Pour makgeolli or vodka to cover (about 1:1 with herb by volume)
+4. Cover loosely
+5. Ferment for 5-7 days (or longer for roots)
+6. Strain the liquid
+
+#### Step 3: Combine
+1. Combine the 5 herbal extracts in equal parts
+2. Add the extracts to brown sugar (1:1 by weight) in a clay jar
+3. Cover and ferment for 7 more days
+4. Strain — this is your finished OHN
+
+### Storage and Use
+- Stores indefinitely (high sugar and alcohol content preserves it)
+- Dilution: 1:500 to 1:1000 with water
+- Apply as foliar spray or soil drench
+- Apply every 2-3 weeks
+- Combine with LAB and FPJ for comprehensive plant health spray
+- Particularly effective during transitions: flowering, fruiting, stress recovery
+
+## Combined KNF Spray Schedule
+
+| Growth Stage | Input | Dilution | Frequency |
+|---|---|---|---|
+| Seedling | LAB | 1:1000 | Every 7 days |
+| Vegetative | FPJ + LAB | 1:500 each | Every 7-10 days |
+| Pre-flowering | OHN | 1:1000 | 2 applications |
+| Flowering | OHN + FPJ (flower) | 1:1000 each | Every 10-14 days |
+| Fruiting | OHN + FPJ (fruit) | 1:1000 each | Every 14 days |
+| Stress recovery | LAB + OHN | 1:500 each | 2-3 applications |
+
+## Related
+- [[korean-natural-farming-imo-recipes]] — for IMO foundation
+- [[korean-natural-farming-fpj-and-ffp-recipes]] — for FPJ and FAA
+- [[jadam-natural-farming-philosophy]] — for JADAM comparison
+- [[compost-tea-brewing-guide]] — for compost tea
+- [[jadam-cover-crop-soil-temperature-management]]
+- [[jadam-water-soluble-calcium-preparation]]
+- [[jadam-natural-mineral-water]]
+- [[nutrient-movement-through-soil-to-plant-roots]]
+
+## See Also
+
+- [[korean-natural-farming-fpj-and-ffp-recipes]]
+
+- [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]]
+
+- [[bahay-kubo-imo-collection-and-preparation]]
+- [[bahay-kubo-fpj-and-ffj-fermentation]]

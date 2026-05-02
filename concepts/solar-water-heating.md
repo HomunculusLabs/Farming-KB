@@ -6,48 +6,37 @@ type: concept
 tags: [homesteading, energy, off-grid, engineering, water, sustainability]
 sources: []
 ---
-
 # Solar Water Heating
-
 Solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
 properly sized system can provide 50-80% of a household's hot water needs.
 This guide covers system types, design principles, DIY construction, and
 sizing for the homestead.
-
 ## Why Solar Water Heating
-
 - **Energy savings** — water heating accounts for 15-25% of home energy use
 - **Off-grid viability** — reduces generator run time or battery demand
 - **Simple technology** — fewer moving parts than PV systems; long lifespan
 - **Low maintenance** — annual inspection is typically sufficient
 - **Payback period** — 3-8 years depending on system and fuel costs avoided
-
 ## System Types
-
 ### Batch Heater (Integrated Collector-Storage)
-
 A tank of water inside an insulated, glazed box with a dark absorber surface.
 The simplest and cheapest solar water heater.
-
 **How it works:**
 - Cold water flows into the tank from the supply line
 - Sun heats the water directly in the tank
 - Hot water is drawn from the top of the tank for use
 - Cold water from the supply replaces what is drawn
-
 **Advantages:**
 - Simple to build — essentially a water tank in a box
 - No pumps, controllers, or moving parts
 - Passive operation — no electricity required
 - Low cost ($200-500 DIY)
-
 **Disadvantages:**
 - Heat loss overnight — water cools when sun is not shining
 - Limited capacity — typically 30-50 gallons
 - Best suited for mild climates and moderate hot water demand
 - Seasonal performance drops significantly in winter
-
 **DIY Batch Heater Construction:**
 1. Obtain a used electric water heater tank (40-50 gallon); strip the
    outer shell and insulation, repaint the tank black with high-heat paint
@@ -57,106 +46,82 @@ The simplest and cheapest solar water heater.
 5. Plumb cold water in (bottom) and hot water out (top)
 6. Install a tempering valve on the output to prevent scalding
 7. Tilt the collector at latitude + 15 degrees for winter optimization
-
 ### Thermosiphon System
-
 A separate collector panel heats water that rises by natural convection
 (natural thermosiphon effect) to an insulated storage tank mounted above
 the collector.
-
 **How it works:**
 - Cold water from the bottom of the tank flows down to the collector
 - Sun heats water in the collector
 - Hot water rises naturally back to the top of the storage tank
 - Continuous circulation occurs whenever the sun heats the collector
 - No pump needed — relies on the fact that hot water is less dense
-
 **Advantages:**
 - Passive — no pump or controller required
 - Storage tank stays warmer than batch system (insulated separately)
 - Better winter performance than batch heaters
 - Reliable — no mechanical parts to fail
-
 **Disadvantages:**
 - Storage tank must be mounted above the collector (usually on the roof)
 - Roof structural requirements for the tank weight (400+ lbs full)
 - More complex plumbing than batch heater
 - Freeze protection needed in cold climates (drainback or glycol)
-
 ### Active Closed-Loop System
-
 A pump circulates a heat-transfer fluid (propylene glycol) through the
 collector and a heat exchanger in the storage tank. A differential
 controller activates the pump when the collector is hotter than the tank.
-
 **How it works:**
 - Collector heats glycol solution
 - Pump circulates glycol through a heat exchanger coil in the storage tank
 - Heat transfers from glycol to potable water via the exchanger
 - Controller monitors temperatures and runs the pump only when beneficial
-
 **Advantages:**
 - Best performance in cold climates (glycol prevents freezing)
 - Storage tank can be located anywhere (basement, utility room)
 - Highest overall efficiency and year-round performance
 - Scalable to large systems
-
 **Disadvantages:**
 - Requires electricity for the pump and controller
 - Most complex and expensive system
 - Requires maintenance (glycol replacement every 5-7 years)
 - Professional installation recommended for code compliance
-
 ## Sizing a Solar Water Heating System
-
 ### Daily Hot Water Demand
 Estimate 15-20 gallons per person per day for a typical household.
-
 | Household Size | Daily Demand (gallons) |
 |---|---|
 | 1-2 people | 30-40 |
 | 3-4 people | 45-60 |
 | 5-6 people | 60-80 |
-
 ### Collector Sizing
 Rule of thumb: 1 square foot of collector area per gallon of daily hot
 water demand in sunny climates; 1.5-2 square feet in moderate climates.
-
 For a family of 4 (60 gallons/day):
 - Sunny climate (Southwest US): 60 sq ft collector
 - Moderate climate (Mid-Atlantic): 90-120 sq ft collector
-
 ### Storage Tank Sizing
 Storage tank should hold 1.5-2 days of hot water demand to account for
 cloudy days. For 60 gallons/day demand, use an 80-120 gallon storage tank.
-
 ### Orientation
 - **Azimuth**: due south (in the Northern Hemisphere)
 - **Tilt angle**: latitude for year-round optimization; latitude - 15
   degrees for summer emphasis; latitude + 15 for winter emphasis
 - **Shading**: collector must have full sun from 9AM-3PM year-round
-
 ## Freeze Protection
-
 In climates with freezing temperatures, freeze protection is essential:
-
 - **Drainback system** — water drains out of the collector when the pump
   stops; collector is empty when not producing heat
 - **Glycol loop** — antifreeze solution circulates through collector;
   requires a double-walled heat exchanger for potable water safety
 - **Recirculation** — pump runs briefly to circulate warm tank water
   through the collector during freezing conditions (wastes some heat)
-
 ## Maintenance
-
 - **Annual inspection** — check connections, glazing seals, insulation
 - **Collector cleaning** — rinse off dust and debris; check for hail damage
 - **Glycol systems** — test glycol pH every 2 years; replace every 5-7 years
 - **Anode rod** — check and replace in glass-lined steel tanks every 3-5 years
 - **Pressure relief valve** — test annually
-
 ## Integrating with Off-Grid Systems
-
 Solar water heating reduces the electrical load on an off-grid system
 significantly. For water sourcing and treatment, see
 [[rainwater-harvesting-systems]] and [[well-drilling-and-maintenance]].

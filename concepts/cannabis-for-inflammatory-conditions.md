@@ -11,6 +11,19 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 Cannabis has significant anti-inflammatory properties mediated primarily through CB2 receptor activation and modulation of the immune system. Both THC and CBD contribute, along with terpenes like beta-caryophyllene (a natural CB2 agonist).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Conditions Treated
 
 ### Rheumatoid Arthritis
@@ -38,12 +51,38 @@ Cannabis has significant anti-inflammatory properties mediated primarily through
 - CBD has bronchodilatory and anti-inflammatory properties
 - Oral or sublingual CBD preferred (smoking contraindicated for respiratory conditions)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Anti-Inflammatory Mechanisms
 
 - CB2 activation on immune cells reduces cytokine production (TNF-alpha, IL-1, IL-6)
 - CBD inhibits COX-2 (similar mechanism to NSAIDs but without GI side effects)
 - Beta-caryophyllene is a selective CB2 agonist — one of the few terpenes that directly activates cannabinoid receptors
 - THC at low doses reduces inflammatory mediator release
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Related
 - [[cannabis-endocannabinoid-system]] — for mechanism details

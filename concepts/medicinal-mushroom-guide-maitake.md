@@ -17,7 +17,7 @@ Also known as "hen of the woods" due to its resemblance to a fluffed hen's feath
 
 ## Key Compounds
 
-- **Beta-glucans (D-fraction):** The primary active polysaccharide, trademarked as the "D-fraction" or "MD-fraction" (refined form). A 1,6-beta-glucan with 1,3-branches. This is maitake's signature immune-activating compound.
+- **[[beta-glucans]] (D-fraction):** The primary active polysaccharide, trademarked as the "D-fraction" or "MD-fraction" (refined form). A 1,6-beta-glucan with 1,3-branches. This is maitake's signature immune-activating compound.
 - **Grifolan:** Another beta-glucan unique to maitake with significant immunomodulatory activity.
 - **Proteoglycans:** Protein-bound polysaccharides with immune-enhancing properties.
 - **Alpha-glucans:** Present alongside beta-glucans; contribute to metabolic effects.

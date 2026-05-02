@@ -77,7 +77,9 @@ The combination of DMN suppression, increased connectivity, and neuroplasticity 
 
 See [[psilocybin-therapeutic-applications]] for specific clinical applications.
 
-## Related Topics
+## Related
+
+- [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]] Topics
 
 - [[psychedelic-mushroom-pharmacology]] for detailed pharmacokinetics
 - [[psilocybin-therapeutic-applications]] for clinical research

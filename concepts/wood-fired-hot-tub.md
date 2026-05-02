@@ -141,3 +141,11 @@ A cover is essential — it retains heat between uses (reducing heating time and
 - Once at temperature, maintain with a small fire or let it cool naturally — the tub holds heat for several hours
 
 A wood-fired hot tub is one of the most rewarding homestead additions. It costs little to operate, requires no grid connection, and provides genuine therapeutic benefit after hard physical work.
+
+## See Also
+
+- [[gaias-garden-woody-soil-building-dead-wood-swale]]
+- [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+- [[knf-soap-water-and-hot-pepper]]
+- [[fukuoka-wood-preserve-shelterbelt-design]]
+- [[fungal-dead-wood-diversity]]

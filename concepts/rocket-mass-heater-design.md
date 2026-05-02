@@ -137,3 +137,9 @@ A cob bench is the most common and accessible approach:
 
 - [[natural-building-materials-guide]] for cob and earth materials used in bench construction
 - [[earth-plaster-and-natural-finishes]] for finishing the cob bench surface
+
+## See Also
+
+- [[masonry-heater-design]]
+- [[rocket-stove-design]]
+- [[comparison-rocket-stove-vs-masonry-heater]]

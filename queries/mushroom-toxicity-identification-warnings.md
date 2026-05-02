@@ -103,6 +103,8 @@ Essential for identification — place cap gills-down on half white/half black p
 
 ## See Also
 
+- [[gyromitrin]]
+
 - [[mushroom-identification]] — systematic identification methods and features
 - [[mushroom-species-guide]] — cultivated species profiles and parameters
 - [[psilocybin-mushroom-chemistry]] — global distribution of neurotropic species

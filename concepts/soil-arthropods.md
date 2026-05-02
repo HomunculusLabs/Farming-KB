@@ -11,6 +11,9 @@ sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 
 Soil arthropods are invertebrate animals with jointed legs and exoskeletons that live in the soil and leaf litter. They are essential decomposers, predators, and engineers of soil structure. A healthy garden soil contains thousands of arthropods per square meter.
 
+
+
+
 ## Major Groups
 
 ### Mites (Acari)
@@ -48,6 +51,9 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 - Important early-stage decomposers of coarse organic matter
 - Their frass (droppings) is rich in nutrients available to plants
 
+
+
+
 ## Ecological Roles
 
 ### Nutrient Cycling
@@ -64,12 +70,18 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 - Predatory arthropods (ground beetles, centipedes, predatory mites) are the primary natural control for soil-dwelling pests
 - A healthy soil food web keeps pest populations in check
 
+
+
+
 ## How to Encourage Soil Arthropods
 - **Add organic matter**: Mulch, compost, leaf litter provide food and habitat
 - **Minimize tillage**: Tilling destroys arthropod habitat and kills slow-moving species
 - **Maintain moisture**: Most arthropods need moist conditions (irregular drying is fine)
 - **Avoid pesticides**: Broad-spectrum insecticides kill beneficial arthropods along with pests
 - **Provide ground cover**: Stone mulch, logs, and plant cover create microhabitats
+
+
+
 
 ## Related
 - [[soil-food-web-structure]] — for the complete soil food web hierarchy

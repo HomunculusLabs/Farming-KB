@@ -87,3 +87,7 @@ MDMA's legal trajectory has been contentious:
 While MDMA is one of the most famous phenethylamines, it is one of many in PIHKAL's 179-compound catalog. Its inclusion in the book reflects Shulgin's systematic documentation approach — MDMA is treated with the same analytical rigor as every other compound, with synthesis, dosage, duration, qualitative comments, and extensions. Its prominence in popular culture and clinical research, however, far exceeds its relative position within the broader PIHKAL framework.
 
 See also: [[mda-compound-profile]], [[2c-b-compound-profile]], [[shulgin-research-contributions]], [[phenethylamine-receptor-pharmacology]], [[pihkal-introduction-and-methodology]]
+
+## See Also
+
+- [[mdma-reference]]

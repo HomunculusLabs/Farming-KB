@@ -78,3 +78,7 @@ Pleurotus ostreatus is the keystone species for many [[mycoremediation-overview]
 ## Related
 
 - [[shimeji-cultivation]]
+
+## Key Considerations
+
+Consider site-specific conditions when implementing this approach. Local climate, soil characteristics, and existing biological communities affect outcomes. Start with small trials before full implementation and maintain detailed records. Connecting with experienced practitioners provides valuable guidance tailored to your context and goals.

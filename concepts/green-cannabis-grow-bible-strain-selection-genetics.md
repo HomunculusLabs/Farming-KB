@@ -1,0 +1,101 @@
+---
+title: Strain Selection and Genetics - Greg Green's Cannabis Grow Bible
+created: 2026-04-26
+updated: 2026-04-24
+sources:
+  - raw/papers/greg-green-the-cannabis-grow-bible.md
+type: concept
+tags: [cannabis]
+---
+
+# Strain Selection and Genetics
+
+Greg Green's Cannabis Grow Bible (4th edition) provides foundational
+guidance on selecting cannabis strains based on species, genetics, and
+desired effects.
+
+## The Three Cannabis Species
+
+Green identifies three main species, each with distinct growth
+characteristics:
+
+- **Sativa**: Tall plants (4-15 feet), long internodes (3-6 inches),
+  pointy leaves with no markings. Produces a "head high" effect.
+- **Indica**: Small plants (6 inches to 4 feet), short internodes (3
+  inches or less), rounded leaves with marble-like patterns. Produces a
+  "body stone" or couch-lock effect.
+- **Ruderalis**: Small plants (6 inches to 4 feet), very short
+  internodes with much branching, small thick leaves. Problematic for
+  growers because it flowers by age rather than photoperiod, produces
+  low THC, and is considered substandard.
+
+## Strain Categories
+
+Of roughly 450 seed varieties on the market, Green estimates about 200
+are worth growing and only 50 are outstanding. Seed producers categorize
+strains as:
+
+- Pure Sativa, Sativa (mostly Sativa with some Indica)
+- Pure Indica, Indica (mostly Indica with some Sativa)
+- Indica/Sativa (50/50 cross)
+- Ruderalis and Ruderalis mixes
+
+The remaining ~250 varieties are unstable crossbreeds too mixed to
+classify as either Sativa or Indica.
+
+## High Type and Crossbreeding
+
+The type of high is determined by species ratio:
+
+- Pure Sativa = total head high
+- Pure Indica = total body stone
+- 50/50 cross = 50% head high, 50% body stone
+- Slight Indica cross = 60% body stone, 40% head high
+- Slight Sativa cross = 60% head high, 40% body stone
+
+Harvest timing also influences the high. Later harvests produce more
+couch-lock; harvesting just before peak induces a cerebral high.
+
+## THC Levels vs. Quantities
+
+Green distinguishes between THC levels (genetic, fixed) and THC
+quantities (controlled by the grower through bud mass and resin
+production). A plant may have 20% THC at level 5 under poor conditions
+but 70% THC at the same genetic level 5 under optimal conditions. Seed
+bank THC claims should be treated with skepticism as breeders often
+exaggerate.
+
+## Selecting a Strain
+
+Key considerations when choosing seeds:
+
+1. Match the strain to your grow environment (indoor vs. outdoor as
+   intended by the breeder)
+2. Consider height limitations -- Indica stays short, Sativa can
+   exceed 8 feet
+3. You can shorten height through pruning but rarely double it if
+   genetics limit growth to 2-3 feet
+4. Bud production equals growing environment plus genetic makeup plus
+   node count, not plant height alone
+5. Avoid GM hemp strains engineered for zero THC -- they will not
+   produce a psychoactive effect
+
+## Choosing a Seed Bank
+
+Green recommends verifying seed banks through community review sites,
+checking that they communicate promptly, and ensuring good packaging.
+Prices range from $80-$300 for 10-16 seeds. The best source of seeds is
+a friend who has grown a strain you already enjoy.
+
+## Related Pages
+
+- [[cannabis-strain-selection-guide]]
+- [[cannabis-seed-banks-and-genetics]]
+- [[cannabis-sativa-vs-indica-guide]]
+- [[cannabis-phenotype-selection]]
+- [[cannabis-genetics-and-breeding]]
+- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
+- [[green-cannabis-grow-bible-indoor-grow-room-setup]]
+- [[cannabis-seed-banks-and-genetics]]
+- [[cannabis-controlled-pollination-seed-production]]
+- [[cannabis-seed-selection-and-strain-types]]

@@ -87,7 +87,9 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
 
 The modern era of mycology — from genomics and DNA phylogenetics through mycorrhizal network discoveries, mycoremediation deployment, medicinal mushroom clinical trials, and conservation concerns — is covered in detail on [[mycology-21st-century-frontiers]]. Key milestones include Simard's "wood wide web" research, Ingham's soil food web popularization, fungal genome sequencing, mycelium materials industry, and the recognition of fungi as ecosystem health indicators.
 
-## Related Pages
+## Related
+
+- [[palmer-neglected-science-mycology]] Pages
 
 - [[history-of-mycology-timeline]] — ancient through early 20th century mycology
 - [[history-of-mycology-timeline]] — existing concept page with additional detail

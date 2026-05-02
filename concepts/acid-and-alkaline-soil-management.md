@@ -9,9 +9,13 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Acid and Alkaline Soil Management
 
+
+
 ## Overview
 
 Before deciding on a soil-feeding regime, you must discover whether your soil is acid or alkaline. This affects both cultivation technique and plant selection. Acidity/alkalinity is determined by lime content, measured using a pH test on a scale of 1-14 (neutral = 7; above = alkaline; below = acid).
+
+
 
 ## Testing Soil pH
 
@@ -20,6 +24,8 @@ Before deciding on a soil-feeding regime, you must discover whether your soil is
 - Yellow/orange = acid soil; bright green = neutral; dark green = alkaline
 - Color charts provide more precise readings
 - Test when taking over a new garden; repeat annually if trying to alter pH
+
+
 
 ## Raising Soil pH (Making Acid Soil More Alkaline)
 
@@ -53,6 +59,8 @@ Apply small amounts regularly rather than large quantities. Excessive lime can s
 
 Adding lime to heavy clay soils helps bind particles together through a process called "flocculation" — tiny clay particles bind into larger crumbs through which air, water, and roots can freely pass.
 
+
+
 ## Lowering Soil pH (Making Alkaline Soil More Acid)
 
 This is more difficult than raising pH. Few garden soils are so limy they will not grow vegetables at all.
@@ -70,6 +78,8 @@ This is more difficult than raising pH. Few garden soils are so limy they will n
 The only option is growing them in pots or building a raised bed (ideally of railroad ties):
 - Fill with half acid soil + half peat-substitute, OR three parts peat-substitute to one part sharp sand
 - Plant as for shrubs; spread chipped pine bark around the bed
+
+
 
 ## Related
 

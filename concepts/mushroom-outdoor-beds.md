@@ -1,0 +1,138 @@
+---
+title: Mushroom Outdoor Beds
+tags: [mushrooms, outdoor-cultivation, ridges, winter-gardening, victorian]
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - /Users/t3rpz/wiki/raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
+---
+
+# Mushroom Outdoor Beds
+
+Outdoor mushroom beds were the traditional cultivation method
+before specialised [[mushroom-growing-houses]] became common.
+Cuthill described ridge-style outdoor beds in his Market
+Gardening pamphlet, but noted his preferred methods differed
+significantly. Outdoor beds remained important for cottagers
+and those without dedicated structures.
+
+## Ridge Bed Construction
+
+Outdoor beds were generally made into ridges, dictated by the
+need for weather protection in exposed conditions.
+
+### Material Separation
+
+Short manure was shaken out for the bed surface, while long
+stuff served both for the ridge interior and for winter
+coverings. This efficient use of all material was typical of
+Victorian practical gardening.
+
+### Ridge Dimensions
+
+Foundations were five to six feet wide, gradually rising to
+three feet or more in height. This substantial size provided
+adequate thermal mass to maintain fermentation heat through
+winter months.
+
+### Compaction
+
+Ridges were trodden as hard as possible. Firm compaction
+prevented strong fermentation but kept heat much longer
+during winter. Controlled moderate fermentation was preferable
+to brief intense heat dissipating rapidly outdoors.
+
+### Spawning
+
+Ridges were spawned in the usual way, with [[mushroom-spawn]]
+inserted at regular intervals near the surface.
+
+## Moulding the Ridge
+
+Moulding began at the bottom, with the [[mushroom-soil-mould]]
+worked up on both sides, finishing at the top. This ensured
+even coverage and proper compaction on the sloping surfaces.
+
+## Winter Covering
+
+Long strawy material separated during construction covered
+the ridges during cold weather, providing insulation against
+frost, moisture retention, and rain protection. Mats were
+added during the coldest periods.
+
+## Flat Beds Versus Ridges
+
+Cuthill preferred flat beds, stating they are more natural
+than the ridge system. In [[mushroom-growing-houses]] and
+sheds, he kept beds higher in the centre by six or eight
+inches rather than forming full ridges, giving more surface
+area. But for outdoor cultivation without structural
+protection, the ridge form was necessary to shed rain and
+allow coverings to drape naturally.
+
+## Growing Anywhere
+
+Cuthill emphasised mushrooms could be grown outdoors in
+stables, lofts, coach-houses, yards, large boxes, cellars,
+and open ground. Brick pits, cucumber frames, and railway
+arches near towns were all suitable. The key was proper
+[[mushroom-bed-preparation]] rather than any specific
+structure.
+
+## Economic Value for Cottagers
+
+A good little bed saved a shilling or two per week during
+winter, with additional income from selling surplus. Cuthill
+remarked that "mushrooms grow faster than pigs" and require
+no feed, only attention.
+
+For cottagers, he recommended collecting highway horse-
+droppings mixed with road-sand, deposited in a summer heap
+and trodden firm. A few barrowfuls of strawy dung formed
+the foundation, ensuring depth of not less than one foot.
+By autumn, the summer droppings became one mass of natural
+[[mushroom-spawn]] ready for the bed surface.
+
+## Seasonal Considerations
+
+### Autumn Preparation
+
+September was ideal. Hot days and cool nights caused spawn
+to run rapidly and form mushrooms quickly. Moisture and dews
+greatly assisted the process during this natural growing
+season.
+
+### Winter Maintenance
+
+Careful management of coverings maintained temperature. The
+hard-trodden construction retained heat well, but severe
+weather could still threaten the crop.
+
+### Summer Cultivation
+
+Summer outdoor cultivation was possible. In 1863, beds in
+glass houses exposed to sun with shade temperatures of 80 to
+90 degrees produced fine maggot-free crops by keeping
+surfaces cool through watering straw coverings. This
+principle could adapt to outdoor beds with appropriate
+shading and moisture management via [[mushroom-watering]].
+
+## Bed Longevity
+
+A properly made bed lasted three or four times longer in
+bearing than field mushrooms. One pound of well-grown bed
+mushrooms was worth three pounds of field ones for any
+purpose, justifying the effort of bed preparation even for
+cottagers with limited resources.
+
+## Gathering Mushrooms
+
+Mushrooms should be twisted gently off rather than cut. The
+remaining stem from cutting soon rots and injures the
+succeeding spawn rising from underneath. In the wild, spawn
+is never found more than about two inches deep, or one inch
+in strong soil. Cuthill also noted the remarkable fact that
+mushrooms can lift heavy weights, having witnessed a large
+mushroom lift one end of a flagstone three inches at a
+public-house entrance at Roehampton, where spawn had been
+generated by stablemen scraping their feet at the door.

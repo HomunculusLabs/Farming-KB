@@ -1,0 +1,100 @@
+---
+title: Cross-Cultural Patterns in Shamanic Plant Use (Harner)
+created: 2026-04-26
+updated: 2026-04-23
+sources:
+  - raw/papers/harner-j-hallucinogens-and-shamanism.md
+type: concept
+tags: [plants, shamanism]
+---
+
+# Cross-Cultural Patterns in Shamanic Plant Use
+
+The culminating section of Harner's volume (Part IV: "Hallucinogens and Shamanism: The Question of a Trans-Cultural Experience") addresses one of the most fundamental questions in the anthropology of consciousness: to what extent are the experiences reported by users of shamanic plants determined by culture, and to what extent by the biochemistry of the plants themselves? Two companion papers--by Harner and by Claudio Naranjo--approach this question from complementary angles, producing findings that challenge purely cultural explanations of shamanic experience.
+
+## The Problem of Trans-Cultural Regularities
+
+Harner frames the problem clearly. Anthropologists have long noted the recurrence of certain themes in shamanic belief and experience--such as the shamanistic journey or flight--across widely separated cultures. These "obviously ancient and widely distributed" thematic regularities are typically viewed as part of "the totality of the ancient cultural heritage of man" and are not usually explained. The search for "origins" has fallen into disrepute as an antiquated pursuit associated with nineteenth-century figures like Edward B. Tylor.
+
+However, Harner argues, if one redefines the search for origins "as the search for causality of regularities, the quest assumes great importance for the study of all human cultures, past and present." His reasoning is straightforward: culture is learned and transmitted through human effort, and it is unlikely that cultural institutions can be maintained for centuries and millennia "without having some regular reinforcement for their maintenance."
+
+## Harner's Five Common Themes in Yage Experiences
+
+Harner surveys South American Indian yage (ayahuasca/Banisteriopsis) experiences across numerous tribes spanning from the Choco of western Colombia to the Tacana of eastern Bolivia, and identifies five recurring patterns:
+
+### 1. The Soul Separates and Makes a Trip, Often with the Sensation of Flight
+
+This is the most consistently reported experience across all Banisteriopsis-using cultures. The Jivaro literally call it a "trip." The Conibo-Shipibo describe the soul leaving as a bird; the Tukano feel a violent wind pulling them along the Milky Way; the Siona shaman goes to heaven and returns; the Campa sick person thinks he is flying through the air; Villavicencio's Zaparo informants experienced "a sensation of being lifted into the air and beginning an aerial journey."
+
+### 2. Visions of Snakes and Jaguars
+
+The most commonly reported apparitions are poisonous snakes (especially anacondas) and jaguars or other large felines. This pattern is documented across virtually every Banisteriopsis-using group: Jivaro (pairs of giant anacondas and jaguars), Amahuaca (jaguar spirit teaching apprentices), Tukano/Desana (nightmare of jaguars' jaws, snakes coiling around extremities), Siona (novices see serpents, tigers), Piro (great boa constrictor), Ikito (jaguars and great serpents), Yekuana (shamans mimic jaguar roars), and Tacana (jaguars and serpents of supernaturally great size).
+
+### 3. Contact with Demons and/or Deities
+
+A sense of firsthand contact with the supernatural becomes "almost routine" with the aid of the Banisteriopsis drink. Among the Amahuaca, spirits appear one or two at a time, drink ayahuasca along with the men, sing along, answer questions, and depart after an hour or two. Missionized groups incorporate Christian figures: Siona shamans go to heaven to speak with Dios, see his cup and book, and visit Hell to see the principal demon Supai. Among the Desana, the experience confirms religious teachings: "He has seen Vai-mahse [Master of Game Animals] and the Daughter of the Sun, he has heard her voice."
+
+### 4. Clairvoyance of Distant Places
+
+Shamans and laypersons report seeing distant persons, unfamiliar villages, towns, and "cities of the whites" whose reality is unquestioned. The Conibo-Shipibo travel underground in supernatural boats to see "cities of the demons" said to be underground but visible "because the sunlight passes through the earth." Roessner reports Ucayali Indians proposing "Let's see cities!" during group sessions, subsequently asking white men about "those strange things (aparatos) which run so swiftly along the street"--they had seen automobiles they were not acquainted with.
+
+### 5. Divination of Crimes and Witchcraft
+
+The sensation of seeing the enactment of recent unsolved crimes--homicide, theft, bewitching--and identifying the perpetrators. Among the Jivaro, ayahuasca is used to "see" the shaman who bewitched a patient. Spruce reports that Zaparo shamans drink ayahuasca "when called on to adjudicate in a dispute or quarrel, to discover plans of an enemy, to tell if strangers are coming, to ascertain if wives are unfaithful, in the case of a sick man to tell who has bewitched him."
+
+### Additional Common Experiences
+
+Other regularly reported experiences include auditory hallucinations, visions of geometric designs, auras, one's own death, combats between demons or zoomorphic forms, very bright colors, and the constant changing of shapes as scenes dissolve into one another. Both Jivaro and Conibo-Shipibo Indians who had seen motion pictures told Harner that the ayahuasca experiences were comparable to viewing films.
+
+## Naranjo's Cross-Cultural Verification
+
+Claudio Naranjo's companion paper is methodologically crucial. He administered harmaline--one of the chief chemical components of Banisteriopsis--to white urban Chilean subjects under clinical conditions. His subjects were unaware of the substance's source, its connection to Amazonian Indians, or its expected effects. This design eliminated cultural expectation as an explanatory variable.
+
+The results were striking: Naranjo's Chilean subjects reported experiences that "repeat well-known themes of the shamanistic experience," including:
+- A soul separate or distinct from the body
+- Flight
+- Metamorphosis into a mammal, bird, or fish
+- Spirit possession
+
+Most remarkably, these urban Chileans independently saw two of the same categories of visions as Amazonian forest Indians: reptiles and large felines. While Indians characteristically saw jaguars, the Chilean subjects saw tigers, leopards, and jaguars. Birds of prey were also commonly seen. Harner notes this result was "unexpected and unexplained."
+
+## Competing Explanations
+
+Harner offers two speculative explanations for the cross-cultural convergence on predatory animal visions:
+
+1. **Psychoanalytic**: Predatory animals may represent "oral aggressive phenomena brought to consciousness in some individuals as aggression under the influence of the drug."
+
+2. **Evolutionary**: Given that "the chief predators on man's small primate ancestors included large felines, crocodiles, serpents, and birds of prey," there may exist "genetically-based fear cues or images which have been biochemically stimulated by the yage alkaloids and which might once have had a positive adaptive value in terms of natural selection."
+
+Harner acknowledges that "serious consideration of any explanatory hypotheses must await the collection of better data derived from rigorous comparative, experimental, and cross-cultural research."
+
+## The European Witchcraft Parallel
+
+The volume's argument is strengthened by the inclusion of European data. Harner's chapter on witchcraft demonstrates that identical experiences--soul flight, contact with supernatural beings, metamorphosis into animals--were produced by completely different plant families (solanaceous rather than beta-carboline/tryptamine) on a different continent. If the same experiential patterns emerge from unrelated plants in unrelated cultures, the case for a biological substrate is strengthened.
+
+## The Independent Reinvention of the "Trip"
+
+Perhaps the most persuasive evidence for a non-cultural basis comes from modern Western culture. The concept of the "trip" was independently invented in the United States during the early 1960s to describe the hallucinogenic drug experience. Since the Inquisition largely eradicated European witchcraft ideology, this parallel "cannot be easily ascribed to cultural tradition." The Cashinahua of the Amazon have a precise equivalent of "to have a good trip," further supporting the independence of this concept from cultural diffusion.
+
+## The Culture-Biology Question
+
+Harner is careful to acknowledge the overwhelming importance of culture-specific factors. The evidence shows that culture is "of overwhelming importance in influencing both the content and structure of supernatural ideology." However, "there is a residue that remains, which cannot be conveniently explained away by recourse to the social structure or content of particular cultures."
+
+The open question is whether this residue reflects universal neurobiological structures, deep evolutionary memories encoded in the human nervous system, cultural diffusion through ancient shared heritage, or some combination of these factors. The volume's contribution is not to resolve this question but to frame it rigorously and demonstrate that it demands serious interdisciplinary investigation.
+
+## Related Topics
+
+- [[harner-shamanic-journey-and-altered-states]]
+- [[harner-plant-teachers-and-entheogenic-knowledge]]
+- [[harner-ayahuasca-shamanism-amazon]]
+- [[harner-siberian-shamanism-and-amanita]]
+
+## Chapters Referenced
+
+- Ch.9: Harner, "Common Themes in South American Indian Yage Experiences"
+- Ch.10: Naranjo, "Psychological Aspects of the Yage Experience"
+- [[yage-common-themes-south-american-indians]]
+- [[harner-shamanic-journey-and-altered-states]]
+- [[harner-plant-teachers-and-entheogenic-knowledge]]
+- [[european-witchcraft-hallucinogenic-plants]]
+- [[shamanic-trance-cross-cultural-patterns]]

@@ -29,6 +29,15 @@ sources:
 
 Mexican-based ethnobotanist, pharmacognosist, and author. Coined the term "entheogen" in 1979 alongside [[r-gordon-wasson]], Carl Ruck, and others to replace the terms "hallucinogen" and "psychedelic" when discussing sacred plant use. Based in Xalapa, Mexico, Ott is regarded as part of the "second generation" of ethnomycologists, following the pioneering work of Wasson and his colleagues.
 
+
+
+
+
+
+
+
+
+
 ## Key Works
 
 - **"Pharmacotheon" (1993)** — A comprehensive reference on psychoactive plants and compounds, considered one of the most thorough pharmacological surveys of entheogenic substances ever published. The book catalogs hundreds of psychoactive plants with detailed chemistry, pharmacology, and ethnobotanical context.
@@ -36,9 +45,27 @@ Mexican-based ethnobotanist, pharmacognosist, and author. Coined the term "enthe
 - Co-author with [[jochen-gartz]] on magic mushroom research; acknowledged as a key expert consultant in Gartz's "Magic Mushrooms Around the World"
 - Translator of [[albert-hofmann]]'s "LSD: My Problem Child" into English, providing a preface from Vashon Island, Washington
 
+
+
+
+
+
+
+
+
+
 ## The Term "Entheogen"
 
 The term "entheogen," proposed by [[r-gordon-wasson]] and Jonathan Ott, derives from Greek entheos (divine within) + genos (generation), meaning "releasing or expressing the divine within." As described by [[ralph-metzner]], it has the same root as "enthusiasm." Ott and colleagues argued that terms like "hallucinogen" were misleading because psychoactive plants used in sacred contexts do not merely cause hallucinations — they facilitate genuine mystical or religious experiences. The term has been widely adopted in academic and spiritual communities.
+
+
+
+
+
+
+
+
+
 
 ## Contributions to Psychopharmacology
 
@@ -46,6 +73,15 @@ The term "entheogen," proposed by [[r-gordon-wasson]] and Jonathan Ott, derives 
 - Described the dose thresholds for psilocybin and psilocin effects as "entheogenic" above 6 mg psilocin and 10 mg psilocybin
 - Documented that psilocybin is degraded by heat, making dried mushrooms potentially weaker than fresh ones
 - Prolific critic of drug prohibition, arguing that it suppresses legitimate religious and scientific inquiry into entheogenic plants
+
+
+
+
+
+
+
+
+
 
 ## See Also
 

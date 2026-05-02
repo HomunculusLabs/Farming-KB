@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, workflow, troubleshooting, safety]
-sources: []
+sources: [papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md]
 ---
 
 ## Overview

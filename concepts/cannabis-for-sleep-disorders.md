@@ -11,6 +11,10 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 Cannabis has been used as a sleep aid for centuries. Modern research confirms it reduces sleep latency (time to fall asleep) and may improve sleep quality for some conditions, but long-term use can lead to tolerance and dependency.
 
+
+
+
+
 ## How Cannabis Affects Sleep
 
 ### Sleep Architecture
@@ -23,6 +27,10 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - Indica-dominant strains: More sedating, better for sleep (higher myrcene)
 - Sativa-dominant strains: More stimulating, may disrupt sleep
 - Hybrid strains: Variable effects depending on terpene profile
+
+
+
+
 
 ## Evidence by Condition
 
@@ -49,6 +57,10 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - Treating the underlying pain with cannabis improves sleep
 - Indica strains with high myrcene content preferred
 
+
+
+
+
 ## Dosing for Sleep
 - Use 30-60 minutes before desired sleep time
 - Start low: 2.5-5mg THC
@@ -57,11 +69,19 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - Edibles: take 2 hours before bed (delayed onset)
 - Avoid daily use — tolerance develops in 1-2 weeks
 
+
+
+
+
 ## Cautions
 - Regular use leads to tolerance (need higher doses for same effect)
 - Abrupt cessation after daily use causes REM rebound (intense dreams, temporary insomnia)
 - Tolerance breaks (3-7 day abstinence) reset sensitivity
 - Not recommended for sleep apnea as primary treatment
+
+
+
+
 
 ## Related
 - [[cannabis-therapeutic-index-overview]] — for evidence framework

@@ -19,7 +19,7 @@ Turkey tail is the most extensively researched medicinal mushroom for immune sup
 
 - **PSK (Polysaccharide-K, krestin):** Protein-bound polysaccharide. Approved as a cancer adjuvant drug in Japan since 1977. Extracted via hot water and precipitation.
 - **PSP (Polysaccharide-peptide):** Similar protein-bound polysaccharide. Approved as a drug in China since 1987.
-- **Beta-glucans:** The primary immunomodulatory compounds, particularly 1,3-beta and 1,6-beta-glucans.
+- **[[beta-glucans]]:** The primary immunomodulatory compounds, particularly 1,3-beta and 1,6-beta-glucans.
 - **Triterpenes:** Present at lower concentrations than reishi or chaga.
 - **Phenolic compounds and flavonoids:** Contribute antioxidant activity.
 

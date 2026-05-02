@@ -78,3 +78,7 @@ The Manual provides a pattern application checklist for designers, covering boun
 - [[permaculture-design]] -- Pattern understanding as input to design process
 - [[permaculture-zone-and-sector-analysis]] -- Pattern of zones and sectors as master layout
 - [[permaculture-introduction-and-ethics]] -- Ethical foundation for design decisions
+
+## Cultivation Applications
+
+This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

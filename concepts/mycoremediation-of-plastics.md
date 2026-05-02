@@ -50,7 +50,7 @@ In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiop
 
 ### White-rot Basidiomycetes
 - **Pleurotus ostreatus**: Degrades polystyrene when pre-treated or co-metabolized with lignocellulosic material
-- **Trametes versicolor**: Laccase enzymes partially oxidize bisphenol A (BPA) and phthalate plasticizers
+- **[[trametes-versicolor]]**: Laccase enzymes partially oxidize bisphenol A (BPA) and phthalate plasticizers
 - **Phanerochaete chrysosporium**: Lignin peroxidase attacks aromatic structures in some plastics
 - **Schizophyllum commune**: Degrades polyethylene under pre-oxidation conditions
 

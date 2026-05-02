@@ -1,0 +1,95 @@
+---
+title: Cactus Alkaloids Reference
+created: 2026-04-23
+updated: 2026-04-23
+type: concept
+tags:
+  - alkaloids
+  - cacti
+  - ethnobotany
+  - pharmacology
+sources:
+  - raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md
+---
+
+# Cactus Alkaloids Reference
+
+A comprehensive reference to the alkaloids found in psychoactive cacti, primarily those of the genus peyote-cultivation|lophophora (peyote), [[san-pedro-cactus-preparation]] (San Pedro and relatives), and various Mexican cacti used as peyote substitutes. These alkaloids belong mainly to two chemical classes: β-phenethylamines and tetrahydroisoquinolines.
+
+## Major β-Phenethylamine Alkaloids
+
+### Mescaline
+
+Mescaline (3,4,5-trimethoxy-β-phenethylamine) is the principal psychoactive alkaloid in [[peyote-and-psychoactive-cacti]], [[san-pedro-cactus-preparation]] (*Trichocereus pachanoi*), and several other [[psychoactive-cacti-species-reference]]. It was first isolated from peyote by Arthur Heffter in 1896, making it the first hallucinogenic compound ever isolated from a natural source.
+
+In dried peyote buttons, mescaline content ranges from approximately one to six percent by weight, with an average around one percent. An average dried button the diameter of a quarter weighs about two grams. San Pedro contains less mescaline by percentage (0.3–1.2%) but its much larger size makes it a more economical source.
+
+See [[mescaline-compound-profile]] and [[mescaline-peyote-and-san-pedro-guide]] for detailed pharmacological profiles.
+
+### Macromerine
+
+Macromerine (N,N-dimethyl-3,4-dimethoxy-β-hydroxy-β-phenethylamine) is a nonphenolic β-phenethylamine found exclusively in *Coryphantha* species, particularly *C. macromeris* (Doñana). It is reputed to possess approximately one-fifth the potency of mescaline. The related alkaloid normacromerine shows less activity than macromerine in animal studies.
+
+### Other Phenethylamine Alkaloids
+
+- **Homoveratrilamine** (3,4-dimethoxy-β-phenethylamine): Found in San Pedro cactus and in the urine of certain types of schizophrenics. Has no activity by itself but may subtly alter the mescaline experience in combination.
+
+- **N-methylphenethylamine**: Recently found in [[psychoactive-cacti-of-central-mexico]] species. Also found in *Acacia* species. Has pressor action with low toxicity.
+
+- **Synephrine** (N-methyl-4-hydroxy-β-phenethylamine): Found in citrus plants, some cacti, and human urine. A well-known sympathomimetic agent and probable intermediary in the phytosynthesis of macromerine.
+
+## Tetrahydroisoquinoline Alkaloids
+
+### Pellotine
+
+Pellotine (1,2-dimethyl-6,7-dimethoxy-8-hydroxy-1,2,3,4-tetrahydroisoquinoline) is found in peyote-cultivation|lophophora and *Pelecyphora* species. Along with anhalidine, it belongs to the tetrahydroisoquinoline class rather than the phenethylamine class, and contributes to the qualitative differences between the peyote experience and pure mescaline.
+
+### Anhalidine
+
+Anhalidine (2-methyl-6,7-dimethoxy-8-hydroxy-1,2,3,4-tetrahydroisoquinoline) is found in peyote-cultivation|lophophora and *Pelecyphora aselliformis* (peyotillo).
+
+## Sympathomimetic Amines
+
+Several cactus alkaloids are classified as sympathomimetic amines, meaning they stimulate the sympathetic nervous system:
+
+- **Hordenine** (N,N-dimethyltyramine, also called anhaline): Found in barley roots and several cacti. Has mild sympathomimetic and antiseptic activity.
+
+- **Tyramine**: Found in several cacti. Mild sympathomimetic with possible antiseptic activity.
+
+- **N-methyltyramine**: Found in some cacti and mutated barley roots. Probably an intermediate step in the methylation of tyramine to form candicine.
+
+- **3-methoxytyramine**: A phenolic β-phenethylamine first identified in the plant kingdom in San Pedro cactus.
+
+- **Metanephrine**: A weak sympathomimetic found in *Coryphantha* species.
+
+## Minor and Unique Alkaloids
+
+- **Dolichotheline** (N-isovalerylhistamine): An imidazole alkaloid found only in *Dolichothele* and *Gymnocactus* species. Pharmacological action remains unknown.
+
+- **3-dimethyltrichocereine** (N,N-dimethyl-3-hydroxy-4,5-dimethoxy-β-phenethylamine): Found in *Pelecyphora* and some *Trichocereus* species.
+
+- **N-methyl-3,4-dimethoxy-β-phenethylamine**: Found in *Pelecyphora aselliformis*, *Coryphantha runyonii*, and *Ariocarpus* species, but notably absent from peyote itself. Has slight activity in depletion of cardiac norepinephrine.
+
+## Alkaloid Distribution by Cactus Species
+
+Different cactus genera have distinct alkaloid profiles:
+
+- *Lophophora williamsii* (peyote): Rich in mescaline, pellotine, anhalidine, hordenine, lophophorine, and numerous other alkaloids contributing to its complex pharmacology.
+
+- *Trichocereus pachanoi* (San Pedro): Contains mescaline along with tyramine, hordenine, 3-methoxytyramine, anhalinine, anhalonidine, homoveratrilamine, and related compounds.
+
+- *Coryphantha macromeris* (Doñana): Contains macromerine, normacromerine, tyramine, hordenine, and synephrine (a macromerine precursor).
+
+- *Ariocarpus retusus* (tsuwiri/false peyote): Contains hordenine, N-methyltryptamine, and traces of other alkaloids in quantities insufficient for psychoactive effects.
+
+- *Pelecyphora aselliformis* (peyotillo): Contains traces of mescaline plus anhalidine, pellotine, hordenine, and N-methylmescaline, among others.
+
+See [[hallucinogenic-plant-chemistry]] and [[phenethylamine-chemistry-basics]] for broader chemical context.
+
+## See Also
+
+- [[mescaline-biosynthesis-and-precursor-enhancement]]
+- [[psychoactive-cacti-of-central-mexico]]
+- [[false-peyotes-mexican-cactus-ethnobotany]]
+- [[psychoactive-cacti-guide]]
+- [[peyote-and-psychoactive-cacti]]

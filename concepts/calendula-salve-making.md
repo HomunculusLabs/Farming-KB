@@ -14,7 +14,7 @@ These traditional herbal remedies were once found in almost every "home pharmacy
 ## Calendula Salve
 
 ### Ingredients
-- Two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
+- two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
 - Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. olive oil)
 - If using vegetable oil: 200-250g beeswax per litre of oil as thickening agent
 

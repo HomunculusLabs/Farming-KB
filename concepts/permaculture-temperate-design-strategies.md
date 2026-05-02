@@ -25,7 +25,7 @@ Chapter 12 of the Designers' Manual addresses the cool temperate and cold climat
 The net product of grassland in a cool humid climate has a bimodal growth curve with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
 
 Strategies to overcome seasonal deficits:
-- **Summer**: Green leaf from forage tree plantations overcomes the shortage. Evergreen forage trees like tagasaste may not withstand hard frost if lopped in late autumn; mature leaf must be carried into frost periods. Deciduous species (willow, poplar) provide summer forage, and their wood chips can be fermented to high-value winter concentrates.
+- **Summer**: Green leaf from forage tree plantations overcomes the shortage. Evergreen forage trees like [[tagasaste]] may not withstand hard frost if lopped in late autumn; mature leaf must be carried into frost periods. Deciduous species (willow, poplar) provide summer forage, and their wood chips can be fermented to high-value winter concentrates.
 - **Winter**: Hay storage, silage, lockup crops, and browse from evergreen species provide feed. Forage foliage can be pelleted, made into silage, or pressed as hay if dried after lopping.
 
 ### Tagasaste in Cold Climates

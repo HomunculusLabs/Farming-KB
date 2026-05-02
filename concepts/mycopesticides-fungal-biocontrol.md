@@ -11,9 +11,15 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 Mycopesticides are fungi used as biological control agents against insect pests. Entomopathogenic fungi -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
 
+
+
+
 ## The Problem with Chemical Pesticides
 
 Many chemical pesticides, especially organophosphates, harm non-targeted organisms, pollute water, and impair human health. Chemical pesticides permeate the food chain; most people on the planet accumulate these compounds and their derivatives in fatty tissues and bloodstream. The pesticide industry in the United States is valued at $9 billion, with biopesticides accounting for about 5% ($450 million) but growing at 15% per year.
+
+
+
 
 ## Key Entomopathogenic Fungi
 
@@ -31,6 +37,9 @@ Hosting many white mold fungi with broad insecticidal activity.
 ### Cordyceps
 A genus of fungi that includes species capable of behavioral manipulation of insects. Cordyceps lloydii, for example, infects carpenter ants and compels them to climb to the jungle canopy, where they lock their mandibles into a leaf and die. A mushroom then erupts from the carcass, releasing spores that disperse widely on wind currents.
 
+
+
+
 ## Mechanism of Infection
 
 When insects come into contact with entomopathogenic fungal spores:
@@ -41,6 +50,9 @@ When insects come into contact with entomopathogenic fungal spores:
 4. Once inside, mycelium forks through internal organs, interfering with metabolism
 5. This causes malaise, necrosis, and death within a few days
 6. The mummified insect becomes a launching platform for further sporulation
+
+
+
 
 ## The Presporulating Mycelium Discovery
 
@@ -53,6 +65,9 @@ Stamets discovered that the mycelium of entomopathogenic fungi, prior to sporula
 
 This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be grown on sterilized rice or other grain media and deployed near insect pathways.
 
+
+
+
 ## Advantages Over Chemical Pesticides
 
 - No persistent environmental toxicity after use
@@ -60,6 +75,9 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 - Insects can spread the fungus throughout their own colonies
 - Treated structures develop a resident protective shield from sporulated carcasses
 - Does not pose the cascading health hazards of chemical treatments
+
+
+
 
 ## See Also
 

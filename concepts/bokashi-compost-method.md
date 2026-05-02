@@ -1,0 +1,149 @@
+---
+title: "Bokashi Compost Method"
+created: 2026-04-18
+updated: 2026-04-18
+type: concept
+tags: [reference]
+sources: []
+---
+# Bokashi Compost Method
+
+Bokashi is a naturally fortified compost enriched with macro and micro nutrients, bionutrients, and biodiversed beneficial indigenous microorganisms. Originally developed in Japan and popularized through the work of Teruo Higa and [[effective-microorganisms-em]], bokashi has become a cornerstone of [[fukuoka-natural-farming-philosophy-of-mu]] and sustainable soil management worldwide. In the Carandang method, bokashi is referred to as "Designer Compost" because its formulation can be precisely tailored to the nutritional needs of specific crops or soil conditions.
+
+## Japanese Origins
+
+The concept of bokashi originated in Japan, where the term literally means "fermented organic matter." Teruo Higa, a professor at the University of the Ryukyus in Okinawa, developed the modern bokashi method in the 1980s as part of his broader EM technology. Higa discovered that specific combinations of lactic acid bacteria, yeast, and photosynthetic bacteria could accelerate the decomposition of organic matter while suppressing pathogens. Traditional Japanese farmers had long practiced variations of fermented composting, but Higa's work systematized the inoculation process and made it reproducible. In Korean Natural Farming (KNF), a parallel tradition of fermented composting developed independently, as documented in [[knf-preparations]].
+
+## How Bokashi Differs from Traditional Composting
+
+Traditional composting relies primarily on aerobic thermophilic decomposition — microorganisms break down organic matter in the presence of oxygen, generating heat that destroys pathogens and weed seeds. This process is well-documented in [[compost-building-guide]] and [[organic-composting-methods]].
+
+Bokashi, by contrast, is a pre-composting fermentation process that is largely anaerobic. Rather than decomposing organic matter completely, it preserves nutrients through lactic acid fermentation. The key differences include:
+
+No heat generation — bokashi ferments at ambient temperatures.
+
+Complete nutrient retention — volatile nitrogen and carbon are not lost to off-gassing.
+
+Faster processing — active fermentation takes 2-4 weeks rather than months.
+
+Ability to process materials that are problematic in aerobic composting, including meat, dairy, and cooked foods (in household bokashi systems).
+
+The fermented product is not finished compost. It requires a secondary decomposition phase, usually through soil burial, where aerobic soil organisms complete the breakdown. See [[bokashi]] for a detailed analysis.
+
+## The Anaerobic vs Aerobic Bokashi Debate
+
+There is ongoing discussion in the natural farming community about whether bokashi should be strictly anaerobic or whether a semi-aerobic approach yields better results. Japanese EM bokashi is typically processed in sealed containers with anaerobic conditions maintained throughout. The Philippine/Carandang method, as described below, uses a more open approach where the inoculated materials are piled and covered but not strictly sealed. This semi-aerobic fermentation allows some gas exchange while maintaining the dominance of lactic acid bacteria. Both approaches produce viable bokashi; the choice depends on available materials, scale of operation, and local climate conditions.
+
+## Philippine Bokashi Recipe (Carandang Method)
+
+The following recipe from Gil Carandang uses locally available Philippine ingredients. A total batch yields approximately 100 kg of finished bokashi:
+
+- Rice Bran — 10 kg
+
+- Copra Meal — 20 kg
+
+- Coco Peat — 20 kg
+
+- Chicken Manure — 30 kg
+
+- Charcoal Dust — 20 kg
+
+- [[query-how-do-i-use-beneficial-indigenous-microorganisms]] — 1 liter
+
+- Molasses — 1 kg
+
+- Bionutrient — 1 liter
+
+## Basic Formulation Ratio
+
+Carandang applies a universal formulation principle to bokashi that mirrors animal feed ratios:
+
+80% carbohydrate/carbon sources — rice bran, coco peat, charcoal dust.
+
+17% protein/nitrogen sources — copra meal, chicken manure.
+
+3% vitamin/mineral/trace elements — provided by the manure, rock dusts, and bionutrient.
+
+This ratio ensures a balanced substrate that supports robust microbial colonization while providing comprehensive plant nutrition once incorporated into soil.
+
+## Ingredient Substitutions
+
+One of the strengths of the bokashi method is its adaptability to locally available materials:
+
+Wheat bran or any inexpensive grain bran can substitute for rice bran.
+
+Corn meal, soybean meal, or other leguminous meals can replace copra meal.
+
+Peat moss can substitute for coco peat.
+
+Sawdust or any material high in carbon and lignin can replace charcoal dust.
+
+Any animal manure can be used, though chicken manure is preferred for its higher concentrations of nitrogen, phosphorus, potassium, and calcium, along with valuable micronutrients.
+
+## Role of Each Ingredient
+
+**Rice Bran:** Provides readily available carbohydrates and B vitamins that fuel initial microbial colonization. The fine particle size ensures even distribution of microorganisms throughout the mix.
+
+**Copra Meal:** A protein-rich residue from coconut oil extraction that supplies nitrogen and fatty acids essential for microbial growth.
+
+**Coco Peat:** Provides structure, moisture retention, and additional carbon. Its high water-holding capacity helps maintain the moisture level needed for fermentation (typically 40-60%).
+
+**Chicken Manure:** The primary nitrogen and phosphorus source. Its relatively fine texture and balanced NPK profile make it ideal. Well-composted or aged manure is preferred to reduce pathogen risk.
+
+**Charcoal Dust:** Serves as a carbon media and substrate for microbial proliferation. The porous structure of charcoal provides habitat for beneficial microorganisms and helps buffer pH. This aligns with the broader principles of [[soil-fertility-management]].
+
+**BIM ([[query-how-do-i-use-beneficial-indigenous-microorganisms]]):** The microbial inoculant that drives fermentation. A diverse community of [[lactic-acid-bacteria-knf]], yeasts, and other beneficial organisms outcompete pathogens and preserve nutrients.
+
+**Molasses:** The primary food source for microorganisms during fermentation. Its high sugar content rapidly boosts microbial populations.
+
+**Bionutrient:** A customizable concoction of fermented plant or animal extracts. The formulation can be adjusted for specific crop needs — high potassium for fruiting crops, high nitrogen for leafy vegetables, or high calcium for structural strength. See [[fermented-plant-extract-fpe]] and [[knf-fish-amino-acid]] for common bionutrient components.
+
+## Production Process
+
+1. Combine all dry ingredients in a clean, shaded area.
+
+2. Dissolve molasses in water and mix with BIM and bionutrient.
+
+3. Spray the liquid mixture evenly over the dry ingredients while turning the pile.
+
+4. Moisten to approximately 50-60% — the material should hold together when squeezed but not drip water.
+
+5. Pile the mixture in a mound or pack into containers.
+
+6. Cover with a tarp or breathable material to maintain humidity while allowing some gas exchange.
+
+7. Ferment for 7-14 days. A sweet-sour smell indicates successful fermentation; foul odors suggest contamination.
+
+8. The finished bokashi can be used immediately or stored in sealed containers for several months.
+
+## Customizing Bionutrients
+
+The bionutrient component allows farmers to "design" compost for specific purposes:
+
+High potassium bionutrient: Use [[fermented-plant-extract-fpe]] from banana peels, comfrey, or wood ash for fruiting and flowering crops.
+
+High nitrogen bionutrient: Use [[knf-fish-amino-acid]] or leguminous plant extracts for leafy growth phases.
+
+High calcium bionutrient: Incorporate eggshell or bone extracts for crops requiring structural strength.
+
+Rock dusts such as basalt, granite, or azomite can also be fermented into the mix to add trace minerals and micronutrients.
+
+## Application Rates and Soil Incorporation
+
+Bokashi is typically applied at 1-2 kg per square meter for garden beds, or 500 g per planting hole for transplants. For field-scale applications, rates of 1-5 tons per hectare are common depending on soil condition and crop demands.
+
+After the fermentation period, bokashi should be incorporated into soil rather than left on the surface. Bury it 4-6 inches deep in trenches between crop rows or mix it into planting holes. The aerobic soil organisms will complete the decomposition within 2-4 weeks, at which point the nutrients become fully available to plant roots. This burial step is critical — surface-applied bokashi can attract pests and may dry out before fully decomposing.
+
+## Bokashi as Compost Tea Base
+
+As Carandang notes, bokashi makes an excellent [[cervantes-compost-tea-organic-brewing]] base. The high microbial diversity and nutrient density translate into a potent liquid amendment. To make bokashi compost tea, steep 1 kg of finished bokashi in 10 liters of dechlorinated water for 24-48 hours with aeration. The resulting tea can be applied as a foliar spray or soil drench, delivering both nutrients and beneficial microorganisms directly to the plant canopy or root zone.
+
+## Comparison with Other Composting Methods
+
+| Feature | Bokashi | Hot Composting | Vermicompost |
+
+Process | Anaerobic fermentation | Aerobic thermophilic | Mesophilic (worms)
+
+Time to complete | 2-4 weeks + 2-4 weeks burial | 1-3 months | 2-6 months
+
+Nutrient retention | Very high | Moderate | High

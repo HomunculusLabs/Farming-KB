@@ -146,3 +146,11 @@ Psilocybin has a very high safety profile:
 - Cardiovascular effects include mild, transient increases in heart rate and blood pressure
 
 See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
+
+## See Also
+
+- [[global-psychedelic-mushroom-species-diversity]]
+- [[psychedelic-mushroom-set-and-setting]]
+- [[psychedelic-mushroom-dosage-guide]]
+- [[psychedelic-mushroom-music-and-culture]]
+- [[psychedelic-mushroom-taxonomy]]

@@ -134,7 +134,7 @@ Mycelium fosters specific microbial communities through its antibiotic secretion
 
 ## See Also
 
-- [[fungal-enzyme-systems-bioremediation]] for deeper biochemical detail
+- fungal enzyme systems bioremediation for deeper biochemical detail
 - [[mycoremediation-basics]] for application overview
 - [[mycoremediation-of-oil-spills]] for petroleum-specific applications
 - [[mycoremediation-of-heavy-metals]] for metal bioaccumulation

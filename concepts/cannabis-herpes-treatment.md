@@ -1,0 +1,143 @@
+---
+title: Cannabis Treatment for Herpes
+created: 2026-04-26
+updated: 2026-04-23
+sources:
+  - "Blesching - The Cannabis Health Index"
+type: concept
+tags: [cannabis]
+---
+
+# Cannabis Treatment for Herpes
+
+Herpes simplex is a common virus belonging to the same family as the
+chickenpox virus. There are currently eight known herpes viruses.
+According to orthodox medicine, all herpes viruses can exist in the body
+without any outward sign or symptom until a period of depressed immunity
+suddenly results in an outbreak. Oral herpes (cold sores or fever
+blisters) called [[blesching-cannabis-hiv-aids]] usually appears above
+the waist, in contrast to genital herpes (HSV-II). While HSV-I and II
+are relatively benign physically, they often take a profound toll on the
+patient's emotional well-being.
+
+## Current Allopathic Treatment
+
+No orthodox cure exists. A common allopathic treatment to "manage" herpes
+is Zovirax (acyclovir). Side effects may include nausea and/or vomiting,
+diarrhea, dizziness, anorexia, fatigue, swelling of the skin, skin
+rashes, leg pains, sore throat, and paresthesia (feeling of numbness).
+A month's supply for the maximum recommended dose costs about $870 (in
+2015).
+
+## Cannabis and Herpes Research
+
+Research on cannabis and herpes spans laboratory and human studies,
+yielding a [[cannabis-health-methods-of-administration]] of 5 across 3 studies
+reviewed by Blesching. The evidence points to two distinct mechanisms:
+antiviral activity against the virus itself, and pain reduction following
+outbreaks.
+
+### Topical Cannabinoids for Post-Outbreak Pain
+
+A 2010 study conducted on humans in Munster, Germany, confirmed that
+topical cannabinoids significantly reduce nerve pain after a flare-up of
+the herpes virus. The majority of patients experienced pain reduction
+by more than 80%.
+
+### THC and Viral Replication Interference
+
+Laboratory experiments from the University of South Florida (Tampa, 2004)
+showed that THC specifically targets viral and/or cellular mechanisms
+required for herpes replication. An earlier study from Johnson City,
+Tennessee (1980), demonstrated that herpes simplex I and II failed to
+replicate when introduced to dishes containing human cell cultures
+treated with THC, even in instances related to the genesis of cancer.
+
+### THC and Acyclovir-Resistant Strains
+
+Research has identified that THC and related cannabinoids show activity
+against acyclovir-resistant Herpes simplex virus type I (HSV-I-ACVr).
+This is significant because acyclovir-resistant strains represent a
+growing clinical challenge, particularly in immunocompromised patients.
+
+## Broader Antiviral Context
+
+THC and other cannabinoids have demonstrated antiviral properties
+against a range of DNA viruses. Beyond herpes specifically,
+cannabinoids have shown activity against hepatitis B and C, and research
+continues into their potential against other viral pathogens. The
+antiviral mechanisms may involve interference with viral gene
+expression promoters and disruption of viral replication machinery.
+
+## Strain-Specific Considerations
+
+THC binds with CB1 and CB2 receptors relatively equally. For herpes
+treatment, [[cannabis-sativa-vs-indica-guide]] and
+sativa-dominant hybrids have a higher THC:CBD ratio, which may be
+relevant given that the antiviral effects identified in studies primarily
+involve THC. Topical application of cannabinoid-containing creams was
+effective in human trials for post-outbreak pain management.
+
+## Endocannabinoid System Relevance
+
+The [[cannabis-endocannabinoid-system]] plays a
+role in immune function and inflammatory response through CB2 receptor
+activation. Herpes outbreaks are triggered by periods of depressed
+immunity, and supporting the immune system through endocannabinoid
+modulation may help reduce outbreak frequency. The CB2 receptor's
+involvement in immune regulation suggests that cannabinoids targeting
+this pathway could support the body's natural antiviral defenses.
+
+## Complementary Dietary Approaches
+
+Several common spices have demonstrated antiviral properties against
+herpes:
+
+- **Basil**: Extracts of Ocimum basilicum exhibit broad-spectrum
+  antiviral activity including defense against herpes
+- **Cardamom**: Cineole, a major constituent, has shown promise against
+  vaginal herpes infections in animal studies
+- **Clove**: Eugenine, a compound from clove extract, inhibits viral DNA
+  synthesis in several strains of herpes (I and II), including
+  acyclovir-resistant strains
+- **Coconut**: Crude extract of Cocos nucifera L. husk fiber inhibits
+  acyclovir-resistant Herpes simplex virus type I
+- **Turmeric**: Known for anti-inflammatory and antiviral properties
+
+## Mind-Body Connection and Herpes
+
+Research published by the American Psychosomatic Society acknowledges
+prior reports of precipitating emotional or psychic trauma as a component
+in herpes breakouts. Studies have focused on patients who were "able to
+consciously associate a relationship between the outbreak of the skin
+lesions and the existence of repressed hostility."
+
+The connection between suppressed emotions and herpes outbreaks is
+particularly notable. People who believe it is not acceptable to feel
+angry may be conscious only of guilt. Since feeling angry is part of
+the human experience, unexpressed anger may shift into the physical
+realm. Herpes sores on the lips may represent guilt associated with
+affection or expressing affection, while genital herpes sores may
+represent guilt associated with sexual activity.
+
+People who are able to prevent or abort an outbreak acknowledge and
+appropriately express their emotions, fostering deeper intimacy with
+themselves and others. Those who have achieved remission have been able
+to change the beliefs that initially made suppression of "unacceptable"
+feelings seem necessary.
+
+## Key Healing Factors
+
+- Appropriately express anger and hostile experiences
+- Establish principles around the expression of affection and sexuality
+- Identify and change limiting beliefs about emotional expression
+- Address repressed emotions that may trigger immune suppression
+- Support immune function through stress reduction and adequate rest
+
+## Related Topics
+
+- [[cannabis-for-viral-infections]]
+- [[cannabis-topical-applications]]
+- [[cannabis-endocannabinoid-system]]
+- [[cannabis-cannabinoid-receptor-pharmacology]]
+- [[blesching-cannabis-immune-system-modulation]]

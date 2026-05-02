@@ -27,9 +27,15 @@ sources:
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 
+
+
+
 ## Overview
 
 Han-Kyu Cho (born ~1938, South Korea) is the founder of **Korean Natural Farming (KNF)**, a complete agricultural system that uses indigenous microorganisms and fermented plant/animal inputs to grow crops without reliance on external chemical fertilizers or pesticides. He is widely known as "Master Cho" among practitioners worldwide.
+
+
+
 
 ## Key Contributions
 
@@ -43,14 +49,23 @@ Han-Kyu Cho (born ~1938, South Korea) is the founder of **Korean Natural Farming
 - **Brown Rice Vinegar (BRV):** Created natural acetic acid extraction method used as a solvent for calcium and mineral preparations.
 - **Fermented Mixed Compost (FMC):** Developed IMO-enriched composting methods for field application.
 
+
+
+
 ## Major Works
 
 - **"Korean Natural Farming"** — Foundational manual for the KNF system
 - Global teaching and workshops (Hawaii, mainland US, Southeast Asia, Africa)
 
+
+
+
 ## Legacy
 
 KNF has spread to over 30 countries and is practiced in cannabis cultivation, vegetable farming, orchard management, and animal husbandry. It directly influenced the development of [[jadam-methods]] (Young-sang Cho's simplified system). Master Cho's philosophy centers on the idea that all necessary inputs can be found within the farm's ecosystem.
+
+
+
 
 ## See Also
 
@@ -66,6 +81,9 @@ KNF has spread to over 30 countries and is practiced in cannabis cultivation, ve
 - [[fermented-mixed-compost-fmc]] — IMO-enriched composting
 - [[lactic-acid-bacteria-lab]] — LAB production and application
 - [[jadam-methods]] — Simplified descendant system
+
+
+
 
 ## Related
 

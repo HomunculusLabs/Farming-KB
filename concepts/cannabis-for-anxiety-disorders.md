@@ -11,6 +11,9 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 The relationship between cannabis and anxiety is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic cannabis use.
 
+
+
+
 ## The Dosing Paradox
 
 ### Low Doses (1-5mg THC)
@@ -27,6 +30,9 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 - Consistently anxiolytic across dose ranges
 - Does not produce the biphasic response that THC does
 - Counteracts THC-induced anxiety when co-administered
+
+
+
 
 ## Evidence by Condition
 
@@ -53,6 +59,9 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 - High-CBD strains may reduce compulsive behaviors
 - Anecdotal evidence stronger than clinical trials
 
+
+
+
 ## Recommended Approach
 
 1. **Start with CBD-only products** — no risk of anxiety increase
@@ -61,10 +70,16 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 4. **Strain selection**: High-linalool, high-caryophyllene strains (e.g., ACDC, Harlequin, Cannatonic)
 5. **Terpenes matter**: Linalool (anxiolytic), limonene (mood elevation), myrcene (sedation)
 
+
+
+
 ## Contraindications
 - Personal or family history of psychosis
 - Current use of benzodiazepines (additive CNS depression)
 - Bipolar disorder (THC may trigger manic episodes)
+
+
+
 
 ## Related
 - [[cannabis-therapeutic-index-overview]] — for evidence framework

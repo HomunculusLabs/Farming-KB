@@ -148,49 +148,5 @@ To harvest: hold base, support cluster weight, cut thick base with small sharp k
 ## Problem-Solving
 
 ### Shortening Spawn Run
-1. Select a vigorous fast-growing fruiting strain
-2. Use highest optimal temperature during spawn run
-3. Use generous amount of quality spawn (1:10 to 1:20 ratio); through-spawning recommended
-4. Use wide-bore bags with ample air space above substrate
-5. Use effective aeration formula (fine + coarse sawdust 3:1)
 
-### Primordia Failure
-- Check strain genotype -- some strains simply cannot fruit
-- No cold shock needed for maitake primordia
-- Too much light during early/mid spawn run = undesirable grayish-brown coat
-- Prolonged spawn run without light = overly thick mycelial coat (delays/prevents primordia)
-- Low light (50 lux) throughout spawn run recommended
-
-### Primordia Death
-- Best: primordia form at 1-2 sites only
-- Avoid numerous minute primordia scattered across surface
-- Timing of bag opening is critical -- too early = fragile primordia die; too late = arrested development
-
-### Temperature Control
-- Substrate temperature can be 2-3C higher than ambient air due to respiration
-- Japanese growers maintain strict control within 2C range (16-18C)
-- Minimize fluctuation to avoid condensation
-
-### Moisture and Humidity
-- Do NOT remove entire bag during transition -- open top only
-- Wait 2-3 days after transfer before opening bags
-- RH below 80% = drought death of fruiting bodies
-- RH near 100% = rot
-- Direct water contact on fruiting bodies invites bacterial growth
-
-### Increasing Yield
-- Larger substrate amounts (15.4 kg vs 11 kg)
-- Soil casing produces higher yield (treated humus-rich hardwood forest soil)
-- Sandy soil or clay is not beneficial
-- Second flush possible by embedding spent substrate in sawdust, covering with soil
-- Record maitake >10 lbs obtained with soil casing
-
-## Related
-
-- [[mushroom-species-guide]] — Overview of cultivated mushroom species
-- [[medicinal-mushroom-guide]] — Maitake's medicinal compounds (D-fraction, beta-glucans)
-- [[mushroom-substrates]] — Substrate science and alternatives
-- [[mushroom-sterile-technique-detailed]] — Sterile inoculation procedures
-- [[mushroom-spawn-making-detailed]] — Grain and sawdust spawn production
-- [[mushroom-pasteurization]] — Pasteurization methods for substrate bags
-- [[mushroom-cultivation-methods]] — Comparison of cultivation approaches
+Related: [[growing-gourmet-sawdust-spawn-production-use]], [[mushroom-sawdust-bran-spawn-preparation]], [[chen-maitake-primordia-initiation-fruiting]]

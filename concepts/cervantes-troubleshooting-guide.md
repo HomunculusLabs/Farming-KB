@@ -1,0 +1,116 @@
+---
+title: Troubleshooting Guide
+created: 2026-04-26
+sources: Marijuana Horticulture (Cervantes)
+synonyms: problem diagnosis, nutrient deficiencies, nutrient excesses, environmental stress
+type: concept
+tags: [cannabis]
+updated: 2026-04-26
+---
+
+# Troubleshooting Guide
+
+Diagnosing cannabis plant problems requires careful observation and systematic elimination. Most problems fall into three categories: nutrient disorders, environmental stress, and pest or disease issues. This guide covers the most common problems encountered during cultivation.
+
+## Diagnostic Approach
+
+When plants show problems, examine them systematically. Check leaves for discoloration, spots, curling, or wilting. Inspect stems, branches, and buds for abnormalities. Check the root zone for odors, discoloration, or pests. Test the growing medium pH and nutrient solution EC. Review environmental conditions: temperature, humidity, light intensity, and air circulation. Most problems have multiple possible causes; eliminate possibilities one by one.
+
+## Nitrogen Deficiency
+
+Nitrogen deficiency is the most common nutrient problem. Symptoms appear first on older, lower leaves as overall yellowing (chlorosis) that progresses upward. Leaves may drop prematurely. Growth slows, and stems become weak and spindly. During flowering, some nitrogen depletion is normal as plants redirect nitrogen from older leaves to developing buds. Correct by adding a nitrogen-rich fertilizer or adjusting nutrient solution.
+
+## Nitrogen Excess
+
+Too much nitrogen causes dark green, overly lush foliage that is susceptible to pest and disease attack. Leaves may curl downward like a praying mantis claw. Excess nitrogen delays flowering and reduces bud production. Stems become soft and brittle. Flush with plain water and reduce nitrogen in the feeding regimen.
+
+## Phosphorus Deficiency
+
+Phosphorus deficiency causes dark green or purplish leaves, particularly on the undersides. Older leaves may develop dark necrotic spots. Stems and leaf petioles may turn purple or red. Growth is stunted, and flowering is delayed. Phosphorus is less available in cold soils and at high pH (above 7.0). Cold growing medium temperatures below 55 degrees F (13 degrees C) can lock out phosphorus even when it is present.
+
+## Potassium Deficiency
+
+Potassium deficiency causes older leaves to develop brown, scorched edges and tips. Necrotic spots may appear between leaf veins. Stems become weak and brittle. Plants are more susceptible to disease. Potassium is critical during flowering for bud development and resin production. Brown leaf tips during flowering often indicate potassium deficiency.
+
+## Calcium Deficiency
+
+Calcium deficiency causes new growth to appear distorted, twisted, or crinkled. Young leaves may develop brown spots and necrotic areas. Root tips may die back. Calcium is immobile in plants, meaning deficiency shows in new growth first. Blossom end rot (soft brown spots on buds) can occur. Calcium deficiency is common in hydroponic systems with soft water or RO water without supplementation.
+
+## Magnesium Deficiency
+
+Magnesium deficiency causes interveinal chlorosis (yellowing between leaf veins while veins remain green) on older leaves. Leaves may curl upward and develop rust-colored spots. A common cause is low pH locking out magnesium. Adding Epsom salt (magnesium sulfate) at one tablespoon per gallon corrects most deficiencies quickly. Dolomite lime in the growing medium provides long-term magnesium supply.
+
+## Iron Deficiency
+
+Iron deficiency causes interveinal chlorosis on young, new leaves. Unlike magnesium deficiency which affects older leaves, iron deficiency is most visible on the newest growth. Iron is unavailable at high pH (above 6.5 in soil, above 6.0 in hydroponics). Correct by lowering pH and adding chelated iron to the nutrient solution.
+
+## Overwatering
+
+Overwatering is a common problem, especially with small plants. Too much water drowns roots by cutting off their oxygen supply. Symptoms include leaves curled down and yellowed, waterlogged and soggy soil, fungal growth, and slow growth. Signs of overwatering are often subtle and may not be noticed for a long time. Poor air ventilation is a main cause; plants need to transpire water into the air, and if humid air has nowhere to go, moisture stays locked in the grow room.
+
+## Underwatering
+
+Underwatering is less common but occurs frequently with small pots. Symptoms include wilted, drooping foliage, dry soil pulling away from container edges, and crispy leaf edges. When tender root hairs dry out, they die. It takes time for roots to regrow root hairs and resume rapid growth. Use a moisture meter to prevent dry soil pockets.
+
+## Heat Stress
+
+Temperatures above 85 degrees F (29 degrees C) cause leaves to curl upward at the edges, develop dry, crispy tips, and in severe cases, become papery and white. Growth slows dramatically, and plants may stop growing entirely for days after a heat event. Bud development suffers, and potency may decrease. Improve ventilation, increase airflow, add air conditioning, or reduce lighting intensity.
+
+## Light Burn
+
+Light burn causes yellowing or bleaching of upper leaves closest to the light source. Leaves may develop white or yellow patches and feel dry and crispy. Raise lights to the appropriate distance. HID lights should generally be 12-24 inches from the canopy. LED lights can be closer but still cause damage if too near.
+
+## Wind Burn
+
+Excessive wind from fans or intake causes leaves to curl under in a taco shape and develop dry, brown edges. Leaves may appear stressed and twisted. Reduce fan intensity or reposition fans to avoid direct, constant airflow on individual plants. Leaves should flutter gently, not be beaten flat.
+
+## pH Problems
+
+pH outside the optimal range (5.8-6.8 for hydroponics, 6.5-7.0 for soil) locks out nutrients, creating deficiency symptoms even when nutrients are present. Always test pH when diagnosing unexplained deficiency symptoms. Most "nutrient problems" are actually pH problems.
+
+## Salt Buildup
+
+Excess fertilizer salts accumulate in growing mediums over time, causing nutrient lockout, leaf burn, and stunted growth. EC/TDS readings will be high. Leaves develop burnt edges and tips. Flush with two to three times the container volume of plain water, then resume feeding at reduced strength.
+
+## See Also
+
+- [[cervantes-temperature-management]]
+- [[cervantes-odor-control]]
+- [[cervantes-fungus-gnats]]
+
+- [[cervantes-photoperiod-interruption-light-leak]]
+- [[cervantes-nft-aeroponic-systems]]
+- [[cervantes-cannabis-flower-anatomy]]
+- [[cervantes-drain-to-waste-vs-recirculating]]
+- [[cervantes-vapor-pressure-deficit-transpiration]]
+- [[cervantes-fusarium-vascular-wilt-diseases]]
+- [[cervantes-plant-support-trellis-stakes-cages]]
+- [[cervantes-nutrient-stock-solutions-concentrates]]
+- [[cervantes-nutrient-burn-over-fertilization]]
+
+- [[cervantes-nutrient-management]]
+- [[cervantes-water-quality-management]]
+- [[cervantes-pest-disease]]
+- [[cervantes-air-quality-ventilation]]
+- [[cervantes-growing-medium]]
+- [[cervantes-lighting-systems]]
+- [[cervantes-vegetative-phase]]
+- [[cervantes-flowering-phase]]
+
+- [[cannabis-genetics-and-breeding]]
+
+- [[cervantes-indica-sativa-ruderalis-differences]]
+- [[cervantes-damping-off-seedling-disease-prevention]]
+- [[cervantes-downy-mildew-fungal-blight]]
+- [[cervantes-mealybugs-scale-insect-control]]
+- [[cervantes-passive-wick-hydroponic-systems]]
+- [[cervantes-thrips-pest-control]]
+- [[cervantes-ventilation-fan-carbon-filter-setup]]
+- [[cervantes-whitefly-pest-control]]
+- [[cervantes-beetle-borers-bees-wasps-loopers]]
+- [[cervantes-foliar-spots-blight-fungal-leaf-diseases]]
+- [[cervantes-green-algae-growing-medium]]
+- [[cervantes-leafhoppers-leaf-miners]]
+- [[cervantes-root-maggots-cutworms]]
+- [[cervantes-verticillium-wilt-sooty-mold]]
+- [[cervantes-viral-diseases-cannabis]]

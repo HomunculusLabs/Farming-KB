@@ -1,0 +1,145 @@
+---
+title: Wasson and the Rediscovery of Psilocybin Mushrooms
+created: 2026-04-26
+updated: 2026-04-23
+sources:
+  - "Letcher - Shroom: A Cultural History of the Magic Mushroom"
+type: concept
+tags: [psilocybin]
+---
+
+# Wasson and the Rediscovery of Psilocybin Mushrooms
+
+The Western rediscovery of [psychedelic mushrooms in Mexico is one of the most
+consequential episodes in the history of [[history-psychedelics-ancient]]. The story centres on [Robert Gordon Wasson (1898-1986), a Wall Street banker whose obsessive interest in the cultural history of fungi
+led him to become the first Westerner to participate intentionally in a [mushroom ceremony -- an event that would ultimately kick-start the psychedelic-revolution.
+
+## Origins: The Honeymoon Incident
+
+Wasson's fascination with mushrooms was supposedly sparked during his honeymoon in the Catskill Mountains
+in 1926. He and his bride, valentina pavlovna wasson, a Russian-born
+paediatrician-in-training, encountered wild mushrooms on a walk through the beautiful autumn forests. Wasson
+reacted with horror and revulsion while Valentina gathered them with evident delight, stuffing as many as
+she could into her knotted skirt. Convinced that the pickings were toadstools, Wasson refused to touch the
+meal she prepared and expressed alarm that he might wake up a widower.
+
+The contrast between his fear and her enthusiasm prompted the couple to wonder what could explain such
+diametrically opposed reactions. This foundational story, repeated by Wasson "ad infinitum," grew ever
+taller in the telling. His own daughter Masha questioned whether it had any substance at all, but eventually
+conceded that the incident had genuinely occurred, however embroidered it became over the years. The couple
+embarked on what was to become a lifelong quest to investigate and understand the varied cultural
+relationships between humans and fungi.
+
+## Mushrooms, Russia and History
+
+The Wassons amassed evidence from philology, mythology, ethnography, folklore and fairy tale. They noticed
+patterns, such as the paucity of names for mushrooms in the English language compared to the Russian. They
+coined the terms [mycophilic (mushroom-loving) and
+mycophobic (mushroom-hating), categorising nations accordingly -- placing Russia at one pole and Britain at
+the other. They published their findings in a massive, privately printed two-volume work,
+[Mushrooms, Russia and History (1957), which had itself mushroomed from its
+original conception as a Russian cookbook.
+
+## The Academic Pre-History: Safford's Denial
+
+The Western rediscovery of Mexican mushrooming practice began, ironically, with a vigorous scholarly denial
+that they had ever existed. In 1915, the American botanist William Safford published a paper stating that
+the Aztec [[teonanacatl-history]] had been none other than the peyote cactus, and that "three centuries of
+investigation have failed to reveal an endemic fungus used as an intoxicant." His findings became widely
+accepted in scientific circles.
+
+The first to challenge Safford was the Austrian physician Blas Pablo Reko, who wrote in 1919 that
+teonanacatl was "actually as Sahagun said, a fungus which grows on dung-heaps and which is still used under
+the same old name by the Indians of the Sierra Juarez in Oaxaca in their religious feasts." In 1936, the
+linguist Robert J. Weitlaner conducted research amongst the [Mazatec Indians in the remote town of Huautla de Jimenez -- later to become famous as the
+epicentre of a global magic mushroom craze -- and discovered that mushrooms were indeed used in curative
+divinatory rites.
+
+In 1938, Reko was joined by the brilliant young Harvard ethnobotanist Richard Evans Schultes, who made the first formal identification of the mushrooms from collected samples. In the
+same year, a party led by Jean Bassett Johnson became the first outsiders to witness an indigenous mushroom
+curing ceremony, in which a curandero "divined the patient's illness" under the influence of the mushrooms.
+
+## Wasson's Expeditions to Huautla
+
+In 1952, Wasson received two letters alerting him to the existence of Mesoamerican mushroom stones and the
+fact that teonanacatl had been a genuine mushroom. He immediately wrote to Reko expressing his interest.
+Wasson made ten successive trips to Mexico. On his first trip in late 1953, accompanied by his photographer
+daughter Masha and guided by Weitlaner, he reached Huautla, where he discovered that his local guide, Aurelio
+Carreras, was himself a curandero. Wasson witnessed his first authentic velada (mushroom vigil), though
+only Carreras consumed mushrooms.
+
+## Meeting Maria Sabina
+
+Wasson's third trip, in 1955, with society photographer Allan Richardson, proved far more momentous. They
+met the curandera [Maria Sabina, who agreed to let both Wasson
+and Richardson consume the sacred mushrooms. They became the first Westerners ever intentionally to do so.
+
+Wasson's written accounts drew comparison with Aldous Huxley. He described geometric
+patterns giving way to "architectural structures, with colonnades and architraves, patios of regal splendour,
+the stone-work glowing with preternatural light." He felt himself a "disembodied eye" hovering above strange,
+new landscapes. He sensed he understood the true, awful meaning of "ecstasy" -- standing outside oneself.
+
+Wasson was already convinced that the mushroom's effects were benign and spiritual. He had, as Letcher
+notes, "already abandoned the classical framework in favour of the psychedelic discourse, and went to Mexico
+convinced that the mushroom's effects were benign and spiritual." He was perhaps the first Westerner to
+believe as much.
+
+## The Life Article and Its Consequences
+
+Wasson published his account in Life magazine in 1957, "Seeking the Magic Mushroom." Though Wasson claimed
+he wanted nothing to do with hippy culture and expressed nothing but contempt for Timothy Leary, the article played a pivotal role in kick-starting the entire psychedelic revolution. Key figures
+of that movement, including Leary, experimented with psychedelics as a direct result.
+
+Wasson revealed Sabina's name and whereabouts, and within months of the article going to press, Westerners
+were knocking on her door. The trickle of visitors in the early 1960s became a flood until Oaxaca was awash
+with hippies. Rock stars -- Pete Townshend, John Lennon and Bob Dylan, amongst others -- were rumoured to
+have made the pilgrimage, making Huautla an essential destination.
+
+## Wasson's Mushroom Soirees
+
+Returning to New York with dried mushroom specimens, Wasson held a series of "mushroom soirees" in his
+Manhattan apartment, inviting guests to achieve a state of grace by passing out pills made from dried
+mushrooms. Trippers were presented with a son et lumiere show featuring Wasson's sound recordings from
+Mexico. These gatherings prefigured the psychedelic parties of the 1960s, and Wasson's own willingness to
+smuggle psilocybin into America -- arranging for Hofmann to risk his job by posting psilocybin pills from
+Switzerland to California -- showed that, for all his professed lofty regard for indigenous practices, he
+considered himself above the law.
+
+## Critique of Wasson's Approach
+
+Letcher is sharply critical of Wasson's methodology and motivations. Wasson came to Mexico "more as a
+prospector digging for gold than a philosopher looking for knowledge and truth, and ever had his eye on how
+the name of Gordon Wasson would be remembered." He made lightning visits of only a few days at a time,
+knew no Mazatec language, and was always reliant on translators and guides. His single-minded focus upon
+the notion that an ancient mushroom cult had once existed meant he failed to understand what Sabina was
+actually doing.
+
+Wasson projected a Christian, High Church framework onto Mazatec healing practices. He beatified Sabina as
+"Religion Incarnate" and presented her to the world as the last living saint of his imagined ancient
+mushrooming religion. He dismissed other curanderos as second rate, despite their standing being as high as
+Sabina's in their respective communities. His decision to publish in Life, motivated primarily by
+self-interest, meant he bore substantial responsibility for Sabina's downfall and the exploitation of Mazatec
+traditions.
+
+## Legacy
+
+Despite these criticisms, Wasson's Mexican discoveries transformed Mushrooms, Russia and History from a
+ponderous text into a classic. His work led directly to Albert Hofmann's isolation of
+[[psilocybin-isolation-and-early-scientific-research]], opened the door to serious scientific investigation, and introduced the magic mushroom to
+Western consciousness. The veladas were not purely religious ceremonies but acts of healing -- "the vigils
+weren't born of a simple desire to find God, but were done with the sole purpose of curing the sicknesses
+that our people suffer from." Wasson's misrepresentation of this fact was his greatest anthropological
+failure.
+
+## See Also
+
+- [[gartz-wasson-mexican-mushroom-cult-rediscovery]]
+
+- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[psilocybin-isolation-and-early-scientific-research]]
+- [[mexican-inquisition-against-mushroom-cults]]
+- [[timothy-leary]]
+- [[albert-hofmann]]
+- [[mycophilia-mycophobia-european-mushroom-history]]
+- [[1960s-counterculture-and-magic-mushrooms]]
+- [[roger-heim-scientific-study-psilocybin]]

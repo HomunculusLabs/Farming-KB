@@ -1,0 +1,95 @@
+---
+title: Sorghum Growing and Molasses Making
+created: 2026-04-19
+updated: 2026-04-19
+type: concept
+tags: [permaculture, design]
+sources: [/Users/t3rpz/wiki/raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md]
+---
+
+Updated: 2026-04-18
+
+Sorghum (Sorghum bicolor) is a hardy, drought-tolerant grain crop that can also be processed into molasses. It is one of the most versatile multi-use plants for warm climates.
+
+## Uses
+
+- Edible grain
+
+- Molasses production (from pressed stalks)
+
+- Animal fodder (after 18 inches tall — young shoots are poisonous)
+
+- Bee forage
+
+- Dryland tolerant
+
+## Growing Conditions
+
+- Long growing season with warm weather
+
+- Very drought and heat tolerant
+
+- Requires lots of fertilizer
+
+- Similar cultivation to wheat or corn
+
+- May need to wait until first frost to dry sufficiently
+
+## Varieties
+
+Sorghum varieties fall into several categories based on use. Grain sorghums (milo) are grown for their edible seeds and include varieties like 'MRS-18' and 'DeKalb DKS-44'. Sweet sorghums are grown for syrup production — 'Dale', 'M81-E', and 'Sugar Drip' are popular molasses varieties with high sugar content in their stalks. Broomcorn sorghums produce long, fibrous seed heads used in broom-making. Forage sorghums like 'Piper' are grown for animal feed. Select varieties based on your primary intended use, as each type is optimized for different characteristics.
+
+## Propagation
+
+Sorghum is direct-seeded after soil has warmed to at least 65°F (18°C). Plant seeds 0.5-1 inch deep in rows 30-40 inches apart, thinning to 4-8 inches between plants for grain production or 8-12 inches for syrup production. Germination occurs within 5-7 days. Sorghum can also be started in flats and transplanted, though this is uncommon. For successive harvests, sow new batches every 2-3 weeks throughout the growing season. Each plant produces a single seed head.
+
+## Companion Planting
+
+Sorghum works well in Permaculture Cover Crops Guide rotations in warm climates, following nitrogen-fixing legumes. In [[permaculture-design-principles-beginners]], sorghum provides windbreak protection for shorter crops and serves as a [[permaculture-wildlife-corridors]] biomass producer. It pairs well with cowpeas, mung beans, and peanuts as companion crops. Sorghum's tall growth habit provides a living trellis for climbing beans. Avoid planting near other Sorghum species to prevent cross-pollination if saving seed. As [[urban-permaculture-fodder-trees-livestock]] annual equivalent, mature sorghum provides substantial animal feed.
+
+## Culinary Uses
+
+Sorghum grain is gluten-free and can be ground into flour for breads, flatbreads, and porridges. In African cuisine, sorghum is fermented into traditional beers and used in injera (Ethiopian flatbread). Popped sorghum is a nutritious popcorn alternative. Sorghum molasses has a distinctive earthy-sweet flavor, used on biscuits, pancakes, and in baking. The syrup can also be fermented into sorghum beer or distilled. Sorghum flour is increasingly available as a gluten-free baking ingredient.
+
+## Pests and Diseases
+
+Sorghum is susceptible to several pests and diseases. Sorghum midge can destroy developing seed heads — plant early-maturing varieties to avoid peak midge populations. Birds are major seed predators as grain matures, requiring netting or scare devices. Aphids, especially sugarcane aphid, have become a serious problem in recent years. Fungal diseases include grain mold, anthracnose, and downy mildew. Crop rotation and selecting disease-resistant varieties are the primary management strategies. The [[organic-pest-and-disease-management]] approach uses beneficial insects and neem-based sprays.
+
+## Harvesting as Grain
+
+Raise and harvest the same as wheat or corn. Thresh, winnow, and store.
+
+## Making Sorghum Molasses
+
+1. Chop stalks at ground level at end of season
+
+2. Remove leaves
+
+3. Press or grind the canes (stalks) to extract juice
+
+4. Collect juice in a container
+
+5. Boil down like maple syrup, stirring continuously to prevent scorching
+
+6. Syrup is ready when highly concentrated and sweet
+
+7. Store for many months — sugar will harden at the bottom and can be used as candy or sweetener
+
+## Equipment for Molasses
+
+A sorghum press (or cane mill) is the primary equipment needed. Small hand-cranked presses are available for home-scale production, while horse-drawn or engine-powered mills handle larger quantities. A stainless steel or copper evaporator pan is needed for boiling — cast iron can affect flavor. A candy thermometer helps monitor temperature. An average yield is 5-10 gallons of syrup per 100 square feet of planted sorghum.
+
+## Animal Fodder Warning
+
+Plants cannot be used as fodder until at least 18 inches (0.5 m) tall. Young shoots are poisonous to livestock due to dhurrin, a cyanogenic glycoside that converts to hydrogen cyanide when consumed.
+
+## See Also
+
+- [[permaculture-grain-crops]]
+
+- [[grain-harvesting-and-storage]]
+
+- [[permaculture-climate-strategies]]
+
+- Permaculture Cover Crops Guide
+- [[urban-permaculture-nitrogen-fixing-green-manures]]

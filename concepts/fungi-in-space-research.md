@@ -62,8 +62,8 @@ Mushrooms offer unique advantages for space agriculture:
 ### Species Studied for Space Food
 - **Pleurotus ostreatus**: Primary candidate; grows on diverse substrates, good nutrition
 - **Lentinula edodes** (shiitake): Studied for flavor and nutritional value
-- **Agaricus bisporus** (button mushroom): Well-understood cultivation; common food item
-- **Volvariella volvacea** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
+- **[[agaricus-bisporus]]** (button mushroom): Well-understood cultivation; common food item
+- **[[volvariella-volvacea]]** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
 - **Ganoderma lucidum** (reishi): Studied for medicinal and immune-support properties
 
 ### Closed-Loop Life Support Integration

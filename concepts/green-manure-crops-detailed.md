@@ -66,7 +66,7 @@ Choose a plant that:
 - Sow: spring; space ~6in (15cm) in rows ~6in apart, 3in (7cm) between seeds
 - 1oz (30g) sows 70yd (70m) of row; cut down and dig in summer; second crop can be sown and dug in eight weeks later
 
-### Winter Tare — *Vicia villosa*
+### Winter Tare — *[[vicia-villosa]]*
 - Tall plant; one of the most useful crops because it grows through winter
 - Sow: late summer, dig in early spring; also sowable spring/summer if land is vacant
 - 3oz (80g) sows a 100yd (100m) row

@@ -19,13 +19,9 @@ tags:
 sources:
 - raw/papers/unknown-mycelium-running.md
 ---
-
 # Mushroom Ecological Species
-
 Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/ecological species, mycoremediation species, and substrate preparation reference. Based on [[paul-stamets]]' *Mycelium Running*. See [[mushroom-species-cultivation-parameters]] for primary species (Oyster, Wine Cap, Shiitake, Maitake, Lion's Mane).
-
 ### Ganoderma lucidum — Reishi
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Hardwood sawdust (oak, maple), supplemented; also grows on logs and stumps |
@@ -40,9 +36,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Yield | Variable; reishi grows slowly but can reach large size |
 | Difficulty | Moderate |
 | Key notes | Medicinal: ganoderic acids (triterpenes), beta-glucans; anti-inflammatory, immune-modulating, adaptogenic; grows in concentric formation like shelves |
-
 ### Trametes versicolor — Turkey Tail
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Hardwood logs, stumps, wood chips, sawdust |
@@ -57,9 +51,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Yield | Not typically cultivated for food; grown for medicinal extraction |
 | Difficulty | Easy to grow; difficult to get high-quality fruiting bodies |
 | Key notes | Medicinal: PSK and PSP (cancer adjuvant therapy approved in Japan/China); immune modulation; one of the most studied medicinal mushrooms |
-
 ### Agaricus subrufescens — Almond Mushroom / Agaricus blazei
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Composted substrate (horse manure + straw); similar to button mushroom compost |
@@ -74,59 +66,44 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Yield | 1-2 lbs per sq ft of bed |
 | Difficulty | Moderate; requires composted substrate |
 | Key notes | Medicinal: high beta-glucan content; strong immune activation; originally from Brazil |
-
 ## Outdoor and Ecological Species
-
 ### Pleurotus pulmonarius — Phoenix Oyster
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Straw, sawdust, paper, agricultural waste |
 | Fruiting temp | 55-80°F (13-27°C); wider temp range than P. ostreatus |
 | Notes | Similar to P. ostreatus but fruits at warmer temperatures; good summer oyster |
-
 ### Hypsizygus tessulatus — Elm Oyster / Buna-shimeji
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Hardwood sawdust, supplemented |
 | Fruiting temp | 55-65°F (13-18°C) |
 | Notes | Excellent garden companion mushroom; fruits in association with living plants; nutty flavor |
-
 ### Coprinus comatus — Shaggy Mane
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Composted manure, enriched garden soil, disturbed ground |
 | Fruiting temp | 50-70°F (10-21°C) |
 | Notes | Appears spontaneously in compost-rich gardens; deliquesces (melts) within hours of maturity |
-
 ### Morchella spp. — Morel
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Outdoor burn sites, dead elm trees, disturbed ground with ash |
 | Fruiting temp | 50-65°F (10-18°C) |
 | Notes | Notoriously difficult to cultivate reliably; some success with outdoor burn-site inoculation; sclerotia-based cultivation emerging |
-
 ### Armillaria mellea — Honey Mushroom
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Living and dead hardwood trees, stumps, roots |
 | Fruiting temp | 45-60°F (7-16°C) |
 | Notes | Parasitic — can kill living trees; forms massive underground networks (one of the largest organisms on Earth); edible when thoroughly cooked; use caution |
-
 ### Laetiporus sulphureus — Chicken of the Woods
-
 | Parameter | Value |
 |-----------|-------|
 | Substrate | Living and dead hardwood trees (oak, cherry, beech, willow) |
 | Fruiting temp | 55-75°F (13-24°C) |
 | Notes | Brown-rot fungus; excellent edible when young; grows on living trees (parasitic) and dead logs; high in protein |
-
 ## Mycoremediation Species
-
 | Species | Primary Application | Notes |
 |---------|-------------------|-------|
 | Pleurotus ostreatus | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
@@ -137,9 +114,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Lentinula edodes | Xenobiotics, pesticides | Laccase production |
 | Pleurotus eryngii | PAHs, petroleum | Mediterranean oyster; tolerant species |
 | Schizophyllum commune | Various pollutants | Cosmopolitan; grows almost anywhere |
-
 ## Substrate Preparation Quick Reference
-
 | Substrate | Pasteurization | Sterilization | Species |
 |-----------|---------------|---------------|---------|
 | Straw | Hot water (160°F, 1-2 hrs) or cold incubation | Not needed | Oyster, wine cap |
@@ -148,9 +123,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Wood chips | Not required (outdoor) | Not required | Wine cap, garden giants, reishi |
 | Logs | Not required | Not required | Shiitake, oyster, reishi, maitake |
 | Coffee grounds | Pasteurize if concerned | Not needed | Oyster species |
-
 ## See Also
-
 - [[mushroom-species-guide]] for concise species profiles
 - [[specialty-mushroom-species]] for additional species
 - [[mushroom-cultivation-basics]] for the 10-step process
@@ -161,9 +134,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 - [[straw-cultivation-methods]] for straw preparation
 - [[mycoremediation-basics]] for remediation applications
 - [[medicinal-mushroom-guide]] for medicinal properties
-
 ## Related Pages
-
 - [[mushroom-species-cultivation-parameters]] -- Primary species
 - [[mycoremediation-basics]] -- Remediation applications
 - [[medicinal-mushroom-guide]] -- Medicinal properties

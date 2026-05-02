@@ -1,0 +1,148 @@
+---
+title: Psychedelic Psychotherapy Clinical History
+created: 2026-04-24
+updated: 2026-04-24
+type: concept
+tags: [psychedelics, psychotherapy, history, clinical-research]
+sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
+---
+
+# Psychedelic Psychotherapy Clinical History
+
+The clinical use of psychedelic drugs in psychotherapy emerged from the accidental
+discovery of LSD's mind-altering properties by [[albert-hofmann-eleusinian-potion-analysis]] at Sandoz Laboratories
+during World War II. The first research papers from Sandoz described LSD as bringing
+about "psychic loosening or opening" (seelische Auflockerung), establishing the
+conceptual foundation for decades of therapeutic exploration. The early characterization
+of LSD as "psychotomimetic" (simulating psychosis) initially interested psychiatric
+researchers as a possible training experience, while military and intelligence agencies
+of both superpowers explored its potential as a weapon of disorientation. Considerable
+research effort and expense was devoted for about 10 years to determining the most
+effective surreptitious delivery systems to unsuspecting enemy soldiers, agents or
+leaders, for maximum confusion, disorientation or embarrassment. Ironically, and
+fortunately, it was the capacity of LSD to tap into the hidden mystical potentials of
+the human mind that ruined its applicability as a weapon of war. Rather than making
+subjects predictably submissive to mind-control programming, LSD had the unnerving
+propensity to suspend existing mental programming and release one into awesome worlds of
+cosmic consciousness. The military was not prepared to have soldiers or espionage agents
+turn into mystics.
+
+## Two Foundational Paradigms
+
+Two major clinical paradigms developed during the 1950s and 1960s, each with distinct
+approaches to dosing, session structure, and therapeutic rationale. Despite their
+apparent differences, they share fundamental conclusions about the nature of
+psychedelic-assisted healing.
+
+### The Psycholytic Approach
+
+The psycholytic model became the dominant framework for LSD-assisted psychotherapy in
+Europe. In this approach, neurotic patients suffering from anxiety, depression, or
+obsessive-compulsive and psychosomatic disorders received LSD in a series of sessions
+at gradually increasing doses while undergoing more or less standard analytic
+interactions using a Freudian perspective. The term "psycholytic" literally means
+"mind-loosening," and the core rationale was that through this loosening of defenses,
+patients would become more vividly aware of previously unconscious emotional dynamics
+and reaction patterns presumed to have been acquired in early family interactions. Such
+insight would bring about a resolution of inner conflicts. The Czech psychiatrist
+[[stanislav-grof]], working within this model, made the startling discovery that in such a
+series involving increasing doses there could be an even deeper psychic opening -- to
+birth and prebirth memories. After resolving conflicts stemming from Freudian dynamics
+of early childhood, patients would find themselves reliving the significant
+sensory-emotional features of their birth experience, patterns to which Grof gave the
+name perinatal matrices.
+
+### The Psychedelic Approach
+
+More or less simultaneously, the psychedelic model became the preferred approach in
+Anglo-American psychological and psychiatric circles. The English psychiatrist Humphrey
+Osmond, working in Canada with Abram Hoffer on the treatment of alcoholism with LSD,
+introduced this term in an exchange of letters with Aldous Huxley. Osmond also provided
+Huxley with his first mescaline experience, immortalized in The Doors of Perception
+(1954). First used in the treatment of alcoholics, where it was thought to simulate the
+often life-changing "bottoming out" experience, psychedelic therapy usually involved
+one or a small number of high-dose sessions, during which the contents of the
+unconscious mind would be manifested in the form of vivid hallucinatory imagery, leading
+to insight and transformation. A second center for psychedelic therapy developed in
+early-sixties Southern California, where Sidney Cohen, Oscar Janiger and others began
+providing psychedelic experiences to their clients in the Hollywood film, arts, and
+media community, bringing considerable publicity and notoriety to psychedelics.
+
+## The Harvard Research Program
+
+[[timothy-leary-harvard-psilocybin-experiments]], Frank Barron, [[richard-alpert]] and the Harvard research project adopted
+the term "psychedelic" and did one of their first research studies on the production
+of behavior change in convicts. They started publishing the Psychedelic Review.
+Leary's work focused on exploring the possibilities and values of the psychedelic
+experience for "normals" (mostly graduate students) as well as artists, musicians,
+poets and writers, when provided in a relatively unstructured but supportive,
+home-like setting. The concept of "consciousness expansion" was introduced for these
+experiences, which could be usefully contrasted with the contracted, fixated awareness
+characteristic of narcotic addictions, as well as obsessions and compulsions in
+general.
+
+## The Set and Setting Hypothesis
+
+Leary was responsible for introducing and popularizing what became known as the "set
+and setting" hypothesis, according to which the primary determinants of a psychedelic
+experience are the internal set (intention, expectation, motivation) and the external
+setting or context, including the presence of a guide or therapist. This model was
+later extended to the understanding of other modalities of altered states of
+consciousness involving nondrug triggers such as hypnosis, meditation, rhythmic
+drumming, sensory isolation, and fasting. The set-and-setting model represents a
+fundamental distinction between psychedelic therapy and conventional pharmacotherapy:
+with antidepressants or tranquilizers, the patient takes a pill and goes home, and
+pharmacological action is paramount; with psychedelics, set and setting are primary,
+and the drug plays the role of catalyst.
+
+## Five Shared Principles of Psychedelic-Assisted Psychotherapy
+
+Despite apparent theoretical and practical differences between the psycholytic and
+psychedelic approaches, several fundamental conclusions unite the field:
+
+1. **Expanded consciousness**: Psychotherapy with hallucinogens invariably involves a
+   profoundly expanded state of consciousness, in which the individual can gain
+   therapeutic insight into neurotic or addictive dynamics and may question and
+   transcend fundamental self-concepts and views of the nature of reality.
+
+2. **Set and setting primacy**: The drug plays the role of catalyst or trigger, while
+   set and setting are the most important determinants -- in sharp contrast to other
+   psychiatric or psychoactive drugs (including stimulants, depressants and narcotics)
+   where pharmacological action seems paramount.
+
+3. **Amplifier and microscope metaphors**: The drug functions as a nonspecific
+   amplifier of psychic contents (lowering sensory thresholds, "cleansing the doors of
+   perception," through both peripheral and central processes) and as a microscope for
+   psychology, opening hidden realms of the mind to direct, repeatable, verifiable
+   observation.
+
+4. **Therapist personal experience**: Without prior personal experience of the
+   psychedelic state, communication between therapist and patient is likely to be
+   severely limited. This principle implies a significant training role for psychedelic
+   experience in the education of psychotherapists. The vast majority of psycholytic
+   and psychedelic therapists would not sanction the therapist taking the drug together
+   with the client.
+
+5. **Transpersonal access**: Mystical and spiritual experiences can and often do occur.
+   Albert Hofmann testified that his ability to recognize the psycholytic properties of
+   LSD was based on its similarity to his childhood mystical experiences in nature.
+   Stanislav Grof found that after resolving biographical childhood issues and then the
+   perinatal traumata, individuals would find themselves in realms of consciousness
+   completely transcendent of time, space, and ordinary worldview parameters. He gave
+   the name "transpersonal" to these realms and "holotropic" ("seeking the whole") to
+   their predominant quality.
+
+## Spiritual and Evolutionary Dimensions
+
+Timothy Leary, stimulated by his association with Aldous Huxley, Huston Smith and Alan
+Watts, devoted considerable energy to exploring and describing the spiritual and
+religious dimensions of psychedelic experience. This work resulted in adaptations of
+the Tibetan Buddhist Bardo Thodol and the Chinese Taoist Tao Te Ching as guidebooks
+for psychedelic sessions. Leary also recognized that the fundamental mystical vision
+emerging in these states was an evolutionary remembering -- an experience of
+reconnecting with biological and cosmological evolution. The experience went beyond the
+personal and cultural developmental issues that usually concern psychologists, and the
+language of mystics and shamans was basically going to be the scientific language of
+evolution.
+
+## See Also

@@ -1,0 +1,149 @@
+---
+title: Laccaria laccata
+type: species
+tags: [fungi, ectomycorrhizal, bioremediation, forest-ecology, symbiosis]
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
+---
+
+# Laccaria laccata
+
+**Laccaria laccata** is a widely studied ectomycorrhizal basidiomycete
+fungus associated with numerous tree species, particularly conifers.
+It belongs to the family Hydnangiaceae and is one of the most
+frequently referenced ectomycorrhizal fungi in forest ecology
+research. Its broad host range, ease of cultivation, and ecological
+resilience have made it a model organism for mycorrhizal studies and
+a candidate for bioremediation applications.
+
+## Taxonomy and Classification
+
+Laccaria laccata is a basidiomycete in the order Agaricales. It forms
+ectomycorrhizal associations with a broad range of host trees including
+pines (*Pinus* spp.), Douglas fir (*Pseudotsuga menziesii*), and oaks
+(*Quercus* spp.). The species is commonly found in nitrogen-rich
+environments and is frequently among the first ectomycorrhizal species
+to colonize seedlings in disturbed or regenerating forest sites.
+
+## Role in Ecosystem Processes
+
+### Mineral Weathering and Nutrient Acquisition
+
+Unlike Hysterangium setchellii, Rhizopogon vinicolor, and Suillus
+bovinus, Laccaria laccata did not form halos around colonies in
+plate-clearing assays, indicating limited capacity for direct mineral
+solubilization (Chang and Li, 1998). Lapeyrie et al. (1991) showed
+that L. laccata had moderate solubilization of calcium phytate and
+full solubilization of CaHPO4, but reduced activity against less
+soluble phosphate forms (Ca3(PO4)2 and Ca5(PO4)3OH). Read (1991b)
+characterized L. laccata as a poor enzyme producer relative to species
+such as Paxillus involutus and Suillus spp., suggesting it relies on
+enhancing uptake of nutrients derived from saprotrophic activity.
+
+### Phosphorus Uptake and Plant Growth
+
+Laccaria laccata enhances phosphorus uptake in host plants and
+provides protection against *Fusarium oxysporum* on Douglas fir and
+*Pinus banksiana* seedlings (Sylvia and Sinclair, 1983; Chakravarty
+and Hwang, 1991). Jones et al. (1990) found that mycorrhizal
+communities dominated by Hebeloma spp. were more effective at
+phosphorus influx than those dominated by Laccaria spp., though
+Laccaria proxima induced higher tissue phosphorus in willow than
+Thelephora terrestris, suggesting species-specific effectiveness.
+
+### Organic Nitrogen Utilization
+
+Abuzinadah and Read (1986a, b) found that Hebeloma crustuliniforme
+showed greater capacity for protein and peptide nitrogen utilization
+than Laccaria laccata. Yamanaka (1999) showed that the related L.
+bicolor could utilize ammonium, nitrate, and urea but not ethylenediamine
+or putrescine, suggesting ectomycorrhizal fungi cannot compete with
+saprotrophs for resources from decaying animal carcasses.
+
+### Carbon Economics
+
+Gorisen and Kuyper (2000) compared carbon economics of L. laccata
+with Suillus bovinus. Extra carbon translocated into Laccaria-colonized
+roots was respired rather than incorporated into biomass, as occurred
+with Suillus. Consequently, Suillus-colonized trees achieved nitrogen
+contents twice as high as Laccaria-colonized trees, irrespective of CO2
+concentration, supporting the concept that carbon use for nitrogen
+acquisition is more efficient in nitrogen-limiting ecosystems.
+
+### Elevated CO2 Response
+
+Seegmüller and Rennenberg (1994) demonstrated that elevated CO2
+increased oak growth and that Laccaria laccata ectomycorrhizal
+association had more than an additive effect, with implications for
+understanding forest responses to global climate change.
+
+## Heavy Metal Tolerance
+
+Laccaria laccata is notable for its exceptional tolerance to heavy metal
+pollution. Rühling and Söderström (1990) found it was the most
+tolerant fungus to arsenic, copper, cadmium, lead, and zinc among
+species examined along a Swedish pollution transect. L. laccata showed
+6.2% uptake of available lead, with a portion released in different
+parts of the mycelial network, suggesting translocation and potential
+detoxification mechanisms. This positions it as a promising organism
+for phytoremediation and mine spoil reclamation.
+
+## Interactions with Soil Fauna
+
+### Nematode Interactions
+
+Laccaria laccata is an excellent food resource for fungivorous
+nematodes. Ruess and Dighton (1996) found it supported the highest
+nematode populations (2.4 × 10⁵ individuals) with 11.4% females,
+compared to much lower populations on Paxillus involutus (6 nematodes)
+and saprotrophic fungi. In mixed communities, L. laccata supported
+2,633 nematodes with 100% being *Aphelenchoides saprophilus*.
+
+### Collembolan Grazing
+
+The collembolan *Proisotoma minuta* significantly slowed the growth
+rate of L. laccata cultures and mycorrhizal development on loblolly
+pine seedlings (Hiol Hiol et al., 1994). High collembola densities
+grazing surface hyphae and spores of Laccaria spp. represent a
+potential constraint on mycorrhizal effectiveness in natural ecosystems.
+
+## Pathogen Protection
+
+Branzanti et al. (1999) demonstrated that inoculation of chestnut
+trees with Laccaria laccata significantly prevented chestnut ink
+disease caused by *Phytophthora cambivora* and *P. cinnamomi*. In
+challenged seedlings, L. laccata-inoculated plants showed near-complete
+restoration of growth (28.1 cm² leaf area, 9.4 g weight) compared to
+Phytophthora-alone controls (15.6 cm², 5.2 g).
+
+## Succession and Mutualist Bacteria
+
+Sagara (1995) identified clear successions of mycorrhizal fruit
+bodies in response to localized nutrient additions from animal remains,
+with later successions favoring Laccaria bicolor and Hebeloma spp.
+Mycorrhiza helper bacteria (MHB) have also been identified associated
+with the *Pseudotsuga menziesii*–L. laccata symbiosis, enhancing
+mycorrhizal formation and function.
+
+## Key Studies
+
+| Year | Researchers | Finding |
+|------|------------|---------|
+| 1990 | Rühling and Söderström | L. laccata is the most heavy metal tolerant ECM fungus |
+| 1994 | Seegmüller and Rennenberg | Synergistic growth with oak under elevated CO2 |
+## See Also
+
+- [[biodiversity-fungi-ectomycorrhizal-diversity]]
+
+- [[mycorrhiza]]
+
+- [[laccaria-bicolor]]
+
+- [[paxillus-involutus]] - fellow ectomycorrhizal species, poor nematode food source
+- [[pisolithus-tinctorius]] - ectomycorrhizal species used in mine reclamation
+- [[hebeloma-crustuliniforme]] - ectomycorrhizal species with strong organic N utilization
+- [[suillus-bovinus]] - ectomycorrhizal species with mineral weathering capacity
+- [[cenococcum-geophilum]] - widely distributed ectomycorrhizal fungus
+- [[mycena-galopus]] - saprotrophic fungus that competitively suppresses decomposition

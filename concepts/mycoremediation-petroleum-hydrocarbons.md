@@ -11,6 +11,14 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 Petroleum hydrocarbons -- including crude oil, diesel fuel, gasoline, motor oil, and related compounds -- are among the most widespread environmental contaminants. Mushrooms can break down these complex molecules using the same lignin-degrading enzymes they employ to decompose wood.
 
+
+
+
+
+
+
+
+
 ## How Fungi Degrade Petroleum
 
 The enzymes that white rot fungi use to break down lignin -- particularly lignin peroxidase, manganese peroxidase, and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
@@ -22,9 +30,25 @@ Key species for petroleum remediation:
 - **Reishi (Ganoderma lucidum)**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
 - **King stropharia (Stropharia rugoso-annulata)**: Garden giant that thrives in contact with bacteria and organic debris.
 
+
+
+
+
+
+
+
+
 ## Polycyclic Aromatic Hydrocarbons (PAHs)
 
 PAHs are particularly recalcitrant environmental pollutants produced by incomplete combustion of organic matter. White rot fungi have demonstrated the ability to mineralize PAHs, including naphthalene, anthracene, phenanthrene, and benzo[a]pyrene. The enzymatic degradation pathway involves initial oxidation of the aromatic ring structure, followed by ring cleavage and eventual conversion to carbon dioxide and water.
+
+
+
+
+
+
+
+
 
 ## Practical Deployment
 
@@ -38,6 +62,14 @@ A simple method for petroleum cleanup demonstrated by Stamets:
 
 The more surface area of substrate available to the mycelium, the faster the degradation. Creating a matrix of variably sized wood fragments or straw pieces maximizes contact between mycelium and contaminant.
 
+
+
+
+
+
+
+
+
 ## Factors Affecting Success
 
 - **Species selection**: White rot fungi are generally more effective than brown rot fungi for petroleum degradation
@@ -46,6 +78,14 @@ The more surface area of substrate available to the mycelium, the faster the deg
 - **Nutrient availability**: Supplementation with nitrogen sources can accelerate degradation rates
 - **Oxygen**: Aerobic conditions are essential for white rot enzyme systems
 - **Contaminant concentration**: Extremely high concentrations may be toxic; dilution or successive treatments may be needed
+
+
+
+
+
+
+
+
 
 ## See Also
 

@@ -80,3 +80,7 @@ The spirits are described as real entities: "They are the ones that have taken o
 - [[pablo-amaringo]] — The artist who documented these plant spirits
 - [[shipibo-icaros-healing-songs]] — Songs taught by plant teachers
 - [[amazonian-medicinal-plants-reference]] — Medicinal plant index
+
+## Key Considerations
+
+Consider site-specific conditions when implementing this approach. Local climate, soil characteristics, and existing biological communities affect outcomes. Start with small trials before full implementation and maintain detailed records. Connecting with experienced practitioners provides valuable guidance tailored to your context and goals.

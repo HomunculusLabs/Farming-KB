@@ -1,0 +1,99 @@
+---
+title: Fungal Interactions with Other Organisms
+created: 2026-04-14
+updated: 2026-04-15
+type: concept
+tags: [mycology, fungi]
+sources: []
+---
+# Fungal Interactions with Other Organisms
+
+## Overview
+
+Fungi interact with virtually all other groups of organisms, forming relationships that range from mutually beneficial to parasitic. These interactions are central to fungal ecology and to the functioning of terrestrial and aquatic ecosystems. Understanding fungal interactions is essential for agriculture, forestry, medicine, and conservation.
+
+## Mutualistic Interactions
+
+### Arbuscular Mycorrhizal (AM) Symbiosis
+
+The most widespread plant-fungal mutualism involves AM fungi (Glomales) and the roots of most terrestrial plants. This 400-million-year-old symbiosis involves bidirectional nutrient exchange: the plant provides carbon to the fungus via arbuscule-plant cell plasmalemma interfaces, while the fungus improves phosphorus acquisition through extensive external hyphal networks. The mycorrhizosphere — the soil volume influenced by AM hyphae — dramatically affects root- and soil-associated microorganisms, nitrogen-fixing bacteria, and plant growth-promoting rhizobacteria. Lack of host specificity allows individual plants to host up to 10 AM species simultaneously.
+
+### Ectomycorrhizal Symbiosis
+
+Ectomycorrhizal fungi (approximately 3500+ species) form sheaths around root tips of woody plants (pines, oaks, Eucalyptus, Douglas fir). Some genera like Hysterangium and Gautieria form dense mycelial mats with specific biogeochemical properties. Rhizopogon species induce prolific branching of host rootlets through auxin production and enhance seedling survival and growth. Tuber melanosporum (black truffle) produces herbicidal compounds that reduce weed competition with host trees.
+
+### Lichen Symbiosis
+
+Lichens are self-supporting mutualisms between fungi (mycobionts, primarily Ascomycota) and photosynthetic partners (photobionts — green algae or cyanobacteria). Over 17,000 lichenized fungal species are known, representing approximately one-fifth of all described Ascomycota. The Lecanorales order alone contains 7150 species — the majority of all lichen-forming fungi.
+
+## Parasitic Interactions
+
+### Fungal Plant Pathogens
+
+Fungi cause the majority of plant diseases. Pathogenic fungi span all major phyla and include:
+
+- **Rusts and smuts** (Basidiomycota): Obligate pathogens with complex life cycles often requiring multiple hosts
+- **Ascomycete pathogens**: Including powdery mildews, Fusarium species, and numerous leaf spot and canker pathogens
+- **Seedling pathogens**: "Damping-off" fungi that kill germinating seeds and young seedlings in the soil
+
+### Mycoparasitism (Fungus-Fungus Interactions)
+
+Mycoparasitic fungi parasitize other fungi, playing important roles in natural disease control. About 50 species of biotrophic zygomycetous mycoparasites are known, plus about 50 parasites of Glomales. Key interactions include:
+
+- **Trichoderma species**: Produce nonvolatile and volatile toxic metabolites, enzymes, and direct mycoparasitism against soil-borne plant pathogens. Different strains produce different antagonistic compounds (gliotoxin vs gliovirin).
+- **Coniothyrium minitans**: The most successful agent against Sclerotinia species; attacks sclerotia and grows inside hyphae
+- **Pythium oligandrum**: Used against damping-off caused by P. ultimum
+- **Ampelomyces quisqualis**: A parasite of powdery mildews
+
+### Zoosporic Parasitism
+
+In aquatic environments, zoosporic fungi parasitize other fungi and aquatic organisms. Chytrids can act as hyperparasites (e.g., Chytridium parasiticum grows on C. suburceolatum, which itself parasitizes Rhizidium richmondense). Woronina species parasitize Saprolegniaceae. Mortierella alpina, despite being chitinolytic rather than cellulytic, can penetrate and disintegrate the cellulosic hyphae of Saprolegnia species.
+
+## Host Specificity and Recognition
+
+Mycoparasite host recognition depends on interactions of surface sugars on the parasite with lectins or agglutinins (often two specific glycoproteins) on the host. Compatible interactions trigger attachment and appressorium formation; incompatible interactions elicit increased wall deposition as a defense. Some interactions require complementary sexual mating types, involving the sexual hormone trisporic acid.
+
+## Endophytic Interactions
+
+Endophytic fungi inhabit healthy plant tissues without causing visible symptoms. Their roles range from protective mutualists (producing defensive secondary metabolites) to latent pathogens that switch to pathogenic behavior under stress. The boundary between mutualism and pathogenesis is often context-dependent. See [[endophytic-fungi]] and [[endophytic-fungi-plant-interactions]] for further detail.
+
+## Animal Interactions
+
+Fungi interact with animals as pathogens, food sources, gut symbionts, and decomposition partners. Mammals are essential vectors for spore dispersal of sequestrate fungi (truffles and their relatives). Insects vector numerous fungi and maintain fungal gardens in some social insect colonies.
+
+## Fungicolous and Lichenicolous Interactions
+
+Fungi that grow on other fungi — fungicolous fungi — represent a diverse and ecologically significant guild. Rudakov (1978) counted approximately 1,700 non-lichenicolous fungicolous species, while Hawksworth reported 1,100 conidial species occurring on roughly 2,500 host fungi. These interactions can be classified into five types of mycoparasite-host interfaces:
+
+- **Contact necrotrophic**: The parasite kills host cells on contact without penetration (e.g., *Arthrobotrys*, *Tilletiopsis*)
+- **Penetration necrotrophic**: The parasite penetrates host hyphae and kills them, often producing toxic metabolites (e.g., *Trichoderma* species)
+- **Biotrophic intracellular**: The parasite establishes balanced relationships within host cells without killing them
+- **Haustorial biotrophic**: Specialized structures (colacosomes or lenticular bodies) facilitate nutrient exchange between parasite and host
+- **Intracellular biotrophic**: The parasite infects host spores, persisting within them
+
+Lichenicolous fungi — fungi growing on lichens — are now recognized at 1,500+ species. Fungicolous fungi play important roles in [[fungal-roles-in-agriculture]] (biocontrol) and can access substrata not otherwise decomposable. See [[fungicolous-fungi]] for further treatment.
+
+## Insect-Associated Fungi
+
+The relationships between fungi and insects are remarkably diverse. Ambrosia beetles maintain fungal gardens within their tunnel systems, cultivating fungi as a food source. Bark beetles vector fungi including pathogenic species that can kill host trees; some of these fungi produce volatile compounds that attract insect vectors, reinforcing the association. Trichomycetes (gut fungi) live commensally in arthropod digestive tracts, particularly among aquatic insect larvae. See [[cordyceps-and-entomopathogenic-fungi]] and [[fungal-beetle-symbiosis]] for additional detail.
+
+## Vertebrate Interactions
+
+Commensal yeasts — including *Candida*, *Malassezia*, and *Trichosporon* — colonize vertebrate skin and mucous surfaces. *Malassezia* species are obligate mammal commensals, while *Candida albicans* is strongly associated with mammalian gastrointestinal tracts. Pathogenic associations with vertebrates range from specialized systemic pathogens to opportunistic infections in immunocompromised hosts. Fungi also regulate animal population densities through disease, exerting top-down control on wildlife populations. See [[fungal-infections-human]] for further detail on human associations.
+
+## Related Topics
+
+- [[fungal-symbiosis-types]] — detailed treatment of mutualistic relationships
+- [[mycorrhizal-networks]] — arbuscular and ectomycorrhizal networks
+- [[lichenized-fungi-diversity]] — diversity of lichen symbioses
+- [[arbuscular-mycorrhizal-fungal-diversity]]
+- [[fungal-parasites]] — parasitic fungal interactions
+- [[fungal-pathogens-ecosystems]] — pathogens in ecosystem context
+- [[fungal-bacterial-interactions]] — cross-kingdom microbial interactions
+- [[fungal-ecology]] — broader ecological context
+- [[fungal-ecosystem-services]] — ecosystem-level impacts of fungal interactions
+- [[fungicolous-fungi]] — fungi growing on other fungi
+- [[cordyceps-and-entomopathogenic-fungi]] — insect pathogenic fungi
+- [[fungal-beetle-symbiosis]] — beetle-fungal associations
+- [[trichomycetes-gut-fungi]] — gut-dwelling fungi of arthropods
+- [[fungal-infections-human]] — human-fungal interactions

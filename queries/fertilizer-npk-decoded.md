@@ -24,39 +24,27 @@ sources:
 - concepts/nutrient-dense-gardening.md
 - concepts/plant-nutrient-uptake.md
 ---
-
 # Fertilizer NPK Decoded
-
 Understanding NPK numbers, what each macronutrient does, common organic and synthetic fertilizer values, and how to calculate application rates for your garden. See [[soil-fertility-management]] for Solomon's COF recipe and [[cannabis-plant-nutrition]] for cannabis-specific needs.
-
 ---
-
 ## What NPK Means
-
 NPK stands for Nitrogen (N) - Phosphorus (P) - Potassium (K), the three primary macronutrients plants need in largest quantities. The three numbers on any fertilizer bag represent the guaranteed minimum percentage of each nutrient **by weight**.
-
 **Example**: A bag labeled "5-3-3" contains:
 - 5% Nitrogen (N)
 - 3% Phosphorus (P2O5 equivalent)
 - 3% Potassium (K2O equivalent)
-
 The remaining percentage is filler, organic matter, micronutrients, and other inert ingredients. A 10 lb bag of 5-3-3 contains 0.5 lbs N, 0.3 lbs P, 0.3 lbs K.
-
 **Important convention**: Fertilizer P and K values are expressed as oxide equivalents (P2O5 and K2O), not elemental P and K. To convert:
 - Elemental P = P2O5 x 0.44
 - Elemental K = K2O x 0.83
-
 ---
-
 ## What Each Number Does
-
 ### Nitrogen (N) -- The Growth Nutrient
 - Drives leafy green growth, stem elongation, chlorophyll production
 - Highest demand during vegetative stage
 - **Deficiency**: Lower leaves pale yellow (chlorosis), stunted growth, thin stems
 - **Excess**: Dark green foliage, excessive stretching, delayed flowering, soft pest-susceptible growth, salt buildup
 - **Mobility**: Mobile -- deficiency shows in OLDER leaves first
-
 ### Phosphorus (P) -- The Root and Flower Nutrient
 - Root development, flower/fruit formation, energy transfer (ATP), seed production
 - Critical during early veg (roots) and throughout flowering (buds)
@@ -64,7 +52,6 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 - **Excess**: Can inhibit mycorrhizal formation (>70 ppm P), iron/zinc lockout
 - **Mobility**: Mobile -- deficiency shows in older leaves
 - **Note**: Very slow to become available from organic sources -- rock phosphate takes years
-
 ### Potassium (K) -- The Quality Nutrient
 - Osmoregulation, enzyme activation, stomatal function, disease resistance, cold hardiness, bud density
 - Demand increases through flowering -- critical for bud size and density
@@ -72,11 +59,8 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 - **Excess**: Can antagonize calcium and magnesium uptake
 - **Mobility**: Mobile -- deficiency shows in older leaves
 - **Note**: Most soils have adequate K -- deficiency is less common than N or P
-
 ---
-
 ## Common Organic Fertilizers with NPK Values
-
 | Fertilizer | NPK | Best Use | Notes |
 |---|---|---|---|
 | Blood meal | 12-0-0 | Nitrogen boost, vegetative stage | Fast-release. Can burn if overapplied. Attracts animals. |
@@ -99,11 +83,8 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 | Crustacean meal | 5-0-0 | N + chitin | Feeds soil fungi and triggers plant immune response via chitin. |
 | Neem seed meal | 6-1-2 | N + pest deterrence | Slow N release. Azadirachtin deters soil pests. |
 | Seed meal (canola/cottonseed) | 5-1-1 | COF nitrogen base | Solomon's COF recipe N source. Widely available, affordable. |
-
 ---
-
 ## Common Synthetic Fertilizers with NPK Values
-
 | Fertilizer | NPK | Best Use | Notes |
 |---|---|---|---|
 | Jack's Classic 20-20-20 | 20-20-20 | All-purpose vegetative | Popular synthetic. Can disrupt soil biology with repeated use. |
@@ -114,29 +95,18 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 | Calcium nitrate | 15.5-0-0 + 19% Ca | Calcium + N supplement | Fast-release. Used for Ca deficiency or hydroponic Ca. |
 | Monoammonium phosphate (MAP) | 11-52-0 | High P application | Very concentrated P source. Common in agriculture. |
 | Potassium sulfate (SOP) | 0-0-50 | Pure potassium | Neutral pH. Preferred over muriate of potash (KCl) for sensitive crops. |
-
 ---
-
 ## How to Calculate Application Rates
-
 **Step 1: Determine how much actual nutrient you need.**
-
 Example: You want to apply 0.1 lbs of nitrogen per 100 sq ft (a moderate rate for veg).
-
 **Step 2: Divide by the fertilizer's N percentage.**
-
 Using blood meal (12-0-0):
 - 0.1 lbs N / 0.12 = 0.83 lbs of blood meal per 100 sq ft
-
 Using fish meal (5-3-3):
 - 0.1 lbs N / 0.05 = 2.0 lbs of fish meal per 100 sq ft
-
 **Step 3: Convert to volume if needed.**
-
 Most organic fertilizers weigh roughly 1 lb per quart (varies). So 0.83 lbs blood meal is approximately 3.3 cups per 100 sq ft.
-
 ### Quick Rate Table for Pre-Plant Amendment (per 100 sq ft)
-
 | Goal | Fertilizer | Rate (cups) | Notes |
 |---|---|---|---|
 | Nitrogen base | Blood meal or seed meal | 2-4 cups | Work into top 4-6 inches |
@@ -146,11 +116,8 @@ Most organic fertilizers weigh roughly 1 lb per quart (varies). So 0.83 lbs bloo
 | Calcium (no pH change) | Gypsum | 1-2 cups | Use on alkaline soils |
 | Micronutrients | Kelp meal or azomite | 1 cup | Trace minerals for nutrient density |
 | Biology boost | Worm castings | 2-4 cups | Microbial inoculant, mild nutrition |
-
 ---
-
 ## NPK Ratios by Growth Stage
-
 | Stage | Preferred NPK Ratio | Why |
 |---|---|---|
 | Seedling | Low NPK (1-1-1 or less) | Soil amendments provide enough; seedlings burn easily |
@@ -159,24 +126,17 @@ Most organic fertilizers weigh roughly 1 lb per quart (varies). So 0.83 lbs bloo
 | Early flower | Shift to P/K (1-3-4 or 2-5-4) | Root development and flower initiation |
 | Mid flower | Higher P/K (0-5-5 or 1-6-6) | Bud formation, resin production |
 | Late flower | Low N, high K (0-3-8 or 0-2-6) | Bud density, terpene production, finishing |
-
 ---
-
 ## NPK and Living Soil
-
 In a [[cannabis-living-soil-guide]] system, NPK management is different from conventional growing:
-
 - Pre-amend the soil mix at planting -- the biology converts organic inputs to plant-available forms over weeks
 - Avoid synthetic NPK -- it disrupts the [[soil-food-web-nutrient-cycling]] by feeding bacteria selectively and creating salt stress
 - Top-dress with organic amendments (bone meal, kelp, langbeinite) when deficiencies appear
 - Compost tea feeds the biology, not the plant directly
 - Mycorrhizal fungi provide up to 80% of plant P and significant N -- don't over-apply P (>70 ppm inhibits colonization)
 - See [[organic-nutrients-vs-synthetic-nutrients]] for a full comparison
-
 ---
-
 ## See Also
-
 - [[soil-fertility-management]] -- Solomon's COF recipe, pH management, crop-specific rates
 - [[nutrient-dense-gardening]] -- 13 essential nutrients, brix testing, Albrecht system
 - [[cannabis-plant-nutrition]] -- cannabis-specific NPK needs, organic sources, deficiency symptoms

@@ -14,6 +14,16 @@ sources:
 
 Jeremy Bigwood is an American researcher at The Evergreen State College (Olympia, Washington), known for his collaborative work with [[michael-beug]] on the quantitative analysis of psilocybin and psilocin in mushroom species. He also co-edited *Teonanacatl: Hallucinogenic Mushrooms of North America* (1978) with [[jonathan-ott]], an important early compilation of research on psychoactive fungi.
 
+
+
+
+
+
+
+
+
+
+
 ## Key Research: Bigwood & Beug (1982)
 
 ### Variation of Psilocybin and Psilocin Levels with Repeated Flushes
@@ -33,6 +43,16 @@ Their earlier study (Beug & Bigwood 1982) surveyed psilocybin and psilocin level
 
 Used reversed-phase HPLC calibrated against NIDA standards with 10% repeatability from 0.2 to 3 μg total psilocybin or psilocin. Detection limit ~0.01 μg. Results qualitatively confirmed by TLC using butanol-acetic acid-water (12:3:5).
 
+
+
+
+
+
+
+
+
+
+
 ## Other Contributions
 
 - Co-reported *Psilocybe subcubensis* with [[paul-stamets]] (1978), contributing to the taxonomic literature
@@ -40,9 +60,29 @@ Used reversed-phase HPLC calibrated against NIDA standards with 10% repeatabilit
 - Co-authored the foundational paper "Entheogens" (Ruck, Bigwood, Staples, Ott & Wasson 1979) — which introduced the term "entheogen" to the literature
 - His photographic contributions appear in Stamets' *Psilocybin Mushrooms of the World*
 
+
+
+
+
+
+
+
+
+
+
 ## Significance
 
 Bigwood's work provided the first systematic quantitative data on how alkaloid levels change across flushes — critical information for cultivators and harm reduction. The finding that users "have no way of predicting the amount of psilocybin and psilocin they are ingesting with a given dry weight" underscored that variations in subjective experience stem not only from set and setting but from genuine dosage differences.
+
+
+
+
+
+
+
+
+
+
 
 ## Related
 

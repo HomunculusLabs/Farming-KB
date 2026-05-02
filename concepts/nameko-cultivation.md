@@ -118,7 +118,7 @@ Fresh Nameko is highly perishable due to its gelatinous coating and moisture con
 
 ## See Also
 
-- [[nameko-cultivation|Nameko cultivation detailed guide]]
+- Nameko cultivation detailed guide
 - [[log-cultivation-methods|log cultivation methods]]
 - [[shiitake-cultivation-guide|shiitake cultivation (similar log method)]]
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

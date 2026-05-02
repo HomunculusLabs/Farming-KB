@@ -117,7 +117,7 @@ A large genus of approximately 850 species native to Australia, many with valuab
 ## Related Concepts
 
 - [[permaculture-guild-design-method]]
-- [[permaculture-nitrogen-fixing-trees|permaculture-multi-purpose-plants]]
+- permaculture-multi-purpose-plants
 - [[permaculture-woody-mulch-systems]]
 - [[permaculture-tree-crop-systems]]
 - [[nitrogen-cycle-in-soil]]

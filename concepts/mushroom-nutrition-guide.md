@@ -6,66 +6,46 @@ type: concept
 tags: [mushrooms, nutrients, food, health, fungi, species-profiles, medicine, nutrition]
 sources: []
 ---
-
 # Mushroom Nutrition Guide
-
 ## Overview
-
 Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and bioactive compounds found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common edible mushrooms and compares their nutritional value.
-
 ## Macronutrient Profile
-
 ### Protein
-
 Mushrooms contain moderate amounts of protein with a favorable amino acid profile:
-
 - Protein content (fresh): 2-4 g per 100 g
 - Protein content (dried): 15-35 g per 100 g (due to water removal)
 - Contain all nine essential amino acids
 - Particularly rich in lysine and leucine
 - Lower in methionine and cysteine compared to animal proteins
 - Protein digestibility is moderate (70-80%) due to chitin cell walls; cooking improves digestibility
-
 ### Carbohydrates and Fiber
-
 - Total carbohydrate (fresh): 3-5 g per 100 g
 - Dietary fiber: 1-3 g per 100 g fresh
 - Primary fiber types: beta-glucans, chitin, hemicellulose
 - Low glycemic index: Minimal impact on blood sugar
 - Fiber acts as a prebiotic, supporting beneficial gut bacteria
 - Chitin (fungal cell wall polymer) is indigestible by humans but contributes to satiety and gut health
-
 ### Fat
-
 - Very low in fat: 0.1-0.5 g per 100 g fresh
 - Fat is primarily unsaturated (linoleic acid, oleic acid)
 - Contains small amounts of ergosterol (vitamin D2 precursor)
 - Essentially fat-free, making mushrooms ideal for low-fat diets
-
 ### Calories
-
 - Fresh mushrooms: 20-35 kcal per 100 g
 - Dried mushrooms: 250-350 kcal per 100 g
 - Very low calorie density for fresh mushrooms
 - High nutrient-to-calorie ratio
-
 ## Vitamins
-
 ### Vitamin D
-
 Mushrooms are unique among plant and fungal foods as a source of vitamin D:
-
 - Mushrooms contain ergosterol, a sterol compound that converts to vitamin D2 (ergocalciferol) when exposed to UV light (UV-B, 280-315 nm)
 - Wild mushrooms (porcini, chanterelle, morel) contain significant vitamin D2 from natural sun exposure
 - Commercially grown white button mushrooms contain negligible vitamin D unless UV-treated
 - UV-exposed mushrooms can provide 100-1000+ IU of vitamin D2 per 100 g fresh
 - Vitamin D2 from mushrooms is bioavailable and effectively raises serum 25(OH)D in humans
 - Some brands (Monterey Mushrooms, others) sell UV-exposed mushrooms specifically marketed for vitamin D content
-
 ### B Vitamins
-
 Mushrooms are excellent sources of several B vitamins:
-
 | Vitamin | Function | Content (per 100 g fresh) |
 |---------|----------|--------------------------|
 | Riboflavin (B2) | Energy metabolism, antioxidant | 0.3-0.5 mg (15-25% DV) |
@@ -74,17 +54,12 @@ Mushrooms are excellent sources of several B vitamins:
 | Thiamin (B1) | Nervous system, energy | 0.05-0.15 mg (5-10% DV) |
 | Folate (B9) | DNA synthesis, cell division | 15-25 ug (5-8% DV) |
 | B12 (cobalamin) | Nerve function, blood formation | Trace amounts (variable, debated) |
-
 Note: B12 content in mushrooms is controversial. Some studies detect B12, but it may be from bacterial contamination of mushroom surfaces rather than intrinsic fungal production. Mushrooms should not be relied upon as a primary B12 source for vegans.
-
 ### Antioxidant Vitamins
-
 - Vitamin C: Low in most culinary mushrooms (0-5 mg/100 g)
 - Vitamin E: Small amounts (trace)
 - The primary antioxidant value comes from non-vitamin compounds: ergothioneine, selenium, glutathione, and phenolic compounds
-
 ## Minerals
-
 | Mineral | Function | Notable Content |
 |---------|----------|----------------|
 | Selenium | Antioxidant, thyroid function | Excellent source; Shiitake: 5-15 ug/100 g |
@@ -94,40 +69,27 @@ Note: B12 content in mushrooms is controversial. Some studies detect B12, but it
 | Iron | Oxygen transport, energy | 0.5-1.5 mg/100 g (3-8% DV) |
 | Zinc | Immune function, wound healing | 0.5-1.0 mg/100 g (5-9% DV) |
 | Manganese | Bone formation, metabolism | 0.05-0.5 mg/100 g |
-
 Mushrooms are particularly notable as a source of selenium, providing amounts comparable to Brazil nuts in some species.
-
 ## Bioactive Compounds Beyond Basic Nutrition
-
 ### Ergothioneine
-
 - Unique antioxidant found in high concentrations in mushrooms
 - See [[medicinal-mushroom-guide]] for detailed discussion
 - Porcini mushrooms are the richest known dietary source
-
 ### Beta-Glucans
-
 - Immune-modulating polysaccharides
 - See [[medicinal-mushroom-guide]] for detailed discussion
 - All edible mushrooms contain beta-glucans; content varies by species
-
 ### Glutathione
-
 - The body's master antioxidant
 - Mushrooms are a significant dietary source
 - Content varies widely; shiitake and maitake are particularly rich
 - Heat from cooking can reduce glutathione content
-
 ### Lovastatin
-
 - Found naturally in oyster mushrooms and shiitake
 - Cholesterol-lowering compound (same as pharmaceutical statins)
 - Content varies by species and growing conditions
-
 ## Culinary Species Comparison
-
 ### Nutrition Table (per 100 g fresh weight)
-
 | Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Carbs (g) | Selenium (ug) | B2 (mg) | Niacin (mg) | Vitamin D (IU)* |
 |---------|----------|-------------|-----------|---------|-----------|---------------|---------|-------------|-----------------|
 | White Button | 22 | 3.1 | 1.0 | 0.3 | 3.3 | 8.9 | 0.4 | 3.6 | 0-440 |
@@ -140,11 +102,8 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 | Porcini (fresh) | 26 | 3.7 | 1.5 | 0.5 | 3.3 | 12.0 | 0.3 | 3.6 | 100-2000 |
 | Chanterelle | 38 | 1.5 | 3.8 | 0.5 | 7.0 | 2.2 | 0.4 | 4.1 | 100-800 |
 | Morel | 31 | 3.1 | 2.8 | 0.6 | 5.1 | 5.5 | 0.2 | 3.4 | 100-500 |
-
 *Vitamin D content varies enormously based on UV exposure. Commercially grown mushrooms without UV exposure contain negligible vitamin D. Wild-harvested mushrooms contain variable but significant amounts.
-
 ### Culinary Species Comparison (Dried, per 100 g)
-
 | Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Beta-Glucans (g) |
 |---------|----------|-------------|-----------|---------|-------------------|
 | Shiitake (dried) | 296 | 9.6 | 11.0 | 0.9 | 5-8 |
@@ -153,47 +112,38 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 | Oyster (dried) | 330 | 11.0 | 9.0 | 1.0 | 4-7 |
 | Maitake (dried) | 280 | 10.0 | 8.5 | 0.5 | 5-9 |
 | Wood Ear (dried) | 312 | 9.0 | 12.0 | 0.3 | 3-5 |
-
 ## Cooking and Nutrition
-
 ### Effects of Cooking
-
 Cooking improves digestibility by breaking down chitin cell walls, increases bioavailability of beta-glucans and ergothioneine, reduces agaritine (a mild toxin in raw button mushrooms), and enhances flavor through Maillard reactions. Boiling leaches water-soluble B vitamins (20-40% loss) — save the broth. Microwaving retains more nutrients than boiling. Frying adds calories but develops beneficial Maillard compounds.
-
 ### Raw vs. Cooked
-
 Most culinary mushrooms should be cooked. Raw button mushrooms contain agaritine (reduced ~90% by cooking). Cooking also inactivates potential pathogens and improves protein digestibility. Exceptions: some dried mushrooms are reconstituted without further cooking for soups, though brief cooking is still recommended.
 ## Dietary Considerations
-
 ### For Vegans and Vegetarians
-
 - Mushrooms provide protein, B vitamins, and minerals often lacking in plant-based diets
 - Excellent umami flavor ("fifth taste") enhances meatless dishes
 - Can substitute for meat in many recipes (portobello as burger, shiitake as bacon substitute)
 - Note: Do not rely on mushrooms as a B12 source despite some marketing claims
-
 ### For Low-Carb and Keto Diets
-
 - Very low in net carbs (total carbs minus fiber)
 - Button mushrooms: ~2.3 g net carbs per 100 g
 - Excellent for keto-friendly meals
 - High volume-to-calorie ratio aids satiety
-
 ### For Immune Support
-
 - Regular consumption of beta-glucan-rich mushrooms supports immune function
 - Shiitake, maitake, oyster, and button mushrooms all contribute meaningful beta-glucans
 - Culinary doses (100-200 g fresh, 3-5 times per week) provide measurable immune benefits
-
 ### Allergies and Sensitivities
-
 - Mushroom allergies are rare but do occur
 - Cross-reactivity with mold allergies is possible
 - Some individuals are sensitive to specific mushroom species
 - Introduce new mushroom varieties gradually if you have known sensitivities
-
 ## See Also
 
+- [[mushroom-cultivation-photographic-guide]]
+- [[psilocybin-mushroom-identification-field-guide]]
+- [[psilocybin-mushroom-image-guide-lookalike-species]]
+- [[psychedelic-mushroom-dosage-guide]]
+- [[psilocybin-mushroom-potency-and-dosage-guide]]
 - [[medicinal-mushroom-guide]] — bioactive compounds beyond basic nutrition
 - [[functional-mushroom-products]] — concentrated mushroom products for therapeutic use
-- [[mushroom-nutrition-guide]] — this page
+- mushroom nutrition guide — this page

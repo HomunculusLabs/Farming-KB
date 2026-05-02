@@ -1,0 +1,110 @@
+---
+title: Fukuoka American Agriculture Observations
+created: 2026-04-18
+updated: 2026-04-20
+type: concept
+tags: [fukuoka, natural-farming, philosophy]
+sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+---
+
+# Fukuoka American Agriculture Observations
+
+Updated: 2026-04-20
+
+Masanobu Fukuoka made two extended trips to America (1979 and 1986) and documented sharp critiques of American agricultural practices, land degradation, and the emerging natural farming movement there.
+
+## The California Landscape: Not Originally Desert
+
+From the air approaching San Francisco, Fukuoka was struck by "single trees standing alone on the bleak, yellow land." The Californian plain was "an endless stretch of dry, yellow land" where "the scenery doesn't change a bit." The grasses covering the plain were amber yellow rather than green, dominated by forage grasses like foxtail and wild barley. Wherever there was green, water was invariably being drawn for irrigation.
+
+But Fukuoka concluded that California was not originally desert at all. A tribal Indian chief in a redwood forest told him things had gone wrong when the Spaniards arrived and began raising cattle. Fukuoka traced the problem to foxtail seeds brought by Spaniards: the seeds set and mature around June, growing so densely that other plants cannot take hold. The irritating bristled seeds spread by birds and beasts, turning the entire region into parched yellow grassland. Temperature on this ground surface rises to 40 degrees Celsius, creating a scorching desert.
+
+The parent rock for Japan is the same as that for the San Francisco region -- they may once have been one land mass. If the parent rock and grasses are identical, California should have a similar climate. "California was not originally desert at all. Something had probably caused it to dry out."
+
+## The Philosophy of Rain
+
+"Philosophically, rain falls from below," Fukuoka declared at the California state capitol in Sacramento. If there is vegetation on the ground, water vapor rises, condenses into clouds, and falls back down as rain. Deforestation and desertification create a self-reinforcing cycle: bare ground reflects heat, raising temperatures, preventing cloud formation, reducing rainfall further.
+
+Evidence for this was found in Sacramento itself. Very old houses had stairways entering directly onto the second floor for access when floodwaters didn't recede -- evidence that two or three hundred years ago, the town saw mighty floods. Today it sits in the middle of a desert.
+
+## Deficit Farming
+
+Fukuoka coined the term "deficit farming" to describe American agriculture. The soil near the surface was seriously depleted from irrigating fields and working soil with 20-30 ton machines four or five times a year. But at the corners of fields where tractors don't pass, the soil was soft and rich -- proving the land itself was not inherently poor.
+
+Cattle feed was grown with chemical fertilizers, harvested by combines, and exported as livestock feed worldwide. America was draining her lands of fertility. "They're making money, but the steady impoverishment of the soil means they are actually practicing deficit farming." When the soil gives out and fields are abandoned by ranchers, fruit growers set up sprinklers, spread chemical fertilizers, and grow plums, apricots, and oranges. "This no longer is crop production under natural conditions; it is farming based on petroleum energy."
+
+## Agriculture Run Amok
+
+The Midwest corn belt grew nothing but corn, state after state blanketed in monoculture. Further east, fields of soybeans; further still, wheat. These grain farmers grew almost no vegetables for home consumption. "They plow fields a hundred times larger but live a more meager and deprived existence than the Japanese farmer on two or three acres."
+
+The yield ratio (energy yield to energy input) was halving every ten years. "To harvest one calorie of food energy, farmers are putting two into the land. Far from raising productivity, American agriculture can be better characterized as an industry striving to curtail declines in production."
+
+## The Pivot Farm
+
+On his 1986 return trip, Fukuoka identified the center-pivot irrigation system as the symbol of American agriculture's destructiveness. From 35,000 feet, he counted 80,000 circular farms measuring a half-mile across, "very much like oases in the middle of a desert." Water drawn from hundreds of feet deep causes salt accumulation. After 5-6 years the pivot moves to adjoining land while the abandoned land becomes a true desert.
+
+## Specific American Farms and Farmers
+
+Fukuoka's 1979 visit included significant encounters with American farmers moving toward natural methods. The Lundberg family farm in Chico, California -- one of America's largest rice operations at 7,500 acres -- began transitioning to natural methods after meeting Fukuoka. Robert Rodale of Rodale Press hosted Fukuoka at experimental farms in Emmaus, Pennsylvania. Rodale had published the American edition of The One Straw Revolution, and his [[compost-quality-standards]] research represented the organic mainstream that Fukuoka both appreciated and critiqued. More than 250 Zen centers across the U.S. were operating farms, representing another avenue for his ideas.
+
+## American and Japanese Farming Attitudes
+
+Fukuoka noted a fundamental contrast between American and Japanese approaches to agriculture. Japanese farming, even at its most intensive, retained an aesthetic and spiritual dimension -- the farmer worked with nature rather than conquering it. American agriculture was openly industrial: "farming based on petroleum energy" driven by maximum yield and minimum labor. Japanese farmers traditionally lived on their farms and understood the soil intimately across generations; American farmers managed vast acreages from pickup trucks, measuring success in bushels per acre rather than long-term soil health.
+
+## The American Organic Movement in the 1970s-80s
+
+Fukuoka's first visit coincided with rapid growth of the organic farming movement. Rodale Press had promoted organic methods since the 1940s, and by 1979 there was a thriving network of natural food stores, farmers markets, and experimental farms. The [[fukuoka-one-straw-revolution-impact]] was amplified by this existing infrastructure. However, Fukuoka was ambivalent: he appreciated organic farming's rejection of chemicals but criticized its retention of the interventionist mindset. Composting, tilling, and weed management were still forms of human control.
+
+## The East Coast: False Nature
+
+On the East Coast near New York, Fukuoka found "an endless sea of trees" -- birch, maple, oak. But beneath the trees, the soil was poor and depleted. In Boston, where streets were lined with trees, he noted: "I didn't see a single butterfly about. There were no worms or ants in sight. This was certainly not the green of nature. Why, this was nothing other than a nature designed for the pleasure and convenience of man."
+
+## The Emerging Alternative
+
+Despite the grim picture, Fukuoka observed encouraging signs of an agricultural revolution:
+
+- Sunday morning farmers markets in Davis and Eugene, Oregon, selling natural foods exclusively.
+
+- The Lundberg natural rice farm in Chico: 7,500 acres converted to natural methods after meeting Fukuoka in 1979.
+
+- Natural food stores in every city and town.
+
+- Students at UC Davis and UC Santa Cruz running student farms.
+
+- More than 250 Zen centers operating farms throughout the U.S.
+
+- Robert Rodale's experimental farms at Emmaus, Pennsylvania (publisher of The One Straw Revolution).
+
+## The Role of American Universities
+
+UC Davis and UC Santa Cruz played particularly important roles in disseminating Fukuoka's ideas. UC Davis hosted his lectures and its students were among the first Americans to experiment with his methods. UC Santa Cruz's agroecology program incorporated natural farming principles into its curriculum. The [[permaculture-principles]] movement also found early academic footholds at these institutions.
+
+## The Lawn Culture Problem
+
+Fukuoka identified American lawn culture as a major obstacle to ecological recovery. He proposed replacing lawns with clover and daikon, noting that clover would win out over grass in 2-3 years, enabling daikon to grow within green manure. The manicured lawn represents nature designed for human pleasure rather than nature allowed to be itself.
+
+## America's Drying Up
+
+On his 1986 return, conditions had worsened: a third of American farmers were quitting, soil temperatures on arid land were 20-30 degrees Celsius higher than areas with green vegetation, and the self-reinforcing cycle of degradation was accelerating. Fukuoka was called "a land of artificial nature -- a nation of poverty, and that it practiced a brand of agriculture that was primitive in its approach and methods."
+
+## Legacy in Modern US Regenerative Agriculture
+
+Fukuoka's American visits planted seeds that have grown into the modern regenerative agriculture movement. The [[natural-way-of-farming-guide]] revolution in American grain production echoes his core insight about soil disturbance. The soil health movement, championed by figures like Gabe Brown, draws on principles Fukuoka articulated decades earlier: minimize disturbance, maintain living roots, keep soil covered, maximize biodiversity. His observation that American farmers on vast acreages live "more meager and deprived" lives than Japanese farmers on small plots anticipates the modern farm crisis narrative.
+
+## See Also
+
+- [[fukuoka-natural-farming]]
+
+- [[permaculture-principles]]
+
+- [[fukuoka-one-straw-revolution-impact]]
+
+- lawn culture
+
+- [[natural-way-of-farming-guide]]
+
+- [[compost-quality-standards]]
+- [[fukuoka-green-manure-clover-revolution]]
+- [[fukuoka-road-back-clover-barley-rice-method]]
+- [[fukuoka-natural-foods-movement-america]]

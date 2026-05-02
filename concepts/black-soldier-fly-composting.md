@@ -92,3 +92,8 @@ The residue left after larval digestion is called frass. It is a dark, odorless 
 BSF composting closes nutrient loops on the homestead. Food waste becomes protein for [[chickshaw-and-poultry-tractors|poultry]] and fish, and frass returns nutrients to garden beds. The system requires minimal labor once established and produces no foul odor when properly managed.
 
 The leachate can be applied to gardens as a liquid fertilizer (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.
+
+## See Also
+
+- [[comparison-black-soldier-fly-vs-vermicomposting]]
+- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]

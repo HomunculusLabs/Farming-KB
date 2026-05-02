@@ -1,0 +1,125 @@
+---
+title: Soma Haoma Hypothesis
+created: 2026-04-26
+updated: 2026-04-23
+sources:
+  - "Schultes & Hofmann - Plants of the Gods"
+type: concept
+tags: [reference]
+---
+
+# Soma Haoma Hypothesis
+
+The Soma-Haoma hypothesis concerns the identification of the sacred plants Soma
+(of Vedic India) and Haoma (of Zoroastrian Persia) with Amanita muscaria, the
+fly agaric mushroom. Proposed most influentially by R. Gordon Wasson in 1968,
+this hypothesis suggests that Amanita muscaria was the divine intoxicant
+celebrated in the Rig Veda as the elixir of immortality and the source of
+divine inspiration for the Vedic priests. The hypothesis remains one of the
+most debated questions in ethnobotany and Indo-Iranian studies.
+
+## The Vedic Soma
+
+Soma occupies a central place in Vedic religion as described in the Rig Veda
+(c. 1500-1000 B.C.), the oldest religious text of Hinduism. The entire ninth
+book of the Rig Veda -- comprising 114 hymns -- is devoted exclusively to
+praise of Soma. The divine Soma was described with remarkable consistency
+across many hymns as:
+
+- A plant that grew in the mountains, high above the ordinary landscape
+- Pressed between stones to extract its golden or tawny juice
+- Filtered through wool to remove plant material
+- Mixed with milk, water, or barley before consumption
+- Capable of conferring immortality, divine inspiration, and visionary power
+
+The Soma ceremony was the most important Vedic ritual, forming the center of
+the religious life of the early Indo-Aryan peoples. The priests pressed the
+Soma plant and consumed its juice to achieve a state of divine ecstasy,
+composing hymns and receiving revelations. Despite its central importance, the
+identity of the Soma plant was lost after the Vedic period, becoming one of
+the great unsolved problems of Indology.
+
+## The Zoroastrian Haoma
+
+Haoma occupies a parallel position in Zoroastrian tradition, where it is
+celebrated in the Yasna liturgy. Like Soma, Haoma was a divine plant whose
+juice was pressed and consumed in ritual. The linguistic relationship between
+the words Soma and Haoma is well-established, reflecting their common
+Indo-Iranian origin and suggesting that they originally referred to the same
+plant in the proto-Indo-Iranian period.
+
+The Iranian Haoma was a plant with stems, no leaves or blossoms, which grew on
+the mountains and was pressed for its juice. The identity of Haoma has been
+debated, with candidates including Ephedra, Peganum harmala (see
+[[syrian-rue-entheogen]]), and various other plants.
+
+## Wasson's Amanita muscaria Hypothesis
+
+In his 1968 work "Soma: Divine Mushroom of Immortality," R. Gordon Wasson
+proposed that Amanita muscaria was the original Soma/Haoma. Wasson, who had
+previously participated in the [[mazatec-mushroom-tradition]] in Mexico,
+brought a unique combination of ethnobotanical field experience and classical
+scholarship to the question. His argument drew on multiple lines of evidence:
+
+1. **Botanical evidence**: The Rig Veda describes Soma as growing in the
+   mountains, which matches the habitat of Amanita muscaria, a boreal-montane
+   species
+
+2. **Preparation methods**: The pressing of Soma between stones parallels the
+   traditional preparation of Amanita
+
+3. **Color descriptions**: Soma is described as "fiery," "tawny," and
+   "ruddy," matching the red cap of Amanita muscaria
+
+4. **Urine recycling**: Vedic texts describe the gods drinking Soma-urine,
+   paralleling the Siberian practice of drinking the urine of those who have
+   consumed Amanita muscaria
+
+5. **Effects**: The Soma experience -- euphoria, visionary states, a sense of
+   immortality -- matches the known effects of Amanita muscaria
+
+## Arguments Supporting the Hypothesis
+
+- The Rig Veda describes Soma as having "tawny" or "ruddy" hues, matching
+  the mushroom's distinctive red coloration
+- The Vedic description of Soma growing "on the mountains" corresponds to the
+  boreal-montane distribution of Amanita muscaria
+- The practice of urine drinking is a unique and highly specific parallel
+- The divine properties attributed to Soma are consistent with the
+  psychoactive effects of Amanita muscaria
+- The Rig Veda describes Soma as having "no leaves, no branches, no
+  blossoms," which could describe a mushroom
+
+## Arguments Against and Alternative Candidates
+
+Several alternative candidates for Soma have been proposed:
+
+- **Ephedra spp.**: Contains ephedrine; known from Iranian Haoma traditions
+- **Peganum harmala**: Contains beta-carboline alkaloids (see
+  [[peganum-harmala]]); grows in the Iranian plateau
+- **Psilocybin mushrooms**: Effects are consistent with Vedic descriptions,
+  but geographic evidence is weak
+- **Cannabis**: Has a long history of use in India but was a relatively late
+  arrival
+
+Critics note that Amanita muscaria is not native to the plains of northwest
+India where the Vedic civilization flourished, though Wasson argued that the
+original Soma tradition originated in the mountains of Central Asia.
+
+## Cultural Significance
+
+The Soma-Haoma hypothesis remains one of the most debated questions in
+ethnobotany. Regardless of whether Amanita muscaria was the original Soma,
+the hypothesis has profoundly influenced the study of psychoactive plants in
+ancient religions and opened new perspectives on ancient religious texts.
+
+## Related Topics
+
+- [[amanita-muscaria-pharmacology]] - Chemistry and effects of the proposed
+  Soma
+- [[peganum-harmala]] - Alternative candidate for Haoma
+- [[syrian-rue-entheogen]] - Traditional use of Peganum harmala
+- [[eleusinian-mysteries]] - Another ancient entheogenic mystery tradition
+- [[teonanacatl-history]] - Sacred mushrooms of Mesoamerica
+- [[ergot-fungus]] - Another fungus with ancient religious significance
+- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]

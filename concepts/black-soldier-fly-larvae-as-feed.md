@@ -116,3 +116,8 @@ BSF larvae are produced as a byproduct of [[black-soldier-fly-composting]]. The 
 ## Economic Considerations
 
 At homestead scale, BSF larvae production costs are primarily labor and bin materials. The value of waste diverted from landfill and feed costs avoided typically provides a strong return on investment. Commercial BSF meal sells for $800-1,500 per ton, making small-scale production economically competitive with soybean meal ($350-500/ton) when waste diversion value is included.
+
+## See Also
+
+- [[comparison-black-soldier-fly-vs-vermicomposting]]
+- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]

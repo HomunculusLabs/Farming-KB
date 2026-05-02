@@ -14,17 +14,29 @@ The eighth of David Holmgren's twelve permaculture design principles. By putting
 
 > "Many hands make light work: By valuing and working with the relationships between things, we reduce the need for labor and external inputs." — David Holmgren
 
+
+
+
+
 ## Core Concept
 
 Holmgren argues that the industrial approach to design separates elements into monocultures and single-function systems. A conventional farm separates crops from livestock, soil from plants, water from land. A conventional house separates living, working, and food production spaces.
 
 Permaculture design integrates these elements so that the outputs of one become the inputs of another. The result is a system that requires less external input, less labor, and produces more total yield than the sum of its isolated parts.
 
+
+
+
+
 ## Stacking Functions
 
 Every element in a design should perform multiple functions. A chicken, for example, provides eggs, meat, pest control, manure, soil cultivation, and compost turning. A pond stores water, grows fish and aquatic plants, provides wildlife habitat, reflects light, moderates temperature, and can be used for irrigation.
 
 Holmgren notes that diversity of elements and functions is one of the key characteristics of integrated systems. When elements are integrated, mutual and even symbiotic relationships can develop because of the different needs and outputs of each element.
+
+
+
+
 
 ## Guilds
 
@@ -38,6 +50,10 @@ Plant guilds are integrated communities of plants, animals, and microbes that su
 
 See [[permaculture-guild-design]] and [[gaia-garden-plant-guilds]] for detailed guild examples.
 
+
+
+
+
 ## Functional Connections
 
 The key to integration is identifying functional connections — the ways that elements can serve each other. Holmgren provides the example of locating a chicken coop near a kitchen garden so that food scraps go to chickens, chicken manure goes to compost, and compost goes to garden beds, all with minimal transport.
@@ -48,15 +64,27 @@ Integration can occur at many scales:
 - **Site level**: House, garden, water system, and energy system designed as an interconnected whole
 - **Community level**: Local food systems, tool sharing, cooperative labor
 
+
+
+
+
 ## Competition and Cooperation
 
 Holmgren explores the dynamics of competition and cooperation in integrated systems. Where available resources are differentiated into niches, different species can coexist without competing. This typically occurs as a mosaic spatial pattern where species are in close proximity but do not compete for exactly the same resources.
 
 Where resources are undifferentiated, a single generalist species dominates, resulting in low diversity. Integration works by creating many niches so that many species can coexist cooperatively rather than competing.
 
+
+
+
+
 ## Segregation as Appropriate Design
 
 Holmgren acknowledges that segregation can sometimes be useful. The carefully designed edge created by timber belts (as proposed by P.A. Yeomans) was appropriate segregation of grazing animals from trees and shrubs. The balance between integration and segregation is a fine one that depends on the specific situation.
+
+
+
+
 
 ## Connections
 

@@ -24,7 +24,7 @@ Tree fodders are central to permaculture forage systems, providing browse during
 ### Key Fodder Tree Species
 
 - **Leucaena** (Leucaena leucocephala) -- high-protein fodder tree for tropics and subtropics
-- **Tagasaste** (Chaemocytisus palmensis) -- tolerant and hardy from tropics to cool areas; widely used in New Zealand dry areas for cut forage, as a pioneer, mulch, and nurse crop
+- **[[tagasaste]]** (Chaemocytisus palmensis) -- tolerant and hardy from tropics to cool areas; widely used in New Zealand dry areas for cut forage, as a pioneer, mulch, and nurse crop
 - **Honey Locust** (Gleditsia triacanthos) -- selected trees bear heavy pod loads in dry subtropics; frost-hardy. Thornless, high-sugar forms preferred. Deep soil moisture needed in dry season but soil-tolerant and wind-hardy
 - **Kiawe** (Prosopis pallida) -- staple pod forage on dry savannah sites; dense wood, excellent firewood and termite-resistant posts. 20% thornless trees on Hawaii, non-invasive
 - **Desmanthus virgatus** -- shrub to 3m resembling Leucaena, tolerant of heavy cutting and browsing in savannah tropics, yields 7-70 t/ha/year
@@ -80,6 +80,14 @@ Tagasaste is drilled with turnip for future sheep forage; seedling trees establi
 
 ## Related Concepts
 
-- [[permaculture-livestock-forage-systems]] -- Rotational grazing and pasture management
-- [[permaculture-livestock-forage-systems]] -- Animal species in permaculture systems
+- permaculture livestock forage systems -- Rotational grazing and pasture management
+- permaculture livestock forage systems -- Animal species in permaculture systems
 - [[permaculture-woody-mulch-systems]] -- Forage species that double as mulch producers
+
+## See Also
+
+- [[permaculture-forage-systems]]
+- [[mollison-forage-trees-in-livestock-systems]]
+- [[forage-and-fodder-trees-permaculture-systems]]
+- [[permaculture-chicken-forage-systems-design-course]]
+- [[forage-systems-animals-permaculture]]

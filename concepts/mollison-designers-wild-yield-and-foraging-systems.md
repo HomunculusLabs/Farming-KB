@@ -1,0 +1,149 @@
+---
+title: Wild Yield and Foraging Systems
+tags:
+  - permaculture
+  - foraging
+  - wild-food
+  - mushroom-cultivation
+  - food-security
+date: 2026-04-25
+updated: 2026-04-25
+sources:
+  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+---
+
+## Wild Yield and Foraging Systems
+
+Wild yield systems are designed components of the permaculture landscape that
+produce food with minimal human management, drawing on species and ecological
+processes that function largely without intervention. Bill Mollison's
+*Permaculture: A Designers' Manual* emphasizes that productive landscapes
+should include significant areas of wild or semi-wild food systems alongside
+intensively managed gardens and orchards. These systems reduce labor inputs,
+increase overall food security, support biodiversity, and provide yields
+that complement cultivated crops. They integrate naturally with
+[[mollison-designers-temperate-zone-food-forest-design]] and
+[[mollison-designers-dryland-garden-and-oasis-design]].
+
+## Philosophy of Wild Yield
+
+Mollison challenges the assumption that all food must come from cultivated,
+labor-intensive systems. Natural ecosystems are highly productive, but much
+of their yield is in forms that conventional agriculture ignores: wild greens,
+mushrooms, nuts, berries, fish, and game. A permaculture designer deliberately
+incorporates species and habitats that produce these wild yields, designing
+the landscape so that useful wild foods are abundant, accessible, and diverse.
+
+The philosophy extends beyond food. Wild yield systems provide habitat for
+pollinators and pest predators, buffer zones against wind and erosion,
+genetic reservoirs for crop relatives, and aesthetic and recreational value.
+They represent the lowest-energy-input component of the permaculture system,
+relying on ecological processes rather than human labor for maintenance.
+
+## Mushroom Cultivation on Logs
+
+Mushroom cultivation is a quintessential wild yield strategy. Inoculating
+hardwood logs with mushroom spawn creates a productive system that requires
+minimal ongoing management. Shiitake, oyster, lion's mane, and maitake
+mushrooms can all be grown on freshly cut logs of appropriate tree species.
+Oak, maple, beech, and alder are preferred substrates for most edible species.
+
+The process involves drilling holes in freshly cut logs, filling them with
+spawn (sawdust or plug spawn), and sealing the holes with wax. Logs are
+placed in a shaded, moist location -- often within or at the edge of a food
+forest -- and allowed to colonize over 6 to 18 months. Once colonized,
+mushrooms fruit naturally in response to seasonal temperature changes and
+rainfall, providing regular harvests with no further input.
+
+Log-grown mushrooms integrate seamlessly with [[mollison-designers-temperate-zone-food-forest-design]],
+using pruned branches and thinned trees as substrate. This creates a closed
+loop where tree management generates mushroom-growing material, and spent
+logs decompose into [[mollison-designers-humus-building-and-soil-organic-matter]].
+
+## Wild Greens Foraging Zones
+
+Designated wild greens zones are areas planted or allowed to naturalize with
+edible wild plants that require minimal care. Species such as dandelion,
+chickweed, purslane, lamb's quarters, stinging nettle, sorrel, watercress,
+and wild garlic are highly nutritious, widely adapted, and productive without
+cultivation. Many of these species are considered weeds in conventional
+systems but are valued in permaculture for their reliability and nutritional
+density.
+
+Foraging zones should be distributed throughout the landscape, with some
+located near the home for convenient access and others in more distant zones
+where they function as part of broader ecological plantings. Wetland edges,
+stream banks, and shaded woodland areas are particularly productive locations
+for wild greens, as moisture and partial shade support lush growth.
+
+Mollison emphasizes that foraging zones should be managed to prevent any
+single species from dominating. Periodic cutting, grazing, or selective
+harvesting maintains diversity and prevents aggressive species from excluding
+more desirable ones.
+
+## Nut Groves
+
+Nut groves are semi-wild plantings of productive nut trees that require minimal
+management once established. Chestnuts, walnuts, hazelnuts, pecans, hickories,
+and almonds can be planted as extensive groves or integrated into broader
+agroforestry systems. Many nut species are long-lived and productive for
+decades or centuries with little more than occasional harvesting.
+
+Nut groves serve multiple functions beyond food production. They provide
+timber, wildlife habitat, wind protection, and [[mollison-designers-earthworks-for-erosion-control]]
+through their extensive root systems and canopy interception of rainfall.
+As nitrogen-fixing nurse trees are phased out, nut trees become the dominant
+canopy, creating a self-sustaining food-producing woodland.
+
+## Berry Hedgerows and Windbreaks
+
+Berry-producing hedgerows combine food production with wind protection, boundary
+definition, and wildlife habitat. Species such as blackberries, raspberries,
+elderberries, currants, gooseberries, and native berries can be planted in
+dense rows along property boundaries, fences, and windbreak lines. Once
+established, these hedgerows produce annual berry crops with minimal pruning
+or management.
+
+Hedgerow design should include a mix of species with different ripening times
+to extend the harvest season. Including some nitrogen-fixing species within
+the hedgerow supports the fertility of adjacent plantings. Thorny species
+provide security fencing functions alongside food production.
+
+## Aquatic Food Harvesting
+
+Ponds, dams, and waterways designed into the permaculture landscape provide
+significant wild yields. Fish, crustaceans, water plants, and waterfowl all
+contribute to the food system. Mollison recommends designing water bodies
+with varied depth profiles: shallow edges for aquatic plants and waterfowl,
+mid-depth zones for fish breeding, and deeper areas for overwintering.
+
+Edible aquatic plants include watercress, water chestnuts, lotus, taro, and
+water spinach. These plants can be highly productive in nutrient-rich pond
+water, simultaneously purifying the water through nutrient uptake. The
+integration of aquaculture with [[mollison-designers-water-purification-and-storage-principles]]
+creates multi-function water systems that produce food while managing water
+quality.
+
+## Integrating Forage into Landscape Design
+
+Wild yield systems should be deliberately woven into the overall landscape
+design rather than relegated to marginal areas. Foraging zones can serve as
+buffer strips between different land uses, as understory components of food
+forests, as part of [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
+plantings, or as dedicated zones within a [[mollison-designers-intensifying-small-farm-production]]
+plan. The key principle is that wild food production is a designed function,
+not an afterthought.
+
+## Summary
+
+> **Definition:** Wild yield and foraging systems are designed landscape
+> components that produce food with minimal human management through mushroom
+> cultivation on logs, wild greens zones, nut groves, berry hedgerows, and
+> aquatic food systems. These systems reduce labor inputs, increase food
+> security and biodiversity, and integrate with broader permaculture elements
+> including food forests, water systems, and erosion control structures to
+> create multi-functional, self-maintaining food-producing landscapes.
+
+## See Also
+
+- [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]

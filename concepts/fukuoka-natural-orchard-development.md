@@ -1,0 +1,94 @@
+---
+title: Natural Orchard Development
+created: 2026-04-18
+updated: 2026-04-20
+type: concept
+tags: [fukuoka, natural-farming, philosophy]
+sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+---
+
+# Natural Orchard Development
+
+updated: 2026-04-18
+
+Fukuoka's approach to establishing and managing [[fukuoka-natural-fruit-tree-pest-control]] follows entirely different principles from conventional orchardry. He advocated a three-dimensional orchard that includes fruit trees, green manure trees, vegetables, livestock, and beneficial insects as an integrated community.
+
+## Site Selection
+
+The most pleasant location for an orchard is slightly elevated, well-drained land with access to water. Sites at the foot of mountains where trees receive protection from winds are ideal. Abundant firewood, vegetables, and other crops can be gathered on the slopes.
+
+## No Clearing with Bulldozers
+
+A natural orchard should be developed without clearing the land. When land is cleared with a bulldozer, irregular surface features on a slope are flattened and smoothed. Mechanization really only facilitates fertilizer and pesticide application. Since picking ripened fruit is the only major operation in [[fukuoka-natural-farming-philosophy-of-mu]], there is no need to clear steep slopes.
+
+A natural orchard can be established without heavy initial capital outlay or large debts.
+
+## The Three Stages of Orchard Establishment
+
+### Stage 1: Weed Emergence (Years 1-5)
+Four to five years after planting fruit trees, eulalia and other weeds grow thickly among brush and assorted trees. Weeding is not easy and sometimes hard to locate the fruit trees. Despite irregular growth and sometimes poor harvests, there was very little damage from disease and insects — even fruit trees growing in the shadow of other trees were spared attack.
+
+### Stage 2: Underbrush Management (Years 5-8)
+With continued cutting back of underbrush, non-fruit trees recede and weeds such as bracken, mugwort, and kudzu grow up in their place. At this point, broadcasting [[fukuoka-white-clover-ground-cover]] over the entire orchard controls or suppresses weed growth.
+
+### Stage 3: Terracing and Maturation (Years 5-6+)
+When trees begin bearing fruit, dig up earth on the uphill side of fruit trees with a hoe and construct terrace-like steps and a road on the orchard slope. Once terraces are built and original weeds replaced — first with soft weeds (chickweed, knotweed, crabgrass), then with clover — the orchard begins to look like an orchard.
+
+## Fruit Tree Selection
+
+Fukuoka favored indigenous and naturalized fruit varieties over commercial cultivars bred for appearance and shipping durability. He planted mandarin oranges, shaddock (pomelo), loquat, persimmon, Chinese pear, and various citrus varieties suited to the local climate. For the natural orchard, selecting varieties adapted to local conditions is more important than choosing popular commercial varieties. Disease-resistant varieties that can thrive without spraying are essential, as chemical pest control contradicts the principles of [[fukuoka-natural-farming-philosophy-of-mu]]. Fukuoka observed that trees grown from seed (rather than grafted) developed deeper root systems and greater disease resistance, though they took longer to bear fruit. Mixed plantings of many species rather than monoculture blocks reduced pest pressure through natural biodiversity.
+
+## Integration with Vegetable Growing
+
+The spaces between young fruit trees in a natural orchard are not wasted. Fukuoka grew vegetables among the trees from the beginning, using the shade patterns created by the developing canopy to create microclimates suited to different crops. Root vegetables thrived in the partial shade of young trees, while climbing vegetables used tree trunks as natural trellises. This polyculture approach generated food during the years before fruit trees began producing, providing economic return while the orchard matured. The vegetable roots also helped break up compacted soil and added organic matter, accelerating the development of the orchard floor ecosystem.
+
+## The Natural Three-Dimensional Orchard
+
+Fukuoka's ideal orchard includes multiple layers:
+
+- **Canopy layer**: Large trees and shrubs including climbing fruit vines (grapevine, akebia, Chinese gooseberry)
+- **Main fruit layer**: Deciduous fruit trees together with evergreen fruit trees
+- **Green manure trees**: Black wattle, myrtle, alder, podocarpus interplanted among fruit trees
+- **Ground cover**: [[fukuoka-white-clover-cover-crop-system]] plants and herbs
+- **Forage and vegetables**: Semi-wild vegetables and forage crops grown in abundance
+- **Animals**: Poultry and livestock grazing freely
+
+## Avoiding Monoculture
+
+Monoculture of fruit trees should be avoided. Interplanting evergreens with deciduous trees is effective against pest infestation. The planting of manure trees and windbreak trees, and the combination of evergreens and deciduous trees, diminishes damage.
+
+## Fruit Tree Disease and Pest Resistance
+
+Some fruit trees possess natural resistance and can be grown without pesticides:
+- Trees listed under "moderate" and "strong resistance" need no spraying if attention is given to a few specific diseases and pests
+- Resistant types include peach, pear, grape, and Satsuma orange
+- The [[fukuoka-vegetable-disease-insect-resistance]] should be thoroughly familiar with important diseases and pests
+
+## Orchard as Garden
+
+Using the open space in an orchard to raise vegetables and field crops is the very picture of nature. Nothing stops the farmer from having the orchard double as a vegetable and grain patch. When starting an orchard, the main goals initially should be prevention of weed emergence and maturation of the soil through growing buckwheat the first summer, rapeseed and Indian mustard in winter, then adzuki bean and mung bean the following summer, and hairy vetch and other hardy leguminous plants in winter.
+
+## Interplanting Manure Trees
+
+Fukuoka recommended specific companion trees:
+- **Acacias (black wattle)**: Members of the pea family producing nitrogenous fertilizer; also provide tannin-rich bark, quality wood, and honey
+- **Myrtle**: Produces nutrients such as phosphoric acid and potash
+- **Alder and podocarpus**: Additional soil-improvement species
+
+Up to about ten black wattles per quarter-acre are ideal, providing shelterbelt in 3-4 years and organic matter for trench burial after 5-6 years.
+
+## The Self-Sufficient Orchard
+
+If a natural orchard is managed as a single microcosm, there is no reason why one cannot live self-sufficiently. The orchard becomes an organically integrated community that includes fowl, livestock, and man as well. For the individual wishing to live in communion with nature, this is truly a paradise on earth.
+
+The three stages of orchard establishment — weed emergence, underbrush management, and terracing — demonstrate how patience replaces the conventional approach of instant results through chemical inputs. During the initial 4-5 years of weed emergence, the orchard may look chaotic and yields may be irregular, but the soil is building its living ecosystem and the trees are developing natural disease resistance.
+
+Interplanting manure trees such as black wattle, myrtle, alder, and podocarpus among fruit trees creates a multi-strata system that mimics natural forest architecture. The black wattle alone provides nitrogen fixation, wind protection, tannin-rich bark, quality lumber, and honey — a single species performing five distinct functions that would otherwise require separate management interventions.
+
+---
+
+Source: Fukuoka, Natural Way of Farming (administrator-microsoft-word-fukuoka-textdoc.md)
+- [[fukuoka-white-clover-ground-cover]]
+- [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
+- [[gaias-garden-cover-crops-soil-building]]

@@ -17,11 +17,11 @@ sources:
 
 # Sacred Mushroom Hypothesis
 
-John Marco Allegro's controversial 1970 theory that Christianity originated from a fertility cult centered on the psychoactive *Amanita muscaria* mushroom.
+John Marco Allegro's controversial 1970 theory that Christianity originated from a fertility cult centered on the psychoactive *[[amanita-muscaria]]* mushroom.
 
 ## The Book
 
-John Marco Allegro (1923-1988), a British philologist and one of the original editors of the Dead Sea Scrolls, published *The Sacred Mushroom and the Cross* in 1970. He argued that Christianity, and indeed all major Near Eastern religions, were derived from an ancient fertility cult whose central sacrament was the psychoactive fly-agaric mushroom, *Amanita muscaria*.
+John Marco Allegro (1923-1988), a British philologist and one of the original editors of the Dead Sea Scrolls, published *The Sacred Mushroom and the Cross* in 1970. He argued that Christianity, and indeed all major Near Eastern religions, were derived from an ancient fertility cult whose central sacrament was the psychoactive fly-agaric mushroom, *[[amanita]] muscaria*.
 
 ## Core Arguments
 

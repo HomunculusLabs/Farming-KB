@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, ethics, principles, design, sustainability, ecology]
-sources: []
+sources: [papers/david-holmgren-permaculture-principles-pathways-beyon.md]
 ---
 
 # Permaculture Ethics and Principles
@@ -80,3 +80,7 @@ In practice, designers often run through a checklist: Does this element serve mu
 - [[permaculture-site-analysis]] — observation and pattern mapping
 - [[permaculture-guild-design]] — applying integration and diversity principles
 - [[permaculture-climate-adaptation]] — designing for resilience and change
+
+## Cultivation Applications
+
+This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

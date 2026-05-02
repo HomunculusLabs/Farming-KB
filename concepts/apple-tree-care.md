@@ -148,37 +148,10 @@ Thinning excess fruit is essential for quality apples and tree health.
 ### Organic Spray Schedule
 - **Dormant season**: Horticultural oil (smother overwintering pests and eggs)
 - **Green tip**: Sulfur (scab prevention)
-- **Tight cluster**: Sulfur + insecticide if needed
-- **Pink bud**: Sulfur + insecticide
-- **Petal fall**: Spinosad (codling moth), kaolin clay (general pest deterrence)
-- **Cover sprays**: Every 10-14 days through mid-summer as needed
-
-## Varieties
-
-### Disease-Resistant (Best for Organic/Low-Spray)
-- Liberty: Scab-immune, good flavor, reliable
-- Enterprise: Scab and cedar apple rust resistant, stores well
-- Freedom: Scab-immune, vigorous, good for cooking
-- Williams Pride: Early, scab-resistant, excellent flavor
-- GoldRush: Late, scab-immune, excellent storage (6+ months)
-- Sundance: Scab-resistant, crisp, sweet
-
-### Classic Heritage
-- Honeycrisp: Crisp, sweet-tart, excellent fresh eating; cold-hardy but disease-susceptible
-- Fuji: Late, stores extremely well, sweet
-- Granny Smith: Late, tart, excellent keeper
-- Braeburn: Late, complex flavor, stores well
-- Gala: Early-mid, sweet, crisp
-- Pink Lady (Cripps Pink): Late, tart-sweet, stores well
-
-### Pollination Groups (Bloom Time)
-- **Early**: Liberty, Williams Pride, Gravenstein
-- **Mid**: Honeycrisp, Gala, Fuji, Braeburn
-- **Late**: GoldRush, Enterprise, Granny Smith, Pink Lady
-- Plant varieties within the same or adjacent bloom groups
 
 ## See Also
 
-- [[stone-fruit-tree-care]] for companion fruit tree management
-- [[backyard-orchard-design]] for orchard layout and planning
-- [[food-forest-design]] for integrating apples into perennial systems
+- [[comparison-apple-tree-care-vs-apple-guild-design]]
+- [[stone-fruit-tree-care]]
+- [[hemenway-apple-tree-guild-design]]
+- [[organic-fruit-tree-care-calendar]]

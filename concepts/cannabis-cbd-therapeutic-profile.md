@@ -11,6 +11,13 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has emerged as a therapeutic agent distinct from THC. Unlike THC, CBD is non-psychoactive, non-addictive, and has an excellent safety profile.
 
+
+
+
+
+
+
+
 ## Key Properties
 
 ### Anti-Seizure
@@ -38,6 +45,13 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 - Counteracts THC-induced psychosis and paranoia
 - Mechanism: May increase anandamide levels
 
+
+
+
+
+
+
+
 ## CBD Pharmacokinetics
 
 ### Absorption
@@ -57,6 +71,13 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 - Most common side effects: drowsiness, dry mouth, GI upset (at high doses)
 - CBD can interact with liver enzymes (CYP450) — affects metabolism of many pharmaceuticals
 - Grapefruit warning applies: if you avoid grapefruit with your meds, check with a doctor before using CBD
+
+
+
+
+
+
+
 
 ## Related
 - [[cannabis-endocannabinoid-system]] — for mechanism

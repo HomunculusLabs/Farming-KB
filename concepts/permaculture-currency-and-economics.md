@@ -100,3 +100,11 @@ Mollison's key metaphor: "Money is to the social fabric as water is to landscape
 - [[permaculture-introduction-and-ethics]] -- The ethical foundation underlying permaculture economics
 - [[permaculture-design-process]] -- Community-scale design for self-reliance
 - [[permaculture-design-process]] -- Reducing household costs through design
+
+## See Also
+
+- [[pdc-right-livelihood-and-permaculture-economics]]
+- [[permaculture-plants-comfrey-chop-and-drop]]
+- [[holmgren-permaculture-education-training-and-pdc]]
+- [[permaculture-community-structures-and-legal-organizations]]
+- [[fukuoka-mu-economics-and-value-of-nothing-essay]]

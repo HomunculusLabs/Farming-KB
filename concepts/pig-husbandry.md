@@ -148,40 +148,6 @@ Pigs are notorious for testing and destroying fencing.
 - Process piglets (iron injection, clip needle teeth, dock tails, castrate
   males) within first 3 days.
 
-## Finishing
+## See Also
 
-### Grass-Fed/Pasture-Finished
-- Heritage breeds perform best on pasture-based systems.
-- Longer finishing period (8-12 months vs 5-6 months grain-fed).
-- Leaner meat, different flavor profile. Often commands premium price.
-- Supplement with grain for last 60-90 days to improve marbling.
-
-### Grain-Finished
-- Faster, more efficient. 5-6 months from birth to market.
-- Better marbling and conventional flavor.
-- Higher feed costs but shorter time to harvest.
-
-## Processing
-
-- Ideal harvest weight: 220-280 lbs live weight (160-200 lbs hanging).
-- On-farm slaughter is legal in most areas if done for personal use. See
-  [[animal-harvest-and-processing]].
-- Bacon, ham, sausage, lard, and hocks are high-value cuts.
-- Lard rendering: excellent cooking fat, soap making, and leather conditioning.
-
-## Manure and Byproducts
-
-- Pig manure is extremely nutrient-dense ("hot" manure). Must be composted
-  before garden use to avoid burning plants.
-- One pig produces roughly 10-15 lbs of manure per day.
-- Excellent nitrogen source for compost. Add to carbon-heavy piles.
-- Pig manure can be anaerobically digested for biogas production.
-
-## Links
-
-- [[goat-husbandry]]
-- [[cattle-husbandry]]
-- [[pasture-management]]
-- [[livestock-fencing-guide]]
-- [[livestock-feed-formulation]]
-- [[animal-harvest-and-processing]]
+- [[pig-husbandry-permaculture]]

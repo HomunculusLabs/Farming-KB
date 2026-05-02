@@ -1,0 +1,102 @@
+---
+title: Medicinal Mushroom Immune Modulation
+created: 2026-04-14
+updated: 2026-04-15
+type: concept
+tags: [mycology, medicine, mushrooms]
+sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
+---
+# Medicinal Mushroom Immune Modulation
+
+Medicinal mushrooms modulate the host immune system primarily through their polysaccharide and polysaccharide-protein complex constituents. These compounds act as **biological response modifiers** (BRMs), enhancing the body's own immunocompetency rather than attacking cancer cells directly through cytotoxicity. This approach -- strengthening the host's defence mechanisms -- aligns with the fundamental principle in oriental medicine of regulating homeostasis of the whole body.
+
+
+
+## Beta-Glucans: The Primary Immunomodulators
+
+The most active immune-stimulating compounds from mushrooms are **branched (1-3)-beta-D-glucans**. These share a common structural motif: a main chain of (1-3)-linked beta-D-glucopyranosyl units with randomly dispersed (1-6)-linked side chains, creating a comb-like structure. The (1-3)-beta-D-glucan backbone is essential, and the most active polymers have degrees of branching between 0.20 and 0.33. Triple helical structures formed from high molecular weight polymers are important for immunopotentiating activity.
+
+Immunopotentiating activity depends mainly on a **helical conformation** and on the presence of hydrophilic groups located on the outside surface of the helix. Most active (1-3)-beta-D-glucans have been isolated from **Basidiomycetes**.
+
+
+
+## Receptor Binding Mechanism
+
+Beta-glucans bind to specific **iC3b-receptors (CR3, CD11b/CD18)** on phagocytic cells and natural killer (NK) cells, stimulating phagocytosis and/or cytotoxic degranulation. The CR3 receptor (also known as Mac-1 or alpha-M-beta-2 integrin) has two major functions: mediating diapedesis of leukocytes through the endothelium, and stimulating phagocytosis and degranulation in response to microorganisms opsonised with iC3b.
+
+Additional receptors involved include **Dectin-1**, a C-type lectin receptor that specifically recognizes beta-glucans on the surface of pathogens. Dectin-1 activation triggers downstream signalling through the Syk-CARD9 pathway, leading to NF-kB activation and production of pro-inflammatory cytokines. This dual-receptor engagement (CR3 and Dectin-1) may explain the broad immunomodulatory effects observed with mushroom polysaccharides.
+
+
+
+## Immune Effects
+
+Immunopotentiation from mushroom beta-glucans and polysaccharide-protein complexes includes:
+
+- **Innate defences**: activation of cytotoxic macrophages, neutrophils, and NK cells
+- **Humoral immunity**: stimulation and proliferation of B cells
+- **Cell-mediated immunity**: activation of helper T cells, promotion of T cell differentiation, activation of killer T cells
+- **Complement system**: activation of the alternative complement pathway
+- **Cytokine production**: release of interleukins (IL-1, IL-2, IL-6), tumour necrosis factor-alpha (TNF-alpha), and interferons
+- **Dendritic cell maturation**: enhancement of antigen presentation capacity
+- **Macrophage polarization**: promotion of M1 (anti-tumour) phenotype over M2 (pro-tumour)
+
+
+
+## Key Compounds Across Species
+
+Multiple mushroom species produce structurally distinct but functionally similar immunomodulators:
+
+- [[turkey-tail-mushroom-cancer-research]] -- PSK and PSP from Trametes versicolor
+- [[shiitake-medicinal-compounds]] -- Lentinan from Lentinus edodes
+- [[maitake-d-fraction-research]] -- D-fraction and Grifron-D from Grifola frondosa
+- [[reishi-mushroom-medicinal-properties]] -- Beta-glucans, Ling Zhi-8 protein, and triterpenes from Ganoderma lucidum
+- [[agaricus-blazei-murill-research]] -- Beta-glucans and proteoglucans from Agaricus blazei
+
+
+
+## Polysaccharide-Protein Complexes
+
+Beyond pure polysaccharides, many active compounds are protein-bound. PSK is approximately 62% polysaccharide and 38% protein, with molecular weights around 94,000-100,000 daltons. PSP also contains at least four discrete proteoglycan molecules. The protein moiety appears to play a role in receptor binding and oral bioavailability.
+
+
+
+## Triterpenes and Secondary Metabolites
+
+While beta-glucans are the primary immunomodulators, many medicinal mushrooms also contain triterpenes (particularly in [[reishi-mushroom-medicinal-properties]] species) that exhibit anti-inflammatory, anti-tumour, and hepatoprotective effects. These compounds work through different pathways -- modulating NF-kB signalling, inhibiting angiogenesis, and inducing apoptosis in cancer cells -- and may complement the immune-boosting effects of polysaccharides.
+
+
+
+## Clinical Applications
+
+Mushroom-derived immunomodulators have been approved as adjunct cancer therapies in several countries:
+
+- PSK (from Trametes versicolor) is approved in Japan as an adjuvant cancer therapy
+- Lentinan (from Lentinula edodes) is approved in Japan for gastric cancer treatment
+- PSP is widely used in China as a complementary cancer treatment
+
+These preparations are typically administered alongside conventional chemotherapy and radiation therapy, where they have been shown to improve quality of life, reduce treatment side effects, and in some cases improve survival outcomes.
+
+
+
+## Synergistic Effects
+
+Studies suggest that the human and murine immune systems can receive greater stimulation from **mixtures of polysaccharides** from several proven medicinal mushrooms than from single-species extracts, indicating complementary effects among mushroom components. This has led to the development of multi-mushroom formulations in integrative oncology.
+
+
+
+## Safety Profile
+
+Mushroom polysaccharides are generally well-tolerated and compatible with chemotherapy and radiation therapy, making them promising candidates for integrative oncology. Adverse effects are rare and typically mild, consisting of occasional gastrointestinal discomfort or allergic reactions in sensitive individuals.
+
+
+
+## Related
+
+- [[ergothioneine]]
+- [[hispolon]] Topics
+
+- [[medicinal-mushroom-guide]]
+- [[beta-glucan-receptor-binding]]
+- [[reishi-mushroom-medicinal-properties]]
+- [[shiitake-medicinal-compounds]] 
+- [[medicinal-mushroom-antioxidant-anti-inflammatory]]

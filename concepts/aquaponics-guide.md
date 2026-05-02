@@ -9,7 +9,7 @@ sources: []
 
 # Aquaponics Guide
 
-Aquaponics combines aquaculture (raising fish) and hydroponics (growing plants in water) into one integrated system. Fish waste feeds the plants, and plants filter the water for the fish. It is a closed-loop, water-efficient method ideal for homesteads with limited space.
+[[aquaponics]] combines aquaculture (raising fish) and hydroponics (growing plants in water) into one integrated system. Fish waste feeds the plants, and plants filter the water for the fish. It is a closed-loop, water-efficient method ideal for homesteads with limited space.
 
 ## How the Nitrogen Cycle Works
 

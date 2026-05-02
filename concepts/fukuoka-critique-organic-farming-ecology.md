@@ -1,0 +1,96 @@
+---
+title: Critique of Organic Farming and Ecology Movements
+created: 2026-04-21
+updated: 2026-04-21
+type: concept
+tags: [regenerative, soil]
+sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
+---
+
+# Critique of Organic Farming and Ecology Movements
+
+updated: 2026-04-18
+
+Masanobu Fukuoka delivered a sharp critique of both the organic farming
+movement and the academic discipline of ecology, arguing that both are
+fundamentally self-defeating and incapable of restoring true nature.
+
+## The Limits of Organic Farming
+
+Fukuoka acknowledged that the clamor over natural diet and the
+development of organic gardening had slowed the advance of scientific
+agriculture. But in his view, organic farming is very different from
+natural farming. In its practice, organic gardening is simply a return
+to animal-based agriculture -- replacing chemical fertilizers with
+animal manure, chemical pesticides with organic pesticides. It is still
+within the paradigm of human intervention and control.
+
+Organic farming appears to serve the cause of natural conservation, but
+judging from developments over the past decade or so, this is not the
+case. Organic farming does act as a brake, but since the brake is
+acting upon a broken wheel, it only compounds the danger. If mistaken
+agricultural methods are responsible for the ruin of the land, then
+unless those errors are rectified, the rapidly declining nature and
+culture of Europe and Japan will be beyond help.
+
+## The False Comfort of Ecology
+
+Fukuoka identified what he called the arrogance and failing of people
+in their thinking: "If there is a right and a left, a balance can be
+achieved and things worked out; as long as ecology exists and we have
+ecologists around, it will be possible to save nature." This, he said,
+is precisely what is wrong. Halfway measures will not do.
+
+He illustrated this with an example: People who hear "There's no one
+around to treat you if you get sick; there are no doctors on this
+island" are bound to take care of themselves. But try telling them
+"We've got a doctor and an internist on the island, so you can rest
+assured you'll be well taken care of" -- and people will cease to look
+after themselves.
+
+When people hear talk of plant ecologists and conservationists
+protecting nature and the environment, the less concerned they become
+about destroying nature themselves. With environmental conservation
+groups and an Environment Agency in place, it is as if people were
+saying "leave the fire up to the firemen and the arsonist up to the
+police."
+
+## Confronting an Ecologist
+
+Fukuoka described a meeting at Yokohama National University where an
+ecologist was presenting on pollution damage. Fukuoka had read the
+ecologist's book and found frequent mention of the sacred groves of
+local shrines. When Fukuoka spoke up: "Professor, if you think that
+plant ecologists can protect the ecology of Japan's mountains and
+forests, you're sadly mistaken. It's not the ecologists who created
+the sacred groves of the local shrines, you know."
+
+The sacred groves of Japanese village shrines are natural woods only
+because, calling the rocks and trees gods, someone attached sacred
+straw festoons to them, protecting them from the ax. The ax and saw are
+the worst. Their appearance marked the start of the destruction of
+nature.
+
+## The Real Path Forward
+
+Reviving the earth, halting the growth of deserts, and conserving the
+environment cannot be achieved by doing something, but by seizing an
+opportunity for reform that requires nothing to be done. This is the
+essence of the [[fukuoka-do-nothing-farming-philosophy-and-practice]].
+
+With its fixation on tourism and leisure, the public calls for more
+high-speed roads and bridges. The natural destruction of Japan will
+continue for some time to come. What is needed is not environmental
+management by experts but a fundamental shift in human consciousness
+and relationship with nature.
+
+## See Also
+
+- [[fukuoka-critique-organic-certification]]
+- [[fukuoka-natural-farming-philosophy]]
+- [[fukuoka-ecological-balance-principles]]
+- [[fukuoka-bogus-nature]]
+- [[fukuoka-do-nothing-farming-philosophy]]
+- [[fukuoka-european-civilization-standstill]]
+- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+- [[fukuoka-natural-vs-scientific-farming]]

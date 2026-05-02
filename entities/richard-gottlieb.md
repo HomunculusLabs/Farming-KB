@@ -13,6 +13,15 @@ sources:
 
 Adam Gottlieb (published under "Richard Gottlieb" on peyote guide) is the author of two influential underground cultivation guides: *The Psilocybin Producer's Guide* (1976) and *A Guide to the Peyote and Other Psychoactive Cacti*. His works are known for practical, accessible instructions written for home cultivators with minimal equipment.
 
+
+
+
+
+
+
+
+
+
 ## The Psilocybin Producer's Guide (1976)
 
 Gottlieb's psilocybin guide pioneered the concept of mycelial liquid culture as an alternative to fruiting body cultivation. The subtitle promises "How to produce 5000 doses of organic psilocybin in a small room every week." Key innovations:
@@ -28,6 +37,15 @@ Gottlieb's psilocybin guide pioneered the concept of mycelial liquid culture as 
 
 Gottlieb took a philosophical stance on drug laws, calling them "a pathetic mess" rooted in "ignorance" and arguing that "reliable education — not criminal penalization — is the answer to whatever drug problems exist."
 
+
+
+
+
+
+
+
+
+
 ## Peyote and Psychoactive Cacti Guide
 
 Comprehensive guide covering identification, cultivation from seed, and preparation of mescaline-containing cacti:
@@ -38,9 +56,27 @@ Comprehensive guide covering identification, cultivation from seed, and preparat
 - **Species identification**: detailed descriptions of peyote, San Pedro, and other mescaline-containing species
 - **Preparation methods**: traditional and modern approaches to extracting mescaline
 
+
+
+
+
+
+
+
+
+
 ## Contributions and Legacy
 
 Gottlieb's guides bridged academic mycology and home cultivation, making advanced techniques accessible to non-specialists. His emphasis on liquid culture over fruiting bodies influenced later commercial cultivation approaches. The production-scale design in his psilocybin guide anticipated the legal psilocybin manufacturing facilities that would emerge decades later. See [[psychoactive-cacti-guide]] and [[psilocybin-mushroom-cultivation]] for broader cultivation context.
+
+
+
+
+
+
+
+
+
 
 ## See Also
 
