@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1579 pages**
+**1570 pages**
 
 ## A
 
@@ -217,7 +217,6 @@
 - [[hemenway-ecological-principles-niche-succession-biodiversity]]
 - [[hemenway-edge-effect-in-garden-design]]
 - [[hemenway-food-forest-design]]
-- [[hemenway-forest-garden-layers]]
 - [[hemenway-garden-design-process-observation-and-visioning]]
 - [[hemenway-greywater-design-philosophy]]
 - [[hemenway-guild-design-roles-and-assembly]]
@@ -447,7 +446,6 @@
 - [[hugelkultur-bed-construction]]
 - [[hugelkultur-bed-construction-detailed]]
 - [[hugelkultur-beds]]
-- [[hugelkultur-guide]]
 
 ## I
 
@@ -1094,7 +1092,6 @@
 - [[permaculture-community-bioregionalism]]
 - [[permaculture-community-building]]
 - [[permaculture-community-design]]
-- [[permaculture-community-design-methods]]
 - [[permaculture-community-resilience]]
 - [[permaculture-community-resilience-strategies]]
 - [[permaculture-community-scale-design]]
@@ -1159,8 +1156,6 @@
 - [[permaculture-designers-manual-dune-stabilisation]]
 - [[permaculture-designers-manual-earth-building]]
 - [[permaculture-designers-manual-earth-building-techniques]]
-- [[permaculture-designers-manual-earthworks]]
-- [[permaculture-designers-manual-edge-effect-design]]
 - [[permaculture-designers-manual-education-and-training]]
 - [[permaculture-designers-manual-education-strategies]]
 - [[permaculture-designers-manual-energy-systems]]
@@ -1480,7 +1475,6 @@
 - [[permaculture-woodlot-management]]
 - [[permaculture-woody-mulch-systems]]
 - [[permaculture-zone-0-house-design]]
-- [[permaculture-zone-analysis]]
 - [[permaculture-zone-and-sector-planning]]
 - [[permaculture-zone-design]]
 - [[permaculture-zone-one-design]]
@@ -1609,7 +1603,6 @@
 - [[water-in-permaculture]]
 - [[waterworks-construction-permaculture]]
 - [[williams-pdc-additional-permaculture-principles]]
-- [[williams-pdc-animal-systems]]
 - [[williams-pdc-appropriate-technology]]
 - [[williams-pdc-client-interview-process]]
 - [[williams-pdc-climates-and-biomes]]
@@ -1626,8 +1619,6 @@
 - [[williams-pdc-invisible-structures]]
 - [[williams-pdc-learning-exercises-and-field-activities]]
 - [[williams-pdc-non-violent-communication]]
-- [[williams-pdc-passive-solar-design]]
-- [[williams-pdc-pattern-understanding]]
 - [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]
 - [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[williams-pdc-plants-in-permaculture-systems]]

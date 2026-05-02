@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**375 pages**
+**373 pages**
 
 ## A
 
@@ -360,14 +360,12 @@
 - [[soil-fertility-management]]
 - [[soil-food-web]]
 - [[soil-food-web-assessment]]
-- [[soil-food-web-assessment-methods]]
 - [[soil-food-web-management-for-farmers]]
 - [[soil-food-web-nutrient-cycling]]
 - [[soil-food-web-structure]]
 - [[soil-health-and-management]]
 - [[soil-health-indicators]]
 - [[soil-health-management]]
-- [[soil-horizons-and-profiles]]
 - [[soil-life]]
 - [[soil-microbiology-basics]]
 - [[soil-microscope-analysis]]

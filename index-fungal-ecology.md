@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2187 pages**
+**2175 pages**
 
 ## #
 
@@ -159,7 +159,6 @@
 - [[biodiversity-fungi-grassland-ecosystems]]
 - [[biodiversity-fungi-insect-symbiosis]]
 - [[biodiversity-fungi-leaf-litter-decomposition]]
-- [[biodiversity-fungi-living-plant-substrata]]
 - [[biodiversity-fungi-molecular-methods]]
 - [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungi-plant-pathogens]]
@@ -325,7 +324,6 @@
 - [[cryptococcus-neoformans-pathogenesis]]
 - [[culturing-culture-independent-fungi]]
 - [[culturing-macrofungi-methods]]
-- [[cyanide-biodegradation-by-fungi]]
 
 ## D
 
@@ -555,7 +553,6 @@
 - [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-biodiversity-education-citizen-science]]
 - [[fungal-biodiversity-estimates]]
-- [[fungal-biodiversity-extreme-environments]]
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[fungal-biodiversity-forest-floor]]
 - [[fungal-biodiversity-grassland]]
@@ -678,7 +675,6 @@
 - [[fungal-diversity-arid-environments]]
 - [[fungal-diversity-boreal-forests-taiga]]
 - [[fungal-diversity-deserts-arid-lands]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
 - [[fungal-diversity-estimates]]
 - [[fungal-diversity-estimation-methods]]
 - [[fungal-diversity-extreme-environments]]
@@ -1066,7 +1062,6 @@
 - [[fungi-sustainability-food-security-and-nutrition]]
 - [[fungi-sustainability-mycoremediation-case-studies]]
 - [[fungi-sustainable-packaging-and-materials]]
-- [[fungi-tropical-forest-ecosystems]]
 - [[fungi-vertebrate-interactions-commensal-pathogenic]]
 - [[fungicolous-fungi]]
 - [[fungicolous-fungi-cultivated-mushroom-diseases]]
@@ -1089,7 +1084,6 @@
 - [[gadd-fungal-ecology-endophytes]]
 - [[gadd-fungal-ecology-pathogens]]
 - [[gadd-fungal-ecology-saprotrophs]]
-- [[gadd-fungal-environmental-sensing]]
 - [[gadd-fungal-extreme-environments]]
 - [[gadd-fungal-extremophiles]]
 - [[gadd-fungal-genomics-comparative-approaches]]
@@ -1110,7 +1104,6 @@
 - [[gadd-mathematical-modelling-fungal-mycelia]]
 - [[gadd-mineral-transformations-biogeochemistry]]
 - [[gadd-mycelial-network-dynamics]]
-- [[gadd-nematode-trapping-fungi]]
 - [[gadd-penicillium-marneffei-population-genetics]]
 - [[gadd-peroxisomes-ascomycete-lifestyle]]
 - [[gadd-rice-blast-magnaporthe-grisea]]
@@ -1586,7 +1579,6 @@
 - [[mycorrhizal-inoculation-methods-agriculture]]
 - [[mycorrhizal-inoculation-techniques]]
 - [[mycorrhizal-inoculum-production]]
-- [[mycorrhizal-inoculum-reduction-techniques]]
 - [[mycorrhizal-inoculum-reduction-techniques-comparative]]
 - [[mycorrhizal-mediation-of-plant-plant-competition]]
 - [[mycorrhizal-mineral-weathering-nutrient-acquisition]]
@@ -1658,7 +1650,6 @@
 - [[nitrogen-fixing-trees]]
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[nitrogen-transfer-mycorrhizal]]
-- [[nitrogen-transfer-mycorrhizal-networks]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[non-mycorrhizal-plants]]
 - [[nonsystemic-endophytic-fungi-nongrass-hosts]]
@@ -1709,7 +1700,6 @@
 - [[particle-filtration-dilution-plating-microfungal-isolation]]
 - [[pcr-methods-fungal-identification-monitoring]]
 - [[permaculture-designers-manual-legumes]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
 - [[permaculture-nitrogen-fixing-trees]]
 - [[permaculture-nitrogen-fixing-trees-guide]]
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]
@@ -2046,7 +2036,6 @@
 - [[staycare-cytochrome-p450-in-fungal-biodegradation]]
 - [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
 - [[staycare-ecotoxicological-assessment-of-fungal-bioremediation]]
-- [[staycare-ericoid-mycorrhizal-fungi-in-bioremediation]]
 - [[staycare-fungal-agricultural-waste-conversion]]
 - [[staycare-fungal-biomethylation-of-metals-and-metalloids]]
 - [[staycare-fungal-bioremediation-btex-compounds]]
@@ -2224,7 +2213,6 @@
 - [[undescribed-fungal-taxa]]
 - [[unknown-mycelium-mycofiltration]]
 - [[unknown-mycelium-mycopesticides]]
-- [[unknown-mycelium-mycoremediation]]
 - [[urban-permaculture-nitrogen-fixing-green-manures]]
 - [[urediniomycetes-rust-fungi-yeastlike-relatives]]
 - [[ustilaginomycetes-smut-fungi-classification-diversity]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**935 pages**
+**931 pages**
 
 ## #
 
@@ -70,7 +70,6 @@
 - [[ariadne-pihkal-entry-8]]
 - [[asb-pihkal-entry-9]]
 - [[ayahuasca-additive-plants-and-dmt-synergy]]
-- [[ayahuasca-analogs-dmt-plants-guide]]
 - [[ayahuasca-botany-and-preparation]]
 - [[ayahuasca-brewing-guide]]
 - [[ayahuasca-pharmacology]]
@@ -140,6 +139,7 @@
 - [[coleman-winter-day-length-and-persephone-months]]
 - [[colorines-erythrina-seeds-mexican-hallucinogen]]
 - [[complexity-and-connections]]
+- [[computational-fluid-dynamics]]
 - [[computational-universe-and-natural-intelligence]]
 - [[consciousness-and-psychedelics]]
 - [[consciousness-as-fundamental-property]]
@@ -328,7 +328,6 @@
 - [[harner-plant-teachers-and-entheogenic-knowledge]]
 - [[harner-shamanic-journey-and-altered-states]]
 - [[harner-sharanahua-visions-and-cures]]
-- [[harner-urban-ayahuasca-healing]]
 - [[harner-yage-experience-themes]]
 - [[hecatonkephalos-narkissos-narcotic-flower]]
 - [[hemenway-chicken-tractor-and-poultry-integration]]
@@ -543,7 +542,6 @@
 - [[mescaline-biosynthesis-and-precursor-enhancement]]
 - [[mescaline-compound-profile]]
 - [[mescaline-containing-cacti]]
-- [[mescaline-containing-cacti-peyote-san-pedro]]
 - [[mescaline-derivatives-pihkal]]
 - [[mescaline-ethnobotany]]
 - [[mescaline-extraction-guide]]
@@ -690,7 +688,6 @@
 - [[powell-natural-intelligence-and-the-universal-computation]]
 - [[powell-numinous-experience-and-psychedelic-awe]]
 - [[powell-paradigm-shifting-and-the-psychedelic-revolution]]
-- [[powell-psilocybin-addiction-treatment]]
 - [[powell-psilocybin-brain-plasticity]]
 - [[powell-psilocybin-consciousness]]
 - [[powell-psilocybin-end-of-life-anxiety]]
@@ -884,7 +881,6 @@
 - [[shroom-mesoamerican-civilization]]
 - [[shroom-prohibition]]
 - [[shroom-scientific-study]]
-- [[shroom-wasson-rediscovery]]
 - [[shroom-wasson-valentina-expedition]]
 - [[shulgin-designer-drugs-analysis]]
 - [[shulgin-dosage-guidelines]]

@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1227 pages**
+**1226 pages**
 
 ## #
 
@@ -465,7 +465,6 @@
 - [[hallucinogenic-mushrooms-european-trends]]
 - [[hamilton-deep-bed-system]]
 - [[harner-mazatec-mushroom-shamanism]]
-- [[harner-mazatec-mushrooms-of-language-deep]]
 - [[harner-psilocybin-mushroom-cultures-mesoamerica]]
 - [[hepa-filter-selection-and-testing]]
 - [[historical-mushroom-cultivation]]

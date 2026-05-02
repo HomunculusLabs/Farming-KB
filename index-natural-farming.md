@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**806 pages**
+**804 pages**
 
 ## A
 
@@ -498,7 +498,6 @@
 - [[jadam-farming-method]]
 - [[jadam-fermented-plant-juice]]
 - [[jadam-fermented-plant-juice-preparation]]
-- [[jadam-fertilizer-program]]
 - [[jadam-fertilizer-program-design]]
 - [[jadam-fertilizer-program-examples]]
 - [[jadam-fly-control-livestock]]
@@ -705,7 +704,6 @@
 - [[knf-vs-chemical-farming-comparison]]
 - [[knf-water-soluble-calcium]]
 - [[knf-water-soluble-calcium-phosphate]]
-- [[knf-water-soluble-calcium-wsca]]
 - [[knf-water-soluble-potassium-detailed]]
 - [[knf-water-soluble-potassium-functions]]
 - [[knf-water-soluble-potassium-wsk]]

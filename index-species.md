@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1103 pages**
+**1100 pages**
 
 ## #
 
@@ -166,7 +166,6 @@
 - [[agaricus-subrufescens]]
 - [[agaricus-sylvicola]]
 - [[agricultural-mycorrhizae]]
-- [[agrocybe-aegerita]]
 - [[agrocybe-aegerita-detailed]]
 - [[al-entity]]
 - [[al-entity-pihkal]]
@@ -208,6 +207,7 @@
 - [[andy-letcher]]
 - [[ann-shulgin]]
 - [[aphanocladium-album]]
+- [[arabidopsis-thaliana]]
 - [[araucaria-araucana]]
 - [[areca-catechu]]
 - [[argyreia-nervosa]]
@@ -406,6 +406,7 @@
 - [[donald-teeter]]
 - [[dopr-entity]]
 - [[dopr-entity-pihkal]]
+- [[douglas-fir]]
 - [[dpt-entity-tihkal]]
 - [[dronabinol]]
 - [[duboisia-hopwoodii]]
@@ -596,6 +597,7 @@
 - [[james-cuthill]]
 - [[james-trappe]]
 - [[jeff-lowenfels]]
+- [[jerusalem-artichoke]]
 - [[jochen-gartz]]
 - [[john-allegro]]
 - [[john-allen]]
@@ -899,7 +901,6 @@
 - [[psilocybe-atrobrunnea]]
 - [[psilocybe-aucklandii]]
 - [[psilocybe-australiana]]
-- [[psilocybe-aztecorum-entity]]
 - [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
 - [[psilocybe-azurescens]]
 - [[psilocybe-baeocystis]]
@@ -909,7 +910,6 @@
 - [[psilocybe-caeruleoannulata]]
 - [[psilocybe-caerulescens-entity]]
 - [[psilocybe-caerulipes]]
-- [[psilocybe-caerulipes-entity]]
 - [[psilocybe-collybioides]]
 - [[psilocybe-columbiana]]
 - [[psilocybe-coprophila]]
@@ -969,7 +969,6 @@
 - [[psilocybe-semilanceata]]
 - [[psilocybe-semperviva]]
 - [[psilocybe-serbica]]
-- [[psilocybe-serbica-entity]]
 - [[psilocybe-silvatica]]
 - [[psilocybe-singeriana]]
 - [[psilocybe-skyoi]]
@@ -981,7 +980,6 @@
 - [[psilocybe-subcubensis]]
 - [[psilocybe-subfimetaria]]
 - [[psilocybe-tampanensis]]
-- [[psilocybe-tampanensis-entity]]
 - [[psilocybe-tasmaniana]]
 - [[psilocybe-thailandensis]]
 - [[psilocybe-thessalonica]]
@@ -998,7 +996,6 @@
 - [[psilocybe-weilii]]
 - [[psilocybe-yungensis]]
 - [[psilocybe-zapotecorum]]
-- [[psilocybe-zapotecorum-entity]]
 - [[psilocybin]]
 - [[psim-enzyme]]
 - [[psk-polysaccharide-krestin]]
@@ -1014,12 +1011,11 @@
 
 ## R
 
-- [[r-gordon-wasson]]
 - [[ralph-metzner]]
 - [[rhizoctonia-solani]]
 - [[rhizopogon-vinicolor]]
 - [[rhizopus-arrhizus]]
-- [[rhizopus-stolonifer-entity-the-mushroom-cultivator]]
+- [[rhizopus-stolonifer]]
 - [[rhodiola-rosea]]
 - [[rhodopseudomonas-palustris]]
 - [[richard-alpert]]
@@ -1041,7 +1037,6 @@
 - [[saccharomyces-paradoxus]]
 - [[salix-alba]]
 - [[salvia-divinorum]]
-- [[salvia-divinorum-entity]]
 - [[sandoz-pharmaceuticals]]
 - [[sapodilla-entity]]
 - [[sarah-c-watkinson]]
@@ -1069,6 +1064,7 @@
 - [[steve-solomon]]
 - [[steven-pollock]]
 - [[stigmasterol]]
+- [[streptomyces]]
 - [[streptomyces-griseus]]
 - [[stropharia-caerulea]]
 - [[stropharia-cubensis]]
@@ -1127,6 +1123,7 @@
 - [[trichocereus-bridgesii]]
 - [[trichocereus-pachanoi]]
 - [[trichocereus-peruvianus]]
+- [[trichoderma]]
 - [[trichoderma-harzianum]]
 - [[trichoderma-koningii]]
 - [[trichoderma-reesei]]

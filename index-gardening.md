@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**820 pages**
+**819 pages**
 
 ## A
 
@@ -702,7 +702,6 @@
 - [[seed-saving-storage]]
 - [[seed-saving-techniques]]
 - [[seed-saving-vegetables]]
-- [[seed-starting-and-transplanting]]
 - [[seed-starting-indoors]]
 - [[seed-starting-indoors-solomon]]
 - [[seed-starting-reference]]
