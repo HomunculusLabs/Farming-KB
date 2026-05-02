@@ -1,5 +1,4 @@
----
-title: "Korean Natural Farming vs Biodynamic Agriculture"
+---[[korean-natural-farming]]l Farming vs Biodynamic Agriculture"
 tags: [knf, biodynamic, natural-farming, organic-farming, soil-biology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -46,8 +45,7 @@ in soil over winter to concentrate particular forces. BD 508 is a
 horsetail tea used as an anti-fungal spray. All preparations require
 specialized animal organs as containers and are applied through a
 precise one-hour vortex stirring process called "dynamization."
-KNF uses a system of **fermented natural inputs** produced entirely
-from locally available materials. Core inputs include IMO (indigenous
+KNF uses a system of **fermented natural inputs** producedfermented-plant-juicey available materials. Core inputs infish-amino-acidgenous
 microorganisms) collected from forest soils and multiplied through a
 four-stage cultivation process, FPJ (fermented plant juice), FFJ
 (fermented fruit juice), FAA (fish amino acid), OHN (oriental herbal
@@ -85,8 +83,7 @@ cosmic calendar approach.
 KNF is explicitly designed for zero-cost input self-sufficiency. Every
 input is produced from locally forageable or farm-sourced materials:
 wild plants for FPJ, fish waste for FAA, eggshells for WCA, rice bran
-for IMO cultivation. Brown sugar is the only purchased input, and in
-many contexts it can be replaced with locally produced alternatives.
+for IMO cultivation. Brown sugar is the only purchbiodynamic-preparations contexts it can be replaced with locally produced alternatives.
 This makes KNF exceptionally accessible to subsistence farmers and
 those in developing economies.
 Biodynamic preparations require cow horns (BD 500 and 501), deer
@@ -101,7 +98,7 @@ overhead.
 Both systems face skepticism from mainstream agronomy, but for different
 reasons. Biodynamic preparations involve homeopathic dilution levels,
 animal organ containers, and cosmic forces that resist conventional
-validation. Some studies show improved soil biology and yield, while
+validation. Some studies [[lactic-acid-bacteria]]iology and yield, while
 others find no difference from standard organic management.
 KNF's fermented inputs operate through more conventionally understood
 mechanisms: lactic acid bacteria, yeast fermentation, and microbial

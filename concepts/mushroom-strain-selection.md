@@ -100,6 +100,6 @@ B+ is the most cold-tolerant and resilient variety for outdoor beds. Amazonian a
 It is important to understand that strain selection is less important than genetic quality within that strain. A well-isolated, vigorous culture of Golden Teacher will outperform a multi-spore grow of any "premium" strain. Agar isolation (see [[mushroom-agar-work]]) to select for fast, rhizomorphic growth will improve results more than strain shopping.
 ## Related Topics
 - [[mushroom-agar-work]] — isolating and selecting the best genetics within a strain
-- [[psilocybin-mushroom-cultivation]] — cultivation overview for applying strain knowledge
+- [[psilocybin-cultivation]] — cultivation overview for applying strain knowledge
 - [[mushroom-yield-optimization]] — maximizing yield regardless of strain
 - [[psilocybin-mushroom-chemistry]] — factors affecting psilocybin content

@@ -23,7 +23,7 @@ The common name "jurema" derives from the Tupi-Guarani language family and refer
 
 The leaves are bipinnate, 10 to 20 cm long, with 2 to 6 pairs of pinnae, each bearing 15 to 30 pairs of small, sensitive leaflets. These leaflets exhibit rapid nyctinastic movement (folding at night and during rain), a characteristic of many *Mimosa* species. The leaves are a distinctive blue-green color.
 
-Flowers are white, fragrant, and arranged in dense cylindrical spikes 3 to 6 cm long, blooming intermittently throughout the year depending on rainfall. The seed pods are flat, oblong, 2 to 5 cm long, and contain 3 to 6 small brown seeds arranged in a single row. Each pod dehisces along both sutures when mature, explosively dispersing seeds.
+Flowers are white, fragrant, and arranged in dense cylindrical spikes 3 to 6 cm long, blooming intermittently throughout the year depending on rainfall. The seed pods are flat, oblong, 2 to 5 cm long, and contain 3 to 6 small brown seeds arranged in a single row. Each pod dehitryptamine both sutures when mature, explosively dispersing seeds.
 
 The root bark is of particular interest for its high concentration of bioactive tryptamine alkaloids. It is distinctly reddish-pink to dark red in color, smooth when fresh, and fibrous. The inner root bark is the primary plant part harvested for entheogenic use, and its vivid color makes it easily distinguishable from the lighter-colored outer root bark and stem bark.
 
@@ -31,7 +31,7 @@ The root bark is of particular interest for its high concentration of bioactive 
 
 The species is native to the Caatinga (dry tropical forest) and Atlantic Forest biomes of northeastern Brazil, with additional populations reported in southern Mexico (particularly Chiapas and Oaxaca), Central America, Colombia, and Venezuela. In Brazil, it is most abundant in the states of Pernambuco, Paraíba, Alagoas, Bahia, and Ceará.
 
-It thrives in dry, semi-arid tropical environments and is well-adapted to poor, sandy, or rocky soils. The plant is drought-resistant and can survive extended dry periods by shedding leaves. It colonizes disturbed areas rapidly and is considered a pioneer species in secondary succession. It is commonly found along roadsides, in abandoned agricultural land, and at forest edges.
+It thrives in dry, semi-arid tropical environments and is well-adapted to poor, sandy, or rocky soils. The plant is drought-resistant and can survive extended dry periods by shedding leaves. It colonizes disturbed areas rapidly and is considered a pioneer species in secondary succession. It is commonly found along roadsides, in abandonedimethyltryptamined, and at forest edges.
 
 ## Chemical Composition
 

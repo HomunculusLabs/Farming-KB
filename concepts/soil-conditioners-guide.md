@@ -1,11 +1,5 @@
 ---
-title: Soil Conditioners Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [soil-amendment, organic, gardening, soil, compost, nutrients, npk]
-sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
----
+ti
 
 # Soil Conditioners Guide
 
@@ -77,6 +71,47 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - Excellent soil conditioner for structure and water-holding capacity
 - Risk: may contain pernicious weed roots or debilitating diseases from unknown sources
 - Always better to make your own garden compost when possible
+
+### Leaf Mold
+
+- **Source:** Decomposed tree leaves, especially oak, beech, and hornbeam
+- **Nutrient content:** Low NPK but rich in trace minerals and humic acids
+- **Coverage:** 2-3in (5-7cm) layer as mulch or dug in
+- Takes 1-2 years to fully decompose depending on leaf type and conditions
+- Excellent for improving soil structure and water retention in sandy soils
+- Creates ideal conditions for earthworms and beneficial fungi
+- Oak and beech leaves decompose slowly (high tannin content); shred or mix with grass clippings to accelerate
+- No risk of nitrogen robbery once fully decomposed — unlike fresh bark
+
+### Biochar
+
+- **Source:** Charcoal produced from biomass through pyrolysis (low-oxygen heating)
+- **Nutrient content:** Virtually none — acts as a porous habitat for soil microbes
+- **Coverage:** 5-10% by volume mixed into topsoil (do not apply as surface mulch)
+- Extremely porous structure provides refugia for beneficial bacteria, mycorrhizal fungi, and actinomycetes
+- Improves cation exchange capacity (CEC), helping soils retain nutrients that would otherwise leach
+- Most effective when "charged" — pre-soaked in compost tea, liquid manure, or nutrient solution before application
+- Persists in soil for hundreds to thousands of years (positive carbon sequestration)
+- Particularly beneficial in tropical and highly weathered soils with low organic matter
+- Can raise soil pH slightly; avoid use on acid-loving plants without testing
+
+### Perlite and Vermiculite
+
+- **Perlite:** Expanded volcanic glass — improves drainage and aeration in heavy clay soils
+- **Vermiculite:** Expanded mica — improves water retention in sandy soils
+- Both are sterile and pH-neutral, making them excellent seed-starting media components
+- Most useful in container gardening and raised beds rather than open ground (cost-prohibitive at scale)
+- Perlite does not decompose but can float to the surface over time
+- Vermiculite compacts after 1-2 years and loses effectiveness; needs periodic replacement
+
+## Application Guidelines
+
+- **Heavy clay soils:** Prioritize conditioners that improve drainage and aggregation: spent mushroom compost (contains gypsum), biochar, perlite, sharp sand, and woody compost
+- **Sandy soils:** Prioritize water-retention conditioners: leaf mold, green compost, wool shoddy, vermiculite, and any fine organic matter
+- **Acidic soils:** Spent mushroom compost (contains chalk) raises pH; avoid peat-based conditioners
+- **Alkaline soils:** Pine needle mulch, leaf mold from oaks, and elemental sulfur are more appropriate than alkaline conditioners
+- **General rule:** Dig conditioners in during autumn to allow winter weather to incorporate them; apply mulches in spring after soil warms
+
 
 ## Related
 

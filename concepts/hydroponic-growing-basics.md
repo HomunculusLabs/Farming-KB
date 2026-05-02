@@ -20,8 +20,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 - Higher initial cost for equipment
 - Steeper learning curve — mistakes affect plants faster
 - No soil buffer — pH and nutrient imbalances escalate quickly
-- Complete dependency on electricity (power failure = crop risk)
-- Less forgiving of neglect compared to living soil
+- Complete dependency on electricity (power failure =[[deep-water-culture]] forgiving of neglect compared to living soil
 - Water quality is critical — municipal water may contain chlorine, chloramine, or minerals that cause issues
 ## Major Hydroponic Systems
 ### Deep Water Culture (DWC)
@@ -39,7 +38,7 @@ Pros:
 - Very low maintenance during vegetative stage
 Cons:
 - Root rot risk if temperature exceeds 72°F / 22°C
-- Water temperature must be actively managed
+- Watnutrient film techniqueactively managed
 - Reservoir changes needed every 1-2 weeks
 - No buffer if pump fails (roots can suffocate in hours)
 - Harder to run multiple plants with different nutrient needs
@@ -58,8 +57,7 @@ Pros:
 - Relatively low water volume needed
 - Easy to monitor root health visually
 Cons:
-- Pump failure is critical — roots dry out quickly
-- Not ideal for large, heavy plants (cannabis in late flower may be too heavy)
+- Pump failure is critical — roots dry out quebb-and-flowideal for large, heavy plants (cannabis in late flower may be too heavy)
 - Channel clogging from root mass
 - Less forgiving of power outages than DWC
 - Requires precise leveling of channels

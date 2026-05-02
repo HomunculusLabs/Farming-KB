@@ -145,5 +145,7 @@ distinction less meaningful in practice, though it remains the
 foundational framework for understanding cannabis diversity.
 
 ## See Also
+
+- [[comparison-cannabis-sativa-vs-cannabis-ruderalis]]
 - [[comparison-autoflowering-vs-photoperiod]]
 - [[cannabis-sativa-vs-indica-guide]]

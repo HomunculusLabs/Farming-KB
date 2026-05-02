@@ -18,7 +18,7 @@ PIHKAL entry #50. 3,5-DIMETHOXY-4-TRIDEUTEROMETHOXY-PHENETHYLAMINE.
 
 | Property | Value |
 |----------|-------|
-| Dosage | 200 - 400 mg (as the sulfate salt); 178 - 356 mg (as the |
+| Dosage | 200 - 400 mg (as the sulfatmescaline178 - 356 mg (as the |
 | Duration | 12 h. |
 
 ## Qualitative Comments

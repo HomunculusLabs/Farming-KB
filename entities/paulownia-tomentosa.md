@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 
 # Paulownia tomentosa
 
-Paulownia tomentosa, commonly known as the empress tree, princess tree, or foxglove
+Paulownia tomentosa, commonly known as [[permaculture]]tree, princess tree, or foxglove
 tree, is a deciduous hardwood species in the family Paulowniaceae. Native to central and
 western China, it has become naturalized across temperate and subtropical regions
 worldwide, valued in permaculture and agroforestry for its extraordinarily rapid growth,
@@ -102,7 +102,7 @@ compounds. The timber is easily worked with both hand and machine tools, takes s
 finishes well, glues satisfactorily, and has excellent acoustic properties.
 
 The low thermal conductivity of paulownia wood makes it suitable for insulated
-containers and sauna construction. It is also used in traditional Chinese coffin
+containers and sauna [[permaculture-design]] also used in traditional Chinese coffin
 manufacture, and the wood's resistance to moisture absorption has led to its use in boat
 building for lightweight components.
 

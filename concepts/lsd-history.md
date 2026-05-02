@@ -14,7 +14,6 @@ type: concept
 updated: 2026-04-12
 ---
 
-
 # LSD History
 
 ## Overview

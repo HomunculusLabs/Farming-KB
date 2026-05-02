@@ -3,7 +3,7 @@ title: Homestead Labor and Volunteers
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, business, community, law, regulation, economics]
+tags: homesteading, business, community, law, regulation, economics]
 sources: []
 ---
 
@@ -145,10 +145,6 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 
 ### State Requirements
 - State minimum wage may exceed federal ($7.25/hour) -- most states are $12-16/hour
-- State workers comp requirements vary
-- State unemployment insurance: required for most employers
-- State-mandated breaks and meal periods
-
 ## See Also
 
 - [[homestead-planning-and-zoning]]

@@ -145,8 +145,6 @@ to decompose over winter. This pattern provides year-round ground cover,
 prevents erosion, fixes nitrogen through legumes, and produces diverse food
 crops without chemical inputs. The integration of fruit trees into this
 system creates the vertical dimension that makes the three-dimensional
-natural farming system possible.
-
 ## See Also
 
 - [[fukuoka-lundberg-family-farms-natural-rice]]

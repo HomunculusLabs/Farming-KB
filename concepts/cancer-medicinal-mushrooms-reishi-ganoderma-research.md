@@ -118,7 +118,7 @@ treatments. University of Strathclyde.
 - [[beta-glucan-receptor-binding]]
 - [[mushroom-cytokine-production-immune-activation]]
 - [[reishi-ganoderma-cancer-clinical-research]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 
 ## See Also
 

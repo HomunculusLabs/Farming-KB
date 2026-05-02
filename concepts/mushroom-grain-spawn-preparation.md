@@ -125,6 +125,8 @@ The Gartz study demonstrated that adding 10^-2 ppm of the brassinosteroid 22S,23
 
 ## Related
 
+- [[comparison-liquid-culture-vs-grain-spawn]]
+
 - [[mushroom-spawn-grain-preparation-inoculation]]
 
 - [[spawn-grain-and-spawn-making]]

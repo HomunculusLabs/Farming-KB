@@ -133,7 +133,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Discard all food that may have been contaminated
 - Clean and disinfect all surfaces with bleach solution
 - Run fans and dehumidifiers to dry structures
-- Cover damaged roof areas with tarps immediately to prevent further water intrusion
+- Coveremergency-preparednessth tarps immediately to prevent further water intrusion
 ## Related Concepts
 - [[mushroom-foraging-safety-guide]] — General safety principles and emergency preparedness
 - [[flood-preparedness-guide]] — Flooding is often the most destructive component of hurricanes

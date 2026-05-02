@@ -61,7 +61,7 @@ The adaptation of this species to cold northern climates is of particular intere
 - [[psilocybe-silvatica]] — found in similar northern forest habitats, bruises blue
 - [[psilocybe-cyanescens]] — much larger and more robust, with a distinctive wavy cap margin
 - [[psilocybe-stuntzii]] — found in the Pacific Northwest, similar habitat preferences
-- [[psilocybe-pelliculosa]] — slender northern species, similar size, also bruises blue
+- [[psilocybe-pelliculosa-entity]] — slender northern species, similar size, also bruises blue
 
 Differentiation among these species requires careful attention to cap shape, stem proportions, habitat, spore size, and the presence or absence of an annular zone.
 
@@ -76,6 +76,6 @@ As a psilocybin-containing species, *P. quebecensis* is illegal to possess, cult
 ## See Also
 
 - [[psilocybe-silvatica]]
-- [[psilocybe-pelliculosa]]
+- [[psilocybe-pelliculosa-entity]]
 - [[psilocybe-montana]]
 - [[psilocybin]]

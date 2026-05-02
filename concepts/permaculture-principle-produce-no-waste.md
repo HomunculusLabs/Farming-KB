@@ -20,13 +20,11 @@ The sixth of David Holmgren's twelve permaculture design principles. Waste is si
 
 
 
-
 ## Core Concept
 
 In nature, there is no waste. The output of one process is always the input for another. Fallen leaves become soil, dead trees become habitat, animal manure becomes fertilizer. Industrial human systems break these cycles, creating linear flows where resources are extracted, used once, and discarded as pollution.
 
 Holmgren frames waste as a failure of design. If a system produces waste, it means we have not fully connected the outputs of one element to the inputs of another. The solution is not better waste management — it is better design.
-
 
 
 
@@ -42,7 +40,6 @@ Holmgren describes pollution as "unused resources" — materials that have value
 - Food "waste" from kitchens is fertility for gardens
 - Tree "waste" from pruning is fuel, mulch, or mushroom substrate
 - Animal manure is not waste but a critical input for soil building
-
 
 
 
@@ -67,7 +64,6 @@ Key strategies for closing loops include:
 
 
 
-
 ## Maintenance as Waste Prevention
 
 Holmgren connects waste to maintenance, arguing that regular, timely maintenance prevents the creation of waste. A tool maintained properly lasts for generations; a neglected tool becomes scrap metal. A roof repaired promptly prevents structural decay; deferred maintenance creates waste on a much larger scale.
@@ -80,11 +76,9 @@ He also warns against the cultural bias of "neatness and tidiness" that can beco
 
 
 
-
 ## Industrial vs Ecological Flows
 
 Holmgren contrasts the linear flow of industrial systems (extract → use → discard) with the cyclical flows of ecological systems. The permaculture design task is to identify where linear flows exist and redesign them as cycles. This is one of the fundamental differences between [[permaculture-design]] and conventional approaches.
-
 
 
 

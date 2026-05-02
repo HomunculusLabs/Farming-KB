@@ -91,5 +91,5 @@ Source: raw/papers/[[cannabis-concentrates-and-extracts]]-cannabis-alchemy.md
 - [[2c-d-pihkal-entry-23]]
 - [[cannabis-oil-isomerization]]
 - [[cannabis-hashish-from-extracted-oil-techniques]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[cannabis-hashish-making-methods]]

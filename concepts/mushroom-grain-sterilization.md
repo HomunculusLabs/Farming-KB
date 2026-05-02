@@ -27,7 +27,7 @@ that inhibit or kill the mushroom culture.
 
 The goal of sterilization is not just to kill active organisms but to destroy
 their resistant spore forms. Bacterial endospores (particularly from genera like
-[[bacillus-subtilis-entity-the-mushroom-cultivator]]) are extremely heat-resistant and can survive boiling
+[[bacillus-subtilis]]) are extremely heat-resistant and can survive boiling
 water (100°C). This is why atmospheric boiling is insufficient for grain
 sterilization — elevated pressure and temperature are required.
 
@@ -139,4 +139,4 @@ insufficient.
 - [[mushroom-liquid-culture]]
 - [[mushroom-cultivation-contamination]]
 - [[bulk-substrate-preparation]]
-- [[bacillus-subtilis-entity-the-mushroom-cultivator]]
+- [[bacillus-subtilis]]

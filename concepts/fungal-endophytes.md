@@ -119,6 +119,6 @@ predictable patterns that reflect changing tissue chemistry and vulnerability.
 
 - [[fungal-species-estimates]]
 - [[mycorrhizal-networks]]
-- [[fungal-secondary-metabolites]]
+- [[bloomfield-fungal-secondary-metabolites]]
 - [[mycorrhizal-symbiosis]]
 - [[fungal-ecology]]

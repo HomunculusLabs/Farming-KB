@@ -112,6 +112,8 @@ Advances in genetic engineering and directed evolution may yield designer enzyme
 
 ## See Also
 
+- [[hemoglobin-oxygen-transport-biochemistry]]
+
 - [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]]
 
 - [[mycoremediation-of-textile-dyes]]

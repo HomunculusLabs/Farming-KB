@@ -129,5 +129,5 @@ The mycopesticide approach has vast potential for:
 - [[mycopesticides-stamets]] -- Stamets's patent work
 - [[cordyceps-and-entomopathogenic-fungi]] -- Cordyceps biology
 - [[mycelium-running-techniques]] -- inoculation methods
-- [[mycelium-running-medicinal-mushrooms]] -- medicinal properties
+- [[medicinal-mushrooms]] -- medicinal properties
 - [[mycelium-running-symbiotic-fungi-relationships]] -- fungal ecology

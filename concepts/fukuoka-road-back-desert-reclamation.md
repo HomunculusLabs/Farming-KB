@@ -31,7 +31,7 @@ Current anti-desertification efforts consist predominantly of civil engineering 
 
 Conventional approaches fail because they treat symptoms rather than causes. Irrigation can green a desert temporarily, but the water eventually evaporates, leaving behind concentrated salts that poison the soil. Dams disrupt sediment flows that nourish downstream ecosystems. Tree-planting programs often focus on single species that cannot survive without ongoing maintenance.
 
-The [[fukuoka-critique-western-dietetics-nutritional-science]] applies directly here. Scientists analyze desert soils, measure water tables, and model climate patterns, but they miss the fundamental truth that deserts are created by the loss of vegetation, not the other way around. The [[fukuoka-critique-agricultural-science-laws]] shows how scientific "laws" about desert formation, based on this inverted understanding, lead to ineffective interventions.
+The [[fukuoka-critique-western-dietetics-nutritional-science]] applies directly here. Scientists analyze desert soils, measure water tables, and model climate patterns, but they miss the fundamental truth that deserts are created by the loss of vegetation, not the other way around. The [[fukuoka-critique-laws-agricultural-science]] shows how scientific "laws" about desert formation, based on this inverted understanding, lead to ineffective interventions.
 
 ## The Seed-Scattering Approach
 

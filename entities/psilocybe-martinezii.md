@@ -41,7 +41,7 @@ Although not widely cultivated, psilocybe martinezii has been grown successfully
 
 ## Ethnomycology
 
-The ethnomycological significance of psilocybe martinezii is not well documented. Given its distribution in Oaxaca, a region with a rich history of mushroom use among Mazatec, Zapotec, and Mixtec peoples, it is plausible that the species was included among the diverse mushrooms referred to locally as sacred or visionary fungi. The Mazatec tradition of mushroom use, documented by R. Gordon Wasson in the 1950s, centered primarily on larger and more potent species such as [[psilocybe-caerulescens]] and [[psilocybe-mexicana]]. However, smaller species growing in the same pastures and forest margins may have been collected as supplementary material during mushroom-gathering expeditions. No specific indigenous names or ritual uses have been attributed to this species with confidence. Its small size and relatively modest potency would likely make it a secondary or supplementary species in any traditional practice.
+The ethnomycological significance of psilocybe martinezii is not well documented. Given its distribution in Oaxaca, a region with a rich history of mushroom use among Mazatec, Zapotec, and Mixtec peoples, it is plausible that the species was included among the diverse mushrooms referred to locally as sacred or visionary fungi. The Mazatec tradition of mushroom use, documented by R. Gordon Wasson in the 1950s, centered primarily on larger and more potent species such as [[psilocybe-caerulescens-entity]] and [[psilocybe-mexicana]]. However, smaller species growing in the same pastures and forest margins may have been collected as supplementary material during mushroom-gathering expeditions. No specific indigenous names or ritual uses have been attributed to this species with confidence. Its small size and relatively modest potency would likely make it a secondary or supplementary species in any traditional practice.
 
 ## Sclerotia Production
 
@@ -87,5 +87,5 @@ Psilocybe martinezii has not been formally assessed for conservation status by t
 - [[psilocybin]] — primary psychoactive compound
 - [[psilocin]] — active metabolite
 - [[baeocystin]] — secondary tryptamine alkaloid
-- [[psilocybe-caerulescens]] — larger, more potent species of Oaxaca
+- [[psilocybe-caerulescens-entity]] — larger, more potent species of Oaxaca
 - [[psilocybe-zapotecorum]] — Oaxacan species of section Zapotecorum

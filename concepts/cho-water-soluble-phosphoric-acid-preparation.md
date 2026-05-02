@@ -114,7 +114,7 @@ WS-PA supplies exactly what the plant needs at this juncture.
 
 ## See Also
 
-- [[knf-water-soluble-phosphoric-acid]] - general KNF WSPA reference
+- [[knf-water-soluble-phosphoric-acid-wspa]] - general KNF WSPA reference
 - [[cho-water-soluble-calcium-phosphate-preparation]] - combines
   calcium with phosphoric acid
 - [[cho-water-soluble-calcium-and-potassium]] - calcium and potassium

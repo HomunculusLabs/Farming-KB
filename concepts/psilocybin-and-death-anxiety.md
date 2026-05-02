@@ -77,7 +77,7 @@ explicitly related to death, dying, and the ancestors. The Bwiti
 religion of Gabon uses Iboga (Tabernanthe iboga) in initiation rites
 that involve a symbolic death and rebirth, producing lasting
 psychological changes in initiates including markedly reduced fear of
-death. The Mazatec use of [[maria-sabina-and-mazatec-mushroom-ceremony]] in healing ceremonies frequently addresses grief
+death. The Mazatec use of [[maria-sabina-mazatec-mushroom-ceremony]] in healing ceremonies frequently addresses grief
 and fear of death. The Ayahuasca traditions of the Amazon basin routinely
 involve encounters with deceased relatives and direct experience of the
 continuity between life and death. These cross-cultural patterns suggest

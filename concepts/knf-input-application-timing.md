@@ -34,7 +34,7 @@ Plants develop roots and shoots. They consume Carbohydrates (C) and convert them
 Plants begin flowering in preparation for reproduction. They crave "sour nutrients" in the form of Phosphoric acid (P) compounds.
 
 **Primary inputs:**
-- [[knf-water-soluble-phosphoric-acid|WPA]] -- supplies phosphoric acid demand
+- [[knf-water-soluble-phosphoric-acid-wspa|WPA]] -- supplies phosphoric acid demand
 - [[knf-oriental-herbal-nutrient|OHN]] -- supports the transition
 - [[knf-fermented-fruit-juice|FFJ]] -- provides energy for flowering
 
@@ -49,7 +49,7 @@ Period from flowering to ripening. Plants store carbohydrates in fruits or other
 **Primary inputs:**
 - [[knf-water-soluble-calcium|WSC]] -- more calcium required at this stage
 - [[knf-oriental-herbal-nutrient|OHN]] -- continued support
-- [[knf-water-soluble-phosphoric-acid|WPA]] -- continued phosphorus support
+- [[knf-water-soluble-phosphoric-acid-wspa|WPA]] -- continued phosphorus support
 
 **Dilution:** All inputs at 1:1000 with water
 
@@ -111,7 +111,7 @@ Dr. Cho's view: providing nutrients in excess to plants is not needed -- it will
 - [[knf-fish-amino-acid]]
 - [[knf-fermented-fruit-juice]]
 - [[knf-water-soluble-calcium]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-lactic-acid-bacteria-serum]]
 - [[knf-fpj-ratio-guide]]

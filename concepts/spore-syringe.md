@@ -79,6 +79,26 @@ paraphernalia. Psylocybe Fanaticus was ultimately prosecuted not for the
 spores themselves but for conspiracy to manufacture controlled substances,
 based on the cultivation instructions he provided alongside the spore sales.
 
+
+## Limitations and Storage
+
+Spore syringes have several limitations that cultivators should understand.
+Multispore inoculation produces genetic variability — each fruiting body is
+a unique genotype with potentially different growth characteristics, potency,
+and fruiting patterns. For consistent, reproducible results, tissue culture
+from a selected fruiting body (cloning) is preferred. Spore syringes also
+carry a higher contamination risk than liquid culture because the spores
+themselves cannot be sterilized — only the suspension water and syringe can
+be sterilized, while spores may carry contaminants from the parent mushroom's
+gill environment.
+
+Storage longevity is another important consideration. While refrigerated spore
+syringes remain viable for 6-12 months, viability declines gradually. Freezing
+can extend viability to several years but risks damaging spore cell walls.
+The best practice for long-term storage is to make a spore print on
+sterile paper or foil, which can remain viable for decades when kept dry,
+cool, and dark. Spore syringes are best used within a few months of
+preparation for optimal germination rates.
 ## Cultivation Applications
 
 This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

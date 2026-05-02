@@ -1,14 +1,13 @@
 ---
-title: "IMO Processing Stages and Utilization"
-tags: [knf, natural-farming, imo, microorganism, fermentation, soil-health]
+title: "IMO Processing Stages and Utiindigenous-microorganismsural-farming, imo, microorganism, fermentation, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/chos-global-natural-farming.md]
+sources: [raw/papers/chosbuilding-soilal-farming.md]
 ---
 # IMO Processing Stages and Utilization
 Indigenous Microorganisms (IMOs) in [[korean-natural-farming]] progress
 through four distinct processing stages, each serving a specific
-purpose in building soil health. The system transforms collected wild
+purpose in building soil [[natural-farming]]tem transforms collected wild
 microorganisms from IMO-1 through IMO-4, gradually increasing their
 population, adapting them to field conditions, and preparing them for
 soil application.

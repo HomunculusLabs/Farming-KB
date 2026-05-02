@@ -1,6 +1,6 @@
 ---
 title: "Amazonian Plant Teachers and Vegetalista Cosmology"
-tags: [ayahuasca, plant-teachers, vegetalista, shamanism, amazonian-cosmology]
+tags: [ayahuasca, plant-teachers, vegetalista, [[shamanism]], amazonian-cosmology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/amaringo-p-[[ayahuasca-visions]].md]

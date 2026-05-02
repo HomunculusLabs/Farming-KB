@@ -139,10 +139,6 @@ Aeroponics is the most vulnerable system to power outages:
 | Growth rate | Fastest | Fast | Moderate | Moderate |
 | Oxygen at roots | Maximum | Good | Good | Good |
 | Water efficiency | Highest | High | High | Moderate |
-| Complexity | Highest | Low | Moderate | Moderate |
-| Cost | Highest | Low | Moderate | Moderate |
-| Failure risk | Critical | Moderate | High | Moderate |
-| Root monitoring | Excellent | Poor | Good | Poor |
 ## See Also
 
 - [[mushroom-cultivation-photographic-guide]]

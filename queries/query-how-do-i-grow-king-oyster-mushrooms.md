@@ -106,7 +106,7 @@ Then gradually increase air exchange over the following days to allow the caps t
 The ideal harvest point is when the cap diameter is roughly one-third to one-half the diameter of the stem.
 ### Harvesting and Yield Expectations
 Harvest king oyster mushrooms by cutting them cleanly at the base with a sharp knife or scissors.
-The [[oyster-mushroom-harvesting-and-post-harvest]] guide recommends cutting rather than twisting to minimize damage to the substrate surface.
+The [[oyster-mushroom-harvesting-post-harvest]] guide recommends cutting rather than twisting to minimize damage to the substrate surface.
 Handle the harvested mushrooms carefully as the thick stems can bruise easily during handling.
 Place them in paper bags or breathable containers for storage at 2 to 4 degrees Celsius.
 Properly stored king oysters will keep for 2 to 3 weeks in refrigeration without significant quality loss.

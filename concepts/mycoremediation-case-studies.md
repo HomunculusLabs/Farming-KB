@@ -8,7 +8,7 @@ sources:
   - raw/papers/unknown-mycelium-running.md
 ---
 # Mycoremediation Case Studies
-Field-verified remediation projects demonstrating fungal cleanup of contaminated environments. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]], and [[mycorestoration-framework]].
+Field-verified remediation projects demonstrating fungal cleanup of contaminated environments. Based on [[paul-stamets]]' *Mycelium Running* (2005). See also [[mycoremediation-basics]], [[mycoremediation-oil-spills]], [[mycoremediation-heavy-metals-detailed]], and [[mycorestoration-framework]].
 ## Battelle Marine Science Laboratory: PCB Bioremediation
 ### The Experiment
 - **Location**: Sequim, Washington (Battelle Marine Science Laboratory)
@@ -94,7 +94,7 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 - Various fungal species demonstrate ability to sequester heavy metals through biosorption
 - Mycelial mats can be deployed as passive filters for metal-contaminated water
 - After saturation, metal-loaded fungal biomass can be collected and processed
-- See [[mycoremediation-of-heavy-metals]] for detailed species data and mechanisms
+- See [[mycoremediation-heavy-metals-detailed]] for detailed species data and mechanisms
 ## Comparative Summary of Case Studies
 | Case Study | Contaminant | Primary Species | Outcome |
 |-----------|-------------|----------------|---------|
@@ -114,8 +114,8 @@ Field-verified remediation projects demonstrating fungal cleanup of contaminated
 ## See Also
 - [[mycoremediation-basics]] for enzyme systems and mechanisms
 - [[mycoremediation-techniques]] for practical implementation methods
-- [[mycoremediation-of-oil-spills]] for petroleum-specific data
-- [[mycoremediation-of-heavy-metals]] for metal biosorption
+- [[mycoremediation-oil-spills]] for petroleum-specific data
+- [[mycoremediation-heavy-metals-detailed]] for metal biosorption
 - [[mycoremediation-pahs]] for PAH degradation chemistry
 - [[mycoremediation-pcbs-and-dioxins]] for PCB/dioxin mechanisms
 - [[mycofiltration-watershed-protection]] for water filtration applications

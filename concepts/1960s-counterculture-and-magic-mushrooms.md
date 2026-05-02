@@ -125,7 +125,7 @@ recidivism rates. "Just like Wasson, Leary was too eager to fit the facts to his
 
 - [[wasson-rediscovery-of-psilocybin]]
 - [[timothy-leary]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[magic-mushroom-prohibition-history]]
 - [[psychedelic-mushroom-music-and-culture]]
 - [[mushroom-home-cultivation-history]]

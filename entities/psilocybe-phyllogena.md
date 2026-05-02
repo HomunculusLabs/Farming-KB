@@ -72,7 +72,7 @@ The relatively low alkaloid content suggests that *P. phyllogena* is unlikely to
 ## Similar Species
 
 - **[[psilocybe-silvatica]]** — A closely related wood-inhabiting species with somewhat higher reported alkaloid content
-- **[[psilocybe-pelliculosa]]** — Pacific Northwest conifer forest species, somewhat more active
+- **[[psilocybe-pelliculosa-entity]]** — Pacific Northwest conifer forest species, somewhat more active
 - **[[psilocybe-subaeruginosa]]** — Much more potent Australian and New Zealand species, visually similar when young
 - **[[psilocybe-montana]]** — Widespread temperate species, generally considered inactive
 

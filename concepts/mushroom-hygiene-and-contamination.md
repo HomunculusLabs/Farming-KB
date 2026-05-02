@@ -24,7 +24,7 @@ most challenging to eradicate:
 - **Wet spot / sour rot** (Bacillus species): One of the most common and
   destructive contaminants in grain spawn. Manifests as a slimy, foul-smelling
   area within grain jars, often accompanied by a distinctive sweet or sour
-  odor. [[bacillus-subtilis-entity-the-mushroom-cultivator]] is the most frequently implicated species. Its
+  odor. [[bacillus-subtilis]] is the most frequently implicated species. Its
   endospores survive standard boiling and require pressure sterilization at
   121°C to eliminate. Wet spot spreads rapidly through grain jars and can
   ruin an entire batch.
@@ -146,4 +146,4 @@ alcohol.
 
 - [[mushroom-grain-sterilization]]
 - [[growing-gourmet-trichoderma-green-mold-management]]
-- [[bacillus-subtilis-entity-the-mushroom-cultivator]]
+- [[bacillus-subtilis]]

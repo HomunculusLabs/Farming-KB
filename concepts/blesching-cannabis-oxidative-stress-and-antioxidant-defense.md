@@ -136,7 +136,11 @@ the broader concept of using food-based cannabinoids such as
 [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
 from common spices to support the body's natural antioxidant defense systems.
 
-## Related Concepts
+## Related
+
+- [[glutathione-and-cellular-antioxidant-defense]]
+
+- [[oxidative-phosphorylation-mitochondrial-respiration]] Concepts
 
 - [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
 - [[blesching-cannabis-homeostasis-and-immune-regulation]]

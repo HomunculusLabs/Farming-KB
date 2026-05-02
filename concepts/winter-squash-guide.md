@@ -77,7 +77,7 @@ Winter squash (Cucurbita species) are warm-season vining crops harvested at matu
 ### Pest Pressure
 | Pest | Damage | Control |
 |------|--------|---------|
-| Squash bugs | Suck sap, wilt and kill plants | Hand-pick eggs (bronze clusters under leaves), neem oil, row covers early |
+| Squash bugs | Suck sap, wilt and kill plants | Hand-pick eggs (bronze clusters under leaves), [[neem]] oil, row covers early |
 | Squash vine borer | Larvae bore into stem, wilt plant | Row covers until flowering, slit stem and remove larva, Bt, wrap stem bases with foil |
 | Cucumber beetles | Strip leaves, spread bacterial wilt | Row covers, kaolin clay, beneficial insects |
 | Powdery mildew | White coating on leaves, reduces yield | Good airflow, neem oil, potassium bicarbonate spray, resistant varieties |

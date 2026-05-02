@@ -81,7 +81,7 @@ The theory remains highly controversial. While there is anthropological evidence
 
 The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[plants-of-the-gods-geography-hallucinogenic-plants]], shamanic practice, and ecological stewardship constitutes a vast library of human experience that modern civilisation has dismissed or actively suppressed. The Archaic Revival is not a call to abandon technology but to integrate the wisdom of pre-modern cultures with the tools of modernity.
 
-McKenna saw the psychedelic renaissance of the 1960s as the first stirring of this revival, and he positioned his own work as an effort to articulate and transmit the insights of the mushroom experience to a Western audience. The Archaic Revival concept influenced the deep ecology movement, the modern interest in indigenous plant medicine, and the [[ayahuasca-vision-art-and-Shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
+McKenna saw the psychedelic renaissance of the 1960s as the first stirring of this revival, and he positioned his own work as an effort to articulate and transmit the insights of the mushroom experience to a Western audience. The Archaic Revival concept influenced the deep ecology movement, the modern interest in indigenous plant medicine, and the [[ayahuasca-vision-art-and-shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
 
 ## Novelty Theory and Timewave Zero
 

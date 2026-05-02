@@ -27,7 +27,7 @@ Natural distribution spans temperate regions of Europe and North America, where 
 
 ### Soil Building
 
-The wine-cap mushroom is one of the most effective fungi for building healthy garden soils:
+The wine-cap mushroom is one of the most effemycelial-networksuilding healthy garden soils:
 
 * **Rapid decomposition:** Converts hardwood chips and straw into humus 3–5 times faster than natural decomposition alone, cycling nutrients and creating dark, crumbly, humus-rich soil
 * **Water retention:** Mycelial networks improve soil aggregation, increasing water-holding capacity by 20–40% in treated garden beds
@@ -42,9 +42,7 @@ While not a true mycorrhizal fungus, *S. rugosoannulata* forms associations with
 * **Endophytic colonization:** Mycelium colonizes root zones of garden vegetables and perennials without causing disease, potentially providing pathogen protection through competitive exclusion
 * **Phosphorus solubilization:** Produces organic acids that solubilize rock phosphate and other insoluble phosphorus sources, improving plant phosphorus uptake
 * **Disease suppression:** Competes with soil-borne plant pathogens including *Fusarium*, *Pythium*, and *Rhizoctonia* species for substrate and ecological niches
-* **Nematode suppression:** Produces nematotoxic compounds that reduce populations of plant-parasitic nematodes
-
-## Cultivation Methods
+* **Nematode suppression:** Produces nematotoxic compounds that reduce populations of plant-parasitic nematsubstrate-preparationMethods
 
 ### Outdoor Wood Chip Beds
 
@@ -55,7 +53,7 @@ The primary cultivation method exploits the mushroom's natural habitat preferenc
 3. **Inoculation:** Spawn (grain spawn or sawdust spawn) is mixed at 10–20% by volume into the substrate, layered 10–15 cm deep
 4. **Mulching:** Cover with additional 5 cm of wood chips to retain moisture
 5. **Maintenance:** Keep moist but not waterlogged; watering may be needed during dry periods
-6. **Fruiting:** Typically fruits 4–12 months after inoculation, with peak production in spring and autumn
+6. **Fruiting:** Typically fruits 4–12 months after [[agaricus-bisporus]] peak production in spring and autumn
 7. **Longevity:** Beds can remain productive for 3–5 years with occasional additions of fresh wood chips
 
 ### Compost Cultivation

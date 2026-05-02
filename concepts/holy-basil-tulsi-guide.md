@@ -1,11 +1,5 @@
 ---
-title: Holy Basil (Tulsi) Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia, companion-planting, pollinators]
-sources: []
----
+ti
 
 # Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
 
@@ -45,7 +39,7 @@ and has a different flavor profile.
 
 Tulsi is classified as an adaptogen in Ayurvedic medicine, helping the body
 adapt to stress and maintain balance. Key active compounds include eugenol,
-caryophyllene, ursolic acid, rosmarinic acid, and linalool.
+caryophyllene, ursolic acid, rosmarinic acid, and [[linalool]].
 
 Key medicinal applications:
 
@@ -136,17 +130,8 @@ summer to root indoors.
 - Japanese beetles: Handpick in severe infestations
 - Root rot: Prevent by ensuring well-drained soil and proper watering
 
-## Tea Production
+## Related
 
-Tulsi is one of the best herbs for daily tea consumption:
-
-For fresh tea:
-1. Harvest 8-10 fresh leaves per cup
-2. Pour boiling water over leaves
-3. Cover and steep 5-7 minutes
-4. Strain and enjoy plain or with honey and lemon
-
-For dried tea:
-1. Harvest leafy stems before flowering for the best flavor
-
-Related: [[comparison-ashwagandha-vs-tulsi]], [[query-what-causes-cannabis-leaves-to-turn-yellow]], [[calcium-accumulators-and-oak-leaves]]
+- [[adaptogenic-herbs-guide]]
+- [[herbal-plant-remedies]]
+- [[solomon-seed-saving-guide|seed saving]]

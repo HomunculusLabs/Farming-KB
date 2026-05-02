@@ -118,6 +118,8 @@ balanced water management.
 
 ## See Also
 
+- [[comparison-perlite-cannabis-vs-vermiculite-cannabis]]
+
 - [[comparison-rockwool-vs-coco-coir]]
 - [[comparison-coco-coir-vs-peat]]
 - [[living-soil-cannabis]]

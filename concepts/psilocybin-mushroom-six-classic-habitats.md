@@ -63,7 +63,7 @@ Unless undergoing major seasonal re-disturbance, resident mushroom
 populations will move on in a few years. The first two years tend to be
 the most prolific, with the third year declining. After four or five
 years, the habitats virtually expire. If new debris is introduced or
-soils are upturned, these habitats can rebound. [[psilocybe-caerulescens]]
+soils are upturned, these habitats can rebound. [[psilocybe-caerulescens-entity]]
 is a classic example, called "derrumbes" (landslide mushroom) in
 Mexico. Psilocybes are also found in blackberry and Scotch broom
 thickets, where the environment is open, moist, and punctuated with

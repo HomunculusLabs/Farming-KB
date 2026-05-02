@@ -50,7 +50,7 @@ revealed a different structural assignment.
 The conversion of compound 7 (O,O-dibenzyl phosphate) to compound 8
 (zwitterionic N,O-dibenzyl phosphate) occurs via an intramolecular
 benzyl group migration. One benzyl group migrates from a phosphate
-oxygen to the indole nitrogen (N-1), creating a quaternary ammonium
+oxygen to the [[indole]] nitrogen (N-1), creating a quaternary ammonium
 ion (positive charge) while retaining a benzyl-protected phosphate
 monoester (negative charge). This rearrangement is easily achieved by
 suspending the worked-up reaction mixture in CH2Cl2 overnight.

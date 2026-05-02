@@ -1,6 +1,6 @@
 ---
 created: 2026-04-12
-source: biodiversity-of-fungi (Hyde et al. Ch. 25, Spiegel/Stephenson/Landolt)
+source:[[slime-molds]]ty-of-fungi (Hyde et al. Ch. 25, Spiegel/Stephenson/Landolt)
 sources: []
 tags:
 - mycetozoans
@@ -14,7 +14,6 @@ title: Mycetozoans
 type: concept
 updated: 2026-04-12
 ---
-
 
 # Mycetozoans
 
@@ -134,7 +133,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Distribution**:
 - Acrasis rosea: widespread, primarily on dead aerial plant parts; present wherever protostelids occur
 - Pocheina species: primarily on conifer bark
-- Guttulinopsis: common on herbivore dung; G. nivea also in soil at Tikal (Guatemala, possibly spread by monkeys)
+- Guttulinopsis: commagarn herbivore dung; G. nivea also in soil at Tikal (Guatemala, possibly spread by monkeys)
 - Copromyxa, Fonticula: coprophilous
 
 ## Sampling Methods
@@ -145,11 +144,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 - Incubated at ambient temperature; examined periodically over several weeks
 - Works for all groups, especially larger myxomycetes that won't fruit in harsh field conditions
 
-### Field Collection
-- Myxomycetes: collect fruiting bodies from natural substrata; store in boxes with glued substrata
-- Preserve as dried specimens or permanent slide mounts
-
 ## See Also
-Related: [[leaf-litter-microfungal-diversity-tropical-temperate]], [[tropical-vs-temperate-fungal-diversity-patterns]]
+Related: [[leaf-litter-microfungal-diversity-tropical-temperate]], [[tropical-vs-temperate-fungal-diversity]]
 
 - [[mycetozoans-slime-molds]]

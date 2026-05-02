@@ -82,7 +82,7 @@ Compost tea offers a broader but sometimes less immediately available nutrient
 spectrum, with more complex organic compounds that release slowly over time.
 ## Brewing Methods
 The brewing process for both teas follows similar principles outlined in
-[[compost-tea-brewing-guide]]. Key considerations include:
+[[compost-tea-brewing]]. Key considerations include:
 - Aeration is critical for both teas to maintain dissolved oxygen levels
   above 6 ppm and prevent anaerobic conditions that can produce toxins.
 - Food sources such as molasses, fish hydrolysate, and kelp are added to

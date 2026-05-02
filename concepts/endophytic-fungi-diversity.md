@@ -104,4 +104,4 @@ culture and molecular detection are now standard.
 - [[fungal-dark-taxa]]
 - [[mycorrhizal-fungal-diversity]]
 - [[ant-termite-fungal-symbiosis]]
-- [[tropical-fungal-diversity]]
+- [[biodiversity-fungi-tropical-fungal-diversity]]

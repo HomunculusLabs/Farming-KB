@@ -84,7 +84,7 @@ The genome of *Bacillus megaterium* strain QM B1551 was sequenced in 2011, revea
 
 - [[streptomyces-griseus]]
 
-- [[bacillus-subtilis-entity-the-mushroom-cultivator|Bacillus subtilis]]
+- [[bacillus-subtilis|Bacillus subtilis]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator|Pseudomonas putida]]
 - [[azotobacter-chroococcum]]
 - [[rhodopseudomonas-palustris]]

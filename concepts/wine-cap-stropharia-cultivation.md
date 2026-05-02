@@ -1,20 +1,14 @@
 ---
-title: Wine Cap Stropharia Cultivation
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, cultivation, permaculture, food, gardening, species]
-sources: []
----
+ti
 # Wine Cap Stropharia Cultivation
 This page provides detailed practical instructions for cultivating Wine Cap mushrooms ([[stropharia-rugosoannulata]]) in outdoor wood chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and nematode trapping biology.
 ## Wood Chip Selection and Preparation
 ### Ideal Wood Species
 Hardwood chips produce the best results:
-- Oak (Quercus spp.): excellent, long-lasting, highest yields
+- Oak (Quercus spp.): excellent, longdecompositionhest yields
 - Maple (Acer spp.): very good, widely available from tree services
 - Alder (Alnus spp.): good, decomposes faster than oak
-- Poplar (Populus spp.): acceptable, fast decomposition, shorter bed life
+- Poplar (Populus spp.): acceptable, fast [[decomposition]], shorter bed life
 - Birch (Betula spp.): good alternative
 - Sweetgum: acceptable but chips tend to be stringy
 ### Wood to Avoid
@@ -38,12 +32,11 @@ The best source of fresh chips is local tree services:
 4. Chips should be moist but not dripping wet before installation
 Fresh chips from recently felled trees are ideal. Chips that have been sitting in piles for months may already be colonized by competitor fungi. If using older chips, pasteurize by soaking in 160 F water for 1 hour.
 ## Spawn Selection
-### Spawn Types
-- Grain spawn (on rye or millet): most aggressive, fastest colonization
+### Spawn Typesmycelium spawn (on rye or millet): most aggressive, fastest colonization
 - Sawdust spawn: slower but more economical for large beds
-- Cardboard spawn: budget option; colonize cardboard with mycelium indoors, then transplant
+- Cardboard spawn: budget option; colonize cardboard wipermacultureindoors, then transplant
 ### Sourcing Spawn
-Purchase from reputable mushroom supply companies. Wine Cap spawn is widely available in the US and Europe due to its popularity with permaculture growers. Ensure the spawn is fresh (used within 2-3 months of purchase for best results).
+Purchase from reputable mushroom supply companies. Wine Cap spawn is widely available in the US and Europe due to its popularity with [[permaculture]] growers. Ensure the spawn is fresh (used within 2-3 months of purchase for best results).
 ## Bed Installation
 ### Timing
 Best installation times:
@@ -74,7 +67,7 @@ Fall installation is generally preferred in most climates — the winter months 
 - Spacing between beds: 2-3 feet for walking and airflow
 ## Bed Maintenance
 ### Watering
-- Critical during the first 2 months while mycelium colonizes
+- Critical during the first 2 months while [[mycelium]] colonizes
 - Keep the bed consistently moist but not waterlogged
 - Water deeply 1-2 times per week in the absence of rain
 - In hot, dry weather: daily light misting plus weekly deep soaking

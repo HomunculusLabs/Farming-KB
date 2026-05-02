@@ -67,6 +67,23 @@ Spore syringes produce multispore cultures, meaning thousands of spores germinat
 
 For consistent, repeatable results, tissue culture from a selected fruitbody (cloning) is preferred over multispore inoculation.
 
+
+## Spore Concentration and Quality Control
+
+Spore concentration affects inoculation success. A standard 10cc spore syringe
+should contain enough visible spores to make the solution appear slightly
+cloudy or speckled. Over-concentration does not improve results and can
+actually reduce germination by causing spores to clump together, limiting
+water and oxygen access. A light scattering of spores across a substrate
+surface provides better distribution than a heavy deposit in one area.
+
+Contamination prevention during production relies on a clean workspace,
+flame-sterilized tools, and careful technique. The most critical step is
+maintaining sterility during the transfer from spore print to syringe.
+Working in a still-air box or laminar flow hood dramatically reduces
+contamination rates. Even with perfect technique, a 5-10% contamination
+rate is normal for home production — commercial producers achieve lower
+rates through purpose-built clean rooms and automated filling equipment.
 ## Related
 
 - [[spore-syringe-vs-liquid-culture]]

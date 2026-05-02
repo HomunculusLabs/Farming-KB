@@ -16,7 +16,6 @@ sources:
 
 
 
-
 ## Chemical Identity
 
 - **IUPAC name:** [3-[2-(Methylamino)ethyl]-1H-indol-4-yl] dihydrogen phosphate
@@ -29,7 +28,6 @@ sources:
 
 
 
-
 ## Relationship to Psilocybin
 
 Baeocystin occupies a unique position in the psilocybin alkaloid family. It is the N-monomethyl intermediate in the pathway from tryptophan to psilocybin:
@@ -37,7 +35,6 @@ Baeocystin occupies a unique position in the psilocybin alkaloid family. It is t
 - **Norbaeocystin** (desmethyl) → psim-enzyme|PsiM → **Baeocystin** (monomethyl) → psim-enzyme|PsiM → **Psilocybin** (dimethyl)
 
 Unlike psilocybin, which is fully dephosphorylated to the active psilocin in vivo, baeocystin's pharmacology after oral administration is less well characterized. It is presumed to undergo dephosphorylation to 4-hydroxy-N-methyltryptamine, which may contribute to the overall psychoactive profile of mushroom preparations.
-
 
 
 
@@ -58,7 +55,6 @@ Notable species containing baeocystin:
 
 
 
-
 ## Pharmacology
 
 The pharmacological profile of baeocystin remains less thoroughly investigated than that of psilocybin. Key considerations:
@@ -72,11 +68,9 @@ The pharmacological profile of baeocystin remains less thoroughly investigated t
 
 
 
-
 ## Analytical Detection
 
 Baeocystin is routinely detected in mushroom alkaloid analyses using HPLC-UV, HPLC-MS/MS, and GC-MS methods. It is typically resolved from psilocybin and norbaeocystin using reversed-phase chromatography. The compound is less stable than psilocybin under acidic extraction conditions, requiring careful sample preparation to avoid degradation or artifact formation.
-
 
 
 

@@ -24,7 +24,7 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Fermented Plant Extract (FPE)
+# [[oriental-herbal-nutrient-ohn|Fermented]] Plant Extract (FPE)
 
 Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
@@ -102,7 +102,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative 
 | Stress recovery | 1:500 | Revive stressed plants |
 | Soil drench | 1:500-800 | Feed soil microbes |
 
-Apply as foliar spray early morning or late evening. Never spray in direct sunlight — UV kills microbes and enzymes.
+Apply as [[ultra-low-cost-foliar-application-methods|foliar]] spray early morning or late evening. Never spray in direct sunlight — UV kills microbes and enzymes.
 
 ## FFJ — Fermented Fruit Juice
 
@@ -145,8 +145,3 @@ Same process as FPJ but with fruit:
 ## BRV — Brown Rice Vinegar (Natural Acetic Acid)
 
 A separate KNF input that functions as both a nutrient source and an extraction solvent. See [[brown-rice-vinegar-brv]] for full recipe.
-
-Key uses with FPJ/FFJ:
-- Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])
-
-Related: [[knf-reproductive-growth-stage]]

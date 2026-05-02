@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-21
 type: concept
 tags: [knf, natural-farming]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # Carrot Enzyme Soil Preparation

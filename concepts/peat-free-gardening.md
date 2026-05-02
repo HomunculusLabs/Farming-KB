@@ -1,14 +1,7 @@
 ---
-title: Peat-Free Gardening
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [organic, gardening, sustainability, soil-amendment, compost, environment]
-sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
----
+ti
 
 # Peat-Free Gardening
-
 
 
 
@@ -20,14 +13,12 @@ There is increasing concern about the use of peat as a growing medium. Peat is a
 
 
 
-
 ## The Problem with Peat
 
 - Peat bogs have formed over thousands, if not millions, of years
 - As peat is extracted, valuable sites for rare flora and fauna are destroyed
 - Peat will eventually reform, but this takes many, many years
 - Species that depend on peat bogs for their existence may become extinct in the meantime
-
 
 
 
@@ -55,7 +46,6 @@ Peat does not need to be used as a soil improver because plenty of substitutes e
 
 
 
-
 ## Peat-Free Composts for Containers
 
 Peat-free composts for seed sowing and container growing are increasingly available. Some points to consider:
@@ -64,7 +54,6 @@ Peat-free composts for seed sowing and container growing are increasingly availa
 - With a little care, newer products work well
 - The main adjustment is getting watering and feeding regimes right, which comes with experience
 - Coir-based products generally perform best for propagation
-
 
 
 
@@ -80,12 +69,14 @@ Soil-conditioning peat-free products can be dug into soil or used as a mulch on 
 
 
 
-
 ## Related
 
 - [[soil-conditioners-guide]] — detailed guide to alternative soil conditioners
 - [[composting-materials-alternative]] — sourcing compost materials sustainably
 - peat free gardening — the broader movement toward sustainable growing media
+
+
+
 
 ## See Also
 

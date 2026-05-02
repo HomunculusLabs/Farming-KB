@@ -10,11 +10,6 @@ sources:
 
 # Holzer Browsing Protection Methods
 
-
-
-
-
-
 ## Natural Distraction Strategy
 
 The fundamental approach: sow and plant everything in large enough quantities so that deer, birds, hares, and mice all have something to eat. Nature is fertile enough to provide for everyone. When humans become too miserly, a great battle against fellow creatures begins.
@@ -39,11 +34,6 @@ Side shoots and branches between the graft and the ground fulfil an important br
 - Blackthorn
 - Other thorny or prickly plants
 - Young shoots are grazed most heavily, causing plants to become bushy and protect fruit trees behind them
-
-
-
-
-
 
 ## Holzer's Homemade Browsing Salve
 

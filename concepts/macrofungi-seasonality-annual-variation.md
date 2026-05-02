@@ -90,4 +90,4 @@ Surveys should employ [[recommended-protocols-sampling-macrofungi]] to ensure da
 - [[fungal-survey-scientific-contributions]]
 - [[recommended-protocols-sampling-macrofungi]]
 - [[alpha-beta-gamma-diversity-fungi]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]

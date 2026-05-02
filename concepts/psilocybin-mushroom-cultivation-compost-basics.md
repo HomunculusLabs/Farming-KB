@@ -131,7 +131,7 @@ and Paul Stamets.
 ## See Also
 
 - [[psilocybin-mushroom-cultivation-basics]]
-- [[psilocybin-mushroom-cultivation]]
+- [[psilocybin-cultivation]]
 - [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
 - psilocybin-mycelium-lifecycle-grain-manure
 - [[ghouled-field-guide-historical-context]]

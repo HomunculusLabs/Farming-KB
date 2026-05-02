@@ -82,5 +82,5 @@ Physical restoration of soils and development of appropriate plant systems takes
 - [[permaculture-designers-manual-mulch-systems]] - protecting and building soil
 - [[permaculture-designers-manual-cover-crops-detailed]] - restorative cropping
 - [[permaculture-designers-manual-swale-design-detailed]] - water management for soil health
-- [[permaculture-designers-manual-keyline-design]] - landscape-scale soil restoration
+- [[keyline-design]] - landscape-scale soil restoration
 - [[permaculture-designers-manual-fibre-plants]]

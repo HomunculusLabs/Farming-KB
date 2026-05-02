@@ -2,8 +2,7 @@
 title: Humulene
 type: chemical
 tags: [terpene, cannabis, anti-inflammatory, sesquiterpene, appetite-suppressant]
-date: 2026-04-28
-updated: 2026-04-28
+date: 2[[cannabis-sativa]]ed: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
 ---
 
@@ -51,7 +50,7 @@ Humulene's potent anti-inflammatory effects complement and enhance the anti-infl
 
 ### Anti-inflammatory Activity
 
-Humulene is one of the most potent anti-inflammatory terpenes, with activity comparable to some pharmaceutical agents. It demonstrates preferential inhibition of COX-2 over COX-1, a desirable pharmacological profile providing anti-inflammatory effects with reduced gastrointestinal side effects. Humulene inhibits key pro-inflammatory signaling pathways (NF-κB and MAPK), reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6, IL-8) while promoting anti-inflammatory IL-10, decreases prostaglandin E2 synthesis, and has demonstrated efficacy in animal models comparable to dexamethasone at appropriate doses, without corticosteroid side effects.
+Humulene is one of the most potent anti-inflammatory terpenes, with activity comparable to some pharmaceutical agents. It demonstrates preferential inhibition of COX-2 over COX-1, a desirable pharmacological profile providing anti-inflammatory effects with reduced gastrointestinal side effects. Humulene inhibits key pro-inflammatory signaling pathways (NF-κB and MAPK), reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6, IL-8) while promoting anti-inflammatory IL-10, decreases prostaglandin E2 synthesis, and has demonstrated efficacy in animal models comparable to dexamethasocandida-albicanse doses, without corticosteroid side effects.
 
 ### Antibacterial and Antifungal Activity
 

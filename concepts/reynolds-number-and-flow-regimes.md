@@ -1,10 +1,5 @@
 ---
-title: Reynolds Number and Flow Regimes
-tags: [physics, fluid-dynamics, engineering, turbulence]
-date: 2026-05-02
-updated: 2026-05-02
-sources: []
----
+ti
 
 ## Overview
 
@@ -136,10 +131,10 @@ computational solutions.
 
 ## See Also
 
-- [[mushroom-cultivation-fruiting-chambers]]
+- [[mushroom-cultivation]] fruiting chambers
 
 - fluid mechanics
-- navier stokes equations
+- [[navier-stokes-equations]]
 - boundary layer theory
 - [[heat-transfer-mechanisms]]
 - pipe flow analysis

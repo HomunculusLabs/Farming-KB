@@ -111,4 +111,4 @@ Fungal diversity in leaf litter is significantly greater than in soil beneath it
 - [[fungal-species-richness-and-diversity-indices]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[microfungal-diversity-host-plant-relationship]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]

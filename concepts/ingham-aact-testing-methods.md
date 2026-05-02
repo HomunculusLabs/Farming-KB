@@ -67,7 +67,7 @@ Ingham recommends testing:
 
 Ingham's 1985 paper in *Ecological Monographs* was "the first proof of concept" showing that measured improvements in organism biomass correlate with improved disease protection, nutrient retention, nutrient cycling, and soil aggregation. The Soil Foodweb Institute database contains published data showing how active and total organisms change with soil type, season, and plant communities.
 
-See also: [[compost-tea-aact]], [[ingham-field-guide-overview]], [[soil-food-web-assessment]], [[compost-tea-brewing-guide]]
+See also: [[compost-tea-aact]], [[ingham-field-guide-overview]], [[soil-food-web-assessment]], [[compost-tea-brewing]]
 
 ## See Also
 

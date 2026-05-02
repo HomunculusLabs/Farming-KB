@@ -45,9 +45,7 @@ Standard preparation of malt extract agar follows these steps:
 3. **Bring to final volume**: Add distilled water to reach exactly 1 liter total volume, accounting for any water lost during heating.
 4. **Sterilize**: Seal the flask with aluminum foil and sterilize by autoclaving at 121 degrees C (15 psi) for 15-20 minutes. Proper [[sterilization]] is essential to eliminate contaminant organisms that would otherwise outcompete the desired fungal species. The foil cover prevents the medium from boiling over while allowing steam penetration.
 5. **Cool and pour**: After autoclaving, allow the medium to cool to approximately 45-55 degrees C (warm but not hot to the touch), then pour 20-25 mL into each sterile Petri dish in a laminar flow hood or still-air box. Pouring at this temperature minimizes condensation on the lid while keeping the agar liquid enough to flow evenly across the plate surface. Pouring at too high a temperature creates excessive condensation; pouring at too low a temperature causes premature solidification and uneven surfaces.
-6. **Solidify and store**: Allow the poured plates to solidify undisturbed at room temperature for approximately 30 minutes, then store inverted (lid down) at 4 degrees C in sealed plastic bags. Inverting the plates prevents any condensation droplets from falling onto the agar surface. Properly stored MEA plates remain usable for 2-4 weeks; beyond this, desiccation and potential airborne contamination reduce reliability.
-
-## Uses in Mycology
+6. **Solidify and store**: Allow the poured plates to solidify undisturbed at room temperature for approximately 30 minutes, then store inverted (lid down) at 4 degrees C in sealed plastic bags. Inverting the plates prevents any condensation droplets from falling onto the agar surface. Properly stored MEA plates remain usable for 2-4 weeks; beyond this, desiccation and potential airborne contamination reduce respore-syringe# Usspore-printogy
 
 ### Spore Germination
 

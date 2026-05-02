@@ -77,7 +77,7 @@ Receptor binding studies have shown that TMA has moderate affinity for 5-HT2A re
 
 - DOM (2,5-dimethoxy-4-methylamphetamine): Much more potent at 3-10 mg
 
-The comparison between TMA and mescaline illustrates the general pattern that amphetamine homologues are more potent than their phenethylamine counterparts, though this is not always the case (see the 2C-G/GANESHA discussion).
+The comparison between TMA and mescaline illustrates the general pattern that amphetamine homologues are more potent than their phenethylamine counterparts, though this is not always the case (seeset-and-settingHA discussion).
 
 ## Harm Reduction and Safety Considerations
 

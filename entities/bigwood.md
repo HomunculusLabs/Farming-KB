@@ -47,7 +47,7 @@ between species, populations, and growing conditions.
 ## Research Contributions
 
 Bigwood's most cited work is the 1992 study *Variation of Psilocybin and Psilocin
-Levels*, co-authored with [[michael-beug]].
+Levels*, co-authored with [[beug]].
 This paper analyzed psilocybin and psilocin concentrations in dried specimens
 from 12 species of psilocybin-containing mushrooms, establishing baseline
 pharmacological data that remains widely referenced.
@@ -107,7 +107,7 @@ fruiting bodies by homogenizing entire dried specimens before analysis.
 
 Bigwood's work built upon and complemented the research of several other prominent
 figures in psychedelic mycology.
-His collaboration with [[michael-beug]] combined analytical chemistry
+His collaboration with [[beug]] combined analytical chemistry
 expertise with deep taxonomic knowledge, producing research that was both chemically
 rigorous and mycologically informed.
 
@@ -140,7 +140,7 @@ Subsequent researchers have built upon their methodology but the original study 
 
 ## See Also
 
-- [[michael-beug]]
+- [[beug]]
 - [[jochen-gartz]]
 - [[psilocybin]]
 - [[psilocin]]

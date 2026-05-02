@@ -124,7 +124,6 @@ root accesses water and minerals unavailable to shallow-rooted
 understorey crops. The long lifespan and low maintenance requirements
 make it ideal for [[comparison-food-forest-design-vs-backyard-orchard-design]] systems in dry climates.
 
-
 ## See Also
 
 - [[drought-tolerant-planting-design]]

@@ -1,13 +1,13 @@
 ---
-title: Wine Making From Grapes
+title: wine making from grapes
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, fermentation, food, recipe, preparation, processing, preservation, fruit-tree]
+tags: [[homesteading]], fermentation, food, recipe, preparation, processing, preservation, fruit-tree]
 sources: []
 ---
 
-# Wine Making From Grapes
+# wine making from grapes
 
 Making wine from grapes on the homestead connects you to one of humanity's oldest agricultural traditions. Whether you grow your own grapes, source from local vineyards, or buy in bulk, the principles of winemaking are accessible to anyone with attention to detail and patience.
 

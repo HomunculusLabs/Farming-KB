@@ -120,3 +120,7 @@ Understanding stomatal regulation explains many practical observations:
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[diffusion-osmosis-and-active-transport-in-plants]]
+
+## See Also
+
+- [[water-use-efficiency-plants]]

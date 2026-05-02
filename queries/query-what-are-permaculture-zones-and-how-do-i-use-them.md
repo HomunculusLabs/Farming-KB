@@ -54,7 +54,7 @@ The key is designing these zones so they work with natural processes rather than
 Zone 4 is a semi-wild area used for foraging, timber production, and occasional grazing.
 This zone requires very little management and serves as a buffer between the productive landscape and true wilderness.
 Zone 5 is the unmanaged natural area that serves as a reference ecosystem and wildlife habitat.
-The [[permaculture-zone-and-sector-analysis]] page explains how zones relate to broader landscape analysis.
+The [[zone-sector-analysis-guide]] page explains how zones relate to broader landscape analysis.
 Zone 5 provides ecological services like pollination, pest control, and genetic diversity that flow inward.
 Observing Zone 5 teaches designers how natural ecosystems function and what species thrive locally.
 Many permaculture designers consider Zone 5 the most important zone because it provides the ecological intelligence for all the others.

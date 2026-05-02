@@ -14,13 +14,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 
 
-
-
 ## Early Life and Education
 
 Heffter was born in Leipzig, Germany. He studied medicine and chemistry at the University of Leipzig, earning his medical degree in 1883. He subsequently worked as a pharmacologist and toxicologist, eventually becoming a professor at the University of Leipzig. His early research focused on the pharmacology of various natural substances and the mechanisms of drug action.
-
-
 
 
 
@@ -38,8 +34,6 @@ Heffter published his findings in 1898 in a landmark paper titled "Über Pellote
 
 
 
-
-
 ## Contributions to Pharmacology
 
 Beyond mescaline, Heffter made several other important contributions to pharmacology and toxicology:
@@ -52,13 +46,9 @@ Beyond mescaline, Heffter made several other important contributions to pharmaco
 
 
 
-
-
 ## Heffter Research Institute
 
 Heffter's contributions are commemorated by the **Heffter Research Institute**, founded in 1993 as a nonprofit organization dedicated to supporting research on psychedelic substances and their therapeutic potential. The institute, based in Santa Fe, New Mexico, funds clinical and preclinical research on psilocybin, MDMA, and other psychedelics for the treatment of conditions including depression, anxiety, PTSD, and substance use disorders.
-
-
 
 
 
@@ -76,13 +66,9 @@ These principles directly enabled the work of later researchers including Alexan
 
 
 
-
-
 ## Death and Legacy
 
 Heffter died on February 18, 1925, in Freiburg im Breisgau, Germany, at the age of 65. His work was largely forgotten during the mid-20th century as pharmacology shifted toward synthetic drug development, but has been increasingly recognized in recent decades as the field of psychedelic research has undergone a renaissance.
-
-
 
 
 

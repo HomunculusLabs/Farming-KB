@@ -131,6 +131,8 @@ culture expansion, ensuring genetic stability across many generations.
 
 ## See Also
 
+- [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
+
 - [[agar-culture-and-isolation]]
 - [[sterile-cultivation-technique]]
 - [[strain-isolation-from-wild-specimens]]

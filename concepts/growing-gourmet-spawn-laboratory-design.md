@@ -12,7 +12,7 @@ type: concept
 # Spawn [[stamets-sterile-laboratory-design]] and Clean Room Principles
 
 The design of a spawn laboratory is critical to successful
-[[contamination-in-mushroom-cultivation]]. Whether retrofitting a home room or
+[[contamination-mushroom-cultivation]]. Whether retrofitting a home room or
 building a dedicated facility, specific design principles
 dramatically reduce contamination and improve success rates.
 For [[growing-gourmet-autoclave-retort-selection]], see that companion page.

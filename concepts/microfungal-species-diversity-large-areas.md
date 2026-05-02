@@ -80,7 +80,7 @@ Bills and Polishook (1994) detected 78-134 species per collection from Costa Ric
 
 - [[fungal-species-richness-and-diversity-indices]]
 - [[microfungi-wood-plant-debris-survey]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-species-concept-and-taxonomy]]
 
 ## Merged: Coprophilous Fungi Succession Defense Mechanisms

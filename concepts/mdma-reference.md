@@ -4,10 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, psychopharmacology, pharmacology, chemistry, therapy, safety, consciousness, psychiatry, neuroscience, counterculture]
-sources: []
+sources: [raw/papers/shulgin-a-pihkal.md]
 ---
 # MDMA Reference
-MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
+MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in thserotoninMDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
 ## Chemistry
 - IUPAC name: (RS)-1-(1,3-benzodioxol-5-yl)-N-methylpropan-2-amine
 - Chemical formula: C11H15NO2
@@ -18,9 +18,9 @@ MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compo
   - S-MDMA is more potent for serotonin release
   - R-MDMA has more dopaminergic effects
   - Racemic MDMA (50/50 mixture) is the form typically encountered
-- Physical form: white crystalline powder or pressed tablets
+- Physicamdearm: white crystalline powder or pressed tablets
 - Synthesis: typically from safrole or piperonal via reductive amination
-MDMA is structurally related to:
+MDMA is strmescaline related to:
 - MDA (3,4-methylenedioxyamphetamine): more psychedelic, longer-lasting
 - MDEA (methylenedioxyethylamphetamine): gentler, shorter duration
 - Amphetamine and methamphetamine (without the methylenedioxy group)
@@ -88,11 +88,11 @@ Note: street MDMA varies enormously in purity and content. Pills may contain:
 Period after effects wear off (1-7 days):
 - Depressed mood, emotional flattening, fatigue, irritability
 - Difficulty concentrating
-- Primarily due to serotonin depletion; resolves with rest
+- Primarily due to [[serotonin]] depletion; resolves with rest
 ## Therapeutic Applications
 ### MDMA-Assisted Therapy for PTSD
 This is the most advanced clinical application:
-- MAPS-sponsored Phase 3 trials (2021-2024) showed:
+- [[maps]]-sponsored Phase 3 trials (2021-2024) showed:
   - ~67% of MDMA-assisted therapy participants no longer met PTSD diagnostic criteria
   - ~88% showed clinically significant improvement
   - Compared to ~32% in placebo-assisted therapy group
@@ -110,15 +110,15 @@ This is the most advanced clinical application:
 ### Acute Risks
 - Hyponatremia: from drinking excessive water (SIADH). Drink 250-500 ml/hour; do not overhydrate
 - Hyperthermia: most dangerous acute risk. Stay cool, take breaks, use cool water
-- Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
+- [[serotonin]] syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
 - Cardiovascular events: dangerous for those with cardiovascular conditions
 ### Reducing Harm
 - Test substance (reagent tests, ideally fentanyl test strips)
 - Start low dose (especially with unknown purity)
 - Stay hydrated: 250-500 ml/hour non-alcoholic fluids; don't overhydrate
 - Take breaks from physical activity; maintain cool environment
-- Do not combine with SSRIs (reduces effects AND increases serotonin syndrome risk)
-- Wait 6-8 weeks between uses for serotonin recovery
+- Do not combine with SSRIs (reduces effects AND increases [[serotonin]] syndrome risk)
+- Wait 6-8 weeks between uses for [[serotonin]] recovery
 - Magnesium supplements before use may reduce jaw clenching
 - Have trusted friend present
 ### Long-Term Harm Reduction

@@ -118,5 +118,5 @@
    118|- [[comparison-bokashi-vs-vermicomposting]]
    119|- [[composting-systems]]
    120|- [[black-soldier-fly-larvae-as-feed]]
-   121|- [[compost-tea-brewing-guide]]
+   121|- [[compost-tea-brewing]]
    122|

@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Harm Reduction"
+[[psilocybin]]ilocybin Harm Reduction"
 created: 2026-04-26
 sources: "The Psilocybin Solution — Simon G. Powell"
 author: "Simon G. Powell"
@@ -34,9 +34,7 @@ about eliminating risk but about understanding and managing it intelligently.
 Powell discloses a rarely reported fact about the Good Friday experiment: one of the ten
 psilocybin subjects "had to have a shot of chlorpromazine (an anti-psychosis drug) to combat
 some unwelcome symptoms." The theology student took the words of a sermon about spreading the
-Christian message too literally and tried to leave the chapel, a struggle ensuing.
-
-Powell notes this could have been countered by "administering some self-control rather than
+Christian message too literally and tried to leave the chapel, a struggle eset-and-setting notes this could have been countered by "administering some self-control rather than
 chlorpromazine" but acknowledges that the subjects were "essentially naive to psilocybin's
 psychological effect." This case illustrates that even in a carefully controlled research
 setting with favourable set and setting, adverse reactions can occur — particularly with naive
@@ -122,7 +120,7 @@ regarding the psychological action of visionary plants and fungi."
 As a harm reduction point, Powell notes that in the Harvard study of 175 subjects there was
 "no evidence for psychological or physical addiction, although 90% wished to repeat the
 experience. No hangovers were reported." Unlike alcohol, psilocybin does not stupefy and does
-not produce physical dependence. No psychological casualties were reported even though more
+not produce physical dependence. No psychological casualtiesdmtre reported even though more
 moderate doses had been used than in previous experimentation. In a six-month follow-up study
 none of the subjects developed enduring psychotic or neurotic symptoms.
 

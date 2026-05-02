@@ -16,11 +16,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 
 
 
-
 ## Taxonomy and Classification
 
 The taxonomic history of *L. casei* has been complex and contentious. The *Lactobacillus casei* group (also called the *L. casei*-paracasei group) historically included several closely related taxa that were difficult to distinguish using phenotypic methods. With the advent of molecular phylogenetics, the group has been refined to include *L. casei*, *L. paracasei*, *L. rhamnosus*, and *L. zeae*. DNA-DNA hybridization studies and whole-genome sequencing have clarified that *L. casei* sensu stricto is a distinct species, though it remains very closely related to *L. paracasei* and *L. rhamnosus*.
-
 
 
 
@@ -38,13 +36,11 @@ The organism is mesophilic, with an optimal growth temperature of approximately 
 
 
 
-
 ## Dairy Fermentation
 
 *L. casei* plays a significant role in the production of many fermented dairy products. It is used as a starter or adjunct culture in the manufacture of cheese, yogurt, kefir, and fermented milk drinks. In cheese production, *L. casei* contributes to flavor development during ripening through the production of lactic acid, volatile fatty acids, and various flavor compounds derived from amino acid catabolism.
 
 The organism is particularly important in the production of aged cheeses, where it survives the initial cooking and pressing stages and continues to metabolize during the extended ripening period. Its proteolytic activity—relatively modest compared to some other lactobacilli—helps break down milk proteins into peptides and free amino acids that serve as precursors for the development of cheese flavor and texture. *L. casei* is a key component of the non-starter lactic acid bacteria (NSLAB) flora that naturally develops in many cheese varieties during ripening.
-
 
 
 
@@ -64,13 +60,11 @@ The organism is particularly important in the production of aged cheeses, where 
 
 
 
-
 ## Role in IMO and Natural Farming
 
 In indigenous microorganism (IMO) systems, *L. casei* contributes to the mixed lactic acid bacteria cultures developed from rice-based fermentation substrates. While *L. plantarum* and *L. brevis* are often the dominant LAB species in these preparations, *L. casei* is frequently present as part of the natural microbiota that colonizes fermenting rice and plant materials.
 
 When applied to agricultural systems as part of LAB serum preparations, *L. casei* contributes to the overall microbial diversity and competitive suppression of plant pathogens. Its ability to produce lactic acid and bacteriocins helps create an environment that is unfavorable for many pathogenic bacteria and fungi. The organism may also contribute to the decomposition of organic matter in compost and soil, particularly through its ability to utilize a range of carbohydrate substrates.
-
 
 
 
@@ -86,11 +80,10 @@ The genome of *L. casei* ATCC 334, sequenced in 2006, revealed a chromosome of a
 
 
 
-
 ## See Also
 
 - [[lactobacillus-plantarum]]
 - [[lactobacillus-brevis]]
 - [[indigenous-microorganisms]]
 - [[saccharomyces-cerevisiae]]
-- [[bacillus-subtilis-entity-the-mushroom-cultivator|Bacillus subtilis]]
+- [[bacillus-subtilis|Bacillus subtilis]]

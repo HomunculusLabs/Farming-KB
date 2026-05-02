@@ -136,6 +136,8 @@ H. ulmarius and [[growing-gourmet-king-oyster-eryngii-cultivation]].
 
 ## Related
 
+- [[shimeji-cultivation]]
+
 - [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
 
 - [[growing-gourmet-mind-and-methods-cultivation]]
@@ -146,4 +148,3 @@ H. ulmarius and [[growing-gourmet-king-oyster-eryngii-cultivation]].
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]
 - [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
-- [[growing-gourmet-strain-selection]]

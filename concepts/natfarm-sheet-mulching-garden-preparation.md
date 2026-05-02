@@ -131,4 +131,3 @@ with when finished compost is layered into
 the beds. For very poor soil, combine sheet mulching with
 strategies and cover cropping
 before establishing permanent plantings.
-

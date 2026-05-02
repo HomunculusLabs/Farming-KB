@@ -143,7 +143,7 @@ inner restlessness. The neighbor who brought milk appeared as a malevolent witch
 with a colored mask.
 
 ## See Also
-- [[hofmann-lsd-discovery-bicycle-day-account]]
+- hofmann lsd discovery bicycle day
 - [[mckenna-discovery-and-impact-of-lsd]]
 - [[lsd-discovery-and-history]]
 - [[mollison-designers-day-length-and-flowering-response]]

@@ -9,7 +9,7 @@ sources: []
 ## Short Answer
 Compost tea is a liquid extract made by steeping high-quality compost in aerated water to multiply beneficial microorganisms. The preferred method is actively aerated compost tea (AACT), brewed with an air pump for 24-36 hours to encourage aerobic bacteria and fungi. AACT provides disease suppression and nutrient cycling when applied to plants and soil, and is more biologically diverse than non-aerated compost extract.
 ## Types of Compost Tea
-The [[compost-tea-brewing-guide]] provides the foundational knowledge for making effective tea.
+The [[compost-tea-brewing]] provides the foundational knowledge for making effective tea.
 The [[aact-definitions-and-types-ingham]] resource distinguishes several related preparations:
 | Type | Method | Aeration | Best For |
 |---|---|---|---|

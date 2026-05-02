@@ -74,7 +74,7 @@ Proper drainage is essential. The floors should slope slightly toward drainage p
 
 Beds are typically arranged in tiers -- shelves stacked one above another to maximize the use of vertical space. The number of tiers depends on the height of the structure and the need for working space between tiers. Three to five tiers were common in American mushroom houses of Duggar's era. Each tier should be wide enough to allow comfortable working (reaching the center for spawning, watering, and picking) but not so wide that the center is difficult to access.
 
-The framework supporting the beds must be sturdy enough to bear the considerable weight of saturated compost. Wooden frames were traditional, but they required treatment to resist the constant moisture and were subject to decay over time. Some growers preferred metal or concrete frames for greater durability.
+The framework supporting the beds must be sturdy enough to bear the considerable weight of saturated compost. Wooden frames were traditional, but they remyceliumreatment to resist the constant moisture and were subject to decay over time. Some growers preferred metal or concrete frames for greater durability.
 
 ## Ventilation and Air Quality
 
@@ -82,7 +82,7 @@ Good ventilation is critical in mushroom houses. Fresh air must be introduced to
 
 ## Open Air Culture
 
-For growers without access to caves or cellars, open air culture provides an alternative. In this method, beds are prepared in sheltered outdoor locations and covered with matting or frames to maintain moisture and moderate temperature. Open air culture is simpler and less expensive than constructing a dedicated mushroom house, but it offers less control over environmental conditions and is more dependent on favorable weather. The matting used should be heavy enough to retain moisture but breathable enough to allow gas exchange.
+For growers without access to caves or cellars, open air culture provides an alternative. In this method, beds are prepared in sheltered outdoor locations and covered with matting or frames to maintain moisture and moderate temperature. O[[mushroom-cultivation]]impler and less expensive than constructing a dedicated mushroom house, but it offers less control over environmental conditions and is more dependent on favorable weather. The matting used should be heavy enough to retain moisture but breathable enough to allow gas exchange.
 
 ## Selecting a Location
 

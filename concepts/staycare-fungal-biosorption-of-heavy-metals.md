@@ -8,7 +8,8 @@ synonyms:
   - fungal metal immobilization
 type: concept
 tags: [fungi]
-sources: []
+sources:
+  - raw/papers/mycoremediation-biotechnological-singh.md
 updated: 2026-04-26
 ---
 
@@ -59,7 +60,7 @@ This variety of structural components ensures many different functional groups a
 ### Extracellular Metal Binding
 
 - **Siderophores**: Low-MW ligands (500-1000 Da) with high affinity for Fe³⁺; also bind Mg²⁺, Mn²⁺, Cr³⁺, Ga³⁺, and Pu⁴⁺
-- **Extracellular polymeric substances (EPS)**: Polysaccharides and other macromolecules that bind significant amounts of metals
+- **Extracellular polymeric substances (EPS)**: Polysaccharides and other macromolecules [[aspergillus-niger]]cant amounts of metals
 - **Organic acids**: Citric, oxalic, and other acids produced by fungi complex with metals
 
 ## Key Biosorbent Fungi

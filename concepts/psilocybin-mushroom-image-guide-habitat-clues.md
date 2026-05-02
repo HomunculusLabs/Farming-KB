@@ -46,7 +46,7 @@ dwelling):
 - [[gymnopilus-spectabilis]] (Big Laughing Gym): photographed growing
   on stumps, tree bark, and wood in Mendocino, California.
   Typically found on dead or dying hardwoods
-- [[psilocybe-pelliculosa]] (Conifer Psilocybe): as the common name
+- [[psilocybe-pelliculosa-entity]] (Conifer Psilocybe): as the common name
   indicates, associated with conifer forests in the Pacific
   Northwest
 

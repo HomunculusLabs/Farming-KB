@@ -72,7 +72,7 @@ parameters, potency, and contamination resistance for each species.
 - Caution: unconfirmed 1960 report of a child fatality; proceed with
   graduated dosing.
 
-### [[psilocybe-caerulescens]]
+### [[psilocybe-caerulescens-entity]]
 
 - Habitat: soil, sugar cane mulch, turned earth, stream banks.
 - Range: Alabama, northern Florida, Mexico.
@@ -88,7 +88,7 @@ parameters, potency, and contamination resistance for each species.
 - Range: Mexico.
 - Season: May to October.
 
-### [[psilocybe-pelliculosa]]
+### [[psilocybe-pelliculosa-entity]]
 
 - Habitat: humus and debris in or near conifer forests.
 - Range: northwestern USA to Marin County, California.

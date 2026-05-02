@@ -61,7 +61,7 @@ Engineers proceed from "limited scientific truth and judgment" -- the world as p
 
 ## The Natural Farming Alternative
 
-Fukuoka's "modest solutions" -- spreading straw and growing clover -- create no pollution because they eliminate the source of the problem. "Until the modern faith in big technological solutions can be overturned, pollution will only get worse." The [[fukuoka-four-principles-natural-farming-detailed]] eliminate the need for the chemicals that cause pollution in the first place:
+Fukuoka's "modest solutions" -- spreading straw and growing clover -- create no pollution because they eliminate the source of the problem. "Until the modern faith in big technological solutions can be overturned, pollution will only get worse." The [[fukuoka-four-principles-natural-farming]] eliminate the need for the chemicals that cause pollution in the first place:
 
 - No cultivation means no soil erosion and sediment runoff
 - No chemical fertilizer means no nutrient leaching into waterways
@@ -143,6 +143,6 @@ Fukuoka's analysis anticipates what would later be called "consumer-driven envir
 
 ## Connection to Natural Farming Principles
 
-The consumer pollution problem illustrates why Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]] are not merely agricultural techniques but elements of a comprehensive worldview:
+The consumer pollution problem illustrates why Fukuoka's [[fukuoka-four-principles-natural-farming]] are not merely agricultural techniques but elements of a comprehensive worldview:
 
 1. The principle of no chemicals is meaningless if consumers refuse to buy imperfect produce.

@@ -28,7 +28,7 @@ The species was originally described by Christiaan Hendrik Persoon in 1800. The 
 Tremella mesenterica produces distinctive gelatinous fruiting bodies with the following characteristics:
 
 - **Fruiting body:** Irregularly shaped, brain-like or lobed mass, 2-8 cm across and 1-3 cm thick. The surface is smooth to slightly wrinkled with a shiny, translucent appearance. When fresh, it is soft, gelatinous, and rubbery, becoming hard and shriveled when dry.
-- **Color:** Bright yellow to golden-orange when fresh and hydrated. The color fades to pale yellow or whitish when dry. Upon rehydration, the original bright color is restored.
+- **Color:** Bright yellow to golden-orange whesporesh and hydrated. The color fades to pale yellow or whitish when dry. Upon rehydration, the original bright color is restored.
 - **Texture:** Extremely gelatinous and elastic when fresh. The interior is translucent and watery.
 - **Hymenium:** The spore-bearing surface covers the entire outer surface of the fruiting body, with no distinct gills, pores, or teeth.
 - **Spores:** Subglobose to broadly ellipsoidal, smooth, 7-10 × 6-8 μm. Spores are produced on basidia that are cruciately septate (divided into four cells in a cross pattern), which is characteristic of the Tremellales.
@@ -128,9 +128,7 @@ T. mesenterica has limited documented use in traditional medicine compared to it
 
 ## Distinction from Tremella fuciformis
 
-T. mesenterica differs from its commercially important relative [[tremella-fuciformis]] in color (bright yellow-orange vs. white), texture (more rubbery vs. delicate), habitat (parasitic on Peniophora vs. Annulohypoxylon), and commercial importance (limited vs. widely cultivated and studied).
-
-## Cultivation
+T. mesenterica differs from its commercially important relative [[tremella-fuciformis]] in color (bright yellow-orange vs. white), texture (more rubbery vs. delicate), habitat (parasitic on Peniophora vs. Annulohypoxylon), and commercial importance (limited vs. widely cultivated and studmalt-extract-agartion
 
 Cultivation of T. mesenterica has not been commercially developed, partly because [[tremella-fuciformis]] serves as a more commercially viable and extensively studied alternative. Laboratory cultivation has been achieved on:
 

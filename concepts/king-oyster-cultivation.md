@@ -129,7 +129,7 @@ King Oyster is valued for its:
 
 ## See Also
 
-- [[oyster-mushroom-cultivation|oyster mushroom cultivation]]
+- [[cotter-oyster-mushroom-cultivation|oyster mushroom cultivation]]
 - [[oyster-mushroom-species-guide|oyster mushroom species comparison]]
 - [[bulk-substrate-preparation|bulk substrate preparation]]
 - [[mushroom-cultivation-basics|mushroom cultivation fundamentals]]

@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 # Trichomycetes - Gut Fungi of Arthropods
 
@@ -88,7 +89,7 @@ The principles outlined on this page connect directly to hands-on work in garden
 farms, and homesteads. Integrating these concepts with complementary techniques from
 related disciplines can significantly improve outcomes. Start with small-scale
 implementation and scale up as understanding deepens through direct observation.
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[freshwater-fungi-diversity-and-sampling]]
 - [[marine-fungi-diversity-sampling]]

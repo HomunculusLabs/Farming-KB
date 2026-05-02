@@ -57,7 +57,7 @@ Like other members of the genus Psilocybe, *P. viridescens* contains the psychoa
 
 - [[psilocybe-cyanescens]] — more robust, with a wavy cap margin; far more common
 - [[psilocybe-stuntzii]] — also found in the Pacific Northwest, grows in similar habitats
-- [[psilocybe-pelliculosa]] — smaller, more slender, with a less pronounced greenish tint
+- [[psilocybe-pelliculosa-entity]] — smaller, more slender, with a less pronounced greenish tint
 - [[psilocybe-subaeruginosa]] — larger and more potent; primarily Australasian in distribution
 
 The greenish coloration on the cap is the most distinctive feature separating *P. viridescens* from other bluing Psilocybe species in its range.
@@ -79,5 +79,5 @@ Not edible for culinary purposes. Consumption produces psychoactive effects. See
 - [[psilocybe-azurescens]]
 - [[psilocybe-cyanescens]]
 - [[psilocybe-stuntzii]]
-- [[psilocybe-pelliculosa]]
+- [[psilocybe-pelliculosa-entity]]
 - [[psilocybin-mushrooms-of-the-world-genus-overview]]

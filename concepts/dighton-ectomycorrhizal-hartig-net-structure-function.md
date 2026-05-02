@@ -4,9 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - mycorrhizae
-  - plant-physiology
-  - fungal-anatomy
-  - symbiosis
+ [[ectomycorrhizal-ecology]] [[ectomycorrhizal-associations]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -96,7 +94,7 @@ from the root surface.
 The intercellular position of the Hartig net contrasts with the
 intracellular arbuscules of [[arbuscular-mycorrhizal-network-visualization-anastomosis]]. In arbuscular mycorrhizae, fungal hyphae penetrate
 within the host root cortical cells and develop a treelike branching
-structure (the arbuscule) between the host cell wall and plasmolemma.
+structure (the arbuscule) between the host cell [[ectomycorrhizal-fungi]]
 Both structures optimize the surface area of the interface between
 plant host and fungus for nutrient and carbohydrate exchange, but they
 achieve this through fundamentally different anatomical arrangements.

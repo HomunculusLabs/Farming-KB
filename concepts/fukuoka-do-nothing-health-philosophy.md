@@ -67,7 +67,7 @@ Fukuoka drew explicit parallels between agricultural health and human health:
 
 - [[fukuoka-natural-diet-theory]] is the agricultural equivalent of eating naturally -- food grown without intervention is inherently healthier
 
-- The [[fukuoka-four-principles-natural-farming-detailed]] of farming have health parallels: don't cultivate the body with excessive exercise, don't add synthetic supplements, don't suppress symptoms, don't attack disease directly
+- The [[fukuoka-four-principles-natural-farming]] of farming have health parallels: don't cultivate the body with excessive exercise, don't add synthetic supplements, don't suppress symptoms, don't attack disease directly
 
 He observed that the same simplifying logic that reduces farming to NPK inputs also reduces health to vitamin pills and calorie counts. In both cases, the whole is lost while the parts are measured and optimized.
 

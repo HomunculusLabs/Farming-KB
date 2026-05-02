@@ -15,7 +15,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Chemistry
 
 - **IUPAC**: 5-Hydroxy-N,N-dimethyl-1H-indole-3-ethanamine
@@ -25,7 +24,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Structurally identical to DMT with an additional 5-hydroxyl group; this hydroxyl dramatically changes pharmacokinetics (poor BBB penetration, rapid glucuronidation)
 - White crystalline solid as freebase; forms salts (hydrochloride, sulfate)
 - Can be converted to 5-MeO-DMT via methylation of the 5-hydroxyl group
-
 
 
 
@@ -43,7 +41,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Natural Occurrence
 
 - **Animal sources**: Secretions of *Bufo marinus* (cane toad), *Bufo alvarius* (Sonoran Desert toad), *Rhinella marina*, and numerous other Bufonidae species; typically co-occurs with 5-MeO-DMT and bufogenins
@@ -55,13 +52,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Cultural Use
 
 - Primary ingredient in **yopo** and **vilca** snuffs of the Orinoco basin and Andean highlands, used for millennia in shamanic and divinatory contexts
 - Preparation involves toasting, grinding, and mixing with calcined shell (calcium hydroxide) to freebase the alkaloid and potentially convert bufotenine to 5-MeO-DMT through pyrolysis
 - Archaeological evidence of snuff trays and tubes dating to 1000+ BCE in the Caribbean and South America
-
 
 
 
@@ -78,12 +73,15 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Legal Status
 
 - Schedule I in the United States
 - Internationally controlled under the UN Convention on Psychotropic Substances
 - Present in *Anadenanthera* seeds sold commercially, creating legal ambiguity in some jurisdictions
+
+
+
+
 
 ## See Also
 

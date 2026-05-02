@@ -77,7 +77,7 @@ The [cortisol stress axis interacts directly with the endocannabinoid system. Ch
 stress disrupts ECS signaling, which in turn affects immune function, pain
 perception, mood, and virtually every system regulated by homeostasis. By
 modulating the stress response through the ECS, cannabinoids can help restore
-homeostatic balance disrupted by psychological and physiological stressors.
+homeostatic balance disrupted by psychological and physiologiserotoninsors.
 
 ### Neurotransmitter Homeostasis
 

@@ -19,7 +19,6 @@ Medicinal mushrooms have been used for thousands of years in Traditional Chinese
 
 
 
-
 ## Key Medicinal Compounds
 
 ### Beta-Glucans
@@ -27,7 +26,6 @@ Long-chain polysaccharides found in mushroom cell walls that modulate the immune
 
 ### Triterpenes
 Found primarily in Ganoderma (reishi) species. These compounds have anti-inflammatory, antihistamine, and liver-protective properties. They contribute to reishi's bitter taste.
-
 
 
 
@@ -65,7 +63,6 @@ An extremely rare old-growth forest polypore documented in the historical medica
 
 
 
-
 ## Preparation Methods
 
 - **Hot water extraction**: Best for extracting beta-glucans and polysaccharides
@@ -73,7 +70,6 @@ An extremely rare old-growth forest polypore documented in the historical medica
 - **Dual extraction**: Combines both methods for full-spectrum extracts
 - **Decoction (tea)**: Traditional method; simmer sliced or powdered mushroom in water
 - **Tinctures**: Alcohol-based liquid extracts
-
 
 
 

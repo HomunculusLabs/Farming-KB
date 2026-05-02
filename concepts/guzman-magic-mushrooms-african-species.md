@@ -52,7 +52,7 @@ Morocco has the richest documented neurotropic mycoflora in Africa:
   Maire; confirmed from Morocco by Malencon and Bertault (1970); also
   found in Algeria and southwestern Africa
 - **Copelandia bispora**: Reported from Morocco
-- **[[inocybe-corydalina]]** and **I. calamistrata**: Present in Morocco
+- **[[inocybe-corydalina-entity]]** and **I. calamistrata**: Present in Morocco
 - **Pluteus cyanopus**, **P. atricapillus**, **P. salicinus**, **P.
   villosus**: All present in Morocco; P. villosus confirmed to contain
   psilocybin (Stijve and Kuyper, 1985)

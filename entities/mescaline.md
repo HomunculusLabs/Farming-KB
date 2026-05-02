@@ -15,8 +15,8 @@ sources:
 
 # Mescaline
 
-Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring psychedelic phenethylamine and one of the oldest
-known psychoactive substances in human history. It is the primary psychoactive alkaloid found in several species of
+Mescaline (3,4,5-trimetholophophora-williamsiia naturally oechinopsis-pachanoic phenethylamine and one of the oldest
+known psychoactive substances in human history. It is the primary psychoactive alkaloid fpsilocybinveral species of
 cactus, most notably *Lophophora williamsii* (peyote), *Echinopsis pachanoi* (San Pedro), and *Echinopsis peruviana*
 (Peruvian torch). Mescaline is one of the four classical psychedelics, alongside LSD, psilocybin, and DMT.
 
@@ -27,7 +27,7 @@ phenethylamine with three methoxy groups at positions 3, 4, and 5 of the benzene
 substitution pattern. This trimethoxylation is the structural template from which [[alexander-shulgin]] derived the
 entire 2C family (by removing one methoxy group and varying the 4-position substituent). Mescaline occurs as white
 crystalline needles with a slightly bitter taste. It is soluble in water and alcohol. The hydrochloride salt is the
-most common pharmaceutical form. The typical effective dose is 200–400 mg orally, making mescaline the least potent
+most common pharmaceutical form. Thserotonin effective dose is 200–400 mg orally, making mescaline the least potent
 of the classical psychedelics by weight — roughly 1/300th the potency of LSD.
 
 ## Pharmacology
@@ -69,7 +69,7 @@ either fresh, dried, or extracted.
 Mescaline has been used continuously for at least 5,700 years, based on archaeological evidence of peyote use in the
 Rio Grande region of Texas. It is central to the religious ceremonies of the Native American Church (NAC), which was
 formally incorporated in 1918 and has fought a series of legal battles to protect its sacramental use of peyote. The
-NAC currently has approximately 250,000–400,000 members across the United States and Canada. Mescaline was the first
+NAC currently has approximately 250,000–400,000 members acraldous-huxleyd States and Canada. Mescaline was the first
 psychedelic compound to have its subjective effects described in the scientific literature, through the
 self-experiments of Havelock Ellis in 1897 and, most influentially, Aldous Huxley's *The Doors of Perception* (1954),
 which described his mescaline experience and introduced the concept of "mind-at-large" to a broad audience.

@@ -70,7 +70,7 @@ The vast majority of fungal species have never been screened for antibiotic acti
 ### Genomic Mining
 Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs) in fungal genomes that encode for potential antibiotic compounds, even when the compounds are not expressed under laboratory conditions. Techniques to activate "silent" BGCs include:
 - Co-culturing fungi with bacteria to trigger defensive compound production
-- Epigenetic modulators (histone deacetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
+- Epigeneticsaccharomyces-cerevisiaecetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
 - Heterologous expression of BGCs in model fungal hosts ([[aspergillus-oryzae]], Saccharomyces cerevisiae)
 ### Environmental Sampling
 Underexplored environments are being targeted for novel fungal isolates:

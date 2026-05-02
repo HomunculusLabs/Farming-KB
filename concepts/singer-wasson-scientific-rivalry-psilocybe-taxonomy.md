@@ -128,6 +128,8 @@ had been used by indigenous peoples for millennia.
 
 ## See Also
 
+- [[rolf-singer]]
+
 - [[sam-stein-psilocybe-cubensis-bad-trip-1961]]
 - [[roger-heim-scientific-study-psilocybin]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]

@@ -53,7 +53,7 @@
     53|**Coloration:** P. cubensis displays a wide color range from near-white
     54|with a gold center to light brown. [[panaeolus-subbalteatus]] shows light
     55|cinnamon that is uniform in young specimens, with a distinctive ring at the
-    56|center as it matures. [[psilocybe-caerulescens]] ranges from deep green to
+    56|center as it matures. [[psilocybe-caerulescens-entity]] ranges from deep green to
     57|black fading to cinnamon or rust.
     58|
     59|**Shape and size:** P. cubensis caps range from one-half to four inches,

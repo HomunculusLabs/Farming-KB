@@ -108,7 +108,7 @@ Modern molecular methods, particularly [[molecular-methods-fungal-taxonomy-and-d
 
 - [[biofertilizers-and-soil-inoculants]]
 
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 
 - [[fungal-species-richness-and-diversity-indices]]
 - [[amf-hyphal-anastomosis-self-recognition]]

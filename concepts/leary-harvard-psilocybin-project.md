@@ -84,7 +84,7 @@ Psychology, in contrast, has been complacent and silent. Psychologists have been
 
 [[psilocybe-mexicana-profile]]
 
-[[maria-sabina-and-mazatec-mushroom-ceremony]]
+[[maria-sabina-mazatec-mushroom-ceremony]]
 
 [[mckenna-dmt-amazonian-ecosystems]]
 

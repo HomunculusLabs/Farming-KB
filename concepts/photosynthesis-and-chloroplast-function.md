@@ -89,7 +89,9 @@ Photosynthesis has evolved multiple times in Earth's history, with different org
 
 CAM photosynthesis, used by cacti and orchids, temporally separates CO2 fixation (at night) from the Calvin cycle (during day) to minimize water loss. Understanding these adaptations is crucial for crop selection in different climates and informs breeding programs aimed at improving photosynthetic efficiency in major food crops.
 
-## Related Topics
+## Related
+
+- [[c4-and-cam-photosynthesis]] Topics
 
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
 

@@ -1,13 +1,14 @@
 ---
-title: Hay and Forage Management
+title: hay and forage management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [forage, animal-husbandry, homesteading, livestock, storage, preservation]
-sources: []
+tags: [forage, animal-husbandry, [[homesteading]], livestock, storage, preservation]
+sources:
+  - /Users/t3rpz/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
-# Hay and Forage Management
+# hay and forage management
 
 Producing and managing high-quality hay and forage is essential for any
 livestock homestead. Winter feeding typically represents 40-60% of annual
@@ -143,10 +144,7 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
   fermentation. Requires specialized wrapper and plastic. Excellent feed
   quality if properly sealed.
 
-### Hay Storage Management
-- Inventory hay in fall: calculate total tons needed based on number of
-  animals and days of feeding.
-- Rule of thumb: 1 ton of hay per cow-calf pair per winter (120-150 days).
-- Sheep: 1 ton per 5-6 adult sheep per winter.
+## Related
 
-Related: [[cervantes-water-quality-management]], [[cannabis-resin-production-and-quality-traits-clarke]], [[seed-quality-and-selection-solomon]]
+- [[livestock-fencing-guide]]
+- [[compost-building-guide]]

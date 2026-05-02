@@ -116,7 +116,7 @@ problematic that framework might be from an anthropological perspective.
 - [[psychedelic-aesthetics-and-creativity]]
 
 - [[wasson-mexico-expeditions]] - The expeditions that started it all
-- [[maria-sabina-and-mazatec-mushroom-ceremony]] - The curandera at the centre
+- [[maria-sabina-mazatec-mushroom-ceremony]] - The curandera at the centre
 - [[psychedelic-mushroom-music-and-culture]] - Mushroom influence on music
 - [[mushroom-prohibition-timeline]] - The legal response
 - psychedelic 1960s counterculture - Broader psychedelic culture

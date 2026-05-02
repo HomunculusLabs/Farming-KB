@@ -127,7 +127,7 @@ For foliar applications where rain or waxy leaf surfaces are concerns:
 - [[aact-applications-guide-ingham]]
 - [[aact-disease-suppression-recipes]]
 - [[compost-tea-for-specific-crops]]
-- [[compost-tea-brewing-guide]]
+- [[compost-tea-brewing]]
 - [[foliar-feeding]]
 - [[foliar-feeding-plants]]
 - [[aact-fungal-dominant-tea]]

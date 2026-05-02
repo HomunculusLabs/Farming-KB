@@ -85,4 +85,4 @@ About half an hour after ingestion, the first effects are felt: strange intoxica
 ## Related Concepts
 
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
-- [[amanita-muscaria-preparation-methods]] -- preparation of another entheogen
+- [[amanita-preparation-methods]] -- preparation of another entheogen

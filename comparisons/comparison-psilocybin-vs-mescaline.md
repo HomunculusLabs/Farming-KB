@@ -20,7 +20,7 @@ A comparative overview of two of the most historically significant natural psych
 
 The fundamental chemical divide between these substances shapes their character in profound ways. Psilocybin is a prodrug that the body metabolizes into psilocin, a long-lasting tryptamine structurally related to DMT. This indole backbone is shared with serotonin, which underlies psilocybin's high affinity for 5-HT2A receptors and contributes to its emotionally introspective quality. The tryptamine structure tends to produce experiences that feel deeply internal and personally meaningful.
 
-Mescaline is a phenethylamine, placing it in the same broad family as MDMA, 2C-B, and amphetamine. The phenethylamine structure produces a subtly different receptor binding profile that contributes to mescaline's more openly stimulant and empathogenic qualities. Where psilocybin draws attention inward, mescaline tends to open awareness outward toward sensory richness and social connection.
+Mescaline is a phenethylamine, placing it in the same broad family as MDMA, 2C-B, and amphetamine. The phenethylamine structure produces a subtly different receptor binding profile that contributes to mescaline's more openly stimulant and empathogenic qualities. Where psilocybin draws attention inward, mescalipsilocybe-cubensiswareness outward toward sensory richness and social connection.
 
 ## Sources and Dosage
 
@@ -101,7 +101,7 @@ Both substances are considered physically safe at common doses with no establish
 
 ## Legality
 
-Mescaline and peyote are Schedule I controlled substances in the United States, though the Native American Church has legal exemption for ceremonial peyote use. San Pedro and other Trichocereus cacti occupy a legal gray area and are widely sold as ornamental plants. Psilocybin and psilocybin-containing mushrooms are also Schedule I in the United States, though several jurisdictions have deprioritized enforcement or decriminalized possession. Both substances are regulated differently across countries, and legal status continues to evolve rapidly.
+Mescaline and peyote are Schedule I controlled substances in the United States, though the Native American Church has legal exemption for ceremonial peyote use. San Pedro and other Trichocereus cacti occupy a legal gray area and are widely sold as ornamental plants. Psilocybin and psilocybin-containing mushrooms are also Schedule I in the United States, though several jurisdictions have deprioritized enfoset-and-settingiminalized possession. Both substances are regulated differently across countries, and legal status continues to evolve rapidly.
 
 ## Choosing Between Them
 

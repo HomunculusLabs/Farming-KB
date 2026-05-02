@@ -96,7 +96,7 @@ The Mexican variety *P. caerulescens* var. *mazatecorum* is known locally as "Du
 | Light requirement | Does poorly in darkness |
 | Potency | Potent and very resistant to contaminants |
 
-The most commonly cultivated psilocybian species and the standard recommended for beginners. Its rapid growth, contaminant resistance, and reliable fruiting make it ideal for first-time cultivators. See [[psilocybin-mushroom-cultivation]] and [[pf-tek-guide]] for detailed methods.
+The most commonly cultivated psilocybian species and the standard recommended for beginners. Its rapid growth, contaminant resistance, and reliable fruiting make it ideal for first-time cultivators. See [[psilocybin-cultivation]] and [[pf-tek-guide]] for detailed methods.
 
 ### Psilocybe cyanescens
 
@@ -118,7 +118,7 @@ A species strongly associated with the Pacific Northwest. Often found in urban s
 | Substrate | Mosses, herbs, roadsides, humid meadows, cornfields, near pine forests |
 | Range | Mexico, especially limestone regions |
 
-The species used by R. Gordon Wasson in his famous 1955 ceremony with Maria Sabina, which introduced psilocybin mushrooms to Western science. See [[maria-sabina-and-mazatec-mushroom-ceremony]] and [[wasson-hofmann-psilocybin-connection]] for historical context.
+The species used by R. Gordon Wasson in his famous 1955 ceremony with Maria Sabina, which introduced psilocybin mushrooms to Western science. See [[maria-sabina-mazatec-mushroom-ceremony]] and [[wasson-hofmann-psilocybin-connection]] for historical context.
 
 ### Psilocybe pelliculosa
 

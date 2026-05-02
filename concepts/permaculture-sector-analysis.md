@@ -99,10 +99,10 @@ Once the sector diagram is complete, it tells the designer where to place elemen
 
 ## Related Concepts
 
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-design-methods]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-site-analysis]]
 - [[permaculture-mapping-and-reading-the-landscape]]
 - [[permaculture-fire-management]]
-- [[permaculture-windbreak-design]]
+- [[permaculture-windbreak]]

@@ -69,6 +69,15 @@ The legal status of phenethylamine synthesis has evolved significantly since PIH
 - Possession of precursor chemicals with intent to manufacture controlled substances is a criminal offense
 - Shulgin himself faced DEA scrutiny and legal action; his relationship with regulatory agencies is documented in [[shulgin-research-contributions]]
 
+
+## Waste Disposal and Environmental Responsibility
+
+Proper disposal of chemical waste is a critical and often overlooked aspect of laboratory safety. Reaction byproducts, spent solvents, contaminated filter media, and wash solutions all require appropriate disposal. Heavy metal residues from reductions using mercury or palladium catalysts are particularly hazardous and must be collected for proper hazardous waste processing. Organic solvents should never be poured down drains — they contaminate waterways and can form explosive peroxides in plumbing systems. Aqueous waste containing amines must be neutralized before disposal. Responsible laboratory practice includes maintaining a detailed waste log, segregating incompatible waste streams, and using licensed hazardous waste disposal services. The environmental impact of clandestine laboratory operations is significant and well-documented: abandoned lab sites frequently require EPA-level remediation.
+
+## Personal Protective Equipment
+
+Comprehensive personal protective equipment (PPE) is non-negotiable for any synthetic chemistry work. At minimum: chemical-resistant gloves (nitrile, with neoprene oversleeves when handling strong bases or solvents), safety glasses or a full face shield, a lab coat made of chemical-resistant material, and respiratory protection when handling volatile or powdered compounds. A fume hood is essential for any operation producing vapors, aerosols, or dust. Gloves must be changed immediately after contamination — many organic solvents penetrate nitrile within minutes. Eye protection is particularly important because many phenethylamine precursors and intermediates are severe ocular irritants. Shulgin consistently emphasized that the cost of proper safety equipment is trivial compared to the potential consequences of a laboratory accident.
+
 ## Analytical Verification
 
 Shulgin consistently emphasizes the importance of analytical verification of synthesized compounds:

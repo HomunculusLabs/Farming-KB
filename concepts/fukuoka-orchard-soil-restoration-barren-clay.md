@@ -63,7 +63,7 @@ Fukuoka's observation that the hardest, most barren soil could be transformed in
 
 ## Connection to Natural Farming Principles
 
-The orchard restoration demonstrates all four of Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]]:
+The orchard restoration demonstrates all four of Fukuoka's [[fukuoka-four-principles-natural-farming]]:
 
 1. No cultivation: The soil was never tilled. Improvement came from plant roots and surface mulch working from above and below.
 

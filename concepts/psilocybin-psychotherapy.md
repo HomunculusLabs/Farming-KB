@@ -20,7 +20,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 # Psilocybin Psychotherapy
-The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early psycholytic therapy to modern clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-chemistry]] for pharmacological details.
+The use of psilocybin and psilocybin-containing mushrooms in clinical and therapeutic settings, from early psycholytic [[psilocybe-mexicana]]clinical trials. Based on [[jochen-gartz]]'s historical survey and contemporary research. See also [[psilocybin-mushroom-chemistry]] for pharmacological details.
 ## Early Clinical History (1950s-1970s)
 ### Discovery and Early Research
 [[albert-hofmann]] isolated psilocybin from Psilocybe mexicana specimens in 1958 at Sandoz Laboratories in Basel, Switzerland. Sandoz began marketing psilocybin under the brand name Indocybin as an investigational drug for psychiatric research. From 1958 to the mid-1960s, over 1000 clinical papers were published on the therapeutic use of psilocybin, LSD, and related compounds.
@@ -104,8 +104,7 @@ fMRI studies (primarily from Carhart-Harris at Imperial) reveal:
 - Identify insights and behavioral changes
 - Develop action plans based on insights
 - Support long-term integration of new perspectives
-## Gartz on the Promise and Perils
-Gartz noted that early European researchers documented both remarkable therapeutic successes and significant challenges:
+## Gartz on the Promset-and-settingGartz noted that early European researchers documented both remarkable therapeutic successes and significant challenges:
 - **Therapeutic window:** Benefits were most pronounced when psilocybin was used as an adjunct to psychotherapy, not as a standalone treatment
 - **Importance of set and setting:** European researchers consistently emphasized that the therapeutic context (relationship with therapist, physical environment, music) was as important as the pharmacological agent
 - **Long-term follow-up:** The best studies tracked patients for months to years, finding sustained benefits in many cases

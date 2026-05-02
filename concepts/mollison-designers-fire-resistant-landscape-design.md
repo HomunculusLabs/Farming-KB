@@ -1,13 +1,11 @@
 ---
-title: Fire-Resistant Landscape Design
-tags:
+title: Fire-Resistant Landscapebill-mollison
   - fire-resilience
   - landscape-design
   - permaculture
   - wildfire
   - mollison-pdm
-date: 2026-04-25
-updated: 2026-04-25
+date: [[permaculture]]pdated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
@@ -83,7 +81,7 @@ Mollison describes multiple approaches to reducing fuel loads:
   skill, planning, and appropriate weather windows.
 - Grazing management: Livestock (particularly goats and cattle) consume
   grass and shrub fuels. Rotational grazing through fire-prone areas
-  before the fire season is highly effective.
+  before the ficompostingis highly effective.
 - Mechanical clearing: Slashing, mowing, or mulching to reduce fuel
   height and continuity. Best suited to Zone 1 and Zone 2.
 - Strategic pruning: Removing lower branches, dead wood, and ladder

@@ -17,11 +17,9 @@ Fungi can degrade a wide range of synthetic organic compounds including pesticid
 
 
 
-
 ## The Scale of the Problem
 
 Analysis of blood from the general population reveals dozens of industrial toxins, including 13 dioxins, 31 PCBs, several pesticides, and numerous heavy metals. Had similar analysis been done in the 1930s, only lead would have been detected. Most of these are a legacy of the chemical revolution. As Stamets writes: "As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment."
-
 
 
 
@@ -45,7 +43,6 @@ These non-specific enzyme systems give white rot fungi the ability to attack chl
 
 
 
-
 ## Pesticides
 
 Many classes of pesticides are susceptible to fungal degradation:
@@ -54,7 +51,6 @@ Many classes of pesticides are susceptible to fungal degradation:
 - **Organochlorines**: Subject to dechlorination by white rot fungal enzymes
 - **Carbamates**: Can be degraded through hydrolysis
 - **Herbicides**: Various herbicide compounds can be mineralized by selected fungal strains
-
 
 
 
@@ -77,7 +73,6 @@ The mycoremediation approach for persistent organic pollutants involves:
 
 
 
-
 ## Synergistic Species Approach
 
 Using a plurality of species creates a synergistic effect for more complete degradation of toxins. Different species secrete unique mixes of extracellular enzymes and acids. The art of this emerging science lies in the selection of species and their timely introduction.
@@ -88,10 +83,9 @@ Using a plurality of species creates a synergistic effect for more complete degr
 
 
 
-
 ## See Also
 
-- [[mycoremediation-overview]]
-- [[mycoremediation-petroleum-hydrocarbons]]
-- [[mycoremediation-heavy-metals]]
+- [[cotter-mycoremediation-overview]]
+- [[mycoremediation-of-petroleum-hydrocarbons]]
+- [[mycoremediation-heavy-metals-detailed]]
 - [[fungal-enzyme-systems-bioremediation]]

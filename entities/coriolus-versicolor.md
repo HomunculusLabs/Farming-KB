@@ -140,4 +140,3 @@ CO2.
 - [[phanerochaete-velutina]]
 - [[schizophyllum-commune]]
 - [[laccaria-bicolor]]
-

@@ -141,12 +141,8 @@ faster but cannot breed naturally.
   heavier breast meat).
 - Breast meat is 30-35% of carcass weight.
 
-## Breeding
+## Related
 
-- Heritage turkeys breed naturally. Broad-breasted require AI.
-- Turkey breeding season: March-June, triggered by increasing daylength.
-- Toms display (strut, fan tail, gobble) to attract hens.
-- Mating ratio: 1 tom per 8-10 hens.
-- Hens lay 10-15 eggs per clutch, may lay 40-100 per season.
-
-Related: [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]], [[black-soldier-fly-larvae-as-feed]]
+- [[chicken-keeping-guide]]
+- [[homestead-poultry-health]]
+- [[livestock-fencing-guide]]

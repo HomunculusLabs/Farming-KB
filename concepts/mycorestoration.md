@@ -83,7 +83,7 @@ inherently versatile.
 
 ## Mycofiltration Techniques
 
-[[mycofiltration]] installations use dense mats of mycelium grown on
+[[unknown-mycelium-mycofiltration]] installations use dense mats of mycelium grown on
 straw, wood chips, or other substrate materials to filter water. When
 water percolates through the mycelial mat, sediment is physically trapped
 by the dense hyphal network while dissolved contaminants are subjected to
@@ -125,6 +125,6 @@ remediation technologies.
 ## See Also
 
 - [[mycoremediation]]
-- [[mycofiltration]]
+- [[unknown-mycelium-mycofiltration]]
 - [[mycorrhizal-fungi]]
 - [[mycelial-networks]]

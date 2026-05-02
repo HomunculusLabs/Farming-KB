@@ -88,7 +88,7 @@ How yields endure is important. The concentration of yields into one short perio
 
 Fuel wood systems should be integrated with:
 
-- [[permaculture-designers-manual-keyline-design]] for water distribution to woodlots.
+- [[keyline-design]] for water distribution to woodlots.
 - [[permaculture-designers-manual-swale-design-detailed]] for moisture retention in fuel plantations.
 - [[permaculture-designers-manual-grazing-animals]] systems for understory management.
 - [[permaculture-designers-manual-chicken-tractors]] systems for pest control in woodlots.

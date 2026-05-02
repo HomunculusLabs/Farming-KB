@@ -4,7 +4,7 @@ type: chemical
 tags: [terpene, cannabis, sedative, anxiolytic, analgesic]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
+sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-wcannabis-sativaroduce.md]
 ---
 
 # Linalool
@@ -53,7 +53,7 @@ Linalool-rich cannabis preparations are commonly used for anxiety and stress rel
 
 ### Anxiolytic and Sedative Effects
 
-Linalool is one of the most extensively studied anxiolytic terpenes, with robust preclinical evidence. It enhances GABAergic neurotransmission by positive allosteric modulation of GABA_A receptors, similar to the mechanism of benzodiazepines but with a more favorable safety profile. Linalool also inhibits excessive glutamatergic excitation, which is implicated in anxiety, seizures, and excitotoxicity. This dual action on both GABA (inhibitory) and glutamate (excitatory) systems gives linalool a unique ability to restore neurotransmitter balance. Additionally, linalool modulates serotonin 5-HT1A receptor activity, contributing to its anxiolytic and antidepressant effects.
+Linalool is one of the most extensively studied anxiolytic terpenes, with robust preclinical evidence. It enhances GABAergic neurotransmission by positive allosteric modulation of GABA_A receptors, similar to the mechanism of benzodiazepines but with a more favorable safety profile. Linalool also inhibits excessive glutamatergic excitation, which iserotoninted in anxiety, seizures, and excitotoxicity. This dual action on both GABA (inhibitory) and glutamate (excitatory) systems gives linalool a unique ability to restore neurotransmitter balance. Additionally, linalool modulates serotonin 5-HT1A receptor activity, contributing to its anxiolytic and antidepressant effects.
 
 ### Analgesic Activity
 
@@ -65,7 +65,7 @@ Linalool demonstrates broad anti-inflammatory activity through inhibition of COX
 
 ### Neuroprotective Properties
 
-Linalool has shown significant neuroprotective effects in preclinical models. It protects neurons from excitotoxicity, reduces neuronal damage in models of cerebral ischemia and stroke, shows anti-Alzheimer's potential by reducing amyloid-beta aggregation and tau hyperphosphorylation, and demonstrates anti-convulsant properties in multiple seizure models.
+Linalool has shown significant neuroprotective effects in preclinical models. It protects neurons from excitotoxicity, reduces neuronal damage in models of cerebral ischemia and stroke, shows anti-Alzheimer's potential by reducing amyloid-beta aggregation and tau hyperphosphorylation, and decandida-albicansconvulsant properties in multiple seizure models.
 
 ### Antimicrobial Activity
 

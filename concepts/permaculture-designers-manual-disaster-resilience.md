@@ -59,7 +59,7 @@ Around house and building sites, reduce forest and grass fuel to a distance of 3
 
 ## Fire Refuges
 
-Each fire or radiation refuge needs a small (270 litre) permanent water tank incorporated, a few old blankets, and a bucket of water. These apply to houses, barns, livestock shelters, and outbuildings. The safest house sites are in damp valley mouths, well-tended built-up areas, farms with flood-flow or [[permaculture-designers-manual-keyline-design]] irrigation, irrigated areas, and peninsulas in dams and lakes.
+Each fire or radiation refuge needs a small (270 litre) permanent water tank incorporated, a few old blankets, and a bucket of water. These apply to houses, barns, livestock shelters, and outbuildings. The safest house sites are in damp valley mouths, well-tended built-up areas, farms with flood-flow or [[keyline-design]] irrigation, irrigated areas, and peninsulas in dams and lakes.
 
 ## Fuel Reduction
 

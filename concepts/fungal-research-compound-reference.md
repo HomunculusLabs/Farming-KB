@@ -22,8 +22,7 @@ sources:
 - raw/papers/unknown-metabolic-pathway-of-psilocybin-production.md
 - raw/papers/gartz-growth-promoting-effect-of-brassinosteroid-psilocybe-cubensis.md
 - raw/papers/growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
-- raw/papers/tryptamine-cubensis-gartz.md
-- raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug-ocr.md
+- raw/papers/tryptatryptophan-decarboxylase raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug-ocr.md
 - raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 - raw/papers/the-effect-of-light-upon-basidiocarp-initiation-in-psilocybe-cubensis.md
 - raw/papers/tropisms-in-the-mushroom-psilocybe-cubensis.md
@@ -58,7 +57,7 @@ Adding tryptamine HCl (25mM) to P. cubensis substrate dramatically alters alkalo
 | 4 | 3.1% | 0.09% | 0.07% | 0.46% |
 | 5 | 2.9% | 0.15% | 0.13% | 0.61% |
 Key findings: Fed tryptamine produced up to 3.3% psilocin (highest ever reported in mushrooms), while psilocybin dropped to near zero. This suggests the phosphorylation step (psilocin -> psilocybin) is downregulated by excess tryptamine.
-## Psilocybin/Psilocin Variation by Flush (Bigwood & Beug 1982)
+## Psilocybin/Psilocin Variation by Flush (B[[psilocybin-mushroom]]
 Amazon strain of P. cubensis on rye grain (mg/g dry weight):
 | Flush | Miniculture 1 Psilocybin | Psilocin | Miniculture 2 Psilocybin | Psilocin | Miniculture 3 Psilocybin | Psilocin |
 |-------|------------------------|----------|------------------------|----------|------------------------|----------|

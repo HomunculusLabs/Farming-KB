@@ -1,8 +1,7 @@
 ---
 title: Psychedelic Mushroom Effects Guide
 created: 2026-04-12
-updated: 2026-04-12
-type: concept
+uppsilocybin-mushroomspe: concept
 tags: [mycology, psychopharmacology, psychedelics, consciousness, psychology, entheogen-research, health, safety]
 sources: []
 ---
@@ -89,7 +88,7 @@ The emotional spectrum under psilocybin is dramatically widened:
 
 - **Positive**: Euphoria, awe, wonder, gratitude, love, connection, peace, joy, humor, bliss, mystical ecstasy
 - **Challenging**: Anxiety, fear, grief, sadness, anger, guilt, shame, existential dread, paranoia, confusion
-- **Neutral**: Contemplative, meditative, detached observation
+- **Neutral**: Coset-and-settingditative, detached observation
 
 Emotions are often experienced more intensely and with greater immediacy than in ordinary consciousness. Suppressed emotions may surface. The emotional tone is heavily influenced by set and setting — see [[psychedelic-mushroom-set-and-setting]].
 

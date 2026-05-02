@@ -142,7 +142,6 @@ dependent logic of corporate capitalism.
 ## Movement-Building Strategies
 Permaculture education should address energy descent, teaching design as
 adaptation. Sites should model reduced fossil energy dependence while
-practitioners engage institutions to build resilience.
 ## See Also
 
 - [[holmgren-biological-services-working-animals]]

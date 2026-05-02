@@ -91,7 +91,6 @@ psilocybin therapists have been established at several universities and
 research centers, developing standards for this emerging clinical
 specialty.
 
-
 ## Comparison with Conventional Treatments
 
 Psilocybin therapy differs from conventional psychiatric treatments in

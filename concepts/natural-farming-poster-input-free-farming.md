@@ -72,7 +72,7 @@ The input-free philosophy directly descends from Master Cho Han-Kyu's Korean Nat
 
 ## Connection to Fukuoka's Natural Farming
 
-While the poster's techniques are primarily from KNF, the underlying philosophy aligns with Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]]:
+While the poster's techniques are primarily from KNF, the underlying philosophy aligns with Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming]]:
 
 | Fukuoka Principle | MNFT Application |
 |-------------------|-----------------|

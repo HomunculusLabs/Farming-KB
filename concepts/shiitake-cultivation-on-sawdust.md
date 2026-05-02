@@ -113,5 +113,5 @@ from water sitting on mushroom surfaces.
 
 - [[mushroom-substrate-preparation]]
 - [[grain-spawn-production]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-fruiting-chamber-design-parameters]]

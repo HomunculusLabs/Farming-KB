@@ -79,7 +79,7 @@ fungi in Mexico, many in indigenous languages. Notable examples include:
 | apipiltzin | Nahuatl | kid / little boy | [[psilocybe-mexicana]] |
 | atkad | Zapotec | mayor / leader | [[psilocybe-zapotecorum]] |
 | di nizé taaya | Chatino | fungus of the genius | unknown |
-| shi thó | Mazatec | that eruptions thing | [[psilocybe-caerulescens]] |
+| shi thó | Mazatec | that eruptions thing | [[psilocybe-caerulescens-entity]] |
 | pajaritos | Spanish | little birds | [[psilocybe-mexicana]] |
 | san isidros | Spanish | St. Isidore (patron of agriculture) | [[psilocybe-cubensis]] |
 | derrumbes | Spanish | landslides | [[psilocybe-zapotecorum]] |

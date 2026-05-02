@@ -11272,3 +11272,12 @@
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[zygomycete-phylum-guide]]
 - [[zygomycota-phylogeny-classification-non-monophyletic]]
+- [[creep-deformation-high-temperature-materials]]
+- [[superconductivity]]
+
+- [[cleve-backster]]
+- [[crystal-structure-and-crystal-defects]]
+- [[mimosa-pudica]]
+- [[phase-ii-conjugation-reactions-drug-metabolism]]
+- [[reactive-oxygen-species-and-oxidative-stress]]
+- [[statistical-mechanics]]

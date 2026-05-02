@@ -82,3 +82,26 @@ Source: raw/papers/[[cannabis-concentrates-and-extracts]]-cannabis-alchemy.md
 - [[cannabis-reflux-extraction-apparatus]]
 - [[cannabis-high-volume-extraction]]
 - [[cannabis-ice-water-extraction]]
+
+## Practical Considerations and Limitations
+
+The isomerization reaction must be carefully controlled to maximize
+CBD-to-THC conversion while minimizing degradation products. Overheating
+leads to the formation of unwanted byproducts including cannabinol (CBN)
+from THC degradation, and various polymers and decomposition products
+that reduce overall potency and introduce harsh flavors. The ideal
+temperature window is narrow — typically 145-165°C for 30-90 minutes —
+and the reaction progress can be monitored by thin-layer chromatography
+(TLC) or, more precisely, by HPLC analysis of small samples taken
+during the reaction.
+
+The legal implications of isomerization vary significantly by jurisdiction.
+In the United States, the 2018 Farm Bill legalized hemp and its derivatives
+including CBD, but the DEA has taken the position that synthetically
+converted THC (even from legal CBD) is a Schedule I controlled substance.
+This legal ambiguity means that isomerization of CBD to THC exists in a
+regulatory gray area in many jurisdictions. For this reason, many
+small-scale processors focus on converting CBD to other non-psychoactive
+cannabinoids like CBC or CBG, which face fewer regulatory restrictions.
+The chemistry is essentially identical — only the catalyst and reaction
+conditions differ slightly for different target cannabinoids.

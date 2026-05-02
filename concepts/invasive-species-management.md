@@ -20,7 +20,7 @@ Not all non-native species are invasive. Invasive species share certain traits:
 - **Allelopathy**: Chemical suppression of competing plants
 ### Common Invasive Plants
 #### Forest and Woodland Invaders
-- **Japanese knotweed (Fallopia japonica)**: Bamboo-like stems; forms dense monocultures; root system can extend 30+ feet; extremely difficult to eradicate
+- **Japanese knotweed (Fallopia japonica)**: Bamboo-like stems; forms [[mycorrhizal-fungi]]s; root system can extend 30+ feet; extremely difficult to eradicate
 - **Garlic mustard (Alliaria petiolata)**: Biennial herb; produces allelopathic chemicals that kill mycorrhizal fungi; threatens forest understory
 - **Oriental bittersweet (Celastrus orbiculatus)**: Climbing vine that girdles and kills trees; displaces native bittersweet
 - **Japanese barberry (Berberis thunbergii)**: Thorny shrub that alters soil chemistry; creates favorable conditions for tick populations
@@ -119,6 +119,5 @@ Replace invasive ornamentals with native species that provide similar aesthetic 
 | Japanese barberry | Ninebark (Physocarpus opulifolius) | Attractive foliage; pollinator plant |
 | Butterfly bush | Joe-pye weed, New England aster | Native pollinator plants |
 | English ivy | Virginia creeper (Parthenocissus quinquefolia) | Native vine; fall color |
-| Japanese honeysuckle | Coral honeysuckle (Lonicera sempervirens) | Native; hummingbird plant |
-| Russian olive | Serviceberry (Amelanchier laevis) | Edible berries; multi-season interest |
+| Japanese honeysuckle | Coral honeysuckle (Lonicera sempervirens) | Native; hummingpollinator-habitatsian olive | Serviceberry (Amelanchier laevis) | Edible berries; multi-season interest |
 | Purple loosestrife | Swamp milkweed, blue flag iris | Native wetland plants; pollinator habitat |

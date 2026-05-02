@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cooking Techniques
+title: mushroom cooking techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -117,25 +117,24 @@ Preservation method that also creates flavor:
 - Pair with: cream, eggs, poultry, light wines, tarragon
 - Do not pair with vinegar or strong acids (masks flavor)
 
-### Porcini/Boletes (Boletus edulis group)
+### Porcini/Boletes ([[boletus-edulis]] group)
 - Rich, nutty, meaty flavor; the "king" of edible mushrooms
-- Check all boletes for blue staining (some are bitter or toxic)
-- Best methods: sauteing, drying, risotto, soups
+- Check all boletes for blue staining (some are bittlentinula-edodesest methods: sauteing, drying, risotto, soups
 - Pair with: pasta, rice, Parmesan, thyme, white wine
 - Dried porcini are culinary gold; rehydrate for stocks and sauces
 
-### Shiitake (Lentinula edodes)
+### Shiitake ([[lentinula-edodes]])
 - Smoky, umami-rich flavor; meaty texture
 - Remove and discard tough stems (save for stock)
-- Best methods: stir-fry, soup, drying, grilling caps
+- Best methods: stir-fry, soup, dryinoyster-mushrooms
 - Pair with: soy sauce, ginger, garlic, sesame oil, miso
 - Dried shiitake have deeper flavor than fresh; rehydrate before cooking
 - Both cultivated and wild shiitake available
 
-### Oyster Mushrooms (Pleurotus spp.)
+### [[oyster-mushrooms]] (Pleurotus spp.)
 - Mild flavor; tender texture; absorb other flavors readily
 - Trim tough base of cluster; tear into strips along grain
-- Best methods: quick saute, stir-fry, tempura, soups
+- Best methods:[[grifola-frondosa]]ir-fry, tempura, soups
 - Pair with: Asian flavors, butter, garlic, thyme, cream
 - King oyster (P. eryngii): much meatier; slice and sear like scallops
 
@@ -149,4 +148,3 @@ Preservation method that also creates flavor:
 ### Chicken of the Woods (Laetiporus sulphureus)
 - Chicken-like texture and mild flavor when young
 
-Related: [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]

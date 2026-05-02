@@ -17,7 +17,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 
 
-
 ## Taxonomy and Description
 
 *Suillus luteus* was first described by the French mycologist Pierre Bulliard in 1783 as *Boletus luteus* and was later transferred to the genus *Suillus* by Otto Kuntze in 1898. The genus name *Suillus* derives from the Latin word for "pig," referring to the oily, sometimes greasy appearance of the cap surface in many species. The specific epithet *luteus* means "yellow" in Latin, referring to the yellow pore surface and flesh.
@@ -32,13 +31,11 @@ The tubes are adnate to slightly decurrent, yellow to olive-yellow, and bruise s
 
 
 
-
 ## Distribution and Habitat
 
 *Suillus luteus* has a circumboreal distribution and is one of the most widely distributed ectomycorrhizal fungi associated with pines. It occurs throughout Europe, Asia, and North America, and has been introduced to the Southern Hemisphere through pine plantation forestry. In the Southern Hemisphere, the species is now naturalized in pine plantations in Australia, New Zealand, South America, and southern Africa, where it was inadvertently introduced with pine seedlings or soil.
 
 The species forms obligate ectomycorrhizal associations with two-needle pines (subgenus *Pinus*), including Scots pine (*Pinus sylvestris*), lodgepole pine (*P. contorta*), maritime pine (*P. pinaster*), and Monterey pine (*P. radiata*). It is particularly abundant in young pine plantations (5–25 years old) and in disturbed or open pine forests, where it often appears within a few years of tree establishment. The species is relatively tolerant of disturbed soils, low soil fertility, and moderate atmospheric pollution, which contributes to its success in plantation forestry.
-
 
 
 
@@ -60,7 +57,6 @@ A notable ecological feature of *S. luteus* is its tolerance of heavy metals, pa
 
 
 
-
 ## Edibility and Culinary Use
 
 *Suillus luteus* is an edible mushroom, though opinions on its culinary quality vary considerably among mycophagists. The slimy cap cuticle should be removed before cooking, as it can cause gastrointestinal discomfort in some individuals. The pore layer (tube surface) of mature specimens can become slimy and is generally removed as well. When properly prepared, the flesh has a mild, pleasant flavor and a soft texture.
@@ -73,13 +69,11 @@ The mushroom is best suited to drying, which concentrates its flavor and improve
 
 
 
-
 ## Importance in Forestry
 
 *Suillus luteus* plays a significant role in pine plantation forestry worldwide. Inoculation of nursery seedlings with *S. luteus* is a standard practice in many forestry programs, particularly for reforestation of disturbed sites, mine reclamation, and afforestation of marginal lands. The species' tolerance of disturbed soils, drought, and suboptimal growing conditions makes it an ideal mycorrhizal partner for plantation forestry in challenging environments.
 
 The species is also a valuable bioindicator of pine forest health and soil conditions. Its abundance and distribution patterns reflect soil nitrogen availability, moisture conditions, and the overall mycorrhizal community structure. Monitoring *S. luteus* populations can provide early warning of changes in forest ecosystem conditions.
-
 
 
 

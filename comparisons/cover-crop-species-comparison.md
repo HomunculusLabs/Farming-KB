@@ -93,6 +93,8 @@ For a first cover crop on a homestead garden, sow a **winter rye + hairy vetch +
 
 ## See Also
 
+- [[comparison-chop-and-drop-vs-cover-crops]]
+
 - [[fagopyrum-esculentum]]
 
 - [[cover-cropping-guide]] — Full guide with strategies, termination methods, and timing

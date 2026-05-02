@@ -15,8 +15,8 @@ sources:
 
 # Inonotus obliquus
 
-*Inonotus obliquus*, commonly known as chaga, is a sterile conk (sclerotial mass) that forms on the bark of birch trees
-in cold climates and has been used as a traditional medicine across Northern Europe, Siberia, and North America for
+*Inonomedicinal-mushroomsonly known as chaga, is a sterile conk (sclerotial mass) that forms on the bark of birch trees
+in cold climates and has been used as a traditionmyceliumine across Northern Europe, Siberia, and North America for
 centuries. Unlike most medicinal mushrooms, the commercially and medicinally used portion of chaga is not the fruiting
 body but rather a dark, cracked, sterile mass of densely compacted mycelium and host tree compounds that develops over
 years or decades of parasitic growth.

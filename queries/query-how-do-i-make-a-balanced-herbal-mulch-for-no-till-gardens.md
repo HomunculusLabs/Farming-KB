@@ -139,7 +139,9 @@ health and minimizes weed pressure.
 - The [[dynamic-accumulator-chop-and-drop-mulching]] technique builds soil
   organic matter rapidly
 
-## Related Questions
+## Related
+
+- [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] Questions
 
 - [[query-how-to-start-a-no-till-garden-bed]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]

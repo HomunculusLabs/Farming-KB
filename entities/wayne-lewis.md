@@ -35,13 +35,11 @@ American soil biologist and co-author (with [[jeff-lowenfels]]) of "Teaming With
 
 
 
-
 ## Role in the Teaming With Trilogy
 
 Lewis collaborated with Jeff Lowenfels as co-author of "Teaming With Microbes," the first book in Lowenfels' soil food web trilogy. While Lowenfels brought the gardening perspective and accessible writing voice, Lewis contributed the scientific rigor and soil biology expertise. The book was published with a foreword by [[elaine-ingham]], the soil microbiologist whose research on bacterial and fungal dominance in soils heavily influenced the book's framework.
 
 Lowenfels describes Lewis as "my good friend and business colleague" and credits him with bringing the scientific depth that made the book both accessible and authoritative. The trilogy was later completed with "Teaming With Nutrients" and "Teaming With Fungi," with Lowenfels noting that all three books are interrelated parts of understanding how plants, mycorrhizal fungi, other microbes, and nutrients interact in the soil.
-
 
 
 
@@ -68,11 +66,9 @@ Lowenfels describes Lewis as "my good friend and business colleague" and credits
 
 
 
-
 ## Impact
 
 "Teaming With Microbes" has been widely credited with popularizing the soil food web concept among home gardeners and small-scale farmers. It translated complex microbiological research into practical gardening advice, helping bridge the gap between academic soil science and hands-on cultivation practice.
-
 
 
 

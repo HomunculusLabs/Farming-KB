@@ -74,7 +74,7 @@ Well water or rainwater is ideal, as it naturally contains minerals and microorg
 The [[bacterial-vs-fungal-compost-teas]] comparison highlights the practical implications of microbial dominance for different growing situations.
 Bacterial teas are generally preferred for annual vegetables, brassicas, leafy greens, and early-stage cannabis growth in vegetative phase, where fast nutrient cycling is desired.
 Fungal teas are better suited for perennials, woody plants, fruiting and flowering cannabis, and established living soil systems where fungal networks drive nutrient delivery and disease suppression.
-The [[compost-tea-brewing-guide]] provides detailed recipes and ratios for both types, allowing growers to match their tea to their specific crop needs.
+The [[compost-tea-brewing]] provides detailed recipes and ratios for both types, allowing growers to match their tea to their specific crop needs.
 
 Application methods matter as much as brewing technique.
 Fungal compost tea is most effective when applied as a soil drench rather than a foliar spray, since the goal is to establish fungal populations in the root zone.
@@ -91,7 +91,7 @@ When applying as a soil drench, aim to saturate the root zone thoroughly, using 
 - Dechlorinate water before brewing per [[aact-ph-water-quality-ingham]] to avoid killing beneficial organisms
 - Brew at 60 to 75 degrees Fahrenheit for optimal fungal growth rates
 - Reference [[aact-troubleshooting-ingham]] if your tea smells off or plants show negative reactions after application
-- The [[compost-tea-brewing-guide]] provides complete recipes and equipment recommendations for beginners
+- The [[compost-tea-brewing]] provides complete recipes and equipment recommendations for beginners
 - Fungal teas applied during cannabis flowering can enhance terpene profiles and bud quality in living soil systems
 
 ## Related Questions

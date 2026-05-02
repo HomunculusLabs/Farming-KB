@@ -9,13 +9,12 @@ tags:
   - aseptic-technique
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/growing-psilocybe-azurescens.md
+sourcesfungal-sporest3rpz/wiki/raw/papers/growing-psilocybe-azurescens.md
 ---
 
 # Sterilization
 
-Sterilization is the process of completely eliminating all viable microorganisms, including bacteria, fungi (yeasts and molds), viruses, bacterial endospores, and fungal spores, from surfaces, equipment, substrates, and culture media. In mycology, sterilization is a fundamental requirement for establishing pure fungal cultures and preventing contamination during every stage of mushroom cultivation, from spore germination on [[malt-extract-agar]] to fruiting substrate preparation.
+Sterilization is the process of completely eliminating all viable microorganisms, including bacteria, fungi (yeasts and molds), [[mushroom-cultivation]]ndospores, and fungal spores, from surfaces, equipment, substrates, and culture media. In mycology, sterilization is a fundamental requirement for establishing pure fungal cultures and preventing contamination during every stage of mushroom cultivation, from spore germination on [[malt-extract-agar]] to fruiting substrate preparation.
 
 ## Methods
 

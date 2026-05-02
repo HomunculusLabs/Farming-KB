@@ -73,6 +73,26 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 5. **Add organic matter** — compost, mulch, cover crops
 6. **Avoid re-compacting** — permanent beds, no-till going forward
 
+
+## Assessment and Soil-Specific Strategies
+
+Compaction is measured using several practical indicators. A soil penetrometer
+provides quantitative readings of resistance (measured in psi or MPa), with
+values above 300 psi indicating root-limiting compaction for most crops.
+Visual indicators include standing water after rain, shallow root systems,
+stunted growth despite adequate fertility, and a platy or massive soil
+structure when digging. The "knife test" — pushing a field knife into the
+soil — gives a quick qualitative assessment: if it requires significant
+force below 6 inches, compaction is likely affecting root growth.
+
+Different soil types respond differently to compaction and remediation. Sandy
+soils compact under heavy traffic but recover quickly through root penetration
+and rainfall. Clay soils develop deep, persistent compaction pans that can
+persist for years without active intervention. Loamy soils are intermediate.
+Understanding your soil texture is essential for choosing appropriate
+solutions — a broadfork may be sufficient for sandy loam but inadequate for
+a dense clay hardpan, where multi-year cover cropping with deep-rooted
+species like daikon radish is more effective.
 ## Related
 - [[soil-food-web-structure]] — for the biology that prevents and heals compaction
 - [[bacterial-vs-fungal-soil]] — for how soil biology type affects structure

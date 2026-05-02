@@ -144,6 +144,6 @@ anticoagulant effects.
 
 ## See Also
 
-- [[substrate-preparation-mushroom-cultivation]]
+- [[cotter-substrate-preparation]]
 - [[sterilization-techniques-mushroom-cultivation]]
 - [[mushroom-growing-environments]]

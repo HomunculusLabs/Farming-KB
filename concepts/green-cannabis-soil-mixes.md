@@ -77,7 +77,7 @@ gardening shop. Soil is the cheapest part of your grow.
 
 ### Humus
 
-The organic constituent of soil formed by decomposition of plant
+The organic constituent of soil formed by [[decomposition]] of plant
 materials. Can be bought in bags at gardening shops. Most products try
 to eliminate bugs and living matter but this is not always 100%
 successful. Don't be surprised to find a worm or green fly.

@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - raw/papers/marijuana-botany-robert-connell-clarke.md
 ---
 # Cannabis Resin Production and Quality Traits (Clarke)
 

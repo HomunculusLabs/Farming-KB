@@ -131,4 +131,3 @@ widely distributed lineage.
 - - indicator of psilocin presence
 - - comprehensive field identification
 - - comparative data across species
-

@@ -132,6 +132,8 @@ establishment of the arbuscular [[mycorrhizal-symbiosis]].
 
 ## See Also
 
+- [[piriformospora-indica]]
+
 - [[mycorrhiza-induced-resistance-defense-priming]]
 - [[functional-genomics-arbuscular-mycorrhiza]]
 - [[mycorrhizal-signaling-strigolactones-myc-factors]]

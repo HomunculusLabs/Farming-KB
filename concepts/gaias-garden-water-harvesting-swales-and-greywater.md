@@ -14,12 +14,12 @@ Chapter 5 of [[toby-hemenway]]'s Gaia's Garden presents a comprehensive approach
 
 ## The Fivefold Path to Water Wisdom
 
-Hemenway introduces five complementary techniques that, used together, make ample water the "default condition" of the garden rather than drought:
+Hemenway introduces five complemensoil-lifeniques that, used together, make ample water the "default condition" of the garden rather than drought:
 
 1. High organic matter content in soil -- holds moisture, adds fertility, stores nutrients, boosts soil life, fluffs soil
 2. Deep mulching -- slows evaporation, cools soil, adds fertility, boosts soil life, smothers weeds
 3. Water-conserving plants -- need less water, survive drought
-4. Dense plantings -- shade soil, smother weeds
+4. [[permaculture]]ngs -- shade soil, smother weeds
 5. Soil contouring -- catches water, directs it where needed, helps plants survive wet and dry periods, builds humus, adds visual interest
 
 These techniques embody the permaculture principle that "each function is supported by many elements." If one system fails, others compensate. The case study of the Zemach garden in Los Alamos, New Mexico (designed by Ben Haggard) demonstrates this: the garden can last months between waterings in a high-desert climate with summer water bills up to $300/month, yet relies almost not at all on municipal water.
@@ -83,11 +83,11 @@ Hemenway recommends matching plants to available water through several strategie
 - Available for show, culinary herbs, medicinal herbs, food, and wildlife habitat
 
 ### Mediterranean-Climate Plants
-Unlike desert plants (which cannot survive wet roots), Mediterranean-climate plants are adapted to shifts between dry and wet seasons. They reduce water needs in nearly every climate during unpredictable dry spells. Examples include:
+Unlike desert plants (which cannot survive wet roots)[[ficus-carica]]ean-climate plants are adapted to shifts between dry and wet seasons. They reduce water needs in nearly ehippophae-rhamnoidesunpredictable dry spells. Examples include:
 
 - Almond (Prunus dulcis), fig (Ficus carica), olive (Olea europaea), grape (Vitis vinifera)
 - Pomegranate, quince (Cydonia oblonga), sea buckthorn (Hippophae rhamnoides)
-- Lavender (Lavandula angustifolia), rosemary (Rosmarinus officinalis), sage (Salvia spp.), oregano (Origanum vulgare), thyme, rue (Ruta graveolens)
+- Lavender (Lavandula angustifolia), rosemary (Rosmarinus officinalis), sage (Salvia spp.), oregangleditsia-triacanthos thyme, rue (Ruta graveolens)
 - Fennel (Foeniculum vulgare), borage (Borago officinalis), cardoon (Cynara cardunculus)
 - Hawthorn (Crataegus spp.), barberry (Berberis vulgaris), honey locust (Gleditsia triacanthos)
 - Blackberry (Rubus fruticosus), Oregon grape (Mahonia aquifolium), salal (Gaultheria shallon)

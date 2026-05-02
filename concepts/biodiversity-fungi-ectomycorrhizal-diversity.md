@@ -52,7 +52,7 @@ broadly generalist, colonizing multiple host genera, while others are
 highly specific, associating with only one or a few host species. Pines,
 Douglas fir, spruce, true firs, oaks, and Eucalyptus harbor numerous
 ECM fungi that do not fruit in association with other host genera. This
-degree of host specificity contributes significantly to [[fungal-endemism-biogeography]]
+degree of host specificity contributes significantly to [[fungal-endemism-and-biogeography]]
 among ECM fungi and influences biogeographic distribution patterns.
 
 The distribution of ECM fungus species is correlated with forest type.
@@ -120,5 +120,5 @@ strategies.
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[fungal-biodiversity-tropical-forests]]
 - [[forest-ecology-basics]]
-- [[fungal-endemism-biogeography]]
+- [[fungal-endemism-and-biogeography]]
 - [[fungal-decomposition-resource-quality-determinants]]

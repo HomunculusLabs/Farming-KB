@@ -15,8 +15,6 @@ fungi were long classified as plants and only gained their own kingdom in the
 late 20th century. The field encompasses taxonomy, genetics, biochemistry,
 ecology, and the applied uses of fungi in medicine, industry, and agriculture.
 
-
-
 ## Historical Development
 
 The formal study of fungi traces back to the 17th and 18th centuries, when
@@ -29,8 +27,6 @@ understanding of decay and fermentation. By the 19th century, figures like
 Elias Magnus Fries and Anton de Bary established systematic classifications
 and began to unravel fungal life cycles.
 
-
-
 ## The Fungal Kingdom
 
 Modern molecular phylogenetics has revealed that fungi are more closely
@@ -41,8 +37,6 @@ species, though only roughly 150,000 have been formally described. Major
 phyla include Ascomycota (sac fungi), Basidiomycota (club fungi),
 Zygomycota, and Glomeromycota, each with distinct reproductive strategies
 and ecological roles.
-
-
 
 ## Core Subdisciplines
 
@@ -61,8 +55,6 @@ fungal virulence mechanisms is critical for food security.
 **Industrial Mycology:** Exploitation of fungal metabolism for antibiotics
 (penicillin), enzymes, organic acids (citric acid), and fermented foods.
 
-
-
 ## Ecological Significance
 
 Fungi are primary decomposers in virtually all terrestrial ecosystems. Along
@@ -73,8 +65,6 @@ fungi and plant roots, are essential for the health of most terrestrial
 plants. An estimated 80 to 90 percent of land plants form mycorrhizal
 partnerships, receiving mineral nutrients in exchange for photosynthetic
 carbon.
-
-
 
 ## Modern Frontiers
 

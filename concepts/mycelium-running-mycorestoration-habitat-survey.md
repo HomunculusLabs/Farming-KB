@@ -145,5 +145,5 @@ recover and thrive.
 
 - [[mycoremediation-stamets-approach]]
 - [[mycelium-running-filtering-water-with-fungi]]
-- [[mycofiltration]]
+- [[unknown-mycelium-mycofiltration]]
 - [[mycoforestry]]

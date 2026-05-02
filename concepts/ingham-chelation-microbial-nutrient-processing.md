@@ -70,6 +70,37 @@ Compost tea delivers the organisms that perform biological chelation. When the s
 - Mycorrhizal fungi directly deliver chelated phosphorus and other minerals to plant roots
 - The plant receives nutrients in biologically appropriate, cell-ready forms
 
+## Specific Biological Chelating Compounds
+
+### Siderophores
+- Iron-binding molecules produced by bacteria and fungi under iron-limited conditions
+- Affinity for Fe3+ is extremely high — stronger than most synthetic chelators
+- Pseudomonas species produce pyoverdine and pyochelin siderophores that also chelate other metals
+- Mycorrhizal fungi produce siderophores that solubilize iron from mineral soil and deliver it directly to plant roots
+- Siderophore-mediated iron uptake is one of the primary reasons mycorrhizal plants show iron deficiency less frequently
+
+### Organic Acids
+- **Citric acid:** Common metabolic intermediate that chelates iron, manganese, and zinc. Produced abundantly by many soil fungi (Aspergillus, Penicillium species)
+- **Oxalic acid:** Chelates calcium and aluminum. Important in the weathering of calcium-containing minerals. Produced by many saprotrophic fungi and some plant roots (particularly buckwheat and spinach)
+- **Gluconic acid:** Produced by Pseudomonas and other rhizosphere bacteria. Particularly effective at solubilizing phosphorus from rock phosphate
+- **Malic acid:** Root exudate that chelates aluminum in acid soils, reducing aluminum toxicity. Also mobilizes phosphorus bound to iron and aluminum oxides
+
+### Amino Acids and Small Peptides
+- All 20 proteinogenic amino acids can function as chelators to varying degrees
+- Cysteine and histidine have particularly strong metal-binding properties due to their sulfur and nitrogen-containing side chains
+- Many rhizosphere bacteria release amino acids as part of general metabolism, incidentally chelating micronutrients
+- Glutathione (a tripeptide) is a potent intracellular chelator that binds heavy metals and plays a role in plant detoxification
+
+## Nutrient Availability and Soil pH
+
+The chelation mechanism explains why certain nutrients become unavailable at specific pH ranges:
+
+- **Iron deficiency** (common above pH 7.0): Iron precipitates as insoluble oxides and hydroxides. Synthetic chelators (EDDHA, EDTA) are often applied, but restoring microbial chelation through compost and AACT is more sustainable
+- **Manganese deficiency** (common above pH 6.5): Similar precipitation dynamics. Acidifying soil or restoring fungal communities can improve availability
+- **Phosphorus lockup** (common in alkaline soils): Calcium phosphate precipitates become unavailable. Fungal organic acids and siderophores can solubilize these fixed phosphorus compounds
+- **Micronutrient excess** (common in acid soils below pH 5.5): Aluminum, manganese, and iron become excessively soluble and toxic. Liming reduces toxicity by promoting precipitation, but also reduces microbial chelation activity
+
+
 ## See Also
 
 - [[chelated-nutrients]]

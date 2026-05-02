@@ -3,12 +3,12 @@
      3|     3|tags: [mycology, cultivation, tissue-culture, fungi]
      4|     4|date: 2026-04-28
      5|     5|updated: 2026-04-28
-     6|     6|sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+     6|     6|sources: [/Users/t3rpz/wiki/raw/papers/unknown-gromedicinal-mushroomsdicinal-mushrooms-s.md]
      7|     7|---
      8|     8|
      9|     9|# Agar Culture and Isolation Techniques
     10|    10|
-    11|    11|Agar culture is the foundation of advanced mushroom cultivation. Workimyceliummycelium on nutrient agar plates allows cultivators to isolate clean cultures,
+    11|    11|Agar culture is the foundamushroom-cultivationhroom cultivation. Workimyceliummycelium on nutrient agar plates allows cultivators to isolate clean cultures,
     12|    12|select for desirable traits, store genetics long-term, and expand inoculum
     13|    13|without the genetic variability inherent to spore-based methods. Mastery of
     14|    14|agar technique is the single most impactful skill upgrade for any mushroom
@@ -24,7 +24,7 @@
     24|    24|
     25|    25|## Agar Recipes
     26|    26|
-    27|    27|### Malt Extract Agar (MEA)
+ [[malt-extract-agar]]Malt Extract Agar (MEA)
     28|    28|
     29|    29|The standard, most widely used recipe:
     30|    30|- 10g light malt extract (DME)
@@ -68,7 +68,7 @@
     68|    68|7. Seal and store at room temperature; use within 2-4 weeks or refrigerate
     69|    69|   (sealed in bags) for up to 2 months. Dehydrated plates should be discarded.
     70|    70|
-    71|    71|## Inoculation Methods
+[[inoculation-methods]]oculation Methods
     72|    72|
     73|    73|### Spore Swab or Print
     74|    74|
@@ -102,7 +102,7 @@
    102|   102|by cutting a wedge from the leading edge and transferring to a fresh plate.
    103|   103|Repeat 2-4 times for a clean, isolated strain.
    104|   104|
-   105|   105|### Contamination Identification and Elimination
+ [[contamination-identification]]on Identification and Elimination
    106|   106|
    107|   107|Common agar contaminants and their appearance:
    108|   108|

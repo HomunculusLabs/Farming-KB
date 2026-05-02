@@ -28,7 +28,7 @@ arsenite was first suggested by Challenger in 1945, establishing the
 foundational understanding of metalloid biomethylation. The pathway
 involves the transfer of methyl groups as carbonium ions (CH3+) mediated
 by S-adenosylmethionine (SAM). This SAM-dependent transmethylation is the
-primary mechanism by which fungi convert inorganic metalloid species into
+primary mechanism by which [[gliocladium-roseum]]ganic metalloid species into
 organometallic derivatives with altered physical and chemical properties.
 
 ## Arsenic Methylation
@@ -126,7 +126,7 @@ There are few detailed studies on fungal biomethylation of metals and
 metalloids beyond arsenic, selenium, mercury, and tellurium. The full
 range of elements susceptible to fungal biomethylation remains to be
 characterized. The ecological significance of fungal biomethylation in
-natural environments is not fully understood, particularly regarding
+natural envirobioremediation-strategiesstood, particularly regarding
 rates of methylation under field conditions and the fate of volatile
 organometallic products after release into the atmosphere.
 

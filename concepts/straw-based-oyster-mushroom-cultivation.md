@@ -123,5 +123,5 @@ with the first flush producing 60-70% of total yield.
 - [[mushroom-training-oyster-straw-cultivation]]
 - [[oyster-mushroom-pasteurized-straw-cultivation]]
 - [[mushroom-training-straw-mushroom-cultivation]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]

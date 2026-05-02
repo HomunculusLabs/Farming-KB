@@ -137,12 +137,6 @@ Elderflowers:
 - Powdery mildew: Ensure good air circulation; resistant varieties available.
 - Birds: Net bushes as berries ripen, or plant enough to share.
 - Tomatoes and peppers nearby can attract pests to elderberries -- maintain
-  spacing.
-## Yields
-- Year 2: Small harvest (1-2 lbs per plant)
-- Year 3+: 8-15 lbs of berries per mature plant
-- A mature hedgerow can produce substantial quantities for family use and
-  value-added products
 ## See Also
 
 - [[root-crops-growing-guide]]

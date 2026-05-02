@@ -30,7 +30,7 @@ In England, John Parkinson's "Theatricum Botanicum" (1640) includes details abou
 ### The Green Park Incident (1799)
 The earliest documented case of [[psilocybe-semilanceata]] intoxication occurred on October 3, 1799, in London's St. James's Green Park. An impoverished family collected mushrooms they mistook for edible species and prepared them for a meal. The symptoms, as described by E. Brande:
 **Edward, eight years old:** Attacked with fits of immoderate laughter that could not be restrained by threats of his parents. This was followed by vertigo and stupor, dilated pupils "nearly to the circumference of the cornea," variable pulse, cold livid feet, and abdominal pain. When roused and questioned, he answered "yes" or "no" indifferently, without relation to the question asked.
-**The father, aged forty:** Experienced vertigo and complained that everything appeared black, then wholly [the account continues with additional symptoms].
+**The father, aged forty:** Experienced vertigo and complained that [[psilocybin]] appeared black, then wholly [the account continues with additional symptoms].
 ### The Brande Account as Cultural Document
 The Brande account is remarkable not only as the earliest documented psilocybin intoxication in Europe, but as evidence of how European culture framed mushroom intoxication:
 - The symptoms are described entirely in terms of pathology (poisoning, not experience)
@@ -67,7 +67,7 @@ The frenzy of legislative attempts to control lsd-history|LSD resulted in ever t
 ### The "Official Mycophobia"
 Gartz identifies the result as an "official mycophobia" -- a misguided, yet entrenched policy that:
 - Still prevailed at the time of his writing
-- Effectively prevents the scientific investigation of promising potential applications for psilocybin and other alkaloids
+- Effectively prevents the scientific investigation of psandoz-pharmaceuticalslications for psilocybin and other alkaloids
 - Was established by the anti-drug legislative framework of the mid-1960s
 - Continues despite massive research efforts that began when Sandoz Pharmaceuticals distributed psilocybin to qualified scientists
 ## The Sandoz Distribution Program

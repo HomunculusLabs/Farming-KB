@@ -63,7 +63,7 @@ Psilocybin, Powell argues, can temporarily reverse this perceptual shift, restor
 
 ## Indigenous Ecological Knowledge
 
-The Aztec relationship with mushrooms provides what Powell calls "testimony to the Aztec's sacred links to the natural environment, with its varied potent botanical resources."
+The Aztemazatec-mushroom-traditionoms provides what Powell calls "testimony to the Aztec's sacred links to the natural environment, with its varied potent botanical resources."
 
 Mesoamerican codices show gods clutching mushrooms, suggesting a worldview in which psychoactive plants were understood as integral to the spiritual ecology of the world.
 
@@ -91,7 +91,7 @@ In each case, the mushroom is understood not as a recreational substance but as 
 
 ## The Mushroom as Environmental Teacher
 
-Stamets has argued that the production of psilocybin has proven to be a competitive evolutionary advantage, "propelling [mushrooms] to the front lines of evolution."
+Stamets has argued that the production of psilocybin has proven to be [[stoned-ape-hypothesis]]onary advantage, "propelling [mushrooms] to the front lines of evolution."
 
 From this perspective, the psychoactive properties of mushrooms are not incidental but serve an ecological function — perhaps in modulating the behavior of the animals that disperse their spores, fostering a relationship of mutual benefit.
 

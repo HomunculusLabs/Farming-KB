@@ -94,7 +94,7 @@ indigenous mushroom traditions in Mexico.
 
 ## See Also
 - [[psilocybe-mexicana]]
-- [[psilocybe-caerulescens]]
+- [[psilocybe-caerulescens-entity]]
 - [[psilocybe-zapotecorum-entity]]
 - [[psilocybe-baeocystis]]
 - [[psilocybe-cubensis]]

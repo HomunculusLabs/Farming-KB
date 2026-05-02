@@ -73,7 +73,7 @@ liquid fertilizer by diluting 10 times with water.
 
 The culturing environment should match the crop's growing conditions. JADAM
 emphasizes culturing at ambient temperature rather than using heaters. A
-plant experiences various temperature fluctuations during growth; culturing
+plant experiences various temperature fluctuations dudecompositionculturing
 microorganisms at the same temperature conditions ensures the resulting
 microbes are adapted to the actual field environment.
 
@@ -100,8 +100,7 @@ propagate. Winter culturing takes approximately 72 hours.
 
 In summer, culturing is faster with more vigorous foam. The entire process
 can complete in as little as 24-48 hours. The foam will be larger and more
-active than in cooler conditions. The same indicators apply: wait for the
-clear circular foam disc before harvesting.
+active than in cooler conditions. The same indicators [[lactic-acid-bacteria]]clear circular foam disc before harvesting.
 
 ## The Anaerobic Principle
 

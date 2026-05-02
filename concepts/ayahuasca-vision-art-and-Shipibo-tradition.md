@@ -13,15 +13,9 @@ sources:
 
 
 
-
-
-
 ## Overview
 
 Pablo Amaringo's "[[ayahuasca-visions]]" is a landmark work of visionary art that documents the extraordinary visual experiences produced by the Amazonian ayahuasca brew. Amaringo, a former vegetalista (plant-healer) from the Ucayali region of Peru, painted hundreds of detailed visions depicting the spirit world encountered through ayahuasca, providing an unparalleled visual record of Amazonian shamanic cosmology.
-
-
-
 
 
 
@@ -31,9 +25,6 @@ Pablo Amaringo's "[[ayahuasca-visions]]" is a landmark work of visionary art tha
 Pablo Amaringo (1938-2009) was born in the Peruvian Amazon and became a vegetalista -- a practitioner of traditional plant medicine -- before dedicating his life to painting the visions he had received during ayahuasca ceremonies. His paintings are characterised by extraordinary detail, vivid colour, and dense imagery depicting spirits, plant teachers, mythological beings, and cosmic landscapes.
 
 Amaringo's fundamental belief: "Every tree, every plant, has a spirit. People may say that the plant has no mind. I tell them that the plant is alive and conscious. A plant may not talk, but there is a spirit in it that is conscious, that sees everything, which is the soul of the plant, its essence, what makes it alive."
-
-
-
 
 
 
@@ -53,9 +44,6 @@ The preparation requires strict dietary discipline: no salt, sugar, or bitter fo
 
 
 
-
-
-
 ## The Shipibo Tradition
 
 Amaringo's paintings depict Shipibo vegetalistas in trance, overwhelmed by visions in which the walls of their house disappear and they find themselves in a jungle populated by the "mothers of the plants" -- the guardian spirits of each medicinal species. Each plant-teacher has its own spirit:
@@ -67,15 +55,9 @@ Amaringo's paintings depict Shipibo vegetalistas in trance, overwhelmed by visio
 
 
 
-
-
-
 ## Icaros
 
 Icaros are power songs -- melodic chants whistled or sung during ayahuasca ceremonies. The vegetalista whistles icaros while preparing the brew and during the ceremony itself. These songs are understood not as human compositions but as teachings received from the plant spirits. The ayahuasca spirit itself teaches "sad and melancholic" songs, "as if played on harps and quenas" (Incaic flutes).
-
-
-
 
 
 
@@ -86,6 +68,17 @@ Amaringo describes three highest degrees in the traditional vegetalista medicine
 
 
 
+
+## Iconography and Visual Language
+
+Shipibo ayahuasca art uses a distinctive visual vocabulary of interlocking geometric patterns known as *kené*. These designs are not merely decorative — each pattern corresponds to specific songs, spirits, or aspects of the ayahuasca experience. The patterns are described as being "seen" during visionary states and then transcribed onto textiles, pottery, and body painting. The geometric complexity of kené reflects the Shipibo understanding that reality itself is composed of vibrating patterns and frequencies that can be perceived under the influence of ayahuasca. Contemporary Shipibo artists have adapted these traditional designs for international audiences, creating paintings on canvas that preserve the visionary content while making it accessible to collectors and galleries.
+
+
+
+
+## The Healing Dimension
+
+In Shipibo cosmology, illness is understood as a disruption in the pattern of a person's being — literally a "pattern that has been broken." The healer, or *onán*, works to restore the patient's pattern by singing the corresponding icaros and sometimes painting the corrective patterns directly on the patient's body. This practice, sometimes called "animated design" or *chová*, involves tracing geometric patterns on the patient's skin while singing, with the intention of restructuring the patient's energetic pattern. The integration of visual art, music, and healing in a single practice distinguishes the Shipibo tradition from most other ayahuasca-using cultures.
 
 
 

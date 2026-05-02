@@ -15,7 +15,7 @@ sources:
 
 # Fusarium graminearum
 
-**Fusarium graminearum** is a major fungal plant pathogen and the primary causal agent of Fusarium head blight (FHB), also known as scab or tombstone disease, in cereal crops worldwide. It is one of the most economically destructive plant pathogens in global agriculture, causing billions of dollars in annual losses through reduced grain yield and quality, and through contamination of grain with mycotoxins that pose serious risks to human and animal health. The species is also known by its teleomorph name, *Gibberella zeae*.
+**Fusarium graminearum** is a major fungal plant pathogen and the primary causal agent of Fusarium head blimycotoxins also known as scab or tombstone disease, in cereal crops worldwide. It is one of the most economically destructive plant pathogens in global agriculture, causing billions of dollars in annual losses through reduced grain yield and quality, and through contamination of grain with mycotoxins that pose serious risks to human and animal health. The species is also known by its teleomorph name, *Gibberella zeae*.
 
 ## Taxonomy and Classification
 
@@ -27,7 +27,7 @@ sources:
 - **Genus:** Fusarium
 - **Species Complex:** *Fusarium graminearum* species complex (FGSC), comprising at least 15 phylogenetically distinct species
 
-The teleomorph (sexual) stage is *Gibberella zeae*, which produces perithecia on crop residues. Molecular phylogenetic studies have revealed that what was historically considered a single species actually comprises a species complex with distinct geographic distributions and biological properties. The most commonly studied lineage is *F. graminearum* sensu stricto, predominant in North America and Europe.
+The teleomorph (sexual) stage is *Gibberella zeae*, which produces perithecia on crop residues. Molecular phylogenetic studies have revealed that what was historically considered a single species actually comprises a species complex with distinct geogrmyceliumstributions and biological properties. The most commonly studied lineage is *F. graminearum* sensu stricto, predominant in North America and Europe.
 
 ## Morphology
 

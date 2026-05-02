@@ -130,7 +130,7 @@ Oyster mushrooms are primary decomposers — among the first organisms to coloni
 ## See Also
 
 - [[mushroom-species-guide]] for comparison with other species
-- [[mycoremediation-of-oil-spills]] for remediation applications
+- [[mycoremediation-oil-spills]] for remediation applications
 - [[straw-cultivation-methods]] for detailed cultivation
 - [[mycopesticides]] for related biocontrol applications
 - [[mushroom-cultivation-basics]] for general cultivation

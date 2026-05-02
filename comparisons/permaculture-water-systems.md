@@ -88,6 +88,8 @@ Start with rainwater harvesting (tanks) and graywater reuse (branched drain to m
 
 ## See Also
 
+- [[comparison-keyline-vs-contour-swale]]
+
 - [[swale-design-construction]] — Contour mapping, sizing, construction, and planting
 - [[graywater-systems]] — System types, soap considerations, mulch basin design
 - [[rainwater-harvesting-systems]] — Catchment calculation, tanks, filtration, distribution

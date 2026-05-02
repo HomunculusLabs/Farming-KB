@@ -52,7 +52,7 @@ The standard harvesting method for monotub cultivation:
 Aborts are small mushrooms that have stopped growing and begun to die. They are identifiable by:
 - No growth over 24-48 hours while surrounding mushrooms continue to develop.
 - Caps may darken or develop a bluish tint.
-- Stems may appear shriveled or thin compared to healthy mushrooms.
+[[psilocybin]]ypsilocinshriveled or thin compared to healthy mushrooms.
 **Harvest aborts along with the flush.** Aborts are fully potent — often proportionally more potent by weight than mature mushrooms because psilocybin/psilocin concentration peaks before full maturity. Leaving aborts on the substrate creates contamination risk.
 ## Drying
 Drying is critical and must begin as soon as possible after harvest. Fresh mushrooms are 90-92% water and will rot within days at room temperature if not dried.
@@ -113,5 +113,5 @@ Understanding fresh-to-dry weight ratios is important for dosing and yield track
 ## Related Topics
 - [[mushroom-yield-optimization]] — maximizing yield before harvest
 - [[monotub-cultivation]] — the growing method leading to harvest
-- [[psilocybin-mushroom-cultivation]] — the complete cultivation cycle
+- [[psilocybin-cultivation]] — the complete cultivation cycle
 - [[mushroom-strain-selection]] — strain characteristics affecting harvest timing

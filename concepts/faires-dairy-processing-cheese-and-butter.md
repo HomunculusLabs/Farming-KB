@@ -1,14 +1,14 @@
 ---
-title: Faires Dairy Processing Cheese and Butter
+title: faires dairy processing cheese and butter
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: homesteading, self-sufficiency]
+tags: [[homesteading]], self-sufficiency]
 sources:
-  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
+  - "raw/papers/[[nicole-faires]]-the-ultimate-guide-to-[[natural-farming]]-and-sustainable-l"
 ---
 
-# Faires Dairy Processing Cheese and Butter
+# faires dairy processing cheese and butter
 
 Dairy processing on the homestead transforms fresh milk into a variety of products with extended shelf life, greater nutritional density, and diverse culinary applications. From simple butter and yogurt to aged cheeses, these processing skills are essential for any household keeping goats or cows. The Faires guide covers milking, butter-making, yogurt production, and cheese-making as part of a comprehensive approach to on-site food processing.
 

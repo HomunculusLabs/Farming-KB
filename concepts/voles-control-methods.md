@@ -1,22 +1,9 @@
 ---
-title: Vole Control Methods
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags:
-  - pest-control
-  - voles
-  - trapping
-  - predators
-  - integrated-pest-management
-  - holzer
-sources:
-  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
----
+ti
 
 # Vole Control Methods
 
-Voles are among the most damaging garden pests, capable of destroying root crops, fruit trees, and garden beds through their tunneling and feeding. Sepp Holzer addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
+Voles are among the most damaging garden pests, capable of destroying root crops, fruit trees, and garden beds through their tunneling and feeding. [[sepp-holzer]] addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
 
 
 
@@ -86,6 +73,8 @@ Holzer stresses that complete eradication is neither possible nor desirable. The
 
 ## See Also
 
-- [[slugs-and-snails-organic-control]] -- Other common garden pest control methods
-- [[integrated-pest-management]] -- Broader IPM strategies
-- [[animal-manure-guide]] -- Soil health as pest prevention
+- [[slugs-and-snails-organic-control]] — Other common garden pest control methods
+- [[integrated-pest-management]] — Broader IPM strategies
+- [[animal-manure-guide]] — Soil health as pest prevention
+- [[natural-farming-pest-management]] — Fukuoka-style pest control approaches
+- [[cervantes-companion-planting-pest-deterrent]] — plants that deter voles and other rodents

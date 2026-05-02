@@ -143,9 +143,6 @@ that Santa Claus is not real, reindeer do not fly, and there is no present
 under the tree is a disinformation campaign geared towards conditioning the
 young mind to be unable to comprehend the deeper meanings. The psyche is
 scarred deeply when it is forced to deal with realizing it has accepted a
-falsehood as truth. When it deals with plants and things found under trees,
-subliminally, one armors oneself against these concepts.
-
 ## See Also
 
 - [[arthur-heffter]]

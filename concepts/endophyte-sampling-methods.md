@@ -85,7 +85,7 @@ Molecular sequence approaches are increasingly used for:
 
 ## See Also
 
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-culture-preservation-methods]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[microfungi-wood-plant-debris-survey]]

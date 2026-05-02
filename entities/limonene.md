@@ -1,5 +1,5 @@
 ---
-title: Limonene
+title: limonene
 type: chemical
 tags: [terpene, cannabis, citrus, anti-inflammatory, mood-elevation]
 date: 2026-04-28
@@ -57,7 +57,7 @@ Limonene-dominant cultivars are typically classified as sativa-leaning in tradit
 
 ### Anxiolytic and Antidepressant Effects
 
-Limonene has demonstrated significant anxiolytic and antidepressant effects in preclinical studies through serotonin and dopamine modulation, GABAergic activity, and HPA axis regulation reducing stress-related cortisol elevation.
+Limonene has demonstrated significant anxiolytic and antidepressant effects in preclinical studies through [[serotonin]] and dopamine modulation, GABAergic activity, and HPA axis regulation reducing stress-related cortisol elevation.
 
 ### Anti-inflammatory Activity
 

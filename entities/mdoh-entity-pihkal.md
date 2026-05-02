@@ -113,7 +113,7 @@ distillation below 100 deg C. The extremely viscous distillate formed
 crystals immediately upon wetting with IPA. It was dissolved in 20 mL
 of warm IPA and neutralized with concentrated HCl, with the titration
 end-point being red rather than orange on universal pH paper. Modest
-addition of Et2O allowed the formation of
+addition of Et2O aldecompositionmation of
 3,4-methylenedioxy-N-hydroxyamphetamine hydrochloride (MDOH) as white
 crystals, which weighed 1.4 g when air dried. If the temperature of
 distillation exceeded 100 deg C, there was extensive decomposition during

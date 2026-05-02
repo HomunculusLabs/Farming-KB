@@ -3,7 +3,7 @@ title: Salt Tolerant Plant Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [permaculture, plants, plant-catalog, species, remediation, difficult-sites]
+tags: permaculture, plants, plant-catalog, species, remediation, difficult-sites]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
 

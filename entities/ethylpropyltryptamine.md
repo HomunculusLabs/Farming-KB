@@ -15,7 +15,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Chemistry
 
 - **IUPAC**: 4-Hydroxy-N-ethyl-N-propyl-1H-indole-3-ethanamine
@@ -24,7 +23,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - The 4-hydroxyindole core is shared with psilocin (4-HO-DMT); the asymmetric N-substitution (ethyl + propyl) is the defining feature
 - Structurally sits between 4-HO-DET (diethyl) and 4-HO-DPT (dipropyl) in the N-alkyl substitution series
 - Freebase is an oily liquid; typically encountered as the fumarate salt for stability
-
 
 
 
@@ -41,14 +39,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Dosing & Duration
 
 - Limited human data; estimated active dose range approximately 10–25 mg (oral) based on structural analogies
 - Expected onset: 20–60 minutes (oral)
 - Expected duration: 4–7 hours (oral), intermediate between 4-HO-DMT (~4 hr) and 4-HO-DPT (~8 hr)
 - Onset and duration consistent with the intermediate N-alkyl chain length
-
 
 
 
@@ -66,13 +62,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Context in TIHKAL
 
 - Documented in the "What's New" or later commentary sections of TIHKAL as part of the broader exploration of 4-substituted N-alkyl tryptamines
 - Shulgin's research program systematically explored the structure-activity relationships of tryptamine substitutions; 4-HO-EPT represents one data point in the N-alkyl chain length series
 - Part of the intellectual lineage from psilocin (4-HO-DMT) → 4-HO-DET → 4-HO-DPT with mixed ethyl/propyl substitution
-
 
 
 
@@ -84,6 +78,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Likely controlled under tryptamine analogue acts in many jurisdictions
 - No known deaths or serious adverse events attributed specifically to 4-HO-EPT in the literature
 - As with all research chemicals, purity, dose accuracy, and the absence of pharmacokinetic data represent the primary risk factors
+
+
+
+
 
 ## See Also
 

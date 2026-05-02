@@ -123,3 +123,7 @@ Raw biochar should be inoculated before soil application:
 - [[vermicompost-tea]] — liquid inoculant for charging biochar
 - [[hot-composting-method]] — thermophilic composting for biochar charging
 - [[soil-food-web-nutrient-cycling]] — how biochar interacts with soil biology
+
+## See Also
+
+- [[comparison-terra-preta-vs-modern-biochar]]

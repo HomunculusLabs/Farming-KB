@@ -1,6 +1,6 @@
 ---
 title: Cultural Defense and Criticism of Psychedelic Use
-tags: [psilocybin, culture, history, Koestler, Graves, Huxley, criticism, powell]
+tags: [psilpsilocybinlture, history, Koestler, Graves, Huxley, criticism, powell]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-psilocybin-solution-by-simon-g-powell.md]
@@ -69,17 +69,16 @@ Graves predicted that a once sacred substance entrusted to an elite few
 would soon be sought out by jaded sensation seekers, though they would
 likely be dissatisfied since psilocybin was not a drug in the stupefying
 sense. His warning remains relevant: whoever prepares to eat
-hallucinogenic mushrooms should take as careful stock of their mental and
-moral well-being as initiates took before attending the Eleusinian
-Mysteries. The peculiar virtue of psilocybin, the power to enhance
+hallucinogenic mushrooms should take as careful stock of their maldous-huxleyal well-being as initiates took before attending the Eleusinian
+Mysteries. The peculiar virtue of [[psilocybin]], the power to enhance
 personal reality, turns Know Thyself into a practical precept.
 
 ## Huxley's Optimistic Vision
 
-Aldous Huxley explicitly summed up the early mood of optimism surrounding
+[[aldous-huxley]] explicitly summed up the early mood of optimism surrounding
 psychedelics in a 1961 speech to psychologists. He predicted that
 psychological science would inevitably be confronted with data on the
-visionary experiences induced by substances like psilocybin. If these
+visionary experiences induced by substances like [[psilocybin]]. If these
 experiences were cooperated with, and if some deep meaning was ascertained
 and acted upon, this could be crucial in changing the lot of humanity.
 
@@ -96,12 +95,12 @@ faulted on its technological methodology.
 Both Wasson and Graves expressed dismay at the hordes of thrill seekers
 and riff-raff descending upon Mexico in search of the divine mushrooms.
 Graves remarked that jaded sensation seekers would likely be dissatisfied
-with psilocybin since it was not a stupefying drug like alcohol. This
+with [[psilocybin]] since it was not a stupefying drug like alcohol. This
 reaction to popular interest was inevitable, but Powell argues that to
 deny the mushroom to the masses is an impractical, short-sighted reaction
 to basic human nature.
 
-Knowledge of psilocybin's potentially supra-mundane power is best laid
+Knowledge of [[psilocybin]]'s potentially supra-mundane power is best laid
 open to all who might wish to seek it out. If this be considered casting
 pearls before swine, so be it. The end justifies the means: a culture
 transformed with revitalized veneration for the natural systems of the

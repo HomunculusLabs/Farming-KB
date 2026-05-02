@@ -146,4 +146,6 @@ identified as female.
   management.
 
 ## See Also
+
+- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

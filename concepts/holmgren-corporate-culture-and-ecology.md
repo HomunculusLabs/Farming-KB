@@ -98,7 +98,7 @@ From *Permaculture: Principles and Pathways Beyond Sustainability* by David Holm
 - [[endophytic-fungi-diversity-and-ecology]]
 - [[holmgren-energy-descent-culture-adaptation]]
 - [[permaculture-principle-integrate-rather-than-segregate]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[holmgren-household-economy-and-self-reliance]]
 - [[holmgren-genetic-engineering-and-evolution]]

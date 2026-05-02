@@ -99,6 +99,6 @@ into specific fungal taxa, illuminating their trophic roles.
 
 - [[fungal-biodiversity-estimates]]
 - [[mycorrhizal-symbiosis]]
-- [[fungal-secondary-metabolites]]
+- [[bloomfield-fungal-secondary-metabolites]]
 - [[soil-fungi-and-carbon-cycling]]
 - [[endophytic-fungi]]

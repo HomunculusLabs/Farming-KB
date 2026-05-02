@@ -13,7 +13,7 @@ Before mechanical refrigeration, ice houses and spring houses were the
 primary methods of keeping food cold. Ice houses stored winter-harvested
 ice for year-round cooling, while spring houses used the naturally cool
 temperature of groundwater springs. Both remain viable options for the
-off-grid homestead seeking low-tech food preservation.
+off-grid homestead seeking low-tech food [[homesteading-food-preservation|preservation]].
 
 ## Ice Houses
 
@@ -141,14 +141,8 @@ chill food stored in the structure.
   directly in the flowing water (in sealed containers)
 - Maintain 45-55F — sufficient for dairy, eggs, and short-term meat storage
 - Not cold enough for freezing — use in combination with ice from an
-  [[root-cellaring-guide|ice house]] or root cellar for complete
+  [[root-cellaring-guide|ice house]] or root [[earth-cellar-construction|cellar]] for complete
   preservation
 
 **Other uses:**
 - Cool storage for beverages
-- Milk cooling before processing
-- Fermentation temperature control
-
-Related: [[mollison-cool-climate-settlement-and-house-design]]
-
-Related: [[root-cellar-design-and-construction]]

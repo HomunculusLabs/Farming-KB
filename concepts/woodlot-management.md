@@ -1,13 +1,13 @@
 ---
-title: Woodlot Management
+title: woodlot management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, forestry, sustainability, ecology, safety]
+tags: [[homesteading]], forestry, sustainability, ecology, safety]
 sources: []
 ---
 
-# Woodlot Management
+# woodlot management
 
 A woodlot is a managed forest or wooded area on the homestead that provides firewood, timber, habitat, and ecosystem services. Sustainable woodlot management balances harvest with regeneration, ensuring that the forest continues to produce wood and support wildlife indefinitely. Even a small woodlot of 5-10 acres can supply a homestead's heating needs with proper management.
 

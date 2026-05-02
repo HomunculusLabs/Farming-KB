@@ -105,5 +105,5 @@ of mycelial networks for bio-inspired computing applications.
 - [[fungal-ecology-and-decomposition]]
 - [[mycorrhizal-symbiosis-mechanisms]]
 - [[soil-mycobiome-diversity]]
-- [[fungal-secondary-metabolites]]
+- [[bloomfield-fungal-secondary-metabolites]]
 - mycelial network communication

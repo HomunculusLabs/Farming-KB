@@ -132,9 +132,9 @@ Place herbs according to their preferred conditions:
 ## Related Concepts
 
 - [[herb-spiral-construction]]
-- [[herb-spiral-design]]
+- [[herb-spiral-design-guide]]
 - [[herb-spiral]]
-- [[keyhole-garden-design]]
+- [[permaculture-designers-manual-keyhole-garden]]
 - [[mandala-garden-design]]
 - [[permaculture-edge-effect-design]]
 - [[permaculture-garden-design-process]]

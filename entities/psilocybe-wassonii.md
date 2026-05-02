@@ -76,7 +76,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 - Named in honor of R. Gordon Wasson, the American banker and amateur mycologist who, along with his wife Valentina Pavlovna Wasson, brought the knowledge of psychoactive mushrooms to Western attention
 - The Wassons participated in a velada (mushroom ceremony) with Mazatec curandera María Sabina in 1955, an event that launched the modern psychedelic movement
 - Part of the traditional Mazatec mushroom pharmacopeia used in healing ceremonies and divination
-- María Sabina used multiple species interchangeably in her ceremonies, including P. wassonii, [[psilocybe-caerulescens]], and [[psilocybe-mexicana]]
+- María Sabina used multiple species interchangeably in her ceremonies, including P. wassonii, [[psilocybe-caerulescens-entity]], and [[psilocybe-mexicana]]
 - The Wasson expedition and subsequent publications by Roger Heim and Albert Hofmann led to the identification and synthesis of [[psilocybin]]
 
 ## Identification Notes
@@ -90,7 +90,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 ## Similar Species
 
 - [[psilocybe-mexicana]] — closely related and sympatric; generally smaller and less viscid
-- [[psilocybe-caerulescens]] — larger species found in similar habitat but with different cap coloration
+- [[psilocybe-caerulescens-entity]] — larger species found in similar habitat but with different cap coloration
 - [[psilocybe-hoogshagenii]] — similar distribution but with different microscopic features
 
 ## Etymology

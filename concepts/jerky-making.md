@@ -1,9 +1,9 @@
 ---
-title: Jerky Making
+title: jerky making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [food, recipe, homesteading, homestead-crafts, preservation, drying, safety, preparation]
+tags: [food, recipe, [[homesteading]], homestead-crafts, preservation, drying, safety, preparation]
 sources: []
 ---
 ## What Is Jerky

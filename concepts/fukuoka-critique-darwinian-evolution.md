@@ -85,7 +85,7 @@ updated: 2026-04-18
 
 - [[fukuoka-critique-organic-farming-ecology]]
 
-- [[fukuoka-critique-agricultural-science-laws]]
+- [[fukuoka-critique-laws-agricultural-science]]
 
 - [[fukuoka-critique-organic-certification]]
 

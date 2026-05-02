@@ -22,7 +22,7 @@ Using fungi to degrade or sequester environmental toxins:
 - Radioactive elements (cesium-134, cesium-137)
 - Chemical warfare agents (VX, sarin, soman surrogates)
 - Pesticides and herbicides
-- See: [[mycoremediation-basics]], [[mycoremediation-of-oil-spills]], [[mycoremediation-of-heavy-metals]]
+- See: [[mycoremediation-basics]], [[mycoremediation-oil-spills]], [[mycoremediation-heavy-metals-detailed]]
 
 ### 2. Mycofiltration
 Using mycelial mats to filter water and protect watersheds:

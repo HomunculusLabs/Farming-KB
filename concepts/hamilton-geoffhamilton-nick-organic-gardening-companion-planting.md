@@ -130,16 +130,16 @@ tips:
 
 ## See Also
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]

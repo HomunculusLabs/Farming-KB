@@ -121,6 +121,6 @@ Species in vegetative condition are often unidentifiable and must be cultured to
 - [[microfungal-species-diversity-large-areas]]
 - [[fungal-culture-media-formulas-applications]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

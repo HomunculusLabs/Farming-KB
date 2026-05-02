@@ -137,7 +137,6 @@ Gil Carandang's Philippine approach uses simpler equipment (plastic OK), shorter
 - Seed treatment: use SES solution (see [[knf-preparations]])
 - Transplant: dip roots in 1:100 IMO-2 solution
 - Field application: IMO-4 at 1500+ kg per acre, in small lumps
-- With LAB: IMO mixed with LAB sprayed on field recovers fertility and makes soil soft/fluffy
 ## See Also
 
 - [[imo-indigenous-microorganisms]]

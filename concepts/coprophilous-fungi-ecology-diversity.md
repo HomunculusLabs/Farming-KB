@@ -106,6 +106,6 @@ Coprophilous fungi are critical for:
 - [[soil-fungal-isolation-techniques]]
 - [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
 - [[fungal-roles-soil-food-webs]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

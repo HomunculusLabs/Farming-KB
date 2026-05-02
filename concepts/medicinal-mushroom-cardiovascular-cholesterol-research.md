@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, medicine, mushrooms]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # Medicinal Mushroom Cardiovascular and Cholesterol Effects

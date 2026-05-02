@@ -17,7 +17,6 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 
 
 
-
 ## Core Philosophy
 
 ### Self-Sufficiency
@@ -50,7 +49,6 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 
 
 
-
 ## Comparison with Other Methods
 
 | Method | Inputs | Cost | Philosophy |
@@ -67,14 +65,12 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 
 
 
-
 ## Key Innovation: JADAM Wetting Agent (JWA)
 - Made from unrefined canola oil and potassium hydroxide (ash water)
 - Acts as a surfactant — allows water-based sprays to penetrate insect bodies
 - Replaces commercial soap/surfactant sprays
 - Cost: pennies per liter
 - Used as the base for all JADAM pest control sprays
-
 
 
 

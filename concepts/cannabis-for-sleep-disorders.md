@@ -7,7 +7,7 @@ tags: [cannabis, health, medicine, sleep]
 sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 ---
 
-# Cannabis for Sleep Disorders
+# cannabis for sleep disorders
 
 Cannabis has been used as a sleep aid for centuries. Modern research confirms it reduces sleep latency (time to fall asleep) and may improve sleep quality for some conditions, but long-term use can lead to tolerance and dependency.
 
@@ -24,7 +24,7 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - Long-term THC use may alter sleep architecture (REM rebound on cessation = vivid dreams)
 
 ### Indica vs Sativa
-- Indica-dominant strains: More sedating, better for sleep (higher myrcene)
+- Indica-dominant strains: More sedating, better for sleep (higher [[myrcene]])
 - Sativa-dominant strains: More stimulating, may disrupt sleep
 - Hybrid strains: Variable effects depending on terpene profile
 
@@ -43,19 +43,19 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 ### Sleep Apnea
 - Evidence level: Limited/preclinical
 - THC may stabilize respiratory patterns during sleep
-- Dronabinol (synthetic THC) showed benefit in a small clinical trial
+- [[dronabinol]] (synthetic THC) showed benefit in a small clinical trial
 - Not a substitute for CPAP therapy
 
 ### PTSD-Related Nightmares
 - Evidence level: Moderate
 - THC before sleep significantly reduces nightmare frequency
-- Nabilone (synthetic THC) FDA-approved off-label for PTSD nightmares
+- [[nabilone]] (synthetic THC) FDA-approved off-label for PTSD nightmares
 - CBD daytime + THC nighttime may be optimal combination
 
 ### Chronic Pain-Related Insomnia
 - Evidence level: Moderate to strong
 - Treating the underlying pain with cannabis improves sleep
-- Indica strains with high myrcene content preferred
+- Indica strains with high [[myrcene]] content preferred
 
 
 

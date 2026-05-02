@@ -108,6 +108,8 @@ complete remediation of contaminated sites.
 
 ## See Also
 
+- [[lignocellulose-degradation-by-fungi]]
+
 - [[staycare-laccase-enzymes-in-bioremediation]]
 - [[staycare-lignin-peroxidase-and-pollutant-degradation]]
 - [[staycare-manganese-peroxidase-in-fungal-bioremediation]]

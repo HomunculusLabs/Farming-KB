@@ -118,7 +118,7 @@ texture in processed foods. Global production of locust bean gum is approximatel
 to 20,000 metric tons annually, with Spain, Italy, Portugal, Morocco, and Turkey being the
 major producing countries.
 
-The wood is hard, dense, and reddish-brown, used for woodworking, turnery, and fuel. It
+The wood is hard, dense, and reddish-brown, used for woodworkinpermacultureand fuel. It
 produces a hot, even burn and is valued as firewood. The tree produces a valuable honeydew
 honey when tended by scale insects, which bees collect enthusiastically in Mediterranean
 regions.

@@ -135,8 +135,6 @@ North American neurotropic fungi fall into three main distribution patterns:
 2. **Gulf Coast/southeastern tropical species** -- P. cubensis, P.
    caerulescens, Copelandia spp., found from Texas to Florida.
 3. **Widespread temperate species** -- Amanita muscaria, Gymnopilus
-   spectabilis, Panaeolus subbalteatus, Panaeolina foenisecii, found across
-   the continent.
 ## See Also
 
 - [[guzman-psilocybin-mushrooms-europe]]

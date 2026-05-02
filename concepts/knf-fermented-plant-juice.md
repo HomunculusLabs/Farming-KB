@@ -127,6 +127,8 @@ nutritional boost throughout the growing season.
 
 ## See Also
 
+- [[knf-global-adoption]]
+
 - [[master-cho-knf-fpj-fermented-plant-juice-guide]]
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]]
 

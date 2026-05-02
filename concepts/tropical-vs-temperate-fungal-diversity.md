@@ -86,4 +86,4 @@ Inventories are the only way to obtain direct evidence of relative tropical-temp
 
 ## See Also
 
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- tropical vs temperate fungal diversity

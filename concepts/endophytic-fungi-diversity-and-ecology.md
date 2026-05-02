@@ -80,6 +80,9 @@ Many plant pathogens are isolated as endophytes from healthy tissue:
 
 ## See Also
 
+- [[endophytic-fungi-diversity]]
+- [[pleosporales-loculoascomycete-diversity-ecology]]
+
 - [[thermophilic-and-psychrophilic-fungi-in-bioremediation]]
 
 - [[endophytic-fungi-isolation-methods]]
@@ -89,5 +92,5 @@ Many plant pathogens are isolated as endophytes from healthy tissue:
 - [[lichenized-fungi-taxonomy-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[lichenized-fungi-biology-ecology-diversity]]

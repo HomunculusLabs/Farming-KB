@@ -14,13 +14,11 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 
 
 
-
 ## Space Requirements
 - Minimum: 2x2x4 ft (small tent, 1-2 plants)
 - Standard: 4x4x6 ft (medium tent, 4-6 plants)
 - Optimal: 8x8x8 ft (dedicated room, 8-12 plants)
 - Each plant needs 1-4 sq ft depending on training method and grow duration
-
 
 
 
@@ -48,14 +46,12 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 
 
 
-
 ## Ventilation
 - Inline fan: 4-inch for small tents, 6-inch for 4x4, 8-inch for larger
 - Carbon filter: essential for odor control (match fan size)
 - Passive intake: intake hole 2x the exhaust area (with light-proof baffle)
 - Oscillating fan: air circulation prevents mold and strengthens stems
 - Minimum: full room air exchange every 1-3 minutes
-
 
 
 
@@ -69,7 +65,6 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 
 
 
-
 ## Growing Mediums
 - **Soil**: Easiest for beginners. Ocean Forest + perlite. pH 6.0-7.0
 - **Coco coir**: Middle ground. Buffer with cal-mag. pH 5.8-6.3
@@ -79,12 +74,14 @@ Setting up a proper grow room is the foundation of a successful cannabis cultiva
 
 
 
-
 ## Related
 - [[cannabis-soil-and-nutrients]] — for nutrient management
 - [[cannabis-vegetative-stage-management]] — for grow phase
 - cannabis grow room setup — for lighting details
 - cannabis grow room setup — for general indoor growing principles
+
+
+
 
 ## See Also
 

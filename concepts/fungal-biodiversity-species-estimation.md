@@ -141,8 +141,6 @@ cascading effects on ecosystems that depend on
 fungal-mediated processes including decomposition
 and nutrient cycling. Pollution, especially
 nitrogen deposition, reduces ectomycorrhizal
-fungal diversity in affected forests.
-
 ## See Also
 
 - [[biodiversity-fungal-species-abundance-diversity]]

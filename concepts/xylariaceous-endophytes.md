@@ -103,5 +103,5 @@ Xylariaceous endophytes show interesting biogeographic patterns:
 - Whalley, A.J.S. 1993. Tropical Xylariaceae: their ecology and systematics
 - Rogers, J.D. 2000. Thoughts and musings on tropical Xylariaceae
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]

@@ -97,7 +97,9 @@ your current climate or water availability.
 - Crop and variety selection matters enormously; choose deep-rooted,
   drought-adapted varieties with shorter growing seasons
 
-## Related Questions
+## Related
+
+- [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] Questions
 - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-do-i-improve-soil-drainage-in-my-garden]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]

@@ -94,7 +94,7 @@ The spiritual dimension of natural farming emphasizes humility, gratitude, and a
 
 updated: 2026-04-18
 
-The [[fukuoka-four-principles-natural-farming-detailed]] is one of Fukuoka's five foundations of [[fukuoka-five-principles-natural-farming]]. Rather than pulling weeds, he proposed using them — a principle he also called "weed utility." The presence of grasses is not only not harmful, it is positively essential to healthy soil.
+The [[fukuoka-four-principles-natural-farming]] is one of Fukuoka's five foundations of [[fukuoka-five-principles-natural-farming]]. Rather than pulling weeds, he proposed using them — a principle he also called "weed utility." The presence of grasses is not only not harmful, it is positively essential to healthy soil.
 
 ## The False Distinction Between Crops and Weeds
 

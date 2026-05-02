@@ -131,7 +131,7 @@ Always use multiple media with different selective agents:
 - [[fungal-culture-media-formulas-applications]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[microfungal-diversity-host-plant-relationship]]
 - [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 - [[microfungal-species-diversity-large-areas]]

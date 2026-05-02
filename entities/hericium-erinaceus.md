@@ -35,7 +35,7 @@ have medicinal properties, though *H. erinaceus* is the most extensively studied
 
 *H. erinaceus* produces large, irregularly shaped fruiting bodies that are immediately recognizable by their cascading
 masses of soft, white to cream-colored spines (teeth), which hang downward from a branching, coral-like base structure.
-The fruiting body can reach 5–25 cm in diameter and may be roughly spherical, elongated, or irregular in shape
+The [[spore]]ing body can reach 5–25 cm in diameter and may be roughly spherical, elongated, or irregular in shape
 depending on growth conditions. Individual spines are 1–5 cm long, soft and fleshy when young, becoming brittle and
 yellowish with age. The spines bear the spore-producing hymenium on their surfaces — a rare reproductive strategy
 among fungi, as most toothed fungi produce spines on the underside of a cap rather than as the primary fruiting
@@ -56,12 +56,12 @@ forests.
 
 ## Bioactive Compounds
 
-The neuroactive properties of *H. erinaceus* are attributed primarily to two classes of compounds: hericenones and
+The neuroactive properties of *H. erinmyceliumre attributed primarily to two classes of compounds: hericenones and
 erinacines. Hericenones (hericenones C–H) are aromatic compounds isolated from the fruiting body, while erinacines
 (erinacines A–I) are cyathane-type diterpenoids found primarily in the mycelium. Both classes have demonstrated the
-ability to stimulate the synthesis of nerve growth factor (NGF) in astrocytes and the synthesis of brain-derived
+ability to stimulate the synthesis of nerve growth factor (NGF) in astrocytes and the synthergothioneine-derived
 neurotrophic factor (BDNF) in the hippocampus. Additionally, *H. erinaceus* contains [[beta-glucan-receptor-binding]]
-polysaccharides with immunomodulatory activity, various antioxidants including hericetin and other phenolic compounds,
+polysaccharides with immunomodulatory activity, various antioxidants including hericetin amedicinal-mushroomsompounds,
 and ergothioneine — a unique antioxidant amino acid found at particularly high concentrations in this species. The
 combination of neurotrophic and immunomodulatory compounds makes lion's mane one of the most pharmacologically diverse
 medicinal mushrooms.

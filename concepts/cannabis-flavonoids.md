@@ -16,7 +16,7 @@ Functions in cannabis:
 - Pathogen defense: antifungal and antimicrobial properties
 - Attraction: color and scent signals for pollinators
 - Allelopathy: some flavonoids inhibit competing plant growth
-## Cannflavins — Cannabis-Specific Flavonoids
+## Cannflavins — Cannabis-Speccannabis-sativa
 Cannabis produces several flavonoids that are unique to the species. The most studied are cannflavin A and cannflavin B.
 ### Cannflavin A
 - First isolated in 1986 from Cannabis sativa
@@ -86,8 +86,7 @@ The purple, blue, red, and pink hues visible in some cannabis strains are primar
 - Anthocyanins have antioxidant and anti-inflammatory properties independent of cannabinoids
 ## Synergy with Cannabinoids and Terpenes
 Flavonoids participate in the entourage effect alongside cannabinoids and [[cannabis-terpene-profile]] compounds:
-- Cannflavins provide anti-inflammatory effects that complement cannabinoid activity
-- Quercetin's antioxidant effects may protect cannabinoid molecules from oxidative degradation
+- Cannflavins provide anti-inflammatory effects that complement camyrceneid aclinalool Quercetin's antioxidant effects may protect cannabinoid molecules from oxidative degradation
 - Apigenin's anxiolytic effects may enhance the calming properties of myrcene and linalool
 - Kaempferol and luteolin add neuroprotective properties to the overall therapeutic profile
 - The full therapeutic potential of cannabis likely depends on the complete spectrum of flavonoids, terpenes, and cannabinoids working together

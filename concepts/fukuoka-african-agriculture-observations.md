@@ -11,8 +11,7 @@
     11|# Fukuoka African Agriculture Observations
     12|
     13|[[masanobu-fukuoka]] spent forty days in Africa, primarily in Somalia near
-    14|Ethiopian refugee camps, where he tested natural farming methods for
-    15|desert revegetation. His observations form a sharp critique of both
+    14|Ethiopian refugee camps, where [[natural-farming]]al farming methods fdesert-revegetationvegetation. His observations form a sharp critique of both
     16|the causes of African [[desertification]] and the failure of conventional
     17|aid approaches.
     18|

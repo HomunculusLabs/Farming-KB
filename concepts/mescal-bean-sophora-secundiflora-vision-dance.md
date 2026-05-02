@@ -81,6 +81,8 @@ Modern interest in the mescal bean focuses on its unique alkaloid chemistry — 
 
 ## See Also
 
+- [[sophora-secundiflora-entity]]
+
 [[old-world-hallucinogenic-plants-overview]] — overview of Old World hallucinogenic plants.
 
 [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] — Mexican morning glories.

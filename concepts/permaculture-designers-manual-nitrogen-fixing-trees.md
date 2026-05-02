@@ -104,7 +104,7 @@ Phosphate and potash levels in green mulch are also satisfactory for crop produc
 - [[permaculture-designers-manual-soil-rehabilitation]] - Soil rehabilitation
 - [[permaculture-designers-manual-mulch-systems]] - Mulch systems
 - [[permaculture-designers-manual-animal-forage-systems]] - Forage systems
-- [[permaculture-designers-manual-keyline-design]] - Keyline soil conditioning
+- [[keyline-design]] - Keyline soil conditioning
 - [[permaculture-nitrogen-fixing-trees-guide]]
 - [[chisel-plough-soil-conditioning-mollison]]
 - [[derris-indica]]

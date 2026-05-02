@@ -111,7 +111,7 @@ providing new economic opportunities for mycologically informed communities.
 ## See Also
 
 - [[oyster-mushrooms]]
-- [[shiitake-cultivation]]
+- [[cotter-shiitake-cultivation]]
 - [[reishi-ganoderma-lucidum]]
 - [[maitake-grifola-frondosa]]
 - [[biochemistry-of-ligninolytic-fungi-bioremediation]]

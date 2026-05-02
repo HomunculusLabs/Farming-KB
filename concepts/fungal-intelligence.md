@@ -22,7 +22,7 @@ mycology, neurobiology, computer science, and philosophy of mind.
 The most compelling evidence for fungal intelligence comes from studies of
 foraging behavior. When mycelial networks encounter spatially distributed
 resources, they do not grow randomly. Instead, they demonstrate an ability to
-optimize the connectivity between food sources, finding near-optimal
+[[physarum-polycephalum]]vity between food sources, finding near-optimal
 transportation networks that minimize total hyphal length while maintaining
 redundancy and resilience against damage.
 
@@ -33,7 +33,7 @@ sources at station locations. The organism found a network nearly identical to
 the human-engineered rail system, which had been optimized over decades. True
 fungi demonstrate similar optimization capabilities in laboratory maze
 experiments and wood block foraging assays. The oyster mushroom (*Pleurotus
-ostreatus*) has been shown to solve labyrinth problems and find the most
+ostreatus*) has been shown to solve labyrinth prpleurotus-ostreatus most
 efficient path between food sources in controlled experiments.
 
 ## Memory and Learning
@@ -90,8 +90,7 @@ fundamentally different architecture of computation than the centralized
 nervous systems of animals. Some researchers have proposed that this
 decentralized architecture may actually be more robust and adaptable than
 centralized control, particularly in heterogeneous environments.
-
-## Implications for Biology and Technology
+[[unconventional-computing]]logy and Technology
 
 The study of fungal intelligence has practical implications beyond theoretical
 biology. Mycelial networks have inspired new approaches to computing, including

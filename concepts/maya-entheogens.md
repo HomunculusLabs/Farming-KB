@@ -131,5 +131,5 @@ continuum of pre-Columbian entheogenic practice that included the Aztec
 Teonanacatl cult and the Oaxacan mushroom velada tradition.
 
 See also: [[pre-columbian-mushroom-use]], [[aztec-entheogens]],
-[[maria-sabina-and-mazatec-mushroom-ceremony]], [[mazatec-mushroom-culture-and-velada]],
+[[maria-sabina-mazatec-mushroom-ceremony]], [[mazatec-mushroom-culture-and-velada]],
 richard evans schultes updated

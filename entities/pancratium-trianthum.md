@@ -12,7 +12,7 @@ sources:
 **Pancratium trianthum** is a bulbous perennial plant in the Amaryllis
 family (Amaryllidaceae), native to tropical and subtropical regions of
 Africa. It is one of several *Pancratium* species known to contain
-psychoactive Amaryllidaceae alkaloids, and it has a documented history of
+[[psychedelic-plants-chemical-guide|psychoactive]] Amaryllidaceae [[datura-metel|alkaloid]]s, and it has a documented history of
 use in traditional African medicine and spiritual practices. The plant is
 sometimes referred to by common names including African daffodil, sea lily,
 and various vernacular names in African languages reflecting its ceremonial
@@ -87,7 +87,7 @@ species include:
 - **Hippeastrine** and related crinine-type alkaloids — a subgroup of
   Amaryllidaceae alkaloids with a characteristic 5,10b-ethanophenanthridine
   ring system; some exhibit cytotoxic and antimalarial activity
-The psychoactive properties of *Pancratium* species are attributed
+The [[psychedelic-plants-chemical-guide|psychoactive]] properties of *Pancratium* species are attributed
 primarily to the combined effects of lycorine and related alkaloids, which
 can produce dizziness, nausea, visual disturbances, and at sufficient doses,
 hallucinatory experiences. The alkaloid profile of *P. trianthum*
@@ -97,7 +97,7 @@ related species, and further phytochemical investigation is warranted.
 *Pancratium trianthum* has a documented history of use in traditional
 African medicine and spiritual practice across its wide distribution range,
 though the literature is less extensive than for many better-known
-psychoactive plants.
+[[psychedelic-plants-chemical-guide|psychoactive]] plants.
 ### Medicinal Use
 In West African traditional medicine, preparations from the bulb are used
 to treat a wide variety of conditions. The bulb is applied topically as a
@@ -111,7 +111,7 @@ All parts of *Pancratium trianthum* are toxic, with the bulb containing
 the highest alkaloid concentrations. Ingestion causes nausea, vomiting,
 abdominal pain, salivation, dizziness, blurred vision, and in severe
 cases, cardiac arrhythmias, hypotension, convulsions, and respiratory
-depression. The narrow margin between doses producing psychoactive effects
+depression. The narrow margin between doses producing [[psychedelic-plants-chemical-guide|psychoactive]] effects
 and those causing serious toxicity makes the plant dangerous for casual or
 unguided use. Accidental poisoning most commonly occurs when the bulbs are
 mistaken for edible bulbous plants (such as onions or wild yams) or when
@@ -145,7 +145,10 @@ attracted significant pharmaceutical interest in recent decades:
 - **Antimalarial activity** — some Amaryllidaceae alkaloids show activity
   against *Plasmodium falciparum*, the causative agent of malaria
 These pharmacological properties have driven interest in the sustainable
-cultivation, conservation, and chemical investigation of *Pancratium* and
-related genera as sources of novel therapeutic agents.
 
-Related: [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]], [[turner-harmala-alkaloids-preparation-and-dosage]], [[plants-of-the-gods-claviceps-ergot-alkaloids]]
+## See Also
+## Related
+
+- [[psychedelic-plants-chemical-guide]] — chemical profiles of related species
+- [[datura-metel]] — comparison with another psychoactive plant
+- [[sacred-mushroom-hypothesis]] — broader context of psychoactive plant use in antiquity

@@ -128,9 +128,11 @@ of a sacred custom.
 
 ## See Also
 
+- [[salvia-divinorum]]
+
 - [[hofmann-mysticism-meditation-reality]]
 
-- [[salvia-divinorum]]
+- [[salvia-divinorum-entity]]
 - [[salvia-divinorum-profile]]
 - [[schultes-salvia-divinorum]]
 - [[hofmann-lsd-mazatec-and-psilocybin]]

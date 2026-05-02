@@ -3,7 +3,7 @@ title: "Stacking Functions and System Integration in [[permaculture]]"
 tags: [permaculture, stacking-functions, polyculture, design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/[[williams-pdc-earthworks]]-pdc_-a-permaculture-design-cours.md]
+sources: [raw/papers/williams-pdc-earthworks-pdc_-a-permaculture-design-cours.md]
 ---
 
 # Stacking Functions and System Integration in Permaculture

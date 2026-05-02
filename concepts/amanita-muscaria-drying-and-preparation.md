@@ -1,9 +1,9 @@
 ---
-title: amanita muscaria drying and preparation Guide
+[[amanita-muscaria]]uscaria drying and preparation Guide
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
-sources: [[amanita-muscaria]]-herb-of-immortality.md
+sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
@@ -108,7 +108,7 @@ Based on the detailed testimonial of Donald E. Teeter, the progression at increa
 - 1.5 to 8 inches diameter (sometimes much larger, up to 12 inches)
 - Color ranges from straw yellow through yellow-orange, orange, orange-red to bright blood red
 - Surface smooth with white or off-white warts
-- Margin may have striated surface matching gills below, especially in older specimens
+- Margin may have striated surface [[spore-print]]lls below, especially in older specimens
 
 ### Gills
 - Crowded, white, broad, free from stem with extremely fine hairy edges

@@ -123,7 +123,7 @@ the cap surface to confirm viscidity.
 
 - Psilocybe Aztecorum
 - [[psilocybe-subaeruginosa-australia]]
-- [[psilocybe-caerulescens]]
+- [[psilocybe-caerulescens-entity]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
 - lignicolous-psilocybe-species
 - southeastern us psilocybe

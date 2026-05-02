@@ -32,11 +32,11 @@ The foundation of the soil food web. Beneficial bacteria:
 - Produce growth-promoting substances (auxins, cytokinins)
 - Protect plant roots from pathogens through competitive exclusion
 - Cycle nutrients through their biomass (bacterial loop)
-Key bacterial groups include Bacillus species (decomposers), Pseudomonas (disease suppression), and Rhizobium (nitrogen fixation — less relevant for cannabis but important in cover crop rotations).
+Key bacterial groups include Bacillus species (decomposers), [[pseudomonas]] (disease suppression), and Rhizobium (nitrogen fixation — less relevant for cannabis but important in cover crop rotations).
 ### Fungi
 Fungi play crucial roles in living soil systems:
-- **Saprophytic fungi:** Decompose complex organic materials (lignin, cellulose)
-- **Mycorrhizal fungi:** Form symbiotic relationships with plant roots, extending the root network and improving nutrient and water uptake
+- **[[saprophytic-fungi]]:** Decompose complex organic materials (lignin, cellulose)
+- **[[mycorrhizal-fungi]]:** Form symbiotic relationships with plant roots, extending the root network and improving nutrient and water uptake
 - **Trichoderma species:** Aggressive decomposers that also suppress pathogenic fungi
 Fungal-dominated soils are generally preferred for cannabis during flowering, as fungi break down more complex organic materials that provide slow-release nutrition.
 ### Protozoa and Nematodes
@@ -76,7 +76,7 @@ Common blend (per cubic yard): 2 cups bone meal, 2 cups rock phosphate, 2 cups k
 - Cut plants at the base — leave root systems to decompose
 - Soil improves with each successive grow cycle
 ## Nutrient Cycling
-Organic inputs are decomposed by bacteria and fungi, consumed by protozoa and nematodes, and released as plant-available nutrients at the root zone. Plant root exudates feed the organisms in return. This self-regulating system reduces risk of nutrient lockout or toxicity.
+Organic inputs are decomposed by bacteria and fungi, consumed by protozoa and nematodes, and released as plant-available nutrients at the root zone. Plant [[root-exudates]] feed the organisms in return. This self-regulating system reduces risk of [[nutrient-lockout]] or toxicity.
 ## Living Soil for Cannabis
 ### Container Growing
 - Autoflowers: 5-10 gallon containers

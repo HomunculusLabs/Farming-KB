@@ -111,6 +111,8 @@ integrated design that reduces water bills, conserves municipal resources, and
 provides reliable irrigation even during dry periods or supply disruptions.
 
 ## See Also
+
+- [[comparison-sprinkler-vs-drip-irrigation]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-drought-gardening-vs-rainwater-harvesting]]

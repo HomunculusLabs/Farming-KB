@@ -140,4 +140,3 @@ full-scale field application of immobilized fungal bioremediation technology.
   beds. *Bioresource Technology*, 65, 203-206.
 - Sublette, K. L. et al. (1992). Munitions waste degradation. *Appl.
   Biochem. Biotechnol.*, 34/35, 709-723.
-

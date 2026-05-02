@@ -1016,3 +1016,5 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
+
+- [[lsd]]

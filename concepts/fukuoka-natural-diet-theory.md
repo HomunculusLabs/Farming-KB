@@ -26,7 +26,7 @@ Fukuoka identified four types of food based on the degree to which they align wi
 
 1. Natural food: Food that grows naturally without human cultivation -- wild plants, wild animals, uncultivated grains. This is the original food of humanity.
 
-2. Semi-natural food: Food grown through [[fukuoka-four-principles-natural-farming-detailed]] methods -- crops that are planted and harvested by humans but grown without chemicals, tillage, or other interventions. This is the food Fukuoka himself ate.
+2. Semi-natural food: Food grown through [[fukuoka-four-principles-natural-farming]] methods -- crops that are planted and harvested by humans but grown without chemicals, tillage, or other interventions. This is the food Fukuoka himself ate.
 
 3. Scientific food: Food grown through conventional agriculture with chemical inputs. This food is depleted of nutrients and contaminated with chemical residues.
 

@@ -134,7 +134,7 @@ Spent indoor substrate can be used to inoculate outdoor mushroom beds:
 - [[mushroom-composting-and-recycling|mushroom composting and recycling]]
 - [[composting-methods-comparison|composting methods comparison]]
 - [[mushroom-substrates|mushroom substrate guide]]
-- [[mushroom-pests-and-diseases|mushroom pests and diseases]]
+- [[cotter-mushroom-pests-diseases|mushroom pests and diseases]]
 
 ## Related
 

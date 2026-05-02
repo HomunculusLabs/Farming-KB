@@ -99,7 +99,7 @@ A well-designed no-energy storage system combines multiple methods:
 Together these methods can store a full year's harvest with zero ongoing energy costs. See [[root-cellar-design-and-construction]] for building details.
 
 ## Related
-- [[food-drying-and-dehydration-methods]]
+- [[natfarm-food-drying-dehydration]]
 
 - [[root-cellaring-guide]] — detailed root cellar guide
 - [[root-cellar-design-and-construction]] — building a root cellar

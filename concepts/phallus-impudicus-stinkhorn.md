@@ -108,6 +108,8 @@ flowers like *Amorphophallus titanum*, the Sumatran corpse flower.
 
 ## See Also
 
+- [[phallus-impudicus-entity]]
+
 - [[stinkhorn-fungi-phallus-impudicus-spore-dispersal]]
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
 - [[stinkhorn-fungi-biology]]

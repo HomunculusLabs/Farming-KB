@@ -128,5 +128,5 @@ The combination of these features with the blue staining reaction helps separate
 - [[psilocin]]
 - [[baeocystin]]
 - [[psilocybe-mexicana-cultivation]]
-- [[jeremy-bigwood]]
-- [[michael-beug]]
+- [[bigwood]]
+- [[beug]]

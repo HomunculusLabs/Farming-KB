@@ -12,11 +12,11 @@ Herbal infused oils are one of the foundational preparations in herbalism. They 
 
 ## Why Make Infused Oils?
 
-Many of the most valuable phytochemicals in medicinal plants are not water-soluble. Compounds like the cannabinoids in cannabis, the hypericin in St. John's wort, the arnica's sesquiterpene lactones, and the resinous acids in calendula and comfrey are best extracted into oil. Water-based preparations like teas and tinctures (alcohol-based) miss these constituents entirely or extract them poorly. Infused oils are also the base material for salves, which are one of the oldest and most versatile forms of topical herbal medicine.
+Many of the most valuable phytochemicals in medicinal plants are not water-soluble. Compounds like the cannabinoids in cannabis, the hypericin in St. John's wort, the arnica's sesquiterpene lactones, and the resinous acids in calendula and comfrey are best extracted into oil. Water-based preparations like teas and tincturesherbal-medicine) miss these constituents entirely or extract them poorly. Infused oils are also the base material for salves, which are one of the oldest and most versatile forms of topical herbal medicine.
 
 ## Choosing Your Carrier Oil
 
-The carrier oil you select matters for both extraction efficiency and shelf stability:
+The carrier oil you select matters for both extractiojojobaciency and shelf stability:
 
 - **Olive oil**: The traditional choice. Rich, stable, excellent solvent properties. Use extra virgin for highest quality. Shelf life of 1 to 2 years.
 - **Jojoba oil**: Technically a liquid wax. Extremely stable with a shelf life of 2 to 5 years. Excellent for skin preparations since it closely mimics human sebum. More expensive but worth it for premium products.
@@ -127,7 +127,13 @@ Measure by weight, not volume. A cup of dried calendula flowers weighs far less 
 - **Separation**: Some herbs cause the oil to separate into layers. Shake before use. Persistent separation may mean the herb contained too much water.
 - **Bitter or harsh taste** (for internal oils): The infusion temperature was too high, scorching the herb material. Reduce heat next time and keep temperatures below 140 degrees Fahrenheit.
 
-## Related Topics
+## Related
+
+- [[query-how-to-make-sourdough-bread-at-home]]
+
+- [[query-how-to-make-sauerkraut-at-home]]
+
+- [[query-how-to-make-mead-at-home]] Topics
 
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for taking the next step into tinctures and finished salves
 - [[query-how-to-build-healthy-garden-soil]] for growing your own medicinal herbs

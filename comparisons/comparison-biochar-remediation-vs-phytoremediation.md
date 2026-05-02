@@ -148,4 +148,3 @@
    146|low-cost treatment, contaminants are within plant tolerance ranges,
    147|and long timelines are acceptable.
    148|
-   149|Choose combined approaches when: moderate contamination levels allow

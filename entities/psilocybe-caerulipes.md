@@ -82,7 +82,7 @@ The alkaloid content shows significant inter-collection variability, consistent 
 
 - [[psilocybe-cubensis]]: The most widely cultivated psilocybin mushroom
 - [[psilocybe-ovoideocystidiata]]: Another eastern North American psilocybin species
-- [[psilocybe-caerulescens]]: Mexican species with similar bluing characteristics
+- [[psilocybe-caerulescens-entity]]: Mexican species with similar bluing characteristics
 - [[psilocybin]]: Primary psychoactive compound
 - [[psilocin]]: Active metabolite of psilocybin
 - [[baeocystin]]: Secondary tryptamine alkaloid detected in this species

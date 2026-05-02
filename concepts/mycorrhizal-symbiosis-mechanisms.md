@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Symbiosis Mechanisms
+title: [[mycorrhiza]]l Symbiosis Mechanisms
 tags: [mycology, ecology, botany, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28
@@ -114,4 +114,4 @@ of these associations.
 - [[fungal-ecology-and-decomposition]]
 - [[soil-mycobiome-diversity]]
 - [[mycelial-network-communication]]
-- [[fungal-secondary-metabolites]]
+- [[bloomfield-fungal-secondary-metabolites]]

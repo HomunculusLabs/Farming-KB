@@ -7,8 +7,7 @@ tags: [entheogen, psychopharmacology, ethnobotany, chemistry, pharmacology, afri
 sources: []
 ---
 # Ibogaine Reference
-Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring.
-## Chemistry
+Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoriindole Chemistry
 - IUPAC name: (12bS)-7-ethyl-6,6a,7,8,9,10,12,12b-octahydro-2-methoxy-6a,9-methanobenzofuro[2,3-h]quinolizin-12-ol
 - Chemical formula: C20H26N2O
 - Molecular weight: 310.43 g/mol
@@ -43,7 +42,7 @@ Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- 
 - Cultivation programs working to ensure sustainable supply
 ## Pharmacology
 ### Mechanism of Action
-- NMDA receptor antagonist: contributes to dissociative effects and anti-addictive mechanism
+- NMDA receptor antagonist: contributserotoninsociative effects and anti-addictive mechanism
 - Opioid receptor modulation: kappa agonist + mu antagonist/modulator — interrupts opioid dependence by reducing withdrawal (kappa) and resetting receptor sensitivity (mu)
 - Serotonin transporter inhibition + 5-HT2A agonism: contributes to visionary effects
 - Sigma-2 receptor agonism, nicotinic receptor modulation

@@ -123,5 +123,5 @@ our understanding of the true scale of fungal diversity on Earth.
 - [[fungal-biodiversity]]
 - [[cryptic-fungal-species]]
 - fungal metabarcoding
-- [[soil-fungal-communities]]
+- [[biodiversity-fungi-soil-fungal-communities]]
 - [[undescribed-fungal-taxa]]

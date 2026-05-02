@@ -61,7 +61,7 @@ This principle extends far beyond agriculture. Fukuoka saw the same pattern in m
 
 ## Connection to Natural Farming Principles
 
-The spider-leafhopper dynamic directly supports Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]], particularly the principle of no pesticides:
+The spider-leafhopper dynamic directly supports Fukuoka's [[fukuoka-four-principles-natural-farming]], particularly the principle of no pesticides:
 
 1. Natural predators replace chemical pest control: When the ecosystem is healthy, spiders, frogs, toads, mantises, and ladybirds provide comprehensive pest management without any human intervention.
 

@@ -25,7 +25,7 @@ sources:
 
 # Fruit Tree Varieties, Rootstocks, and Chill Hours
 
-Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for site selection, planting, pruning, pest management, and seasonal care.
+Detailed [[old-fruit-variety-selection|variety]] recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for site selection, planting, pruning, pest management, and seasonal care.
 
 ## Fruit Tree Selection
 
@@ -132,7 +132,7 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 | Wet soil | Myrobalan, MM111 |
 | Fire blight prone | Bud 9, OHxF series |
 
-### Grafting Basics
+### [[fruit-tree-grafting-guide|Grafting]] Basics
 - **Whip and tongue**: Late winter, matched diameter, strongest join
 - **Cleft graft**: For top-working larger trees
 - **Chip bud**: Late summer, most versatile budding method
@@ -146,7 +146,3 @@ Accumulated hours at 32-45°F during dormancy that trigger budbreak and normal f
 ### Why They Matter
 - **Insufficient chill**: Delayed/irregular budbreak, reduced fruit set, poor quality
 - **Zone 7**: Typically 700-1200 chill hours
-- **Zone 8**: Typically 400-900 chill hours
-- **Zone 8b/coastal**: Can be as low as 200-400 hours
-
-Related: [[solomon-vegetable-varieties-self-sufficiency]], [[fukuoka-textdoc-no-good-or-evil-in-nature]]

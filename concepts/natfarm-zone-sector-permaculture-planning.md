@@ -133,7 +133,6 @@ eroding beaches, or near active volcanoes. In tornado and hurricane areas,
 find sheltered areas on the land that work better. Position water storage
 above the house on the slope so it can be gravity fed down.
 
-
 ## See Also
 
 - [[permaculture-zone-and-sector-planning]]

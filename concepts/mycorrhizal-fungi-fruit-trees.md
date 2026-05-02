@@ -119,5 +119,5 @@ function during critical periods of the growing season.
 - [[orchard-fungal-ecology]]
 - [[arbuscular-mycorrhizal-fungi]]
 - [[fungal-fruit-tree-diseases]]
-- [[soil-fungal-communities]]
+- [[biodiversity-fungi-soil-fungal-communities]]
 - [[fukuoka-orchard-floor-management]]

@@ -41,17 +41,13 @@ altogether similar to the mycelia. Two types of conidia are produced terminally:
    rough-walled, often adorned with short spine-like projections, and is attached to a
    smaller cup-shaped smooth cell. This is the most distinctive and diagnostic feature.
 2. **Conidial type (secondary):** Smaller, ellipsoid, unicellular, developing apically
-   from the ends of Verticillium-like conidiophores.
-
-## Habitat and Ecology
+   from the ends of Verticillium-like conmushroom-growing-environmentscology
 
 Mycogone perniciosa naturally occurs in soils from which this aggressive contaminant
 attacks the mushroom fruitbody. It does not grow well at temperatures lower than 60
-degrees F. The organism is very common in mushroom growing environments and causes
-significant crop losses when established.
+degrees F. The organism is very common in mushroom growing environments and causspore-dispersalcrop losses when established.
 
-The primary medium through which contamination spreads is soil. Debris such as stem
-butts and spent compost also harbor the organism. Workers, especially harvesters, are
+The primary medium through which contamination spreads is soil. Debris smushroom-cultivationd spent compost also harbor the organism. Workers, especially harvesters, are
 one of the primary vehicles for spore dispersal. Watering infected areas further spreads
 this contaminant to healthy regions of the crop.
 

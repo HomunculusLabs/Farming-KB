@@ -10,7 +10,7 @@ sources:
 
 # Natural Farming Global Influence
 
-The publication of Masanobu Fukuoka's "The One Straw Revolution" in 1975 (Japanese) and 1978 (English translation) sparked a worldwide movement that continues to grow decades later. His [[fukuoka-four-principles-natural-farming-detailed]] philosophy has influenced farmers, gardeners, environmentalists, and spiritual seekers across every continent.
+The publication of Masanobu Fukuoka's "The One Straw Revolution" in 1975 (Japanese) and 1978 (English translation) sparked a worldwide movement that continues to grow decades later. His [[fukuoka-four-principles-natural-farming]] philosophy has influenced farmers, gardeners, environmentalists, and spiritual seekers across every continent.
 
 ## The Book That Changed Agriculture
 

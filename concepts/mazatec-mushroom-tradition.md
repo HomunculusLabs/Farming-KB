@@ -25,7 +25,7 @@ Mexico, primarily inhabiting the districts of Huautla de Jimenez, Jalapa de
 Diaz, and San Jose Tenango. Their language belongs to the Popolocan family,
 and they number approximately 100,000-200,000 people. The Mazatec have
 maintained many pre-Columbian cultural practices, including the use of
-psychoactive mushrooms ([[teonanacatl-history]]), [[salvia-divinorum]]
+psychoactive mushrooms ([[teonanacatl-history]]), [[salvia-divinorum-entity]]
 (ska Maria Pastora), and morning glories (Ololiuqui).
 
 The Mazatec live in a region of rugged mountains and deep valleys, where the
@@ -109,7 +109,7 @@ for practical guidance.
 ## Context of Mazatec Entheogenic Practice
 
 The mushroom tradition exists alongside other entheogenic practices among the
-Mazatec, including the use of [[salvia-divinorum]] (ska Maria Pastora) and
+Mazatec, including the use of [[salvia-divinorum-entity]] (ska Maria Pastora) and
 Ololiuqui (morning glory seeds). The coexistence of multiple psychoactive
 plant traditions in a single culture is a remarkable feature of Mazatec
 ethnobotany.
@@ -118,11 +118,11 @@ ethnobotany.
 
 - [[teonanacatl-history]] - Historical overview of sacred mushroom use in
   Mexico
-- [[salvia-divinorum]] - Diviner's sage used by the Mazatec
+- [[salvia-divinorum-entity]] - Diviner's sage used by the Mazatec
 - Ololiuqui - Morning glory seeds used in Mazatec ceremonies
 - [[peyote-ceremony]] - Another major Mexican entheogenic tradition
 - [[huichol-peyote-tradition]] - Another Mexican indigenous entheogenic
   practice
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 - [[maria-sabina-mazatec-mushroom-curandera]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]

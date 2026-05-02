@@ -32,7 +32,7 @@ Similar patterns of low abundance but high diversity have been reported from des
 
 ## Spatial and Temporal Heterogeneity
 
-A key finding from [[fungal-endemism-biogeography]] research in deserts is that fungal diversity cannot be understood without considering the scale of sampling. Zak (1993) and Zak and colleagues (1995) noted that functional diversity in deserts should be greater than predicted because of high spatial and temporal heterogeneity in moisture patterns.
+A key finding from [[fungal-endemism-and-biogeography]] research in deserts is that fungal diversity cannot be understood without considering the scale of sampling. Zak (1993) and Zak and colleagues (1995) noted that functional diversity in deserts should be greater than predicted because of high spatial and temporal heterogeneity in moisture patterns.
 
 At the scale of the mycelium, fungi in arid systems colonize spatially and temporally heterogeneous mesic habitats embedded within the xeric matrix. Fungal communities developing on litter under shrubs should be fundamentally different in composition from those on exposed litter.
 

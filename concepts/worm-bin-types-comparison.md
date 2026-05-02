@@ -3,11 +3,11 @@ title: Worm Bin Types Comparison
 created: 2026-04-12
 updated: 2026-04-12
 type: comparison
-tags: [comparison, compost, microbes, homesteading, equipment]
+tags: [comparison, compost, microbes, [[homesteading]], equipment]
 sources: []
 ---
 
-# Worm Bin Types Comparison
+# worm bin types comparison
 
 Vermicomposting is a cornerstone of homestead waste management, converting kitchen scraps and organic matter into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types used by homesteaders.
 
@@ -118,8 +118,8 @@ Most homestead bins use one of two species:
 
 ## Related Concepts
 
-- [[vermicomposting]] — Detailed guide on worm composting process and management
-- [[composting-methods-comparison]] — General composting methods including thermophilic composting as an alternative or complement to vermicomposting
+- [[vermicomposting]] — Detailed guide on worm [[composting]] process and management
+- [[composting-methods-comparison]] — General [[composting]] methods including thermophilic [[composting]] as an alternative or complement to vermicomposting
 - [[cannabis-living-soil-guide]] — How worm castings contribute to living soil biology
 
 ## Key Maintenance Tips

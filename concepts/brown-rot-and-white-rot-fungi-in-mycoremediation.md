@@ -112,3 +112,4 @@ This multi-kingdom synergy is key to successful mycoremediation.
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
 - [[mycelium-running-rot-fungi-wood-decomposition]]
 - [[fungal-wood-decay-types-white-rot-brown-rot]]
+- [[laricifomes-officinalis]]

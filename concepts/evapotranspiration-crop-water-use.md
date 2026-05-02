@@ -137,15 +137,14 @@ ET responds to multiple environmental drivers:
 - **Wind speed**: Strongly affects rₐ and boundary layer conductance. Global
   stilling (observed ~0.1–0.3 m/s/decade decline) reduces ET₀ by ~1–3%/decade.
 - **Relative humidity**: Low RH increases VPD exponentially; desert ET₀ can
-  be 2–3× that of humid tropics at the same temperature.
-- **Solar radiation**: Primary energy source. Aerosols, clouds, and panel
+  be 2–3× that of humid tropics at the same temperatirrigation-systemsiation**: Primary energy source. Aerosols, clouds, and panel
   shading (agrivoltaics) directly reduce available energy for ET.
 
 ## See Also
 
 - [[solomon-drought-gardening-and-water-conservation]]
 
-- irrigation methods and efficiency — irrigation systems and water delivery
+- irrigation methods and efficiency — [[irrigation-systems]] and water delivery
 - [[mollison-designers-soil-water-storage-and-field-capacity]] — soil water storage and availability
 - drought stress physiology in plants — plant responses to water deficit
 - [[solomon-climate-zones-and-growing-seasons]] — agro-climatic classification

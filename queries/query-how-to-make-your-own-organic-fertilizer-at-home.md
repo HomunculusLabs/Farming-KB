@@ -29,7 +29,7 @@ well-built compost pile following the [[compost-building-guide]] provides a
 balanced source of macro and micronutrients, humic acids, and a massive
 inoculation of beneficial microorganisms. Finished compost can be applied as a
 top dressing, mixed into potting soil, or brewed into compost tea using the
-methods described in [[compost-tea-brewing-guide]]. For cannabis growers, the
+methods described in [[compost-tea-brewing]]. For cannabis growers, the
 [[cannabis-organic-fertilizers]] page details which organic inputs work best at
 different growth stages, from seedling through flowering.
 
@@ -100,3 +100,7 @@ schedules that require mixing and applying nutrients every one to three days.
 - [[query-how-to-make-korean-natural-farming-inputs]]
 - [[query-how-does-living-soil-work-for-cannabis]]
 - [[query-what-causes-nutrient-lockout-in-cannabis]]
+
+## See Also
+
+- [[query-how-do-i-make-a-johnson-su-bioreactor]]

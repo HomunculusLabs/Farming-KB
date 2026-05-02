@@ -15,9 +15,6 @@ Raised beds are central to Sepp Holzer's permaculture system. They are built wit
 
 
 
-
-
-
 ## Construction
 
 A system of raised beds can be built by hand or with a mechanical digger. Holzer uses a digger to make a ditch 1-1.5m deep and around 1.5-2m wide. He carefully removes the humus layer and separates it. Then he places shrubs and trees along with their roots into the ditch. On top of that he loosely heaps a mixture of earth, fine organic material and turf. Finally, he places the removed humus over the bed.
@@ -38,15 +35,9 @@ Holzer usually creates beds with a height between 1-1.5m, allowing people of ave
 
 
 
-
-
-
-## [[water-management]]
+## Water Management
 
 With wet, heavy soils a drainage system (French drain) should be installed. With dry and sandy soils, water should be retained within the raised bed for as long as possible — it collects naturally in the hollow between two beds and in the centre as bulky material rots down. Covering the surface with mulch stops plants from drying out when taking root.
-
-
-
 
 
 
@@ -60,15 +51,9 @@ Raised beds planted with fruit bushes and tall-growing plants like sunflowers, J
 
 
 
-
-
-
 ## Management
 
 Raised beds should be sown and planted as soon as they are created while the soil is still loose. Seeds fall through loose soil and are not blown away easily. Fruit bushes are best planted on top of the raised bed, with vegetables below. They are suited to growing all kinds of vegetables: peas, beans, salad, tomatoes, radishes, cucumbers, carrots, courgettes, pumpkins, potatoes and many others.
-
-
-
 
 
 
@@ -82,11 +67,26 @@ Beds made of chipped wood break down quickly, releasing large amounts of nutrien
 
 
 
+## Path Planting
+
+Holzer recommends sowing and planting raised beds immediately after construction while the soil is at its loosest. Seeds naturally fall into the loose soil structure and are less likely to be blown away or eaten by birds. For the planting layout, fruit bushes and small fruit trees are positioned on the top of the raised bed where they benefit from the deepest soil profile and best drainage. Vegetables are planted on the sides and in the valleys between beds. Root vegetables particularly benefit from the loose, deep soil of the bed sides. Climbing plants like beans and cucumbers can be trained up the sides of the bed, making efficient use of vertical space.
+
+
+
+
+
+## Winter Considerations
+
+Raised beds provide natural frost protection. The decomposition process within the bed generates heat, creating a microclimate that can be several degrees warmer than the surrounding ground. This extends the growing season in both spring and autumn. In heavy frost areas, covering beds with mulch or straw during winter provides additional insulation while adding organic matter for the following season.
+
+
 
 
 
 ## Related
 
+- [[water-management]]
+- [[hugelkultur-bed-construction]]
+
 - [[sepp-holzer-method]]
-- holzer raised bed design
 - [[sepp-holzer-methods]]

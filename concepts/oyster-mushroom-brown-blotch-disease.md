@@ -122,5 +122,5 @@ of this form of brown blotch is fungal rather than bacterial, despite the simila
 ## Related
 
 - [[fungal-chromogens-and-color-change]]
-- [[oyster-mushroom-harvesting-and-post-harvest]]
+- [[oyster-mushroom-harvesting-post-harvest]]
 - [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]

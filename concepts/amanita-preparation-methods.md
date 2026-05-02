@@ -1,6 +1,5 @@
 ---
 
-
 title: Amanita Muscaria Preparation Methods
 created: 2026-04-12
 updated: 2026-04-12

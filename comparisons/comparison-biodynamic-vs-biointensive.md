@@ -129,6 +129,8 @@ eliminating external inputs.
 
 ## See Also
 
+- [[comparison-regenerative-vs-biodynamic]]
+
 - [[biodynamic-agriculture-and-steiner]] — Full biodynamic philosophy and practice
 - [[biointensive-gardening-overview]] — Comprehensive GROW BIOINTENSIVE guide
 - [[compost-building-guide]] — Comparison of composting approaches for soil

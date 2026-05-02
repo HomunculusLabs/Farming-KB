@@ -75,7 +75,7 @@ One of the most complex life cycles in biology, involving two hosts and four spo
 - Control limited to fungicide spraying and resistant varieties (no barberry-equivalent to eradicate)
 
 ### Hawthorn/Cedar Rust (Gymnosporangium globosum)
-- Infects hawthorns, fruit trees, and evergreens (cedars, junipers)
+- I[[magnaporthe-grisea]]fruit trees, and evergreens (cedars, junipers)
 - Produces entirely different spore types on different hosts
 - Berries transformed into pale galls covered with spore-filled horns
 - Elongating towers of infectious cells continuously replace uppermost escaping spores

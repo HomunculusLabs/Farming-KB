@@ -84,7 +84,7 @@ The contrast between conventional agricultural management and approaches like [[
 - [[fungal-ecology-forest-floor]] -- fungal ecology in natural systems
 - [[soil-food-web-management-for-farmers]] -- practical soil biology management
 - [[fukuoka-crop-rotation-and-natural-weeds]] -- natural farming approach to crops
-- [[compost-tea-brewing-guide]] -- compost tea for disease suppression
+- [[compost-tea-brewing]] -- compost tea for disease suppression
 - [[fungal-biopesticides]] -- fungal alternatives to chemical pesticides
 - [[fukuoka-crop-rotation-natural-farming]]
 - [[fungi-living-plants-anthracnose-ergot-fruit-rots]]

@@ -122,7 +122,7 @@ stone, sacred mushrooms, teonanacatl (Aztec for "divine flesh"), and
 moon children.
 
 Smartshops also popularised the "Herbal highs" label, grouping mushrooms
-with other products like "herbal xtc" and [[salvia-divinorum]].
+with other products like "herbal xtc" and [[salvia-divinorum-entity]].
 
 ## Seizures
 

@@ -8,7 +8,7 @@ sources: []
 ---
 # Tropical Rainforest Restoration Using Arbuscular [[mycorrhizal-fungi]]
 
-Tropical rainforests are experiencing rapid deforestation, with annual losses of approximately 2% of forest coverage globally. Restoration of these ecosystems requires reestablishment of both plant communities and their associated soil microorganisms, particularly arbuscular mycorrhizal fungi (AMF). AMF play critical roles in soil aggregation, nutrient cycling, plant establishment, and successional dynamics, making them essential tools for tropical forest restoration programs.
+Tropical rainforests are experiencing rapid deforestation, with annual losses of approximatelyarbuscular-mycorrhizal-fungilly. Restoration of these ecosystems requires reestablishment of both plant communities and their associated soil microorganisms, particularly arbuscular mycorrhizal fungi (AMF). AMF play critical roles in soil aggregation, nutrient cycling, plant establishment, and successional dynamics, making them essential tools for tropical forest restoration programs.
 
 Restoration of these ecosystems requires reestablishment of both plant communities and their associated soil microorganisms, particularly arbuscular mycorrhizal fungi (AMF).
 
@@ -86,7 +86,7 @@ Native AMF are adapted to local soil types, climate, and host plant communities.
 
 However, commercial AMF inocula may be useful when native AMF communities have been severely depleted or when rapid establishment of plant cover is the primary objective.
 
-The choice between native and introduced AMF should be based on restoration goals, the degree of site degradation, and the availability of native inoculum sources.
+The choice between native and introduced AMF should be based on restoration goals, the degree of site degradation, and the availability of native inocsporesources.
 
 ## Monitoring and Evaluation
 

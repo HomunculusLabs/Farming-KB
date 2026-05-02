@@ -135,6 +135,8 @@ The dual-receptor system allows cannabis to address both central nervous system 
 
 ## See Also
 
+- [[cytochrome-p450-enzymes-structure-function-pharmacology]]
+
 - [[tryptamine-receptor-pharmacology]]
 
 - [[2c-d-pihkal-entry-23]]

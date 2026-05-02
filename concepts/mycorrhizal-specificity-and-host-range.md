@@ -100,7 +100,7 @@ This functional specificity means that AM fungal diversity, not just colonizatio
 
 # Co-Culture of Plant Cells with Piriformospora indica for Secondary Metabolite Production
 
-Co-culture systems combining plant cell suspension cultures with the axenically cultivable endophytic fungus Piriformospora indica represent a biotechnological platform for enhanced production of plant-derived [[fungal-secondary-metabolites]]. P. indica, isolated from the soil of Rajasthan, India, mimics the capabilities of arbuscular mycorrhizal fungi while being culturable on synthetic media, making it a practical partner for in vitro co-culture systems.
+Co-culture systems combining plant cell suspension cultures with the axenically cultivable endophytic fungus Piriformospora indica represent a biotechnological platform for enhanced production of plant-derived [[bloomfield-fungal-secondary-metabolites]]. P. indica, isolated from the soil of Rajasthan, India, mimics the capabilities of arbuscular mycorrhizal fungi while being culturable on synthetic media, making it a practical partner for in vitro co-culture systems.
 
 ## Piriformospora indica Characteristics
 

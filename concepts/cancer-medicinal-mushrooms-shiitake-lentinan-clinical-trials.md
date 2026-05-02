@@ -111,7 +111,7 @@ treatments. University of Strathclyde.
 - [[lentinan-gastric-cancer-combination-therapy]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 - [[fungal-single-cell-protein-production]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[water-activity-osmophilic-fungal-media-preparation]]
 - [[psk-gastric-cancer-clinical-trials]]
 - [[knf-water-soluble-phosphoric-acid-detailed]]

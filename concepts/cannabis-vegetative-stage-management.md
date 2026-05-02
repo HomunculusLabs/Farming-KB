@@ -13,14 +13,12 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 
 
 
-
 ## Light Schedule
 - Standard: 18 hours on / 6 hours off (18/6)
 - Alternative: 24/0 (continuous light — slightly faster growth, higher electricity cost)
 - Some growers use 20/4 as a compromise
 - Light intensity: 200-400 PPFD for seedlings, 400-600 PPFD for established veg
 - Hang light 24-36 inches above seedlings, 18-24 inches above established plants
-
 
 
 
@@ -53,14 +51,12 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 
 
 
-
 ## Watering
 - Water when top inch of soil is dry
 - Water until 10-20% runoff (ensures even distribution)
 - Lift pot to gauge weight (light = dry, heavy = wet)
 - Vegetative plants typically need water every 2-3 days
 - Overwatering is more common and dangerous than underwatering
-
 
 
 
@@ -72,7 +68,6 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 
 
 
-
 ## Vegetative Duration
 - From seed: 4-8 weeks before switching to flower
 - From clone: 2-4 weeks
@@ -81,11 +76,12 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 
 
 
-
 ## Related
 - [[cannabis-grow-room-setup]] — for room and light setup
 - [[cannabis-soil-and-nutrients]] — for feeding during veg
 - [[cannabis-grow-room-setup]] — for light specifics
+
+
 
 ## See Also
 

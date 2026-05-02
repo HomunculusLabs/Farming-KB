@@ -16,15 +16,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 
 
-
-
-
 ## Early Life
 
 María Sabina was born around 1894 in the Mazatec highland village of Huautla de Jiménez in the Sierra Mazateca of Oaxaca state. She was raised in a family with a tradition of curanderismo and claimed to have begun communicating with the mushroom spirits from a young age. According to her own account, she learned the use of sacred mushrooms — known in Mazatec as **ndi xijo** ("the little ones that spring forth") or *nti xí nto* — after her father or uncle introduced them to her as a child, and she subsequently developed her practice through visions and dream instruction.
-
-
-
 
 
 
@@ -47,17 +41,11 @@ Her singing during ceremonies — rhythmic, melodic Mazatec-language chants — 
 
 
 
-
-
-
 ## The Wasson Expedition (1955)
 
 In June 1955, American banker and amateur mycologist **R. Gordon Wasson** and his wife Valentina Pavlovna Wasson traveled to Huautla de Jiménez with the help of local intermediaries. Wasson arranged to participate in a velada conducted by María Sabina. The ceremony, held on the night of June 29–30, 1955, was a transformative experience for Wasson.
 
 Wasson published a celebrated account of this experience in the May 13, 1957 issue of *Life* magazine, titled "Seeking the Magic Mushroom." The article, illustrated with striking photographs by Allan Richardson, brought the existence of psychoactive mushroom ceremonies to global attention and triggered a wave of interest in psilocybin mushrooms among Westerners.
-
-
-
 
 
 
@@ -80,14 +68,16 @@ Despite these hardships, María Sabina continued to practice as a curandera thro
 
 
 
-
-
-
 ## Legacy
 
 María Sabina remains a pivotal figure in the history of ethnopharmacology and psychedelic culture. She represents both the richness of indigenous entheogenic traditions and the destructive consequences of their appropriation by outside forces. Her life has been the subject of numerous books, academic studies, and artistic works, and she is frequently invoked in discussions of indigenous intellectual property, bioprospecting, and the ethics of ethnographic research.
 
 She died in poverty on November 22, 1985, in Huautla de Jiménez. In the decades since her death, she has become an iconic figure representing the intersection of indigenous wisdom and the global psychedelic movement.
+
+
+
+
+
 
 ## See Also
 

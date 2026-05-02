@@ -32,10 +32,10 @@ sarcodon imbricatus produces large, fleshy basidiocarps with the following chara
 
 - **Cap:** Convex to flat or slightly depressed at the center, 5 to 25 cm in diameter. The cap surface is dry and covered with prominent, dark brown to blackish, recurved scales arranged in an imbricate pattern. The underlying flesh is whitish to pale brown.
 - **Flesh:** Thick, firm, and white to pale buff. The flesh has a mild to slightly acrid taste and a mealy or somewhat unpleasant odor in some specimens.
-- **Hymenium:** The spore-bearing surface consists of decurrent teeth (spines) rather than gills or pores. The teeth are whitish to grayish-brown, becoming darker with age. Individual teeth are 2 to 6 mm long and crowded.
+- **Hymenium:** The spore-bearing surface consists of decurrent teeth (spines) rather than gills or pores. The teeth are whitish to grayish-brown, becoming darker with age. Individuaspore-print 2 to 6 mm long and crowded.
 - **Stipe:** Central, thick, solid, and cylindrical, 3 to 10 cm long and 1 to 4 cm thick. The stipe surface is brown and typically scaly below the smooth zone near the apex. The flesh of the stipe is white to brownish.
 - **Spore print:** Brown to dark brown.
-- **Spores:** Subglobose to broadly ellipsoidal, brown, rough-walled (echinulate), measuring approximately 6 to 8 micrometers in diameter.
+- **Spores:** Subglobose to broadly ellipsoidal, brownectomycorrhizal-fungiulate), measuring approximately 6 to 8 micrometers in diameter.
 - **Chemical reactions:** The flesh may show blue-green reactions with iron salts (FeSO4) or other chemical reagents.
 
 ## Ecology and Habitat
@@ -47,13 +47,13 @@ sarcodon imbricatus is an obligate ectomycorrhizal fungi fungus that forms mutua
 - Boreal and temperate forest ecosystems of Europe, Asia, and North America
 - Acidic to neutral forest soils, often in moss-rich areas
 
-The species typically fruits from late summer to autumn, producing basidiocarps on the forest floor singly or in scattered groups. It is most commonly encountered in mature forests with well-developed ectomycorrhizal networks.
+The species typically fruits from late summer to autumn, producing basidiocarps on the forest floor singly or in scattered groups. It is most commonly encountered in mmyceliumrests with well-developed ectomycorrhizal networks.
 
 ## Role in Ecosystem Processes
 
 ### Ectomycorrhizal Symbiosis
 
-As an ectomycorrhizal fungi fungus, sarcodon imbricatus forms a mutualistic symbiosis with its host trees. In this association, the fungal mycelium envelops the root tips, forming a characteristic mantle and Hartig net of hyphal penetration between root cortical cells. The symbiosis provides the host tree with enhanced access to soil nutrients, particularly nitrogen and phosphorus, while the fungus receives carbohydrates from the host.
+As an ectomycorrhizal fungi fungus, sarcodon imbricatus forms a mutualistic symbiosis with its host trees. In this association, the fungal mycelium envelops the root tips, forming a characteristic mantle and Hartig net of hyphal penetration between root cortical cells. The symbiosis provides the host tree with enhanced access to soil nutriespore-dispersally nitrogen and phosphorus, while the fungus receives carbohydrates from the host.
 
 The toadstool morphology of sarcodon imbricatus (with teeth rather than gills) is typical of many ectomycorrhizal basidiomycetes and may represent an adaptation to spore dispersal in forest floor environments.
 
@@ -74,7 +74,7 @@ This complex arsenic speciation profile indicates that sarcodon imbricatus is ca
 
 sarcodon imbricatus is primarily associated with coniferous trees, especially spruce and pine species. The ectomycorrhizal association benefits host trees through enhanced nutrient acquisition, particularly in nutrient-poor forest soils. The fungus may also provide some degree of protection against root pathogens.
 
-### Soil Microorganisms
+##[[decomposition]]rganisms
 
 The ectomycorrhizal mycelium of sarcodon imbricatus interacts with soil bacteria and other fungi in the rhizosphere and mycorrhizosphere. These interactions may include competition for nutrients, synergistic relationships in organic matter decomposition, and the exchange of signaling molecules.
 

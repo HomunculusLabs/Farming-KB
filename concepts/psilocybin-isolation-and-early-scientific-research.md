@@ -57,7 +57,7 @@ placed their branded Indocybin on the market.
 Heim's interest in the hallucinogenic mushrooms was primarily mycological, but
 it was not quite as purely professional as it appeared. He had had an encounter
 with the [[amanita-muscaria-cultural-history]] as a young man in
-1923. In Mexico, he had no qualms about participating in a [[maria-sabina-and-mazatec-mushroom-ceremony]], and having brought fungal
+1923. In Mexico, he had no qualms about participating in a [[maria-sabina-mazatec-mushroom-ceremony]], and having brought fungal
 samples home and cultivated them, he undertook a series of self-experiments.
 
 Heim's meticulous writing style rendered his mushroom trips somewhat clinical.

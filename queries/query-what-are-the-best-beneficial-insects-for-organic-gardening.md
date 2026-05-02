@@ -95,7 +95,9 @@ Regular monitoring with sticky traps, visual scouting, and hand lenses allows yo
 - Syrphid fly larvae are excellent aphid predators while adult syrphid flies serve as pollinators
 - Combining multiple species of beneficial insects provides more comprehensive pest coverage than any single predator
 
-## Related Questions
+## Related
+
+- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] Questions
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]
 - [[query-how-to-control-pests-without-chemicals]]
 - [[query-how-to-control-fungus-gnats-organically]]

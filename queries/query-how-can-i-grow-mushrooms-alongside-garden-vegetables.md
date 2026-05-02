@@ -111,6 +111,8 @@ zones that receive indirect irrigation from nearby vegetable beds.
 
 ## See Also
 
+- [[query-how-to-grow-mushrooms-on-masters-mix-substrate]]
+
 - [[query-how-to-design-a-pollinator-garden]]
 - [[query-how-to-grow-morel-mushrooms]]
 - [[query-how-to-grow-reishi-mushrooms]]

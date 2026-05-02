@@ -1,32 +1,6 @@
 ---
 
-title: Mushroom Grow Equipment
-created: 2026-04-11
-updated: 2026-04-12
-type: concept
-
-tags:
-- mushrooms
-- equipment
-- indoor
-- microbes
-- lab-technique
-- underground-press
-- substrate
-- grain
-
-sources:
-- raw/papers/the-mushroom-cultivator-stamets.md
-- raw/papers/2-laminar-flow-hood-construction.md
-- raw/papers/pf-tek-psilocybe-fanaticus.md
-- raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md
-- raw/papers/unknown-magic-mushroom-growers-guide.md
-- raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
-- raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
-- raw/papers/peter-oei-5-pages-mushroom-cultivation.md
-- raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md
-- raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
----
+t
 
 # Mushroom Grow Equipment
 
@@ -34,7 +8,7 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 
 ## Equipment by Category
 
-### Sterilization
+### [[sterilization]]
 
 | Item | Cost | Purpose | Notes |
 |---|---|---|---|
@@ -43,7 +17,7 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 | Autoclave | $500–5000+ | Lab-grade sterilization | Overkill for home growers but standard for commercial spawn |
 | Microwave (for surface sterilization) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
 
-**Sterilization times at 15 PSI** (PF Tek at 12 PSI):
+**Sterilization times at 15 PSI** ([[pf-tek]] at 12 PSI):
 - 1/2 pint PF jars: 20 min (12 PSI)
 - Quart grain jars: 60–90 min
 - 0.5 gallon jars: 90–120 min
@@ -75,7 +49,7 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 - Select blower rated for this airflow at ~150 Pa pressure drop through the HEPA
 - Oversize slightly to account for dirty filters and prefilter resistance
 
-**Construction**: Horizontal airflow recommended (air moves back to front). Enclosure of press boards with transparent plexiglas top for light. See [[mushroom-sterile-technique-detailed]] for HEPA specifications.
+**Construction**: Horizontal airflow recommended (air moves back to from boards with transparent plexiglas top for light. See [[mushroom-sterile-technique-detailed]] for HEPA specifications.
 
 **Usage**: Run blower 30 min before work. Wipe sterile area with alcohol-soaked paper before and after 30-min run.
 
@@ -123,7 +97,7 @@ Few organisms are as sensitive to environmental fluctuations as mushrooms. Essen
 - **Hygrometer or sling psychrometer**: Measure humidity; calibrate hygrometers periodically with psychrometer
 - **CO2 detector**: Useful but not essential — elevated CO2 indicates need for more fresh air
 - **Moisture meter**: Substrate moisture checking
-- **Light meter**: Verify adequate indirect light levels
+- **Spore syringe**: Verify adequate indirect light levels
 
 ## PF TEK Specific Equipment (Fanaticus)
 
@@ -148,6 +122,3 @@ Alternative indoor setup using sealed grow bags with filter patches:
 - Polypropylene grow bags with self-healing injection port and filter patch
 - Liquid culture syringes for faster colonization
 - Heat mat with thermostat for temperature control
-
-
-Related: [[stamets-mushroom-growing-room-design]]

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [psychology, therapy, consciousness, psychedelics, health, methods, entheogen-research, safety]
-sources: []
+sources:
+  - /Users/t3rpz/wiki/raw/papers/the-essential-psychedelics-guide-by-dm-turner.md
 ---
 # Psychedelic Integration Guide
 ## Overview

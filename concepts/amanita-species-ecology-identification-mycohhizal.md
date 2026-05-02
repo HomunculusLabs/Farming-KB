@@ -116,6 +116,8 @@ toxic Amanita species without apparent harm.
 
 ## See Also
 
+- [[amanita-caesarea]]
+
 - [[amanita-verna]]
 
 - [[toxic-mushrooms-poisoning-amatoxins-syndromes]]

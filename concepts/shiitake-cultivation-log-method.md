@@ -81,6 +81,6 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 ## See Also
 
 - [[gourmet-mushroom-species-guide]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-bulk-substrates]]

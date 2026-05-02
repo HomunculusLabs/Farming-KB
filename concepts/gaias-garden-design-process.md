@@ -71,6 +71,27 @@ Begin installation at the doorstep and work outward, following the [[zone-sector
 
 This process draws on and simplifies the broader [[mollison-pdc-design-report-methodology]] for home-scale application. It is specifically oriented toward creating [[gaias-garden-creating-community-gardens]] rather than broad-acre permaculture design.
 
+
+## Observation and Community Integration
+
+Hemenway's design process is notable for its emphasis on observation before
+action. He recommends spending at least one full year observing a site
+through all seasons before making significant changes. This observation
+period reveals microclimates, drainage patterns, existing wildlife, soil
+variations, and neighbor interactions that might not be apparent from a
+single visit. The designer records these observations in a journal and on
+base maps, building a rich understanding of the site's unique character.
+
+The process also integrates community elements that are often absent from
+technical permaculture design. Hemenway advocates including social
+considerations: who will use the garden, what skills and resources are
+available, and how the garden connects to the broader neighborhood. Food
+forests in public spaces, community tool-sharing, seed libraries, and
+work-party culture are all examples of the social dimension woven into
+his design approach. This people-centered emphasis distinguishes Gaia's
+Garden from more purely technical permaculture manuals and has made it
+one of the most accessible entry points for residential-scale ecological
+design.
 ## See Also
 
 - [[gaias-garden-stacking-functions-detailed]]

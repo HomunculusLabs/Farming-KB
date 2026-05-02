@@ -21,7 +21,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
 - **Genus:** Panaeolus (some authorities place in Panaeolina)
 - **Species:** P. subbalteatus (accepted synonym: P. cinctulus)
 
-The taxonomic history of this species is complex. Many field guides and mycological references have used *Panaeolus subbalteatus* historically, while modern molecular work places it in *Panaeolus* with *P. cinctulus* as the currently preferred name. The species epithet *subbalteatus* means "somewhat belted," referring to the characteristic zonate (banded) cap.
+The taxonomic history of this species is complex. Many field guides and mycological references have used *Panaeolus subbalteatus* historically, while modern molecular work places it in *Panaeolus* with *P. cinctulus* as the currpsilocybin-mushrooms. The species epithet *subbalteatus* means "somewhat belted," referring to the characteristic zonate (banded) cap.
 
 ## Distribution and Habitat
 
@@ -50,7 +50,7 @@ The fruiting body is relatively small but can be locally abundant:
 - **Stem (Stipe):** 40–80 mm long, 3–5 mm thick, cylindrical, equal or slightly thickened at the base. Color is white to pale brown, fibrous, and hollow. Unlike *Psilocybe* species, the stem is smooth and **does not typically bruise blue** prominently, though subtle bluing may occur in fresh specimens with careful handling.
 - **Veil:** Evanescent partial veil; rarely leaves a distinct annulus. Some specimens show a faint ring zone on the stem.
 - **Spore Print:** Dark brown to black.
-- **Spores:** Ellipsoid to lemon-shaped, 13–18 × 9–12 µm, smooth, with a germ pore.
+- **Spores:** Ellipsoid to lemon-shaped, 13–18 × 9[[psilocybe-cyanescens]] a germ pore.
 - **Odor and Taste:** Farinaceous (mealy, like damp flour). Mild taste.
 
 ## Chemical Composition
@@ -67,9 +67,7 @@ The genus *Panaeolus* contains many species, most of which are inactive. Key dis
 - **Mottled gills:** The checkered two-tone gill pattern is diagnostic for the genus
 - **Habitat on enriched soil:** Unlike many inactive lawn mushrooms
 
-Potentially confusing species include:
-
-- **Panaeolus foenisecii** (the "haymaker's mushroom"): Very similar appearance, smaller, grows in similar habitats. *P. foenisecii* is generally considered inactive or weakly active. It tends to have a more reddish-brown cap and smaller spores.
+Potentially confusing species includepanaeolus-acuminatusnisecii** (the "haymaker's mushroom"): Very similar appearance, smaller, grows in similar habitats. *P. foenisecii* is generally considered inactive or weakly active. It tends to have a more reddish-brown cap and smaller spores.
 - **Panaeolus acuminatus:** Slender, smaller species with a more pointed cap. Inactive.
 - **Psathyrella species:** Many small brown lawn mushrooms resemble *Panaeolus* but have different spore colors and gill attachments.
 - **Coprinus species:** Ink caps share the habitat but deliquesce (dissolve into ink) as spores mature.
@@ -92,5 +90,5 @@ Like all psilocybin-containing fungi, *P. subbalteatus* is illegal to possess in
 
 - [[psilocybin]]
 - [[psilocybin]]
-- [[psilocybe-caerulescens]]
+- [[psilocybe-caerulescens-entity]]
 - [[psilocybe-cubensis]]

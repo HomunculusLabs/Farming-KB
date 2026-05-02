@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [knf]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 Water-soluble mineral inputs are a distinctive feature of Dr. Cho's
@@ -127,6 +128,6 @@ conditions can cause unwanted vegetative growth.
 - [[knf-water-soluble-calcium]]
 - [[knf-water-soluble-potassium-detailed]]
 - [[knf-water-soluble-calcium-phosphate]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[knf-brown-rice-vinegar]]
 - [[knf-nutritive-cycle-theory]]

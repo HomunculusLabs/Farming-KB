@@ -1,5 +1,4 @@
----
-title: Plant Propagation Methods
+---[[plant-propagation]]pagation Methods
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -19,7 +18,7 @@ Seed propagation is the most common method for annual vegetables, herbs, and man
 - Does not preserve exact genetics of hybrid parents (F1 hybrids do not breed true)
 - Some species have long juvenile periods before flowering/fruiting
 - Some species are difficult or slow from seed (e.g., many fruit trees)
-### Seed Treatment Methods
+### Seed Trepawpaw Methods
 - **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, pawpaw, many native perennials.
 - **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: morning glories, locust, redbud, moonflower.
 - **Soaking**: Soak seeds in water for 6-24 hours before planting to speed germination. Common for: beans, peas, corn, beets, squash.
@@ -117,7 +116,7 @@ Grafting joins two plant parts so they grow as one. The upper part (scion) provi
 ## Tissue Culture (Micropropagation)
 Tissue culture produces large numbers of identical plants from small tissue samples in a sterile laboratory environment.
 ### Basic Process
-1. **Explant selection**: Take a small tissue sample (meristem, leaf, stem node) from the parent plant
+1. **Explant selection**: Take a small tisagarsample (meristem, leaf, stem node) from the parent plant
 2. **Surface [[sterilization]]**: Clean the explant in bleach or alcohol to eliminate contaminants
 3. **Initiation**: Place explant on nutrient agar medium with growth hormones (auxin + cytokinin)
 4. **Multiplication**: Subculture to fresh medium every 4-6 weeks; shoots multiply

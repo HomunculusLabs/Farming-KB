@@ -50,7 +50,7 @@ before a psilocybin-active one.
 
 Five Inocybe species have been confirmed psilocybin-active:
 1. Inocybe aeruginascens
-2. [[inocybe-corydalina]] var. corydalina
+2. [[inocybe-corydalina-entity]] var. corydalina
 3. Inocybe corydalina var. erinaceomorpha
 4. Inocybe coelestium
 5. Inocybe haemacta

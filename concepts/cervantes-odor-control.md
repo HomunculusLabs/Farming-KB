@@ -53,7 +53,7 @@ current. Visually check the filter every few days and
 keep it clean.
 ## Ozone Generators
 Ozone has many applications including food and water
-sterilization and removing odors from air at the
+[[sterilization]] and removing odors from air at the
 molecular level. Some growers even use high levels of
 ozone to exterminate grow room pests.
 Ozone generators neutralize odors by converting oxygen

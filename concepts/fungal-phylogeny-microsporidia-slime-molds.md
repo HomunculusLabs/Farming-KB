@@ -83,7 +83,7 @@ Phylogenetic work depends heavily on herbarium specimens for DNA extraction and 
 - [[fungal-biodiversity-soil-habitats]]
 
 Source: Phylogenetic analyses (Baldauf et al. 2000; Arugete et al. 1998; Mueller 1999)
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-species-estimation-methods-total-diversity]]
 - [[fungal-phylogeny-kingdom-classification]]
 - [[fungal-biodiversity-herbarium-collections]]

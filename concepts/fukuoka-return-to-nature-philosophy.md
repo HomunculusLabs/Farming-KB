@@ -38,7 +38,7 @@ He was particularly critical of modern Japan, which he saw as rapidly abandoning
 
 ## Natural Farming as the Path of Return
 
-Natural farming is the practical expression of the return to nature. Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]] -- no tillage, no fertilizer, no pesticides, and no weeding -- are not merely agricultural techniques but a philosophy of non-intervention. "The trees and grasses release seeds that fall to the ground, there to germinate and grow into new plants. The seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by direct seeding, without tillage."
+Natural farming is the practical expression of the return to nature. Fukuoka's [[fukuoka-four-principles-natural-farming]] -- no tillage, no fertilizer, no pesticides, and no weeding -- are not merely agricultural techniques but a philosophy of non-intervention. "The trees and grasses release seeds that fall to the ground, there to germinate and grow into new plants. The seeds sown by nature are not so weak as to grow only in plowed fields. Plants have always grown by direct seeding, without tillage."
 
 He was candid about the limitations of even natural farming as a movement: "Of course, in a sense, natural farming will never be perfected. It will not see general application in its true form, and will serve only as a brake to slow the mad onslaught of scientific agriculture." This is not defeatism but realism -- the recognition that the return to nature must be a change of consciousness, not merely a change of technique.
 

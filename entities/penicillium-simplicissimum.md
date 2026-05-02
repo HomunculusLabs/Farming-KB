@@ -27,7 +27,7 @@ sources:
 - **Genus:** Penicillium
 - **Section:** Simplicissima (or Aspergilloides)
 
-The taxonomy of *Penicillium* has undergone extensive revision, with many species reclassified based on molecular phylogenetic data. *P. simplicissimum* belongs to one of the major clades within the genus and is distinguished from related species by its morphological characteristics, growth patterns, and secondary metabolite profile.
+The taxonomy of *Penicillium* has undergone extensive revision, with many species reclassified based on molecular phylogenetic data. *P. simplicissimummalt-extract-agarof the major clades within the genus and is distinguished from related species by its morphological characteristics, growth patterns, and secondary metabolite profile.
 
 ## Morphology
 
@@ -122,7 +122,7 @@ Standard protocols for isolating and studying *P. simplicissimum* include:
 ## Conservation Status and Environmental Concerns
 
 - **Soil Health Indicator:** *P. simplicissimum* and related soil *Penicillium* species serve as bioindicators of soil health, with their abundance and diversity reflecting organic matter content, pH, and agricultural management practices
-- **Heavy Metal Mobilization:** While its mineral-solubilizing ability is beneficial for nutrient cycling, it can also mobilize toxic heavy metals (lead, cadmium, uranium) from contaminated soils into the bioavailable fraction, with implications for environmental remediation and food safety
+- **Heavy Metal Mobiodiversity-fungi-soil-fungal-communities mineral-solubilizing ability is beneficial for nutrient cycling, it can also mobilize toxic heavy metals (lead, cadmium, uranium) from contaminated soils into the bioavailable fraction, with implications for environmental remediation and food safety
 - **Climate Sensitivity:** Soil fungal communities including *Penicillium* species are sensitive to temperature and moisture changes, with shifts in community composition observed under experimental warming and drought scenarios
 - **Agricultural Practices:** Intensive tillage and pesticide application can reduce soil *Penicillium* diversity, potentially diminishing the mineral weathering and nutrient cycling services these fungi provide
 

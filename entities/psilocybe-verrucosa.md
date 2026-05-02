@@ -35,7 +35,7 @@ Chemical analyses have confirmed the presence of [[psilocybin]] and [[psilocin]]
 
 ## Ethnomycology
 
-While the ethnomycological history of psilocybe verrucosa specifically has not been documented, the species occurs in regions of southern Mexico with well-established traditions of ceremonial mushroom use. It is possible that the species was collected alongside more commonly used species such as [[psilocybe-caerulescens]] and [[psilocybe-mexicana]] by indigenous communities in Oaxaca and Veracruz. The distinctive warty cap surface might have made it recognizable to experienced collectors, though it is small and could easily be overlooked among more abundant species in mixed fruitings.
+While the ethnomycological history of psilocybe verrucosa specifically has not been documented, the species occurs in regions of southern Mexico with well-established traditions of ceremonial mushroom use. It is possible that the species was collected alongside more commonly used species such as [[psilocybe-caerulescens-entity]] and [[psilocybe-mexicana]] by indigenous communities in Oaxaca and Veracruz. The distinctive warty cap surface might have made it recognizable to experienced collectors, though it is small and could easily be overlooked among more abundant species in mixed fruitings.
 
 ## Cultivation
 
@@ -80,7 +80,7 @@ The species' preference for dung substrates in nature suggests that composted or
 
 - [[psilocybe-mexicana]] — common co-occurring species with smooth cap
 - psilocybe subtropicalis — subtropical Mexican species with overlapping range
-- [[psilocybe-caerulescens]] — larger, more potent species of southern Mexico
+- [[psilocybe-caerulescens-entity]] — larger, more potent species of southern Mexico
 - [[psilocybe-subbrunneascens]] — Guatemalan species from the same section
 - gastón-guzmán — primary authority on Mexican psilocybin mushrooms
 - [[psilocybin]] — primary psychoactive compound

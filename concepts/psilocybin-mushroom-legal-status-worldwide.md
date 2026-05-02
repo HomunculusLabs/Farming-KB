@@ -138,7 +138,6 @@ Gartz observes that enforcement of mushroom prohibition was generally inconsiste
 - Other countries with significant use had no legislation at all
 
 The overall pattern suggested that prohibition was driven more by political signaling than by evidence-based assessment of actual risks.
-
 ## See Also
 
 - [[powell-psilocybin-legal-status-research]]

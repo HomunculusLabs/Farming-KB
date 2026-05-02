@@ -70,7 +70,7 @@ fungal lichens [[lichenized-fungi-bioindicators]]
 
 Arctic and Antarctic fungal communities share many taxa due to convergent adaptation to cold climates, but also differ due to their different geological histories and degrees of isolation. The Arctic has greater connectivity with temperate regions, while Antarctica has been isolated for millions of years.
 
-[[fungal-biogeography]] [[fungal-endemism-biogeography]]
+[[fungal-biogeography]] [[fungal-endemism-and-biogeography]]
 
 ## Climate Change Vulnerability
 

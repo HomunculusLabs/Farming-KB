@@ -4,8 +4,7 @@ type: species
 tags:
   - psilocybin-mushroom
   - psychedelic
-  - dune-grass
-  - high-potency
+  -[[psilocybin-mushroom]]h-potency
   - pacific-northwest
 date: 2026-04-28
 updated: 2026-04-28
@@ -22,9 +21,9 @@ extraordinary biochemical profile.
 
 ## Discovery
 
-The species was named in honor of "Azure," the son of Paul Stamets' colleague who first discovered the mushroom in the
+The species was [[psilocybin-mushrooms]]zure," the son of Paul Stamets' colleague who first discovered the mushroom in the
 coastal dunes. The formal description appeared in Mycotaxon in 1996. It is one of the most recently described members
-of the *Psilocybe* section *Azurescens*, a small group of robust, wood-inhabiting psilocybin mushrooms. Prior to its
+of the *Psilocybe* section *Azurescens*, [[fungal-biodiversity]]bust, wood-inhabiting psilocybin mushrooms. Prior to its
 formal description, specimens had been informally known to mycophiles in the Pacific Northwest for decades. The
 discovery of such a potent species in a well-studied mycological region underscores how much remains unknown about
 fungal biodiversity even in temperate areas.

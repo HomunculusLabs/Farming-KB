@@ -31,7 +31,7 @@ The taxonomy of the coprinoid fungi has undergone significant revision. The genu
 ## Morphology
 
 ### Basidiocarps
-- **Cap:** 4 to 8 cm in height when young, ovate to cylindrical, expanding with age. The cap surface is covered with prominent, recurved, dark brown to black scales over a grayish to whitish background. This contrasting pattern gives rise to the common name "magpie inkcap"
+- **Cap:** 4 to 8 cm in height when young, ovate to cylindrical, expanding with age. The cap surface is covered with prominent, recurved, dark brown to black scales over a grayispore-dispersalackground. This contrasting pattern gives rise to the common name "magpie inkcap"
 - **Gills:** Very crowded, free from the stipe, initially white but becoming black as the spores mature. The gills deliquesce (dissolve into an inky liquid) from the margin downward, facilitating spore dispersal
 - **Stipe:** 8 to 15 cm tall, 1 to 1.5 cm thick, white to pale gray, smooth, with a slightly swollen base. The stipe is hollow and fragile
 - **Annulus:** A fragile, movable ring (annulus) is often present on the upper stipe, though it is easily lost
@@ -101,7 +101,7 @@ The coprinoid fungi have a long history of scientific interest:
 - **Coprine:** While most definitively identified in *Coprinopsis atramentaria*, some chemical analyses of *C. picaceus* have detected coprine or coprine-like compounds. Coprine inhibits aldehyde dehydrogenase, causing the disulfiram-like reaction (flushing, nausea, palpitations) when consumed with alcohol
 - **Picacins:** Named after the species, certain indole and phenolic derivatives isolated from *C. picaceus* fruiting bodies have been investigated for antimicrobial properties, though these compounds are not yet well characterized
 - **Proteolytic Enzymes:** The autodeliquescence mechanism is driven by endogenous proteases that degrade the gill tissue following spore maturation. Serine proteases and metalloproteases have been implicated in this controlled self-digestion process
-- **Volatile Organic Compounds:** The characteristic fetid odor of mature fruiting bodies is attributable to a mixture of VOCs including indole, skatole, and various sulfur-containing compounds produced as secondary metabolites
+- **Volatile Organic Compounds:** The characteristic fetid odor of mature fruiting bodies is attributable to a mixture of VOCs including indole, skatole, and various sulfur-contaimalt-extract-agaroduced as secondary metabolites
 
 ## Laboratory Methods
 

@@ -90,7 +90,7 @@ Maltose fits into the [[nutritive-cycle-theory]] as an enzyme activator and suga
 ## See Also
 
 - [[knf-preparations]] — all KNF inputs overview
-- [[knf-yeast-preparation]] — yeast pairs with maltose in fermentations
+- [[knf-yeast-preparation-detailed]] — yeast pairs with maltose in fermentations
 - [[brown-rice-vinegar-brv]] — BRV production uses similar fermentation principles
 - [[fermented-plant-extract-fpe]] — FPJ uses brown sugar as alternative sugar source
 - [[fermented-mixed-compost-fmc]] — maltose in compost enhances decomposition

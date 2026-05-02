@@ -7,13 +7,13 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Ginger Growing Guide (Zingiber officinale)
+# Ginger [[ashwagandha-growing-guide|Growing]] Guide (Zingiber officinale)
 
 ## Overview
 
 Ginger is a tropical herbaceous perennial in the Zingiberaceae family, native
 to Maritime Southeast Asia. One of the most important spices and medicinal
-plants in the world, ginger has been cultivated for over 5,000 years and is
+[[permaculture-designers-manual-plant-toxins-dryland|plant]]s in the world, ginger has been cultivated for over 5,000 years and is
 now grown commercially across the tropics. Its rhizome is used universally
 in cooking, [[herbal-medicine|herbal medicine]], and traditional healing systems. In temperate
 climates, ginger can be grown successfully in containers, greenhouses, or
@@ -145,7 +145,3 @@ danger passes. Harvest before first frost.
 For fresh ginger:
 - "Green ginger" or baby ginger can be harvested 4-5 months after planting
 - At this stage, the skin is tender and does not need peeling
-- Simply dig around the plant and cut off desired pieces; the plant will
-  continue growing
-
-Related: [[ginger-garlic-extract-bionutrient]], [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]

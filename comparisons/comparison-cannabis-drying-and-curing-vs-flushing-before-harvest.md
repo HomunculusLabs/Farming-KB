@@ -1,5 +1,5 @@
      1|---
-     2|title: "Cannabis Drying and Curing vs Flushing Before Harvest"
+     [[cannabis-drying-and-curing]]and Curing vs Flushing Before Harvest"
      3|tags: [comparison, harvest, curing, flushing, post-harvest]
      4|date: 2026-04-25
      5|updated: 2026-04-25
@@ -14,7 +14,7 @@
     14|determine the final quality of harvested cannabis buds. Flushing occurs before harvest and
     15|involves ceasing nutrient feeding to allow the plant to metabolize stored compounds, while
     16|drying and curing are post-harvest processes that preserve and enhance the flowers through
-    17|controlled moisture removal and gradual decomposition of chlorophyll. Together, these three
+    17|controlled moisture removal andecompositionomposition of chlorophyll. Together, these three
     18|steps form the bridge between a successful grow and a premium consumable product. Skipping
     19|or rushing any of them can significantly compromise flavor, smoothness, potency, and overall
     20|enjoyment of the final harvest.

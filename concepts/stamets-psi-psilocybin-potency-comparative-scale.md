@@ -136,4 +136,3 @@ published to confirm this effect.
 - psilocybe-azurescens - most potent known species
 - [[mushroom-identification]] - proper identification before use
 - mazatec-mushroom-ceremonies - traditional dosage practices
-

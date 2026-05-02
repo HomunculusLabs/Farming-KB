@@ -89,7 +89,7 @@ Making AACT is compared to making milk or baking a cake: the compost can be "sic
 - [[aact-ph-water-quality-ingham]]
 - [[aact-pathogen-safety-ingham]]
 - [[compost-tea-brewing-equipment-ingham]]
-- [[compost-tea-brewing-guide]]
+- [[compost-tea-brewing]]
 - [[compost-tea-brewing-methods]]
 - [[ingham-field-guide-compost-tea-ingredients-and-recipes]]
 - [[ingham-field-guide-compost-tea-microscope-analysis]]

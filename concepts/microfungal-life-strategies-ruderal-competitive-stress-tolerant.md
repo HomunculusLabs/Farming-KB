@@ -122,6 +122,6 @@ Wood decomposition shows clear strategy succession:
 
 - [[fungal-community-assembly]]
 - [[fungal-succession-leaf-litter]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
 - [[fungal-leaf-litter-succession]]

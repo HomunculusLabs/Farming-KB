@@ -137,7 +137,6 @@ Making golden milk (turmeric latte):
 ## Yields
 Under good conditions, expect 5-10 pounds of fresh rhizomes per plant,
 yielding approximately 1-2 pounds of dried turmeric powder per 10 square
-feet of planting area.
 ## See Also
 
 - [[root-crops-growing-guide]]

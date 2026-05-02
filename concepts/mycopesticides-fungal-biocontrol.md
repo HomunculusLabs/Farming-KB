@@ -56,14 +56,14 @@ When insects come into contact with entomopathogenic fungal spores:
 
 ## The Presporulating Mycelium Discovery
 
-Stamets discovered that the mycelium of entomopathogenic fungi, prior to sporulation, acts as a Trojan horse -- attracting rather than repelling its insect victims. The key insights:
+Stamets discovered that the [[mycelium]] of entomopathogenic fungi, prior to sporulation, acts as a Trojan horse -- attracting rather than repelling its insect victims. The key insights:
 
 - Insects can detect and avoid infectious spores (they "know" a mold plague when they sense one)
-- Presporulating (white) mycelium lacks the repellent spore smell and emits attractants and feeding stimulants
-- Insects pick up and carry the lethal mycelium back to their nests, becoming unwitting vectors
+- Presporulating (white) [[mycelium]] lacks the repellent [[spore]] smell and emits attractants and feeding stimulants
+- Insects pick up and carry the lethal [[mycelium]] back to their nests, becoming unwitting vectors
 - The colony becomes infected from within, reaching the queen in social insect nests
 
-This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be grown on sterilized rice or other grain media and deployed near insect pathways.
+This discovery led to U.S. Patent 6,660,290. The presporulating [[mycelium]] can be grown on sterilized rice or other grain media and deployed near insect pathways.
 
 
 
@@ -81,6 +81,6 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[paul-stamets]]
 - [[stamets-patents]]

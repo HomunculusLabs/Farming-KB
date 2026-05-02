@@ -17,11 +17,10 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 - Both are tryptamines, structurally similar to DMT and serotonin
 ### Solubility
 - Both psilocybin and psilocin are soluble in water, ethanol, methanol, and other polar solvents
-- Insoluble in nonpolar solvents (naphtha, hexane, etc.)
-- This makes polar solvent extraction straightforward
-## Mushroom Sources
+- Insoluble in nonpopsilocybe-cyanescensa, hexane, etc.)
+- This makes polar solvent extraction straightforwardpsilocybe-azurescens
 ### Common Cultivated Species
-- **Psilocybe cubensis** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
+- **Psilocybe cubensis** — most common cultivated species,[[psilocybe-semilanceata]]–1.5% psilocybin+psilocin by dry weight)
 - **Psilocybe cyanescens** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
 - **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
 - **Psilocybe semilanceata** ("liberty caps") — widespread in temperate grasslands, moderate-high potency

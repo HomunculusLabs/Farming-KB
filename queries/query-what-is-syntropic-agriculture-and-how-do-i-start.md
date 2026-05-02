@@ -19,7 +19,7 @@ Syntropic systems are organized into vertical strata that mirror a natural fores
 
 - **Emergent layer** — tall timber trees (canopy pioneers, climax species)
 - **High canopy** — medium trees for fruit, nuts, or timber
-- **Low canopy** — understory fruit trees and large shrubs
+[[cover-crops]]opy** — understory fruit trees and large shrubs
 - **Shrub layer** — fruiting bushes, small perennials
 - **Herbaceous layer** — vegetables, herbs, annual crops
 - **Ground cover** — creeping plants, cover crops, green manures
@@ -28,7 +28,7 @@ Syntropic systems are organized into vertical strata that mirror a natural fores
 Each layer occupies its own niche for light, water, and nutrients, reducing competition and maximizing total productivity per acre.
 
 ### 2. Succession — Mimic Natural Forest Growth
-Plants are grouped by their successional stage and managed to accelerate the transition from pioneer (colonizing) species to climax (mature forest) species:
+Plants are grouped by their successional stage and managed to accelerate the transition from pioneer (colonibuilding-soil to climax (mature forest) species:
 
 - **Placentation** — early succession, rapid biomass accumulation (grasses, nitrogen-fixing pioneers)
 - **Rejuvenation** — establishing longer-lived species, building soil structure
@@ -127,6 +127,8 @@ Syntropic agriculture shares DNA with [[permaculture]] and agroforestry but is d
 The best way to learn syntropic agriculture is to start small, observe closely, and prune boldly. The system teaches you as much as you teach it.
 
 ## See Also
+
+- [[query-what-is-agroforestry-and-how-can-i-start]]
 
 - [[query-how-to-start-a-syntropic-farm]]
 

@@ -86,7 +86,7 @@ Reveals disjunct, discrete patterns of fungal occupation at minute scale:
 ## Related
 
 - [[yeast-isolation-biodiversity-methods]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[selective-agents-fungal-isolation-antibiotics-fungicides]]
 - [[marine-fungi-diversity-sampling]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]

@@ -79,6 +79,31 @@ The Krameterhof has become a pilgrimage site for permaculture practitioners and 
 - Building soil through natural processes
 - Designing for self-sufficiency and resilience
 
+
+## Key Design Features
+
+The Krameterhof demonstrates several innovative design features that
+have become hallmarks of Holzer's approach. The terraced hillside
+gardens use stone retaining walls that serve multiple functions: they
+create level growing surfaces on steep terrain, absorb and radiate
+heat (creating warmer microclimates), provide habitat for beneficial
+lizards and insects, and gradually release minerals into the soil as
+the stone weathers. The terraces are oriented to maximize southern
+exposure while the stone walls protect against cold northern winds.
+
+Water management at the Krameterhof is particularly sophisticated. A
+series of ponds and water gardens at different elevations creates a
+cascading water system that provides irrigation, fire protection,
+aquaculture habitat, and microclimate moderation. The ponds are
+connected by gravity-fed channels, eliminating the need for pumps.
+Humidity from the water bodies reduces frost risk in adjacent growing
+areas and supports diverse amphibian populations. Holzer also uses
+bermed hugelkultur beds — mounded growing structures built from logs,
+branches, and soil — that provide excellent drainage, long-term
+nutrient release as the wood decomposes, and raised growing surfaces
+that warm earlier in spring. The combination of these features creates
+a productive landscape that functions as an integrated ecosystem rather
+than a collection of independent agricultural elements.
 ## See Also
 
 - [[csa-farm-share-model]]

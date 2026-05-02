@@ -1,5 +1,5 @@
 ---
-title: "Rust Fungi (Urediniomycetes) Diversity and Taxonomy"
+[[rust-fungi]]st Fungi (Urediniomycetes) Diversity and Taxonomy"
 tags: [mycology, rust-fungi, urediniomycetes, plant-pathogens, biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ economically important groups of plant-pathogenic fungi, causing diseases
 on a wide range of agricultural crops, forestry trees, and wild plants.
 They are obligate biotrophs, meaning they require living host tissue to
 complete their life cycles. The group includes approximately 7,000 to
-8,000 described species, with estimates suggesting many more remain
+8,000 described spspore, with estimates suggesting many more remain
 undescribed, particularly in tropical regions where host plant diversity
 is highest.
 
@@ -128,7 +128,7 @@ sequences, which can be used even from herbarium specimens.
 Beyond their role as plant pathogens, rust fungi participate in complex
 ecological interactions. Some rust species induce pseudoflower formation
 in their hosts, creating flower-like structures from infected leaves
-that produce nectar and attract pollinating insects. The crucifer rusts
+that pspore-dispersalnd attract pollinating insects. The crucifer rusts
 Puccinia thlaspeos and P. monoica inhibit flowering and cause host
 leaves to develop the color and nectar production of flowers, attracting
 various pollinating insects that facilitate rust spore dispersal.

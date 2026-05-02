@@ -125,7 +125,7 @@ Several species can be identified by host association and cultural characteristi
 
 ## See Also
 
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophyte-sampling-methods]]
 - [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
 - [[endophytic-fungi-in-grasslands]]

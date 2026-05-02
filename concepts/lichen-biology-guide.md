@@ -1,6 +1,5 @@
 ---
-title: Lichen Biology Guide
-created: 2026-04-12
+title: Lichen Biology [[lichens]]reated: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, ecology, biology, symbiosis, foraging, species-profiles]
@@ -9,7 +8,7 @@ sources: []
 
 # Lichen Biology Guide
 
-Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide|ascomycete]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming fungi are ascomycetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest living organisms on Earth.
+Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide|ascomycete]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming flichen-symbiosisetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest living organisms on Earth.
 
 ## Lichen Symbiosis
 
@@ -29,7 +28,7 @@ The traditional view describes lichens as a mutualistic relationship where the f
 ## Growth Forms
 
 ### Crustose (Crust-like)
-Tightly attached to the substrate, appearing as a paint-like or crust-like coating. Cannot be removed without damaging the substrate. Often grow on rocks (saxicolous) or tree bark (corticolous). Examples include Graphis scripta (script lichen) and various Caloplaca species. Crustose lichens are slow-growing but extremely long-lived.
+Tightly attached to the substrate, appearing as a paint-like or crust-like coating. Cannot be removed without damaging the substrate. Often grow on rocks (saxicolous) or tree bark (corticolous). Examples include Graphis scripta (script lichen) and various Caloplaca species. Crustose lichens are slow-groxanthoria parietinalong-lived.
 
 ### Foliose (Leaf-like)
 Flat, leaf-like structures with distinct upper and lower surfaces. Can usually be peeled from the substrate. Examples include Xanthoria parietina (common orange lichen), Parmelia sulcata, and Physcia. Often found on tree bark, rocks, and occasionally soil.

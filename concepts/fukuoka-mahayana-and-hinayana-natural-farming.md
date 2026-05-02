@@ -123,7 +123,7 @@ This philosophical framework has direct practical consequences:
 - Hinayana farming minimises inputs and approaches nature's methods
 - Scientific farming maximises inputs and control over nature
 
-The [[fukuoka-four-principles-natural-farming-detailed]] (no tillage,
+The [[fukuoka-four-principles-natural-farming]] (no tillage,
 no fertilizer, no pesticides, no weeding) represent the practical
 expression of Mahayana philosophy. [[fukuoka-natural-vs-scientific-farming]] illustrates how these philosophical differences
 manifest in real-world outcomes.
@@ -133,7 +133,7 @@ manifest in real-world outcomes.
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-do-nothing-farming-philosophy]]
 - [[four-principles-of-natural-farming]]
-- [[fukuoka-four-principles-natural-farming-detailed]]
+- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-natural-vs-scientific-farming]]
 - [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-mu-farming-epistemology]]

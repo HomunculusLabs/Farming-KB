@@ -2,7 +2,7 @@
 title: Salvia Divinorum and the Diviner's Sage
 tags:
   - ethnobotany
-  - [[salvia-divinorum]]
+  - [[salvia-divinorum-entity]]
   - mazatec
   - salvinorin
   - divination
@@ -12,7 +12,7 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
 ---
 
-# [[salvia-divinorum]] and the Diviner's Sage
+# [[salvia-divinorum-entity]] and the Diviner's Sage
 
 Salvia divinorum, known to the Mazatec Indians of Oaxaca, Mexico, as
 Hierba de la Pastora ("herb of the shepherdess") or Hierba de la

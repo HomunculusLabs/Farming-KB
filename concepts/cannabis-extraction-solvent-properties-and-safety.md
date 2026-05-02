@@ -1,109 +1,86 @@
 ---
 title: Cannabis Extraction Solvent Properties and Safety
-created: 2026-04-13
-updated: 2026-04-13
+created: 2026-04-12
+updated: 2026-05-02
 type: concept
-tags: [cannabis, cultivation]
-sources: []
+tags: [cannabis, extraction, solvents, safety, chemistry, lab-technique, processing]
+sources:
+  - /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
-# Cannabis Extraction Solvent Properties and Safety
 
-Selecting the appropriate solvent for [[cannabis-solvent-reflux-extraction-methods]] involves trade-offs between extraction efficiency, toxicity, flammability, and practical availability. "Cannabis Alchemy" by D. Gold provides detailed safety warnings and property data for solvents commonly used in cannabinoid chemistry.
 
-## Solvent Selection Trade-offs
 
-The fundamental dilemma in solvent-based extraction is that the most effective solvents tend to be the most hazardous. As Cannabis Alchemy notes: "The researcher appears to have the choice of risking death by fire or by liver and kidney damage, preceded by narcosis in both cases."
 
-Low-boiling solvents are highly flammable and near-explosive; non-flammable solvents are more toxic. Every solvent has serious drawbacks.
 
-## Common Extraction Solvents
 
-### Isopropyl Alcohol (Isopropanol, 2-Propanol)
-- **Boiling point**: 82.6 degrees C
-- **Water solubility**: Miscible
-- **Flammability**: Highly flammable
-- **Toxicity**: Moderate (less toxic than methanol, more than ethanol)
-- **Availability**: Widely available as 91% or 99% rubbing alcohol
-- **Best for**: General extraction; the solvent of choice for Cannabis Alchemy methods
-- **Note**: 70% "rubbing alcohol" contains 30% water and is not suitable for efficient isomerization. It can be partially redistilled but 99% is strongly recommended.
 
-### Petroleum Ether (Ligroin, 30-60 degrees C)
-- **Boiling range**: 30-60 degrees C
-- **Water solubility**: Insoluble
-- **Flash point**: Below -32 degrees C (extremely flammable)
-- **Best for**: Secondary purification of crude extracts; non-polar separation
-- **Safety warning**: The flash point is so low that storing it in a conventional refrigerator approximates a bomb. A slight cap leak saturates the closed refrigerator space with vapor, and the spark from the motor or defroster can ignite the confined mixture.
 
-### Ethanol (Ethyl Alcohol)
-- **Boiling point**: 78.4 degrees C
-- **Water solubility**: Miscible
-- **Toxicity**: Lowest of commonly available solvents
-- **Storage stability**: Better than chloroform for THC solutions, though slight decomposition still occurs
-- **Best for**: Storage of cannabis extracts; food-grade applications
 
-### Chloroform
-- **Boiling point**: 61.2 degrees C
-- **Flammability**: Non-flammable
-- **Toxicity**: High (liver and kidney damage)
-- **Critical warning**: Promotes significant decomposition of THC during storage, accelerated by light. In sunlight, a chloroform solution lost 25-35% of its THC in just 30 minutes. Should NOT be used for storing cannabis extracts.
 
-### Benzene
-- **Boiling point**: 80.1 degrees C
-- **Water solubility**: Slight
-- **Toxicity**: Carcinogenic
-- **Best for**: Mentioned in research literature for isomerization, but strongly discouraged due to cancer risk
+## Solvent Properties for Cannabis Extraction
+The choice of solvent in cannabis extraction determines the chemical profile, purity, safety, and overall quality of the final product. Each solvent has unique properties — polarity, boiling point, toxicity, and selectivity — that make it more or less suitable for specific extraction goals. Understanding these properties is essential for producing safe, high-quality extracts. The [[cannabis-extraction-basics]] overview covers extraction methods broadly; this page focuses specifically on solvent characteristics and safety considerations.
 
-### Cyclohexane
-- **Boiling point**: 81 degrees C
-- **Water solubility**: Insoluble
-- **Flash point**: -20 degrees C
-- **Best for**: Used in Roger Adams' original CBD-to-THC isomerization procedure
 
-## Solvent Stability and THC Degradation
 
-The choice of solvent affects how quickly THC degrades in solution:
 
-1. **Chloroform**: Worst for THC stability; 25-35% THC loss in 30 minutes of sunlight
-2. **Ethanol**: Better than chloroform but still shows slight decomposition
-3. **Best practices**: Store extracts in cold, dark conditions under inert atmosphere (nitrogen gas) to retard decomposition
 
-## Critical Safety Practices
 
-### Fire Prevention
-- Never store flammable solvents in standard refrigerators
-- Eliminate all ignition sources (pilot lights, sparks, open flames, cigarettes)
-- Work in well-ventilated areas
-- Have fire extinguisher readily available
-- The less solvent volume used, the safer the operation
 
-### Toxicity Prevention
-- Work outdoors or in fume hoods when possible
-- Wear appropriate personal protective equipment
-- Never eat, drink, or smoke while working with solvents
-- Avoid skin contact with all solvents
-- Chloroform and benzene require extreme caution due to cumulative toxicity
 
-### Solvent Recovery
-The Isomerizer and similar devices include solvent recovery systems that condense vaporized solvent back to liquid, reducing both waste and exposure. When evaporating solvents, outdoor evaporation (e.g., on a hot sunny day in a Pyrex dish) is safer than using heat sources indoors.
 
-## Solvent for Isomerization
 
-For the [[cbd-to-thc-isomerization-chemistry]] of CBD to THC, the choice of solvent matters significantly:
 
-- Water content must be minimized (use 99%+ isopropyl or absolute ethanol)
-- The solvent must not react with the acid catalyst
-- Cyclohexane (as used by Roger Adams) or high-purity isopropyl alcohol are preferred
-- Water in the solvent dilutes the acid catalyst and reduces isomerization efficiency
+## Ethanol
+Ethanol (C2H5OH) is the most widely used solvent in commercial cannabis extraction due to its favorable safety profile, regulatory acceptance, and broad extraction capability. Food-grade ethanol is generally recognized as safe (GRAS) by the FDA. Ethanol is a polar solvent, meaning it extracts a wide range of compounds including cannabinoids, terpenes, chlorophyll, and water-soluble plant components. This broad selectivity is both a strength and a limitation — while it captures the full spectrum of desirable compounds, it also extracts undesirable chlorophyll and plant waxes, requiring additional post-processing (winterization, filtration, activated carbon treatment) to achieve a clean product. Cold ethanol extraction (performed at -40°C or below) dramatically improves selectivity by reducing chlorophyll and wax extraction while still capturing cannabinoids and terpenes.
 
-Source: raw/papers/[[cannabis-concentrates-and-extracts]]-cannabis-alchemy.md
 
-## Related
 
-- [[harm-reduction-guide]]
 
-## See Also
 
-- [[2c-d-pihkal-entry-23]]
-- [[cannabis-and-exercise-recovery]]
-- [[cannabis-ph-management-and-soil-flushing]]
-- [[cannabis-and-liver-cancer-research]]
+
+
+
+
+
+
+## Hydrocarbons: Butane and Propane
+Butane (C4H10) and propane (C3H8) are non-polar hydrocarbon solvents that preferentially extract cannabinoids and terpenes while leaving behind water-soluble compounds like chlorophyll. This selectivity produces extracts with superior flavor and aroma profiles. Butane has a boiling point of -1°C and propane has a boiling point of -42°C, meaning both evaporate readily at room temperature and can be completely purged with vacuum. However, both are highly flammable, heavier than air (accumulating in low areas), and can form explosive mixtures with air at concentrations as low as 1.5-2%. Modern closed-loop extraction systems have largely eliminated the catastrophic explosion risks of early "open blasting" methods, but hydrocarbon extraction requires dedicated facilities with explosion-proof equipment, ventilation, and gas detection systems.
+
+
+
+
+
+
+
+
+
+
+
+## Supercritical CO2
+Carbon dioxide becomes supercritical at 31.1°C and 1071 psi, existing as a fluid with properties between a gas and a liquid. Supercritical CO2 (scCO2) has tunable selectivity — by adjusting temperature and pressure, operators can target specific compounds. scCO2 is non-toxic, non-flammable, and leaves no residual solvent in the final product, making it one of the cleanest extraction methods available. The equipment is expensive and requires technical expertise, limiting this method to well-funded commercial operations. scCO2 extraction typically produces lighter-colored extracts with less flavor complexity than hydrocarbon extracts, though subcritical CO2 (lower temperature and pressure) can better preserve delicate terpenes.
+
+
+
+
+
+
+
+
+
+
+
+## Safety Protocols and Regulatory Standards
+All solvent-based extraction requires rigorous safety protocols. Key requirements include: explosion-proof ventilation systems for hydrocarbon work; proper grounding and bonding of all equipment to prevent static discharge; continuous gas monitoring with automatic shutoff systems; personal protective equipment including respirators, chemical-resistant gloves, and eye protection; fire suppression systems rated for the specific solvent in use; and compliance with local fire codes and building permits. The [[cannabis-testing-and-quality]] framework mandates residual solvent testing using gas chromatography to ensure products meet safety limits established by regulatory bodies such as ASTM International and state cannabis regulatory agencies.
+
+
+
+
+
+
+
+
+
+
+
+## Post-Extraction Solvent Recovery
+Solvent recovery is both a safety requirement and an economic necessity. Ethanol is recovered through rotary evaporation or falling film evaporators that gently remove ethanol under vacuum at controlled temperatures. Hydrocarbons are recovered through vacuum purging in heated ovens or through active solvent recovery systems built into closed-loop extractors. CO2 is depressurized and recovered as a gas, then recompressed for reuse. Proper solvent recovery reduces waste, lowers operating costs, and ensures final products meet residual solvent limits. The [[cannabis-winterization-filtration|winterization process]] removes waxes and lipids after initial extraction, further purifying the product before final solvent removal.

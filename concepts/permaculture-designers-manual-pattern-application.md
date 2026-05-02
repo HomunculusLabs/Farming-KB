@@ -97,7 +97,7 @@ Pitjantjatjara people of Australia sing over sand patterns and are able to "sing
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design
 - [[permaculture-designers-manual-cropping-patterns]] - Cropping patterns
 - [[permaculture-designers-manual-keyhole-garden]] - Keyhole garden design
-- [[permaculture-designers-manual-keyline-design]] - Keyline design
+- [[keyline-design]] - Keyline design
 - [[mandala-garden-design]] - Mandala garden patterns
 - [[permaculture-designers-manual-settlement-design]] - Settlement design
 - [[chisel-plough-soil-conditioning-mollison]]

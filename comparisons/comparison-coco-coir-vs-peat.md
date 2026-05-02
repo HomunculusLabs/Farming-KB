@@ -142,6 +142,8 @@ creating a sustainable, high-performance alternative to peat-based
 formulations for virtually any growing application.
 
 ## See Also
+
+- [[comparison-coco-coir-cannabis-vs-peat-free-gardening]]
 - [[comparison-rockwool-vs-coco-coir]]
 - [[coco-coir-cannabis]]
 - [[peat-free-gardening]]

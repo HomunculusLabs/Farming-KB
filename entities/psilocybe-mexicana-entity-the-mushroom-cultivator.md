@@ -123,4 +123,4 @@ valuable comparative data for cultivators managing grow room conditions.
 - [[psilocybe-cyanescens-profile]]
 - [[psilocybe-tampanensis]]
 - [[dactylium-dendroides-entity-the-mushroom-cultivator]]
-- [[bacillus-subtilis-entity-the-mushroom-cultivator]]
+- [[bacillus-subtilis]]

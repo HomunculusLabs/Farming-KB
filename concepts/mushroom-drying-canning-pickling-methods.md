@@ -24,7 +24,7 @@ Rapid deterioration occurs from bacterial and fungal growth as well as enzymatic
 
 Refrigeration at 1–4°C extends the shelf life of fresh mushrooms considerably. At harvest, mushrooms are typically at a temperature of 15–18°C, making pre-cooling a critical step. If mushrooms are not cooled before packaging, the metabolic heat they generate inside the container will raise the temperature further and accelerate spoilage. For more details on spoilage mechanisms, see mushroom spoilage and quality control.
 
-The best method for oyster mushroom storage is holding at 8–10°C in a packed container wrapped in microporous or perforated PVC film. The modified atmosphere inside the packaging — where CO₂ increases and O₂ decreases due to ongoing respiration — helps slow deterioration. The PVC film also reduces moisture loss and preserves overall quality. See [[oyster-mushroom-harvesting-and-post-harvest]] for oyster-specific recommendations.
+The best method for oyster mushroom storage is holding at 8–10°C in a packed container wrapped in microporous or perforated PVC film. The modified atmosphere inside the packaging — where CO₂ increases and O₂ decreases due to ongoing respiration — helps slow deterioration. The PVC film also reduces moisture loss and preserves overall quality. See [[oyster-mushroom-harvesting-post-harvest]] for oyster-specific recommendations.
 
 ## Drying
 

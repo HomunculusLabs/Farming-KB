@@ -127,6 +127,6 @@ Shimeji is versatile and widely used in Japanese cuisine:
 - [[mushroom-substrates]]
 - [[mushroom-grow-room-design]]
 - [[grain-spawn-preparation]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-fruiting-chambers]]

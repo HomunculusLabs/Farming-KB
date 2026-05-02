@@ -1,7 +1,7 @@
 ---
 title: Poultry Forage Systems in Permaculture Design
 tags:
-  - permaculture
+  - [[permaculture]]
   - poultry
   - forage-systems
   - livestock-integration
@@ -9,14 +9,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - bill-mollison-permaculture-design-course.md
+  - [[bill-mollison]]-[[permaculture]]-design-course.md
 ---
 
 # Poultry Forage Systems in [[permaculture-design]]
 
 ## Overview
 
-Bill Mollison's Permaculture Design Course devotes considerable attention
+[[bill-mollison]]'s [[permaculture]] Design Course devotes considerable attention
 to the design of poultry forage systems, calling it an area "never in
 the history of the world" properly designed or implemented. The PDC
 approach treats poultry not as isolated grain-fed producers but as

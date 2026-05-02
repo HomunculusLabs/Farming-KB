@@ -43,7 +43,7 @@ complementing laboratory work with field experience.
 
 ## Research on Psychoactive Mushrooms
 
-Beug is best known for his 1992 collaborative study with [[jeremy-bigwood]],
+Beug is best known for his 1992 collaborative study with [[bigwood]],
 *Variation of Psilocybin and Psilocin Levels*, which provided the first
 comprehensive quantitative analysis of [[psilocybin]] and [[psilocin]]
 concentrations across multiple species of psychoactive mushrooms.
@@ -141,7 +141,7 @@ mycological and chemical concepts understandable to non-specialist audiences.
 
 ## See Also
 
-- [[jeremy-bigwood]]
+- [[bigwood]]
 - [[jochen-gartz]]
 - [[psilocybin]]
 - [[psilocin]]

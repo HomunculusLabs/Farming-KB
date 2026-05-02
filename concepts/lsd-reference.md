@@ -42,7 +42,7 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 - CAS number: 50-37-3
 - Structure: semi-synthetic ergoline derivative — core structure derived from lysergic acid (from ergot fungus)
 - The diethylamide group at position 8 is essential for psychoactivity
-- Potency: active at 20-50 micrograms (one of the most potent drugs known by weight)
+- Potency: aclysergic-acid-amidegrams (one of the most potent drugs known by weight)
 - Physical form: typically encountered as a colorless, odorless liquid or on blotter paper
 LSD is an ergoline alkaloid, structurally related to:
 - LSA (lysergic acid amide): naturally occurring in morning glory seeds and Hawaiian baby woodrose
@@ -111,7 +111,7 @@ Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich
 ### Contraindications
 - Personal or family history of schizophrenia or psychotic disorders
 - Pregnancy, cardiovascular disease
-- Current SSRI use (reduces effects; stopping SSRIs carries its own risks)
+- Current SSRI use (reduces effects; [[set-and-setting]]carries its own risks)
 - Lithium use (increased seizure risk)
 - MAOIs (increased and prolonged effects)
 ### Harm Reduction

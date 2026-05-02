@@ -142,12 +142,9 @@ metabolism. The CAZy profile is rich in AA1 laccases, AA2 peroxidases, and GH
 families for cellulose/hemicellulose degradation.
 
 ## Key References
+## See Also
 
-- Bonnarme, P. and Jeffries, T.W. (1990). "Mn(II) regulation of lignin peroxidases
-  and manganese peroxidases from lignin-degrading white rot fungi." *AEM* 56(1).
-- Eichlerova, I. et al. (2006). "Synthetic dyes decolorization by Bjerkandera
-  adusta." *Folia Microbiologica*.
-- Rodarte-Morales, A.I. et al. (2011). "Degradation of pharmaceuticals by
-  Bjerkandera adusta." *Bioresource Technology* 102: 3672–3678.
-- Floudas, D. et al. (2012). "The Paleozoic origin of enzymatic lignin
-  decomposition reconstructed from 31 fungal genomes." *Science* 336: 1715–1719.
+- [[lignin-degradation]]
+- [[fungal-lignin-degradation-enzymology]]
+- [[fungal-pah-degradation-and-soil-bioremediation]]
+- [[singh-lignin-peroxidase-lip-fungal-degradation]]

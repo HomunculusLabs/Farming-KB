@@ -40,9 +40,7 @@ white rot species, suggesting differential regulation in response to
 nutrient conditions. LiP expression is typically induced under nitrogen or
 carbon limitation, and the enzyme is sensitive to elevated H2O2
 concentrations, which can inactivate it through compound II formation.
-Manganese ions also suppress LiP production in favor of MnP expression.
-
-### Manganese Peroxidase (MnP)
+Manganese ions also suppress LiP production in favor of MnP expressiofungal-hyphaenese Peroxidase (MnP)
 MnP (EC 1.11.1.13) oxidizes Mn(II) to Mn(III), which forms soluble
 complexes with organic acids (oxalate, malonate). These Mn(III)-chelates
 diffuse away from the fungal hyphae and oxidize phenolic lignin
@@ -90,8 +88,7 @@ Several supporting enzymes maintain the ligninolytic system:
   oxidation through quinone reduction. It oxidizes cellobiose to cellobionic
   acid while reducing quinones and phenoxy radicals, thereby disrupting the
   antioxidant system that protects lignin from further degradation.
-- **Manganese-independent peroxidase** (also called versatile peroxidase,
-  VP) combines the catalytic capabilities of both LiP and MnP in a single
+- **Manganese-independent peroxidase** (also called versatile peroxidasepleurotus-eryngiithe catalytic capabilities of both LiP and MnP in a single
   enzyme, able to oxidize Mn(II), phenolic compounds, and non-phenolic
   aromatic compounds. VP is found in species like Pleurotus eryngii and
   Bjerkandera adusta.
@@ -145,5 +142,6 @@ Lignin-degrading enzymes have applications in:
 - **Bioremediation**: Enzymes degrade polycyclic aromatic hydrocarbons,
   polychlorinated biphenyls, dyes, and other xenobiotics. MnP and laccase
 - [[wood-decay-fungi]]
-- [[mycelium-network-architecture]]
-- [[fungal-ecology]]
+## See Also
+
+- [[bjerkandera-adusta]]

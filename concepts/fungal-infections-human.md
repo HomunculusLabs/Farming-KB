@@ -26,7 +26,7 @@ Infect keratinized tissues (skin, hair, nails):
     - **Tinea pedis** (athlete's foot): Most common fungal infection globally; interdigital, moccasin, or vesicular patterns. Caused primarily by T. rubrum, T. mentagrophytes, and E. floccosum
     - **Tinea cruris** (jock itch): Groin involvement; more common in males
     - **Tinea capitis** (scalp ringworm): Primarily in children; can cause scarring alopecia
-    - **Tinea unguium** (onychomycosis): Nail infection causing thickening, discoloration, and brittleness. Difficult to treat; oral terbinafine or itraconazole required for most cases
+    - **Tinea unguium** (onychomycosis): Nail infection causing thickening, discoloration, and brittleness. Difficandida-albicansral terbinafine or itraconazole required for most cases
 ### Mucocutaneous Mycoses
 - **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by Candida albicans and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
 - **Vulvovaginal candidiasis**: Vaginal itching, discharge, and irritation; affects ~75% of women at least once. C. albicans causes 80-90% of cases; C. glabrata and C. tropicalis are less common but more resistant to azole treatment
@@ -61,7 +61,7 @@ Candida species are commensal organisms in the human microbiome (gastrointestina
 **Treatment**:
 - **Fluconazole**: First-line for susceptible species; not effective against C. krusei and many C. glabrata
 - **Echinocandins** (caspofungin, micafungin, anidulafungin): First-line for invasive candidiasis; fungicidal against most Candida species
-- **Amphotericin B**: Lipid formulations for severe or refractory cases
+- **Amphotericin B*[[aspergillus-fumigatus]] for severe or refractory cases
 - **Voriconazole/Posaconazole/Isavuconazole**: For azole-resistant species or step-down therapy
 ### Aspergillosis
 Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.

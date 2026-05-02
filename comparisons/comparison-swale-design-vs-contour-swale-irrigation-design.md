@@ -125,6 +125,8 @@ the engineered elements ensure critical crops get reliable irrigation.
 
 ## See Also
 
+- [[comparison-terracing-vs-swale]]
+
 - [[comparison-keyline-vs-swale-design]]
 
 - [[comparison-dam-construction-vs-swale-design]]

@@ -128,8 +128,8 @@ Synergistic degradation occurs when fungi and bacteria work together:
 - **Enzyme assays**: Measure LiP, MnP, and laccase activity as indicators of fungal degradation
 ## See Also
 - [[mycoremediation-basics]] — General mycoremediation framework and enzyme systems
-- [[mycoremediation-of-oil-spills]] — Related petroleum contamination cleanup
-- [[mycoremediation-of-heavy-metals]] — Heavy metal biosorption
+- [[mycoremediation-oil-spills]] — Related petroleum contamination cleanup
+- [[mycoremediation-heavy-metals-detailed]] — Heavy metal biosorption
 - [[mycoremediation-pcbs-and-dioxins]] — PCB and dioxin degradation
 - [[mycorestoration-overview]] — Broader ecological restoration framework
 - [[harbhajan-singh]] — Comprehensive mycoremediation reference

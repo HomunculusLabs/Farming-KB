@@ -100,7 +100,7 @@ The extreme variability in alkaloid content means that users have no reliable wa
 
 - [[turner-psilocybin-mushroom-experience-guide]]
 - [[stone-fruit-tree-care]]
-- [[psilocybin-mushroom-cultivation]]
+- [[psilocybin-cultivation]]
 
 ## Merged: Mushroom Dehydration Methods
 

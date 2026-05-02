@@ -133,4 +133,3 @@ anthropological communities.
 - - ethnobotanical context
 - - comparative alkaloid data
 - - indicator of psilocin presence
-

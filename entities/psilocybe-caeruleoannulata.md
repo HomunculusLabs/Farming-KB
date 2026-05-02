@@ -43,7 +43,7 @@ Detailed microscopic examination reveals additional diagnostic characters. Basid
 
 ## Ethnobotanical Significance
 
-While not as well-documented ethnobotanically as species like [[psilocybe-mexicana]] or [[psilocybe-caerulescens]], *P. caeruleoannulata* is part of the rich diversity of psychoactive mushrooms native to Mexico and Central America. The region has the highest known diversity of psilocybin mushrooms worldwide, with over 50 species described from Mexico alone. Indigenous communities including the Mazatec, Mixtec, Nahuatl, and Zapotec have utilized various *Psilocybe* species in traditional healing and divinatory ceremonies for centuries. [[gaston-guzman]], the preeminent authority on Psilocybe taxonomy, documented the extraordinary diversity of Mexican psychoactive fungi during his decades of fieldwork. It is possible that *P. caeruleoannulata* was used by indigenous communities under local names that have not been recorded in the ethnobotanical literature.
+While not as well-documented ethnobotanically as species like [[psilocybe-mexicana]] or [[psilocybe-caerulescens-entity]], *P. caeruleoannulata* is part of the rich diversity of psychoactive mushrooms native to Mexico and Central America. The region has the highest known diversity of psilocybin mushrooms worldwide, with over 50 species described from Mexico alone. Indigenous communities including the Mazatec, Mixtec, Nahuatl, and Zapotec have utilized various *Psilocybe* species in traditional healing and divinatory ceremonies for centuries. [[gaston-guzman]], the preeminent authority on Psilocybe taxonomy, documented the extraordinary diversity of Mexican psychoactive fungi during his decades of fieldwork. It is possible that *P. caeruleoannulata* was used by indigenous communities under local names that have not been recorded in the ethnobotanical literature.
 
 ## Similar Species
 
@@ -68,7 +68,7 @@ The conservation status of *P. caeruleoannulata* has not been formally assessed.
 ## See Also
 
 - [[psilocybe-zapotecorum]]: Related Mexican species with similar habitat
-- [[psilocybe-caerulescens]]: Mexican psilocybin mushroom with bluing characteristics
+- [[psilocybe-caerulescens-entity]]: Mexican psilocybin mushroom with bluing characteristics
 - [[psilocybe-mexicana]]: The classic Mexican psychoactive mushroom used by Mazatec healers
 - [[psilocybe-hoogshagenii]]: Another Mexican species with a well-developed partial veil
 - [[psilocybe-stuntzii]]: North American species with a bluing annulus

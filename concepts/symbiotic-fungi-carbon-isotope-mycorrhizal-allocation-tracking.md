@@ -137,8 +137,6 @@ module that measures 13C/12C ratios of combusted CO2.
 
 Specific bacterial PLFAs including i15:0, a15:0, i16:0, 10Me16:0,
 i17:0, a17:0, cy17:0, 10Me17:0, and cy19:0 serve as indicators of
-bacterial biomass. These markers allow simultaneous tracking of carbon from plant to soil microorganisms.
-
 ## Related
 
 - [[mycorrhizal-deforestation-cascade]]

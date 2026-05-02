@@ -1,10 +1,11 @@
 ---
-title: Psychedelic Mushroom Set and Setting
+title: Psychedelic M[[set-and-setting]] Setting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, psychedelics, psychology, consciousness, therapy, safety, entheogen-research]
-sources: []
+sources:
+  - /Users/t3rpz/wiki/raw/papers/leary-t-the-psychedelic-experience.md
 ---
 # Psychedelic Mushroom Set and Setting
 ## Overview

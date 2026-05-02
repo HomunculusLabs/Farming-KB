@@ -72,8 +72,6 @@ all exhibit heteroplasmy-dependent penetrance.
 
 Bacterial ETCs are simpler (14 subunits in E. coli Complex I vs. 44 mammals) with branched chains using alternative donors (H₂, Fe²⁺) and acceptors (NO₃⁻, SO₄²⁻, Fe³⁺, CO₂). Bacterial c-rings vary (10 in E. coli, 14 in Bacillus). Mitochondria evolved from an α-proteobacterial endosymbiont ~1.5–2 billion years ago. Anaerobic alternatives include fermentation (2 ATP/glucose), anaerobic respiration (NO₃⁻, SO₄²⁻, CO₂ acceptors), and photophosphorylation (light-driven PMF, analogous to OXPHOS).
 
-
-
 ## Supercomplex Organization
 
 ETC complexes do not exist as isolated entities but assemble into higher-order

@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-[[2c-t-7-pihkal-43]].md
+  - /Users/t3rpz/wiki/raw/papers/shulgin-a-2c-t-7-pihkal-43.md
 ---
 
 # DOM (4-Methyl-2,5-dimethoxyamphetamine)

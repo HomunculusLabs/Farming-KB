@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 # Amanita regalis
 
 **Amanita regalis** (also known as the royal fly agaric or brown fly agaric) is a species
-of amanita mushroom known to contain [[amanita-muscaria-ibotenic-acid-fungi]] and [[muscimol-and-amanita-muscaria]], placing it in
+of amanita mushroom known to contain [[amanita-muscaria-and-ibotenic-acid-fungi]] and [[muscimol-and-amanita-muscaria]], placing it in
 the second group of neurotropic fungi alongside [[amanita-muscaria]] and [[amanita-pantherina]].
 It is one of the few Amanita species recognized for its psychoactive properties. The species
 was first described by the Swedish mycologist Elias Magnus Fries. The epithet "regalis" means
@@ -91,7 +91,7 @@ floor among mosses and leaf litter.
 
 ## Chemistry and Pharmacology
 
-Like other members of the Amanita section Amanita, *A. regalis* contains [[amanita-muscaria-ibotenic-acid-fungi]]
+Like other members of the Amanita section Amanita, *A. regalis* contains [[amanita-muscaria-and-ibotenic-acid-fungi]]
 and its decarboxylation product [[muscimol-and-amanita-muscaria]] as the primary active compounds. These compounds
 belong to a class of psychoactive molecules known as isoxazole derivatives. Ibotenic acid acts
 as a potent glutamate receptor agonist, specifically at ionotropic
@@ -104,7 +104,7 @@ dried mushroom contains approximately 0.1 to 0.2% ibotenic acid and 0.02 to 0.1%
 by dry weight. However, concentrations vary significantly depending on the specimen's age,
 geographic origin, and environmental conditions.
 
-The conversion of [[amanita-muscaria-ibotenic-acid-fungi]] to [[muscimol-and-amanita-muscaria]] occurs through decarboxylation, which is
+The conversion of [[amanita-muscaria-and-ibotenic-acid-fungi]] to [[muscimol-and-amanita-muscaria]] occurs through decarboxylation, which is
 accelerated by heat. This is why traditional preparation methods (drying over fire, parboiling)
 enhance the ratio of muscimol to ibotenic acid. Muscimol is the principal compound responsible
 for the characteristic psychoactive effects of the mushroom, while ibotenic acid is primarily
@@ -122,13 +122,13 @@ similar to [[amanita-muscaria]]. The specific role of *A. regalis* in these trad
 less well documented, but the species was likely used interchangeably with
 [[amanita-muscaria]] where both occur. Traditional preparation methods include air-drying,
 drying near a fire, and parboiling in water, which reduce toxicity by converting
-[[amanita-muscaria-ibotenic-acid-fungi]] to [[muscimol-and-amanita-muscaria]].
+[[amanita-muscaria-and-ibotenic-acid-fungi]] to [[muscimol-and-amanita-muscaria]].
 
 ## Toxicity and Effects
 
 Consumption of raw or improperly prepared *A. regalis* causes gastrointestinal distress
 (nausea, vomiting, diarrhea), confusion, dizziness, visual distortions, muscle twitching,
-and ataxia (loss of coordination). These effects are attributed primarily to [[amanita-muscaria-ibotenic-acid-fungi]],
+and ataxia (loss of coordination). These effects are attributed primarily to [[amanita-muscaria-and-ibotenic-acid-fungi]],
 which is neurotoxic and irritating to mucous membranes. The onset of effects is typically
 30 to 90 minutes after ingestion, with peak effects at 2 to 3 hours and a total duration
 of 4 to 8 hours.
@@ -145,5 +145,5 @@ mushrooms.
 
 - [[amanita-muscaria]] — the classic fly agaric, most well-known member of this group
 - [[amanita-pantherina]] — another ibotenic acid-containing Amanita species
-- [[amanita-muscaria-ibotenic-acid-fungi]] — the primary excitotoxin and prodrug found in these species
+- [[amanita-muscaria-and-ibotenic-acid-fungi]] — the primary excitotoxin and prodrug found in these species
 - [[muscimol-and-amanita-muscaria]] — the decarboxylation product of ibotenic acid and primary psychoactive agent

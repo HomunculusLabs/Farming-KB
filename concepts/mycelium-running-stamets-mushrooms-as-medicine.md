@@ -90,6 +90,6 @@ Stamets argues that preserving old-growth forests is not merely an environmental
 - [[functional-foods-medicinal-mushrooms]]
 - [[fungal-antibiotics]]
 - [[beta-glucan-receptor-binding]]
-- [[mycelium-running-medicinal-mushrooms]]
+- [[medicinal-mushrooms]]
 - [[mushroom-polysaccharide-chemistry]]
 - [[medicinal-mushrooms-biological-response-modifiers]]

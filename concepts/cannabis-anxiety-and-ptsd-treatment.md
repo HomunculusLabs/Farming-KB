@@ -124,7 +124,7 @@ The ECS's dual capacity to simultaneously balance GABA (inhibitory) and glutamat
 - Low GABA is related to anxiety, panic attacks, and aggression
 - Excessive glutamate contributes to neural excitation, inflammation, and anxiety
 - CB1 receptor activation modulates the release of both neurotransmitters
-- This dual modulation offers a more balanced approach than benzodiazepines, which primarily target GABA
+- This dual modulation offers a more balanced approserotoninbenzodiazepines, which primarily target GABA
 - CBD has demonstrated anxiolytic effects without the sedation and dependence risks associated with benzodiazepines
 
 ## Serotonin and Dopamine Interactions

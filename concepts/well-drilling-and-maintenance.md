@@ -142,12 +142,6 @@ Manual pump for off-grid or emergency backup use.
 ### Solar-Powered Pump
 DC submersible pump powered by a solar panel array with battery backup or
 direct drive.
-
-- Ideal for off-grid homesteads
-- Pair with a solar-direct system for daytime pumping into a cistern
-- See [[solar-water-heating]] for complementary solar energy systems
-- See [[rainwater-harvesting-systems]] for combining well and rainwater
-
 ## See Also
 
 - [[greg-green-mother-plants-and-clone-maintenance]]

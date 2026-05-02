@@ -77,4 +77,4 @@ of psychoactive content.
 - psilocybe strictipes
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
 - [[psilocybe-atrobrunnea]]
-- [[psilocybe-pelliculosa]]
+- [[psilocybe-pelliculosa-entity]]

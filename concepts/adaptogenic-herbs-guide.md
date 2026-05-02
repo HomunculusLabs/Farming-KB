@@ -1,22 +1,16 @@
 ---
-title: Adaptogenic Herbs Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [plants, medicine, health, pharmacology, preparation, species-profiles, biochemistry, ethnobotany]
-sources: []
----
+ti
 
 # Adaptogenic Herbs Guide
 
 ## Overview
 
-Adaptogens are a class of herbs and mushrooms that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
+Adaptogens are a class of herbs and [[mushroom-nutrition|mushroom]]s that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
 1. Be non-specific (increase resistance to a broad range of stressors).
 2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance).
 3. Be safe and non-toxic with minimal side effects.
 
-This guide covers five primary adaptogenic herbs: ashwagandha, rhodiola, holy basil, eleuthero, and maca.
+This guide covers five primary adaptogenic herbs: [[ashwagandha-growing-guide|ashwagandha]], rhodiola, holy basil, eleuthero, and maca.
 
 ## Ashwagandha (Withania somnifera)
 
@@ -47,7 +41,7 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 
 ---
 
-## Rhodiola (Rhodiola rosea)
+## Rhodiola ([[rhodiola-rosea]])
 
 ### Overview
 Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medicine. Vikings reportedly used it for endurance. Known as "golden root" or "arctic root." Grows in cold, high-altitude environments across Europe, Asia, and North America.
@@ -55,12 +49,12 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 ### Key Compounds
 - **Salidroside:** Primary adaptogenic glycoside. Anti-fatigue, neuroprotective, anti-inflammatory.
 - **Rosavin:** Signature compound (used for standardization along with salidroside). Found only in R. rosea among Rhodiola species.
-- **Rosin, rosinarin:** Related cinnamyl alcohol glycosides.
+- **Rosin, rosinarserotoninated cinnamyl alcohol glycosides.
 - **Tyrosol:** Amino acid derivative with antioxidant effects.
 
 ### Mechanisms
 - Modulates cortisol and stress hormone release.
-- Enhances neurotransmitter activity (serotonin, dopamine, norepinephrine).
+- Enhances neurotransmitter activity ([[serotonin]], dopamine, norepinephrine).
 - Activates AMPK pathway (cellular energy sensor), mimicking exercise effects.
 - Increases cellular ATP production and oxygen utilization.
 - Anti-fatigue: reduces perceived exertion and mental fatigue.
@@ -83,10 +77,10 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have adaptogenic properties, with some variation in potency.
 
 ### Key Compounds
-- **Eugenol:** Phenolic compound (also found in cloves). Anti-inflammatory, analgesic, antioxidant.
+- **Eugenol:** Phenolic compound (also found in cloves). Anlinaloolmmatory, analgesic, antioxidant.
 - **Ursolic acid:** Triterpenoid with anti-inflammatory, anti-tumor, and hepatoprotective effects.
 - **Ocimumosides:** Unique glycosides with anti-stress activity.
-- **Linalool:** Monoterpene alcohol with anxiolytic and calming effects.
+- **[[linalool]]:** Monoterpene alcohol with anxiolytic and calming effects.
 - **Rosmarinic acid:** Polyphenol with antioxidant and anti-inflammatory activity.
 - **Apigenin:** Flavonoid with anxiolytic and mild sedative effects.
 
@@ -116,7 +110,7 @@ Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for 
 Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
 
 ### Key Compounds
-- **Eleutherosides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
+-[[beta-glucans]]sides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
 - **Polysaccharides:** Immune-modulating beta-glucans.
 - **Lignans:** Including syringaresinol with antioxidant activity.
 
@@ -144,9 +138,3 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 
 ### Overview
 Root vegetable from the high Andes of Peru, cultivated at altitudes above 3,500 meters. Used as food and medicine by indigenous Andean peoples for over 2,000 years. Not a true adaptogen by strict definition (lacks HPA axis modulation) but commonly classified as one due to its stress-resistance and vitality-enhancing properties. Three main varieties: yellow (most common), red, and black (each with slightly different properties).
-
-### Key Compounds
-- **Macaenes and macamides:** Unique fatty acid amides. Believed responsible for many of maca's effects, particularly on sexual function and mood.
-- **Glucosinolates:** Sulfur-containing compounds (also found in cruciferous vegetables).
-
-Related: [[medicinal-mushroom-antioxidant-anti-inflammatory]], [[cannabis-anti-inflammatory-applications]], [[fungal-allelopathy-mechanisms-and-ecological-effects]]

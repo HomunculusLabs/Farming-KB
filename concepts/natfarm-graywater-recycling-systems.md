@@ -129,7 +129,6 @@ excessive plant growth in the marsh to maintain water flow. Annually,
 replace the top mulch layer entirely and inspect the underlying sand and
 gravel for compaction or silt accumulation.
 
-
 ## See Also
 
 - [[graywater-systems-for-homesteads]]

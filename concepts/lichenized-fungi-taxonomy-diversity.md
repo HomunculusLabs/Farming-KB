@@ -114,5 +114,5 @@ with experienced mycologists and consulting specialist literature greatly
 improves identification accuracy for these often-challenging groups.
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[old-growth-forest-fungi-conservation]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-species-concepts-estimates]]

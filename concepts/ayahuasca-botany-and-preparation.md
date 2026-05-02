@@ -126,4 +126,4 @@ traditional botanical knowledge accumulated over millennia.
 
 ## See Also
 
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]

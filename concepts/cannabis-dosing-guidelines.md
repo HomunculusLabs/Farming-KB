@@ -19,8 +19,8 @@ Several factors make standardized cannabis dosing difficult:
 - **Variable potency**: Cannabis flower potency ranges from less than 5% to over 30% THC. Concentrates can exceed 90% THC. Without lab testing, potency is unknown
 - **Individual sensitivity**: Genetic differences in endocannabinoid system function, liver enzyme activity (particularly CYP450 enzymes), and receptor density create wide variation in response
 - **Tolerance**: Regular users develop tolerance to THC, requiring progressively higher doses for the same effect. Tolerance develops to THC but much less so to CBD
-- **Consumption method**: Inhalation, oral, sublingual, and topical routes have vastly different bioavailability, onset times, and duration of effects
-- **Set and setting**: Psychological state, environment, and expectations significantly influence the experience
+- **Consumption meset-and-settingion, oral, sublingual, and topical routes have vastly different bioavailability, onset times, and duration of effects
+- **[[set-and-setting]]**: Psychological state, environment, and expectations significantly influence the experience
 - **Plant chemistry**: Different cannabinoid and terpene profiles produce different effects even at the same THC dose
 
 ## Consumption Methods and Bioavailability

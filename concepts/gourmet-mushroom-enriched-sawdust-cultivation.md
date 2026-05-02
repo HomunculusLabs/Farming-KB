@@ -140,7 +140,6 @@ Biological efficiency varies significantly by species and strain:
 - [[medicinal-mushroom-guide-lions-mane]]: 75-150%
 - maitake-cultivation|Maitake: 50-100% (more challenging species)
 - enoki-cultivation|Enoki: 80-120% under controlled conditions
-
 ## See Also
 
 - [[supplemented-sawdust-block-cultivation]]

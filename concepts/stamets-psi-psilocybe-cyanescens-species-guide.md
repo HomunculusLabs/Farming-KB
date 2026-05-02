@@ -138,4 +138,3 @@ mushroom.
 - - indicator of psilocin presence
 - - deadly look-alikes sharing similar habitats
 - - general identification practices
-

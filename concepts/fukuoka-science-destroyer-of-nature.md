@@ -59,7 +59,7 @@ The image of the "endless hell of the intellect" is one of Fukuoka's most powerf
 
 ## Connection to Natural Farming Principles
 
-The practical implication of Fukuoka's critique is radical: if science creates the problems it then claims to solve, then the solution is not more science but less -- much less. This is precisely what [[fukuoka-four-principles-natural-farming-detailed]] demonstrates. By eliminating the practices that create dependency (tilling, fertilizing, weeding, spraying), one also eliminates the need for the scientific knowledge that supports those practices.
+The practical implication of Fukuoka's critique is radical: if science creates the problems it then claims to solve, then the solution is not more science but less -- much less. This is precisely what [[fukuoka-four-principles-natural-farming]] demonstrates. By eliminating the practices that create dependency (tilling, fertilizing, weeding, spraying), one also eliminates the need for the scientific knowledge that supports those practices.
 
 The comparison between natural farming and scientific agriculture is devastating. Natural farming produces comparable yields with a fraction of the labor, no chemical inputs, and no dependence on external expertise. If the results are the same, then the simpler method is obviously superior. But the agricultural establishment, as described in [[fukuoka-why-natural-farming-blocked-in-japan]], cannot accept this conclusion because it would render their entire institutional structure obsolete.
 
@@ -73,7 +73,7 @@ In medicine: unnatural food weakens the body, doctors treat the symptoms with dr
 
 - [[fukuoka-critique-western-dietetics-nutritional-science]]
 
-- [[fukuoka-critique-agricultural-science-laws]]
+- [[fukuoka-critique-laws-agricultural-science]]
 
 - [[fukuoka-science-continues-rampage]]
 

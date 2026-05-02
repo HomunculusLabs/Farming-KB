@@ -1,11 +1,5 @@
 ---
-title: mushroom bed preparation
-tags: [mushrooms, manure, compost, victorian-gardening, horticulture]
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/[[james-cuthill]]-a-treatise-on-the-cultivation-of-the-mushroom.md
----
+ti
 
 # Mushroom Bed Preparation
 
@@ -14,7 +8,7 @@ cultivated mushroom production. The process involves selecting
 and preparing manure, constructing the bed to correct depth,
 managing fermentation temperatures, applying [[mushroom-spawn]],
 and finishing with a proper layer of [[mushroom-soil-mould]].
-James Cuthill's 1870 treatise provides detailed guidance
+[[james-cuthill]]'s 1870 treatise provides detailed guidance
 refined over thirty years of commercial and private gardening.
 
 ## Manure Selection

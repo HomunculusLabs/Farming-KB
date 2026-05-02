@@ -24,7 +24,6 @@ Vic High is a cannabis breeder and cultivator associated with the BCGA (British 
 
 
 
-
 ## Creating True Breeding Strains
 
 Vic High's seminal guide "Creating True Breeding Strains" is one of the most accessible and technically detailed explanations of cannabis genetics available to home breeders. Key concepts:
@@ -63,11 +62,9 @@ The fundamental principle: "breeding is about manipulating gene frequencies — 
 
 
 
-
 ## Significance
 
 While [[robert-clarke]]'s *Marijuana Botany* covers the botanical science, Vic High's work focuses on the practical mechanics of creating stable, reproducible strains. His contributions helped democratize advanced breeding techniques for the cannabis community, alongside other notable breeders like Chimera and Strawdog.
-
 
 
 

@@ -69,7 +69,7 @@ Stigmasterol is one of three major phytosterols, alongside β-sitosterol and cam
 - **Stigmasterol** (C₂₉H₄₈O): Distinguished by the C-22(23) trans double bond. This unsaturation makes it a key brassinosteroid precursor.
 - **Campesterol** (C₂₈H₄₈O): Has one fewer carbon (C-24 methyl rather than C-24 ethyl). Serves as the biosynthetic precursor for C₂₈ brassinosteroids including castasterone and brassinolide.
 
-The functional differences among these sterols relate primarily to their side-chain structures, which influence how they interact with membrane phospholipids and integral membrane proteins. The specific sterol composition of plant membranes can vary significantly between species, tissues, and developmental stages.
+The functional differences among these sterols relate primarily to their side-chain structures, which influence how they interact with membrane phospholipids and integral membrane proteins. The specific steroldecompositionof plant membranes can vary significantly between species, tissues, and developmental stages.
 
 ## Environmental and Ecological Significance
 

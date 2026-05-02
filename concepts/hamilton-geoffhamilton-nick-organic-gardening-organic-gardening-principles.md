@@ -115,7 +115,7 @@ most powerful tools available.
 ## See Also
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
@@ -129,7 +129,7 @@ most powerful tools available.
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]

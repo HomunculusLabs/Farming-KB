@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivation offers advantages including year-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and [[banisteriopsis-caapi]].
+Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivsalvia-divinorum-entityanpsychotria-viridisar-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and [[banisteriopsis-caapi]].
 
 Note: Growing these plants is legal in most jurisdictions when done for ornamental or botanical purposes. Consuming them for psychoactive content may be illegal. See [[psychedelic-plants-legal-status]] for jurisdiction-specific information.
 
@@ -42,8 +42,7 @@ Note: Growing these plants is legal in most jurisdictions when done for ornament
 6. Gradually remove humidity cover over 2–3 months
 7. Growth rate from seed is slow: 1–2 inches per year for the first few years
 
-### Care
-- Fertilize monthly during the growing season (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
+### CarneemFertilize monthly during the growing season (spring–fall) with low-nitrogen cactus fertilizer (1-7-6 or similar)
 - Reduce or stop watering and fertilizing in winter (dormancy period)
 - Watch for pests: mealybugs, scale, spider mites — treat with neem oil or insecticidal soap
 - Rotate pots quarterly for even growth

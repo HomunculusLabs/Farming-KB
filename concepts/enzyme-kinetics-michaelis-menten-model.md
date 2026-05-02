@@ -138,3 +138,10 @@ giving the modern Km = (k-1 + k2)/k1 definition. Lineweaver and Burk introduced
 the double-reciprocal plot (1934). The field expanded with the MWC allosteric
 model (1963), KNF sequential model (1966), and transient kinetics techniques in
 the 1970s-1980s.
+
+## See Also
+
+- [[fungal-enzyme-kinetics]]
+- [[fungal-extracellular-enzyme-production]]
+- [[ligninolytic-enzyme-systems-white-rot-fungi]]
+- [[glutathione-biochemistry-and-redox-biology]]

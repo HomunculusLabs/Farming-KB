@@ -84,4 +84,4 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 ## Related
 - [[permaculture-water-harvesting]] — for earthworks and swale design
 - [[swale-construction-guide]] — for swale building
-- [[irrigation-watering-techniques]] — for garden irrigation methods
+- [[cervantes-irrigation-watering-techniques]] — for garden irrigation methods

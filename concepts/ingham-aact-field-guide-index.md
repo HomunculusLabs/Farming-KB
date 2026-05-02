@@ -70,7 +70,7 @@ Ingham's approach emphasizes the [[lowenfels-earthworms-soil-food-web]] as the f
 
 Pages on related compost tea and soil biology topics created from other sources:
 
-- [[compost-tea-brewing-guide]] - General compost tea brewing methodology
+- [[compost-tea-brewing]] - General compost tea brewing methodology
 
 - [[compost-tea-recipe-guide]] - Basic compost tea recipes
 

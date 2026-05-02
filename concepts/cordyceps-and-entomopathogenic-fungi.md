@@ -27,8 +27,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 8. Spores are released to infect new ants below
 #### Ecological Impact
 - Ophiocordyceps can devastate ant colonies if uncontrolled
-- "Entomopathogenic graveyards" of dead ants attached to vegetation are a striking feature of tropical forests
-- Ants have evolved behavioral defenses: infected ants are removed from colonies by nestmates (social immunity)
+- "Entomopathogenic graveyards" of dead ants attached to vegetation are a striking feature of tropical focordyceps-militarisvolved behavioral defenses: infected ants are removed from colonies by nestmates (social immunity)
 - Some ants recognize infected individuals and carry them away from the colony
 ### Cordyceps militaris
 A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
@@ -38,7 +37,7 @@ The most prized medicinal fungus in Traditional Chinese Medicine.
 - Found at elevations of 3,000-5,000 meters in Tibet, Nepal, Bhutan, and Sichuan
 - The "caterpillar fungus": the fruiting body emerges from a mummified caterpillar
 - Traditionally harvested by hand in spring; increasingly scarce due to overharvesting
-- Prices reached $50,000-100,000 per kilogram at peak, though prices have moderated
+- Prices reamycelium,000-100,000 per kilogram at peak, though prices have moderated
 - Contains cordycepin (3'-deoxyadenosine), adenosine, and other bioactive compounds
 - CS-4 is a commercially available fermented mycelium product claimed to mimic wild C. sinensis
 - Classified as a protected species in China; harvest regulations have been implemented
@@ -110,7 +109,7 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 ### Conidial Sprays
 - Most common method: spray conidial suspensions onto crops or directly onto pests
 - Application timing critical: target susceptible life stages
-- Formulation with UV-protectants and humectants improves field persistence
+- F[[fungal-spores]]th UV-protectants and humectants improves field persistence
 - Standard application rates: 10^12-10^13 conidia per hectare
 ### Attract-and-Infect (Auto-dissemination)
 - Stations containing fungal spores are placed in the environment

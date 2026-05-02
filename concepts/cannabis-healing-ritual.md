@@ -1,5 +1,5 @@
 ---
-title: Cannabis Healing Ritual
+title: cannabis healing ritual
 tags:
   - ritual
   - healing
@@ -12,7 +12,7 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/a-practitioners-guide-marijuana-magick.md
 ---
 
-# Cannabis Healing Ritual
+# cannabis healing ritual
 
 The Harnessing of the Earth's Energy is a healing ritual from "Marijuana Magick:
 A Practitioners Guide" by Magus Sativus. It is designed for times when the

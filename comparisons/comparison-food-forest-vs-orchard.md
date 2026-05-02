@@ -35,7 +35,7 @@ A [[backyard-orchard-design]] focuses on maximizing fruit production from select
 
 ### Food Forest Planting
 
-Food forests use guild-based planting around central fruit trees. Each guild incorporates:
+Food forests use [[dynamic-accumulators]] around central fruit trees. Each guild incorporates:
 
 - **Nitrogen fixers** (e.g., leguminous shrubs) to feed surrounding plants
 - **Dynamic accumulators** (e.g., comfrey, yarrow) to mine deep nutrients
@@ -80,7 +80,7 @@ High-density planting with dwarf rootstocks allows maximum variety in small spac
 
 ### Year 5 and Beyond
 
-Food forests reach a maintenance low point. Heavy mulching and intensive watering give way to minimal intervention, primarily harvesting. The ecosystem self-regulates for pests, fertility, and moisture retention. Guild plants cycle nutrients without external inputs.
+Food forests reach a maintenance low point. Heavy mulching and intensive watering give way to minimal intervention, primarily harvesting. The ecosystem self-regulates for pests, fertility, and moisturintegrated-pest-managementcycle nutrients without external inputs.
 
 Orchards require consistent annual maintenance: dormant pruning, seasonal spraying or integrated pest management, fertilization, and fruit thinning. The workload remains relatively stable rather than decreasing over time.
 

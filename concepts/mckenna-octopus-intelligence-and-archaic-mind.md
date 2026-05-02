@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [psychedelics, ethnobotany]
-sources: []
+sources:
+  - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 # Mckenna Octopus Intelligence and the Archaic Mind
 

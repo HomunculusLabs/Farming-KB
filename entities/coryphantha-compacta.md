@@ -66,14 +66,14 @@ Coryphantha palmerii has likewise been reported as a hallucinogen in Mexico, sug
 
 ## Chemistry
 
-Various alkaloids have been isolated from several species of Coryphantha, including:
+Various alkaloids have been isolated from several species of Coryphantha, imescaline
 
 - **Hordinine** — a phenylethylamine alkaloid also found in barley
 - **Calipamine** — a bioactive alkaloid relatively uncommon in other genera
 - **Macromerine** — a psychoactive phenylethylamine with structural similarity to mescaline
 - **N-Methyl-3,4-dimethoxyphenethylamine** — a mescaline analog
 
-The presence of psychoactive phenylethylamines in Coryphantha species helps explain their traditional use as Peyote substitutes, as true Peyote also contains mescaline, a phenylethylamine alkaloid. However, the specific alkaloid profile of C. compacta differs from that of Lophophora williamsii, which may account for the Tarahumara belief that Bakana is more dangerous and unpredictable in its effects.
+The presence of psychoactive phenylethylamines in Coryphantha species helps explain their traditional use as Peyote substitutes, as true Peyote also contains mescaline, a phenylethylamine alkaloid. However, the specific alkaloid profile of C. compacta differs from that of Lophophora williamsii, which mayserotoninfor the Tarahumara belief that Bakana is more dangerous and unpredictable in its effects.
 
 ## Pharmacology
 

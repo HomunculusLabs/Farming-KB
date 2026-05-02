@@ -13,7 +13,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.m
 
 
 
-
 ## Taxonomy and Description
 
 *Areca catechu* is a medium-sized, slender, unbranched palm growing 15–20 meters tall with a trunk diameter of approximately 20–30 cm. The pinnate leaves are 1.5–2 meters long, with numerous narrow leaflets. The fruit is an ovoid drupe, 4–5 cm long, orange-yellow when ripe, containing a single seed (the betel nut) that is hard, fibrous, and reddish-brown to dark brown.
@@ -22,13 +21,11 @@ The palm is monoecious, producing both male and female flowers on the same inflo
 
 
 
-
 ## Psychoactive Constituents
 
 The primary psychoactive alkaloid in the betel nut is **arecoline** (methyl 1,2,5,6-tetrahydro-1-methylnicotinate), a muscarinic acetylcholine receptor agonist. Arecoline constitutes approximately 0.1–0.5% of the fresh nut weight. Additional alkaloids include arecaidine, guvacine, and guvacoline, which are structurally related GABA reuptake inhibitors.
 
 The betel nut is almost never chewed alone. It is traditionally prepared as a **quid** wrapped in a leaf of *Piper betle* (betel leaf) along with slaked lime (calcium hydroxide). The alkaline lime converts arecoline to arecaidine and facilitates the release of the alkaloids. The combination also often includes spices such as cardamom, clove, fennel, or tobacco.
-
 
 
 
@@ -45,13 +42,11 @@ Onset of effects is within 5–10 minutes of chewing, peaking at 20–30 minutes
 
 
 
-
 ## Cultural and Traditional Use
 
 The betel nut quid (*paan* or *makan*) has been used in South and Southeast Asia for over 2,000 years. It plays a central role in social customs, religious ceremonies, and traditional medicine across the region. In Hindu tradition, betel nuts are offered to deities and distributed at weddings and other auspicious occasions. In parts of Southeast Asia and the Pacific Islands, betel nut chewing is a ubiquitous social practice.
 
 Archaeological evidence of betel nut use dates back to the prehistoric period in Southeast Asia. The practice spread along trade routes to East Africa, where it remains common in coastal regions of Kenya, Tanzania, and Madagascar.
-
 
 
 
@@ -68,18 +63,15 @@ The addition of tobacco to the betel quid dramatically increases cancer risk.
 
 
 
-
 ## Cultivation
 
 *Areca catechu* is cultivated extensively throughout tropical Asia, the Pacific Islands, and parts of East Africa. The palms begin bearing fruit at 5–8 years and can remain productive for 60–80 years. India, Indonesia, Bangladesh, and Sri Lanka are the largest producers. The nuts are harvested at different stages of maturity depending on the intended use — green for fresh chewing, ripe for dried preparations.
 
 
 
-
 ## Legal Status
 
 Betel nut is unregulated in most countries where it is traditionally used. Some jurisdictions have restricted sale to minors or required health warnings. Import restrictions exist in some countries, including parts of Australia and the Middle East.
-
 
 
 
@@ -90,5 +82,5 @@ Betel nut is unregulated in most countries where it is traditionally used. Some 
 - [[comparison-ethnobotany-vs-ethnomycology]]
 
 - [[betel-nut-arecoline-ethnobotany]] — the primary psychoactive alkaloid
-- [[Nicotine]] — another widely used plant alkaloid stimulant
-- [[Caffeine]] — the world's most widely consumed psychoactive substance
+- Nicotine — another widely used plant alkaloid stimulant
+- Caffeine — the world's most widely consumed psychoactive substance

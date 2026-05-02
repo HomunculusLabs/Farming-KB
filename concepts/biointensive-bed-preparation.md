@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Biointensive Bed Preparation (Double-Digging)
+# biointensive bed preparation (Double-Digging)
 
 Double-digging is the foundational soil preparation technique in the
 [[comparison-biointensive-vs-square-foot-gardening]] method. It loosens soil
@@ -19,9 +19,9 @@ Conventional tilling typically only works the top 6-8 inches of soil.
 Double-digging opens soil to 24 inches,
 which:
 - Allows roots to penetrate deeper, accessing more nutrients and water
-- Improves drainage in heavy/clay soils and water retention in sandy soils
+- Improves drainage in heavybiointensive-compostingetention in sandy soils
 - Increases the volume of soil available for [[biointensive-close-plant-spacing]]
-- Incorporates biointensive-composting|compost into two layers rather than just the surface
+- Incorporates [[biointensive-composting]]|compost into two layers rather than just the surface
 - Creates a "living sponge" that absorbs and retains moisture
 
 ## The Double-Dig Process
@@ -82,7 +82,7 @@ tools:
 
 ## Soil Improvement Timeline
 
-After double-digging and applying biointensive-composting|compost, soil
+After double-digging and applying [[biointensive-composting]]|compost, soil
 structure typically improves markedly within one growing season. Within 3-5
 years of consistent GB practice, soil becomes remarkably friable and rich in
 organic matter, requiring less intensive
@@ -131,10 +131,9 @@ topsoil), the broadfork is particularly useful for breaking through without
 major
 excavation.
 ## Double-Digging and Soil Biology
-A key consideration often overlooked in discussions of double-digging is its
-impact on soil microbial communities. The initial double-dig inevitably
+A key consideration often overlooked in discussions of double-digging is itsfungal-hyphaeil microbial communities. The initial doubjohn-jeavonstably
 disrupts [[lowenfels-earthworms-soil-food-web]] networks, particularly
-fungal hyphae and mycorrhizal connections. This is why John Jeavons recommends
+[[fungal-hyphae]] and mycorrhizal connections. This is why [[john-jeavons]] recommends
 double-digging primarily for new beds and transitioning to surface cultivation
 with a U-bar or broadfork for maintenance after the first year. The
 reduced-disturbance approach preserves the microbial networks that develop in

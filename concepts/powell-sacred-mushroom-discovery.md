@@ -98,7 +98,7 @@ It was not until June 29-30, 1955, that Wasson himself participated in
 a velada (night ceremony) and consumed the sacred mushrooms. Guided by
 the Mazatec curandera Maria Sabina, Wasson underwent a profound
 psychedelic experience. The mushrooms used were subsequently identified
-as [[psilocybe-caerulescens]] and Psilocybe mexicana by Roger Heim of the
+as [[psilocybe-caerulescens-entity]] and Psilocybe mexicana by Roger Heim of the
 Museum National d'Histoire Naturelle in Paris.
 
 ## The Life Magazine Article

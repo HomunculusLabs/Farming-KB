@@ -1,18 +1,5 @@
 ---
-title: Microcosm and Mesocosm Studies in Mycorrhizal Remediation
-created: 2026-04-26
-tags:
-  - microcosm-studies
-  - mesocosm-experiments
-  - mycorrhizal-remediation
-  - experimental-design
-  - field-validation
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-[[mycoremediation]]-_-[[fungal-bioremediation]].md
-type: concept
----
+ti
 
 # Microcosm and Mesocosm Studies in [[mycorrhiza]]l Remediation
 
@@ -125,7 +112,7 @@ microcosms to field applications:
   densities far exceeding what is achievable at field scale,
   potentially inflating effect sizes.
 
-- Soil sterilization: Many microcosm studies use gamma-irradiated or
+- Soil [[sterilization]]: Many microcosm studies use gamma-irradiated or
   autoclaved soil to eliminate confounding microbial interactions,
   which is neither practical nor desirable at field scale.
 

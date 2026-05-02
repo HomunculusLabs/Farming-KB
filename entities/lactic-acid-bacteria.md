@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 ---
 
-# Lactic Acid Bacteria
+# Lactinatural-farming
 
 **Lactic acid bacteria (LAB)** are a diverse group of Gram-positive, acid-tolerant, generally non-sporulating bacteria that produce lactic acid as the major metabolic end-product of carbohydrate fermentation. In Korean Natural Farming (KNF) and similar indigenous microorganism (IMO) systems, LAB are one of the core microbial inputs, prepared as a liquid culture called "LAB serum" and applied as a foliar spray, soil drench, and compost inoculant. Their roles in agricultural systems span plant disease suppression, nutrient cycling, odor control, and preservation of organic materials.
 
@@ -51,9 +51,9 @@ The standard Korean Natural Farming protocol for producing LAB serum:
 LAB contribute to plant health through multiple antimicrobial mechanisms:
 
 * **Acidification:** Lactic acid production lowers pH on leaf surfaces and in soil, inhibiting acid-sensitive pathogens including *Fusarium* spp., *Rhizoctonia* spp., *Pythium* spp., and many bacterial pathogens.
-* **Bacteriocin production:** Many LAB strains produce bacteriocins — antimicrobial peptides that selectively kill or inhibit competing bacteria. Nisin (from *Lactococcus lactis*) and pediocin (from *Pediococcus acidilactici*) are well-characterized examples. Plant-associated *Lactobacillus plantarum* produces plantaricins effective against *Erwinia*, *Pseudomonas*, and *Xanthomonas* plant pathogens.
+* **Bacteriocin production:** Many LAB strlactobacillus-plantarumns — antimicrobial peptides that selectively kill or inhibit competing bacteria. Nisin (from *Lactococcus lactis*) and pediocin (from *Pediococcus acidilactici*) are well-characterized examples. Plant-associated *Lactobacillus plantarum* produces plantaricins effective against *Erwinia*, *Pseudomonas*, and *Xanthomonas* plant pathogens.
 * **Competitive exclusion:** Rapid colonization of plant surfaces and soil niches by LAB prevents establishment of pathogenic microorganisms through competition for nutrients and space.
-* **Hydrogen peroxide production:** Some LAB generate H₂O₂ as a metabolic byproduct, which acts as an antimicrobial agent against bacteria, fungi, and viruses.
+* **Hydrogen peroxide production:** Some LAB generate H₂O₂ as a metabolic byproduct, whiphosphorus-availabilitybial agent against bacteria, fungi, and viruses.
 
 ### Nutrient Cycling
 
@@ -66,7 +66,7 @@ LAB contribute to plant health through multiple antimicrobial mechanisms:
 LAB serum is widely used in livestock operations to control foul odors from manure and compost:
 
 * Lactic acid and other metabolites inhibit putrefactive bacteria (*Proteus*, *Clostridium*, *Enterobacter*) that produce ammonia, hydrogen sulfide, and volatile amines
-* Regular spraying of LAB solution (1:500 dilution) on manure piles and compost reduces ammonia volatilization by 40–70%
+* Regular spraying of LAB solution (1:500 dilution) on manure piles and compost reducedecompositionatilization by 40–70%
 * In livestock housing, LAB application improves air quality and reduces respiratory irritation in animals
 
 ### Compost Acceleration

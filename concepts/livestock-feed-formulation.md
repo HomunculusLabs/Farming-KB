@@ -1,13 +1,13 @@
 ---
-title: Livestock Feed Formulation
+title: livestock feed formulation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, homesteading, livestock, forage, nutrients, recipe]
+tags: [animal-husbandry, [[homesteading]], livestock, forage, nutrients, recipe]
 sources: []
 ---
 
-# Livestock Feed Formulation
+# livestock feed formulation
 
 Understanding livestock nutrition and feed formulation allows homesteaders to
 optimize animal health, reduce purchased feed costs, and make the most of
@@ -144,11 +144,6 @@ feeds, and practical formulation for homestead-scale operations.
 - **Probiotics:** Support rumen and gut health.
 - **Prebiotics:** Feed beneficial gut microbes.
 - **Yeast culture:** Improves fiber digestion in ruminants.
-- **Apple cider vinegar:** 1-2 tbsp/gallon in water. Supports digestion
-  and immune health (anecdotal evidence).
-- **Diatomaceous earth:** For parasite control (limited evidence, widely
-  used).
-
 ## See Also
 Related: [[holzer-livestock-integration-pigs-cattle]]
 

@@ -84,4 +84,4 @@ After earthworks, tree planting, soil building, and detailed garden design follo
 
 ## Connections
 
-See also [[permaculture-earthworks]], [[earthworks-for-water-management]], [[swale-construction-guide]], [[keyline-design]], [[rainwater-harvesting-systems]], [[permaculture-principle-catch-and-store-energy]], and [[permaculture-zone-and-sector-analysis]] for placement guidance.
+See also [[permaculture-earthworks]], [[earthworks-for-water-management]], [[swale-construction-guide]], [[keyline-design]], [[rainwater-harvesting-systems]], [[permaculture-principle-catch-and-store-energy]], and [[zone-sector-analysis-guide]] for placement guidance.

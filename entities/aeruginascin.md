@@ -17,15 +17,9 @@ Aeruginascin is a naturally occurring indole alkaloid found in certain **Psilocy
 
 
 
-
-
-
 ## Chemical Structure
 
 Chemically, aeruginascin is **4-phosphoryloxy-N,N,N-trimethyltryptamine**. The key structural difference from psilocybin is the replacement of the terminal dimethylamine with a trimethylammonium cation, giving it a permanent positive charge. This quaternary ammonium modification significantly alters its pharmacokinetic properties — the molecule cannot cross the blood-brain barrier as readily as psilocybin or psilocin, which may explain differences in its psychoactive profile.
-
-
-
 
 
 
@@ -50,15 +44,9 @@ Its distribution is not universal among psilocybin-containing fungi, suggesting 
 
 
 
-
-
-
 ## Biosynthetic Relationship
 
 Aeruginascin is produced via the same pathway as psilocybin, likely diverging through an additional **N-methylation step** on psilocybin or a late-stage intermediate. The enzyme responsible for this extra methylation (a trimethyltransferase) appears to be present only in certain species. The compound may represent a **detoxification pathway** — converting bioactive amines into permanently charged, membrane-impermeant forms that cannot interact with serotonin receptors in the same way.
-
-
-
 
 
 
@@ -76,9 +64,6 @@ Unlike psilocybin, aeruginascin shows minimal classical psychedelic activity. Th
 
 
 
-
-
-
 ## Significance
 
 Aeruginascin is of interest to mycochemists for several reasons:
@@ -88,6 +73,12 @@ Aeruginascin is of interest to mycochemists for several reasons:
 3. **Taxonomic utility** — Useful as a chemotaxonomic character for distinguishing species within section *Cyanescens*
 
 Research into aeruginascin remains limited, and its precise biological role in the producing fungi is not fully understood. It may serve a defensive function, acting as a feeding deterrent against invertebrate predators.
+
+
+
+
+
+
 
 ## See Also
 

@@ -15,11 +15,9 @@ Clay ball seed pellets (also called clay pellets or seed balls) are a technique 
 
 
 
-
 ## Purpose
 
 If rice is sown in autumn and left uncovered, seeds are often eaten by mice and birds, or they rot on the ground. Enclosing seeds in clay pellets solves this problem. The clay pellet enclosing the seed protects it until conditions are suitable for germination.
-
 
 
 
@@ -37,7 +35,6 @@ If rice is sown in autumn and left uncovered, seeds are often eaten by mice and 
 
 
 
-
 ## Method 2: Kneading and Screening
 
 1. Soak unhulled rice seed for several hours in water
@@ -47,7 +44,6 @@ If rice is sown in autumn and left uncovered, seeds are often eaten by mice and 
 5. Ideally, there is one seed in each pellet
 
 **Productivity**: In one day it is possible to make enough pellets to seed several acres.
-
 
 
 
@@ -68,7 +64,6 @@ The method also works for other grains and vegetables. Fukuoka sometimes enclose
 
 
 
-
 ## Straw Mulch Integration
 
 The pellets are covered with straw (spread uncut, tossed every which way "just as though the stalks had fallen naturally"). Rice straw works as mulch for winter grain; winter grain straw works best for rice. The uncut straw works better than shredded straw. Where pellets are covered with straw, the seeds germinate well and will not be eaten.
@@ -77,11 +72,9 @@ The pellets are covered with straw (spread uncut, tossed every which way "just a
 
 
 
-
 ## Desert Revegetation Application
 
 Fukuoka proposed large-scale use of clay pellets for revegetating deserts. The mixture of seeds is coated first with a layer of soil, then one of clay, to form microbe-containing clay pellets. These can be scattered by hand over deserts and savannahs. The seeds within the hard clay pellets will not sprout until rain has fallen and conditions are right for germination, and will not be eaten by mice and birds.
-
 
 
 

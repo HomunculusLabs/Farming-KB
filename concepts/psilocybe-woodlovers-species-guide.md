@@ -130,7 +130,7 @@ Cultivation of psilocybin-containing mushrooms is illegal in many jurisdictions.
 - [[outdoor-mushroom-bed-preparation]] — general outdoor mushroom beds
 - [[outdoor-mushroom-cultivation]] — outdoor cultivation overview
 - [[psilocybe-mushroom-species-guide]] — comprehensive species guide
-- [[psilocybin-mushroom-cultivation]] — cultivation methods overview
+- [[psilocybin-cultivation]] — cultivation methods overview
 - [[log-cultivation-methods]] — alternative wood-based cultivation
 - [[mushroom-substrates]] — substrate options
 

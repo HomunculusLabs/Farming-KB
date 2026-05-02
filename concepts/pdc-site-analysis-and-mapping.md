@@ -91,7 +91,7 @@ Take soil samples and test infiltration rates across the site. Chart surface wat
 
 ## Related
 
-- [[permaculture-designers-manual-keyline-design]]
+- [[keyline-design]]
 - [[permaculture-multipurpose-trees]]
 
 ## See Also

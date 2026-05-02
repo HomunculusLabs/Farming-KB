@@ -12,7 +12,7 @@ sources:
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 
-# Sea Level Change and Coastal Zone Management
+# Sea Level Change [[bill-mollison]]one Management
 
 Coastal zones represent some of the most productive yet fragile interfaces on
 Earth. In [[permaculture-design]], the transition between land and sea is treated

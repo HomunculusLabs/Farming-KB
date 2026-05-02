@@ -100,7 +100,9 @@ these delicate compounds for long-term storage.
 - [[valerian-growing-guide]] and chamomile provide reliable calming
   and sleep support with relatively easy cultivation requirements
 
-## Related Questions
+## Related
+
+- [[query-how-to-grow-sprouts-and-microgreens-at-home]] Questions
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
 - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]

@@ -11,8 +11,6 @@ sources:
 
 PIHKAL entry #132. MMDA is one of the Essential Amphetamines, derived from myristicin (a principal component of nutmeg oil). First synthesized by both Shulgin and Dr. Gordon A. Alles independently in 1962, both naming it MMDA. Alles died in 1963 before they could share their findings. MMDA is distinguished among psychedelics for its dreamlike, eyes-closed visual quality — subjects repeatedly described it as producing "brain movies."
 
-
-
 ## Chemical Identity
 
 - Full name: 3-Methoxy-4,5-methylenedioxyamphetamine
@@ -23,16 +21,12 @@ PIHKAL entry #132. MMDA is one of the Essential Amphetamines, derived from myris
 - Derived from: myristicin (3-methoxy-4,5-methylenedioxyallylbenzene)
 - Structural relationship: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[tma-entity]] and TMA-2
 
-
-
 ## Dosage and Duration
 
 - Dosage: 100-250 mg
 - Duration: 5-8 h
 - Onset: 45-60 minutes
 - For comparison: Mescaline 200-500 mg / 8-12 h; MDMA 80-150 mg / 3-5 h
-
-
 
 ## Effects and Qualitative Comments
 
@@ -46,15 +40,11 @@ At 210 mg, described as tasting awful with a chemical laboratory flavor. Nothing
 
 At 225 mg, strange awareness of hands within 20 minutes. Acute experience of aloneness and fearfulness. Vivid school scenes more real than actual surroundings. Extreme sleepiness during the experience. Described as most like a series of easily remembered dreams.
 
-
-
 ## The "Brain Movies" Compound
 
 The phrase used by several subjects in early trials, again and again, was "brain movies." The richest effects were to be had with eyes closed. MMDA appears to bring dreams to the conscious level and serves as a link between subconscious and conscious experience. This dreamlike quality distinguishes MMDA from other phenethylamines — whereas [[mescaline-entity]] produces vivid open-eye visuals and [[mdma-entity]] produces emotional openness, MMDA is uniquely oriented toward internal, closed-eye imagery that closely resembles natural dreaming.
 
 This quality has led some researchers to suggest MMDA might have applications in dream research, psychoanalytic therapy, or as a tool for accessing subconscious material. The relative gentleness of the experience (compared to more intense psychedelics) also made it notable as a "beginner-friendly" compound.
-
-
 
 ## Natural Source and Essential Amphetamine Classification
 
@@ -64,8 +54,6 @@ Another natural source of myristicin is Oil of Parsley (also an excellent source
 
 The Essential Amphetamines are compounds structurally related to essential oils that differ only by the addition of ammonia. The family includes [[tma-entity]] (from elemicin), MMDA (from myristicin), MDA (from safrole), and others. These relationships between natural oils and synthetic amphetamines served as an early pharmacological index for [[alexander-shulgin]]'s research program.
 
-
-
 ## Synthesis
 
 Two routes are detailed in PIHKAL:
@@ -74,19 +62,13 @@ Two routes are detailed in PIHKAL:
 
 2. From Oil of Nutmeg: careful distillation yields myristicin (7% of commercial oil, 87% purity), which is isomerized to isomyristicin via KOH in EtOH, then nitropropene formation via tetranitromethane, and reduction to MMDA.
 
-
-
 ## Historical Notes
 
 At the time the FDA issued its proclamation of dangerous drugs (mid-1960s), MMDA was being discussed and had just become commercially available in England through Koch Light Industries. It had never appeared on the street, so its inclusion was simply bad timing. The close resemblance of initials between MMDA and the subsequently notorious MDMA has led to considerable confusion in the popular press — they remain totally separate and completely different drugs.
 
-
-
 ## Cautionary Notes
 
 Sudden onset at the 100 mg level can be disorienting. The dream-like quality may be disturbing for those unfamiliar with altered states. Nausea and cramps at moderate doses. The experience of aloneness and fearfulness was reported at higher doses. At 225 mg, extreme sleepiness may pose safety risks if the user is not in a safe environment.
-
-
 
 ## See Also
 

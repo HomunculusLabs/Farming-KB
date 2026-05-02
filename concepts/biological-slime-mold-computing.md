@@ -16,7 +16,7 @@ new approaches in biocomputation and [[unconventional-computing]].
 Physarum polycephalum (the "many-headed slime mold") is a slime mold species
 belonging to the class Myxogastria. In its vegetative plasmodial stage, it
 exists as a single giant multinucleate cell that can extend over surfaces
-measuring tens of centimeters. The plasmodium consists of a branching network
+mefungal-sporesof centimeters. The plasmodium consists of a branching network
 of vein-like tubes that shuttle cytoplasm back and forth through rhythmic
 contraction waves, distributing nutrients and chemical signals.
 The organism feeds on bacterial films, fungal spores, and decaying organic

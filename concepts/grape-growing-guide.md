@@ -1,5 +1,5 @@
 ---
-title: Grape Growing Guide
+title: grape growing guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -95,9 +95,9 @@ Proper pruning is the single most important factor in grape quality and producti
 Grapes are susceptible to several fungal diseases, especially in humid climates. Prevention is key.
 ### Powdery Mildew
 - White powdery coating on leaves, shoots, and fruit
-- Most common grape disease worldwide
+- Most common gneem disease worldwide
 - Prevention: good air circulation, proper pruning, resistant varieties
-- Organic controls: sulfur sprays (do not use above 85F), potassium bicarbonate, neem oil
+- Organic controls: sulfur sprays (do not use above 85F), potassium bicarbonate, [[neem]] oil
 - Remove and destroy infected plant material
 ### Downy Mildew
 - Oily yellow spots on upper leaf surface; white fuzzy growth underneath

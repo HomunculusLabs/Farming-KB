@@ -95,3 +95,7 @@ The desert environment likely contributed both novel sensory content (unusual fa
 - turner psychedelic safety guidelines - Safety principles for combinations
 - [[turner-psychedelic-combination-experience-reports]]
 - [[psychedelic-safety-guidelines-turner]]
+
+## See Also
+
+- [[lsd]]

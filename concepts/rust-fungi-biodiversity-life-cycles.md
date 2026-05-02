@@ -86,6 +86,6 @@ Rusts are unable to grow saprobically — found only where hosts occur. They usu
 
 - [[fungal-pathogens-in-agriculture]]
 - [[fungal-biodiversity-grassland]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[fungal-species-richness-and-diversity-indices]]
 - [[tropical-vs-temperate-fungal-diversity]]

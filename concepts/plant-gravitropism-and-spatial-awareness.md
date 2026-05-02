@@ -138,7 +138,6 @@ can still develop relatively normal morphology through light cues and other
 signals, but gravitropic responses are absent. These experiments confirm the
 central role of gravity in normal plant development while demonstrating the
 remarkable plasticity of plant growth regulation.
-
 ## See Also
 
 - [[gravitropism]]

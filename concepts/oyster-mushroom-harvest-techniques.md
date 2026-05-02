@@ -1,15 +1,10 @@
 ---
-title: oyster mushroom harvest techniques
-tags: [mycology, cultivation, oyster-mushroom, harvest]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
----
+ti
 
 # Oyster Mushroom Harvest Techniques
 
 Harvest timing and technique directly impact yield, quality, and the
-viability of subsequent flushes. Oyster mushrooms typically produce 2-4
+viability of subsequent flushes. [[oyster-mushrooms]] typically produce 2-4
 flushes per substrate block, with the first flush yielding 50-70% of
 total production. Proper handling during and after harvest preserves
 shelf life and market value.
@@ -23,7 +18,7 @@ is narrow — typically 12-24 hours for most oyster varieties.
 Visual indicators of readiness:
 - **Cap shape**: Convex to flat. Slight upward curling at the margin is
   acceptable but pronounced curling indicates overmaturity.
-- **Spore production**: If the gill surface is dropping visible spore
+- **[[spore]] production**: If the gill surface is dropping visible spore
   deposits, the mushroom is past optimal harvest. Spore release reduces
   shelf life and creates a messy harvest area.
 - **Stem texture**: Stems should be firm but not woody. King oyster
@@ -131,6 +126,6 @@ distribution radius.
 
 ## See Also
 
-- [[oyster-mushroom-fruiting-conditions]]
-- [[oyster-mushroom-substrate-preparation]]
+- [[fruiting-conditions]]
+- [[substrate-preparation]]
 - [[spawn-production]]

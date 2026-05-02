@@ -3,7 +3,7 @@ title: Psilocybin and Consciousness Expansion
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [consciousness, psilocybin, neuroscience, philosophy-of-mind, altered-states, serotonergic, information-theory]
+tags: [copsilocybin-mushroomsbin, neuroscience, philosophy-of-mind, altered-states, serotonergic, information-theory]
 sources:
   - raw/papers/the-psilocybin-solution-by-simon-g-powell.md
 ---
@@ -50,7 +50,7 @@ This process is wholly natural: the psilocybin mushroom is part of the environme
 Powell argues that just as we can selectively pick wheat to make bread for physical well-being, we can selectively consume natural psilocybin mushrooms for spiritual well-being.
 Both wheat and mushroom are "legitimate natural expressions of the Gaian system within which we are embedded."
 
-This framing deliberately positions psychedelic mushroom use outside the category of "drug use" as conventionally understood, instead treating it as a form of foraging — a direct interaction between a human organism and a naturally occurring chemical resource.
+This framing deliberately [[richard-evans-schultes]]mushroom use outside the category of "drug use" as conventionally understood, instead treating it as a form of foraging — a direct interaction between a human organism and a naturally occurring chemical resource.
 This argument has roots in the ethnobotanical tradition of Richard Evans Schultes and the ecopsychological work of Theodore Roszak.
 The distinction between "natural" and "synthetic" psychoactives is philosophically significant in Powell's framework, because only naturally occurring substances can be understood as products of co-evolution between environment and nervous system.
 This ecological framing also implies that the psychedelic experience is not a distortion of normal perception but an alternative perceptual mode that is equally natural and equally grounded in the chemistry of the environment.

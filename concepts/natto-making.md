@@ -7,7 +7,7 @@ tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, pre
 sources: []
 ---
 ## What Is Natto
-Natto is a traditional Japanese fermented soybean food known for its distinctive sticky, stringy texture and strong aroma. It has been consumed in Japan for over a thousand years, particularly in the eastern Kanto region. Natto is made by inoculating steamed soybeans with Bacillus subtilis var. natto (formerly Bacillus natto), a soil bacterium that thrives at high temperatures and produces the characteristic viscosity and flavor through its fermentation activity.
+Natto is a traditional Japanese fermented soybean food known fbacillus-subtilise sticky, stringy texture and strong aroma. It has been consumed in Japan for over a thousand years, particularly in the eastern Kanto region. Natto is made by inoculating steamed soybeans with Bacillus subtilis var. natto (formerly Bacillus natto), a soil bacterium that thrives at high temperatures and produces the characteristsporescosity and flavor through its fermentation activity.
 ## Bacillus Subtilis Natto
 The natto bacterium is a subspecies of Bacillus subtilis, a common soil-dwelling bacterium. Key properties:
 - Gram-positive, spore-forming bacterium

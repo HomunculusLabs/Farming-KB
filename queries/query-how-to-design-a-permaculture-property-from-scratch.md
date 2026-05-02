@@ -95,7 +95,9 @@ Design is an iterative process, not a one-time event. Your plan will evolve as y
 - Start with Zone 1 and expand outward as experience grows rather than implementing the entire design at once
 - Each element in the design should perform multiple functions, following core permaculture design principles
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-create-a-permaculture-zone-plan-for-my-property]] Questions
 - [[query-how-to-start-a-food-forest]]
 - [[query-what-are-the-permaculture-principles]]
 - [[query-how-does-keyline-design-work-in-permaculture]]

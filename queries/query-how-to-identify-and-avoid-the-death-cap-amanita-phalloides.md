@@ -123,6 +123,8 @@ Failing to dig up the base of the mushroom to check for a volva is one of the mo
 
 ## Related
 
+- [[amanita-bisporigera]]
+
 - [[query-how-to-identify-amanita-muscaria]] Questions
 - [[mushroom-foraging-safety-guide]]
 - [[mushroom-toxicity-identification-warnings]]

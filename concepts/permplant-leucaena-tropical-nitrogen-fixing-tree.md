@@ -127,7 +127,6 @@ Its rapid growth, nitrogen fixation, and multiple yields make it central
 to [[gaias-garden-urban-permaculture-design]] in tropical and
 subtropical regions.
 
-
 ## See Also
 
 - [[permplant-black-locust-nitrogen-fixing-timber]]

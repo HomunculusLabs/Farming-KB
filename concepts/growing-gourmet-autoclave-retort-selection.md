@@ -8,7 +8,7 @@ sources:
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
-# Autoclave and Retort Selection for [[contamination-in-mushroom-cultivation]]
+# Autoclave and Retort Selection for [[contamination-mushroom-cultivation]]
 The choice of [[sterilization]] vessel is one [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] most
 critical decisions [[bacteria-and-microorganisms-in-mushroom-fruiting]] cultivation. Home-style
 pressure cookers are ideal for sterilizing agar media and
@@ -48,7 +48,7 @@ and are constructed of steel pipe, 1/4 to 3/8 inch thick,
 and ideally fitted with doors at both ends. Quick-opening,
 spider doors are popular and durable.
 ## Essential Autoclave Features
-When equipping an autoclave [[substrate-preparation-for-mushroom-cultivation]], the
+When equipping an autoclave [[cotter-substrate-preparation]], the
 following features are recommended:
 - Double doors (i.e. doors at both ends)
 - Redundant pressure/temperature gauges (at least two)

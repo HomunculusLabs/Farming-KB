@@ -142,7 +142,6 @@ of picking, after which clones become increasingly difficult to establish.
 5. **Personal hygiene**: Clean clothes, washed hands, minimal movement
 6. **Regular cleaning**: A cleaning regimen must precede every set of
    inoculations
-
 ## Related
 
 - [[mycelium-inoculation-techniques]]

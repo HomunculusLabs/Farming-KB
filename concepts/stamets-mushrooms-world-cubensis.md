@@ -91,7 +91,7 @@ the publication of Oss and Oeric (1976) and Stamets and Chilton (1983). Most
 spores were brought back by travelers to Mexico, Guatemala, Ecuador, Colombia,
 and the Amazon in the mid-1970s. Strains carried the names of their origins:
 Amazonian, Palenque, Matias Romero, and Ecuadorian. The Oaxacan shamans prefer
-[[psilocybe-caerulescens]], P. aztecorum, P. zapotecorum, or P. mexicana over
+[[psilocybe-caerulescens-entity]], P. aztecorum, P. zapotecorum, or P. mexicana over
 P. cubensis for ceremonial use.
 
 ## Historical Spread

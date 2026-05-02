@@ -16,7 +16,6 @@ Mycofiltration is the use of mycelial mats and networks to filter water, removin
 
 
 
-
 ## How Mycofiltration Works
 
 Mycelium can intercept and decompose organisms as complex as nematodes, bacteria, and protozoa. When water passes through a mycelial mat, several processes occur simultaneously:
@@ -31,11 +30,9 @@ Mycelium can intercept and decompose organisms as complex as nematodes, bacteria
 
 
 
-
 ## E. coli and Pathogen Control
 
 Oyster mushroom (Pleurotus ostreatus) mycelium has demonstrated the ability to reduce E. coli and other coliform bacteria from water. The antimicrobial properties of mycelium make it particularly effective against waterborne pathogens. As water percolates through a mycelial mat, bacteria and other organisms are trapped and consumed by the fungal network.
-
 
 
 
@@ -58,7 +55,6 @@ A mycofiltration installation demonstrated by Stamets along a contaminated road 
 
 
 
-
 ## Roadside Erosion Control
 
 In a demonstration project, a reclaimed road was treated with mycofiltration using oyster mushrooms as the keystone species. The reasons for selecting Pleurotus ostreatus:
@@ -74,7 +70,6 @@ After 3 years, the treated road showed a mantle of nearly contiguous mycelium at
 
 
 
-
 ## Ecological Recovery
 
 Once a mycofiltration habitat is constructed, ecological recovery unfolds and nature guides the course. Spores are released as mushrooms grow to maturity, giving rise to more mycelium. The new mushrooms attract native insects, and rotting mushrooms become breeding grounds for fly larvae and grubs, subsequently attracting animals from lizards to birds. As the mycelium infiltrates the wood chips, more moisture is retained, creating a self-reinforcing cycle of ecological restoration.
@@ -84,10 +79,9 @@ Once a mycofiltration habitat is constructed, ecological recovery unfolds and na
 
 
 
-
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mycoforestry-forest-restoration]]
 - [[fungal-enzyme-systems-bioremediation]]
 - [[paul-stamets]]

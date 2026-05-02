@@ -5,7 +5,7 @@ tags: [permaculture, ecology, succession, ecosystem-design, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
+  - ~/wiki/raw/papers/gaias-garden-[[toby-hemenway]].md
 type: concept
 ---
 
@@ -40,7 +40,7 @@ change as they mature across several key attributes:
   Fertility leaves the system with every harvest and must be
   replaced from outside.
 - **Mature:** Closed cycles with extensive recycling.
-  Decomposition returns nearly all nutrients to the soil.
+  [[decomposition]] returns nearly all nutrients to the soil.
 
 ### Plant and Animal Diversity
 - **Immature:** Low. Monocultures of a few species, often
@@ -88,7 +88,7 @@ Even more fertility is carried off each year as vegetables are
 harvested and bare stalks are yanked up during fall cleanup.
 The nutrient cycles are open, in straight lines, into the garden
 and then out. Unless the gardener avidly composts and mulches,
-there is little soil life that can survive the harsh conditions.
+there is little [[soil-life]] that can survive the harsh conditions.
 
 Plant diversity is tightly controlled. True diversity is
 unwelcome, defined as weeds, pests, and raiding birds. Nature's
@@ -100,7 +100,7 @@ In contrast, the mature woodland holds soil in place year-round.
 A multilayered canopy moderates temperature extremes. Rain
 filters gently through leaves to the forest floor. Deep root
 systems of trees and shrubs tap moisture and nutrients far
-below the surface. Decomposition returns nearly all nutrients to
+below the surface. [[decomposition]] returns nearly all nutrients to
 the soil.
 
 The result is a self-maintaining system that produces abundant
@@ -113,7 +113,7 @@ in a garden context.
 The ecological gardener can deliberately design for ecosystem
 maturity by:
 
-- **Closing nutrient cycles** through composting, mulching,
+- **Closing nutrient cycles** through [[composting]], mulching,
   and returning all organic material to the soil
 - **Building multilayered plantings** that fill vertical space
   from canopy to ground cover

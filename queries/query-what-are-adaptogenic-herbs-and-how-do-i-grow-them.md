@@ -134,6 +134,8 @@ For aerial parts like tulsi leaves and jiaogulan, harvest before or during early
 
 ## See Also
 
+- [[query-how-to-grow-moringa-and-what-are-its-benefits]]
+
 - [[query-how-to-grow-medicinal-herbs-at-home]] for general medicinal herb cultivation
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] for processing adaptogens into medicine
 - [[query-how-to-make-herbal-infused-oils-at-home]] for oil-based extraction methods

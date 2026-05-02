@@ -88,7 +88,7 @@ plants. This principle connects directly to
 
 ## When to Decrease Edge
 
-Sometimes it pays to minimize edge. With the [[herb-spiral-design]]
+Sometimes it pays to minimize edge. With the [[herb-spiral-design-guide]]
 and [[hemenway-keyhole-bed-design]], edge translates into wasted space
 and more work, since the compact forms are designed to reduce path
 requirements and improve access. The decision to increase or decrease

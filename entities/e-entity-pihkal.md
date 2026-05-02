@@ -47,7 +47,7 @@ Also known as: ESCALINE.
 
 ## Extensions and Commentary
 
-In an isolated situation, there is easy fantasy, but little synthesis of external sensory inputs such as music or visual stimulae. A gradual decline brings the subject back to a restful baseline somewhere before the 12th hour. The following day is often seen as one of tiredness and low energy. An anonymous flyer appeared in the California drug community in 1984 stating an effective range to be 50 to 100 milligrams, but it described the drug as the sulfate. The above data all pertain to the hydrochloride salt.
+In an isolated situation, there is easy fantasy, but little synthesis of external sensory inputs such as music or visual stimulae. A gradual decline brings the subject back to a restful baseline somewhere before the 12th hour. The following day is often seen as one of tiredness and low energy. An anonymous flyer appeared in the California drug community in 1984 stating an effective range to be 50 to 100 milligrams, but it described the drug as the sulfate. The above data all pertain to thmescalineloride salt.
 
 The replacement of that one methyl group with an ethyl group leads to a nice jeu de mots. The play on words depends on a remarkable coincidence. The name of the alkaloid mescaline stems from an ancient Nahuatl word for a drink (Mexcalli) which also provided the source of the term Mescal (an Agave of entirely different pharmacology). The prefix for the simplest, the one carbon organic radical, is methyl. This is from the Greek word "methy" and represents wine from wood. Such is, indeed, methyl alcohol, or methanol, or wood alcohol, the simplest one-carbon drink and a rather dangerous one for the human animal. And this is the group that is on the central oxygen of mescaline.
 

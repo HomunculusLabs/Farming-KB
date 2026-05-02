@@ -60,7 +60,7 @@ The Mazatec use S. divinorum primarily for:
 - The leaves are traditionally chewed fresh in pairs (quid method), with the juice held in the mouth for absorption through the buccal mucosa
 - Sessions typically occur at night, in darkness or dim candlelight, often accompanied by prayer
 
-See [[maria-sabina-and-mazatec-mushroom-ceremony]] for context on broader Mazatec entheogenic practices.
+See [[maria-sabina-mazatec-mushroom-ceremony]] for context on broader Mazatec entheogenic practices.
 
 ## Extraction and Preparation
 
@@ -113,7 +113,7 @@ The rapid spread of online videos showing recreational use contributed significa
 ## Related Pages
 
 - [[psychedelic-compounds-reference]] for pharmacological comparison with other psychoactive plants
-- [[maria-sabina-and-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
+- [[maria-sabina-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
 - [[entheogen-culture]] for broader indigenous plant-use knowledge
 - [[harm-reduction-guide]] for general safety principles
 - [[salvinorin-reference]]

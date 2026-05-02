@@ -60,8 +60,8 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 
 ## Asia
 
-- **Japan**: Several species documented including *Psilocybe subcaerulipes*, *P. argentipes*, and *P. cubensis* in Okinawa.
-- **Southeast Asia**: Thailand, Cambodia, Vietnam, and Indonesia support rich diversity. *Psilocybe cubensis* and *P. samuiensis* are among the known species. The region has been a significant source for "magic mushrooms" sold to tourists.
+- **Japan**: Several species documented including *[[psilocybe-subcaerulipes]]*, *P. argentipes*, and *P. cubensis* in Okinawa.
+- **Southeast Asia**: Thailand, Cambodia, Vietnam, and Indonesia support rich diversity. *[[psilocybe-cubensis]]* and *P. samuiensis* are among the known species. The region has been a significant source for "magic mushrooms" sold to tourists.
 - **India**: Species documented in the Western Ghats and northeastern states.
 - **China and Korea**: Limited documentation but species known to occur.
 - **Central Asia**: Steppe and mountain grassland species.
@@ -69,13 +69,13 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 ## Africa
 
 - Sub-Saharan Africa has numerous documented species, particularly in tropical and subtropical regions.
-- *Psilocybe cubensis* occurs widely across sub-Saharan Africa.
+- *[[psilocybe-cubensis]]* occurs widely across sub-Saharan Africa.
 - Species documented in Kenya, Tanzania, South Africa, Cameroon, and other countries.
 
 ## Australia and Oceania
 
-- **Australia**: Rich diversity, particularly in subtropical eastern coastal regions. *Psilocybe cubensis*, *P. subaeruginosa* (one of the most potent species), *P. cyanescens*, and *P. aucklandii* are among the documented species.
-- **New Zealand**: *Psilocybe aucklandii* and *P. weraroa* are native species.
+- **Australia**: Rich diversity, particularly in subtropical eastern coastal regions. *[[psilocybe-cubensis]]*, *P. subaeruginosa* (one of the most potent species), *P. cyanescens*, and *P. aucklandii* are among the documented species.
+- **New Zealand**: *[[psilocybe-aucklandii]]* and *P. weraroa* are native species.
 
 ## Climate Preferences
 

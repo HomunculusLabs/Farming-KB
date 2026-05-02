@@ -84,6 +84,8 @@ defense strategy.
 
 ## See Also
 
+- [[lynn-margulis]]
+
 - [[biodiversity-fungi-insect-symbiosis]]
 - [[symbiotic-fungi-lichen-symbiosis-overview]]
 - [[biodiversity-lichenized-fungi-symbiosis]]

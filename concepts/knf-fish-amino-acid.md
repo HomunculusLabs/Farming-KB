@@ -68,7 +68,7 @@ Use fresh waste only. Do NOT use salted fishes. Fish heads, bones, and intestine
 
 ## Recycling Bones
 
-Put leftover bones from FAA production into brown rice vinegar (BRV) at 10:1 ratio (BRV to bones). Bones will decompose and produce good quality [[knf-water-soluble-phosphoric-acid|water-soluble calcium phosphate]].
+Put leftover bones from FAA production into brown rice vinegar (BRV) at 10:1 ratio (BRV to bones). Bones will decompose and produce good quality [[knf-water-soluble-phosphoric-acid-wspa|water-soluble calcium phosphate]].
 
 ## Storage
 
@@ -82,5 +82,5 @@ Put leftover bones from FAA production into brown rice vinegar (BRV) at 10:1 rat
 - [[knf-fermented-fruit-juice]]
 - [[knf-oriental-herbal-nutrient]]
 - [[knf-water-soluble-calcium]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[jadam-fermented-plant-juice]]

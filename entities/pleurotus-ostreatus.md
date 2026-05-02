@@ -27,7 +27,7 @@ The oyster mushroom forms shelf-like, oyster-shaped or fan-shaped fruiting bodie
 
 ### Lovastatin (Mevacor)
 
-*P. ostreatus* is a natural producer of **lovastatin**, a competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis. Lovastatin content varies significantly with strain (0.5–5 mg/g dry weight), substrate composition, and cultivation conditions. Rice straw and wheat straw substrates tend to produce higher lovastatin yields than wood-based substrates. The statin is produced during both mycelial growth and fruiting body development.
+*P. ostreatus* is a natural producer of **lovastatin**, a competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis. Lovastatin content varies significantly witfruiting-body-developmentweight), substrate composition, and cultivation conditions. Rice straw and wheat straw substrates tend to produce higher lovastatin yields than wood-based substrates. The statin is produced during both mycelial growth and fruiting body development.
 
 ### Polysaccharides
 
@@ -85,12 +85,9 @@ In vitro and animal studies demonstrate:
 
 ## Mycoremediation Applications
 
-*P. ostreatus* is one of the most extensively studied fungi for environmental bioremediation due to its powerful ligninolytic enzyme system:
-
-* **Polycyclic aromatic hydrocarbon (PAH) degradation:** Secretes laccase, manganese peroxidase (MnP), and lignin peroxidase (LiP) that oxidize and mineralize PAHs including anthracene, phenanthrene, and pyrene in contaminated soils
+*P. ostreatus* is one of the most extensively studied fungi for environmental bioremediation due to its powerful ligninolytic enzymeheavy-metal-biosorptionc aromatic hydrocarbon (PAH) degradation:** Secretes laccase, manganese peroxidase (MnP), and lignin peroxidase (LiP) that oxidize and mineralize PAHs including anthracene, phenanthrene, and pyrene in contaminated soils
 * **Heavy metal biosorption:** Mycelial biomass accumulates cadmium, lead, copper, and zinc through extracellular binding and intracellular sequestration, with potential for biofiltration of industrial wastewater
-* **Pesticide degradation:** Degrades organophosphate and organochlorine pesticides through enzymatic oxidation
-* **Plastic degradation:** Emerging research shows *P. ostreatus* can partially degrade polyurethane and polystyrene through enzymatic and mechanical mechanisms
+* **Pesticide degradation:** Degrades organophosphate and organochlorine pesticides throagricultural-waste-substrateslastic degradation:** Emerging research shows *P. ostreatus* can partially degrade polyurethane and polystyrene through enzymatic and mechanical mechanisms
 * **Eutrophication management:** The mushroom can be grown on agricultural waste substrates including coffee grounds, straw, and corn stover, converting pollutants into edible protein
 
 ## Nutritional Profile
@@ -107,7 +104,7 @@ Oyster mushrooms are nutritionally rich, containing 20–30% protein (dry weight
 * Coffee grounds
 * Cottonseed hulls
 
-Optimal cultivation temperatures range from 15–25°C depending on strain (cold-strain varieties fruit at 10–15°C, warm-strain varieties at 20–25°C). Spawn run takes 14–21 days, with fruiting beginning 7–14 days after induction by fresh air exchange and light. Biological efficiency (fresh weight yield per dry substrate weight) typically ranges from 50–150%, making oyster mushroom cultivation one of the most efficient forms of protein production.
+Optimal cultbiological-efficiencyrange from 15–25°C depending on strain (cold-strain varieties fruit at 10–15°C, warm-[[cotter-oyster-mushroom-cultivation]]). Spawn run takes 14–21 days, with fruiting beginning 7–14 days after induction by fresh air exchange and light. Biological efficiency (fresh weight yield per dry substrate weight) typically ranges from 50–150%, making oyster mushroom cultivation one of the most efficient forms of protein production.
 
 ## See Also
 

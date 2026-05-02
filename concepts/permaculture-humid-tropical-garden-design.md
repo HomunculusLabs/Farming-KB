@@ -91,3 +91,7 @@ Tropical garden design is a central component of [[permaculture-design-course-no
 Many permaculture training centers worldwide use tropical food gardens as teaching tools because the rapid growth and visible results provide clear feedback on design decisions.
 
 The [[tropical-gardening]] approach combines these adaptations with intensive management to create productive gardens that improve rather than degrade the tropical ecosystem.
+
+## See Also
+
+- [[query-how-to-design-a-food-forest-for-a-tropical-climate]]

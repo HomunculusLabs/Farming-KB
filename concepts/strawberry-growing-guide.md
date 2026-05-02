@@ -127,7 +127,7 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 - **Spider mites**: Common in hot, dry conditions; increase humidity, use insecticidal soap
 - **Tarnished plant bug**: Deforms fruit (cat-facing); control weeds that host them, use row covers at flowering
 - **Birds**: Net plants with bird netting as fruit ripens; support netting above plants
-### Diseases
+###[[neem]]eases
 - **Gray mold (Botrytis)**: Brown rot on berries; remove infected fruit, improve air circulation
 - **Powdery mildew**: White coating on leaves; use resistant varieties, neem oil sprays
 - **Verticillium wilt**: Soil-borne; rotate crops, use resistant varieties

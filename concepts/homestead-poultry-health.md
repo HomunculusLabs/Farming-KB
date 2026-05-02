@@ -1,13 +1,13 @@
 ---
-title: Homestead Poultry Health
+title: homestead poultry health
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, homesteading, livestock, livestock-health, troubleshooting]
+tags: [animal-husbandry, [[homesteading]], livestock, livestock-health, troubleshooting]
 sources: []
 ---
 
-# Homestead Poultry Health
+# homestead poultry health
 
 Maintaining healthy poultry on the homestead requires proactive management,
 biosecurity protocols, and the ability to recognize disease early. Poultry
@@ -142,11 +142,8 @@ of disease on your homestead.
 
 ## Vaccination
 
-### Core Vaccines for Homestead Flocks
-- **Marek's Disease:** Hatchery vaccination. Essential. No practical way to
-  vaccinate at home after hatch.
-- **Newcastle Disease:** Live vaccine, can be administered in water or by
-  eye drop. Recommended in areas where ND is endemic.
-- **Infectious Bronchitis:** Often combined with ND vaccine. Recommended for
+## Related
 
-Related: [[ingham-root-disease-treatment]], [[holzer-poultry-keeping-ducks-geese-and-chickens]], [[green-cannabis-grow-bible-pest-disease-prevention]]
+- [[chicken-keeping-guide]]
+- [[turkey-husbandry]]
+- [[livestock-fencing-guide]]

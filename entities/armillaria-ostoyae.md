@@ -32,7 +32,7 @@ The species was originally described as *Armillaria ostoyae* by Henri Romagnesi 
 
 The basidiocarps (mushrooms) of *A. ostoyae* are typical honey mushrooms, featuring:
 
-- **Cap:** 3 to 15 cm in diameter, convex to flat with age, often with a darker center. Color ranges from honey-yellow to brownish. The cap surface is covered with small dark scales, especially near the center.
+- **Cap:** 3 to 15 cm in diameter, convex to flat with age, often with a darker center. Color ranges from honey-yellow to brownish. The cap surfacspore-printd with small dark scales, especially near the center.
 - **Gills:** Adnate to slightly decurrent, white to cream-colored, becoming pinkish with age.
 - **Stipe:** 5 to 15 cm long, 0.5 to 2 cm thick, with a prominent annulus (ring). The stipe is fibrous and tapers toward the base.
 - **Spore Print:** White. Spores are elliptical, approximately 7 to 9 by 5 to 6 μm.
@@ -110,7 +110,7 @@ The genus *Armillaria* contains approximately 10 described species in North Amer
 - **Melanin:** Deposited in rhizomorph cell walls, melanin provides mechanical strength, UV protection, and resistance to microbial degradation. Melanized rhizomorphs are more persistent and invasive in soil
 - **Cellulolytic and Ligninolytic Enzymes:** Produces endoglucanases, cellobiohydrolases, laccases, and manganese peroxidases that enable degradation of both cellulose and lignin components of wood, classifying it as a white rot fungus despite its primary pathogenic lifestyle
 - **Oxalic Acid:** Secreted during wood decay, contributing to demineralization of wood cell walls and creating acidic microenvironments that favor fungal colonization
-- **Volatile Organic Compounds (VOCs):** Emits a characteristic mushroomy odor from fruiting bodies, while underground metabolism produces VOCs that may influence soil microbial communities
+- **Volatile Organic Compounds (VOCs):** Emits a characteristic musmalt-extract-agarfruiting bodies, while underground metabolism produces VOCs that may influence soil microbial communities
 
 ## Laboratory Methods
 

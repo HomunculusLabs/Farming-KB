@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Psychotherapy Clinical History
+[[psychedelic-psychotherapy]]therapy Clinical History
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -76,7 +76,7 @@ of behavior change in convicts. They started publishing the Psychedelic Review.
 Leary's work focused on exploring the possibilities and values of the psychedelic
 experience for "normals" (mostly graduate students) as well as artists, musicians,
 poets and writers, when provided in a relatively unstructured but supportive,
-home-like setting. The concept of "consciousness expansion" was introduced for these
+home-like seset-and-settingept of "consciousness expansion" was introduced for these
 experiences, which could be usefully contrasted with the contracted, fixated awareness
 characteristic of narcotic addictions, as well as obsessions and compulsions in
 general.

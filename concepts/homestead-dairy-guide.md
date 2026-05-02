@@ -136,7 +136,6 @@ Yield: approximately 1 cup of butter per gallon of goat milk (less than cow milk
 Goat milk does not separate cream as readily as cow milk due to smaller fat globules. Options for getting cream:
 - Gravity separation: let milk sit undisturbed 48-72 hours in a wide, shallow container in the refrigerator. Skim the cream layer.
 - Cream separator: mechanical centrifugal separator ($100-400). Most effective method.
-- For coffee cream: use full-fat goat milk or make a blend of milk and skimmable cream.
 ## Related Concepts
 - [[homesteading-income-streams]] -- goat dairy products as a revenue stream
 - animal husbandry for general goat care principles

@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [knf, natural-farming]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # Fermented Mixed Compost (FMC) -- Materials, Timing, and Place Selection

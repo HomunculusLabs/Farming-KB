@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [knf, natural-farming]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # KNF Fermented Mixed Compost Method-1 Detailed
@@ -145,9 +146,5 @@ FMC can be enhanced by adding other KNF inputs during preparation:
 - [[knf-oriental-herbal-nutrient]]: Adds trace minerals and herbal compounds
 - [[lactic-acid-bacteria-knf]]: Accelerates fermentation and suppresses pathogens
 - [[knf-yeast-preparation-detailed]]: Completes the fermentation process
-
-## Storage
-
 ## See Also
 
-- [[knf-global-adoption]]

@@ -16,8 +16,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 
 
-
-
 ## Career and Contributions
 
 Heim was one of the most prolific mycologists of the 20th century, publishing over 500 scientific papers and several major monographs. His taxonomic work encompassed:
@@ -32,8 +30,6 @@ Heim was one of the most prolific mycologists of the 20th century, publishing ov
 
 
 
-
-
 ## Role in Psilocybin Discovery
 
 Heim's collaboration with **R. Gordon Wasson** was transformative. In 1956, Wasson participated in a **velada** (night ceremony) with Mazatec curandera **María Sabina** in Huautla de Jiménez, Oaxaca, Mexico, consuming what the Mazatec called *nti-si-tho* ("the little ones that spring forth"). Wasson brought mushroom specimens back to Paris for Heim's identification.
@@ -41,8 +37,6 @@ Heim's collaboration with **R. Gordon Wasson** was transformative. In 1956, Wass
 Heim identified the mushrooms as belonging to the genus **Psilocybe**, and specifically to several species including what he initially described as *Psilocybe caerulescens* var. *mazatecorum*. Unable to determine the active chemical principles himself, Heim sent cultured specimens to **Albert Hofmann** at **Sandoz Laboratories** in Basel, Switzerland.
 
 Hofmann successfully isolated and named **psilocybin** and **psilocin** from these specimens in 1958. Heim and Hofmann co-authored the landmark paper "Isolement de la psilocybine à partir de *Stropharia cubensis* Heim et d'autres espèces de champignons hallucinogènes mexicains du genre Psilocybe" (1958).
-
-
 
 
 
@@ -66,15 +60,11 @@ He initially placed several species in the genus **Stropharia** (hence *S. cuben
 
 
 
-
-
 ## Later Life and Legacy
 
 Heim continued his mycological research throughout the 1960s and 1970s. He was elected to the **French Academy of Sciences** in 1964 and received numerous international honors. His work bridging ethnomycology, chemistry, and taxonomy created the foundation for all subsequent research on psychoactive mushrooms.
 
 The species *Psilocybe heimii* was named in his honor by Gaston Guzmán. Heim's specimens, housed at the Muséum national d'Histoire naturelle in Paris, remain important reference material for mycological taxonomists.
-
-
 
 
 
@@ -87,6 +77,11 @@ The species *Psilocybe heimii* was named in his honor by Gaston Guzmán. Heim's 
 - **"Les Champignons toxiques et hallucinogènes"** (1963)
 - **"Champignons toxiques et hallucinogènes du Mexique"** — with Wasson (1958)
 - Numerous papers in the *Revue de Mycologie* and *Comptes Rendus de l'Académie des Sciences*
+
+
+
+
+
 
 ## See Also
 

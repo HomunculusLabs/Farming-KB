@@ -96,7 +96,7 @@ P. cubensis is thought to have been introduced to the New World by
 the Spaniards during the Cortes expeditions. The common name "san
 isidro" references Spanish Catholicism and is used by indigenous
 peoples. Although widely sold to tourists in Mexico, Oaxacan shamans
-prefer to use [[psilocybe-caerulescens]], Psilocybe Aztecorum,
+prefer to use [[psilocybe-caerulescens-entity]], Psilocybe Aztecorum,
 psilocybe zapotecorum, or [[psilocybe-mexicana-profile]].
 
 ## Cultivation

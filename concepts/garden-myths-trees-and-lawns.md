@@ -60,7 +60,7 @@ Thatch is a layer of partially decomposed organic matter between the soil surfac
 ### What the Evidence Shows
 
 - **Grass clippings decompose rapidly**: Fresh grass clippings are approximately 80-90% water and contain readily decomposable nitrogen. They break down quickly and contribute to soil organic matter without building thatch
-- **Thatch is primarily caused by**: (1) Excessive use of nitrogen fertilizer that stimulates rapid shoot growth; (2) Overuse of fungicides and insecticides that suppress the soil organisms that decompose thatch; (3) Growing grass species with high lignin content (like Bermuda grass and zoysia) that decompose slowly; (4) Compacted or poorly drained soils where decomposition is slow; (5) Infrequent mowing that leaves long clippings that mat
+- **Thatch is primarily caused by**: (1) Excessive use of nitrogen fertilizer that stimulates rapid shoot growth; (2) Overuse of fungicides and insecticidesdecompositions the soil organisms that decompose thatch; (3) Growing grass species with high lignin content (like Bermuda grass and zoysia) that decompose slowly; (4) Compacted or poorly drained soils where decomposition is slow; (5) Infrequent mowing that leaves long clippings that mat
 - **Returning clippings is beneficial**: Grasscycling (leaving clippings on the lawn) returns nitrogen and organic matter to the soil, reducing fertilizer needs by 25-30% and improving soil health
 - **When clippings ARE a problem**: If clippings are long (more than 1 inch), wet, and left in thick mats, they can smother the grass beneath. This is a mowing frequency problem, not a fundamental problem with returning clippings
 

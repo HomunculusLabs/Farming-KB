@@ -77,7 +77,7 @@ This connects to his analysis of [[fukuoka-origin-agriculture-dietary-cravings]]
 - [[fukuoka-origin-agriculture-dietary-cravings]] -- origin of agriculture from craving
 - [[fukuoka-critique-western-dietetics-nutritional-science]] -- critique of nutritional science
 - [[fukuoka-food-civilization-critique]] -- food and civilization
-- [[fukuoka-critique-agricultural-science-laws]] -- critique of agricultural science
+- [[fukuoka-critique-laws-agricultural-science]] -- critique of agricultural science
 
 ## Fukuoka's Philosophy of Flavor
 

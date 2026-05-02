@@ -105,7 +105,7 @@ This principle of [[fukuoka-road-do-nothing-farming]] is
 central to the [[fukuoka-natural-farming-method]]. It does not
 mean literally doing nothing, but rather doing only what nature itself would
 do, and ceasing those actions that work against the natural order. The
-[[fukuoka-four-principles-natural-farming-detailed]]
+[[fukuoka-four-principles-natural-farming]]
 , no tillage, no fertilizer, no weeding, and no pesticides, all follow from
 this fundamental insight: that the best plan is to stop creating the problems
 that require plans to solve.

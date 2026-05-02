@@ -110,7 +110,7 @@ This indicates active ceremonial tourism in Bolivia, though the article does not
 
 Bolivia's large indigenous population has its own long history of ayahuasca use, and the country's approach likely reflects a similar cultural tolerance to Peru's.
 
-The fatality suggests that Bolivia's regulatory environment is similarly permissive, allowing ceremonies to proceed without the medical screening or safety protocols that might prevent such incidents.
+The fatality suggests that Bolivia's regulatory environment is similarly permissive, allowing ceremonies to proceed without the medical scdimethyltryptamineprotocols that might prevent such incidents.
 
 ## International Legal Considerations
 

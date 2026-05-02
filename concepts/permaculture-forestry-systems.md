@@ -86,11 +86,11 @@ Trees serve many functions beyond direct yield:
 
 ## See Also
 
-- [[permaculture-windbreak-design]]
+- [[permaculture-windbreak]]
 - [[permaculture-design-methods]]
 - [[permaculture-site-analysis]]
 - [[rainwater-harvesting-systems]]
 
 ## Related
 
-- [[permaculture-bamboo-in-design]]
+- [[bamboo-permaculture-design]]

@@ -137,7 +137,7 @@ See [[permaculture-animal-integration]] for multi-species strategies.
 
 ## See Also
 
-- [[permaculture-ethics-and-principles]] — applying permaculture ethics in urban contexts
+- [[natural-farm-permaculture-ethics-principles]] — applying permaculture ethics in urban contexts
 - [[water-management]] — urban water harvesting and greywater
 - [[permaculture-food-waste-cycling]] — composting and waste cycling in small spaces
 - [[permaculture-community-resilience]] — building resilient urban communities

@@ -103,7 +103,7 @@ K. galanga is generally regarded as safe when used in culinary quantities. Howev
 
 Kaempferia galanga bridges the worlds of everyday cuisine and ethnopharmacology. While its culinary and medicinal uses are well-documented and widespread, its potential hallucinogenic applications in New Guinea represent an intriguing but poorly understood aspect of its ethnobotanical profile. The plant's importance in Southeast Asian traditional medicine and cuisine ensures its continued cultivation and study, which may eventually clarify the nature and basis of its reported psychoactive properties.
 
-## Comparison with Related Species
+## Comparison wmyristica-fragranss
 
 K. galanga can be compared with several other rhizomatous plants that have reported psychoactive properties:
 

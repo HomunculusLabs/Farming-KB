@@ -1,6 +1,6 @@
 ---
 title: THC Acetate Synthesis and Properties
-tags: [cannabis, thc-acetate, chemistry, synthesis, potency]
+tags: [cannabis, thc-acetate,[[ben-lemon]]y, synthesis, potency]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

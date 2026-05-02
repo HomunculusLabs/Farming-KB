@@ -56,7 +56,7 @@ As with all Inocybe species, *I. tricolor* may contain [[muscarine]], a toxic pa
 
 ## Molecular Phylogeny and Taxonomic Status
 
-The phylogenetic placement of *I. tricolor* within Inocybe has been examined using ITS rDNA sequences. The species falls within the Inocybaceae clade that contains most other psilocybin-bearing Inocybe species, including [[inocybe-aeruginascens]], [[inocybe-corydalina]], and [[inocybe-haemacta]]. However, the genus Inocybe remains one of the most taxonomically challenging groups of agarics, with an estimated 1,050 species worldwide and many species complexes yet to be fully resolved. The concept of *I. tricolor* as currently understood may encompass multiple cryptic taxa, as morphological variation within reported collections is considerable. Molecular systematic studies using multilocus approaches have begun to clarify species boundaries within the genus, but comprehensive phylogenetic frameworks are still being developed.
+The phylogenetic placement of *I. tricolor* within Inocybe has been examined using ITS rDNA sequences. The species falls within the Inocybaceae clade that contains most other psilocybin-bearing Inocybe species, including [[inocybe-aeruginascens]], [[inocybe-corydalina-entity]], and [[inocybe-haemacta]]. However, the genus Inocybe remains one of the most taxonomically challenging groups of agarics, with an estimated 1,050 species worldwide and many species complexes yet to be fully resolved. The concept of *I. tricolor* as currently understood may encompass multiple cryptic taxa, as morphological variation within reported collections is considerable. Molecular systematic studies using multilocus approaches have begun to clarify species boundaries within the genus, but comprehensive phylogenetic frameworks are still being developed.
 
 ## Historical Context of Discovery
 
@@ -64,7 +64,7 @@ The identification of *I. tricolor* as a psilocybin-containing species was part 
 
 ## Similar Species
 
-*I. tricolor* is part of a complex of similarly colored Inocybe species that are difficult to separate without microscopic examination. [[inocybe-corydalina]] is larger and has a more vinaceous coloration. [[inocybe-haemacta]] tends to be more reddish overall. [[inocybe-aeruginascens]] is distinctly greenish-blue and grows in sandy, often anthropogenic habitats. Non-psychoactive Inocybe species such as inocybe fastigiata and inocybe rimosa can appear similar in the field, making the risk of misidentification significant. [[inocybe-crocata]] shares the three-zone color pattern but is a European species with saffron-yellow coloration.
+*I. tricolor* is part of a complex of similarly colored Inocybe species that are difficult to separate without microscopic examination. [[inocybe-corydalina-entity]] is larger and has a more vinaceous coloration. [[inocybe-haemacta]] tends to be more reddish overall. [[inocybe-aeruginascens]] is distinctly greenish-blue and grows in sandy, often anthropogenic habitats. Non-psychoactive Inocybe species such as inocybe fastigiata and inocybe rimosa can appear similar in the field, making the risk of misidentification significant. [[inocybe-crocata]] shares the three-zone color pattern but is a European species with saffron-yellow coloration.
 
 ## Legal Status
 
@@ -77,7 +77,7 @@ The identification of *I. tricolor* as a psilocybin-containing species was part 
 ## See Also
 
 - [[inocybe-aeruginascens]] — greenish psilocybin-containing Inocybe of sandy soils
-- [[inocybe-corydalina]] — vinaceous Inocybe species reported to contain psilocybin
+- [[inocybe-corydalina-entity]] — vinaceous Inocybe species reported to contain psilocybin
 - [[inocybe-haemacta]] — reddish-toned psilocybin-containing Inocybe
 - [[inocybe-crocata]] — saffron-colored Inocybe with trace psilocybin but dangerous muscarine levels
 - [[muscarine]] — toxic alkaloid common in Inocybe species

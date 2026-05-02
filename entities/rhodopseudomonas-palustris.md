@@ -17,7 +17,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 
 
 
-
 ## Metabolic Versatility
 
 *R. palustris* occupies a unique position among bacteria due to its ability to grow under four fundamentally different metabolic modes:
@@ -28,7 +27,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 4. **Chemoheterotrophic growth**: In the dark, using organic compounds as both energy and carbon sources.
 
 This remarkable metabolic flexibility allows *R. palustris* to thrive in diverse environments including freshwater, marine sediments, wastewater, rice paddies, soil, and decomposing organic matter. The organism can switch between metabolic modes depending on environmental conditions, making it exceptionally resilient to fluctuations in light, oxygen, and nutrient availability.
-
 
 
 
@@ -48,13 +46,11 @@ In agricultural contexts, this nitrogen-fixing ability makes *R. palustris* a va
 
 
 
-
 ## Role in Indigenous Microorganism Systems
 
 In Korean natural farming and IMO (indigenous microorganism) preparations, *R. palustris* is one of the key organisms targeted during the collection and cultivation of beneficial microorganisms. It is commonly found in the "FPJ" (fermented plant juice) and "FAA" (fermented amino acid) preparations, as well as in specialized IMO formulations designed to enhance soil fertility and plant nutrition.
 
 The organism is particularly valued in natural farming for its ability to produce growth-promoting substances including phytohormones (auxins, cytokinins, gibberellins), vitamins (B₁₂, biotin), amino acids, and nucleic acids. These metabolites stimulate root development, enhance nutrient uptake, and promote overall plant vigor when applied as foliar sprays or soil drenches. Additionally, *R. palustris* produces extracellular polymeric substances (EPS) that improve soil structure and water retention.
-
 
 
 
@@ -74,13 +70,11 @@ Beyond agriculture, *R. palustris* has significant potential in environmental bi
 
 
 
-
 ## Genomics and Biochemistry
 
 The genome of *R. palustris* strain CGA009, sequenced in 2004, comprises approximately 5.5 megabases encoding over 4,800 predicted proteins. The genome reflects the organism's metabolic versatility, containing genes for anoxygenic photosynthesis, multiple electron transport chains, nitrogen fixation, CO₂ fixation via the Calvin-Benson-Bassham cycle, and the degradation of aromatic compounds. Notably, the genome encodes multiple copies of genes involved in light harvesting and electron transport, allowing the organism to efficiently capture and utilize light energy across a range of wavelengths.
 
 The photosynthetic apparatus of *R. palustris* is based on bacteriochlorophyll *a* and carotenoids, which absorb light in the near-infrared and blue-green regions of the spectrum. This allows the organism to photosynthesize in environments where visible light is filtered by overlying water or plant canopy, giving it a competitive advantage in the microbial communities of rice paddies and aquatic sediments.
-
 
 
 

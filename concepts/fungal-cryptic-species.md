@@ -123,5 +123,5 @@ new niches or hosts.
 
 - [[fungal-biodiversity]]
 - [[dark-taxa-fungi]]
-- [[fungal-endemism-biogeography]]
+- [[fungal-endemism-and-biogeography]]
 - [[environmental-dna-sequencing-fungi]]

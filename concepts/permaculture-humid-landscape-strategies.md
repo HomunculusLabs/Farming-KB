@@ -15,11 +15,9 @@ sources:
 
 
 
-
 ## Overview
 
 Pamphlet II covers permaculture strategies for humid landscapes, where water is abundant and the primary challenge is managing water flow, preventing erosion, and capturing nutrient runoff.
-
 
 
 
@@ -52,7 +50,6 @@ In humid landscapes, water is the principle design element. All water that leave
 
 
 
-
 ## Forest Systems in Humid Landscapes
 
 ### The Role of Forests
@@ -68,14 +65,12 @@ In humid landscapes, water is the principle design element. All water that leave
 
 
 
-
 ## Stream and Valley Management
 
 - Never clear-fell valley bottoms — maintain riparian vegetation
 - Streams should be heavily vegetated on both banks
 - Use leaky weirs (not solid dams) in streams to slow water without blocking fish passage
 - Natural sequence: upper slope (forest) → mid slope (mixed tree crops) → lower slope (garden, pasture)
-
 
 
 

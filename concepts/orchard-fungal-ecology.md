@@ -118,6 +118,6 @@ management offer the best path toward maintaining healthy fungal communities.
 
 - [[mycorrhizal-fungi-fruit-trees]]
 - [[fungal-fruit-tree-diseases]]
-- [[soil-fungal-communities]]
+- [[biodiversity-fungi-soil-fungal-communities]]
 - [[fukuoka-orchard-floor-management]]
 - [[fungal-biodiversity]]

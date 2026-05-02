@@ -14,7 +14,6 @@ type: concept
 updated: 2026-04-12
 ---
 
-
 # Soil Fungi Biodiversity
 
 Soil is arguably the most diverse habitat for fungi on Earth, supporting an estimated 1.5 million or more fungal species. Soil fungi include decomposers, mycorrhizal symbionts, plant pathogens, predators, and parasites, forming the backbone of terrestrial nutrient cycling.
@@ -125,7 +124,7 @@ Soil fungi show distinct vertical stratification:
 
 ### Soil Structure
 - Mycelium binds soil particles into aggregates
-- AM fungi produce glomalin (see [[glomalin]])
+- AM fungi produce glomalin (see [[glomalin-and-soil-carbon]])
 - Hyphae stabilize macroaggregates (>250 um)
 - Improves water infiltration and retention
 

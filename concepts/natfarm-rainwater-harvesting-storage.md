@@ -138,7 +138,6 @@ screens ensures good water quality. For drinking water, additional
 purification through filtration, UV treatment, or distillation may be needed
 depending on local air quality and roof conditions.
 
-
 ## See Also
 
 - [[mushroom-cultivator-harvesting-storage]]

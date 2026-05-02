@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, seeds, genetics, harvesting, storage, cultivation, sustainability, plants]
-sources: []
+sources:
+  - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 # Saving Seeds
 [[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.

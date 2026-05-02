@@ -52,7 +52,7 @@ Nutmeg contains a complex mixture of volatile oils, fixed oils, and psychoactive
 
 ### Volatile Oils
 
-The essential oil of nutmeg (approximately 5% to 15% of the seed) contains numerous terpene and terpenoid compounds, primarily:
+The essential oil of nutmeg (approximpinene5% to 15% of the seed) contains numerous terpene alimonenenoid compounds, primarily:
 
 - **Sabinene** (15% to 30%) — the dominant constituent
 - **Alpha-pinene** (10% to 20%)
@@ -111,7 +111,7 @@ Nutmeg is uncontrolled worldwide as a food spice. It is sold freely in grocery s
 
 ## Research and Pharmacology
 
-Research into the pharmacology of myristicin has revealed a complex mechanism of action. Myristicin inhibits monoamine oxidase (MAO), particularly MAO-A, at moderate concentrations, which may contribute to its psychoactive effects by increasing synaptic levels of monoamine neurotransmitters. It also exhibits weak agonist activity at serotonin 5-HT2A receptors, a pharmacological profile shared with many classical psychedelics. The metabolic conversion of myristicin to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), an amphetamine derivative with psychedelic properties, has been demonstrated in animal studies, though the extent to which this conversion occurs in humans remains unclear.
+Research into the pharmacology of myristicin has revealed a complex mechanism of action. Myristicin inhibits monoamine oxidase (MAO), particularly MAO-A, at moderate concentratioserotonin may contribute to its psychoactive effects by increasing synaptic levels of monoamine neurotransmitters. It also exhibits weak agonist activity at serotonin 5-HT2A receptors, a pharmacological profile shared with many classical psychedelics. The metabolic conversion of myristicin to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), an amphetamine derivative with psychedelic properties, has been demonstrated in animal studies, though the extent to which this conversion occurs in humans remains unclear.
 
 In addition to its psychoactive properties, nutmeg extracts have demonstrated antibacterial, antifungal, anti-inflammatory, and hepatoprotective activities in preclinical studies. The essential oil has been investigated for its potential as a natural insecticide and as a food preservative due to its antimicrobial properties. These pharmacological activities are attributed to the combined effects of myristicin, elemicin, safrole, and the terpene constituents of the essential oil.
 

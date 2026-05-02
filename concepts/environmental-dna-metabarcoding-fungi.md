@@ -75,6 +75,26 @@ additional functional information, though at much higher cost and with
 greater computational demands. Both approaches are increasingly used alongside
 metabarcoding to build a more complete picture of fungal communities.
 
+
+## Laboratory Workflow
+
+A typical fungal metabarcoding workflow begins with environmental sample
+collection (soil cores, leaf litter, root samples, or air filters), followed
+by DNA extraction using commercial kits optimized for challenging matrices
+like humic-rich soils. The ITS2 region is then amplified with fungal-specific
+primers (typically ITS3/ITS4), fused with sequencing adapters and sample
+barcodes in a two-step PCR process. After purification and quantification,
+amplicons are pooled in equimolar ratios and sequenced on Illumina MiSeq
+or HiSeq platforms, generating 10,000-100,000 reads per sample.
+
+Bioinformatic processing involves quality filtering (removing low-quality
+reads and chimeras), clustering into operational taxonomic units (OTUs) at
+97% similarity or generating amplicon sequence variants (ASVs) using DADA2
+or UNOISE, and taxonomic assignment against reference databases such as
+UNITE or GenBank. The choice between OTU clustering and ASV methods
+significantly affects diversity estimates — ASV methods generally recover
+more rare taxa and provide finer resolution, but may also include more
+sequencing artifacts if filtering is not stringent enough.
 ## See Also
 
 - [[fungal-biodiversity-estimates]]

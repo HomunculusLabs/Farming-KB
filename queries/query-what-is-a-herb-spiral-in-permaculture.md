@@ -64,7 +64,7 @@ This pond collects runoff from the spiral above, creating a wetland microzone th
 supports water-loving plants and attracts frogs and beneficial insects. The
 water then slowly infiltrates back into the surrounding soil, reducing overall
 irrigation needs. This integration of water features is a hallmark of thoughtful
-[[herb-spiral-design]].
+[[herb-spiral-design-guide]].
 
 Herb spirals are frequently compared to other compact permaculture garden elements.
 For a discussion of how they differ from keyhole beds in terms of shape, function,

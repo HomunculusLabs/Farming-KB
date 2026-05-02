@@ -1,5 +1,5 @@
 ---
-title: Enoki (Flammulina velutipes) — Medicinal Mushroom Guide
+title: [[flammulina-velutipes]]lutipes) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,9 +21,9 @@ Beyond its culinary popularity, enoki has a growing body of research supporting 
 
 ## Key Compounds
 
-- **Proflamin:** A glycoprotein unique to F. velutipes with significant anti-tumor activity. Induces apoptosis in cancer cells.
+- **Proflamin:** A glycoprotein unique to F. [[beta-glucans]]th significant anti-tumor activity. Induces apoptosis in cancer cells.
 - **FVE (Flammulina velutipes lectin):** A lectin with immunomodulatory properties. Activates immune cells and has anti-proliferative effects on cancer cells.
-- **Beta-glucans:** Polysaccharides with immune-stimulating effects, though at lower concentrations than turkey tail or maitake.
+- **Beta-glucanergothioneineharides with immune-stimulating effects, though at lower concentrations than turkey tail or maitake.
 - **Flammutoxin:** A pore-forming cytotoxic protein found in wild enoki. This compound is heat-labile and destroyed by cooking.
 - **Ergothioneine:** A potent antioxidant amino acid found at high concentrations in enoki.
 - **Trehalose:** A disaccharide sugar with potential neuroprotective properties.
@@ -42,7 +42,7 @@ Proflamin is the most distinctive medicinal compound in enoki:
 ### FVE (Fungal Lectin)
 - Activates T-cells and enhances immune surveillance.
 - Inhibits cancer cell proliferation by blocking cell cycle progression.
-- Anti-inflammatory: suppresses excessive cytokine production.
+- A[[medicinal-mushrooms]]uppresses excessive cytokine production.
 - May enhance dendritic cell function.
 
 ### Beta-Glucans
@@ -122,7 +122,7 @@ Enoki is a staple in East Asian cuisine:
 
 Enoki is commercially cultivated on a massive scale:
 - **Substrate:** Sawdust (broadleaf hardwood) supplemented with rice bran or wheat bran.
-- **Colonization:** 20-30 days at 68-72°F (20-22°C).
+- **Colonization:** 20-30 dbiological-efficiency°C).
 - **Etiolation phase:** High CO2 (3000-5000 ppm), complete darkness, and cool temperatures (50-60°F / 10-15°C) produce the characteristic long, white stems.
 - **Fruiting time:** 14-20 days from induction to harvest.
 - **Biological efficiency:** 80-120% (high-yielding).

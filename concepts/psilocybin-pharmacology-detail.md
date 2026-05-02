@@ -119,7 +119,7 @@ Psilocybin and psilocin are Schedule I under the UN Convention on Psychotropic S
 - **Spores:** In many jurisdictions, spores contain no psilocybin and are legal to possess (but cultivation becomes illegal once mycelium produces alkaloids)
 ## See Also
 - [[psilocybin-mushroom-chemistry]] — Detailed chemical composition and analysis methods
-- [[psilocybin-mushroom-cultivation]] — Growing techniques
+- [[psilocybin-cultivation]] — Growing techniques
 - [[psychedelic-mushroom-history]] — Historical timeline
 - [[psilocybin-psychotherapy]] — Clinical and therapeutic applications
 - [[jochen-gartz]] — Researcher who compiled much of this data

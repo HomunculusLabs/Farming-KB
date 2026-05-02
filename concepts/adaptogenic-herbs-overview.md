@@ -106,6 +106,8 @@ Adaptogenic herbs have deep roots in multiple traditional medical systems, thoug
 
 ## See Also
 
+- [[rhodiola-rosea]]
+
 - [[immune-modulating-mushrooms-and-herbs]] — Medicinal mushrooms and immune
   herbs with adaptogenic overlap
 - [[nervine-herbs-and-anxiety-relief]] — Nervine herbs for acute anxiety

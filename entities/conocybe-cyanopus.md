@@ -68,9 +68,9 @@ The presence of psilocybin in Conocybe cyanopus is phylogenetically significant 
 ## See Also
 
 - [[psilocybe-semilanceata]] — more common and safer European psilocybin mushroom
-- [[psilocybe-pelliculosa]] — small North American psilocybin mushroom with similar grassland habitat
+- [[psilocybe-pelliculosa-entity]] — small North American psilocybin mushroom with similar grassland habitat
 - [[inocybe-aeruginascens]] — another small, dangerous-to-identify psilocybin mushroom
-- [[inocybe-corydalina]] — Inocybe species reported to contain psilocybin
+- [[inocybe-corydalina-entity]] — Inocybe species reported to contain psilocybin
 - [[inocybe-haemacta]] — rare psychoactive Inocybe species
 - conocybe filaris — deadly Conocybe species containing amatoxins
 - [[conocybe-kuehneriana]] — another psilocybin-containing Conocybe species

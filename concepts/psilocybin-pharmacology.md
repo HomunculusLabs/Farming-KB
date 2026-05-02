@@ -91,7 +91,6 @@ physical dependence. Its legal status varies widely by country, with
 increasing numbers of jurisdictions decriminalizing or legalizing its use
 for therapeutic or personal purposes.
 
-
 ## Tolerance and Cross-Tolerance
 
 Psilocybin produces rapid tolerance, with significant reduction in

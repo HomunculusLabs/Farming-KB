@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-18
 type: concept
 tags: [knf]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 Fermented Mixed Compost (FMC) is a premium compost input in Dr. Cho's

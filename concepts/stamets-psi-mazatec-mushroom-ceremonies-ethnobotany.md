@@ -131,4 +131,3 @@ spiritual exploration worldwide.
 - psilocybe-caerulescens - derrumbes, the landslide mushroom
 - psilocybin-potency - chemistry of ceremonial species
 - ethnobotany - broader context of plant-fungal sacraments
-

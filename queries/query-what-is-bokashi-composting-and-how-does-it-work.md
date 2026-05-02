@@ -106,6 +106,8 @@ community compared to traditionally composted material.
 
 ## See Also
 
+- [[query-how-to-use-bokashi-composting-in-an-apartment]]
+
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-what-is-trap-cropping-and-how-does-it-work]]

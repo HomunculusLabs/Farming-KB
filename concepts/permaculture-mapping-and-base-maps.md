@@ -120,7 +120,7 @@ Williams recommends showing the original base map, the analytical overlays, and 
 - [[permaculture-site-analysis]]
 - [[permaculture-site-assessment-checklist]]
 - [[permaculture-design-methods]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[permaculture-sector-analysis]]
 - [[permaculture-access-and-circulation-design]]

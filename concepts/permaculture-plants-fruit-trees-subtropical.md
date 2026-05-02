@@ -1,5 +1,5 @@
 ---
-title: Permaculture Fruit Trees for Subtropical Climates
+[[permaculture]]culture Fruit Trees for Subtropical Climates
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -30,7 +30,7 @@ Also called bullock's heart. Deciduous, to 8-10 m. Susceptible to wind damage, w
 Slow-growing, bushy, deciduous tree to 5 m. Drought tolerant. Fruit yellow-green with pale yellow, firm, sweet custard-like flesh. Fruiting at 3 years (seedling), 1 year (grafted). Very productive.
 
 ### Soursop (A. muricata)
-Small upright tree to 5 m. Drought tolerant, makes a good windbreak/shade tree. Less frost tolerant (0C). Largest of the custard apples, more acid -- often best stewed. Juice abundant and sweet, makes good drinks. Seeds have insecticidal properties.
+Small upright tree to 5 m. Drought tolerant, makes a good windbreak/shade tree. Less frost tolerant (0C). L[[macadamia]] the custard apples, more acid -- often best stewed. Juice abundant and sweet, makes good drinks. Seeds have insecticidal properties.
 
 Nutritional per 100g: Water 81.7%, Energy 65 cal, Carbohydrate 16.3g, Ascorbic acid 20mg.
 

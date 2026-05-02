@@ -1,11 +1,5 @@
 ---
-title: OLE2 Compound Binary File Format
-tags: [file-formats, microsoft, binary-formats, data-storage,
-      document-architecture]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-[[microsoft-word]]-fukuoka-textdoc.md]
----
+ti
 
 # OLE2 Compound Binary File Format
 
@@ -51,7 +45,7 @@ Sector Allocation Table (MSAT). This optimization avoids wasting an entire
 
 Microsoft Word `.doc` files use OLE2 as their container, with the actual
 Word Binary File Format living inside the "WordDocument" stream. Supporting
-streams hold tables for text formatting, the piece table (which maps logical
+streams hold tables for text formatting, the piece table (which [[maps]] logical
 document positions to physical stream positions), and embedded OLE objects.
 
 Excel `.xls` files similarly store workbook data, sheet metadata, and shared

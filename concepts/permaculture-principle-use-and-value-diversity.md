@@ -20,13 +20,11 @@ The tenth of David Holmgren's twelve permaculture design principles. The great d
 
 
 
-
 ## Core Concept
 
 Holmgren is careful to distinguish diversity as more than just variety — a collection of different things. True diversity involves functional connections between different elements. A polyculture of ten unrelated plants is less valuable than a guild of five plants that actively support each other through nutrient sharing, pest protection, and complementary growth habits.
 
 It is now widely recognized that monoculture is a major cause of vulnerability to pests and diseases. Polyculture is one of the most important applications of this principle, but by no means the only one.
-
 
 
 
@@ -51,7 +49,6 @@ Multiple dimensions of diversity contribute to resilience:
 
 
 
-
 ## Specialization vs Generalization
 
 Holmgren describes the ecological classification of species as generalists or specialists:
@@ -60,7 +57,6 @@ Holmgren describes the ecological classification of species as generalists or sp
 - **Specialists** are efficient in a particular habitat but less flexible. They represent refined adaptation to specific niches
 
 A healthy permaculture design includes both — pioneer generalists to establish and protect, and specialists that exploit well-created niches.
-
 
 
 
@@ -80,11 +76,9 @@ Where resources are highly differentiated into niches, different species prevail
 
 
 
-
 ## Pre-Industrial Cultivated Diversity
 
 In pre-industrial agriculture, polyculture was the norm. Self-reliant households needed diversity of crops to provide nutrition, variety, and insurance against failure. Holmgren notes that modern agricultural research systematically ignores the myriad of small-scale and situation-specific opportunities for innovation because it focuses on issues affecting whole industries.
-
 
 
 

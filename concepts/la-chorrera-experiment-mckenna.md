@@ -135,5 +135,5 @@ changing the landscape of psychedelic availability.
 - hyperspace psychedelic experience
 - timewave zero novelty theory
 - ayahuasca beta carboline pharmacology
-- [[psilocybin-mushroom-cultivation]]
+- [[psilocybin-cultivation]]
 - shamanic ecstasy techniques

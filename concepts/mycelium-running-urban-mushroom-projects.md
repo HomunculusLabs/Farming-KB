@@ -119,7 +119,7 @@ The methods described for backyards can be replicated on larger scales:
 
 ## See Also
 
-- [[mycofiltration]] -- mycofiltration overview
+- [[unknown-mycelium-mycofiltration]] -- mycofiltration overview
 - [[mycelium-running-bioremediation-mushroom-projects]] -- bioremediation
 - [[mycelium-running-remediating-toxic-waste]] -- toxic waste cleanup
 - [[mycelium-running-garden-giant-stamets]] -- garden giant applications

@@ -106,6 +106,8 @@ The key principle is that all training should be completed during vegetative gro
 
 ## See Also
 
+- [[comparison-topping-vs-supercropping-cannabis]]
+
 - [[cannabis-training-techniques-comparison]]
 - [[cannabis-grow-plant-training-scrog-techniques]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]

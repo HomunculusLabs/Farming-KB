@@ -143,7 +143,7 @@ eliminates the growth check that sometimes follows transplanting.
 - [[plant-propagation-methods]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]] for controlled environment growing
 - [[mollison-designers-composting-toilets-and-humanure]] for making your own potting compost
 - [[cannabis-organic-fertilizers]] for feeding young plants

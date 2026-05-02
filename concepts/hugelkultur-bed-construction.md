@@ -19,7 +19,6 @@ Hugelkultur (German for "mound culture") is a gardening technique from central E
 
 
 
-
 ## The Classic Method (from Gaia's Garden)
 
 ### Materials
@@ -48,7 +47,6 @@ Potatoes really love hugelkultur — Toby Hemenway reports starting potatoes in 
 
 
 
-
 ## Benefits
 
 - **Water retention**: As the woody brush rots, it holds quite a bit of water. The decomposing organic matter also raises the temperature just enough to boost plant growth. You don't need to fertilize or irrigate hugelkultur very often
@@ -56,7 +54,6 @@ Potatoes really love hugelkultur — Toby Hemenway reports starting potatoes in 
 - **Soil building**: Wood decomposes into rich humus, building deep topsoil from below
 - **Waste recycling**: Turns brush, prunings, and waste wood into productive growing space
 - **Season extension**: The decomposition process generates heat, warming the bed earlier in spring
-
 
 
 
@@ -76,11 +73,9 @@ Some people worry that the wood will lock up nitrogen. Ward suspects that the wo
 
 
 
-
 ## Nitrogen Concern
 
 A common concern is that decomposing wood will tie up nitrogen. In practice, the wood decomposes slowly enough that this is rarely a significant problem. If desired, adding extra nitrogen sources (manure, green materials, blood meal) when building the bed can offset any temporary immobilization.
-
 
 
 

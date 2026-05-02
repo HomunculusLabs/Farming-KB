@@ -112,5 +112,5 @@ Agar is an excellent diagnostic tool because it makes contamination visible. See
 - [[mushroom-laminarar-flow-hood]] — the ideal workspace for agar work
 - [[mushroom-spore-printing-and-storage]] — creating spore syringes for agar inoculation
 - [[grain-spawn-preparation]] — transferring from agar to grain spawn
-- [[fungal-culture-media]]
+- [[biodiversity-fungal-culture-media]]
 - [[laminar-flow-hood-guide]]

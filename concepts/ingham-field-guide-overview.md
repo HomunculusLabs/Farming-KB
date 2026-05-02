@@ -46,7 +46,7 @@ The Guide's central argument:
 
 Dr. Ingham is the founder of Soil Foodweb Inc. and the Soil Foodweb Institute. Her 1985 paper in *Ecological Monographs* was the first proof of concept showing that soil organism biomass directly correlates with plant health outcomes including disease protection, nutrient retention, nutrient cycling, and soil aggregation.
 
-See also: [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[soil-food-web-structure]], [[compost-tea-brewing-guide]]
+See also: [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[soil-food-web-structure]], [[compost-tea-brewing]]
 
 ## Key Points
 

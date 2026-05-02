@@ -6,7 +6,7 @@ updated: 2026-04-25
 sources: [raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
 ---
 
-# Tabletop [[mycofiltration]] Unit Construction
+# Tabletop [[unknown-mycelium-mycofiltration]] Unit Construction
 
 A tabletop mycofiltration unit is an inexpensive, accessible
 prototype for testing fungal water filtration. Built for

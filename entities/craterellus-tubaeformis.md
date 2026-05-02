@@ -17,7 +17,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 
 
-
 ## Taxonomy
 
 The taxonomic history of *Craterellus tubaeformis* has been complex. The species was originally described as *Agaricus tubaeformis* by Johan Peter Falck in 1783 and was later transferred to the genus *Cantharellus* as *Cantharellus tubaeformis*, a name under which it was known for most of the 20th century. Molecular phylogenetic studies in the early 2000s demonstrated that the species belongs to a distinct clade separate from the true chanterelles (*Cantharellus* sensu stricto), and it was consequently transferred to the genus *Craterellus*.
@@ -30,13 +29,11 @@ A closely related European taxon, *Craterellus lutescens* (or *Cantharellus lute
 
 
 
-
 ## Morphology and Identification
 
 The fruiting body of *Craterellus tubaeformis* is trumpet- or funnel-shaped, measuring 3–8 cm in total height. The cap is 1–4 cm in diameter, convex to plane or slightly depressed at the center, with a wavy, irregular margin. The cap surface is smooth to slightly wrinkled, brown to dark brown, often with a grayish or olive tinge. The hymenophore (spore-bearing surface) consists of shallow, blunt, forked ridges that are decurrent—running down the stipe as raised veins. These ridges are grayish to brownish, in contrast to the yellow ridges of the true chanterelle (*Cantharellus cibarius*).
 
 The stipe is 3–7 cm tall and 0.5–1.5 cm thick, hollow, and tapered toward the base. It is yellow to yellow-orange, providing a striking contrast with the darker cap. The flesh is thin, membranous, and waxy, with a mild, slightly peppery flavor and a faint fruity or radish-like odor. The spore print is white to pale yellow, and spores are ellipsoid, smooth, measuring 8–10 × 6–7 μm.
-
 
 
 
@@ -58,7 +55,6 @@ The mushroom is particularly abundant on moss-covered forest floors, in old-grow
 
 
 
-
 ## Ectomycorrhizal Function
 
 *Craterellus tubaeformis* forms ectomycorrhizal associations with the fine roots of coniferous trees, playing an important role in boreal and temperate forest nutrient cycling. The fungal mycelium forms a mantle around root tips and develops an extensive extraradical mycelial network that explores the soil for mineral nutrients. The organism produces extracellular enzymes that decompose organic matter, releasing nitrogen, phosphorus, and other nutrients that are transferred to the host tree in exchange for photosynthetically derived carbohydrates.
@@ -71,13 +67,11 @@ In boreal forest ecosystems, *C. tubaeformis* contributes significantly to the e
 
 
 
-
 ## Culinary and Commercial Importance
 
 *Craterellus tubaeformis* is one of the most commercially valuable wild mushrooms in Scandinavia and the Pacific Northwest. In Finland and Sweden, it is the most commonly harvested wild mushroom after the chanterelle, with annual commercial harvests estimated at hundreds of tonnes. The mushroom has a firm, somewhat chewy texture and a rich, earthy flavor with fruity and peppery notes that intensifies when dried.
 
 The yellowfoot is excellent for drying, which concentrates its flavors and extends its shelf life considerably. Dried specimens reconstitute well and are used in soups, stews, sauces, and risottos. The mushroom is also suitable for pickling, freezing, and fresh cooking. In Scandinavian cuisine, it is a traditional ingredient in game dishes, cream sauces, and autumn/winter soups.
-
 
 
 

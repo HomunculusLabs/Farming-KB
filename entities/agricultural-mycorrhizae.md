@@ -19,13 +19,9 @@ sources:
 
 
 
-
-
 ## Overview
 
 Mycorrhizal fungi are symbiotic soil organisms that form mutualistic associations with the roots of approximately 90% of terrestrial plant species. The term derives from the Greek *mykes* (fungus) and *rhiza* (root). These associations are among the most widespread and ecologically important symbioses on Earth, playing a critical role in plant nutrition, soil structure, and ecosystem resilience.
-
-
 
 
 
@@ -41,8 +37,6 @@ Predominantly associate with trees, particularly in temperate and boreal forests
 
 ### Ericoid and Orchid Mycorrhizae
 Specialized associations with Ericaceae (heath family) and Orchidaceae, respectively. Ericoid mycorrhizae are critical for plants growing in acidic, nutrient-poor soils, while orchid mycorrhizae are required for seed germination in nearly all orchid species.
-
-
 
 
 
@@ -66,8 +60,6 @@ Glomalin, a glycoprotein produced by AMF, acts as a biological glue binding soil
 
 
 
-
-
 ## Inoculation Practices
 
 Commercial mycorrhizal inoculants are available as powders, granules, or liquid suspensions containing AMF spores and hyphae. Best practices include:
@@ -82,11 +74,13 @@ Commercial mycorrhizal inoculants are available as powders, granules, or liquid 
 
 
 
-
-
 ## Limitations
 
 Not all crops benefit equally from mycorrhizal colonization. Brassicas (cabbage family) and Chenopodiaceae (spinach, beet) are non-host or weakly responsive. Heavy tillage, fallow periods, and high-input conventional management with excessive fertilization can degrade native mycorrhizal communities.
+
+
+
+
 
 ## See Also
 

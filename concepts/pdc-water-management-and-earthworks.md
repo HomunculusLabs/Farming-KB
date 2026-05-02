@@ -98,7 +98,7 @@ Most flood damage comes from minor floods (a few inches), not catastrophic event
 
 ## Related
 
-- [[permaculture-designers-manual-keyline-design]]
+- [[keyline-design]]
 - [[pdc-earthworks-and-swales]]
 
 ## See Also

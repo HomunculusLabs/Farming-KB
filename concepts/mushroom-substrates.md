@@ -123,7 +123,7 @@ Developed for *Panaeolus* species cultivation. Unlike pasteurized manure for Aga
 | Dry straw (soaked 12h) | 500g | Structure, carbon source |
 | Water | 3-4 liters | Hydration |
 **Preparation**: Mix dry dung and vermiculite, add water (avoid excess — standing water causes bacterial contamination), incorporate soaked straw. Load into autoclavable filter-patch bags. Sterilize at 15 psi for **2 hours** (longer than standard due to dense, compact substrate).
-**Key notes**: *Panaeolus* species do not colonize grain as densely as *P. cubensis*. Use generous spawn rate (300 mL rye per bag). See [[psilocybin-mushroom-cultivation]] for full *Panaeolus* cultivation parameters.
+**Key notes**: *Panaeolus* species do not colonize grain as densely as *P. cubensis*. Use generous spawn rate (300 mL rye per bag). See [[psilocybin-cultivation]] for full *Panaeolus* cultivation parameters.
 ### Dung Types
 - **Cow dung** — most commonly available; well-suited for *Panaeolus* and *P. cubensis*. Use dried, aged manure.
 - **Horse manure** — traditional for Agaricus; higher nitrogen content. See [[mushroom-compost-substrates]] for composted horse manure formulas.

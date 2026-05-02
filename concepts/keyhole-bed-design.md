@@ -102,7 +102,7 @@ Keyhole beds pair naturally with other [[permaculture-design-course-methodology]
 ## Related Concepts
 
 - [[sheet-mulching-lasagna-gardening]] -- the preferred construction method for keyhole beds
-- [[herb-spiral-design]] -- another Zone 1 pattern that pairs well with keyhole beds
+- [[herb-spiral-design-guide]] -- another Zone 1 pattern that pairs well with keyhole beds
 - [[mandala-garden-design]] -- arranging multiple keyhole beds in a circular pattern
 - [[zone-1-intensive-garden]] -- keyhole beds are the backbone of Zone 1 design
 - [[polyculture-design-hemenway]] -- keyhole beds are ideal for diverse polyculture plantings

@@ -6,7 +6,7 @@ updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
-# [[psilocybe-caerulescens]] [[psilocybe-ovoideocystidiata-species-profile]]
+# [[psilocybe-caerulescens-entity]] [[psilocybe-ovoideocystidiata-species-profile]]
 
 Psilocybe caerulescens Murrill, including the variety P. caerulescens var.
 mazatecorum Heim, is a moderately to highly potent [[psilocybin-mushroom-cultivation-basics]]

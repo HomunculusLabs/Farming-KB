@@ -136,12 +136,12 @@ The same design principles that guide ecological design apply to social systems:
 - **Catch and store energy** — capture community enthusiasm, knowledge, and resources
 - **Obtain a yield** — ensure the community produces tangible benefits for members
 - **Apply self-regulation** — build feedback loops and accountability mechanisms
-- **Use and value diversity** — diverse perspectives, skills, and backgrounds strengthen the group
-- **Integrate rather than segregate** — connect social elements (food, housing, work, education) rather than separating them
+- **Use and value diversity** — divuse-small-and-slow-solutionsnd backgrounds strengthen the group
+- **Integrate rather than segcreatively-use-and-respond-to-changefood, housing, work, education) rather than separating them
 - **Use small and slow solutions** — start with a small committed group and grow organically
 - **Creatively use and respond to change** — design social structures that adapt as conditions evolve
 ## See Also
-- [[permaculture-ethics-and-principles]] — the ethical foundation for social design
+- [[natural-farm-permaculture-ethics-principles]] — the ethical foundation for social design
 - [[permaculture-community-resilience]] — building resilient communities
 - [[permaculture-seed-saving-networks]] — gift economy and cooperative seed systems
 - [[permaculture-urban-design]] — social structures for urban permaculture

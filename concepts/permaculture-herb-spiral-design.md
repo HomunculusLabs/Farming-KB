@@ -6,7 +6,7 @@ updated: 2026-04-25
 sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 
-# Permaculture [[herb-spiral-design]]
+# Permaculture [[herb-spiral-design-guide]]
 
 The [[herb-spiral]] is a classic [[permaculture-design]] element that combines the
 principles of vertical stacking, edge effect, and microclimate creation into

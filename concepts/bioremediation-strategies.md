@@ -44,8 +44,7 @@ treat oil spills on shorelines and in contaminated groundwater.
 Anaerobic reductive dechlorination is the primary biological process for
 remediating chlorinated solvents like trichloroethylene (PCE) and
 tetrachloroethylene (TCE). Dehalococcoides mccartyi is a specialist bacterium
-that reductively dechlorinates PCE completely to ethene, a non-toxic end
-product. This process is used at thousands of contaminated industrial sites
+that reductively dechlorinates PCE completely to ethene, a non-[[fungal-bioremediation]]is process is used at thousands of contaminated industrial sites
 worldwide through in situ biostimulation with electron donors like lactate or
 emulsified vegetable oil.
 
@@ -67,7 +66,7 @@ moisture and aeration for several months.
 The non-specific radical-based chemistry of fungal enzymes provides broader
 substrate range than bacterial enzyme systems, which typically target specific
 molecular structures. However, fungal remediation rates are generally slower
-than bacterial approaches, and the requirement for organic substrate addition
+than bahyperaccumulator-plants the requirement for organic substrate addition
 can increase project costs.
 
 ## Phytoremediation
@@ -75,7 +74,7 @@ can increase project costs.
 Plants contribute to contaminant removal through several mechanisms.
 Phytoextraction uses hyperaccumulator plants that concentrate metals in their
 aboveground tissues, which are then harvested. Thlaspi caerulescens accumulates
-zinc and cadmium at extraordinary concentrations, while sunflowers have been
+zinc and cadmium at exphytostabilizationtrations, while sunflowers have been
 used to extract lead from contaminated soils.
 
 Phytodegradation involves the metabolic breakdown of organic contaminants

@@ -87,6 +87,6 @@ Regional distribution patterns strongly influenced by:
 - [[marine-fungi-diversity-sampling]]
 - fungal biodiversity estimates
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[tropical-vs-temperate-fungal-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]

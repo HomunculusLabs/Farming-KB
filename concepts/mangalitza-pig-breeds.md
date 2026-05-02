@@ -3,9 +3,9 @@ title: Mangalitza and Old Pig Breeds
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, livestock, species-profiles, homesteading]
+tags: [animal-husbandry, livestock, species-profiles, [[homesteading]]]
 sources:
-  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md
 ---
 
 # Mangalitza and Old Pig Breeds
@@ -20,7 +20,7 @@ sources:
 
 ## Why Old Breeds
 
-Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. Sepp Holzer only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale.
+Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. [[sepp-holzer]] only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale.
 
 Free-roaming pigs are still a rarity in Austria and raise a great deal of public interest. The strikingly coloured and less well-known old breeds with their piglets fascinate visitors, encouraging acceptance of endangered domestic breeds and making direct marketing of their products easier.
 
@@ -82,5 +82,5 @@ Free-roaming pigs are still a rarity in Austria and raise a great deal of public
 ## Related
 
 - [[paddock-system-pigs]] -- keeping pigs in a paddock system
-- [[holzer-livestock-integration]] -- broader livestock integration in permaculture
+- [[holzer-livestock-integration]] -- broader livestock integration in [[permaculture]]
 - [[slugs-and-snails-organic-control]] -- using pigs for slug and snail regulation

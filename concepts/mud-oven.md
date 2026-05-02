@@ -142,11 +142,9 @@ This is critical -- do not skip or rush.
 6. After a week of graduated fires, the oven is ready for full use
 7. Rushing this step causes cracks
 
-## Repairing Cracks
+## Related
+- [[sepp-holzer-method]]
 
-- Small hairline cracks are normal and seal themselves during the next firing
-- Larger cracks: mix a small batch of clay slip (clay + water) and push it into the crack
-- Major cracking: usually caused by insufficient curing or wrong clay-to-sand ratio
-- Structural cracks: may need to rebuild the affected section
-
-Related: [[cervantes-outdoor-soil-types-clay-sand-loam]], [[cob-oven-construction]]
+- [[reciprocal-roof-frame]]
+- cob building techniques
+- homesteading basics

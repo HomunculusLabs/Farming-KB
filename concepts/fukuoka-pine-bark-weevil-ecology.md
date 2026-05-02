@@ -108,7 +108,7 @@ worse, problem to emerge.
 ## Implications for Natural Farming
 
 The pine bark weevil ecology case reinforces the logic behind all four
-principles of [[fukuoka-four-principles-natural-farming-detailed]]:
+principles of [[fukuoka-four-principles-natural-farming]]:
 no cultivation, no chemical fertilizer, no weeding by tillage or
 herbicides, and no dependence on chemicals. When humans refrain from
 intervening in complex systems they do not understand, those systems are

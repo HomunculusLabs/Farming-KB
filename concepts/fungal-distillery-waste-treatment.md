@@ -86,5 +86,5 @@ Mixed cultures also help prevent contamination in continuous fermentation by occ
 
 - [[fungal-chromogens-and-color-change]]
 - [[water-soluble-phosphoric-acid-wpa]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[fungal-nutrient-cycling-mineral-transformations]]

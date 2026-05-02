@@ -17,18 +17,15 @@ sources:
 
 
 
-
 ## Overview
 
 Yarrow is a hardy perennial herb in the family Asteraceae, native to temperate regions of the Northern Hemisphere. One of the most versatile plants in permaculture systems, it serves roles as a medicinal herb, dynamic accumulator, insectary plant, and compost catalyst. Its drought tolerance, ease of propagation, and multi-functionality make it a staple in food forests, herb spirals, and integrated pest management plantings.
 
 
 
-
 ## Botanical Description
 
 Yarrow forms clumps 30–90 cm tall with finely divided, feathery, aromatic leaves arranged alternately along erect stems. Flowers are arranged in flat-topped corymbs composed of 10–40 small flower heads, typically white to pale pink, blooming from late spring through autumn. The root system is a fibrous rhizome network that enables gradual clump expansion.
-
 
 
 
@@ -46,7 +43,6 @@ Active compounds include essential oils (chamazulene, camphor, eucalyptol), flav
 
 
 
-
 ## Dynamic Accumulation
 
 Yarrow is classified as a dynamic accumulator, drawing minerals from subsoil layers:
@@ -55,7 +51,6 @@ Yarrow is classified as a dynamic accumulator, drawing minerals from subsoil lay
 - **Potassium (K):** Moderate accumulation, contributes to compost mineralization
 - **Phosphorus (P):** Low-moderate levels
 - **Silica:** Accumulated in stems and leaves, contributing to structural rigidity
-
 
 
 
@@ -70,11 +65,9 @@ Yarrow is classified as a dynamic accumulator, drawing minerals from subsoil lay
 
 
 
-
 ## Cultivation
 
 Yarrow thrives in full sun and well-drained soils of any fertility, including poor, sandy, or gravelly substrates. Once established, it requires no irrigation in temperate climates. Propagation is by seed (stratification improves germination), division of clumps (spring or autumn), or basal cuttings. Deadheading extends flowering. Plants can become invasive in cultivated settings if not managed.
-
 
 
 
@@ -87,10 +80,11 @@ Yarrow thrives in full sun and well-drained soils of any fertility, including po
 
 
 
-
 ## Ethnobotanical Notes
 
 Used extensively in traditional European, Chinese (*shi cao*), and Native American medicine systems. The Iroquois used yarrow for fever, the Cherokee for diarrhea and sleep, and the Navajo for colds and coughs. In European folk tradition, yarrow was hung over doorways for protection and included in wedding bouquets for enduring love.
+
+
 
 ## See Also
 

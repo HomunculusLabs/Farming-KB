@@ -145,5 +145,5 @@ serves several functions simultaneously.
 ## See Also
 
 - [[mollison-tropical-mulch-systems-and-materials]]
-- [[permaculture-designers-manual-keyline-design]]
+- [[keyline-design]]
 - [[mollison-barrier-plants-in-garden-design]]

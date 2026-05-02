@@ -100,3 +100,7 @@ Prevention is always easier than treatment. Maintaining clean workspaces, using 
 - [[query-how-to-start-growing-mushrooms-at-home]]
 - [[query-how-to-set-up-a-monotub-mushroom-grow]]
 - [[query-spore-syringes-vs-liquid-culture]]
+
+## See Also
+
+- [[query-how-to-grow-ashwagandha-at-home]]

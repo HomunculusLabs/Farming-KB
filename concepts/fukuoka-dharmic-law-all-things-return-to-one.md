@@ -124,7 +124,7 @@ demonstrated agricultural practicality.
 
 ## See Also
 
-- [[fukuoka-four-principles-natural-farming-detailed]]
+- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-nature-transcends-human-knowledge]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-view-of-nature-and-human-hubris]]

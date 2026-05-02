@@ -144,7 +144,6 @@ LSD psychotherapy contributed enormously to the diffusion of LSD consumption.
 The evolution of LSD from remedy to inebriating drug was primarily promoted by
 
 - [[timothy-leary-harvard-psilocybin-experiments]]
-- [[sandoz-delysid-research-program]]
 ## See Also
 
 - [[sandoz-pharmaceuticals]]

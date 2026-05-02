@@ -112,7 +112,7 @@ For detailed distribution patterns: divide tissue into small units, record funga
 ## See Also
 
 - [[fungal-enzyme-systems]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-spore-mounting-and-preservation-techniques]]
 - [[fungicolous-fungi-sporocarp-inhabiting-species]]
 - [[microfungi-wood-plant-debris-survey]]

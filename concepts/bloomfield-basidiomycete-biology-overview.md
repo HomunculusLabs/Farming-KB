@@ -94,8 +94,8 @@ through soil, wood, and other substrates. Mycelium is the feeding phase
 of the life cycle, secreting extracellular enzymes to decompose organic
 matter and absorbing the resulting simple molecules.
 
-In many basidiomycetes, the mycelium can persist for decades or even
-centuries. Individuals of Armillaria ostoyae (honey mushroom) have been
+In many basidiomycetes, the [[mycelium]] can persist for decades or even
+centuries. Individuals of [[armillaria-ostoyae]] (honey mushroom) have been
 documented spanning over 2,384 acres, making them among the largest
 organisms on Earth by area.
 
@@ -103,7 +103,7 @@ organisms on Earth by area.
 
 Basidiomycetes are central to terrestrial ecosystems:
 
-- **Decomposition**: They are the primary decomposers of lignin, the
+- **[[decomposition]]**: They are the primary decomposers of lignin, the
   tough polymer that gives wood its rigidity. Without basidiomycetes,
   dead trees would accumulate indefinitely.
 - **Mycorrhizae**: Many form symbiotic associations with tree roots,
@@ -113,8 +113,8 @@ Basidiomycetes are central to terrestrial ecosystems:
   cause billions of dollars in crop losses annually.
 - **Food**: Edible species (Agaricus, Pleurotus, Lentinula) are
   cultivated commercially on a massive scale.
-- **Medicine**: The shiitake mushroom (Lentinula edodes) produces
-  lentinan, an immunomodulatory compound used in cancer treatment.
+- **Medicine**: The shiitake mushroom ([[lentinula-edodes]]) produces
+  [[lentinan]], an immunomodulatory compound used in cancer treatment.
 
 ## Economic Impact
 

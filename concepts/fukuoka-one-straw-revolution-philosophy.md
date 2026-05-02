@@ -17,7 +17,6 @@ Masanobu Fukuoka's The One-Straw Revolution (1975) is a foundational text of nat
 
 
 
-
 ## Core Philosophy
 
 ### The Ultimate Goal of Farming
@@ -38,14 +37,12 @@ Fukuoka famously said: "I eventually reached the conclusion that there was no ne
 
 
 
-
 ## The Four Principles
 
 1. **No Cultivation**: No plowing or tilling. Earthworms and plant roots naturally aerate soil
 2. **No Chemical Fertilizer**: No added fertilizers. Soil fertility comes from returning plant residues
 3. **No Weeding by Tillage or Herbicide**: Weeds are managed through ground covers and flooding, not eliminated
 4. **No Pesticides**: Nature maintains balance when not disturbed
-
 
 
 
@@ -66,14 +63,12 @@ Fukuoka distinguished sharply between natural farming and organic farming:
 
 
 
-
 ## Critique of Modern Science
 Fukuoka criticized agricultural science for:
 - Studying isolated factors rather than whole systems
 - Creating solutions that generate new problems
 - Measuring success by yield alone
 - Ignoring the farmer's relationship with the land
-
 
 
 

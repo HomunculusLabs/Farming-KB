@@ -49,7 +49,7 @@ available nitrogen to break down carbon-rich tissue.
 - Brassicas: terminate at full flower for maximum glucosinolate production
 **Advantages:** Builds soil organic matter and fertility without synthetic inputs,
 breaks compaction with deep taproots and root channels, suppresses soil-borne
-diseases through biofumigation and competitive exclusion, provides erosion control
+diseases through biofumigation and comroot-exudatesusion, provides erosion control
 on fallow or sloped ground, attracts beneficial insects with flowering species,
 feeds soil microbiome with living root exudates during growth, scavenges residual
 soil nutrients that might otherwise leach.
@@ -88,7 +88,7 @@ a consistent, storable soil amendment. Multiple methods suit different scales:
 **Bokashi:**
 - Anaerobic fermentation using effective microorganisms (EM) inoculant
 - Handles all food waste including meat, dairy, and cooked foods
-- Two-week fermentation in sealed bucket, followed by soil burial
+- Two-week fermentation [[sheet-mulching]]et, followed by soil burial
 - Requires ongoing purchase of EM inoculant bran
 - Pre-fermented material still needs soil incorporation to finish
 **Sheet mulching (lasagna gardening):**

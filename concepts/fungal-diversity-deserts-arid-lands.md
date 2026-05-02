@@ -82,7 +82,7 @@ Seasonal fluctuations in water supply can have dramatic effects on the microbial
 
 Galapagos Islands xerophilic soils yielded 250 species with 50% identifiable, demonstrating that even isolated arid ecosystems harbor substantial fungal diversity. Island arid ecosystems may harbor unique assemblages shaped by both aridity and isolation.
 
-[[fungal-endemism-biogeography]] [[fungal-endemism-biogeography]]
+[[fungal-endemism-and-biogeography]] [[fungal-endemism-and-biogeography]]
 
 ## Sampling Considerations
 

@@ -73,7 +73,7 @@ Williams emphasizes a critical design principle: placing a physical structure in
 
 ## The Five Economic Streams
 
-Williams presents a framework of five economic input streams that permaculture designers should integrate into their designs and livelihoods:
+Williams presents a framework of five economic input streams that [[permaculture]] designers should integrate into their designs and livelihoods:
 
 ### 1. Market Economy
 Goods and services traded for legal currency. This is the economy everyone thinks of first -- having a job, earning money, buying things. Williams does not reject the market economy but insists it should not be the sole economic input.
@@ -85,14 +85,14 @@ Direct trade of goods and services without currency. Often a "tit-for-tat" excha
 Giving from abundance without expectation of return. Distinct from barter in its ethical nature -- things are simply given, never asked for. Williams describes this as taking something you have in abundance and giving it to someone else. The Freecycle network is given as a practical exercise in experiencing the gift economy.
 
 ### 4. Locally Produced Natural Resources
-Food, water, medicine, and building materials produced on-site through permaculture systems. When your design yields the necessities of life directly, you reduce dependence on external economic systems. Grow as much food as possible, harvest water, create local infrastructures that support needs.
+Food, water, medicine, and building materials produced on-site through [[permaculture]] systems. When your design yields the necessities of life directly, you reduce dependence on external economic systems. Grow as much food as possible, harvest water, create local infrastructures that support needs.
 
 ### 5. Skill Shares
 People gathering to share skills and knowledge -- essentially teaching and passing on practical ability. With skills, one can acquire the necessities of life directly through one's own capability.
 
 ### Integration Principle
 
-Permaculture Principle #5 ([[integrate-rather-than-segregate]]) applies directly to economics. A person pursuing right livelihood should integrate all five streams. Each should be used as much as possible without being dependent on any single one. The goal is maximum resilience through diversification.
+[[permaculture]] Principle #5 ([[integrate-rather-than-segregate]]) applies directly to economics. A person pursuing right livelihood should integrate all five streams. Each should be used as much as possible without being dependent on any single one. The goal is maximum resilience through diversification.
 
 ## Right Livelihood
 
@@ -100,11 +100,11 @@ Williams connects invisible structures to the Buddhist concept of right liveliho
 
 ### Redefining Livelihood
 
-The true definition of livelihood is "securing the necessities of life," not "earning money." While money is the primary means of acquiring necessities in modern systems, there are many more ways to acquire them. Permaculture design can create systems that directly generate the necessities of life.
+The true definition of livelihood is "securing the necessities of life," not "earning money." While money is the primary means of acquiring necessities in modern systems, there are many more ways to acquire them. [[permaculture]] design can create systems that directly generate the necessities of life.
 
 ### The Abundance Hierarchy
 
-Williams outlines a priority sequence for permaculture livelihood:
+Williams outlines a priority sequence for [[permaculture]] livelihood:
 1. Ensure the health of the earth
 2. Take care of personal needs
 3. Generate abundance

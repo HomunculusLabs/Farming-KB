@@ -128,7 +128,7 @@ appear to be primarily tropical in distribution.
 
 ## See Also
 
-- [[soil-fungal-communities]]
+- biodiversity fungi soil fungal communities
 
 - [[gadd-fungal-ecology-pathogens]]
 - [[fukuoka-natural-farming-soil-ecology-principles]]

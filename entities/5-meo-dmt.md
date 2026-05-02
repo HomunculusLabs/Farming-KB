@@ -15,8 +15,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
-
 ## Chemistry
 
 - **IUPAC**: 5-Methoxy-N,N-dimethyl-1H-indole-3-ethanamine
@@ -25,8 +23,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **CAS**: 1019-45-0
 - Belongs to the dimethyltryptamine family; the 5-methoxy substitution dramatically increases potency and alters the pharmacological profile compared to DMT
 - Typically encountered as a white crystalline freebase or as a water-soluble salt (fumarate, hydrochloride)
-
-
 
 
 
@@ -44,15 +40,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
-
 ## Natural Occurrence
 
 - **Plant sources**: Virola species (Amazon basin), Dictyoloma incanescens, Anadenanthera peregrina (trace), Diplopterys cabrerana
 - **Animal source**: Bufotoxin secretions of Incilius alvarius (Sonoran Desert toad) — the primary natural reservoir, containing up to 15% 5-MeO-DMT by dry weight in dried venom
 - Present in trace amounts in human cerebrospinal fluid, pineal gland, and urine, though the functional significance remains debated
-
-
 
 
 
@@ -69,8 +61,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
-
 ## Toxicology & Safety
 
 - LD₅₀ in rodents is extremely high relative to active doses (wide therapeutic index)
@@ -82,18 +72,20 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
-
 ## Legal Status
 
 - Schedule I in the United States; controlled internationally under the UN Convention on Psychotropic Substances (1971)
 - Legal status varies widely; decriminalized in some jurisdictions for religious/spiritual use
 - Many countries have scheduled 5-MeO-DMT explicitly or through tryptamine analogue acts
 
+
+
+
+
 ## See Also
 
 - [[dipt]]
 
-- [[five-meo-dmt-reference]]
+- [[5-meo-dmt-reference]]
 - [[5-meo-dmt-reference]]
 - [[5-meo-dmt-compound-profile]]

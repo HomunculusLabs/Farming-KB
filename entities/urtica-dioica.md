@@ -127,9 +127,9 @@ parasitic wasps (Ichneumonidae, Braconidae). It is often interplanted with tomat
 improve their flavor and disease resistance, a practice supported by traditional gardening
 experience and some horticultural research.
 
-Nettle supports a high diversity of aphid species on its stems and leaves, which serve
+Nettle supports a high diversity of aphid [[integrated-pest-management]]eaves, which serve
 as an alternative food source (a biological reservoir) for predatory insects, reducing
-aphid pressure on nearby crop plants. This sacrificial host function makes nettle a
+aphid pressure on nearby crop plants. This sacrificial host functioherbal-medicinea
 valuable component of integrated pest management strategies. The aphid colonies on nettle
 rarely cause significant damage to the nettle itself.
 

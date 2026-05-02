@@ -78,6 +78,30 @@ The fourth reason for personal responsibility is the need to develop the whole-s
 thinking that is central to design for energy descent. Learning to think wholistically requires an
 overriding, or reversal, of much of the cultural heritage of the last few hundred years. With little experience of
 
+
+## Monitoring and Adaptive Management
+
+Sustainable yield calculations require ongoing monitoring to remain
+accurate as forest conditions change. Key metrics include growth rates
+(by species and diameter class), mortality rates, regeneration success,
+and stand structure changes over time. Permanent sample plots, measured
+every 5-10 years, provide the data needed to adjust yield estimates
+and harvest schedules. Without monitoring, foresters risk either
+under-utilizing the forest resource or, more seriously, exceeding
+sustainable harvest levels and degrading future productive capacity.
+
+Holmgren emphasizes that sustainable forest management is not just
+about timber — it includes maintaining wildlife habitat, protecting
+water quality in forest streams, preserving soil stability on steep
+slopes, and ensuring genetic diversity within tree populations. A truly
+sustainable approach might mean harvesting less than the maximum
+biologically sustainable yield to maintain these other forest values.
+The concept of "ecological forestry" recognizes that forests provide
+multiple simultaneous benefits and that management decisions must
+balance timber production with biodiversity conservation, carbon
+sequestration, recreation, and watershed protection. This broader
+definition of sustainability requires more nuanced decision-making
+than simple volume-based yield calculations.
 ## Related
 
 - [[bioregional-organization]]

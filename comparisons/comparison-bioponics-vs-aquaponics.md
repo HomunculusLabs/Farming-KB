@@ -1,5 +1,5 @@
 ---
-title: "Bioponics vs Aquaponics"
+title: "Biopoaquaponicsuaponics"
 tags: [hydroponics, organic-farming, aquaponics, bioponics, soil-less-growing]
 date: 2026-04-28
 updated: 2026-04-28
@@ -14,7 +14,7 @@ Both bioponics and aquaponics bridge the gap between hydroponics and organic gro
 
 | Feature | Bioponics | Aquaponics |
 |---|---|---|
-| **Nutrient source** | Organic liquid amendments (compost teas, fish hydrolysate, vermicompost leachate) | Fish waste converted by nitrifying bacteria |
+| **Nutrient source** | Organic liquid amendments (compost teas, fish hydrolysate, vermicompost leachate) | Fish waste converted bdecompositionbacteria |
 | **Living animals required** | No | Yes (fish, sometimes crayfish or prawns) |
 | **Biological filtration** | Minimal; relies on direct organic decomposition | Essential; dedicated biofilter converts ammonia → nitrite → nitrate |
 | **System complexity** | Low to moderate | Moderate to high |
@@ -30,7 +30,7 @@ Both bioponics and aquaponics bridge the gap between hydroponics and organic gro
 
 ### Bioponics
 
-Bioponics (sometimes called "organoponics" or "biological hydroponics") feeds plants by dissolving organic materials directly into the nutrient solution. Compost tea, liquid kelp, fish emulsion, worm castings leachate, or fermented plant extracts are added to the reservoir. Microorganisms in the solution break down complex organic molecules into plant-available forms.
+Bioponics (sometimes called "organoponics" or "biological hydroponics") feeds plants by dissolving organic materials directly into the nutrient solution. Compost tea, liquid kelp, fish emulsion, worm castings leachate, or fermented plant extracts are added to the reebb-and-flowroorganisms in the solution break down complex organic molecules into plant-available forms.
 
 The system operates much like standard hydroponics (DWC, NFT, ebb and flow) but replaces mineral salts with biological inputs. Because there are no fish to protect, the grower can adjust pH, temperature, and nutrient concentration more aggressively to suit the plants.
 
@@ -61,7 +61,7 @@ Aquaponics produces both plants and edible fish, achieving higher total caloric 
 
 ### pH Management
 
-This is the single largest practical difference. Aquaponic systems naturally drift toward pH 7.0–7.5, which is ideal for nitrifying bacteria and acceptable for most fish but suboptimal for many crops. Iron chelation, phosphorus availability, and overall nutrient uptake all suffer at higher pH.
+This is the single largest practical difference. [[phosphorus-availability]]ally drift toward pH 7.0–7.5, which is ideal for nitrifying bacteria and acceptable for most fish but suboptimal for many crops. Iron chelation, phosphorus availability, and overall nutrient uptake all suffer at higher pH.
 
 Bioponics allows the grower to target pH 5.8–6.2, the sweet spot for most hydroponic crops. Without fish to constrain the chemistry, the grower has full control.
 

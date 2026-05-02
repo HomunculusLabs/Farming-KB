@@ -121,3 +121,8 @@ Lacto-fermentation is forgiving for beginners — the worst outcome is usually a
 ## Summary
 
 Lacto-fermentation and canning serve different but equally valuable roles in a self-sufficient food system. Fermentation excels at preserving and enhancing nutritional quality while requiring minimal equipment. Canning excels at providing long-term, room-temperature food security with a wider range of processable foods. The ideal homestead pantry includes both — using each method where its strengths are most needed.
+
+## See Also
+
+- [[comparison-pressure-canning-vs-water-bath-canning]]
+- [[comparison-vinegar-vs-lacto-fermentation]]

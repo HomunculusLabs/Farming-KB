@@ -146,4 +146,5 @@ deadly species, and unpleasant effects serve as natural deterrents.
 
 ## References
 
-- Halpern, J.H. (2004). Pharmacology & Therapeutics, 102, 131-138.
+## See Also
+

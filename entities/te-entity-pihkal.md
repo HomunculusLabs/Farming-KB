@@ -84,8 +84,7 @@ Although the ethyl group (of the ethylthio
 on the 4-position) is just one carbon atom longer than the methyl
 group (of TM) that small change already produces hints and indicators
 of some physical toxicity. The propyl compound (see TP) is still of
-similar potency, but appears to be yet more difficult, physically.
-The butyl homolog never made it off the ground at all as a
+similar potency, but appears to be yet more difficult, physically.[[mescaline]]l homolog never made it off the ground at all as a
 psychedelic, but the physical difficulties seem less as well. All
 that was left to come through was the euphoria. If this 4-position
 sulfur analogue series of mescaline is ever to be more carefully

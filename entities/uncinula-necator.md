@@ -80,11 +80,11 @@ A particularly interesting ecological interaction involving uncinula necator was
 
 Key findings include:
 
-- The density of domatia per leaf was positively correlated with the level of mite mycophagy (fungal feeding)
+- The density of domatia per leaf was positively correlated with the level of mite mycophagy ([[fungal-spores]]g)
 - At high domatia densities, the feeding activity of tydeid mites significantly reduced the incidence of mildew on grape leaves
 - This represents a tritrophic interaction involving the grapevine (providing domatia), the mites (consuming fungal spores and mycelium), and the powdery mildew pathogen (being consumed)
 
-This interaction illustrates the concept of biological control mediated through plant-provided structures and highlights the complexity of species interactions in agricultural ecosystems.
+This interaction illustrates the concept of biological cobacillus-subtilisrough plant-provided structures and highlights the complexity of species interactions in agricultural ecosystems.
 
 ### Antagonistic Microorganisms
 

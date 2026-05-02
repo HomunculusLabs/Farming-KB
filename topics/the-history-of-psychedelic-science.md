@@ -447,7 +447,7 @@ beginning of recorded history.
   Mexican sacred mushrooms
 - [[gordon-wasson-mushroom-discovery]]: Wasson's mycophilia/mycophobia
   hypothesis
-- [[hofmann-lsd-discovery-bicycle-day-account]]: Hofmann's discovery of
+- [[hofmann-lsd-discovery-bicycle-day]]: Hofmann's discovery of
   LSD
 - [[hofmann-lsd-sandoz-research-program]]: The Sandoz clinical research
   program

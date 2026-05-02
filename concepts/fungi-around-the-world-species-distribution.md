@@ -119,5 +119,5 @@ Not all fungi follow the same distribution patterns. Some species are truly cosm
 - [[magic-mushrooms-australia-new-zealand]] — Detailed species guide for Australasia
 - [[entheogen-culture]] — Cultural context of psychoactive fungi use
 - [[fungal-biodiversity-tropical-forests]] — Tropical forest fungal diversity
-- [[fungal-endemism-biogeography]] — Patterns of fungal distribution and endemism
+- [[fungal-endemism-and-biogeography]] — Patterns of fungal distribution and endemism
 - [[fungal-species-concept-and-taxonomy]] — How fungal species are defined

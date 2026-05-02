@@ -1,13 +1,13 @@
 ---
-title: Cannabis Methods of Consumption
+title: cannabis methods of consumption
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
+  - "raw/papers/[[uwe-blesching]]-the-cannabis-health-index.md"
 ---
-# Cannabis Methods of Consumption
+# cannabis methods of consumption
 
 ## Overview
 

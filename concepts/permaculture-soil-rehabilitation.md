@@ -72,6 +72,29 @@ Soil science concentrates on classifications but not on how to evolve soil. Farm
 
 The core subjects of sustainable societies are uncut forests, pond and lake sediments, permanent meadows and prairies, and mulched non-tillage gardens. The greatest fertiliser is the footsteps of the gardener.
 
+
+## Rehabilitation Strategies in Practice
+
+Practical soil rehabilitation follows a progression from surface protection
+to deep biological activation. The first priority is always to stop further
+degradation: eliminate bare soil through mulching or cover cropping, prevent
+erosion with swales or contour plantings, and remove the causes of
+compaction. Once the soil surface is protected, biological rehabilitation
+begins with compost applications and inoculation with mycorrhizal fungi and
+beneficial bacteria. These organisms initiate the process of rebuilding soil
+structure through glomalin production (from mycorrhizae), polysaccharide
+secretions (from bacteria), and the formation of stable soil aggregates.
+
+Mollison provides specific rehabilitation strategies for different degraded
+land types. For compacted grazing land, the prescription is deep-rooted
+perennial pasture species combined with controlled rotational grazing to
+break compaction and return organic matter. For eroded hillsides, contour
+bunds with pioneer nitrogen-fixing trees stabilize the slope while building
+soil. For chemically degraded farmland (salinized or pesticide-accumulated
+soils), the approach combines leaching with clean water, gypsum applications
+for sodium displacement, and intensive biological inoculation. Each
+situation requires site-specific analysis, but the underlying principle
+remains: feed the soil biology and it will rebuild the soil.
 ## See Also
 
 - [[permaculture-earthworks-design]]

@@ -30,7 +30,6 @@ Cecil Terence Ingold (1905–2010) was a British mycologist who discovered the I
 
 
 
-
 ## The Discovery
 
 Ingold found that foam in fast-flowing creeks trapped and concentrated spores of remarkable beauty — star-shaped (tetraradiate), crescent-shaped, sigmoid, and compound forms resembling balloon animals. After months of careful research at the University of Leicester, he concluded these were conidia produced by a previously unknown group of aquatic fungi essential to leaf decomposition in streams. Earlier reports of aquatic spores with long appendages existed, but biologists had ignored them or misidentified them as protozoans.

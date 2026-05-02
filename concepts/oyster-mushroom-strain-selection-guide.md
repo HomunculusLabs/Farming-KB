@@ -144,11 +144,7 @@
    144|| Bottle culture | P. eryngii, P. cystidiosus |
    145|
    146|The right strain depends on local climate, available substrate materials, market preferences, and the grower's experience level.
-   147|- [[oyster-mushroom-harvesting-and-post-harvest]]
-   148|- [[tropical-mushroom-spawn-production-materials]]
-   149|- [[oyster-mushroom-fruiting-abnormalities-environmental-causes]]
-   150|
-
+   147|- [[oyster-mushroom-harvesting-post-harvest]]
 ## See Also
 
 - [[oyster-mushroom-species-and-strain-selection]]

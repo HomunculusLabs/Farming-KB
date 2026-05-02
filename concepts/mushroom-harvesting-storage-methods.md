@@ -94,7 +94,7 @@ Some cultivators short-cycle sterilize dried mushrooms in the autoclave. This he
 - [[mushroom-business-marketing-basics]] for market preparation
 - mushroom fruiting conditions for optimizing harvest timing
 - [[medicinal-mushroom-extraction-preparation]] for processing dried material
-- [[oyster-mushroom-harvesting-and-post-harvest]]
+- [[oyster-mushroom-harvesting-post-harvest]]
 - [[bulk-substrate-preparation]]
 - [[oyster-mushroom-species-fruiting-parameters]]
 - [[stamets-mushroom-growing-parameters-by-species]]

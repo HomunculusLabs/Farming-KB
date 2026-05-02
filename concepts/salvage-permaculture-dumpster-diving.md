@@ -3,14 +3,14 @@ title: Salvage Permaculture and Dumpster Diving
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
+  - ~/wiki/raw/papers/urban-[[permaculture]]-guerilla-gardening.md
 type: concept
-tags: [culture, permaculture]
+tags: [culture, [[permaculture]]]
 ---
 
-# Salvage Permaculture and Dumpster Diving
+# Salvage [[permaculture]] and Dumpster Diving
 
-Salvage permaculture is the practice of building homes, gardens, and water
+Salvage [[permaculture]] is the practice of building homes, gardens, and water
 systems entirely from discarded and scavenged materials. It treats the urban
 waste stream as a primary resource, converting trash into productive
 infrastructure while reducing landfill waste and eliminating the need for
@@ -18,7 +18,7 @@ purchased building materials.
 
 ## Philosophy
 
-The salvage approach is rooted in the permaculture principle that every
+The salvage approach is rooted in the [[permaculture]] principle that every
 resource should cycle through multiple uses before leaving the system. In
 cities, enormous quantities of useful materials are discarded daily. A salvaged
 house renovation demonstrates the depth of possibility: "When we started our

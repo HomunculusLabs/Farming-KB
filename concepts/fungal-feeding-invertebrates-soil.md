@@ -118,3 +118,7 @@ See also: [[fungal-collembola-interactions]], [[fungal-nematode-interactions-bio
 The study of fungal-feeding invertebrates has important implications for soil management in agriculture and horticulture. Conservation tillage and organic matter inputs that promote fungal-dominated soil food webs tend to increase the abundance and diversity of fungal grazers, creating positive feedback loops that further enhance soil health and nutrient cycling. The [[hamilton-soil-biology-and-microorganisms]] interact with both fungi and their invertebrate grazers, adding further complexity to these belowground food webs.
 
 These [[soil-food-web-nutrient-cycling]] mediated by fungal grazers are particularly important in no-till and reduced-tillage agricultural systems, where fungal hyphal networks remain intact and can support larger invertebrate populations than in frequently disturbed soils. The shift from bacterial-dominated to fungal-dominated soil food webs under reduced tillage is one of the most consistent findings in [[soil-food-web-management-for-farmers]] research.
+
+## See Also
+
+- [[soil-respiration]]

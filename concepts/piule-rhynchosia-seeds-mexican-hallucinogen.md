@@ -4,7 +4,8 @@ tags: [ethnobotany, mexico, rhynchosia, leguminosae, aztec, seeds,
   hallucinogenic-plants, schultes, tepantitla]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # Piule (Rhynchosia spp.)

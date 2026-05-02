@@ -9,7 +9,7 @@ sources: []
 # Functional Mushroom Products
 ## Overview
 Functional mushroom products encompass a wide range of formats including tinctures, powders, capsules, extracts, teas, and food products. The functional mushroom market has grown rapidly, with global sales exceeding $50 billion and projected continued expansion. However, product quality, labeling accuracy, and consumer understanding vary enormously. This page covers product types, extraction methods, quality assessment, and practical guidance for consumers and practitioners.
-## Product Formats
+## Produmyceliumts
 ### Powders
 The simplest and most affordable format:
 - Raw dried mushroom powder: Whole mushroom dried and ground
@@ -38,10 +38,8 @@ Encapsulated powder or extract:
 - Standardized extracts for consistent dosing
 - Easy to take and transport
 - Tasteless (important for bitter mushrooms like reishi)
-- Can contain either raw powder or concentrated extract
-- Verify whether capsules contain extract or just powdered mushroom
-### Extracts
-Concentrated preparations that isolate or concentrate specific compounds:
+- Can contain either raw powder or concentratebeta-glucansVerify whether capsules contain extract or just powdered mushroom
+### Extracergothioneineed preparations that isolate or concentrate specific compounds:
 - Hot water extracts: Best for beta-glucans and polysaccharides
 - Alcohol extracts: Best for triterpenes, hericenones, ergothioneine
 - Dual extracts: Sequential water and alcohol extraction, capturing both classes
@@ -96,8 +94,7 @@ Critical quality issue:
 - Some products claim "total glucans" which includes alpha-glucans, inflating numbers
 - Always look for BETA-glucan content specifically
 - Reputable suppliers test for both alpha and beta separately
-### Contaminant Testing
-Third-party testing should verify:
+### Contaminant T[[mycotoxins]]rd-party testing should verify:
 - Heavy metals (lead, arsenic, cadmium, mercury)
 - Pesticide residues
 - Microbial contamination (E. coli, Salmonella, mold, yeast)

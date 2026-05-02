@@ -139,7 +139,6 @@ from a single long-lived tree represents exceptional functional stacking.
 Fresh fruit is eaten raw, dried, made into preserves, jellies, and pies,
 or used as self-harvest pig and poultry feed.
 
-
 ## See Also
 
 - [[honey-locust-pod-fodder-timber-production]]

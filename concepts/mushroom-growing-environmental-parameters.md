@@ -37,7 +37,7 @@ to prevent excessive substrate drying. Sealed bags with filter patches maintain
 adequate moisture without intervention.
 
 ### Gas Exchange
-Colonizing mycelium produces CO₂ as a metabolic byproduct. Adequate gas
+Colonizing [[mycelium]] produces CO₂ as a metabolic byproduct. Adequate gas
 exchange through filter patches or loose lids prevents:
 - Anaerobic conditions that promote bacterial growth
 - Excessive CO₂ buildup (>10,000 ppm) that slows growth
@@ -51,7 +51,7 @@ morphological changes.
 ## Fruiting Phase Parameters
 
 Transitioning from colonization to fruiting requires an **environmental shift**
-that signals the mycelium to form reproductive structures.
+that signals the [[mycelium]] to form reproductive structures.
 
 ### Temperature Drop (Cold Shock)
 Most species benefit from a temperature reduction of 5-10°C at initiation:
@@ -65,7 +65,7 @@ reproduction. Some species (pink oyster) require warm fruiting (22-28°C).
 
 ### Fresh Air Exchange (FAE)
 FAE is arguably the most critical fruiting parameter:
-- CO₂ levels must drop below ~800 ppm for normal fruiting body development
+- CO₂ levels must drop below ~800 ppm for normal [[fruiting-body-development]]
 - Elevated CO₂ (1000-5000 ppm) causes stem elongation and cap malformation
 - Inadequate FAE leads to "fuzzy foot" (thick mycelial growth on stem base),
   delayed pinning, and reduced yields
@@ -98,10 +98,10 @@ Light serves as a directional cue for fruiting:
 
 ### The Pinning Trigger
 
-**Pinning** (primordia formation) is the transition from vegetative mycelium to
+**Pinning** (primordia formation) is the transition from vegetative [[mycelium]] to
 reproductive structures. It requires a **convergence of triggers**:
 
-1. Full substrate colonization (mycelium has consumed available nutrients)
+1. Full substrate colonization ([[mycelium]] has consumed available nutrients)
 2. Temperature shift (cold shock for most species)
 3. Elevated humidity (85-95%)
 4. Fresh air exchange (CO₂ reduction)

@@ -10,9 +10,6 @@ sources: []
 
 Herbs occupy the herbaceous layer of [[permaculture-energy-systems]], providing culinary, medicinal, pest-deterrent, and beneficial insect-attracting functions. Many herbs serve multiple roles simultaneously, making them ideal for [[permaculture-companion-planting]] strategies.
 
-
-
-
 ## Culinary and Medicinal Herbs
 
 ### Garlic (Allium sativum)
@@ -60,9 +57,6 @@ Companion to lettuce, potatoes, tomatoes, roses, and beans. Deters nematodes in 
 ### Borage (Borago officinalis)
 Companion to strawberries. Attracts bees and other pollinators. Edible flowers with cucumber-like flavour. Leaves used traditionally as a diuretic and adrenal tonic.
 
-
-
-
 ## Medicinal Trees and Shrubs with Herb Properties
 
 ### Moringa (Moringa oleifera)
@@ -73,9 +67,6 @@ Bark contains salicin, the precursor to aspirin. Traditional remedy for fever, p
 
 ### Water Cress (Nasturtium officinale)
 Rich in vitamins and minerals (151 mg calcium, 4900 IU vitamin A per 100g). Many medicinal properties. See [[edible-aquatic-plants]].
-
-
-
 
 ## Design Integration
 

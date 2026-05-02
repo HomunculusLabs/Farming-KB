@@ -109,7 +109,7 @@ Biochar is typically alkaline and can raise soil pH by 0.2-1.0 units depending o
 ### Carbon Sequestration
 Biochar is a stable form of carbon that can persist in soil for hundreds to thousands of years. It resists microbial decomposition far longer than uncharred organic matter. A single application can represent a permanent carbon sink. At 5 tons per acre, biochar sequesters approximately 9 tons of CO2 equivalent.
 ### Contaminant Binding
-Biochar can bind heavy metals, pesticides, and other contaminants, reducing their bioavailability to plants. This has applications in [[mycoremediation-of-heavy-metals]] of contaminated soils. However, it also means biochar can bind beneficial herbicides or pesticides if applied simultaneously — apply them separately.
+Biochar can bind heavy metals, pesticides, and other contaminants, reducing their bioavailability to plants. This has applications in [[mycoremediation-heavy-metals-detailed]] of contaminated soils. However, it also means biochar can bind beneficial herbicides or pesticides if applied simultaneously — apply them separately.
 ## Biochar in Different Soil Types
 ### Sandy Soils (Greatest Benefit)
 Biochar dramatically improves water and nutrient retention in sandy soils that drain too quickly. The pores hold water and nutrients that would otherwise leach away. Application rates at the higher end (5-10 tons/acre) are justified.

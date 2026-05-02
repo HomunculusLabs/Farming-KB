@@ -1,8 +1,7 @@
 ---
-title: "Ferrocement vs Earthbag Construction"
+title: "Ferroceearthbag-constructiontruction"
 tags: [natural-building, ferrocement, earthbag, low-cost-construction, sustainable-housing]
-date: 2026-04-28
-updated: 2026-04-28
+date: [[permaculture]]pdhomesteading4-28
 sources: []
 ---
 
@@ -61,7 +60,7 @@ Labor costs tend to favor ferrocement for experienced crews (faster application 
 
 Ferrocement, when properly mixed and cured with adequate mortar cover over the armature (minimum 10–15 mm), is extremely durable and resistant to water, fire, insects, and rodents. It has a proven lifespan of 50+ years in marine and tropical environments. Hairline cracks can develop due to thermal movement or minor settling but are easily repaired with a thin mortar slurry. If the armature corrodes — which occurs if cover is too thin or chlorides penetrate — structural failure can be sudden rather than gradual, making inspection important.
 
-Earthbag walls are vulnerable to moisture ingress if not properly plastered and protected from rising damp (a gravel bag foundation course solves the latter). UV from sunlight degrades polypropylene bags within 3–6 months of exposure — plastering must happen promptly after wall construction. Rodents can occasionally burrow into unplastered or damaged walls, though the tightly tamped fill discourages most pests. When maintained with intact plaster, good roof overhangs (minimum 60 cm), and proper site drainage, earthbag structures can last centuries.
+Earthbag walls are vulnerable to moisture ingress if not properly plastered and protected from rising damp (a gravel bag foundation course solves the latter). UV from sunlight degrades polypropylene bags within 3–6 months of exposure — plastering must happen promptly after wall construction. Rodents can occasionally burrow into unplastered or damaged walls, though the tightly tamped fill discourages most pests. When maintained with [[rammed-earth]]er, good roof overhangs (minimum 60 cm), and proper site drainage, earthbag structures can last centuries.
 
 ## Foundation Requirements
 

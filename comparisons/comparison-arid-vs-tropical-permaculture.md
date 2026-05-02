@@ -148,4 +148,3 @@ species adapted to seasonal moisture stress.
 - [[permaculture-design]]
 - [[permaculture-climate-zones]]
 - [[permaculture-water-systems]]
-- [[keyline-design]]

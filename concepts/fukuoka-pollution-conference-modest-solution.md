@@ -69,7 +69,7 @@ Fukuoka's solitary stand at the conference mirrors his entire life's work: speak
 
 ## Connection to Natural Farming Principles
 
-The pollution conference discussion connects directly to Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]]:
+The pollution conference discussion connects directly to Fukuoka's [[fukuoka-four-principles-natural-farming]]:
 
 1. No chemicals: The most direct way to eliminate chemical pollution is to stop using chemicals. This principle alone, if widely adopted, would eliminate agricultural water pollution, red tides, and soil contamination.
 

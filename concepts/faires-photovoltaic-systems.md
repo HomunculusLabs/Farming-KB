@@ -82,3 +82,26 @@ See also [[faires-passive-solar-energy-systems]], [[faires-wind-power-systems]],
 - [[faires-comprehensive-food-preservation-guide]]
 - [[faires-household-products-from-the-homestead]]
 - [[farming-with-air-water-and-sunlight]]
+
+## System Sizing and Economics
+
+Properly sizing a photovoltaic system requires balancing energy demand,
+available sunlight, and budget. The first step is an energy audit: listing
+all electrical loads with their wattage and daily hours of use to calculate
+total daily watt-hours. For a typical homestead, this might range from
+2-5 kWh/day for a minimal system (lighting, communications, refrigeration)
+to 15-30+ kWh/day for a fully electrified home including water pumping
+and power tools. The solar array must be sized to produce this daily
+energy budget given local solar insolation, typically 3-6 peak sun hours
+per day depending on location and season.
+
+Battery bank sizing is equally critical and often the most expensive
+component. Lead-acid batteries (flooded or sealed) are the most affordable
+but require careful maintenance and last 3-7 years with proper care.
+Lithium iron phosphate (LiFePO4) batteries cost 2-3 times more upfront
+but last 10-15 years, accept deeper discharge cycles, require no
+maintenance, and are more efficient (95% vs 80% round-trip efficiency).
+For off-grid systems, the battery bank should provide 2-3 days of
+autonomy to handle cloudy periods without generator backup. The total
+cost of a complete off-grid system typically ranges from $3-8 per
+installed watt, with batteries representing 30-50% of total system cost.

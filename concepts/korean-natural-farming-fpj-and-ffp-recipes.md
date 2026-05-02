@@ -102,7 +102,7 @@ Fermented Plant Juice (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean 
 - [[korean-natural-farming-imo-recipes]] — for IMO (the foundation)
 - [[korean-natural-farming-lab-and-ohn-recipes]] — for LAB and OHN recipes
 - [[jadam-pest-control-recipes]] — for JADAM pest control comparison
-- [[compost-tea-brewing-guide]] — for compost tea (similar concept)
+- [[compost-tea-brewing]] — for compost tea (similar concept)
 - [[jadam-cover-crop-soil-temperature-management]]
 - [[jadam-natural-pest-control-methods]]
 - [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]

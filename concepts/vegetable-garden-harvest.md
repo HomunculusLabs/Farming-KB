@@ -53,9 +53,7 @@ Related: [[vegetable-garden-guide]], [[food-preservation-canning]], [[seasonal-p
 - **Tomatoes**: Ripe keep 1 week at 45-50F. Mature green tomatoes wrapped in newspaper keep 3-5 weeks at 55-58F.
 
 ### Cool, Dry (45-55F, 50-60% RH)
-- **Dry onions**: Harvest when 2/3-3/4 of tops fallen. Cure 3-4 weeks. Store in mesh bags.
-
-### Warm, Dry (55-60F, 60-70% RH)
+- **Dry onions**: Harvest when 2/3-3/4 of tops fallen. Cure 3-4 weeks. Store in mesh [[perennial-vegetables]] (55-60F, 60-70% RH)
 - **Pumpkins and winter squash**: Harvest when skin is hard and colors darken, before frost. Store in single layers on shelves.
 
 ### Warm, Moist (55-60F, 80-85% RH)

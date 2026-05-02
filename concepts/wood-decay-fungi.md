@@ -77,6 +77,25 @@ terrestrial net primary production. Their activity:
 - Influences forest succession by determining decomposition rates
 - Contributes to soil formation and humus accumulation
 
+
+## Decomposition Rates and Succession
+
+The rate of wood decomposition depends on wood species, moisture content,
+temperature, and fungal species. Softwoods (conifers) generally decompose
+more slowly than hardwoods due to higher lignin content and resin
+compounds that inhibit fungal colonization. In temperate forests, a fallen
+hardwood log may lose 50% of its mass within 5-10 years, while a conifer
+log of similar size may take 15-25 years. Larger diameter logs decompose
+proportionally slower because the surface-area-to-volume ratio decreases.
+
+Wood moisture content above 20-30% (fiber saturation point) is necessary
+for fungal activity, with optimal decomposition occurring at 40-80%
+moisture content. The succession of fungal species on a fallen log follows
+a predictable pattern: pioneer species colonize fresh wood, followed by
+competitive species as resources become available, and finally by stress-
+tolerant species as the wood becomes increasingly degraded. This
+successional sequence can span decades and supports diverse communities
+of invertebrates, birds, and other organisms at each stage.
 ## See Also
 
 - [[mycelium-network-architecture]]

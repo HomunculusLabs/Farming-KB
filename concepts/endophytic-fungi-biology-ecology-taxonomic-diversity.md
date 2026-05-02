@@ -123,10 +123,10 @@ Endophytes likely represent a massive proportion of undescribed fungal diversity
 ## See Also
 
 - [[clavicipitaceous-grass-endophytes]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- endophytic fungi biology ecology taxonomic diversity
 - [[dna-barcoding-fungal-identification]]
 - [[fungal-culture-media-formulas-applications]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-roles-in-old-growth-forests]]
 - [[endophytic-fungi-diversity-and-ecology]]

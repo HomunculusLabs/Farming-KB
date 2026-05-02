@@ -78,7 +78,7 @@ mycoremediators.
 
 Mushrooms like turkey tail (Trametes versicolor) are multibeneficial --
 preventing blights, fighting bacteria, and breaking down toxic chemicals
-like PCBs and dioxins. The same [[mycelium-running-medicinal-mushrooms]] that help human immune systems also help
+like PCBs and dioxins. The same [[medicinal-mushrooms]] that help human immune systems also help
 ecosystems detoxify.
 
 ## Saprophytic vs. Mycorrhizal Approaches

@@ -49,7 +49,6 @@ Benjamin Minge Duggar was an American botanist who made contributions to both pl
 
 
 
-
 ## Mushroom Growing (1915) — Content Summary
 
 Duggar's 295-page manual represents one of the most comprehensive early American mushroom cultivation texts. It covers the full scope of commercial mushroom farming as practiced in the early 20th century:
@@ -62,6 +61,7 @@ Duggar's 295-page manual represents one of the most comprehensive early American
 - **Harvesting and marketing:** Picking techniques, grading standards, and market preparation
 
 The manual reflects the state of commercial mushroom farming in the northeastern United States, where most American mushroom production was concentrated in underground caves and cellars around Philadelphia and New York. Duggar's systematic approach — with attention to the biological basis of each step — distinguished his manual from earlier practical guides.
+
 
 
 

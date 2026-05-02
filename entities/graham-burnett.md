@@ -17,7 +17,6 @@ British permaculture teacher, designer, and author of "Permaculture: A Beginner'
 
 
 
-
 ## *Permaculture: A Beginner's Guide*
 
 Burnett's beginner's guide is one of the most widely-read introductions to permaculture, used extensively in introductory courses. Key features:
@@ -25,7 +24,6 @@ Burnett's beginner's guide is one of the most widely-read introductions to perma
 - **Visual teaching approach**: Uses cartoons, diagrams, and simple illustrations to make permaculture concepts tangible
 - **Urban permaculture focus**: Emphasizes that permaculture applies equally to window boxes and urban balconies as to large-scale farms
 - **Concise format**: Distills permaculture into its essential ethics, principles, and practices without overwhelming newcomers
-
 
 
 
@@ -48,13 +46,11 @@ From his beginner's guide, Burnett emphasizes these practical applications of [[
 
 
 
-
 ## Ecological Crisis Context
 
 Burnett frames permaculture as a response to ecological crisis. His introduction describes the earth's 4.5 billion year history compressed into 30 days: simple bacteria appeared on day 10, vertebrates crawled onto land around day 25, *Homo sapiens* appeared at about 1 minute to midnight, and the industrial revolution happened within the last fraction of a second — "yet within this instant, the face of the planet has changed almost as much as within all the previous aeons."
 
 He positions permaculture as "about recognising this and taking responsibility for our actions and for our planet, and turning around our behaviours of consumption and exploitation so that we can recreate a world without destruction and pollution."
-
 
 
 
@@ -70,11 +66,9 @@ Burnett provides an accessible definition: "'Permaculture' is a word that was or
 
 
 
-
 ## Significance
 
 Burnett's contribution is primarily educational — he translated the often dense and technical permaculture literature into an accessible, visual format that has introduced thousands of newcomers to the practice. His work complements the more comprehensive texts by [[toby-hemenway]] (*Gaia's Garden*) and [[bill-mollison]] (*Permaculture: A Designer's Manual*).
-
 
 
 

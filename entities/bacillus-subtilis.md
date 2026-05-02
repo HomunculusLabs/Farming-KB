@@ -142,20 +142,9 @@ independent domestications of *B. subtilis* across diverse cultures.
 Type species of *Bacillus*. Closest relatives: the *B. cereus* group (*B.
 cereus*, *B. thuringiensis*, *B. anthracis*), sharing high genomic similarity
 but differing in pathogenicity. *B. licheniformis* is used in industrial
-enzymes. *B. amyloliquefaciens* has potent biocontrol properties. The *B.
-subtilis* group sensu stricto includes *B. subtilis*, *B. vallismortis*, *B.
-mojavensis*, and *B. atrophaeus*.
-
-## Safety Profile
-
-Holds FDA GRAS and EFSA QPS status. Non-pathogenic, non-enterotoxigenic,
-with centuries of safe use in food fermentation and decades in enzyme and
-probiotic production. Classified BSL-1. Extremely rare infections reported
-only in severely immunocompromised individuals with indwelling devices.
-
 ## See Also
 
-- [[bacillus-subtilis-entity-the-mushroom-cultivator]]
+- bacillus subtilis
 - [[knf-hay-bacillus-disease-control]]
 - [[cervantes-bacillus-thuringiensis-bt-control]]
 - [[bacillus-megaterium]]

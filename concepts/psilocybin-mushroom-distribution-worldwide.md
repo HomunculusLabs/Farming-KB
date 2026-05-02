@@ -100,7 +100,6 @@ Six classic habitat types for psilocybin mushrooms (per Stamets):
 4. **Wood chips and mulch** -- Psilocybe cyanescens, P. allenii (urban/landscaped areas, temperate)
 5. **Decaying wood** -- Gymnopilus, Pluteus, some Psilocybe species (forests worldwide)
 6. **Tropical forest floor** -- Numerous species in undisturbed subtropical/tropical forests
-
 ## See Also
 
 - [[psilocybe-tibeticensis]]

@@ -111,4 +111,4 @@ complete inventory proves impossible.
 - [[fungal-species-estimates]]
 - [[cryptic-fungal-species]]
 - [[environmental-dna-fungal-survey]]
-- [[tropical-fungal-diversity]]
+- [[biodiversity-fungi-tropical-fungal-diversity]]

@@ -34,8 +34,7 @@ Krishna (purple leaves, highest eugenol), Rama (green, most common), and Vana
 The therapeutic profiles diverge largely because of different phytochemistry:
 
 | Aspect | Ashwagandha | Tulsi |
-|--------|------------|-------|
-| Primary actives | Withanolides, withaferin A | Eugenol, ursolic acid, rosmarinic acid |
+|--------|------------|----[[linalool]]rimary actives | Withanolides, withaferin A | Eugenol, ursolic acid, rosmarinic acid |
 | Secondary actives | Alkaloids, iron, amino acids | Caryophyllene, linalool, apigenin |
 | Key chemical class | Steroidal lactones | Phenylpropanoids, terpenoids |
 | Medicinal part | Root (primary), berries | Leaves and aerial parts |

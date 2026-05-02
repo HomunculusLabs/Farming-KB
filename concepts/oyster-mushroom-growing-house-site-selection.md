@@ -62,7 +62,7 @@ Sites downwind of agricultural spraying are particularly problematic, as fungici
   - Local village markets
 - Direct farm-gate sales can eliminate middleman costs
 
-Oyster mushrooms have a shelf life of only 5–7 days under refrigeration, making [[oyster-mushroom-harvesting-and-post-harvest]] a decisive factor in profitability. Growers within 30 minutes of their primary market have a significant competitive advantage.
+Oyster mushrooms have a shelf life of only 5–7 days under refrigeration, making [[oyster-mushroom-harvesting-post-harvest]] a decisive factor in profitability. Growers within 30 minutes of their primary market have a significant competitive advantage.
 
 ## Infrastructure and Access
 

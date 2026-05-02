@@ -119,4 +119,4 @@ in species richness.
 - [[mycorrhizal-fungi]]
 - [[fungal-endophytes]]
 - [[environmental-dna-metabarcoding]]
-- [[tropical-fungal-diversity]]
+- [[biodiversity-fungi-tropical-fungal-diversity]]

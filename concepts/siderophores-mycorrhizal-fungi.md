@@ -51,18 +51,15 @@ Fusarinines are simpler hydroxamate siderophores:
 
 ### Polycarboxylate Siderophores
 
-- **Rhizoferrin** (Mr ~436): Originally isolated from Zygomycetes (Mucorales). This is a polycarboxylate-type siderophore, structurally distinct from hydroxamates. Whether mycorrhizal fungi also produce polycarboxylate siderophores in addition to hydroxamates remains an open question
+- **Rhizoferrin** (Mr ~436): Originally isolated from Zygomycetes (Mucorales). This is a polycarboxylate-type siderophore, structurally distinct from hydroxamates. Whether mycorrhizal fungi also produectomycorrhizal-fungiderophores in addition to hydroxamates remains an open question
 
 ## Siderophore Production by Mycorrhizal Types
 
 ### Ectomycorrhizal Fungi
 
-Ectomycorrhizal basidiomycetes are prolific siderophore producers:
-
-- **Hebeloma** and **Amanita** species: Produce ferrichrome-type siderophores including ferricrocin and ferrichrome
+Ectomycorrhizal basidiomycetes are prolific sideropisolithus-tinctorius*Hebeloma** and **Amanita** species: Produce ferrichrome-type siderophores including ferricrocin and ferrichrome
 - **Pisolithus tinctorius**: Produces a range of hydroxamates
-- **Suillus** species: Produce both ferrichromes and coprogen-type siderophores
-- **Cenococcum geophilum**: Produces hydroxamate siderophores that may contribute to its stress tolerance
+- **Suillus** species: Produce both ferrichromes and [[arbuscular-mycorrhizal-fungi]] **Cenococcum geophilum**: Produces hydroxamate siderophores that may contribute to its stress tolerance
 
 ### Arbuscular Mycorrhizal Fungi
 
@@ -129,11 +126,7 @@ Mycorrhizal fungal siderophores may directly contribute to plant iron nutrition:
 
 - Ferric-siderophore complexes may be taken up by plant roots or reduced at the root surface
 - The mycorrhizal hyphal network extends the effective soil volume for iron exploration
-- In iron-deficient soils, mycorrhizal siderophore production may be particularly beneficial
-
-## See Also
-
-- siderophore — General overview of siderophore biology
+- In iron-deficient soils, mycorrhizal siderophore production may be particularly beneficialmycorrhizal-symbiosisrophore — Geectomycorrhizal-ecologyophore biology
 - iron-nutrition — Plant iron uptake and deficiency
 - mycorrhiza — Mycorrhizal symbiosis overview
 - ectomycorrhizal-ecology|ectomycorrhiza — Siderophore-producing mycorrhizal type

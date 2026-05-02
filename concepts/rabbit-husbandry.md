@@ -1,5 +1,5 @@
 ---
-title: Rabbit Husbandry
+title: rabbit husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,13 +7,13 @@ tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health]
 sources: []
 ---
 
-# Rabbit Husbandry
+# [[animal-butcher-and-processing|rabbit]] husbandry
 
 Rabbits are the most space-efficient meat animal for the homestead. A single
 breeding trio (1 buck, 2 does) can produce 80-100+ lbs of meat per year in
 a footprint smaller than a garden shed. They are quiet, reproduce rapidly,
 and produce lean, mild-tasting meat. Their manure is an outstanding garden
-fertilizer that can be applied directly without composting.
+fertilizer that can be applied directly without [[composting]].
 
 ## Breed Selection
 
@@ -145,7 +145,3 @@ fertilizer that can be applied directly without composting.
 - Chill carcass for at least 4 hours before cutting or freezing.
 - Yield: approximately 60% dress-out (live to hanging weight).
 - See [[animal-harvest-and-processing]] for detailed processing procedures.
-
-## Tanning Hides
-
-Related: [[faires-meat-processing-curing-and-smoking]], [[fukuoka-culture-of-clothing-and-meat]]

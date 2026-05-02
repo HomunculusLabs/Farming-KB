@@ -18,11 +18,9 @@ sources:
 
 
 
-
 ## Overview
 
 *Schizophyllum commune* is a cosmopolitan basidiomycete mushroom and one of the most widely distributed fungal species on Earth, found on every continent including Antarctica. Commonly known as the split-gill fungus, it grows on dead or dying wood of a broad range of hardwood and softwood species. Despite being generally considered inedible due to its tough texture, *S. commune* has become a model organism for fungal genetics and has demonstrated significant medicinal properties.
-
 
 
 
@@ -40,7 +38,6 @@ The species was originally described by Elias Magnus Fries in 1815. It was long 
 
 
 
-
 ## Morphology
 
 The fruiting body is small (1–4 cm across), shell-shaped to fan-shaped, with a short lateral stem or growing directly from wood. The most distinctive feature is the gill structure — the gills are longitudinally split (hence *schizo* = split, *phyllum* = gill), forming paired lamellae that can dry and rehydrate repeatedly. Key features:
@@ -50,7 +47,6 @@ The fruiting body is small (1–4 cm across), shell-shaped to fan-shaped, with a
 - **Spore print**: White
 - **Spores**: Cylindrical, smooth, 5–7 × 1.5–2.5 μm
 - **Desiccation tolerance**: Can survive extreme drying and rehydrate to resume spore production — one of the most desiccation-tolerant fungi known
-
 
 
 
@@ -67,7 +63,6 @@ The fruiting body is small (1–4 cm across), shell-shaped to fan-shaped, with a
 
 
 
-
 ## Medicinal Properties
 
 Research has identified several bioactive compounds with therapeutic potential:
@@ -80,10 +75,12 @@ Research has identified several bioactive compounds with therapeutic potential:
 
 
 
-
 ## Ecological Role
 
 A white-rot decomposer that efficiently degrades lignin and cellulose in dead wood. Its broad host range and global distribution make it one of the primary agents of wood decomposition in tropical and temperate forests. The desiccation tolerance of its fruiting bodies allows it to persist and sporulate across seasons, contributing to its ecological success.
+
+
+
 
 ## See Also
 

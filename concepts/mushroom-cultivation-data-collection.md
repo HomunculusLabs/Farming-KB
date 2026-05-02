@@ -27,7 +27,7 @@ Species and strain designation, including whether the culture originated from ti
 
 Spawn media formulation, including grain type, water volume, and any additives such as gypsum. The exact recipe matters because small variations in moisture content dramatically affect results.
 
-Sterilization time and temperature — the specific parameters used, including any deviations from the standard protocol. This helps identify under-sterilization problems that lead to [[contamination-in-mushroom-cultivation]].
+Sterilization time and temperature — the specific parameters used, including any deviations from the standard protocol. This helps identify under-sterilization problems that lead to [[contamination-mushroom-cultivation]].
 
 Inoculation date and date of full colonization — these two data points give the colonization time, which is a key indicator of spawn vigor and [[mushroom-yield-optimization]].
 

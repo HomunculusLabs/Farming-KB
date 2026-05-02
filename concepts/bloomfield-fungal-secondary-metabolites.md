@@ -135,5 +135,5 @@ discovered and characterized at an accelerating pace.
 - [[singh-ergot-alkaloid-fungal-secondary-metabolites]]
 - [[biodiversity-fungal-secondary-metabolites]]
 - [[fungal-secondary-metabolites-environment]]
-- [[fungal-secondary-metabolites]]
+- bloomfield fungal secondary metabolites
 - [[fungal-elicitors-enhanced-secondary-metabolite-production]]

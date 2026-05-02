@@ -1,6 +1,6 @@
 ---
 title: Porcini Boletus Guide
-created: 2026-04-12
+creboletus-edulis12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, foraging, species, ecology, mycorrhizae, food, preservation, drying]
@@ -12,7 +12,7 @@ Porcini (Boletus edulis and related species) are among the most sought-after wil
 Boletus edulis is the type species of a complex group of closely related species found across the Northern Hemisphere. All share the characteristic bolete morphology: a cap with a spongy pore surface (instead of gills) underneath, and a thick, firm stem. The group includes some of the most commercially valuable wild mushrooms in the world.
 ## The Boletus edulis Species Complex
 Molecular research has revealed that what was traditionally considered a single species (B. edulis) is actually a complex of several distinct species across different geographic regions:
-- Boletus edulis sensu stricto: Europe (the original porcino)
+- Boletus edulis sensu strboletus-pinophilusoriginal porcino)
 - Boletus edulis var. grandedulis: western North America (the "King Bolete")
 - Boletus reticulatus (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
 - Boletus pinophilus: Europe, pine-associated, "Pine Bolete"
@@ -21,19 +21,17 @@ Molecular research has revealed that what was traditionally considered a single 
 - Boletus fibrillosus: Pacific Northwest, spruce/hemlock
 All are edible and excellent, with similar culinary qualities. The distinctions are primarily geographic and ecological.
 ## Species Profile
-- Scientific name: Boletus edulis (sensu lato)
+- Scientific name: [[boletus-edulis]] (sensu lato)
 - Common names: Porcini, King Bolete, Cep, Penny Bun, Steinpilz
 - Family: Boletaceae
 - Cap: 3-12 inches (can reach 15+ inches), convex becoming flat; brown, reddish-brown, to yellow-brown depending on species
-- Pore surface: white when young, yellow-green to olive-green when mature; does not stain blue when bruised
-- Stem: thick, solid, club-shaped; white with a fine brown network (reticulation) at the top
+- Pore surface: white when young, yellow-green to olive-green when mature; does not stain blue when bspore-printem: thick, solid, club-shaped; white with a fine brown network (reticulation) at the top
 - Flesh: white, firm, does not change color when cut
 - Odor: nutty, pleasant, slightly fruity
-- Spore print: olive-brown
-- Mycorrhizal partners: spruce, pine, birch, oak, beech, chestnut (varies by species)
+- [[spore-print]]: oectomycorrhizal-associationstners: spruce, pine, birch, oak, beech, chestnut (varies by species)
 - Season: varies — summer/fall in most regions; spring in some
 ## Mycorrhizal Ecology
-Porcini form ectomycorrhizal associations with several tree genera:
+Porcini form [[ectomycorrhizal-associations]] with several tree genera:
 - Spruce (Picea): most common association in Europe and North America
 - Pine (Pinus): especially B. pinophilus and B. reticulatus
 - Birch (Betula): common in northern Europe and North America
@@ -89,11 +87,11 @@ Several Boletus species stain blue when bruised. Some are edible (after thorough
 - Mossy areas under spruce or pine
 - Often fruit in the same locations year after year
 ### Harvesting
-- Cut at the base with a knife (do not pull — damages mycelium)
-- Check for insect damage (porcini are notoriously prone to worm infestation)
+- Cut at the base with a knife (do not pull — damages [[mycelium]])
+- Check for insect damage (porcini are notoriously prone tspore-dispersalion)
 - Slice open lengthwise in the field to check for larvae
 - Accept some insect damage — it is normal and does not affect the edible portions
-- Carry in a basket or mesh bag for spore dispersal
+- Carry in a basket or mesh bag for [[spore-dispersal]]
 - Do not wash — brush off debris
 ## Preservation (Drying)
 Drying is the traditional and preferred preservation method for porcini:

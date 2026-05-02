@@ -23,7 +23,7 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 ### Non-clavicipitaceous Endophytes (Classes 2-4)
 - Found in all plant families, not just grasses
 - Localized infections, not systemic
-- Horizontal transmission (spore dispersal)
+- Hodark-septate-endophytesspore dispersal)
 - Include diverse genera: Fusarium, Trichoderma, Piriformospora, Serendipita
 - Generally do not produce toxic alkaloids
 - Increasingly studied for agricultural applications
@@ -66,11 +66,10 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 - Increased root branching and exploration
 - Upregulation of plant nutrient transporter genes
 
-### Salt and Heavy Metal Tolerance
-- Ionic homeostasis regulation
+### Salt and Heavy Metal Tolpiriformospora-indicatasis regulation
 - Sequestration of sodium ions in vacuoles
 - Production of compatible solutes
-- See [[mycoremediation-of-heavy-metals]] for heavy metal context
+- See [[mycoremediation-heavy-metals-detailed]] for heavy metal context
 
 ## Notable Endophytic Species
 
@@ -103,25 +102,24 @@ One of the most studied agricultural endophytes:
 - Root endophytic colonization enhances systemic resistance
 
 ### Epichloe festucae (in tall fescue)
-- Classic grass endophyte study system
-- Produces lolitrem B and ergovaline (toxic to livestock)
+- Classic grass endophyte study syinoculation-methodsitrem B and ergovaline (toxic to livestock)
 - Provides insect resistance and drought tolerance to grass
 - "Novel endophyte" strains provide benefits without livestock toxicity
 
-## Seed Treatment and Inoculation Methods
+## Seed Treatment and [[inoculation-methods]]
 
 ### Seed Coating
 - Most common delivery method for agricultural endophytes
-- Seeds coated with spore suspension or mycelial slurry
+- Seeds coated with [[spore]] suspension or mycelial slurry
 - Carrier materials: peat, talc, alginate beads, polymer coatings
 - Protects endophyte during storage and planting
 - Cost-effective for large-scale agriculture
 
 ### Seed Soaking
-- Seeds immersed in endophyte suspension (liquid culture or spore suspension)
+- Seeds immersed in endophyte suspension (liquid culture or [[spore]] suspension)
 - Simple and inexpensive
 - Shorter shelf life than coating
-- Effective for Piriformospora indica and Serendipita indica
+- Effective for [[piriformospora-indica]] and Serendipita indica
 
 ### Soil Drench
 - Liquid endophyte suspension applied to soil around seedlings
@@ -142,7 +140,7 @@ One of the most studied agricultural endophytes:
 
 ### Cereals and Grains
 - Endophyte-infected tall fescue and perennial ryegrass for pastures
-- Piriformospora indica increases rice and wheat yield under stress
+- [[piriformospora-indica]] increases rice and wheat yield under stress
 - Barley endophytes improve drought tolerance and grain quality
 
 ### Vegetables

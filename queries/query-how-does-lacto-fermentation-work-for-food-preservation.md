@@ -128,7 +128,9 @@ Instead, it transforms the food through biological activity, creating new flavor
 - Fermented foods retain more nutrients than canned foods and add beneficial probiotics for gut health
 - [[ultra-low-cost-food-preservation]] fermentation requires minimal equipment, making it accessible to everyone
 
-## Related Questions
+## Related
+
+- [[query-how-does-kombucha-brewing-work]] Questions
 
 - [[query-how-to-store-food-without-refrigeration]]
 - [[query-what-is-bokashi-composting-and-how-does-it-work]]

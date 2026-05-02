@@ -141,7 +141,7 @@ cannot be assigned to species-level taxa using reference databases alone.
 - [[environmental-dna-fungal-survey]]
 
 - [[fungal-species-estimates]]
-- [[soil-fungal-communities]]
+- [[biodiversity-fungi-soil-fungal-communities]]
 - [[fungal-species-estimates]]
 - [[fungal-endophytes]]
 - [[fungal-ecology]]

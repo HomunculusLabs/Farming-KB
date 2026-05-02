@@ -1,13 +1,13 @@
 ---
 title: Oriental Herbal Nutrient
 type: chemical
-tags: [knf, ohn, herbal-extract, fermentation, traditional-medicine]
+tags: [knf, ohn, herbal-extract, fernatural-farmingitional-medicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 ---
 # Oriental Herbal Nutrient
-**Oriental Herbal Nutrient (OHN)** is a traditional Korean Natural Farming (KNF) preparation made by extracting bioactive compounds from five medicinal herbs through sequential fermentation in rice wine and brown sugar. Developed by Master Han Kyu Cho as part of the Cho Global Natural Farming system, OHN functions as a natural pesticide, plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
+**Oriental Herbal Nutrient (OHN)** is a traditional Korean Natural Farming (KNF) preparation made by extracting bioactive compounds from five medicinal herbs through sequential fermentation in rice wine and brown sugar. Developed by Master Han [[herbal-medicine]] of the Cho Global Natural Farming system, OHN functions as a natural pesticide, plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
 ## The Five Herbs
 ### 1. Angelica gigas (Korean Angelica / Dang Gui / 당귀)
 * **Plant family:** Apiaceae
@@ -72,14 +72,13 @@ For those making their own rice wine:
 ### Seed Treatment
 * Soak seeds in 1:500 OHN solution for 4–8 hours before planting
 * Protects seeds from soil-borne pathogens during germination
-* Stimulates early root development and vigor
-### Soil Drench
+* Stimulates early root developirrigation-systems Soil Drench
 * Dilute 1:1000 and apply to root zone for soil-borne disease prevention
 * Particularly effective against damping-off (*Pythium*, *Fusarium*, *Rhizoctonia*) in seedlings
 * Can be applied through drip irrigation systems
 ### Combination Treatments
 OHN is typically combined with other KNF inputs for synergistic effects:
-* **FPJ + OHN:** 1:500 FPJ + 1:1000 OHN for balanced nutrition and disease protection during vegetative growth
+* **FPJ + OHN:** 1:500 FPJ + 1:1000 OHN ffish-amino-acidrition and disease protection during vegetative growth
 * **FPJ + OHN + WCA:** Adding Water-Soluble Calcium (1:1000) during fruiting stage enhances fruit quality and disease resistance
 * **OHN + FAA:** Combining with Fish Amino Acid (1:1000 each) provides both disease protection and nitrogen supplementation
 ## Mechanisms of Action

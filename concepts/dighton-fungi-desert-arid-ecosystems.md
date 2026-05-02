@@ -139,7 +139,6 @@ primary source. Lichen-dominated areas of upper slopes are important
 producers of soluble mineral and dissolved organic nitrogen that runs
 off into lower-lying forest islands, where nutrients are utilized
 through immobilization into tree biomass.
-
 ## See Also
 
 - [[ecological-roles-fungi-ecosystems]]

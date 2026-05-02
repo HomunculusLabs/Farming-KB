@@ -120,7 +120,7 @@ Without selective agents, a few rapidly growing species dominate cultures and ra
 - [[fungal-culture-media-formulas-applications]]
 - [[soil-fungal-isolation-techniques]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-diversity-and-ecology]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[endophytic-fungi-plant-interactions]]

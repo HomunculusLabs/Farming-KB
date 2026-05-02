@@ -103,7 +103,7 @@ Both materials perform well in fire, but through different mechanisms.
 
 **Cob** has a strong tradition of community workshops and [[natural-building]] schools. The learning curve is gentle—most people can mix and apply cob competently within a single weekend workshop. The tactile, sculptural nature of cob attracts artists and beginners alike. Building parties ("cob jams") are common, making cob a social building method.
 
-**Ferrocement** requires more specialized knowledge of mortar mixing ratios, mesh armature construction, and plastering technique. Training resources are fewer, though organizations like the Ferrocement Society and various appropriate-technology groups offer workshops. The method has a strong following in developing countries for low-cost water storage and housing.
+**Ferrocement** requires more specializedappropriate-technologyixing ratios, mesh armature construction, and plastering technique. Training resources are fewer, though organizations like the Ferrocement Society and various appropriate-technology groups offer workshops. The method has a strong following in developing countries for low-cost water storage and housing.
 
 ## Summary
 

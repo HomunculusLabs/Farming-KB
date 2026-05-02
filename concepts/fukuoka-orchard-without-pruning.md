@@ -12,7 +12,7 @@ sources:
 
 One of Masanobu Fukuoka's most radical and counterintuitive practices was the abandonment of all tree pruning. His [[fukuoka-natural-farming-philosophy-of-mu]] demonstrated that fruit trees -- citrus, persimmons, peaches, pears, apples -- can grow healthily and productively without any pruning whatsoever.
 
-This practice embodies his [[fukuoka-four-principles-natural-farming-detailed]] and stands as one of the most dramatic demonstrations of nature's self-organizing power.
+This practice embodies his [[fukuoka-four-principles-natural-farming]] and stands as one of the most dramatic demonstrations of nature's self-organizing power.
 
 ## Why Pruning Is Harmful
 

@@ -93,7 +93,7 @@ sight." His wife Valentina had earlier discovered the living mushroom cult in
 Albert Hofmann subsequently visited the shaman Maria Sabina in 1962 and
 identified the active principles as psilocybine and psilocine.
 
-See also: [[maria-sabina-and-mazatec-mushroom-ceremony]],
+See also: [[maria-sabina-mazatec-mushroom-ceremony]],
 [[maria-sabina-mazatec-mushroom-curandera]], [[mazatec-mushroom-culture-and-velada]],
 [[mazatec-mushroom-tradition]], [[wasson-mexico-expeditions]],
 albert hofmann

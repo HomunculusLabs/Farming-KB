@@ -113,6 +113,8 @@ management philosophy.
 
 ## See Also
 
+- [[comparison-natural-beekeeping-vs-standard-beekeeping]]
+
 - [[beekeeping-basics]]
 - [[top-bar-hive]]
 - [[bee-forage-plants]]

@@ -118,7 +118,7 @@ Hofmann notes that for more than ten years, LSD research proceeded productively 
 
 ## See Also
 
-- [[hofmann-lsd-discovery-bicycle-day-account]] -- the original discovery
+- [[hofmann-lsd-discovery-bicycle-day]] -- the original discovery
 - [[pihkal-doet]] -- the compound
 - [[metzner-psychedelic-psychotherapy-clinical-history]] -- the European therapeutic approach
 - [[metzner-psychedelic-psychotherapy-clinical-history]] -- the American high-dose approach

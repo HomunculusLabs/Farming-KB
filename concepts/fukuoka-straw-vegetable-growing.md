@@ -18,7 +18,7 @@ man solely for his own purposes. Crops know where, when, and how to grow. By
 sowing a mixture of many field crops, allowing them to grow naturally, and
 observing which thrive and which do not, one finds that, when grown in the
 hands of nature, crops superior to what would normally be imagined can be
-obtained. This approach follows the [[fukuoka-four-principles-natural-farming-detailed]].
+obtained. This approach follows the [[fukuoka-four-principles-natural-farming]].
 
 The rotations Fukuoka designed provide for soil enrichment with [[fukuoka-natural-cover-grass-green-manure]] plants, the replenishment of organic materials with gramineous
 plants, deep working and conditioning of the soil with root vegetables, and

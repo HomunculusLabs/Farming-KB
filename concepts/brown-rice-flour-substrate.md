@@ -79,6 +79,19 @@ particles do not shake apart easily and the substrate lacks the structural
 integrity needed for clean grain-to-grain transfers. For scaling up, cultivators
 typically switch to whole grain substrates like rye berries, oats, or millet.
 
+
+## Common Problems and Solutions
+
+The most frequent issues with BRF substrate include contamination, slow colonization, and stalled fruiting. Contamination typically enters through insufficient sterilization or poor inoculation technique. If contamination appears within the first few days, the sterilization process was likely inadequate — increase sterilization time by 30 minutes or verify pressure cooker operation. Contamination appearing after partial colonization usually indicates a compromised dry vermiculite layer. Slow colonization can result from overly wet substrate (reduce water by 10-15%), old or weak spore syringes, or incubation at temperatures below 70°F. Stalled fruiting often relates to insufficient fresh air exchange or humidity below 90% — increasing fae while maintaining humidity usually triggers pinning within 3-5 days.
+
+## Grain-to-BRF Comparison
+
+BRF cakes and grain spawn serve different purposes in mushroom cultivation. BRF cakes are self-contained growing substrates that fruit directly, making them ideal for beginners and small-scale cultivation. Grain spawn (rye, wheat, or millet) provides faster colonization and higher biological efficiency but requires a separate fruiting substrate such as bulk coco coir or manure. BRF cakes produce approximately 1.75-2.5g dried per cake over 2-3 flushes, while grain-to-bulk methods typically yield 3-5x the initial dry grain weight. For cultivators transitioning from BRF to grain methods, the sterile technique and patience developed with BRF cakes provide an excellent foundation for the more demanding requirements of grain work.
+
+## Environmental Requirements for Fruiting
+
+After full colonization, BRF cakes require specific environmental conditions to initiate and sustain fruiting. Temperature should drop to 70-75°F (a 5-10°F reduction from incubation temperature), humidity must remain above 90%, and fresh air exchange is essential throughout fruiting. A shotgun fruiting chamber (SGFC) — a plastic tote drilled with holes on all six sides and filled with damp perlite — provides passive humidity and air exchange adequate for small-scale cultivation. Light in the 6500K (daylight) spectrum for 12 hours daily triggers and directs fruiting body development. Mushrooms will grow toward light, so positioning the light source above the chamber encourages upward growth and reduces the likelihood of side-pinning.
+
 ## Key Considerations
 
 Consider site-specific conditions when implementing this approach. Local climate, soil characteristics, and existing biological communities affect outcomes. Start with small trials before full implementation and maintain detailed records. Connecting with experienced practitioners provides valuable guidance tailored to your context and goals.

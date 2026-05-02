@@ -140,7 +140,6 @@ themselves are widely cultivated as ornamentals, particularly
 Brugmansia species, despite their extreme toxicity. Most Datura and
 Brugmansia species are legal to grow but their extraction for
 recreational purposes is prohibited in most jurisdictions.
-
 ## See Also
 
 - [[datura-candida]]

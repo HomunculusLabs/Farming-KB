@@ -79,7 +79,7 @@ The most important identification challenge with *C. atramentarius* is distingui
 
 ## See Also
 
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[amanita-phalloides]]
 - [[agaricus-bisporus]]
 - [[psilocybe-cubensis]]

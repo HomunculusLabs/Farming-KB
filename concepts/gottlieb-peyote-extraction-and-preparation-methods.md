@@ -145,4 +145,4 @@ whose principles may be non-alkaloidal.
 - [[strain-isolation-from-wild-specimens]]
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 - [[mescaline-peyote-and-san-pedro-guide]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]

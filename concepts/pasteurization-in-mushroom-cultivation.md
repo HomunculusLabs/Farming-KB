@@ -110,7 +110,7 @@ contamination issues.
 
 ## See Also
 
-- [[substrate-preparation-for-mushroom-cultivation]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-substrate-preparation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[mushroom-spawn-production]]
 - Trichoderma (common substrate contaminant)

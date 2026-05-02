@@ -63,7 +63,7 @@ India is notable for the Soma hypothesis and diverse neurotropic fungi:
 - **Hypholoma gigaspora** and **H. guzmanii**: Tropical species
   described from India by Natarajan and Raman
 - **Gymnopilus spectabilis** and **G. sapineus**: Present in India
-- [[inocybe-corydalina]]: Found in India
+- [[inocybe-corydalina-entity]]: Found in India
 - Diverse Panaeolus species: P. africanus, P. ater, P. papilionaceus,
   P. sphinctrinus, P. subbalteatus, P. venezolanus
 

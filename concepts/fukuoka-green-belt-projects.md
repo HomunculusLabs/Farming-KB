@@ -10,7 +10,7 @@ sources:
 
 # Green Belt Projects
 
-Masanobu Fukuoka's green belt projects represent the global application of his [[fukuoka-four-principles-natural-farming-detailed]] philosophy. He envisioned continuous bands of natural vegetation encircling the world's deserts, created not through engineering projects but through the simple, elegant technique of [[fukuoka-clay-pellet-desert-greening]].
+Masanobu Fukuoka's green belt projects represent the global application of his [[fukuoka-four-principles-natural-farming]] philosophy. He envisioned continuous bands of natural vegetation encircling the world's deserts, created not through engineering projects but through the simple, elegant technique of [[fukuoka-clay-pellet-desert-greening]].
 
 ## The Concept
 

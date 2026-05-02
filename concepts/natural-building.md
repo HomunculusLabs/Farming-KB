@@ -100,7 +100,7 @@ Short logs laid in mortar to form walls.
 
 ## Roofing
 
-| Method | Cost | Lifespan | Notes |
+| Method | Copassive-solar-designs |
 |---|---|---|---|
 | Metal | Medium | 40–60 yrs | Practical default for any structure |
 | Living roof | High | Varies | Excellent insulation, needs waterproof membrane (EPDM) |

@@ -44,7 +44,6 @@ Gaston Guzman is a Mexican mycologist widely regarded as the world's foremost au
 
 
 
-
 ## Species Described
 
 Guzman has described numerous Psilocybe species including:
@@ -72,6 +71,7 @@ Guzman emphasized that wherever researchers study neurotropic species, they find
 Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His fieldwork spanned decades across Oaxaca, Veracruz, and other Mexican states, as well as collaborations with researchers worldwide including [[john-allen]] (Australia/New Zealand) and [[jochen-gartz]] (Germany).
 
 
+
 ## Major Works
 
 - "The Genus Psilocybe: A Systematic Revision of the Known Species" (1983, 1995) — The standard taxonomic monograph.
@@ -87,6 +87,5 @@ Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His 
 - [[john-allen]] — Co-researcher, Australia/New Zealand fieldwork
 - [[psychedelic-mushroom-history]] — Historical use of sacred mushrooms
 - [[r-gordon-wasson]] — Rediscovered Mexican mushroom cults
-
 
 See also: [[john-halpern]] — harvard psychiatrist researching hallucinogen pharmacology.

@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 # Mycoremediation
 
 Mycoremediation is the use of fungi to degrade, sequester, or otherwise
-neutralize environmental contaminants. As a subset of [[unknown-mycelium-mycorestoration|mycorestoration]],
+neutralize environmental contaminants. As a subset of [[mycorestoration|mycorestoration]],
 mycoremediation targets polluted environments — from heavy metals and
 petroleum spills to chemical warfare agents — deploying mushroom mycelium as
 a biological cleanup technology. Paul Stamets pioneered much of the applied
@@ -123,6 +123,6 @@ environmental technology.
 
 ## See Also
 
-- [[unknown-mycelium-natures-internet]]
+- [[mycelium-natures-internet]]
 - [[unknown-mycelium-mycopesticides]]
 - [[unknown-mycelium-mycofiltration]]

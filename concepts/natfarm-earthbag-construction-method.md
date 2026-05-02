@@ -120,7 +120,6 @@ site fills the bags, creating zero waste. This approach embodies the
 ethic of using local,
 abundant materials to create durable, functional shelter.
 
-
 ## See Also
 
 - [[earthbag-construction]]

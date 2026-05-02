@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin Mushroom Cultural Artifacts"
+[[psilocybin-mushroom]]Mushroom Cultural Artifacts"
 tags:
   - mushroom-art
   - cultural-history
@@ -64,7 +64,7 @@ ancient Greek and Mesoamerican traditions.
 
 These terra cotta figurines from the early centuries of the Common
 Era provide archaeological evidence of the antiquity of mushroom
-veneration in Mesoamerica. Dating to approximately A.D. 100, they
+veneration in Mesoameripsilocybin-mushroomsimately A.D. 100, they
 predate the Spanish conquest by over 1,400 years and demonstrate
 that psychoactive mushrooms held cultural and likely religious
 significance long before European contact. The figurines likely
@@ -75,9 +75,7 @@ Peter T. Furst's discovery and documentation of these artifacts was
 instrumental in establishing the deep historical roots of mushroom use
 in Mesoamerican civilization. His work, along with R. Gordon Wasson,
 helped transform understanding of psychoactive mushrooms into a subject
-of serious anthropological and historical inquiry.
-
-## Mexican Mushroom Stones (1000 B.C. to 500 A.D.)
+of serious anthropological and historical [[richard-evans-schultes]]ushroom Stones (1000 B.C. to 500 A.D.)
 
 The image guide includes two separate photographs, each showing
 four mushroom stones from Mexico, dating to the period between

@@ -118,7 +118,6 @@ economic models to function within. This connects directly to [[permaculture-des
 - "Once you have measured up the proportion of sugar in the tree, you can propagate
   that tree, and are very likely to get those proportions." (Pamphlet X)
 
-
 ## See Also
 
 - [[urban-permaculture-food-forest-succession]]

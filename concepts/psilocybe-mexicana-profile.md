@@ -15,11 +15,9 @@ sources:
 
 
 
-
 ## Overview
 
 Psilocybe mexicana is the original species that launched the modern psychedelic era. Identified by Roger Heim and studied by [[albert-hofmann]], it was the species consumed by R. Gordon Wasson and Maria Sabina during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods."
-
 
 
 
@@ -30,7 +28,6 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 - **Species**: Psilocybe mexicana Heim
 - **Variety**: P. mexicana var. brevispora Heim (syn. P. wassonii)
 - **Common names**: Nize ("little birds" in Mazatec), Mexican liberty caps
-
 
 
 
@@ -50,7 +47,6 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 
 
 
-
 ## Potency
 
 - Moderately to highly active.
@@ -62,11 +58,9 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 
 
 
-
 ## Sclerotia Formation
 
 P. mexicana is one of the few Psilocybe species known to produce sclerotia -- dense, hardened masses of mycelium that serve as nutrient reserves. Other species known to produce sclerotia include [[psilocybe-semilanceata-profile]] and P. tampanensis. Sclerotia can be cultivated and contain psychoactive compounds.
-
 
 
 
@@ -83,11 +77,9 @@ P. mexicana is one of the few Psilocybe species known to produce sclerotia -- de
 
 
 
-
 ## Historical Significance
 
 P. mexicana is the species at the center of Wasson's discovery of the "divine mushroom" of the Mazatec. Roger Heim cultivated specimens and sent them to Albert Hofmann at Sandoz, who isolated and identified psilocybin and psilocin from them in 1958. This led to Sandoz manufacturing approximately 2 kg of pure psilocybin for research distribution. The species is therefore the direct ancestor of all modern psilocybin research.
-
 
 
 

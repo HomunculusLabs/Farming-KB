@@ -113,3 +113,7 @@ The Amanita muscaria experience is fundamentally different from [[psilocybin-com
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
 - [[amanita-muscaria-drying-and-preparation]]
 - [[allegro-amanita-muscaria-properties-and-pharmacology]]
+
+## See Also
+
+- [[muscimol]]

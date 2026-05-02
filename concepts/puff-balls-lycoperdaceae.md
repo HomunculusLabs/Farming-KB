@@ -21,7 +21,7 @@ Puff balls are commonly more or less spheroidal or ovate
 in form. When young they are white and solid throughout.
 Within the walls of the solid sporophore, practically all
 of the tissues differentiate at maturity into a mass of
-countless, dry, colored spores, together with some spongy
+countless, dry, colored [[spore]]s, together with some spongy
 remains of the hyphal tissues. Some smaller species
 develop a mouth or opening at the apex at maturity, while
 most larger species liberate spores only through general

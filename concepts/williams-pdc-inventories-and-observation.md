@@ -76,7 +76,7 @@ Do not be afraid to interact with the site:
 Inventories are lists of available resources that already exist on the
 site. Creating thorough inventories ensures the designer knows what
 they have to work with before making design decisions. This supports
-the permaculture principle of using on-site resources first.
+the [[permaculture]] principle of using on-site resources first.
 
 ### Types of Inventories to Create
 
@@ -113,11 +113,11 @@ species reveal information about soil conditions, water availability,
 air quality, and overall ecological health. For example, certain plants
 indicate wet soil, others indicate compacted soil, and some indicate
 nutrient-rich or nutrient-poor conditions. Learning to read indicator
-species is a valuable skill for any permaculture designer.
+species is a valuable skill for any [[permaculture]] designer.
 
 ## History of the Site
 
-Permaculture Principle 4 calls for designing from patterns to details,
+[[permaculture]] Principle 4 calls for designing from patterns to details,
 which includes understanding historical patterns. Research as much
 history of the site as possible, especially as it pertains to major
 climactic events and human habitation. Look for:
@@ -132,7 +132,7 @@ site" and gain an understanding of its patterns over time.
 
 ## General Climate Data
 
-Every permaculture analysis should include:
+Every [[permaculture]] analysis should include:
 
 - Solar altitude and azimuth data
 - Prevailing seasonal winds (direction and speed)
@@ -142,7 +142,7 @@ Observation and inventories work alongside other analytical tools
 including the base map, broad scale site analysis, client interview,
 sectors, soil samples, surface water flow analysis, zones, and zoning
 ordinances. Together these tools provide the comprehensive understanding
-of the site needed for effective permaculture design.
+of the site needed for effective [[permaculture]] design.
 
 ## See Also
 

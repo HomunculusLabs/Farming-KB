@@ -98,3 +98,7 @@ One of the most protein-rich of all cultivated mushrooms (33-48% protein by dry 
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
 - [[medicinal-mushroom-cardiovascular-cholesterol-research]]
+
+## See Also
+
+- [[agaricus-brasiliensis]]

@@ -72,6 +72,31 @@ Critics argue that Allegro's methodology relies on selective citation of Sumeria
 - The goddess-god dynamic in these myths was interpreted as reflecting the earth-mushroom relationship
 - The [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
+
+## Academic Reception and Criticism
+
+John Allegro's hypothesis that early Christianity originated from a
+fertility cult centered on the Amanita muscaria mushroom has been almost
+universally rejected by mainstream scholars of linguistics, biblical studies,
+and Near Eastern archaeology. The primary criticisms focus on his
+methodology: Allegro often interpreted Sumerian and Hebrew word roots in
+ways that professional linguists considered fanciful, selectively choosing
+meanings that supported his thesis while ignoring established etymologies.
+His equation of the Sumerian word "SUB" (with multiple meanings including
+"mushroom" in some contexts) with Hebrew words for "knowledge" and "vision"
+has been particularly criticized as linguistically unsound.
+
+Despite the academic rejection, Allegro's work remains influential in
+certain countercultural and entheogenic scholarship circles. Terence
+McKenna, in "Food of the Gods," drew on Allegro's ideas (along with
+Gordon Wasson's Soma hypothesis) to build his own argument for the role
+of psychoactive mushrooms in human cultural evolution. The broader question
+of whether psychoactive plants played a role in ancient religious practice
+is taken more seriously than Allegro's specific etymological claims —
+evidence for ritual use of ergot, kykeon, and other psychoactive
+substances in ancient Greece and the Near East has been documented by
+more careful scholars, even if Allegro's mushroom-Christianity thesis
+remains outside academic consensus.
 ## See Also
 - [[sacred-mushroom-and-the-cross]]
 - [[allegro-philological-methodology]]

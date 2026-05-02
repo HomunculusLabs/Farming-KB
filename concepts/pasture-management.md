@@ -28,8 +28,7 @@ plant and soil health.
 - Improved forage quality — plants are grazed at optimal stage.
 - More uniform manure distribution (natural fertilizer).
 - Reduced parasite load — larvae die during rest periods before animals return.
-- Deeper root systems — plants grow deeper when grazed and rested properly.
-- Improved water infiltration — root channels and organic matter increase
+- Deeper root systems — plroot-exudatesper when grazed and rested pbuilding-soilproved water infiltration — root channels and organic matter increase
   soil porosity.
 - Carbon sequestration — grazing stimulates root exudates that feed soil
   microbes, building soil organic carbon.

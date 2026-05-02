@@ -123,5 +123,5 @@ analyses involving new chromatographic and spectroscopic methods.
 
 - [[psilocybe-genus-overview]]
 - [[psilocybin-tryptamine-chemistry-fungi]]
-- [[amanita-muscaria-ibotenic-acid-fungi]]
+- [[amanita-muscaria-and-ibotenic-acid-fungi]]
 - [[worldwide-distribution-psilocybin-mushrooms]]

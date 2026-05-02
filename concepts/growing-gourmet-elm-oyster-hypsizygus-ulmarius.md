@@ -138,7 +138,6 @@ of a fully developed H. ulmarius far surpasses even the youngest
 P. ostreatus or P. pulmonarius specimens. Oyster mushroom growers
 throughout the world would do well to experiment with this mushroom
 and popularize it as an esculent.
-
 ## Related
 
 - [[hypsizygus-ulmarius]]

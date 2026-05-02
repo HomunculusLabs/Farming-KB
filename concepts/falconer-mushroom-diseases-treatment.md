@@ -32,15 +32,15 @@ neighboring clump was entirely withered. Contributing causes included:
 
 - Keeping the bed continuously wet or dry
 - Drip from above
-- Abruptly pulling up large mushrooms, destroying mycelium threads
+- Abruptly pulling up large mushrooms, destroying [[mycelium]] threads
   supporting nearby small mushrooms
 - Displacement of earth by large mushrooms pushing through, severing
-  mycelium
+  [[mycelium]]
 - Cutting off mushrooms and leaving stumps in the ground -- the stumps
   developed a white fluffy substance that poisoned every thread of
-  mycelium leading to it, affecting all attached mushrooms present and
+  [[mycelium]] leading to it, affecting all attached mushrooms present and
   to come
-- Any impure matter in the bed contacting the mycelium
+- Any impure matter in the bed contacting the [[mycelium]]
 
 Lachaume identified two beetle larvae (Aphodius fimetarius and
 Dermestes tessellatus) that "cause great damage by eating the spawn,
@@ -128,7 +128,7 @@ whitish felted mass.
 Notably, flock did NOT spread contagiously through the bed. If one
 mushroom from a piece of spawn was affected, every mushroom from that
 piece was affected, but not one mushroom from adjacent pieces of spawn --
-even if their mycelium formed an interlacing web. Other pieces from the
+even if their [[mycelium]] formed an interlacing web. Other pieces from the
 same brick were not more liable than pieces from other bricks.
 
 ### Frequency

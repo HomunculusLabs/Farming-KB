@@ -40,7 +40,7 @@ Easily cultivated, fruiting within 4-8 weeks on:
 - Compost substrate
 - Straw with potting soil casing layer
 
-This makes it one of the easier non-tropical species to grow, comparable to *Psilocybe cubensis* in terms of cultivation difficulty. See [[psilocybin-mushroom-cultivation]] for general methods and [[mushroom-substrate-comparison]] for substrate options.
+This makes it one of the easier non-tropical species to grow, comparable to *Psilocybe cubensis* in terms of cultivation difficulty. See [[psilocybin-cultivation]] for general methods and [[mushroom-substrate-comparison]] for substrate options.
 
 
 
@@ -86,7 +86,7 @@ The discovery of *P. natalensis* was important because:
 - [[psilocybin-mushroom-chemistry]] — Global species distribution
 - [[jochen-gartz]] — Discoverer of the species
 - [[african-psilocybin-mushroom-guide]] — African species survey and Tassili rock art
-- [[psilocybin-mushroom-cultivation]] — Cultivation methods
+- [[psilocybin-cultivation]] — Cultivation methods
 - [[psychedelic-mushroom-history]] — Historical timeline including African evidence
 - [[archaeology-of-psychedelic-mushrooms]] — Archaeological evidence of ancient use
 - [[psilocybin-mushroom-chemistry]] — Field identification of 16 species

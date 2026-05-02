@@ -1,5 +1,5 @@
 ---
-title: "No-Till vs Cover Crops"
+title: "No-[[cover-crops]]er Crops"
 tags:
   - soil-health
   - no-till
@@ -19,7 +19,7 @@ Both no-till gardening and cover cropping are cornerstone practices for building
 
 | Aspect | No-Till | Cover Crops |
 |--------|---------|-------------|
-| **Primary mechanism** | Eliminates mechanical soil disturbance | Maintains living roots in soil year-round |
+| **Primary mechanism** | Eliminates mechanical soil disturbance | Maintains livisheet-mulchingil year-round |
 | **Key benefit** | Preserves fungal networks and soil structure | Feeds soil food web during fallow periods |
 | **Implementation** | Discrete planting holes, sheet mulching | Seeding specific species between cash crops |
 | **Soil food web impact** | Protects existing fungal hyphae and earthworms | Provides continuous root exudates for microbes |

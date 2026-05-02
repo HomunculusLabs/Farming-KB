@@ -10,7 +10,7 @@ sources:
 
 # Why Tillage Destroys Soil
 
-Masanobu Fukuoka's first principle of [[fukuoka-four-principles-natural-farming-detailed]] is "no cultivation." To many people, being a farmer is synonymous with turning the soil with plow or hoe. If working the soil is unnecessary, then the image and reality of the farmer change drastically.
+Masanobu Fukuoka's first principle of [[fukuoka-four-principles-natural-farming]] is "no cultivation." To many people, being a farmer is synonymous with turning the soil with plow or hoe. If working the soil is unnecessary, then the image and reality of the farmer change drastically.
 
 ## Plowing Ruins the Soil
 

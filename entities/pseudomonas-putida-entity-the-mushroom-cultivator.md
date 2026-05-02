@@ -129,6 +129,8 @@ moisture management, and hygiene practices all influence the balance of microbia
 populations in the growing environment.
 
 ## See Also
+
+- [[pseudomonas]]
 - [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]
 - [[lentinus-edodes-entity-the-mushroom-cultivator]]
 - [[mycogone-perniciosa-entity-the-mushroom-cultivator]]

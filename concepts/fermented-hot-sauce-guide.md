@@ -117,7 +117,6 @@ See homestead mushroom business and online homestead sales for general business 
 
 Fermented hot sauce is a high-margin homestead-crafts product and pairs well with other [[food-fermentation-guide]] preserves like kraut and pickles for market sales.
 
-
 ## Related
 
 - [[food-fermentation-guide]]

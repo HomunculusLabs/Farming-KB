@@ -79,7 +79,7 @@ Despite these criticisms, Wasson's contributions were significant:
 Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapter 5: Wasson
 Updated: 2026-04-18
 - [[maria-sabina-mazatec-mushroom-curandera]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[gordon-wasson-comparative-method-ethnomycology]]
 - [[amanita-muscaria-living-bread-sacrament]]
 - [[wasson-mycophobia-mycophilia-theory]]

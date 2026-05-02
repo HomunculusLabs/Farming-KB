@@ -132,7 +132,7 @@ devastating blights.
 
 - [[mycelium-running-forestry-practices-and-mushrooms]] -- mycoforestry
 - [[mycorrhizal-networks]] -- mycorrhizal conservation
-- [[mycelium-running-medicinal-mushrooms]] -- medicinal conservation
+- [[medicinal-mushrooms]] -- medicinal conservation
 - [[mycelium-running-partnerships-with-plants]] -- plant-fungal ecology
 - [[mycelium-running-rot-fungi-wood-decomposition]] -- decomposition
 - [[forest-ecology-basics]] -- forest ecosystem science

@@ -75,7 +75,7 @@ Psilocybe pseudoaztecorum fruits during the rainy season from June through Septe
 
 - [[psilocybe-aztecorum-entity]] — the most closely related species
 - [[psilocybe-zapotecorum]] — another Mexican Psilocybe of montane habitats
-- [[psilocybe-caerulescens]] — widespread Mexican psilocybin mushroom of lower elevations
+- [[psilocybe-caerulescens-entity]] — widespread Mexican psilocybin mushroom of lower elevations
 - teonanacatl — the Nahuatl term for sacred mushrooms
 - gastón-guzmán — authority who described the species
 - [[psilocybin]] — primary psychoactive compound

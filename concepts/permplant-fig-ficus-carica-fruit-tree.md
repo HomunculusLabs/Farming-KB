@@ -127,7 +127,6 @@ excellent investment. The fruit provides a concentrated energy source
 during late summer and autumn, complementing other fruit tree harvests.
 The dried fruit stores well, providing a year-round food resource.
 
-
 ## See Also
 
 - [[permplant-chestnuts-castanea-nut-crop-coppice]]

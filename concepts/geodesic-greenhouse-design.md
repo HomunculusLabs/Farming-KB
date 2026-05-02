@@ -23,7 +23,7 @@ The triangulated framework distributes loads across the entire structure. Geodes
 ### Space Efficiency
 - **No interior support columns:** The dome is self-supporting. Every square foot of floor space is usable.
 - **More volume per footprint:** A dome encloses roughly 30% more volume than a rectangular building with the same floor area.
-- **Versatile layout:** Circular space accommodates raised beds, keyhole gardens, and central features naturally (see [[keyhole-garden-design]] and [[mandala-garden-design]])
+- **Versatile layout:** Circular space accommodates raised beds, keyhole gardens, and central features naturally (see [[permaculture-designers-manual-keyhole-garden]] and [[mandala-garden-design]])
 ## Dome Geometry
 ### Frequency (V)
 The "frequency" of a geodesic dome determines how many times the edges of the base icosahedron (20-sided polyhedron) are subdivided. Higher frequency = more triangles = more spherical, but more complex to build.

@@ -52,7 +52,7 @@ PIHKAL entry #71. 2,5-DIMETHOXY-4-(n)-PROPYLAMPHETAMINE.
 > certainly maximum dosage, at least for a long time. There are faint
 > intimations of nervous system scrungies. You know, the kind of thing
 > that makes you figure it's going to be a while before you'll try to
-> relax into sleep. This material, like all the other DO's, is a heavy
+> relax into sleeindoles material, like all the other DO's, is a heavy
 > duty psychedelic, the kind that says to you, 'Forget all that stuff
 > about screening out visuals,' and then proceeds to prove it. Sort of
 > indole-like in that way. Your body as well as your mind tells you

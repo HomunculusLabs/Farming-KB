@@ -142,13 +142,6 @@ Thinning excess fruit is essential for quality apples and tree health.
 ### Other Pests
 - **Apple maggot**: Flies lay eggs under fruit skin; larvae tunnel through flesh. Red sticky traps, kaolin clay sprays, clean up fallen fruit
 - **Plum curculio**: Small weevil that scars fruit and causes premature drop. Surround WP (kaolin clay) spray, pyrethrin at petal fall
-- **Aphids**: Curl leaves and produce honeydew; encourage ladybugs, use insecticidal soap
-- **Mites**: Cause bronzing of leaves; dormant oil spray, encourage predatory mites
-
-### Organic Spray Schedule
-- **Dormant season**: Horticultural oil (smother overwintering pests and eggs)
-- **Green tip**: Sulfur (scab prevention)
-
 ## See Also
 
 - [[comparison-apple-tree-care-vs-apple-guild-design]]

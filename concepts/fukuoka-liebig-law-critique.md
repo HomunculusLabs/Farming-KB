@@ -107,7 +107,7 @@ The implication is sobering for industrial agriculture: after decades of increas
 - [[fukuoka-dharmic-law-all-things-return-to-one]]
 - [[fukuoka-natural-fertility-cycle]]
 - [[fukuoka-soil-building-method]]
-- [[fukuoka-four-principles-natural-farming-detailed]]
+- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-critique-green-revolution]]
 - [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-wholistic-nature-perception]]

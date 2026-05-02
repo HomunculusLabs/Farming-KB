@@ -112,7 +112,7 @@ Shrub and tree browsing is little developed, although willow and dwarf birch spe
 - [[permaculture-designers-manual-cold-climates]] - Cold climate overview
 - [[permaculture-designers-manual-arid-climates]] - Arid climate overview
 - [[permaculture-designers-manual-settlement-design]] - Settlement design
-- [[permaculture-designers-manual-keyline-design]] - Keyline design
+- [[keyline-design]] - Keyline design
 - [[permaculture-designers-manual-frost-protection]] - Frost protection
 - [[soil-erosion-control]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

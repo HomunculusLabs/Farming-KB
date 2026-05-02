@@ -3,7 +3,7 @@ title: Tempeh Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, fungi]
+tags: [fermentation, recipe, food, homesteading, microbes, homestead-craftmyceliumrvation, fungi]
 sources: []
 ---
 
@@ -33,7 +33,7 @@ The inoculant can be purchased as tempeh starter (spores mixed with rice flour) 
 
 ### Step 1: Dehulling
 
-Soybean hulls (seed coats) must be removed for good tempeh. The hulls harbor bacteria and prevent the mycelium from binding the beans tightly.
+Soybean hulls (seed coats) must be removed for good tempeh. The hulls harbor bacteria and prevent the [[mycelium]] from binding the beans tightly.
 
 Methods:
 - Split-hull method: soak beans 8-12 hours, split by rubbing or crushing lightly, then float off the hulls in water (hulls float, beans sink). This is the most common home method.
@@ -71,7 +71,7 @@ Methods:
    - Oven with the light on (monitor temperature carefully)
    - Seedling heat mat in an insulated box
    - Near a radiator or heating vent (use a thermometer)
-3. The mycelium will be visible within 12-18 hours as white fuzz
+3. The [[mycelium]] will be visible within 12-18 hours as white fuzz
 4. By 24-36 hours, beans should be fully bound into a solid white cake
 5. Check for even coverage — bare spots indicate poor inoculation or airflow issues
 
@@ -79,7 +79,7 @@ Methods:
 
 Tempeh is ready when:
 - The cake is firm and holds together when handled
-- Mycelium is fully white with no bare spots
+- [[mycelium]] is fully white with no bare spots
 - The internal temperature has peaked and is beginning to drop
 - A pleasant mushroomy/nutty aroma is present
 
@@ -122,15 +122,14 @@ When using non-soy substrates:
 
 ## Troubleshooting
 
-- No mycelium growth — temperature too low, starter expired, or beans too wet
+- No [[mycelium]] growth — temperature too low, starter expired, or beans too wet
 - Patchy growth — uneven inoculation, poor air circulation, or beans too dry
 - Black spots — sporulation; harvest immediately, still edible
 - Yellow, orange, or pink spots — possible contamination; if widespread or foul-smelling, discard
-- Ammonia smell — over-fermentation; the tempeh has gone too long
-- Slimy texture — bacterial contamination; discard
+- Ammonia smell — over-fermentation; the tempeh hbacillus-subtilis- Slimy texture — bacterial contamination; discard
 
 ## See Also
 
 - [[miso-making]] — soybean fermentation using Aspergillus koji
-- [[natto-making]] — fermented soybeans using Bacillus subtilis natto
+- [[natto-making]] — fermented soybeans using [[bacillus-subtilis]] natto
 - [[food-fermentation-guide]] — broader fermentation concepts and processes

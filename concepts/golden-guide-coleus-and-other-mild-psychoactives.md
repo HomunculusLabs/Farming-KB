@@ -5,7 +5,8 @@ tags: [hallucinogenic-plants, coleus, mild-psychoactives, labiatae,
   tupa, solanaceae, mazatec]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # Coleus, Borrachera, and Other Mildly Psychoactive Plants
@@ -21,7 +22,7 @@ day.
 ## Coleus (*Coleus pumilus* and *C. blumei*)
 
 Coleus is cultivated by the Mazatecs of Oaxaca, Mexico, who reputedly employ
-the leaves in the same way as they use the leaves of [[salvia-divinorum]]. The
+the leaves in the same way as they use the leaves of [[salvia-divinorum-entity]]. The
 Indians recognize the family relationship between these two genera of mints,
 both of the family Labiatae (Lamiaceae). They refer to Salvia divinorum as
 la hembra ("the female") and to Coleus pumilus as el macho ("the male").

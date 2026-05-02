@@ -142,7 +142,6 @@ nutrient loss.
 - Cho, H.K. Korean Natural Farming: Indigenous Microorganisms. KNF
   training materials.
 
-
 ## See Also
 
 - [[knf-imo-four-stage-cultivation]]

@@ -80,7 +80,7 @@ forest management and restoration.
 - [[arbuscular-mycorrhizal-fungal-diversity]]
 
 - [[fungal-kingdom-diversity]]
-- [[fungal-endemism-biogeography]]
+- [[fungal-endemism-and-biogeography]]
 - [[environmental-dna-fungal-survey]]
 - Cryptic Speciation in Fungi
 - [[undescribed-fungal-taxa]]

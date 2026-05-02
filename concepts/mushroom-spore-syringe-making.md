@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[fungal-culture-media|agar media]] or [[mushroom-cultivation-grain-spawn|grain spawn]]. Making spore syringes from [[fungal-spore-print-guide|spore prints]] is a fundamental skill in mushroom cultivation, serving as the starting point for tissue culture, strain isolation, and genetic preservation.
+A spore syringe is a suspension of mushroom spores in sterile water, used to inoculate [[biodiversity-fungal-culture-media|agar media]] or [[mushroom-cultivation-grain-spawn|grain spawn]]. Making spore syringes from [[fungal-spore-print-guide|spore prints]] is a fundamental skill in mushroom cultivation, serving as the starting point for tissue culture, strain isolation, and genetic preservation.
 
 ## Materials and Equipment
 

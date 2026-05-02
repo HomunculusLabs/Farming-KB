@@ -1,12 +1,12 @@
 ---
-title: Valerian Growing Guide
+title: valerian growing guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, permaculture]
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, [[permaculture]]]
 sources: []
 ---
-# Valerian Growing Guide (Valeriana officinalis)
+# valerian growing guide (Valeriana officinalis)
 ## Overview
 Valerian is a hardy perennial herb native to Europe and parts of Asia,
 widely cultivated for its medicinal roots. Known for its distinctive

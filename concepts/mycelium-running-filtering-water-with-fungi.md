@@ -127,7 +127,7 @@ process analogous to a fishing net losing its cohesiveness.
 
 - [[mycelium-running-pest-control-with-fungi]]
 
-- [[mycofiltration]] -- existing mycofiltration page
+- [[unknown-mycelium-mycofiltration]] -- existing mycofiltration page
 - [[mycofiltration-of-pathogens]] -- pathogen filtration detail
 - [[mycofiltration-of-chemical-runoff]] -- chemical toxin filtration
 - [[mycelium-running-urban-mushroom-projects]] -- urban applications

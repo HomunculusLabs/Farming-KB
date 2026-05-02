@@ -133,5 +133,5 @@ essential safety information that guided human clinical research.
   department context
 - [[hofmann-lsd-clinical-research-early-studies]] for translation to human
   subjects
-- [[hofmann-lsd-discovery-bicycle-day-account]] for the original discovery that led to
+- [[hofmann-lsd-discovery-bicycle-day]] for the original discovery that led to
   these investigations

@@ -11,15 +11,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 **D-lysergic acid diethylamide** (LSD), also known as **lysergide** and colloquially as **acid**, is a semi-synthetic psychedelic drug of the ergoline family. It is one of the most potent psychoactive substances known, active at doses as low as 20–30 micrograms. LSD was first synthesized by **Albert Hofmann** at Sandoz Pharmaceuticals in 1938 and its psychoactive effects were discovered in 1943, making it the first deliberately synthesized psychedelic compound.
 
-
-
 ## Chemical Structure and Properties
 
 LSD is a derivative of lysergic acid, which is itself derived from ergotamine, an alkaloid produced by the ergot fungus *Claviceps purpurea*. The molecule has the molecular formula C₂₀H₂₅N₃O and a molecular weight of 323.43 g/mol. Its IUPAC name is (6aR,9R)-N,N-diethyl-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxamide.
 
 LSD is a chiral molecule; only the D-(+)-isomer is psychoactive. The L-(−)-isomer (LAE) is biologically inactive. LSD is typically encountered as the tartrate salt, a white crystalline powder soluble in water and ethanol. It is sensitive to light, oxygen, heat, and chlorine, and must be stored in cool, dark conditions to prevent degradation.
-
-
 
 ## Pharmacology
 
@@ -28,8 +24,6 @@ LSD acts primarily as a **5-HT₂A serotonin receptor agonist**, with additional
 Recent research using cryo-electron microscopy has revealed that LSD binds to the 5-HT₂A receptor in a unique manner, with part of the molecule extending through a "lid" formed by the extracellular loop 2 of the receptor, resulting in an exceptionally slow dissociation rate. This may explain the unusually long duration of action despite the rapid clearance of free LSD from the bloodstream.
 
 LSD also has significant affinity for the **TAAR1** (trace amine-associated receptor 1), which may contribute to its stimulant-like effects.
-
-
 
 ## Dosage and Effects
 
@@ -50,8 +44,6 @@ The effects of LSD include:
 - **Somatic**: Pupil dilation, increased body temperature, elevated heart rate, nausea (early in the experience), and changes in sensory perception
 - **Emotional**: Euphoria, anxiety, awe, and intense emotional experiences ranging from profound connection to existential distress
 
-
-
 ## History
 
 ### Discovery (1938–1943)
@@ -70,13 +62,9 @@ LSD escaped the laboratory and became a defining substance of the 1960s counterc
 
 Clinical research on LSD resumed in the 21st century. The **Multidisciplinary Association for Psychedelic Studies (MAPS)** and other organizations have conducted modern clinical trials exploring LSD-assisted psychotherapy for anxiety associated with life-threatening illness, cluster headaches, and other conditions.
 
-
-
 ## Legal Status
 
 LSD is a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances (1971). It is classified as Schedule I in the United States, Class A in the United Kingdom, and similarly restricted in most countries worldwide.
-
-
 
 ## See Also
 

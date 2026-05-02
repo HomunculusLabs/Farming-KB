@@ -87,7 +87,6 @@ species and may contribute to the overall psychoactive effects, though their
 individual pharmacological activities are less well characterized than those
 of psilocybin and psilocin.
 
-
 The blueing reaction, in which bruised or damaged mushroom tissue turns
 blue or blue-green, is caused by the oxidation of psilocin and related
 compounds. While the blueing reaction is a useful indicator, it is not

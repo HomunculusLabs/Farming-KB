@@ -112,7 +112,7 @@ Dates are eaten fresh and dried, used in cakes, biscuits, breads, pastes, syrups
 
 **Parajubaea cocoides (Quito palm)** — Native to the Andes at altitudes above 3,000 m. Tolerates temperatures well below 0°C and high temperatures. Extremely fast growing for a palm, producing first crop of coconut-like nuts within 3–4 years. Puts down very deep roots and survives months without water once established. Bears clusters of 30–50 edible nuts 4–5 cm in diameter.
 
-**Jubaea spectabilis (Chilean wine palm)** — Hardy to -5°C and grows at 43 degrees latitude in France. Trunks tapped for sap (400 litres per year) to make sugar and wine. Grows in rainfall of 250–800 mm, making it suitable for arid Water Harvesting Techniques Comparison zones.
+**Jubaea spectabilis (Chilean wine [[water-harvesting-techniques-comparison]]3 degrees latitude in France. Trunks tapped for sap (400 litres per year) to make sugar and wine. Grows in rainfall of 250–800 mm, making it suitable for arid Water Harvesting Techniques Comparison zones.
 
 **Butia capitata (jelly palm)** — Very hardy, yielding to 40 degrees latitude in coastal areas. Withstands temperatures to -5°C in rainfall between 250–800 mm. Fruit is edible with edible nut and oil. Potential forage species for coastal areas.
 
@@ -122,7 +122,7 @@ Multiple genera provide rattan for furniture and basket-making: Ancistrophyllum 
 
 **Raphia ruffia (raffia palm)** — Madagascar native, semi-hardy, source of commercial raffia fibre. Monocarpic with very large leaves.
 
-**Lodoicea maldivica (coco de mer)** — Praslin Island, Seychelles. Rare and slow growing, producing the world's largest seed (double coconut) with very large leaves used for roofing.
+**Lodoicea [[permaculture-design]]mer)** — Praslin Island, Seychelles. Rare and slow growing, producing the world's largest seed (double coconut) with very large leaves used for roofing.
 
 ## Palm Applications in Permaculture Design
 

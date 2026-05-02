@@ -44,7 +44,7 @@ The psychoactive effects, when sufficient material is consumed, would be consist
 
 ## Ethnomycological Significance
 
-While not as well-documented in ethnomycological literature as species like [[psilocybe-mexicana]] or [[psilocybe-caerulescens]], *C. siligineoides* and other psilocybin-containing Conocybe species may have been utilized in traditional Mesoamerican mushroom ceremonies. The small size and inconspicuous appearance of Conocybe species means they could easily be overlooked by early ethnographers but still recognized and used by indigenous mycological knowledge holders. Some researchers have suggested that certain Conocybe species may have been among the mushrooms depicted in pre-Columbian mushroom stones and codices, though this remains speculative.
+While not as well-documented in ethnomycological literature as species like [[psilocybe-mexicana]] or [[psilocybe-caerulescens-entity]], *C. siligineoides* and other psilocybin-containing Conocybe species may have been utilized in traditional Mesoamerican mushroom ceremonies. The small size and inconspicuous appearance of Conocybe species means they could easily be overlooked by early ethnographers but still recognized and used by indigenous mycological knowledge holders. Some researchers have suggested that certain Conocybe species may have been among the mushrooms depicted in pre-Columbian mushroom stones and codices, though this remains speculative.
 
 ## Microscopic Features and Taxonomic Placement
 

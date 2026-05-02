@@ -113,6 +113,8 @@ Both mushrooms are regarded as safe with low toxicity, even at large doses. Howe
 
 ## See Also
 
+- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
+
 - [[comparison-chaga-vs-reishi-medicinal]]
 
 - [[reishi-cultivation-guide]] for detailed Reishi growing methods

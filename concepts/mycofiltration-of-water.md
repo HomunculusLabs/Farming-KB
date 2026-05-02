@@ -61,11 +61,11 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Lead, copper, zinc, cadmium from urban runoff
 - Mining effluent treatment
 - Industrial wastewater polishing
-- See [[mycoremediation-of-heavy-metals]] for detailed mechanisms
+- See [[mycoremediation-heavy-metals-detailed]] for detailed mechanisms
 ### Hydrocarbons
 - Oil and grease from parking lots and roads
 - Petroleum sheen on stormwater ponds
-- See [[mycoremediation-of-oil-spills]] for petroleum degradation details
+- See [[mycoremediation-oil-spills]] for petroleum degradation details
 ### Nutrients
 - Nitrogen: Mycelium absorbs ammonium; some species assimilate nitrate
 - Phosphorus: Binding to mycelial cell wall phosphorus storage compounds
@@ -118,6 +118,6 @@ Mycofiltration uses fungal mycelium to filter and treat contaminated water. Dens
 - Limited capacity for high-volume flows without large installation footprint
 - Regulatory acceptance for municipal water treatment is still developing
 ## See Also
-- [[mycoremediation-of-heavy-metals]] -- detailed coverage of fungal metal biosorption
-- [[mycoremediation-of-oil-spills]] -- fungal degradation of petroleum hydrocarbons
+- [[mycoremediation-heavy-metals-detailed]] -- detailed coverage of fungal metal biosorption
+- [[mycoremediation-oil-spills]] -- fungal degradation of petroleum hydrocarbons
 - [[biochar-and-fungi]] -- biochar-fungal combinations for water treatment

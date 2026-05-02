@@ -24,7 +24,7 @@ The American Type Culture Collection maintains several wild and domesticated str
 Strains are often distinguished by their preferences for fruiting in colder or warmer
 temperature zones.
 
-Genetic characteristics include basidia that are tetrapolar, forming four haploid spores.
+Genetic characteristics include basidia that are tetrapolar, forming four haploid [[spore]]s.
 The species is heterothallic. Dikaryons feature clamp connections.
 
 ## Morphology
@@ -47,7 +47,7 @@ Lentinus edodes is a wood decomposer, typically saprophytic. Lentinus species ar
 on the dead tissue of deciduous trees, mainly from the family Fagaceae, including oak,
 chestnut, shii (Pasania), and beech. In nature, they particularly prefer oaks.
 
-Fruiting occurs in the fall, early winter, and spring. This species is indigenous to
+Fruiting occurs imushroom-cultivationnter, and spring. This species is indigenous to
 Japan, China, and other countries in the temperate zone of the Indo-China region. The
 mushroom has been cultivated in Japan for approximately two thousand years.
 
@@ -99,7 +99,7 @@ used as a sterile fruiting medium.
 
 ### Yield and Nutrition
 - **Yield Potential:** 2 to 3 lbs fresh weight per log (commercial average)
-- **Moisture Content:** 85% water; 15% dry matter
+- **Moisture tent 85% water; 15% dry matter
 - **Nutritional Content:** 10.0 to 17.5% crude protein (dry weight); 55 mg niacin per 100 g dry weight
 
 ## Interactions
@@ -113,7 +113,7 @@ beneficial properties.
 Individuals can significantly reduce serum cholesterol levels by eating these mushrooms
 for as short a period as one week (Suzuki and Ohshima, 1974). Extracts from shiitake
 spores and the isolation of mushroom RNA from them have proved effective against influenza
-(Suzuki et al., 1974). Health conscious individuals beginning a daily regimen of eating
+(Suzuki et al., 1974). Health conscious individuals begicotter-shiitake-cultivationn of eating
 shiitake have been shown to be less susceptible to virus-induced diseases.
 
 Bacillus thermomucicolous, if introduced at spawning, inhibits the growth of competitor

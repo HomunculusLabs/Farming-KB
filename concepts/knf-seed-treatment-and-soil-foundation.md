@@ -4,7 +4,8 @@
      4|updated: 2026-04-20
      5|type: concept
      6|tags: [knf, natural-farming]
-     7|sources: []
+     7|sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
      8|---
      9|
     10|# Seed Treatment and Soil Foundation with Microbial Activator (M-A)
@@ -146,7 +147,4 @@
    146|
    147|## See Also
 
-- [[knf-imo-four-soil-foundation-and-field-application]]
-
 - [[knf-soil-treatment-solution]]
-   148|

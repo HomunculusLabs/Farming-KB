@@ -123,3 +123,7 @@ containing Bacillus and Pseudomonas species are increasingly integrated into
 both soil and hydroponic production systems.
 See also: [[cannabis-root-microbiome]], [[rhizosphere-ecology]],
 biological control agents, [[endophytes-in-cannabis]], [[soil-health-and-management]]
+
+## See Also
+
+- [[gibberellins-plant-growth-hormones]]

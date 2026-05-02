@@ -91,7 +91,7 @@ Climate affects architecture which affects everyday life, food, cultural habits,
 - [[pdc-pattern-understanding-in-design]]
 - [[pdc-site-analysis-method]]
 - [[microfungal-species-diversity-large-areas]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[permaculture-cold-climate-strategies]]

@@ -7,7 +7,7 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md
 ---
 
-# Paris Cave [[contamination-in-mushroom-cultivation]]
+# Paris Cave [[contamination-mushroom-cultivation]]
 
 ## [[teaming-with-microbes-fungi-the-underground-network]] Quarries of Paris
 

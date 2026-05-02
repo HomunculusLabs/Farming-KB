@@ -80,7 +80,7 @@ Studies should explicitly define the scale of observation and the attribute of d
 - [[fungal-diversity-estimation-methods]]
 - [[fungal-community-assembly]]
 - [[fungal-biodiversity-sampling-design]]
-- [[fungal-endemism-biogeography]]
+- [[fungal-endemism-and-biogeography]]
 - [[fungal-monitoring-long-term-studies]]
 
 ## References

@@ -1,5 +1,5 @@
 ---
-title: Animal Manure Guide
+title: animal manure guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fertilizer, organic, byproducts, npk, nutrients, gardening, soil-amendmen
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Animal Manure Guide
+# animal manure guide
 
 
 
@@ -45,7 +45,7 @@ Animal manures are the very best sources of organic matter for soil, improving c
 - **Coverage:** 20-30lb (9-15kg) per sq yard/meter
 - Often more available near urban areas. Use only from stables where straw or peat is used as bedding — wood shavings may harbor plant disease.
 - **Fresh horse manure must not be used directly** — it causes leaf/stem scorching and loses nutrient value; straw takes long to decompose.
-- **Storage:** Small quantities go on the compost heap (high N helps decomposition). Large quantities: stack on concrete base, mash down (lots of air in straw), cover with plastic in winter. Ready in a couple of months, or a year if pesticide contamination is suspected.
+- **Storage:** Small quantities go on the compost heap (high N helps [[decomposition]]). Large quantities: stack on concrete base, mash down (lots of air in straw), cover with plastic in winter. Ready in a couple of months, or a year if pesticide contamination is suspected.
 
 ### Pig Manure
 
@@ -84,5 +84,5 @@ Half a dozen chickens in a portable house with movable wire-mesh run can be rota
 ## Related
 
 - [[homemade-liquid-fertilizer]] — making liquid manure from animal droppings
-- [[composting-materials-alternative]] — alternative sources for composting
+- [[composting-materials-alternative]] — alternative sources for [[composting]]
 - [[soil-conditioners-guide]] — other soil conditioners beyond manure

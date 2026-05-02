@@ -76,6 +76,8 @@ Fungal trait measurements employ a combination of culture-based assays, molecula
 
 ## See Also
 
+- [[fungal-based-materials]]
+
 - [[fungal-functional-diversity]] covers functional diversity concepts
 - [[fungal-life-history-strategies]] addresses strategy frameworks
 - [[fungal-functional-groups]] covers functional group classification

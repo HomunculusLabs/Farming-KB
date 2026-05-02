@@ -1,5 +1,5 @@
 ---
-title: "Oyster vs Shiitake Cultivation"
+title: "Oycotter-shiitake-cultivationtivation"
 tags: [comparison, mushroom-cultivation, oyster, shiitake, fungi]
 date: 2026-04-25
 updated: 2026-04-25
@@ -14,7 +14,7 @@ Oyster and shiitake mushrooms represent two of the most popular cultivated fungi
 each suited to very different growing environments, timelines, and skill levels. Oyster
 mushrooms are fast-growing primary decomposers ideal for beginners, while shiitake demands
 more patience but rewards growers with higher market value, richer flavor, and well-studied
-medicinal compounds. Understanding the trade-offs between these two species is essential for
+medicinal compounds. Undcotter-oyster-mushroom-cultivationetween these two species is essential for
 anyone planning a mushroom cultivation project, whether for home use or commercial sale.
 
 ## Oyster Mushroom Cultivation

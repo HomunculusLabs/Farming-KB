@@ -126,4 +126,3 @@ wiping metal parts with an oiled rag to prevent rust. Wooden
 handles benefit from a rub with linseed oil to prevent
 cracking. Blunt tools damage plants and make work harder,
 so sharpening edges on a whetstone is time well spent.
-

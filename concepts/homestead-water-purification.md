@@ -142,12 +142,6 @@ Before selecting a purification system, test your water:
 - More stable than bleach for long-term storage
 - Mix a small amount with water to create a chlorine solution
 - Treat drinking water with the solution
-- Excellent for emergency preparedness and long-term off-grid use
-
-### Biosand Filters
-
-**How they work:** A container filled with sand and gravel supports a biological layer (schmutzdecke) that breaks down pathogens as water slowly percolates through.
-
 ## See Also
 
 - [[mollison-designers-water-purification-and-storage-principles]]

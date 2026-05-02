@@ -1,7 +1,7 @@
      1|     1|---
      2|     2|title: "Caragana arborescens"
      3|     3|type: species
-     4|     4|tags: [permaculture, nitrogen-fixer, windbreak, edible-seeds, cold-hardy]
+    [[permaculture]]gs: [permaculture, nitrogen-fixer, windbreak, edible-seeds, cold-hardy]
      5|     5|date: 2026-04-28
      6|     6|updated: 2026-04-28
      7|     7|sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
@@ -96,8 +96,7 @@
     96|    62|
     97|    63|## Companion Planting and Polyculture Integration
     98|    64|
-    99|65|Siberian peashrub serves as an effective nitrogen-fixing nurse tree for establishing fruit and nut crops.
-   100|In food forest design, it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
+    99|65|Siberian peashrub serves as an effective nitrogen-fixing nurse tree for establishing fruit and nut [[food-forest-design]]ood forest design, it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
    101|Compatible companions include apple, plum, cherry, and hazelnut as the eventual main canopy, with currants, gooseberries, and herbs in the understory.
    102|Caragana is also combined with sea buckthorn and autumn olive in multi-species windbreaks for enhanced biodiversity and resilience.
    103|Its early leaf emergence in spring and late leaf retention in autumn extend the period of photosynthesis and nitrogen contribution.

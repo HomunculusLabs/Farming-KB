@@ -19,11 +19,9 @@ The fifth of David Holmgren's twelve permaculture design principles. This princi
 
 
 
-
 ## Core Concept
 
 Holmgren makes an important distinction between resources (things we use and deplete) and services (things that nature provides ongoing without being consumed). A tree is a resource when we cut it for timber; it provides services when it shades, shelters, cycles water, and builds soil while alive. Valuing services means designing systems where living elements perform functions continuously.
-
 
 
 
@@ -41,7 +39,6 @@ Holmgren makes an important distinction between resources (things we use and dep
 
 
 
-
 ## Appropriate Use of Non-Renewable Resources
 
 Holmgren provides specific guidance on appropriate use of non-renewables:
@@ -50,7 +47,6 @@ Holmgren provides specific guidance on appropriate use of non-renewables:
 - A passive solar house uses high-embodied-energy glass to capture free solar energy permanently
 - Bulldozers and earth-moving equipment create well-designed water-harvesting earthworks that can then be maintained by human labor indefinitely
 - Deep ripping of hard pans followed by managed plantings can permanently improve soil structure
-
 
 
 
@@ -73,7 +69,6 @@ Designing systems that use these services reduces dependence on fossil fuels and
 
 
 
-
 ## Reducing Dependence
 
 The broader aim of this principle is to progressively reduce dependence on non-renewable resources and external inputs. Holmgren envisions a transition where:
@@ -88,7 +83,6 @@ The broader aim of this principle is to progressively reduce dependence on non-r
 
 
 
-
 ## Connections
 
-This principle links directly to [[permaculture-principle-catch-and-store-energy]] (capturing renewable energy flows), [[permaculture-principle-produce-no-waste]] (wasting non-renewables is doubly harmful), [[permaculture-principle-use-small-and-slow-solutions]] (small scale systems are easier to power renewably), and [[permaculture-principle-obtain-a-yield]] (renewable systems must still yield). See also [[permaculture-principles]] and [[permaculture-zone-and-sector-analysis]].
+This principle links directly to [[permaculture-principle-catch-and-store-energy]] (capturing renewable energy flows), [[permaculture-principle-produce-no-waste]] (wasting non-renewables is doubly harmful), [[permaculture-principle-use-small-and-slow-solutions]] (small scale systems are easier to power renewably), and [[permaculture-principle-obtain-a-yield]] (renewable systems must still yield). See also [[permaculture-principles]] and [[zone-sector-analysis-guide]].

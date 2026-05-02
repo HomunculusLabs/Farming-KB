@@ -6,13 +6,13 @@ type: concept
 tags: [homesteading, energy, off-grid, engineering, water, sustainability]
 sources: []
 ---
-# Solar Water Heating
-Solar water heating uses the sun's energy to heat water for domestic use,
+# solar water heating
+solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
 properly sized system can provide 50-80% of a household's hot water needs.
 This guide covers system types, design principles, DIY construction, and
 sizing for the homestead.
-## Why Solar Water Heating
+## Why solar water heating
 - **Energy savings** — water heating accounts for 15-25% of home energy use
 - **Off-grid viability** — reduces generator run time or battery demand
 - **Simple technology** — fewer moving parts than PV systems; long lifespan
@@ -85,7 +85,7 @@ controller activates the pump when the collector is hotter than the tank.
 - Most complex and expensive system
 - Requires maintenance (glycol replacement every 5-7 years)
 - Professional installation recommended for code compliance
-## Sizing a Solar Water Heating System
+## Sizing a solar water heating System
 ### Daily Hot Water Demand
 Estimate 15-20 gallons per person per day for a typical household.
 | Household Size | Daily Demand (gallons) |
@@ -122,7 +122,7 @@ In climates with freezing temperatures, freeze protection is essential:
 - **Anode rod** — check and replace in glass-lined steel tanks every 3-5 years
 - **Pressure relief valve** — test annually
 ## Integrating with Off-Grid Systems
-Solar water heating reduces the electrical load on an off-grid system
+solar water heating reduces the electrical load on an off-grid system
 significantly. For water sourcing and treatment, see
 [[rainwater-harvesting-systems]] and [[well-drilling-and-maintenance]].
 For off-grid cooking alternatives, see [[solar-oven-cooking]].

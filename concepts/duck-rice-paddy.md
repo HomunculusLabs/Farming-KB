@@ -26,7 +26,7 @@ From the standpoint of natural farming, releasing ten ducklings per quarter-acre
 
 Each of these functions would normally require separate human labor or chemical inputs. By integrating ducks, the farmer replaces herbicide application, pesticide spraying, mechanical weeding, synthetic fertilizer application, and soil aeration with a single biological input.
 
-This is the essence of [[permaculture-zone-and-sector-analysis|permaculture]] — designing systems where each element performs multiple functions.
+This is the essence of [[zone-sector-analysis-guide|permaculture]] — designing systems where each element performs multiple functions.
 
 ## Protection
 

@@ -16,11 +16,9 @@ Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It en
 
 
 
-
 ## The Mycelial Network
 
 In old-growth forests, mycelial networks form a "mycelial mat" -- a vast underground web connecting trees, plants, and soil organisms. This mycorrhizal network facilitates nutrient exchange between trees, distributes water, and creates soil structure. In fact, the mycelium of a single fungal organism can extend for hundreds or even thousands of acres. When old-growth forests are cut, this network is destroyed, and recovery is extremely slow without intervention.
-
 
 
 
@@ -46,7 +44,6 @@ Benefits of mycorrhizal inoculation:
 
 
 
-
 ## Road Reconstruction with Fungi
 
 A demonstrated mycoforestry technique for reclaiming damaged roads and disturbed sites:
@@ -65,11 +62,9 @@ Over years, the wood chips decompose into rich soil (approximately 1-2 inches of
 
 
 
-
 ## Wood Chips as Ecological Currency
 
 Wood chips serve as a primary substrate for mycoforestry practices. They provide the carbon source that fuels fungal growth, which in turn creates soil, retains moisture, and supports the re-establishment of native plant communities. As Stamets writes: "Wood chips are the ecological currency that we should bank for preventing erosion."
-
 
 
 
@@ -85,10 +80,9 @@ Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrh
 
 
 
-
 ## See Also
 
 - [[mycofiltration-water-treatment]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[fungal-ecology-decomposition-cycles]]
 - [[paul-stamets]]

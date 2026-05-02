@@ -1,7 +1,7 @@
 ---
 title: Pleurotus pulmonarius
 type: species
-tags: [edible-mushroom, oyster-mushroom, tropical, mycoremediation, ligninolytic]
+tags: [edible-mushroom, oyster-mushroom, tropical, [[mycoremediation]], ligninolytic]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
@@ -41,7 +41,7 @@ In the context of organic mushroom farming and permaculture, *P. pulmonarius* se
 
 *P. pulmonarius* is a prolific producer of lignin-modifying enzymes (LMEs):
 
-* **Laccase (EC 1.10.3.2):** A multicopper oxidase that oxidizes phenolic and non-phenolic aromatic compounds. Laccase production is induced by copper ions, phenolic compounds, and various aromatic substrates. Peak activity of 10,000–50,000 U/L has been reported in optimized submerged cultures.
+* **[[laccase]] (EC 1.10.3.2):** A multicopper oxidase that oxidizes phenolic and non-phenolic aromatic compounds. Laccase production is induced by copper ions, phenolic compounds, and various aromatic substrates. Peak activity of 10,000–50,000 U/L has been reported in optimized submerged cultures.
 * **Manganese peroxidase (MnP, EC 1.11.1.13):** An extracellular heme peroxidase that oxidizes Mn²⁺ to Mn³⁺, which then diffuses into lignin polymers to initiate oxidative degradation. MnP requires hydrogen peroxide as a co-substrate and Mn²⁺ as a mediator.
 * **Versatile peroxidase (VP):** A hybrid enzyme combining catalytic properties of both MnP and lignin peroxidase, capable of oxidizing phenolic and non-phenolic compounds, Mn²⁺, and various aromatic dyes.
 

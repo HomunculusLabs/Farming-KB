@@ -10,7 +10,7 @@ sources:
 
 # Desert Reclamation Projects
 
-Masanobu Fukuoka's vision for [[fukuoka-clay-pellet-desert-greening]] was one of his most ambitious and far-reaching ideas. Drawing on decades of experience with [[fukuoka-four-principles-natural-farming-detailed]] in Japan, he proposed a fundamentally different approach to restoring degraded lands -- one that worked with nature rather than against it.
+Masanobu Fukuoka's vision for [[fukuoka-clay-pellet-desert-greening]] was one of his most ambitious and far-reaching ideas. Drawing on decades of experience with [[fukuoka-four-principles-natural-farming]] in Japan, he proposed a fundamentally different approach to restoring degraded lands -- one that worked with nature rather than against it.
 
 ## The Scale of the Problem
 

@@ -83,7 +83,7 @@ fact P. zapotecorum.
 ## See Also
 
 - [[psilocybe-zapotecorum]]
-- [[psilocybe-caerulescens]]
+- [[psilocybe-caerulescens-entity]]
 - [[psilocybe-aztecorum-entity]]
 - [[psilocybe-mexicana]]
 - [[psilocybe-weilii]]

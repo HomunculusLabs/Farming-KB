@@ -15,7 +15,7 @@ sources:
 Revolution," "The Natural Way of Farming," and "Sowing Seeds in the Desert," presents
 a comprehensive alternative to both conventional and organic agriculture. It is grounded
 in the [[fukuoka-do-nothing-farming-philosophy-and-practice]] and expressed practically
-through the [[fukuoka-four-principles-natural-farming-detailed]].
+through the [[fukuoka-four-principles-natural-farming]].
 
 ## Core Principle: Nature Is Sufficient
 
@@ -140,3 +140,7 @@ Western bioethics debates about genetic engineering focus on safety, consent, an
 ## Practical Implications
 
 For natural farming practitioners, Fukuoka's critique means avoiding genetically modified seeds and embracing the genetic diversity that nature produces through natural selection. This connects to fukuoka natural farming philosophy principles of working with nature's inherent wisdom rather than imposing human-designed solutions. The critique also implies that agricultural breeding programs, even conventional ones, risk losing sight of nature's purpose by optimizing for narrow human preferences.
+
+## See Also
+
+- [[agroecology]]

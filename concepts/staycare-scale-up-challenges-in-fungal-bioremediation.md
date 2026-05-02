@@ -16,7 +16,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Despite extensive laboratory demonstrations of fungal pollutant degradation, translating these results to field-scale bioremediation remains a significant challenge. The gap between laboratory flask experiments and practical environmental application is one of the most critical issues in fungal bioremediation. This page covers the major barriers to scale-up, drawing on research into formulation, field trials, and process engineering for fungal bioremediation systems.
+Despite extensive laboratory demonstrations of fungal pollutant degradation, translating these results to field-scale bioremediation remains a significant challenge. The gap between laboratory flask experiments and practical environmental application is one of the most critiindigenous-microorganismsemediation. This page covers the major barriers to scale-up, drawing on research into formulation, field trials, and process engineering for fungal bioremediation systems.
 
 ## Key Scale-Up Barriers
 
@@ -47,7 +47,7 @@ Chapter 5 of the source (Bennett, Connick, Daigle, Wunch) specifically addresses
 
 - **Nitrogen limitation paradox**: P. chrysosporium requires nitrogen limitation for ligninolytic enzyme production, but nitrogen-limited conditions may stress the fungus in field conditions. Other fungi do not share this requirement.
 - **Carbon source**: Adding carbon (glucose 5-10 g/L) is often necessary to fuel the production of H₂O₂ for peroxidase activity, but this adds cost and may feed competing organisms
-- **Buffer requirements**: Laboratory studies use buffers (dimethyl succinate, dimethyl glutarate) that are impractical at field scale. Some (dimethyl succinate) are expensive; others (phosphate) add nutrients that cause eutrophication. Fungi may self-buffer, but pH control at field scale is difficult.
+- **Buffer requirements**: Laboratory studies use buffers (dimethyl succinate, dimethyl glutarate) that are imlignin-degradation scale. Some (dimethyl succinate) are expensive; others (phosphate) add nutrients that cause eutrophication. Fungi may self-buffer, but pH control at field scale is difficult.
 - **Trace metals**: Mn²⁺, Cu²⁺, and Fe are required for enzyme function, but their optimal concentrations vary by organism and substrate
 
 ### 4. Process Engineering Challenges

@@ -124,7 +124,7 @@ thought processes, and increased risk of adverse psychological reactions.
 
 - [[emcdda-psilocybin-mushroom-species-and-identification]] for species
   that contain these active compounds
-- [[emcdda-hallucinogenic-mushroom-dose-and-effects]] for dosing
+- [[emcdda-hallucinogenic-mushroom-dose-effects]] for dosing
   information and subjective effects
 - [[emcdda-hallucinogenic-mushroom-health-risks]] for toxicity data
   and health consequences

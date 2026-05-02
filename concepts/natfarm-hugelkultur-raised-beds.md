@@ -124,4 +124,3 @@ need deep, loose soil. In subsequent years, the beds can support a full
 range of vegetables, herbs, and even small fruit bushes. The moisture-
 retaining properties make them particularly valuable in dry climates or
 during drought conditions where consistent watering is difficult.
-

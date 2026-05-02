@@ -115,6 +115,6 @@ Spent substrate retains significant organic matter and microbial life, making it
 - [[mushroom-cultivation-sterile-technique]]
 - [[mushroom-cultivation-fruiting-chambers]]
 - [[shiitake-cultivation-log-method]]
-- [[oyster-mushroom-cultivation]]
-- [[mycoremediation-overview]]
+- [[cotter-oyster-mushroom-cultivation]]
+- [[cotter-mycoremediation-overview]]
 - [[gourmet-mushroom-species-guide]]

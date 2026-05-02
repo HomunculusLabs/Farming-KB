@@ -96,7 +96,7 @@ Successful composting requires:
   alcohols toxic to plants at just 1 ppm)
 - Organic materials with appropriate C:N ratio (around 30:1 is ideal)
 
-See also: [[compost-tea-brewing-guide]], [[bacterial-vs-fungal-soil-dynamics]],
+See also: [[compost-tea-brewing]], [[bacterial-vs-fungal-soil-dynamics]],
 [[mulch-types-effects-soil-biology]], [[earthworm-ecology]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)

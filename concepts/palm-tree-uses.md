@@ -118,8 +118,7 @@ Several palms have spiny trunks and prickly foliage that make effective fence ba
 - **Parajubaea cocoides** — Andean palm, well below 0C, very drought hardy once established. First crop in 3-4 years from nuts resembling and tasting like coconut
 - **Parajubaea torallyi** — Bolivian ravines, 10 months without rain
 - **Phoenix canariensis** — hardy to 45 degrees latitude, sea wind tolerant
-- **Trachycarpus fortunei** (Chinese Windmill Palm) — young flower stem eaten like bamboo shoots
-- **Nannorhops ritchieana** — subtropical mountains to 1,500m
+- **Trachycarpus fortunei** (Chinese Windmill Palm) — young flower stem eaten like bamboo shootspermaculture-designchieana** — subtropical mountains to 1,500m
 
 ## Related
 

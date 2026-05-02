@@ -16,7 +16,7 @@ sources:
 
 ## The Philosophical Foundation
 
-Fukuoka arrived at his farming method through a moment of insight during his youth while working as a plant pathologist. He realized that "nature is an astounding thing that cannot be named" and understood the principle of "nothingness" (Mu). From this came the conviction that human knowledge and action are inherently inferior to the wisdom of nature. While human knowledge is finite and limited to small pockets of time and space, nature's knowledge is vast, boundless, and perfect.
+Fukuoka arrived at his farming method through a moment of insight during his youth while working as a plant pathologist. He realized that "nature is an astounding thing that cannot be named" and understood the principle of "nothingness" (Mu). From this came the conviction that human knowledge and action are inherentlnatural-farminghe wisdom of nature. While human knowledge is finite and limited to small pockets of time and space, nature's knowledge is vast, boundless, and perfect.
 
 Fukuoka divided farming approaches into three categories:
 
@@ -83,7 +83,7 @@ Scientists almost never conduct no-fertilizer cultivation experiments. The stand
 
 ### The Mountain Forest Comparison
 
-Reforested cedars produce 2-4 tons of new growth per year without fertilizer. For fruit trees, this would translate to 2-4 tons of fruit annually -- approximately equal to standard production levels with fertilization. Nature provides all the nutrients needed through rock weathering, microbial activity, and the cycling of organic matter.
+Reforested cedars produce 2-4 tons of new growth per year without fertilizer. For fruit trees, this would translate to 2-4 tons of fruit annually -- approximately equal to standard production levels with fertcomposting Nature provides all the nutrients needed through rock weathering, microbial activity, and the cycling of organic matter.
 
 ### Fukuoka's Position on Compost
 

@@ -14,7 +14,7 @@ in the nightshade family (Solanaceae), native to the Andean regions of
 South America. It is one of the so-called "tree daturas" or "angel's
 trumpets," a group of species within the genus *Datura* characterized by
 their large, pendant, trumpet-shaped flowers and woody growth habit. Like
-all Datura species, *D. candida* contains potent tropane alkaloids and has
+all Datura species, *D. candida* contains potent tropane [[psychedelic-mushroom-dosage-guide|alkaloid]]s and has
 a long history of use and misuse as a hallucinogen, medicine, and
 ceremonial plant in indigenous South American cultures.
 
@@ -115,8 +115,7 @@ The effects of tree datura intoxication are typically characterized by
 intense visual hallucinations (often described as dreamlike or
 nightmarish), profound delirium and confusion, dissociation from reality,
 amnesia for the period of intoxication, and a distorted sense of time and
-space. The experience is widely regarded as dangerous and unpredictable,
-even by experienced practitioners, and is not sought for recreational
+space. The experience is widely regarded as dangerous and unpredictableshamanism experienced practitioners, and is not sought for recreational
 purposes. The line between a therapeutic visionary dose and a toxic,
 potentially fatal dose is narrow and highly variable between individuals.
 In the context of Andean shamanism, the terrifying aspects of the datura
@@ -147,6 +146,3 @@ where its evening fragrance can be appreciated.
 *Datura candida* is extremely toxic and every part of the plant is
 poisonous. Ingestion of even small quantities of leaves, flowers, or
 especially seeds can cause severe anticholinergic poisoning. The onset of
-symptoms is typically within 30 to 60 minutes of ingestion and can persist
-
-Related: [[tree-daturas-brugmansia-south-american-ethnobotany]]

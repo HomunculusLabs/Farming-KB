@@ -145,10 +145,6 @@ See [[food-preservation-canning]] for detailed methods. Quick reference:
 - **Bacon from duck/goat belly**: Cure 7 days, cold smoke 4 hours, cook to 150F
 - **Jerky**: Slice 1/4" strips, marinate, dehydrate at 160F until brittle
 
-## Sausage Making
-
-**Basic fresh sausage ratio** (adjust to taste):
-
 ## See Also
 
 - [[animal-butcher-and-processing]]

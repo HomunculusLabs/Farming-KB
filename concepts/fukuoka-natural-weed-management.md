@@ -69,7 +69,7 @@ thrives.
 
 ## What Fukuoka Did NOT Do
 
-- **No herbicides:** Chemical weed killers are prohibited by the [[fukuoka-four-principles-natural-farming-detailed]]
+- **No herbicides:** Chemical weed killers are prohibited by the [[fukuoka-four-principles-natural-farming]]
 - **No mechanical weeding:** Tillage to control weeds is also prohibited
 — it damages
 soil structure and creates conditions for more weeds

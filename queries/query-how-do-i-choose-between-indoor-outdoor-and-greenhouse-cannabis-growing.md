@@ -105,3 +105,7 @@ from there as your skills with [[cannabis-yield-optimization]] develop.
 - [[first-time-grower-common-mistakes]]
 - [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
 - [[query-how-to-choose-right-grow-light-cannabis]]
+
+## See Also
+
+- [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]

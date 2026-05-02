@@ -1,12 +1,12 @@
 ---
-title: Wicking Bed Construction
+title: wicking bed construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [water-management, gardening, permaculture, sustainability, construction]
+tags: [[water-management]], gardening, [[permaculture]], sustainability, construction]
 sources: []
 ---
-# Wicking Bed Construction
+# wicking bed construction
 A wicking bed is a self-watering garden bed that uses capillary action to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
 ## How Wicking Beds Work
 The wicking bed concept mimics a natural water table:
@@ -112,6 +112,6 @@ The growing medium sits on top of the wicking medium:
 - **Nutrient depletion:** Wicking beds need regular compost top-dressing since nutrients can accumulate in the reservoir over time
 - **Roots clogging overflow:** Trim roots that grow into the overflow pipe during maintenance
 ## Related Concepts
-- [[keyhole-garden-design]] for another self-contained, water-efficient garden bed design
+- [[permaculture-designers-manual-keyhole-garden]] for another self-contained, water-efficient garden bed design
 - [[herb-spiral-construction]] for microclimate-based planting design
 - [[garden-bed-designs]] for intensive, space-efficient garden layout

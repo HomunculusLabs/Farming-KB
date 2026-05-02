@@ -15,14 +15,14 @@ The history of psychedelic research spans nearly a century, from early serendipi
 ### 1943 — LSD's Psychoactive Effects Discovered
 On April 16, Hofmann accidentally absorbs a small amount of LSD through his skin and experiences its extraordinary effects. On April 19, he deliberately ingests 250 micrograms (later recognized as a very high dose) and bicycles home in what becomes the most famous bicycle ride in pharmacological history. April 19 is now celebrated as "Bicycle Day" in psychedelic communities.
 ### 1947 — LSD Introduced to Researchers
-Sandoz begins distributing LSD under the trade name Delysid to researchers and clinicians worldwide. Early research focuses on its use as a model psychosis and as an adjunct to psychoanalysis.
+Sandoz begins distributing LSD under the trade name Delysid to researchers and clinicians worldwide. Early research focuses [[louis-lewin]]as a model psychosis and as an adjunct to psychoanalysis.
 ### 1949 — Mescaline Research Expands
 Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist Louis Lewin in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
 ## 1950s-1960s: The Golden Age of Psychedelic Research
 ### 1953-1956 — CIA MK-Ultra and Project Artichoke
 The CIA conducts covert experiments with LSD as a potential mind-control agent, unknowing dosing subjects including government employees and military personnel. The program remains classified until 1975.
 ### 1954 — Humphry Osmond Coins "Psychedelic"
-British psychiatrist Humphry Osmond suggests the term "psychedelic" (Greek: psyche = mind, delos = manifest) to describe these substances, replacing "psychotomimetic."
+British psychiatrist [[psilocybe-mexicana]]gests the term "psychedelic" (Greek: psyche = mind, delos = manifest) to describe these substances, replacing "psychotomimetic."
 ### 1956 — Psilocybin Isolated
 Albert Hofmann isolates psilocybin and psilocin from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks

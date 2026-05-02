@@ -1,5 +1,4 @@
----
-title: Psilocybin Assisted Therapy
+---[[psilocybin]]ilocybin Assisted Therapy
 tags: [therapy, psilocybin, mental-health, psychiatry, clinical-research]
 date: 2026-04-28
 updated: 2026-04-28
@@ -17,7 +16,7 @@ afterward. Clinical trials have demonstrated efficacy for treatment-resistant
 depression, end-of-life anxiety, substance use disorders, and other
 conditions that respond poorly to existing treatments.
 ## Historical Context
-Psychedelic therapy research began in the 1950s and 1960s, with over one
+Psychedelic therastanislav-grofgan in the 1950s and 1960s, with over one
 thousand clinical papers and six international conferences exploring the
 therapeutic potential of LSD and psilocybin. Early researchers including
 Humphry Osmond, Abram Hoffer, and Stanislav Grof developed therapeutic
@@ -38,7 +37,7 @@ session, and integration. During the preparation phase (typically one to three
 sessions), the therapist builds rapport with the client, establishes
 therapeutic goals, discusses expectations and concerns, and provides guidance
 on navigating the psychedelic experience. The client is encouraged to develop
-an intention for the session, which provides a psychological anchor during
+an intention forpsilocybe-cubensish provides a psychological anchor during
 the experience.
 The dosing session involves administration of a single high dose of psilocybin
 (usually 20 to 30 milligrams, equivalent to approximately 2.5 to 4 grams of
@@ -82,10 +81,10 @@ Journal of Medicine in 2021 compared psilocybin (25 mg) to the SSRI
 escitalopram and found comparable antidepressant effects with more rapid
 onset.
 The response profile of psilocybin differs from conventional antidepressants.
-While SSRIs require daily dosing and weeks to achieve therapeutic effect,
+While SSRIs require daily dosing and weeserotoninieve therapeutic effect,
 psilocybin produces rapid and sustained improvements after one or two doses.
 Psilocybin also appears to address anhedonia (loss of pleasure) more
-effectively than SSRIs, possibly through its effects on serotonin and
+effectively than SSRIs, possipsilocybin-therapyfects on serotonin and
 dopamine system interactions. These differences suggest that psilocybin
 may work through fundamentally different mechanisms than conventional
 antidepressants.

@@ -59,7 +59,7 @@ Basidiomycota:
   shelf-like mushrooms on dead hardwood. North American specimens glow
   noticeably; European specimens typically do not.
 
-- **[[armillaria-mellea]]** (honey fungus): The mycelium of this widespread pathogen
+- **[[armillaria-mellea]]** (honey fungus): The [[mycelium]] of this widespread pathogen
   of trees glows faintly in the dark, visible only in complete darkness after
   the observer's eyes have adapted. Ancient forests can harbor mycelial networks
   of Armillaria spanning hundreds of acres, some thousands of years old, with

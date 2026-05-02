@@ -13,15 +13,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 
 
-
 ## Taxonomy and Description
 
 *Hericium coralloides* is a saprotrophic basidiomycete that grows on dead or dying hardwood trees, particularly oaks (*Quercus* spp.), beeches (*Fagus* spp.), and birches (*Betula* spp.). The fruiting body is distinctive and easily recognized: it forms a branched, coral-like structure from which numerous soft, pendant spines hang downward. These spines are typically 1–3 cm long, white to cream-colored, and occur in cascading clusters that can reach 10–25 cm in total diameter.
 
-Unlike *Hericium erinaceus*, which typically forms a single, unbranched mass of descending spines, *H. coralloides* produces a more openly branched structure with multiple points of attachment to the substrate. This morphological difference is the primary field character for distinguishing the two species.
+Unlike *Hericium erinaceus*, which typically forms a single, uspore-printass of descending spines, *H. coralloides* produces a more openly branched structure with multiple points of attachment to the substrate. This morphological difference is the primary field character for distinguishing the two species.
 
 The spore print is white. Microscopically, the spores are roughly spherical to broadly ellipsoid, smooth, and measure approximately 5–7 × 5–6 µm.
-
 
 
 
@@ -33,15 +31,13 @@ The fungus is primarily associated with hardwood forests and is often found on f
 
 
 
-
 ## Culinary Value
 
 *Hericium coralloides* is an excellent edible mushroom with a delicate flavor and texture often compared to seafood, particularly crab or lobster meat. Like its relative *H. erinaceus*, it is prized by mushroom foragers and is considered one of the finest wild mushrooms for culinary purposes.
 
 When young and fresh, the spines are tender and have a mild, slightly sweet flavor. The mushroom can be prepared in various ways: sautéed in butter, used in soups and sauces, battered and fried, or used as a seafood substitute in vegetarian dishes. Over-mature specimens can become tough and develop a bitter or acrid taste.
 
-Cultivation of *H. coralloides* is possible but less commercially developed than that of *H. erinaceus*. It can be grown on hardwood sawdust substrates supplemented with bran or other nitrogen sources, using methods similar to those employed for other wood-inhabiting mushrooms.
-
+Cultivation of *H. coralloides* is possible but less commercially developed than that of *H. erinaceus*. It can be grown on hardwood sawdust substrates supplemented with bran or other nitrogen sources, using methods similar to those employed formyceliumood-inhabiting mushrooms.
 
 
 
@@ -67,12 +63,11 @@ Additional bioactive compounds reported from *H. coralloides* include various st
 
 
 
-
 ## Medicinal Properties
 
 ### Neuroprotective Effects
 
-The most significant medicinal properties of *H. coralloides* relate to its neuroprotective potential. The erinacine and hericenone compounds produced by the fungus stimulate nerve growth factor (NGF) synthesis, which plays a critical role in the growth, maintenance, and survival of neurons. In animal models, *Hericium* extracts have shown promise in promoting peripheral nerve regeneration following injury, protecting against neuronal damage in models of Alzheimer's and Parkinson's diseases, improving cognitive function in aged animals, and reducing symptoms of anxiety and depression.
+The most significant medicinal properties of *H. coralloides* relate to its neuroprotective potential. The erinacine and hericenone compounds produced by the fungus stimulate nerve growth factor (NGF) synthesis, which plays a critical role in the growth, maintenance, and survival of neurons. In animal models, *Hericium* extracts have shown promise in promoting peripheral nerve regeneration following injury, protecting against neuronal damage in models of Alzheimer's and Parkinson'[[beta-glucans]]improving cognitive function in aged animals, and reducing symptoms of anxiety and depression.
 
 ### Anticancer Activity
 
@@ -84,10 +79,11 @@ Research into the anticancer properties of *Hericium coralloides* has shown prom
 
 
 
-
 ## Comparison with *Hericium erinaceus*
 
 While *Hericium coralloides* shares many bioactive properties with the more extensively studied *H. erinaceus*, it has received comparatively less research attention. Available evidence suggests that the two species produce similar profiles of erinacines, hericenones, and polysaccharides, though quantitative differences in compound concentrations may exist.
+
+
 
 ## See Also
 

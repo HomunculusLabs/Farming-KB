@@ -1,18 +1,16 @@
 ---
 title: "FPJ vs FFJ"
-tags: [comparison, natural-farming, bionutrients, fermentation]
+tags:[[fermented-plant-juice]]-farming, bionutrients, fermentation]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []
----
-
-# FPJ vs FFJ
+-[[natural-farming]]J
 
 ## Overview
 
 Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are two foundational bionutrient preparations in natural farming that share a common fermentation
 method but differ in their source materials, the primary growth hormones or nutrients they deliver, and their ideal application windows across the crop cycle.
-Both use crude sugar or molasses to drive osmotic extraction and microbial fermentation, yet they serve complementary roles that together form a core part of
+Both use crude sugar okorean-natural-farmingmotic extraction and microbial fermentation, yet they serve complementary roles that together form a core part of
 the Korean Natural Farming and bionutrient systems pioneered by Han Kyu Cho and Gil Carandang.
 
 Understanding the distinction between FPJ and FFJ is essential for practitioners who want to apply the right input at the right stage of plant development.
@@ -40,7 +38,7 @@ The general FPJ fermentation process involves chopping the plant material as thi
 molasses by weight, placing in a container with a 50 to 75 percent air gap, covering loosely to allow gas exchange, and fermenting for at least one week.
 Readiness is indicated by mold formation and a sweet, sour, or alcoholic aroma. The liquid is then strained and diluted for application.
 
-FPJ is most effective during the vegetative growth phase. It is applied as a foliar spray or soil drench at a standard dilution of roughly 1:20 to 1:500,
+FPJ is most effective during the vegetative growth phase. It is applied as a foliar spray or soil drench at a standaindigenous-microorganisms20 to 1:500,
 depending on the potency of the source material. Natural farmers commonly combine FPJ with beneficial indigenous microorganisms (BIM) and other bionutrients
 such as fish amino acids and calcium phosphate for a synergistic effect that outperforms any single input alone.
 
@@ -62,7 +60,7 @@ Natural farmers select fruits based on the growth stage they wish to promote: ni
 potassium-rich fruits (banana, papaya, squash, mango) for flowering and fruiting. The Nutrioperiodism framework (Yasushi Inoue, 1930s) formalizes this approach,
 mapping specific nutrients to specific developmental windows and providing a structured guide for input timing.
 
-FFJ has broader multi-purpose applications than FPJ. Beyond foliar spray and soil drench, FFJ can be added to compost piles to boost microbial activity, used as
+FFJ has broader multi-purpose applications than FPJ. Beyond foliar spray and sobokashich, FFJ can be added to compost piles to boost microbial activity, used as
 an animal feed or water supplement, and incorporated into bokashi-style designer composts where potassium enrichment is the goal. The general potency hierarchy
 — seed most potent, then fruit, then leaf — means seed-based ferments require a more dilute 1:1000 application rate versus the standard 1:500.
 

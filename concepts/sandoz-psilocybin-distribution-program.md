@@ -1,5 +1,5 @@
      1|---
-     2|title: Sandoz Psilocybin Distribution Program
+     2|titlpsilocybinPsilocybin Distribution Program
      3|created: 2026-04-19
      4|updated: 2026-04-18
      5|type: concept
@@ -15,11 +15,10 @@
     15|
     16|### Hofmann's Discovery
     17|
-    18|Albert Hofmann first isolated psilocybpsilocybe-mexicanamexicana mushrooms collected in Mexico during the 1956 expedition led by R. Gordon Wasson and Roger Heim. Hofmann identified the active principle, determined its chemical structure, and developed a method for its laboratory synthesis. The synthesis was confirmed in 1958, and Sandoz began manufacturing psilocybin for research purposes.
+    18|Albert Hofmann first isolated psilocybpsilocybe-mexicanamexicana mushrooms collected in Mexico during the 1956 expedition led by R. Gordon W[[roger-heim]]Roger Heim. Hofmann identified the active principle, determined its chemical structure, and developed a method for its laboratory synthesis. The synthesis was confirmed in 1958, and Sandoz began manufacturing psilocybin for research purposes.
     19|
     20|### Sandoz's Role
-    21|
-    22|Sandoz Pharmaceuticals had previously been responsible for the discovery and distribution of LSD-25 (also by Hofmann, in 1943). The company's experience with LSD distribution prepared it for a similar program with psilocybin, though the scale was smaller and the compound was considered less controversial at the time.
+    2[[sandoz-pharmaceuticals]]aceuticals had previously been responsible for the discovery and distribution of LSD-25 (also by Hofmann, in 1943). The company's experience with LSD distribution prepared it for a similar program with psilocybin, though the scale was smaller and the compound was considered less controversial at the time.
     23|
     24|## The Manufacturing Program
     25|

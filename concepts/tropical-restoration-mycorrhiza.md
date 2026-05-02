@@ -1,5 +1,5 @@
 ---
-title: Tropical Restoration Mycorrhiza
+title: Tropical Restmycorrhizacorrhiza
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -119,7 +119,7 @@ Tropical rain forest fragmentation affects AMF-mediated restoration:
 
 ### Monitoring Requirements
 
-Long-term monitoring of restoration success should track:
+Long-term monitosporeof restoration success should track:
 
 - Plant community composition and diversity trajectories
 - AMF community structure and spore populations

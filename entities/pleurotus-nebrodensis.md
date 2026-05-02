@@ -13,8 +13,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 
 
-
-
 ## Taxonomy and Description
 
 *Pleurotus nebrodensis* was first described by the Italian mycologist Giuseppe Inzenga in 1863, who considered it the finest edible mushroom in Sicily. The species was for many years confused with or considered a variety of *Pleurotus eryngii* (king oyster mushroom), from which it can be distinguished by morphological, ecological, and molecular characters.
@@ -24,8 +22,6 @@ The fruiting body is robust and fleshy, with a cap measuring 5–15 cm in diamet
 The gills are decurrent (running down the stem), close, narrow, and white. The stem is short, stout, and eccentric or lateral, typically 2–5 cm long and 1.5–3 cm thick, solid and white. The flesh is thick, firm, and white, with a pleasant mealy or nutty odor and a mild, slightly sweet taste.
 
 The spore print is white to pale pinkish. Spores are cylindrical to ellipsoid, smooth, measuring 9–12 × 4–5 µm.
-
-
 
 
 
@@ -39,8 +35,6 @@ Conservation efforts for *P. nebrodensis* include habitat protection within the 
 
 
 
-
-
 ## Cultivation
 
 Successful cultivation of *Pleurotus nebrodensis* has been achieved using methods adapted from oyster mushroom cultivation technology. The fungus can be grown on various lignocellulosic substrates, including wheat straw, sawdust supplemented with bran, and agricultural waste materials. Optimal fruiting temperatures are in the range of 12–18°C, reflecting its adaptation to the cool mountain environments of its native habitat.
@@ -49,13 +43,9 @@ Cultivated *P. nebrodensis* retains many of the culinary qualities of the wild m
 
 
 
-
-
 ## Nutritional Composition
 
 *Pleurotus nebrodensis* is nutritionally dense, with a composition comparable to or exceeding that of other cultivated *Pleurotus* species. Protein content is 15–25% of dry weight, with a favorable amino acid profile including all essential amino acids. Dietary fiber constitutes 20–35% of dry weight, primarily as chitin and beta-glucans. The mushroom is rich in B vitamins (thiamine, riboflavin, niacin), contains vitamin C, and is a source of ergosterol (provitamin D2). Minerals include potassium, phosphorus, magnesium, zinc, and selenium.
-
-
 
 
 
@@ -84,6 +74,8 @@ Extracts of *P. nebrodensis* have shown anti-inflammatory effects in cell cultur
 ### Hepatoprotective Effects
 
 Some studies have reported hepatoprotective effects of *Pleurotus nebrodensis* extracts in animal models of liver damage induced by toxins such as carbon tetrachloride or acetaminophen.
+
+
 
 ## See Also
 

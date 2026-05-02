@@ -145,9 +145,6 @@ strictipes.
   century.
 - **Psilocybe cyanescens** -- "Wavy caps," originally described from Kew,
   England. Now widespread in western Europe, especially on wood chip mulch.
-- **Inocybe aeruginascens** -- A bluing Inocybe first described from Hungary
-  (Babos 1968), later found widely in central Europe. Caused accidental
-
 ## See Also
 
 - [[guzman-psilocybin-mushrooms-africa]]

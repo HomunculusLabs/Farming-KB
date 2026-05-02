@@ -52,7 +52,7 @@ The altitudinal distribution of *P. villamedinensis*, occurring at elevations ab
 
 ## Similar Species
 
-Within its range, *P. villamedinensis* may be confused with other neotropical bluing Psilocybe species such as [[psilocybe-caerulescens]], [[psilocybe-zapotecorum]], and psilocybe venezuelae. These species share overlapping macroscopic features and habitat preferences.
+Within its range, *P. villamedinensis* may be confused with other neotropical bluing Psilocybe species such as [[psilocybe-caerulescens-entity]], [[psilocybe-zapotecorum]], and psilocybe venezuelae. These species share overlapping macroscopic features and habitat preferences.
 Microscopic characters, particularly spore size and shape, are important for differentiation. The Venezuelan Psilocybe flora includes several species that can be difficult to separate without careful examination.
 The presence of pleurocystidia in *P. villamedinensis* may help distinguish it from some congeners, though this character requires microscopic observation and is not always reliable as a sole diagnostic feature. Molecular identification using ITS barcoding would provide the most definitive means of species confirmation. However, the limited availability of reference sequences for Venezuelan Psilocybe species in public databases such as GenBank currently constrains the utility of DNA-based identification for this species.
 
@@ -73,7 +73,7 @@ The El Ávila National Park and other protected areas in the Venezuelan Andes ma
 
 ## See Also
 
-- [[psilocybe-caerulescens]]: neotropical species with overlapping distribution
+- [[psilocybe-caerulescens-entity]]: neotropical species with overlapping distribution
 - [[psilocybe-zapotecorum]]: widely distributed neotropical psilocybian species
 - psilocybe venezuelae: Venezuelan congener
 - [[psilocybin]]: primary psychoactive compound

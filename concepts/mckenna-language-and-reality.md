@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [psychedelics, ethnobotany]
-sources: []
+sources:
+  - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
 # McKenna on Language and Reality

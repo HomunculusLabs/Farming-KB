@@ -137,7 +137,7 @@ Key risk factors for adverse effects include:
 
 ## Related Topics
 
-- [[emcdda-hallucinogenic-mushroom-dose-and-effects]] for dosing and
+- [[emcdda-hallucinogenic-mushroom-dose-effects]] for dosing and
   acute effects that precede health risks
 - [[emcdda-psilocybin-pharmacology-and-chemistry]] for the chemical
   basis of toxicity

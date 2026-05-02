@@ -79,7 +79,9 @@ Oyster mushrooms will develop fuzzy, elongated stems in stagnant conditions, so 
 The SGFC can work for small-scale oyster grows but is generally not recommended as a primary fruiting chamber for these aggressive, air-hungry species that thrive in high-FAE environments.
 Both chamber designs can be adapted with supplemental humidification (ultrasonic foggers or cool mist humidifiers piped into the chamber) to maintain higher humidity levels for species that require more moisture.
 Some growers modify their monotubs with additional holes or larger filter patches when growing species known to be heavy CO2 producers, sacrificing some humidity retention for improved fresh air exchange.
-### Related Topics
+### Related
+
+- [[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] Topics
 - [[monotub-cultivation]] provides complete step-by-step instructions for growing in monotubs.
 - [[shotgun-fruiting-chamber]] explains the original SGFC design and daily maintenance routine.
 - [[fruiting-chamber-design]] compares multiple fruiting chamber designs including Martha tents and greenhouse-style setups.

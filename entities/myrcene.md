@@ -4,7 +4,7 @@ type: chemical
 tags: [terpene, cannabis, sedative, anti-inflammatory, monoterpene]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
+sources: [/Users/t3rpz/wiki/racannabis-sativadern-farm-why-cannabis-grown-with-lab-might-produce.md]
 ---
 
 # Myrcene
@@ -13,13 +13,11 @@ Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an ac
 
 
 
-
 ## Chemical Properties
 
 Myrcene has the molecular formula C10H16 and a molecular weight of 136.23 g/mol. It is an unsaturated hydrocarbon consisting of a ten-carbon isoprene-derived chain with two double bonds. At room temperature, myrcene is a colorless to pale yellow liquid with a characteristic earthy, herbal, and slightly fruity aroma reminiscent of cloves, thyme, and tropical fruits such as mango.
 
 Myrcene exists in two isomeric forms: α-myrcene and β-myrcene, with the beta isomer being far more common in nature and of greater biological significance. The compound is lipophilic and volatile, contributing to the characteristic aroma of many essential oils and plant resins.
-
 
 
 
@@ -35,21 +33,19 @@ Myrcene is one of the most widely distributed terpenes in the plant kingdom and 
 
 
 
-
 ## Role in Cannabis
 
 ### Entourage Effect
 
-Myrcene is a key participant in the entourage effect—the synergistic interaction between cannabinoids, terpenes, and other cannabis constituents that modulates the overall pharmacological activity of the plant. Myrcene has been shown to enhance the activity of tetrahydrocannabinol (THC) by increasing the permeability of the blood-brain barrier and cell membranes, facilitating the uptake of THC and other cannabinoids into tissues. It also modulates cannabinoid receptor (CB1 and CB2) signaling through allosteric interactions and contributes its own pharmacological effects that complement and amplify those of cannabinoids.
+Myrcene is a key participant in the entourage effect—the synergistic interaction between cannabinoids, terpenes, and other cannabis constituents that modulates the overall pharmacological activity of the plant. Myrcene has been shown to enhance the activity of tetrahydrocannabinol (THC) by increasing the permeability of the blood-brain barrier and cell membranes, facilitating the uptake of THC and other cannabinoids into tissues. It also modulates cannabinoid recepcannabis-chemotype-classificationgh allosteric interactions and contributes its own pharmacological effects that complement and amplify those of cannabinoids.
 
 ### Chemotype Determination
 
-Myrcene content is one of the primary determinants of cannabis chemotype classification. Indica-dominant cultivars typically contain higher levels of myrcene (associated with sedative, relaxing effects), while sativa-dominant cultivars tend to have lower myrcene and higher levels of more energizing terpenes such as limonene and pinene.
+Myrcene content is one of the primary determinants of cannabis chemotype climoneneation. Indica-dominant cultivars typically contain higher levels of myrcene (associated with sedative, relaxing effects), while sativa-dominant cultivars tend to have lower myrcene and higher levels of more energizing terpenes such as limonene and pinene.
 
 ### Cultivation Factors Affecting Myrcene Content
 
 Myrcene levels are influenced by numerous agronomic and environmental factors including genetics (the primary determinant), light spectrum (UV-B can upregulate terpene biosynthesis), nutrient availability (adequate phosphorus and micronutrients support terpene production), harvest timing (myrcene typically peaks late in the flowering cycle), and drying and curing conditions.
-
 
 
 
@@ -77,11 +73,9 @@ Myrcene exhibits moderate antioxidant activity, scavenging free radicals and red
 
 
 
-
 ## Safety and Toxicology
 
 Myrcene is generally recognized as safe (GRAS) by the United States Food and Drug Administration for use as a flavoring agent. It is widely consumed through dietary sources including hops in beer, mangoes, lemongrass tea, and numerous herbs and spices. Oral LD50 values in animal studies are relatively high (>5 g/kg in rodents), indicating low acute toxicity.
-
 
 
 

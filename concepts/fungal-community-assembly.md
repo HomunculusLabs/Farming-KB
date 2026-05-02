@@ -92,7 +92,7 @@ Contemporary studies of fungal community assembly increasingly employ DNA-based 
 - [[fungal-biogeography]]
 - [[fungal-biodiversity-soil-habitats]]
 - [[fungal-communities-succession]]
-- [[fungal-endemism-biogeography]]
+- [[fungal-endemism-and-biogeography]]
 - [[fungal-diversity-estimation-methods]]
 - [[alpha-beta-gamma-diversity-fungi]]
 - [[fungal-biodiversity-forest-floor]]

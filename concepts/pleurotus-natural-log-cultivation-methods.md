@@ -139,7 +139,6 @@ hardwoods have been used successfully. The wood should be freshly
 cut (within the past month) and from healthy trees. Coniferous
 woods are generally unsuitable for most Pleurotus species, though
 some strains show tolerance for softwoods.
-
 ## See Also
 
 - [[jadam-rice-cultivation-methods]]

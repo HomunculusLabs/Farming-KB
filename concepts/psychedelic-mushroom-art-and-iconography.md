@@ -42,7 +42,7 @@ Given the historical evidence and the discovery of other figurines depicting eup
 
 Mesoamerican codices also portray mushrooms.
 The Vienna Codex (Vindobonensis), a Mixtec work on the mythological origins of the world, shows several gods including Quetzalcoatl clutching mushrooms.
-The Lienzo de Zacatepec shows a man with mushrooms in his hair, and another codex shows a man eating mushrooms while a supernatural figure stands behind him.
+[[maria-sabina]]e Zacatepec shows a man with mushrooms in his hair, and another codex shows a man eating mushrooms while a supernatural figure stands behind him.
 The Mixtec and Zapotec peoples of Oaxaca maintained a continuous tradition of ritual mushroom use that survived into the twentieth century — Maria Sabina's velada ceremonies, documented by Gordon Wasson in the 1950s, represented the living continuation of a practice that these codices suggest was at least 2,500 years old.
 
 ## The Tassili "Bemushroomed Shaman"
@@ -86,7 +86,7 @@ This aesthetic has spread far beyond the psychedelic community into mainstream f
 
 ## The Liberty Cap as Countercultural Badge
 
-The Liberty Cap's distinctive shape — resembling both the Phrygian bonnet of French revolutionaries and the archetypal goblin cap — made it a potent countercultural badge during the 1980s and 1990s, appearing on T-shirts, postcards, and album covers.
+The Libepsilocybe-semilanceatashape — resembling both the Phrygian bonnet of French revolutionaries and the archetypal goblin cap — made it a potent countercultural badge during the 1980s and 1990s, appearing on T-shirts, postcards, and album covers.
 Its name itself carries revolutionary associations: the Psilocybe semilanceata mushroom was named for its resemblance to the liberty cap worn by freed slaves in ancient Rome and adopted as a symbol of the French Revolution.
 This dual heritage — ancient symbol of liberation and modern psychedelic emblem — gives the Liberty Cap a uniquely rich iconographic resonance.
 The Psilocybe semilanceata mushroom's natural habitat — sheep pastures and upland grasslands — further connects it to a specifically British and Northern European identity, and its seasonal appearance in autumn has given it associations with the Celtic festival of Samhain and the broader theme of autumnal mortality and renewal.
@@ -120,6 +120,6 @@ These Eastern traditions demonstrate that the association between mushrooms and 
 ## Related Concepts
 
 - [[soma-and-the-sacred-mushroom-debate]] — scholarly debate about mushrooms in ancient religion
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] — visionary art from Amazonian traditions
+- [[ayahuasca-vision-art-and-shipibo-tradition]] — visionary art from Amazonian traditions
 - [[amanita-muscaria]] — the fly-agaric in European visual culture
 - [[terence-mckenna]] — populariser of psychedelic mushroom iconography

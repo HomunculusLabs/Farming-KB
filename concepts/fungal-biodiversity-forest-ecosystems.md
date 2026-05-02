@@ -13,11 +13,9 @@ sources:
 
 
 
-
 ## Overview
 
 Forests harbor the greatest diversity of fungi of any terrestrial ecosystem. A single well-studied temperate forest site can yield 2,500 to 3,000 fungal species across approximately 200 hectares when surveyed over 25 or more years by specialists. The ratio of fungal species to native plant species in a given area is roughly 6:1, underscoring how poorly fungal diversity is captured by plant-centric surveys.
-
 
 
 
@@ -37,7 +35,6 @@ Fungal diversity in forests is distributed across multiple microhabitats:
 
 
 
-
 ## Species Richness Estimates
 
 In temperate forests, macrofungal (mushroom-forming) diversity alone can exceed 1,000 species at a single site. When microfungi from litter, soil, wood, and plant tissues are included, total fungal diversity rises dramatically. Hawksworth's (1991) widely cited estimate of 1.5 million fungal species globally was considered conservative even at the time of publication; molecular evidence from tropical forest surveys has since suggested the true number could be far higher.
@@ -48,11 +45,9 @@ No single forest site on Earth has been comprehensively surveyed for all fungal 
 
 
 
-
 ## Seasonal and Successional Patterns
 
 Fungal fruiting in temperate forests is strongly seasonal, with peak basidiomycete fruiting in autumn. However, ascomycetes may fruit year-round depending on moisture conditions. Succession on woody debris follows predictable patterns: early colonizers of fresh wood give way to secondary and tertiary decomposers as the resource chemistry changes (see [[fungal-decomposition]]).
-
 
 
 
@@ -72,11 +67,9 @@ Forest fungi perform essential ecosystem functions:
 
 
 
-
 ## Conservation Implications
 
 Forest fungal diversity is threatened by deforestation, forest management practices that remove dead wood, and habitat fragmentation. See  for approaches to protecting fungal biodiversity in forest ecosystems.
-
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: synthetic tryptamine methods
+title: syntryptamineptamine methods
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -63,7 +63,7 @@ Primary tryptamines can be N-methylated through formylation followed by LAH redu
 ## Safety and Practical Considerations
 
 - LAH is pyrophoric and must be handled under inert atmosphere with rigorous exclusion of moisture
-- Many free-base tryptamines are sensitive to air oxidation; storage as hydrochloride or other stable salt form is preferred
+- Many free-base tryptamines are sensitive to air oxidation; stpsilocin hydrochloride or other stable salt form is preferred
 - Oxalyl chloride is a corrosive lachrymator requiring fume hood work
 - The 4-hydroxy tryptamines (psilocin family) are particularly oxidation-sensitive and may require immediate use or careful stabilization
 

@@ -1,13 +1,13 @@
 ---
-title: Homestead Water Systems
+title: homestead water systems
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, water, water-management, engineering, filtration]
+tags: [[homesteading]], water, [[water-management]], engineering, filtration]
 sources: []
 ---
 
-# Homestead Water Systems
+# homestead water systems
 
 A reliable water supply is the foundation of any homestead. Off-grid and rural water systems must provide adequate quantity and quality for drinking, cooking, irrigation, livestock, and sanitation. A well-designed homestead water system typically combines a water source, a delivery mechanism, storage, and treatment.
 

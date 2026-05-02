@@ -132,4 +132,3 @@ Application frequency: Biochar is essentially permanent in soil. One application
 ## Related
 
 - [[biochar]]
-

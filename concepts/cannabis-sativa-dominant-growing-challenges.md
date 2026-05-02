@@ -1,5 +1,4 @@
----
-title: Cannabis Sativa-Dominant Growing Challenges
+---[[cannabis-sativa]]s Sativa-Dominant Growing Challenges
 created: 2026-04-23
 updated: 2026-04-23
 type: concept

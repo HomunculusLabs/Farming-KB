@@ -1,17 +1,11 @@
 ---
-title: Blueberry Growing Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cultivation, gardening, fruit-tree, ph, beginner, harvesting]
-sources: []
----
+ti
 ## Overview
 Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation and variety selection, blueberries are reliable and productive in home gardens across most temperate regions.
 ## Soil Acidification
 Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critical growing requirement and the most common reason for failure.
 ### Testing and Targeting pH
-- Test soil pH before planting — most garden soils are too alkaline (pH 6.0-7.5)
+- Test [[acid-and-alkaline-soil-management|soil pH]] before planting — most garden soils are too alkaline (pH 6.0-7.5)
 - Target pH 4.5-5.0 for optimal growth and nutrient uptake
 - At higher pH, blueberries develop iron chlorosis (yellowing leaves with green veins) and fail to thrive
 - Test annually — pH tends to drift upward over time
@@ -138,6 +132,6 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Fresh berries last 1-2 weeks refrigerated
 - Freeze on baking sheets, then transfer to bags — lasts 6-12 months
 ## See Also
-- [[strawberry-growing-guide]] for companion small fruit management
+- berry growing guide for companion small fruit management
 - [[apple-tree-care]] for companion orchard tree care
 - [[backyard-orchard-design]] for integrating blueberries into orchard layouts

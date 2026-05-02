@@ -26,9 +26,7 @@ sources:
 - **Family:** Gigasporaceae
 - **Genus:** Gigaspora
 
-The genus *Gigaspora* is characterized by its large spores formed at the tips of bulbous sporogenous cells, and by the formation of auxiliary cells in the extraradical mycelium rather than vesicles within roots. Molecular phylogenetic studies have confirmed that *Gigaspora* and its sister genus *Scutellospora* form a distinct clade within the Glomeromycota, separate from the Glomeraceae.
-
-## Morphology
+The genus *Gigaspora* is characterized by its large spores formed at the tips of bulbous sporogenous cells, and by the formation of auxiliary cells in the extraradical mycelium rather than vesicles within roots. Molecular phylogenetic studies have confirmed that *Gigaspora* and its sister genus *Scutellospora* form a distinct clade within the Glomeromycota, separate from the Glofungal-spores Morphology
 
 ### Spores
 - **Spore Formation:** Spores are formed singly at the tip of a bulbous sporogenous cell (subtending hypha), which swells noticeably near the point of spore attachment
@@ -55,7 +53,7 @@ The genus *Gigaspora* is characterized by its large spores formed at the tips of
 - **Host Range:** Broad, capable of colonizing most terrestrial plant families, though there may be host preferences and differences in colonization efficiency
 - **Phosphorus Nutrition:** As with other AM fungi, *G. marginata* enhances plant phosphorus uptake through its extensive extraradical mycelial network
 - **Nutrient Exchange:** Carbon flows from plant to fungus, while phosphorus and other mineral nutrients flow from fungus to plant
-- **Soil Exploration:** The extraradical mycelium of *Gigaspora* species is extensive and can explore large soil volumes, enhancing nutrient acquisition beyond the root depletion zone
+- **Soil Exploration:** The extraradical mycelium of *Gigaspora* species is extensive and can explore large soil volumes, enhectomycorrhizal-fungisition beyond the root depletion zone
 
 ## Stable Isotope Ecology
 

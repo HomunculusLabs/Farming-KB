@@ -129,7 +129,7 @@ that runs deep into the soil to discourage encroaching roots.
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
 

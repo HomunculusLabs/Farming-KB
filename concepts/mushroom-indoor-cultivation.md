@@ -98,4 +98,4 @@ Controlled-environment mushroom growing using enclosed chambers to manage temper
 - [[mushroom-sterile-technique-detailed]] -- SAB/flow hood procedures, contamination prevention
 - [[mushroom-substrates]] -- Grain spawn, bulk substrates, supplementation
 - [[mushroom-species-guide]] -- Species-specific temperature and humidity ranges
-- [[mushroom-pests-and-diseases]] — pests and diseases
+- [[cotter-mushroom-pests-diseases]] — pests and diseases

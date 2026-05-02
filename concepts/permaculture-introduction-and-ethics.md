@@ -89,5 +89,5 @@ Permaculture seeks first to stabilise and care for land, then to serve household
 - [[permaculture-design]] -- Design methods and processes
 - [[permaculture-principles]] -- Design principles derived from the ethics
 - [[permaculture-patterns-in-nature]] -- Pattern understanding as a design tool
-- [[permaculture-zone-and-sector-analysis]] -- Spatial organisation of design
+- [[zone-sector-analysis-guide]] -- Spatial organisation of design
 - [[permaculture-currency-and-economics]]

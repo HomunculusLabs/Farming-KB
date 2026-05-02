@@ -109,6 +109,8 @@ All three pasteurization methods have been performed by disabled trainees. The c
 
 ## See Also
 
+- [[pasteurization-in-mushroom-cultivation]]
+
 - [[mushroom-cultivation-disabilities-training-manual-overview]]
 - [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]
 - [[mushroom-pasteurization]]

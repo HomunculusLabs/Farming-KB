@@ -18,7 +18,6 @@ medicine, and biotechnology.
 
 
 
-
 ## Major Phyla
 
 Fungi are classified into several major phyla, each with distinct ecological
@@ -48,7 +47,6 @@ roles and morphological characteristics:
 
 
 
-
 ## Cryptic Diversity
 
 A significant challenge in fungal taxonomy is the prevalence of cryptic
@@ -58,7 +56,6 @@ Transcribed Spacer) region, have revealed that many described "species" are
 actually species complexes containing dozens of unrecognized taxa. Environmental
 DNA (eDNA) sampling from soil, water, and air has further uncovered vast
 communities of fungi that have never been observed directly.
-
 
 
 
@@ -76,14 +73,13 @@ undocumented species.
 
 
 
-
 ## See Also
 
 - [[fungal-diversity-mediterranean-ecosystems]]
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
 - [[molecular-methods-in-situ-fungal-diversity-monitoring]]
 
-- [[fungal-endemism-biogeography]]
+- [[fungal-endemism-and-biogeography]]
 - [[environmental-dna-fungal-survey]]
 - Cryptic Speciation in Fungi
 - [[mycorrhizal-network-diversity]]

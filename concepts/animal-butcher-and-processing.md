@@ -1,17 +1,16 @@
 ---
-title: Animal Butcher and Processing
+title: animal butcher and processing
 created: 2026-04-12
 updated: 2026-04-12
-type: concept
-tags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
+tyhomesteadingtags: [animal-husbandry, [[homesteading]], livestock, byproducts, processing, preservation]
 sources: []
 ---
-# Animal Butcher and Processing
-On-farm slaughter and processing is a fundamental homesteading skill that
+# [[livestock-fencing-guide|animal]] butcher and processing
+On-farm slaughter and processing is a fundamental [[homesteading]] skill that
 provides complete control over meat quality, animal welfare at harvest, and
 food safety. Processing your own animals eliminates processing fees and
 allows full utilization of every part of the animal. This guide covers the
-general process applicable to most homestead livestock (poultry, rabbits,
+general process applicable to most homestead livestock (poultry, [[rabbit-husbandry|rabbit]]s,
 sheep, goats, pigs, and cattle).
 
 ## Legal Considerations
@@ -147,6 +146,3 @@ sheep, goats, pigs, and cattle).
 - **Cutting order:** Remove legs first, then separate chuck/shoulder from
   rib/loin, then break individual cuts.
 - **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
-  beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.
-
-Related: [[animal-harvest-and-processing]], [[faires-meat-processing-curing-and-smoking]], [[rabbit-processing-guide]]

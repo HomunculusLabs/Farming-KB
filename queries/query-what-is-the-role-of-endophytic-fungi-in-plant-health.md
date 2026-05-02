@@ -96,6 +96,8 @@ Growers can work with endophytic fungi to improve crop health:
 
 ## Related
 
+- [[query-what-is-the-role-of-fungi-in-decomposition]]
+
 - [[query-what-is-the-role-of-protozoa-in-soil-health]] Questions
 
 - [[query-how-mycorrhizal-fungi-help-plants]]

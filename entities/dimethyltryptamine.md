@@ -38,7 +38,7 @@ DMT is a non-selective serotonergic agonist with the following primary receptor 
 
 ### Pharmacokinetics
 
-- **Oral:** Inactive without MAO inhibition (e.g., [[ayahuasca-vision-art-and-Shipibo-tradition]] β-carbolines); active with harmine/harmaline co-administration, lasting 4-6 hours
+- **Oral:** Inactive without MAO inhibition (e.g., [[ayahuasca-vision-art-and-shipibo-tradition]] β-carbolines); active with harmine/harmaline co-administration, lasting 4-6 hours
 - **Vaporized/Smoked:** Onset in 15-60 seconds, peak at 2-5 minutes, duration 15-45 minutes; plasma levels reach ~10-20x those of oral administration
 - **Intravenous:** Onset in 30-60 seconds, duration 30-45 minutes
 - **Intramuscular:** Onset in 2-5 minutes, duration 45-60 minutes
@@ -113,7 +113,7 @@ Extraction from plant material (notably [[entheogen-jurema-mimosa-hostilis-ethno
 - [[bufotenin-entity-tihkal]] — 5-hydroxy-DMT; found in toad venom and Anadenanthera seeds
 - [[lsd-lysergic-acid-diethylamide-experience-guide]] — ergoline derivative sharing the dimethylamine motif; acts at the same 5-HT₂A receptor
 - [[serotonin]] — endogenous neurotransmitter; structural template for all tryptamine psychedelics
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] — traditional DMT-containing brew with MAO-inhibiting β-carbolines
+- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional DMT-containing brew with MAO-inhibiting β-carbolines
 - [[entheogen-jurema-mimosa-hostilis-ethnobotany]] — primary botanical source of DMT for extraction
 
 ## See Also
@@ -121,5 +121,5 @@ Extraction from plant material (notably [[entheogen-jurema-mimosa-hostilis-ethno
 - [[tryptamine-consciousness-theory]] — parent compound class
 - [[psilocybin]] — mushroom-derived 5-HT₂A agonist with overlapping pharmacology
 - [[5-meo-dmt-compound-profile]] — more potent methoxy analogue
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] — traditional Amazonian DMT preparation
+- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional Amazonian DMT preparation
 - [[serotonin]] — endogenous neurotransmitter whose receptors mediate DMT's effects

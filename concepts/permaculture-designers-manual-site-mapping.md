@@ -100,7 +100,7 @@ It is best to plan all aspects of the earth-moving process before the machines o
 
 - [[permaculture-designers-manual-designer-checklist]] for what to map.
 - [[permaculture-designers-manual-client-interview]] for gathering site information.
-- [[permaculture-designers-manual-keyline-design]] for contour-based water systems.
+- [[keyline-design]] for contour-based water systems.
 - [[permaculture-designers-manual-dam-construction]] from mapped sites.
 - [[permaculture-designers-manual-swale-design-detailed]] following contour.
 - [[permaculture-designers-manual-climate-factors]] to map.

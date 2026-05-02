@@ -107,7 +107,7 @@ Be honest with medical professionals about what substances were taken. Most juri
 - Fireside Project (firesideproject.org) — psychedelic peer support hotline
 ## See Also
 - [[psychedelic-integration-guide]] — post-experience care and integration
-- [[five-meo-dmt-reference]] — substance-specific harm reduction considerations
+- [[5-meo-dmt-reference]] — substance-specific harm reduction considerations
 - [[salvinorin-reference]] — safety considerations for salvinorin A
 ## Related
 - [[microdosing-guide]]

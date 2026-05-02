@@ -1,5 +1,5 @@
 ---
-title: Primordia Formation and Pinning in Mushroom Cultivation
+title: Primordia Formation and Pinnmushroom-cultivationivation
 created: 2026-04-26
 tags:
   - mycology
@@ -81,7 +81,7 @@ As the mushroom enlarges, differentiation of familiar features
 occurs. The cap, stem, veil, and gills emerge. The cap functions
 much like an umbrella, safeguarding the spore-producing gills from
 wind and rain. Many mushrooms grow towards light. A study by
-Badham (1985) showed that with some species, cap orientation is
+Badham (1985) showed that withmedicinal-mushroomsorientation is
 foremost affected by the direction of air currents, then by light,
 and finally by gravity.
 
@@ -90,8 +90,7 @@ and finally by gravity.
 The sensitivity of mushrooms to light is surprising to many who
 have heard that mushrooms like to grow in the dark. In fact, most
 gourmet and medicinal mushrooms require and favorably react to
-light. The development of mushrooms is affected by light in two
-ways. Initially, primordia form when exposed to light. Even though
+light. The development of mushrooms is affected by lioyster-mushrooms Initially, primordia form when exposed to light. Even though
 thousands of primordia can form in response to brief light
 exposure, these primordia will not develop into normal-looking
 mushrooms unless light is sustained.

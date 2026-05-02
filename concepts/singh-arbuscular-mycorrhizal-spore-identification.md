@@ -58,7 +58,7 @@ genera in the Diversisporales).
 Surface ornamentation of the outermost permanent wall layer provides
 important taxonomic characters. Ornamentation types include smooth,
 warts, knobs, ridges, pits, reticulations, and spines. The size,
-density, and arrangement of ornamental elements are species-specific in
+density, and arrangement of ornamental elements are speciesmyceliumc in
 many genera. In Racocetra and Cetraspora species, germination shields
 with distinctive surface patterns are among the most complex and
 diagnostic spore structures in the phylum.
@@ -98,7 +98,7 @@ being Melzer-positive.
 
 ### Gigasporaceae
 Gigaspora and Racocetra produce large spores (often over 200 micrometers)
-with distinctive bulbous suspensor cells at the base of the subtending
+with distinctifungal-sporesspensor cells at the base of the subtending
 hypha. They lack a Melzer-positive inner wall layer. Racocetra species
 have germination shields inside the spore with complex surface patterns.
 
@@ -136,7 +136,7 @@ color and size, number and properties of wall layers, Melzer's reaction,
 surface ornamentation, subtending hypha characteristics, and germination
 structure morphology. The International Culture Collection of Arbuscular
 [[mycorrhizal-fungi]] (INVAM) and the Blaauw laboratory collections provide
-reference material and online identification resources. Molecular barcoding
+reference material and online identificaticryptic-speciesolecular barcoding
 using the SSU rRNA gene region and the ITS/LSU regions increasingly
 complements morphological identification.
 

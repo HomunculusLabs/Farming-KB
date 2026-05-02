@@ -1,12 +1,12 @@
 ---
-title: [[substrate-preparation-for-mushroom-cultivation]]
+title: [[cotter-substrate-preparation]]
 tags: [mycology, cultivation, substrate, mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 
-# [[substrate-preparation-for-mushroom-cultivation]]
+# [[cotter-substrate-preparation]]
 
 substrate preparation is the foundational step in [[mushroom-cultivation]] that
 determines the success or failure of the entire grow. The substrate is the

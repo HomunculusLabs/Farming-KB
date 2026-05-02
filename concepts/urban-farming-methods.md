@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [urban, gardening, cultivation, beginner, design, community]
-sources: []
+sources:
+  - /Users/t3rpz/wiki/raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md
 ---
 ## Overview
 Urban farming brings food production into cities and densely populated areas. With creative approaches to space, light, and soil, urban farmers can produce significant amounts of food on rooftops, balconies, vacant lots, and small yards. This guide covers container gardening, vertical growing, rooftop gardens, SPIN farming, and community gardens.

@@ -138,7 +138,6 @@ The Bongha village case study demonstrated that a 320-acre rice farming
 community applying JADAM natural pesticide four times per season spent
 only 9 dollars per acre on pest control. This represents the practical
 realization of [[jadam-ultra-low-cost-agriculture]] in pest management.
-
 ## See Also
 
 - [[jadam-pest-control-with-natural-pesticides-jhs]]

@@ -123,7 +123,6 @@ Livestock suffer severely during heat waves because they cannot escape condition
 - livestock health — Livestock health monitoring during stress events
 - [[water-management]] — Water supply and irrigation during drought and heat
 
-
 ## Related
 
 - [[winter-storm-preparedness]]

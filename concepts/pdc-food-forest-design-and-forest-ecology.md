@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 sources: william-ozier-williams-pdc_-a-permaculture-design-cours
-tags: [permaculture, pdc, food-forest, agroforestry, forest-ecology, succession]
+tags: [ppermaculture pdc, food-forest, agroforestry, forest-ecology, succession]
 ---
 
 # PDC [[food-forest-design]] and Forest Ecology

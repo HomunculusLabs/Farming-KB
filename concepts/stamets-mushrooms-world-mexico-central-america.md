@@ -40,7 +40,7 @@ field-forest interfaces, most common at 1000-1800 meters elevation. Reported
 from June through September in subtropical Mexico (Michoacan, Morelos, Jalisco,
 Oaxaca, Puebla, western Xalapa).
 
-### [[psilocybe-caerulescens]] Murrill
+### [[psilocybe-caerulescens-entity]] Murrill
 
 One of the species most prized by Oaxacan shamans. Known for its strong
 bluing reaction and moderate to high potency. Distributed throughout

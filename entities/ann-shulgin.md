@@ -32,13 +32,11 @@ Ann Shulgin (1931-2024) was an American therapist, author, and research partner 
 
 
 
-
 ## Key Contributions
 
 - **Co-author of PIHKAL (1991) and TIHKAL (1997):** The first half of each book contains autobiographical narrative from Ann's perspective, describing their research sessions, personal experiences, and the interpersonal dynamics of their psychedelic exploration. PIHKAL documents 179 phenethylamine compounds; TIHKAL covers tryptamines. Ann's narrative portions transform what could have been dry chemical catalogs into rich, human stories about the search for new psychoactive substances and their effects on consciousness.
 - **Therapeutic orientation:** Trained as a therapist with a master's degree in psychology, Ann brought a clinical and relational perspective to psychedelic research. She worked extensively with individuals in therapeutic contexts using MDMA and other compounds, developing approaches that prefigured the current resurgence of interest in psychedelic-assisted therapy.
 - **MDMA therapy pioneer:** One of the first therapists to work with MDMA in clinical settings before its emergency scheduling in 1985, using it for couples therapy, PTSD treatment, and personal growth. Her therapeutic work with MDMA informed the drug's controversial scheduling and the subsequent decades of advocacy for its medical use.
-
 
 
 
@@ -61,7 +59,6 @@ Ann Shulgin (1931-2024) was an American therapist, author, and research partner 
 
 
 
-
 ## PIHKAL's Structure and Significance
 
 PIHKAL ("Phenethylamines I Have Known and Loved") is divided into two parts. The first part, written as a love story and autobiographical novel by Ann, chronicles the Shulgins' life together, their research sessions with new compounds, and the community of researchers and psychonauts who participated in their work. The second part contains the detailed chemical and pharmacological data for 179 phenethylamine compounds synthesized by Sasha, including synthesis instructions, dosage ranges, duration, qualitative effects, and safety notes. This dual structure — human narrative paired with scientific data — made PIHKAL unique in the psychedelic literature.
@@ -72,11 +69,9 @@ PIHKAL ("Phenethylamines I Have Known and Loved") is divided into two parts. The
 
 
 
-
 ## Legacy
 
 Ann's contribution to PIHKAL and TIHKAL provided the human context that made the chemistry accessible and meaningful. Her emphasis on set, setting, and therapeutic intent complemented [[timothy-leary]]'s earlier work on these concepts and anticipated the frameworks being developed in modern psychedelic-assisted therapy. Her clinical experience with MDMA contributed directly to the evidence base that has supported the drug's progression through clinical trials for PTSD treatment.
-
 
 
 

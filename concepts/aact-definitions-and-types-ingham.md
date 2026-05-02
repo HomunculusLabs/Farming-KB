@@ -87,7 +87,7 @@ From a biological perspective, people are not that different from plants. Both n
 
 AACT works by re-establishing these natural biological protection systems on plant surfaces and in soil.
 
-See also: [[compost-tea-aact]], [[compost-tea-brewing-guide]], [[compost-tea-brewing-methods]], [[compost-tea-recipe-guide]], [[aact-compost-organism-levels]]
+See also: [[compost-tea-aact]], [[compost-tea-brewing]], [[compost-tea-brewing-methods]], [[compost-tea-recipe-guide]], [[aact-compost-organism-levels]]
 - [[aact-brewing-ingredients-ingham]]
 - [[aact-aeration-oxygen-management-ingham]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]

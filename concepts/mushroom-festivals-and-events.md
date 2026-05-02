@@ -67,7 +67,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Expert-led field walks in productive mushroom habitats
 - Focus on identification, ecology, and responsible foraging
 - Duration: half-day to multi-day
-- Difficulty levels from beginner to advanced
+- Difficulty levels from bspore-printadvanced
 - Specimens collected for identification tables and discussion
 
 ### Identification Workshops
@@ -109,7 +109,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 
 ### North America
 - North American Mycological Association (NAMA): Umbrella organization for ~150 local clubs
-- Local clubs host regular forays, meetings, and workshops
+- Local clubs host regular forays, meefungal-biodiversitys
 - Membership benefits: newsletters, foray access, identification help
 - Many clubs maintain regional species databases and checklists
 - Volunteer citizen science programs for fungal biodiversity monitoring
@@ -131,7 +131,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Documentation of seasonal patterns and climate change effects
 
 ### Conservation and Stewardship
-- Foray data contributes to conservation assessments
+- Foray data contributes to cofungal-ecologyessments
 - Rare species records inform habitat protection decisions
 - Events promote sustainable foraging practices (see [[mushroom-foraging-safety-guide]])
 - Public education about fungal ecology and forest health

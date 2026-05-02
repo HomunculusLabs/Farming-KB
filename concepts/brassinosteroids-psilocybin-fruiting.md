@@ -128,4 +128,4 @@ Gartz's discovery opens several avenues for future research:
 - [[mushroom-strain-selection-genetics]] -- Improving cultivation results
 - [[gartz-european-psychoactive-mushroom-species]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]

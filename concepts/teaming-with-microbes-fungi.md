@@ -82,3 +82,23 @@ See also: [[teaming-with-microbes-bacteria]], [[teaming-with-microbes-overview]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
 - [[teaming-with-microbes-soil-minerals-cation-exchange]]
+
+## Fungi in Compost Systems
+
+In compost systems, fungi are the primary decomposers of lignin and
+cellulose — the tough structural compounds that bacteria cannot efficiently
+break down. A compost pile dominated by fungal activity tends to be cooler,
+slower-decomposing, and produces a more stable, humus-rich finished compost.
+This is the type of compost preferred for perennial plantings, shrubs, and
+trees. Bacterial-dominated compost, by contrast, decomposes quickly at
+higher temperatures and is better suited for annual vegetables and grasses.
+
+The book emphasizes that most garden soils are bacterial-dominated due to
+tillage, fertilizer use, and disturbance. Shifting the balance toward more
+fungal biomass benefits perennial systems including orchards, food forests,
+and ornamental landscapes. Strategies to encourage fungi include reducing
+tillage, applying woody mulches, incorporating fungal-dominated compost,
+and avoiding high-nitrogen synthetic fertilizers that favor bacterial
+growth. Testing the fungal-to-bacterial ratio through direct microscopy
+or proxy methods provides a baseline for tracking soil biology improvements
+over time.

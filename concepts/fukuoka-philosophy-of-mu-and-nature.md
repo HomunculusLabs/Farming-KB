@@ -92,7 +92,7 @@ has neither beginning nor end, before nor after.
 
 ## Practical Implications
 
-The philosophy of Mu leads directly to the [[fukuoka-four-principles-natural-farming-detailed]]: no cultivation, no chemical fertilizer,
+The philosophy of Mu leads directly to the [[fukuoka-four-principles-natural-farming]]: no cultivation, no chemical fertilizer,
 no weeding,
 and no pesticides. It also informs Fukuoka's [[fukuoka-natural-diet-philosophy]] — food should be local, seasonal, and eaten in its whole
 form.
@@ -114,5 +114,5 @@ framework
 
 ## Related
 
-- [[fukuoka-god-nature-man-as-one]]
+- [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-do-nothing-health-philosophy]]

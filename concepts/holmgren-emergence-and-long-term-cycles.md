@@ -93,7 +93,6 @@ Drawing on thinkers like Oswald Spengler and Arnold Toynbee, Holmgren explores c
 In the context of energy descent, information becomes increasingly valuable relative to material resources. Holmgren notes that permaculture design knowledge, ecological literacy, and practical skills are forms of wealth that appreciate rather than depreciate. The transmission of this knowledge through education, demonstration, and practice represents a critical strategy for building resilient communities. See [[homestead-education-resources]].
 
 See also: [[holmgren-permaculture-change-principle]], [[holmgren-ecological-succession-and-pulsing]], [[holmgren-ecosynthesis-and-weedscape-ecology]], [[permaculture-principles]], [[permaculture-retrofit-suburbia]]
-
 ## Related
 
 - [[holmgren-long-rotation-forestry-slow-growth]]

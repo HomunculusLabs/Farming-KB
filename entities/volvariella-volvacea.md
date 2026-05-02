@@ -81,7 +81,7 @@ Additionally, *V. volvacea* contains thermostable toxins that can cause acute ki
 
 ## See Also
 
-- [[coprinus-comatus]]
+- [[coprinus-comatus-detailed]]
 - [[amanita-phalloides]]
 - [[agaricus-bisporus]]
 - [[pleurotus-ostreatus]]

@@ -100,3 +100,7 @@ two of planting.
 - [[query-how-to-start-a-food-forest]]
 - [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]]
 - [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
+
+## See Also
+
+- [[query-how-to-design-a-food-forest-on-a-slope]]

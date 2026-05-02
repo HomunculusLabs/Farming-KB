@@ -109,7 +109,7 @@ This setup mushroom-pasteurization|pasteurizes 80-100 mushroom-substrates|substr
 - [[mushroom-cultivation-environmental-parameters]] — temperature, humidity, and CO2 requirements
 - [[substrate-bag-preparation]] — preparing and pasteurizing substrate
 - [[homestead-mushroom-business]] — economics and scale considerations
-- [[paddy-straw-mushroom-volvariella-cultivation]] — alternative cultivation method for Volvariella
+- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] — alternative cultivation method for Volvariella
 - [[mushroom-cultivation-troubleshooting-guide]] — diagnosing common cultivation problems
 - [[mushroom-lighting-and-environmental-requirements]]
 - [[mushroom-environmental-parameters]]

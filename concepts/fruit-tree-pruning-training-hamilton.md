@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [plants, gardening]
-sources: []
+sources:
+  - raw/papers/organic-gardening-geoff-hamilton.md
 ---
 
 # Fruit Tree Pruning and Training (Hamilton Method)
@@ -93,7 +94,7 @@ Branches are bent into severe curves to restrict sap flow and encourage fruiting
 ## See Also
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
@@ -105,4 +106,4 @@ Branches are bent into severe curves to restrict sap flow and encourage fruiting
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]

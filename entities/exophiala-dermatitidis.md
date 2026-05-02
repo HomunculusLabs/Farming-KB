@@ -5,7 +5,7 @@ tags: [pathogen, melanin, ascomycete, human-disease, virulence-factor]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
+  - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-[[sarah-c-watkinson]]-paul-s-dyer-fungi-in-the-environment.md
 ---
 
 # Exophiala dermatitidis
@@ -126,5 +126,5 @@ Comparative genomics between E. dermatitidis and related black yeasts is providi
 
 - [[cryptococcus-neoformans]] for another melanized pathogen with capsule-melanin interactions
 - [[aspergillus-fumigatus]] for comparative cell wall and melanin biology
-- histoplasma-capsulatum for another dimorphic fungal pathogen
+- [[histoplasma-capsulatum]] for another dimorphic fungal pathogen
 - [[candida-albicans]] for a non-melanized opportunistic pathogen for comparison

@@ -124,7 +124,6 @@ foods should be kept refrigerated and consumed within a few weeks. The
 brine can be saved and used as a starter for the next batch, carrying the
 beneficial bacteria forward.
 
-
 ## See Also
 
 - [[natfarm-sheet-mulching-garden-preparation]]

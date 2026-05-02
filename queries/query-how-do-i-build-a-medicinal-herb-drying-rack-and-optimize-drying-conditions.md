@@ -15,7 +15,7 @@ sources: []
 
 ## Why Proper Drying Matters for Medicinal Herbs
 
-Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stability of active compounds—alkaloids, essential oils, flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, enzymatic degradation of medicinal constituents, or uneven curing that creates hot spots of decomposition.
+Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stabilidecompositioncompounds—alkaloids, essential oils, flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, enzymatic degradation of medicinal constituents, or uneven curing that creates hot spots of decomposition.
 
 The goal is to remove moisture steadily and completely while preserving the maximum concentration of the phytochemicals you grew the herb for in the first place.
 

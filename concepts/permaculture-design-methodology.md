@@ -71,6 +71,30 @@ Most effective site planning results from incremental adaptation of proven desig
 
 Develop the nearest area first, get it under control, then expand the perimeter. Any soil, with effort and compost from recycled wastes, will grow a good garden -- stay close to home.
 
+
+## The Eight Methods in Practice
+
+Mollison's eight design methods are not mutually exclusive but
+complementary tools that can be combined depending on site conditions and
+designer preference. The methods are: Analysis (systematic site assessment
+and element placement), Overview (holistic pattern reading), Design by
+Deduction (applying known principles to site conditions), Lateral Thinking
+(breaking assumptions to find novel solutions), Flow Diagrams (mapping
+energy and material flows), Random Assembly (generating unexpected
+combinations for evaluation), Data Overlay (layering maps of different
+factors), and Incremental Design (starting small and adapting). Most
+experienced designers develop a personal synthesis that draws on several
+methods.
+
+The Analysis method remains the most widely taught and practiced approach.
+It begins with a thorough site inventory — mapping climate, soil, water,
+vegetation, existing structures, and human factors — then overlays desired
+elements and uses logical placement based on needs and yields. Zones
+(distance-from-house frequency analysis) and sectors (incoming energies
+like sun, wind, fire, and views) are the primary organizing frameworks.
+The result is a site plan that minimizes energy waste by placing
+frequently-used elements close to the point of use and locating elements
+to capture or deflect incoming energies as appropriate.
 ## See Also
 
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]

@@ -35,10 +35,10 @@ Often have massive amounts of grass cuttings with no disposal means and are glad
 In rural areas where farmers do not bale straw, ask to gather some before disposal. Important: check that the straw has not been sprayed with chemicals before collecting.
 
 ### Tomato Growers
-Used grow bags at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further composting. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
+Used grow bags at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further [[composting]]. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
 
 ### Local Government (Leaves)
-Leaves from municipal collection are often available. They may contain trash (cigarette packs, etc.) that is easy to remove. Lead contamination from car exhaust is a concern, but composting should reduce it to acceptable levels.
+Leaves from municipal collection are often available. They may contain trash (cigarette packs, etc.) that is easy to remove. Lead contamination from car exhaust is a concern, but [[composting]] should reduce it to acceptable levels.
 
 
 
@@ -61,9 +61,9 @@ Leaves are slow to rot because they contain lignin. Expect to wait at least one 
 
 
 
-## Sheet Composting
+## [[sheet-composting]]
 
-For gardeners who lack time for proper composting but refuse to throw away organic matter. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
+For gardeners who lack time for proper [[composting]] but refuse to throw away organic matter. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
 
 - Useful only in productive areas where aesthetics are not important
 - Works well on paths between rows or as mulch around fruit trees
@@ -81,6 +81,6 @@ For gardeners who lack time for proper composting but refuse to throw away organ
 
 ## Related
 
-- [[compost-container-types]] — container designs for proper composting
+- [[compost-container-types]] — container designs for proper [[composting]]
 - [[animal-manure-guide]] — animal manures as compost material and fertilizer
 - [[soil-conditioners-guide]] — alternative soil conditioners including leaf mold and green compost

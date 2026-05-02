@@ -9,8 +9,7 @@ sources: []
 # Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
 ## Overview
 Echinacea, commonly known as purple coneflower, is one of the most
-commercially important medicinal herbs in North America. Native to the
-prairies and open woodlands of central and eastern North America, echinacea
+commercially important medicinal herbs in North America. Natherbal-medicineries and open woodlands of central and eastern North America, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
 widely used immune-supporting herbs in Western herbal medicine. Three species
 are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
@@ -88,7 +87,7 @@ Root cuttings:
 - Deadhead to encourage extended blooming, or leave seed heads for birds
 - E. purpurea will self-seed moderately in the garden
 ## Pests and Diseases
-Echinacea is relatively trouble-free but watch for:
+Echinacea is relativelneemouble-free but watch for:
 - Aster yellows: A phytoplasma disease causing green, distorted flowers.
   Remove and destroy infected plants immediately.
 - Japanese beetles: May defoliate plants; handpick or use neem.

@@ -83,7 +83,7 @@ Stamets proposes mycorestoration -- using fungi to restore damaged habitats -- a
 - [[biodiversity-of-fungi-ecosystem-services-agriculture]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[mycoforestry]]
-- [[mycofiltration]]
+- [[unknown-mycelium-mycofiltration]]
 - [[mycelium-running-bioremediation-mushroom-projects]]
 - [[mycelium-running-remediating-toxic-waste]]
 - [[mycelium-natures-internet]]

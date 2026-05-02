@@ -1,5 +1,5 @@
 ---
-title: Yeast Biology Guide
+[[yeast-biology]]Biology Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Yeast Biology Guide
 
-Yeasts are single-celled fungi that reproduce primarily by budding (blastoconidia). While many fungal groups include yeast forms, the term "yeast" most commonly refers to members of [[ascomycete-phylum-guide|Ascomycota]], particularly Saccharomyces cerevisiae. Yeasts are among the oldest domesticated organisms, with evidence of yeast use in fermentation dating back over 9,000 years.
+Yeasts are single-celled fungi that reproduce primarily by budding (blassaccharomyces-cerevisiaeungal groups include yeast forms, the term "yeast" most commonly refers to members of [[ascomycete-phylum-guide|Ascomycota]], particularly Saccharomyces cerevisiae. Yeasts are among the oldest domesticated organisms, with evidence of yeast use in fermentation dating back over 9,000 years.
 
 ## What is a Yeast?
 
@@ -80,7 +80,7 @@ Wild yeasts are present on fruit skins, in soil, and in the environment. Importa
 
 ### Spontaneous Fermentation
 Relies on wild yeasts present on fruit, in the winery/brewery, or in the environment. More unpredictable but can produce complex, terroir-expressive results. Common in:
-- Belgian lambic and gueuze beers (cooled in coolships, exposed to air)
+- Belgian lambic and gueuze beers (cooled in coolactic-acid-bacteriair)
 - Natural wines (no inoculated yeast)
 - Traditional cider making
 

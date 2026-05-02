@@ -102,7 +102,7 @@ There are no well-documented traditional or indigenous uses of *Gymnopilus aerug
 
 ## See Also
 
-- [[gymnopilus-aeruginosus-entity]]
+- gymnopilus aeruginosus
 
 - [[gymnopilus-luteofolius]] — Related psychoactive species with similar coloration
 - [[gymnopilus-purpuratus]] — South American psychoactive Gymnopilus species

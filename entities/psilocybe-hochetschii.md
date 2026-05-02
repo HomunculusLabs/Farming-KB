@@ -16,13 +16,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 
 
-
-
 ## Taxonomy and Etymology
 
 The species was described from collections made in tropical or subtropical regions. The specific epithet "hochetschii" honors the collector or mycologist associated with its original discovery. It has not been subject to modern phylogenetic analysis and its placement within Psilocybe sensu stricto or the broader Psilocybe|Psilocybe s.l. clades remains unresolved.
-
-
 
 
 
@@ -49,13 +45,9 @@ The species was described from collections made in tropical or subtropical regio
 
 
 
-
-
 ## Distribution and Habitat
 
 Reported from tropical and subtropical regions, likely associated with forested or grassland habitats. Specific details on substrate preference and geographic range are sparsely documented. Like many tropical Psilocybe species, it may fruit on rich organic soils, decaying plant material, or in association with particular grasses.
-
-
 
 
 
@@ -71,8 +63,6 @@ The species is presumed to contain [[psilocybin]] and [[psilocin]] based on its 
 
 
 
-
-
 ## Similar Species
 
 May be confused with other small, brown Psilocybe species from tropical regions, including [[psilocybe-cubensis-potency-variation-by-flush]] in its immature state, or various inactive Mycena and Conocybe species. Microscopic examination is generally required for reliable identification.
@@ -82,11 +72,14 @@ May be confused with other small, brown Psilocybe species from tropical regions,
 
 
 
-
-
 ## Notes
 
 Due to the scarcity of documented collections and limited modern study, the validity, distribution, and chemistry of this species remain poorly characterized. Additional field work and molecular phylogenetic studies are needed to clarify its taxonomic status.
+
+
+
+
+
 
 ## See Also
 

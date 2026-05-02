@@ -9,7 +9,7 @@ sources:
 ---
 # The Road Back to Nature
 
-*The Road Back to Nature* (in Japanese, 自然に還る) is [[natural-farming-fukuoka]]'s second major work after [[one-straw-revolution-overview]]. While the earlier book focused on [[fukuoka-natural-farming-philosophy-of-mu]] and [[fukuoka-four-principles-natural-farming-detailed]], this book expands into a broader philosophical, spiritual, and global vision. It documents Fukuoka's travels, his observations of Western and Japanese culture, and his attempts at [[fukuoka-desert-greening-techniques-detailed]] around the world.
+*The Road Back to Nature* (in Japanese, 自然に還る) is [[natural-farming-fukuoka]]'s second major work after [[one-straw-revolution-overview]]. While the earlier book focused on [[fukuoka-natural-farming-philosophy-of-mu]] and [[fukuoka-four-principles-natural-farming]], this book expands into a broader philosophical, spiritual, and global vision. It documents Fukuoka's travels, his observations of Western and Japanese culture, and his attempts at [[fukuoka-desert-greening-techniques-detailed]] around the world.
 
 ## Structure and Themes
 

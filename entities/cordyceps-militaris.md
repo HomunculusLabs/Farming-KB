@@ -9,9 +9,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Cordyceps militaris
 
-**Cordyceps militaris** (commonly known as the scarlet caterpillar club) is an entomopathogenic
+**Cordyceps militaris** (coneurotropic-fungihe scarlet caterpillar club) is an entomopathogenic
 fungus in the family Clavicipitaceae that parasitizes the pupae and larvae of Lepidoptera
-(butterflies and moths). Along with [[cordyceps-sinensis]], it is one of two Cordyceps
+(butterflies and moths). Along with [[cordyceps-sinensis]], it is oneindoleo Cordyceps
 species included in the third group of neurotropic fungi classified by Guzmán, Allen, and Gartz
 (2000). Unlike many [[psilocybin]]-containing mushrooms, its bioactive profile is dominated by
 cordycepin (3'-deoxyadenosine) and other nucleoside derivatives rather than indole alkaloids.
@@ -36,7 +36,7 @@ The fruiting body (stroma) is bright orange to orange-red, club-shaped to cylind
 cm tall and 2 to 6 mm in diameter. It arises singly or in clusters (sometimes 10 or more from
 a single host) from the buried host insect, typically a lepidopteran pupa or larva. The surface
 is finely roughened and dotted due to the partially embedded perithecia (flask-shaped fruiting
-structures). The stroma is fleshy when fresh but becomes tough and brittle when dry. The color
+structures). The stroma is fleshy when fresh but becomes tough and britmycelium dry. The color
 is remarkably vivid and uniform, making it one of the most visually distinctive of all
 Cordyceps species.
 
@@ -92,7 +92,7 @@ vasodilatory, anti-inflammatory, and neuroprotective effects.
 
 ### Ergosterol and Ergosterol Peroxide
 
-Sterol compounds with demonstrated antioxidant, anti-inflammatory, and antitumor properties.
+Sterol compounds with demonstrated antiobeta-glucans-inflammatory, and antitumor properties.
 
 ### Cordycepic Acid (D-Mannitol)
 
@@ -117,7 +117,7 @@ This has made it an important commercial species:
 
 ### Solid-State Cultivation
 
-The most common method uses sterile grain substrates (rice, wheat, or millet) inoculated with
+[[fruiting-body-development]]es sterile grain substrates (rice, wheat, or millet) inoculated with
 pure culture. Cultivation is performed in controlled environment chambers or grow rooms with
 regulated temperature (18 to 25°C), humidity (80-95%), light (some light exposure is required
 for fruiting body development and carotenoid production), and ventilation. Fruiting bodies

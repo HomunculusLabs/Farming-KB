@@ -87,4 +87,4 @@ In modern Shipibo communities around Pucallpa and Iquitos, the Sachamama continu
 
 - [[ayahuasca-visions]] -- source cosmology and visionary art
 - [[shipibo-icaros-healing-songs]]
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]

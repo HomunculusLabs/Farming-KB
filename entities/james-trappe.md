@@ -35,13 +35,11 @@ Prominent American mycologist and world authority on ectomycorrhizal fungi and t
 
 
 
-
 ## Research Contributions
 
 Trappe's work has been instrumental in establishing the ecological significance of mycorrhizal partnerships. His research demonstrated that subterranean truffles serve as a critical food source for forest mammals — he showed that voles and flying squirrels eat truffles in old-growth forests, and in turn, spotted owls prey on the flying squirrels and voles, creating a fungal-mammal-raptor food chain that underscores how fungal networks underpin entire forest ecosystems.
 
 His work on fungal spore dispersal revealed that many forest mushrooms cannot be cultivated because they require living tree partners — the fungal mycelium must maintain an active symbiotic relationship with plant roots to complete its lifecycle. This insight is essential context for understanding why [[saprotrophic-fungi]] are the primary candidates for human cultivation and [[mycorestoration-overview]], while most forest mushrooms remain dependent on their host trees.
-
 
 
 
@@ -66,11 +64,9 @@ His work on fungal spore dispersal revealed that many forest mushrooms cannot be
 
 
 
-
 ## Significance for Cultivation and Restoration
 
 Trappe's research helps explain the practical limitations of [[mushroom-cultivation-basics]] for many desirable species. While saprotrophic mushrooms like shiitake and oyster mushrooms can be grown on dead organic matter, mycorrhizal species like chanterelles, porcini, and truffles require living plant hosts. This distinction is fundamental to understanding [[mycoforestry]] and [[fungal-ecosystem-roles]] — successful forest management must account for the fungal partners that trees depend on for nutrient uptake.
-
 
 
 

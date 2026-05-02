@@ -30,7 +30,7 @@ as a premier species for [[mycoforestry]],
 
 Stamets's first major [[mycofiltration-membrane-construction]] experiment
 used garden giant mycelium at his farm on Skookum Inlet, Washington.
-He installed a 50-by-200-foot bed of [[mycofiltration]]
+He installed a 50-by-200-foot bed of [[unknown-mycelium-mycofiltration]]
 by spreading [[mushroom-cultivation-basics-spawn-biology-palmer]] over several truckloads of wood chips in a natural swale.
 
 The results were remarkable:

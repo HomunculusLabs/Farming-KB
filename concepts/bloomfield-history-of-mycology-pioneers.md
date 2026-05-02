@@ -145,9 +145,6 @@ of their Fungi Hypogaei (1851) were printed.
 
 **Anton de Bary (1831-1888)**: German mycologist who authored Comparative
 Morphology and Biology of the Fungi, Mycetozoa and Bacteria (1887). He
-discussed the Tulasne brothers' work and accused Ernst Hallier of "pleomorphic
-extravagances."
-
 ## See Also
 
 - [[bloomfield-buller-experimental-mycology]]

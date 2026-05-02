@@ -130,6 +130,6 @@ Williams recommends evaluating the design against these criteria:
 - [[permaculture-site-analysis]]
 - [[permaculture-mapping-and-reading-the-landscape]]
 - [[permaculture-design-methods]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[permaculture-climate-classification]]

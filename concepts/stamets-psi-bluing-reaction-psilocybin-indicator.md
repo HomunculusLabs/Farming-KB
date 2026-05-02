@@ -137,4 +137,3 @@ reliable identification methods combine:
 - psilocybe-semilanceata - notable for not bluing
 - [[mushroom-identification]] - comprehensive identification methods
 - Galerina - deadly species that may appear to blue
-

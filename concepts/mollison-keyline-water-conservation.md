@@ -14,7 +14,7 @@ Source: Bill Mollison, [[permaculture]]: A Designers' Manual (Chapter 7, Section
 
 ## Overview of [[keyline-design]]
 
-Mollison identifies P.A. Yeomans' Water for Every Farm / The Keyline Plan (1981) as the pioneering modern text on landscape design for water conservation and gravity-fed irrigation. See also [[permaculture-designers-manual-keyline-design]] for more detailed keyline design principles.
+Mollison identifies P.A. Yeomans' Water for Every Farm / The Keyline Plan (1981) as the pioneering modern text on landscape design for water conservation and gravity-fed irrigation. See also [[keyline-design]] for more detailed keyline design principles.
 
 Originally written in 1954, it was the first book in English on total water design for foothill farms, encompassing access, tree belts, soil creation, low tillage, and creative water storage.
 

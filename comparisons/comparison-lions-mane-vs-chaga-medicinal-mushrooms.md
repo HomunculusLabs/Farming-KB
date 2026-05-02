@@ -1,6 +1,6 @@
 ---
 title: Lion's Mane vs Chaga — Medicinal Mushroom Comparison
-tags: [medicinal-mushrooms, mycology, health, natural-medicine]
+tags: [[hericium-erinaceus]]s, mycology, [[inonotus-obliquus]]edicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]

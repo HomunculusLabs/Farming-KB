@@ -136,6 +136,8 @@ strategies.
 
 ## See Also
 
+- [[comparison-phytoremediation-vs-mycoremediation-detail]]
+
 - [[phytoremediation-mechanisms]]
 - bioremediation using fungi
 - [[bioremediation-ecosystem-restoration]]

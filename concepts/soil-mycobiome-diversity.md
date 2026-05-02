@@ -128,5 +128,5 @@ challenging and expensive.
 - [[fungal-ecology-and-decomposition]]
 - [[mycorrhizal-symbiosis-mechanisms]]
 - [[mycelial-network-communication]]
-- [[fungal-secondary-metabolites]]
+- [[bloomfield-fungal-secondary-metabolites]]
 - [[bioluminescent-fungi]]

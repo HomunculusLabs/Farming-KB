@@ -3,13 +3,13 @@ title: Old Fruit Variety Selection
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [permaculture, fruit-tree, orchard, plant-catalog, species, homesteading, agriculture, fruiting, cultivation]
-sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
+tags: [[permaculture]], fruit-tree, orchard, plant-catalog, species, [[homesteading]], agriculture, fruiting, cultivation]
+sources: [raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md]
 ---
 
-# Old Fruit Variety Selection
+# old fruit variety selection
 
-Sepp Holzer has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
+[[sepp-holzer]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
 
 
 

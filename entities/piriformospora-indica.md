@@ -142,12 +142,9 @@ incomplete understanding of non-target ecological effects.
 
 ## Key References
 
-- Verma, A. et al. (1998). "Piriformospora indica, gen. et sp. nov." *Mycologia*
-  90(5): 896–903.
-- Weiss, M. et al. (2011). "Sebacinales everywhere: previously overlooked ubiquitous
-  fungal endophytes." *PLoS ONE*.
-- Zuccaro, A. et al. (2011). "Endophytic life strategies decoded by genome and
-  transcriptome analyses of Serendipita indica."
-- Waller, F. et al. (2005). "The endophytic fungus Piriformospora indica
-  reprograms barley to salt-stress tolerance, disease resistance, and higher yield."
-  *PNAS* 102(38): 13386–13391.
+## See Also
+
+- [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]
+- [[mycorrhiza-root-exudates]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[mycorrhizal-carbon-phosphorus-exchange]]

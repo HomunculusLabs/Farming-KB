@@ -129,7 +129,6 @@ so valued by their communities that formal legalization follows naturally.
 - "There is so much potential for growing food in the cities and suburbs, taking over
   abandoned rubble lots and rooftops and lawns and starting community gardens."
 
-
 ## See Also
 
 - [[guerilla-gardening-tactics]]

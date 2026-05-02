@@ -116,7 +116,7 @@ the exploitive farming practices of a single generation."
 - [[natural-farming-fukuoka]]
 - [[fukuoka-living-soil]]
 - [[fukuoka-natural-farming]]
-- [[fukuoka-four-principles-natural-farming-detailed]]
+- [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-straw-mulch-philosophy]]
 - [[fukuoka-soil-building-approach]]
 - [[fukuoka-clover-and-green-manure-cropping]]

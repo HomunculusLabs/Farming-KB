@@ -27,7 +27,7 @@ sources:
 
 Fruiting stage management, growing chamber construction, casing materials, and drying/storage for psilocybin mushrooms, based on Gottlieb's Psilocybin Producer's Guide (1976), the Magic Mushroom Grower's Guide, and Badham's experimental studies on light initiation and tropisms.
 
-Related: [[psilocybin-mushroom-cultivation]], [[mushroom-indoor-cultivation]], [[pf-tek-guide]], [[mushroom-substrates]]
+Related: [[psilocybin-cultivation]], [[mushroom-indoor-cultivation]], [[pf-tek-guide]], [[mushroom-substrates]]
 
 ## Fruiting Stages (Gottlieb, 1976)
 
@@ -120,7 +120,7 @@ Badham's wind tunnel experiments (Mycologia, 1982) revealed how developing mushr
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation]] — Species overview, PF TEK, monotub, light requirements
+- [[psilocybin-cultivation]] — Species overview, PF TEK, monotub, light requirements
 - [[psilocybin-liquid-culture]] — Mycelial liquid culture method and species parameters
 - [[mushroom-indoor-cultivation]] — General indoor growing environments and parameters
 - [[pf-tek-guide]] — Complete PF TEK documentation

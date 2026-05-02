@@ -80,7 +80,7 @@ Termitomyces species cultivated by Macrotermitinae termites in tropical Africa a
 - [[fungicolous-fungi-parasites-associates]]
 - [[soil-fungal-isolation-techniques]]
 - [[fungal-culture-preservation-methods]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 
 ## Related
 

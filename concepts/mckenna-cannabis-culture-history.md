@@ -81,4 +81,8 @@ McKenna's survey of cannabis history in Chapter 10 is more than archaeology; it 
 By demonstrating cannabis's deep roots in partnership-oriented cultures and its systematic suppression by dominator institutions, he reframes the cannabis question from a matter of public health or criminal justice to a civilizational choice about which values to cultivate.
 The chapter stands as one of McKenna's most historically grounded contributions to the ethnobotanical literature, grounding his larger theory of cultural evolution in specific archaeological, linguistic, and literary evidence.
 ## See Also
-- [[mckenna-opium-history-demeter-poppy]]
+- [[mckenna-opium-history-demeter-poppy]] — companion chapter on opium and cultural history
+- [[mckenna-food-of-the-gods-thesis]] — overview of the complete work
+- [[mckenna-tryptamine-psilocybin-consciousness-evolution]] — McKenna's psilocybin theories
+- [[psychedelic-set-and-setting]] — the role of intention in psychedelic experiences
+- [[cannabis-ancient-history]] — broader cannabis history context

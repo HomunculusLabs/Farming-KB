@@ -146,3 +146,5 @@ from bacterial to fungal dominance corresponds with increasing glomalin
 accumulation as ecosystems mature. Glomalin exemplifies the central thesis
 of Lowenfels and Lewis: that biological processes, not chemical inputs, are
 the foundation of soil health and plant productivity.
+
+

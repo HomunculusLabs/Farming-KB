@@ -1,13 +1,13 @@
 ---
-title: Pig Husbandry
+title: pig husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health, forage]
+tags: [animal-husbandry, [[homesteading]], livestock, byproducts, livestock-health, forage]
 sources: []
 ---
 
-# Pig Husbandry
+# pig husbandry
 
 Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
@@ -145,9 +145,6 @@ Pigs are notorious for testing and destroying fencing.
 - Farrowing typically takes 2-6 hours. Piglets born every 10-20 minutes.
 - Dry each piglet immediately, clear airways, ensure first colostrum.
 - Dip navels in iodine.
-- Process piglets (iron injection, clip needle teeth, dock tails, castrate
-  males) within first 3 days.
-
 ## See Also
 
 - [[pig-husbandry-permaculture]]

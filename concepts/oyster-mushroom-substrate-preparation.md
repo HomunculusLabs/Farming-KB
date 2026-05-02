@@ -115,7 +115,7 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 - Substrate too compacted (lack of air exchange)
 
 ## Related
-- [[oyster-mushroom-cultivation]] — for the complete cultivation cycle
+- [[cotter-oyster-mushroom-cultivation]] — for the complete cultivation cycle
 - [[oyster-mushroom-spawn-production]] — for making spawn
 - [[mushroom-cultivation-bulk-substrates]] — for broader substrate knowledge
 - [[mushroom-cultivation-sterile-technique]] — for cleanliness practices

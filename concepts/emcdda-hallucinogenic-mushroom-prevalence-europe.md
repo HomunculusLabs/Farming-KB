@@ -126,5 +126,5 @@ despite legal sales, only 16% report easy access.
   data
 - [[emcdda-hallucinogenic-mushroom-legal-status-europe]] for how
   legal changes affected availability
-- [[emcdda-hallucinogenic-mushroom-dose-and-effects]] for effects that
+- [[emcdda-hallucinogenic-mushroom-dose-effects]] for effects that
   influence use patterns

@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [knf]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # Cho Han-Kyu: Life, Philosophy, and the Foundation of Korean Natural Farming

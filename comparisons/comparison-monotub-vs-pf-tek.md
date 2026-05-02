@@ -10,14 +10,13 @@ sources: []
 
 ## Overview
 
-[[monotub-cultivation]] and [[pf-tek-guide]] represent two foundational
-approaches to growing mushrooms at home, each occupying a different position on
+[[monotub-cultivation]] and [[pf-tek-guide]] represent two foundationapsilocybe-fanaticuswing mushrooms at home, each occupying a different position on
 the spectrum of complexity, cost, and yield.
 
 PF TEK (Psilocybe Fanaticus Technique) was first published in 1992 and remains
 the most accessible entry point for home mycology. Monotub cultivation builds
-on the principles of grain spawn and bulk substrate to achieve significantly
-higher yields in a more streamlined process.
+on the principles of grain spsubstrate-preparatione to achieve significantly
+higfruiting-chambermore streamlined process.
 
 The two methods differ primarily in their substrate preparation, sterilization
 requirements, fruiting chamber design, and overall scalability. PF TEK uses a
@@ -39,7 +38,7 @@ is naturally resistant to bacterial contamination. The mixture is loaded into
 half-pint wide-mouth mason jars and topped with a dry vermiculite barrier that acts as a contaminant filter during inoculation
 and gas exchange. Sterilization is accomplished by boiling the jars in a large
 pot with a towel on the bottom for 60 to 90 minutes. While not as thorough as
-pressure cooking, this steam sterilization is sufficient for the relatively
+pressure cooking, this steam sspore-syringeis sufficient for the relatively
 contamination-resistant BRF/verm substrate. After
 cooling, the jars are inoculated with a spore syringe through holes punched in
 the lid and covered with micropore tape or similar breathable material.
@@ -104,8 +103,7 @@ advantage over PF TEK.
 
 | Feature | PF TEK | Monotub |
 |---|---|---|
-| Pressure cooker needed | No (steam sterilization) | Yes (for grain spawn) |
-| Substrate | BRF + vermiculite | Grain spawn + bulk CVG |
+| Pressure cooker needed | No (steam sterilization) | Yes (for grain [[substrate-pasteurization]]RF + vermiculite | Grain spawn + bulk CVG |
 | Sterilization method | Boiling pot | Pressure cooker (15 PSI) |
 | Substrate pasteurization | Not needed | Bucket tek or heat pasteurization |
 | Typical container | Half-pint jars | 50-80 quart plastic bin |

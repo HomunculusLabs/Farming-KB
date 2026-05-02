@@ -69,7 +69,7 @@ available as granules, powders, or WP (wettable powder) formulations.
 Application methods include mixing Trichoderma into potting soil at a rate of
 one to two grams per liter of medium, making a root drench by dissolving the
 product in non-chlorinated water, or brewing it into an actively aerated compost
-tea. For compost tea applications, follow the [[compost-tea-brewing-guide]] and
+tea. For compost tea applications, follow the [[compost-tea-brewing]] and
 add Trichoderma inoculant after the brew has cooled below 90 degrees Fahrenheit
 to avoid killing the fungi. Trichoderma is aerobic and benefits from well-drained
 soil with good air exchange. Overwatering creates anaerobic conditions that favor

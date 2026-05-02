@@ -104,7 +104,9 @@ inoculant.
 - Proper brewing equipment maintaining adequate oxygen levels is essential for
   safe, effective compost tea
 
-## Related Questions
+## Related
+
+- [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]] Questions
 - [[query-how-to-brew-a-fungal-dominant-compost-tea]]
 - [[query-how-to-make-compost-tea-for-my-plants]]
 - [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]

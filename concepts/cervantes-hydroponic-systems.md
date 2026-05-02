@@ -40,7 +40,6 @@ Drip irrigation delivers nutrient solution one drop at a time or in low volume v
 
 The wick system is the simplest hydroponic method. A wick draws nutrient solution from a reservoir up to the growing medium by capillary action. No pumps or electricity are required. Wick systems are low maintenance but tend to deliver nutrients more slowly, which can limit growth rates. They work best for small plants and beginners.
 
-
 ## Drip Irrigation
 
 Drip irrigation systems deliver nutrient solution through small tubes and emitters directly to each plant's root zone. Timer-controlled drippers provide precise feeding schedules, making this method highly scalable from single plants to large commercial operations. Drip systems can be configured as recovery (recirculating) or non-recovery (drain-to-waste). Recovery systems conserve water and nutrients but require more careful pH and EC monitoring. Non-recovery systems provide more precise nutrient delivery and reduce disease risk but use more solution.

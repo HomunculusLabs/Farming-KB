@@ -129,6 +129,6 @@ the history of agricultural thought.
 
 - [[fukuoka-early-farming-experiments]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
-- [[fukuoka-critique-agricultural-science-laws]]
+- [[fukuoka-critique-laws-agricultural-science]]
 - [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
 - [[fukuoka-spiritual-philosophical-foundation]]

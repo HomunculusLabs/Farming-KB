@@ -17,7 +17,7 @@ The Shikimate pathway operates in the cytosol of fungal cells and represents the
 - **Folate** (vitamin B9) -- essential for DNA synthesis
 - **Ubiquinone** (coenzyme Q) -- central to the electron transport chain
 - **Aromatic amino acids**: phenylalanine, tyrosine, tryptophan
-- **Countless secondary metabolites**: antibiotics, pigments, [[fungal-secondary-metabolites]], alkaloids, and psychedelics
+- **Countless secondary metabolites**: antibiotics, pigments, [[bloomfield-fungal-secondary-metabolites]], alkaloids, and psychedelics
 
 The pathway's absence in animals is biologically significant -- it explains why animals must obtain aromatic amino acids from their diet and why compounds targeting the Shikimate pathway (like the herbicide glyphosate, which inhibits EPSP synthase) are toxic to plants and fungi but not animals.
 

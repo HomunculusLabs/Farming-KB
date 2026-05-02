@@ -139,11 +139,12 @@ characteristics found in animals could guide their observation in plants
 became a foundational principle for subsequent [[tompkins-plant-electrical-signals]]
 research.
 
-## Related Concepts
+## Related
+
+- [[plant-immune-system-pti-eti]] Concepts
 
 - [[tompkins-jagadis-bose-plant-response-crescograph]]
 - [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
 - [[tompkins-plant-electrical-signals]]
 - [[tompkins-plant-growth-regulators]]
 - [[cleve-backster-plant-perception-experiments]]
-- [[tompkins-plant-chemical-communication]]

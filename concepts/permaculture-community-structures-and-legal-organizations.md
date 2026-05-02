@@ -1,5 +1,5 @@
 ---
-title: Permaculture Community Structures and Legal Organizations
+[[permaculture]]culture Community Structures and Legal Organizations
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Permaculture Community Structures and Legal Organizations
 
-updated: 2026-04-18
+updatebill-mollison
 
 Pamphlets XIII and XIV of the [[permaculture-design]] Course provide detailed models for organizing permaculture communities, including legal structures, trust systems, financial management, and practical enterprise models. Bill Mollison presents a working model used [[agar]]he Tagari community in Australia.
 

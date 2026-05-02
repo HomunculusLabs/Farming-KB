@@ -4,7 +4,8 @@ created: 2026-2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, lab-technique, potency, safety, chemistry, psychopharmacology, health]
-sources: []
+sources:
+  - /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
 # Cannabis Testing and Quality

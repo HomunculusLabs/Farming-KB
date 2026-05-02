@@ -124,4 +124,4 @@ Fungal symbionts produce yeastlike oidia in mycangia (hypopleural organs at end 
 - [[sequestrate-fungi-ecology-evolution]] — hypogeous fungi with animal dispersal
 - [[fungal-biodiversity-tropical-ecosystems]] — tropical fungal diversity
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]

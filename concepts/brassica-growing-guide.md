@@ -95,7 +95,7 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Green caterpillars chew holes in leaves and bore into heads
 - Management:
   - Floating row covers prevent egg-laying (most effective)
-  - Bacillus thuringiensis (Bt) applied to leaves kills caterpillars
+[[neem]]Bacillus thuringiensis (Bt) applied to leaves kills caterpillars
   - Handpick caterpillars in small plantings
   - Companion plant with thyme, dill, or mint (may deter egg-laying)
   - Neem oil or spinosad sprays as secondary options
@@ -123,9 +123,7 @@ Brassicas are notorious for attracting pests. Prevention and early intervention 
 - Worst on young seedlings
 - Floating row covers on seedlings are the best prevention
   - kaolin clay (Surround WP) sprayed on leaves as a deterrent
-  - Plants outgrow damage once established
-
-### Slugs and Snails
+  - Plants outgrow damagintegrated-pest-managementugs and Snails
 - Feed on leaves at night; leave slime trails
 - Beer traps, diatomaceous earth, copper tape barriers
   - Handpick at night with a flashlight

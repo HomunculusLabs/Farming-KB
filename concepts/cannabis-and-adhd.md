@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
 **Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 15 | **Studies:** 6 | **Updated:** 2026-04-18

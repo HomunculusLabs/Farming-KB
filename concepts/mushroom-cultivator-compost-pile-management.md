@@ -120,9 +120,9 @@ spawning.
 
 ## Long Composting Method
 
-Developed by C. Riber Rasmussen of Denmark, long composting carries
+Developed by C. Riber Rasmussen of Denmark, long [[composting]] carries
 out the complete process outdoors (excluding pasteurization). It
-avoids high-temperature chemical decomposition, relying purely on
+avoids high-temperature chemical [[decomposition]], relying purely on
 microbial action to promote actinomycetes and eliminate ammonia.
 
 The procedure spans approximately 15-17 days, with turns at days 6,
@@ -132,16 +132,16 @@ The procedure spans approximately 15-17 days, with turns at days 6,
 with actinomycetes, with all ammonia gone, moisture at 67-70%, and
 pH at 7.0-7.5.
 
-## Short Composting Method
+## Short [[composting]] Method
 
-Developed by Dr. James Sinden, short composting centers on the fast-
+Developed by Dr. James Sinden, short [[composting]] centers on the fast-
 acting chemical reactions in zone 3 (150-180 degrees). Advantages
 include shorter preparation time and greater preservation of dry
 matter and nutrients.
 
 For horse manure compost (Formula I), the process takes approximately
 7 days from make-up to filling. For synthetic compost (Formula II),
-pre-composting extends to 10 days before make-up, with the full
+pre-[[composting]] extends to 10 days before make-up, with the full
 process requiring 13 or more days.
 
 ## See Also

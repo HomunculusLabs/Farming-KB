@@ -102,6 +102,8 @@ fungal connections between companion species.
 
 ## Related
 
+- [[query-how-does-companion-planting-work-in-a-food-forest]]
+
 - [[query-what-is-mycelium-and-how-does-it-function-in-nature]]
 
 - [[query-how-does-vermicomposting-work]]

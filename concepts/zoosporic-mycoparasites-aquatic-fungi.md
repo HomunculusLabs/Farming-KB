@@ -1,18 +1,5 @@
 ---
-title: "Zoosporic Mycoparasites of Aquatic Fungi"
-created: 2026-04-26
-tags:
-  - mycology
-  - mycoparasitism
-  - chytridiomycota
-  - oomycota
-  - aquatic-ecology
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
-type: concept
----
+ti
 
 # Zoosporic Mycoparasites of Aquatic Fungi
 
@@ -85,7 +72,7 @@ Rozellopsis inflata is a particularly interesting generalist
 mycoparasite that can attack multiple hosts. It parasitizes
 zoospores of the rotifer-capturing Zoophagus insidians and
 can also grow on various species of Pythium. The chitinolytic
-Mortierella alpina can penetrate and disintegrate the
+[[mortierella-alpina]] can penetrate and disintegrate the
 cellulosic hyphae and oogonia of Saprolegnia species, as
 can certain stemphylium-like and acremonium-like parasites.
 

@@ -75,7 +75,7 @@ This philosophical stance connects to Fukuoka's [[fukuoka-philosophy-of-mu-and-n
 
 ## Connection to Natural Farming Principles
 
-The limits of the scientific method explain why [[fukuoka-four-principles-natural-farming-detailed]] cannot be validated by conventional scientific research:
+The limits of the scientific method explain why [[fukuoka-four-principles-natural-farming]] cannot be validated by conventional scientific research:
 
 1. No cultivation: Research on no-till farming tends to show mixed results because it studies the technique in isolation. In Fukuoka's system, no-tillage works because it is part of an integrated whole that includes ground cover, natural fertilization, and pest balance.
 

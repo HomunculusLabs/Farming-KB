@@ -20,7 +20,7 @@ Contour lines are central to Holzer's method of creating water landscapes.
 Understanding how water has shaped the landscape over millennia, and reading
 the natural contour patterns, allows the practitioner to place water retention
 spaces exactly where nature intended them. This approach shares some
-principles with [[permaculture-designers-manual-keyline-design]]
+principles with [[keyline-design]]
 but extends into Holzer's unique observational methodology.
 
 ## Reading the Landscape
@@ -114,5 +114,5 @@ it destroys the homes of innumerable humans, animals, and plants.
 - [[holzer-water-landscapes-retention]] for the broader water landscape concept
 - [[holzer-pond-lake-design]] for detailed water body design
 - [[reading-the-landscape]] for observational methodology
-- [[permaculture-designers-manual-keyline-design]] for related keyline
+- [[keyline-design]] for related keyline
   principles

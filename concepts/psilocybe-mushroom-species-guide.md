@@ -145,8 +145,6 @@ Total alkaloid content up to ~25mg/g dried -- highest of all known psilocybin mu
 
 ### [[panaeolus-tropicalis]]
 - Similar cultivation requirements to P. cyanescens
-- Also requires dung-based substrate and high FAE
-
 ## See Also
 
 - [[psilocybe-natalensis-african-species]]

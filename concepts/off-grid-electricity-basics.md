@@ -105,7 +105,7 @@ The cheapest watt is the one you never use. Before sizing a system:
 - Use a gravity-fed water system to reduce pump runtime (see [[homestead-water-systems]])
 - Eliminate electric heating (use wood, propane, or passive solar instead)
 - Use a laptop instead of a desktop computer
-- Air-dry clothes on a line instead of using an electric dryer
+- Air-dry clothespassive-solar-designf using an electric dryer
 ## Related Topics
 - [[homestead-water-systems]] for well pump power requirements
 - [[building-with-natural-materials]] for passive solar design to reduce electrical loads

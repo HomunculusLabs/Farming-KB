@@ -1,13 +1,7 @@
 ---
-title: Cannabis Pest Management
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, pest-management, pest-control, organic, troubleshooting, indoor]
-sources: []
----
+ti
 ## Overview
-Cannabis pest management uses Integrated Pest Management (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
+Cannabis pest management uses [[integrated-pest-management]] (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
 ## Integrated Pest Management (IPM) Framework
 ### Prevention (First Line of Defense)
 - **Quarantine**: Isolate new plants, clones, or soil for 7-14 days before introducing to the grow space
@@ -21,10 +15,10 @@ Cannabis pest management uses Integrated Pest Management (IPM) principles to pre
 - **Blue sticky traps**: More attractive to thrips specifically.
 - **Visual inspection**: Systematic examination of leaves, stems, soil, and buds with each watering.
 ### Response Levels
-1. **Cultural controls**: Adjust environment, remove affected leaves
+1. **Cultural controls**: Adjust environment, remneemaffected leaves
 2. **Mechanical controls**: Spray off with water, physical removal
 3. **Biological controls**: Beneficial insects, microbial sprays
-4. **Organic/biorational sprays**: Neem oil, insecticidal soap, Spinosad
+4. **Organic/biorational sprays**: [[neem]] oil, insecticidal soap, Spinosad
 5. **Chemical controls**: Synthetic pesticides (last resort, avoid during flowering)
 ## Common Cannabis Pests
 ### Spider Mites (Tetranychus urticae)

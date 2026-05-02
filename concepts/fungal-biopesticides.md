@@ -123,4 +123,4 @@ Mechanisms of action:
 - Shelf life limitations for living organism products
 ## See Also
 - [[endophytic-fungi-in-agriculture]] -- fungi living inside plant tissues for pest resistance
-- [[mycoremediation-of-heavy-metals]] -- fungi in environmental cleanup (different but related application)
+- [[mycoremediation-heavy-metals-detailed]] -- fungi in environmental cleanup (different but related application)

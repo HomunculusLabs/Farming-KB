@@ -139,10 +139,9 @@ with saprophytic mushroom mycelia. The results include
 healthy soil, biodynamic communities, and endless cycles of
 renewal. With every cycle, soil depth increases and the
 capacity for biodiversity is enhanced.
-
 ## See Also
 
-- [[unknown-mycelium-natures-internet]]
+- mycelium natures internet
 
 - mycelium running mycelium natures internet
 - [[mycelium-running-bioremediation-mushroom-projects]]

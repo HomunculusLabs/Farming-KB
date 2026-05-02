@@ -3,7 +3,7 @@ title: Fungal Contributions to Soil Aggregation and Structure
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [soil-structure, mycorrhiza, glomalin, soil-aggregation, geomycology]
+tags: [soil-structure, [[mycorrhiza]], glomalin, soil-aggregation, geomycology]
 sources:
   - "papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---

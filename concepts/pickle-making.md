@@ -1,13 +1,7 @@
 ---
-title: Pickle Making
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, vegetables, preparation]
-sources: []
----
+ti
 ## What Are Pickles
-Pickling is one of the oldest food preservation methods, using acid (vinegar) or salt-based fermentation to preserve vegetables in an acidic environment that inhibits harmful bacteria. There are two fundamentally different approaches: quick pickles (vinegar-based, no fermentation) and fermented pickles (lactic acid bacteria produce the acid naturally through fermentation). Both methods produce delicious results but differ significantly in flavor, texture, health benefits, and shelf life.
+Pickling is one of the oldest food preservation methods, using acid (vinegar) or salt-based ferlactic-acid-bacteriae vegetables in an acidic environment that inhibits harmful bacteria. There are two fundamentally different approaches: quick pickles (vinegar-based, no fermentation) and fermented pickles ([[lactic-acid-bacteria]] produce the acid naturally through fermentation). Both methods produce delicious results but differ significantly in flavor, texture, health benefits, and shelf life.
 ## Quick Pickles (Vinegar-Based)
 Quick pickles (also called refrigerator pickles) are the simplest introduction to pickling. Vegetables are submerged in a hot vinegar solution and stored in the refrigerator.
 ### The Brine

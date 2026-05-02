@@ -12,7 +12,7 @@ Henry Munn's essay "The Mushrooms of Language," published in [[hallucinogens-and
 
 ## The Setting: Huautla de Jiménez
 
-Huautla de Jiménez is a mountain village in the Mazatec Sierra of Oaxaca, famous for its sacred usage of psychotropic mushrooms, especially Psilocybe mexicana. These fungi, also used in pre-Columbian Aztec ceremonies, contain the hallucinogenic indole alkaloids psilocybine and psilocine. The village gained worldwide attention through the work of R. Gordon Wasson and through the shamaness [[maria-sabina-and-mazatec-mushroom-ceremony]].
+Huautla de Jiménez is a mountain village in the Mazatec Sierra of Oaxaca, famous for its sacred usage of psychotropic mushrooms, especially Psilocybe mexicana. These fungi, also used in pre-Columbian Aztec ceremonies, contain the hallucinogenic indole alkaloids psilocybine and psilocine. The village gained worldwide attention through the work of R. Gordon Wasson and through the shamaness [[maria-sabina-mazatec-mushroom-ceremony]].
 
 The Mazatec Indians eat the mushrooms only at night in absolute darkness. It is their belief that if you eat them in the daylight you will go mad. The depths of the night are recognized as the time most conducive to visionary insights into the obscurities, the mysteries, the perplexities of existence. Usually several members of a family eat the mushrooms together: it is not uncommon for a father, mother, children, uncles, and aunts to all participate in these transformations of the mind.
 
@@ -64,7 +64,7 @@ For the Mazatecs, wisdom is gained during the experiences produced by the mushro
 
 - [[harner-mazatec-mushrooms-of-language-deep]]
 
-[[maria-sabina-and-mazatec-mushroom-ceremony]]
+[[maria-sabina-mazatec-mushroom-ceremony]]
 [[mazatec-mushroom-culture-and-velada]]
 [[hallucinogens-and-shamanism-harner-anthology]]
 [[shamanic-use-of-psychedelics]]

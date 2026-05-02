@@ -102,7 +102,7 @@ be considered part of transitional ethics.
 ## Relationship to Other Approaches
 
 Holzer's water landscape approach shares principles with
-[[permaculture-designers-manual-keyline-design]] in its use of
+[[keyline-design]] in its use of
 contour lines and focus on water retention, but differs in its emphasis on
 natural pond shapes, diverse zones, and integration with livestock. It also
 connects to broader [[mollison-permaculture-two-zone-planning-and-site-layout]]

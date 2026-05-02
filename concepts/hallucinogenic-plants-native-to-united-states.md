@@ -72,7 +72,7 @@ with peyote due to the large volume of plant material required.
 
 ## Salvia divinorum
 
-[[salvia-divinorum]] (Lamiaceae) contains the neoclerodane diterpene
+[[salvia-divinorum-entity]] (Lamiaceae) contains the neoclerodane diterpene
 salvinorin-A. Unlike most hallucinogens acting at 5-HT2A serotonin
 receptors, salvinorin-A is the first known naturally occurring
 non-nitrogenous kappa-opioid receptor agonist, a unique pharmacological
@@ -108,7 +108,7 @@ toxic in most species, with seeds being particularly dangerous.
 ## Amanita Muscaria and Amanita Pantherina
 
 [[amanita-muscaria-ambrosia-preparation]] (fly agaric) and amanita pantherina (panther
-cap) contain muscimol (GABA receptor agonist) and [[amanita-muscaria-ibotenic-acid-fungi]]
+cap) contain muscimol (GABA receptor agonist) and [[amanita-muscaria-and-ibotenic-acid-fungi]]
 (excitatory glutamate receptor agonist). Usually not hepatotoxic when
 properly identified, but overdose can be lethal. Intoxication begins
 within 30 minutes, peaking over 2-3 hours. Ibotenic acid decarboxylates

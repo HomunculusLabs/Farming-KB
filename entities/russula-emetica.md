@@ -16,8 +16,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 
 
-
-
 ## Taxonomy and Description
 
 *Russula emetica* was first described by the Swedish mycologist Elias Magnus Fries in 1838. The genus name *Russula* derives from the Latin word for "red," referring to the characteristic coloration of many species in the genus, while the specific epithet *emetica* refers to its emetic (vomit-inducing) properties. The species is the type species of *Russula* section *Russula*, a group characterized by red-capped, acrid-tasting mushrooms with white spores.
@@ -31,15 +29,11 @@ The stipe (stem) is white, cylindrical, 4–10 cm tall and 1–2 cm thick, with 
 
 
 
-
-
 ## Distribution and Habitat
 
 *R. emetica* has a broad circumboreal distribution, occurring across Europe, Asia, and North America. It is found in coniferous and mixed woodlands, typically in association with pine (*Pinus sylvestris*, *P. nigra*, *P. resinosa*) and spruce (*Picea abies*, *P. sitchensis*) on acidic to neutral soils. The species fruits from mid-summer through autumn, producing solitary to scattered fruiting bodies on the forest floor among needle litter and moss.
 
 The organism prefers moist, cool, shaded conditions and is most abundant in mature forests with well-developed ectomycorrhizal networks. It is relatively tolerant of nutrient-poor soils, as it derives the majority of its carbon from its host tree through the mycorrhizal symbiosis. *R. emetica* is commonly found in the same habitats as other red-capped *Russula* species, requiring careful identification to distinguish from edible lookalikes such as *Russula vesca*.
-
-
 
 
 
@@ -59,8 +53,6 @@ The fungus receives carbohydrates (primarily glucose and fructose) produced by t
 
 
 
-
-
 ## Toxicity
 
 *Russula emetica* is poisonous and causes gastrointestinal distress when consumed raw or cooked. Symptoms include nausea, vomiting, abdominal cramps, and diarrhea, typically beginning 30 minutes to 2 hours after ingestion. While the poisoning is not generally life-threatening to healthy adults, it can cause significant discomfort and dehydration, particularly in children, the elderly, or individuals with pre-existing gastrointestinal conditions.
@@ -72,15 +64,11 @@ The toxic principles in *R. emetica* have not been definitively identified. The 
 
 
 
-
-
 ## Ecology and Environmental Role
 
 Beyond its mycorrhizal function, *R. emetica* plays several important roles in forest ecosystems. The fruiting bodies serve as a food source for various invertebrates (slugs, insects) and small mammals (rodents, squirrels), some of which can consume the mushroom without apparent ill effects. The extensive mycelial network contributes to soil carbon sequestration, with ectomycorrhizal fungi estimated to account for a significant proportion of soil organic carbon in boreal and temperate forests.
 
 The species is sensitive to atmospheric pollution, particularly nitrogen deposition and heavy metal contamination, and has been proposed as a bioindicator of forest ecosystem health. Declines in *Russula* species diversity have been observed in forests subjected to chronic nitrogen deposition from agricultural and industrial sources.
-
-
 
 
 

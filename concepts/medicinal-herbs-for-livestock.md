@@ -16,7 +16,7 @@ alder, ash, beech, birch, elder, elm, hawthorn, hazel, holly, juniper, lemon, li
 The practice of allowing animals to self-select medicinal plants is rooted in the scientific field of zoopharmacognosy — the study of how animals use plants, soils, and insects to medicate themselves. Wild animals have been observed selectively foraging specific plants when afflicted with parasites, digestive upset, or infections.
 Domesticated animals retain much of this instinct when given access to diverse forage. Sheep will seek out tannin-rich plants like willow and hazel when burdened with internal parasites, while pigs naturally consume clay and specific roots to counteract dietary toxins.
 This principle is fundamental to holistic pasture management. Rather than treating disease reactively with pharmaceuticals, the farmer provides a diverse botanical palette and allows the animals' innate foraging intelligence to guide their intake.
-This approach reduces reliance on chemical dewormers, antibiotics, and synthetic supplements, aligning livestock management with [[permaculture-zone-and-sector-analysis|permaculture principles]] of working with natural systems.
+This approach reduces reliance on chemical dewormers, antibiotics, and synthetic supplements, aligning livestock management with [[zone-sector-analysis-guide|permaculture principles]] of working with natural systems.
 ## Key Medicinal Herbs and Their Functions
 ### Anthelmintic (Anti-Parasitic) Plants
 Garlic (Allium sativum) is one of the most well-documented anthelmintic herbs for livestock. Its sulfur compounds, particularly allicin, have demonstrated efficacy against internal parasites in sheep, goats, and poultry.
@@ -73,9 +73,22 @@ Some herbs interact with pharmaceutical medications. Knowledge of each species' 
 ## Historical Context
 The use of herbs for livestock predates modern veterinary medicine by millennia. Roman agricultural writers such as Columella and Varro described feeding specific herbs to sick animals, and medieval monastic farms maintained extensive physic gardens for both human and animal medicine.
 The decline of herbal livestock care accelerated in the mid-20th century with the advent of antibiotics and anthelmintic drugs, but the rise of antibiotic-resistant pathogens and organic certification standards has renewed interest in these traditional practices. The EU's ban on routine antibiotic use in livestock feed (2006) has driven significant research into phytotherapeutic alternatives.
+
+## Digestive Health Herbs
+
+Digestive complaints are among the most common livestock health issues, and several herbs address these effectively. Fennel (Foeniculum vulgare) seeds reduce gas and colic in horses and cattle, while also stimulating milk production in dairy animals. Marshmallow root (Althaea officinalis) soothes gastrointestinal inflammation and is useful for animals recovering from diarrhea or ulcerative conditions. Slippery elm bark (Ulmus rubra) provides similar mucilaginous protection and is widely used in poultry to improve gut health. Yarrow (Achillea millefolium) has both bitter digestive-stimulating properties and antimicrobial effects that help maintain a balanced gut microbiome. Garlic (Allium sativum) at moderate doses supports beneficial gut flora while reducing pathogenic bacteria, though excessive amounts can cause Heinz body anemia in some species.
+
+## Immune Support and Parasite Control
+
+Herbal immune support reduces the need for pharmaceutical interventions in livestock management. Echinacea (Echinacea purpurea) stimulates phagocyte activity and has demonstrated measurable improvements in immune response when fed to cattle during periods of stress such as weaning or transport. Wormwood (Artemisia absinthium) and tansy (Tanacetum vulgare) have traditional use as anthelmintics — their bitter compounds create an unfavorable environment for intestinal parasites. Research from organic farming trials in Europe has shown that chicory (Cichorium intybrum) and birdsfoot trefoil (Lotus corniculatus) included in pasture mixes can reduce parasite burdens in sheep and goats by 30-50% compared to animals grazing conventional ryegrass pastures, due to condensed tannins that interfere with parasite lifecycle development.
+
+## Practical Integration Methods
+
+Incorporating medicinal herbs into livestock systems can be done through several approaches: planting herb strips within pastures for self-medication (zoopharmacognosy), adding dried herbs to feed rations, preparing herbal tinctures for acute conditions, and growing herbs as hedgerow components that provide both medicine and browse. Self-selection is often the most effective method — given access to a diverse herbal ley, animals will typically select the plants they need, a behavior well-documented in both wild and domesticated species. This approach aligns with holistic management principles and reduces the labor associated with individual animal treatment.
+
 ## Related
 - [[bee-forage-plant-system]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[holzer-livestock-integration]]
 - [[cover-crop-selection-guide]]
 - [[chop-and-drop-mulching]]

@@ -141,7 +141,7 @@ requires microscopic examination of spore morphology.
 
 - [[psilocybin-mushroom-species-overview]]
 
-- [[cotter-mushroom-species-selection-guide]] Topics
+- [[mushroom-species-selection-guide]] Topics
 
 - [[oss-oeric-psilocybe-cubensis-strain-guide]] for cultivation focus
 - [[oss-oeric-dosage-guidelines-and-potency]] for dosage information

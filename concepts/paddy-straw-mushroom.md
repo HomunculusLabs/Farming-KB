@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, species, food, asia, agriculture, composting]
-sources: []
+sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md]
 ---
 # Paddy Straw Mushroom (Volvariella volvacea)
 The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is one of the most cultivated mushrooms in Southeast Asia and other warm-climate regions. Named for its traditional cultivation on rice straw, it is an important food source and cash crop in tropical agriculture systems.

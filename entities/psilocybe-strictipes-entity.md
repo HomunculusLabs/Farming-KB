@@ -82,7 +82,7 @@ succession, a pattern observed in several Psilocybe species.
 
 ## See Also
 - [[psilocybe-semilanceata]]
-- [[psilocybe-pelliculosa]]
+- [[psilocybe-pelliculosa-entity]]
 - Psilocybe silvatica
 - [[psilocybe-serbica-entity]]
 - Psilocybe subfimetaria

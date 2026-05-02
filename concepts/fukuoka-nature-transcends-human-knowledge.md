@@ -57,7 +57,7 @@ The comparison with Basho's haiku is significant. Basho's poetry captures moment
 
 ## Connection to Natural Farming Principles
 
-In practical terms, the recognition that nature transcends human knowledge is what leads Fukuoka to his famous [[fukuoka-four-principles-natural-farming-detailed]]: no cultivation, no chemical fertilizer, no weeding, no pesticides. Each of these prohibitions is an expression of humility before the incomprehensible intelligence of nature.
+In practical terms, the recognition that nature transcends human knowledge is what leads Fukuoka to his famous [[fukuoka-four-principles-natural-farming]]: no cultivation, no chemical fertilizer, no weeding, no pesticides. Each of these prohibitions is an expression of humility before the incomprehensible intelligence of nature.
 
 When a farmer tills the soil, he acts on the assumption that he understands what the soil needs. When he applies fertilizer, he assumes he knows what nutrients the plants require. When he pulls weeds, he assumes he can distinguish between "good" and "bad" plants. But all of these assumptions are products of the discriminating mind -- the very faculty that Fukuoka argues cannot comprehend nature.
 

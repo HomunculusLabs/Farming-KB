@@ -145,5 +145,5 @@ Saprophytic mushrooms create cascading ecological benefits:
 
 - [[growing-gourmet-saprophytic-mushrooms-decomposers]]
 - [[mycoremediation]]
-- [[mycofiltration]]
+- [[unknown-mycelium-mycofiltration]]
 - [[mycorrhizal-networks]]

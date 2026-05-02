@@ -15,7 +15,7 @@ art of cannabis resin concentration. Kief collection is the simplest and oldest 
 concentrating cannabis resin, relying on mechanical dry sieving to detach trichome heads
 from plant material. The hashish guide encompasses this technique and all others used to
 produce hashish, from dry sift and ice water extraction to hand-rubbed charas and various
-pressing methods. Understanding both helps producers choose the right approach based on
+pressing methods. Undcannabis-kief-collectionoducers choose the right approach based on
 their goals, equipment, and desired final product quality.
 
 ## Kief Collection

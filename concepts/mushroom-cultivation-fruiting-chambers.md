@@ -18,7 +18,6 @@ A fruiting chamber (growing room) is a controlled environment designed to provid
 
 
 
-
 ## Environmental Parameters
 
 ### Humidity
@@ -46,12 +45,10 @@ Each species has specific temperature requirements for fruiting. Temperature aff
 
 
 
-
 ## Lighting
 Many cultivated mushrooms require light for pinhead initiation and proper development. Phototropic mushrooms twist toward light sources. Fluorescent fixtures with broad blue spectra (440-495 nm) are ideal. "Daylite 65" (6500 K color temperature) or "Vita-Lite" (5500 K) fluorescent tubes provide proper blue light for promoting primordia formation.
 
 Lights should be mounted at least 18 inches above the cropping surface, evenly distributed. Ballasts should be placed outside the room to eliminate heat and drying.
-
 
 
 
@@ -74,11 +71,9 @@ Ducting runs the length of the room at ceiling level. Outlet holes in the duct s
 
 
 
-
 ## Monitoring Equipment
 
 Essential: maximum-minimum thermometers, hygrometer or sling psychrometer. Advanced: CO2 detectors, moisture meters, anemometers, light measuring devices. Hygrometers should be periodically calibrated with a sling psychrometer.
-
 
 
 

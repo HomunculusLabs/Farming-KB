@@ -99,7 +99,7 @@ Minerals (greensand, rock phosphate, rock dusts) should be added based on soil c
 
 It takes two weeks at 72°F for protozoa to wake up and begin cycling nutrients. If you need immediate nutrient cycling, consider adding a protozoan inoculant. Worm compost is the best source of protozoa.
 
-See also: [[compost-tea-recipe-guide]], [[compost-tea-brewing-guide]], [[compost-tea-aact]], [[compost-quality-standards]]
+See also: [[compost-tea-recipe-guide]], [[compost-tea-brewing]], [[compost-tea-aact]], [[compost-quality-standards]]
 - [[humic-acids-soil-biology-ingham]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[aact-compost-quality-standards-ingham]]

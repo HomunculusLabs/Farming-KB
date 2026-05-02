@@ -67,7 +67,7 @@ If the mindset that produces war also produces industrial agriculture, then [[fu
 
 - [[fukuoka-do-nothing-farming-and-spiritual-life]] means not imposing one's will on the land or on other people
 
-- [[fukuoka-four-principles-natural-farming-detailed]] are practices of non-interference and non-violence
+- [[fukuoka-four-principles-natural-farming]] are practices of non-interference and non-violence
 
 - [[fukuoka-decentralized-self-sufficient-communities]] have no need for the resource competition that drives conflict
 

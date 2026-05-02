@@ -135,4 +135,4 @@ phosphoric acid needed for cell division in reproductive tissues.
 ## See Also
 
 - [[knf-calcium-deficiency-symptoms]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]

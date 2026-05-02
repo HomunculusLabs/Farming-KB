@@ -78,6 +78,8 @@ Don't choose one — run all three. Bokashi for zero-waste kitchen processing, v
 
 ## See Also
 
+- [[comparison-hot-composting-vs-bokashi]]
+
 - [[composting-systems]] — Full composting methods overview
 - [[vermicomposting]] — Worm bin setup and management
 - [[bokashi]] — Bokashi bran making and kitchen system

@@ -122,6 +122,6 @@ Metabarcoding data is also being integrated with functional gene profiling (meta
 - environmental dna fungal survey
 
 - [[fungal-species-estimates]]
-- [[tropical-fungal-diversity]]
+- [[biodiversity-fungi-tropical-fungal-diversity]]
 - [[cryptic-fungal-species]]
 - [[fungal-taxonomic-impediment]]

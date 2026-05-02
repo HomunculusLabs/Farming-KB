@@ -122,4 +122,3 @@ to P. azurescens.
 - Galerina - deadly look-alikes in similar wood-chip habitats
 - psilocybe-cubensis - the most widely cultivated species
 - mushroom-identification - general field identification practices
-

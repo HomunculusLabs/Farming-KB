@@ -102,7 +102,7 @@ that the chemicals do more harm than good to the overall system.
 ## Connection to the Four Principles
 
 Pest management without chemicals is the practical consequence of the fourth
-[[fukuoka-four-principles-natural-farming-detailed]]: no dependence on chemicals. It also depends on the
+[[fukuoka-four-principles-natural-farming]]: no dependence on chemicals. It also depends on the
 other three
 principles — no cultivation, no fertilizer, no weeding — because these maintain
 the
@@ -120,7 +120,7 @@ See also:
 
 # Farming Without Chemicals
 
-A cornerstone of Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]] is the complete elimination of chemical inputs -- pesticides, herbicides, and synthetic fertilizers. Fukuoka demonstrated through decades of practice that crops can grow abundantly without any chemical intervention whatsoever.
+A cornerstone of Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming]] is the complete elimination of chemical inputs -- pesticides, herbicides, and synthetic fertilizers. Fukuoka demonstrated through decades of practice that crops can grow abundantly without any chemical intervention whatsoever.
 
 ## The Chemical Farming Trap
 
@@ -130,7 +130,7 @@ There is a fundamental contradiction in the notion of "improving upon" the condi
 
 ## The Four Principles and Chemical Abstinence
 
-Chemical elimination is not one principle among many -- it is the inevitable consequence of all four of Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]]. No cultivation, no fertilizer, no weeding, and no pesticides form an integrated whole. When you stop plowing, the soil begins to recover its natural structure and biological life, reducing the need for fertilizer. When you stop applying fertilizer, plants develop stronger natural root systems and become more resistant to pests. When you stop spraying pesticides, beneficial insects return and establish natural population controls.
+Chemical elimination is not one principle among many -- it is the inevitable consequence of all four of Fukuoka's [[fukuoka-four-principles-natural-farming]]. No cultivation, no fertilizer, no weeding, and no pesticides form an integrated whole. When you stop plowing, the soil begins to recover its natural structure and biological life, reducing the need for fertilizer. When you stop applying fertilizer, plants develop stronger natural root systems and become more resistant to pests. When you stop spraying pesticides, beneficial insects return and establish natural population controls.
 
 Fukuoka was emphatic: "provided the farmer is sincere in his efforts to grow healthy crops, there will never be any need for pesticides." After thirty to forty years of farming without pesticides, he had ample evidence that this was not mere theory. The record of the Kochi Prefecture Agricultural Testing Station confirmed that even during massive local outbreaks of leaf hoppers, no ill came of a lack of control measures in his fields.
 
@@ -144,6 +144,6 @@ Fukuoka's field was populated with large Asiatic locusts and tree frogs; only ov
 
 ## Fertilizer: The Illusion of Nourishment
 
-The second of the [[fukuoka-four-principles-natural-farming-detailed]] -- no fertilizer -- directly challenges the assumption that plants need human-applied nutrients. Fukuoka observed that trees in mountain forests grow to magnificent heights without the benefit of hoe or fertilizer, while the farmer's fields can grow only puny crops. In nature, the very grasses and trees, and the earthworms and moles in the ground, act as plowhorse and oxen, completely rearranging and renewing the soil.
+The second of the [[fukuoka-four-principles-natural-farming]] -- no fertilizer -- directly challenges the assumption that plants need human-applied nutrients. Fukuoka observed that trees in mountain forests grow to magnificent heights without the benefit of hoe or fertilizer, while the farmer's fields can grow only puny crops. In nature, the very grasses and trees, and the earthworms and moles in the ground, act as plowhorse and oxen, completely rearranging and renewing the soil.
 
 When chemical fertilizers are applied, they create a dependency cycle. The soil loses its ability to generate fertility naturally, and the crops become dependent on external inputs. The soil microorganisms that fix nitrogen, decompose organic matter, and make minerals available to plants are suppressed or eliminated by the chemical environment. What appears to be "feeding" the crop is actually starving the [[fukuoka-living-soil]].

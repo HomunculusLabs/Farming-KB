@@ -6,8 +6,7 @@ tags:
   - psychedelic
   - liberty-cap
   - pasture
-  - temperate
-date: 2026-04-28
+  - temperatepsilocybin6-04-28
 updated: 2026-04-28
 sources:
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
@@ -25,7 +24,7 @@ literature, though its psychoactive properties were not recognized until the mid
 Fries originally placed the species in the genus *Agaricus* (in the broad historical sense) before it was transferred
 to *Psilocybe* by Paul Kummer in 1871. The epithet *semilanceata* means "half-spear-shaped" in Latin, referring to the
 distinctive nipple-like umbo on the cap. The common name "liberty cap" derives from the resemblance of the cap to the
-Phrygian cap worn as a symbol of liberty during the French Revolution. The species is the type species of *Psilocybe*
+Phrygian cap worn apsilocybin-mushroomsy during the French Revolution. The species is the type species of *Psilocybe*
 section *Semilanceatae*. Recent molecular phylogenetic studies have confirmed the monophyly of this section and the
 distinctiveness of *P. semilanceata* from other psilocybin mushrooms, supporting its traditional taxonomic placement.
 
@@ -70,13 +69,13 @@ that the species forms associations with specific soil microorganisms, including
 may be necessary for fruiting. This complex ecological requirement is one of the primary reasons the species has proven
 so difficult to cultivate. The mushroom's preference for unimproved pastures — those not treated with artificial
 fertilizers — may reflect the sensitivity of its mycorrhizal or endophytic associates to nutrient enrichment.
-Agricultural intensification, including the use of nitrogen fertilizers and the conversion of permanent pasture to
+Agricultural intensification, including the use of nitrogen fertilizers [[psilocin]]conversion of permanent pasture to
 arable land, has been linked to declines in *P. semilanceata* populations across Europe.
 
 ## Chemistry
 
 *P. semilanceata* is notably potent for its size. Psilocybin concentrations range from 0.2–2.4% by dry weight, with
-psilocin at 0.05–1.1%, and [[baeocystin]] at 0.03–0.5%. The species shows considerable geographic variation in
+psilocin at 0.05–1.1%, and [[baeocystin]] at 0.0[[tryptamine]]e species shows considerablinocybe-aeruginascensn in
 alkaloid content, with Scottish and Scandinavian collections generally ranking among the most potent. A unique feature
 of *P. semilanceata* chemistry is the occasional presence of [[aeruginascin]], a tryptamine derivative also found in
 *Inocybe aeruginascens*, which may modulate the subjective effects. The total alkaloid content of liberty caps has been

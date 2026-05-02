@@ -44,7 +44,7 @@ grasses, respectively).
 
 ## Northern Hemisphere Species
 
-[[amanita-muscaria]], Cordyceps spp., [[psilocybe-pelliculosa]], and P. silvatica
+[[amanita-muscaria]], Cordyceps spp., [[psilocybe-pelliculosa-entity]], and P. silvatica
 are characteristic northern hemisphere species. Amanita muscaria grows in
 mycorrhizal association with Pinus and Betula in northern forests, and has
 been introduced to pine plantations in tropical regions including Brazil,

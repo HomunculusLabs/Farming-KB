@@ -1,5 +1,5 @@
 ---
-title: Maitake Cultivation Guide
+[[maitake-cultivation]]ivation Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -24,8 +24,7 @@ Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal m
 
 Strain selection is crucial. Unlike oyster or reishi, a high percentage of G. frondosa strains do not fruit well, if at all. There are considerable differences among strains in growth rate, yield, temperature requirements, and fruiting body features (cap color and shape). Always test a new strain before full production.
 
-- Fast-growing strains: spawn run of 30 days before primordia initiation
-- Many strains require 60-90+ days of mycelial growth and maturation
+- Fast-growing strains: spawn run of 30 days before primorsubstrate-formulation strains require 60-90+ days of mycelial growth and maturation
 - ~90% of strains from culture collections and wild isolates do not fruit well
 - Always verify the strain has been tested as a good fruiting strain
 
@@ -117,9 +116,7 @@ Production ~3.5 months.
 3. Day 30: Orange-brown exudates appear (metabolic activity), discoloration of white mycelia
 4. Surface mycelial coat forms -- tighter growth on substrate surface
 5. Topography becomes uneven with grayish amorphous mass
-6. Day ~42: Grayish primordia (2.5-5 cm diameter) form in closed bag
-
-### Primordia Initiation
+6. Day ~42: Grayish primordia (2.5-5 cm diameter) form in closed bfruiting-body-developmention
 - Dark gray amorphous mass develops on mycelial surface
 - Dark grayish-black mounds become globular, ball-like primordia
 - Primordia are dotted with exudates (sometimes light yellow) -- do NOT wipe off

@@ -11,8 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 Saprotrophic nutrition (also called saprophytic nutrition) is a mode of
 feeding in which organisms obtain nutrients by decomposing dead organic
 matter. Fungi are the primary saprotrophs in most terrestrial ecosystems,
-using their [[mycelium]] to secrete enzymes that break down complex
-organic polymers and then absorb the resulting simple molecules. This
+using their [[mycelium]] to secrete enzymesaprotrophic-decompositionorganic polymers and then absorb the resulting simple molecules. This
 process is fundamental to global nutrient cycling and carbon turnover.
 
 ## The Saprotrophic Process
@@ -20,7 +19,7 @@ process is fundamental to global nutrient cycling and carbon turnover.
 Saprotrophic decomposition occurs in three overlapping phases:
 
 ### 1. Colonization and Enzyme Secretion
-Fungal spores germinate on dead organic material and extend hyphae
+Fungal spores germinate on dead organic matsaprotrophic-fungiyphae
 into the substrate. The hyphae secrete extracellular enzymes tailored to
 the available polymers. Because digestion occurs outside the fungal cell
 (extracellular digestion), saprotrophic fungi can access nutrients
@@ -130,7 +129,7 @@ Saprotrophic fungi interact with other soil organisms in complex ways:
 
 ## See Also
 
-- [[mycelium]] — The fungal network that performs saprotrophic
+- [[mycelium]] — The fungal network that [[fungal-decomposition]]c
   decomposition
 - hyphae — Filaments that secrete extracellular enzymes
 - [[mycorrhizal-networks]] — Contrast with saprotrophic feeding

@@ -73,6 +73,28 @@ For foliar spraying of pesticides and liquid fertilizers, JADAM Wetting Agent (J
 
 Water used in making JMS and other biological inputs should be free of chlorine and other antimicrobial agents. Well water or spring water is preferred. If using tap water, allow it to sit uncovered for 24 hours to off-gas chlorine. The mineral content of the water matters less than its biological neutrality — JADAM's system adds minerals through sea water and phyllite rather than relying on mineral-rich source water.
 
+
+## JADAM Irrigation Philosophy
+
+Cho Han-kyu, founder of JADAM, emphasizes that most farmers over-irrigate.
+His observation is that crops in rain-fed conditions often develop deeper
+root systems and greater drought resilience than irrigated crops. The JADAM
+approach favors minimal irrigation supplemented by soil management practices
+that maximize moisture retention: deep mulching, cover cropping, and
+maintaining high organic matter levels. When irrigation is necessary, Cho
+recommends infrequent but deep watering to encourage roots to grow downward,
+rather than frequent shallow applications that promote surface-rooting and
+dependence on regular irrigation.
+
+The economic analysis of JADAM irrigation methods shows significant cost
+savings compared to conventional drip irrigation systems. A complete JADAM
+watering setup for a small farm costs less than $50 in materials (primarily
+hoses, connectors, and a backpack sprayer), compared to $500-2,000 for
+drip irrigation infrastructure of similar coverage. Labor costs are higher
+per acre, but for farms under 5 acres, the total cost of ownership is
+typically lower. The trade-off is precision — drip systems deliver water
+directly to root zones with measured efficiency, while manual methods
+require more judgment and attention to soil moisture conditions.
 ## See Also
 
 - [[ultra-low-cost-foliar-application-methods]]

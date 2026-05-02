@@ -13,21 +13,9 @@ sources:
 
 
 
-
-
-
-
-
-
 ## Overview
 
 Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
-
-
-
-
-
-
 
 
 
@@ -61,12 +49,6 @@ An earthy, woody terpene also prominent in hops (Humulus lupulus, its namesake).
 
 
 
-
-
-
-
-
-
 ## Terpene Profiles in Practice
 
 In S.T. Oner's Cannabis Sativa Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
@@ -82,15 +64,12 @@ The interaction between a strain's terpene profile and its cannabinoid content (
 
 
 
-
-
-
-
-
-
 ## Related Concepts
 
 - [[cannabis-concentrates-and-extracts]] -- terpenes in concentrated form
+
+
+
 
 ## See Also
 

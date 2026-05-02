@@ -8,7 +8,7 @@ sources: []
 ---
 # Glomeromycota and Arbuscular Mycorrhizae
 ## Overview
-The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
+The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating backfungal-symbiosisn years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and ecosystem function. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
 ## Phylum Glomeromycota
 ### Classification
 - **Kingdom**: Fungi
@@ -20,7 +20,7 @@ The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), w
 - **Obligate symbionts**: AMF cannot complete their life cycle without a plant host. They cannot be grown in pure culture without plant roots.
 - **Asexual reproduction**: AMF reproduce primarily through large multinucleate spores (200-1000 um diameter). No confirmed sexual cycle has been observed, although genetic evidence suggests recombination events occur.
 - **Coenocytic hyphae**: Hyphae lack regular septa (cross-walls), with cytoplasm containing many nuclei flowing freely.
-- **Ancient lineage**: Fossil evidence (Ordovician, ~460 MYA) shows AMF-like structures in some of the earliest land plants.
+- **Ancient lineage**: Fossil evidence (Ordovician, ~[[glomus-intraradices]]like structures in some of the earliest land plants.
 - **Multinuclear genetics**: Each spore can contain hundreds to thousands of nuclei, making genetics unusually complex.
 ## AMF Genera
 ### Rhizophagus (formerly Glomus intraradices group)

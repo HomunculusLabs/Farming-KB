@@ -141,4 +141,3 @@ at commonly consumed dosages.
 - - limitations as an identification feature
 - - genus containing both active and deadly species
 - - active genus with Galerina resemblance
-

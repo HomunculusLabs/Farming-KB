@@ -26,7 +26,7 @@ PIHKAL entry #55. 3,4-DIMETHOXYAMPHETAMINE.
 > (with 70 mg i.v.) [One patient received 0.004
 > mM/Kg of the hydrochloride salt intravenously and exhibited only
 > slight increase in psychiatric symptoms; a comparable dosage in a
-> second individual also elicited only insignificant changes.]
+> second iindividual elicited only insignificant changes.]
 >
 > (with 700 mg i.v.) [When one of these patients was reinjected at a
 > later date with approximately 0.04 mM/Kg of 3,4-DMA a definite

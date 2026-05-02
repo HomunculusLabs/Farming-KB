@@ -10,7 +10,7 @@ sources:
 
 # Natural Farming in Tropical Climates
 
-During his global travels, Masanobu Fukuoka observed agricultural conditions in tropical regions and developed ideas about how [[fukuoka-four-principles-natural-farming-detailed]] could be adapted to these environments. His observations in Africa, India, Southeast Asia, and the Pacific islands revealed both challenges and opportunities for natural methods in warm climates.
+During his global travels, Masanobu Fukuoka observed agricultural conditions in tropical regions and developed ideas about how [[fukuoka-four-principles-natural-farming]] could be adapted to these environments. His observations in Africa, India, Southeast Asia, and the Pacific islands revealed both challenges and opportunities for natural methods in warm climates.
 
 ## The Natural Advantages of the Tropics
 

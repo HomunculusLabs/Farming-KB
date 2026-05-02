@@ -131,6 +131,6 @@ fruit development).
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
 - [[compost-tea-guide]] — comprehensive overview of compost tea methods and
   applications
-- [[compost-tea-brewing-guide]] — step-by-step brewing instructions and recipes
+- [[compost-tea-brewing]] — step-by-step brewing instructions and recipes
 - [[foliar-feeding-plants]] — detailed foliar feeding techniques and spray
   recipes

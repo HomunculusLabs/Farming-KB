@@ -13,11 +13,9 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 
 
-
 ## Overview
 
 This guide draws from "Permaculture Plants: A Selection" to provide an introduction to selecting plants for permaculture systems. The book serves as a resource list to help permaculture practitioners reduce time spent searching through volumes of material, allowing more time for planning and planting.
-
 
 
 
@@ -28,7 +26,6 @@ This guide draws from "Permaculture Plants: A Selection" to provide an introduct
 There are about 15,000 plants recorded in the literature as edible, with likely many more unrecorded. Plants feed us directly, indirectly through animals (meat, eggs, milk), and provide medicines, dyes, fibres, timber, fuel, fences, windbreaks, and shelter. Some fix atmospheric nitrogen and others suppress fire.
 
 As J. Sholto Douglas et al wrote in "Forest Farming": "The tool with the greatest potential for feeding men and animals, for regenerating the soil, for restoring water systems, for controlling floods and droughts, for creating more benevolent micro-climates and more comfortable and stimulating living conditions for humanity is the tree."
-
 
 
 
@@ -48,13 +45,11 @@ When designing, first consider house sites (sun-facing slopes in cooler climates
 
 
 
-
 ## Selecting Species for a Site
 
 Not all species suit a particular site. The primary concern when fitting a species into a system is ensuring that its **needs will be met** for optimum production. Plants can be placed into microclimates to accommodate special requirements (aspect, slope, shelter, soil type).
 
 Given the changing global climate, it is reasonable to include species that will survive the current climate but may excel if conditions shift.
-
 
 
 
@@ -76,7 +71,6 @@ Key techniques:
 
 
 
-
 ## The Conservation Imperative
 
 The book frames permaculture plant selection as fundamentally about **conservation** -- conservation of soil, fossil fuel, human energy, species, and genotypes. The authors argue that species loss exceeds cataloguing, and that growing species in our own systems may be the only chance of saving many plants. Many domesticated fruits are now unknown in the wild.
@@ -85,10 +79,9 @@ The book frames permaculture plant selection as fundamentally about **conservati
 
 
 
-
 ## Related
 
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[difficult-site-planting]]
 - [[bee-forage-plant-system]]
 - [[permaculture-design-process]]

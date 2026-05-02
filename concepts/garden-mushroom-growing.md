@@ -125,4 +125,3 @@ The elm oyster mycelium interacts with plant roots, enhancing growth while produ
 ## Related
 
 - [[stem-butt-cardboard-cultivation]]
-

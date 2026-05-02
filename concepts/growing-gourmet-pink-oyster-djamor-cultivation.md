@@ -1,25 +1,12 @@
 ---
-title: Pink Oyster Mushroom (Pleurotus djamor) Cultivation
-created: 2026-04-26
-tags:
-  - mycology
-  - mushroom-cultivation
-  - oyster-mushrooms
-  - tropical-mushrooms
-  - pleurotus
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
+ti
 
 # Pink Oyster Mushroom ([[pleurotus-djamor]]) Cultivation
 
 ## Overview and Description
 
 The Pink Oyster mushroom encompasses a complex of brilliantly pink
-Oyster mushrooms, the most commonly occurring wild Pleurotus in
+[[oyster-mushrooms]], the most commonly occurring wild Pleurotus in
 pan-tropical climatic zones of the world. Known for its speed to
 fruiting, ability to flourish on a wide variety of base materials, and
 high temperature tolerance, this species is so aggressive as to
@@ -82,7 +69,7 @@ from mushrooms that were originally pink but faded to cream-beige.
 
 ## Mycelial Characteristics
 
-White at first, casting a longitudinally linear mycelium, often
+White at first, casting a longitudinally linear [[mycelium]], often
 over-run with long, diverging rhizomorphs, eventually cottony with
 maturity, and aerial. Most strains soon develop strong pinkish tones,
 especially as the mycelium matures, at and around the sites of primordia

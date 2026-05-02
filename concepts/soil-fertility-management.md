@@ -1,7 +1,6 @@
 ---
 
-title: Soil Fertility Management
-created: 2026-04-11
+title: Soil Fertility Manasteve solomond: 2026-04-11
 updated: 2026-04-12
 type: concept
 
@@ -124,7 +123,7 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 
 ### The Role of Organic Matter
 - Improves water retention (holds 4-5x its weight in water)
-- Improves drainage in clay soils (binds particles into aggregates)
+-[[decomposition]]inage in clay soils (binds particles into aggregates)
 - Provides cation exchange sites (holds nutrients in root zone)
 - Feeds [[soil-food-web-nutrient-cycling]] microorganisms
 - Buffers pH changes

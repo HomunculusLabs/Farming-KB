@@ -82,3 +82,26 @@ Source: Geoff Hamilton, The Organic Garden Book
 - [[fukuoka-vegetable-growing-natural-method]]
 - [[garden-myths-native-plants-and-invasive-species]]
 - [[organic-lawn-care-hamilton]]
+
+## Establishment Timeline and Management
+
+Establishing a wildflower meadow is a multi-year process that requires
+patience and appropriate management at each stage. In the first year,
+annual weeds typically dominate the site while perennial wildflower seeds
+establish their root systems. Regular mowing at 6-8 inches height during
+the first growing season prevents weeds from going to seed without
+damaging the developing perennial seedlings. The second year shows
+significant improvement as perennial plants begin to fill in, and by
+the third year, a well-established meadow should be largely
+self-sustaining with minimal weed pressure.
+
+Ongoing management includes annual mowing in late winter or early spring
+(before new growth begins) to remove accumulated thatch and prevent woody
+plants from establishing. Some meadow managers practice rotational mowing,
+cutting only one-third to one-half of the meadow each year to maintain
+diverse habitat structure for wildlife. Periodic spot treatment of
+invasive species is necessary, and overseeding with native wildflowers
+every 3-5 years helps maintain species diversity as individual plants
+age and die. The reward for this management is a low-maintenance landscape
+that supports pollinators, birds, and beneficial insects while requiring
+a fraction of the inputs of a conventional lawn.

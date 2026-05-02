@@ -92,7 +92,6 @@ Psilocybe cubensis, which now has a pantropical distribution likely
 linked to cattle ranching and the movement of livestock between
 continents over the past several centuries.
 
-
 ## Molecular Phylogenetics and Classification
 
 Molecular phylogenetic studies using DNA sequencing have revolutionized

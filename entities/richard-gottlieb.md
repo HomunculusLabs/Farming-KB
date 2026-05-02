@@ -21,7 +21,6 @@ Adam Gottlieb (published under "Richard Gottlieb" on peyote guide) is the author
 
 
 
-
 ## The Psilocybin Producer's Guide (1976)
 
 Gottlieb's psilocybin guide pioneered the concept of mycelial liquid culture as an alternative to fruiting body cultivation. The subtitle promises "How to produce 5000 doses of organic psilocybin in a small room every week." Key innovations:
@@ -36,7 +35,6 @@ Gottlieb's psilocybin guide pioneered the concept of mycelial liquid culture as 
 - **Legal analysis**: extensive discussion of drug law contradictions, including the argument that mycelium cultivation existed in a legal gray area
 
 Gottlieb took a philosophical stance on drug laws, calling them "a pathetic mess" rooted in "ignorance" and arguing that "reliable education — not criminal penalization — is the answer to whatever drug problems exist."
-
 
 
 
@@ -64,11 +62,9 @@ Comprehensive guide covering identification, cultivation from seed, and preparat
 
 
 
-
 ## Contributions and Legacy
 
-Gottlieb's guides bridged academic mycology and home cultivation, making advanced techniques accessible to non-specialists. His emphasis on liquid culture over fruiting bodies influenced later commercial cultivation approaches. The production-scale design in his psilocybin guide anticipated the legal psilocybin manufacturing facilities that would emerge decades later. See [[psychoactive-cacti-guide]] and [[psilocybin-mushroom-cultivation]] for broader cultivation context.
-
+Gottlieb's guides bridged academic mycology and home cultivation, making advanced techniques accessible to non-specialists. His emphasis on liquid culture over fruiting bodies influenced later commercial cultivation approaches. The production-scale design in his psilocybin guide anticipated the legal psilocybin manufacturing facilities that would emerge decades later. See [[psychoactive-cacti-guide]] and [[psilocybin-cultivation]] for broader cultivation context.
 
 
 
@@ -82,7 +78,7 @@ Gottlieb's guides bridged academic mycology and home cultivation, making advance
 
 - [[jochen-gartz]] — fellow cultivation guide author with broader species focus
 - [[paul-stamets]] — commercial mushroom cultivation pioneer
-- [[psilocybin-mushroom-cultivation]] — broader cultivation methods including Gottlieb's techniques
+- [[psilocybin-cultivation]] — broader cultivation methods including Gottlieb's techniques
 - [[psychoactive-cacti-guide]] — cactus cultivation and preparation
 - [[peyote-cultivation]] — detailed peyote cultivation methods
 - [[cactus-cultivation-seed-cutting]] — cactus propagation from seed and cutting

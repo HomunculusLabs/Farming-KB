@@ -135,6 +135,6 @@ Fungi that infect and kill insects are critical natural regulators of insect pop
 - [[fungal-pest-control]] for entomopathogenic fungi as biocontrol agents
 - [[mycoremediation-basics]] for fungal enzymatic capabilities relevant to pathogenesis
 - [[mushroom-contamination-identification]] for fungal contaminants in cultivation
-- [[mushroom-pests-and-diseases]] for mushroom crop pests and pathogens
+- [[cotter-mushroom-pests-diseases]] for mushroom crop pests and pathogens
 ## Related
 - [[fungal-plant-diseases]]

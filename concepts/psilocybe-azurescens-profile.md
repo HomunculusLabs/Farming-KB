@@ -85,6 +85,8 @@ After six months of storage, analyses revealed that this species retained most o
 - Psilocybe semilanceata -- shares high baeocystin content
 - Psilocybe subaeruginosa, Psilocybe serbica, Psilocybe venenata
 
+
+
 ## See Also
 
 - [[psilocybe-stuntzii-profile]]

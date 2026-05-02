@@ -10,7 +10,7 @@ sources:
 
 # Ecological Balance Principles
 
-Masanobu Fukuoka's understanding of [[fukuoka-four-principles-natural-farming-detailed]] is grounded in deep observation of how ecological balance operates in nature. His core insight is that nature inherently abhors the unnatural and makes every effort to return to its true state by discarding human techniques for increasing harvests.
+Masanobu Fukuoka's understanding of [[fukuoka-four-principles-natural-farming]] is grounded in deep observation of how ecological balance operates in nature. His core insight is that nature inherently abhors the unnatural and makes every effort to return to its true state by discarding human techniques for increasing harvests.
 
 ## The Natural Order
 

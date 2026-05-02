@@ -20,13 +20,11 @@ The fourth of David Holmgren's twelve permaculture design principles. This princ
 
 
 
-
 ## Core Concept
 
 All healthy systems regulate themselves through feedback loops. When a system produces too much of something, negative feedback dampens the excess. When something is lacking, positive feedback amplifies production. Holmgren argues that understanding and working with feedback is central to sustainable design.
 
 The failure of many human systems — industrial agriculture, fossil fuel economies, growth-based economics — stems from a lack of effective negative feedback. These systems push toward extremes because the signals that should trigger self-correction are ignored, suppressed, or externalized.
-
 
 
 
@@ -50,7 +48,6 @@ Holmgren notes that external environmental factors — food availability, diseas
 
 
 
-
 ## Self-Regulation in Design
 
 In permaculture design, we aim to create systems that self-regulate as much as possible, reducing the need for ongoing human intervention:
@@ -59,7 +56,6 @@ In permaculture design, we aim to create systems that self-regulate as much as p
 - **Fertility**: Use nitrogen-fixing plants, deep-rooted accumulators, and composting cycles rather than imported fertilizers
 - **Water**: Design earthworks and plantings that slow, spread, and sink water rather than relying on irrigation
 - **Weeds**: Understand what weeds indicate about soil conditions and address the root cause rather than repeatedly fighting symptoms
-
 
 
 
@@ -79,11 +75,9 @@ This principle also implies ethical self-regulation. Holmgren connects it to the
 
 
 
-
 ## The Role of Limits
 
 Limits and negative feedback are not enemies of productivity — they are essential to it. Just as pruning a tree redirects energy into fruit production rather than excessive vegetative growth, appropriate limits on human activity redirect energy toward what is truly valuable and sustainable.
-
 
 
 

@@ -73,7 +73,7 @@ Despite its psychoactive potential, *I. crocata* has never been documented as a 
 ## See Also
 
 - [[inocybe-aeruginascens]] — a psilocybin-containing Inocybe with blue-green coloration
-- [[inocybe-corydalina]] — another Inocybe species reported to contain psilocybin
+- [[inocybe-corydalina-entity]] — another Inocybe species reported to contain psilocybin
 - [[inocybe-haemacta]] — reddish-toned psilocybin-containing Inocybe
 - [[inocybe-tricolor]] — North American psilocybin-containing Inocybe
 - [[muscarine]] — the toxic alkaloid found in most Inocybe species

@@ -1,12 +1,12 @@
 ---
-title: 2-Me-DMT (2,N,N-Trimethyltryptamine) — TIHKAL Entry #34
+titldmt2-Me-DMT (2,N,N-Trimethyltryptamine) — TIHKAL Entry #34
 created: 2026-04-17
 updated: 2026-04-17
 type: entity
 tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
-# 2-Me-DMT (2,N,N-Trimethyltryptamine)
+# [[indole]]MT (2,N,N-Trimethyltryptamine)
 
 TIHKAL entry #34. 2-Me-DMT, also known as 2,N,N-trimethyltryptamine (TMT) or desmethoxy-Indapex, is a synthetic tryptamine with a methyl group at the 2-position of the indole ring. It produces an unusual pharmacological profile characterized by tactile enhancement, sexual amplification, and subtle auditory distortion, rather than the classic visual psychedelic effects associated with most tryptamines.
 

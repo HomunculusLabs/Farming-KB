@@ -1,7 +1,7 @@
 ---
 title: Fermented Plant Juice
 type: chemical
-tags: [knf, fpj, plant-extract, fermentation, cho-global]
+tags: [knf, fpj, plant-extranatural-farmingn, cho-global]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
@@ -80,7 +80,7 @@ The fermentation process creates a complex mixture of bioactive compounds:
 FPJ functions as both a direct plant nutrient and a microbial food source within the broader KNF system:
 
 * **Synergy with IMO:** FPJ provides simple sugars and amino acids that feed Indigenous Microorganism communities, sustaining their populations in soil and on plant surfaces
-* **Growth stage matching:** Different FPJ types are applied at different growth stages to match plant nutritional needs — nitrogen-rich FPJ during vegetative growth, potassium-rich FPJ during flowering and fruiting
+* **Growth stage matching:** Different FPJ types are applied at different growth stages to match plant nutritional needs — nitrogen-rich FPJ during vegetative growth, [[soil-food-web]]h FPJ during flowering and fruiting
 * **Stress management:** Seaweed and herbal FPJs are applied during environmental stress (drought, temperature extremes, pest pressure) to support plant resilience
 * **Soil food web support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting nutrient cycling and disease suppression
 

@@ -124,4 +124,3 @@ contact fungal biomass and enzymes, relevant to
   *Appl. Environ. Microbiol.*, 65, 2697-2702.
 - Jager, A., Croan, S. & Kirk, T. K. (1985). Ligninases in agitated cultures.
   *Appl. Environ. Microbiol.*, 50, 1274-1278.
-

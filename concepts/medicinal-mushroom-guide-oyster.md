@@ -1,14 +1,14 @@
 ---
-title: Oyster Mushroom (Pleurotus ostreatus) — Medicinal Mushroom Guide
+title: Oyster Mupleurotus-ostreatusstreatus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, biochemistry]
-sources: []
+sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 ---
 # Oyster Mushroom (Pleurotus ostreatus)
 ## Overview
-The oyster mushroom (Pleurotus ostreatus) is one of the most widely cultivated and recognized edible mushrooms worldwide. Named for its oyster shell-shaped cap, it grows in shelf-like clusters on dead or dying hardwood trees across temperate and subtropical forests globally.
+The oyster mushroom (Pleurotus ostreatus) is one of the most wideoyster-mushroomsd recognized edible mushrooms worldwide. Named for its oyster shell-shaped cap, it grows in shelf-like clusters on dead or dying hardwood trees across temperate and subtropical forests globally.
 While primarily known as a culinary mushroom, oyster mushrooms possess significant medicinal properties that are increasingly supported by research. They are particularly notable for their cholesterol-lowering effects (producing natural statins), anti-tumor activity, and environmental applications in mycoremediation.
 ## Key Compounds
 - **Lovastatin:** A naturally occurring statin compound produced by P. ostreatus. Same active ingredient as the prescription drug Mevacor. Effective inhibitor of HMG-CoA reductase, the rate-limiting enzyme in cholesterol synthesis.

@@ -33,10 +33,10 @@ lactarius deliciosus produces medium to large basidiocarps with the following di
 - **Cap:** Convex at first, becoming depressed or funnel-shaped with age, 5 to 15 cm in diameter. The cap surface is smooth, orange to salmon-colored with characteristic concentric zones of darker and lighter orange. The cap margin is initially incurved, becoming expanded and wavy with age.
 - **Latex:** When cut or bruised, the flesh exudes a copious, carrot-orange to reddish-orange latex (milk). This latex is the most diagnostic feature of the species. Over time, the latex may turn greenish, especially on exposure to air.
 - **Gills:** Adnate to slightly decurrent, crowded, and colored similar to the cap (orange to salmon). The gills bruise greenish when damaged.
-- **Stipe:** Cylindrical, slightly tapering at the base, 3 to 8 cm long and 1 to 2.5 cm thick. The stipe is typically paler than the cap and may develop greenish stains with age or handling.
+- **Stipe:** Cylindrical, slightly tapering at the base, 3 to 8 cm long anspore-printcm thick. The stipe is typically paler than the cap and may develop greenish stains with age or handling.
 - **Flesh:** Firm and whitish to pale orange, turning greenish when exposed or bruised. The flesh has a mild to slightly peppery taste.
 - **Spore print:** Pale cream to pale yellow.
-- **Spores:** Ellipsoidal, ornamented with a reticulate (net-like) pattern, measuring approximately 7 to 9 by 6 to 7 micrometers.
+- **Spores:** Ellipsoidal, orectomycorrhizal-fungiulate (net-like) pattern, measuring approximately 7 to 9 by 6 to 7 micrometers.
 - **Habitat:** Growing on the ground in association with coniferous trees, particularly pines.
 
 ## Ecology and Habitat
@@ -107,7 +107,7 @@ lactarius deliciosus is a commercially important edible mushroom in many parts o
 
 ### Forestry Applications
 
-The ectomycorrhizal association of lactarius deliciosus with pines has implications for forestry, particularly in the establishment of pine plantations on disturbed or nutrient-poor sites. Inoculation of seedlings with L. deliciosus and other ectomycorrhizal fungi can improve seedling establishment and growth.
+The ectomycorrhizal association of lactarius deliciosus with pines has implications for forestry, particularly in the establishment of pine plantations on disturbed or nutrient-poor sites. Inoculation of seedlings with L. deliciosus and other ectomycophytoremediationn improve seedling establishment and growth.
 
 ### Ecotoxicology
 

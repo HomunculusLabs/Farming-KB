@@ -37,7 +37,7 @@ G; 2,5-DIMETHOXY-3,4-DIMETHYLAMPHETAMINE
 > experiment, I looked at a collection of photos from a recent trip to
 > Europe, and the visual enhancement was wonderful. A rolling +++.
 ## Extensions and Commentary
-This compound was the seventh of the ten
+This compound wasdome seventh of the ten
 possible Classic Ladies. I have mentioned the concept already under
 the discussions on ARIADNE. This is the teutonic replacement of each
 of the distinguishable hydrogen atoms of DOM with a methyl group. The

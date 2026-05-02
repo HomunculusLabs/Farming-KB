@@ -55,8 +55,7 @@ T. aurantia has a broad distribution in temperate and subtropical regions worldw
 - Asia (China, Japan, Korea)
 - Australia
 - Parts of South America
-
-The species is an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[trametes-versicolor]] (turkey tail), though it has also been reported on related trametoid fungi including:
+[[trametes-hirsuta]]an obligate mycoparasite, growing almost exclusively on the fruiting bodies of its host fungus. The primary host is [[trametes-versicolor]] (turkey tail), though it has also been reported on related trametoid fungi including:
 
 - *Trametes hirsuta*
 - *Trametes ochracea*

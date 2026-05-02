@@ -1,15 +1,12 @@
 ---
 
-title: PF TEK Guide
-created: 2026-04-11
+title: PF TEK Guipsilocybe-fanaticus-11
 updated: 2026-04-12
 type: concept
 
 tags:
 - cultivation
-- methods
-- indoor
-- equipment
+- memushroom-cultivationipment
 - rice
 - fruit-tree
 - fruiting
@@ -23,7 +20,7 @@ sources:
 
 # PF TEK Guide
 
-The Psilocybe Fanaticus TEK (Technique), first published in 1992, revolutionized home mushroom cultivation by making it accessible using common kitchen supplies. PF TEK remains the most widely copied and influential beginner cultivation method. See [[pf-tek-fruiting-chamber]] for detailed fruiting chamber construction and [[mushroom-harvesting-potency]] for harvest/drying/potency optimization.
+The Psilocybe Fanaticus TEK (Technique), first published in 1992, revolutionized home mushroom cultivation by making it accessible using common kitchen supplies. PF[[psilocybe-fanaticus]]st widely copied and influential beginner cultivation method. See [[pf-tek-fruiting-chamber]] for detailed fruiting chamber construction and [[mushroom-harvesting-potency]] for harvest/drying/potency optimization.
 
 ## History
 
@@ -151,4 +148,3 @@ See [[mushroom-harvesting-potency]] for complete details:
 
 Related: [[brown-rice-flour-substrate]]
 
-Related: [[brown-rice-flour-substrate]]

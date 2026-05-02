@@ -65,7 +65,7 @@ psilocybin-containing mushrooms. Species in this guide include:
   guide through harvested specimens, though detailed habitat
   information is limited.
 
-- **[[psilocybe-pelliculosa]]**: Known as the "Conifer Psilocybe," this
+- **[[psilocybe-pelliculosa-entity]]**: Known as the "Conifer Psilocybe," this
   species is associated with coniferous forest habitats in the Pacific
   Northwest of North America.
 

@@ -11,7 +11,7 @@ updated: 2026-04-28
 sources: []
 ---
 
-# Bokashi vs Compost Tea
+[[permaculture]] Compost Tea
 
 ## Overview
 
@@ -19,14 +19,14 @@ sources: []
 
 While bokashi transforms waste into a soil-building input, compost tea amplifies existing biology and delivers it as a fast-acting foliar or drench application. Understanding the distinction helps growers use both effectively in an integrated soil management strategy.
 
-Both methods originated from parallel traditions: bokashi from Japanese agricultural practices developed by Teruo Higa in the 1980s, and compost tea from organic farming research in the late 1990s and early 2000s, notably advanced by Elaine Ingham's soil food web work. Despite their different lineages, they share a focus on leveraging microbial communities to improve growing conditions without synthetic inputs.
+Both methods originated from parallel traditions:[[elaine-ingham]] Jasoil-food-webltural practices developed by Teruo Higa in the 1980s, and compost tea from organic farming research in the late 1990s and early 2000s, notably advanced by Elaine Ingham's soil food web work. Despite their different lineages, they share a focus on leveraging microbial communities to improve growing conditions [[lactic-acid-bacteria]]puts.
 
 ## Key Differences
 
 ### Process
 
 - **Bokashi** relies on anaerobic (oxygen-free) fermentation. Layered food waste is inoculated with a bran carrier coated in lactic acid bacteria, yeasts, and photosynthetic bacteria, then sealed in a bucket for 2–4 weeks. The process is acidic (pH ~3.5–4.5) and pickles organic matter rather than decomposing it. No heat is generated during fermentation, making it energy-neutral beyond the embodied energy of the bucket and bran.
-- **Compost tea** is an aerobic process. Finished, high-quality compost is suspended in dechlorinated water and vigorously aerated for 12–24 hours using an air pump and diffuser stones. The oxygen-rich environment favors beneficial bacteria, fungi, and protozoa, which multiply rapidly in the liquid. A food source (molasses, kelp, fish hydrolysate) is typically added to fuel microbial growth. Dissolved oxygen must remain above 6 mg/L throughout brewing to prevent anaerobic organisms from dominating.
+- **Compost tea** is an aerobic process. Finished, high-quality compost is suspended in dechlorinated water and vigorously aerated for 12–24 hours using an air pump and diffuser stones. The oxygen-rich environment favors beneficial bacteria, fungi, and protozoa, which multiply rapidly in the liquid. A food source (molasses, kelp, fish hydrolysate) is typically added to fuel microbial growth. Dissolved oxygen must remain above 6 mg/L throughout brewing to prevent anaerobic organisms frdecomposition.
 
 ### Purpose
 

@@ -73,7 +73,7 @@ It was Valentina who first proposed that the cultural divide over mushrooms migh
 
 The [[wasson-mexico-expeditions]] of 1953-1955 transformed both Wasson's career and the lives of the indigenous communities he visited. The 1957 Life magazine article "Seeking the Magic Mushroom" — the first mainstream publication to describe psilocybin mushroom use — reached millions of readers and ignited a wave of psychedelic tourism to Oaxaca.
 
-This publicity had devastating consequences for the [[maria-sabina-and-mazatec-mushroom-ceremony]], particularly for Maria Sabina, who felt betrayed by the exposure. The influx of outsiders disrupted traditional practices and attracted law enforcement attention. The episode became a cautionary tale about the ethics of ethnographic research and the vulnerability of indigenous knowledge systems.
+This publicity had devastating consequences for the [[maria-sabina-mazatec-mushroom-ceremony]], particularly for Maria Sabina, who felt betrayed by the exposure. The influx of outsiders disrupted traditional practices and attracted law enforcement attention. The episode became a cautionary tale about the ethics of ethnographic research and the vulnerability of indigenous knowledge systems.
 
 ## Scholarly Response and Criticism
 

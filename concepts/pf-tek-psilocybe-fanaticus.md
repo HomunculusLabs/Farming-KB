@@ -117,7 +117,7 @@ became celebrated as an illicit folk art.
 
 ## See Also
 
-- [[psylocybe-fanaticus]]
+- [[psilocybe-fanaticus]]
 
 - [[psilocybe-fanaticus]]
 

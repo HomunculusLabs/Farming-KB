@@ -92,7 +92,7 @@ H. capsulatum is classified in biohazard class 3, the second-highest hazard grad
 - High virulence in susceptible hosts, with the potential for severe disseminated disease
 - Easily aerosolized, respirable conidia that can cause infection through inhalation
 - Risk of laboratory-acquired infections, which may be unusually severe due to high inoculum loads
-- Requirement for specialized containment facilities (BSL-3) for culture and manipulation
+- Requirement for specialized cofungal-biodiversitys (BSL-3) for culture and manipulation
 - Complicated regulatory requirements for culture shipping and handling, especially across international borders
 
 ## Impact on Biodiversity Studies

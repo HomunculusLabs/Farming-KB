@@ -12,7 +12,7 @@ type: concept
 # [[mushroom-life-cycle]]
 When a collector finds mushrooms in the wild, the encounter is a mere
 coincidence, a "snap-shot" in time of a far vaster process. The mushroom
-life cycle remains largely invisible to most mushroom hunters; not so to
+life cycle remainsporegely invisible to most mushroom hunters; not so to
 cultivators. The cultivator follows the path of the mushroom life cycle
 from beginning to end. Only at the completion of the mushroom life
 cycle, which may span weeks or months, do mushrooms appear, and then
@@ -24,7 +24,7 @@ For mushrooms to survive in a highly competitive world where legions of
 other fungi and bacteria seek common ecological niches, millions of
 spores are often produced per mushroom. With the larger agarics, the
 numbers become astronomical. Since mushrooms reproduce through spores,
-the success of the mushroom life cycle depends upon their production.
+tmyceliumss of the mushroom life cycle depends upon their production.
 
 Each spore released possesses one half of the genetic material necessary
 for propagation of the species. Each mushroom is like an island. From

@@ -122,7 +122,6 @@ boiling water.
 - Soil adaptability: wide range, including sandy and marginal soils
 - Frost tolerance: moderate; young seedlings need protection
 
-
 ## See Also
 
 - [[permplant-fig-ficus-carica-fruit-tree]]

@@ -123,7 +123,7 @@ The guide's cannabis-assisted scrying practices can be compared to traditional m
 - **Water scrying**: The chalice of wine in the Vortex ritual could serve a function analogous to water scrying, where the liquid surface becomes a medium for visionary perception. The practitioner drinks from the chalice during the ritual, internalizing the scrying medium
 - **Fire scrying**: The Feeding the Flame ritual's emphasis on meditating on the sacred fire while under the influence of cannabis parallels traditions of pyromancy (divination by fire), where visions are perceived in the flames. The text instructs the practitioner to "meditate on the flame and how it reaches into all areas of our life"
 
-In each case, cannabis serves as an accelerant that helps the practitioner reach the visionary state more quickly than traditional methods might allow. The guide explicitly frames this as an advantage: cannabis helps practitioners reach "the depths of our minds when we might not be able to ourselves."
+In each case, cannabis serves as an accelerant that helps the practitioner reach the visionary state more quickly than traditional methods might allow. The guide explicitly frames this as an advantage: cannabis helps practitioners reach "the depths of our minds when we migset-and-settingto ourselves."
 
 ## Safety and Set-and-Setting Considerations
 

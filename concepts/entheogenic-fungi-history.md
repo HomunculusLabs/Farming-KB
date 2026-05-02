@@ -96,7 +96,6 @@ and protection in some countries, and the field of psychedelic-assisted
 therapy is emerging as a legitimate and growing area of medical practice
 and scientific investigation.
 
-
 ## Ethnobotanical Knowledge Systems
 
 Indigenous knowledge systems surrounding entheogenic fungi encompass far

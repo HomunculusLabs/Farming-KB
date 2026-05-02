@@ -85,4 +85,4 @@ The low-input philosophy extends to tools:
 - [[growing-food-in-hard-times]] — The low-input philosophy behind tool choices
 - [[direct-seeding-techniques]] — Techniques that minimize the need for specialized equipment
 - [[soil-conditioners-guide]] — Understanding soil helps you use tools more effectively
-- [[irrigation-watering-techniques]]
+- [[cervantes-irrigation-watering-techniques]]

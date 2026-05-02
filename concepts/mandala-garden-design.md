@@ -113,6 +113,6 @@ Divide the mandala into functional zones:
 - **Fall:** Plant a second round of cool-season crops. Add a cold frame or row cover over one or two beds for winter extension (see [[cold-frame-gardening]] and [[grow-tunnel-and-hoop-house]]).
 - **Winter:** Cover crop beds not in use, or add compost and let them rest
 ## Related Concepts
-- [[keyhole-garden-design]] for the keyhole path concept used within mandala gardens
+- [[permaculture-designers-manual-keyhole-garden]] for the keyhole path concept used within mandala gardens
 - [[herb-spiral-construction]] for a center feature option in mandala design
 - [[grow-tunnel-and-hoop-house]] for season extension within mandala garden beds

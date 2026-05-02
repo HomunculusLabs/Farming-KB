@@ -99,7 +99,7 @@ Composting chamber is separate from the toilet, connected by a chute or pipe.
 
 ## Humanure System
 
-The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet approach using simple 5-gallon buckets and outdoor composting bins.
+The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet approach using simple 5-gallon buckets and outdoor [[composting]] bins.
 
 ### How It Works
 
@@ -107,8 +107,8 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 2. After each use, add a handful of sawdust, peat moss, or other carbon material
 3. When the bucket is full, empty it into an outdoor compost bin
 4. The compost bin is managed like any other compost pile, maintaining proper carbon-nitrogen balance
-5. After 1-2 years of composting, the material is safe to use on ornamental plants (not food crops)
-6. NEVER use fresh compost on food crops — complete thermophilic composting is essential for pathogen kill
+5. After 1-2 years of [[composting]], the material is safe to use on ornamental plants (not food crops)
+6. NEVER use fresh compost on food crops — complete thermophilic [[composting]] is essential for pathogen kill
 
 ### Compost Bin Design
 
@@ -118,7 +118,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 - Start with a base of straw or leaves
 - Add bucket contents, then cover with fresh carbon material
 - Keep covered to prevent rain saturation
-- Monitor temperature — thermophilic composting (120-160F) kills pathogens
+- Monitor temperature — thermophilic [[composting]] (120-160F) kills pathogens
 
 ### Safety
 
@@ -126,7 +126,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 - Let finished compost age for 6-12 months before use
 - Use only on ornamental plants, fruit trees, or buried in food gardens
 - Hand washing is essential after handling
-- Local regulations vary — some prohibit humanure composting
+- Local regulations vary — some prohibit [[humanure-composting]]
 
 ## Greywater Systems
 

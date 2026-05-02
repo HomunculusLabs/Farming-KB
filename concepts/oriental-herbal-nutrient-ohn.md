@@ -24,9 +24,9 @@ sources:
 - raw/papers/beneficial-indigenous-microorganisms-bionutrients.md
 ---
 
-# Oriental Herbal Nutrient (OHN)
+# Oriental Herbal Nutrient ([[natural-farming-ohn-preparation|OHN]])
 
-OHN is a medicinal herbal tincture in Korean Natural Farming. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in Korean [[ultra-low-cost-farming-overview|Natural Farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
@@ -139,14 +139,8 @@ Apply early morning or late evening. OHN can be combined with other KNF inputs (
 
 For crops that are visibly struggling, yellowing, or recovering from damage:
 
-| Input | Amount per 1000ml water |
+| Input | Amount per 1000ml [[knf-water-soluble-calcium|water]] |
 |-------|------------------------|
 | FPJ | 2 ml |
 | BRV | 2 ml |
 | OHN | 1 ml |
-| FAA | 1 ml (for nitrogen-deficient crops) |
-| WS-Ca | 1 ml (for over-luxurious, soft growth) |
-
-Apply every 3-5 days until recovery is visible.
-
-Related: [[cotter-natural-pest-control-disease-management]], [[ginger-garlic-extract-bionutrient]], [[natural-farming-guide-biological-pest-control-predators]]

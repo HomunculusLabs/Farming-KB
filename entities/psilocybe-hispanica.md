@@ -22,7 +22,7 @@ Molecular phylogenetic studies have confirmed its placement within a European cl
 
 The species belongs to section Semilanceata of the genus psilocybe, characterized by species with a peeling gelatinous pellicle on the cap, hygrophanous pileus, and a preference for grassland habitats.
 
-Other members of this section include [[psilocybe-semilanceata]], [[psilocybe-serbica]], [[psilocybe-caerulescens]], and psilocybe-galindoi.
+Other members of this section include [[psilocybe-semilanceata]], [[psilocybe-serbica]], [[psilocybe-caerulescens-entity]], and psilocybe-galindoi.
 
 ## Distribution
 

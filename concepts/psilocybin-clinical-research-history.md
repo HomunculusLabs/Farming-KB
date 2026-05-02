@@ -118,7 +118,9 @@ Modern research at institutions like Johns Hopkins has revived this line of
 inquiry, confirming many of the original findings about psilocybin's
 therapeutic and mystical potential.
 
-## Related Concepts
+## Related
+
+- [[humphry-osmond]] Concepts
 
 - [[hallucinogenic-plants-history-ethnobotany]]
 - [[wasson-rediscovery-of-psilocybin]]

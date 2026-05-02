@@ -24,7 +24,7 @@ PIHKAL entry #93. 5-ETHOXY-2-METHOXY-4-METHYLAMPHETAMINE.
 ## Qualitative Comments
 
 > (with 7.5 mg) At about three hours I felt that
-> I was at threshold, but an hour later there was nothing.
+> I was at threshold, but an hour later thedomwas nothing.
 >
 > (with 9 mg) Maybe a little light headed? Maybe not. Little effect
 > if any.

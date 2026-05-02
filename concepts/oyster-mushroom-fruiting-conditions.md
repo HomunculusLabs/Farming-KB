@@ -38,7 +38,7 @@ variation. Indoor growers can achieve this with programmable environmental
 controllers.
 ## Fresh Air Exchange (FAE)
 ### Carbon Dioxide Levels
-Oyster mushrooms are extremely sensitive to CO2 concentration. During
+[[oyster-mushrooms]] are extremely sensitive to CO2 concentration. During
 incubation, high CO2 (5,000--10,000 ppm) promotes rapid mycelial growth.
 For fruiting, CO2 must be reduced to below 1,000 ppm (ideally 400--800 ppm,
 near ambient atmospheric levels).
@@ -56,7 +56,7 @@ but may limit yields. Oscillating fans improve air circulation without
 creating direct drafts on developing primordia.
 ## Humidity
 ### Relative Humidity Requirements
-Oyster mushrooms require high humidity throughout the fruiting cycle:
+[[oyster-mushrooms]] require high humidity throughout the fruiting cycle:
 - Primordia formation: 90--95% RH
 - Early fruiting development: 85--92% RH
 - Mature fruiting bodies: 80--85% RH
@@ -76,7 +76,7 @@ misting cycles. Water droplets sitting on mushroom surfaces promote bacterial
 growth.
 ## Light
 ### Light Requirements
-Oyster mushrooms require light for normal fruiting body development, unlike
+[[oyster-mushrooms]] require light for normal fruiting body development, unlike
 some cultivated species (e.g., button mushrooms) that fruit in darkness.
 - **Quantity**: 200--1,000 lux (approximately 10--50 foot-candles)
 - **Duration**: 12 hours on / 12 hours off photoperiod
@@ -87,7 +87,7 @@ some cultivated species (e.g., button mushrooms) that fruit in darkness.
 - **Insufficient light**: Abnormal morphology, leggy stems
 - **Too much light**: Browning, drying of caps, reduced yield
 - **Indirect natural light**: Often sufficient for home cultivation
-- **LED grow lights**: 5000--6500K color temperature works well
+- **[[led-grow-lights]]**: 5000--6500K color temperature works well
 Light also influences pigmentation in colored varieties. *P. citrinopileatus*
 produces more intense yellow under higher light, while *P. djamor* develops
 deeper pink with adequate exposure.
@@ -101,7 +101,7 @@ most critical period. A systematic approach improves consistency:
 4. **Increase FAE**: Open bags or increase ventilation
 5. **Maintain high humidity**: 90--95% RH for primordia development
 ## Flush Management
-Oyster mushrooms typically produce 2--4 flushes (harvest cycles) from a
+[[oyster-mushrooms]] typically produce 2--4 flushes (harvest cycles) from a
 single substrate block. Each subsequent flush produces fewer and smaller
 mushrooms. Between flushes, allow a 7--14 day rest period with reduced
 humidity and temperature returned to incubation range before re-triggering.

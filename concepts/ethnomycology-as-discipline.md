@@ -17,7 +17,7 @@ It sits at the intersection of mycology, anthropology, ethnobotany, archaeology,
 
 The formal discipline of ethnomycology is generally considered to have been founded by R. Gordon Wasson, a vice president of J.P. Morgan and amateur mycologist, whose extensive research into the cultural significance of mushrooms spanned several decades.
 
-Wasson's most celebrated contribution was his discovery and documentation of the sacred mushroom ceremonies of the Mazatec people of Oaxaca, Mexico, which he first witnessed in 1955 under the guidance of the shaman [[maria-sabina-and-mazatec-mushroom-ceremony]].
+Wasson's most celebrated contribution was his discovery and documentation of the sacred mushroom ceremonies of the Mazatec people of Oaxaca, Mexico, which he first witnessed in 1955 under the guidance of the shaman [[maria-sabina-mazatec-mushroom-ceremony]].
 
 Wasson's subsequent identification of the Vedic Soma as the [[amanita-muscaria-ethnobotany]] represented a groundbreaking synthesis of mycological, philological, and anthropological evidence that opened an entirely new field of scholarly inquiry.
 
@@ -119,7 +119,7 @@ Despite these challenges, ethnomycology has made substantial contributions to ou
 
 - [[wasson-hofmann-ruck-theory]]
 
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 
 - [[psychedelic-mushroom-art-and-iconography]]
 

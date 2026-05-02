@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Crisis Response Protocol
+title: psychedelic crisis response protocol
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -7,7 +7,7 @@ tags: [psychedelics]
 sources: []
 ---
 
-# Psychedelic Crisis Response Protocol
+# psychedelic crisis response protocol
 
 ## Overview
 
@@ -99,10 +99,10 @@ If the current environment is contributing to distress, changing the setting can
 
 ## When to Call Emergency Services
 
-A psychedelic crisis is almost never a medical emergency, but call 911 (or your local emergency number) immediately if:
+A psychedelic crisis is almost never a medical emeserotoninut call 911 (or your local emergency number) immediately if:
 
 - The person has injured themselves or is attempting self-harm
-- **Serotonin syndrome** (high fever, rigid muscles, rapid heartbeat, confusion, seizures) -- especially with MDMA + SSRIs
+- **[[serotonin]] syndrome** (high fever, rigid muscles, rapid heartbeat, confusion, seizures) -- especially with MDMA + SSRIs
 - They have chest pain, difficulty breathing, or loss of consciousness
 - They are violent and cannot be safely contained
 - **Ingested a confirmed dangerous adulterant** (fentanyl, PMMA, NBOMe at high doses)

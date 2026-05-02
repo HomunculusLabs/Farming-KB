@@ -127,3 +127,7 @@ The composting toilet decision is part of a broader water management strategy th
 - permaculture designers manual composting toilet design
 - [[permaculture-designers-manual-earth-building-techniques]]
 - [[permaculture-designers-manual-biogas-digester]]
+
+## See Also
+
+- [[comparison-biogas-vs-composting-toilet]]

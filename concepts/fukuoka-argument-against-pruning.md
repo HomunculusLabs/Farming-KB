@@ -1,8 +1,7 @@
 ---
 title: "Fukuoka's Argument Against Pruning — Natural Tree Form"
 created: 2026-04-20
-updated: 2026-04-20
-type: concept
+updamasanobu-fukuokatype: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
@@ -87,7 +86,7 @@ Pruning is done not for the tree's benefit but for the convenience of human oper
 Fukuoka's most detailed observations concern citrus:
 
 - Scientists claim the natural form of a citrus tree is hemispherical with primary scaffold branches extending at 40-70 degrees
-- "In truth no one knows whether the true form of a citrus tree is that of a large, upright tree or a low bush"
+- "In truth no one [[natural-farming]]he true form of a citrus tree is that of a large, upright tree or a low bush"
 - It is not known whether it grows like a cryptomeria with one tall central trunk, in the manner of a camellia, or round like paperbush
 
 Fukuoka initially tried natural farming on an established Satsuma orange grove:

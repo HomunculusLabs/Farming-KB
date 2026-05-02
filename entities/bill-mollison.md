@@ -88,5 +88,4 @@ Mollison's work laid the foundation for the global permaculture movement, which 
 - [[sepp-holzer-methods]] — Austrian permaculture practitioner
 - [[regenerative-agriculture-history]] — Broader regenerative movement
 
-
 See also: [[sepp-holzer]] for details on sepp holzer.

@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Ethnobotany
+[[amanita-muscaria]]uscaria Ethnobotany
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -19,7 +19,7 @@ sources:
 
 # Amanita Muscaria Ethnobotany
 
-The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic theories about ancient religion.
+The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic thpsilocybin-mushrooms religion.
 
 ## The Mushroom
 
@@ -88,7 +88,7 @@ Despite scholarly weaknesses, Wasson's theory was enormously influential in the 
 
 ## Safety Concerns
 
-- Accurate identification is critical. *Amanita muscaria* can be confused with other *Amanita* species that are deadly.
+- Accurate identification is critical. *Amanita muscaria* can beeleusinian-mysteries *Amanita* species that are deadly.
 - Proper preparation (drying/heat) is essential to reduce ibotenic acid content.
 - Effects are unpredictable and can include severe nausea, confusion, and agitation.
 - Individuals should not attempt to consume this mushroom without expert guidance.

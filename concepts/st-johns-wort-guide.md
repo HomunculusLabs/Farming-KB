@@ -137,10 +137,6 @@ This is the most prized preparation:
 8. The oil will turn a deep, rich red as hypericin is extracted
 9. Strain through cheesecloth or a fine mesh
 10. Store in amber glass bottles away from heat and light
-11. Shelf life: approximately 1 year
-The oil is ready when it has developed a deep red color. Some herbalists
-also make a double extraction (tincture + oil) for maximum therapeutic
-effect.
 ## See Also
 
 - [[mushroom-cultivation-photographic-guide]]

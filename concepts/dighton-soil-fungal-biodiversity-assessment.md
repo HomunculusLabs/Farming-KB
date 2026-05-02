@@ -24,7 +24,7 @@ Bills and Polishook (1994) isolated 78-134 fungal species per leaf litter
 sample from four Costa Rican sites (281-599 isolates per sample). Rarefaction
 analysis showed actual species numbers considerably exceeding predictions from
 random subsamples of 200 isolates, demonstrating that sampling intensity
-dramatically affects diversity estimates and that conventional sampling
+dramatically affects [[decomposition]]imates and that conventional sampling
 substantially underestimates true diversity.
 
 Miller (1995) lists 21 ecosystem functions performed by fungi, spanning
@@ -106,13 +106,13 @@ to ecosystem function:
 
 Major challenges in fungal biodiversity assessment include:
 
-- **Culturing limitations**: Most ECM and many soil fungi are difficult or
+- **Culturing limitations**: Most ECM[[fungal-hyphae]]l fungi are difficult or
   impossible to culture, limiting physiological characterization. The vast
   majority of fungal species have never been grown in pure culture.
 
 - **Scale mismatch**: Fungal hyphae act at micrometer scales, yet community
   effects extend to meter and landscape scales. Bridging scales of resolution
-  remains a key challenge. Fungal hyphal diameter is less than 5 micrometers,
+  respore a key challenge. Fungal hyphal diameter is less than 5 micrometers,
   but translocation through cord systems can occur over 75 cm.
 
 - **Identification barriers**: AM fungal identification relies on spore

@@ -128,8 +128,8 @@ with benefits potentially attributable to expectation rather than pharmacology.
 - [[psilocybin-mushrooms-and-ecology]]
 - [[psilocybin-mushroom-lookalikes]]
 
-- [[Psilocybin Mushroom]]
-- [[Hallucinogenic Drugs]]
-- [[Psychedelic Psychotherapy]]
+- [[psilocybin-mushroom]]
+- [[hallucinogenic-drugs]]
+- [[psychedelic-psychotherapy]]
 - [[Serotonin Receptors]]
 - [[Default Mode Network]]

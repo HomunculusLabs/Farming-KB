@@ -141,10 +141,6 @@ constitutes the majority of lichen biomass and
 determines lichen morphology. Lichens are pioneer
 organisms that colonize bare rock, wood, and soil,
 initiating soil formation and ecological
-succession. They are sensitive bioindicators of
-air quality and are among the first organisms to
-disappear from polluted environments.
-
 ## See Also
 
 - [[dighton-fungi-mangrove-coastal-ecosystems]]

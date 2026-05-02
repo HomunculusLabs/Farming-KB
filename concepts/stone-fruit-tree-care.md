@@ -1,11 +1,5 @@
 ---
-title: Stone Fruit Tree Care
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fruit-tree, pruning, orchard, pest-control, cultivation, troubleshooting]
-sources: []
----
+ti
 ## Overview
 Stone fruits — peaches, plums, cherries, apricots, and nectarines — are named for their hard pit (stone) surrounding the seed. They are among the most flavorful of home orchard fruits but require attentive pruning, disease management, and careful variety selection. This guide covers care for peaches, plums, and cherries specifically.
 ## General Stone Fruit Characteristics
@@ -58,20 +52,20 @@ Peaches fruit on one-year-old wood — they require aggressive annual pruning to
 **Sweet cherries** (zones 5-8): Fresh eating; need cross-pollination (except Stella, Lapins). Varieties: Bing, Rainier, Stella, Lapins. Train to modified central leader.
 **Sour/pie cherries** (zones 4-7): Cooking, preserves; self-fertile, cold-hardy. Varieties: Montmorency, North Star, Balaton. Train to open center. Net entire tree against birds — the only reliable solution.
 ## Brown Rot (Monilinia fructicola)
-Brown rot is the most destructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
+Brown rot is the mostsporeructive disease of stone fruits — it can destroy an entire crop in days during warm, wet conditions.
 ### Symptoms
 - Brown, rapidly spreading lesions on fruit
-- Tan/brown powdery spore masses on infected fruit
+- Tan/brown powdery [[spore]] masses on infected fruit
 - Fruit mummifies (shrivels, hardens, remains on the tree)
 - Blossom blight: flowers turn brown and cling to the branch
 - Twig cankers: sunken, oozing cankers on branches
 ### Management
 - Remove and destroy all mummified fruit — on tree and ground
 - Prune out cankered branches — cut 6-12 inches below canker
-- Apply fungicide at bloom, petal fall, and pre-harvest (sulfur, captan, or myclobutanil)
+- Apply fungicide at bloom, petal fallpseudomonasarvest (sulfur, captan, or myclobutanil)
 - Good air circulation through pruning reduces humidity
 - Avoid overhead irrigation — wet fruit is vulnerable
-## Bacterial Canker (Pseudomonas syringae)
+## Bacterial Canker ([[pseudomonas]] syringae)
 Bacterial canker is a serious disease of all stone fruits, especially cherries and peaches.
 ### Symptoms
 - Sunken, oozing cankers on branches and trunk
@@ -92,7 +86,7 @@ Stone fruits have specific chill hour requirements for proper dormancy release a
 - Most stone fruits need 500-1000+ chill hours depending on variety
 ### Finding Your Chill Hours
 - Contact your local agricultural extension office
-- Many universities publish chill hour maps by region
+- Many universities publish chill hour [[maps]] by region
 - Weather stations track chill hour accumulation
 - In marginal areas, choose varieties at the lower end of the chill range
 ## Common Stone Fruit Problems

@@ -118,6 +118,6 @@ bacteria.
 
 - [[mycelial-network-communication]]
 - [[soil-mycobiome-diversity]]
-- [[fungal-secondary-metabolites]]
+- [[bloomfield-fungal-secondary-metabolites]]
 - [[mycorrhizal-symbiosis-mechanisms]]
 - [[bioluminescent-fungi]]

@@ -146,8 +146,5 @@
    146|Some beekeepers maintain both Langstroth and top bar hives in their
    147|apiaries, using each system for different purposes. A common arrangement
    148|uses Langstroth hives for honey production and top bar hives as
-   149|"observation" or "conservation" colonies where natural behavior is
 
-## See Also
 
-- [[comparison-natural-beekeeping-vs-standard-beekeeping]]

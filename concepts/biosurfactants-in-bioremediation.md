@@ -88,5 +88,5 @@ bioremediation ecology guide
 [[fungal-ecology-mycoremediation]]
 - [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
 - [[fungal-elicitors-enhanced-secondary-metabolite-production]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungal-microaggregate-formation-and-soil-stability]]

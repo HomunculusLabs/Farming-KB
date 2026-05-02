@@ -116,7 +116,7 @@ in their respective environments.
 
 ## See Also
 
-- [[bacillus-subtilis-entity-the-mushroom-cultivator]]
+- [[bacillus-subtilis]]
 - [[psilocybe-cubensis-strains-names-and-marketing]]
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]

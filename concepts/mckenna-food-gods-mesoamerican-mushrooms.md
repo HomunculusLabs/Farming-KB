@@ -107,6 +107,8 @@ The scientific validation of psilocybin's therapeutic potential has, in turn, in
 
 ## See Also
 
+- [[porphyry-mushrooms-as-divine-food]]
+
 - [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]

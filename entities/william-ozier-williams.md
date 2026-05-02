@@ -22,11 +22,9 @@ Permaculture practitioner and contributor to the [[permaculture-design-methods]]
 
 
 
-
 ## Overview
 
 William Ozier Williams contributed to PDC course materials as part of the network of practitioners who carried Mollison and Holmgren's design system forward. The PDC framework, developed by Mollison in the late 1970s and early 1980s, established a standardized 72-hour curriculum covering [[permaculture-principles]], zone and sector analysis, pattern understanding, and practical design methodologies. Contributors like Williams helped adapt and refine these materials for different bioregions and teaching contexts.
-
 
 
 
@@ -57,7 +55,6 @@ Williams's contributions to PDC materials sit within this lineage of applied eco
 
 
 
-
 ## The PDC Framework
 
 The standard PDC curriculum covers core topics that Williams helped teach and refine:
@@ -70,7 +67,6 @@ The standard PDC curriculum covers core topics that Williams helped teach and re
 - **Soil**: [[soil-food-web-nutrient-cycling]], composting, [[cover-crop-species-comparison]]
 - **Water**: [[rainwater-harvesting-systems]], [[swale-design-construction]], [[graywater-systems]]
 - **Plants**: [[permaculture-useful-plants-reference]], [[food-forest-design]], [[gaia-garden-plant-guilds]]
-
 
 
 

@@ -1,13 +1,13 @@
 ---
-title: Kimchi Making
+title: kimchi making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, preservation, vegetables, asia, preparation]
+tags: [fermentation, recipe, food, [[homesteading]], microbes, homestead-crafts, preservation, vegetables, asia, preparation]
 sources: []
 ---
 ## What Is Kimchi
-Kimchi is a traditional Korean fermented vegetable dish, most commonly made with napa cabbage and Korean chili flakes (gochugaru). It is Korea's national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on lactic acid bacteria (LAB) naturally present on the vegetables, which convert sugars into lactic acid, preserving the vegetables and developing complex sour, umami, and spicy flavors.
+Kimchi is a traditional Korean fermented vegetable dish, most comlactic-acid-bacteria cabbage and Korean chili flakes (gochugaru). It is Korea's national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on [[lactic-acid-bacteria]] (LAB) naturally present on the vegetables, which convert sugars into lactic acid, preserving the vegetables and developing complex sour, umami, and spicy flavors.
 Kimchi is a living food — it continues to ferment and evolve in flavor over weeks and months. Fresh kimchi is crisp and mildly tangy, while well-aged kimchi (mugeun-ji) develops deep sourness and is prized for stews and fried rice.
 ## Core Ingredients
 ### Napa Cabbage
@@ -95,11 +95,11 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 ## Storage
 - Active fermentation: room temperature, loosely covered
 - Slowing fermentation: transfer to refrigerator
-- Long-term: keep refrigerated in the original vessel or transfer to airtight jars
+- Long-term: keep refrigerated in the original vessel or trlactobacillustight jars
 - Freeze: not recommended — texture degrades significantly
 - Kimchi juice (the liquid) is prized as a seasoning, broth base, or drink
 ## Health Benefits
-- Rich source of lactic acid bacteria (Lactobacillus, Leuconostoc, Weissella species)
+- Rich source of [[lactic-acid-bacteria]] ([[lactobacillus]], Leuconostoc, Weissella species)
 - High in vitamins A, B, C, and K
 - Contains dietary fiber from the vegetables
 - Capsaicin from gochugaru has anti-inflammatory properties

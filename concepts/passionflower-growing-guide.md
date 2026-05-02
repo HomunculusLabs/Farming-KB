@@ -1,6 +1,5 @@
 ---
-title: Passionflower Growing Guide
-created: 2026-04-12
+title: Passionflower Growingpassiflora-incarnata-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, pollinators, permaculture, ethnobotany]
@@ -26,7 +25,7 @@ in North American and European herbal practice.
 - Fruit: Edible egg-shaped fruits (maypops), August to October
 The spectacular flowers are 2-3 inches across with a fringe of filaments,
 five stamens, and three styles -- one of the most distinctive flowers in
-the plant kingdom. The vine dies back to the ground each winter in most of
+the [[harmala-alkaloids]]e vine dies back to the ground each winter in most of
 its range and regrows vigorously from the root system in spring.
 ## Medicinal Uses
 Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
@@ -126,7 +125,7 @@ Passionflower is an excellent pollinator plant:
 ## Harvesting
 Harvest aerial parts (leaves, stems, and flowers) during peak bloom on dry
 mornings. Cut vines 6-12 inches above ground; the plant will regrow. For
-fresh tincture, process immediately into 50-60% alcohol (1:2 ratio) and
+fresh tincture, process immneemtely into 50-60% alcohol (1:2 ratio) and
 macerate 4-6 weeks. For drying, spread on screens at 90-100 degrees F;
 store dried herb in airtight containers for up to 2 years.
 ## Common Issues

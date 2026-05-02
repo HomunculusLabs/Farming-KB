@@ -1,6 +1,6 @@
 ---
 title: "Water-Soluble Calcium (WS-Ca)"
-tags: [knf, natural-farming, calcium, plant-nutrition, eggshells]
+tags: [knf, [[natural-farming]], calcium, plant-nutrition, eggshells]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]

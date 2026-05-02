@@ -16,13 +16,9 @@ sources: [/Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamet
 
 
 
-
-
 ## Taxonomy and Etymology
 
 The species epithet commemorates Rolf Singer, one of the most prolific agaric taxonomists of the 20th century, who made significant contributions to the classification of Psilocybe and related genera. Singer's monographic work on agarics in tropical America laid the groundwork for understanding fungal diversity in neotropical regions. The species was described from material collected in tropical habitats.
-
-
 
 
 
@@ -51,13 +47,9 @@ The species epithet commemorates Rolf Singer, one of the most prolific agaric ta
 
 
 
-
-
 ## Distribution and Habitat
 
 Reported from tropical and subtropical regions of the Americas. It is likely a saprotrophic species growing on decaying plant matter, rich soils, or among grasses in humid forested environments. The exact geographic range and ecological preferences are not thoroughly documented in the literature.
-
-
 
 
 
@@ -73,8 +65,6 @@ Presumed to contain [[psilocybin]] and [[psilocin]] based on its placement in th
 
 
 
-
-
 ## Similar Species
 
 [[psilocybe-cubensis-potency-variation-by-flush]] and other tropical Psilocybe species share overlapping macroscopic features. [[psilocybe-caerulescens-profile]] may also occur in similar habitats. Definitive identification requires microscopic examination of spore morphology and cystidial characters.
@@ -84,11 +74,14 @@ Presumed to contain [[psilocybin]] and [[psilocin]] based on its placement in th
 
 
 
-
-
 ## Notes
 
 This species is among the many tropical Psilocybe taxa that remain incompletely documented. Molecular phylogenetic studies would help clarify its relationships within the genus and determine whether it belongs to Psilocybe sensu stricto or another clade.
+
+
+
+
+
 
 ## See Also
 

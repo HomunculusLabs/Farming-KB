@@ -139,6 +139,8 @@ regardless of seasonal limitations.
 
 ## See Also
 
+- [[comparison-oyster-vs-wine-cap-cultivation]]
+
 - [[comparison-oyster-vs-shiitake-cultivation]]
 
 - [[shiitake-cultivation-guide]]

@@ -44,7 +44,7 @@ Over 70 genera of sequestrate fungi have been described, with many undescribed g
 
 ## Zygomycete Sequestrate Fungi
 
-The Glomales fossil record suggests an extremely early occurrence of species forming individual spores among roots in soil (Taylor et al. 1995), placing sequestrate-like forms deep in fungal evolutionary history. Sequestrate Zygomycetes may represent an evolutionary progression in the opposite direction from that seen in Basidiomycota and Ascomycota -- from simple to complex rather than from complex to reduced. This makes them a unique case study in [[fungal-endemism-biogeography]] and [[arbuscular-mycorrhizal-fungi]] evolution. See [[zygomycete-phylum-guide]] for detailed Zygomycete taxonomy.
+The Glomales fossil record suggests an extremely early occurrence of species forming individual spores among roots in soil (Taylor et al. 1995), placing sequestrate-like forms deep in fungal evolutionary history. Sequestrate Zygomycetes may represent an evolutionary progression in the opposite direction from that seen in Basidiomycota and Ascomycota -- from simple to complex rather than from complex to reduced. This makes them a unique case study in [[fungal-endemism-and-biogeography]] and [[arbuscular-mycorrhizal-fungi]] evolution. See [[zygomycete-phylum-guide]] for detailed Zygomycete taxonomy.
 
 ## Diversity and Distribution
 
@@ -68,7 +68,7 @@ Phylogenetic lineages show striking geographic patterns tied to host plant distr
 - *Descolea*-Setchelliogaster-*Descomyces* is likely host-specific to Eucalyptus and is absent from North America
 - *Russula*-Macowanites-*Gymnomyces* and *Lactarius*-Arcangeliella-*Zelleromyces* lines occur on both continents but no species is found on both
 
-These patterns underscore the importance of [[fungal-endemism-biogeography]] and host plant history in shaping sequestrate fungal distributions.
+These patterns underscore the importance of [[fungal-endemism-and-biogeography]] and host plant history in shaping sequestrate fungal distributions.
 
 ## Ecological Roles
 
@@ -116,7 +116,7 @@ Many sequestrate fungi face threats from habitat destruction, particularly the c
 - [[fungal-spore-biology]] -- animal-mediated dispersal of sequestrate spores
 - [[ectomycorrhizal-fungal-ecology]] -- mycorrhizal associations of sequestrate fungi
 - [[arbuscular-mycorrhizal-fungi]] -- Zygomycete mycorrhizal partners
-- [[fungal-endemism-biogeography]] -- geographic patterns in sequestrate distributions
+- [[fungal-endemism-and-biogeography]] -- geographic patterns in sequestrate distributions
 - [[fungal-conservation-endangered-species]] -- conservation of rare sequestrate taxa
 - [[fungal-biodiversity]] -- sequestrate fungi within global fungal diversity
 - [[fungal-species-concept]] -- species delimitation in sequestrate fungi

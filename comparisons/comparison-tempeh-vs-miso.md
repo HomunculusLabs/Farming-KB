@@ -138,6 +138,8 @@ dishes that combine tempeh's texture with miso's flavor depth.
 
 ## See Also
 
+- [[comparison-miso-vs-natto]]
+
 - [[comparison-lacto-fermentation-vs-canning]]
 - [[comparison-fermentation-vs-canning]]
 - [[comparison-sourdough-vs-wild-yeast]]

@@ -3,7 +3,7 @@ title: Aquaponics Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, cultivation, water, water-management, ecology, biology, nutrients, equipment]
+tags: homesteading, cultivation, water, [[water-management]], ecology, biology, nutrients, equipment]
 sources: []
 ---
 

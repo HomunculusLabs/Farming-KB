@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 
 Mycopesticides are fungi used to control insect pests, either through direct
 pathogenicity or by making host plants resistant to predation. As one of
-the four pillars of [[unknown-mycelium-mycorestoration|mycorestoration]],
+the four pillars of [[mycorestoration|mycorestoration]],
 mycopesticides offer a biological alternative to chemical insecticides,
 leveraging natural fungal-insect antagonisms that have evolved over millions
 of years. Paul Stamets' work on entomopathogenic fungi — particularly his
@@ -131,6 +131,6 @@ chemical inputs.
 ## See Also
 
 - [[unknown-mycelium-mycoremediation]]
-- [[unknown-mycelium-natures-internet]]
+- [[mycelium-natures-internet]]
 - [[mycelium-running-presporulating-mycopesticides]]
 - [[unknown-mycelium-mycofiltration]]

@@ -125,4 +125,4 @@ The exact timing varies by species, latitude, elevation, and seasonal weather pa
 - [[mushroom-species-guide]] — cultivation parameters by species
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[oyster-mushroom-species-fruiting-parameters]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]

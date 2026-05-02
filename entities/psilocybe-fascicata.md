@@ -75,7 +75,7 @@ Associations with specific tree species have not been well documented, but colle
 ## Chemistry
 
 The species is confirmed to contain [[psilocybin]] and likely [[psilocin]], based on the strong bluing reaction and its placement within Section Psilocybe.
-Quantitative data from [[jeremy-bigwood]] and [[michael-beug]] suggested moderate potency, though sample sizes in published analyses have been limited compared to better-known species like [[psilocybe-cubensis-potency-variation-by-flush]].
+Quantitative data from [[bigwood]] and [[beug]] suggested moderate potency, though sample sizes in published analyses have been limited compared to better-known species like [[psilocybe-cubensis-potency-variation-by-flush]].
 
 The presence of [[baeocystin]] has been reported in related species from the same geographic region, though specific analysis of *P. fascicata* for this compound remains limited.
 [[norbaeocystin]] may also be present but has not been specifically confirmed in this species.
@@ -126,5 +126,5 @@ Key differentiating features of *P. fascicata* include its clustered growth on d
 - [[psilocin]]
 - [[baeocystin]]
 - [[psilocybe-mexicana-cultivation]]
-- [[jeremy-bigwood]]
-- [[michael-beug]]
+- [[bigwood]]
+- [[beug]]

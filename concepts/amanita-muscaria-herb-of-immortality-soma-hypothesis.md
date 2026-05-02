@@ -1,5 +1,5 @@
 ---
-title: The Soma Hypothesis in Amanita Muscaria: Herb of Immortality
+titlsoma-hypothesisothesis in Amanita Muscaria: Herb of Immortality
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -74,7 +74,7 @@ Teeter argues that the most important parts of the Christ story are those "compl
 
 ## The Living Bread and Holy Grail
 
-Teeter extends the Soma identification to the Holy Grail legend. He describes how the Soma ceremony, in which mushrooms are pressed three times between stones and the resulting fluid is collected in wooden vessels, creates a symbiotic colony of Amanita mycelium within those vessels. The addition of barley gruel, milk, and honey provides food for the fungus, which becomes visible as white or gray mycelium within approximately three days -- producing what Teeter calls "living cups" identical to the Holy Grail. He further describes how this technology can produce "living bread" by colonizing boiled grain in shallow vessels, creating a multiplying sacrament.
+Teeter extends the Soma identificatmyceliumhe Holy Grail legend. He describes how the Soma ceremony, in which mushrooms are pressed three times between stones and the resulting fluid is collected in wooden vessels, creates a symbiotic colony of Amanita mycelium within those vessels. The addition of barley gruel, milk, and honey provides food for the fungus, which becomes visible as white or gray mycelium within approximately three days -- producing what Teeter calls "living cups" identical to the Holy Grail. He further describes how this technology can produce "living bread" by colonizing boiled grain in shallow vessels, creating a multiplying sacrament.
 
 ## Criticisms and Limitations
 

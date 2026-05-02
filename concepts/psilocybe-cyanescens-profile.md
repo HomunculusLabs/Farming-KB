@@ -14,13 +14,9 @@ sources:
 
 
 
-
-
 ## Overview
 
 Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of temperate regions, strongly associated with wood chips and ornamental plantings. It has been spread globally through the horticultural trade and is one of the most commonly encountered psychoactive mushrooms in urban and suburban settings.
-
-
 
 
 
@@ -29,8 +25,6 @@ Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of tempera
 
 - **Species**: Psilocybe cyanescens Wakefield
 - **Common names**: Wavy-cap, blue halos
-
-
 
 
 
@@ -45,14 +39,10 @@ Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of tempera
 
 
 
-
-
 ## Potency
 
 - A highly potent species, though generally less so than [[psilocybe-azurescens-profile]].
 - Strong bluing reaction upon damage.
-
-
 
 
 
@@ -68,13 +58,9 @@ Psilocybe cyanescens, the "wavy-cap," is a potent psilocybin mushroom of tempera
 
 
 
-
-
 ## Spread Through Horticulture
 
 Many species in the Pacific Northwest were brought from Europe, probably in the soil around the bases of exotic trees and ornamentals. P. cyanescens is a prime example. Stamets notes that searching rhododendron or rose gardens in the Pacific Northwest during fall rarely disappoints.
-
-
 
 
 
@@ -89,13 +75,14 @@ Many species in the Pacific Northwest were brought from Europe, probably in the 
 
 
 
-
-
 ## Related Species
 
 - [[psilocybe-azurescens-profile]] -- larger, non-wavy margin, more potent
 - Psilocybe cyanofibrillosa, Psilocybe serbica, Psilocybe subaeruginosa
 - Psilocybe mairei -- North African species resembling P. cyanescens
+
+
+
 
 ## See Also
 

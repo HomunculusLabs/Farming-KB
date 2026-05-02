@@ -11,8 +11,6 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 Fungi are among the most significant biological agents of mineral weathering — the process by which rocks and minerals break down into soil. Through a combination of mechanical and chemical mechanisms, fungi accelerate the conversion of rock into soil by orders of magnitude compared to abiotic processes alone.
 
-
-
 ## Mechanisms of Weathering
 
 ### Mechanical Weathering
@@ -35,8 +33,6 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Metal oxidation/reduction: fungal enzymes change metal oxidation states
 - Biosorption: fungal cell walls bind metal ions from solution
 
-
-
 ## Minerals Weathered by Fungi
 
 ### Silicate Minerals
@@ -54,8 +50,6 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Iron oxides: siderophore-mediated dissolution
 - Aluminum oxides: organic acid dissolution
 - Heavy metal minerals: fungal weathering mobilizes or immobilizes metals
-
-
 
 ## Ecological Significance
 
@@ -79,10 +73,8 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Can be beneficial (nutrient release) or problematic (toxic metal contamination)
 - Fungal siderophores and oxalates mediate metal mobility
 
-
-
 ## Applications
-- [[mycoremediation-overview]] — fungal weathering for bioremediation
+- [[cotter-mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
 -  — fungi in pedogenesis
 

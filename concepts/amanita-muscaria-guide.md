@@ -106,7 +106,6 @@ Letcher also emphasizes that the term "shaman" itself is a Western imposition fr
 ## Medicinal Potential
 - Anti-inflammatory and analgesic properties documented in traditional use
 - Research interest in muscimol as a GABA-A agonist for anxiety, sleep, and neurological conditions
-- ibotenic acid studied as a neurotoxicity model (not therapeutic itself)
 ## See Also
 
 - [[amanita-muscaria-use-australia-nz]]

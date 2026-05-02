@@ -83,7 +83,7 @@ The genome of *Streptomyces griseus* strain NBRC 13350, sequenced in 2008, compr
 ## See Also
 
 - [[bacillus-megaterium]]
-- [[bacillus-subtilis-entity-the-mushroom-cultivator|Bacillus subtilis]]
+- [[bacillus-subtilis|Bacillus subtilis]]
 - [[trichoderma-harzianum]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator|Pseudomonas putida]]
 - [[indigenous-microorganisms]]

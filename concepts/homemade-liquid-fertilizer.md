@@ -1,5 +1,5 @@
 ---
-title: Homemade Liquid Fertilizer
+title: homemade liquid fertilizer
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [fertilizer, recipe, organic, gardening, nutrients, npk, compost]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
-# Homemade Liquid Fertilizer
+# homemade liquid fertilizer
 
 
 

@@ -1,6 +1,6 @@
      1|---
      2|title: Beta-Carboline Alkaloids
-     3|tags: [pharmacology, beta-carbolines, mao-inhibition, harmala-alkaloids]
+     3|tags: [pharmacology, beta-carbolines, mao-inharmala-alkaloids-alkaloids]
      4|date: 2026-04-28
      5|updated: 2026-04-28
      6|sources:
@@ -12,7 +12,7 @@
     12|Beta-carboline alkaloids are a family of tricyclic compounds derived from the
     13|condensation of [[tryptamine]] with an aldehyde or ketone. They are found in a
     14|wide variety of plant species, including [[banisteriopsis-caapi]] (the primary
-    15|vine component of ayahuasca), Peganum harmala (Syrian rue), and numerous
+    15|vine component of aypeganum-harmalaum harmala (Syrian rue), and numerous
     16|other botanical sources. Beta-carbolines have diverse pharmacological
     17|activities including monoamine oxidase inhibition, serotonergic modulation,
     18|and interactions with benzodiazepine and imidazoline receptors.
@@ -46,7 +46,7 @@
     46|restrictions and prolonged washout periods, reversible inhibitors like
     47|harmine allow MAO function to recover relatively quickly as the compound
     48|is metabolized and cleared. This reversible mechanism reduces but does not
-    49|eliminate the risk of tyramine interactions and serotonin syndrome.
+    49|eliminate the risk of tyramine interacserotonin serotonin syndrome.
     50|
     51|In the context of ayahuasca, MAO-A inhibition serves the critical function
     52|of preventing the degradation of orally administered DMT, enabling its

@@ -118,7 +118,7 @@ boundaries.
 - [[urban-permaculture-guilds-and-swales]] — guilds and swales
 - [[mollison-plant-stacking-and-interaction]] — plant stacking (Mollison's treatment)
 - [[permaculture-design-principles-beginners]] — core design principles
-- [[herb-spiral-design]] — herb spiral details
+- [[herb-spiral-design-guide]] — herb spiral details
 
 ## Related
 

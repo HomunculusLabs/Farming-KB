@@ -134,4 +134,4 @@ requirements is essential for successful cultivation.
 - [[fruiting-chamber-design]]
 - [[bulk-substrate-preparation]]
 - [[biological-efficiency]]
-- [[shiitake-cultivation]]
+- [[cotter-shiitake-cultivation]]

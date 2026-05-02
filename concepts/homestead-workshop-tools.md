@@ -3,7 +3,7 @@ title: Homestead Workshop and Tools
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, equipment, construction, tools, workflow]
+tags: [[homesteading]], equipment, construction, tools, workflow]
 sources: []
 ---
 
@@ -92,4 +92,3 @@ Prioritize the workbench first — a solid, flat, stable surface makes every pro
 ## Related
 
 - [[homestead-tool-maintenance]]
-

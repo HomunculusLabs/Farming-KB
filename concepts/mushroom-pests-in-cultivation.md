@@ -68,6 +68,24 @@ The Mushroom Cultivator emphasizes prevention over treatment:
 
 Pest damage creates entry points for [[contamination-identification-prevention]] organisms. Fly larvae tunneling through substrate introduce bacteria and mold spores. Mites carrying contaminants on their bodies can spread infection across a growing room. The best pest control strategy is therefore also the best contamination control strategy: strict hygiene, proper pasteurization, and vigilant monitoring.
 
+
+## Prevention Strategies
+
+Prevention is far more effective than treatment once pests are established.
+The primary preventive measures include maintaining strict hygiene in the
+growing area, sealing all entry points with fine mesh screens (0.5mm or
+smaller), and managing the growing environment to favor mushroom growth
+over pest reproduction. Lower temperatures slow insect life cycles, while
+proper air circulation reduces the humid microclimates where pests thrive.
+
+Cultural controls include removing spent substrate promptly after harvest,
+cleaning all surfaces between crops, and avoiding the accumulation of
+organic debris near growing areas. Sticky traps placed at mushroom height
+provide both monitoring and control of flying insects. Biological controls
+such as predatory mites (Hypoaspis miles) can be introduced preventively
+to control fungus gnat larvae in the substrate. For severe infestations,
+the affected crop should be removed and the growing area thoroughly
+cleaned before reintroduction of new substrate.
 ## See Also
 
 - [[contamination-identification-prevention]]

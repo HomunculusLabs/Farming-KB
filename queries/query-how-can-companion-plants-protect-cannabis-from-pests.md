@@ -105,4 +105,6 @@ interference to light penetration and airflow around your cannabis canopy.
 
 ## See Also
 
+- [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
+
 - [[query-how-to-transition-cannabis-from-vegetative-to-flowering]]

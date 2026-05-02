@@ -1,12 +1,12 @@
 ---
-title: Lemon Balm Growing Guide
+title: lemon balm growing guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture]
+tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, [[permaculture]]]
 sources: []
 ---
-# Lemon Balm Growing Guide (Melissa officinalis)
+# lemon balm growing guide (Melissa officinalis)
 ## Overview
 Lemon balm is a vigorous perennial herb in the mint family, native to the
 Mediterranean region and Central Asia. Prized for its bright, lemon-scented

@@ -67,7 +67,7 @@ The compact plant principle also reflects the [[fukuoka-road-do-nothing-farming]
 
 ## Connection to Natural Farming Principles
 
-Dry-field rice cultivation directly exemplifies several of Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]]. By not flooding the field, he eliminates the need for puddling and transplanting, fulfilling the principle of no cultivation. By relying on natural soil moisture enhanced by mulch, he eliminates the need for irrigation, fulfilling the principle of no fertilizer (since the soil's water-holding capacity is maintained naturally). By allowing the plants to grow compact and resistant, he eliminates the need for chemical pesticides.
+Dry-field rice cultivation directly exemplifies several of Fukuoka's [[fukuoka-four-principles-natural-farming]]. By not flooding the field, he eliminates the need for puddling and transplanting, fulfilling the principle of no cultivation. By relying on natural soil moisture enhanced by mulch, he eliminates the need for irrigation, fulfilling the principle of no fertilizer (since the soil's water-holding capacity is maintained naturally). By allowing the plants to grow compact and resistant, he eliminates the need for chemical pesticides.
 
 The method also demonstrates the [[fukuoka-natural-soil-fertility]] principle: soil that is not ploughed, flooded, or chemically treated develops its own structure and water-holding capacity over time. Each year of no-till, mulch-based cultivation improves the soil, creating a positive feedback loop that makes the method increasingly effective.
 

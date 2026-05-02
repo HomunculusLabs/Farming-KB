@@ -3,7 +3,7 @@ title: Turgor Pressure and Fungal Water Mechanics
 tags: [mycology, cell-biology, osmosis, fungal-growth]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
+sources: [/Users/t3rpz/wiki/raw/papers/mr-nicholas-moneychard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md]
 ---
 
 # Turgor Pressure and Fungal Water Mechanics
@@ -92,7 +92,7 @@ tissue within the egg absorbs environmental water, expands, and ruptures
 the outer membrane. The entire process takes several hours and is one of
 the most dramatic demonstrations of fungal hydraulics.
 
-## The Role of Water in Plant Pathogenesis
+## The Role [[magnaporthe-grisea]]Pathogenesis
 
 Fungal pathogens exploit water-based mechanisms to invade host plants.
 Appressoria (specialized infection structures) build up enormous turgor

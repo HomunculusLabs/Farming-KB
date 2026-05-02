@@ -92,6 +92,8 @@ Photosynthesis is the entry point for carbon into the biological cycle:
 
 ## See Also
 
+- [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
+
 - [[molecules-of-life-plant-cells]]
 - [[temperature-effects-plant-nutrient-uptake]]
 - [[mycorrhiza]]

@@ -66,7 +66,7 @@ Research is ongoing to determine whether these fungi could be developed as comme
 Understanding the differences between endophytic and mycorrhizal fungi is important for anyone interested in plant-fungal relationships.
 The [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] reveals that while mycorrhizae primarily form external associations with roots and specialize in nutrient exchange, especially phosphorus uptake, endophytes occupy internal tissues throughout the entire plant and contribute more to defense signaling and stress modulation.
 Many plants host both types simultaneously, creating a layered system of fungal support.
-Gardeners and farmers working with [[compost-tea-brewing-guide]] methods can encourage both mycorrhizal and endophytic colonization by maintaining biologically active soils with diverse fungal food sources like woody amendments and humic acids.
+Gardeners and farmers working with [[compost-tea-brewing]] methods can encourage both mycorrhizal and endophytic colonization by maintaining biologically active soils with diverse fungal food sources like woody amendments and humic acids.
 The [[comparison-amf-vs-endophytic-fungi]] further explores how arbuscular mycorrhizal fungi and endophytes complement rather than compete with each other, with AMF handling nutrient acquisition while endophytes manage internal plant defense.
 
 ### Grass Endophytes and Ecosystem Interactions
@@ -94,7 +94,9 @@ These findings have important implications for [[permaculture-design]] practitio
 - [[bacterial-endophytes-plant-roots]] interact with fungal endophytes to create complex internal microbial ecosystems
 - Endophytes produce bioactive compounds with potential pharmaceutical applications
 
-## Related Questions
+## Related
+
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] Questions
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
 - [[query-how-mycorrhizal-fungi-help-plants]]

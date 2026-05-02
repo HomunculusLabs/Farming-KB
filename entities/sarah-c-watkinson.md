@@ -35,7 +35,6 @@ Research Lecturer in the Department of Plant Sciences and Tutor in Biology at St
 
 
 
-
 ## Research Focus
 
 Watkinson's research spans fungal ecology, decomposition, and environmental microbiology:
@@ -44,7 +43,6 @@ Watkinson's research spans fungal ecology, decomposition, and environmental micr
 - **Decomposition processes:** Studied fungal breakdown of organic matter, particularly wood and leaf litter, contributing to understanding of [[fungal-decomposition]] and [[fungal-ecosystem-roles]]
 - **Soil organism interactions:** Explored interactions between fungi and other soil organisms including bacteria, archaea, and invertebrates
 - **Environmental mycology:** Research on how fungi maintain soil structure through filamentous growth and exopolymer production, and their role as the largest biomass pool in soil
-
 
 
 
@@ -68,11 +66,9 @@ Watkinson's research spans fungal ecology, decomposition, and environmental micr
 
 
 
-
 ## Context Within British Mycology
 
 Watkinson's work is part of the strong British tradition in fungal ecology that includes [[geoffrey-gadd]] (University of Dundee), Paul Dyer (University of Nottingham), and John Dighton ("Fungi in Ecosystem Processes"). The British Mycological Society, founded in 1896, has been instrumental in advancing scientific understanding of fungal roles in ecosystems.
-
 
 
 

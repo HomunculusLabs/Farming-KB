@@ -135,12 +135,6 @@ identification. The species is also easily confused with small Entoloma species 
 on wood, which have sinuate gills and angular spores visible under magnification. DNA
 barcoding of the ITS region is increasingly used for accurate Pluteus species
 
-
-
-
-
-
-
 psilocybe and amanita, and systematic chemical analysis of its many species
 - [[pluteus-salicinus]] — a more strongly psychoactive Pluteus species with bluish
 - [[pluteus-nigroviridis]] — another psychoactive Pluteus species with darker

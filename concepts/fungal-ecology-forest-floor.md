@@ -15,7 +15,6 @@ Fungi are the primary decomposers in forest ecosystems, playing an indispensable
 
 
 
-
 ## The Role of Fungi in Decomposition
 
 Fungi are non-photosynthetic organisms whose primary ecological role is decomposition. They are one organism in a succession of microbes that break down dead organic matter. Without fungi, forests would suffocate under mountains of un-decomposed woody debris. The decomposition process follows a recognized succession:
@@ -23,7 +22,6 @@ Fungi are non-photosynthetic organisms whose primary ecological role is decompos
 1. **Primary colonizers**: Bacteria and sugar fungi attack readily available sugars and simple compounds
 2. **Secondary decomposers**: More specialized fungi break down cellulose and hemicellulose
 3. **Tertiary decomposers**: White rot and brown rot fungi break down lignin, the most recalcitrant component of wood
-
 
 
 
@@ -41,7 +39,6 @@ Only about 7% of mushrooms are brown rot fungi. Their enzymes break down cellulo
 
 
 
-
 ## Mycorrhizal Networks
 
 Mycorrhizal fungi form symbiotic associations with the roots of most forest trees. These associations are fundamental to forest health:
@@ -49,7 +46,6 @@ Mycorrhizal fungi form symbiotic associations with the roots of most forest tree
 - **Ectomycorrhizal**: Form a sheath around root tips; associate with oaks, pines, spruces, firs, birches. The fungal partner extends the root system's effective reach by 10-100x, accessing water and nutrients (especially phosphorus) far beyond the root zone.
 - **Endomycorrhizal (VAM)**: Penetrate root cells; associate with most herbaceous plants and some trees.
 - **The Wood Wide Web**: Mycelial networks connect multiple trees, facilitating nutrient transfer between individuals. A mother tree can send carbon to shaded seedlings through shared mycorrhizal networks.
-
 
 
 
@@ -63,11 +59,9 @@ Fungi are primary agents of soil creation. As mycelium colonizes wood and organi
 
 
 
-
 ## Nutrient Cycling
 
 Fungi decompose complex organic molecules (lignin, cellulose, chitin, proteins) into simpler compounds that plants can absorb. This nutrient cycling is essential for forest productivity. Without fungal decomposition, nutrients would remain locked in dead organic matter and be unavailable to living plants.
-
 
 
 
@@ -81,7 +75,6 @@ In old-growth forests, a continuous mycelial mat underlies the forest floor. Thi
 
 
 
-
 ## Fungi as Food Web Foundation
 
 Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels, and many other animals. Fly larvae breed in rotting mushrooms, attracting lizards and birds. This cascading food web makes fungi foundational to forest biodiversity.
@@ -90,9 +83,8 @@ Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels
 
 
 
-
 ## See Also
 
 - [[mycoforestry-forest-restoration]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mushroom-foraging-safety]]

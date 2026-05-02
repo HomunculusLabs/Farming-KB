@@ -53,7 +53,7 @@ Other Andean Indian groups take L. tupa as an emetic and purgative. This dual us
 
 ### Wound Healing
 
-Some Mapuche communities also use preparations of L. tupa externally for wound healing, taking advantage of the plant's antimicrobial and anti-inflammatory properties. The latex is applied directly to wounds, burns, and skin infections, though care is taken to avoid systemic absorption.
+Some Mapuche communities also use preparations of L. tupa externally for wound healing, taking advantage of the plant's antimicrobial and anti-inflammatory properties. The latelobelinelied directly to wounds, burns, and skin infections, though care is taken to avoid systemic absorption.
 
 ## Chemistry
 

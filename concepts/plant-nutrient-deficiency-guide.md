@@ -1,12 +1,12 @@
 ---
-title: Plant Nutrient Deficiency Guide
+title: plant nutrient deficiency guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [nutrients, npk, soil, fertilizer, troubleshooting, plants, plant-growth, minerals, soil-amendment, biology]
 sources: []
 ---
-# Plant Nutrient Deficiency Guide
+# plant nutrient deficiency guide
 Nutrient deficiencies manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies.
 ## Before Diagnosing
 Check these factors first — they often mimic nutrient deficiencies:
@@ -25,14 +25,14 @@ Visual symptoms:
 - Stems and petioles may turn purple or reddish
 - Overall stunted growth, small new leaves
 - In cannabis: rapid yellowing of fan leaves during early flowering is normal; during veg it indicates deficiency
-Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth.
+Mobile nutrient — symptoms appear on older leaves first as nitrogen is translcover-cropsew growth.
 Organic fixes:
 - Composted manure (chicken manure is highest in N)
 - Blood meal (fast-acting, ~12% N)
 - Alfalfa meal or pellets
 - Fish emulsion or fish hydrolysate
 - Compost tea with bacterial dominance
-- Cover crops (clover, vetch, peas, beans — legumes fix atmospheric N)
+- [[cover-crops]] (clover, vetch, peas, beans — legumes fix atmospheric N)
 - Feather meal (slow-release, high N)
 - Worm castings (mild, gentle N source)
 ### Phosphorus (P) Deficiency
@@ -42,15 +42,13 @@ Visual symptoms:
 - Older leaves affected first (mobile nutrient)
 - Stunted growth, especially root development
 - Delayed flowering and poor fruit/flower set
-- In cannabis: dark leaves with purple stems, slow growth, especially in cold conditions
-Organic fixes:
-- Bone meal (slow-release, ~12% P)
+- In cannabis: dark leaves with purple stems, slow growth, especially in cold conditionmycorrhizal-inoculation meal (slow-release, ~12% P)
 - Rock phosphate (very slow release, best incorporated into soil before planting)
 - Fish bone meal
 - Bat guano (high-P varieties)
 - Composted poultry manure
 - Worm castings
-- Mycorrhizal inoculation — mycorrhizae dramatically increase P availability to roots
+- [[mycorrhizal-inoculation]] — mycorrhizae dramatically increase P availability to roots
 ### Potassium (K) Deficiency
 Visual symptoms:
 - Older leaf edges and tips turn brown/bronze (marginal chlorosis and necrosis)
@@ -128,10 +126,10 @@ Visual symptoms: growing tips die back or distorted, thick brittle stems, hollow
 Organic fixes: borax (very small amounts — easy to overdo), kelp meal, diverse compost.
 ## Quick Reference
 **Mobile nutrients** (deficiency shows on old leaves first): N, P, K, Mg, S.
-**Immobile nutrients** (deficiency shows on new leaves first): Ca, Fe, Mn, Zn, B, Cu.
+**Immobisoil-lifents** (deficiency shows on new leaves first): Ca, Fe, Mn, Zn, B, Cu.
 | Amendment | N | P | K | Ca | Mg | Notes |
 |-----------|---|---|---|----|----|-------|
-| Compost | Low | Low | Low | Med | Med | Balanced, improves soil life |
+| Compost | Low | Low | Low | Med | Med | Balanced, improves [[soil-life]] |
 | Blood meal | 12 | 1.5 | 0.5 | 0.3 | 0.1 | Fast N, can burn |
 | Bone meal | 3 | 12 | 0 | 24 | 0.5 | Slow P + Ca |
 | Kelp meal | 1 | 0.2 | 4 | 1.5 | 0.5 | Trace minerals |

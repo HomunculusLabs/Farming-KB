@@ -131,7 +131,6 @@ The mortality rate for untreated amatoxin poisoning ranges from 50% to 90%, maki
 recognition and aggressive treatment critical. Even with modern medical care, the mortality
 rate in severe cases remains approximately 10 to 15 percent.
 
-
 ## See Also
 
 - [[amanita-muscaria-chemistry-and-pharmacology]]

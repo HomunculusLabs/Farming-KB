@@ -97,6 +97,6 @@ Many parts of Asia remain poorly surveyed for neurotropic fungi:
 
 Source: Guzman, Allen & Gartz (1998), "A Worldwide Geographical Distribution of the Neurotropic
 Fungi," Ann. Mus. civ. Rovereto 14: 189-280.
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[tropical-vs-temperate-fungal-diversity]]

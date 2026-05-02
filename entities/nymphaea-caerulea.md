@@ -39,7 +39,7 @@ The plant grows in shallow, slow-moving or still freshwater habitats including r
 
 The psychoactive chemistry of *Nymphaea caerulea* has been the subject of ongoing investigation and considerable controversy. Early chemical analyses, particularly those conducted in the 19th and early 20th centuries, identified apomorphine and nuciferine as alkaloid constituents of the flowers and rhizomes. However, subsequent research has produced conflicting results regarding the presence and concentrations of these compounds, and the pharmacological basis for the plant's reputed psychoactive properties remains debated.
 
-Apomorphine is a dopamine receptor agonist (primarily D1 and D2) that is used medically in the treatment of Parkinson's disease. If present in pharmacologically significant quantities in the plant, it could account for reported psychoactive, euphoric, and emetic effects. However, several modern analytical studies using gas chromatography-mass spectrometry (GC-MS) and liquid chromatography-mass spectrometry (LC-MS) have failed to detect apomorphine in fresh or dried plant material of *Nymphaea caerulea*. Some researchers have suggested that earlier identifications may have resulted from artifact formation during extraction or from confusion with related aporphine alkaloids such as nuciferine or dehydronuciferine.
+Apomorphine is a dopamine receptor agonist (primarily D1 and D2) that is used medically in the treatment of Parkinson's disease. If present in pharmacologically significant quantities in the plant, it could account for reported psychoactive, euphoric, and emetic effects. However, several modern analytical studies using gas chromatography-mass spectrometry (GC-MS) and liquid chromatography-mass spectrometry (LC-MS) have failed to detect apomorphine in fresh or dried plant material of *Nymphaea caerulea*. Some researchers have suggested that earlier identifications may have resulted from artifact formation during extraction or from confusion with related aporphine alkaloids such asserotoninne or dehydronuciferine.
 
 Nuciferine is an aporphine alkaloid that has been consistently identified in *Nymphaea caerulea* and related species including *Nelumbo nucifera* (sacred lotus). It acts as a dopamine receptor antagonist (D2) and a serotonin receptor antagonist (5-HT2A), and may produce mild sedative, anxiolytic, and antipsychotic effects. Some studies have reported nuciferine concentrations of 0.01% to 0.1% in dried flowers. Other reported aporphine alkaloids include dehydronuciferine, nornuciferine, and anonaine.
 
@@ -101,7 +101,7 @@ The flowers provide nectar and pollen for a variety of insect pollinators, inclu
 
 The submerged portions of the plant provide habitat and shelter for aquatic invertebrates, fish fry, and amphibian larvae.
 
-The dense growth of water lilies in ponds and slow-moving waterways creates microhabitats that support diverse aquatic communities.
+The dense growth of water lilies in ponds and slow-moving waterways creates microhabitats that support [[water-management]]communities.
 
 ## Conservation and Threats
 

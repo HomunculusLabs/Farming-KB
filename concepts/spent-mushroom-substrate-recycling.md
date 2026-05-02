@@ -100,6 +100,6 @@ The invasive water hyacinth (*Eichhornia crassipes*) chokes waterways across sou
 
 > **Source:** Chapter 9, "Post-harvest Management — Recycling of Spent Oyster Mushroom Substrate" by Danny L. Rinker, ZERI Foundation, and Seung Woo Kang, in Oyster Mushroom Cultivation (MushWorld, 2004).
 - [[fungal-treatment-of-olive-mill-wastewater]]
-- [[oyster-mushroom-harvesting-and-post-harvest]]
+- [[oyster-mushroom-harvesting-post-harvest]]
 - [[fungal-olive-mill-wastewater-treatment]]
 - [[oyster-mushroom-spent-substrate-recycling]]

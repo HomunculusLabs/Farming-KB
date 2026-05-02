@@ -13,7 +13,7 @@ tags:
 - lighting
 - fungi
 - distribution
-- taxonomy
+[[psilocybin]]
 - cover-crop
 
 sources:
@@ -38,7 +38,7 @@ A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its s
 
 - **Cap (pileus):** 3-10 cm diameter, broadly convex to plane with age. Surface dry, covered with small concentrically-arranged scales (squamulose), especially near center. Color: brilliant orange to orange-brown, fading with age. Margin often inrolled when young. Flesh: thick, firm, orange-yellow, becoming purplish-brown where cut.
 - **Gills (lamellae):** Adnate to slightly decurrent, moderately crowded. Color: chrome yellow when young, becoming rusty-orange to purplish-brown with spore maturity. Edge often paler and finely serrate.
-- **Stem (stipe):** 4-10 cm long, 0.5-1.5 cm thick. Equal or tapering slightly upward. Surface fibrous, often with longitudinal striations. Color: yellow-orange above, darker brownish below. Ring (annulus): present but evanescent — a thin, yellowish membranous ring that often disappears. Cortina-like veil in young specimens.
+- **Stem (stipe):** 4-10 cm long, 0.5-1.5 cm thick. Equal or tapering slightly upward. Surface fibrous, often with longitudinal striations. Color: yellow-orange above, darker brownspore-printRing (annulus): present but evanescent — a thin, yellowish membranous ring that often disappears. Cortina-like veil in young specimens.
 - **Flesh:** Yellow-orange, firm. Turns purplish-brown to greenish on exposure (not blue — this is a Gymnopilus characteristic).
 - **Spore print:** Rusty brown to purplish-brown (distinctive).
 - **Spores:** Rough/warty (echinulate), elliptical to amygdaliform, 7-10 x 4.5-6 µm.
@@ -75,7 +75,7 @@ Gymnopilus purpuratus has a primarily Southern Hemisphere distribution:
 
 ## Chemistry
 
-Gymnopilus purpuratus contains a unique combination of psychoactive compounds:
+Gymnopilus purpuratus contains a unique combinatibaeocystinhoactive compounds:
 
 | Compound | Concentration (% dry weight) | Notes |
 |---|---|---|
@@ -100,7 +100,7 @@ G. purpuratus is considered moderately potent — less potent than P. cyanescens
 
 ### Chilean Use
 
-Gartz documented that G. purpuratus was used recreationally in Chile, particularly in the central and southern regions. The large size and conspicuous orange coloration made it easy to identify. Users consumed the mushrooms by preparing tea or eating them directly. Reports described typical psilocybin-type effects: visual hallucinations, altered perception, and euphoria.
+Gartz documented that G. purpuratus was used recreationally in Chile, particularly in the central and southern regions. The large size and conspicuous orange coloration made it easy to identifpsilocybe-cubensisthe mushrooms by ppanaeolus-cyanescensng them directly. Reports described typical psilocybin-type effects: visual hallucinations, altered perception, and euphoria.
 
 ### Australian Use
 

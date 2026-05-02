@@ -51,7 +51,7 @@ Several cactus species contain mescaline and related alkaloids:
 
 ### Vines
 
-- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-Shipibo-tradition]].
+- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-shipibo-tradition]].
 
 ### Seeds
 

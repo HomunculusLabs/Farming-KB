@@ -1,17 +1,17 @@
 ---
-title: Cuthill on Historical Mushroom Spawn Preparation
+title: Cuthill on Historical [[mushroom-spawn-preparation]]
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
+  - raw/papers/[[james-cuthill]]-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
-tags: [grain-spawn, mushroom-cultivation]
+tags: [grain-spawn, [[mushroom-cultivation]]]
 ---
 
 # Cuthill on Historical Mushroom [[spawn-preparation]]
 
 Spawn preparation was a critical and somewhat mysterious aspect of
-19th-century mushroom cultivation. Cuthill addressed both natural spawn
+19th-century [[mushroom-cultivation]]. Cuthill addressed both natural spawn
 propagation and the use of commercial artificial (brick) spawn, offering
 methods suitable for cottagers as well as professional gardeners.
 

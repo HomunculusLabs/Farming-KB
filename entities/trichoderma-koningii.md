@@ -30,7 +30,7 @@ species identification within this genus.
 
 ## Overview
 
-Trichoderma koningii is a soil-inhabiting fungus renowned for its
+Trichoderma konspore is a soil-inhabiting fungus renowned for its
 biocontrol properties and its role as a biological control agent
 against plant pathogenic fungi. As a member of the Trichoderma genus,
 it shares the characteristic traits of rapid colonization, prolific
@@ -38,7 +38,7 @@ spore production, and the ability to antagonize other fungi through
 multiple mechanisms including mycoparasitism, antibiosis, and
 competition for nutrients and space. T. koningii is commonly isolated
 from agricultural soils and is recognized as a natural component of
-the soil fungal community in diverse agroecosystems.
+the soil fungalbiodiversity-fungi-soil-fungal-communitiesgroecosystems.
 
 The species contributes to the suppressiveness of certain soils
 against plant diseases, acting as an indigenous biological control
@@ -55,7 +55,7 @@ Trichoderma koningii has been shown to be an effective biological
 control agent for damping-off disease in tomato caused by the
 pathogenic fungus Sclerotium rolfsii. Damping-off is a destructive
 disease of seedlings that can cause significant losses in
-agricultural production, and the demonstrated efficacy of T. koningii
+agricultural production, and the demyceliumed efficacy of T. koningii
 against this pathogen highlights its practical value as a biocontrol
 organism. The antagonistic interaction between T. koningii and S.
 rolfsii involves multiple mechanisms, including direct parasitism of

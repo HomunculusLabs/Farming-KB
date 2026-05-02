@@ -119,6 +119,6 @@ industrial enzymes, and bioremediation tools.
 
 - [[fungal-endophytes]]
 - [[mycorrhizal-networks]]
-- [[soil-fungal-communities]]
+- [[biodiversity-fungi-soil-fungal-communities]]
 - [[environmental-dna-metabarcoding]]
 - fungal species estimates

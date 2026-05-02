@@ -14,7 +14,7 @@ The approach exploits the fact that specific fatty acids serve as biomarkers for
 
 ## Signature Fatty Acids as Biomarkers
 
-Different groups of soil microorganisms contain characteristic fatty acids that serve as biomarkers. The neutral lipid fatty acid (NLFA) 16:1omega5 is a specific biomarker for AM fungi, which do not produce ergosterol. Phospholipid fatty acid (PLFA) 18:2omega6,9 and ergosterol serve as biomarkers for saprophytic fungi. Bacterial biomass is estimated using a set of 10 specific PLFAs. Neutral lipids function primarily as storage compounds in AM fungi, comprising approximately 20% of the biomass of hyphae, vesicles, and spores.
+Different groups of soil microorganisms contain characteristic fatty acids that serve as biomarkers. The neutral lipid fatsaprophytic-fungi:1omega5 is a specific biomarker for AM fungi, which do not produce ergosterol. Phospholipid fatty acid (PLFA) 18:2omega6,9 and ergosterol serve as biomarkers for saprophytic fungi. Bacterial biomass is estimated using a set of 10 specific PLFAs. Neutral lipids function primarily as storage compounds in AM fungi, comprising approximately 20% of the biomass of hyphae, vesicles, and spores.
 
 The neutral lipid fatty acid (NLFA) 16:1omega5 is a specific biomarker for AM fungi, which do not produce ergosterol.
 
@@ -26,7 +26,7 @@ Neutral lipids function primarily as storage compounds in AM fungi, comprising a
 
 ## PLFA Versus NLFA
 
-Phospholipid fatty acids (PLFAs) are components of cell membranes and reflect the occurrence of mainly living organisms because the phosphate group is rapidly released through enzymatic action upon cell death. Neutral lipid fatty acids (NLFAs) are storage compounds that may also degrade relatively quickly when fungal hyphae senesce. The ratio of NLFA 16:1omega5 to PLFA 16:1omega5 provides information about the carbon allocation status of AM fungi: higher NLFA/PLFA ratios indicate greater carbon allocation to storage, while lower ratios indicate active growth with less storage.
+Phospholipid fatty acids (PLFAs) are components of cell membranes and reflect the occurrence of mainly living organisms because the [[fungal-hyphae]]up is rapidly released through enzymatic action upon cell death. Neutral lipid fatty acids (NLFAs) are storage compounds that may also degrade relatively quickly when fungal hyphae senesce. The ratio of NLFA 16:1omega5 to PLFA 16:1omega5 provides information about the carbon allocation status of AM fungi: higher NLFA/PLFA ratios indicate greater carbon allocation to storage, while lower ratios indicate active growth with less storage.
 
 Neutral lipid fatty acids (NLFAs) are storage compounds that may also degrade relatively quickly when fungal hyphae senesce.
 

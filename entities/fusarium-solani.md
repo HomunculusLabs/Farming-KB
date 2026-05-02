@@ -137,4 +137,3 @@ ecology.
 - [[glomus-mosseae]]
 - [[cladosporium-cladosporioides]]
 - [[trichoderma-viride]]
-

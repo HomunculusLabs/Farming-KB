@@ -45,7 +45,7 @@ January. Moderately active; distinct for its penchant for growing in great
 numbers on decomposing stumps or wood debris, its orangish color, and caps
 that remain conic at maturity.
 
-### [[psilocybe-caerulescens]]
+### [[psilocybe-caerulescens-entity]]
 
 Distributed throughout subtropical Mexico, Colombia, Bolivia, Ecuador,
 Honduras, El Salvador, Venezuela, and Australia. Probably more widely

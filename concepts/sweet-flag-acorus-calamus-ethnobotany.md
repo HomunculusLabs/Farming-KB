@@ -126,6 +126,8 @@ essential.
 
 ## See Also
 
+- [[acorus-calamus]]
+
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]
 - [[golden-guide-hallucinogenic-plants-overview]]
 - [[golden-guide-iboga-and-tabernanthe]]

@@ -95,6 +95,8 @@ The farmer's only real task is to stop interfering and allow nature to express i
 
 ## See Also
 
+- [[laws-of-thermodynamics]]
+
 Related topics in this wiki include: .
 
 ## Related

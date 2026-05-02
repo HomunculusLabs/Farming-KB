@@ -1173,3 +1173,7 @@
 ## Y
 
 - [[youngsang-cho]]
+- [[agaricus-brasiliensis]]
+- [[hypomyces-lactifluorum]]
+- [[phallus-impudicus-entity]]
+- [[sophora-secundiflora-entity]]

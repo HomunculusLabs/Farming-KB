@@ -33,7 +33,6 @@ Uwe Blesching, Ph.D. (born 1958) is an American author and researcher who compil
 
 
 
-
 ## The Cannabis Health Index
 
 The full title — "The Cannabis Health Index: Combining the Science of Medical Marijuana with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases" — captures Blesching's integrative approach. The book combines hard pharmacological science with mind-body medicine perspectives, organizing its content around:
@@ -43,7 +42,6 @@ The full title — "The Cannabis Health Index: Combining the Science of Medical 
 - **The CHI scoring system:** A systematic framework for matching health conditions to specific cannabis chemotypes, delivery methods, and evidence levels, rated using a structured evidence hierarchy
 - **Comprehensive condition coverage:** Over 100 conditions including chronic pain, inflammation, neurological disorders, mental health conditions, autoimmune diseases, and aging-related conditions
 - **Strain-specific guidance:** Evidence-based recommendations considering sativa vs. indica chemotypes and specific delivery methods
-
 
 
 
@@ -68,11 +66,9 @@ Blesching's bibliography extends beyond cannabis:
 
 
 
-
 ## Approach
 
 Blesching's work is notable for bridging the gap between clinical pharmacology and holistic health practice. He advocates for what he calls a "subjective therapeutic window" — the idea that optimal cannabis dosing is highly individual and must be determined through careful self-observation. His inclusion of mindfulness techniques alongside cannabinoid science reflects an integrative medicine perspective that considers both the biochemical and psychological dimensions of healing.
-
 
 
 

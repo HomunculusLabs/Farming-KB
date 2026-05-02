@@ -10,7 +10,7 @@ sources:
 
 # Direct Observation Method
 
-A central practice in Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]] is the method of direct, non-analytical observation of nature. This approach stands in sharp contrast to the scientific method of breaking nature down into its component parts for study.
+A central practice in Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming]] is the method of direct, non-analytical observation of nature. This approach stands in sharp contrast to the scientific method of breaking nature down into its component parts for study.
 
 ## Seeing Nature Whole
 

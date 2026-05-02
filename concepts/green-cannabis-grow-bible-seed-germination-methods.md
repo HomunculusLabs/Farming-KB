@@ -1,22 +1,9 @@
 ---
-title: Seed Germination Methods - Greg Green's Cannabis Grow Bible
-created: 2026-04-26
-tags:
-  - germination
-  - seed-propagation
-  - cloning
-  - transplanting
-  - cannabis-cultivation
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - raw/papers/[[greg-green-sinsemilla-and-pollination]]-the-cannabis-grow-bible.md
-type: concept
----
+ti
 
 # Seed Germination Methods
 
-Greg Green's Cannabis Grow Bible Chapter 3 covers propagation in detail,
+[[greg-green]]'s Cannabis Grow Bible Chapter 3 covers propagation in detail,
 including multiple methods for germinating seeds, transplanting
 seedlings, and the logistics of planning a grow from seed to harvest.
 

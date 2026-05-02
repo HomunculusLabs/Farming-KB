@@ -24,7 +24,7 @@ acremonium strictum is a cosmopolitan fungal species belonging to the phylum [[a
 - **Genus:** Acremonium (syn. Acremoniella)
 - **Species:** A. strictum
 
-The taxonomy of the genus Acremonium has been subject to considerable revision, and many species formerly placed within this genus have been reassigned based on molecular phylogenetic analyses. The genus is characterized by simple, unbranched or sparingly branched conidiophores bearing single, cylindrical conidia.
+The taxonomy of the genus Acremonium has been subject to considerable revision, and many species formerly placed within this genus have been reassigned based on molecular phylogenetic analyses. The genus is characterized by simple, unbranched or sparingly branmalt-extract-agars bearing single, cylindrical conidia.
 
 ## Morphology and Identification
 
@@ -44,9 +44,7 @@ acremonium strictum is a widely distributed species found across a broad range o
 - Rhizosphere of ericaceous plants
 - Agricultural soils and grasslands
 - Indoor environments and building materials
-- Surfaces in high-radiation environments (Chernobyl reactor room)
-
-The species demonstrates a remarkable capacity for stress tolerance, thriving in environments that would be hostile to most microorganisms. This adaptability likely contributes to its cosmopolitan distribution.
+- Surfaces in high-radiation environments (Chernobyl reactor roomycorrhizal-symbiosisstrates a remarkable capacity for stress tolerance, thriving in environments that would be hostile to most microorganisms. This adaptability likely contributes to its cosmopolitan distribution.
 
 ## Role in Ecosystem Processes
 

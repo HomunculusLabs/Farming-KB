@@ -21,7 +21,7 @@ Marasmius oreades, commonly known as the Fairy Ring Mushroom or Scotch Bonnet, i
 
 - **Cap:** Small, 2-5 cm diameter, convex when young (often with a central umbo), expanding to nearly flat with a shallow central depression. Color is tan to buff to reddish-brown, often paler towards the margin. Surface smooth, slightly hygrophanous (changes color with moisture).
 - **Gills:** Free or slightly adnexed, white to cream, fairly distant (widely spaced). This wide gill spacing is a key identifying feature.
-- **Stem:** 3-8 cm long, 2-4 mm thick, tough, fibrous, and wiry. Solid, light brown, paler towards the cap. The stem is remarkably tough and leathery, a characteristic of the genus.
+- **Stem:** 3-8 cm long, 2-4 mm thick, tough, fibrous, and wiryspore-printght brown, paler towards the cap. The stem is remarkably tough and leathery, a characteristic of the genus.
 - **Flesh:** Thin, white to buff. Mild, pleasant odor sometimes described as like fresh cucumber or slightly sweet.
 - **Spore print:** White.
 - **Spores:** Smooth, ellipsoid, approximately 7-9 x 4-5 µm.
@@ -69,7 +69,7 @@ M. oreades is considered an excellent edible despite its small size:
 - **Drying quality:** Exceptional. M. oreades can be thoroughly dried and reconstituted months or years later with minimal loss of flavor. This was historically one of its most valued qualities, allowing preservation for winter use.
 - **Preparation:** Best picked, cleaned of grass debris, and used in soups, sauces, and stews. The tough stems can be removed and only caps used, or the entire mushroom can be finely chopped.
 - **Pickling:** Traditionally pickled in some European countries.
-- **Yield:** While individual mushrooms are small, fairy rings can produce hundreds or thousands of mushrooms, making collection worthwhile.
+- **Yield:** While individual mushrooms amycelial-networksings can produce hundreds or thousands of mushrooms, making collection worthwhile.
 
 ## Ecological Role
 

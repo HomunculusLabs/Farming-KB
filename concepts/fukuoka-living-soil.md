@@ -10,7 +10,7 @@ sources:
 
 # The Living Soil
 
-Masanobu Fukuoka's understanding of soil is foundational to his [[fukuoka-four-principles-natural-farming-detailed]]. The soil under natural conditions is not an inert growing medium but a living system -- a community of microorganisms, fungi, earthworms, and organic matter that maintains its own fertility.
+Masanobu Fukuoka's understanding of soil is foundational to his [[fukuoka-four-principles-natural-farming]]. The soil under natural conditions is not an inert growing medium but a living system -- a community of microorganisms, fungi, earthworms, and organic matter that maintains its own fertility.
 
 ## The Soil Teems with Life
 

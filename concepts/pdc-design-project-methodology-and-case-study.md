@@ -24,7 +24,7 @@ The design project demonstrates that the student can:
 
 ## Team Assembly and Organization
 
-Design projects are conducted in teams, mirroring professional design practice. Williams outlines specific guidance for team composition and organization.
+Design projects are conducted in teams, mirroring professional design practice. [[composting]]utlines specific guidance for team composition and organization.
 
 ### Team Composition
 

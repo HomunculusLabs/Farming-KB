@@ -7,7 +7,7 @@ tags: [animal-husbandry, homesteading, livestock, equipment, construction]
 sources: []
 ---
 
-# Livestock Fencing Guide
+# [[holzer-livestock-philosophy-paddock-system|Livestock]] [[rabbit-husbandry|Fencing]] Guide
 
 Fencing is one of the most important investments on a homestead. Good fencing
 keeps animals where they belong, protects them from predators, and enables
@@ -146,7 +146,3 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Use permanent fencing for the perimeter and division lanes; portable
   fencing for internal paddock divisions.
 - Plan gate placement to allow easy movement between paddocks.
-
-### Species-Specific Notes
-
-Related: [[mollison-designers-electric-fencing-in-permaculture-systems]], [[mollison-designers-woven-fence-hedge-live-barrier]]

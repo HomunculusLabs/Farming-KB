@@ -15,13 +15,9 @@ sources:
 
 # Serpula lacrymans
 
-
-
 ## Overview
 
 *Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive wood-decay organisms in temperate regions, capable of destroying structural timber in buildings and causing extensive economic damage. Despite the common name "dry rot," the fungus requires elevated moisture (typically >20% wood moisture content) to colonize and decay wood — the name refers to the resulting dry, cracked, cubical appearance of severely decayed timber.
-
-
 
 ## Taxonomy
 
@@ -32,8 +28,6 @@ sources:
 - **Genus**: *Serpula*
 
 The species epithet *lacrymans* (weeping) refers to the conspicuous water droplets that form on actively growing mycelial strands and fruiting bodies, a phenomenon called guttation. The genome was sequenced in 2011, revealing significant contraction in its wood-decay enzyme repertoire compared to other basidiomycetes.
-
-
 
 ## Morphology
 
@@ -52,8 +46,6 @@ Causes **brown rot**, characterized by:
 - Progressive loss of wood mass and strength — structural failure can occur with surprisingly little visible external damage
 - Darkened, shrunk, cracked wood that crumbles easily when dry
 
-
-
 ## Brown Rot Mechanism
 
 *S. lacrymans* employs a Fenton chemistry-based decay system rather than the extensive extracellular enzyme suites used by white-rot fungi. The mechanism involves:
@@ -65,13 +57,9 @@ Causes **brown rot**, characterized by:
 
 This extracellular radical-based system is highly efficient at depolymerizing crystalline cellulose and allows the fungus to reach deep into wood cell walls without requiring direct contact.
 
-
-
 ## Ecological Niche
 
 Interestingly, *S. lacrymans* is rarely found in natural forest environments. It is thought to have evolved from forest-inhabiting ancestors (possibly *Serpula himantioides*) and adapted to the built environment. Its natural niche may be in specific microhabitats such as high-altitude conifer forests in mountainous regions of Central Asia (the Himalayas), where its closest wild relatives are found.
-
-
 
 ## Building Management
 

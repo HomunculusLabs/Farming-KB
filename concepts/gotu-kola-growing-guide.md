@@ -137,10 +137,6 @@ herb per square foot per year from an established patch.
 ## Common Issues
 - Drying out: The most common problem. Plants wilt quickly and may die if
   soil dries completely.
-- Root rot: Rare, but can occur in stagnant, anaerobic water. Refresh water
-  periodically in bog containers.
-- Yellowing leaves: Usually indicates nutrient deficiency; fertilize lightly.
-- Leggy growth: Indicates insufficient light; move to a brighter location.
 ## See Also
 
 - [[root-crops-growing-guide]]

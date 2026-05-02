@@ -1,17 +1,5 @@
 ---
-title: "Paddy Straw Mushroom Cultivation (Volvariella volvacea)"
-created: 2026-04-26
-tags:
-  - mushroom-cultivation
-  - tropical-mushrooms
-  - volvariella
-  - straw-substrate
-date: 2026-04-25
-updated: 2026-04-25
-sources:
-  - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-type: concept
----
+ti
 
 # [[paddy-straw-mushroom]] Cultivation ([[volvariella-volvacea]])
 
@@ -47,7 +35,7 @@ have yet to be developed.
 ## Natural Habitat and Distribution
 
 Thriving throughout tropical and subtropical Asia, this mushroom
-grows singly or in groups on composting rice straw, sugar cane
+grows singly or in groups on [[composting]] rice straw, sugar cane
 residue, leaf piles, and compost heaps during periods of warm
 weather from spring through autumn. Reports of this species in
 northern temperate climates have been traced to "escapees" from

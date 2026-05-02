@@ -16,7 +16,7 @@ The species name "tuber-regium" means "royal tuber," reflecting the high esteem 
 - **Habitat:** Tropical and subtropical forests, grasslands, and savanna-forest transition zones.
 - **Substrate:** Saprotrophic on dead wood, but also forms ectomycorrhizal-like associations with living tree roots.
 - **Climate:** Prefers warm, humid conditions (25-35°C / 77-95°F).
-- **Sclerotium formation:** Occurs underground during dry or unfavorable conditions as a survival strategy.
+- **Sclerotium formation:** Occurs underground during dry or unfavorable conditions as a [[pleurotus-species]].
 ## Key Compounds
 - **[[beta-glucans]]:** High-molecular-weight polysaccharides (primarily 1,3-beta and 1,6-beta-glucans) with potent immunomodulatory effects. P. tuber-regium produces particularly high beta-glucan concentrations compared to other Pleurotus species.
 - **Proteoglycans:** Protein-bound polysaccharides with anti-tumor and immune-enhancing activity.
@@ -86,7 +86,7 @@ Both the sclerotia and fruiting bodies are nutritious:
 The sclerotium is the primary part used medicinally in Africa:
 - **Decoction:** Boil sliced or pounded sclerotium in water for 30-60 minutes. Strain and drink as tea.
 - **Powder:** Dried sclerotium ground into powder. Added to food, drinks, or taken in capsules.
-- **Porridge:** Sclerotium powder cooked with water or milk into a thick porridge — traditional preparation for children and convalescents.
+- **Pooyster-mushroomstium powder cooked with water or milk into a thick porridge — traditional preparation for children and convalescents.
 - **Topical:** Fresh sclerotium pounded into a paste for wound application.
 ### Fruiting Body Preparation
 - Culinary use similar to oyster mushrooms.

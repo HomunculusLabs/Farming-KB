@@ -138,10 +138,6 @@ certain conditions. Microscopic examination is recommended for definitive
 identification, as many Mycena species require close study of spore morphology
 (particularly the amyloid reaction), cystidial characters, and pileipellis structure. A
 
-
-
-
-
 - [[mycena-galopus]] — a common related species found in similar habitats
 - [[mycena-cyanorrhiza]] — a Mycena species known to contain psilocybin
 - [[mycena-purpureofusca]] — another Mycena species with reported bioactive compounds

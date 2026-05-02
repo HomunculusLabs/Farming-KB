@@ -17,11 +17,9 @@ sources:
 
 
 
-
 ## Overview
 
 White clover is a low-growing, perennial legume native to Europe and Central Asia, now distributed globally in temperate grasslands, pastures, and lawns. In permaculture design, it serves as a primary living mulch and nitrogen-fixing ground cover, valued for its ability to improve soil fertility while suppressing unwanted vegetation.
-
 
 
 
@@ -31,11 +29,9 @@ White clover is a creeping perennial that spreads via stolons (above-ground runn
 
 
 
-
 ## Nitrogen Fixation
 
 As a legume, white clover forms a symbiotic relationship with *Rhizobium leguminosarum* biovar *trifolii* bacteria, which colonize root nodules and fix atmospheric nitrogen (N₂) into ammonium (NH₄⁺). In productive stands, white clover can fix 100–200 kg N/ha/year, significantly reducing or eliminating the need for synthetic nitrogen fertilizers in adjacent plantings.
-
 
 
 
@@ -50,7 +46,6 @@ As a legume, white clover forms a symbiotic relationship with *Rhizobium legumin
 
 
 
-
 ## Cultivation and Varieties
 
 White clover is typically broadcast-sown at 2–5 kg/ha into existing grass or prepared seedbeds. Seed requires inoculation with appropriate rhizobium strains if not naturally present in soil. Key varieties include:
@@ -61,11 +56,9 @@ White clover is typically broadcast-sown at 2–5 kg/ha into existing grass or p
 
 
 
-
 ## Soil Preferences
 
 Thrives in moist, well-drained loams with pH 6.0–7.0. Tolerates moderate acidity, poor drainage (briefly), and partial shade. Competes poorly with tall aggressive grasses; performs best when mowed or grazed periodically to maintain light penetration.
-
 
 
 
@@ -78,13 +71,14 @@ Thrives in moist, well-drained loams with pH 6.0–7.0. Tolerates moderate acidi
 
 
 
-
 ## Limitations
 
 - Aggressive in moist climates; may invade garden beds if not bordered
 - Provides relatively little biomass compared to other green manures
 - Can harbor slugs and snails in damp conditions
 - Nitrogen fixation is reduced in high-nitrogen soils (negative feedback regulation)
+
+
 
 ## See Also
 

@@ -11,7 +11,7 @@ sources:
 # Carpophore Production
 
 Nwanze et al. (2005) demonstrated that the interaction between spawn grain
-type and culture medium composition has highly significant effects on
+type and culture memushroom-cultivation highly significant effects on
 carpophore dry weight, stipe diameter, and pileus diameter in
 Lentinus squarrosulus, an indigenous Nigerian mushroom species. This study,
 published in the African Journal of Biotechnology, represents one of the

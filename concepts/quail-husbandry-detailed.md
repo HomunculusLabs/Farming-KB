@@ -3,7 +3,7 @@ title: Quail Husbandry (Detailed)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health]
+tags: [animal-husbandry, [[homesteading]], livestock, byproducts, livestock-health]
 sources: []
 ---
 
@@ -145,10 +145,6 @@ several color and production varieties:
 ## Breeding and Incubation
 
 ### Breeding Ratio
-- 1 male per 2-3 females in breeder cages.
-- Males become aggressive in crowded conditions. Monitor and separate.
-- Breeding season: year-round with 14+ hours of light.
-
 ## See Also
 
 - [[turkey-husbandry]]

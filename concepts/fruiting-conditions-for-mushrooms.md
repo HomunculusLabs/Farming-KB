@@ -101,6 +101,6 @@ amendment.
 
 ## See Also
 
-- [[oyster-mushroom-cultivation]]
-- [[substrate-preparation-for-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
+- [[cotter-substrate-preparation]]
 - Pleurotus

@@ -52,7 +52,7 @@ accurate biogeographic analysis in temperate regions.
 The Guzmán, Allen and Gartz checklist (Table I) documents extensive synonymy
 throughout Psilocybe. [[psilocybe-cubensis]] alone carries synonyms including
 Stropharia cubensis, P. cubensis var. caerulescens, Stropharia
-subcyanescens, S. cyanescens, and S. caerulescens. [[psilocybe-caerulescens]]
+subcyanescens, S. cyanescens, and S. caerulescens. [[psilocybe-caerulescens-entity]]
 has multiple varieties including var. albida, var. mazatecorum, var.
 nigripes, and var. ombrophila, with some elevated to species rank (P.
 mazatecorum, P. mixaeensis) by different authors. P. zapotecorum was

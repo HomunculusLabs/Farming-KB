@@ -52,7 +52,7 @@ CBD is consistently anxiolytic across a wider dose range than THC. It reduces an
 
 Cannabinoid activation in the amygdala -- the brain's fear center -- blocks the effects of stress on fear conditioning and extinction. This is directly relevant to PTSD, which involves impaired fear extinction (the inability to "unlearn" traumatic associations).
 
-**Fraser (2009)**: "The use of a synthetic cannabinoid in the management of treatment-resistant nightmares in posttraumatic stress disorder." CNS Neuroscience and Therapeutics 15(1):84-88.
+**Fraser (2009)**: "The use of a synthetic cannabinoinabilone management of treatment-resistant nightmares in posttraumatic stress disorder." CNS Neuroscience and Therapeutics 15(1):84-88.
 
 Nabilone (synthetic cannabinoid) reduced treatment-resistant nightmares in PTSD patients -- one of the most debilitating symptoms.
 

@@ -82,3 +82,27 @@ See also: [[holzer-pig-keeping-paddock-system]], [[permaculture-grazing-and-past
 - [[holzer-livestock-philosophy-pig-breeds]]
 - [[microfungal-species-diversity-large-areas]]
 - [[holzer-wild-cattle-and-old-breeds]]
+
+## Species-Specific Integration Strategies
+
+Each livestock species interacts differently with the landscape and
+offers distinct benefits when integrated into a paddock system. Poultry
+(chickens, ducks, geese) follow larger grazers to break up manure pats,
+control fly larvae, and spread fertility. Their scratching behavior
+incorporates manure into the soil surface while their foraging reduces
+parasite load on subsequent grazing cycles. Pigs are effective land-
+clearers and soil builders — their rooting behavior can incorporate
+cover crops, break up compacted soil, and create microtopography that
+increases habitat diversity. However, pigs require strong fencing and
+supervision to prevent excessive damage.
+
+Ruminants (cattle, sheep, goats) are the primary grazing engine in most
+holistic management systems. Cattle are generalist grazers that do well
+on diverse pastures, while sheep and goats offer complementary grazing
+preferences — sheep prefer shorter grasses and forbs while goats are
+browsers that control woody encroachment. The combination of cattle and
+sheep or goats in the same paddock system provides more complete
+vegetation utilization and reduces selective grazing pressure on
+preferred species. Holzer also integrates less common species like
+highland cattle and ancient pig breeds, selecting for hardiness and
+ability to thrive on rough terrain without supplemental feeding.

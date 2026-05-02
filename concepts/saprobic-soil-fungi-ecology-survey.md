@@ -93,7 +93,7 @@ Fermentation products of soil fungi include penicillin, cephalosporin, cyclospor
 
 - [[fungal-culture-media-formulas-applications]]
 
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 

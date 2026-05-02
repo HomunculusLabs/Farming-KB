@@ -1,7 +1,7 @@
 ---
 title: Fish Amino Acid
 type: chemical
-tags: [knf, faa, nitrogen, amino-acid, fermentation, cho-global]
+tags: [knf, faa, [[natural-farming]]-acid, fermentation, cho-global]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
@@ -95,8 +95,8 @@ FAA is primarily a nitrogen source but contains a broad spectrum of nutrients:
 
 * **Dilution:** 1:500 to 1:1000
 * **Application:** Pour 0.5–1 liter of diluted FAA at the base of each plant
-* **Timing:** Apply during transplanting and early vegetative growth
-* **Caution:** Excessive soil application can attract pests (flies, raccoons, rodents) and cause nitrogen burn in sensitive plants
+* **Timing:** Apply during transplanting and earldecompositiongrowth
+* **Caution:** Excessive soil application can attract pests (flies, raccoons, rcompostingd cause nitrogen burn in sensitive plants
 
 ### Compost Additive
 

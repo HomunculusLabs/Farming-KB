@@ -94,7 +94,7 @@ The choice of method depends on the research question:
 - [[fungal-dna-barcoding]]
 - [[fungal-dna-extraction-methods]]
 - [[fungal-metagenomics]]
-- [[fungal-endemism-biogeography]]
+- [[fungal-endemism-and-biogeography]]
 
 ## References
 

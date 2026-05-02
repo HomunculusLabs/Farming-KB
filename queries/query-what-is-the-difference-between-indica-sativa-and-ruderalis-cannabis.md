@@ -92,7 +92,9 @@ more than marketing labels.
 - Modern strains are nearly all hybrids; check
   [[cannabis-chemotype-classification]] for accurate chemical profiling
 
-## Related Questions
+## Related
+
+- [[cannabis-ruderalis]] Questions
 - [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
 - [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]]
 - [[query-what-is-the-cannabis-entourage-effect]]

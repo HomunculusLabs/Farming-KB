@@ -77,6 +77,26 @@ of reasonable biological quality. Their principal culinary value lies in
 their distinctive flavor and texture rather than their caloric or
 protein contribution.
 
+
+## Nutritional Strategies by Species
+
+Different mushroom species have evolved distinct nutritional strategies.
+Primary decomposers like oyster mushrooms (Pleurotus spp.) can colonize
+fresh lignocellulose directly, while secondary decomposers like Agaricus
+bisporus require substrate that has been partially broken down by
+composting microorganisms. This distinction determines cultivation
+approaches: primary decomposers grow on pasteurized straw or sawdust,
+while secondary decomposers need fully composted substrate with specific
+microbial communities established during the composting process.
+
+Carbon-to-nitrogen ratio (C:N) is a critical parameter in mushroom
+substrate formulation. Most cultivated species prefer a C:N ratio between
+25:1 and 40:1. Too much nitrogen promotes bacterial contamination and
+ammonia accumulation, which is toxic to mycelium. Too little nitrogen
+limits mycelial growth and reduces yields. Supplementing substrates with
+nitrogen-rich materials (bran, legume hay, or commercial supplements) can
+increase yields by 30-100%, but requires careful calculation to avoid
+exceeding the species' tolerance for free ammonia.
 ## See Also
 
 - [[mushroom-compost-preparation]]

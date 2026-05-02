@@ -53,7 +53,7 @@ The free base was obtained by basification of the nitrate salt and distillation,
 
 The most consistent feature across all reports was that 2C-N "somehow came up just a little short of expectations." It works, it produces effects, but never quite delivers the full experience hoped for.
 
-From an esthetic perspective, the pure salt is yellow rather than the usual white, making consumed solutions yellow by definition. From a structural perspective, the 4-nitro group, like the 4-bromo group of 2c-b-compound-profile|2C-B, is a dead-end — it cannot be stretched, compressed, lengthened, or shortened. With 2c-b-compound-profile|2C-B the end product was a total winner; with 2C-N the end product is something less, and there is no way to modify it.
+From an esthetic perspective, the pure salt is yellow rather than the usual white, making consumed solutions yellow by definition. From a structural perspective, the 4-nitro group, like the 4-bromo group of [[2c-b]]-compound-profile|2C-B, is a dead-end — it cannot be stretched, compressed, lengthened, or shortened. With 2c-b-compound-profile|2C-B the end product was a total winner; with 2C-N the end product is something less, and there is no way to modify it.
 
 ### Structure-Activity Relationship Context
 

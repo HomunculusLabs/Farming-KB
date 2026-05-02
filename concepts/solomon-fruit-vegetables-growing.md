@@ -1,12 +1,5 @@
 ---
-title: "Fruit Vegetables: Growing Guide"
-created: 2026-04-26
-updated: 2026-04-26
-type: concept
-tags: [fruit-tree, vegetables]
-sources:
-  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
----
+ti
 
 # [[legume-and-fruit-vegetable-harvest]]s: [[echinacea-growing-guide]]
 
@@ -111,7 +104,7 @@ All legumes are low-demand crops.
 
 ### Key Fact About Legumes and Soil
 
-Legumes do NOT enrich soil for companion crops. All nitrogen formed in root nodules is immediately incorporated into the plant's own leaves and seeds. Nitrogen becomes available to following crops only when legume green manure is turned under while still lush. Nitrate-forming bacteria must be present in soil; they won't colonize soil severely depleted of organic matter.
+Legumes do NOT enrich soil for companion crops. All nitrogen formed in root nodules is immediately incorporated into the plant's own leaves and seeds. Nitrogen becomes available to following crops only when legume green manure is turned still lush. Nitrate-forming bacteria must be present in soil; they won't colonize soil severely depleted of organic matter.
 
 ### Peas
 

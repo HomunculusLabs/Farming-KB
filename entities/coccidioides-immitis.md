@@ -106,7 +106,7 @@ Like [[histoplasma-capsulatum]], skin testing with standardized fungal antigens 
 Research into the connection between C. immitis and uncinocarpus-reesei has provided insights into the evolution of pathogenicity within the Onygenales. The close phylogenetic relationship between a highly virulent pathogen and a non-pathogenic saprotroph offers opportunities for:
 
 - Identifying the genetic basis of fungal pathogenicity through comparative genomics
-- Understanding how virulence factors evolved from ancestral saprotrophic traits
+- Understanding how virulence factors evolved ffungal-biodiversitytrophic traits
 - Developing potential therapeutic targets unique to the pathogen
 - Tracing the biogeographic history of the Coccidioides lineage
 

@@ -143,4 +143,3 @@ underlie this remarkable phenotypic tolerance.
 - [[cladosporium-cladosporioides]]
 - [[trichoderma-viride]]
 - [[chaetomium-globosum]]
-

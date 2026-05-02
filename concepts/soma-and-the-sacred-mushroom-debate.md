@@ -121,6 +121,6 @@ This comparative perspective does not resolve the Soma question but contextualis
 ## Related Concepts
 
 - [[amanita-muscaria-chemistry-and-pharmacology]] — the chemistry of the candidate species
-- [[amanita-muscaria-preparation-methods]] — how it was traditionally prepared
+- [[amanita-preparation-methods]] — how it was traditionally prepared
 - [[psychedelic-mushroom-art-and-iconography]] — visual evidence for ancient mushroom use
 - [[psilocybin-and-consciousness-expansion]] — modern perspectives on psychedelic experience

@@ -42,7 +42,7 @@ According to the Indians, syphilis, cancer, and epilepsy have been alleviated; t
 
 Particularly effective for stomach disorders and skin irritations.
 
-The shamaness Irene Pineda de Figueroa discovered her vocation when mushrooms cured her of a post-bereavement skin affliction. For more on prominent Mazatec curanderas, see [[maria-sabina-mazatec-mushroom-curandera]] and [[maria-sabina-and-mazatec-mushroom-ceremony]].
+The shamaness Irene Pineda de Figueroa discovered her vocation when mushrooms cured her of a post-bereavement skin affliction. For more on prominent Mazatec curanderas, see [[maria-sabina-mazatec-mushroom-curandera]] and [[maria-sabina-mazatec-mushroom-ceremony]].
 
 ## The Shaman as Speaker
 

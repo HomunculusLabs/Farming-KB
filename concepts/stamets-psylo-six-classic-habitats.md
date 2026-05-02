@@ -116,7 +116,7 @@ on decomposing wood or in enriched soils of tropical forests.
 
 Mexico is the richest region for psilocybin mycoflora in the world, with
 numerous species described from Oaxaca and other southern states. Psilocybe
-mexicana, [[psilocybe-caerulescens]], Psilocybe zapotecorum, and Psilocybe
+mexicana, [[psilocybe-caerulescens-entity]], Psilocybe zapotecorum, and Psilocybe
 aztecorum are all tropical/subtropical species with deep cultural
 significance.
 

@@ -130,4 +130,3 @@ rather than stored, as wounds provide entry points for decay
 organisms. Properly stored root vegetables can last four to six
 months, providing fresh produce through the lean winter months
 when the garden is otherwise bare.
-

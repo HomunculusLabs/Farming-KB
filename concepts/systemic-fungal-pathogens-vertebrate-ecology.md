@@ -145,9 +145,6 @@ the availability of animals to predators. The enumeration of such
 
 - [[fungi-in-the-environment-plant-fungal-interactions]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
-- [[fungi-in-the-environment-fungal-spore-dispersal]]
-- [[snow-mold-fungi-cold-temperature-plant-pathogens]]
-
 ## See Also
 
 - [[subcutaneous-dematiaceous-fungal-pathogens]]

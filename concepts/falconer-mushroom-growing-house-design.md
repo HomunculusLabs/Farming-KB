@@ -3,7 +3,7 @@
      3|created: 2026-04-26
      4|updated: 2026-04-24
      5|sources:
-     6|  - William Falconer - Mushrooms: How to Grow Them (1891)
+ [[william-falconer]]m Falconer - Mushrooms: How to Grow Them (1891)
      7|type: concept
      8|tags: [design, mushroom-cultivation]
      9|---
@@ -78,7 +78,7 @@
     78|### Temperature Considerations
     79|
     80|Bed interior should be about 60 degrees during bearing; surface at least
-    81|45-50 degrees. Below this, mycelium tended to rest and crops stagnated.
+    81|45-50 degrees. Bemycelium, mycelium tended to rest and crops stagnated.
     82|Open sheds could not maintain this temperature in hard frost without
     83|more trouble than the crop was worth.
     84|
@@ -127,7 +127,7 @@
    127|frames inside orchard (peach and nectarine) greenhouses. By ventilating
    128|or keeping close, covering or uncovering, shading or unshading, he
    129|controlled both temperature and light for the mushroom beds independently
-   130|of the greenhouse atmosphere. This enabled mushroom cultivation in both
+   130|of the greenhouse atmosphere. Thimushroom-cultivationultivation in both
    131|cold and warm greenhouses.
    132|
    133|### In Rose Houses

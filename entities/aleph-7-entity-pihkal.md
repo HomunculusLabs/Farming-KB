@@ -119,7 +119,7 @@ phase angle of +55!. But in psychopharmacology? There is no psychic
 
 A solution of 2.6 g
 
-2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see under 2C-T-7 for its
+2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see under [[2c-t-7]] for its
 synthesis) in 20 mL nitroethane and 0.5 g anhydrous ammonium acetate
 was heated on the steam bath overnight. The excess solvent/reagent
 was removed under vacuum leaving an orange oil as a residue that

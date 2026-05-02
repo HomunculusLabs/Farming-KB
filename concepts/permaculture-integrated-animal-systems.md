@@ -3,11 +3,11 @@ title: Permaculture Integrated Animal Systems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [permaculture, design]
+tags: [[permaculture]], design]
 sources: []
 ---
-# Permaculture Integrated Animal Systems
-In permaculture, animals are not isolated in feedlots — they're integrated into the whole farm system. Each animal performs multiple functions: weed control, pest management, soil fertility, food production, and income. The goal is to design animal systems that work with natural behaviors rather than against them.
+# permaculture integrated animal systems
+In [[permaculture]], animals are not isolated in feedlots — they're integrated into the whole farm system. Each animal performs multiple functions: weed control, pest management, soil fertility, food production, and income. The goal is to design animal systems that work with natural behaviors rather than against them.
 ## Design Principles
 ### Multiple Functions
 - Every animal should serve 3+ functions on the farm
@@ -34,7 +34,7 @@ In permaculture, animals are not isolated in feedlots — they're integrated int
 - **Chicken tractor**: Moveable coop that fertilizes and clears ground ahead of planting
 - **Free-range in orchards**: Control codling moth (eat fallen fruit containing larvae)
 - **Deep litter system**: Chickens in covered run with deep bedding, creates compost
-- **With compost**: Chickens scratch through compost piles, accelerating decomposition
+- **With compost**: Chickens scratch through compost piles, accelerating [[decomposition]]
 ### See Also
 - [[permaculture-chicken-tractors]] — for chicken tractor design
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
@@ -83,7 +83,7 @@ In permaculture, animals are not isolated in feedlots — they're integrated int
 - **Rotational grazing**: Intensive, short-duration grazing with long recovery periods
 - **Keyline plowing**: Cattle follow keyline plow patterns for even grazing
 - **With poultry**: Chickens follow cattle — scratch through manure pats (control parasites)
-- **With crops**: Cattle graze cover crops, then crop residue after harvest
+- **With crops**: Cattle graze [[cover-crops]], then crop residue after harvest
 ## Bees
 ### Functions
 - Honey and wax production

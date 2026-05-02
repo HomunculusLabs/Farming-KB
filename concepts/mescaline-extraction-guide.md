@@ -3,10 +3,10 @@ title: Mescaline Extraction Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [entheogen, chemistry, preparation, lab-technique, cacti, psychopharmacology, safety, biochemistry, methods, pharmacology, mesoamerica, south-america]
+tags: [entheogen, chemistry, preparation, lab-technique, cacti, psychopharmacology, safety, biochemistry, methods, pharmacology, metrichocereus-pachanoiica]
 sources: []
 ---
-# Mescaline Extraction Guide
+# [[trichocereus-peruvianus]]ide
 ## Overview
 Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring phenethylamine alkaloid found in several cactus species, most notably peyote (Lophophora williamsii), San Pedro (Trichocereus pachanoi), and Peruvian Torch (Trichocereus peruvianus). It is one of the oldest known psychoactive compounds — evidence of peyote use dates back over 5,000 years.
 This guide covers extraction methods for isolating mescaline from cactus material. Mescaline is a Schedule I controlled substance in the United States and many other countries. This information is provided for educational and harm-reduction purposes.
@@ -23,8 +23,7 @@ Mescaline is a phenethylamine — structurally related to amphetamine and MDMA, 
 - **Mescaline hydrochloride (HCl)**: Soluble in water and polar solvents, insoluble in nonpolar solvents
 - **Mescaline sulfate**: Water-soluble, forms crystalline precipitate from solution
 - **Mescaline acetate**: Water-soluble, can be crystallized from acetone
-## Cactus Sources
-### Mescaline Content by Species
+## C[[trichocereus-bridgesii]]aline Content by Species
 - **Lophophora williamsii** (peyote): 0.4–6.0% fresh weight (varies enormously)
 - **Trichocereus pachanoi** (San Pedro): 0.1–2.0% dried tissue
 - **Trichocereus peruvianus** (Peruvian Torch): 0.3–2.4% dried tissue

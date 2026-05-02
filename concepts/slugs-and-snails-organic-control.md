@@ -3,9 +3,9 @@ title: Slugs and Snails - Organic Control
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [pest-control, organic, permaculture, gardening, troubleshooting]
+tags: [pest-control, organic, [[permaculture]], gardening, troubleshooting]
 sources:
-  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
+  - raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md
 ---
 
 # Slugs and Snails - Organic Control
@@ -16,11 +16,9 @@ sources:
 
 
 
-
 ## The Problem
 
-The non-indigenous Spanish slug (*Arion vulgaris*) breeds on an enormous scale in many regions. Sepp Holzer found up to 15 slugs per square metre on farms and vegetable plots in Southern Styria and Lower Austria. Cattle would no longer graze because the grass was so full of them. In town gardens, slugs crawl up house walls all the way to balconies, forcing removal of espalier trees and climbing plants.
-
+The non-indigenous Spanish slug (*Arion vulgaris*) breeds on an enormous scale in many regions. [[sepp-holzer]] found up to 15 slugs per square metre on farms and vegetable plots in Southern Styria and Lower Austria. Cattle would no longer graze because the grass was so full of them. In town gardens, slugs crawl up house walls all the way to balconies, forcing removal of espalier trees and climbing plants.
 
 
 
@@ -48,7 +46,6 @@ For smaller gardens, Holzer recommends a sawdust-and-ash barrier:
 
 
 
-
 ## Egg-Trap and Solar Destruction Method
 
 Slugs and snails lay eggs in dark, moist places. Create deliberate egg-laying habitat:
@@ -69,7 +66,6 @@ This method also demonstrates how improper use of mulch (fresh material, piled t
 
 
 
-
 ## Biological Controls
 
 - **Pigs:** Movable pens can place pigs exactly where needed. Mix collected snails with their normal feed. Pigs soon acquire a taste and eat all newcomers. They need a great deal of water to digest snails. Pigs also control soil insects like cockchafer larvae through rooting.
@@ -83,9 +79,8 @@ This method also demonstrates how improper use of mulch (fresh material, piled t
 
 
 
-
 ## Related
 
 - [[insect-allies]] -- biological helpers in the garden
-- [[holzer-livestock-integration]] -- pigs as helpers in permaculture systems
+- [[holzer-livestock-integration]] -- pigs as helpers in [[permaculture]] systems
 - [[sheet-mulching]] -- proper mulch technique to avoid creating slug habitat

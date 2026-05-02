@@ -1,6 +1,5 @@
 ---
-title: "Year-Round Marketing Calendar"
-tags: [marketing, CSA, pricing, sales, business]
+title: "Year-Round Marketing Caeliot-coleman [marketing, CSA, pricing, sales, business]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]

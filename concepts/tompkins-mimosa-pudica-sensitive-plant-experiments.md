@@ -140,3 +140,7 @@ to acknowledge.
 - [[tompkins-plant-electrical-signals]]
 - [[tompkins-plant-growth-regulators]]
 - [[tompkins-plant-chemical-communication]]
+
+## See Also
+
+- [[mimosa-pudica]]

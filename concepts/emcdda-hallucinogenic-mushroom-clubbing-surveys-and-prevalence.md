@@ -129,4 +129,4 @@ diffuse widely.
 - [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-- [[emcdda-hallucinogenic-mushroom-dose-and-effects]]
+- [[emcdda-hallucinogenic-mushroom-dose-effects]]

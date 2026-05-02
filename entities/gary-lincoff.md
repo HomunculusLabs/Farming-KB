@@ -25,7 +25,6 @@ Gary H. Lincoff is a renowned American mycologist and author, best known for *Th
 
 
 
-
 ## Key Works
 
 - **Audubon Field Guide to Mushrooms** — The standard photographic field guide for North American mycology, covering hundreds of species with color plates and descriptive text. Foundational for amateur and professional mycologists alike.
@@ -39,11 +38,9 @@ Gary H. Lincoff is a renowned American mycologist and author, best known for *Th
 
 
 
-
 ## Contributions to Psilocybin Mycology
 
 Lincoff contributed to the discovery of *Psilocybe tampanensis* alongside [[steven-pollock]] — the species was found during a mushroom hunt near Tampa, Florida during a taxonomic conference. His photographic and taxonomic contributions are credited by [[paul-stamets]] as essential to *Psilocybin Mushrooms of the World*.
-
 
 ### Field Observations and Contributions
 
@@ -71,11 +68,9 @@ Lincoff has taught at the New York Botanical Garden and has been a major figure 
 
 
 
-
 ## Legacy
 
 His collaboration with Stamets, [[david-arora]], and [[gaston-guzman]] helped advance the documentation of psychoactive mushroom species worldwide. He has been acknowledged in numerous mycological texts as a key contributor to the field. His Audubon guide remains one of the best-selling mushroom references in North America.
-
 
 
 

@@ -116,5 +116,5 @@ Turner rates ketamine at "Intensity: 10 - Infinity" — the only substance rated
 - [[amanita-muscaria-guide]] — GABA-ergic psychedelic (contrast with serotonergic DMT)
 - [[soma-hypothesis]] — Ancient psychoactive plant use
 ## Related
-- [[salvia-divinorum]]
+- [[salvia-divinorum-entity]]
 - [[5-meo-dmt-reference]]

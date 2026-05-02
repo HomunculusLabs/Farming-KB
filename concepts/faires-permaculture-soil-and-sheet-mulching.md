@@ -1,6 +1,6 @@
 ---
 title: Permaculture Soil and Sheet Mulching
-created: 2026-04-21
+cresheet-mulching21
 updated: 2026-04-21
 type: concept
 tags: [permaculture, soil, animal-husbandry, water, pest-management, plant-growth, fruit-tree, homesteading]
@@ -95,7 +95,7 @@ There are many ways to mulch. The method described here is called [sheet mulchin
 | Desert soil, too much clay | Gypsum | Gypsum allows water to penetrate the soil. |
 | Salty soil | Raised beds | Raised beds allow salt to leech down away from plants. |
 | Potash deficiency | Comfrey, wood ash | Potash is potassium found in organic matter. |
-| No trace elements | Mulch/compost | Organic compost contains trace elements and bacteria. |
+| No trace elements | Mulch/compost | Organic compogreen-manure-cropselements and bacteria. |
 | Too alkaline (low pH) | Sulfur | High alkalinity prevents plants from using nutrients. |
 | Too acid (high pH) | Lime (calcium carbonate) | Decrease to 6.0-7.5 pH |
 

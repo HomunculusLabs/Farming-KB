@@ -66,7 +66,7 @@ California chaparral and South African fynbos represent Mediterranean-type ecosy
 
 The high proportion of endemic plant species in these regions suggests that associated fungi may also include many endemic species, making them priorities for fungal biodiversity surveys.
 
-[[fungal-endemism-biogeography]] [[fungal-biodiversity]]
+[[fungal-endemism-and-biogeography]] [[fungal-biodiversity]]
 
 ## Seasonal Fruiting Patterns
 

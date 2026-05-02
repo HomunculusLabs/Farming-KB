@@ -44,7 +44,6 @@ working concentrations of 0.01–1.0 mg/L.
 Spectroscopic identification relies on 1H-NMR and 13C-NMR, with
 characteristic signals for the lactone carbonyl at approximately 170 ppm.
 
-
 ## Role in Plant Physiology
 
 Epibrassinolide regulates numerous developmental processes essential for

@@ -33,11 +33,9 @@ Victorian mycologist and science writer (1825-1914), author of "The Seven Sister
 
 
 
-
 ## Overview
 
 Mordecai Cubitt Cooke was a prolific mycological writer and a member of the Woolhope Naturalists' Field Club in Hereford, which organized the first systematic fungus forays in Britain beginning in 1868. Despite his humble origins (which prevented him from entering the gentlemanly classes establishing academic mycology), Cooke made significant contributions to popularizing mycology. He is shown seated in the middle of the front row of the founding members of the British Mycological Society (c. 1896).
-
 
 
 
@@ -71,11 +69,9 @@ By the time Cooke published "Poisonous Mushrooms" in 1894, published by the Soci
 
 
 
-
 ## Legacy
 
 Cooke represents a fascinating "what if" in the history of psychedelics — a brilliant naturalist who knew about psychoactive mushrooms, described their effects favorably in his youth, but never consumed them and ultimately warned against them. His trajectory from enthusiastic drug defender to conservative mycological authority mirrors the broader Victorian ambivalence toward psychoactive substances.
-
 
 
 

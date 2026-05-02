@@ -122,6 +122,6 @@ Fungal enzymes are central to [[mycoremediation-basics]]:
 - [[fungal-ecology-decomposition-cycles]] -- decomposition succession
 - [[mycoremediation-basics]] -- bioremediation overview
 - [[mycoremediation-pahs]] -- PAH degradation
-- [[mycoremediation-of-oil-spills]] -- petroleum cleanup
+- [[mycoremediation-oil-spills]] -- petroleum cleanup
 - [[mushroom-species-guide]] -- cultivation-appropriate species
 - [[fungal-enzyme-systems-bioremediation]]

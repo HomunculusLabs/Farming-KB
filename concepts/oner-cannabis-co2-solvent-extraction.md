@@ -5,7 +5,7 @@ updated: 2026-04-24
 type: concept
 tags: [cannabis, extraction, CO2, solvent, concentrates, oil]
 sources:
-  - "S.T. Oner - cannabis-sativa Volume 3: The Essential Guide"
+  - "S.T. Oner - [[cannabis-sativa]] Volume 3: The Essential Guide"
 ---
 
 # Cannabis CO2 and Solvent Extraction Techniques

@@ -1,12 +1,12 @@
 ---
-title: Chamomile Growing Guide
+title: chamomile growing guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, companion-planting, pollinators]
 sources: []
 ---
-# Chamomile Growing Guide
+# chamomile growing guide
 ## Overview
 Chamomile is one of the most ancient and widely used medicinal herbs, prized
 for its calming, anti-inflammatory, and digestive properties. two species are

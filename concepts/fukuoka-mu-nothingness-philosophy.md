@@ -10,7 +10,7 @@ sources:
 
 # Mu (Nothingness) Philosophy
 
-The philosophy of Mu -- nothingness, emptiness, the void -- is the deepest philosophical foundation of Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]]. While recalling the self-sufficient farming practices and natural diets of the past, Fukuoka's desire has been to establish a natural way of farming for the future and explore the potential for its spread and adoption by others through observance of the Eastern philosophy of Mu.
+The philosophy of Mu -- nothingness, emptiness, the void -- is the deepest philosophical foundation of Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming]]. While recalling the self-sufficient farming practices and natural diets of the past, Fukuoka's desire has been to establish a natural way of farming for the future and explore the potential for its spread and adoption by others through observance of the Eastern philosophy of Mu.
 
 ## The Foundation of Natural Farming
 
@@ -42,7 +42,7 @@ The only direct means for confirming the perfection of nature is for each indivi
 
 ## Mu and the Four Principles
 
-The [[fukuoka-four-principles-natural-farming-detailed]] -- no cultivation, no fertilizer, no pesticides, no weeding -- are all expressions of Mu in practice. Each principle represents a different facet of the same insight: that nature is complete and human intervention is not only unnecessary but counterproductive.
+The [[fukuoka-four-principles-natural-farming]] -- no cultivation, no fertilizer, no pesticides, no weeding -- are all expressions of Mu in practice. Each principle represents a different facet of the same insight: that nature is complete and human intervention is not only unnecessary but counterproductive.
 
 - No cultivation: The soil works itself through the activity of microorganisms and roots. Mu means trusting this process.
 

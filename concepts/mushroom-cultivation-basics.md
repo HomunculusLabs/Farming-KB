@@ -1,5 +1,4 @@
 ---
-
 title: Mushroom Cultivation Basics
 created: 2026-04-11
 updated: 2026-04-13
@@ -111,7 +110,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ### Wood-Based Substrates (Lignicolous Species)
 - **Best for**: Shiitake, oyster, [[enoki-cultivation|enoki]], reishi, lion's mane
 - **Hardwoods**: Oak, elm, chestnut, beech, maple, alder (best choices)
-- **Conifers**: High resin/tannin content makes them less suitable; mix 1:1 with hardwood if used
+- **Conifers**: High resin/tannin content maoyster-mushroomsitable; mix 1:1 with hardwood if used
 - **Standard formula**: 4 parts sawdust + 1 part bran (by volume)
 - **Moisture**: 60% — firm squeeze should yield only a few drops
 - **Optional**: Add gypsum at 5% dry weight for structure/porosity
@@ -130,7 +129,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - Cut in fall-spring when sap is highest
 - Drill holes 1 inch deep in 4 rows, 8 inches apart
 - Plug with spawn, seal with wax
-- Incubate 9-15 months before first fruiting
+- Incubate 9-1[[fruiting-conditions]]st fruiting
 - Produces for 3-6 years
 
 ### Outdoor Natural Culture

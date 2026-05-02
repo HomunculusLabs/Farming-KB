@@ -75,6 +75,26 @@ A teaspoon of good garden soil contains "only" several thousand protozoa, compar
 - They need moisture and go dormant in cysts during dry periods
 - A healthy soil food web ensures adequate protozoa populations
 
+
+## Management and Disease Suppression
+
+Managing for protozoa populations is a key strategy in biological farming.
+Tillage disrupts protozoan cysts and reduces populations by exposing them
+to desiccation and UV radiation. No-till and reduced tillage systems
+maintain higher protozoan numbers, which translates to more efficient
+nutrient cycling and reduced fertilizer requirements. Compost tea
+applications can inoculate soil with diverse protozoan communities,
+particularly when aerated compost tea (ACT) is brewed with mature compost
+containing active protozoan populations.
+
+Protozoa also play a role in disease suppression. Some protozoan species
+feed on plant-pathogenic bacteria, reducing their populations in the
+rhizosphere. Additionally, by grazing on bacteria near root surfaces,
+protozoa stimulate bacterial turnover and the release of antibiotics and
+other antagonistic compounds that protect roots from infection. This
+indirect disease suppression mechanism is one reason why biologically
+active soils generally show lower disease incidence than sterilized or
+chemically managed soils.
 ## Related
 
 - [[soil-food-web-structure]]

@@ -4,7 +4,7 @@ type: species
 tags: [knf, imo, microorganism-collection, soil-health, cho-global]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+sources: [/Usenatural-farmingaw/papers/chos-global-natural-farming.md]
 ---
 
 # Indigenous Microorganisms
@@ -28,8 +28,7 @@ Microorganisms are collected from a pristine natural environment using cooked ri
    * The rice grains should not be slimy or foul-smelling (which indicates putrefactive bacterial contamination)
 5. **Color indicators:** Different microbial communities produce distinct colors:
    * Predominantly white: Balanced fungal and bacterial community (ideal)
-   * Predominantly gray or black: Excessive bacterial growth, possibly anaerobic; not ideal
-   * Colored spots (yellow, orange, green, pink): May indicate specific fungal groups or contamination; use judgment
+   * Predominantly gray or black: Excessive bacterial growth, possibly anaesubstrate-preparation Colored spots (yellow, orange, green, pink): May indicate specific fungal groups or contamination; use judgment
 
 ### IMO 2: Propagation
 
@@ -87,13 +86,13 @@ Regular IMO application contributes to soil health through:
 * **Enhanced organic matter decomposition:** Accelerated breakdown of crop residues, compost, and other organic inputs, releasing nutrients in plant-available forms
 * **Disease suppression:** Competitive exclusion of plant pathogens, antibiotic production by actinomycetes, and induction of systemic resistance in plants
 * **Nutrient cycling:** Solubilization of phosphorus, potassium, and micronutrients from mineral sources; biological nitrogen fixation by free-living bacteria
-* **Mycorrhizal support:** IMO preparations may contain or support mycorrhizal fungal propagules that form symbiotic associations with plant roots, extending the effective root surface area for nutrient and water uptake
+* **Mycorrhizal support:** IMO preparations may contain or support mycorrhizalknf-preparationses that form symbiotic associations with plant roots, extending the effective root surface area for nutrient and water uptake
 
 ### Integration with Other KNF Inputs
 
 IMO is typically used in combination with other KNF preparations:
 
-* **Fermented Plant Juice (FPJ):** Provides plant-derived nutrients and growth factors that feed both plants and microorganisms
+* **Fermented P[[fish-amino-acid]]):** Provides plant-derived nutrients and growth factors that feed both plants and microorganisms
 * **Oriental Herbal Nutrient (OHN):** Provides antimicrobial and growth-promoting compounds from medicinal herbs
 * **Fish Amino Acid (FAA):** Provides nitrogen and amino acids that support rapid microbial growth and plant protein synthesis
 * **Water-Soluble Calcium (WCA):** Provides calcium that strengthens plant cell walls and supports microbial cell membrane integrity

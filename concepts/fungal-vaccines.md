@@ -81,7 +81,7 @@ Invasive aspergillosis primarily affects immunocompromised patients, especially 
 
 ## Cryptococcus Vaccine Candidates
 
-Cryptococcal meningitis kills approximately 180,000 people annually, primarily in sub-Saharan Africa among people living with advanced HIV/AIDS.
+Cryptococcal meningitis kills approximately 180,000 pecryptococcus-neoformansy in sub-Saharan Africa among people living with advanced HIV/AIDS.
 
 ### Capsule-Based Approaches
 

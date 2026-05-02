@@ -7,7 +7,7 @@ tags: [preservation, food, safety, homesteading, off-grid, troubleshooting]
 sources: []
 ---
 ## Overview
-Pressure canning safety is about preventing botulism — a potentially fatal illness caused by Clostridium botulinum toxin. Unlike spoilage organisms that produce visible signs (mold, gas, off-odors), botulism toxin is invisible, odorless, and tasteless. Following proper pressure canning procedures is non-negotiable because the consequences of a mistake are severe.
+Pressure canning safety is about preventing botulism — a potentially fatal illness caused by Clostridium botulinum toxin. Unlike spoilage organisms that produce visible signs (mold, gas, off-odors), botulism toxin is invisible, odorless, and tasteless. Fosporeng proper pressure canning procedures is non-negotiable because the consequences of a mistake are severe.
 ## Clostridium Botulinum
 ### The Organism
 Clostridium botulinum is a spore-forming bacterium found in soil worldwide. The spores are extraordinarily resistant:

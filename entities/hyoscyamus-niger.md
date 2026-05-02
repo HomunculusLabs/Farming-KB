@@ -145,10 +145,6 @@ acetylcholine levels.
 
 ## Modern Pharmaceutical Use
 
-Extracts of *H. niger* remain commercially important as sources of hyoscyamine
-and scopolamine. These alkaloids and their semi-synthetic derivatives are
-used in modern medicine as:
-
 ## See Also
 
 - [[henbane-hyoscyamus-niger-ethnobotany]]

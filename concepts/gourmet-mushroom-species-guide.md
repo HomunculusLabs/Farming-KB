@@ -34,7 +34,7 @@ Multiple species: P. ostreatus (blue/gray oyster), P. pulmonarius (phoenix oyste
 Extremely aggressive colonizers that grow on straw, sawdust, paper, coffee grounds, and many agricultural wastes.
 Wide temperature range.
 One of the easiest mushrooms to cultivate.
-Also valuable for [[mycoremediation-overview]].
+Also valuable for [[cotter-mycoremediation-overview]].
 
 Different oyster species span a remarkable temperature range: pink oyster (P. djamor) fruits readily at 75-85 F and is ideal for tropical cultivation; blue oyster (P. ostreatus) prefers cooler temperatures of 55-65 F; and the winter oyster (P. ostreatus var. florida) can fruit at temperatures as low as 45 F.
 This diversity makes oyster mushrooms cultivable in virtually any climate.
@@ -121,7 +121,7 @@ The key variables for species selection are: available substrate materials, ambi
 ## See Also
 
 - [[shiitake-cultivation-log-method]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]
 - [[medicinal-mushroom-health-benefits]]
 - [[mushroom-cultivation-bulk-substrates]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]

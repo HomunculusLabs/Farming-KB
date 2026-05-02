@@ -24,7 +24,7 @@ The practical application documented involves filling depressions and roadside d
 
 
 
-## [[mycofiltration]] Structures
+## [[unknown-mycelium-mycofiltration]] Structures
 
 In Stamets' framework of mycofiltration, myceliated substrates serve as living filtration barriers. These structures perform similarly to conventional retaining walls or filtration systems but are grown rather than manufactured.
 

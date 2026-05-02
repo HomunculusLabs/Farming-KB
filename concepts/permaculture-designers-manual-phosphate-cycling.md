@@ -98,7 +98,7 @@ Seabirds and salmon do try to recycle phosphorus back to us, but we tend to redu
 - [[permaculture-designers-manual-compost-methods]]
 - [[permaculture-designers-manual-mulch-systems]]
 - [[permaculture-designers-manual-food-forest-guilds]]
-- [[permaculture-designers-manual-keyline-design]]
+- [[keyline-design]]
 - [[permaculture-designers-manual-aquatic-plants]]
 - [[permaculture-designers-manual-essential-oil-plants]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

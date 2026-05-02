@@ -1,11 +1,5 @@
 ---
-title: PDC Site Mapping and Survey Techniques
-created: 2026-04-18
-updated: 2026-04-18
-type: concept
-sources: [[williams-pdc-earthworks]]-pdc_-a-[[permaculture]]-design-cours
-tags: [permaculture, pdc, mapping, survey, site-analysis]
----
+ti
 
 # PDC Site Mapping and Survey Techniques
 
@@ -13,7 +7,7 @@ Mapping and surveying form the visual language of [[permaculture-design]]. The W
 
 ## The Base Map: Foundation of All Design Work
 
-The base map is the map of the entire site within legal property limits. It serves as the canvas upon which all analytical data and design proposals are drawn. Williams provides specific guidance for creating and working with base maps.
+The base map is the map of the entire site within legal property limits. It serves as the canvas upon which all analytical data and design proposals are drawn. Williams provides specific guidance for creating and working with base [[maps]].
 
 ### Sources for Base Maps
 

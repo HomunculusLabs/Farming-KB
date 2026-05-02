@@ -13,13 +13,11 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 
 
-
 ## Chemical Identity
 
 **2C-B**: 2,5-Dimethoxy-4-bromophenethylamine. The "2C" prefix denotes "two carbons" (the phenethylamine chain) and the "B" denotes bromine at the 4-position.
 
 Molecular formula: C10H14BrNO2
-
 
 
 
@@ -38,11 +36,9 @@ Shulgin describes 2C-B as having a "magical half-dozen" quality.
 
 
 
-
 ## Duration
 
 Effective duration: 4-8 hours (Shulgin reports "4 to 6 hours" at moderate doses, with potential for longer aftereffects).
-
 
 
 
@@ -60,13 +56,11 @@ At 12 mg (oral): "A gentle, easy entry, with no physical distress at all. The ef
 
 
 
-
 ## Synthesis
 
 The synthesis begins with 2,5-dimethoxybenzaldehyde, which is brominated to produce 2,5-dimethoxy-4-bromobenzaldehyde. This is converted to the nitrostyrene via condensation with nitromethane, and then reduced to the amine using lithium aluminum hydride (LiAlH4).
 
 The original synthesis was carried out in the late 1970s. Shulgin's detailed procedure in PIHKAL provides complete synthetic details including reagent quantities, reaction conditions, isolation procedures, and purification steps.
-
 
 
 
@@ -80,11 +74,9 @@ The original synthesis was carried out in the late 1970s. Shulgin's detailed pro
 
 
 
-
 ## Pharmacological Notes
 
 The bromine atom at the 4-position is a key determinant of activity. The compound acts primarily as a 5-HT2A receptor agonist, with additional activity at other serotonergic receptor subtypes. See [[phenethylamine-receptor-pharmacology]] for receptor details.
-
 
 
 

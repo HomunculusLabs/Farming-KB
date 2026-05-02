@@ -17,7 +17,7 @@ fibers, dyes, poisons, and ritual plants. It is the broader and older of the two
 fields, with roots tracing back to ancient Greek naturalists like Theophrastus and
 Dioscorides, and was formalized as an academic discipline in the late 19th century
 by John Harshberger. Modern ethnobotany spans paleoethnobotany (archaeological plant
-remains), pharmacognosy (drug discovery from plants), and political ecology
+remains), pharmacognosy (drug discovery from plants), anmedicinal-mushrooms
 (intellectual property and biopiracy debates).
 **Ethnomycology** is the study of the historical uses and sociocultural impact of
 fungi. It encompasses edible and medicinal mushrooms, psychoactive fungi,
@@ -29,8 +29,7 @@ ethnomycology addresses questions that are in some ways more mysterious — fung
 have often occupied a liminal space in human cosmologies, associated with death,
 transformation, and the invisible world beneath the soil.
 ## Historical Development
-Ethnobotany emerged from the Western tradition of plant exploration. Colonial-era
-botanists cataloged useful plants from conquered territories, and while this work
+Ethnobotany emerged from the Western tradition of plant exploration. Colonial-[[richard-evans-schultes]]d useful plants from conquered territories, and while this work
 was extractive, it laid groundwork for understanding plant-human relationships
 across cultures. Richard Evans Schultes became the field's towering 20th-century
 figure, spending decades in the Amazon documenting indigenous plant use —

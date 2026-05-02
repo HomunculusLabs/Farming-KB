@@ -106,7 +106,7 @@ Poultry in guilds provide pest control (eating codling moth larvae, plum curculi
 
 ## See Also
 
-- [[permaculture-ethics-and-principles]] — the integration and diversity principles behind guilds
+- [[natural-farm-permaculture-ethics-principles]] — the integration and diversity principles behind guilds
 - [[permaculture-animal-integration]] — adding animals to guild systems
 - [[permaculture-forest-garden-establishment]] — guilds at the scale of entire food forests
 - [[permaculture-site-analysis]] — choosing guild locations based on site conditions

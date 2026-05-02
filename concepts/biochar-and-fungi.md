@@ -99,7 +99,7 @@ Biochar's porous structure provides ideal fungal habitat:
 - Biochar immobilizes heavy metals in soil through adsorption and precipitation
 - Mycorrhizal fungi further stabilize metals through biosorption and biomineralization
 - Combined approach more effective than either alone for lead, cadmium, and zinc
-- See [[mycoremediation-of-heavy-metals]] for complementary approaches
+- See [[mycoremediation-heavy-metals-detailed]] for complementary approaches
 ### Water Filtration
 - Biochar + mycelium composite filters for stormwater and wastewater treatment
 - Biochar provides adsorption capacity; mycelium provides biological degradation
@@ -118,4 +118,4 @@ Biochar's porous structure provides ideal fungal habitat:
 ## See Also
 - [[fungi-in-climate-change]] -- fungal roles in carbon sequestration
 - [[mycorrhizal-networks-and-forest-communication]] -- fungal networks enhanced by biochar
-- [[mycoremediation-of-heavy-metals]] -- combined biochar-fungal remediation approaches
+- [[mycoremediation-heavy-metals-detailed]] -- combined biochar-fungal remediation approaches

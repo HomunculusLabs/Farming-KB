@@ -4,12 +4,12 @@ type: chemical
 tags: [enzyme, ligninolytic, mycoremediation, biocatalyst, multicopper-oxidase]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
+sources: [/Users/t3rpz/wiki/raw/papers/mushroom-cultivationoom-farming-mycoremediation.md]
 ---
 
 # Laccase
 
-**Laccase** (EC 1.10.3.2; benzenediol:oxygen oxidoreductase) is a multicopper oxidase enzyme produced by a wide range of fungi, bacteria, insects, and plants. In the context of mushroom cultivation and mycoremediation, fungal laccases (particularly from white-rot basidiomycetes) are among the most important biocatalysts for lignin degradation, xenobiotic transformation, and environmental detoxification. Laccases are central to the ability of fungi to break down recalcitrant organic pollutants and represent a cornerstone technology in fungal bioremediation.
+**Laccase** (EC 1.10.3.2; benzenediol:oxygen oxidoreductase) is a multicopper oxidase enzyme produced by a wide range of fungi, bacteria, insects, and plants. In the context of mushroom cultivation and mycoremediation, fungal laccases (particularly from white-rot basidiomycetes) are among the mfungal-bioremediationlysts for lignin degradation, xenobiotic transformation, and environmental detoxification. Laccases are central to the ability of fungi to break down recalcitrant organic pollutants and represent a cornerstone technology in fungal bioremediation.
 
 ## Enzyme Structure and Mechanism
 
@@ -49,20 +49,17 @@ Mediators are low-molecular-weight compounds that act as electron shuttles, exte
   * **TEMPO** (2,2,6,6-tetramethylpiperidine-1-oxyl) — stable nitroxyl radical mediator
 
 * **Natural mediators:**
-  * **Methyl syringate** — derived from lignin degradation, naturally present in fungal cultures
+  * **Methyl syringate** — derived from lignin [[agricultural-waste-substrates]]t in fungal cultures
   * **Acetosyringone** — phenolic compound from plant material
   * **Violuric acid** — naturally occurring oxidation product
   * **p-Coumaric acid and ferulic acid** — plant phenolics present in agricultural waste substrates
 
-## Production by White-Rot Fungi
-
-### Principal Laccase-Producing Species
+## Production by White-R[[pleurotus-ostreatus]]ipal Laccase-Producing Species
 
 * **Trametes versicolor** — model laccase producer; yields up to 50,000 U/L in optimized submerged fermentation
 * **Trametes hirsuta** — high laccase yields with broad substrate specificity
 * **Pleurotus ostreatus** — dual laccase isozyme system (POXA1, POXA2, POXC) with distinct catalytic properties
-* **Pleurotus pulmonarius** — thermotolerant laccases suitable for tropical applications
-* **Pycnoporus cinnabarinus** — produces laccase as its sole ligninolytic enzyme (no peroxidases)
+* **Pleurotus pulmonarius** — thermotolerant laccases suitable for tropifruiting-body-developmentoporus cinnabarinus** — produces laccase as its sole ligninolytic enzyme (no peroxidases)
 * **Cerrena unicolor** — extremely high laccase titers (up to 100,000 U/L reported)
 * **Ganoderma lucidum** — laccase involved in fruiting body development and lignin degradation
 * **Phlebia radiata** — produces a high-redox-potential laccase effective against recalcitrant pollutants

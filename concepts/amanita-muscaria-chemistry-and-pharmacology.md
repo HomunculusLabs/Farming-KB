@@ -84,5 +84,5 @@ Amanita muscaria is commonly considered poisonous, yet reliable recorded fatalit
 
 ## Related Concepts
 
-- [[amanita-muscaria-preparation-methods]] -- how traditional users rendered it safe
+- [[amanita-preparation-methods]] -- how traditional users rendered it safe
 - [[soma-and-the-sacred-mushroom-debate]] -- the Wasson/Amanita-Soma theory

@@ -8,7 +8,8 @@ synonyms:
   - microbial consortia mycoremediation
 type: concept
 tags: [fungi]
-sources: []
+sources:
+  - raw/papers/mycoremediation-biotechnological-singh.md
 updated: 2026-04-26
 ---
 

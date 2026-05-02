@@ -43,7 +43,7 @@ Key layout principles for the zone 1 kitchen garden include:
 - **Microclimate**: Use walls, fences, and structures to create favorable
   microclimates with reflected heat, wind protection, and modified light.
 
-## [[herb-spiral-design]] Principles
+## [[herb-spiral-design-guide]] Principles
 
 The herb spiral is a mound of soil built in a rising spiral approximately
 1.5 to 2 meters in diameter and 0.5 to 1 meter tall at the center. It

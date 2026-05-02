@@ -56,7 +56,7 @@ the field, and generally not worth the trouble for most hunters.
 Select a fresh specimen, crack or bruise the stem to expose the inner
 flesh, and observe the damaged area over 20 to 120 minutes. The stem
 is the best location to observe the reaction. The cap may also show
-blueing with age or handling, particularly in [[psilocybe-caerulescens]],
+blueing with age or handling, particularly in [[psilocybe-caerulescens-entity]],
 but the stem crack test is more definitive.
 
 ## Reliability of the Bluing Reaction

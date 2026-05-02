@@ -27,7 +27,7 @@ water's edge are not found on mountain tops, and terrestrial plants do not
 thrive in the water. Although apparently without intent or purpose, these
 plants know exactly where they can and should grow.
 
-Man talks of "the right crop for the right land," and does studies to
+Man talks of "the right crop for the right land,"[[persimmon]] studies to
 determine which crops grow well where. Yet research has hardly touched upon
 such topics as the type of parent rock and soil structure suited to mandarin
 orange trees, or the physical, chemical, and biological soil structures in
@@ -108,20 +108,18 @@ is self-sustaining and that [[fukuoka-natural-farming-philosophy-of-mu]] to main
 
 The soil that knows itself is complete and whole. It is only when man
 fragments his understanding, analyzing isolated mineral matter in flasks and
-test tubes, that the soil appears deficient and in need of correction. The
+test tubes, that the soil appears deficnatural-farmingd of correction. The
 living soil, in its natural state, requires nothing from the farmer except
 the absence of destructive practices. This is the essence of the
-[[fukuoka-four-principles-natural-farming-detailed]] that
+[[fukuoka-four-principles-natural-farming]] that
 lies at the heart of natural farming.
 
-## The Farmer's Field vs. the Mountain Forest
-
-The contrast between cultivated fields and mountain forests reveals a
+## The Farmer's Field vs. the Mountain Forestmycorrhizal-fungitween cultivated fields and mountain forests reveals a
 fundamental truth. In the forest, deep humus layers accumulate naturally as
 leaf litter decomposes. Root systems penetrate deeply, aerating the soil and
 bringing minerals from below. Mycorrhizal fungi form vast networks connecting
-trees and plants, facilitating nutrient exchange. No one plows, fertilizes,
-or sprays the forest, yet it produces enormous biomass year after year.
+trees and plants, facilitating nutrient exchange. No onesoil-food-weblizes,
+or sprays the forest, yet it produces enormous biomasdecompositionyear.
 
 The farmer's field, by contrast, is stripped of its natural vegetation,
 compacted by machinery, and depleted of organic matter through continuous

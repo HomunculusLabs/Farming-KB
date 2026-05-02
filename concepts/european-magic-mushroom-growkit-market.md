@@ -113,7 +113,7 @@ The growkit market, despite its controversial nature, contributed significantly 
 ## See Also
 - [[eu-hallucinogenic-mushroom-legislation-timeline]]
 - [[hallucinogenic-mushrooms-european-trends]]
-- [[psilocybin-mushroom-cultivation]]
+- [[psilocybin-cultivation]]
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
 - [[mushroom-legislation-worldwide]]
 - [[psilocybin-mushroom-legal-status-worldwide]]

@@ -5,7 +5,7 @@ tags: [[mycoremediation]], biosorption, biosorbent, mycosorption]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-[[fungal-bioremediation]].md
+  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
 ---
 

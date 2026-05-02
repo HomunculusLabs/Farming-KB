@@ -28,7 +28,7 @@ One of the most important herbs in Ayurvedic medicine, known as Brahmi. Used for
 ### Mechanisms
 - **Memory enhancement:** Enhances dendritic branching and synaptic communication in the hippocampus (memory center). Increases synaptic protein expression.
 - **Antioxidant:** Potent free radical scavenging in brain tissue. Increases endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase).
-- **Anti-inflammatory:** Reduces neuroinflammation by inhibiting COX-2, LOX, and TNF-alpha in brain tissue.
+- **Anti-inflammatory:** Reducserotoninnflammation by inhibiting COX-2, LOX, and TNF-alpha in brain tissue.
 - **Cholinergic:** May enhance acetylcholine release and cholinesterase inhibition, supporting memory formation.
 - **Serotonergic:** Modulates serotonin receptors (5-HT1A, 5-HT2A), contributing to anxiolytic and antidepressant effects.
 - **Neurogenesis:** Promotes growth of new neurons in the hippocampus.
@@ -42,7 +42,7 @@ One of the most important herbs in Ayurvedic medicine, known as Brahmi. Used for
 - **Standardized extract (50% bacosides):** 150-300mg, twice daily (300-600mg total).
 - **Traditional leaf powder:** 1-3g per day.
 - Take with a fat-containing meal (bacosides are fat-soluble).
-- Full effects require 8-12 weeks. Can be taken long-term.
+- Full effects require 8-12 weeks. [[hericium-erinaceus]]term.
 
 ### Contraindications
 - Pregnancy and breastfeeding. Thyroid conditions (may enhance hormone production). Bradycardia. Caution with anticholinergic and sedative medications.
@@ -105,9 +105,7 @@ Known as "the herb of longevity" in traditional Chinese and Ayurvedic medicine. 
 ### Contraindications
 - Pregnancy (uterine contractions). Liver disease (rare hepatotoxicity reports). Caution with sedatives and antidiabetic drugs.
 
----
-
-## Ginkgo (Ginkgo biloba)
+--[[herbal-medicine]]inkgo biloba)
 
 ### Overview
 One of the oldest living tree species — fossil records date back 270 million years. Native to China but now grown worldwide. Ginkgo leaf extract (EGb 761) is the most prescribed herbal medicine in Europe, particularly in Germany and France. Used for cognitive enhancement, circulatory support, and tinnitus.
@@ -146,10 +144,7 @@ Mediterranean aromatic herb used since ancient times for memory enhancement. The
 
 ### Key Compounds
 - **1,8-cineole (eucalyptol):** Monoterpene ketone. Primary compound responsible for cognitive effects. Crosses blood-brain barrier.
-- **Carnosic acid:** Phenolic diterpene. Potent neuroprotective antioxidant.
-- **Rosmarinic acid:** Polyphenol with antioxidant, anti-inflammatory, and anxiolytic effects.
-
 ## See Also
 
-- [[adaptogenic-herbs-guide]]
-- [[parsley-celery-herbs-growing-guide]]
+- [[bacopa-monnieri]]
+

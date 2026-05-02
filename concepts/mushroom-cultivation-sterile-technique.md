@@ -62,11 +62,11 @@ Triethylene glycol can be vaporized through a heated wick. The highly viscous dr
 
 Standard agar media formulas:
 
-**PDY (Potato Dextrose Yeast) Agar**: Filtered broth from boiling 300g sliced potatoes in 1L water for 1 hour + 10g dextrose + 2g yeast (optional) + 20g agar.
+**PDY (Potato Dextrose Yeast) Agar**: Filtered broth from boiling 300g sliced potatoes in 1L water for 1 hour + 10g dextrose + 2g yeast (optional) + 20g [[agar]].
 
-**MEA (Malt Extract Agar)**: 20g light tan brewer's malt + 2g yeast + 20g agar per liter.
+**MEA ([[malt-extract-agar]])**: 20g light tan brewer's malt + 2g yeast + 20g [[agar]] per liter.
 
-**MPG (Malt Peptone Grain) Agar**: 20g tan malt + 5g ground rye grain + 5g peptone + 2g yeast (optional) + 20g agar per liter.
+**MPG (Malt Peptone Grain) [[agar]]**: 20g tan malt + 5g ground rye grain + 5g peptone + 2g yeast (optional) + 20g [[agar]] per liter.
 
 Sterilize at 15 psi for 30 minutes. Do not exceed 250 F or sugar will caramelize, inhibiting growth and promoting mutations. One liter fills approximately thirty 100x15mm petri dishes.
 

@@ -14,13 +14,11 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 
 
-
 ## Chemical Identity
 
 **2C-E**: 2,5-Dimethoxy-4-ethylphenethylamine. The "E" denotes an ethyl group at the 4-position of the 2,5-dimethoxyphenethylamine scaffold.
 
 Molecular formula: C12H19NO2
-
 
 
 
@@ -39,11 +37,9 @@ Molecular formula: C12H19NO2
 
 
 
-
 ## Duration
 
 Effective duration: 8-12 hours.
-
 
 
 
@@ -69,7 +65,6 @@ At higher doses (18-20 mg), the experience becomes significantly more intense, w
 
 
 
-
 ## Comparison to Other 2C Compounds
 
 - **2C-B** ([[2c-b-compound-profile]]): 2C-E is longer-lasting, more intense, and more philosophical/cognitive in character. 2C-B is more sensual and shorter-acting.
@@ -81,11 +76,9 @@ At higher doses (18-20 mg), the experience becomes significantly more intense, w
 
 
 
-
 ## Pharmacology
 
 2C-E acts as a serotonin 5-HT2A receptor agonist. The ethyl group at the 4-position is larger than methyl but smaller than propyl or butyl, representing a favorable balance of potency and duration. The extended duration compared to 2C-B (8-12 vs 4-6 hours) reflects the increased lipophilicity and metabolic stability of the ethyl group. See [[phenethylamine-receptor-pharmacology]].
-
 
 
 

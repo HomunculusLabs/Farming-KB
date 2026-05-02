@@ -140,7 +140,6 @@ A simple annual budget framework:
 
 Homesteading is not about maximizing profit — it is about building a resilient, productive life. But financial sustainability is a prerequisite for long-term success. Plan your finances as carefully as you plan your gardens and buildings.
 
-
 ## Related
 
 - [[homesteading-income-streams]]

@@ -74,7 +74,7 @@ a modified Soxhlet condenser. The addition took 2 h and the refluxing was mainta
 
 DMPEA is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
+extreme caution. This compound is not approved [[mescaline]] consumption.
 
 ## See Also
 

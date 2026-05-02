@@ -135,7 +135,7 @@ failure.
 
 - [[gartz-wasson-mexican-mushroom-cult-rediscovery]]
 
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[psilocybin-isolation-and-early-scientific-research]]
 - [[mexican-inquisition-against-mushroom-cults]]
 - [[timothy-leary]]

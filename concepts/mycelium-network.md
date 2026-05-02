@@ -117,7 +117,7 @@ in anticipation of herbivore attack, a phenomenon sometimes called
 
 Stamets uses mycelium networks as the basis for his four-part strategy of
 [[mycorestoration]]. By selecting and deploying specific fungal species, these
-natural networks can be harnessed for [[mycofiltration]] (water filtration),
+natural networks can be harnessed for [[unknown-mycelium-mycofiltration]] (water filtration),
 [[mycoforestry]] (forest health), [[mycoremediation]] (toxin degradation),
 and [[mycopesticides]] (pest control). The key insight is that mycelium is
 not merely a passive organism but an active, responsive biological system

@@ -143,7 +143,8 @@ for breeding programs.
 
 ## See Also
 
+- [[comparison-seed-balls-vs-transplanting]]
+
 - [[cannabis-clone-rooting-and-transplanting]]
 - [[green-cannabis-grow-bible-seed-germination-methods]]
 - [[cannabis-vegetative-growth-stage]]
-- [[comparison-autoflowering-vs-photoperiod]]

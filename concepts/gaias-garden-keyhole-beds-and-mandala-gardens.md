@@ -98,5 +98,5 @@ Nature never takes the shortest distance between two points — it meanders in l
 - [[permaculture-designers-manual-keyhole-garden]] — alternative keyhole garden approaches
 - [[mandala-garden-design]] — mandala garden patterns
 - [[zone-sector-analysis-guide]] — zone system for garden layout
-- [[herb-spiral-design]] — another spiral pattern for herb gardens
+- [[herb-spiral-design-guide]] — another spiral pattern for herb gardens
 - [[permaculture-edge-effect-design]] — edge effects in design

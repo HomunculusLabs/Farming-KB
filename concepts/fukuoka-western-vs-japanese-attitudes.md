@@ -47,7 +47,7 @@ The Japanese resistance reflects deeper cultural patterns:
 
 Fukuoka's dilemma illustrates a classic paradox: how do you teach people to stop seeking knowledge when the very act of teaching transmits knowledge? The Westerner who accepts "abandon knowledge" has still learned something. The Japanese who asks for method has still received an answer.
 
-Fukuoka resolved this paradox pragmatically: he provided [[fukuoka-four-principles-natural-farming-detailed]] and [[fukuoka-seed-ball-methods-advanced]] as provisional tools, hoping practitioners would eventually transcend them. He noted that Westerners were more likely to use the tools and then discard them, while Japanese practitioners tended to become attached to the tools themselves.
+Fukuoka resolved this paradox pragmatically: he provided [[fukuoka-four-principles-natural-farming]] and [[fukuoka-seed-ball-methods-advanced]] as provisional tools, hoping practitioners would eventually transcend them. He noted that Westerners were more likely to use the tools and then discard them, while Japanese practitioners tended to become attached to the tools themselves.
 
 This paradox is not unique to Fukuoka. It appears in Zen Buddhism (teaching non-attachment through practices that require attachment), in Taoism (writing the Tao Te Ching about the unspeakable Tao), and in many other traditions that point toward a reality beyond concepts using conceptual means.
 

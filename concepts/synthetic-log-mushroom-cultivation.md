@@ -72,7 +72,7 @@ With proper technique, synthetic log cultivation of maitake can produce fruiting
 - [[maitake-cultivation-guide]]
 - [[medicinal-mushroom-guide-maitake]]
 - [[psilocybin-mushroom-cultivation-basics]]
-- [[psilocybin-mushroom-cultivation]]
+- [[psilocybin-cultivation]]
 
 
 
@@ -83,4 +83,4 @@ With proper technique, synthetic log cultivation of maitake can produce fruiting
 
 - [[mushroom-substrates]]
 - [[shiitake-cultivation-guide]]
-- [[oyster-mushroom-cultivation]]
+- [[cotter-oyster-mushroom-cultivation]]

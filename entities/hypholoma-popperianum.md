@@ -4,7 +4,7 @@ type: species
 tags: [hypholoma, psilocybin, wood-inhabiting, neotropical-fungi, neurotropic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
+sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroomsneurotropic-fungiartz.md]
 ---
 
 # Hypholoma popperianum
@@ -32,7 +32,7 @@ features that align more closely with Hypholoma than with the core [[psilocybin]
 species of section Psilocybe. The genus Hypholoma has been subject to considerable
 taxonomic reorganization over the decades. Some authorities have placed certain species in
 Stropharia, Psilocybe, or Naematoloma (now largely treated as a synonym of
-Hypholoma or Stropharia). In some literature, the species may still be encountered
+Hypholoma or Stropharia). In some lsporeture, the species may still be encountered
 under its original combination, *Psilocybe popperiana*, or under the alternative spelling
 *popperiana* with a single 'n'.
 

@@ -36,11 +36,9 @@ Psychiatrist and researcher at Harvard Medical School and McLean Hospital's Biol
 
 
 
-
 ## Research Focus
 
 Halpern's 2004 paper "Hallucinogens and Dissociative Agents Naturally Growing in the United States" (Pharmacology & Therapeutics, 102:131-138) is the most comprehensive survey of legally obtainable psychoactive plants in the US. The paper systematically reviews plants containing N,N-dimethyltryptamine (DMT), reversible type A monoamine oxidase inhibitors (MAOI), lysergic acid amide, atropine and scopolamine, and salvinorin-A (Salvia divinorum). It also covers mescaline-containing cacti, psilocybin/psilocin mushrooms, and Amanita muscaria and Amanita pantherina mushrooms containing muscimol and ibotenic acid.
-
 
 
 
@@ -68,11 +66,9 @@ Halpern's 2004 paper "Hallucinogens and Dissociative Agents Naturally Growing in
 
 
 
-
 ## Connection to the Harvard Psychedelic Tradition
 
 Halpern's position at Harvard Medical School and McLean Hospital places him in the institutional lineage of the Harvard Psilocybin Project of the 1960s ([[timothy-leary]], [[ralph-metzner]], Richard Alpert), though his approach is far more conservative and clinically oriented. His research on religious freedom and psychoactive sacraments was cited by [[ralph-metzner]] in discussions of syncretic religious movements using entheogenic plants.
-
 
 
 

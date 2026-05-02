@@ -128,7 +128,6 @@ top-up water. Duckweed and other pond plants can be harvested for
 provides excellent fertilizer for garden beds. The 
 can supply additional nutrient-rich water to support pond productivity.
 
-
 ## See Also
 
 - [[mollison-pond-design-freshwater-aquaculture]]

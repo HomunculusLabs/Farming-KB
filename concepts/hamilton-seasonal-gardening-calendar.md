@@ -136,11 +136,10 @@ The gardening year is divided into four main seasons, each with specific tasks a
 
 - Maintain compost system: top off worm compost in summer, start new bins when full, collect autumn leaves for leaf mold
 - Watch continually for pests and diseases; treat immediately
-
 ## Related
 
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
 

@@ -29,7 +29,7 @@ Also known as: STP.
 > eyes are noticeably dilated. There is an eerie feeling overall.
 >
 > (with 2.3 mg) Mood elevation at 2-3 hrs. After 3 hours, emotional
-> effects become more pronounced, enhancement of color also. Very
+> effects become more pronounced, enhancement of comescaline Very
 > little distortion of perception, no disorientation, no creeping or
 > flowing, but color enhancement considerable. The emotional content
 > and empathy for others was closer to mescaline than to amphetamine, a

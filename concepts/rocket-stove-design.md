@@ -1,5 +1,5 @@
 ---
-title: Rocket Stove Design
+[[rocket-stove]]t Stove Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

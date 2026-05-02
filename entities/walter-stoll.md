@@ -17,13 +17,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 
 
-
 ## Background and Career
 
 Walter Stoll was born into a family deeply embedded in the Swiss chemical and pharmaceutical industry. His father, Arthur Stoll, was a prominent chemist at Sandoz who worked alongside Albert Hofmann on ergot alkaloid research. Walter trained in medicine and psychiatry in Switzerland, establishing himself as a practicing psychiatrist with an interest in the biological basis of mental illness.
 
 His position at the intersection of academic psychiatry and the Sandoz research network gave him unique access to newly synthesized compounds, including LSD, for clinical investigation.
-
 
 
 
@@ -50,7 +48,6 @@ Stoll's findings were cautiously optimistic. He recognized both the therapeutic 
 
 
 
-
 ## Contributions to Psycholytic Therapy
 
 Stoll's work laid the foundation for what would become known as **psycholytic therapy** (literally "mind-dissolving therapy") — a therapeutic approach developed primarily in Europe during the 1950s and 1960s. In psycholytic therapy, LSD was administered in low to moderate doses over a series of sessions, typically weekly, with the goal of facilitating access to unconscious material and enhancing the psychotherapeutic process.
@@ -58,7 +55,6 @@ Stoll's work laid the foundation for what would become known as **psycholytic th
 The psycholytic approach contrasted with the **psychedelic therapy** model developed in North America, which used single high-dose sessions aimed at producing a transformative mystical experience.
 
 Stoll's careful documentation of dose-response relationships, set and setting factors, and the importance of therapeutic preparation became foundational principles for the entire field of psychedelic therapy.
-
 
 
 
@@ -76,13 +72,11 @@ Stoll continued his psychiatric practice and research throughout his career, tho
 
 
 
-
 ## Historical Significance
 
 Walter Stoll occupies a unique position in the history of psychedelic medicine as the bridge between the chemical discovery of LSD in the laboratory and its application as a therapeutic tool in the clinic. His 1947 paper demonstrated for the first time that a psychedelic compound could be systematically studied in psychiatric patients with meaningful clinical observations.
 
 His work directly influenced the subsequent generation of psychedelic researchers including Humphry Osmond, Abram Hoffer, Ronald Sandison, and Hanscarl Leuner, who expanded and refined the therapeutic approaches he pioneered.
-
 
 
 

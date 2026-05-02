@@ -119,5 +119,5 @@ See [[mushroom-harvesting-potency]] for strategies to maximize each flush.
 
 - [[bulk-substrate-preparation]] — CVG substrate recipe and preparation
 - [[mushroom-grow-room-design]] — environmental control for monotub setups
-- [[psilocybin-mushroom-cultivation]] — broader cultivation overview
+- [[psilocybin-cultivation]] — broader cultivation overview
 - [[mushroom-harvesting-potency]] — when and how to harvest

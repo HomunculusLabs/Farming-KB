@@ -3,7 +3,7 @@ title: Indoor Growing Environment (Growing Gourmet & Medicinal Mushrooms)
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
-tags: [mushrooms, cultivation, growing-room, environment, HVAC, humidity, air-exchange, pasteurization]
+tags: [mushroomsmushroom-cultivationng-room, environment, HVAC, humidity, air-exchange, pasteurization]
 sources:
   - label: "Growing Gourmet and Medicinal Mushrooms"
     author: Paul Stamets

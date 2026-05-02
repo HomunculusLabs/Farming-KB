@@ -131,3 +131,7 @@ approaches.
 - [[chorismate-metabolism-and-branch-pathways]]
 - [[tryptophan-biosynthesis-from-chorismate]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
+
+## See Also
+
+- [[gluconeogenesis-biochemistry-metabolic-pathway]]

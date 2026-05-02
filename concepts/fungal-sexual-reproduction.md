@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushroom
 
 # Fungal Sexual Reproduction and Mating
 
-How fungi find partners, fuse, exchange genetic material, and produce sexual spores — from Money's "Mr. Bloomfield's Orchard."
+How fungi find partners, fuse, exchange genetic material, and produce sexual [[spore]]s — from Money's "Mr. Bloomfield's Orchard."
 
 
 

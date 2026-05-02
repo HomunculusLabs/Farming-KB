@@ -11,7 +11,7 @@ sources:
 Psilocybe aztecorum Heim emend. Guzman is a moderately to highly potent
 psilocybin mushroom known as "ninos" or "apipitzin" (little children in
 Nahuatl). It is one of two probable candidates for the teonanacatl
-reported by Sahagun in the sixteenth century, alongside [[psilocybe-caerulescens]]. This woodland species is
+reported by Sahagun in the sixteenth century, alongside [[psilocybe-caerulescens-entity]]. This woodland species is
 endemic to the high mountains of central Mexico. The species was
 described by Roger Heim and is one of the iconic Mexican Psilocybes
 that helped launch modern psychedelic research following the Wasson

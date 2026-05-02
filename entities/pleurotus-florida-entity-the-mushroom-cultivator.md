@@ -21,7 +21,7 @@ collected.
 Dr. Rolf Singer places P. floridanus in Section Lentodiellum, characterized by
 metuloid pleurocystidia and mycelia that do not sclerotize. He assigns P.
 ostreatus to section Pleurotus, which lacks these features. Despite these
-differences, monokaryons from single spores are completely cross fertile
+differences, monokaryons from single [[spore]]s are completely cross fertile
 between the two, suggesting they are different strains of the same species.
 Genetic characteristics include tetrapolar basidia producing four haploid
 spores. The species is heterothallic with clamp connections present.
@@ -33,7 +33,7 @@ flesh is thin and white. The cap margin is even and occasionally wavy.
 The gills are white, decurrent, and broadly spaced. The stem is attached in an
 off centered fashion and is short at first, becoming absent in age. Spores are
 whitish to lilac gray in mass deposit.
-The mycelium is fast growing, ranging from rhizomorphic to linear. Its color
+The [[mycelium]] is fast growing, ranging from rhizomorphic to linear. Its color
 is typically whitish. The mycelial network readily permeates straw substrates,
 making this species efficient at colonization.
 ## Habitat and Ecology

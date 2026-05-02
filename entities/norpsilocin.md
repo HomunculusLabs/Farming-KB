@@ -15,15 +15,11 @@ Norpsilocin is a naturally occurring **tryptamine alkaloid** found in psilocybin
 
 
 
-
-
 ## Chemical Structure
 
 Norpsilocin differs from psilocin by a single methyl group. Where psilocin has a dimethylamine side chain (–CH₂–CH₂–N(CH₃)₂), norpsilocin has a monomethylamine (–CH₂–CH₂–NH–CH₃). This structural similarity places it as an intermediate in the proposed **biosynthetic pathway** between L-tryptophan and the final products psilocybin/psilocin.
 
 The molecular formula is C₁₁H₁₄N₂O, with a molecular weight of 190.24 g/mol. Like psilocin, it contains the critical **4-hydroxy** substitution on the indole ring that enables interaction with serotonin 5-HT₂A receptors.
-
-
 
 
 
@@ -45,8 +41,6 @@ This pathway was elucidated through genomic and biochemical studies of *Psilocyb
 
 
 
-
-
 ## Pharmacology
 
 As a 4-hydroxytryptamine with a single methyl group, norpsilocin retains the ability to activate **serotonin 5-HT₂A receptors**, the primary target responsible for psychedelic effects. The monomethylated side chain may confer different binding affinity and selectivity compared to psilocin:
@@ -56,8 +50,6 @@ As a 4-hydroxytryptamine with a single methyl group, norpsilocin retains the abi
 - Could contribute to the **entourage effect** in whole mushroom preparations
 
 Pharmacological data on isolated norpsilocin is extremely limited, as it is typically present in mushrooms only as a **trace constituent** alongside the more abundant psilocybin and psilocin.
-
-
 
 
 
@@ -78,14 +70,16 @@ Its consistent presence across species supports its role as a **biosynthetic int
 
 
 
-
-
 ## Significance
 
 Norpsilocin is primarily significant as a **biosynthetic marker** that helped researchers reconstruct the psilocybin production pathway. Its identification in mushroom extracts provided evidence for the stepwise methylation model rather than alternative proposed pathways. Understanding its role has implications for:
 - **Synthetic biology** approaches to producing psilocybin in engineered microorganisms
 - **Analytical chemistry** methods for mushroom identification and potency testing
 - **Comparative phytochemistry** across psychoactive fungi genera
+
+
+
+
 
 ## See Also
 

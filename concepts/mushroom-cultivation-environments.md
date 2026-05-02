@@ -1,6 +1,6 @@
 ---
 title: Mushroom Cultivation Environments
-tags: [mycology, environment, climate-control, mushroom-cultivation]
+tags: [mycology, environment, climate-control, [[mushroom-cultivation]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]

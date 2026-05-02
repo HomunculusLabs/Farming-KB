@@ -29,7 +29,7 @@ These mineral and biological amendments provide the raw materials that soil orga
 The initial soil build is the most labor-intensive part of no-till cultivation, but it only needs to be done once, with subsequent cycles requiring only light top-dressing amendments to maintain fertility.
 
 Inoculating the soil with [[indigenous-microorganisms-imo]] or commercially available mycorrhizal products at the time of planting gives the biological community a strong start.
-Compost teas, particularly fungal-dominant brews as described in [[compost-tea-brewing-guide]], can be applied throughout the grow to supplement and diversify the soil biology.
+Compost teas, particularly fungal-dominant brews as described in [[compost-tea-brewing]], can be applied throughout the grow to supplement and diversify the soil biology.
 Some no-till growers also introduce composting worms (Eisenia fetida) directly into their containers, where they process organic matter and produce nutrient-rich castings that feed the soil food web from within.
 This practice, sometimes called vermicomposting in place, creates a continuous cycle of decomposition and nutrient release that mimics natural soil processes and can significantly reduce the need for external amendments over time.
 

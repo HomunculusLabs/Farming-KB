@@ -15,11 +15,10 @@ sources: []
 
 ## Overview
 
-Mycorrhizal inoculants are products containing beneficial fungi that form a symbiotic relationship with cannabis roots. The fungi extend hyphal networks into the soil, dramatically increasing the root system's effective surface area for nutrient and water uptake. In return, the plant feeds the fungus carbohydrates produced through photosynthesis. This mutualism can improve vigor, drought tolerance, and nutrient efficiency — especially phosphorus uptake, which mycorrhizae excel at solubilizing.
+Mycorrhizal inoculants are products containing beneficial fungi that form a symbiotic relationship with cannabis roots. The fungi extend hyphal networks into the soil, dramatically increasing the root system's effective surface area for nutrient and water uptake. In return, the plant feeds the fungus carmycorrhizal-fungied through photosynthesis. This mutualism can improve vigor, drought tolerance, and nutrient efficiency — especially phosphorus uptake, which mycorrhizae excel at solubilizing.
+[[glomus-intraradices]]hizal Fungi Relevant to Cannabis
 
-## Types of Mycorrhizal Fungi Relevant to Cannabis
-
-**[[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *Rhizophagus irregularis* (formerly *Glomus intraradices*), *Funneliformis mosseae*, and *Glomus aggregatum* colonize root cells internally and form arbuscules — tree-like structures inside root cortical cells where nutrient exchange occurs. Cannabis is a broadleaf annual that readily forms associations with AMF under the right conditions.
+**[[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *Rhizophagus irregularis* (formerly *Glomus intraradices*), *Funneliformis mosseae*, and *Glomus aggregatum* colonize root cells internaectomycorrhizal-fungies — tree-like structures inside root cortical cells where nutrient exchange occurs. Cannabis is a broadleaf annual that readily forms associations with AMF under the right conditions.
 
 Ectomycorrhizal fungi are generally not relevant to cannabis. They associate with trees and woody plants. Many commercial inoculant products blend AMF species and may also include ecto species for broader horticultural marketing, but the AMF component is what matters for cannabis.
 
@@ -38,7 +37,7 @@ Several common cannabis cultivation practices will kill or inhibit mycorrhizal f
 - **High phosphorus fertilizers.** AMF evolved to help plants acquire phosphorus. When soluble phosphorus is abundant in the root zone (above roughly 30 ppm), the plant suppresses the symbiosis and the fungi go dormant or die. Use low-P organic amendments like bone meal, rock phosphate, or compost instead of synthetic bloom boosters loaded with available P.
 - **Sterilized or inert media without inoculation.** Coco coir and peat are naturally devoid of mycorrhizal propagules. If you use these media, you must add inoculant. Living soil or amended soil with compost may already contain some AMF, but commercial inoculants can still boost populations.
 - **Fungicides.** Many broad-spectrum fungicides are toxic to mycorrhizal fungi. If you need to treat a pathogen, research whether the product is mycorrhiza-safe. Copper-based fungicides and hydrogen peroxide drenches are particularly damaging.
-- **Excessive tilling or root disturbance.** Hyphal networks are fragile. No-till and minimal disturbance practices preserve the mycelial mat that builds up over time. This is one reason no-till cannabis cultivation pairs so well with mycorrhizal management.
+- **Excessive tilling or root disturbance.** Hyphal networks are fragile. No-till and minimal disturbance practices preserve the mycelial mat that builfungal-hyphaeme. This is one reason no-till cannabis cultivation pairs so well with mycorrhizal management.
 - **High electrical conductivity.** Salt-heavy synthetic nutrient solutions can osmotically stress fungal hyphae. Keep EC moderate if you want robust mycorrhizal colonization.
 
 ## Application Methods
@@ -77,7 +76,7 @@ For definitive confirmation, root samples can be sent to a soil lab for microsco
 
 ## Compatibility with Other Beneficials
 
-Mycorrhizal fungi work well alongside most other soil biology:
+Mycorrhizal fungi work well alongsbacillus-subtilisil biology:
 
 - **Trichoderma** species can coexist and even synergize, as Trichoderma helps suppress pathogens while mycorrhizae handle nutrient acquisition.
 - **Beneficial bacteria** like *Bacillus subtilis* are generally compatible and are often included in broad-spectrum inoculant blends.

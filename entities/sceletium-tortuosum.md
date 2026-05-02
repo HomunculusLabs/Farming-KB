@@ -50,7 +50,7 @@ may be below 200 mm.
 
 ## Phytochemistry
 
-The principal psychoactive constituents of *Sceletium tortuosum* are
+The principal psychoactive constituents of *Sceletium torserotoninre
 mesembrine-type alkaloids, a unique class of compounds largely restricted to
 the Mesembryanthemoideae subfamily within Aizoaceae:
 - **Mesembrine** — the predominant alkaloid, typically comprising 0.1 to 1.3%
@@ -69,7 +69,7 @@ with a characteristic substitution pattern unique to the Aizoaceae.
 Mesembrine acts primarily as a serotonin (5-HT) reuptake inhibitor with
 additional activity at other receptor systems. Mesembrenone has been
 identified as a dual serotonin reuptake inhibitor and phosphodiesterase-4
-(PDE4) inhibitor, contributing both serotonergic and anti-inflammatory
+(PDE4) inhibitor, contributindoleth serotonergic and anti-inflammatory
 effects. PDE4 inhibition is also a mechanism of action of certain
 prescription antidepressants and anti-inflammatory drugs.
 Unlike many traditional psychoactive plants, kanna does not contain tropane,
@@ -144,11 +144,6 @@ have investigated its pharmacology and therapeutic potential:
 - **Serotonin reuptake inhibition** — mesembrine and mesembrenone have
   demonstrated SRI activity in vitro and in animal models, comparable in
   potency to some synthetic antidepressants
-- **PDE4 inhibition** — mesembrenone inhibits PDE4, providing anti-
-  inflammatory and cognitive-enhancing effects; this dual mechanism may
-  offer advantages over single-target antidepressants
-- **Anxiolytic effects** — animal models (elevated plus maze, forced swim
-
 ## See Also
 Related: [[cervantes-terpenoid-pharmacology-therapeutic-effects]], [[hofmann-lsd-pharmacology-and-effects]]
 

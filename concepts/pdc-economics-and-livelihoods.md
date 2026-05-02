@@ -85,7 +85,7 @@ In community design, the "commercial interface" is where community members can d
 
 ## Related
 
-- [[permaculture-designers-manual-keyline-design]]
+- [[keyline-design]]
 - [[pdc-community-design-and-social-structures]]
 
 ## See Also

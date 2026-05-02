@@ -17,13 +17,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 
 
 
-
 ## Habitat and Distribution
 
 *L. brevis* is widely distributed in nature and is particularly associated with plant material and fermented vegetable products. It is commonly found in sauerkraut, pickles, kimchi, sourdough bread, beer, and wine, where it can be either a beneficial contributor to fermentation or a spoilage organism depending on the context. In beer brewing, *L. brevis* is one of the most common beer-spoilage bacteria due to its ability to grow in the presence of hop bittering compounds, a trait conferred by specific multidrug resistance transporters.
 
 The organism is also a normal inhabitant of the human oral cavity and gastrointestinal tract, where it exists as part of the commensal microbiota at population levels of 10⁶–10⁸ CFU per gram of intestinal content. Environmental isolates have been recovered from soil, water, and decaying plant matter, reflecting its ecological adaptability.
-
 
 
 
@@ -43,13 +41,11 @@ In combination with *Lactobacillus plantarum* and other LAB species, *L. brevis*
 
 
 
-
 ## Metabolism and Fermentation Products
 
 *L. brevis* utilizes the hexose monophosphate/pentose phosphate (phosphoketolase) pathway for sugar metabolism. From glucose, it produces approximately equimolar amounts of lactic acid, acetic acid (or ethanol), and carbon dioxide. The ratio of end products varies depending on environmental conditions: under aerobic or partially aerobic conditions, more acetic acid and less ethanol are produced, while under strictly anaerobic conditions, ethanol production predominates.
 
 This heterofermentative metabolism has important implications for food fermentation. The carbon dioxide produced by *L. brevis* creates gas pockets in sourdough bread, contributing to its characteristic open crumb structure. The acetic acid imparts a tangy flavor that complements the sourness of lactic acid. In vegetable fermentations, the mixed acid profile contributes to complex flavor development and enhances preservation by creating a broader antimicrobial spectrum.
-
 
 
 
@@ -69,13 +65,11 @@ Notably, *L. brevis* produces bacteriocins including brevicin, which exhibits an
 
 
 
-
 ## Industrial and Agricultural Applications
 
 Beyond food fermentation and natural farming, *L. brevis* has applications in silage production, where it helps preserve animal feed through rapid acidification. Specific strains are used as inoculants for alfalfa, corn, and grass silages, improving fermentation quality and reducing dry matter losses. In biotechnology, *L. brevis* has been explored for the production of lactic acid, acetic acid, and exopolysaccharides.
 
 In agriculture, *L. brevis* contributes to the suppression of soilborne plant pathogens through competitive exclusion and production of antimicrobial metabolites. Its ability to produce lactic and acetic acids helps lower soil pH in localized zones, creating conditions unfavorable for many pathogenic bacteria and fungi while promoting the solubilization of phosphate and other minerals.
-
 
 
 
@@ -89,4 +83,4 @@ In agriculture, *L. brevis* contributes to the suppression of soilborne plant pa
 - [[lactobacillus-casei]]
 - [[indigenous-microorganisms]]
 - [[saccharomyces-cerevisiae]]
-- [[bacillus-subtilis-entity-the-mushroom-cultivator|Bacillus subtilis]]
+- [[bacillus-subtilis|Bacillus subtilis]]

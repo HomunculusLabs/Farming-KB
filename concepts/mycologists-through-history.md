@@ -83,15 +83,15 @@ anyone to bring mycology to public attention. Stamets's books, including
 *Mycelium Running* and *Growing Gourmet and Medicinal Mushrooms*, have
 inspired a new generation of citizen scientists. He has pioneered research
 into medicinal mushrooms (particularly for immune support and antiviral
-properties), mycoremediation (using fungi to clean polluted environments),
-and the use of mycelium as a sustainable material. His TED talk "6 Ways
+properties), [[mycoremediation]] (using fungi to clean polluted environments),
+and the use of [[mycelium]] as a sustainable material. His TED talk "6 Ways
 Mushrooms Can Save the World" has been viewed millions of times.
 
 ## Suzanne Simard (b. 1960)
 
-A Canadian forest ecologist whose research on mycorrhizal networks
+A Canadian forest ecologist whose research on [[mycorrhizal-networks]]
 revolutionized understanding of forest ecosystems. Simard demonstrated
-that Douglas fir trees share carbon through common mycorrhizal networks,
+that Douglas fir trees share carbon through [[common-mycorrhizal-networks]],
 with older "mother trees" preferentially nourishing their own offspring.
 Her work, published in landmark papers in *Nature* and *Science*, revealed
 that forests function as cooperative systems rather than collections of
@@ -102,7 +102,7 @@ this research to a broad audience.
 
 British biologist and author of *Entangled Life* (2020), a bestselling
 exploration of fungal biology that became a cultural phenomenon. Sheldrake's
-work spans mycorrhizal ecology, fungal intelligence, and the philosophical
+work spans mycorrhizal ecology, [[fungal-intelligence]], and the philosophical
 implications of how fungi challenge human categories of individuality and
 agency. His writing has made mycology accessible and fascinating to millions
 of general readers.

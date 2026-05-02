@@ -76,9 +76,31 @@ The Manual provides a pattern application checklist for designers, covering boun
 ## Related Concepts
 
 - [[permaculture-design]] -- Pattern understanding as input to design process
-- [[permaculture-zone-and-sector-analysis]] -- Pattern of zones and sectors as master layout
+- [[zone-sector-analysis-guide]] -- Pattern of zones and sectors as master layout
 - [[permaculture-introduction-and-ethics]] -- Ethical foundation for design decisions
 
+
+## Branching and Spiral Patterns in Design
+
+Branching patterns appear throughout natural systems and offer design
+lessons for everything from water management to road layout. Tree branching
+follows Leonardo's rule: the total cross-sectional area of branches at each
+branching level remains approximately constant, optimizing sap flow while
+minimizing structural material. River networks, blood vessels, and
+lightning bolts all follow similar branching ratios. In permaculture design,
+branching patterns inform the layout of paths, water channels, and access
+roads — each split should serve smaller areas, with the largest flows in
+the main trunk and progressively smaller flows in the branches.
+
+Wave and spiral patterns manifest in ocean currents, wind patterns, snail
+shells, and plant growth. Spirals are particularly space-efficient
+packing arrangements, which is why sunflower seed heads, pinecones, and
+succulent rosettes all follow Fibonacci spiral patterns. In garden design,
+spiral herb gardens maximize growing area in minimal space while creating
+microclimates from the warm, sunny center to the cool, shaded outer coils.
+Wave patterns in design apply to earthworks, swale spacing, and the
+distribution of elements across a slope to capture and slow the flow of
+water, nutrients, and energy.
 ## Cultivation Applications
 
 This technique has broad applicability across commercial and hobbyist cultivation. Small-scale growers benefit from low startup costs and minimal equipment requirements. Commercial operations scale through standardized protocols and environmental controls. The method integrates well with other techniques and adapts to various species with modifications to substrate, temperature, and humidity parameters.

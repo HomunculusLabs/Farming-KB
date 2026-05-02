@@ -3,7 +3,7 @@ title: Food Drying and Dehydration Methods
 tags: [food-preservation, dehydration, drying, solar-drying, self-sufficiency]
 date: 2026-04-25
 updated: 2026-04-25
-sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
+sources: ["raw/papers/the-ultimate-guide-to-[[natural-farming]]-and-sustainable-living.md"]
 ---
 
 # Food Drying and Dehydration Methods
@@ -119,6 +119,6 @@ design. Any food that cannot be dried or fermented can go to the
 or [[vermicomposting]] system.
 ## See Also
 
-- [[food-drying-and-dehydration-methods]]
+- natfarm food drying dehydration
 - [[solar-and-electric-food-drying-methods]]
 - lacto fermentation preservation for another preservation method

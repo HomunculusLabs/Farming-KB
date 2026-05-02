@@ -72,6 +72,27 @@ Pioneer trees provide quick canopy for shade-loving species, fix nitrogen, and c
 
 Anderson's description of Central Honduran dooryard gardens illustrates the polyculture principle: compact garden-orchards with fruit trees, coffee bushes, tapioca, taro, corn and beans, climbing squashes and chayote over the eaves and along the ridgepole. The house and fence form essential trellis. It is no longer clear where orchards, field, house, and garden have their boundaries.
 
+
+## Climate Considerations and Guild Design
+
+Climate determines the structural template for forest gardens. In tropical
+regions, seven or more vertical layers can be maintained year-round, with
+continuous production across all layers. Temperate forest gardens typically
+achieve 4-5 productive layers, with the canopy layer often limited to
+nut or fruit trees that allow sufficient light penetration for understory
+crops. The challenge in temperate climates is winter dormancy — design
+must account for the seasonal gap by including evergreen species,
+winter-harvestable crops, and storage crops from the summer abundance.
+
+Guild design — the practice of grouping mutually beneficial species — is
+central to forest garden productivity. A classic apple tree guild might
+include comfrey (dynamic accumulator), daffodils (pest deterrent), clover
+(nitrogen fixer), chicory (deep taproot breaker), and alliums (fungicide
+effect). The goal is to fill every ecological niche: nitrogen fixation,
+nutrient accumulation, pest confusion, pollinator attraction, ground cover,
+and mulch production. Well-designed guilds reduce maintenance requirements
+by creating self-regulating plant communities that cycle nutrients internally
+and resist pest pressure through biodiversity.
 ## See Also
 
 - [[permaculture-forest-garden]]

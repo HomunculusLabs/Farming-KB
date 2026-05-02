@@ -72,6 +72,34 @@ The beneficial effects of natural soil management show up in the longer lifetime
 
 Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of Green Philosophy
 
+## Harvesting Without Spraying
+
+Fukuoka's natural orchard produces fruit that may be smaller and less cosmetically perfect than conventionally grown fruit, but he argued it is more flavorful and nutritious. Key harvest observations:
+
+- Fruit from trees in biologically active soil develops thicker skins and natural pest resistance
+- Thinning is not practiced — natural fruit drop regulates the crop
+- Harvest timing follows natural ripening rather than market schedules
+- Mixed orchards (deciduous and evergreen together) spread the harvest across seasons
+
+## Integration with Grain Production
+
+Fukuoka's system does not treat the orchard in isolation. His complete food production cycle links orchard, grain fields, and vegetable garden:
+
+- Straw and hulls from rice and barley paddies are carried up to the orchard as mulch
+- Leguminous ground cover (clover) in the orchard fixes nitrogen for the grain fields through compost and mulch exchange
+- Chickens allowed in the orchard eat fallen fruit (preventing disease carryover), scratch the soil, and deposit manure
+- Duck paddies between rice rows provide additional fertility that connects back to the orchard system
+
+## Common Mistakes in Natural Orchard Establishment
+
+Fukuoka emphasized several pitfalls for those attempting to replicate his methods:
+
+- **Abandoning trees too early:** The first 5-7 years require regular weeding and attention. Natural farming is not the same as neglect — it requires careful observation and timely intervention
+- **Removing all weeds:** Many "weeds" are actually beneficial ground cover that protects soil, retains moisture, and supports beneficial insects
+- **Expecting quick results:** Building soil fertility through natural means takes 5-10 years. The transition period often produces disappointing harvests
+- **Using dwarf rootstock:** Fukuoka preferred standard-sized trees with deep root systems. Dwarf trees depend on careful management and are less resilient without it
+
+
 ## See Also
 
 - [[fukuoka-natural-orchard-management]]

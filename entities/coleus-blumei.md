@@ -86,6 +86,9 @@ The Lamiaceae family contains several species of ethnobotanical interest:
 
 The psychoactive properties of *Coleus blumei* remain a subject of speculation rather than scientific certainty. Rigorous phytochemical screening, receptor binding assays, and controlled human studies would be needed to determine whether the plant possesses genuine psychoactive constituents and, if so, to identify and characterize them.
 
+
+
+
 ## See Also
 
 - [[golden-guide-coleus-and-other-mild-psychoactives]]

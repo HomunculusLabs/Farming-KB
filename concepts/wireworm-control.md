@@ -14,19 +14,9 @@ Wireworms are the soil-dwelling larvae of click beetles (Elateridae family). The
 
 
 
-
-
-
-
-
 ## Damage
 
 Wireworms bore into seeds before germination, tunnel into potato tubers and carrot roots, and sever small roots of seedlings. Infested potatoes show characteristic narrow tunnels filled with frass. Severe infestations can cause significant stand loss in direct-seeded crops.
-
-
-
-
-
 
 
 
@@ -52,11 +42,6 @@ Parasitic nematodes will also control:
 
 
 
-
-
-
-
-
 ## Cultural Controls
 
 - **Crop rotation**: Avoid planting susceptible crops (potatoes, carrots, onions) in the same ground year after year. Follow susceptible crops with non-host crops like legumes or brassicas.
@@ -67,7 +52,23 @@ Parasitic nematodes will also control:
 
 
 
+## Wireworm Lifecycle
 
+Understanding the wireworm lifecycle is essential for effective control. Adult click beetles lay eggs in grassy or weedy areas during spring and early summer. Eggs hatch in 2-4 weeks, and the larvae (wireworms) feed in the soil for 2-6 years depending on species and soil temperature. Cooler soils extend the larval stage. Pupation occurs in late summer, with adults emerging in autumn but often remaining underground until spring. This extended larval period is what makes wireworms so difficult to manage — a single egg-laying event can produce years of crop damage.
+
+
+
+
+## Monitoring and Thresholds
+
+Before investing in control measures, assess wireworm pressure. The most reliable method is bait trapping: bury bait stations (carrot or potato pieces) 5-10 cm deep at 1-3 meter intervals across the field, mark locations, and dig them up after 3-7 days. More than one wireworm per bait station indicates a significant problem requiring intervention. Soil sampling with a spade can also reveal wireworm presence — sift through soil from multiple locations and count larvae. Sticky traps placed at ground level can monitor adult click beetle activity, helping predict future larval pressure.
+
+
+
+
+## Companion Planting
+
+Certain plants may help deter wireworms or mask susceptible crops. Mustard green manures have been investigated for their biofumigant properties — when chopped and incorporated into soil, glucosinolates in mustard tissues release compounds toxic to various soil pests. Tagetes (marigolds) are sometimes interplanted with susceptible crops, though scientific evidence for their effectiveness against wireworms specifically is limited. Mixed plantings that increase overall soil biodiversity tend to support higher populations of generalist predators that may suppress wireworm numbers.
 
 
 
@@ -77,11 +78,6 @@ Parasitic nematodes will also control:
 - Wireworms are most problematic in newly broken sod or in areas recently converted from grassland. Avoid planting susceptible crops in the first year after breaking sod.
 - Avoid excessive organic matter that has not fully decomposed — wireworms are attracted to decomposing plant material.
 - Good drainage helps reduce wireworm populations.
-
-
-
-
-
 
 
 

@@ -12,10 +12,6 @@ sources:
 
 From [[solomon-gardening-when-it-counts-index]] by Steve Solomon.
 
-
-
-
-
 ## Mulching in the Low-Input Garden
 
 Solomon takes a pragmatic approach to mulching that differs from many organic gardening authorities. He distinguishes between mulching practices appropriate for irrigated gardens (where mulch conserves moisture and suppresses weeds) versus unirrigated gardens (where mulch can cause problems).
@@ -60,10 +56,6 @@ Solomon's core argument is about efficiency of human labor and land use. A garde
 
 Solomon emphasizes that the living soil ecosystem (bacteria, fungi, earthworms) is essential for making nutrients available to plants. Organic matter feeds these soil organisms. However, he notes that in most garden situations, the organic matter added through COF components (seed meal, kelp meal) plus root residues and crop debris is sufficient to maintain soil biology. Additional compost or mulch is beneficial but not always necessary when mineral fertility is properly provided.
 
-
-
-
-
 ## Compost Tea for Disease Prevention
 
 Solomon endorses compost tea spraying as a disease prevention strategy, citing Dr. Elaine Ingham's work. Key points:
@@ -72,10 +64,6 @@ Solomon endorses compost tea spraying as a disease prevention strategy, citing D
 - Quality of the starting compost matters enormously (ratio of manure to vegetation, woody matter content, etc.)
 - This is not simply a matter of dumping compost into a barrel -- the compost must be quality material, brewed properly
 - Combine compost tea with liquid kelp and fish emulsion for foliar feeding
-
-
-
-
 
 ## Related
 - [[solomon-transplanting-and-hardening-off]]

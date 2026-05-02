@@ -129,7 +129,7 @@ allows the substrate to recover before the second flush is triggered.
 
 ## See Also
 
-- [[substrate-preparation-mushroom-cultivation]]
+- [[cotter-substrate-preparation]]
 - [[mushroom-growing-environments]]
 - [[gartz-mushroom-cultivation-classic-and-new-techniques]]
 - [[accessible-mushroom-cultivation-for-disabilities]]

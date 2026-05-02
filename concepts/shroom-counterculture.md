@@ -82,7 +82,7 @@ disseminating practical information about magic mushrooms to the
 underground. A second conference in Port Townsend, Washington, brought
 together Schultes, Hofmann and Wasson, along with up-and-coming writers
 and researchers of the psychedelic movement: [[andrew-weil]], Scott Chilton,
-[[jeremy-bigwood]] and Carl Ruck. The proceedings were published in 1978 as
+[[bigwood]] and Carl Ruck. The proceedings were published in 1978 as
 Teonanacatl: Hallucinogenic Mushrooms of North America, including
 detailed descriptions of known psychoactive species, accounts of
 Wasson's rediscovery, and a chapter by Bigwood explaining home

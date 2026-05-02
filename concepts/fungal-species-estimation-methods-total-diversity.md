@@ -145,5 +145,5 @@ Used to determine if sampling is sufficient to detect differences between sites:
 - [[dna-barcoding-fungal-identification]]
 - [[macrofungal-sampling-design-plots-transects]]
 - [[fungal-species-richness-and-diversity-indices]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
+- [[tropical-vs-temperate-fungal-diversity]]
 - [[soil-fungal-diversity-wisconsin-survey-global-patterns]]

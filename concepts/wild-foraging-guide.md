@@ -38,7 +38,7 @@ The forager's ethic: leave enough for the plant to thrive, for wildlife to eat, 
 ## Spring (March-May)
 
 ### Dandelion (Taraxacum officinale)
-Every part is edible. Young leaves (before flowering) are best for salads -- bitter but nutritious (vitamin A, C, K, iron, calcium). Flowers make wine and fritters. Roots can be dried and roasted as a coffee substitute. Common everywhere -- easy first plant for beginners.
+Every part is edible. Young leaves (before flowering) are best for salads -- bitter but nutritiourtica-dioica, C, K, iron, calcium). Flowers make wine and fritters. Roots can be dried and roasted as a coffee substitute. Common everywhere -- easy first plant for beginners.
 
 ### Stinging Nettle (Urtica dioica)
 Young shoots (under 6 inches) are edible when cooked or blanched (cooking destroys the stinging hairs). One of the most nutritious wild greens available -- high in iron, calcium, protein, and vitamins. Dry for tea or make pesto. Wear gloves when harvesting. Also excellent for making nitrogen-rich fertilizer tea.
@@ -70,12 +70,12 @@ Nutritional powerhouse rivaling spinach. Young leaves and tips are excellent raw
 Succulent ground cover with a mild, slightly tangy flavor. Highest plant source of omega-3 fatty acids. Excellent raw in salads. Thrives in garden beds and disturbed soil. Red stems differentiate it from toxic look-alike spurge (which has milky sap).
 
 ### Mullein (Verbascum thapsus)
-Large fuzzy leaves used for respiratory tea. Flowers infused in oil make earache remedy. Biennial -- tall flower spike in second year. Easy to identify by the woolly leaves and tall yellow flower spike.
+Large fuzzy leaves used for respiratorypawpawFlowers infused in oil make earache remedy. Biennial -- tall flower spike in second year. Easy to identify by the woolly leaves and tall yellow flower spike.
 
 ## Fall (September-November)
 
 ### Pawpaw (Asimina triloba)
-North America's largest native fruit. Tropical mango-banana flavor. Found in bottomlands and rich woods east of the Mississippi. Short season -- gather quickly when ripe. Related to the custard apple family.
+North America'[[persimmon]] native fruit. Tropical mango-banana flavor. Found in bottomlands and rich woods east of the Mississippi. Short season -- gather quickly when ripe. Related to the custard apple family.
 
 ### Persimmon (Diospyros virginiana)
 Fruits are astringent until fully ripe (soft, wrinkled). Pudding-like texture when ripe. High in vitamin C. Only eat when completely ripe. Female trees produce fruit; male trees are pollinators.
@@ -107,10 +107,9 @@ Emergency food from pine, birch, slippery elm, and willow. Harvest only strips f
 
 - Paper bags (never plastic -- causes rot): for collecting mushrooms and delicate plants
 - Pruning shears or sharp knife
-- Hand trowel for roots
+- Hand [[spore-dispersal]]s
 - Field guide specific to your region
-- Smartphone with offline plant ID app (as backup only)
-- Gloves for nettles, thorny plants, and unknown species
+- Smartphone with offline plant ID[[mushroom-identification]] Gloves for nettles, thorny plants, and unknown species
 - Basket for mushrooms (allows spore dispersal)
 
 ## Related Concepts

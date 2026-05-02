@@ -17,7 +17,7 @@ Ghouled's field guide was published at a time when interest in psychoactive mush
 
 - [[psilocybe-cubensis]]: The most widely known and distributed psilocybin mushroom in North America
 - [[panaeolus-subbalteatus]]: A dung-inhabiting species found in similar habitats
-- [[psilocybe-caerulescens]]: A species more commonly associated with Mexico but found in the southern U.S.
+- [[psilocybe-caerulescens-entity]]: A species more commonly associated with Mexico but found in the southern U.S.
 
 The guide emphasized practical identification criteria, particularly the combination of habitat (manure), bluing reaction when damaged, and hollow stem as reliable diagnostic features for distinguishing psychoactive species from potentially dangerous lookalikes. Ghouled stressed that these three characteristics together left "no chance for error" when identifying *Psilocybe cubensis* in the field.
 
@@ -62,7 +62,7 @@ The guide devoted the most attention to [[psilocybe-cubensis]], reflecting its s
 
 For [[panaeolus-subbalteatus]] (now generally treated as [[panaeolus-cinctulus]]), Ghouled noted the distinctive mottled or spotted gill pattern caused by asynchronous spore maturation — a hallmark of the Panaeolus genus. The species was described as less common than *P. cubensis* but potentially found in the same pasture habitats, fruiting from late spring through autumn.
 
-The treatment of [[psilocybe-caerulescens]] was briefer, reflecting its relative rarity in the southern United States compared to its abundance in Mexico. Ghouled noted its preference for disturbed soils, particularly in grassy areas along riverbanks and roadsides, and its generally more robust stature compared to *P. cubensis*.
+The treatment of [[psilocybe-caerulescens-entity]] was briefer, reflecting its relative rarity in the southern United States compared to its abundance in Mexico. Ghouled noted its preference for disturbed soils, particularly in grassy areas along riverbanks and roadsides, and its generally more robust stature compared to *P. cubensis*.
 ## Safety Warnings and Lookalikes
 
 Ghouled's guide included specific warnings about potentially dangerous lookalike species, reflecting a genuine concern for reader safety. The most significant warning concerned species in the genus Galerina, several of which contain lethal amatoxins — the same toxins found in [[amanita-phalloides]] (the death cap). Small Galerina species can be found fruiting in similar wood-debris habitats as some Psilocybe species, and their brown caps and general stature could lead to confusion by inexperienced foragers. Ghouled also cautioned against consuming any mushroom unless identification was absolutely certain, recommending that beginners always verify their identifications with experienced mycologists before consuming any wild mushroom.

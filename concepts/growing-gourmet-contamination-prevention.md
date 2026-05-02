@@ -1,7 +1,6 @@
 ---
 title: Contamination Prevention (Growing Gourmet & Medicinal Mushrooms)
-created: 2026-04-25
-updated: 2026-04-25
+[[mushroom-cultivation]]updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, contamination, sterile-technique, HEPA, laboratory, hygiene]
 sources:
@@ -55,7 +54,7 @@ By positive-pressurizing the laboratory with an influx of air through micron fil
 For those not installing micron filters, the "still-air" method uses aerosol sprays of commercial disinfectants like Pinesol or a dilute solution of isopropanol or bleach. The cultivator enters the work area and sprays a mist high up in the laboratory, walking backwards as he retreats. As the disinfecting mist descends, airborne particulates are trapped, carrying contaminants to the floor. After a minute or two, the cultivator re-enters and begins work.
 
 **Important warnings:**
-- Do not mix disinfectants, especially bleach and ammonia
+- Do not mix dimyceliumnts, especially bleach and ammonia
 - This method can potentially damage lungs or exposed mucous membranes
 - UV lamps are effective only when contaminants are directly exposed; shadowed areas remain unaffected
 - Lab doors should be electrically switched to UV lights so they turn off at entry

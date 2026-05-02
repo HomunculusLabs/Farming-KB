@@ -98,7 +98,7 @@ High CO2 during fruiting causes characteristic deformities:
 
 ## Light
 
-Light serves two functions in [[oyster-mushroom-cultivation]]: triggering
+Light serves two functions in [[cotter-oyster-mushroom-cultivation]]: triggering
 fruiting and guiding fruit body orientation (phototropism).
 
 - **Intensity**: 500-1000 lux is sufficient; direct sunlight is harmful
@@ -137,7 +137,6 @@ The fruiting parameters are interdependent:
 Successful growers learn to balance these trade-offs, often using
 automated controllers that integrate temperature, humidity, CO2, and light
 management into a single system.
-
 
 ## See Also
 

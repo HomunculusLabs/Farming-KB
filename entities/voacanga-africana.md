@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+  - /Users/t3rpz/wiki/raw/papers/plants-of-indoleds-schultes-hofmann.md
 ---
 
 # Voacanga africana
@@ -78,9 +78,7 @@ The bark and seeds of Voacanga africana contain up to 10% indole alkaloids of th
 - **Tabersonine** — a precursor alkaloid in the iboga biosynthetic pathway
 - **Vobasine** — a related indole alkaloid
 
-The presence of ibogaine and related alkaloids connects V. africana chemically to [[tabernanthe-iboga]], the West African shrub from which ibogaine was first isolated. Both plants belong to the Apocynaceae family and share a similar indole alkaloid profile. However, the total alkaloid content and the specific ratios of individual alkaloids differ between the two species.
-
-## Pharmacology
+The presence of ibogaine and related alkaloids connects V. africana chemically to [[tabernanthe-iboga]], the West African shrub from which ibogaine was first isolated. Both plants belong to the Apocynaceae family and share a similar indole alkaloid profile. However, the total alkaloid content and the specific ratios of individual alkaloids differ between the two specieserotoninarmacology
 
 The primary psychoactive alkaloids in V. africana are ibogaine and voacangine, both of which act on multiple receptor systems:
 
@@ -104,7 +102,7 @@ The therapeutic window between effective and dangerous doses of ibogaine is narr
 
 ## Cultural Significance
 
-Voacanga africana represents an important but poorly documented element of African ethnopharmacology. Its use by traditional magicians and healers in West Africa places it within a rich tradition of psychoactive plant knowledge that has received far less scientific attention than its New World and Asian counterparts. The secrecy surrounding Voacanga use highlights the challenges faced by ethnobotanists working in African contexts, where traditional spiritual knowledge is often closely guarded.
+Voacanga africana represents an important but poorly documented element of African ethnopharmacology. Its use by traditional magicians and healers in West Africa places it within a rich tradition of psychoactive plant knowledge that has received far less scientific attention than its New World and Asian counterparts. The secrecy surrounding Voacanga use highlights the challenges faced by etrichard-evans-schultesn African contexts, where traditional spiritual knowledge is often closely guarded.
 
 ## Historical Documentation
 

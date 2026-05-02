@@ -80,7 +80,7 @@ Several fungicolous fungi are important in biological control of plant diseases:
 - [[saprobic-soil-fungi-ecology-survey]]
 - [[soil-fungal-isolation-techniques]]
 - [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]]
-- [[endophytic-fungi-biology-ecology-diversity]]
+- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[fungi-cultivated-mushrooms-pathogens-competitors]]
 - [[microfungal-species-diversity-large-areas]]

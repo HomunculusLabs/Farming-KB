@@ -26,7 +26,7 @@ sources:
 - **Genus:** Psilocybe
 - **Authority:** Peck
 
-*P. silvatica* has at times been conflated with or considered closely allied to [[psilocybe-pelliculosa]], another Pacific Northwest wood-inhabiting species. The two share overlapping habitat preferences and morphological similarities, though they can be distinguished by careful microscopic examination. Some authorities have suggested they may represent a species complex rather than two fully distinct taxa.
+*P. silvatica* has at times been conflated with or considered closely allied to [[psilocybe-pelliculosa-entity]], another Pacific Northwest wood-inhabiting species. The two share overlapping habitat preferences and morphological similarities, though they can be distinguished by careful microscopic examination. Some authorities have suggested they may represent a species complex rather than two fully distinct taxa.
 
 ## Morphology
 
@@ -60,7 +60,7 @@ While technically psychoactive, *P. silvatica* would require relatively large qu
 
 ## Similar Species
 
-- **[[psilocybe-pelliculosa]]** — Very similar habitat and appearance; distinguished by microscopic features and slightly different spore morphology
+- **[[psilocybe-pelliculosa-entity]]** — Very similar habitat and appearance; distinguished by microscopic features and slightly different spore morphology
 - **[[psilocybe-cyanescens]]** — Much more potent; develops strong blue bruising; larger and more robust
 - **[[psilocybe-phyllogena]]** — Closely related, generally less active
 - **[[psilocybe-subaeruginosa]]** — Distantly related but visually similar wood-inhabiting species from the Southern Hemisphere

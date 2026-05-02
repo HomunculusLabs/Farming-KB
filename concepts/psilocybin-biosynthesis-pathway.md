@@ -80,6 +80,9 @@ The pathway from tryptamine to psilocybin is still not fully elucidated, but key
 
 ### Related
 
+- [[nucleophilic-substitution-sn1-sn2-reactions]]
+- [[pericyclic-reactions-organic-chemistry]]
+
 - [[norpsilocin]]
 
 - [[psik-enzyme]]

@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Brewing for Cannabis
+title: [[compost-tea-brewing]] for Cannabis
 created: 2026-04-26
 tags:
   - cannabis
@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Compost Tea Brewing for Cannabis
+# [[compost-tea-brewing]] for Cannabis
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
 -- Jorge Cervantes

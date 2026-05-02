@@ -14,7 +14,6 @@ Environmental stress disrupts cannabis growth and can cause lasting damage if no
 
 
 
-
 ## Heat Stress
 
 Heat stress makes calyxes stretch up and grow beyond a compact bud, reducing overall bud density. The temperature within leaves can climb to an excess of 110°F (43°C) because leaves store heat radiated by lamps. At 110°F, the internal chemistry of a marijuana leaf is disrupted -- manufactured proteins are broken down and become unavailable to the plant. About 70 percent of the plant's energy is used to evaporate water under heat stress.
@@ -23,7 +22,6 @@ Leaf fringes that point upward mean the leaf is trying to dissipate moisture but
 
 ### Recovery from Heat Stress
 Increase ventilation and air circulation immediately. Raise lights higher above the canopy. If using air-cooled reflectors, ensure they are functioning properly. Heat-stressed plants will recover once temperatures return to the 70-85°F (21-29°C) range, but damaged foliage will not repair itself. New growth will be healthy once conditions improve.
-
 
 
 
@@ -38,7 +36,6 @@ Stop watering immediately and let the soil dry out. Improve drainage by adding p
 
 
 
-
 ## Nutrient Burn (Toxicity)
 
 Nutrient toxicity occurs when salt levels in the growing medium become too high, damaging roots and causing leaf tip burn that progresses inward. Leaf edges turn brown and crispy. Toxic salt buildup can be mistaken for overfertilization or fungus. The dead foliage creates a perfect place for bud mold to start.
@@ -48,14 +45,12 @@ Leach (flush) the growing medium with copious amounts of pH-corrected water to d
 
 
 
-
 ## Light Burn
 
 Light burn damages foliage directly under the lamp. Leaves appear bleached, yellowed, or scorched. Light-stressed plants may also exhibit heat stress symptoms since lamps generate significant radiant heat. Burned foliage is susceptible to pest and disease attack.
 
 ### Recovery from Light Burn
 Raise the lamp higher above the canopy. Provide adequate air circulation between the lamp and plants. Damaged foliage should be removed if severely affected, as it will not recover and may attract pests.
-
 
 
 
@@ -75,11 +70,9 @@ Remove male flowers immediately with tweezers if only a few appear. If widesprea
 
 
 
-
 ## General Recovery Principles
 
 Once a plant shows symptoms, it has already undergone severe stress. It will take time to resume vigorous growth. Indoor crops are harvested fast enough that plants may not have time to recover from nutrient imbalances -- one small imbalance could cost a week of growth, more than 10 percent of the plant's life. Always check basic environmental factors (air, light, temperature, humidity, pH) before assuming nutrient deficiency.
-
 
 
 

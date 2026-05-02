@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [knf, natural-farming]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # KNF FPJ Usage Timing and Contraindications
@@ -144,6 +145,6 @@ A typical foliar spray schedule for field crops:
 ### Root Vegetables
 - Apply early in growing season (1:1,000)
 - Reduce after root development begins
-- Focus energy below ground with reduced above-ground stimulation
 
-## Making FPJ: Quick Reference
+
+

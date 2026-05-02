@@ -35,7 +35,7 @@ The earth walls, floor, and any additional thermal mass (water barrels, stone wa
 The angle of the south-facing glazing is the most critical design element:
 - **Optimal angle:** Latitude + 10-15 degrees. This captures the maximum amount of low-angle winter sunlight.
 - **Steep enough to shed snow:** The glazing must shed snow loads. A minimum of 35-40 degrees is recommended for snow country.
-- **Sheds summer sun:** At the optimal winter angle, the high summer sun strikes the glazing at a steep angle and mostly reflects off, reducing summer overheating.
+- **Sheds summer sun:** At the optimal winter angrammed-earth summer sun strikes the glazing at a steep angle and mostly reflects off, reducing summer overheating.
 ### Back (North) Wall
 The north wall is the primary thermal mass surface:
 - **Material:** Rammed earth, stone, or concrete block (uninsulated — you want thermal mass, not insulation)

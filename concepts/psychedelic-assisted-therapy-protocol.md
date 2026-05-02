@@ -1,17 +1,11 @@
 ---
-title: Psychedelic Assisted Therapy Protocol
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [mycology, therapy, psychology, psychiatry, psychedelics, psychopharmacology, health, methods, safety]
-sources: []
----
+ti
 # Psychedelic Assisted Therapy Protocol
 ## Overview
-Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, psilocybin) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself as a therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of clinical research and draw on earlier models from the mid-20th century.
+Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, [[psilocybin]]) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself as a therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of clinical research and draw on earlier models from the mid-20th century.
 ## Theoretical Foundation
 ### Non-Specific Factors
-PAT relies heavily on non-specific therapeutic factors that are common across psychotherapy modalities:
+PAT relies on non-specific therapeutic factors that are common across psychotherapy modalities:
 - **Therapeutic alliance**: The trust and rapport between patient and therapist is the single strongest predictor of outcomes
 - **Set and setting**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
 - **Expectancy**: Patient beliefs and expectations about the treatment influence both the experience and outcomes
@@ -131,7 +125,7 @@ There is no universally standardized training for psychedelic therapists, but em
 - Supervised clinical hours conducting psychedelic-assisted therapy
 - Knowledge of psychedelic pharmacology, safety, and ethics
 - Cultural competency and awareness of indigenous traditions
-Major training programs include those at CIIS (California Institute of Integral Studies), MAPS (Multidisciplinary Association for Psychedelic Studies), Synthesis Institute, and several university-affiliated programs.
+Major training programs include those at CIIS (California Institute of Integral Studies), [[maps]] (Multidisciplinary Association for Psychedelic Studies), Synthesis Institute, and several university-affiliated programs.
 ## Ethical Considerations
 - **Informed consent**: Patients must understand the experimental nature, potential risks, and limitations
 - **Power dynamics**: The altered state creates vulnerability; therapists must maintain strict boundaries

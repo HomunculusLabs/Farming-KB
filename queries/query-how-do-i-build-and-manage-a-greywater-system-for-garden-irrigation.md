@@ -115,3 +115,7 @@ patterns.
 - [[query-how-does-keyline-design-work-in-permaculture]]
 - [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-to-start-a-food-forest]]
+
+## See Also
+
+- [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]

@@ -1,13 +1,13 @@
 ---
-title: Bee Product Medicinal Uses
+title: bee product medicinal uses
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, medicine, health, animal-husbandry, nutrition]
+tags: [[homesteading]], medicine, health, animal-husbandry, nutrition]
 sources: []
 ---
 
-# Bee Product Medicinal Uses
+# bee product medicinal uses
 
 Honey bees produce several products with documented medicinal properties.
 Beyond honey's well-known antibacterial effects, propolis, pollen, royal
@@ -78,7 +78,7 @@ source and region.
 ### Medicinal Properties
 - **Antibacterial** — active against Gram-positive bacteria including
   Staphylococcus aureus and Streptococcus species
-- **Antifungal** — effective against Candida albicans and dermatophytes
+- **Antifungal** — effective against [[candida-albicans]] and dermatophytes
 - **Antiviral** — shows activity against influenza and herpes simplex virus
 - **Anti-inflammatory** — inhibits prostaglandin and leukotriene synthesis
 - **Antioxidant** — flavonoids scavenge free radicals
@@ -144,10 +144,6 @@ mandibular glands.
 - **Neuroprotective** — animal studies show improved cognitive function
   and protection against neurodegenerative diseases
 - **Anti-inflammatory** — reduces inflammatory markers in vitro
-- **Antioxidant** — significant free radical scavenging activity
-- **Wound healing** — promotes fibroblast migration and collagen synthesis
-- **Cholesterol** — some evidence for LDL reduction
-
 ## See Also
 Related: [[bee-products-beyond-honey]], [[holzer-beekeeping-and-honey-production]]
 

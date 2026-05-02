@@ -20,7 +20,7 @@ Fukuoka first visited Lundberg Family Farms seven years before his 1986 American
 tour. At that time, the farm was being operated organically, growing rice in
 each field every two or three years, with fields lying fallow for one year and
 planted with summer wheat or barley during the second. When Fukuoka presented
-his [[fukuoka-four-principles-natural-farming-detailed]] to the owner, Mr. Lundberg,
+his [[fukuoka-four-principles-natural-farming]] to the owner, Mr. Lundberg,
 the response was enthusiastic: "This is wonderful! It is a revolution!"
 
 Following this initial meeting, Lundberg took Fukuoka's words to heart in a

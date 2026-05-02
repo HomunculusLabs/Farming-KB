@@ -13,7 +13,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 
 
-
 ## Taxonomy
 
 The genus *Gymnopilus* was established by the Finnish mycologist Petter Adolf Karsten in 1879 and contains approximately 200 described species worldwide. The genus name is derived from the Greek "gymnos" (naked) and "pilus" (cap), referring to the typically smooth, exposed cap surface. Most Gymnopilus species are saprotrophic wood-decomposers, and the genus is characterized by its distinctive rusty-orange to rusty-brown spore prints, which immediately distinguish it from most other psilocybin-containing genera that typically have dark purplish brown spores.
@@ -24,13 +23,11 @@ Modern phylogenetic studies have placed *Gymnopilus* within the Hymenogastraceae
 
 
 
-
 ## Distribution
 
 *Gymnopilus badiceps* is part of the widespread distribution of psychoactive Gymnopilus species, which are found across multiple continents. The genus as a whole has a broad global distribution, with neurotropic species documented in North America, Central America, South America, Europe, Asia, and Oceania. The genus is particularly diverse in temperate and subtropical forest regions where dead wood is abundant.
 
 Guzmán, Allen & Gartz (1998) noted that among the psilocybin-containing genera, Gymnopilus has a notably broad distribution with 14 confirmed neurotropic species. While specific distribution records for *G. badiceps* are more limited compared to better-known congeners like [[gymnopilus-spectabilis]] and [[gymnopilus-junonius]], the species is documented from North American forest environments.
-
 
 
 
@@ -44,13 +41,11 @@ The spore print is distinctly rusty orange to rusty brown, a key diagnostic feat
 
 
 
-
 ## Habitat
 
 *Gymnopilus badiceps* is a wood-inhabiting saprotroph, growing on decaying logs, stumps, fallen branches, and other woody substrates. It shows a preference for hardwood substrates in many cases, though some Gymnopilus species also grow on coniferous wood. The species is typically found in forested environments where dead wood is abundant, including temperate deciduous forests, mixed woodlands, and subtropical forest margins.
 
 This saprotrophic lifestyle on wood distinguishes it from many psilocybin-containing species in the genus Psilocybe, which more commonly grow on soil, dung, or grasses. The wood-inhabiting habit also means that Gymnopilus species can persist on dead wood for extended periods, sometimes fruiting from the same log over multiple years.
-
 
 
 
@@ -62,11 +57,9 @@ The characteristic bluing reaction upon bruising, while sometimes present in psy
 
 
 
-
 ## Identification Notes
 
 The rusty brown spore print of *Gymnopilus* species is a critical diagnostic feature that separates them from other psilocybin-containing genera. While many psilocybin mushrooms have dark purplish brown spore prints (typical of Strophariaceae/Hymenogastraceae), Gymnopilus stands out with its orange-brown spores. However, this same spore color is shared with some Galerina species, several of which contain the deadly amatoxins (alpha-amanitin, beta-amanitin, and others) that cause severe liver and kidney damage. This similarity in spore color makes accurate identification to genus level absolutely critical for anyone attempting to identify psychoactive Gymnopilus species in the field.
-
 
 
 
@@ -78,7 +71,6 @@ The rusty brown spore print of *Gymnopilus* species is a critical diagnostic fea
 - [[gymnopilus-validipes]] — North American psychoactive species
 - [[gymnopilus-junonius]] — large, widely distributed species with a prominent ring
 - [[gymnopilus-aeruginosus]] — green-tinted species with confirmed psilocybin content
-
 
 
 

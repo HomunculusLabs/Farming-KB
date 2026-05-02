@@ -77,7 +77,7 @@ major regional lignicolous psychedelic fungi of North America.
 - [[psilocybe-caerulescens-entity]]
 
 - [[psilocybe-pelliculosa-entity]]
-- [[psilocybe-caerulescens]]
+- [[psilocybe-caerulescens-entity]]
 - [[psilocybe-cyanescens]]
 - [[psilocybe-azurescens]]
 - [[psilocybe-stuntzii]]

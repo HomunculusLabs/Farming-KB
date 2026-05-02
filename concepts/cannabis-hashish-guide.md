@@ -1,14 +1,8 @@
 ---
-title: Cannabis Hashish Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [cannabis, processing, preparation, ethnobotany, history, chemistry, psychopharmacology]
-sources: []
----
+ti
 # Cannabis Hashish Guide
 ## Overview
-Hashish (hash) is a concentrated cannabis product made by separating and collecting the resinous trichomes from the cannabis plant. With a history spanning thousands of years, hashish represents one of the oldest forms of cannabis consumption. The resin glands (trichomes) contain the highest concentrations of cannabinoids and terpenes, making hash a potent and flavorful concentrate. This guide covers traditional and modern hashish production methods.
+Hashish (hash) is a concentrated cannabis product made by separating and collecting the resinous trichomes from the cannabis plant. With a history spanning thousands of years, hashish represents one of the oldest forms of cannabis lands (trichomes) contain the highest concentrations of cannabinoids and terpenes, making hash a potent and flavorful concentrate. This guide covers traditional and modern hashish production methods.
 ## What Is Hashish?
 Hashish is essentially compressed cannabis resin. The trichomes — tiny, crystal-like glandular hairs on cannabis flowers and leaves — contain the plant's active compounds (THC, CBD, terpenes, and other cannabinoids). Hashish is created by separating these trichomes from plant material and pressing them into a cohesive form. Different [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] strains produce hashish with varying characteristics.
 ### Trichome Types and Quality

@@ -3,14 +3,14 @@ title: pasteurization techniques
 tags: [mycology, mushroom-cultivation, pasteurization, substrate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+sources: [/Users/t3rpz/wiki/raw/psterilization-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 
 # Pasteurization Techniques
 
 Pasteurization is a heat treatment process that reduces microbial contaminants
 in bulk substrates without sterilizing them completely. Unlike sterilization,
-which kills all microorganisms, pasteurization selectively eliminates
+which kills all micromushroom-cultivationation selectively eliminates
 competitors while preserving beneficial thermophilic organisms that help
 protect the substrate from subsequent contamination. This makes it the
 preferred treatment for bulk substrates in mushroom cultivation.
@@ -105,7 +105,7 @@ The process:
 
 This method is simple and requires no heat, but it is less reliable than
 proper heat pasteurization and can leave residual alkalinity that slows
-colonization. It is best suited for warm-climate cultivation where its
+colcomposting It is best suited for warm-climate cultivation where its
 simplicity outweighs the lower reliability.
 
 ## Compost Pasteurization

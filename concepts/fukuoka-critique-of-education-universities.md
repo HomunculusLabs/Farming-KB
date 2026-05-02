@@ -64,7 +64,7 @@ Agricultural progress has really consisted of nothing more than resorting to pas
 
 - The pattern: first man creates unnatural and incomplete conditions, then develops technology to restore productivity, then brands this proudly as progress
 
-This connects to [[fukuoka-critique-agricultural-science-laws]] and [[fukuoka-critique-western-dietetics-nutritional-science]].
+This connects to [[fukuoka-critique-laws-agricultural-science]] and [[fukuoka-critique-western-dietetics-nutritional-science]].
 
 ## The Fragmentation of Knowledge
 
@@ -110,7 +110,7 @@ Fukuoka believed humanity had entered an age of confrontation between [[fukuoka-
 
 - [[fukuoka-critique-modern-livestock]]
 
-- [[fukuoka-critique-agricultural-science-laws]]
+- [[fukuoka-critique-laws-agricultural-science]]
 
 - [[fukuoka-do-nothing-farming-philosophy]]
 

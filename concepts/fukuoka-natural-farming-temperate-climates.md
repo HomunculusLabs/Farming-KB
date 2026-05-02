@@ -10,7 +10,7 @@ sources:
 
 # Natural Farming in Temperate Climates
 
-Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]] was developed and proven in the temperate climate of Shikoku Island, Japan. His methods were specifically designed for four-season environments and provide a practical model for natural agriculture in temperate regions worldwide.
+Masanobu Fukuoka's [[fukuoka-four-principles-natural-farming]] was developed and proven in the temperate climate of Shikoku Island, Japan. His methods were specifically designed for four-season environments and provide a practical model for natural agriculture in temperate regions worldwide.
 
 ## The Shikoku Model
 

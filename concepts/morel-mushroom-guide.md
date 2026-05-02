@@ -10,7 +10,7 @@ sources: []
 ## Overview
 Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for preparation and cooking instructions, and [[fungal-spore-print-guide]] for identification aids.
 ## Species
-The Morchella genus was significantly revised in 2012 using molecular phylogenetics, revealing that what was once considered a handful of species is actually a complex of dozens of species worldwide.
+The Morchella genmorchella-esculentay revised in 2012 using molecular phylogenetics, revealing that what was once considered a handful of species is actually a complex of dozens of species worldwide.
 ### Yellow Morels (Morchella esculenta clade)
 - **Morchella esculenta**: Classic yellow morel of eastern North America and Europe
 - **Morchella americana**: Common yellow morel of North America
@@ -68,7 +68,7 @@ True morels have these key features:
 5. Stem is lighter in color than the cap
 ### False Morels (Gyromitra and Verpa)
 **Gyromitra esculenta** (false morel, beefsteak mushroom):
-- Cap is wrinkled and brain-like, not pitted
+-[[gyromitrin]]inkled and brain-like, not pitted
 - Cap hangs free from the stem like a skirt (not attached at base)
 - When cut lengthwise, the interior has chambered, cottony filling (not hollow)
 - Contains gyromitrin, which converts to monomethylhydrazine (MMH) — a toxic compound
@@ -108,14 +108,13 @@ Morel cultivation has been pursued for over 100 years with limited commercial su
 - The morel life cycle is not fully understood — it may involve a sexually incompatible mating system
 - sclerotia (hardened mycelial masses) appear to be important in the life cycle
 - Soil conditions, microbial associates, and environmental triggers are all poorly characterized
-- Several companies sell "morel grow kits" but results are highly variable
+- Severalmyceliumes sell "morel grow kits" but results are highly variable
 - Outdoor cultivation in prepared beds is the most promising approach
 ### Why So Difficult?
 1. Complex life cycle with multiple phases (mycelium, sclerotia, fruiting)
 2. Specific environmental triggers (temperature fluctuation, soil chemistry) not fully known
 3. Likely requires specific bacterial associates in soil
-4. Mating system may require compatible strains
-5. Fruiting triggers may involve soil chemicals that are hard to replicate
+4. Mating system may require compatible [[spore-print]]Fruiting triggers may involve soil chemicals that are hard to replicate
 ## See Also
 - [[mushroom-cooking-techniques]] — Cooking morels safely and deliciously
 - [[fungal-spore-print-guide]] — Spore print technique (morel spore print is cream to pale yellow)

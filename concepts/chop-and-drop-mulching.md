@@ -77,6 +77,42 @@ Amazonian terra preta soils were maintained through centuries of slash-and-char 
 Traditional Asian rice paddies used duckweed and azolla as living mulch, periodically knocked into the water to decompose.
 Subsistence farmers throughout the tropics have long maintained fertility by cutting jungle regrowth and letting it decompose in place.
 The permaculture movement has simply given a name and a framework to this ancient practice.
+## Timing and Frequency
+
+The timing of chop-and-drop cuts affects both the mulch quality and the regrowth of the source plant:
+
+- **Before flowering:** Cutting before seed set prevents unwanted self-seeding and produces softer, faster-decomposing material. This is ideal for nitrogen-fixing legumes like comfrey, alfalfa, and clover
+- **After flowering but before seed maturity:** Provides maximum biomass but the material is coarser and slower to break down. Suitable for woody perennials and shrubs
+- **End of growing season:** A final chop-and-drop in autumn creates a protective winter mulch layer that insulates soil and slowly decomposes over winter
+- **Frequency:** Most mulch-producing perennials tolerate 3-4 cuts per year. Cutting too frequently depletes root reserves and weakens the plant. Allow at least 4-6 weeks of regrowth between cuts for most species
+
+## Chop-and-Drop Species Selection
+
+The best chop-and-drop plants share these traits: rapid regrowth after cutting, high biomass production, deep root systems that mine nutrients from subsoil, and minimal pest or disease issues.
+
+**Nitrogen fixers (leguminous):**
+- **Comfrey (Symphytum spp.):** The classic permaculture mulch plant. Deep taproot mines potassium, calcium, and trace minerals. Produces 4-5 cuts per year. High protein content accelerates decomposition
+- **Alfalfa (Medicago sativa):** Deep-rooted (up to 15m), fixes abundant nitrogen, and produces high-quality mulch rich in vitamins and minerals
+- **Clover (Trifolium spp.):** Low-growing living mulch that can be periodically mowed. White clover tolerates foot traffic; red clover produces more biomass
+- **Black locust (Robinia pseudoacacia):** Tree leaves are exceptionally high in nitrogen (up to 3.5%). Coppice annually for leaf mulch
+
+**Dynamic accumulators:**
+- **Yarrow (Achillea millefolium):** Accumulates copper, potassium, and phosphorus. Drought-tolerant once established
+- **Daikon radish:** Deep taproot breaks compacted soil layers; when left to decompose in place, creates channels for water infiltration and subsequent root growth
+- **Borage (Borago officinalis):** Accumulates calcium and potassium. Attracts pollinators. Leaves decompose quickly due to high water content
+
+## Integration with No-Till Systems
+
+Chop-and-drop is the primary fertility input for no-till gardening systems. In a mature no-till bed:
+
+- A permanent mulch layer suppresses weeds and maintains soil moisture
+- Chop-and-drop material is added on top of existing mulch, never dug in
+- Earthworms and soil arthropods incorporate the material from above
+- The soil surface is never exposed to sun or rain, preserving structure and microbial communities
+- Transition from tilled to no-till takes 1-3 years as soil biology establishes
+- Initial weed pressure may increase during transition as buried weed seeds germinate
+
+
 ## Related
 - [[sheet-mulching]] — layered mulch technique for creating garden beds
 - [[cover-crop-selection-guide]] — choosing cover crops for chop-and-drop

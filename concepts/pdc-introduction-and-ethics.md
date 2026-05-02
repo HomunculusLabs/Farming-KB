@@ -97,7 +97,7 @@ A Permaculture Design should produce a sustainable, ecologically sound plan for 
 
 ## Related
 
-- [[permaculture-designers-manual-keyline-design]]
+- [[keyline-design]]
 - [[permaculture-multipurpose-trees]]
 - [[permaculture-seed-saving-breeding]]
 - [[holzer-livestock-integration]]

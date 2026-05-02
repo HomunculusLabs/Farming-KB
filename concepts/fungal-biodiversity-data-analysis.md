@@ -1,9 +1,9 @@
 ---
-title: Fungal Biodiversity Data Analysis
+title: fungal biodiversity data analysis
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # [[fungal-biodiversity]] Data Analysis

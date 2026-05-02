@@ -125,7 +125,6 @@ designs.
 - Dual function: ornamental beauty plus food production
 - Excellent for adding autumn colour to permaculture landscapes
 
-
 ## See Also
 
 - [[permplant-fig-ficus-carica-fruit-tree]]

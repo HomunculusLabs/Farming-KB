@@ -8,7 +8,7 @@ sources: ["raw/papers/permaculture-beginners-guide.md"]
 ---
 # Permaculture Beginners Guide — Observation and Mapping
 
-[[graham-burnett]]'s "Permaculture: A Beginners Guide" (2001) frames observation and pattern recognition as foundational skills for [[permaculture-design]]. Rather than requiring mastery of facts, figures, Latin names, and complicated techniques, permaculture is about recognizing universal patterns and principles and learning to apply these "ecological truisms" to our own gardens and life situations. See [[fukuoka-direct-observation-method]] and [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
+[[graham-burnett]]'s "Permaculture: A Beginners Guide" (2001) frames observation and pattern recognition as foundational skills for [[permaculture-design]]. Rather than requiring mastery of facts, figures, Latin names, and complicatedmasanobu-fukuokamaculture is about recognizing universal patterns and principles and learning to apply these "ecological truisms" to our own gardens and life situations. See [[fukuoka-direct-observation-method]] and [[fukuoka-observation-based-farming]] for Masanobu Fukuoka's approach to observation-based farming.
 
 ## Learning to See Patterns
 
@@ -53,7 +53,7 @@ A practical observation exercise Burnett recommends for Zone 0 (the home):
 - List all electrical appliances and how often each is used
 - Track how much water is used in a day
 - Measure the amount of rubbish going into the bin each week
-- Analyze this resource usage: how much is truly necessary, how can it be reduced?
+- Analyze this resource usage: how muchreading-the-landscapehow can it be reduced?
 
 This systematic observation of flows — energy, water, materials — is the foundation of permaculture design. Before changing anything, you must first understand what is currently happening.
 

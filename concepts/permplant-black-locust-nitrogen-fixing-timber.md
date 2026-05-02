@@ -124,7 +124,6 @@ adjacent fruit and nut trees. The coppiced poles can be used throughout
 the system for trellising, fencing, and garden structures, creating a
 closed-loop resource cycle.
 
-
 ## See Also
 
 - [[permplant-alder-alnus-nitrogen-fixing-non-legume]]

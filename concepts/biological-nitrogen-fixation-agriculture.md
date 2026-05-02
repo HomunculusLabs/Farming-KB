@@ -109,8 +109,7 @@ alfalfa 80–200 kg N/ha, deriving from residue mineralization and rhizodepositi
 ## Inoculant Technology
 
 Formulations: **peat-based** (6–12 month shelf life, 10⁹–10¹⁰ CFU/g, seed
-slurry), **liquid** (precision equipment compatible, osmoprotectants), and
-**granular** (in-furrow, avoids pesticide incompatibility, 2–10 kg/ha).
+slurry), **liquid** (precision equipment compatible, osmoprotectants), andmycorrhizal-fungi-furrow, avoids pesticide incompatibility, 2–10 kg/ha).
 Minimum standard: 10⁶ cells/seed at planting. Strain selection prioritizes
 fixation efficiency, competitiveness for nodule occupancy, stress tolerance,
 and genetic stability. Co-inoculation with PGPR or mycorrhizal fungi enhances
@@ -138,7 +137,7 @@ factor perception using shared AM signaling components (CCaMK, DMI1, DMI2
 already present in cereals), and enhancing associative endophytes. Key
 organogenesis genes: **NIN** (master regulator), **CCaMK/CYCLOPS** (calcium
 spiking decoder), **ENOD40** (auxin transport regulation), and **NF-Y complex**
-(nodule-specific transcription). *Parasponia* uses a single LysM receptor for
+([[cover-crops]]ific transcription). *Parasponia* uses a single LysM receptor for
 Nod factors, suggesting a simpler path. Full cereal nodulation remains decades
 away but CRISPR and synthetic biology are accelerating progress.
 

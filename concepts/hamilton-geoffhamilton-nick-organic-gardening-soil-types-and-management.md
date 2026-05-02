@@ -125,7 +125,7 @@ pH test kit. Most vegetables thrive in a pH of about 6.5.
 - [[cannabis-organic-fertilizers]] for nutrient management
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]] for the philosophy behind soil care
 - [[mycorrhizal-weed-control]] for surface soil management
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 
 ## See Also
 

@@ -133,7 +133,7 @@ PF describes a method for extracting psilocybin using 200-proof ethyl alcohol:
 ## See Also
 - [[pf-tek-guide]] -- Complete PF TEK from substrate to harvest
 - [[pf-tek-fruiting-chamber]] -- Dual chambered terrarium construction
-- [[psilocybin-mushroom-cultivation]] -- Broader cultivation overview
+- [[psilocybin-cultivation]] -- Broader cultivation overview
 - [[mushroom-drying-storage]] -- Drying and storage methods
 - [[mushroom-spore-printing-and-storage]] -- Spore techniques
 - [[psilocybin-mushroom-chemistry]] -- Species potency comparison

@@ -130,7 +130,9 @@ Some growers add a thin casing layer at this stage to improve surface moisture r
 - [[mushroom-contamination-control-strategies]] is the single most important factor
 - Monotubs are ideal for beginners because they require minimal specialized equipment
 
-## Related Questions
+## Related
+
+- [[query-how-to-grow-chaga-mushroom]] Questions
 
 - [[first-time-grower-common-mistakes]]
 - [[mushroom-cultivation-history]]

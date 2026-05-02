@@ -70,7 +70,6 @@ Post-harvest handling preserves or destroys potency:
 - Remove all males or grow from clones to ensure seedless crop
 - The Cannabis Grow Bible emphasizes sinsemilla as essential for quality
 
-
 ## Harvest Timing
 
 Harvest timing is one of the most impactful decisions for final potency. Trichomes progress through three visible stages: clear (immature, low potency), cloudy/milky (peak THC, optimal harvest for maximum psychoactive effect), and amber (THC degrading to CBN, more sedative effect). Most growers harvest when 50-70 percent of trichomes are cloudy with some beginning to turn amber. Harvesting too early sacrifices potency; harvesting too late shifts the effect profile toward sedation as THC degrades. The [[cannabis-trichome-guide]] provides detailed identification methods.

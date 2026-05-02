@@ -64,7 +64,7 @@ The mycoparasitic response in Trichoderma is triggered by recognition of pathoge
 White rot fungi operate on a continuum between two decay strategies:
 
 - **Selective white rot:** Preferentially removes lignin while preserving cellulose. This pattern is valuable in biopulping applications where cellulose retention is desired for paper production. Selective decay leaves behind a white, fibrous residue of largely intact cellulose
-- **Simultaneous white rot:** Degrades lignin, cellulose, and hemicellulose at similar rates, resulting in uniform wood decay and complete decomposition of all structural polymers. The wood becomes soft and eventually crumbles to a powdery consistency
+- **Simultaneous white rot:** Degrades lignin, cellulose, and hemicellulose at similar rates, resulting in unifornutrient-cycling-in-soile decomposition of all structural polymers. The wood becomes soft and eventually crumbles to a powdery consistency
 
 Trichoderma contributes to organic matter decomposition and nutrient cycling in soil ecosystems, but it does not degrade lignin. Its enzymatic arsenal targets simpler substrates: cellulose, hemicellulose, chitin, and other polysaccharides. This makes Trichoderma an effective decomposer of herbaceous plant material and fungal cell walls but incapable of breaking down woody tissue.
 
@@ -100,7 +100,7 @@ This makes them invaluable in [[comparison-biochar-remediation-vs-phytoremediati
 
 ### Biological Control in Agriculture
 
-Trichoderma harzianum is effective against major soilborne and foliar pathogens including *Rhizoctonia solani*, *Fusarium* spp., *Pythium* spp., and *Sclerotinia sclerotiorum*. Available formulations include seed treatments, soil drenches, and foliar sprays.
+Trichoderma harzianum is effective against major soilborne and foliar pathogens including *Rhizoctonia solani*, [[integrated-pest-management]] spp., and *Sclerotinia sclerotiorum*. Available formulations include seed treatments, soil drenches, and foliar sprays.
 
 Trichoderma is compatible with mycorrhizal fungi in integrated pest management systems and is a cornerstone of organic farming practices worldwide. Its multi-mode action reduces the likelihood of pathogens developing resistance compared to single-mechanism chemical fungicides.
 

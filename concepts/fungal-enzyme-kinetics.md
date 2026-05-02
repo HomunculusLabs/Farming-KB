@@ -78,6 +78,8 @@ Enzyme activity is measured using fluorometric and colorimetric assays with arti
 
 ## See Also
 
+- [[enzyme-kinetics-michaelis-menten-model]]
+
 - [[fungal-enzymatic-capabilities]] covers the range of fungal enzymatic activities
 - [[fungal-decomposition-kinetics]] connects to decomposition rate dynamics
 - [[fungal-resource-use-efficiency]] relates enzyme costs to efficiency

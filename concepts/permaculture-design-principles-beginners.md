@@ -21,7 +21,6 @@ sources: [raw/particles/permaculture-beginners-guide.md]
 
 
 
-
 ## Permaculture Design Principles for Beginners
 
 Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians David Holmgren and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
@@ -79,11 +78,10 @@ Local spending keeps money circulating within communities. When money is spent w
 
 
 
-
 ## See Also
 
-- [[permaculture-ethics-and-principles]]
+- [[natural-farm-permaculture-ethics-principles]]
 - permaculture design principles beginners
 - [[permaculture-zones-and-sectors]]
-- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
 - [[permaculture-design]]

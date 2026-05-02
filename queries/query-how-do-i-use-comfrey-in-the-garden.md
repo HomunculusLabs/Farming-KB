@@ -141,3 +141,7 @@ Consider using root barriers if you want to contain the spread of your comfrey p
 - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+
+## See Also
+
+- [[query-how-to-use-diatomaceous-earth-in-the-garden]]

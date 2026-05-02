@@ -15,7 +15,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 
 
-
 ## Taxonomy
 
 *Psilocybe muliercula* was described by Gastón Guzmán as part of his extensive taxonomic work on Mexican Psilocybe species spanning several decades. Guzmán, the world's foremost authority on Psilocybe taxonomy, described dozens of new species from Mexico throughout his career. The specific epithet "muliercula" is derived from Latin, referring to the diminutive or delicate nature of the fruiting bodies. It belongs to the diverse assemblage of Psilocybe species found predominantly in the subtropical and tropical forests of southern Mexico, where the genus reaches its greatest species diversity.
@@ -26,13 +25,11 @@ The genus Psilocybe was established by Paul Kummer in 1871 and currently contain
 
 
 
-
 ## Distribution
 
 This species is endemic to Mexico, which holds the highest diversity of neurotropic fungi globally with 76 species, 44 of which belong to the genus Psilocybe — representing approximately 39% of the world's known psilocybin-containing Psilocybe species. Like many Mexican Psilocybe species, *P. muliercula* is associated with humid subtropical forest environments and is typically found growing on soil, often in association with decaying plant material or in grassy areas within or near forested regions.
 
 The concentration of neurotropic fungal diversity in Mexico is attributed to the country's varied topography, tropical and subtropical climate zones, and the long history of indigenous use that has driven scientific attention and collection efforts. The states of Oaxaca, Puebla, Veracruz, and Chiapas are particularly rich in Psilocybe species diversity, corresponding to areas where indigenous cultures have traditionally used psychoactive fungi in ceremonial and healing contexts.
-
 
 
 
@@ -50,13 +47,11 @@ The spores are elliptical to rhomboidal in shape, with a thick wall and a distin
 
 
 
-
 ## Chemistry
 
 *Psilocybe muliercula* is classified among the psilocybin-containing fungi (Group 1 in Guzmán's four-group classification system for neurotropic fungi). It produces the indole alkaloids psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) and psilocin (4-hydroxy-N,N-dimethyltryptamine), which are structural analogs of serotonin and act as partial agonists at 5-HT2A serotonin receptors in the central nervous system. These compounds are responsible for the characteristic psychoactive effects including visual and auditory hallucinations, altered perception of time and space, synesthesia, and changes in mood and cognitive function.
 
 The exact concentrations of active compounds in this particular species have not been extensively quantified in the published literature, though it is grouped with confirmed neurotropic species based on chemical analysis. Psilocybin concentrations in Psilocybe species vary widely, from trace amounts to over 2% dry weight in the most potent species.
-
 
 
 
@@ -72,11 +67,9 @@ Among the most culturally significant Nahuatl names are "teonanácatl" (divine m
 
 
 
-
 ## Related Species
 
 *Psilocybe muliercula* is part of the diverse assemblage of Mexican Psilocybe species that includes [[psilocybe-cubensis]], [[psilocybe-mexicana]], [[psilocybe-zapotecorum]], [[psilocybe-caerulipes]], [[psilocybe-wassoniorum]], and [[psilocybe-galindoi]]. The genus also includes temperate species such as [[psilocybe-semilanceata]] (liberty cap), [[psilocybe-cyanescens]] (wavy caps), and [[psilocybe-azurescens]], which are found far from the tropical center of diversity.
-
 
 
 

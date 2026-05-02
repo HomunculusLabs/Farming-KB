@@ -132,7 +132,6 @@ When selecting strains for specific therapeutic goals, consider the full cannabi
 - [[herbal-medicine]] -- Integration with other botanical medicines
 - [[cannabis-extraction-basics]] -- Making therapeutic preparations
 
-
 See also: [[uwe-blesching]] — evidence-based cannabis therapeutics research.
 
 See also: [[john-halpern]] — psychiatrist, hallucinogen pharmacology researcher.

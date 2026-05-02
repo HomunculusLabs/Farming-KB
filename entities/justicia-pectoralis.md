@@ -16,15 +16,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
 
 
 
-
-
 ## Taxonomy and Description
 
 *Justicia pectoralis* is a herbaceous or subshrubby perennial plant typically growing 20–60 cm in height. It bears opposite, lanceolate to ovate leaves with serrated margins, and produces small white to pale purple flowers arranged in terminal or axillary spikes. The plant has a characteristic aromatic fragrance when crushed, which has contributed to its use both as an admixture and as a traditional remedy.
 
 The species is widespread in the neotropics, ranging from southern Mexico through Central America and the Caribbean into northern South America, including the Amazon basin, the Guianas, and northern Brazil. It is commonly found in disturbed habitats, forest edges, and clearings, which has facilitated its use by human communities.
-
-
 
 
 
@@ -48,15 +44,11 @@ The most significant ethnobotanical role of *Justicia pectoralis* is as an admix
 
 
 
-
-
 ## Other Ethnobotanical Uses
 
 Beyond its role as a *Virola* admixture, *Justicia pectoralis* has a history of use as a medicinal plant throughout its range. In traditional medicine, it has been employed as a treatment for respiratory ailments, including coughs, bronchitis, and chest congestion—hence the specific epithet *pectoralis*, referring to the chest.
 
 Other traditional uses include treatment of colds and flu symptoms, anti-inflammatory applications, use as a mild sedative or relaxant, preparation of aromatic teas and infusions, and use as a flavoring agent in foods and beverages. In some Caribbean traditions, *Justicia pectoralis* is used as an ingredient in folk remedies and tonics.
-
-
 
 
 
@@ -79,13 +71,9 @@ The interaction between the constituents of *Justicia pectoralis* and the trypta
 
 
 
-
-
 ## Cultivation and Availability
 
 *Justicia pectoralis* is relatively easy to cultivate and is occasionally grown as an ornamental or medicinal herb. It is not commercially available as a standardized herbal product but can be found in some markets in tropical regions where traditional medicine is practiced. The plant is not regulated as a controlled substance in any jurisdiction.
-
-
 
 
 

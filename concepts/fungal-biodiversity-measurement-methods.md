@@ -78,7 +78,7 @@ Examination of substrates (soil, leaf litter, wood) under compound or scanning e
 
 ### Selective Media
 
-Different [[fungal-culture-media|culture media]] can be formulated to selectively isolate particular fungal groups:
+Different [[biodiversity-fungal-culture-media|culture media]] can be formulated to selectively isolate particular fungal groups:
 
 - Acidified media for isolating fungi from bacterial-rich samples
 - Media with antibiotics to suppress bacterial growth

@@ -127,7 +127,9 @@ animals has implications for agriculture, horticulture, and our
 understanding of the interconnectedness of all matter. His wireless
 telegraphy work anticipated modern radio communications.
 
-## Related Concepts
+## Related
+
+- [[jagadis-chandra-bose]] Concepts
 
 - [[cleve-backster-plant-perception-experiments]]
 - [[plant-bioelectricity]]

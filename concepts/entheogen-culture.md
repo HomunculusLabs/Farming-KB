@@ -101,7 +101,6 @@ Ayahuasca tourism has become a significant industry in the Amazon, particularly 
 - **Intention and preparation:** Traditional entheogenic use always involves ceremonial preparation, fasting, purification, and clear intention -- not casual recreation.
 - **Integration:** The real value of entheogenic experience comes from how it is integrated into daily life afterward.
 
-
 ## Shamanism as Phenomenological Technique (McKenna, 1983)
 
 McKenna's Esalen lecture provides a distinctive view of shamanism:
@@ -123,14 +122,13 @@ McKenna's Esalen lecture provides a distinctive view of shamanism:
 - [[ralph-metzner]] for the scholarly bridge between Eastern and Western consciousness traditions
 - [[richard-evans-schultes-updated]] for the father of ethnobotany
 
-
 See also: [[jonathan-ott]] — ethnobotanist who co-coined 'entheogen' and authored Pharmacotheon.
 
 ## Related
 
 - [[andy-letcher]]
 - [[cannabis-spiritual-ritual-use]]
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[ayahuasca-preparation]]
 - [[iboga-tabernanthe]]
 - [[dm-turner]]

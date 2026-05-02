@@ -92,6 +92,6 @@ The twenty-first century has seen a revival of clinical psilocybin research, wit
 
 Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 5-7
 Updated: 2026-04-18
-- [[maria-sabina-and-mazatec-mushroom-ceremony]]
+- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[turner-psilocybin-mushroom-experience-guide]]

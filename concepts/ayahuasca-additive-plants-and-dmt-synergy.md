@@ -123,7 +123,7 @@ testifies to centuries of careful experimentation and observation.
 
 - [[ayahuasca-vision-art-and-shipibo-tradition]]
 
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]
 
 - [[ayahuasca-botany-and-preparation]]
 - [[ayahuasca-preparation-and-ceremony]]

@@ -1,15 +1,11 @@
 ---
 title: Drought Gardening
-created: 2026-04-12
-updated: 2026-04-12
+created: 2026-04-28
+updated: 2026-05-02
 type: concept
-tags: [gardening, water, water-management, vegetables, sustainability, resilience, beginner]
-sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
+tags: [water, gardening, drought, irrigation]
+sources: []
 ---
-
-# Drought Gardening
-
-Growing vegetables with little or no irrigation, using wider spacing and techniques that allow plants to access deeper soil moisture. Steve Solomon mastered this approach through research and experimentation, detailed in his earlier book *Waterwise Vegetables*.
 
 ## The Core Principle
 
@@ -75,10 +71,40 @@ Solomon notes that most gardeners grossly overwater:
 - Test any sprinkler with water gauges (tin cans) to determine its application rate
 - Use the "sparkle test" from John Jeavons: water with a fan nozzle until the bed surface sparkles; when the shine lasts 1-10 seconds, enough water has been applied
 
+
+## Practical Watering Schedules
+
+Solomon recommends a practical watering schedule based on the moisture
+availability window. In his inland Pacific Northwest climate (12-15 inches of
+annual precipitation), typical summer intervals are: seedbeds and new
+transplants every 1-3 days; established vegetables every 5-14 days; deep-rooted
+perennials and established fruit trees rarely needing supplemental irrigation.
+The key metric is not calendar days but soil moisture at root depth — a
+trowel or soil probe reveals whether water has penetrated deeply enough.
+
+Mulching is essential for extending the watering interval. A 2-4 inch layer
+of organic mulch reduces surface evaporation by 50-75%, moderates soil
+temperature fluctuations, and suppresses weed competition for moisture.
+Solomon specifically advocates for permanent, narrowly-spaced beds with
+permanent pathways, which concentrate organic matter and soil biology in the
+growing zone and prevent compaction that reduces water infiltration.
+---
+title: Drought Gardening
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [gardening, water, water-management, vegetables, sustainability, resilience, beginner]
+sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
+---
+
+# Drought Gardening
+
+Growing vegetables with little or no irrigation, using wider spacing and techniques that allow plants to access deeper soil moisture. Steve Solomon mastered this approach through research and experimentation, detailed in his earlier book *Waterwise Vegetables*.
+
 ## Related
 
 - [[drip-irrigation-guide]] — Hand watering techniques
 - [[irrigation-systems]] — Sprinkler and irrigation systems
 - [[intensive-planting-spacing]] — How spacing affects water needs
 - [[growing-food-in-hard-times]] — The philosophy behind low-input gardening
-- [[irrigation-watering-techniques]]
+- [[cervantes-irrigation-watering-techniques]]

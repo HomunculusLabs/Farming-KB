@@ -139,3 +139,10 @@ PAHs); biocatalysis via directed evolution (Frances Arnold, Nobel 2018) for
 regio/stereoselective hydroxylation; plant P450s in microbial systems for
 artemisinin precursors and taxol intermediates; fungal P450s for lignin
 degradation and PCB remediation.
+
+## See Also
+
+- [[cannabis-cannabinoid-receptor-pharmacology]]
+- [[cervantes-cannabis-tolerance-addiction-pharmacology]]
+- [[fungal-enzyme-kinetics]]
+- [[cannabis-minor-cannabinoids]]

@@ -80,7 +80,7 @@ muscarine, which causes parasympathetic overstimulation including sweating,
 salivation, gastrointestinal distress, bradycardia, and in severe cases,
 respiratory depression.
 Other psilocybin-containing Inocybe species include [[inocybe-aeruginascens]]
-(noted for its bluing reaction), [[inocybe-corydalina]], [[inocybe-tricolor]],
+(noted for its bluing reaction), [[inocybe-corydalina-entity]], [[inocybe-tricolor]],
 and [[inocybe-crocata]]. The co-occurrence of psilocybin and potentially
 muscarine in Inocybe species raises serious safety concerns.
 ## Toxicity and Safety Concerns
@@ -114,7 +114,7 @@ The specific epithet "haemacta" derives from Greek "haima" (blood), referring
 to the distinctive reddish to blood-red coloration of the cap and stipe.
 ## See Also
 - [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
-- [[inocybe-corydalina]]
+- [[inocybe-corydalina-entity]]
 - [[inocybe-aeruginascens]] — a bluing, psilocybin-containing Inocybe species
 - [[psilocybin]] — the primary psychoactive compound
 - [[muscarine]] — the toxic compound found in many Inocybe species

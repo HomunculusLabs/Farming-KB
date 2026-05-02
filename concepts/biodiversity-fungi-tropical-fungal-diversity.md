@@ -115,7 +115,7 @@ estimated that only half of extant smut species have been described.
 Comprehensive surveys using modern molecular and morphological methods
 are urgently needed to close the tropical fungal diversity gap. Such
 surveys will be essential for understanding global fungal biodiversity
-patterns and for informing conservation priorities in [[fungal-endemism-biogeography]] that face accelerating habitat loss.
+patterns and for informing conservation priorities in [[fungal-endemism-and-biogeography]] that face accelerating habitat loss.
 
 ## See Also
 

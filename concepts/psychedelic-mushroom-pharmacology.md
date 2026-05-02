@@ -141,12 +141,6 @@ Important pharmacological interactions:
 Psilocybin has a very high safety profile:
 
 - **LD50** (lethal dose 50%) in rodents: approximately 285 mg/kg IV — far exceeding any reasonable human dose
-- **No known lethal overdose** in humans from psilocybin mushrooms alone
-- The primary risks are psychological (acute anxiety, panic, psychosis in vulnerable individuals) and accidental (misidentification leading to toxic species ingestion)
-- Cardiovascular effects include mild, transient increases in heart rate and blood pressure
-
-See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.
-
 ## See Also
 
 - [[global-psychedelic-mushroom-species-diversity]]

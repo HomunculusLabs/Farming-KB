@@ -16,7 +16,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes
 
 
 
-
 ## Morphology and Identification
 
 The fruiting body of *Cortinarius cinnamomeus* is small to medium-sized, with a cap measuring 2–6 cm in diameter. The cap is convex to bell-shaped when young, becoming broadly convex to flat with a slightly depressed center at maturity. The cap surface is smooth and dry, with a silky sheen, colored cinnamon to orange-brown or reddish brown. The margin is initially inrolled and often bears remnants of the partial veil (cortina) in young specimens.
@@ -32,13 +31,11 @@ The flesh is thin, cinnamon-colored, and has a mild, slightly radish-like or fru
 
 
 
-
 ## Distribution and Habitat
 
 *Cortinarius cinnamomeus* has a circumboreal distribution, occurring throughout Europe, northern Asia, and North America. It is particularly abundant in the boreal forest zone (taiga), where it is one of the dominant ectomycorrhizal fungal species. The species is found primarily in coniferous forests, forming ectomycorrhizal associations with Scots pine (*Pinus sylvestris*), Norway spruce (*Picea abies*), and other two-needle pines.
 
 The species fruits from late summer through autumn (August to October in the Northern Hemisphere) and often fruits in large numbers during favorable seasons. It is typically found on acidic to neutral soils in mature coniferous forests, often in association with moss-covered ground, needle litter, and well-developed humus layers. *C. cinnamomeus* is frequently encountered in the same habitats as other *Cortinarius* species, contributing to the typically high diversity of this genus in boreal forest ecosystems.
-
 
 
 
@@ -58,7 +55,6 @@ Research has shown that *Cortinarius* species in the section *Dermocybe* (includ
 
 
 
-
 ## Ecological Significance in Forest Ecosystems
 
 *Cor`tinarius cinnamomeus* is an important indicator species for forest ecosystem health and continuity. Its presence typically indicates undisturbed, mature coniferous forests with well-developed ectomycorrhizal networks. The species is sensitive to forest management practices such as clear-cutting, soil compaction, and removal of the organic horizon, and its abundance generally declines in heavily managed forests.
@@ -72,11 +68,9 @@ Fruiting bodies of *C. cinnamomeus* serve as a food source for various forest in
 
 
 
-
 ## Taxonomic Challenges
 
 The genus *Cortinarius* is one of the most taxonomically challenging groups of mushrooms, with over 2,000 described species worldwide and many more awaiting description. Identification of *C. cinnamomeus* requires careful attention to macroscopic features (cap color, cortina characteristics, stipe morphology) and microscopic examination of spore ornamentation and basidial structure. Molecular phylogenetic methods have revealed that some traditional morphological species concepts within *Cortinarius* encompass multiple cryptic species, and the taxonomic boundaries of *C. cinnamomeus* sensu stricto are still being refined through ongoing molecular systematic research.
-
 
 
 

@@ -37,7 +37,7 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 - Psilocybin mushrooms (teonanacatl) are not specifically scheduled in federal law
 - Sale and commercial distribution are prohibited under general drug laws
 - Traditional indigenous use (Mazatec and other groups) is culturally tolerated
-- See [[maria-sabina-and-mazatec-mushroom-ceremony]] for indigenous context
+- See [[maria-sabina-mazatec-mushroom-ceremony]] for indigenous context
 ## Europe
 ### Netherlands
 - Fresh "magic mushrooms" (paddos) were banned in 2008 following several high-profile incidents

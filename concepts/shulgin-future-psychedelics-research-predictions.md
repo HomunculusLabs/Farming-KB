@@ -54,7 +54,7 @@ Many of Shulgin's 1975 predictions proved remarkably prescient. The emergence of
 - [[alexander-shulgin]]
 - [[shulgin-future-psychedelics-scheduling-and-regulation]]
 - [[albert-hofmann]]
-- [[hofmann-lsd-discovery-bicycle-day-account]]
+- [[hofmann-lsd-discovery-bicycle-day]]
 - [[doet-pihkal-66]]
 - [[dom-pihkal-68]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]

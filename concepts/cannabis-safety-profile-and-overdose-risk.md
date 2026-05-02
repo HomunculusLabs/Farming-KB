@@ -1,5 +1,5 @@
 ---
-title: Cannabis Safety Profile and Overdose Risk
+title: cannabis safety profile and overdose risk
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -8,11 +8,11 @@ type: concept
 tags: [cannabis, dosage, safety]
 ---
 
-# Cannabis Safety Profile and Overdose Risk
+# cannabis safety profile and overdose risk
 
 Cannabis occupies a unique position among therapeutic substances in terms
 of its safety profile. Drawing on both clinical research and extensive
-emergency medical experience, Blesching's Cannabis Health Index provides
+emergency medical experience, Blesching's [[cannabis-health-index]] provides
 a comprehensive assessment of cannabis safety that challenges many
 common misconceptions while acknowledging real considerations.
 

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, ecology, biology, biochemistry, species-profiles, chemistry, environment]
-sources: []
+sources:
+  - /Users/t3rpz/wiki/raw/papers/fungi-and-sustainability-fungi-magazine.md
 ---
 
 # Bioluminescent Fungi

@@ -112,7 +112,7 @@ Chlorophenols are intermediates in PCB/dioxin degradation and also industrial po
 ## See Also
 - [[mycoremediation-basics]] — General mycoremediation framework and enzyme systems
 - [[mycoremediation-pahs]] — Related PAH degradation pathways
-- [[mycoremediation-of-heavy-metals]] — Heavy metal biosorption
-- [[mycoremediation-of-oil-spills]] — Petroleum contamination cleanup
+- [[mycoremediation-heavy-metals-detailed]] — Heavy metal biosorption
+- [[mycoremediation-oil-spills]] — Petroleum contamination cleanup
 - [[mycorestoration-overview]] — Broader ecological restoration framework
 - [[harbhajan-singh]] — Comprehensive mycoremediation reference

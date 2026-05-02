@@ -136,7 +136,7 @@ summer. See [[hamilton-layering-propagation-techniques]] for detailed methods.
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-composting]]
+- [[composting]]
 
 ## See Also
 

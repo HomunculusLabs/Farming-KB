@@ -9,13 +9,9 @@ sources:
 ---
 # JADAM Leaf Mold as Ideal Soil Model
 
-
-
 ## Overview
 
 JADAM believes that the leaf mold found in nearby mountains represents the ideal soil. Organic farming, as JADAM defines it, is essentially about finding answers from nature. The soil formed from leaf mold in adjacent mountains, fields, and forests has been there for thousands of years, developing the environment most closely resembling any farmer's field.
-
-
 
 ## Three Tenets of Soil Management
 
@@ -25,15 +21,11 @@ JADAM establishes three foundational principles for soil management, all modeled
 2. Organic matter in my field should be abundant like the leaf mold in the mountains
 3. Minerals in my field should be diverse like the leaf mold in the mountains
 
-
-
 ## Why Leaf Mold Is the Key
 
 One gram of leaf mold contains approximately 2 to 10 billion microorganisms, with over one million different species. Data from a Danish laboratory revealed that 1 gram of leaf mold contains 30,000 protozoa, 50,000 algae, 400,000 fungi, and billions of bacteria. The producers, predators, and decomposers form a complicated food chain. As they feed, excrete, breed, die, and decompose, the soil environment changes, recovers vitality and fertility, and becomes optimum growing ground for plants.
 
 Most of the nutrients required by crops are produced by microbial activities. Microbial conditions and farming are directly linked.
-
-
 
 ## Rejecting the Good/Bad Microorganism Framework
 
@@ -45,13 +37,9 @@ JADAM fundamentally opposes the practice of dividing microorganisms into "good" 
 - Products marketed as "good" microorganisms represent less than 1/10,000 of all existing species -- selecting and selling such a tiny fraction as a panacea is not scientific
 - The "good or bad" approach is described as a marketing ploy by corporations wanting to monopolize microorganisms for profit
 
-
-
 ## The Worker Analogy
 
 JADAM sees microorganisms as "workers" who need to work underground in the fields. The best workers are those who have been living in conditions most similar to that of the fields -- they are found in the leaf mold of nearby forests, hills, and mountains. Using factory-cultured microorganisms imported from Japan, the US, or other distant non-native origins makes no more sense than bringing a foreigner and expecting him to suddenly speak the local tongue, mix with the local population, and become a good worker.
-
-
 
 ## Collecting Leaf Mold
 
@@ -62,8 +50,6 @@ JADAM sees microorganisms as "workers" who need to work underground in the field
 - Store in black plastic bags or gunnysacks, loosely closed, in shade
 - About 500 grams used each time for culturing
 - Keep moist but drying is not a serious problem
-
-
 
 ## Making Leaf Mold When None Is Available
 
@@ -76,13 +62,22 @@ If leaf mold cannot be collected, it can be made:
 6. Wet grass works better than straw because straw has low moisture
 7. This method can be done anywhere on earth
 
-
-
 ## The Korean Tradition
 
 JADAM connects this approach to four thousand years of Korean organic farming. With its mountainous terrain, Korea has leaf mold treasures buried everywhere. The key to optimization of the soil environment -- balance and diversity -- has always been present in the mountains. Science is not ready to judge which organism is beneficial or harmful; the best choice is to accept nature as it is.
 
 
+## Soil Food Web Implications
+
+Leaf mold supports a complete soil food web: bacteria and fungi break down organic matter, protozoa and nematodes consume the microbes and release plant-available nutrients through the microbial loop, and larger organisms including earthworms and arthropods create soil structure through their burrowing and feeding activities. This biological complexity is what distinguishes living leaf mold soil from sterile potting mixes. Plants grown in leaf mold soil develop more extensive mycorrhizal networks and show improved disease resistance compared to plants in conventional growing media, because the diverse microbial community provides natural disease suppression through competitive exclusion and antibiosis.
+
+## Comparison with Other Organic Amendments
+
+Leaf mold differs from compost in several important ways. Composting is an aerobic, thermophilic process that produces a relatively uniform, stable product — but the high temperatures (55-70°C) kill many beneficial organisms. Leaf mold decomposition occurs at ambient temperatures through fungal-dominated processes, preserving a much more diverse microbial community. Compost has a higher pH (typically 7.0-8.0) and higher available nitrogen, making it better for heavy feeders. Leaf mold has a slightly acidic pH (5.5-6.5) and lower nitrogen content but superior water-holding capacity and soil structure improvement. For seed starting and sensitive plants, leaf mold is often preferable to compost because its gentler, more fungal-dominant biology better mimics natural forest soil conditions.
+
+## Jadam Method Integration
+
+In the Jadam system, leaf mold serves as the foundation for a self-sufficient farming cycle. Fallen leaves are collected from the farm itself or nearby forests, eliminating the need to import organic matter. The leaf mold area becomes a permanent farm feature, continuously producing high-quality soil amendment. Combined with Jadam's microbial solution (JMS) and their signature surfactant (JHS, made from canola oil and potassium hydroxide), leaf-mold-based soil provides complete plant nutrition without external inputs. This closed-loop approach reduces costs and aligns with Jadam's philosophy of farming that requires minimal purchased materials.
 
 ## Related
 

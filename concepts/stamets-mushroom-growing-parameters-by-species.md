@@ -109,5 +109,5 @@ See also: [[stamets-mushroom-growing-room-design]], [[stamets-casing-layer-desig
 - [[mushroom-cultivator-shiitake-growing-parameters]]
 
 - [[stamets-pleurotus-oyster-cultivation]]
-- [[oyster-mushroom-harvesting-and-post-harvest]]
+- [[oyster-mushroom-harvesting-post-harvest]]
 - [[gourmet-mushroom-enriched-sawdust-cultivation]]

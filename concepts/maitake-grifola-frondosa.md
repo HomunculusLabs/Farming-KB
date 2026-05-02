@@ -99,7 +99,7 @@ species causes a white rot in wood decomposition.
 
 ## See Also
 
-- [[shiitake-cultivation]]
+- [[cotter-shiitake-cultivation]]
 - [[reishi-ganoderma-lucidum]]
 - [[oyster-mushrooms]]
 - [[grain-spawn-production]]

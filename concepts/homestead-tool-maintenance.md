@@ -1,5 +1,5 @@
 ---
-title: Homestead Tool Maintenance
+title: homestead tool maintenance
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [tools, homesteading, sustainability, equipment, gardening, farming]
 sources: []
 ---
 
-# Homestead Tool Maintenance
+# homestead [[animal-butcher-and-processing|tool]] maintenance
 
 Well-maintained tools work better, last longer, and are safer to use. A [[homesteading|homestead]] relies heavily on hand tools — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
 
@@ -139,14 +139,10 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 - Boiled linseed oil penetrates wood and hardens
 - Apply 2-3 coats, allowing each to soak in before wiping excess
 - Reapply annually or when wood looks dry
-- Food-safe when fully cured
+- [[homesteading-food-preservation|Food]]-safe when fully cured
 - Available at any hardware store
 
 ### Tung Oil
 
 - Natural, food-safe finish
 - Penetrates deeply, water-resistant
-- More expensive than linseed oil
-- Reapply annually
-
-Related: [[natural-farming-guide-swale-water-management]], [[homestead-water-purification]]

@@ -1,7 +1,7 @@
 ---
 title: "Salvia Divinorum"
 tags:
-  - [[salvia-divinorum]]
+  - [[salvia-divinorum-entity]]
   - salvinorin
   - mazatec
   - ethnobotany

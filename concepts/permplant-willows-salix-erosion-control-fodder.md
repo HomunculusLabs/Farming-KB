@@ -142,7 +142,6 @@ as living water pumps, stabilise banks, filter runoff, and provide
 multiple yields. Their coppicing ability ensures sustainable production
 of poles, fodder, and craft materials year after year.
 
-
 ## See Also
 
 - [[soil-erosion-control]]

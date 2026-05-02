@@ -130,4 +130,3 @@ few weeks to establish independently before lifting and
 transplanting to its final position. A handful of bonemeal
 worked into the planting hole gives the young plant the
 phosphorus it needs for continued root development.
-

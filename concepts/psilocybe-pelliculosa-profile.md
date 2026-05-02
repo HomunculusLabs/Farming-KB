@@ -12,7 +12,7 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/unknown-psilocybin-mushroom-image-guide.md
 ---
 
-# [[psilocybe-pelliculosa]]
+# [[psilocybe-pelliculosa-entity]]
 
 Psilocybe pelliculosa is a psilocybin-containing mushroom commonly
 known as the "Conifer Psilocybe" due to its strong association with

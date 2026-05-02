@@ -1,13 +1,13 @@
 ---
-title: Fruit Tree Propagation
+title: fruit tree propagation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [fruit-tree, orchard, homesteading, cultivation, plant-growth, trees, pruning, agriculture]
+tags: [fruit-tree, orchard, [[homesteading]], cultivation, plant-growth, trees, pruning, agriculture]
 sources: []
 ---
 
-# Fruit Tree Propagation
+# fruit tree propagation
 
 Propagating your own fruit trees saves money, preserves heritage varieties, and allows you to create custom combinations of rootstock and scion wood. Most fruit trees do not grow true from seed -- vegetative propagation methods are required to reproduce exact copies of a desired variety.
 

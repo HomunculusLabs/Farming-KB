@@ -144,6 +144,6 @@ beans, peas, and herbs that do not require cold, humid storage.
 - [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
 - [[comparison-root-cellaring-vs-food-dehydration]]
 - [[solomon-food-preservation-storage]]
-- [[food-drying-and-dehydration-methods]]
+- [[natfarm-food-drying-dehydration]]
 - [[root-cellar-design-and-construction]]
 - [[homesteading-food-preservation]]

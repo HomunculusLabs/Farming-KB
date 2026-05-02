@@ -117,7 +117,7 @@ wood buried underneath.
 - psilocybe-aztecorum - closest subtropical relative
 - psilocybe-cyanescens - more potent wood-chip species
 - psilocybe-caerulipes - eastern North American blue foot
-- [[psilocybe-caerulescens]] - Mexican ceremonial species
+- [[psilocybe-caerulescens-entity]] - Mexican ceremonial species
 - psilocybe-cyanofibrillosa - co-occurring Pacific species
 
 ## See Also
@@ -130,4 +130,3 @@ wood buried underneath.
 - Galerina - deadly look-alikes in similar habitats
 - bluing-reaction - chemistry of the bluing response
 - psilocybin-potency - comparative alkaloid data
-

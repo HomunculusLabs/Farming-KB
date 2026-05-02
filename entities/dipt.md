@@ -15,7 +15,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Chemistry
 
 - **IUPAC**: N,N-Diisopropyl-1H-indole-3-ethanamine
@@ -24,7 +23,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **CAS**: 15588-68-8
 - The diisopropyl substitution on the terminal amine is the key structural feature — the bulky isopropyl groups prevent typical 5-HT₂A-mediated visual psychedelic effects while preserving auditory effects
 - Typically a clear to slightly yellow oil; forms crystalline salts (fumarate, hydrochloride)
-
 
 
 
@@ -43,7 +41,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Dosing
 
 - **Threshold**: 15–25 mg (oral)
@@ -51,7 +48,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **Strong**: 75–150 mg (oral)
 - Shulgin's TIHKAL entry describes testing at multiple dose levels, noting the persistent and sometimes disorienting nature of the auditory shifts
 - Insufflation produces faster onset but more uncomfortable physical side effects
-
 
 
 
@@ -68,7 +64,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Research Significance
 
 - One of the most pharmacologically interesting tryptamines due to its **selective auditory** mechanism — provides a unique tool for studying auditory processing in the CNS
@@ -79,12 +74,15 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 
 
-
 ## Safety
 
 - No deaths attributed to DiPT alone in literature
 - Persistent auditory aftereffects are the primary concern — tinnitus-like symptoms reported in some users lasting days to weeks
 - Limited toxicological data; standard tryptamine precautions apply
+
+
+
+
 
 ## See Also
 

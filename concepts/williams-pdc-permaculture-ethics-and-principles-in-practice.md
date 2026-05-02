@@ -141,7 +141,6 @@ environmentalists see Permaculture as a means of protecting the
 environment. All are correct because Permaculture is a holistic system
 that aspires to be as inclusive as possible. The one thing all
 Permaculture Designers agree on is that Permaculture is about
-designing architecture, infrastructure, technology, and lifestyle
 ## See Also
 
 - [[pdc-yield-harvest-and-seasonal-calendar]]

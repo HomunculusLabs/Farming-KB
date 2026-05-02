@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-w
 
 # A.H.R. Buller and the Birth of Experimental Mycology
 
-Arthur Henry Reginald Buller (1874-1944) was the greatest experimental
+Arthur Henry Reginald Buller (1874-1944) was the [[nicholas-money]]imental
 mycologist in history. His forty-year tenure at the University of Manitoba,
 beginning in 1904, transformed mycology from a descriptive science of
 classification into a rigorous experimental discipline. Nicholas Money
@@ -65,13 +65,13 @@ that fungi are among the most sophisticated ballistic organisms on Earth.
 Buller's lonely hours at the microscope produced one of his most piercing
 insights: the demonstration that rust fungi produce basidiospores. The
 appearance of Buller's drop at the base of rust basidiospores established
-that rusts are basidiomycete fungi, distant cousins of mushrooms. This
+that rusts are basidiomycete fungi, distant cousinsfungal-hyphae. This
 resolved a long-standing taxonomic controversy and revealed the true
 evolutionary relationships of these devastating plant pathogens.
 
 ### Hyphal Growth Patterns
 
-Buller studied the directional growth of fungal hyphae with extraordinary
+Buller studied the directionalcoprophilous-fungihyphae with extraordinary
 precision. His work on "hyphal tipping" — how growing hyphal tips respond
 to environmental cues — laid the foundation for modern research on fungal
 cell biology and tropisms.

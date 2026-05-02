@@ -82,7 +82,7 @@ As an island endemic, *Psilocybe guilartensis* is of particular interest for und
 
 ## Similar Species
 
-Within its island range, the most likely confusion is with non-psychoactive *Psilocybe* or *Deconica* species that occupy similar forest litter habitats. The blue-staining reaction is the primary field character separating it from inactive lookalikes. *[[psilocybe-caerulescens]]* of Mexico and Central America is morphologically similar but geographically separated; *P. guilartensis* can be distinguished by its smaller spores and Caribbean distribution. Microscopic comparison of cystidia and spore dimensions is essential for certain identification.
+Within its island range, the most likely confusion is with non-psychoactive *Psilocybe* or *Deconica* species that occupy similar forest litter habitats. The blue-staining reaction is the primary field character separating it from inactive lookalikes. *[[psilocybe-caerulescens-entity]]* of Mexico and Central America is morphologically similar but geographically separated; *P. guilartensis* can be distinguished by its smaller spores and Caribbean distribution. Microscopic comparison of cystidia and spore dimensions is essential for certain identification.
 
 
 

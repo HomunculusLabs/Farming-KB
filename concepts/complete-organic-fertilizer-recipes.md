@@ -116,7 +116,7 @@ Store mixed COF in airtight containers in a cool, dry location. Seedmeals can go
 - complete organic fertilizer recipes
 - [[ph-and-nutrient-availability-garden-soils]]
 - [[composting-science-solomon]]
-- [[compost-tea-brewing-guide]]
+- [[compost-tea-brewing]]
 - [[knf-preparations]]
 - [[organic-vegetable-garden-rotation-deep-beds]]
 

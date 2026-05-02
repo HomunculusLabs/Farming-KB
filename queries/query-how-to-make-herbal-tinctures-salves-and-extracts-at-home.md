@@ -114,6 +114,8 @@ Building a functional home apothecary is a gradual process that deepens naturall
 
 ## Related
 
+- [[query-how-to-make-cannabis-tinctures-at-home]]
+
 - [[query-how-to-make-herbal-infused-oils-at-home]]
 
 - [[query-how-to-make-herbal-salves-and-balms-at-home]]

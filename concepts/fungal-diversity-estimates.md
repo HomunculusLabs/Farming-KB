@@ -126,4 +126,4 @@ diversity gap.
 - [[soil-mycobiome]]
 - [[environmental-dna-metabarcoding]]
 - [[cryptic-fungal-species]]
-- [[tropical-fungal-diversity]]
+- [[biodiversity-fungi-tropical-fungal-diversity]]

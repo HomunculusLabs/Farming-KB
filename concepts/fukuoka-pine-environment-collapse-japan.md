@@ -6,7 +6,7 @@ type: concept
 tags: [environment, forest, japan, mycology]
 sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 ---
-# Fukuoka Pine Environment Collapse in Japan
+# Fukuoka Pine Environmemycorrhizal-fungipan
 Beyond his [[fukuoka-pine-rot-root-cause]],
 [[natural-farming-fukuoka]] drew far-reaching conclusions about what the pine
 die-off signified for Japan's entire natural environment. His warnings connect
@@ -91,7 +91,7 @@ Fukuoka extends his environmental warning to human settlements:
 - The pine epidemic is not an isolated problem but a symptom of "nature in the
   grip of annihilation"
 - Japan's expansion of food imports and exports as part of "the doctrine of an
-  international division of labor" makes it increasingly vulnerable
+  international division ocommon-mycorrhizal-networksgly vulnerable
 ## Mycorrhizal Network Science and Fukuoka's Warnings
 Modern mycorrhizal research has confirmed much of what Fukuoka intuited decades
 ago. Mycorrhizal networks — sometimes called "common mycorrhizal networks" or

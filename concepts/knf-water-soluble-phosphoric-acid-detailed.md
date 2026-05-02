@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [knf, natural-farming]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 # Water-Soluble Phosphoric Acid (WPA)
 
@@ -92,5 +93,5 @@ The stem of sesame contains large amounts of phosphoric acid, making it the idea
 - [[water-soluble-potassium-wp]]
 - [[knf-nutritive-cycle-theory]]
 - [[knf-vegetative-growth-stage]]
-- [[knf-water-soluble-phosphoric-acid]]
+- [[knf-water-soluble-phosphoric-acid-wspa]]
 - [[water-soluble-phosphoric-acid-wpa]]

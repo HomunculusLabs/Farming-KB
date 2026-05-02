@@ -122,4 +122,4 @@ subtle ones, remains important for field identification and ecological study.
 - [[fungal-species-estimates]]
 - [[fungal-taxonomic-impediment]]
 - [[environmental-dna-fungal-survey]]
-- [[tropical-fungal-diversity]]
+- [[biodiversity-fungi-tropical-fungal-diversity]]

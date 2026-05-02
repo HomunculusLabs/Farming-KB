@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-18
 type: concept
 tags: [knf, natural-farming]
-sources: []
+sources:
+  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 # KNF Yeast Preparation
 
@@ -133,6 +134,8 @@ One of yeast's most valuable applications is in farm transition:
 - Like all KNF inputs, store in airtight containers
 
 ## See Also
+
+- [[knf-maltose-preparation]]
 
 - [[knf-brown-rice-vinegar]]
 - [[knf-oriental-herbal-nutrient]]

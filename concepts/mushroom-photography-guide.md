@@ -1,15 +1,9 @@
 ---
-title: Mushroom Photography Guide
-created: 2026-04-12
-updated: 2026-04-12
-type: concept
-tags: [fungi, mushrooms, tools, techniques, education, foraging, ecology, species]
-sources: []
----
+ti
 
 ## Overview
 
-Mushroom photography requires specific techniques different from general nature photography. Fungi are often small, grow in low-light forest environments, and have challenging shapes and textures. This guide covers equipment, lighting, composition, and specialized techniques for capturing compelling mushroom images.
+[[mold-identification-guide|Mushroom]] photography requires specific techniques different from general nature photography. [[wood-decay-fungi|Fungi]] are often small, grow in low-light forest environments, and have challenging shapes and textures. This guide covers equipment, lighting, composition, and specialized techniques for capturing compelling mushroom images.
 
 ## Equipment
 
@@ -141,12 +135,12 @@ Tips:
 ### In Situ Identification Photography
 For documentation and identification purposes:
 - Cap top (showing color, texture, any patterns)
-- Cap underside (gills, pores, teeth -- critical for identification)
+- Cap underside (gills beneath -- critical for identification)
 - Stem (base to top, any ring or volva)
 - Cross-section (cut in half vertically)
 - Habitat (surrounding trees, soil type, associated plants)
 - Spore print (if possible)
 
-### Time-Lapse
+## See Also
 
-Related: [[fukuoka-natural-farming-spiritual-light]], [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]], [[natural-farming-guide-composting-methods-and-techniques]]
+- [[1960s-counterculture-and-magic-mushrooms]]

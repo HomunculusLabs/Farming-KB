@@ -60,7 +60,7 @@ The book emphasizes that the quality of the compost matters enormously:
 - Testing compost biology (through services like Soil Foodweb, Inc.) ensures quality
 - The gardener must know what organisms are needed for particular plants and match the compost accordingly
 
-See also: [[compost-tea-aact]], [[compost-tea-brewing-guide]], [[teaming-with-microbes-overview]], [[hot-composting-method]]
+See also: [[compost-tea-aact]], [[compost-tea-brewing]], [[teaming-with-microbes-overview]], [[hot-composting-method]]
 
 ## See Also
 

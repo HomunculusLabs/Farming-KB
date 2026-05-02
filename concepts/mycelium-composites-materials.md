@@ -81,6 +81,6 @@ While Mycelium Running discusses the structural role of mycelium in nature -- bi
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mushroom-substrates]]
 - [[fungal-ecology-decomposition-cycles]]

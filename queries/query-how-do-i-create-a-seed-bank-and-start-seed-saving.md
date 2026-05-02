@@ -20,7 +20,7 @@ Seed saving is one of the most powerful skills a gardener, homesteader, or perma
 - **Cost elimination**: Stop buying seeds every season. A single tomato produces hundreds of seeds.
 - **Regional adaptation**: Seeds saved from your healthiest plants develop local resilience over 3 to 5 generations.
 - **Genetic diversity preservation**: Commercial seed catalogs consolidate around popular varieties. Home seed savers maintain heirloom and rare genetics that would otherwise disappear.
-- **Food security**: A well-stocked seed bank can feed a family indefinitely. Seeds are lightweight, compact, and store for years under the right conditions.
+- **Food security**: A well-stocked seed bank can feed a family indefinitely. Seeds are lightweight, [[saving-seeds]] store for years under the right conditions.
 - **Community resilience**: Seed libraries and swaps strengthen local food networks and spread climate-adapted genetics.
 
 ## Understanding Seed Types

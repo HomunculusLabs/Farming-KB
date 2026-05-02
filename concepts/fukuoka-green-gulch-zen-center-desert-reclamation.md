@@ -63,7 +63,7 @@ Fukuoka's tears at Green Gulch carry a universal message. They speak to the grie
 
 ## Connection to Natural Farming Principles
 
-The Green Gulch project exemplifies Fukuoka's [[fukuoka-four-principles-natural-farming-detailed]] applied at landscape scale:
+The Green Gulch project exemplifies Fukuoka's [[fukuoka-four-principles-natural-farming]] applied at landscape scale:
 
 1. No cultivation: Seed balls are scattered on the surface of the desert soil without any tilling or preparation.
 

@@ -5,7 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [mycology, remediation, environment]
 sources:
-  - "raw/papers/singh-harbhajan_-mycoremediation-_-[[fungal-bioremediation]].md"
+  - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
   - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 # Mycoremediation Bioreactor Design

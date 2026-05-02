@@ -1,5 +1,5 @@
 ---
-title: Ashwagandha Growing Guide
+title: ashwagandha growing guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -7,7 +7,7 @@ tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, 
 sources: []
 ---
 
-# Ashwagandha Growing Guide (Withania somnifera)
+# ashwagandha growing guide (Withania somnifera)
 
 ## Overview
 
@@ -141,12 +141,8 @@ Harvesting method:
 5. Avoid breaking the root; handle gently
 6. Shake off loose soil; do not wash until ready to process
 
-## Processing and Storage
+## Related
 
-- Wash roots thoroughly, removing all soil
-- Cut larger roots into 1/4-1/2 inch pieces for faster drying
-- Dry on screens at 95-105 degrees F with good air circulation
-- Roots are fully dry when they snap with no flexible center (5-14 days
-  depending on thickness)
-
-Related: [[jadam-root-soil-assessment]], [[beta-diversity-root-soil-compartments-cannabis]], [[jadam-root-diagnosis-soil-health-indicators]]
+- [[adaptogenic-herbs-guide]]
+- [[herbal-plant-remedies]]
+- [[solomon-seed-saving-guide|seed saving]]

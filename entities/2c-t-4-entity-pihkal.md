@@ -57,7 +57,7 @@ PIHKAL entry #41. 2,5-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE.
 > all night, just to release the experience.
 >
 > (with 14 mg) Very rational, benign, and good humored. The insight
-> and calm common to the 2C-T's are present, with less of the push of
+> and calm common to the 2C-T[[mescaline]]esent, with lpsilocybin push of
 > body-energy which makes 2C-T-2 difficult for some people. There are
 > no particular visuals, but then I tend to screen them out
 > consistently, except in cases of mescaline and LSD and psilocybin, so

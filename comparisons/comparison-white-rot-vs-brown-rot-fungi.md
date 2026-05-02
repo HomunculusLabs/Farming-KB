@@ -127,6 +127,8 @@ either approach alone.
 
 ## See Also
 
+- [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]]
+
 - [[comparison-white-rot-fungi-vs-trichoderma]]
 
 - [[white-rot-fungi-bioremediation]]

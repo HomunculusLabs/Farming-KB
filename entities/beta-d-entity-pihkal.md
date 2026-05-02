@@ -87,8 +87,7 @@ PIHKAL entry #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
 > minutes, and at the 1 hour 45 minute point, haven't had any nausea,
 > but I am still careful not to bounce around. Am absolutely grounded
 > even though I am completely into the experience. No more that state
-> in which it is possible to seriously consider trying to rise two
-> inches above the floor and skim, as I do so expertly in dreams. As a
+> in which it is possible to seriously consider trying to rise twomescaline above the floor and skim, as I do so expertly in dreams. As a
 > matter of fact I haven't had those dreams for some time now. This
 > material doesn't allow the straddling of realities as does ordinary
 > mescaline. I know where my realities are, and reality is, basically,

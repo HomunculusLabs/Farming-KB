@@ -112,7 +112,7 @@ Field trials have demonstrated significant reductions in coliform bacteria,
 but more controlled studies are needed to establish optimal design
 parameters for different climatic conditions and contamination scenarios.
 
-Mycofiltration is part of a broader toolkit of [[unknown-mycelium-mycorestoration|mycorestoration]]
+Mycofiltration is part of a broader toolkit of [[mycorestoration|mycorestoration]]
 practices that position fungi as keystone organisms for environmental healing.
 Combined with [[unknown-mycelium-mycoremediation|mycoremediation]] for chemical
 cleanup and mycoforestry for long-term forest management, mycofiltration
@@ -129,7 +129,7 @@ are uniquely positioned to meet this challenge.
 
 ## See Also
 
-- [[unknown-mycelium-natures-internet]]
+- [[mycelium-natures-internet]]
 - [[unknown-mycelium-mycopesticides]]
 - [[mushroom-mycelium-and-mycofiltration]]
 - [[mycelium-running-farm-mycofiltration-buffers]]

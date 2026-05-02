@@ -95,7 +95,7 @@ Pleurotus SMS contains significantly higher primary nutrients than conventional 
 - [[oyster-mushroom-agricultural-waste-substrates-survey]]
 - [[cotter-oyster-mushroom-cultivation]]
 - [[spent-mushroom-substrate-recycling]]
-- [[oyster-mushroom-harvesting-and-post-harvest]]
+- [[oyster-mushroom-harvesting-post-harvest]]
 - [[mushroom-waste-management-composting]]
 - [[mushroom-substrate-pasteurization-comparison]]
 - [[mushroom-post-harvest-handling]]

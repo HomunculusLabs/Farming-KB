@@ -137,5 +137,4 @@ Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain 
 
 Source: raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
 
-
 - raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md

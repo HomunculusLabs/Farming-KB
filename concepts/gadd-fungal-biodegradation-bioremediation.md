@@ -88,6 +88,6 @@ Several mycoremediation strategies have been developed:
 - [[brown-rot-white-rot-fungi-remediation]]
 - [[chlorophenol-degradation-by-white-rot-fungi]]
 - [[mycelium-running-bioremediation-mushroom-projects]]
-- [[mycofiltration]]
+- [[unknown-mycelium-mycofiltration]]
 - [[gadd-fungal-nutrition-metabolism]]
 - [[gadd-fungal-ecology-saprotrophs]]

@@ -86,7 +86,7 @@ Within 3 to 7 days of introducing fruiting conditions, you should see small pin-
 These primordia are the beginnings of your mushroom fruiting bodies and will grow rapidly over the following 3 to 5 days into full-sized mushrooms.
 ### Harvesting and Successive Flushes
 Harvest your mushrooms when the caps have fully expanded but before the edges begin to curl upward significantly.
-The [[oyster-mushroom-harvesting-and-post-harvest]] page describes proper technique for the harvest process.
+The [[oyster-mushroom-harvesting-post-harvest]] page describes proper technique for the harvest process.
 Grasp the entire cluster at the base and twist gently to remove the bunch from the substrate surface.
 Avoid cutting individual mushrooms, as the remaining stumps can become entry points for bacterial contamination on subsequent flushes.
 After harvesting the first flush, continue misting and maintaining humidity conditions for the block.
