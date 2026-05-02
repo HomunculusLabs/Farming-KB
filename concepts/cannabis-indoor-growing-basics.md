@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, equipment, lighting, beginner, cultivation, humidity, climate, ventilation]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Indoor Growing Basics
 ## Overview

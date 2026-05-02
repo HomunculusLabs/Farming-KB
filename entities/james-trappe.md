@@ -44,6 +44,35 @@ His work on fungal spore dispersal revealed that many forest mushrooms cannot be
 
 Trappe's research helps explain the practical limitations of [[mushroom-cultivation-basics]] for many desirable species. While saprotrophic mushrooms like shiitake and oyster mushrooms can be grown on dead organic matter, mycorrhizal species like chanterelles, porcini, and truffles require living plant hosts. This distinction is fundamental to understanding [[mycoforestry]] and [[fungal-ecosystem-roles]] — successful forest management must account for the fungal partners that trees depend on for nutrient uptake.
 
+## Applied Notes
+
+James Trappe should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[fungal-spore-dispersal]]
+- [[spore-dispersal]]
+- [[ectomycorrhizal-fungi]]
+- [[oyster-mushrooms]]
+
 ## See Also
 
 - [[paul-stamets]] — Author who references Trappe's mycorrhizal research extensively

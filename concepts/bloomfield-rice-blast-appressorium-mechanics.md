@@ -136,3 +136,7 @@ Additionally, understanding how the fungus generates such extreme
 pressures could inspire engineering applications, as the fungal
 mechanism accomplishes what human engineers can only achieve with
 complex mechanical systems.
+
+## Related
+
+- [[continuum-mechanics]]

@@ -148,3 +148,7 @@ lose moisture at an optimal rate, and have adequate time for enzymatic processes
 flavor and smoothness. Skipping either step compromises the other; perfectly flushed buds
 ruined by fast drying will taste green, while improperly flushed buds cured for months will
 still burn harshly from residual mineral salts.
+
+## See Also
+
+- [[cannabis-curing-storage-post-harvest-clarke]]

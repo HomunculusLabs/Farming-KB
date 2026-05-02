@@ -26,7 +26,7 @@ Bill Mollison's Permaculture Designers Manual (Chapter 14) provides a comprehens
 
 - **30-200 houses** can support essential services (school, clinic, store)
 - Isolated nuclear families cannot achieve self-reliance
-- The ideal village works as a set of [[permaculture-community-design-methods]] connected to other villages
+- The ideal village works as a set of [[williams-pdc-community-design]] connected to other villages
 - Each village is ideally 20 families/tribes of ~1,000 people within a nation of ~30,000
 
 ## Urban Planning Critique

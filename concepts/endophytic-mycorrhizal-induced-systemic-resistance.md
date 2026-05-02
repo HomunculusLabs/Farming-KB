@@ -129,6 +129,6 @@ sustainable biocontrol agents in agricultural systems.
 - [[mycorrhizal-pathogen-resistance]]
 
 - [[mycorrhizal-pathogen-resistance]]
-- [[nitrogen-transfer-mycorrhizal-networks]]
+- [[nitrogen-transfer-mycorrhizal]]
 - [[agricultural-chemicals-mycorrhizal-impact]]
 - [[mycorrhizal-carbon-nitrogen-economics]]

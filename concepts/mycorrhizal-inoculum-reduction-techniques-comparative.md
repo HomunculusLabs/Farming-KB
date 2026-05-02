@@ -107,5 +107,5 @@ Complete sterilization (autoclaving, gamma irradiation) provides the most effect
 Moderate methods (pasteurization, chemical suppression) offer compromises between inoculum reduction and soil preservation.
 ## See Also
 
-- [[mycorrhizal-inoculum-reduction-techniques]]
+- [[mycorrhizal-inoculum-reduction-techniques-comparative]]
 - [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]

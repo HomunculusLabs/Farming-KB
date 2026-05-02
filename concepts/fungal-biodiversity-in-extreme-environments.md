@@ -105,3 +105,4 @@ The ability of fungi to survive extreme conditions makes them of particular inte
 - [[extremophilic-fungi|extremophilic fungi]]
 - [[freshwater-fungi-biodiversity|freshwater fungal diversity]]
 - [[fungal-ecology-extreme-environments|fungal ecology in extreme environments]]
+- [[fungal-biodiversity-built-environments-indoor-mycobiome]]

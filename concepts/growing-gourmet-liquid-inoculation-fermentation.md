@@ -44,7 +44,7 @@ technique works well with many species but is limited to
 those which form mushrooms under totally sterile conditions.
 Species qualifying include all wood or straw saprophytes:
 
-- [[agrocybe-aegerita]] (Black Poplar Mushroom)
+- [[agrocybe-aegerita-detailed]] (Black Poplar Mushroom)
 - [[flammulina-velutipes]] (Enokiganoderma-lucidum-reishi-comprehensive-profileidum and allies (Reishi)
 - [[lentinula-edodes]] (Shiitake)
 - [[pholiota-nameko]] (Nameko)

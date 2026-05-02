@@ -18,6 +18,8 @@ sources:
 
 The story of Maria Sabina, the Mazatec curandera whose mushroom veladas became the gateway through which [[psilocybin]] entered Western awareness.
 
+
+
 ## [[maria-sabina]] (1894-1985)
 
 [[maria-sabina]] was a Mazatec Indian born in Huautla de Jimenez, Oaxaca, on March 17, 1894. She grew up in a culture where the highest class of curanderos -- the Wise Men and Wise Women -- derived their healing powers from the sacred mushrooms. According to Mazatec belief, mushrooms had a "voice" or personality, and spoke through the healers, revealing the cause and cure of illnesses and the location of lost property.
@@ -29,6 +31,8 @@ Sabina first ate the sacred mushrooms intentionally as a child of about six or s
 She conducted her first healing ceremony when she was approximately eight years old. Her true calling was confirmed when her sister Ana Maria became seriously ill. Sabina ate more mushrooms than ever before and experienced a vision in which a mushroom spirit appeared and asked, "But what do you wish to become, you, [[maria-sabina]]?" She answered "a saint" -- and upon returning to ordinary consciousness, she found in her mind the knowledge of the cure. Ana Maria recovered.
 
 By the time Wasson met her in 1955, she was a renowned *curandera de primer orden* -- a healer of the first quality, *una Senora sin mancha* (a woman without stain) -- within the indigenous community.
+
+
 
 ## The Velada (Mushroom Vigil)
 
@@ -46,6 +50,8 @@ The velada is the Mazatec all-night mushroom ceremony. It is not a religious ser
 
 The velada blends Catholic and indigenous elements: Christian saints and Mazatec spirits coexist within the ceremony. Curanderos and their communities were practicing Catholics who attended Mass for spiritual matters; the mushrooms were used specifically for healing.
 
+
+
 ## Wasson's 1955 Visit
 
 Gordon Wasson arrived in Huautla in June 1955 on his third trip to Mexico, accompanied by photographer Allan Richardson. Through a town official named Garcia, they arranged a meeting with Sabina. Garcia's son was used as the pretext for a consultation.
@@ -53,6 +59,8 @@ Gordon Wasson arrived in Huautla in June 1955 on his third trip to Mexico, accom
 Mushrooms were collected from a rubbish tip at the bottom of the valley and presented to Sabina. She agreed to hold ceremonies on June 29 and July 2, 1955. Wasson consumed six pairs of the "grubby, acrid mushrooms" and described extraordinary visions of brilliant colours, architecture, and the sensation of approaching ineffable divine gates.
 
 Wasson and Richardson became the first known Westerners to intentionally consume [[psilocybin-mushrooms]].
+
+
 
 ## Aftermath and Consequences
 
@@ -64,9 +72,13 @@ Wasson published his account in *LIFE* magazine in 1957, "Seeking the Magic Mush
 - She was variously portrayed as a primitive priestess, a psychedelic shaman (a term she never used), a Malinche-like betrayer, and a folk saint. None of these representations captured her actual complexity.
 - Her autobiography, compiled by Alvaro Estrada from interviews conducted 1975-1976, was edited at the suggestion of Octavio Paz to sound more "primitive" and "in keeping" with her identity, further distorting her authentic voice.
 
+
+
 ## The Continuing Tradition
 
 Despite the impact of mushroom tourism, indigenous healing practices continue in the mountains away from Huautla. The mushroom ceremonies were always only one part of Mazatec medicine, and practitioners in more remote communities still serve their people.
+
+
 
 ## Related Topics
 

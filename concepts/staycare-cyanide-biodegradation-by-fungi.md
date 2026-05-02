@@ -8,7 +8,7 @@ updated: 2026-04-25
 sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 ---
 
-# [[cyanide-biodegradation-by-fungi]]
+# [[staycare-cyanide-biodegradation-by-fungi]]
 
 Cyanide is one of the most rapidly acting metabolic inhibitors known,
 and its release into the environment through industrial processes creates

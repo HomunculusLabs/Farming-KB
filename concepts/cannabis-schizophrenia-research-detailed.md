@@ -112,4 +112,4 @@ Schizophrenia may involve a fundamental challenge in maintaining the boundary be
 
 - [[cannabis-tinnitus-research]]
 
-- [[cannabis-and-tourette-syndrome]]
+- [[blesching-cannabis-tourette-syndrome]]

@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, plant-growth, methods, equipment]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Topping and Training Techniques

@@ -22,7 +22,7 @@ Younger mushrooms are more flavorful, tighter fleshed, often more colorful, and 
 
 ## Mushrooms with Partial Veils
 
-Species with partial veils, like the Button Mushroom ([[agaricus-brunnescens]]) or the Black Poplar Mushroom ([[agrocybe-aegerita]]), are best picked while the partial veils are intact. Partial veils protect the gills, limiting moisture loss, preventing spore release, and rupture only as the caps expand.
+Species with partial veils, like the Button Mushroom ([[agaricus-brunnescens]]) or the Black Poplar Mushroom ([[agrocybe-aegerita-detailed]]), are best picked while the partial veils are intact. Partial veils protect the gills, limiting moisture loss, preventing spore release, and rupture only as the caps expand.
 
 ## Harvesting Clusters (Bouquets)
 

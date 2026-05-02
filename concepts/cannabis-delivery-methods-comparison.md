@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Delivery Methods Comparison
 
@@ -145,3 +146,5 @@ It is not safe to drive or operate heavy machinery after taking any psychoactive
 
 ## See Also
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
+- [[reactive-metabolites-and-bioactivation-toxicology]]
+- [[first-pass-metabolism-and-oral-bioavailability]]

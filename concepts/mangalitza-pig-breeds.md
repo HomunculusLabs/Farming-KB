@@ -10,11 +10,27 @@ sources:
 
 # Mangalitza and Old Pig Breeds
 
+
+
+
+
+
+
+
+
 ## Why Old Breeds
 
 Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. [[sepp-holzer]] only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale.
 
 Free-roaming pigs are still a rarity in Austria and raise a great deal of public interest. The strikingly coloured and less well-known old breeds with their piglets fascinate visitors, encouraging acceptance of endangered domestic breeds and making direct marketing of their products easier.
+
+
+
+
+
+
+
+
 
 ## Breed Profiles
 
@@ -54,6 +70,14 @@ Free-roaming pigs are still a rarity in Austria and raise a great deal of public
 - **Diet:** High proportion from foraging; well suited to pastures
 - **Product:** Very high quality meat, relatively large fat layer (similar to Mangalitza)
 - **Status:** Critically endangered
+
+
+
+
+
+
+
+
 
 ## Related
 

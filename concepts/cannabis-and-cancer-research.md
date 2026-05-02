@@ -145,6 +145,6 @@ Epidemiological studies have NOT found increased cancer risk from cannabis smoki
 
 Uwe Blesching, The Cannabis Health Index (2015), Cancer sections
 - [[psk-breast-lung-cancer-clinical-trials]]
-- [[cannabis-and-prostate-cancer-research]]
+- [[blesching-cannabis-prostate-cancer]]
 - [[cannabis-and-liver-cancer-research]]
-- [[cannabis-and-pancreatic-cancer-research]]
+- [[blesching-cannabis-pancreatic-cancer]]

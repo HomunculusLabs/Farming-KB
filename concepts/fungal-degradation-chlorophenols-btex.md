@@ -113,3 +113,4 @@ A silicone membrane biofilm reactor was used to study fungal LiP production and 
 - [[fungal-biodegradation-chlorinated-aromatics-and-btex]]
 
 - [[mycorrhizal-fungi-bioremediation]]
+- [[fungal-btex-volatile-compound-degradation]]

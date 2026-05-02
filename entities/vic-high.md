@@ -52,3 +52,32 @@ While [[robert-clarke]]'s *Marijuana Botany* covers the botanical science, Vic H
 - [[cannabis-breeding-basics]] — introductory breeding guide
 - [[cannabis-breeding-basics]] — advanced breeding strategies including cubing
 - [[mushroom-genetics-strain-selection]] — strain selection principles applicable across species
+
+## Applied Notes
+
+Vic High should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
+- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
+- [[green-cannabis-grow-bible-strain-selection-genetics]]
+- [[dom]]

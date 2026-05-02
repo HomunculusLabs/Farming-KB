@@ -123,9 +123,7 @@ lycorine in experimental animals is approximately 2-5 mg/kg body weight,
 though individual sensitivity varies. Treatment of poisoning is supportive,
 with attention to fluid and electrolyte balance, cardiac monitoring, and
 management of seizures if they occur.
-
 ## Pharmacological Research
-
 The Amaryllidaceae alkaloids found in *Pancratium* and related genera have
 attracted significant pharmaceutical interest in recent decades:
 - **Anticancer activity** — pancratistatin and related phenanthridone
@@ -146,4 +144,7 @@ attracted significant pharmaceutical interest in recent decades:
   against *Plasmodium falciparum*, the causative agent of malaria
 These pharmacological properties have driven interest in the sustainable
 
-## See Also
+## Related Topics
+
+## Related Topics
+- [[datura-stramonium]]

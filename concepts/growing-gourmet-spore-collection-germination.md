@@ -148,3 +148,4 @@ Spores offer several advantages over cloning:
 
 ## See Also
 - [[spore-print]]
+- [[growing-gourmet-spore-germination-strain-isolation]]

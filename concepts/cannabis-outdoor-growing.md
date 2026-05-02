@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, outdoor, climate, timeline, companion-planting, cover-crop, organic, beginner, cultivation]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Outdoor Growing
 ## Overview

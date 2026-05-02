@@ -10,13 +10,25 @@ sources:
 
 # Paddock System for Pigs
 
+
+
+
+
 ## Overview
 
 On the Krameterhof, all land is managed as part of a paddock system. All livestock are kept outside the whole year round. Animals that have their natural needs fulfilled remain healthy and happy, grow well, and provide good offspring. The system moves in a circle, making additional feeding unnecessary because the animals work for themselves.
 
+
+
+
+
 ## Stocking Rate
 
 Depending on soil conditions and vegetation, Sepp Holzer keeps between three and twelve pigs per hectare in a paddock. The stocking rate should be adapted to fit the amount of food naturally available.
+
+
+
+
 
 ## Key Design Elements
 
@@ -36,6 +48,10 @@ Simple open structures made of rough timber logs or stones are built for shelter
 
 Extra feeding is rarely necessary because there is enough vegetation throughout the year. Even in winter, pigs find food beneath the snow -- they dig up Jerusalem artichokes, which taste like sweet potato. Always ensure enough tubers and root crops remain in the soil despite grazing, so plants can propagate themselves.
 
+
+
+
+
 ## The Paddock Cycle
 
 1. Pigs move from one paddock to the next
@@ -46,6 +62,10 @@ Extra feeding is rarely necessary because there is enough vegetation throughout 
 
 The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: the soil is not only loosened but the tubers are spread. After grazing, conditions for propagation, regeneration, and growth are better than in untilled soil. Paddocks are simultaneously working as arable land in a permaculture system.
 
+
+
+
+
 ## Pigs as Helpers
 
 - **Soil preparation:** Pigs plough through top layers of earth searching for food, loosening and aerating the soil
@@ -53,6 +73,10 @@ The pigs' digging behaviour is particularly helpful with Jerusalem artichokes: t
 - **Snail regulation:** Movable pens place pigs where snail populations are high. Mix collected snails with normal feed until pigs acquire a taste. Pigs need a great deal of water to digest snails.
 - **Insect control:** Soil insects like cockchafers and chafers are controlled by rooting activity
 - **Cyclical benefit:** Soil prepared and fertilised by pigs -> lush plant growth -> windfall fruit and roots as feed -> snails and insects eaten -> finest bacon from humanely kept animals
+
+
+
+
 
 ## Related
 

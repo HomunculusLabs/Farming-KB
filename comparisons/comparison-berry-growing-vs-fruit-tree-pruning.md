@@ -147,3 +147,7 @@ partial-shade edges of the orchard where fruit trees cast afternoon shadows.
 This layered approach maximizes food production per square foot and creates a
 resilient, diversified perennial fruit production system that produces from June
 (strawberries) through November (late apples and elderberries).
+
+## See Also
+
+- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]

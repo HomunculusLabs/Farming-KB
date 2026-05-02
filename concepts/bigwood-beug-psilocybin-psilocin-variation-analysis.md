@@ -39,12 +39,12 @@ Bigwood and Beug's 1982 study documenting flush-by-flush variation in psilocybin
 Three minicultures were tracked across 5-6 flushes:
 
 Flush | MC1 Psilocybin (mg/g) | MC1 Psilocin | MC2 Psilocybin | MC2 Psilocin | MC3 Psilocybin | MC3 Psilocin
-1    | 8.3                    | 0.5          | 5.1             | 0            | 7.6             | 0
-2    | 6.5                    | 1.5          | 7.0             | 0            | 6.2             | 0
-3    | 13.3                   | 1.0          | 4.7             | 1.7          | 5.3             | 0.9
-4    | 4.8                    | 2.6          | 3.7             | 2.9          | 3.2             | 1.8
-5    | --                     | --           | 5.2             | 2.2          | 6.7             | 1.7
-6    | 6.8                    | 0.5          | --              | --           | --              | --
+ 8.3                    | 0.5          | 5.1             | 0            | 7.6             | 0
+ 6.5                    | 1.5          | 7.0             | 0            | 6.2             | 0
+ 13.3                   | 1.0          | 4.7             | 1.7          | 5.3             | 0.9
+ 4.8                    | 2.6          | 3.7             | 2.9          | 3.2             | 1.8
+ --                     | --           | 5.2             | 2.2          | 6.7             | 1.7
+ 6.8                    | 0.5          | --              | --           | --              | --
 
 ### Key Patterns
 
@@ -80,11 +80,11 @@ Amazon      | 5.7                    | 0.1          | 5.7             | 0
 Five street samples (rye-grown, flush number unknown):
 
 Sample | Psilocybin (mg/g) | Psilocin
-1      | 5.6               | 0
-2      | 6.2               | 0
-3      | 0.7               | 0.3
-4      | 0.7               | 0.3
-5      | 1.3               | 0.3
+ 5.6               | 0
+ 6.2               | 0
+ 0.7               | 0.3
+ 0.7               | 0.3
+ 1.3               | 0.3
 
 - Psilocybin varied over a factor of ten (0.7 to 6.2 mg/g)
 - Consistently low psilocin levels (suggesting early-flush harvest or degradation)

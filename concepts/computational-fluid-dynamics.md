@@ -135,7 +135,6 @@ Poor meshes may create artificial diffusion, unstable iterations, nonphysical pr
 
 Responsible CFD treats color plots as diagnostic evidence, not proof; numerical results need budgets, comparisons, and uncertainty estimates.
 
-
 ## See Also
 - [[navier-stokes-equations-fluid-dynamics]]
 - [[reynolds-number-and-flow-regimes]]

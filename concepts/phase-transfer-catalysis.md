@@ -141,10 +141,6 @@ Wikipedia: "Phase-transfer catalyst" for definitions, catalyst classes, examples
 
 General organic process chemistry literature on quaternary ammonium salts, crown ethers, solid-liquid PTC, and asymmetric phase transfer catalysis.
 
-## See Also
 
-[[pericyclic-reactions-organic-chemistry|organic chemistry]]
-green chemistry
-[[nucleophilic-substitution-sn1-sn2-reactions|nucleophilic substitution]]
-reaction kinetics
-catalysis
+## Related Topics
+- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]

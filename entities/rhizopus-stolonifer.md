@@ -138,3 +138,8 @@ Its black sporangia make mature colonies visually distinctive.
 It is connected to bread mold, fruit rot, and mushroom contamination.
 The organism spreads readily by airborne spores.
 Good sterile technique, moisture control, and prompt disposal are the main defenses.
+
+## Related Topics
+- [[mushroom-cultivation]]
+- [[agar]]
+- [[mycelium]]

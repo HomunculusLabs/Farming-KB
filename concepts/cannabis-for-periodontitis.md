@@ -107,6 +107,6 @@ High-flavanol cocoa reduces oral inflammation and has antibacterial properties a
 Uwe Blesching, The Cannabis Health Index (2015), Periodontitis section
 - [[cannabis-anti-inflammatory-applications]]
 - [[cannabis-mind-body-medicine-integration]]
-- [[cannabis-and-prostate-cancer-research]]
+- [[blesching-cannabis-prostate-cancer]]
 - [[water-pathways-through-plants]]
 - [[blesching-cannabis-cervical-cancer]]

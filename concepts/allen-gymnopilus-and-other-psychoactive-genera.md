@@ -147,3 +147,4 @@ pore, while *Panaeolus* spores possess one.
 - [[allen-pans-cyanescens-australia-distribution]]
 - [[allen-psilocybin-potency-australian-species]]
 - [[allen-subtropical-australia-hunting-techniques]]
+- [[gymnopilus-luteus]]

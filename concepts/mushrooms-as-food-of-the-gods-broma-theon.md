@@ -43,6 +43,35 @@ changes.
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-food-gods-graves-psilocybin-eleusis]]
 
+## Applied Notes
+
+Mushrooms as Food of the Gods (Broma Theon) should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[psilocybin]]
+- [[dom]]
+- [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
+- [[piriformospora-indica-in-plant-fungal-co-culture]]
+
 ## See Also
 
 - [[mckenna-food-of-the-gods-thesis]]

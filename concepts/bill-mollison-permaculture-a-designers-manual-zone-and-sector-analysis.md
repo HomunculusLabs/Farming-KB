@@ -142,6 +142,6 @@ the core [[permaculture-design]] of efficiency and multifunctionality.
 
 ## See Also
 
-- [[permaculture-zone-analysis]]
+- [[williams-pdc-zone-analysis]]
 
 - bill mollison permaculture a designers manual zone and sector analysis

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# [[cannabis-and-tourette-syndrome]]
+# [[blesching-cannabis-tourette-syndrome]]
 
 [[cannabis-health-index]] (CHI) score: **38** (out of 100)
 Based on **10 clinical studies** reviewed by Blesching.

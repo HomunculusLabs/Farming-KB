@@ -130,6 +130,6 @@ by centuries or millennia.
 
 ## See Also
 
-- [[ayahuasca-analogs-dmt-plants-guide]]
+- [[schultes-ayahuasca-analogs-dmt-plants]]
 
 - [[schultes-ayahuasca-preparations]]

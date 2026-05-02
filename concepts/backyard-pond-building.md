@@ -102,3 +102,7 @@ In cold climates, ponds need winter preparation:
 -  **Tropical plants** must be brought indoors or treated as annuals.
 ## Integration with Homestead Systems
 A backyard pond connects to broader homestead water management. Overflow can feed [[passive-irrigation-systems]] for garden beds. Pond water can supplement [[rainwater-harvesting-systems]] during dry periods. The pond creates microclimate benefits — cooling adjacent areas in summer and providing humidity for nearby plantings. Combined with [[aquaponics-fish-species]] knowledge, a pond can serve as the foundation for a more intensive aquaponic production system. Fish waste from the pond can also enrich [[drip-irrigation-guide]] water for adjacent garden beds.
+
+## Related
+
+- [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]

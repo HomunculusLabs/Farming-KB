@@ -13,11 +13,19 @@ sources:
 
 Earthworks are the deliberate shaping of land to harvest, store, and distribute water; create growing surfaces; manage access; and prevent erosion. Holmgren describes bulldozers and other large earth-moving equipment as perhaps the most dramatic example of appropriate use of fossil fuels promoted in permaculture — used to create well-designed systems that can then be maintained indefinitely by human labor if necessary.
 
+
+
+
+
 ## Philosophy
 
 The goal of permaculture earthworks is to slow, spread, and sink water across the landscape. Holmgren notes that keyline and other catchment-based strategies reflect the broad design rules of natural catchments: slow the flow of both water and nutrients down the landscape and cycle them through soil and plants as many times as possible.
 
 Well-designed earthworks require little maintenance. They are the permanent infrastructure on which biological systems are then established. The primary function of surplus runoff water stored in keyline dams is to irrigate pasture to rapidly build soil fertility and structure (which can then store more water).
+
+
+
+
 
 ## Types of Earthworks
 
@@ -47,9 +55,17 @@ Roads placed on contour or slightly off-contour serve as diversion drains, movin
 
 In drylands, orchard trees are planted in small depressions connected by a network of shallow trenches. The trench network collects rain and runoff water falling over a large area and delivers it to the base of each tree.
 
+
+
+
+
 ## Appropriate Scale
 
 Holmgren emphasizes that earthworks should be done at the smallest scale that is practical. Large machines are used for initial earth-moving, but the resulting systems should be maintainable by hand. This is the appropriate use of non-renewable resources (fossil fuels) to establish systems that then run on renewable energy (gravity, biological processes, human labor).
+
+
+
+
 
 ## Order of Operations
 
@@ -61,6 +77,10 @@ In permaculture design, earthworks are typically done first because they:
 4. Set the template for zones, access, and planting
 
 After earthworks, tree planting, soil building, and detailed garden design follow.
+
+
+
+
 
 ## Connections
 

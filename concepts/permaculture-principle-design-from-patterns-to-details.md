@@ -54,3 +54,32 @@ An important insight from this principle is that change at different scales has 
 ## Connections
 
 This principle connects to [[permaculture-principle-observe-and-interact]] (observation reveals patterns), [[permaculture-principle-use-small-and-slow-solutions]] (cellular design at appropriate scale), [[permaculture-principle-use-edges-and-value-the-marginal]] (edge is a pattern of exchange), and herb spiral design (spiral pattern applied in garden design). See also [[permaculture-principles]], [[permaculture-zones-and-sectors]], and [[patterns-in-nature]].
+
+## Applied Notes
+
+Permaculture Principle 7 — Design from Patterns to Details should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[design-from-patterns-to-details]]
+- [[permaculture-design]]
+- [[david-holmgren]]
+- [[permaculture]]

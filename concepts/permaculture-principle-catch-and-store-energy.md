@@ -14,9 +14,21 @@ The second of David Holmgren's twelve permaculture design principles. In the con
 
 > "By developing systems that collect resources at peak abundance, we can use them in times of need." — David Holmgren
 
+
+
+
+
+
+
 ## Core Concept
 
 Industrial society has been powered by the one-time drawdown of fossil fuel energy — ancient stored sunlight. Holmgren argues that sustainable systems must actively capture and store current energy flows: sunlight, water, and biological productivity. These storages constitute the natural capital on which all life depends.
+
+
+
+
+
+
 
 ## Key Forms of Energy Storage
 
@@ -56,9 +68,21 @@ Trees are essential to sustainable agriculture because they efficiently absorb a
 
 Saved seed represents a superabundant, dense form of stored genetic energy. Holmgren describes the Permaculture food garden as a "landscape storage of very special energy — genetic information." Regular growing and saving of seed, especially of old, local, and rare varieties abandoned by agribusiness, is one of the most important examples of catching and storing energy.
 
+
+
+
+
+
+
 ## Characteristics of Natural Capital
 
 Holmgren identifies key characteristics that water, soil, trees, and seed all share as forms of natural capital: they are renewable through biological processes, they provide multiple functions simultaneously, they increase in value over time when managed well, and they are foundational to all productive systems.
+
+
+
+
+
+
 
 ## Connections
 

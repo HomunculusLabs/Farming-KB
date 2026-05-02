@@ -63,7 +63,7 @@ Polycyclic aromatic hydrocarbons (PAHs) are priority pollutants at creosote, coa
 
 ### Other Species
 - Kuehneromyces mutabilis: 47.7% pyrene mineralization; removed ~50% and 75% in sterilized/nonsterile soils
-- [[agrocybe-aegerita]]: 38.5% pyrene mineralization; 10.7% phenanthrene on straw
+- [[agrocybe-aegerita-detailed]]: 38.5% pyrene mineralization; 10.7% phenanthrene on straw
 - Laetiporus sulphureus: 10.7% phenanthrene, 4.3% pyrene on straw
 - Absidia cylindrospora: 98% fluorene degradation in 288 hours (vs 54% by native microflora)
 - Fusarium F5: 27.5% PAH degradation from contaminated soil

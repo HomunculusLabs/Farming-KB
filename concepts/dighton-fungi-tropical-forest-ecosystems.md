@@ -127,7 +127,7 @@ nutrient cycling that characterize these productive ecosystems.
 
 ## See Also
 
-- [[fungi-tropical-forest-ecosystems]]
+- [[dighton-fungi-tropical-forest-ecosystems]]
 
 - [[fungal-decomposition]]
 - [[dighton-fungal-decomposition-nutrient-cycling]]

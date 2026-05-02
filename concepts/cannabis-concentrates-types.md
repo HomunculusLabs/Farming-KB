@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, comparison, potency, equipment, chemistry]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Overview
 Cannabis concentrates are products made by extracting and concentrating cannabinoids and terpenes from the cannabis plant. They range from relatively simple mechanical preparations (kief, dry sift) to highly refined solvent-based extracts (shatter, distillate). Potency typically ranges from 40-99% THC compared to 15-30% in raw flower.

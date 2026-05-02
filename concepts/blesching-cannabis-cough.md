@@ -112,7 +112,7 @@ combined total)
 
 - [[blesching-cannabis-colds-and-flu]] - Cough as a symptom of colds
   and influenza
-- [[blesching-cannabis-asthma]] - Bronchodilatory effects of cannabis
+- [[cannabis-and-asthma]] - Bronchodilatory effects of cannabis
   on airways
 - [[blesching-cannabis-copd]] - Chronic obstructive pulmonary disease
   and cannabis

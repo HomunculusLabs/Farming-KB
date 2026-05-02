@@ -88,7 +88,7 @@ Fungi complement bacterial systems by handling conditions where bacteria fail. C
 
 ## Related
 
-- [[cyanide-biodegradation-by-fungi]] Concepts
+- [[staycare-cyanide-biodegradation-by-fungi]] Concepts
 
 - [[fungal-cyanide-degradation]]
 - [[fungal-bioremediation-mechanisms]]

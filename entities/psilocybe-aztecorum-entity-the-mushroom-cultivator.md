@@ -136,3 +136,4 @@ extensively documented.
 - [[psilocybe-cubensis-strains-names-and-marketing]]
 - [[psilocybe-tampanensis]]
 - [[dactylium-dendroides-entity-the-mushroom-cultivator]]
+- [[psilocybe-strictipes-entity]]

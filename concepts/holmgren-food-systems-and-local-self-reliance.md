@@ -133,3 +133,7 @@ See also [[permaculture-household-economics]],
 [[permaculture-self-reliance-and-political-action]],
 [[holmgren-permaculture-diversity-principle]],
 [[holmgren-lets-systems-and-alternative-economics]].
+
+## Related
+
+- [[williams-pdc-food-systems]]

@@ -126,7 +126,7 @@ conditions necessary for rhizosphere remediation.
 ## See Also
 
 - [[fungal-metal-transformations]]
-- [[cyanide-biodegradation-by-fungi]]
+- [[staycare-cyanide-biodegradation-by-fungi]]
 - [[mycorrhizal-fungi]]
 - [[mycorrhizal-pah-tnt-degradation]]
 - [[phytoremediation-mechanisms]]

@@ -118,3 +118,4 @@ Instead of interplanting beans with corn, gardeners should:
   accumulate nitrogen beyond legumes
 - [[dynamic-accumulators-overview]] — broader context on how
   plants cycle nutrients in the garden
+- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]

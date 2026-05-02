@@ -143,4 +143,3 @@ lineages within the psilocybin-containing fungi.
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
 - [[allen-psilocybin-potency-australian-species]]
 - [[allen-subtropical-australia-hunting-techniques]]
-   147|

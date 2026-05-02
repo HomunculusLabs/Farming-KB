@@ -110,7 +110,7 @@ The lack of standardization across laboratories limits meta-analysis and compari
 
 - [[mycorrhizal-inoculum-production]]
 
-- [[mycorrhizal-inoculum-reduction-techniques]]
+- [[mycorrhizal-inoculum-reduction-techniques-comparative]]
 
 - [[arbuscular-mycorrhizal-fungi]]
 

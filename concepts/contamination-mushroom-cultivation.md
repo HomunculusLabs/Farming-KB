@@ -134,3 +134,5 @@ release into the growing environment.
 - [[mushroom-cultivation-pests-and-contamination]]
 - [[mushroom-cultivation-contamination-prevention]]
 - contamination mushroom cultivation
+- [[mushroom-contamination-and-biocontrol]]
+- [[mushroom-hygiene-and-contamination]]

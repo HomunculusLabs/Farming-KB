@@ -46,6 +46,35 @@ Blesching's bibliography extends beyond cannabis:
 
 Blesching's work is notable for bridging the gap between clinical pharmacology and holistic health practice. He advocates for what he calls a "subjective therapeutic window" — the idea that optimal cannabis dosing is highly individual and must be determined through careful self-observation. His inclusion of mindfulness techniques alongside cannabinoid science reflects an integrative medicine perspective that considers both the biochemical and psychological dimensions of healing.
 
+## Applied Notes
+
+Uwe Blesching should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[cannabis-health-index]]
+- [[blesching-cannabis-health-index-mental-health-applications]]
+- [[blesching-cannabis-health-index-autoimmune-conditions]]
+- [[serotonin]]
+
 ## See Also
 
 - [[cannabis-health-therapeutics]] — Medical cannabis by condition

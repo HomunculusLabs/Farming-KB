@@ -129,5 +129,5 @@ While bacteria like Pseudomonas fluorescens possess cyanide oxygenase and cyanid
 - [[white-rot-fungi-bioremediation]]
 - [[fungal-cyanide-biodegradation-detailed]]
 
-- [[cyanide-biodegradation-by-fungi]]
+- [[staycare-cyanide-biodegradation-by-fungi]]
 - [[singh-fungal-treatment-industrial-wastewaters-overview]]

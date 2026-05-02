@@ -1,5 +1,11 @@
 ---
-ti
+title: Soil Conditioners Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: concept
+tags: [soil-amendment, organic, gardening, soil, compost, nutrients, npk]
+sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
+---
 
 # Soil Conditioners Guide
 
@@ -29,7 +35,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - Contains small/variable amounts of major plant foods, especially potassium
 - Recent research shows seaweed contains growth-promoting hormones absorbable through leaves
 - Releases nutrients otherwise unavailable to plants
-- Best use for small quantities: as a [[composting-materials-alternative|compost activator]] (alginic acid attracts compost bacteria)
+- Best use for small quantities: as a compost activator (see [[composting-materials-alternative]]; alginic acid attracts compost bacteria)
 - Most effective if composted, but rots quickly — some dig it in fresh
 
 ### Spent Hops

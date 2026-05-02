@@ -96,7 +96,7 @@ twentieth century.
 
 Beauveria bassiana has attracted intense interest as a biological control agent
 against insect pests. The fungus naturally infects over 200 species of insects
-and is considered one of the most promising alternatives to [[jadam-natural-vs-chemical-pesticide]]s.
+and is considered one of the most promising alternatives to chemical pesticides.
 When conidia land on an insect's cuticle, they germinate, produce a penetration
 peg that bores through the exoskeleton, and then proliferate within the hemocoel
 (body cavity). The insect dies within days, and the fungus erupts from the

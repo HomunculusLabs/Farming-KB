@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, health, medicine, psychopharmacology, therapy, beginner]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis and Exercise Recovery
 ## Overview

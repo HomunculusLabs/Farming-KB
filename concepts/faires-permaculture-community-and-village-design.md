@@ -143,6 +143,6 @@ Three primary methods:
 ## Related
 
 - [[aquaculture-in-permaculture]]
-- [[permaculture-community-design-methods]]
+- [[williams-pdc-community-design]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[jadam-fruit-tree-winter-pest-control]]

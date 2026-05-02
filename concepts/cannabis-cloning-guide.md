@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, germination, indoor, plant-growth, equipment, troubleshooting]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Overview
 Cloning is the process of taking a cutting from a mature cannabis plant and encouraging it to grow its own root system, creating a genetically identical copy. Cloning preserves desirable traits from mother plants and eliminates the genetic variability of seeds.

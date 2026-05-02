@@ -110,7 +110,7 @@ chemicals into your growing soil.
 Rot-resistant species can be used in moderation at the bed's core
 but should not dominate the wood fill.
 Inoculating the wood with fungi, as described in
-[[staycare-ericoid-mycorrhizal-fungi-in-bioremediation]], can accelerate decomposition.
+[[singh-ericoid-mycorrhizal-fungi-remediation]], can accelerate decomposition.
 
 ## Climate-Specific Recommendations
 

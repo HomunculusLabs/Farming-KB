@@ -118,3 +118,7 @@ attract their own predators. Slopes that cause erosion can be terraced and
 used for gravity-fed water systems. The permaculture designer reframes
 obstacles as resources and designs systems that turn liabilities into assets
 through creative placement and connection of elements.
+
+## Related
+
+- [[williams-pdc-ecological-design-principles]]

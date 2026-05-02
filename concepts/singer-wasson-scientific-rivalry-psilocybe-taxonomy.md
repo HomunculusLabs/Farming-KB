@@ -135,3 +135,4 @@ had been used by indigenous peoples for millennia.
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[shroom-cultural-history-western-discovery-valentina-wasson]]
 - [[psilocybin-mushroom-chemistry]]
+- [[deconica-crobula]]

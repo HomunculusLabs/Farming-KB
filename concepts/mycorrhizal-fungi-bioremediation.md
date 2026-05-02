@@ -80,7 +80,7 @@ The combination of mycorrhizal fungi and plants for [[fungal-oil-petroleum-biore
 
 ## See Also
 
-- [[staycare-ericoid-mycorrhizal-fungi-in-bioremediation]]
+- [[singh-ericoid-mycorrhizal-fungi-remediation]]
 
 - [[mycorrhiza-soil-bioremediation]]
 

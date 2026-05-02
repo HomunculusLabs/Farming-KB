@@ -47,6 +47,35 @@ DMMDA-2 is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
+## Applied Notes
+
+DMMDA-2 -- 2,3-DIMETHOXY-4,5-METHYLENEDIOXYAMPHETAMINE -- PIHKAL Entry #59 should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[mescaline]]
+- [[dom]]
+- [[qualitative-comments-methodology-pihkal]]
+- [[cannabis-safety-profile-and-overdose-risk]]
+
 ## See Also
 
 - [[dmmda-entity-pihkal]]

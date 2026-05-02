@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, lighting, equipment, plant-growth]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Lighting Guide
 Light is the single most important factor in indoor cannabis cultivation. It drives photosynthesis, regulates the plant's life cycle through photoperiod, and directly influences yield, potency, and morphology. This guide covers the science of grow lighting, fixture types, and practical setup guidance.

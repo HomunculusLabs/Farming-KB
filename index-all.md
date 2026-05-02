@@ -11273,3 +11273,5 @@
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[zygomycete-phylum-guide]]
 - [[zygomycota-phylogeny-classification-non-monophyletic]]
+- [[reactive-metabolites-and-bioactivation-toxicology]]
+- [[first-pass-metabolism-and-oral-bioavailability]]

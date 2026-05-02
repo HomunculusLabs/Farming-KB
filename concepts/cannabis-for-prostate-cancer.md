@@ -87,4 +87,4 @@ the therapeutic potential explored throughout related entries in the wiki.
 
 Blesching, U. (2015). *The Cannabis Health Index*. Chapter IV: "Prostate Cancer." North Atlantic Books.
 - [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
-- [[cannabis-and-prostate-cancer-research]]
+- [[blesching-cannabis-prostate-cancer]]

@@ -73,7 +73,7 @@ Endophytic fungi, particularly clavicipitaceous endophytes in grasses, can provi
 
 ## See Also
 
-- [[biodiversity-fungi-living-plant-substrata]]
+- [[fungi-living-plant-substrata]]
 
 - [[biodiversity-fungi-endophytes-tropical-plants]]
 - [[biodiversity-fungi-soil-ecosystems]]

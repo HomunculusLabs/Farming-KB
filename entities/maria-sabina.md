@@ -49,6 +49,35 @@ María Sabina remains a pivotal figure in the history of ethnopharmacology and p
 
 She died in poverty on November 22, 1985, in Huautla de Jiménez. In the decades since her death, she has become an iconic figure representing the intersection of indigenous wisdom and the global psychedelic movement.
 
+## Applied Notes
+
+María Sabina should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[psilocybin-mushroom]]
+- [[gordon-wasson]]
+- [[psilocybe-mexicana]]
+- [[psilocybin]]
+
 ## See Also
 
 - [[maria-sabina-mazatec-mushroom-curandera]]

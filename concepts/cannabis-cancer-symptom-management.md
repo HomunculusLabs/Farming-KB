@@ -90,4 +90,4 @@ Patients undergoing chemotherapy or radiation should discuss cannabis use with t
 - [[cannabis-immune-modulation]]
 - [[fukuoka-mandarin-orange-citrus]]
 - [[fukuoka-natural-body-health-relaxation]]
-- [[cannabis-and-prostate-cancer-research]]
+- [[blesching-cannabis-prostate-cancer]]

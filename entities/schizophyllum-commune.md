@@ -15,9 +15,15 @@ sources:
 
 # Schizophyllum commune
 
+
+
+
 ## Overview
 
 *Schizophyllum commune* is a cosmopolitan basidiomycete mushroom and one of the most widely distributed fungal species on Earth, found on every continent including Antarctica. Commonly known as the split-gill fungus, it grows on dead or dying wood of a broad range of hardwood and softwood species. Despite being generally considered inedible due to its tough texture, *S. commune* has become a model organism for fungal genetics and has demonstrated significant medicinal properties.
+
+
+
 
 ## Taxonomy and Classification
 
@@ -29,6 +35,9 @@ sources:
 
 The species was originally described by Elias Magnus Fries in 1815. It was long considered a single morphological species, but molecular phylogenetics has revealed it comprises at least 15–20 cryptic biological species (phylogenetic species) with global distributions, making it an excellent system for studying fungal speciation and biogeography.
 
+
+
+
 ## Morphology
 
 The fruiting body is small (1–4 cm across), shell-shaped to fan-shaped, with a short lateral stem or growing directly from wood. The most distinctive feature is the gill structure — the gills are longitudinally split (hence *schizo* = split, *phyllum* = gill), forming paired lamellae that can dry and rehydrate repeatedly. Key features:
@@ -39,6 +48,9 @@ The fruiting body is small (1–4 cm across), shell-shaped to fan-shaped, with a
 - **Spores**: Cylindrical, smooth, 5–7 × 1.5–2.5 μm
 - **Desiccation tolerance**: Can survive extreme drying and rehydrate to resume spore production — one of the most desiccation-tolerant fungi known
 
+
+
+
 ## Genetic Model Organism
 
 *S. commune* was the first basidiomycete to have its genome fully sequenced (2004) and serves as the primary genetic model for the mushroom-forming fungi. Major contributions include:
@@ -47,6 +59,9 @@ The fruiting body is small (1–4 cm across), shell-shaped to fan-shaped, with a
 - **Developmental biology**: The genetic regulation of mushroom formation (fruiting) has been extensively characterized
 - **Hyphal interactions**: Nuclear migration, clamp connection formation, and dikaryon maintenance were first elucidated in this species
 - **Genome**: ~38.5 Mb genome with ~13,000 predicted genes
+
+
+
 
 ## Medicinal Properties
 
@@ -57,9 +72,15 @@ Research has identified several bioactive compounds with therapeutic potential:
 - **Antimicrobial compounds**: Exhibits activity against various Gram-positive and Gram-negative bacteria
 - **Anti-inflammatory**: Polysaccharide fractions demonstrate inhibitory effects on pro-inflammatory cytokines
 
+
+
+
 ## Ecological Role
 
 A white-rot decomposer that efficiently degrades lignin and cellulose in dead wood. Its broad host range and global distribution make it one of the primary agents of wood decomposition in tropical and temperate forests. The desiccation tolerance of its fruiting bodies allows it to persist and sporulate across seasons, contributing to its ecological success.
+
+
+
 
 ## See Also
 

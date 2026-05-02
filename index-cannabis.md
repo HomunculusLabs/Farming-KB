@@ -973,3 +973,5 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
+- [[reactive-metabolites-and-bioactivation-toxicology]]
+- [[first-pass-metabolism-and-oral-bioavailability]]

@@ -43,6 +43,35 @@ changes.
 - [[greg-green]]
 - [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
 
+## Applied Notes
+
+Cannabis Growing Environment Setup should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]
+- [[green-cannabis-grow-bible-vegetative-phase-management]]
+- [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
+
 ## See Also
 - [[cannabis-indoor-grow-lighting-systems|Cannabis Indoor Grow Lighting Systems]]
 - [[green-cannabis-grow-bible-indoor-grow-room-setup|Green Cannabis Grow Bible Indoor Grow Room Setup]]

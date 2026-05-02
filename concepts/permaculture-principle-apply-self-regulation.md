@@ -52,3 +52,32 @@ Limits and negative feedback are not enemies of productivity — they are essent
 ## Connections
 
 This principle is closely linked to [[permaculture-principle-observe-and-interact]] (observation provides the feedback), [[permaculture-principle-obtain-a-yield]] (feedback tells us whether we are truly obtaining yields), and [[permaculture-principle-use-small-and-slow-solutions]] (small scale allows feedback to be noticed and acted upon). See also [[permaculture-principles]] and [[permaculture-design-process]].
+
+## Applied Notes
+
+Permaculture Principle 4 — Apply Self-Regulation and Accept Feedback should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[permaculture-design]]
+- [[david-holmgren]]
+- [[composting]]
+- [[permaculture]]

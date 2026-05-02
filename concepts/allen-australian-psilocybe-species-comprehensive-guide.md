@@ -125,3 +125,8 @@ Argentina).
 - [[allen-psilocybin-potency-australian-species]]
 - [[allen-new-zealand-psychoactive-fungi]]
 - [[allen-magic-mushrooms-australia-newzealand-species-guide]]
+- [[psilocybe-columbiana]]
+- [[psilocybe-heterophyllia]]
+- [[psilocybe-rugosoannulata]]
+- [[psilocybe-venenata]]
+- [[psilocybe-viridescens]]

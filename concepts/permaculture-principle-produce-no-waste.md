@@ -53,3 +53,32 @@ Holmgren contrasts the linear flow of industrial systems (extract → use → di
 ## Connections
 
 This principle is deeply connected to [[permaculture-principle-catch-and-store-energy]] (capturing energy before it becomes waste), [[permaculture-principle-integrate-rather-than-segregate]] (integration closes loops), [[permaculture-principle-use-and-value-renewable-resources]] (valuing all outputs), and [[permaculture-principle-obtain-a-yield]] (waste is lost yield). See also [[permaculture-principles]], [[hugelkultur]], and [[sheet-mulching]].
+
+## Applied Notes
+
+Permaculture Principle 6 — Produce No Waste should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[david-holmgren]]
+- [[composting]]
+- [[permaculture]]
+- [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]

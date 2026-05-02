@@ -119,5 +119,5 @@ Modern molecular methods, particularly [[molecular-methods-fungal-taxonomy-and-d
 - [[endobacteria-arbuscular-mycorrhizal-fungi]]
 - [[mycorrhiza-helper-bacteria-fungal-interactions]]
 - [[mycorrhizal-siderophores-iron-acquisition]]
-- [[nitrogen-transfer-mycorrhizal-networks]]
+- [[nitrogen-transfer-mycorrhizal]]
 - [[proteomics-early-am-symbiosis-stages]]

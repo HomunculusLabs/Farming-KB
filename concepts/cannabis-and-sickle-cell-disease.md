@@ -76,7 +76,7 @@ Two studies support cannabis for sickle cell disease.
 
 ## Related
 
-- [[blesching-cannabis-sickle-cell-disease]] Topics
+- [[cannabis-and-sickle-cell-disease]] Topics
 
 - cannabinoid-receptors
 - [[cannabis-for-nausea-and-appetite-stimulation]]
@@ -135,7 +135,7 @@ The unpredictable nature of pain crises creates chronic hypervigilance and antic
 
 ## Related
 
-- [[blesching-cannabis-sickle-cell-disease]] Topics
+- [[cannabis-and-sickle-cell-disease]] Topics
 
 - [[cannabis-for-chronic-pain]]
 - [[cannabis-for-neuropathic-pain]]

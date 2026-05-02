@@ -121,4 +121,4 @@ Understanding these microclimatic factors allows the urban permaculture designer
 - permaculture-designers-manual-zones-and-sectors
 - [[holzer-raised-bed-techniques-hugelkultur]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]
-- [[permaculture-designers-manual-earthworks]]
+- [[williams-pdc-earthworks]]

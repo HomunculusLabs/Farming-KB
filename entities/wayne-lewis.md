@@ -43,6 +43,35 @@ Lowenfels describes Lewis as "my good friend and business colleague" and credits
 
 "Teaming With Microbes" has been widely credited with popularizing the soil food web concept among home gardeners and small-scale farmers. It translated complex microbiological research into practical gardening advice, helping bridge the gap between academic soil science and hands-on cultivation practice.
 
+## Applied Notes
+
+Wayne Lewis should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[composting]]
+- [[mycorrhiza]]
+- [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]
+- [[soil-food-web]]
+
 ## See Also
 
 - [[jeff-lowenfels]] — Co-author and primary writer of the Teaming With trilogy

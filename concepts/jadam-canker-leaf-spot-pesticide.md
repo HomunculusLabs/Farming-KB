@@ -10,11 +10,15 @@ sources:
 
 # Canker and Leaf Spot Pesticide (JADAM Recipe #5)
 
+
+
 ## Overview
 
 JADAM pesticide recipe #5 targets canker, black spot, pear rust, and brown blotch diseases on fruit trees and vegetables. This is a stronger formulation than recipe #4 ([[jadam-fungal-disease-management]]) and includes the option to add [[jadam-herb-solution-jhs]] for combined disease and pest control.
 
 **Developed by:** Jaun Gu, Hiseok Bak, Youngsang Cho
+
+
 
 ## Recipe
 
@@ -23,6 +27,8 @@ For 500 L (132 gal) of spray solution:
 - [[jadam-wetting-agent-jwa]] 5 L (1.3 gal)
 - [[jadam-sulfur-js]] 1.5 L (0.4 gal)
 - Water to make 500 L (132 gal)
+
+
 
 ## Target Diseases
 
@@ -34,6 +40,8 @@ For 500 L (132 gal) of spray solution:
 - White rot on mulberry
 - Brown blotch on chokeberry
 - Powdery mildew on rose
+
+
 
 ## Application Instructions
 
@@ -54,6 +62,8 @@ For 500 L (132 gal) of spray solution:
 ### Pear Rust
 - Apply around 11am on a clear day for best effectiveness
 
+
+
 ## Critical Cautions
 
 - Do not use JS regularly throughout the season -- use only 2-3 times when disease problem exists
@@ -62,9 +72,13 @@ For 500 L (132 gal) of spray solution:
 - When increasing JS, increase in 0.2 L (0.05 gal) increments
 - Recipe #5 is stronger than recipe #4 -- start with recipe #4 for milder fungal issues
 
+
+
 ## Cost Advantage
 
 This recipe replaces expensive commercial fungicides. At JADAM-scale production, the total pesticide cost for 330 acres was approximately $7/acre per year.
+
+
 
 ## See Also
 

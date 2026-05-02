@@ -11,6 +11,12 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 Fungal pathogens are the most significant cause of crop disease worldwide, responsible for billions of dollars in annual losses. Understanding the major fungal pathogens, their life cycles, and management strategies is essential for sustainable agriculture.
 
+
+
+
+
+
+
 ## Major Fungal Pathogen Groups
 
 ### Airborne Foliage Pathogens
@@ -31,6 +37,12 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - **Penicillium** (Penicillium expansum): Blue mold on apples, pears. Produces patulin toxin
 - **Aspergillus** (Aspergillus flavus): Produces aflatoxin on corn, peanuts, tree nuts. Major health concern
 - **Botrytis**: Gray mold on stored fruits and vegetables
+
+
+
+
+
+
 
 ## Disease Management Strategies
 
@@ -62,6 +74,12 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - Apply organic fungicides preventively, not reactively
 - Remove and destroy infected plant material
 - Rotate crops to break pathogen cycles
+
+
+
+
+
+
 
 ## Related
 - [[natural-farming-pest-management]] — for organic pest management

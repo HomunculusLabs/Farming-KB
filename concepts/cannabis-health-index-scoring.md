@@ -97,6 +97,6 @@ The CHI is not a substitute for professional medical advice but rather a tool to
 
 See also: [[cannabis-dosing-guidelines-by-condition]], [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-indoor-growing-basics]], [[cannabis-drug-interactions-and-contraindications]]
 - [[cannabis-anxiety-and-ptsd-treatment]]
-- [[cannabis-and-tourette-syndrome]]
-- [[cannabis-and-prostate-cancer-research]]
-- [[cannabis-and-tourette-syndrome]]
+- [[blesching-cannabis-tourette-syndrome]]
+- [[blesching-cannabis-prostate-cancer]]
+- [[blesching-cannabis-tourette-syndrome]]

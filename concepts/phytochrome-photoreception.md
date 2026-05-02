@@ -121,3 +121,7 @@ phototropic bending), and other photoreceptor systems to provide a
 comprehensive picture of the light environment. The integration of signals
 from multiple photoreceptor types allows plants to make nuanced decisions
 about growth, development, and resource allocation.
+
+## Related
+
+- [[arabidopsis-thaliana]]

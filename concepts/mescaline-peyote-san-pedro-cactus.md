@@ -76,7 +76,7 @@ Wild peyote populations in Texas and northern Mexico have declined significantly
 
 ## Related
 
-- [[mescaline-containing-cacti-peyote-san-pedro]]
+- [[mescaline-containing-cacti]]
 
 - [[mescaline-entity]] Topics
 

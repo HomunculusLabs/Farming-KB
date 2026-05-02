@@ -68,7 +68,7 @@ Microsatellite loci have proven valuable for discovering genetic variation withi
 
 ## Diversity in Extreme Environments
 
-[[fungal-biodiversity-extreme-environments]] exhibit unique diversity patterns:
+[[fungal-biodiversity-in-extreme-environments]] exhibit unique diversity patterns:
 - **Cryptoendolithic communities**: In Antarctic rocks, fungi form part of complex microbial communities
 - **Metal-contaminated soils**: Metal-tolerant fungal species are selected for, often showing reduced diversity
 - **Salt marshes**: Specialized ascomycete communities adapted to intertidal conditions

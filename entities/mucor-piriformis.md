@@ -23,7 +23,7 @@ M. piriformis belongs to the order Mucorales within the Zygomycota. The Mucorale
 
 ## Life Cycle and Reproduction
 
-M. piriformis is heterothallic, requiring two mating types designated as plus (+) and minus (-) for sexual reproduction. The life cycle, along with that of [[rhizopus-stolonifer-entity-the-mushroom-cultivator]], is well characterized in the mycological literature (Alexopoulos et al. 1996; Michailides and Spotts 1990). The complete life cycle involves both asexual and sexual phases:
+M. piriformis is heterothallic, requiring two mating types designated as plus (+) and minus (-) for sexual reproduction. The life cycle, along with that of [[rhizopus-stolonifer]], is well characterized in the mycological literature (Alexopoulos et al. 1996; Michailides and Spotts 1990). The complete life cycle involves both asexual and sexual phases:
 
 ### Asexual Reproduction
 
@@ -89,7 +89,7 @@ Colonies on artificial media are typically fast-growing, cottony to woolly, and 
 
 The genus Mucor contains numerous species with varying ecological roles:
 
-- [[rhizopus-stolonifer-entity-the-mushroom-cultivator]]: Perhaps the best-known mucoralean, common bread mold, with a similar life cycle to M. piriformis
+- [[rhizopus-stolonifer]]: Perhaps the best-known mucoralean, common bread mold, with a similar life cycle to M. piriformis
 - mucor-circinelloides: Another species with significance as a food spoiler and opportunistic pathogen
 - Species of Radiomyces: Related Mucorales whose zygospores must reach a certain age and require a carbon source and scarification to germinate (Embree 1978), contrasting with the desiccation requirement of M. piriformis
 
@@ -114,7 +114,7 @@ These adaptations collectively allow *M. piriformis* to outcompete other post-ha
 
 ## See Also
 
-- [[rhizopus-stolonifer-entity-the-mushroom-cultivator]] — related Mucoralean with a well-characterized life cycle
+- [[rhizopus-stolonifer]] — related Mucoralean with a well-characterized life cycle
 - Mucorales — the order containing M. piriformis and related genera
 - [[trichoderma-harzianum]] — mycoparasite that can attack mucoralean fungi
 - Piptocephalis — biotrophic parasite commonly found on dung-inhabiting Mucorales

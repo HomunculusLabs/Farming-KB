@@ -122,7 +122,7 @@ caused from other diseases. These diseases are more prevalent in tropical and
 semitropical zones than in temperate regions.
 
 ## See Also
-- [[rhizopus-stolonifer-entity-the-mushroom-cultivator]]
+- [[rhizopus-stolonifer]]
 - aspergillus species
 - penicillium species
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]

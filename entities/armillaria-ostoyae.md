@@ -15,7 +15,7 @@ sources:
 
 # Armillaria ostoyae
 
-**Armillaria ostoyae** (synonym *Armillaria solidipes*) is a species of honey fungus belonging to the family Physalacriaceae within the order [[agar]]icales. It is one of the most significant forest pathogens in the temperate Northern Hemisphere, causing root rot and butt rot in a wide range of tree species. The species is renowned for producing some of the largest living organisms on Earth, with individual genets (clonal colonies) spanning hundreds of hectares.
+**Armillaria ostoyae** (synonym *Armillaria solidipes*) is a species of honey fungus belonging to the family Physalacriaceae within the order Agaricales. It is one of the most significant forest pathogens in the temperate Northern Hemisphere, causing root rot and butt rot in a wide range of tree species. The species is renowned for producing some of the largest living organisms on Earth, with individual genets (clonal colonies) spanning hundreds of hectares.
 
 ## Taxonomy and Classification
 

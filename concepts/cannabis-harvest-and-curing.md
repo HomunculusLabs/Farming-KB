@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, harvesting, drying, storage, processing, beginner]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Overview
 Harvest and curing are the final and most patient-dependent stages of cannabis cultivation. Proper technique during these phases preserves the terpenes, potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality.

@@ -74,7 +74,7 @@ This complex arsenic speciation profile indicates that sarcodon imbricatus is ca
 
 sarcodon imbricatus is primarily associated with coniferous trees, especially spruce and pine species. The ectomycorrhizal association benefits host trees through enhanced nutrient acquisition, particularly in nutrient-poor forest soils. The fungus may also provide some degree of protection against root pathogens.
 
-##[[decomposition]]rganisms
+## Decomposer Organisms
 
 The ectomycorrhizal mycelium of sarcodon imbricatus interacts with soil bacteria and other fungi in the rhizosphere and mycorrhizosphere. These interactions may include competition for nutrients, synergistic relationships in organic matter decomposition, and the exchange of signaling molecules.
 

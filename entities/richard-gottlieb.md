@@ -42,6 +42,35 @@ Comprehensive guide covering identification, cultivation from seed, and preparat
 
 Gottlieb's guides bridged academic mycology and home cultivation, making advanced techniques accessible to non-specialists. His emphasis on liquid culture over fruiting bodies influenced later commercial cultivation approaches. The production-scale design in his psilocybin guide anticipated the legal psilocybin manufacturing facilities that would emerge decades later. See [[psychoactive-cacti-guide]] and [[psilocybin-cultivation]] for broader cultivation context.
 
+## Applied Notes
+
+Richard Gottlieb should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[peyote-and-psychoactive-cacti]]
+- [[lophophora-williamsii]]
+- [[psilocin]]
+- [[mycelium]]
+
 ## See Also
 
 - [[jochen-gartz]] — fellow cultivation guide author with broader species focus

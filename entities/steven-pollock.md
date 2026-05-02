@@ -14,9 +14,17 @@ sources:
 
 Steven H. Pollock (1940s–1981) was an American physician and mycologist who made significant contributions to the discovery and taxonomy of psilocybin-containing mushrooms. His work led to the identification of several new species and he is credited as the co-discoverer of *Psilocybe tampanensis* alongside [[gary-lincoff]].
 
+
+
+
+
 ## Medical and Scientific Background
 
 As a physician, Pollock brought a clinical perspective to mycology that was relatively rare among amateur mycologists of his era. His medical training informed his interest in the pharmacological properties of psychoactive mushrooms and their potential therapeutic applications. He approached mycology with the rigor of academic training while working outside traditional institutions.
+
+
+
+
 
 ## Key Discoveries
 
@@ -32,21 +40,41 @@ Pollock's most notable contribution was the co-discovery of *Psilocybe tampanens
 - Conducted cultivation experiments including outdoor cultivation of species in Texas gardens during the 1970s
 - His taxonomic work contributed to understanding psilocybin mushroom distribution in North America
 
+
+
+
+
 ## Amanita Quest in Alaska
 
 According to [[andy-letcher]]'s *Shroom: A Cultural History of the Magic Mushroom*, Pollock traveled to Alaska in the early 1970s on an Amanita muscaria quest. He found that the mushrooms were being "enthusiastically used by young enthusiasts" and discovered an abundant supply in the woods around Anchorage. His experiments with the mushrooms produced mixed results: an interspersed experience with fresh mushrooms, and a "pleasant feeling of intoxication" with dried specimens. [[jonathan-ott]], reflecting on this period, considered the amanita users a minority.
+
+
+
+
 
 ## Cultivation Research
 
 Pollock was one of the first researchers to develop reliable indoor cultivation techniques for psilocybin-containing mushrooms. His work preceded and in some ways anticipated the popular PF Tek method later developed by Robert McPherson ("Psilocybe Fanaticus"). Pollock developed methods for cultivating *Psilocybe cubensis* on rye grain and cased substrates, and he shared cultivation information through underground publications. His cultivation research was notable for its scientific rigor — he documented growth parameters, substrate compositions, and yield data with a precision that was unusual for the period. This systematic approach to cultivation science influenced subsequent generations of mycologists.
 
+
+
+
+
 ## Publications and Dissemination
 
 Pollock published his findings through the *Mushroom Journal* and other mycological periodicals, as well as through personal correspondence with other researchers. His articles on *Psilocybe tampanensis* cultivation were particularly influential, providing the first reliable method for growing this rare species in captivity. He also contributed to the broader understanding of psychedelic mushroom taxonomy and distribution through his field collections and taxonomic observations. His willingness to share information, in contrast to the secrecy that characterized much psychedelic research of the era, made him a valued collaborator in the mycological community.
 
+
+
+
+
 ## Death and Legacy
 
 Pollock died in 1981 under circumstances that remain controversial in the mycological community. His contributions to psilocybin mushroom taxonomy were significant but cut short by his early death. [[paul-stamets]] and others have acknowledged Pollock's contributions to the field. The loss of such a talented researcher at the height of his productivity is frequently noted in mycological literature.
+
+
+
+
 
 ## Related
 

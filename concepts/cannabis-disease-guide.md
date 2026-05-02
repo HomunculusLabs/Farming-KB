@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, troubleshooting, indoor, organic, pathogens, microbes, living-soil]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Overview
 Cannabis plants are susceptible to a range of fungal, bacterial, and viral diseases. Prevention through environmental control and cultural practices is far more effective than treatment after infection. Most cannabis diseases thrive in specific environmental conditions — managing temperature, humidity, and airflow per [[cannabis-environment-control]] eliminates the majority of disease risk.

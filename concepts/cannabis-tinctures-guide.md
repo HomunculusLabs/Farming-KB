@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, recipe, preparation, medicine, health, potency]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Overview
 Cannabis tinctures are liquid extracts made by soaking cannabis flower or concentrate in a solvent (alcohol, glycerin, or oil). They are administered sublingually (under the tongue) for rapid absorption or added to food and beverages. Tinctures offer precise dosing, discreet use, long shelf life, and a smoke-free consumption method.

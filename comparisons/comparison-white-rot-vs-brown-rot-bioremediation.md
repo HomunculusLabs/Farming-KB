@@ -120,3 +120,4 @@ Climate and seasonal factors also play a role in deployment. White rot fungi gen
 
 - [[white-rot-fungi]]
 - [[staycare-brown-rot-fungi-in-bioremediation]]
+- [[comparison-brown-rot-vs-white-rot-bioremediation]]

@@ -13,9 +13,13 @@ sources:
 **Source:** Permaculture Design Course, Bill Mollison (1981, Pamphlet II)
 **Updated:** 2026-04-18
 
+
+
 ## Overview
 
 Pamphlet II covers permaculture strategies for humid landscapes, where water is abundant and the primary challenge is managing water flow, preventing erosion, and capturing nutrient runoff.
+
+
 
 ## Key Principles
 
@@ -44,6 +48,8 @@ In humid landscapes, water is the principle design element. All water that leave
 - Dam walls should be compacted earth, never concrete (cracks)
 - Use geese in dam systems — they fertilize water and control vegetation
 
+
+
 ## Forest Systems in Humid Landscapes
 
 ### The Role of Forests
@@ -57,12 +63,16 @@ In humid landscapes, water is the principle design element. All water that leave
 - Design for maximum edge length in food forests
 - Spiral, crenellated, and lobate edge patterns increase productivity
 
+
+
 ## Stream and Valley Management
 
 - Never clear-fell valley bottoms — maintain riparian vegetation
 - Streams should be heavily vegetated on both banks
 - Use leaky weirs (not solid dams) in streams to slow water without blocking fish passage
 - Natural sequence: upper slope (forest) → mid slope (mixed tree crops) → lower slope (garden, pasture)
+
+
 
 ## Related Topics
 

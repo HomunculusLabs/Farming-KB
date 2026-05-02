@@ -97,3 +97,4 @@ Mallat, A., et al. "The Endocannabinoid System as a Key Mediator During Liver Di
 
 Hegde, V.L., et al. "Regulation of Liver Disease by Cannabinoids." British Journal of Pharmacology, 2008.
 - [[cannabis-terpene-entourage-effect-profiles]]
+- [[glucuronidation]]

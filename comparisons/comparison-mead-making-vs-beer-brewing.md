@@ -114,7 +114,7 @@ The two are not mutually exclusive. Braggot combines honey and malted grain, and
 
 ## See Also
 
-- [[comparison-beer-brewing-vs-wine-making]]
+- [[comparison-beer-vs-wine-making]]
 
 - [[comparison-cider-vs-mead-making]]
 

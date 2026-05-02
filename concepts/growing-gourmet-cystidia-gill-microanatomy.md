@@ -105,7 +105,7 @@ taxonomic feature. Common attachment types include:
 - **Subdecurrent**: Gills slightly extending down the stem
 
 Many cultivated species show decurrent gills, including
-[[agrocybe-aegerita]], where gills are gray at first and
+[[agrocybe-aegerita-detailed]], where gills are gray at first and
 become chocolate brown with spore maturity.
 
 ## Impact on Cultivation

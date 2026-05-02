@@ -65,7 +65,7 @@ The [[permaculture-zones-in-practice]] resource shows how these outer zones look
 
 Zones work in tandem with sector analysis, which maps external energies like sun, wind, fire, and water flow.
 The [[permaculture-zone-and-sector-planning]] page demonstrates how to combine both frameworks.
-The [[permaculture-zone-analysis]] guide provides worksheets for mapping your specific property.
+The [[williams-pdc-zone-analysis]] guide provides worksheets for mapping your specific property.
 The [[mollison-course-zone-planning-and-design]] page offers Mollison's original zone planning methodology.
 The [[permaculture-zone-design-comparison]] resource compares different approaches to zone layout.
 Good zone planning accounts for slopes, drainage patterns, prevailing winds, and seasonal sun angles.

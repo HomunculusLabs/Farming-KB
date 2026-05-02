@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin's endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[blesching-cannabis-skin-diseases]], [[cannabis-and-psoriasis]], and cannabinoid-receptors.
+Eczema (atopic dermatitis) is a chronic inflammatory skin condition characterized by itchy, red, dry, and cracked skin. It affects up to 20% of children and 3% of adults worldwide. The skin's endocannabinoid system (ECS) plays a key role in regulating cutaneous inflammation and allergic responses, making cannabinoid therapies a promising approach. See also [[blesching-cannabis-skin-diseases]], [[blesching-cannabis-psoriasis]], and cannabinoid-receptors.
 
 ## Clinical Evidence
 
@@ -112,7 +112,7 @@ Pediatric dermatologists are increasingly open to cannabinoid-based alternatives
 ## Related Topics
 
 - [[blesching-cannabis-skin-diseases]]
-- [[cannabis-and-psoriasis]]
+- [[blesching-cannabis-psoriasis]]
 - [[cannabis-for-dermatological-conditions]]
 - [[cannabis-and-asthma]]
 - cannabinoid-receptors

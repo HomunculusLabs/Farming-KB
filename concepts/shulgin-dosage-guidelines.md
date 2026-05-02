@@ -11,6 +11,8 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 Alexander Shulgin developed a systematic approach to dosage documentation that became a standard reference in psychopharmacology. His dosage scale, used throughout the 179 compound entries in PIHKAL Book II, provides a consistent framework for comparing potencies across different compounds.
 
+
+
 ## The Dosage Scale
 
 Each compound entry in PIHKAL includes a single-line dosage notation with the following structure:
@@ -33,6 +35,8 @@ The dose range typically used for a full experience. Effects are clearly present
 ### Strong
 Doses producing intense effects that may be overwhelming for inexperienced users. Visual effects are dramatic, cognitive shifts are profound, and the experience may include challenging elements. Shulgin generally advises against exceeding this range without extensive prior experience.
 
+
+
 ## Dose Units and Ranges
 
 Shulgin consistently uses milligrams (mg) as the dose unit for phenethylamines. However, the enormous range of potencies across the PIHKAL compounds means that:
@@ -43,6 +47,8 @@ Shulgin consistently uses milligrams (mg) as the dose unit for phenethylamines. 
 
 This thousand-fold range of potency underscores the critical importance of accurate dosing and the danger of assuming similar doses across different compounds.
 
+
+
 ## Testing Methodology
 
 Shulgin's research group followed a systematic approach:
@@ -52,6 +58,8 @@ Shulgin's research group followed a systematic approach:
 3. **Administration**: The compound was dissolved in water or juice and consumed
 4. **Documentation**: Each participant was required to submit a written description of their experience afterward
 
+
+
 ## Key Safety Principles
 
 1. **Start low, go slow**: Always begin at or below the threshold dose and work upward gradually
@@ -59,6 +67,8 @@ Shulgin's research group followed a systematic approach:
 3. **Individual variation**: Responses vary significantly between individuals; a safe dose for one person may be excessive for another
 4. **Set and setting**: The importance of mindset and environment cannot be overstated (see [[psychedelic-mushroom-set-and-setting]])
 5. **Time between sessions**: Shulgin recommended extended periods between sessions to avoid tolerance development
+
+
 
 ## Cross-Compound Potency Comparison
 

@@ -4,7 +4,8 @@ tags: [hallucinogenic-plants, cannabis, marijuana, hemp, cannabinoids,
   thc, ethnobotany, history, medicine, solanaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis: Historical Use, Chemistry, and Effects

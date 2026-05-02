@@ -11,6 +11,11 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 The air we breathe is a living sea of microscopic organisms. In mushroom culture, eliminating or reducing the movement of these organisms is essential for success. The five primary sources of contamination are: (1) the immediate external environment, (2) the culture medium, (3) the culturing equipment, (4) the cultivator and their clothes, and (5) the mushroom spores or mycelium.
 
+
+
+
+
+
 ## Constructing a Sterile Laboratory
 
 The majority of cultivators fail because they do not take the time to construct a laboratory for sterile work. Begin by:
@@ -23,9 +28,19 @@ The majority of cultivators fail because they do not take the time to construct 
 
 Essential equipment: a chair and sturdy table, alcohol lamp or butane torch, spray bottle with 10% bleach solution, sterile petri dishes and test tube slants, labels and marking pens, agar knife and inoculating loop.
 
+
+
+
+
+
 ## Cleaning Regimen
 
 Before every set of inoculations: clean with disinfectant, mop floors, wash room air with fine mist of 10% bleach solution. After spraying, do not re-enter for minimum 15 minutes until suspended particles have settled. Contamination is easier to prevent than to eliminate after it occurs.
+
+
+
+
+
 
 ## Levels of Sterile Work
 
@@ -37,6 +52,11 @@ HEPA (High Efficiency Particulate Air) filters screen out all particulates excee
 
 ### Aero-disinfection
 Triethylene glycol can be vaporized through a heated wick. The highly viscous droplets descend and trap airborne contaminant particles, leaving little noticeable film. A daily hygiene maintenance schedule is still recommended.
+
+
+
+
+
 
 ## Agar Media Preparation
 
@@ -50,9 +70,19 @@ Standard agar media formulas:
 
 Sterilize at 15 psi for 30 minutes. Do not exceed 250 F or sugar will caramelize, inhibiting growth and promoting mutations. One liter fills approximately thirty 100x15mm petri dishes.
 
+
+
+
+
+
 ## Important Safety Notes
 
 Do not overkill the laboratory with toxic fungicides and bacteriocides. UV lights can cause skin cancer with prolonged exposure. Work for reasonable periods -- not to exhaustion. Never leave lit alcohol lamps unattended.
+
+
+
+
+
 
 ## See Also
 

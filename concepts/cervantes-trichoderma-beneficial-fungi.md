@@ -142,3 +142,4 @@ horticultural suppliers.
 - [[cervantes-rooting-hormones-cloning]] - root development aids
 - [[cervantes-water-quality-management]] - water quality affects
   beneficial organisms
+- [[trichoderma]]

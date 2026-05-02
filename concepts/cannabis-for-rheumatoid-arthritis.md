@@ -76,7 +76,7 @@ Aggravating factors: poor communication of hurt feelings, suppressed anger, depe
 
 ## See Also
 
-- [[cannabis-and-rheumatoid-arthritis]]
+- [[blesching-cannabis-rheumatoid-arthritis]]
 
 - [[cannabis-arthritis-research]]
 

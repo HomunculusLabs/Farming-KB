@@ -145,5 +145,5 @@ for broader estimates.
 
 ## See Also
 
-- [[biodiversity-fungi-living-plant-substrata]]
+- [[fungi-living-plant-substrata]]
 - [[endophytic-fungi-and-plant-health]]

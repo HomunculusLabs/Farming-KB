@@ -92,7 +92,7 @@ Regular IMO application contributes to soil health through:
 
 IMO is typically used in combination with other KNF preparations:
 
-* **Fermented P[[fish-amino-acid]]):** Provides plant-derived nutrients and growth factors that feed both plants and microorganisms
+* **Fermented Plant Juice (FPJ):** Provides plant-derived nutrients and growth factors that feed both plants and microorganisms
 * **[[oriental-herbal-nutrient-ohn]]:** Provides antimicrobial and growth-promoting compounds from medicinal herbs
 * **Fish Amino Acid (FAA):** Provides nitrogen and amino acids that support rapid microbial growth and plant protein synthesis
 * **Water-Soluble Calcium (WCA):** Provides calcium that strengthens plant cell walls and supports microbial cell membrane integrity

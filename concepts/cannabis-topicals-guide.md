@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, recipe, medicine, health, preparation, organic]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Overview
 Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).

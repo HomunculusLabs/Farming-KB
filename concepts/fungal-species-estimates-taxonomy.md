@@ -13,7 +13,7 @@ type: concept
 updated: 2026-04-12
 ---
 
-# Fungal [[environmental-dna-metabarcoding-fungi|Species]] Estimates and Taxonomy
+# Fungal Species Estimates and Taxonomy
 
 Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes estimation methods, the current state of fungal taxonomy, and the classification of the fungal kingdom.
 

@@ -10,9 +10,13 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #101. N-ALLYL-MDA; 3,4-METHYLENEDIOXY-N- ALLYLAMPHETAMINE.
 
+
+
 ## Chemical Name
 
 N-ALLYL-MDA; 3,4-METHYLENEDIOXY-N- ALLYLAMPHETAMINE
+
+
 
 ## Dosage and Duration
 
@@ -21,9 +25,13 @@ N-ALLYL-MDA; 3,4-METHYLENEDIOXY-N- ALLYLAMPHETAMINE
 | Dosage | greater than 180 mg. |
 | Duration | unknown. |
 
+
+
 ## Qualitative Comments
 
 No qualitative comments available in source.
+
+
 
 ## Extensions and Commentary
 
@@ -39,6 +47,8 @@ atoms, identical oxygen atoms, and an identical nitrogen atom. And
 all in identical places. Simply C13H18ClNO2 rather than C13H20ClNO2.
 
 So, apparently, almost identical is not good enough!
+
+
 
 ## Synthesis
 
@@ -65,9 +75,13 @@ to constant weight. There was thus obtained 2.5 g of
 of 174-176 deg C and a proton NMR spectrum that showed that the allyl
 group was intact. Anal. (C13H18ClNO2) N.
 
+
+
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+
+
 
 ## See Also
 

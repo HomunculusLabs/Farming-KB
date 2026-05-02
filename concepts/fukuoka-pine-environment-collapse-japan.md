@@ -26,7 +26,7 @@ Fukuoka places the pine rot epidemic in a global context:
 ## The Cascade of Destruction
 Fukuoka predicts a terrifying cascade of ecological collapse:
 - Pines protected by mycorrhizal fungi are "incredibly strong plants capable of
-  growing even in [[fukuoka-desert-greening-techniques-detailed]]s and on sandy beaches"
+  growing even in deserts and on sandy beaches"
 - But without these symbiotic fungi they are "weak and delicate"
 - When exogenous mycorrhizal plants such as the pines perish, destruction will
   spread next to endogenous mycorrhizal plants

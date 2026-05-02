@@ -17,6 +17,11 @@ sources:
 
 Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
 
+
+
+
+
+
 ## Classification of Broad Climatic Zones
 
 The Manual uses the Trewartha (1954) classification system as its primary framework, while acknowledging Koppen and other systems. The broad climatic zones addressed include:
@@ -30,6 +35,11 @@ The Manual uses the Trewartha (1954) classification system as its primary framew
 - **Cool temperate to cold**: Mesothermal climates with distinct seasons, frost, and snow. Includes humid cool climates and cold continental zones with permafrost.
 
 - **Polar and high alpine**: Extreme cold with permafrost, short growing seasons.
+
+
+
+
+
 
 ## Key Climatic Factors
 
@@ -57,9 +67,19 @@ Topography modifies climate at the local scale: slope orientation (sunward vs. s
 
 Latitude determines day length, sun angle, and seasonal variation. At latitudes above 50 degrees, low sun angles make reflective surfaces (snow, white stone) significant for heating. Seasonal day-length variation affects plant growth patterns and animal behaviour.
 
+
+
+
+
+
 ## Cross-Climate Design
 
 A subtropical site may have severe frosts, cold winds, torrential summer rains, and 7-9 months of drought, requiring strategies from temperate, arid, and tropical humid regimes. Soils and climatic characteristics dictate specific broad design responses, but the three climate-specific chapters (10, 11, 12) should be read in total for any one site.
+
+
+
+
+
 
 ## Related Concepts
 

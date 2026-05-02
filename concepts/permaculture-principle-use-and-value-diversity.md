@@ -53,3 +53,32 @@ In pre-industrial agriculture, polyculture was the norm. Self-reliant households
 ## Connections
 
 This principle links to [[permaculture-principle-integrate-rather-than-segregate]] (diversity enables integration), [[permaculture-principle-use-edges-and-value-the-marginal]] (edges maximize diversity), [[permaculture-principle-produce-no-waste]] (diverse systems close more loops), and [[permaculture-principle-obtain-a-yield]] (diversity of yields provides insurance). See also [[permaculture-principles]], [[food-forest-layers-and-species]], [[permaculture-guild-design]], and [[polyculture-design-holzer]].
+
+## Applied Notes
+
+Permaculture Principle 10 — Use and Value Diversity should be evaluated in relation to climate, soil or substrate
+conditions, available labor, and the larger design goals of the site.
+The most reliable use comes from observation, small trials, and gradual
+scaling rather than assuming that one method works everywhere.
+
+## Implementation Factors
+
+Important variables include timing, moisture, fertility, species or
+variety selection, and the way the practice interacts with surrounding
+plants, fungi, animals, and people. Keeping records of failures is as
+useful as recording successes because it shows which constraints are
+most important locally.
+
+## System Connections
+
+This topic often overlaps with nutrient cycling, habitat design, water
+management, and low-input production. In a farming knowledge base, those
+connections matter because a single intervention can affect pest
+pressure, soil biology, yields, and long-term resilience.
+
+## Related Topics
+
+- [[permaculture-design]]
+- [[david-holmgren]]
+- [[permaculture]]
+- [[dom]]

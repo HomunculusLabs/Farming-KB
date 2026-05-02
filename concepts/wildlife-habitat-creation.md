@@ -46,7 +46,7 @@ Choose species native to your specific ecoregion. Key categories:
 - Mow annually for the first 2-3 years at 12 inches to control weeds without killing seedlings
 - Do not fertilize native plantings -- they are adapted to poor soils
 - Be patient: native perennials spend their first year establishing roots, with minimal above-ground growth
-## Shelter [[permaculture-wildlife-corridors|Corridor]]s
+## Shelter Corridors
 Wildlife corridors are strips of vegetation that connect larger habitat areas, allowing animals to move safely between feeding, nesting, and resting areas. On the homestead, corridors connect woodlots, wetlands, food plots, and the [[food-forest-design]].
 ### Hedgerows
 A hedgerow is a linear planting of trees and shrubs that functions as a living fence, windbreak, and wildlife corridor.

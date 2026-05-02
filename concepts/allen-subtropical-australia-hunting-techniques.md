@@ -145,4 +145,4 @@ not produce during drought conditions.
 
 - [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-pans-cyanescens-australia-distribution]]
-   149|- [[allen-gymnopilus-and-other-psychoactive-genera]]
+- [[allen-gymnopilus-and-other-psychoactive-genera]]

@@ -87,3 +87,4 @@ Life cycle assessment studies generally indicate that biochar application for so
 - [[phytoremediation-mechanisms]] — plant-based contaminant removal
 - [[fungal-bioremediation]] — fungal approaches to remediation
 - [[biostimulation-techniques]] — stimulating microbial degradation
+- [[comparison-biochar-in-agriculture-vs-biochar-soil-remediation]]

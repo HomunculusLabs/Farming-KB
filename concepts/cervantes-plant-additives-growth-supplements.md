@@ -131,3 +131,7 @@ to months. "Willow water" also makes a popular rooting bath.
 4. Some additives work best as foliar sprays, others as soil drenches.
 5. Care must be given to application timing relative to plant growth
    stage for best results.
+
+## Related
+
+- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]

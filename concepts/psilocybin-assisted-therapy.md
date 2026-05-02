@@ -1,4 +1,5 @@
----[[psilocybin]]ilocybin Assisted Therapy
+---
+title: Psilocybin Assisted Therapy
 tags: [therapy, psilocybin, mental-health, psychiatry, clinical-research]
 date: 2026-04-28
 updated: 2026-04-28

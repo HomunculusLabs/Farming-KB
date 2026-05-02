@@ -95,5 +95,5 @@ OCD compulsions may serve as an unconscious attempt to gain control over externa
 - [[cannabis-for-mental-health]]
 - [[cannabis-health-index]]
 - [[cannabis-cbd-therapeutic-profile]]
-- [[cannabis-and-tourette-syndrome]]
+- [[blesching-cannabis-tourette-syndrome]]
 - [[cannabis-safety-profile-and-overdose-risk]]

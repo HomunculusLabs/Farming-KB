@@ -141,7 +141,7 @@ allows growers to tailor mixes for specific environments.
 
 ## See Also
 
-- [[comparison-perlite-vs-vermiculite-cannabis]]
+- [[comparison-perlite-cannabis-vs-vermiculite-cannabis]]
 
 - [[perlite-cannabis]] — Detailed guide to perlite use in cannabis
 - [[vermiculite-cannabis]] — Comprehensive vermiculite properties guide

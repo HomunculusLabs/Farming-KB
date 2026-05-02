@@ -126,4 +126,4 @@ Succession planting ensures continuous harvests: as one crop is harvested, seedl
 - [[permaculture-designers-manual-cold-climate-design]]
 - [[permaculture-designers-manual-greywater-systems]] - greywater integration
 - permaculture-designers-manual-zones-and-sectors - zone placement
-- [[permaculture-designers-manual-earthworks]] - pit greenhouse excavation
+- [[williams-pdc-earthworks]] - pit greenhouse excavation

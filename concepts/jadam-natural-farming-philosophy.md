@@ -11,6 +11,12 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature Farming") is a Korean ultra-low-cost organic farming movement founded by Young-sang Cho in 1991. JADAM extends Fukuoka's natural farming with specific, practical techniques and a focus on self-sufficiency.
 
+
+
+
+
+
+
 ## Core Philosophy
 
 ### Self-Sufficiency
@@ -37,6 +43,12 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 - Recipes use locally available materials
 - Scalable from backyard garden to commercial farm
 
+
+
+
+
+
+
 ## Comparison with Other Methods
 
 | Method | Inputs | Cost | Philosophy |
@@ -47,12 +59,24 @@ JADAM (Jayonul Danggan Nong-eop Moe-dan, meaning "Research Association of Nature
 | JADAM | On-farm inputs only | Ultra-low | Total self-sufficiency |
 | Fukuoka | No inputs at all | Zero | Do nothing |
 
+
+
+
+
+
+
 ## Key Innovation: JADAM Wetting Agent (JWA)
 - Made from unrefined canola oil and potassium hydroxide (ash water)
 - Acts as a surfactant — allows water-based sprays to penetrate insect bodies
 - Replaces commercial soap/surfactant sprays
 - Cost: pennies per liter
 - Used as the base for all JADAM pest control sprays
+
+
+
+
+
+
 
 ## Related
 

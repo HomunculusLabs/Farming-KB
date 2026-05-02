@@ -10,9 +10,17 @@ sources:
 
 # Psychedelic Mushroom Music and Culture
 
+
+
+
+
 ## Overview
 
 Magic mushrooms played a vital supporting role in the psychedelic revolution of the 1960s and beyond. While LSD was the star -- "if the psychedelic sixties could be viewed as a Technicolor movie, then its star would undoubtedly have been LSD" -- mushrooms were essential to the direction and development of the counterculture. The intersection of mushrooms, music, and festival culture became a defining feature of the psychedelic underground.
+
+
+
+
 
 ## The 1960s Psychedelic Revolution
 
@@ -24,6 +32,10 @@ When psychedelia went mainstream during the mid-1960s, magic mushrooms were swep
 
 The music was unmistakably psychedelic: Jimi Hendrix asked "Are you experienced?" (meaning "Have you dropped Acid?"); Grace Slick sang about mushrooms and Wonderland in "White Rabbit"; John Lennon shattered the anodyne pop of The Beatles by imploring us to "turn off our minds, relax and float downstream."
 
+
+
+
+
 ## Free Festivals and Mushroom Culture
 
 The "hippy festival" emerged as a cultural phenomenon during the 1970s. In Britain, attempts to emulate Woodstock led to commercial and free festivals, most famously Windsor Free, Watchfield, Glastonbury Fayre, and Stonehenge. Stonehenge was the mother of all festivals, running for ten years from 1974 to 1984.
@@ -32,25 +44,49 @@ At these festivals, mushrooms were eagerly consumed. Mushroom truffles joined ha
 
 The magic mushroom slotted into a romantic mythology of pagan revival. Festival-goers saw themselves as "some ancient pagan tribe, pitted against a repressive regime," and the mushroom became one of the tools by which "the old pagan consciousness would be restored."
 
+
+
+
+
 ## Government Crackdown
 
 The government responded with increasing force. Local opposition succeeded in preventing some festivals. The Stonehenge festival came to an abrupt halt in 1985 when police violently smashed the buses and trucks attempting to reach the Stones in the infamous "Battle of the Beanfield." The law was tightened with the Public Order Act and then the Criminal Justice Act of 1994, which effectively prevented illicit gatherings. Since then, free festivals have been few and far between.
+
+
+
+
 
 ## The Rediscovery in Britain
 
 The rediscovery of [[psilocybe-semilanceata-profile]] as a psychoactive species in Britain went hand in hand with a supposed history placing its use in a countercultural tradition stretching back to the dawn of time. A bemushroomed festival-goer watching the sun's rays past the lintels of Stonehenge was a powerful image -- but one that was, as Letcher argues, "a recent invention concocted by" enthusiasts and embroidered through endless retelling.
 
+
+
+
+
 ## Legacy
 
 The mushroom's association with music and counterculture persists. The concept of the "mushroom as key to fairyland" remains embedded in underground culture. Delerium Records' compilation of psychedelic music "Fungus" (1993) and the Magic Mushroom Band's subversively sleeved album "Bomshankar" (1987) testify to the enduring connection between mushrooms and musical expression.
+
+
+
+
 
 ## Electronic Music and the Modern Psychedelic Renaissance
 
 The connection between mushrooms and music evolved significantly with the rise of electronic dance music culture in the late 1980s and 1990s. Psilocybin mushrooms became a staple of the rave and trance music scenes, particularly in the UK, Netherlands, and Goa, India. The repetitive, hypnotic rhythms of trance music complemented the psychedelic experience, creating a syncretic cultural form that blended indigenous shamanic practices with modern technology. Goa trance, in particular, developed in direct connection with psychedelic tourism, drawing Western travelers to India who combined electronic music with psilocybin use in a modern ritual context.
 
+
+
+
+
 ## Literature and the Psychedelic Literary Tradition
 
 Beyond music, mushrooms have inspired a rich literary tradition. Aldous Huxley's *The Doors of Perception* (1954), though primarily about mescaline, established a literary framework for psychedelic experience that deeply influenced the counterculture. Carlos Castaneda's *The Teachings of Don Juan* (1968), which described psilocybin experiences with a Yaqui shaman, became one of the best-selling academic books of all time. Terence McKenna's *Food of the Gods* (1992) proposed the "stoned ape" hypothesis, arguing that psilocybin mushrooms played a role in human evolution, particularly in the development of language and religion.
+
+
+
+
 
 ## Related Concepts
 

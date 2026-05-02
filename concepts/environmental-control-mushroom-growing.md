@@ -87,3 +87,4 @@ Updated: 2026-04-18
 ## Related
 
 - [[mushroom-house-construction-duggar]]
+- [[mushroom-growing-environmental-control]]

@@ -134,17 +134,17 @@ Harvest is labor-intensive due to the small berry size and thorny branches.
 Mechanical harvesters using vibrating combs have been developed for commercial orchards.
 The berries are processed into juice, puree, oil, tea, jam, and dietary supplements.
 Oil extraction from seeds and pulp yields distinct products with different fatty acid profiles.
-
 ## Medicinal Applications
-
 Sea buckthorn oil is used topically for burns, wounds, eczema, and radiation-induced skin damage.
 Internal preparations support cardiovascular health, immune function, and gastrointestinal mucosal integrity.
 Clinical studies have demonstrated anti-inflammatory, antioxidant, hepatoprotective, and cardioprotective properties.
-
 ## Related Species
-
 - [[elaeagnus-umbellata]] — Autumn olive, a related nitrogen-fixing shrub
 - Elaeagnus angustifolia — Russian olive, larger windbreak species
 - Shepherdia argentea — Silver buffaloberry, North American relative
-## See Also
-- [[permaculture]]
+
+## Related Topics
+
+## Related Topics
+- [[biological-nitrogen-fixation-agriculture]]
+- [[permaculture-plant-selection-guide]]

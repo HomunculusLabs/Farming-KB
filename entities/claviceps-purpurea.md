@@ -134,12 +134,9 @@ Caused by neurotoxic effects on the central nervous system. Symptoms include hal
 convulsions, muscle spasms, mania, delirium, and occasionally death. Some historians have
 speculated that outbreaks may have contributed to events such as the Salem witch trials
 of 1692, though this hypothesis remains debated.
-
 ## Medical and Pharmaceutical Applications
-
 Ergot alkaloids from *C. purpurea* have been used in medicine for centuries and remain
 important pharmacological agents:
-
 - **Ergometrine** is used in obstetrics to treat and prevent postpartum hemorrhage by
 inducing sustained uterine contractions.
 - **Ergotamine** is used for the acute treatment of migraine and cluster headaches through
@@ -148,3 +145,6 @@ its vasoconstrictive effects on cranial blood vessels.
 hyperprolactinemia), cabergoline, pergolide, and lisuride.
 - The [[ergot-and-lysergic-acid-history]] obtained from ergot was used by Albert Hofmann at Sandoz
 Laboratories to synthesize LSD-25 (lysergic acid diethylamide) in 1938.
+
+## Related Topics
+- [[ergot-alkaloid-chemistry-history]]

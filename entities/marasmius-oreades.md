@@ -12,7 +12,7 @@ Marasmius oreades, commonly known as the Fairy Ring Mushroom or Scotch Bonnet, i
 
 ## Taxonomy and Description
 
-- **Order:** [[agar]]icales
+- **Order:** Agaricales
 - **Family:** Marasmiaceae
 - **Common names:** Fairy Ring Mushroom, Scotch Bonnet, Fairy Ring Champignon
 - **Related species:** Marasmius oreades is the type species of the genus Marasmius

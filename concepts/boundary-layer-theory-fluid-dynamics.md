@@ -142,3 +142,7 @@ wind turbines), **trip strips** (deliberately triggering transition to prevent l
 separation), and **surface modifications** such as riblets (shark-skin-inspired
 micro-grooves achieving 5–8% drag reduction). Active control using synthetic jets and
 plasma actuators enables real-time separation management for adaptive aerodynamic systems.
+
+## Related
+
+- [[computational-fluid-dynamics]]

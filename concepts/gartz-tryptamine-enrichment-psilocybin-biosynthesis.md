@@ -37,11 +37,11 @@ sources:
 ### Key Finding: Unprecedented Psilocin Levels
 
 Flush | Psilocin (with tryptamine) | Psilocin (without) | Psilocybin (with) | Psilocybin (without)
-1    | 2.1%                        | 0%                 | 0.01%              | 0.55%
-2    | 3.3%                        | 0.01%              | 0.02%              | 0.48%
-3    | 2.8%                        | 0.02%              | 0.2%               | 0.51%
-4    | 3.1%                        | 0.09%              | 0.07%              | 0.46%
-5    | 2.9%                        | 0.15%              | 0.13%              | 0.61%
+ 2.1%                        | 0%                 | 0.01%              | 0.55%
+ 3.3%                        | 0.01%              | 0.02%              | 0.48%
+ 2.8%                        | 0.02%              | 0.2%               | 0.51%
+ 3.1%                        | 0.09%              | 0.07%              | 0.46%
+ 2.9%                        | 0.15%              | 0.13%              | 0.61%
 
 Psilocin values of 2.1-3.3% are the highest ever described in any mushrooms. All previously reported psilocin values are below 1% in dried specimens.
 

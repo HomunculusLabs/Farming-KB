@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, pruning, indoor, plant-growth, comparison, techniques]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ## Overview
 Training techniques manipulate cannabis plant structure to optimize light distribution, increase yield, control height, and improve airflow. These methods range from gentle bending to deliberate tissue damage, each with specific use cases and trade-offs. All structural training should be performed during the [[cannabis-vegetative-stage]] before flowering begins.

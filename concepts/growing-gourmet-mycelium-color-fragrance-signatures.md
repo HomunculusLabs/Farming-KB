@@ -59,7 +59,7 @@ orangish mycelium.
 ### Brown
 Shiitake mycelium becomes brown over time. It would be
 abnormal for Shiitake mycelium not to brown in age or when
-damaged. Similarly, [[agrocybe-aegerita]] produces initially
+damaged. Similarly, [[agrocybe-aegerita-detailed]] produces initially
 white mycelium that browns with maturity. Morel mycelium
 is typically brown after a week of growth. Kuritake
 ([[hypholoma-sublateritium]]) mycelium turns dingy

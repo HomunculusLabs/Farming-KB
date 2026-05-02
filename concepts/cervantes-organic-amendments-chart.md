@@ -143,3 +143,7 @@ used as top dressing or diluted in tea. Do not breathe the dust.
 Combined with fructose, molasses, or sugar and applied to organic soil,
 molasses feeds beneficial microbial life in the root zone. Honey and other
 sugars are said to have similar effects.
+
+## Related
+
+- [[comparison-organic-vs-chemical-amendments]]

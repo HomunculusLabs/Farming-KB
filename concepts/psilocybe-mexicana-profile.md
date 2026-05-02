@@ -11,15 +11,27 @@ sources:
 
 # Psilocybe mexicana Profile
 
+
+
+
+
 ## Overview
 
 Psilocybe mexicana is the original species that launched the modern psychedelic era. Identified by Roger Heim and studied by [[albert-hofmann]], it was the species consumed by R. Gordon Wasson and Maria Sabina during the veladas described in Wasson's famous 1957 LIFE article. Its Nahuatl name is "teonanacatl" -- "flesh of the gods."
+
+
+
+
 
 ## Taxonomy
 
 - **Species**: Psilocybe mexicana Heim
 - **Variety**: P. mexicana var. brevispora Heim (syn. P. wassonii)
 - **Common names**: Nize ("little birds" in Mazatec), Mexican liberty caps
+
+
+
+
 
 ## Macroscopic Features
 
@@ -31,6 +43,10 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 - **Spore print**: Dark purplish brown to blackish purple brown.
 - **Spores**: 8-9.9 (12) x 5.5-7.7 (8) micrometers, ellipsoid to subellipsoid.
 
+
+
+
+
 ## Potency
 
 - Moderately to highly active.
@@ -38,9 +54,17 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 - Fresh specimens are "many orders of magnitude stronger."
 - The variety P. wassonii is described as potently active based on the strength of its bluing reaction.
 
+
+
+
+
 ## Sclerotia Formation
 
 P. mexicana is one of the few Psilocybe species known to produce sclerotia -- dense, hardened masses of mycelium that serve as nutrient reserves. Other species known to produce sclerotia include [[psilocybe-semilanceata-profile]] and P. tampanensis. Sclerotia can be cultivated and contain psychoactive compounds.
+
+
+
+
 
 ## Habitat and Distribution
 
@@ -49,9 +73,17 @@ P. mexicana is one of the few Psilocybe species known to produce sclerotia -- de
 - **Range**: Subtropical Mexico -- Michoacan, Morelos, Jalisco, Oaxaca, Puebla, western Xalapa, Chiapas, Coahuila, Veracruz.
 - **Ecological note**: P. semilanceata is to temperate grasslands what P. mexicana is to subtropical grasslands.
 
+
+
+
+
 ## Historical Significance
 
 P. mexicana is the species at the center of Wasson's discovery of the "divine mushroom" of the Mazatec. Roger Heim cultivated specimens and sent them to Albert Hofmann at Sandoz, who isolated and identified psilocybin and psilocin from them in 1958. This led to Sandoz manufacturing approximately 2 kg of pure psilocybin for research distribution. The species is therefore the direct ancestor of all modern psilocybin research.
+
+
+
+
 
 ## Related Concepts
 
