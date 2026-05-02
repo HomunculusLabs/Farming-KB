@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1231 pages**
+**1227 pages**
 
 ## #
 
@@ -207,7 +207,6 @@
 - [[eleusinian-oracle-vs-mexican-mushroom-oracle]]
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
-- [[emcdda-hallucinogenic-mushroom-dose-and-effects]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]
@@ -500,7 +499,6 @@
 
 - [[keewaydinoquay-native-american-mushroom-traditions]]
 - [[king-oyster-cultivation]]
-- [[knf-water-soluble-phosphoric-acid]]
 - [[knf-water-soluble-phosphoric-acid-detailed]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
 
@@ -963,7 +961,6 @@
 - [[oyster-mushroom-growing-house-site-selection]]
 - [[oyster-mushroom-growing-house-types]]
 - [[oyster-mushroom-harvest-techniques]]
-- [[oyster-mushroom-harvesting-and-post-harvest]]
 - [[oyster-mushroom-harvesting-post-harvest]]
 - [[oyster-mushroom-hypocrea-disease]]
 - [[oyster-mushroom-lifecycle-and-reproduction]]
@@ -1004,7 +1001,6 @@
 ## P
 
 - [[paddy-straw-mushroom]]
-- [[paddy-straw-mushroom-volvariella-cultivation]]
 - [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]
 - [[panaeolus-acuminatus-profile]]
 - [[panaeolus-cyanescens-bali-omelette]]

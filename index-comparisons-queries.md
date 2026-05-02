@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**766 pages**
+**776 pages**
 
 ## A
 
@@ -461,6 +461,7 @@
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
 - [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]]
 - [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]]
+- [[query-how-do-i-create-a-permaculture-zone-plan-for-my-property]]
 - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
 - [[query-how-do-i-create-microclimates-in-my-garden]]
 - [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]
@@ -481,6 +482,7 @@
 - [[query-how-do-i-integrate-ducks-into-my-permaculture-system]]
 - [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]]
 - [[query-how-do-i-make-a-balanced-herbal-mulch-for-no-till-gardens]]
+- [[query-how-do-i-make-a-johnson-su-bioreactor]]
 - [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
 - [[query-how-do-i-make-jadam-natural-pesticide-jnp]]
 - [[query-how-do-i-make-seed-starting-mix-at-home]]
@@ -510,6 +512,7 @@
 - [[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]]
 - [[query-how-do-i-use-spent-mushroom-substrate-in-my-garden]]
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]
+- [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]]
 - [[query-how-do-i-use-woody-herb-cuttings-for-plant-propagation]]
 - [[query-how-do-i-winterize-my-garden-and-prepare-for-spring]]
 - [[query-how-do-mushrooms-contribute-to-soil-health]]
@@ -569,10 +572,13 @@
 - [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
 - [[query-how-to-grow-cannabis-in-an-aquaponics-system]]
+- [[query-how-to-grow-chaga-mushroom]]
 - [[query-how-to-grow-food-in-small-spaces-vertically]]
+- [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]
 - [[query-how-to-grow-medicinal-herbs-at-home]]
 - [[query-how-to-grow-morel-mushrooms]]
 - [[query-how-to-grow-mushrooms-on-logs]]
+- [[query-how-to-grow-mushrooms-on-masters-mix-substrate]]
 - [[query-how-to-grow-mushrooms-on-straw]]
 - [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
 - [[query-how-to-grow-oyster-mushrooms-at-home]]
@@ -668,6 +674,7 @@
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
 - [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 - [[query-what-are-endophytic-fungi-and-why-do-they-matter]]
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-green-manures-and-how-to-use-them]]
@@ -714,6 +721,7 @@
 - [[query-what-is-a-banana-circle-in-permaculture]]
 - [[query-what-is-a-cannabis-mother-plant-and-how-do-i-maintain-one]]
 - [[query-what-is-a-chinampa-and-how-does-it-work]]
+- [[query-what-is-a-gley-pond-and-how-does-it-work]]
 - [[query-what-is-a-herb-spiral-in-permaculture]]
 - [[query-what-is-a-mandala-garden-in-permaculture]]
 - [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]]
@@ -722,6 +730,7 @@
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
 - [[query-what-is-biochar-and-should-i-use-it]]
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
+- [[query-what-is-biofumigation-and-how-does-it-work]]
 - [[query-what-is-bokashi-composting-and-how-does-it-work]]
 - [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]]
 - [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
@@ -787,6 +796,7 @@
 - [[query-what-is-the-role-of-bacteria-in-soil-health]]
 - [[query-what-is-the-role-of-earthworms-in-soil-health]]
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
+- [[query-what-is-the-role-of-fungi-in-decomposition]]
 - [[query-what-is-the-role-of-lignin-in-soil-health-and-decomposition]]
 - [[query-what-is-the-role-of-protozoa-in-soil-health]]
 - [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]

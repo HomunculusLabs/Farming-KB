@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**809 pages**
+**806 pages**
 
 ## A
 
@@ -106,7 +106,6 @@
 - [[fukuoka-clover-and-green-manure-cropping]]
 - [[fukuoka-compost-unnecessary-philosophy]]
 - [[fukuoka-critique-agricultural-development]]
-- [[fukuoka-critique-agricultural-science-laws]]
 - [[fukuoka-critique-darwinian-evolution]]
 - [[fukuoka-critique-genetic-engineering]]
 - [[fukuoka-critique-green-revolution]]
@@ -169,14 +168,12 @@
 - [[fukuoka-food-spirit-united]]
 - [[fukuoka-forty-days-africa]]
 - [[fukuoka-four-principles-natural-farming]]
-- [[fukuoka-four-principles-natural-farming-detailed]]
 - [[fukuoka-four-types-of-diet]]
 - [[fukuoka-future-modern-agriculture]]
 - [[fukuoka-giannozzo-pucci-italian-natural-farming-camp]]
 - [[fukuoka-gibberellin-discovery-period]]
 - [[fukuoka-god-nature-and-man-as-one]]
 - [[fukuoka-god-nature-and-transcendent-world]]
-- [[fukuoka-god-nature-man-as-one]]
 - [[fukuoka-god-nature-man-unity-philosophy]]
 - [[fukuoka-god-nature-nameless-wandering]]
 - [[fukuoka-green-belt-projects]]

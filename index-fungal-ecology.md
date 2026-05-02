@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2189 pages**
+**2187 pages**
 
 ## #
 
@@ -439,7 +439,6 @@
 - [[endophytic-fungal-diversity]]
 - [[endophytic-fungi]]
 - [[endophytic-fungi-and-plant-health]]
-- [[endophytic-fungi-biology-ecology-diversity]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-diversity]]
 - [[endophytic-fungi-diversity-and-ecology]]
@@ -2204,7 +2203,6 @@
 - [[tropical-restoration-mycorrhiza]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
 - [[tropical-vs-temperate-fungal-diversity]]
-- [[tropical-vs-temperate-fungal-diversity-patterns]]
 - [[tropisms-psilocybe-cubensis-gravitropism]]
 - [[tropisms-psilocybe-cubensis-hyphal-orientation]]
 - [[tropisms-psilocybe-cubensis-phototropism]]

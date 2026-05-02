@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1080 pages**
+**1092 pages**
 
 ## #
 
@@ -150,6 +150,7 @@
 - [[a-o-dms-entity-tihkal]]
 - [[acacia]]
 - [[achillea-millefolium]]
+- [[acorus-calamus]]
 - [[acremonium-strictum]]
 - [[adam-vorbrodt]]
 - [[aem-entity-pihkal]]
@@ -234,6 +235,7 @@
 - [[b-entity-pihkal]]
 - [[bacillus-megaterium]]
 - [[bacillus-subtilis]]
+- [[bacopa-monnieri]]
 - [[baeocystin]]
 - [[baeocystin-entity]]
 - [[banisteriopsis-caapi]]
@@ -288,6 +290,7 @@
 - [[cannabigerolic-acid-cbga]]
 - [[cannabinol-cbn]]
 - [[cannabis-indica]]
+- [[cannabis-ruderalis]]
 - [[cannabis-sativa]]
 - [[cantharellus-cibarius]]
 - [[caragana-arborescens]]
@@ -467,6 +470,7 @@
 - [[g-5-entity]]
 - [[g-5-entity-pihkal]]
 - [[g-n-entity-pihkal]]
+- [[galbulimima-belgraveana]]
 - [[galerina-autumnalis]]
 - [[galerina-marginata]]
 - [[galerina-steglichii]]
@@ -494,6 +498,7 @@
 - [[glomus-mosseae]]
 - [[glomus-versiforme]]
 - [[gonatobotryum-fuscum]]
+- [[gordon-wasson]]
 - [[graham-burnett]]
 - [[gramine]]
 - [[greg-green]]
@@ -581,6 +586,7 @@
 
 - [[j-entity]]
 - [[j-entity-pihkal]]
+- [[jagadis-chandra-bose]]
 - [[james-arthur]]
 - [[james-cuthill]]
 - [[james-trappe]]
@@ -617,6 +623,7 @@
 - [[lactobacillus-casei]]
 - [[lactobacillus-plantarum]]
 - [[laetiporus-entity]]
+- [[laetiporus-sulphureus]]
 - [[laetisaria-arvalis]]
 - [[latua-pubiflora]]
 - [[lentinan]]
@@ -645,6 +652,7 @@
 - [[ludwig-prandtl]]
 - [[lycoperdon-marginatum]]
 - [[lycoperdon-mixtecorum]]
+- [[lynn-margulis]]
 - [[lysergic-acid-amide]]
 
 ## M
@@ -1002,6 +1010,7 @@
 - [[rhizopogon-vinicolor]]
 - [[rhizopus-arrhizus]]
 - [[rhizopus-stolonifer-entity-the-mushroom-cultivator]]
+- [[rhodiola-rosea]]
 - [[rhodopseudomonas-palustris]]
 - [[richard-alpert]]
 - [[richard-evans-schultes]]
@@ -1013,6 +1022,7 @@
 - [[robinia-pseudoacacia]]
 - [[roger-heim]]
 - [[roland-griffiths]]
+- [[rolf-singer]]
 - [[russula-emetica]]
 
 ## S
@@ -1020,6 +1030,7 @@
 - [[saccharomyces-cerevisiae]]
 - [[saccharomyces-paradoxus]]
 - [[salix-alba]]
+- [[salvia-divinorum]]
 - [[salvia-divinorum-entity]]
 - [[sandoz-pharmaceuticals]]
 - [[sapodilla-entity]]
@@ -1120,6 +1131,7 @@
 - [[tryptamine]]
 - [[tryptamine-entity-tihkal]]
 - [[tryptophan]]
+- [[tuber-melanosporum]]
 - [[turbina-corymbosa]]
 - [[two-ag]]
 

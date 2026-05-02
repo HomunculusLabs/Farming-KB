@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**937 pages**
+**935 pages**
 
 ## #
 
@@ -346,7 +346,6 @@
 - [[hofmann-lsd-clinical-research-early-studies]]
 - [[hofmann-lsd-consciousness-and-philosophy]]
 - [[hofmann-lsd-discovery-bicycle-day]]
-- [[hofmann-lsd-discovery-bicycle-day-account]]
 - [[hofmann-lsd-mazatec-and-psilocybin]]
 - [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]
 - [[hofmann-lsd-pharmacology-and-effects]]
@@ -834,7 +833,6 @@
 - [[sacred-meal-ancient-traditions]]
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
 - [[sacred-road-pilgrimage-to-eleusis]]
-- [[salvia-divinorum]]
 - [[salvia-divinorum-and-salvinorin-a]]
 - [[salvia-divinorum-profile]]
 - [[salvinorin-pharmacology]]
