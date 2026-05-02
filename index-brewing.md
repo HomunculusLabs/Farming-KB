@@ -95,6 +95,3 @@
 - [[yeast-biology-guide]]
 - [[yeast-diversity-taxonomy-and-inventory-methods]]
 - [[yeast-isolation-biodiversity-methods]]
-- [[fermented-plant-juice]]
-- [[fermented-plant-juice-fpj]]
-- [[jadam-fermented-plant-juice]]

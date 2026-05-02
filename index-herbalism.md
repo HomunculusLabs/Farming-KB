@@ -2,7 +2,7 @@
 
 > Medicinal plants, herbal preparations, functional mushrooms, and traditional plant medicine
 
-**57 pages**
+**58 pages**
 
 ## A
 
@@ -91,6 +91,7 @@
 - [[schizophyllan-research]]
 - [[schizophyllum-commune-schizophyllan-cancer]]
 - [[schultes-witches-ointments-flying-salves]]
+- [[structure-activity-relationship-medicinal-chemistry]]
 
 ## T
 

@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1575 pages**
+**1579 pages**
 
 ## A
 
@@ -241,7 +241,6 @@
 - [[hemenway-zone-and-sector-planning]]
 - [[herb-spiral]]
 - [[herb-spiral-construction]]
-- [[herb-spiral-design]]
 - [[herb-spiral-design-guide]]
 - [[herb-spiral-microclimate-design]]
 - [[holmgren-aboriginal-management-edge-landscapes]]
@@ -445,6 +444,7 @@
 - [[holzer-wild-fruit-trees-and-hedges]]
 - [[homestead-permaculture-design]]
 - [[hugelkultur]]
+- [[hugelkultur-bed-construction]]
 - [[hugelkultur-bed-construction-detailed]]
 - [[hugelkultur-beds]]
 - [[hugelkultur-guide]]
@@ -1079,6 +1079,7 @@
 - [[permaculture-chestnut]]
 - [[permaculture-chicken-forage-systems-design-course]]
 - [[permaculture-chicken-raising]]
+- [[permaculture-chicken-tractor-system]]
 - [[permaculture-chicken-tractors]]
 - [[permaculture-chicory]]
 - [[permaculture-climate-adaptation]]
@@ -1185,7 +1186,6 @@
 - [[permaculture-designers-manual-irrigation-methods]]
 - [[permaculture-designers-manual-island-climate]]
 - [[permaculture-designers-manual-keyhole-garden]]
-- [[permaculture-designers-manual-keyline-design]]
 - [[permaculture-designers-manual-legal-and-social-structures]]
 - [[permaculture-designers-manual-legal-structures]]
 - [[permaculture-designers-manual-marine-resources]]
@@ -1357,6 +1357,7 @@
 - [[permaculture-pattern-language]]
 - [[permaculture-pattern-literacy]]
 - [[permaculture-pattern-understanding]]
+- [[permaculture-patterns-in-nature]]
 - [[permaculture-paulownia]]
 - [[permaculture-pawpaw]]
 - [[permaculture-pecan-tree-profile]]
@@ -1369,6 +1370,7 @@
 - [[permaculture-plant-guilds-companion-planting]]
 - [[permaculture-plant-propagation-guide]]
 - [[permaculture-plant-selection]]
+- [[permaculture-plant-selection-guide]]
 - [[permaculture-plant-stacking-vertical-guilds]]
 - [[permaculture-plants-aquatic-and-wetland-species]]
 - [[permaculture-plants-bamboo-varieties-uses]]
@@ -1462,6 +1464,7 @@
 - [[permaculture-waste-management]]
 - [[permaculture-waste-systems]]
 - [[permaculture-water-chestnut-guide]]
+- [[permaculture-water-harvesting]]
 - [[permaculture-water-harvesting-detailed]]
 - [[permaculture-water-plants-guide]]
 - [[permaculture-water-pond-systems-design-course]]
@@ -1527,6 +1530,7 @@
 - [[sepp-holzer-garden-helpers-and-pest-regulation]]
 - [[sepp-holzer-global-projects]]
 - [[sepp-holzer-method]]
+- [[sepp-holzer-methods]]
 - [[sepp-holzer-pond-construction]]
 - [[sepp-holzer-soil-fertility-and-green-manure]]
 - [[sepp-holzer-terrace-systems-and-raised-beds]]
@@ -1647,10 +1651,3 @@
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
 - [[zone-system]]
-- [[comparison-syntropic-vs-permaculture]]
-- [[permaculture-bamboo-in-design]]
-- [[permaculture-chicken-tractor-system]]
-- [[permaculture-nitrogen-fixing-trees]]
-- [[permaculture-patterns-in-nature]]
-- [[permaculture-plant-selection-guide]]
-- [[permaculture-zone-and-sector-analysis]]

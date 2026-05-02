@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**201 pages**
+**200 pages**
 
 ## A
 
@@ -74,7 +74,6 @@
 - [[firewood-seasoning-and-storage]]
 - [[flood-preparedness-guide]]
 - [[food-dehydration-guide]]
-- [[food-drying-and-dehydration-methods]]
 - [[food-preservation-canning]]
 
 ## G

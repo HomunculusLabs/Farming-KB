@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**812 pages**
+**820 pages**
 
 ## A
 
@@ -155,6 +155,7 @@
 - [[edible-aquatic-plants]]
 - [[edible-landscaping]]
 - [[elderberry-growing-guide]]
+- [[evapotranspiration-crop-water-use]]
 - [[extending-growing-season]]
 
 ## F
@@ -301,6 +302,7 @@
 - [[geodesic-greenhouse-design]]
 - [[geoff-hamilton-organic-techniques]]
 - [[george-washington-carver-plant-work]]
+- [[gibberellins-plant-growth-hormones]]
 - [[ginger-growing-guide]]
 - [[golden-guide-syrian-rue-and-maoi-plants]]
 - [[gotu-kola-growing-guide]]
@@ -449,6 +451,7 @@
 - [[holy-basil-tulsi-guide]]
 - [[home-garden-seed-saving]]
 - [[home-vegetable-garden-planning]]
+- [[home-vegetable-gardening]]
 - [[homestead-water-purification]]
 - [[honey-locust-pod-fodder-timber-production]]
 - [[hydroponic-growing-basics]]
@@ -602,13 +605,17 @@
 - [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
 - [[plant-cell-structure-and-organelles]]
 - [[plant-cellulose-and-carbohydrate-chemistry]]
+- [[plant-circadian-rhythms]]
 - [[plant-cyanobacteria-symbiosis]]
 - [[plant-defense-mechanisms]]
 - [[plant-disease-identification]]
 - [[plant-disease-management-solomon]]
+- [[plant-electrophysiology]]
 - [[plant-enzymes-and-cofactors]]
 - [[plant-gravitropism-and-spatial-awareness]]
+- [[plant-growth-promoting-rhizobacteria]]
 - [[plant-hormones-and-chemical-signaling-systems]]
+- [[plant-immune-system-pti-eti]]
 - [[plant-intelligence-and-communication]]
 - [[plant-life-rhythms-pulsatory-growth]]
 - [[plant-mechanosensing-and-thigmomorphogenesis]]
@@ -863,6 +870,7 @@
 - [[water-plants-aquatic-systems]]
 - [[water-storage-techniques]]
 - [[water-tank-selection-and-construction]]
+- [[water-use-efficiency-plants]]
 - [[water-wise-vegetable-gardening]]
 - [[watering-irrigation-solomon]]
 - [[watershed-management]]
@@ -893,14 +901,3 @@
 ## Z
 
 - [[zone-1-intensive-garden]]
-- [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
-- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
-- [[home-vegetable-gardening]]
-- [[keyhole-garden-design]]
-- [[oriental-herbal-nutrient]]
-- [[query-how-do-i-create-microclimates-in-my-garden]]
-- [[query-how-do-i-start-a-medicinal-herb-garden]]
-- [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
-- [[evapotranspiration-crop-water-use]]
-- [[heat-transfer-mechanisms]]
-- [[reynolds-number-and-flow-regimes]]

@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**927 pages**
+**928 pages**
 
 ## A
 
@@ -461,7 +461,6 @@
 - [[cannabis-nitrogen]]
 - [[cannabis-nutrient-burn-and-toxicity]]
 - [[cannabis-nutrient-deficiency-and-toxicity-guide]]
-- [[cannabis-nutrient-deficiency-guide]]
 - [[cannabis-nutrient-lockout-and-ph]]
 - [[cannabis-nutrient-management]]
 - [[cannabis-nutrient-phase-management]]
@@ -569,6 +568,7 @@
 - [[cannabis-terpene-entourage-effect]]
 - [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-terpene-profile]]
+- [[cannabis-terpene-profiles]]
 - [[cannabis-terpenoid-profiles-detailed]]
 - [[cannabis-testing-and-quality]]
 - [[cannabis-thai-strain-description-clarke]]
@@ -586,6 +586,7 @@
 - [[cannabis-topical-preparations]]
 - [[cannabis-topicals-guide]]
 - [[cannabis-topping-training]]
+- [[cannabis-training-techniques]]
 - [[cannabis-transplanting-guide]]
 - [[cannabis-true-breeding-ibl-strains]]
 - [[cannabis-two-tier-microbiome-selection]]
@@ -987,10 +988,3 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
-- [[cannabis-training-techniques]]
-- [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
-- [[endophytes-in-cannabis]]
-- [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
-- [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
-- [[query-what-causes-cannabis-plants-to-hermaphrodite]]
-- [[query-what-is-the-difference-between-indica-sativa-and-ruderalis-cannabis]]

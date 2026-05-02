@@ -108,5 +108,3 @@
 ## W
 
 - [[wetland-ecology]]
-- [[bloomfield-basidiomycete-biology-overview]]
-- [[comparison-biochar-in-agriculture-vs-biochar-soil-remediation]]

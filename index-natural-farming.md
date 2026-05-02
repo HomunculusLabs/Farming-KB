@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**807 pages**
+**809 pages**
 
 ## A
 
@@ -69,6 +69,7 @@
 ## E
 
 - [[effective-microorganisms-em]]
+- [[electron-transport-chain-mitochondrial-respiration]]
 - [[european-psycholytic-therapy-1960s-1970s]]
 
 ## F
@@ -498,6 +499,7 @@
 - [[jadam-element-function-reference]]
 - [[jadam-farm-economics-market-viability]]
 - [[jadam-farming-method]]
+- [[jadam-fermented-plant-juice]]
 - [[jadam-fermented-plant-juice-preparation]]
 - [[jadam-fertilizer-program]]
 - [[jadam-fertilizer-program-design]]
@@ -779,7 +781,7 @@
 - [[one-straw-revolution-key-concepts]]
 - [[one-straw-revolution-overview]]
 - [[one-straw-revolution-philosophy]]
-- [[oriental-herbal-nutrient-ohn]]
+- [[oxidative-phosphorylation-mitochondrial-respiration]]
 
 ## S
 
@@ -864,7 +866,3 @@
 - [[ultra-low-jadam-sulfur-js]]
 - [[ultra-low-jadam-wetting-agent-jwa]]
 - [[ultra-low-water-softening-for-pesticide-efficacy]]
-- [[fukuoka-textdoc-critique-mechanization-agriculture]]
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
-- [[fukuoka-textdoc-three-ways-farming-compared]]
