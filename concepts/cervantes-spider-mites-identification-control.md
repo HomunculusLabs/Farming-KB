@@ -4,7 +4,7 @@ tags:
   - cannabis
   - pest-control
   - spider-mites
-  - [[integrated-pest-management]]
+  - integrated-pest-management
   - indoor-growing
 date: 2026-04-25
 updated: 2026-04-25

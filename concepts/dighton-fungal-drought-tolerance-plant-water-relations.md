@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - drought
-  - [[mycorrhizal-fungi]]
+  - mycorrhizal-fungi
   - plant-physiology
   - water-relations
 date: 2026-04-25

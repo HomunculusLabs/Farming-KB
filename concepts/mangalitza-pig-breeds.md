@@ -3,9 +3,9 @@ title: Mangalitza and Old Pig Breeds
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, livestock, species-profiles, [[homesteading]]]
+tags: [animal-husbandry, livestock, species-profiles, homesteading]
 sources:
-  - raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
 # Mangalitza and Old Pig Breeds

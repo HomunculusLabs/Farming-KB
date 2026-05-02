@@ -1,5 +1,5 @@
 ---
-title: [[fungal-ecology]] -- Plant Pathogens
+title: fungal-ecology -- Plant Pathogens
 created: 2026-04-26
 sources: Biodiversity of Fungi (Mueller, Bills & Foster, eds.)
 source_path: /Users/t3erpz/Documents/Ebooks/Calibre/Unknown/Biodiversity of Fungi (72)/Biodiversity of Fungi - Unknown.pdf

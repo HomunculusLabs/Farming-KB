@@ -3,7 +3,7 @@ title: Citrus Growing and Care in Permaculture
 tags:
   - permaculture
   - citrus
-  - [[orchard-management]]
+  - orchard-management
   - mollison-designers
 date: 2026-04-25
 updated: 2026-04-25

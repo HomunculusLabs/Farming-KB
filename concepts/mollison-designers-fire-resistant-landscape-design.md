@@ -5,7 +5,7 @@ title: Fire-Resistant Landscapebill-mollison
   - permaculture
   - wildfire
   - mollison-pdm
-date: [[permaculture]]pdated: 2026-04-25
+date: permaculturepdated: 2026-04-25
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---

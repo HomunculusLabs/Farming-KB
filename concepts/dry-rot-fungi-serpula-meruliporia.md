@@ -4,7 +4,7 @@ created: 2026-04-22
 updated: 2026-04-27
 type: concept
 tags:
-  - [[fungal-ecology]]
+  - fungal-ecology
   - wood-decay
   - building-deterioration
   - brown-rot

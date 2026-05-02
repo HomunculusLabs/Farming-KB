@@ -3,7 +3,7 @@ title: Mollison: Soil Erosion Control
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [[permaculture]], design, agriculture]
+tags: permaculture, design, agriculture]
 sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---

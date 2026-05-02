@@ -2,8 +2,8 @@
 title: Psilocybe tibeticensis
 type: species
 tags:
-  - [[psilocybin-mushroom]]
-  - [[agar]]icales
+  - psilocybin-mushroom
+  - agaricales
   - hymenogastraceae
   - asian-species
   - alpine-fungus

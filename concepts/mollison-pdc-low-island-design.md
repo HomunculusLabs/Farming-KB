@@ -4,7 +4,7 @@ tags:
   - permaculture
   - islands
   - atoll-design
-  - [[water-management]]
+  - water-management
   - mollison-pdc
 date: 2026-04-25
 updated: 2026-04-25

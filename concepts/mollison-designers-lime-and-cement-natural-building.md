@@ -1,7 +1,7 @@
 ---
 title: Lime and Cement in Natural Building
 tags:
-  - [[natural-building]]
+  - natural-building
   - lime
   - cement
   - mortars

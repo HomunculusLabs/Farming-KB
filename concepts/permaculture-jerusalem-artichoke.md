@@ -98,6 +98,8 @@ Popular varieties include 'Fuseau' (smooth, elongated tubers that are easier to 
 
 ## See Also
 
+- [[jerusalem-artichoke]]
+
 - [[permaculture-tuber-crops]]
 
 - [[permaculture-plant-selection]]

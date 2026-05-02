@@ -3,9 +3,9 @@ title: Compost Toilet Humanure Systems
 tags:
   - waste-recycling
   - sanitation
-  - [[composting-systems]]
+  - composting-systems
   - nutrient-cycling
-  - [[permaculture-design]]
+  - permaculture-design
 date: 2026-04-25
 updated: 2026-04-25
 sources:

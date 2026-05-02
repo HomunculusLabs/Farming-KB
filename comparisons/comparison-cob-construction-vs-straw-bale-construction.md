@@ -1,6 +1,6 @@
 ---
-title: "Cob vs [[straw-bale-construction]]"
-tags: [comparison, [[natural-building]], construction, [[permaculture]]]
+title: "Cob vs straw-bale-construction"
+tags: [comparison, natural-building, construction, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

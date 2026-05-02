@@ -1,3 +1,12 @@
+---
+title: "Gartz Gymnopilus Purpuratus South American Mushroom In Europe"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [mushroom-cultivation, mycology]
+sources: []
+---
+
      1|---
      2|title: Gymnopilus Purpuratus South American Mushroom in Europe
      3|tags: [Gymnopilus-purpuratus, South-American-mushrooms, European-introduction,

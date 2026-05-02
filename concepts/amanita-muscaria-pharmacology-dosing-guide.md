@@ -1,5 +1,5 @@
 ---
-title: [[amanita-muscaria-pharmacology]] and Healing Properties
+title: amanita-muscaria-pharmacology and Healing Properties
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

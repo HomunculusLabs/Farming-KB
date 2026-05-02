@@ -1,6 +1,6 @@
 ---
 title: Medicinal Mushrooms Reishi and Maitake
-tags: [[mycology]], [[medicinal-mushrooms]], ganoderma, grifola, fungi]
+tags: mycology, medicinal-mushrooms, ganoderma, grifola, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]

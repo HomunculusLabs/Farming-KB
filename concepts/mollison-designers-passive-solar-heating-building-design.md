@@ -1,9 +1,9 @@
 ---
 title: Passive Solar Heating - Building Design
 tags:
-  - [[passive-solar-design]]
+  - passive-solar-design
   - sustainable-architecture
-  - [[permaculture-design]]
+  - permaculture-design
   - thermal-mass
   - energy-efficiency
 date: 2026-04-25

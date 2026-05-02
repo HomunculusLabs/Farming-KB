@@ -3,7 +3,7 @@ title: "Fukuoka's Green Philosophy and One-Grain Revolution"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "[[fukuoka-sowing-natural-farming-philosophy]] [[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-clay-seed-ball-preparation]] [[fukuoka-sowing-desert-greening-worldwide-results]] [[fukuoka-sowing-natural-farming-climate-change]] [[fukuoka-road-one-straw-revolution-continuation]] [[fukuoka-road-spiritual-aspects-farming]] [[fukuoka-road-to-natural-farming]]"
+wikilinks: "fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-clay-seed-ball-preparation fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-natural-farming-climate-change fukuoka-road-one-straw-revolution-continuation fukuoka-road-spiritual-aspects-farming fukuoka-road-to-natural-farming"
 type: concept
 tags: [fukuoka]
 ---

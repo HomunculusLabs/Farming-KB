@@ -3,11 +3,11 @@ title: Amazonian Ayahuasca Shamanism
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 1-4, 6, 9
 related:
-  - [[banisteriopsis-caapi]]
+  - banisteriopsis-caapi
   - dmt
   - jivaro-shamanism
   - cashinahua-ayahuasca
-  - [[campa-ayahuasca-ceremony]]
+  - campa-ayahuasca-ceremony
   - yage-experience-themes
   - urban-ayahuasca-healing
 tags: [ethnobotany, shamanism, amazon, ayahuasca, banisteriopsis, dmt, psychotria]

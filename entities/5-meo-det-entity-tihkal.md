@@ -3,7 +3,7 @@ title: 5 Meo Det (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [chemistry, tihkal, [[tryptamine]]s]
+tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 5-MeO-DET — TIHKAL #36

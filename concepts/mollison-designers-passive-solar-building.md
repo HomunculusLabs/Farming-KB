@@ -5,7 +5,7 @@ tags:
   - building-design
   - thermal-mass
   - energy-efficiency
-  - [[natural-building]]
+  - natural-building
 date: 2026-04-25
 updated: 2026-04-25
 sources:

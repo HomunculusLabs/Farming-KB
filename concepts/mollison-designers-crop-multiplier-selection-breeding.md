@@ -5,7 +5,7 @@ tags:
   - plant-breeding
   - genetic-diversity
   - local-adaptation
-  - [[permaculture-design]]
+  - permaculture-design
 date: 2026-04-25
 updated: 2026-04-25
 sources:

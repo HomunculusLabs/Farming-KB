@@ -1,3 +1,12 @@
+---
+title: "Pdc Passive Design Principles"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [permaculture]
+sources: []
+---
+
      1|---
      2|title: PDC Passive Design Principles for Buildings and Landscapes
      3|created: 2026-04-18

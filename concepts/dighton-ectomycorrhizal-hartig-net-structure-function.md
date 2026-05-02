@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - mycorrhizae
- [[ectomycorrhizal-ecology]] [[ectomycorrhizal-associations]]
+ ectomycorrhizal-ecology ectomycorrhizal-associations
 date: 2026-04-25
 updated: 2026-04-25
 sources:

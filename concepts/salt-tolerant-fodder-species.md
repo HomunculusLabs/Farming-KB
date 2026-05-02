@@ -1,6 +1,6 @@
 ---
 title: salt tolerant fodder species
-tags: [saline-land, fodder, land-rehabilitation, [[permaculture]],
+tags: [saline-land, fodder, land-rehabilitation, permaculture,
   pasture, erosion-control, livestock]
 date: 2026-04-28
 updated: 2026-04-28

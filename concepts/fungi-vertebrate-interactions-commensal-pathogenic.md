@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - vertebrate-pathogens
-  - [[fungal-ecology]]
+  - fungal-ecology
   - biodiversity
   - symbiosis
 date: 2026-04-25

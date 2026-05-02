@@ -6,7 +6,7 @@ tags:
   - medical-mycology
   - fungal-pathogenesis
   - dermatology
-  - [[fungal-ecology]]
+  - fungal-ecology
 date: 2026-04-25
 updated: 2026-04-25
 sources:

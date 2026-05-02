@@ -1,6 +1,6 @@
 ---
 title: White Rot Fungi
-tags: [[mycology]], [[decomposition]], bioremediation, wood-decay]
+tags: mycology, decomposition, bioremediation, wood-decay]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]

@@ -3,7 +3,7 @@ title: fruit tree propagation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [fruit-tree, orchard, [[homesteading]], cultivation, plant-growth, trees, pruning, agriculture]
+tags: [fruit-tree, orchard, homesteading, cultivation, plant-growth, trees, pruning, agriculture]
 sources: []
 ---
 

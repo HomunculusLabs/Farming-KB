@@ -3,7 +3,7 @@ title: 4 Ho Mipt (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [chemistry, tihkal, [[tryptamine]]s]
+tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 4-HO-MIPT (Miprocin) — TIHKAL #22

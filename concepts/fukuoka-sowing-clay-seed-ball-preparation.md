@@ -3,7 +3,7 @@ title: "Clay Seed Ball Preparation Techniques — Fukuoka Method"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "[[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-natural-farming-philosophy]] [[fukuoka-sowing-desert-greening-worldwide-results]] [[fukuoka-sowing-natural-farming-climate-change]] [[fukuoka-sowing-green-philosophy-one-grain-revolution]] [[fukuoka-road-seed-ball-experiments]] [[fukuoka-clay-pellet-desert-greening]]"
+wikilinks: "fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-natural-farming-climate-change fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-seed-ball-experiments fukuoka-clay-pellet-desert-greening"
 type: concept
 tags: [fukuoka, plant-growth]
 ---

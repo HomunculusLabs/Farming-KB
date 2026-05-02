@@ -3,7 +3,7 @@ title: Seed Balls and Direct Seeding Techniques
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-four-principles]] [[fukuoka-straw-rice-without-plowing]] [[fukuoka-straw-winter-grain-straw-mulch]] [[fukuoka-straw-vegetable-growing]] [[fukuoka-straw-healing-the-earth]]"
+wikilinks: "fukuoka-straw-four-principles fukuoka-straw-rice-without-plowing fukuoka-straw-winter-grain-straw-mulch fukuoka-straw-vegetable-growing fukuoka-straw-healing-the-earth"
 type: concept
 tags: [fukuoka, plant-growth]
 ---

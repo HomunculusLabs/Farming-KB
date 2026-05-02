@@ -2,7 +2,7 @@
 title: Endophytic Fungi and Plant Growth Promotion in Contaminated Soils
 created: 2026-04-26
 tags:
-  - [[endophytic-fungi]]
+  - endophytic-fungi
   - phytoremediation
   - plant-growth-promotion
   - stress-tolerance

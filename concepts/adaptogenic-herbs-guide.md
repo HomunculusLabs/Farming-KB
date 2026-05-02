@@ -5,12 +5,12 @@ ti
 
 ## Overview
 
-Adaptogens are a class of herbs and [[mushroom-nutrition|mushroom]]s that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
+Adaptogens are a class of herbs and mushrooms that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
 1. Be non-specific (increase resistance to a broad range of stressors).
 2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance).
 3. Be safe and non-toxic with minimal side effects.
 
-This guide covers five primary adaptogenic herbs: [[ashwagandha-growing-guide|ashwagandha]], rhodiola, holy basil, eleuthero, and maca.
+This guide covers five primary adaptogenic herbs: ashwagandha, rhodiola, holy basil, eleuthero, and maca.
 
 ## Ashwagandha (Withania somnifera)
 

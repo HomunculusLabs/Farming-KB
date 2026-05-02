@@ -2,7 +2,7 @@
 title: Domestic Animal Integration Design
 tags:
   - animal-systems
-  - [[permaculture-design]]
+  - permaculture-design
   - integrated-farming
   - manure-management
   - food-production

@@ -5,7 +5,7 @@ tags:
   - mycology
   - aquatic-ecology
   - decomposition
-  - [[fungal-ecology]]
+  - fungal-ecology
   - biomass
 date: 2026-04-25
 updated: 2026-04-25

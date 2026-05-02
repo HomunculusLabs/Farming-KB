@@ -1,11 +1,11 @@
 ---
 title: Contamination Prevention (Growing Gourmet & Medicinal Mushrooms)
-[[mushroom-cultivation]]updated: 2026-04-25
+mushroom-cultivationupdated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, contamination, sterile-technique, HEPA, laboratory, hygiene]
 sources:
   - label: "Growing Gourmet and Medicinal Mushrooms"
-    author: [[paul-stamets]]
+    author: paul-stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---

@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - wind-energy
   - water-pumping
-  - [[appropriate-technology]]
+  - appropriate-technology
   - energy-systems
   - permaculture-designers-manual
 date: 2026-04-25

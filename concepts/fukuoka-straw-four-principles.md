@@ -3,7 +3,7 @@ title: Fukuoka's Five Principles of Natural Farming
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-natural-farming-philosophy]] [[fukuoka-straw-rice-without-plowing]] [[fukuoka-straw-soil-building]] [[fukuoka-straw-pest-control-natural-balance]] [[fukuoka-straw-vegetable-growing]] [[fukuoka-straw-mandala-orchard-design]]"
+wikilinks: "fukuoka-straw-natural-farming-philosophy fukuoka-straw-rice-without-plowing fukuoka-straw-soil-building fukuoka-straw-pest-control-natural-balance fukuoka-straw-vegetable-growing fukuoka-straw-mandala-orchard-design"
 type: concept
 tags: [fukuoka, principles]
 ---

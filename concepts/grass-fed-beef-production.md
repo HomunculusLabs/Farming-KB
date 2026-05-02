@@ -3,7 +3,7 @@ title: Grass-Fed Beef Production
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [livestock, animal-husbandry, forage, agriculture, economics, [[homesteading]], sustainability]
+tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading, sustainability]
 sources: []
 ---
 

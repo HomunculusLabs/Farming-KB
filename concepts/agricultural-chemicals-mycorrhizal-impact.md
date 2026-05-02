@@ -1,5 +1,5 @@
 ---
-title: Agricultural Chemicals and [[mycorrhiza]]l Impact
+title: Agricultural Chemicals and mycorrhizal Impact
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

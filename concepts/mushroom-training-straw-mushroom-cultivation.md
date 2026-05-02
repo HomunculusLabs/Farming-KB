@@ -1,5 +1,5 @@
 ---
-title: [[paddy-straw-mushroom]] Cultivation
+title: paddy-straw-mushroom Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept

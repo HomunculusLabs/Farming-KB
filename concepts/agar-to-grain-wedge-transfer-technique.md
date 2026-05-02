@@ -1,7 +1,7 @@
 ---
 title: "Agar-to-Grain Wedge Transfer Technique"
 tags:
-  - [[spawn-production]]
+  - spawn-production
   - sterile-technique
   - grain-spawn
   - agar-work

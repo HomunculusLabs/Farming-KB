@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-hunting-and-identification]] — From Bloomfield's Orchard
+title: mushroom-hunting-and-identification — From Bloomfield's Orchard
 created: 2026-04-24
 updated: 2026-04-24
 type: concept

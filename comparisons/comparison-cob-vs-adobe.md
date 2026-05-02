@@ -1,5 +1,5 @@
 ---
-title: "Cob vs [[adobe-construction]]"
+title: "Cob vs adobe-construction"
 tags: [comparison, natural-building, earth-architecture, cob, adobe]
 date: 2026-04-25
 updated: 2026-04-25

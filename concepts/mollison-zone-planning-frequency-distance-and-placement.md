@@ -1,7 +1,7 @@
 ---
 title: Zone Planning Frequency Visit Distance and Placement
 created: 2026-04-26
-tags: [permaculture, zone-planning, design-methodology, site-layout, [[permaculture-principles]]]
+tags: [permaculture, zone-planning, design-methodology, site-layout, permaculture-principles]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

@@ -4,7 +4,7 @@ created: 2026-04-22
 updated: 2026-04-22
 type: concept
 tags:
-  - [[fungal-ecology]]
+  - fungal-ecology
   - biogeochemistry
   - geomycology
   - mineral-transformations

@@ -1,5 +1,5 @@
 ---
-title: "Cob vs [[straw-bale-construction]]"
+title: "Cob vs straw-bale-construction"
 tags: [comparison, natural-building, cob, straw-bale, sustainable-housing]
 date: 2026-04-25
 updated: 2026-04-25

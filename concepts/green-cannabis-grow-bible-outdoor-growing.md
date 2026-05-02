@@ -1,5 +1,5 @@
 ---
-title: [[outdoor-cannabis-growing]] - Greg Green's Cannabis Grow Bible
+title: outdoor-cannabis-growing - Greg Green's Cannabis Grow Bible
 created: 2026-04-26
 tags:
   - outdoor-growing

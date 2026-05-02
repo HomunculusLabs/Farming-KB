@@ -1,7 +1,7 @@
 ---
 title: baeocystin
 type: chemical
-tags: ["[[tryptamine]]-alkaloid", "mushroom-constituent", "[[psilocybin]]-related", "minor-alkaloid"]
+tags: ["tryptamine-alkaloid", "mushroom-constituent", "psilocybin-related", "minor-alkaloid"]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md, /Users/t3rpz/wiki/raw/papers/tryptamine-cubensis-gartz.md]

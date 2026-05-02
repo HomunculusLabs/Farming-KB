@@ -1,7 +1,7 @@
 ---
 title: Earth-Rammed Tire Construction
 tags:
-  - [[natural-building]]
+  - natural-building
   - earthship
   - thermal-mass
   - recycling

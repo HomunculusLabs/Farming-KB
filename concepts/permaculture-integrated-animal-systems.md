@@ -3,7 +3,7 @@ title: Permaculture Integrated Animal Systems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[permaculture]], design]
+tags: permaculture, design]
 sources: []
 ---
 # permaculture integrated animal systems

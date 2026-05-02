@@ -2,9 +2,9 @@
 title: Fungal Roles in Soil Aggregate Formation
 tags:
   - soil-structure
-  - [[glomalin-and-soil-carbon]]
+  - glomalin-and-soil-carbon
   - soil-aggregates
-  - [[mycorrhiza]]
+  - mycorrhiza
   - soil-stability
 date: 2026-04-25
 updated: 2026-04-25

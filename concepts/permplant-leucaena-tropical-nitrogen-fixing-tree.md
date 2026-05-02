@@ -1,7 +1,7 @@
 ---
 title: Leucaena as Tropical Nitrogen-Fixing Multipurpose Tree
 tags:
-  - [[permaculture]]
+  - permaculture
   - nitrogen-fixing
   - fodder-trees
   - tropical-agriculture

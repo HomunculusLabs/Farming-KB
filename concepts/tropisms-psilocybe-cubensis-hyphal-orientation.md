@@ -3,7 +3,7 @@ title: Hyphal Orientation and Anemotropism in Psilocybe cubensis
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycology, anemotropism, hyphal-growth, [[psilocybe-cubensis-profile]], wind-tunnel]
+tags: [mycology, anemotropism, hyphal-growth, psilocybe-cubensis-profile, wind-tunnel]
 sources:
   - "Badham, E.R. (1982) Tropisms in the Mushroom Psilocybe cubensis. Mycologia 74(2):275-279"
 ---

@@ -2,7 +2,7 @@
 title: Composting Toilets and Humanure in Permaculture
 tags:
   - permaculture
-  - [[composting-toilets]]
+  - composting-toilets
   - humanure
   - mollison-designers
 date: 2026-04-25

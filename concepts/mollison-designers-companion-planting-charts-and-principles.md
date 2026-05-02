@@ -1,7 +1,7 @@
 ---
 title: Companion Planting Charts and Principles
 tags:
-  - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - plant-interactions
   - polyculture
   - guild-design

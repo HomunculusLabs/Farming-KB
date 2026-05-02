@@ -3,7 +3,7 @@ title: "Bacteria and Their Role in Soil"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-fungi-role-soil]] [[lowenfels-protozoa-nematodes]] [[lowenfels-nutrients-soil-chemistry-ph-cec]] [[lowenfels-nutrients-nitrogen-cycle]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-fungi-role-soil lowenfels-protozoa-nematodes lowenfels-nutrients-soil-chemistry-ph-cec lowenfels-nutrients-nitrogen-cycle"
 type: concept
 tags: [soil]
 ---

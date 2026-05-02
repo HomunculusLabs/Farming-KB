@@ -2,7 +2,7 @@
 title: "Growing Room Humidification and Climate Control Systems"
 created: 2026-04-26
 tags:
-  - [[mushroom-cultivation]]
+  - mushroom-cultivation
   - climate-control
   - humidification
   - growing-room

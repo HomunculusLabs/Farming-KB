@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - tropical-forest
   - biodiversity
-  - [[fungal-ecology]]
+  - fungal-ecology
   - canopy
   - decomposition
 date: 2026-04-25

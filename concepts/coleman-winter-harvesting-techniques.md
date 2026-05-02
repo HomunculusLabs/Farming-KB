@@ -3,11 +3,11 @@ title: Winter Harvesting Techniques
 created: 2026-04-26
 sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 15
 tags:
-  - [[coleman-post-harvest-handling-and-storage]]
+  - coleman-post-harvest-handling-and-storage
   - winter-harvest
   - coleman
   - post-harvest
-  - [[coleman-cool-greenhouse]]
+  - coleman-cool-greenhouse
   - packing
   - efficiency
 type: concept

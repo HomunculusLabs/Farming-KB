@@ -1,5 +1,5 @@
 ---
-title: Cannabis Breeding, Genetics, and True Breeding - [[greg-green]]'s Cannabis Grow Bible
+title: Cannabis Breeding, Genetics, and True Breeding - greg-green's Cannabis Grow Bible
 created: 2026-04-26
 tags:
   - breeding
@@ -10,7 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - raw/papers/[[greg-green]]-the-cannabis-grow-bible.md
+  - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
 # Cannabis Breeding, Genetics, and True Breeding

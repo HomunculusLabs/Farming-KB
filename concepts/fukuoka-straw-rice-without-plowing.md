@@ -3,7 +3,7 @@ title: Rice Growing Without Plowing or Flooding
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-natural-farming-philosophy]] [[fukuoka-straw-four-principles]] [[fukuoka-straw-winter-grain-straw-mulch]] [[fukuoka-straw-seed-balls-direct-seeding]] [[fukuoka-straw-soil-building]]"
+wikilinks: "fukuoka-straw-natural-farming-philosophy fukuoka-straw-four-principles fukuoka-straw-winter-grain-straw-mulch fukuoka-straw-seed-balls-direct-seeding fukuoka-straw-soil-building"
 type: concept
 tags: [fukuoka]
 ---

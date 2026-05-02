@@ -3,7 +3,7 @@ title: Fukuoka's Vision for Healing the Earth
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-natural-farming-philosophy]] [[fukuoka-straw-four-principles]] [[fukuoka-straw-seed-balls-direct-seeding]] [[fukuoka-straw-soil-building]] [[fukuoka-straw-pest-control-natural-balance]]"
+wikilinks: "fukuoka-straw-natural-farming-philosophy fukuoka-straw-four-principles fukuoka-straw-seed-balls-direct-seeding fukuoka-straw-soil-building fukuoka-straw-pest-control-natural-balance"
 type: concept
 tags: [fukuoka, healing]
 ---

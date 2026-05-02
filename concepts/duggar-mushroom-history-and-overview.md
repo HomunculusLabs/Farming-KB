@@ -1,5 +1,5 @@
 ---
-title: [[history-of-mushroom-cultivation]] and Overview
+title: history-of-mushroom-cultivation and Overview
 created: 2026-04-26
 sources: Benjamin Minge Duggar, "Mushroom Growing" (1915)
 source_path: raw/papers/benjamin-minge-duggar-mushroom-growing.md

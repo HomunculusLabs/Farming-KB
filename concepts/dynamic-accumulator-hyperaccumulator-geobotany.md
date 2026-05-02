@@ -1,7 +1,7 @@
 ---
 title: "Hyperaccumulators and Geobotanical Prospecting"
 tags:
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - geobotany
   - hyperaccumulators
   - soil-minerals

@@ -1,5 +1,5 @@
 ---
-title: "JADAM Philosophy and [[cho-seawater-and-fermented-seawater]]'s Farming Revolution"
+title: "JADAM Philosophy and cho-seawater-and-fermented-seawater's Farming Revolution"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept

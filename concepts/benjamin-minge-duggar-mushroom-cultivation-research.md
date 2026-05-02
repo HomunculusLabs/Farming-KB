@@ -1,6 +1,6 @@
 ---
 title: Benjamin Minge Duggar Mushroom Cultivation Research
-tags: [[mycology]], [[mushroom-cultivation]], history-of-science,
+tags: mycology, mushroom-cultivation, history-of-science,
       agricultural-research, antibiotics]
 date: 2026-04-28
 updated: 2026-04-28

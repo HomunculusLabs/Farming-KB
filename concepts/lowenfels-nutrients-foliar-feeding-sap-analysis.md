@@ -3,7 +3,7 @@ title: "Foliar Feeding and Plant Sap Analysis"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Jeff Lowenfels, Teaming with Nutrients"
-wikilinks: "[[lowenfels-nutrients-soil-chemistry-ph-cec]] [[lowenfels-nutrients-nitrogen-cycle]] [[lowenfels-nutrients-phosphorus-mycorrhizae]] [[lowenfels-nutrients-potassium-calcium-magnesium]] [[lowenfels-nutrients-micronutrients]]"
+wikilinks: "lowenfels-nutrients-soil-chemistry-ph-cec lowenfels-nutrients-nitrogen-cycle lowenfels-nutrients-phosphorus-mycorrhizae lowenfels-nutrients-potassium-calcium-magnesium lowenfels-nutrients-micronutrients"
 type: concept
 tags: [nutrients]
 ---

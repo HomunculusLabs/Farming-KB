@@ -2,7 +2,7 @@
 title: Macrofungal Fruiting Phenology and Climate Variability
 created: 2026-04-26
 tags:
-  - [[fungal-ecology]]
+  - fungal-ecology
   - climate effects
   - phenology
   - macrofungi

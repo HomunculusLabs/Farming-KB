@@ -5,7 +5,7 @@ tags:
   - mycology
   - mycoparasitism
   - host-recognition
-  - [[fungal-ecology]]
+  - fungal-ecology
   - cell-signaling
 date: 2026-04-25
 updated: 2026-04-25

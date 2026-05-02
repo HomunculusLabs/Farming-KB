@@ -3,7 +3,7 @@ title: "Fukuoka Natural Farming Philosophy — Refined (Sowing Seeds in the Dese
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "[[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-clay-seed-ball-preparation]] [[fukuoka-sowing-desert-greening-worldwide-results]] [[fukuoka-sowing-natural-farming-climate-change]] [[fukuoka-sowing-green-philosophy-one-grain-revolution]] [[fukuoka-road-do-nothing-farming]] [[fukuoka-road-back-to-nature-overview]]"
+wikilinks: "fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-clay-seed-ball-preparation fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-natural-farming-climate-change fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-do-nothing-farming fukuoka-road-back-to-nature-overview"
 type: concept
 tags: [fukuoka, natural-farming]
 ---

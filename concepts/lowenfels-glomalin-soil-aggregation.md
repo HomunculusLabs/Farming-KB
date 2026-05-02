@@ -1,10 +1,10 @@
 ---
 title: Glomalin and Soil Aggregation
 tags:
-  - [[glomalin-and-soil-carbon]]
+  - glomalin-and-soil-carbon
   - soil-aggregation
   - carbon-sequestration
-  - [[mycorrhiza]]
+  - mycorrhiza
   - soil-structure
 date: 2026-04-25
 updated: 2026-04-25

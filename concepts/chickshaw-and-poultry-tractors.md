@@ -3,7 +3,7 @@ title: chickshaw and poultry tractors
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, livestock, forage, [[permaculture]], [[homesteading]], construction, design]
+tags: [animal-husbandry, livestock, forage, permaculture, homesteading, construction, design]
 sources: []
 ---
 

@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - bioaugmentation
   - biostimulation
-  - [[fungal-bioremediation]]
+  - fungal-bioremediation
   - bioremediation-strategies
   - contaminated-soil
 date: 2026-04-25

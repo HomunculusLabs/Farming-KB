@@ -3,7 +3,7 @@ title: LSD Therapy and Psychiatric Research in the 1950s-60s
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Albert Hofmann, LSD - My Problem Child"
-wikilinks: "[[hofmann-lsd-discovery-bicycle-day]] [[hofmann-lsd-pharmacology-and-effects]] [[hofmann-lsd-sandoz-research-program]] [[hofmann-lsd-mazatec-and-psilocybin]] [[hofmann-lsd-consciousness-and-philosophy]]"
+wikilinks: "hofmann-lsd-discovery-bicycle-day hofmann-lsd-pharmacology-and-effects hofmann-lsd-sandoz-research-program hofmann-lsd-mazatec-and-psilocybin hofmann-lsd-consciousness-and-philosophy"
 type: concept
 tags: [lsd]
 ---

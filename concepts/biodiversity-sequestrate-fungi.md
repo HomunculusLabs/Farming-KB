@@ -2,8 +2,8 @@
 title: Sequestrate Fungi
 tags:
   - mycology
-  - [[fungal-ecology]]
-  - [[sequestrate-fungi]]
+  - fungal-ecology
+  - sequestrate-fungi
   - truffles
   - ectomycorrhizal
 date: 2026-04-28

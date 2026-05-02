@@ -3,7 +3,7 @@ title: Phallic Symbolism of Mushrooms in Ancient Religions
 created: 2026-04-26
 updated: 2026-04-24
 sources: "James Arthur, Mushrooms and Mankind"
-wikilinks: "[[arthur-mushrooms-sumerian-egyptian-art]] [[arthur-christmas-tree-amanita-muscaria]] [[arthur-mushrooms-hinduism-buddhism]] [[arthur-mushroom-iconography-medieval-europe]]"
+wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-christmas-tree-amanita-muscaria arthur-mushrooms-hinduism-buddhism arthur-mushroom-iconography-medieval-europe"
 type: concept
 tags: [mushroom-cultivation, mushrooms]
 ---

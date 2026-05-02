@@ -3,7 +3,7 @@ title: Cannabis in Palliative Care (Blesching, Cannabis Health Index)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-cancer-symptoms]] [[cannabis-chronic-pain-management]] [[blesching-cannabis-gastrointestinal-disorders]] [[blesching-cannabis-sleep-disorders]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-cancer-symptoms cannabis-chronic-pain-management blesching-cannabis-gastrointestinal-disorders blesching-cannabis-sleep-disorders"
 type: concept
 tags: [cannabis]
 ---

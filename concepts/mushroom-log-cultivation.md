@@ -97,7 +97,9 @@ Supplemented sawdust blocks in filter bags provide faster turnaround than natura
 - Sterilized, inoculated, incubated at 20-25C, fruited at lower temperatures
 - See [[mushroom-substrates]] for detailed substrate formulations
 
-## Related Pages
+## Related
+
+- [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]] Pages
 
 - [[mushroom-cultivation-basics]] -- Stamets' 10-step process overview
 - [[mushroom-species-guide]] -- Species-specific parameters and difficulty ratings

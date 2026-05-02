@@ -2,7 +2,7 @@
 title: Humulene
 type: chemical
 tags: [terpene, cannabis, anti-inflammatory, sesquiterpene, appetite-suppressant]
-date: 2[[cannabis-sativa]]ed: 2026-04-28
+date: 2cannabis-sativaed: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md]
 ---
 

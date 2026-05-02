@@ -1,5 +1,5 @@
 ---
-title: [[mycorrhiza]]l Inoculum Reduction Techniques
+title: mycorrhizal Inoculum Reduction Techniques
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: [[permaculture]] Sewage and Marsh Treatment
+title: permaculture Sewage and Marsh Treatment
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

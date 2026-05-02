@@ -1,5 +1,5 @@
 ---
-title: Tree Oyster Mushroom ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]) Species Profile
+title: Tree Oyster Mushroom (cancer-medicinal-mushrooms-pleurotus-ostreatus) Species Profile
 created: 2026-04-26
 tags:
   - mycology

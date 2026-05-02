@@ -117,6 +117,8 @@ Some researchers caution against over-anthropomorphizing forest networks:
 
 ## See Also
 
+- [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]]
+
 - [[wood-wide-web-theory]]
 
 - [[mycelial-networks]]

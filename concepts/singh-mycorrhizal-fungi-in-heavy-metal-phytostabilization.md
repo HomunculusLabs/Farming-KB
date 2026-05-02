@@ -2,9 +2,9 @@
 title: Mycorrhizal Fungi in Heavy Metal Phytostabilization
 created: 2026-04-26
 tags:
-  - [[mycorrhizal-fungi]]
+  - mycorrhizal-fungi
   - heavy-metals
-  - [[phytostabilization]]
+  - phytostabilization
   - soil-remediation
   - plant-microbe-interactions
 date: 2026-04-25

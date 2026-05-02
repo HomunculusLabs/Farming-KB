@@ -1,5 +1,5 @@
 ---
-title: [[stump-inoculation-techniques]] for [[oyster-mushroom-cultivation-economics]]
+title: stump-inoculation-techniques for oyster-mushroom-cultivation-economics
 tags: [mycology, inoculation, sterile-technique, agar-transfer, Stamets]
 date: 2026-04-25
 updated: 2026-04-25

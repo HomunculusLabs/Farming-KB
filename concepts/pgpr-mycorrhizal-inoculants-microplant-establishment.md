@@ -1,5 +1,5 @@
 ---
-title: PGPR and [[mycorrhiza]]l Inoculants for Microplant Establishment
+title: PGPR and mycorrhizal Inoculants for Microplant Establishment
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

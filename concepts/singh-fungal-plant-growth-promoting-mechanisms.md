@@ -3,7 +3,7 @@ title: Fungal Plant Growth Promoting Mechanisms
 tags:
   - PGPF
   - plant-growth-promotion
-  - [[fungal-ecology]]
+  - fungal-ecology
   - rhizosphere
   - sustainable-agriculture
 date: 2026-04-25

@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - radionuclides
-  - [[fungal-ecology]]
+  - fungal-ecology
   - bioremediation
   - pollution
 date: 2026-04-25

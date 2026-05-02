@@ -1,6 +1,6 @@
 ---
 title: "agaricus bisporus"
-tags: [species, fungi, medicinal-mushroom, [[agar]]icus]
+tags: [species, fungi, medicinal-mushroom, agaricus]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [cancer-treatments-medicinal-mushrooms.md]

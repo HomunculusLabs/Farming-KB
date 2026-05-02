@@ -3,7 +3,7 @@ title: "Mitosporic Fungi Diversity and Species Estimates"
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-biodiversity]]
+  - fungal-biodiversity
   - species-estimates
   - hyphomycetes
   - coelomycetes

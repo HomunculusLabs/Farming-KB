@@ -3,7 +3,7 @@ title: homestead water systems
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], water, [[water-management]], engineering, filtration]
+tags: homesteading, water, water-management, engineering, filtration]
 sources: []
 ---
 

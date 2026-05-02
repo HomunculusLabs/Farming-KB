@@ -4,7 +4,7 @@ tags:
   - fungi
   - decomposition
   - nutrient-cycling
-  - [[soil-food-web]]
+  - soil-food-web
   - organic-matter
 date: 2026-04-25
 updated: 2026-04-25

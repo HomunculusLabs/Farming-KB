@@ -3,7 +3,7 @@ title: Cannabis for PTSD and Anxiety Disorders
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-sleep-disorders]] [[cannabis-for-epilepsy-and-seizure-disorders]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-sleep-disorders cannabis-for-epilepsy-and-seizure-disorders"
 type: concept
 tags: [cannabis]
 ---

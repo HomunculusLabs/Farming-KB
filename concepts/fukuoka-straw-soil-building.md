@@ -3,7 +3,7 @@ title: Soil Building Without Compost or Fertilizer
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-four-principles]] [[fukuoka-straw-mandala-orchard-design]] [[fukuoka-straw-vegetable-growing]] [[fukuoka-straw-rice-without-plowing]] [[fukuoka-straw-winter-grain-straw-mulch]]"
+wikilinks: "fukuoka-straw-four-principles fukuoka-straw-mandala-orchard-design fukuoka-straw-vegetable-growing fukuoka-straw-rice-without-plowing fukuoka-straw-winter-grain-straw-mulch"
 type: concept
 tags: [construction, fukuoka, soil]
 ---

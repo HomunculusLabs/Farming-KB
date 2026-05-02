@@ -91,6 +91,8 @@ Understanding ECM host tree partnerships is essential for several applied object
 The field of ECM host tree partnership research continues to advance, with molecular tools providing increasingly detailed understanding of the specificity, diversity, and function of these remarkable symbiotic relationships. See [[mycorrhizal-inoculation-techniques]] for applied inoculation methods.
 
 ## See Also
+
+- [[douglas-fir]]
 - [[mycorrhizal-tree-shrub-inoculation-guide]]
 
 - [[ectomycorrhizal-ecology]]

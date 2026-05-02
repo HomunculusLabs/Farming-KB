@@ -1,5 +1,5 @@
 ---
-title: "Sterile Technique and [[agar]] Culture in Mushroom Cultivation"
+title: "Sterile Technique and agar Culture in Mushroom Cultivation"
 tags: [mushroom-cultivation, sterile-technique, agar-media, mycology, contamination-control]
 date: 2026-04-25
 updated: 2026-04-25

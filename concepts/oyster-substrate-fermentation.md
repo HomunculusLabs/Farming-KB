@@ -1,5 +1,5 @@
 ---
-title: "Substrate Fermentation for [[oyster-mushrooms]]"
+title: "Substrate Fermentation for oyster-mushrooms"
 tags: [substrate, fermentation, shelf-cultivation, microbiology]
 date: 2026-04-28
 updated: 2026-04-28

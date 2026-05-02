@@ -3,7 +3,7 @@ title: "Desert Greening Projects — Worldwide Results (Fukuoka)"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "[[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-clay-seed-ball-preparation]] [[fukuoka-sowing-natural-farming-philosophy]] [[fukuoka-sowing-natural-farming-climate-change]] [[fukuoka-sowing-green-philosophy-one-grain-revolution]] [[fukuoka-road-africa-greening-desert]] [[fukuoka-road-desert-revegetation-travels]]"
+wikilinks: "fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-clay-seed-ball-preparation fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-natural-farming-climate-change fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-africa-greening-desert fukuoka-road-desert-revegetation-travels"
 type: concept
 tags: [fukuoka]
 ---

@@ -3,7 +3,7 @@ title: Mulch Pit Interplanting Technique
 tags:
   - soil-building
   - organic-gardening
-  - [[permaculture-design]]
+  - permaculture-design
   - nutrient-cycling
   - water-conservation
 date: 2026-04-25

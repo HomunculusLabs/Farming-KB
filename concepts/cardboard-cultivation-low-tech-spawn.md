@@ -4,7 +4,7 @@ tags:
   - mushroom-cultivation
   - waste-recycling
   - low-tech-farming
-  - [[spawn-production]]
+  - spawn-production
   - off-grid
 date: 2026-04-25
 updated: 2026-04-25

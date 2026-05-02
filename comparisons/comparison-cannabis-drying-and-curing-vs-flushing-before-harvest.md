@@ -1,3 +1,12 @@
+---
+title: "Comparison Cannabis Drying And Curing Vs Flushing Before Harvest"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [cannabis, cultivation, mushroom-cultivation, processing]
+sources: []
+---
+
      1|---
      [[cannabis-drying-and-curing]]and Curing vs Flushing Before Harvest"
      3|tags: [comparison, harvest, curing, flushing, post-harvest]

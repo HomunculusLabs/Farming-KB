@@ -4,8 +4,8 @@ created: 2026-04-26
 tags:
   - endophytes
   - root-fungi
-  - [[mycorrhiza]]
-  - [[fungal-ecology]]
+  - mycorrhiza
+  - fungal-ecology
   - plant-microbe-interactions
 date: 2026-04-25
 updated: 2026-04-25

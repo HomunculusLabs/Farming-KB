@@ -2,7 +2,7 @@
 title: animal butcher and processing
 created: 2026-04-12
 updated: 2026-04-12
-tyhomesteadingtags: [animal-husbandry, [[homesteading]], livestock, byproducts, processing, preservation]
+tyhomesteadingtags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
 sources: []
 ---
 # [[livestock-fencing-guide|animal]] butcher and processing

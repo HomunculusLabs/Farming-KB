@@ -1,6 +1,6 @@
 ---
 title: How Do I Make a Medicinal Mushroom Double Extraction Tincture?
-tags: [herbalism, [[mycology]], [[herbal-medicine]], extraction, mushrooms]
+tags: [herbalism, mycology, herbal-medicine, extraction, mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []

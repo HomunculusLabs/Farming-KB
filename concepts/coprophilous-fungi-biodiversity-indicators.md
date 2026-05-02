@@ -1,3 +1,12 @@
+---
+title: "Coprophilous Fungi Biodiversity Indicators"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [fungal-ecology, mycology]
+sources: []
+---
+
      1|---
      2|title: Coprophilous Fungi as Biodiversity Indicators
      3|created: 2026-04-26

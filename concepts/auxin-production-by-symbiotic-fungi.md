@@ -1,7 +1,7 @@
 ---
 title: "Auxin Production by Symbiotic Fungi"
 created: 2026-04-26
-tags: [[mycorrhiza]], auxin, plant-hormones, fungal-physiology, root-development]
+tags: mycorrhiza, auxin, plant-hormones, fungal-physiology, root-development]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

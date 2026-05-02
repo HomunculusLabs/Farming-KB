@@ -4,7 +4,7 @@ tags:
   - mycology
   - taxonomy
   - psilocybin
-  - [[mushroom-identification]]
+  - mushroom-identification
   - classification
 date: 2026-04-25
 updated: 2026-04-25

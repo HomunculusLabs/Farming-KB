@@ -123,6 +123,8 @@ years to decades to recover.
 
 ## Related
 
+- [[lowenfels-soil-macro-arthropods]]
+
 - [[mycorrhizal-fungi]]
 - [[fungal-partnerships-with-wildlife]]
 - [[fungal-nematode-trapping]]

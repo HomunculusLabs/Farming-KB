@@ -3,7 +3,7 @@ title: Phosphate and Potassium Accumulator Plants
 tags:
   - phosphorus
   - potassium
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - soil-minerals
   - organic-gardening
 date: 2026-04-28

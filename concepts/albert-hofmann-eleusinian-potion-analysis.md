@@ -1,5 +1,5 @@
 ---
-title: [[albert-hofmann]] and the Eleusinian Potion Analysis
+title: albert-hofmann and the Eleusinian Potion Analysis
 created: 2026-04-26
 updated: 2026-04-24
 sources: The Road to Eleusis (Wasson, Hofmann, Ruck)

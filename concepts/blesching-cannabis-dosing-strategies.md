@@ -3,7 +3,7 @@ title: Cannabis Dosing Strategies (Blesching, Cannabis Health Index)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-health-index-dosage-guidelines-medical]] [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-health-index-dosage-guidelines-medical blesching-cannabis-health-index-cannabinoid-terpene-synergy"
 type: concept
 tags: [cannabis]
 ---

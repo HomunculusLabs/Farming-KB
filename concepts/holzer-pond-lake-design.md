@@ -2,7 +2,7 @@
 title: Holzer Pond and Lake Design
 created: 2026-04-26
 tags:
-  - [[water-management]]
+  - water-management
   - pond-design
   - permaculture
   - holzer-permaculture

@@ -3,9 +3,9 @@ title: "Drought-Proofing Strategies for Farms and Landscapes"
 created: 2026-04-26
 tags:
   - permaculture
-  - [[water-management]]
+  - water-management
   - drought-resilience
-  - [[keyline-design]]
+  - keyline-design
   - landscape-planning
 date: 2026-04-25
 updated: 2026-04-25

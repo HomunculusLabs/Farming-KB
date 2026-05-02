@@ -1,6 +1,6 @@
 ---
 title: Zone and Sector Planning in Permaculture Design
-tags: [[permaculture-design]], zones, sectors, land-planning, permaculture]
+tags: permaculture-design, zones, sectors, land-planning, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]

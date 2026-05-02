@@ -5,7 +5,7 @@ tags:
   - watering
   - irrigation
   - plant-care
-  - [[water-management]]
+  - water-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

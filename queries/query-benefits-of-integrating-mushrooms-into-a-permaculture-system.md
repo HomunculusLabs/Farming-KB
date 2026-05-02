@@ -1,3 +1,12 @@
+---
+title: "Query Benefits Of Integrating Mushrooms Into A Permaculture System"
+created: 2026-05-02
+updated: 2026-05-02
+type: query
+tags: [mushroom-cultivation, mycology, permaculture]
+sources: []
+---
+
      1|---
      2|title: "What Are the Benefits of Integrating Mushrooms Into a Permaculture System"
      3|tags: [query, permaculture, mycology, mushrooms, food-forest]

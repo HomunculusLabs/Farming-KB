@@ -4,11 +4,11 @@ created: 2026-04-22
 updated: 2026-04-22
 type: concept
 tags:
-  - [[mycorrhiza]]
+  - mycorrhiza
   - carbon-cycle
   - biogeochemistry
   - soil-science
-  - [[fungal-ecology]]
+  - fungal-ecology
 sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---

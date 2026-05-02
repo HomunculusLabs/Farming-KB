@@ -1,7 +1,7 @@
 ---
 title: Ceratonia siliqua
 type: species
-tags: [[permaculture]], food-forest, drought-tolerant, leguminous, mediterranean]
+tags: permaculture, food-forest, drought-tolerant, leguminous, mediterranean]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]

@@ -1,5 +1,5 @@
 ---
-title: [[swale-design]] for Water Conservation
+title: swale-design for Water Conservation
 tags: [swale, water-conservation, permaculture, erosion-control, land-management]
 date: 2026-04-25
 updated: 2026-04-25

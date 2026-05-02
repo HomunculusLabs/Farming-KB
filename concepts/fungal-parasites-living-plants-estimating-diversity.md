@@ -2,7 +2,7 @@
 title: Fungal Parasites on Living Plants - Estimating Diversity
 created: 2026-04-26
 tags:
-  - [[fungal-ecology]]
+  - fungal-ecology
   - plant-pathogens
   - biodiversity-estimates
   - biotrophic-fungi

@@ -3,7 +3,7 @@ title: Dryland Garden and Oasis Design
 tags:
   - permaculture
   - dryland-farming
-  - [[desert-gardening]]
+  - desert-gardening
   - water-harvesting
   - oasis-model
 date: 2026-04-25

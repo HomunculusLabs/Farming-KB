@@ -5,7 +5,7 @@ tags:
   - hydroponics
   - dwc
   - bubbler
-  - [[deep-water-culture]]
+  - deep-water-culture
   - growing-mediums
 date: 2026-04-25
 updated: 2026-04-25

@@ -3,7 +3,7 @@ title: "Mycorrhizal Networks"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-fungi-role-soil]] [[lowenfels-bacteria-role-soil]] [[lowenfels-nutrients-soil-chemistry-ph-cec]] [[teaming-with-microbes-no-till-gardening-soil-health]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-fungi-role-soil lowenfels-bacteria-role-soil lowenfels-nutrients-soil-chemistry-ph-cec teaming-with-microbes-no-till-gardening-soil-health"
 type: concept
 tags: [mycology, mycorrhizal]
 ---

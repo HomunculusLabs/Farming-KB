@@ -1,7 +1,7 @@
 ---
 title: "Mycorrhizal Root Exudates and Pathogen Interactions"
 tags:
-  - [[root-exudates]]
+  - root-exudates
   - biocontrol
   - mycorrhizae
   - rhizosphere

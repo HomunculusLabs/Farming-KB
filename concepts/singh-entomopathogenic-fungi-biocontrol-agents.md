@@ -3,8 +3,8 @@ title: Entomopathogenic Fungi as Biocontrol Agents
 tags:
   - biocontrol
   - entomopathogenic-fungi
-  - [[integrated-pest-management]]
-  - [[mycopesticides]]
+  - integrated-pest-management
+  - mycopesticides
   - fungal-pathogens
 date: 2026-04-25
 updated: 2026-04-25

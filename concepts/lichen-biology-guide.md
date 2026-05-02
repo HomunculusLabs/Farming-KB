@@ -1,5 +1,5 @@
 ---
-title: Lichen Biology [[lichens]]reated: 2026-04-12
+title: Lichen Biology lichensreated: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, ecology, biology, symbiosis, foraging, species-profiles]

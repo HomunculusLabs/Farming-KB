@@ -1,5 +1,5 @@
 ---
-[[amanita-muscaria]]uscaria drying and preparation Guide
+amanita-muscariauscaria drying and preparation Guide
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

@@ -1,10 +1,10 @@
 ---
-title: [[stamets-psi-psilocybe-azurescens-species-guide]]
+title: stamets-psi-psilocybe-azurescens-species-guide
 type: species
 tags:
   - psilocybin-mushroom
   - psychedelic
-  -[[psilocybin-mushroom]]h-potency
+  -psilocybin-mushroomh-potency
   - pacific-northwest
 date: 2026-04-28
 updated: 2026-04-28

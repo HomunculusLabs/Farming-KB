@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - basidiomycota
-  - [[yeast-biology]]
+  - yeast-biology
   - biocontrol
   - phyllosphere-ecology
 date: 2026-04-25

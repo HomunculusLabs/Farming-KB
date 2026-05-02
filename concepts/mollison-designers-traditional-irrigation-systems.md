@@ -2,7 +2,7 @@
 title: "Traditional Irrigation Systems"
 tags:
   - irrigation
-  - [[water-management]]
+  - water-management
   - traditional-knowledge
   - community-systems
   - earthworks

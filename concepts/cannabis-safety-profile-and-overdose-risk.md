@@ -3,7 +3,7 @@ title: cannabis safety profile and overdose risk
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Blesching - The [[cannabis-health-index]]"
+  - "Blesching - The cannabis-health-index"
 type: concept
 tags: [cannabis, dosage, safety]
 ---

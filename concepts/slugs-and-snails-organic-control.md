@@ -3,9 +3,9 @@ title: Slugs and Snails - Organic Control
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [pest-control, organic, [[permaculture]], gardening, troubleshooting]
+tags: [pest-control, organic, permaculture, gardening, troubleshooting]
 sources:
-  - raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md
+  - raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
 
 # Slugs and Snails - Organic Control

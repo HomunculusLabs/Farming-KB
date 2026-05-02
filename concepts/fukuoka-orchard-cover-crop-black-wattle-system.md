@@ -5,7 +5,7 @@ tags:
   - fukuoka
   - cover-crops
   - black-wattle
-  - [[orchard-management]]
+  - orchard-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

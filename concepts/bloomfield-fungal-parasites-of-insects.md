@@ -1,5 +1,5 @@
 ---
-title: "[[fungal-parasites]] of Insects"
+title: "fungal-parasites of Insects"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

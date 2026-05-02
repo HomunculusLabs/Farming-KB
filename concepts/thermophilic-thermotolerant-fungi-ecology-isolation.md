@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - extremophiles
-  - [[fungal-ecology]]
+  - fungal-ecology
   - decomposition
   - temperature
 date: 2026-04-25

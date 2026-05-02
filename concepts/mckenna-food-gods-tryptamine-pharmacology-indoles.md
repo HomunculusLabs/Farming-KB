@@ -1,5 +1,5 @@
 ---
-title: [[tryptamine]] Pharmacology and the Case for Indoles in Food of the Gods
+title: tryptamine Pharmacology and the Case for Indoles in Food of the Gods
 tags: [tryptamine, dmt, psilocybin, serotonin, mckenna]
 date: 2026-04-28
 updated: 2026-04-28

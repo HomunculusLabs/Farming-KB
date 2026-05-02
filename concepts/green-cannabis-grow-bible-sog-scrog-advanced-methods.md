@@ -4,8 +4,8 @@ created: 2026-04-26
 tags:
   - sog
   - scrog
-  - [[sea-of-green]]
-  - [[screen-of-green]]
+  - sea-of-green
+  - screen-of-green
   - advanced-growing
 date: 2026-04-25
 updated: 2026-04-25

@@ -1,6 +1,6 @@
 ---
 created: 2026-04-12
-source:[[slime-molds]]ty-of-fungi (Hyde et al. Ch. 25, Spiegel/Stephenson/Landolt)
+source:slime-moldsty-of-fungi (Hyde et al. Ch. 25, Spiegel/Stephenson/Landolt)
 sources: []
 tags:
 - mycetozoans

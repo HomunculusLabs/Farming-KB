@@ -2,7 +2,7 @@
 title: Salvia Divinorum and the Diviner's Sage
 tags:
   - ethnobotany
-  - [[salvia-divinorum-entity]]
+  - salvia-divinorum-entity
   - mazatec
   - salvinorin
   - divination

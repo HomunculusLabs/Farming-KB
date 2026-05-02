@@ -3,7 +3,7 @@ title: Quail Husbandry (Detailed)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, [[homesteading]], livestock, byproducts, livestock-health]
+tags: [animal-husbandry, homesteading, livestock, byproducts, livestock-health]
 sources: []
 ---
 

@@ -3,7 +3,7 @@ title: Geodesic and Dome Structures
 tags:
   - geodesic
   - dome-structures
-  - [[natural-building]]
+  - natural-building
   - geometry
   - mollison-pdm
 date: 2026-04-25

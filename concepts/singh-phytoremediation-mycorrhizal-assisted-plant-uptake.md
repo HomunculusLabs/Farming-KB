@@ -2,9 +2,9 @@
 title: Phytoremediation with Mycorrhizal-Assisted Plant Uptake
 tags:
   - phytoremediation
-  - [[mycorrhiza]]
+  - mycorrhiza
   - phytoextraction
-  - [[phytostabilization]]
+  - phytostabilization
   - hyperaccumulators
 date: 2026-04-25
 updated: 2026-04-25

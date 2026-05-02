@@ -3,7 +3,7 @@ title: Winter Grain Growing in Straw Mulch
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-rice-without-plowing]] [[fukuoka-straw-four-principles]] [[fukuoka-straw-soil-building]] [[fukuoka-straw-seed-balls-direct-seeding]]"
+wikilinks: "fukuoka-straw-rice-without-plowing fukuoka-straw-four-principles fukuoka-straw-soil-building fukuoka-straw-seed-balls-direct-seeding"
 type: concept
 tags: [fukuoka, mulch]
 ---

@@ -2,7 +2,7 @@
 title: Calcium Accumulators and Oak Leaves
 tags:
   - calcium
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - soil-minerals
   - oak-trees
   - composting

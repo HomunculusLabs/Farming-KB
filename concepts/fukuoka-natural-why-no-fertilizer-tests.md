@@ -1,6 +1,6 @@
 ---
 title: Why No-Fertilizer Tests Are Absent from Agricultural Science
-tags: [fukuoka, [[natural-farming]], fertilizer-critique, scientific-bias, soil-health]
+tags: [fukuoka, natural-farming, fertilizer-critique, scientific-bias, soil-health]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

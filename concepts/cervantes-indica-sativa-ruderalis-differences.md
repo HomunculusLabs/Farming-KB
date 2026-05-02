@@ -111,6 +111,8 @@ The four subspecies exhibit distinct physiological adaptations to their native e
 
 ## See Also
 
+- [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]]
+
 - [[cervantes-cannabis-ruderalis-autoflowering]]
 
 - [[cervantes-strain-selection]]

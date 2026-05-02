@@ -98,7 +98,9 @@ spring nitrogen. Overlapping cover crop rotations ensures continuous soil
 coverage throughout the year, preventing erosion and building organic matter
 in every season without leaving soil bare.
 
-## Related Questions
+## Related
+
+- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] Questions
 - [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]
 - [[query-what-are-green-manures-and-how-to-use-them]]

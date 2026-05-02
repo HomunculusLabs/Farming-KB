@@ -1,5 +1,5 @@
 ---
-title: Client Interview Process in [[permaculture]] Design
+title: Client Interview Process in permaculture Design
 tags: [permaculture, client-interview, design-process, communication,
       site-analysis]
 date: 2026-04-28

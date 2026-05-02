@@ -3,7 +3,7 @@ title: Neem Tree as Natural Insecticide in Permaculture
 created: 2026-04-26
 tags:
   - permaculture
-  - [[neem]]
+  - neem
   - natural-insecticide
   - pest-management
   - tropical-design

@@ -1,7 +1,7 @@
 ---
 title: "Ferroceearthbag-constructiontruction"
 tags: [natural-building, ferrocement, earthbag, low-cost-construction, sustainable-housing]
-date: [[permaculture]]pdhomesteading4-28
+date: permaculturepdhomesteading4-28
 sources: []
 ---
 

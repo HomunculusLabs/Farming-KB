@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - medical-mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - pathogenesis
   - biogeography
 date: 2026-04-25

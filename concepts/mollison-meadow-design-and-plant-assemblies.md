@@ -1,7 +1,7 @@
 ---
 title: Mollison on Meadow Design and Plant Assemblies
 created: 2026-04-26
-tags: [[permaculture]], meadow, pasture-design, polyculture, plant-communities]
+tags: permaculture, meadow, pasture-design, polyculture, plant-communities]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

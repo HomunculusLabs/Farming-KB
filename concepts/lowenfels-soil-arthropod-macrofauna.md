@@ -3,7 +3,7 @@ title: Soil Arthropods and Macrofauna
 tags:
   - arthropods
   - macrofauna
-  - [[soil-food-web]]
+  - soil-food-web
   - decomposition
   - soil-structure
 date: 2026-04-25

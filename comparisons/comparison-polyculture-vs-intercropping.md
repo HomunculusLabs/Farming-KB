@@ -1,6 +1,6 @@
 ---
 title: "Polyculture vs Intercropping"
-tags: [comparison, organic-farming, [[permaculture]], crop-design, biodiversity]
+tags: [comparison, organic-farming, permaculture, crop-design, biodiversity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

@@ -1,9 +1,9 @@
 ---
-title: Cannabinoid-Terpene Entourage Effect (Blesching, [[cannabis-health-index]])
+title: Cannabinoid-Terpene Entourage Effect (Blesching, cannabis-health-index)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "cannabis-for-epilepsy-and-seizure-disorders, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] [[blesching-cannabis-dosing-strategies]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-health-index-cannabinoid-terpene-synergy blesching-cannabis-dosing-strategies"
 type: concept
 tags: [cannabis]
 ---

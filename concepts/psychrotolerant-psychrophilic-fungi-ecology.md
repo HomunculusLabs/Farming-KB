@@ -1,9 +1,9 @@
 ---
-title: "Psychrotolerant and [[psychrophilic-fungi]] - Ecology and Distribution"
+title: "Psychrotolerant and psychrophilic-fungi - Ecology and Distribution"
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - extremophiles
   - cold-adaptation
   - polar-biology

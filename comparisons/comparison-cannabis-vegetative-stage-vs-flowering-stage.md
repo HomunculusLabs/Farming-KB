@@ -1,3 +1,12 @@
+---
+title: "Comparison Cannabis Vegetative Stage Vs Flowering Stage"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [cannabis, cultivation]
+sources: []
+---
+
      1|---
      2|title: "[[cannabis-vegetative-stage]] vs Flowering Stage"
      3|tags: [comparison, growth-stages, flowering, vegetative, light-cycles]

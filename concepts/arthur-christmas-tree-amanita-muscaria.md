@@ -3,7 +3,7 @@ title: The Christmas Tree and Amanita Muscaria Connection
 created: 2026-04-26
 updated: 2026-04-24
 sources: "James Arthur, Mushrooms and Mankind"
-wikilinks: "[[arthur-mushrooms-sumerian-egyptian-art]] [[arthur-mushrooms-hinduism-buddhism]] [[arthur-phallic-symbolism-mushrooms]] [[arthur-mushroom-iconography-medieval-europe]]"
+wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-mushrooms-hinduism-buddhism arthur-phallic-symbolism-mushrooms arthur-mushroom-iconography-medieval-europe"
 type: concept
 tags: [amanita-muscaria, tree-crop]
 ---

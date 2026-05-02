@@ -1,6 +1,6 @@
 ---
 title: agar culture media
-tags: [mycology, [[agar]], tissue-culture, cultivation]
+tags: [mycology, agar, tissue-culture, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]

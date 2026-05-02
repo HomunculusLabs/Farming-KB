@@ -1,5 +1,5 @@
 ---
-title: [[earthworm-ecology]] and [[vermicomposting]]
+title: earthworm-ecology and vermicomposting
 created: 2026-04-21
 updated: 2026-04-18
 type: concept

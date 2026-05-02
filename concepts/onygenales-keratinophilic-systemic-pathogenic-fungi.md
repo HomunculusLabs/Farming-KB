@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - ascomycota
   - onygenales
-  - [[keratinophilic-fungi]]
+  - keratinophilic-fungi
   - fungal-pathogens
   - medical-mycology
 date: 2026-04-25

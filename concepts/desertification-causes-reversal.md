@@ -2,7 +2,7 @@
 title: Desertification Causes and Reversal
 created: 2026-04-26
 tags:
-  - [[desertification]]
+  - desertification
   - land-degradation
   - permaculture
   - holzer-permaculture

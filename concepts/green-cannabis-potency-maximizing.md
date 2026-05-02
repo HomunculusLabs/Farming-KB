@@ -1,5 +1,5 @@
 ---
-title: Cannabis Potency Maximizing - [[greg-green-sinsemilla-and-pollination]]'s Cannabis Grow Bible
+title: Cannabis Potency Maximizing - greg-green-sinsemilla-and-pollination's Cannabis Grow Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:

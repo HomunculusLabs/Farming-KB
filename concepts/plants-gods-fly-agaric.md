@@ -1,5 +1,5 @@
 ---
-title: "Fly [[agar]]ic (Plants of the Gods)"
+title: "Fly agaric (Plants of the Gods)"
 tags: [ethnobotany, psychoactive-plants, traditional-use, entheogen, plants-of-the-gods]
 date: 2026-04-28
 updated: 2026-04-28

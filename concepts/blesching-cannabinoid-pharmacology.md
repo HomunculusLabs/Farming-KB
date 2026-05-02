@@ -3,7 +3,7 @@ title: Cannabinoid Pharmacology - THC and CBD Mechanisms
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[cannabis-chronic-pain-management]] [[cannabis-for-epilepsy-and-seizure-disorders]] [[blesching-cannabis-cancer-symptoms]]"
+wikilinks: "blesching-endocannabinoid-system-overview cannabis-chronic-pain-management cannabis-for-epilepsy-and-seizure-disorders blesching-cannabis-cancer-symptoms"
 type: concept
 tags: [cannabis, pharmacology]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Bracken Fern as a Historical Potash Source"
 tags:
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - potassium
   - potash
   - bracken-fern

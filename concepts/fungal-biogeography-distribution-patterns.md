@@ -3,7 +3,7 @@ title: Fungal Biogeography and Distribution Patterns
 created: 2026-04-26
 tags:
   - biogeography
-  - [[fungal-ecology]]
+  - fungal-ecology
   - biodiversity
   - distribution
   - conservation

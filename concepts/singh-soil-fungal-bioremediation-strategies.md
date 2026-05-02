@@ -1,3 +1,12 @@
+---
+title: "Singh Soil Fungal Bioremediation Strategies"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [bioremediation, fungal-ecology, mycology, soil-science]
+sources: []
+---
+
      1|---
      2|title: "Soil Fungal Bioremediation Strategies"
      3|created: 2026-04-26

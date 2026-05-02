@@ -2,7 +2,7 @@
 title: Ololiuqui Vines of the Serpent
 tags:
   - ethnobotany
-  - [[ololiuqui]]
+  - ololiuqui
   - morning-glory
   - lysergic-acid
   - aztec-ritual

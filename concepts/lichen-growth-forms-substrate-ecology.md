@@ -2,7 +2,7 @@
 title: Lichen Growth Forms and Substrate Ecology
 created: 2026-04-26
 tags:
-  - [[lichens]]
+  - lichens
   - lichenized-fungi
   - growth-forms
   - substrate-ecology

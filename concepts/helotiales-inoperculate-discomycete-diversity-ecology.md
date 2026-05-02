@@ -5,7 +5,7 @@ tags:
   - ascomycota
   - helotiales
   - discomycetes
-  - [[fungal-ecology]]
+  - fungal-ecology
   - plant-pathogens
 date: 2026-04-25
 updated: 2026-04-25

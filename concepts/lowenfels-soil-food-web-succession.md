@@ -1,7 +1,7 @@
 ---
 title: Soil Food Web Succession
 tags:
-  - [[soil-food-web]]
+  - soil-food-web
   - succession
   - bacterial-domination
   - fungal-domination

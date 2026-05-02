@@ -1,6 +1,6 @@
 ---
 title: "Cob Building vs Adobe Construction"
-tags: [comparison, [[natural-building]], earth-building, cob, adobe]
+tags: [comparison, natural-building, earth-building, cob, adobe]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

@@ -3,7 +3,7 @@ title: Vegetable Growing in the Natural Farm
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-four-principles]] [[fukuoka-straw-mandala-orchard-design]] [[fukuoka-straw-soil-building]] [[fukuoka-straw-pest-control-natural-balance]] [[fukuoka-straw-seed-balls-direct-seeding]]"
+wikilinks: "fukuoka-straw-four-principles fukuoka-straw-mandala-orchard-design fukuoka-straw-soil-building fukuoka-straw-pest-control-natural-balance fukuoka-straw-seed-balls-direct-seeding"
 type: concept
 tags: [fukuoka, vegetables]
 ---

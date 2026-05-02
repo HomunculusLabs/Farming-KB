@@ -3,7 +3,7 @@ title: Mycelium Network Intelligence
 tags:
   - mycology
   - mycelium
-  - [[fungal-ecology]]
+  - fungal-ecology
   - bio-networks
   - stamets
 date: 2026-04-25

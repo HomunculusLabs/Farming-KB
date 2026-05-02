@@ -3,7 +3,7 @@ title: Cannabis for Alzheimer's Disease and Dementia (Blesching, Cannabis Health
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-neurodegenerative-diseases]] Blesching Cannabis Mental Health Applications"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-neurodegenerative-diseases Blesching Cannabis Mental Health Applications"
 type: concept
 tags: [cannabis]
 ---

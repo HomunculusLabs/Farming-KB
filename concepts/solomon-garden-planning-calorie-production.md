@@ -3,7 +3,7 @@ title: Garden Planning for Calorie Production
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Steve Solomon, Gardening When It Counts"
-wikilinks: "[[solomon-vegetable-varieties-self-sufficiency]] [[solomon-root-cellaring-food-preservation]] [[solomon-soil-mineral-depletion]] [[solomon-double-digging]] [[solomon-raised-beds]] [[solomon-fertilizer-selection-application]] [[solomon-compost-organic-matter]] [[solomon-irrigation-water-scarce]] [[solomon-seed-saving-vegetable-breeding]] [[solomon-pest-management-without-chemicals]] [[winter-gardening-season-extension]]"
+wikilinks: "solomon-vegetable-varieties-self-sufficiency solomon-root-cellaring-food-preservation solomon-soil-mineral-depletion solomon-double-digging solomon-raised-beds solomon-fertilizer-selection-application solomon-compost-organic-matter solomon-irrigation-water-scarce solomon-seed-saving-vegetable-breeding solomon-pest-management-without-chemicals winter-gardening-season-extension"
 type: concept
 tags: [gardening]
 ---

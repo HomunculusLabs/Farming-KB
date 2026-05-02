@@ -4,7 +4,7 @@ tags:
   - permaculture
   - keyline
   - topography
-  - [[water-management]]
+  - water-management
   - mollison
 date: 2026-04-25
 updated: 2026-04-25

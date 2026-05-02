@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - endemism
   - host-specificity
-  - [[fungal-ecology]]
+  - fungal-ecology
   - biodiversity
   - taxonomy
 date: 2026-04-25

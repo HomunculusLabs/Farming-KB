@@ -3,7 +3,7 @@ title: Holzer Urban Gardening and the Rubbish Hugelkultur
 created: 2026-04-26
 tags:
   - urban-permaculture
-  - [[hugelkultur]]
+  - hugelkultur
   - waste-recycling
   - food-production
   - holzer-permaculture

@@ -1,3 +1,12 @@
+---
+title: "Ibogaine Anti Addiction Therapy"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [pharmacology, psychedelics]
+sources: []
+---
+
      1|---
      2|title: Ibogaine Anti-Addiction Therapy
      3|tags: [pharmacology, ibogaine, addiction-treatment, psychedelics]

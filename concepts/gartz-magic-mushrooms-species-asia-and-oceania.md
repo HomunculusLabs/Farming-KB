@@ -1,5 +1,5 @@
 ---
-title: Magic Mushroom Species of Asia and Oceania ([[gartz-magic-mushrooms-global-distribution-patterns]])
+title: Magic Mushroom Species of Asia and Oceania (gartz-magic-mushrooms-global-distribution-patterns)
 created: 2026-04-26
 updated: 2026-04-24
 sources:

@@ -2,7 +2,7 @@
 title: Sequestrate Fungi Ecology and Evolution
 created: 2026-04-26
 tags:
-  - [[sequestrate-fungi]]
+  - sequestrate-fungi
   - truffles
   - mycophagy
   - evolution

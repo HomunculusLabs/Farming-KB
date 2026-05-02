@@ -1,6 +1,6 @@
 ---
 title: Mushroom Substrate Preparation and Composting
-tags: [[mycology]], [[mushroom-cultivation]], composting, agricultural-science,
+tags: mycology, mushroom-cultivation, composting, agricultural-science,
       fungal-physiology]
 date: 2026-04-28
 updated: 2026-04-28

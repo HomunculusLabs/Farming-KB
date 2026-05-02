@@ -5,7 +5,7 @@ tags:
   - mycology
   - bioremediation
   - heavy-metals
-  - [[fungal-ecology]]
+  - fungal-ecology
   - pollution
 date: 2026-04-25
 updated: 2026-04-25

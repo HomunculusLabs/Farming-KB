@@ -4,7 +4,7 @@ tags:
   - plant-neurobiology
   - bose
   - electrophysiology
-  - [[plant-perception]]
+  - plant-perception
   - tropisms
 date: 2026-04-25
 updated: 2026-04-25

@@ -5,7 +5,7 @@ tags:
   - drainage
   - soil-management
   - clay-soil
-  - [[water-management]]
+  - water-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

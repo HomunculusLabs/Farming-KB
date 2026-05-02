@@ -1,6 +1,6 @@
 ---
 title: Shiitake Cultivation on Sawdust
-tags: [[mycology]], [[mushroom-cultivation]], shiitake, lentinula, fungi]
+tags: mycology, mushroom-cultivation, shiitake, lentinula, fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]

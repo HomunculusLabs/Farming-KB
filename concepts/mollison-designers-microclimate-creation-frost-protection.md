@@ -3,7 +3,7 @@ title: Microclimate Creation and Frost Protection
 tags:
   - microclimate-design
   - frost-protection
-  - [[permaculture-design]]
+  - permaculture-design
   - site-analysis
   - climate-modification
 date: 2026-04-25

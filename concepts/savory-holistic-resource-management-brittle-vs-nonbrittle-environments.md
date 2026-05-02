@@ -3,7 +3,7 @@ title: Brittle vs Nonbrittle Environments
 tags:
   - holistic-management
   - land-ecology
-  - [[desertification]]
+  - desertification
   - grassland-management
   - savory
 date: 2026-04-25

@@ -3,7 +3,7 @@ title: Document Automation and Administration
 tags: [office-administration, document-management, workflow, automation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/administrator-[[microsoft-word]]-fukuoka-textdoc.md]
+sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
 ---
 
 # Document Automation and Administration

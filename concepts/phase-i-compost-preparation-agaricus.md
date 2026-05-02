@@ -1,3 +1,12 @@
+---
+title: "Phase I Compost Preparation Agaricus"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [composting, mushroom-cultivation, mycology, soil-science]
+sources: []
+---
+
      1|---
      2|title: Phase I Compost Preparation for Agaricus
      3|tags: [composting, agaricus, mushroom-cultivation, substrate]

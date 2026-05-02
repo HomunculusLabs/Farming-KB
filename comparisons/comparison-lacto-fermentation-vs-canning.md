@@ -1,6 +1,6 @@
 ---
 title: "Lacto-Fermentation vs Canning"
-tags: [food-preservation, fermentation, canning, nutrition, [[homesteading]]]
+tags: [food-preservation, fermentation, canning, nutrition, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

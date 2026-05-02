@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-azurescens]] Species Guide
+title: psilocybe-azurescens Species Guide
 tags: [mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25

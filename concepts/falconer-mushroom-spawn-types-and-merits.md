@@ -1,7 +1,7 @@
 ---
 title: Falconer Mushroom Spawn Types and Merits
 tags:
-  [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, [[agar]]icus]
+  [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, agaricus]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

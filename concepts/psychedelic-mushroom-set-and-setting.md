@@ -1,5 +1,5 @@
 ---
-title: Psychedelic M[[set-and-setting]] Setting
+title: Psychedelic Mset-and-setting Setting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

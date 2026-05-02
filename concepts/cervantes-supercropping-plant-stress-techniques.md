@@ -2,7 +2,7 @@
 title: Supercropping and Plant Stress Techniques
 tags:
   - plant-training
-  - [[supercropping]]
+  - supercropping
   - stress-techniques
   - yield-optimization
 date: 2026-04-25

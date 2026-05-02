@@ -5,7 +5,7 @@ tags:
   - mycology
   - enzymes
   - decomposition
-  - [[fungal-ecology]]
+  - fungal-ecology
   - nutrient-cycling
 date: 2026-04-25
 updated: 2026-04-25

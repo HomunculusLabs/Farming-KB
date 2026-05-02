@@ -1,9 +1,9 @@
 ---
-title: [[permaculture-earthworks]] and Water Harvesting
+title: permaculture-earthworks and Water Harvesting
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[permaculture]], design]
+tags: permaculture, design]
 sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---

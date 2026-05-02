@@ -1,3 +1,12 @@
+---
+title: "Cannabis Training Techniques Comparison"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [cannabis, cultivation]
+sources: []
+---
+
      1|---
      2|title: cannabis training techniques comparison
      3|created: 2026-04-13

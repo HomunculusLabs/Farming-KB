@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - permaculture
   - nursery
-  - [[plant-propagation]]
+  - plant-propagation
   - establishment
   - mollison-pdm
 date: 2026-04-25

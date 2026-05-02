@@ -1,5 +1,5 @@
 ---
-title: "DMT and the [[tryptamine]] Dimension"
+title: "DMT and the tryptamine Dimension"
 created: 2026-04-26
 aliases: [DMT, tryptamine, hyperspace, dimethyltryptamine, spirit molecule]
 tags: [mckenna, DMT, tryptamine, consciousness, pharmacology, shamanism]

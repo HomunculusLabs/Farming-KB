@@ -1,6 +1,6 @@
 ---
 title: Medicinal Mushroom Extraction and Bioactive Compounds
-tags: [[mycology]], extraction, medicinal, [[beta-glucans]], triterpenes]
+tags: mycology, extraction, medicinal, beta-glucans, triterpenes]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]

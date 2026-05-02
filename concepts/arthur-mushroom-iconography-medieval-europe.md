@@ -3,7 +3,7 @@ title: Mushroom Iconography in Medieval European Art
 created: 2026-04-26
 updated: 2026-04-24
 sources: "james-arthur, mushrooms-and-mankind"
-wikilinks: "[[arthur-mushrooms-sumerian-egyptian-art]] [[arthur-christmas-tree-amanita-muscaria]] [[arthur-mushrooms-hinduism-buddhism]] [[arthur-phallic-symbolism-mushrooms]]"
+wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-christmas-tree-amanita-muscaria arthur-mushrooms-hinduism-buddhism arthur-phallic-symbolism-mushrooms"
 type: concept
 tags: [mushroom-cultivation]
 ---

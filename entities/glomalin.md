@@ -6,7 +6,7 @@ tags:
   - soil-chemistry
   - glycoprotein
   - carbon-sequestration
-  - [[mycorrhiza]]e
+  - mycorrhizae
 date: 2026-04-28
 updated: 2026-04-28
 sources:

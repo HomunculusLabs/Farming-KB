@@ -1,7 +1,7 @@
 ---
 title: Fungal Biosorbents and Mycosorption Mechanisms
 created: 2026-04-26
-tags: [[mycoremediation]], biosorption, biosorbent, mycosorption]
+tags: mycoremediation, biosorption, biosorbent, mycosorption]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

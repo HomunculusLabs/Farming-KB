@@ -1,5 +1,5 @@
 ---
-title: Bluing Reaction in [[psilocybin]] Mushrooms
+title: Bluing Reaction in psilocybin Mushrooms
 tags: [chemistry, bluing, psilocin, identification, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25

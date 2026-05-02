@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - phosphatase
-  - [[mycorrhizal-fungi]]
+  - mycorrhizal-fungi
   - phosphorus
   - ecosystem-processes
 date: 2026-04-25

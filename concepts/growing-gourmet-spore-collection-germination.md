@@ -1,3 +1,12 @@
+---
+title: "Growing Gourmet Spore Collection Germination"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [mushroom-cultivation, mycology]
+sources: []
+---
+
      1|---
      2|title: Spore Collection and Germination for Mushroom Cultivation
      3|created: 2026-04-26

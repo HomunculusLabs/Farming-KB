@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: "2026-04-24"
 sources:
   - "Growing Gourmet and Medicinal Mushrooms (mycopesticides-stamets, 1993)"
-  - "[[cotter-oyster-mushroom-cultivation]] (MushWorld, 2004)"
+  - "cotter-oyster-mushroom-cultivation (MushWorld, 2004)"
 type: concept
 tags: [cultivation, mushroom-cultivation, oyster-mushroom]
 ---

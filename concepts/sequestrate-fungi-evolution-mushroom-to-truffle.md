@@ -2,8 +2,8 @@
 title: Sequestrate Fungi Evolution - From Mushroom to Truffle
 created: 2026-04-26
 tags:
-  - [[sequestrate-fungi]]
-  - [[fungal-evolution]]
+  - sequestrate-fungi
+  - fungal-evolution
   - truffles
   - ectomycorrhiza
   - biodiversity

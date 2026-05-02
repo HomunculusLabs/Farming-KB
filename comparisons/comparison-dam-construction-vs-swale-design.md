@@ -1,6 +1,6 @@
 ---
 title: "Dam Construction vs Swale Design"
-tags: [comparison, water-harvesting, [[permaculture]], earthworks, [[water-management]]]
+tags: [comparison, water-harvesting, permaculture, earthworks, water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

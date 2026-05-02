@@ -2,7 +2,7 @@
 title: "Siderophore Production for Iron Acquisition in Mycorrhizal Fungi"
 tags:
   - siderophores
-  - [[mycorrhizal-fungi]]
+  - mycorrhizal-fungi
   - iron-acquisition
   - nutrient-cycling
   - symbiotic-fungi

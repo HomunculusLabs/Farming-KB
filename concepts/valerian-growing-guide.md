@@ -3,7 +3,7 @@ title: valerian growing guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, [[permaculture]]]
+tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, permaculture]
 sources: []
 ---
 # valerian growing guide (Valeriana officinalis)

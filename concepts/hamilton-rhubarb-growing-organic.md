@@ -2,7 +2,7 @@
 title: Rhubarb Growing - Organic Methods
 tags:
   - rhubarb
-  - [[perennial-vegetables]]
+  - perennial-vegetables
   - organic-growing
   - vegetable-garden
   - shoot-vegetables

@@ -2,7 +2,7 @@
 title: "Herb Spiral Design and Construction"
 tags:
   - permaculture
-  - [[herb-spiral]]
+  - herb-spiral
   - garden-design
   - water-harvesting
   - microclimate

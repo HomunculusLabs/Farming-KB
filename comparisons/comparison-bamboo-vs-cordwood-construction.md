@@ -1,3 +1,12 @@
+---
+title: "Comparison Bamboo Vs Cordwood Construction"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [construction, homesteading]
+sources: []
+---
+
      1|---
      2|title: "Bamboo vs [[cordwood-construction]]"
      3|tags:

@@ -2,7 +2,7 @@
 title: Humus Storage Ditches
 created: 2026-04-26
 tags:
-  - [[water-management]]
+  - water-management
   - soil-building
   - earthworks
   - holzer-method

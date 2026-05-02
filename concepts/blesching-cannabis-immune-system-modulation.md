@@ -3,7 +3,7 @@ title: Cannabis and Immune System Modulation (Blesching, Cannabis Health Index)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[cannabis-autoimmune-conditions-detailed]] [[blesching-cannabis-inflammatory-bowel-disease]] [[blesching-cannabis-cancer-symptoms]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-autoimmune-conditions-detailed blesching-cannabis-inflammatory-bowel-disease blesching-cannabis-cancer-symptoms"
 type: concept
 tags: [cannabis]
 ---

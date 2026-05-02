@@ -3,7 +3,7 @@ title: Wool Insulation and Natural Textiles
 tags:
   - wool-insulation
   - natural-textiles
-  - [[natural-building]]
+  - natural-building
   - fibre
   - mollison-pdm
 date: 2026-04-25

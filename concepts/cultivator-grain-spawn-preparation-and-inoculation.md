@@ -1,6 +1,6 @@
 ---
-title: "[[grain-spawn-preparation]] and [[inoculation-methods]]"
-tags: [mushroom-cultivation, grain-spawn, mycelium, inoculation, [[spawn-production]]]
+title: "grain-spawn-preparation and inoculation-methods"
+tags: [mushroom-cultivation, grain-spawn, mycelium, inoculation, spawn-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]

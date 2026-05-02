@@ -2,7 +2,7 @@
 title: Mushroom Composting and Lignocellulose Degradation
 created: 2026-04-26
 tags:
-  - [[mushroom-composting]]
+  - mushroom-composting
   - lignocellulose-degradation
   - fungal-enzymology
   - substrate-decomposition

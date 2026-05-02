@@ -1,6 +1,6 @@
 ---
 title: Mushroom Cultivation Contamination Prevention
-tags: [[mycology]], contamination, sterile-technique, cultivation]
+tags: mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]

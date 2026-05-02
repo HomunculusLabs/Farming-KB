@@ -1,5 +1,5 @@
 ---
-title: "[[cannabis-seed-germination]] and Seedling Care"
+title: "cannabis-seed-germination and Seedling Care"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept

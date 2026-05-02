@@ -1,6 +1,6 @@
 ---
 title: "Chicken Keeping vs Beekeeping"
-tags: [comparison, livestock, [[homesteading]], [[permaculture]]]
+tags: [comparison, livestock, homesteading, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

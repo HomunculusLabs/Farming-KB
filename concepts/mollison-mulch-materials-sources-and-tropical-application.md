@@ -1,7 +1,7 @@
 ---
 title: Mulch Materials Sources and Application in the Tropics
 created: 2026-04-26
-tags: [[permaculture]], mulching, tropical-agriculture, soil-health, organic-matter]
+tags: permaculture, mulching, tropical-agriculture, soil-health, organic-matter]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

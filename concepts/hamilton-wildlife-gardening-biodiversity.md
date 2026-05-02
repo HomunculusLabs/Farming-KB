@@ -1,7 +1,7 @@
 ---
 title: Wildlife Gardening and Biodiversity
 created: 2026-04-26
-author: [[geoff-hamilton-organic-techniques]]
+author: geoff-hamilton-organic-techniques
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
 updated: 2026-04-24
 type: concept

@@ -3,7 +3,7 @@ title: Faires Meat Processing Curing and Smoking
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[homesteading]], self-sufficiency]
+tags: homesteading, self-sufficiency]
 sources:
   - "raw/papers/nicole-faires-the-ultimate-guide-to-natpermaculture-and-sustainable-l"
 ---

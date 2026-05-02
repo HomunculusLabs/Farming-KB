@@ -4,7 +4,7 @@ tags:
   - permaculture
   - greenhouse
   - solar-energy
-  - [[appropriate-technology]]
+  - appropriate-technology
   - mollison-pdc
 date: 2026-04-25
 updated: 2026-04-25

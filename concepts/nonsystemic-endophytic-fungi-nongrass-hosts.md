@@ -3,7 +3,7 @@ title: Nonsystemic Endophytic Fungi of Nongrass Hosts
 created: 2026-04-26
 tags:
   - endophytes
-  - [[fungal-ecology]]
+  - fungal-ecology
   - plant-symbiosis
   - biodiversity
   - ascomycota

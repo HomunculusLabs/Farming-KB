@@ -1,5 +1,5 @@
 ---
-title: Contamination Prevention in [[mycology]]
+title: Contamination Prevention in mycology
 tags: [mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28
 updated: 2026-04-28

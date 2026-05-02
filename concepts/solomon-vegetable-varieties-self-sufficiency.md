@@ -3,7 +3,7 @@ title: Vegetable Varieties for Self-Sufficiency
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Steve Solomon, Gardening When It Counts"
-wikilinks: "[[solomon-seed-saving-vegetable-breeding]] [[solomon-soil-mineral-depletion]] [[solomon-double-digging]] [[solomon-raised-beds]] [[solomon-fertilizer-selection-application]] [[solomon-compost-organic-matter]] [[solomon-irrigation-water-scarce]] [[solomon-pest-management-without-chemicals]] [[winter-gardening-season-extension]] [[solomon-root-cellaring-food-preservation]] [[solomon-garden-planning-calorie-production]]"
+wikilinks: "solomon-seed-saving-vegetable-breeding solomon-soil-mineral-depletion solomon-double-digging solomon-raised-beds solomon-fertilizer-selection-application solomon-compost-organic-matter solomon-irrigation-water-scarce solomon-pest-management-without-chemicals winter-gardening-season-extension solomon-root-cellaring-food-preservation solomon-garden-planning-calorie-production"
 type: concept
 tags: [vegetables]
 ---

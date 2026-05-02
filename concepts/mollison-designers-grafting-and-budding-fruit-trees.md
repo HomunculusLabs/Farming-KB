@@ -2,9 +2,9 @@
 title: Grafting and Budding Fruit Trees
 tags:
   - fruit-tree-care
-  - [[plant-propagation]]
-  - [[permaculture-design]]
-  - [[orchard-management]]
+  - plant-propagation
+  - permaculture-design
+  - orchard-management
   - food-production
 date: 2026-04-25
 updated: 2026-04-25

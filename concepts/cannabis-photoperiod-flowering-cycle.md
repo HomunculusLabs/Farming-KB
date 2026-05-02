@@ -3,7 +3,7 @@ title: Cannabis Photoperiod and 12/12 Flowering Cycle
 tags: [cannabis, photoperiod, flowering, light-cycle, grow-bible]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [[greg-green-sinsemilla-and-pollination]]-the-cannabis-grow-bible.md]
+sources: greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md]
 ---
 
 # Cannabis Photoperiod and 12/12 Flowering Cycle

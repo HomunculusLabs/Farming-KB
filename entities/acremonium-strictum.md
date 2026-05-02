@@ -1,7 +1,7 @@
 ---
 title: Acremonium strictum
 type: species
-tags: [ascomycota, [[ericoid-mycorrhiza]], radiation-tolerance, soil-fungus, endophyte]
+tags: [ascomycota, ericoid-mycorrhiza, radiation-tolerance, soil-fungus, endophyte]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - water-harvesting
   - earthworks
-  - [[permaculture-design]]
+  - permaculture-design
   - drainage
   - landscape-management
 date: 2026-04-25

@@ -18,10 +18,10 @@ tags:
   - phase-II-metabolism
 related:
   - glutathione-and-cellular-antioxidant-defense
-  - [[structure-activity-relationship-medicinal-chemistry]]
+  - structure-activity-relationship-medicinal-chemistry
   - fenton-reaction-chemistry-and-biochemistry
   - reactive-oxygen-species
-  - [[protein-folding-and-misfolding-diseases-biochemistry]]
+  - protein-folding-and-misfolding-diseases-biochemistry
 ---
 
 ## Overview

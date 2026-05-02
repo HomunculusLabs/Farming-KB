@@ -3,7 +3,7 @@ title: 5 Mes Dmt (Tihkal)
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
-tags: [chemistry, tihkal, [[tryptamine]]s]
+tags: [chemistry, tihkal, tryptamines]
 sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 5-MeS-DMT — TIHKAL #46

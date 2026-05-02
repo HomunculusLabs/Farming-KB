@@ -3,7 +3,7 @@ title: root cellaring guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], storage, food, preservation, design, humidity]
+tags: homesteading, storage, food, preservation, design, humidity]
 sources: []
 ---
 

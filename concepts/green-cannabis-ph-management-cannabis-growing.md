@@ -6,7 +6,7 @@ tags:
   - ph-management
   - soil-chemistry
   - nutrients
-  - [[greg-green-sinsemilla-and-pollination]]
+  - greg-green-sinsemilla-and-pollination
 date: 2026-04-25
 updated: 2026-04-25
 sources:

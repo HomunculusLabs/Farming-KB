@@ -1,7 +1,7 @@
 ---
 title: White-Rot Fungi and Lignin-Modifying Enzymes
 tags:
-  - [[white-rot-fungi]]
+  - white-rot-fungi
   - lignin-peroxidase
   - manganese-peroxidase
   - laccase

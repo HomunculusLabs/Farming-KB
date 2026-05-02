@@ -2,7 +2,7 @@
 title: Companion Planting Science in Permaculture
 tags:
   - permaculture
-  - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - allelopathy
   - mollison-designers
 date: 2026-04-25

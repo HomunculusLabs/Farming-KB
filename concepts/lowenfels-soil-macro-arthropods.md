@@ -3,7 +3,7 @@ title: "Soil Macro-Arthropods"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "lowenfels-protozoa-nematodes & wayne-lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-protozoa-nematodes]] [[lowenfels-fungi-role-soil]] [[lowenfels-bacteria-role-soil]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-protozoa-nematodes lowenfels-fungi-role-soil lowenfels-bacteria-role-soil"
 type: concept
 tags: [soil]
 ---

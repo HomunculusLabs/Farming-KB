@@ -142,6 +142,8 @@ degradation and PCB remediation.
 
 ## See Also
 
+- [[cytochrome-p450-enzyme-system]]
+
 - [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[cervantes-cannabis-tolerance-addiction-pharmacology]]
 - [[fungal-enzyme-kinetics]]

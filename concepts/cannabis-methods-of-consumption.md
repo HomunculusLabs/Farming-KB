@@ -5,7 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  - "raw/papers/[[uwe-blesching]]-the-cannabis-health-index.md"
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 # cannabis methods of consumption
 

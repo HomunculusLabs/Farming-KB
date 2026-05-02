@@ -1,3 +1,12 @@
+---
+title: "Comparison Cob Oven Vs Rocket Stove"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [construction, homesteading]
+sources: []
+---
+
      1|     1|---
      2|     2|title: "Cob Oven vs Rocket Stove"
      3|     3|tags: [comparison, cooking, natural-building, off-grid]

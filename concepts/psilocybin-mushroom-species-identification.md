@@ -3,7 +3,7 @@ title: Psilocybin Mushroom Species Identification
 tags:
   - mycology
   - psilocybin
-  - [[mushroom-identification]]
+  - mushroom-identification
   - taxonomy
   - field-guide
 date: 2026-04-25

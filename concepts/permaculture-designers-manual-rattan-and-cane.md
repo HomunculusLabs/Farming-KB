@@ -3,7 +3,7 @@ title: Rattan and Cane
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[permaculture]], design]
+tags: permaculture, design]
 sources:
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---

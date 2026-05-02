@@ -1,6 +1,6 @@
 ---
 title: incubation and colonization
-tags: [incubation, [[mycelium]], colonization, pinning, lifecycle]
+tags: [incubation, mycelium, colonization, pinning, lifecycle]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

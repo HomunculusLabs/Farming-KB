@@ -1,7 +1,7 @@
 ---
 title: Mycorrhizal Network and Nutrient Sharing
 tags:
-  - [[mycorrhiza]]
+  - mycorrhiza
   - nutrient-cycling
   - fungi
   - soil-biology

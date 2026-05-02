@@ -1,7 +1,7 @@
 ---
 title: Mycorrhizal Helper Bacteria and Tripartite Interactions
 tags:
-  - [[mycorrhiza]]
+  - mycorrhiza
   - plant-microbe-interactions
   - PGPR
   - rhizosphere

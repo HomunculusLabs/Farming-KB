@@ -1,5 +1,5 @@
 ---
-title: Scale-Up Challenges in [[fungal-bioremediation]]
+title: Scale-Up Challenges in fungal-bioremediation
 created: 2026-04-26
 synonyms:
   - commercial fungal bioremediation

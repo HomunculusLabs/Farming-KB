@@ -1,9 +1,9 @@
 ---
-title: "[[fungal-parasites-and-predators]] of Rotifers"
+title: "fungal-parasites-and-predators of Rotifers"
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - invertebrate-parasites
   - microbiology
   - biodiversity

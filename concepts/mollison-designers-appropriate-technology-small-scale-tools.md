@@ -2,7 +2,7 @@
 title: "Appropriate Technology and Small-Scale Tools"
 tags:
   - permaculture
-  - [[appropriate-technology]]
+  - appropriate-technology
   - tools
   - small-scale-farming
   - hand-tools

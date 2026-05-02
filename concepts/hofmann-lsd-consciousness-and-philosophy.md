@@ -3,7 +3,7 @@ title: LSD, Consciousness, and Hofmann's Philosophical Views
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Albert Hofmann, LSD - My Problem Child"
-wikilinks: "[[hofmann-lsd-discovery-bicycle-day]] [[hofmann-lsd-pharmacology-and-effects]] [[hofmann-lsd-sandoz-research-program]] [[hofmann-lsd-psychiatric-research]] [[hofmann-lsd-mazatec-and-psilocybin]]"
+wikilinks: "hofmann-lsd-discovery-bicycle-day hofmann-lsd-pharmacology-and-effects hofmann-lsd-sandoz-research-program hofmann-lsd-psychiatric-research hofmann-lsd-mazatec-and-psilocybin"
 type: concept
 tags: [lsd]
 ---

@@ -3,7 +3,7 @@ title: "Soil Food Web Overview"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-bacteria-role-soil]] [[lowenfels-fungi-role-soil]] [[lowenfels-protozoa-nematodes]] [[lowenfels-soil-macro-arthropods]] [[lowenfels-mycorrhizal-networks]]"
+wikilinks: "lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-protozoa-nematodes lowenfels-soil-macro-arthropods lowenfels-mycorrhizal-networks"
 type: concept
 tags: [soil]
 ---

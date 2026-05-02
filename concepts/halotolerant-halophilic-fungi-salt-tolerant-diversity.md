@@ -2,8 +2,8 @@
 title: "Halotolerant and Halophilic Fungi - Salt-Tolerant Diversity"
 created: 2026-04-26
 tags:
-  - [[fungal-ecology]]
-  - [[halophilic-fungi]]
+  - fungal-ecology
+  - halophilic-fungi
   - extremophiles
   - saline-environments
   - stress-tolerance

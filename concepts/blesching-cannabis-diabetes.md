@@ -3,7 +3,7 @@ title: Cannabis for Diabetes (Blesching, Cannabis Health Index)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[cannabis-autoimmune-conditions-detailed]] [[blesching-cannabis-cardiovascular-health]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-autoimmune-conditions-detailed blesching-cannabis-cardiovascular-health"
 type: concept
 tags: [cannabis]
 ---

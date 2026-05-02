@@ -1,5 +1,5 @@
 ---
-title: [[permaculture]] Broadscale No-Till Grain Production
+title: permaculture Broadscale No-Till Grain Production
 created: 2026-04-23
 updated: 2026-04-23
 type: concept

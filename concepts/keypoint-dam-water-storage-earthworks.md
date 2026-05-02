@@ -1,6 +1,6 @@
 ---
 title: "Keypoint Dam Construction and Water Storage Earthworks"
-tags: [permaculture, [[water-management]], earthworks, keyline-design]
+tags: [permaculture, water-management, earthworks, keyline-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]

@@ -114,7 +114,9 @@ This is significant for agriculture and crop rotation planning.
 
 ***
 
-## Related Topics
+## Related
+
+- [[lowenfels-mycorrhizal-networks]] Topics
 
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

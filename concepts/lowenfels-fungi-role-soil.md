@@ -3,7 +3,7 @@ title: "Fungi and Their Role in Soil"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-bacteria-role-soil]] [[lowenfels-mycorrhizal-networks]] [[lowenfels-protozoa-nematodes]] [[lowenfels-soil-macro-arthropods]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-bacteria-role-soil lowenfels-mycorrhizal-networks lowenfels-protozoa-nematodes lowenfels-soil-macro-arthropods"
 type: concept
 tags: [fungi, soil]
 ---
@@ -104,3 +104,7 @@ what they decay (simple vs. complex compounds), how they travel (water film vs.
 hyphal growth), and how they influence soil pH (bacterial slime raises it, fungal
 acids lower it). Their relative populations -- the [[lowenfels-bacterial-fungal-dominance]] -- determine what
 type of nitrogen is available and therefore what plants will thrive.
+
+## See Also
+
+- [[fungi-in-garden-ecosystems]]

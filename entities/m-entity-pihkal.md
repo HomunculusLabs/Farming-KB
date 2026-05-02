@@ -1,5 +1,5 @@
 ---
-title: "M (MESCALIN[[mescaline]]TRIMETHOXYPHENETHYLAMINE) -- PIHKAL Entry #96"
+title: "M (MESCALINmescalineTRIMETHOXYPHENETHYLAMINE) -- PIHKAL Entry #96"
 created: 2026-04-23
 updated: 2026-04-23
 type: entity

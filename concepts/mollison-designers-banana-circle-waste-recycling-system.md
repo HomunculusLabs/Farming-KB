@@ -1,7 +1,7 @@
 ---
 title: Banana Circle Waste Recycling System
 tags:
-  - [[permaculture-design]]
+  - permaculture-design
   - waste-recycling
   - tropical-agriculture
   - food-forests

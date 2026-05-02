@@ -1,3 +1,12 @@
+---
+title: "Agar Culture And Isolation"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [mushroom-cultivation, mycology]
+sources: []
+---
+
      1|     1|---
      2|     2|title: Agar Culture and Isolation Techniques
      3|     3|tags: [mycology, cultivation, tissue-culture, fungi]

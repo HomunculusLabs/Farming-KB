@@ -1,5 +1,5 @@
 ---
-title: "Genetic Improvement of [[agar]]icus bisporus: Molecular Approaches"
+title: "Genetic Improvement of agaricus bisporus: Molecular Approaches"
 tags: [agaricus-bisporus, genetic-improvement, molecular-breeding,
       hybridization, RFLP, RAPD, genetic-engineering, protoplast-fusion,
       mushroom-breeding, basidiomycota]

@@ -6,7 +6,7 @@ tags:
   - water-harvesting
   - gully-control
   - erosion-prevention
-  - [[dam-construction]]
+  - dam-construction
 date: 2026-04-25
 updated: 2026-04-25
 sources:

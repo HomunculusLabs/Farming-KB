@@ -3,7 +3,7 @@ title: "Mulch and Cover Cropping"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-bacteria-role-soil]] [[lowenfels-fungi-role-soil]] [[lowenfels-tilling-no-till-soil-health]] [[lowenfels-compost-tea-brewing]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-tilling-no-till-soil-health lowenfels-compost-tea-brewing"
 type: concept
 tags: [mulch]
 ---

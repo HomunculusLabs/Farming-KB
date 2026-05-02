@@ -3,8 +3,8 @@ title: Old Fruit Variety Selection
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[permaculture]], fruit-tree, orchard, plant-catalog, species, [[homesteading]], agriculture, fruiting, cultivation]
-sources: [raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md]
+tags: permaculture, fruit-tree, orchard, plant-catalog, species, homesteading, agriculture, fruiting, cultivation]
+sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
 # old fruit variety selection

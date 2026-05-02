@@ -1,6 +1,6 @@
 ---
 title: Willows (Salix spp)
-tags: [permaculture, erosion-control, fodder, [[water-management]], bee-forage]
+tags: [permaculture, erosion-control, fodder, water-management, bee-forage]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

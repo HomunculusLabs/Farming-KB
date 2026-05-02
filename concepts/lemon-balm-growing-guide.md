@@ -3,7 +3,7 @@ title: lemon balm growing guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, [[permaculture]]]
+tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture]
 sources: []
 ---
 # lemon balm growing guide (Melissa officinalis)

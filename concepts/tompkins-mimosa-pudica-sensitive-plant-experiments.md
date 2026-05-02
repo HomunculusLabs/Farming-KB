@@ -1,7 +1,7 @@
 ---
 title: Mimosa pudica and Sensitive Plant Experiments
 tags:
-  - [[plant-perception]]
+  - plant-perception
   - mimosa-pudica
   - thigmomorphogenesis
   - plant-electrophysiology

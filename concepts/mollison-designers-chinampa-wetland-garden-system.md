@@ -1,11 +1,11 @@
 ---
 title: Chinampa Wetland Garden System
 tags:
-  - [[permaculture-design]]
+  - permaculture-design
   - traditional-agriculture
-  - [[water-management]]
+  - water-management
   - intensive-growing
-  - [[wetland-ecology]]
+  - wetland-ecology
 date: 2026-04-25
 updated: 2026-04-25
 sources:

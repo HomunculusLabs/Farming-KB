@@ -3,7 +3,7 @@ title: Fukuoka Natural Vegetable Growing
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [fukuoka, [[natural-farming]], philosophy]
+tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 ---

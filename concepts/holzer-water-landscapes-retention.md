@@ -2,7 +2,7 @@
 title: Holzer Water Landscapes and Retention
 created: 2026-04-26
 tags:
-  - [[water-management]]
+  - water-management
   - permaculture
   - holzer-permaculture
   - landscape-restoration

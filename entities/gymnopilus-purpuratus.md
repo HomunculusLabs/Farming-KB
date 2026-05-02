@@ -13,7 +13,7 @@ tags:
 - lighting
 - fungi
 - distribution
-[[psilocybin]]
+psilocybin
 - cover-crop
 
 sources:

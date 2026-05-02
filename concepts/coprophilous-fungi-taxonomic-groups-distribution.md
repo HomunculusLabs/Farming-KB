@@ -3,7 +3,7 @@ title: "Coprophilous Fungi - Taxonomic Groups and Distribution"
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - taxonomy
   - decomposition
   - biodiversity

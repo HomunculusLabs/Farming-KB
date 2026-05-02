@@ -3,7 +3,7 @@ title: "Mycoparasite-Host Interface Types and Interaction Mechanisms"
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - mycoparasitism
   - biological-control
   - fungal-interactions

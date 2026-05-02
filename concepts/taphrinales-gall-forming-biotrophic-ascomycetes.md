@@ -6,7 +6,7 @@ tags:
   - ascomycota
   - biotrophic-parasitism
   - plant-pathology
-  - [[fungal-biodiversity]]
+  - fungal-biodiversity
 date: 2026-04-25
 updated: 2026-04-25
 sources:

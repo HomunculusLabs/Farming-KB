@@ -2,7 +2,7 @@
 title: Fukuoka Theory - Discriminating vs Nondiscriminating Knowledge
 tags:
   - fukuoka
-  - [[natural-farming-philosophy]]
+  - natural-farming-philosophy
   - epistemology
   - mu
   - agricultural-philosophy

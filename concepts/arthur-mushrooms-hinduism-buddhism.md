@@ -3,7 +3,7 @@ title: Mushroom Symbolism in Hinduism and Buddhism
 created: 2026-04-26
 updated: 2026-04-24
 sources: "James Arthur, Mushrooms and Mankind"
-wikilinks: "[[arthur-mushrooms-sumerian-egyptian-art]] [[arthur-christmas-tree-amanita-muscaria]] [[arthur-phallic-symbolism-mushrooms]] [[arthur-mushroom-iconography-medieval-europe]]"
+wikilinks: "arthur-mushrooms-sumerian-egyptian-art arthur-christmas-tree-amanita-muscaria arthur-phallic-symbolism-mushrooms arthur-mushroom-iconography-medieval-europe"
 type: concept
 tags: [mushroom-cultivation, mushrooms]
 ---
@@ -144,3 +144,8 @@ process of the acquisition of knowledge. One becomes the way one needs to be
 (pure compassion for all). This is the reasoning for the efficacy offered
 through death/rebirth experiences facilitated by the mushroom -- the process is
 quickened through personal revelation.
+
+## See Also
+
+- [[entheogen-culture]]
+- [[psilocybin-in-the-counter-culture]]

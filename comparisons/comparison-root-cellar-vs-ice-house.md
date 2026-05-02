@@ -1,3 +1,12 @@
+---
+title: "Comparison Root Cellar Vs Ice House"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [general]
+sources: []
+---
+
      1|---
      2|title: "Root Cellar vs Ice House"
      3|tags: [comparison, food-preservation, off-grid, natural-building]

@@ -1,5 +1,5 @@
 ---
-[[psilocybin-mushroom]]Mushroom Cultural Artifacts"
+psilocybin-mushroomMushroom Cultural Artifacts"
 tags:
   - mushroom-art
   - cultural-history

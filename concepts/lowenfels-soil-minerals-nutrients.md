@@ -3,7 +3,7 @@ title: "Soil Minerals and Nutrients"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-bacteria-role-soil]] [[lowenfels-fungi-role-soil]] [[lowenfels-nutrients-nitrogen-cycle]] [[lowenfels-mycorrhizal-networks]] [[lowenfels-compost-tea-brewing]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-nutrients-nitrogen-cycle lowenfels-mycorrhizal-networks lowenfels-compost-tea-brewing"
 type: concept
 tags: [minerals, nutrients, soil]
 ---

@@ -2,7 +2,7 @@
 title: Asparagus Growing - Organic Methods
 tags:
   - asparagus
-  - [[perennial-vegetables]]
+  - perennial-vegetables
   - organic-growing
   - vegetable-garden
   - shoot-vegetables

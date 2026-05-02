@@ -3,7 +3,7 @@ title: Cover Crops and Soil Biology
 tags:
   - cover-crops
   - soil-biology
-  - [[root-exudates]]
+  - root-exudates
   - nitrogen-fixation
   - green-manure
 date: 2026-04-25

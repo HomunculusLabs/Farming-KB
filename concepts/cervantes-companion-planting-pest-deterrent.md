@@ -3,10 +3,10 @@ title: Companion Planting for Cannabis Pest Deterrence
 created: 2026-04-26
 tags:
   - cannabis
-  - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - pest-control
   - outdoor-growing
-  - [[integrated-pest-management]]
+  - integrated-pest-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

@@ -5,7 +5,7 @@ tags:
   - biosorption
   - isotherms
   - heavy-metals
-  - [[fungal-bioremediation]]
+  - fungal-bioremediation
   - equilibrium-modeling
 date: 2026-04-25
 updated: 2026-04-25

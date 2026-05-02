@@ -1,3 +1,12 @@
+---
+title: "Tryptamine Receptor Pharmacology"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [pharmacology, psychedelics]
+sources: []
+---
+
      1|---
      2|title: [[tryptamine]] Receptor Pharmacology
      3|tags: [neuroscience, serotonin-receptors, tryptamines, psychopharmacology]

@@ -2,7 +2,7 @@
 title: Mushroom Spawn Production and Grain Spawn
 tags:
   - mushroom-cultivation
-  - [[spawn-production]]
+  - spawn-production
   - grain-spawn
   - tissue-culture
   - sterilization

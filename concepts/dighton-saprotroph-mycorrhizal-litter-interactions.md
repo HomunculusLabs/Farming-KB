@@ -1,7 +1,7 @@
 ---
 title: "Saprotroph-Mycorrhizal Interactions in Litter Decomposition"
 tags:
-  - [[saprotrophic-fungi]]
+  - saprotrophic-fungi
   - mycorrhizae
   - decomposition
   - fungal-interactions

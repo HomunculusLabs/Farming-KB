@@ -1,11 +1,11 @@
 ---
-title: Cuthill on Historical [[mushroom-spawn-preparation]]
+title: Cuthill on Historical mushroom-spawn-preparation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - raw/papers/[[james-cuthill]]-a-treatise-on-the-cultivation-of-the-mushroom.md
+  - raw/papers/james-cuthill-a-treatise-on-the-cultivation-of-the-mushroom.md
 type: concept
-tags: [grain-spawn, [[mushroom-cultivation]]]
+tags: [grain-spawn, mushroom-cultivation]
 ---
 
 # Cuthill on Historical Mushroom [[spawn-preparation]]

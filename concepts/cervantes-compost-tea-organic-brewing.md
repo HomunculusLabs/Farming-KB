@@ -1,5 +1,5 @@
 ---
-title: [[compost-tea-brewing]] for Cannabis
+title: compost-tea-brewing for Cannabis
 created: 2026-04-26
 tags:
   - cannabis

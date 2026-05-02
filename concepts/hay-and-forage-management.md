@@ -3,7 +3,7 @@ title: hay and forage management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [forage, animal-husbandry, [[homesteading]], livestock, storage, preservation]
+tags: [forage, animal-husbandry, homesteading, livestock, storage, preservation]
 sources:
   - /Users/t3rpz/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 ---
@@ -145,6 +145,10 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
   quality if properly sealed.
 
 ## Related
+
+- [[cover-crop-species-comparison]]
+- [[homesteading-livestock-comparison]]
+- [[pasture-management]]
 
 - [[livestock-fencing-guide]]
 - [[compost-building-guide]]

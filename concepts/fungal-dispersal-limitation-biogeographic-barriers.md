@@ -2,10 +2,10 @@
 title: Fungal Dispersal Limitation and Biogeographic Barriers
 created: 2026-04-26
 tags:
-  - [[fungal-biogeography]]
+  - fungal-biogeography
   - dispersal limitation
   - endemism
-  - [[sequestrate-fungi]]
+  - sequestrate-fungi
   - species distribution
 date: 2026-04-25
 updated: 2026-04-25

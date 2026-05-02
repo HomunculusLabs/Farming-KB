@@ -3,7 +3,7 @@ title: "Natural Farming and Climate Change — Fukuoka's Analysis"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "[[fukuoka-sowing-natural-farming-philosophy]] [[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-desert-greening-worldwide-results]] [[fukuoka-sowing-clay-seed-ball-preparation]] [[fukuoka-sowing-green-philosophy-one-grain-revolution]] [[fukuoka-road-critique-of-modern-science]]"
+wikilinks: "fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-clay-seed-ball-preparation fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-critique-of-modern-science"
 type: concept
 tags: [climate, fukuoka, natural-farming]
 ---

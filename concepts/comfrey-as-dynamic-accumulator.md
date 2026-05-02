@@ -2,7 +2,7 @@
 title: Comfrey as a Dynamic Accumulator
 tags:
   - comfrey
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - permaculture
   - composting
   - plant-nutrition

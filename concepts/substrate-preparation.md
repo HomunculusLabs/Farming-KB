@@ -1,5 +1,5 @@
 ---
-title: [[cotter-substrate-preparation]]
+title: cotter-substrate-preparation
 tags: [mycology, cultivation, substrate, mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28

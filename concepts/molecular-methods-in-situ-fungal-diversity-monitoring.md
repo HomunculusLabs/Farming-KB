@@ -1,3 +1,12 @@
+---
+title: "Molecular Methods In Situ Fungal Diversity Monitoring"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [fungal-ecology, mycology, research-methods]
+sources: []
+---
+
      1|---
      2|title: Molecular Methods for In-Situ Fungal Diversity Monitoring
      3|created: 2026-04-26

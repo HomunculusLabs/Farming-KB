@@ -3,7 +3,7 @@ title: Domestic Herb Spiral and Kitchen Garden
 tags:
   - permaculture
   - kitchen-garden
-  - [[herb-spiral]]
+  - herb-spiral
   - zone-1
   - intensive-gardening
 date: 2026-04-25

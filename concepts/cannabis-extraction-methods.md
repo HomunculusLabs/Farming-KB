@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [cannabis, extraction, solvent, hashish, kief, essential-oil, chemistry, processing, safety]
-sources: [raw/papers/[[ben-lemon]]-cannabis-alchemy.md]
+sources: [raw/papers/ben-lemon-cannabis-alchemy.md]
 ---
 
 ## cannabis extraction methods

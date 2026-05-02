@@ -1,5 +1,5 @@
 ---
-title: [[agar]]a - Galbulimima Belgraveana New Guinea Tree
+title: agara - Galbulimima Belgraveana New Guinea Tree
 tags: [ethnobotany, papua-new-guinea, australia, malaysia,
   himantandraceae, alkaloids, hallucinogenic-plants, schultes]
 date: 2026-04-28

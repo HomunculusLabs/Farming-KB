@@ -1,8 +1,8 @@
 ---
-[[peyote-ceremony]]eremony Guide
-created: 2026-0[[lophophora-williamsii]]-12
+peyote-ceremonyeremony Guide
+created: 2026-0lophophora-williamsii-12
 type: concept
-tags: [entheogen, cacti, ethnobotany, mesoamerica, new-world, shamanism, spirituality, religion,[[mescaline]] psychopharmacology, safety, history, species]
+tags: [entheogen, cacti, ethnobotany, mesoamerica, new-world, shamanism, spirituality, religion,mescaline psychopharmacology, safety, history, species]
 sources: []
 ---
 

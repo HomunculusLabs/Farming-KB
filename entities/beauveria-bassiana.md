@@ -116,6 +116,10 @@ the viability of fungal-based alternatives to chemical insecticides
 in sustainable agriculture.
 
 ## See Also
+
+- [[beauveria]]
+
+- [[metarhizium]]
 Related: [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]], [[jadam-insect-pest-management]], [[cotter-natural-pest-control-disease-management]]
 
 - [[mycopesticides-fungal-biocontrol]]

@@ -3,7 +3,7 @@ title: Catch Crop and Polyculture Design
 created: 2026-04-26
 tags:
   - polyculture
-  - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - soil-building
   - holzer-method
 date: 2026-04-25

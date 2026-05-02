@@ -2,7 +2,7 @@
 title: Water Culture Systems
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
-synonyms: DWC, [[deep-water-culture]], NFT, aeroponics, [[nutrient-film-technique]]
+synonyms: DWC, deep-water-culture, NFT, aeroponics, nutrient-film-technique
 type: concept
 tags: [cannabis, culture, water]
 updated: 2026-04-26

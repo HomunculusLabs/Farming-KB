@@ -3,7 +3,7 @@ title: Air Pollution and Fungal Community Responses
 created: 2026-04-26
 tags:
   - air pollution
-  - [[fungal-ecology]]
+  - fungal-ecology
   - lichenized fungi
   - environmental monitoring
   - ecosystem health

@@ -1,7 +1,7 @@
 ---
 title: Paulownia tomentosa
 type: species
-tags: [[permaculture]], timber, nitrogen-fixing, agroforestry, fast-growing]
+tags: permaculture, timber, nitrogen-fixing, agroforestry, fast-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]

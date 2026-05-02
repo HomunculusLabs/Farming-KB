@@ -3,7 +3,7 @@ title: Cannabis for Sleep Disorders and Insomnia
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-ptsd-anxiety]] [[cannabis-chronic-pain-management]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-ptsd-anxiety cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
 ---

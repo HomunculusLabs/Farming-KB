@@ -4,7 +4,7 @@ tags:
   - water-lifting
   - hand-pump
   - traditional-technology
-  - [[appropriate-technology]]
+  - appropriate-technology
   - mollison-pdm
 date: 2026-04-25
 updated: 2026-04-25

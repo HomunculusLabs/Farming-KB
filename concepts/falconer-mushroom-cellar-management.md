@@ -5,7 +5,7 @@ updated: 2026-04-24
 sources:
   - William Falconer - Mushrooms: How to Grow Them (1891)
 type: concept
-tags: [[mushroom-cultivation]]]
+tags: mushroom-cultivation]
 ---
 
 # Falconer Mushroom Cellar Management

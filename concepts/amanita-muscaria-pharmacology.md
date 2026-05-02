@@ -1,6 +1,6 @@
 ---
 title: "Amanita Muscaria Pharmacology"
-tags: [[amanita-muscaria]], muscimol, ibotenic-acid, fly-agaric,
+tags: amanita-muscaria, muscimol, ibotenic-acid, fly-agaric,
        gaba-receptors, toxic-mushrooms]
 date: 2026-04-28
 updated: 2026-04-28

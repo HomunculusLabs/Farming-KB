@@ -3,7 +3,7 @@ title: "Tilling, No-Till, and Soil Health"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-fungi-role-soil]] [[lowenfels-mycorrhizal-networks]] [[lowenfels-mulch-cover-cropping]] [[lowenfels-soil-macro-arthropods]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-fungi-role-soil lowenfels-mycorrhizal-networks lowenfels-mulch-cover-cropping lowenfels-soil-macro-arthropods"
 type: concept
 tags: [soil]
 ---

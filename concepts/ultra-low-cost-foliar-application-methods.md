@@ -1,7 +1,7 @@
 ---
 title: Foliar Application Methods in Ultra-Low-Cost Farming
 tags:
-  - [[foliar-feeding]]
+  - foliar-feeding
   - jadam
   - nutrient-management
   - ultra-low-cost

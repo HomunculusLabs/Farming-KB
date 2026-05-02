@@ -3,7 +3,7 @@ title: High Island Permaculture Design
 tags:
   - permaculture
   - islands
-  - [[watershed-management]]
+  - watershed-management
   - keyline
   - mollison-pdc
 date: 2026-04-25

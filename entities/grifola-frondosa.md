@@ -6,7 +6,7 @@ tags:
   - polypore
   - maitake
   - immunomodulator
-  - [[beta-glucan-receptor-binding]]
+  - beta-glucan-receptor-binding
 date: 2026-04-28
 updated: 2026-04-28
 sources:

@@ -1,7 +1,7 @@
 ---
 title: Pleurotus pulmonarius
 type: species
-tags: [edible-mushroom, oyster-mushroom, tropical, [[mycoremediation]], ligninolytic]
+tags: [edible-mushroom, oyster-mushroom, tropical, mycoremediation, ligninolytic]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]

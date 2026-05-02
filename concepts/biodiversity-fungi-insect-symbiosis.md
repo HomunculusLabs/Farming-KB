@@ -1,5 +1,5 @@
 ---
-[[fungal-symbiosis]]mbiosis with Insects
+fungal-symbiosismbiosis with Insects
 created: 2026-04-24
 tags: [mycology, symbiosis, insects, ants, termites, beetles, ecology]
 sources: Biodiversity of Fungi (Mueller & Bills)

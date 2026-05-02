@@ -92,7 +92,9 @@ is the single most common reason for failed grows among beginners.
 - Shiitake and morel are too demanding for first-time growers; save them
   for later when your skills have developed
 
-## Related Questions
+## Related
+
+- [[query-what-is-the-strongest-psilocybin-mushroom-species]] Questions
 - [[query-how-to-grow-oyster-mushrooms-at-home]]
 - [[query-how-to-grow-shiitake-mushrooms]]
 - [[query-how-to-grow-wine-cap-mushrooms]]

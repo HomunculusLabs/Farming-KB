@@ -2,7 +2,7 @@
 title: Sequestrate Fungi Taxonomy and Geographic Distribution
 created: 2026-04-26
 tags:
-  - [[sequestrate-fungi]]
+  - sequestrate-fungi
   - taxonomy
   - biogeography
   - ectomycorrhiza

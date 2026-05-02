@@ -2,8 +2,8 @@
 title: Contour Farming and Strip Cropping on Slopes
 tags:
   - erosion-control
-  - [[water-management]]
-  - [[permaculture-design]]
+  - water-management
+  - permaculture-design
   - soil-conservation
   - sustainable-agriculture
 date: 2026-04-25

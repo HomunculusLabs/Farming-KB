@@ -1,5 +1,5 @@
 ---
-title: [[mycorrhiza]]l Siderophores
+title: mycorrhizal Siderophores
 tags: [siderophores, iron-chelation, mycorrhiza, ferricrocin, nutrient-acquisition]
 date: 2026-04-25
 updated: 2026-04-25

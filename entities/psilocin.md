@@ -1,7 +1,7 @@
 ---
 title: psilocin
 type: chemical
-tags: ["[[tryptamine]]-alkaloid", "[[serotonin]]-agonist", "psychedelic", "metabolite"]
+tags: ["tryptamine-alkaloid", "serotonin-agonist", "psychedelic", "metabolite"]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md, /Users/t3rpz/wiki/raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md]

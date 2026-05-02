@@ -2,7 +2,7 @@
 title: "Gigantism, Intermediate Technology and Small Scale"
 created: 2026-04-26
 tags:
-  - [[appropriate-technology]]
+  - appropriate-technology
   - schumacher
   - gigantism
   - permaculture

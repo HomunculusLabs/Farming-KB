@@ -3,8 +3,8 @@ title: Calendula Salve and Herbal Remedies
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[permaculture]], herbs, medicine, herbalism, calendula, thyme, natural-remedies, [[homesteading]], health, self-reliance]
-sources: [raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md]
+tags: permaculture, herbs, medicine, herbalism, calendula, thyme, natural-remedies, homesteading, health, self-reliance]
+sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
 # Calendula Salve and Herbal Remedies

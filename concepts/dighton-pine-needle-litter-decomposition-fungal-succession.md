@@ -5,7 +5,7 @@ tags:
   - mycology
   - decomposition
   - leaf-litter
-  - [[fungal-succession]]
+  - fungal-succession
   - conifer-forest
 date: 2026-04-25
 updated: 2026-04-25

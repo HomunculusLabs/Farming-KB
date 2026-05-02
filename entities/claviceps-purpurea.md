@@ -1,3 +1,12 @@
+---
+title: "Claviceps Purpurea"
+created: 2026-05-02
+updated: 2026-05-02
+type: entity
+tags: [mycology, species]
+sources: []
+---
+
      1|---
      2|title: Claviceps purpurea
      3|type: species

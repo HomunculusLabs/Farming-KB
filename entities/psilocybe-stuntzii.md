@@ -3,7 +3,7 @@ title: Psilocybe stuntzii
 type: species
 tags:
   - psilocybin
-  - [[agar]]icales
+  - agaricales
   - pacific-northwest
   - wood-chip-inhabiting
 date: 2026-04-28

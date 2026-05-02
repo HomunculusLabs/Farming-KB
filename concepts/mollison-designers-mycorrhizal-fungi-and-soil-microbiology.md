@@ -2,7 +2,7 @@
 title: Mycorrhizal Fungi and Soil Microbiology
 tags:
   - soil-biology
-  - [[mycorrhiza]]
+  - mycorrhiza
   - fungal-networks
   - nutrient-cycling
   - soil-health

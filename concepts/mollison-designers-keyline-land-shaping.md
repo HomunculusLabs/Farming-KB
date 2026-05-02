@@ -1,6 +1,6 @@
 ---
 title: Keyline Land Shaping
-tags: [permaculture, keyline, [[water-management]], earthworks, landscape-design]
+tags: [permaculture, keyline, water-management, earthworks, landscape-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

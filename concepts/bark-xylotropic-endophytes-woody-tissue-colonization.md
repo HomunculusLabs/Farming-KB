@@ -3,7 +3,7 @@ title: Bark and Xylotropic Endophytes - Woody Tissue Colonization
 created: 2026-04-26
 tags:
   - endophytes
-  - [[fungal-ecology]]
+  - fungal-ecology
   - wood-decay
   - biodiversity
   - ascomycota

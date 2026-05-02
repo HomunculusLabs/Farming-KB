@@ -1,5 +1,5 @@
 ---
-title: "[[fungal-succession]] in Decomposing Wood"
+title: "fungal-succession in Decomposing Wood"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: "Stacking Functions and System Integration in [[permaculture]]"
+title: "Stacking Functions and System Integration in permaculture"
 tags: [permaculture, stacking-functions, polyculture, design]
 date: 2026-04-25
 updated: 2026-04-25

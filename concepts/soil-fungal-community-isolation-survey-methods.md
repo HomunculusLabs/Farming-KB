@@ -5,7 +5,7 @@ tags:
   - mycology
   - soil-ecology
   - methodology
-  - [[fungal-biodiversity]]
+  - fungal-biodiversity
   - microbiology
 date: 2026-04-25
 updated: 2026-04-25

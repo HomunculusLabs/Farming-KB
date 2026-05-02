@@ -1,5 +1,5 @@
 ---
-title: "[[cold-frame-gardening]] vs [[greenhouse-growing]]"
+title: "cold-frame-gardening vs greenhouse-growing"
 tags: [comparison, season-extension, growing-structures, protected-culture]
 date: 2026-04-25
 updated: 2026-04-25

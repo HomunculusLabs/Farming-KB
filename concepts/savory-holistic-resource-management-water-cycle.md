@@ -4,7 +4,7 @@ tags:
   - holistic-management
   - water-cycle
   - soil-health
-  - [[desertification]]
+  - desertification
   - ecosystem-processes
 date: 2026-04-25
 updated: 2026-04-25

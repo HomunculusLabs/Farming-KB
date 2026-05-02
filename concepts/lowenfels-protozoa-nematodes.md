@@ -3,7 +3,7 @@ title: "Protozoa and Nematodes in the Soil Food Web"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "[[lowenfels-soil-food-web-overview]] [[lowenfels-bacteria-role-soil]] [[lowenfels-fungi-role-soil]] [[lowenfels-soil-macro-arthropods]] [[lowenfels-nutrients-nitrogen-cycle]]"
+wikilinks: "lowenfels-soil-food-web-overview lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-soil-macro-arthropods lowenfels-nutrients-nitrogen-cycle"
 type: concept
 tags: [reference]
 ---

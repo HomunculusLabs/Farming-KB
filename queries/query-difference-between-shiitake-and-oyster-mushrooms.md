@@ -1,3 +1,12 @@
+---
+title: "Query Difference Between Shiitake And Oyster Mushrooms"
+created: 2026-05-02
+updated: 2026-05-02
+type: query
+tags: [mushroom-cultivation, mycology]
+sources: []
+---
+
      1|---
      2|title: "What Is the Difference Between Shiitake and Oyster Mushrooms"
      3|tags: [query, mycology, mushroom-cultivation, shiitake, oyster-mushrooms]

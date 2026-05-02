@@ -2,7 +2,7 @@
 title: "Case Study: Energy-Efficient Organic Sea of Green"
 tags:
   - cannabis-cultivation
-  - [[sea-of-green]]
+  - sea-of-green
   - case-study
   - indoor-growing
   - energy-efficiency

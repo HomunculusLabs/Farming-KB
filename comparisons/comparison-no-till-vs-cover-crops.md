@@ -1,5 +1,5 @@
 ---
-title: "No-[[cover-crops]]er Crops"
+title: "No-cover-cropser Crops"
 tags:
   - soil-health
   - no-till

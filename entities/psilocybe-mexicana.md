@@ -1,10 +1,10 @@
 ---
-title: [[stamets-psi-psilocybe-mexicana-species-guide]]
+title: stamets-psi-psilocybe-mexicana-species-guide
 type: species
 tags:
   - psilocybin-mushroom
   - psychedelic
-  - [[teonanacatl-history]]
+  - teonanacatl-history
   - sclerotia
   - mesoamerican
 date: 2026-04-28

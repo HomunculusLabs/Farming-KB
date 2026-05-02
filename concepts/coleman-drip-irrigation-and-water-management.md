@@ -2,7 +2,7 @@
 title: Drip Irrigation and Water Management
 tags:
   - irrigation
-  - [[water-management]]
+  - water-management
   - greenhouse-climate
   - soil-moisture
   - frost-protection

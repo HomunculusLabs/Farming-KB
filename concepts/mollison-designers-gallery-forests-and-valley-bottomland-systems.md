@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - forest-ecology
   - riparian-zones
-  - [[water-management]]
+  - water-management
   - tropical-design
   - biodiversity
 date: 2026-04-25

@@ -3,7 +3,7 @@ title: Fertilizer Selection and Application Rates
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Steve Solomon, Gardening When It Counts"
-wikilinks: "[[solomon-soil-mineral-depletion]] [[solomon-compost-organic-matter]] [[solomon-double-digging]] [[solomon-raised-beds]] [[solomon-irrigation-water-scarce]] [[solomon-seed-saving-vegetable-breeding]] [[solomon-vegetable-varieties-self-sufficiency]] [[solomon-pest-management-without-chemicals]] [[winter-gardening-season-extension]] [[solomon-root-cellaring-food-preservation]] [[solomon-garden-planning-calorie-production]]"
+wikilinks: "solomon-soil-mineral-depletion solomon-compost-organic-matter solomon-double-digging solomon-raised-beds solomon-irrigation-water-scarce solomon-seed-saving-vegetable-breeding solomon-vegetable-varieties-self-sufficiency solomon-pest-management-without-chemicals winter-gardening-season-extension solomon-root-cellaring-food-preservation solomon-garden-planning-calorie-production"
 type: concept
 tags: [fertilizer]
 ---

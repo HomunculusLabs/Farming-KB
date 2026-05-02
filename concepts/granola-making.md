@@ -3,7 +3,7 @@ title: granola making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [food, recipe, [[homesteading]], homestead-crafts, preparation]
+tags: [food, recipe, homesteading, homestead-crafts, preparation]
 sources: []
 ---
 ## What Is Granola

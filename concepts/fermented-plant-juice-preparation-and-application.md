@@ -1,6 +1,6 @@
 ---
 title: "Fermented Plant Juice Preparation and Application"
-tags: [fermented-plant-juice, [[natural-farming]], KNF, plant-nutrition]
+tags: [fermented-plant-juice, natural-farming, KNF, plant-nutrition]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]

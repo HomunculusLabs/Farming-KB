@@ -1,7 +1,7 @@
 ---
 title: Mycorrhizal Network Carbon Transfer Between Plants
 tags:
-  - [[mycorrhizal-networks]]
+  - mycorrhizal-networks
   - carbon-cycling
   - forest-ecology
   - plant-ecology

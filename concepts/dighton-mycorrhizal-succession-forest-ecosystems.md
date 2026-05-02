@@ -3,7 +3,7 @@ title: Mycorrhizal Succession in Forest Ecosystems
 created: 2026-04-26
 tags:
   - mycology
-  - [[mycorrhizal-fungi]]
+  - mycorrhizal-fungi
   - forest-ecology
   - succession
   - ecosystem-processes

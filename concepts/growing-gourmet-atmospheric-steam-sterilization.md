@@ -1,7 +1,7 @@
 ---
 title: Atmospheric Steam Sterilization of Sawdust Substrates
 created: 2026-04-26
-tags: [sterilization, mushroom-cultivation, sawdust, steam-treatment, [[spawn-production]]]
+tags: [sterilization, mushroom-cultivation, sawdust, steam-treatment, spawn-production]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

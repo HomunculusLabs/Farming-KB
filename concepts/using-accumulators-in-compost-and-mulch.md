@@ -3,7 +3,7 @@ title: Using Accumulators in Compost and Mulch
 tags:
   - composting
   - mulching
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - soil-building
   - organic-gardening
 date: 2026-04-28

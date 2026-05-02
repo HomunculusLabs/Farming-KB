@@ -2,7 +2,7 @@
 title: Mushroom Spore Identification
 tags:
   - mycology
-  - [[mushroom-identification]]
+  - mushroom-identification
   - spores
   - microscopy
   - field-mycology

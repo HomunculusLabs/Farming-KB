@@ -1,7 +1,7 @@
 ---
 title: Goat Dairy and Cheese Production
 tags:
-  - [[permaculture]]
+  - permaculture
   - goat-dairy
   - cheese-production
   - livestock

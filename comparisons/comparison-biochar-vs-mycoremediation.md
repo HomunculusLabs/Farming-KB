@@ -1,3 +1,12 @@
+---
+title: "Comparison Biochar Vs Mycoremediation"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [amendments, soil-science]
+sources: []
+---
+
      1|---
      2|title: "[[biochar]] vs [[mycoremediation]]"
      3|tags: [comparison, bioremediation, soil, pollution, fungi]

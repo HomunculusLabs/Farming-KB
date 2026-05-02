@@ -1,3 +1,12 @@
+---
+title: "Comparison Biointensive Vs Square Foot Gardening"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [gardening]
+sources: []
+---
+
      1|---
      2|title: "Biointensive vs [[square-foot-gardening]]"
      3|tags: [comparison, gardening, biointensive, square-foot, intensive-agriculture]

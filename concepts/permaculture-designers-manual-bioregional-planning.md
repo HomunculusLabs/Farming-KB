@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-design]]ers Manual - Bioregional Planning
+title: permaculture-designers Manual - Bioregional Planning
 created: 2026-04-20
 updated: 2026-04-18
 type: concept

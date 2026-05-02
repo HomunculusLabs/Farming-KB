@@ -5,7 +5,7 @@ tags:
   - pest-control
   - leafhoppers
   - leaf-miners
-  - [[integrated-pest-management]]
+  - integrated-pest-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

@@ -1,3 +1,12 @@
+---
+title: "Comparison Amf Vs Ecm"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [general]
+sources: []
+---
+
      1|---
      2|title: "[[arbuscular-mycorrhizal-fungi]] vs [[ectomycorrhizal-fungi]]"
      3|tags: [comparison, mycorrhizal-fungi, amf, ecm, symbiosis]

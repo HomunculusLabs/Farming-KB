@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - permaculture
   - flood-control
-  - [[water-management]]
+  - water-management
   - earthworks
   - forest-hydrology
 date: 2026-04-25

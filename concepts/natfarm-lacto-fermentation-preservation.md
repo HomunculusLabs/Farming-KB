@@ -1,5 +1,5 @@
 ---
-title: Lacto-Fermentation for [[food-preservation-canning]]
+title: Lacto-Fermentation for food-preservation-canning
 tags: [fermentation, food-preservation, probiotics, lacto-fermentation, self-sufficiency]
 date: 2026-04-25
 updated: 2026-04-25

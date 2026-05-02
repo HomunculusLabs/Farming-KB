@@ -2,7 +2,7 @@
 title: Goat Husbandry vs Sheep Husbandry
 tags:
   - livestock
-  - [[homesteading]]
+  - homesteading
   - comparison
   - goats
   - sheep

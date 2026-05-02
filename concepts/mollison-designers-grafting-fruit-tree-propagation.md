@@ -1,5 +1,5 @@
 ---
-title: "[[mollison-designers-plant-nursery-propagation-bed-design]] and [[mollison-designers-temperate-zone-food-forest-design]] Propagation"
+title: "mollison-designers-plant-nursery-propagation-bed-design and mollison-designers-temperate-zone-food-forest-design Propagation"
 tags: [permaculture, grafting, fruit-trees, propagation, mollison-pdm]
 date: 2026-04-25
 updated: 2026-04-25

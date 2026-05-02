@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-composting]]
+title: mushroom-composting
 created: 2026-04-25
 updated: 2026-04-25
 type: concept

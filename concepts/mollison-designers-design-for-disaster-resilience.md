@@ -2,7 +2,7 @@
 title: Design for Disaster Resilience
 tags:
   - disaster-resilience
-  - [[permaculture-design]]
+  - permaculture-design
   - risk-management
   - community-preparedness
   - landscape-design

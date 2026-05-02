@@ -1,3 +1,12 @@
+---
+title: "Comparison Chicken Keeping Vs Duck Keeping"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [homesteading, livestock]
+sources: []
+---
+
      1|---
      2|title: "[[chicken-keeping]] vs [[duck-keeping]]"
      3|tags: [comparison, poultry, livestock, homesteading]

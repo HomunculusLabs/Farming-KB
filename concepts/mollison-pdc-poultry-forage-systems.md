@@ -1,7 +1,7 @@
 ---
 title: Poultry Forage Systems in Permaculture Design
 tags:
-  - [[permaculture]]
+  - permaculture
   - poultry
   - forage-systems
   - livestock-integration
@@ -9,7 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - [[bill-mollison]]-[[permaculture]]-design-course.md
+  - bill-mollison-permaculture-design-course.md
 ---
 
 # Poultry Forage Systems in [[permaculture-design]]

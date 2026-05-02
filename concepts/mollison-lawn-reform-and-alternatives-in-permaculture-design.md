@@ -1,5 +1,5 @@
 ---
-title: Lawn Reform and Alternatives in [[permaculture-design]]
+title: Lawn Reform and Alternatives in permaculture-design
 created: 2026-04-26
 tags:
   - permaculture

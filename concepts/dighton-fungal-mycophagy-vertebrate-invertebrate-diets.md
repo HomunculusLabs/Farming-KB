@@ -2,7 +2,7 @@
 title: "Fungal Mycophagy by Vertebrate and Invertebrate Animals"
 tags:
   - mycophagy
-  - [[fungal-ecology]]
+  - fungal-ecology
   - soil-fauna
   - ecosystem-processes
   - trophic-interactions

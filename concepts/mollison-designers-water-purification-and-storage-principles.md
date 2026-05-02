@@ -2,7 +2,7 @@
 title: Water Purification and Storage Principles
 tags:
   - permaculture
-  - [[water-management]]
+  - water-management
   - purification
   - water-storage
   - biological-filtration

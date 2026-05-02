@@ -1,6 +1,6 @@
 ---
 title: Ligninolytic Enzymes
-tags: [biochemistry, [[mycology]], enzymes, bioremediation]
+tags: [biochemistry, mycology, enzymes, bioremediation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]

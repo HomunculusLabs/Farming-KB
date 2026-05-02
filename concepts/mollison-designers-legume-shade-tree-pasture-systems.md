@@ -2,7 +2,7 @@
 title: Legume Shade Tree Pasture Systems
 tags:
   - agroforestry
-  - [[pasture-management]]
+  - pasture-management
   - nitrogen-fixation
   - livestock-systems
   - silvopasture

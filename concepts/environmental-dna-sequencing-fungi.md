@@ -1,6 +1,6 @@
 ---
 title: Environmental DNA Sequencing for Fungi
-tags: [[mycology]], metagenomics, sequencing, methodology]
+tags: mycology, metagenomics, sequencing, methodology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]

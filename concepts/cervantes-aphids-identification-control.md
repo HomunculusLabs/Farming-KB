@@ -4,7 +4,7 @@ tags:
   - cannabis
   - pest-control
   - aphids
-  - [[integrated-pest-management]]
+  - integrated-pest-management
   - biological-control
 date: 2026-04-25
 updated: 2026-04-25

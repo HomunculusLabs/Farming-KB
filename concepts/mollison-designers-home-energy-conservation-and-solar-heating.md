@@ -5,7 +5,7 @@ tags:
   - energy-conservation
   - solar-heating
   - domestic-energy
-  - [[appropriate-technology]]
+  - appropriate-technology
   - permaculture-designers-manual
 date: 2026-04-25
 updated: 2026-04-25

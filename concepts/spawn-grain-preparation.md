@@ -1,6 +1,6 @@
 ---
 title: Spawn Grain Preparation
-tags: [[mycology]], cultivation, sterilization, grain-spawn]
+tags: mycology, cultivation, sterilization, grain-spawn]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]

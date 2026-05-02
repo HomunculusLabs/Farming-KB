@@ -2,7 +2,7 @@
 title: "AMF Spore Strain Variability and Effectiveness"
 tags:
   - mycorrhizae
-  - [[fungal-genetics]]
+  - fungal-genetics
   - inoculum-production
   - strain-selection
   - symbiotic-fungi

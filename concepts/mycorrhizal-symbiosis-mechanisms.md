@@ -1,5 +1,5 @@
 ---
-title: [[mycorrhiza]]l Symbiosis Mechanisms
+title: mycorrhizal Symbiosis Mechanisms
 tags: [mycology, ecology, botany, symbiosis]
 date: 2026-04-28
 updated: 2026-04-28

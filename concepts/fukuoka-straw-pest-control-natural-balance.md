@@ -3,7 +3,7 @@ title: Pest Control by Natural Balance (No Pesticides)
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-four-principles]] [[fukuoka-straw-natural-farming-philosophy]] [[fukuoka-straw-vegetable-growing]] [[fukuoka-straw-rice-without-plowing]] [[fukuoka-straw-mandala-orchard-design]]"
+wikilinks: "fukuoka-straw-four-principles fukuoka-straw-natural-farming-philosophy fukuoka-straw-vegetable-growing fukuoka-straw-rice-without-plowing fukuoka-straw-mandala-orchard-design"
 type: concept
 tags: [fukuoka]
 ---

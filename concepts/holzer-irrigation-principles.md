@@ -3,7 +3,7 @@ title: Holzer Irrigation Principles
 created: 2026-04-26
 tags:
   - irrigation
-  - [[water-management]]
+  - water-management
   - mulching
   - soil-moisture
   - holzer-permaculture

@@ -1,6 +1,6 @@
 ---
 title: "Salvia Divinorum and Salvinorin A"
-tags: [[salvia-divinorum-entity]], salvinorin-a, kappa-opioid, dissociatives,
+tags: salvia-divinorum-entity, salvinorin-a, kappa-opioid, dissociatives,
        hallucinogens, mint-family]
 date: 2026-04-28
 updated: 2026-04-28

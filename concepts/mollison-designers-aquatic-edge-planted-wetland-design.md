@@ -3,7 +3,7 @@ title: "Aquatic Edge and Planted Wetland Design"
 tags:
   - permaculture
   - wetland-design
-  - [[water-management]]
+  - water-management
   - aquaculture
   - ecological-engineering
 date: 2026-04-25

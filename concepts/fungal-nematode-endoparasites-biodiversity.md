@@ -5,7 +5,7 @@ tags:
   - mycology
   - nematology
   - biological-control
-  - [[fungal-ecology]]
+  - fungal-ecology
   - invertebrate-parasites
 date: 2026-04-25
 updated: 2026-04-25

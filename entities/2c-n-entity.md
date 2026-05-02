@@ -53,11 +53,11 @@ The free base was obtained by basification of the nitrate salt and distillation,
 
 The most consistent feature across all reports was that 2C-N "somehow came up just a little short of expectations." It works, it produces effects, but never quite delivers the full experience hoped for.
 
-From an esthetic perspective, the pure salt is yellow rather than the usual white, making consumed solutions yellow by definition. From a structural perspective, the 4-nitro group, like the 4-bromo group of [[2c-b]]-compound-profile|2C-B, is a dead-end — it cannot be stretched, compressed, lengthened, or shortened. With 2c-b-compound-profile|2C-B the end product was a total winner; with 2C-N the end product is something less, and there is no way to modify it.
+From an esthetic perspective, the pure salt is yellow rather than the usual white, making consumed solutions yellow by definition. From a structural perspective, the 4-nitro group, like the 4-bromo group of [[2c-b-entity|2C-B]], is a dead-end — it cannot be stretched, compressed, lengthened, or shortened. With [[2c-b-entity|2C-B]] the end product was a total winner; with 2C-N the end product is something less, and there is no way to modify it.
 
 ### Structure-Activity Relationship Context
 
-The nitro group (−NO₂) is a strong electron-withdrawing substituent, quite different from the halogen or alkyl groups that produce the most potent 2C compounds. While nitro groups are common in explosives and pharmaceuticals (e.g., chloramphenicol), their use in psychedelic phenethylamines is rare. The dramatic drop in potency compared to 2c-b-compound-profile|2C-B (100–150 mg vs. 12–24 mg) and the underwhelming qualitative profile suggest that the nitro group's electronic properties are poorly suited for 5-HT₂A receptor activation in this scaffold.
+The nitro group (−NO₂) is a strong electron-withdrawing substituent, quite different from the halogen or alkyl groups that produce the most potent 2C compounds. While nitro groups are common in explosives and pharmaceuticals (e.g., chloramphenicol), their use in psychedelic phenethylamines is rare. The dramatic drop in potency compared to [[2c-b-entity|2C-B]] (100–150 mg vs. 12–24 mg) and the underwhelming qualitative profile suggest that the nitro group's electronic properties are poorly suited for 5-HT₂A receptor activation in this scaffold.
 
 The contrast between the nitro and bromo substituents is instructive: both are "dead-end" substituents (cannot be structurally varied), yet 2c-b-compound-profile|2C-B became one of the most popular and beloved compounds in the entire 2C series, while 2C-N remains a footnote. This underscores how subtle electronic differences at the 4-position can dramatically alter pharmacological outcomes.
 

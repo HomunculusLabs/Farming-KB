@@ -2,7 +2,7 @@
 title: Water Power and Hydraulic Systems
 created: 2026-04-26
 tags:
-  - [[water-management]]
+  - water-management
   - energy
   - permaculture
   - holzer-method

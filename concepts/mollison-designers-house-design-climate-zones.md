@@ -2,7 +2,7 @@
 title: House Design for Climate Zones
 tags:
   - permaculture
-  - [[natural-building]]
+  - natural-building
   - climate-design
   - passive-solar
   - mollison-pdm

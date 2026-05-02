@@ -3,8 +3,8 @@ title: Quail Egg Production
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, livestock, [[homesteading]], nutrition, economics, beginner]
-sources: [raw/papers/gaias-garden-[[toby-hemenway]].md]
+tags: [animal-husbandry, livestock, homesteading, nutrition, economics, beginner]
+sources: [raw/papers/gaias-garden-toby-hemenway.md]
 ---
 
 # quail egg production

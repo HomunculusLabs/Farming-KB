@@ -3,7 +3,7 @@ title: Fungal Genetic Diversity Assessment
 tags:
   - mycology
   - molecular-biology
-  - [[fungal-genetics]]
+  - fungal-genetics
   - population-genetics
   - PCR
 date: 2026-04-28

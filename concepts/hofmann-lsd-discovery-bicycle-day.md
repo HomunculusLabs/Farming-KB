@@ -3,7 +3,7 @@ title: Discovery of LSD-25 and Bicycle Day 1943
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Albert Hofmann, LSD - My Problem Child"
-wikilinks: "[[hofmann-lsd-pharmacology-and-effects]] [[hofmann-lsd-sandoz-research-program]] [[hofmann-lsd-psychiatric-research]] [[hofmann-lsd-mazatec-and-psilocybin]] [[hofmann-lsd-consciousness-and-philosophy]]"
+wikilinks: "hofmann-lsd-pharmacology-and-effects hofmann-lsd-sandoz-research-program hofmann-lsd-psychiatric-research hofmann-lsd-mazatec-and-psilocybin hofmann-lsd-consciousness-and-philosophy"
 type: concept
 tags: [lsd]
 ---

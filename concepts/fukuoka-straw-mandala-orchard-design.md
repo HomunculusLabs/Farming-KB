@@ -3,7 +3,7 @@ title: Fukuoka's Mandala Orchard Design
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-four-principles]] [[fukuoka-straw-vegetable-growing]] [[fukuoka-straw-soil-building]] [[fukuoka-straw-pest-control-natural-balance]] [[fukuoka-straw-natural-farming-philosophy]]"
+wikilinks: "fukuoka-straw-four-principles fukuoka-straw-vegetable-growing fukuoka-straw-soil-building fukuoka-straw-pest-control-natural-balance fukuoka-straw-natural-farming-philosophy"
 type: concept
 tags: [design, fukuoka, orchard]
 ---

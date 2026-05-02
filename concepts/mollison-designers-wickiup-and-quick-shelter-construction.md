@@ -1,11 +1,11 @@
 ---
 title: Wickiup and Quick Shelter Construction
 tags:
-  - [[natural-building]]
+  - natural-building
   - shelter-design
   - survival-skills
-  - [[appropriate-technology]]
-  - [[permaculture-design]]
+  - appropriate-technology
+  - permaculture-design
 date: 2026-04-25
 updated: 2026-04-25
 sources:

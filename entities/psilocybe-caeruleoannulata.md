@@ -1,7 +1,7 @@
 ---
 title: Psilocybe caeruleoannulata
 type: species
-tags: [psilocybin-mushroom, [[agar]]icales, hymenogastraceae, south-america, annulate]
+tags: [psilocybin-mushroom, agaricales, hymenogastraceae, south-america, annulate]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md]

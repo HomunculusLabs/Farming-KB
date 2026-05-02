@@ -1,3 +1,12 @@
+---
+title: "Comparison Black Soldier Fly Vs Vermicomposting"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [composting, soil-science]
+sources: []
+---
+
      1|---
      2|title: [[black-soldier-fly-composting]] vs [[vermicomposting]]
      3|tags: [composting, soil, waste-management, insects]

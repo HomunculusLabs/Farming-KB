@@ -1,5 +1,5 @@
 ---
-title: Hash Making and Trichome Extraction - [[greg-green-sinsemilla-and-pollination]]'s Cannabis Grow Bible
+title: Hash Making and Trichome Extraction - greg-green-sinsemilla-and-pollination's Cannabis Grow Bible
 created: 2026-04-26
 tags:
   - hash

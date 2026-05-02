@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - gardening
   - self-sufficiency
-  - [[homesteading]]
+  - homesteading
   - food-security
 date: 2026-04-25
 updated: 2026-04-25

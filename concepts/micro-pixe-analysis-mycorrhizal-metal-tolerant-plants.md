@@ -1,5 +1,5 @@
 ---
-title: Micro-PIXE Analysis of [[mycorrhiza]]l Metal-Tolerant Plants
+title: Micro-PIXE Analysis of mycorrhizal Metal-Tolerant Plants
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

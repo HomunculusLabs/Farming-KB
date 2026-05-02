@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - competition
-  - [[fungal-ecology]]
+  - fungal-ecology
   - resource-partitioning
   - soil-ecology
 date: 2026-04-25

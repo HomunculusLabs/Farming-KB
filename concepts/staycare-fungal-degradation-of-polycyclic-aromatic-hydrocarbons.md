@@ -3,9 +3,9 @@ title: Fungal Degradation of Polycyclic Aromatic Hydrocarbons
 created: 2026-04-26
 synonyms:
   - PAH degradation by fungi
-  - [[pah-bioremediation]]
+  - pah-bioremediation
   - fungal PAH metabolism
-  - [[mycoremediation-of-pahs]]
+  - mycoremediation-of-pahs
 type: concept
 tags: [fungi]
 sources:

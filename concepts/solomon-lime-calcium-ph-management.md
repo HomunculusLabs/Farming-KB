@@ -1,5 +1,5 @@
 ---
-title: "Lime, Calcium, Magnesium and [[soil-ph-management]] - Steve Solomon"
+title: "Lime, Calcium, Magnesium and soil-ph-management - Steve Solomon"
 created: 2026-04-26
 tags:
   - gardening

@@ -2,7 +2,7 @@
 title: Bamboo Treatment and Preservation
 tags:
   - bamboo
-  - [[natural-building]]
+  - natural-building
   - preservation
   - tropical-building
   - mollison-pdm

@@ -1,3 +1,12 @@
+---
+title: "Psilocybe Cubensis"
+created: 2026-05-02
+updated: 2026-05-02
+type: entity
+tags: [mycology, species]
+sources: []
+---
+
      1|---
 
      2|title: [[tropisms-psilocybe-cubensis-hyphal-orientation]]

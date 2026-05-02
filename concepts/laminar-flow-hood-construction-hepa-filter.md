@@ -3,7 +3,7 @@ title: Laminar Flow Hood HEPA Filter Selection and Integration
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [equipment, [[mycology]], reference]
+tags: [equipment, mycology, reference]
 sources:
   - "Laminar Flow Hood Construction - Forister and Burger, UC Davis"
 ---

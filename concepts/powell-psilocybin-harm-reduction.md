@@ -1,5 +1,5 @@
 ---
-[[psilocybin]]ilocybin Harm Reduction"
+psilocybinilocybin Harm Reduction"
 created: 2026-04-26
 sources: "The Psilocybin Solution — Simon G. Powell"
 author: "Simon G. Powell"

@@ -3,8 +3,8 @@ title: Fruit Tree Grafting Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[permaculture]], fruit-tree, orchard, trees, pruning, cultivation, techniques, methods, [[homesteading]], agriculture]
-sources: [raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md]
+tags: permaculture, fruit-tree, orchard, trees, pruning, cultivation, techniques, methods, homesteading, agriculture]
+sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
 # fruit tree grafting guide

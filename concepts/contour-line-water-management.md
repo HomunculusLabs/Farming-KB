@@ -2,7 +2,7 @@
 title: Contour Line Water Management
 created: 2026-04-26
 tags:
-  - [[water-management]]
+  - water-management
   - earthworks
   - permaculture
   - holzer-permaculture

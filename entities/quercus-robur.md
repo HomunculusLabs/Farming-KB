@@ -1,6 +1,6 @@
 ---
 title: "quercus robur"
-tags: [species, tree, timber, food, [[permaculture]]]
+tags: [species, tree, timber, food, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [a-selection-permaculture-plants.md]

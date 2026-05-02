@@ -6,7 +6,7 @@ tags:
   - cultivation-techniques
   - temperature-management
   - substrate-science
-  - [[spawn-production]]
+  - spawn-production
 date: 2026-04-25
 updated: 2026-04-25
 sources:

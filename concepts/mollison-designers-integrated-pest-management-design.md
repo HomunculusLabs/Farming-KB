@@ -1,5 +1,5 @@
 ---
-title: "Integrated [[organic-pest-and-disease-management]] in Permaculture Design"
+title: "Integrated organic-pest-and-disease-management in Permaculture Design"
 tags: [permaculture, pest-management, ecology, polycultures, mollison-pdm]
 date: 2026-04-25
 updated: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: "[[fungal-biodiversity]] Estimation Methods"
+title: "fungal-biodiversity Estimation Methods"
 tags:
   - biodiversity-estimation
   - species-richness

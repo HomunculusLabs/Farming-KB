@@ -1,3 +1,12 @@
+---
+title: "5 Methoxy Dmt Pharmacology"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [pharmacology, psychedelics]
+sources: []
+---
+
      1|---
      2|title: 5-Methoxy-DMT Pharmacology
      3|tags: [pharmacology, tryptamines, 5-methoxy-dmt, psychedelics]

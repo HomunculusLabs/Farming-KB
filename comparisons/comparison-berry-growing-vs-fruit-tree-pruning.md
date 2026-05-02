@@ -1,3 +1,12 @@
+---
+title: "Comparison Berry Growing Vs Fruit Tree Pruning"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [gardening, homesteading, permaculture]
+sources: []
+---
+
      1|---
      2|title: "[[berry-growing]] vs [[fruit-tree-pruning]]"
      3|tags: [comparison, fruit, orcharding, pruning, perennial]

@@ -1,6 +1,6 @@
 ---
 title: Medicinal Mushrooms - Compounds and Benefits
-tags: [mushrooms, medicinal, health, compounds, [[mycology]]]
+tags: [mushrooms, medicinal, health, compounds, mycology]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
@@ -143,6 +143,8 @@ may interact with immunosuppressive medications. Reishi can have mild
 anticoagulant effects.
 
 ## See Also
+
+- [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
 
 - [[cotter-substrate-preparation]]
 - [[sterilization-techniques-mushroom-cultivation]]

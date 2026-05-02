@@ -1,5 +1,5 @@
 ---
-title: Oyster [[mushroom-nutritional-composition]]
+title: Oyster mushroom-nutritional-composition
 tags: [oyster-mushroom, nutrition, protein, vitamins, beta-glucans, health-food]
 date: 2026-04-25
 updated: 2026-04-25

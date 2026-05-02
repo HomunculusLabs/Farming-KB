@@ -2,7 +2,7 @@
 title: Fungal Wildlife Diseases and Conservation Biology
 created: 2026-04-26
 tags:
-  - [[fungal-ecology]]
+  - fungal-ecology
   - conservation biology
   - wildlife disease
   - biodiversity loss

@@ -3,7 +3,7 @@ title: Fungal Parasites and Predators of Rotifers and Invertebrates
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - invertebrate-parasitism
   - microfauna
   - predation

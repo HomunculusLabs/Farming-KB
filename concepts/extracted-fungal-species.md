@@ -1,3 +1,12 @@
+---
+title: "Extracted Content for 15 Fungal Species"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [cannabis, fungal-ecology, mycology, processing]
+sources: []
+---
+
 # Extracted Content for 15 Fungal Species
 ## Source: /Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
 

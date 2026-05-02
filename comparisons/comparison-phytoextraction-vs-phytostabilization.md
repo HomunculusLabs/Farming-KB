@@ -1,3 +1,12 @@
+---
+title: "Comparison Phytoextraction Vs Phytostabilization"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [cannabis, processing]
+sources: []
+---
+
      1|---
      2|title: "Phytoextraction vs Phytostabilization"
      3|tags: [comparison, phytoremediation, soil-remediation, heavy-metals]

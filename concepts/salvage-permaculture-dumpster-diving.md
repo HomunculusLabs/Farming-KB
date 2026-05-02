@@ -3,9 +3,9 @@ title: Salvage Permaculture and Dumpster Diving
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - ~/wiki/raw/papers/urban-[[permaculture]]-guerilla-gardening.md
+  - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
 type: concept
-tags: [culture, [[permaculture]]]
+tags: [culture, permaculture]
 ---
 
 # Salvage [[permaculture]] and Dumpster Diving

@@ -1,3 +1,12 @@
+---
+title: "Caragana Arborescens"
+created: 2026-05-02
+updated: 2026-05-02
+type: entity
+tags: [permaculture, species]
+sources: []
+---
+
      1|     1|---
      2|     2|title: "Caragana arborescens"
      3|     3|type: species

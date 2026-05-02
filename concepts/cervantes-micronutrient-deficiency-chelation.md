@@ -1,5 +1,5 @@
 ---
-title: [[micronutrient-deficiency-symptoms]] and Chelation in Cannabis
+title: micronutrient-deficiency-symptoms and Chelation in Cannabis
 created: 2026-04-26
 tags:
   - cannabis

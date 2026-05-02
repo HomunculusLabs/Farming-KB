@@ -4,7 +4,7 @@ created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 9 (Harner)
 related:
   - amazonian-ayahuasca-shamanism
-  - [[banisteriopsis-caapi]]
+  - banisteriopsis-caapi
   - yage
 tags: [ethnobotany, shamanism, amazon, yage, ayahuasca, cross-cultural, visionary-experience]
 type: concept

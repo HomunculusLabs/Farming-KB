@@ -3,7 +3,7 @@ title: homestead poultry health
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, [[homesteading]], livestock, livestock-health, troubleshooting]
+tags: [animal-husbandry, homesteading, livestock, livestock-health, troubleshooting]
 sources: []
 ---
 

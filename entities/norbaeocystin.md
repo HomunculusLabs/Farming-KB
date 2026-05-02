@@ -1,7 +1,7 @@
 ---
 title: Norbaeocystin
 type: chemical
-tags: [[tryptamine]], alkaloid, biosynthetic-intermediate, mushroom]
+tags: tryptamine, alkaloid, biosynthetic-intermediate, mushroom]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md]

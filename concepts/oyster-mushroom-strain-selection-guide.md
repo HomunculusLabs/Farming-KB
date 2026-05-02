@@ -1,3 +1,12 @@
+---
+title: "Oyster Mushroom Strain Selection Guide"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [mushroom-cultivation, mycology]
+sources: []
+---
+
      1|---
      2|title: "Oyster Mushroom Strain Selection Guide"
      3|created: 2026-04-26

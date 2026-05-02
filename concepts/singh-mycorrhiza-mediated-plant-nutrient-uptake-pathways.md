@@ -1,5 +1,5 @@
 ---
-title: [[mycorrhiza]]-Mediated [[plant-nutrient-uptake]] Pathways
+title: mycorrhiza-Mediated plant-nutrient-uptake Pathways
 tags: [mycorrhiza, nutrient-uptake, phosphate-transport, micronutrients]
 date: 2026-04-25
 updated: 2026-04-25

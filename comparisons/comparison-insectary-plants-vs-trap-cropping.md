@@ -1,3 +1,12 @@
+---
+title: "Comparison Insectary Plants Vs Trap Cropping"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [gardening, pest-control]
+sources: []
+---
+
      1|     1|---
      2|     2|title: "Insectary Plants vs Trap Cropping"
      3|     3|tags: [comparison, pest-control, companion-planting,

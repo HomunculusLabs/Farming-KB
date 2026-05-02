@@ -1,7 +1,7 @@
 ---
 title: "Cho's Yeast Preparation and Applications"
 tags:
-  - [[korean-natural-farming]]
+  - korean-natural-farming
   - yeast
   - fermentation
   - disease-control

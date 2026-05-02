@@ -1,9 +1,9 @@
 ---
 title: dynamic accumulators overview
 tags:
-[[permaculture]]ture
+permacultureture
   - soil-science
-  - [[dynamic-accumulators]]
+  - dynamic-accumulators
   - plant-nutrition
   - organic-gardening
 date: 2026-04-28

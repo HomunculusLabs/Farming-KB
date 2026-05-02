@@ -88,3 +88,7 @@ Adding a methyl group to the alpha-carbon (adjacent to the amine) converts a phe
 - **Mescaline analogues** — 3,4,5-substituted phenethylamines (see [[mescaline-compound-profile]])
 
 See also: phenethylamine chemistry basics, [[phenethylamine-receptor-pharmacology]], [[pihkal-introduction-and-methodology]], [[phenethylamine-synthesis-safety]]
+
+## See Also
+
+- [[stereochemistry-and-chirality]]

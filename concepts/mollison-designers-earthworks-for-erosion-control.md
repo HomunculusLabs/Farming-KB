@@ -5,7 +5,7 @@ tags:
   - erosion-control
   - earthworks
   - land-rehabilitation
-  - [[water-management]]
+  - water-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

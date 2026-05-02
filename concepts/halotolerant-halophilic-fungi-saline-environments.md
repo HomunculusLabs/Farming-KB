@@ -3,7 +3,7 @@ title: "Halotolerant and Halophilic Fungi in Saline Environments"
 created: 2026-04-26
 tags:
   - mycology
-  - [[extremophilic-fungi]]
+  - extremophilic-fungi
   - saline-ecology
   - fungal-physiology
   - osmotic-adaptation

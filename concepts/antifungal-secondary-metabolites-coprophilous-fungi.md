@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - secondary-metabolites
-  - [[coprophilous-fungi]]
+  - coprophilous-fungi
   - natural-products
   - chemical-ecology
 date: 2026-04-25

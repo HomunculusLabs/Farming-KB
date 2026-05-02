@@ -1,6 +1,6 @@
 ---
 title: Mushroom Spawn Grain Preparation and Inoculation
-tags: [[mycology]], spawn, grain, inoculation, cultivation]
+tags: mycology, spawn, grain, inoculation, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]

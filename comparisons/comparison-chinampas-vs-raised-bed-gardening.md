@@ -1,3 +1,12 @@
+---
+title: "Comparison Chinampas Vs Raised Bed Gardening"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [gardening, permaculture]
+sources: []
+---
+
      1|---
      2|title: "[[chinampas]] vs [[raised-bed-gardening]]"
      3|tags: [comparison, growing-methods, intensive-gardening, water-management, permaculture]

@@ -6,7 +6,7 @@ type: concept
 tags:
   - mycology
   - mushroom-cultivation
-  - [[fungal-ecology]]
+  - fungal-ecology
   - taxonomy
   - foraging
 sources:

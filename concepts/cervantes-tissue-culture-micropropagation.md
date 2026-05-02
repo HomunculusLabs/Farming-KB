@@ -2,7 +2,7 @@
 title: Tissue Culture and Micropropagation
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
-synonyms: meristem culture, in vitro propagation, [[agar]] cloning, sterile culture
+synonyms: meristem culture, in vitro propagation, agar cloning, sterile culture
 type: concept
 tags: [cannabis, culture]
 updated: 2026-04-26

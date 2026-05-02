@@ -1,6 +1,6 @@
 ---
 title: "tryptamines and quantum mechanics"
-tags: [quantum-mechanics, [[tryptamine]]s, consciousness,
+tags: [quantum-mechanics, tryptamines, consciousness,
       hallucinogenesis, psychophysics]
 date: 2026-04-28
 updated: 2026-04-28
@@ -117,7 +117,9 @@ implications for consciousness studies:
   data but an active participant in the construction of reality at the
   quantum level.
 
-## Related Concepts
+## Related
+
+- [[quantum-mechanics-fundamentals]] Concepts
 
 - [[dmt-experience-and-hyperspace-entities]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]

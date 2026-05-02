@@ -1,5 +1,5 @@
 ---
-title: [[carob]] as Drought-Tolerant Food Tree in Permaculture
+title: carob as Drought-Tolerant Food Tree in Permaculture
 tags:
   - permaculture
   - drought-tolerant

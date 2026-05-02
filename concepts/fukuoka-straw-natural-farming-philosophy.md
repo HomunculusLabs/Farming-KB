@@ -3,7 +3,7 @@ title: Fukuoka's Philosophy of Natural Farming
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Masanobu Fukuoka, The Natural Way of Farming"
-wikilinks: "[[fukuoka-straw-four-principles]] [[fukuoka-straw-rice-without-plowing]] [[fukuoka-straw-soil-building]] [[fukuoka-straw-pest-control-natural-balance]] [[fukuoka-straw-healing-the-earth]]"
+wikilinks: "fukuoka-straw-four-principles fukuoka-straw-rice-without-plowing fukuoka-straw-soil-building fukuoka-straw-pest-control-natural-balance fukuoka-straw-healing-the-earth"
 type: concept
 tags: [fukuoka, natural-farming]
 ---

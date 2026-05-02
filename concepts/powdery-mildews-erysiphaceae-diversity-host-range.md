@@ -2,7 +2,7 @@
 title: Powdery Mildews - Erysiphaceae Diversity and Host Range
 created: 2026-04-26
 tags:
-  - [[biodiversity-powdery-mildews]]
+  - biodiversity-powdery-mildews
   - erysiphaceae
   - plant-pathogens
   - obligate-parasites

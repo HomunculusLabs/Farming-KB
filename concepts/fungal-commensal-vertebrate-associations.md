@@ -3,7 +3,7 @@ title: "Fungal Commensal Associations with Vertebrates"
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - commensalism
   - microbiome
   - medical-mycology

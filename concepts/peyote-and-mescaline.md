@@ -1,3 +1,12 @@
+---
+title: "Peyote And Mescaline"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [ethnobotany, pharmacology, psychedelics]
+sources: []
+---
+
      1|---
      2|title: Peyote and Mescaline
      3|tags: [pharmacology, mescaline, indigenous-practices, ethnobotany]

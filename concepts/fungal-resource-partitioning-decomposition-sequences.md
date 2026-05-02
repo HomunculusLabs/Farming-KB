@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - mycology
   - decomposition
-  - [[fungal-ecology]]
+  - fungal-ecology
   - nutrient-cycling
   - ecosystem-function
 date: 2026-04-25

@@ -1,9 +1,9 @@
 ---
-title: Cannabis Vegetative Growth - [[greg-green]]'s Cannabis Grow Bible
+title: Cannabis Vegetative Growth - greg-green's Cannabis Grow Bible
 created: 2026-04-26
 updated: 2026-04-25
 sources:
-  - raw/papers/[[greg-green-sinsemilla-and-pollination]]-the-cannabis-grow-bible.md
+  - raw/papers/greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md
 type: concept
 tags: [cannabis]
 ---

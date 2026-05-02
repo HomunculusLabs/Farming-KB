@@ -2,10 +2,10 @@
 title: Bamboo Structure Construction and Joinery
 tags:
   - permaculture
-  - [[natural-building]]
+  - natural-building
   - bamboo
   - construction
-  - [[appropriate-technology]]
+  - appropriate-technology
 date: 2026-04-25
 updated: 2026-04-25
 sources:

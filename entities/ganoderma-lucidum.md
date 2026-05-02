@@ -1,5 +1,5 @@
 ---
-title: [[stamets-reishi-ganoderma-lucidum-cultivation]]
+title: stamets-reishi-ganoderma-lucidum-cultivation
 type: species
 tags:
   - medicinal-mushroom

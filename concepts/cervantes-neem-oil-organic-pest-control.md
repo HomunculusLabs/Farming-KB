@@ -3,7 +3,7 @@ title: Neem Oil for Organic Cannabis Pest Control
 created: 2026-04-26
 tags:
   - neem-oil
-  - [[hamilton-organic-pest-control]]
+  - hamilton-organic-pest-control
   - insecticide
   - azadirachtin
   - marijuana-horticulture

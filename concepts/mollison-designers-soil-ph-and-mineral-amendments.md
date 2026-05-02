@@ -3,7 +3,7 @@ title: Soil pH and Mineral Amendments
 tags:
   - soil-health
   - mineral-amendments
-  - [[permaculture-design]]
+  - permaculture-design
   - soil-chemistry
   - fertility
 date: 2026-04-25

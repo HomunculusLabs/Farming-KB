@@ -1,6 +1,6 @@
 ---
 title: Mushroom Fruiting Chamber Design and Environmental Parameters
-tags: [[mycology]], fruiting, environment, cultivation, humidity]
+tags: mycology, fruiting, environment, cultivation, humidity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]

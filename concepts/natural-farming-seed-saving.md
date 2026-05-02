@@ -4,7 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [seeds, gardening, plants]
-sources: [raw/papers/[[nicole-faires]]-the-ultimate-guide-to-[[natural-farming]]-and.md]
+sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 ---
 
 # natural farming seed saving

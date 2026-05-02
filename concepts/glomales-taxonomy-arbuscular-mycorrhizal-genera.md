@@ -3,7 +3,7 @@ title: Glomales Taxonomy and AM Fungal Genera
 created: 2026-04-26
 tags:
   - glomales
-  - [[arbuscular-mycorrhizal-fungi]]
+  - arbuscular-mycorrhizal-fungi
   - fungal-taxonomy
   - symbiosis
   - zygomycota

@@ -1,5 +1,5 @@
 ---
-title: "Growing Cucurbits: Squash, Cucumber, Melon - [[steve-solomon]]"
+title: "Growing Cucurbits: Squash, Cucumber, Melon - steve-solomon"
 created: 2026-04-26
 tags:
   - gardening

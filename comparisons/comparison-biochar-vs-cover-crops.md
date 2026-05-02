@@ -1,3 +1,12 @@
+---
+title: "Comparison Biochar Vs Cover Crops"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [amendments, soil-science]
+sources: []
+---
+
      1|---
      2|title: "[[biochar]] vs [[cover-crops]]"
      3|tags: [comparison, soil-amendments, soil-health, regenerative-agriculture]

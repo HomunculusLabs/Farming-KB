@@ -1,12 +1,12 @@
 ---
-title: "[[fungal-succession]] on Wood Substrates"
+title: "fungal-succession on Wood Substrates"
 created: 2026-04-26
 tags:
   - mycology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - wood-decomposition
   - succession
-  - [[fungal-biodiversity]]
+  - fungal-biodiversity
 date: 2026-04-25
 updated: 2026-04-25
 sources:

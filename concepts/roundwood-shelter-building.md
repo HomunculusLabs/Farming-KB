@@ -3,8 +3,8 @@ title: Roundwood Shelter Building
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[permaculture]], building, [[natural-building]], roundwood, timber, construction, [[homesteading]], shelter, techniques, design]
-sources: [raw/papers/[[sepp-holzer]]-practical-guide-to-small-scale-integrative.md]
+tags: permaculture, building, natural-building, roundwood, timber, construction, homesteading, shelter, techniques, design]
+sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 ---
 
 # roundwood shelter building

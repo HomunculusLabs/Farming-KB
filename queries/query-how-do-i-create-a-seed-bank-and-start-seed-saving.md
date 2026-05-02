@@ -2,10 +2,10 @@
 title: "How Do I Create a Seed Bank and Start Seed Saving?"
 tags:
   - seed-saving
-  - [[permaculture]]
+  - permaculture
   - herbalism
   - self-sufficiency
-  - [[homesteading]]
+  - homesteading
 date: 2026-04-28
 updated: 2026-04-28
 sources: []

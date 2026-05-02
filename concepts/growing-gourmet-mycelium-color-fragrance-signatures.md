@@ -3,7 +3,7 @@ title: Mycelium Color and Fragrance Signatures
 created: 2026-04-26
 tags:
   - mycology
-  - [[mushroom-identification]]
+  - mushroom-identification
   - strain-evaluation
   - culture-maintenance
   - laboratory-skills

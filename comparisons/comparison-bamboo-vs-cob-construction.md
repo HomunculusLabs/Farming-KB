@@ -1,6 +1,6 @@
 ---
 title: "Bamboo vs Cob Construction"
-tags: [[natural-building]], bamboo, cob, [[permaculture]], sustainable-housing]
+tags: natural-building, bamboo, cob, permaculture, sustainable-housing]
 date: 2026-04-25
 updated: 2026-04-25
 sources: []

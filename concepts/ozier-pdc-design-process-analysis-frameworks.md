@@ -1,7 +1,7 @@
 ---
 title: Permaculture Design Process and Analysis Frameworks
 tags:
-  - [[permaculture-design]]
+  - permaculture-design
   - site-analysis
   - design-methodology
   - mapping

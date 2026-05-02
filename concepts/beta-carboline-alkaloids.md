@@ -1,3 +1,12 @@
+---
+title: "Beta Carboline Alkaloids"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [pharmacology, psychedelics]
+sources: []
+---
+
      1|---
      2|title: Beta-Carboline Alkaloids
      3|tags: [pharmacology, beta-carbolines, mao-inharmala-alkaloids-alkaloids]

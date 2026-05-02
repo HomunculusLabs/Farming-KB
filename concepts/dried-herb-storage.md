@@ -3,7 +3,7 @@ title: dried herb storage
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [drying, food, [[homesteading]], homestead-crafts, preservation, storage, preparation, plants]
+tags: [drying, food, homesteading, homestead-crafts, preservation, storage, preparation, plants]
 sources: []
 ---
 ## Why Dry Herbs

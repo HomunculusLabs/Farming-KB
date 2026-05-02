@@ -2,7 +2,7 @@
 title: Companion Planting Techniques
 tags:
   - organic-gardening
-  - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
+  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
   - pest-control
   - biodiversity
   - planting-strategies

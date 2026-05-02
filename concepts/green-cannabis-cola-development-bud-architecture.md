@@ -6,7 +6,7 @@ tags:
   - cola
   - bud-structure
   - canopy-management
-  - [[greg-green]]
+  - greg-green
 date: 2026-04-25
 updated: 2026-04-25
 sources:

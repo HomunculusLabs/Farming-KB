@@ -3,7 +3,7 @@ title: "Precipitation Types and Their Effects on Permaculture Design"
 created: 2026-04-26
 tags:
   - climatology
-  - [[permaculture-design]]
+  - permaculture-design
   - water-harvesting
   - microclimate
   - rainfall

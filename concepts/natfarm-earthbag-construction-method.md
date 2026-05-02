@@ -1,6 +1,6 @@
 ---
 title: Earthbag Construction for Sustainable Homes
-tags: [earthbag, [[natural-building]], sustainable-housing, [[permaculture]], low-cost]
+tags: [earthbag, natural-building, sustainable-housing, permaculture, low-cost]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]

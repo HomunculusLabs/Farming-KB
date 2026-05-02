@@ -1,7 +1,7 @@
 ---
 title: Flood-Outs and Claypan Rehabilitation in Drylands
 created: 2026-04-26
-tags: [permaculture, dryland, rehabilitation, claypan, [[water-management]]]
+tags: [permaculture, dryland, rehabilitation, claypan, water-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

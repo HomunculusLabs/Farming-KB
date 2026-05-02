@@ -1,3 +1,12 @@
+---
+title: "Psilocybin Field Identification Checklist Ghouled"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [mycology, psychedelics]
+sources: []
+---
+
      1|---
      2|title: Psilocybin Mushroom Field Identification Checklist
      3|tags: [mycology, psilocybin, identification, field-guide, foraging]

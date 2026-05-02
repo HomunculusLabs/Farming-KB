@@ -1,6 +1,6 @@
 ---
 title: Mushroom Hygiene and Contamination
-tags: [[mycology]], [[mushroom-cultivation]], contamination, sterilization, hygiene]
+tags: mycology, mushroom-cultivation, contamination, sterilization, hygiene]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]

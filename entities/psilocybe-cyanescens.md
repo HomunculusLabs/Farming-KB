@@ -1,5 +1,5 @@
 ---
-title: [[stamets-psi-psilocybe-cyanescens-species-guide]]
+title: stamets-psi-psilocybe-cyanescens-species-guide
 type: species
 tags:
   - psilocybin-mushroom

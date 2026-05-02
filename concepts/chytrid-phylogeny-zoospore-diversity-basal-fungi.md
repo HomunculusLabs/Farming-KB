@@ -5,7 +5,7 @@ tags:
   - chytridiomycota
   - phylogeny
   - zoospores
-  - [[fungal-evolution]]
+  - fungal-evolution
   - taxonomy
 date: 2026-04-25
 updated: 2026-04-25

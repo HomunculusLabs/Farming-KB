@@ -2,9 +2,9 @@
 title: Wind Generator Design - Small Scale
 tags:
   - wind-energy
-  - [[appropriate-technology]]
+  - appropriate-technology
   - renewable-energy
-  - [[permaculture-design]]
+  - permaculture-design
   - off-grid-systems
 date: 2026-04-25
 updated: 2026-04-25

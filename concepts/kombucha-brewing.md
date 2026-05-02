@@ -112,6 +112,8 @@ The second ferment (2F) is where kombucha becomes fizzy and flavored.
 
 ## See Also
 
+- [[query-how-to-brew-kombucha-at-home-step-by-step]]
+
 - [[kefir-making]] — another cultured beverage using grains
 - [[vinegar-making]] — related acetic acid fermentation process
 - [[pickle-making]] — vegetable fermentation using similar [[lactic-acid-bacteria]]

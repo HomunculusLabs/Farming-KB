@@ -3,7 +3,7 @@ title: "Mushroom Classroom Education Demonstrations"
 tags:
   - mushroom-education
   - teaching-resources
-  - [[fungal-ecology]]
+  - fungal-ecology
   - mushroom-cultivation
   - science-education
 date: 2026-04-25

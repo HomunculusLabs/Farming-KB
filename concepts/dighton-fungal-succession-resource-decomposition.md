@@ -5,7 +5,7 @@ tags:
   - mycology
   - succession
   - decomposition
-  - [[fungal-ecology]]
+  - fungal-ecology
   - community-ecology
 date: 2026-04-25
 updated: 2026-04-25

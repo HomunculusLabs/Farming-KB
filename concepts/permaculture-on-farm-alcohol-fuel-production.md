@@ -6,7 +6,7 @@ type: concept
 tags:
   - permaculture
   - agriculture
-  - [[homesteading]]
+  - homesteading
   - design
 sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md

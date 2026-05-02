@@ -1,6 +1,6 @@
 ---
 title: How Do I Make Herbal Tinctures, Salves, and Extracts at Home?
-tags: [herbalism, medicine-making, herbal-preparations, home-remedies, [[permaculture]]]
+tags: [herbalism, medicine-making, herbal-preparations, home-remedies, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []

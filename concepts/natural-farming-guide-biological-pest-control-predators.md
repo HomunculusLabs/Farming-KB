@@ -4,8 +4,8 @@ tags:
   - pest-management
   - biological-control
   - permaculture
-  - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-  - [[integrated-pest-management]]
+  - hamilton-geoffhamilton-nick-organic-gardening-companion-planting
+  - integrated-pest-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

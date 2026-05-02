@@ -3,7 +3,7 @@ title: jadam pest control recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
-tags: [[natural-farming]], pest-control, agriculture, recipes]
+tags: natural-farming, pest-control, agriculture, recipes]
 sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 ---
 

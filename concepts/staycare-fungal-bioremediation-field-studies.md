@@ -3,7 +3,7 @@ title: Fungal Bioremediation Field Studies and Pilot Trials
 tags:
   - bioremediation
   - field-applications
-  - [[fungal-ecology]]
+  - fungal-ecology
   - soil-remediation
   - environmental-engineering
 date: 2026-04-25

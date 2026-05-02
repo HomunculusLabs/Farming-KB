@@ -1,12 +1,12 @@
 ---
-title: "[[amanita-muscaria]] Properties and Pharmacology in Allegro's Framework"
+title: "amanita-muscaria Properties and Pharmacology in Allegro's Framework"
 created: 2026-04-26
 updated: "2026-04-23"
 sources:
   - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
   - "allegro-j-the-sacred-mushroomcross.md"
 type: concept
-tags: [[amanita-muscaria]], pharmacology]
+tags: amanita-muscaria, pharmacology]
 ---
 
 # Amanita Muscaria Properties and Pharmacology in Allegro's Framework

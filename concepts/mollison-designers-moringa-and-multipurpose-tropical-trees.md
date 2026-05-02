@@ -3,7 +3,7 @@ title: Moringa and Multipurpose Tropical Trees
 created: 2026-04-26
 tags:
   - permaculture
-  - [[moringa]]
+  - moringa
   - tropical-trees
   - multi-purpose-plants
   - food-forestry

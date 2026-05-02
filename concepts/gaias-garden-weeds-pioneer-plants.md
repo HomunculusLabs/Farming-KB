@@ -1,7 +1,7 @@
 ---
 title: "Gaia's Garden - Weeds and Pioneer Plants in Ecological Succession"
 created: 2026-04-26
-tags: [[permaculture]], weeds, succession, ecology, soil-building]
+tags: permaculture, weeds, succession, ecology, soil-building]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

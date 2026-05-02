@@ -1,3 +1,12 @@
+---
+title: "Query What Is Mycelium And How Does It Function In Nature"
+created: 2026-05-02
+updated: 2026-05-02
+type: query
+tags: [fungal-ecology, mycology]
+sources: []
+---
+
      1|---
      2|title: "What Is Mycelium and How Does It Function in Nature"
      3|tags: [query, mycology, fungal-biology, mycelium, ecology]

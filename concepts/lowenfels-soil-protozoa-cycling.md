@@ -3,7 +3,7 @@ title: Soil Protozoa and Nutrient Cycling
 tags:
   - protozoa
   - nutrient-cycling
-  - [[soil-food-web]]
+  - soil-food-web
   - nitrogen-mineralization
   - microfauna
 date: 2026-04-25

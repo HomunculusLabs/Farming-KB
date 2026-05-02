@@ -3,7 +3,7 @@ title: Chytrid Fungi and Early Fungal Evolution
 tags:
   - mycology
   - chytridiomycota
-  - [[fungal-evolution]]
+  - fungal-evolution
   - zoospores
   - amphibian-decline
 date: 2026-04-28

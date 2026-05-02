@@ -3,9 +3,9 @@ title: faires dairy processing cheese and butter
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [[homesteading]], self-sufficiency]
+tags: homesteading, self-sufficiency]
 sources:
-  - "raw/papers/[[nicole-faires]]-the-ultimate-guide-to-[[natural-farming]]-and-sustainable-l"
+  - "raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l"
 ---
 
 # faires dairy processing cheese and butter

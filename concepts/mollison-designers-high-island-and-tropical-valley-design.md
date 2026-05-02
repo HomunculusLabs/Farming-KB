@@ -5,7 +5,7 @@ tags:
   - tropical-design
   - island-permaculture
   - settlement-design
-  - [[water-management]]
+  - water-management
   - polyculture
 date: 2026-04-25
 updated: 2026-04-25

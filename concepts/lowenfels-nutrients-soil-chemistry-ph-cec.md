@@ -3,7 +3,7 @@ title: "Soil Chemistry: pH, CEC, and Base Saturation"
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Jeff Lowenfels, Teaming with Nutrients"
-wikilinks: "[[lowenfels-nutrients-nitrogen-cycle]] [[lowenfels-nutrients-phosphorus-mycorrhizae]] [[lowenfels-nutrients-potassium-calcium-magnesium]] [[lowenfels-nutrients-micronutrients]] [[lowenfels-nutrients-foliar-feeding-sap-analysis]]"
+wikilinks: "lowenfels-nutrients-nitrogen-cycle lowenfels-nutrients-phosphorus-mycorrhizae lowenfels-nutrients-potassium-calcium-magnesium lowenfels-nutrients-micronutrients lowenfels-nutrients-foliar-feeding-sap-analysis"
 type: concept
 tags: [chemistry, nutrients, soil]
 ---

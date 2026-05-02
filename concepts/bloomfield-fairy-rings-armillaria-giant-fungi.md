@@ -1,7 +1,7 @@
 ---
 title: Fairy Rings and Giant Armillaria Mycelia
 tags: [fairy-ring, armillaria, mycelium, fungal-colony, giant-organism,
-      hyphal-growth, [[fungal-ecology]], basidiomycete]
+      hyphal-growth, fungal-ecology, basidiomycete]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

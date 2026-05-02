@@ -1,3 +1,12 @@
+---
+title: "Comparison Amf Vs Ericoid Mycorrhiza"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [fungal-ecology, mycology, symbiosis]
+sources: []
+---
+
      1|---
      2|title: "[[arbuscular-mycorrhizal-fungi]] vs [[ericoid-mycorrhiza]]"
      3|tags:

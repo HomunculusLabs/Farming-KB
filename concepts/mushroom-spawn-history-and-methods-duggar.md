@@ -5,7 +5,7 @@ updated: 2026-04-23
 type: concept
 tags:
   - mushroom-cultivation
-  - [[spawn-production]]
+  - spawn-production
   - history
   - mycology
 sources:

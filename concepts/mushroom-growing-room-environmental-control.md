@@ -1,3 +1,12 @@
+---
+title: "Mushroom Growing Room Environmental Control"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [mushroom-cultivation, mycology]
+sources: []
+---
+
      1|---
      2|title: Mushroom Growing Room Environmental Control System
      3|created: 2026-04-26

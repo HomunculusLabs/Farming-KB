@@ -3,7 +3,7 @@ title: Cannabis for Arthritis (Blesching, Cannabis Health Index)
 created: 2026-04-26
 updated: 2026-04-25
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[cannabis-autoimmune-conditions-detailed]] [[cannabis-chronic-pain-management]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-autoimmune-conditions-detailed cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
 ---

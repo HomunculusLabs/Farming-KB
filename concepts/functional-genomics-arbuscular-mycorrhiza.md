@@ -1,5 +1,5 @@
 ---
-title: Functional Genomics of Arbuscular [[mycorrhizal-symbiosis]]
+title: Functional Genomics of Arbuscular mycorrhizal-symbiosis
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

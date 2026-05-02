@@ -2,8 +2,8 @@
 title: Solar Water Heating Systems
 tags:
   - solar-energy
-  - [[appropriate-technology]]
-  - [[permaculture-design]]
+  - appropriate-technology
+  - permaculture-design
   - renewable-energy
   - water-heating
 date: 2026-04-25

@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture ([[youngsang-cho]], 2016)
+  - JADAM Organic Farming: The Way to Ultra-Low-Cost Agriculture (youngsang-cho, 2016)
 type: concept
 tags: [jadam, plant-growth]
 ---

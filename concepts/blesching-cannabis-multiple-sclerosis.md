@@ -3,7 +3,7 @@ title: Cannabis for Multiple Sclerosis Spasticity
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
-wikilinks: "[[blesching-endocannabinoid-system-overview]] [[blesching-cannabinoid-pharmacology]] [[cannabis-chronic-pain-management]] [[blesching-cannabis-neurodegenerative-diseases]]"
+wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-chronic-pain-management blesching-cannabis-neurodegenerative-diseases"
 type: concept
 tags: [cannabis]
 ---

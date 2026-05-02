@@ -3,7 +3,7 @@ title: bee product medicinal uses
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], medicine, health, animal-husbandry, nutrition]
+tags: homesteading, medicine, health, animal-husbandry, nutrition]
 sources: []
 ---
 

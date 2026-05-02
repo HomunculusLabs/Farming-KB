@@ -1,8 +1,8 @@
 ---
 title: Earth Building - Cob, Adobe, Rammed Earth
 tags:
-  - [[natural-building]]
-  - [[permaculture-design]]
+  - natural-building
+  - permaculture-design
   - sustainable-architecture
   - earthen-construction
   - low-cost-housing

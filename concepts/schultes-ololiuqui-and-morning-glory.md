@@ -1,7 +1,7 @@
 ---
 title: "Ololiuqui and Morning Glory Seeds"
 tags:
-  - [[ololiuqui]]
+  - ololiuqui
   - morning-glory
   - lysergic-acid
   - ethnobotany

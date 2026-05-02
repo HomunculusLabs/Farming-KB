@@ -2,10 +2,10 @@
 title: "Homemade Pest and Disease Sprays (Cervantes)"
 tags:
   - cannabis
-  - [[hamilton-organic-pest-control]]
+  - hamilton-organic-pest-control
   - diy-sprays
   - natural-pesticides
-  - [[integrated-pest-management]]
+  - integrated-pest-management
 date: 2026-04-25
 updated: 2026-04-25
 sources:

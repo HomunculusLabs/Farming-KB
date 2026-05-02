@@ -1,3 +1,12 @@
+---
+title: "Comparison Biochar Remediation Vs Phytoremediation"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [amendments, soil-science]
+sources: []
+---
+
      1|---
      2|title: "[[biochar-soil-remediation]] vs Phytoremediation"
      3|tags: [soil-remediation, biochar, phytoremediation, contamination, comparison]

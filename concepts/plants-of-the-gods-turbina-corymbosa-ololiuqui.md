@@ -1,7 +1,7 @@
 ---
 title: "Turbina corymbosa: The Ololiuqui Vine"
 tags:
-  - [[ololiuqui]]
+  - ololiuqui
   - morning-glory
   - lysergic-acid
   - convolvulaceae

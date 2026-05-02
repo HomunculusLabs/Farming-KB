@@ -1,3 +1,12 @@
+---
+title: "Query How Do Fungi Contribute To Carbon Sequestration"
+created: 2026-05-02
+updated: 2026-05-02
+type: query
+tags: [ecology, fungal-ecology, mycology, soil-science]
+sources: []
+---
+
      1|---
      2|title: "How Do Fungi Contribute to Carbon Sequestration"
      3|tags: [query, mycology, soil-science, carbon-sequestration, climate]

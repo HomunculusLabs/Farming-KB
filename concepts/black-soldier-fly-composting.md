@@ -1,5 +1,5 @@
 ---
-title: Black Soldier Fly [[composting]]
+title: Black Soldier Fly composting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

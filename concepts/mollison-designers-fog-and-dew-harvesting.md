@@ -4,7 +4,7 @@ created: 2026-04-26
 tags:
   - water-harvesting
   - microclimate
-  - [[permaculture-design]]
+  - permaculture-design
   - condensation
   - arid-strategies
 date: 2026-04-25

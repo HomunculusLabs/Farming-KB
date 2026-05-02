@@ -1,6 +1,6 @@
 ---
-title: Mushroom [[spawn-production]] and Grain Inoculation
-tags: [[mycology]], mushroom-cultivation, grain-spawn, microbiology,
+title: Mushroom spawn-production and Grain Inoculation
+tags: mycology, mushroom-cultivation, grain-spawn, microbiology,
       commercial-mushroom-growing]
 date: 2026-04-28
 updated: 2026-04-28

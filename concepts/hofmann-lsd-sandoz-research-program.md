@@ -3,7 +3,7 @@ title: The Sandoz LSD Research Program and Clinical Trials
 created: 2026-04-26
 updated: 2026-04-24
 sources: "Albert Hofmann, LSD - My Problem Child"
-wikilinks: "[[hofmann-lsd-discovery-bicycle-day]] [[hofmann-lsd-pharmacology-and-effects]] [[hofmann-lsd-psychiatric-research]] [[hofmann-lsd-mazatec-and-psilocybin]] [[hofmann-lsd-consciousness-and-philosophy]]"
+wikilinks: "hofmann-lsd-discovery-bicycle-day hofmann-lsd-pharmacology-and-effects hofmann-lsd-psychiatric-research hofmann-lsd-mazatec-and-psilocybin hofmann-lsd-consciousness-and-philosophy"
 type: concept
 tags: [lsd]
 ---

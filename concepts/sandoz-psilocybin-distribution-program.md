@@ -1,3 +1,12 @@
+---
+title: "Sandoz Psilocybin Distribution Program"
+created: 2026-05-02
+updated: 2026-05-02
+type: concept
+tags: [history, mycology, psychedelics]
+sources: []
+---
+
      1|---
      2|titlpsilocybinPsilocybin Distribution Program
      3|created: 2026-04-19

@@ -6,7 +6,7 @@ tags:
   - ecosystem-services
   - nutrient-cycling
   - soil-ecology
-  - [[fungal-ecology]]
+  - fungal-ecology
 date: 2026-04-25
 updated: 2026-04-25
 sources:

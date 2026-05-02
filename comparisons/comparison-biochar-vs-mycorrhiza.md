@@ -1,3 +1,12 @@
+---
+title: "Comparison Biochar Vs Mycorrhiza"
+created: 2026-05-02
+updated: 2026-05-02
+type: comparison
+tags: [amendments, fungal-ecology, mycology, soil-science, symbiosis]
+sources: []
+---
+
      1|---
      2|title: "[[biochar]] vs [[mycorrhiza]]"
      3|tags: [comparison, soil-biology, soil-amendments, carbon, mycology]

@@ -5,7 +5,7 @@ tags:
   - mushroom-festival
   - mycological-culture
   - foraging
-  - [[mushroom-identification]]
+  - mushroom-identification
   - telluride
 date: 2026-04-25
 updated: 2026-04-25

@@ -4,7 +4,7 @@ tags:
   - siderophores
   - iron-nutrition
   - mycorrhizae
-  - [[fungal-ecology]]
+  - fungal-ecology
   - symbiotic-fungi
 date: 2026-04-25
 updated: 2026-04-25

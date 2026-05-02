@@ -5,7 +5,7 @@ tags:
   - mycology
   - aquatic-ecology
   - marine-ecology
-  - [[fungal-ecology]]
+  - fungal-ecology
   - food-webs
 date: 2026-04-25
 updated: 2026-04-25

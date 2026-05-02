@@ -3,7 +3,7 @@ title: wine making from grapes
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [[homesteading]], fermentation, food, recipe, preparation, processing, preservation, fruit-tree]
+tags: homesteading, fermentation, food, recipe, preparation, processing, preservation, fruit-tree]
 sources: []
 ---
 

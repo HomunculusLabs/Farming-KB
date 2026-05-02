@@ -1,6 +1,6 @@
 ---
 title: "Veratryl Alcohol as Lignin Peroxidase Mediator"
-tags: [lignin-peroxidase, redox-mediator, [[white-rot-fungi]], enzyme-mechanism]
+tags: [lignin-peroxidase, redox-mediator, white-rot-fungi, enzyme-mechanism]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md]

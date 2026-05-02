@@ -1,5 +1,5 @@
 ---
-title: [[phase-ii-composting]] Biology and Microbial Husbandry
+title: phase-ii-composting Biology and Microbial Husbandry
 tags:
   - mushroom-cultivation
   - composting

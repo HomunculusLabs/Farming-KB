@@ -1,5 +1,5 @@
 ---
-title: Glyoxalylamide Intermediate in [[tryptamine]] Synthesis
+title: Glyoxalylamide Intermediate in tryptamine Synthesis
 tags:
   - psilocin synthesis 4 hydroxyindole to psilocin
   - indole-chemistry

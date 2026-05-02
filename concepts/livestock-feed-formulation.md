@@ -3,7 +3,7 @@ title: livestock feed formulation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, [[homesteading]], livestock, forage, nutrients, recipe]
+tags: [animal-husbandry, homesteading, livestock, forage, nutrients, recipe]
 sources: []
 ---
 

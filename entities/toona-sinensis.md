@@ -1,7 +1,7 @@
 ---
 title: Toona sinensis
 type: species
-tags: [[permaculture]], edible-leaves, timber, medicinal, chinese-cuisine]
+tags: permaculture, edible-leaves, timber, medicinal, chinese-cuisine]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]

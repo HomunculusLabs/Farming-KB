@@ -1,8 +1,8 @@
 ---
 title: Straw Bale Building Techniques
 tags:
-  - [[natural-building]]
-  - [[permaculture-design]]
+  - natural-building
+  - permaculture-design
   - sustainable-architecture
   - thermal-insulation
   - low-cost-housing

@@ -2,7 +2,7 @@
 title: "Charcoal Production and Biochar Soil Amendment"
 tags:
   - permaculture
-  - [[biochar]]
+  - biochar
   - soil-amendment
   - carbon-sequestration
   - traditional-knowledge

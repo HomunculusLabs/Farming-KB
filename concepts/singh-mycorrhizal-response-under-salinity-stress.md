@@ -2,7 +2,7 @@
 title: Mycorrhizal Response Under Salinity Stress
 tags:
   - salinity-stress
-  - [[mycorrhiza]]
+  - mycorrhiza
   - osmotic-adjustment
   - ion-homeostasis
   - antioxidant-defense

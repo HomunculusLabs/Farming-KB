@@ -5,7 +5,7 @@ tags:
   - lichenology
   - biomonitoring
   - air-quality
-  - [[fungal-ecology]]
+  - fungal-ecology
   - biodiversity-assessment
 date: 2026-04-25
 updated: 2026-04-25
