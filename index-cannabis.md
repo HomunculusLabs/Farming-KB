@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**928 pages**
+**929 pages**
 
 ## A
 
@@ -940,6 +940,7 @@
 - [[perlite-cannabis]]
 - [[ph-management-cannabis]]
 - [[phase-ii-composting]]
+- [[phase-ii-conjugation-reactions-drug-metabolism]]
 - [[photoperiod-cannabis]]
 - [[plants-of-the-gods-cannabis-ancient-cultures]]
 - [[powdery-mildew-cannabis]]

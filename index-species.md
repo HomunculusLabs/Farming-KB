@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1092 pages**
+**1103 pages**
 
 ## #
 
@@ -160,6 +160,7 @@
 - [[agaricus-bisporus]]
 - [[agaricus-bitorquis]]
 - [[agaricus-blazei]]
+- [[agaricus-brasiliensis]]
 - [[agaricus-brunnescens]]
 - [[agaricus-campestris]]
 - [[agaricus-subrufescens]]
@@ -190,6 +191,7 @@
 - [[alpha-n-o-tms-entity-tihkal]]
 - [[alternaria-alternata]]
 - [[amanita-bisporigera]]
+- [[amanita-caesarea]]
 - [[amanita-gemmata]]
 - [[amanita-muscaria]]
 - [[amanita-pantherina]]
@@ -241,6 +243,7 @@
 - [[banisteriopsis-caapi]]
 - [[batrachochytrium-dendrobatidis]]
 - [[beatrice-entity-pihkal]]
+- [[beauveria]]
 - [[beauveria-bassiana]]
 - [[ben-lemon]]
 - [[benjamin-duggar]]
@@ -312,6 +315,7 @@
 - [[cladosporium-herbarum]]
 - [[claude-naranjo]]
 - [[claviceps-purpurea]]
+- [[cleve-backster]]
 - [[clonostachys-rosea]]
 - [[coccidioides-immitis]]
 - [[coleus-blumei]]
@@ -549,6 +553,7 @@
 - [[hypholoma-popperianum]]
 - [[hypholoma-sublateritium]]
 - [[hypomyces-aurantius]]
+- [[hypomyces-lactifluorum]]
 - [[hypsizygus-marmoreus]]
 - [[hypsizygus-tessulatus]]
 - [[hypsizygus-ulmarius]]
@@ -625,6 +630,7 @@
 - [[laetiporus-entity]]
 - [[laetiporus-sulphureus]]
 - [[laetisaria-arvalis]]
+- [[laricifomes-officinalis]]
 - [[latua-pubiflora]]
 - [[lentinan]]
 - [[lentinula-edodes]]
@@ -646,6 +652,7 @@
 - [[lophophora-williamsii]]
 - [[loquat-entity]]
 - [[louis-lewin]]
+- [[lsd]]
 - [[lsd-d-lysergic-acid-diethylamide]]
 - [[lsd-entity-tihkal]]
 - [[lucuma-entity]]
@@ -722,6 +729,7 @@
 - [[meta-dob-entity]]
 - [[meta-dob-entity-pihkal]]
 - [[meta-dot-entity-pihkal]]
+- [[metarhizium]]
 - [[methyl-dma-entity-pihkal]]
 - [[methyl-dob-entity-pihkal]]
 - [[methyl-j-entity]]
@@ -731,6 +739,7 @@
 - [[methyl-mmda-2-entity-pihkal]]
 - [[michael-harner]]
 - [[mimosa-hostilis]]
+- [[mimosa-pudica]]
 - [[mipt-entity-tihkal]]
 - [[mitragyna-speciosa]]
 - [[mmda-2-entity-pihkal]]
@@ -829,6 +838,7 @@
 - [[penicillium-simplicissimum]]
 - [[persimmon-entity]]
 - [[peter-oei]]
+- [[phallus-impudicus-entity]]
 - [[phanerochaete-chrysosporium]]
 - [[phanerochaete-velutina]]
 - [[phellinus-ferreus]]
@@ -1048,6 +1058,7 @@
 - [[serpula-lacrymans]]
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
+- [[sophora-secundiflora-entity]]
 - [[sphaerobolus-stellatus]]
 - [[sphaerotheca-fuliginea]]
 - [[sporidesmium-sclerotivorum]]
@@ -1173,7 +1184,3 @@
 ## Y
 
 - [[youngsang-cho]]
-- [[agaricus-brasiliensis]]
-- [[hypomyces-lactifluorum]]
-- [[phallus-impudicus-entity]]
-- [[sophora-secundiflora-entity]]
