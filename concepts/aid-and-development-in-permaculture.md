@@ -65,7 +65,6 @@ A joint enterprise is a mutual legal agreement between a Third World (TW) group 
 
 "We should always tend towards minimising the spread of people and their works on the face of the land. When we replace agriculture with gardens, then we should close down, as a priority, the most distant or most damaging agricultures. Better still, we can make foresters of our farmers." — Bill Mollison
 
-
 ## Case Studies in Permaculture Aid
 
 Several documented projects demonstrate the principles of ethical permaculture aid in action. In East Africa, permaculture designers have worked with pastoralist communities to integrate food forests with traditional grazing patterns, increasing food security while maintaining cultural practices. These projects succeeded specifically because they began with extended observation periods — often a full year — before any design work commenced, ensuring that interventions matched local ecological and social realities.

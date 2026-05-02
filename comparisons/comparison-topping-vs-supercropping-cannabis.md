@@ -3,7 +3,8 @@ title: "Topping vs Supercropping for Cannabis"
 tags: [comparison, cannabis, plant-training, yield, cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 ---
 
 # Topping vs Supercropping for Cannabis

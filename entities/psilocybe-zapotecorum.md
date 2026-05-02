@@ -131,7 +131,7 @@ distinguish among these taxa.
 
 ## See Also
 
-- [[psilocybe-zapotecorum-entity]]
+- psilocybe zapotecorum
 - [[psilocybe-stuntzii-profile]]
 
 - [[psilocybe-hoogshagenii]]

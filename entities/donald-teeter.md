@@ -25,21 +25,11 @@ sources:
 
 Author of "Amanita Muscaria: Herb of Immortality" (revised 2007, copyright 2005), published through the Ambrosia Society. An independent researcher who spent over 35 years investigating the hypothesis that Amanita muscaria was the original sacramental plant of Indo-European religion.
 
-
-
-
-
-
 ## Research Background
 
 Teeter began his research at age 13 in 1969 when he discovered a passage about Soma in the Rig Veda while browsing an 1898 Encyclopedia Britannica. The Rig Veda quote (Book 8, Hymn LXVIII) describing Soma as a plant that "medicines the sick, the blind man sees, the cripple walks" struck him as parallel to Christ's miracles. This launched decades of part-time research across three areas: Indo-European linguistics and history, comparative religion, and Amanita muscaria natural science and experimentation.
 
 He was influenced by R. Gordon Wasson's "Soma: Divine Mushroom of Immortality" (1968), which he read in 1974 and found the most convincing Soma identification.
-
-
-
-
-
 
 ## Key Contributions
 
@@ -58,33 +48,18 @@ Reports anecdotal evidence of: cold sore/herpes remission (14+ years), arthritis
 ### The Grail Connection
 Proposed that the Holy Grail was literally a terra cotta vessel containing perpetually living Amanita muscaria mycelium, published separately as "Natural Magic: Recreating the Grail."
 
-
-
-
-
-
 ## The Ambrosia Society
 
 Educational, scientific, religious, and fraternal association dedicated to understanding the ancient Amanita sacrament. Based in Manor, Texas.
 
-
-
-
-
-
 ## Critical Assessment
 
 Teeter's work is considered highly speculative by mainstream scholars. Andy Letcher in "Shroom" (2006) challenges the broader pattern of "mushroom origin" theories that Teeter's work exemplifies. However, Teeter's practical experiments with Amanita preparation and his documentation of the resurrection phenomenon represent unique primary research not found in other sources.
-
-
-
-
-
 
 ## See Also
 
 - [[amanita-muscaria-guide]] for the comprehensive guide incorporating Teeter's findings
 - [[soma-hypothesis]] for the broader scholarly debate
 - [[entheogen-culture]] for context on entheogenic theories of religion
-- [[r-gordon-wasson]] for the original Soma hypothesis
+- [[gordon-wasson]] for the original Soma hypothesis
 - [[john-allegro]] for the Christian extension

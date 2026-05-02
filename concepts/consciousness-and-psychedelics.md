@@ -4,7 +4,10 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/field-guide-to-the-psilocybin-mushroom.md"
+  - "raw/papers/the-psilocybin-mushroom-image-guide.md"
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 # Consciousness and Psychedelics
 

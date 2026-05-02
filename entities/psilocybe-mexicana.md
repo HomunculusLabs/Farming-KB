@@ -23,7 +23,7 @@ gods" — and has been used in Mesoamerican spiritual and healing ceremonies for
 ## Taxonomic History
 
 The species was first described by the French mycologist Roger Heim in 1956, based on specimens collected during his
-expeditions to Mexico in collaboration with [[r-gordon-wasson]]. Heim's monographic treatment of the Mexican
+expeditions to Mexico in collaboration with [[gordon-wasson]]. Heim's monographic treatment of the Mexican
 *Psilocybe* species was foundational for the taxonomy of the genus. It was *P. mexicana* specimens that Wasson brought
 to Sandoz Laboratories, where Hofmann successfully isolated the active compounds. Hofmann named the newly discovered
 alkaloids after the species: psilocybin (from the genus name) and psilocin (the dephosphorylated active metabolite).
@@ -84,13 +84,13 @@ various trade names, particularly in the Netherlands where they occupy a legal g
 
 ## María Sabina and the Mazatec Tradition
 
-The cultural significance of *P. mexicana* is inseparable from the story of María Sabina (1888–1985), the Mazatec
+The cultural significance of *P. mexicana* is inseparable from the story of [[maria-sabina]] (1888–1985), the Mazatec
 curandera whose velada ceremonies became famous after Wasson's 1955 visit. Sabina used *P. mexicana* along with *P.
 caerulescens* and possibly other species in her healing rituals, which involved all-night ceremonies incorporating
 chanting, prayer, and the consumption of fresh mushrooms. The global attention that followed Wasson's *Life* magazine
 article brought thousands of visitors to the Mazatec region, which Sabina later described as a disruption of the sacred
 tradition. Her testimony highlights the complex ethical dimensions of the cross-cultural appropriation of indigenous
-psychedelic practices. Despite the controversies, the Mazatec mushroom tradition continues to be practiced, and *P.
+psychedelic practices. Despite the controversies, the [[mazatec-mushroom-tradition]] continues to be practiced, and *P.
 mexicana* remains central to the spiritual and healing practices of indigenous communities in Oaxaca.
 
 ## Ethnomycological Importance

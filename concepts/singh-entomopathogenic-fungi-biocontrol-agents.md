@@ -46,13 +46,13 @@ targeting coleopteran pests including scarab beetles. Both species produce
 characteristic cottony-white colonies and distinctive oval conidia.
 
 ### Lecanicillium and Other Genera
-Lecanicillium lecanii (formerly Verticillium lecanii) is effective
+Lecanicillium lecanii (formerly [[verticillium-lecanii]]) is effective
 against soft-bodied insects including aphids, whiteflies, and thrips, as
 well as some phytopathogenic fungi, making it a dual-purpose biocontrol
 agent. Isaria fumosorosea (formerly Paecilomyces fumosoroseus) targets
 whiteflies and thrips. Cordyceps (and its teleomorph connections to
 Beauveria and Isaria) includes species with highly specialized host ranges
-and complex fruiting body development.
+and complex [[fruiting-body-development]].
 
 ## Infection Process
 

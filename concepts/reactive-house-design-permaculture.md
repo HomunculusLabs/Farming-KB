@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
 # Reactive House Design in Permaculture

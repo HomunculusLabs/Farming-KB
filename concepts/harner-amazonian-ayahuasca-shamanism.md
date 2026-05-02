@@ -73,7 +73,7 @@ Among mestizo healers (*ayahuasqueros*) in Peruvian Amazon cities like Iquitos a
 - [[harner-cashinahua-banisteriopsis-usage]] - Cashinahua ayahuasca visions
 - [[harner-campa-ayahuasca-ceremony]] - Campa shamanism and priesthood
 - [[harner-yage-experience-themes]] - Cross-cultural common themes in yage experiences
-- [[harner-urban-ayahuasca-healing]] - Urban mestizo ayahuasca curing practices
+- [[urban-ayahuasca-iquitos-healing]] - Urban mestizo ayahuasca curing practices
 
 ## Geographical Distribution
 

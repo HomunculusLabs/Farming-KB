@@ -17,7 +17,7 @@ sources:
 
 Mescaline (3,4,5-trimetholophophora-williamsiia naturally oechinopsis-pachanoic phenethylamine and one of the oldest
 known psychoactive substances in human history. It is the primary psychoactive alkaloid fpsilocybinveral species of
-cactus, most notably *Lophophora williamsii* (peyote), *Echinopsis pachanoi* (San Pedro), and *Echinopsis peruviana*
+cactus, most notably *[[lophophora-williamsii]]* (peyote), *[[echinopsis-pachanoi]]* (San Pedro), and *Echinopsis peruviana*
 (Peruvian torch). Mescaline is one of the four classical psychedelics, alongside LSD, psilocybin, and DMT.
 
 ## Chemical Properties

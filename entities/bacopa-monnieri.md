@@ -132,4 +132,3 @@ The principal bioactive constituents are **triterpenoid saponin glycosides** col
 - [[nootropic-herbs-guide]] — other cognitive-enhancing herbs
 - [[adaptogenic-herbs-guide]] — herbs that support stress adaptation
 - [[liver-and-detoxification-herbs]] — related herbal medicine topics
-

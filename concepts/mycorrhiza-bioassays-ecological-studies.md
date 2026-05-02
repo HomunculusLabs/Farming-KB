@@ -63,7 +63,6 @@ Bioassays have important limitations. They typically assess only a subset of the
 
 Mycorrhiza bioassays are directly relevant to [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and [[arbuscular-mycorrhizal-inoculum-production-best-practices]]. Understanding the ecological function of native mycorrhizal communities helps inform decisions about when and how to supplement with commercial inoculants. Field bioassays can reveal whether native AM fungal populations are already providing adequate services, potentially saving the cost of unnecessary inoculant applications.
 
-
 ## Applications in Soil Health Assessment
 
 Bioassays have been instrumental in documenting the decline of mycorrhizal

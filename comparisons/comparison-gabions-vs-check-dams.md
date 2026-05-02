@@ -3,7 +3,8 @@ title: "Gabions vs Check Dams"
 tags: [comparison, earthworks, erosion-control, water-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Gabions vs Check Dams
 Gabions and check dams are both earthwork structures designed to slow water

@@ -3,7 +3,8 @@ title: "How Do I Identify and Fix Magnesium Deficiency in Cannabis?"
 tags: [query, cannabis, nutrients, deficiency, troubleshooting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How Do I Identify and Fix Magnesium Deficiency in Cannabis?

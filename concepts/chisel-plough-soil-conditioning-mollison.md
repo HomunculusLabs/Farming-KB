@@ -108,7 +108,7 @@ Any reduction in cultivation saves energy and soils, and wherever no-tillage sys
 - [[keyline-design-water-management]]
 - [[keyline-design]]
 - [[acid-and-alkaline-soil-management]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[urban-permaculture-nitrogen-fixing-green-manures]]
 - [[permaculture-designers-manual-water-quality]]
 - [[mollison-keyline-soil-conditioning-humid-water]]

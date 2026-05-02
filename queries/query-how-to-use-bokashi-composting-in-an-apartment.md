@@ -60,7 +60,6 @@ After the two-week fermentation period, the pre-compost does not look like finis
 
 In an apartment, you have several options for completing the process. Bury the fermented material in large outdoor planters (at least 12 inches deep), share it with a community garden, or transfer it to a vermicompost bin where worms will rapidly finish the decomposition process. The [[fermented-vegetables-guide|fermented vegetables guide]] explains how the fermented material inoculates soil with beneficial microbes that improve plant health and suppress disease.
 
-
 ## Bokashi vs. Traditional Composting
 
 Bokashi and traditional composting serve different needs and can actually complement each other. Bokashi processes food waste faster (2 weeks vs. 2 to 6 months), accepts all food types, works indoors without odor, and requires minimal space. However, it does not produce finished compost directly and requires a secondary step to complete the process.
@@ -78,7 +77,6 @@ This staggered approach means you always have a bucket available for daily food 
 A strong rotten smell indicates air has entered the bucket. Add extra bran, press the contents down firmly, and seal the lid. If the problem persists, the batch may need to be buried immediately rather than waiting for the full fermentation period.
 
 White mold on the surface is normal and indicates healthy fermentation. Black, blue, or green mold suggests contamination; remove the affected layer and add extra bran. Fruit flies around the lid mean the seal is not tight enough; check the gasket or add a weight on top of the contents.
-
 
 ## Using Bokashi Pre-Compost in Containers
 

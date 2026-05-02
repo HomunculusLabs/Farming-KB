@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-18
 type: concept
 tags: [cultivation, mycology]
-sources: []
+sources:
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
 # Lion's Mane Indoor Cultivation

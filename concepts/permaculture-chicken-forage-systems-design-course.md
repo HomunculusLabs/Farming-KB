@@ -13,13 +13,9 @@ sources:
 **Source:** Permaculture Design Course, Bill Mollison (1981, Pamphlet IX)
 **Updated:** 2026-04-18
 
-
-
 ## Overview
 
 No one in history has ever designed and implemented animal forage systems until permaculture. The system integrates chickens with tree crops, forage plants, and pest management in zone two.
-
-
 
 ## Key Forage Species
 
@@ -41,8 +37,6 @@ No one in history has ever designed and implemented animal forage systems until 
 - **Black locust:** 10,000 lb seed drop per acre minimum (also best fence post material)
 - **Black raspberry:** Excellent cover for brooding hens, grows at apple tree drip lines
 - **Canary Island tree lucerne:** Number one chicken seed forage in old Tasmania
-
-
 
 ## Flock Management
 
@@ -71,8 +65,6 @@ No one in history has ever designed and implemented animal forage systems until 
 - Plus 2,000–3,000 lb additional protein from forages, grasses, and insects
 - Keep 40 chickens year-round on half acre without grain purchase
 - Hang grain sheaves in straw yards; chickens do their own husking and threshing
-
-
 
 ## Related
 

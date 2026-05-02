@@ -60,7 +60,7 @@ Potency varies dramatically between species. The following conversion factors ad
 | Psilocybe azurescens | 0.25-0.40x | Extremely potent; 1g cubensis ≈ 0.3g azurescens |
 | Psilocybe cyanescens | 0.40-0.60x | Very potent; 2g cubensis ≈ 1g cyanescens |
 | Psilocybe bohemica/serbica | 0.50-0.70x | Potent European species |
-| Psilocybe semilanceata | 0.50-0.70x | Small but potent; potency varies by region and season |
+| [[psilocybe-semilanceata]] | 0.50-0.70x | Small but potent; potency varies by region and season |
 | Panaeolus cyanescens | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
 ### Moderate-Potency Species
 | Species | Potency Factor | Notes |

@@ -126,7 +126,7 @@ The biosynthetic gene cluster (PsiD, PsiH, PsiK, PsiM) is found across all psilo
 The entire pathway originates from the Shikimate pathway, present in plants, fungi, and bacteria but absent in animals:
 
 1. **Glycolysis** produces phosphoenolpyruvate (PEP)
-2. **Pentose phosphate pathway** produces erythrose 4-phosphate (E4P)
+2. **[[pentose-phosphate-pathway]]** produces erythrose 4-phosphate (E4P)
 3. These combine via DAHP synthase → 3-dehydroquinate synthase → 3-dehydroquinate dehydratase → shikimate 5-dehydrogenase → shikimate kinase → EPSP synthase → chorismate synthase → **chorismate**
 4. Chorismate → anthranilate → tryptophan (via anthranilate synthase, phosphoribosyl transferase, and tryptophan synthase)
 5. Tryptophan → tryptamine via **tryptophan decarboxylase** — this is the key regulated step

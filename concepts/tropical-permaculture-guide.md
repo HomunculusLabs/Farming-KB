@@ -141,4 +141,4 @@ Tropical housing should prioritize:
 ## Source
 
 Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 10: Humid Tropics
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]

@@ -77,7 +77,7 @@ CBD's excellent safety profile (no known lethal dose, well-tolerated even at hig
 ## Related Topics
 
 - [[cannabis-and-neurological-conditions]]
-- [[cannabis-and-alzheimers-disease]]
+- [[blesching-cannabis-alzheimers-disease]]
 - [[cannabis-endocannabinoid-system]]
 
 ## Source

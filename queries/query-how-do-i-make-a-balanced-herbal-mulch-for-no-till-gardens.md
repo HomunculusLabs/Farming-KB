@@ -3,7 +3,8 @@ title: "How Do I Make a Balanced Herbal Mulch for No-Till Gardens?"
 tags: [query, mulch, no-till, herbal-mulch, dynamic-accumulators, composting]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How Do I Make a Balanced Herbal Mulch for No-Till Gardens?
@@ -138,13 +139,3 @@ health and minimizes weed pressure.
   coverage
 - The [[dynamic-accumulator-chop-and-drop-mulching]] technique builds soil
   organic matter rapidly
-
-## Related
-
-- [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] Questions
-
-- [[query-how-to-start-a-no-till-garden-bed]]
-- [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
-- [[query-how-do-i-use-comfrey-in-the-garden]]
-- [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
-- [[query-how-to-build-healthy-garden-soil]]

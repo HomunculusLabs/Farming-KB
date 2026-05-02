@@ -40,7 +40,7 @@ sarcodon imbricatus produces large, fleshy basidiocarps with the following chara
 
 ## Ecology and Habitat
 
-sarcodon imbricatus is an obligate ectomycorrhizal fungi fungus that forms mutualistic associations with the roots of forest trees. Its primary habitat and host associations include:
+sarcodon imbricatus is an obligate [[ectomycorrhizal-fungi]] fungus that forms mutualistic associations with the roots of forest trees. Its primary habitat and host associations include:
 
 - Coniferous forests dominated by spruce (Picea spp.) and pine (Pinus spp.)
 - Mixed forests with both coniferous and deciduous trees

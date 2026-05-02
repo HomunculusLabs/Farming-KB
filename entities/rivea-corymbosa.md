@@ -124,5 +124,5 @@ The 1960 identification was particularly significant because it confirmed that M
 - [[lysergic-acid-amide]] — LSA, primary psychoactive compound
 - [[ipomoea-violacea]] — tlitliltzin, related Aztec entheogen
 - [[argyreia-nervosa]] — Hawaiian Baby Woodrose, higher LSA concentration
-- [[salvia-divinorum-entity]] — another Mazatec entheogen
+- [[salvia-divinorum]] — another Mazatec entheogen
 - [[psilocybe-cubensis]] — sacred mushrooms, co-administered in Mazatec rituals

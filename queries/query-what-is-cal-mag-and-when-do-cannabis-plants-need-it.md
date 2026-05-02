@@ -3,7 +3,8 @@ title: "What Is Cal-Mag and When Do Cannabis Plants Need It?"
 tags: [query, nutrients, calcium, magnesium, deficiency]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Is Cal-Mag and When Do Cannabis Plants Need It?

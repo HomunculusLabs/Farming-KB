@@ -3,7 +3,8 @@ title: "Composting Toilets vs Greywater Systems"
 tags: [comparison, waste-management, water-conservation, permaculture, sanitation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Composting Toilets vs Greywater Systems

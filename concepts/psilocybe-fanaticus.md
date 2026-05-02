@@ -15,9 +15,6 @@ Operating from the Pacific Northwest in the late 1990s and early 2000s,
 McPherson's work fundamentally changed the accessibility of [[mushroom-cultivation]]
 knowledge and supplies.
 
-
-
-
 ## Background and Business
 
 Robert McPherson began selling [[spore-syringe]]s in the mid-1990s through his
@@ -34,9 +31,6 @@ published on his website and eventually compiled into a small instructional
 booklet that was included with spore syringe orders. This combination of
 affordable supplies and free, reliable instructions made PF the entry point for
 an entire generation of cultivators.
-
-
-
 
 ## Development of PF Tek
 
@@ -57,9 +51,6 @@ filters, he created a method that could be executed by a complete novice with
 minimal equipment. The use of half-pint wide-mouth mason jars as all-in-one
 colonization and fruiting containers further simplified the process.
 
-
-
-
 ## Legal Troubles and Shutdown
 
 In 2003, McPherson was arrested and charged with conspiracy to manufacture a
@@ -73,9 +64,6 @@ prison. His website was seized and shut down by the DEA, and Psylocybe Fanaticus
 ceased operations. The case established a precedent that the provision of
 cultivation instructions alongside spore sales could constitute conspiracy to
 manufacture, even if the spores themselves are legal.
-
-
-
 
 ## Legacy
 

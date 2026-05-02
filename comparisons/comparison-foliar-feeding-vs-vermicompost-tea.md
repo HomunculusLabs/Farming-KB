@@ -3,7 +3,8 @@ title: "Foliar Feeding vs Vermicompost Tea"
 tags: [comparison, nutrients, soil-amendments, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # Foliar Feeding vs Vermicompost Tea
@@ -136,6 +137,6 @@ tissue testing.
 
 ## See Also
 - [[comparison-compost-tea-vs-biochar]]
-- [[comparison-foliar-feeding-vs-compost-tea]]
+- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[bacterial-vs-fungal-compost-teas]]
 - [[comparison-vermicomposting-vs-hot-composting]]

@@ -3,7 +3,8 @@ title: "Fish Aminos vs Vermicompost Tea"
 tags: [comparison, organic-fertilizer, liquid-fertilizer, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"
 ---
 
 # Fish Aminos vs Vermicompost Tea

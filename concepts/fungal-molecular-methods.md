@@ -91,4 +91,4 @@ The molecular ecology toolkit continues to expand with new technologies. Long-re
 - Lindahl, B. D., et al. (2013). Fungal community analysis by high-throughput sequencing.
 - Tedersoo, L., et al. (2014). Global diversity and geography of soil fungi.
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]

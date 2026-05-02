@@ -114,7 +114,7 @@ parameters for different climatic conditions and contamination scenarios.
 
 Mycofiltration is part of a broader toolkit of [[mycorestoration|mycorestoration]]
 practices that position fungi as keystone organisms for environmental healing.
-Combined with [[unknown-mycelium-mycoremediation|mycoremediation]] for chemical
+Combined with [[mycoremediation|mycoremediation]] for chemical
 cleanup and mycoforestry for long-term forest management, mycofiltration
 represents a paradigm shift in how we approach water quality — from
 mechanical and chemical treatment to biological filtration that simultaneously

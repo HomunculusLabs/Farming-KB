@@ -50,7 +50,6 @@ The [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] guide provid
 The [[turkey-tail-research-psk]] resource also covers preparation methods including teas, tinctures, and dual-extraction techniques for maximum bioactive compound recovery.
 When comparing turkey tail to other medicinal mushrooms, the [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]] resource provides a detailed comparison, while the [[turkey-tail-trametes-versicolor]] page discusses various preparations and recommended dosages.
 
-
 The discovery of PSK as a medicinal compound is considered a landmark in the field of medicinal mushroom research.
 Dr. Toshiko Tsubura and her colleagues in Japan first isolated PSK from the CM-101 strain of Trametes versicolor in the late 1960s.
 Since its approval in Japan in 1977, PSK has been prescribed to hundreds of thousands of cancer patients as part of standard cancer treatment protocols.

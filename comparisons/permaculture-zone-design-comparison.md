@@ -10,7 +10,6 @@ sources: []
 
 Permaculture zone design organizes a property into concentric areas based on frequency of human visitation and management intensity. Zone 0 is the home center, Zone 1 is the most intensively visited and managed area, and Zone 5 is wilderness. The scale of a site determines how many zones are practical and what each zone contains. This comparison examines four common scales — urban balcony, suburban backyard, rural homestead, and farm-scale — and how zone design adapts to each. For foundational principles, see [[permaculture-design-principles-beginners]]. Backyard-specific design is covered in [[backyard-food-forest-design]] and broader food forest principles in [[permaculture-food-forest-design-principles]].
 
-
 ## Scale Comparison Table
 
 | Dimension | Urban Balcony | Suburban Backyard (0.25-0.5 acre) | Rural Homestead (2-10 acres) | Farm-Scale (20-100+ acres) |
@@ -23,7 +22,6 @@ Permaculture zone design organizes a property into concentric areas based on fre
 | **Primary crops** | Annual vegetables, herbs, strawberries | Vegetables, berries, fruit trees, culinary herbs | Full orchard, vegetable gardens, grain, staples | Field crops, orchards, pasture, timber |
 | **Compost system** | Vermicompost bin | Hot compost, vermicompost, bokashi | Large-scale composting, animal manure integration | Windrow composting, grazing manure cycling |
 | **Food forest** | Potted dwarf fruit trees | Small food forest (5-15 trees) | Medium food forest (20-80 trees) | Large-scale agroforestry, silvopasture |
-
 
 ## Zone Breakdown by Scale
 
@@ -61,7 +59,6 @@ Zone 5: Conservation areas, wilderness reserves, wildlife habitat.
 
 Keyline design becomes the primary water management strategy at scale. Ponds and dams store water at the highest practical elevation for gravity-fed irrigation. Contour planting, holistic grazing management, and integrated crop-livestock systems drive soil building and production. Agroforestry systems integrate timber, nut, and fruit trees with pasture and annual crops.
 
-
 ## Production Goals by Scale
 
 | Scale | Caloric Self-Sufficiency | Income Potential | Time Commitment |
@@ -71,19 +68,13 @@ Keyline design becomes the primary water management strategy at scale. Ponds and
 | Rural Homestead | 40-80% (with staples) | $2,000-20,000/year | 30-50 hrs/week |
 | Farm-Scale | 100%+ (surplus for market) | $20,000-200,000+/year | Full-time+ |
 
-
-
 ## Verdict
 
-
 Permaculture zone design scales elegantly from a balcony to a farm — the principles remain constant while the elements within each zone expand. The most common mistake at any scale is trying to implement too many zones simultaneously. Start with Zone 0-1 (home and intensive garden), establish those systems well, then expand outward. Even a balcony can apply zone thinking: the most-visited pots get daily herbs and greens, while less-accessible corners hold longer-term perennials. The power of zone design is in matching management intensity to frequency of interaction, reducing wasted effort and maximizing yield per hour of human attention.
-
-
 
 ## Related
 
 - [[comparison-sepp-holzer-vs-permaculture-design]]
-
 
 - [[aquaculture-in-permaculture]]
 - [[gaias-garden-cover-crops-soil-building]]

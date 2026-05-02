@@ -3,7 +3,9 @@ title: "How to Set Up a Mushroom Grow Lab or Clean Room"
 tags: [query, mycology, cultivation, laboratory, sterile-technique]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 
 # How to Set Up a Mushroom Grow Lab or Clean Room

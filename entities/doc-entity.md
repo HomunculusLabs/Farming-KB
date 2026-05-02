@@ -11,7 +11,7 @@ sources:
 
 DOC (2,5-Dimethoxy-4-chloroamphetamine) is a potent, long-acting psychedelic amphetamine and a member of the DOX family.
 
-It is the 4-chloro substituted analogue of the classic 2,5-dimethoxyamphetamine series, documented as entry #64 in PiHKAL by Alexander Shulgin.
+It is the 4-chloro substituted analogue of the classic 2,5-dimethoxyamphetamine series, documented as entry #64 in PiHKAL by [[alexander-shulgin]].
 
 ## Chemical Identity
 
@@ -81,7 +81,7 @@ DOC has been studied in the context of structure-activity relationships within t
 
 dob-entity|DOB (4-bromo) and doi-entity|DOI (4-iodo) share nearly identical potency and duration with DOC.
 
-doet-entity|DOET (4-ethyl) is a separate compound with a different character, originally studied for its cognitive-enhancing properties at low doses.
+[[doet-entity]]|DOET (4-ethyl) is a separate compound with a different character, originally studied for its cognitive-enhancing properties at low doses.
 
 doef-entity|DOEF (4-2-fluoroethyl) extends the side chain and alters the pharmacological profile.
 

@@ -4,7 +4,8 @@ created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [mazatec]
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 # The [[mazatec-mushroom-tradition]] and Maria Sabina
@@ -103,7 +104,7 @@ dirty, commercialised shadow of its former self.
 
 ## Related
 
-- [[shroom-wasson-rediscovery]] -- Wasson and the rediscovery
+- [[wasson-rediscovery-of-psilocybin]] -- Wasson and the rediscovery
 - [[shroom-mesoamerican-civilization]] -- Ancient Mesoamerican mushroom
   use
 - [[shroom-counterculture]] -- Magic mushrooms in the 1960s

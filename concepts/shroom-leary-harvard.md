@@ -105,7 +105,7 @@ were shut down.
 
 ## Related
 
-- [[shroom-wasson-rediscovery]] -- Wasson's discovery
+- [[wasson-rediscovery-of-psilocybin]] -- Wasson's discovery
 - [[shroom-counterculture]] -- The 1960s counterculture
 - [[shroom-prohibition]] -- Prohibition history
 

@@ -3,7 +3,8 @@ title: "What Is the Difference Between Coco Coir and Peat Moss?"
 tags: [query, soil-media, gardening, growing-medium]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Is the Difference Between Coco Coir and Peat Moss?

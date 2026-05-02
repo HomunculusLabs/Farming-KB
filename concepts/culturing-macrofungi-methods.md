@@ -4,7 +4,9 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 
 # Culturing Macrofungi — Methods and Techniques

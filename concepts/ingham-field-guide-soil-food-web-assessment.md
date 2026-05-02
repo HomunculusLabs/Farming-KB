@@ -103,7 +103,7 @@ The foodweb assessment also reveals nutrient dynamics:
 - [[wood-wide-web]]
 
 - [[soil-food-web-assessment]]
-- [[soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-assessment-methods]]
 - [[soil-food-web]]
 - [[soil-food-web-structure]]
 - [[soil-food-web-nutrient-cycling]]

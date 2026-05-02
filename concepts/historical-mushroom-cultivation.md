@@ -62,7 +62,6 @@ The progression from 17th to 20th century cultivation followed a clear path:
 4. **Pure culture** (1930s): Sinden's development of grain spawn using pure cultures on sterilized grain
 5. **Modern era** (1970s-present): PF TEK, monotubs, agar isolation, flow hoods, and species diversification
 
-
 ## Asian Cultivation Traditions
 
 While European mushroom cultivation began with Agaricus in the 17th

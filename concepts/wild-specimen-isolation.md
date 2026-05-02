@@ -4,7 +4,9 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Wild Specimen Isolation

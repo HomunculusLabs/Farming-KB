@@ -122,7 +122,7 @@ native habitat.
 ## See Also
 
 - [[entheogenic-ceremony-preparation]] -- Cultural context of Salvia use
-- [[r-gordon-wasson]] -- Documentation of Mazatec ceremonies
+- [[gordon-wasson]] -- Documentation of Mazatec ceremonies
 - [[schultes-peyote-tracks-little-deer]] -- Ethnobotanical fieldwork in Mexico
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] -- The active diterpenoid compound
 - [[psychoactive-cacti-species-reference]] -- Broader survey of hallucinogenic flora

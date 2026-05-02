@@ -112,7 +112,7 @@ The ultimate goal is producing hybrid strains that breed true for all desired ch
 
 - [[root-cellaring-guide]]
 - [[cannabis-genetics-and-breeding]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-phenotype-and-genotype-guide]]
 - [[cannabis-backcrossing-breeding]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]

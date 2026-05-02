@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-Nitrogen-fixing trees are foundational elements in [[permaculture-food-forest-design-principles]] and [[permaculture-soil-rehabilitation]]. They supply nitrogen to the system through root-associated bacteria, provide fodder, timber, firewood, and habitat while improving soil conditions for companion plantings. See also permaculture nitrogen fixing trees guide and [[permaculture-designers-manual-nitrogen-fixing-trees]].
+Nitrogen-fixing trees are foundational elements in [[permaculture-food-forest-design-principles]] and [[permaculture-soil-rehabilitation]]. They supply nitrogen to the system through root-associated bacteria, provide fodder, timber, firewood, and habitat while improving soil conditions for companion plantings. See also permaculture nitrogen fixing trees guide and [[nitrogen-fixing-trees]].
 
 ## Leguminous Nitrogen Fixers
 

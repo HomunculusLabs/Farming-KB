@@ -67,7 +67,7 @@ Japan has a surprisingly diverse psychoactive mushroom flora given its temperate
 - **Psilocybe cubensis:** Reported from southern India (Kerala, Karnataka, Goa) growing on bovine dung during monsoon season (June-September).
 - **Panaeolus cyanescens:** Documented from tropical lowland areas.
 - **Psilocybe subtropicalis:** Reported from India; grows in subtropical forest environments.
-- Very little systematic mycological survey work has been done on psychoactive species in India. The rich tradition of Soma worship in Vedic texts has led some scholars (notably [[r-gordon-wasson]]) to speculate about possible mushroom use in ancient India, though this remains debated.
+- Very little systematic mycological survey work has been done on psychoactive species in India. The rich tradition of Soma worship in Vedic texts has led some scholars (notably [[gordon-wasson]]) to speculate about possible mushroom use in ancient India, though this remains debated.
 ### Nepal
 - **Psilocybe cubensis:** Reported from the Terai (lowland tropical region) and Kathmandu Valley during monsoon.
 - **Psilocybe nepalensis:** Species described from Nepal; grows in montane and subalpine zones.

@@ -126,7 +126,7 @@ metals. This sequential approach addresses a broader range of contaminant
 types than either method alone.
 
 ## See Also
-- [[comparison-phytoremediation-vs-mycoremediation]]
+- comparison phytoremediation vs mycoremediation detail
 - [[comparison-biochar-remediation-vs-phytoremediation]]
 - [[comparison-bioaugmentation-vs-biostimulation]]
 - [[comparison-in-situ-vs-ex-situ-bioremediation]]

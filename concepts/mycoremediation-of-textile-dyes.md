@@ -67,7 +67,6 @@ While not a white-rot fungus, A. niger produces effective biosorption capacity t
 - **Dye concentration:** Very high concentrations (>500 mg/L) can inhibit fungal growth and enzyme activity. Sequential or diluted treatment may be necessary for concentrated effluents
 - **Agitation:** Moderate shaking improves oxygen transfer and contact between mycelium and dissolved dye. Excessive agitation can damage mycelial structure
 
-
 ## Integration with Conventional Treatment
 
 Fungal treatment is most effective as part of a combined treatment train rather than a standalone solution:

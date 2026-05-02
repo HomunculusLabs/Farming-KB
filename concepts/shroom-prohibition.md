@@ -4,7 +4,10 @@ created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 
 # Magic Mushroom Prohibition and Scheduling History

@@ -8,7 +8,8 @@ tags:
   - ecological-agriculture
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Sepp Holzer Method vs Permaculture Design
 [[sepp-holzer-method]] and [[permaculture-design]] are deeply intertwined yet

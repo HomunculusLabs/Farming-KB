@@ -135,5 +135,5 @@ Berries pioneer for, and protect, seedling trees. Advancing forest edges often d
 - [[permaculture-designers-manual-mulch-systems]]
 - [[permaculture-designers-manual-swale-design-detailed]]
 - [[permaculture-designers-manual-plant-nursery]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-small-animals]]

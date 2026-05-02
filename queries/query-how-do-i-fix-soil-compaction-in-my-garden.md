@@ -64,7 +64,6 @@ Water management also plays a critical role; walking on wet soil causes far more
 For severely compacted soil, combine physical aeration with generous compost application, earthworm encouragement, and a shift to no-till management to prevent recurrence.
 Within one to two growing seasons, most compacted garden soils can be significantly improved using these combined methods, resulting in healthier plants and more productive gardens.
 
-
 Regular soil testing can help track improvements in soil structure over time as compaction is remediated through these methods.
 Pay attention to organic matter percentage, bulk density, and infiltration rate as key indicators of soil health improvement.
 Cover crops like crimson clover and winter rye provide living root systems that naturally break up compacted layers throughout the growing season.

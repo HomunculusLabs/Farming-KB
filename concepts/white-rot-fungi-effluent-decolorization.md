@@ -66,7 +66,6 @@ Pallerla and Chambers (1996, 1997) demonstrated that polyurethane-immobilized T.
 
 Most laboratory studies have been conducted at scales of 50-250 ml. Reports of large-scale bioreactors are rare; a 200-liter packed-bed reactor used by Schliephake and Lonergan (1996) represents one of the few exceptions. Key challenges for scale-up include maintaining sterility, ensuring adequate oxygen transfer, and managing contamination by faster-growing microorganisms. Mycelia can be stored at 4 degrees C for several months and retain full decolorization activity, which is valuable for industrial deployment where treatment may be needed on demand.
 
-
 ## Ligninolytic Enzyme Systems
 
 White-rot fungi produce three major classes of extracellular lignin-modifying enzymes that drive their bioremediation capabilities. Lignin peroxidase (LiP) oxidizes non-phenolic aromatic compounds with high redox potentials, enabling degradation of structurally complex dyes and pollutants. Manganese peroxidase (MnP) generates Mn(III) chelates that act as diffusible oxidants, extending the degradation zone beyond the fungal hyphae. Laccase (a multicopper oxidase) has broad substrate specificity and can oxidize phenolic compounds, aromatic amines, and polycyclic aromatic hydrocarbons. The synergistic action of these three enzyme systems gives white-rot fungi their remarkable ability to degrade the recalcitrant lignin polymer — and by extension, the structurally similar synthetic dyes found in industrial effluents.

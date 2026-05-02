@@ -3,7 +3,8 @@ title: "Organic vs Chemical Amendments"
 tags: [comparison, cannabis, nutrients, fertilizers, soil-amendments]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Organic vs Chemical Amendments
@@ -121,7 +122,7 @@ providing some of the immediacy of synthetic fertilizers while maintaining
 biological benefits.
 
 ## See Also
-- [[comparison-living-soil-vs-hydroponic-cannabis]]
+- [[comparison-living-soil-vs-hydroponic]]
 - [[comparison-biochar-vs-compost]]
-- [[comparison-foliar-feeding-vs-compost-tea]]
+- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[comparison-compost-tea-vs-biochar]]

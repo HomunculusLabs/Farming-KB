@@ -48,7 +48,7 @@ P. pulmonarius that they are difficult to separate macroscopically. The
 western collections on conifers usually fall into P. pulmonarius. A
 recently named species, P. populinus Hilber and Miller, has a marked
 preference for black cottonwood and aspen with buff-colored, non-lilac
-spore print and larger spores.
+[[spore-print]] and larger spores.
 
 P. florida Eger is considered conspecific with P. ostreatus because
 spores from each are cross-fertile and produce fertile fruitbodies. The
@@ -105,7 +105,7 @@ the internal organs. From an evolutionary viewpoint, it is remarkable
 that a saprophytic mushroom can become predatory to an animal in its
 quest for new sources of nitrogen. This may explain why nematodes have
 never been reported as a pathogen in [[cotter-oyster-mushroom-cultivation]],
-whereas their occurrence in Button mushroom cultivation is economically
+whereas their occurrence in Button [[mushroom-cultivation]] is economically
 devastating.
 
 ## Medicinal Properties

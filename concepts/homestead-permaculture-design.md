@@ -49,7 +49,6 @@ Soil is the foundation of homestead productivity. A permaculture homestead build
 - **Biochar** — produced from on-site wood waste and charged with compost tea
 - **Minimal tillage** — no-dig beds, broadforks instead of rototillers, permanent raised beds
 
-
 ## Energy and Shelter Integration
 
 A permaculture homestead design treats the house as an element within the system, not separate from it:

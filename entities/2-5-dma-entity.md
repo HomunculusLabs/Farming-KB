@@ -11,7 +11,7 @@ sources:
 
 2,5-DMA (2,5-Dimethoxyamphetamine; DMA) is an amphetamine derivative that serves as a critical precursor to several potent psychedelic compounds.
 
-It is documented as entry #54 in PiHKAL by Alexander Shulgin.
+It is documented as entry #54 in PiHKAL by [[alexander-shulgin]].
 
 ## Chemical Identity
 
@@ -47,7 +47,7 @@ Seized capsules containing approximately 200 mg of the hydrobromide salt suggest
 
 Its value in psychedelic chemistry lies almost entirely in its role as a precursor.
 
-The 2,5-dimethoxy substitution pattern activates the 4-position for electrophilic attack, making 2,5-DMA the ideal starting material for the synthesis of dob-entity|DOB, doi-entity|DOI, doc-entity|DOC, and don-entity|DON.
+The 2,5-dimethoxy substitution pattern activates the 4-position for electrophilic attack, making 2,5-DMA the ideal starting material for the synthesis of dob-entity|DOB, doi-entity|DOI, [[doc-entity]]|DOC, and don-entity|DON.
 
 Radio-halogenation of N-substituted homologues of 2,5-DMA with hypoiodite or hypofluorite has been used in the search for radio-labeled brain blood flow agents.
 

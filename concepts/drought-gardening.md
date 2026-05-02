@@ -71,7 +71,6 @@ Solomon notes that most gardeners grossly overwater:
 - Test any sprinkler with water gauges (tin cans) to determine its application rate
 - Use the "sparkle test" from John Jeavons: water with a fan nozzle until the bed surface sparkles; when the shine lasts 1-10 seconds, enough water has been applied
 
-
 ## Practical Watering Schedules
 
 Solomon recommends a practical watering schedule based on the moisture

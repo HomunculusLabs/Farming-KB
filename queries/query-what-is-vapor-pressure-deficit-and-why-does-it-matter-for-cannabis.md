@@ -3,7 +3,8 @@ title: "What Is Vapor Pressure Deficit and Why Does It Matter for Cannabis?"
 tags: [query, cannabis, vpd, humidity, environment, transpiration]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Is Vapor Pressure Deficit and Why Does It Matter for Cannabis?

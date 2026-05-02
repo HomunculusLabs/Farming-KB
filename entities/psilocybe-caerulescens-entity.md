@@ -92,7 +92,7 @@ The blue bruising reaction is caused by the oxidative coupling of psilocin deriv
 - [[psilocybe-wassoniorum]] — Rare species described from the Mazatec region; shares the bluing reaction and grassland habitat but has distinct microscopic features including smaller spores.
 - [[stamets-psi-psilocybe-azurescens-species-guide]] — Far more potent species from the Pacific Northwest US; grows on decaying wood and dune grasses rather than in soil. Much larger spores and a more robust habit.
 - [[psilocybe-bohemica]] — European species with a preference for woody substrates; can be ruled out in the Americas but is included here for comparative purposes given its similar potency profile.
-- [[psilocybe-serbica-entity]] — Another European wood-inhabiting species; included for completeness in differentiating section-level characteristics.
+- [[psilocybe-serbica]] — Another European wood-inhabiting species; included for completeness in differentiating section-level characteristics.
 
 ## Cultivation
 

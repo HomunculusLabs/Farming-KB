@@ -3,7 +3,8 @@ title: "How to Fix Sulfur Deficiency in Cannabis"
 tags: [query, cannabis, nutrients, deficiency, micronutrients]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Fix Sulfur Deficiency in Cannabis
@@ -124,7 +125,6 @@ imbalances. The
 [[cervantes-nutrient-solution-reservoir-management]] page covers hydroponic 
 nutrient
 management and reservoir maintenance.
-
 
 ## Key Points
 - Sulfur deficiency causes yellowing of new growth at the top of the plant, unlike nitrogen deficiency

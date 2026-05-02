@@ -3,7 +3,8 @@ title: "What Causes Cannabis Seedlings to Die and How to Save Them"
 tags: [query, cannabis, seedlings, troubleshooting, plant-care]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Causes Cannabis Seedlings to Die and How to Save Them

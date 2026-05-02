@@ -143,7 +143,7 @@ storage:
 ## See Also
 
 - [[knf-phosphoric-acid-deficiency-symptoms]]
-- [[knf-water-soluble-calcium-wsca]]
+- [[water-soluble-calcium-wca]]
 - [[knf-water-soluble-calcium-phosphate]]
 - [[knf-nutritive-cycle-theory]]
 - [[korean-natural-farming]]

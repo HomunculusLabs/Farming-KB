@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 Spawn is the living mycelial inoculum used to seed bulk substrates for mushroom
 cultivation. High-quality spawn is the single most important input determining
 cultivation success. Poor spawn leads to slow colonization, low yields, and
-frequent contamination failures. Spawn preparation involves expanding mycelium
+frequent contamination failures. [[spawn-preparation]] involves expanding mycelium
 from a pure culture onto a sterile nutritious medium, typically grain, under
 rigorously controlled conditions.
 
@@ -19,7 +19,7 @@ rigorously controlled conditions.
 
 All spawn production begins with a verified pure culture of the desired
 mushroom strain. Pure cultures are maintained on agar slants or plates, typically
-using malt extract agar or potato dextrose agar. Cultures are stored at 2 to 4
+using [[malt-extract-agar]] or potato dextrose agar. Cultures are stored at 2 to 4
 degrees Celsius, where growth slows dramatically and the culture can remain
 viable for 6 to 12 months. Periodic transfer to fresh media is necessary to
 maintain vigor. Strain selection is critical: commercial strains are bred for

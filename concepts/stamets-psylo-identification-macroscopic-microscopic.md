@@ -27,7 +27,7 @@ partially based on spore color.
 ### Spore Print Colors by Genus
 - **Psilocybe and Panaeolus**: Purplish brown to black (the psilocybin
   genera)
-- **amanita genus morphology**: Rusty brown (deadly poisonous)
+- **[[amanita-genus-morphology]]**: Rusty brown (deadly poisonous)
 - **Entoloma**: Pinkish brown
 - **Hebeloma and Inocybe**: Yellowish brown to clay brown to dull brown
 - **Amanita and Galerina**: Typically whitish
@@ -42,7 +42,7 @@ Perceiving the difference between a purple-brown spore print and a
 rusty-brown spore print can be a distinction with deadly potential. People
 who are color impaired should not make critical decisions about spore color.
 ## The psilocybin mushroom bluing reaction chemistry
-A feature common to many psilocybin mushrooms is the psilocybin bluing reaction.
+A feature common to many psilocybin mushrooms is the [[psilocybin-bluing-reaction]].
 Many Psilocybe and Panaeolus species will turn bluish or bluish green
 when bruised. The blue pigmentation results from the degradation of
 unstable psilocin to presently unknown compounds by enzymes within the

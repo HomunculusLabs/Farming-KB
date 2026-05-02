@@ -16,7 +16,7 @@ A comparative overview of two of the most historically significant natural psych
 | Family | Tryptamine | Phenethylamine |
 | Active form | Psilocin (4-OH-DMT) | Mescaline (3,4,5-TMA) |
 | Core structure | Indole-based | Phenyl ring-based |
-| Related compounds | DMT, 5-MeO-DMT | MDMA, 2C-B |
+| Related compounds | DMT, [[5-meo-dmt]] | MDMA, 2C-B |
 
 The fundamental chemical divide between these substances shapes their character in profound ways. Psilocybin is a prodrug that the body metabolizes into psilocin, a long-lasting tryptamine structurally related to DMT. This indole backbone is shared with serotonin, which underlies psilocybin's high affinity for 5-HT2A receptors and contributes to its emotionally introspective quality. The tryptamine structure tends to produce experiences that feel deeply internal and personally meaningful.
 

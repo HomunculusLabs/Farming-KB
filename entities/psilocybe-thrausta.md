@@ -17,18 +17,12 @@ sources:
 
 **Psilocybe thrausta** is a little-known [[psilocybin]]-containing mushroom species originally described from Southeast Asian collections. It is a rarely collected species with limited documentation in the mycological literature.
 
-
-
-
 ## Taxonomy
 
 - **Order:** Agaricales
 - **Family:** Hymenogastraceae
 - **Genus:** Psilocybe
 - **Etymology:** From Greek *thraustos* (fragile/fractile), referring to the delicate nature of the basidiocarp.
-
-
-
 
 ## Description
 
@@ -57,29 +51,17 @@ sources:
 - Wall thickness moderate, with a visible germ pore
 - Approximately 9–12 × 6–7.5 µm
 
-
-
-
 ## Distribution and Habitat
 
 P. thrausta has been documented from tropical and subtropical regions of Southeast Asia, including collections from Thailand, Malaysia, and surrounding areas. It fruits on decaying plant material, including grasses and herbaceous debris, often in disturbed or agricultural environments. The species appears to favor warm, humid conditions and is typically found during monsoon or rainy seasons.
-
-
-
 
 ## Chemistry
 
 Psilocybin and [[psilocin]] are present, consistent with the genus. The blue bruising reaction, while sometimes subtle, confirms the presence of these compounds. Quantitative data on alkaloid content is not available in published literature.
 
-
-
-
 ## Similar Species
 
 The small size and reddish-brown cap coloration could lead to confusion with numerous small brown mushrooms, including inactive species of Psathyrella, Galerina, and other Psilocybe species. Microscopic features, particularly spore size and cheilocystidia morphology, are essential for accurate identification. P. thrausta is differentiated by its fragile stature, specific spore dimensions, and its Southeast Asian distribution.
-
-
-
 
 ## Notes
 

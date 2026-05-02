@@ -3,7 +3,8 @@ title: "Permaculture Beekeeping vs Natural Beekeeping"
 tags: [comparison, beekeeping, permaculture, pollination, sustainable-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Permaculture Beekeeping vs Natural Beekeeping

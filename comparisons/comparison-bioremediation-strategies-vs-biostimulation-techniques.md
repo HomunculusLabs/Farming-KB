@@ -3,7 +3,8 @@ title: "Bioremediation Strategies vs Biostimulation Techniques"
 tags: [comparison, bioremediation, biostimulation, environmental-science]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
 # Bioremediation Strategies vs Biostimulation Techniques
@@ -120,4 +121,4 @@ These integrated strategies leverage the strengths of both broad-spectrum biorem
 Related comparison pages and strategy guides for further reading:
 
 - [[bioaugmentation-strategies]]
-- [[comparison-phytoremediation-vs-mycoremediation]]
+- [[comparison-phytoremediation-vs-mycoremediation-detail]]

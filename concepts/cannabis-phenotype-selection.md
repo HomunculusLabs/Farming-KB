@@ -126,7 +126,7 @@ entering future generations.
 ## See Also
 
 - [[oner-cannabis-breeding-fundamentals]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]
 - [[cannabis-strain-selection-guide]]

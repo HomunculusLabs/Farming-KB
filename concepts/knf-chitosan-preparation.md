@@ -42,7 +42,7 @@ systems where synthetic chemical pesticides are avoided.
 
 The first and most critical step is roasting the shells to remove organic
 residues and make the chitin accessible for extraction. The roasting process
-is similar to that used for making [[knf-water-soluble-calcium-wsca]] from eggshells, but it takes considerably longer for crab and
+is similar to that used for making [[water-soluble-calcium-wca]] from eggshells, but it takes considerably longer for crab and
 shrimp shells due to their thicker structure. The shells should be roasted
 until they become brittle and their color brightens noticeably from the
 original dark hue, similar to how eggshells whiten when properly roasted.

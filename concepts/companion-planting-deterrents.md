@@ -9,17 +9,9 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Companion Planting as Pest Deterrent
 
-
-
-
-
 ## Overview
 
 Companion planting is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests.
-
-
-
-
 
 ## Evidence Base
 
@@ -41,10 +33,6 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 **Garlic Under Roses / Savory Next to Beans (Greenfly Control):** The author tested these combinations without achieving success.
 
-
-
-
-
 ## Hoverflies — The Key Beneficial Insect
 
 Hoverflies are the most valuable pest predators in the garden. They exist in different species worldwide.
@@ -61,27 +49,15 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 - Nasturtiums (Tropaeolum)
 - Phacelia (Phacelia tanacetifolia)
 
-
-
-
-
 ## Encouraging Other Pest Predators
 
 - **Ladybugs, lacewings, parasitic wasps** (feed on aphids, caterpillars, and other soft-bodied pests): Encourage by providing a varied collection of plant life
 - **Visual camouflage:** Some pests are attracted to host plants by sight. Mixing ornamental plants and vegetables in borders can camouflage the host plants
 - **Weed-infested plots** suffer less pest damage than clean ones (but yields are lower due to competition for light, nutrients, and water)
 
-
-
-
-
 ## French Marigolds for Weed Suppression
 
 Beyond pest deterrence, French marigolds are reported to help suppress certain weeds, particularly couch grass. The mechanism may be related to root secretions, similar to their effect on eelworms.
-
-
-
-
 
 ## Related
 

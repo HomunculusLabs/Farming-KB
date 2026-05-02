@@ -3,7 +3,8 @@ title: "How to Start Beekeeping on a Homestead"
 tags: [query, beekeeping, homesteading, pollinators, livestock]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How to Start Beekeeping on a Homestead
@@ -52,7 +53,6 @@ Summer is the main nectar flow period in most climates. Add honey supers as need
 
 Fall preparation involves treating for varroa mites, ensuring adequate winter stores (roughly 60 to 80 pounds of honey per colony in cold climates), reducing the hive entrance to prevent mice, and providing wind protection. The [[beekeeping-seasonal-calendar|beekeeping seasonal calendar]] provides a detailed month-by-month breakdown of tasks for temperate climates.
 
-
 ## Getting Your First Bees
 
 There are several ways to acquire your first colony. The most common method for beginners is to purchase a package of bees consisting of a mated queen and 2 to 3 pounds of worker bees, typically available from commercial bee suppliers in spring.
@@ -73,13 +73,11 @@ The [[beekeeping-problems-and-solutions|beekeeping problems and solutions]] guid
 
 New beekeepers often lose their first colony or two as they learn the nuances of colony management. This is normal and should not be discouraging. Building knowledge through local beekeeping associations, mentorship programs, and hands-on experience is the best path to developing the skills needed for long-term success.
 
-
 ## Honey Harvest
 
 Most new beekeepers can expect to harvest honey in their second year, as first-year colonies need their stores to survive their first winter. In subsequent years, a strong colony can produce 30 to 60 pounds of surplus honey annually depending on your climate and available forage.
 
 Harvest honey when frames are at least 80 percent capped (sealed with wax), indicating the moisture content is low enough for long-term storage. Uncapped honey has too much moisture and will ferment. Extract honey using a manual or electric extractor, or harvest comb honey directly from [[top-bar-hive|top-bar frames]].
-
 
 ## Costs and Returns
 

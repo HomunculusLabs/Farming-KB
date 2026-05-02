@@ -76,7 +76,7 @@ forest management and restoration.
 ## See Also
 
 - [[mycorrhizal-diversity-assessment]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
 
 - [[fungal-kingdom-diversity]]

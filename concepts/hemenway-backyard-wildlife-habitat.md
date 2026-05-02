@@ -130,7 +130,7 @@ places. Every blossom-decked corner is a reservoir for helpful wildlife.
 
 - [[hemenway-insectary-plants-and-beneficial-insects]] for attracting
   beneficial insects
-- [[hemenway-forest-garden-layers]] for structural habitat design
+- [[forest-garden-layers]] for structural habitat design
 - [[hemenway-ecological-principles-niche-succession-biodiversity]] for the
   theory behind habitat design
 - [[hemenway-oak-tree-ecological-model]] for the gold standard of wildlife

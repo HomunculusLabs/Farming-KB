@@ -118,7 +118,7 @@ conditions.
 
 ## Related Questions
 - [[query-how-to-build-a-raised-bed-garden]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-to-build-healthy-garden-soil]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
 - [[query-what-is-biochar-and-should-i-use-it]]

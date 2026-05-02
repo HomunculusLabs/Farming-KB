@@ -121,7 +121,6 @@ The [[aeroponics-guide]] page contrasts the Kratky method with more complex
 hydroponic
 approaches for cannabis cultivation.
 
-
 ## Key Points
 - The Kratky method is a passive hydroponic technique requiring no pumps, airstones, or electricity beyond lighting
 - Plants develop a dual-zone root system with lower roots in nutrient solution and upper roots exposed to air

@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Lactinatural-farming
 
-**Lactic acid bacteria (LAB)** are a diverse group of Gram-positive, acid-tolerant, generally non-sporulating bacteria that produce lactic acid as the major metabolic end-product of carbohydrate fermentation. In Korean Natural Farming (KNF) and similar indigenous microorganism (IMO) systems, LAB are one of the core microbial inputs, prepared as a liquid culture called "LAB serum" and applied as a foliar spray, soil drench, and compost inoculant. Their roles in agricultural systems span plant disease suppression, nutrient cycling, odor control, and preservation of organic materials.
+**Lactic acid bacteria (LAB)** are a diverse group of Gram-positive, acid-tolerant, generally non-sporulating bacteria that produce lactic acid as the major metabolic end-product of carbohydrate fermentation. In [[korean-natural-farming]] (KNF) and similar indigenous microorganism (IMO) systems, LAB are one of the core microbial inputs, prepared as a liquid culture called "LAB serum" and applied as a foliar spray, soil drench, and compost inoculant. Their roles in agricultural systems span plant disease suppression, nutrient cycling, odor control, and preservation of organic materials.
 
 ## Classification
 
@@ -57,7 +57,7 @@ LAB contribute to plant health through multiple antimicrobial mechanisms:
 
 ### Nutrient Cycling
 
-* **Phosphate solubilization:** Organic acids produced by LAB solubilize rock phosphate and other insoluble phosphorus compounds, increasing phosphorus availability for plant uptake
+* **Phosphate solubilization:** Organic acids produced by LAB solubilize rock phosphate and other insoluble phosphorus compounds, increasing [[phosphorus-availability]] for plant uptake
 * **Mineral chelation:** LAB metabolites chelate micronutrients (iron, zinc, manganese) in plant-available forms
 * **Nitrogen cycling support:** By suppressing nitrifying bacteria through acidification, LAB can help retain ammonium nitrogen in soil, reducing leaching losses in acidic or tropical soils
 

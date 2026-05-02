@@ -15,7 +15,7 @@ sources:
 
 # [[stamets-psylo-psilocybe-cyanescens]]
 
-*Psilocybe cyanescens* — commonly known as the wavy cap or blue halos — is a potent psilocybin mushroom and one of
+*Psilocybe cyanescens* — commonly known as the wavy cap or blue halos — is a potent [[psilocybin-mushroom]] and one of
 the most widely distributed members of the *Psilocybe* genus outside of tropical regions. First described by Elsie Maud
 Wakefield in 1946 from specimens collected at Kew Gardens in London, it has since been found across much of the
 temperate Northern Hemisphere, largely as a result of its affinity for anthropogenic wood chip mulch landscapes.
@@ -64,7 +64,7 @@ urban areas, despite being originally native to a relatively small portion of we
 
 ## Chemistry
 
-*P. cyanescens* is among the more potent psilocybin mushrooms. Typical concentrations range from 0.5–1.0% psilocybin
+*P. cyanescens* is among the more potent [[psilocybin-mushrooms]]. Typical concentrations range from 0.5–1.0% psilocybin
 and 0.1–0.5% psilocin by dry weight, with some collections reported as high as 1.3% total alkaloids. [[baeocystin]]
 is present at approximately 0.05–0.3%. The species shows considerable variation in alkaloid content based on
 geographic origin, substrate composition, and age of the fruiting body. European collections from wood chip beds tend

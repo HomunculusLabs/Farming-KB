@@ -129,7 +129,7 @@ is lost and unavailable to future generations.
 - cannabis-backcrossing|Backcrossing
 - [[cannabis-genetic-stability]]
 - [[cannabis-true-breeding-ibl-strains]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-strain-selection-guide]]
 - [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-seed-banks-and-genetics]]

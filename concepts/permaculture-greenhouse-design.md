@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 ---
 
 # Permaculture Greenhouse Design

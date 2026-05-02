@@ -11,7 +11,7 @@ type: concept
 
 # Meadow Design and Plant Assemblies
 
-In Permaculture: A Designers' Manual, Mollison treats meadows not as
+In [[permaculture]]: A Designers' Manual, Mollison treats meadows not as
 simple grass monocultures but as complex, self-maintaining plant
 communities that include grasses, legumes, bulbs, herbaceous forbs,
 and woody browse species. A meadow is as much maintained by its
@@ -57,7 +57,7 @@ medicines, and insect habitat.
 
 ### Spike-Rooted Flatweeds
 
-Species such as dandelion, thistles generally, plantains, docks, and
+Species such as [[permaculture-dandelion]], thistles generally, plantains, docks, and
 chicory. These are all high-value browse species and some are used as
 salad plants and vegetables. They are features of mixed pastures,
 meadows, and grasslands, and provide deep-rooted nutrition cycling.

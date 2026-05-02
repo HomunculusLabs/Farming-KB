@@ -4,7 +4,10 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [cultivation, mycology]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Cultivation Facility Design
 

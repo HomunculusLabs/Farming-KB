@@ -11,7 +11,7 @@ sources: []
 Psychedelic-assisted therapy represents one of the most significant developments in mental health treatment in decades. After a decades-long research freeze, clinical trials are now demonstrating that substances like MDMA, psilocybin, and ketamine can produce rapid and enduring therapeutic effects for conditions that have been resistant to conventional treatments. This page covers the current state of clinical research across major psychedelic compounds and indications.
 ## MDMA-Assisted Therapy for PTSD
 ### MAPS Phase 3 Trials
-The Multidisciplinary Association for Psychedelic Studies (MAPS), operating through its public benefit corporation Lykos Therapeutics, has conducted the most advanced clinical trials of any psychedelic therapy:
+The [[maps]] (MAPS), operating through its public benefit corporation Lykos Therapeutics, has conducted the most advanced clinical trials of any psychedelic therapy:
 Study design:
 - Randomized, double-blind, placebo-controlled Phase 3 trials
 - Participants: Adults with moderate to severe PTSD

@@ -147,8 +147,3 @@ attracted significant pharmaceutical interest in recent decades:
 These pharmacological properties have driven interest in the sustainable
 
 ## See Also
-## Related
-
-- [[psychedelic-plants-chemical-guide]] — chemical profiles of related species
-- [[datura-metel]] — comparison with another psychoactive plant
-- [[sacred-mushroom-hypothesis]] — broader context of psychoactive plant use in antiquity

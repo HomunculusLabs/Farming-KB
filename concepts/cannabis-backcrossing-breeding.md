@@ -69,7 +69,7 @@ When the recurrent parent is not very true-breeding, the resulting backcross gen
 
 Another limitation is that the improved variety differs only slightly from the recurrent parent, which limits the genetic diversity introduced. Backcrossing is not suitable for creating entirely new varieties — it is best used for refining an already excellent line by adding one or two specific traits. In a market that increasingly values novel combinations of effects, flavors, and aromas, backcross-derived varieties may be seen as incremental improvements rather than exciting new offerings.
 
-For breeders seeking to develop entirely new combinations of traits rather than refine existing lines, [[cannabis-genetics-mendelian-breeding]] and conventional F1 hybrid approaches offer more genetic diversity at the cost of longer selection cycles.
+For breeders seeking to develop entirely new combinations of traits rather than refine existing lines, [[clarke-marijuana-botany-genetics-breeding]] and conventional F1 hybrid approaches offer more genetic diversity at the cost of longer selection cycles.
 
 The method also requires the breeder to maintain living copies of the recurrent parent throughout multiple generations, which can be challenging over long breeding programs. Clonal propagation of the recurrent parent is standard practice in cannabis breeding to ensure genetic consistency across all backcross generations. By maintaining the recurrent parent as a clone, the breeder eliminates genetic drift and ensures that every backcross generation is crossed to an identical genetic source. Mother plants kept under continuous vegetative lighting can provide cuttings for years, though genetic stability may decline in very old mother plants due to somatic mutation accumulation.
 
@@ -111,7 +111,7 @@ The distinction between a backcross line and a fully stabilized IBL is important
 
 - [[cannabis-breeding-basics]]
 - [[cannabis-genetics-and-breeding]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-true-breeding-ibl-strains]]
 - [[cannabis-seed-banks-and-genetics]]
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]

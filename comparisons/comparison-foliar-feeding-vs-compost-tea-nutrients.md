@@ -3,7 +3,8 @@ title: "Foliar Feeding vs Compost Tea"
 tags: [comparison, plant-nutrition, soil-food-web, compost-tea, foliar-feeding]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # Foliar Feeding vs Compost Tea

@@ -109,7 +109,7 @@ JADAM encourages farmers to grow their own herb materials around the farm. Jerus
 - [[jadam-jhs-herb-selection-guide]]
 - [[jadam-fermented-plant-juice-preparation]]
 - [[jadam-liquid-fertilizer]]
-- [[jadam-fertilizer-program]]
+- [[ultra-low-jadam-fertilizer-program]]
 - [[jadam-herbal-pest-control]]
 - [[jadam-natural-pest-control-methods]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

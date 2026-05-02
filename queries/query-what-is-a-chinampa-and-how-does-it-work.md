@@ -3,7 +3,8 @@ title: "What Is a Chinampa and How Does It Work"
 tags: [query, chinampa, permaculture, aquaculture, ancient-agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Is a Chinampa and How Does It Work

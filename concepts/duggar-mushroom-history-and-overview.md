@@ -37,7 +37,7 @@ When the spawn has developed sufficiently and the environmental conditions are f
 
 ## Early Historical Accounts
 
-One of the earliest detailed accounts of mushroom cultivation comes from the French botanist Tournefort, who in 1707 published a description of the methods then practiced in France. He noted that mushrooms were grown in the subterranean quarries around Paris, where the constant temperature and humidity provided ideal conditions. The cultivators of that era understood little of the biology involved, relying entirely on empirical methods passed down through generations of underground growers.
+One of the earliest detailed accounts of [[mushroom-cultivation]] comes from the French botanist Tournefort, who in 1707 published a description of the methods then practiced in France. He noted that mushrooms were grown in the subterranean quarries around Paris, where the constant temperature and humidity provided ideal conditions. The cultivators of that era understood little of the biology involved, relying entirely on empirical methods passed down through generations of underground growers.
 
 The Parisian cave culture system was remarkably productive. The abandoned limestone quarries extended for miles beneath the city and its surroundings, creating vast underground galleries. These spaces maintained a nearly constant temperature year-round, free from frost and excessive heat -- conditions perfectly suited to mushroom cultivation. The beds were prepared directly on the quarry floors, and the mushrooms were harvested by candlelight or lamplight.
 

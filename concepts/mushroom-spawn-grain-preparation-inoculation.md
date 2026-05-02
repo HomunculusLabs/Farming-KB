@@ -139,6 +139,6 @@ spawn to return to room temperature for 24 hours to reactivate growth.
 
 ## See Also
 
-- [[mushroom-substrate-preparation-sterilization]]]
+- [[mushroom-substrate-preparation-sterilization]]
 - [[mushroom-fruiting-chamber-designs]]-and-parameters]
-- [[mushroom-cultivation-contamination-prevention]]]
+- [[mushroom-cultivation-contamination-prevention]]

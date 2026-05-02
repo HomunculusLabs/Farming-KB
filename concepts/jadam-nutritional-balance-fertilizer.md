@@ -101,6 +101,6 @@ work.
 ## Related
 
 - [[jadam-liquid-fertilizer]] -- base JLF method
-- [[jadam-fertilizer-program]] -- detailed crop-specific programs
+- [[ultra-low-jadam-fertilizer-program]] -- detailed crop-specific programs
 - jadam-element-function-reference -- element functions and deficiency signs
 - [[soil-food-web-structure]] -- biology behind nutrient cycling

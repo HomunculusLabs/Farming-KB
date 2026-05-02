@@ -25,9 +25,9 @@ innoculation through fruiting and harvest.
 
 The PF Tek is one of the most widely used beginner-friendly mushroom
 cultivation techniques. Originally developed by Robert McPherson,
-the method uses simple materials to grow psilocybin mushrooms
+the method uses simple materials to grow [[psilocybin-mushrooms]]
 indoors. The photographs in the image guide document several key
-stages of this process as applied to Psilocybe cubensis cultivation.
+stages of this process as applied to [[psilocybe-cubensis-cultivation]].
 
 ## Substrate Preparation
 

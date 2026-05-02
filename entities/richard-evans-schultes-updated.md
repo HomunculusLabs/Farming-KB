@@ -23,17 +23,9 @@ sources:
 
 # Richard Evans Schultes
 
-
-
-
-
 ## Overview
 
 Richard Evans Schultes (1915-2001) was a Harvard ethnobotanist widely regarded as the father of modern ethnobotany. His 1976 book "Hallucinogenic Plants" (Golden Guide series, illustrated by Elmer W. Smith) was the first nontechnical guide to both the cultural significance and physiological effects of hallucinogens. He authored the definitive reference "The Botany and Chemistry of Hallucinogens" (1973, with [[albert-hofmann]]).
-
-
-
-
 
 ## Key Contributions
 
@@ -45,10 +37,6 @@ Richard Evans Schultes (1915-2001) was a Harvard ethnobotanist widely regarded a
 - Published extensively on the botanical and chemical distribution of hallucinogens (Annual Review of Plant Physiology, 1970)
 - Mentored [[dennis-mckenna]] and influenced [[terence-mckenna]]
 - Harvard professor; director of the Botanical Museum
-
-
-
-
 
 ## Golden Guide to Hallucinogenic Plants (1976)
 
@@ -62,10 +50,6 @@ The Golden Guide covers:
 
 The guide emphasizes that the New World has far more hallucinogenic species in active cultural use (90+) than the Old World (15-20), a disparity not explained by botanical differences but likely by cultural factors.
 
-
-
-
-
 ## Schultes's Framework
 
 Key principles from his work:
@@ -74,10 +58,6 @@ Key principles from his work:
 - The accomplishments of aboriginal Americans in using plant mixtures/admixtures have been extraordinary
 - Many hallucinogenic preparations call for subsidiary plants to alter, increase, or lengthen effects — a sophisticated pharmacological understanding
 
-
-
-
-
 ## See Also
 
 - [[hallucinogenic-plants-new-world]] — overview page derived from Schultes's Golden Guide
@@ -85,6 +65,6 @@ Key principles from his work:
 - [[hallucinogenic-plants-new-world]] — New World species profiles
 - [[hallucinogenic-plant-chemistry]] — chemical families from Schultes's framework
 - [[entheogen-culture]] — religious/spiritual context
-- [[r-gordon-wasson]] — collaborator in ethnomycological research
+- [[gordon-wasson]] — collaborator in ethnomycological research
 - [[albert-hofmann]] — co-author of definitive reference
 - [[michael-harner]] — hallucinogens and shamanism

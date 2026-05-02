@@ -106,7 +106,7 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 - Avoid with personal/family history of psychosis
 - Serotonin syndrome risk with SSRIs or other serotonergic drugs
 ### Psychological Safety
-- Set and setting are critical for safe experiences
+- [[set-and-setting]] are critical for safe experiences
 - Integration support recommended after intense experiences
 - Contraindicated for schizophrenia, bipolar, or psychotic disorders
 - "Bad trips" can occur — preparation and a trusted guide reduce risk

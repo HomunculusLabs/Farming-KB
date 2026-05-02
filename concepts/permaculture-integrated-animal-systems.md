@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: permaculture, design]
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # permaculture integrated animal systems
 In [[permaculture]], animals are not isolated in feedlots — they're integrated into the whole farm system. Each animal performs multiple functions: weed control, pest management, soil fertility, food production, and income. The goal is to design animal systems that work with natural behaviors rather than against them.

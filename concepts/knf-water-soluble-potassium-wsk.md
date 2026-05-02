@@ -143,6 +143,6 @@ storage of WS-K:
 
 - [[knf-potassium-deficiency-and-excess]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
-- [[knf-water-soluble-calcium-wsca]]
+- [[water-soluble-calcium-wca]]
 - [[korean-natural-farming]]
 - [[knf-nutritive-cycle-theory]]

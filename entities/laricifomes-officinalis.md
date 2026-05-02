@@ -148,8 +148,3 @@ The full complement of bioactive compounds is not yet fully characterized. Chemi
 ## Cultivation
 
 - Cultivation is extremely difficult and not commercially viable as of 2024
-- Major obstacles: extremely slow mycelial growth, requirement for specific host tree chemistry, inability to reliably induce fruiting in artificial settings
-- Some success with liquid culture fermentation for mycelial biomass, but compounds in cultured mycelium may differ from naturally grown fruiting bodies
-- Paul Stamets has worked on cultivation for over two decades with limited success
-- Wild harvesting puts additional pressure on already endangered populations; conservation organizations recommend against it
-- Listed among polypore candidates for future cultivation development in [[growing-gourmet-polypore-mushrooms-cultivation-overview]]

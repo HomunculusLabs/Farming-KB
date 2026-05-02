@@ -114,7 +114,7 @@ principles as wicking beds in a smaller format suitable for patios and balconies
 
 ## See Also
 
-- [[hugelkultur-guide]]
+- [[hemenway-hugelkultur-guide]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[square-foot-gardening]]
 - [[keyhole-beds]]

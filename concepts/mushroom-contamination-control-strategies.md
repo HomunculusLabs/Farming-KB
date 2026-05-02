@@ -4,7 +4,9 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 # Mushroom Contamination Control Strategies
 

@@ -91,7 +91,7 @@ The black spore print and mottled gills are key identification features. However
 
 - **Panaeolus foenisecii** (mower's mushroom) — Common in lawns, does not blue, lower potency or inactive
 - **Panaeolus acuminatus** — Does not bruise blue, found on dung
-- **Panaeolus sphinctrinus** — Similar appearance, generally considered inactive or very weakly active
+- **[[panaeolus-sphinctrinus]]** — Similar appearance, generally considered inactive or very weakly active
 
 The critical diagnostic feature is the blue bruising reaction. If a suspected *P. cyanescens* specimen does not blue prominently when handled, it should not be consumed.
 

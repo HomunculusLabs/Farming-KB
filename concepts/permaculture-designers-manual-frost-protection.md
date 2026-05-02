@@ -87,7 +87,7 @@ Permafrost (permanently frozen ground) occupies 47-50% of areas such as Canada, 
 ## See Also
 
 - [[permaculture-designers-manual-greenhouse-design]]
-- [[permaculture-designers-manual-edge-effect-design]]
+- [[mollison-designers-edge-effect-design]]
 - [[permaculture-designers-manual-windbreak-species]]
 - [[permaculture-designers-manual-cold-climates]]
 - [[permaculture-designers-manual-house-design-principles]]

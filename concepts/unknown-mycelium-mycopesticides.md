@@ -130,7 +130,7 @@ chemical inputs.
 
 ## See Also
 
-- [[unknown-mycelium-mycoremediation]]
+- [[mycoremediation]]
 - [[mycelium-natures-internet]]
 - [[mycelium-running-presporulating-mycopesticides]]
 - [[unknown-mycelium-mycofiltration]]

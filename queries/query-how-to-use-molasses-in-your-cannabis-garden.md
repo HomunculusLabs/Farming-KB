@@ -3,7 +3,8 @@ title: "How to Use Molasses in Your Cannabis Garden"
 tags: [query, cannabis, organic-fertilizer, soil-health, molasses]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Use Molasses in Your Cannabis Garden
@@ -123,7 +124,6 @@ plants is well
 established in soil microbiology. The [[cannabis-terpene-profile]] page covers 
 factors that
 influence terpene production in cannabis plants.
-
 
 ## Key Points
 - Use unsulfured blackstrap molasses at one tablespoon per gallon of water as a soil drench every 1 to 2 weeks

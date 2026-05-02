@@ -104,7 +104,7 @@ Pest species in orchards can be reduced to 4-7% of monocrop orchard by a combina
 
 ## Integration with Food Forests
 
-In [[permaculture-designers-manual-food-forest-guilds]], the herb layer provides critical pollinator habitat. Every orchard and food forest should include dedicated insectary plantings integrated into the [[permaculture-designers-manual-edge-effect-design]] and windbreaks.
+In [[permaculture-designers-manual-food-forest-guilds]], the herb layer provides critical pollinator habitat. Every orchard and food forest should include dedicated insectary plantings integrated into the [[mollison-designers-edge-effect-design]] and windbreaks.
 
 ## See Also
 
@@ -115,7 +115,7 @@ In [[permaculture-designers-manual-food-forest-guilds]], the herb layer provides
 - [[permaculture-designers-manual-rabbit-housing]]
 - [[permaculture-designers-manual-food-forest-guilds]]
 - [[permaculture-designers-manual-windbreak-species]]
-- [[permaculture-designers-manual-edge-effect-design]]
+- [[mollison-designers-edge-effect-design]]
 - [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-pond-edge-planting]]
 - [[soil-erosion-control]]

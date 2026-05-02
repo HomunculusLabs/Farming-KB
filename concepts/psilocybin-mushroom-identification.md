@@ -22,7 +22,7 @@ The cap (pileus) of psilocybin mushrooms varies considerably by species.
 Psilocybe cubensis caps are convex when young, becoming broadly convex to
 plane with age, ranging from one to eight centimeters in diameter. Cap color
 is typically golden-brown to light tan when moist (hygrophanous), fading to
-nearly white or pale yellow as the cap dries. Psilocybe semilanceata has a
+nearly white or pale yellow as the cap dries. [[psilocybe-semilanceata]] has a
 distinctive conical or bell-shaped cap with a pronounced umbo (nipple-like
 projection).
 

@@ -3,7 +3,9 @@ title: "No-Till vs Tilling"
 tags: [comparison, soil-health, gardening, farming, soil-food-web]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
 # No-Till vs Tilling

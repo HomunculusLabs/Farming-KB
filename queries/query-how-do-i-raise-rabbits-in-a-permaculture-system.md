@@ -3,7 +3,8 @@ title: "How Do I Raise Rabbits in a Permaculture System?"
 tags: [query, permaculture, rabbits, livestock, integration]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How Do I Raise Rabbits in a Permaculture System?
@@ -54,7 +55,6 @@ Does can be bred year-round in most climates, though extreme heat can reduce fer
 Kits are born hairless and blind, requiring a warm, dry nest box with plenty of fur and bedding material provided by the doe.
 They grow rapidly and can be weaned at six to eight weeks, reaching market weight by ten to twelve weeks of age.
 Keeping accurate breeding records helps track lineage and avoid inbreeding in small herds over time.
-
 
 The nutritional profile of rabbit manure makes it exceptionally valuable for garden fertilization in permaculture systems.
 Rabbit manure has an NPK ratio of approximately 2.4-1.4-0.6, making it higher in nitrogen than most other animal manures.

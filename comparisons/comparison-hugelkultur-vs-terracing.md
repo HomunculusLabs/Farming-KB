@@ -3,7 +3,8 @@ title: "Hugelkultur vs Terracing"
 tags: [comparison, hugelkultur, terracing, earthworks, slope-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Hugelkultur vs Terracing

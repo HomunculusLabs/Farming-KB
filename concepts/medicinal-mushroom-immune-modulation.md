@@ -70,7 +70,6 @@ Studies suggest that the human and murine immune systems can receive greater sti
 
 Mushroom polysaccharides are generally well-tolerated and compatible with chemotherapy and radiation therapy, making them promising candidates for integrative oncology. Adverse effects are rare and typically mild, consisting of occasional gastrointestinal discomfort or allergic reactions in sensitive individuals.
 
-
 ## Species-Specific Immune Profiles
 
 Different medicinal mushroom species have distinct immunomodulatory profiles. Turkey tail (Trametes versicolor) is the most extensively studied for immune support, with its polysaccharopeptide (PSP) and polysaccharide-K (PSK) compounds approved as cancer adjuvant therapies in Japan and China. PSK has been shown in multiple randomized controlled trials to improve survival rates in gastric and colorectal cancer patients when used alongside conventional chemotherapy. Reishi (Ganoderma lucidum) produces ganoderic acids (triterpenes) with anti-inflammatory properties alongside immunostimulatory polysaccharides, giving it a dual modulatory effect. Shiitake (Lentinula edodes) produces lentinan, a beta-glucan with potent antitumor activity that works by activating macrophages and enhancing NK cell cytotoxicity. Lion's mane (Hericium erinaceus) contains erinacines and hericenones that stimulate nerve growth factor (NGF) production, linking immune modulation to neurological health.

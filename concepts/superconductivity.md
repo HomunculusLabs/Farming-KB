@@ -132,4 +132,3 @@ room-temperature C-S-H claim underscored the field's reproducibility challenges.
 - [[permaculture-solar-energy-inventions]]
 - [[pdc-energy-systems-and-appropriate-technology]]
 - [[bamboo-as-building-material]]
-

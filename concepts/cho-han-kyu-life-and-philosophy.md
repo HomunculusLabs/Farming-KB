@@ -93,7 +93,7 @@ Cho developed a complete library of natural farming inputs, each produced from l
 - [[knf-fish-amino-acid]] (Fish Amino Acid) -- protein/nitrogen source
 - [[knf-oriental-herbal-nutrient]] (Oriental Herbal Nutrient) -- health tonic
 - [[lactic-acid-bacteria-knf]] (Lactic Acid Bacteria) -- digestive aid and pathogen suppressor
-- [[knf-water-soluble-calcium-wsca]] and [[knf-water-soluble-calcium-wsca]] -- mineral sources
+- [[water-soluble-calcium-wca]] and [[water-soluble-calcium-wca]] -- mineral sources
 - [[knf-brown-rice-vinegar]] (Brown Rice Vinegar) -- growth promoter and mineral solvent
 - [[knf-fermented-mixed-compost]] (Fermented Mixed Compost) -- soil amendment
 - Mineral liquids (M-A through M-E) -- stage-specific mineral supplements

@@ -20,7 +20,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 
 The species belongs to the bluing, psilocybin-producing section of Psilocybe, though its exact sectional placement is subject to revision as molecular phylogenetics reshapes the genus. The genus Psilocybe has undergone significant taxonomic reorganization, with DNA sequencing revealing that many traditional species groups are polyphyletic.
 
-Within the European Psilocybe flora, P. semperviva contributes to the recognition that Europe harbors a more diverse assemblage of psychoactive fungi than was appreciated in earlier mycological literature. It sits alongside better-known species such as [[psilocybe-semilanceata]], [[psilocybe-cyanescens]], and [[psilocybe-serbica-entity]].
+Within the European Psilocybe flora, P. semperviva contributes to the recognition that Europe harbors a more diverse assemblage of psychoactive fungi than was appreciated in earlier mycological literature. It sits alongside better-known species such as [[psilocybe-semilanceata]], [[psilocybe-cyanescens]], and [[psilocybe-serbica]].
 
 ## Description
 
@@ -88,7 +88,7 @@ P. semperviva may be confused with several other European Psilocybe species:
 | Species | Distinguishing Features |
 |---|---|
 | [[psilocybe-semilanceata]] | More conic cap with pronounced papilla; robust curved stipe |
-| [[psilocybe-serbica-entity]] | Generally larger and more robust |
+| [[psilocybe-serbica]] | Generally larger and more robust |
 | [[psilocybe-bohemica]] | Central European; larger stature |
 | [[psilocybe-cyanescens]] | Wood-inhabiting; strongly hygrophanous with intense bluing |
 
@@ -105,7 +105,7 @@ As a confirmed psilocybin-containing species, P. semperviva is controlled in mos
 ## See Also
 
 - [[psilocybe-semilanceata]] — Most common European psilocybin mushroom
-- [[psilocybe-serbica-entity]] — Potent European species
+- [[psilocybe-serbica]] — Potent European species
 - [[psilocybe-cyanescens]] — Potent wood-inhabiting species
 - [[psilocybin]] — Primary psychoactive compound
 - [[psilocin]] — Active metabolite of psilocybin

@@ -3,7 +3,8 @@ title: "No-Till vs Mulch for Soil Management"
 tags: [comparison, soil-health, no-till, mulch, soil-food-web]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # No-Till vs Mulch for Soil Management

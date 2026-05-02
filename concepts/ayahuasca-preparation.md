@@ -116,7 +116,7 @@ Traditional ayahuasca use involves dietary restrictions, partially pharmacologic
 - Primary risks: serotonin syndrome (especially with SSRI use), hypertensive crisis, psychological distress
 - Purgation (vomiting, diarrhea) is a normal and expected part of the experience in many traditions
 - Contra-indicated with: MAOIs, SSRIs, certain psychiatric medications, schizophrenia spectrum disorders (controversial), cardiovascular disease
-- See [[harm-reduction-guide|harm reduction]]] for comprehensive safety guidelines
+- See [[harm-reduction-guide|harm reduction]] for comprehensive safety guidelines
 ## Related Pages
 - [[dmt-reference]] for DMT pharmacology and chemistry
 - [[ayahuasca-visions]] for phenomenology and artistic interpretation

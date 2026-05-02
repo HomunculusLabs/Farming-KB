@@ -141,5 +141,5 @@ The zone-based placement ensures that labor inputs match management intensity, a
 - [[permaculture-designers-manual-chicken-tractors]] - mobile poultry forage
 - [[permaculture-designers-manual-windbreak-species]] - shelterbelts as forage
 - [[permaculture-designers-manual-legumes]] - nitrogen-fixing forage species
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-cover-crops-detailed]]

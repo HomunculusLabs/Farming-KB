@@ -4,7 +4,9 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources:
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
 # Mycorrhizal Networks Explained

@@ -139,7 +139,7 @@ The same design principles that guide ecological design apply to social systems:
 - **Use and value diversity** — divuse-small-and-slow-solutionsnd backgrounds strengthen the group
 - **Integrate rather than segcreatively-use-and-respond-to-changefood, housing, work, education) rather than separating them
 - **Use small and slow solutions** — start with a small committed group and grow organically
-- **Creatively use and respond to change** — design social structures that adapt as conditions evolve
+- **[[creatively-use-and-respond-to-change]]** — design social structures that adapt as conditions evolve
 ## See Also
 - [[natural-farm-permaculture-ethics-principles]] — the ethical foundation for social design
 - [[permaculture-community-resilience]] — building resilient communities

@@ -142,4 +142,3 @@ Gluconeogenesis is an ancient, evolutionarily conserved pathway present in virtu
 - [[glycolysis-embden-meyerhof-parnas-pathway]]
 - [[primary-metabolic-precursors-to-the-shikimate-pathway]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
-

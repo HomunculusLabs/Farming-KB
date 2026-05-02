@@ -3,7 +3,8 @@ title: "Mulch vs Living Mulch"
 tags: [comparison, soil, mulch, ground-cover, no-till]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Mulch vs Living Mulch

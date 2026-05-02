@@ -110,7 +110,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   hugelkultur beds, terracing, and water retention landscapes.
   Publishes Sepp Holzer's Permaculture (2004)
   and Desert or Paradise (2012).
-  See [[sepp-holzer-methods]] and [[hugelkultur-guide]].
+  See [[sepp-holzer-methods]] and [[hemenway-hugelkultur-guide]].
 - **1980s-1990s — Mollison's global teaching:**
   Teaches over 200 PDCs worldwide, adapting content
   for tropical, arid, temperate, and urban contexts.

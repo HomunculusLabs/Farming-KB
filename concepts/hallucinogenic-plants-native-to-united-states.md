@@ -72,7 +72,7 @@ with peyote due to the large volume of plant material required.
 
 ## Salvia divinorum
 
-[[salvia-divinorum-entity]] (Lamiaceae) contains the neoclerodane diterpene
+[[salvia-divinorum]] (Lamiaceae) contains the neoclerodane diterpene
 salvinorin-A. Unlike most hallucinogens acting at 5-HT2A serotonin
 receptors, salvinorin-A is the first known naturally occurring
 non-nitrogenous kappa-opioid receptor agonist, a unique pharmacological

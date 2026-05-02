@@ -131,7 +131,7 @@ Based on Stamets' recommendations:
 
 ### The Spent Substrate Problem
 
-After harvesting, spent mushroom substrate becomes an ideal breeding ground for contaminants:
+After harvesting, [[spent-mushroom-substrate]] becomes an ideal breeding ground for contaminants:
 - Remove spent blocks promptly from the growing room
 - Do not accumulate spent substrate near production areas
 - Spent substrate can be composted or used for gardening but should be processed away from cultivation facilities

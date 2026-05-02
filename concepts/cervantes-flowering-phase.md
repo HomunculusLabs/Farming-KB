@@ -85,7 +85,7 @@ Unpollinated, female cannabis flowers continue to swell and produce more resin w
 Different cannabis varieties flower at different rates. Sativas bloom several weeks to months later than indica strains. While good producers outdoors (often growing to 15 feet or more), indoors pure sativa strains often grow too tall too fast — some up to ten feet in three months — to be practical for grow room cultivation. Ruderalis genetics can be crossed with early-flowering sativa and indica lines to produce auto-flowering varieties, though photoperiod does not induce flowering in these auto-flowering strains.
 
 ## Related Topics
-- [[cervantes-harvesting-curing]] — Harvesting and curing techniques
+- [[cannabis-harvesting-and-curing-techniques]] — Harvesting and curing techniques
 - [[cervantes-nutrient-management]] — Nutrient management during flowering
 - [[cervantes-pruning-training]] — Training techniques for flowering
 

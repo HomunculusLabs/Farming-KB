@@ -126,7 +126,7 @@ Both materials sequester carbon biogenically — the CO₂ absorbed by the growi
 ## See Also
 
 - [[comparison-cob-construction-vs-straw-bale-construction]]
-- [[comparison-cob-vs-straw-bale-construction]]
+- [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[straw-bale-construction]]
 - [[comparison-straw-bale-vs-adobe]]
 - [[comparison-straw-bale-vs-rammed-earth]]

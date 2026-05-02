@@ -53,7 +53,7 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 ## Fungal Hallucinogens
 ### Psilocybin Mushrooms — Psilocybe, Stropharia, Conocybe, Panaeolus
 - **Distribution**: Cosmopolitan; highest diversity in subtropical and tropical Americas
-- **Use**: Mesoamerican mushroom cult (teonanacatl — "flesh of the gods") documented from pre-Columbian times through present among Mazatec, Mixtec, Zapotec, Chatino, and other Oaxacan peoples. Richard Evans Schultes identified teonanacatl as a mushroom in 1938. See [[r-gordon-wasson]] for the famous 1955 Velada Maria Sabina experience.
+- **Use**: Mesoamerican mushroom cult (teonanacatl — "flesh of the gods") documented from pre-Columbian times through present among Mazatec, Mixtec, Zapotec, Chatino, and other Oaxacan peoples. Richard Evans Schultes identified teonanacatl as a mushroom in 1938. See [[gordon-wasson]] for the famous 1955 Velada Maria Sabina experience.
 - **Species**: Psilocybe mexicana (Schultes's original identification), P. caerulescens, P. zapotecorum, P. cubensis, Stropharia cubensis, Conocybe cyanopus, Panaeolus sphinctrinus, among others
 - **Chemistry**: Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) and psilocin. Psilocybin is an acidic phosphoric acid ester — a completely new type of natural structure. First isolated from European P. semilanceata by [[albert-hofmann]] in 1958
 - **Effects**: Similar to LSD; colorful visual hallucinations. Dosage varies by species and preparation
@@ -111,7 +111,7 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 ### Salvia divinorum Epling et Jativa
 - **Family**: Lamiaceae (mint family)
 - **Distribution**: Endemic to Sierra Mazateca, Oaxaca, Mexico; found only in a few localities at 1000-1800 ft elevation
-- **Use**: Used by Mazatec curanderos for divination and healing. Called "ska María Pastora" (leaves of Mary the Shepherdess). Often used as a substitute when psilocybin mushrooms are unavailable. See [[salvia-divinorum-entity]]
+- **Use**: Used by Mazatec curanderos for divination and healing. Called "ska María Pastora" (leaves of Mary the Shepherdess). Often used as a substitute when psilocybin mushrooms are unavailable. See [[salvia-divinorum]]
 - **Chemistry**: Salvinorin A (neoclerodane diterpene) — the first non-alkaloid, non-nitrogenous plant hallucinogen known (before cannabinoid mechanisms were fully understood). Not a tryptamine, ergoline, or tropane. Discovered as psychoactive in the 1960s by Wasson; chemical structure identified by Ortega et al. (1982); salvinorin A isolated by Valdes (1994)
 - **Cultivation**: Propagated vegetatively; rarely sets seed.极易 propagated from cuttings
 ---
@@ -135,7 +135,7 @@ Based on [[richard-evans-schultes-updated]]'s Golden Guide. The New World has fa
 - hallucinogenic plants new world — overview and cross-cultural analysis
 - [[richard-evans-schultes-updated]] — author and ethnobotanist
 - [[ayahuasca-preparation]] — detailed ayahuasca methodology
-- [[salvia-divinorum-entity]] — Salvia profile
+- [[salvia-divinorum]] — Salvia profile
 - [[dmt-reference]] — DMT pharmacology
 - [[mescaline-reference]] — mescaline pharmacology
 - [[psychedelic-compounds-reference]] — modern compound reference

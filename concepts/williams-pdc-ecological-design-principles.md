@@ -142,4 +142,4 @@ against them.
 
 - [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
 - [[pdc-urban-permaculture-design-principles]]
-- [[williams-pdc-passive-solar-design]]
+- [[passive-solar-design]]

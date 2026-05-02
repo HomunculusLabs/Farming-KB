@@ -84,7 +84,7 @@ The careful propagator produces seeds of pure types without pollinating the prec
 
 - [[cannabis-sinsemilla-life-cycle]]
 - [[cannabis-propagation-techniques]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-seed-banks-and-genetics]]
 ## Merged: Cannabis Pre-Flowering Sex Identification

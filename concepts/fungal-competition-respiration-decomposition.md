@@ -108,5 +108,5 @@ relationship complicates predictions of how changes in fungal diversity will aff
 ecosystem-level carbon and nutrient cycling.
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[fungal-carbon-substrate-utilization-efficiency]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

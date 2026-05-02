@@ -73,7 +73,7 @@ outdoor planting. Seedlings raised indoors have never experienced wind,
 direct sun, or temperature fluctuations, and they need a gradual 7 to 10
 day acclimation period to avoid transplant shock. Start by setting them
 outside in a sheltered spot for an hour or two and gradually increase
-their exposure each day. Proper [[seed-starting-and-transplanting]]
+their exposure each day. Proper [[solomon-seed-starting-transplanting]]
 technique during this phase dramatically improves survival rates.
 
 For gardeners who want to extend their season without indoor lighting

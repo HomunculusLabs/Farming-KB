@@ -81,7 +81,7 @@ collecting effort rather than true endemism.
 ## See Also
 
 - [[paracoccidioides-brasiliensis]]
-- [[psilocybe-aztecorum-entity]]
+- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
 - [[psilocybe-baeocystis]]
 - [[psilocybe-mexicana]]
 - [[psilocybe-cyanofibrillosa]]

@@ -111,7 +111,7 @@ cultivation. Leaf shape, size, serration pattern, and color are all visible
 phenotypic markers that can be tracked alongside more subtle traits like
 potency, aroma, and maturation time. Because leaf traits are often controlled
 by single gene pairs with clear dominance relationships, they provide
-accessible entry points for understanding the [[cannabis-genetics-mendelian-breeding]] of more complex traits.
+accessible entry points for understanding the [[clarke-marijuana-botany-genetics-breeding]] of more complex traits.
 
 ## See Also
 

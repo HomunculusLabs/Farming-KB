@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
 ---
 
 # Sacramental Psychedelic Use Legal Protections

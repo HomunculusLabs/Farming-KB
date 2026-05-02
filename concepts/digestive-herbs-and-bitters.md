@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs]
-sources: []
+sources:
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
 # Digestive Herbs and Bitters

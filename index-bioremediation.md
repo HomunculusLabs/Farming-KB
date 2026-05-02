@@ -1,6 +1,5 @@
 # Bioremediation & Restoration
 
-> Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
 **63 pages**
 

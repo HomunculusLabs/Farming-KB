@@ -3,7 +3,8 @@ title: "Oycotter-shiitake-cultivationtivation"
 tags: [comparison, mushroom-cultivation, oyster, shiitake, fungi]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Oyster vs Shiitake Cultivation
@@ -80,7 +81,7 @@ anti-tumor effects, which adds a premium dimension to its commercial appeal. Dri
 in particular commands excellent prices and stores for months without quality degradation,
 giving growers flexibility in timing their sales.
 
-The shiitake cultivation page also covers wine-cap mushrooms (*Stropharia rugosoannulata*),
+The shiitake cultivation page also covers wine-cap mushrooms (*[[stropharia-rugosoannulata]]*),
 an outdoor species grown on wood chip and straw beds that provides a complementary
 low-maintenance growing option. Wine-caps are particularly well-suited to permaculture and
 garden integration, forming beneficial relationships with plant roots while breaking down

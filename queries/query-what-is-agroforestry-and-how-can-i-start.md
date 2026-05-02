@@ -3,7 +3,8 @@ title: "What Is Agroforestry and How Can I Start"
 tags: [query, agroforestry, permaculture, sustainable-agriculture, food-forest]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # What Is Agroforestry and How Can I Start
@@ -48,7 +49,6 @@ Riparian buffers are strips of trees and shrubs planted along waterways to filte
 
 Beyond their productive value, riparian buffers provide critical ecosystem services. They filter 85 to 95 percent of nitrogen and phosphorus from agricultural runoff before it reaches waterways, stabilize stream banks against erosion, and provide shade that keeps water temperatures cool enough for fish and aquatic organisms.
 
-
 ## Climate Considerations
 
 Agroforestry practices vary significantly by climate. In tropical regions, multistrata systems with dozens of species stacked in canopy, understory, shrub, herb, and ground layers can produce year-round harvests. In temperate climates, simpler systems with fewer layers are more practical.
@@ -72,7 +72,6 @@ Extension services, permaculture design courses, and agroforestry associations p
 Getting started with agroforestry requires careful observation and planning. Begin by mapping your property, identifying existing trees, water flows, and microclimates. Note which areas receive full sun, partial shade, and deep shade at different times of year.
 
 The [[food-forest-plant-palette|food forest plant palette]] and [[forest-garden-seven-layers|seven-layer forest garden model]] provide frameworks for selecting complementary species. Start small with a single practice like a [[backyard-food-forest-design|backyard food forest]] or an alley cropping trial, observe the results over several seasons, and expand gradually.
-
 
 ## Windbreaks and Shelterbelts
 

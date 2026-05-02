@@ -147,4 +147,3 @@ Preservation method that also creates flavor:
 
 ### Chicken of the Woods (Laetiporus sulphureus)
 - Chicken-like texture and mild flavor when young
-

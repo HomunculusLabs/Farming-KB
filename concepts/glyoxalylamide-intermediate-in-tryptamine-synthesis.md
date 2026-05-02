@@ -17,7 +17,7 @@ sources:
 
 The 3-glyoxalylamide of 4-acetylindole (compound 6 in the Shirota
 synthesis) serves as the pivotal intermediate in the conversion of
-4-hydroxyindole to psilocin. This compound incorporates both the indole
+[[4-hydroxyindole]] to psilocin. This compound incorporates both the indole
 core with its protected 4-hydroxy group and the dimethylaminooxalyl side
 chain that, upon reduction, becomes the characteristic N,N-dimethyl-
 tryptamine moiety of psilocin. The two-step formation of this intermediate
@@ -117,7 +117,7 @@ hydride reduction. LiAlH4 simultaneously reduces three [[fungal-functional-group
 1. The ketone carbonyl (C-1', 185.4 ppm) is reduced to a methylene,
    forming the alpha-position of the ethylamine side chain.
 2. The amide carbonyl (C-2', 168.4 ppm) is reduced to the tertiary
-   amine N(CH3)2, completing the dimethyltryptamine moiety.
+   amine N(CH3)2, completing the [[dimethyltryptamine]] moiety.
 3. The 4-O-acetyl group (170.9 ppm) is cleaved, restoring the free
    phenolic hydroxyl at C-4.
 

@@ -84,5 +84,5 @@ Many fungi exist on a continuum between endophytism and pathogenicity:
 
 - [[fungal-chromogens-and-color-change]]
 - [[mycorrhizal-fungi]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[nutrient-movement-through-soil-to-plant-roots]]

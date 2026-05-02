@@ -4,14 +4,15 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
 **Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 19 | **Studies:** 7 | **Updated:** 2026-04-18
 
 ## Overview
 
-Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a progressive neurodegenerative disease affecting motor neurons. It leads to muscle weakness, paralysis, and ultimately respiratory failure. Cannabis research suggests neuroprotective and symptom-management benefits. See also [[cannabis-and-alzheimers-disease]], [[cannabis-for-parkinsons-disease]], and [[cannabis-and-multiple-sclerosis]].
+Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a progressive neurodegenerative disease affecting motor neurons. It leads to muscle weakness, paralysis, and ultimately respiratory failure. Cannabis research suggests neuroprotective and symptom-management benefits. See also [[blesching-cannabis-alzheimers-disease]], [[cannabis-for-parkinsons-disease]], and [[cannabis-and-multiple-sclerosis]].
 
 ## Clinical Evidence
 
@@ -85,7 +86,7 @@ Seven studies support cannabis for ALS — one of the higher CHI values among ne
 
 ## Related Topics
 
-- [[cannabis-and-alzheimers-disease]]
+- [[blesching-cannabis-alzheimers-disease]]
 - [[cannabis-for-parkinsons-disease]]
 - [[cannabis-and-multiple-sclerosis]]
 - [[cannabis-and-epilepsy]]

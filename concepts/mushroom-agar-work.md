@@ -4,7 +4,10 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, preparation, recipe, workflow, genetics]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
+  - "raw/papers/unknown-working-with-agar.md"
 ---
 ## Overview
 Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced mushroom cultivation, enabling spore germination, contamination identification, strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.

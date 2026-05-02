@@ -126,6 +126,6 @@ In temperate zones: mixed hardwoods and conifers for year-round shelter. In the 
 
 See also: [[permaculture-designers-manual-legumes]], [[permaculture-designers-manual-cover-crops-detailed]], [[permaculture-designers-manual-herbaceous-plants]], [[permaculture-designers-manual-legumes]], [[permaculture-designers-manual-ponds-and-dams]]
 - [[permaculture-designers-manual-pond-edge-planting]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[soil-erosion-control]]
 - [[permaculture-designers-manual-fuel-wood-systems]]

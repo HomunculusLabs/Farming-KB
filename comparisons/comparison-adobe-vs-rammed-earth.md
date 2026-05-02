@@ -130,6 +130,6 @@ construction with the traditional aesthetic of brickwork.
 - [[comparison-cob-vs-adobe]]
 - [[cob-construction]]
 - [[straw-bale-construction]]
-- [[comparison-cob-vs-straw-bale-construction]]
+- [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[adobe-construction]]
 - [[rammed-earth]]

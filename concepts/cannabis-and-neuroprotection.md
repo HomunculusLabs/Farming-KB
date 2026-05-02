@@ -110,7 +110,7 @@ The neuroprotective properties of cannabinoids are supported by a growing body o
 
 - [[cannabis-and-epilepsy-research]]
 
-- [[cannabis-and-alzheimers-disease]]
+- [[blesching-cannabis-alzheimers-disease]]
 
 - [[cannabis-endocannabinoid-system]]
 - [[plant-micronutrients-and-their-essential-functions]]

@@ -100,7 +100,6 @@ The chelation mechanism explains why certain nutrients become unavailable at spe
 - **Phosphorus lockup** (common in alkaline soils): Calcium phosphate precipitates become unavailable. Fungal organic acids and siderophores can solubilize these fixed phosphorus compounds
 - **Micronutrient excess** (common in acid soils below pH 5.5): Aluminum, manganese, and iron become excessively soluble and toxic. Liming reduces toxicity by promoting precipitation, but also reduces microbial chelation activity
 
-
 ## See Also
 
 - [[chelated-nutrients]]

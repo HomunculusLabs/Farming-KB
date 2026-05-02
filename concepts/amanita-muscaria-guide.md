@@ -84,10 +84,10 @@ For additional traditional and experimental preparation methods (ambrosia, sacre
 - Properly prepared material is significantly safer but not risk-free
 - Can cause delirium at high doses, especially in combination with other CNS depressants
 - NOT recommended for self-experimentation without expert guidance
-- The "toadstool" reputation in Anglo-Saxon culture ([[r-gordon-wasson]]'s mycophobia) stems from improper preparation
+- The "toadstool" reputation in Anglo-Saxon culture ([[gordon-wasson]]'s mycophobia) stems from improper preparation
 ## Cultural Significance
 - **Siberian shamanism:** Used by Koryak, Chukchi, Kamchadal peoples for centuries. Shamans consumed A. muscaria to enter trance states for divination and healing.
-- **Soma hypothesis:** [[r-gordon-wasson]] proposed A. muscaria as the Vedic Soma in "Soma: Divine Mushroom of Immortality" (1968). [[john-allegro]] extended this to Christianity. See [[soma-hypothesis]].
+- **Soma hypothesis:** [[gordon-wasson]] proposed A. muscaria as the Vedic Soma in "Soma: Divine Mushroom of Immortality" (1968). [[john-allegro]] extended this to Christianity. See [[soma-hypothesis]].
 - **Christmas symbolism:** Red-and-white coloring, reindeer (Siberian shamans), gifts from the sky (dried mushrooms in trees) -- possible origins of Santa Claus imagery.
 - **Alice in Wonderland:** The Caterpillar's mushroom, size distortion effects.
 - **Video games:** Super Mario Bros (red mushrooms), many fantasy games use the distinctive imagery.

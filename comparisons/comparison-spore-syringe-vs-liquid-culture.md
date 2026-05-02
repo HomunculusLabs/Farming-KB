@@ -3,7 +3,8 @@ title: "Spore Syringe vs Liquid Culture"
 tags: [comparison, mushroom-cultivation, inoculation, sterile-technique, spawn]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Spore Syringe vs Liquid Culture

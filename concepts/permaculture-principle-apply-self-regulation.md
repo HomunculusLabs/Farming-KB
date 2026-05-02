@@ -14,23 +14,11 @@ The fourth of David Holmgren's twelve permaculture design principles. This princ
 
 > "The icon of the Earth as a self-regulating whole (Gaia) reminds us of the importance of feedback in natural systems." — David Holmgren
 
-
-
-
-
-
-
 ## Core Concept
 
 All healthy systems regulate themselves through feedback loops. When a system produces too much of something, negative feedback dampens the excess. When something is lacking, positive feedback amplifies production. Holmgren argues that understanding and working with feedback is central to sustainable design.
 
 The failure of many human systems — industrial agriculture, fossil fuel economies, growth-based economics — stems from a lack of effective negative feedback. These systems push toward extremes because the signals that should trigger self-correction are ignored, suppressed, or externalized.
-
-
-
-
-
-
 
 ## Self-Regulation in Nature
 
@@ -42,12 +30,6 @@ Natural ecosystems are masterworks of self-regulation:
 
 Holmgren notes that external environmental factors — food availability, disease, predators — ultimately constrain the excessive growth of any species. These external controls can be thought of as mechanisms by which the large-scale ecosystem keeps its constituent parts in check.
 
-
-
-
-
-
-
 ## Self-Regulation in Design
 
 In permaculture design, we aim to create systems that self-regulate as much as possible, reducing the need for ongoing human intervention:
@@ -57,33 +39,15 @@ In permaculture design, we aim to create systems that self-regulate as much as p
 - **Water**: Design earthworks and plantings that slow, spread, and sink water rather than relying on irrigation
 - **Weeds**: Understand what weeds indicate about soil conditions and address the root cause rather than repeatedly fighting symptoms
 
-
-
-
-
-
-
 ## Accepting Feedback
 
 Accepting feedback means being willing to listen to what the system tells us, even when the message is uncomfortable. Holmgren describes a self-audit process as a starting point for change: by honestly assessing our inputs, outputs, and impacts, we can identify where feedback is telling us something needs to change.
 
 This principle also implies ethical self-regulation. Holmgren connects it to the permaculture ethic of setting limits to consumption. Self-regulation at the personal and community level is the alternative to having limits imposed externally through resource depletion, environmental collapse, or social disorder.
 
-
-
-
-
-
-
 ## The Role of Limits
 
 Limits and negative feedback are not enemies of productivity — they are essential to it. Just as pruning a tree redirects energy into fruit production rather than excessive vegetative growth, appropriate limits on human activity redirect energy toward what is truly valuable and sustainable.
-
-
-
-
-
-
 
 ## Connections
 

@@ -3,7 +3,8 @@ title: "How to Grow Food in Small Spaces Vertically"
 tags: [query, vertical-gardening, urban-gardening, small-space, container-gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How to Grow Food in Small Spaces Vertically

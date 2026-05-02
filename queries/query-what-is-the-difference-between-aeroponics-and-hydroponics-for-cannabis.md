@@ -3,7 +3,8 @@ title: "What Is the Difference Between Aeroponics and Hydroponics for Cannabis?"
 tags: [query, hydroponics, aeroponics, growing-systems, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Is the Difference Between Aeroponics and Hydroponics for Cannabis?

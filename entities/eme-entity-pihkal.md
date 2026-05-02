@@ -10,19 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #75. 2,5-DIETHOXY-4-METHOXYAMPHETAMINE.
 
-
-
-
-
-
 ## Chemical Name
 
 2,5-DIETHOXY-4-METHOXYAMPHETAMINE
-
-
-
-
-
 
 ## Dosage and Duration
 
@@ -31,28 +21,13 @@ PIHKAL entry #75. 2,5-DIETHOXY-4-METHOXYAMPHETAMINE.
 | Dosage | unknown. |
 | Duration | unknown. |
 
-
-
-
-
-
 ## Qualitative Comments
 
 No qualitative comments recorded.
 
-
-
-
-
-
 ## Extensions and Commentary
 
 This is another of the collection of all possible ethoxy homologues of TMA-2. The latter and heavier members of this series were synthesized and completed before the directions of biological activity had become evident from the earlier ones. This compound has never been assayed, and it is a reasonable guess that it will have a very low potency, with hints of toxicity at higher dose levels. I suspect that it will never be assayed, certainly not by me.
-
-
-
-
-
 
 ## Synthesis
 
@@ -66,21 +41,11 @@ A solution of 6.7 g 2,5-diethoxy-4-methoxybenzaldehyde in 21 g glacial acetic ac
 
 (Additional synthesis details available in source.)
 
-
-
-
-
-
 ## Safety Notes
 
 EME is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
-
-
-
 
 ## See Also
 

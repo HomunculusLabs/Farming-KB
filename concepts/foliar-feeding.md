@@ -58,7 +58,6 @@ Complete soluble chemical mixes with trace minerals can be used as foliar sprays
 | Soil | Days-weeks | Season-long | Long-term fertility |
 | Fertigation | Days | Season-long | Irrigated gardens |
 
-
 ## Limitations and Best Practices
 
 The effectiveness of foliar feeding depends heavily on surfactant use and

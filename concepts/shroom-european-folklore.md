@@ -4,7 +4,8 @@ created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 # Magic Mushrooms in European Folklore

@@ -11,21 +11,9 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 Fungi can degrade a wide range of synthetic organic compounds including pesticides, polychlorinated biphenyls (PCBs), and dioxins -- some of the most persistent and toxic environmental contaminants ever created.
 
-
-
-
-
-
-
 ## The Scale of the Problem
 
 Analysis of blood from the general population reveals dozens of industrial toxins, including 13 dioxins, 31 PCBs, several pesticides, and numerous heavy metals. Had similar analysis been done in the 1930s, only lead would have been detected. Most of these are a legacy of the chemical revolution. As Stamets writes: "As a species, humans are adept at inventing toxins yet equally inept at eliminating them from our environment."
-
-
-
-
-
-
 
 ## PCBs and Dioxins
 
@@ -37,12 +25,6 @@ PCBs and dioxins are among the most recalcitrant environmental pollutants. Their
 
 These non-specific enzyme systems give white rot fungi the ability to attack chlorinated aromatics that bacteria and most other organisms cannot degrade.
 
-
-
-
-
-
-
 ## Pesticides
 
 Many classes of pesticides are susceptible to fungal degradation:
@@ -51,12 +33,6 @@ Many classes of pesticides are susceptible to fungal degradation:
 - **Organochlorines**: Subject to dechlorination by white rot fungal enzymes
 - **Carbamates**: Can be degraded through hydrolysis
 - **Herbicides**: Various herbicide compounds can be mineralized by selected fungal strains
-
-
-
-
-
-
 
 ## Approach
 
@@ -67,21 +43,9 @@ The mycoremediation approach for persistent organic pollutants involves:
 3. **Deployment**: Inoculate contaminated soil with trained mycelium on a suitable substrate (straw, wood chips, sawdust)
 4. **Successive treatments**: Multiple rounds of treatment may be needed for heavily contaminated sites
 
-
-
-
-
-
-
 ## Synergistic Species Approach
 
 Using a plurality of species creates a synergistic effect for more complete degradation of toxins. Different species secrete unique mixes of extracellular enzymes and acids. The art of this emerging science lies in the selection of species and their timely introduction.
-
-
-
-
-
-
 
 ## See Also
 

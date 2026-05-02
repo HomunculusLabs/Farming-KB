@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: []
+sources:
+  - "raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md"
 ---
 
 Updated: 2026-04-18

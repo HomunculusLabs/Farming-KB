@@ -74,7 +74,6 @@ The oldest and most nutritious preservation method:
 - 10-15 PSI depending on altitude
 - Botulism risk is real — follow tested recipes exactly
 
-
 ## Choosing the Right Method
 
 Choosing the right preservation method depends on the food type, available

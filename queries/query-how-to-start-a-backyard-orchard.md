@@ -3,7 +3,8 @@ title: "How to Start a Backyard Orchard"
 tags: [query, orchard, fruit-trees, permaculture, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # How to Start a Backyard Orchard

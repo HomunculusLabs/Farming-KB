@@ -4,7 +4,10 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Spore Syringe Production
 
@@ -66,7 +69,6 @@ Inject 1-2 cc of spore solution through the injection port of a grain spawn jar.
 Spore syringes produce multispore cultures, meaning thousands of spores germinate simultaneously, creating a genetically diverse population. The resulting mycelium is a mosaic of many different strains, some incompatible with others. This mixture can have a limiting effect on total yields, with less productive strains inhibiting more productive ones. In general, strains from spores have a high probability of resembling their parents, but cultures from wild specimens may fruit very poorly and must be selectively developed.
 
 For consistent, repeatable results, tissue culture from a selected fruitbody (cloning) is preferred over multispore inoculation.
-
 
 ## Spore Concentration and Quality Control
 

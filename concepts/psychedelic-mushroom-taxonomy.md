@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, taxonomy, mushrooms, species, species-profiles, entheogen, ethnomycology]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 
 # Psychedelic Mushroom Taxonomy

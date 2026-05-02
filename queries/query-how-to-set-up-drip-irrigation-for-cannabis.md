@@ -3,7 +3,8 @@ title: "How to Set Up Drip Irrigation for Cannabis?"
 tags: [query, cannabis, drip-irrigation, watering, automation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Set Up Drip Irrigation for Cannabis?

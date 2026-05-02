@@ -3,7 +3,10 @@ title: "What Is Fish Hydrolysate and How Do I Use It as Fertilizer?"
 tags: [query, organic-fertilizer, soil-amendments, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
 # What Is Fish Hydrolysate and How Do I Use It as Fertilizer?

@@ -79,7 +79,6 @@ particles do not shake apart easily and the substrate lacks the structural
 integrity needed for clean grain-to-grain transfers. For scaling up, cultivators
 typically switch to whole grain substrates like rye berries, oats, or millet.
 
-
 ## Common Problems and Solutions
 
 The most frequent issues with BRF substrate include contamination, slow colonization, and stalled fruiting. Contamination typically enters through insufficient sterilization or poor inoculation technique. If contamination appears within the first few days, the sterilization process was likely inadequate — increase sterilization time by 30 minutes or verify pressure cooker operation. Contamination appearing after partial colonization usually indicates a compromised dry vermiculite layer. Slow colonization can result from overly wet substrate (reduce water by 10-15%), old or weak spore syringes, or incubation at temperatures below 70°F. Stalled fruiting often relates to insufficient fresh air exchange or humidity below 90% — increasing fae while maintaining humidity usually triggers pinning within 3-5 days.

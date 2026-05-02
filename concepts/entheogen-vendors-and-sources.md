@@ -32,7 +32,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Legal to grow in the US and most countries
 - Common sources: cactus nurseries, Etsy, eBay, specialty succulent shops
 - Cuttings are readily available and easy to root
-**Trichocereus peruvianus (Peruvian Torch)**
+**[[trichocereus-peruvianus]] (Peruvian Torch)**
 - Available from the same sources as San Pedro
 - Slightly less common but still widely available
 **Lophophora williamsii (Peyote)**

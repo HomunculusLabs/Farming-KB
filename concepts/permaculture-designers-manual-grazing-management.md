@@ -119,4 +119,4 @@ Pasture recovery is accelerated by the incorporation of [[permaculture-designers
 - [[permaculture-designers-manual-small-animals]] for intensive systems.
 - [[permaculture-designers-manual-food-preserving]] for hay and silage.
 
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]

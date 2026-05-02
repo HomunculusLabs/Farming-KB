@@ -112,7 +112,6 @@ Chop-and-drop is the primary fertility input for no-till gardening systems. In a
 - Transition from tilled to no-till takes 1-3 years as soil biology establishes
 - Initial weed pressure may increase during transition as buried weed seeds germinate
 
-
 ## Related
 - [[sheet-mulching]] — layered mulch technique for creating garden beds
 - [[cover-crop-selection-guide]] — choosing cover crops for chop-and-drop

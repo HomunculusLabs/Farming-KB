@@ -130,5 +130,5 @@ handling post-process.
 
 - [mushroom-[[spawn-grain-preparation]]-and-inoculation]
 - [[mushroom-fruiting-chamber-designs]]-and-parameters]
-- [[mushroom-cultivation-contamination-prevention]]]
+- [[mushroom-cultivation-contamination-prevention]]
 - [[medicinal-mushroom-extraction]]-and-bioactive-compounds]

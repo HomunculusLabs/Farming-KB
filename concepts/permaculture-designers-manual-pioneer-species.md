@@ -92,7 +92,7 @@ Shading-out of Lantana takes 2-6 years, and only remnant weak shoots remain unde
 
 ## Related Topics
 
-- [[permaculture-designers-manual-nitrogen-fixing-trees]] - Nitrogen-fixing pioneer trees
+- [[nitrogen-fixing-trees]] - Nitrogen-fixing pioneer trees
 - [[permaculture-designers-manual-soil-rehabilitation]] - Soil rehabilitation techniques
 - [[permaculture-designers-manual-mulch-systems]] - Mulch systems
 - [[permaculture-designers-manual-arid-climates]] - Arid climate strategies

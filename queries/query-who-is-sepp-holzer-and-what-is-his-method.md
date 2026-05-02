@@ -3,7 +3,8 @@ title: "Who Is Sepp Holzer and What Is His Method?"
 tags: [query, permaculture, sepp-holzer, aquaculture, sustainable-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Who Is Sepp Holzer and What Is His Method?
@@ -96,5 +97,5 @@ Holzer's ponds are designed as complete ecosystems that produce fish, plants, an
 - [[query-how-do-i-start-a-hugelkultur-bed]]
 - [[query-how-does-keyline-design-work-in-permaculture]]
 - [[query-how-to-set-up-a-backyard-pond]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-to-design-a-permaculture-property-from-scratch]]

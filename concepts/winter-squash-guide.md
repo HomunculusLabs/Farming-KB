@@ -127,6 +127,6 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 - Save longest-storing varieties (butternut, hubbard) for deep winter.
 ## Related Concepts
 - [[companion-planting-reference]] — corn, beans, and nasturtiums as squash companions (Three Sisters)
-- [[hugelkultur-guide]] — squash cascading off hugel mounds
+- [[hemenway-hugelkultur-guide]] — squash cascading off hugel mounds
 - [[mulching-guide]] — heavy mulching for moisture retention
 - [[sweet-potato-guide]] — another storage crop with similar planting timing

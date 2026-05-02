@@ -68,7 +68,6 @@ The Mushroom Cultivator emphasizes prevention over treatment:
 
 Pest damage creates entry points for [[contamination-identification-prevention]] organisms. Fly larvae tunneling through substrate introduce bacteria and mold spores. Mites carrying contaminants on their bodies can spread infection across a growing room. The best pest control strategy is therefore also the best contamination control strategy: strict hygiene, proper pasteurization, and vigilant monitoring.
 
-
 ## Prevention Strategies
 
 Prevention is far more effective than treatment once pests are established.

@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, cultivation, mushrooms]
-sources: []
+sources:
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 # Oyster Mushroom Varieties and Cultivation
 

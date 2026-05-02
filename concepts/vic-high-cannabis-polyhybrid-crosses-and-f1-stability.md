@@ -125,4 +125,4 @@ Vic High's practical advice for preserving complex traits from a special individ
 - [[vic-high-true-breeding-strain-development-stabilization]]
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[vic-high-cannabis-phenotype-selection-criteria]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]

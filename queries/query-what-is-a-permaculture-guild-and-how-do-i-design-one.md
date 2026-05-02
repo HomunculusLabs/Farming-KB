@@ -123,6 +123,6 @@ toxic to many plants, so guild members must be selected for juglone tolerance.
 
 - [[query-what-is-a-plant-guild-in-permaculture]] Questions
 - [[query-what-is-companion-planting-and-how-does-it-work]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-to-start-a-food-forest]]
 - [[query-how-to-choose-the-right-cover-crop]]

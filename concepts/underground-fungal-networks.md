@@ -114,10 +114,10 @@ fungal species are lost.
 - [[mycelium-running-stamets-fungal-ecology-networks]]
 - [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 
-- [[mycelial-networks]]](mycelium-network.md)
-- [[fungal-symbiosis-with-plants]]](fungal-symbiosis-with-plants.md)
+- [[mycelial-networks]](mycelium-network.md)
+- [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
 - [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
-- [[fungal-life-cycles]]](fungal-life-cycles.md)
+- [[fungal-life-cycles]](fungal-life-cycles.md)
 
 ## References
 

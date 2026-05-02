@@ -144,12 +144,7 @@ heat — directly links computation to thermodynamics.
 | M. Planck | 1858–1947 | Energy quantization (1900), blackbody formula |
 | A. Einstein | 1879–1955 | Photoelectric effect, Brownian motion, solid C_V |
 | S.N. Bose | 1894–1974 | Photon statistics (1924), BE statistics basis |
-| E. Fermi | 1901–1954 | Fermi-Dirac statistics (1926), nuclear reactor |
-| P. Dirac | 1902–1984 | Fermi-Dirac statistics, Dirac equation, QFT |
-
 ## See Also
-
-- [[savory-grazing-mechanics-and-root-sacrifice]]
-- [[tryptamines-and-quantum-mechanics]]
-- [[fracture-mechanics-engineering-materials]]
-- [[bloomfield-rice-blast-appressorium-mechanics]]
+- [[phase-transitions-and-critical-phenomena]]
+- [[bulk-substrate-field-capacity]]
+- [[tompkins-bose-plant-nervous-system-hypothesis]]

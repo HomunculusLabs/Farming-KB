@@ -15,7 +15,7 @@ Mycorrhizal fungal communities undergo predictable changes during both primary s
 succession (following disturbance of established ecosystems). These successional patterns
 in mycorrhizal communities influence plant establishment, competitive dynamics, and
 ecosystem development. Understanding mycorrhizal succession is essential for predicting
-[[fungal-diversity-ecosystem-function-mycorrhizal]] during vegetation
+[[dighton-mycorrhizal-diversity-ecosystem-function]] during vegetation
 recovery.
 
 ## Primary Succession on Glacial Forefronts
@@ -116,5 +116,5 @@ The continuity of mycorrhizal networks through the successional sequence therefo
 influences the rate and trajectory of vegetation recovery.
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[fungal-nitrogen-deposition-fungal-community-responses]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

@@ -92,7 +92,7 @@ Rather than raising all transplants at once, stagger your sowings:
 
 ## Related Concepts
 
-- [[seed-starting-and-transplanting]]
+- [[solomon-seed-starting-transplanting]]
 - [[weed-management-strategies]]
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[growing-globe-artichokes]]

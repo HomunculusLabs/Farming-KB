@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Fish Amino Acid
 
-**Fish Amino Acid (FAA)** is a Korean Natural Farming (KNF) liquid fertilizer produced by fermenting fish waste or whole small fish with brown sugar to extract amino acids, nitrogen compounds, minerals, and other nutrients. Developed by Master Han Kyu Cho as part of the Cho Global Natural Farming system, FAA serves as a rapid-acting nitrogen source that supports vegetative growth, fruit development, and overall plant vigor. The preparation is particularly valued for its accessibility — it transforms fish processing waste into a valuable agricultural input, aligning with KNF principles of waste recycling and zero external input dependency.
+**Fish Amino Acid (FAA)** is a [[korean-natural-farming]] (KNF) liquid fertilizer produced by fermenting fish waste or whole small fish with brown sugar to extract amino acids, nitrogen compounds, minerals, and other nutrients. Developed by Master Han Kyu Cho as part of the Cho Global Natural Farming system, FAA serves as a rapid-acting nitrogen source that supports vegetative growth, fruit development, and overall plant vigor. The preparation is particularly valued for its accessibility — it transforms fish processing waste into a valuable agricultural input, aligning with KNF principles of waste recycling and zero external input dependency.
 
 ## Principle
 
@@ -100,7 +100,7 @@ FAA is primarily a nitrogen source but contains a broad spectrum of nutrients:
 
 ### Compost Additive
 
-* FAA at 1:100 dilution accelerates compost decomposition by providing nitrogen for microbial protein synthesis
+* FAA at 1:100 dilution accelerates compost [[decomposition]] by providing nitrogen for microbial protein synthesis
 * Particularly beneficial when composting high-carbon materials (wood chips, sawdust, straw) that have low nitrogen content
 
 ## Synergistic Combinations

@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mushroom Sawdust and Bran Spawn Preparation
 

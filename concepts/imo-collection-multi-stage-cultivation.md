@@ -124,7 +124,7 @@ chemical inputs.
 ### Transplant Support
 
 When used during transplanting, IMO accelerates root growth and
-enhances initial plant establishment. Combining IMO with [[knf-water-soluble-calcium-wsca]] and FPJ provides comprehensive nutritional
+enhances initial plant establishment. Combining IMO with [[water-soluble-calcium-wca]] and FPJ provides comprehensive nutritional
 and biological support for newly transplanted seedlings.
 
 ### Compost Acceleration

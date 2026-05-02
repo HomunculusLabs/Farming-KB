@@ -63,7 +63,7 @@ LAB accelerate root growth during transplanting and effectively enhance
 the initial growth of plants. This makes them valuable for all
 transplanting operations, from vegetable seedlings to tree seedlings.
 The enhanced root establishment reduces transplant shock and improves
-survival rates, especially when combined with [[knf-water-soluble-calcium-wsca]] applications.
+survival rates, especially when combined with [[water-soluble-calcium-wca]] applications.
 
 ### Temperature Tolerance
 

@@ -22,7 +22,7 @@ sources:
 
 # Inocybe aeruginascens
 
-A psychoactive Inocybe species notable for containing the rare compound aeruginascin, unique among known psilocybin mushrooms. First described by [[jochen-gartz]] and romagnesi.
+A psychoactive Inocybe species notable for containing the rare compound aeruginascin, unique among known [[psilocybin-mushrooms]]. First described by [[jochen-gartz]] and romagnesi.
 
 ## Taxonomy
 
@@ -40,7 +40,7 @@ A psychoactive Inocybe species notable for containing the rare compound aerugina
 - **Gills (lamellae):** Adnexed to sinuate, moderately crowded. Color: clay-brown to olivaceous brown, becoming darker with spore maturity. Edge often whitish and fringed.
 - **Stem (stipe):** 3-6 cm long, 2-4 mm thick. Equal or slightly thicker at base. Surface pruinose (frosted) near apex, fibrillose below. Pale to brownish. No ring. Cortina (web-like veil) present in young specimens.
 - **Flesh:** Thin, pale brownish. Odor: mild or slightly spermatic (characteristic of Inocybe genus). Taste: mild.
-- **Spore print:** Dark brown to tobacco brown.
+- **[[spore-print]]:** Dark brown to tobacco brown.
 - **Spores:** Smooth, elliptical to bean-shaped (amygdaliform), 8-11 x 5-6 µm. Apex with prominent apical germ pore.
 - **Chemical reaction:** Moderate blueing reaction on bruising, especially at stem base and gill edges.
 

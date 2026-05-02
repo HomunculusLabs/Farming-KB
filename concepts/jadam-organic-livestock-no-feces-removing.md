@@ -87,5 +87,5 @@ This system represents the [[jadam-ultra-low-cost-agriculture]] philosophy appli
 - [[jadam-livestock-no-feces-removing]]
 - [[jadam-microorganism-solution-jms]]
 - [[jadam-ultra-low-cost-agriculture]]
-- [[jadam-fertilizer-program]]
+- [[ultra-low-jadam-fertilizer-program]]
 - [[jadam-natural-farming-philosophy]]

@@ -132,7 +132,7 @@ Psilocybin and LSD are Schedule I substances in many jurisdictions. Possession, 
 
 ## Related Topics
 
-- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
+- [[psychedelic-mushroom-set-and-setting]] for the [[set-and-setting]] framework
 - [[psychedelic-integration-practices]] for post-experience care
 - [[psilocybin-mushroom-identification-guide]] for mushroom identification safety
 - [[psychedelic-integration-guide]] for detailed integration guidance

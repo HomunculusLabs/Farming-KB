@@ -142,5 +142,5 @@ Timing and sequencing are critical for food forest establishment:
 
 - [[query-how-to-start-growing-mushrooms-at-home]] Questions
 
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]

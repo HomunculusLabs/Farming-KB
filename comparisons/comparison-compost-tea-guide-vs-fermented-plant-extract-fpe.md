@@ -3,7 +3,8 @@ title: "Compost Tea vs Fermented Plant Extract"
 tags: [comparison, liquid-fertility, soil-biology, organic-growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # Compost Tea vs Fermented Plant Extract
@@ -142,7 +143,7 @@ single liquid amendment.
 ## See Also
 
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
-- [[comparison-foliar-feeding-vs-compost-tea]]
+- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[comparison-fpj-vs-ffj]]
 - [[comparison-fish-aminos-vs-vermicompost-tea]]
 - [[natural-farming-methods-comparison]]

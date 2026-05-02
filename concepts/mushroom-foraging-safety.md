@@ -11,8 +11,6 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]]s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
 
-
-
 ## The Golden Rules
 
 1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out.
@@ -20,8 +18,6 @@ Mushroom foraging is rewarding but carries genuine risks. Several mushroom speci
 3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, spore print color, and bruising reactions.
 4. **When trying a new edible species for the first time, eat only a small amount and wait 24 hours.** Some people have individual sensitivities.
 5. **Keep a voucher specimen** of every mushroom you eat, in case identification needs to be confirmed later.
-
-
 
 ## Deadly Species
 
@@ -39,8 +35,6 @@ A small brown mushroom that grows on wood -- the same habitat as many edible spe
 - **Conocybe filaris**: Small lawn mushroom containing amatoxins
 - **Amanita muscaria**: Fly agaric -- rarely fatal but causes severe CNS effects (ibotenic acid, muscimol)
 
-
-
 ## Deadly Lookalikes
 
 | Edible Species | Deadly Lookalike | Key Differences |
@@ -49,8 +43,6 @@ A small brown mushroom that grows on wood -- the same habitat as many edible spe
 | Honey mushroom (Armillaria mellea) | Deadly galerina (G. marginata) | Galerina has a brown spore print; Armillaria has white spores |
 | Caesar's mushroom (Amanita caesarea) | Death cap | Careful attention to volva color, gill color, and spore print needed |
 | Chanterelle (Cantharellus cibarius) | Jack-o'-lantern (Omphalotus olearius) | Jack-o'-lantern has true gills; chanterelles have forked ridges |
-
-
 
 ## Spore Prints
 
@@ -61,8 +53,6 @@ Taking a spore print is one of the most important identification tools. Place th
 - Rust-brown: Armillaria (honey mushroom)
 - Cream to yellow: Chanterelles
 - Dark purple-brown to black: Psilocybe, Agaricus
-
-
 
 ## Identification Checklist
 
@@ -76,8 +66,6 @@ A proper identification considers ALL of these features:
 - Bruising or color change when cut
 - Odor
 - Taste (spit out -- do not swallow unidentified mushrooms)
-
-
 
 ## See Also
 

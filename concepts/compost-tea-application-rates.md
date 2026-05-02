@@ -101,7 +101,7 @@ Per Ingham's field data: "In grains, increases from 80 bu/ac to 140 bu/ac, if yo
 ## See Also
 
 - [[compost-tea-brewing-methods]]
-- [[soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-assessment-methods]]
 - [[mycorrhizal-inoculation-techniques]]
 - [[aact-compost-quality-standards-ingham]]
 

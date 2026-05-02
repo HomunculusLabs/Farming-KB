@@ -115,7 +115,7 @@ The combination creates a truly closed-loop water cycle on the homestead.
 
 ## See Also
 
-- [[comparison-greywater-vs-rainwater-detailed]]
+- comparison greywater vs rainwater harvesting
 
 - [[comparison-rainwater-vs-greywater]]
 

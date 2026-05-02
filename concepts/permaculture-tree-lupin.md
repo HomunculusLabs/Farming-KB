@@ -101,7 +101,7 @@ See [[permaculture-plant-propagation-guide]] and [[permaculture-seed-saving-netw
 
 - Works well in succession-in-permaculture|successional plantings as an early seral stage component
 
-- Pairs well with other nitrogen fixers in [[permaculture-designers-manual-nitrogen-fixing-trees]] systems
+- Pairs well with other nitrogen fixers in [[nitrogen-fixing-trees]] systems
 
 Tree lupin is a key tool for [[permaculture-companion-planting]] strategies, providing pollinator support, soil improvement, and nurse crop functions simultaneously.
 

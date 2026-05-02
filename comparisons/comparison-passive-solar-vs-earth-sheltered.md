@@ -3,12 +3,13 @@ title: Passive Solar Design vs Earth-Sheltered Structures
 tags: [natural-building, energy-efficiency, permaculture, sustainable-housing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Passive Solar Design vs Earth-Sheltered Structures
 
-Both [[williams-pdc-passive-solar-design]] and [[earth-sheltered-structures-permaculture]] aim to dramatically reduce or eliminate mechanical heating and cooling by harnessing natural energy flows. They represent two of the most effective strategies for low-energy, climate-responsive building, but they achieve thermal comfort through fundamentally different mechanisms: solar gain versus earth coupling. Understanding both approaches allows designers to select the right tool for their climate, site, and budget — or combine them for maximum resilience.
+Both [[passive-solar-design]] and [[earth-sheltered-structures-permaculture]] aim to dramatically reduce or eliminate mechanical heating and cooling by harnessing natural energy flows. They represent two of the most effective strategies for low-energy, climate-responsive building, but they achieve thermal comfort through fundamentally different mechanisms: solar gain versus earth coupling. Understanding both approaches allows designers to select the right tool for their climate, site, and budget — or combine them for maximum resilience.
 
 ## Core Mechanism
 
@@ -111,7 +112,7 @@ The bottom line: passive solar is the more versatile and accessible starting poi
 
 - [[greenhouse-growing]]
 - [[cob-oven-construction]]
-- [[comparison-cob-vs-straw-bale-construction]]
+- [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[natural-building-overview]]
 - [[underground-greenhouse-walipini]]
 - [[rocket-stove-design]] for supplemental heating

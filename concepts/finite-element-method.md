@@ -18,7 +18,6 @@ The element equations are assembled into a large sparse algebraic system whose s
 
 FEM is most closely associated with structural analysis, but the same mathematical idea is used in [[heat-transfer-mechanisms]], fluid dynamics, electromagnetics, acoustics, groundwater flow, and reaction-diffusion problems.
 
-
 ## Core Idea
 A continuous body is first represented by a mesh of elements connected at nodes.
 
@@ -44,7 +43,6 @@ This step is not just mathematical decoration; it is what permits piecewise poly
 Boundary terms created by integration by parts naturally incorporate forces, fluxes, tractions, and other Neumann boundary conditions.
 
 The Galerkin version chooses the same functions for interpolation and testing, producing symmetric matrices for many self-adjoint problems.
-
 
 The weak-form viewpoint also explains why mesh quality, approximation order, and boundary-condition representation matter as much as raw computing power.
 
@@ -83,7 +81,6 @@ Distorted, highly skewed, or poorly shaped elements can produce inaccurate gradi
 
 Convergence studies refine the mesh or increase polynomial order until key outputs change by an acceptably small amount.
 
-
 Singularities require special care: a sharp re-entrant corner may make peak stress grow without bound as the mesh is refined, while integrated quantities still converge.
 
 Adaptive methods estimate error after a solve and automatically improve the mesh where the solution needs more resolution.
@@ -118,7 +115,6 @@ In thermodynamics and heat transfer, FEM estimates conduction paths, heat sinks,
 
 In biomechanics, FEM models bones, implants, soft tissues, dental structures, and prosthetic devices where experiments may be difficult or invasive.
 
-
 ## Common Pitfalls
 The most common error is treating FEM as an automatic truth machine.
 
@@ -133,7 +129,6 @@ Contact, plasticity, incompressibility, and thin bending problems often need ele
 Verification checks the mathematics and numerical implementation, while validation checks whether the model represents real physical behavior.
 
 Good analysts document assumptions, perform sensitivity studies, and compare with hand calculations or experiments wherever possible.
-
 
 ## See Also
 - [[tribology-friction-wear-lubrication]]

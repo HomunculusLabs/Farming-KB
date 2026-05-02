@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-psilocybin-mushroom-image-guide.m
 
 # Psilocybe cubensis Cultivation
 
-Psilocybe cubensis is the most commonly cultivated psilocybin mushroom species
+Psilocybe cubensis is the most commonly cultivated [[psilocybin-mushroom]] species
 due to its relatively fast growth cycle, moderate environmental requirements,
 and tolerance of a range of cultivation conditions. Cultivation methods range
 from simple amateur techniques to sophisticated commercial operations. The

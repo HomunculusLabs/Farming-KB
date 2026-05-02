@@ -55,7 +55,6 @@ They can be fed live to poultry, fish, and reptiles, or dried and ground into me
 The larvae also contain beneficial calcium and other minerals that contribute to animal health and bone development.
 For small-scale operations, feeding live larvae to backyard chickens is the simplest and most rewarding approach, as chickens will enthusiastically consume them.
 
-
 Black soldier fly larvae go through five instar stages before reaching maturity, with the greatest food consumption occurring during the final instar stages.
 Under optimal conditions of warmth and adequate food supply, the entire larval development from egg to prepupae takes approximately two to three weeks.
 Temperature is the most critical environmental factor; below 60 degrees Fahrenheit, larval development slows dramatically and may stop entirely.

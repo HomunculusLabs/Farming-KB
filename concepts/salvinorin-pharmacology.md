@@ -11,7 +11,7 @@ tags: [pharmacology]
 # Salvinorin Pharmacology
 
 Salvinorin A is the principal psychoactive compound of
-[[salvia-divinorum-entity]], the diviner's sage used by the Mazatec Indians
+[[salvia-divinorum]], the diviner's sage used by the Mazatec Indians
 of Oaxaca, Mexico. Salvinorin A is a neoclerodane diterpenoid and
 represents a unique class of naturally occurring psychoactive
 substances. It is the most potent naturally occurring hallucinogen

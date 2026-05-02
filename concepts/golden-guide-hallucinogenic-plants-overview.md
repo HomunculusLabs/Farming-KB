@@ -122,7 +122,7 @@ Schultes notes that hallucinogenic compounds are so prevalent in some families (
 - [[psilocybin-mushroom-biology-chemistry]]
 - [[psilocybin-compound-profile]]
 - [[morning-glory-entheogens]]
-- [[salvia-divinorum-entity]]
+- [[salvia-divinorum]]
 - [[datura-stramonium]]
 - [[belladonna-plant]]
 - [[henbane-plant]]

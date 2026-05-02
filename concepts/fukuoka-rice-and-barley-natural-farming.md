@@ -7,9 +7,6 @@ tags: [natural-farming, no-till, rice, barley, fukuoka, clover-cover, straw-mulc
 sources: [raw/particles/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 ---
 
-
-
-
 ## Fukuoka's Natural Farming of Rice and Barley
 
 Masanobu Fukuoka developed a revolutionary no-till rice and barley cultivation method he called "direct-seeded, no-tillage, winter grain/rice succession in a clover cover." This system eliminates ploughing, chemical fertilizers, pesticides, and most of the labor traditionally associated with rice production, while achieving yields of approximately 22 bushels of rice per quarter-acre.
@@ -63,9 +60,6 @@ Fukuoka reports yields of approximately 590 kg (1,300 pounds) of winter grain an
 - Transition from conventional to natural farming may involve temporary yield reductions
 - Fukuoka acknowledges that "natural farming will never be perfected" — it requires constant observation and responsiveness to local conditions
 
-
-
-
 ## See Also
 
 - [[fukuoka-natural-farming-method]]
@@ -75,9 +69,6 @@ Fukuoka reports yields of approximately 590 kg (1,300 pounds) of winter grain an
 - [[fukuoka-soil-building-method]]
 - [[natural-farming-fukuoka]]
 - [[permaculture-design-principles-beginners]]
-
-
-
 
 ## Related
 

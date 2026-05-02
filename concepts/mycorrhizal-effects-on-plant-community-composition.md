@@ -88,7 +88,7 @@ Global climate change may alter mycorrhizal effects on plant community compositi
 
 ## See Also
 
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[ectomycorrhizal-ecology]]
 - [[ericoid-mycorrhiza-heathland-ecosystems]]

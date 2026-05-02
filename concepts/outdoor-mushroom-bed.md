@@ -120,7 +120,7 @@ Outdoor beds fruit in response to natural environmental cues:
 - **Compost areas**: Shaggy mane and blewit grow near compost piles
 - [[mycofiltration-overview]]: Wine cap beds filter runoff from livestock areas
 - [[food-forest-design]]: Incorporate mushroom beds in the ground cover layer
-- [[hugelkultur-guide]]: Inoculate hugelkultur mounds with wood-decomposing fungi
+- [[hemenway-hugelkultur-guide]]: Inoculate hugelkultur mounds with wood-decomposing fungi
 ## See Also
 - [[outdoor-wood-lover-cultivation]] for specialized outdoor psilocybe beds
 - [[mushroom-cultivation-methods]] for choosing between cultivation approaches

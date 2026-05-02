@@ -122,7 +122,7 @@ any wild mushroom without expert guidance.
 - [[rig-veda-soma-hymns-amanita-muscaria]]
 - [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
 
-- [[mycotoxins]]]([[mycotoxins]].md)
+- [[mycotoxins]]([[mycotoxins]].md)
 - [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
 - [Insect-Fungi Interactions]([[insect-fungi-interactions]].md)
 - [Phallus Impudicus (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)

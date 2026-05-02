@@ -12,7 +12,7 @@ Water-soluble mineral inputs are a distinctive feature of Dr. Cho's
 Natural Farming. By converting normally insoluble minerals into
 plant-available forms through acid extraction, NF makes calcium,
 potassium, phosphorus, and other minerals readily absorbable. The two
-most important are [[knf-water-soluble-calcium-wsca]]
+most important are [[water-soluble-calcium-wca]]
 (WS-Ca) and [[knf-water-soluble-potassium-detailed]] (WS-K), both corresponding to key stages of the
 [[knf-nutritive-cycle-theory]].
 

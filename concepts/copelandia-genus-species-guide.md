@@ -4,7 +4,9 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 # Copelandia Genus Species Guide
 

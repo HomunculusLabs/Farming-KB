@@ -78,7 +78,7 @@ masked in the F1 but reappears in the F2.
 Plants with two identical alleles for a trait are homozygous (e.g., PP
 or pp). Plants with two different alleles are heterozygous (e.g., Pp).
 Pure-breeding (true-breeding) lines are homozygous at most loci. See
-[[cannabis-genetics-mendelian-breeding]] and
+[[clarke-marijuana-botany-genetics-breeding]] and
 [[cannabis-hardy-weinberg-equilibrium]].
 
 ## The Five Components of a Breeding Program

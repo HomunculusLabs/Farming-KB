@@ -3,7 +3,8 @@ title: "How to Use Neem Oil for Cannabis Pest Control"
 tags: [query, cannabis, pest-control, organic, neem-oil]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Use Neem Oil for Cannabis Pest Control

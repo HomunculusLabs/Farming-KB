@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-20
 type: comparison
 tags: [psilocybin, mushrooms]
-sources: []
+sources:
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 
 # Psilocybin vs Other Psychedelics

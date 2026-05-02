@@ -34,7 +34,7 @@ accounted for by differences between C3 and C4 plants.
 ## The Saprotrophic-Mycorrhizal Divide
 
 One of the most significant findings from stable isotope studies is the
-consistent difference between ectomycorrhizal (ECM) and saprotrophic fungi in
+consistent difference between ectomycorrhizal (ECM) and [[saprotrophic-fungi]] in
 both 15N and 13C signatures. ECM fungi are enriched in 15N compared with
 both their host plants and saprotrophic fungi. Similarly, ECM fungi are more
 depleted in 13C than saprotrophic fungi.
@@ -139,7 +139,7 @@ also been used to indicate the importance of ECM fungi in nitrogen cycling
 and in supplying host plants with nitrogen derived from organic sources.
 
 The abundance of 13C has been determined in single spores of the arbuscular
-mycorrhizal fungus Gigaspora marginata, using the widely different delta 13C
+mycorrhizal fungus [[gigaspora-marginata]], using the widely different delta 13C
 of C3 and C4 plants to show that spore delta 13C decreased linearly from the
 C4 plant towards the proximity of the C3 plant in dual cultures.
 

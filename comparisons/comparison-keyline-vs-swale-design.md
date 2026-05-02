@@ -3,7 +3,8 @@ title: "Keyline vs Swale Design"
 tags: [comparison, permaculture, water-management, earthworks, erosion-control]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Keyline vs Swale Design
@@ -119,7 +120,7 @@ full moisture profile of a property.
 ## See Also
 
 - [[dam-construction]]
-- [[hugelkultur-guide]]
+- [[hemenway-hugelkultur-guide]]
 - [[mollison-designers-terracing-slope-stabilization]]
 - [[water-harvesting-techniques-comparison]]
 - [[natural-farming-guide-contour-farming-strip-cropping]]

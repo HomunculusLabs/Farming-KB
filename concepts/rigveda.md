@@ -69,7 +69,6 @@ john allegro extended his philological methods to the Rig Veda, arguing that key
 
 The identity of Soma was lost within the post-Vedic period in India. By the time of the Brahmanas (c. 800 BCE) and Upanishads, Soma had become a purely ritual symbol, with substitute plants (variously identified as Ephedra, Peganum harmala, or Cannabis) used in ceremonies that no longer produced ecstatic effects. The loss of the original entheogenic knowledge -- whether due to overharvesting of Amanita muscaria in the northwest Indian mountains, religious reform movements, or cultural displacement -- represents one of the most significant transitions in the history of religion: the shift from direct entheogenic experience to symbolic ritual.
 
-
 ## Soma in the Rigveda
 
 The Soma cult occupies a central position in the Rigveda — entire books (the ninth Mandala consists almost entirely of Soma hymns) are dedicated to the preparation, consumption, and effects of the sacred Soma beverage. The hymns describe Soma as a golden-haired plant brought from the mountains, pressed between stones to release its juice, mixed with milk and barley, and consumed by priests to achieve divine visions. The effects described include heightened perception, feelings of immortality, ecstatic speech, and direct communication with the gods. These descriptions closely parallel the effects of known entheogenic mushrooms, particularly Amanita muscaria, which [[allegro-soma-mushroom-thesis]] and [[soma-and-the-sacred-mushroom-debate]] have argued is the original Soma plant.

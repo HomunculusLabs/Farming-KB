@@ -130,6 +130,6 @@ cultures.
 
 - [[oyster-mushroom-contamination-prevention]]
 
-- [[mushroom-substrate-preparation-sterilization]]]
+- [[mushroom-substrate-preparation-sterilization]]
 - [mushroom-[[spawn-grain-preparation]]-and-inoculation]
 - [[mushroom-fruiting-chamber-designs]]-and-parameters]

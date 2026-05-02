@@ -110,4 +110,4 @@ usually related to moisture, pH, or food quality.
 - [[query-how-do-i-start-a-medicinal-herb-garden]]
 
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]

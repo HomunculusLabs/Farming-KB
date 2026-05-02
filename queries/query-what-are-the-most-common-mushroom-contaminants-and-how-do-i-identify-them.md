@@ -3,7 +3,9 @@ title: "What Are the Most Common Mushroom Contaminants and How Do I Identify The
 tags: [query, mushroom-cultivation, contamination, identification, sterile-technique]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 # What Are the Most Common Mushroom Contaminants and How Do I Identify Them?
 ## Short Answer

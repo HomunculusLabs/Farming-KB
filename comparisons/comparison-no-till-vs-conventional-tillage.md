@@ -143,5 +143,3 @@ absolute prohibition of all mechanical contact.
  [[soil-food-web]]
  [[comparison-sheet-mulching-vs-double-digging]]
  [[soil-compaction-solutions]]
-
-

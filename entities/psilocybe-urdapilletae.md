@@ -9,7 +9,7 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe urdapilletae
 
-**Psilocybe urdapilletae** is a rare psilocybin mushroom in the family Hymenogastraceae, described from the highlands of Jalisco state in western Mexico. The species was named by gastón-guzmán in honor of a local guide who assisted with mycological fieldwork in the region. It is classified in Psilocybe section Aztecorum, sharing morphological and ecological characteristics with [[psilocybe-aztecorum-entity]] and [[psilocybe-pseudoaztecorum]] of central Mexico.
+**Psilocybe urdapilletae** is a rare psilocybin mushroom in the family Hymenogastraceae, described from the highlands of Jalisco state in western Mexico. The species was named by gastón-guzmán in honor of a local guide who assisted with mycological fieldwork in the region. It is classified in Psilocybe section Aztecorum, sharing morphological and ecological characteristics with [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-pseudoaztecorum]] of central Mexico.
 
 ## Taxonomy
 
@@ -17,7 +17,7 @@ psilocybe urdapilletae was described by Guzmán based on collections from the Si
 
 ## Morphology
 
-The pileus measures 10–30 mm in diameter, convex to broadly convex, sometimes with a slight depression at the center with age. The surface is hygrophanous, dark brown to chestnut brown when moist, drying to a pale buff, cream, or light tan color. It is smooth and slightly viscid when wet, with a margin that may be slightly translucent-striate when fresh. The cap flesh is thin, whitish, and develops a noticeable blue to blue-green bruising when cut or handled. The bluing reaction is described as moderate to strong, comparable to [[psilocybe-aztecorum-entity]].
+The pileus measures 10–30 mm in diameter, convex to broadly convex, sometimes with a slight depression at the center with age. The surface is hygrophanous, dark brown to chestnut brown when moist, drying to a pale buff, cream, or light tan color. It is smooth and slightly viscid when wet, with a margin that may be slightly translucent-striate when fresh. The cap flesh is thin, whitish, and develops a noticeable blue to blue-green bruising when cut or handled. The bluing reaction is described as moderate to strong, comparable to [[psilocybe-aztecorum-entity-the-mushroom-cultivator]].
 
 The gills are adnate to slightly adnexed, moderately close to subdistant, and narrow. They are grayish with a lilaceous or purplish tint when young, becoming dark purplish brown to blackish brown as spores mature. The stipe is 40–80 mm long and 2–3.5 mm thick, cylindrical and equal, sometimes slightly thickened at the base. It is hollow, whitish, covered with fine appressed fibrils that may form a subtle silky sheen. A fragile partial veil may leave a temporary annular zone near the apex. The stipe bruises blue prominently, particularly at the base where the reaction is often strongest.
 
@@ -35,7 +35,7 @@ Limited chemical analyses have confirmed the presence of [[psilocybin]] and [[ps
 
 ## Molecular Phylogeny
 
-Molecular phylogenetic data for psilocybe urdapilletae remain limited due to the scarcity of available collections and the difficulty of obtaining fresh material from its remote high-elevation habitat. The few ITS and LSU sequences that have been deposited in public databases place the species within the broader Psilocybe clade in a position consistent with section Aztecorum membership. Preliminary phylogenetic analyses suggest that psilocybe urdapilletae is most closely related to [[psilocybe-aztecorum-entity]] and [[psilocybe-pseudoaztecorum]], forming a Mesoamerican lineage within the section that is distinct from the North American [[psilocybe-weilii]] complex. More comprehensive sampling across the Sierra de Manantlán and adjacent mountain ranges would help resolve the species' phylogenetic relationships and assess whether additional cryptic species exist within the section in western Mexico.
+Molecular phylogenetic data for psilocybe urdapilletae remain limited due to the scarcity of available collections and the difficulty of obtaining fresh material from its remote high-elevation habitat. The few ITS and LSU sequences that have been deposited in public databases place the species within the broader Psilocybe clade in a position consistent with section Aztecorum membership. Preliminary phylogenetic analyses suggest that psilocybe urdapilletae is most closely related to [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-pseudoaztecorum]], forming a Mesoamerican lineage within the section that is distinct from the North American [[psilocybe-weilii]] complex. More comprehensive sampling across the Sierra de Manantlán and adjacent mountain ranges would help resolve the species' phylogenetic relationships and assess whether additional cryptic species exist within the section in western Mexico.
 
 ## Ecology
 
@@ -43,7 +43,7 @@ As a saprotrophic species of high-elevation cloud forests and pine-oak woodlands
 
 ## Cultivation
 
-There are no documented attempts to cultivate psilocybe urdapilletae, and the species' restricted availability makes it an unlikely candidate for formal cultivation efforts. If fresh specimens were obtainable, cultivation methods similar to those used for other section Aztecorum species — including [[psilocybe-aztecorum-entity]] and [[psilocybe-pseudoaztecorum]] — would likely be applicable. These species generally fruit on enriched soil-based substrates, pasteurized straw, or composted materials under conditions of high humidity and moderate temperatures. The primary obstacle to cultivation is the difficulty of obtaining viable spore prints or tissue cultures from fresh material collected in remote field locations.
+There are no documented attempts to cultivate psilocybe urdapilletae, and the species' restricted availability makes it an unlikely candidate for formal cultivation efforts. If fresh specimens were obtainable, cultivation methods similar to those used for other section Aztecorum species — including [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] and [[psilocybe-pseudoaztecorum]] — would likely be applicable. These species generally fruit on enriched soil-based substrates, pasteurized straw, or composted materials under conditions of high humidity and moderate temperatures. The primary obstacle to cultivation is the difficulty of obtaining viable spore prints or tissue cultures from fresh material collected in remote field locations.
 
 ## Conservation Status
 
@@ -55,7 +55,7 @@ There are no documented indigenous or traditional uses of psilocybe urdapilletae
 
 ## Similar Species
 
-[[psilocybe-aztecorum-entity]] of central Mexico is the closest morphological match, but can be separated geographically (Jalisco versus the states of Mexico, Puebla, and Tlaxcala) and by subtle differences in spore dimensions and cheilocystidia shape. [[psilocybe-pseudoaztecorum]] has smaller spores and a weaker bluing reaction. [[psilocybe-weilii]] from the southeastern United States is similar in gross morphology but has a disjunct distribution and distinct molecular signature. Non-psychoactive Mycena and Marasmius species of the same forest habitats lack bluing reactions and have different spore characteristics.
+[[psilocybe-aztecorum-entity-the-mushroom-cultivator]] of central Mexico is the closest morphological match, but can be separated geographically (Jalisco versus the states of Mexico, Puebla, and Tlaxcala) and by subtle differences in spore dimensions and cheilocystidia shape. [[psilocybe-pseudoaztecorum]] has smaller spores and a weaker bluing reaction. [[psilocybe-weilii]] from the southeastern United States is similar in gross morphology but has a disjunct distribution and distinct molecular signature. Non-psychoactive Mycena and Marasmius species of the same forest habitats lack bluing reactions and have different spore characteristics.
 
 ## Identification Notes
 
@@ -66,13 +66,13 @@ Field identification of psilocybe urdapilletae is challenging due to its rarity,
 - Slender, hollow stipe with fine appressed fibrils
 - Dark purplish brown spore print
 
-The bluing reaction is described as moderate to strong, which helps distinguish it from [[psilocybe-pseudoaztecorum]] with its weaker bruising. However, the difference in bruising intensity can be subtle and is best assessed on fresh specimens. The geographic restriction to Jalisco state is a useful, though not definitive, character — a psilocybin mushroom matching the morphological description found in the Sierra de Manantlán is more likely to be this species than one found in the Valley of Mexico, where [[psilocybe-aztecorum-entity]] predominates. Microscopic examination of spore dimensions (7–9 × 4.5–6 µm) and cheilocystidia morphology is necessary for definitive identification.
+The bluing reaction is described as moderate to strong, which helps distinguish it from [[psilocybe-pseudoaztecorum]] with its weaker bruising. However, the difference in bruising intensity can be subtle and is best assessed on fresh specimens. The geographic restriction to Jalisco state is a useful, though not definitive, character — a psilocybin mushroom matching the morphological description found in the Sierra de Manantlán is more likely to be this species than one found in the Valley of Mexico, where [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] predominates. Microscopic examination of spore dimensions (7–9 × 4.5–6 µm) and cheilocystidia morphology is necessary for definitive identification.
 ## Seasonality
 
 The species fruits during the rainy season from July through September in the Sierra de Manantlán. Peak fruiting typically coincides with the wettest months of August and September, when consistent precipitation and cloud cover maintain high humidity levels in the cloud forest habitat. The relatively short fruiting window (approximately three months) and the species' restriction to remote high-elevation sites make it particularly difficult to encounter. Successful collection requires careful timing with seasonal precipitation patterns and willingness to access rugged, remote terrain.
 ## See Also
 
-- [[psilocybe-aztecorum-entity]] — type species of section Aztecorum
+- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] — type species of section Aztecorum
 - [[psilocybe-pseudoaztecorum]] — closely related species of central Mexico
 - [[psilocybe-weilii]] — North American species with similar morphology
 - gastón-guzmán — describing authority for the species

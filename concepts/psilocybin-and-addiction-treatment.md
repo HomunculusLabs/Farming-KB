@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [psilocybin, mushrooms]
-sources: []
+sources:
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 # Psilocybin and Addiction Treatment
 
@@ -69,7 +70,6 @@ The use of psychoactive plants to treat substance dependence has deep roots in i
 
 Psilocybin's safety profile -- low toxicity, absence of physical dependence, and minimal side effects compared to existing addiction treatments -- makes it an attractive candidate for therapeutic development. However, its Schedule I status in many jurisdictions has historically limited research access. The recent "psychedelic renaissance" has seen a relaxation of regulatory barriers, with psilocybin-assisted therapy for depression receiving breakthrough therapy designation from the FDA, opening the door for addiction treatment trials.
 
-
 ## Neuroplasticity and Behavioral Change
 
 The therapeutic mechanism of psilocybin in addiction treatment is increasingly understood through the lens of neuroplasticity. Functional MRI studies have shown that psilocybin dramatically reduces activity in the default mode network (DMN) — the brain region associated with self-referential thinking, rumination, and rigid behavioral patterns. This DMN disruption correlates with the subjective experience of ego dissolution and is accompanied by increased connectivity between brain regions that normally do not communicate. Research by Robin Carhart-Harris at Imperial College London has demonstrated that this period of heightened plasticity — lasting approximately 2-3 weeks after a single psilocybin session — represents a window during which deeply entrenched patterns of thought and behavior become more malleable, allowing new perspectives and behavioral choices to take root.
@@ -80,7 +80,7 @@ Contemporary clinical protocols for psilocybin-assisted addiction treatment typi
 
 ## Related
 
-- [[powell-psilocybin-addiction-treatment]]
+- psilocybin and addiction treatment
 
 - [[philosophical-implications-of-psychedelics]] -- the informational framework
 - [[psilocybin-and-mystical-experience]] -- mystical experiences in therapy

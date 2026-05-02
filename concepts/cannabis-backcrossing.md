@@ -120,7 +120,7 @@ Despite its popularity, backcrossing has specific drawbacks:
 
 - [[oner-cannabis-breeding-fundamentals]]
 - cannabis-hybridization|Hybridization
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-true-breeding-ibl-strains]]
 - [[cannabis-genetic-stability]]
 - [[cannabis-seed-selection-and-strain-types]]

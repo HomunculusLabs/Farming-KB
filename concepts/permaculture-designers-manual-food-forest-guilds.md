@@ -96,11 +96,11 @@ Every designer and every gardener can plan such guilds for specific target speci
 
 - [[permaculture-designers-manual-chicken-tractors]]
 - [[permaculture-designers-manual-windbreak-species]]
-- [[permaculture-designers-manual-edge-effect-design]]
+- [[mollison-designers-edge-effect-design]]
 - [[permaculture-designers-manual-crop-pollination]]
 - [[permaculture-designers-manual-rabbit-housing]]
 
 ## Related
 
 - [[permaculture-designers-manual-berry-fruits]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]

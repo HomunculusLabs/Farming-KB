@@ -25,7 +25,7 @@ work the fields without pulling a plow or swinging a hoe? Let the grasses plow
 the topsoil and the trees work the deeper layers.
 
 Farmers usually plow the soil to a depth of about four to eight inches, whereas
-the roots of grasses and green manure crops work the soil down to twelve inches,
+the roots of grasses and [[green-manure-crops]] work the soil down to twelve inches,
 fifteen inches, or more. When these roots reach down deep into the earth, air
 and water penetrate into the soil together with the roots. As these wither and
 die, many types of microorganisms proliferate. These organisms die and are

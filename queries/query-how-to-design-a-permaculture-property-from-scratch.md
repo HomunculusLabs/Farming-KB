@@ -3,7 +3,8 @@ title: "How to Design a Permaculture Property from Scratch"
 tags: [query, permaculture, design, property-planning, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # How to Design a Permaculture Property from Scratch
@@ -99,5 +100,5 @@ Design is an iterative process, not a one-time event. Your plan will evolve as y
 
 - [[query-how-do-i-create-a-permaculture-zone-plan-for-my-property]] Questions
 - [[query-how-to-start-a-food-forest]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-does-keyline-design-work-in-permaculture]]

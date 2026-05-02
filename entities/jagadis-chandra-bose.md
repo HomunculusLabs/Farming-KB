@@ -130,4 +130,3 @@ treatment in the colonial academy, inspiring generations of Indian scientists.
 - [[plant-electrophysiology]] — Bose's foundational work on plant electrical signaling
 - [[stress-strain-and-elasticity]] — related materials science concepts Bose studied
 - [[plant-memory-and-learning]] — modern research building on Bose's observations
-

@@ -3,7 +3,9 @@ title: "Spore Print vs Agar Culture"
 tags: [comparison, mycology, mushroom-cultivation, sterile-technique]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 
 # Spore Print vs Agar Culture

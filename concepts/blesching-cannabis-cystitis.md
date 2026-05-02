@@ -112,4 +112,4 @@ coping skills, and emotional release work.
 - [[cannabis-chronic-pain-management]]
 - [[blesching-cannabis-inflammatory-bowel-disease]]
 - [[blesching-endocannabinoid-system-overview]]
-- [[blesching-cannabis-fibromyalgia]]
+- [[cannabis-and-fibromyalgia]]

@@ -10,7 +10,7 @@ sources:
 # Fungal Toxins and Poisonous Mushrooms
 
 The world of fungal toxins is far more complex and medically significant than
-most people realize. While the iconic red-capped Amanita muscaria has become
+most people realize. While the iconic red-capped [[amanita-muscaria]] has become
 the popular image of a poisonous mushroom, the real danger landscape includes
 a diverse array of toxins with widely varying mechanisms, symptoms, and
 timelines.
@@ -77,7 +77,7 @@ a silver spoon) are unreliable and dangerous.
 
 The only safe approach to wild mushroom foraging is absolute certainty of
 identification, achieved through careful study of multiple morphological
-features: cap, gills, stem, ring, volva, spore print color, bruising
+features: cap, gills, stem, ring, volva, [[spore-print]] color, bruising
 reactions, habitat, and association with specific tree species.
 
 ## See Also

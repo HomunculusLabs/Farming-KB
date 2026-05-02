@@ -103,6 +103,6 @@ season.
 ## Related
 
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]] Questions
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-to-choose-the-right-cover-crop]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]

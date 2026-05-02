@@ -123,6 +123,6 @@ potency proportionally.
 
 - [[cervantes-cannabis-tinctures]]
 - [[cervantes-hash-making-extracts]]
-- [[cervantes-harvesting-curing]]
+- [[cannabis-harvesting-and-curing-techniques]]
 - [[cervantes-flushing-pre-harvest]]
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]

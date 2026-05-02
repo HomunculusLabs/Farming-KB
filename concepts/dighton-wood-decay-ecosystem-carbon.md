@@ -139,7 +139,7 @@ rarely adequately quantified in carbon budget models.
 
 ## Ecological Functions Beyond Carbon Cycling
 
-fungal wood decay types mycoremediation singh singh brown rot singh white rot fungi in pesticide and btex bioremediation lignin modifying enzymes bioremediation remediation lignin modifying enzymes bioremediation fungi lignin modifying enzymes fungi lignin degradation enzymes brown rot fungi contribute to ecosystem processes beyond carbon and nutrient
+fungal wood decay types mycoremediation singh singh brown rot singh [[white-rot-fungi-in-pesticide-and-btex-bioremediation]] lignin modifying enzymes bioremediation remediation lignin modifying enzymes bioremediation fungi lignin modifying enzymes fungi lignin degradation enzymes brown rot fungi contribute to ecosystem processes beyond carbon and nutrient
 cycling:
 
 - **Pollutant degradation**: Phanerochaete chrysosporium degrades toxic

@@ -36,7 +36,7 @@ Continuation of [[history-of-mycology-timeline]]. Covers the post-WWII expansion
   on tropical fungi.
 
 - **1955 — Wasson's Mazatec ceremony:**
-  [[r-gordon-wasson]] and Allan Richardson participate in
+  [[gordon-wasson]] and Allan Richardson participate in
   Maria Sabina's velada in Huautla de Jimenez, Oaxaca —
   the first outsiders recorded to do so.
   Wasson's 1957 Life magazine article brought psilocybin mushrooms

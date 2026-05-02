@@ -4,7 +4,10 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Tropical Mushroom Spawn Production Materials

@@ -124,6 +124,6 @@ can improve later flush yields.
 
 ## See Also
 
-- [[mushroom-substrate-preparation-sterilization]]]
+- [[mushroom-substrate-preparation-sterilization]]
 - [mushroom-[[spawn-grain-preparation]]-and-inoculation]
-- [[mushroom-cultivation-contamination-prevention]]]
+- [[mushroom-cultivation-contamination-prevention]]

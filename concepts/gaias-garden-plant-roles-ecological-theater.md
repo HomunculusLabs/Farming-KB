@@ -51,7 +51,7 @@ These plants break down quickly into rich humus:
 
 [[green-manure-cover-crops]] also serve as mulch:
 clovers, vetches, grasses and grains (oats, wheat,
-barley), mustard, crotolaria, and buckwheat. These
+barley), mustard, crotolaria, and [[permaculture-buckwheat]]. These
 can be slashed or mowed several times a season.
 
 ### Woody Mulch Makers
@@ -110,7 +110,7 @@ Nitrogen fixers come in all sizes:
 - **Ground covers**: Clover, vetch
 - **Herbs**: Alfalfa, lupine, cowpeas, fava beans
 - **Shrubs**: Ceanothus, buffaloberry, Elaeagnus,
-  Siberian pea shrub, autumn olive, Russian olive
+  Siberian pea shrub, [[permaculture-autumn-olive]], Russian olive
 - **Trees**: Black locust, alder, [[acacia]], mesquite
 
 ### Key Benefits

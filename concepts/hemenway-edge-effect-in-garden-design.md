@@ -112,7 +112,7 @@ The general pattern is straightforward:
 Encouraging plantings of varying heights is a simple way to increase
 edge. A transition between lawn and trees should be gradual, softened
 with increasingly large perennials and shrubs to increase habitat and
-variety. This principle supports [[hemenway-forest-garden-layers]] by
+variety. This principle supports [[forest-garden-layers]] by
 creating more transitional zones between the canopy, understory, and
 herb layers.
 

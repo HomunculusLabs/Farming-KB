@@ -60,7 +60,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - Normally sold partly composted; contains virtually no nutrients
 - **Best used as mulch only** — digging it in can cause severe nitrogen deficiency (lignin takes a long time to break down, bacteria consume nitrogen in the process)
 - Very expensive; very hard material in virtually unrotted state
-- Excellent mulch for organic weed control
+- Excellent mulch for [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
 - **Coverage:** 2-3in (5-7cm) layer as weed suppressant in ornamental borders
 
 ### Green Compost
@@ -89,7 +89,7 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - **Nutrient content:** Virtually none — acts as a porous habitat for soil microbes
 - **Coverage:** 5-10% by volume mixed into topsoil (do not apply as surface mulch)
 - Extremely porous structure provides refugia for beneficial bacteria, mycorrhizal fungi, and actinomycetes
-- Improves cation exchange capacity (CEC), helping soils retain nutrients that would otherwise leach
+- Improves [[cation-exchange-capacity]] (CEC), helping soils retain nutrients that would otherwise leach
 - Most effective when "charged" — pre-soaked in compost tea, liquid manure, or nutrient solution before application
 - Persists in soil for hundreds to thousands of years (positive carbon sequestration)
 - Particularly beneficial in tropical and highly weathered soils with low organic matter
@@ -111,7 +111,6 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 - **Acidic soils:** Spent mushroom compost (contains chalk) raises pH; avoid peat-based conditioners
 - **Alkaline soils:** Pine needle mulch, leaf mold from oaks, and elemental sulfur are more appropriate than alkaline conditioners
 - **General rule:** Dig conditioners in during autumn to allow winter weather to incorporate them; apply mulches in spring after soil warms
-
 
 ## Related
 

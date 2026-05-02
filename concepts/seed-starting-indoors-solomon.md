@@ -115,7 +115,7 @@ Solomon is strongly critical of commercial seedlings:
 
 The hardened seedling (smaller, wirier, with thickened stems) will outperform the lush nursery seedling within two weeks of transplanting.
 
-See also: [[seed-starting-indoors]], [[seed-starting-and-transplanting]], [[seed-starting-reference]], [[transplanting-techniques-solomon]]
+See also: [[seed-starting-indoors]], [[solomon-seed-starting-transplanting]], [[seed-starting-reference]], [[transplanting-techniques-solomon]]
 - [[solomon-potting-mix-and-seedling-soil-recipe]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[solomon-gardening-when-it-counts-index]]

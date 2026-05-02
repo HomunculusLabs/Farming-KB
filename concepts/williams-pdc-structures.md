@@ -127,7 +127,7 @@ harnessed for microclimate benefit.
 
 ## See Also
 
-- [[williams-pdc-passive-solar-design]]
+- [[passive-solar-design]]
 - [[williams-pdc-rain-water-harvesting]]
 - [[williams-pdc-earthworks]]
 - [[pdc-passive-design-principles]]

@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/arthur-j-mushrooms-and-mankind.md"
 ---
 # Egyptian Mushroom Temple Architecture and Iconography
 

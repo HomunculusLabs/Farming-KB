@@ -17,7 +17,7 @@ updated: 2026-04-18
 
 The chinampa is probably the most efficient culture configuration for natural feeding of fish and water plants in integrated aquaculture-agriculture systems. Originally developed in the Valley of Mexico over 2000 years ago, chinampas were the main source of food for the inhabitants of the entire valley, producing as many as seven different crops in a year, two of which were maize. Mollison extended the concept to include any system of parallel canals and banks developed for growing fish and marginal plants.
 
-Chinampa systems represent one of the most productive polycultures yet devised, combining the best of both soil and water culture in a single integrated system. They are a prime example of [[permaculture-designers-manual-edge-effect-design]] maximization applied to food production.
+Chinampa systems represent one of the most productive polycultures yet devised, combining the best of both soil and water culture in a single integrated system. They are a prime example of [[mollison-designers-edge-effect-design]] maximization applied to food production.
 
 ## Historical Chinampas
 

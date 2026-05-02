@@ -143,7 +143,7 @@ This is the most prized preparation:
 - [[root-crops-growing-guide]]
 - [[field-guide-psilocybin-dosage-extraction-cultivation]]
 - [[mason-jar-preserving-guide]]
-- [[hugelkultur-guide]]
+- [[hemenway-hugelkultur-guide]]
 - [[valerian-growing-guide]] -- often combined with St. John's Wort in
   formulas for anxiety and depression
 - [[lemon-balm-growing-guide]] -- another nervine herb with mood-supporting

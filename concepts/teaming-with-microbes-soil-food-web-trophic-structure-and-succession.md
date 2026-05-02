@@ -147,7 +147,3 @@ Energy enters the soil food web through photosynthesis (Level 1) and
 flows upward through the trophic levels. At each transfer, roughly 90%
 of energy is lost as heat. This means higher trophic levels support
 fewer organisms -- but the critical function of the food web is not
-
-## See Also
-
-- [[crystal-structure-and-crystal-defects]]

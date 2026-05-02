@@ -48,7 +48,7 @@ Cannabis that show anti-inflammatory action."
 Results revealed that all types of cannabinoids as well as non-cannabinoid
 parts of the plant effectively reduce pain from inflammation associated
 with post-surgery patients, rheumatism, rheumatoid arthritis, chronic
-neuropathic pain, and [[blesching-cannabis-fibromyalgia]].
+neuropathic pain, and [[cannabis-and-fibromyalgia]].
 
 ### Study Summary
 
@@ -110,7 +110,7 @@ enhance the therapeutic effects of cannabinoid-based treatments.
 - [[blesching-cannabis-neuropathic-pain]]
 - [[blesching-cannabis-dosing-strategies]]
 - [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-cannabis-fibromyalgia]]
+- [[cannabis-and-fibromyalgia]]
 
 ### Key Takeaways
 

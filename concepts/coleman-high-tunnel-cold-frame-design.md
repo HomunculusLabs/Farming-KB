@@ -9,7 +9,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 # High Tunnel and [[cold-frame-construction]] Design
 
 Eliot Coleman's approach to [[coleman-protected-cultivation]] centers on simple,
-affordable structures that maximize [[williams-pdc-passive-solar-design]] gain while withstanding
+affordable structures that maximize [[passive-solar-design]] gain while withstanding
 harsh winter conditions. His designs prioritize functionality over
 complexity, making season extension accessible to small-scale growers.
 

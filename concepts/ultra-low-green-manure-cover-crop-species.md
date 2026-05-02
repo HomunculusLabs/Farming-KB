@@ -17,7 +17,7 @@ fixation, organic matter addition, and pest disruption.
 
 ## Role in the JADAM System
 
-Cover crops are the foundation of the [[jadam-fertilizer-program]]. The goal
+Cover crops are the foundation of the [[ultra-low-jadam-fertilizer-program]]. The goal
 is to grow enough cover crop biomass to supply 100 percent of base
 fertilizer needs without any external inputs. When combined with
 [[ultra-low-jadam-liquid-fertilizer-making]] made from cover crop

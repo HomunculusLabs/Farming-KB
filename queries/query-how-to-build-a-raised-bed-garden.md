@@ -3,7 +3,8 @@ title: "How to Build a Raised Bed Garden"
 tags: [query, gardening, raised-beds, soil-preparation, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # How to Build a Raised Bed Garden

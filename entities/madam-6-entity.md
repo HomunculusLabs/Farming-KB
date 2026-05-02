@@ -11,7 +11,7 @@ sources:
 
 MADAM-6 is a psychedelic amphetamine that is one of Shulgin's "Classic Ladies," carrying the mythological name THALASSA.
 
-It is documented as entry #84 in PiHKAL by Alexander Shulgin.
+It is documented as entry #84 in PiHKAL by [[alexander-shulgin]].
 
 ## Chemical Identity
 
@@ -117,7 +117,7 @@ The 7-10 hour duration means users should plan for most of a day.
 
 The compound's comfortable profile and minimal body load make it relatively forgiving compared to other psychedelics.
 
-As with all psychedelics, set and setting remain important considerations.
+As with all psychedelics, [[set-and-setting]] remain important considerations.
 
 ## Index
 

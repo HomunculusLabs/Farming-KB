@@ -111,7 +111,7 @@ For areas smaller than 0.1 ha (1/4 acre):
 
 ## See Also
 
-- [[jadam-fertilizer-program]] - Fertilizer program philosophy
+- [[ultra-low-jadam-fertilizer-program]] - Fertilizer program philosophy
 - [[jadam-microorganism-solution-jms]] - JMS production guide
 - [[jadam-liquid-fertilizer]] - JLF production guide
 - [[jadam-phyllite-solution]] - Phyllite solution preparation

@@ -53,7 +53,7 @@ Some fungi can change the oxidation state of metals, altering their toxicity and
 - **Saccharomyces cerevisiae:** Brewer's yeast biomass from the brewing industry is a commercially available biosorbent. Effective for cadmium, lead, and copper at pH 4-6
 
 ### Mycorrhizal Fungi
-- **Arbuscular mycorrhizal fungi (AMF):** While not used directly in bioreactors, AMF play a critical role in metal phytoextraction by hyperaccumulator plants. They can reduce metal toxicity to host plants while enhancing metal uptake into plant tissues for later harvesting
+- **[[arbuscular-mycorrhizal-fungi]] (AMF):** While not used directly in bioreactors, AMF play a critical role in metal phytoextraction by hyperaccumulator plants. They can reduce metal toxicity to host plants while enhancing metal uptake into plant tissues for later harvesting
 - **Ectomycorrhizal fungi:** Some species (Pisolithus tinctorius, Suillus luteus) are highly tolerant of metals and can be used to establish vegetation on contaminated mine tailings
 
 ## Practical Applications

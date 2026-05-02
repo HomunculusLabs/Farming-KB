@@ -3,7 +3,8 @@ title: "How to Choose the Right Grow Light for Cannabis"
 tags: [query, cannabis, lighting, led, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 ---
 
 # How to Choose the Right Grow Light for Cannabis

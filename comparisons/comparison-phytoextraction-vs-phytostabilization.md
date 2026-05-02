@@ -6,19 +6,18 @@ type: comparison
 tags: [cannabis, processing]
 sources: []
 ---
+---
+title: "Phytoextraction vs Phytostabilization"
+tags: [comparison, phytoremediation, soil-remediation, heavy-metals]
+date: 2026-04-25
+updated: 2026-04-25
+sources: []
+---
 
-     1|---
-     2|title: "Phytoextraction vs Phytostabilization"
-     3|tags: [comparison, phytoremediation, soil-remediation, heavy-metals]
-     4|date: 2026-04-25
-     5|updated: 2026-04-25
-     6|sources: []
-     7|---
-     8|
-     9|# Phytoextraction vs Phytostabilization
-    10|
-    11|## Overview
-    12|Phytoextraction and phytostabilization are two phytoremediation
+# Phytoextraction vs Phytostabilization
+
+## Overview
+Phytoextraction and phytostabilization are two phytoremediation
     strategies for contaminated soils, but they pursue fundamentally different
     endpoints. Phytoextraction actively removes contaminants by concentrating
     them in harvestable plant tissues. Phytostabilization immobilizes
@@ -26,11 +25,11 @@ sources: []
     chain without removing them. The choice between removal and containment
     depends on contamination levels, regulatory requirements, site conditions,
     and long-term land use goals.
-    13|
-    14|## Phytoextraction
-    15|[[phytoextraction-mechanisms]]
-    16|
-    17|Phytoextraction uses plants, particularly hyperaccumulators, to absorb
+
+## Phytoextraction
+[[phytoextraction-mechanisms]]
+
+Phytoextraction uses plants, particularly hyperaccumulators, to absorb
     heavy metals from soil and translocate them to above-ground tissues for
     harvest and disposal. The process relies on root exudates that mobilize
     metals from soil particles, membrane transporter proteins (ZIP, NRAMP, and
@@ -39,8 +38,8 @@ sources: []
     known hyperaccumulator species exceed threshold concentrations of 100
     mg/kg for cadmium, 1,000 mg/kg for nickel, cobalt, copper, lead, and
     chromium, and 10,000 mg/kg for zinc and manganese.
-    18|
-    19|Chelator-assisted phytoextraction using EDTA or less-leaching
+
+Chelator-assisted phytoextraction using EDTA or less-leaching
     alternatives like EDDS enhances metal solubility and plant uptake, though
     groundwater contamination risks require careful management. Post-harvest
     biomass disposal options include composting (with mobilization risk),
@@ -49,11 +48,11 @@ sources: []
     metals. The key advantage is permanent contaminant removal from the site,
     potentially achieving regulatory cleanup standards over multiple growing
     seasons.
-    20|
-    21|## Phytostabilization
-    22|[[phytostabilization]]
-    23|
-    24|Phytostabilization uses plants to immobilize contaminants through
+
+## Phytostabilization
+[[phytostabilization]]
+
+Phytostabilization uses plants to immobilize contaminants through
     physical root binding that reduces erosion and improves soil aggregation,
     chemical root exudates that modify pH, redox potential, and cation
     exchange capacity to promote precipitation of insoluble compounds,
@@ -62,8 +61,8 @@ sources: []
     and soil organic matter. The approach is particularly effective for lead,
     which forms insoluble phosphates (pyromorphite) when phosphate amendments
     are added.
-    25|
-    26|Critical soil amendments include lime for pH adjustment, compost and
+
+Critical soil amendments include lime for pH adjustment, compost and
     biosolids for structure and nutrient supply, phosphate amendments for lead
     stabilization, zeolites and clay for cation exchange capacity, biochar for
     metals and organics, and iron and manganese oxides for arsenic and
@@ -72,33 +71,33 @@ sources: []
     matter, microbial communities, and wildlife habitat over time. However,
     contaminants remain on-site permanently, requiring indefinite land use
     restrictions and monitoring.
-    27|
-    28|## Key Differences
-    29|| Aspect | Phytoextraction | Phytostabilization |
-    30||--------|-----------------|---------------------|
-    31|| Goal | Remove contaminants from site | Immobilize contaminants in
+
+## Key Differences
+| Aspect | Phytoextraction | Phytostabilization |
+|--------|-----------------|---------------------|
+| Goal | Remove contaminants from site | Immobilize contaminants in
     place |
-    32|| End State | Progressive cleanup to standards | Perpetual containment
+| End State | Progressive cleanup to standards | Perpetual containment
     with monitoring |
-    33|| Contaminant Location | Concentrated in above-ground tissues | Bound
+| Contaminant Location | Concentrated in above-ground tissues | Bound
     in soil matrix |
-    34|| Soil Conditions Needed | Bioavailable metals for uptake | Amendments
+| Soil Conditions Needed | Bioavailable metals for uptake | Amendments
     to reduce bioavailability |
-    35|| Timeline | Multiple growing seasons (defined endpoint) | Indefinite
+| Timeline | Multiple growing seasons (defined endpoint) | Indefinite
     (open-ended management) |
-    36|| Post-Treatment | Biomass harvesting and disposal required | Long-term
+| Post-Treatment | Biomass harvesting and disposal required | Long-term
     monitoring and maintenance |
-    37|| Regulatory Outcome | Can achieve cleanup standards | Typically
+| Regulatory Outcome | Can achieve cleanup standards | Typically
     results in institutional controls |
-    38|| Cost Factor | Harvesting and disposal costs | Amendment and
+| Cost Factor | Harvesting and disposal costs | Amendment and
     monitoring costs |
-    39|| Land Use After | Unrestricted (if standards met) | Restricted
+| Land Use After | Unrestricted (if standards met) | Restricted
     (institutional controls) |
-    40|| Best Contaminants | Ni, Zn, Cd, As (bioavailable metals) | Pb, Zn,
+| Best Contaminants | Ni, Zn, Cd, As (bioavailable metals) | Pb, Zn,
     Cd, As, Cr (broad applicability) |
-    41|
-    42|## When to Choose Phytoextraction
-    43|Choose phytoextraction when permanent contaminant removal is the
+
+## When to Choose Phytoextraction
+Choose phytoextraction when permanent contaminant removal is the
     regulatory or land-use objective. Phytoextraction is most effective for
     low to moderate contamination levels with bioavailable metals,
     particularly nickel, zinc, cadmium, and arsenic, where well-studied
@@ -107,9 +106,9 @@ sources: []
     mandatory. The potential for phytomining, recovering valuable metals from
     hyperaccumulator biomass, can offset remediation costs for nickel,
     thallium, and gold-contaminated sites.
-    44|
-    45|## When to Choose Phytostabilization
-    46|Choose phytostabilization when contaminant removal is economically
+
+## When to Choose Phytostabilization
+Choose phytostabilization when contaminant removal is economically
     infeasible and the primary goal is risk management. Phytostabilization is
     practical for large areas of low to moderate contamination, mine tailings,
     smelter-impacted soils, and lead-contaminated sites where the cost of
@@ -119,9 +118,9 @@ sources: []
     beyond remediation. Phytostabilization accepts that the land will remain
     under institutional controls but transforms degraded sites into
     functioning ecosystems.
-    47|
-    48|## Hybrid Approaches
-    49|The most effective remediation programs combine both strategies across
+
+## Hybrid Approaches
+The most effective remediation programs combine both strategies across
     a contaminated site. Phytoextraction targets areas with bioavailable
     metals at moderate concentrations where progressive cleanup is achievable.
     Phytostabilization addresses high-concentration zones or areas with low
@@ -130,11 +129,10 @@ sources: []
     some bioavailability in phytoextraction zones while immobilizing metals in
     containment zones. This zoned approach maximizes cleanup where possible
     while ensuring risk management across the entire site.
-    50|
-    51|## See Also
+
+## See Also
 
 - [[comparison-rhizofiltration-vs-phytoextraction]]
-    52|- [[comparison-phytoremediation-vs-mycoremediation]]
-    53|- [[comparison-in-situ-vs-ex-situ-bioremediation]]
-    54|- [[rhizofiltration]]
-    55|
+- [[comparison-phytoremediation-vs-mycoremediation-detail]]
+- [[comparison-in-situ-vs-ex-situ-bioremediation]]
+- [[rhizofiltration]]

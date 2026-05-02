@@ -100,7 +100,6 @@ Brown rot fungi (*Serpula lacrymans*, *Gloeophyllum trabeum*, *Postia placenta*)
 
 In soils, Fe(II)-bearing minerals (pyrite FeS2, siderite FeCO3, magnetite Fe3O4, green rust) generate hydroxyl radicals through Fenton-like reactions with microbially and photochemically produced H2O2. Soil organic matter quinone groups mediate sustained Fe(III)/Fe(II) cycling. In atmospheric chemistry, iron-containing mineral dust in cloud droplets catalyzes Fenton reactions influencing tropospheric oxidative capacity. Acid mine drainage creates intense natural Fenton conditions through simultaneous pyrite-derived Fe2+ and H2O2 production.
 
-
 ## Detection and Measurement of Hydroxyl Radicals
 
 Direct detection of hydroxyl radicals is challenging due to their extremely short lifetime (~1 ns). Common methods include electron spin resonance (ESR) spectroscopy with spin traps such as DMPO (5,5-dimethyl-1-pyrroline N-oxide), which forms stable nitroxide adducts detectable by ESR. Terephthalic acid is used as a fluorescent probe, producing highly fluorescent 2-hydroxyterephthalic acid upon hydroxylation. Benzoic acid hydroxylation to salicylic acid (measured by HPLC) provides quantitative assessment. For biological systems, 8-OHdG measurement in DNA serves as a biomarker of cumulative hydroxyl radical damage. Advanced techniques include muonium spin rotation and ultrafast laser spectroscopy for direct kinetic measurements of the Fenton reaction.
@@ -108,7 +107,6 @@ Direct detection of hydroxyl radicals is challenging due to their extremely shor
 ## Clinical and Pharmacological Relevance
 
 Understanding Fenton chemistry is critical for several clinical scenarios. Iron chelation therapy (deferoxamine, deferasirox) in hemochromatosis works by reducing the labile iron pool available for Fenton reactions. The cardiotoxicity of anthracycline antibiotics (doxorubicin, daunorubicin) is mediated partly through iron-dependent Fenton chemistry in cardiac tissue, and co-administration of dexrazoxane (an iron-chelating prodrug) reduces this toxicity. Acetaminophen (paracetamol) hepatotoxicity involves CYP-mediated bioactivation to NAPQI, which depletes glutathione and leaves cells vulnerable to endogenous Fenton reactions. The therapeutic window of many antioxidants is narrow because, at high concentrations with available transition metals, they can paradoxically promote Fenton chemistry rather than prevent it.
-
 
 ## Detection and Measurement of Hydroxyl Radicals
 

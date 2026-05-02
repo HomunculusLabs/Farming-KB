@@ -35,13 +35,13 @@ lactarius deliciosus produces medium to large basidiocarps with the following di
 - **Gills:** Adnate to slightly decurrent, crowded, and colored similar to the cap (orange to salmon). The gills bruise greenish when damaged.
 - **Stipe:** Cylindrical, slightly tapering at the base, 3 to 8 cm long anspore-printcm thick. The stipe is typically paler than the cap and may develop greenish stains with age or handling.
 - **Flesh:** Firm and whitish to pale orange, turning greenish when exposed or bruised. The flesh has a mild to slightly peppery taste.
-- **Spore print:** Pale cream to pale yellow.
+- **[[spore-print]]:** Pale cream to pale yellow.
 - **Spores:** Ellipsoidal, orectomycorrhizal-fungiulate (net-like) pattern, measuring approximately 7 to 9 by 6 to 7 micrometers.
 - **Habitat:** Growing on the ground in association with coniferous trees, particularly pines.
 
 ## Ecology and Habitat
 
-lactarius deliciosus is an obligate ectomycorrhizal fungi fungus that forms symbiotic associations primarily with coniferous trees. Its main habitat and host associations include:
+lactarius deliciosus is an obligate [[ectomycorrhizal-fungi]] fungus that forms symbiotic associations primarily with coniferous trees. Its main habitat and host associations include:
 
 - Pine forests (Pinus sylvestris, P. pinaster, P. radiata, and other species)
 - Mixed coniferous and deciduous forests

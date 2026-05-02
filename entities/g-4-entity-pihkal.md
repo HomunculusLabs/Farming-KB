@@ -10,17 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #83. 2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE;.
 
-
-
-
-
 ## Chemical Name
 
 2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE;
-
-
-
-
 
 ## Dosage and Duration
 
@@ -29,17 +21,9 @@ PIHKAL entry #83. 2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE;.
 | Dosage | unknown. |
 | Duration | unknown. |
 
-
-
-
-
 ## Qualitative Comments
 
 No qualitative comments available in source.
-
-
-
-
 
 ## Extensions and Commentary
 
@@ -56,10 +40,6 @@ intermediate between G-3 and G-5, both potent compounds. It is
 axiomatic that it too will be a potent thing, and all that now needs
 be done is to complete its synthesis and taste it.
 
-
-
-
-
 ## Synthesis
 
 A solution of
@@ -73,17 +53,9 @@ and air drying to constant weight, 1.33 g of
 1-(2,5-dimethoxy-3,4-(tetramethylene)phenyl)-2-nitropropene as dull
 gold-colored crystals. The mp was 94-94.5 deg C. Anal. (C15H19NO4) C,H.
 
-
-
-
-
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-
-
-
 
 ## See Also
 

@@ -148,4 +148,3 @@ Key distinguishing feature of *A. caesarea*: bright orange-red cap (never olive-
 - Local declines from intensive agriculture, urbanization, and deforestation of oak/chestnut forests
 - May be expanding northward in Central Europe due to climate warming
 - Collection limits (1–3 kg/person/day) enforced in many European jurisdictions; some regions prohibit collection of young buttons to allow spore dispersal
-- Primary threats: habitat loss, overharvesting, air pollution, and soil acidification

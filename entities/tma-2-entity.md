@@ -31,7 +31,7 @@ Effective oral dosage: 15 - 30 mg.
 
 Duration of effects: 6 - 8 hours.
 
-TMA-2 is approximately 6-10 times more potent than mescaline-entity|mescaline on a weight basis.
+TMA-2 is approximately 6-10 times more potent than [[mescaline-entity]]|mescaline on a weight basis.
 
 The compound has a relatively rapid onset compared to longer-acting DOX compounds.
 
@@ -61,7 +61,7 @@ The discovery that simply adding a methyl group to the 4-position of TMA-2 produ
 
 This finding established the 2,4,5-trimethoxy-4-alkyl pattern as the most productive substitution pattern for psychedelic amphetamines.
 
-The entire DOX family (dom-entity|DOM, dob-entity|DOB, doi-entity|DOI, doc-entity|DOC) and the 2C family are descendants of this TMA-2 research.
+The entire DOX family (dom-entity|DOM, dob-entity|DOB, doi-entity|DOI, [[doc-entity]]|DOC) and the 2C family are descendants of this TMA-2 research.
 
 ## The Three TMA Isomers
 

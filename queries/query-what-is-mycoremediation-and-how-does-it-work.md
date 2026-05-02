@@ -3,7 +3,8 @@ title: "What Is Mycoremediation and How Does It Work"
 tags: [query, mycoremediation, bioremediation, fungi, environmental-restoration]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # What Is Mycoremediation and How Does It Work
 ## Short Answer
@@ -81,7 +82,7 @@ The [[bioremediation-fungal-vs-bacterial]] resource provides a detailed comparis
 - **Fungi** excel at degrading complex, high-molecular-weight compounds due to their extracellular enzymatic capabilities and hyphal penetration.
 - **Bacteria** are faster-growing and more efficient at mineralizing simpler intermediate compounds once initial degradation has occurred.
 - **Combined approaches** leverage the strengths of both kingdoms for more complete and faster remediation outcomes.
-The [[comparison-phytoremediation-vs-mycoremediation]] page compares fungal remediation with plant-based cleanup approaches. Combined strategies using both plants and fungi can be more effective than either alone, as plants provide root exudates that nourish soil fungi while fungal networks extend the effective remediation zone beyond the immediate root zone.
+The [[comparison-phytoremediation-vs-mycoremediation-detail]] page compares fungal remediation with plant-based cleanup approaches. Combined strategies using both plants and fungi can be more effective than either alone, as plants provide root exudates that nourish soil fungi while fungal networks extend the effective remediation zone beyond the immediate root zone.
 Understanding the differences between fungal types is also important for effective treatment design. The [[query-difference-between-white-rot-and-brown-rot-fungi]] page explains how white-rot and brown-rot fungi target different pollutant classes and operate through distinct biochemical pathways, making species selection a critical factor in remediation planning.
 ### Selecting the Right Approach
 Choosing the appropriate mycoremediation strategy depends on several factors. Contaminant type is the primary consideration — organic pollutants respond best to enzymatic degradation while metals require biosorption approaches. Site conditions, available time, and budget also play important roles in method selection.
@@ -99,7 +100,7 @@ For practitioners new to mycoremediation, starting with well-characterized syste
 - [[query-can-fungi-clean-up-oil-spills]]
 - [[query-difference-between-white-rot-and-brown-rot-fungi]]
 - [[fungal-remediation-decision-tree]]
-- [[comparison-phytoremediation-vs-mycoremediation]]
+- [[comparison-phytoremediation-vs-mycoremediation-detail]]
 
 ## See Also
 

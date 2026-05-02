@@ -74,7 +74,6 @@ Beyond beta-caryophyllene, several other cannabis terpenes contribute to anti-in
 - Beta-caryophyllene is a selective CB2 agonist — one of the few terpenes that directly activates cannabinoid receptors
 - THC at low doses reduces inflammatory mediator release
 
-
 ## Clinical Evidence and Research
 
 The body of clinical evidence supporting cannabis as an anti-inflammatory agent has grown substantially since the discovery of the endocannabinoid system in the early 1990s. Human clinical trials have demonstrated statistically significant improvements in pain scores and inflammatory markers for rheumatoid arthritis patients using Sativex (a THC:CBD oromucosal spray). For inflammatory bowel disease, a 2021 meta-analysis of randomized controlled trials found that cannabis therapy improved clinical remission rates compared to placebo, though the authors called for larger, longer-duration studies.

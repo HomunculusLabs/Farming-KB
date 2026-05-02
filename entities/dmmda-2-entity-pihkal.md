@@ -10,19 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #59. 2,3-DIMETHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 
-
-
-
-
-
 ## Chemical Name
 
 2,3-DIMETHOXY-4,5-METHYLENEDIOXYAMPHETAMINE
-
-
-
-
-
 
 ## Dosage and Duration
 
@@ -31,21 +21,11 @@ PIHKAL entry #59. 2,3-DIMETHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 | Dosage | about 50 mg. |
 | Duration | unknown. |
 
-
-
-
-
-
 ## Qualitative Comments
 
 > (with 50 mg) I am into it; it is much like
 > MDA.
 >
-
-
-
-
-
 
 ## Extensions and Commentary
 
@@ -57,30 +37,15 @@ And the pharmacological part is rather thin as well. I was not the taster, and c
 
 At the time that DMMDA and DMMDA-2 were synthesized, I had visions of doing the same thorough study with these as I had set up with the TMA's (six possible, six done) and the MMDA's (six possible, five done). Here, too, with a pair of methoxy groups on an amphetamine skeleton, with a methylenedioxy ring thrown in, six isomers are possible but only these two have been prepared. The unknown ones will certainly be called DMMDA-3, -4, -5 and -6, but the assignments of code to structure haven't even been thought out yet. The remarkable and totally unexpected activity of DOM was discovered at about this time and it was a much more tempting direction to follow. The remaining four possible DMMDA's have been left to that famous time, a future Rrainy day.
 
-
-
-
-
-
 ## Synthesis
 
 No synthesis details recorded.
-
-
-
-
-
 
 ## Safety Notes
 
 DMMDA-2 is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
-
-
-
 
 ## See Also
 

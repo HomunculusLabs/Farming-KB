@@ -140,5 +140,5 @@ change, creating a "race" between pathogen adaptation and host resilience.
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[dighton-wood-decay-ecosystem-carbon]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

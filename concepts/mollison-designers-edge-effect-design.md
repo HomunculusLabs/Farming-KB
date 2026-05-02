@@ -82,7 +82,7 @@ provides both wind protection and a harvest zone.
 The transition from full sun to full shade across a forest edge creates
 conditions for a layered planting design. Sun-loving species occupy the outer
 edge, partial-shade species occupy the middle transition, and shade-tolerant
-species fill the interior. This is the foundation of the [[hemenway-forest-garden-layers]].
+species fill the interior. This is the foundation of the [[forest-garden-layers]].
 
 ## Edge in Zone Planning
 

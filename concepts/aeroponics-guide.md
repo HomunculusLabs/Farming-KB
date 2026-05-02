@@ -145,6 +145,6 @@ Aeroponics is the most vulnerable system to power outages:
 - [[root-crops-growing-guide]]
 - [[field-guide-psilocybin-dosage-extraction-cultivation]]
 - [[mason-jar-preserving-guide]]
-- [[hugelkultur-guide]]
+- [[hemenway-hugelkultur-guide]]
 - [[hydroponic-growing-basics]] for simpler hydroponic alternatives
 - [[cannabis-lighting-guide]] for pairing aeroponics with optimal lighting

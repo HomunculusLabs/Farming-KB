@@ -104,7 +104,7 @@ Gartz documented that G. purpuratus was used recreationally in Chile, particular
 
 ### Australian Use
 
-In Australia, G. purpuratus is occasionally used but is less well-known than Psilocybe cubensis ("gold tops") or Panaeolus cyanescens ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
+In Australia, G. purpuratus is occasionally used but is less well-known than [[psilocybe-cubensis]] ("gold tops") or [[panaeolus-cyanescens]] ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
 
 ## Similar Species (Critical for Safety)
 

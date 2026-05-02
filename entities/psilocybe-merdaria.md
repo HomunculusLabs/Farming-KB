@@ -33,7 +33,7 @@ The taxonomic history of *P. merdaria* is intertwined with several other small, 
 - **Cap (Pileus):** Very small, typically 3 to 15 mm in diameter. Conic to hemispherical when young, expanding to convex with age but rarely becoming fully plane. Surface is smooth, hygrophanous, and brownish ochre to reddish brown when moist, fading to a pale straw color or nearly white when dry. The cap margin is often translucent-striate when wet.
 - **Gills (Lamellae):** Adnate to broadly adnate. Pale gray to brownish when young, darkening with maturity to a dark purplish brown. Gill spacing is close to subdistant.
 - **Stipe (Stem):** Very slender, 15 to 45 mm long and 0.5 to 1.5 mm thick. Surface is smooth, whitish to pale brown, sometimes with a slight pruinose coating near the apex. The base may have a small mycelial tuft attached to the dung substrate.
-- **Spore Print:** Dark purplish brown to blackish purple.
+- **[[spore-print]]:** Dark purplish brown to blackish purple.
 - **Spores:** Ellipsoidal to slightly amygdaliform, smooth, with a visible germ pore. Spore dimensions typically range from 8 to 12 μm by 5 to 7 μm.
 - **Microscopic Features:** Cheilocystidia are ventricose to cylindrical; pleurocystidia may be present but are sparse. No chrysocystidia have been reliably documented.
 
@@ -77,4 +77,4 @@ No cultivation protocols exist for *P. merdaria*. Its coprophilous nature would 
 
 - Bigwood, J. & Beug, M. W. (1992). Variation of psilocybin and psilocin levels. Journal of Psychoactive Drugs.
 - Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Vaduz: J. Cramer.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Berkeley: Ten Speed Press.
+- Stamets, P. (1996). [[psilocybin-mushrooms]] of the World. Berkeley: Ten Speed Press.

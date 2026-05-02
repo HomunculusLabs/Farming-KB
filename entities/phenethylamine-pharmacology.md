@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: entity
 tags: [chemistry]
-sources: []
+sources:
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 # Phenethylamine Class Pharmacology — Overview
 

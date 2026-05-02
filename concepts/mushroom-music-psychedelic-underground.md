@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: []
+sources:
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 # Mushroom Music and the Psychedelic Underground
 

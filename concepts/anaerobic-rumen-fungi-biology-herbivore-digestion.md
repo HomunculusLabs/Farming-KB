@@ -103,7 +103,7 @@ Knowledge of the life cycle remains incomplete, which makes evaluation of cultiv
 
 - [[freshwater-fungi-collection-and-culturing]]
 - [[fungal-enzyme-systems]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[aquatic-fungi-and-ingoldian-spores]]
 
 ## Sources

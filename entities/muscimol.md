@@ -14,7 +14,7 @@ categories:
 
 # Muscimol
 
-**Muscimol** is a potent psychoactive isoxazole alkaloid and the principal bioactive constituent of *Amanita muscaria* (fly agaric) and related *Amanita* species. It acts as a direct orthosteric agonist at GABA-A receptors, producing sedative, dissociative, and hallucinogenic effects. One of the few naturally occurring GABA-A agonists, muscimol has served as an important pharmacological research tool for over five decades.
+**Muscimol** is a potent psychoactive isoxazole alkaloid and the principal bioactive constituent of *[[amanita-muscaria]]* (fly agaric) and related *Amanita* species. It acts as a direct orthosteric agonist at GABA-A receptors, producing sedative, dissociative, and hallucinogenic effects. One of the few naturally occurring GABA-A agonists, muscimol has served as an important pharmacological research tool for over five decades.
 
 ## Chemical Identity
 
@@ -36,7 +36,7 @@ Muscimol is a 5-membered heterocyclic compound containing an isoxazole ring (an 
 Muscimol is the principal psychoactive constituent of several *Amanita* mushroom species:
 
 - **Amanita muscaria** (fly agaric) — the most well-known source; contains muscimol at approximately 0.03-0.11% of fresh weight
-- **Amanita pantherina** (panther cap) — contains significant muscimol and ibotenic acid
+- **[[amanita-pantherina]]** (panther cap) — contains significant muscimol and ibotenic acid
 - **Amanita gemmata** (gemmed amanita)
 - **Amanita regalis** (royal fly agaric)
 
@@ -147,4 +147,3 @@ Muscimol is a gold-standard pharmacological tool used to characterize GABA-A rec
 - [[medicinal-mushroom-compound-extraction]]
 
 - [[amanita-muscaria-pharmacology]]
-

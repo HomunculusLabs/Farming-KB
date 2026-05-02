@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 # Maenads, Thyrsos, and Ecstatic Ritual
 

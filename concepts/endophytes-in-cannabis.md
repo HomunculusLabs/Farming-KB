@@ -61,7 +61,7 @@ growing systems.
 Phosphate-solubilizing endophytes release organic acids that chelate calcium,
 iron, or aluminum bound to phosphate, converting insoluble phosphates into
 plant-available forms. Endophytic fungi, particularly arbuscular mycorrhizal
-fungi and some dark septate endophytes, enhance phosphorus uptake through
+fungi and some [[dark-septate-endophytes]], enhance phosphorus uptake through
 extensive hyphal networks that explore soil volumes beyond the root zone.
 These nutritional benefits are especially valuable in organic cannabis
 cultivation where synthetic fertilizers are avoided.

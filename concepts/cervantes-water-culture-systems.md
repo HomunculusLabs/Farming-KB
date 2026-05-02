@@ -12,8 +12,6 @@ updated: 2026-04-26
 
 Water culture hydroponic systems grow plants without soil, suspending roots directly in nutrient solution or misted environments. These systems include Deep Water Culture (DWC), Nutrient Film Technique (NFT), and aeroponics -- each offering high performance with varying levels of complexity and maintenance requirements.
 
-
-
 ## Deep Water Culture (DWC)
 
 Growing in deep water culture (DWC) is simple, easy, and productive. Seedlings and clones are held in net pots full of expanded clay pellets, rockwool, or other growing medium. The net pots are nestled in holes in a lid that covers the reservoir. The roots of seedlings and cuttings dangle down into the nutrient solution.
@@ -21,8 +19,6 @@ Growing in deep water culture (DWC) is simple, easy, and productive. Seedlings a
 A submersible pump lifts nutrient solution to the top of a discharge tube where it splashes into the access lid. Nutrient solution cascades down, wetting roots and splashing into the self-contained reservoir below, which increases dissolved oxygen in the solution. Roots easily absorb nutrients and water from the solution in the oxygenated environment. Many DWC gardens also keep an air stone bubbling new air into the reservoir to supply more oxygen.
 
 DWC gardens are simple by design and require no timer, because pumps run 24 hours a day. This low-maintenance approach is perfect for casual gardeners as well as hydroponic enthusiasts. For outdoor DWC gardens, a simple overflow drainage hole can be cut in the side of the reservoir to prevent rainwater from causing overflow.
-
-
 
 ## Nutrient Film Technique (NFT)
 
@@ -42,8 +38,6 @@ Many NFT systems are hybrids. In some, nutrient solution is delivered via spaghe
 
 Poorly planned hybrid systems are common. Systems constructed from white four-inch PVC pipe allow enough light through the thin walls to illuminate roots, causing them to turn green or rot more easily. Accessible nozzle placement is essential for maintenance.
 
-
-
 ## Aeroponics
 
 Aeroponic systems use no growing medium and offer the highest performance possible. Roots are suspended in a dark growth chamber where they are misted with oxygen-rich nutrient solution at regular intervals. The humidity in the chamber remains at or near 100 percent 24 hours a day. Roots have the maximum potential to absorb nutrients in the presence of air.
@@ -56,13 +50,9 @@ Aeroponic systems require greater attention to detail. There is no growing mediu
 
 The RainForest system is very popular. Nutrient solution is atomized into the air creating 100 percent humidity by dripping solution onto a spinning plate above the water in the reservoir.
 
-
-
 ## System Maintenance
 
 All recirculating systems require regular monitoring of pH and EC. Change nutrient solution every 1-2 weeks or when EC drops significantly. Reservoirs should be kept clean and free of algae. Water temperature should remain between 65-75°F (18-24°C) for optimal dissolved oxygen levels. Recirculating nutrient solutions above 75°F (24°C) promote pathogen growth and reduce dissolved oxygen.
-
-
 
 ## Dissolved Oxygen and Root Health
 
@@ -70,15 +60,11 @@ Dissolved oxygen (DO) is the single most critical factor in water culture system
 
 Air pumps and air stones are the most common method of oxygenation in DWC systems. The effectiveness of air stones decreases over time as they become clogged with mineral deposits; they should be replaced every 4-6 weeks. In aeroponic systems, the misting process itself provides oxygenation, but pump sizing and nozzle quality are critical.
 
-
-
 ## Choosing Between Systems
 
 The choice between DWC, NFT, and aeroponics depends on the grower's experience level and goals. DWC is the most forgiving and lowest maintenance, making it ideal for beginners. NFT offers higher performance but requires more attention to flow rates and pump reliability. Aeroponics delivers the fastest growth rates but demands the most precise management and offers no margin for equipment failure.
 
 For commercial operations, DWC is often preferred for its reliability and scalability. Large-scale DWC systems (often called "raft systems" or "float beds") can cover thousands of square feet with relatively simple infrastructure. NFT is popular in vertical farming operations where space efficiency is paramount.
-
-
 
 ## See Also
 

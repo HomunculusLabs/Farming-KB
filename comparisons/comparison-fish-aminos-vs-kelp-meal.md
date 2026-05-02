@@ -132,4 +132,4 @@ for a complete biostimulant program.
 - [[bionutrients-lab-fish-aminos]] for fish aminos production details
 - [[kelp-meal-fertilizer]] for kelp meal application guidance
 - [[comparison-kelp-meal-vs-rock-dust]]
-- [[comparison-foliar-feeding-vs-compost-tea]]
+- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]

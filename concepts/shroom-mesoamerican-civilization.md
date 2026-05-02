@@ -4,7 +4,8 @@ created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 # Magic Mushrooms in Ancient Mesoamerican Civilization
@@ -100,7 +101,7 @@ observances.
 
 ## Related
 
-- [[shroom-wasson-rediscovery]] -- Wasson and the rediscovery of
+- [[wasson-rediscovery-of-psilocybin]] -- Wasson and the rediscovery of
   psilocybin mushrooms
 - [[shroom-mazatec-tradition]] -- The [[mazatec-mushroom-tradition]] and
   Maria Sabina

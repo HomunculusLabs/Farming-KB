@@ -99,4 +99,4 @@ This cumulative improvement is the hallmark of no-till cultivation and represent
 - [[query-how-does-living-soil-work-for-cannabis]]
 - [[query-how-to-make-living-soil-from-scratch]]
 - [[query-what-are-the-benefits-of-no-till-gardening]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]

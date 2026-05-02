@@ -86,7 +86,7 @@ Just as [[jadam-healthy-living-guidelines]] recommend eating brown rice with the
 ## Related Concepts
 
 - [[jadam-liquid-fertilizer]]
-- [[jadam-fertilizer-program]]
+- [[ultra-low-jadam-fertilizer-program]]
 - [[jadam-compost-free-approach]]
 - [[jadam-ultra-low-cost-methods]]
 - [[jadam-sese-philosophy]]

@@ -74,7 +74,7 @@ distinctive persistently conic cap shape and prolific fruiting on
 decomposing wood make it recognizable in the field.
 
 ## See Also
-- [[psilocybe-aztecorum-entity]]
-- [[psilocybe-zapotecorum-entity]]
+- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
+- [[psilocybe-zapotecorum]]
 - [[psilocybe-cubensis]]
 - [[psilocybe-samuiensis]]

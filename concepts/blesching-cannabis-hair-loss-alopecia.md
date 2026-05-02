@@ -111,7 +111,7 @@ intense feelings. While baldness is not a disease, it can have psychological
 consequences and can contribute to a negative self-image.
 
 The [[blesching-cannabis-mental-disorders]] connection is relevant here, as
-hair loss can contribute to [[blesching-cannabis-anxiety-disorders]],
+hair loss can contribute to [[cannabis-anxiety-research]],
 [[blesching-cannabis-depression]], and diminished self-esteem.
 
 Powerful questions for self-reflection:

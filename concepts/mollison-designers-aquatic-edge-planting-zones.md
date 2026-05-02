@@ -13,7 +13,7 @@ type: concept
 
 Bill Mollison's Permaculture: A Designers' Manual describes the pond edge
 as the most productive zone in any aquatic system, following the general
-[[permaculture-designers-manual-edge-effect-design]] principle that interfaces between ecosystems support the
+[[mollison-designers-edge-effect-design]] principle that interfaces between ecosystems support the
 greatest diversity and yield. The aquatic edge is designed as a series of
 concentric planting zones graded from deep water to dry land, each zone
 supporting characteristic species that interact to create a productive

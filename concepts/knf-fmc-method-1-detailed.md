@@ -147,4 +147,3 @@ FMC can be enhanced by adding other KNF inputs during preparation:
 - [[lactic-acid-bacteria-knf]]: Accelerates fermentation and suppresses pathogens
 - [[knf-yeast-preparation-detailed]]: Completes the fermentation process
 ## See Also
-

@@ -90,6 +90,6 @@ Sources: Dighton, Fungi in Ecosystem Processes (Springer), Ch. 7.
 
 See also: [[fungal-biodiversity]], [[fungal-biodiversity-ecosystem-function]], [[fungal-communities-succession]], [[fungal-succession-patterns]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

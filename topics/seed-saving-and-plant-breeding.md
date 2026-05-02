@@ -281,7 +281,7 @@ Seed savers who incorporate perennial propagation gain access to genetic resourc
 [[seed-saving-vegetables]] | [[seed-saving-in-permaculture]] |
 [[seed-quality-and-selection-solomon]] | [[seed-germination-techniques-solomon]] |
 [[seed-selection-breeding-holzer]] | [[seed-saving-methods-home-garden]] |
-[[seed-balls-technique]] | [[seed-starting-and-transplanting]] |
+[[seed-balls-technique]] | [[solomon-seed-starting-transplanting]] |
 [[fukuoka-natural-farming-philosophy]] | [[companion-planting-and-polycultures]] |
 [[permaculture-design-principles]] | [[regenerative-agriculture-overview]]
 

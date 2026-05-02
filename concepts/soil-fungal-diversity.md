@@ -115,6 +115,6 @@ Soil fungal conservation has received far less attention than the conservation o
 - [[fungal-functional-diversity]] — functional diversity in soil communities
 - [[ethanol-pasteurization-selective-fungal-isolation]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-assessment-methods]]
 - [[fungal-biogeography]]
 - [[fungal-ecosystem-services]]

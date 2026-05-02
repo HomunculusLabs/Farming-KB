@@ -135,5 +135,5 @@ Fungi on living plant surfaces are important for:
 - [[endophytic-fungi-plant-interactions]]
 - [[mycorrhizal-types-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

@@ -69,7 +69,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 - The distinctive ovate to flask shaped cheilocystidia with elongated necks are the key microscopic feature separating this species from similar taxa
 - The combination of spring fruiting, east coast distribution, and prominent bluing help distinguish it from lookalikes
-- Can be confused with [[psilocybe-cyanescens]] and [[psilocybe-caerulipes-entity]] but differs in seasonality, geographic range, and microscopic features
+- Can be confused with [[psilocybe-cyanescens]] and [[psilocybe-caerulipes]] but differs in seasonality, geographic range, and microscopic features
 - The persistent annular zone on the stipe is more prominent than in many other Psilocybe species
 - The chestnut brown cap that fades to pale is characteristic when fresh
 
@@ -82,7 +82,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 ## Similar Species
 
-- [[psilocybe-caerulipes-entity]] — found in similar habitat but fruits later in the season and has different cystidia
+- [[psilocybe-caerulipes]] — found in similar habitat but fruits later in the season and has different cystidia
 - [[psilocybe-cyanescens]] — more robust, wavy cap margin, different cystidia, and typically autumn fruiting
 - [[psilocybe-subaeruginosa]] — Australian species with similar appearance but different distribution
 - Several non psychoactive Galerina and Stropharia species share similar habitat and should be carefully distinguished
@@ -110,7 +110,7 @@ The specific epithet "ovoideocystidiata" refers to the distinctive ovate shaped 
 
 ## Similar Species
 
-- [[psilocybe-caerulipes-entity]] — found in similar habitat but fruits later in the season and has different cystidia
+- [[psilocybe-caerulipes]] — found in similar habitat but fruits later in the season and has different cystidia
 - [[psilocybe-cyanescens]] — more robust, wavy cap margin, different cystidia, and typically autumn fruiting
 - [[psilocybe-subaeruginosa]] — Australian species with similar appearance but different distribution
 - Several non psychoactive Galerina and Stropharia species share similar habitat and should be carefully distinguished

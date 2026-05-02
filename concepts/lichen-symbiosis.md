@@ -119,9 +119,9 @@ complete symbiotic partnership to be dispersed together.
 - [[lichen-symbiosis-fungi-algae-partnership]]
 - [[symbiotic-fungi-lichen-symbiosis-agriculture]]
 
-- [[fungal-life-cycles]]](fungal-life-cycles.md)
-- [[fungal-spore-biology]]](fungal-spore-biology.md)
-- [[fungal-symbiosis-with-plants]]](fungal-symbiosis-with-plants.md)
+- [[fungal-life-cycles]](fungal-life-cycles.md)
+- [[fungal-spore-biology]](fungal-spore-biology.md)
+- [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
 - [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
 
 ## References

@@ -15,7 +15,7 @@ updated: 2026-04-18
 
 ## Overview
 
-The keyhole bed is a "least-path" garden design common in nature, allowing efficient access to garden beds with minimal wasted space on paths. The design is a fundamental pattern application in [[permaculture-designers-manual-edge-effect-design]] that creates lobular, sheltered growing spaces accessible from a single entry point shaped like a keyhole.
+The keyhole bed is a "least-path" garden design common in nature, allowing efficient access to garden beds with minimal wasted space on paths. The design is a fundamental pattern application in [[mollison-designers-edge-effect-design]] that creates lobular, sheltered growing spaces accessible from a single entry point shaped like a keyhole.
 
 In conventional gardens with parallel paths, paths can take up to 50% of the area. Keyhole beds reduce path space to less than 30% of the ground, dramatically increasing productive growing area. The pattern appears frequently in natural systems as lobular edges that create sheltered microhabitats.
 

@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
 # Cannabis and Menopause Symptom Management
@@ -117,7 +118,7 @@ Many women report subjective cognitive complaints during menopause, including di
 Neuroimaging studies confirm that the menopausal transition is associated with reduced brain glucose metabolism and alterations in hippocampal and prefrontal cortical function.
 The endocannabinoid system plays a critical role in neuroprotection and cognitive function: CB1 receptor activation supports synaptic plasticity, and CBD has demonstrated neuroprotective properties in models of neurodegeneration.
 For menopausal women concerned about cognitive health and long-term dementia risk (women represent two-thirds of Alzheimer's patients), the neuroprotective properties of cannabinoids warrant consideration alongside conventional preventive strategies.
-See [[cannabis-and-alzheimers-disease]] for detailed research on cannabinoid neuroprotection.
+See [[blesching-cannabis-alzheimers-disease]] for detailed research on cannabinoid neuroprotection.
 
 ## See Also
 

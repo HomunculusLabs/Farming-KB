@@ -56,12 +56,12 @@ Metarhizium anisopliae and related species are among the most widely studied myc
 - Attacks a wide range of insect pests including whiteflies, thrips, aphids, and beetles
 - Multiple commercial products available (e.g., BotaniGard, Mycotrol)
 - Used in both greenhouse and field applications
-- Compatible with integrated pest management (IPM) programs
+- Compatible with [[integrated-pest-management]] (IPM) programs
 
 ### Cordyceps and Ophiocordyceps
 
 The Cordyceps group includes species famous for their dramatic parasitic effects:
-- **Cordyceps militaris** — attacks lepidopteran larvae
+- **[[cordyceps-militaris]]** — attacks lepidopteran larvae
 - **Ophiocordyceps unilateralis** — the "zombie ant fungus" that alters ant behavior to spread spores
 - Some Cordyceps species have been used in traditional Chinese medicine for centuries
 - The behavioral manipulation capabilities of some species offer intriguing possibilities for pest management

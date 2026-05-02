@@ -3,7 +3,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, plants, gardening, agriculture, plant-growth, techniques, fruit-tree, species]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 # Plant Propagation Methods
 Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.

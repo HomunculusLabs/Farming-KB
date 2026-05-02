@@ -60,7 +60,7 @@ Microsatellite loci have proven valuable for discovering genetic variation withi
 
 ### Mycorrhizal Diversity Effects
 
-[[fungal-diversity-ecosystem-function-mycorrhizal]], ecosystem variability and productivity. Higher mycorrhizal diversity is associated with greater plant productivity and ecosystem stability. This relationship has important implications for land management practices that affect mycorrhizal communities.
+[[dighton-mycorrhizal-diversity-ecosystem-function]], ecosystem variability and productivity. Higher mycorrhizal diversity is associated with greater plant productivity and ecosystem stability. This relationship has important implications for land management practices that affect mycorrhizal communities.
 
 ### Functional Diversity
 
@@ -110,4 +110,4 @@ Understanding these patterns is essential for predicting how fungal communities 
 - [[fungal-biodiversity-ecosystem-function]]
 - [[fungal-biodiversity-measurement-methods]]
 - [[alpha-beta-gamma-diversity-fungi]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]

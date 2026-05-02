@@ -20,7 +20,7 @@ herb.
 
 ## Botanical Profile
 
-- Scientific name: Symphytum officinale (common comfrey), S. x uplandicum
+- Scientific name: [[symphytum-officinale]] (common comfrey), S. x uplandicum
   (Russian comfrey, the sterile hybrid most often cultivated)
 - Family: Boraginaceae
 - Hardiness: USDA zones 3-9
@@ -141,6 +141,6 @@ sunlight. Store dried leaves in airtight containers away from light.
 ## See Also
 
 - [[cannabis-living-soil-guide]] -- comfrey biomass feeds soil biology in no-till systems
-- [[knf-preparations]] -- Korean Natural Farming fermented plant juices can be made from
+- [[knf-preparations]] -- [[korean-natural-farming]] fermented plant juices can be made from
   comfrey leaves
 - [[cover-cropping-guide]] -- comfrey functions as a living mulch and green manure

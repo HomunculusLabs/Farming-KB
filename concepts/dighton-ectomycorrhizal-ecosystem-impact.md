@@ -135,5 +135,5 @@ change scenarios.
 - [[dighton-fungal-decomposition-leaf-litter-dynamics]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[dighton-fungi-climate-change-feedback]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

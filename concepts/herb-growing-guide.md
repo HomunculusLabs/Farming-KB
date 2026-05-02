@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plants, gardening, cultivation, beginner, drying, harvesting]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 ## Overview
 Herbs are among the most rewarding plants to grow, offering fresh flavor, fragrance, and medicinal benefits with relatively low effort. Many herbs are compact, pest-resistant, and adaptable to containers, making them ideal for any growing situation. This guide covers perennial vs annual herbs, culinary uses, preserving methods, and indoor growing.

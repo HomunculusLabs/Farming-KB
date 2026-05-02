@@ -127,5 +127,5 @@ Machine learning and computational modeling are increasingly being applied to pr
 
 - [[white-rot-fungi-bioremediation]]
 - [[staycare-brown-rot-fungi-in-bioremediation]]
-- [[comparison-phytoremediation-vs-mycoremediation]]
+- [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[comparison-bioaugmentation-vs-biostimulation]]

@@ -126,7 +126,7 @@ The design approach recognises that "a series of dune forms, and uses of sand" c
 
 - [[windbreak-and-shelterbelt-design]]
 - [[permaculture-earthworks-guide]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-bamboo-species-uses]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[permaculture-designers-manual-cover-crops-detailed]]

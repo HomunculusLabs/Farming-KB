@@ -3,7 +3,8 @@ title: "What Is the Difference Between Perlite and Vermiculite?"
 tags: [query, soil, amendments, growing-media, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Is the Difference Between Perlite and Vermiculite?
@@ -54,7 +55,6 @@ Neither amendment provides significant nutritional value to plants, so fertiliza
 When selecting between perlite and vermiculite for a specific application, consider the plant's moisture needs and your local climate.
 In hot, dry environments, vermiculite's moisture retention is valuable; in humid or rainy climates, perlite's drainage improvement is more important.
 For most container gardeners, having both on hand and blending them to suit each situation provides the greatest flexibility and the best growing results.
-
 
 Both perlite and vermiculite are naturally occurring minerals that are mined and then processed through high-temperature heat expansion.
 Perlite is mined primarily in the United States, Greece, Turkey, and Japan, with the largest deposits located in New Mexico.

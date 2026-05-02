@@ -3,7 +3,8 @@ title: "Fabric Pots vs Plastic Pots vs Air Pots for Cannabis"
 tags: [query, cannabis, containers, growing-medium, root-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Fabric Pots vs Plastic Pots vs Air Pots for Cannabis
@@ -124,7 +125,6 @@ typical. The [[cannabis-transplanting-guide]] and [[cervantes-transplanting-pott
 pages explain staged up-potting strategies that start small and gradually 
 increase container
 size as plants grow, minimizing wasted medium and preventing overwatering.
-
 
 ## Key Points
 - [[cannabis-root-bound-symptoms-and-management]] plants are common in plastic pots due to root circling

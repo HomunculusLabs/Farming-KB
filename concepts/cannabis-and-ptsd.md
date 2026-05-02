@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Post-traumatic stress disorder (PTSD) is a debilitating condition affecting body, mind, and spirit, resulting from direct or witnessed exposure to extreme traumatic events. The amygdala, medial prefrontal cortex, and hippocampus show measurable physiological changes in PTSD patients. See also [[cannabis-and-epilepsy]], [[cannabis-and-alzheimers-disease]], and [[cannabis-and-insomnia]].
+Post-traumatic stress disorder (PTSD) is a debilitating condition affecting body, mind, and spirit, resulting from direct or witnessed exposure to extreme traumatic events. The amygdala, medial prefrontal cortex, and hippocampus show measurable physiological changes in PTSD patients. See also [[cannabis-and-epilepsy]], [[blesching-cannabis-alzheimers-disease]], and [[cannabis-and-insomnia]].
 
 ## Clinical Evidence
 
@@ -120,7 +120,7 @@ See [[hallucinogenic-mushroom-health-risks-and-harm-reduction]] for comparative 
 
 - [[cannabis-and-epilepsy]]
 - [[cannabis-and-insomnia]]
-- [[cannabis-and-alzheimers-disease]]
+- [[blesching-cannabis-alzheimers-disease]]
 - [[cannabis-for-parkinsons-disease]]
 - cannabinoid-receptors
 - [[cannabis-for-nausea-and-appetite-stimulation]]

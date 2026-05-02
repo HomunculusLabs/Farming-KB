@@ -66,7 +66,6 @@ While the Aztec mushroom tradition was largely destroyed by Spanish suppression,
 
 The Western rediscovery of Mexican mushrooming practices began, ironically, with a vigorous scholarly denial that they had ever existed. The American botanist William Safford (1859-1926) published a paper arguing that the teonanacatl of the Aztecs was not a mushroom at all. It was left to [[wasson-hofmann-ruck-collaboration]] in the 1950s to definitively prove that the sacred mushrooms of Mexico were indeed psilocybin-containing species, and to participate in a velada ceremony with Mazatec curandera [[maria-sabina-mazatec-mushroom-ceremony]].
 
-
 ## The Codex Evidence
 
 Pre-Columbian codices and stone carvings provide visual evidence of mushroom ceremonial use. The Mixtec codex Vindobonensis Mexicanus I depicts a figure holding mushrooms, and several Aztec stone sculptures show deities with mushroom-like elements. The Nahuatl word teonanacatl literally translates to "flesh of the gods" or "divine mushroom," and Bernardino de Sahagun's Florentine Codex (1569) records detailed descriptions of the mushroom's effects: that it caused visions, that people saw snakes and other visions, and that some saw the devil. The Spanish missionaries who recorded these accounts were explicitly hostile to the practice, so their descriptions likely understate rather than exaggerate its cultural importance.

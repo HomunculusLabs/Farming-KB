@@ -3,7 +3,9 @@ title: "Ethnobotany vs Ethnomycology"
 tags: [ethnobotany, ethnomycology, ethnobiology, traditional-knowledge, fungal-ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 # Ethnobotany vs Ethnomycology
 Ethnobotany and ethnomycology are sister disciplines within ethnobiology that study

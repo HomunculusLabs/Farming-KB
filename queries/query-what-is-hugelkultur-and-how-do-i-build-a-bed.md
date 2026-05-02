@@ -16,7 +16,7 @@ The technique is based on a simple observation:
 - Fallen trees in a forest create the richest microsites for new growth
 - Hugelkultur replicates this natural process in a designed garden bed
 ## How Hugelkultur Works
-The [[hugelkultur-guide]] explains the core mechanism.
+The [[hemenway-hugelkultur-guide]] explains the core mechanism.
 When wood is buried under soil, a slow decomposition process begins:
 1. Fungi colonize the wood and begin breaking down lignin and cellulose
 2. Bacteria process simpler compounds and release nutrients

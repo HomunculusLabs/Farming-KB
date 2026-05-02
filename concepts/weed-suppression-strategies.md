@@ -10,37 +10,13 @@ sources:
 
 # Weed Suppression Strategies
 
-
-
-
-
-
-
-
-
 ## Understanding Weeds Ecologically
 
 Weeds are pioneer plants, moulded by millions of years of evolution to quickly cover disturbed, open ground. They will relentlessly cover the bare ground of a garden. As Toby Hemenway writes: "nature abhors bare soil, large blocks of a single plant type, and vegetation that's all the same height and root depth." Most gardens are showcases of all these unnatural methods.
 
-
-
-
-
-
-
-
-
 ## The Root Cause
 
 The bare soil in a typical garden -- whether in a freshly tilled plot or between neatly spaced plants -- is a perfect habitat for weed seeds. Naked earth also washes away with rain, meaning more tilling is needed to fluff the scoured, pounded earth, and more fertiliser to replace lost nutrients. This creates a cycle: till -> weeds germinate -> till again -> soil degrades.
-
-
-
-
-
-
-
-
 
 ## Strategies
 
@@ -71,14 +47,6 @@ Rather than isolated individuals, plants in an ecological garden form communitie
 ### 7. Work With Succession
 
 Understanding ecological succession means allying with nature's considerable might. Rather than battling pioneer weeds, design plantings that advance succession toward more mature ecosystems. Diverse habitat shrinks pest problems -- a garden planted all to one crop is a magnet for pests, but providing habitat for natural predators lets nature do the bug control.
-
-
-
-
-
-
-
-
 
 ## Related
 

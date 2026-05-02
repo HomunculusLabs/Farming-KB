@@ -3,7 +3,8 @@ title: "Fermented Plant Extract vs Compost Tea"
 tags: [comparison, soil-amendments, organic-farming, knf, composting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # Fermented Plant Extract vs Compost Tea
@@ -139,7 +140,7 @@ then maintain it with regular FPE applications for crop-specific nutrition.
 
 - [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
 
-- [[comparison-foliar-feeding-vs-compost-tea]]
+- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[knf-vs-jadam-vs-em]]
 - [[compost-tea-recipe-guide]]
 - [[compost-tea-aact]]

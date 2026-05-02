@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, processing, methods, troubleshooting]
-sources: []
+sources:
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 # Mushroom Drying and Storage
 Proper drying and storage are essential for preserving mushroom potency, flavor, and medicinal compounds. Fresh mushrooms degrade rapidly — enzymes continue to metabolize active compounds within hours of harvest. Dehydration halts this process and enables long-term storage.

@@ -43,7 +43,7 @@ Several [[knf-preparations]] are particularly well-suited for supporting the veg
 
 - [[knf-lactic-acid-bacteria-serum]]: LAB supports the plant's digestive processes and helps maintain a healthy microbial environment on leaf surfaces and in the soil.
 
-- [[knf-water-soluble-calcium-wsca]]: While calcium is more critical in the reproductive stage, small amounts during vegetative growth strengthen cell walls and support root tip development.
+- [[water-soluble-calcium-wca]]: While calcium is more critical in the reproductive stage, small amounts during vegetative growth strengthen cell walls and support root tip development.
 
 Each of these inputs works synergistically. They are not replacements for one another but complementary tools that address different aspects of plant nutrition and soil health.
 

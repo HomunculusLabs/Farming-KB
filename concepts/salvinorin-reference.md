@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum-entity|Salvia divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, psilocybin, DMT), salvinorin A has no nitrogen atom and does not act on serotonin receptors.
+Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum|Salvia divinorum]], a species of sage in the mint family (Lamiaceae). It is a neoclerodane diterpene and is notable for being the first known non-nitrogenous opioid receptor agonist. Unlike most classical psychedelics (LSD, psilocybin, DMT), salvinorin A has no nitrogen atom and does not act on serotonin receptors.
 
 ## Pharmacology
 

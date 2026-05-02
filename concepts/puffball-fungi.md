@@ -120,9 +120,9 @@ ground to improve dispersal.
 - [[endophytic-fungi-and-plant-health]]
 
 - [Phallus Impudicus (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
-- [[fungal-spore-biology]]](fungal-spore-biology.md)
-- [[spore-dispersal-mechanisms]]](spore-dispersal-mechanisms.md)
-- [[mycelial-networks]]](mycelium-network.md)
+- [[fungal-spore-biology]](fungal-spore-biology.md)
+- [[spore-dispersal-mechanisms]](spore-dispersal-mechanisms.md)
+- [[mycelial-networks]](mycelium-network.md)
 
 ## References
 

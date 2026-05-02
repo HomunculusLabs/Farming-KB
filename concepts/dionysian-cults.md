@@ -68,7 +68,6 @@ Modern scholars debate whether these descriptions reflect genuine entheogenic ex
 
 The phallus was the central symbol of Dionysian processions, carried through the streets during festivals as a representation of the god's generative power. These processions, documented across the Greek world from the classical period onward, combined religious reverence with carnivalesque inversion of social norms. The phallic procession connects Dionysian worship to the broader pattern of [[amanita-in-ancient-religion]] found across Mediterranean and Near Eastern cultures, where the phallus consistently symbolized fertility, divine power, and the life-force -- qualities that align closely with the mushroom's own symbolism as a generator of divine experience.
 
-
 ## The Dionysian Mysteries and Personal Transformation
 
 Unlike the state cults of Olympus, which focused on maintaining cosmic and social order through prescribed ritual, the Dionysian mysteries offered participants a direct experience of the divine that dissolved ordinary categories of self and other. Initiates underwent what the Greeks called aporrheta — unspeakable experiences that could not be communicated to the uninitiated. This emphasis on direct, personal religious experience over mediated, institutional worship represents one of the most distinctive features of Dionysian practice and prefigures many later developments in Western spirituality, from Gnosticism to Protestant mysticism.

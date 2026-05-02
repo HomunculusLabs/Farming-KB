@@ -100,7 +100,7 @@ for formal seed-starting and transplanting.
 ## Integration into Garden Design
 
 Perennial vegetables integrate naturally into [[hemenway-food-forest-design]]
-and [[hemenway-forest-garden-layers]]. They fit into the herbaceous layer
+and [[forest-garden-layers]]. They fit into the herbaceous layer
 beneath fruit trees and shrubs, forming part of the multi-storied
 canopy described in the ecological garden model. They also pair well
 with [[hemenway-vegetable-polyculture-design]] systems, where perennial

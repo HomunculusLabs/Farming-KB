@@ -24,7 +24,7 @@ Despite extensive laboratory demonstrations of fungal pollutant degradation, tra
 
 Laboratory strains often fail in the field due to multiple interacting factors:
 
-- **Nutritional competition**: Indigenous microorganisms compete for available carbon, nitrogen, and mineral nutrients. Biostimulation nutrients added to support introduced fungi often favor indigenous species instead.
+- **Nutritional competition**: [[indigenous-microorganisms]] compete for available carbon, nitrogen, and mineral nutrients. Biostimulation nutrients added to support introduced fungi often favor indigenous species instead.
 - **Predation**: Protozoa, nematodes, and microarthropods consume fungal biomass
 - **Environmental stress**: Temperature fluctuations, moisture extremes, UV radiation, and pH changes exceed the tolerance of laboratory-adapted strains
 - **Niche mismatch**: Laboratory conditions do not reflect the complex physical, chemical, and biological environment of contaminated sites

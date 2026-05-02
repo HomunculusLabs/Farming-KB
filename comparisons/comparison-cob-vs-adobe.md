@@ -118,7 +118,7 @@ can be stabilized with cement or lime for improved water resistance.
 - [[comparison-cob-vs-cordwood]]
 - [[straw-bale-construction]]
 - [[rammed-earth]]
-- [[comparison-cob-vs-straw-bale-construction]]
+- [[comparison-cob-construction-vs-straw-bale-construction]]
 - [[comparison-adobe-vs-rammed-earth]]
 - [[cob-construction]]
 - [[adobe-construction]]

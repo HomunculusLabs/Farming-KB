@@ -12,7 +12,7 @@ Fruiting conditions are the specific environmental parameters that trigger the
 transition from vegetative mycelial growth to reproductive fruiting body
 formation in fungi. For cultivated mushrooms including Pleurotus species,
 managing these conditions precisely is essential for consistent yields and
-quality. Fruiting initiation represents a developmental shift driven by
+quality. [[fruiting-initiation]] represents a developmental shift driven by
 environmental cues that the fungus interprets as favorable for spore dispersal.
 
 ## Key Environmental Parameters
@@ -68,7 +68,7 @@ initiated, as swings stress the developing crop.
 
 ### Light
 
-Oyster mushrooms require light for normal fruiting body development, though they
+Oyster mushrooms require light for normal [[fruiting-body-development]], though they
 do not perform photosynthesis. Light serves as a directional cue, orienting
 fruiting bodies to grow upward and outward toward the light source. Between 200
 and 1000 lux of ambient light on a 12-hour light and dark cycle is generally

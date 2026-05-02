@@ -33,7 +33,7 @@ See also: [[blesching-cannabis-arthritis]],
 [[cannabis-autoimmune-conditions-detailed]],
 [[cannabis-chronic-pain-management]],
 [[blesching-cannabis-neuropathic-pain]],
-[[blesching-cannabis-fibromyalgia]]
+[[cannabis-and-fibromyalgia]]
 
 ## Cannabis and Rheumatoid Arthritis: The Evidence
 

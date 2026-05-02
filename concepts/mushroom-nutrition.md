@@ -77,7 +77,6 @@ of reasonable biological quality. Their principal culinary value lies in
 their distinctive flavor and texture rather than their caloric or
 protein contribution.
 
-
 ## Nutritional Strategies by Species
 
 Different mushroom species have evolved distinct nutritional strategies.

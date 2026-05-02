@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mushroom Sterilization Methods
 

@@ -11,7 +11,8 @@ tags:
   - endophyte
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Beauveria
@@ -147,5 +148,3 @@ strain development), and Paul Stamets (mycopesticide advocacy).
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
 - [[cordyceps-and-entomopathogenic-fungi]]
 - [[stamets-inventions-and-innovations]]
-- [[mycelium-running-pest-control-with-fungi]]
-- [[cervantes-bacillus-thuringiensis-bt-control]]

@@ -81,7 +81,7 @@ Studies show that in response to the presence of mycorrhizal fungi, plant divers
 
 ## Geographic Distribution by Ecosystem Type
 
-[[fungal-diversity-ecosystem-function-mycorrhizal]] varies dramatically by geography, driven by soil type, nutrient availability, and climate.
+[[dighton-mycorrhizal-diversity-ecosystem-function]] varies dramatically by geography, driven by soil type, nutrient availability, and climate.
 
 ### Subarctic and Tundra Regions
 
@@ -107,7 +107,7 @@ In temperate grasslands with warmer temperatures, higher soil pH, and nitrates a
 
 - [[mycorrhizal-succession-primary-secondary]]
 
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 
 - [[ectomycorrhizae-forest-life]]
 

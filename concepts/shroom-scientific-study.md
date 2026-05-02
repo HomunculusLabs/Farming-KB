@@ -111,7 +111,7 @@ the standard reference for mushroom cultivation science.
 
 ## Related
 
-- [[shroom-wasson-rediscovery]] -- Wasson's role
+- [[wasson-rediscovery-of-psilocybin]] -- Wasson's role
 - [[shroom-wasson-valentina-expedition]] -- The expeditions
 - [[shroom-prohibition]] -- Legal consequences of scheduling
 

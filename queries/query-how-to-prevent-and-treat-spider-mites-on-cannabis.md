@@ -3,7 +3,8 @@ title: "How to Prevent and Treat Spider Mites on Cannabis"
 tags: [query, cannabis, pests, ipm, spider-mites]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Prevent and Treat Spider Mites on Cannabis

@@ -101,5 +101,5 @@ Molecular methods (metabarcoding, metagenomics) are expanding the utility of fun
 - [[rare-endangered-fungi-conservation]]
 
 Source: Comprehensive review of fungal ecosystem indicator literature
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

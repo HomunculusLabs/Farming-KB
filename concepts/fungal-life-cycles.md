@@ -113,10 +113,10 @@ for a compatible partner.
 - [[rust-fungi-biodiversity-life-cycles]]
 - [[fungal-ecology-decomposition-cycles]]
 
-- [[mycelial-networks]]](mycelium-network.md)
-- [[fungal-spore-biology]]](fungal-spore-biology.md)
-- [[spore-dispersal-mechanisms]]](spore-dispersal-mechanisms.md)
-- [[fungal-symbiosis-with-plants]]](fungal-symbiosis-with-plants.md)
+- [[mycelial-networks]](mycelium-network.md)
+- [[fungal-spore-biology]](fungal-spore-biology.md)
+- [[spore-dispersal-mechanisms]](spore-dispersal-mechanisms.md)
+- [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
 
 ## References
 

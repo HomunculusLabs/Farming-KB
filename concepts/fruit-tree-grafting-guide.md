@@ -77,7 +77,6 @@ This method can even save heavily damaged trees. Trees treated this way are bett
 
 It is perfectly possible to graft a number of varieties onto a single tree. This solves the pollination problem for self-incompatible varieties like apples and pears, minimises crop failure risk, and provides varied ripening times from a single tree.
 
-
 ## Timing and Aftercare
 
 Grafting success depends on timing, scion quality, and aftercare. Most

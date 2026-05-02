@@ -87,7 +87,7 @@ maximum effectiveness.
 ### Fruit Quality Enhancement
 
 To increase the sugar content of fruit, apply seawater combined with
-[[knf-water-soluble-calcium-wsca]] 15 to 20 days before
+[[water-soluble-calcium-wca]] 15 to 20 days before
 harvest. The minerals in seawater, particularly trace elements, contribute to
 improved flavor and nutritional density of fruits and vegetables.
 

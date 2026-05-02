@@ -111,4 +111,4 @@ decomposition processes in terrestrial ecosystems.
 
 - [[fungal-grazing-soil-fauna]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]

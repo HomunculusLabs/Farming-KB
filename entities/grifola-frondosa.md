@@ -87,7 +87,7 @@ triterpenoid constituents.
 
 ## Cultivation
 
-Maitake cultivation was first achieved commercially in Japan in the mid-1980s and has since expanded globally. The
+[[maitake-cultivation]] was first achieved commercially in Japan in the mid-1980s and has since expanded globally. The
 primary cultivation method uses supplemented sawdust substrates (typically hardwood sawdust with rice bran or wheat
 bran additions) inoculated with grain spawn and incubated at 20–25°C. Fruiting requires a temperature drop to
 15–18°C, high humidity (90–95%), and elevated CO₂ levels to promote the compact, high-quality morphology

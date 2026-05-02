@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources: []
+sources:
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 
 # Mushroom Composting

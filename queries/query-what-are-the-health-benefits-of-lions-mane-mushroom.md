@@ -54,7 +54,6 @@ The [[lions-mane-cultivation]] resource provides detailed instructions for both 
 The [[lions-mane-indoor-cultivation]] guide specifically addresses the challenges and advantages of indoor growing, where temperature and humidity can be precisely controlled.
 When comparing lion's mane to other medicinal mushrooms, [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]] and [[comparison-lions-mane-vs-cordyceps-cultivation]] provide detailed comparisons for those deciding which mushrooms to prioritize.
 
-
 The two primary classes of bioactive compounds in lion's mane, hericenones and erinacines, were first identified and isolated by Japanese researchers in the 1990s.
 Hericenones are found exclusively in the fruiting body of the mushroom, while erinacines are found primarily in the mycelium and substrate.
 Both compound classes are able to cross the blood-brain barrier, which is a rare property that makes them particularly valuable for neurological applications.

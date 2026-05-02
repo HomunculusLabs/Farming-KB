@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmacology, safety, biochemistry, methods, psychopharmacology, potency, mushrooms]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 # Psilocybin Extraction Guide
 ## Overview

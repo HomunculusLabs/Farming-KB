@@ -107,7 +107,7 @@ The coprinoid fungi have a long history of scientific interest:
 
 Standard techniques for studying *C. picaceus* and related coprinoid fungi:
 
-- **Culturing:** *C. picaceus* can be difficult to maintain in pure culture, as is common with many coprinoid fungi. It grows on compost agar, malt extract agar, or potato dextrose agar, but may require specific conditions to produce fruiting bodies
+- **Culturing:** *C. picaceus* can be difficult to maintain in pure culture, as is common with many coprinoid fungi. It grows on compost agar, [[malt-extract-agar]], or potato dextrose agar, but may require specific conditions to produce fruiting bodies
 - **Fruiting Induction:** Some coprinoid fungi require specific environmental triggers for basidiocarp development, including changes in temperature, light exposure, and substrate composition. Fruiting in culture is often erratic
 - **Spore Germination:** Basidiospores can be germinated on nutrient-poor agar media. The presence of compatible mating types is required for completion of the sexual cycle
 - **Microscopic Identification:** Features including spore size and shape, presence of a germ pore, cheilocystidia and pleurocystidia morphology, and pileipellis structure are diagnostic. Melzer's reagent and KOH mounts are standard

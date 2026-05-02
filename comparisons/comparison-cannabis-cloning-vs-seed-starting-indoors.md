@@ -3,7 +3,10 @@ title: "Cannabis Cloning vs Seed Starting Indoors"
 tags: [comparison, cannabis, propagation, growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 
 # [[cannabis-cloning-guide]] vs [[seed-starting-methods-comparison]] Indoors
@@ -145,4 +148,3 @@ breeding projects from around the world.
 ## Hybrid Approaches
 The most sophisticated cannabis growing programs combine both approaches
 in a defined workflow: seeds are germinated and grown to maturity to
-evaluate phenotypes, the best-performing individuals are selected as

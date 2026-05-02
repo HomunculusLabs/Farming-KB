@@ -96,5 +96,5 @@ young plant.
 - [[query-how-to-clone-cannabis-plants-step-by-step]]
 - [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]]

@@ -36,7 +36,7 @@ literature. In 1971, at age 25, he traveled to the Colombian Amazon with
 experience shaping his entire intellectual framework. He continued ethnobotanical
 fieldwork through the 1970s–80s, studying psychoactive plants in the Amazon,
 Mexico, and Southeast Asia, influenced by [[richard-evans-schultes]] and
-[[r-gordon-wasson]]. He married ethnobotanist Kathleen Harrison (later
+[[gordon-wasson]]. He married ethnobotanist Kathleen Harrison (later
 divorced); two children. In later years he lived on Hawaii's Big Island,
 cultivating rare psychoactive plants. He died April 3, 2000, from glioblastoma
 multiforme at age 53.
@@ -144,7 +144,7 @@ culture, influencing decriminalization movements, artists, and filmmakers.
 
 ## Relationships
 - **Brother:** [[dennis-mckenna]] — ethnopharmacologist and collaborator
-- **Influenced by:** [[richard-evans-schultes]], [[r-gordon-wasson]],
+- **Influenced by:** [[richard-evans-schultes]], [[gordon-wasson]],
   [[albert-hofmann]], [[aldous-huxley]]
 - **Peers:** [[timothy-leary]], [[ralph-metzner]], [[claude-naranjo]],
   [[stanislav-grof]], [[jonathan-ott]], [[alexander-shulgin]], [[andrew-weil]]

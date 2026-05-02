@@ -93,7 +93,7 @@ Pitjantjatjara people of Australia sing over sand patterns and are able to "sing
 
 ## Related Topics
 
-- [[permaculture-designers-manual-edge-effect-design]] - Edge effect design
+- [[mollison-designers-edge-effect-design]] - Edge effect design
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design
 - [[permaculture-designers-manual-cropping-patterns]] - Cropping patterns
 - [[permaculture-designers-manual-keyhole-garden]] - Keyhole garden design

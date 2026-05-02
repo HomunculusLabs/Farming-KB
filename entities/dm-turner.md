@@ -86,14 +86,14 @@ in print. This comparative approach has influenced subsequent psychedelic litera
 Turner's introduction included a comprehensive history of psychedelics "from the Creation of Gods to the Demise of
 Psychedelic Reverence in Modern Times," documenting the trajectory from [[albert-hofmann]]'s discovery of LSD through
 the 1960s counterculture to the prohibition era. His work referenced and built upon the contributions of
-[[r-gordon-wasson]], [[richard-evans-schultes-updated]], [[alexander-shulgin]], and [[terence-mckenna]]. Turner
+[[gordon-wasson]], [[richard-evans-schultes-updated]], [[alexander-shulgin]], and [[terence-mckenna]]. Turner
 positioned himself within this intellectual tradition while extending it through his willingness to explore territories
 that previous writers had approached more cautiously.
 
 ## Related
 
 - [[alexander-shulgin]] — Turner's guide complemented Shulgin's PIHKAL/TIHKAL with user-oriented practical information
-- [[r-gordon-wasson]] — Turner documented Wasson's role in bringing psilocybin to Western attention
+- [[gordon-wasson]] — Turner documented Wasson's role in bringing psilocybin to Western attention
 - [[entheogen-culture]] — central theme of Turner's explorations
 - [[psychedelic-compounds-reference]] — comparative substance analysis
 - [[ketamine-reference]] — substance most associated with Turner's final years and evolving safety concerns

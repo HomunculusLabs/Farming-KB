@@ -81,7 +81,7 @@ Fungal succession also occurs below ground as soil develops:
 
 ## Related
 
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[fungal-chromogens-and-color-change]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

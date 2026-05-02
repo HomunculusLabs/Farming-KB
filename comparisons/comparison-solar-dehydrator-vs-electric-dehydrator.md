@@ -3,7 +3,8 @@ title: "Solar Dehydrator vs Electric Dehydrator"
 tags: [comparison, food-preservation, off-grid, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 ---
 
 # Solar Dehydrator vs Electric Dehydrator

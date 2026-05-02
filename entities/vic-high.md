@@ -13,17 +13,6 @@ sources:
 
 Vic High is a cannabis breeder and cultivator associated with the BCGA (British Columbia Growers Association), known for his detailed technical writings on creating true-breeding cannabis strains (IBLs — Inbred Lines). His breeding guide was featured in [[greg-green]]'s *The Cannabis Grow Bible*, and his photographs appear throughout the book.
 
-
-
-
-
-
-
-
-
-
-
-
 ## Creating True Breeding Strains
 
 Vic High's seminal guide "Creating True Breeding Strains" is one of the most accessible and technically detailed explanations of cannabis genetics available to home breeders. Key concepts:
@@ -51,31 +40,9 @@ The fundamental principle: "breeding is about manipulating gene frequencies — 
 4. Track gene frequencies mathematically using Hardy-Weinberg equilibrium
 5. Distinguish between true breeding for specific traits vs overall uniform population
 
-
-
-
-
-
-
-
-
-
-
-
 ## Significance
 
 While [[robert-clarke]]'s *Marijuana Botany* covers the botanical science, Vic High's work focuses on the practical mechanics of creating stable, reproducible strains. His contributions helped democratize advanced breeding techniques for the cannabis community, alongside other notable breeders like Chimera and Strawdog.
-
-
-
-
-
-
-
-
-
-
-
 
 ## Related
 

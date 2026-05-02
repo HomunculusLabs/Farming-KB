@@ -86,9 +86,9 @@ This gap means the vast majority of fungal species remain unknown to science.
 - Many "known" species are actually species complexes
 - Examples:
   - *Amanita muscaria*: 6+ phylogenetic species globally
-  - *Pleurotus ostreatus* complex: Multiple species across continents
+  - *[[pleurotus-ostreatus]]* complex: Multiple species across continents
   - *Armillaria mellea* complex: At least 10+ species in North America alone
-  - *Fusarium graminearum* complex: 15+ phylogenetic species
+  - *[[fusarium-graminearum]]* complex: 15+ phylogenetic species
 - Cryptic species have different ecological roles, host ranges, and geographic distributions
 
 ### DNA-Based Species Discovery

@@ -11,7 +11,7 @@ sources:
 
 Escaline (3,5-Dimethoxy-4-ethoxyphenethylamine) is a psychedelic phenethylamine closely related to mescaline-entity|mescaline.
 
-It is documented as entry #168 in PiHKAL by Alexander Shulgin.
+It is documented as entry #168 in PiHKAL by [[alexander-shulgin]].
 
 Escaline is an ethoxy analogue of mescaline-entity|mescaline, with one of the methoxy groups replaced by an ethoxy group.
 
@@ -55,7 +55,7 @@ The compound is described as producing a "clean" psychedelic experience with few
 
 Escaline is one of several 4-alkoxy analogues of mescaline-entity|mescaline explored in PiHKAL.
 
-The series includes mescaline-entity|mescaline (4-methoxy), escaline (4-ethoxy), proscaline-entity|proscaline (4-propoxy), and buscaline-entity|buscaline (4-butoxy).
+The series includes mescaline-entity|mescaline (4-methoxy), escaline (4-ethoxy), [[proscaline-entity]]|proscaline (4-propoxy), and buscaline-entity|buscaline (4-butoxy).
 
 As the 4-position alkoxy chain lengthens, potency generally increases then decreases, with the ethoxy (escaline) and propoxy (proscaline-entity|proscaline) positions showing the most favorable profiles.
 

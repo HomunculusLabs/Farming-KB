@@ -10,26 +10,12 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #19. 2-Bromo-4,5-methylenedioxy-A.
 
-
-
-
-
-
-
-
 ## Dosage and Duration
 
 | Property | Value |
 |----------|-------|
 | Dosage | 350 mg. |
 | Duration | unknown. |
-
-
-
-
-
-
-
 
 ## Extensions and Commentary
 
@@ -41,13 +27,6 @@ other qualitative comments have been made available, and neither I nor
 anyone in my circle has tried it, personally. Someday, perhaps. But
 at that high level, perhaps not.
 
-
-
-
-
-
-
-
 ## Synthesis
 
 A solution of 3,4-methylenedioxyamphetamine (MDA) in acetic
@@ -56,23 +35,9 @@ salt of 2-bromo-4,5-methylenedioxyamphetamine in a yield of 61% of
 
 theory. The mp was 221-222 deg C. Anal. (C10H13Br2NO2) C,H,Br.
 
-
-
-
-
-
-
-
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-
-
-
-
-
-
 
 ## See Also
 

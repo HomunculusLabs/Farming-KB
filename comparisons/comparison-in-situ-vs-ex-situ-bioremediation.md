@@ -139,7 +139,7 @@ contamination.
 
 ## See Also
 
-- [[comparison-phytoremediation-vs-mycoremediation]]
+- [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[comparison-biochar-vs-mycoremediation]]
 - [[comparison-bioaugmentation-vs-biostimulation]]
 - [[comparison-biochar-remediation-vs-phytoremediation]]

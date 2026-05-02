@@ -3,7 +3,8 @@ title: "How to Use Diatomaceous Earth in the Garden"
 tags: [query, pest-control, organic-gardening, diatomaceous-earth]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Use Diatomaceous Earth in the Garden
@@ -69,8 +70,6 @@ DE performs best in dry conditions with low humidity. High humidity, rain, or he
 In greenhouse environments where humidity is naturally elevated, use ventilation fans and dehumidifiers to improve DE performance. Reapply DE after every rain event, overhead watering session, or heavy dew period.
 
 In arid and semi-arid climates, a single application can remain effective for 1 to 2 weeks. In humid environments, you may need to reapply every few days. Regular monitoring and reapplication is necessary for persistent pest pressure throughout the growing season.
-
-
 
 ## Storing and Shelf Life
 

@@ -123,7 +123,7 @@ This compounding effect means that as genetic complexity increases, the probabil
 - Decimal notation simplifies complex multi-generational gene frequency calculations.
 - [[vic-high-cannabis-phenotype-selection-criteria]]
 - [[cannabis-true-breeding-ibl-strains]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-phenotype-and-genotype-guide]]
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
 

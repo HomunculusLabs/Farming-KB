@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 # Herb Garden Design
 

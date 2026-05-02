@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, soil-biology, symbiosis]
 sources: []
 ---
-# Mycorrhizal Diversity [[soil-food-web-assessment-methods]]
+# Mycorrhizal Diversity [[ingham-soil-food-web-assessment-methods]]
 
 Assessing the diversity of [[mycorrhizal-fungi]] in ecosystems requires a combination of field sampling, morphological identification, and molecular techniques. The choice of methods depends on the mycorrhizal type (AMF vs. EMF), the research questions, and the available resources. Modern approaches increasingly rely on DNA-based methods to complement or replace traditional morphological identification.
 

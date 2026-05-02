@@ -419,13 +419,13 @@ all who wish to grow.
 ## See Also
 
 - [[plant-propagation-methods]]
-- [[plant-propagation-techniques]]
+- plant propagation techniques
 - [[plant-propagation]]
 - [[grafting-fruit-trees]]
 - [[tissue-culture-cloning]]
 - [[seed-germination-techniques-solomon]]
 - [[seed-quality-and-selection-solomon]]
-- [[seed-starting-and-transplanting]]
+- [[solomon-seed-starting-transplanting]]
 - [[seed-starting-indoors]]
 - [[seed-selection-breeding-holzer]]
 - [[seed-starting-reference]]

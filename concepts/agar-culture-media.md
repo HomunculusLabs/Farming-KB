@@ -28,7 +28,7 @@ cannot metabolize agar itself, making it an inert structural component.
 
 ### Malt Extract Agar (MEA)
 
-The most widely used general-purpose medium in mushroom cultivation:
+The most widely used general-purpose medium in [[mushroom-cultivation]]:
 
 - **Malt extract**: 20 g (provides carbohydrates, amino acids, minerals)
 - **Agar**: 15--20 g
@@ -71,7 +71,7 @@ from wild specimens and for maintaining finicky species.
 Used for species that benefit from more complex carbohydrates. Oats are
 boiled, the broth strained, and used as the base with 15--20 g/L agar.
 Oatmeal agar produces exceptionally rhizomorphic mycelium for many
-Pleurotus species.
+[[pleurotus-species]].
 
 ## Selective Media
 

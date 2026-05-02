@@ -8,21 +8,9 @@ sources:
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 ---
 
-
-
-
-
-
-
 ## Overview
 
 White-rot fungi (Basidiomycota) are the most effective known biological agents for degrading lignin and a wide range of recalcitrant environmental pollutants. Their nonspecific ligninolytic enzyme systems — primarily [[mycoremediation-enzymology|laccase, lignin peroxidase (LiP), and manganese peroxidase (MnP)]] — can oxidize structurally diverse compounds including PAHs, PCBs, dyes, explosives, and pesticides.
-
-
-
-
-
-
 
 ## Key Genera and Species
 
@@ -48,21 +36,9 @@ Often superior to P. chrysosporium in rate and extent of degradation. Produces l
 - **Dichomitus squalens** — 95% removal of Orange G via laccase and MnP
 - **Cyathus bulleri** — 96-100% decolorization of triphenylamine dyes via laccase
 
-
-
-
-
-
-
 ## Mechanism of Action
 
 White-rot fungi degrade pollutants through their ligninolytic system, originally evolved to break down lignin — the second most abundant biopolymer on Earth. The nonspecific nature of LiP and MnP (enhanced by redox mediators) enables oxidation of compounds with structural similarity to lignin. Laccases oxidize phenolic compounds and, with mediators, extend to non-phenolic substrates.
-
-
-
-
-
-
 
 ## Environmental Factors
 
@@ -70,12 +46,6 @@ White-rot fungi degrade pollutants through their ligninolytic system, originally
 - **Carbon source** influences enzyme profiles (glucose, cellulose, wood)
 - **Agitation** dramatically affects outcomes (e.g., Bjerkandera sp. BOS55: static 8% vs. agitated 98% for Amaranth)
 - **pH** affects enzyme activity and stability
-
-
-
-
-
-
 
 ## Related Concepts
 

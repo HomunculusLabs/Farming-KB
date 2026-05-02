@@ -117,4 +117,3 @@ Bamboo structures require periodic inspection for pest damage, moisture ingress 
 ## Summary
 
 Bamboo and cob are complementary rather than competing natural building methods. Bamboo excels where speed, tensile strength, and rapid renewable growth are priorities — primarily in tropical climates. Cob excels where thermal mass, compressive strength, and sculptural versatility matter most — primarily in temperate climates. The best choice depends on your climate zone, available materials, labor capacity, and design goals. For many homesteaders, the answer is not one or the other — it is both, each deployed where it performs best.
-

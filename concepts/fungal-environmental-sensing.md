@@ -112,7 +112,7 @@ Hyphae exhibit various tropisms — directional growth responses to environmenta
 
 - [[fungal-environmental-sensing-signal-transduction]]
 
-- [[gadd-fungal-environmental-sensing]]
+- fungal environmental sensing
 
 - [[fungal-biology-fundamentals]] — Core principles of fungal biology
 - fungal cell biology — Cellular organization and intracellular processes

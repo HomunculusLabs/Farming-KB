@@ -12,7 +12,7 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
 ---
 
-# [[salvia-divinorum-entity]] and the Diviner's Sage
+# [[salvia-divinorum]] and the Diviner's Sage
 
 Salvia divinorum, known to the Mazatec Indians of Oaxaca, Mexico, as
 Hierba de la Pastora ("herb of the shepherdess") or Hierba de la

@@ -130,7 +130,7 @@ Finished compost is dark brown, crumbly, smells like forest floor (earthy, not s
 - [[hot-composting-vs-vermicompost-vs-bokashi]] — comparison
 - [[humanure-composting]] — thermophilic composting of human manure
 - [[vermicomposting]] — advanced worm farming: species, bin designs, troubleshooting
-- [[biochar-in-agriculture|biochar]]]
+- [[biochar-in-agriculture|biochar]]
 - [[composting-systems-design-comparison]]
 - [[permaculture-history-timeline]]
 - [[garden-soil-basics]]

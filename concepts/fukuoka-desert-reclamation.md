@@ -11,12 +11,6 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 
 In his later years, Masanobu Fukuoka applied natural farming principles to desert reclamation, believing that deserts were largely human-made and could be restored through natural methods. He conducted reclamation projects in Africa, India, and the Middle East.
 
-
-
-
-
-
-
 ## Core Method: Clay Seed Balls
 
 ### Preparation
@@ -39,12 +33,6 @@ In his later years, Masanobu Fukuoka applied natural farming principles to deser
 - No irrigation, no fertilizer, no ongoing maintenance needed
 - Monitor but don't intervene
 
-
-
-
-
-
-
 ## The Philosophy
 
 ### Deserts Are Human-Created
@@ -62,24 +50,12 @@ Fukuoka argued that most deserts expanded due to human activity: overgrazing, de
 - Africa: Mixed results — seed ball germination successful but grazing pressure remained a problem
 - Key lesson: human communities must be part of the solution — livestock management must change
 
-
-
-
-
-
-
 ## Limitations and Criticisms
 - Seed balls work best where some moisture is available — truly arid deserts (Sahara interior) may be beyond restoration
 - Grazing animals (goats, cattle) can destroy seedlings before establishment
 - Success takes 5-10+ years to become visible
 - Scale: effective for degraded land but not for reversing continental desertification
 - Requires protection from grazing during establishment phase
-
-
-
-
-
-
 
 ## Related
 - [[fukuoka-one-straw-revolution-philosophy]] — for philosophical foundation

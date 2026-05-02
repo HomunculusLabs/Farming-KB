@@ -66,7 +66,6 @@ If leaf mold cannot be collected, it can be made:
 
 JADAM connects this approach to four thousand years of Korean organic farming. With its mountainous terrain, Korea has leaf mold treasures buried everywhere. The key to optimization of the soil environment -- balance and diversity -- has always been present in the mountains. Science is not ready to judge which organism is beneficial or harmful; the best choice is to accept nature as it is.
 
-
 ## Soil Food Web Implications
 
 Leaf mold supports a complete soil food web: bacteria and fungi break down organic matter, protozoa and nematodes consume the microbes and release plant-available nutrients through the microbial loop, and larger organisms including earthworms and arthropods create soil structure through their burrowing and feeding activities. This biological complexity is what distinguishes living leaf mold soil from sterile potting mixes. Plants grown in leaf mold soil develop more extensive mycorrhizal networks and show improved disease resistance compared to plants in conventional growing media, because the diverse microbial community provides natural disease suppression through competitive exclusion and antibiosis.

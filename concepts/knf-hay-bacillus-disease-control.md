@@ -70,7 +70,6 @@ For foliar application, the culture is diluted at 1:500 with water and mixed wit
 
 Hay bacillus is particularly effective against foliar diseases such as powdery mildew, downy mildew, and bacterial leaf spot. It can also be applied to soil as a drench to suppress soil-borne pathogens like Fusarium and Rhizoctonia. Regular applications throughout the growing season maintain a protective bacterial film on plant surfaces.
 
-
 ## Scientific Basis
 
 Bacillus subtilis is one of the most extensively studied beneficial bacteria in agriculture. As an endospore-forming bacterium, it produces robust, long-lasting colonies that survive environmental stresses including UV exposure, desiccation, and temperature extremes. The species produces over two dozen antimicrobial compounds, including surfactin (a lipopeptide biosurfactant), bacillaene (a polyketide antibiotic), subtilin (a lantibiotic), and bacilysin. These compounds target different classes of plant pathogens, making resistance development unlikely. Research published in Biocontrol Science and Technology has demonstrated that B. subtilis strains can reduce disease incidence by 40-70% in controlled trials against powdery mildew on cucurbits and leaf spot on peppers.

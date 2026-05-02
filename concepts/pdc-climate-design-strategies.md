@@ -36,7 +36,7 @@ Williams organizes design strategies around five broad climate types, acknowledg
 **Characteristics**: Four distinct seasons, moderate precipitation, moderate temperature range. Summers warm to hot, winters cool to cold. Most of North America, Europe, and parts of Asia fall in this category.
 
 **Design priorities**:
-- **Seasonal extension**: Extending the growing season through passive solar design, cold frames, [[comparison-passive-solar-vs-earth-sheltered]], and microclimate creation
+- **Seasonal extension**: [[extending-growing-season]] through passive solar design, cold frames, [[comparison-passive-solar-vs-earth-sheltered]], and microclimate creation
 - **Winter protection**: Windbreaks, thermal mass, insulation for structures, frost pockets identification and management
 - **Summer cooling**: Shade trees, ventilation, evaporative cooling, reflective surfaces
 - **[[water-management]]**: Handling seasonal precipitation patterns (wet springs, dry summers in some areas)

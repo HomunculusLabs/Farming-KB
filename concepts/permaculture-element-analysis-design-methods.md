@@ -4,7 +4,9 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
 
 # Permaculture Element Analysis and Design Methods

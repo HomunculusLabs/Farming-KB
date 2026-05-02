@@ -147,4 +147,3 @@ See [[mushroom-harvesting-potency]] for complete details:
 ### Stage Three: Spore Printing and Syringe Making
 
 Related: [[brown-rice-flour-substrate]]
-

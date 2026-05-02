@@ -79,7 +79,6 @@ paraphernalia. Psylocybe Fanaticus was ultimately prosecuted not for the
 spores themselves but for conspiracy to manufacture controlled substances,
 based on the cultivation instructions he provided alongside the spore sales.
 
-
 ## Limitations and Storage
 
 Spore syringes have several limitations that cultivators should understand.

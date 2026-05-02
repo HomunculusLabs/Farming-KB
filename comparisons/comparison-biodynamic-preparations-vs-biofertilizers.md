@@ -3,7 +3,8 @@ title: "Biodynamic Preparations vs Biofertilizers"
 tags: [comparison, biodynamics, biofertilizers, soil-amendments, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Biodynamic Preparations vs Biofertilizers

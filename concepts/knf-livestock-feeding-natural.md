@@ -52,7 +52,7 @@ KNF natural farming inputs are regularly added to livestock feed and water:
 - **[[knf-oriental-herbal-nutrient]]:** Provides herbal medicine benefits, boosts immunity, and prevents disease
 - **[[knf-fish-amino-acid]]:** Provides protein and amino acids, especially important during growth stages
 - **[[lactic-acid-bacteria-knf]]:** Added to drinking water to maintain gut health, prevent diarrhea, and improve digestion
-- **[[knf-water-soluble-calcium-wsca]]:** Essential for bone development and eggshell formation; given to pregnant or breeding animals
+- **[[water-soluble-calcium-wca]]:** Essential for bone development and eggshell formation; given to pregnant or breeding animals
 - **[[knf-water-soluble-calcium-phosphate]]:** Used as drinking water (1:500 dilution) for livestock that are pregnant or ovulating
 - **[[knf-seawater-and-fermented-seawater]]:** Provides trace minerals; diluted 1:30 with water
 - **[[knf-brown-rice-vinegar]]:** Aids calcium absorption, supports liver function, prevents disease; added to water at specified dilutions

@@ -3,7 +3,8 @@ title: Fruit Tree Guilds vs Companion Planting
 tags: [permaculture, polyculture, plant-interactions, food-forest, design]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Fruit Tree Guilds vs Companion Planting

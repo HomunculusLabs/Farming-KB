@@ -92,7 +92,6 @@ Not scheduled at the US federal level but listed as a "drug of concern" by the D
 
 Propagation is almost exclusively through stem cuttings, which root readily in water or moist medium within 2–4 weeks. The plant prefers partial to full shade, rich well-draining soil (pH 6.0–7.0), high humidity (60–80%+), and temperatures of 15–27°C. It is frost-sensitive (hardy only in USDA zones 10–11) and can be grown as a houseplant with humidity supplementation. Pests include spider mites, aphids, and whiteflies. The plant's global cultivation is widespread despite legal restrictions, distributed through informal networks of cuttings.
 
-
 ## Effects Spectrum
 
 The subjective effects of salvinorin A are qualitatively distinct from classical psychedelics due to the KOR mechanism:

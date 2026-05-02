@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-metabolic-pathway-of-psilocybin-production.md"
 ---
 
 # Fungal Sporulation Strategies

@@ -19,7 +19,7 @@ and longevity. They can be used independently or combined for maximum effect, wi
 sheet mulching often serving as the foundation layer beneath hugelkultur mounds.
 
 ## Hugelkultur
-[[hugelkultur-guide]]
+[[hemenway-hugelkultur-guide]]
 Hugelkultur is a raised-bed technique originating from Eastern European and German
 traditions that buries logs, branches, and woody debris beneath layers of green
 nitrogen material, compost, topsoil, and mulch to create mounds typically three to six

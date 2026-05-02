@@ -89,7 +89,7 @@ dopamine system interactions. These differences suggest that psilocybin
 may work through fundamentally different mechanisms than conventional
 antidepressants.
 ## End-of-Life Anxiety and Distress
-Psilocybin therapy for individuals facing life-threatening illness has produced
+[[psilocybin-therapy]] for individuals facing life-threatening illness has produced
 robust results. A 2016 randomized controlled trial at Johns Hopkins found that
 a single dose of psilocybin produced significant and sustained reductions in
 depression and anxiety in patients with cancer diagnoses, with effects lasting

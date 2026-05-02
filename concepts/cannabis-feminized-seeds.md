@@ -138,6 +138,6 @@ pollinate the majority of a crop.
 - [[cannabis-seed-production]]
 - [[cannabis-pollen-collection]]
 - [[cannabis-sinsemilla-life-cycle]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-seed-selection-and-strain-types]]
 - [[cannabis-photoperiodism-and-light-cycles]]

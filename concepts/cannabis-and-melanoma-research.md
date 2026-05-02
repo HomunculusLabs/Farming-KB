@@ -112,7 +112,7 @@ The evidence for cannabis and melanoma is limited to one laboratory study and an
 ## Related Topics
 
 - [[cannabis-endocannabinoid-system]]
-- [[cannabis-and-skin-diseases]]
+- [[blesching-cannabis-skin-diseases]]
 - [[cannabis-for-cancer-patients]]
 - [[cannabis-topical-applications]]
 - [[cannabis-anti-inflammatory-applications]]

@@ -23,7 +23,7 @@ permaculture principles for extending the growing season. Unlike conventional
 glasshouses that rely on fossil fuel heating, a well-designed passive solar
 greenhouse uses the building itself as a solar collector, storing daytime heat
 in thermal mass and releasing it slowly at night. The concept draws heavily on
-[[williams-pdc-passive-solar-design]], which emphasizes building orientation,
+[[passive-solar-design]], which emphasizes building orientation,
 glazing ratios, and thermal mass placement for maximum solar gain during winter
 months when the sun angle is lowest and heat retention matters most.
 
@@ -131,4 +131,4 @@ continuous harvests through the darkest months.
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
 - [[query-how-to-build-a-raised-bed-garden]]
 - [[query-how-to-build-a-swale-for-water-harvesting]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]

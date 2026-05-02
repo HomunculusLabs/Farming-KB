@@ -11,15 +11,11 @@ sources: [/Users/t3rpz/wiki/racannabis-sativadern-farm-why-cannabis-grown-with-l
 
 Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an acyclic monoterpene that is the most abundant terpene found in most cannabis (*Cannabis sativa*) cultivars. It plays a critical role in determining the aroma, flavor, and pharmacological effects of cannabis and is increasingly recognized for its own therapeutic properties, including sedative, anti-inflammatory, analgesic, and muscle relaxant activities.
 
-
-
 ## Chemical Properties
 
 Myrcene has the molecular formula C10H16 and a molecular weight of 136.23 g/mol. It is an unsaturated hydrocarbon consisting of a ten-carbon isoprene-derived chain with two double bonds. At room temperature, myrcene is a colorless to pale yellow liquid with a characteristic earthy, herbal, and slightly fruity aroma reminiscent of cloves, thyme, and tropical fruits such as mango.
 
 Myrcene exists in two isomeric forms: α-myrcene and β-myrcene, with the beta isomer being far more common in nature and of greater biological significance. The compound is lipophilic and volatile, contributing to the characteristic aroma of many essential oils and plant resins.
-
-
 
 ## Natural Occurrence
 
@@ -30,8 +26,6 @@ Myrcene is one of the most widely distributed terpenes in the plant kingdom and 
 - **Mango (*Mangifera indica*)**: Myrcene is a significant aroma compound in ripe mangoes, contributing to their tropical fragrance.
 - **Lemongrass (*Cymbopogon citratus*)**: Contains myrcene along with citral and other terpenes.
 - **Bay laurel (*Laurus nobilis*)**, **thyme (*Thymus vulgaris*)**, **parsley (*Petroselinum crispum*)**, and **eucalyptus** species are additional notable sources.
-
-
 
 ## Role in Cannabis
 
@@ -46,8 +40,6 @@ Myrcene content is one of the primary determinants of cannabis chemotype climone
 ### Cultivation Factors Affecting Myrcene Content
 
 Myrcene levels are influenced by numerous agronomic and environmental factors including genetics (the primary determinant), light spectrum (UV-B can upregulate terpene biosynthesis), nutrient availability (adequate phosphorus and micronutrients support terpene production), harvest timing (myrcene typically peaks late in the flowering cycle), and drying and curing conditions.
-
-
 
 ## Pharmacological Properties
 
@@ -71,13 +63,9 @@ The muscle relaxant properties of myrcene have been demonstrated in preclinical 
 
 Myrcene exhibits moderate antioxidant activity, scavenging free radicals and reducing oxidative stress in cellular and animal models. This antioxidant capacity contributes to its anti-inflammatory and neuroprotective effects.
 
-
-
 ## Safety and Toxicology
 
 Myrcene is generally recognized as safe (GRAS) by the United States Food and Drug Administration for use as a flavoring agent. It is widely consumed through dietary sources including hops in beer, mangoes, lemongrass tea, and numerous herbs and spices. Oral LD50 values in animal studies are relatively high (>5 g/kg in rodents), indicating low acute toxicity.
-
-
 
 ## Industrial Applications
 

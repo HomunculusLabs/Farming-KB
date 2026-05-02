@@ -81,7 +81,6 @@ Common challenges include slug predation on developing fruiting bodies, substrat
 
 With proper annual maintenance, a well-established Stropharia patch remains productive for 3 to 5 years before the original substrate is fully decomposed. At that point, a new bed can be established nearby using material from the old bed as starter inoculum, creating a self-perpetuating mushroom cultivation system that expands across your property over time.
 
-
 ## Troubleshooting Common Problems
 Several issues commonly arise when growing King Stropharia outdoors. Understanding these problems and their solutions helps ensure a productive harvest throughout the growing season.
 

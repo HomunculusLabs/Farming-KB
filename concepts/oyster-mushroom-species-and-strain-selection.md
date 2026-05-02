@@ -32,7 +32,7 @@ fade to pale pink or white at maturity.
 
 ## Temperature Classification
 
-Oyster mushroom species are broadly categorized by their temperature
+[[oyster-mushroom-species]] are broadly categorized by their temperature
 preferences, which directly determine seasonal suitability and facility
 requirements. Cold-fruiting species (*P. ostreatus*, *P. eryngii*, king
 oyster) thrive at 10 to 18 degrees and are ideal for winter production or
@@ -59,7 +59,7 @@ Within each species, individual strains exhibit distinct characteristics shaped
 by selective breeding and genetic variation. A strain of *P. ostreatus* might
 produce large caps on straw, while another strain of the same species might
 colonize faster on coffee grounds but produce smaller mushrooms. Strain
-attributes of commercial importance include biological efficiency (fresh weight
+attributes of commercial importance include [[biological-efficiency]] (fresh weight
 of mushrooms harvested per dry weight of substrate), fruiting speed (days from
 pinning to harvest), cluster size and uniformity, cap color and shape, disease
 resistance, and post-harvest shelf life. Commercial suppliers offer strain

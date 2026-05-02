@@ -8,19 +8,9 @@ sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-
-
-
-
-
 ## Overview
 
 Fungal conservation is a critically underdeveloped area of biodiversity protection. With an estimated 1.5 million fungal species on Earth and only 5-10% formally described, conservation efforts face a fundamental knowledge gap. Fungi play essential roles in nutrient cycling, plant health, decomposition, and ecosystem stability, yet they are frequently excluded from biodiversity conservation planning and land-use management decisions (Hawksworth, 1991).
-
-
-
-
-
 
 ## The Scale of the Problem
 
@@ -30,19 +20,9 @@ Fungal conservation is a critically underdeveloped area of biodiversity protecti
 - In temperate areas, approximately six times as many fungi occur as native plant species
 - A single 200-hectare site can harbor 2,500-3,000 species if studied by multiple specialists over 25+ years
 
-
-
-
-
-
 ## Challenges in Assessing Rarity
 
 With the present state of knowledge, it is almost impossible to designate truly rare or threatened species that merit conservation efforts. Many taxa known from only single collections may reflect low intensity of collecting rather than genuine rarity. Rarity may be an artifact of the specialized requirements of certain fungal groups (Richardson, 2001). For example, many coprophilous (dung-inhabiting) fungi have narrow host ranges, and with every loss of habitat or host, the potential for loss of the mycobiota is high.
-
-
-
-
-
 
 ## Key Conservation Strategies
 
@@ -66,19 +46,9 @@ Coprophilous fungi and other specialized groups can serve as useful indicators o
 
 Fungi must be included in considerations of biodiversity conservation, land-use planning, and management. They frequently have been ignored in these contexts, despite their fundamental roles in ecosystem processes.
 
-
-
-
-
-
 ## Why Fungal Conservation Matters
 
 Without fungi, major problems in nutrient cycling would occur, plants would suffer without soil nutrients secured by fungi, many animals would lose food sources, woody materials would not break down, soil structures would differ, and sources of antibiotics and other pharmaceutical products would be diminished.
-
-
-
-
-
 
 ## Related Concepts
 

@@ -384,7 +384,7 @@ field selection represents the future of the discipline.
 - [[cannabis-breeding-basics]]
 - [[cannabis-breeding-fundamentals]]
 - [[cannabis-genetics-and-breeding]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-genetic-stability]]
 - [[cannabis-breeding-selection-principles-clarke]]
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]

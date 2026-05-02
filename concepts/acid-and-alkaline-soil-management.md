@@ -9,13 +9,9 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Acid and Alkaline Soil Management
 
-
-
 ## Overview
 
 Before deciding on a soil-feeding regime, you must discover whether your soil is acid or alkaline. This affects both cultivation technique and plant selection. Acidity/alkalinity is determined by lime content, measured using a pH test on a scale of 1-14 (neutral = 7; above = alkaline; below = acid).
-
-
 
 ## Testing Soil pH
 
@@ -24,8 +20,6 @@ Before deciding on a soil-feeding regime, you must discover whether your soil is
 - Yellow/orange = acid soil; bright green = neutral; dark green = alkaline
 - Color charts provide more precise readings
 - Test when taking over a new garden; repeat annually if trying to alter pH
-
-
 
 ## Raising Soil pH (Making Acid Soil More Alkaline)
 
@@ -59,8 +53,6 @@ Apply small amounts regularly rather than large quantities. Excessive lime can s
 
 Adding lime to heavy clay soils helps bind particles together through a process called "flocculation" — tiny clay particles bind into larger crumbs through which air, water, and roots can freely pass.
 
-
-
 ## Lowering Soil pH (Making Alkaline Soil More Acid)
 
 This is more difficult than raising pH. Few garden soils are so limy they will not grow vegetables at all.
@@ -79,10 +71,36 @@ The only option is growing them in pots or building a raised bed (ideally of rai
 - Fill with half acid soil + half peat-substitute, OR three parts peat-substitute to one part sharp sand
 - Plant as for shrubs; spread chipped pine bark around the bed
 
-
-
 ## Related
 
 - [[trace-elements-in-soil]] — how excessive lime locks up trace elements
 - [[clubroot-disease-management]] — lime helps control clubroot
 - [[soil-conditioners-guide]] — organic materials that help modify soil pH
+
+## Practical Context
+Acid And Alkaline Soil Management is relevant to farming knowledge because it connects observation,
+site conditions, and management choices. Treat it as a working topic rather
+than a standalone label: the useful questions are where it appears, what
+conditions make it stronger or weaker, and how it changes decisions in the
+field.
+
+## Field Indicators
+Look for repeated patterns across seasons instead of relying on a single
+observation. Useful indicators include substrate or soil condition, moisture
+availability, disturbance history, plant or fungal associates, and the timing
+of visible changes. Recording these factors makes the page easier to connect
+to local trials and future notes.
+
+## Management Relevance
+In a production or homestead setting, the topic matters when it affects yield,
+resilience, ecological function, safety, or maintenance labor. Decisions should
+be scaled to the site: small trials, careful monitoring, and comparison against
+an untreated area are usually more reliable than immediate whole-system
+changes.
+
+## Related Topics
+- [[holzer-green-manure-and-soil-building-plants]]
+- [[organic-vegetable-garden-rotation-deep-beds]]
+- [[green-cannabis-grow-bible-soil-and-medium-preparation]]
+- [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
+- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]

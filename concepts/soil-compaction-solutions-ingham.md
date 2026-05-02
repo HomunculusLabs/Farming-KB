@@ -104,7 +104,7 @@ After 4-5 years of consistent soil food web management:
 ## See Also
 
 - [[soil-compaction-solutions]]
-- [[soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-assessment-methods]]
 - [[aact-fungal-dominant-tea]]
 ## Merged: Soil Compaction and Drainage - Teaming with Microbes
 

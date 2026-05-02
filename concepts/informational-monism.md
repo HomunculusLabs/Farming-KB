@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 
 # Informational Monism

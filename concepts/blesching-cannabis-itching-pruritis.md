@@ -32,7 +32,7 @@ See also: [[blesching-cannabis-dermatological-conditions]],
 [[blesching-cannabis-skin-cancer-non-melanoma]],
 [[blesching-cannabis-melanoma]],
 [[blesching-cannabis-herpes-hsv]],
-[[blesching-cannabis-fibromyalgia]]
+[[cannabis-and-fibromyalgia]]
 
 ## Causes of Itching
 

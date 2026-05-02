@@ -72,7 +72,6 @@ Critics argue that Allegro's methodology relies on selective citation of Sumeria
 - The goddess-god dynamic in these myths was interpreted as reflecting the earth-mushroom relationship
 - The [[allegro-philological-methodology]] underlying these claims has been heavily criticized by mainstream scholars
 
-
 ## Academic Reception and Criticism
 
 John Allegro's hypothesis that early Christianity originated from a

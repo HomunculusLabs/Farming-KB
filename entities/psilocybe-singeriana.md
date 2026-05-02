@@ -11,19 +11,9 @@ sources: [/Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamet
 
 **Psilocybe singeriana** is a bluing psilocybin-containing mushroom species named in honor of the eminent mycologist Rolf Singer. It is a lesser-known tropical species within the Psilocybe genus.
 
-
-
-
-
-
 ## Taxonomy and Etymology
 
 The species epithet commemorates Rolf Singer, one of the most prolific agaric taxonomists of the 20th century, who made significant contributions to the classification of Psilocybe and related genera. Singer's monographic work on agarics in tropical America laid the groundwork for understanding fungal diversity in neotropical regions. The species was described from material collected in tropical habitats.
-
-
-
-
-
 
 ## Description
 
@@ -42,46 +32,21 @@ The species epithet commemorates Rolf Singer, one of the most prolific agaric ta
 - **Cheilocystidia:** Abundant, polymorphic, often forming a sterile band on gill edges. Cells are ventricose with narrow necks, sometimes capitate.
 - **Pleurocystidia:** Present in some collections, similar in morphology to cheilocystidia.
 
-
-
-
-
-
 ## Distribution and Habitat
 
 Reported from tropical and subtropical regions of the Americas. It is likely a saprotrophic species growing on decaying plant matter, rich soils, or among grasses in humid forested environments. The exact geographic range and ecological preferences are not thoroughly documented in the literature.
-
-
-
-
-
 
 ## Chemistry
 
 Presumed to contain [[psilocybin]] and [[psilocin]] based on its placement in the genus and reported bluing reactions. The bluing reaction upon bruising is a strong indicator of the presence of these tryptamine compounds, though not all blueing species have been analytically confirmed. Quantitative data on alkaloid concentrations are limited.
 
-
-
-
-
-
 ## Similar Species
 
 [[psilocybe-cubensis-potency-variation-by-flush]] and other tropical Psilocybe species share overlapping macroscopic features. [[psilocybe-caerulescens-profile]] may also occur in similar habitats. Definitive identification requires microscopic examination of spore morphology and cystidial characters.
 
-
-
-
-
-
 ## Notes
 
 This species is among the many tropical Psilocybe taxa that remain incompletely documented. Molecular phylogenetic studies would help clarify its relationships within the genus and determine whether it belongs to Psilocybe sensu stricto or another clade.
-
-
-
-
-
 
 ## See Also
 

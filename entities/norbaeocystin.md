@@ -92,12 +92,12 @@ development before downstream conversion to psilocybin is complete.
 Notable species in which norbaeocystin has been reported include:
 
 - *Psilocybe cubensis* — trace levels
-- *Psilocybe semilanceata* — trace to low levels
+- *[[psilocybe-semilanceata]]* — trace to low levels
 - *Psilocybe cyanescens* — detectable
 - *Psilocybe azurescens* — trace levels
 - *Psilocybe baeocystis* — detectable (named species)
 - *Panaeolus cyanescens* — trace
-- *Gymnopilus spectabilis* — trace
+- *[[gymnopilus-spectabilis]]* — trace
 - *Inocybe* species — variable, often trace
 
 In most cases, reported concentrations are in the range of trace to

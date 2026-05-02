@@ -94,7 +94,7 @@ Mid vegetative: [[fish-amino-acid-faa]] for nitrogen supplementation.
 
 Changeover period: Calcium phosphate bionutrient — the focus of this page.
 
-Early reproductive: [[knf-water-soluble-calcium-wsca]], [[knf-water-soluble-phosphoric-acid-wspa]], and [[water-soluble-calcium-phosphate-wcp]].
+Early reproductive: [[water-soluble-calcium-wca]], [[knf-water-soluble-phosphoric-acid-wspa]], and [[water-soluble-calcium-phosphate-wcp]].
 
 Late reproductive/maturity: [[knf-ohn-oriental-herbal-nutrient-recipe]] for fruit quality and plant health.
 
@@ -128,7 +128,7 @@ Calcium phosphate application during the changeover period indirectly supports p
 
 ## Related Topics
 
-[[knf-water-soluble-calcium-wsca]] — complementary calcium input for later growth stages.
+[[water-soluble-calcium-wca]] — complementary calcium input for later growth stages.
 
 [[water-soluble-calcium-phosphate-wcp]] — a more refined calcium phosphate preparation.
 

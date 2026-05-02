@@ -69,7 +69,7 @@ The use of LSA-containing seeds in Mesoamerica dates back at least to the Aztec 
 - **Tlitliltzin** (Ipomoea violacea seeds): Black-seeded morning glory used in divination and healing
 - Albert Hofmann's 1960 identification of LSA and LSH in ololiuqui seeds resolved centuries of botanical debate about the identity of the Aztec "magic seeds"
 
-The Mazatec of Oaxaca continue to use ololiuqui seeds in divinatory rituals, though this practice is less common than the use of psilocybin mushrooms ([[psilocybe-cubensis]]) or Salvia divinorum ([[salvia-divinorum-entity]]).
+The Mazatec of Oaxaca continue to use ololiuqui seeds in divinatory rituals, though this practice is less common than the use of psilocybin mushrooms ([[psilocybe-cubensis]]) or Salvia divinorum ([[salvia-divinorum]]).
 
 ## Effects
 

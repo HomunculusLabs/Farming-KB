@@ -4,7 +4,8 @@ created: "2026-04-16"
 updated: "2026-04-16"
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 ---
 # Urban Ayahuasca Healing in Iquitos
 

@@ -4,7 +4,10 @@ created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
+  - "raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md"
+  - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
 # EU Hallucinogenic Mushroom Legislation Timeline
 

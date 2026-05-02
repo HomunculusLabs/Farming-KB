@@ -79,7 +79,7 @@ The [[permaculture-plants-legume-trees-acacia-carob-locust]] page profiles excel
 The [[nitrogen-fixing-trees-and-shrubs]] resource covers both perennial and annual options for every climate zone.
 Every plant guild in a permaculture design should include at least one nitrogen fixing member.
 Nitrogen fixers work best when combined with dynamic accumulator plants and deep-rooted species in polycultures.
-The [[permaculture-designers-manual-nitrogen-fixing-trees]] page provides Bill Mollison's original design recommendations.
+The [[nitrogen-fixing-trees]] page provides Bill Mollison's original design recommendations.
 Nitrogen fixers are particularly important in the early years of a food forest establishment when fruit trees are young.
 As the system matures, some nitrogen fixers can be removed or coppiced to make room for productive canopy species.
 

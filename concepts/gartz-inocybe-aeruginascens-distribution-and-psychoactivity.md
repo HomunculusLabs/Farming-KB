@@ -116,7 +116,7 @@ Unlike saprophytic psychoactive mushrooms that grow on decaying organic
 matter, Inocybe aeruginascens forms obligate mycorrhizal associations with
 deciduous trees, primarily poplars (Populus), lindens (Tilia), oaks (Quercus),
 and birches (Betula). This symbiotic relationship means the mushroom cannot be
-cultivated using standard substrate-based methods. The fungal hyphae
+cultivated using standard substrate-based methods. The [[fungal-hyphae]]
 intertwine with tree roots, exchanging minerals and water for carbohydrates
 produced by photosynthesis. This biological dependency limits the species to
 natural or semi-natural settings where suitable host trees are present.

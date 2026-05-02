@@ -62,7 +62,7 @@ For the Mazatecs, wisdom is gained during the experiences produced by the mushro
 
 ## See Also
 
-- [[harner-mazatec-mushrooms-of-language-deep]]
+- mazatec mushrooms of language
 
 [[maria-sabina-mazatec-mushroom-ceremony]]
 [[mazatec-mushroom-culture-and-velada]]

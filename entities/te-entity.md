@@ -100,8 +100,8 @@ As with all psychedelic phenethylamines, TE should not be combined with MAOIs or
 ## Index
 
 - escaline-entity|escaline: the ethoxy analogue
-- buscaline-entity|buscaline: the butoxy analogue
-- proscaline-entity|proscaline: the propoxy analogue
+- [[buscaline-entity]]|buscaline: the butoxy analogue
+- [[proscaline-entity]]|proscaline: the propoxy analogue
 - mescaline-entity|mescaline: the parent methoxy compound
 - [[phenethylamine-pharmacology]]: general pharmacology
 

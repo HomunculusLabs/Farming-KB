@@ -3,7 +3,8 @@ title: "What Is Humanure and Is It Safe?"
 tags: [query, humanure, composting, sanitation, permaculture, waste-recycling]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Is Humanure and Is It Safe?

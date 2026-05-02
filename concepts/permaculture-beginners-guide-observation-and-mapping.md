@@ -69,7 +69,7 @@ The time-compression metaphor is striking: if Earth's 4.5 billion year history w
 
 ## Design Principles as Observation Frameworks
 
-The permaculture principles in the guide serve as lenses for observation and analysis:
+The [[permaculture-principles]] in the guide serve as lenses for observation and analysis:
 
 - **Work with nature, not against:** Observe how natural systems already function and design to align with them
 - **Every function supported by many elements:** Observe whether your system has redundancy and resilience

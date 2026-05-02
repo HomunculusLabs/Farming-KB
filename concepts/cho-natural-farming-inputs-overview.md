@@ -39,7 +39,7 @@ several functional categories:
   rich liquid from fish waste
 - [[knf-water-soluble-potassium-detailed]]: Extracted from tobacco stems
 - [[knf-water-soluble-phosphoric-acid-wspa]]: Extracted from sesame stem charcoal
-- [[knf-water-soluble-calcium-wsca]]: Eggshells
+- [[water-soluble-calcium-wca]]: Eggshells
   dissolved in [[knf-brown-rice-vinegar]]
 - [[knf-water-soluble-calcium-phosphate]]: Animal bones dissolved in brown rice vinegar
 

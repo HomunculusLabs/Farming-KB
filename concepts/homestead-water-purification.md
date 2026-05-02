@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [water, homesteading, off-grid, filtration, sustainability, health]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Homestead Water Purification
@@ -142,9 +143,3 @@ Before selecting a purification system, test your water:
 - More stable than bleach for long-term storage
 - Mix a small amount with water to create a chlorine solution
 - Treat drinking water with the solution
-## See Also
-
-- [[mollison-designers-water-purification-and-storage-principles]]
-- [[mollison-water-purification-biological-treatment]]
-- [[faires-water-purification-methods]]
-- [[homestead-water-systems]]

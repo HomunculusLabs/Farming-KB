@@ -72,7 +72,6 @@ Soil science concentrates on classifications but not on how to evolve soil. Farm
 
 The core subjects of sustainable societies are uncut forests, pond and lake sediments, permanent meadows and prairies, and mulched non-tillage gardens. The greatest fertiliser is the footsteps of the gardener.
 
-
 ## Rehabilitation Strategies in Practice
 
 Practical soil rehabilitation follows a progression from surface protection

@@ -83,7 +83,7 @@ Fences integrate with many other permaculture elements:
 - The house and fence form essential trellis for climbing food plants
 - Fence posts can serve as supports for grape vines, kiwifruit, and other climbers
 - Fences define zones and access ways in the [[permaculture-designers-manual-site-development-sequence]]
-- Fence lines can incorporate [[permaculture-designers-manual-nitrogen-fixing-trees]] and [[permaculture-designers-manual-rabbit-housing]]
+- Fence lines can incorporate [[nitrogen-fixing-trees]] and [[permaculture-designers-manual-rabbit-housing]]
 - Deep shade from fence trees keeps fence lines clear of grasses and weed crop
 
 ## Planning Considerations
@@ -102,6 +102,6 @@ When planning fencing systems, consider:
 - [[permaculture-designers-manual-windbreak-species]]
 - [[permaculture-designers-manual-chicken-tractors]]
 - [[permaculture-designers-manual-grazing-management]]
-- [[permaculture-designers-manual-edge-effect-design]]
+- [[mollison-designers-edge-effect-design]]
 - [[permaculture-designers-manual-plant-propagation]]
 - [[permaculture-designers-manual-rabbit-housing]]

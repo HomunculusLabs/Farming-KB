@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Permaculture Ground Cover Plants
 

@@ -120,7 +120,7 @@ abundance in cultivation.
 
 ## See Also
 
-- [[psilocybe-tampanensis-entity]]
+- psilocybe tampanensis
 
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
 - [[psilocybe-semilanceata]]

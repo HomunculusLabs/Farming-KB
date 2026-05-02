@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, homesteading, permaculture, sustainability]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Earth Plaster and Natural Finishes
 Natural wall finishes protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.

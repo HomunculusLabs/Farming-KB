@@ -136,6 +136,6 @@ Areas with pronounced wet/dry seasons (India, Africa, northern Australia):
 Bill Mollison, Permaculture: A Designers' Manual (1988), dryland strategies sections
 Bill Mollison, Permaculture Design Course (1991), dryland lectures
 - [[permaculture-designers-manual-fish-species-guide]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
 - [[permaculture-designers-manual-cover-crops-detailed]]

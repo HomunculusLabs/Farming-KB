@@ -3,7 +3,8 @@ title: "DWC vs Ebb and Flow"
 tags: [comparison, hydroponics, dwc, ebb-and-flow, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # DWC vs Ebb and Flow
 ## Overview

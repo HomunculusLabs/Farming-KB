@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [mycology, mushrooms, cultivation, comparison]
-sources: []
+sources:
+  - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 ---
 # Mushroom Substrate Pasteurization Comparison
 

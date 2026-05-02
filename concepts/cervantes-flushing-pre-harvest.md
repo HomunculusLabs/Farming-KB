@@ -12,13 +12,9 @@ updated: 2026-04-26
 
 Pre-harvest flushing removes excess nutrients and chemical residues from the growing medium and plant tissue, improving the taste, smoothness, and burn quality of the final product. Proper timing and technique are essential to clear built-up fertilizer salts without starving the plant during its final weeks.
 
-
-
 ## Why Flush Before Harvest
 
 Latent nutrient accumulation in foliage imparts a harsh, fertilizer-like taste to harvested buds. Nitrogen remaining in plant tissue at harvest produces a harsh, green taste that does not burn well. Phosphorus and potassium excesses can also affect flavor. Flushing leaches these excess nutrients from the growing medium, allowing the plant to use up stored nutrients in its foliage before harvest.
-
-
 
 ## Timing
 
@@ -29,8 +25,6 @@ The timing depends on the growing medium:
 - **Coco coir**: Flush 7-10 days before harvest
 - **Rockwool**: Flush 5-7 days before harvest (less buffer capacity than soil)
 - **Hydroponic systems**: Drain and replace with plain pH-adjusted water for 5-7 days before harvest
-
-
 
 ## Flushing Technique
 
@@ -46,15 +40,11 @@ Organic nutrients require heavier flushing than synthetic salts. Organic amendme
 
 Products such as Final Flush are designed to expedite the clearing of built-up nutrients and chemicals from plant tissue. These chelating agents bind with mineral nutrients and help flush them from both the growing medium and the plant itself. When using such products, fertilization can continue until 3 days before harvest rather than stopping 7-10 days prior.
 
-
-
 ## Regular Maintenance Flushing
 
 Beyond pre-harvest flushing, regular leaching during the grow cycle prevents salt buildup. Flush the growing medium every two to four weeks with a mild pH-corrected fertilizer solution or plain water. A good flushing every month will keep nutrient salt levels in check, preventing the gradual accumulation that causes nutrient lockout and toxicity symptoms.
 
 When EC of the growing medium exceeds acceptable levels (above 2000 ppm in soil, or when plants show tip burn), flush immediately to restore balance. Leach soil to wash away any excess fertilizer salts that have built up over time.
-
-
 
 ## Pre-Harvest Steps
 
@@ -70,20 +60,16 @@ Many growers give plants 24 hours of total darkness before harvest and report th
 ### Step 4: Harvest Timing
 Harvest in the morning when THC content is at its peak. Growth stops at harvest and THC content cannot increase -- it stays the same or decreases. Proper handling is the key to retaining THC potency.
 
-
-
 ## Post-Flushing Considerations
 
 After flushing, the soil should be fairly dry but not dry enough that plants wilt. This will speed drying time by a day or more and not affect the quality of the end product. Avoid harvesting immediately after a heavy watering, as excess moisture in the plant tissue slows the drying process.
-
-
 
 ## See Also
 
 - [[cervantes-nutrient-mobility-deficiency-diagnosis]]
 
 - [[cervantes-harvest-techniques]] for harvest methods
-- [[cervantes-harvesting-curing]] for post-harvest handling
+- [[cannabis-harvesting-and-curing-techniques]] for post-harvest handling
 - [[cervantes-nutrient-management]] for fertilization schedules
 - [[cervantes-trichome-resin-production]] for harvest timing based on trichomes
 - [[cervantes-curing-storage]] for proper curing and storage

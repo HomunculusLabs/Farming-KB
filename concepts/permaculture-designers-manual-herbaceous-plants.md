@@ -92,5 +92,5 @@ When selecting herbaceous plants for a permaculture system, prioritise species w
 ## Source
 
 Bill Mollison, Permaculture: A Designers' Manual, Tagari Publications, 1988. Chapter 3 (Design in Landscape), Chapter 10 (Humid Tropics), Chapter 11 (Dryland Strategies), Chapter 12 (Humid Cool to Cold Climates).
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[soil-erosion-control]]

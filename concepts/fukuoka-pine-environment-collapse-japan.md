@@ -94,7 +94,7 @@ Fukuoka extends his environmental warning to human settlements:
   international division ocommon-mycorrhizal-networksgly vulnerable
 ## Mycorrhizal Network Science and Fukuoka's Warnings
 Modern mycorrhizal research has confirmed much of what Fukuoka intuited decades
-ago. Mycorrhizal networks — sometimes called "common mycorrhizal networks" or
+ago. Mycorrhizal networks — sometimes called "[[common-mycorrhizal-networks]]" or
 "wood wide webs" — connect individual trees and plants through shared fungal
 hyphae, allowing the transfer of carbon, nitrogen, phosphorus, water, and even
 chemical alarm signals between plants. Research by Suzanne Simard and colleagues

@@ -18,7 +18,6 @@ Tribology matters because most machines fail or waste energy at interfaces rathe
 
 Bearings, gears, seals, brakes, cutting tools, prosthetic joints, electrical contacts, engines, pumps, and sliding biological tissues all depend on controlled surface interaction.
 
-
 ## Tribosystems
 A tribosystem is the complete system of bodies, surfaces, environment, motion, load, and lubricant that produces friction and wear behavior.
 
@@ -32,7 +31,6 @@ Coefficient of friction is useful, but it is a system response rather than a uni
 
 Wear rate is also contextual because debris formation, third-body layers, surface fatigue, and chemical films evolve during operation.
 
-
 ## Friction
 Friction is the resistance to relative motion between contacting bodies or adjacent layers of fluid.
 
@@ -45,7 +43,6 @@ Adhesion, plowing, deformation, fracture, capillary bridges, electrostatic force
 Static friction resists the onset of motion, while kinetic friction acts during sliding; the difference can create stick-slip vibration.
 
 Rolling friction is usually lower than sliding friction but still arises from deformation, micro-slip, hysteresis, and lubricant shear.
-
 
 ## Wear Mechanisms
 Wear is the progressive removal, displacement, or transformation of material at a surface.
@@ -61,7 +58,6 @@ Fretting wear occurs under small oscillatory motion, often in bolted joints, spl
 Erosive wear is caused by particles, droplets, or cavitation impacts carried by a fluid stream.
 
 Corrosive or oxidative wear couples mechanical removal with chemical reaction, so the environment accelerates surface loss.
-
 
 ## Lubrication Regimes
 Lubrication reduces friction and wear by separating surfaces, changing surface chemistry, removing heat, carrying debris away, and preventing corrosion.
@@ -91,7 +87,6 @@ Solid lubricants such as graphite, molybdenum disulfide, PTFE, and some layered 
 
 Additives in oils can form anti-wear, extreme-pressure, detergent, dispersant, antioxidant, or friction-modifying films.
 
-
 ## Testing and Measurement
 Tribology testing must reproduce the contact mode, speed, load, temperature, environment, and lubricant supply relevant to the application.
 
@@ -104,7 +99,6 @@ Surface characterization uses roughness metrics, hardness testing, scanning elec
 Accelerated tests are useful, but they can change the dominant mechanism if load, speed, or temperature are pushed beyond realistic ranges.
 
 A good tribological test plan includes baseline materials, repeated trials, controlled humidity or lubricant condition, and post-test failure analysis.
-
 
 ## Applications
 In engines, tribology governs piston rings, cylinder liners, cam followers, bearings, valve trains, fuel pumps, and lubricant additives.
@@ -119,7 +113,6 @@ In biomedical engineering, artificial hips, knees, dental implants, and contact 
 
 In aerospace and space systems, vacuum, radiation, temperature swings, and limited maintenance make lubricant selection especially difficult.
 
-
 ## Failure Prevention
 Tribological failures are prevented by reducing load, improving alignment, increasing film thickness, selecting compatible materials, filtering contaminants, and controlling temperature.
 
@@ -132,7 +125,6 @@ Startup and shutdown deserve special attention because full hydrodynamic films m
 Condition monitoring uses oil analysis, vibration, acoustic emission, temperature, torque, and debris sensors to detect developing damage.
 
 Failure analysis should ask whether the root cause was material selection, surface finish, lubrication starvation, overload, contamination, corrosion, misalignment, or an unexpected duty cycle.
-
 
 ## See Also
 

@@ -75,7 +75,6 @@ additional functional information, though at much higher cost and with
 greater computational demands. Both approaches are increasingly used alongside
 metabarcoding to build a more complete picture of fungal communities.
 
-
 ## Laboratory Workflow
 
 A typical fungal metabarcoding workflow begins with environmental sample

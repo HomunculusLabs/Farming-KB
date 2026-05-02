@@ -76,7 +76,6 @@ Water Soluble Calcium is extracted from eggshells, animal bones, or seashells us
 - Keep in cool, shaded place
 - No direct sunlight
 
-
 ## Application Rates and Timing
 
 Water-soluble calcium (WSC) is most effective when applied to plants

@@ -104,7 +104,7 @@ investing in cannabis plants.
 
 - [[tompkins-dowsing-plants-for-health]] Questions
 - [[query-how-to-build-healthy-garden-soil]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-do-i-improve-soil-drainage-in-my-garden]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]

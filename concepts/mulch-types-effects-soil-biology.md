@@ -4,7 +4,9 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [soil, gardening]
-sources: []
+sources:
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
 # Mulch Types and Effects on Soil Biology

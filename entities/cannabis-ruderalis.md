@@ -108,7 +108,6 @@ The breakthrough came with creating crosses that combined the autoflowering trai
 
 Beyond its breeding value, C. ruderalis populations represent feral hemp that has naturalized across vast areas of Eurasia and North America. These populations contribute to the genetic diversity of the genus Cannabis and serve as reservoirs of cold tolerance, disease resistance, and early-flowering genetics. The term "ruderal" in ecology refers to species that are first to colonize disturbed land, and C. ruderalis exemplifies this strategy — it thrives in marginal habitats where other cannabis types would not survive.
 
-
 ## Comparison with C. sativa and C. indica
 
 | Trait | C. sativa var. sativa | C. sativa var. indica | C. sativa var. spontanea |

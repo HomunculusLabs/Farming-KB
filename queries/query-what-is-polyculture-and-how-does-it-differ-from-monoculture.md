@@ -79,6 +79,6 @@ Polyculture is not limited to annual vegetables. Perennial polycultures, includi
 
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]] Questions
 - [[query-what-is-companion-planting-and-how-does-it-work]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-to-start-a-food-forest]]
 - [[query-how-to-build-a-compost-pile-that-works]]

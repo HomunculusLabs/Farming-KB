@@ -111,7 +111,7 @@ select serotonin to achieve a calming effect. Cannabidiol's therapeutic
 potential in psychological disorders is based on its antipsychotic, anxiolytic,
 and antidepressant effects. CBD is able to reduce symptoms of acute paranoid
 schizophrenia as well as the pharmaceutical drug Amisulpride, which (unlike CBD)
-has significant adverse side effects. See [[blesching-cannabis-anxiety-disorders]] for more on cannabinoid-based psychiatric applications.
+has significant adverse side effects. See [[cannabis-anxiety-research]] for more on cannabinoid-based psychiatric applications.
 
 ### CBD and Inflammatory Conditions
 

@@ -46,7 +46,6 @@ A food dehydrator set to 95 degrees Fahrenheit or air drying in a warm, well-ven
 
 Grind dried roots into powder as needed for tinctures, capsules, or teas. A typical daily dose is 1 to 2 grams of dried root powder, though you should consult a healthcare provider before beginning any herbal supplement regimen.
 
-
 ## Soil Preparation
 
 Prepare the planting bed by loosening soil to a depth of 12 inches and mixing in generous amounts of sand or fine gravel if your native soil is heavy clay. Ashwagandha roots grow deep and need loose soil to develop properly.
@@ -64,7 +63,6 @@ Container-grown plants need more frequent watering than in-ground plants but sho
 Ashwagandha fits well into a broader [[medicinal-herb-growing|medicinal herb garden]] or a [[permaculture-plants-medicinal-herbs-healing|permaculture medicinal planting]]. It pairs well with other [[adaptogenic-herbs-overview|adaptogenic herbs]] like holy basil, eleuthero, and rhodiola in dedicated herb spirals or polyculture beds.
 
 In permaculture systems, ashwagandha can serve as a drought-tolerant ground cover or understory plant in food forests, particularly in arid and semi-arid climate zones where water is limited. Its deep taproot helps break up compacted subsoil and brings minerals to the surface where they become available to companion plants.
-
 
 ## Companion Plants
 

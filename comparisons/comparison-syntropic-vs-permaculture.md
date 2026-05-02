@@ -10,7 +10,8 @@ tags:
   - succession
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
 # Syntropic Agriculture vs. Permaculture

@@ -68,7 +68,7 @@ Letcher identifies the Soma hypothesis as part of a pattern in which mushroom en
 Despite scholarly criticism, the Soma hypothesis has been enormously influential in popular culture and within psychedelic communities. It was extended by John Allegro in "The Sacred Mushroom and the Cross" (1970) to argue that Christianity itself originated in an Amanita cult — a theory that was universally condemned by scholars but remains influential in certain circles.
 ## See Also
 - [[amanita-muscaria-guide]] — The mushroom proposed as Soma
-- [[r-gordon-wasson]] — Primary advocate of the hypothesis
+- [[gordon-wasson]] — Primary advocate of the hypothesis
 - [[john-allegro]] — Extended the hypothesis to Christianity
 - [[psychedelic-mushroom-history]] — Timeline including Soma debate
 - [[entheogen-culture]] — Broader context of psychoactive substances in religion

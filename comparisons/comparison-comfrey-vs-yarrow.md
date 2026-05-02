@@ -15,7 +15,7 @@ place each plant where it delivers the most benefit.
 
 ## Overview
 
-**Comfrey** (Symphytum officinale and hybrids) is a deep-rooted perennial with
+**Comfrey** ([[symphytum-officinale]] and hybrids) is a deep-rooted perennial with
 a taproot that extends 6-10 feet into the subsoil. This extraordinary root
 system mines potassium in very high concentrations, along with calcium,
 magnesium, and iron, bringing these nutrients to the surface in its foliage.

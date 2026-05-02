@@ -83,6 +83,6 @@ In taro terrace systems, bunds planted to Dolichos hosei or Phyla nodosa (was Li
 - [[permaculture-designers-manual-swale-design-detailed]]
 - [[soil-erosion-control]]
 - [[permaculture-designers-manual-terracing-systems]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-animal-forage-systems]]
 - [[permaculture-designers-manual-bamboo-species-uses]]

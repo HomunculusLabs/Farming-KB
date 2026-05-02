@@ -3,7 +3,8 @@ title: "How to Grow Moringa and What Are Its Benefits"
 tags: [query, moringa, superfoods, tropical-gardening, medicinal-plants]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How to Grow Moringa and What Are Its Benefits
@@ -44,7 +45,6 @@ For leaf production, harvest branches every 4 to 6 weeks during the growing seas
 
 In temperate climates grown as an annual, a single season of growth can produce several substantial harvests of highly nutritious leaves before the first frost kills the above-ground growth.
 
-
 ## Pruning for Maximum Leaf Production
 
 Aggressive pruning is the key to high moringa leaf yields. When the tree reaches about 2 feet tall, cut the main stem to encourage lateral branching. This creates a bushier plant with more harvestable surface area than a single tall trunk.
@@ -59,7 +59,6 @@ For [[permaculture-moringa|permaculture applications]], moringa serves as a wind
 
 Moringa leaves make an excellent [[fermented-plant-juice-fpj|fermented plant juice]] for use as a liquid fertilizer in Korean Natural Farming systems. The high mineral content of moringa leaves translates into a potent, nutrient-dense foliar feed for other garden plants.
 
-
 ## Pests and Diseases
 
 Moringa is relatively pest-free compared to most food crops. The most common pest is the moringa leaf miner, whose larvae tunnel through leaves creating serpentine trails. Heavy infestations can reduce leaf quality but rarely kill the tree. Neem oil sprays or removing affected leaves usually provides adequate control. Biological controls including predatory wasps that parasitize leaf miner larvae are available in some regions.
@@ -69,7 +68,6 @@ Root rot in waterlogged soil is the most significant disease threat. Termites ma
 ## Water Purification
 
 Moringa seeds contain natural coagulant proteins that can clarify turbid water. Crushed seeds added to cloudy water bind with suspended particles and bacteria, causing them to settle to the bottom. This traditional water purification method is used in many developing countries and has been validated by scientific research as effective for reducing water turbidity by 80 to 99 percent. One crushed seed can treat up to 1 liter of moderately turbid water.
-
 
 ## Moringa Species
 

@@ -101,4 +101,4 @@ Key limitations of fungal bioindicators include:
 Source: Comprehensive review of fungal biodiversity, ecology, and conservation literature
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[fungal-nitrogen-deposition-fungal-community-responses]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]

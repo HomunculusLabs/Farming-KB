@@ -133,7 +133,7 @@ networks are more stable and productive than simplified systems.
 
 ## Related Concepts
 
-- [[permaculture-designers-manual-edge-effect-design]]
+- [[mollison-designers-edge-effect-design]]
 - polyculture
 - [[hemenway-zone-and-sector-planning]]
 - [[mollison-designers-aquatic-edge-planting-zones]]

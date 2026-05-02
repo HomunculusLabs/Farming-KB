@@ -3,7 +3,10 @@ title: "What Is a Mandala Garden in Permaculture"
 tags: [query, mandala-garden, permaculture, garden-design, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 
 # What Is a Mandala Garden in Permaculture

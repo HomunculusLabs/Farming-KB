@@ -3,7 +3,8 @@ title: "How to Read Cannabis Plants for Nutrient Problems"
 tags: [query, cannabis, nutrients, deficiency-diagnosis, plant-care]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Read Cannabis Plants for Nutrient Problems

@@ -3,7 +3,8 @@ title: "Vermicomposting vs Leaf Mold"
 tags: [comparison, composting, soil-amendment, organic-matter, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # Vermicomposting vs Leaf Mold

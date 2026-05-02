@@ -147,4 +147,3 @@ Timing of collection significantly affects FPJ quality:
    plants contaminated with vehicle emissions and dust.
 
 ## See Also
-

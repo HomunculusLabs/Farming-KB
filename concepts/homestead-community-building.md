@@ -95,7 +95,7 @@ Group purchasing power reduces costs on bulk items. Buying clubs pool orders to 
 - Find a pick-up location accessible to all members (a member's garage, community center, or farm)
 ## Local Food Networks
 Beyond direct barter, broader local food networks strengthen community food security:
-- **Community Supported Agriculture (CSA)** — subscribe to local farms for weekly produce boxes
+- **[[community-supported-agriculture-csa]]** — subscribe to local farms for weekly produce boxes
 - **Farmers markets** — sell surplus and connect with other producers
 - **Food cooperatives** — member-owned grocery stores that prioritize local products
 - **Community gardens** — shared growing space for those without land

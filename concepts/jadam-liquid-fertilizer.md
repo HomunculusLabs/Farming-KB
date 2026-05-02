@@ -116,7 +116,7 @@ Calculate based on 1 ton (264 gal) water per 0.03 ha (0.08 ac).
 ## See Also
 
 - [[jadam-microorganism-solution-jms]] -- microbe culture to apply alongside JLF
-- [[jadam-fertilizer-program]] -- when and how to apply JLF through the season
+- [[ultra-low-jadam-fertilizer-program]] -- when and how to apply JLF through the season
 - [[jadam-methods]] -- full JADAM system overview
 - [[knf-preparations]] -- KNF approach for comparison
 - [[fish-amino-acid-faa]] -- KNF's nitrogen input (costs more than JLF)

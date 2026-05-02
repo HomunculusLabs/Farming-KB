@@ -87,7 +87,7 @@ allowed to perish, with the understanding that this selection pressure builds
 genetic resilience over time.
 
 Standard beekeeping addresses varroa mites through monitoring and treatment.
-Integrated pest management (IPM) protocols include alcohol washes or sugar
+[[integrated-pest-management]] (IPM) protocols include alcohol washes or sugar
 rolls for mite counting, followed by treatment thresholds using organic acids
 like oxalic or formic acid, or synthetic miticides when necessary. This
 approach keeps colonies alive through conditions that would otherwise be fatal,

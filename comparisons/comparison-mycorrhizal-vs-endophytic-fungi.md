@@ -143,5 +143,3 @@ single application.
  [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
  [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
  [[beneficial-insects-guide]]
-
-

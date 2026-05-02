@@ -107,5 +107,5 @@ While the science supporting broad claims about remineralization is mixed, contr
 | Soft rock phosphate | $15-25 | 500-2,000 sq ft |
 Buying in bulk (by the ton) reduces costs dramatically. Many quarries and stone yards sell basalt dust as a byproduct for $30-80/ton.
 ## Related
-- [[biochar-in-agriculture|biochar]]]
+- [[biochar-in-agriculture|biochar]]
 - [[plant-nutrient-deficiency-guide]]

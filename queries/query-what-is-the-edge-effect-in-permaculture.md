@@ -3,7 +3,8 @@ title: "What Is the Edge Effect in Permaculture?"
 tags: [query, permaculture, edge-effect, ecology, design-principles]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Is the Edge Effect in Permaculture?
@@ -57,7 +58,7 @@ The [[urban-permaculture-edge-effect-and-design-principles]] page shows how to l
 A pond edge provides both full sun on one side and deep shade on the other, supporting diverse plant communities.
 The [[gaias-garden-edge-effect]] resource demonstrates how Gaia's Garden author Toby Hemenway uses water edges.
 Stone walls, hedgerows, and earth berms all create edge microclimates that expand your planting options.
-The [[permaculture-designers-manual-edge-effect-design]] page shows how to design edge into earthworks and structures.
+The [[mollison-designers-edge-effect-design]] page shows how to design edge into earthworks and structures.
 
 ## Edge in Permaculture Property Design
 

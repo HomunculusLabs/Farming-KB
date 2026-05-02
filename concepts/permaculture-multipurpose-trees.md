@@ -77,7 +77,7 @@ Family: EBENACEAE. Deciduous round-headed tree to 5 m with striking autumn folia
 ## Eucalyptus as Multipurpose Timber
 Eucalyptus species provide fast-growing timber, firewood, nectar for [[mollison-designers-bee-forage-tree-planting]], and erosion control. In Western Australia, species like York gum and salmon gum serve as permaculture-windbreak|windbreaks while producing fence posts and firewood.
 
-Some species produce high-quality furniture timber. Intercrop with [[permaculture-designers-manual-nitrogen-fixing-trees]] to prevent nutrient depletion. See [[windbreak-and-shelterbelt-design]].
+Some species produce high-quality furniture timber. Intercrop with [[nitrogen-fixing-trees]] to prevent nutrient depletion. See [[windbreak-and-shelterbelt-design]].
 
 ## Key Design Principle: Every Element Serves Many Functions
 

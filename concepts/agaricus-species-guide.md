@@ -136,6 +136,6 @@ A woodland-dwelling Agaricus species found in forests and wooded areas across Eu
 6. When in doubt, throw it out
 ## Related Topics
 - [[oyster-mushroom-species-guide]] for other commonly cultivated species
-- [[chanterelle-guide]] for wild mushroom foraging safety and techniques
+- [[chanterelle-guide]] for wild [[mushroom-foraging-safety]] and techniques
 - [[shiitake-cultivation-guide]] for indoor mushroom cultivation methods
 - [[composting-methods-comparison]]

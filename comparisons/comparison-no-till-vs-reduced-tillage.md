@@ -3,7 +3,8 @@ title: "No-Till vs Reduced Tillage"
 tags: [comparison, soil, tillage, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # No-Till vs Reduced Tillage

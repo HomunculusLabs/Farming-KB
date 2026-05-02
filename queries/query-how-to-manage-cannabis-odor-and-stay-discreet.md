@@ -3,7 +3,8 @@ title: "How to Manage Cannabis Odor and Stay Discreet?"
 tags: [query, odor-control, stealth, indoor-growing, ventilation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Manage Cannabis Odor and Stay Discreet?

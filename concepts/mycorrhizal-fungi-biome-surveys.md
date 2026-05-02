@@ -105,4 +105,4 @@ Mycorrhizal surveys inform agricultural practices:
 Source: Comprehensive review of fungal biodiversity and mycorrhizal ecology literature
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]

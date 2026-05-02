@@ -89,7 +89,7 @@ experience are the internal set (intention, expectation, motivation) and the ext
 setting or context, including the presence of a guide or therapist. This model was
 later extended to the understanding of other modalities of altered states of
 consciousness involving nondrug triggers such as hypnosis, meditation, rhythmic
-drumming, sensory isolation, and fasting. The set-and-setting model represents a
+drumming, sensory isolation, and fasting. The [[set-and-setting]] model represents a
 fundamental distinction between psychedelic therapy and conventional pharmacotherapy:
 with antidepressants or tranquilizers, the patient takes a pill and goes home, and
 pharmacological action is paramount; with psychedelics, set and setting are primary,

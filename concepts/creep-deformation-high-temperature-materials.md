@@ -129,4 +129,3 @@ limit for practical service life and inform inspection and replacement schedules
 - [[fracture-mechanics-engineering-materials]]
 - [[stress-strain-and-elasticity]]
 - [[bamboo-as-building-material]]
-

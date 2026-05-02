@@ -3,7 +3,8 @@ title: "How to Protect Plants from Frost and Extend the Growing Season"
 tags: [query, frost-protection, season-extension, greenhouse, cold-climate, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # How to Protect Plants from Frost and Extend the Growing Season

@@ -78,7 +78,6 @@ P450 enzymes are essential for steroidogenesis. CYP11A1 (P450scc) cleaves choles
 
 For vitamin D metabolism: CYP2R1 and CYP27A1 catalyze 25-hydroxylation in the liver, CYP27B1 performs 1-alpha-hydroxylation to the active 1,25-dihydroxyvitamin D3 (calcitriol) in kidneys, and CYP24A1 mediates catabolic 24-hydroxylation. CYP4A11 and CYP4F2 omega-hydroxylate arachidonic acid to 20-HETE (vasoconstriction). CYP2J2 produces epoxyeicosatrienoic acids (EETs) with vasodilatory and anti-inflammatory properties.
 
-
 ## Tissue Distribution
 
 The liver expresses the highest levels of drug-metabolizing enzymes, with hepatic CYPs located primarily in the smooth endoplasmic reticulum (microsomal fraction). Zonal heterogeneity exists: CYP2E1 and CYP3A4 are highest in centrilobular (zone 3) hepatocytes, which are also most susceptible to acetaminophen toxicity, while CYP2D6 and CYP1A2 are higher in periportal (zone 1) regions.
@@ -95,7 +94,6 @@ Acetaminophen (paracetamol) hepatotoxicity illustrates the interplay of CYP bioa
 ## Toxicological Significance: Procarcinogen Bioactivation
 
 CYP enzymes convert chemically inert procarcinogens into reactive DNA-damaging electrophiles. Benzo[a]pyrene is bioactivated by CYP1A1/1B1 epoxidation to benzo[a]pyrene-7,8-diol-9,10-epoxide (BPDE), which forms N2-deoxyguanosine adducts causing G->T transversions. Aflatoxin B1 is activated by CYP3A4/CYP1A2 to the 8,9-epoxide, forming N7-guanine adducts that cause the characteristic TP53 codon 249 mutation (Arg->Ser) in hepatocellular carcinoma. CYP2E1 activates N-nitrosodimethylamine and benzene. CYP2A13 activates NNK, a tobacco-specific nitrosamine. CYP1A2 activates 2-acetylaminofluorene. These activation pathways create positive feedback loops since many inducers (PAHs, dioxins) upregulate the very CYP enzymes that bioactivate them via AhR.
-
 
 ## CYP-Mediated Eicosanoid Metabolism
 

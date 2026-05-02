@@ -3,7 +3,9 @@ pasteurization-vs-sterilizationlization"
 tags: [pasteurization, sterilization, substrate-prep, contamination, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 
 # Pasteurization vs Sterilization
@@ -23,7 +25,7 @@ There are four common methods:
 - **Hot water bath**: The simplest approach; substrate is submerged in hot water. It hydrates and pasteurizes simultaneously, making it popular for small-scale straw and compost operations. Temperature is monitored with a probe and held for 30–90 minutes depending on substrate volume. After treatment, the substrate is drained and cooled before inoculation.
 - **Steam pasteurization**: Steam is injected into an enclosed vessel or chamber for 8–12 hours. This is the most energy-efficient method at commercial scale and provides even heat penetration throughout the substrate mass. Large insulated drums or purpose-built pasteurization rooms are typical setups. The extended duration compensates for the lower temperature compared to sterilization.
 - **Hydrated lime treatment**: A cold alkaline soak at pH 12–13. No heat is required, making it especially popular in tropical climates where fuel is expensive. The high pH kills competitors; after soaking for 12–18 hours, the substrate is drained and the pH falls baclactic-acid-bacterias through leaching. Agricultural lime (calcium hydroxide) is inexpensive and widely available.
-- **Cold water fermentation**: A 3–14 day anaerobic soak that encourages lactic acid bacteria to produce antimicrobial compounds. The low pH and biological competition suppress contaminants. It is the lowest-tech option but requires the most time and careful monitoring to avoid putrefaction. Submerging straw in a sealed container with water and a weight on top is the classic setup.
+- **Cold water fermentation**: A 3–14 day anaerobic soak that encourages [[lactic-acid-bacteria]] to produce antimicrobial compounds. The low pH and biological competition suppress contaminants. It is the lowest-tech option but requires the most time and careful monitoring to avoid putrefaction. Submerging straw in a sealed container with water and a weight on top is the classic setup.
 
 Temperature precision is critical across all heat-based methods. Below 55°C, competitor organisms survive and will outcompete the mushroom mycelium once the substrate cools. Above 85°C, the beneficial thermophilic bacteria are killed, negating the key advantage of pasteurization over sterilization. Consistent monitoring with reliable thermometers throughout the entire substrate mass is essential, as surface temperatures can differ significantly from core temperatures in large volumes.
 

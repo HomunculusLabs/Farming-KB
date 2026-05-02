@@ -88,7 +88,7 @@ In vitro and animal studies demonstrate:
 *P. ostreatus* is one of the most extensively studied fungi for environmental bioremediation due to its powerful ligninolytic enzymeheavy-metal-biosorptionc aromatic hydrocarbon (PAH) degradation:** Secretes laccase, manganese peroxidase (MnP), and lignin peroxidase (LiP) that oxidize and mineralize PAHs including anthracene, phenanthrene, and pyrene in contaminated soils
 * **Heavy metal biosorption:** Mycelial biomass accumulates cadmium, lead, copper, and zinc through extracellular binding and intracellular sequestration, with potential for biofiltration of industrial wastewater
 * **Pesticide degradation:** Degrades organophosphate and organochlorine pesticides throagricultural-waste-substrateslastic degradation:** Emerging research shows *P. ostreatus* can partially degrade polyurethane and polystyrene through enzymatic and mechanical mechanisms
-* **Eutrophication management:** The mushroom can be grown on agricultural waste substrates including coffee grounds, straw, and corn stover, converting pollutants into edible protein
+* **Eutrophication management:** The mushroom can be grown on [[agricultural-waste-substrates]] including coffee grounds, straw, and corn stover, converting pollutants into edible protein
 
 ## Nutritional Profile
 

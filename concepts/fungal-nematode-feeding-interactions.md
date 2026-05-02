@@ -113,5 +113,5 @@ communities (including both fungal-feeding and bacterial-feeding species) may op
 decomposition rates and nutrient cycling. In forestry, maintaining diverse nematode
 communities may support healthy mycorrhizal populations by preventing any single nematode
 species from disproportionately damaging specific mycorrhizal fungi.
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

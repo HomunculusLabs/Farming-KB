@@ -80,6 +80,6 @@ bog-associated fungi.
 
 ## See Also
 - [[psilocybe-washingtonensis]]
-- [[psilocybe-caerulipes-entity]]
+- [[psilocybe-caerulipes]]
 - [[psilocybe-cyanescens]]
 - [[psilocybe-subaeruginosa]]

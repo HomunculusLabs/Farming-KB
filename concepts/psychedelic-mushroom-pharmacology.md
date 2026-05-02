@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
-sources: []
+sources:
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
 # Psychedelic Mushroom Pharmacology
@@ -147,4 +148,3 @@ Psilocybin has a very high safety profile:
 - [[psychedelic-mushroom-set-and-setting]]
 - [[psychedelic-mushroom-dosage-guide]]
 - [[psychedelic-mushroom-music-and-culture]]
-- [[psychedelic-mushroom-taxonomy]]

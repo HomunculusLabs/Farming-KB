@@ -87,7 +87,7 @@ Brande's account provides a level of clinical detail unusual for the period:
 
 The symptom that most clearly identifies this as a psilocybin intoxication (rather than another type of mushroom poisoning) is the "immoderate laughter." This is:
 
-- Not a symptom of amatoxin poisoning (Amanita phalloides) which causes liver failure
+- Not a symptom of amatoxin poisoning ([[amanita-phalloides]]) which causes liver failure
 - Not a symptom of muscarine poisoning (Inocybe, Clitocybe) which causes sweating and salivation
 - Not a symptom of gyromitrin poisoning (Gyromitra) which causes seizures
 - Characteristic of serotonin receptor activation by psilocybin

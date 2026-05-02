@@ -3,7 +3,8 @@ title: "How to Read a Soil Test Report"
 tags: [query, soil-science, testing, nutrients, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Read a Soil Test Report

@@ -100,7 +100,7 @@ Divide the mandala into functional zones:
 - **Leafy greens:** Plant on the east side (morning sun, afternoon shade)
 - **Fruiting crops (tomatoes, peppers, eggplant):** Plant on the south side (full sun)
 - **Root crops:** Plant in deep, well-prepared beds
-- **Herbs and flowers:** Distribute throughout all beds for pest management and pollination
+- **Herbs and flowers:** Distribute throughout all beds for [[permaculture-designers-manual-pest-management]] and pollination
 - **Perennials (asparagus, rhubarb, artichokes):** Plant on the outer ring where they won't be disturbed by annual rotation
 ## Water Management
 - **Water from the center:** If the center feature is a tree or herb spiral, water there and let it wick outward

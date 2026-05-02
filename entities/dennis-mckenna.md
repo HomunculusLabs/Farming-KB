@@ -27,14 +27,6 @@ sources:
 
 Dennis McKenna (born 1950) is an American ethnobotanist, pharmacognosist, and author. Younger brother of [[terence-mckenna]], Dennis provides the scientific grounding behind many of the theories his brother popularized.
 
-
-
-
-
-
-
-
-
 ## Key Contributions
 
 - **"The Invisible Landscape" (1975):** Co-authored with Terence, presenting their experiences at La Chorrera (Amazon, 1971) and the "experiment at La Chorrera" involving tryptamines and hyper-carbon media theory.
@@ -43,14 +35,6 @@ Dennis McKenna (born 1950) is an American ethnobotanist, pharmacognosist, and au
 - **"Tryptamine Hallucinogens and Consciousness" (1990s):** Academic paper on the neuropharmacology of tryptamines, serotonin receptors, and the relationship between these compounds and consciousness states.
 - **Ethnopharmacology advocacy:** Has served on the board of the Heffter Research Institute and lectured extensively on the science of psychedelics.
 
-
-
-
-
-
-
-
-
 ## "Tryptamine Hallucinogens and Consciousness" (1992)
 
 Co-presented with Terence at the Lilly/Goswami Conference on Consciousness and Quantum Physics at Esalen (December 1983). Key scientific arguments:
@@ -58,28 +42,12 @@ Co-presented with Terence at the Lilly/Goswami Conference on Consciousness and Q
 - Tryptamine hallucinogens are unique in their intensity and concentration in the visual cortex — "immense vividness to these interior landscapes, as if information were being presented three-dimensionally and deployed fourth-dimensionally, coded as light and as evolving surfaces"
 - Dreams and hallucinations are "the major quantum mechanical phenomena that we all experience" — they occur when sensory radiation is restricted, revealing "interior images and interior processes that are psycho-physical"
 
-
-
-
-
-
-
-
-
 ## Biography
 
 - PhD in botanical sciences from University of British Columbia
 - Brother of [[terence-mckenna]]; accompanied him on the 1971 Amazon expedition
 - Research associate at several universities
 - Continues active research and writing on psychedelic pharmacology
-
-
-
-
-
-
-
-
 
 ## Legacy
 

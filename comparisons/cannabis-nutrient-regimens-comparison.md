@@ -10,8 +10,6 @@ sources: []
 
 Nutrient management is the primary lever for yield, flavor, and plant health in cannabis cultivation. The choice between organic and synthetic approaches — and the specific system within each category — has cascading effects on terpene production, soil health, long-term cost, and growing complexity. This comparison covers five major nutrient regimens used by home and commercial growers. For soil science fundamentals, see [[cannabis-soil-and-nutrient-requirements]]. The biological foundation of organic approaches is covered in [[soil-food-web-structure]] and [[nutrient-cycling-in-soil]].
 
-
-
 ## Regimen Comparison Table
 
 | Regimen | Cost per Cycle (4x4 bed) | Complexity | Typical Yield (oz/sq ft) | Flavor/Terpene Quality | Soil Health Impact | Reusability | Learning Curve |
@@ -21,8 +19,6 @@ Nutrient management is the primary lever for yield, flavor, and plant health in 
 | **Biobizz/Canna Organic Line** | $50-100 | Low | 0.5-0.9 | Very Good — cleaner than salts | Moderate — bottle-fed biology | Low-Moderate — soil needs refreshing | Low |
 | **Super Soil (Subcool recipe)** | $100-200 (batch) | Moderate-High | 0.6-1.1 | Excellent — rich terpene expression | Good — loaded with biology at start | Moderate — top-dress and reuse 3-5 cycles | Moderate-High |
 | **No-Till Recycled Soil** | $150-300 (setup), $10-25 (top-dress) | High | 0.6-1.2 | Excellent — improves over time | Excellent — builds peak soil biology | Very High — indefinite with proper management | High |
-
-
 
 ## Detailed Regimen Breakdown
 
@@ -56,8 +52,6 @@ The most advanced approach: soil is never removed or replaced. After harvest, ro
 
 **Best for:** Dedicated long-term growers who view soil as their primary asset. The highest reusability and the best long-term flavor development of any approach.
 
-
-
 ## Nutrient Management Comparison
 
 | Regimen | pH Management | EC/PPM Monitoring | Feeding Schedule | Amendment Frequency |
@@ -67,8 +61,6 @@ The most advanced approach: soil is never removed or replaced. After harvest, ro
 | Biobizz/Canna | Minimal (organic buffering) | Optional | Weekly (bottle directions) | Every feeding |
 | Super Soil | Minimal | Not needed | Water only | New batch every 3-5 cycles |
 | No-Till Recycled | Minimal | Not needed | Water only | Top-dress each cycle |
-
-
 
 ## Cost Over Time
 
@@ -80,13 +72,9 @@ The most advanced approach: soil is never removed or replaced. After harvest, ro
 | Super Soil | $300-500 | $100-200 | $100-200 | $700-1100 |
 | No-Till Recycled | $500-800 | $40-100 | $40-100 | $660-1100 |
 
-
-
 ## Verdict
 
 For growers who prioritize terpene quality and long-term sustainability, organic living soil and no-till recycled soil deliver the best results. No-till has the steepest learning curve but the lowest long-term cost and the most rewarding flavor development — soil that has been cycled for years produces noticeably more complex and nuanced terpene profiles. For beginners or those focused purely on yield, synthetic salt-based nutrients offer the simplest entry point with predictable results. Biobizz/Canna organic lines provide a gentle transition from synthetic to organic growing. Super soil offers an appealing one-and-done approach for those willing to invest in upfront soil preparation. See [[soil-food-web-structure]] for the biological principles that make organic regimens work.
-
-
 
 ## Related
 

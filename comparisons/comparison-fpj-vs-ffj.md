@@ -3,7 +3,9 @@ title: "FPJ vs FFJ"
 tags:[[fermented-plant-juice]]-farming, bionutrients, fermentation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"
+  - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 -[[natural-farming]]J
 
 ## Overview

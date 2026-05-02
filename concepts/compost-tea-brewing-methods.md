@@ -103,7 +103,7 @@ The only way to confirm tea quality is biological testing:
 ## See Also
 
 - [[aact-compost-quality-standards-ingham]]
-- [[soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-assessment-methods]]
 - [[compost-tea-application-rates]]
 - [[soil-microbiology-basics]]
 

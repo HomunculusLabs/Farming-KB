@@ -119,7 +119,7 @@ brown, crumbly residue.
 The most extensively studied lignin-degrading fungi belong to the white rot
 basidiomycetes. *Phanerochaete chrysosporium* served as the primary model
 organism for decades because it was the first white rot fungus shown to
-produce ligninolytic enzymes in culture and its genome was among the first
+produce [[ligninolytic-enzymes]] in culture and its genome was among the first
 basidiomycete genomes sequenced (2004). *Trametes versicolor* (turkey tail)
 is one of the most aggressive and cosmopolitan white rot species, producing
 high levels of laccase and MnP. *Ceriporiopsis subvermispora* is unusual in

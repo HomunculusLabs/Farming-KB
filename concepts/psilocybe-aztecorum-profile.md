@@ -6,7 +6,7 @@ updated: 2026-04-25
 sources:
   - "~/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
-# [[psilocybe-aztecorum-entity]] Species Profile
+# [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] Species Profile
 
 Psilocybe aztecorum Heim emend. Guzman is a moderately to highly potent
 psilocybin mushroom known as "ninos" or "apipitzin" (little children in

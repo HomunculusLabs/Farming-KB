@@ -85,5 +85,5 @@ The conservation of individual rare species must be understood within the broade
 Source: Comprehensive review of fungal conservation literature (Arnolds 1988, 1991; Pegler et al. 1993)
 - [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

@@ -3,7 +3,10 @@ title: "Cordyceps vs Lion's Mane Cultivation"
 tags: [comparison, mushroom-cultivation, medicinal-mushrooms, mycology, gourmet-mushrooms]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
+  - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 
 # Cordyceps vs Lion's Mane Cultivation

@@ -3,7 +3,8 @@ title: "What Is a Plant Guild in Permaculture?"
 tags: [query, permaculture, guilds, companion-planting, polyculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Is a Plant Guild in Permaculture?

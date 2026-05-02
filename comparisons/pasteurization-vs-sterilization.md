@@ -4,7 +4,10 @@ created: 2026-04-17
 updated: 2026-04-17
 type: comparison
 tags: [comparison]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Pasteurization vs Sterilization in [[mushroom-cultivation-in-kenya]]
@@ -145,4 +148,3 @@ should not be reduced. Shortcuts in sterilization are a primary cause of
 contaminated spawn jars.
 Conversely, over-sterilizing agar media by exceeding 250°F can caramelize 
 sugars in the medium, which inhibits mycelial growth and may promote genetic 
-mutations. Careful temperature management during the sterilization cycle is 

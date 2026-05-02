@@ -108,7 +108,7 @@ The inclusion of Amanita pantherina in ethnopharmacological studies alongside [[
 
 ## Legal Status
 
-Amanita pantherina is not specifically scheduled in most jurisdictions, as its active compounds (ibotenic acid and muscimol) are not controlled under the UN Convention on Psychotropic Substances. However, it may be regulated under local laws regarding poisonous mushrooms or general drug legislation. In some European countries, sale for human consumption is restricted. Muscimol itself has become subject to increased regulatory attention in recent years as it has appeared in commercial products marketed as legal alternatives to psilocybin mushrooms.
+Amanita pantherina is not specifically scheduled in most jurisdictions, as its active compounds (ibotenic acid and muscimol) are not controlled under the UN Convention on Psychotropic Substances. However, it may be regulated under local laws regarding poisonous mushrooms or general drug legislation. In some European countries, sale for human consumption is restricted. Muscimol itself has become subject to increased regulatory attention in recent years as it has appeared in commercial products marketed as legal alternatives to [[psilocybin-mushrooms]].
 
 ## See Also
 

@@ -103,7 +103,6 @@ The bioavailability of mushroom BRMs depends heavily on extraction methods:
 - **Dried whole mushroom powder:** Contains all compounds but with limited bioavailability due to chitin cell walls. Some bioavailability improvement occurs with prolonged cooking or fermentation
 - **Spore oil (Reishi):** Contains concentrated triterpenoids. Bioavailability is higher than from fruiting body extracts, but the product lacks polysaccharide content
 
-
 ## Future Directions
 
 The increasing publication of peer-reviewed Western studies on mushroom BRMs is gradually changing Western medical attitudes. The proprietary mushroom compounds are anticipated to be used mainly as complementary or adjunctive therapies alongside mainstream cancer care, potentially reducing chemotherapy side-effects while improving patient quality of life.

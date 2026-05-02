@@ -5,7 +5,10 @@ tags: [hallucinogenic-plants, datura, nightshade, solanaceae, deliriants,
   brugmansia, witchcraft]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 
 # Datura, Nightshades, and Deliriant Hallucinogens

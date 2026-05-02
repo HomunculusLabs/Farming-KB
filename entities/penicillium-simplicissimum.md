@@ -123,7 +123,7 @@ Standard protocols for isolating and studying *P. simplicissimum* include:
 
 - **Soil Health Indicator:** *P. simplicissimum* and related soil *Penicillium* species serve as bioindicators of soil health, with their abundance and diversity reflecting organic matter content, pH, and agricultural management practices
 - **Heavy Metal Mobiodiversity-fungi-soil-fungal-communities mineral-solubilizing ability is beneficial for nutrient cycling, it can also mobilize toxic heavy metals (lead, cadmium, uranium) from contaminated soils into the bioavailable fraction, with implications for environmental remediation and food safety
-- **Climate Sensitivity:** Soil fungal communities including *Penicillium* species are sensitive to temperature and moisture changes, with shifts in community composition observed under experimental warming and drought scenarios
+- **Climate Sensitivity:** [[biodiversity-fungi-soil-fungal-communities]] including *Penicillium* species are sensitive to temperature and moisture changes, with shifts in community composition observed under experimental warming and drought scenarios
 - **Agricultural Practices:** Intensive tillage and pesticide application can reduce soil *Penicillium* diversity, potentially diminishing the mineral weathering and nutrient cycling services these fungi provide
 
 ## See Also

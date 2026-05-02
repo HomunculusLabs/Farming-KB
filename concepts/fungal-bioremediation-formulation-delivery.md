@@ -133,7 +133,7 @@ Relatively little research attention has focused on fungal formulation
 compared with the broader bioremediation effort. Key challenges include
 maintaining inoculum viability during storage and after field
 application, achieving adequate distribution of inoculum in large soil
-volumes, and overcoming competition from indigenous microorganisms.
+volumes, and overcoming competition from [[indigenous-microorganisms]].
 Mixed-species formulations remain largely unexplored despite evidence
 that mixed cultures may enhance degradation. Scale-up from laboratory
 to field requires addressing cost, regulatory approval, and practical

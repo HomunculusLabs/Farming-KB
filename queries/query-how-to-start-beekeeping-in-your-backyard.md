@@ -59,7 +59,6 @@ Honeybees are extraordinarily efficient pollinators, and a backyard hive can sig
 The [[beneficial-insects-pollinators]] resource describes how to create habitat for native bees and other pollinating insects in addition to managed honeybees.
 The [[comparison-chicken-keeping-vs-beekeeping-basics]] resource may also help those deciding between different backyard livestock options for their homestead.
 
-
 Local regulations and zoning laws should be checked before starting beekeeping in any location, including urban and suburban areas.
 Many municipalities have specific rules about hive placement, number of hives allowed, property line setbacks, and registration requirements.
 Good neighbor relations are essential for urban and suburban beekeepers, as bee stings are a common concern among nearby residents.

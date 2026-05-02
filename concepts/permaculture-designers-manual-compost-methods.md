@@ -95,6 +95,6 @@ On the broad scale, humus can only be provided by the root and above-ground mass
 - [[permaculture-designers-manual-phosphate-cycling]]
 - [[permaculture-designers-manual-greenhouse-design]]
 - [[permaculture-designers-manual-sea-vegetables]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-small-animals]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]

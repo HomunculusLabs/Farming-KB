@@ -75,7 +75,6 @@ A teaspoon of good garden soil contains "only" several thousand protozoa, compar
 - They need moisture and go dormant in cysts during dry periods
 - A healthy soil food web ensures adequate protozoa populations
 
-
 ## Management and Disease Suppression
 
 Managing for protozoa populations is a key strategy in biological farming.

@@ -3,7 +3,8 @@ title: "What Is the Difference Between Biointensive and No-Till Gardening"
 tags: [query, gardening, soil-health, biointensive, no-till]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # What Is the Difference Between Biointensive and No-Till Gardening

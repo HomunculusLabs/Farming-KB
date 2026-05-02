@@ -3,7 +3,8 @@ title: "How Do I Integrate Ducks Into My Permaculture System?"
 tags: [query, permaculture, poultry, ducks, integration]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How Do I Integrate Ducks Into My Permaculture System?
@@ -51,7 +52,6 @@ Water access is essential; even a small kiddie pool can serve their bathing and 
 Breed selection matters: lightweight breeds like Khaki Campbells are excellent foragers and prolific layers, while Muscovy ducks are self-sufficient and quiet.
 Duck eggs are larger than chicken eggs with higher fat content, prized for baking, and can provide additional income for small permaculture operations.
 Aquatic plants grown in duck ponds, such as duckweed, can be harvested and fed back to the ducks, creating a nearly closed nutrient loop.
-
 
 Ducks are also valuable for orchard management in permaculture systems, consuming codling moth larvae and other pests from fallen fruit.
 Their foraging activity in orchards helps break the pest life cycle without the need for chemical sprays or other interventions.

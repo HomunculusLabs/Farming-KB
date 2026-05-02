@@ -93,7 +93,7 @@ To change a pistillate cutting to a staminate pollen parent:
 - [[cannabis-breeding-basics]] - Breeding fundamentals
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]] - Maturation by latitude
 - [[cannabis-fiber-vs-drug-strain-phenotypes-clarke]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-potency-enhancement-intact-flowers]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-disease-pest-resistance-breeding-clarke]]

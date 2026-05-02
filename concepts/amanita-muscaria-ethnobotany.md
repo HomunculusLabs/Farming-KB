@@ -19,13 +19,13 @@ sources:
 
 # Amanita Muscaria Ethnobotany
 
-The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic thpsilocybin-mushrooms religion.
+The ethnobotanical history of the fly-agaric mushroom (*[[amanita-muscaria]]*), from Siberian shamanism to its role in psychedelic thpsilocybin-mushrooms religion.
 
 ## The Mushroom
 
 *Amanita muscaria* (fly-agaric) is one of the most recognizable organisms on Earth -- a large, bright red mushroom with white spots. It is mycorrhizal, growing in symbiotic association with the roots of trees, primarily birch, pine, and fir. It is found throughout the temperate and boreal regions of the Northern Hemisphere.
 
-Unlike the psilocybin mushrooms, *A. muscaria* does not contain tryptamine alkaloids. Its primary active compounds are:
+Unlike the [[psilocybin-mushrooms]], *A. muscaria* does not contain tryptamine alkaloids. Its primary active compounds are:
 
 - **Ibotenic acid**: A glutamate receptor agonist that is present in the fresh mushroom. It is responsible for many of the less desirable effects (nausea, confusion, agitation).
 - **Muscimol**: The primary psychoactive compound, formed by the decarboxylation of ibotenic acid. Muscimol is a GABA-A receptor agonist, producing sedative, dissociative, and hallucinogenic effects qualitatively different from psilocybin or LSD.

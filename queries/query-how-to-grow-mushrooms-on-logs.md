@@ -3,7 +3,8 @@ title: "How to Grow Mushrooms on Logs?"
 tags: [query, mushroom-cultivation, shiitake, logs, outdoor]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # How to Grow Mushrooms on Logs?

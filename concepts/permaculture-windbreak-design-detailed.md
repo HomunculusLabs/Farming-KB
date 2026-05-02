@@ -85,6 +85,6 @@ Windbreaks should serve multiple functions: timber production, wildlife corridor
 - [[permaculture-access-and-circulation-design]]
 - [[permaculture-zone-0-house-design]]
 - [[microclimate-creation-permaculture]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-pioneer-species]]
 - [[permaculture-designers-manual-windbreak-species]]

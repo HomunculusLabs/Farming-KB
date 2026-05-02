@@ -73,7 +73,6 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 5. **Add organic matter** — compost, mulch, cover crops
 6. **Avoid re-compacting** — permanent beds, no-till going forward
 
-
 ## Assessment and Soil-Specific Strategies
 
 Compaction is measured using several practical indicators. A soil penetrometer

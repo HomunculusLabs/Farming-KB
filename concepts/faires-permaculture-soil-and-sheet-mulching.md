@@ -101,7 +101,7 @@ There are many ways to mulch. The method described here is called [sheet mulchin
 
 ## General Soil Improvement
 
-Any soil, not just bad soil, should be improved by planting [cover and green manure crops or adding composted animal manure. You can also add compost (kitchen and yard waste which has decomposed) to the small gardens near the house. Soil that has been cleared most likely needs extra help, because minerals have been leeching out.
+Any soil, not just bad soil, should be improved by planting [cover and [[green-manure-crops]] or adding composted animal manure. You can also add compost (kitchen and yard waste which has decomposed) to the small gardens near the house. Soil that has been cleared most likely needs extra help, because minerals have been leeching out.
 
 Encourage worms and other beneficial creatures to live and grow in the soil. These are the best cultivators, which do their own composting and mulching.
 

@@ -3,7 +3,8 @@ title: "What Is the Difference Between Compost Tea and Compost Extract?"
 tags: [query, compost, soil, microbiology, organic-farming]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Is the Difference Between Compost Tea and Compost Extract?

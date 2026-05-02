@@ -71,7 +71,6 @@ Most effective site planning results from incremental adaptation of proven desig
 
 Develop the nearest area first, get it under control, then expand the perimeter. Any soil, with effort and compost from recycled wastes, will grow a good garden -- stay close to home.
 
-
 ## The Eight Methods in Practice
 
 Mollison's eight design methods are not mutually exclusive but

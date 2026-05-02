@@ -125,5 +125,5 @@ Mulch blows into, can be carried to, or is grown and mown in [[permaculture-desi
 - [[permaculture-designers-manual-phosphate-cycling]]
 - [[permaculture-designers-manual-food-forest-guilds]]
 - [[permaculture-designers-manual-gateway-species]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

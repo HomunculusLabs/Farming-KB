@@ -46,7 +46,7 @@ Design notes:
 - Use nitrogen-fixing shrubs throughout as support species
 - Prune for airflow and access — dense shrub layers can harbor disease
 ### Layer 4: Herbaceous Layer
-Non-woody plants including perennial vegetables, herbs, and self-seeding annuals. This layer fills the space between shrubs and ground covers.
+Non-woody plants including [[perennial-vegetables]], herbs, and self-seeding annuals. This layer fills the space between shrubs and ground covers.
 Species examples:
 - Perennial vegetables: asparagus, sea kale, good king Henry, walking onion, Jerusalem artichoke, lovage, sorrel, cardoon, globe artichoke
 - Culinary herbs: mint family (thyme, oregano, mint, lemon balm), chives, garlic chives, rosemary, sage

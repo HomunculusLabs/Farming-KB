@@ -3,7 +3,8 @@ title: "What Is Silvopasture and How Does It Work"
 tags: [query, silvopasture, livestock, agroforestry, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Is Silvopasture and How Does It Work

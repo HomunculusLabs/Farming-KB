@@ -18,7 +18,7 @@ scale.
 
 ## Mycorrhizae: The Plant-Fungus Partnership
 
-Mycorrhizal fungi colonize plant roots, forming one of the most widespread
+[[mycorrhizal-fungi]] colonize plant roots, forming one of the most widespread
 and ecologically important symbioses on Earth. Over 80% of land plant
 species depend on mycorrhizal associations for survival. Two principal
 types exist:
@@ -65,7 +65,7 @@ them valuable bioindicators of environmental pollution.
 
 ## Endophytic Fungi
 
-Endophytic fungi live inside plant tissues without causing visible disease.
+[[endophytic-fungi]] live inside plant tissues without causing visible disease.
 They are found in virtually every plant species examined, and a single
 plant may host dozens or hundreds of endophyte species. These fungi
 provide their hosts with several benefits:

@@ -7,16 +7,6 @@ tags: [cannabis, botany, anatomy, trichome, glandular, morphology, plant-biology
 sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 ---
 
-
-
-
-
-
-
-
-
-
-
 ## Cannabis Plant Anatomy
 
 Cannabis is an annual, dioecious (separate male and female plants) herbaceous plant in the Cannabaceae family. Understanding its anatomy is essential for breeding (see [[cannabis-genetics-and-breeding]]), identification, and extraction (see [[cannabis-extraction-methods]]).
@@ -69,16 +59,6 @@ The glandular head contains a secretory cavity where the cannabinoid precursor o
 ### Reproduction
 
 Pollen germinates on the pistil stigma 15-20 minutes after contact. The pollen tube grows toward the ovule, with the generative cell dividing into two gametes. After fertilization (approximately 14-35 days), the seed matures within the calyx, which swells and often darkens. The seed coat hardens, and the mature seed eventually drops or is harvested.
-
-
-
-
-
-
-
-
-
-
 
 ## See Also
 

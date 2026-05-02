@@ -125,4 +125,4 @@ delivery method.
 - [[cervantes-volatile-solvent-extraction]]
 - [[cervantes-hash-making-extracts]]
 - [[cervantes-cannabinoids-thc-cbd-chemistry]]
-- [[cervantes-harvesting-curing]]
+- [[cannabis-harvesting-and-curing-techniques]]

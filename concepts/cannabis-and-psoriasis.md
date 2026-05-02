@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Psoriasis is a chronic autoimmune skin condition characterized by rapid overproduction of skin cells, leading to thick, red, scaly plaques. It affects 2-3% of the global population and is associated with significant quality-of-life impairment. The endocannabinoid system (ECS) of the skin modulates cell proliferation and inflammation, making cannabinoids a logical therapeutic target. See also [[cannabis-and-skin-diseases]], [[cannabis-and-eczema]], and cannabinoid-receptors.
+Psoriasis is a chronic autoimmune skin condition characterized by rapid overproduction of skin cells, leading to thick, red, scaly plaques. It affects 2-3% of the global population and is associated with significant quality-of-life impairment. The endocannabinoid system (ECS) of the skin modulates cell proliferation and inflammation, making cannabinoids a logical therapeutic target. See also [[blesching-cannabis-skin-diseases]], [[cannabis-and-eczema]], and cannabinoid-receptors.
 
 ## Clinical Evidence
 
@@ -83,7 +83,7 @@ One to three studies support cannabis for psoriasis, with strong preclinical rat
 
 ## Related Topics
 
-- [[cannabis-and-skin-diseases]]
+- [[blesching-cannabis-skin-diseases]]
 - [[cannabis-and-eczema]]
 - [[cannabis-for-dermatological-conditions]]
 - [[cannabis-for-dermatological-conditions]]

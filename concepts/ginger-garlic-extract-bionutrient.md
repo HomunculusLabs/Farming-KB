@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/chos-global-natural-farming.md"
 ---
 
 # Ginger-Garlic Extract Bionutrient

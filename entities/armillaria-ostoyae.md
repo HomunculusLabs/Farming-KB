@@ -116,7 +116,7 @@ The genus *Armillaria* contains approximately 10 described species in North Amer
 
 Standard methods for working with *A. ostoyae* in research and diagnostics include:
 
-- **Isolation:** Basidiocarp tissue can be placed directly on malt extract agar (MEA) with antibiotics (streptomycin or chloramphenicol) to suppress bacterial contamination. Rhizomorph tips can also be excised and cultured
+- **Isolation:** Basidiocarp tissue can be placed directly on [[malt-extract-agar]] (MEA) with antibiotics (streptomycin or chloramphenicol) to suppress bacterial contamination. Rhizomorph tips can also be excised and cultured
 - **Somatic Incompatibility Testing:** Pairing isolates on MEA and observing interaction zones (demarcation lines) to determine whether two isolates belong to the same genet. Compatible pairings fuse without barriers; incompatible pairings produce pigmented reaction zones
 - **Molecular Identification:** ITS rDNA sequencing is the standard barcode method. RAPD, AFLP, and microsatellite markers are used for population genetics and genet mapping
 - **Long-Term Storage:** Cultures can be maintained on wood blocks or in sterile water at 4°C. Cryopreservation in liquid nitrogen with glycerol or DMSO as cryoprotectant is preferred for long-term preservation

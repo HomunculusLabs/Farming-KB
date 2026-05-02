@@ -98,6 +98,6 @@ Holzer emphasises the cyclical nature of straw-based mushroom cultivation: fresh
 
 - [[shiitake-cultivation-guide]]
 - [[oyster-mushroom-bag-cultivation]]
-- [[hugelkultur-guide]]
+- [[hemenway-hugelkultur-guide]]
 - [[holzer-green-manure-soil-fertility]]
 - [[sepp-holzer-method]]

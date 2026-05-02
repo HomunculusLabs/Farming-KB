@@ -73,7 +73,6 @@ For foliar spraying of pesticides and liquid fertilizers, JADAM Wetting Agent (J
 
 Water used in making JMS and other biological inputs should be free of chlorine and other antimicrobial agents. Well water or spring water is preferred. If using tap water, allow it to sit uncovered for 24 hours to off-gas chlorine. The mineral content of the water matters less than its biological neutrality — JADAM's system adds minerals through sea water and phyllite rather than relying on mineral-rich source water.
 
-
 ## JADAM Irrigation Philosophy
 
 Cho Han-kyu, founder of JADAM, emphasizes that most farmers over-irrigate.

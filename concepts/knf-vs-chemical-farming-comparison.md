@@ -81,7 +81,7 @@ sources:
 - Food may look good but has lower nutritional quality
 ### Korean Natural Farming
 - [[knf-fish-amino-acid]] provides nitrogen in amino acid form (directly assimilated)
-- [[knf-water-soluble-calcium-wsca]] and [[knf-water-soluble-calcium-wsca]] provide minerals in bioavailable forms
+- [[water-soluble-calcium-wca]] and [[water-soluble-calcium-wca]] provide minerals in bioavailable forms
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]] provide growth hormones and enzymes
 - [[knf-water-soluble-potassium-detailed]] provides potassium with multiple functions
 - Nutrients are biologically processed and plant-available

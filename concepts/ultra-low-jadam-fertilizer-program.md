@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md]
 ---
 
-# [[jadam-fertilizer-program]]
+# ultra low jadam fertilizer program
 
 The JADAM Fertilizer Program is a radically simplified approach to crop
 nutrition that replaces the conventional practice of dividing plant

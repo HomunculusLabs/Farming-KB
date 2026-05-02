@@ -122,6 +122,6 @@ with locally adapted mycorrhizal fungi for successful reforestation.
 
 ## See Also
 
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

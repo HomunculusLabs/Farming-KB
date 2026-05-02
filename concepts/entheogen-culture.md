@@ -41,13 +41,13 @@ sources:
 ## Historical Traditions
 
 ### Eleusinian Mysteries (Greece, ~1500 BCE - 392 CE)
-Annual initiation at Eleusis near Athens, running for nearly 2,000 years. Initiates reported life-changing visionary experiences. [[r-gordon-wasson]], [[albert-hofmann]], and Carl Ruck proposed in entheogen culture (1978) that the kykeon potion contained Claviceps purpurea (ergot), which contains ergotamine -- a precursor to LSD. Sophocles wrote: "Thrice happy are those who have seen these rites; to them alone is granted a true life in death."
+Annual initiation at Eleusis near Athens, running for nearly 2,000 years. Initiates reported life-changing visionary experiences. [[gordon-wasson]], [[albert-hofmann]], and Carl Ruck proposed in entheogen culture (1978) that the kykeon potion contained Claviceps purpurea (ergot), which contains ergotamine -- a precursor to LSD. Sophocles wrote: "Thrice happy are those who have seen these rites; to them alone is granted a true life in death."
 
 ### Soma / Haoma (Vedic India / Zoroastrian Persia)
-Central sacrament of Vedic religion, praised in 120+ hymns of the Rig Veda. Soma was "pressed" from a plant, consumed in ritual, and produced divine visions. [[r-gordon-wasson]] proposed Amanita muscaria as Soma (1968). [[terence-mckenna]] and others have proposed Stropharia cubensis or Peganum harmala as alternatives. See [[amanita-muscaria-guide]].
+Central sacrament of Vedic religion, praised in 120+ hymns of the Rig Veda. Soma was "pressed" from a plant, consumed in ritual, and produced divine visions. [[gordon-wasson]] proposed Amanita muscaria as Soma (1968). [[terence-mckenna]] and others have proposed Stropharia cubensis or Peganum harmala as alternatives. See [[amanita-muscaria-guide]].
 
 ### Mesoamerican Mushroom Cults (Mexico, pre-Columbian)
-Aztec "Teonanacatl" (flesh of the gods), Mazatec velada ceremonies. Documented by 16th-century Spanish friars who called them diabolical. Rediscovered by [[r-gordon-wasson]] in 1955 when he participated in a ceremony led by Maria Sabina. This discovery triggered the modern psychedelic era. See [[psychedelic-mushroom-history]].
+Aztec "Teonanacatl" (flesh of the gods), Mazatec velada ceremonies. Documented by 16th-century Spanish friars who called them diabolical. Rediscovered by [[gordon-wasson]] in 1955 when he participated in a ceremony led by Maria Sabina. This discovery triggered the modern psychedelic era. See [[psychedelic-mushroom-history]].
 
 ### Amazonian Ayahuasca (South America)
 Brew of Banisteriopsis caapi (MAOI beta-carbolines) + Psychotria viridis or Diplopterys cabrerana (DMT). Used in shamanic ceremonies by dozens of Amazonian cultures for healing, divination, and community bonding. The MAO inhibition allows oral DMT to be active. [[terence-mckenna]] and [[dennis-mckenna]] encountered ayahuasca in 1971.

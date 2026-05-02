@@ -3,7 +3,8 @@ title: "What Is Living Mulch and When Should I Use It?"
 tags: [query, living-mulch, cover-crops, no-till-gardening, permaculture, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Is Living Mulch and When Should I Use It?
@@ -94,7 +95,7 @@ With proper species selection and management, living mulch can transform a garde
 
 ## Related Questions
 - [[query-how-does-chop-and-drop-mulching-work]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]

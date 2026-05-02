@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
 # Cannabis and Metabolic Syndrome Research

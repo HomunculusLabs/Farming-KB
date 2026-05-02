@@ -70,7 +70,7 @@ Use FPJ made from winter-hardy plants:
 
 Cho Han-kyu identified several conditions under which FPJ should NOT be applied:
 
-1. **Overgrowth symptoms:** If plants are already showing excessive vegetative growth (large, dark green leaves, elongated stems), FPJ will worsen the condition. Apply [[knf-water-soluble-calcium-wsca]] or [[knf-water-soluble-calcium-wsca]] instead to redirect energy toward reproductive growth.
+1. **Overgrowth symptoms:** If plants are already showing excessive vegetative growth (large, dark green leaves, elongated stems), FPJ will worsen the condition. Apply [[water-soluble-calcium-wca]] or [[water-soluble-calcium-wca]] instead to redirect energy toward reproductive growth.
 
 2. **Same-crop FPJ:** Do NOT use FPJ made from the same species as the target crop. For example, do NOT use rice FPJ on rice, or tomato FPJ on tomatoes. This can cause hormonal confusion and excessive vegetative growth.
 
@@ -145,6 +145,3 @@ A typical foliar spray schedule for field crops:
 ### Root Vegetables
 - Apply early in growing season (1:1,000)
 - Reduce after root development begins
-
-
-

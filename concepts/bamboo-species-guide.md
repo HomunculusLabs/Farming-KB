@@ -5,13 +5,6 @@ ti
 
 Bamboos (Family: Bambusaceae) are among the most useful multi-purpose plants in [[permaculture-design]]. They provide timber, edible shoots, windbreaks, hedges, erosion control, and fodder. They divide into two main types: **clumping** (non-invasive) and **running** (potentially invasive).
 
-
-
-
-
-
-
-
 ## Clumping Bamboos (Bambusa spp.)
 
 ### Bambusa balcoa (Balku)
@@ -25,13 +18,6 @@ Compact clumping bamboo with useful erect culms to 17 m height, 10 cm diameter. 
 
 ### Bambusa ventricosa (Buddha's Belly Bamboo)
 Ornamental Chinese bamboo. Under drought stress becomes a dwarf with swollen belly-shaped internodes. Under normal conditions may reach 17 m with zigzag culms to 50 mm diameter.
-
-
-
-
-
-
-
 
 ## Running Bamboos (Phyllostachys spp.)
 
@@ -54,13 +40,6 @@ Graceful, hardy to -21 deg C, native to southern China. Reaches 17 m height with
 - **P. meyeri**: Invasive runner, 11 m, hardy to -8 deg C. Strong stems for building. Good hedge plant.
 - **P. rumbromarginata**: Invasive runner, 10 m, hardy to -15 deg C. Edible shoots; stems for baskets, garden stakes, pan pipes.
 
-
-
-
-
-
-
-
 ## Other Bamboos
 
 ### Dendrocalamus strictus (Male Bamboo)
@@ -68,13 +47,6 @@ Reported most useful bamboo in India for general construction and paper manufact
 
 ### Sasa palmata
 Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 cm wide. Useful as stock feed, shelter, and paper pulp. Highly invasive -- must be controlled using stock.
-
-
-
-
-
-
-
 
 ## Related
 

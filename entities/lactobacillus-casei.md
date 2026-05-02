@@ -11,19 +11,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/beneficial-indigenous-microorganisms-bion
 
 *Lactobacillus casei* is a facultatively heterofermentative Gram-positive bacterium belonging to the *Lactobacillaceae* family. It is one of the most extensively studied lactic acid bacteria due to its widespread use in dairy fermentations, its probiotic properties, and its natural presence in the human gastrointestinal tract. The species has a long history of safe use in food production and is classified as Generally Recognized As Safe (GRAS) by regulatory agencies worldwide.
 
-
-
-
-
-
 ## Taxonomy and Classification
 
 The taxonomic history of *L. casei* has been complex and contentious. The *Lactobacillus casei* group (also called the *L. casei*-paracasei group) historically included several closely related taxa that were difficult to distinguish using phenotypic methods. With the advent of molecular phylogenetics, the group has been refined to include *L. casei*, *L. paracasei*, *L. rhamnosus*, and *L. zeae*. DNA-DNA hybridization studies and whole-genome sequencing have clarified that *L. casei* sensu stricto is a distinct species, though it remains very closely related to *L. paracasei* and *L. rhamnosus*.
-
-
-
-
-
 
 ## Natural Habitat and Occurrence
 
@@ -31,21 +21,11 @@ The taxonomic history of *L. casei* has been complex and contentious. The *Lacto
 
 The organism is mesophilic, with an optimal growth temperature of approximately 30–37°C, and can grow at temperatures ranging from 10°C to 45°C. It tolerates acidic conditions down to approximately pH 3.5, though its acid tolerance is somewhat lower than that of *L. plantarum*. These physiological characteristics make it well-adapted to the conditions found in fermented foods and the intestinal environment.
 
-
-
-
-
-
 ## Dairy Fermentation
 
 *L. casei* plays a significant role in the production of many fermented dairy products. It is used as a starter or adjunct culture in the manufacture of cheese, yogurt, kefir, and fermented milk drinks. In cheese production, *L. casei* contributes to flavor development during ripening through the production of lactic acid, volatile fatty acids, and various flavor compounds derived from amino acid catabolism.
 
 The organism is particularly important in the production of aged cheeses, where it survives the initial cooking and pressing stages and continues to metabolize during the extended ripening period. Its proteolytic activity—relatively modest compared to some other lactobacilli—helps break down milk proteins into peptides and free amino acids that serve as precursors for the development of cheese flavor and texture. *L. casei* is a key component of the non-starter lactic acid bacteria (NSLAB) flora that naturally develops in many cheese varieties during ripening.
-
-
-
-
-
 
 ## Probiotic Applications
 
@@ -55,30 +35,15 @@ The organism is particularly important in the production of aged cheeses, where 
 - **Immune modulation**: Regular consumption of *L. casei*-containing products has been associated with enhanced innate and adaptive immune responses, including increased natural killer cell activity and secretory IgA production.
 - **Metabolic effects**: Some studies suggest that *L. casei* may help lower serum cholesterol levels, improve lactose digestion, and reduce markers of systemic inflammation.
 
-
-
-
-
-
 ## Role in IMO and Natural Farming
 
 In indigenous microorganism (IMO) systems, *L. casei* contributes to the mixed lactic acid bacteria cultures developed from rice-based fermentation substrates. While *L. plantarum* and *L. brevis* are often the dominant LAB species in these preparations, *L. casei* is frequently present as part of the natural microbiota that colonizes fermenting rice and plant materials.
 
 When applied to agricultural systems as part of LAB serum preparations, *L. casei* contributes to the overall microbial diversity and competitive suppression of plant pathogens. Its ability to produce lactic acid and bacteriocins helps create an environment that is unfavorable for many pathogenic bacteria and fungi. The organism may also contribute to the decomposition of organic matter in compost and soil, particularly through its ability to utilize a range of carbohydrate substrates.
 
-
-
-
-
-
 ## Genomics and Metabolic Capabilities
 
 The genome of *L. casei* ATCC 334, sequenced in 2006, revealed a chromosome of approximately 2.9 megabases encoding roughly 2,800 predicted proteins. The genome contains a relatively large number of genes involved in carbohydrate transport and metabolism, consistent with the organism's ability to utilize diverse sugar sources. Notably, *L. casei* possesses a complete set of genes for the mixed-acid fermentation pathway and multiple genes encoding peptidases and amino acid transporters that support its growth in protein-rich environments such as cheese and the intestinal tract.
-
-
-
-
-
 
 ## See Also
 

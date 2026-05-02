@@ -126,7 +126,6 @@ staged approach maximizes overall quality and yield per plant. The
 multi-tiered
 canopies.
 
-
 ## Key Points
 - Trichomes progress from clear to cloudy to amber; cloudy with some amber provides the best overall balance
 - Use at least a 30x jeweler's loupe or digital microscope to examine trichome cap color across multiple bud sites

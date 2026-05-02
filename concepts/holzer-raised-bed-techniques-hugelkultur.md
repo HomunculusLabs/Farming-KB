@@ -39,7 +39,7 @@ Holzer eventually tried making a raised bed without chipped material, instead in
 - **Longevity**: These beds can last ten years or more without major rebuilding, much longer than wood-chip beds.
 - **Better for root vegetables**: Particularly good for growing potatoes and other root vegetables; Holzer has also used them to cultivate cereals and had good results in spruce forests.
 
-This approach is essentially [[hugelkultur-guide]] -- building raised beds over and around whole logs and branches. The beds tend to be much larger and higher when entire trees are incorporated.
+This approach is essentially [[hemenway-hugelkultur-guide]] -- building raised beds over and around whole logs and branches. The beds tend to be much larger and higher when entire trees are incorporated.
 
 ## Design Flexibility
 
@@ -85,7 +85,7 @@ After severe storm damage to the spruce monoculture surrounding the Krameterhof 
 - [[holzer-frost-protection-techniques]]
 
 - [[holzer-terraced-landscape-design]]
-- [[hugelkultur-guide]]
+- [[hemenway-hugelkultur-guide]]
 - [[holzer-livestock-integration-pigs-cattle]]
 - [[holzer-green-manure-soil-fertility]]
 - [[sepp-holzer-method]]

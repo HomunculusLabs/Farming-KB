@@ -54,7 +54,6 @@ Ground cover plants like clover, vetch, and comfrey spread quickly to hold soil 
 
 Nitrogen-fixing trees and shrubs like black locust, alder, seaberry, and Russian olive should be planted throughout the slope as support species. These pioneers build soil fertility that benefits the productive fruit and nut trees planted alongside them.
 
-
 ## Access and Maintenance
 
 Design access paths into your slope food forest from the beginning. Paths on contour (level paths) are easiest to walk and maintain, as they follow the natural lay of the land. Avoid straight up-and-down paths, which channel water and accelerate erosion.
@@ -76,7 +75,6 @@ This phased approach spreads the cost and labor over time, allows for observatio
 The most common mistake in slope food forest design is planting before installing water management infrastructure. Without swales, terraces, or keyline cultivation, the first heavy rains can wash away months of work. Always establish earthworks first, then observe how water moves across the landscape for at least one season before finalizing your planting plan.
 
 Another common error is planting trees too close together on steep slopes without adequate soil preparation. Competition for limited water and nutrients on slopes is more intense than on flat ground, so wider spacing (25 to 30 feet between canopy trees) produces better results than dense planting. Trees on slopes need deeper planting holes and more initial soil amendment than those on flat ground because the effective soil depth is often shallower.
-
 
 ## Wind Management on Slopes
 

@@ -12,13 +12,9 @@ sources:
 
 Source: Bill Mollison, Permaculture: A Designers' Manual (Chapter 13, Section 13.11)
 
-
-
 ## General Principle
 
 Due to the special susceptibility of water life, minimal to zero biocide use is essential near or in waterways.
-
-
 
 ## With Fish
 
@@ -40,8 +36,6 @@ Due to the special susceptibility of water life, minimal to zero biocide use is 
 - Devise accessory food systems for fish or invertebrates, as vegetation, root crop, invertebrates.
 - In any design, include some appropriate (small or large) wetlands, even if it is from waste water.
 
-
-
 ## Traditional Water Polycultures
 
 Mollison emphasises the antiquity and sustainability of traditional systems:
@@ -52,13 +46,9 @@ Mollison emphasises the antiquity and sustainability of traditional systems:
 
 These peoples recognise no external authority. Not only is it an inappropriate and interfering concept in self-sustained systems, but the creators of such systems have learned a self-governance never developed by any central authority in history. The construction of common canal systems and shared irrigation necessitates community organisation and self-control.
 
-
-
 ## The Ifugao Example
 
 Growing 0.5 hectares of padi rice and 0.25 ha of sweet potato as staples, with 1 ha of woodlot and grove crop, domestic pigs and chickens fed from gleanings and crop, the Ifugao family of 5 spend 400 person days of productive labour per year, or 80 days per able individual. Rainfall is 3 to 6 m per year, necessitating constant terrace maintenance. The terraces have 2 cm of soil, and half the mass of the bunds is in stone. Canal and ditch maintenance necessitate annual earth and stone repairs; the equivalent value is one day of rice for one hour of work.
-
-
 
 ## Aquatic Plant Potential
 
@@ -71,8 +61,6 @@ Some 20 to 30 species of water plants are in constant culture or have been subje
 - Samphire pastures browsed by geese, swan, and fish species at varying tide levels.
 
 There is an obvious role for seed, vegetative, and general aquatic nurseries and suppliers, which are undeveloped in most countries.
-
-
 
 ## Key References
 

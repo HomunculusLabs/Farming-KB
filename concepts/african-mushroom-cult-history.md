@@ -107,3 +107,31 @@ Additional work is needed on African species, their distribution, taxonomic clas
 See also: african mushroom cult history, [[magic-mushroom-cultural-history]], [[psilocybe-mexicana-profile]], [[psilocybe-global-biogeography]]
 
 See also: [[african-psilocybin-mushroom-guide]]
+
+## Practical Context
+African Mushroom Cult History is relevant to farming knowledge because it connects observation,
+site conditions, and management choices. Treat it as a working topic rather
+than a standalone label: the useful questions are where it appears, what
+conditions make it stronger or weaker, and how it changes decisions in the
+field.
+
+## Field Indicators
+Look for repeated patterns across seasons instead of relying on a single
+observation. Useful indicators include substrate or soil condition, moisture
+availability, disturbance history, plant or fungal associates, and the timing
+of visible changes. Recording these factors makes the page easier to connect
+to local trials and future notes.
+
+## Management Relevance
+In a production or homestead setting, the topic matters when it affects yield,
+resilience, ecological function, safety, or maintenance labor. Decisions should
+be scaled to the site: small trials, careful monitoring, and comparison against
+an untreated area are usually more reliable than immediate whole-system
+changes.
+
+## Related Topics
+- [[panaeolus-africanus]]
+- [[psilocybe-mairei]]
+- [[psilocybin-mushroom]]
+- [[psilocybin]]
+- [[guzman-allen-gartz-global-psilocybe-biogeography]]

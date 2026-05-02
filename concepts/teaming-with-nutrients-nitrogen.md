@@ -37,7 +37,7 @@ The Earth's atmosphere consists of 78 percent nitrogen. However, atmospheric nit
 
 ## Biological Nitrogen Fixation
 
-Up to 50 percent of the nitrogen in a garden can come from [[permaculture-designers-manual-nitrogen-fixing-trees]] (diazotrophs). The most familiar are [[rhizobia-legume-nodule-formation]], soil bacteria forming symbiotic relationships with legumes. Rhizobia provide the enzymes to break triple-bonded nitrogen; the plant provides housing (root nodules) and carbon-based root-exudates|exudates. A specific match is required between Rhizobia species and plant species.
+Up to 50 percent of the nitrogen in a garden can come from [[nitrogen-fixing-trees]] (diazotrophs). The most familiar are [[rhizobia-legume-nodule-formation]], soil bacteria forming symbiotic relationships with legumes. Rhizobia provide the enzymes to break triple-bonded nitrogen; the plant provides housing (root nodules) and carbon-based root-exudates|exudates. A specific match is required between Rhizobia species and plant species.
 
 Frankia (actinomycetes) associate with actinorhizal plants including alders, bayberry, dryas, and sea buckthorn. These are pioneer plants that bring plant-available nitrogen into poor soils. See also [[nitrogen-cycle-in-soil]].
 

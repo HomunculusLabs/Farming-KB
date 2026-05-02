@@ -107,7 +107,7 @@ Ancient Buddhist traditions still practiced today at the higher initiatory
 levels involve isolation in a cave in darkness. This level of initiation is
 known to produce quite the experience. When an aspirant goes into the cave and
 is isolated from light for an extended period, the pineal gland reactivates
-and produces natural ayahuasca-preparation|Ayahuasca-like chemicals -- Pinoline (an MAOI) and DMT
+and produces natural [[ayahuasca-preparation]]|Ayahuasca-like chemicals -- Pinoline (an MAOI) and DMT
 (Dimethyltryptamine) -- and higher brain functioning results are achieved.
 
 ## The Tibetan Book of the Dead as Entheogenic Manual
@@ -144,8 +144,3 @@ process of the acquisition of knowledge. One becomes the way one needs to be
 (pure compassion for all). This is the reasoning for the efficacy offered
 through death/rebirth experiences facilitated by the mushroom -- the process is
 quickened through personal revelation.
-
-## See Also
-
-- [[entheogen-culture]]
-- [[psilocybin-in-the-counter-culture]]

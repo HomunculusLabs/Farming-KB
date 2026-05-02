@@ -113,6 +113,6 @@ Processing can be done at household scale with simple tools or at community scal
 ## Source
 
 Bill Mollison, *Permaculture: A Designers' Manual*, Chapters 10-12
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[soil-erosion-control]]
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

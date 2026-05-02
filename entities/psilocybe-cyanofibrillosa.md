@@ -77,6 +77,6 @@ Pacific Coast region of North America.
 
 ## See Also
 - [[psilocybe-azurescens]]
-- [[psilocybe-caerulipes-entity]]
+- [[psilocybe-caerulipes]]
 - [[psilocybe-cyanescens]]
 - [[psilocybe-subaeruginosa]]

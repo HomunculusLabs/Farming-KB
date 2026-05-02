@@ -129,7 +129,7 @@ Several mushroom species share grassland habitats with M. oreades:
 |---------|-------------|-----------|-------------|
 | M. oreades | Distant gills, fairy rings | Excellent edible | White |
 | Agaricus campestris | Pink to brown gills | Edible | Brown |
-| Psilocybe semilanceata | Conical cap, blue bruising | Psychoactive | Purple-brown |
+| [[psilocybe-semilanceata]] | Conical cap, blue bruising | Psychoactive | Purple-brown |
 | Clitocybe dealbata | Crowded gills, white cap | Toxic (muscarine) | White |
 | Panaeolus foenisecii | Dark gills, mottled cap | Inedible | Black |
 | Coprinus comatus | Shaggy, inky deliquescence | Excellent edible | Black |

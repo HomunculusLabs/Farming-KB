@@ -11,14 +11,6 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gou
 
 Medicinal mushrooms have been used for thousands of years in Traditional Chinese Medicine and are now the subject of intensive biomedical research. Their health benefits derive primarily from polysaccharides (especially [[beta-glucans]]), triterpenes, and other bioactive compounds.
 
-
-
-
-
-
-
-
-
 ## Key Medicinal Compounds
 
 ### Beta-Glucans
@@ -26,14 +18,6 @@ Long-chain polysaccharides found in mushroom cell walls that modulate the immune
 
 ### Triterpenes
 Found primarily in Ganoderma (reishi) species. These compounds have anti-inflammatory, antihistamine, and liver-protective properties. They contribute to reishi's bitter taste.
-
-
-
-
-
-
-
-
 
 ## Major Medicinal Species
 
@@ -55,14 +39,6 @@ Unique among medicinal mushrooms for its neuroprotective properties. Contains he
 ### Agarikon (Fomitopsis officinalis)
 An extremely rare old-growth forest polypore documented in the historical medical literature (Dioscorides, 65 AD). Stamets' research has shown agarikon to have strong antiviral properties, particularly against poxviruses and influenza viruses. It is one of the longest-living mushrooms, found only in old-growth forests of the Pacific Northwest.
 
-
-
-
-
-
-
-
-
 ## Preparation Methods
 
 - **Hot water extraction**: Best for extracting beta-glucans and polysaccharides
@@ -70,14 +46,6 @@ An extremely rare old-growth forest polypore documented in the historical medica
 - **Dual extraction**: Combines both methods for full-spectrum extracts
 - **Decoction (tea)**: Traditional method; simmer sliced or powdered mushroom in water
 - **Tinctures**: Alcohol-based liquid extracts
-
-
-
-
-
-
-
-
 
 ## See Also
 

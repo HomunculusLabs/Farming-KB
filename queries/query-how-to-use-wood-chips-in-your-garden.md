@@ -98,7 +98,7 @@ of a broader soil-building strategy.
 
 - [[query-how-to-use-rock-dust-in-your-garden]] Questions
 - [[query-how-to-build-a-compost-pile-that-works]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-do-mushrooms-contribute-to-soil-health]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
 - [[query-how-to-build-healthy-garden-soil]]

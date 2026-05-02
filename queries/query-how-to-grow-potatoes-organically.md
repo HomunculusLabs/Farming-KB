@@ -56,7 +56,6 @@ For storage potatoes, allow the skins to cure in a dark, humid location at 55 to
 Properly cured potatoes stored in cool, dark, humid conditions at around 40 degrees Fahrenheit can last six months or more for winter use.
 Avoid refrigerating potatoes, as temperatures below 45 degrees convert starches to sugars, affecting both flavor and cooking quality.
 
-
 Potatoes are a cool-season crop that grows best when soil temperatures are between 60 and 70 degrees Fahrenheit.
 They can be planted as early as two to three weeks before the last expected spring frost in most temperate climates.
 In mild winter regions, potatoes can be planted in late winter for a spring harvest or in late summer for a fall harvest.

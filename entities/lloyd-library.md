@@ -4,7 +4,10 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 # Lloyd Library and Museum
 

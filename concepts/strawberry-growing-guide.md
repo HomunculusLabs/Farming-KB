@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, beginner, harvesting, fruit-tree, orchard]
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Overview
 Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, and variety selection.

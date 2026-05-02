@@ -83,7 +83,7 @@ A packet of quality tomato seed costs $2-4 and produces dozens of plants. Purcha
 
 More importantly, growing from seed gives you access to a much wider range of varieties, including those specifically adapted to your climate and growing conditions — varieties that commercial transplant growers are unlikely to offer.
 
-See also: [[seed-starting-indoors-solomon]], [[seed-starting-and-transplanting]], [[garden-bed-preparation]]
+See also: [[seed-starting-indoors-solomon]], [[solomon-seed-starting-transplanting]], [[garden-bed-preparation]]
 - [[solomon-gardening-when-it-counts-index]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[growing-vegetables-with-less-fertilizer]]

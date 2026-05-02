@@ -105,3 +105,31 @@ The 2-ethoxy homologue (2CT7-2ETO) has been synthesized and tested at 20 mg. It 
 - [[psychedelic-harm-reduction-philosophy]]
 - [[controlled-substances-act-and-psychedelic-research]]
 - [[psychedelic-harm-reduction-guide]]
+
+## Practical Context
+2c T 7 (2,5 Dimethoxy 4 Propylthiophenethylamine) is relevant to farming knowledge because it connects observation,
+site conditions, and management choices. Treat it as a working topic rather
+than a standalone label: the useful questions are where it appears, what
+conditions make it stronger or weaker, and how it changes decisions in the
+field.
+
+## Field Indicators
+Look for repeated patterns across seasons instead of relying on a single
+observation. Useful indicators include substrate or soil condition, moisture
+availability, disturbance history, plant or fungal associates, and the timing
+of visible changes. Recording these factors makes the page easier to connect
+to local trials and future notes.
+
+## Management Relevance
+In a production or homestead setting, the topic matters when it affects yield,
+resilience, ecological function, safety, or maintenance labor. Decisions should
+be scaled to the site: small trials, careful monitoring, and comparison against
+an untreated area are usually more reliable than immediate whole-system
+changes.
+
+## Related Topics
+- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- [[psychedelic-harm-reduction-philosophy]]
+- [[turner-ecstasy-mdma-heart-opening-psychedelic]]
+- [[controlled-substances-act-and-psychedelic-research]]
+- [[emcdda-hallucinogenic-mushroom-health-risks]]

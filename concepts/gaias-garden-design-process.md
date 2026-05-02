@@ -71,7 +71,6 @@ Begin installation at the doorstep and work outward, following the [[zone-sector
 
 This process draws on and simplifies the broader [[mollison-pdc-design-report-methodology]] for home-scale application. It is specifically oriented toward creating [[gaias-garden-creating-community-gardens]] rather than broad-acre permaculture design.
 
-
 ## Observation and Community Integration
 
 Hemenway's design process is notable for its emphasis on observation before

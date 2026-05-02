@@ -103,7 +103,7 @@ Oyster mushrooms are among the easiest mushrooms to cultivate, making them ideal
 - **Colonization:** 10-21 days at 72-78°F (22-26°C).
 - **Fruiting:** Requires high humidity (85-95%), fresh air, and indirect light.
 - **Temperature:** Varies by species (P. ostreatus fruits at 55-75°F).
-- **Biological efficiency:** 50-200% depending on substrate.
+- **[[biological-efficiency]]:** 50-200% depending on substrate.
 - **Methods:** Bucket tek, straw logs, monotubs, outdoor log inoculation.
 ## Mycoremediation Applications
 Oyster mushrooms have significant environmental applications:

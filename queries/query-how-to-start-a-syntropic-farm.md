@@ -136,5 +136,5 @@ A food forest is an end goal — a productive, multi-strata polyculture system. 
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
-- [[query-how-to-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-to-start-growing-mushrooms-at-home]]

@@ -77,7 +77,6 @@ terrestrial net primary production. Their activity:
 - Influences forest succession by determining decomposition rates
 - Contributes to soil formation and humus accumulation
 
-
 ## Decomposition Rates and Succession
 
 The rate of wood decomposition depends on wood species, moisture content,

@@ -3,7 +3,8 @@ title: "What Are Permaculture Zones and How Do I Use Them?"
 tags: [query, permaculture, zone-planning, site-design, permaculture-principles]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Are Permaculture Zones and How Do I Use Them?
@@ -97,6 +98,6 @@ The best zone plan is one that reduces your workload while increasing your harve
 - [[query-how-to-use-bamboo-in-permaculture]] Questions
 - [[query-how-to-design-a-permaculture-property-from-scratch]]
 - [[query-what-are-the-12-permaculture-principles]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
 - [[query-how-does-keyline-design-work-in-permaculture]]

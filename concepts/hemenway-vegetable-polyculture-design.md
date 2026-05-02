@@ -119,4 +119,4 @@ edible annuals and short-lived perennials, guilds incorporate trees,
 shrubs, and longer-lived species into interactive communities. Together,
 they represent the spectrum of ecological plant-assembly techniques
 available to the home gardener, as further explored in
-[[hemenway-food-forest-design]] and [[hemenway-forest-garden-layers]].
+[[hemenway-food-forest-design]] and [[forest-garden-layers]].

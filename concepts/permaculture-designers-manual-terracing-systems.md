@@ -133,7 +133,7 @@ Terraces play a role in snow country management. Snow slides at velocities of 4-
 - Bill Mollison, *Permaculture: A Designers' Manual*, Section 10.4, Figures 10.8-10.12
 - Mikel and Jude Frurthon, terrace designs at Nimbin, Australia
 - Assomada project, Cape Verde, Sahel International Agricultural Development
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-seed-saving-varieties]]
 - [[permaculture-designers-manual-earth-building-techniques]]
 - [[permaculture-designers-manual-windbreak-species]]

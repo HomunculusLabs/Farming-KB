@@ -14,7 +14,6 @@ Hugelkultur beds are versatile growing mounds that support a wide range
 of plants once established.
 Plant choices depend on the bed's age, wood type, and local climate.
 
-
 ## Understanding Hugelkultur Bed Dynamics
 
 During the first year, decomposing wood draws nitrogen from the
@@ -29,7 +28,6 @@ By year two or three, the bed transitions from a nitrogen-depleting
 system to a nutrient-releasing one.
 
 ## Best Plants for New Hugelkultur Beds (Year 1)
-
 
 Nitrogen-fixing plants are ideal because they pull atmospheric nitrogen
 into the soil through symbiotic bacteria on their roots.
@@ -54,14 +52,12 @@ with heavy feeders works especially well on new beds.
 Avoid planting nitrogen-hungry crops like corn or brassicas in the
 first year unless you add supplemental nitrogen.
 
-
 ## Best Plants for Established Hugelkultur Beds (Years 2+)
 
 Once the decomposition process is underway, established hugelkultur beds
 become incredibly productive growing spaces.
 The moisture-retaining wood core means these beds need far less
 irrigation than conventional raised beds.
-
 
 Peppers and eggplants also do well, producing abundant fruit in the
 nutrient-rich, warm soil.

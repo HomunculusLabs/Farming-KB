@@ -62,7 +62,7 @@ A useful tip: a notch at the top of a cutting runs water off the face to prevent
 
 Plant materials can be purchased from a [[permaculture-designers-manual-plant-toxins-dryland]] or grown in pots on the site several months before planned earthworks. Tubed seedlings of Acacia, Prosopis, tagasaste, New Zealand mirror plant (Coprosma), pines, eucalypts, and shrubs compete very well with self-sown weeds.
 
-For species like coconuts, every plantation needs a mulched, shaded nursery, no matter how modest. Shade is most cheaply provided by light-foliaged [[permaculture-designers-manual-nitrogen-fixing-trees]] at wide spacing (e.g. Acacia, Albizia).
+For species like coconuts, every plantation needs a mulched, shaded nursery, no matter how modest. Shade is most cheaply provided by light-foliaged [[nitrogen-fixing-trees]] at wide spacing (e.g. Acacia, Albizia).
 
 ## Tissue Culture
 

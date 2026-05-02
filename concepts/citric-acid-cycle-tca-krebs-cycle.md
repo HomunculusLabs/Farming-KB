@@ -133,4 +133,3 @@ promoting tumor progression.
 - [[glycolysis-embden-meyerhof-parnas-pathway]]
 - [[enzyme-kinetics-michaelis-menten-model]]
 - [[glutathione-biochemistry-and-redox-biology]]
-

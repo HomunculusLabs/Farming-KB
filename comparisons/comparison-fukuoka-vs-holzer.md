@@ -3,7 +3,8 @@ title: "Fukuoka vs Holzer"
 tags: [comparison, farming, natural-farming, permaculture, philosophy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka vs Holzer

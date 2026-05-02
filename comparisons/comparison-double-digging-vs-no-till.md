@@ -3,7 +3,9 @@ title: "Double Digging vs No-Till"
 tags: [comparison, soil-management, tillage, organic-gardening]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/lowenfels-teaming-with-microbes.md"
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
 ---
 
 # Double Digging vs No-Till

@@ -88,5 +88,5 @@ Rossman et al. (1998) listed potential products from a fungal survey of the Guan
 
 Source: Comprehensive review of fungal biodiversity and conservation literature
 - [[fungal-phylogeny-microsporidia-slime-molds]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]

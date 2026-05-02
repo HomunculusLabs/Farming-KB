@@ -3,7 +3,8 @@ title: "Coco Coir vs Peat"
 tags: [comparison, coco-coir, peat, growing-media, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
 # Coco Coir vs Peat
@@ -147,5 +148,3 @@ formulations for virtually any growing application.
 - [[comparison-rockwool-vs-coco-coir]]
 - [[coco-coir-cannabis]]
 - [[peat-free-gardening]]
-- [[cervantes-container-gardening-pot-size]]
-- [[container-gardening-guide]]

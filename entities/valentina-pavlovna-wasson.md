@@ -90,7 +90,7 @@ Mesoamerica and their introduction to Western society.
 
 ## See Also
 
-- [[r-gordon-wasson]] - Her husband and collaborator
+- [[gordon-wasson]] - Her husband and collaborator
 - [[falconer-mushroom-cultivation-history]] - The broader history of human-mushroom relations
 - [[amanita-muscaria-ethnobotany]] - Ethnobotanical perspectives on the fly-agaric
 - [[psychedelic-mushroom-art-and-iconography]] - Cultural representations of mushrooms

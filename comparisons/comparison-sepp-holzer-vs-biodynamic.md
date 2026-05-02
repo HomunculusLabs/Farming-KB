@@ -3,7 +3,8 @@ title: "Sepp Holzer vs Biodynamic"
 tags: [comparison, farming-methods, regenerative-agriculture, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Sepp Holzer vs Biodynamic

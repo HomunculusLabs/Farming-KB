@@ -120,7 +120,7 @@ adaptability and intelligence:
 
 ## See Also
 
-- [[unknown-mycelium-mycoremediation]]
+- [[mycoremediation]]
 - [[mycelium-running-white-rot-brown-rot-fungi]]
 - [[mycelium-running-remediating-toxic-waste]]
 - [[medicinal-mushrooms]]
@@ -130,4 +130,4 @@ adaptability and intelligence:
 - [[psilocybin-mushroom]]
 - [[mycology]]
 - [[mycorrhiza]]
-- [[Fungal Life Cycle]]
+- Fungal Life Cycle

@@ -7,7 +7,8 @@ tags:
   - shamanism
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/arthur-j-mushrooms-and-mankind.md"
 ---
 # Amanita Muscaria Ethnobotany vs Arthur: Mushrooms and Mankind
 ## Scope and Methodology

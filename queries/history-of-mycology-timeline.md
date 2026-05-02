@@ -30,7 +30,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
   Anthropologists debate whether these represent actual mushroom cults
   or symbolic fertility objects.
 - **~500 BCE — Rig Vedic Soma:**
-  [[r-gordon-wasson]] proposed (1968) in Soma: Divine Mushroom of Immortality
+  [[gordon-wasson]] proposed (1968) in Soma: Divine Mushroom of Immortality
   that the divine Soma of Vedic ritual was Amanita muscaria.
   This remains debated among scholars.
   See [[amanita-muscaria-guide]] and [[soma-hypothesis]].

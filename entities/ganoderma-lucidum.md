@@ -28,7 +28,7 @@ The species has a complex taxonomic history complicated by the existence of a cl
 (2012). In the vast majority of commercial and traditional contexts, the name "Ganoderma lucidum" continues to be used
 for the Asian medicinal material. In Chinese, the mushroom is called 灵芝 (língzhī), meaning "spiritual mushroom"
 or "divine mushroom." The Japanese name reishi (霊芝) has the same meaning. The English common name "reishi" derives
-from the Japanese and has become the standard term in Western herbal medicine. The taxonomic complexity has practical
+from the Japanese and has become the standard term in Western [[herbal-medicine]]. The taxonomic complexity has practical
 implications for research, as the bioactive compound profiles of *G. lucidum* sensu stricto and the Asian *G. lingzhi*
 complex may differ in important ways.
 
@@ -92,7 +92,7 @@ Korea. The primary cultivation methods involve sterile inoculation of hardwood s
 with wheat bran or rice bran) in bags or bottles, followed by controlled environment fruiting. Antler-like or branched
 fruiting bodies can be produced by manipulating CO₂ levels during growth, and these morphological variants are prized
 in some markets. Mycelial biomass is also produced by liquid fermentation for extraction. The global reishi market is
-estimated at several billion dollars annually, making it one of the most commercially significant medicinal mushrooms
+estimated at several billion dollars annually, making it one of the most commercially significant [[medicinal-mushrooms]]
 worldwide. Quality control remains a challenge, as the bioactive compound content varies significantly based on strain,
 substrate, and growing conditions.
 

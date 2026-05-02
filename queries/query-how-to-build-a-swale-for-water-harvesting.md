@@ -19,7 +19,7 @@ A swale is a level ditch-and-berm system built on contour across a slope to capt
 - They integrate well with other water harvesting elements like ponds, rain tanks, and greywater systems
 ## Detailed Explanation
 ### What Is a Swale?
-Swales are foundational earthworks in [[query-what-are-the-permaculture-principles]], serving as passive water harvesting systems that transform runoff into groundwater recharge. Unlike drainage ditches that channel water away, swales are specifically designed to stop water flow, spread it across the landscape, and sink it into the soil profile.
+Swales are foundational earthworks in [[query-what-are-the-12-permaculture-principles]], serving as passive water harvesting systems that transform runoff into groundwater recharge. Unlike drainage ditches that channel water away, swales are specifically designed to stop water flow, spread it across the landscape, and sink it into the soil profile.
 A swale consists of two components working together. The first is a level ditch (the swale itself) excavated along a contour line. The second is a berm (mound) formed from the excavated soil placed on the downhill side.
 When rain falls, water flows downhill, hits the swale, and pools in the level ditch. The water then slowly percolates into the soil over hours or days, recharging groundwater and making moisture available to plants on the berm and surrounding area long after the rain event has passed.
 This passive system requires no pumps, pipes, or mechanical parts. Once constructed, a swale works continuously through every rainfall event, gradually improving soil moisture levels and reducing the need for supplemental irrigation over time.
@@ -98,5 +98,5 @@ For a broader planting strategy that pairs well with swale systems, see [[query-
 Always test your design with a moderate rainfall event before relying on it during extreme weather.
 ## Related Questions
 - [[query-how-does-keyline-design-work-in-permaculture]]
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-to-start-a-food-forest]]

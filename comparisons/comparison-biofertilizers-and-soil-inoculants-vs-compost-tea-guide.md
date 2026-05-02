@@ -3,7 +3,8 @@ title: "Biofertilizers and Soil Inoculants vs Compost Tea Guide"
 tags: [comparison, soil-biology, biofertilizers, compost-tea, soil-amendment]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # Biofertilizers and Soil Inoculants vs Compost Tea Guide

@@ -134,8 +134,8 @@ greatest danger.
 
 - [Amanita Phalloides (Death Cap)]([[amanita-phalloides-death-cap]].md)
 - [Fungal Pathogens and Human Disease]([[fungal-pathogens-human-disease]].md)
-- [[fungal-spore-biology]]](fungal-spore-biology.md)
-- [[mycelial-networks]]](mycelium-network.md)
+- [[fungal-spore-biology]](fungal-spore-biology.md)
+- [[mycelial-networks]](mycelium-network.md)
 
 ## References
 

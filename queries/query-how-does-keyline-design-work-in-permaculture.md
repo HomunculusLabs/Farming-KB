@@ -96,5 +96,5 @@ soil and tree roots develop together.
 ## Related Questions
 [[query-how-to-build-a-swale-for-water-harvesting]]
 [[query-how-to-start-a-food-forest]]
-[[query-what-are-the-permaculture-principles]]
+[[query-what-are-the-12-permaculture-principles]]
 [[water-harvesting-techniques-comparison]]

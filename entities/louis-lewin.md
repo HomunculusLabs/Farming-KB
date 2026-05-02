@@ -4,7 +4,10 @@ created: 2026-04-18
 updated: 2026-04-18
 type: entity
 tags: [history, research]
-sources: []
+sources:
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 
 # Louis Lewin

@@ -3,7 +3,8 @@ title: "What Is Humic Acid and When Should I Use It?"
 tags: [query, soil-science, organic-farming, soil-amendments, cannabis]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # What Is Humic Acid and When Should I Use It?

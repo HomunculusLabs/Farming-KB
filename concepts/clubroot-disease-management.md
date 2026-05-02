@@ -9,23 +9,9 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Clubroot Disease Management
 
-
-
-
-
-
-
-
 ## Overview
 
 Clubroot is a crippling fungus disease that causes distortion and swelling of the roots of all members of the cabbage (Brassica) family and several ornamental plants. Once the roots cease to function properly, the tops wilt and will not produce a satisfactory harvest.
-
-
-
-
-
-
-
 
 ## Key Facts
 
@@ -33,13 +19,6 @@ Clubroot is a crippling fungus disease that causes distortion and swelling of th
 - **Hosts:** All Brassica family members (cabbage, cauliflower, Brussels sprouts, kale, broccoli, calabrese) plus some ornamentals
 - **There is no cure for clubroot**
 - Once it invades the soil, it is there forever — whether or not you grow any host plants
-
-
-
-
-
-
-
 
 ## Management Strategies
 
@@ -61,13 +40,6 @@ Adding lime to the soil before planting also seems to help control clubroot. Lim
 ### Avoid Replanting Brassicas
 Since clubroot persists indefinitely in soil, practice long rotations. Mustard (a Brassica) used as [[green-manure-crops-detailed]] should also be avoided on infected land.
 
-
-
-
-
-
-
-
 ## Prevention
 
 Since there is no cure, prevention is critical:
@@ -75,13 +47,6 @@ Since there is no cure, prevention is critical:
 - Raise brassica seedlings in trays and pots rather than direct sowing
 - Improve drainage if soil is heavy and wet
 - Add lime to maintain slightly alkaline conditions around brassica beds
-
-
-
-
-
-
-
 
 ## Related
 

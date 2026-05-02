@@ -78,7 +78,6 @@ The fourth reason for personal responsibility is the need to develop the whole-s
 thinking that is central to design for energy descent. Learning to think wholistically requires an
 overriding, or reversal, of much of the cultural heritage of the last few hundred years. With little experience of
 
-
 ## Monitoring and Adaptive Management
 
 Sustainable yield calculations require ongoing monitoring to remain

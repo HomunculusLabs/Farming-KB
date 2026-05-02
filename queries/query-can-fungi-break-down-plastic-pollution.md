@@ -86,7 +86,7 @@ understanding and optimizing plastic degradation pathways, including techniques 
 pre-treating plastics to increase surface area and bioavailability before fungal
 inoculation.
 
-The [[comparison-phytoremediation-vs-mycoremediation]] highlights important
+The [[comparison-phytoremediation-vs-mycoremediation-detail]] highlights important
 advantages of fungal approaches for plastic pollution. While plants can absorb and
 accumulate certain pollutants, they cannot enzymatically break down most plastic
 polymers. Fungi, with their powerful extracellular enzyme systems and invasive
@@ -125,4 +125,4 @@ environmental risk assessment.
 - [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
 - [[query-can-fungi-clean-up-oil-spills]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[comparison-phytoremediation-vs-mycoremediation]]
+- [[comparison-phytoremediation-vs-mycoremediation-detail]]

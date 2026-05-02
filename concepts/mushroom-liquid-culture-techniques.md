@@ -66,7 +66,6 @@ The Mushroom Cultivator reports a remarkable yield-boost technique: fresh fruitb
 
 When using metal lids, a small 1-2 mm hole can be drilled and covered with tape. During inoculation, remove the tape, insert the syringe needle, inject the mycelial suspension, and replace the tape. This maintains sterility throughout the process.
 
-
 ## Advanced LC Techniques
 
 Experienced cultivators employ several refinements to basic liquid culture technique. Stirred-tank bioreactors allow continuous agitation and dissolved oxygen monitoring, producing denser mycelial biomass in shorter time frames. For species prone to clumping, the addition of a small amount of peroxide to the media can help maintain individualized hyphal growth. Some cultivators add beneficial supplements such as yeast extract (providing B vitamins and amino acids) or specialized mushroom-specific nutrients that accelerate growth rates by 20-30% compared to basic sugar-based media.

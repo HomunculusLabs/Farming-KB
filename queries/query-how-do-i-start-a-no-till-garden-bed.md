@@ -102,7 +102,7 @@ They also include reduced erosion, higher organic matter accumulation, and drama
 
 ## Related Questions
 
-- [[query-how-to-start-a-no-till-garden-bed]]
+- query how do i start a no till garden bed
 - [[query-how-to-build-a-raised-bed-garden]]
 - [[query-what-are-the-benefits-of-no-till-gardening]]
 - [[query-how-to-build-healthy-garden-soil]]

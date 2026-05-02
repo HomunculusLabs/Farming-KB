@@ -3,7 +3,8 @@ title: "Biogas Digesters vs Composting Toilets"
 tags: [comparison, biogas, composting-toilet, waste-management, sanitation, energy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Biogas Digesters vs Composting Toilets

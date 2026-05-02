@@ -8,8 +8,8 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 # JADAM Combined Pesticide Programs with JWA, JS, and JHS
 
-The JADAM natural pesticide system is built around three core ingredients:
-JADAM wetting agent (JWA), JADAM sulfur (JS), and JADAM herb solution (JHS).
+The [[ultra-low-cost-jadam-natural-pesticide-jnp]] is built around three core ingredients:
+[[ultra-low-jadam-wetting-agent-jwa]], JADAM sulfur (JS), and JADAM herb solution (JHS).
 When combined in various proportions, these three components create a
 versatile pest management system capable of controlling diseases, insects,
 and mites across all crop types. Understanding how to combine them

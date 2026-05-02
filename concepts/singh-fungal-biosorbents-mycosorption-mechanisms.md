@@ -77,8 +77,8 @@ involvement of carboxyl, amino, and hydroxyl groups in metal binding.
 ## Fungal Biomass Types as Biosorbents
 
 A wide variety of fungal biomass types have been evaluated as
-biosorbents. These include baker's yeast (Saccharomyces cerevisiae),
-filamentous fungi (Rhizopus arrhizus, Aspergillus niger, Mucor rouxii,
+biosorbents. These include baker's yeast ([[saccharomyces-cerevisiae]]),
+filamentous fungi (Rhizopus arrhizus, [[aspergillus-niger]], Mucor rouxii,
 Penicillium spp.), white-rot fungi (Phanerochaete chrysosporium,
 [[staycare-trametes-versicolor-bioremediation-applications]]), and various yeast species (Debaryomyces hansenii,
 Candida utilis, Kluyveromyces marxianus). Fungal biosorbents have

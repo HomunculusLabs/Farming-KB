@@ -119,5 +119,5 @@ Sinsabaugh and colleagues further developed the concept of "ecoenzymatic stoichi
 - [[fungal-biogeochemistry]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
 - [[fungal-carbon-substrate-utilization-efficiency]]
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[fungal-functional-diversity-decomposition]]

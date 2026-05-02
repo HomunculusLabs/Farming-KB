@@ -3,7 +3,8 @@ title: "How Do I Design a Windbreak or Shelterbelt for My Property?"
 tags: [query, windbreak, shelterbelt, permaculture, design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How Do I Design a Windbreak or Shelterbelt for My Property?
@@ -101,7 +102,7 @@ primary water conservation tool alongside swales and keyline design.
   livestock forage, and food production alongside wind protection
 
 ## Related Questions
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-to-start-a-food-forest]]
 - [[query-how-to-build-a-swale-for-water-harvesting]]
 - [[query-how-does-keyline-design-work-in-permaculture]]

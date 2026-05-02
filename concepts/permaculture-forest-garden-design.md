@@ -72,7 +72,6 @@ Pioneer trees provide quick canopy for shade-loving species, fix nitrogen, and c
 
 Anderson's description of Central Honduran dooryard gardens illustrates the polyculture principle: compact garden-orchards with fruit trees, coffee bushes, tapioca, taro, corn and beans, climbing squashes and chayote over the eaves and along the ridgepole. The house and fence form essential trellis. It is no longer clear where orchards, field, house, and garden have their boundaries.
 
-
 ## Climate Considerations and Guild Design
 
 Climate determines the structural template for forest gardens. In tropical
@@ -101,5 +100,5 @@ and resist pest pressure through biodiversity.
 - [[permaculture-tree-crop-systems]]
 - [[permaculture-guild-design]]
 - [[permaculture-succession]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[gaias-garden-cover-crops-soil-building]]

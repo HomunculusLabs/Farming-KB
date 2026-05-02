@@ -113,9 +113,9 @@ eliminated, the fungus will return.
 - [[fungal-invasive-species-and-exotic-pathogens]]
 
 - [Amanita Phalloides (Death Cap)]([[amanita-phalloides-death-cap]].md)
-- [[mycotoxins]]](mycotoxins.md)
-- [[mycelial-networks]]](mycelium-network.md)
-- [[fungal-symbiosis-with-plants]]](fungal-symbiosis-with-plants.md)
+- [[mycotoxins]](mycotoxins.md)
+- [[mycelial-networks]](mycelium-network.md)
+- [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
 
 ## References
 

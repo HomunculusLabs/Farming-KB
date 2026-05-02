@@ -136,4 +136,4 @@ duplication drives evolutionary innovation.
 - [[gadd-fungal-cell-structure]]
 - [[gadd-rice-blast-magnaporthe-grisea]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[gadd-fungal-environmental-sensing]]
+- [[fungal-environmental-sensing]]

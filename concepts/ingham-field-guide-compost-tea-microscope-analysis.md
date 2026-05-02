@@ -89,7 +89,7 @@ SFI was developing a Beneficial Organism Assay to determine whether specific ben
 - [[aact-troubleshooting-ingham]]
 - [[aact-compost-quality-standards-ingham]]
 - [[soil-food-web-assessment]]
-- [[soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-assessment-methods]]
 - [[aact-pathogen-safety-ingham]]
 - [[compost-quality-standards]]
 - [[ingham-field-guide-aact-brewing-methodology]]

@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources:
+  - "raw/papers/teaming-with-fungi-lowenfels.md"
 ---
 
 Updated: 2026-04-18

@@ -3,7 +3,9 @@ title: "Tissue Culture vs Seed Saving"
 tags: [comparison, propagation, genetics, seed-saving, mycology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 
 # Tissue Culture vs Seed Saving

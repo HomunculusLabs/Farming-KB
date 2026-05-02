@@ -3,7 +3,10 @@ title: "What Is Companion Planting and How Does It Work?"
 tags: [query, permaculture, gardening, companion-planting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
+  - "raw/papers/mushrooms-fungi-from-around-the-world.md"
 ---
 
 # What Is Companion Planting and How Does It Work?
@@ -110,6 +113,6 @@ fungal connections between companion species.
 
 - [[query-what-is-bokashi-composting-and-how-does-it-work]] Questions
 
-- [[query-what-are-the-permaculture-principles]]
+- [[query-what-are-the-12-permaculture-principles]]
 - [[query-how-to-start-a-food-forest]]
 - [[cover-crop-quick-reference]]

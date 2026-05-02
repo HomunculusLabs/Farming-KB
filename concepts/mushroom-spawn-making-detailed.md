@@ -4,7 +4,9 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, spawn, inoculation, workflow, preparation, storage]
-sources: []
+sources:
+  - "raw/papers/2-laminar-flow-hood-construction.md"
+  - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 ## Overview
 Spawn making is the process of expanding mushroom mycelium from a small starting culture to a large volume of colonized grain. The core technique is grain-to-grain (G2G) transfer, where colonized grain from a "master jar" is used to inoculate multiple "receiver jars" of sterile grain. This allows exponential expansion: one jar can become ten, ten can become a hundred. Proper spawn making is the key to scaling cultivation from a single monotub to a full grow room operation while maintaining genetic consistency and low contamination rates.

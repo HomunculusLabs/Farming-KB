@@ -99,7 +99,6 @@ Fukuoka emphasized several pitfalls for those attempting to replicate his method
 - **Expecting quick results:** Building soil fertility through natural means takes 5-10 years. The transition period often produces disappointing harvests
 - **Using dwarf rootstock:** Fukuoka preferred standard-sized trees with deep root systems. Dwarf trees depend on careful management and are less resilient without it
 
-
 ## See Also
 
 - [[fukuoka-natural-orchard-management]]

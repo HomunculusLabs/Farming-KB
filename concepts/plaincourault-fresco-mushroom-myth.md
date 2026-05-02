@@ -30,7 +30,7 @@ immediately striking.
 
 ## Wasson's Initial Interest
 
-[[r-gordon-wasson]] initially entertained the possibility that the
+[[gordon-wasson]] initially entertained the possibility that the
 Plaincourault fresco depicted a mushroom. This aligned with his broader theories
 about the prevalence of [[teonanacatl-and-mesoamerican-mushroom-cults]] throughout human history and the survival
 of mushroom knowledge in European religious art.

@@ -3,7 +3,8 @@ title: "What Are the Benefits of No-Till Gardening?"
 tags: [query, no-till, soil-health, organic, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # What Are the Benefits of No-Till Gardening?

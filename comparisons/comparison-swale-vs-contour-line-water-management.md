@@ -3,7 +3,8 @@ title: "Swale vs Contour Line Water Management"
 tags: [comparison, water-management, earthworks, permaculture, land-restoration]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Swale vs Contour Line Water Management

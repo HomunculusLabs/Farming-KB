@@ -87,6 +87,6 @@ Fungal-nematode interactions are embedded in the larger soil food web. Nematode-
 - [[fungal-nematode-trapping]]
 
 Source: Comprehensive review of fungal biodiversity and soil ecology literature
-- [[fungal-diversity-ecosystem-function-mycorrhizal]]
+- [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

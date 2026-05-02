@@ -113,4 +113,4 @@ In a permaculture forest design:
 - [[permaculture-building-design]]
 - [[permaculture-chicken-forage-systems-design-course]]
 - [[permaculture-nitrogen-fixing-trees-guide]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]

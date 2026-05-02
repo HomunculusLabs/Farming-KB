@@ -79,7 +79,6 @@ The Krameterhof has become a pilgrimage site for permaculture practitioners and 
 - Building soil through natural processes
 - Designing for self-sufficiency and resilience
 
-
 ## Key Design Features
 
 The Krameterhof demonstrates several innovative design features that

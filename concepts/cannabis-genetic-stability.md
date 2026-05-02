@@ -140,7 +140,7 @@ than simply making seeds for profit.
 - [[oner-cannabis-breeding-fundamentals]]
 - cannabis-hybridization|Hybridization
 - cannabis-backcrossing|Backcrossing
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-hardy-weinberg-equilibrium]]
 - [[cannabis-seed-banks-and-genetics]]
 - [[cannabis-seed-selection-and-strain-types]]

@@ -36,7 +36,7 @@ application approach ensures that the fruits receive sustained
 nutritional support during the critical final ripening period.
 
 The combination of [[knf-oriental-herbal-nutrient]] for plant
-robustness, [[knf-water-soluble-calcium-wsca]] for fruit firmness
+robustness, [[water-soluble-calcium-wca]] for fruit firmness
 and nutrient accumulation, and seawater for trace minerals creates a
 comprehensive ripening treatment that enhances both sweetness and
 overall fruit quality.

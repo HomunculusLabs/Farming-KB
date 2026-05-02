@@ -33,9 +33,9 @@ DMT is a tryptamine base — meaning it is not soluble in water but is soluble i
 
 ### Other Sources
 - **Acacia species** (A. confusa, A. obtusifolia, A. phlebophylla) — Australian and Asian acacias, variable DMT content
-- **Psychotria viridis** — DMT in leaves (0.1–0.6%), used in ayahuasca
+- **[[psychotria-viridis]]** — DMT in leaves (0.1–0.6%), used in ayahuasca
 - **Desmanthus illinoensis** — Illinois bundleflower, root bark contains DMT
-- **Phalaris species** — grasses containing DMT and 5-MeO-DMT, also contain toxic gramine
+- **Phalaris species** — grasses containing DMT and [[5-meo-dmt]], also contain toxic gramine
 
 ## STB (Straight-to-Base) Tek
 

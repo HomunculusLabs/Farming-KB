@@ -133,5 +133,5 @@ offering a unique mechanism for emotional balance.
 ## See Also
 
 - [[cannabis-for-mental-health]]
-- [[blesching-cannabis-anxiety-disorders]]
+- [[cannabis-anxiety-research]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]

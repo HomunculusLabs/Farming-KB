@@ -30,7 +30,7 @@ things:
 
 Too little can be sub-optimal, while too much can actually increase the very
 symptoms you are attempting to treat. For instance, using cannabis to reduce
-anxiety but taking too much too rapidly can multiply anxiety. See [[blesching-cannabis-anxiety-disorders]] for condition-specific evidence.
+anxiety but taking too much too rapidly can multiply anxiety. See [[cannabis-anxiety-research]] for condition-specific evidence.
 
 ## CB1 vs CB2 Deficiency-Based Dosing
 

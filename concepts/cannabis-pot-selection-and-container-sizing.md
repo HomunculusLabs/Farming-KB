@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/greg-green-the-cannabis-grow-bible.md"
 ---
 
 Updated: 2026-04-18

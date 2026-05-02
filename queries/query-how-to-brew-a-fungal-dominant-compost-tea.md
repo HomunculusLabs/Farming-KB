@@ -3,7 +3,8 @@ title: "How to Brew a Fungal-Dominant Compost Tea"
 tags: [query, compost-tea, aact, soil-biology, organic]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
 # How to Brew a Fungal-Dominant Compost Tea

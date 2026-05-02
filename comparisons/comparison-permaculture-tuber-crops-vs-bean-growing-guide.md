@@ -138,7 +138,6 @@ shelf-stable protein that stores indefinitely without refrigeration or
 processing, complementing the carbohydrates from tuber crops to create a
 nutritionally complete staple food base.
 
-
 ## See Also
 
 - [[companion-planting-reference]]

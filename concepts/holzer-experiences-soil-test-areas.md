@@ -10,8 +10,6 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 
-
-
 ## Soil Type Strategies
 
 In the course of my projects in Austria and abroad I have worked with very different types of soil. When I survey the land for the first time, I dig a number of test trenches in different areas. The soil can vary greatly within as little as 10-20 metres.
@@ -20,15 +18,11 @@ On the Krameterhof, the deeper layers (two to three metres) are made of a very d
 
 Loam requires a very different strategy. Sealing ponds is not a problem with loam because of its high water retention. The challenge is to stabilise the walls of deeper ponds. Heavy clay and loam soils should not be shaken into tall heaps. Even if you compact it with a digger or a roller, you will not be able to stabilise the soil, because of its high water content.
 
-
-
 ## Test Areas
 
 The little gardens I tended as a child were my first test areas. Over the years my test areas grew larger. By experimenting I learnt a great deal about nature. Now my land measures around 45 hectares, which makes for a very large test area indeed.
 
 Plants that, according to the experts, should not be able to grow here can be cultivated on the Krameterhof regardless. If I had not tried, I never would have thought it possible. For instance, I can grow many varieties of kiwi, lemons and grapes in suntraps.
-
-
 
 ## High-Altitude Cereal Cultivation
 
@@ -37,8 +31,6 @@ I cultivate ancient cereals on old pasture at 1,500m above sea level. I sowed ei
 Many experts claim that Lungau is not suitable for growing cereal crops and that the higher areas are even less so. Despite this, barley, wheat, oats, rye and even flax and sunflowers ripen fully on our farm at 1,500m above sea level. However, this only works with old hardy varieties. These varieties, unlike the standard EU-approved seeds, can cope with the poorest soils and the most extreme temperatures. The nutritional value and content of the cereals I grow on my mountain pasture is far better than that of cereals grown as a monoculture.
 
 [[holzer-assessing-the-land]] | [[holzer-terrace-systems]] | [[holzer-raised-bed-design-principles]] | [[holzer-farming-philosophy]] | [[sepp-holzer-method]]
-
-
 
 ## Key Points
 
@@ -53,8 +45,6 @@ Many experts claim that Lungau is not suitable for growing cereal crops and that
 9. Fruit trees are managed without pruning, allowing them to develop natural forms suited to their environment.
 10. Crop diversity and polyculture systems provide resilience against weather extremes, pests, and disease.
 
-
-
 ## Practical Applications
 
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
@@ -65,8 +55,6 @@ Many experts claim that Lungau is not suitable for growing cereal crops and that
 - Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
-
-
 
 ## See Also
 - [[holzer-roundwood-shelters-earth-cellars]]

@@ -116,7 +116,7 @@ morphological features.
 
 - [[psilocybe-cyanescens]]
 - [[psilocybe-azurescens]]
-- [[psilocybe-aztecorum-entity]]
+- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
 - [[baeocystin]]
 - [[psilocybin]]
 

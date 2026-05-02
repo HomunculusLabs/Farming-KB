@@ -111,7 +111,7 @@ Establishment typically follows this sequence:
 
 ### How do I manage pests and diseases in a tropical food forest?
 
-Tropical food forests have a significant advantage over monocultures when it comes to pest management: biodiversity creates natural pest control through predator-prey relationships, trap cropping, and physical barriers. Key strategies include:
+Tropical food forests have a significant advantage over monocultures when it comes to pest management: biodiversity creates [[jeavons-natural-pest-control]] through predator-prey relationships, trap cropping, and physical barriers. Key strategies include:
 
 - **Maximize diversity.** A complex polyculture with dozens of species is far less susceptible to devastating pest outbreaks than a monoculture. Pests that specialize on one host plant struggle to find enough food in a diverse system.
 - **Attract beneficial insects.** Plant umbellifers (dill, fennel, cilantro in flower), composites (marigold, sunflower), and aromatic herbs (basil, mint) throughout the food forest to attract predatory wasps, ladybugs, lacewings, and other beneficial insects.

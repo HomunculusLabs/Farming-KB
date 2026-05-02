@@ -110,7 +110,7 @@ On the dry island of Hierro in the Canary Islands, a giant Til tree (Ocotea foet
 ## See Also
 
 - [[soil-erosion-control]]
-- [[permaculture-designers-manual-edge-effect-design]]
+- [[mollison-designers-edge-effect-design]]
 - [[permaculture-designers-manual-frost-protection]]
 - [[permaculture-designers-manual-rabbit-housing]]
 - [[permaculture-designers-manual-chicken-tractors]]

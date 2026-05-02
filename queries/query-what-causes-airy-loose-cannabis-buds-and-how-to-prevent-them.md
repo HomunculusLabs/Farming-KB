@@ -121,7 +121,6 @@ for bud
 density over multiple generations, and these lines consistently produce tight 
 colas.
 
-
 ## Key Points
 - Insufficient light intensity during flowering is the primary cause of [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - High temperatures (above 85 degrees Fahrenheit) and inadequate temperature differentials reduce density

@@ -99,5 +99,5 @@ Amanita muscaria, the fly agaric, is arguably the most iconic mushroom on Earth 
 - **Amanita pantherina** (panther cap) — Brown cap with white warts, more toxic, higher ibotenic acid.
 - **Amanita gemmata** — Yellow cap with white warts, similar size, potentially toxic.
 - **Amanita jacksonii** — North American species, orange-red cap, edible for some but risky identification.
-- **Amanita phalloides** (death cap) — DEADLY. White spore print, no warts, greenish cap.
+- **[[amanita-phalloides]]** (death cap) — DEADLY. White spore print, no warts, greenish cap.
 - **Amanita virosa** (destroying angel) — DEADLY. Pure white, most dangerous Amanita.

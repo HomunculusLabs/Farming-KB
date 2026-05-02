@@ -112,5 +112,5 @@ The site analysis phase involves reading existing patterns:
 Williams describes a process for applying pattern understanding:
 1. **Observe the pattern** in nature
 ## See Also
-- [[williams-pdc-pattern-understanding]]
+- [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 - [[pdc-pattern-understanding-in-design]]

@@ -124,7 +124,7 @@ Salvia is one of the most intense psychedelic experiences available by weight, a
 
 ## Related
 
-- [[salvia-divinorum-entity]]
+- [[salvia-divinorum]]
 - [[psychedelic-research-legal-history-united-states]]
 - [[psilocybin-toxicity-and-safety-profile]]
 - [[controlled-substances-act-and-psychedelic-research]]

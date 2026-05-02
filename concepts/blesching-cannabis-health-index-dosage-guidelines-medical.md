@@ -130,7 +130,7 @@ A San Diego study (2009) demonstrated critical dose dependency in pain reduction
 - [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
 - [[blesching-cannabis-improved-night-vision]]
 - [[blesching-cannabis-migraine]]
-- [[blesching-cannabis-insomnia]]
+- [[cannabis-and-insomnia]]
 - [[blesching-cannabis-stds-mind-body]]
 - [[blesching-cannabis-antiemetic-vomiting]]
 - [[blesching-cannabis-chronic-non-malignant-pain]]

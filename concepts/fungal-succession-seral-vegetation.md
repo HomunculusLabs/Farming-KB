@@ -17,7 +17,7 @@ driven by progressive alterations in the quantity, quality, and complexity of
 plant-derived resources entering the soil, and they have cascading effects on
 [[fungal-decomposition-nutrient-cycling]],
 [[fungal-contributions-soil-structure]], and
-[[fungal-diversity-ecosystem-function-mycorrhizal]].
+[[dighton-mycorrhizal-diversity-ecosystem-function]].
 
 ## Resource Quality Changes During Seral Succession
 
@@ -74,7 +74,7 @@ overlap.
 The increase in mycorrhizal diversity at canopy closure may be related to both the
 relative paucity of available nutrients and an increasing proportion of nutrients locked
 up in organic forms. Increased mycorrhizal diversity allows greater expression of
-[[fungal-diversity-ecosystem-function-mycorrhizal]] to utilize the mixed
+[[dighton-mycorrhizal-diversity-ecosystem-function]] to utilize the mixed
 available resources of inorganic and organic nutrients.
 
 During the succession of plants in glacial till, microbial communities change from

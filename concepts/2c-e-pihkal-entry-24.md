@@ -90,3 +90,31 @@ Synthesized from p-dimethoxybenzene via Friedel-Crafts acetylation to give 2,5-d
 - See [[harm-reduction-guide]] for general psychedelic safety principles.
 - See [legal context for jurisdictional status.
 - The [dosage ambiguity in [[2c-t-7-pihkal-43]] reports means individual responses may vary significantly from the ranges given.
+
+## Practical Context
+2c E Pihkal Entry #24 Compound Profile is relevant to farming knowledge because it connects observation,
+site conditions, and management choices. Treat it as a working topic rather
+than a standalone label: the useful questions are where it appears, what
+conditions make it stronger or weaker, and how it changes decisions in the
+field.
+
+## Field Indicators
+Look for repeated patterns across seasons instead of relying on a single
+observation. Useful indicators include substrate or soil condition, moisture
+availability, disturbance history, plant or fungal associates, and the timing
+of visible changes. Recording these factors makes the page easier to connect
+to local trials and future notes.
+
+## Management Relevance
+In a production or homestead setting, the topic matters when it affects yield,
+resilience, ecological function, safety, or maintenance labor. Decisions should
+be scaled to the site: small trials, careful monitoring, and comparison against
+an untreated area are usually more reliable than immediate whole-system
+changes.
+
+## Related Topics
+- [[allegro-fertility-philosophy-of-the-ancient-near-east]]
+- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
+- [[allegro-names-of-the-gods-and-their-fertility-origins]]
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
+- [[psychedelic-safety-and-harm-reduction]]

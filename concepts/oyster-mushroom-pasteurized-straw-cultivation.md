@@ -21,13 +21,13 @@ Straw is a "forgiving" substrate because it contains lower readily-available nit
 
 ## Straw Selection
 
-The best cereal straws for oyster mushroom cultivation:
+The best cereal straws for [[cotter-oyster-mushroom-cultivation]]:
 
 - **Wheat straw**: The most widely used. Contains 0.36% nitrogen, 30% hemicellulose, 41% cellulose, 15% lignin. Available at USD 0.10-0.20 per kg. C/N ratio of 104.
 - **Rye straw**: Excellent alternative with similar composition.
 - **Oat straw**: Suitable for all oyster species.
 - **Sorghum straw**: Good for warm-climate cultivation.
-- **Rice straw (paddy straw)**: Widely used in Asia. Can achieve 85% biological efficiency with P. sajor-caju.
+- **Rice straw (paddy straw)**: Widely used in Asia. Can achieve 85% [[biological-efficiency]] with P. sajor-caju.
 
 Avoid hay with abundant seed kernels, as grain contamination is common. Straw should be clean, dry, free of mold, and stored properly before use.
 

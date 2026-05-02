@@ -95,5 +95,5 @@ Today, scattered leguminous trees on range are known to supply sufficient nitrog
 - [[broadscale-permaculture-techniques-mollison]]
 - [[mollison-keyline-soil-conditioning-humid-water]]
 - [[permaculture-designers-manual-grazing-animals]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-small-animals]]

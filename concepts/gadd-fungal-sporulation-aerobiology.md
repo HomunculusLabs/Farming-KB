@@ -140,5 +140,5 @@ distributions and seasonal patterns of sporulation.
 - [[gadd-fungal-reproduction-spores]]
 - [[gadd-rice-blast-magnaporthe-grisea]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[gadd-fungal-environmental-sensing]]
+- [[fungal-environmental-sensing]]
 - [[gadd-colony-morphogenesis-hyphal-growth]]

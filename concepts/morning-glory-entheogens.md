@@ -26,7 +26,7 @@ and other Mesoamerican peoples recognized several species for their
 visionary properties. The practice persists today primarily among
 indigenous communities in Oaxaca, Mexico, where the seeds are used
 alongside other entheogens including [[teonanacatl-history]] (sacred
-mushrooms) and [[salvia-divinorum-entity]] (diviner's sage).
+mushrooms) and [[salvia-divinorum]] (diviner's sage).
 
 The morning glory entheogens are distinguished by their chemistry:
 they contain ergoline alkaloids identical to those produced by the

@@ -10,16 +10,12 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #32. 2,5-Dimethoxy-PEA.
 
-
-
 ## Dosage and Duration
 
 | Property | Value |
 |----------|-------|
 | Dosage | unknown. |
 | Duration | unknown. |
-
-
 
 ## Extensions and Commentary
 
@@ -40,8 +36,6 @@ this (presumably) inactive thing have evolved end products such as
 2C-B, 2C-I, 2C-C, and 2C-N. And in the future, many possible things
 as might come from a carbinol group, an amine function, or anything
 that can stem from a lithium atom.
-
-
 
 ## Synthesis
 
@@ -68,13 +62,9 @@ complete conversion of the aluminum salts to a loose, white,
 
 (Additional synthesis details available in source.)
 
-
-
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-
 
 ## See Also
 

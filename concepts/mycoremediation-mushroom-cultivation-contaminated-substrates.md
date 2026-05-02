@@ -33,7 +33,7 @@ SMS is the residual material after mushroom harvest and represents a large-volum
 
 - **Soil bioremediation**: SMS from Agaricus bisporus provides crude laccase activity for phenol oxidation. Fish oil is added to SMS and mixed with creosote-contaminated soil for bioaugmentation, achieving enhanced PAH removal.
 - **Compost bioreactors**: Composting with SMS can reduce extractable [[mycoremediation-of-petroleum-hydrocarbons]] by stimulating biodegradation or binding intermediates to organic matter. SMS-amended compost removed 45% of benzo[a]pyrene with Phanerochaete chrysosporium.
-- **Inoculum carrier**: Spent mushroom culture can be advantageous as fungal inoculum for [[comparison-phytoremediation-vs-mycoremediation]], as it contains viable mycelium that can withstand competition from native microflora and penetrate surrounding soil.
+- **Inoculum carrier**: Spent mushroom culture can be advantageous as fungal inoculum for [[comparison-phytoremediation-vs-mycoremediation-detail]], as it contains viable mycelium that can withstand competition from native microflora and penetrate surrounding soil.
 - **Organic fertilizer**: SMS provides high-quality compost containing nutrients (Tomati et al., 1996) and can be used as a soil conditioner.
 
 ## Integration with Bioremediation Processes

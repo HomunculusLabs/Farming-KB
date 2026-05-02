@@ -130,7 +130,6 @@ For growers focused on efficiency and total yield, starting fresh seeds or
 clones is usually
 more productive than waiting for a plant to recover from the revegging process.
 
-
 ## Key Points
 - Only photoperiod strains can be revegged; autoflowering-cannabis|autoflowers flower based on age and cannot be reverted
 - Leave 30 to 50 percent of the plant structure intact during harvest, then switch lights back to 18/6 or 24/0

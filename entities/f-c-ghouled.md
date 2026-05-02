@@ -79,7 +79,7 @@ Ghouled's guide was published approximately 14 years after R. Gordon Wasson's 19
 
 - [[paul-stamets]]: Author of the definitive modern guide to psilocybin mushrooms
 - [[psilocybe-cubensis]]: Primary species covered in Ghouled's guide
-- [[r-gordon-wasson]]: Ethnomycologist who popularized knowledge of psychoactive mushrooms
+- [[gordon-wasson]]: Ethnomycologist who popularized knowledge of psychoactive mushrooms
 - [[psilocybin-mushrooms-of-the-world-genus-overview]]: Stamets' comprehensive modern field guide
 - [[field-guide-psilocybin-mushroom-hunting-methodology]]: The original 1972 publication
 - [[panaeolus-cinctulus]]: Current name for the species Ghouled described as P. subbalteatus

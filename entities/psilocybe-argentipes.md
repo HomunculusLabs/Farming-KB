@@ -73,7 +73,7 @@ Asian forests.
 ## See Also
 - [[psilocybe-cyanescens]]
 - [[psilocybe-azurescens]]
-- [[psilocybe-caerulipes-entity]] the mushroom cultivator
+- [[psilocybe-caerulipes]] the mushroom cultivator
 - [[psilocybe-southeast-asia-pacific]]
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
 - [[psilocybe-southeast-asia-pacific]]

@@ -3,7 +3,8 @@ title: "How to Prevent and Treat Damping Off in Cannabis Seedlings"
 tags: [query, cannabis, seedlings, disease, prevention]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Prevent and Treat Damping Off in Cannabis Seedlings
@@ -130,7 +131,6 @@ drench provides ongoing protection throughout the seedling stage. [[ingham-field
 when used as a soil drench at planting time. These biological approaches are 
 more effective
 and sustainable than chemical fungicides for most home growers.
-
 
 ## Key Points
 - Damping off is caused by Pythium, Fusarium, and Rhizoctonia; prevention is far more effective than treatment

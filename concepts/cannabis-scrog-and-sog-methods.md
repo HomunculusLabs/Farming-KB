@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md"
 ---
 
 # Cannabis SCROG and SOG Methods

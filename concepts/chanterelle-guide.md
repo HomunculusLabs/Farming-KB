@@ -51,7 +51,7 @@ The most widely known and collected chanterelle:
 - Common in eastern North America
 - Good edible but less flavorful than C. cibarius
 ## Mycorrhizal Ecology
-All chanterelle species form ectomycorrhizal associations with trees:
+All chanterelle species form [[ectomycorrhizal-associations]] with trees:
 - They form a sheath around fine root tips of compatible host trees
 - Exchange soil minerals and water for photosynthetic sugars
 - Can form extensive mycelial networks connecting multiple trees

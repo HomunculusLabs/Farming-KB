@@ -113,4 +113,4 @@ If you do not have your own dairy animals:
 - [[root-crops-growing-guide]]
 - [[field-guide-psilocybin-dosage-extraction-cultivation]]
 - [[mason-jar-preserving-guide]]
-- [[hugelkultur-guide]]
+- [[hemenway-hugelkultur-guide]]

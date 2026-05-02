@@ -131,7 +131,7 @@ breeding for most practical purposes.
 ## See Also
 
 - [[vic-high-cannabis-genetics-mendelian-inheritance]]
-- [[cannabis-genetics-mendelian-breeding]]
+- [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
 - [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
 - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]

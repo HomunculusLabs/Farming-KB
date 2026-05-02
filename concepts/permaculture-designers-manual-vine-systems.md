@@ -110,6 +110,6 @@ Mollison notes a "wider market for relatively exotic vine crops, fruits, and nut
 - [[permaculture-designers-manual-arid-climates]] - Desert vine-over-garden technique
 - [[permaculture-designers-manual-cold-climates]] - Cold climate trellis design
 - [[permaculture-designers-manual-chicken-tractors]] - Chicken tractor with passionfruit trellis
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[permaculture-designers-manual-tropical-climates]]

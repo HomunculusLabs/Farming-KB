@@ -4,7 +4,10 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [community, fungi, mycology, mushrooms, education, culture, foraging, folklore]
-sources: []
+sources:
+  - "raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md"
+  - "raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md"
+  - "raw/papers/magic-mushrooms-around-the-world-gartz.md"
 ---
 
 ## Overview
@@ -112,7 +115,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Local clubs host regular forays, meefungal-biodiversitys
 - Membership benefits: newsletters, foray access, identification help
 - Many clubs maintain regional species databases and checklists
-- Volunteer citizen science programs for fungal biodiversity monitoring
+- Volunteer citizen science programs for [[fungal-biodiversity]] monitoring
 
 ### Joining a Club
 - Most clubs welcome beginners
@@ -134,7 +137,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Foray data contributes to cofungal-ecologyessments
 - Rare species records inform habitat protection decisions
 - Events promote sustainable foraging practices (see [[mushroom-foraging-safety-guide]])
-- Public education about fungal ecology and forest health
+- Public education about [[fungal-ecology]] and forest health
 - Advocacy for forest conservation and mycological research funding
 
 ### Cultural Traditions
@@ -145,6 +148,3 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Indigenous mushroom traditions shared at cultural events
 
 ## Online and Virtual Events
-
-### Digital Forays and Webinars
-- Post-2020 expansion of virtual mycological programming

@@ -92,7 +92,7 @@ Hurricane erosion and damage to plantations and coasts is a primary risk. Design
 - [[coastal-permaculture-design-mollison]] - Coastal permaculture design
 - [[permaculture-designers-manual-tropical-climates]] - Tropical climate systems
 - [[permaculture-designers-manual-pioneer-species]] - Pioneer species
-- [[permaculture-designers-manual-nitrogen-fixing-trees]] - Nitrogen-fixing trees
+- [[nitrogen-fixing-trees]] - Nitrogen-fixing trees
 - [[permaculture-designers-manual-windbreak-species]] - Windbreak species
 - [[permaculture-designers-manual-aquaculture-species]]
 - [[permaculture-designers-manual-pond-edge-planting]]

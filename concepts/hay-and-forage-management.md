@@ -143,12 +143,8 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - Plastic-wrapped baleage/bale silage: 40-60% moisture, anaerobic
   fermentation. Requires specialized wrapper and plastic. Excellent feed
   quality if properly sealed.
-
 ## Related
 
 - [[cover-crop-species-comparison]]
 - [[homesteading-livestock-comparison]]
-- [[pasture-management]]
-
-- [[livestock-fencing-guide]]
-- [[compost-building-guide]]
+- [[homesteading]]

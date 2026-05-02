@@ -4,7 +4,9 @@ created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/gottlieb-a-peyote-and-other-psychoactive-cacti.md"
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 # European Magic Mushroom Growkit Market
 

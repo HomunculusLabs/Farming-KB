@@ -13,19 +13,9 @@ sources:
 
 Andrew Weil, MD (b. 1942) is an American physician, author, and leading figure in integrative medicine. He wrote the forewords to both *Mycelium Running* (2005) and *Psilocybin Mushrooms of the World* (1996) by [[paul-stamets]], lending medical credibility to Stamets' work on fungal ecology and medicinal mushrooms.
 
-
-
-
-
-
 ## Early Career and Psychedelic Research
 
 Weil's early medical career included research on psychoactive substances. As a Harvard medical student in the 1960s, he conducted experiments with psychoactive mushrooms and other substances, and wrote about his experiences. His article "The Strange Case of the Harvard Drug Scandal" in *Look* magazine (1969) discussed the dismissal of [[timothy-leary]] and [[richard-alpert]] from Harvard. Weil himself experimented with psilocybin-containing mushrooms during his time in Mexico, an experience he documented in his early writing.
-
-
-
-
-
 
 ## Foreword to Mycelium Running (2005)
 
@@ -39,11 +29,6 @@ Weil's foreword to *Mycelium Running* articulates several key positions on funga
 
 **On Stamets:** "Paul Stamets has never been a conventional thinker. I have known him for 25 years, and during that time, I have been repeatedly impressed by his insights into the interdependence of human beings and nature, his enthusiasm for harnessing and directing biological energies toward higher purposes, and his talent for thinking in novel and inventive ways."
 
-
-
-
-
-
 ## Foreword to Psilocybin Mushrooms of the World (1996)
 
 Weil's foreword to Stamets' psilocybin field guide is particularly notable for its personal perspective:
@@ -54,19 +39,9 @@ Weil's foreword to Stamets' psilocybin field guide is particularly notable for i
 
 **On psilocybin's significance:** "Psilocybin mushrooms are an illustration of the interconnectedness of all life and consciousness in ways that are more wonderful than we suppose." He framed psilocybin mushrooms as sacred and significant: "The mushroom will be your teacher."
 
-
-
-
-
-
 ## Integrative Medicine
 
 Weil went on to found the field of integrative medicine, which combines conventional medical practices with alternative approaches including herbal medicine, nutrition, mind-body practices, and lifestyle modification. He established the Andrew Weil Center for Integrative Medicine at the University of Arizona. His endorsement of [[paul-stamets]]'s work on turkey tail mushrooms and immune function has been particularly influential in bringing [[medicinal-mushroom-guide]] research to mainstream medical attention.
-
-
-
-
-
 
 ## Key Works
 
@@ -74,11 +49,6 @@ Weil went on to found the field of integrative medicine, which combines conventi
 - *Spontaneous Healing* (1995) — On the body's innate healing capacity
 - *8 Weeks to Optimum Health* (1997) — Practical integrative health guide
 - Numerous books on nutrition, herbal medicine, and healthy aging
-
-
-
-
-
 
 ## Related
 

@@ -145,8 +145,3 @@ See also: [[fungal-bacterial-interactions]], [[mycorrhizal-helper-bacteria]], [[
 - [[mycorrhizal-crop-rotation-guide]]
 
 ### Biological Inputs
-
-## See Also
-
-- [[snow-mold-fungi-cold-temperature-plant-pathogens]]
-

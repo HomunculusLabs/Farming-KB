@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Hypholoma popperianum** is a [[psilocybin]]-containing mushroom species in the family
 Strophariaceae (or Hymenogastraceae under some modern classifications). It is one of
-six species of Hypholoma recognized among the 216 neurotropic fungi cataloged by Guzmán,
+six species of Hypholoma recognized among the 216 [[neurotropic-fungi]] cataloged by Guzmán,
 Allen, and Gartz (2000). Originally described in the genus Psilocybe, it was later
 transferred to Hypholoma based on taxonomic revisions reflecting its morphological
 affinities. The species is found in neotropical and subtropical regions and grows on

@@ -4,11 +4,12 @@ created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [seeds, gardening, comparison]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Seed Starting Methods Comparison
 
-The method used to start seeds affects transplant success, root health, cost, and the range of crops you can grow. This comparison covers six common seed starting approaches, from traditional indoor techniques to direct field sowing and season-extending strategies. For detailed seed starting procedures, see [[seed-starting-and-transplanting]]. Seed saving fundamentals are in [[home-garden-seed-saving]] and broader propagation methods in [[organic-propagation-methods]].
+The method used to start seeds affects transplant success, root health, cost, and the range of crops you can grow. This comparison covers six common seed starting approaches, from traditional indoor techniques to direct field sowing and season-extending strategies. For detailed seed starting procedures, see [[solomon-seed-starting-transplanting]]. Seed saving fundamentals are in [[home-garden-seed-saving]] and broader propagation methods in [[organic-propagation-methods]].
 
 ## Method Comparison Table
 
@@ -78,7 +79,7 @@ Newspaper folded into small pots using a wooden pot former or freehand. The pots
 
 ## Verdict
 
-For the healthiest transplants with the least root disturbance, soil blocks are the gold standard — they produce superior root systems and eliminate container costs, but require an upfront investment in a blocker tool and practice getting the mix right. For beginners, plastic cell trays offer the easiest entry point with predictable results. Peat or coir pots excel for crops that hate root disturbance (cucurbits, sunflowers). Direct sowing should always be used for root vegetables and large-seeded crops where possible. Winter sowing is an underutilized technique that provides free, hands-off seed starting for cold-hardy species. Paper pots are a worthy sustainable alternative for small-scale growers willing to invest the folding time. See [[seed-starting-and-transplanting]] for timing and technique details.
+For the healthiest transplants with the least root disturbance, soil blocks are the gold standard — they produce superior root systems and eliminate container costs, but require an upfront investment in a blocker tool and practice getting the mix right. For beginners, plastic cell trays offer the easiest entry point with predictable results. Peat or coir pots excel for crops that hate root disturbance (cucurbits, sunflowers). Direct sowing should always be used for root vegetables and large-seeded crops where possible. Winter sowing is an underutilized technique that provides free, hands-off seed starting for cold-hardy species. Paper pots are a worthy sustainable alternative for small-scale growers willing to invest the folding time. See [[solomon-seed-starting-transplanting]] for timing and technique details.
 
 ## Related
 

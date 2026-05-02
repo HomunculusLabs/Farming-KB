@@ -3,7 +3,8 @@ title: "What Is a Herb Spiral in Permaculture?"
 tags: [query, permaculture, herb-spiral, garden-design, microclimate]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Is a Herb Spiral in Permaculture?

@@ -116,7 +116,7 @@ Environmental factors including soil moisture, temperature, and organic matter c
 The transition between saprotrophic growth and predatory trap formation represents a remarkable example of phenotypic plasticity in response to environmental cues.
 
 ## See Also
-Related: [[gadd-nematode-trapping-fungi]], [[fungal-nematode-trapping]], [[nematode-trapping-fungi]]
+Related: [[nematode-trapping-fungi]], [[fungal-nematode-trapping]], [[nematode-trapping-fungi]]
 
 - [[mycopesticides-fungal-biocontrol]]
 

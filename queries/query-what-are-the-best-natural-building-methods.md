@@ -3,7 +3,8 @@ title: "What Are the Best Natural Building Methods?"
 tags: [query, natural-building, sustainable-construction, cob, straw-bale, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # What Are the Best Natural Building Methods?
@@ -47,7 +48,7 @@ The [[comparison-straw-bale-vs-adobe]] page compares two of the oldest earth-bui
 Adobe uses sun-dried earth bricks rather than monolithic wall construction, making it more modular and transportable.
 The [[natural-building-overview]] resource covers the full spectrum of earth-based building techniques.
 Both rammed earth and adobe offer excellent thermal mass and durability, often lasting centuries with minimal maintenance.
-The [[comparison-cob-vs-straw-bale-construction]] page helps builders navigate the choice between mass and insulation.
+The [[comparison-cob-construction-vs-straw-bale-construction]] page helps builders navigate the choice between mass and insulation.
 Earth buildings require minimal energy to manufacture since the primary material is literally under your feet.
 The embodied energy of a rammed earth wall is a fraction of that of a concrete or brick wall of equivalent size.
 These methods work best in climates with distinct heating and cooling cycles where thermal mass provides the most benefit.

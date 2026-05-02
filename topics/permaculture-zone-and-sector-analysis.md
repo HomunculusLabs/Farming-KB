@@ -395,7 +395,7 @@ destroyed by unaddressed sector forces.
 ## See Also
 
 - [[permaculture-design-principles]]
-- [[permaculture-zone-and-sector-analysis]]
+- permaculture zone and sector analysis
 - [[permaculture-zone-planning-detailed]]
 - [[mollison-zone-and-sector-analysis]]
 - [[holmgren-zones-and-sectors-design-framework]]

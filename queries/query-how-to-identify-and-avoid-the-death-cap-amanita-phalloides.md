@@ -55,7 +55,6 @@ Never eat any mushroom unless you are absolutely certain of its identification u
 If poisoning is suspected, immediate emergency medical attention is critical, as the antitoxin silibinin has shown effectiveness when administered early in the course of poisoning.
 There is no reliable antidote once liver failure has begun, making prevention through accurate identification the only truly effective strategy.
 
-
 The death cap has been spreading to new regions through the international trade of ornamental trees over the past century.
 It forms mycorrhizal associations with oak, beech, chestnut, pine, and several other tree species commonly planted in parks and gardens worldwide.
 This means the mushroom can appear in suburban yards, urban parks, and botanical gardens far from its native European range.

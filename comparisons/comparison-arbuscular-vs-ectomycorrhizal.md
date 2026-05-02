@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Arbuscular mycorrhizal fungi (AMF) and ectomycorrhizal fungi (ECM) represent
+Arbuscular mycorrhizal fungi (AMF) and [[ectomycorrhizal-fungi]] (ECM) represent
 the two dominant mycorrhizal symbioses on Earth. AMF (phylum Glomeromycota)
 associate with 80-90% of plant species including most crops, forming
 intracellular arbuscules within root cortical cells. ECM fungi (Basidiomycota

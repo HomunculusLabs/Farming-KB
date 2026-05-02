@@ -3,7 +3,8 @@ title: "How Do I Create a Permaculture Zone Plan for My Property"
 tags: [query, permaculture, land-design, zoning, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # How Do I Create a Permaculture Zone Plan for My Property

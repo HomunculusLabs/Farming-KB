@@ -64,7 +64,7 @@ shoot sticky spores (conidia) into the air. Other flies that land nearby or
 breathe in the spores become infected, continuing the cycle.
 
 The behavioral manipulation is precise: infected flies always die in elevated
-positions that maximize spore dispersal, and the wing-spreading posture increases
+positions that maximize [[spore-dispersal]], and the wing-spreading posture increases
 the surface area from which spores can be launched. The fungus effectively
 turns the fly into a platform for its own reproduction.
 
@@ -77,7 +77,7 @@ on the dead host, but their sexual (teleomorph) stages were discovered
 separately and classified in entirely different genera. This created enormous
 confusion:
 
-- **Beauveria bassiana** (asexual stage) produces white powdery conidia on
+- **[[beauveria-bassiana]]** (asexual stage) produces white powdery conidia on
   dead insects. Its teleomorph was later identified as Cordyceps bassiana.
   Beauveria is now widely used as a biological control agent against
   agricultural pests.

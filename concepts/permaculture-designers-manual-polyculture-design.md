@@ -51,7 +51,7 @@ While the fiscal return peaks at about 6-8 species in a system, the nutritional-
 If starting to evolve a permaculture on grasslands or compacted soils, the very first step is to thoroughly plan the site, and rip, swale, pit, or dam every area to be planted, ensuring maximum wet-season soil water storage to carry over to dry periods.
 
 On loosened soils and in mulched swales, plant a mix of:
-- Tree [[permaculture-designers-manual-nitrogen-fixing-trees]], fruits, bananas, papayas, arrowroot (Canna), cassava, sweet potato, and comfrey at 1-1.5 m spacing
+- Tree [[nitrogen-fixing-trees]], fruits, bananas, papayas, arrowroot (Canna), cassava, sweet potato, and comfrey at 1-1.5 m spacing
 - Acacia at 3 x 3 m spacing
 - Banana at 2 x 2 m
 - Fruits at 5 x 8 m
@@ -102,7 +102,7 @@ While a complex polyculture delights both the naturalist and the householder, it
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 - [[permaculture-designers-manual-food-forest-guilds]]
 - [[permaculture-designers-manual-plant-propagation]]
-- [[permaculture-designers-manual-nitrogen-fixing-trees]]
+- [[nitrogen-fixing-trees]]
 - [[permaculture-designers-manual-rabbit-housing]]
 - [[permaculture-designers-manual-mulch-systems]]
 - [[permaculture-designers-manual-pioneer-species]]

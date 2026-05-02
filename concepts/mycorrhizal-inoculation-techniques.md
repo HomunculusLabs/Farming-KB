@@ -111,7 +111,7 @@ After inoculation, monitor colonization through:
 - [[mycorrhizal-fungi]]
 - [[mycorrhizal-inoculation]]
 - [[aact-fungal-dominant-tea]]
-- [[soil-food-web-assessment-methods]]
+- [[ingham-soil-food-web-assessment-methods]]
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[humic-acids-soil-biology-ingham]]
 - [[ingham-cover-crops-soil-biology]]

@@ -128,7 +128,7 @@ Arthur's philosophical framework positions shamanism as the original and most au
 
 ## Critical Assessment
 
-Arthur's work is enthusiastic and wide-ranging but highly speculative. The linguistic claims rely heavily on Allegro's contested philology. However, the visual and symbolic parallels he documents are genuinely striking. The core observation — that psychoactive plants have been central to religious experience across cultures — is well-supported by mainstream ethnobotany and anthropology. The multi-plant Soma theory is a genuinely original contribution that deserves further investigation. See [[r-gordon-wasson]] for the academic foundation, [[terence-mckenna]] for the "Stoned Ape" theory, and [[andy-letcher]] for critical perspectives on ethnomycological claims.
+Arthur's work is enthusiastic and wide-ranging but highly speculative. The linguistic claims rely heavily on Allegro's contested philology. However, the visual and symbolic parallels he documents are genuinely striking. The core observation — that psychoactive plants have been central to religious experience across cultures — is well-supported by mainstream ethnobotany and anthropology. The multi-plant Soma theory is a genuinely original contribution that deserves further investigation. See [[gordon-wasson]] for the academic foundation, [[terence-mckenna]] for the "Stoned Ape" theory, and [[andy-letcher]] for critical perspectives on ethnomycological claims.
 
 ## See Also
 

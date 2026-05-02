@@ -3,7 +3,8 @@ title: "Humic Acid vs Fulvic Acid"
 tags: [comparison, soil-biology, organic-fertilizer, compost]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Humic Acid vs Fulvic Acid
 ## Overview

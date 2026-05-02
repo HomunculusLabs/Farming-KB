@@ -108,11 +108,11 @@ alkaloids. In 1958, Hofmann first synthesised psilocybin and psilocin.
 
 The team made further discoveries regarding other psychoactive plants
 employed by the curanderos, including Ololiuhqui (Morning Glory seeds)
-and [[salvia-divinorum-entity]].
+and [[salvia-divinorum]].
 
 ## Related
 
-- [[shroom-wasson-rediscovery]] -- Wasson's broader impact
+- [[wasson-rediscovery-of-psilocybin]] -- Wasson's broader impact
 - [[shroom-mazatec-tradition]] -- Maria Sabina and the Mazatec
   tradition
 - [[shroom-scientific-study]] -- Mycology and psilocybin science

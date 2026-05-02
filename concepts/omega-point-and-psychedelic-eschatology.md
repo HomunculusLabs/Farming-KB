@@ -4,7 +4,9 @@ created: 2026-04-17
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/leary-t-the-psychedelic-experience.md"
+  - "raw/papers/the-psilocybin-solution-by-simon-g-powell.md"
 ---
 
 # Omega Point and Psychedelic Eschatology

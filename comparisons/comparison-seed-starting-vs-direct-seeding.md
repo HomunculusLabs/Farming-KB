@@ -129,7 +129,7 @@ The most practical strategy for most home gardeners combines both methods:
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 
 - [[seed-starting-methods-comparison]]
-- [[seed-starting-and-transplanting]]
+- [[solomon-seed-starting-transplanting]]
 - [[seed-starting-indoors-solomon]]
 - [[seed-germination-techniques-solomon]]
 - [[transplanting-techniques-solomon]]

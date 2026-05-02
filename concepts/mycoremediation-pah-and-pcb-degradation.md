@@ -18,7 +18,7 @@ PAHs range from two-ring compounds (naphthalene) to five-ring compounds (benzo[a
 ### Degradation Mechanisms
 - **Laccase oxidation:** Laccases from Trametes, Pleurotus, and Coriolopsis species can oxidize low-molecular-weight PAHs (2-3 rings) directly. Higher-molecular-weight PAHs (4-5 rings) require mediator compounds
 - **Manganese peroxidase (MnP):** MnP generates Mn(III)-organic acid complexes that act as diffusible oxidants, capable of penetrating soil matrices and oxidizing PAHs adsorbed to organic matter
-- **Lignin peroxidase (LiP):** Phanerochaete chrysosporium produces LiP, which can directly oxidize non-phenolic aromatic compounds including high-molecular-weight PAHs
+- **Lignin peroxidase (LiP):** [[phanerochaete-chrysosporium]] produces LiP, which can directly oxidize non-phenolic aromatic compounds including high-molecular-weight PAHs
 - **Cytochrome P450:** Intracellular oxidation of PAHs that have crossed the cell membrane. Produces epoxides and trans-dihydrodiols as initial metabolites
 
 ### Factors Affecting PAH Degradation
@@ -60,7 +60,6 @@ Adding white-rot fungal inoculum to composting operations treating contaminated 
 - **Toxicity to fungi:** High concentrations of contaminants, particularly heavy metals and chlorinated compounds, can inhibit fungal growth and enzyme production
 - **Scale-up challenges:** Laboratory results often overestimate field performance due to mass transfer limitations, competition with native microorganisms, and variable environmental conditions
 - **Monitoring complexity:** Measuring fungal degradation versus simple sorption or volatilization requires sophisticated analytical methods (radiolabeled compounds, metabolite analysis)
-
 
 ## Fungal-Bacterial Synergy
 

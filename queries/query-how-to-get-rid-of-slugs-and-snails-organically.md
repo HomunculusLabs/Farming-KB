@@ -3,7 +3,8 @@ title: "How to Get Rid of Slugs and Snails Organically"
 tags: [query, organic-gardening, pest-control, slugs, snails]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # How to Get Rid of Slugs and Snails Organically
@@ -123,7 +124,6 @@ The
 to attract
 and support slug predators in your garden ecosystem for natural, ongoing pest 
 control.
-
 
 ## Key Points
 - Use beer traps, copper barriers, and diatomaceous earth as physical and mechanical controls
