@@ -18,13 +18,13 @@ sources:
 
 # Lactic Acid Bacteria (LAB) Serum vs. Compost Tea
 
-Both LAB serum and compost tea are popular biological amendments for soil and plant health, but they serve different purposes, contain very different microbial communities, and require different production methods. This page breaks down the key differences so you can choose the right tool — or use both strategically.
+Both LAB serum and compost tea are popular biological amendments for soil and [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]], but they serve different purposes, contain very different [[soil-edaphic-factors-microbial-communities]], and require different [[mycorrhizal-inoculant-production-methods]]. This page breaks down the key differences so you can choose the right tool — or use both strategically.
 
 ## What They Are and How They're Made
 
 ### LAB Serum (Korean Natural Farming)
 
-LAB serum is a concentrated liquid culture of lactic acid bacteria produced through a three-stage fermentation process rooted in Korean Natural Farming (KNF):
+LAB serum is a concentrated [[query-spore-syringes-vs-liquid-culture]] of lactic acid bacteria produced through a three-stage fermentation process rooted in Korean Natural Farming (KNF):
 
 1. **Rice wash**: Collect starchy water from washing raw rice. Cover loosely and leave 2–3 days at room temperature until a sweet, yeasty smell develops.
 2. **Milk fermentation**: Add milk at 1:10 ratio (rice wash to milk). Lactic acid bacteria consume lactose and produce lactic acid, dropping the pH. In 5–7 days the mixture separates: a solid curd floats up and a yellowish liquid — the **LAB serum** — settles below.
@@ -34,11 +34,11 @@ No aeration, heating, or specialized equipment is needed. The entire process use
 
 ### Compost Tea (Aerated)
 
-Compost tea (specifically **aerated compost tea**, or ACT) is a liquid extract brewed from high-quality, finished compost:
+Compost tea (specifically **[[actively-aerated-compost-tea]]**, or ACT) is a liquid extract brewed from high-quality, finished compost:
 
 1. **Compost selection**: Use biologically rich, mature compost — ideally vermicompost or thermal compost with good bacteria, fungi, and protozoa diversity.
 2. **Brewing**: Place compost in a mesh bag inside a vessel of dechlorinated water. Run an air pump with diffusers to maintain dissolved oxygen above 6 mg/L for 12–36 hours.
-3. **Food source**: Add microbial foods (molasses, kelp, fish hydrolysate, humic acids) to multiply populations during the brew.
+3. **Food source**: Add microbial foods (molasses, kelp, fish hydrolysate, [[humic-acids-soil-biology-ingham]]) to multiply populations during the brew.
 4. **Harvest**: Remove the compost bag and apply immediately.
 
 Aeration is critical — without it, anaerobic conditions produce bad biology and phytotoxic compounds.

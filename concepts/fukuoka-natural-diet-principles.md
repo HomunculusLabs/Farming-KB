@@ -85,3 +85,9 @@ The connection between soil health and human health is a recurring theme in Fuku
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[soil-food-web]]
+
+[[permaculture]]
+
+[[food-forest]]
+
+[[biointensive-diet-design]]

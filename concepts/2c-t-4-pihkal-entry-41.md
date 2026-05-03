@@ -140,3 +140,13 @@ Entry #41
 - [[qualitative-comments-methodology-pihkal]]
 - [[2c-family-compounds-overview]]
 - [[shulgin-rating-scale]]
+
+[[tryptamine]]
+
+[[2c-t-pihkal-entry-39]]
+
+[[2c-t-2-pihkal-entry-40]]
+
+[[phenethylamine-pharmacology]]
+
+[[2c-t-7-pihkal-43]]

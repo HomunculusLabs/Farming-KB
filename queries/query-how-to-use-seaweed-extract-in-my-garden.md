@@ -13,7 +13,7 @@ sources:
 
 ## Short Answer
 
-Dilute liquid seaweed extract (such as *Ascophyllum nodosum* concentrate) at 15–30 mL per liter of water for foliar sprays, or 20–40 mL per liter for soil drenches. Apply every 2–4 weeks during the growing season, spraying leaves in the early morning or evening. For kelp meal, mix 1–2 cups per cubic foot of soil or top-dress at 1 handful per plant every 4–6 weeks. Seaweed extract works as a biostimulant — it provides trace minerals, natural plant hormones (cytokinins, auxins), and compounds that feed beneficial soil microbes, improving growth, stress tolerance, and disease resistance beyond what NPK fertilizers alone can achieve.
+Dilute liquid seaweed extract (such as *Ascophyllum nodosum* concentrate) at 15–30 mL per liter of water for foliar sprays, or 20–40 mL per liter for soil drenches. Apply every 2–4 weeks during the [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], spraying leaves in the early morning or evening. For kelp meal, mix 1–2 cups per cubic foot of soil or top-dress at 1 handful per plant every 4–6 weeks. Seaweed extract works as a biostimulant — it provides [[dynamic-accumulator-plants-trace-minerals]], natural [[plant-hormones-and-chemical-signaling-systems]] (cytokinins, auxins), and compounds that feed beneficial [[ingham-natural-growth-regulators-soil-microbes]], improving growth, [[endophyte-mediated-plant-stress-tolerance]], and disease resistance beyond what NPK fertilizers alone can achieve.
 
 ## Detailed Explanation
 
@@ -25,7 +25,7 @@ The key active compounds in seaweed extract include:
 
 - **Cytokinins** — Plant hormones that promote cell division, delay leaf aging, improve fruit set, and enhance chlorophyll production. This is why seaweed-treated plants often look visibly greener within days of application
 - **Auxins** — Hormones that stimulate root growth and branching, making seaweed invaluable after transplanting or when rooting cuttings
-- **Alginates and laminarin** — Complex carbohydrates that improve soil structure, increase water-holding capacity, and trigger plant immune responses against pathogens
+- **Alginates and laminarin** — Complex carbohydrates that [[query-how-do-fungi-improve-soil-structure]], increase water-holding capacity, and trigger plant immune responses against pathogens
 - **60+ trace minerals** — Absorbed from seawater, including boron, zinc, manganese, iron, and molybdenum in chelated forms that plants absorb easily
 - **Mannitol and betaines** — Compounds that help plants cope with drought, heat, and salt stress
 

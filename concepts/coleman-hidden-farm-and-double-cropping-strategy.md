@@ -9,16 +9,16 @@ sources: []
 
 1|---
      2|title: The Hidden Farm and Double Cropping Strategy
-     3|tags: [winter-harvest, season-extension, double-cropping, eliot-coleman, cold-frames, succession-planting, protected-cultivation]
+     3|tags: [winter-harvest, [[solomon-row-covers-and-season-extension]], double-cropping, eliot-coleman, cold-frames, succession-planting, protected-cultivation]
      4|date: 2026-04-28
      5|updated: 2026-04-28
      6|sources:
-     7|  - eliot-coleman-winter-harvest-handbook.md
+     7|  - eliot-[[coleman-winter-harvest-washing-and-packing]]-handbook.md
      8|---
      9|
     10|# The Hidden Farm and Double Cropping Strategy
     11|
-    12|Eliot Coleman introduced the concept of the "hidden farm" to describe the
+    12|[[eliot-coleman]] introduced the concept of the "hidden farm" to describe the
     13|additional growing capacity that becomes available when growers learn to
     14|produce crops during the off-season months. By extending the harvest season
     15|into late autumn, winter, and early spring, a farmer can effectively double the
@@ -35,19 +35,19 @@ sources: []
     26|
     27|The economic implications are profound. Farmland is expensive, and the ability
     28|to generate revenue from the same acreage during months that were previously
-    29|dormant effectively halves the per-acre cost of land. For small-scale
+    29|dormant effectively halves the per-acre cost of land. For [[holmgren-gigantism-intermediate-technology-and-small-scale]]
     30|market farmers, this can be the difference between profitability and failure.
     31|
     32|Coleman notes that the hidden farm requires minimal additional investment
     33|compared to the cost of purchasing or leasing more land. The infrastructure
-    34|needed for winter harvesting, primarily low tunnels and cold frames, costs
+    34|needed for winter harvesting, primarily low tunnels and [[faires-season-extension-cold-frames]], costs
     35|a fraction of what new land would cost and can be installed on existing beds.
     36|
     37|## The Biology of Cold-Hardy Vegetables
     38|
     39|The key to the hidden farm is understanding that many vegetables are far more
     40|cold-tolerant than most people realize. Plants in the brassica family, along
-    41|with many root crops and alliums, can survive freezing temperatures and even
+    41|with many [[root-crops-growing-guide]] and alliums, can survive freezing temperatures and even
     42|continue photosynthesis on cold, sunny days.
     43|
     44|When temperatures drop below freezing, these plants convert some of their

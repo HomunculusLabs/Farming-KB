@@ -141,6 +141,6 @@ Common preparations and dosages:
 
 ## See Also
 
-- [[adaptogens]] — herbs that modulate the stress response
-- [[withanolides]] — steroidal lactone compounds
+- [[adaptogenic-herbs-overview]] — herbs that modulate the stress response
+- [[ashwagandha]] — steroidal lactone compounds
 - [[rhodiola-rosea]] — another well-studied adaptogenic herb

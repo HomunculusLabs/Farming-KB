@@ -126,6 +126,8 @@ Since pellet stoves require electricity, off-grid installations need a 12V batte
 - Excessive ash: Switch to premium pellets
 - Smoke in room: Clean vent, check for blockage
 - Stove won't ignite: Test igniter, replace if needed; check for wet pellets
-## Related Topics
+## Related
+
+- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]] Topics
 Pellet heating connects to broader off-grid energy systems. See [[charcoal-production-for-cooking]] for another wood fuel processing method. For whole-home heating design, consider integration with [[fungi-and-sustainability]] planning and [[swale-design-construction]] principles for an energy-efficient building envelope.
 - [[basic-electrical-for-homestead]]

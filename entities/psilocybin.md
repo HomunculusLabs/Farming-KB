@@ -189,5 +189,5 @@ Psilocybin has an exceptionally favorable safety profile for a psychoactive subs
 
 - [[psilocybe-cubensis]] — most commonly cultivated psilocybin mushroom
 - [[dmt]] — structurally related tryptamine compound
-- [[lysergic-acid-diethylamide]] — comparison of classical psychedelics
+- [[lsd-entity-tihkal]] — comparison of classical psychedelics
 - [[mescaline]] — comparison of naturally occurring psychedelics

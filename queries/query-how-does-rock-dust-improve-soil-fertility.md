@@ -19,7 +19,7 @@ sources:
 
 ## Short Answer
 
-Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly releases a broad spectrum of plant-essential minerals through natural weathering processes. It replenishes trace minerals depleted by decades of cropping, improves soil structure, supports microbial activity, and can moderate pH. Think of it as a long-term mineral investment rather than a quick-fix fertilizer.
+Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly releases a broad spectrum of plant-essential minerals through natural weathering processes. It replenishes [[dynamic-accumulator-plants-trace-minerals]] depleted by decades of cropping, improves [[biodiversity-of-fungi-biomass-carbon-soil-structure]], supports microbial activity, and can moderate pH. Think of it as a long-term mineral investment rather than a quick-fix fertilizer.
 
 ## What Minerals Do Rock Dusts Supply?
 
@@ -27,15 +27,15 @@ Rock dust — finely ground volcanic, sedimentary, or igneous rock — slowly re
 
 - **Calcium (Ca)** — Cell wall structure, root elongation, soil flocculation. Found in limestone, basalt, gypsum dust.
 - **Magnesium (Mg)** — Core of chlorophyll molecule, enzyme activation. Found in dolomite, basalt, olivine.
-- **Potassium (K)** — Water regulation, disease resistance, fruit quality. Found in granite, feldspathic rock dusts.
+- **Potassium (K)** — [[stomata-transpiration-and-plant-water-regulation]], disease resistance, fruit quality. Found in granite, feldspathic rock dusts.
 - **Phosphorus (P)** — Root development, flowering, energy transfer. Found in apatite-rich rock dusts (lower availability).
-- **Silicon (Si)** — Cell wall fortification, pest and disease resistance. Found in basalt, diatomaceous earth, zeolite.
+- **[[silicon]] (Si)** — Cell wall fortification, pest and disease resistance. Found in basalt, [[diatomaceous-earth-cannabis]], zeolite.
 
 ### Micronutrients and Trace Elements
 
 Rock dusts supply trace minerals that conventional NPK fertilizers typically ignore:
 
-- **Iron (Fe)** — Chlorophyll synthesis, electron transport in respiration
+- **Iron (Fe)** — Chlorophyll synthesis, [[electron-transport-chain-mitochondrial-respiration]] in respiration
 - **Manganese (Mn)** — Enzyme cofactor, nitrogen assimilation
 - **Zinc (Zn)** — Auxin production, carbohydrate metabolism
 - **Copper (Cu)** — Lignin synthesis, reproductive development

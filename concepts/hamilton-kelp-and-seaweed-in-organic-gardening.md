@@ -83,6 +83,8 @@ No other single organic material provides this range of benefits, which is why k
 
 ## See Also
 
+- [[query-how-to-use-seaweed-extract-in-my-garden]]
+
 - [[fertilizers-and-mycorrhizae]]
 - [[geoff-hamilton-organic-techniques]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]

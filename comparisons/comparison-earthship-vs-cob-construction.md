@@ -19,25 +19,25 @@ sources: []
 
 ## Overview
 
-Both earthships and cob buildings represent radical departures from conventional construction, relying on earth-based materials and massive thermal mass to create comfortable, sustainable homes. Yet they differ profoundly in their materials, construction methods, systems integration, and the philosophy behind them. An earthship is an integrated machine — a self-contained system for shelter, energy, water, and food. A cob building is a sculptural shelter — a handcrafted home made from the earth beneath your feet.
+Both earthships and cob buildings represent radical departures from conventional construction, relying on earth-based materials and massive [[comparison-windbreak-vs-thermal-mass]] to create comfortable, sustainable homes. Yet they differ profoundly in their materials, construction methods, [[pdc-animal-systems-integration]], and the philosophy behind them. An earthship is an integrated machine — a self-contained system for shelter, energy, water, and food. A cob building is a sculptural shelter — a handcrafted home made from the earth beneath your feet.
 
 
 
 ## Structural Materials
 
-**Earthship walls** are built from discarded automobile tires packed with rammed earth. Each tire holds roughly 300 pounds of compacted soil and functions as a massive thermal-mass brick. The walls are typically plastered over with cementitious or earthen finish. Interior partition walls often incorporate recycled cans and bottles set into mortar. The south-facing wall is glass — a full greenhouse façade.
+**Earthship walls** are built from discarded automobile tires packed with [[mollison-designers-earth-building-cob-adobe-rammed-earth]]. Each tire holds roughly 300 pounds of compacted soil and functions as a massive thermal-mass brick. The walls are typically plastered over with cementitious or earthen finish. Interior partition walls often incorporate recycled cans and bottles set into mortar. The south-facing wall is glass — a full greenhouse façade.
 
 **Cob walls** are monolithic structures made from a mixture of clay-rich subsoil, sand, and straw fibers, mixed by foot and applied in thick wet loaves by hand. The walls are sculpted and shaped as they are built, allowing for curved walls, built-in niches, furniture, and organic forms. Cob is finished with natural earthen or lime plasters.
 
-The key difference: earthships use industrial waste as their primary structural unit (tires), while cob uses minimally processed natural materials (subsoil, sand, straw). Cob is arguably the more ecologically pure material — it requires no manufactured inputs at all — while earthships solve a waste disposal problem by sequestering tires.
+The key difference: earthships use industrial waste as their primary structural unit (tires), while cob uses minimally processed [[building-with-natural-materials]] (subsoil, sand, straw). Cob is arguably the more ecologically pure material — it requires no manufactured inputs at all — while earthships solve a waste disposal problem by sequestering tires.
 
 
 
 ## Thermal Performance
 
-Both systems rely on thermal mass for temperature regulation, but they manage solar gain differently.
+Both systems rely on thermal mass for [[blesching-cannabis-fever-temperature-regulation]], but they manage solar gain differently.
 
-**Earthships** are oriented to maximize passive solar gain through the south-facing glass wall. The tire walls absorb and slowly release solar heat. The greenhouse buffer zone provides additional heat and growing space. This design performs best in climates with clear winter skies and significant diurnal temperature swings.
+**Earthships** are oriented to maximize [[passive-solar-design]] gain through the south-facing glass wall. The tire walls absorb and slowly release solar heat. The greenhouse buffer zone provides additional heat and growing space. This design performs best in climates with clear winter skies and significant diurnal temperature swings.
 
 **Cob buildings** can incorporate passive solar design but do not have a built-in greenhouse element by default. Cob walls have excellent thermal mass — a 24-inch cob wall stores substantial heat — but the building must be deliberately designed with proper orientation, glazing ratios, and overhangs to avoid summer overheating. Cob excels in climates where thermal mass benefits are realized through steady, slow heat transfer.
 

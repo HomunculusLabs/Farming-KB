@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Salvinorin A** (neoclerodane diterpene) is the principal psychoactive constituent of *Salvia divinorum*, a perennial herb in the mint family (Lamiaceae). It is the most potent naturally occurring psychedelic known, with active doses as low as 200–500 µg when vaporized. Salvinorin A is structurally and pharmacologically unique among classical psychedelics: it is a non-nitrogenous diterpene rather than a tryptamine or phenethylamine, and it produces its effects through selective agonism at the κ-opioid receptor (KOR) rather than the 5-HT₂A serotonin receptor. The compound was first isolated and characterized by Alfredo Ortega in 1982. *Salvia divinorum* is native to the Sierra Mazateca in Oaxaca, Mexico, where it has been used for centuries by Mazatec shamans in divinatory and healing rituals.
+**Salvinorin A** (neoclerodane diterpene) is the principal psychoactive constituent of *[[salvia-divinorum-profile]]*, a perennial herb in the mint family (Lamiaceae). It is the most potent naturally occurring psychedelic known, with active doses as low as 200–500 µg when vaporized. Salvinorin A is structurally and pharmacologically unique among classical psychedelics: it is a non-nitrogenous diterpene rather than a [[tryptamine]] or phenethylamine, and it produces its effects through selective agonism at the κ-opioid receptor (KOR) rather than the 5-HT₂A [[serotonin]] receptor. The compound was first isolated and characterized by Alfredo Ortega in 1982. *Salvia divinorum* is native to the Sierra Mazateca in Oaxaca, Mexico, where it has been used for centuries by Mazatec shamans in divinatory and healing rituals.
 
 ## Chemical Properties
 
@@ -35,7 +35,7 @@ sources:
 - **Solubility:** Lipophilic; soluble in acetone, ethanol, and chloroform; poorly soluble in water
 - **Melting Point:** 238–240°C
 - **Stability:** Stable at room temperature; sensitive to heat and light; degradation occurs at temperatures above ~240°C
-- **Chemical Class:** Neoclerodane trans-clerodane diterpene — one of the few non-nitrogenous psychedelics; lacks the indole or phenethylamine scaffold common to virtually all other classical psychedelics
+- **Chemical Class:** Neoclerodane trans-clerodane diterpene — one of the few non-nitrogenous psychedelics; lacks the [[indole]] or phenethylamine scaffold common to virtually all other classical psychedelics
 
 ## Pharmacology
 
@@ -46,7 +46,7 @@ Salvinorin A is a highly selective and potent agonist at the κ-opioid receptor 
 - **KOR agonism:** Ki ≈ 1–10 nM at KOR, making it one of the most potent known non-peptidic KOR agonists
 - **No 5-HT₂A activity:** Unlike all classical psychedelics, salvinorin A shows no meaningful affinity for serotonin 5-HT₂A, 5-HT₁A, 5-HT₂C, dopamine D₁/D₂, or µ/δ-opioid receptors
 - **Selectivity profile:** >1000-fold selectivity for KOR over µ-opioid and δ-opioid receptors; no affinity for monoamine transporters
-- **Signal transduction:** KOR activation leads to Gᵢ/Go protein-mediated inhibition of adenylyl cyclase, activation of MAPK/ERK pathways, and modulation of dopamine release in mesolimbic circuits
+- **[[fungal-environmental-sensing-signal-transduction]]:** KOR activation leads to Gᵢ/Go protein-mediated inhibition of adenylyl cyclase, activation of MAPK/ERK pathways, and modulation of dopamine release in mesolimbic circuits
 - **Downstream effects:** KOR agonism in the claustrum, prefrontal cortex, and ventral tegmental area is hypothesized to underlie the dissociative and visionary effects; the claustrum has been proposed as a key neural substrate for consciousness and salvinorin A's effects may arise from disruption of its integrative function
 
 ### Receptor Binding Data
@@ -75,7 +75,7 @@ Salvinorin A is a highly selective and potent agonist at the κ-opioid receptor 
 | Active metabolites | Salvinorin B (weaker, ~10× less potent) |
 | Elimination half-life | ~60–90 minutes |
 
-The extreme brevity of the smoked experience (5–15 min) is unusual for a psychedelic and is attributed to rapid metabolic deacetylation. Salvinorin A is poorly active orally due to extensive first-pass metabolism; traditional Mazatec use employs chewing of fresh leaves, allowing buccal absorption and bypassing hepatic degradation.
+The extreme brevity of the smoked experience (5–15 min) is unusual for a psychedelic and is attributed to rapid metabolic deacetylation. Salvinorin A is poorly active orally due to extensive first-[[first-pass-metabolism-and-oral-bioavailability]]; traditional Mazatec use employs chewing of fresh leaves, allowing buccal absorption and bypassing hepatic degradation.
 
 ## Natural Source
 

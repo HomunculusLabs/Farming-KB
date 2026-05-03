@@ -13,13 +13,13 @@ sources:
 
 ## Overview
 
-Fish hydrolysate and fish emulsion are both liquid organic fertilizers made from fish byproducts — heads, bones, viscera, and frames left over from fish processing operations. They share a common origin but differ fundamentally in their production methods, nutrient profiles, biological activity, and effects on soil health. The distinction between them is one of the most misunderstood topics in organic fertilization, and choosing the wrong product for a given application can mean the difference between thriving plants and stressed soil biology.
+Fish hydrolysate and fish emulsion are both liquid [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]] made from fish byproducts — heads, bones, viscera, and frames left over from fish processing operations. They share a common origin but differ fundamentally in their [[mycorrhizal-inoculant-production-methods]], nutrient profiles, biological activity, and effects on [[soil-health-management]]. The distinction between them is one of the most misunderstood topics in organic fertilization, and choosing the wrong product for a given application can mean the difference between thriving plants and stressed [[ingham-cover-crops-soil-biology]].
 
-The core difference comes down to processing. Fish emulsion is produced with heat, which denatures proteins and destroys enzymes, amino acids, and many vitamins. Fish hydrolysate is produced at low temperatures using enzymatic digestion, preserving the full spectrum of bioactive compounds. This single processing difference cascades into dramatically different outcomes in the soil and on the plant.
+The core difference comes down to processing. Fish emulsion is produced with heat, which denatures proteins and destroys enzymes, amino acids, and many vitamins. Fish hydrolysate is produced at low temperatures using enzymatic digestion, preserving the full spectrum of [[cordyceps-cancer-bioactive-compounds]]. This single processing difference cascades into dramatically different outcomes in the soil and on the plant.
 
 ## Fish Emulsion
 
-Fish emulsion is the older and more widely available of the two products. Production involves cooking fish waste at high temperature (90–120°C) to sterilize the material, then pressing or centrifuging to separate the solids (fish meal) from the liquid. The liquid phase is acidified with phosphoric or sulfuric acid to prevent further decomposition, which also lowers the pH to 3.5–4.5 and produces the characteristic strong, unpleasant odor. Some manufacturers add small amounts of synthetic urea or ammonium sulfate to boost the nitrogen content on the guaranteed analysis label.
+Fish emulsion is the older and more widely available of the two products. Production involves cooking fish waste at high temperature (90–120°C) to sterilize the material, then pressing or centrifuging to separate the solids (fish meal) from the liquid. The liquid phase is acidified with phosphoric or sulfuric acid to prevent further [[decomposition]], which also lowers the pH to 3.5–4.5 and produces the characteristic strong, unpleasant odor. Some manufacturers add small amounts of synthetic urea or ammonium sulfate to boost the nitrogen content on the guaranteed analysis label.
 
 **Typical analysis:** 4–5% N, 2–3% P, 2–3% K, with a portion of the nitrogen in the form of ammonium and urea from added synthetic sources.
 
@@ -122,6 +122,6 @@ Fish hydrolysate is the superior choice in virtually every scenario where soil h
 
 ## Combining with Other Inputs
 
-Fish hydrolysate pairs exceptionally well with [[seaweed-and-marine-macroalgae-in-agriculture|kelp extract]] in foliar applications — the amino acids in the hydrolysate chelate the micronutrients in the kelp, improving absorption, while the cytokinins in the kelp complement the auxin-like activity of the fish amino acids. This combination is sometimes called a "fish and kelp" program and is one of the most effective and economical biostimulant regimens in organic agriculture. See [[comparison-fish-aminos-vs-kelp-meal]] for detailed pairing recommendations.
+Fish hydrolysate pairs exceptionally well with [[hamilton-kelp-and-seaweed-in-organic-gardening]] in foliar applications — the amino acids in the hydrolysate chelate the micronutrients in the kelp, improving absorption, while the cytokinins in the kelp complement the auxin-like activity of the fish amino acids. This combination is sometimes called a "fish and kelp" program and is one of the most effective and economical biostimulant regimens in organic agriculture. See [[comparison-fish-aminos-vs-kelp-meal]] for detailed pairing recommendations.
 
 Fish hydrolysate should not be tank-mixed with high-pH products (like alkaline seaweed extracts at full strength) without a compatibility test, as the pH shift can cause amino acid precipitation. When combining fish hydrolysate and kelp in a foliar spray, dilute each separately to half strength, then combine.

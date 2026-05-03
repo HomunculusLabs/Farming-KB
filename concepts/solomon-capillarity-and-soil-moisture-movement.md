@@ -18,10 +18,10 @@ sources: []
      9|
     10|# Capillarity and Soil Moisture Movement
     11|
-    12|Steve Solomon devotes considerable attention in *Gardening When It Counts* to the
+    12|[[steve-solomon]] devotes considerable attention in *Gardening When It Counts* to the
     13|mechanics of how water moves through soil, arguing that most gardeners fail to
     14|understand these fundamental physical processes. The result is overwatering,
-    15|improper bed preparation, and crops that underperform because their root zones
+    15|improper [[solomon-raised-beds-and-bed-preparation]], and crops that underperform because their root zones
     16|are either waterlogged or parched despite frequent irrigation.
     17|
     18|## The Physics of Capillary Rise
@@ -56,7 +56,7 @@ sources: []
     47|depends on soil texture: it may extend several feet in clay but only a few
     48|inches in coarse sand.
     49|
-    50|Plant roots draw moisture primarily from the capillary fringe and the moist
+    50|[[bacterial-endophyte-isolation-detection-plant-roots]] draw moisture primarily from the capillary fringe and the moist
     51|soil above it. When a gardener waters, the water percolates downward through
     52|gravity until it reaches the existing moisture level, then spreads laterally
     53|through capillary action.
@@ -85,12 +85,12 @@ sources: []
     76|false sense of security for the gardener who believes the mulch is conserving
     77|moisture.
     78|
-    79|He notes that thin mulches used primarily for weed suppression are less
-    80|problematic than thick blankets of organic matter. The key is maintaining enough
+    79|He notes that thin mulches used primarily for [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] are less
+    80|problematic than thick blankets of [[solomon-compost-organic-matter]]. The key is maintaining enough
     81|capillary connection between the soil and the atmosphere to allow the natural
     82|upward flow of moisture to continue.
     83|
-    84|## Soil Structure and Moisture Availability
+    84|## [[biodiversity-of-fungi-biomass-carbon-soil-structure]] and Moisture Availability
     85|
     86|The availability of soil moisture to plants depends not just on how much water
     87|is present but on how tightly it is held. Water in large pores is loosely held

@@ -19,8 +19,8 @@ The effect is important because supply chains depend on forecasts, inventories, 
 When these elements are poorly aligned, organizations overreact to noisy demand signals.
 The result can be excess inventory, stockouts, rush orders, idle capacity, and unstable production schedules.
 The bullwhip effect is not limited to consumer goods.
-It appears in industrial equipment, pharmaceuticals, food systems, energy markets, and digital infrastructure procurement.
-It is a core concept in operations management, [[savory-complexity-and-wholistic-thinking|systems thinking]], and supply chain management.
+It appears in industrial equipment, pharmaceuticals, [[mollison-town-permaculture-urban-food-systems]], energy markets, and digital infrastructure procurement.
+It is a core concept in operations management, [[savory-complexity-and-wholistic-thinking]], and supply chain management.
 ## Key Aspects
 
 The bullwhip effect begins with demand variability.
@@ -134,7 +134,7 @@ It is a dynamic system with memory, feedback, expectations, and power relationsh
 ## Related Concepts
 supply chain management
 operations management
-[[savory-complexity-and-wholistic-thinking|systems thinking]]
+[[savory-complexity-and-wholistic-thinking]]
 feedback loops
 inventory management
 just in time manufacturing

@@ -15,15 +15,15 @@ sources:
 
 # Sacred Gasteromycetes and Non-Psilocybin Psychoactive Fungi
 
-Beyond the well-known psilocybin-containing Agaricales, the Guzmán, Allen, and Gartz (2000) worldwide survey documented several groups of fungi that are considered sacred or psychoactive by indigenous peoples but either lack confirmed chemical analysis or contain entirely different classes of psychoactive compounds. These include gasteromycetes (puffballs), boletes, and other groups that fall into their Group 4 classification of "sacred fungi without chemical studies."
+Beyond the well-known [[psilocybin-containing-mushrooms-in-us]] Agaricales, the Guzmán, Allen, and Gartz (2000) worldwide survey documented several groups of fungi that are considered sacred or psychoactive by indigenous peoples but either lack confirmed [[chemical-analysis-psilocybin-mushrooms]] or contain entirely different classes of psychoactive compounds. These include gasteromycetes (puffballs), boletes, and other groups that fall into their Group 4 classification of "[[sacred-fungi-groups-world]] without chemical studies."
 
 ## The Mixtec Narcotic Puffballs
 
 One of the most intriguing entries in the Guzmán, Allen, and Gartz survey concerns the use of puffballs by the Mixtec Indians of Oaxaca, Mexico. The authors noted that certain gasteromycetes were used as narcotic fungi by the Mixtec, although the specific species involved had not been definitively identified or chemically analyzed at the time of their publication.
 
-The use of puffballs in indigenous ceremonies is documented in the Codex Vindobonensis, a Mixtec pre-Columbian manuscript that depicts scenes of mushroom worship including figures associated with gasteromycete-like forms. Lowy (1972) also discussed puffball symbolism in Maya codices, and Burck (1983) documented puffball usages among North American Indians more broadly.
+The use of puffballs in indigenous ceremonies is documented in the Codex Vindobonensis, a Mixtec [[pre-columbian-mushroom-use]] manuscript that depicts scenes of mushroom worship including figures associated with gasteromycete-like forms. Lowy (1972) also discussed puffball symbolism in Maya codices, and Burck (1983) documented puffball usages among North [[yage-common-themes-south-american-indians]] more broadly.
 
-The Mixtec puffball tradition is particularly significant because it suggests that the concept of sacred fungi in Mesoamerican cultures was not limited to the gilled mushrooms of the genus Psilocybe. The diversity of fungal forms used in ritual contexts may have been much broader than is currently appreciated, with puffballs, earthstars, and other gasteromycete forms playing roles that have been largely overlooked by modern researchers focused on psilocybin-containing species.
+The Mixtec puffball tradition is particularly significant because it suggests that the concept of sacred fungi in Mesoamerican cultures was not limited to the gilled mushrooms of the genus Psilocybe. The diversity of fungal forms used in ritual contexts may have been much broader than is currently appreciated, with puffballs, earthstars, and other gasteromycete forms playing roles that have been largely overlooked by modern researchers focused on psilocybin-[[golden-guide-hallucinogenic-plants-dmt-containing-species]].
 
 ## Dictyophora Indusiata
 

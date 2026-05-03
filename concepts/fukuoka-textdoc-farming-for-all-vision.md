@@ -32,7 +32,7 @@ pachinko parlor, and mah-jongg, or seek temporary solace through drinking and se
 People no longer tread over the bare earth. Their hands have drawn away from the grasses and
 flowers, they do not gaze up into the heavens, their ears are deaf to the songs of the birds,
 their noses are rendered insensitive by exhaust fumes, and their tongues have forgotten the
-simple tastes of nature. All five senses have grown isolated from nature. People have become
+simple tastes of nature. All five senses have grown isolated [[fukuoka-learning-about-nature-distances-one-from-nature]]. People have become
 two or three steps removed from true man in the same way that someone riding in his car over
 asphalt-paved roads is two or three steps removed from the bare earth.
 
@@ -89,7 +89,7 @@ itself and the goal absurdly easy to attain.
 Japan has about 15 million acres of farming land, which works out to about a quarter-acre per
 adult. If Japan's land were divided evenly among 20 million households, this would give each
 household three quarters of an acre of farmland plus two and a half acres of mountain and
-meadow land. With total reliance on natural farming, all it takes to support a household of
+meadow land. With total reliance on [[natural-farming-poster-input-free-farming]], all it takes to support a household of
 several people is a quarter-acre. On this amount of land, one could build a small house, grow
 grains and vegetables, raise a goat, and even keep several chickens and a hive of bees.
 
@@ -97,7 +97,7 @@ People, feeling shackled by laws and stratospheric land prices, view the possibi
 ownership as hopeless, but there is plenty of land to be had. The mountains, forests, and
 other wilderness land that accounts for about eighty percent of Japan's land area is tied up
 by titles and laws that prevent its practical use. Even a small portion of this area freed for
-use as agricultural land would allow homesteading to begin immediately.
+use as agricultural land would allow [[homesteading]] to begin immediately.
 
 ## Running a Farm: The Economics of Nothing
 
@@ -106,8 +106,8 @@ to support them. They were the victims of outside forces: an oppressive social s
 political and economic mechanisms beyond their control. A quarter-acre of land is enough to
 supply the food needed for supporting a family. If anything, a full acre is too large.
 
-Farmers at the time were said to grow a hundred crops. In the paddy field and vegetable
-gardens, they raised rice, barley, and other grains, as well as sweet potato and many
+Farmers at the time were said to grow a hundred crops. In the [[cho-imo-collection-bamboo-stump-and-paddy-field]] and vegetable
+gardens, they raised rice, barley, and other grains, as well as [[sweet-potato-guide]] and many
 different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by
 a shelterbelt. A cow was kept under the same roof and chickens ran about loose in the
 farmyard, protected by a dog. A beehive hung from the eaves. All peasants were totally
@@ -124,7 +124,7 @@ God.
 
 When Fukuoka says that crops do not need to be priced, he means that whether they have prices
 or not makes no difference to the farmer who dedicates himself to natural farming. Because he
-has no use for various chemical-based farming materials and does not reckon household labor
+has no use for various chemical-[[fukuoka-observation-based-farming]] materials and does not reckon household labor
 into his expenses, his production costs are zero. If all the farmers of the world thought
 along these lines, crop prices everywhere would settle to the same level and would no longer
 be needed. Prices are a man-made device; they do not exist in nature.

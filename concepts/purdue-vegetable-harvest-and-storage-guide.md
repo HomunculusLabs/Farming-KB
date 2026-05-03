@@ -15,7 +15,7 @@ sources:
 
 # Purdue Vegetable Harvest and Storage Guide
 
-A comprehensive guide to harvesting vegetables at the right stage and storing them under optimal conditions, organized by storage temperature and humidity category. Based on Purdue University Cooperative Extension Service recommendations (HO-32-W).
+A [[allen-australian-psilocybe-species-comprehensive-guide]] to harvesting vegetables at the right stage and storing them under optimal conditions, organized by storage [[vegetable-storage-conditions-by-temperature-and-humidity]] category. Based on Purdue University Cooperative Extension Service recommendations (HO-32-W).
 
 ## Storage Categories Overview
 
@@ -81,7 +81,7 @@ Vegetables are grouped into four storage categories based on their temperature a
 
 **Eggplant:** Harvest when fruits are nearly full grown but color is still bright. Not adapted to long storage — keep in warmer part of refrigerator for about 1 week.
 
-**Peppers, Sweet:** Harvest when fruits are firm and full size. Leave on plant for red color if desired. Store 2 to 3 weeks in the warmer part of the refrigerator in plastic bags. Cool cellar storage also possible.
+**Peppers, Sweet:** Harvest when fruits are firm and full size. Leave on plant for red color if desired. Store 2 to 3 weeks in the warmer part of the refrigerator in plastic bags. Cool [[mollison-designers-cold-caves-root-cellar-storage]] also possible.
 
 **Tomatoes:** Ripe tomatoes keep about 1 week refrigerated or at 45-50 degrees F. Green mature tomatoes (normal size, whitish-green skin) stored at 55-70 degrees F. Wrap each individually in newspaper and inspect weekly for ripeness — mature green tomatoes last 3 to 5 weeks this way.
 
@@ -95,7 +95,7 @@ Vegetables are grouped into four storage categories based on their temperature a
 
 ## Warm, Dry Storage (55-60 degrees F, 60-70% RH)
 
-**Pumpkins and Winter Squash:** Harvest before frost when skin is hard and colors darken. Remove from vine with a portion of stem attached. Store on shelves in single layers so air can circulate around them. Properly cured squash can store for several months.
+**Pumpkins and [[winter-squash-guide]]:** Harvest before frost when skin is hard and colors darken. Remove from vine with a portion of stem attached. Store on shelves in single layers so air can circulate around them. Properly cured squash can store for several months.
 
 ## Warm, Moist Storage (55-60 degrees F, 80-85% RH)
 

@@ -19,7 +19,7 @@ sources:
 
 # Amanita muscaria
 
-**Amanita muscaria**, commonly known as the **fly agaric**, is one of the most recognizable mushrooms in the world. With its bright red cap dotted with white warts, it has become an icon of mycology, fairy tales, and psychedelic culture. The species belongs to the family *Amanitaceae* and is native to temperate and boreal forests across the Northern Hemisphere, where it forms mycorrhizal associations with both deciduous and coniferous trees.
+**Amanita muscaria**, commonly known as the **[[fly-agaric-ethnobotany]]**, is one of the most recognizable mushrooms in the world. With its bright red cap dotted with white warts, it has become an icon of [[mycology]], fairy tales, and psychedelic culture. The species belongs to the family *Amanitaceae* and is native to temperate and [[biodiversity-fungi-temperate-boreal-forests]] across the Northern Hemisphere, where it forms [[plants-without-mycorrhizal-associations]] with both deciduous and coniferous trees.
 
 ## Taxonomy and Classification
 
@@ -37,12 +37,12 @@ The species was first described by Carl Linnaeus in 1753 in his *Species Plantar
 
 ## Morphology
 
-The fruiting body of *Amanita muscaria* is striking and unmistakable when mature:
+The [[fruiting-body-development]] of *Amanita muscaria* is striking and unmistakable when mature:
 
 - **Cap**: 8–20 cm diameter, initially hemispherical, becoming convex to flat with age. Bright red to orange-red, covered with white to pale yellow warts (remnants of the universal veil). The warts are easily washed off by rain.
 - **Gills**: Free, crowded, white to cream-colored.
 - **Stipe**: 5–20 cm tall, 1–3 cm thick, white, with a bulbous base. Features a prominent skirt-like annulus (ring) and a cup-like volva at the base.
-- **Spores**: White spore print, ellipsoid to broadly ellipsoid, 8–12 × 6–9 µm.
+- **Spores**: White [[spore-print-collection]], ellipsoid to broadly ellipsoid, 8–12 × 6–9 µm.
 - **Flesh**: White, firm, with a mild odor and taste.
 
 Color varieties exist across geographic regions: the typical red *A. muscaria* var. *muscaria* (Europe), the orange-yellow *A. muscaria* var. *formosa* (North America), and the white to pale yellow *A. muscaria* var. *alba* (rare).
@@ -100,5 +100,5 @@ Cultivation of *Amanita muscaria* is considerably more difficult than that of sa
 ## See Also
 
 - [[psilocybin]] — Tryptamine-based psychedelic found in *Psilocybe* mushrooms
-- [[lion-s-mane]] — Medicinal mushroom for cognitive support
-- [[herbal-plants]] — Index of ethnobotanical species
+- [[hericium-erinaceus]] — Medicinal mushroom for cognitive support
+- herbal plants — Index of ethnobotanical species

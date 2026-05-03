@@ -74,6 +74,9 @@ The ECS explains why cannabis treats such a wide variety of conditions — it is
 
 ## Related
 
+- [[blue-dream-cannabis]]
+- [[granddaddy-purple]]
+
 - [[white-widow]]
 
 - [[win55212-2]]

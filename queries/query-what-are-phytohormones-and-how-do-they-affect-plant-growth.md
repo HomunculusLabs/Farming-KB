@@ -23,9 +23,9 @@ sources:
 
 ## Quick Answer
 
-Phytohormones (plant hormones) are naturally occurring organic compounds that regulate plant growth, development, and responses to environmental stimuli. Unlike animal hormones, which are produced in specific glands and transported through the bloodstream, phytohormones are produced in many plant tissues and can act locally or be transported through the phloem, xylem, or even cell-to-cell diffusion. Even trace concentrations (nanomolar to micromolar) trigger significant physiological responses.
+Phytohormones ([[plant-hormones-and-chemical-signaling-systems]]) are naturally occurring organic compounds that regulate plant growth, development, and responses to environmental stimuli. Unlike animal hormones, which are produced in specific glands and transported through the bloodstream, phytohormones are produced in many plant tissues and can act locally or be transported through the phloem, xylem, or even cell-to-cell diffusion. Even trace concentrations (nanomolar to micromolar) trigger significant physiological responses.
 
-There are five classical phytohormone classes — **auxins, gibberellins, cytokinins, ethylene, and abscisic acid** — along with newer recognized classes including **brassinosteroids, jasmonates, salicylates, strigolactones, and nitric oxide**. Understanding these compounds helps growers manipulate plant architecture, flowering, fruiting, rooting, and stress responses.
+There are five classical phytohormone classes — **auxins, gibberellins, cytokinins, ethylene, and abscisic acid** — along with newer recognized classes including **brassinosteroids, jasmonates, salicylates, strigolactones, and nitric oxide**. Understanding these compounds helps growers manipulate [[cannabis-sativa-morphology-and-plant-architecture]], flowering, fruiting, rooting, and [[lichen-poikilohydry-and-drought-stress-responses]].
 
 ---
 
@@ -35,8 +35,8 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 
 **Primary roles:**
 
-- **Cell elongation:** Auxin stimulates cells in the shoot apex to elongate, driving upward growth (phototropism and gravitropism)
-- **Apical dominance:** The auxin-rich apical bud suppresses lateral bud growth — this is why pinching the growing tip (topping cannabis, pruning tomatoes) causes lateral branching
+- **Cell elongation:** Auxin stimulates cells in the shoot apex to elongate, driving upward growth (phototropism and [[gravitropism]])
+- **Apical dominance:** The auxin-rich apical bud suppresses lateral bud growth — this is why pinching the growing tip ([[topping-cannabis]], pruning tomatoes) causes lateral branching
 - **Root initiation:** Synthetic auxins (IBA, NAA) are the active ingredients in rooting powders and gels used for cuttings
 - **Fruit development:** Auxin promotes fruit set and prevents premature fruit drop
 - **Vascular differentiation:** Auxin directs the formation of xylem and phloem tissue
@@ -57,7 +57,7 @@ There are five classical phytohormone classes — **auxins, gibberellins, cytoki
 **Primary roles:**
 
 - **Stem elongation:** Gibberellins dramatically increase internode length — dwarf varieties of many crops are GA-deficient mutants
-- **Seed germination:** Gibberellins produced by the embryo signal the seed to break dormancy and begin germination by stimulating enzymes that break down stored starches
+- **[[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]:** Gibberellins produced by the embryo signal the seed to break dormancy and begin germination by stimulating enzymes that break down stored starches
 - **Bolting and flowering:** GAs trigger the transition from vegetative to reproductive growth in long-day plants and biennials
 - **Fruit development:** Applied to seedless grapes to increase berry size; used in malting barley to promote uniform germination
 

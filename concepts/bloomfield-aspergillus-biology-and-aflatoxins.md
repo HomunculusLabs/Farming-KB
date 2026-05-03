@@ -133,5 +133,7 @@ distribution of these remarkable fungi.
 
 ## See Also
 
+- [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]
+
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[aflatoxins-mycotoxins-food]]

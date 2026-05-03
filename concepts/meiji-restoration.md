@@ -16,7 +16,7 @@ It was a revolutionary modernization project framed through imperial legitimacy.
 Japan rapidly restructured its government, military, economy, education system, and foreign policy.
 The changes helped transform Japan from a decentralized feudal polity into a centralized nation-state.
 The period also reshaped class relations, religion, identity, and everyday life.
-It stands as one of the most consequential state-building projects of the nineteenth century.
+It stands as one of the most consequential state-building projects of the [[nineteenth-century-mushroom-identification]].
 The Meiji Restoration is related to japanese history, modernization, and imperialism.
 
 ## Key Aspects
@@ -94,7 +94,7 @@ Victories in the Sino-Japanese War and Russo-Japanese War expanded its regional 
 These successes also intensified Japanese imperial ambitions.
 
 ## Applications and Significance
-The Meiji Restoration is a key gaias garden flowering in rapid state-led modernization.
+The Meiji Restoration is a key [[gaias-garden-flowering-tree-desert-restoration-case-study]] in rapid state-led modernization.
 It shows how elites can use tradition to legitimize radical institutional change.
 Imperial symbolism provided continuity while policy transformed society.
 The Restoration helped Japan avoid formal colonization by Western powers.
@@ -115,8 +115,8 @@ It was conservative in its imperial language but revolutionary in institutional 
 It was nationalist, selective, pragmatic, and deeply contested.
 For political science, it offers a model of bureaucratic state formation.
 For economic history, it illustrates links among land taxation, infrastructure, education, and industry.
-For cultural history, it reveals how clothing, calendars, architecture, and language became sites of modernization.
-For legal history, it marks Japan's transition toward codified law and constitutional monarchy.
+For [[amanita-muscaria-cultural-history]], it reveals how clothing, calendars, architecture, and language became sites of modernization.
+For [[psilocybin-mushroom-legal-history]], it marks Japan's transition toward codified law and constitutional monarchy.
 For global history, it belongs to the age of empire, industrial capitalism, and unequal treaties.
 Its significance lies in both Japan's internal transformation and its changing place in the world.
 

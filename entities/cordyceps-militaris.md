@@ -135,6 +135,6 @@ Active areas of investigation include:
 ## See Also
 
 - [[Ophiocordyceps-sinensis]] — the high-altitude caterpillar fungus
-- [[entomopathogenic-fungi]] — fungi that parasitize insects
+- [[cordyceps-and-entomopathogenic-fungi]] — fungi that parasitize insects
 - [[medicinal-mushrooms]] — overview of therapeutic fungal species
-- [[cordycepin]] — the primary bioactive nucleoside
+- [[cordyceps-cancer-bioactive-compounds]] — the primary bioactive nucleoside

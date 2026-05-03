@@ -118,3 +118,7 @@ research might be especially promising. These powerful plants that
 change our relationship to sexuality and our view of self and world
 are the special province of peoples whom the modern world is
 accustomed to thinking of as primitive.
+
+## See Also
+
+- [[mckenna-world-made-of-language]]

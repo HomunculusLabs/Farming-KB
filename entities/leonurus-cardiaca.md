@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/nutrient-and-dynamic-accumulators.md]
 
 ## Overview
 
-Leonurus cardiaca, commonly known as motherwort, is a perennial herbaceous plant in the mint family (Lamiaceae) with a long and distinguished history of use in traditional European, Chinese, and North American herbal medicine. Its genus name, derived from the Greek "leon" (lion) and "oura" (tail), refers to the distinctive shape of its leaves, which resemble a lion's tail. The species epithet "cardiaca" reflects its traditional reputation as a cardiotonic — a remedy for the heart. Motherwort has been used for centuries as a remedy for female reproductive disorders (hence the common name "motherwort"), as a calming nervine for anxiety and palpitations, and as a general tonic for cardiovascular health. Modern pharmacological research has identified several bioactive compounds, including leonurine and stachydrine, that validate many of its traditional uses, particularly its cardioprotective, uterotonic, anxiolytic, and anti-inflammatory properties.
+Leonurus cardiaca, commonly known as motherwort, is a perennial herbaceous plant in the mint family (Lamiaceae) with a long and distinguished history of use in traditional European, Chinese, and North American [[herbal-medicine-making-basics]]. Its genus name, derived from the Greek "leon" (lion) and "oura" (tail), refers to the distinctive shape of its leaves, which resemble a lion's tail. The species epithet "cardiaca" reflects its traditional reputation as a cardiotonic — a remedy for the heart. Motherwort has been used for centuries as a remedy for female reproductive disorders (hence the common name "motherwort"), as a calming nervine for anxiety and palpitations, and as a general tonic for [[blesching-cannabis-cardiovascular-health]]. Modern pharmacological research has identified several [[cordyceps-cancer-bioactive-compounds]], including leonurine and stachydrine, that validate many of its traditional uses, particularly its cardioprotective, uterotonic, anxiolytic, and [[medicinal-mushroom-antioxidant-anti-inflammatory]] properties.
 
 ## Taxonomy
 
@@ -24,7 +24,7 @@ Leonurus cardiaca, commonly known as motherwort, is a perennial herbaceous plant
 - **Family:** Lamiaceae (mint family)
 - **Genus:** Leonurus
 - **Species:** L. cardiaca L., 1753
-- **Common names:** Motherwort, lion's tail, throw-wort, lion's ear (not to be confused with Leonotis leonurus, a distinct species)
+- **[[australian-magic-mushroom-common-names]]:** Motherwort, lion's tail, throw-wort, lion's ear (not to be confused with Leonotis leonurus, a distinct species)
 - **Related species:** Leonurus japonicus (Chinese motherwort, yi mu cao) is the most medicinally significant congener, widely used in traditional Chinese medicine. Leonotis leonurus (wild dagga) is in a different genus within the same family.
 - **Etymology:** Greek "leon" (lion) + "oura" (tail) referring to the leaf shape; Latin "cardiaca" meaning "of the heart," reflecting its traditional cardiac applications.
 
@@ -42,7 +42,7 @@ Leonurus cardiaca, commonly known as motherwort, is a perennial herbaceous plant
 ## Habitat and Distribution
 
 - **Native range:** Central and southern Europe, temperate Asia (from Turkey to Siberia), and parts of Central Asia. Originally described from European populations.
-- **Naturalized range:** Widely naturalized throughout North America (from Newfoundland to British Columbia, south to Georgia and Colorado), South America, Australia, New Zealand, and parts of Africa. Considered an introduced and often weedy species in these regions.
+- **Naturalized range:** Widely naturalized throughout North America (from Newfoundland to British Columbia, south to Georgia and Colorado), [[stamets-mushrooms-world-south-america]], Australia, New Zealand, and parts of Africa. Considered an introduced and often weedy species in these regions.
 - **Habitat:** Highly adaptable. Found in waste places, roadsides, railroad embankments, abandoned fields, vacant lots, riverbanks, forest edges, and disturbed ground. Tolerates a wide range of soil types but prefers moist, nitrogen-rich soils.
 - **Invasive potential:** Listed as invasive or potentially invasive in several US states and European countries due to its aggressive colonization of disturbed habitats and ability to outcompete native vegetation.
 - **Hardiness:** Extremely cold-hardy (USDA zones 3–8). Dies back to the ground in winter and regrows vigorously from the rootstock each spring.

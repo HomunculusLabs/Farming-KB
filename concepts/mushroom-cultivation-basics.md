@@ -148,3 +148,8 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - **Light introduction** (indirect ambient light, not direct sun)
 
 Related: [[stamets-spawn-making-and-grain-culture]], [[agar-to-grain-wedge-transfer-technique]]
+
+## See Also
+
+- [[clitocybe-odora]]
+- [[lions-mane]]

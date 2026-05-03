@@ -85,9 +85,30 @@ This project demonstrates Holzer's core [[permaculture-climatic-zones-design]] p
 - [[permaculture-water-harvesting]]
 - [[hugelkultur]]
 - [[keyline-design]]
+- [[aquaponics]]
+- [[swale-design]]
+
+[[permaculture]]
+
+[[sepp-holzer]]
+
+[[aquaculture-in-permaculture]]
+
+[[biointensive-gardening-overview]]
+
+[[permaculture-climatic-zones-design]]
 
 
 ## Source
 
 [[krameterhof-holzer-model-farm]] -- Projects chapter, Thailand permaculture project section.
 - [[holzer-fruit-tree-planting-method]]
+
+
+## See Also
+
+- [[permaculture]]
+- [[sepp-holzer]]
+- [[aquaculture-in-permaculture]]
+- [[biointensive-gardening-overview]]
+- [[permaculture-climatic-zones-design]]

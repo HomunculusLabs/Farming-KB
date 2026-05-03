@@ -14,7 +14,7 @@ The most common form is the three-phase squirrel cage induction motor.
 Single-phase variants are used for smaller loads where only household or light commercial power is available.
 Induction motors are also called asynchronous motors because their rotor normally turns slightly slower than the rotating stator field.
 That speed difference, called slip, is not a defect; it is the condition that permits induction of rotor current and production of torque.
-The topic connects electromagnetic induction, rotating magnetic fields, [[kirchhoffs-circuit-laws|equivalent circuits]], power electronics, [[fouriers-law-heat-conduction|heat transfer]], and [[bio-electronic-interfaces|electronic systems]].
+The topic connects [[electromagnetic-induction-faraday-law]], rotating magnetic fields, [[kirchhoffs-circuit-laws]], power electronics, [[fouriers-law-heat-conduction]], and [[bio-electronic-interfaces]].
 
 ## Rotating Magnetic Field
 Balanced polyphase stator currents create a magnetic field whose resultant direction rotates smoothly around the air gap.

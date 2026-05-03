@@ -150,7 +150,11 @@ moisture source must be addressed.
 
 ## See Also
 
-- [[bloomfield-fungal-melanin-radiation-resistance-and-extremotolerance]] for melanin biochemistry
+- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
+- [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
+- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
+
+- [[fungal-melanin-in-ecology-and-stress-protection]] for melanin biochemistry
 - [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] for deeper weapons analysis
-- [[bloomfield-aflatoxins-and-food-safety]] for foodborne mycotoxins
+- [[bloomfield-aspergillus-biology-and-aflatoxins]] for foodborne mycotoxins
 - [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]] for indoor fungal health risks

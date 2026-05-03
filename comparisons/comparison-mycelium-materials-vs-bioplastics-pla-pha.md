@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Both mycelium materials and synthetic bioplastics like polylactic acid (PLA) and polyhydroxyalkanoates (PHA) represent attempts to displace petroleum-based plastics with more sustainable alternatives. However, they differ fundamentally in their production biology, material properties, end-of-life behavior, and scalability. Mycelium materials are **grown** from fungal biology on organic substrates, while PLA and PHA are **fermented and polymerized** through microbial or chemical processes into thermoplastic resins. Understanding these differences is essential for choosing the right material for a given application.
+Both mycelium materials and synthetic bioplastics like polylactic acid (PLA) and polyhydroxyalkanoates (PHA) represent attempts to displace petroleum-based plastics with more sustainable alternatives. However, they differ fundamentally in their production biology, material properties, end-of-life behavior, and scalability. Mycelium materials are **grown** from [[fungal-biology-fundamentals]] on organic substrates, while PLA and PHA are **fermented and polymerized** through microbial or chemical processes into thermoplastic resins. Understanding these differences is essential for choosing the right material for a given application.
 
 ## Production Process Comparison
 
@@ -23,7 +23,7 @@ Both mycelium materials and synthetic bioplastics like polylactic acid (PLA) and
 
 Production is a biological growth process:
 
-1. **Substrate preparation**: Agricultural waste (hemp hurds, sawdust, straw) is milled and pasteurized
+1. **[[growing-gourmet-substrate-preparation]]**: [[fungal-solid-state-fermentation-agricultural-waste]] (hemp hurds, sawdust, straw) is milled and pasteurized
 2. **Inoculation**: Fungal spawn is mixed into the substrate at 5–15% by weight
 3. **Molding and growth**: The mixture is packed into molds and incubated 3–7 days at 22–28°C, 85–95% RH
 4. **Stabilization**: Drying at 80–100°C halts growth and sets the structure
@@ -36,7 +36,7 @@ Key characteristic: The material **is** the substrate, bound by mycelial hyphae.
 Production is a fermentation-then-chemical process:
 
 1. **Feedstock**: Corn starch, sugarcane, or cellulosic biomass is hydrolyzed to simple sugars
-2. **Fermentation**: *Lactobacillus* or similar bacteria ferment sugars to lactic acid
+2. **Fermentation**: *[[lactobacillus]]* or similar bacteria ferment sugars to lactic acid
 3. **Polymerization**: Lactic acid undergoes condensation to lactide, then ring-opening polymerization to PLA
 4. **Pelletizing**: PLA resin is extruded into pellets for industrial processing
 5. **Manufacturing**: Pellets are injection-molded, extruded, thermoformed, or 3D-printed
@@ -48,7 +48,7 @@ Key characteristic: PLA is a **thermoplastic** — it melts and resolidifies, en
 Production is a purely biological polymerization:
 
 1. **Feedstock**: Various carbon sources including waste oils, food waste, or sugars
-2. **Fermentation**: Bacteria (*Cupriavidus necator*, *Pseudomonas putida*) accumulate PHA as intracellular granules under nutrient stress
+2. **Fermentation**: Bacteria (*Cupriavidus necator*, *[[pseudomonas-putida-entity-the-mushroom-cultivator]]*) accumulate PHA as intracellular granules under nutrient stress
 3. **Extraction**: Cells are harvested and PHA is extracted using solvents or enzymatic digestion
 4. **Processing**: PHA resin is pelletized and processed like conventional plastics
 
@@ -88,7 +88,7 @@ Key characteristic: PHA is both **biologically produced and biologically degrade
 ## End-of-Life Scenarios
 
 ### Mycelium Materials
-- **Composting**: Fully compostable in home and industrial settings; returns nutrients to soil
+- **[[composting]]**: Fully compostable in home and industrial settings; returns nutrients to soil
 - **Soil burial**: Degrades within 30–180 days depending on density and environmental conditions
 - **Landfill**: Anaerobic decomposition produces methane, but material is derived from waste feedstock so net impact is lower
 - **Recycling**: Not recyclable in conventional streams; designed for composting

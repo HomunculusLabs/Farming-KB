@@ -148,7 +148,7 @@ Significant upfront labor and materials required. First-season nitrogen drawdown
 
 ## See Also
 
-- [[permaculture-design-principles]] — foundational design framework
+- [[permaculture-principle-use-and-value-diversity]] — foundational design framework
 - [[sheet-mulching]] — no-dig bed preparation technique
-- [[swales]] — contour-based water harvesting earthworks
+- [[gaias-garden-swales-and-berms-construction]] — contour-based water harvesting earthworks
 - [[keyline-design]] — whole-landscape water management

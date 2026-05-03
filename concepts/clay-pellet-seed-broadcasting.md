@@ -15,9 +15,9 @@ sources:
 
 # Clay Pellet Seed Broadcasting
 
-Clay pellet seed broadcasting is a technique developed by Masanobu Fukuoka for
+Clay pellet seed broadcasting is a technique developed by [[masanobu-fukuoka]] for
 encasing seeds in protective clay pellets before scattering them over land. The method
-serves two distinct purposes: as a practical tool in no-tillage rice and grain farming,
+serves two distinct purposes: as a practical tool in [[comparison-chisel-plough-vs-no-tillage]] rice and grain farming,
 and as a large-scale revegetation strategy for desert and degraded lands. In both
 applications, the clay pellets protect seeds from predation by birds and rodents while
 allowing natural, timed germination triggered by rainfall.
@@ -28,7 +28,7 @@ The clay pellets are constructed by coating seeds with successive layers. First,
 are mixed with soil to form a thin coating. This is then covered with a layer of clay,
 forming a small pellet approximately the size of a marble. The pellets contain living
 microbes within the soil layer, which Fukuoka considered essential for successful
-germination and early plant growth.
+germination and early [[tompkins-magnetism-plant-growth]].
 
 The outer clay layer is hard enough to protect the seed from being eaten by birds,
 mice, and other animals, yet porous enough to allow moisture penetration when rain
@@ -39,10 +39,10 @@ eliminating the need for irrigation or careful planting schedules.
 
 ## Use in Rice Farming
 
-In Fukuoka's rice and winter grain succession system, clay pellets are used to sow
+In Fukuoka's rice and [[direct-seeded-no-tillage-rice-winter-grain-succession]] system, clay pellets are used to sow
 rice seed during the winter months. The pellets containing rice seed are scattered
 over the field in late December or early January, before the New Year, on top of the
-straw mulch left from the rice harvest and the growing clover cover crop.
+[[fukuoka-soil-fertility-straw-mulch]] left from the rice harvest and the growing clover [[cover-crop-species-comparison]].
 
 The rice seeds remain protected inside the pellets through the winter. In spring, as
 temperatures rise and rainfall increases, the pellets soften and the rice germinates.

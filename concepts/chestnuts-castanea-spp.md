@@ -105,7 +105,9 @@ They are drought-resistant once established. Coppicing is a traditional
 management technique, especially in Europe, producing young tough timber
 for fence posts and other uses while maintaining nut production.
 
-## Related Species
+## Related
+
+- [[comparison-chestnut-vs-walnut-vs-pecan-cultivation]] Species
 
 ### Chrysolepis chrysophylla (Golden Chinquapin)
 

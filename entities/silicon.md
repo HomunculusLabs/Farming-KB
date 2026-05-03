@@ -21,7 +21,7 @@ sources:
 ## Overview
 Silicon is the chemical element with symbol Si and atomic number 14.
 It is a hard, brittle, blue-gray crystalline solid in its elemental form.
-Chemically it belongs to group 14 of the periodic table.
+Chemically it belongs to group 14 of the [[mollison-soil-elements-periodic-table]].
 Materials scientists usually treat it as a metalloid and a semiconductor.
 Silicon dominates modern electronics because it is abundant, processable, and electronically useful.
 It is the core material for most transistors, integrated circuits, image sensors, and solar cells.

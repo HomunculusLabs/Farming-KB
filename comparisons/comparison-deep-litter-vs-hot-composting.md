@@ -24,17 +24,17 @@ sources:
 
 | Feature | Deep Litter System | Hot Composting |
 |---------|-------------------|----------------|
-| **Core principle** | In-situ decomposition inside animal housing | Managed aerobic decomposition in dedicated piles/bins |
+| **Core principle** | In-situ [[decomposition]] inside animal housing | Managed aerobic decomposition in dedicated piles/bins |
 | **Active management** | Low — add carbon material, stir occasionally | High — monitor temperature, turn regularly, manage C:N ratio |
 | **Decomposition speed** | Slow (months) | Fast (weeks to months) |
 | **Temperature reached** | Warm (80–110°F / 27–43°C) | Hot (130–170°F / 54–77°C) |
 | **Pathogen kill** | Partial (some reduction) | Thorough (seed and pathogen destruction at 130°F+) |
 | **Weed seed kill** | Minimal | Excellent |
 | **Space required** | Floor space of the animal housing | Dedicated compost area (bin or pile) |
-| **Equipment needed** | Carbon bedding material, pitchfork | Compost bin, thermometer, turning fork/aerator |
+| **Equipment needed** | Carbon bedding material, pitchfork | [[query-how-to-start-a-worm-compost-bin]], thermometer, turning fork/aerator |
 | **Odor control** | Good (when managed well) | Good (when aerated properly) |
 | **End product** | Partially decomposed litter (finish by composting or direct application) | Finished humus-like compost |
-| **Best for** | Livestock housing, winter management, low-labor setups | Garden waste, kitchen scraps, rapid soil amendment production |
+| **Best for** | Livestock housing, [[savory-supplemental-feeding-and-winter-management]], low-labor setups | Garden waste, kitchen scraps, rapid [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] production |
 | **Year-round** | Yes — active even in winter inside housing | Climate-dependent; slows significantly in cold weather |
 
 ---
@@ -51,7 +51,7 @@ The system relies on microbial activity — bacteria, fungi, and actinomycetes �
 
 ### Hot Composting
 
-Hot (thermophilic) composting is an active, managed process where organic materials are combined in specific ratios (targeting a carbon-to-nitrogen ratio of 25–30:1), moistened to 50–60% moisture content, and aerated by regular turning. The microbial activity raises internal pile temperatures to 130–170°F (54–77°C), which accelerates decomposition, kills weed seeds and pathogens, and produces finished compost in 4–12 weeks.
+Hot (thermophilic) composting is an active, managed process where organic materials are combined in specific ratios (targeting a carbon-to-[[oyster-substrate-carbon-nitrogen-ratio]] of 25–30:1), moistened to 50–60% moisture content, and aerated by regular turning. The microbial activity raises internal pile temperatures to 130–170°F (54–77°C), which accelerates decomposition, kills weed seeds and pathogens, and produces finished compost in 4–12 weeks.
 
 Hot composting requires regular attention: monitoring temperature, turning the pile when it cools below 110°F, maintaining moisture, and balancing green (nitrogen) and brown (carbon) inputs.
 
@@ -69,7 +69,7 @@ Hot composting requires regular attention: monitoring temperature, turning the p
 
 This is the most significant difference. **Hot composting** reaches temperatures that reliably kill pathogens (*E. coli*, *Salmonella*, parasite eggs), weed seeds, and disease organisms. This makes it the preferred method when composting diseased plant material, manure from multiple species, or material contaminated with persistent weeds.
 
-**Deep litter** operates at lower temperatures and provides only partial pathogen reduction. While beneficial microbes do suppress some pathogens through competitive exclusion, the system does not reliably destroy weed seeds, parasite eggs (like coccidia or ascarids), or bacterial pathogens. Deep litter material from poultry housing should ideally be hot-composted before use on food crops, especially root vegetables.
+**Deep litter** operates at lower temperatures and provides only partial pathogen reduction. While beneficial microbes do suppress some pathogens through competitive exclusion, the system does not reliably destroy weed seeds, parasite eggs (like coccidia or ascarids), or bacterial pathogens. Deep litter material from [[poultry-housing-guide]] should ideally be hot-composted before use on food crops, especially root vegetables.
 
 ### Soil Amendment Quality
 

@@ -16,10 +16,10 @@ sources:
 
 # Natural Diet and Seasonal Eating
 
-Masanobu Fukuoka's philosophy of natural diet is inseparable from his natural farming
+[[masanobu-fukuoka]]'s philosophy of natural diet is inseparable from his [[natural-farming-poster-input-free-farming]]
 method. He argued that natural farming, natural diet, and natural healing are all
 parts of one whole, and that all three are achievable only by what he called "natural
-people." The decline of food quality, in his view, was a direct consequence of the
+people." The decline of [[fukuoka-artificial-food-synthesis-degradation-food-quality]], in his view, was a direct consequence of the
 decline of farming practices, and restoring one required restoring the other.
 
 ## The Decline of Food Quality
@@ -35,9 +35,9 @@ The progression toward artificial food production followed a clear trajectory. O
 cultivation of vegetables gave way to hothouse horticulture using soil in enclosed
 structures. This evolved into sand and gravel culture, which replaced soil with inert
 media because they contained fewer bacteria and were considered "cleaner." This led
-to hydroponic systems where plants were grown in plastic netting with nutrient
+to [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]] where plants were grown in plastic netting with nutrient
 solutions sprayed over the entire plant. The logical endpoint of this progression
-is the total chemical synthesis of food, eliminating farms and gardens entirely.
+is the total [[psilocybin-psilocin-chemical-synthesis]] of food, eliminating farms and gardens entirely.
 
 Fukuoka observed that any product grown in such artificial environments is far
 removed from products grown under natural conditions. While these products may
@@ -48,7 +48,7 @@ grown crops.
 
 ## Unity of Body and Spirit in Food
 
-Fukuoka's food philosophy rejects the purely materialistic understanding of food as
+Fukuoka's [[fukuoka-natural-food-philosophy]] rejects the purely materialistic understanding of food as
 mere nutrition. Drawing on Buddhist thought, he argued that form is emptiness and
 emptiness is form, meaning that matter and spirit are one. Food is not simply fuel
 for the biological body; it is intimately connected with the human soul and the

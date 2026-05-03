@@ -16,7 +16,7 @@ sources:
 
 # Natural Livestock Farming: Open Grazing vs Factory Methods
 
-Fukuoka extends his critique of scientific agriculture to the realm of livestock, presenting a
+Fukuoka extends his [[critique-of-scientific-agriculture]] to the realm of livestock, presenting a
 stark contrast between the natural grazing ideal and the abuses of modern confined animal
 operations. His analysis connects the treatment of animals to broader questions of human
 health, ecological integrity, and the pursuit of unconditional truth.
@@ -55,7 +55,7 @@ operations.
 
 ## Natural Grazing as the Ideal
 
-Under the precepts of natural farming, livestock farming takes the form of open grazing.
+Under the precepts of [[natural-farming-poster-input-free-farming]], livestock farming takes the form of open grazing.
 Cattle, pigs, and chickens fattened while free to roam at will on the open land under the
 sun's rays are a precious, irreplaceable source of food for man. The problem lies elsewhere —
 in the prejudiced view that sees natural farming as inefficient. Is grazing, which allows one
@@ -72,7 +72,7 @@ nature be.
 
 Even fields covered with a thick growth of wild roses and creepers that seem worthless for
 grazing can be used to raise goats and sheep, which love to feed on these intractable shrubs
-and vines and could clean up the undergrowth in the densest jungle.
+and vines and could [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]] the undergrowth in the densest jungle.
 
 ## Raising Animals in Forests
 
@@ -115,7 +115,7 @@ same way.
 The very notion of "raising" livestock should not even exist in natural farming. Nature is
 the one that raises and grows. Man follows nature; all he needs to know is with what and in
 what manner cattle live. Heat and cold exist, and yet do not exist, in nature. One will never
-be wrong in starting with the assumption that the temperature and humidity are everywhere and
+be wrong in starting with the assumption that the [[vegetable-storage-conditions-by-temperature-and-humidity]] are everywhere and
 at all times just right. Without hot and cold, the barn is no longer necessary. All that is
 needed, for the convenience of man, is the smallest of sheds. As for the animals, they will
 scratch and forage freely for food night and day under the open sky, find themselves a place to
@@ -123,7 +123,7 @@ roost, and grow up strong and healthy.
 
 ## Scientific vs Natural Approach
 
-Scientific farming is content to think of conditional truth as the truth, but natural farming
+[[fukuoka-paradoxes-scientific-farming]] is content to think of conditional truth as the truth, but natural farming
 makes every effort to discard all premises and conditions and seek out a truth without
 conditions. For instance, scientific farming will give various formulations to cows chained in
 a barn and judge the mixture producing the best results to be superior to the others. From
@@ -137,7 +137,7 @@ grows. More is required to sustain life than just food. Many other factors relat
 weather, climate, living environment, exercise, sleep, and more.
 
 Today's livestock raised in large numbers and reduced to standardized machinery no longer
-receives the strength and grace of nature. They differ fundamentally from nature — which
+receives the strength and grace of nature. They differ fundamentally [[fukuoka-learning-about-nature-distances-one-from-nature]] — which
 creates something from nothing — because they are merely processed goods. Both the farm
 worker and the city dweller who consumes these food products lose their health and humanity
 as they turn away from nature.

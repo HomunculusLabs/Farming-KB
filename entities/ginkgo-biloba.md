@@ -11,7 +11,7 @@ sources: [https://pubmed.ncbi.nlm.nih.gov/, https://www.ncbi.nlm.nih.gov/books/N
 
 ## Overview
 
-Ginkgo biloba, commonly known as the ginkgo tree or maidenhair tree, is a unique species of gymnosperm and the sole surviving member of the order Ginkgoales, a group that dates back over 270 million years to the Permian period. Often described as a "living fossil," Ginkgo biloba has no close living relatives and represents one of the oldest extant tree species on Earth. Extracts from its leaves, particularly the standardized formulation EGb 761, are among the most widely used herbal medicines and dietary supplements worldwide, prescribed primarily for cognitive enhancement, peripheral circulatory disorders, and tinnitus. The leaf extract contains a characteristic profile of flavonol glycosides and terpene lactones (ginkgolides and bilobalide) that demonstrate antioxidant, anti-inflammatory, neuroprotective, and vasodilatory properties.
+Ginkgo biloba, commonly known as the ginkgo tree or maidenhair tree, is a unique species of gymnosperm and the sole surviving member of the order Ginkgoales, a group that dates back over 270 million years to the Permian period. Often described as a "living fossil," Ginkgo biloba has no close living relatives and represents one of the oldest extant tree species on Earth. Extracts from its leaves, particularly the standardized formulation EGb 761, are among the most widely used herbal medicines and [[medicinal-mushroom-dietary-supplements]] worldwide, prescribed primarily for cognitive enhancement, peripheral circulatory disorders, and tinnitus. The leaf extract contains a characteristic profile of flavonol glycosides and terpene lactones (ginkgolides and bilobalide) that demonstrate antioxidant, [[medicinal-mushroom-antioxidant-anti-inflammatory]], neuroprotective, and vasodilatory properties.
 
 ## Taxonomy
 
@@ -24,7 +24,7 @@ Ginkgo biloba, commonly known as the ginkgo tree or maidenhair tree, is a unique
 - **Family:** Ginkgoaceae
 - **Genus:** Ginkgo (monotypic — sole living species)
 - **Species:** G. biloba L., 1771
-- **Common names:** Ginkgo, maidenhair tree, ginkgo tree, yín xìng (銀杏, Chinese), ichō (イチョウ, Japanese), eunhaeng (은행, Korean)
+- **[[australian-magic-mushroom-common-names]]:** Ginkgo, maidenhair tree, ginkgo tree, yín xìng (銀杏, Chinese), ichō (イチョウ, Japanese), eunhaeng (은행, Korean)
 - **Etymology:** "Ginkgo" is a phonetic rendering of the Japanese pronunciation "ginkyō" of the Chinese characters 銀杏 (yín xìng), meaning "silver apricot," referring to the appearance of the seed. "Biloba" from Latin "bi" (two) + "loba" (lobed), describing the characteristic two-lobed fan-shaped leaf.
 
 ## Description
@@ -39,7 +39,7 @@ Ginkgo biloba, commonly known as the ginkgo tree or maidenhair tree, is a unique
 ## Habitat and Distribution
 
 - **Native range:** Southeastern China, with relict wild populations possibly persisting in the Tianmushan region of Zhejiang Province and in southwestern China (Xishuangbanna, Yunnan). True wild status is debated; most natural populations may be feral descendants of ancient cultivation.
-- **Cultivated range:** Planted worldwide as an ornamental and medicinal tree. Common in urban landscapes across temperate regions due to exceptional tolerance of pollution, compacted soils, pests, and disease. Widely cultivated in China, France, Germany, the United States, Japan, and South Korea for leaf production.
+- **Cultivated range:** Planted worldwide as an ornamental and medicinal tree. Common in urban landscapes across temperate regions due to exceptional tolerance of pollution, compacted soils, pests, and disease. Widely cultivated in China, France, Germany, the [[sacramental-ayahuasca-legal-battles-united-states]], Japan, and South Korea for leaf production.
 - **Habitat:** Adaptable to a wide range of conditions. Prefers deep, well-drained, loamy soils but tolerates clay, sandy, and alkaline soils. Full sun to partial shade. Hardy to USDA zones 3–9.
 - **Cultivation for medicine:** Leaf harvest typically begins after 5–7 years. Leaves are collected in late summer to early autumn (when flavonoid content is highest), dried, and extracted. Major commercial leaf production in China, France, and Germany.
 
@@ -66,14 +66,14 @@ Ginkgo biloba leaf extract contains a well-characterized profile of bioactive co
 
 ### Standardized extract EGb 761
 
-The most widely studied formulation, EGb 761 (Tebonin, Tanakan), is standardized to contain 24% ginkgo flavonol glycosides and 6% terpene lactones, with ginkgolic acids reduced to below 5 ppm. Over 400 clinical trials and thousands of preclinical studies have been published on this specific extract.
+The most widely studied formulation, EGb 761 (Tebonin, Tanakan), is standardized to contain 24% ginkgo flavonol glycosides and 6% terpene lactones, with ginkgolic acids reduced to below 5 ppm. Over 400 [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]] and thousands of preclinical studies have been published on this specific extract.
 
 ## Pharmacology and Traditional Uses
 
 ### Traditional use history
 
 - Used in Chinese medicine for over 500 years, primarily for respiratory complaints (asthma, bronchitis) and as a general circulatory tonic
-- Seeds (nuts) have been used as food and medicine in China and Japan for millennia
+- Seeds (nuts) have been used as [[mushroom-cultivation-for-food-and-medicine]] in China and Japan for millennia
 - Leaf extract was developed as a pharmaceutical product in Germany in the 1960s, launching the modern era of ginkgo research
 
 ### Cerebrovascular and cognitive effects

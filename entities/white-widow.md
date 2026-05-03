@@ -11,22 +11,22 @@ sources: [/Users/t3rpz/wiki/raw/papers/marijuana-horticulture-cervantes.md]
 
 ## Overview
 
-White Widow is one of the most iconic and influential cannabis strains in modern cultivation history. Developed in the Netherlands during the early 1990s, this indica-dominant hybrid became globally renowned for its extraordinary resin production — the buds become so thickly coated with trichomes that they appear frosted white, hence the name. White Widow is widely credited with popularizing the concept of "white" cannabis strains and establishing a new benchmark for resin content in commercially available cannabis. Its balanced yet potent effects, combining a powerful cerebral high with deep physical relaxation, along with its relatively straightforward cultivation requirements, have made it one of the most widely grown and sold strains worldwide. White Widow has served as a parent or genetic contributor to hundreds of subsequent hybrid strains, making its genetic footprint arguably larger than any other single cannabis variety.
+White Widow is one of the most iconic and influential cannabis strains in modern [[magic-mushroom-cultivation-history]]. Developed in the Netherlands during the early 1990s, this indica-dominant hybrid became globally renowned for its extraordinary [[cervantes-trichome-resin-production]] — the buds become so thickly coated with trichomes that they appear frosted white, hence the name. White Widow is widely credited with popularizing the concept of "white" cannabis strains and establishing a new benchmark for resin content in commercially available cannabis. Its balanced yet potent effects, combining a powerful cerebral high with deep physical relaxation, along with its relatively straightforward cultivation requirements, have made it one of the most widely grown and sold strains worldwide. White Widow has served as a parent or genetic contributor to hundreds of subsequent hybrid strains, making its genetic footprint arguably larger than any other single cannabis variety.
 
 ## Genetic Lineage
 
 - **Type:** Indica-dominant hybrid (approximately 60% indica / 40% sativa)
 - **Breeder:** Shantibaba (Ingemar), originally developed at Greenhouse Seeds in Amsterdam, Netherlands, circa 1994
 - **Parent strains:**
-  - **Female parent:** A Brazilian sativa landrace — selected for its uplifting, energetic cerebral effects, long flowering time, and tall, stretchy growth pattern. Sourced from the Minas Gerais region of Brazil.
-  - **Male parent:** A South Indian indica landrace — selected for its dense bud structure, heavy resin production, short flowering time, and relaxing body effects. Sourced from the Kerala region of India.
+  - **Female parent:** A Brazilian [[sativa-landrace-strains-and-geographic-origins]] — selected for its uplifting, energetic cerebral effects, long flowering time, and tall, stretchy growth pattern. Sourced from the Minas Gerais region of Brazil.
+  - **Male parent:** A South Indian indica landrace — selected for its dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], heavy resin production, short flowering time, and relaxing body effects. Sourced from the Kerala region of India.
 - **Stabilization:** The strain was stabilized through multiple generations of inbreeding and backcrossing to lock in the desirable combination of the Brazilian sativa's potency and the Indian indica's resin production and compact structure.
-- **Genetic legacy:** White Widow has been used as a parent in countless hybrids including White Russian, White Rhino, Blue Widow, Pineapple Express, Banana Kush, and many others. Its genetics appear in an estimated 30–40% of all commercially available hybrid strains.
+- **Genetic legacy:** White Widow has been used as a parent in countless hybrids including White Russian, White Rhino, Blue Widow, [[pineapple-express-entity]], Banana Kush, and many others. Its genetics appear in an estimated 30–40% of all commercially available hybrid strains.
 
 ## Morphology and Appearance
 
 - **Plant structure:** Medium height, typically 80–140 cm indoors. Branching is moderate to heavy, producing multiple colas of similar size. Initial stretch during flowering is moderate (50–100% increase in height).
-- **Leaves:** Dark green, broad-fingered indica-type leaves during vegetative growth. Some phenotypes show narrower, sativa-influenced leaflets. Leaf-to-calyx ratio is moderate, with calyxes dominating by late flowering.
+- **Leaves:** Dark green, broad-fingered indica-type leaves during [[green-cannabis-vegetative-growth]]. Some phenotypes show narrower, sativa-influenced leaflets. Leaf-to-calyx ratio is moderate, with calyxes dominating by late flowering.
 - **Buds:** Dense, compact, and chunky with a rounded, conical shape. Medium to large calyxes heavily swollen with resin. The defining characteristic is the extraordinary density of trichome coverage — mature buds appear completely white or frosty due to the thick layer of glandular trichomes.
 - **Trichome coverage:** Exceptional — one of the most resinous strains available. Dense coating of large, mushroom-cap-shaped capitate-stalked trichomes covering buds, small leaves (sugar leaves), and even extending to upper stems and bracts. Resin glands are prominently visible to the naked eye.
 - **Pistils:** Abundant, initially white, turning orange-brown to reddish as maturity approaches. Long, curling stigmas emerging from calyx clusters.

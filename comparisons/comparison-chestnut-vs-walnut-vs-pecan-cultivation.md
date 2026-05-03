@@ -17,7 +17,7 @@ sources:
 
 | Attribute | **Chestnut** (*Castanea spp.*) | **Walnut** (*Juglans spp.*) | **Pecan** (*Carya illinoinensis*) |
 |-----------|-------------------------------|------------------------------|-----------------------------------|
-| **USDA Zones** | 4–9 (varies by species) | 4–9 (English); 3–7 (black) | 5–9 |
+| **USDA Zones** | 4–9 (varies [[legume-nitrogen-yields-by-species]]) | 4–9 (English); 3–7 (black) | 5–9 |
 | **Mature height** | 40–60 ft | 50–75 ft | 70–100 ft |
 | **Mature spread** | 40–60 ft | 50–75 ft | 40–60 ft |
 | **Years to first crop** | 3–5 (grafted); 5–7 (seedling) | 4–7 (grafted); 8–10 (seedling) | 5–8 (grafted); 10–15 (seedling) |
@@ -34,7 +34,7 @@ sources:
 | **Soil pH preference** | 5.5–6.5 (acidic) | 6.0–7.5 (neutral to slightly alkaline) | 6.0–7.0 (slightly acidic) |
 | **Drought tolerance** | Moderate | Moderate-good | Low-moderate (needs deep moisture) |
 | **Flood tolerance** | Poor | Poor | Moderate (native to floodplains) |
-| **Companion planting** | Excellent (no allelopathy) | **Limited** (juglone kills many plants) | Good |
+| **[[comparison-fruit-tree-guilds-vs-companion-planting]]** | Excellent (no allelopathy) | **Limited** (juglone kills many plants) | Good |
 
 ## Detailed Comparison
 
@@ -46,15 +46,15 @@ This is the most fundamental difference between the three genera and drives most
 
 **Walnuts and pecans** are fat-rich (60–70% fat by weight), calorie-dense, and excellent sources of dietary lipids. Walnuts are particularly notable for their omega-3 alpha-linolenic acid (ALA) content — the highest of any common nut. Pecans are richest in monounsaturated oleic acid (the same fatty acid in olive oil). Both provide 2,600–2,800 calories per pound.
 
-**For homestead caloric production**: Chestnuts produce more total food weight per acre (and more calories per acre, because the trees are smaller and can be planted more densely), but walnuts and pecans provide more calories per nut and more fat — an essential nutrient that is harder to obtain from plant sources. The ideal staple food forest includes both.
+**For homestead caloric production**: Chestnuts produce more total food weight per acre (and more calories per acre, because the trees are smaller and can be planted more densely), but walnuts and pecans provide more calories per nut and more fat — an essential nutrient that is harder to obtain from plant sources. The ideal staple [[food-forest-design]] includes both.
 
 ### Allelopathy — The Walnut Problem
 
-**Black walnut (*Juglans nigra*)** and to a lesser extent **English walnut (*J. regia*)** produce **juglone** (5-hydroxy-1,4-naphthoquinone), a biochemical that is toxic to many plant species. Juglone is present in all parts of the tree — roots, leaves, nut husks, bark — and is exuded into the soil in a radius extending to the drip line and beyond.
+**[[black-walnut-juglone-plant-toxicity]] (*Juglans nigra*)** and to a lesser extent **English walnut (*J. regia*)** produce **juglone** (5-hydroxy-1,4-naphthoquinone), a biochemical that is toxic to many plant species. Juglone is present in all parts of the tree — roots, leaves, nut husks, bark — and is exuded into the soil in a radius extending to the drip line and beyond.
 
 **Sensitive plants** (killed or stunted by juglone): Tomatoes, potatoes, peppers, eggplant, rhododendrons, azaleas, apples, pears, blueberries, blackberries, lilacs, petunias, cabbage, broccoli.
 
-**Tolerant plants**: Black raspberry, squash, melons, beans, corn, onions, beets, carrots, cherry, pawpaw, persimmon, quince, elderberry, hackberry, redbud.
+**[[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]**: Black raspberry, squash, melons, beans, corn, onions, beets, carrots, cherry, [[pawpaw]], persimmon, quince, elderberry, hackberry, redbud.
 
 **Chestnuts and pecans produce no allelopathic compounds** and are excellent companions for underplanting with fruit trees, berries, vegetables, herbs, and ground covers. This makes them far more versatile in food forest and polyculture designs. If you want a productive understory beneath your nut trees, avoid walnuts or confine them to windbreak/orchard rows where the understory is grass-only.
 

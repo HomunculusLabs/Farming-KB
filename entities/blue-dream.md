@@ -147,6 +147,6 @@ Blue Dream occupies a unique position in cannabis culture:
 
 ## See Also
 
-- [[dj-short-blueberry]] — foundational indica parent
-- [[original-haze]] — foundational sativa parent
+- [[blueberry-growing-guide]] — foundational indica parent
+- [[amnesia-haze]] — foundational sativa parent
 - [[myrcene]] — dominant terpene in this strain

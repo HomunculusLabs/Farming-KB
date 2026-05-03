@@ -9,7 +9,7 @@ sources: []
 
 1|---
      2|title: Trees Grow Themselves and the Damage of Transplanting
-     3|tags: [natural-farming, trees, fruit-orchards, transplanting, root-systems, soil-ecology, masanobu-fukuoka, no-till]
+     3|tags: [natural-farming, trees, fruit-orchards, transplanting, root-systems, [[nematodes-in-soil-ecology]], masanobu-fukuoka, no-till]
      4|date: 2026-04-28
      5|updated: 2026-04-28
      6|sources:
@@ -18,25 +18,25 @@ sources: []
      9|
     10|# Trees Grow Themselves and the Damage of Transplanting
     11|
-    12|Masanobu Fukuoka argued that trees in mountain forests grow to magnificent
+    12|[[masanobu-fukuoka]] argued that trees in mountain forests grow to magnificent
     13|heights without any human help, and that the fundamental error of modern
     14|orcharding lies in preventing trees from growing according to their own nature.
     15|Central to this critique is the damage caused by transplanting, root pruning,
-    16|and the artificial conditions imposed on fruit trees from the moment they are
+    16|and the artificial conditions imposed on [[mollison-designers-grafting-and-budding-fruit-trees]] from the moment they are
     17|planted in prepared ground.
     18|
     19|## Forest Trees vs. Orchard Trees
     20|
     21|In the mountain forests, trees grow under nearly natural conditions without
-    22|fertilizer, irrigation, pest control, or pruning. Reforested cedars in a
+    22|fertilizer, irrigation, [[coleman-beneficial-insects-and-ecological-pest-control]], or pruning. Reforested cedars in a
     23|favorable area produce about forty tons per quarter-acre over twenty years,
     24|roughly two tons of new growth annually. When branches, leaves, and roots are
     25|included, annual production approaches four tons per acre, all without any
     26|fertilizer input.
     27|
-    28|This is essentially slash-and-burn agriculture carried out by natural processes,
+    28|This is essentially slash-and-burn agriculture carried out by [[mollison-sewage-treatment-natural-processes]],
     29|yet the trees grow on and on year after year. The forest creates its own
-    30|fertility through the continuous cycling of organic matter. Fallen leaves and
+    30|fertility through the continuous cycling of [[solomon-compost-organic-matter]]. Fallen leaves and
     31|dead branches decompose on the forest floor, feeding soil organisms that in
     32|turn make nutrients available to living roots. No external inputs are needed
     33|because the system is self-contained and self-renewing.

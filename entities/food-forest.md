@@ -18,7 +18,6 @@ sources:
   - "Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications."
   - "Crawford, M. (2010). Creating a Forest Garden: Working with Nature to Grow Edible Crops. Green Books."
 ---
-
 # Food Forest
 
 ## Overview
@@ -85,16 +84,13 @@ The classic food forest model, as articulated by Robert Hart, organizes plants i
 
 ### Additional Functional Layers
 
-- **Fungal layer:** Mycorrhizal networks and cultivated mushrooms ([[pleurotus-ostreatus]], [[stropharia-rugosoannulata]], [[wine-cap-mushroom]]) that decompose woody debris and cycle nutrients
-- **Aquatic/wetland zone:** Small ponds or swales supporting aquatic plants, amphibians, and beneficial insects
-- **Edge zone:** The transition between food forest and surrounding landscape, typically the most productive and biodiverse area (edge effect principle)
+(Section truncated for length.)
 
 ## Ecological Principles
 
 ### Succession Acceleration
 
 Food forests leverage natural ecological succession — the process by which ecosystems develop from bare ground to mature forest — but accelerate and direct it toward edible productivity:
-
 1. **Pioneer stage:** Fast-growing nitrogen-fixing trees and dynamic accumulators establish soil structure and fertility
 2. **Shrub establishment:** Berry bushes and understory trees fill the mid-layers
 3. **Canopy closure:** Mature fruit and nut trees form the overstory; shade-tolerant understory species are selected
@@ -103,7 +99,6 @@ Food forests leverage natural ecological succession — the process by which eco
 ### Guild Design
 
 Plant guilds are functionally interrelated plant communities where each member performs multiple roles that support the others:
-
 - **Central element:** A key productive tree (e.g., apple tree)
 - **Nitrogen fixers:** Plants that fix atmospheric nitrogen (eleagnus, caragana, clover, seaberry)
 - **Dynamic accumulators:** Deep-rooted plants that mine minerals from subsoil (comfrey, chicory, dandelion, yarrow)
@@ -115,7 +110,6 @@ Plant guilds are functionally interrelated plant communities where each member p
 ### Closed-Loop Nutrient Cycling
 
 Unlike conventional agriculture, food forests aim for closed-loop nutrient cycling:
-
 - **Internal decomposition:** Leaf fall, prunings, and dead plant material decompose in place, returning nutrients to the soil
 - **Mycorrhizal networks:** Fungal hyphae connect plant roots, facilitating nutrient and information exchange across the polyculture
 - **Biological nitrogen fixation:** Leguminous plants convert atmospheric nitrogen to plant-available forms, reducing or eliminating external nitrogen inputs
@@ -134,13 +128,11 @@ Unlike conventional agriculture, food forests aim for closed-loop nutrient cycli
 ### Zone and Sector Planning
 
 Following permaculture zone theory:
-
 - **Zone 1 (most intensively managed):** Kitchen garden herbs, salad greens, strawberries, frequently harvested elements — typically closest to the dwelling
 - **Zone 2:** Main food forest area with fruit trees, berry bushes, and perennial vegetables — visited daily to weekly
 - **Zone 3:** Larger nut trees, bulk crops, grazing areas, firewood — visited weekly to monthly
 - **Zone 4:** Managed woodland, foraging areas, water harvesting — visited seasonally
 - **Zone 5:** Unmanaged wildlife habitat — left as natural ecosystem buffer
-
 Sector analysis maps external energies (sun, wind, fire risk, wildlife corridors, noise, views) and designs the food forest to intercept, channel, or buffer these energies as appropriate.
 
 ### Establishment Timeline
@@ -199,7 +191,7 @@ Sector analysis maps external energies (sun, wind, fire risk, wildlife corridors
 
 - [[permaculture]] — The design framework underlying food forest principles
 - [[hugelkultur]] — Mound-based bed-building technique often used in food forest establishment
-- [[dynamic-accumulator]] — Plants that mine nutrients from deep soil layers for food forest guild design
+- [[dynamic-accumulators]] — Plants that mine nutrients from deep soil layers for food forest guild design
 - [[comfrey]] — Key dynamic accumulator and mulch crop in temperate food forests
 - [[mycoforestry]] — Integration of fungi into forest management systems
 - [[robert-hart]] — Pioneer of the modern temperate food forest concept

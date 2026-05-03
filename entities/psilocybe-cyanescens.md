@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Psilocybe cyanescens**, commonly known as the wavy-cap or potent psilocybe, is a species of psilocybin-containing mushroom in the family Hymenogastraceae. It is among the most potent of the psychedelic mushrooms, containing up to 1.96% psilocybin and 0.36% psilocin by dry weight. Native to the Pacific Northwest of North America, the species has become widely distributed across temperate regions worldwide through the dispersal of woody mulch and horticultural materials. It is one of the most commonly foraged "magic mushrooms" in urban and suburban environments.
+**Psilocybe cyanescens**, commonly known as the wavy-cap or potent psilocybe, is a species of [[psilocybin-containing-mushrooms-in-us]] mushroom in the family Hymenogastraceae. It is among the most potent of the [[archaeology-of-psychedelic-mushrooms]], containing up to 1.96% psilocybin and 0.36% [[psilocin]] by dry weight. Native to the [[psilocybin-north-america-pacific-northwest]] of [[neurotropic-fungi-in-north-america]], the species has become widely distributed across temperate regions worldwide through the dispersal of woody mulch and horticultural materials. It is one of the most commonly foraged "[[magic-mushrooms-british-underground]]" in urban and suburban environments.
 
 ## Taxonomy and Classification
 
@@ -153,4 +153,4 @@ Critical identification features distinguishing *P. cyanescens* from look-alikes
 - [[Psilocybe-cubensis]] — the most commonly cultivated psilocybin mushroom
 - [[psilocybin]] — the primary psychoactive compound
 - [[psilocybin-assisted-therapy]] — clinical applications of psychedelic mushrooms
-- [[entheogenic-fungi]] — mushrooms used in spiritual and ceremonial contexts
+- entheogenic fungi — mushrooms used in spiritual and ceremonial contexts

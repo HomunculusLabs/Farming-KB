@@ -15,7 +15,7 @@ Both fennel (*Foeniculum vulgare*) and dill (*Anethum graveolens*) belong to the
 | Feature | Fennel | Dill |
 |---|---|---|
 | **Species** | *Foeniculum vulgare* | *Anethum graveolens* |
-| **Lifecycle** | Perennial (often grown as annual) | Annual (biennial in cool climates) |
+| **Lifecycle** | Perennial (often grown as annual) | Annual (biennial in [[mollison-berry-production-cool-climates]]) |
 | **Hardiness** | USDA 4–9 | USDA 2–11 (grown annually) |
 | **Height** | 4–6 ft (1.2–1.8 m) | 2–4 ft (0.6–1.2 m) |
 | **Mature spread** | 2–3 ft (0.6–0.9 m) | 1–2 ft (0.3–0.6 m) |
@@ -26,7 +26,7 @@ Both fennel (*Foeniculum vulgare*) and dill (*Anethum graveolens*) belong to the
 
 **Fennel** has a pronounced anise or licorice flavor derived primarily from anethole (80–90% of its essential oil), with supporting notes from estragole and fenchone. Every part is edible: the crisp bulb is used raw in salads or roasted, the fronds garnish dishes, the seeds flavor sausages and breads, and the pollen — "fennel pollen" — is prized as an expensive finishing spice with a honeyed, floral intensity.
 
-**Dill** delivers a grassy, fresh flavor with milder anise notes from carvone (the same compound that flavors caraway and spearmint) plus dill apiole and limonene. Dill weed (fresh foliage) pairs with fish, potatoes, and pickles. Dill seed is warmer and more camphoraceous than the foliage, essential in pickling brines, rye breads, and some curry blends.
+**Dill** delivers a grassy, fresh flavor with milder anise notes from carvone (the same compound that flavors caraway and spearmint) plus dill apiole and [[limonene]]. Dill weed (fresh foliage) pairs with fish, potatoes, and pickles. Dill seed is warmer and more camphoraceous than the foliage, essential in pickling brines, rye breads, and some curry blends.
 
 ### Key Distinction
 
@@ -48,9 +48,9 @@ Florence fennel (*F. vulgare* var. *azoricum*) forms a swollen leaf base (the "b
 
 ## Growth & Cultivation
 
-**Fennel** prefers full sun and well-drained soil. It tolerates drought once established due to its deep taproot. In Mediterranean climates it can be invasive, self-seeding aggressively. Bronze fennel (*F. vulgare* 'Purpureum') is more ornamental and slightly less aggressive but still a vigorous colonizer. Direct sow after last frost or start indoors 4–6 weeks before transplanting.
+**Fennel** prefers full sun and well-drained soil. It tolerates drought once established due to its deep taproot. In Mediterranean climates it can be invasive, [[self-seeding-annuals-permaculture-two]] aggressively. Bronze fennel (*F. vulgare* 'Purpureum') is more ornamental and slightly less aggressive but still a vigorous colonizer. Direct sow after last frost or start indoors 4–6 weeks before transplanting.
 
-**Dill** also prefers full sun and moderate fertility. It is less drought-tolerant and benefits from consistent moisture. Bolting is triggered by heat and long days; successional sowing every 2–3 weeks extends the harvest window. Dill does not transplant well — direct seeding is strongly preferred.
+**Dill** also prefers full sun and moderate fertility. It is less [[drought-tolerant-planting-design]] and benefits from consistent moisture. Bolting is triggered by heat and long days; successional sowing every 2–3 weeks extends the [[harvest-window-cannabis]]. Dill does not transplant well — [[comparison-seed-balls-vs-direct-seeding]] is strongly preferred.
 
 ### Fennel
 - Thrives in poor to average soils; overly rich soil produces lush foliage at the expense of bulb formation

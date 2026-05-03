@@ -135,3 +135,9 @@ as important for reducing adverse outcomes and maximizing therapeutic benefit.
 - [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
 - [[lsd-set-and-setting-framework]]
 - [[psychedelic-harm-reduction]]
+
+[[stropharia-cubensis]]
+
+[[psychedelic-set-and-setting]]
+
+[[psychedelic-integration-guide]]

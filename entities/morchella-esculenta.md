@@ -36,11 +36,11 @@ sources:
 - **Genus:** Morchella
 - **Species:** M. esculenta
 
-Originally described by Linnaeus in 1753 as *Phallus esculentus*, it was transferred to *Morchella* by Persoon in 1801. Molecular phylogenetic studies since the 2010s have significantly revised *Morchella* taxonomy. Richard et al. (2015) proposed that the traditional *M. esculenta* species concept in North America comprises a cryptic species complex (the *M. esculenta* clade), with distinct phylogenetic species separated by geography. European *M. esculenta* sensu stricto appears restricted to Europe and western Asia.
+Originally described by Linnaeus in 1753 as *Phallus esculentus*, it was transferred to *Morchella* by Persoon in 1801. Molecular phylogenetic studies since the 2010s have significantly revised *Morchella* taxonomy. Richard et al. (2015) proposed that the traditional *M. esculenta* species concept in [[neurotropic-fungi-in-north-america]] comprises a [[cryptic-species]] complex (the *M. esculenta* clade), with distinct phylogenetic species separated by geography. European *M. esculenta* sensu stricto appears restricted to Europe and western Asia.
 
 ## Morphology
 
-The fruiting body is immediately recognizable by its distinctive pitted cap and elongated stem.
+The [[fruiting-body-development]] is immediately recognizable by its distinctive pitted cap and elongated stem.
 
 ### Cap (Apothecium)
 
@@ -52,7 +52,7 @@ Cylindrical, often slightly swollen at the base, 3–9 cm tall and 1–4 cm thic
 
 ### Flesh
 
-Thin, brittle, and waxy. Both cap and stem are hollow when cut longitudinally, with a single continuous internal chamber (not divided by cottony partitions, which would indicate *Verpa* species). Spore print is creamy yellow to buff.
+Thin, brittle, and waxy. Both cap and stem are hollow when cut longitudinally, with a single continuous internal chamber (not divided by cottony partitions, which would indicate *Verpa* species). [[spore-print-collection]] is creamy yellow to buff.
 
 ### Microscopic Features
 
@@ -60,7 +60,7 @@ Ascospores are ellipsoidal, smooth, hyaline, measuring 20–26 × 12–15 μm, a
 
 ## Distribution and Ecology
 
-*M. esculenta* is found across temperate regions of the Northern Hemisphere: Europe, North America, and Asia. In North America, the *M. esculenta* clade occurs primarily in hardwood forests east of the Rocky Mountains, with some Pacific Northwest populations.
+*M. esculenta* is found across temperate regions of the Northern Hemisphere: Europe, North America, and Asia. In North America, the *M. esculenta* clade occurs primarily in hardwood forests east of the Rocky Mountains, with some [[psilocybin-north-america-pacific-northwest]] populations.
 
 ### Habitat and Substrate
 
@@ -70,7 +70,7 @@ Most often found in hardwood forests dominated by ash (*Fraxinus*), tulip poplar
 
 The nutritional mode has been debated for decades. Current evidence suggests *M. esculenta* is not a strict mycorrhizal symbiont but may have facultative root associations. It is more accurately described as a **saprotroph** or **weak parasite** fruiting in response to disturbance:
 
-- **Dead or dying trees:** Morels frequently fruit near recently dead elms, ash, or tulip poplars, exploiting root zone decomposition.
+- **Dead or dying trees:** Morels frequently fruit near recently dead elms, ash, or tulip poplars, exploiting root zone [[decomposition]].
 - **Fire disturbance:** In western North America, morels fruit prolifically 1–3 years after forest fires. This behavior is more characteristic of *Morchella* sect. *Rufobrunnea*, but also occurs in some *M. esculenta* group populations.
 - **Scoured ground:** Flood-deposited alluvium, landscaping disturbances, and old orchard sites can trigger fruiting.
 

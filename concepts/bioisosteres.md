@@ -9,9 +9,9 @@ sources: []
 
 ## Overview
 
-Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate structure activity relationship strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
+Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate [[structure-activity-relationship-medicinal-chemistry]] strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
 
-A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of organic chemistry, pharmacology, structural biology, and ADME optimization.
+A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of [[pericyclic-reactions-organic-chemistry]], pharmacology, structural biology, and ADME optimization.
 
 It is one of the most common tactics used during hit-to-lead and lead optimization campaigns. The concept is powerful because small structural changes can produce large biological consequences when they affect hydrogen bonding, pKa, conformation, lipophilicity, or metabolic stability.
 
@@ -23,7 +23,7 @@ The older term isostere referred to atoms or groups with similar valence electro
 
 Medicinal chemists extended this idea into bioisosterism when they noticed that chemically related substitutions could preserve biological activity. Classical bioisosteres were originally guided by size, valence, and electron count.
 
-Modern bioisosteres are guided by three-dimensional shape, electrostatic potential, hydrogen-bonding pattern, conformational effects, solvation, and synthetic accessibility. The modern usage is therefore empirical and context-dependent rather than a strict mollison soil elements rule.
+Modern bioisosteres are guided by three-dimensional shape, electrostatic potential, hydrogen-bonding pattern, conformational effects, solvation, and synthetic accessibility. The modern usage is therefore empirical and context-dependent rather than a strict [[mollison-soil-elements-periodic-table]] rule.
 
 A group is a bioisostere only relative to a particular molecule, target, assay, and optimization goal.
 
@@ -83,7 +83,7 @@ Aromatic rings often contribute hydrophobic contact, pi stacking, shape, and vec
 
 Thiophene, furan, and other heteroaromatics can preserve shape while changing electronics, but some may form reactive metabolites. Saturated replacements such as bicyclo[1.1.1]pentane, cubane, bicyclo[2.1.1]hexane, or spirocycles can add three-dimensionality and reduce aromatic count.
 
-These saturated isosteres are attractive in modern medicinal chemistry because high aromaticity is often associated with poor solubility and promiscuity. The tradeoff is synthetic complexity, limited commercial availability, and uncertain binding geometry compared with a flat phenyl ring.
+These saturated isosteres are attractive in modern [[structure-activity-relationship-medicinal-chemistry]] because high aromaticity is often associated with poor solubility and promiscuity. The tradeoff is synthetic complexity, limited commercial availability, and uncertain binding geometry compared with a flat phenyl ring.
 
 Ring replacement should be tested with structural models, matched molecular pairs, and property measurements rather than aesthetic similarity alone.
 

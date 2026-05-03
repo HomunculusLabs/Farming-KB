@@ -42,7 +42,7 @@ PIHKAL entry #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
 
 ## Extensions and Commentary
 
-Here is another example of the presentation of a compound for which there has not yet been an effective level determined. Why? For a very good reason. This is an example of a whole class of compounds that I have called the pseudos, or the gamma-compounds. Pseudo- as a prefix in the literary world generally stands for "false." A pseudopod is a thing that looks like a foot, but isn't one. A pseudonym is a fictitious name. But in chemistry, it has quite a different meaning. If something has a common name, and there is a second form (or isomer, or shape, or orientation) that is possible and it doesn't have a common name, it can be given the name of the first form with a Rpseudo-S attached. Ephedrine is the erythro-isomer of N-methyl-beta-hydroxyamphetamine. There is a second stereoisomer, the threo- isomer, but it has no trivial name. So it is called pseudoephedrine, or the "Sudafed" of sinus decongestant fame.
+Here is another example of the presentation of a compound for which there has not yet been an effective level determined. Why? For a very good reason. This is an example of a whole class of compounds that I have called the pseudos, or the gamma-compounds. Pseudo- as a prefix in the literary world generally stands for "false." A pseudopod is a thing that looks like a foot, but isn't one. A pseudonym is a fictitious name. But in chemistry, it has quite a different meaning. If something has a common name, and there is a second form (or isomer, or shape, or orientation) that is possible and it doesn't have a common name, it can be given the name of the first form with a Rpseudo-S attached. Ephedrine is the erythro-isomer of [[n-methyl-pea-entity]]-beta-hydroxyamphetamine. There is a second stereoisomer, the threo- isomer, but it has no trivial name. So it is called pseudoephedrine, or the "Sudafed" of sinus decongestant fame.
 
 The pseudo-psychedelics are the 2,4,6-trisubstituted counterparts of the 2,4,5-trisubstituted psychedelics. Almost all of the 2,5-dimethoxy-4-something-or-other compounds are active and interesting whether they be phenethylamines or amphetamines, and it is an exciting fact that the 2,6-dimethoxy-4-something-or-other compounds are going be just as active and just as interesting. A number of examples have already been mentioned. TMA-2 is 2,4,5-trimethoxyamphetamdom (a 2,5-dimethoxy-substituted compound with a methoxyl at the 4-position). The pseudo- analogue is TMA-6 (2,4,6-trimethoxyamphetamine) and it is every bit as potent and
 
@@ -74,7 +74,7 @@ A solution of LAH (20 mL of a 1 M solution in THF) was cooled, under He to 0 deg
 
 ## Safety Notes
 
-gamma-2C-T-4 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
+gamma-2C-T-4 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited [[shulgin-safety-principles-self-experimentation]]. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 

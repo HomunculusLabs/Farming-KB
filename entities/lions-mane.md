@@ -20,7 +20,7 @@ sources:
 
 # Lion's Mane
 
-**Lion's Mane** (*Hericium erinaceus*) is a species of edible and medicinal mushroom belonging to the tooth fungus group, recognized for its distinctive cascading white spines that resemble a lion's mane. It has been used for centuries in traditional Chinese and Japanese medicine as a tonic for the nervous system, digestive tract, and general vitality. In recent decades, Lion's Mane has attracted significant scientific attention for its unique ability to stimulate nerve growth factor (NGF) synthesis, positioning it as one of the most promising natural nootropics and neuroprotective agents.
+**Lion's Mane** (*[[cancer-medicinal-mushrooms-hericium-erinaceus]]*) is a species of edible and [[medicinal-mushroom-immune-modulation]] belonging to the tooth fungus group, recognized for its distinctive cascading white spines that resemble a lion's mane. It has been used for centuries in traditional Chinese and Japanese medicine as a tonic for the nervous system, digestive tract, and general vitality. In recent decades, Lion's Mane has attracted significant scientific attention for its unique ability to stimulate nerve growth factor (NGF) synthesis, positioning it as one of the most promising natural nootropics and neuroprotective agents.
 
 ## Taxonomy and Classification
 
@@ -34,18 +34,18 @@ sources:
 | Genus | *Hericium* |
 | Species | *H. erinaceus* |
 
-The species was first described as *Hydnum erinaceus* by Carl Linnaeus in 1753 and later reclassified into the genus *Hericium*. The genus name derives from the Latin *hericius* (hedgehog), referring to the spiny fruiting body. Several related species within *Hericium* share the characteristic spined morphology: *H. coralloides* (coral hedgehog), *H. americanum* (bear's head), and *H. erinaceus* is the most commercially significant and best studied.
+The species was first described as *Hydnum erinaceus* by Carl Linnaeus in 1753 and later reclassified into the genus *Hericium*. The genus name derives from the Latin *hericius* (hedgehog), referring to the spiny [[fruiting-body-development]]. Several related species within *Hericium* share the characteristic spined morphology: *H. coralloides* (coral hedgehog), *H. americanum* (bear's head), and *H. erinaceus* is the most commercially significant and best studied.
 
 ## Morphology
 
 Lion's Mane is one of the most visually distinctive mushrooms in nature, unlikely to be confused with any toxic species:
 
-- **Fruiting body**: 5–25 cm in diameter, forming a single, unbranched mass of cascading, soft, pendant spines. In wild specimens, the spines are typically 1–6 cm long, white to cream-colored when fresh, yellowing to brownish with age. Cultivated forms tend to produce more compact, spherical fruiting bodies.
+- **Fruiting body**: 5–25 cm in diameter, forming a single, unbranched mass of cascading, soft, pendant spines. In [[strain-isolation-from-wild-specimens]], the spines are typically 1–6 cm long, white to cream-colored when fresh, yellowing to brownish with age. Cultivated forms tend to produce more compact, spherical fruiting bodies.
 - **Spines**: The defining feature — soft, flexible, downward-hanging spines (teeth) that cover the entire surface of the fruiting body. These are the fertile surface from which basidiospores are released. The spines are edible and have a texture often compared to crab meat or lobster.
 - **Stipe**: Short or absent; the fruiting body typically grows directly from the substrate or from a very short, lateral stem.
-- **Spores**: White spore print. Spores are spherical to broadly ellipsoid, 5–7 × 5–6 µm, smooth, amyloid.
+- **Spores**: White [[spore-print-collection]]. Spores are spherical to broadly ellipsoid, 5–7 × 5–6 µm, smooth, amyloid.
 - **Flesh**: White, firm but tender when young, becoming tough and woody with age. The texture and flavor are often described as similar to seafood — sweet, mild, with a faintly earthy aroma.
-- **Mycelium**: White, cottony, growing rapidly on hardwood substrates. Forms dense, rope-like strands in mature cultures.
+- **[[mycelium]]**: White, cottony, growing rapidly on hardwood substrates. Forms dense, rope-like strands in mature cultures.
 
 ## Distribution and Ecology
 

@@ -134,7 +134,7 @@ GDP's cultural impact extends beyond cannabis into mainstream media. The strain 
 ## See Also
 
 - [[og-kush]] — Another foundational Californian cannabis strain
-- [[purple-haze]] — Classic sativa with purple coloration
+- [[amnesia-haze]] — Classic sativa with purple coloration
 - [[sour-diesel]] — Sativa-dominant strain with contrasting energetic effects
 - [[jack-herer]] — Iconic hybrid named after the cannabis activist
 - [[cannabis-indica]] — Indica subspecies background

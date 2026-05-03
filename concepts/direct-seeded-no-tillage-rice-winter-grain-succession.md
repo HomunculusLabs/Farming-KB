@@ -16,7 +16,7 @@ sources:
 # Direct-Seeded No-Tillage Rice and Winter Grain Succession
 
 Direct-seeded, no-tillage, winter grain and rice succession in a clover cover is the
-central practical method developed by Masanobu Fukuoka. It is a complete rice and
+central practical method developed by [[masanobu-fukuoka]]. It is a complete rice and
 barley cropping system that eliminates plowing, chemical fertilizers, pesticides,
 prepared compost, and weeding. Fukuoka consistently harvested approximately 22
 bushels (1,300 pounds) each of winter grain and rice per quarter-acre using this
@@ -38,13 +38,13 @@ a thick mulch layer. If chicken droppings are available, these are scattered ove
 straw as well.
 
 Before the New Year, clay pellets containing rice seed are formed and scattered over
-the straw mulch. The winter grain continues to grow through the cold months while the
+the [[fukuoka-soil-fertility-straw-mulch]]. The winter grain continues to grow through the cold months while the
 rice seed remains dormant inside the clay pellets. At this point, there is essentially
 nothing left to do until the winter grain harvest.
 
 ## Spring and Summer Management
 
-In late May, the winter grain is harvested. By this time, the clover cover crop has
+In late May, the winter grain is harvested. By this time, the clover [[cover-crop-species-comparison]] has
 grown luxuriantly and small rice shoots have emerged from the clay pellets. After
 harvesting, drying, and threshing the winter grain, all of the grain straw is again
 scattered uncut over the field.
@@ -53,14 +53,14 @@ The field is then flooded for four to five days. This temporary flooding weakens
 clover cover sufficiently to allow the rice shoots to break through and establish
 themselves, but does not kill the clover. During June and July, the field is left
 unirrigated. In August, water is run through the drainage ditches once every week or
-ten days, providing minimal moisture management without the continuous flooding
+ten days, providing minimal [[mushroom-casing-moisture-management]] without the continuous flooding
 practiced in conventional rice cultivation.
 
 ## The Role of Clover as Living Mulch
 
-Clover, particularly ladino clover, serves as the critical living ground cover in this
+Clover, particularly ladino clover, serves as the critical living [[white-clover-ground-cover]] in this
 system. It performs multiple simultaneous functions: it fixes atmospheric nitrogen,
-prevents soil erosion, suppresses undesirable weed species through competition, and
+prevents [[soil-erosion-control]], suppresses undesirable weed species through competition, and
 maintains soil structure and moisture. Rather than fighting weeds through cultivation
 or herbicides, the system uses clover to outcompete unwanted plants.
 

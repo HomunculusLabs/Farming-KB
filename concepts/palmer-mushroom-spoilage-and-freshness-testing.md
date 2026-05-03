@@ -9,7 +9,7 @@ sources: []
 
 1|---
      2|title: Mushroom Spoilage, Freshness, and Safety Testing
-     3|tags: [mushroom-safety, foraging, mycology, julius-palmer, food-safety, mushroom-toxicology, identification]
+     3|tags: [mushroom-safety, foraging, [[mycology]], [[julius-palmer]], [[ingham-coli-compost-tea-food-safety]], [[mushroom-toxicology-palmer-theory]], identification]
      4|date: 2026-04-28
      5|updated: 2026-04-28
      6|sources:
@@ -21,9 +21,9 @@ sources: []
     12|Julius Auboineau Palmer, one of America's earliest mycological writers working
     13|in the 1870s and 1880s, documented extensive personal experience with mushroom
     14|poisoning, spoilage, and the critical importance of freshness. His work reveals
-    15|that many cases historically attributed to inherent mushroom toxicity actually
+    15|that many cases historically attributed to inherent [[mushroom-toxicity-identification-warnings]] actually
     16|result from consuming specimens that have undergone chemical changes through
-    17|decomposition, water absorption, or environmental contamination.
+    17|[[decomposition]], water absorption, or environmental contamination.
     18|
     19|## The Chemistry of Spoilage in Edible Species
     20|

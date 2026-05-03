@@ -24,7 +24,7 @@ sources:
 
 **Withania somnifera**, commonly known as **ashwagandha**, winter cherry, or Indian ginseng, is an evergreen shrub in the nightshade family (Solanaceae). Native to the dry regions of India, North Africa, and the Middle East, it is one of the most important herbs in Ayurvedic medicine, where it has been used for over 3,000 years as a rasayana (rejuvenating tonic). The name "ashwagandha" derives from Sanskrit — *ashva* (horse) and *gandha* (smell) — referring to the root's characteristic horse-like aroma and the traditional belief that it imparts the vigor and strength of a horse.
 
-Modern pharmacological research has validated many of ashwagandha's traditional uses, particularly its adaptogenic, anxiolytic, anti-inflammatory, and immunomodulatory properties. It is one of the most extensively researched adaptogenic herbs, with over 200 published clinical trials.
+Modern pharmacological research has validated many of ashwagandha's traditional uses, particularly its adaptogenic, anxiolytic, [[medicinal-mushroom-antioxidant-anti-inflammatory]], and immunomodulatory properties. It is one of the most extensively researched [[adaptogenic-herbs-guide]], with over 200 published [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]].
 
 ## Taxonomy and Botany
 
@@ -49,10 +49,10 @@ Ashwagandha is a woody, branching shrub growing to 35–75 cm tall. The leaves a
 | Soil type | Sandy loam, well-draining, pH 7.5–8.0 |
 | Altitude | Up to 1,500 m |
 | Propagation | Seeds (direct sowing or nursery) |
-| Growing season | 150–180 days |
+| [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] | 150–180 days |
 | Root harvest | 180–200 days after sowing |
 
-India is the world's largest producer, with the states of Rajasthan, Madhya Pradesh, and Gujarat accounting for the majority of cultivation. The plant is drought-tolerant once established and requires minimal irrigation.
+India is the world's largest producer, with the states of Rajasthan, Madhya Pradesh, and Gujarat accounting for the majority of cultivation. The plant is [[drought-tolerant-planting-design]] once established and requires minimal irrigation.
 
 ## Phytochemistry
 
@@ -78,7 +78,7 @@ The primary bioactive constituents of ashwagandha are **withanolides** — a gro
 - **Sitoindosides** — steroidal glycosides with anti-stress activity
 - **Iron** — root contains approximately 3.0 mg/g (notably iron-rich)
 - **Flavonoids** — kaempferol and quercetin derivatives
-- **Amino acids** — including tryptophan, which may contribute to serotonergic effects
+- **Amino acids** — including [[tryptophan]], which may contribute to serotonergic effects
 
 ## Pharmacological Actions
 

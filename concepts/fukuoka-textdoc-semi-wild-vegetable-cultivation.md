@@ -15,7 +15,7 @@ sources:
 
 # Semi-Wild Vegetable Cultivation Methods
 
-Fukuoka's approach to vegetable growing represents some of his most practical and accessible
+Fukuoka's approach to [[fukuoka-straw-vegetable-growing]] represents some of his most practical and accessible
 teachings. Rather than the intensive, pesticide-dependent methods of conventional gardening,
 he advocates a "semi-wild" approach where vegetables are scattered among weeds and clover,
 allowed to grow with minimal intervention, and even encouraged to produce wild hybrids.
@@ -28,9 +28,9 @@ know where, when, and how to grow. By sowing a mixture of many field crops, allo
 grow naturally, and observing which thrive and which do not, one finds that, when grown in the
 hands of nature, crops superior to what would normally be imagined can be obtained.
 
-The basic aim of a natural rotation system is to permanently preserve nature through:
+The basic aim of a natural [[jeavons-crop-rotation-system]] is to permanently preserve nature through:
 
-- Soil enrichment with leguminous green manure plants
+- Soil enrichment with leguminous [[fukuoka-natural-cover-grass-green-manure]] plants
 - Replenishment of organic materials with gramineous plants
 - Deep working and conditioning of the soil with root vegetables
 - Reduced disease and pest damage through segregation of key vegetable families
@@ -42,9 +42,9 @@ fertilizers, pesticide application, and weeding.
 
 ## Scattering Seed on Unused Land
 
-What Fukuoka means by "semi-wild" cultivation is a method of simply scattering vegetable seed
+What Fukuoka means by "semi-wild" cultivation is a method of simply scattering [[vegetable-seed-and-transplant-guide]]
 in fields, orchards, on earthen levees, or on any open, unused land. For most vegetables,
-mixed sowing with ladino clover gradually gives a vegetable garden with a cover of clover. The
+mixed sowing with ladino clover gradually gives a [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]] with a cover of clover. The
 idea is to pick a good time during the sowing season and either scatter or drill a seed
 mixture of clover and many vegetables among the weeds. This will yield surprisingly large
 vegetables.
@@ -109,7 +109,7 @@ Members of the Gourd family such as bottle gourd and chayote may be grown on slo
 allowed to climb up tree trunks. A single hill of overwintered chayote will spread out over a
 100-square-yard area and bear 600 fruit. Cucumbers should be of varieties that trail well
 along the ground. The same is true for melons, squash, and watermelons. These latter have to
-be protected from weeds at the seedling stage, but once they get a little larger, they are
+be protected [[liquid-fertilizer-from-weeds]] at the seedling stage, but once they get a little larger, they are
 strong crops.
 
 Yam and sweet potato grow well at the foot of the orchard shelterbelt. These are especially

@@ -120,7 +120,9 @@ concentrations can vary depending on the fish species and processing method used
 - Store in a sealed container in a cool, dark place for 6 to 12 months; proper
   fermentation with sugar preserves stability and prevents putrefaction
 
-## Related Questions
+## Related
+
+- [[comparison-fish-hydrolysate-vs-fish-emulsion]] Questions
 - [[query-how-to-make-your-own-organic-fertilizer-at-home]]
 - [[query-how-to-make-korean-natural-farming-inputs]]
 - [[query-how-to-make-compost-tea-for-my-plants]]
