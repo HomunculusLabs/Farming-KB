@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Thailand Permaculture Project
 
-A permaculture project was undertaken at an orphanage in Thailand, designed to create a self-sustaining landscape that integrates water management, food production, building with local materials, and community education.
+A [[permaculture]] project designed by [[sepp-holzer]] was undertaken at an orphanage in Thailand, designed to create a self-sustaining landscape that integrates water management, food production, building with local materials, and community education.
 
 
 ## Site Conditions
@@ -22,7 +22,7 @@ The roughly 50-hectare plot of land directly borders intensively farmed paddy fi
 The central design feature involves shaping approximately 50 hectares of land into ponds arranged in the form of the words "LOVE ~ PEACE." Water is diverted into the first letter 'L' and back out at the final letter 'E,' with the letter 'E' shaped into the deepest pond.
 
 ### Pond Design Principles
-Within the individual ponds, deep and shallow areas accommodate the different requirements of various types of fish, crayfish, crabs, and mussels. Different depths of water create areas with different temperatures. This way problems such as a lack of oxygen or the pond becoming overgrown can be minimised -- a principle also applied at the [[holzer-raised-bed-design-principles]] in Austria.
+Within the individual ponds, deep and shallow areas accommodate the different requirements of various types of fish, crayfish, crabs, and mussels (see [[aquaculture-in-permaculture]]). Different depths of water create areas with different temperatures. This way problems such as a lack of oxygen or the pond becoming overgrown can be minimised -- a principle also applied at the [[holzer-raised-bed-design-principles]] in Austria.
 
 The result is a water garden with many uses, enclosed by a raised bed. A lake with an island, on which an earth cellar will be built, completes the plan.
 

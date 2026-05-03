@@ -19,13 +19,13 @@ thematic paper on [[hallucinogenic-mushrooms-european-trends]] as an emerging tr
 ## Chemistry and Mechanism of Action
 
 Psilocybin and psilocin are classified as indolealkylamines
-(tryptamines), belonging to the same chemical group as LSD. They are
-structurally similar to the neurotransmitter serotonin (5-
+(tryptamines), belonging to the same chemical group as [[lsd]]. They are
+structurally similar to the neurotransmitter [[serotonin]] (5-
 hydroxytryptamine or 5-HT). Psilocybin (4-phosphoryloxy-N,N-
 dimethyltryptamine, or 4-PO-DMT) is the phosphate ester of psilocin
 (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT). Psilocybin is more
 stable in air and is water soluble, but it is converted in the body
-into psilocin, which is the pharmacologically active compound.
+into [[psilocin]], which is the pharmacologically active compound. Alongside [[psilocybin]] and psilocin, [[baeocystin]] and [[norbaeocystin]] are also present in many species.
 
 Psilocin acts on the serotonin system as a 5-HT2A post-synaptic
 agonist or partial agonist. Beside psilocybin and psilocin, two
@@ -39,9 +39,8 @@ Coprinaceae (Copelandia and Panaeolus genera), and Cortinariaceae
 ## Potency and Dosage
 
 Mushroom potency depends on the species or variety, their origin,
-growing conditions, and age. The most potent species (e.g. Psilocybe
-semilanceata) can contain up to 1% psilocybin, with even higher
-potency reported in specific species like Psilocybe azurescens and
+growing conditions, and age. The most potent species (e.g. [[psilocybe-semilanceata|Psilocybe semilanceata]]) can contain up to 1% psilocybin, with even higher
+potency reported in specific species like [[psilocybe-azurescens|Psilocybe azurescens]] and
 [[psilocybe-bohemica-central-european]]. In other species such as [[psilocybe-cubensis-profile]],
 psilocybin and psilocin concentrations reach up to 0.6%. These values
 are for initial orientation only, as concentrations vary considerably.

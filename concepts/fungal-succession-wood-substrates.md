@@ -41,7 +41,7 @@ fungi that were already present on or in the living tree.
 These include [[endophytic-fungi]] that were latent within the
 wood, bark fungi that invade through wounds or branch stubs,
 and pioneer saprotrophs that rapidly colonize exposed wood
-surfaces. Among basidiomycetes, early colonizers often
+surfaces. Among [[basidiomycete-phylum-guide|basidiomycetes]], early colonizers often
 include species with low decay specificity that can utilize
 a range of wood components. These species tend to be
 fast-growing but may be outcompeted as the wood chemistry
@@ -95,7 +95,7 @@ communities.
 ### Forest Type and Climate
 
 Tropical forests support more rapid and diverse fungal
-succession than temperate or boreal forests, where lower
+succession than temperate or boreal forests (see [[biodiversity-fungi-temperate-boreal-forests]]), where lower
 temperatures slow decomposition rates. The tree species
 composition of the forest determines the range of wood
 types available, influencing the pool of potential
@@ -121,7 +121,7 @@ resupinate (crust-like) basidiomycetes that form thin,
 inconspicuous fruiting bodies on the underside of logs or
 within cracks in the wood. These tiny resupinate saprotrophs
 are only microscopically visible and are often overlooked
-in biodiversity surveys. Some thin resupinate basidiomycetes
+in [[biodiversity-fungal-biodiversity-estimation-methods|biodiversity surveys]]. Some thin resupinate basidiomycetes
 that are difficult to detect even with careful searching may
 represent a significant proportion of the wood-decomposing
 fungal diversity.

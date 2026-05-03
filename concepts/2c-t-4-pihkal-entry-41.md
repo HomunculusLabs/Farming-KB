@@ -54,14 +54,14 @@ allowing very little sleep."
 
 (with 14 mg) "Very rational, benign, and good humored. The insight and calm
 common to the 2C-T's are present, with less of the push of body-energy which
-makes 2c-t-2-compound-profile|2C-T-2 difficult for some people. There
+which makes [[2c-t-2-compound-profile|2C-T-2]] difficult for some people.
 are no particular visuals. The eyes-closed imagery is very good without being
 compelling. The decline is as gradual and gentle as the onset. I am fully
 capable of making phone calls and other normal stuff. Music is marvelous, and
 the body feels comfortable throughout."
 
 (with 14 mg) "Persistent cold feet, and an uncertain stomach when moving
-around. Brilliant color trails reminiscent of 2c-b-compound-profile|2C-B.
+around. Brilliant color trails reminiscent of [[2c-b-compound-profile|2C-B]].
 But a change is occurring and I can't talk myself out of it. There are dark
 corners. If I were with other people, this would bring out the worst in me,
 which can be pretty bad."
@@ -124,9 +124,9 @@ the body. The drug 2C-T-4 is neither an explosive nor an amino acid.
 
 ## Related Compounds
 
-- 2c-t-2-compound-profile|2C-T-2: The ethylthio homologue; shorter
+- [[2c-t-2-compound-profile|2C-T-2]]: The ethylthio homologue; shorter
   duration (6-8 h), more predictable dosing
-- 2c-t-7-compound-profile|2C-T-7: The heptylthio homologue; longer
+- [[2c-t-7-compound-profile|2C-T-7]]: The heptylthio homologue; longer
   chain, different character
 - [[2c-d-pihkal-entry-23]]: The methylthio parent; much lower potency
   (60-100 mg)
@@ -135,6 +135,6 @@ the body. The drug 2C-T-4 is neither an explosive nor an amino acid.
 
 ## Source
 
-[[pihkal-introduction-and-methodology]] by Alexander and Ann Shulgin,
+[[pihkal-introduction-and-methodology]] by [[alexander-shulgin|Alexander Shulgin]] and [[ann-shulgin|Ann Shulgin]],
 Entry #41
 - [[qualitative-comments-methodology-pihkal]]

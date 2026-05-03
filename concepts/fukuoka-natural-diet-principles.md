@@ -10,7 +10,7 @@ sources:
 
 # Fukuoka Natural Diet Principles
 
-[[natural-farming-fukuoka]] extended his natural farming philosophy to encompass diet and human health. For Fukuoka, the relationship between farming and diet was inseparable: if one is to eat a diet that is closely connected to the soil, one cannot remain a mere observer of the natural world. His dietary principles challenge modern industrial food systems and propose a framework for eating that is as radically simple as his farming methods.
+[[masanobu-fukuoka]] extended his natural farming philosophy — as detailed in [[fukuoka-one-straw-revolution-philosophy]] — to encompass diet and human health. For Fukuoka, the relationship between farming and diet was inseparable: if one is to eat a diet that is closely connected to the soil, one cannot remain a mere observer of the natural world. His dietary principles challenge modern industrial food systems and propose a framework for eating that is as radically simple as his farming methods.
 
 Food, for Fukuoka, was not merely nutrition but a medium through which humans maintain their connection to nature and place. The act of eating is the most direct and frequent point of contact between human beings and the natural world, occurring three or more times daily throughout an entire lifetime. It is through food that humans are most intimately connected to the land.
 
@@ -22,7 +22,7 @@ Food, for Fukuoka, was not merely nutrition but a medium through which humans ma
 
 Eat foods that grow naturally in your immediate environment during the current season. This principle mirrors the "nothing" philosophy of his farming: if a food requires extraordinary effort to grow, transport, or store, it is probably not part of a natural diet.
 
-Fukuoka ate primarily from his mountain farm in Shikoku, Japan — brown rice, vegetables, citrus fruits, and wild foods. He argued that the human body is adapted to the foods available in the local environment and that seasonal eating aligns the body's metabolic rhythms with natural cycles. In summer the body craves cooling foods; in winter, warming ones. This seasonal attunement is disrupted by the year-round availability of imported produce in modern food systems.
+[[masanobu-fukuoka]] ate primarily from his mountain farm in Shikoku, Japan — brown rice, vegetables, citrus fruits, and wild foods. He argued that the human body is adapted to the foods available in the local environment and that seasonal eating aligns the body's metabolic rhythms with natural cycles. In summer the body craves cooling foods; in winter, warming ones. This seasonal attunement is disrupted by the year-round availability of imported produce in modern food systems.
 
 ### Whole and Unprocessed
 
@@ -56,7 +56,7 @@ The dietary principles flow directly from the farming philosophy. [[fukuoka-natu
 
 ## Critique of Modern Food Systems
 
-Fukuoka's dietary principles constitute an implicit critique of the globalized food system. The transportation of food across thousands of miles, the reliance on chemical preservatives and packaging, the industrial processing that strips foods of their natural complexity — all of these represent the same kind of human arrogance and separation from nature that he identified in modern agriculture. The modern eater, disconnected from the source of their food, is in the same position as the modern farmer, disconnected from the living processes of the soil.
+Fukuoka's dietary principles constitute an implicit critique of the globalized food system. The transportation of food across thousands of miles, the reliance on chemical preservatives and packaging, the industrial processing that strips foods of their natural complexity — all of these represent the same kind of human arrogance and separation from nature that he identified in [[fukuoka-critique-modern-agriculture]]. The modern eater, disconnected from the source of their food, is in the same position as the modern farmer, disconnected from the living processes of the soil.
 
 
 
