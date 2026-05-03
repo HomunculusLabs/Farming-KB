@@ -52,7 +52,7 @@ pests. No infection took place.
 ## The Indore Process
 
 Howard recognized that the entire basis for eliminating disease in
-plants and animals was the fertility of the soil. He founded the
+and animals was the fertility of the soil. He founded the
 Institute of Plant Industry at Indore, three hundred miles northeast
 of Bombay, where he had complete freedom of action. He accordingly
 developed the "Indore process" of humus production, a mixture of
@@ -119,8 +119,7 @@ hardier pests.
 
 ## Legacy
 
-Howard's work demonstrated the profound connection between soil
-health, plant health, animal health, and human health. His
+Howard's work demonstrated the profound connection between soil health, plant health, animal health, and human health. His
 insistence that the soil itself, properly managed through organic
 methods, could maintain its own fertility without chemical inputs
 remains a foundational principle of sustainable agriculture and

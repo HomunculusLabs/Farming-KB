@@ -16,10 +16,10 @@ type: concept
 # Hash Making and Trichome Extraction
 Chapter 17 of [[greg-green]]'s Cannabis Grow Bible covers the art of making
 hashish from cannabis plants. This chapter explains trichome biology,
-extraction methods, screening techniques, water extraction, and how to
+comparison cannabis extraction, screening techniques, green cannabis dry, and how to
 press skuff into hashish.
 ## Understanding Trichomes
-Cannabinoids are the major drugs produced by the cannabis plant. The
+Cannabinoids are the major drugs produced by the and recovery. The
 stalked capitate trichomes are the primary cannabinoid-producing glands.
 Key facts about trichomes:
 - Located all over the female flower's surface.

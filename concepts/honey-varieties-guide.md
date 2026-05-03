@@ -26,7 +26,7 @@ consumers choose the right honey for culinary or therapeutic use.
 ### Clover Honey
 
 Light amber color with a mild, sweet, floral flavor. One of the most common
-varieties in North America. White and sweet clover are the primary sources.
+varieties in north america. White and sweet clover are the primary sources.
 Low crystallization tendency in liquid form. Excellent general-purpose sweetener
 and a good entry honey for new beekeepers.
 
@@ -39,7 +39,7 @@ Popular at farmers markets for its local character.
 
 ### Manuka Honey
 
-Produced in New Zealand and Australia from the nectar of Leptospermum
+Produced in magic mushrooms australia and Australia from the nectar of Leptospermum
 scoparium (manuka tree). Dark, earthy, slightly bitter flavor. Unique
 non-peroxide antibacterial activity measured on the Unique Manuka Factor
 (UMF) scale. UMF 10+ is considered therapeutic grade. Used topically for
@@ -50,7 +50,7 @@ wound healing and internally for digestive support. See
 
 Dark brown to nearly black with a robust, malty, molasses-like flavor.
 High in antioxidants and minerals compared to lighter honeys. Produced from
-buckwheat (Fagopyrum esculentum) flowers. Excellent for baking and
+buckwheat ([[fagopyrum-esculentum]]) flowers. Excellent for baking and
 marinades. Known traditionally as a cough remedy — studies support its
 effectiveness for nighttime cough suppression in children.
 
@@ -111,5 +111,5 @@ in a water bath at 95F (35C) reliquefies it without degrading enzymes.
 | Cough remedy | Buckwheat, dark honey |
 | Mead making | Orange blossom, wildflower |
 
-See also [[honey-extraction-and-processing]] for post-harvest handling and
+See also [[honey-extraction-and-processing]] for mushroom harvesting post and
 [[bee-forage-plants]] for planting strategies to produce specific honey types.

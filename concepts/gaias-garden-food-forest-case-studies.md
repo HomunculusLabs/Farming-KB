@@ -16,8 +16,7 @@ type: concept
 [[hemenway-accelerated-succession]] presents several real-world food
 forest gardens that demonstrate the principles of
 ecological design in practice. Each case study
-offers unique lessons about adapting food forest
-design to different climates, sites, and goals.
+offers unique lessons about adapting mollison designers temperate to different climates, sites, and goals.
 Together, they prove that the food forest concept
 is not theoretical but practical, productive, and
 achievable for home gardeners.
@@ -36,7 +35,7 @@ overgrown field and systematically transformed it
 into a verdant, productive landscape. They
 understood that wetlands are among the most
 productive ecosystems on the planet, teeming with
-more plants and animals than any farm. When they
+more and animals than any farm. When they
 found that the lowest part of their property had
 been drained and farmed by a previous owner, they
 tore out the dikes and restored the wetland.
@@ -67,8 +66,7 @@ years. But the best part is the food -- it's
 unreal! Every summer we have about twenty students
 here for three weeks. And there's enough fruit
 right here to feed them."
-Every month of the year brings fresh fruit or
-vegetables: cool-season salad greens in midwinter,
+Every month of the year brings fresh fruit or vegetables: cool-season salad greens in midwinter,
 berries in late spring, and branch-breaking loads
 of fruit in summer and fall. Even in December,
 their exotic medlar trees bear a fruit that tastes
@@ -122,7 +120,7 @@ The mountain food forest includes:
 - **Shrubs**: Black and white currants,
   gooseberries, bush cherries, cranberries,
   Siberian pea shrubs
-- **Vines and climbers**: Grapes, scarlet runner
+- **and climbers**: Grapes, scarlet runner
   beans, squash
 - **Ground layer**: Strawberries, miner's lettuce
 - **Medicinals**: Echinacea, St. John's-wort,
@@ -131,7 +129,7 @@ The mountain food forest includes:
 Roxanne Swentzell's garden near Santa Fe,
 New Mexico, demonstrates ecological gardening
 in one of the most challenging environments
-in North America.
+in north america.
 
 ### From Gravel Desert to Lush Oasis
 

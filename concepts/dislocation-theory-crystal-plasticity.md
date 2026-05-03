@@ -73,7 +73,7 @@ Small coherent precipitates are sheared by dislocations through chemical (new in
 
 **Anisotropy**: direction-dependent yield and r-value (Lankford coefficient r = ε_width/ε_thickness). High r >> 1 resists thinning (good for deep drawing). Elastic anisotropy: FCC (Zener ratio A ≈ 1), BCC (A ≈ 2–3 for Fe), HCP (highly anisotropic).
 
-**CPFEM**: crystal plasticity finite element method incorporating orientation and slip physics: dγ^α/dt = γ̇₀|τ^α/τ_c^α|^(1/m)sign(τ^α), with hardening matrix h_αβ coupling slip systems (self = 1, latent q ≈ 1.0–1.4). **VPSC models** treat grains as ellipsoidal inclusions in a homogeneous effective medium for efficient texture simulation.
+**CPFEM**: crystal plasticity [[finite-element-method]] method incorporating orientation and slip physics: dγ^α/dt = γ̇₀|τ^α/τ_c^α|^(1/m)sign(τ^α), with hardening matrix h_αβ coupling slip systems (self = 1, latent q ≈ 1.0–1.4). **VPSC models** treat grains as ellipsoidal inclusions in a homogeneous effective medium for efficient texture simulation.
 
 ## Dislocation Density Evolution and GNDs
 
@@ -85,7 +85,7 @@ Small coherent precipitates are sheared by dislocations through chemical (new in
 
 ## Observation Techniques
 
-**TEM** (two-beam diffraction contrast, invisibility criterion g·b = 0 for Burgers vector determination) is the primary tool. Weak-beam dark field achieves ~1–2 nm resolution for partial dislocations. In-situ TEM observes real-time dislocation motion. Limitations: 2D projection, thin-foil effects. **Etch pits**: simple, large-area surveys, but surface-only, no Burgers vector info, ~1 μm resolution limit. **X-ray topography** (Berg-Barrett, synchrotron): non-destructive bulk imaging, ~1 μm resolution, used for semiconductor wafer quality. **Atom probe tomography**: 3D atomic-scale composition (~0.1–0.3 nm depth resolution) revealing Cottrell atmospheres, solute-decorated dislocations, and precipitate-dislocation interactions. **EBSD**: electron channeling contrast imaging for bulk dislocation observation (~10 nm); orientation gradients for GND density estimation. **HRXRD**: high-resolution X-ray diffraction peak broadening analysis (Williamson-Hall method) for bulk dislocation density measurement.
+**TEM** (two-beam diffraction contrast, invisibility criterion g·b = 0 for Burgers vector determination) is the primary tool. Weak-beam dark field achieves ~1–2 nm resolution for partial dislocations. In situ TEM observes real-time dislocation motion. Limitations: 2D projection, thin-foil effects. **Etch pits**: simple, large-area surveys, but surface-only, no Burgers vector info, ~1 μm resolution limit. **X-ray topography** (Berg-Barrett, synchrotron): non-destructive bulk imaging, ~1 μm resolution, used for semiconductor wafer quality. **Atom probe tomography**: 3D atomic-scale composition (~0.1–0.3 nm depth resolution) revealing Cottrell atmospheres, solute-decorated dislocations, and precipitate-dislocation interactions. **EBSD**: electron channeling contrast imaging for bulk dislocation observation (~10 nm); orientation gradients for GND density estimation. **HRXRD**: high-resolution X-ray diffraction peak broadening analysis (Williamson-Hall method) for bulk dislocation density measurement.
 
 ## Applications
 

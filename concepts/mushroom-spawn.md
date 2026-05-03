@@ -10,7 +10,7 @@ sources:
 # Mushroom Spawn
 
 Mushroom spawn is the vegetative propagating material from
-which cultivated mushrooms grow. In Victorian cultivation,
+which growing gourmet cloning grow. In Victorian cultivation,
 understanding the nature, formation, and management of spawn
 was essential for any successful grower.
 
@@ -74,7 +74,7 @@ It required no artificial heating beyond summer sun, and
 needed only sandy mould and pure droppings, naturally mixed
 by the horses' feet on mill tracks and roads. The natural
 treading created ideal compaction, road-sand improved
-drainage and nutrient retention, and gradual summer heating
+drainage and nutrient retention soil, and gradual summer heating
 produced robust spawn without overheating risk.
 
 ## Quick Spawn Production

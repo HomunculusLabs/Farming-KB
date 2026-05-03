@@ -46,8 +46,7 @@ To a solution of 9.7 g 2-allyl-4,5-dimethoxyphenol in a few mL EtOH, there was a
 
 ## Safety Notes
 
-EMM is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+EMM is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

@@ -18,7 +18,7 @@ fertilizer that can be applied directly without [[composting]].
 ## Breed Selection
 
 ### Meat Breeds
-- **New Zealand White** — The standard meat rabbit. 9-12 lbs mature, 8-10
+- **magic mushrooms australia White** — The standard meat rabbit. 9-12 lbs mature, 8-10
   babies per litter, 65-day finish. Calm, good mothers.
 - **Californian** — Similar to NZW, slightly hardier. 8-10.5 lbs, good
   mothers, good meat-to-bone ratio.

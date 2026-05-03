@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/gartz-growth-promoting-effect-of-brassino
 
 # Stigmasterol
 
-Stigmasterol is a phytosterol (plant-derived steroid alcohol) widely distributed across the plant kingdom. It serves as the chemical precursor for the synthesis of [[homobrassinolide]] and other [[brassinosteroid]] compounds, and plays important structural and signaling roles in plant cell membranes.
+Stigmasterol is a phytosterol (plant-derived steroid alcohol) widely distributed across the plant kingdom. It serves as the chemical precursor for the synthesis of [[homobrassinolide]] and other [[brassinosteroid]] compounds, and plays important structural and signaling roles in and pumps membranes.
 
 ## Chemical Structure
 
@@ -21,7 +21,7 @@ Stigmasterol is abundant in the plant kingdom, occurring in:
 
 - **Legumes**: Especially high concentrations in soybeans (*Glycine max*), calabar beans (*Physostigma venenosum*), and other Fabaceae.
 - **Vegetable oils**: Present in soybean, calabar, and palm oil.
-- **Herbs and spices**: Found in basil, mint, and various medicinal plants.
+- **Herbs and spices**: Found in basil, mint, and various and medicinal plants.
 - **Seeds and nuts**: Distributed across many oilseed crops.
 
 It typically co-occurs with β-sitosterol and campesterol in plant tissues and is often extracted together with these phytosterols during industrial processing of vegetable oils and soy products.
@@ -52,11 +52,11 @@ The synthetic homobrassinolide produced from stigmasterol was subsequently used 
 
 ## Pharmacological and Nutritional Properties
 
-In human nutrition, stigmasterol (along with other phytosterols) competes with dietary cholesterol for absorption in the intestine, reducing serum LDL cholesterol levels. Phytosterol-enriched functional foods are commercially available for this purpose. Stigmasterol has also been investigated for anti-inflammatory, antioxidant, and potential anticancer properties, though clinical evidence remains limited.
+In human nutrition, stigmasterol (along with other phytosterols) competes with dietary cholesterol for absorption in the intestine, reducing serum LDL cholesterol levels. Phytosterol-enriched functional foods are commercially available for this purpose. Stigmasterol has also been investigated for medicinal mushroom antioxidant, antioxidant, and potential anticancer properties, though clinical evidence remains limited.
 
 ## Industrial Extraction and Production
 
-Stigmasterol is commercially extracted as a byproduct of vegetable oil refining, particularly from soybean oil processing. During the refining of crude soybean oil, sterols are concentrated in the unsaponifiable fraction after saponification of fatty acids. The mixed sterol fraction (containing stigmasterol, β-sitosterol, and campesterol) can be further separated through fractional crystallization, column chromatography, or supercritical fluid extraction to isolate individual sterols. Global production of phytosterols has increased substantially due to growing demand for cholesterol-lowering functional foods and dietary supplements. Stigmasterol and its derivatives are also used as precursors in the synthesis of steroid drugs, including corticosteroids and sex hormones, in the pharmaceutical industry.
+Stigmasterol is commercially extracted as a byproduct of vegetable oil refining, particularly from soybean oil processing. During the refining of crude soybean oil, sterols are concentrated in the unsaponifiable fraction after saponification of stable carbon isotope. The mixed sterol fraction (containing stigmasterol, β-sitosterol, and campesterol) can be further separated through fractional crystallization, column chromatography, or supercritical fluid extraction to isolate individual sterols. Global production of phytosterols has increased substantially due to growing demand for cholesterol-lowering functional foods and dietary supplements. Stigmasterol and its derivatives are also used as precursors in the synthesis of steroid drugs, including corticosteroids and sex hormones, in the pharmaceutical industry.
 
 ## Biosynthesis in Plants
 
@@ -73,7 +73,7 @@ The functional differences among these sterols relate primarily to their side-ch
 
 ## Environmental and Ecological Significance
 
-Phytosterols including stigmasterol are released into soil environments through plant litter decomposition and root exudation. In soil, they serve as carbon sources for specific microbial communities and can influence soil microbial ecology. Stigmasterol has been investigated as a biomarker for tracing plant matter inputs in sedimentary environments and archaeological contexts. The resistance of stigmasterol to microbial degradation relative to other organic compounds makes it useful in paleoenvironmental studies for reconstructing past vegetation composition.
+Phytosterols including stigmasterol are released into soil environments through plant biodiversity fungi leaf and root exudation. In soil, they serve as carbon sources for specific microbial communities and can influence soil microbial ecology. Stigmasterol has been investigated as a biomarker for tracing plant matter inputs in sedimentary environments and archaeological contexts. The resistance of stigmasterol to microbial degradation relative to other organic compounds makes it useful in paleoenvironmental studies for reconstructing past vegetation composition.
 
 ## See Also
 

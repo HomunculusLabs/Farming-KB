@@ -16,7 +16,7 @@ type: concept
 # Growing Room Humidification and Climate Control Systems
 
 With the 6-12 air exchanges per hour required during the
-primordia formation period, full humidification within the
+and primordia formation period, full humidification within the
 growing room is difficult if drawing in dry outside air.
 This problem is solved through the conditioning of outside
 air in an intermediate chamber called a preconditioning
@@ -32,7 +32,7 @@ supply several growing rooms, if properly designed.
 
 ### Steam Humidification
 
-In cold climates or during cold winter months, the
+In permaculture designers manual or during cold winter months, the
 preconditioning plenum can be largely humidified using
 steam. Steam provides both moisture and heat. Thermostats
 located in the preconditioning plenum and/or growing room
@@ -89,7 +89,7 @@ design of a preconditioning box.
 ## Thermostat and Humidistat Control
 
 In-house thermostats coupled to solenoid valves regulate
-the cold or hot (steam) water supply. The degree of
+the cold or hot (steam) for water supply. The degree of
 recirculation can be controlled within the growing rooms.
 Pre-conditioning the air quality to 70-80% of desired
 levels is recommended before entry into the growing rooms.

@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate medicinal chemistry strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
+Bioisosteres are atoms, functional groups, rings, or fragments that can replace one another while preserving or improving a molecule's biological behavior. The replacement is not merely decorative; it is a deliberate structure activity relationship strategy for changing potency, selectivity, solubility, permeability, metabolism, or toxicity.
 
 A successful bioisosteric substitution keeps the interactions needed for target recognition while altering liabilities that prevent a lead compound from becoming a useful drug. Bioisosterism sits at the boundary of organic chemistry, pharmacology, structural biology, and ADME optimization.
 
@@ -23,7 +23,7 @@ The older term isostere referred to atoms or groups with similar valence electro
 
 Medicinal chemists extended this idea into bioisosterism when they noticed that chemically related substitutions could preserve biological activity. Classical bioisosteres were originally guided by size, valence, and electron count.
 
-Modern bioisosteres are guided by three-dimensional shape, electrostatic potential, hydrogen-bonding pattern, conformational effects, solvation, and synthetic accessibility. The modern usage is therefore empirical and context-dependent rather than a strict periodic-table rule.
+Modern bioisosteres are guided by three-dimensional shape, electrostatic potential, hydrogen-bonding pattern, conformational effects, solvation, and synthetic accessibility. The modern usage is therefore empirical and context-dependent rather than a strict mollison soil elements rule.
 
 A group is a bioisostere only relative to a particular molecule, target, assay, and optimization goal.
 

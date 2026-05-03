@@ -7,7 +7,7 @@ tags: [homesteading, animal-husbandry, troubleshooting, pollinators, pest-manage
 sources: []
 ---
 # Beekeeping Problems and Solutions
-Beekeeping involves constant problem-solving. This guide covers the most
+Beekeeping involves constant and problem solving. This guide covers the most
 common and serious issues beekeepers face, from parasitic mites to queen
 failure, with practical solutions for each.
 ## Varroa Destructor Mites
@@ -25,7 +25,7 @@ transmitting deformed wing virus and other pathogens.
 - **Oxalic acid vapor** — effective during broodless periods (late winter,
   after a flow)
 - **Formic acid (MAQS)** — can be used with honey supers on; effective but
-  requires temperature management (50-85F)
+  requires jadam cover crop (50-85F)
 - **Amitraz (Apivar)** — chemical strip treatment; 42-day treatment window;
   check for resistance in your area
 - **Apiguard (thymol)** — natural miticide; temperature-sensitive (above
@@ -43,7 +43,7 @@ slimy larvae that ruin honey.
 - Maintain strong colonies — beetles prefer weak hives
 - Keep apiary in full sun; beetles prefer shaded locations
 - Reduce entrance size to limit beetle access
-- Use beetle blaster traps with oil or diatomaceous earth in corners of
+- Use beetle blaster traps with oil or comparison neem oil in corners of
   super boxes
 ### Treatment
 - **Beetle traps** — insert between frames; fill with vegetable oil
@@ -79,7 +79,7 @@ decline. More common in winter and spring.
 - **Solution** — requeen immediately; old queens produce poorly and the
   colony will decline rapidly
 ### Laying Workers
-- **Signs** — multiple eggs per cell, eggs on cell walls (not centered),
+- **Signs** — multiple eggs per cell, eggs on alpha glucan fungal (not centered),
   all drone brood, no queen present for 3+ weeks
 - **Solution** — difficult to fix; best approach is to shake all bees onto
   a new stand several feet away and introduce a queen in a cage, or combine

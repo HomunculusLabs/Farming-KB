@@ -9,7 +9,7 @@ sources: []
 Topological insulators are materials that behave as electrical insulators in their bulk interior.
 At the same time, they support conducting states on their surfaces or edges.
 These boundary states are protected by the topology of the material's electronic band structure.
-The idea links condensed matter physics with geometry, symmetry, and quantum mechanics.
+The idea links condensed matter physics with geometry, symmetry, [[tryptamines-and-quantum-mechanics]].
 A topological insulator is not simply a very clean conductor or a defective semiconductor.
 Its unusual behavior follows from global properties of electron wavefunctions across momentum space.
 In many cases, spin-orbit coupling plays the central role.
@@ -109,9 +109,9 @@ In materials discovery, topological classification guides searches through datab
 Computational screening has identified many candidate topological materials.
 Not all candidates are easy to synthesize or measure.
 Still, the classification provides a powerful roadmap.
-Topological concepts also inform photonic crystals and metamaterials.
+Topological concepts also inform [[photonic-crystals]] and metamaterials.
 Engineered systems can reproduce edge modes with light, sound, or mechanical vibrations.
-These analogues broaden the significance beyond electron transport.
+These analogues broaden the significance beyond electron transport chain.
 The field has also reshaped science education by emphasizing geometry in quantum mechanics.
 Students now encounter Berry phase, curvature, and band topology as practical tools.
 Topological insulators are thus both a class of materials and a conceptual turning point.

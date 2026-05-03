@@ -26,7 +26,7 @@ Ayahuasca is regarded as an "herbal tonic" rather than an illegal drug.
 
 The brew and its raw materials are openly sold in markets with no legal restriction.
 
-This classification reflects deep cultural acceptance -- ayahuasca has been used in the Peruvian Amazon for centuries, and its legal status reflects this indigenous heritage rather than a regulatory decision about psychoactive substances. The entheogen-culture|entheogenic traditions surrounding ayahuasca are deeply rooted in Amazonian culture.
+This classification reflects deep cultural acceptance -- ayahuasca has been used in the Peruvian Amazon for centuries, and its legal status reflects this indigenous heritage rather than a regulatory decision about psychoactive substances. The [[entheogen-culture]]|entheogenic traditions surrounding ayahuasca are deeply rooted in Amazonian culture.
 
 The practical effect is that anyone can purchase ayahuasca ingredients, prepare the brew, and participate in ceremonies without legal interference.
 

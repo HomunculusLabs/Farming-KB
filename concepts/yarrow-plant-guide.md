@@ -72,7 +72,7 @@ Yarrow is one of the best all-around companion plants for a homestead garden:
 - Drought indicator: Yarrow's deep roots make it an excellent indicator of
   soil moisture -- it thrives where many other plants struggle.
 
-Plant yarrow near vegetables, fruit trees, and in pollinator borders. It is
+Plant yarrow near vegetables, comparison pruning fruit, and in pollinator borders. It is
 especially valuable in orchard understories and food forest plantings.
 
 ## Pollinator Plant
@@ -105,7 +105,7 @@ From division:
 - Each division should have several shoots and a portion of the root crown
 - Replant immediately and water well
 
-From cuttings:
+from cuttings:
 - Softwood cuttings in late spring root readily
 - Basal cuttings taken in early spring work well
 

@@ -12,7 +12,7 @@ tags: [vegetables]
 
 ## Choosing for Your Climate Zone
 
-Steve Solomon emphasizes that seed suppliers' trial grounds should be located in
+[[steve-solomon]] emphasizes that seed suppliers' trial grounds should be located in
 roughly the same climatic zone as your garden. He identifies four broad zones:
 
 **Short-season climates:** Northern tier of US states and southern Canada within
@@ -95,7 +95,7 @@ cold-hardy. Kohlrabi stores well in the root cellar after the ground freezes.
 Brussels sprouts are available only as hybrids with no productive OP varieties
 at the time of writing.
 
-**Garlic:** Essential for self-sufficiency. Falls into two main types: hardneck
+**Garlic:** Essential for self sufficiency. Falls into two main types: hardneck
 (bolts, produces scapes, more cold-hardy) and softneck (stores longer, milder).
 Solomon recommends growing multiple varieties to find those best adapted to your
 soil and climate.

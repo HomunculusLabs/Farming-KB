@@ -64,7 +64,7 @@ how these proteins interact with cell membranes and trigger immune
 responses.
 
 ### Cultivation and Habitat
-In nature, Ganoderma tsugae grows primarily on dead or dying hemlock
+in nature, Ganoderma tsugae grows primarily on dead or dying hemlock
 trees (Tsuga canadensis, Tsuga heterophylla, and related species) in
 temperate forests. The species can be cultivated using methods similar
 to those developed for Ganoderma lucidum, including log cultivation and
@@ -76,7 +76,7 @@ Ganoderma tsugae is used similarly to reishi (Ganoderma lucidum) in
 traditional medicine. It is prepared as teas, decoctions, and
 powdered extracts. While Ganoderma lucidum is more widely known in
 traditional Chinese medicine, Ganoderma tsugae has been used
-indigenously in North America and is increasingly recognised as a
+indigenously in north america and is increasingly recognised as a
 viable substitute or complement to G. lucidum in therapeutic
 applications.
 

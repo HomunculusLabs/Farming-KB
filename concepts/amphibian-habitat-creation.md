@@ -122,7 +122,7 @@ Creating a range of hydroperiods supports the greatest amphibian diversity. Temp
 Do not plant invasive aquatic species (purple loosestrife, water hyacinth, parrot's feather); see [[invasive-species-management]]
 ## Chytrid Awareness
 ### Chytrid Fungi (Bd and Bsal)
-The amphibian chytrid fungi are the most devastating wildlife diseases documented, causing declines in 500+ species worldwide. **Bd** (*Batrachochytrium dendrobatidis*) infects keratinized skin and spreads via water and equipment. **Bsal** (*B. salamandrivorans*) specifically targets salamanders — not yet in North America but poses an extreme threat. Prevention is critical:
+The amphibian chytrid fungi are the most devastating wildlife diseases documented, causing declines in 500+ species worldwide. **Bd** (*[[batrachochytrium-dendrobatidis]]*) infects keratinized skin and spreads via water and equipment. **Bsal** (*B. salamandrivorans*) specifically targets salamanders — not yet in North America but poses an extreme threat. Prevention is critical:
 - **Never move amphibians** between water bodies
 - **Clean equipment** with 10% bleach between sites
 - **Never release** captive amphibians into the wild

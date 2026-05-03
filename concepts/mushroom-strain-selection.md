@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, species, potency, species-profiles, psychopharmacology, genetics]
-sources: []
+sources:
+  - "raw/papers/terence-mckenna-food-of-the-gods.md"
 ---
 ## Overview
 "Strain" in the context of Psilocybe cubensis cultivation refers to a selectively propagated variety with distinct visual and growth characteristics. Unlike botanical strains, mushroom strains are not genetically distinct subspecies — all P. cubensis strains can interbreed and are the same species. The differences between strains are analogous to dog breeds: the same species with varying traits selected for by cultivators. Choosing the right strain depends on your goals: yield, potency, ease of cultivation, visual appeal, or personal preference.

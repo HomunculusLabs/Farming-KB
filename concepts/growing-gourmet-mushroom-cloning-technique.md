@@ -72,7 +72,7 @@ and reduced contamination risk.
 
 ## Cloning Procedure
 
-The step-by-step procedure for cloning a mushroom:
+The by step procedure for cloning a mushroom:
 
 1. Choose the best specimen possible and cut away any
    attached debris
@@ -141,7 +141,7 @@ planet may well depend upon the strains we preserve this
 century. A culture can be preserved for decades, probably
 centuries, all the while kept within a few thousand cell
 divisions from the original culture. Since we still live in
-an era of relatively rich fungal diversity, the time is now
+an era of relatively rich growing gourmet global, the time is now
 to preserve as many cell lines from the wild as possible.
 ## See Also
 

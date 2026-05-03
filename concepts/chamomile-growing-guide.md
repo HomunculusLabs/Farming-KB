@@ -20,7 +20,7 @@ requirements, and ideal uses.
 | Scientific name | Matricaria chamomilla | Chamaemelum nobile |
 | Lifecycle | Annual (tender perennial in zones 8+) | Perennial |
 | Height | 2-3 feet | 3-12 inches (low, creeping) |
-| Growth habit | Upright, branching | Low, spreading ground cover |
+| Growth habit | Upright, branching | Low, spreading fukuoka natural alfalfa |
 | Flower size | Larger, cone-shaped center | Smaller, flatter |
 | Essential oil | Rich in chamazulene (blue oil) | Lower chamazulene content |
 | Best use | Tea production, large-scale cultivation | Lawns, pathways, ornamental |
@@ -116,7 +116,7 @@ For both species:
 - Leggy growth: Indicates too much shade or excessive nitrogen.
 ## Companion Planting
 Chamomile is an excellent companion plant:
-- Said to improve the flavor and growth of nearby herbs and vegetables
+- Said to improve the flavor and growth of nearby and vegetables
 - Attracts beneficial insects including hoverflies and wasps
 - Its anti-fungal properties may help prevent damping off in nearby seedlings
 - Compatible with most garden plants; traditionally paired with onions,

@@ -10,7 +10,7 @@ sources:
 
 # Cannabis Flowering Phase Management
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
 
 ## Life Cycle and Photoperiod
 

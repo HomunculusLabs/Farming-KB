@@ -92,8 +92,7 @@ was continued for 20 min. The reaction mixture was brought to a reflux for 30 mi
 
 ## Safety Notes
 
-4-D is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+4-D is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

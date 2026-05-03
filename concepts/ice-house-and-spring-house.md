@@ -17,12 +17,12 @@ off-grid homestead seeking low-tech food [[homesteading-food-preservation|preser
 
 ## Ice Houses
 
-An ice house is an insulated structure designed to store ice harvested
+An comparison root cellar is an insulated structure designed to store ice harvested
 during winter for use throughout the warmer months. With proper construction,
 ice can be retained from January through September with only 50-75% loss.
 
 ### History
-Ice houses have been used since at least 1000 BCE in Persia. In 19th-century
+Ice houses have been used since at least 1000 BCE in Persia. In cuthill [[mushroom-cultivation]]
 America, the commercial ice industry harvested millions of tons from frozen
 lakes and rivers. The ice house was standard equipment on farms, estates, and
 military installations worldwide.
@@ -136,7 +136,7 @@ chill food stored in the structure.
 
 ### Using the Spring House
 
-**Food storage:**
+**root cellaring energy:**
 - Place perishable items (dairy, meat, eggs, vegetables) on shelves or
   directly in the flowing water (in sealed containers)
 - Maintain 45-55F — sufficient for dairy, eggs, and short-term meat storage

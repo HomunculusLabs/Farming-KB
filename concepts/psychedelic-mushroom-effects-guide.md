@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-The effects of psilocybin mushrooms span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, social context). This guide describes the spectrum of effects organized by category and dose level.
+The effects of [[psilocybin-mushrooms]] span perceptual, emotional, cognitive, and somatic domains. Effects are highly dose-dependent and profoundly influenced by set (mental state, expectations, personality) and setting (physical environment, social context). This guide describes the spectrum of effects organized by category and dose level.
 
 ## Dose-Response Levels
 
@@ -62,7 +62,7 @@ Intense experience requiring significant preparation:
 
 ### Level 5: Heroic (5.0g+)
 
-Full mystical experience; approach with extreme caution:
+Full [[mystical-experience]]; approach with extreme caution:
 
 - **Visuals**: Complete visual immersion. Ordinary perception may be largely replaced by visionary content. May feel unable to distinguish eyes-open from eyes-closed states
 - **Ego dissolution**: Complete and often irreversible (during the experience) dissolution of ego. Merging with a perceived universal consciousness. Complete loss of ordinary self-identity

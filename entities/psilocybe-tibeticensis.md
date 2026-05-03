@@ -15,7 +15,7 @@ sources:
 
 # Psilocybe tibeticensis
 
-**Psilocybe tibeticensis** is a [[psilocybin]]-containing mushroom species described from the Tibetan Plateau and surrounding high-altitude regions of the Himalayas. It is one of the few known Psilocybe species adapted to alpine and subalpine environments, making it of particular ecological and biogeographical interest.
+**Psilocybe tibeticensis** is a [[psilocybin]]-containing mushroom species described from the Tibetan Plateau and surrounding high-altitude regions of the Himalayas. It is one of the few known guzman allen gartz adapted to alpine and subalpine environments, making it of particular ecological and biogeographical interest.
 
 ## Taxonomy
 
@@ -64,7 +64,7 @@ Contains psilocybin and [[psilocin]] as the primary psychoactive alkaloids. The 
 
 ## Ecology and Adaptation
 
-The high-altitude habitat of P. tibeticensis is unusual for Psilocybe species, most of which are found in tropical, subtropical, or temperate lowland environments. Its adaptation to alpine conditions — including cold tolerance, UV exposure, and short growing seasons — makes it an interesting subject for studying the ecological range and physiological flexibility of the genus. The species may have developed unique metabolic adaptations to thrive in these extreme environments.
+The high-altitude habitat of P. tibeticensis is unusual for Psilocybe species, most of which are found in tropical, subtropical, or temperate lowland environments. Its adaptation to alpine conditions — including cold tolerance, UV exposure, and short growing seasons — makes it an interesting subject for studying the ecological range and physiological flexibility of the genus. The species may have developed unique metabolic adaptations to thrive in these in extreme environments.
 
 ## Similar Species
 

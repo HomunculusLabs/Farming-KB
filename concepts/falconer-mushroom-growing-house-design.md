@@ -7,13 +7,13 @@ tags: [mushroom-cultivation, mycology]
 sources: []
 ---
 ---
-title: Falconer Mushroom Growing House Design
+title: Falconer mushroom growing house Design
 created: 2026-04-26
 updated: 2026-04-24
 sources:
- [[william-falconer]]m Falconer - Mushrooms: How to Grow Them (1891)
+ [[william-falconer]]m Falconer - Mushrooms: How to grow them (1891)
 type: concept
-tags: [design, mushroom-cultivation]
+tags: [design, [[mushroom-cultivation]]
 ---
 
 # Falconer Mushroom Growing House Design

@@ -42,8 +42,7 @@ around the farm in the form of crop residues and wild grasses.
 Crop residues are the substance with the best nutritional balance for the
 crop. When roots absorb nutrients from the soil pool, they select precisely
 what the plant needs. Those selected nutrients are reflected in the
-composition of stems, leaves, and fruits. By returning these materials to
-soil, farmers provide a perfectly balanced nutrient source.
+composition of stems, leaves, and fruits. By returning these materials to soil, farmers provide a perfectly balanced nutrient source.
 
 JADAM liquid fertilizer (JLF) is made by filling a container with crop
 residues and locally available wild grass, filling with water, adding a
@@ -70,7 +69,7 @@ problem applies to perilla pulp: overuse will ruin soil balance.
 Anything good that is excessive becomes bad. Farming is a precision
 operation of finding and approaching the optimized nutritional balance for
 your crop. When using skin fertilizers, JADAM recommends keeping them below
-one-tenth of the total organic matter applied.
+one-tenth of the total mollison designers humus applied.
 
 ## Simplifying Complex Theories
 
@@ -80,8 +79,7 @@ production intimidating:
 **C/N Ratio Theory:** This theory states that if ingredients lack nitrogen,
 microbial growth will be impaired. JADAM acknowledges this is partially
 true but says farmers can ignore it and still make successful fertilizer.
-It just takes longer. The C/N theory cannot explain how everything in
-nature is recycled without anyone calculating ratios.
+It just takes longer. The C/N theory cannot explain how everything in nature is recycled without anyone calculating ratios.
 
 **pH Adjustment Theory:** This claims that strongly acidic fertilizers
 harm crops and require lime addition. In JADAM, pH is not a significant
@@ -98,8 +96,7 @@ improves with age, like soy sauce. The standard dilution is 100 times.
 JADAM encourages adding wild grasses found around the field to JLF. Wild
 grasses are the same "plant" as crops and make excellent fertilizer. They
 are also free. The diverse nutrient profiles of various wild grasses
-complement crop residues and provide a broader spectrum of minerals and
-trace elements.
+complement crop residues and provide a broader spectrum of minerals and trace elements.
 
 The standard practice is to fill containers with a mixture of crop residues
 and wild grass. For nitrogen-rich ingredients like food waste or fish, make

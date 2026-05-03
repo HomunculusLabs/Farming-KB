@@ -73,8 +73,7 @@ For comparison, wood ash from hardwood trees typically contains
 5 to 10% potash, making bracken fern between two and ten times
 more concentrated as a potassium source. This exceptional
 concentration is what made the fern commercially viable as a
-potash source even with the labor-intensive harvesting and
-processing required.
+potash source even with the labor-intensive and processing required.
 
 ## Alan Chadwick and Biodynamic Use
 
@@ -94,7 +93,7 @@ The composting approach has advantages over burning. While
 burning concentrates potash into ash, composting preserves the
 organic matter, fiber, and additional nutrients present in the
 fern. The resulting compost provides potassium along with
-soil-building organic material, making it a more complete soil
+[[natural-farming]] guide organic material, making it a more complete soil
 amendment than ash alone.
 
 ## Using Bracken Fern in Modern Gardens
@@ -104,11 +103,11 @@ program in several ways:
 
 - Spring collection and composting for root crops, following
   Chadwick's method.
-- Chop-and-drop mulching of fronds in areas where potassium is
+- and drop mulching of fronds in areas where potassium is
   needed.
 - Green manure incorporation by tilling young fronds into the
   soil before they become woody.
-- Compost tea made from soaked bracken fronds as a liquid
+- compost tea made from soaked bracken fronds as a liquid
   potassium supplement.
 
 ## Cautions

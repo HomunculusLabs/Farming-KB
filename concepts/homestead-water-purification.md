@@ -29,7 +29,7 @@ Before selecting a purification system, test your water:
 
 ### Where to Test
 
-- County health department (often free or low-cost for bacteria)
+- County health department (often free or mushroom growing house for bacteria)
 - State-certified laboratory (comprehensive testing)
 - Mail-order test kits (National Testing Laboratories, WaterCheck)
 - DIY test strips and meters (screening, not definitive)
@@ -137,10 +137,10 @@ Before selecting a purification system, test your water:
 - Wait 30 minutes
 - Kills bacteria, viruses, and some protozoa
 - Leaves unpleasant taste (can be masked with vitamin C)
-- Not recommended for long-term use (thyroid concerns)
+- Not recommended for long term use (thyroid concerns)
 
 **Calcium hypochlorite (pool shock):**
-- More stable than bleach for long-term storage
+- More stable than bleach for [[mushroom-long-term-storage]]
 - Mix a small amount with water to create a chlorine solution
 - Treat drinking water with the solution
 

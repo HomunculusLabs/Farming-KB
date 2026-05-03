@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/terence-mckenna-food-of-the-gods.md"
 ---
 # Tassili Plateau Mushroom Art
 

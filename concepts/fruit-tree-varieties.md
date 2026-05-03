@@ -25,7 +25,7 @@ sources:
 
 # Fruit Tree Varieties, Rootstocks, and Chill Hours
 
-Detailed [[old-fruit-variety-selection|variety]] recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for site selection, planting, pruning, pest management, and seasonal care.
+Detailed [[old-fruit-variety-selection|variety]] recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for oyster mushroom growing, planting, pruning, comparison beneficial insects, and seasonal care.
 
 ## Fruit Tree Selection
 
@@ -82,7 +82,7 @@ Detailed [[old-fruit-variety-selection|variety]] recommendations for zone 7-8 ho
 |---------|-------------------|-------------|------|-------------|
 | Stella | Good | Self-fertile | Fresh | 600-700 |
 | Lapins | Good | Self-fertile | Fresh | 500-600 |
-| North Star | Good (pie cherry) | Self-fertile | Pie/preserves | 1000 |
+| schultes datura holy | Good (pie cherry) | Self-fertile | Pie/preserves | 1000 |
 | Montmorency | Good (pie cherry) | Self-fertile | Pie/preserves | 1000+ |
 
 **Note**: Sweet cherries crack in rain near harvest — consider pie cherries for reliability. Birds are major pest — plan netting.

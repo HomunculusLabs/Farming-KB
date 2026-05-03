@@ -110,7 +110,7 @@ updated: 2026-05-02
 
 ## Writings
 - Albers was an important writer on textile practice.
-- On Designing collected essays on general design principles.
+- On Designing collected essays on general [[bill-mollison]] permaculture.
 - On Weaving became her most influential book.
 - On Weaving combined history, technique, and philosophy.
 - The book treated ancient textiles as evidence of high intelligence.

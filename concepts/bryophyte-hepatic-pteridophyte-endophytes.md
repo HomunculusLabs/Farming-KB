@@ -36,12 +36,12 @@ study of two lichen species from a common site revealed differences in
 their fungal assemblages but similar levels of biodiversity. Most
 isolates were not representative of [[lichenicolous-fungi]] but represent
 genera and species known from various other substrata. The high level of
-fungal diversity may have been the result of the highly porous and
+growing gourmet global may have been the result of the highly porous and
 heterogeneous nature of the lichen thalli.
 
 Selenospora guernisacii, an inconspicuous Discomycete, is associated
 with mosses in northwestern North America. Döbbler (1979) reported
-pyrenocarpous and pezizalean parasites of mosses in Europe. These
+pyrenocarpous and pezizalean parasites of mosses in europe. These
 associations between endophytic fungi and nonvascular plants are
 apparently widespread.
 
@@ -90,7 +90,7 @@ cortical cells.
 
 Schmid and Oberwinkler (1993) coined the term "lycopodioid
 mycothallus interaction" to recognize the distinct nature of the
-association between fungal endophytes and the achlorophyllous
+association between [[fungal-endophytes]] and the achlorophyllous
 gametophytes of Lycopodium clavatum. Symbioses between primitive
 vascular plants and fungi have been described as mycorrhizalike, but
 the unique cytological features of these associations justify their
@@ -110,8 +110,7 @@ functions across phylogenetically distant plant groups.
 The ecological roles of endophytes in nonvascular and primitive
 vascular plants remain largely speculative but may include:
 
-- **Nutrient acquisition**: Fungal associates may enhance nutrient
-  uptake, particularly phosphorus, in substrata where these plants
+- **Nutrient acquisition**: Fungal associates may enhance nutrient uptake, particularly phosphorus, in substrata where these plants
   typically grow
 - **Stress tolerance**: Endophytic fungi may confer tolerance to
   desiccation, temperature extremes, or UV radiation, which is

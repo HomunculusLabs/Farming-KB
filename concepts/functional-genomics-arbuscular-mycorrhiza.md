@@ -25,7 +25,7 @@ The most commonly studied AMF species in functional genomics:
 SSH libraries enrich for differentially expressed transcripts, particularly rare mRNAs:
 - Construction of forward and reverse subtracted libraries comparing mycorrhizal and non-mycorrhizal roots
 - Identification of both up- and down-regulated genes at specific time points
-- In M. truncatula/G. mosseae, SSH identified genes involved in signal transduction, defense, and metabolism
+- In M. truncatula/G. mosseae, SSH identified genes involved in [[fungal-environmental-sensing]], defense, and metabolism
 ### Key Transcript Categories
 **Signaling genes**:
 - MAP kinases (upregulated during early root colonization and appressorium formation)
@@ -34,7 +34,7 @@ SSH libraries enrich for differentially expressed transcripts, particularly rare
 **Defense-related genes**:
 - Peroxidases (increase in both ecto- and endomycorrhizal symbioses)
 - Chitinases and glucanases (pathogenesis-related proteins)
-- Glutathione-S-transferases (stress tolerance, arbuscule development)
+- Glutathione-S-transferases (symbiotic fungi endophytic, arbuscule development)
 - Phenylpropanoid pathway enzymes (flavonoid and phenolic compound biosynthesis)
 **Metabolic genes**:
 - Alanine aminotransferase (primary metabolism)
@@ -78,14 +78,14 @@ Plasmalemma proteomics targets the plant-fungus interface:
 - Reveals membrane-localized signaling components
 ## Defense Response in Functional Genomics
 ### The Overlap with Pathogen Responses
-Functional genomics reveals that AM symbiosis activates molecular pathways shared with plant-pathogen interactions:
+Functional genomics reveals that AM symbiosis activates molecular pathways shared with [[fungal-plant-pathogen-interactions]]:
 - Similar signal perception and transduction events
 - Comparable defense gene activation patterns
 - Common involvement of ROS, MAP kinases, and phenylpropanoid metabolism
 - The key difference is the weak and transient nature of the response in AM symbiosis
 ### Temporal Dynamics
 The defense response follows a characteristic temporal pattern:
-1. **Pre-contact**: Fungal elicitors in the rhizosphere prime defense-related gene expression
+1. **Pre-contact**: fungal elicitors enhanced in the rhizosphere prime defense-related gene expression
 2. **Early contact**: Defense gene activation peaks during appressorium formation and root entry
 3. **Colonization**: Defense responses are suppressed as compatibility is established
 4. **Arbuscule maturation**: Some defense genes (e.g., GSTs) are re-expressed during arbuscule development

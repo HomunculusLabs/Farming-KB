@@ -49,14 +49,13 @@ A solution of the lithium amide of 2,2,6,6-tetramethylpiperidine was prepared by
 
 provide 2,5-dimethoxyphenyl cyclopropyl sulfide as a pale yellow liquid that boiled at 100-115 deg C at 0.1 mm/Hg. The use of other bases to achieve this cyclization were less successful. Incomplete cyclization resulted from the use of lithium diisopropyl amide and, if the conditions were made more vigorous, there was dehydrohalogenation to the allyl sulfide. An unexpected difficulty was that the allyl sulfide (from elimination) and the 3-chloropropyl sulfide (starting material) behaved in an identical manner on TLC analysis. They were easily separated, however, by GC analysis.
 
-A completely different approach to the synthesis of this sulfide was explored through the reaction of cyclopropyllithium with an aromatic disulfide, thus avoiding the base-promoted cyclization step. A solution of 2.6 g di-(2,5-dimethoxyphenyl)disulfide (from 2,5-dimethoxythiophenol and hydrogen peroxide, bp 220-230 deg C at 0.3 mm/Hg) was made in anhydrous Et2O, and well stirred. In a separate flask, under an atmosphere of He, 4 mL of 2.6 M butyllithium was added to a solution of 1.2 g cyclopropyl bromide in 20 mL anhydrous Et2O. This mildly exothermic combination turned a bit cloudy, was stirred for 1 h, then trans-ferred with an air-tight syringe to the above-described Et2O solution of the aromatic disulfide. A heavy precipitate formed, and stirring was continued for an additional 0.5 h. The reaction mixtu...
+A completely different approach to the synthesis of this sulfide was explored through the reaction of cyclopropyllithium with an aromatic disulfide, thus avoiding the base-promoted cyclization step. A solution of 2.6 g di-(2,5-dimethoxyphenyl)disulfide (from 2,5-dimethoxythiophenol and hydrogen peroxide tissue, bp 220-230 deg C at 0.3 mm/Hg) was made in anhydrous Et2O, and well stirred. In a separate flask, under an atmosphere of He, 4 mL of 2.6 M butyllithium was added to a solution of 1.2 g cyclopropyl bromide in 20 mL anhydrous Et2O. This mildly exothermic combination turned a bit cloudy, was stirred for 1 h, then trans-ferred with an air-tight syringe to the above-described Et2O solution of the aromatic disulfide. A heavy precipitate formed, and stirring was continued for an additional 0.5 h. The reaction mixtu...
 
 (Additional synthesis details available in source.)
 
 ## Safety Notes
 
-2C-T-15 is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+2C-T-15 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

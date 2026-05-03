@@ -88,7 +88,7 @@ Mulching around both crops helps retain soil moisture and suppress weeds, but ta
 
 Peppers are significantly more cold-sensitive than tomatoes. While both are warm-season crops, peppers can suffer damage at temperatures below 50°F, whereas tomatoes can tolerate slightly cooler nights. On the high end, peppers commonly drop flowers when temperatures exceed 90°F, reducing fruit set. Tomatoes also struggle with fruit set in extreme heat but tend to be somewhat more resilient.
 
-If your growing season is short, consider using season extension techniques like row covers or wall-o-water protectors, especially for peppers which need warm soil to thrive.
+If your growing season is short, consider using [[season-extension-techniques]] like row covers or wall-o-water protectors, especially for peppers which need warm soil to thrive.
 
 ## Disease and Pest Management
 

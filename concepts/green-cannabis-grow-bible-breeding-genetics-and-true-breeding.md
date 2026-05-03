@@ -15,8 +15,8 @@ type: concept
 ---
 # Cannabis Breeding, Genetics, and True Breeding
 Chapter 15 of [[greg-green-sinsemilla-and-pollination]]'s Cannabis Grow Bible provides a thorough
-introduction to cannabis breeding, covering Mendelian genetics, the
-Hardy-Weinberg Equilibrium, test crosses, cubing, backcrossing, and the
+introduction to cannabis breeding techniques, covering Mendelian genetics, the
+[[cannabis-hardy-weinberg-equilibrium]], test crosses, cubing, backcrossing, and the
 process of creating true-breeding strains (IBLs).
 ## Simple Breeding
 ### Making Seeds

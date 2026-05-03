@@ -16,7 +16,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 
 Tremella fuciformis is a jelly fungus that has been cultivated in
 China since approximately 1800 AD. It is recognised as one of the
-important medicinal mushrooms and has been used in traditional Chinese
+important [[medicinal-mushrooms]] and has been used in traditional Chinese
 medicine for centuries. The fungus produces distinctive white, gelatinous
 fruiting bodies and is valued both as a culinary delicacy and a
 therapeutic agent with documented health benefits.

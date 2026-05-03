@@ -91,7 +91,7 @@ It contains the desired information plus shaped high-frequency noise.
 A low-pass digital filter removes most out-of-band noise.
 Decimation then reduces the sample rate to a practical value.
 A sinc filter is common in precision measurement converters.
-Finite impulse response filters are common in audio and communication applications.
+Finite impulse response filters are common in audio [[plant-intelligence-and-communication]] applications.
 Filter design affects passband ripple, latency, stopband attenuation, and computational cost.
 Some applications value extremely low latency over maximum noise rejection.
 Others value resolution and can tolerate long averaging times.

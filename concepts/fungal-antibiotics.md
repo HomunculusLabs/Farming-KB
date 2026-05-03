@@ -75,7 +75,7 @@ Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs
 ### Environmental Sampling
 Underexplored environments are being targeted for novel fungal isolates:
 - Deep-sea sediments and hydrothermal vents
-- Endophytic fungi living inside plant tissues
+- [[endophytic-fungi]] living inside plant tissues
 - Fungi associated with insects (especially social insects with sophisticated antimicrobial defenses)
 - Cave and mine environments
 - Polar and extreme environments

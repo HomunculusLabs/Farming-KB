@@ -78,7 +78,7 @@ The bromine atom makes DOB a uniquely valuable research tool when labeled with r
 - The finding is consistent with DOB's characteristically slow onset and extremely long duration
 This lung-first distribution pattern is a significant finding in psychedelic pharmacology and may apply to other compounds in the DO series.
 ## Fatal Overdose Report
-A young woman died after snorting a massive amount of DOB, believing it to be mda-entity|MDA. Over 9 mg was recovered from body tissues in the post-mortem examination. Her companion survived after convulsions and weeks in a comatose state. Additional tragic examples involving arterial vascular spasm have been reported, though in many overdose cases ascribed to DOB, the identity of the actual drug has remained unestablished.
+A young woman died after snorting a massive amount of DOB, believing it to be [[mda-entity]]|MDA. Over 9 mg was recovered from body tissues in the post-mortem examination. Her companion survived after convulsions and weeks in a comatose state. Additional tragic examples involving arterial vascular spasm have been reported, though in many overdose cases ascribed to DOB, the identity of the actual drug has remained unestablished.
 ## Optical Isomerism
 As with all psychedelic amphetamines studied as optical isomers, the "R" isomer of DOB is the more active, while the "S" isomer is essentially inactive:
 - **R-isomer at 0.5 mg:** Smooth intoxication, fully +++ by 5th hour
@@ -90,8 +90,8 @@ The "S" isomer has never been run up to fully active levels, so its true potency
 ## Related
 - [[dom]]
 - [[dob-entity-pihkal]] Compounds and Homologues
-- **doi-entity|DOI** — iodine analogue, similar potency and duration; also valuable as radiolabeled research tool
-- **dom-entity|DOM** — methyl analogue (STP), less potent
+- **[[doi-entity]]|DOI** — iodine analogue, similar potency and duration; also valuable as radiolabeled research tool
+- **[[dom-entity]]|DOM** — methyl analogue (STP), less potent
 - **2c-b-entity|2C-B** — phenethylamine analogue (no alpha-methyl), much less potent
 - **mda-entity|MDA** — methylenedioxyamphetamine, often confused with DOB in tablets
 - **ARIADNE** — alpha-ethyl homologue of DOB

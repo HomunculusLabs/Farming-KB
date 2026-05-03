@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-A catalytic triad is a three-residue active-site arrangement that turns a normally weak amino acid side chain into a powerful covalent catalyst.
+A catalytic triad is a three-residue active-site arrangement that turns a normally weak [[knf-fish-amino-acid]] side chain into a powerful covalent catalyst.
 
 The classic form is a nucleophile, a general base, and an acid or hydrogen-bonding residue positioned by the folded protein scaffold.
 
@@ -108,7 +108,7 @@ Beta-lactam antibiotics exploit serine transpeptidases by mimicking the D-Ala-D-
 
 Beta-lactamases evolved to reverse that strategy, so inhibitors often target their catalytic serine or metal-dependent alternatives.
 
-Cysteine protease inhibitors are important in antiviral, antiparasitic, and inflammatory disease research.
+Cysteine protease inhibitors are important in antiviral, antiparasitic, and inflammatory [[cannabis-huntingtons-disease-research]].
 
 ## Experimental Identification
 

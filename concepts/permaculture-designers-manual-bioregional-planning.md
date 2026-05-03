@@ -11,7 +11,7 @@ sources:
 # Permaculture Designers Manual - Bioregional Planning
 updated: 2026-04-18
 
-Bioregional planning is addressed primarily in Chapter 14, Section 14.6 (extended families and bioregional networks), Section 14.8 (developmental property trusts), Section 14.13 (ethical investment), and implicitly throughout the manual as the scale at which permaculture design connects to political and economic systems.
+Bioregional planning is addressed primarily in Chapter 14, Section 14.6 (extended families and bioregional networks), Section 14.8 (developmental property trusts), Section 14.13 (ethical investment), and implicitly throughout the manual as the scale at which [[permaculture-design]] connects to political and economic systems.
 
 ## What is a Bioregion?
 

@@ -33,7 +33,7 @@ The free base is a colorless liquid with a boiling point of 197-198 degrees Cels
 
 PEA occurs naturally in the human brain at low concentrations.
 
-It is produced from the amino acid phenylalanine by the enzyme aromatic L-amino acid decarboxylase.
+It is produced from the [[knf-fish-amino-acid]] phenylalanine by the enzyme aromatic L-amino acid decarboxylase.
 
 PEA is also found in chocolate, where it contributes to the mildly psychoactive effects of cocoa.
 
@@ -45,7 +45,7 @@ In the brain, PEA acts as a trace amine, binding to trace amine-associated recep
 
 As an ingested compound, PEA has minimal psychoactive effects due to rapid metabolism by monoamine oxidase (MAO-B) in the gut and liver.
 
-Effective oral dosage: greater than 1000 mg (with MAO inhibition).
+Effective oral dosage: greater than 1000 mg (with tihkal oral activity).
 
 Duration: very short (minutes) without MAO inhibition.
 
@@ -117,7 +117,7 @@ However, PEA's role as a precursor to more potent compounds (including amphetami
 
 PEA is generally considered safe at dietary levels.
 
-High doses of PEA, particularly when combined with MAO inhibitors, can produce dangerous cardiovascular effects including hypertension and tachycardia.
+High doses of PEA, particularly when combined with [[mao-inhibitors-and-psychedelics]], can produce dangerous cardiovascular effects including hypertension and tachycardia.
 
 The combination of PEA with MAO inhibitors (including certain antidepressants) can produce a hypertensive crisis.
 
@@ -126,8 +126,8 @@ Individuals taking MAO-A or MAO-B inhibitors should avoid PEA supplementation.
 ## Index
 
 - [[phenethylamine-pharmacology]]: general pharmacology of the phenethylamine class
-- mda-entity|MDA: a substituted phenethylamine with significant activity
-- mdma-entity|MDMA: the most well-known substituted phenethylamine
+- [[mda-entity-pihkal]]|MDA: a substituted phenethylamine with significant activity
+- [[mdma-entity]]|MDMA: the most well-known substituted phenethylamine
 
 ## Related
 

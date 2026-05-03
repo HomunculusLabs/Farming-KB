@@ -102,7 +102,7 @@ nutrient capture. Water that looks perfectly clear may carry a heavy
 weight of dissolved solids eroded from hillside. The idea is to
 catch these nutrients in biological systems without high technology.
 
-Fodder plants in ponds, algae, mussels, and snails absorb calcium
+Permaculture salt tolerant in ponds, algae, mussels, and snails absorb calcium
 and fix dissolved solids. These can be returned to the land as
 duck manure, fish, and wild rice. The ideal is to start with clean
 high dams, gradually enrich the water with manurial nutrients,

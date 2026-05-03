@@ -52,17 +52,17 @@ Described by Guzmán from material collected in the department of Antioquia, Col
 ### Spores
 - Ellipsoidal to slightly amygdaliform, 9–12 × 6–8 µm
 - Wall moderately thick, with a visible germ pore
-- Spore print dark purplish-brown
+- [[spore-print]] dark purplish-brown
 - Basidia 4-spored, clavate
 - Cheilocystidia numerous, ventricose-rostrate
 
 ## Distribution and Habitat
 
-Known primarily from the Colombian Andes, specifically the department of Antioquia, at elevations between 1,500 and 2,500 meters above sea level. It grows in cloud forest and subtropical montane forest environments, typically on soil rich in organic matter along trails, road cuts, and in disturbed forest clearings. The species appears restricted to the northern Andes and has not been confirmed outside of Colombia despite surveys in neighboring countries.
+Known primarily from the Colombian Andes, specifically the department of Antioquia, at elevations between 1,500 and 2,500 meters above sea level. It grows in cloud forest and subtropical montane forest environments, typically on soil rich in mollison designers humus along trails, road cuts, and in disturbed forest clearings. The species appears restricted to the northern Andes and has not been confirmed outside of Colombia despite surveys in neighboring countries.
 
 ## Chemistry and Pharmacology
 
-Chemical analysis confirms the presence of psilocybin and [[psilocin]]. The species is considered moderately to strongly active. The intensity of the bluing reaction, which is among the most pronounced of any *Psilocybe* species, suggests significant alkaloid concentrations. No formal quantitative study with modern analytical methods (HPLC, LC-MS) has been published, making precise potency comparisons difficult.
+Chemical analysis confirms the presence of psilocybin and [[psilocin]]. The species is considered moderately to strongly active. The intensity of the bluing reaction, which is among the most pronounced of any *Psilocybe* species, suggests significant alkaloid concentrations. No formal quantitative study with modern fungal siderophore detection (HPLC, LC-MS) has been published, making precise potency comparisons difficult.
 
 ## Ethnobotanical Notes
 

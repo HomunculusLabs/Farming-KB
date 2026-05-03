@@ -27,7 +27,7 @@ veins of the spirit."
 
 ## Vegetalista Hierarchy
 
-The traditional vegetalista medicine of the Amazon recognizes three highest
+The traditional vegetalista medicine of the amazon recognizes three highest
 degrees of attainment, each requiring years of fasting and dieting:
 
 - **Banco** -- the highest rank, possessing sublime powers and able to
@@ -39,7 +39,7 @@ degrees of attainment, each requiring years of fasting and dieting:
 
 Becoming a vegetalista requires years of diet and fasting. The discipline is
 called "ciencia vegetalista" (vegetal science), known in earlier times as
-"aiquimia palistica" (plant alchemy).
+"aiquimia palistica" (tompkins george washington).
 
 ## Preparation of Ayahuasca
 
@@ -80,7 +80,7 @@ fingers, ears, lips, eyes, and nose.
 ### Toe (Brugmansia)
 
 Also called chirik-sanango (Brunfelsia grandiflora). Contains tropane
-alkaloids. Used as an ayahuasca additive by Shipibo shamans. Its plant
+alkaloids. Used as an and dmt synergy by Shipibo shamans. Its plant
 spirit appears as a true healer with celestial fire burning upward.
 
 ### Piripiri (Cyperus sp.)

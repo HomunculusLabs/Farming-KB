@@ -15,7 +15,7 @@ type: concept
 ---
 # Macronutrient Deficiency and Toxicity in Cannabis
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- Jorge Cervantes
+-- [[jorge-cervantes]]
 ## Macronutrient Overview
 Macronutrients are the elements that plants use most. Fertilizers show
 nitrogen (N), phosphorus (P), and potassium (K) as N-P-K percentages on
@@ -23,7 +23,7 @@ the package, always listed in the same order. These nutrients must always
 be in an available form to supply cannabis with building blocks for rapid
 growth.
 Nutrients are grouped into three categories: macronutrients (primary),
-secondary nutrients, and micronutrients (trace elements). Mobile nutrients
+and secondary nutrients, and micronutrients (and trace elements). Mobile nutrients
 (N, P, K, Mg, Zn) translocate within the plant, so deficiency symptoms
 appear first on older, lower leaves. Immobile nutrients (Ca, B, Cl, Co,
 Cu, Fe, Mn, Mo, Si, S) do not translocate, so deficiency symptoms appear
@@ -61,7 +61,7 @@ growing medium. Do not add nitrogen-containing fertilizer for one week.
 ### Role
 Necessary for photosynthesis and energy transfer within the plant. A
 component of DNA, many enzymes and proteins. Associated with overall
-vigor, resin, and seed production. Highest concentrations found in
+vigor, resin, and [[vic-high]] selfing. Highest concentrations found in
 root-growing tips, growing shoots, and vascular tissue. Cannabis uses the
 highest levels during germination, seedling, cloning, and flowering.
 ### Deficiency

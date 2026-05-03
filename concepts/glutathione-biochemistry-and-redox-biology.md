@@ -29,7 +29,7 @@ Cysteine availability is the primary bottleneck. Three supply routes: (1) trans-
 
 The GSH/GSSG ratio is the primary indicator of cellular redox status, tightly regulated across compartments: ~100:1 in the cytosol (GSH 1–10 mM, GSSG 1–10 μM), ~10:1 in mitochondria, and ~1:1 to 3:1 in the endoplasmic reticulum where a more oxidizing environment facilitates disulfide bond formation.
 
-Glutathione reductase (GR, encoded by GSR) maintains the reduced state: GSSG + NADPH + H⁺ → 2 GSH + NADP⁺. This FAD-containing dimeric flavoprotein depends on NADPH from the pentose phosphate pathway (G6PD) and secondarily from malic enzyme and NADP⁺-dependent isocitrate dehydrogenase. G6PD deficiency — the most common human enzymopathy affecting 400+ million people — impairs NADPH production and compromises the glutathione redox cycle, causing hemolytic anemia under oxidative stress.
+Glutathione reductase (GR, encoded by GSR) maintains the reduced state: GSSG + NADPH + H⁺ → 2 GSH + NADP⁺. This FAD-containing dimeric flavoprotein depends on NADPH from the [[pentose-phosphate-pathway]] (G6PD) and secondarily from malic enzyme and NADP⁺-dependent isocitrate dehydrogenase. G6PD deficiency — the most common human enzymopathy affecting 400+ million people — impairs NADPH production and compromises the glutathione redox cycle, causing hemolytic anemia under oxidative stress.
 
 ## Enzymatic Systems
 

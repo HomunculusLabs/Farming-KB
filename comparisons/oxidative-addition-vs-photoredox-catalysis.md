@@ -58,7 +58,7 @@ A good photocatalyst for one substrate may be useless for another if the redox p
 Oxidative addition excels at activating bonds that can become ligands on a metal center.
 Aryl halides, vinyl halides, hydrogen, silanes, boranes, and some C-H bonds are classic substrates.
 The substrate must be able to approach the metal and form a viable organometallic product.
-Steric hindrance, strong bonds, or an unsuitable metal oxidation state can block the step.
+Steric hindrance, strong bonds, or an unsuitable desert varnish microbial state can block the step.
 Photoredox catalysis excels at generating reactive open-shell intermediates under mild conditions.
 Carboxylates, amines, activated halides, redox-active esters, and heteroarenes are frequent partners.
 The substrate must be oxidized, reduced, or energized within the accessible excited-state window.

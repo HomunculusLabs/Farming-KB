@@ -131,7 +131,7 @@ Synthetic mineral lines: General Hydroponics (Flora), Advanced Nutrients, Canna,
 - Water chillers may be needed in warm environments
 ## Common Problems
 - Root rot (Pythium): brown, slimy roots with foul odor. Prevent with proper temperature, beneficial bacteria (Hydroguard, Voodoo Juice), and hydrogen peroxide
-- Nutrient lockout: pH outside optimal range. Flush and adjust pH
+- [[nutrient-lockout]]: pH outside optimal range. Flush and adjust pH
 - Nutrient burn: EC too high. Lower concentration and flush with plain water
 - Algae: caused by light exposure to nutrient solution. Cover all reservoirs and tubing
 - Tip burn: potassium or calcium deficiency, or excessive light/heat

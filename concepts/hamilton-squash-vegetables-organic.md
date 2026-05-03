@@ -13,8 +13,7 @@ Squash vegetables are members of the Cucurbitae family, half-hardy
 annuals that can be grown outside in warm conditions. They require
 well-manured, slightly acid soil and plenty of water. Squashes and
 zucchinis form small, bushy plants, while cucumbers and melons trail
-across the garden. These crops need more room but can be trained to
-grow up poles to save space in smaller gardens.
+across the garden. These crops need more room but can be trained to grow up poles to save space in smaller gardens.
 
 ## Growing Squashes and Zucchinis
 
@@ -26,7 +25,7 @@ the season, allow a few fruits to grow into squashes.
 Good zucchini varieties include Zucchini and the yellow Orelia. One
 Ball produces round, yellow fruit. Long Green is a fine trailing
 variety. All squashes prefer a pH of about 6.0. Dig in plenty of
-compost or manure before planting. In the three-year crop rotation
+compost or manure before planting. In the hamilton three year
 plan, grow these plants in Plot A.
 
 Sow squashes and zucchinis inside at about 65 degrees F (18 degrees C)
@@ -64,8 +63,7 @@ encourage compact, bushy growth. Cut fruits when no more than 6in
 Greenhouse cucumber varieties are sweet-tasting, vigorous, resistant
 to disease, and all-female. Hana produces abundant short fruits, Carmen
 is very heavy cropping, Cumlaude RZ grows in unheated greenhouses, and
-Athene suits slightly cooler conditions. All share the same temperature
-and humidity requirements as tomatoes, so they can share the greenhouse.
+Athene suits slightly cooler conditions. All share the same and humidity requirements as tomatoes, so they can share the greenhouse.
 
 Sow from midwinter if the greenhouse can be heated to about 50 degrees
 F (10 degrees C), or in mid-spring for a cold house. Sow individually

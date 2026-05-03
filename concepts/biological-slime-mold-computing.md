@@ -19,8 +19,7 @@ exists as a single giant multinucleate cell that can extend over surfaces
 mefungal-sporesof centimeters. The plasmodium consists of a branching network
 of vein-like tubes that shuttle cytoplasm back and forth through rhythmic
 contraction waves, distributing nutrients and chemical signals.
-The organism feeds on bacterial films, fungal spores, and decaying organic
-matter. When food sources are located, the plasmodium extends toward them,
+The organism feeds on bacterial films, [[fungal-spores]], and decaying mollison designers humus. When food sources are located, the plasmodium extends toward them,
 forming efficient transport networks that connect multiple food sites. If
 the network is disrupted, it rapidly reorganizes to restore connectivity,
 demonstrating adaptive resilience.
@@ -83,9 +82,9 @@ acts as a repellent, preventing the organism from revisiting areas it has
 already explored. This "habituation" behavior enables efficient coverage of
 the search space and avoids redundant exploration, analogous to pheromone
 trails in ant colony optimization algorithms.
-The organism also displays a form of "decision-making" when confronted with
+The organism also displays a form of "[[savory-holistic-decision-making]]" when confronted with
 competing food sources of different quality. It distributes its biomass
-proportionally to food quality, effectively solving a resource allocation
+proportionally to food quality, effectively solving a [[mycelial-foraging-resource-allocation]]
 problem through distributed processing.
 ## Applications and Bio-Inspired Algorithms
 Slime mold computing has inspired practical applications across multiple
@@ -105,7 +104,7 @@ fields:
   formation to generate structural layouts for buildings and urban spaces.
 ## Limitations and Criticisms
 Critics note that claims about slime mold "intelligence" can be overstated.
-The organism's problem-solving abilities emerge from relatively simple
+The organism's and problem solving abilities emerge from relatively simple
 physicochemical feedback mechanisms rather than cognitive processes.
 Computational performance degrades significantly for large problem instances
 compared to dedicated optimization algorithms. Scalability remains a practical

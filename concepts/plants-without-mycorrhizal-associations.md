@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
 # Plants Without Mycorrhizal Associations

@@ -40,7 +40,7 @@ Encapsulated powder or extract:
 - Tasteless (important for bitter mushrooms like reishi)
 - Can contain either raw powder or concentratebeta-glucansVerify whether capsules contain extract or just powdered mushroom
 ### Extracergothioneineed preparations that isolate or concentrate specific compounds:
-- Hot water extracts: Best for beta-glucans and polysaccharides
+- Hot water extracts: Best for [[beta-glucans]] and polysaccharides
 - Alcohol extracts: Best for triterpenes, hericenones, ergothioneine
 - Dual extracts: Sequential water and alcohol extraction, capturing both classes
 - Liposomal extracts: Encapsulated in lipid molecules for enhanced bioavailability

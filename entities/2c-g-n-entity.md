@@ -10,7 +10,7 @@ sources: []
 
 2C-G-N is a psychedelic phenethylamine based on a naphthalene ring system rather than the typical benzene ring.
 
-It is documented as entry #31 in PiHKAL by Alexander Shulgin.
+It is documented as entry #31 in PiHKAL by [[alexander-shulgin]].
 
 The G in the name indicates it belongs to the 2C-G series, and the N indicates the naphthalene ring system.
 
@@ -20,7 +20,7 @@ Full chemical name: 1,4-Dimethoxynaphthyl-2-ethylamine.
 
 2C-G-N is unique among the compounds in PiHKAL for its naphthalene (two fused benzene rings) backbone.
 
-Most psychedelic phenethylamines are based on a single benzene ring with various substitution patterns.
+Most [[optical-isomers-psychedelic-phenethylamines]] are based on a single benzene ring with various substitution patterns.
 
 The naphthalene ring was explored as a way to position the aromatic ring further from the site of activity, potentially allowing fine-tuning through electronic effects on the distal ring.
 
@@ -50,7 +50,7 @@ The material is described as "not as friendly as the other 2C-G's."
 
 Another report at 35 mg described clear thinking with "no fuzziness, no feeling of being pushed."
 
-The experience lacked "the walking on the fine middle line between light and dark that is the excitement and the threat of LSD."
+The experience lacked "the walking on the fine middle line between light and dark that is the excitement and the threat of lsd."
 
 It was described as "just a friend, an ally, which invites you to do anything you wish."
 
@@ -98,7 +98,7 @@ Reports of irritability, mild depression, and altered dream patterns for days af
 
 Accurate milligram measurement is essential.
 
-The compound has not been studied for long-term toxicity.
+The compound has not been studied for long term toxicity.
 
 ## Index
 

@@ -23,7 +23,7 @@ PIHKAL entry #120. 3-METHOXY-4,5-ETHYLENEDIOXYAMPHETAMINE.
 
 ## Qualitative Comments
 
-No qualitative comments available in source.
+No [[qualitative-comments-methodology-pihkal]] available in source.
 
 ## Extensions and Commentary
 
@@ -133,7 +133,7 @@ solids that formed were filtered free of the Et2O, and ground up under
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna tryptamine research varies by jurisdiction.
 
 ## See Also
 

@@ -23,7 +23,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Planting, weeding, harvesting
 - Animal feeding and chores
 - Market setup and sales
-- Food preservation (canning, drying, packing)
+- food preservation (canning, drying, packing)
 - Fence building and repair
 - Building and infrastructure projects
 - Social media and marketing (skilled volunteers)
@@ -65,7 +65,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Often attracts travelers with diverse skills (carpentry, photography, IT)
 
 ### Differences from WWOOF
-- Less focus on organic farming specifically
+- Less focus on [[fukuoka-natural-farming]] specifically
 - More diverse volunteer pool (international travelers)
 - Some volunteers have specialized skills (web design, construction)
 - Less structured than WWOOF
@@ -81,7 +81,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 
 ### Formal Apprenticeship Programs
 - Organizations like:
-  - Rogue Farm Corps (Pacific Northwest)
+  - Rogue Farm Corps (psilocybin north america)
   - Quivira Coalition (New Market Farmer program)
   - MOFGA (Maine Organic Farmers and Gardeners Association) journeyperson program
   - ATTRA (National Sustainable Agriculture Information Service) directory

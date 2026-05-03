@@ -15,7 +15,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 ## Overview
 
 Poria cocos is a non-edible medicinal mushroom that ranks among the
-10 most important medicinal mushrooms listed in the source literature.
+10 most important [[medicinal-mushrooms]] listed in the source literature.
 China produces approximately 10,000 tons annually, making it a major
 producer of this non-edible medicinal species. The mushroom has been
 used extensively in traditional Chinese medicine for centuries, where
@@ -30,7 +30,7 @@ currently accepted synonym is Wolfiporia cocos, reflecting revised
 taxonomic understanding. Unlike most mushrooms, Poria cocos grows
 underground as a sclerotium (a compact mass of hardened mycelium) on
 the roots of pine trees and other conifers. The sclerotium is the part
-harvested for medicinal use, rather than a typical above-ground
+harvested medicinal use, rather than a typical above-ground
 fruiting body.
 
 ### Active Compounds
@@ -86,7 +86,7 @@ medicinal crop with well-established market demand. The extensive
 pharmacological research on its beta-glucan and polysaccharopeptide
 compounds makes it a model organism for studying fungal-derived
 immunomodulators. Its non-edible status and underground growth habit
-present unique cultivation challenges and opportunities compared to
+present unique growing gourmet chanterelle and opportunities compared to
 typical above-ground fruiting mushrooms.
 
 ## See Also

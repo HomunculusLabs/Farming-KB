@@ -14,7 +14,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Synonyms: Miprocin, 3-[2-(isopropylmethylamino)ethyl]-4-indolol
 
-- Class: Tryptamine, 4-hydroxy substituted, N-methyl-N-isopropyl
+- Class: tryptamine, 4-hydroxy substituted, N-methyl-N-isopropyl
 
 - Source: [[tihkal-introduction-and-methodology]]
 
@@ -84,7 +84,7 @@ more lipophilic and sterically demanding molecule than psilocin, which may
 contribute to its reported greater potency and its distinctive sensual/erotic
 emphasis. The isopropyl group's branching creates a more three-dimensional
 substituent that may engage additional hydrophobic interactions within the
-receptor binding pocket.
+[[beta-glucan-receptor-binding]] pocket.
 
 ## Detailed Pharmacological Discussion
 
@@ -133,13 +133,13 @@ judgment; plan accordingly
 - Jaw clenching and body tremor at higher doses (30 mg) may cause dental
 or muscular discomfort
 
-- Standard tryptamine precautions apply: avoid MAO inhibitors, SSRIs,
+- Standard tryptamine precautions apply: avoid [[mao-inhibitors-and-psychedelics]], SSRIs,
 lithium, and other serotonergic medications
 
 - The compound may discolor and degrade if not stored properly (inert
 atmosphere, frozen)
 
-- Set and setting are particularly important given the intensity of
+- and setting are particularly important given the intensity of
 effects at 20+ mg
 
 ## Legal Status

@@ -75,7 +75,7 @@ Orbital angular momentum L̂ = r̂ × p̂ satisfies [L̂_i, L̂_j] = iℏ ε_ijk
 with eigenvalues L² = ℏ²ℓ(ℓ+1), L_z = ℏm. Spin is intrinsic angular
 momentum with no classical analog. Electrons have s = ½ (↑, ↓ states).
 The Pauli exclusion principle forbids identical fermions from sharing
-a quantum state, dictating periodic table structure and chemistry.
+a quantum state, dictating mollison soil elements structure and chemistry.
 
 ## Perturbation Theory and Approximations
 

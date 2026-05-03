@@ -45,7 +45,7 @@ sources:
 - Context bruises bluish, particularly at the base
 
 ### Spores
-- Spore print dark purplish-brown
+- [[spore-print]] dark purplish-brown
 - **Characteristic heart-shaped (cordiform) spores in side view** — the defining feature
 - Ellipsoid in face view, cordiform in profile
 - Thick-walled with a distinct germ pore

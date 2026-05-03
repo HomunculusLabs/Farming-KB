@@ -92,7 +92,7 @@ seeds and strains as they will not produce a psychoactive effect.
 There is a project called the PMP (Potency Monitoring Project) that is
 carried out by some government funded agencies, but Green considers the
 results questionable. Growers seeking potent plants should focus on
-reputable seed banks and breeders who participate in competitions such as
+reputable and seed banks and breeders who participate in competitions such as
 the Cannabis Cup in Amsterdam.
 
 ## The High Experience

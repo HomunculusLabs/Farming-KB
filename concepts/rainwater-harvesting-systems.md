@@ -46,7 +46,7 @@ events. See sizing section below.
 - **Polyethylene (poly) tanks** — most common for residential; lightweight,
   UV-stabilized, 200-10,000+ gallons; food-grade available
 - **Ferro-cement** — DIY-friendly; cement and wire mesh over a frame; very
-  durable and low-cost at large scale
+  durable and mushroom growing house at large scale
 - **Steel tanks** — corrugated galvanized or stainless; durable but heavy
   and expensive
 - **Cisterns** — underground concrete or poly; saves space and keeps water
@@ -80,8 +80,7 @@ events. See sizing section below.
 - Multiply by 0.85 for system efficiency losses (spillage, overflow, etc.)
 ### Calculate Annual Demand
 - Indoor use: 30-50 gallons per person per day
-- Irrigation: varies widely; 0.5-1 gallon per sq ft per week during growing
-  season
+- Irrigation: varies widely; 0.5-1 gallon per sq ft per week during growing season
 - Livestock: 5-30 gallons per animal per day depending on species
 ### Storage Sizing
 - Storage should hold at least 1/4 of annual yield for seasonal buffering
@@ -119,9 +118,9 @@ and nitrate. Use a state-certified laboratory.
   quality, inspect all fittings and seals
 - **After major storms** — clean gutters and screens of debris
 ## Off-Grid Integration
-Rainwater harvesting is a cornerstone of off-grid water supply. For well
+Rainwater harvesting is a cornerstone of off-grid for water supply. For well
 water as a complementary source, see [[well-drilling-and-maintenance]].
 For greywater recycling to extend water supplies, see [[composting-toilet-systems]]
 for waterless sanitation options.
 ## Related
-- [[permaculture-water-harvesting]] — Permaculture Water Harvesting covers the broader permaculture design approach to capturing and storing water on-site.
+- [[permaculture-water-harvesting]] — Permaculture Water Harvesting covers the broader in [[permaculture-design]] approach to capturing and storing water on-site.

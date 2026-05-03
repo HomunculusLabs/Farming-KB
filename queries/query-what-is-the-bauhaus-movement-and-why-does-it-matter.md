@@ -43,13 +43,13 @@ Graphic design emphasizes legibility and composition rather than decorative bord
 Textiles use pattern, structure, and material research rather than imitation of older ornament.
 These traits became influential in modern architecture, product design, and visual communication.
 ## Who were the important Bauhaus figures?
-Walter Gropius founded the school and framed its early mission.
+[[walter-gropius]] founded the school and framed its early mission.
 Hannes Meyer emphasized social function, affordability, and collective need.
 Ludwig Mies van der Rohe directed the final phase and pushed the school toward architecture.
 Paul Klee and Wassily Kandinsky taught form, color, abstraction, and visual thinking.
 Laszlo Moholy-Nagy promoted photography, light, technology, and experimental media.
 Josef Albers became central to material and color education.
-Marcel Breuer, Anni Albers, Gunta Stolzl, Herbert Bayer, and Oskar Schlemmer helped define major workshop achievements.
+Marcel Breuer, [[anni-albers]], Gunta Stolzl, Herbert Bayer, and Oskar Schlemmer helped define major workshop achievements.
 ## Why did the Bauhaus close?
 The Bauhaus was attacked by nationalist and conservative political forces throughout its history.
 Its international faculty, experimental culture, and perceived left-wing politics made it a target.
@@ -59,7 +59,7 @@ The closure scattered Bauhaus teachers and students internationally.
 That diaspora helped spread Bauhaus ideas far beyond Germany.
 ## Why is it still important today?
 Bauhaus teaching shaped modern art and design education through foundation courses and studio workshops.
-Its design methods influenced furniture, architecture, corporate identity, signage, book design, and digital interfaces.
+Its permaculture element analysis influenced furniture, architecture, corporate identity, signage, book design, and digital interfaces.
 Its emphasis on grids, hierarchy, material honesty, and functional clarity remains visible in software and web design.
 It also provides a historical example of design as a social project rather than mere styling.
 At the same time, its limitations are useful to study.
@@ -75,7 +75,7 @@ These signals do not prove direct Bauhaus origin, but they show the movement's c
 - [[bauhaus-movement]]
 - topics/bauhaus-movement
 - topics/natural-building-techniques
-- topics/permaculture-design-principles
+- topics/[[bill-mollison]] permaculture
 
 ## See Also
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]

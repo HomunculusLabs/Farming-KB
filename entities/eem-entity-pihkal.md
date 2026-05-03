@@ -23,7 +23,7 @@ PIHKAL entry #74. 2,4-DIETHOXY-5-METHOXYAMPHETAMINE.
 
 ## Qualitative Comments
 
-No qualitative comments recorded.
+No [[qualitative-comments-methodology-pihkal]] recorded.
 
 ## Extensions and Commentary
 
@@ -45,8 +45,7 @@ To a gently refluxing suspension of 2.9 g LAH in 400 mL anhydrous Et2O under a H
 
 ## Safety Notes
 
-EEM is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+EEM is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

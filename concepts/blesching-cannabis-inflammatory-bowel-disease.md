@@ -38,7 +38,7 @@ Other frequently observed symptoms may include:
 
 ### Orthodox Treatment
 
-Physicians manage the disease with dietary modifications, pharmaceutical medications, and referrals to psychotherapy. Canadian researchers conducted a meta-analysis of all randomized controlled trials and reported that fiber, antispasmodics, and peppermint oil exhibited greater effectiveness than a placebo in the treatment of irritable bowel syndrome.
+Physicians manage the disease with dietary modifications, pharmaceutical medications, and referrals to psychotherapy. Canadian researchers conducted a meta-analysis of all randomized controlled trials and reported that fiber, antispasmodics, and peppermint oil exhibited greater effectiveness than a placebo in the treatment of blesching cannabis irritable.
 
 ## Cannabis and IBD/IBS: Evidence Base (CHI Value 8, 3 Studies Reviewed)
 
@@ -54,7 +54,7 @@ Italian researchers (2010) conducted a meta-analysis/review of the available pre
 
 **Boston Researchers (2006):**
 
-Tested numerous novel molecules that exert their biological effects through the endocannabinoid system. The results suggested a therapeutic potential of cannabinoids on inflammatory diseases such as IBD.
+Tested numerous novel molecules that exert their biological effects through the endocannabinoid system. The results suggested a [[metzner-ayahuasca-therapeutic-potential]] of cannabinoids on [[blesching-cannabis-inflammatory-diseases]] such as IBD.
 
 **Alberta, Canada (2008):**
 
@@ -66,7 +66,7 @@ An experiment indicated that CBD could reduce hypermotility in mice. Based on th
 
 ## Strain-Specific Considerations
 
-While research has discovered both CB1 and CB2 in parts of the gastrointestinal tract, patients with Crohn's disease reported that indica strains worked especially well for them in reducing pain, nausea, vomiting, depression, low energy, and lack of sleep. This observation may be supported, in part, by the pre-clinical trial from Naples, which showed that CBD could reduce hypermotility (abnormally high activity) in the guts of mice.
+While research has discovered both CB1 and CB2 in parts of the gastrointestinal tract, patients with Crohn's disease reported that indica strains worked especially well for them in reducing pain, nausea, vomiting, depression, in permaculture, and lack of sleep. This observation may be supported, in part, by the pre-clinical trial from Naples, which showed that CBD could reduce hypermotility (abnormally high activity) in the guts of mice.
 
 Indicas or indica-heavy strains tend to have a lower THC:CBD ratio when compared to sativas, resulting in a relative increase in CB2 activation.
 

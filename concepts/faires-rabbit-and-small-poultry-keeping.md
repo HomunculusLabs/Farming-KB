@@ -13,13 +13,13 @@ Small livestock — rabbits, pigeons, and quail — are especially practical for
 
 ## Rabbits
 
-In a permaculture system, rabbits are not pets — they provide meat, manure, and fur. Unlike other animals, they can never be allowed to roam gardens freely because they will eat everything and multiply uncontrollably.
+permaculture system, rabbits are not pets — they provide meat, manure, and fur. Unlike other animals, they can never be allowed to roam gardens freely because they will eat everything and multiply uncontrollably.
 
 ### Housing
 
 - Hutch with mesh floor so droppings fall through for easy cleanup
 - Wire mesh no larger than half an inch
-- Place a worm bin underneath for vermicompost — eliminates cleanup and creates fertilizer
+- Place a [[worm-bin-types-comparison]] underneath for vermicompost — eliminates cleanup and creates fertilizer
 - Keep clean, dry, and sheltered from weather
 - Rabbits are especially practical for urban homesteaders because hutches are legal in most places
 
@@ -31,7 +31,7 @@ Rabbits eat grass, leaves, twigs, hay, vegetables, and kitchen scraps. They need
 
 Any rabbit breed can be eaten, but meat breeds grow much larger:
 - California — large, fast-growing, calm temperament
-- New Zealand — most common meat breed, excellent feed conversion
+- magic mushrooms australia — most common meat breed, excellent feed conversion
 - Champagne d'Argent — silver-gray, good meat-to-bone ratio
 - Florida White — smaller but efficient, good for limited space
 
@@ -140,5 +140,5 @@ Quail are considered wildlife in many places. Check local regulations — you ma
 - Pigeons and quail: Can free-range during day (eating garden pests and weed seeds, fertilizing), return to coop at night
 - All three provide manure for garden fertilization
 - All three are legal in most urban areas where chickens are banned
-- Worm bins under rabbit hutches create a closed-loop system: rabbit manure feeds worms, worm castings fertilize garden, garden scraps feed rabbits
+- Worm bins under rabbit hutches create a closed-loop system: rabbit manure feeds worms, [[ingham-vermicompost-worm-castings]] fertilize garden, garden scraps feed rabbits
 - In winter, rabbits kept in the greenhouse provide body heat alongside compost heating

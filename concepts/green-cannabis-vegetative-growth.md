@@ -19,7 +19,7 @@ its leaves can produce energy. At this stage the plant needs all the
 light and food it can get. It continues to grow upwards producing new
 leaves, a thicker stem with thicker branches, and more fingers on the
 leaves. It will eventually start to show its sex, marking the transition
-to pre-flowering.
+to cervantes sex determination.
 
 Vegetative growth can take anywhere between 1 and 5 months depending on
 strain, environment, and grower preference. Pure Sativa can run into

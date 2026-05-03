@@ -11,7 +11,7 @@ sources:
 
 BOB (beta-Methoxy-2C-B; 4-Bromo-2,5,beta-trimethoxyphenethylamine) is a psychedelic phenethylamine with a methoxy group on the beta-carbon of the ethylamine chain.
 
-It is documented as entry #13 in PiHKAL by Alexander Shulgin.
+It is documented as entry #13 in PiHKAL by [[alexander-shulgin]].
 
 BOB is a member of the BOX family of compounds (beta-OXy phenethylamines).
 
@@ -67,7 +67,7 @@ Shulgin noted that "they can't all be winners" regarding the physical side effec
 
 The beta-methoxy group creates a fundamentally different pharmacological profile from the parent phenethylamines.
 
-The additional oxygen atom may influence metabolic stability, receptor binding, and blood-brain barrier penetration.
+The additional oxygen atom may influence metabolic stability, [[beta-glucan-receptor-binding]], and blood-brain barrier penetration.
 
 The physical concerns consistently reported across the BOX series suggest that the beta-methoxy group may introduce cardiovascular or neurological effects not seen in the parent compounds.
 
@@ -81,7 +81,7 @@ Compounds with sulfur instead of oxygen at the beta-position remain unexplored.
 
 Amphetamine derivatives with an alpha-methyl group alongside the beta-oxygen are unknown.
 
-The optical isomers (threo- and erythro- forms) have not been separated and individually tested.
+The [[optical-isomers-psychedelic-phenethylamines]] (threo- and erythro- forms) have not been separated and individually tested.
 
 The question of how stereochemistry affects the activity of beta-substituted phenethylamines remains open.
 
@@ -101,7 +101,7 @@ The compound should not be combined with other stimulants or serotonergic substa
 
 - 2c-b-entity|2C-B: the parent compound without beta-substitution
 - BOD: the beta-methoxy-2C-D analogue
-- boh-entity|BOH: the beta-hydroxy-2C-B analogue
+- [[boh-entity-pihkal]]|BOH: the beta-hydroxy-2C-B analogue
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## Related

@@ -38,8 +38,7 @@ feeds, and practical formulation for homestead-scale operations.
 - Excess: wasted money, increased nitrogen excretion (environmental concern).
 
 ### Energy
-- Required for maintenance, movement, production, and body temperature
-  regulation.
+- Required for maintenance, movement, production, and body blesching cannabis fever.
 - Measured as Total Digestible Nutrients (TDN), Net Energy (NE), or
   Metabolizable Energy (ME).
 - Sources: carbohydrates (grains, molasses) and fats (oilseeds, animal fat).
@@ -99,7 +98,7 @@ feeds, and practical formulation for homestead-scale operations.
 - **Distillers grains (DDGS):** 25-30% CP, high energy and fat. Byproduct
   of ethanol production. Good for cattle.
 - **Linseed (flaxseed) meal:** 34-36% CP. Good for ruminants. Adds omega-3
-  fatty acids.
+  stable carbon isotope.
 
 ### Forages
 - See [[hay-and-forage-management]] for detailed forage analysis.
@@ -132,12 +131,12 @@ feeds, and practical formulation for homestead-scale operations.
 ### Mineral Supplements
 - Loose mineral formulated for species, offered free-choice.
 - Include salt (sodium chloride) — animals self-regulate salt intake.
-- Add trace minerals based on regional deficiencies.
+- Add solomon vegetable nutritional based on regional deficiencies.
 - Blocks vs. loose: loose minerals are consumed more reliably.
 
 ### Protein Blocks and Tubs
 - Pressed or cooked blocks with 20-40% protein.
-- Convenient, weather-resistant, good for extensive grazing systems.
+- Convenient, weather-resistant, good for extensive mollison designers sheep.
 - More expensive per unit of protein than loose supplements.
 
 ### Feed Additives

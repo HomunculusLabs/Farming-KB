@@ -10,7 +10,7 @@ sources:
 
 # Cannabis Lighting Systems — HID, LED, CFL Comparison
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
 
 ## Light Requirements
 

@@ -17,7 +17,7 @@ type: concept
 # Curing and [[drying-cannabis]] Buds
 
 Curing is the post-harvest process that transforms freshly cut cannabis
-into a smooth, potent, and enjoyable final product. Greg Green's "The
+into a smooth, potent, and enjoyable final product. [[greg-green]]'s "The
 Cannabis Grow Bible" describes curing as essential for producing a finer
 product, with the "canning" method being the most common and effective
 home technique. Properly cured bud smokes significantly better than
@@ -106,7 +106,7 @@ Greg Green's recommended curing technique is called "canning":
    quantities of THC.
 4. Place the containers in a dark room or cupboard.
 5. Every day, open the lid for several hours (six hours is recommended)
-   to allow fresh air exchange, then close the lid again.
+   to allow fresh growing gourmet growing, then close the lid again.
 6. Every couple of days, gently shake the bud around inside the
    container to redistribute moisture and prevent mold.
 
@@ -131,7 +131,7 @@ Curing accomplishes several important objectives:
   preventing mold and harsh smoke.
 - It enables the gradual breakdown of chlorophyll, reducing the "green"
   taste of freshly harvested material.
-- It permits the slow conversion of non-psychoactive cannabinoid acids
+- It permits the slow conversion of cannabis raw juice cannabinoid acids
   (like THCA) into their active forms.
 - It preserves and can enhance the terpene profile responsible for aroma
   and flavor.

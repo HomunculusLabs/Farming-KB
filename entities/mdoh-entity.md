@@ -9,7 +9,7 @@ sources:
 ---
 # MDOH
 
-MDOH (N-Hydroxy-MDA; 3,4-methylenedioxy-N-hydroxyamphetamine) is a psychedelic amphetamine that is the N-hydroxy analogue of mda-entity|MDA.
+MDOH (N-Hydroxy-MDA; 3,4-methylenedioxy-N-hydroxyamphetamine) is a psychedelic amphetamine that is the N-hydroxy analogue of [[mda-entity-pihkal]]|MDA.
 
 It is documented as entry #114 in PiHKAL by [[alexander-shulgin]].
 
@@ -43,7 +43,7 @@ A marvelous inner glow and warmth from other participants is noted, with nature 
 
 The experience is described as gentle and meaningful rather than dramatic or intense.
 
-At 100 mg, another subject reported rapid onset within 30 minutes, with intoxication described as "more deeply than with mdma-entity|MDMA."
+At 100 mg, another subject reported rapid onset within 30 minutes, with intoxication described as "more deeply than with [[mdma-entity]]|MDMA."
 
 Beauty was "everywhere enhanced" and the eyes-closed experience was "marvelous."
 
@@ -89,7 +89,7 @@ The free base crystallizes upon wetting with isopropanol and is converted to the
 
 ## Pharmacological Context
 
-MDOH represents an important data point in understanding the structure-activity relationships of the mda-entity|MDA/mdma-entity|MDMA family.
+MDOH represents an important data point in understanding the structure activity relationship relationships of the mda-entity|MDA/mdma-entity|MDMA family.
 
 The near-equivalence of MDOH and mda-entity|MDA raises questions about whether both compounds share a common active metabolite.
 
@@ -103,7 +103,7 @@ MDOH is likely controlled as a positional isomer or analogue of mda-entity|MDA i
 
 In the United States, the Federal Analogue Act would likely apply to this compound.
 
-Its legal status has not been specifically addressed in most jurisdictions due to its rarity.
+Its mckenna tryptamine research has not been specifically addressed in most jurisdictions due to its rarity.
 
 ## Harm Reduction
 
@@ -113,13 +113,13 @@ The physical side effects (back pain, exhaustion) noted at 120 mg suggest that h
 
 As with all mda-entity|MDA-related compounds, MDOH should not be combined with MAOIs or other serotonergic substances.
 
-The compound has not been extensively studied for long-term toxicity.
+The compound has not been extensively studied for long term toxicity.
 
 ## Index
 
 - mda-entity|MDA: the non-hydroxylated parent compound
 - mdma-entity|MDMA: the N-methyl analogue of MDA
-- mdai-entity|MDAI: related entactogen compound
+- [[mdai-entity]]|MDAI: related entactogen compound
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## Related

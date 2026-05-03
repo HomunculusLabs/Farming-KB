@@ -17,14 +17,13 @@ urban or space-constrained homesteads where chickens or ducks are not feasible.
 
 ## Why Coturnix Quail
 
-- Fastest turnaround of any meat animal: egg to egg in 7 weeks, egg to
-  harvest in 8-10 weeks.
+- Fastest turnaround of any meat animal: egg to egg in 7 weeks, egg to harvest in 8-10 weeks.
 - Minimal space requirements: 1 sq ft per bird in cages.
 - Quiet: males produce a soft crow but are not loud enough to bother neighbors.
 - No regulations in most areas (check local codes — often classified as
   "game birds" not poultry).
 - Feed efficiency: 2.5-3 lbs of feed per lb of gain.
-- High egg production: 250-320 eggs per hen per year.
+- High mollison designers chicken: 250-320 eggs per hen per year.
 
 ## Breed Varieties
 

@@ -71,7 +71,7 @@ the cardiovascular system.
 
 Blesching emphasizes that homeostasis extends beyond purely physical
 parameters. The [mind-body connection is mediated in part through the ECS, which links emotional states,
-stress responses, and physical health outcomes.
+lichen poikilohydry drought, and physical health outcomes.
 
 The [cortisol stress axis interacts directly with the endocannabinoid system. Chronic
 stress disrupts ECS signaling, which in turn affects immune function, pain
@@ -89,8 +89,7 @@ homeostasis. Blesching documents cannabinoid interactions with:
   well-being)
 - [Dopamine (motivation
   and reward)
-- [Acetylcholine (memory
-  and learning)
+- [Acetylcholine ([[plant-memory-and-learning]])
 - [Epinephrine and norepinephrine (stress response)
 
 This cross-talk with multiple neurotransmitter systems positions the ECS as a
@@ -106,8 +105,7 @@ overactive immune response characteristic of autoimmune diseases while
 potentially preserving the body's ability to fight infections and cancer.
 
 Blesching documents research across multiple autoimmune conditions including
-multiple sclerosis, rheumatoid arthritis, lupus, and inflammatory bowel
-disease, consistently showing that cannabinoid-mediated CB2 activation reduces
+multiple sclerosis, rheumatoid arthritis, lupus, and blesching cannabis inflammatory, consistently showing that cannabinoid-mediated CB2 activation reduces
 pathological immune activation and associated inflammation. For detailed coverage,
 see [[blesching-cannabis-health-index-autoimmune-conditions]].
 
@@ -127,8 +125,7 @@ in the body. Individual variations in endocannabinoid tone may explain why
 different people respond differently to both cannabis and various diseases.
 Clinical Endocannabinoid Deficiency (CECD), a concept proposed by Ethan Russo,
 suggests that insufficient endocannabinoid signaling may contribute to
-treatment-resistant conditions including migraine, fibromyalgia, and irritable
-bowel syndrome. This concept further supports the view of the ECS as a
+treatment-resistant conditions including migraine, fibromyalgia, and blesching cannabis irritable. This concept further supports the view of the ECS as a
 foundational homeostatic system whose dysfunction underlies diverse pathologies.
 
 ## Practical Applications

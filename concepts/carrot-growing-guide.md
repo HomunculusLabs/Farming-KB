@@ -7,7 +7,7 @@ tags: [vegetables, gardening, cultivation, beginner, soil, troubleshooting]
 sources: []
 ---
 ## Overview
-Carrots are a root vegetable prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers soil preparation, variety selection, planting, care, harvesting, and common problems.
+Carrots are a root vegetable prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers and soil preparation, variety selection, planting, care, harvesting, and common problems.
 ## Soil Preparation
 Carrots are demanding about soil texture. Poor soil is the primary cause of forked, stunted, or deformed roots.
 ### Ideal Soil Conditions
@@ -28,7 +28,7 @@ Carrots are demanding about soil texture. Poor soil is the primary cause of fork
 - Add coarse sand (not fine playground sand) to improve drainage
 - Mix in generous amounts of compost and leaf mold
 - Consider growing shorter varieties like Paris Market or Little Finger
-- Over multiple seasons, consistent organic matter additions transform heavy soil
+- Over multiple seasons, consistent mollison designers humus additions transform heavy soil
 ## Varieties
 ### By Shape and Size
 - **Nantes**: Cylindrical, blunt tip, 6-7 inches, sweet and tender. Varieties: Bolero, Touchon, Nelson
@@ -109,7 +109,7 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 ### When to Harvest
 - Carrots are usually ready 60-80 days after sowing depending on variety
 - Check size by brushing soil away from the shoulder of a test carrot
-- Best flavor develops after a light frost (sugars concentrate)
+- best flavor develops after a light frost (sugars concentrate)
 - Do not leave in ground through deep winter freezes in cold zones
 ### How to Harvest
 - Loosen soil with a fork beside the row before pulling
@@ -119,7 +119,7 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 - Remove tops immediately — they draw moisture from roots
 - Do not wash before storage; brush off loose soil only
 - Store at 32-38F with 95-100% humidity
-- Pack in damp sand, sawdust, or leaves in a root cellar or refrigerator crisper
+- Pack in damp sand, sawdust, or leaves in root cellar or refrigerator crisper
 - Properly stored carrots last 4-6 months
 - Carrots can overwinter in the ground in zones 5-6 with heavy mulch (straw, leaves)
 ## See Also

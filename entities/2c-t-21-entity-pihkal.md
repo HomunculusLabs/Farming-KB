@@ -124,8 +124,7 @@ anhydrous THF (a heat lamp was needed to keep the nitrostyrene in solution). As 
 
 ## Safety Notes
 
-2C-T-21 is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+2C-T-21 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

@@ -31,7 +31,7 @@ updated: 2026-05-02
 
 **Rhizopus stolonifer** is a rapidly growing mold best known as black bread mold.
 It is a cosmopolitan saprotrophic fungus and one of the common organisms behind black pin mold contamination.
-In mushroom cultivation it matters because its fast, cottony growth can overrun grain, agar, or moist substrates.
+Mushroom cultivation it matters because its fast, cottony growth can overrun grain, agar, or moist substrates.
 The species is also an important decomposer of stored foods, fruits, vegetables, and other nutrient-rich materials.
 
 ## Taxonomic position
@@ -111,7 +111,7 @@ The same organism is a common spoilage mold of bread and produce.
 It can contribute to soft rot of fruits and vegetables, especially where tissue has been wounded.
 It acts mainly as an early colonizer of accessible carbohydrates.
 In household settings it is usually a spoilage issue rather than a deliberately cultivated organism.
-Its ecological role is decomposition: converting dead or damaged organic matter back into fungal biomass and simpler compounds.
+Its ecological role is decomposition: converting dead or damaged mollison designers humus back into fungal biomass and simpler compounds.
 
 ## Management notes
 

@@ -100,7 +100,7 @@ approaches. Kolmogorov's 1941 theory predicts E(k) ~ k^(−5/3) in the inertial 
 The finite volume method (FVM) dominates industrial CFD, enforcing conservation on unstructured grids (ANSYS Fluent, STAR-CCM+, OpenFOAM) with
 SIMPLE/PISO pressure-velocity coupling. The finite difference method (FDM) uses Taylor series on structured grids for high-order accuracy (WENO,
 compact schemes). Spectral methods expand solutions in global basis functions (Fourier, Chebyshev) with exponential convergence — the gold standard
-for DNS. The finite element method (FEM) handles complex geometries via weak formulations (FEniCS, COMSOL). The lattice Boltzmann method (LBM)
+for DNS. The [[finite-element-method]] (FEM) handles complex geometries via weak formulations (FEniCS, COMSOL). The lattice Boltzmann method (LBM)
 simulates fluid via particle distributions on a lattice, excelling in complex geometries and multiphase flows. Smoothed particle hydrodynamics (SPH)
 is a meshless Lagrangian method natural for free-surface flows.
 

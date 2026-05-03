@@ -1,5 +1,6 @@
 ---
-ti
+title: "Hemoglobin Oxygen Transport Biochemistry"
+---
 
 ## Overview
 
@@ -78,19 +79,19 @@ Myoglobin's high affinity (low P50) makes it an intracellular O2 reservoir and f
 
 ### Sickle Cell Disease (HbS)
 
-Sickle cell disease results from a single point mutation in the beta-globin gene (HBB): a GAG-to-GTG substitution causing Glu6Val. This hydrophobic valine on the beta-chain surface creates a sticky patch that, in the deoxygenated T state, interacts with a complementary hydrophobic site (Phe85 and Leu88) on an adjacent beta chain of another hemoglobin molecule. This leads to polymerization of deoxy-HbS into long fibers that deform red blood cells into rigid sickle shapes, causing vaso-occlusion, hemolysis, pain crises, and multiorgan damage. The disease is autosomal recessive; heterozygotes (sickle cell trait, HbAS) have partial protection against severe malaria (Plasmodium falciparum), explaining the allele's high frequency in malaria-endemic regions — a textbook example of balancing selection.
+cannabis sickle cell results from a single point mutation in the beta-globin gene (HBB): a GAG-to-GTG substitution causing Glu6Val. This hydrophobic valine on the beta-chain surface creates a sticky patch that, in the deoxygenated T state, interacts with a complementary hydrophobic site (Phe85 and Leu88) on an adjacent beta chain of another hemoglobin molecule. This leads to polymerization of deoxy-HbS into long fibers that deform red blood cells into rigid sickle shapes, causing vaso-occlusion, hemolysis, pain crises, and multiorgan damage. The disease is autosomal recessive; heterozygotes (sickle cell trait, HbAS) have partial protection against severe malaria (Plasmodium falciparum), explaining the allele's high frequency in malaria-endemic regions — a textbook example of balancing selection.
 
 ### Thalassemias
 
 Thalassemias are quantitative defects in globin chain synthesis, classified by which chain is deficient:
 
 - **Alpha-thalassemia**: Caused by deletions of one or more of the four alpha-globin genes. Severity ranges from silent carrier (one gene deleted) to HbH disease (three deleted, with beta-4 tetramers causing mild-to-moderate hemolytic anemia) to hydrops fetalis (all four deleted, lethal in utero without intervention).
-- **Beta-thalassemia**: Caused by point mutations or small deletions in the beta-globin gene that reduce (beta+) or abolish (beta-0) beta-chain production. Unpaired alpha chains precipitate, damaging erythroid precursors and causing ineffective erythropoiesis. Beta-thalassemia major (Cooley's anemia) requires lifelong transfusion and iron chelation therapy.
+- **Beta-thalassemia**: Caused by point mutations or small deletions in the beta-globin gene that reduce (beta+) or abolish (beta-0) beta-chain production. Unpaired alpha chains precipitate, damaging erythroid precursors and causing ineffective erythropoiesis. Beta-thalassemia major (Cooley's anemia) requires lifelong transfusion and [[mycorrhizal-siderophores-iron-chelation]] therapy.
 
 ### Other Clinically Significant Variants
 
 - **HbC (Glu6Lys)**: Mild hemolytic anemia; heterozygotes also have malaria resistance.
-- **HbE (Glu26Lys)**: Common in Southeast Asia; mildly unstable, causes microcytosis; compound heterozygotes with beta-thalassemia produce severe disease.
+- **HbE (Glu26Lys)**: Common in [[fungi-of-southeast-asia]]; mildly unstable, causes microcytosis; compound heterozygotes with beta-thalassemia produce severe disease.
 - **Methemoglobinemia**: Either congenital (cytochrome b5 reductase deficiency) or acquired (oxidant drugs, nitrates), causing functional anemia and cyanosis due to Fe3+-heme that cannot bind O2.
 
 ## Evolutionary Aspects

@@ -20,13 +20,13 @@ sunlight and have high light requirements compared to indica strains.
 Providing adequate light intensity and quality is fundamental to
 successful indoor sativa cultivation.
 ### Light Intensity
-Target 600-1000 µmol/m²/s PPFD during the flowering stage for
+Target 600-1000 µmol/m²/s PPFD during the comparison cannabis vegetative for
 sativa-dominant varieties. Pure sativas from equatorial regions can
 utilize even higher intensities, up to 1200 µmol/m²/s, provided that
-temperature and humidity are properly managed. During vegetative growth,
+and humidity are properly managed. During vegetative growth,
 300-600 µmol/m²/s is sufficient.
 Insufficient light intensity is one of the most common causes of poor
-sativa yields indoors. The open, airy bud structure of sativa means
+sativa yields indoors. The open, airy green cannabis plant of sativa means
 that lower light levels produce even fluffier, less dense flowers.
 Maximizing light penetration through training and canopy management
 is essential.
@@ -56,7 +56,7 @@ terpene production and anthocyanin expression.
 - **Late flowering:** 40-45% RH
 The extended flowering time means plants spend more weeks in mold-
 conducive conditions. Dehumidification is essential during the final
-4-6 weeks. Maintain minimum 1 complete air exchange every 3-5 minutes.
+4-6 weeks. Maintain minimum 1 complete growing gourmet growing every 3-5 minutes.
 ### Air Circulation
 Oscillating fans should provide constant airflow across the entire
 canopy. For tall sativa plants, use fans at multiple heights. Avoid

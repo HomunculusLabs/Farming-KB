@@ -29,7 +29,7 @@ Several fungal endosymbionts play documented roles in insect biology [[endophyti
 - ***Symbiotaphrina*** in anobiid beetles: detoxification of food resources through production of hydrolytic enzymes (Dowd, 1989, 1991)
 - **Yeast-like symbionts (YLSs)** in planthoppers: contributions to host nutrition, including sterol biosynthesis via cytochrome P450 genes
 - **Cactophilic yeasts** associated with *Drosophila*: amellignin-degradationional resources in cactus tissues
-- Proposed functions in wood-boring insects include cellulose/hemicellulose/lignin degradation, pheromone production, detoxification, nitrogen fixation, and vitamin synthesis
+- Proposed functions in wood-boring insects include cellulose/hemicellulose/[[lignin-degradation]], pheromone production, detoxification, nitrogen fixation, and vitamin synthesis
 
 ## Mushroom-Feeding Beetles
 

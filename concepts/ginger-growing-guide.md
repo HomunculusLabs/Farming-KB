@@ -26,7 +26,7 @@ high tunnels with proper management.
 - Hardiness: USDA zones 9-12 (grown as an annual or container plant elsewhere)
 - Lifecycle: Perennial in tropics; annual in temperate climates
 - Height: 2-4 feet
-- Growing season: 8-10 months for mature rhizome production
+- growing season: 8-10 months for mature rhizome production
 
 Ginger produces reed-like stems with narrow, lance-shaped leaves. The edible
 portion is the underground rhizome -- a knobby, branched structure with
@@ -119,7 +119,7 @@ From rhizomes (primary method):
 - Foliar feed monthly during active growth
 - Ginger is relatively pest-free; watch for rhizome rot in poorly drained
   soils
-- Nematodes can be a problem in tropical soils; use clean planting stock
+- Nematodes can be a problem in mollison designers pioneer; use clean planting stock
   and practice crop rotation
 
 ## Greenhouse and Container Growing

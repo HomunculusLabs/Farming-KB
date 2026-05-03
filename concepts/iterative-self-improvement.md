@@ -26,7 +26,7 @@ iteration.
 This loop can be applied at different granularities. At the model level, an
 entire model is retrained on its own synthetic outputs. At the data level,
 specific weak areas are targeted for synthetic augmentation. At the task level,
-performance on a benchmark is measured and synthetic data is generated to
+performance on a benchmark is measured and [[synthetic-data-generation]] is generated to
 address identified gaps.
 
 ## Conditions for Success
@@ -57,7 +57,7 @@ than any single model could produce.
 
 **Error amplification** occurs when the model's mistakes enter the training
 data and are reinforced. A model that consistently makes a specific arithmetic
-error will teach that error to the next generation, making it harder to correct
+error will teach that error to the next generation sequencing, making it harder to correct
 later.
 
 **Distribution collapse** happens when the model narrows its output diversity

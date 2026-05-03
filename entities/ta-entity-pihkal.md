@@ -92,7 +92,7 @@ weight equivalent of 10 milligrams, the activity of TA would be
 several stone. And since the synthetic intermediate
 1-allyl-2,3,4,5-tetramethoxybenzene is one of the ten essential oils,
 the amination step from our hypothetical reaction in the human liver
-would make TA one of the so-called Ten Essential Amphetamines.
+would make TA one of the so-called Ten and natural precursors.
 
 ## Synthesis
 

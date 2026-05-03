@@ -8,15 +8,15 @@ sources: []
 ---
 # Plant Medicine Ethics
 ## Overview
-The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, psilocybin mushrooms, peyote, iboga, San Pedro, and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
+The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, [[psilocybin-mushrooms]], peyote, iboga, San Pedro, and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
 ## Cultural Appropriation vs. Cultural Appreciation
 ### The Problem
 Many psychedelic plant medicines are sacred to indigenous communities who have used them for centuries or millennia:
 - Ayahuasca: Indigenous peoples of the Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
 - Peyote: Native American Church members, Huichol (Wixarika) people of Mexico
 - Iboga: Bwiti spiritual tradition of Gabon and surrounding regions
-- Psilocybin mushrooms: Mazatec people of Oaxaca, Mexico; various Mesoamerican cultures
-- San Pedro (Echinopsis pachanoi): Andean indigenous traditions
+- Psilocybin mushrooms: [[mazatec-people]] of Oaxaca, Mexico; various Mesoamerican cultures
+- San Pedro ([[echinopsis-pachanoi]]): Andean indigenous traditions
 When Western practitioners adopt these traditions without acknowledgment, compensation, or understanding of cultural context, several harms occur:
 - Erasure of indigenous contributions and intellectual traditions
 - Economic exploitation — practitioners profit from knowledge that originated with indigenous peoples

@@ -94,7 +94,7 @@ Badham's experiments used a closed-circuit wind tunnel with carefully controlled
 
 Two adaptive functions for anemotropic growth have been proposed:
 
-1. Spore dispersal optimization: growing toward airflow positions the cap for maximum spore release when sporulation begins
+1. [[spore-dispersal]] optimization: growing toward airflow positions the cap for maximum spore release when sporulation begins
 2. Spacing of cespitose fruiting bodies: directed growth toward evaporative demand could increase spacing between stipes of clustered (cespitose) fruiting bodies, reducing competition for resources and improving individual spore dispersal efficiency
 
 The first function is particularly important for P. cubensis, which often fruits in dense clusters on dung substrates where individual stipes are close together. By growing toward areas of greater airflow, each stipe positions itself to maximize future spore dispersal potential.

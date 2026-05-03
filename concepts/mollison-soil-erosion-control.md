@@ -10,7 +10,7 @@ sources:
 
 # Mollison: [[soil-erosion-control]]
 
-Source: Bill Mollison, Permaculture: A Designers' Manual (Chapter 8, Section 8.17)
+Source: [[bill-mollison]], Permaculture: A Designers' Manual (Chapter 8, Section 8.17)
 
 ## The Nature of Erosion
 
@@ -24,7 +24,7 @@ Third world debt and western world over-production are both primary factors in s
 
 ## The Organic Matter Connection
 
-Charles Arden-Clarke and David Hodges (New Scientist, 1987) point out that many recent outbreaks of severe erosion are clearly linked to falling levels of organic matter in the soil.
+Charles Arden-Clarke and David Hodges (New Scientist, 1987) point out that many recent outbreaks of severe erosion are clearly linked to falling levels of mollison designers humus in the soil.
 
 The more organic matter there is in the soil, the more stable it is due to good soil structure and water infiltration.
 
@@ -68,15 +68,15 @@ Intensive arable use and winter cropping both create more erosion.
 
 ### Vegetative Cover
 
-Maintaining permanent vegetative cover is the single most effective erosion control measure.
+Maintaining permanent vegetative cover is the single most effective and erosion control measure.
 
 Permanent pasture, forests, and groundcover plants protect soil from raindrop impact and wind.
 
-Green manures between cropping cycles maintain soil protection.
+And green manures between cropping cycles maintain soil protection.
 
 ### Mulching
 
-Mulching, green manure, grass leys on rotation, hedgerows, and minimal cultivation are not only urgent but imperative.
+Mulching, and green manure, grass leys on rotation, hedgerows, and minimal cultivation are not only urgent but imperative.
 
 Mulch absorbs the energy of raindrops, preventing soil particle detachment.
 
@@ -98,7 +98,7 @@ Swales, contour drains, and check dams slow water movement across slopes.
 
 Proper drainage prevents water concentration that creates gullies.
 
-Water harvesting systems reduce runoff volume.
+Water comparison [[xeriscaping-guide]] reduce runoff volume.
 
 ## Repair Strategies
 

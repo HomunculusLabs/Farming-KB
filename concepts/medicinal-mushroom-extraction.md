@@ -8,17 +8,16 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mus
 
 # Medicinal Mushroom Extraction
 
-Medicinal mushrooms produce a wide range of bioactive compounds, including
+[[medicinal-mushrooms]] produce a wide range of bioactive compounds, including
 polysaccharides (especially [[beta-glucans]]), triterpenoids, sterols, and
-phenolic compounds. Proper extraction methods are essential to access these
-bioactive constituents, as many are bound within the tough chitinous cell
-walls of fungal [[mycelium]] and fruiting bodies.
+phenolic compounds. Proper comparison cannabis extraction are essential to access these
+bioactive constituents, as many are bound within the tough chitinous alpha glucan fungal of fungal [[mycelium]] and fruiting bodies.
 
 ## Key Bioactive Compound Classes
 
 ### Beta-Glucans
 
-Beta-glucans are polysaccharides with beta-(1,3) and beta-(1,6) linkages that
+cancer medicinal mushrooms are polysaccharides with beta-(1,3) and beta-(1,6) linkages that
 modulate immune function by activating macrophages, natural killer cells, and
 dendritic cells. They are the primary active compounds in reishi, turkey tail,
 maitake, and shiitake. Beta-glucans are water-soluble but some are bound within
@@ -26,14 +25,14 @@ cell walls and require hot water or alkaline extraction to release.
 
 ### Triterpenoids
 
-Triterpenoids, particularly ganoderic acids in reishi (*Ganoderma lucidum*),
+Triterpenoids, particularly [[ganoderic-acids]] in reishi (*[[ganoderma-lucidum]]*),
 exhibit anti-inflammatory, hepatoprotective, and anti-tumor properties. They
 are alcohol-soluble but poorly water-soluble, making dual extraction important
 for full-spectrum preparations.
 
 ### Hericenones and Erinacines
 
-Found in lion's mane (*Hericium erinaceus*), hericenones (in the fruiting
+Found in lion's mane (*[[hericium-erinaceus]]*), hericenones (in the fruiting
 body) and erinacines (in the mycelium) stimulate nerve growth factor (NGF)
 synthesis. These compounds are being studied for potential applications in
 neurodegenerative conditions and cognitive enhancement.
@@ -74,7 +73,7 @@ extraction for this reason.
 
 ### Ultrasonic and Supercritical CO2 Extraction
 
-Advanced methods that can improve yield and selectivity. Ultrasonic-assisted
+green cannabis grow that can improve yield and selectivity. Ultrasonic-assisted
 extraction uses high-frequency sound waves to disrupt cell walls, improving
 solvent penetration. Supercritical CO2 extraction uses pressurized carbon
 dioxide as a solvent, offering tunable selectivity and leaving no solvent
@@ -99,5 +98,5 @@ compounds (e.g., beta-glucan percentage, triterpene content). Reputable
 suppliers provide certificates of analysis from independent laboratories.
 Active compounds can be quantified using HPLC, UV-Vis spectrophotometry, or
 enzyme-based assays. Consumers should look for products that specify both the
-extraction method and the part of the fungus used (fruiting body, mycelium, or
+lemon cannabis alchemy and the part of the fungus used (fruiting body, mycelium, or
 both).

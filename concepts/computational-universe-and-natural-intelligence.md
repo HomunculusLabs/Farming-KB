@@ -75,7 +75,7 @@ The [[entheogen-culture]] provides what Powell considers the most compelling evi
 
 The consistent features of the psychedelic experience, including the sense of encountering an intelligent Other, the apprehension of profound meaning and purpose, and the lasting positive transformation of worldview, suggest that consciousness has access to dimensions of reality that are ordinarily hidden from waking awareness.
 
-The mystical experience induced by [[psilocybin-compound-profile]] is not merely a subjective alteration of brain state but appears to provide genuine insight into the intelligent, intentional nature of the reality process.
+The [[mystical-experience]] induced by [[psilocybin-compound-profile]] is not merely a subjective alteration of brain state but appears to provide genuine insight into the intelligent, intentional nature of the reality process.
 
 If the null hypothesis were correct, it is difficult to explain why a random chemical perturbation of neural circuits should consistently produce experiences of such profound meaning, beauty, and transformative power.
 

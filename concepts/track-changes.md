@@ -18,7 +18,7 @@ review, and business document collaboration.
 
 ## How It Works
 
-When Track Changes is enabled in Microsoft Word, the application begins
+When Track Changes is enabled in microsoft word document, the application begins
 recording every insertion, deletion, formatting change, and comment as
 revisions. Insertions are typically displayed with underlined text in a
 designated color, deletions are shown as strikethrough text or in balloons in

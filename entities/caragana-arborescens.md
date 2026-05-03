@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: entity
 tags: [permaculture, species]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
 title: "Caragana arborescens"
@@ -147,4 +148,3 @@ It was introduced to North America by Eurasian immigrants in the 18th century an
 The Prairie Farm Rehabilitation Administration planted millions of caragana seedlings across the Canadian Prairies from the 1930s through the 1970s.
 
 ## See Also
-- [[decomposition]]

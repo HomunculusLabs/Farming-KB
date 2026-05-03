@@ -5,7 +5,7 @@ type: conceptdecompositionteading, off-grid, water, composting, sustainability, 
 sources: []
 ---
 # Composting Toilet Systems
-Composting toilets treat human waste on-site through aerobic decomposition,
+[[composting-toilets]] treat human waste on-site through aerobic decomposition,
 converting it into a safe, nutrient-rich soil amendment. They eliminate the
 need for conventional septic systems, reduce water consumption, and are a
 key component of off-grid sanitation infrastructure. This guide covers
@@ -18,8 +18,7 @@ system types, design, maintenance, and legal considerations.
   the soil cycle
 - **Reduced infrastructure** — no septic field, leach lines, or connection
   to municipal systems
-- **Cost savings** — eliminates septic installation ($5,000-15,000) and
-  maintenance
+- **Cost savings** — eliminates septic installation ($5,000-15,000) and maintenance
 ## System Types
 ### Self-Contained Units
 The toilet and composting chamber are a single unit installed directly in
@@ -75,7 +74,7 @@ processed separately, dramatically improving composting efficiency.
 - Faster, cleaner composting — no excess liquid in the compost pile
 - Minimal odor when managed properly
 - Urine (diluted) is an excellent nitrogen fertilizer
-- Low cost — DIY versions can be built for $100-500
+- mushroom growing house — DIY versions can be built for $100-500
 - No electricity required
 **Disadvantages:**
 - Users must sit to urinate (or use a separate urinal)
@@ -122,7 +121,7 @@ A permanent installation with a larger composting chamber:
   3 days ensures pathogen kill
 - **Testing**: finished compost should test negative for fecal coliforms
   before use
-- **Application**: use on ornamental plants, fruit trees, and non-food crops;
+- **Application**: use on ornamental plants, comparison pruning fruit, and non-food crops;
   avoid root vegetables if any doubt about pathogen kill
 ## Legal Considerations
 - **Regulation varies widely** by state, county, and municipality

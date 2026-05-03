@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Hairy vetch is an annual or winter-annual legume in the family Fabaceae, native to Europe and western Asia. It is one of the most widely used cover crops in temperate sustainable agriculture systems, valued for its vigorous nitrogen fixation, winter hardiness, and ability to produce large quantities of high-quality biomass. In permaculture design, hairy vetch serves as a foundational nitrogen-fixing ground cover in food forests, orchard understories, and annual crop rotations.
+Hairy vetch is an annual or winter-annual legume in the family Fabaceae, native to Europe and western Asia. It is one of the most widely used [[cover-crops]] in temperate sustainable agriculture systems, valued for its vigorous nitrogen fixation, winter hardiness, and ability to produce large quantities of high-quality biomass. In [[permaculture-design]], hairy vetch serves as a foundational nitrogen-fixing ground cover in and food forests, orchard understories, and annual crop rotations.
 
 ## Botanical Description
 
@@ -36,9 +36,9 @@ Hairy vetch is among the most productive nitrogen-fixing cover crops in temperat
 
 - **Winter cover crop:** Sown in late summer/autumn, it establishes in autumn, overwinters (hardy to -20°C), and produces explosive spring growth
 - **No-till mulch:** When rolled/crimped at flowering, forms a thick weed-suppressing mat into which crops can be direct-seeded
-- **Orchard understory:** Grown beneath fruit trees as a nitrogen source and weed suppressor; climbing habit can be managed by mowing
+- **Orchard understory:** Grown beneath comparison pruning fruit as a nitrogen source and weed suppressor; climbing habit can be managed by mowing
 - **Companion crop:** Often mixed with cereal rye (*Secale cereale*) for complementary benefits — rye provides rapid fall growth and weed suppression, vetch adds nitrogen and extends the nitrogen release curve
-- **Erosion control:** Dense fall/winter canopy protects soil from rain and wind erosion
+- **and erosion control:** Dense fall/winter canopy protects soil from rain and wind erosion
 - **Forage:** High-protein forage for livestock when grazed or cut for hay (contains 20–28% crude protein at flowering)
 - **Bee forage:** Prolific spring blooms provide nectar and pollen for early-season pollinators
 
@@ -55,7 +55,7 @@ Adapts to a wide range of soil types including sandy, loamy, and clay soils. Tol
 - Excellent spring nectar source for bumblebees and other long-tongued pollinators
 - Provides nesting habitat and cover for ground-dwelling beneficial insects
 - Dense residue mat created by rolled/crimped vetch supports soil microbiome diversity
-- Can harbor beneficial mycorrhizal networks that extend to companion crops
+- Can harbor beneficial [[mycorrhizal-networks]] that extend to companion crops
 - Seed pods provide food for game birds
 
 ## Limitations

@@ -59,15 +59,14 @@ pressure, the force that pushes water upward through the plant from the
 roots. He demonstrated this by attaching manometers, U-shaped glass tubes
 containing water, to cut stems and observing the height to which sap rose
 in the tubes. These experiments provided the first quantitative
-measurements of the forces involved in water transport in plants.
+measurements of the forces involved in water in plants.
 
 Hales showed that roots actively absorb water from the soil and generate
 a positive pressure that drives the sap upward. While the full mechanism
 of water transport, including the role of transpiration pull and the
 cohesion-tension theory, would not be understood until the late
 nineteenth century, Hales's measurements of root pressure were remarkably
-accurate and remain relevant to modern understanding of plant water
-relations.
+accurate and remain relevant to modern understanding of dighton fungal drought.
 
 ### Transpiration
 
@@ -103,7 +102,7 @@ many of his experiments with readily available materials.
 
 Hales's influence extended beyond botany. His quantitative experimental
 approach helped establish physiology as a rigorous experimental science,
-applicable to both plants and animals. He is sometimes called the father
+applicable to both and animals. He is sometimes called the father
 of physiology more broadly, not merely plant physiology. His work on
 blood pressure in animals paralleled his studies of sap pressure in
 plants, reflecting his unified view of living systems.

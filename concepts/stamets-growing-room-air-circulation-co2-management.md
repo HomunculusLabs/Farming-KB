@@ -16,8 +16,7 @@ provisions for heating, cooling, humidification, and air handling.
 ## Historical and Modern Air Handling Approaches
 
 In original shelf houses, fresh air entered through adjustable ceiling vents
-above the center aisle. Heat came from hot water piping along the walls, and
-humidity from live steam piping. Warm air rising along the walls combined with
+above the center aisle. Heat came from hot water piping along the walls, and humidity from live steam piping. Warm air rising along the walls combined with
 cool fresh air falling down the center aisle to create convection currents.
 Although no longer standard for [[agar]]icus growers, this convection-based
 approach can be adapted for small growth chambers.
@@ -42,7 +41,7 @@ overuse can overwork the heating, cooling, and humidification systems.
 
 ## Functions of Fresh Air Exchange
 
-Fresh air serves several critical functions in mushroom culture:
+Fresh air serves several critical functions in of mushroom culture:
 - Supplying oxygen to the growing mushrooms
 - Carrying away CO2 produced by metabolism
 - Facilitating moisture evaporation from the cropping surface
@@ -87,7 +86,7 @@ per hour:
 
     CFM = (4 x 800) / 60 = 53.3 CFM
 
-Species-specific maximum air exchange rates:
+Species-specific maximum growing gourmet growing rates:
 - [[agaricus-brunnescens]]: 4 to 6 air exchanges per hour
 - [[psilocybe-cubensis-profile]]: 2 to 3 air exchanges per hour
 

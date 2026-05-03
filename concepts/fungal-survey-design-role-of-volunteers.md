@@ -31,7 +31,7 @@ design approaches:
   and abundances of fungi at particular sites, providing the
   foundation for measuring future changes
 - **Environmental monitoring**: Using fungal community data as
-  indicators of ecosystem health and responses to management
+  indicators of fungal indicators soil and responses to management
 - **Conservation assessment**: Identifying rare, endemic, or
   threatened species for protection priority
 - **Impact assessment**: Evaluating the effects of development,
@@ -43,7 +43,7 @@ Baseline survey data constitute the foundation against which changes
 in species presence and abundances can be measured in response to
 natural or human-induced environmental perturbations. During the past
 20-30 years, both species compositions and abundances of macrofungi at
-sites in Europe have changed markedly, with previously common species
+sites in europe have changed markedly, with previously common species
 no longer encountered and others designated as rare or endangered.
 
 ## Volunteer and Parataxonomist Involvement
@@ -90,8 +90,7 @@ Effective fungal survey design follows several key principles:
    different life histories and require different sampling techniques
 
 2. **Scale consideration**: Spatial and temporal scales must be
-   appropriate to the taxa of interest, as the time scale of fungal
-   succession and the spatial scale of mycelial distribution vary
+   appropriate to the taxa of interest, as the time scale of dighton pine needle and the spatial scale of mycelial distribution vary
    enormously among groups
 
 3. **Habitat stratification**: Sites should be stratified by
@@ -130,9 +129,9 @@ Survey data must be managed and disseminated effectively:
 
 - Both hard copy and electronic versions of raw data should be
   archived in standard formats
-- Reports should include descriptions of sampling protocols
+- Reports should include descriptions of lichen air quality
   sufficient for other professionals to duplicate study methods
-- Species lists should report names of experts consulted and
+- mollison native seed should report names of experts consulted and
   taxonomic authorities followed
 - Voucher specimen locations must be documented
 - Electronic formats should be chosen with translatability as a

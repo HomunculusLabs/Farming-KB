@@ -19,7 +19,7 @@ Full chemical name: 2,6-Dimethoxy-4-methylamphetamine.
 
 Molecular formula: C12H19NO2.
 
-gamma-DOM is the 2,4,6-positional isomer of dom-entity|DOM (2,4,5-dimethoxy-4-methylamphetamine, also known as STP).
+gamma-DOM is the 2,4,6-positional isomer of [[dom-entity-pihkal]]|DOM (2,4,5-dimethoxy-4-methylamphetamine, also known as STP).
 
 The compound was code-named Z-7 after the Pennzoil oil additive, continuing the petroleum-product naming convention of the DOM series.
 
@@ -43,7 +43,7 @@ At 14 mg, users report being "really quite spacey" with thoughts that go "straig
 
 The compound is described as an "interpretive drug, not simply an ASC [altered state of consciousness] opening."
 
-There is no trace of the mdma-entity|MDMA-like magic.
+There is no trace of the [[mdma-entity]]|MDMA-like magic.
 
 At 18 mg, a light-headedness and starry-eyed stoned state is reported.
 
@@ -69,7 +69,7 @@ This hypothesis attempted to explain the activity of 2,4,5-substituted compounds
 
 The theory proposed that the methoxy groups could be metabolically removed, allowing condensation with the primary amine to form an indolene, potentially connecting to the [[tryptamine]]/serotonin world.
 
-The problem was that no proposed mechanism could explain why 2,4,6-substituted compounds like gamma-DOM and tma-6-entity|TMA-6 should also be active.
+The problem was that no proposed mechanism could explain why 2,4,6-substituted compounds like gamma-DOM and [[tma-6-entity]]|TMA-6 should also be active.
 
 The activity of gamma-DOM and tma-6-entity|TMA-6 could not be denied, as both were "fully active in the 40 to 50 milligram area."
 

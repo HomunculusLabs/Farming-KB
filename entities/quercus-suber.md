@@ -83,4 +83,4 @@ permaculture principle of designing for permanence.
 - [[castanea-sativa]]
 - fagus sylvatica
 - olea europaea
-- ceratonia siliqua
+- [[ceratonia-siliqua]]

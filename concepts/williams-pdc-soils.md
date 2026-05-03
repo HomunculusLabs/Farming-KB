@@ -7,7 +7,7 @@ tags: [permaculture, soil-science]
 sources: []
 ---
 ---
-title: "Soils in Permaculture Design"
+title: "Soils in permaculture design"
 tags: [permaculture, soils, topsoil, erosion, earthen-construction,
        soil-sampling, nutrient-cycle, microclimate]
 date: 2026-04-25
@@ -48,8 +48,7 @@ nutrients added to it, to maintain its health.
 
 In nature, a bear does not wait until the local soil is depleted of
 nutrients before it adds amendments by pooping in the woods. The bear
-just always poops in the woods, always adding amendments. Plants and
-animals constantly add amendments to their local soils: animals poop,
+just always poops in the woods, always adding amendments. And animals constantly add amendments to their local soils: animals poop,
 pee, shed, molt and die, returning their micro-nutrients to the soil.
 Plants return micro-nutrients by shedding leaves, dropping twigs, and
 eventually falling over when they die. The permaculture designer

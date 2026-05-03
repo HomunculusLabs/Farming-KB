@@ -16,7 +16,7 @@ traveling at speed c = 1/√(μ₀ε₀) — is one of the greatest unifications
 
 ## Historical Development
 
-Faraday's 1831 discovery of electromagnetic induction — changing magnetic fields
+Faraday's 1831 discovery of [[electromagnetic-induction-faraday-law]] — changing magnetic fields
 produce electric fields — provided the conceptual foundation. Maxwell formalized these
 ideas in his 1865 paper "A Dynamical Theory of the Electromagnetic Field," originally
 using 20 quaternion equations. In 1884, Heaviside and Hertz reformulated them into the

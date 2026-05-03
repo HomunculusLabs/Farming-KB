@@ -13,7 +13,7 @@ Cannabis tinctures are liquid extracts made by soaking cannabis flower or concen
 When taken sublingually:
 1. Drops are placed under the tongue and held for 30-60 seconds
 2. Cannabinoids are absorbed through the sublingual mucosa directly into the bloodstream
-3. Bypasses first-pass metabolism in the liver
+3. Bypasses and oral bioavailability metabolism in the liver
 4. Effects are felt within 15-45 minutes (faster than edibles)
 5. Duration: 2-4 hours
 When swallowed or added to food, tinctures are processed through the digestive system like edibles, with onset in 1-2 hours and effects lasting 4-8 hours.
@@ -121,4 +121,4 @@ Tinctures can be flavored with:
 | Discretion | High (small bottle, no smell) | Moderate |
 | First-pass metabolism | Bypassed (sublingual) | Yes (liver processing) |
 | Shelf life | Long (especially alcohol) | Variable |
-For edible preparation methods, see [[cannabis-edibles-guide]]. For the decarboxylation process shared with [[cannabis-extraction-basics]], ensure proper temperature control. Understanding [[cannabis-concentrates-types]] can also help when choosing input material for tinctures.
+For edible and preparation methods, see [[cannabis-edibles-guide]]. For the decarboxylation process shared with [[cannabis-extraction-basics]], ensure proper temperature control. Understanding [[cannabis-concentrates-types]] can also help when choosing input material for tinctures.

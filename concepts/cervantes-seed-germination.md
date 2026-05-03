@@ -10,7 +10,7 @@ sources:
 
 # Cannabis Seed Germination and Seedling Care
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
 
 ## Seed Selection
 
@@ -25,7 +25,7 @@ A seed contains all the genetic characteristics of a plant — genes from both m
 
 ## Germination Requirements
 
-Cannabis seeds need only three things to germinate:
+cannabis seeds need only three things to germinate:
 1. **Water** — moisture penetrates the protective seed shell, activates dormant hormones
 2. **Temperature** — best at 78°F (25°C); range 70-90°F (21-32°C)
 3. **Air (oxygen)** — moist, soggy mediums cut off oxygen and seeds drown
@@ -83,7 +83,7 @@ Of ten quality seeds, some will be male, some weak, and two or three will grow i
 
 ## Additional Context
 
-Further research on cervantes seed germination continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
+Further research on cervantes comparison cannabis clone continues to advance our understanding of this field. Contemporary studies build upon the foundational work described above, incorporating modern molecular techniques, genomic analyses, and ecological modeling approaches.
 
 The interplay between environmental factors and biological responses in cervantes seed germination represents an active area of investigation, with implications for both theoretical ecology and practical applications in agriculture, medicine, and conservation.
 

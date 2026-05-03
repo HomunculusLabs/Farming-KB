@@ -26,7 +26,7 @@ sources:
 
 # Oriental Herbal Nutrient ([[natural-farming-ohn-preparation|OHN]])
 
-OHN is a medicinal herbal tincture in Korean [[ultra-low-cost-farming-overview|Natural Farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in Korean [[ultra-low-cost-farming-overview|Natural Farming]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen alpha glucan fungal and repel pests.
 
 ## The Five Herbs
 
@@ -125,7 +125,7 @@ This simplified version focuses on the two most potent herbs (garlic and ginger)
 |----------|----------|-------|
 | General plant health | 1:1000 | Foliar spray |
 | Pest prevention | 1:500-1000 | Spray before pest season |
-| Disease prevention | 1:500 | During humid/wet conditions |
+| disease prevention | 1:500 | During humid/wet conditions |
 | Active pest infestation | 1:200-500 | Stronger dose, repeat every 3-5 days |
 | Seed treatment (SES) | 1 ml/L | Part of SES solution |
 | Soil drench | 1:500-1000 | Suppress soil-borne pathogens |

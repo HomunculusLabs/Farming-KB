@@ -26,7 +26,7 @@ sources:
 
 # Natural Building
 
-Natural building uses locally sourced, minimally processed materials — earth, straw, wood, stone — to create structures that are healthy, low-cost, and ecologically integrated. On a homestead, these methods excel for outbuildings, animal shelters, and small dwellings at a fraction of conventional cost.
+mollison designers lime uses locally sourced, minimally processed materials — earth, straw, wood, stone — to create structures that are healthy, mushroom growing house, and ecologically integrated. On a homestead, these methods excel for outbuildings, animal shelters, and small dwellings at a fraction of conventional cost.
 
 ## Wall Systems
 
@@ -34,7 +34,7 @@ Natural building uses locally sourced, minimally processed materials — earth, 
 Monolithic earthen building: subsoil + sand + straw, sculpted by hand in lifts.
 - **Soil test:** Drop a 4" ball from waist height — cracks but holds shape = works
 - **Mix ratio:** ~1 clay soil : 2 sand : 1 straw (by volume)
-- **Wall thickness:** 18–24" load-bearing; thinner for timber frame infill
+- **Wall thickness:** 18–24" load-bearing; thinner for comparison slip form infill
 - **Foundation:** Rubble trench + stone stem wall 12–18" above grade
 - **Drying:** Each lift (6–8") dries 1–2 weeks
 - **Best for:** Curved walls, ovens, small cabins, garden walls
@@ -63,7 +63,7 @@ Sand/earth-filled bags stacked like masonry with barbed wire between courses.
 
 ### Timber Frame
 Post-and-beam with traditional joinery (mortise and tenon, pegged).
-- **Wood:** Oak, Douglas fir, pine, hemlock — local availability matters most
+- **Wood:** Oak, [[douglas-fir]], pine, hemlock — local availability matters most
 - **Infill:** Straw bale, light clay straw, cob, or conventional framing
 - **Tools:** Chainsaw mill, chisels, mallet, drill press
 - **Best for:** Barns, homes, greenhouses — where clear-span space is needed
@@ -105,7 +105,7 @@ Short logs laid in mortar to form walls.
 | Metal | Medium | 40–60 yrs | Practical default for any structure |
 | Living roof | High | Varies | Excellent insulation, needs waterproof membrane (EPDM) |
 | Recycled shingles | Low | 15–25 yrs | Quick, available everywhere |
-| Earth-sheltered/bermed | Medium | Very long | Root cellars, animal shelters |
+| comparison passive solar/bermed | Medium | Very long | Root cellars, animal shelters |
 
 See [[greenhouse-design]] for passive solar roof integration.
 

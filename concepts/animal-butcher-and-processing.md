@@ -3,12 +3,13 @@ title: animal butcher and processing
 created: 2026-04-12
 updated: 2026-04-12
 tyhomesteadingtags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 # [[livestock-fencing-guide|animal]] butcher and processing
 On-farm slaughter and processing is a fundamental [[homesteading]] skill that
 provides complete control over meat quality, animal welfare at harvest, and
-food safety. Processing your own animals eliminates processing fees and
+ingham coli compost. Processing your own animals eliminates processing fees and
 allows full utilization of every part of the animal. This guide covers the
 general process applicable to most homestead livestock (poultry, [[rabbit-husbandry|rabbit]]s,
 sheep, goats, pigs, and cattle).
@@ -134,7 +135,7 @@ sheep, goats, pigs, and cattle).
 - Chill the carcass for 12-24 hours (poultry: 4-6 hours, rabbits: 2-4
   hours) before cutting. Cold meat cuts cleanly.
 - Target temperature: 33-40°F internal.
-- Large animals: hang in a cool, dry, well-ventilated space. Small animals:
+- Large animals: hang in a cool, dry, well-ventilated space. Permaculture designers manual:
   submerge in ice water.
 
 ### Basic Cuts (Beef/Lamb/Goat/Pork)

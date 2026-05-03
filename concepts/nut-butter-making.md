@@ -7,7 +7,7 @@ tags: [food, recipe, homesteading, homestead-crafts, preparation, storage]
 sources: []
 ---
 ## What Is Nut Butter
-Nut butter is a spreadable paste made by grinding nuts (or seeds) into a smooth or crunchy consistency. The most common varieties are peanut butter, almond butter, and cashew butter, but virtually any nut or seed can be processed into butter. Homemade nut butters are superior to commercial versions — they contain no hydrogenated oils, excess sugar, preservatives, or emulsifiers. Making nut butter at home requires only a food processor and patience.
+Nut butter is a spreadable paste made by grinding nuts (or seeds) into a smooth or crunchy consistency. The most [[duggar-mushroom-common-varieties]] are peanut butter, almond butter, and cashew butter, but virtually any nut or seed can be processed into butter. Homemade nut butters are superior to commercial versions — they contain no hydrogenated oils, excess sugar, preservatives, or emulsifiers. Making nut butter at home requires only a food processor and patience.
 ## Equipment
 - Food processor — the primary tool; a full-size processor (7+ cups) works best
 - High-speed blender (Vitamix, Blendtec) — works well for smaller batches; use the tamper
@@ -39,7 +39,7 @@ A food processor is generally preferred over a blender because the wider bowl sh
 - Pecan butter: rich, buttery, very soft; processes quickly; expensive but delicious
 - Pistachio butter: vibrant green, complex flavor; excellent for desserts
 - Hazelnut butter: nutella-like; pairs well with chocolate and maple
-- Macadamia nut butter: very creamy, high fat; processes very quickly
+- macadamia nut butter: very creamy, high fat; processes very quickly
 - Brazil nut butter: rich, selenium-rich; strong flavor; use in moderation or blend
 ### Seed Butters
 - Sunflower seed butter (sunbutter): affordable, nut-free alternative; can turn green when combined with baking soda (harmless chemical reaction)
@@ -66,7 +66,7 @@ Most nuts will become smooth without added oil if processed long enough. However
 ## Flavoring and Customizing
 ### Sweeteners
 - Honey: 1-2 tablespoons per cup of nuts
-- Maple syrup: 1-2 tablespoons
+- [[maple-syrup-production]]: 1-2 tablespoons
 - Coconut sugar or brown sugar: 1-2 tablespoons
 - Stevia or monk fruit: for sugar-free options
 - Dates: blend a few dates into the butter for natural sweetness and texture
@@ -107,4 +107,4 @@ Natural nut butters will separate over time, with the oil rising to the top. Thi
 ## See Also
 - [[granola-making]] — homemade granola pairs perfectly with nut butters
 - [[dried-herb-storage]] — principles of storing homemade food products
-- [[pickle-making]] — other homestead food processing projects
+- [[pickle-making]] — other homestead fukuoka tasty rice projects

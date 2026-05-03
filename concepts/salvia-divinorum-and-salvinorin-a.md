@@ -38,7 +38,7 @@ compound.
 ### Unique Mechanism of Action
 
 Most classical hallucinogens are psychoactive in part because of their
-action at the 5-HT2A serotonin receptor subtype. For comparison with other hallucinogenic plants, see [[anticholinergic-hallucinogenic-plants]]. Salvinorin A has no
+action at the 5-HT2A serotonin receptor subtype. For comparison with other plants gods geography, see [[anticholinergic-hallucinogenic-plants]]. Salvinorin A has no
 affinity for serotonin receptors whatsoever. Instead, it is a highly
 potent and selective agonist at kappa-opioid receptors, making it
 the first naturally occurring non-nitrogenous kappa-opioid receptor
@@ -53,7 +53,7 @@ and sometimes synesthesia or vivid imagery.
 
 Salvinorin A is extremely potent. When smoked, psychoactive effects
 occur at doses of 200 to 500 micrograms, making it one of the most
-potent naturally occurring psychoactive substances known.
+potent naturally occurring and psychoactive substances known.
 
 ## Traditional Use
 
@@ -122,8 +122,8 @@ legal complications given the popularity of these common ornamentals.
 
 ## Related Lamiaceae Plants
 
-Coleus blumei and Coleus pumilus are sometimes chewed by Mazatec
-Indians instead of Salvia divinorum. These popular garden plants are
+[[coleus-blumei]] and Coleus pumilus are sometimes chewed by Mazatec
+Indians instead of Salvia divinorum. These popular [[hamilton-shade-garden-plants]] are
 prized for their intense leaf colors. A more determined search for a
 Salvia divinorum substitute might be triggered by scheduling.
 

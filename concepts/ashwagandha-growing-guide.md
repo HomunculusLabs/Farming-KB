@@ -26,7 +26,7 @@ shrub increasingly cultivated in temperate regions as a summer annual.
 - Hardiness: USDA zones 8-11 (grown as annual in cooler zones)
 - Lifecycle: Tender perennial, grown as annual in most climates
 - Height: 2-3 feet, spreading 2-3 feet
-- Growing season: 150-180 days for root maturity
+- growing season: 150-180 days for root maturity
 
 Ashwagandha produces dull green, elliptical leaves, small green bell-shaped
 flowers, and orange-red berries enclosed in papery calyxes. The extensive
@@ -61,7 +61,7 @@ Preparation methods:
 - Decoction: Simmer 1 teaspoon dried root in 8 oz water for 15 minutes.
 
 Safety notes: Generally safe for most adults. Avoid during pregnancy (may
-have abortifacient properties). Use cautiously in autoimmune conditions.
+have abortifacient properties). Use cautiously in blesching cannabis health.
 May interact with thyroid medications, sedatives, and immunosuppressants.
 
 ## Subtropical Cultivation
@@ -96,7 +96,7 @@ From seed (primary method):
 - Direct seeding is possible in warm zones (sow after soil has warmed to
   70+ degrees F)
 
-From cuttings: Softwood cuttings root in warm, humid conditions but seed
+from cuttings: Softwood cuttings root in warm, humid conditions but seed
 is the standard method.
 
 ### Spacing

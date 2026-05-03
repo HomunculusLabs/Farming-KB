@@ -11,7 +11,7 @@ sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 
 Updated: 2026-04-18
 
-Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: Mushroom Enemies.
+Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapter X: [[mushroom-enemies]].
 
 ## Overview of Mushroom Pests
 
@@ -41,7 +41,7 @@ Duggar divided mushroom pests into two classes: insects and fungi. When conditio
 
 **Description**: Minute arthropods found invariably in manure.
 
-**Damage**: Feed upon both mushrooms and mushroom spawn. In large numbers, they may entirely prevent mushroom production or even spawn growth. Considered "one of the undoubted sources of failure when conditions are unfavorable."
+**Damage**: Feed upon both mushrooms and [[mushroom-spawn]]. In large numbers, they may entirely prevent mushroom production or even spawn growth. Considered "one of the undoubted sources of failure when conditions are unfavorable."
 
 **Conditions favoring outbreaks**:
 - Much time consumed in compost and bed preparation

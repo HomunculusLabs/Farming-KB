@@ -56,7 +56,7 @@ with toxins and groundwater has become polluted.
 The degradation of toxins in soil requires three elements:
 - Oxygen (from air reaching the soil)
 - Good root systems (reaching deep into contaminated layers)
-- Active soil life (microorganisms that break down toxins)
+- Active [[soil-life]] (microorganisms that break down toxins)
 
 Simply not using toxins allows healing, but only in the uppermost rooted
 layer, and it takes considerable time. The process can be accelerated by
@@ -121,7 +121,7 @@ high acidity:
 ## Managing Insect Overpopulation
 
 Insect overpopulation is a visible sign of incorrect cultivation, usually
-indicating the use of agricultural chemicals. The natural balance has been
+indicating the use of agricultural chemicals. The fukuoka straw pest has been
 disturbed.
 
 ### The Pesticide Trap

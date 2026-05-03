@@ -19,7 +19,7 @@ The craft declined with the introduction of stick framing (dimensional lumber wi
 ### Species
 Choose locally available species when possible:
 - **Oak (white, red):** Traditional choice, extremely strong, rot resistant, takes joinery well. Heavy and hard to work with hand tools.
-- **Douglas fir:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
+- **[[douglas-fir]]:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
 - **Eastern white pine:** Light, easy to work, adequate for smaller structures. Less rot resistant — keep out of ground contact.
 - **Hemlock:** Strong, rot resistant, widely available in eastern North America. Can be brittle in tension.
 - **Cedar (western red, eastern):** Naturally rot resistant, lighter weight. Good for exposed exterior elements.

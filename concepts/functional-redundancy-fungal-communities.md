@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 
 # Functional Redundancy and Diversity in Fungal Communities

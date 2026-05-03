@@ -61,7 +61,7 @@ The morpheein model adds another possibility: proteins can dissociate, change sh
 
 Allosteric regulation is a central mechanism of metabolic feedback control. A pathway end product may inhibit the first committed enzyme, preventing wasteful accumulation when the product is abundant.
 
-Adenine nucleotides often report cellular energy state: ATP signals energy sufficiency, while AMP or ADP signals energy stress. Phosphofructokinase in glycolysis integrates ATP, AMP, citrate, and fructose-2,6-bisphosphate to tune carbon flux.
+Adenine nucleotides often report and cellular energy state: ATP signals energy sufficiency, while AMP or ADP signals energy stress. Phosphofructokinase in glycolysis integrates ATP, AMP, citrate, and fructose-2,6-bisphosphate to tune carbon flux.
 
 Aspartate transcarbamoylase integrates pyrimidine demand through allosteric effects of CTP and ATP. These examples show why allostery is not a decorative property but a core design principle of biochemical networks.
 
@@ -69,7 +69,7 @@ It lets one enzyme serve as a computational node that weighs substrate availabil
 
 ## Receptors and Pharmacology
 
-In receptor pharmacology, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
+In psilocybin serotonin 5ht2a, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
 
 A negative allosteric modulator decreases response without necessarily displacing the endogenous ligand. A silent allosteric modulator occupies an allosteric site but has little direct effect until it blocks another modulator.
 
@@ -125,7 +125,7 @@ This can be a feature in drug design but a trap when data from different assays 
 
 Allosteric regulation overlaps with [[enzyme-inhibition]], [[enzyme-kinetics-michaelis-menten-model]], [[cytochrome-p450-enzyme-system]], and pharmacodynamic receptor theory.
 
-It also connects to protein folding, conformational selection, induced fit, metabolic control analysis, and signal transduction.
+It also connects to protein folding misfolding, conformational selection, induced fit, metabolic control analysis, and [[fungal-environmental-sensing]].
 
 A practical distinction is that enzyme inhibition describes an observed effect, while allostery explains one class of mechanisms that can create that effect.
 

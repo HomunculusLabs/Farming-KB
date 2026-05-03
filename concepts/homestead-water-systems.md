@@ -9,7 +9,7 @@ sources: []
 
 # homestead water systems
 
-A reliable water supply is the foundation of any homestead. Off-grid and rural water systems must provide adequate quantity and quality for drinking, cooking, irrigation, livestock, and sanitation. A well-designed homestead water system typically combines a water source, a delivery mechanism, storage, and treatment.
+A reliable for water supply is the foundation of any homestead. Off-grid and rural and water systems must provide adequate quantity and quality for drinking, cooking, irrigation, livestock, and sanitation. A well-designed homestead water system typically combines a water source, a delivery mechanism, storage, and treatment.
 
 ## Water Sources
 
@@ -97,7 +97,7 @@ Remove particles using staged filtration:
 
 ### Mineral Treatment
 
-- Water softeners: Remove calcium and magnesium (hardness) using ion exchange
+- Water softeners: Remove and magnesium (hardness) using ion exchange
 - Acid neutralizers: Raise pH of acidic water using calcite media
 - Iron/manganese filters: Remove staining metals using oxidation and filtration
 

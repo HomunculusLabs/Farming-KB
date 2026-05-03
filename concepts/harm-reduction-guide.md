@@ -8,7 +8,7 @@ sources: []
 ---
 # Harm Reduction Guide
 ## Overview
-Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, set and setting optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
+Harm reduction is a set of practical strategies and principles aimed at reducing the negative consequences associated with psychoactive substance use, without necessarily requiring abstinence. In the context of psychedelics and entheogens, harm reduction encompasses drug checking, dosing best practices, [[set-and-setting]] optimization, contraindication screening, and overdose response. These practices can meaningfully reduce risks while respecting individual autonomy.
 ## Core Principles
 1. Substance-specific education over fear-based messaging
 2. Honest, evidence-based information about risks and benefits
@@ -18,7 +18,7 @@ Harm reduction is a set of practical strategies and principles aimed at reducing
 ## Drug Checking
 ### Reagent Testing
 Reagent testing uses chemical solutions that change color in the presence of specific compound classes. It cannot identify every substance but can detect the presence or absence of expected compounds and flag dangerous adulterants.
-Common reagents for psychedelic harm reduction:
+Common reagents for [[psychedelic-harm-reduction]]:
 - Ehrlich reagent: Turns purple with indoles (DMT, psilocybin, LSD)
 - Marquis reagent: Turns black/dark with MDMA; orange/brown with amphetamines
 - Hofmann reagent: Specific to LSD and other lysergamides
@@ -41,7 +41,7 @@ The single most important harm reduction principle. Begin with a sub-threshold o
 - Understand the difference between freebase and salt forms (e.g., DMT freebase vs. DMT fumarate)
 ### Weigh Accurately
 - Use a milligram-accurate scale (0.001 g resolution) for potent compounds
-- Volumetric dosing (dissolving a known amount in a known volume of liquid) for very potent substances like LSD or 5-MeO-DMT
+- Volumetric dosing (dissolving a known amount in a known volume of liquid) for very potent substances like LSD or [[5-meo-dmt]]
 - Never eyeball doses of potent compounds
 ### Redosing Considerations
 - Understand the onset time before considering redosing

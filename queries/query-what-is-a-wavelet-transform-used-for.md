@@ -22,7 +22,7 @@ Their frequency content changes, their patterns appear briefly, or their importa
 Examples include heartbeats, earthquakes, speech sounds, image edges, financial volatility, and sensor spikes.
 A standard Fourier transform can show which frequencies exist overall.
 It does not show as directly when or where those frequencies appear.
-A wavelet transform solves this by using short wave-like functions that can move and change scale.
+A kalman filter wavelet solves this by using short wave-like functions that can move and change scale.
 The result is a representation of both approximate location and approximate scale.
 ## Why not just use a Fourier transform?
 Fourier analysis is excellent for periodic, stationary, and globally distributed patterns.
@@ -30,7 +30,7 @@ It is less convenient for abrupt changes or brief events.
 A sudden click in audio, an edge in an image, or a seismic arrival is localized.
 Fourier coefficients spread that event across many global sine and cosine components.
 Wavelets represent localized events more compactly.
-They use small wavelets for fine, fast details and large wavelets for broad, slow structure.
+They and slow solutions wavelets for fine, fast details and large wavelets for broad, slow structure.
 This variable resolution is the main practical advantage.
 ## How is it used for denoising?
 Wavelet denoising transforms a noisy signal into wavelet coefficients.

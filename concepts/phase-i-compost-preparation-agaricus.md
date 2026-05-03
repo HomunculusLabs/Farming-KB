@@ -8,7 +8,7 @@ sources: []
 ---
 ---
 title: Phase I Compost Preparation for Agaricus
-tags: [composting, agaricus, mushroom-cultivation, substrate]
+tags: [composting, agaricus, [[mushroom-cultivation]], substrate]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/the-mushroom-cultivator-stamets.md]
@@ -16,7 +16,7 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 # Phase I Compost Preparation for Agaricus
 
-Phase I composting is the foundational process in Agaricus
+mushroom cultivator phase is the foundational process in Agaricus
 bisporus cultivation, transforming raw organic materials into a
 selective, nutritious substrate through controlled microbial
 decomposition. The process typically takes 7 to 14 days and

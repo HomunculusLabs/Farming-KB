@@ -124,4 +124,4 @@ Methods to achieve this:
 ## See Also
 - [[dried-herb-storage]] — principles of drying and storing dried foods
 - [[pickle-making]] — another food preservation method
-- [[jam-and-jelly-making]] — water bath canning and preservation
+- [[jam-and-jelly-making]] — water comparison pressure canning and preservation

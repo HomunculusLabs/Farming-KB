@@ -91,8 +91,7 @@ The next morning, poke your finger into the bed to verify watering:
 - If the soil is soggy in part or all of the upper 2 inches — you
   need less shiny time
 ## Water Volume Guidelines
-A simple way to estimate water delivery: fill a 1-gallon jar and
-time it. If it takes 15 seconds, you are delivering 4 gallons per
+A simple way to estimate water delivery: fill a 1-gallon jar and time it. If it takes 15 seconds, you are delivering 4 gallons per
 minute. For a 5-by-20-foot bed in moderately heavy clay, expect to
 use 5 to 20 gallons daily, averaging about 10 gallons. The actual
 amount varies with weather, plant type, plant size, and soil

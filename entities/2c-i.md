@@ -25,7 +25,7 @@ is one of the most widely encountered 2C compounds in both research and recreati
 2C-I is 2,5-dimethoxy-4-iodophenethylamine, with the molecular formula C₁₀H₁₄INO₂ and a molecular weight of
 307.12 g/mol. The 4-position iodine atom is notably large and heavy (atomic weight 126.9), making 2C-I the heaviest of
 the commonly discussed 2C compounds. This large halogen substituent significantly affects the molecule's lipophilicity,
-receptor binding kinetics, and metabolic stability. The iodine atom is a key structural determinant of 2C-I's potency
+[[beta-glucan-receptor-binding]] kinetics, and metabolic stability. The iodine atom is a key structural determinant of 2C-I's potency
 and duration. The compound is typically encountered as a white to off-white powder or as pressed tablets. The typical
 psychoactive dose ranges from 12–25 mg orally, placing it among the more potent members of the 2C series. The
 hydrochloride salt is freely soluble in water.
@@ -56,7 +56,7 @@ pharmacological differences translate into the notably different experiential pr
 considered among the most pronounced in the 2C series. Visual phenomena include intense color enhancement and shifting,
 complex geometric patterning, halos and auras around light sources, tracers, and texture morphing. The visual character
 is often described as "bright" and "electric" compared to the warmer, more organic visuals of mescaline or the
-depth-shifting effects of LSD. Cognitive effects include enhanced pattern recognition, philosophical introspection, and
+depth-shifting effects of lsd. Cognitive effects include enhanced pattern recognition, philosophical introspection, and
 occasional moments of profound insight. The body load is generally moderate, with some users reporting mild to moderate
 physical stimulation, jaw tension, and vasoconstriction. Nausea can occur during onset but is generally less pronounced
 than with mescaline. Effects onset within 30–60 minutes, peak at 2–3 hours, and last 6–10 hours — significantly
@@ -79,7 +79,7 @@ Shulgin first synthesized 2C-I in the course of his systematic exploration of 4-
 the first "research chemicals" to achieve wide circulation following the scheduling of 2C-B. It was sold through online
 vendors as a legal alternative before being controlled. 2C-I was emergency-scheduled in the United States in 2012 and
 permanently placed in Schedule I in 2014. It is controlled under international law as a Schedule I substance. Despite
-its legal status, 2C-I continues to appear in forensic drug seizures, sometimes misrepresented as LSD or other
+its mckenna tryptamine research, 2C-I continues to appear in forensic drug seizures, sometimes misrepresented as LSD or other
 compounds.
 
 ## Relationship to Other Compounds

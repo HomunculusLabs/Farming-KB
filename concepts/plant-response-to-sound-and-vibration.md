@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 # Plant Response to Sound and Vibration
 
-Chapter 4 of *What a Plant Knows* tackles one of the most controversial and
+Chapter 4 of *What a and light perception* tackles one of the most controversial and
 fascinating questions in plant biology: can plants hedaniel-chamovitzvitz
 approaches this question with scientific rigour, distinguishing between
 popular myths about plants enjoying music and the genuine evidence for plant
@@ -44,7 +44,7 @@ cell membranes, which can activate mechanosensitive ion channels.
 
 Research has shown that plants can respond to specific vibration frequencies.
 In a landmark 2014 study, researchers at the University of Missouri found that
-*Arabidopsis thaliana* plants exposed to the recording of a caterpillar
+*[[arabidopsis-thaliana]]* plants exposed to the recording of a caterpillar
 feeding vibration produced elevated levels of defensive chemicals (glucosinolates
 and anthocyanins). Crucially, plants exposed to other vibrations (wind, insect
 song, or silence) did not produce the same defensive response. This suggests
@@ -61,11 +61,11 @@ that are detected by mechanosensitive proteins. This would mean that the
 plant's water transport system doubles as a vibration-detection system,
 an elegant example of biological multifunctionality.
 
-This hypothesis has some experimental support. Plants under water stress,
+This hypothesis has some experimental support. Plants under cervantes wilting plant,
 where the water column is less continuous, show altered responses to
 vibrational stimuli. Additionally, the frequency range to which plants appear
 most sensitive overlaps with frequencies that would most effectively couple
-with the physical properties of water-filled conduits in plant tissue.
+with the physical properties of water-filled conduits in and dermal.
 
 ## Roots and Substrate Vibration
 
@@ -87,7 +87,7 @@ surrounding soil.
 Some researchers have proposed that certain plant structures might function as
 analogous to the animal cochlea, amplifying and filtering specific vibration
 frequencies. Trichomes (tiny hair-like structures on leaf surfaces), the
-hairs on root tips, and even the structure of cell walls themselves could all
+hairs on root tips, and even the structure of alpha glucan fungal themselves could all
 potentially act as frequency-selective mechanical resonators.
 
 In corn plants, the stigma (silk) has been proposed as a possible sound-

@@ -18,8 +18,8 @@ iterations.
 ## Motivation
 
 Human reasoning traces are expensive and inconsistent. Annotators differ in
-their problem-solving approaches, verbosity, and error rates. Even expert
-annotators struggle to produce the detailed, step-by-step reasoning that models
+their and problem solving approaches, verbosity, and error rates. Even expert
+annotators struggle to produce the detailed, by step reasoning that models
 benefit from most. Synthetic log cultivation solves this by having a capable
 model produce exhaustive reasoning traces at scale, with consistent formatting
 and thoroughness.

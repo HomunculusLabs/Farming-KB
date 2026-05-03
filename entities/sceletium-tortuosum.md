@@ -58,7 +58,7 @@ the Mesembryanthemoideae subfamily within Aizoaceae:
   and antidepressant properties
 - **Mesembrenone** — also a significant SRI, considered by some researchers
   to be the primary contributor to the psychoactive effects; has a more
-  favorable safety profile than mesembrine regarding cardiovascular effects
+  favorable and safety profile than mesembrine regarding cardiovascular effects
 - **Mesembrenol** — a related mesembrine alkaloid with SRI activity
 - **Mesembranol** — a minor alkaloid component
 - **Tortuosamine** — a minor alkaloid unique to *Sceletium*
@@ -69,7 +69,7 @@ with a characteristic substitution pattern unique to the Aizoaceae.
 Mesembrine acts primarily as a serotonin (5-HT) reuptake inhibitor with
 additional activity at other receptor systems. Mesembrenone has been
 identified as a dual serotonin reuptake inhibitor and phosphodiesterase-4
-(PDE4) inhibitor, contributindoleth serotonergic and anti-inflammatory
+(PDE4) inhibitor, contributindoleth serotonergic and medicinal mushroom antioxidant
 effects. PDE4 inhibition is also a mechanism of action of certain
 prescription antidepressants and anti-inflammatory drugs.
 Unlike many traditional psychoactive plants, kanna does not contain tropane,
@@ -101,7 +101,7 @@ consumed.
 The prepared kanna was typically chewed and held in the mouth, with the
 saliva and dissolved alkaloids absorbed through the buccal mucosa rather
 than being swallowed. This sublingual/buccal absorption route avoids
-first-pass metabolism in the liver and provides efficient delivery of the
+and oral bioavailability metabolism in the liver and provides efficient delivery of the
 alkaloids to the bloodstream. The material was sometimes combined with
 tobacco or other herbs and smoked, though oral chewing was the primary
 traditional method.
@@ -140,7 +140,7 @@ various ailments in the traditional Khoisan materia medica.
 
 Contemporary interest in kanna has focused on its potential as a natural
 antidepressant and anxiolytic. Several clinical and preclinical studies
-have investigated its pharmacology and therapeutic potential:
+have investigated its pharmacology and [[metzner-ayahuasca-therapeutic-potential]]:
 - **Serotonin reuptake inhibition** — mesembrine and mesembrenone have
   demonstrated SRI activity in vitro and in animal models, comparable in
   potency to some synthetic antidepressants

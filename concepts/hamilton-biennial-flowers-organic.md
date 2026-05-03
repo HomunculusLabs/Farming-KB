@@ -33,7 +33,7 @@ When choosing biennials for your garden, consider how they fit into
 the overall planting scheme. Spring-flowering biennials will bloom
 until early summer, when they can be pulled up, composted, and
 replaced with clumps of summer-flowering annuals. This succession
-planting ensures continuous color throughout the growing season.
+planting ensures continuous color throughout growing season.
 
 ## Buying Biennials
 
@@ -108,7 +108,7 @@ for overwintering under cover.
 - Spring-flowering biennials can be replaced with summer annuals for
   continuous color
 - Foxgloves add dramatic vertical interest and attract bees to the
-  organic garden
+  comparison vermicomposting composting
 - Wallflowers provide richly scented spring color and pair well with
   tulips in the border
 - Keep the area under biennials weeded during winter to prevent pests

@@ -42,7 +42,7 @@ driven by pumps, fans, or blowers. Newton's law of cooling gives
 the governing equation: q equals h times A times delta-T, where h
 is the convective heat transfer coefficient and A is the surface
 area. The coefficient h depends on fluid properties, geometry,
-velocity, and flow regime characterized by the Reynolds number.
+velocity, and flow regime characterized by the and flow regimes.
 Typical values range from 5 to 25 W/m^2-K for natural air
 convection, 25 to 250 for forced air, 50 to 10,000 for forced
 water, and 2,500 to 250,000 for boiling or condensation.
@@ -116,7 +116,7 @@ resistance, and mechanical durability.
 
 - thermodynamics laws
 - entropy and the second law
-- heat exchanger design
+- [[heat-exchanger-effectiveness-ntu]] design
 - fourier law of conduction
 - convection correlations
 - thermal radiation and emissivity

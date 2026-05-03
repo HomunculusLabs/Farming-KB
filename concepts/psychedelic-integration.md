@@ -60,7 +60,7 @@ Contemplative practices provide ongoing tools for working with the mind states a
 - **Vipassana/insight meditation**: Develops capacity to observe thoughts and sensations without reactivity — a skill directly transferable from psychedelic experience
 - **Loving-kindness (metta) meditatstanislav-groftes compassion, which is often amplified during psychedelic experiences
 - **Body scan**: Maintains awareness of physical sensations and their emotional correlates
-- **Breathwork**: Holotropic Breathwork (developed by Stanislav Grof) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
+- **Breathwork**: Holotropic Breathwork (developed by [[stanislav-grof]]) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
 - Regular practice builds the "muscle" of present-moment awareness that psychedelics can reveal in a single session
 
 ### Community and Sharing

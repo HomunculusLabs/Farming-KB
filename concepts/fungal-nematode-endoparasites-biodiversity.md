@@ -17,7 +17,7 @@ type: concept
 # Fungal Endoparasites of Nematodes
 
 Endoparasitic fungi represent one of the major strategies by which
-fungi attack nematodes. Unlike predatory fungi that capture nematodes
+fungi attack nematodes. Unlike [[biodiversity-nematophagous-predatory-fungi]] that capture nematodes
 with trapping devices such as adhesive nets or constricting rings,
 endoparasites attack nematodes by means of spores that adhere to the
 cuticle or are ingested by the animal as food. Once attached or
@@ -67,7 +67,7 @@ may be parasitized by a host-specific fungus. Those fungi will not be
 transmitted to the surviving nematodes of other species and must be
 sought diligently because they are the most likely to be rare or new.
 Rare or new endoparasites can be given special attention and with care
-can be obtained in pure culture.
+can be obtained in pure culture spawn.
 
 ### Key Genera
 
@@ -104,8 +104,7 @@ The Baermann funnel technique is an effective method for recovering
 large numbers of nematodes from soil or organic debris. The technique
 depends on motile nematodes wriggling down through soil or organic
 material and passing through facial tissues to collect at the bottom
-of a funnel. After 6-12 hours, the collecting tube is removed, and
-nematodes are transferred to the surface of water-[[agar]] plates for
+of a funnel. After 6-12 hours, the collecting tube is removed, and nematodes are transferred to the surface of water-[[agar]] plates for
 screening.
 
 ### Plate Culture for Recovery
@@ -142,7 +141,7 @@ the low power of a compound microscope after 24-48 hours.
 
 Several [[nematophagous-fungi]] also function as mycoparasites.
 Arthrobotrys superba and A. oligospora, which are primarily known as
-nematode-trapping predators, can also function as contact
+[[nematode-trapping-fungi]] predators, can also function as contact
 mycoparasites. Similarly, some endoparasitic genera have been reported
 to attack fungal structures. The nematophagous [[arthrobotrys-oligospora]],
 ## See Also

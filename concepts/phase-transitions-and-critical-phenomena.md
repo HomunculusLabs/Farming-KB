@@ -9,7 +9,7 @@ related: [laws-of-thermodynamics, heat-transfer-mechanisms, navier-stokes-equati
 
 A phase transition is a transformation of a thermodynamic system from one phase to another, characterized by non-analytic behavior in thermodynamic
 quantities such as the free energy, entropy, or specific heat. Phase transitions are ubiquitous in nature — from the boiling of water to the onset of
-superconductivity — and their study connects thermodynamics, statistical mechanics, and condensed matter physics. The behavior of systems near
+superconductivity — and their study connects thermodynamics, [[statistical-mechanics]], and condensed matter physics. The behavior of systems near
 critical points, where the distinction between phases vanishes, reveals remarkable universal properties that are independent of microscopic details,
 described by renormalization group theory and characterized by critical exponents and universality classes.
 

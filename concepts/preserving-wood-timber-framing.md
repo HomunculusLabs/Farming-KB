@@ -64,7 +64,7 @@ Raw linseed oil is a natural drying oil extracted from flax seeds. "Boiled" lins
 
 ### Borate Treatments
 
-Borates (disodium octaborate tetrahydrate) are water-soluble salts that provide excellent protection against wood-destroying insects (termites, carpenter ants, powderpost beetles) and wood-rotting fungi.
+Borates (disodium octaborate tetrahydrate) are water-soluble salts that provide excellent protection against wood-destroying insects (termites, carpenter ants, powderpost beetles) and for effluent decolorization fungi.
 
 **Products:** Tim-bor, Bora-Care, Disodium Octaborate Tetrahydrate (DOT)
 
@@ -117,7 +117,7 @@ Best timber framing species by region:
 - Northeast: Eastern white pine, white oak, hemlock, eastern spruce
 - Southeast: Southern yellow pine, cypress, white oak
 - Midwest: White oak, red oak, white pine, hickory
-- Pacific Northwest: Douglas fir, western red cedar, Sitka spruce
+- Pacific Northwest: [[douglas-fir]], western red cedar, Sitka spruce
 
 ## Related Concepts
 

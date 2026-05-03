@@ -75,8 +75,7 @@ the hydrochloride salt of the product. The published mp of this salt, from aceto
 
 ## Safety Notes
 
-DOC is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+DOC is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

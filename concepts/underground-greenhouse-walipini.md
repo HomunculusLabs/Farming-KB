@@ -38,7 +38,7 @@ The angle of the south-facing glazing is the most critical design element:
 - **Sheds summer sun:** At the optimal winter angrammed-earth summer sun strikes the glazing at a steep angle and mostly reflects off, reducing summer overheating.
 ### Back (North) Wall
 The north wall is the primary thermal mass surface:
-- **Material:** Rammed earth, stone, or concrete block (uninsulated — you want thermal mass, not insulation)
+- **Material:** [[rammed-earth]], stone, or concrete block (uninsulated — you want thermal mass, not insulation)
 - **Color:** Paint white or cover with reflective material to bounce light back into the growing space and onto the plants
 - **Height:** The back wall rises above grade and is covered (opaque — no glazing). It supports the high end of the roof.
 ### Front (South) Wall

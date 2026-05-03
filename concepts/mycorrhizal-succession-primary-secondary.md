@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources: []
+sources:
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 # Mycorrhizal Succession in Primary and Secondary Succession
 

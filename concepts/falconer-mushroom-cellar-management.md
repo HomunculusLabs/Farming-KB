@@ -10,8 +10,7 @@ tags: mushroom-cultivation]
 
 # Falconer Mushroom Cellar Management
 
-Falconer devoted his second chapter entirely to cellar-based mushroom
-cultivation, declaring that "the cellar is everybody's mushroom house"
+Falconer devoted his second chapter entirely to cellar-based [[mushroom-cultivation]], declaring that "the cellar is everybody's mushroom house"
 and providing detailed guidance for every type of cellar installation.
 
 ## Why Cellars
@@ -25,7 +24,7 @@ business was a cellar.
 
 ## Dedicated Mushroom Cellars
 
-A cellar wholly devoted to mushroom-growing should be made as warm as
+A cellar wholly devoted to mushroom growing should be made as warm as
 possible with double windows and double doors (where the entrance was
 from outside). A chimney-like shaft rising from the ceiling served as
 the ventilator in winter, since side ventilation during bearing was
@@ -75,8 +74,7 @@ deep in warm cellars and 15-20 inches in cool ones, about 3 feet wide.
 Beds were enclosed in boxing of any available boards, built 6-10
 inches higher than bed tops for headroom. The lid could be hung on
 hinges or straps, made of half-inch boards. When shut, mushrooms were
-secure from cold and vermin; when open, accessible for observation and
-harvesting. The manure was prepared away from the house, spread thin
+secure from cold and vermin; when open, accessible for observation and harvesting. The manure was prepared away from the house, spread thin
 to cool and free from steam for two days, then brought in. Once
 well-sweetened, it was cool, nearly odorless, and after a few days
 could be spawned and earthed over at once. The loam coating prevented

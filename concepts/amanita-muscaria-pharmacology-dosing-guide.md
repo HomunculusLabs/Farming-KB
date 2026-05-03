@@ -9,7 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # [[amanita-muscaria-pharmacology]] and Healing Properties
 
-The [[amanita-muscaria-drying-and-preparation]] mushroom possesses a uniamanita-muscariacal profile centered on two closely related isoxazole compounds -- ibotenic acid and muscimol -- along with several other bioactive constituents. Beyond its well-known psychoactive properties, Amanita muscaria exhibits documented antibiotic, antifungal, and potentially antiviral activity, supporting ancient claims of miraculous healing.
+The [[amanita-muscaria-drying-and-preparation]] mushroom possesses a uniamanita-muscariacal profile centered on two closely related isoxazole compounds -- ibotenic acid and muscimol -- along with several other bioactive constituents. Beyond its well-known psychoactive properties, [[amanita-muscaria]] exhibits documented antibiotic, antifungal, and potentially antiviral activity, supporting ancient claims of miraculous healing.
 
 ## Active Compounds
 

@@ -64,7 +64,7 @@ neurotrophic factor (BDNF) in the hippocampus. Additionally, *H. erinaceus* cont
 polysaccharides with immunomodulatory activity, various antioxidants including hericetin amedicinal-mushroomsompounds,
 and ergothioneine — a unique antioxidant amino acid found at particularly high concentrations in this species. The
 combination of neurotrophic and immunomodulatory compounds makes lion's mane one of the most pharmacologically diverse
-medicinal mushrooms.
+[[medicinal-mushrooms]].
 
 ## Neurological Applications
 

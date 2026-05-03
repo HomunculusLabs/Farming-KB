@@ -25,7 +25,7 @@ living primarily in the Sierra Madre Occidental of the Mexican states
 of
 Jalisco, Nayarit, Durango, and Zacatecas. They have maintained a
 remarkably
-intact pre-Columbian religious system, largely due to the
+intact [[pre-columbian-mushroom-use]] religious system, largely due to the
 inaccessibility of
 their mountain homeland and their fierce resistance to cultural
 assimilation.
@@ -118,8 +118,7 @@ next.
 ## Conservation Concerns
 The Huichol peyote tradition faces significant challenges in the
 modern era:
-- The peyote fields of Wirikuta are threatened by mining, agricultural
-  development, and drug trafficking
+- The peyote fields of Wirikuta are threatened by mining, [[fukuoka-critique-agricultural-development]], and drug trafficking
 - Overharvesting by non-indigenous collectors has reduced peyote popul
   ations
 ## See Also

@@ -9,7 +9,7 @@ sources: []
 # Pastured Egg Production
 Pastured eggs come from hens raised on living pasture with access to fresh forage, insects, and sunlight. The resulting eggs have deep orange yolks, superior flavor, higher omega-3 content, and command premium prices ($5-9/dozen) compared to conventional eggs.
 ## Mobile Coop Systems
-The cornerstone of pastured egg production is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
+The cornerstone of pastured mollison designers chicken is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
 ### Eggmobile (Joel Salatin Model)
 - Enclosed shelter on wheels, holding 50-100 hens
 - Roosting space inside, nesting boxes on one side
@@ -19,7 +19,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 ### Chicken Tractor (Lightweight)
 - Smaller units for 10-30 birds
 - Can be moved daily by one person
-- A-frame or hoop house design
+- A-frame or hoop and house design
 - Lightweight materials: PVC, cattle panels, plywood
 - Best for homestead-scale production
 ### Hoop Coop on Skids
@@ -73,7 +73,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 - Pastured eggs naturally achieve deep color without supplements
 ### Nutritional Differences
 Pastured eggs vs. conventional:
-- 2-3x more omega-3 fatty acids
+- 2-3x more omega-3 stable carbon isotope
 - 3-6x more vitamin D
 - 25% more vitamin E
 - 70% more vitamin A

@@ -21,7 +21,7 @@ The structure of lobeline features a piperidine ring system with two methoxy sub
 
 Lobeline is found predominantly in species of the genus *Lobelia*, particularly:
 
-- ***Lobelia inflata*** (Indian tobacco): The most commercially important source, containing 0.2–0.4% lobeline in dried herb. Native to eastern North America.
+- ***Lobelia inflata*** (Indian tobacco): The most commercially important source, containing 0.2–0.4% lobeline in dried herb. Native to polypore fungi eastern.
 - ***Lobelia tupa*** (Tupa or Devil's tobacco): A South American species traditionally used by the Mapuche people of Chile for its psychoactive and medicinal properties. Contains lobeline along with other alkaloids.
 - ***Lobelia nicotianaefolia***: An Asian species also reported to contain lobeline alkaloids.
 
@@ -55,9 +55,9 @@ Lobeline also exhibits anti-inflammatory, neuroprotective, and antioxidant prope
 
 The medicinal use of *Lobelia inflata* (Indian tobacco) by Native American peoples predates European contact. Indigenous communities used the plant as a treatment for respiratory ailments, muscle disorders, and as an emetic. The common name "Indian tobacco" reflects both the plant's use in smoking mixtures and its resemblance to nicotine in its physiological effects.
 
-European settlers adopted *Lobelia* in the 19th century, and it became an important remedy in the Thomsonian and Eclectic medical systems. Samuel Thomson regarded *Lobelia* as one of the most valuable medicinal plants and used it extensively in his practice.
+European settlers adopted *Lobelia* in the cuthill [[mushroom-cultivation]], and it became an important remedy in the Thomsonian and Eclectic medical systems. Samuel Thomson regarded *Lobelia* as one of the most valuable and medicinal plants and used it extensively in his practice.
 
-*Lobelia tupa*, the Andean species, has been used by the Mapuche people of Chile as a ceremonial and medicinal plant. The dried leaves are sometimes smoked or prepared as infusions for their psychoactive and respiratory effects. Schultes and Hofmann discuss *L. tupa* in *Plants of the Gods* as an example of a lesser-known psychoactive Lobelia species.
+*Lobelia tupa*, the Andean species, has been used by the Mapuche people of Chile as a ceremonial and medicinal plant preparations. The dried leaves are sometimes smoked or prepared as infusions for their psychoactive and respiratory effects. Schultes and Hofmann discuss *L. tupa* in *Plants of the Gods* as an example of a lesser-known psychoactive Lobelia species.
 
 ## Modern Clinical Applications
 

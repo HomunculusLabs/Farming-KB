@@ -26,7 +26,7 @@ defining how each part should be interpreted. Relationships between parts are
 described in `.rels` XML files that form a directed graph connecting the
 document's components.
 
-For a `.docx` Word document, the primary content resides in `word/document.xml`,
+For a `.docx` [[word-document-formats]], the primary content resides in `word/document.xml`,
 which uses a rich vocabulary of XML elements to represent paragraphs, runs of
 formatted text, tables, images, and other document structures. Styles are
 defined in `word/styles.xml`, and document properties such as author, title,

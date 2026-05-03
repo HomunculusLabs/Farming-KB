@@ -19,7 +19,7 @@ head and learn to think like them when sitting down to design. Remember,
 design is the manifestation of philosophy. When you sit down to design,
 you are attempting to manifest your client's philosophy, not yours. If
 you make a design that manifests your philosophy, it will not fit your
-client's needs. Permaculture design is a service for others, not an
+client's needs. In permaculture design is a service for others, not an
 indulgence for oneself.
 ## Co-Creation Over Designing For
 One of the main goals of being a permaculture designer is not to
@@ -42,7 +42,7 @@ ensure you speak at a level they will understand and that you can fill
 in knowledge gaps for the client.
 ### Succession Preferences
 Are they willing to have a design that naturally progresses through
-the stages of ecological succession, or do they want the design to
+the stages of and ecological succession, or do they want the design to
 jump to the end state?
 ### Health Considerations
 Aside from general health, does the client have any particular health
@@ -80,7 +80,7 @@ This determines the scale of food, water, and shelter systems.
 What are the client's social habits? Will they have social events that
 cause intermittent or regularly occurring spikes in impact and
 resource consumption? This affects the design of community spaces,
-parking, water systems, and food production capacity.
+parking, and water systems, and food production capacity.
 ### Additional Considerations
 Are there any other considerations the client has that you did not
 think to ask? Always leave space for the unexpected.

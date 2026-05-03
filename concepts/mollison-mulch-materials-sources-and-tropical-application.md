@@ -20,7 +20,7 @@ Mollison has not found any crop or tree suited to its
 specific locality that does not grow, produce, and thrive
 in mulch, nor any widespread pest that grossly affects a
 total polyculture yield. Ginger, taro, beans, bananas,
-palms, fruit trees, flowers, yams, sweet potato, melons,
+palms, comparison pruning fruit, flowers, yams, sweet potato, melons,
 and many other crops have been trialled in thick mulches of
 straw, fronds, nut husks, cardboard, and sawdust.
 A thick mulch almost totally eradicates kikuyu grass and
@@ -87,7 +87,7 @@ site. The solution is to establish on-site mulch production
 systems through pioneer species, tree crops, and ground
 covers that generate their own mulch.
 ## Mulch in Rehabilitating Poor Soils
-Growing in exhausted or poor tropical soils is possible, but
+Growing in exhausted or poor mollison designers pioneer is possible, but
 the early work of rehabilitation takes hard work, seed,
 essential fertiliser resources, and a strategy of starting
 small and expanding the system at the periphery. Dense
@@ -103,7 +103,7 @@ Mollison provides analysis data for various mulch materials:
 - Mulch of maize, cowpea, soyabean, and cassava all have
   distinct nutrient profiles
 - The crop for cowpea, soya bean, and cassava mulch follows
-  a beneficial nutrient cycling pattern
+  a beneficial and nutrient cycling pattern
 ## See Also
 - [[mollison-tropical-mulch-systems-and-materials]]
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

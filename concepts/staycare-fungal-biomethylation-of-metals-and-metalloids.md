@@ -132,7 +132,7 @@ organometallic products after release into the atmosphere.
 
 ## Practical Applications
 
-Fungal biomethylation can be integrated into bioremediation strategies
+Fungal biomethylation can be integrated into [[bioremediation-strategies]]
 for sites contaminated with metalloids. The volatilization approach is
 most developed for selenium, where pond-based systems have demonstrated
 effective selenium removal. For other metalloids, optimization of

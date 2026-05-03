@@ -58,7 +58,7 @@ very particular conditions such as plate cultures where:
 - It needs elevated CO2 in the closed plate atmosphere
 - Colonies are typically pinpoint and tiny
 
-In nature, E. coli grows in reduced oxygen conditions -- the
+in nature, E. coli grows in reduced oxygen conditions -- the
 digestive system, in fecal material, where conditions are
 anaerobic. When aerobic conditions are maintained in compost tea
 with diverse organism communities, E. coli is out-competed and

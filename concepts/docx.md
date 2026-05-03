@@ -9,7 +9,7 @@ sources:
 
 # DOCX
 
-DOCX is the default file format for Microsoft Word documents since the release
+DOCX is the default file format for microsoft word document documents since the release
 of Office 2007, replacing the legacy binary `.doc` format. It is a specific
 application of the [[office-open-xml]] standard (ISO/IEC 29500) for word
 processing documents. The format stores documents as ZIP archives containing

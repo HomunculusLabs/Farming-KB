@@ -26,14 +26,14 @@ sources:
 
 # [[oriental-herbal-nutrient-ohn|Fermented]] Plant Extract (FPE)
 
-Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+jadam jhs jinap (FPJ) and [[knf-fermented-fruit-juice]] (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
 ## FPJ — Fermented Plant Juice
 
 ### Purpose
-Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
+Provides energy, nitrogen, enzymes, and [[gibberellins-plant-growth-hormones]]. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
 
 ### Plant Selection (Cho's Guidelines)
 
@@ -66,13 +66,13 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative 
 
 **Ratios**:
 - Plant material to sugar: 1:1 by weight (minimum)
-- For plants with higher water content, use 1:0.8 (less sugar)
+- for plants with higher water content, use 1:0.8 (less sugar)
 - For plants with lower water content, use 1:1.3 (more sugar)
 - Fill jar 2/3 to 3/4 full — leave headroom for expansion
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the indigenous microorganisms on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the [[indigenous-microorganisms]] on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar

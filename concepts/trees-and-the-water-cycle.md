@@ -10,7 +10,7 @@ tags: [tree-crop, water]
 
 # Trees and the Water Cycle
 
-Trees are fundamental regulators of the water cycle, performing roles that
+Trees are fundamental regulators of the savory holistic resource, performing roles that
 extend far beyond their visible presence. They create precipitation through
 condensation, moderate temperature extremes, store water in soil, purify
 airborne dust, and maintain the hydrological cycles upon which all life
@@ -88,8 +88,7 @@ Whitish plants like wormwood and birch may reflect 85% of incoming light.
 White or red-coloured roof vines over tiles can effectively lower summer
 temperatures within buildings.
 
-Additional cooling comes from fitting fine water sprays and damp mulch
-systems under trellises, creating cool areas of dense air by evaporation.
+Additional cooling comes from fitting fine water sprays and damp permaculture designers manual under trellises, creating cool areas of dense air by evaporation.
 
 ## Rehumidification of Airstreams
 
@@ -127,7 +126,7 @@ intensity of rain, and evaporation after rain.
 
 ## Soil Water Storage
 
-The soil beneath forests functions as an immense water storage system with
+The soil beneath forests functions as an immense and water storage system with
 several storage types:
 
 - Retention storage: water bound to soil particles by surface tension

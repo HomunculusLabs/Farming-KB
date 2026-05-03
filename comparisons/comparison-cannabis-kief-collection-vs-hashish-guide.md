@@ -20,7 +20,7 @@ their goals, equipment, and desired final product quality.
 
 ## Kief Collection
 
-comparison cannabis kief collection vs hashish guide
+comparison [[cannabis-kief-collection]] vs hashish guide
 
 Kief collection is the simplest and oldest method of concentrating cannabis resin, relying
 on mechanical separation of trichome heads from dried plant material through dry sieving.

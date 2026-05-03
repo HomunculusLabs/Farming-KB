@@ -52,7 +52,7 @@ fragment of a once-universal entheogenic religion. For Arthur, Siberian shamanis
 is not merely an ethnographic case study but the living proof that mushroom-based
 religious practice was historically global before its systematic suppression.
 ## Vedic and Indo-European Traditions
-The ethnobotanical source surveys the Vedic Soma hypothesis — the proposal that
+The ethnobotanical source surveys the Vedic [[soma-hypothesis]] — the proposal that
 *Amanita muscaria* is the identity of the sacred drink praised in over a hundred
 Rig Veda hymns — as a significant but unresolved question. It presents the
 chemical plausibility (muscimol's psychoactive properties, the yellowing of the

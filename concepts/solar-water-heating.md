@@ -10,7 +10,7 @@ sources: []
 solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
 properly sized system can provide 50-80% of a household's hot water needs.
-This guide covers system types, design principles, DIY construction, and
+This guide covers system types, [[bill-mollison]] permaculture, DIY construction, and
 sizing for the homestead.
 ## Why solar water heating
 - **Energy savings** — water heating accounts for 15-25% of home energy use
@@ -28,10 +28,10 @@ The simplest and cheapest solar water heater.
 - Hot water is drawn from the top of the tank for use
 - Cold water from the supply replaces what is drawn
 **Advantages:**
-- Simple to build — essentially a water tank in a box
+- Simple to build — essentially a and construction in a box
 - No pumps, controllers, or moving parts
 - Passive operation — no electricity required
-- Low cost ($200-500 DIY)
+- mushroom growing house ($200-500 DIY)
 **Disadvantages:**
 - Heat loss overnight — water cools when sun is not shining
 - Limited capacity — typically 30-50 gallons
@@ -65,7 +65,7 @@ the collector.
 - Storage tank must be mounted above the collector (usually on the roof)
 - Roof structural requirements for the tank weight (400+ lbs full)
 - More complex plumbing than batch heater
-- Freeze protection needed in cold climates (drainback or glycol)
+- Freeze protection needed in permaculture designers manual (drainback or glycol)
 ### Active Closed-Loop System
 A pump circulates a heat-transfer fluid (propylene glycol) through the
 collector and a heat exchanger in the storage tank. A differential

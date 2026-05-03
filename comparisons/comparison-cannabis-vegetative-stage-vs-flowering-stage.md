@@ -110,7 +110,7 @@ per-plant yield. Larger plants with more developed branch structures produce sig
 bud sites, and each additional week of vegetative growth can translate to noticeably larger final
 harvests. This approach is ideal for growers running few plants under legal plant-count limits,
 where getting the most from each plant is essential. Extended veg is also valuable when using
-training techniques like main-lining or SCROG that require longer vegetative periods to fully
+training techniques like [[main-lining]] or SCROG that require longer vegetative periods to fully
 develop the desired canopy structure.
 
 Longer vegetative periods also allow more time for root development, which supports heavier
@@ -133,7 +133,7 @@ starting sizes.
 Shorter veg periods are also ideal for autoflowering strains, which have a genetically
 determined life cycle that cannot be extended through light manipulation. With autoflowers,
 the grower's primary decision is light intensity and nutrient management rather than stage
-duration. For photoperiod growers using sea-of-green methods with many small plants, the
+duration. For photoperiod growers using [[sea-of-green]] methods with many small plants, the
 vegetative stage may be as short as 1 to 2 weeks before flipping to 12/12, relying on the
 high plant count rather than individual plant size to fill the canopy.
 

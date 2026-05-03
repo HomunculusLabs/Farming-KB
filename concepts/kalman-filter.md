@@ -6,7 +6,7 @@ tags: []
 
 # Kalman Filter
 ## Overview
-The Kalman filter is a recursive algorithm for estimating the hidden state of a dynamic system.
+The kalman filter wavelet is a recursive algorithm for estimating the hidden state of a dynamic system.
 It combines predictions from a mathematical model with noisy measurements from sensors or observations.
 The result is an updated estimate that is often better than either the model or the measurement alone.
 It is central to control theory, signal processing, robotics, navigation, and econometrics.
@@ -39,7 +39,7 @@ The process-noise covariance models disturbances not captured by the transition 
 The measurement matrix maps hidden state variables into observable measurements.
 The measurement-noise covariance describes sensor error or observation error.
 Together these matrices define a probabilistic state-space model.
-The filter can be interpreted as Bayesian inference performed sequentially.
+The filter can be interpreted as [[bayesian-inference]] performed sequentially.
 Each prediction is a prior distribution over the next state.
 Each correction is a posterior distribution after observing new data.
 ## Prediction step

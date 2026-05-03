@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/racannabis-sativadern-farm-why-cannabis-grown-with-l
 
 # Myrcene
 
-Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an acyclic monoterpene that is the most abundant terpene found in most cannabis (*Cannabis sativa*) cultivars. It plays a critical role in determining the aroma, flavor, and pharmacological effects of cannabis and is increasingly recognized for its own therapeutic properties, including sedative, anti-inflammatory, analgesic, and muscle relaxant activities.
+Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an acyclic monoterpene that is the most abundant terpene found in most cannabis (*[[cannabis-sativa]]*) cultivars. It plays a critical role in determining the aroma, flavor, and pharmacological effects of cannabis and is increasingly recognized for its own therapeutic properties, including sedative, anti-inflammatory, analgesic, and muscle relaxant activities.
 
 ## Chemical Properties
 
@@ -21,7 +21,7 @@ Myrcene exists in two isomeric forms: α-myrcene and β-myrcene, with the beta i
 
 Myrcene is one of the most widely distributed terpenes in the plant kingdom and is found in significant quantities in numerous plant species:
 
-- ***Cannabis sativa***: Typically the dominant terpene, comprising 20–60% of the total essential oil profile in many cultivars. Myrcene content varies widely among chemotypes and is a major contributor to the distinction between indica-dominant and sativa-dominant aromatic profiles.
+- ***Cannabis sativa***: Typically the dominant terpene, comprising 20–60% of the total essential oil profile in many cultivars. Myrcene content varies widely among chemotypes and is a major contributor to the distinction between indica-dominant and sativa-dominant clarke marijuana botany.
 - **Hops (*Humulus lupulus*)**: A close botanical relative of cannabis, hops are another major source of myrcene, which contributes to the characteristic aroma of beer.
 - **Mango (*Mangifera indica*)**: Myrcene is a significant aroma compound in ripe mangoes, contributing to their tropical fragrance.
 - **Lemongrass (*Cymbopogon citratus*)**: Contains myrcene along with citral and other terpenes.
@@ -39,7 +39,7 @@ Myrcene content is one of the primary determinants of cannabis chemotype climone
 
 ### Cultivation Factors Affecting Myrcene Content
 
-Myrcene levels are influenced by numerous agronomic and environmental factors including genetics (the primary determinant), light spectrum (UV-B can upregulate terpene biosynthesis), nutrient availability (adequate phosphorus and micronutrients support terpene production), harvest timing (myrcene typically peaks late in the flowering cycle), and drying and curing conditions.
+Myrcene levels are influenced by numerous agronomic and environmental factors including genetics (the primary determinant), light spectrum (UV-B can upregulate terpene biosynthesis), nutrient availability (adequate phosphorus and micronutrients support terpene production), harvest timing (myrcene typically peaks late in the comparison [[autoflowering-cannabis]]), and [[cannabis-drying-and-curing]] conditions.
 
 ## Pharmacological Properties
 

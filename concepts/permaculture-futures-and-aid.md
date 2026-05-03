@@ -9,7 +9,7 @@ sources:
 ---
 # Permaculture Futures and Aid
 updated: 2026-04-18
-The final sections of Bill Mollison's Permaculture: A Designers Manual (Chapter 14, Sections 14.14-14.15) address global futures, environmental challenges, and the ethics of aid and assistance. These sections represent Mollison's most forward-looking analysis.
+The final sections of [[bill-mollison]]'s Permaculture: A Designers Manual (Chapter 14, Sections 14.14-14.15) address global futures, environmental challenges, and the ethics of aid and assistance. These sections represent Mollison's most forward-looking analysis.
 ## Section 14.14: Futures
 ### Global Problems Catalog
 Mollison identifies six categories of global concern:
@@ -33,7 +33,7 @@ Mollison identifies six categories of global concern:
 - Corruption and misuse of public funds
 - Replacement of crafts with machines
 - Intolerable employment
-- Short-term solutions to long-term problems
+- Short-term solutions to long term problems
 - Cash sequestered via addiction and crime
 **5. Directly Human Concerns**
 - Meaningful work (right livelihood)

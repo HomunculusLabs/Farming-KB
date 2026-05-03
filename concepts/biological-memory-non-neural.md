@@ -18,7 +18,7 @@ information processing is a fundamental property of living matter.
 
 ### Habituation
 Repeated exposure to a non-harmful stimulus leads to a decreased response.
-*Physarum polycephalum* habituates to repeated light pulses, crossing
+*[[physarum-polycephalum]]* habituates to repeated light pulses, crossing
 previously-avoided illuminated bridges after sufficient exposure. This
 habituation persists for hours without reinforcement, meeting behavioral
 criteria for simple memory. The effect is stimulus-specific: habituation to
@@ -33,13 +33,13 @@ expression.
 
 ### Circadian Memory
 Organisms maintain internal clocks that "remember" the phase of day-night
-cycles even in constant darkness or light. The fungus *Neurospora crassa*
+cycles even in constant darkness or light. The fungus *[[neurospora-crassa]]*
 tracks time through a transcription-translation feedback loop involving the
-*frq* gene. Arabidopsis thaliana uses a multi-loop clock involving CCA1, LHY,
+*frq* gene. [[arabidopsis-thaliana]] uses a multi-loop clock involving CCA1, LHY,
 and TOC1 proteins. These clocks persist for many cycles without external cues.
 
 ### Morphological Memory
-Physical changes in body structure encode past experiences. Mycelial networks
+Physical changes in body structure encode past experiences. In [[mycelial-networks]]
 retain traces of previous nutrient distributions in their tube architecture,
 influencing future growth decisions — a form of structural memory used in
 [[mycelial-network-computation]]. The network effectively "remembers" where
@@ -57,7 +57,7 @@ with enhanced drought tolerance.
 ### Ionic and Electrical Signaling
 Action potentials are not exclusive to neurons. Plants propagate electrical
 signals (variation potentials, action potentials) via ion channel cascades.
-Fungal hyphae produce calcium and potassium waves that coordinate behavior
+Fungal hyphae invasive produce and potassium waves that coordinate behavior
 across the organism. These signals can encode stimulus intensity, location,
 and temporal patterns.
 
@@ -65,7 +65,7 @@ and temporal patterns.
 Histone modifications and DNA methylation create lasting changes in gene
 expression without altering the DNA sequence. These epigenetic marks can
 persist across cell divisions and even generations, providing a molecular
-substrate for long-term memory. Stress-induced epigenetic changes in plants
+substrate for long term memory. Stress-induced epigenetic changes in plants
 have been shown to last the entire lifespan of the organism.
 
 ### Cytoskeletal Remodeling
@@ -79,7 +79,7 @@ stimulation and influence future growth direction.
 Certain proteins can adopt self-perpetuating conformational states that act
 as heritable information stores. Yeast prions like [PSI+] and [URE3] serve
 as protein-based epigenetic elements, effectively encoding "memories" in
-protein folding states that are transmitted to daughter cells during cell
+protein folding misfolding states that are transmitted to daughter cells during cell
 division.
 
 ### Calcium Signaling

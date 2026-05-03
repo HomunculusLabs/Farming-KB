@@ -81,7 +81,7 @@ encountered in surveys.
 
 Species-level taxonomy in the Glomales is based almost
 entirely on spore morphology, as the fungi cannot be grown
-in pure culture without a host plant. Key taxonomic characters
+in pure culture spawn without a host plant. Key taxonomic characters
 include:
 
 - **Spore wall structure** -- number and organization of
@@ -105,16 +105,16 @@ challenges:
 
 - Spore morphology is plastic and varies with environmental
   conditions
-- Different species can produce morphologically similar
+- different species can produce morphologically similar
   spores
 - The same species may produce different spore types at
   different life stages
-- Molecular identification requires specialized primers and
+- fungal rdna primers requires specialized primers and
   reference databases
 - Many species remain known only from spores collected
   from field soils
 
-Molecular approaches using SSU rDNA, LSU rDNA, and the ITS
+genetic improvement agaricus using SSU rDNA, LSU rDNA, and the ITS
 region have helped resolve species boundaries, but consensus
 sequences and reference databases remain incomplete.
 
@@ -126,8 +126,7 @@ fields to deserts. Key ecological patterns include:
 
 - Species composition varies with soil type, host plant
   community, and land management practices
-- Gigasporaceae tend to dominate in less disturbed tropical
-  soils, while Glomeraceae are more abundant in disturbed
+- Gigasporaceae tend to dominate in less disturbed mollison designers pioneer, while Glomeraceae are more abundant in disturbed
   and agricultural sites
 - Diversity is generally lower in intensively managed
   agricultural systems

@@ -46,7 +46,7 @@ The convective term is the source of nonlinearity, responsible for turbulence an
 ## Historical Development
 
 - **1822 — Navier**: Derived equations by modifying Euler's equations to account for intermolecular forces, obtaining the correct form with a questionable molecular justification.
-- **1829 — Cauchy**: Independently formulated general equations of motion using the stress tensor formalism, providing rigorous continuum mechanics foundations.
+- **1829 — Cauchy**: Independently formulated general equations of motion using the stress tensor formalism, providing rigorous [[continuum-mechanics]] foundations.
 - **1831 — Poisson**: Extended to compressible fluids, introducing the second viscosity coefficient (dilatational viscosity).
 - **1843 — Saint-Venant**: Derived based on the hypothesis that viscous stress is proportional to the rate of deformation — the Newtonian fluid assumption.
 - **1845 — Stokes**: Definitive derivation using the Cauchy stress principle and linear stress-rate-of-strain dependence. Identified the Stokes' hypothesis (λ = −2μ/3), exact for monatomic ideal gases.

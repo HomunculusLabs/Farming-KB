@@ -112,7 +112,7 @@ Research into the connection between C. immitis and uncinocarpus-reesei has prov
 
 ## Impact on Biodiversity Research
 
-The biohazardous nature of C. immitis affects fungal biodiversity research in endemic areas. Soil sampling and environmental surveys in desert regions of the southwestern United States may encounter this pathogen, requiring researchers to take appropriate safety precautions. Any comprehensive survey of biodiversity in an ecosystem should include data from local medical and veterinary authorities on the prevalence of C. immitis and other pathogens.
+The biohazardous nature of C. immitis affects [[fungal-biodiversity]] research in endemic areas. Soil sampling and environmental surveys in desert regions of the southwestern United States may encounter this pathogen, requiring researchers to take appropriate safety precautions. Any comprehensive survey of biodiversity in an ecosystem should include data from local medical and veterinary authorities on the prevalence of C. immitis and other pathogens.
 
 ## See Also
 

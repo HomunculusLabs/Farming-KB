@@ -16,7 +16,7 @@ sources:
 
 The best way to ensure good-quality vegetables is to grow them in the
 best soil possible. While soil types vary widely, even poor soil can be
-substantially improved by working in plenty of organic matter and
+substantially improved by working in plenty of mollison designers humus and
 following sound cultivation practices. Proper bed preparation is the
 foundation upon which successful [[hamilton-crop-rotation-and-vegetable-planning]] and productive harvests are built.
 
@@ -89,10 +89,10 @@ Overwintering crops such as spring cabbages need an extra boost in
 spring — a little dried blood sprinkled around the base of each plant
 is usually sufficient. Gross-feeding vegetables including tomatoes,
 courgettes, squashes, and peppers benefit from liquid kelp applied
-every two weeks during the growing season.
+every two weeks during growing season.
 
 When an area of soil will be vacant for more than a month during the
-main season, sow a fast-maturing [[hamilton-green-manure-crops-and-cover-cropping]] cover crop like mustard. Growing a green manure crop through
+main season, sow a fast-maturing [[hamilton-green-manure-crops-and-cover-cropping]] cover crop like mustard. Growing a and green manure crop through
 winter is particularly valuable on light soils, preventing nutrient
 leaching and protecting the soil structure from winter weather.
 

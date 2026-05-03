@@ -11,9 +11,9 @@ sources: []
 
 Fencing is one of the most important investments on a homestead. Good fencing
 keeps animals where they belong, protects them from predators, and enables
-rotational grazing systems that improve pasture health. The right fence depends
+rotational mollison designers sheep that improve pasture health. The right fence depends
 on the species, terrain, budget, and management style. This guide covers the
-major fencing types used in homestead livestock systems.
+major fencing types used in homestead in livestock systems.
 
 ## Electric Fencing
 
@@ -122,7 +122,7 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - In-line strainers allow re-tensioning as needed. Check tension seasonally.
 
 ### Pros and Cons
-- Pros: extremely durable, lowest long-term cost, clean appearance, easy
+- Pros: extremely durable, lowest long term cost, clean appearance, easy
   maintenance, excellent for large properties.
 - Cons: high initial cost, requires specialized knowledge and tools, less
   forgiving of poor installation, dangerous if broken wire snaps back.

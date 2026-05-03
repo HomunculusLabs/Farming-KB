@@ -8,9 +8,9 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 
 # Earthbag Construction for Sustainable Homes
 
-An alternative to earth berm houses is the popular and extremely low-cost
+An alternative to earth berm houses is the popular and extremely mushroom growing house
 earthbag method. Rather than building traditional framing to hold up dirt,
-the house is built with stacked bags full of soil. This creates thermal mass
+the house is built with stacked bags full of soil. This creates urban water catchment
 and is incredibly strong and long lasting. The bags can be covered with
 adobe or plaster. This building method is a practical expression of
 .
@@ -48,7 +48,7 @@ case use reinforced concrete.
 Dig a trench the width of the base of your wall, following the outline of
 the house. The base width must be at least a tenth of the wall height: if
 your wall is 10 feet high (3 meters), the base must be 1 foot (30 cm)
-thick. Trenches in wet and cold climates need to be dug below frost level.
+thick. Trenches in wet and permaculture designers manual need to be dug below frost level.
 
 ### Step 3: Gravel Base
 Fill the trench with gravel or concrete. The first layer of bags can be

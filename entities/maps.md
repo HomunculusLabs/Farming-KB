@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-The Multidisciplinary Association for Psychedelic Studies (MAPS) is a
+The Multidisciplinary for psychedelic studies (MAPS) is a
 nonprofit research and educational organization founded in 1986 by Rick
 Doblin, PhD. MAPS has served as the primary institutional vehicle for
 the revival of clinical psychedelic research in the United States and
@@ -36,12 +36,12 @@ commercialization of MDMA-assisted therapy.
   Spain, and Israel.
 - **1990s**: First FDA-approved MDMA safety study (Bouso in Spain),
   early ibogaine research.
-- **2000s**: Expanded into cannabis, LSD/end-of-life anxiety, ayahuasca.
+- **2000s**: Expanded into cannabis, LSD/of life anxiety, ayahuasca.
 - **2010s**: Major Phase 2 MDMA-PTSD trials across US, Canada, Israel,
   Europe established strong efficacy signals.
 - **2017**: FDA granted Breakthrough Therapy designation for MDMA-PTSD.
 - **2021**: Spun out MAPS PBC; announced SPAC merger with Helix.
-- **2023**: MAPP1 Phase 3 published in Nature Medicine — 86.5% MDMA
+- **2023**: MAPP1 Phase 3 published in nature Medicine — 86.5% MDMA
   group improved vs. 69.3% placebo.
 - **2024**: MAPP2 failed primary endpoint; FDA panel voted 9-2 against;
   FDA issued Complete Response Letter (CRL).
@@ -85,7 +85,7 @@ and União do Vegetal contexts, and for substance dependence treatment.
 
 ## Organizational Structure
 
-- **MAPS (nonprofit 501(c)(3))**: Education, harm reduction, advocacy,
+- **MAPS (nonprofit 501(c)(3))**: Education, and harm reduction, advocacy,
   and grant-making. Operates the Zendo Project.
 - **MAPS PBC**: Commercial drug development subsidiary. Pursued FDA
   approval for MDMA-PTSD. Filed S-1 but did not complete IPO.
@@ -117,7 +117,7 @@ individual contributors. MAPS PBC SPAC merger with Helix valued at
 - **MAPP2 failure**: Phase 3 failure and FDA rejection raised
   questions about earlier efficacy claims.
 - **Safety concerns**: FDA committee cited cardiovascular risk, abuse
-  potential, and insufficient long-term safety data.
+  potential, and insufficient long term safety data.
 - **Commercialization tensions**: MAPS PBC and patent pursuits
   contradicted the organization grassroots ethos.
 

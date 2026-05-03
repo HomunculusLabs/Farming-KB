@@ -114,7 +114,7 @@ tissues, potentially harming the resins secreted on the surface.
 
 - **Glass jars and freezer bags**: Most common containers
 - **Heat-sealed boilable pouches**: Do not breathe, good for storage
-- **Polyethylene bags**: Not suited to long-term storage; they breathe
+- **Polyethylene bags**: Not suited to [[mushroom-long-term-storage]]; they breathe
   water vapor and may cause excessive drying and potency loss
 
 Floral clusters with shade leaves intact are well protected from abrasion.

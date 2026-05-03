@@ -35,13 +35,13 @@ intercellularly within host tissues without forming
 haustoria or specialized feeding structures. The mycelium
 is typically subcuticular or intercellular and does not
 kill host cells outright but instead alters their growth
-patterns through the secretion of plant growth regulators,
+patterns through the secretion of [[tompkins-plant-growth-regulators]],
 particularly cytokinins and auxins. This manipulation
 results in characteristic symptoms including leaf curling,
 thickening, chlorosis, and the formation of witches' broom
 shoots.
 
-The life cycle involves both a yeast-like (saprobic) phase
+The growing gourmet black involves both a yeast-like (saprobic) phase
 and a mycelial (pathogenic) phase. In the saprobic phase,
 the fungus exists as budding yeast cells on leaf surfaces.
 Infection occurs when yeast cells or ascospores land on
@@ -89,7 +89,7 @@ ascocarp distinguish them from other ascomycete orders.
 Within the [[ascomycete-phylum-guide]], the Taphrinales
 are placed in the class Taphrinomycetes, which also
 includes the fission yeast Schizosaccharomyces and the
-dimorphic plant pathogens Protomyces and Pneumocystis.
+dimorphic snow mold fungi Protomyces and Pneumocystis.
 This class is recognized as one of the earliest-diverging
 lineages of the Ascomycota, retaining ancestral features
 such as a simple fruiting body structure and direct ascus
@@ -120,7 +120,7 @@ leaves with characteristic curling, thickening, or
 discoloration can be collected and examined microscopically
 for the presence of asci on the leaf surface. The asci are
 conspicuous and usually readily visible even with a hand
-lens. Herbarium specimens of infected host material are
+lens. [[herbarium-specimens-fungal-collections]] of infected host material are
 valuable for documenting distribution and host range.
 
 ## Ecological and Economic Significance
@@ -140,7 +140,7 @@ a long evolutionary history of coexistence.
 The true diversity of Taphrinales is likely underestimated.
 Many plant species in temperate and subtropical regions
 have not been surveyed for Taphrina infections, and
-cryptic species may exist within currently recognized
+[[cryptic-species]] may exist within currently recognized
 taxa. The narrow host specificity of most species means
 that each new host plant surveyed could potentially yield
 a new Taphrina species. Molecular barcoding approaches

@@ -72,7 +72,7 @@ frost protection for the first couple of years.
 
 ## Cultural Significance
 
-The bunya bunya holds deep cultural significance for Aboriginal peoples
+The bunya bunya holds deep palmer mushroom folklore for Aboriginal peoples
 of south-east Queensland. Large gatherings were traditionally held when
 the cones ripened, with people travelling long distances to share in the
 harvest. The nuts were a staple food that could be stored and traded.
@@ -95,17 +95,17 @@ In a [[permaculture]] design, the bunya bunya serves several functions:
   understorey crops in large-scale food forest systems
 - **Food production**: Starchy nuts provide a carbohydrate source
   complementing other tree crops
-- **Wildlife habitat**: Large mature trees support bird and animal
+- **[[hemenway-backyard-wildlife-habitat]]**: Large mature trees support bird and animal
   populations
 - **Timber**: White softwood has value for construction and craft
 - **Tannin source**: Bark contains 10% tannin for leather processing
-- **Resin production**: Trunk resin used traditionally as an adhesive
+- **[[cervantes-trichome-resin-production]]**: Trunk resin used traditionally as an adhesive
 
 ## Limitations
 
 The bunya bunya is not suitable for small suburban properties due to
 its eventual size (30-45 m), the hazard of falling cones weighing up
-to 7 kg, and the prickly leaf litter it produces. It requires
+to 7 kg, and the prickly leaf litter microfungal it produces. It requires
 substantial space and should only be planted where it has room to
 reach full maturity without risk to people or structures.
 

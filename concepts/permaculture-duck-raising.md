@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Permaculture Duck Raising
@@ -62,7 +63,7 @@ In winter they run out of forage and can turn the area around the pond to mud. T
 
 ## Breeds
 
-- Khaki Campbell: Most popular, first domestic duck breed, excellent egg production
+- Khaki Campbell: Most popular, first domestic duck breed, excellent mollison designers chicken
 
 - Indian Runners: Excellent egg layers, not good meat birds
 
@@ -92,7 +93,7 @@ Egg production by breed:
 
 - Muscovy: 100-180 eggs per year (they lay in clutches with longer breaks between)
 
-Egg handling and storage:
+Egg and storage:
 
 - Collect eggs daily; ducks lay in the morning before being let out
 
@@ -116,7 +117,7 @@ Common health issues:
 
 - Respiratory infections: ducks are susceptible to Aspergillosis from moldy feed or bedding; keep all feed dry and housing well-ventilated
 
-- Botulism: caused by ingesting toxin from decaying organic matter in stagnant water; prevent by keeping water sources fresh and moving
+- Botulism: caused by ingesting toxin from decaying mollison designers humus in stagnant water; prevent by keeping water sources fresh and moving
 
 - Egg binding: more common in overweight ducks; ensure adequate exercise and balanced calcium intake
 

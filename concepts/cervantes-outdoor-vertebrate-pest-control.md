@@ -20,7 +20,7 @@ synonyms:
 # Outdoor Vertebrate Pest Control
 
 Outdoor cannabis gardens face threats from a variety of vertebrate pests
-including gophers, moles, mice, voles, and rabbits. Jorge Cervantes
+including gophers, moles, mice, voles, and rabbits. [[jorge-cervantes]]
 provides detailed control methods for each pest, emphasizing non-toxic
 approaches that avoid collateral damage to the ecosystem.
 

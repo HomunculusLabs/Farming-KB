@@ -11,7 +11,7 @@ Pasture-raised pork comes from pigs raised outdoors with access to living vegeta
 ## Why Pastured Pork
 Benefits over confinement:
 - Higher vitamin D (sunlight exposure)
-- More omega-3 fatty acids from forage
+- More omega-3 stable carbon isotope from forage
 - Better animal welfare (natural behaviors: rooting, wallowing, exploring)
 - Lower feed costs (20-40% of diet from pasture/forage)
 - Superior meat flavor and fat quality
@@ -36,7 +36,7 @@ Pigs are omnivores and will consume a wide variety of forage:
 ### Annual Forage Crops
 - Winter rye and oats for cool-season grazing
 - Cowpeas and soybeans for summer protein
-- Turnips and radishes for fall/winter root crops
+- Turnips and radishes for fall/[[coleman-winter-root-crops]]
 - Field peas (spring planting)
 - Sorghum-sudangrass for summer bulk
 ### Supplemental Forage
@@ -112,7 +112,7 @@ Average yield from 250 lb live pig:
 ### Profitability
 - Net profit per pig (retail): $200-600
 - Selling live: $50-150 profit (thin margins)
-- Key is direct marketing -- see farmers market selling guide
+- Key is direct marketing -- see [[farmers-market-selling-guide]]
 - Annual production of 6-10 pigs can generate $2,000-6,000 net income
 ## Health Considerations
 - Vaccinate for erysipelas and circovirus
@@ -121,7 +121,7 @@ Average yield from 250 lb live pig:
 - Provide shade and wallows to prevent heat stress
 - Pigs are susceptible to stress -- handle calmly and consistently
 - Biosecurity: quarantine new arrivals for 30 days
-Pastured pork complements [[grass-fed-beef-production]] in a diversified livestock operation and generates valuable manure for [[hot-composting-vs-vermicompost-vs-bokashi|compost]] and soil building.
+Pastured pork complements [[grass-fed-beef-production]] in a diversified livestock operation and generates valuable manure for [[hot-composting-vs-vermicompost-vs-bokashi|compost]] and natural farming guide.
 
 ## See Also
 

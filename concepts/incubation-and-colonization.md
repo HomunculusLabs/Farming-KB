@@ -26,7 +26,7 @@ out of direct sunlight. Only indirect light is required during incubation.
 ## Temperature Requirements
 
 The ideal incubation temperature is around 70 degrees Fahrenheit (21 degrees
-Celsius). At this temperature, spore germination will begin within 3 to 5
+Celsius). At this temperature, mushroom cultivator tissue will begin within 3 to 5
 days. Any room temperature is generally acceptable. The guiding principle is
 that cool temperatures are never a problem, but overheating must be avoided.
 
@@ -89,8 +89,7 @@ called "pinning" and marks the beginning of the fruiting cycle.
 
 ### Primordia Formation
 
-Soon after pinning, small round fungus growths appear that begin to turn
-yellow. These develop into "primordia," which are tiny worm-like structures
+Soon after pinning, small round fungus growths appear that begin turn yellow. These develop into "primordia," which are tiny worm-like structures
 with tiny reddish heads. The primordia are the first actual mushrooms and
 signal that the cake is ready to be removed from the jar for fruiting.
 

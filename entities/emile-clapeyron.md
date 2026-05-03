@@ -101,7 +101,7 @@ updated: 2026-05-02
 - His contribution was not merely commentary; it reorganized the argument for future science.
 
 ## Clausius-Clapeyron relation
-- Clapeyron also studied phase transitions.
+- Clapeyron also studied and critical phenomena.
 - His work led to the relation later extended by Rudolf Clausius.
 - The Clausius-Clapeyron relation describes the slope of phase boundaries.
 - It links pressure, temperature, latent heat, and volume change between phases.

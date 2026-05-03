@@ -10,7 +10,7 @@ sources:
 # cannabis pollen collection storage clarke
 
 Controlled pollen collection and application are fundamental skills for
-any Cannabis breeding program. [[robert-clarke]] devotes extensive attention
+any cannabis breeding techniques program. [[robert-clarke]] devotes extensive attention
 to these techniques in Marijuana Botany, detailing methods for collecting,
 storing, and applying pollen with precision to produce seeds of known
 parentage. The quality of breeding records depends directly on the
@@ -122,7 +122,7 @@ materials remain cooler in the sun.
 
 Pollen release is fairly rapid inside the bags. After two days to a week,
 the limbs are removed and dried in a cool dark place. The bags are
-collected early in the morning before solar heating. After drying, the
+collected early in the morning before and solar heating. After drying, the
 bags are shaken vigorously and carefully untied. Plant material is removed
 as a moisture source, and the pollen bags are re-sealed.
 
@@ -136,8 +136,7 @@ screen such as fuel filter screening or a tea strainer.
 A pistillate flower cluster is ripe for fertilization as long as pale,
 slender pistils emerge from the calyxes. The largest yield of uniform,
 healthy seeds is achieved by pollinating during peak floral stage, when
-the seed plant is covered with thick clusters of white pistils and resin
-production has just begun.
+the seed plant is covered with thick clusters of white pistils and [[cervantes-trichome-resin-production]] has just begun.
 
 The pollination bag is slipped over the pistillate limb tip, sealed, and
 shaken vigorously to disperse pollen evenly throughout the enclosure.

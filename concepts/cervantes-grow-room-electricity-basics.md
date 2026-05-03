@@ -12,8 +12,7 @@ sources:
 You don't need to understand the basics of electricity to grow indoors
 or in a greenhouse, but understanding the fundamentals will save you
 money, time, and possibly the shock of your life. This page covers
-essential electrical concepts for setting up a safe indoor cannabis
-garden. See also [[cervantes-electricity-consumption-cost-management]]
+essential electrical concepts for setting up a safe indoor cannabis garden. See also [[cervantes-electricity-consumption-cost-management]]
 and [[cervantes-ballasts-hid-electrical]].
 
 ## Safety First
@@ -124,8 +123,7 @@ overloaded circuit!
 A circuit is the circular path that electricity travels. If this path
 is interrupted, the power will go off. If this circuit is given a
 chance, it will travel a circular route through your body! Always
-ensure proper grounding and use GFI outlets in any grow room
-environment where water is present.
+ensure proper grounding and use GFI outlets in any [[green-grow-room-environment]] where water is present.
 
 ## Kilowatt-Hour (kWh)
 The unit by which electricity is billed. A kilowatt-hour is 1000

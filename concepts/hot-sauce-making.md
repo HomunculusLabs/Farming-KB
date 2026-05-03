@@ -7,8 +7,8 @@ tags: [fermentation, recipe, food, homesteading, homestead-crafts, preservation,
 sources: []
 ---
 ## What Is Hot Sauce
-Hot sauce is a condiment made primarily from chili peppers, vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and fermentation methods.
-There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented (lactic acid bacteria develop complex flavors over time).
+Hot sauce is a condiment made primarily from chili peppers, vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and [[faires-food-fermentation-methods]].
+There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented ([[lactic-acid-bacteria]] develop complex flavors over time).
 ## Pepper Selection
 Understanding pepper heat and flavor is essential for crafting good hot sauce.
 ### Scoville Heat Units (SHU) Reference
@@ -31,7 +31,7 @@ Understanding pepper heat and flavor is essential for crafting good hot sauce.
 - For a mild sauce: use Anaheim, poblano, or shishito peppers
 Fresh, ripe peppers produce the best flavor. Frozen peppers work well if thawed first. Dried peppers can be rehydrated in hot water.
 ## Fermented Hot Sauce
-Fermented hot sauce develops deeper, more complex flavors than vinegar-based sauces. Lactic acid bacteria naturally present on pepper skins convert sugars into lactic acid, creating a tangy, layered condiment.
+[[fermented-hot-sauce-guide]] sauce develops deeper, more complex flavors than vinegar-based sauces. Lactic acid bacteria naturally present on pepper skins convert sugars into lactic acid, creating a tangy, layered condiment.
 ### Basic Fermented Hot Sauce Process
 1. Wash and stem peppers — leave them whole, halved, or chopped
 2. Pack peppers into a clean glass jar, leaving 1-2 inches of headspace
@@ -52,7 +52,7 @@ Fermented hot sauce develops deeper, more complex flavors than vinegar-based sau
 ## Vinegar-Based Hot Sauce (Quick Method)
 For a fast, no-ferment sauce:
 1. Stem and roughly chop peppers
-2. Combine peppers with vinegar (white, apple cider, or rice vinegar) in a saucepan
+2. Combine peppers with vinegar (white, apple cider, or [[knf-brown-rice-vinegar]]) in a saucepan
 3. Add garlic, onion, salt, and any desired spices
 4. Simmer for 10-15 minutes until peppers are soft
 5. Blend until smooth (or leave chunky for a rustic sauce)
@@ -83,7 +83,7 @@ After fermentation (or as part of the quick method), cooking develops the final 
 - Leave 1/4 inch headspace
 ### Preservation Methods
 - Refrigeration: keeps for 3-6 months
-- Water bath canning: process 5 oz bottles for 10 minutes in a boiling water bath — shelf-stable for 1+ year
+- comparison pressure canning: process 5 oz bottles for 10 minutes in a boiling water bath — shelf-stable for 1+ year
 - Add vinegar to at least 4-5% acidity if canning for safety
 - Adding 1-2 tablespoons of vinegar per 5 oz bottle aids preservation
 ## Hot Sauce Recipe Variations

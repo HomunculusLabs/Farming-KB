@@ -38,7 +38,7 @@ sources:
 
 # Salvia divinorum
 
-*Salvia divinorum* is a [[psychedelic-psychotherapy|psychoactive]] perennial herb in the mint family (Lamiaceae), endemic to a small region of the Sierra [[psychedelic-1960s-counterculture|Mazatec]]a in Oaxaca, Mexico. It is the only known natural source of [[psychedelic-mushroom-dosage-guide|salvinorin]] A, a neoclerodane diterpene and the most potent naturally occurring non-nitrogenous [[weil-psychedelic-experience-set-and-setting|psychedelic]] compound known. The Mazatec people have used the plant in divination and healing rituals for generations. Among approximately 700 *Salvia* species distributed worldwide, *S. divinorum* is unique in its psychoactive properties. It was scientifically described by Carl Epling and Carlos D. Játiva-M. in 1962 from specimens collected by R. Gordon Wasson near Huautla de Jiménez, Oaxaca, published in *Brittonia* 14(2): 154–159.
+*Salvia divinorum* is a [[psychedelic-psychotherapy|psychoactive]] perennial herb in the mint family (Lamiaceae), endemic to a small region of the Sierra [[psychedelic-1960s-counterculture|Mazatec]]a in Oaxaca, Mexico. It is the only known natural source of [[psychedelic-mushroom-dosage-guide|salvinorin]] A, a neoclerodane diterpene and the most potent naturally occurring non-nitrogenous [[weil-psychedelic-experience-set-and-setting|psychedelic]] compound known. The [[mazatec-people]] have used the plant in divination and healing rituals for generations. Among approximately 700 *Salvia* species distributed worldwide, *S. divinorum* is unique in its psychoactive properties. It was scientifically described by Carl Epling and Carlos D. Játiva-M. in 1962 from specimens collected by R. [[gordon-wasson]] near Huautla de Jiménez, Oaxaca, published in *Brittonia* 14(2): 154–159.
 
 ## Taxonomy
 
@@ -63,7 +63,7 @@ All extant cultivated clones trace back to a very small number of introductions 
 
 - **Wasson-Hofmann (W-H):** The original clone collected by Wasson and Hofmann in 1962. Most widely distributed clone worldwide and the basis for most research and commercial material.
 - **Blosser ("Blosser's Palatable"):** Introduced by Sean Blosser from a Mazatec source. Reported to be less bitter than W-H when chewed in the traditional quid method. Slightly smaller, more elongated leaves.
-- **Luna:** Collected from Mazatec territory by Kathleen Harrison (wife of Terence McKenna). Reportedly more vigorous with distinct growth characteristics.
+- **Luna:** Collected from Mazatec territory by Kathleen Harrison (wife of [[terence-mckenna]]). Reportedly more vigorous with distinct growth characteristics.
 - **Appaloosa:** Named for its variegated white/cream mottled foliage. Less common, generally less vigorous due to reduced chlorophyll.
 
 ## Chemistry

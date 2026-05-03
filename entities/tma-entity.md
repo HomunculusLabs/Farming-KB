@@ -81,7 +81,7 @@ The comparison between TMA and mescaline illustrates the general pattern that am
 
 ## Harm Reduction and Safety Considerations
 
-- The emotional volatility reported at higher doses (225 mg) suggests careful attention to set and setting
+- The emotional volatility reported at higher doses (225 mg) suggests careful attention to [[set-and-setting]]
 
 - Nausea, while less than with mescaline, can still occur particularly at higher doses
 

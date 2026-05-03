@@ -17,11 +17,11 @@ type: concept
 The Oomycota (oomycetes) and related heterotrophic
 straminipiles were long classified as fungi based on their
 filamentous growth habit and ecological roles as decomposers
-and plant pathogens. Molecular phylogenetics has revealed,
+and snow mold fungi. Molecular phylogenetics has revealed,
 however, that these organisms belong to the Kingdom
 Straminipila (also known as Chromista or Heterokonta), a
 major eukaryotic lineage distinct from the Kingdom [[symbiotic-fungi-mycorrhizal-carbon-trading]]. This reclassification is one of the
-most significant paradigm shifts in modern mycology.
+most significant and paradigm shifts in modern mycology.
 ## The Straminipila
 The Straminipila includes certain algae (Phaeophyceae -- brown
 algae, diatoms, golden-brown algae, chrysophytes) and a group
@@ -58,7 +58,7 @@ straminipiles from true fungi, including:
   fungicides)
 - Biochemical pathways (lysine biosynthesis via
   diaminopimelate pathway versus the alpha-aminoadipate
-  pathway in fungi)
+  [[shikimate-pathway-in-fungi]])
 ## Phylogenetic Hypotheses for Oomycetes
 Phylogenetic hypotheses for oomycetes (Class
 Peronosporomycetes) define two major clades:
@@ -75,8 +75,7 @@ freshwater habitats and include:
 ### Peronosporomycetidae (Plant and Animal Parasites)
 The Peronosporomycetidae includes the most economically
 important oomycetes as plant pathogens. Major clades include:
-- **Pythium clade** -- soil-borne pathogens causing damping-
-  off and root rots; Pythium species are important in
+- **Pythium clade** -- soil-borne pathogens causing cervantes root rot and root rots; Pythium species are important in
   agriculture and horticulture
 - **Phytophthora clade** -- devastating plant pathogens
   including Phytophthora infestans (cause of the Irish
@@ -100,8 +99,7 @@ group of oomycetes was long assumed based on ultrastructural
 comparisons and has been confirmed by analyses of rDNA from
 three species of hyphochytrids.
 ## Labyrinthulales and Thraustochytriales
-These primarily marine and brackish-water organisms associate
-with marine plants and bivalves, often as parasites. Several
+These primarily marine and brackish-water organisms associate with marine plants and bivalves, often as parasites. Several
 investigators have placed the Labyrinthulales in the
 straminipiles based on rDNA analyses. A broader question
 concerning the monophyly of all heterotrophic members of the

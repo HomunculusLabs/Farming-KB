@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [season-extension, construction, gardening, permaculture, sustainability]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Grow Tunnel and Hoop House
 Grow tunnels and hoop houses are simple, affordable structures that extend the growing season by protecting plants from cold, wind, and pests. They range from small, temporary low tunnels covering individual rows to large, semi-permanent high tunnels (hoop houses) that a person can walk inside. All use a curved frame covered with polyethylene film or other material to create a protected microclimate.

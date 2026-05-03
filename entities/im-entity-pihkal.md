@@ -56,7 +56,7 @@ isomescaline and schizophrenia. Through the use of radioactive
 labelling, the extent of demethylation (the metabolic removal of the
 methyl groups from the methoxyls) was determined in both schizophrenic
 patients and normal subjects. When there was a loading of the person
-with methionine (an amino acid that is the principal source of the
+with methionine (an [[knf-fish-amino-acid]] that is the principal source of the
 body's methyl groups), the schizophrenics appeared to show a lesser
 amount of demethylation.
 
@@ -110,7 +110,7 @@ crystalline product.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna tryptamine research varies by jurisdiction.
 
 ## See Also
 

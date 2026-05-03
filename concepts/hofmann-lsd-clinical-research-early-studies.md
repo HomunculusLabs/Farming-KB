@@ -86,7 +86,7 @@ Developed in European clinics, this approach used moderately strong doses of LSD
 
 ### Psychedelic Therapy
 
-Favored in the United States, this method administered a single very high dose (0.3 to 0.6 mg) after intensive psychological preparation. The goal was to induce a mystical-religious experience through LSD's shock effects, which could then serve as a starting point for personality restructuring. The term "psychedelic" (mind-manifesting or mind-expanding) was introduced by Humphry Osmond.
+Favored in the United States, this method administered a single very high dose (0.3 to 0.6 mg) after intensive psychological preparation. The goal was to induce a mystical-religious experience through LSD's shock effects, which could then serve as a starting point for personality restructuring. The term "psychedelic" (mind-manifesting or mind-expanding) was introduced by [[humphry-osmond]].
 
 ## Key Therapeutic Mechanisms
 

@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: entity
 tags: [permaculture, species]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
 title: "Hippophae rhamnoides"
@@ -147,4 +148,3 @@ Clinical studies have demonstrated anti-inflammatory, antioxidant, hepatoprotect
 
 ## Related Topics
 - [[biological-nitrogen-fixation-agriculture]]
-- [[permaculture-plant-selection-guide]]

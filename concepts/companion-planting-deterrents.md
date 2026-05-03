@@ -37,7 +37,7 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 Hoverflies are the most valuable pest predators in the garden. They exist in different species worldwide.
 
-**Life cycle connection to companion planting:**
+**growing gourmet black connection to companion planting:**
 - Before laying eggs, the female hoverfly needs protein from pollen
 - She feeds from open-structured flowers where pollen is easily accessible (short feeding tube)
 - She then lays individual eggs on colonies of aphids
@@ -72,12 +72,12 @@ observation because many biological systems respond slowly or episodically.
 
 ## Integration
 The strongest applications usually connect several functions at once, such as
-soil improvement, habitat creation, water moderation, yield, and education. If a
+mollison permaculture two, habitat creation, water moderation, yield, and education. If a
 practice only solves one problem while creating new maintenance burdens, it
 should be redesigned or kept experimental.
 
 ## Related
 
-- [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
+- [[green-manure-crops-detailed]] — Phacelia as a and green manure that also attracts hoverflies
 - [[clubroot-disease-management]] — disease management for brassicas
 - [[leatherjacket-pest-control]] — direct pest control methods for soil pests

@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-*Schizophyllum commune* is a cosmopolitan basidiomycete mushroom and one of the most widely distributed fungal species on Earth, found on every continent including Antarctica. Commonly known as the split-gill fungus, it grows on dead or dying wood of a broad range of hardwood and softwood species. Despite being generally considered inedible due to its tough texture, *S. commune* has become a model organism for fungal genetics and has demonstrated significant medicinal properties.
+*Schizophyllum commune* is a cosmopolitan basidiomycete mushroom and one of the most widely distributed fungal species on Earth, found on every continent including Antarctica. Commonly known as the split-gill fungus, it grows on dead or dying wood of a broad range of hardwood and softwood species. Despite being generally considered inedible due to its tough texture, *S. commune* has become a model organism for [[fungal-genetics]] and has demonstrated significant medicinal properties.
 
 ## Taxonomy and Classification
 
@@ -35,7 +35,7 @@ The fruiting body is small (1–4 cm across), shell-shaped to fan-shaped, with a
 
 - **Cap surface**: White to gray, covered in fine hairs (tomentose), often zonate
 - **Hymenophore**: Radially split gills that are cream-colored to pale pinkish
-- **Spore print**: White
+- **[[spore-print]]**: White
 - **Spores**: Cylindrical, smooth, 5–7 × 1.5–2.5 μm
 - **Desiccation tolerance**: Can survive extreme drying and rehydrate to resume spore production — one of the most desiccation-tolerant fungi known
 

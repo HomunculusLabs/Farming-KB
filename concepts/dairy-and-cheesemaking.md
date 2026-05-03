@@ -56,7 +56,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 ## Cultures and Rennet
 
 ### Starter Cultures
-| Culture | Type | Temp Range | Used For |
+| Culture | Type | Temp Range | used for |
 |---|---|---|---|
 | MA11 / Meso | Mesophilic | 68-77°F (20-25°C) | Chevre, feta, fromage blanc, cheddar |
 | TA61 / Thermo | Thermophilic | 86-106°F (30-41°C) | Yogurt, gouda, parmesan, mozzarella |
@@ -64,7 +64,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 
 - **DVI (Direct Vat Inoculation):** Freeze-dried powder, add directly — easiest for beginners
 - **Mother cultures:** Propagate from DVI in sterilized milk; more economical at scale
-- Source: New England Cheesemaking Supply, Cultures for Health
+- Source: New England Cheesemaking Supply, Cultures for health
 
 ### Rennet
 | Type | Source | Notes |
@@ -74,7 +74,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 | Vegetable | Fig latex, thistle, nettles | Less predictable strength |
 
 - Dosage: ~¼-½ tsp liquid rennet per gallon (follow package); dilute in cool chlorine-free water
-- Store liquid rennet in fridge; freeze for long-term (1+ year)
+- Store liquid rennet in fridge; freeze for long term (1+ year)
 - **Plant rennet:** Stinging nettle, cardoon thistle, fig sap (see [[herbal-medicine]])
 
 ## Fresh Dairy Products

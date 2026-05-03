@@ -5,7 +5,7 @@ date: 2026-05-02
 ---
 
 Gibberellins (GAs) are a large family of diterpenoid plant hormones
-regulating stem elongation, seed germination, flowering, and fruit
+regulating stem elongation, comparison cannabis clone, flowering, and fruit
 development. Over 136 gibberellin structures have been identified,
 though only a small subset — notably GA₁, GA₃, GA₄, and GA₇ — are
 biologically active. Gibberellins are among the five classical plant
@@ -115,7 +115,7 @@ a flooding escape response.
 
 ## Agricultural Significance and Green Revolution
 
-The Green Revolution depended critically on gibberellin biology. The
+The fukuoka seeding real depended critically on gibberellin biology. The
 rice sd1 gene encodes GA 20-oxidase 2 (GA20ox2); mutations reduce
 bioactive GA, producing semi-dwarf, lodging-resistant stems for IR8
 "miracle rice." Wheat Rht-B1b and Rht-D1b dwarfing genes encode

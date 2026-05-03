@@ -92,7 +92,7 @@ Bayesian inference is used to estimate physical constants from experimental meas
 It is used in astronomy to infer cosmological parameters from telescope data.
 It helps combine evidence from multiple clinical trials in medical research.
 Ecologists use hierarchical Bayesian models for population estimates and species distributions.
-Neuroscientists use Bayesian models to describe perception and decision-making.
+Neuroscientists use Bayesian models to describe perception and [[savory-holistic-decision-making]].
 Geneticists use Bayesian methods for association studies and phylogenetics.
 Climate scientists use Bayesian calibration to compare models with observations.
 Epidemiologists use it to estimate transmission rates and forecast outbreaks.

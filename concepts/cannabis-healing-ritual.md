@@ -14,7 +14,7 @@ sources:
 
 # cannabis healing ritual
 
-The Harnessing of the Earth's Energy is a healing ritual from "Marijuana Magick:
+The Harnessing of the earth's Energy is a healing ritual from "Marijuana Magick:
 A Practitioners Guide" by Magus Sativus. It is designed for times when the
 practitioner is feeling physically ill, combining traditional pagan ritual
 tools with a cannabis-infused liquid preparation. The ceremony channels healing
@@ -75,8 +75,7 @@ entire body, and specifically into the ailing part.
 ### South: Earth's Verdant Power
 
 Turning south within the circle, the practitioner says: "Blessed earth,
-creator of all that is green and verdant, sustainer of life and spirit and
-health, home of the plants and animals, big and small, all that has been in
+creator of all that is green and verdant, sustainer of life and spirit and health, home of the and animals, big and small, all that has been in
 existence on your wondrous surface, give me the strength to live, to heal, to
 improve in all sustainable ways. Help me find the power in myself to give
 back to you, mother and father of all, and stay healthy at all times."

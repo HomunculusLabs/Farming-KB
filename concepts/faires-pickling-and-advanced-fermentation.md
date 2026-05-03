@@ -10,11 +10,11 @@ sources:
 
 # Faires Pickling and Advanced Fermentation
 
-Beyond the basic lacto-fermentation covered in [[faires-food-fermentation-methods]], the Faires guide describes a range of pickling and preservation techniques that expand the homesteader's ability to process and store food year-round. Pickling cucumbers, vegetables, eggs, and other foods extends the harvest, adds nutritional value through beneficial bacteria, and creates diverse flavours for the winter table.
+Beyond the basic lacto fermentation covered in [[faires-food-fermentation-methods]], the Faires guide describes a range of pickling and preservation techniques that expand the homesteader's ability to process and store food year-round. Pickling cucumbers, vegetables, eggs, and other foods extends the harvest, adds nutritional value through beneficial bacteria, and creates diverse flavours for the winter table.
 
 ## Lacto-Fermentation: Safety and Principles
 
-Lacto-fermentation has become more popular again in recent years because it saves the nutritional properties of the food preserved and has all kinds of friendly bacteria. Where other types of food preservation techniques try to kill all the bacteria, fermentation encourages it. It works because the fermentation process produces lactic acid, which kills botulism and other bacteria. For this reason, lacto-fermentation can be much safer than canning or even eating raw vegetables, which can harbour E. coli.
+Lacto-fermentation has become more popular again in recent years because it saves the [[nutritional-properties-mushrooms]] of the food preserved and has all kinds of friendly bacteria. Where other types of food preservation techniques try to kill all the bacteria, fermentation encourages it. It works because the fermentation process produces lactic acid, which kills botulism and other bacteria. For this reason, lacto-fermentation can be much safer than canning or even eating raw vegetables, which can harbour E. coli.
 
 ### Equipment
 
@@ -93,7 +93,7 @@ Add whole caraway seeds to the cabbage during fermentation for a traditional Eas
 Crushed juniper berries add a piney, aromatic quality to the kraut.
 
 ### Turmeric Sauerkraut
-Adding grated fresh turmeric creates a golden-coloured kraut with anti-inflammatory properties.
+Adding grated fresh turmeric creates a golden-coloured kraut with medicinal mushroom antioxidant properties.
 
 ## Egg Pickling
 

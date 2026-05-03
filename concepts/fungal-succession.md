@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 # Fungal Succession in Ecosystems
 

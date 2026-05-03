@@ -30,7 +30,7 @@ Beyond THC, the plant contains CBD, CBN, THCV, CBDV, CDC, and CBL,
 but these are only very minor compared to THC. The overall cannabinoid
 profile contributes to the character of the high.
 ## Choosing High-Potency Genetics
-The most important factor for potency is strain selection. Always
+The most important factor for potency is and strain selection. Always
 consult your seed-bank or breeder for THC level details. Many seed
 sellers measure their plants' THC levels and provide accounts of how
 much THC their plants have. Be aware that some breeders exaggerate.
@@ -46,7 +46,7 @@ mass. A plant with 70% THC but low bud mass might produce a lower
 total yield than a plant with 50% THC and massive bud production.
 Zero Zero is a 'western' concept -- it describes the quality of the
 final product. The collection of trichomes from the plant determines
-much of this grade. Female plants produce resin glands; some have lots
+much of this grade. Female plants produce and resin glands; some have lots
 of resin but are not very potent.
 ## Sinsemilla for Maximum Potency
 The female plant when not pollinated produces flowering buds with no

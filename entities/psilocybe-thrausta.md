@@ -46,7 +46,7 @@ sources:
 - Bruises bluish when damaged, though the reaction may be slow or faint
 
 ### Spores
-- Spore print dark purplish-brown
+- [[spore-print]] dark purplish-brown
 - Spores broadly ellipsoid to subamygdaliform
 - Wall thickness moderate, with a visible germ pore
 - Approximately 9–12 × 6–7.5 µm

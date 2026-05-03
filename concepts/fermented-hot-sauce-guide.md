@@ -14,7 +14,7 @@ Lacto-fermented hot sauce develops complex flavor through controlled bacterial f
 
 ## Lacto-Fermentation Basics
 
-Lacto-fermentation relies on Lactobacillus bacteria naturally present on produce. In a salty anaerobic environment, these bacteria convert sugars into lactic acid, lowering pH below 4.6 -- the threshold for safe preservation.
+lacto fermentation relies on Lactobacillus bacteria naturally present on produce. In a salty anaerobic environment, these bacteria convert sugars into lactic acid, lowering pH below 4.6 -- the threshold for safe preservation.
 
 Key principles:
 - Salt concentration: 2-3% of total weight (peppers + water)
@@ -79,7 +79,7 @@ After fermentation:
 
 Critical safety parameters:
 - Final pH must be 4.6 or below (test with calibrated pH meter)
-- Target pH: 3.4-4.0 for best flavor and safety
+- Target pH: 3.4-4.0 best flavor and safety
 - Water-bath can the finished sauce for shelf stability (10 min for half-pints)
 - Refrigerated fermented sauce keeps 6-12 months un-canned
 - Canned sauce keeps 12-18 months
@@ -90,7 +90,7 @@ Hot sauce improves with age. Store bottled sauce in a cool, dark place for 1-3 m
 
 ## Scaling for Sale
 
-See homestead mushroom business and online homestead sales for general business guidance. Hot sauce specifics:
+See [[homestead-mushroom-business]] marketing basics and [[online-homestead-sales]] for general business guidance. Hot sauce specifics:
 
 - Price point: $6-12 per 5oz bottle at farmers markets
 - Cost of goods: $1.50-3.00 per bottle (peppers, vinegar, bottles, labels)

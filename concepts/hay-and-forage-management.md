@@ -14,7 +14,7 @@ Producing and managing high-quality hay and forage is essential for any
 livestock homestead. Winter feeding typically represents 40-60% of annual
 feed costs, and hay quality directly affects animal health, reproduction, and
 production. Understanding hay types, cutting timing, storage, and nutritional
-value allows homesteaders to maximize self-sufficiency and reduce purchased
+value allows homesteaders to maximize for self sufficiency and reduce purchased
 feed inputs.
 
 ## Hay Types
@@ -70,8 +70,7 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - **Vegetative (pre-boot):** Highest quality. 18-22% protein (alfalfa),
   14-18% (grass). Low yield. Best for young animals and lactating stock.
 - **Early boot:** Grass heads just beginning to emerge. Excellent quality.
-  14-20% protein (legumes), 12-15% (grass). Good compromise of quality and
-  yield.
+  14-20% protein (legumes), 12-15% (grass). Good compromise of quality and yield.
 - **Boot stage:** Grass heads fully enclosed in sheath. Good quality for
   general feeding. 12-16% protein (legumes), 10-13% (grass).
 - **Early heading:** Heads emerging. Quality declining. 10-14% protein.

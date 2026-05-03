@@ -31,7 +31,7 @@ vertebrates.
 
 Myxomycetes are not particularly common inhabitants of dung in
 temperate forests, and truly coprophilous species are either absent or
-at least rare. Only about 12 species are found exclusively on dung and
+at least rare. Only about 12 species are found exclusively [[fungal-succession-on-dung]] and
 15 predominantly on dung, representing about 2% of the approximately
 700 described species. No obvious adaptations to endocoprophily have
 been found. The most commonly recorded species include Perichaena
@@ -98,7 +98,7 @@ regions, even at higher elevations.
 In the zone 0-30 degrees north and south of the equator, 153 taxa
 were recorded. That figure drops off substantially beyond 40 degrees
 north or south. Bell (1983) recorded 66 taxa of pyrenomycetes from
-New Zealand, supporting the existence of a latitudinal gradient.
+magic mushrooms australia, supporting the existence of a latitudinal gradient.
 
 ### Regional Differences
 
@@ -138,8 +138,8 @@ a different mycobiota from that of lagomorph dung. Lundqvist (1972)
 suggested that the habitat of the host is likely more important than
 the substratum itself in determining fungal composition.
 
-Dung from porcupines and certain wood rats in North America and by
-hyrax in Africa represents an exception to the general difficulty of
+Dung from porcupines and certain wood rats in north america and by
+hyrax [[neurotropic-fungi-in-africa]] represents an exception to the general difficulty of
 estimating species richness, as dung at those sites has been deposited
 in layers at cave entrances for several generations, providing a
 chronological record of fungal colonization.

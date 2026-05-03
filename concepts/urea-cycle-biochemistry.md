@@ -18,7 +18,7 @@ Its importance becomes obvious when the cycle fails: ammonia rises quickly and t
 is one of the first organs injured.
 
 ## Nitrogen Disposal Problem
-Amino acid catabolism removes amino groups that cannot be stored safely as free ammonia.
+Amino beta oxidation fatty removes amino groups that cannot be stored safely as free ammonia.
 Ammonia is small, diffusible, and chemically reactive enough to disturb cellular pH,
 neurotransmission, and mitochondrial metabolism.
 Aquatic organisms can often excrete ammonia directly, but terrestrial vertebrates need a
@@ -60,7 +60,7 @@ Argininosuccinate synthetase uses ATP, but the energetic cost is high because AT
 cleaved to AMP and pyrophosphate.
 Aspartate supplies the second nitrogen atom of urea and is produced by transamination of
 oxaloacetate.
-This links nitrogen disposal to carbon flux through the malate-aspartate shuttle and the
+This links nitrogen disposal to [[fungal-respiration-carbon-flux]] through the malate-aspartate shuttle and the
 [[citric-acid-cycle-tca-krebs-cycle]].
 
 ## Argininosuccinate Cleavage

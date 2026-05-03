@@ -20,7 +20,7 @@ type: concept
 than 100 years. Their well-known sensitivity to air pollution,
 particularly sulfur dioxide and nitrogen compounds, makes
 [[lichenized-fungi-biology-ecology-diversity]]
-valuable tools for environmental monitoring and biodiversity
+valuable tools for singh fungal biosensors and biodiversity
 assessment. The extensive literature on monitoring air quality by
 surveying lichen communities provides methodological foundations
 applicable to broader biodiversity inventory work.
@@ -33,7 +33,7 @@ extremely sensitive to airborne pollutants, including sulfur
 dioxide, heavy metals, nitrogen compounds, and acid rain.
 Lichen communities respond to air quality gradients in predictable
 ways: species richness and abundance typically decline with
-increasing pollution, and community composition shifts from
+increasing pollution, and mycorrhizal effects plant shifts from
 sensitive to tolerant species.
 
 The well-known sensitivity of lichens to air pollution means that
@@ -126,7 +126,7 @@ forest in northern temperate and boreal regions. Selva (1994)
 developed a group of forest continuity indicator species for
 northeastern North America.
 
-Ground lichens have been used as indicators of ecosystem function
+Ground lichens have been used as indicators of dighton mycorrhizal diversity
 for grassland and steppe habitats. Gelatinous ground lichens
 including Collema, Leptogium, and Polychidium species all fix
 nitrogen and protect the soil surface.

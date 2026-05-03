@@ -9,7 +9,7 @@ sources:
 ---
 # FLEA
 
-FLEA (N-Hydroxy-N-methyl-3,4-methylenedioxyamphetamine) is an entactogenic phenethylamine that is the N-hydroxy analogue of mdma-entity|MDMA.
+FLEA (N-Hydroxy-N-methyl-3,4-methylenedioxyamphetamine) is an entactogenic phenethylamine that is the N-hydroxy analogue of [[mdma-entity]]|MDMA.
 
 It is documented as entry #81 in PiHKAL by [[alexander-shulgin]].
 
@@ -93,7 +93,7 @@ The final product is converted to the oxalate salt by combining with a half-equi
 
 FLEA provides additional evidence for Shulgin's working hypothesis that N-hydroxy amines have approximately the same potency and action as their N-hydrogen counterparts.
 
-The pattern has been observed across multiple compound pairs: mda-entity|MDA/MDOH, mdma-entity|MDMA/FLEA, and the HOT series (HOT-2, HOT-7, HOT-17 compared with 2C-T-2, 2C-T-7, 2C-T-17).
+The pattern has been observed across multiple compound pairs: [[mda-entity-pihkal]]|MDA/MDOH, mdma-entity|MDMA/FLEA, and the HOT series (HOT-2, HOT-7, HOT-17 compared with 2C-T-2, 2C-T-7, 2C-T-17).
 
 Shulgin speculated that if this principle were truly general, it could have profound implications for the pharmaceutical industry.
 
@@ -131,7 +131,7 @@ The compound has not been studied for neurotoxicity.
 
 - mdma-entity|MDMA: the non-hydroxylated parent compound
 - mda-entity|MDA: the desmethyl analogue
-- mdoh-entity|MDOH: the N-hydroxy analogue of MDA
+- [[mdoh-entity-pihkal]]|MDOH: the N-hydroxy analogue of MDA
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## See Also

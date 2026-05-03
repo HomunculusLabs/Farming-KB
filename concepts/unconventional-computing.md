@@ -39,12 +39,12 @@ Subtypes include:
   using DNA molecules.
 - **Molecular computing**: Uses individual molecules (often proteins or
   enzymes) as logic gates, performing computations through chemical reactions.
-- **Cellular computing**: Leverages networks of living cells; see
+- **Cellular computing**: Leverages networks [[symbiosis-art-of-living]] cells; see
   [[mycelial-network-computation]] and [[physarum-computation]] for fungal
   and slime mold approaches.
 - **Membrane computing** (P systems): Abstract computational models inspired
-  by compartmental cell structure, using nested membranes with rules for
-  object transformation and communication. Theoretically equivalent to
+  by compartmental [[gadd-fungal-cell-structure]], using nested membranes with rules for
+  object transformation [[plant-intelligence-and-communication]]. Theoretically equivalent to
   Turing machines but offering efficient solutions for specific problem
   classes.
 - **Bacterial computing**: Programs bacterial behavior using synthetic biology
@@ -62,7 +62,7 @@ Exploits physical phenomena for computation:
   neuromorphic systems. HP Labs' 2008 discovery of the memristor renewed
   interest in analog computing hardware.
 - **Fluid computing**: Uses fluid dynamics — channels, droplets, and
-  laminar flow — to perform logic operations and solve mazes.
+  laminar flow hood — to perform logic operations and solve mazes.
 ### Chemical Computing
 Uses reaction-diffusion systems and chemical kinetics:
 - **Belousov-Zhabotinsky reactions**: Oscillating chemical reactions that
@@ -88,7 +88,7 @@ many may be physically impossible due to quantum limits on measurement
 precision.
 ### Analog Computing
 Continuous-valued computation as opposed to discrete digital logic. Modern
-analog computing revivals focus on energy-efficient inference for
+analog computing revivals focus on [[energy-efficient-house-design]] inference for
 machine learning workloads, where the precision requirements of analog
 circuits are adequate for neural network computations.
 ### Natural Computing

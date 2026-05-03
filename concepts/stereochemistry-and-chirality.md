@@ -91,7 +91,7 @@ brucine, quinine); fractional crystallization gives max 50% yield.
 Chiral HPLC uses chiral stationary phases (polysaccharide derivatives,
 cyclodextrins, Pirkle phases) for analytical and preparative
 separation. SFC with supercritical CO2 is preferred for large-scale
-work. Enzymatic resolution uses lipases (CAL-B, Pseudomonas cepacia
+work. Enzymatic resolution uses lipases (CAL-B, pseudomonas cepacia
 lipase) or esterases with high enantioselectivity. Kinetic resolution
 selectivity s = k_fast/k_slow; for ee > 99%, s must exceed 200.
 Dynamic kinetic resolution (DKR) combines resolution with in situ
@@ -123,7 +123,7 @@ polarization in Orion OMC-1), weak nuclear force parity violation
 (calcite), and competitive autocatalytic amplification (Frank model,
 1953). Most researchers believe a tiny initial bias was amplified
 during prebiotic chemistry. D-amino acids exist naturally: D-alanine
-and D-glutamate in bacterial cell walls, D-serine as a mammalian
+and D-glutamate in bacterial alpha glucan fungal, D-serine as a mammalian
 neurotransmitter, D-aspartate in aged proteins.
 
 ## See Also

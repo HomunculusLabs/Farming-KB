@@ -122,6 +122,6 @@ created from previous template versions.
 
 ## See Also
 
-- [[microsoft-word-document-format]] for underlying file format details
+- [[microsoft-word-document-format]] for underlying ole2 compound binary details
 - [[document-automation-administration]] for the administrative context
 - [[office-open-xml]] for the XML schema governing templates

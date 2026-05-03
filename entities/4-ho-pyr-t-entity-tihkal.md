@@ -15,7 +15,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 - Synonyms: 4-Hydroxy-pyrrolidinylindole, 3-[2-(1-pyrrolidyl)ethyl]-4-indolol,
 1-[2-[3-(4-hydroxy)indolyl]ethyl]pyrrolidine
 
-- Class: Tryptamine, 4-hydroxy substituted, pyrrolidine ring
+- Class: tryptamine, 4-hydroxy substituted, pyrrolidine ring
 
 - Source: [[tihkal-introduction-and-methodology]]
 
@@ -52,7 +52,7 @@ other 4-hydroxy tryptamines.
 
 The extremely long three-hour latency is unprecedented among oral tryptamines
 and suggests unusual pharmacokinetics. The "bizarre" character may relate
-to the constrained geometry of the pyrrolidine ring affecting receptor binding
+to the constrained geometry of the pyrrolidine ring affecting [[beta-glucan-receptor-binding]]
 in unexpected ways.
 
 The 5-methoxy counterpart 5-MeO-pyr-T is also described
@@ -62,7 +62,7 @@ effects.
 
 ## Chemical Family Context
 
-4-HO-pyr-T is a member of the 4-hydroxytryptamine family but is distinguished
+4-HO-pyr-T is a member of the 4 hydroxytryptamine family but is distinguished
 by its cyclic nitrogen substitution pattern. Most 4-hydroxytryptamines have
 two freely rotating alkyl groups on the nitrogen, which can adopt multiple
 conformations. The pyrrolidine ring in 4-HO-pyr-T locks these substituents
@@ -132,7 +132,7 @@ dangerous overdose when effects finally emerge
 - The "not friendly" and "bizarre" character suggests difficult experiences
 are likely even at moderate doses
 
-- The compound should NOT be combined with other psychoactive substances,
+- The compound should NOT be combined with other and psychoactive substances,
 especially other tryptamines or serotonergic agents
 
 - Given the unusual pharmacology, standard tryptamine dose expectations

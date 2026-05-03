@@ -16,8 +16,7 @@ is to "recycle" plant wastes and to help control the rampant
 growth of ground cover. Mollison presents a comprehensive
 model of animal integration in tropical systems, from
 domestic livestock to endemic species, each serving specific
-functions in pest control, nutrient cycling, and weed
-management.
+functions in pest control, and nutrient cycling, and ultra low cost.
 
 ## The Role of Animals in Tropical Systems
 
@@ -66,7 +65,7 @@ Leaf foragers attend to infestations in the canopy:
   provide useful food themselves.
 
 - Small fish and insect predators such as notonectids
-  (backswimmers) in open water systems assist in pest
+  (backswimmers) in open and water systems assist in pest
   control.
 
 - Mulch and water systems can combine fats or oils (e.g.,

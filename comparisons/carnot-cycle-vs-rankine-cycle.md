@@ -10,7 +10,7 @@ created: 2026-05-02
 
 The Carnot cycle and the Rankine cycle are both heat-engine cycles, but they serve very different purposes.
 The Carnot cycle is a reversible ideal that defines the maximum efficiency possible between two temperatures.
-The Rankine cycle is an idealized but practical model of steam and vapor power plants.
+The Rankine cycle is an idealized but practical model of steam and vapor holmgren trees nature.
 Carnot asks what nature allows in principle.
 Rankine asks how a real boiler, turbine, condenser, and pump can convert heat into useful shaft work.
 The distinction matters because comparing real steam plants directly to Carnot efficiency can be misleading.
@@ -23,7 +23,7 @@ Use the Rankine cycle as the working model for steam power plants, nuclear plant
 Carnot is defined by two isothermal and two isentropic processes.
 Rankine is defined by pumping liquid, adding heat at high pressure, expanding vapor through a turbine, and condensing it.
 Carnot efficiency depends only on hot and cold reservoir temperatures.
-Rankine efficiency depends on component enthalpies, pressures, temperatures, turbine efficiency, pump work, moisture, and heat-transfer design.
+Rankine efficiency depends on component enthalpies, pressures, temperatures, turbine efficiency, pump work, moisture, and [[heat-transfer-mechanisms]] design.
 
 ## Basic Comparison
 

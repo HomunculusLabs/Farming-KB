@@ -124,7 +124,7 @@ Sometimes the bugs win. For a total infestation:
 2. Take cuttings from your plants and move to the clean room.
 3. Take all non-electrical equipment to the bathroom. Clean with
    bleach. Soak in a tub with water and bleach for a day.
-4. Clean grow room walls with bleach. Paint if needed. Do corners,
+4. Clean cervantes reflective materials with bleach. Paint if needed. Do corners,
    holes, extraction holes, fittings, pipes.
 5. Clean around the floor rim. Lift floor panels if possible.
 6. Use pest-killing smoke bombs following label instructions.

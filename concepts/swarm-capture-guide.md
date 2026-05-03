@@ -94,7 +94,7 @@ hive can catch swarms without any effort during swarm season.
 
 ### Placement Strategy
 - Place traps 50-200 yards from known colonies
-- Install by early April in temperate climates
+- Install by early April in [[fukuoka-natural-farming]]
 - Check traps weekly during swarm season (May-June)
 - Use Swarm Commander or lemongrass oil as attractant
 - Place near tree lines or hedgerows along flight paths

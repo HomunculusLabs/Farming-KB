@@ -47,7 +47,7 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medicine. Vikings reportedly used it for endurance. Known as "golden root" or "arctic root." Grows in cold, high-altitude environments across Europe, Asia, and North America.
 
 ### Key Compounds
-- **Salidroside:** Primary adaptogenic glycoside. Anti-fatigue, neuroprotective, anti-inflammatory.
+- **Salidroside:** Primary adaptogenic glycoside. Anti-fatigue, neuroprotective, medicinal mushroom antioxidant.
 - **Rosavin:** Signature compound (used for standardization along with salidroside). Found only in R. rosea among Rhodiola species.
 - **Rosin, rosinarserotoninated cinnamyl alcohol glycosides.
 - **Tyrosol:** Amino acid derivative with antioxidant effects.
@@ -55,7 +55,7 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 ### Mechanisms
 - Modulates cortisol and stress hormone release.
 - Enhances neurotransmitter activity ([[serotonin]], dopamine, norepinephrine).
-- Activates AMPK pathway (cellular energy sensor), mimicking exercise effects.
+- Activates AMPK pathway (and cellular energy sensor), mimicking exercise effects.
 - Increases cellular ATP production and oxygen utilization.
 - Anti-fatigue: reduces perceived exertion and mental fatigue.
 - Neuroprotective: enhances BDNF production, protects against stress-induced hippocampal damage.
@@ -111,7 +111,7 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 
 ### Key Compounds
 - **Eleutherosides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
-- **Polysaccharides:** Immune-modulating beta-glucans.
+- **Polysaccharides:** and herbs cancer [[medicinal-mushrooms]].
 - **Lignans:** Including syringaresinol with antioxidant activity.
 
 ### Mechanisms

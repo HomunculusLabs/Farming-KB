@@ -13,7 +13,7 @@ in bulk substrates without sterilizing them completely. Unlike sterilization,
 which kills all micromushroom-cultivationation selectively eliminates
 competitors while preserving beneficial thermophilic organisms that help
 protect the substrate from subsequent contamination. This makes it the
-preferred treatment for bulk substrates in mushroom cultivation.
+preferred treatment for bulk substrates [[mushroom-cultivation]].
 
 ## Why Pasteurize Instead of Sterilize
 
@@ -114,7 +114,7 @@ For compost-based substrates (pragarily Agaricus species), pasteurization
 occurs as part of the composting process itself. The compost is brought
 through two phases:
 
-1. **Phase I composting**: Raw materials are mixed and undergo a natural
+1. **mushroom cultivator phase**: Raw materials are mixed and undergo a natural
    thermophilic fermentation. Internal temperatures reach 70–80°C, pasteurizing
    the compost from within. This phase lasts 7–14 days with regular turning.
 2. **Phase II pasteurization**: The compost is moved to a controlled

@@ -7,7 +7,7 @@ tags: [drying, food, homesteading, homestead-crafts, preservation, storage, prep
 sources: []
 ---
 ## Why Dry Herbs
-Drying herbs preserves their flavor, aroma, and medicinal properties for use long after the growing season. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh.
+Drying herbs preserves their flavor, aroma, and medicinal properties for use long after growing season. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh.
 Home-dried herbs are significantly cheaper and more flavorful than store-bought dried herbs, which may have been sitting on shelves for months or years before purchase.
 ## When to Harvest
 - Harvest herbs in the morning after dew has dried but before the heat of the day — volatile oil content is highest at this time
@@ -71,7 +71,7 @@ Not technically drying, but freezing preserves herbs well for culinary use.
 - Glass jars with tight-fitting lids — best overall option
 - Airtight plastic containers — acceptable but can absorb odors over time
 - Paper bags — breathable but not airtight; for short-term storage only
-- Mylar bags with oxygen absorbers — best for very long-term storage
+- Mylar bags with oxygen absorbers — best for very [[mushroom-long-term-storage]]
 - Avoid storing in paper or cardboard (absorbs oils and moisture from the air)
 ### Conditions
 - Cool (60-70F / 15-21C)
@@ -105,7 +105,7 @@ Not technically drying, but freezing preserves herbs well for culinary use.
 Every container should be labeled with:
 - Herb name (common and botanical if desired)
 - Date dried or packaged
-- Source (garden location, purchased, wild-harvested)
+- Source (and soil preparation, purchased, wild-harvested)
 - Any notes on variety or use
 A simple label system prevents the common problem of unidentifiable dried herbs in the back of the pantry.
 ## Herb-Specific Notes
@@ -116,7 +116,7 @@ A simple label system prevents the common problem of unidentifiable dried herbs 
 - Sage: sturdy, air dries well; strong flavor persists
 - Oregano: air dries beautifully; flavor intensifies when dried
 - Cilantro: loses much flavor when dried; freeze instead
-- Chives: freeze for best flavor retention
+- Chives: freeze best flavor retention
 - Lavender: dry flower heads on screens; use in sachets and cooking
 - Chamomile: dry flowers on screens; store in dark containers to preserve color
 ## See Also

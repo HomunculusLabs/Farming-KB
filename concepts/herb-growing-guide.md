@@ -117,7 +117,7 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 ### Light Requirements
 - Minimum 6 hours of bright, direct light daily
 - South-facing window is ideal in northern hemisphere
-- Supplement with full-spectrum LED grow lights if natural light is insufficient
+- Supplement with full-spectrum [[led-grow-lights]] if natural light is insufficient
 - Use a timer for 12-14 hours of light per day with supplemental lighting
 - See [[urban-farming-methods]] for indoor growing setup details
 ### Containers and Soil

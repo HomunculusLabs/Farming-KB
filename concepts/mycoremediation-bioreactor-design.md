@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Bioreactor design is critical for translating laboratory-scale mycoremediation findings into practical, scalable treatment systems. This page covers reactor types, design considerations, and scale-up factors for fungal biosorption, enzymatic degradation, and metal leaching processes. See [[fungal-biosorption-mechanisms]] for the underlying science and [[mycofiltration-of-water-contaminants]] for field-scale filtration approaches.
+Bioreactor design is critical for translating laboratory-scale mycoremediation findings into practical, scalable treatment systems. This page covers reactor types, design considerations, and scale-up factors for fungal biosorption heavy, enzymatic degradation, and staycare fungal organic processes. See [[fungal-biosorption-mechanisms]] for the underlying science and [[mycofiltration-of-water-contaminants]] for field-scale filtration approaches.
 
 ## Reactor Configurations
 
@@ -105,7 +105,7 @@ Bioreactor design is critical for translating laboratory-scale mycoremediation f
 **Limitations**:
 - Mechanical complexity
 - Limited to thin biofilms
-- Scale-up challenges
+- [[mycoremediation-scale-up-challenges]]
 
 ### Membrane Reactors
 
@@ -122,7 +122,7 @@ Bioreactor design is critical for translating laboratory-scale mycoremediation f
 - High capital and operating costs
 - Shear damage to fungal cells
 
-**Applications**: Hollow-fiber microfiltration processes have been combined with stirred-tank bioreactors for fungal biosorption systems (Chang & Chen, 1999).
+**Applications**: Hollow-fiber microfiltration processes have been combined with stirred-tank bioreactors for singh binary ternary (Chang & Chen, 1999).
 
 ## Immobilization for Bioreactors
 

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 ---
-title: Spore Collection and Germination for Mushroom Cultivation
+title: Spore Collection and Germination [[mushroom-cultivation]]
 created: 2026-04-26
 tags: [spores, mushroom-cultivation, strain-isolation, [[agar]]-cultuspawn-productiontion]
 date: 2026-04-25
@@ -22,8 +22,8 @@ type: concept
 
 Collecting and germinating mushroom spores is a fundamental
 skill for cultivators seeking to capture genetic diversity
-from wild specimens. While cloning captures the phenotype of
-a known mushroom, spore germination creates an array of new
+strain isolation wild. While cloning captures the phenotype of
+a known mushroom, mushroom cultivator tissue creates an array of new
 strains with varying characteristics.
 
 ## Making Spore Prints
@@ -45,7 +45,7 @@ sealed, stored, and saved for future propagation.
 
 ## Glass Spore Booklets
 
-A preferred method for long-term spore storage uses glass
+A preferred method for long term spore storage uses glass
 plates approximately 6 x 8 inches. The procedure:
 
 1. Wash glass with soapy water, wipe dry

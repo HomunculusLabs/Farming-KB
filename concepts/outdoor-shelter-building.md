@@ -7,7 +7,7 @@ tags: [homesteading, chomesteading safety, design, beginner]
 sources: []
 ---
 # Outdoor Shelter Building
-The ability to build a shelter from natural and salvaged materials is a fundamental homesteading skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter for livestock, or a hunting camp, knowing how to construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
+The ability to build a shelter from natural and salvaged materials is a fundamental homesteading skill. Whether you need emergency protection in the backcountry, a temporary structure during a building project, a seasonal shelter [[medicinal-herbs-for-livestock]], or a hunting camp, knowing how to construct effective shelters with minimal tools is invaluable. This guide covers the most practical shelter types for both survival and homesteading contexts.
 ## Universal Principles
 Regardless of shelter type, these principles apply:
 - **Insulation from the ground** — the ground conducts heat away from your body 25 times faster than still air. Always insulate between yourself and the ground with dry leaves, pine needles, boughs, or a sleeping pad.
@@ -111,7 +111,7 @@ On a working homestead, shelter-building skills apply beyond survival:
 - 8-10 metal or wooden stakes
 - Work gloves
 ## Practice
-Build shelters for fun before you need them for survival. Practice each type in good weather, then in bad weather. Time yourself. Learn which natural materials in your specific area work best for thatching and insulation. Competence comes from repetition, not reading.
+Build shelters for fun before you need them for survival. Practice each type in good weather, then in bad weather. Time yourself. Learn which [[building-with-natural-materials]] in your specific area work best for thatching and insulation. Competence comes from repetition, not reading.
 For the broader homestead infrastructure context, see [[homestead-workshop-tools]] and [[emergency-preparedness]].
 ## Related
 - [[roundwood-shelter-building]]

@@ -20,8 +20,7 @@ sources:
 
 The capacity of the human brain to generate new neurons (neurogenesis) and to
 reorganize existing neural connections (neuroplasticity) represents one of the
-most significant discoveries in modern neuroscience. *The Cannabis Health
-Index* documents how the [endocannabinoid system plays a central role in regulating both processes, with important
+most significant discoveries in modern neuroscience. *The [[cannabis-health-index-scoring]]* documents how the [endocannabinoid system plays a central role in regulating both processes, with important
 implications for treating neurological disorders, mood conditions, and
 cognitive decline.
 
@@ -72,7 +71,7 @@ promote neurogenesis, such as exercise, environmental enrichment, and
 antidepressant medications, correlate with improved mood outcomes.
 
 Cannabinoids' ability to promote hippocampal neurogenesis provides a
-mechanistic explanation for their therapeutic effects on anxiety and
+mechanistic explanation for their cervantes terpenoid pharmacology on anxiety and
 depression. The 2005 HU210 study demonstrated that cannabinoids not only
 prevented the suppression of neurogenesis but actively stimulated the growth
 of new neurons, suggesting a novel pathway for treating mood disorders.
@@ -125,8 +124,7 @@ neural tissue.
 
 ## Raw Cannabis and Preventive Neuroprotection
 
-William L. Courtney, MD, a physician working with fresh cannabis, considers raw
-cannabis a dietary essential that provides potent preventative influences on
+William L. Courtney, MD, a physician working with fresh cannabis, considers and raw cannabis a dietary essential that provides potent preventative influences on
 several degenerative processes often involved with neurological diseases. Raw
 cannabis leaf consumed in salads or as juice contains THC-acid and CBD-acid in
 their non-psychoactive forms, which can be consumed in larger quantities while

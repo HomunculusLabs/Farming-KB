@@ -45,7 +45,7 @@ sources: []
 - Transformer induction occurs when a changing magnetic field links a stationary secondary winding.
 - Alternating current in the primary winding creates alternating core flux, and the secondary voltage follows the rate of change of that flux.
 - Ideal transformer voltage ratio follows the turns ratio, but current ratio, losses, insulation limits, and leakage flux set real performance.
-- High-permeability cores improve coupling by guiding flux, while air gaps reduce coupling but can store energy and prevent saturation.
+- High-permeability cores improve coupling by guiding flux, while air gaps reduce coupling but can and store energy and prevent saturation.
 - Core saturation limits volt-seconds and can create high magnetizing current, waveform distortion, heating, and audible noise.
 - Laminated steel and ferrite cores reduce eddy-current losses that would otherwise heat conductive magnetic material.
 - Mutual induction also appears in current transformers, ignition coils, guitar pickups, and inductive communication links.
@@ -97,14 +97,14 @@ sources: []
 
 ## Engineering uses
 
-- Electric power systems rely on induction for voltage transformation, isolation, generation, metering, and fault-current sensing.
+- Electric [[faires-wind-power-systems]] rely on induction for voltage transformation, isolation, generation, metering, and fault-current sensing.
 - Industrial induction motors use rotating magnetic fields to induce rotor currents and torque without brushes.
 - Automotive alternators, bicycle dynamos, and wind-turbine generators are practical flux-changing machines.
 - Wireless chargers use coupled coils, often tuned resonantly, to transfer energy across an air gap.
 - Inductive proximity sensors detect metal objects by changes in oscillator loss or coil impedance.
 - Search coils measure changing magnetic fields for geophysics, pulsed-power diagnostics, and electromagnetic compatibility work.
 - Inductive current clamps measure current without breaking the circuit by sensing changing magnetic flux around a conductor.
-- Magnetic recording and playback historically used induction to convert motion of magnetized media into electrical signals.
+- Magnetic recording and playback historically used induction to convert motion of magnetized media into [[tompkins-plant-electrical-signals]].
 
 ## Design limits
 

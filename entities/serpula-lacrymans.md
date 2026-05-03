@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive wood-decay organisms in temperate regions, capable of destroying structural timber in buildings and causing extensive economic damage. Despite the common name "dry rot," the fungus requires elevated moisture (typically >20% wood moisture content) to colonize and decay wood — the name refers to the resulting dry, cracked, cubical appearance of severely decayed timber.
+*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment decomposition organisms in temperate regions, capable of destroying structural timber in buildings and causing extensive economic damage. Despite the common name "dry rot," the fungus requires elevated moisture (typically >20% wood moisture content) to colonize and decay wood — the name refers to the resulting dry, cracked, cubical appearance of severely decayed timber.
 
 ## Taxonomy
 
@@ -48,14 +48,14 @@ Causes **brown rot**, characterized by:
 
 ## Brown Rot Mechanism
 
-*S. lacrymans* employs a Fenton chemistry-based decay system rather than the extensive extracellular enzyme suites used by white-rot fungi. The mechanism involves:
+*S. lacrymans* employs a Fenton chemistry-based decay system rather than the extensive extracellular enzyme suites used fungal degradation pcbs. The mechanism involves:
 
 1. Secretion of low-molecular-weight iron-reducing compounds (e.g., oxalic acid, 2,5-dimethoxyhydroquinone)
 2. Reduction of Fe³⁺ to Fe²⁺
-3. Generation of hydroxyl radicals (•OH) via Fenton reaction: Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻
+3. Generation of hydroxyl radicals (•OH) via and biochemistry: Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻
 4. Hydroxyl radicals non-enzymatically cleave cellulose chains and hemicellulose
 
-This extracellular radical-based system is highly efficient at depolymerizing crystalline cellulose and allows the fungus to reach deep into wood cell walls without requiring direct contact.
+This extracellular radical-based system is highly efficient at depolymerizing crystalline cellulose and allows the fungus to reach deep into wood alpha glucan fungal without requiring direct contact.
 
 ## Ecological Niche
 

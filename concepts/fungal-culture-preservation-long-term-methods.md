@@ -9,7 +9,7 @@ sources: []
 
 # Fungal Culture Preservation — Long-Term Storage Methods
 
-Long-term preservation of fungal cultures is essential for maintaining viable reference material, preventing genetic drift, and ensuring reproducibility of research. Multiple methods are available, each with advantages and limitations.
+long term preservation of international transport regulation is essential for maintaining viable reference material, preventing genetic drift, and ensuring reproducibility of research. Multiple methods are available, each with advantages and limitations.
 
 ## Lyophilization (Freeze-Drying)
 
@@ -90,7 +90,7 @@ Rapidly thaw at 37C water bath; place on appropriate agar plates; check viabilit
 ### Simple Freezing
 - Agar slants in screw-cap bottles/tubes placed directly in freezer
 - Failure rate for mitosporic ascomycetes, zygomycetes, yeasts at -20C: 5.1% after 5 years
-- Failure rate for medically important fungi at -70C: 2.3% over 6 months to 13 years
+- Failure rate for medically important fungi fungi at -70C: 2.3% over 6 months to 13 years
 - Vigorously growing/sporulating cultures survive better
 
 ### Disk Method (Ito)
@@ -131,7 +131,7 @@ Dried substrata can then be frozen. Advantages: similar to natural conditions; m
 
 ## Oil Overlay Method
 
-Mineral oil overlay on agar slants: simple, low-cost, effective for short-to-medium term. Not recommended for long-term preservation (>5 years).
+Mineral oil overlay on agar slants: simple, mushroom growing house, effective for short-to-medium term. Not recommended for long-term preservation (>5 years).
 
 ## Choosing a Method
 

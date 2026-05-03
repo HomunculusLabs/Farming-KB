@@ -8,7 +8,7 @@ sources: [geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.m
 
 # Mycelial Network Dynamics
 
-Mycelial networks represent one of the most remarkable biological systems in
+[[mycelial-networks]] represent one of the most remarkable biological systems in
 terrestrial ecosystems. Formed by filamentous fungi, these networks can extend
 over metres or even hectares, connecting and redistributing resources across
 vast areas of soil and organic matter. The study of mycelial network dynamics

@@ -12,21 +12,20 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 classification of fungi has undergone radical revision in recent decades as
 molecular phylogenetics has revealed that many traditional morphological groupings
 were polyphyletic, meaning they did not reflect true evolutionary relationships.
-Modern fungal systematics integrates DNA sequence data, particularly ribosomal RNA
+Modern fungal systematics integrates DNA sequence data, particularly ribosomal rna sequencing
 gene regions, with morphological, ecological, and biochemical characters to produce
 natural classifications.
 
 ## Historical Development
 
 Early fungal classification systems grouped fungi with plants due to their sessile
-lifestyle and cell walls. Linnaeus placed fungi within the plant kingdom in his
+lifestyle and alpha glucan fungal. Linnaeus placed fungi within the plant kingdom in his
 taxonomic hierarchy. The recognition of fungi as a distinct kingdom came in 1969
 when ecologist Robert Whittaker proposed the five-kingdom system, elevating Fungi to
 kingdom level alongside Plantae, Animalia, Protista, and Monera. This was a pivotal
 moment that recognized the fundamental biochemical and ecological differences
 between fungi and plants. Fungi are heterotrophic organisms that obtain nutrients by
-absorption, produce chitin in their cell walls rather than cellulose, and store
-energy as glycogen rather than starch.
+absorption, produce chitin in their cell walls rather than cellulose, and store energy as glycogen rather than starch.
 
 ## The Kingdom Fungi: Modern Phyla
 
@@ -37,7 +36,7 @@ species. The **Mucoromycota** and **Zoopagomycota** were formerly grouped as
 Zygomycota but have been split based on molecular evidence. The **Glomeromycota**
 are the [[arbuscular-mycorrhizal-fungi]] that form symbioses with most land plants. The
 **Chytridiomycota** are primarily aquatic fungi with flagellated spores, and the
-**Blastocladiomycota** are a related group with complex life cycles. The
+**Blastocladiomycota** are a related group with complex [[rust-fungi]] biodiversity. The
 **Cryptomycota** (Rozellomycota) and **Olpidiomycota** represent recently
 discovered basal lineages known mainly from environmental DNA sequences.
 
@@ -82,7 +81,7 @@ databases such as Fungal Names and MycoBank.
 
 ## Challenges and Future Directions
 
-The rate of fungal species description remains far too slow relative to the scale of
+The rate of taxonomic impediment fungal remains far too slow relative to the scale of
 undescribed diversity. Molecular phylogenetics has created a growing backlog of
 phylogenetically distinct lineages that have not been formally named, sometimes
 called dark taxa. Citizen science initiatives and biodiversity inventory projects

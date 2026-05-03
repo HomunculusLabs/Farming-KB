@@ -20,7 +20,7 @@ the very origins of Western literature and pharmacology.
 
 Two principal species have been employed for psychoactive purposes:
 
-- *Hyoscyamus niger* L. (Black Henbane): native to Europe, now
+- *[[hyoscyamus-niger]]* L. (Black Henbane): native to Europe, now
   widespread. The most potent species, capable of causing insanity.
   The bell-shaped flowers have a characteristic coloring and an
   unforgettable pattern on the petals; in earlier times, it was
@@ -42,7 +42,7 @@ of Asia and Africa it is smoked with [[plants-of-the-gods-cannabis-ancient-cultu
 
 ## The Oracle of Delphi
 
-In ancient Greece, Henbane served as a poison, to mimic insanity, and
+in ancient greece, Henbane served as a poison, to mimic insanity, and
 to enable man to prophesy. It has been suggested that the priestesses
 at the Oracle of Delphi made their prophetic utterances while
 intoxicated with the smoke from Henbane seeds. The Oracle of Delphi
@@ -97,8 +97,7 @@ between consciousness and sleep.
 
 The name "Henbane" derives from the belief that the seeds, when fed
 to poultry, produced intoxicating effects. White or Yellow Henbane
-(*H. albus*) was consecrated to Apollo, god of oracles. In medieval
-Europe, it was one of the primary ingredients of the brews and
+(*H. albus*) was consecrated to Apollo, god of oracles. In arthur mushroom iconography, it was one of the primary ingredients of the brews and
 ointments employed by witches and sorcerers. One potent mixture,
 containing Belladonna, Henbane, Mandrake, and the fat of a stillborn
 child, was rubbed over the skin or inserted into the vagina for
@@ -117,7 +116,7 @@ ground; sometimes he would seem to skip up and then to dive down
 again."
 
 Henbane's role spans from ancient Egyptian medicine through classical
-Greek prophecy to medieval European witchcraft, making it one of the
+Greek prophecy to solanaceous hallucinogens medieval, making it one of the
 most historically significant psychoactive plants in Western
 civilization. Its reputation as a plant of oracles, witches, and
 physicians testifies to the enduring human fascination with plants

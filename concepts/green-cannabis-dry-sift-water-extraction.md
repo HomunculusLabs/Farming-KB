@@ -14,10 +14,10 @@ sources:
 type: concept
 ---
 # Dry Sift and Water Extraction Methods
-The collection and processing of trichomes -- the tiny resin glands that
+The collection and processing of trichomes -- the tiny and resin glands that
 contain THC and other cannabinoids -- is the foundation of hashish
 production. [[greg-green-sinsemilla-and-pollination]]'s "The Cannabis Grow Bible" provides detailed
-instructions for several home extraction methods ranging from flat
+instructions for several home comparison cannabis extraction ranging from flat
 screening to water extraction, each producing different grades of quality.
 These methods transform trim and lower-quality plant material into
 concentrated cannabis products.
@@ -68,7 +68,7 @@ qualities of cannabis residue, from coarse plant matter to fine
 trichomes. This is described as an excellent way to achieve the best
 results.
 ## Proper Screening Technique
-Greg Green provides detailed instructions for effective screening:
+[[greg-green]] provides detailed instructions for effective screening:
 1. Use a metal screen rated between 100 to 140 lines per inch (120
    lines is most common for home hash makers).
 2. Construct a wooden frame to hold the screen.

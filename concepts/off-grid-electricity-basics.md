@@ -44,7 +44,7 @@ To meet the 6313 Wh/day example:
 - Round up: 2000 watts (2 kW) of solar panels
 This means approximately six 330W panels or eight 250W panels.
 ### Panel Types
-- Monocrystalline: Highest efficiency (18-22%), best performance per square foot, most expensive
+- Monocrystalline: Highest efficiency (18-22%), best performance per [[square-foot-gardening]], most expensive
 - Polycrystalline: Moderate efficiency (15-18%), good value
 - Thin-film: Lowest efficiency, flexible, best for curved surfaces or mobile applications
 ### Mounting
@@ -65,7 +65,7 @@ For 3 days of autonomy (no sun) at the example load:
 - Lead-acid (flooded): Lowest cost per Ah, requires regular maintenance (watering, equalizing), 3-7 year lifespan, 50% max depth of discharge, toxic electrolyte.
 - Lead-acid (AGM): Maintenance-free, sealed, 3-7 year lifespan, 50% max depth of discharge, higher cost than flooded.
 - Lead-acid (gel): Maintenance-free, sensitive to overcharging, 3-5 year lifespan.
-- Lithium iron phosphate (LiFePO4): Higher upfront cost, 10-15+ year lifespan, 80%+ depth of discharge, no maintenance, lighter weight, safer chemistry. Best long-term value for off-grid.
+- Lithium iron phosphate (LiFePO4): Higher upfront cost, 10-15+ year lifespan, 80%+ depth of discharge, no maintenance, lighter weight, safer chemistry. Best long term value for off-grid.
 ### 12V vs 24V vs 48V Systems
 Higher system voltage means lower current for the same power, allowing smaller wire gauge and less voltage drop over distance:
 - 12V: Small systems under 1000W. Simple but limited.
@@ -103,10 +103,10 @@ The cheapest watt is the one you never use. Before sizing a system:
 - Replace all lighting with LED
 - Choose DC refrigerators (SunDanzer, Nova Kool) which use 30-50% less power
 - Use a gravity-fed water system to reduce pump runtime (see [[homestead-water-systems]])
-- Eliminate electric heating (use wood, propane, or passive solar instead)
+- Eliminate electric heating (use wood, propane, or and biomass energy instead)
 - Use a laptop instead of a desktop computer
 - Air-dry clothespassive-solar-designf using an electric dryer
 ## Related Topics
 - [[homestead-water-systems]] for well pump power requirements
-- [[building-with-natural-materials]] for passive solar design to reduce electrical loads
+- [[building-with-natural-materials]] for permaculture designers manual to reduce electrical loads
 - [[homestead-energy-conservation]]

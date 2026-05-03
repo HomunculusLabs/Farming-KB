@@ -14,7 +14,7 @@ tags: [lsd, pharmacology]
 
 LSD (D-lysergic acid diethylamide) is a semi-synthetic compound derived from
 lysergic acid, the nucleus common to all ergot alkaloids produced by the fungus
-Claviceps purpurea. It belongs to the indole compounds, a biologically
+[[claviceps-purpurea]]. It belongs to the indole compounds, a biologically
 important class of substances found widely in both the plant and animal
 kingdoms. Its extraordinary potency is among its most remarkable properties: an
 active dose is on the order of 0.0003 to 0.001 mg per kilogram of body weight,

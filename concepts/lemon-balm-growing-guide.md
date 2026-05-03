@@ -108,11 +108,11 @@ or spearmint and is easier to manage.
   reduces essential oil content
 ## Harvesting
 For tea and culinary use:
-- Harvest leaves at any time during the growing season
+- Harvest leaves at any time during growing season
 - The highest essential oil concentration is just before flowering
 - Cut stems 2-3 inches above the base; the plant will regrow
-- Harvest in the morning after dew has dried for best flavor and potency
-For medicinal use:
+- Harvest in the morning after dew has dried best flavor and potency
+medicinal use:
 - Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid
   content
 - Cut the top 6-8 inches of the plant

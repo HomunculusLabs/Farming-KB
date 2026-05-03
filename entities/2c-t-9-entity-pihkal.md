@@ -73,8 +73,7 @@ To a solution of 10 g impure 2,5-dimethoxy-(t-butylthio)benzaldehyde in 75 mL of
 
 ## Safety Notes
 
-2C-T-9 is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+2C-T-9 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

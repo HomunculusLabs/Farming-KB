@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 # DiPT
 
-**N,N-Diisopropyltryptamine** is an unusual psychedelic tryptamine distinguished by its uniquely auditory-dominant effects — it is one of the very few psychedelics that produces profound auditory distortion with minimal visual or cognitive alteration. First synthesized by Alexander Shulgin and documented in TIHKAL.
+**N,N-Diisopropyltryptamine** is an unusual psychedelic tryptamine distinguished by its uniquely auditory-dominant effects — it is one of the very few psychedelics that produces profound auditory distortion with minimal visual or cognitive alteration. First synthesized by [[alexander-shulgin]] and documented in TIHKAL.
 
 ## Chemistry
 

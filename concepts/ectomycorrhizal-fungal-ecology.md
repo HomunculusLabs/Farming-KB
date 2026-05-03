@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/john-dighton-fungi-in-ecosystem-processes.md"
 ---
 # Ectomycorrhizal Fungal Ecology
 

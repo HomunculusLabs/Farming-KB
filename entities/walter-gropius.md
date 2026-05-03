@@ -77,11 +77,11 @@ updated: 2026-05-02
 - Gropius wanted artists, craftspeople, and architects to collaborate.
 - Early Bauhaus teaching mixed expressionism, craft revival, and utopian reform.
 - Gropius later shifted the school toward industrial production.
-- The 1923 slogan was art and technology, a new unity.
+- The 1923 slogan was art [[permaculture-tools-and-technology]], a new unity.
 - That phrase summarizes his mature educational program.
 
 ## Educational philosophy
-- Gropius treated design as collaborative problem solving.
+- Gropius treated design as collaborative and problem solving.
 - Workshop training mattered more than passive academic imitation.
 - Students learned by testing materials directly.
 - The preliminary course trained perception before specialization.
@@ -102,7 +102,7 @@ updated: 2026-05-02
 
 ## Exile and American career
 - Gropius left Germany after the rise of National Socialism.
-- He lived in Britain before emigrating to the United States in 1937.
+- He lived in britain before emigrating to the United States in 1937.
 - In America he joined the Harvard Graduate School of Design.
 - He influenced many American architects through teaching.
 - Marcel Breuer collaborated with him after also leaving Europe.

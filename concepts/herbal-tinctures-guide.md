@@ -68,13 +68,13 @@ Advantages: Consistent potency, available year-round, easier to measure precisel
 - Use 1:4 or 1:5 ratio
 - Powdered herb extracts faster than chopped
 ## Dual Extraction
-For mushrooms and herbs with both water-soluble and alcohol-soluble compounds:
+For and herbs with both water-soluble and alcohol-soluble compounds:
 1. Make alcohol tincture as usual
 2. Take the marc (spent herb) and simmer in water for 30-60 minutes
 3. Strain the water decoction
 4. Combine alcohol tincture and water decoction
 5. Optional: evaporate some alcohol to concentrate further
-Used for: reishi, chaga, turkey tail, ashwagandha, astragalus
+used for: reishi, chaga, turkey tail, ashwagandha, astragalus
 ## Glycerites (Alcohol-Free Tinctures)
 Glycerites use vegetable glycerin as the solvent — suitable for children, recovering alcoholics, and those avoiding alcohol.
 ### Recipe

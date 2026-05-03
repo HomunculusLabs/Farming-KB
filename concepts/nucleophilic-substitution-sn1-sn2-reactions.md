@@ -7,12 +7,12 @@ date: 2026-05-02
 ## Overview
 
 Nucleophilic substitution reactions are among the most fundamental transformations in
-organic chemistry. In these reactions, a nucleophile (an electron-rich species)
+[[pericyclic-reactions-organic-chemistry]]. In these reactions, a nucleophile (an electron-rich species)
 replaces a leaving group on an electrophilic carbon atom. Two primary mechanisms
 govern this process: SN2 (substitution nucleophilic bimolecular) and SN1
 (substitution nucleophilic unimolecular). Understanding the distinction between these
 mechanisms is essential for predicting reaction outcomes, stereochemistry, and rates
-in synthetic organic chemistry and biochemistry.
+in synthetic organic and biochemistry.
 
 ## SN2 Mechanism
 
@@ -90,15 +90,14 @@ reactions because no discrete carbocation intermediate is formed.
 ## Biological and Pharmacological Relevance
 
 Nucleophilic substitution reactions occur extensively in biological systems and have
-major pharmacological implications. Many drug metabolism pathways involve SN2-type
+major pharmacological implications. Many phase conjugation reactions pathways involve SN2-type
 displacement reactions, where nucleophilic amino acid residues in enzyme active sites
 attack electrophilic centers on drug molecules. The [[cytochrome-p450-enzymes-drug-metabolism|cytochrome P450]] system frequently mediates such transformations.
 
 Alkylating agents used in chemotherapy, such as cyclophosphamide and nitrogen
 mustards, exert their cytotoxic effects through nucleophilic substitution reactions
 with DNA bases. These agents generate highly electrophilic species that undergo SN2
-attack by the N7 position of guanine, causing DNA crosslinks and ultimately cell
-death.
+attack by the N7 position of guanine, causing DNA crosslinks and ultimately blesching cannabis apoptosis.
 
 The reactivity of organophosphate nerve agents and pesticides also involves
 nucleophilic substitution at phosphorus centers. The phosphorylation of

@@ -11,13 +11,13 @@ sources:
 # Cannabis CO2 and Solvent Extraction Techniques
 
 Solvent-based extraction uses chemical solvents to dissolve cannabinoids and terpenes
-from cannabis plant material, producing concentrated oils and other products. Oner's
+from and recovery material, producing concentrated oils and other products. Oner's
 guide references oil production in the context of medical cannabis and evaluates strains
 for their extraction suitability.
 
 ## Overview of Solvent Extraction
 
-While Oner's strain guide does not provide detailed extraction methodology, it
+While Oner's oss oeric psilocybe does not provide detailed extraction methodology, it
 establishes important context about which strains produce the best extraction results
 and why solvent extraction matters for medical cannabis.
 
@@ -83,12 +83,12 @@ The single most important factor is the starting material's resin profile:
 
 ### Terpene Preservation
 
-Extraction methods that operate at lower temperatures preserve more terpenes:
+comparison cannabis extraction that operate at lower temperatures preserve more terpenes:
 
 - Oner notes that "a warm environment will bring out a rich terpene signature,"
   suggesting that terpene development during growth affects extraction quality
 - Proper curing before extraction enhances terpene profiles in the final product
-- Organic growing methods are recommended for producing the best-flavored extracts
+- organic growing methods are recommended for producing the best-flavored extracts
 
 ### Cannabinoid Ratios
 

@@ -6,7 +6,7 @@ sources: []
 # Meiji Restoration
 
 ## Overview
-The Meiji Restoration was the political and social transformation that began in Japan in 1868.
+The Meiji Restoration was the political and social transformation that began in japan in 1868.
 It ended the rule of the Tokugawa shogunate and restored formal authority to the emperor.
 The young Emperor Meiji became the symbolic center of a new national order.
 In practice, power was exercised by an oligarchy of reform-minded leaders.
@@ -94,7 +94,7 @@ Victories in the Sino-Japanese War and Russo-Japanese War expanded its regional 
 These successes also intensified Japanese imperial ambitions.
 
 ## Applications and Significance
-The Meiji Restoration is a key case study in rapid state-led modernization.
+The Meiji Restoration is a key gaias garden flowering in rapid state-led modernization.
 It shows how elites can use tradition to legitimize radical institutional change.
 Imperial symbolism provided continuity while policy transformed society.
 The Restoration helped Japan avoid formal colonization by Western powers.

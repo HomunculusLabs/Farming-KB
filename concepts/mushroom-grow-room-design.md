@@ -9,13 +9,13 @@ sources:
 
 ## Overview
 
-A dedicated grow room provides controlled environmental conditions for mushroom cultivation at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
+A dedicated grow room provides controlled environmental conditions for [[mushroom-cultivation]] at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
 
 ## Environmental Parameters
 
 ### Temperature
 
-Psilocybe cubensis thrives at 70-78F (21-26C) during both colonization and fruiting. Temperature requirements:
+[[psilocybe-cubensis]] thrives at 70-78F (21-26C) during both colonization and fruiting. Temperature requirements:
 
 - **Colonization**: 75F (24C) is optimal. Temperatures above 80F promote bacterial growth without significantly speeding mycelial growth. Below 65F, colonization slows dramatically.
 - **Fruiting**: 70-75F (21-24C) is ideal. A slight drop from colonization temperature (3-5 degrees) can help trigger fruiting.

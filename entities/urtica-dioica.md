@@ -135,7 +135,7 @@ rarely cause significant damage to the nettle itself.
 
 ## Medicinal Properties
 
-Nettle has an extensive history of use in European herbal medicine spanning over 2,000
+Nettle has an extensive history of use in European [[herbal-medicine]] spanning over 2,000
 years, documented by Dioscorides, Pliny the Elder, and virtually every subsequent herbal
 tradition. Key medicinal applications include treatment of benign prostatic hyperplasia
 (BPH), where multiple clinical trials have demonstrated modest but statistically

@@ -32,7 +32,7 @@ probably female.
 or cloning medium, give 12/12 light. The cutting will flower and reveal
 sex. Clones carry the exact same genetics including sex as the mother.
 ## The All-Important 12/12 Photoperiod
-Cannabis plants naturally flower when days shorten to 12 hours light
+cannabis plants naturally flower when days shorten to 12 hours light
 and 12 hours darkness (Sept/Oct/Nov outdoors). This 12/12 photoperiod
 stimulates flowering. As long as 12/12 continues, flowers grow larger
 and more plentiful.
@@ -70,7 +70,7 @@ Switching to 12/12 before pre-flowers show may cause:
 ### About Hermaphrodites
 - Genetically, hermies only produce female seeds and hermaphrodite
   seeds -- never male seeds.
-- "All-female seeds" advertised by seed banks come from stressed female
+- "All-female seeds" advertised by and seed banks come from stressed female
   plants producing male flowers, then self-pollinating.
 - Growers try to keep away from hermie plants -- they spoil sinsemilla
   crops and can contaminate breeding projects with floating pollen.

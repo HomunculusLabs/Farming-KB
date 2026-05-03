@@ -16,9 +16,7 @@ sources:
 ## Overview
 
 Catalytic hydrogenolysis using palladium on activated carbon (Pd/C) under
-a hydrogen atmosphere is the final step in the Shirota synthesis of
-psilocybin. This transformation converts the zwitterionic N,O-dibenzyl
-phosphate intermediate (compound 8) into psilocybin (compound 2) by
+a hydrogen atmosphere is the final step in the Shirota synthesis [[wasson-rediscovery-of-psilocybin]]. This transformation converts the zwitterionic N,zwitterionic dibenzyl phosphate (compound 8) into psilocybin (compound 2) by
 simultaneously removing both benzyl protecting groups: the N-benzyl group
 from the quaternary ammonium ion and the O-benzyl group from the
 phosphate ester. The reaction proceeds cleanly to give crystalline

@@ -80,13 +80,13 @@ Galbulimima belgraveana is extraordinarily rich in structurally diverse alkaloid
 
 ## Ethnobotanical Use
 
-The primary ethnobotanical documentation comes from Richard Evans Schultes (Harvard) and Albert Hofmann, published in *Plants of the Gods* (1992) and related works. Indigenous peoples of Papua New Guinea, including reportedly the Kukukuku (Anga) people and groups in the Eastern Highlands, Morobe, and Gulf Provinces, prepare a psychoactive drink called "agara."
+The primary ethnobotanical documentation comes from [[richard-evans-schultes]] (Harvard) and [[albert-hofmann]], published in *Plants of the Gods* (1992) and related works. Indigenous peoples of Papua New Guinea, including reportedly the Kukukuku (Anga) people and groups in the Eastern Highlands, Morobe, and Gulf Provinces, prepare a psychoactive drink called "agara."
 
 The preparation combines scraped inner bark of *G. belgraveana* with pounded leaves of *Homalomena* species (called "ereriba," family Araceae). The mixture is boiled, steeped, or wrapped and soaked before consumption. The *Homalomena* admixture is described as essential; preparations without it are reported to be much less effective or essentially inactive. Knowledge of preparation was traditionally restricted and specialized. Use is primarily by men in ritual and ceremonial contexts for divination, initiation rites, spirit communication, and recreational intoxication.
 
 Effects begin 30-60 minutes after ingestion with drowsiness, lassitude, heaviness of limbs, and sometimes nausea (Phase 1), progressing to vivid visual hallucinations and dreamlike visionary states described as "seeing spirits" or entering trance (Phase 2), followed by deep sleep and grogginess lasting 12-24 hours (Phase 3). The progression from initial agitation through sedation to a visionary dream state is reminiscent of tropane alkaloid-containing preparations.
 
-The *Homalomena* question parallels the ayahuasca pharmacology: the admixture may provide additional psychoactive compounds, inhibit metabolism of Galbulimima alkaloids (e.g., MAO inhibition), or chemically transform Galbulimima alkaloids during preparation to generate the true active compound(s) in situ. *Homalomena* species contain their own alkaloids and secondary metabolites, but their specific role remains unclear.
+The *Homalomena* question parallels the [[ayahuasca-pharmacology]]: the admixture may provide additional psychoactive compounds, inhibit metabolism of Galbulimima alkaloids (e.g., MAO inhibition), or chemically transform Galbulimima alkaloids during preparation to generate the true active compound(s) in situ. *Homalomena* species contain their own alkaloids and secondary metabolites, but their specific role remains unclear.
 
 ## Modern Pharmacology
 

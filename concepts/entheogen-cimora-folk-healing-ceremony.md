@@ -29,13 +29,13 @@ What distinguishes cimora from a simple San Pedro decoction is the
 frequent addition of secondary plant ingredients. Only recently have
 researchers become aware of the importance of these "secondary" plant
 ingredients often employed by indigenous societies. The fact that
-[[mescaline-compound-profile]] occurs in the San Pedro cactus does not mean that the
+[[mescaline-compound-profile]] occurs in the mescaline peyote san does not mean that the
 drink prepared from it may not be altered by the addition of other
 plants, although the significance of the additives in changing the
 hallucinogenic effects of the brew is still not fully understood.
 This represents an excellent example of the often appreciable
 difference between the effects of drugs taken as natural products and
-the effects of their purified chemical constituents.
+the effects of their purified guzman magic mushrooms.
 
 ## Additive Plants in Cimora
 
@@ -53,7 +53,7 @@ pharmacological understanding on the part of Andean healers:
   including scopolamine and atropine, which may contribute to the
   sensation of flight sometimes reported during cimora ceremonies
 
-The inclusion of datura-stramonium|Datura is particularly noteworthy, as it introduces
+The inclusion of [[datura-stramonium]]|Datura is particularly noteworthy, as it introduces
 the powerful deliriant alkaloids scopolamine and atropine into the
 preparation. These tropane alkaloids are absorbable even through intact
 skin and can produce profoundly disorienting effects including the
@@ -95,7 +95,7 @@ The powers attributed to San Pedro in Andean folk tradition extend
 well beyond medicine. The cactus is said to guard houses like a dog,
 possessing the ability to whistle in such unearthly fashion that
 intruders flee in terror. This belief reflects the deeply integrated
-role of entheogenic plants in the daily spiritual life of Andean
+role of entheogenic plants in the daily and spiritual life of Andean
 communities, where the boundary between the medicinal and the
 supernatural is fluid. Indigenous peoples of the Andes have long
 maintained a worldview in which plants possess agency and spiritual

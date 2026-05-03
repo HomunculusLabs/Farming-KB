@@ -46,7 +46,7 @@ Cannabis is a short-day plant — flowering is triggered when daylength drops be
 
 ### Trichomes (Glandular Hairs)
 
-Trichomes are the primary sites of cannabinoid and terpene biosynthesis. Three major types:
+Trichomes are the primary sites of cannabinoid and modern farm lab. Three major types:
 
 1. **Capitate-stalked trichomes**: Largest and most abundant on female flower parts. Consist of a stalk and a globular head (gland) where cannabinoids and terpenes are synthesized and stored. These are the primary source of the psychoactive resin.
 
@@ -67,13 +67,12 @@ is useful on a working site. Small trials reduce risk and make local adaptation
 visible before larger investments are made.
 
 ## Observation Points
-Track seasonal timing, moisture, plant or fungal response, pest pressure, and
-maintenance needs. Notes across several cycles are more reliable than a single
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and maintenance needs. Notes across several cycles are more reliable than a single
 observation because many biological systems respond slowly or episodically.
 
 ## Integration
 The strongest applications usually connect several functions at once, such as
-soil improvement, habitat creation, water moderation, yield, and education. If a
+mollison permaculture two, habitat creation, water moderation, yield, and education. If a
 practice only solves one problem while creating new maintenance burdens, it
 should be redesigned or kept experimental.
 

@@ -11,7 +11,7 @@ sources:
 
 HOT-7 is the N-hydroxy analogue of 2c-t-7-entity|2C-T-7, a psychedelic phenethylamine.
 
-It is documented as entry #88 in PiHKAL by Alexander Shulgin.
+It is documented as entry #88 in PiHKAL by [[alexander-shulgin]].
 
 The name follows Shulgin's convention: putting a hydroxyl (HO) group on a thio (T) material gives a HOT compound.
 
@@ -73,13 +73,13 @@ HOT-7 provides further evidence for Shulgin's working hypothesis about N-hydroxy
 
 The hypothesis states: an N-hydroxy amine has approximately the same potency and the same action as its N-hydrogen counterpart.
 
-The hypothesis emerged from the remarkable coincidence that MDOH (mdoh-entity|N-hydroxy-MDA) was equipotent to mda-entity|MDA.
+The hypothesis emerged from the remarkable coincidence that MDOH ([[mdoh-entity-pihkal]]|N-hydroxy-MDA) was equipotent to [[mda-entity-pihkal]]|MDA.
 
 Two possible explanations exist: the N-hydroxy compound reduces to the N-H material in the body, or the N-H material oxidizes to the N-hydroxy material.
 
 Both directions have biochemical precedent.
 
-The N-hydroxy concept has been extended to mdma-entity|MDMA (producing FLEA) and across the 2C-T-X series.
+The N-hydroxy concept has been extended to [[mdma-entity]]|MDMA (producing FLEA) and across the 2C-T-X series.
 
 ## Synthesis
 
@@ -123,9 +123,9 @@ The dosage (15-25 mg) requires accurate milligram measurement.
 
 Some gastrointestinal discomfort during onset has been reported.
 
-As with all psychedelic phenethylamines, HOT-7 should not be combined with MAOIs or other serotonergic substances.
+As with all optical isomers psychedelic phenethylamines, HOT-7 should not be combined with MAOIs or other serotonergic substances.
 
-The compound has not been studied for long-term toxicity.
+The compound has not been studied for long term toxicity.
 
 ## Index
 

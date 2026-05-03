@@ -15,7 +15,7 @@ updated: 2026-04-18
 
 ## Overview
 
-Rattan (from the Malay "rotan") refers to approximately 600 species of climbing palms in the subfamily Calamoideae, native to [[permaculture-designers-manual-tropical-climates]] regions of Africa, Asia, and Australasia. The Designers Manual references rattan and cane in the context of tropical forest management, craft production, and the multiple products obtainable from integrated forest systems. Rattan represents an important non-timber forest product that supports local economies while maintaining forest cover.
+Rattan (from the Malay "rotan") refers to approximately 600 species of climbing palms in the subfamily Calamoideae, native to [[permaculture-designers-manual-tropical-climates]] regions of Africa, Asia, and Australasia. The Designers Manual references rattan and cane in the context of tropical forest management, craft production, and the multiple products obtainable from integrated in forest systems. Rattan represents an important non-timber forest product that supports local economies while maintaining forest cover.
 
 ## Rattan in the Designers Manual
 
@@ -29,7 +29,7 @@ The small forest farm model lists a wide range of sustainable yields from manage
 
 In tropical [[permaculture-design-course-methodology]], rattan and other climbing palms are integrated into:
 - Mixed-species forest gardens
-- Food forest understories
+- food forest understories
 - Riparian buffer zones
 - Community forest management areas
 
@@ -49,7 +49,7 @@ Rattan palms are climbing palms with the following characteristics:
 Rattan has a relatively fast growth rate compared to timber trees:
 - Commercial-sized canes (2-5cm diameter) can be harvested in 7-15 years
 - Some species produce harvestable cane in as little as 5-7 years
-- After harvest, new shoots emerge from the root system
+- after harvest, new shoots emerge from the root system
 - Sustainable management allows continuous production from established clumps
 
 ## Uses of Rattan
@@ -131,7 +131,7 @@ Sustainable rattan harvesting involves:
 ### In Tropical Food Forests
 
 Rattan can be integrated into food forest systems as:
-- Understory climbing species among fruit trees
+- Understory climbing species among comparison pruning fruit
 - Additional income source from established orchards
 - Support species providing craft materials
 - Part of the species diversity that strengthens the overall system

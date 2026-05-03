@@ -9,7 +9,7 @@ sources:
 ---
 # META-DOB
 
-META-DOB (5-Bromo-2,4-dimethoxyamphetamine) is a positional isomer of dob-entity|DOB with the bromine atom at a different location on the aromatic ring.
+META-DOB (5-Bromo-2,4-dimethoxyamphetamine) is a positional isomer of [[dob-entity-pihkal]]|DOB with the bromine atom at a different location on the aromatic ring.
 
 It is documented as entry #124 in PiHKAL by [[alexander-shulgin]].
 
@@ -81,7 +81,7 @@ dob-entity|DOB: 1-3 mg active dose, 12-24 hour duration, clean psychedelic exper
 
 META-DOB: 50-100 mg active dose, 5-6 hour duration, toxic physical effects dominate.
 
-This 30-50-fold difference in potency between positional isomers demonstrates that receptor binding is exquisitely sensitive to the spatial arrangement of substituents on the aromatic ring.
+This 30-50-fold difference in potency between positional isomers demonstrates that [[beta-glucan-receptor-binding]] is exquisitely sensitive to the spatial arrangement of substituents on the aromatic ring.
 
 ## Legal Status
 
@@ -102,8 +102,8 @@ META-DOB should be considered more dangerous than dob-entity|DOB due to the high
 ## Index
 
 - dob-entity|DOB: the 4-bromo-2,5-dimethoxy isomer
-- doc-entity|DOC: the 4-chloro-2,5-dimethoxy isomer
-- doi-entity|DOI: the 4-iodo-2,5-dimethoxy isomer
+- [[doc-entity-pihkal]]|DOC: the 4-chloro-2,5-dimethoxy isomer
+- [[doi-entity-pihkal]]|DOI: the 4-iodo-2,5-dimethoxy isomer
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## See Also

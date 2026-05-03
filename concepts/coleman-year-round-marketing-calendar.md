@@ -7,7 +7,7 @@ sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 
 # Year-Round Marketing Calendar
 
-Eliot Coleman's winter harvest system is not only a production
+[[eliot-coleman]]'s winter harvest system is not only a production
 methodology but also a business strategy. By producing fresh greens
 and vegetables through the months when most local farms are dormant,
 Coleman's farm captures premium market segments and builds strong
@@ -41,7 +41,7 @@ off-season:
   selection card to use at winter farmers' markets or farm stands.
 
 Winter CSA shares typically consist of salad greens, cooking greens,
-root crops, and storage vegetables. Coleman packs shares in standard
+mollison designers cassava, and storage vegetables. Coleman packs shares in standard
 quantities but varies the mix based on weekly availability. Members
 accept that variety is lower in winter but quality and freshness are
 exceptional.
@@ -53,7 +53,7 @@ production, including the capital investment in high tunnels, heating
 (if any), additional labor for harvest in cold conditions, and the
 higher per-unit cost of producing crops during short days. Key pricing
 principles include:
-- **Premium winter pricing:** Winter greens should be priced higher
+- **Premium winter pricing:** coleman mache specialty should be priced higher
   than summer equivalents to reflect increased production costs.
   Customers understand and accept this premium in exchange for
   freshness and local sourcing.
@@ -117,7 +117,7 @@ and serves as its own marketing tool.
 Coleman educates customers about the winter harvest system through
 farm newsletters, website content, and direct conversation. When
 customers understand the technology and effort behind winter
-production — the high tunnels, row covers, careful variety selection,
+production — the high tunnels, cervantes season extension, careful variety selection,
 and cold-hardiness research — they develop a deeper appreciation
 for the product and a stronger connection to the farm.
 

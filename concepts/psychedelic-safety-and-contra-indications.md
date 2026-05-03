@@ -15,7 +15,7 @@ This page provides a comprehensive safety reference for psychedelic use. It cove
 
 ### Serotonin Syndrome Risk
 
-Serotonin syndrome is a potentially life-threatening condition caused by excessive serotonergic activity. The risk is highest when psychedelics that act on serotonin systems (LSD, psilocybin, DMT, MDMA, 5-MeO-DMT) are combined with other serotonergic substances.
+Serotonin syndrome is a potentially life-threatening condition caused by excessive serotonergic activity. The risk is highest when psychedelics that act on serotonin systems (LSD, psilocybin, DMT, MDMA, [[5-meo-dmt]]) are combined with other serotonergic substances.
 
 **High-risk combinations:**
 
@@ -138,7 +138,7 @@ A trip sitter (or guide) remains sober and provides a safe, supportive presence:
 
 ## Harm Reduction Best Practices
 
-See [[psychedelic-therapy-set-and-setting]] for comprehensive set and setting guidance, and [[psychedelic-dose-response]] for dosing principles.
+See [[psychedelic-therapy-set-and-setting]] for comprehensive [[set-and-setting]] guidance, and [[psychedelic-dose-response]] for dosing principles.
 
 - **Test your substances**: Use drug checking services (fentanyl test strips for MDMA, reagent testing kits for LSD/psilocybin)
 - **Start low, go slow**: Especially with a new substance or new batch

@@ -11,11 +11,11 @@ Gabions and check dams are both earthwork structures designed to slow water
 flow, capture sediment, and rehabilitate degraded landscapes. While they share
 overlapping functions, their design, application, and complexity differ
 significantly. Understanding these distinctions is essential for selecting the
-right structure for your erosion control or water management needs.
+right structure for your erosion control or [[water-management]] needs.
 ## Overview
 **Gabions** are stone-filled wire mesh cages placed across gully floors and
 watercourses to control erosion and capture sediment. In the Mollison
-permaculture design framework, gabions must extend above the flood level of
+[[permaculture-design]] framework, gabions must extend above the flood level of
 the gully they protect, ensuring that water spills over rather than undermining
 the structure. They are built in sequence from the outlet working upstream, with
 each new structure placed where the water drops to the level of the previous

@@ -16,10 +16,10 @@ type: concept
 
 # Guild Analysis and Species Interaction in Permaculture
 
-A guild of plants and animals is defined by Mollison as a
+A guild and animals is defined by Mollison as a
 species assembly that provides many benefits for resource
 production and self-management (more yields, but lower inputs).
-The analytic framework for guild design draws on Haskell's
+The analytic framework for in guild design draws on Haskell's
 (1970) co-action theory, providing a systematic method for
 selecting beneficial species combinations.
 
@@ -93,7 +93,7 @@ A teacher and student relationship, or charity where surplus
 goods are handed to those less fortunate.
 
 (+-) Parasitism: the actor benefits, the other loses. All
-pathogens and parasites tend to weaken or take from the host.
+and parasites tend to weaken or take from the host.
 
 (-+) Self-sacrifice: the actor loses to help others. Often
 seen as individuals helping members of the same family or

@@ -16,7 +16,7 @@ type: concept
 # Sequestrate Fungi Evolution
 Sequestrate fungi, including true and false truffles, represent one
 of the most remarkable examples of convergent evolution in the
-fungal kingdom. Multiple independent lineages of mushrooms and cup
+[[fungal-kingdom-taxonomy-classification]]. Multiple independent lineages of mushrooms and cup
 fungi have evolved toward hypogeous (underground) fruiting, with
 progressive reduction of the cap, stem, and hymenial tissue. About
 150 genera and 1200 valid species have been described across 38
@@ -32,7 +32,7 @@ total number of species existing in the world is likely more than
 double that currently known.
 In the Ascomycetes and Basidiomycetes, most sequestrate fungi are
 ectomycorrhizal mycobionts, though saprobic taxa occur in both
-groups, especially in New Zealand and tropical Australian rain
+groups, especially in magic mushrooms australia and tropical Australian rain
 forests.
 ## Parallel Evolution in Basidiomycetes
 The Basidiomycete order Boletales exemplifies the morphological
@@ -70,7 +70,7 @@ are seen in the Pezizales:
 Selection favoring protection of sporocarps from heat, drought, or
 freezing leads to partial or complete immersion in the insulating
 soil. The mushroom stem becomes unnecessary, and the cap is no
-longer needed for forcible spore discharge. Without forcible
+longer needed for forcible [[bullers-drop-spore-discharge]]. Without forcible
 discharge, no orderly hymenial palisade is required to expose
 ascus or basidium tips to the air.
 Molecular evidence indicates that such morphological changes do
@@ -102,7 +102,7 @@ the outer peridium to reach a central columella, releasing powdery
 spores to the air, fur, or soil.
 ## Desert Truffle Adaptations
 Most desert-dwelling sequestrate fungi are adapted for passive
-spore dispersal by wind. Species of Carbomyces, desert-truffles|Terfezia,
+spore dispersal by wind. Species of Carbomyces, [[desert-truffles]]|Terfezia,
 and Tirmania produce succulent ascomata of large, thin-walled
 cells ill-adapted to withstand drying. When not eaten by animals,
 they dry and the inflated cells disintegrate into spore-bearing

@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-Seed germination is the process of initiating growth from a dormant cannabis seed. Proper technique during this critical early stage sets the foundation for a healthy plant. Cannabis seeds contain the embryo of the plant along with a small nutrient reserve (endosperm) to fuel initial growth until the seedling develops its first true leaves and root system.
+comparison cannabis clone is the process of initiating growth from a dormant cannabis seed. Proper technique during this critical early stage sets the foundation for a healthy plant. Cannabis seeds contain the embryo of the plant along with a small nutrient reserve (endosperm) to fuel initial growth until the seedling develops its first true leaves and root system.
 
 ## Seed Selection and Quality
 
@@ -36,7 +36,7 @@ The most common home germination technique:
 5. Store in a warm, dark location (72-80 F / 22-27 C)
 6. Check every 12-24 hours; re-moisten if the towel dries
 7. Seeds typically crack within 24-72 hours; a taproot emerges within 48-96 hours
-8. Once the taproot is 0.25-0.5 inches long, carefully transfer to growing medium
+8. Once the taproot is 0.25-0.5 inches long, carefully transfer to cervantes green algae
 
 Handle sprouted seeds with tweezers — avoid touching the delicate taproot with bare fingers.
 
@@ -89,7 +89,7 @@ When the seedling emerges, it will have two embryonic leaves called cotyledons. 
 ### Common Seedling Problems
 
 - **Stretching**: Tall, thin, weak stems — caused by insufficient light. Move light closer or increase intensity.
-- **Damping off**: Seedling collapses at the soil line — fungal infection from overwatering and poor airflow. Reduce moisture, increase airflow, use chamomile tea as a mild fungicide.
+- **cervantes root rot**: Seedling collapses at the soil line — fungal infection from overwatering and poor airflow. Reduce moisture, increase airflow, use chamomile tea as a mild fungicide.
 - **Cotyledon discoloration**: Slight yellowing as cotyledons are consumed is normal. Green cotyledons that suddenly yellow or purple may indicate temperature stress or nutrient issues.
 - **Shell stuck on seedling**: If the seed shell remains attached to the first leaves, mist with water and gently assist removal after the leaves have expanded. Leaving it can deform growth.
 

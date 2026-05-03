@@ -35,7 +35,7 @@ Brassinosteroids influence nearly every aspect of plant growth and development:
 
 ## Signaling Pathway
 
-The brassinosteroid signaling cascade is well-characterized in arabidopsis thaliana:
+The brassinosteroid signaling cascade is well-characterized in [[arabidopsis-thaliana]]:
 
 1. Brassinolide (or another brassinosteroid) binds to the extracellular domain of the BRI1 receptor kinase at the plasma membrane.
 2. BRI1 heterodimerizes with its co-receptor BAK1, activating cytoplasmic kinase signaling.
@@ -60,7 +60,7 @@ Brassinosteroid signaling intersects extensively with other plant hormonal syste
 
 ## Effects on Fungi
 
-Prior to 1990, no studies on brassinosteroid occurrence or activity in fungi had been published. Gartz, Adam, and Vorbrodt demonstrated that [[homobrassinolide]] at 10⁻² ppm dramatically accelerated mycelial growth and fruiting in [[psilocybe-cubensis]], suggesting that brassinosteroids may play a physiological role in higher fungi. This finding opens questions about whether endogenous fungal brassinosteroids exist and what tmushroom-cultivationns might be. Subsequent research has suggested that fungal sterol metabolism may produce brassinosteroid-like compounds under certain conditions, though this has not been definitively confirmed. The discovery also has practical implications for mushroom cultivation, as brassinosteroid application could potentially improve yields of cultivated species.
+Prior to 1990, no studies on brassinosteroid occurrence or activity in fungi had been published. Gartz, Adam, and Vorbrodt demonstrated that [[homobrassinolide]] at 10⁻² ppm dramatically accelerated mycelial growth and fruiting in [[psilocybe-cubensis]], suggesting that brassinosteroids may play a physiological role in higher fungi. This finding opens questions about whether endogenous fungal brassinosteroids exist and what tmushroom-cultivationns might be. Subsequent research has suggested that fungal sterol metabolism may produce brassinosteroid-like compounds under certain conditions, though this has not been definitively confirmed. The discovery also has practical implications for [[mushroom-cultivation]], as brassinosteroid application could potentially improve yields of cultivated species.
 
 ## Brassinosteroid Deficiency and Mutants
 

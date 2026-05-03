@@ -89,7 +89,7 @@ or joint is used once more.
 After completing the four directions, the practitioner returns to face north
 and delivers an extended invocation: "Thank you again earth, for your bounty
 and your glory. Please let me flourish on this earth and you have all of your
-believed plants and animals, let man and woman live together on your surface
+believed and animals, let man and woman live together on your surface
 in harmony with nature and let us live to abide by your laws and enjoy your
 grace, bounty and joys."
 

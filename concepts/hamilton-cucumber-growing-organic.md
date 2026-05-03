@@ -23,7 +23,7 @@ Marketmore produces long, dark green fruits and is a reliable outdoor
 variety. Burpless Tasty Green is said to be easier to digest than
 most varieties. Both prefer a pH of about 6.0 and a well-manured
 soil. Dig in plenty of compost or manure before planting. In the
-three-year crop rotation plan, grow cucumbers in Plot A.
+hamilton three year plan, grow cucumbers in Plot A.
 
 ## Sowing and Planting Outdoor Cucumbers
 
@@ -45,7 +45,7 @@ the ground and out of reach of slugs, and looks attractive enough
 for flower borders.
 
 If you decide to grow cucumbers flat on the ground, space them 3ft
-(90cm) apart. For deep beds, cucumbers are well suited and should be
+(90cm) apart. For organic vegetable garden, cucumbers are well suited and should be
 grown up poles at 2ft (60cm) spacings. Feed at two-week intervals
 with liquid kelp or animal-manure fertilizer from midsummer until
 harvesting. Pinch off the tops when the plants reach the top of the
@@ -62,7 +62,7 @@ Greenhouse cucumber varieties are sweet-tasting, vigorous, resistant
 to disease, and all-female. Hana produces an abundant crop of short
 fruits. Carmen is a very heavy cropping variety. Cumlaude RZ will
 grow in an unheated greenhouse. Athene is ideal for slightly cooler
-conditions. All these grow well in the same temperature and humidity
+conditions. All these grow well in the same and humidity
 regime as tomatoes, so they can share the greenhouse space.
 
 Sow from midwinter if the greenhouse can be heated to about 50
@@ -90,7 +90,7 @@ mainly from the main stem. On these types, remove any fruit that
 forms on sideshoots. Older varieties may produce fruit mainly on the
 sideshoots, in which case remove any on the main stem.
 
-The most common pests and diseases affecting cucumbers include slugs
+The most and common pests and diseases affecting cucumbers include slugs
 and aphids (see general pest control pages), mildew, and cucumber
 mosaic virus. Greenhouse plants can also be affected by the specific
 pests and diseases found in the protected environment. Good

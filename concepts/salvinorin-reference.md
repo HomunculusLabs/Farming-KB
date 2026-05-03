@@ -41,13 +41,13 @@ Effects vary enormously by dose, set, and setting. Common reported experiences i
 - Amnesia of the experience (common at higher doses)
 - Emotional catharsis or, conversely, profound confusion
 
-Many users report that the experience is more "forcing" and less controllable than other psychedelics. The intensity can be overwhelming, and the lack of a serotoninergic mechanism means standard psychedelic integration frameworks may not fully apply.
+Many users report that the experience is more "forcing" and less controllable than other psychedelics. The intensity can be overwhelming, and the lack of a serotoninergic mechanism means standard [[psychedelic-integration]] frameworks may not fully apply.
 
 ## Preparation Methods
 
 ### Traditional Quid Method
 
-The Mazatec tradition uses fresh Salvia divinorum leaves chewed as a quid:
+The and mazatec tradition uses fresh Salvia divinorum leaves chewed as a quid:
 
 1. Collect 6-28 large fresh leaves
 2. Roll into a ball or cylinder (quid)
@@ -102,9 +102,9 @@ Salvinorin A is unscheduled in many countries but regulated or banned in others.
 
 ## History and Cultural Context
 
-Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
+Salvia divinorum has been used for centuries by the [[mazatec-people]] of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
 
 ## See Also
 
 - [[5-meo-dmt-reference]] — comparison of non-classical psychedelics
-- [[harm-reduction-guide]] — general harm reduction principles applicable to salvinorin use
+- [[harm-reduction-guide]] — general and harm reduction principles applicable to salvinorin use

@@ -9,7 +9,7 @@ sources:
 
 # Mushroom Nutrition
 
-The nutritional biology of cultivated mushrooms reveals a fungus that is
+The nutritional biology of growing gourmet cloning reveals a fungus that is
 far more adaptable than traditional practice suggests. While commercial
 growing has always depended on fermented stable manure, laboratory
 experiments demonstrate that [[agaricus-campestris]]
@@ -80,7 +80,7 @@ protein contribution.
 ## Nutritional Strategies by Species
 
 Different mushroom species have evolved distinct nutritional strategies.
-Primary decomposers like oyster mushrooms (Pleurotus spp.) can colonize
+Primary decomposers like [[oyster-mushrooms]] (Pleurotus spp.) can colonize
 fresh lignocellulose directly, while secondary decomposers like Agaricus
 bisporus require substrate that has been partially broken down by
 composting microorganisms. This distinction determines cultivation
@@ -88,8 +88,7 @@ approaches: primary decomposers grow on pasteurized straw or sawdust,
 while secondary decomposers need fully composted substrate with specific
 microbial communities established during the composting process.
 
-Carbon-to-nitrogen ratio (C:N) is a critical parameter in mushroom
-substrate formulation. Most cultivated species prefer a C:N ratio between
+Carbon-to-nitrogen ratio (C:N) is a critical parameter in [[mushroom-substrate-formulation]]. Most cultivated species prefer a C:N ratio between
 25:1 and 40:1. Too much nitrogen promotes bacterial contamination and
 ammonia accumulation, which is toxic to mycelium. Too little nitrogen
 limits mycelial growth and reduces yields. Supplementing substrates with

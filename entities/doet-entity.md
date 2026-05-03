@@ -49,7 +49,7 @@ At 2.5 mg, users report visual movement, reality distortion, and difficulty find
 
 Body effects including leg twitching and crawling sensations may occur at this dose level.
 
-At 4 mg, the compound functions more as a "mood energizer" with a plus-two effect, described as lacking the seriousness of LSD or dom-entity|DOM.
+At 4 mg, the compound functions more as a "mood energizer" with a plus-two effect, described as lacking the seriousness of lsd or [[dom-entity-pihkal]]|DOM.
 
 The clinical literature originally characterized DOET at low doses as having "none of the hallucinogenic effects" while bringing into play "whatever one wants to."
 
@@ -99,7 +99,7 @@ The compound may have been explored for potential therapeutic applications at su
 
 ## Legal Status
 
-DOET exists in a complex legal status in many jurisdictions.
+DOET exists in a complex mckenna tryptamine research in many jurisdictions.
 
 While not explicitly scheduled in some countries, the Controlled Substance Analogue Enforcement Act of 1986 in the United States may effectively criminalize its use for human trials.
 
@@ -120,8 +120,8 @@ The compound has not been extensively studied for toxicological profile at recre
 ## Index
 
 - dom-entity|DOM: the 4-methyl analogue (STP)
-- dob-entity|DOB: the 4-bromo analogue
-- doi-entity|DOI: the 4-iodo analogue
+- [[dob-entity-pihkal]]|DOB: the 4-bromo analogue
+- [[doi-entity-pihkal]]|DOI: the 4-iodo analogue
 - 2c-e-entity|2C-E: the 2-carbon phenethylamine analogue
 - [[phenethylamine-pharmacology]]: general pharmacology
 

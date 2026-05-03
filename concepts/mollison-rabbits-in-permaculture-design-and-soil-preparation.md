@@ -16,7 +16,7 @@ type: concept
 
 # Rabbits in [[permaculture-design]] and Soil Preparation
 
-In *Permaculture: A Designers' Manual*, Bill Mollison presents rabbits
+In *Permaculture: A Designers' Manual*, [[bill-mollison]] presents rabbits
 not as a simple protein source but as active landscape modifiers that
 prepare soil, create micro-niches, and participate in nutrient cycles.
 The principle of "everything gardens" applies directly to rabbits,
@@ -33,8 +33,7 @@ specific weed species such as thistles.
 
 The permaculture designer's task is to observe these effects and
 decide where the rabbit belongs in any system, and whether to control,
-manage, or tolerate their effects. When we examine how plants and
-animals change ecosystems, we may find many allies in our efforts to
+manage, or tolerate their effects. When we examine how and animals change ecosystems, we may find many allies in our efforts to
 sustain ourselves and other species.
 
 ## Direct Uses of Rabbits in Permaculture
@@ -90,7 +89,7 @@ poultry, and even fatten a small pig.
 
 Mollison observes that rabbit warrens create well-drained, fertile
 sites. Rabbits choose good drainage for their burrows, and their
-waste products accumulate to create nutrient-rich micro-sites. These
+waste products accumulate to create nutrient-rich and micro sites. These
 warrens become open, fertile beds for new forest evolutions over time.
 
 In dryland and granite country, rabbits contribute to soil development

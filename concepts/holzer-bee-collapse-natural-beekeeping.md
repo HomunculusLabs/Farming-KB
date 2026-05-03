@@ -71,7 +71,7 @@ keeps the air clean, protecting against mites and diseases.
 
 ### Natural Comb Building
 
-In nature, bees build their own combs from wax they produce themselves.
+in nature, bees build their own combs from wax they produce themselves.
 The wax has antibacterial components. The process of building keeps bees
 fit and healthy. Many industrial beekeepers remove this work to focus bees
 on honey production, which creates short-lived success followed by declining
@@ -102,7 +102,7 @@ are replaced by a new generation of summer bees.
 - Open the hive as infrequently as possible
 - Leave enough natural food (honey, not sugared water)
 - The highest yield comes from having happy bees
-- Ensure sufficient biodiversity in plant life for forage
+- Ensure sufficient biodiversity in plant life rhythms for forage
 - Flowers should not be more than 2km away; otherwise bees get exhausted
 
 ### Toxic Plants for Healing

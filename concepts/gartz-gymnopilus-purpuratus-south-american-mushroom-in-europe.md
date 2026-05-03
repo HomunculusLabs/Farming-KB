@@ -30,7 +30,7 @@ remarkable case of accidental species introduction and subsequent colonization.
 As far back as May 1887, a new mushroom species was found growing on a tree
 fern trunk at the botanical gardens in Kew, England. It was eventually
 published as Flammula purpurata Cooke and Massee, later reclassified as
-Gymnopilus purpuratus (Cooke and Massee) Sing. Mordecai Cooke, who discovered
+Gymnopilus purpuratus (Cooke and Massee) Sing. [[mordecai-cooke]], who discovered
 it, was a mycologist of outstanding competence who also studied [[gartz-european-psychoactive-mushroom-species]] and formulated the first hypothesis about the bluing phenomenon.
 
 ## North American Intoxications
@@ -108,7 +108,7 @@ species, these historical accounts appear in a new light.
 ## Comparison With Other Gymnopilus Species
 
 There are significantly more Gymnopilus species in North America (73) than in
-Europe (15). European Gymnopilus junonius is one of the largest species, with
+Europe (15). European [[gymnopilus-junonius]] is one of the largest species, with
 stems up to 24 inches (60 cm) tall, but has an extremely bitter taste that
 deters ingestion. No known European intoxications have been caused by European
 Gymnopilus species, making the South American import unique in this regard.

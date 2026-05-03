@@ -13,7 +13,7 @@ examples based on their difficulty level relative to the model's current
 capability. Rather than training on all available data uniformly, examples are
 sampled or weighted according to how challenging they are, optimizing the
 learning signal per training step. This is especially important when working
-with synthetic data, where difficulty spans a much wider range than typical
+with [[synthetic-data-generation]], where difficulty spans a much wider range than typical
 human-annotated datasets.
 
 ## Why Difficulty Matters
@@ -63,7 +63,7 @@ be linear, step-wise, or adaptive based on model performance.
 **Anti-curriculum scheduling** reverses the order, starting with hard
 examples. Counterintuitively, this sometimes outperforms curriculum approaches
 because hard examples provide stronger gradients when the model is still
-underparameterized and learning representations.
+underparameterized [[plant-memory-and-learning]] representations.
 
 **Mixed-batch sampling** includes examples from multiple difficulty levels in
 each training batch. This prevents the model from forgetting easier skills

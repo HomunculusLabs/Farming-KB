@@ -117,7 +117,7 @@ cells, and soothes coughs.
 
 2. **2-Arachidonoyl glycerol (2-AG)**
 
-3. **2-Arachidonoyl-glyceryl-ether (Noladin ether)**
+3. **2-Arachidonoyl-glyceryl-ether ([[noladin-ether]])**
 
 4. **O-Arachidonoyl-ethanolamine (Virodhamine)**
 

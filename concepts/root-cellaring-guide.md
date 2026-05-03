@@ -9,7 +9,7 @@ sources: []
 
 # root cellaring guide
 
-A root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent temperature and humidity for long-term food storage. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity.
+root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent and humidity for long term root cellaring energy. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of mollison designers cassava, hardy vegetables, and fruits through winter without electricity.
 
 ## Ideal Conditions
 

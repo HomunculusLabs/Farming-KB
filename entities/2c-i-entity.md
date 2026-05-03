@@ -11,7 +11,7 @@ sources:
 
 2C-I is a psychedelic phenethylamine and a member of the 2C family of compounds.
 
-It is the 4-iodo analogue of 2,5-dimethoxyphenethylamine, first synthesized and bioassayed by Alexander Shulgin and documented as entry #33 in PiHKAL.
+It is the 4-iodo analogue of 2,5-dimethoxyphenethylamine, first synthesized and bioassayed by [[alexander-shulgin]] and documented as entry #33 in PiHKAL.
 
 ## Chemical Identity
 
@@ -21,7 +21,7 @@ Molecular formula: C10H15INO2.
 
 The compound belongs to the 2C family (2-carbon phenethylamines) and is structurally analogous to 2c-b-entity|2C-B, with an iodine atom replacing the bromine at the 4-position of the aromatic ring.
 
-Iodine sits directly below bromine in the periodic table, and Shulgin noted that the two compounds share many qualitative similarities while maintaining distinct pharmacological profiles.
+Iodine sits directly below bromine in the mollison soil elements, and Shulgin noted that the two compounds share many qualitative similarities while maintaining distinct pharmacological profiles.
 
 ## Dosage and Duration
 
@@ -67,7 +67,7 @@ It was among the last of the 2C compounds to gain significant popularity as a re
 
 Like other members of the DOX and 2C families, 2C-I acts primarily as a 5-HT2A receptor agonist, though its full pharmacological profile may involve activity at other serotonin receptor subtypes.
 
-The heavy iodine atom makes 2C-I and its 3-carbon analogue doi-entity|DOI natural candidates for radio-labelling experiments used in brain imaging and serotonin receptor mapping studies.
+The heavy iodine atom makes 2C-I and its 3-carbon analogue [[doi-entity]]|DOI natural candidates for radio-labelling experiments used in brain imaging and serotonin receptor mapping studies.
 
 doi-entity|DOI (2,5-dimethoxy-4-iodoamphetamine) has been extensively used as a radioligand in neuroscience research.
 
@@ -95,15 +95,15 @@ Compared to 2c-e-entity|2C-E, 2C-I is shorter-acting, less intense, and consider
 
 It is also controlled or banned in many other countries, including the United Kingdom, Canada, Australia, and throughout much of the European Union.
 
-The compound was specifically scheduled in the United States as part of the Controlled Substances Act amendments targeting 2C compounds.
+The compound was specifically scheduled in the United States as part of the and psychedelic research Act amendments targeting 2C compounds.
 
 ## Harm Reduction
 
-As with all psychedelic phenethylamines, users should exercise careful dose measurement.
+As with all [[optical-isomers-psychedelic-phenethylamines]], users should exercise careful dose measurement.
 
 The relatively wide active dose range (14-22 mg) can lead to unexpectedly intense experiences at the upper end.
 
-Set and setting considerations are important, particularly given the 6-10 hour duration.
+And setting considerations are important, particularly given the 6-10 hour duration.
 
 2C-I is not recommended for individuals with a personal or family history of psychotic disorders or severe cardiovascular conditions.
 
@@ -113,7 +113,7 @@ The compound should not be combined with MAOIs, tramadol, or other serotonergic 
 
 2C-I became one of the most popular research chemicals in the early 2000s, widely discussed on online forums including the Bluelight community and Erowid.
 
-Its relative safety profile and predictable effects made it a common introduction to the 2C family for recreational users.
+Its relative and safety profile and predictable effects made it a common introduction to the 2C family for recreational users.
 
 The compound's popularity contributed significantly to the eventual scheduling of the 2C family as a whole in multiple jurisdictions.
 

@@ -58,7 +58,7 @@ contents onto the compost heap. Throw away old soil and lining, reline
 the basket with fresh material, and replant for a winter show. In all
 but the warmest areas, use frost-hardy plants for winter baskets.
 
-For winter, use small shrubs such as variegated pieris (Pieris
+For winter, and slow solutions shrubs such as variegated pieris (Pieris
 japonica "Variegata") or deep pink-flowered P. j. "Christmas Cheer"
 as the central plant. Surround with winter-flowering or foliage heathers
 (Erica carnea). Use ivies (Hedera sp.) or evergreen honeysuckle
@@ -92,7 +92,7 @@ Watering: Spring and summer baskets should be watered at least daily.
 In a particularly warm, sunny position they may need watering twice
 a day. In winter, water only when the top of the compost feels dry.
 
-Renewal: Once you have bought your first basketful of plants, you
+Renewal: Once you have bought your first basketful [[spirit-mothers-of-plants]], you
 will not need to replace them. Many trailing plants can be raised
 from cuttings so you can propagate your own stock each year.
 

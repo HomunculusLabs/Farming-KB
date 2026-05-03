@@ -68,7 +68,7 @@ and curing of the patient's personality in the accompanying psychotherapeutic
 treatment.
 
 The term "psychedelic," which can be translated as "mind-manifesting" or
-"mind-expanding," was introduced by Humphry Osmond, a pioneer of LSD research
+"mind-expanding," was introduced by [[humphry-osmond]], a pioneer of LSD research
 in the United States. Osmond, working with Abram Hoffer in Canada, conducted
 some of the earliest systematic studies of LSD's therapeutic potential.
 

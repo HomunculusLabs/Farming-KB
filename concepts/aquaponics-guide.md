@@ -83,12 +83,12 @@ The general ratio is 1:1 grow bed volume to fish tank volume (by gallons). For b
 
 ## Plants That Thrive in Aquaponics
 
-Best performers: lettuce, basil, kale, Swiss chard, watercress, mint, tomatoes, peppers, cucumbers, strawberries. Root vegetables are challenging in media beds but can work in deep beds with fine media.
+Best performers: lettuce, basil, kale, Swiss chard, watercress, mint, tomatoes, peppers, cucumbers, strawberries. Root vegetables are challenging in media beds but can work in organic vegetable garden with fine media.
 
 ## Common Problems
 
 - pH crash: usually from insufficient carbonate hardness -- add potassium carbonate or crushed eggshells
-- Nutrient deficiencies: iron and potassium are most common -- supplement with chelated iron and potassium hydroxide
+- nutrient deficiencies: iron and potassium are most common -- supplement with chelated iron and potassium hydroxide
 - Fish deaths: usually from ammonia spikes, temperature shock, or low dissolved oxygen
 - Algae: reduce light exposure on water surfaces, add more plants
 

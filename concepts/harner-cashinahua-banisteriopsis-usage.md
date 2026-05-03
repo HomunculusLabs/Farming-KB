@@ -26,9 +26,9 @@ societies.
 
 The ayahuasca brew is prepared from the stalks of several lianas of the
 genus Banisteriopsis (family Malpighiaceae) and the leaves of a shrub
-identified as Psychotria. For more on the botanical basis and preparation methods, see [[ayahuasca-botany-and-preparation]]. Preliminary chemical analysis indicates that
+identified as Psychotria. For more on the botanical basis and preparation methods, see [[ayahuasca-botany-and-preparation]]. Preliminary [[chemical-analysis-psilocybin-mushrooms]] indicates that
 the active hallucinogenic agents of Banisteriopsis are harmine and
-harmaline (beta-carboline alkaloids), while the Psychotria contributes
+harmaline ([[beta-carboline-alkaloids]]), while the Psychotria contributes
 dimethyltryptamine or DMT.
 
 Banisteriopsis is considered by the Cashinahua to be the basic

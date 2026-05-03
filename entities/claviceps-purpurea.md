@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: entity
 tags: [mycology, species]
-sources: []
+sources:
+  - "raw/papers/j-gartz-narrenschwamme.md"
 ---
 ---
 title: Claviceps purpurea
@@ -147,4 +148,3 @@ hyperprolactinemia), cabergoline, pergolide, and lisuride.
 Laboratories to synthesize LSD-25 (lysergic acid diethylamide) in 1938.
 
 ## Related Topics
-- [[ergot-alkaloid-chemistry-history]]

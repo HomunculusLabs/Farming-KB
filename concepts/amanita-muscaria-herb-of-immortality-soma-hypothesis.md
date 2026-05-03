@@ -37,7 +37,7 @@ Teeter finds all these candidates wanting. Soma was specifically a plant that gr
 
 ## The Wasson Identification
 
-In 1974, Teeter read R. Gordon Wasson's Soma: Divine Mushroom of Immortality, which proposed [[amanita-muscaria-drying-and-preparation]] as the original Soma. Teeter found Wasson's argument the most convincing, particularly because Amanita muscaria was "even known to produce psychoactive urine in the users just like the Vedic Soma, a property that no other Eurasian drug plant is known to produce."
+In 1974, Teeter read R. [[gordon-wasson]]'s Soma: Divine Mushroom of Immortality, which proposed [[amanita-muscaria-drying-and-preparation]] as the original Soma. Teeter found Wasson's argument the most convincing, particularly because Amanita muscaria was "even known to produce psychoactive urine in the users just like the Vedic Soma, a property that no other Eurasian drug plant is known to produce."
 
 This urinary recycling property is a critical piece of evidence. The Rig Veda describes Soma being consumed, then passed through the body, and consumed again -- a practice well-documented among Siberian peoples who use Amanita muscaria, where the urine of the first consumer contains the active principles and is passed to others for a second round of intoxication. No other Eurasian drug plant is known to produce this effect.
 

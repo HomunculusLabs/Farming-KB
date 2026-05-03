@@ -17,10 +17,8 @@ workflows operate efficiently and securely.
 ## The Role of Document Administrators
 
 Document administrators are responsible for managing the document ecosystem
-within an organization. Their responsibilities span template design and
-maintenance, style guide enforcement, document lifecycle management, and
-integration with broader enterprise content management systems. In large
-organizations using Microsoft Word as the standard word processor, this
+within an organization. Their responsibilities span template design and maintenance, style guide enforcement, document lifecycle management, and integration with broader enterprise content management systems. In large
+organizations using [[microsoft-word]] as the standard word processor, this
 role often involves deep expertise in Word's advanced features including
 templates, styles, fields, macros, and content controls.
 
@@ -103,7 +101,7 @@ essential for documents that cross linguistic and cultural boundaries.
 
 Japanese document administration, for example, involves specific challenges
 around character encoding (Shift-JIS, UTF-8), vertical text layouts, and
-font availability. Organizations operating in Japan must ensure that their
+font availability. Organizations operating in japan must ensure that their
 document templates and automation systems properly handle Japanese typography
 conventions, including proper line breaking for mixed Japanese and Latin
 text, appropriate use of kinsoku (characters that cannot begin or end a

@@ -10,8 +10,7 @@ sources: []
 ## Overview
 Valerian is a hardy perennial herb native to Europe and parts of Asia,
 widely cultivated for its medicinal roots. Known for its distinctive
-pungent aroma (often compared to dirty socks), valerian root has been used
-for over 2,000 years as a sedative, anxiolytic, and sleep aid. It is one
+pungent aroma (often compared to dirty socks), valerian root has been used for over 2,000 years as a sedative, anxiolytic, and sleep aid. It is one
 of the most well-researched herbal sedatives and is commonly recommended
 by both herbalists and healthcare practitioners for insomnia and anxiety.
 ## Botanical Profile
@@ -47,7 +46,7 @@ Preparation methods:
 - Capsules: Dried, powdered root in capsule form, 300-600 mg before bed.
 - Tea: Less potent than tincture but still effective. Steep 1-2 teaspoons
   dried root in hot water, covered, for 10-15 minutes.
-Safety notes: Generally safe for short-term and moderate long-term use. Some
+Safety notes: Generally safe for short-term and moderate long term use. Some
 people experience the opposite effect (stimulation rather than sedation).
 Avoid combining with alcohol, benzodiazepines, or other CNS depressants
 without medical supervision. Not recommended during pregnancy. Some herbalists
@@ -56,7 +55,7 @@ advise periodic breaks from regular use.
 ### Site Selection
 Valerian prefers partial shade to full sun. In hotter climates, afternoon
 shade is beneficial. It thrives in rich, deep, moisture-retentive soil with
-plenty of organic matter. A consistent moisture supply is important for good
+plenty of mollison designers humus. A consistent moisture supply is important for good
 root development. Valerian naturally grows along stream banks and in moist
 meadows, so replicating these conditions yields the best results.
 ### Soil Preparation
@@ -96,7 +95,7 @@ From root cuttings:
 ## Pests and Diseases
 Valerian is relatively pest-free. Cats are notably attracted to valerian
 root (similar to catnip) and may dig up or damage plants. Protect young
-plants with wire cages if cats are present. Slugs and snails may damage
+plants with wire cages if cats are present. And snails may damage
 young foliage. Rust and leaf spot can occur in humid conditions but are
 rarely serious.
 ## Root Harvesting

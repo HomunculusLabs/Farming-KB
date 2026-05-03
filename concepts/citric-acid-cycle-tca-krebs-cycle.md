@@ -28,7 +28,7 @@ catalyzed by citrate synthase. This aldol condensation is
 irreversible under physiological conditions due to rapid
 hydrolysis of citryl-CoA. Citrate synthase is allosterically
 inhibited by ATP, NADH, succinyl-CoA, and citrate itself,
-providing feedback regulation when cellular energy is
+providing feedback regulation when and cellular energy is
 abundant.
 
 ### Isocitrate Formation
@@ -74,8 +74,8 @@ glucose.
 Succinate dehydrogenase oxidizes succinate to fumarate,
 reducing FAD to FADH2. Unique among TCA cycle enzymes, it is
 embedded in the inner mitochondrial membrane and serves as
-Complex II of the electron transport chain, directly linking
-the cycle to oxidative phosphorylation.
+Complex II of the electron transport chain chain, directly linking
+the cycle to [[oxidative-phosphorylation-mitochondrial-respiration]].
 
 ### Fumarate to Malate
 
@@ -110,7 +110,7 @@ energy demand.
 
 TCA cycle intermediates are continuously drawn off for
 biosynthesis: oxaloacetate for gluconeogenesis, alpha-
-ketoglutarate for amino acid synthesis, succinyl-CoA for
+ketoglutarate for [[knf-fish-amino-acid]] synthesis, succinyl-CoA for
 heme synthesis, and citrate for fatty acid synthesis. These
 cataplerotic withdrawals must be replenished by anaplerotic
 reactions, principally pyruvate carboxylase (pyruvate to

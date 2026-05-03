@@ -8,8 +8,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-road-back-to-nature.
 
 # The Roots of Clothing: Philosophy of Dress
 
-One thing masanobu-fukuoka|Fukuoka always feels when working in the fields is
-that today's farmer in Japan has nothing proper to wear. His
+One thing [[masanobu-fukuoka]]|Fukuoka always feels when working in the fields is
+that today's farmer in japan has nothing proper to wear. His
 reflections on clothing, born from practical farming
 experience and his European travels, reveal a philosophy that
 connects dress to civilization, agriculture, and the
@@ -76,8 +76,7 @@ probably had their origins in the plainer clothing farmers
 wear, such as the denchi and monpe.
 
 The farmer works in the service of God; his is an earnest
-struggle with the scythe and hoe. Both in theory and in
-practice, the samurai holding his sword and the farmer
+struggle with the scythe and hoe. Both in theory and in practice, the samurai holding his sword and the farmer
 swinging his scythe must be identical in spirit and
 attitude. Fukuoka demonstrated the correct use of the scythe
 and hoe at the Zen Center in California and at farms in
@@ -117,7 +116,7 @@ were to spread and be adopted as standard attire in Japan,
 the Japanese people would probably regain their tidy Japanese
 disposition.
 
-All the Japanese ever had to do was live in houses of wood,
+All the Japanese ever had to do was live in houses [[fungal-decomposition-of-wood]],
 earth, and paper, wear the doi, and drink tea. The revival
 of a Japanese people held in high esteem by the world
 begins with the geta at Fukuoka's feet; it begins with a

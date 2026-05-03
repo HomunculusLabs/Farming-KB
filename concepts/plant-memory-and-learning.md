@@ -113,7 +113,7 @@ signals from a stressed neighbor can prime the receiver's defenses.
 
 Habituation, the simplest form of learning recognized in animal
 psychology, also occurs in plants. Repeated exposure to a stimulus that
-proves harmless leads to a diminished response over time. Mimosa pudica,
+proves harmless leads to a diminished response over time. [[mimosa-pudica]],
 famous for its rapid leaf-folding response to touch, gradually stops
 closing its leaves when touched repeatedly if no harmful consequence
 follows. This behavioral adaptation persists for days and can be

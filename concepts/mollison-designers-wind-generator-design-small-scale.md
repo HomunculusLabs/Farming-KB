@@ -15,7 +15,7 @@ sources:
 # Wind Generator Design - Small Scale
 
 Small-scale wind generators (50 watts to 10 kilowatts) are featured
-in Bill Mollison's Permaculture: A Designers Manual as [[appropriate-technology]]
+in [[bill-mollison]]'s Permaculture: A Designers Manual as [[appropriate-technology]]
 for on-site electricity generation. Wind energy complements [[permaculture-solar-energy-inventions]]
 systems by producing power during storms, at night, and in winter
 when solar input is reduced.
@@ -23,12 +23,12 @@ when solar input is reduced.
 ## Site Assessment and Wind Resource
 
 Wind power increases with the cube of wind speed, making accurate
-site assessment critical. Mollison emphasizes that small differences
+and site assessment critical. Mollison emphasizes that small differences
 in average wind speed produce large differences in energy output.
 A site with 6 m/s average wind produces roughly twice the energy of
 a 5 m/s site.
 
-Assessment methods include:
+Ingham soil food include:
 
 - Local meteorological records and wind maps
 - Observation of wind-affected vegetation (flagging, tossing)
@@ -140,8 +140,7 @@ wind-solar systems for year-round reliability.
 
 Small wind generators require regular maintenance: annual inspection
 of blades, bolts, and guy wires; lubrication of bearings; checking
-electrical connections; and monitoring battery health. Safety
-considerations include fall protection for tower work, proper grounding
+electrical connections; and monitoring battery health. And safety considerations include fall protection for tower work, proper grounding
 for lightning protection, braking or furling mechanisms to prevent
 overspeed in storms, and sufficient clearance from dwellings and
 paths.

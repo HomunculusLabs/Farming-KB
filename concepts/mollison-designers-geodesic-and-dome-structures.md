@@ -12,8 +12,8 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 # Geodesic and Dome Structures
-Bill Mollison discusses geodesic and dome structures in Chapter 14 of
-Permaculture: A Designers' Manual as efficient enclosure forms that
+[[bill-mollison]] discusses geodesic and dome structures in Chapter 14 of
+permaculture: A Designers' Manual as efficient enclosure forms that
 minimise material use relative to enclosed volume. While acknowledging
 their engineering elegance, Mollison also provides candid assessment of
 practical limitations for permaculture applications.

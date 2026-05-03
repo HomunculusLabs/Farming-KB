@@ -22,12 +22,12 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 | Species | Notes |
 |---------|-------|
 | Paspalum monspeliensis (Beardgrass) | Slender tufted annual to 15 cm. Naturalised in WA. Salt tolerant where rainfall exceeds 450-500 mm |
-| Phalaris truncata (Canary Grass) | Short-lived self-seeding perennial, 350-1000 mm rainfall. Extremely resistant to water stress |
+| Phalaris truncata (Canary Grass) | Short-lived self seeding annuals perennial, 350-1000 mm rainfall. Extremely resistant to cervantes wilting plant |
 | Puccinellia ciliata, P. capillaris (Puccinellia) | Summer-dormant perennial, 350+ mm rainfall. Tolerant of winter waterlogging. Nutritionally equivalent to annual rye grass |
 | Lolium rigidum (Rye Grass) | Annual, 100-1200 mm rainfall. Seed heads can become toxic to animals |
 | Paspalum distichum (Salt-Water Couch) | Suited to summer-damp bogs and seepage areas. Tolerates water with up to 14,000 ppm total soluble salts |
 | Oryzopsis miliacea (Smilo) | Perennial clumped grass to 1 m. Survives on as little as 100-150 mm rainfall. Yields up to 12 t DM/ha/yr (protein 12-15%) |
-| Festuca elatior subsp. arundinacea (Tall Fescue) | Extremely water-stress resistant. Requires 350-400 mm minimum. Withstands high salinity. WARNING: Can cause lameness and death in cattle if fed in large quantities long-term |
+| Festuca elatior subsp. arundinacea (Tall Fescue) | Extremely water-stress resistant. Requires 350-400 mm minimum. Withstands high salinity. WARNING: Can cause lameness and death in cattle if fed in large quantities long term |
 | Agropyron elongatum (Tall Wheat Grass) | Native to southern Russia/Asia minor. Well adapted to poorly drained saline soils. Direct sown from seed |
 
 ## Salt Tolerant Legumes
@@ -47,7 +47,7 @@ Saltbushes concentrate salt onto their leaf surfaces and can remove salt from so
 | A. versicaria (Bladder Saltbush) | 60-70 cm | 11.1-18.4% | Adaptable to wide range of soils |
 | A. nummularia (Old Man Saltbush) | To 3 m | 17.0-21.9% | High nutritive value, all mainland states |
 | A. rhagodioides (River Saltbush) | To 1 m, 4 m spread | -- | Drought and frost hardy |
-| A. undulata (Wavy Leaf Saltbush) | 0.5 m tall, 2-3 m wide | -- | Provides 900 sheep grazing days/ha in 350 mm rainfall |
+| A. undulata (Wavy Leaf Saltbush) | 0.5 m tall, 2-3 m wide | -- | Provides 900 permaculture designers manual days/ha in 350 mm rainfall |
 | A. halimus (North African Saltbush) | -- | -- | -- |
 | A. canescens (Four Winged Saltbush) | 1-3 m | 18-20% | Endemic to North America, arid low toxicity |
 

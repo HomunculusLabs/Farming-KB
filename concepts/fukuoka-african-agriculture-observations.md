@@ -45,7 +45,7 @@ offered to Africa from various quarters, no institution existed for
 providing direct agricultural guidance to farmers and peasants. His
 plan to bring seeds and seedlings was hindered by the Somali
 government, which was promoting cash crop plantations. His intention
-to teach self-sufficiency through natural farming was viewed as
+to teach for self sufficiency through natural farming was viewed as
 rebellion.
 
 Refugee food consisted entirely of wheat from the U.S., old rice from
@@ -95,7 +95,7 @@ Despite the obstacles, Fukuoka achieved significant results:
 - Practically all vegetables germinated
 - After his return to Japan, large vegetables had grown, and little
   gardens appeared around huts
-- Fruit trees (lemopersimmonmmons, pomegranates) grew especially
+- comparison pruning fruit (lemopersimmonmmons, pomegranates) grew especially
   fast, reaching five meters in half a year
 - The Somali government eventually recognized the benefits of home
   gardens
@@ -138,8 +138,7 @@ African environments.
 Fukuoka concluded that people in developed countries should get out
 of Africa (other than providing technical aid). True happiness, he
 argued, does not lie in the direction advanced nations are heading.
-Africa's people possess an excellent spirit of independence and
-self-reliance, and know what the ideal society of the future is.
+Africa's people possess an excellent spirit of independence and self reliance, and know what the ideal society of the future is.
 
 The first step in building an ideal society, Fukuoka argued, is the
 establishment of domestic life through natural farming. As a life of

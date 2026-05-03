@@ -49,7 +49,7 @@ difficult to study in the absence of a plant partner.
 
 ## Symbiosis Development
 
-Development of the AM symbiosis is an intricate process. AM fungal spores
+Development of the AM symbiosis is an intricate process. AM [[fungal-spores]]
 germinate and hyphal germ tubes make contact with roots. The fungus
 differentiates on the epidermis, forming an appressorium through which it
 penetrates the root. Appressorium formation occurs only on root surfaces,

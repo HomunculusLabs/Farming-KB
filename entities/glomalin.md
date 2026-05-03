@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Glomalin is a glycoprotein produced by arbuscular mycorrhizal fungi (AMF) that plays a fundamental role in soil aggregation and carbon storage. Discovered in 1996 by Sara F. Wright at the USDA Agricultural Research Service, glomalin was initially extracted from hyphal walls of *Glomus intraradices* (now *Rhizophagus irregularis*), from which it derives its name. It is now recognized as a major component of soil organic matter, contributing 27% or more of total soil carbon in some ecosystems.
+Glomalin is a glycoprotein produced by [[arbuscular-mycorrhizal-fungi]] (AMF) that plays a fundamental role in soil aggregation and carbon storage. Discovered in 1996 by Sara F. Wright at the USDA Agricultural Research Service, glomalin was initially extracted from hyphal walls of *[[glomus-intraradices]]* (now *Rhizophagus irregularis*), from which it derives its name. It is now recognized as a major component of soil organic matter, contributing 27% or more of total soil carbon in some ecosystems.
 
 ## Chemical Properties
 
@@ -48,7 +48,7 @@ Global estimates suggest glomalin stores approximately 700 petagrams of carbon i
 Glomalin concentrations are significantly higher under no-till and conservation agriculture systems compared to conventionally tilled soils. Key management implications:
 
 - Conventional tillage disrupts hyphal networks and reduces glomalin inputs
-- Cover crops maintain active AMF populations during fallow periods
+- [[cover-crops]] maintain active AMF populations during fallow periods
 - Mycorrhizal host crops (most agricultural species) contribute to glomalin pools
 - Long-term monoculture with high phosphorus fertilization depletes glomalin reserves
 

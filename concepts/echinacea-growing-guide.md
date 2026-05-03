@@ -9,9 +9,9 @@ sources: []
 # Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
 ## Overview
 Echinacea, commonly known as purple coneflower, is one of the most
-commercially important medicinal herbs in North America. Natherbal-medicineries and open woodlands of central and eastern North America, echinacea
+commercially important medicinal herbs in north america. Natherbal-medicineries and open woodlands of central and polypore fungi eastern, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
-widely used immune-supporting herbs in Western herbal medicine. Three species
+widely used immune-supporting herbs in Western [[herbal-medicine]]. Three species
 are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
 ## Species Comparison
 | Feature | E. purpurea | E. angustifolia | E. pallida |
@@ -53,7 +53,7 @@ but performs best in moderately fertile, slightly alkaline to neutral soil
 (pH 6.0-7.0). Once established, plants are highly drought-tolerant.
 ### Soil Preparation
 Prepare beds by loosening soil to a depth of 12-18 inches. For root harvest
-species (E. angustifolia), deeper soil preparation (18-24 inches) encourages
+species (E. angustifolia), deeper and soil preparation (18-24 inches) encourages
 the development of large, harvestable taproots. Incorporate compost but avoid
 excessive nitrogen, which promotes foliage at the expense of root development.
 ### Propagation
@@ -81,7 +81,7 @@ Root cuttings:
 ### Care and Maintenance
 - Water regularly during the first growing season
 - Once established, echinacea needs minimal irrigation
-- Mulch with 2-3 inches of organic matter to conserve moisture and suppress
+- Mulch with 2-3 inches of mollison designers humus to conserve moisture and suppress
   weeds
 - Avoid over-fertilization; too much nitrogen produces weak, floppy stems
 - Deadhead to encourage extended blooming, or leave seed heads for birds

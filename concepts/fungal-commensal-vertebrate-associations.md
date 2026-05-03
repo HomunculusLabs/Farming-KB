@@ -19,8 +19,7 @@ type: concept
 Commensal organisms primarily colonize keratinized or mucous-covered
 animal surfaces and often use host secretions from the skin (such as
 sebum) or vagina, or gut materials such as oral or buccal cavity food
-residues and fecal material. The boundary between commensalism and
-pathogenicity in fungi associated with vertebrates is fluid; a
+residues and fecal material. The boundary between commensalism and pathogenicity in fungi associated with vertebrates is fluid; a
 commensal or ordinarily harmless environmental fungus may become
 pathogenic with changes in the immunological or ecological status of
 the animal host.
@@ -60,7 +59,7 @@ to clearance by the immune system in certain body sites.
 can exist as a commensal in the gastrointestinal tract, oral cavity,
 and vaginal mucosa of healthy individuals without causing disease.
 However, disruption of the normal microbiota, immunosuppression, or
-breaches of mucosal barriers can lead to opportunistic infections
+breaches of mucosal barriers can lead to blesching cannabis aids
 ranging from superficial mucocutaneous candidiasis to life-threatening
 systemic disease.
 
@@ -74,7 +73,7 @@ superficial infection of hair shafts.
 
 ## Filamentous Fungi as Commensals
 
-Truly commensal, purely filamentous fungi have not been encountered.
+Truly commensal, purely fungal biosorption heavy have not been encountered.
 The filamentous growth habit involves substratum penetration, which
 may activate additional immune responses in vertebrates. Also,
 filamentous growth is spatially inappropriate for close packing within
@@ -93,7 +92,7 @@ of the respiratory tract, the gut, and the skin. These include:
 
 - Common airborne spores of environmental fungi inhaled into the
   respiratory tract
-- Soil fungi ingested with food and transiently passing through the
+- biodiversity fungi saprobic ingested with food and transiently passing through the
   gastrointestinal tract
 - Fungal propagules deposited on skin surfaces from environmental
   contact

@@ -46,7 +46,7 @@ from around the world. The company is known for creating strains that blend
 rare landrace genetics with established modern varieties. Their Gold Star
 Genetics collection represents some of their most sought-after work, and
 Goldstar stands as a notable example of their ability to bridge the gap
-between old-world sativas and contemporary breeding.
+between old world hallucinogenic sativas and contemporary breeding.
 
 ## Growing Characteristics
 
@@ -60,7 +60,7 @@ varieties and beneficial for indoor and greenhouse growers. Key traits include:
   outdoors)
 - **Yield**: Described as "nothing short of incredible," with heavy bud
   production
-- **Growth pattern**: Very vigorous vegetative growth, minimal stretch
+- **Growth pattern**: Very vigorous [[green-cannabis-vegetative-growth]], minimal stretch
 - **Recommended setup**: Organic cultivation preferred, as parent plants were
   created in a fully organic environment
 - **Climate preference**: Warm environments bring out a richer terpene
@@ -76,7 +76,7 @@ process is essential due to the thickness of the buds.
 ## Aroma and Flavor
 
 Goldstar buds are noted for their exceptional bag appeal and distinctive
-aroma profile. After proper drying and curing, the flowers emit a beautiful
+aroma profile. After proper [[cannabis-drying-and-curing]], the flowers emit a beautiful
 mint and pine fragrance that is both refreshing and complex. The combination
 of the turpentine notes from the Sensi Star parent and the exotic terpene
 profile of the Malawi Gold creates a multi-layered sensory experience. When
@@ -121,4 +121,4 @@ experience.
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - terpenes - Aromatic compounds in cannabis
 - [[cannabis-landrace-strains]] - Information on landrace cannabis varieties
-- malawi-gold - The legendary African sativa landrace
+- malawi-gold - The legendary African and geographic origins

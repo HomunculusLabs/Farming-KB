@@ -55,7 +55,7 @@ If your homestead has landline phone service, DSL may be available:
 - Speeds typically 3-25 Mbps depending on distance from the telephone exchange
 - Limited by copper wire infrastructure
 - Declining availability as phone companies abandon copper networks
-- Low cost ($30-50/month)
+- mushroom growing house ($30-50/month)
 ## Amateur (Ham) Radio
 Ham radio is the most reliable communication method during disasters. It requires no infrastructure — stations communicate directly with each other using radio waves. A license is required from the FCC (in the US) but is easy to obtain.
 ### License Levels

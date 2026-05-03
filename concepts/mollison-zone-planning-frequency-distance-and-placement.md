@@ -27,7 +27,7 @@ relation to any one component, and hence its proper zone.
 ## Zone 1
 Zone 1 is the area of most intensive management, closest to
 the house. It contains elements needing frequent attention:
-the kitchen garden, culinary herbs, small animals, seedling
+the and kitchen garden, culinary herbs, small animals, seedling
 nurseries, propagation areas, and [[composting-systems]].
 In Zone 1, we are information developers. We tend the most
 intensive systems, use complete sheet mulch, and manage
@@ -96,8 +96,7 @@ zones for visits" or "time zones."
 As distance from the centre increases:
 - Main design shifts from house climate to gathering,
   forage, forestry, and pasture.
-- Plant establishment shifts from complete sheet mulch to
-  soil conditioning only.
+- Plant establishment shifts from complete sheet mulch to soil conditioning only.
 - Tree management shifts from intensive cup or espalier to
   unpruned and thinned to seedlings.
 - Pruning shifts from intensive cup and espalier to pyramid

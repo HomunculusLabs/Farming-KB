@@ -60,7 +60,7 @@ with bulb, reflector, ballast, and timer. **If you want to grow good
 bud then you need a HID.** A HID is the second most important purchase
 you will make, next to choosing your strain.
 
-**Metal Halide (MH):** Used for seedling and vegetative growth stages.
+**Metal Halide (MH):** used for seedling and vegetative growth stages.
 Can also be used for flowering. Range: 75W-4000W. Very common and a
 good kit for indoor growers. Gives off a blue tone. Better veg lamp.
 

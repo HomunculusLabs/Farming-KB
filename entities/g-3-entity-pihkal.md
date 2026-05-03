@@ -52,7 +52,7 @@ member of this series (2C-G versus GANESHA) this was a stand-off, both
 as to quantitative effects (potency) and qualitative effects (nature
 of activity). Here, with the somewhat bulkier group located at the
 definitive 3,4-positions, the nod is to the shorter chain, for the
-first time ever. The potency differences are small, and maybe the
+first time grower ever. The potency differences are small, and maybe the
 amphetamine is still a bit more potent. But there are hints of
 discomfort with this latter compound that seem to be absent with the
 phenethylamine. The more highly substituted compounds (q.v.) more
@@ -99,7 +99,7 @@ mp of 157-159 deg C. Anal. (C14H22ClNO2) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna tryptamine research varies by jurisdiction.
 
 ## See Also
 

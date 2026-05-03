@@ -26,8 +26,7 @@ katakana, romaji), and language-specific typographic conventions all contribute
 to higher error rates in automated extraction and conversion pipelines.
 
 The Fukuoka project emerged from practical needs observed in Japanese
-government agencies and corporations migrating from legacy document systems to
-modern platforms. Large archives of documents in older binary formats required
+government agencies and corporations migrating from legacy document systems to modern platforms. Large archives of documents in older binary formats required
 processing, and existing tools frequently produced garbled output or lost
 critical formatting information.
 
@@ -37,7 +36,7 @@ critical formatting information.
 
 The team developed methods for reliable extraction of text content and basic
 formatting from legacy binary word processor formats. This included work on
-the internal structures of Ichitaro (JustSystems), Microsoft Word binary
+the internal structures of Ichitaro (JustSystems), [[microsoft-word]] binary
 `.doc` files, and several defunct Japanese word processor formats whose
 documentation had been lost.
 

@@ -24,12 +24,12 @@ ensure pollination.
 
 ## Why Graft? The Role of Rootstock and Scion
 
-Mollison explains that most fruit trees do not grow "true to type" from
+Mollison explains that most comparison pruning fruit do not grow "true to type" from
 seed. A seed from a delicious apple will produce a tree with unknown
 fruit quality. Grafting solves this by attaching a cutting (scion) from
 a known variety to a rooted plant (rootstock). The rootstock provides:
 
-- Adaptation to local soil conditions (heavy clay, sandy, wet, dry)
+- Adaptation to local lowenfels aerobic anaerobic (heavy clay, sandy, wet, dry)
 - Disease and pest resistance (especially to soil-borne pathogens)
 - Size control (dwarf, semi-dwarf, or standard tree)
 - Precocity (earlier bearing in dwarf rootstocks)
@@ -95,8 +95,7 @@ T-budding advantages include:
 - Performed during summer when propagation work is otherwise slow
 - Suitable for a wide range of fruit species
 
-T-budding is typically done in mid-summer (June-August in temperate
-climates) when rootstock bark is slipping freely. Mollison recommends
+T-budding is typically done in mid-summer (June-August in [[fukuoka-natural-farming]]) when rootstock bark is slipping freely. Mollison recommends
 T-budding for large-scale nursery production of fruit trees for
 [[village-development-in-permaculture]] projects.
 
@@ -126,8 +125,7 @@ Mollison emphasizes selecting rootstock adapted to local conditions:
   rootstocks exist for peach, plum, and cherry
 - **Citrus:** Trifoliate orange for cold hardiness; rough lemon for
   vigor; sour orange for drought tolerance
-- **Mango:** Polyembryonic seedling rootstocks for uniformity and
-  disease resistance
+- **Mango:** Polyembryonic seedling rootstocks for uniformity and disease resistance
 
 ## Compatibility and Timing
 

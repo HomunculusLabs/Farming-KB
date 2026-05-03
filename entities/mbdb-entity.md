@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-MBDB is an empathogenic compound closely related to mdma-entity|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[alexander-shulgin]] as part of the "Muni Metro" system of systematically varying the aliphatic chain length in the MD-series.
+MBDB is an empathogenic compound closely related to [[mdma-entity]]|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[alexander-shulgin]] as part of the "Muni Metro" system of systematically varying the aliphatic chain length in the MD-series.
 
 ## Dosage
 
@@ -75,7 +75,7 @@ MBDB has been explored as a potential non-neurotoxic alternative to MDMA for psy
 ## Related Compounds
 
 - mdma-entity|MDMA — alpha-methyl homologue, more potent and stimulating
-- mda-entity|MDA — N-demethylated, more psychedelic
-- mde-entity|MDE — N-ethyl homologue of MDMA
+- [[mda-entity]]|MDA — N-demethylated, more psychedelic
+- [[mde-entity]]|MDE — N-ethyl homologue of MDMA
 - 2c-b-entity|2C-B — phenethylamine analogue, more psychedelic
 - [[mdai-entity]]

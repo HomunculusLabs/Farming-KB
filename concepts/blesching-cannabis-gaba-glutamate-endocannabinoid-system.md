@@ -32,7 +32,7 @@ implicated in:
 - Muscle spasms (insufficient motor neuron inhibition)
 
 Benzodiazepines and barbiturates work primarily by enhancing GABA-A receptor
-activity, which explains both their therapeutic effects and their
+activity, which explains both their cervantes terpenoid pharmacology and their
 significant side effect and dependence profiles.
 
 ## Glutamate: The Primary Excitatory Neurotransmitter
@@ -120,7 +120,7 @@ through multiple mechanisms:
 - Enhancement of adenosine signaling, which inhibits glutamate release
 - Antioxidant properties that protect neurons from glutamate-induced
   oxidative damage
-- Anti-inflammatory effects that reduce microglial glutamate release
+- medicinal mushroom antioxidant effects that reduce microglial glutamate release
 
 These neuroprotective properties make CBD a candidate for conditions
 involving excitotoxic damage, including traumatic brain injury,
@@ -138,8 +138,7 @@ This finding is relevant to cannabinoid therapeutics because:
 
 - Both yoga and cannabis enhance GABAergic tone through different
   mechanisms, suggesting synergistic potential.
-- Yoga may be recommended as a complementary practice to reduce cannabis
-  dosing requirements.
+- Yoga may be recommended as a complementary practice to reduce by condition requirements.
 - The combination addresses both the neurochemical (cannabis) and
   somatic/breathing (yoga) dimensions of stress and anxiety management.
 - Regular yoga practice may help restore endocannabinoid function,

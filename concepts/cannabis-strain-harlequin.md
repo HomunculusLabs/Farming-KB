@@ -54,9 +54,9 @@ genetics. It can be kept to a manageable height or allowed to reach its full
 potential, giving growers flexibility in their approach. Key cultivation
 details include:
 
-- **Flowering time**: 70 days from the flip to 12/12 light cycle
+- **Flowering time**: 70 days from the flip to 12/green cannabis photoperiod
 - **Drying time**: Approximately 3 weeks due to heavy resin content and dense
-  bud structure
+  green cannabis plant
 - **Growth pattern**: Taller than indica but easily managed; strong structure
 - **Bud formation**: Flowers begin forming as early as 2 weeks after the flip
   to flowering, with finger-length flowers reported by the breeders
@@ -95,15 +95,14 @@ potentially effective for:
 
 - Pain management without significant psychoactive effects
 - Anxiety reduction
-- Anti-inflammatory applications
+- [[cannabis-anti-inflammatory-applications]]
 - Seizure disorder management (CBD's anti-convulsant properties)
 - Producing therapeutic hash and oils for patient use
 
 ## Potency
 
 Harlequin has a unique cannabinoid profile with approximately 2% THC and 4%
-CBD. This inverse ratio, where CBD exceeds THC, is relatively rare in
-cannabis strains and is the defining characteristic that makes Harlequin
+CBD. This inverse ratio, where CBD exceeds THC, is relatively rare in cannabis strains and is the defining characteristic that makes Harlequin
 valuable for medical applications.
 
 ## Classification

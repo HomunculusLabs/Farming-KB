@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
 
 # Wade Davis (1953–)
 
-Edmund Wade Davis is a Canadian anthropologist, ethnobotanist, author, and photographer whose work has significantly advanced the understanding of Indigenous knowledge systems, psychoactive plant use, and the relationship between cultural diversity and biological diversity. A student of Richard Evans Schultes at Harvard University, Davis has continued and expanded upon his mentor's legacy of ethnobotanical fieldwork and advocacy for the preservation of traditional plant knowledge.
+Edmund Wade Davis is a Canadian anthropologist, ethnobotanist, author, and photographer whose work has significantly advanced the understanding of Indigenous knowledge systems, psychoactive plants gods overview, and the relationship between cultural diversity and biological diversity. A student of [[richard-evans-schultes]] at Harvard University, Davis has continued and expanded upon his mentor's legacy of ethnobotanical fieldwork and advocacy for the preservation of traditional of plant knowledge.
 
 ## Early Life and Education
 
@@ -25,13 +25,13 @@ While the book's specific pharmacological claims have been debated, its broader 
 
 ## Ethnobotanical Research in the Amazon
 
-Davis's Amazonian research represents some of the most important fieldwork in modern ethnobotany. He documented the preparation and use of numerous psychoactive plants, including varieties of Ayahuasca (*Banisteriopsis caapi*) used by different Indigenous groups, the preparation of *Virola* snuffs, and the ritual use of other psychoactive species.
+Davis's Amazonian research represents some of the most important fieldwork in modern ethnobotany. He documented the and use of numerous psychoactive plants, including varieties of Ayahuasca (*[[banisteriopsis-caapi]]*) used by different Indigenous groups, the preparation of *Virola* snuffs, and the ritual use of other psychoactive species.
 
 His work emphasized that psychoactive plant use was not merely about pharmacology but was embedded in complex systems of ecological knowledge, healing practice, cosmology, and social organization. Indigenous peoples' understanding of these plants encompassed not only their psychoactive properties but also their growth habits, ecological relationships, preparation methods, and appropriate ceremonial contexts.
 
 ## One River: A Legacy of Ethnobotanical Exploration
 
-In *One River: Explorations and Discoveries in the Amazon Rain Forest* (1996), Davis wove together three narratives: the story of Richard Evans Schultes's pioneering Amazonian expeditions beginning in the 1940s; the story of his own fieldwork in the same region decades later; and the story of Tim Plowman, a Harvard colleague who studied coca (*Erythroxylum coca*) and its traditional uses.
+In *One River: Explorations and Discoveries in the Amazon Rain Forest* (1996), Davis wove together three narratives: the story of Richard Evans Schultes's pioneering Amazonian expeditions beginning in the 1940s; the story of his own fieldwork in the same region decades later; and the story of Tim Plowman, a Harvard colleague who studied coca (*[[erythroxylum-coca]]*) and its traditional uses.
 
 The book is both a biography of Schultes and a meditation on the destruction of Amazonian ecosystems and the erosion of Indigenous knowledge systems that accompanied it. Davis documented how the cultural and botanical richness that Schultes had encountered was being rapidly destroyed by deforestation, colonization, and cultural assimilation.
 

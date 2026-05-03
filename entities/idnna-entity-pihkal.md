@@ -23,7 +23,7 @@ PIHKAL entry #90. 2,5-DIMETHOXY-N,N-DIMETHYL-4-IODOAMPHETAMINE.
 
 ## Qualitative Comments
 
-No qualitative comments available in source.
+No [[qualitative-comments-methodology-pihkal]] available in source.
 
 ## Extensions and Commentary
 
@@ -103,7 +103,7 @@ this base proved to be hygroscopic.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna tryptamine research varies by jurisdiction.
 
 ## See Also
 

@@ -7,7 +7,7 @@ tags: [homesteading, water, water-management, equipment, engineering]
 sources: []
 ---
 # Basic Plumbing for Homestead
-Homestead plumbing ranges from simple gravity-fed water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, and troubleshooting saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
+Homestead plumbing ranges from simple gravity-fed and water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, and troubleshooting saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
 ## Piping Materials
 ### PEX (Cross-Linked Polyethylene)
 PEX has become the standard for residential and homestead plumbing due to its flexibility, ease of installation, and freeze resistance.
@@ -26,7 +26,7 @@ PEX has become the standard for residential and homestead plumbing due to its fl
 - Connect using crimp rings (copper rings compressed with a crimp tool) or expansion fittings (PEX-A only)
 - Inspect every crimp ring with a go/no-go gauge after installation
 - Support PEX every 32 inches horizontally, every 4-6 feet vertically
-**Where to use:** Interior water supply lines, hot and cold distribution. Not recommended for outdoor exposed runs (UV degrades it).
+**Where to use:** Interior for water supply lines, hot and cold distribution. Not recommended for outdoor exposed runs (UV degrades it).
 ### Copper
 Traditional plumbing material with a proven track record spanning decades.
 **Advantages:**
@@ -52,7 +52,7 @@ Traditional plumbing material with a proven track record spanning decades.
 ### PVC and CPVC
 Rigid plastic piping for drainage and (CPVC only) hot water supply.
 **PVC (Polyvinyl Chloride):**
-- Used for drain, waste, and vent (DWV) lines
+- used for drain, waste, and vent (DWV) lines
 - White or gray color
 - Solvent-welded with PVC cement (purple primer + cement)
 - Schedule 40 for most residential applications

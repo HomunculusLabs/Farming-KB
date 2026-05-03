@@ -66,7 +66,7 @@ Even a flawless reversible engine still has to reject heat unless its cold reser
 Real engines generate entropy internally.
 Friction converts organized motion into heat.
 Combustion occurs irreversibly through mixing and chemical reaction.
-Heat transfer requires finite temperature differences, which destroy available work.
+[[heat-transfer-mechanisms]] requires finite temperature differences, which destroy available work.
 Turbines, pistons, pumps, compressors, valves, seals, and ducts all have mechanical or fluid losses.
 Steam plants have pressure drops in boilers, reheaters, condensers, and piping.
 Internal-combustion engines lose heat through cylinder walls and exhaust.

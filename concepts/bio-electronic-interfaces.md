@@ -19,7 +19,7 @@ with no practical utility.
 
 A typical bio-electronic interface consists of three layers:
 
-1. **Biological layer**: The living organism (mycelium, slime mold, plant,
+1. **Biological layer**: The living organism (mycelium, [[slime-mold-computation]], plant,
    bacterial colony) performing computation in its native medium.
 2. **Transduction layer**: Converts between biological signals (ionic currents,
    chemical gradients, mechanical changes) and electronic signals (voltage,
@@ -122,8 +122,7 @@ Processing biological signals typically involves:
 The field remains largely experimental. No standardized interface protocols
 exist, and most systems are custom-built for specific experiments. Signal
 processing pipelines are borrowed from neuroscience (spike sorting, LFP
-analysis) and adapted for the slower, noisier signals produced by fungal
-networks. Commercial applications do not yet exist.
+analysis) and adapted for the slower, noisier signals produced by to fungal networks. Commercial applications do not yet exist.
 
 ## See Also
 

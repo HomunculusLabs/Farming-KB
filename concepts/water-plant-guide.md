@@ -40,7 +40,7 @@ Floating leguminous plant native to Asia, Africa, and tropical America. Grown in
 Perennial floating plant, native to Europe, India, and eastern Asia. Grows in 0.3-1 m water depth, about 9 species from tropical to temperate. Spiny fruit kernels are edible.
 
 ### Water Lilies (Nymphaea alba, N. gigantea, N. odorata, N. tetragona)
-Root in mud, leaves float on water (depths up to 1.5 m). Roots are edible. *N. alba* used as pig feed in Europe.
+Root in mud, leaves float on water (depths up to 1.5 m). Roots are edible. *N. alba* used as pig feed in europe.
 
 ## Emergent Plants
 

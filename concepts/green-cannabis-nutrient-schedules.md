@@ -15,13 +15,13 @@ From [[greg-green]]'s *The Cannabis Grow Bible* (4th ed.), Chapters 5 and 6.
 ## NPK: The Primary Nutrients
 
 The three major nutrients needed in soil for marijuana to grow well are
-Nitrogen (N), Phosphorus (P), and Potassium (K). These are stated as
+Nitrogen (N), Phosphorus (P), and potassium (K). These are stated as
 NPK ratios on fertilizer labels, such as 20:20:20 (meaning 20% N, 20%
 P, 20% K, with the remaining percentage being other elements).
 
 ## Secondary Supplements
 
-In addition to NPK, secondary nutrients are needed:
+In addition to NPK, and secondary nutrients are needed:
 - Calcium (Ca)
 - Magnesium (Mg)
 - Sulfur (S)
@@ -43,7 +43,7 @@ lockout occurs):
 
 ## Vegetative Phase Nutrient Schedule
 
-Cannabis plants like good levels of Nitrogen and normal levels of
+cannabis plants like good levels of Nitrogen and normal levels of
 Phosphorus and Potassium during vegetative growth.
 
 **Recommended NPK ratios for vegetative growth:**

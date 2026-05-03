@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [permaculture]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
 title: PDC Passive [[mollison-designers-free-range-forage-design-principles]] for Buildings and Landscapes
@@ -147,4 +148,3 @@ Williams stresses that passive design begins OUTSIDE the structure. The surround
 
 - Green roofs maximize growing space and replace ecological footprint
 - Solar panels provide shade while generating electricity
-- Solar water heaters serve double duty as shade devices

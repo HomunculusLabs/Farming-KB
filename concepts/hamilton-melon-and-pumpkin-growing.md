@@ -48,8 +48,7 @@ degrees F (21 to 24 degrees C). Plant about 12 to 18in (30 to 45cm)
 apart in a well-manured border or, ideally, a hot bed. Alternatively,
 grow in growing bags or pots with careful watering. In a cold house,
 plant out in mid-spring. Pinch off the growing point to keep only two
-true leaves. A week later, two sideshoots will grow; allow them to
-grow on the ground or train up wires. Stop these shoots after seven
+true leaves. A week later, two sideshoots will grow; allow them to grow on the ground or train up wires. Stop these shoots after seven
 to ten leaves. When embryo fruits appear, stop two leaves past the
 fruit and allow only about five fruits to develop per plant.
 
@@ -58,8 +57,7 @@ they ripen. Melons may bruise or split if they fall to the ground.
 Allow insects access to the greenhouse for pollination. Spray over
 the leaves and wet down the paths each morning, except when fruit is
 ripening, when the atmosphere should be kept dry with free ventilation.
-Feed with liquid fertilizer at each watering throughout the growing
-season.
+Feed with liquid fertilizer at each watering throughout growing season.
 
 ## Pumpkin Varieties and Cultivation
 
@@ -74,7 +72,7 @@ shapes, sizes, and flavors.
 
 All pumpkins and winter squashes need a well-manured soil, so dig in
 plenty of compost or manure. They prefer a pH of about 6.0. In the
-three-year crop rotation plan, grow them in Plot A. Sow inside at
+hamilton three year plan, grow them in Plot A. Sow inside at
 about 65 degrees F (18 degrees C) in mid-spring, two seeds per 3in
 (8cm) pot. Most winter squashes are trailing varieties requiring a
 lot of room, so plant out at least 3ft (90cm) apart when all danger
@@ -86,8 +84,7 @@ two weeks before the last expected frost.
 Feed pumpkins with liquid animal-manure fertilizer at two-week
 intervals from midsummer to early fall. There is no need to remove
 male flowers from pumpkins, unlike some other cucurbits. Pinch back
-the trailing stems regularly to keep the plants in check and prevent
-them from smothering neighboring crops. Ensure the plants receive
+the trailing stems regularly to keep the plants in check and prevent them from smothering neighboring crops. Ensure the plants receive
 plenty of sunshine throughout the growing season.
 
 Leave winter squashes on the plant as long as possible while there is

@@ -31,13 +31,13 @@ Oral active dosage: approximately 160 mg and above.
 
 Intravenous dosage producing mescaline-like effects: approximately 0.04 mM/kg.
 
-The compound appears to have moderate potency, falling somewhere between mescaline-entity|mescaline and mda-entity|MDA when administered orally.
+The compound appears to have moderate potency, falling somewhere between [[mescaline-entity]]|mescaline and [[mda-entity-pihkal]]|MDA when administered orally.
 
 Duration is not well characterized but appears to be moderate.
 
 ## Qualitative Effects
 
-The qualitative comments for 3,4-DMA come from clinical studies, not from Shulgin's research group.
+The [[qualitative-comments-methodology-pihkal]] for 3,4-DMA come from clinical studies, not from Shulgin's research group.
 
 At 0.004 mM/kg intravenously, patients exhibited only "slight increase in psychiatric symptoms."
 
@@ -81,7 +81,7 @@ An alternative synthesis route using n-amylamine as a catalyst instead of ammoni
 
 ## Essential Oils Connection
 
-3,4-DMA is classified as one of the "Ten Essential Amphetamines," meaning it can theoretically arise from the amination of one of the ten essential oils found in the spice and herb trade.
+3,4-DMA is classified as one of the "Ten and natural precursors," meaning it can theoretically arise from the amination of one of the ten essential oils found in the spice and herb trade.
 
 In this case, the essential oil precursors are methyl eugenol and methyl isoeugenol.
 
@@ -113,7 +113,7 @@ The military studies used intravenous administration, which is significantly mor
 
 The high doses required for oral activity (160+ mg) produce significant cardiovascular effects including tremors and mydriasis.
 
-The compound has not been studied for long-term toxicity or neurotoxicity.
+The compound has not been studied for long term toxicity or neurotoxicity.
 
 ## Index
 

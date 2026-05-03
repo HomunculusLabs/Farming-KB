@@ -46,7 +46,7 @@ PIHKAL entry #56. 2-(2,5-DIMETHOXY-4-METHYLPHENYL)CYCLOPROPYLAMINE.
 
 Most of the human trials took place in the fifteen to twenty milligram range. Several reports describe some muscular tremor, especially in the earliest part of the experience, but this never seemed to be a concern. The efforts to lock imagery to music were not too successful. All of these clinical studies were conducted on the trans-compound, but on the racemic mixture. This has
 
-been resolved into the two optical isomers, but they have not been compared in man. The cis-mixture is unknown.
+been resolved into the two [[optical-isomers-psychedelic-phenethylamines]], but they have not been compared in man. The cis-mixture is unknown.
 
 This material is intimately related to tranylcypromine, a clinically proven antidepressant. This drug is a known monoamine oxidase inhibitor, and it is certainly possible that some of this pharmacological property might be found in DMCPA if it were to be looked for. The hints of physical toxicity at the higher doses assayed might suggest some such activity.
 
@@ -60,7 +60,7 @@ In a cooled high-pressure reaction vessel there was placed a suspension of 30 g 
 
 The cyclopropane ester was prepared by the reaction between 16 g (t)-butyl 2,5-dimethoxy-4-methylcinnamate and dimethylsulfoxonium methylide, prepared as described in the Kaiser reference in the acknowledgements. Hydrolysis of this ester gave 53% trans-2-(2,5-dimethoxy-4-methylphenyl)cyclopropanecarboxylic acid which, after recrystallization from a MeOH/H2O mixture, had a mp of 136 deg C. Anal. (C13H16O4) C,H.
 
-A suspension of 4 g of trans-2-(2,5-dimethoxy-4-methylphenyl)cyclopropanecarboxylic acid in an equal volume of H2O, was treated with sufficient acetone to effect complete solution. This was cooled to 0 deg C and there was added, first, 2.0 g triethylamine in 35 mL acetone, followed by the slow addition of 2.5 g ethyl chloroformate in 10 mL acetone. This was stirred for 0.5 h, and then there was added a solution of 1.7 g NaN3 in 6 mL H2O, dropwise. After 1 h stirring at 0 deg C, the mixture was quenched by pouring into H2O at 0 deg C. The separated oil was extracted with Et2O, and extracts dried with anhydrous MgSO4. Removal of the
+A suspension of 4 g of trans-2-(2,5-dimethoxy-4-methylphenyl)cyclopropanecarboxylic acid in an equal volume of H2O, was treated with sufficient acetone to effect complete solution. This was cooled to 0 deg C and there was added, first, 2.0 g triethylamine in 35 mL acetone, followed by the slow addition of 2.5 g ethyl chloroformate in 10 mL acetone. This was stirred for 0.5 h, and then there was added a solution of 1.7 g NaN3 in 6 mL H2O, dropwise. After 1 h stirring at 0 deg C, the mixture was quenched by pouring into H2O at 0 deg C. The separated oil was extracted with Et2O, [[cannabis-concentrates-and-extracts]] dried with anhydrous MgSO4. Removal of the
 
 solvent under vacuum gave a residue of the azide, which was dissolved in 10 mL anhydrous toluene. This solution was heated on the steam bath until the nitrogen evolution was complete, and the removal of the solvent under vacuum gave a residue of crude isocyanate as an amber oil. This intermediate isocyanate was dissolved in 5.4 g benzyl alcohol and the reaction mixture was heated on the steam bath for 6 h. The excess benzyl alcohol was removed by distillation, yielding trans-2-(2,5-dimethoxy-4-methylphenyl)carbobenzoxyamidocyclopropane as a crystalline residue. This was recrystallized from an EtOAc/hexane mixture to give 6.13 g of a crystalline product with a mp of 107-108 deg C. Anal. (C20H23NO4) C,H,N.
 
@@ -70,8 +70,7 @@ A solution of 1.5 g trans-2-(2,5-dimethoxy-4-methylphenyl)carbobenzoxyamidocyclo
 
 ## Safety Notes
 
-DMCPA is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+DMCPA is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

@@ -20,7 +20,7 @@ Both 2-row and 6-row barley (*Hordeum vulgare*) are the primary cereal grains us
 
 ## Enzyme Content and Diastatic Power
 
-This is the single most important functional difference for brewers.
+This is the single most important functional difference [[fermentation-microbiology-for-brewers]].
 
 | Parameter | 2-Row Barley | 6-Row Barley |
 |---|---|---|
@@ -64,7 +64,7 @@ Brewers compensating with 6-row malt typically employ protein rests during mashi
 | Heat tolerance | Lower | Higher |
 | Disease resistance | Varies by variety | Generally hardier |
 | Malting yield | Higher (more extract) | Lower |
-| Growing regions | Europe, Pacific Northwest | Upper Midwest US |
+| Growing regions | Europe, psilocybin north america | Upper Midwest US |
 
 6-row barley's agronomic advantages made it economically compelling for large-scale American brewing. It yielded more grain per acre and tolerated conditions where 2-row struggled. However, the lower malting extract (less fermentable sugar per pound of grain) partially offsets the yield advantage.
 

@@ -12,7 +12,7 @@ tags: [reference]
 
 ## The Root Cellar as Essential Infrastructure
 
-Steve Solomon treats root cellaring as a fundamental component of
+[[steve-solomon]] treats root cellaring energy as a fundamental component of
 self-sufficient food production. In climates where winter prevents fresh
 harvesting, the root cellar bridges the gap between growing seasons. He stores a
 wide range of crops there, from root vegetables to biennial seed stock.
@@ -87,12 +87,12 @@ cellaring:
 special equipment beyond screens and dry air.  - **Fermentation:** Sauerkraut
 from cabbage, pickles from cucumbers. Requires salt and containers but no energy
 input.  - **Freezing:** Convenient but dependent on reliable electricity -- a
-significant risk for true self-sufficiency.  - **Canning:** Effective but
+significant risk for true for self sufficiency.  - **Canning:** Effective but
 energy-intensive and requires specialized equipment.
 
 For the serious self-sufficient gardener, Solomon clearly favors root cellaring
 as the primary preservation method because it requires no ongoing energy input
-and is the most reliable long-term storage solution.
+and is the most reliable [[mushroom-long-term-storage]] solution.
 
 ## The Broader Preservation Strategy
 

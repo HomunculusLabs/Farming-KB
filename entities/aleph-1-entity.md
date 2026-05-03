@@ -17,7 +17,7 @@ sources:
 
 ALEPH was probably the first sulfur-containing phenethylamine evaluated as a CNS stimulant or psychedelic. Named after the first letter of the Hebrew alphabet, the ALEPH family represents the original exploration of thio-substituted amphetamines. The 2-carbon homologues of ALEPH became the far more thoroughly explored 2c-t-2-entity|2C-T family.
 
-The original name DOT (desoxy- with a thiomethyl group at the 4-position) follows the dom-entity|DOM naming convention. ALEPH is specifically the *para*-isomer (4-position substitution); two positional isomers are cataloged as ORTHO-DOT and META-DOT.
+The original name DOT (desoxy- with a thiomethyl group at the 4-position) follows the [[dom-entity]]|DOM naming convention. ALEPH is specifically the *para*-isomer (4-position substitution); two positional isomers are cataloged as ORTHO-DOT and META-DOT.
 
 The compound was a complete unknown when first explored — no sulfur-containing phenethylamine had ever been evaluated as a psychoactive substance. The extreme caution of the initial bioassay reflects this uncertainty.
 
@@ -101,7 +101,7 @@ This erratic dose-response relationship led to the abandonment of systematic exp
 
 ## Structure-Activity Relationships
 
-ALEPH represents the 3-carbon (amphetamine) analogue of 2c-t-2-entity|2C-T, carrying a methylthio group at the 4-position of the 2,5-dimethoxyphenyl ring. Compared to the classic DO-series compounds (dom-entity|DOM, dob-entity|DOB, doi-entity|DOI), which carry alkyl or halogen substituents at the same position, ALEPH introduces a sulfur atom as the linking heteroatom.
+ALEPH represents the 3-carbon (amphetamine) analogue of 2c-t-2-entity|2C-T, carrying a methylthio group at the 4-position of the 2,5-dimethoxyphenyl ring. Compared to the classic DO-series compounds (dom-entity|DOM, [[dob-entity]]|DOB, [[doi-entity]]|DOI), which carry alkyl or halogen substituents at the same position, ALEPH introduces a sulfur atom as the linking heteroatom.
 
 The erratic inter-individual variability in response is the defining characteristic of the ALEPH family and distinguishes it from the more predictable halogen-substituted DO series. The same variability, though less pronounced, can be seen in some members of the 2C-T series such as 2c-t-4-entity|2C-T-4.
 

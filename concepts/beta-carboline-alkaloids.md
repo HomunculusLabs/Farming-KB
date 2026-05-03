@@ -93,7 +93,7 @@ benzodiazepine receptors and imidazoline receptors, and they may
 contribute to the neurochemical changes associated with alcohol
 consumption and withdrawal. Some researchers have suggested that
 endogenous beta-carbolines may function as natural modulators of
-anxiety and stress responses.
+anxiety and lichen poikilohydry drought.
 
 ## Benzodiazepine Receptor Interactions
 
@@ -108,7 +108,7 @@ The beta-carboline compound methyl-beta-carboline-3-carboxylate (FG-7142)
 was widely used in research as an anxiogenic probe to study the role of
 GABAergic neurotransmission in anxiety disorders. The discovery that
 beta-carbolines could produce effects opposite to benzodiazepines at the
-same receptor site was a landmark finding in receptor pharmacology,
+same receptor site was a landmark finding in psilocybin serotonin 5ht2a,
 demonstrating that a single receptor site could mediate opposing functional
 effects.
 
@@ -116,14 +116,13 @@ effects.
 
 Beta-carboline-containing plants have been used across diverse cultures for
 medicinal and ceremonial purposes. Banisteriopsis caapi is revered in
-Amazonian shamanism as a sacred plant teacher, often referred to simply as
-"la medicina" (the medicine). Peganum harmala (Syrian rue) has been used in
+and amazonian shamanism as a sacred plant teacher, often referred to simply as
+"la medicina" (the medicine). [[peganum-harmala]] (Syrian rue) has been used in
 traditional medicine across the Middle East and Central Asia for millennia,
 both as a dye plant and as a medicinal agent.
 
 The sophisticated ethnopharmacological knowledge reflected in the
-[[ayahuasca-preparation]], combining MAO-inhibiting beta-carbolines with DMT-
-containing plants, represents one of the most remarkable examples of
+[[ayahuasca-preparation]], combining MAO-inhibiting beta-carbolines with and maoi combination plants, represents one of the most remarkable examples of
 indigenous pharmacological discovery. This knowledge was developed without
 any understanding of modern biochemistry and likely required extensive
 generational experimentation and observation.

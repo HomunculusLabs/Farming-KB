@@ -15,11 +15,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.m
 
 *Catharanthus roseus* is an evergreen subshrub or herbaceous perennial growing 30–100 cm tall. The leaves are glossy, elliptic to oblong, 2–9 cm long, arranged oppositely along the stem. The flowers are salverform (tubular with a flat corolla limb), approximately 3–4 cm in diameter, with five petals. Flower color in wild populations is typically pink to rose with a darker central eye, though white-flowered cultivars are common.
 
-The plant is adapted to tropical and subtropical climates and has naturalized widely in tropical regions worldwide. It is drought-tolerant once established and grows readily in poor sandy soils. In temperate climates, it is grown as an annual.
+The plant is adapted to tropical and subtropical climates and has naturalized widely in tropical regions worldwide. It is drought-tolerant once established and grows readily in poor sandy soils. In [[fukuoka-natural-farming]], it is grown as an annual.
 
 ## Pharmacologically Active Constituents
 
-*C. roseus* produces over 130 different **alkaloids**, making it one of the most chemically complex medicinal plants known. The most important are the **dimeric indole alkaloids**:
+*C. roseus* produces over 130 different **alkaloids**, making it one of the most chemically complex and medicinal plants known. The most important are the **dimeric indole alkaloids**:
 
 - **Vinblastine** (vincaleukoblastine): Used primarily to treat Hodgkin's lymphoma, non-Hodgkin's lymphoma, and testicular cancer
 - **Vincristine** (leurocristine): Used primarily to treat acute lymphoblastic leukemia (ALL) in children, Wilms' tumor, and various other cancers
@@ -59,5 +59,5 @@ All parts of the plant are toxic if ingested in quantity. Symptoms of poisoning 
 Related: [[cancer-medicinal-mushrooms-extraction-bioavailability]]
 
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]] — another pharmacologically important alkaloid from a tropical plant
-- [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] — another medicinal plant with a long history of both therapeutic use and toxicity
+- [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] — another medicinal plant preparations with a long history of both therapeutic use and toxicity
 - catharanthus roseus — the genus containing this species

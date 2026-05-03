@@ -7,7 +7,7 @@ tags: [fungi, mycology, agriculture, ecology, biology, pathogens, pest-managemen
 sources: []
 ---
 # Smut Fungi Guide
-Smut fungi (order Ustilaginales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are plant pathogenic fungi characterized by the production of dark, sooty masses of teliospores that replace plant tissues, particularly reproductive structures. While less visually dramatic than rust fungi, smuts cause significant economic losses in cereal crops worldwide. The name "smut" refers to the soot-like appearance of the spore masses.
+Smut fungi (order Ustilaginales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are plant pathogenic fungi characterized by the production of dark, sooty masses of teliospores that replace plant tissues, particularly reproductive structures. While less visually dramatic than [[rust-fungi]], smuts cause significant economic losses in cereal crops worldwide. The name "smut" refers to the soot-like appearance of the spore masses.
 ## Defining Characteristics
 - Obligate biotrophs (most species) or facultative saprotrophs
 - Produce teliospores (often called "smut spores") that are dark brown to black
@@ -103,7 +103,7 @@ Most smut fungi follow a similar pattern:
 - Clean seed: use certified seed from smut-free fields
 ### Biological Control
 - Some bacterial and fungal antagonists show promise against smut fungi
-- Bacillus subtilis and Trichoderma species have been investigated
+- [[bacillus-subtilis]] and Trichoderma species have been investigated
 - Not yet widely adopted commercially
 ## Economic Impact
 - Corn smut: estimated global losses of hundreds of millions of dollars annually

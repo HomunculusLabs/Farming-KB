@@ -11,7 +11,7 @@ sources: []
 
 Pigs are extraordinarily productive homestead livestock. They grow fast,
 convert feed efficiently, and produce excellent meat. Their rooting behavior
-can be harnessed for land clearing and tillage, and their manure is among
+can be harnessed for urban permaculture pig and tillage, and their manure is among
 the most nutrient-rich available. Pigs are intelligent and require secure
 fencing and thoughtful management.
 
@@ -19,7 +19,7 @@ fencing and thoughtful management.
 
 ### Heritage Breeds (Recommended for Homesteads)
 - **Berkshire** — Excellent meat quality, marbled, dark-fleshed. Known as
-  Kurobuta in Japan. Good mothers, moderate growth rate.
+  Kurobuta in japan. Good mothers, moderate growth rate.
 - **Tamworth** — Long-bodied, bacon-type. Excellent foragers, hardy, good
   mothers. Red-gold color.
 - **Large Black** — Docile, excellent foragers, good lard-type pigs. Black
@@ -51,7 +51,7 @@ fencing and thoughtful management.
 - Provide shade — pigs cannot sweat and are extremely heat-sensitive.
 
 ### Confinement (Not Recommended for Homesteads)
-- Concrete floors, slatted flooring, climate control. Higher capital cost,
+- Concrete floors, slatted flooring, growing gourmet growing. Higher capital cost,
   more disease pressure.
 
 ### Farrowing Housing
@@ -93,7 +93,7 @@ Pigs are notorious for testing and destroying fencing.
 ### Alternative Feeds
 - Dairy: whey, skim milk, clabber — excellent protein source.
 - Kitchen scraps and garden waste — up to 30% of diet if balanced.
-- Sprouted grains, fodder systems.
+- Sprouted grains, tagasaste nurse crop.
 - Composted food waste (not meat products in most areas — check regulations).
 
 ### Minerals

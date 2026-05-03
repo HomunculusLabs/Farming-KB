@@ -35,7 +35,7 @@ solutions.
 
 ## How Phosphate Liberator Plants Work
 
-Phosphate-liberating plants address the phosphorus availability
+Phosphate-liberating plants address the [[phosphorus-availability]]
 problem through two complementary mechanisms:
 
 1. Root exudation: They dissolve and absorb mineralized forms
@@ -65,14 +65,14 @@ layers that shallow-rooted plants cannot access.
 Alfalfa is also the most productive nitrogen-fixing legume,
 gathering up to 250 pounds of nitrogen per acre. Its dual
 nutrient-accumulating ability makes it one of the most valuable
-cover crop choices for soil building. Using alfalfa as a cover
+cover crop choices for [[natural-farming]] guide. Using alfalfa as a cover
 crop or green manure enhances the cycling of both nitrogen and
 phosphorus within a backyard garden system.
 
 ## Mustard for Cool-Season Phosphorus Cycling
 
 Mustards (Brassica species) are excellent phosphate-liberating
-crops for the cooler part of the growing season. They combine
+crops for the cooler part of growing season. They combine
 deep taproot architecture with the phosphorus-dissolving root
 exudation described above. Mustards are particularly useful for
 improving the drainage and tilth of deeper clay soils, where
@@ -85,7 +85,7 @@ complements their chemical phosphorus-liberating ability.
 
 ## Buckwheat for Summer Phosphorus Cycling
 
-Buckwheat (Fagopyrum esculentum) is an excellent soil builder
+Buckwheat ([[fagopyrum-esculentum]]) is an excellent soil builder
 for summer use. Unlike mustard's deep taproot, buckwheat has a
 more fibrous and somewhat shallower root system. This different
 root architecture provides complementary benefits:
@@ -113,7 +113,7 @@ growing season:
   cycling and clay soil improvement.
 - Summer: Follow with buckwheat for fibrous root conditioning
   and continued phosphorus liberation.
-- Fall through winter: Establish alfalfa as a long-term cover
+- Fall through winter: Establish alfalfa as a long term cover
   for deep nutrient access and nitrogen fixation.
 
 This rotation leverages the complementary root architectures
@@ -127,4 +127,4 @@ availability throughout the year.
 - [[legume-nitrogen-yields-by-species]] — nitrogen output of
   alfalfa and other legumes used in rotation
 - [[dynamic-accumulators-overview]] — broader framework for
-  understanding dynamic accumulator plants
+  understanding and magnesium

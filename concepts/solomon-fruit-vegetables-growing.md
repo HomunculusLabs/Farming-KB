@@ -1,5 +1,6 @@
 ---
-ti
+title: "Solomon Fruit Vegetables Growing"
+---
 
 # [[legume-and-fruit-vegetable-harvest]]s: [[echinacea-growing-guide]]
 
@@ -104,11 +105,11 @@ All legumes are low-demand crops.
 
 ### Key Fact About Legumes and Soil
 
-Legumes do NOT enrich soil for companion crops. All nitrogen formed in root nodules is immediately incorporated into the plant's own leaves and seeds. Nitrogen becomes available to following crops only when legume green manure is turned still lush. Nitrate-forming bacteria must be present in soil; they won't colonize soil severely depleted of organic matter.
+Legumes do NOT enrich soil for companion crops. All nitrogen formed in root nodules is immediately incorporated into the plant's own leaves and seeds. Nitrogen becomes available to following crops only when legume and green manure is turned still lush. Nitrate-forming bacteria must be present in soil; they won't colonize soil severely depleted of mollison designers humus.
 
 ### Peas
 
-- Frost-hardy; some varieties used as overwintering cover crops
+- Frost-hardy; some varieties used as overwintering [[cover-crops]]
 - Chit seeds for earliest plantings (pre-sprout on moist paper)
 - Bush varieties: grow in massed rows across wide beds; concentrate harvest, leave soil in excellent condition
 - Climbing varieties (Alderman/Tall Telephone, Sugar Snap): superior flavor, extended harvest, need 6-foot trellis

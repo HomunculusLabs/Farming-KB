@@ -25,7 +25,7 @@ Materials that absorb, store, and slowly release heat:
 - Concrete floors and walls
 - Stone and brick
 - Tile
-- Earthen construction (cob, adobe, rammed earth)
+- Earthen construction (cob, adobe, [[rammed-earth]])
 **How it works**: Sun heats thermal mass during the day; mass releases heat slowly at night, moderating indoor temperature swings.
 ### Insulation
 Proper insulation is the single most impactful energy conservation measure.
@@ -102,7 +102,7 @@ Water heating accounts for 15-25% of home energy use:
 ## Water Conservation
 Saving water saves energy (pumping, heating, treating):
 - Low-flow showerheads: 1.5 GPM vs standard 2.5 GPM
-- Dual-flush toilets or composting toilets
+- Dual-flush toilets or [[composting-toilets]]
 - Fix all leaks immediately (a dripping faucet wastes 3000+ gallons/year)
 - Greywater recycling for irrigation (see [[graywater-systems]])
 - Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])

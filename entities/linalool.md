@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-wcanna
 
 # Linalool
 
-Linalool (3,7-dimethyl-1,6-octadien-3-ol) is a monoterpene alcohol widely distributed in the plant kingdom and recognized as one of the most therapeutically significant terpenes in cannabis (*Cannabis sativa*). Known for its distinctive floral, lavender-like aroma, linalool contributes calming, sedative, anxiolytic, analgesic, and anti-inflammatory properties to cannabis preparations and has an extensive body of preclinical and clinical research supporting its therapeutic potential.
+Linalool (3,7-dimethyl-1,6-octadien-3-ol) is a monoterpene alcohol widely distributed in the plant kingdom and recognized as one of the most therapeutically significant terpenes in cannabis (*and plant architecture*). Known for its distinctive floral, lavender-like aroma, linalool contributes calming, sedative, anxiolytic, analgesic, and anti-inflammatory properties to cannabis preparations and has an extensive body of preclinical and clinical research supporting its therapeutic potential.
 
 ## Chemical Properties
 
@@ -35,7 +35,7 @@ Linalool plays a distinctive role in the entourage effect through several mechan
 
 ### Therapeutic Applications
 
-Linalool-rich cannabis preparations are commonly used for anxiety and stress relief, sleep disorders and insomnia, pain management (especially neuropathic pain), seizure management (potential anti-convulsant properties), and inflammation-related conditions.
+Linalool-rich cannabis preparations are commonly used for anxiety and stress relief, and insomnia, pain management (especially neuropathic pain), seizure management (potential anti-convulsant properties), and inflammation-related conditions.
 
 ## Pharmacological Properties
 
@@ -57,7 +57,7 @@ Linalool has shown significant neuroprotective effects in preclinical models. It
 
 ### Antimicrobial Activity
 
-Linalool exhibits antimicrobial activity against a range of pathogens including Gram-positive and Gram-negative bacteria, fungi (including *Candida albicans* and *Aspergillus* species), and some enveloped viruses. These properties may contribute to the traditional use of lavender and linalool-containing preparations for wound healing.
+Linalool exhibits antimicrobial activity against a range of pathogens including Gram-positive and Gram-negative bacteria, fungi (including *[[candida-albicans]]* and *Aspergillus* species), and some enveloped viruses. These properties may contribute to the traditional use of lavender and linalool-containing preparations for wound healing.
 
 ## Clinical Evidence
 

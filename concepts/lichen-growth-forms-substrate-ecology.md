@@ -48,7 +48,7 @@ categories, although intermediates and transitions exist:
 ### Leprose
 
 Leprose lichens consist of mealy particles of intertwined
-fungal hyphae and algal cells, forming an unstructured,
+[[fungal-hyphae]] and algal cells, forming an unstructured,
 granular crust. These are often among the smallest and
 least conspicuous lichens. Genera such as Lepraria are
 representative of this growth form and are typically found
@@ -113,7 +113,7 @@ distinctly different lichen floras.
 
 ### Corticolous (Bark-Dwelling)
 
-Corticolous lichens grow on the bark of trees and shrubs.
+Corticolous lichens grow on the bark of and shrubs.
 Factors affecting corticolous lichen communities include:
 - Bark pH and chemistry (affects nutrient availability)
 - Bark texture and moisture retention
@@ -121,7 +121,7 @@ Factors affecting corticolous lichen communities include:
 - Canopy position and light availability
 - Forest continuity and management history
 
-Old-growth forests typically support more diverse corticolous
+fungal roles old typically support more diverse corticolous
 lichen communities than young or managed forests.
 
 ### Terricolous (Soil-Dwelling)

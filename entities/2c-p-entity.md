@@ -11,7 +11,7 @@ sources:
 
 2C-P is a psychedelic phenethylamine belonging to the 2C family, with a propyl group at the 4-position of the aromatic ring.
 
-It is documented as entry #36 in PiHKAL by Alexander Shulgin.
+It is documented as entry #36 in PiHKAL by [[alexander-shulgin]].
 
 ## Chemical Identity
 
@@ -107,7 +107,7 @@ A milligram-accurate scale is required for safe dosing.
 
 The long duration (10-16 hours) means users should have no responsibilities for at least a full day.
 
-2C-P should not be combined with other psychedelics, MAOIs, or serotonergic substances.
+2C-P should not be combined with [[psilocybin-vs-other-psychedelics]], MAOIs, or serotonergic substances.
 
 The compound's physical demands mean it may not be suitable for individuals with cardiovascular concerns.
 

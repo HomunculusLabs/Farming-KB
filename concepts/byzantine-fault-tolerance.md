@@ -47,7 +47,7 @@ Quorum sizes are chosen so that two valid quorums overlap in at least one honest
 This overlap prevents two conflicting decisions from both being certified.
 In the classic asynchronous authenticated setting, tolerating f Byzantine faults requires at least 3f plus 1 replicas.
 With 3f plus 1 nodes, a quorum of 2f plus 1 contains enough honest votes to overcome faulty ones.
-The exact thresholds vary with assumptions and protocol design.
+The exact thresholds vary with assumptions and [[biodiversity-sampling-protocol-design]].
 The principle is that redundancy must exceed the adversary's ability to split agreement.
 ## Message authentication
 Byzantine systems often require cryptographic authentication.

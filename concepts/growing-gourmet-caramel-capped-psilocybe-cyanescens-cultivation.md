@@ -20,8 +20,7 @@ type: concept
 
 First cultivated in Washington and Oregon in the late 1970s, this
 complex of species is primarily grown outdoors in wood chip beds. Indoor
-cultivation is possible but pales in comparison to natural culture
-methods. Species in the P. cyanescens complex are not as high-yielding
+cultivation is possible but pales in comparison to stamets outdoor natural. Species in the P. cyanescens complex are not as high-yielding
 per lb of substrate as some fleshier mushrooms in the genus and hence
 have little or no commercial appeal. However, they enjoy a popular
 reputation and are sought by thousands of eager hunters every fall.
@@ -85,7 +84,7 @@ piles overgrown with tall, broad-bladed grasses.
 Spores purple-brown, 8-12 x 5-8 micrometers, ellipsoid, smooth,
 featuring a distinct banded germ pore at one end. Gill margins banded
 with long-throated, finger-like, non-forked or forked sterile cells.
-Some species have pleurocystidia while most do not. Clamp connections
+Some species have pleurocystidia while most do not. Growing gourmet dikaryotic
 present.
 
 ## Mycelial Characteristics
@@ -99,15 +98,15 @@ does not necessarily, bruises bluish.
 ## Cultivation Methods
 
 ### Natural Method
-Conforms to essentially the same strategy as Stropharia rugoso-annulata.
-Sawdust spawn is broadcast into hardwood or conifer (Douglas fir) chips
+Conforms to essentially the same strategy as [[stropharia-rugoso-annulata-mycofiltration]].
+Sawdust spawn is broadcast into hardwood or conifer ([[douglas-fir]]) chips
 laid outdoors in a partially shaded environment. Wood chips should be
 variable in size, ranging from 1/8 inch in diameter to 4 inches in
 length.
 
 ### Spawn Expansion
 Liquid inoculated grain spawn to 50:50 sawdust/wood chips used as spawn
-into outdoor beds.
+into cotter wood chip.
 
 ### Agar Media
 MYA, PDYA, OMYA or DFA.

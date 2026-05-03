@@ -17,7 +17,7 @@ type: concept
 # Fungal Resource Partitioning and Decomposition Sequences
 
 Fungi function as primary, secondary, and tertiary decomposers in the
-often complex process of degrading organic matter. The sequence of
+often complex process of degrading mollison designers humus. The sequence of
 fungal species appearing during decomposition reflects resource
 partitioning based on the types of substrata, carbohydrates, cellulose,
 and lignins used by each species. Competition from other organisms and
@@ -136,7 +136,7 @@ defense mechanisms in competitive situations.
 ### Competition for Resources
 
 Stress imposed by poor access to nutrients tends to limit interspecific
-fungal competition and favors long-term exploitation of scarce resources.
+fungal competition and favors long term exploitation of scarce resources.
 Under such conditions, S-selected (stress-tolerant) fungi that exhibit
 slow increase in biomass, specialized physiological adaptations, and
 high enzymatic competence for resource exploitation are favored.

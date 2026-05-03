@@ -117,7 +117,7 @@ In addition to standard emergency supplies, include:
 - Document all losses with receipts, photos, and serial numbers
 - File claims as soon as possible — delays can complicate reimbursement
 ## Long-Term Flood Mitigation
-- Work with local agencies on watershed management and drainage improvements
+- Work with local agencies on [[watershed-management]] and drainage improvements
 - Consider relocating structures if flooding is frequent and severe
 - Plant native vegetation along waterways to stabilize banks and slow runoff
 - Maintain wetland areas — they absorb and slow floodwaters naturally

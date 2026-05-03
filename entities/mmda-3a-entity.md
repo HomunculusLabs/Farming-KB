@@ -129,13 +129,13 @@ Reports of residual stimulation the day after dosing suggest users should plan f
 
 The clinical reports of adverse events at higher doses underscore the importance of set, setting, and screening.
 
-The compound has not been studied for long-term toxicity.
+The compound has not been studied for long term toxicity.
 
 ## Index
 
 - mmda-entity|MMDA: the parent compound of the MMDA series
-- dmmda-2-entity|MMDA-2: the 2-methoxy-4,5-methylenedioxy isomer
-- mda-entity|MDA: the methylenedioxyamphetamine without additional methoxy
+- [[dmmda-2-entity]]|MMDA-2: the 2-methoxy-4,5-methylenedioxy isomer
+- [[mda-entity-pihkal]]|MDA: the methylenedioxyamphetamine without additional methoxy
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## See Also

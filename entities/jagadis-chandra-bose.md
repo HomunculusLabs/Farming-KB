@@ -1,11 +1,11 @@
 ---
-ti
+title: "Jagadis Chandra Bose"
+---
 
 # Jagadis Chandra Bose
 
-Sir Jagadis Chandra Bose (1858–1937) was a Bengali polymath and pioneering
-scientist who made foundational contributions to both physics and plant
-physiology. He demonstrated wireless electromagnetic signaling before Marconi,
+Sir jagadis chandra bose Bose (1858–1937) was a Bengali polymath and pioneering
+scientist who made foundational contributions to both physics and [[stephen-hales-plant-physiology]]. He demonstrated wireless electromagnetic signaling before Marconi,
 essentially founded the field of microwave optics, and invented the crescograph
 — an ultra-sensitive instrument that revealed plant growth and response
 patterns invisible to the naked eye. As one of the first Indian scientists to
@@ -61,9 +61,9 @@ electrical responses to stimuli with unprecedented sensitivity.
 
 - *Response in the Living and Non-Living* (1902) — his seminal work arguing
   for continuity between living and non-living response to stimuli
-- *Plant Response as a Means of Physiological Investigation* (1906)
+- *and vibration as a Means of Physiological Investigation* (1906)
 - *Comparative Electro-Physiology* (1907)
-- *Researches on Irritability of Plants* (1913)
+- *Researches on Irritability [[spirit-mothers-of-plants]]* (1913)
 - *The Nervous Mechanism of Plants* (1926)
 - *Plant Autographs and Their Revelations* (1927)
 - *Growth and Tropic Movements of Plants* (1929)
@@ -99,7 +99,7 @@ Bose’s work is the primary historical foundation cited in *The Secret Life of
 Plants* (1973) by Peter Tompkins and Christopher Bird. He argued that the nervous
 impulse in plants is of the same nature as in animals — a radical thesis that
 remains influential. Modern plant science has validated his core observations:
-plants generate and transmit electrical signals (action potentials, variation
+plants generate and transmit [[tompkins-plant-electrical-signals]] (action potentials, variation
 potentials) in response to stimuli. His work anticipates plant neurobiology
 (coined 2006) and [[plant-electrophysiology]], and his philosophical position —
 that there is no hard boundary between life and non-life in stimulus response

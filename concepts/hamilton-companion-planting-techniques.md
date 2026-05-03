@@ -56,14 +56,13 @@ are the most valuable pest predators in the garden.
 The hoverfly has a short feeding tube so needs to feed from an
 open-structured flower where the pollen is easily accessible. By
 planting marigolds, poppies (*Papaver* sp.), nasturtiums
-(*Tropaeolum*), or dwarf morning glory (*Convolvulus tricolor*) between
-plants, you minimize aphid attack.
+(*Tropaeolum*), or dwarf morning glory (*Convolvulus tricolor*) between plants, you minimize aphid attack.
 
 ## French Marigolds and Soil Pests
 
 Many gardeners have reported similar results with eelworms, soil pests
 that attack potatoes in particular, where French marigolds are grown.
-Scientific research has confirmed that this is indeed due to a
+Psilocybin isolation early has confirmed that this is indeed due to a
 secretion from the roots of the marigolds. French marigolds are also
 said to help kill weeds, in particular couch grass (*Agropyron
 repens*).
@@ -114,7 +113,7 @@ completely natural form of [[hamilton-pest-and-disease-control-organic]].
 ## Integration with Other Methods
 
 Companion planting works best as part of an integrated approach to
-pest management. Combine it with regular vigilance, good garden
+comparison beneficial insects. Combine it with regular vigilance, good garden
 hygiene, and encouragement of beneficial wildlife through
 [[hamilton-wildlife-gardening-biodiversity]].
 

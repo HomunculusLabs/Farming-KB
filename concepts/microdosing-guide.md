@@ -16,7 +16,7 @@ This distinction is critical: if effects are perceptible, the dose is too high a
 ## Common Substances
 ### Psilocybin
 The most commonly microdosed psychedelic:
-- Source: Dried Psilocybe cubensis mushrooms (most common)
+- Source: Dried [[psilocybe-cubensis]] mushrooms (most common)
 - Typical microdose range: 0.05-0.25 g dried mushroom (approximately 0.5-2.5 mg psilocybin)
 - Mushroom potency varies enormously; same species can differ 3-5x in active compound content
 - Variability makes consistent dosing with whole mushrooms challenging
@@ -42,9 +42,9 @@ Developed by James Fadiman, based on decades of anecdotal collection:
 - Continue for 4-8 weeks, then take 2-4 weeks off
 Rationale: The [[two-ag]]-day gap prevents tolerance buildup while maintaining cumulative effects.
 ### Stamets Protocol
-Paul Stamets proposed a more intensive schedule:
+[[paul-stamets]] proposed a more intensive schedule:
 - 4 days on, 3 days off, continuously
-- Often combined with Lion's Mane mushroom (Hericium erinaceus) and niacin (vitamin B3)
+- Often combined with Lion's Mane mushroom ([[hericium-erinaceus]]) and niacin (vitamin B3)
 - The combination is claimed to promote neurogenesis and neuroplasticity
 - Niacin is included to increase blood flow and distribute compounds to the brain
 Rationale: More consistent blood levels, with Lion's Mane providing complementary nerve growth stimulation.

@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Root crops are a cornerstone of the winter harvest. Coleman distinguishes between in-ground storage (crops left in the soil under protection and dug as needed) and traditional post-harvest storage. His system relies primarily on in-ground cold-soil storage, which enhances flavor and sweetness.
+mollison designers cassava are a cornerstone of the winter harvest. Coleman distinguishes between in-ground storage (crops left in the soil under protection and dug as needed) and traditional post-harvest storage. His system relies primarily on in-ground cold-soil storage, which enhances flavor and sweetness.
 
 ## "Sweet Winter Carrots" (Signature Crop)
 
@@ -21,7 +21,7 @@ Sweet Winter Carrots are Coleman's most acclaimed winter crop — so popular tha
 - Best variety: 'Napoli' (small size but full flavor)
 - Planting for October harvest: last week of July
 - Planting for later harvests: first week of August
-- Soil prepared by turning under a green manure of oats and peas one month before sowing
+- Soil prepared by turning under a and green manure of oats and peas one month before sowing
 - Large areas covered with mobile greenhouses in late October
 
 ### In-Ground Storage
@@ -45,7 +45,7 @@ Sweet Winter Carrots are Coleman's most acclaimed winter crop — so popular tha
 
 ## Leeks (Nearly Year-Round)
 
-Leeks are available almost year-round at Four Season Farm:
+Leeks are available almost year-round at [[coleman-four-season-farm]]:
 
 | Season | Source | Variety |
 |--------|--------|---------|

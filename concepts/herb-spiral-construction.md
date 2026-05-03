@@ -9,7 +9,7 @@ sources: []
 # Herb Spiral Construction
 An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moistupermaculture-design the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle.
 ## The Concept
-The herb spiral is a classic permaculture design pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
+The herb spiral is a classic [[permaculture-design]] pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
 - **Moisture gradient:** The bottom of the spiral collects runoff and stays damp; the top drains quickly and stays dry
 - **Sun exposure gradient:** The top receives full sun from all angles; lower portions may be shaded by the upper sections depending on orientation
 - **Temperature gradient:** Stone walls absorb heat during the day and release it at night, creating a warmer microclimate — especially on the south-facing side (in the Northern Hemisphere)

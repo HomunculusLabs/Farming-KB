@@ -17,7 +17,7 @@ sources: [cancer-treatments-medicinal-mushrooms.md]
 Auricularia auricula is one of the oldest cultivated mushrooms in human
 history, with cultivation in China dating back to approximately 600 AD.
 It accounts for 7.9% of total world mushroom production and is listed
-among the 10 most important medicinal mushrooms. The species is valued
+among the 10 most important [[medicinal-mushrooms]]. The species is valued
 both as a culinary ingredient in Asian cuisine and as a traditional
 medicine with demonstrated antilipemic and other health-promoting
 properties.

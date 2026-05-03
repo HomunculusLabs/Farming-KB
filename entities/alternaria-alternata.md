@@ -37,7 +37,7 @@ Dighton's treatment of fungi in ecosystem processes, A. alternata
 is
 discussed primarily in the context of radiation resistance and
 its
-presence in phyllosphere and soil fungal communities. The species
+presence in phyllosphere and biodiversity fungi soil. The species
 has
 attracted particular scientific interest for the remarkable
 radio-
@@ -52,8 +52,7 @@ recognized as
 a common component of leaf litter fungal communities and as a
 saprotrophic decomposer in soil ecosystems. The species
 contributes to
-decomposition of plant debris and participates in nutrient
-cycling in
+decomposition of plant debris and participates in nutrient cycling in
 both agricultural and natural ecosystems.
 
 # Radiation Resistance and Chernobyl Strains
@@ -80,7 +79,7 @@ isolation
 frequencies of 40.2% at background radiation levels of 1.5 to 25
 mR/h
 and 44.4% at elevated radiation levels of 40 to 220 mR/h. The
-melanized cell walls characteristic of A. alternata may
+melanized alpha glucan fungal characteristic of A. alternata may
 contribute to
 radiation resistance through mechanisms including free radical
 scavenging and physical shielding of cellular structures.
@@ -99,7 +98,7 @@ community that initiates breakdown of freshly fallen leaf litter.
 
 In soil environments, A. alternata is part of the mitosporic
 fungal
-community, contributing to organic matter decomposition and
+community, contributing to mollison designers humus decomposition and
 nutrient
 mineralization. The species is frequently isolated from
 agricultural

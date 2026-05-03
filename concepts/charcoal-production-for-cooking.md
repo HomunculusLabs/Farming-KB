@@ -103,7 +103,7 @@ Any charcoal production method can produce biochar for soil amendment:
 - Quench hot charcoal with water rather than letting it cool slowly (water quenching preserves more micropore structure)
 - Crush charcoal to particle sizes from powder to 1/2 inch
 - Incorporate into compost piles or garden beds at 5-10% by volume
-- Biochar improves soil water retention, cation exchange capacity, and microbial habitat
+- Biochar improves soil water retention, [[cation-exchange-capacity]], and microbial habitat
 - "Charge" biochar by soaking in compost tea or mixing with compost before soil application
 See [[composting-methods-comparison]] for integration with biochar production.
 ## Safety Considerations

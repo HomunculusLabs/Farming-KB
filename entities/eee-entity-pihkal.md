@@ -23,7 +23,7 @@ PIHKAL entry #73. 2,4,5-TRIETHOXYAMPHETAMINE.
 
 ## Qualitative Comments
 
-No qualitative comments recorded.
+No [[qualitative-comments-methodology-pihkal]] recorded.
 
 ## Extensions and Commentary
 
@@ -47,8 +47,7 @@ Et2O to drip into a shunted Soxhlet thimble containing the nitrostyrene, thus ef
 
 ## Safety Notes
 
-EEE is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+EEE is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

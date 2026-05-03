@@ -35,7 +35,7 @@ emotional material.
 
 [[alexander-shulgin]], working independently as a chemist, systematically synthesized and
 self-tested hundreds of phenethylamine compounds. His discoveries, documented in
-PIHKAL: A Chemical Love Story (1991, co-authored with Ann Shulgin), opened an entirely
+PIHKAL: A Chemical Love Story (1991, co-authored with [[ann-shulgin]]), opened an entirely
 new class of psychoactive substances for therapeutic exploration. MDMA
 (3,4-methylenedioxymethamphetamine) emerged as the most therapeutically promising of
 these compounds, combining emotional opening with a manageable intensity of altered
@@ -123,11 +123,11 @@ intentional therapeutic contexts alongside its recreational use.
 ## Integration with Broader Psychedelic Therapy Principles
 
 Despite the differences from classical hallucinogens, MDMA-assisted therapy shares
-several fundamental principles with the broader field of psychedelic psychotherapy:
+several fundamental principles with the broader field of [[psychedelic-psychotherapy]]:
 
 - **Experience-centered**: The drug serves as a catalyst for a transformative
   experiential process, not merely as a pharmacological intervention taken at home
-- **Set and setting**: The therapeutic outcome depends heavily on the patient's
+- **[[set-and-setting]]**: The therapeutic outcome depends heavily on the patient's
   intention and the quality of the therapeutic environment, with the drug playing the
   role of trigger or catalyst
 - **Guide experience**: Effective MDMA-assisted therapy requires therapists who

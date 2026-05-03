@@ -30,7 +30,7 @@ allowed to drop as far as 55 degrees F (13 degrees C). This nighttime
 temperature drop mimics natural outdoor conditions and can help
 improve resin production.
 ## Humidity Management
-Cannabis plants work best in the 40-80 percent relative humidity range.
+cannabis plants work best in the 40-80 percent relative humidity range.
 Relative humidity (rH) is the amount of water in the air. Fresh air is
 always the best way to control humidity. If you have an rH measuring kit
 you can judge for yourself how much fresh air you need before hitting
@@ -86,7 +86,7 @@ Very few plants survive an emergency soil flush. It is essentially
 over-watering to the point of removing most minerals. If your plant
 survives, it may take about 2 weeks to return to full health.
 ## Soil Control Over Time
-As your plant grows through its life cycle it absorbs minerals from the
+As your plant grows through its growing gourmet black it absorbs minerals from the
 soil and adds waste material. This can cause pH to shift. Regular
 monitoring and maintenance prevents problems before they become serious.
 Lockout is a chemical reaction that takes place among nutrients in the

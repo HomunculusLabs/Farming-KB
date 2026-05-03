@@ -61,7 +61,7 @@ Both materials sequester carbon biogenically — the CO₂ absorbed by the growi
 ## Cost and Availability
 
 - **Hempcrete**: Hemp shiv and lime binders are more expensive than straw. Industrial hemp processing infrastructure is still developing in many regions, and shipping adds cost. Total material cost for hempcrete walls is roughly 20–40% higher than straw bale. Lime binder is heavy and energy-intensive to produce, partially offsetting hemp's carbon benefits. Hempcrete also requires formwork for casting, adding labor and material costs.
-- **Straw bale**: Straw is extremely cheap — often a byproduct of local grain farming that farmers are happy to give away or sell for minimal cost. Bales are lightweight, easy to handle, and require no formwork. Plaster materials (earth, sand, lime) are also inexpensive. Straw bale construction is frequently one of the lowest-cost natural building methods available.
+- **Straw bale**: Straw is extremely cheap — often a byproduct of local grain farming that farmers are happy to give away or sell for minimal cost. Bales are lightweight, easy to handle, and require no formwork. Plaster materials (earth, sand, lime) are also inexpensive. Straw bale construction is frequently one of the lowest-cost [[natural-building]] methods available.
 
 **Winner for affordability**: Straw bale (significant).
 

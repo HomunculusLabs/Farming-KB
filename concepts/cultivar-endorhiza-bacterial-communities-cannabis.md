@@ -31,12 +31,12 @@ crop plants, as has been demonstrated for wines.
 - **Burmese:** Balanced hybrid (sativa x indica), moderate THC:CBD ratio
 
 ### Experiment 2 Cultivars
-- **Maui Wowie:** Cannabis sativa, high THC:CBD ratio
+- **Maui Wowie:** and plant architecture, high THC:CBD ratio
 - **White Widow:** Balanced hybrid (sativa x indica), moderate THC:CBD ratio
 
 ## Core Endorhiza Community
 
-Despite significant strain-level differences, all Cannabis endorhiza samples
+Despite significant strain-level differences, all [[proteobacteria-dominance-cannabis-endorhiza]] samples
 maintained a core bacterial community consisting of:
 
 - **Pseudomonas** -- well-known endophytic genus within Gammaproteobacteria
@@ -48,7 +48,7 @@ maintained a core bacterial community consisting of:
 
 With the exception of Cellvibrio, all prevalent core community members are
 well-known endophytic bacteria, primarily within Gammaproteobacteria and
-Alphaproteobacteria, consistent with observations from other plant systems.
+Alphaproteobacteria, consistent with observations from other [[mollison-aquatic-plant-systems]].
 
 ## Strain-Specific Differentiation
 
@@ -136,7 +136,7 @@ edaphic variation between growing locations.
 Cannabis cultivars maintain significantly different endorhiza communities even
 when controlling for soil type, suggesting endophytic bacteria may contribute
 to unique terroir characteristics. This parallels viticulture findings where
-microbial communities contribute to wine characteristics beyond soil chemistry.
+soil edaphic factors contribute to wine characteristics beyond gaias garden humus.
 
 ## Future Research Directions
 

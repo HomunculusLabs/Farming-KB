@@ -42,11 +42,11 @@ fungal species range from 1.5 million to over 5 million,
 and mitosporic fungi would constitute the majority of
 these.
 ## Diversity on Dead Plant Tissue
-Dead plant tissue (litter, wood, and other senescent
+Dead and dermal (litter, wood, and other senescent
 plant material) supports an enormous diversity of
 mitosporic fungi. These fungi are the primary decomposers
 of plant litter in most terrestrial ecosystems and play
-critical roles in nutrient cycling. The species composition
+critical in nutrient cycling. The species composition
 of mitosporic fungal communities on dead plant tissue
 varies with:
 - **Substrate type**: Different plant species support
@@ -64,8 +64,7 @@ varies with:
   of mitosporic fungi.
 ## Methods for Estimating Mitosporic Diversity
 ### Direct Observation and Culturing
-The most common approach to estimating mitosporic fungal
-diversity involves placing surface-sterilized or washed
+The most common approach to estimating mitosporic growing gourmet global involves placing surface-sterilized or washed
 substrate particles on nutrient media and identifying the
 fungi that grow out. This method captures only the
 culturable fraction of the community, which may represent
@@ -86,7 +85,7 @@ environmental samples using ITS rDNA primers, have
 revealed vastly more fungal diversity than culture-based
 methods. These approaches detect species that cannot be
 cultured or that fail to sporulate under laboratory
-conditions. However, molecular methods also have
+conditions. However, molecular methods situ also have
 limitations, including the inability to assign many
 sequence variants to described species and the
 preferential amplification of some taxa over others.

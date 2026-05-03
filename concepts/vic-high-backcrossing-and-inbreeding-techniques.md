@@ -10,7 +10,7 @@ tags: [reference]
 
 # Backcrossing and Inbreeding Techniques
 
-Vic High provides detailed analysis of two major inbreeding strategies used in cannabis breeding: backcrossing (also called cubing) and generational (filial) inbreeding. Each technique manipulates gene frequencies differently and produces distinct outcomes that breeders must understand to choose the right approach for their goals.
+[[vic-high]] provides detailed analysis of two major inbreeding strategies used in cannabis breeding: backcrossing (also called cubing) and generational (filial) inbreeding. Each technique manipulates gene frequencies differently and produces distinct outcomes that breeders must understand to choose the right approach for their goals.
 
 ## Backcrossing (Cubing) Defined
 
