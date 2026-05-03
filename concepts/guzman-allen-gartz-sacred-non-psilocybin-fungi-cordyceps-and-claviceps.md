@@ -29,7 +29,7 @@ the most famous, producing sclerotia (ergots) on rye and other grasses that
 have caused mass poisonings throughout European history. These events, known
 as ergotism or St. Anthony's Fire, produced hallucinations, convulsions,
 gangrene, and death. The active compounds include ergotamine, ergocristine,
-and lysergic acid amide (LSA), precursors to LSD. Ramsbottom (1954),
+and lysergic acid amide (LSA), precursors to [[lsd]]. Ramsbottom (1954),
 Schultes and Hofmann (1973, 1979), and Wasson et al. (1978) documented the
 hallucinogenic properties of these fungi.
 
@@ -92,7 +92,7 @@ lacking.
 ## Relationship Between Cordyceps and Claviceps
 
 The genus Cordyceps is closely related taxonomically to Claviceps purpurea.
-Both belong to the order Clavicipitales within the Ascomycotina. This
+Both belong to the order Clavicipitales within the [[ascomycete-phylum-guide]]. This
 taxonomic proximity supports the hypothesis that Cordyceps species used in
 Mexican ceremonies may produce similar ergot-type alkaloids. The hallucinogenic
 effects described by users are consistent with ergot alkaloid intoxication
@@ -130,3 +130,5 @@ ethnobotany, chemistry, and cultural anthropology in
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
 - [[sacred-gasteromycetes-non-psilocybin-psychoactive-fungi]]
+- [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]
+- [[neurotropic-fungi-in-mexico]]

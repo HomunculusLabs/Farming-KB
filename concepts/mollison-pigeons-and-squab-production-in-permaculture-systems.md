@@ -16,9 +16,9 @@ type: concept
 
 # Pigeons and Squab Production in Permaculture Systems
 
-Bill Mollison's *Permaculture: A Designers' Manual* highlights pigeons
-as among the most practical and productive small domestic animals for
-permaculture systems. Their role extends far beyond squab production to
+Bill Mollison's [[bill-mollison]] *Permaculture: A Designers' Manual*
+highlights pigeons as among the most practical and productive small
+domestic animals for [[permaculture]] systems. Their role extends far beyond squab production to
 include phosphate recycling, seed dispersal, and the maintenance of
 nutrient cycles within the designed landscape.
 
@@ -137,10 +137,13 @@ Pigeons function within the broader animal system alongside:
   edge management
 - [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
   in zone 1 nutrient cycling
+- [[bee-forage-systems-design]] for pollination of forage crops
 - [[mollison-domestic-small-animals-zone-one]] in garden
   grass control
 - Bees for pollination of forage crops
 
 Mollison emphasises that in the established tropical system, the usual
 domestic species often penned include pigeons among pigs, chickens,
-geese, guinea pigs, rabbits, milking goats, cattle, or buffalo.
+geese, guinea pigs, rabbits, milking goats, cattle, or buffalo. See also
+[[backyard-livestock-integration-design]] for practical smallholding
+layouts and [[zone-1-intensive-garden]] for detailed zone 1 planning.

@@ -146,3 +146,6 @@ parent, seed parent, date, and any relevant notes.
 See also:
 [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
 [[cannabis-seed-germination-viability-breeding-clarke]]
+[[cannabis-seed-production]]
+[[strain-selection-development]]
+[[vegetative-phase-cannabis]]
