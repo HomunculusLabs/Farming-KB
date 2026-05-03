@@ -74,6 +74,8 @@ The ECS explains why cannabis treats such a wide variety of conditions — it is
 
 ## Related
 
+- [[white-widow]]
+
 - [[win55212-2]]
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-thc-therapeutic-profile]] — for THC specifics

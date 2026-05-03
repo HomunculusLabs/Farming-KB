@@ -111,3 +111,4 @@ community compared to traditionally composted material.
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-what-is-trap-cropping-and-how-does-it-work]]
+- [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]]

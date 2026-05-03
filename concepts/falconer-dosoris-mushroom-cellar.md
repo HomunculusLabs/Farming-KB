@@ -18,6 +18,11 @@ sources:
 
 # The Dosoris Mushroom Cellar
 
+The Dosoris cellar is a purpose-built example of [[falconer-mushroom-cultivation-victorian-methods]],
+representing the sophisticated state of underground mushroom culture in the
+Victorian era. See also [[falconer-mushroom-spawn-preparation]] for how spawn
+was prepared for such cellars.
+
 The Dosoris cellar is a subterranean tunnel or cellar that
 was excavated and arched some ten years ago, expressly for
 the cultivation of mushrooms. It is situated in an open,
@@ -129,7 +134,9 @@ when it is in full running capacity.
 ## Lessons from the Dosoris Design
 
 The Dosoris cellar demonstrates several important
-principles for purpose-built [[falconer-mushroom-growing-house-design]]:
+principles for purpose-built [[falconer-mushroom-growing-house-design]].
+The [[falconer-mushroom-spawn-types-and-merits]] used in such cellars
+were typically brick spawn or flake spawn, as described by Falconer.
 
 - [[falconer-mushroom-bed-construction]] provides natural insulation
 - Hot water heating is gentler and more effective than
@@ -143,6 +150,8 @@ principles for purpose-built [[falconer-mushroom-growing-house-design]]:
 
 ## See Also
 
-- [[falconer-mushroom-cellar-ventilation-and-moisture]]
-- [[falconer-mushroom-cultivation-history]]
-- [[falconer-mushroom-cultivation-victorian-methods]]
+[[falconer-mushroom-cellar-ventilation-and-moisture]],
+[[falconer-mushroom-cultivation-history]],
+[[falconer-mushroom-cultivation-victorian-methods]],
+[[falconer-mushroom-cellar-management]], and
+[[falconer-mushroom-spawn-types-and-merits]]

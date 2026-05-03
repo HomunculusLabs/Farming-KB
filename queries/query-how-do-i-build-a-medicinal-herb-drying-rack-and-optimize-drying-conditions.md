@@ -127,3 +127,4 @@ Proper storage preserves months of growing effort:
 - [[query-how-to-build-and-manage-a-root-cellar]]
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
+- [[query-how-to-build-and-use-a-solar-food-dehydrator]]

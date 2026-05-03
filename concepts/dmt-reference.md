@@ -110,6 +110,8 @@ Turner rates ketamine at "Intensity: 10 - Infinity" — the only substance rated
 - Cardiovascular effects: transient increases in blood pressure and heart rate
 - Psychological risk: overwhelming experiences can be traumatic without proper preparation
 ## See Also
+
+- [[n-dmt]]
 - [[psychedelic-compounds-reference]] — Broader compounds table
 - [[psychedelic-mushroom-history]] — Psilocybin (4-OH-DMT) history
 - [[entheogen-culture]] — Religious and spiritual use of psychoactive plants

@@ -118,3 +118,4 @@ biological growth stimulants as alternatives to synthetic additives.
 - [[oss-oeric-contamination-troubleshooting]] for cultivation challenges
 - [[gartz-tryptamine-supplemented-cubensis-cultivation]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
+- [[psilocybe-cubensis-introduction-americas-slave-trade]]

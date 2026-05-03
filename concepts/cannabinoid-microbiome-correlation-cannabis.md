@@ -145,3 +145,4 @@ toward soil management as the primary lever for microbiome engineering.
 - [[endorhiza-bacterial-communities]] for endorhiza community details
 - [[cannabis-microbiome-research]] for future research directions
 - [[cannabis-microbiome-experimental-design]] for study methodology
+- [[cannabis-rhizosphere-microbiome]]

@@ -77,6 +77,8 @@ Psilocin and psilocybin are Schedule I drugs under the US Controlled Substances 
 
 ## See Also
 
+- [[psilocybin-psilocin-chemistry]]
+
 - [[tryptamine-family-overview]]
 - [[tihkal-introduction-and-methodology]]
 - [[psilocybin-mushroom-chemistry]]

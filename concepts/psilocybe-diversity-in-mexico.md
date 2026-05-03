@@ -152,6 +152,10 @@ throughout the country.
 
 ## See Also
 
+- [[sacred-mushroom-traditions-in-mexico]]
+- [[psilocybe-cubensis-distribution-and-ecology]]
+- [[entheogen-culture]]
+
 - [[Psilocybe cubensis Distribution and Ecology]]
 - [[Neurotropic Fungi Classification]]
 - [[Sacred Mushroom Traditions in Mexico]]

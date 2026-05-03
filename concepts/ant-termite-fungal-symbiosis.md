@@ -125,6 +125,8 @@ These symbioses are important for:
 - Insights into the evolution of agriculture
 
 ## See Also
+
+- [[mckenna-leafcutter-ant-fungal-agriculture]]
 - [[termite-ant-fungus-gardens]]
 
 - [[arthropod-associated-fungi]]

@@ -8,6 +8,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.m
 
 # Palmer on Fungus Reproduction, Spawn, and Cryptogamic Mystery
 
+The study of [[fungal-reproduction-life-cycles]] has advanced
+considerably since Palmer's era, but the fundamental mysteries he
+identified remain central to mycology. The [[spore-print]] technique
+Palmer used is still standard practice in mushroom identification.
+
 Palmer devoted considerable attention to the mysterious nature of
 fungal reproduction. The very name "cryptogamy" — meaning "hidden
 marriage" — reflected how little was understood about how these
@@ -15,6 +20,10 @@ organisms propagated. Palmer explored these mysteries both through
 personal observation and through the scientific literature of his day.
 
 ## The Spawn: The Hidden Plant
+
+The concept of [[mushroom-spawn]] as the vegetative body of fungi
+is foundational to modern [[mycelium]] biology. Understanding spawn
+was the first step toward systematic mushroom cultivation.
 
 Palmer made a dramatic observation while watching workmen grade the
 banks opposite the Brunswick Hotel in Boston. As the pick broke up the
@@ -140,3 +149,12 @@ reservoir of fungal spores and mycelial fragments in the soil, creating
 conditions favorable for recurring fruiting. This historical relationship
 between equine husbandry and fungal propagation is one of the oldest
 examples of human-assisted mushroom cultivation.
+
+## See Also
+
+[[comparison-grain-spawn-vs-sawdust-spawn]],
+[[cotter-mushroom-life-cycle-mycelium-biology]],
+[[fungal-reproduction-life-cycles]],
+[[mushroom-spawn]],
+[[mycelium]], and
+[[spore-print]]

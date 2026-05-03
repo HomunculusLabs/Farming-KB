@@ -144,3 +144,12 @@ harvest.
   circulation setup
 - [[cervantes-fusarium-vascular-wilt-diseases]] - other fungal
   disease reference
+- [[ultra-low-herbal-smoker-greenhouse-pest-control]] - greenhouse
+  pest and disease prevention strategies
+
+[[cervantes-gray-mold-botrytis-prevention]] and
+[[cervantes-humidity-control-dehumidification]] are closely
+related strategies for maintaining a clean indoor growing
+environment. See also [[cervantes-ventilation-fan-carbon-filter-setup]]
+for comprehensive air circulation methods.
+[[cervantes-fusarium-vascular-wilt-diseases]] is another fungal threat that shares prevention strategies with powdery mildew.

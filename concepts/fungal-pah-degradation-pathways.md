@@ -11,13 +11,12 @@ sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-e
 Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous environmental contaminants generated from incomplete combustion of organic materials, petroleum refining, and industrial processes. Fungi employ distinct metabolic strategies for PAH degradation that differ from bacterial pathways, primarily involving cytochrome P450 monoxygenases, ligninolytic enzymes, and epoxide hydrolases.
 
 ## Fungal vs. Bacterial PAH Metabolism
-
-Fungal PAH metabolism proceeds through initial epoxidation of the aromatic ring by cytochrome P450-dependent monoxygenases, forming arene oxides. This is fundamentally different from bacterial degradation, which uses dioxygenase enzymes to form cis-dihydrodiols. The fungal pathway is more similar to mammalian PAH metabolism. See [[fungal-cytochrome-p450-biodegradation]] for P450 enzyme details.
+[[fungal-bioremediation-mechanisms]] underpin the fungal approach to PAH degradation. Fungal PAH metabolism proceeds through initial epoxidation of the aromatic ring by cytochrome P450-dependent monoxygenases, forming arene oxides. This is fundamentally different from bacterial degradation, which uses dioxygenase enzymes to form cis-dihydrodiols. The fungal pathway is more similar to mammalian PAH metabolism. See [[fungal-cytochrome-p450-biodegradation]] for P450 enzyme details. The [[white-rot-fungi]] employ additional ligninolytic strategies for PAH breakdown.
 
 ## Metabolism of Individual PAHs
 
 ### Naphthalene
-Fungi oxidize naphthalene via cytochrome P450 to form 1,2-epoxynaphthalene, which is further metabolized to trans-1,2-dihydroxy-1,2-dihydronaphthalene. Subsequent dehydration yields 1-naphthol and 2-naphthol. Cunninghamella elegans produces 1-naphthol, 2-naphthol, 1,2-dihydroxynaphthalene, and 4-hydroxy-1-tetralone as major metabolites. Further oxidation produces salicylic acid and gentisic acid.
+Fungi oxidize naphthalene via cytochrome P450 to form 1,2-epoxynaphthalene, which is further metabolized to trans-1,2-dihydroxy-1,2-dihydronaphthalene. Cunninghamella elegans produces 1-naphthol, 2-naphthol, 1,2-dihydroxynaphthalene, and 4-hydroxy-1-tetralone as major metabolites. Further oxidation produces salicylic acid and gentisic acid. The [[mycoremediation-techniques]] section covers broader applications of these metabolic pathways.
 
 ### Anthracene and Phenanthrene
 **Anthracene** is metabolized to 1,2-dihydroxyanthracene via epoxidation. Cunninghamella elegans produces anthracene trans-1,2-dihydrodiol as the initial metabolite, which is further transformed to 1,2-dihydroxyanthracene and ring-fission products.
@@ -50,20 +49,18 @@ Laccases oxidize phenolic PAHs directly and non-phenolic PAHs through mediator s
 
 ## Fungal-Bacterial Co-cultures
 
-Fungal-bacterial co-cultures enhance PAH degradation through complementary metabolic capabilities. Fungi initially oxidize PAHs to more water-soluble and bioavailable intermediates (hydroxylated and quinone products), which bacteria then mineralize through ring-fission pathways. This synergistic relationship is particularly effective for high molecular weight PAHs that neither organism degrades efficiently alone.
+Fungal-bacterial co-cultures enhance PAH degradation through complementary metabolic capabilities. Fungi initially oxidize PAHs to more water-soluble and bioavailable intermediates (hydroxylated and quinone products), which bacteria then mineralize through ring-fission pathways. This synergistic relationship is particularly effective for high molecular weight PAHs that neither organism degrades efficiently alone. The [[fungal-bioremediation-mechanisms]] page describes the underlying biochemistry in greater detail.
 
 ## PAH Soil Bioremediation
-
-Key factors affecting [[pah-properties-toxicity-bioremediation]] in soils:
+[[mycoremediation-bioreactor-design]] provides engineering approaches for PAH treatment. Key factors affecting [[pah-properties-toxicity-bioremediation]] in soils:
 
 - **Cosubstrates and surfactants** — Tween 80 and rhamnolipid biosurfactants enhance PAH bioavailability
 - **Bound residue formation** — A significant fraction of PAHs becomes irreversibly bound to soil organic matter (humus) during fungal treatment, representing a detoxification mechanism
 - **Mineralization rates** — Complete mineralization to CO2 varies from <5% to >50% depending on PAH structure, fungal species, and environmental conditions
-- **Compost bioreactors** — Combination of fungal inoculation with composting achieves effective PAH removal in contaminated soils
+- **Compost bioreactors** — Combination of fungal inoculation with composting achieves effective PAH removal in contaminated soils. See [[mycoremediation-bioreactor-design]] for reactor engineering approaches.
 
 ## Mutagenicity Considerations
-
-Some fungal metabolites of PAHs retain or even increase mutagenicity compared to parent compounds. This is particularly relevant for quinone metabolites and diol epoxides of benzo[a]pyrene. Complete mineralization to CO2 is the only pathway that fully eliminates mutagenic potential.
+[[pah-properties-toxicity-bioremediation]] discusses the broader toxicity implications. Some fungal metabolites of PAHs retain or even increase mutagenicity compared to parent compounds. This is particularly relevant for quinone metabolites and diol epoxides of benzo[a]pyrene. Complete mineralization to CO2 is the only pathway that fully eliminates mutagenic potential.
 
 ## See Also
 

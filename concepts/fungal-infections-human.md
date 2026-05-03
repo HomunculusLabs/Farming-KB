@@ -124,3 +124,7 @@ See [[fungal-toxins-reference]] for poisoning from toxic mushrooms and [[fungal-
 ## Related
 - [[fungal-allergies]]
 - [[fungal-vaccines]]
+
+## See Also
+
+- [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]

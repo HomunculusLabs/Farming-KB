@@ -88,3 +88,11 @@ Another hybrid approach is "anaerobic soil disinfestation" (ASD), which involves
 - **Occultation** is a light-deprivation method that works in any climate by triggering weed germination and then killing seedlings under opaque cover.
 - For disease-prone beds in hot climates, solarization is the superior choice. For weed management in cool climates or as part of a no-till system, occultation is more versatile and reliable.
 - The most effective long-term strategy integrates both methods with cover cropping, crop rotation, and minimal soil disturbance.
+
+## See Also
+
+- [[jadam-soil-management-no-till-and-weed-control]]
+- [[fukuoka-weed-diversity-soil-nutrients]]
+- [[natural-farming-soil-building]]
+
+- [[organic-pest-and-disease-management]]

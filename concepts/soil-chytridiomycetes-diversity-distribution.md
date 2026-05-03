@@ -16,7 +16,7 @@ type: concept
 
 # Soil Chytridiomycetes
 
-Chytridiomycetes are distributed widely in soils from the Arctic
+[[chytrid-fungi-guide]] are distributed widely in soils from the Arctic
 to the tropics and appear abundantly in soils when specialized
 enrichment methods are used to detect them (Gaertner 1954;
 Sparrow 1960; Booth and Barrett 1976; Powell 1993). Despite
@@ -69,7 +69,8 @@ ecosystems.
 
 ## Ecological Roles
 
-Soil chytrids play several important ecological roles:
+Soil chytrids play several important ecological roles within the
+broader context of [[fungal-biodiversity-in-soil-ecosystems]]:
 
 - Decomposition: Many soil chytrids are saprotrophic,
   decomposing plant debris, pollen grains, and other organic
@@ -125,7 +126,7 @@ obtaining complete pictures of soil fungal diversity.
 
 ## Conservation and Research Needs
 
-Soil chytrids are among the most poorly known components of
+[[fungal-biodiversity-overview]] highlights that soil chytrids are among the most poorly known components of
 soil biodiversity. The development of molecular techniques,
 particularly environmental DNA sequencing, has begun to
 reveal their true diversity, which likely far exceeds the

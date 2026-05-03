@@ -129,3 +129,4 @@ ethnobotany, chemistry, and cultural anthropology in
 
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
+- [[sacred-gasteromycetes-non-psilocybin-psychoactive-fungi]]

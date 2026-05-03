@@ -147,6 +147,14 @@ condition.
 
 ## See Also
 
+- [[psilocybin-tryptamine-chemistry-fungi]]
+- [[emcdda-psilocybin-pharmacology-and-chemistry]]
+- [[psilocin-and-psilocybin-chemistry]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
+- [[gartz-psilocybin-potency-and-alkaloid-variations]]
+
+- [[psilocybin-psilocin-chemistry]]
+
 - [[Neurotropic Fungi Classification]]
 - [[Psilocybe cubensis Distribution and Ecology]]
 - [[Psilocybe Diversity in Mexico]]

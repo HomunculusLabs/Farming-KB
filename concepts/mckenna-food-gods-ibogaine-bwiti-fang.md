@@ -124,6 +124,12 @@ colonialism and conversion.
 
 ## See Also
 
+- [[mckenna-huxley-mind-at-large-reducing-valve]]
+
+- [[mckenna-jaynes-bicameral-mind-breakdown]]
+
+- [[mckenna-dioscorea-population-reproduction-effects]]
+
 - [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-archaic-revival]]
 - [[iboga-and-ibogaine-profile]]

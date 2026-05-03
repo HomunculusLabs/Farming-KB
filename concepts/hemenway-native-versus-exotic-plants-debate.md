@@ -122,6 +122,8 @@ and resources from elsewhere.
 
 ## See Also
 
+- [[natives-vs-exotics]]
+
 - [[hemenway-ecological-principles-niche-succession-biodiversity]] for the
   underlying ecological concepts
 - [[hemenway-ecological-garden-design]] for the design approach

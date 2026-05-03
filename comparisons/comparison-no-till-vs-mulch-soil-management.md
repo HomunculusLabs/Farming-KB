@@ -126,6 +126,8 @@ The result is a garden that becomes more productive and self-sufficient with eac
 
 ## See Also
 
+- [[comparison-solarization-vs-occultation]]
+
 - [[comparison-no-till-vs-conventional-tillage]]
 - [[comparison-mulch-vs-cover-crops]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]

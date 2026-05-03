@@ -119,7 +119,7 @@ Laetiporus sulphureus is widely regarded as one of the finest edible wild mushro
 
 ## See Also
 
-- [[fomes-fomentarius]] — Tinder conk, another prominent polypore bracket fungus
+- [[fomes-entity]] — Tinder conk, another prominent polypore bracket fungus
 - [[pleurotus-ostreatus]] — Oyster mushroom, widely cultivated edible fungus
 - [[ganoderma-lucidum]] — Reishi, medicinal polypore with overlapping pharmacological properties
 - [[trametes-versicolor]] — Turkey tail, polypore with well-studied immunomodulatory polysaccharides

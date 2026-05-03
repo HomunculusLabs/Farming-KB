@@ -1,162 +1,122 @@
 ---
 title: Amanita muscaria
-tags:
-  - mycology
-  - fungi
-  - toxicology
-  - Agaricaceae
-  - ibotenic acid
-  - muscimol
+tags: [mycology, amanita, fly-agaric, muscimol, ibotenic-acid, toxicology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - carolina-mushrooms_08qxp.md
+  - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
 # Amanita muscaria
 
-Amanita muscaria, commonly known as the fly agaric, is the best-known
-representative of the Agaric family (Agaricaceae) among hallucinogenic
-mushrooms. Unlike the psilocybin-containing mushrooms of the genus
-[[Psilocybe cubensis]], the active chemicals in Amanita muscaria,
-namely muscimol, ibotenic acid, and muscarine, are fundamentally
-different in their chemical structure, mechanism of action, and risk
-profile. This species has gained commercial significance as a legal
-alternative to prohibited psilocybin mushrooms.
+Amanita muscaria, commonly known as the fly agaric, is the most well-known representative of the Agaric family (Agaricaceae) of hallucinogenic mushrooms. It is visually distinctive with its bright red cap dotted with white spots, making it one of the most recognizable mushroom species in popular culture and folklore. Unlike the psilocybin-containing mushrooms of the [[Psilocybe]] genus, A. muscaria contains an entirely different set of active compounds and carries substantially greater toxicity risks.
+
+## Chemical Composition
+
+The active chemicals contained in Amanita muscaria are fundamentally different from those found in psilocybin-containing mushrooms. The primary psychoactive compounds are:
+
+- **Muscimol**: The principal psychoactive agent, a GABA-A receptor agonist that produces sedative-hypnotic, dissociative, and hallucinogenic effects.
+- **Ibotenic acid**: A glutamate receptor agonist that acts as a neurotoxin and prodrug for muscimol. Ibotenic acid is converted to muscimol through decarboxylation, which occurs when the mushroom is dried or heated.
+- **Muscarine**: Present in small quantities, it acts on parasympathetic nervous system receptors but is not believed to be responsible for the primary psychoactive effects at the concentrations found in A. muscaria.
+
+These compounds bear no chemical relationship to [[psilocybin pharmacology|psilocybin]] or psilocin. The psychoactive effects profile is therefore entirely distinct from that of [[Psilocybe cubensis]] and other tryptamine-containing mushrooms.
 
 ## Distinction from Psilocybin Mushrooms
 
-Amanita muscaria belongs to an entirely different fungal family and
-produces a completely different class of psychoactive compounds compared
-to psilocybin-containing mushrooms. While psilocybin and psilocin are
-indolealkylamines acting primarily as serotonin 5-HT2A agonists, the
-active constituents of Amanita muscaria operate through different
-neuropharmacological pathways:
+Amanita muscaria is not explicitly dealt with in most psilocybin-focused research and legislation. It belongs to the Agaricaceae family rather than the Strophariaceae, Bolbitiaceae, Coprinaceae, or Cortinariaceae families that contain psilocybin-producing genera. Key differences include:
 
-- **Muscimol**: A GABA-A receptor agonist that produces sedative,
-  dissociative, and hallucinogenic effects
-- **Ibotenic acid**: A glutamate receptor agonist that acts as a
-  CNS excitant and is a prodrug that decarboxylates to muscimol upon
-  drying or heating
-- **Muscarine**: A parasympathomimetic compound, though present in
-  relatively small quantities in Amanita muscaria
-
-These compounds are structurally and pharmacologically unrelated to the
-tryptamine class described in [[psilocybin-chemistry-pharmacology]].
-
-## Appearance
-
-Amanita muscaria is one of the most recognisable mushrooms in the world,
-with its bright red cap covered in white spots. This iconic appearance has
-made it a cultural symbol featured in children's books, video games,
-fairy tales, and holiday decorations. Despite its familiarity, many
-people are unaware of its psychoactive and potentially toxic properties.
-
-The cap is typically 8 to 20 cm in diameter, initially hemispherical
-before flattening with age. The white spots (warts) are remnants of the
-universal veil that covered the mushroom during development. The gills
-are white and free, and the stem bears a prominent skirt-like ring and a
-bulbous base with concentric rings of volval tissue.
+| Feature | Amanita muscaria | Psilocybin mushrooms |
+|---------|------------------|---------------------|
+| Active compounds | Muscimol, ibotenic acid | Psilocybin, psilocin |
+| Chemical class | GABAergic/glutamatergic | Tryptamine/serotonergic |
+| Toxicity | Substantial | Low |
+| Fatal poisoning risk | Yes (related species) | Extremely rare |
+| Mechanism | GABA-A agonist | 5-HT2A agonist |
+| Dependency risk | None | None |
+| Withdrawal symptoms | None | None |
 
 ## Toxicity Risks
 
-The active chemicals in Amanita muscaria are known to carry substantial
-toxicity risks, a critical distinction from the relatively low acute
-toxicity of psilocybin. Furthermore, some closely related Amanita species
-are highly toxic and could cause fatal poisoning. This species confusion
-risk is particularly concerning because:
+The toxicity profile of Amanita muscaria is significantly more concerning than that of psilocybin-containing mushrooms. Several factors contribute to the danger:
 
-- Amanita phalloides (death cap) and Amanita virosa (destroying angel)
-  contain amatoxins that cause fatal liver and kidney failure
-- These lethal species can be confused with Amanita muscaria by
-  inexperienced foragers
-- The margin of safety for Amanita muscaria itself is considerably
-  narrower than for psilocybin mushrooms
+- **Substantial toxicity**: The active compounds, particularly ibotenic acid, carry meaningful toxicity risks even at doses near the psychoactive threshold.
+- **Confusion with deadly species**: Some closely related Amanita species, most notably Amanita phalloides (the death cap) and Amanita virosa (the destroying angel), are among the most poisonous organisms known. Accurate identification is critical, as misidentification can be fatal.
+- **Variable potency**: The concentration of active compounds varies widely depending on the mushroom's origin, age, and preparation, making dose prediction difficult.
+- **Narrow therapeutic window**: The gap between a psychoactive dose and a toxic dose is smaller than for psilocybin mushrooms.
 
-The substantial toxicity risks of Amanita species partly explain their
-lower popularity compared to psilocybin mushrooms among recreational
-users.
+These toxicity risks partly explain the historically lower popularity of Amanita muscaria compared to psilocybin-containing species among recreational users. The EMCDDA noted that the lower popularity of Amanita species may partly be explained by the substantial toxicity risks and the potential for fatal poisoning from closely related species.
+
+## Recreational Use
+
+Despite the risks, Amanita muscaria has a long history of use as an intoxicant in various cultures, particularly in Siberia and parts of Northern and Eastern Europe. Traditional preparation methods typically involve drying the mushrooms, which converts ibotenic acid to the less toxic and more psychoactive muscimol, or boiling and discarding the water to leach out ibotenic acid.
+
+The effects of A. muscaria are qualitatively different from psilocybin mushrooms. Users commonly report:
+
+- Sedation and lethargy (in contrast to the stimulation often reported with psilocybin)
+- Dissociative states and dreamlike consciousness
+- Visual distortions that may include perceived changes in the size of objects (macropsia and micropsia)
+- Nausea and gastrointestinal discomfort
+- Confusion and ataxia (loss of motor coordination)
+- Sweating and salivation
+- Disorientation and difficulty with coordination
+- Altered perception of time and space
+
+The overall experience is typically described as less visually intense but more sedating and disorienting than psilocybin mushroom experiences.
 
 ## Emergence as a Legal Alternative
 
-The recent prohibition of psilocybin and psilocin containing fungi in
-countries including the UK and Ireland has provoked an emerging interest
-among retailers in marketing Amanita muscaria as a legal alternative.
-Online headshops such as EveryOneDoesIt.com and Allsalvia.co.uk began
-stocking fly agaric products following the 2005 UK ban on psilocybin
-mushrooms.
+The prohibition of psilocybin-containing mushrooms in several EU countries appears to have provoked an emerging interest among retailers in marketing Amanita muscaria as a legal alternative. This trend was noted particularly in the UK following the July 2005 ban on psilocybin mushrooms, and in Ireland following the February 2006 ban.
 
-This market substitution effect raises significant public health
-concerns documented in discussions of [[hallucinogenic mushroom legal
-status in Europe]]. Users seeking a substitute for psilocybin mushrooms
-may encounter a product with a fundamentally different pharmacological
-profile and a narrower safety margin. The [[smartshop hallucinogenic
-mushroom market]] has similarly been affected by this shift, with some
-retailers pivoting their product lines.
+UK retailers such as EveryOneDoesIt.com and Allsalvia.co.uk began switching their product lines to include Amanita muscaria. Another product increasingly marketed as a legal alternative was Amanita pantherina (the panther mushroom or panther cap), which is a closely related species with similar active compounds and toxicity concerns.
 
-## Other Amanita Species in Trade
+## Health Concerns from Substitution
 
-Amanita pantherina (panther mushroom, or panther cap) is another Amanita
-species that has been marketed as a legal alternative to prohibited
-hallucinogenic mushrooms. Like Amanita muscaria, it contains ibotenic
-acid and muscimol but is generally considered more toxic. The increased
-availability of both Amanita muscaria and Amanita pantherina as
-recreational substances represents a potentially concerning development
-in the evolution of drug markets.
+The shift from psilocybin mushrooms to Amanita muscaria as a legal substitute raises significant public health concerns. Users accustomed to psilocybin mushrooms may underestimate the risks of A. muscaria, assuming similar safety profiles. In reality:
 
-## Historical and Cultural Context
+- The toxicity risks are substantially greater
+- The psychoactive effects are different and potentially more disorienting
+- The risk of fatal poisoning from misidentification is real and significant
+- Appropriate preparation methods (drying, boiling) may not be widely known among users making the switch
+- The substitution may represent a net increase in harm despite the intention of legislators to reduce drug-related harm
 
-Amanita muscaria has a long history of use across different cultures.
-It has been proposed (controversially) as the identity of the Soma of
-ancient Vedic texts and has been used in Siberian shamanic traditions.
-In these traditions, the mushroom was sometimes consumed indirectly
-through the urine of reindeer or humans who had eaten the mushroom, a
-practice that effectively filters out some of the more toxic components
-while preserving the psychoactive muscimol.
+These concerns call for targeted public health information and prevention responses.
 
-The Aztec term "teonanacatl" (divine flesh) sometimes cited in
-connection with Amanita muscaria more likely referred to psilocybin
-mushrooms, adding to the confusion between these chemically distinct
-groups.
+## Other Marketed Amanita Products
 
-## Comparison with Psilocybin Mushrooms
+Beyond whole dried mushrooms, the Amanita muscaria market has expanded to include various processed products:
 
-| Feature | Psilocybin mushrooms | Amanita muscaria |
-|---------|---------------------|-----------------|
-| Primary family | Strophariaceae | Agaricaceae |
-| Active compounds | Psilocybin, psilocin | Muscimol, ibotenic acid |
-| Receptor target | Serotonin 5-HT2A | GABA-A, glutamate |
-| Acute toxicity | Low | Substantial |
-| Lethal confusion risk | Low | High (with other Amanita) |
-| Dependency potential | None | None |
-| Legal status (EU, 2006) | Increasingly controlled | Generally legal |
+- Dried caps and powdered preparations
+- Capsule formulations with standardised doses
+- Extracts and tinctures
+- Combined products with other legal psychoactive herbs
 
-## Health Concerns
+The processing and standardisation of these products varies considerably, with limited quality control or consumer information about active compound concentrations. Retailers' information tends to emphasise positive effects while downplaying risks, consistent with patterns observed across the broader hallucinogenic mushroom retail sector.
 
-The shift from psilocybin mushrooms to Amanita muscaria as a legal
-substitute raises several public health concerns:
+## Prevalence of Use
 
-- Users may assume similar safety profiles despite fundamentally
-  different pharmacology
-- The risk of accidental poisoning from misidentified Amanita species
-  is significant
-- Dose-response relationships are less well characterised for
-  Amanita muscaria
-- Poison control data and clinical experience with Amanita
-  intoxication are more limited than for psilocybin
+Because Amanita muscaria has historically been less popular than psilocybin mushrooms, dedicated prevalence data is limited. Its use has been primarily concentrated in regions where it grows abundantly, such as parts of Northern and Eastern Europe. In Siberia, indigenous peoples have a documented history of using A. muscaria for religious and shamanic purposes, and some of this traditional knowledge has filtered into Western recreational drug culture.
 
-These concerns have prompted calls for further legal and prevention
-responses to address the emerging market for Amanita-based products.
+The recent increase in Amanita muscaria marketing following psilocybin mushroom bans means that prevalence data may become more relevant in the future. Health authorities in the UK and Ireland have noted the emerging trend with concern, as the substitution may expose users to greater risks than the products they replace.
+
+## Preparation and Dosing
+
+Traditional preparation methods are important for reducing toxicity and enhancing psychoactive effects:
+
+- **Drying**: Converts ibotenic acid (more toxic) to muscimol (less toxic, more psychoactive) through decarboxylation. Properly dried A. muscaria is significantly safer than fresh specimens.
+- **Boiling and decanting**: Leaching ibotenic acid into water and discarding the water reduces the toxic fraction while retaining muscimol.
+- **Dosage**: Effective doses are difficult to standardise due to variable potency between specimens, geographic locations, and seasonal factors. This unpredictability is a significant risk factor.
+
+Users transitioning from psilocybin mushrooms to A. muscaria may not be aware of these preparation requirements, increasing the risk of adverse effects from consuming improperly prepared material.
+
+## Regulatory Considerations
+
+The legal status of Amanita muscaria varies across jurisdictions and is often distinct from that of psilocybin mushrooms. Because its active compounds (muscimol, ibotenic acid) are not listed in the 1971 UN Convention on Psychotropic Substances, A. muscaria exists in a regulatory grey area in many countries. However, some countries have enacted specific controls, particularly in response to its marketing as a substitute for prohibited psilocybin mushrooms.
+
+The EMCDDA has noted that use of Amanita muscaria may pose health risks which call for further legal and prevention responses, particularly as the substitution trend has emerged following psilocybin mushroom prohibitions.
 
 ## See Also
 
-- [[amanita-muscaria-pharmacology]]
-- [[amanita-muscaria-and-ibotenic-acid-fungi]]
-- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
-
-- [[psilocybin-chemistry-pharmacology]] for comparison with tryptamine
-  hallucinogens
-- [[Psilocybe cubensis]] for the primary prohibited species
-- [[hallucinogenic mushroom legal status in Europe]] for regulatory
-  context of the substitution effect
-- [[smartshop hallucucinogenic mushroom market]] for retail dynamics
+- [[psilocybin pharmacology]]
+- [[Psilocybe cubensis]]
+- [[hallucinogenic mushroom legislation in Europe]]
+- [[smartshops and hallucucinogenic mushroom retail]]

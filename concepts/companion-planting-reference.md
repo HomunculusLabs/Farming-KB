@@ -110,3 +110,4 @@ These plants attract pollinators and predatory insects that control pest populat
 - [[composting-methods-comparison]] for building soil fertility to support companion systems
 - [[square-foot-gardening]] for spacing guidance in intensive layouts
 - [[raised-bed-gardening]] for bed construction suited to companion planting
+- [[comparison-fennel-vs-dill]]

@@ -153,6 +153,11 @@ illustrated by the controversial case of Panaeolina foenisecii.
 
 ## See Also
 
+- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
+
+- [[psilocybin-psilocin-chemistry]]
+- [[psilocybin-mushroom-distribution-worldwide]]
+
 - [[Psilocybe cubensis Distribution and Ecology]]
 - [[Psilocybe Diversity in Mexico]]
 - [[Psilocybin and Indole Alkaloid Chemistry in Fungi]]

@@ -150,6 +150,15 @@ cultural complexity.
 
 ## See Also
 
+- [[mushroom-foraging-traditions-europe]]
+- [[andrija-puharich-sacred-mushroom-1959]]
+- [[sacred-mushroom-and-the-cross]]
+- [[sacred-mushroom-ceremonies]]
+- [[sacred-meal-ancient-traditions]]
+
+- [[entheogen-culture]]
+- [[psilocybe-diversity-in-mexico]]
+
 - [[Psilocybe Diversity in Mexico]]
 - [[Neurotropic Fungi Classification]]
 - [[Psilocybin and Indole Alkaloid Chemistry in Fungi]]

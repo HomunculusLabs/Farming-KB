@@ -123,7 +123,11 @@ White Widow's introduction in the mid-1990s represented a watershed moment in ca
 
 ## See Also
 
+- [[cannabis-endocannabinoid-system]]
+
+- [[jock-horror]]
+
 - [[jack-herer]] — Another landmark Dutch hybrid with different sativa-dominant characteristics
-- [[northern-lights]] — Pure indica that influenced the indica parent of White Widow
-- [[skunk-1]] — Foundational hybrid strain from which many Dutch lines descend
-- [[haze]] — Landmark sativa strain that represents the opposite end of the cannabis spectrum
+- northern lights — Pure indica that influenced the indica parent of White Widow
+- skunk 1 — Foundational hybrid strain from which many Dutch lines descend
+- haze — Landmark sativa strain that represents the opposite end of the cannabis spectrum

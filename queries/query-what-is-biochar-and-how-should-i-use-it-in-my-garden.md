@@ -117,6 +117,8 @@ Biochar is often confused with or compared to other amendments, but it serves a 
 
 ## See Also
 
+- [[query-what-is-allelopathy-and-how-can-i-use-it-in-my-garden]]
+
 - [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[cannabis-living-soil-amendment-schedule]]

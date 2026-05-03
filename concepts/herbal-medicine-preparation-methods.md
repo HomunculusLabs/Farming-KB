@@ -103,6 +103,10 @@ The choice of preparation depends on the plant part being used, the solubility o
 Water-based preparations are best for daily tonics, gentle support, and when rapid absorption is not critical. Alcohol-based preparations are best for concentrated doses, rapid absorption, and long-term storage. Oil-based preparations are best for topical application and lipid-soluble compounds. Powders and capsules offer convenience and whole-herb delivery. Combining multiple preparation methods for the same herb (for example, taking both a tea and a tincture) can provide both immediate and sustained effects.
 
 ## See Also
+
+- [[withania-somnifera]]
+
+- [[leonurus-cardiaca]]
 - [[passiflora-incarnata]]
 - [[herbal-medicine-making-basics]]
 - [[herbal-tinctures-guide]]

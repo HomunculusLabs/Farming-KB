@@ -140,3 +140,4 @@ For most home gardens, a combination works best: chop-and-drop for perennial bed
 - [[teaming-with-nutrients-composting-and-nutrient-cycling]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
 - [[green-manure-cover-crops]]
+- [[sida-rhombifolia]]

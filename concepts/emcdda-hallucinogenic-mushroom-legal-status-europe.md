@@ -134,3 +134,4 @@ Very few data are available on drug law offences:
   data that prompted legislative action
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]] for prevention
   responses accompanying legal changes
+- [[hallucinogenic-mushroom-legislation-in-europe]]

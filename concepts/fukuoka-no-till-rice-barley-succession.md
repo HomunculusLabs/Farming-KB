@@ -85,3 +85,7 @@ It took the research establishment twenty years to catch up with what Fukuoka ha
 
 See also: [[fukuoka-early-farming-experiments]], [[fukuoka-why-tillage-destroys-soil]], [[fukuoka-crop-rotation-natural-farming]], [[fukuoka-seed-ball-one-seed-technique]], [[fukuoka-living-soil]]
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
+
+## See Also
+
+- [[fukuoka-no-tillage-rice-barley-succession]]

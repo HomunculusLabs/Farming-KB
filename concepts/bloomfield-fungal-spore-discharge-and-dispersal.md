@@ -104,6 +104,8 @@ For most terrestrial fungi, wind is the primary dispersal vector:
 
 ## See Also
 
+- [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
+
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 
 - [[coprophilous-fungi-ecology]]

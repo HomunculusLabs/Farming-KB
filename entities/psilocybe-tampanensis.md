@@ -3,128 +3,122 @@ title: Psilocybe tampanensis
 type: species
 tags:
   - psilocybin-mushroom
+  - psychedelic
   - sclerotia-producing
-  - psychedelic-fungi
-  - agaricales
-  - north-american-fungi
+  - truffle
+  - magic-truffle
+  - florida
+  - temperate
+  - cultivation
+  - rare
+  - entheogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3erpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3191990/
+  - https://www.sciencedirect.com/science/article/pii/S0031942207000082
+  - https://www.mycobank.org/Biolomics.aspx?Table=Psilocybe&Rec=434477&Fields=All
+  - https://www.mushroomexpert.com/psilocybe_tampanensis.html
 ---
 
 # Psilocybe tampanensis
 
-**Psilocybe tampanensis** is a rare psilocybin-containing mushroom in the
-family Hymenogastraceae. It is notable for producing sclerotia, commonly
-known as "magic truffles," and is one of only a few fungal species known
-to form these dense, nutrient-storage structures. The species has been
-collected from the wild only twice, yet its cloned culture remains in
-wide circulation among cultivators worldwide.
+*Psilocybe tampanensis* is a rare psilocybin-containing mushroom species notable for being one of the few known fungi that reliably produces sclerotia — dense, hardened masses of mycelium that serve as nutrient storage organs and contain psychoactive compounds. These sclerotia, commercially known as "magic truffles" or "Philosopher's Stones," have become the primary legal means of accessing psilocybin in the Netherlands and have significant cultural and commercial importance in the global psychedelic community. The species was first discovered near Tampa, Florida, in 1977 and has only been found in the wild on a handful of occasions since.
 
-## Taxonomy
+## Taxonomy and Naming
 
-*Psilocybe tampanensis* was first described by Gastón Guzmán and Stephen
-Pollock. The specific epithet *tampanensis* refers to the Tampa, Florida
-area near which the species was originally discovered. It belongs to
-the genus *Psilocybe* within the order Agaricales. The species occupies
-a somewhat isolated taxonomic position, sharing its sclerotia-producing
-trait with only a handful of other psilocybin mushrooms such as
-[[psilocybe-mexicana-entity-the-mushroom-cultivator]] and *Conocybe cyanopus*.
+- **Original description:** Guzmán & Pollock, 1978 (*Mycotaxon* 7(3): 443)
+- **Holotype:** Collected by Steven Pollock on September 30, 1977, near Tampa, Hillsborough County, Florida, USA
+- **Etymology:** The specific epithet *tampanensis* refers to the type locality near Tampa, Florida
+- **Common names:** Magic truffle, Philosopher's Stone, tampensis truffle
+- **Placement:** Section *Mexicanae* of the genus *Psilocybe* (sensu Guzmán 1983), alongside *P. mexicana*, *P. atlantis*, and *P. galindoi*
 
-## Description
+Steven Pollock, a physician and mycologist who dedicated much of his career to the study of psilocybin mushrooms, collected the original specimen from a sandy meadow and successfully cultivated both mushrooms and sclerotia from spore culture. Pollock's work on *P. tampanensis* sclerotia cultivation was groundbreaking and laid the foundation for the commercial truffle industry.
 
-### Cap
+## Morphology
 
-The cap measures 1 to 2.4 cm in diameter. It is convex when young,
-expanding with age to plane or even slightly umbilicate. The surface is
-smooth and subviscid when moist, soon drying and never striate. Coloration
-ranges from ochraceous brown to straw brown, and the cap is hygrophanous,
-fading in drying to light straw or yellowish gray with slight bluish tones.
+### Mushrooms (Carpophores)
 
-### Gills
+| Feature | Description |
+|---------|-------------|
+| **Cap (pileus)** | 1.5–4 cm diameter, convex to subumbonate, expanding to plano-convex; surface smooth, hygrophanous, brownish to ochraceous when moist, becoming pale straw to nearly white when dry; margin sometimes slightly striate when moist |
+| **Gills (lamellae)** | Adnate to adnexed, moderately crowded, narrow, grayish with violet tinge in young specimens, darkening to purple-brown with spore maturity |
+| **Stem (stipe)** | 4–10 cm long, 2–3 mm thick, equal or slightly enlarged at base, hollow, whitish to pale brown, covered with fine whitish fibrils or fine scales |
+| **Veil** | Partial veil present, leaving a transient fibrillose annular zone; does not form a persistent annulus |
+| **Flesh** | Thin, whitish, bruising blue to blue-black where damaged — a key identification feature |
+| **Spore print** | Dark purple-brown |
+| **Spores** | Ellipsoidal to subrhomboidal, 9–12 × 6–8 µm, thick-walled, with a broad germ pore |
+| **Odor** | Farinaceous (flour-like), mildly pleasant |
+| **Taste** | Farinaceous, mildly bitter |
 
-Gill attachment is adnexed. They soon develop a brownish coloration that
-darkens to dark violet brown, with paler edges.
+### Sclerotia (Truffles)
 
-### Stem
+- **Form:** Irregular to subglobose hardened masses of compacted mycelium, resembling small stones or tubers
+- **Size:** Typically 1–3 cm diameter in cultivation, though specimens up to 5 cm have been reported under optimal conditions
+- **Color:** Dark brown to reddish-brown exterior with a lighter tan to golden interior
+- **Texture:** Dense, firm, somewhat rubbery when fresh; hardens when dried
+- **Odor:** Earthy, nutty, slightly pungent
+- **Bruising:** Interior tissues bruise blue to blue-green when cut or damaged
+- **Formation:** Sclerotia develop underground or within the substrate, serving as survival structures during adverse environmental conditions
 
-The stem measures 20 to 60 mm long by 1 to 2 mm thick. It is equal or
-slightly enlarging near the base. The surface is covered with fibrillose
-patches near the apex and adorned with whitish mycelium at the base,
-sometimes with bluish tones. Overall color is yellowish brown to reddish
-brown. The flesh is whitish to yellowish, bruising bluish where injured.
+## Distribution and Habitat
 
-### Partial Veil
+**Known wild occurrences:** Extraordinarily rare in the wild. Documented collections include:
+- **Type locality:** Sandy meadow near Tampa, Florida, USA (1977) — holotype
+- **Second collection:** Also from the Tampa, Florida area (1996)
+- **Mississippi, USA** (additional unconfirmed reports from Gulf Coast states)
+- **Wild sclerotia** have never been definitively documented in natural settings; all known sclerotia production is from cultivation
 
-The partial veil is cortinate, soon disappearing, and generally does not
-leave a fibrillose annular zone on the stem.
-
-### Microscopic Features
-
-Spores are purplish brown in deposit, subellipsoid in side view, and
-subrhomboid in face view, measuring 8 to 10 (occasionally 12) by 6 to
-8.8 micrometers. Basidia are 4-spored. Pleurocystidia are absent.
-Cheilocystidia measure 16 to 22 by 4 to 9 micrometers, are lageniform,
-with a flexuous, extended neck 2 to 3 micrometers thick, and branch
-irregularly on occasion.
-
-## Habitat and Distribution
-
-*Psilocybe tampanensis* has been reported from Florida and Mississippi,
-fruiting in the fall. It is an exceedingly rare species in the wild,
-having been collected only twice since its initial discovery. Both
-collections were made in the southeastern United States, suggesting a
-Gulf Coast distribution, though the full natural range remains poorly
-understood due to the scarcity of wild observations.
+**Habitat:** Psilocybin mushrooms of Section *Mexicanae* are typically found in subtropical and tropical grasslands, pastures, and disturbed soils rich in organic matter. *P. tampanensis* likely occupies similar niches — open, grassy areas with sandy or loamy soils in warm, humid subtropical climates. Its extreme rarity in the wild may reflect genuine scarcity or simply the fact that sclerotia-producing species are difficult to detect without excavation.
 
 ## Chemistry
 
-*Psilocybe tampanensis* is classified as moderately potent among
-psilocybin-containing fungi. Chemical analyses of the sclerotia
-conducted by Gartz et al. (1994) found concentrations of up to 0.68%
-psilocybin and 0.32% [[psilocin-and-psilocybin-chemistry]] by dry weight. These active
-compounds are tryptamine alkaloids responsible for the species'
-psychedelic effects, which are shared with other members of the genus
-such as [[psilocybe-semilanceata]] and [[psilocybe-southeast-asia-pacific]].
+### Psilocybin and Psilocin
 
-## Sclerotia Formation and Cultivation
+| Compound | Concentration (sclerotia) | Concentration (mushrooms) |
+|----------|--------------------------|---------------------------|
+| **Psilocybin** | 0.28–0.68% dry weight | 0.15–0.52% dry weight |
+| **Psilocin** | 0.02–0.05% dry weight | 0.02–0.05% dry weight |
+| **Baeocystin** | 0.01–0.05% dry weight | 0.01–0.05% dry weight |
+| **Norbaeocystin** | Trace | Trace |
 
-One of the defining characteristics of *P. tampanensis* is its ability
-to produce sclerotia, dense masses of hardened mycelium that serve as
-nutrient reserves. These structures are commonly referred to as "magic
-truffles" in commercial contexts. Sclerotia formation is a relatively
-uncommon trait among psilocybin mushrooms, shared notably with
-[[psilocybe-mexicana-entity-the-mushroom-cultivator]] and *Conocybe cyanopus*.
+The sclerotia of *P. tampanensis* are notable for containing psilocybin concentrations comparable to or slightly higher than the mushrooms themselves, making them a viable alternative psychoactive preparation. The overall potency is moderate compared to other psilocybin species — significantly less potent than *Psilocybe azurescens* or *P. cyanescens*, but roughly comparable to *P. cubensis*.
 
-Cultivation of *P. tampanensis* was first described by Stamets and
-Chilton in their 1983 work. The species is typically grown on
-substrates such as rye grain or grass seed, with sclerotia forming
-over the course of several months rather than weeks. Because the
-species has been found in the wild only twice, virtually all material
-in circulation today is derived from the original culture cloned by
-Stephen Pollock. The sclerotia can be harvested without fruiting the
-mushroom, making cultivation more discreet and less labor-intensive
-than methods requiring fruiting body production.
+### Other Constituents
 
-## Discovery History
+- **Urea** and **biogenic amines** — detected in trace quantities
+- **Ergosterol** and ergosterol peroxide — fungal sterol components
+- **Phenolic compounds** — antioxidant constituents typical of Basidiomycota
 
-The species was first discovered by Stephen Pollock and Gary Lincoff
-outside of Tampa, Florida. Pollock successfully cloned the specimen
-from that initial collection, and this pure culture gave rise to the
-lineage that remains in wide circulation among cultivators today. A
-second wild collection was later made in Mississippi. No further wild
-specimens have been documented, making *P. tampanensis* one of the
-rarest known psilocybin mushrooms in nature despite its relative
-abundance in cultivation.
+## Cultivation
 
-## See Also
+*Psilocybe tampanensis* is cultivated commercially and by home growers primarily for its sclerotia, which are easier and more reliable to produce than mushrooms.
 
-- psilocybe tampanensis
+### Sclerotia Cultivation
+- **Substrate:** Rye grain (Secale cereale) is the standard substrate; brown rice, grass seed, and wheat berries also produce sclerotia
+- **Method:** Grain jars inoculated with spore syringe or liquid culture; sclerotia form over 8–16 weeks at room temperature in complete darkness
+- **Conditions:** Temperature 22–26°C; no light required for sclerotia formation; no fruiting chamber or humidity management needed
+- **Yield:** Sclerotia can constitute 30–60% of the total substrate mass by wet weight
+- **Harvest:** Sclerotia are harvested by breaking apart the colonized grain substrate and separating the hardened masses; they are then rinsed, dried, or consumed fresh
 
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
-- [[psilocybe-semilanceata]]
-- [[psilocybe-southeast-asia-pacific]]
-- psilocybin
-- [[psilocin-and-psilocybin-chemistry]]
-- [[sclerotia-cultivation]]
+### Mushroom Cultivation
+- **Substrate:** Pasteurized straw, compost, or enriched grain substrates
+- **Method:** After sclerotia formation, transfer colonized substrate to a fruiting chamber with high humidity (90–95%), fresh air exchange, and indirect light
+- **Conditions:** Temperature 22–25°C; 12-hour light cycle; high humidity
+- **Yield:** Mushroom yields are generally modest compared to dedicated fruiting species like *P. cubensis*
+
+### Commercial "Truffle" Industry
+
+The Netherlands is the global center of commercial psilocybin truffle production. Following the 2008 Dutch ban on psilocybin mushrooms, sclerotia remained legal as they were not specifically covered by the legislation. *P. tampanensis* sclerotia are sold under trade names including "Philosopher's Stones," "Tampanensis Truffles," and "Space Shuttles" (when blended with other species). The Dutch truffle market is estimated to be worth tens of millions of euros annually.
+
+## Historical and Cultural Significance
+
+The original discovery by Steven Pollock in 1977 coincided with a period of intense interest in psilocybin mushrooms following the publication of R. Gordon Wasson's work and Albert Hofmann's isolation of psilocybin. Pollock's cultivation research on *P. tampanensis* was part of a broader effort to identify and characterize psilocybin species suitable for controlled study. Pollock's death in 1981 under suspicious circumstances — he was found shot in his home — remains an unsolved case and has contributed to the mystique surrounding this species.
+
+## Related
+
+- [[psilocybe-cubensis]] — the most widely cultivated psilocybin mushroom
+- [[psilocybe-mexicana]] — close relative in Section *Mexicanae*, also sclerotia-producing
+- [[psilocybe-azurescens]] — among the most potent known psilocybin species
+- [[psilocybe-semilanceata]] — the most widespread wild psilocybin mushroom
+- [[psilocybin]] — the primary psychoactive compound

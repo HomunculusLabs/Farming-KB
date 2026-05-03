@@ -136,6 +136,8 @@ mushroom market:
 
 ## See Also
 
+- [[hallucinogenic-mushroom-legal-status-europe]]
+
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]

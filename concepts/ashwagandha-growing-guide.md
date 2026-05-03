@@ -147,3 +147,4 @@ Harvesting method:
 - [[adaptogenic-herbs-guide]]
 - [[herbal-plant-remedies]]
 - [[solomon-seed-saving-guide|seed saving]]
+- [[ashwagandha]]

@@ -86,3 +86,4 @@ The chapter stands as one of McKenna's most historically grounded contributions 
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]] — McKenna's psilocybin theories
 - [[psychedelic-set-and-setting]] — the role of intention in psychedelic experiences
 - [[cannabis-ancient-history]] — broader cannabis history context
+- [[mckenna-lumsden-wilson-gene-culture-coevolution]]

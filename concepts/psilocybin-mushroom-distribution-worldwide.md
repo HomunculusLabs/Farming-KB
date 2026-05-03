@@ -102,6 +102,8 @@ Six classic habitat types for psilocybin mushrooms (per Stamets):
 6. **Tropical forest floor** -- Numerous species in undisturbed subtropical/tropical forests
 ## See Also
 
+- [[psilocybe-cubensis-distribution-and-ecology]]
+
 - [[psilocybe-tibeticensis]]
 
 - [[psilocybe-antioquensis]]

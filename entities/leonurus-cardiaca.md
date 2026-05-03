@@ -120,7 +120,13 @@ Leonurus cardiaca has several applications in permaculture design and ecological
 
 ## See Also
 
+- [[herbal-medicine-preparation-methods]]
+
 - [[leonotis-leonurus]] — Wild dagga, a related Lamiaceae species with mild psychoactive properties
-- [[melissa-officinalis]] — Lemon balm, another calming Lamiaceae herb for anxiety and palpitations
-- [[vitex-agnus-castus]] — Chaste tree, complementary herb for female reproductive health
-- [[scutellaria-baicalensis]] — Chinese skullcap, sharing flavonoid chemistry and anxiolytic properties
+- melissa officinalis — Lemon balm, another calming Lamiaceae herb for anxiety and palpitations
+- vitex agnus castus — Chaste tree, complementary herb for female reproductive health
+- scutellaria baicalensis — Chinese skullcap, sharing flavonoid chemistry and anxiolytic properties
+
+## See Also
+
+- [[leonurus-sibiricus]]

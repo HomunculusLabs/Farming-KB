@@ -121,3 +121,7 @@ isolated indigenous groups may contain novel alkaloids of
 pharmacological interest. Urgent ethnobotanical fieldwork is needed
 to record this knowledge before it is lost to cultural disruption
 and environmental destruction of Amazonian habitats.
+
+## See Also
+
+- [[tetrapteris-methystica]]

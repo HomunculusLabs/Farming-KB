@@ -130,3 +130,8 @@ to manage these impacts without further environmental damage.
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[bloomfield-bioluminescent-fungi-overview]]
+- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
+- [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]
+- [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]]
+- [[bloomfield-rice-blast-magnaporthe-appressorium-mechanics]]
+- [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]

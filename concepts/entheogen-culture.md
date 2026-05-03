@@ -114,6 +114,10 @@ McKenna's Esalen lecture provides a distinctive view of shamanism:
 
 ## See Also
 
+- [[smartshop-hallucinogenic-mushroom-market]]
+
+- [[sacred-mushroom-traditions-in-mexico]]
+
 - [[psychedelic-mushroom-history]] for the historical timeline
 - [[psychedelic-compounds-reference]] for substance details
 - [[amanita-muscaria-guide]] for the Soma/Haoma candidate

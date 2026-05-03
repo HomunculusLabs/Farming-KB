@@ -12,7 +12,7 @@ sources:
 
 Seawater is regarded in Korean Natural Farming as an essential nutrient
 source alongside NPK. Dr. Cho treats seawater and sun-dried salt as critical
-inputs providing the full spectrum of minerals and trace elements plants
+inputs providing the full spectrum of [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment|minerals]] and trace elements plants
 require.
 
 ## Why Seawater Matters
@@ -96,7 +96,7 @@ Seawater is incorporated into multiple
 
 ## Comparison with JADAM
 
-The [[jadam-sea-salt-and-mineral-solutions]] also advocates
+[[jadam-seawater-mineral-supplementation]] also advocates
 seawater use, recommending 20 liters per 0.1 hectare (600 g sea salt
 equivalent) applied 3-4 times monthly. JADAM emphasizes that seawater
 contains 83 identified elements and that combining it with
@@ -113,8 +113,9 @@ cost-effective ways to combat soil mineral depletion.
 
 ## See Also
 
--   [[knf-seawater-and-fermented-seawater]]
--   [[jadam-sea-salt-and-mineral-solutions]]
--   [[cho-water-soluble-calcium-and-potassium]]
--   [[knf-brown-rice-vinegar]]
--   [[cho-brown-rice-vinegar-preparation]]
+- [[knf-seawater-and-fermented-seawater]]
+- [[knf-seawater-fermented-seawater-guide]]
+- [[jadam-sea-salt-and-mineral-solutions]]
+- [[cho-water-soluble-calcium-and-potassium]]
+- [[knf-brown-rice-vinegar]]
+- [[cho-brown-rice-vinegar-preparation]]

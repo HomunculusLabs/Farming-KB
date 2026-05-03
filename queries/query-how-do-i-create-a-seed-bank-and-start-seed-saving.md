@@ -116,3 +116,7 @@ Join a local seed library or seed swap to diversify your bank and share your loc
 - Store seeds cool, dark, and dry for maximum shelf life.
 - Test germination before planting saved seed.
 - Save enough seed for two full seasons plus a failure buffer.
+
+## See Also
+
+- [[query-what-is-seed-viability-and-how-do-i-test-it]]

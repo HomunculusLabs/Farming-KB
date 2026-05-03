@@ -123,3 +123,24 @@ Seed pelleting supports several permaculture strategies:
 - [[mollison-soil-erosion-control]] on steep or disturbed sites
 - Building [[mollison-seed-resources-and-sovereignty]] through
   local seed processing capacity
+
+## See Also
+
+- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] - mycorrhizal
+  inoculation methods for seedling establishment
+- [[stump-inoculation-techniques]] - inoculation of woody
+  substrates with fungal partners
+- [[truffle-inoculated-seedlings]] - inoculated seedling
+  production for outplanting
+- [[vegetable-seed-and-transplant-guide]] - seed selection and
+  transplant timing guidance
+- [[ultra-low-cost-seed-saving]] - low-cost seed saving
+  methods for local sovereignty
+
+[[teaming-with-fungi-mycorrhizal-inoculation-techniques]] complements
+the inoculation step described above. [[mollison-savannah-forestry-and-land-rehabilitation]]
+describes the large-scale context where pelleted seed is most valuable.
+See also [[mollison-green-manure-soil-fertility]] for green manure
+crops that can be established via pelleted seed.
+[[mollison-plant-nursery-species-selection]] covers species that
+benefit from the pelleting approach described here.

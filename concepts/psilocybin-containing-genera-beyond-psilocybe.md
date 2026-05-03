@@ -114,3 +114,26 @@ properly identified, fresh material.
 - [[neurotropic-fungi]]
 - [[psilocybin]]
 - [[coprophilous-fungi]]
+- [[allen-gymnopilus-and-other-psychoactive-genera]] - Gymnopilus
+  and other genera covered by Allen
+- [[stamets-psylo-minor-genera-conocybe-gymnopilus]] - minor genera
+  from Staments' identification guides
+- [[stamets-psylo-minor-genera-inocybe-pluteus]] - Inocybe and
+  Pluteus species profiles
+- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] -
+  Panaeolus and Copelandia identification
+- [[stamets-psylo-panaeolus-genus-overview]] - Panaeolus genus
+  overview and species diversity
+- [[stamets-psi-bluing-reaction-psilocybin-indicator]] - bluing
+  reaction as indicator of psilocybin content
+- [[tropical-vs-temperate-distribution-neurotropic-fungi]] -
+  distribution patterns across climate zones
+- [[stamets-psilocybin-genera-beyond-psilocybe]] - Stamets'
+  overview of non-Psilocybe genera
+
+[[allen-gymnopilus-and-other-psychoactive-genera]] provides additional
+detail on Gymnopilus species. [[stamets-psylo-minor-genera-inocybe-pluteus]]
+covers Inocybe and Pluteus identification. [[tropical-vs-temperate-distribution-neurotropic-fungi]]
+examines climate-driven distribution patterns across these genera.
+[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] covers
+the coprophilous genera Panaeolus and Copelandia in detail.

@@ -10,6 +10,9 @@ za]
 
 # Mycorrhizal Helper Bacteria and Mycorrhizosphere Interactions
 
+The [[mycorrhizal-helper-bacteria]] concept intersects with broader
+[[mycorrhizal-symbiosis]] and [[actinomycetes-soil-biology]] research.
+
 [[mycorrhizal-helper-bacteria]] (MHB) are soil bacteria that promote the establishment and functioning of mycorrhizal symbioses. The concept was formalized by Garbaye in 1994 to describe bacteria that selectively stimulate [[mycorrhiza]] formation. These bacteria colonize the mycorrhizosphere, the zone of soil influenced by mycorrhizal roots and their associated hyphae, and interact with both fungal and plant partners to enhance symbiotic function.
 
 The concept was formalized by Garbaye in 1994 to describe bacteria that selectively stimulate mycorrhiza formation.
@@ -108,4 +111,6 @@ Inoculation with MHB alongside mycorrhizal fungi can improve seedling establishm
 
 ## See Also
 
-- [[symbiotic-fungi-mycorrhizosphere-helper-bacteria]]
+[[symbiotic-fungi-mycorrhizosphere-helper-bacteria]],
+[[mycorrhizal-inoculation-techniques]], and
+[[mycorrhizal-biocontrol]]

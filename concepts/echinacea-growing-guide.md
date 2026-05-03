@@ -128,3 +128,4 @@ Under good conditions, expect approximately:
   medicine garden
 ## Related
 - [[gotu-kola-growing-guide]]
+- [[echinacea-purpurea]]

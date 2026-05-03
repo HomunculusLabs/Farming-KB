@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.m
 
 # Palmer on Russula and Lactarius Mushroom Families
 
-Palmer identified the [[russula-edible-species]] and lactarius-rufus|Lactarii (milk mushrooms) as among the safest families for beginners, owing to a crucial characteristic: their poisonous members announced themselves through an acrid, biting taste rather than through a stealthy alkaloid.
+Palmer identified the [[russula-edible-species]] and lactarius-rufus|Lactarii (milk mushrooms) as among the safest families for beginners, owing to a crucial characteristic: their poisonous members announced themselves through an acrid, biting taste rather than through a stealthy alkaloid. For broader context, see [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]. This classification system is foundational to [[mushroom-identification]] practices.
 
 ## The Brittle Fungi: A Defining Trait
 
@@ -37,7 +37,7 @@ Russula, "it will be likely to bite and sting the tongue," while all
 the esculent varieties were "tasteless, mild, or with the flavor of
 chestnuts." This stood in contrast to the deadly [[amanita-genus-morphology]] family, whose
 poisonous members were bland and tasteless — a fact that made the
-Russulae's honest warning system all the more valuable.
+Russulae's honest warning system all the more valuable. Palmer's advice on [[mushroom-identification]] and [[amanita-poisoning-identification-antidotes-palmer]] provides essential safety context for foragers.
 
 Palmer noted that "one very common variety" (Russula alutacea) had a
 bright red top, buff-colored gills, and a stout, short stem. However,
@@ -47,8 +47,7 @@ little piece of the stem of each into my mouth, in order to avoid all
 possibility of mistake."
 
 ## Safety of the Family
-
-Palmer stated that a person might "eat any Russula which tastes good,
+[[amanita-genus-morphology]] species stand in stark contrast to the Russulae's safety. Palmer stated that a person might "eat any Russula which tastes good,
 because in this family the noxious element is an acrid, biting fluid
 like the juice of smartweed or horse-radish." This made the family
 unique among the gill-bearing fungi: the dangerous varieties were
@@ -57,8 +56,7 @@ tasted perfectly pleasant while containing a deadly alkaloid, the
 Russula's poison was immediately apparent to the tongue.
 
 ## The Lactarii: Proceed with Caution
-
-The Lactarii, or milk mushrooms, required more caution. Several
+[[lactarius-cultivation-attempts]] have explored the edibility of several Lactarii species. The Lactarii, or milk mushrooms, required more caution. Several
 varieties exuded a white, acrid milk that was intensely hot and
 unpleasant. Palmer mentioned the brown milk-mushroom (Lactarius
 volemus) as "unquestioned" edible, and noted that several others were
@@ -71,7 +69,7 @@ distinguish the mild from the acrid varieties by taste.
 Palmer was sharply critical of foreign textbooks that indiscriminately
 branded the entire Lactarius and Russula families as "poisonous." He
 considered this a grave injustice, comparable to labeling the Boleti
-as dangerous. While the Amanita was truly deadly, these families were
+as dangerous. The [[european-mushroom-poisoning-history]] documents broader patterns of mycophobic misclassification. While the Amanita was truly deadly, these families were
 at worst "simply disagreeable, or having acrid properties subdued by
 heat." He noted that standard works printed the word "poisonous"
 against any unpleasant plant, creating confusion between genuinely
@@ -80,7 +78,7 @@ deadly fungi and those that were merely unpalatable.
 ## The Acrid Element and Cooking
 
 Palmer observed that the acrid principle in the Russulae and Lactarii
-was, in many cases, destroyed or greatly reduced by cooking. The
+was, in many cases, destroyed or greatly reduced by cooking. See [[palmer-about-mushrooms-cooking-and-preservation]] for Palmer's full culinary guidance. The
 honey-colored mushroom (Agaricus melleus), while very acrid raw, was
 "equally harmless when cooked." This suggested that heat could
 neutralize the biting compounds that made some varieties unpleasant,

@@ -18,7 +18,7 @@ type: concept
 
 Hypholoma capnoides is an aggressive conifer stump decomposer and
 one of the few gourmet mushrooms well-suited to cultivation on
-conifer wood. The Genus Hypholoma (Fries) Kummer includes several
+conifer wood. Its role in [[fungal-wood-decay-types]] makes it ecologically significant. [[hypholoma-capnoides]] belongs to the genus Hypholoma (Fries) Kummer, which includes several
 interesting species, all of which thrive in cold weather, not
 producing when temperatures exceed 60-65 F (15-18 C). Aggressive
 wood decomposers, they share similar cultural requirements and
@@ -48,7 +48,7 @@ Stropharia. They belong to the family Strophariaceae and are
 distinguished from one another on the basis of microscopic
 features so subtle that many researchers have remarked on the
 usefulness of representing this group as one encompassing macro-
-genus.
+genus. See [[growing-gourmet-king-stropharia-cultivation]] for a related Strophariaceae species.
 
 ## Description
 
@@ -66,8 +66,7 @@ brown with spores on the upper regions. Usually growing in
 clusters.
 
 ## Distribution and Habitat
-
-Widely distributed across North America, particularly common in
+[[stamets-outdoor-natural-culture-methods]] describes outdoor cultivation approaches for wood-decomposing fungi. Widely distributed across North America, particularly common in the
 the western United States. Also found throughout the temperate
 regions of Europe, and probably widely distributed through similar
 ecological zones worldwide. A lover of conifer wood, especially
@@ -77,11 +76,8 @@ on alder in the wild, it has been successfully grown on sterilized
 chips of Alnus rubra.
 
 ## Safety Warning
-
 Hypholoma capnoides is not a mushroom for those unskilled in
-[[mushroom-identification]]. Several poisonous mushrooms resemble
-this species and inhabit the same ecological niche. Galerina
-autumnalis, a deadly poisonous mushroom sharing the same habitat,
+[[mushroom-identification]]. [[galerina-autumnalis]], a deadly poisonous mushroom sharing the same habitat,
 can be mistaken for H. capnoides. See [[stamets-psi-galerina-deadly-look-alikes-safety]]
 for identification of dangerous lookalikes. Cultivators should be forewarned
 that several mushroom species can inhabit a single stump or log.
@@ -136,7 +132,7 @@ sublateritium, cultivation on stumps is recommended. This
 aggressive species may be one of the best for recycling millions
 of conifer stumps left in the aftermath of logging. Clusters
 hosting dozens of fruitbodies and weighing up to four pounds have
-been collected in the wild.
+been collected in the wild. See [[stump-inoculation-techniques]] for outdoor inoculation methods.
 
 ### Spawn Expansion
 Nutrified agar into liquid fermentation for 48 hours. The broth
