@@ -105,9 +105,3 @@ Large-area flight-interception traps and light traps provide quantitative sample
 Once collected, fungi of interest or their insect hosts can be placed in various containers. Material should be maintained in as unchanged a condition as possible until study, especially when cultivation is important. Many fungi tolerate drying and can be cultivated from herbarium specimens many years old, but others die within hours of drying.
 
 For molecular studies, it is best not to store specimens in liquid and not to dry them at high temperatures for long periods, as DNA can degrade when moist specimens lie about. Many groups of insect-associated fungi have never been cultured, yet they should still be collected and preserved as voucher specimens.
-
-## See Also
-
-- [[biodiversity-fungi-spore-dispersal]]
-- [[biodiversity-fungi-molecular-methods]]
-- [[biodiversity-fungi-wood-decay-succession]]

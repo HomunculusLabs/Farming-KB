@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [foraging, mushrooms, fungi, species, distribution, safety, ecology, foraging, season-extension]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 ## Overview
 Edible wild mushroom species vary significantly by region in North America. This guide covers the most sought-after edible species for major regions, organized by season. Always verify identification with multiple sources and an experienced forager before consuming any wild mushroom.

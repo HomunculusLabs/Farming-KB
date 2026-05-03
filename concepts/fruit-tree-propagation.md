@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fruit-tree, orchard, homesteading, cultivation, plant-growth, trees, pruning, agriculture]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 
 # fruit tree propagation

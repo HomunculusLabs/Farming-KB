@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fermentation, food, recipe, safety, homesteading, cooking, preservation]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 
 # Fermented Hot Sauce Guide

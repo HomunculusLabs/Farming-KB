@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [earthworks, water-management, permaculture, erosion, regenerative, agriculture, construction]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 # Earthworks for Water Management
 Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in regenerative agriculture, permaculture design, and homesteading. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, fermentation, food, recipe, grain, processing, preparation, homestead-crafts]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 
 # Beer Brewing Basics

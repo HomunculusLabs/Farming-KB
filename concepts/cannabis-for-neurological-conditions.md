@@ -56,29 +56,6 @@ Neurology is one of the most promising areas for medical cannabis research. The 
 - May reduce spasticity, neuropathic pain below injury level
 - THC:CBD combinations most studied
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Related
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific applications

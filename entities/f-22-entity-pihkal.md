@@ -10,15 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 [[al-pihkal-entry-2]] #80. 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN.
 
-
-
-
 ## Chemical Name
 
 6-(2-AMINOPROPYL)-2,2-DIMETHYL-5-METHOXY-2,3-DIHYDROBENZOFURAN
-
-
-
 
 ## Dosage and Duration
 
@@ -27,15 +21,9 @@ sources: ["Shulgin - PIHKAL"]
 | Dosage | greater than 15 mg. |
 | Duration | unknown. |
 
-
-
-
 ## Qualitative Comments
 
 No [[qualitative-comments-methodology-pihkal]] recorded.
-
-
-
 
 ## Extensions and Commentary
 
@@ -53,9 +41,6 @@ Time to abandon ship. The fact that I had just synthesized and discovered the st
 
 #81 FLEA; N-HYDROXY-N-METHYL-3,4-METHYLENEDIOXYAMPHETAMINE
 
-
-
-
 ## Synthesis
 
 To a solution of 43.2 g flaked KOH in 250 mL hot EtOH there was added 96 g 4-methoxyphenol followed by 90 g 2-methylallyl chloride over the course of 2 h. The mixture was held at reflux for 24 h, then added to 1.6 L H2O. There was sufficient 25% NaOH added to make the phase strongly basic, and this was then extracted with 3x200 mL CH2Cl2. The pooled extracts were washed with H2O, and the solvent removed under vacuum. The residue, 125 g of a pale amber oil, was crude 4-(2-methylallyloxy)anisole and was used without further purification in the following reaction.
@@ -70,16 +55,10 @@ To a mixture of 8.0 g N-methylformanilide and 9.2 g POCl3 which had been allowed
 
 (Additional synthesis details available in source.)
 
-
-
-
 ## Safety Notes
 
 F-22 is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
-
 
 ## See Also
 

@@ -72,20 +72,3 @@ Ancient grain varieties selected for mountain conditions show superior resilienc
 The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
-The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
-Holzer's pig paddock system uses animals to root and fertilize soil in controlled areas before planting.
-Ancient grain varieties selected for mountain conditions show superior resilience and nutritional quality.
-The method has been successfully adapted in projects across Europe, Africa, Asia, and the Americas.
-
-Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
-The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.
-Holzer's fish ponds serve multiple functions: aquaculture, irrigation, fire protection, and microclimate creation.
-Terrace construction on slopes prevents erosion while creating level planting areas with improved water retention.
-Mushroom cultivation on logs and in raised beds provides additional food production and aids decomposition.
-
-## Related
-
-- [[sepp-holzer-fruit-tree-varieties]]

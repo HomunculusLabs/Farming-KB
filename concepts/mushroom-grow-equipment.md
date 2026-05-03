@@ -147,6 +147,3 @@ The original PF TEK requires no pressure cooker. Complete kit:
 ## Indoor Growing Technique Equipment (A4 Doc)
 
 Alternative indoor setup using sealed grow bags with filter patches:
-- Polypropylene grow bags with self-healing injection port and filter patch
-- Liquid culture syringes for faster colonization
-- Heat mat with thermostat for temperature control

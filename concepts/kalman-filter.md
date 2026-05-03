@@ -1,3 +1,9 @@
+---
+title: "Kalman Filter"
+sources: []
+tags: []
+---
+
 # Kalman Filter
 ## Overview
 The Kalman filter is a recursive algorithm for estimating the hidden state of a dynamic system.
@@ -136,14 +142,9 @@ It is not a universal substitute for system identification.
 It estimates states within a model; it does not guarantee that the model is true.
 Recognizing these limits is part of competent use.
 ## Related concepts
-bayesian inference
-control theory
-signal processing
-state space models
-sensor fusion
-least squares estimation
-particle filter
-hidden markov models
-- [[byzantine-fault-tolerance]]
-- [[synthetic-data-generation]]
-- [[turbulence-modeling-fluid-dynamics]]
+
+## Related Topics
+These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
+- [[plant-signaling-pathways]]
+- [[computational-fluid-dynamics]]
+- [[fungal-diversity-estimation-methods]]

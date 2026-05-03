@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
 # Fungal Petroleum Hydrocarbon Degradation Mechanisms

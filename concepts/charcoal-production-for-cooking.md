@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, sustainability, processing, ecology, carbon, energy]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 ## Overview
 Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off volatile compounds (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create [[biochar]] as a soil amendment.

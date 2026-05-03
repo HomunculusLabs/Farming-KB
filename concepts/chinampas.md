@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, water, ecology, regenerative, methods, plant-growth, history]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 # Chinampas
 Chinampas are artificial agricultural islands built in shallow lake beds, often called "floating gardens." Developed by the Aztec civilization in the Valley of Mexico starting around the 14th century, chinampas were among the most productive agricultural systems in human history, supporting the massive population of Tenochtitlan (pre-Columbian Mexico City). Modern adaptations of chinampa principles offer a highly productive, aquaculture-integrated growing system applicable to homestead-scale water features, ponds, and wetland edges.

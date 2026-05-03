@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, fermentation, food, recipe, fruit-tree, orchard, preparation, processing]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 # Cider Making Guide
 Hard cider is one of the most accessible and rewarding homestead fermentation projects. If you have apple trees, you have the primary ingredient. Hard cider has a long history in rural homesteading and is experiencing a major renaissance. The process is simpler than [[beer-brewing-basics]] or [[wine-making-from-grapes]] but produces a beverage of equal complexity and character.

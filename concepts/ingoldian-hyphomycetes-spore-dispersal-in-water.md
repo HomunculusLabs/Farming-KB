@@ -130,13 +130,3 @@ Buller and his glioblastoma died in 1944. His ashes returned in a copper urn and
 ## Scientific Significance
 
 Buller's work bridged pure mycology and practical plant pathology. His research on rust fungi informed the barberry eradication programs that reduced [[fungal-interactions-living-plant-surfaces]] losses. His spore discharge studies established fundamental principles that continue to influence research on fungal dispersal biology. His name remains attached to "Buller's drop" and "Buller's phenomenon," ensuring his place in the permanent vocabulary of mycology.
-
-## Further Reading and References
-
-The primary source for this article includes established reference works in mycology, plant pathology, and the history of science. Readers seeking deeper engagement with the primary literature are encouraged to consult the sources listed in the article header.
-
-Additional context has been drawn from peer-reviewed scientific literature, historical records, and contemporary field guides. The interplay between fungal biology and human civilization continues to be an active area of scholarly inquiry with important implications for agriculture, medicine, and environmental management.
-
-## Significance and Broader Connections
-
-The topics discussed in this article connect to wider themes in biology, ecology, and human culture. Understanding these connections enriches our appreciation of the natural world and highlights the importance of continued research and conservation efforts.

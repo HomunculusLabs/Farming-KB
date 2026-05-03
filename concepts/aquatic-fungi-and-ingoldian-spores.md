@@ -25,15 +25,9 @@ sources:
 
 Aquatic fungi are a diverse group of decomposer organisms that live and reproduce in freshwater habitats. The most famous are the Ingoldian hyphomycetes, whose spectacularly shaped spores were discovered by C.T. Ingold in 1938 and revolutionized understanding of fungal diversity in water ecosystems.
 
-
-
-
 ## Ingold's Discovery
 
 Cecil Terence Ingold, a young professor at Leicester University, found extraordinary spores in foam collecting in "a little, alder-lined, babbling brook" near his home in 1938. After months of research he concluded the spores were formed by a hitherto unknown group of aquatic fungi instrumental in leaf decomposition. When he presented his findings to the British Mycological Society, a colleague from Cambridge dismissed them as hairs from plant leaves. Sixty years later, more than 300 species of Ingoldian fungi have been identified, with over 1,000 scientific publications (Money, 2002).
-
-
-
 
 ## Spore Shapes and Their Function
 
@@ -57,9 +51,6 @@ Sigmoid spores tumble through water flow, exploring a large volume. Upon contact
 
 Appendages do NOT slow spore descent through water — experiments show tetraradiate spores fall as fast as spherical spores of similar mass. Water is already so viscous for microscopic particles that all spores settle at millimeters per minute. If appendages slowed sedimentation, terrestrial fungi would have evolved them too (air offers a faster descent rate where braking structures would be more valuable).
 
-
-
-
 ## Ecological Role
 
 Ingoldian fungi are critical decomposers in freshwater ecosystems:
@@ -69,15 +60,9 @@ Ingoldian fungi are critical decomposers in freshwater ecosystems:
 3. **Food web support**: The resulting fungal-enriched debris feeds tiny crustaceans and other aquatic invertebrates
 4. **Abundance**: Spore concentrations reach 20,000 per liter in late fall and early winter
 
-
-
-
 ## Mermaid Life Cycles
 
 Ingoldians are not confined to underwater habitats. Mycelia also grow on plants overhanging creeks, entering water during rainstorms. Spores form both underwater (tetraradiate/aerial conidia) and above water (different spore types), reflecting a dual life cycle between terrestrial and aquatic environments. The above-water spore types are adapted for aerial dispersal, while the aquatic forms are specialized for underwater leaf colonization.
-
-
-
 
 ## Water as Fungal Architect
 

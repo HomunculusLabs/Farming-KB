@@ -4,7 +4,8 @@ created: 2026-04-13
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 # Demeter and Persephone in Eleusinian Mythology
 

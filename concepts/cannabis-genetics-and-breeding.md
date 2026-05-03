@@ -7,10 +7,6 @@ tags: [cannabis, genetics, breeding, hybridization, indica, sativa, ruderalis, l
 sources: [raw/papers/robert-c-clarke-marijuana-botany-an-advanced-study.md]
 ---
 
-
-
-
-
 ## Cannabis Genetics and Breeding
 
 ### Taxonomic Varieties
@@ -69,10 +65,6 @@ A single genetic cross can produce plants with dramatically different phenotypes
 ### The Corn Blight Warning
 
 Clarke draws a direct parallel to the 1970 Southern corn leaf blight that devastated American corn production. A widely planted hybrid shared a common cytoplasm — when a mutant pathogen appeared, it was vulnerable across millions of acres. He warns that patented, genetically uniform Cannabis hybrids face the same risk: if new varieties replace the diverse landrace gene pool, a single pathogen could devastate the entire crop. Preserving genetic diversity through seed reserves of landrace and heirloom varieties is essential.
-
-
-
-
 
 ## See Also
 

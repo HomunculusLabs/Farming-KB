@@ -4,7 +4,8 @@ created: 2026-04-28
 updated: 2026-05-02
 type: concept
 tags: [water, gardening, drought, irrigation]
-sources: []
+sources:
+  - "raw/papers/steve-solomon-growing-vegetables-west-of-the-cascades.md"
 ---
 
 ## The Core Principle

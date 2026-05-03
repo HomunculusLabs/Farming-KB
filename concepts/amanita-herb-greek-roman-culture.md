@@ -87,13 +87,3 @@ This intoxication was "much more pleasant than that produced by the straight ext
 The Ambrosia Society, founded by Teeter in cooperation with the author, is described as "an Educational, Scientific, Religious and Fraternal Association of individuals dedicated to understanding the ancient Sacrament." The society continues Teeter's research into the practical applications of Amanita muscaria, including cultivation of the Living Bread and Sacramental Wine under modern conditions, as detailed in Chapter 15 of the book.
 
 ## See Also
-
-- [[amanita-muscaria-ancient-wine-question]]
-- [[amanita-muscaria-ancient-wine-question]]
-- [[amanita-herb-indo-european-origins]]
-- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
-- [[amanita-herb-celtic-european-folklore]]
-
----
-
-Source: Amanita Muscaria: Herb of Immortality (Teeter), Chapters 1-4, 13-14, 18; pp 7-13, 49-52, 55-57, 83

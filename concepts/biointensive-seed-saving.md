@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/pihkal-a-chemical-love-story.md"
 ---
 # Biointensive Seed Saving
 

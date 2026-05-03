@@ -132,7 +132,6 @@ Toxicology depends on dose, duration, individual metabolism, and the distinction
 
 Hydrazines, carbonyl-reactive compounds, and some drugs can sequester PLP or disrupt PLP-dependent pathways.
 
-
 ## Related Concepts
 PLP chemistry complements [[enzyme-kinetics-michaelis-menten-model]] because cofactor binding and substrate orientation shape catalytic parameters.
 

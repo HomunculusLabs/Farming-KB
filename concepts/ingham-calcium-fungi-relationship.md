@@ -11,8 +11,6 @@ sources:
 
 Elaine Ingham identifies a critical but often overlooked dependency between calcium availability in soil and the presence of functional fungal biomass. Simply adding calcium amendments (lime, gypsum, eggshells) without improving soil biology is ineffective because the calcium will leach rather than becoming plant-available.
 
-
-
 ## The Problem: Calcium Without Biology
 
 There is little point in adding calcium to soil unless the fungi and bacteria are improved as well. Without adequate biology:
@@ -22,8 +20,6 @@ There is little point in adding calcium to soil unless the fungi and bacteria ar
 - The calcium-plant-available conversion system is broken
 
 The calcium cycle in soil depends on organisms that hold, process, and release calcium in forms plants can use.
-
-
 
 ## The Biological Calcium Pathway
 
@@ -36,8 +32,6 @@ Calcium becomes plant-available through several biological mechanisms:
 
 Without adequate levels of protozoa, nematodes, microarthropods, and/or mycorrhizal fungi, calcium may remain locked in fungal biomass instead of being transferred to the plant.
 
-
-
 ## Calcium and Weed Competition
 
 Ingham specifically links calcium availability to competitive dynamics between desired plants and weeds like dandelions. The mechanism:
@@ -48,8 +42,6 @@ Ingham specifically links calcium availability to competitive dynamics between d
 
 The difference between lawns that can utilize calcium versus those without plant-available calcium forms is "quite noticeable."
 
-
-
 ## Steps to Restore Calcium Availability
 
 1. **Improve soil biology first** — add bacteria, fungi, protozoa through compost or AACT
@@ -59,8 +51,6 @@ The difference between lawns that can utilize calcium versus those without plant
 
 Simple calcium sources like eggshells can be effective when biology is functional.
 
-
-
 ## Calcium and Soil Structure
 
 Calcium plays a structural role in soil aggregation:
@@ -69,8 +59,6 @@ Calcium plays a structural role in soil aggregation:
 - Well-structured soil allows roots to access calcium throughout the profile
 - Compacted, anaerobic soils disrupt both fungal activity and calcium cycling
 
-
-
 ## Calcium in Compost Tea
 
 When applying AACT to calcium-deficient soils:
@@ -78,8 +66,6 @@ When applying AACT to calcium-deficient soils:
 - Fungal biomass in the tea is particularly important for calcium retention
 - Compost and compost tea provide food resources for mycorrhizal fungi
 - Repeated applications build the biology over time, making calcium amendments increasingly effective
-
-
 
 ## See Also
 

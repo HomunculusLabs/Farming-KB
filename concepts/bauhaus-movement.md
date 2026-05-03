@@ -1,3 +1,9 @@
+---
+title: "Bauhaus Movement"
+sources: []
+tags: []
+---
+
 # Bauhaus Movement
 ## Overview
 The Bauhaus was a German school of art, design, craft, and architecture founded in 1919.
@@ -137,9 +143,8 @@ industrial design
 graphic design
 typography
 international style
-design education
-functionalism
-weimar republic
-- [[natural-building-overview]]
-- [[building-with-natural-materials]]
-- [[pdc-design-methodology]]
+
+## Related Topics
+- [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]
+- [[permaculture-designers-manual-house-design-principles]]
+- [[permaculture-bioregional-architecture]]

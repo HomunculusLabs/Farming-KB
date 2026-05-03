@@ -44,20 +44,20 @@ Avoid it if the site has poor drainage that cannot be corrected.
 Avoid it if your main goal is a cement-free natural building.
 Avoid it if you expect to frequently remodel or move wall openings later.
 ## How does it compare with cordwood?
-[[Cordwood-construction]] is usually better when dry small-diameter logs are abundant and warmth is a priority.
+[[cordwood-construction]] is usually better when dry small-diameter logs are abundant and warmth is a priority.
 Cordwood walls can insulate better because wood resists heat flow more than stone or concrete.
 Slip form stone is usually better when stone is abundant and fire resistance, mass, or moisture tolerance matters more.
 Cordwood requires debarking, drying, and careful protection from rain.
 Slip form stone requires strong forms, concrete timing, and a heavy foundation.
 A woodland site often favors cordwood, while a rocky site often favors slip form stone.
 ## How does it compare with earthbag?
-[[Earthbag-construction]] is often cheaper where suitable fill soil is available.
+[[earthbag-construction]] is often cheaper where suitable fill soil is available.
 Earthbag walls can be built with simple tools, but they require plaster and protection from sunlight and water.
 Slip form stone uses more cement and labor but creates a finished stone face.
 Earthbag is often better for low-cost earthen forms, domes, and bermed structures.
 Slip form stone is often better for exposed stone walls, root cellars, and rugged permanent structures.
 ## How does it compare with cob or straw bale?
-[[Cob-building]] is more sculptural and uses more earth, but it needs strong rain protection and dries slowly.
+[[cob-building]] is more sculptural and uses more earth, but it needs strong rain protection and dries slowly.
 Straw bale is much more insulating and often faster for above-grade walls.
 Slip form stone is stronger, heavier, more fire-resistant, and less insulating than straw bale.
 A hybrid design can use stone for mass or foundations and straw bale or framed walls for insulation.

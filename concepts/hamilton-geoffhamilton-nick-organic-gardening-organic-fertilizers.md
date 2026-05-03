@@ -141,9 +141,3 @@ too much potassium can inactivate magnesium.
 - [[mollison-designers-composting-toilets-and-humanure]] for building soil organic matter
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] for understanding your soil
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]] for the feeding-the-soil philosophy
-- [[hamilton-layering-propagation-techniques]] for growing strong plants from seed
-
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]

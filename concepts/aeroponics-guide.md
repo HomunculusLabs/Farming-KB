@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, indoor, equipment, engineering, cultivation, methods, plant-growth, nutrients]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 # Aeroponics Guide
 Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
@@ -139,12 +140,8 @@ Aeroponics is the most vulnerable system to power outages:
 | Growth rate | Fastest | Fast | Moderate | Moderate |
 | Oxygen at roots | Maximum | Good | Good | Good |
 | Water efficiency | Highest | High | High | Moderate |
-## See Also
 
-- [[mushroom-cultivation-photographic-guide]]
-- [[root-crops-growing-guide]]
-- [[field-guide-psilocybin-dosage-extraction-cultivation]]
-- [[mason-jar-preserving-guide]]
-- [[hemenway-hugelkultur-guide]]
-- [[hydroponic-growing-basics]] for simpler hydroponic alternatives
-- [[cannabis-lighting-guide]] for pairing aeroponics with optimal lighting
+## Related Topics
+- [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]]
+- [[comparison-aeroponics-vs-hydroponics]]
+- [[cervantes-nft-aeroponic-systems]]

@@ -1,3 +1,9 @@
+---
+title: "Byzantine Fault Tolerance"
+sources: []
+tags: []
+---
+
 # Byzantine Fault Tolerance
 ## Overview
 Byzantine fault tolerance is the ability of a distributed system to keep working when some participants behave arbitrarily.
@@ -135,19 +141,10 @@ If the network remains partitioned, liveness may fail.
 If keys are stolen, honest identities can become Byzantine actors.
 If client software accepts weak evidence, protocol guarantees may be bypassed.
 If governance changes validator sets carelessly, assumptions may erode.
-Byzantine fault tolerance does not solve data truth by itself.
-A system can agree on false input if its oracles are compromised.
-It also does not eliminate the need for backups, audits, and incident response.
-The model is a foundation for resilience, not a complete security program.
 ## Related concepts
-distributed systems
-consensus algorithms
-cryptographic signatures
-blockchain consensus
-fault tolerant systems
-replicated state machine
-cap theorem
-game theory
-- [[kalman-filter]]
-- [[synthetic-data-generation]]
-- [[biological-network-theory]]
+
+## Related Topics
+These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
+- [[bee-forage-systems-design]]
+- [[bioremediation-laccase-mediator-systems]]
+- [[plant-signaling-pathways]]

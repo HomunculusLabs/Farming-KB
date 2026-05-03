@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [composting, insects, animal-husbandry, byproducts, homesteading, sustainability, nutrient-cycling]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 
 # Black Soldier Fly Composting

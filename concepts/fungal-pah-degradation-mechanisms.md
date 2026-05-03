@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 # Fungal PAH Degradation Mechanisms and Pathways
 

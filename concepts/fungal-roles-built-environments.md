@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 # Fungal Roles in the Built Environment [[fungal-adaptations-environmental-gradients]] [[fungal-biogeochemistry]]
 

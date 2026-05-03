@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, chemistry, processing, sustainability, energy, safety]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 ## Overview
 Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On [[query-how-to-start-beekeeping-on-a-homestead]] scale, biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost.

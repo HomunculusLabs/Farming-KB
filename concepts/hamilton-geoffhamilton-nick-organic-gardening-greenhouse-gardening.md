@@ -140,9 +140,3 @@ Key features of a well-equipped greenhouse include:
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]] for the organic approach to protected
   cultivation
 - [[cannabis-organic-fertilizers]] for feeding greenhouse crops
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
-
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]

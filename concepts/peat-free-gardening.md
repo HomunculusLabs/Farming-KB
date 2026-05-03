@@ -3,17 +3,9 @@ ti
 
 # Peat-Free Gardening
 
-
-
-
-
 ## Overview
 
 There is increasing concern about the use of peat as a growing medium. Peat is a dwindling natural resource, and excavating peat bogs on an industrial scale not only destroys unique habitats but is damaging to the wider environment. The organic gardening movement has been at the forefront of promoting peat-free alternatives.
-
-
-
-
 
 ## The Problem with Peat
 
@@ -21,10 +13,6 @@ There is increasing concern about the use of peat as a growing medium. Peat is a
 - As peat is extracted, valuable sites for rare flora and fauna are destroyed
 - Peat will eventually reform, but this takes many, many years
 - Species that depend on peat bogs for their existence may become extinct in the meantime
-
-
-
-
 
 ## Peat-Free Alternatives
 
@@ -46,10 +34,6 @@ Peat does not need to be used as a soil improver because plenty of substitutes e
 - Spent mushroom compost
 - Spent hops
 
-
-
-
-
 ## Peat-Free Composts for Containers
 
 Peat-free composts for seed sowing and container growing are increasingly available. Some points to consider:
@@ -59,10 +43,6 @@ Peat-free composts for seed sowing and container growing are increasingly availa
 - The main adjustment is getting watering and feeding regimes right, which comes with experience
 - Coir-based products generally perform best for propagation
 
-
-
-
-
 ## Peat-Free Products as Mulch
 
 Soil-conditioning peat-free products can be dug into soil or used as a mulch on the soil surface. They will:
@@ -71,19 +51,11 @@ Soil-conditioning peat-free products can be dug into soil or used as a mulch on 
 - Keep down weeds
 - Using such products is less damaging to the environment — waste would otherwise go to landfill or be burnt, producing harmful greenhouse gases
 
-
-
-
-
 ## Related
 
 - [[soil-conditioners-guide]] — detailed guide to alternative soil conditioners
 - [[composting-materials-alternative]] — sourcing compost materials sustainably
 - peat free gardening — the broader movement toward sustainable growing media
-
-
-
-
 
 ## See Also
 

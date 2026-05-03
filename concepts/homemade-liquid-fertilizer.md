@@ -9,19 +9,9 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # homemade liquid fertilizer
 
-
-
-
-
-
 ## Overview
 
 It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material.
-
-
-
-
-
 
 ## Basic Recipe (Animal Manure Liquid Feed)
 
@@ -42,22 +32,12 @@ It is very easy to make your own liquid manure that is as nutritious as any you 
 - **Foliar spray:** Dilute the liquid with equal parts water
 - **Golden rule:** Never liquid-feed when the soil is bone dry — you may scorch the roots. Water with clear water first, let it drain, then apply the liquid fertilizer
 
-
-
-
-
-
 ## Plant-Based Liquid Fertilizers
 
 The same method can be used with plant materials to produce specific nutrient feeds:
 
 - **High nitrogen feed:** Use stinging nettles — fill sack with nettle tops, steep in water for 2-3 weeks
 - **High potash feed:** Use comfrey leaves — same method as nettles; comfrey is rich in potassium
-
-
-
-
-
 
 ## Applying Liquid Fertilizers
 
@@ -76,11 +56,6 @@ For plants that are regularly fed (e.g., greenhouse tomatoes):
 - Plants can only take up nutrients in liquid form, so nutrients are immediately available
 - Granular fertilizers release nutrients more slowly
 - Organic liquid fertilizers are gentler and benefit soil microorganisms as well as plants
-
-
-
-
-
 
 ## Related
 

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil, soil-amendment, minerals, microbes, regenerative, carbon-sequestration, composting, biology, ecology, methods]
-sources: []
+sources:
+  - "raw/papers/pharmacotheon-jonathan-ott.md"
 ---
 
 # Biochar Soil Amendment
