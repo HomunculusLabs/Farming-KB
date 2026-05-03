@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2221 pages**
+**2224 pages**
 
 ## #
 
@@ -210,6 +210,7 @@
 - [[bioremediation-fungal-vs-bacterial]]
 - [[bioremediation-laccase-mediator-systems]]
 - [[blesching-cannabis-fungal-infections-candida]]
+- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
 - [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
@@ -225,6 +226,7 @@
 - [[bloomfield-dermatophytes-ringworm-malassezia-skin-mycoses]]
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
+- [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[bloomfield-fungal-parasites-of-insects]]
 - [[bloomfield-fungal-pathogens-and-parasites]]
@@ -248,6 +250,7 @@
 - [[bloomfield-pythium-oomycete-water-molds]]
 - [[bloomfield-rice-blast-appressorium-mechanics]]
 - [[bloomfield-rice-blast-magnaporthe-appressorium-mechanics]]
+- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
 - [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**960 pages**
+**965 pages**
 
 ## #
 
@@ -255,6 +255,7 @@
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
+- [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-getting-natural-diet]]
@@ -269,7 +270,9 @@
 - [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
+- [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
+- [[fukuoka-textdoc-natural-order-microbial-ecology]]
 - [[fukuoka-textdoc-natural-soil-management]]
 - [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
@@ -279,6 +282,8 @@
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
+- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
+- [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
 - [[fukuoka-textdoc-what-plowing-really-is]]

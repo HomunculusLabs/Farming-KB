@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1195 pages**
+**1200 pages**
 
 ## #
 
@@ -308,6 +308,7 @@
 - [[cannabis-sativa]]
 - [[cantharellus-cibarius]]
 - [[caragana-arborescens]]
+- [[caryophyllene-oxide]]
 - [[castanea-sativa]]
 - [[casuarina-equisetifolia]]
 - [[catha-edulis]]
@@ -327,6 +328,7 @@
 - [[claude-naranjo]]
 - [[claviceps-purpurea]]
 - [[cleve-backster]]
+- [[clitocybe-odora]]
 - [[clonostachys-rosea]]
 - [[coccidioides-immitis]]
 - [[coleus-blumei]]
@@ -481,6 +483,7 @@
 - [[flea-entity-pihkal]]
 - [[fomes-entity]]
 - [[fomitopsis-pinicola]]
+- [[food-forest]]
 - [[fusarium-culmorum]]
 - [[fusarium-graminearum]]
 - [[fusarium-lateritium]]
@@ -534,6 +537,7 @@
 - [[gorilla-glue]]
 - [[graham-burnett]]
 - [[gramine]]
+- [[granddaddy-purple]]
 - [[greg-green]]
 - [[grifola-frondosa]]
 - [[grifolan]]
@@ -769,6 +773,7 @@
 - [[mee-entity]]
 - [[mee-entity-pihkal]]
 - [[melatonin-entity-tihkal]]
+- [[melissa-officinalis]]
 - [[mem-entity]]
 - [[mem-entity-pihkal]]
 - [[mentha-pulegium]]
