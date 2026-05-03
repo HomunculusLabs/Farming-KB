@@ -57,9 +57,9 @@ The antimicrobial compounds identified from *T. hirsuta* include various terpeno
 
 ## Bioremediation Applications
 
-Beyond its medicinal properties, *Trametes hirsuta* is a valuable organism for environmental bioremediation. Its ligninolytic enzyme system enables it to degrade a wide range of environmental pollutants including polycyclic aromatic hydrocarbons (PAHs), dyes and textile effluents, polychlorinated biphenyls (PCBs), phenolic compounds, and endocrine-disrupting compounds.
+Beyond its medicinal properties, *Trametes hirsuta* is a valuable organism for [[fungal-enzymes-in-environmental-bioremediation]]. Its ligninolytic enzyme system enables it to degrade a wide range of environmental pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), dyes and textile effluents, [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]] (PCBs), phenolic compounds, and endocrine-disrupting compounds.
 
-The laccase enzyme from *T. hirsuta* is of particular biotechnological interest due to its high activity, stability, and broad substrate specificity. Applications include biobleaching of paper pulp, textile dye decolorization, biosensor development, organic synthesis, and wastewater treatment.
+The laccase enzyme from *T. hirsuta* is of particular biotechnological interest due to its high activity, stability, and broad substrate specificity. Applications include biobleaching of paper pulp, [[fungal-laccase-and-textile-dye-decolorization]], biosensor development, organic synthesis, and wastewater treatment.
 
 ## Laccase Production
 

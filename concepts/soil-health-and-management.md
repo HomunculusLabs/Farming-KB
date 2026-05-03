@@ -60,7 +60,7 @@ volatilization as ammonia gas, and denitrification in waterlogged conditions.
 
 Phosphorus is essential for energy transfer (ATP), root development, flowering,
 and fruit production. It is relatively immobile in soil and tends to accumulate
-near the surface. Phosphorus availability is strongly influenced by soil pH; it
+near the surface. [[phosphorus-availability]] is strongly influenced by soil pH; it
 binds tightly with iron and aluminum in acid soils and with calcium in alkaline
 soils. Excess phosphorus runoff is a major environmental concern, contributing
 to eutrophication of waterways.
@@ -91,7 +91,7 @@ consistent inputs because decomposition rates are high.
 A single gram of healthy soil contains billions of microorganisms including
 bacteria, fungi, protozoa, and nematodes. These organisms decompose organic
 matter, cycle nutrients, fix nitrogen, suppress plant pathogens, and form
-symbiotic relationships with plant roots. Mycorrhizal fungi, for example,
+[[fungi-in-the-environment-symbiotic-relationships]] with plant roots. Mycorrhizal fungi, for example,
 extend root networks and improve nutrient and water uptake in exchange for
 carbon from the host plant.
 
@@ -123,7 +123,7 @@ produce abundant biomass and scavenge residual nitrogen. Brassicas like
 daikon radish break compaction with deep taproots.
 
 Cover crops protect soil from erosion during fallow periods, suppress weeds,
-improve soil structure, increase organic matter, and enhance biological
+[[query-how-do-fungi-improve-soil-structure]], increase organic matter, and enhance biological
 activity. They are typically planted in late summer or early fall and
 incorporated into the soil (or terminated with a roller-crimper in no-till
 systems) in spring before the main crop is planted.
@@ -133,7 +133,7 @@ systems) in spring before the main crop is planted.
 Regular soil testing is the cornerstone of rational soil management. Most
 university extension services offer affordable soil testing that reports pH,
 buffer pH, organic matter content, phosphorus, potassium, calcium, magnesium,
-and cation exchange capacity (CEC). Micronutrient analysis is available on
+and [[cation-exchange-capacity]] (CEC). Micronutrient analysis is available on
 request for an additional fee.
 
 Soil samples should be representative of the area being managed. A composite

@@ -14,7 +14,7 @@ updated: 2026-04-25
 sources: []
 ---
 
-# Biochar vs [[cover-crop-quick-reference]]s
+# Biochar vs cover crop quick references
 
 ## Overview
 Biochar and cover crops are two of the most powerful tools available for
@@ -46,7 +46,7 @@ industrial retort kilns and top-lit updraft gasifier (TLUD) stoves. A
 critical step that many beginners overlook is conditioning or "charging"
 raw biochar before adding it to soil. Fresh biochar has been compared to
 a dry sponge; if applied directly without pre-loading with nutrients and
-microbial inoculants, it can temporarily draw nutrients away from
+[[natural-farming-microbial-inoculants]], it can temporarily draw nutrients away from
 plants. The standard conditioning approach involves soaking biochar in
 compost tea, worm castings slurry, or a nutrient solution for two to
 four weeks before incorporation.
@@ -73,9 +73,9 @@ soil structure through root penetration and exudation. Cover crops
 represent a living, dynamic approach to soil building that engages
 biological processes at every level.
 
-Cover crop species are categorized into functional groups. Legumes such
+[[cover-crop-species-comparison]] are categorized into functional groups. Legumes such
 as crimson clover, hairy vetch, field peas, and cowpeas fix atmospheric
-nitrogen through symbiotic relationships with rhizobia bacteria,
+nitrogen through [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia bacteria,
 providing 50 to 200 pounds of nitrogen per acre when terminated and
 incorporated. Grasses and grains like winter rye, oats, and annual
 ryegrass produce massive root systems that break compaction, scavenge
@@ -101,7 +101,7 @@ depending on the farming system).
 | Primary Mechanism | Physical (porosity, CEC, water retention) | Biological (nitrogen fixation, root exudation, biomass) |
 | Duration of Benefit | Centuries to millennia (permanent) | Seasonal (requires repeated planting) |
 | Nitrogen Contribution | None (retains existing nitrogen) | Significant through legume fixation |
-| Carbon Sequestration | Very high per application (stable carbon) | Moderate (depends on root and shoot biomass) |
+| [[gadd-fungal-carbon-sequestration]] | Very high per application (stable carbon) | Moderate (depends on root and shoot biomass) |
 | Cost | Moderate (production equipment or purchase) | Low (seed cost, minimal equipment) |
 | Active Management | One-time application with conditioning | Ongoing (planting, monitoring, terminating) |
 | Soil Structure Impact | Physical improvement through pore space | Biological improvement through root action |

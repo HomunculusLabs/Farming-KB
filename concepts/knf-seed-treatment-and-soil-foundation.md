@@ -60,8 +60,8 @@ Applying M-A to the soil before planting establishes a living biological foundat
 
 ### When to Apply
 
-- Before planting season, as part of general soil preparation
-- After soil disturbance (tillage, grading) to restore microbial populations
+- Before planting season, as part of general [[garden-location-and-soil-preparation]]
+- After [[soil-disturbance-mycorrhizal-impact]] (tillage, grading) to restore microbial populations
 - After periods of flooding or drought that may have damaged soil biology
 - As an emergency treatment when soil shows signs of biological degradation
 
@@ -112,9 +112,9 @@ For transplanted seedlings:
 
 ## Disease Control Application
 
-M-A can also be used as a disease intervention during the growing season:
+M-A can also be used as a disease intervention during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]:
 
-- If disease occurs while plants are growing, apply 1-2 tons of M-A (1:1000 dilution) per 100a along with other natural farming materials
+- If disease occurs while plants are growing, apply 1-2 tons of M-A (1:1000 dilution) per 100a along with other [[cho-loess-powder-in-natural-farming]] materials
 - The beneficial microorganisms compete with and suppress pathogenic organisms
 - Apply as both soil drench and foliar spray for comprehensive treatment
 
@@ -138,7 +138,7 @@ For fruit trees, M-A provides both soil foundation and disease protection:
 
 - Apply 2 tons of M-A (1:1000) per 100a immediately after harvest (post-harvest application)
 - This timing allows the microbial populations to establish during the dormant season
-- The soil foundation supports root growth and nutrient cycling in preparation for the following growing season
+- The soil foundation supports root growth [[fungal-enzyme-systems-and-nutrient-cycling]] in preparation for the following growing season
 - Combine with [[knf-fermented-mixed-compost]] for comprehensive post-harvest soil care
 
 ## Dilution Summary

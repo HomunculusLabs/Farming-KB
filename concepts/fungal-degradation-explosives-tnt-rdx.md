@@ -8,7 +8,7 @@ sources: []
 ---
 # Fungal Degradation of Explosives: TNT, RDX, and Related Compounds
 
-Military explosives such as TNT (2,4,6-trinitrotoluene) and RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine) are persistent environmental contaminants found at munitions manufacturing facilities, testing ranges, and disposal sites. These nitroaromatic and nitramine compounds are highly toxic, mutagenic, and carcinogenic, creating urgent need for effective [[fungal-bioremediation]] strategies.
+Military explosives such as TNT (2,4,6-trinitrotoluene) and RDX (Royal Demolition eXplosive, cyclotrimethylenetrinitramine) are persistent [[mycoremediation-environmental-contaminants]] found at munitions manufacturing facilities, testing ranges, and disposal sites. These nitroaromatic and nitramine compounds are highly toxic, mutagenic, and carcinogenic, creating urgent need for effective [[fungal-bioremediation]] strategies.
 
 ## TNT: Properties and Environmental Concerns
 
@@ -40,7 +40,7 @@ The primary route of TNT transformation by fungi is the stepwise reduction of ni
 
 - These reduction products may be more toxic or equally toxic compared to the parent compound
 
-- In Phanerochaete chrysosporium, TNT degradation was inhibited by these intermediate metabolites rather than by TNT itself, creating a self-limiting transformation process
+- In [[phanerochaete-chrysosporium]], TNT degradation was inhibited by these intermediate metabolites rather than by TNT itself, creating a self-limiting transformation process
 
 ### Oxidative Ring Cleavage
 
@@ -54,7 +54,7 @@ Some fungi can oxidatively attack the aromatic ring of TNT:
 
 ### Laccase-Mediated Coupling
 
-[[fungal-enzyme-systems-xenobiotic-degradation]] can catalyze the coupling of TNT metabolites to soil organic matter:
+[[fungal-enzyme-systems-xenobiotic-degradation]] can catalyze the coupling of TNT metabolites to [[humus-formation-and-soil-organic-matter]]:
 
 - Dawel et al. (1997) described the structure of a laccase-mediated coupling product of 2,4-diamino-6-nitrotoluene and guaiacol
 
@@ -66,7 +66,7 @@ Some fungi can oxidatively attack the aromatic ring of TNT:
 
 P. chrysosporium has been the most extensively studied fungus for TNT degradation, but with mixed results:
 
-- TNT inhibits MnP production, which is a key enzyme in the mycoremediation-enzymology|ligninolytic system
+- TNT inhibits MnP production, which is a key enzyme in the [[mycoremediation-enzymology]]|ligninolytic system
 
 - Agitated cultures were preferred when TNT was added at the start of incubation, as agitation improved mass transfer of the poorly soluble compound
 

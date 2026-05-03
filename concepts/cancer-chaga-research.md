@@ -31,7 +31,7 @@ medicine across Russia, Poland, and Baltic countries for centuries, primarily
 as a tea or decoction for gastrointestinal ailments, tuberculosis, and as a
 general health
 tonic.
-Chaga is not a true mushroom fruiting body but rather a sterile mass of
+Chaga is not a true [[mushroom-fruiting-body-morphology]] but rather a sterile mass of
 mycelium that slowly develops on living trees, eventually killing the host
 after many years of parasitic growth. The dark, cracked exterior resembles
 burnt charcoal, while the interior is a rusty orange-brown
@@ -40,7 +40,7 @@ colour.
 
 The use of birch polypores in medicine dates back millennia. The
 5,300-year-old "Iceman" discovered in the Italian Alps carried a string of
-birch polypore mushrooms (Piptoporus betulinus), which have been used
+birch polypore mushrooms ([[piptoporus-betulinus]]), which have been used
 historically as tinder for starting fires, medicine for treating wounds, and
 for producing an invigorating and immune-stimulating tea. This demonstrates
 the deep antiquity of polypore mushroom use in traditional European
@@ -52,8 +52,8 @@ Basidiomycetes, Inonotus obliquus demonstrates the following
 properties:
 ### Confirmed Medicinal Activities (X = commercially developed or extensively studied)
 - **Antitumour**: Demonstrated anticancer activity
-- **Immunomodulating**: Immune system modulation and stimulation
-- **Antiviral**: Antiviral properties, including potential anti-HIV activity
+- **Immunomodulating**: [[blesching-cannabis-immune-system-modulation]] and stimulation
+- **Antiviral**: [[antiviral-properties-of-mushrooms]], including potential anti-HIV activity
 - **Anti-inflammatory**: Reduction of inflammatory responses
 
 ### Additional Properties (+ = bioactive but not yet commercially developed)

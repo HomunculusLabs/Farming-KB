@@ -8,7 +8,7 @@ sources: []
 
 ## What is spent mushroom substrate?
 
-[[spent-mushroom-substrate]] (SMS) — also called spent mushroom compost (SMC) or used mushroom blocks — is the leftover growing medium after a mushroom crop has finished fruiting. It typically consists of a base material (straw, sawdust, wood chips, or composted manure) that has been partially decomposed by fungal mycelium. Commercial growers produce tons of SMS after every flush cycle, and home cultivators generate it from monotubs, grow bags, and fruiting blocks.
+[[spent-mushroom-substrate]] (SMS) — also called spent [[mushroom-compost-bed-systems-duggar]] (SMC) or used mushroom blocks — is the leftover growing medium after a mushroom crop has finished fruiting. It typically consists of a base material (straw, sawdust, wood chips, or composted manure) that has been partially decomposed by fungal mycelium. Commercial growers produce tons of SMS after every flush cycle, and home cultivators generate it from monotubs, grow bags, and fruiting blocks.
 
 ## Is spent mushroom substrate safe to use in the garden?
 
@@ -62,7 +62,7 @@ Add SMS to your compost pile at **up to 25% by volume**. The residual fungal enz
 
 ### In a no-till living soil system
 
-SMS is an excellent top-dressing ingredient for cannabis living soil builds. Its fungal dominance complements bacterial-dominant compost and supports a diverse soil food web. Apply a thin layer (½ inch) during the transition from veg to flower.
+SMS is an excellent top-dressing ingredient for cannabis living soil builds. Its fungal dominance complements bacterial-dominant compost and supports a diverse [[compost-chemistry-soil-food-web]]. Apply a thin layer (½ inch) during the transition from veg to flower.
 
 ### As a worm bin food source
 
@@ -73,7 +73,7 @@ Red wigglers (Eisenia fetida) thrive on partially decomposed SMS. The fungal bio
 - **Heavy feeders** — tomatoes, peppers, squash, corn, and cannabis respond well to the nutrient boost and improved soil structure
 - **Root crops** — carrots, beets, and potatoes benefit from the loosened soil structure SMS provides
 - **Acid-loving plants** — blueberries, azaleas, and rhododendrons appreciate fresh (uncured) SMS for its lower pH, but monitor carefully
-- **Trees and shrubs** — use cured SMS as a backfill amendment when planting fruit trees or berry bushes
+- **[[nitrogen-fixing-trees-and-shrubs]]** — use cured SMS as a backfill amendment when planting fruit trees or berry bushes
 
 ## Can spent mushroom substrate cause problems?
 
@@ -101,7 +101,7 @@ Avoid sealing fresh SMS in plastic bags — it will go anaerobic, produce foul o
 
 ## Can I use spent substrate from one mushroom species to grow another?
 
-Yes, with limitations. Oyster mushroom SMS can sometimes be used as a base for growing wine caps (Stropharia rugosoannulata) or king stropharia in outdoor beds, since these species are less selective about substrate. However:
+Yes, with limitations. Oyster mushroom SMS can sometimes be used as a base for growing wine caps ([[stropharia-rugosoannulata]]) or king stropharia in outdoor beds, since these species are less selective about substrate. However:
 
 - **Never reuse SMS indoors** for a second flush of the same species — contamination risk is extremely high
 - **Outdoor beds** are more forgiving; bury SMS 2–4 inches deep and inoculate with spawn of the target species

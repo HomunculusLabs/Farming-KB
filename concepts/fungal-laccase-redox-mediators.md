@@ -11,14 +11,14 @@ sources: ["staycare-mngmt-fungi-in-bioremediation.md"]
 ## Overview
 
 Laccase (benzenediol : oxygen oxidoreductase, EC 1.10.3.2) is a
-multicopper blue oxidase produced by white rot fungi and other
+multicopper blue oxidase produced [[biobleaching-of-pulp-by-white-rot-fungi]] and other
 ligninolytic organisms. While laccase alone can oxidize phenolic
 compounds, its substrate range is limited by redox potential. Redox
 mediators are small molecular-weight compounds that extend the catalytic
 reach of laccase to non-phenolic substrates that would otherwise be
 inaccessible. These mediator systems are central to fungal bioremediation
 because they enable degradation of high-molecular-weight pollutants
-including polycyclic aromatic hydrocarbons (PAHs), chlorinated aromatics,
+including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs), chlorinated aromatics,
 and synthetic dyes.
 
 ## Laccase Biochemistry
@@ -69,7 +69,7 @@ a different mechanism than ABTS, involving the formation of a nitroxyl
 radical that can abstract hydrogen atoms from non-phenolic substrates.
 This mediator system has shown efficacy against a range of
 recalcitrant aromatic pollutants and is considered one of the most
-promising for practical bioremediation applications.
+promising for practical [[fungi-in-the-environment-bioremediation-applications]].
 
 ## Natural Mediators from Fungi
 
@@ -137,7 +137,7 @@ significant factor for large-scale remediation. Mediator stability
 and lifetime in environmental matrices are concerns, as mediators
 may be consumed or deactivated by side reactions. The need for
 continuous oxygen supply for laccase catalysis must be balanced
-against other oxygen-consuming processes in contaminated environments.
+against other oxygen-consuming processes in [[singh-fungal-biofilms-in-contaminated-environments]].
 Additionally, optimizing the ratio of enzyme to mediator to pollutant
 requires site-specific calibration.
 

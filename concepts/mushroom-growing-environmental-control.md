@@ -8,9 +8,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mus
 
 # Mushroom Growing Environmental Control
 
-Successful mushroom cultivation requires precise management of temperature,
+Successful [[biological-efficiency-mushroom-cultivation]] requires precise management of temperature,
 humidity, fresh air exchange (FAE), light, and sanitation. Different species
-and growth stages have specific environmental requirements that must be met for
+and growth stages have specific [[mushroom-lighting-and-environmental-requirements]] that must be met for
 healthy colonization and prolific fruiting.
 
 ## Temperature Management
@@ -51,7 +51,7 @@ air exchange timing.
 ## Light Requirements
 
 Contrary to common misconception, most gourmet mushrooms do require light for
-proper fruiting body development. Light acts as a trigger for fruiting
+proper [[fruiting-body-development]]. Light acts as a trigger for fruiting
 initiation and guides directional growth (phototropism). Indirect ambient light
 or 12 hours on/off fluorescent/LED lighting at 500 to 1000 lux is sufficient
 for most species. Direct sunlight should be avoided as it causes overheating
@@ -67,7 +67,7 @@ entering. Foot baths, hand-washing stations, and separate zones for clean and
 dirty operations reduce cross-contamination. Regular cleaning with 70 percent
 isopropyl alcohol, bleach solutions (10 percent), or commercial sanitizers
 keeps microbial loads low. Inoculation requires the highest level of
-cleanliness, ideally performed in a laminar flow hood or dedicated clean room
+cleanliness, ideally performed in a [[laminar-flow-hood-construction-hepa-filter]] or dedicated clean room
 with HEPA-filtered air. See also [[mushroom-spawn-production]] for spawn preparation.
 
 ## Fruiting Room Design Considerations
@@ -83,7 +83,7 @@ become increasingly popular for small-to-medium scale operations.
 
 ## Monitoring and Automation
 
-Modern mushroom farms increasingly rely on environmental monitoring systems
+Modern mushroom farms increasingly rely on [[fungal-biosensors-environmental-monitoring]] systems
 with data logging capabilities. Sensors measuring temperature, humidity, and
 CO2 provide real-time data and historical trends. Automated systems can adjust
 fans, misters, heaters, and coolers based on sensor readings and programmed

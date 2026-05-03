@@ -18,7 +18,7 @@ Phellinus linteus is considered one of the most powerful anti-inflammatory and a
 - **Phelligridins:** Phenolic compounds with antioxidant activity.
 - **Fuscoporia pigments:** Dark pigments with bioactive properties.
 ## Anti-Inflammatory Properties
-Meshima is one of the most potent anti-inflammatory medicinal mushrooms:
+Meshima is one of the most potent anti-inflammatory [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]:
 ### Mechanisms
 - Strong inhibition of NF-kB signaling pathway, the master regulator of inflammation.
 - Suppresses COX-2 and iNOS expression, reducing prostaglandin and nitric oxide-mediated inflammation.
@@ -47,7 +47,7 @@ Meshima has generated significant research interest for cancer applications:
 - Primarily preclinical research — human trials are limited but ongoing.
 ## Immune Modulation
 Meshima's immune effects are distinctive:
-- **IFN-gamma induction:** Unlike most medicinal mushrooms that broadly stimulate immune cells, P. linteus specifically promotes interferon-gamma production. IFN-gamma is critical for:
+- **IFN-gamma induction:** Unlike [[query-what-are-the-most-medicinal-mushrooms]] that broadly stimulate immune cells, P. linteus specifically promotes interferon-gamma production. IFN-gamma is critical for:
   - Activating macrophages to kill intracellular pathogens.
   - Enhancing NK cell and cytotoxic T-cell function.
   - Promoting Th1 immune responses.
@@ -108,10 +108,10 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 - Requires extended incubation periods (3-6 months colonization).
 - Fruiting conditions are not fully optimized for commercial production.
 - Most commercial meshima is still wild-harvested in Korea and China.
-- Liquid culture and submerged fermentation methods are being developed for mycelium-based products.
+- Liquid culture and submerged [[faires-food-fermentation-methods]] are being developed for mycelium-based products.
 ## Safety Considerations
 - Generally safe with traditional use history.
-- Potent immune-stimulating effects — caution with autoimmune conditions.
+- Potent immune-stimulating effects — caution with [[blesching-cannabis-health-index-autoimmune-conditions]].
 - May interact with immunosuppressant medications.
 - Possible interactions with blood-thinning medications.
 - Avoid during pregnancy and breastfeeding.

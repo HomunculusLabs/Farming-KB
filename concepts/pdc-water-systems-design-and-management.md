@@ -8,7 +8,7 @@ tags: [permaculture, pdc, water, rainwater, greywater]
 ---
 
 # PDC Water Systems Design and Management
-Water is treated as perhaps the most critical design element in the Williams PDC. Williams covers the complete hydrological cycle, human impacts on watersheds, rainwater harvesting, earthworks for water storage, greywater recycling, and natural water treatment. The course establishes a foundational principle: "There is no such thing as waste water" -- only water that is wasted.
+Water is treated as perhaps the most critical design element in the Williams PDC. Williams covers the complete hydrological cycle, human impacts on watersheds, [[comparison-drip-irrigation-vs-rainwater-harvesting]], earthworks for water storage, greywater recycling, and natural water treatment. The course establishes a foundational principle: "There is no such thing as waste water" -- only water that is wasted.
 
 ## The Hydrological Cycle
 
@@ -84,7 +84,7 @@ Examples:
 This formula applies to any surface, not just roofs.
 
 #### Cistern Design Principles
-Cisterns are permaculture structures and all design considerations apply:
+Cisterns are permaculture structures and all [[mycoremediation-bioreactor-design-considerations]] apply:
 - Can their microclimate be utilized (growing food vertically on the tank)?
 - Can they serve architectural functions (privacy screen, view blocker)?
 - What is their thermal mass effect on the surrounding area?
@@ -126,7 +126,7 @@ The strategy of getting water to infiltrate into the ground on-site, in contrast
 Williams establishes Water Lesson #1: "There is no such thing as waste water." Water is used but not consumed. The term "waste water" is replaced with "effluent" -- water that comes out of a system after use.
 
 ### Greywater vs. Blackwater
-- **Greywater**: Effluent from domestic use (bathing, laundry, dishes). Safe to work with using natural biological treatment methods.
+- **Greywater**: Effluent from domestic use (bathing, laundry, dishes). Safe to work with using natural [[mollison-water-purification-biological-treatment]] methods.
 - **Blackwater**: Effluent contaminated with dangerous bacteria (toilet waste, sometimes kitchen sinks with raw meat bacteria). Contains coliforms and requires more advanced treatment.
 
 ### Greywater System Components
@@ -137,7 +137,7 @@ All greywater systems share two common elements:
 
 ### System Types
 - Reed beds
-- Constructed wetlands
+- [[constructed-wetlands-wastewater-treatment]]
 - Branch drain systems
 - Watson Wicks (also handles blackwater)
 - Eco-Machines (designed by Dr. John Todd of Ocean Arks International -- capable of cleaning and recycling water by entirely natural means)

@@ -21,7 +21,7 @@ sources:
 
 # Soil Fertility Management
 
-Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use synthetic fertilizers. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
+Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
 
 ## The Complete Organic Fertilizer (COF)
 
@@ -78,7 +78,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 ## pH: The Master Variable
 
 ### Why pH Matters
-Soil pH (0-14 scale, 7 = neutral) determines nutrient availability. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
+Soil pH (0-14 scale, 7 = neutral) determines [[fungal-enzyme-activity-nutrient-availability]]. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
 
 ### Key pH Relationships
 - **Below 5.5**: Aluminum and manganese become toxic; phosphorus, calcium, and magnesium become unavailable
@@ -106,7 +106,7 @@ Solomon cautions against relying on compost alone as a fertility source:
 - To supply adequate nitrogen from compost alone, you would need to apply impractical volumes (several inches per year)
 - **Best use of compost**: As a soil conditioner applied at 1/4-1/2 inch per year, plus the COF for actual nutrient supply
 - Compost from manure is more nutrient-dense than compost from yard waste only
-- See [[vermicomposting]] for worm-based composting methods
+- See [[vermicomposting]] for worm-based [[composting-methods-comparison]]
 
 ## The Importance of Calcium
 
@@ -123,7 +123,7 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 
 ### The Role of Organic Matter
 - Improves water retention (holds 4-5x its weight in water)
--[[decomposition]]inage in clay soils (binds particles into aggregates)
+-decompositioninage in clay soils (binds particles into aggregates)
 - Provides cation exchange sites (holds nutrients in root zone)
 - Feeds [[soil-food-web-nutrient-cycling]] microorganisms
 - Buffers pH changes
@@ -138,7 +138,7 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 
 ### Solomon's Practical Note
 - Don't try to build organic matter levels above 5-8% — this is plenty
-- Excessive organic matter can cause waterlogging, nutrient leaching, and weed problems
+- Excessive organic matter can cause waterlogging, [[green-cannabis-soil-flushing-nutrient-leaching]], and weed problems
 - Focus on maintaining steady levels rather than dramatic increases
 
 ## Mineral Deficiencies: Visual Diagnosis

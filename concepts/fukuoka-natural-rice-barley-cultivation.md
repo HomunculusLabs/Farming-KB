@@ -72,12 +72,12 @@ After years of experimentation, Fukuoka found that rice and barley -- both membe
 - Organic matter as it decomposes
 - Microbial habitat
 
-**Clover ground cover:** Ladino clover serves multiple functions:
+**[[fukuoka-white-clover-ground-cover]]:** Ladino clover serves multiple functions:
 - Nitrogen fixation (though Fukuoka downplays this as the primary benefit)
 - Weed suppression (clover outcompetes most weeds once established)
 - Soil protection from erosion
 - Moisture retention
-- Habitat for beneficial insects
+- Habitat for [[beneficial-insects-cannabis]]
 
 **No nursery beds:** Rice is direct-seeded, eliminating the entire process of seedling raising and transplanting.
 
@@ -106,7 +106,7 @@ For natural rice cultivation to work, the seed must survive on the soil surface 
 - The clay pellet eliminates the need for chemical pesticide protectants that conventional agriculture uses on pre-germinated seed
 - When conditions are right (adequate moisture and temperature), the seed germinates through the clay coating
 
-This clay pellet technique makes winter sowing possible and is one of the key innovations that enables Fukuoka's rice cultivation system.
+This clay pellet technique makes winter sowing possible and is one of the key innovations that enables Fukuoka's rice [[mollison-designers-triazonal-cultivation-system]].
 
 ## Rice as a Potential Perennial
 
@@ -143,6 +143,6 @@ Fukuoka's approach to water management for rice differs from conventional floodi
 Fukuoka traces four stages of Japanese rice farming:
 1. **1940:** Primitive farming (improvements in tilling methods)
 2. **1950:** Animal-powered agriculture (increased fertilizer production)
-3. **1960:** Scientific farming (mechanization)
+3. **1960:** [[fukuoka-natural-vs-scientific-farming]] (mechanization)
 4. **1970:** Agribusiness (energy-intensive systemized agriculture)
 ## See Also

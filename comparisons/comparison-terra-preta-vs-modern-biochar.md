@@ -61,7 +61,7 @@ Perhaps the most fundamental difference is the time scale involved. Terra preta 
 ## When to Choose Which Approach
 
 - **Modern biochar** is the practical choice for most contemporary growers. It is readily available (or producible), can be applied at known rates, and delivers measurable improvements in soil structure, nutrient retention, and water management within a single growing season. It is especially effective on degraded, acidic, sandy, or low-CEC soils.
-- **Terra preta-inspired approaches** (combining biochar with compost, manure, bone meal, and microbial inoculants) are appropriate for long-term soil restoration projects where the goal is not just short-term yield improvement but the creation of a self-sustaining, biologically complex soil ecosystem. The Embrapa Terra Preta Nova methodology represents the most developed contemporary attempt to replicate the full terra preta model.
+- **Terra preta-inspired approaches** (combining biochar with compost, manure, bone meal, [[teaming-with-microbes-compost-tea-and-microbial-inoculants]]) are appropriate for long-term soil restoration projects where the goal is not just short-term yield improvement but the creation of a self-sustaining, biologically complex soil ecosystem. The Embrapa Terra Preta Nova methodology represents the most developed contemporary attempt to replicate the full terra preta model.
 
 ## Cost and Accessibility
 
@@ -76,10 +76,10 @@ For a typical smallholder farmer in the tropics, the most practical approach is 
 
 Both terra preta and modern biochar offer environmental benefits, but they differ in scope and certainty:
 
-- **Carbon sequestration certainty**: Terra preta has already demonstrated carbon stability for thousands of years. Modern biochar's long-term stability is still being studied, though most evidence suggests that properly produced biochar (especially from high-temperature pyrolysis) will persist for centuries.
+- **[[gadd-fungal-carbon-sequestration]] certainty**: Terra preta has already demonstrated carbon stability for thousands of years. Modern biochar's long-term stability is still being studied, though most evidence suggests that properly produced biochar (especially from high-temperature pyrolysis) will persist for centuries.
 - **Biodiversity impact**: Terra preta supports a rich, diverse soil ecosystem that enhances overall farm biodiversity. Modern biochar, when applied alone, has less predictable effects on soil biodiversity — it can provide habitat for beneficial organisms but may also adsorb organic molecules in ways that temporarily reduce microbial activity in some soil types.
 - **Energy balance**: Terra preta production was carbon-positive in the broadest sense — it stored more carbon than it consumed. Modern biochar production can be energy-positive if the pyrolysis gases are captured and used for energy, but the net carbon benefit depends heavily on the production system efficiency and the source of feedstock.
-- **Pollution risk**: Terra preta presents essentially zero pollution risk. Modern biochar, if produced from contaminated feedstocks (treated wood, plastics, industrial waste) or at excessively high temperatures, can contain polycyclic aromatic hydrocarbons (PAHs) or heavy metals that may contaminate soil. Feedstock selection and production quality control are critical.
+- **Pollution risk**: Terra preta presents essentially zero pollution risk. Modern biochar, if produced from contaminated feedstocks (treated wood, plastics, industrial waste) or at excessively high temperatures, can contain [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (PAHs) or heavy metals that may contaminate soil. Feedstock selection and production quality control are critical.
 
 ## Summary: Which Is Right for You?
 
@@ -108,7 +108,7 @@ How terra preta and modern biochar are applied to soil differs substantially:
 This is perhaps the most critical practical distinction between the two approaches:
 
 - **Terra preta** has persisted for 500 to 6,000+ years with no ongoing human maintenance. The self-sustaining microbial community continues to generate new stable organic matter, maintain soil structure, and cycle nutrients. Once established, terra preta is essentially a permanent soil improvement.
-- **Modern biochar** provides immediate structural and chemical benefits, but these benefits may gradually diminish if the soil is not otherwise well-managed. Biochar alone does not create a self-sustaining soil ecosystem. To maintain biochar's benefits over the long term, it must be combined with ongoing organic matter inputs, minimal soil disturbance, and biological management — essentially the same practices that regenerative agriculture recommends regardless of biochar use.
+- **Modern biochar** provides immediate structural and chemical benefits, but these benefits may gradually diminish if the soil is not otherwise well-managed. Biochar alone does not create a self-sustaining soil ecosystem. To maintain biochar's benefits over the long term, it must be combined with ongoing organic matter inputs, minimal soil disturbance, and biological management — essentially the same practices that [[regenerative-agriculture]] recommends regardless of biochar use.
 
 ## Practical Recommendations
 

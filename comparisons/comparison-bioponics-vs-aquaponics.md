@@ -30,7 +30,7 @@ Both bioponics and aquaponics bridge the gap between hydroponics and organic gro
 
 ### Bioponics
 
-Bioponics (sometimes called "organoponics" or "biological hydroponics") feeds plants by dissolving organic materials directly into the nutrient solution. Compost tea, liquid kelp, fish emulsion, worm castings leachate, or fermented plant extracts are added to the reebb-and-flowroorganisms in the solution break down complex organic molecules into plant-available forms.
+Bioponics (sometimes called "organoponics" or "biological hydroponics") feeds plants by dissolving organic materials directly into the nutrient solution. Compost tea, liquid kelp, fish emulsion, worm castings leachate, or [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]] are added to the reebb-and-flowroorganisms in the solution break down complex organic molecules into plant-available forms.
 
 The system operates much like standard hydroponics (DWC, NFT, ebb and flow) but replaces mineral salts with biological inputs. Because there are no fish to protect, the grower can adjust pH, temperature, and nutrient concentration more aggressively to suit the plants.
 
@@ -61,7 +61,7 @@ Aquaponics produces both plants and edible fish, achieving higher total caloric 
 
 ### pH Management
 
-This is the single largest practical difference. [[phosphorus-availability]]ally drift toward pH 7.0–7.5, which is ideal for nitrifying bacteria and acceptable for most fish but suboptimal for many crops. Iron chelation, phosphorus availability, and overall nutrient uptake all suffer at higher pH.
+This is the single largest practical difference. phosphorus availabilityally drift toward pH 7.0–7.5, which is ideal for nitrifying bacteria and acceptable for most fish but suboptimal for many crops. Iron chelation, phosphorus availability, and overall nutrient uptake all suffer at higher pH.
 
 Bioponics allows the grower to target pH 5.8–6.2, the sweet spot for most hydroponic crops. Without fish to constrain the chemistry, the grower has full control.
 
@@ -69,7 +69,7 @@ Bioponics allows the grower to target pH 5.8–6.2, the sweet spot for most hydr
 
 Aquaponics requires a 4–6 week cycling period to establish nitrifying bacteria before adding fish at full stocking density. During this period, no meaningful plant production occurs.
 
-Bioponics can be productive from day one—add nutrients, plant, and grow. There's no biological startup lag, though nutrient availability may improve as microbial communities establish in the reservoir.
+Bioponics can be productive from day one—add nutrients, plant, and grow. There's no biological startup lag, though [[fungal-enzyme-activity-nutrient-availability]] may improve as [[soil-edaphic-factors-microbial-communities]] establish in the reservoir.
 
 ### Failover and Risk
 
@@ -115,7 +115,7 @@ Some growers run hybrid systems where fish provide a base nutrient load and orga
 
 Both systems reduce water usage by 90–95% compared to soil-based agriculture through recirculation. Neither system contributes to agricultural runoff or groundwater contamination—nutrients remain contained within closed loops.
 
-Aquaponics has a lower external input footprint once established, since fish feed is the primary ongoing input and the system generates its own fertility internally. However, most commercial fish feed is derived from wild-caught fishmeal, which carries an ecological cost. Sustainable alternatives (insect-based feed, duckweed, black soldier fly larvae) are improving but not yet mainstream.
+Aquaponics has a lower external input footprint once established, since fish feed is the primary ongoing input and the system generates its own fertility internally. However, most commercial fish feed is derived from wild-caught fishmeal, which carries an ecological cost. Sustainable alternatives (insect-based feed, duckweed, [[black-soldier-fly-larvae-as-feed]]) are improving but not yet mainstream.
 
 Bioponics relies on off-farm organic amendments (kelp harvested from ocean, composted materials, commercial organic fertilizers), giving it a higher external input dependency. On the other hand, these inputs can be produced on-site—compost, worm castings, and fermented plant extracts all come from waste streams that most homesteads already generate.
 

@@ -8,7 +8,7 @@ sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Mushroom Business and Marketing
 
-Starting a mushroom cultivation business requires understanding production costs, market channels, pricing strategies, and the unique characteristics of fresh mushrooms as a product. From Cotter's "Organic Mushroom Farming and [[mycoremediation]]," Chapter 15.
+Starting a [[biological-efficiency-mushroom-cultivation]] business requires understanding production costs, market channels, pricing strategies, and the unique characteristics of fresh mushrooms as a product. From Cotter's "Organic Mushroom Farming and [[mycoremediation]]," Chapter 15.
 
 ## Starting a Mushroom Farm
 
@@ -47,7 +47,7 @@ Starting a mushroom cultivation business requires understanding production costs
 ### Infrastructure
 
 - Home-scale pasteurization setup: $200-$1,500
-- Laminar flow hood: $300-$2,000 (or DIY for less)
+- [[laminar-flow-hood-construction-hepa-filter]]: $300-$2,000 (or DIY for less)
 - Autoclave/pressure cooker: $200-$3,000
 - Fruiting room environmental controls: $500-$5,000
 - Custom basket hoist for pasteurization: ~$400
@@ -121,8 +121,8 @@ Starting a mushroom cultivation business requires understanding production costs
 - Some jurisdictions require cottage food licenses for dried products
 - Commercial kitchens may be needed for value-added processing
 - Liability insurance recommended for any food production business
-- Good Agricultural Practices (GAP) certification opens larger market access
-- Organic certification adds value but requires documentation and inspection
+- Good [[mycorrhizal-agricultural-practices]] (GAP) certification opens larger market access
+- [[fukuoka-critique-organic-certification]] adds value but requires documentation and inspection
 
 ## Scaling the Business
 

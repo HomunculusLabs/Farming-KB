@@ -84,7 +84,7 @@ primary types:
 shallow basin planted with emergent macrophytes such as reeds (Phragmites),
 cattails (Typha), bulrushes (Scirpus), and iris. Treatment occurs through
 settling of solids, microbial decomposition in the aerobic water column and
-anaerobic sediments, and nutrient uptake by plants.
+anaerobic sediments, [[root-anatomy-structure-and-nutrient-uptake]] by plants.
 
 **Subsurface flow wetlands**: Water flows horizontally through a gravel or
 sand substrate planted with reeds and other emergent species. The water level
@@ -92,14 +92,14 @@ is maintained below the gravel surface, preventing mosquito breeding and
 human exposure. Subsurface systems provide more consistent treatment because
 water is in constant contact with the biofilm on gravel surfaces.
 
-Subsurface flow wetlands are generally preferred in permaculture design
+Subsurface flow wetlands are generally preferred [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
 because they are more compact, do not create standing water, and produce
 less odour. They are, however, more expensive to construct due to the gravel
 substrate requirement.
 
 ## Reed Bed Design Parameters
 
-Mollison provides the following design guidelines for subsurface flow reed
+Mollison provides the following [[gaias-garden-polyculture-design-guidelines]] for subsurface flow reed
 beds:
 
 - **Sizing**: Allow approximately 2 to 5 square metres per person for
@@ -136,7 +136,7 @@ chemical, and biological processes:
 
 ## Effluent Polishing and Reuse
 
-After treatment in a constructed wetland, effluent can be further polished
+After treatment in a [[comparison-greywater-vs-constructed-wetland]], effluent can be further polished
 through a sand filter or UV treatment and reused for irrigation, toilet
 flushing, or aquifer recharge. Mollison emphasizes that treated effluent
 should be used to irrigate non-food crops or fruit trees (where contact

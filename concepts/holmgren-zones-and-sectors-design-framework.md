@@ -10,7 +10,7 @@ tags: [design, site-design]
 
 # Holmgren Zones and Sectors Design Framework
 
-Among the great diversity of design concepts taught in permaculture design courses, the zone and sector concepts are by far the most widely understood and applied tools for making sense of the myriad choices in permaculture site design. They are discussed extensively within [[holmgren-design-patterns-details-detailed]].
+Among the great diversity of design concepts taught [[mollison-lawn-reform-and-alternatives-in-permaculture-design]] courses, the zone and sector concepts are by far the most widely understood and applied tools for making sense of the myriad choices in permaculture site design. They are discussed extensively within [[holmgren-design-patterns-details-detailed]].
 
 ## Meta-Analysis of Zones and Sectors
 
@@ -48,7 +48,7 @@ Zone 5 is the unmanaged wilderness area that serves as an ecological reference. 
 
 ## Zones in Practice
 
-Although zones are conceived as concentric, this is never so in practice. Slope, soil, aspect, title boundaries, and infrastructure all cause particular zones to shrink or expand. Even the idea that each zone is a continuous band enclosing the inner zone does not necessarily work on the ground. It is a mistake to turn this simple design concept for organising a site into a rigid blueprint. Each zone is characterised by particular plants, animals, management strategies, and structures, though these vary considerably by bioregional and cultural context.
+Although zones are conceived as concentric, this is never so in practice. Slope, soil, aspect, title boundaries, and infrastructure all cause particular zones to shrink or expand. Even the idea that each zone is a continuous band enclosing the inner zone does not necessarily work on the ground. It is a mistake to turn this simple design concept for organising a site into a rigid blueprint. Each zone is characterised by particular plants, animals, [[mollison-grasslands-and-range-management-strategies]], and structures, though these vary considerably by bioregional and cultural context.
 
 ## Sectors
 
@@ -68,7 +68,7 @@ The dwelling and household are analogous to the cell nucleus, providing control,
 
 ## Integrated Mental Maps
 
-Once familiar with using zone and sector concepts across a range of design situations, they become integrated as a mental map that filters many possible location and relationship options. When everyone shares this understanding, the mandala-like pattern of zones and sectors becomes a key building block in a bioregionalism-in-permaculture|bioregional culture of place.
+Once familiar with using zone and sector concepts across a range of design situations, they become integrated as a mental map that filters many possible location and relationship options. When everyone shares this understanding, the mandala-like pattern of zones and sectors becomes a key building block in a [[bioregionalism-in-permaculture]]|bioregional culture of place.
 
 ## Additional Design Tools
 
@@ -76,4 +76,4 @@ Beyond zones, sectors, and slope, Holmgren identifies further tools used in desi
 
 ## Catchment and Landscape Patterns
 
-The zone and sector framework connects to broader [[holmgren-pattern-thinking-and-pattern-language]]. Catchment landscapes are self-organising systems for catching and storing water, nutrients, and carbon. Permaculture strategies for keyline design and catchment management reflect the broad design rules of natural catchments: slow the flow of water and nutrients, cycle them through soil and plants as many times as possible, and use forests as the predominant land use in upland catchments.
+The zone and sector framework connects to broader [[holmgren-pattern-thinking-and-pattern-language]]. Catchment landscapes are self-organising systems for catching and storing water, nutrients, and carbon. [[dryland-permaculture-strategies]] for keyline design and catchment management reflect the broad design rules of natural catchments: slow the flow of water and nutrients, cycle them through soil and plants as many times as possible, and use forests as the predominant land use in upland catchments.

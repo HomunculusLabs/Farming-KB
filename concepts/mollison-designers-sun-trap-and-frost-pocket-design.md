@@ -18,7 +18,7 @@ Microclimate design is a fundamental skill in permaculture, and the
 creation of sun traps and the avoidance of frost pockets are among the
 most practical applications. Bill Mollison covers these topics
 extensively in Permaculture: A Designers' Manual (Chapter 3: Methods
-of Design, and Chapter 6: Trees and Their Energy Transactions). By
+of Design, and Chapter 6: [[pdc-trees-and-their-energy]] Transactions). By
 understanding how topography, vegetation, and thermal mass interact
 to modify local temperature and air movement, designers can create
 favorable growing conditions that extend the productive range of
@@ -139,9 +139,9 @@ landscape element.
 
 ## See Also
 
-- mollison designers microclimate design
-- mollison designers landscape patterns
-- mollison designers windbreak design
+- [[mollison-designers-microclimate-creation-frost-protection]] design
+- [[mollison-designers-landscape-rehabilitation-degraded-mined-land]] patterns
+- [[mollison-designers-windbreak-design-species]]
 - mollison designers thermal mass building
 - [[mollison-designers-snow-ice-and-winter-design-strategies]]
 - [[mollison-designers-house-site-preparation-and-drainage-design]]

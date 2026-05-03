@@ -14,7 +14,7 @@ sources:
 
 # Psilocybin Mushroom Cultural Artifacts
 
-The Psilocybin Mushroom Image Guide from Erowid documents a
+The [[psilocybin-mushroom-image-guide-bruising-reactions]] from Erowid documents a
 fascinating collection of mushroom-related cultural artifacts and art
 spanning thousands of years and multiple continents. These objects
 provide tangible evidence of the deep cultural significance that
@@ -35,7 +35,7 @@ contributed by Anubis and used by Erowid with permission.
 
 West African mushroom figurines represent an important but often
 overlooked aspect of African ethnomyological heritage. While much of
-the popular attention on psychedelic mushroom use has focused on
+the popular attention on [[archaeology-of-psychedelic-mushroom-use]] has focused on
 Mesoamerica, anthropological evidence suggests that psychoactive
 mushrooms have also been used in various African cultural and
 spiritual contexts. These figurines may represent ceremonial objects,
@@ -63,7 +63,7 @@ ancient Greek and Mesoamerican traditions.
 ### Historical Significance
 
 These terra cotta figurines from the early centuries of the Common
-Era provide archaeological evidence of the antiquity of mushroom
+Era provide [[mexican-mushroom-stones-archaeological-evidence]] of the antiquity of mushroom
 veneration in Mesoameripsilocybin-mushroomsimately A.D. 100, they
 predate the Spanish conquest by over 1,400 years and demonstrate
 that psychoactive mushrooms held cultural and likely religious
@@ -73,9 +73,9 @@ Psilocybe species native to the region.
 
 Peter T. Furst's discovery and documentation of these artifacts was
 instrumental in establishing the deep historical roots of mushroom use
-in Mesoamerican civilization. His work, along with R. Gordon Wasson,
+in [[shroom-mesoamerican-civilization]]. His work, along with R. Gordon Wasson,
 helped transform understanding of psychoactive mushrooms into a subject
-of serious anthropological and historical [[richard-evans-schultes]]ushroom Stones (1000 B.C. to 500 A.D.)
+of serious anthropological and historical richard evans schultesushroom Stones (1000 B.C. to 500 A.D.)
 
 The image guide includes two separate photographs, each showing
 four mushroom stones from Mexico, dating to the period between

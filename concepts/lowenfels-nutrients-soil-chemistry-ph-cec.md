@@ -13,7 +13,7 @@ tags: [chemistry, nutrients, soil]
 ## Overview
 
 Soil chemistry governs the availability of all essential plant nutrients. The three most important
-soil chemistry concepts for gardeners are pH (acidity/alkalinity), cation exchange capacity (CEC),
+soil chemistry concepts for gardeners are pH (acidity/alkalinity), [[cation-exchange-capacity]] (CEC),
 and base saturation. Together, these determine whether nutrients present in the soil can actually
 be taken up by plant roots. Understanding these concepts is essential for making informed decisions
 about soil amendments and fertilizer applications.
@@ -48,7 +48,7 @@ availability, particularly that of phosphorus.
 When the pH drops below 6, phosphorus in the form HPO4-2 becomes much less available because at
 lower pH this anion bonds more strongly to the cations of iron and aluminum. It becomes fixed,
 meaning it is not usable by plants. On the other side, if the pH rises above 7, too much
-phosphorus becomes fixed by reacting with calcium and forming calcium phosphate, rendering it
+phosphorus becomes fixed by reacting with calcium and forming [[calcium-phosphate-bionutrient]], rendering it
 increasingly unavailable.
 
 Of the macronutrients, only sulfur is not affected by pH. The micronutrients manganese, iron,
@@ -98,7 +98,7 @@ acid. The acid reacts with the soil chemicals and becomes gypsum (CaSO4).
 
 While chemical gardeners have the most problems with pH, organic gardeners should occasionally
 test for pH but normally need not worry too much. Continually adding compost and using mulches to
-increase soil organic matter will increase the cation exchange capacity, food web populations,
+increase [[humus-formation-and-soil-organic-matter]] will increase the cation exchange capacity, food web populations,
 and thus the soil's buffering capacity.
 
 ## Cation Exchange Capacity (CEC)
@@ -124,7 +124,7 @@ via the symplastic pathway.
 
 Soils with a low CEC won't hold nutrients well, so the gardener needs to mete out nutrients over
 an extended period. If your soil is sandy, you may need to add compost full of organic matter and
-clay to increase the CEC. CEC also influences the timing of fertilizer application. You wouldn't
+clay to increase the CEC. CEC also influences the timing of [[teaming-with-nutrients-fertilizer-application]]. You wouldn't
 want to put fertilizers down in autumn with low-CEC soils, because nothing would be left by spring
 due to runoff.
 

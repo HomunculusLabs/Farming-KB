@@ -8,7 +8,7 @@ sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
-title: "Casuarina Windbreak and Erosion Control"
+title: "Casuarina Windbreak [[mollison-arid-lands-design-and-erosion-control]]"
 created: 2026-04-26
 tags: [permaculture, casuarina, windbreaks, nitrogen-fixing, erosion-control]
 date: 2026-04-25
@@ -21,7 +21,7 @@ type: concept
 # Casuarina Windbreak and Erosion Control
 
 Bill Mollison highlights Casuarina (she-oak) species as among the most
-valuable multipurpose trees for windbreaks and erosion
+valuable [[permaculture-multipurpose-trees]] for windbreaks and erosion
 control systems. Native to Australia and widely naturalised across the
 tropics and subtropics, Casuarina combines nitrogen fixation, rapid
 growth, wind resistance, soil stabilisation, and multiple useful products
@@ -59,7 +59,7 @@ Mollison emphasises several advantages of Casuarina as a nitrogen fixer:
   soils alike
 - Casuarina leaf litter is nitrogen-rich and breaks down relatively
   quickly, contributing significant nitrogen to the soil surface
-- Understory plants and adjacent crops benefit from the nitrogen
+- [[food-forest-understory-plants]] and adjacent crops benefit from the nitrogen
   enrichment provided by Casuarina root systems and leaf fall
 - The nitrogen-fixing capacity allows Casuarina to thrive on
   nitrogen-poor soils including degraded farmland, mine sites, and
@@ -67,12 +67,12 @@ Mollison emphasises several advantages of Casuarina as a nitrogen fixer:
 
 ## Windbreak Design
 
-Casuarina is a premier windbreak species because its dense, conifer-like
+Casuarina is a premier [[permaculture-designers-manual-windbreak-species]] because its dense, conifer-like
 foliage provides year-round wind filtration. Unlike deciduous windbreak
 trees that lose effectiveness in winter, Casuarina maintains its
 protective canopy year-round.
 
-Windbreak design principles using Casuarina:
+Windbreak [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] using Casuarina:
 
 - Height: plant 2-3 rows of Casuarina as the windward component of a
   multi-row windbreak; the tallest row should be on the windward edge

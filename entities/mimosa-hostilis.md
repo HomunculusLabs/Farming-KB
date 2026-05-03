@@ -67,13 +67,13 @@ In modern times, *M. hostilis* root bark has become one of the most commercially
 
 The root bark is widely available through online vendors, sold as dried shredded material, whole root pieces, or powder. It is marketed under various names including "MHRB" (Mimosa Hostilis Root Bark), "Jurema," and "Tepezcohuite" (though the latter name is more properly applied to the plant's use in Mexican traditional medicine for skin conditions). The global demand for MHRB has increased significantly since the early 2000s, driven by the growing interest in DMT-containing plants and the relative ease of extraction compared to other botanical sources.
 
-In Brazil, the commercial trade in jurema root bark has raised concerns about overharvesting and its impact on the Caatinga biome. Several conservation organizations have called for sustainable harvesting practices and regulations to ensure the long-term viability of natural populations.
+In Brazil, the commercial trade in jurema root bark has raised concerns about overharvesting and its impact on the Caatinga biome. Several conservation organizations have called for [[holmgren-forest-management-and-sustainable-harvesting]] practices and regulations to ensure the long-term viability of natural populations.
 
 ## Medicinal and Practical Uses
 
 Beyond its psychoactive properties, *Mimosa hostilis* has several documented practical applications:
 
-- **Wound healing and dermatology**: The bark has been used traditionally as a topical treatment for burns, wounds, and skin infections. Mexican traditional medicine uses a bark preparation called "tepezcohuite" for similar purposes. Modern research has confirmed antimicrobial and anti-inflammatory properties in bark extracts.
+- **Wound healing and dermatology**: The bark has been used traditionally as a topical treatment for burns, wounds, and skin infections. Mexican traditional medicine uses a [[iboga-root-bark-preparation]] called "tepezcohuite" for similar purposes. Modern research has confirmed antimicrobial and anti-inflammatory properties in bark extracts.
 - **Commercial skin care**: MHRB extracts are sold globally as ingredients in natural skin care products, soaps, and cosmetics.
 - **Wood and fuel**: The wood is hard and dense, used locally for fence posts, tool handles, and fuel.
 - **Soil improvement**: As a legume, *M. hostilis* fixes atmospheric nitrogen, improving soil fertility. It is sometimes planted in agroforestry systems.
@@ -83,7 +83,7 @@ Beyond its psychoactive properties, *Mimosa hostilis* has several documented pra
 The legal status of *Mimosa hostilis* varies significantly by country and is a subject of ongoing regulatory discussion:
 
 - **Brazil**: The plant is not specifically scheduled, and jurema use is protected as indigenous cultural heritage. However, DMT extraction is illegal under Brazilian drug laws.
-- **United States**: The plant itself is not a controlled substance, but extracted DMT is a Schedule I substance under the Controlled Substances Act. Several states have enacted laws specifically targeting plant materials containing DMT.
+- **United States**: The plant itself is not a controlled substance, but extracted DMT is a Schedule I substance under the [[controlled-substances-act-and-psychedelic-research]]. Several states have enacted laws specifically targeting plant materials containing DMT.
 - **European Union**: Legal status varies by member state. The plant is generally uncontrolled, but extraction of DMT is prohibited. The UK has considered restrictions.
 - **Australia**: The plant is controlled under state-level legislation in some jurisdictions, including New South Wales and Queensland, where it is classified as a prohibited plant.
 - **Poland**: Specifically banned as a controlled substance.
@@ -96,7 +96,7 @@ Seedlings should be planted in well-draining soil mixtures and kept warm and moi
 
 Under ideal tropical conditions, the plant can produce harvestable root bark within 2 to 3 years from seed. Rhizome and root harvesting is typically done by carefully excavating lateral roots while preserving the main taproot, allowing the plant to regenerate. Sustainable harvesting practices recommend removing no more than 30% to 40% of the root mass at a single harvest.
 
-Vegetative propagation from stem cuttings is also possible but less common than seed propagation. Cuttings of 20 to 40 cm length with at least 2 nodes root readily in warm, humid conditions with the use of rooting hormone. Air layering has also been reported as a successful propagation method.
+[[hamilton-vegetative-propagation]] from stem cuttings is also possible but less common than seed propagation. Cuttings of 20 to 40 cm length with at least 2 nodes root readily in warm, humid conditions with the use of rooting hormone. Air layering has also been reported as a successful propagation method.
 
 ## Ecology and Invasive Potential
 

@@ -33,12 +33,12 @@ low due to high reactivity with iron, aluminum, and calcium minerals:
 - Polyphosphate granules accumulate in vacuoles of hyphal cells,
   providing intermediate storage and long-distance transport through
   the hyphal network
-- At the arbuscular interface in arbuscular mycorrhizal (AM) symbiosis,
+- At the arbuscular interface in [[arbuscular-mycorrhizal-colonization-patterns]] (AM) symbiosis,
   fungal phosphate transporters release Pi into the periarbuscular
   space, where plant phosphate transporters (also PHT1 family) absorb
   it into cortical root cells
 - The mycorrhizal phosphate uptake pathway accounts for the majority of
-  total plant phosphorus acquisition in most natural ecosystems, with
+  total plant [[dighton-mycorrhizal-phosphatase-phosphorus-acquisition]] in most natural ecosystems, with
   AM-dependent plants receiving 50 to 90 percent of their phosphorus
   through fungal pathways
 
@@ -75,7 +75,7 @@ ecosystem and fungal type:
   that release nitrogen from protein-tannin complexes and humus materials
 
 The nitrogen form preference of mycorrhizal fungi has implications for
-plant community composition, as species with different mycorrhizal
+[[mycorrhizal-effects-on-plant-community-composition]], as species with different mycorrhizal
 partners may access complementary nitrogen pools.
 
 ## Zinc Uptake and Transport
@@ -127,7 +127,7 @@ Mycorrhizal fungi influence plant uptake of additional micronutrients:
 - Manganese: mycorrhizal hyphae absorb manganese and regulate its
   transfer to prevent toxicity in acidic soils where manganese
   solubility is high
-- Boron: AM associations improve boron uptake and translocation,
+- Boron: AM associations improve boron [[fungal-heavy-metal-uptake-and-translocation]],
   particularly under conditions of low boron availability in sandy
   or leached soils
 - Molybdenum: fungal hyphae access molybdate from soil solution and

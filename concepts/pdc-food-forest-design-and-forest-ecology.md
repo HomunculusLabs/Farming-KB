@@ -9,7 +9,7 @@ tags: [ppermaculture pdc, food-forest, agroforestry, forest-ecology, succession]
 
 # PDC [[food-forest-design]] and Forest Ecology
 
-The Williams PDC provides one of the most thorough treatments of forest ecology and food forest design available in introductory permaculture courses. Williams connects the science of forest structure and succession directly to [[permaculture-design]] practice, arguing that food forests represent the highest expression of permaculture's principle of using edges and valuing the marginal through three-dimensional space utilization.
+The Williams PDC provides one of the most thorough treatments of forest ecology and [[backyard-food-forest-design]] available in introductory permaculture courses. Williams connects the science of forest [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] directly to [[permaculture-design]] practice, arguing that food forests represent the highest expression of permaculture's principle of using edges and valuing the marginal through three-dimensional space utilization.
 
 ## Forest Structure: The Seven Layers
 
@@ -44,7 +44,7 @@ Williams teaches that all forests follow the same process pattern of evolution a
 Forest development on a "blank slate" -- bare rock, lava field, or severely disturbed land with no pre-existing soil or organic matter. This is the slowest form of succession.
 
 ### Secondary Succession
-Forest development on land that previously supported an ecosystem whose ecology collapsed. This is faster than primary succession because some soil organic matter and biological activity remain.
+Forest development on land that previously supported an ecosystem whose ecology collapsed. This is faster than primary succession because some [[humus-formation-and-soil-organic-matter]] and biological activity remain.
 
 ### The Five Stages of Succession
 
@@ -97,7 +97,7 @@ The practice of integrating human-planted crops into an existing forest. This pr
 
 ### Eco-Forestry
 
-The sustainable management of forest systems that allows humans to benefit from natural forests while helping them reach and maintain their climax state. Williams frames eco-forestry as the permaculture ethic of fair share applied to forests: humans are entitled to a fair share of the forest's bounty, but lacking instinct for ecological balance, we need guiding philosophy and principles.
+The sustainable management of forest systems that allows humans to benefit from natural forests while helping them reach and maintain their climax state. Williams frames eco-forestry as the permaculture ethic of fair share applied to forests: humans are entitled to a fair share of the forest's bounty, but lacking instinct for ecological balance, we need guiding [[natural-farming-philosophy-and-principles]].
 
 ### Food Forest Design Principles
 

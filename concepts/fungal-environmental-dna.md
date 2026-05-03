@@ -47,7 +47,7 @@ Despite its power, fungal eDNA methods face significant limitations. DNA
 extraction efficiency varies across fungal taxa — some fungi have cell walls
 that are difficult to lyse, leading to systematic underrepresentation. Primer
 bias means that certain fungal lineages amplify more efficiently than others,
-distorting community composition estimates. Reference databases are
+distorting [[mycorrhizal-effects-on-plant-community-composition]] estimates. Reference databases are
 incomplete, with described species representing a small fraction of total
 diversity, limiting taxonomic assignment. The question of whether detected DNA
 represents living organisms, dormant spores, or extracellular DNA persists as
@@ -85,7 +85,7 @@ While metabarcoding reveals taxonomic composition, newer approaches aim to
 characterize the functional potential of fungal communities directly. Shotgun
 metagenomic sequencing of soil samples recovers entire fungal genomes from the
 environment, enabling identification of genes involved in nutrient cycling,
-pathogenicity, stress tolerance, and secondary metabolite production. Metatranscriptomics captures which fungal genes are actively expressed, providing a dynamic view of fungal community function. These functional approaches complement taxonomic surveys and are particularly valuable for understanding how fungal communities respond to environmental perturbations such as drought, nitrogen deposition, or warming. The integration of taxonomic and functional data is creating a more nuanced picture of fungal ecosystem roles.
+pathogenicity, stress tolerance, and [[fungal-elicitors-enhanced-secondary-metabolite-production]]. Metatranscriptomics captures which fungal genes are actively expressed, providing a dynamic view of fungal community function. These functional approaches complement taxonomic surveys and are particularly valuable for understanding how fungal communities respond to environmental perturbations such as drought, nitrogen deposition, or warming. The integration of taxonomic and functional data is creating a more nuanced picture of [[fungal-ecosystem-roles]].
 
 ## Bioinformatics and Computational Challenges
 
@@ -111,7 +111,7 @@ global sampling framework. These large-scale efforts are revealing biogeographic
 patterns in fungal diversity that were previously invisible, including the
 identification of global diversity hotspots, the quantification of
 beta-diversity across ecosystems, and the detection of community shifts along
-environmental gradients. As sequencing costs continue to decrease and
+[[fungal-adaptations-environmental-gradients]]. As sequencing costs continue to decrease and
 bioinformatics tools improve, comprehensive global maps of fungal diversity
 from eDNA data are becoming an achievable goal.
 

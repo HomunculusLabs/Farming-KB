@@ -19,7 +19,7 @@ systems. They are efficient converters of browse and pasture into milk, meat,
 and manure. Mollison values goats for their ability to thrive on marginal land,
 their preference for browsing (which complements grazing livestock), and their
 relatively small scale, which suits homestead and small-farm systems. Goat
-dairy production integrates forage management, animal husbandry, and food
+dairy production integrates [[hay-and-forage-management]], animal husbandry, and food
 processing into a single productive cycle.
 
 ## Breed Selection
@@ -28,7 +28,7 @@ Breed selection depends on climate, production goals, and available forage.
 Mollison highlights several dairy breeds suited to different conditions.
 
 **Saanen:** The highest milk-producing dairy breed, originating in Switzerland.
-Large white goats producing 3 to 5 litres daily. Suited to temperate climates
+Large white goats producing 3 to 5 litres daily. Suited to [[fukuoka-natural-farming-temperate-climates]]
 with good quality pasture and supplementary feeding. Relatively susceptible to
 heat and cold stress.
 
@@ -81,7 +81,7 @@ waterways and food production areas.
 ## Forage Systems for Dairy Goats
 
 Goats are natural browsers, preferring leaves, twigs, and shoots over grass.
-This browsing behaviour makes them ideal for integrating with tree crop systems,
+This browsing behaviour makes them ideal for integrating with [[permaculture-tree-crop-systems]],
 where they control understorey growth, cycle nutrients, and produce milk from
 vegetation that would otherwise require management.
 
@@ -111,7 +111,7 @@ weeks refrigerated.
 
 **Hard cheese:** Requires pressing and ageing. Curds are cut, heated, and
 stirred to expel more whey before being pressed in a mould. Hard cheeses are
-aged for weeks to months at controlled temperature and humidity. They develop
+aged for weeks to months at controlled [[vegetable-storage-conditions-by-temperature-and-humidity]]. They develop
 more complex flavours and keep for months.
 
 **Yoghurt:** Milk is heated to 85 degrees Celsius, cooled to 45 degrees, and
@@ -119,7 +119,7 @@ inoculated with a thermophilic culture. It incubates at 40 to 45 degrees for
 4 to 12 hours until set. Yoghurt keeps for two to three weeks refrigerated.
 
 All processing requires scrupulous hygiene: sanitised equipment, clean
-work surfaces, and temperature control throughout.
+work surfaces, and [[hamilton-greenhouse-heating-and-temperature-control]] throughout.
 
 ## Integration with Orchard and Pasture Systems
 

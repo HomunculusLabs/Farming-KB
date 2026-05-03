@@ -7,13 +7,13 @@ tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agricultu
 sources: []
 ---
 # Cordyceps and Entomopathogenic Fungi
-Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control.
+Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in [[hamilton-beneficial-insects-and-biological-pest-control]].
 ## Cordyceps and Ophiocordyceps
 ### Taxonomy
 The traditional genus Cordyceps was split in 2007 based on molecular phylogeny:
 - Ophiocordyceps: includes species that parasitize ants and other arthropods (formerly Cordyceps)
 - Cordyceps (sensu stricto): includes species that parasitize caterpillars (e.g., C. militaris)
-Both belong to the family Ophiocordycipitaceae within the order Hypocreales ([[ascomycete-phylum-guide|Ascomycota]]).
+Both belong to the family Ophiocordycipitaceae within the order Hypocreales ([[ascomycete-phylum-guide]]).
 ### Ophiocordyceps unilateralis (Zombie-Ant Fungus)
 The most famous entomopathogenic fungus, documented infecting carpenter ants (Camponotus spp.) in tropical forests.
 #### Infection Process
@@ -30,7 +30,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 - "Entomopathogenic graveyards" of dead ants attached to vegetation are a striking feature of tropical focordyceps-militarisvolved behavioral defenses: infected ants are removed from colonies by nestmates (social immunity)
 - Some ants recognize infected individuals and carry them away from the colony
 ### Cordyceps militaris
-A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis.
+A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other [[cordyceps-cancer-bioactive-compounds]]. Easier to cultivate than the famous C. sinensis.
 ### Ophiocordyceps sinensis (Cordyceps sinensis / Yartsa Gunbu)
 The most prized medicinal fungus in Traditional Chinese Medicine.
 - Parasitizes larvae of the ghost moth (Thitarodes/Hepialus) in the Himalayan plateau
@@ -95,7 +95,7 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 ## Other Notable Entomopathogenic Fungi
 ### Lecanicillium lecanii
 - Effective against aphids, whiteflies, and scale insects
-- Also pathogenic on some fungal plant pathogens (mycoparasitic)
+- Also pathogenic on some [[bloomfield-fungal-plant-pathogens]] (mycoparasitic)
 - Commercially available as Vertalec and Mycotal
 ### Isaria fumosorosea
 - Effective against whiteflies, thrips, and mites
@@ -109,7 +109,7 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 ### Conidial Sprays
 - Most common method: spray conidial suspensions onto crops or directly onto pests
 - Application timing critical: target susceptible life stages
-- F[[fungal-spores]]th UV-protectants and humectants improves field persistence
+- Ffungal sporesth UV-protectants and humectants improves field persistence
 - Standard application rates: 10^12-10^13 conidia per hectare
 ### Attract-and-Infect (Auto-dissemination)
 - Stations containing fungal spores are placed in the environment
@@ -121,7 +121,7 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 - Effective against white grubs, wireworms, and root weevils
 - Persistence in soil varies from weeks to months depending on conditions
 ## Limitations and Challenges
-- Environmental sensitivity: temperature, humidity, and UV radiation affect efficacy
+- [[lichen-ecology-environmental-sensitivity]]: temperature, humidity, and UV radiation affect efficacy
 - Slower action than chemical insecticides (days to weeks)
 - Storage and shelf life: conidia lose viability over time, requiring cold storage
 - Production costs: solid-state or liquid fermentation required

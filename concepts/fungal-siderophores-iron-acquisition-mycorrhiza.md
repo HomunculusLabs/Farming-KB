@@ -70,7 +70,7 @@ plant. This function is particularly important in calcareous and
 alkaline soils where iron availability is especially low. Ectomycorrhizal
 fungi are particularly prolific siderophore producers, and their
 siderophores (primarily ferrichromes) contribute significantly to
-plant iron nutrition in forest ecosystems. Arbuscular mycorrhizal
+plant iron nutrition in forest ecosystems. [[arbuscular-mycorrhizal-colonization-patterns]]
 fungi (AMF) also produce siderophores, though their contribution
 to plant iron uptake is less well characterized than that of
 ectomycorrhizal partners.
@@ -79,14 +79,14 @@ ectomycorrhizal partners.
 
 The ecological significance of fungal siderophores extends beyond
 simple iron nutrition. By competing for iron, siderophore-producing
-fungi can influence soil microbial community composition, suppressing
+fungi can influence soil microbial [[mycorrhizal-effects-on-plant-community-composition]], suppressing
 pathogenic microorganisms that also require iron. The production of
 siderophores by mycorrhizal helper bacteria further complicates the
 picture, as bacterial and fungal siderophores may interact
 synergistically or competitively in the mycorrhizosphere. Iron
 cycling mediated by fungal siderophores represents a significant
 pathway in terrestrial biogeochemistry, affecting not only plant
-nutrition but also carbon cycling and soil organic matter dynamics.
+nutrition but also carbon cycling and [[humus-formation-and-soil-organic-matter]] dynamics.
 
 ## Isolation and Characterization
 
@@ -121,7 +121,7 @@ provide a multi-layered defense against iron-dependent pathogens.
 Understanding fungal siderophore production has practical applications
 in agriculture and environmental management. Iron chlorosis, a
 deficiency condition common in calcareous soils, might be mitigated
-by selecting crop varieties that form mycorrhizal associations with
+by selecting crop varieties that form [[plants-without-mycorrhizal-associations]] with
 prolific siderophore producers. In bioremediation, siderophores
 could potentially be used to mobilize iron and other metals from
 contaminated soils, enhancing phytoremediation efficiency. The

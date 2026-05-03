@@ -50,7 +50,7 @@ acremonium strictum is a widely distributed species found across a broad range o
 
 ### Ericoid Mycorrhizal Symbiosis
 
-One of the most ecologically significant roles of acremonium strictum is its function as an ericoid mycorrhizal fungus. As documented in Dighton (2003), A. strictum, along with [[oidiodendron-maius]], forms mycorrhizal associations with salal (Gaultheria shallon), an important ericaceous understory plant in Pacific Northwest forests.
+One of the most ecologically significant roles of acremonium strictum is its function as an ericoid mycorrhizal fungus. As documented in Dighton (2003), A. strictum, along with [[oidiodendron-maius]], forms [[plants-without-mycorrhizal-associations]] with salal (Gaultheria shallon), an important ericaceous understory plant in Pacific Northwest forests.
 
 In this symbiotic role, acremonium strictum enables its host plant to access organic forms of nutrients that would otherwise be unavailable. Specifically, the ericoid mycorrhizae of salal are able to utilize:
 
@@ -93,7 +93,7 @@ The ability of acremonium strictum to colonize environments contaminated with he
 
 - Biostabilization of radionuclide-contaminated soils
 - Bioaccumulation of heavy metals from polluted environments
-- Development of fungal-based remediation technologies for nuclear sites
+- Development of fungal-based [[pcb-remediation-technologies]] for nuclear sites
 
 ## Physiological Adaptations
 
@@ -107,9 +107,9 @@ acremonium strictum possesses several physiological adaptations that enable its 
 
 acremonium strictum has several areas of practical importance:
 
-- **Bioremediation:** Its radiation tolerance and ability to colonize contaminated environments make it a candidate organism for bioremediation of radionuclide-contaminated sites.
+- **Bioremediation:** Its radiation tolerance and ability to colonize [[singh-fungal-biofilms-in-contaminated-environments]] make it a candidate organism for bioremediation of radionuclide-contaminated sites.
 - **Agriculture:** As an ericoid mycorrhizal fungus, it contributes to the health and nutrition of ericaceous crops such as blueberries and cranberries.
-- **Medicine:** Although rarely pathogenic to humans, the species has been occasionally implicated in opportunistic infections, particularly in immunocompromised patients.
+- **Medicine:** Although rarely pathogenic to humans, the species has been occasionally implicated in [[blesching-cannabis-aids-opportunistic-infections]], particularly in immunocompromised patients.
 
 ## Research Notes
 

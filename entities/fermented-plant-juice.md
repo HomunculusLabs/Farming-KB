@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 
 # Fermented Plant Juice
 
-**Fermented Plant Juice (FPJ)** is a core Korean Natural Farming (KNF) input produced by extracting and fermenting the sap and cell contents of vigorous, fast-growing plant materials using brown sugar as a drawing agent and preservative. Developed by Master Han Kyu Cho as part of the Cho Global Natural Farming system, FPJ serves as a natural plant growth stimulant, nutrient source, and microbial food. The preparation leverages osmotic pressure from sugar to extract plant fluids and simultaneously initiates lactic acid fermentation by naturally occurring epiphytic microorganisms.
+**Fermented Plant Juice (FPJ)** is a core [[korean-natural-farming]] (KNF) input produced by extracting and fermenting the sap and cell contents of vigorous, fast-growing plant materials using brown sugar as a drawing agent and preservative. Developed by Master Han Kyu Cho as part of the Cho Global Natural Farming system, FPJ serves as a natural plant growth stimulant, nutrient source, and microbial food. The preparation leverages osmotic pressure from sugar to extract plant fluids and simultaneously initiates lactic acid fermentation by naturally occurring epiphytic microorganisms.
 
 ## Principle of Production
 
@@ -29,10 +29,10 @@ The choice of plant material determines the specific nutrients and growth factor
 * **Sweet potato shoot FPJ:** Made from young sweet potato vines before tuber formation. Rich in potassium and growth hormones. Used as a general plant growth stimulant and to enhance fruit sweetness.
 * **Bamboo shoot FPJ:** Made from young bamboo shoots. Contains high levels of silica, which strengthens plant cell walls. Used to improve plant structural integrity and disease resistance.
 * **Banana FPJ:** Made from ripe banana pseudostem and fruits. Very high in potassium and natural sugars. Used during fruiting and ripening stages to improve fruit quality, sweetness, and shelf life.
-* ** Mugwort (Artemisia) FPJ:** Made from young mugwort leaves. Rich in vitamins, minerals, and bioactive compounds with antimicrobial properties. Used for plant vitality and pest deterrence.
+* ** Mugwort (Artemisia) FPJ:** Made from young mugwort leaves. Rich in vitamins, minerals, and bioactive compounds with [[medicinal-mushroom-antimicrobial-properties]]. Used for plant vitality and pest deterrence.
 * **Dropwort (Oenanthe javanica) FPJ:** Made from the aquatic plant water dropwort. High in minerals, particularly iron and silica. Used for leafy green vegetables and rice crops.
 * **Seaweed/Kelp FPJ:** Made from fresh seaweed collected from clean coastal waters. Extraordinarily rich in trace minerals (over 60 elements), alginates, cytokinins, and auxins. Used as a micronutrient supplement and stress tolerance enhancer.
-* **Strawberry FPJ:** Made from runner tips or excess strawberry plants. High in natural plant growth hormones. Used to stimulate flowering and fruit set.
+* **Strawberry FPJ:** Made from runner tips or excess strawberry plants. High in natural [[gibberellins-plant-growth-hormones]]. Used to stimulate flowering and fruit set.
 * **Garlic FPJ:** Made from garlic cloves and greens. Contains allicin and other sulfur compounds with strong antimicrobial properties. Used as a natural pesticide and disease suppressant.
 * **Hot pepper FPJ:** Made from hot pepper leaves and fruits. Contains capsaicin and related compounds. Used as a pest deterrent when combined with other FPJ types.
 
@@ -80,9 +80,9 @@ The fermentation process creates a complex mixture of bioactive compounds:
 FPJ functions as both a direct plant nutrient and a microbial food source within the broader KNF system:
 
 * **Synergy with IMO:** FPJ provides simple sugars and amino acids that feed Indigenous Microorganism communities, sustaining their populations in soil and on plant surfaces
-* **Growth stage matching:** Different FPJ types are applied at different growth stages to match plant nutritional needs — nitrogen-rich FPJ during vegetative growth, [[soil-food-web]]h FPJ during flowering and fruiting
+* **Growth stage matching:** Different FPJ types are applied at different growth stages to match plant nutritional needs — nitrogen-rich FPJ during vegetative growth, soil food webh FPJ during flowering and fruiting
 * **Stress management:** Seaweed and herbal FPJs are applied during environmental stress (drought, temperature extremes, pest pressure) to support plant resilience
-* **Soil food web support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting nutrient cycling and disease suppression
+* **[[compost-chemistry-soil-food-web]] support:** Dilute FPJ applied to soil feeds diverse microbial communities, supporting nutrient cycling and disease suppression
 
 ## Troubleshooting
 

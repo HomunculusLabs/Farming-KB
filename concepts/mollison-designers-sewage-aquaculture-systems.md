@@ -16,16 +16,16 @@ converting a pollution problem into a productive resource. Rather than
 treating sewage as waste to be disposed of, permaculture treats it as a
 valuable flow of nitrogen, phosphorus, potassium, and organic matter that can
 drive aquaculture, irrigation, and [[mollison-designers-fuelwood-forestry-systems]]. When properly designed, these systems produce fish, water plants,
-irrigation water, and fertile soil amendments while eliminating pathogen
+irrigation water, and fertile [[jeavons-fertilization-organic-soil-amendments]] while eliminating pathogen
 transmission risks.
 
 ## Principles of Waste-to-Food Conversion
 
 The fundamental principle is that nutrients excreted by humans and livestock
-are the same nutrients required by aquatic plants and animals. Conventional
+are the same nutrients required by aquatic [[permaculture-interaction-of-plants-and-animals]]. Conventional
 sewage treatment destroys or buries these nutrients at great energy cost.
 Sewage aquaculture intercepts the nutrient stream and passes it through a
-series of biological treatment stages, each occupied by organisms that
+series of [[mollison-water-purification-biological-treatment]] stages, each occupied by organisms that
 extract nutrients and produce useful yields. The key design constraint is
 ensuring adequate retention time and biological processing to destroy
 pathogens before any food product is harvested.
@@ -79,7 +79,7 @@ rich water suitable for irrigation of tree crops, pastures, and fuelwood
 plantations. Mollison cautions that this water should not be used on root
 crops or vegetables eaten raw, but is excellent for [[mollison-designers-fuelwood-forestry-systems]], fruit trees, and fodder crops. The irrigation
 area acts as a final biological filter, with soil organisms completing
-nutrient processing before any water reaches groundwater or waterways.
+[[ingham-chelation-microbial-nutrient-processing]] before any water reaches groundwater or waterways.
 
 ## Species Selection for Polyculture
 

@@ -22,9 +22,9 @@ morphological identification to modern molecular genetic techniques.
 
 The importance of fungal biodiversity assessment extends beyond academic
 taxonomy. Fungi play fundamental roles in nutrient cycling, decomposition,
-symbiotic relationships, and ecosystem function. Understanding fungal
+[[fungi-in-the-environment-symbiotic-relationships]], and ecosystem function. Understanding fungal
 community composition is essential for monitoring ecosystem health, guiding
-conservation strategies, and discovering novel species with potential
+[[fungal-conservation-strategies]], and discovering novel species with potential
 biotechnological or pharmaceutical applications.
 
 ## Key Concepts
@@ -110,7 +110,7 @@ tiny species." This gap underscores the need for expanded survey efforts.
 
 ### Ecosystem Health Monitoring
 
-Changes in fungal community composition serve as bioindicators of
+Changes in [[soil-fungal-community-composition]] serve as bioindicators of
 ecosystem health, reflecting shifts in soil conditions, vegetation
 composition, air quality, and land management practices. Regular fungal
 biodiversity surveys can detect environmental degradation before it
@@ -118,7 +118,7 @@ becomes apparent through other biological indicators.
 
 ### Conservation Planning
 
-Fungal biodiversity data inform conservation strategies by identifying
+[[fungal-biodiversity-data-analysis]] inform conservation strategies by identifying
 species of conservation concern, mapping hotspots of fungal diversity,
 and assessing the impact of habitat management practices on fungal
 communities. The recognition of Armillaria individuals spanning thousands

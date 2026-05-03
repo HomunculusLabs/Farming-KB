@@ -43,7 +43,7 @@ providing root-zone oxygen release, substrate for biofilm growth,
 and nutrient uptake.
 
 Constructed wetlands handle a remarkably diverse range of contaminants
-including petroleum hydrocarbons, textile dyes, acid mine drainage,
+including [[mycoremediation-of-petroleum-hydrocarbons]], textile dyes, [[acid-mine-drainage-treatment]],
 pharmaceutical residues, heavy metals, and stormwater runoff. They
 are low-energy systems that require no electricity once established.
 Their multi-functional nature provides wildlife habitat alongside
@@ -51,7 +51,7 @@ water treatment.
 
 The primary operational problem is substrate clogging in subsurface
 flow systems, caused by accumulation of organic matter and biofilm.
-Cold weather significantly reduces biological treatment activity,
+Cold weather significantly reduces [[mollison-water-purification-biological-treatment]] activity,
 requiring larger surface areas in northern climates. Permitting
 requirements vary by jurisdiction and intended effluent quality.
 
@@ -81,7 +81,7 @@ Plants absorb dissolved nutrients, provide shade that suppresses
 algae, and create habitat complexity for invertebrates and amphibians.
 
 Backyard ponds create significant wildlife habitat, attracting
-dragonflies, frogs, songbirds, and beneficial insects. They can
+dragonflies, frogs, songbirds, [[hemenway-insectary-plants-and-beneficial-insects]]. They can
 support fish such as koi, goldfish, or native minnows. Significant
 excavation effort is required, and liner costs scale nonlinearly
 with pond size. Winter care is needed in cold climates to prevent

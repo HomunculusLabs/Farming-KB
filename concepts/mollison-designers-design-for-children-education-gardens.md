@@ -14,10 +14,10 @@ sources:
 
 # Design for Children and Education Gardens
 
-Designing permaculture systems for children requires attention to safety,
+Designing [[forage-and-fodder-trees-permaculture-systems]] for children requires attention to safety,
 accessibility, sensory engagement, and educational value. Mollison believed
 that children learn most effectively through direct interaction with living
-systems, and that school and community gardens are powerful vehicles for
+systems, and that school and [[gaias-garden-creating-community-gardens]] are powerful vehicles for
 transmitting ecological literacy. An education garden must function as both a
 productive growing system and a rich learning environment.
 
@@ -28,7 +28,7 @@ Every element should be accessible at child height and scale. Pathways must be
 wide enough for group movement and wheelchair access. Raised beds at 40 to 60
 centimetres allow young children to reach the centre without stepping into the
 bed. Plantings should be dense, tactile, and responsive to encourage repeated
-engagement throughout the growing season.
+engagement throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The garden layout should create distinct zones for different activities: a
 food production area, a sensory exploration area, a wildlife habitat area,
@@ -98,7 +98,7 @@ Education gardens support learning across multiple subjects. Mathematics
 through measuring beds, calculating seed spacing, recording growth rates, and
 harvest weights. Science through [[soil-testing]], plant life cycles, insect
 observation, and weather monitoring. Language through garden journals,
-observation writing, and plant identification. Art through nature drawing,
+observation writing, and [[cannabis-male-plant-identification]]. Art through nature drawing,
 seed mosaics, and flower pressing. History through heritage food plants and
 traditional growing methods.
 

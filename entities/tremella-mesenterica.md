@@ -38,7 +38,7 @@ The bright yellow-orange color and brain-like morphology make T. mesenterica one
 
 ## Distribution and Habitat
 
-T. mesenterica has a wide global distribution and is found on every continent except Antarctica. It is particularly common in temperate regions:
+T. mesenterica has a wide [[magic-mushroom-global-distribution]] and is found on every continent except Antarctica. It is particularly common in temperate regions:
 
 - North America (throughout the United States and southern Canada)
 - Europe (widespread from the Mediterranean to Scandinavia)
@@ -65,7 +65,7 @@ Chemical analysis of T. mesenterica has revealed several notable constituents:
 - **Fat:** Very low lipid content.
 - **Minerals:** Contains potassium, calcium, magnesium, and various trace elements.
 - **Vitamins:** Contains B-complex vitamins in modest amounts.
-- **Phenolic compounds:** Various phenolic acids contributing to antioxidant activity.
+- **[[ingham-tannins-terpenes-phenolic-compounds]]:** Various phenolic acids contributing to antioxidant activity.
 - **Carotenoids:** The bright yellow-orange color is attributed to carotenoid pigments, including beta-carotene and related compounds.
 - **Ergosterol:** Present in typical basidiomycete quantities.
 
@@ -110,12 +110,12 @@ Preliminary studies have suggested anti-inflammatory properties:
 
 ## Ecological Role
 
-As a mycoparasite, T. mesenterica plays an important ecological role in forest ecosystems. It parasitizes wood-decay fungi, particularly Peniophora species, which are crust-forming fungi that decompose dead wood. The relationship between T. mesenterica and its host fungi represents a fascinating ecological interaction:
+As a mycoparasite, T. mesenterica plays an important ecological role in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. It parasitizes wood-decay fungi, particularly Peniophora species, which are crust-forming fungi that decompose dead wood. The relationship between T. mesenterica and its host fungi represents a fascinating ecological interaction:
 
 - T. mesenterica infects the mycelium of Peniophora growing within decaying wood
 - The host fungus continues to decompose the wood substrate while being parasitized
 - T. mesenterica produces its conspicuous yellow fruiting body on the wood surface during wet conditions
-- This parasitic relationship may influence the rate and pattern of wood decomposition in forest ecosystems
+- This parasitic relationship may influence the rate and pattern of [[mycelium-running-rot-fungi-wood-decomposition]] in forest ecosystems
 
 ## Traditional and Cultural Use
 

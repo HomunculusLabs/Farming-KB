@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The relationship between mycorrhizal fungal diversity and ecosystem
+The relationship between [[arbuscular-mycorrhizal-fungal-diversity]] and ecosystem
 function has been a central question in [[fungal-ecology]], with
 significant implications for understanding how
 fungal-biodiversity|biodiversity supports ecosystem processes.
@@ -35,7 +35,7 @@ specific functional attributes of the fungal species involved.
 Multiple experimental studies have shown that plants perform better
 with multiple mycorrhizal partners than with single species. Chu-Chou
 and Grace (1985) showed that radiata pine seedlings performed better
-in the presence of three ectomycorrhizal-ecology|ectomycorrhizal
+in the presence of three [[ectomycorrhizal-ecology]]|ectomycorrhizal
 symbionts than with one. Similarly, two ectomycorrhizal species were
 found to produce larger host plants than one (Parlade and Alvarez,
 1993; Reddy and Natarajan, 1997). The yield of competing Douglas fir
@@ -62,7 +62,7 @@ but the total number of mycorrhizal root tips per plant increased.
 In response to increased mycorrhizal diversity, plant shoot biomass
 declined but root biomass increased. Using stepwise multiple regression
 analysis, changes in plant biomass (root and shoot) and plant phosphate
-content were significantly correlated with ectomycorrhizal diversity
+content were significantly correlated with [[biodiversity-fungi-ectomycorrhizal-diversity]]
 rather than the level of root colonization. This suggests that the
 interaction among ectomycorrhizal fungi on the same root system has an
 influence on plant performance independent of either total colonization
@@ -112,7 +112,7 @@ suggests that diverse communities can access a broader range of
 nutrient resources than single species. Different mycorrhizal species
 produce different arrays of extracellular enzymes, explore different
 soil volumes through varying hyphal architecture, and respond
-differently to environmental gradients. This complementarity is
+differently to [[fungal-adaptations-environmental-gradients]]. This complementarity is
 analogous to the resource partitioning described for plant communities
 and may explain why diverse mycorrhizal communities often support
 greater plant productivity.

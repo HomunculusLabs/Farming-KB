@@ -15,7 +15,7 @@ sources:
 
 # Fusarium graminearum
 
-**Fusarium graminearum** is a major fungal plant pathogen and the primary causal agent of Fusarium head blimycotoxins also known as scab or tombstone disease, in cereal crops worldwide. It is one of the most economically destructive plant pathogens in global agriculture, causing billions of dollars in annual losses through reduced grain yield and quality, and through contamination of grain with mycotoxins that pose serious risks to human and animal health. The species is also known by its teleomorph name, *Gibberella zeae*.
+**Fusarium graminearum** is a major [[fungal-plant-pathogen-interactions]] and the primary causal agent of Fusarium head blimycotoxins also known as scab or tombstone disease, in cereal crops worldwide. It is one of the most economically destructive plant pathogens in global agriculture, causing billions of dollars in annual losses through reduced grain yield and quality, and through contamination of grain with mycotoxins that pose serious risks to human and animal health. The species is also known by its teleomorph name, *Gibberella zeae*.
 
 ## Taxonomy and Classification
 
@@ -61,7 +61,7 @@ The disease cycle of *F. graminearum* involves both sexual and asexual reproduct
 
 ## Mycotoxins
 
-*Fusarium graminearum* is one of the most significant mycotoxin-producing fungi, producing several classes of toxic secondary metabolites:
+*Fusarium graminearum* is one of the most significant mycotoxin-producing fungi, producing several classes of toxic [[biodiversity-fungal-secondary-metabolites]]:
 
 ### Trichothecenes
 - **Deoxynivalenol (DON / Vomitoxin):** The most prevalent trichothecene in contaminated grain, causing feed refusal, vomiting, and immunosuppression in livestock. Regulatory limits for DON in food and feed exist in most countries
@@ -87,7 +87,7 @@ The genome of *F. graminearum* PH-1 was one of the first Fusarium genomes to be 
 
 ## Management and Control
 
-Management of Fusarium head blight requires an integrated approach:
+Management of Fusarium head blight requires an [[solomon-insects-and-diseases-integrated-approach]]:
 
 - **Resistant Varieties:** The most effective long-term strategy, though resistance is quantitative (controlled by multiple genes) and no commercially available varieties are fully resistant. Type II resistance (resistance to spread within the spike) is particularly important
 - **Fungicide Application:** Triazole fungicides (propiconazole, tebuconazole, metconazole, prothioconazole) applied at anthesis can reduce FHB severity and mycotoxin accumulation, though control is often incomplete
@@ -102,7 +102,7 @@ Management of Fusarium head blight requires an integrated approach:
 - **Fungal-Plant Interactions:** The molecular dialogue between pathogen and host during infection
 - **Secondary Metabolism:** Regulation and biosynthesis of trichothecene mycotoxins
 - **[[fungal-sexual-reproduction]]:** The role of sexual recombination in generating genetic diversity and adapting to host resistance
-- **Population Genetics:** Using multilocus sequence typing (MLST) and other molecular tools to track the spread and evolution of *F. graminearum* populations worldwide
+- **Population Genetics:** Using [[gadd-fungal-multilocus-sequence-typing]] (MLST) and other molecular tools to track the spread and evolution of *F. graminearum* populations worldwide
 
 ## Economic Impact
 

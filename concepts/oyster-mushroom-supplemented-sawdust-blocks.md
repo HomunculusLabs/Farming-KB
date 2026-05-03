@@ -15,9 +15,9 @@ Supplemented sawdust block cultivation is the standard method for commercial ind
 
 ## Why Supplementation Works
 
-Oyster mushrooms need substrates rich in cellulose and hemicellulose as their primary nutrition, supplemented with nitrogen sources for protein synthesis. Plain sawdust alone is a relatively poor [[mushroom-substrates]] because it lacks sufficient nitrogen. Adding bran (rice, wheat, or oat) at 20-40% of the dry substrate weight dramatically increases nutritional availability, resulting in faster colonization, larger fruitbodies, and higher biological efficiency.
+Oyster mushrooms need substrates rich in cellulose and hemicellulose as their primary nutrition, supplemented with nitrogen sources for protein synthesis. Plain sawdust alone is a relatively poor [[mushroom-substrates]] because it lacks sufficient nitrogen. Adding bran (rice, wheat, or oat) at 20-40% of the dry substrate weight dramatically increases nutritional availability, resulting in faster colonization, larger fruitbodies, and higher [[biological-efficiency]].
 
-The nutritional composition of key substrate materials:
+The [[mushroom-nutritional-composition]] of key [[stamets-fruiting-substrate-materials]]:
 
 | Material | Nitrogen (%) | Hemicellulose (%) | Cellulose (%) | Lignin (%) |
 |----------|-------------|-------------------|---------------|------------|
@@ -43,7 +43,7 @@ The choice of sawdust source significantly affects cultivation outcomes:
 ### Species to Avoid
 
 - **Pine**: Contains resins that inhibit mycelial growth.
-- **Cedar**: Also resistant to mycelial colonization.
+- **Cedar**: Also resistant to [[mycelial-colonization]].
 - **Redwood**: Contains inhibitory compounds.
 
 Sawdust particle size should be 1-5 mm for optimal colonization speed and structure. A mix of fine sawdust and wood chips (1/2 to 4 inches) provides both nutrition and aeration.

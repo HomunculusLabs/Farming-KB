@@ -48,7 +48,7 @@ lignin breakdown and is more widely distributed among white-rot fungi than LiP.
 Laccases are multicopper oxidases that catalyze the four-electron oxidation of
 phenolic compounds and aromatic amines using molecular oxygen as the electron
 acceptor, producing water as the only byproduct. They are among the most
-versatile fungal enzymes for bioremediation applications:
+versatile fungal enzymes for [[fungi-in-the-environment-bioremediation-applications]]:
 
 - Degrade phenolic pollutants including pentachlorophenol and phenol
 - Decolorize synthetic dyes from textile wastewater (azo, anthraquinone,
@@ -71,7 +71,7 @@ detoxification reactions depending on the specific substrate and context.
 
 ### Esterases and Lipases
 
-These enzymes hydrolyze ester bonds in a variety of environmental contaminants
+These enzymes hydrolyze ester bonds in a variety of [[mycoremediation-environmental-contaminants]]
 including phthalate esters (plasticizers), organophosphate and carbamate
 pesticides, polyester-based plastics, and lipid-rich industrial waste streams.
 Their broad substrate specificity and stability under varied conditions make
@@ -87,7 +87,7 @@ mill effluents.
 
 ## Enzyme Production Optimization
 
-Ligninolytic enzyme production is typically induced by nutrient limitation,
+[[ligninolytic-enzyme-production-bioremediation]] is typically induced by nutrient limitation,
 especially nitrogen limitation, combined with the presence of lignin or
 lignin-derived compounds. Wood-based substrates (sawdust, wood chips, straw)
 naturally provide the induction signals that trigger maximal enzyme production.
@@ -142,6 +142,6 @@ approaches enhance stability and reusability for engineered treatment systems.
 Scaling laboratory yields to practical field applications requires cost-effective
 fermentation and formulation technologies. Understanding synergistic
 interactions between fungal enzymes and indigenous microbial communities in
-contaminated environments remains essential for predicting treatment outcomes.
+[[singh-fungal-biofilms-in-contaminated-environments]] remains essential for predicting treatment outcomes.
 
 See also: [[mycoremediation]], [[white-rot-fungi]], [[enzymatic-degradation-in-mycoremediation]]

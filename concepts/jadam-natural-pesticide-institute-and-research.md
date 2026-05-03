@@ -62,16 +62,16 @@ methods, all shared publicly:
 - Natural pesticide against slug and snail
 - Natural pesticide against citrus latid planthopper and leafhopper
 - Natural pesticide against rice water weevil
-- Naphthalene pesticide for livestock fly control
+- [[jadam-naphthalene-pesticide]] for livestock fly control
 - Comprehensive pesticide programs for rice and fruit trees
 
 **Fertilizer and soil inputs:**
 - Natural microorganism solution made with potatoes
 - Natural microorganism solution made with mixed grains
 - Natural liquid fertilizer made without sugar or molasses
-- Complete fertilizer program for crops
+- Complete [[ultra-low-jadam-fertilizer-program]] for crops
 
-**Livestock applications:**
+**[[chos-global-natural-farming-livestock-applications]]:**
 - Eliminating flies from livestock housings
 - Organic pig and poultry farming methods
 
@@ -83,7 +83,7 @@ formulations by member farmers across diverse conditions. JADAM staff
 visited member households, collected data, and iteratively refined
 formulations based on real-world results.
 
-A notable example is the discovery that Jerusalem artichoke has pesticide
+A notable example is the discovery that [[jerusalem-artichoke]] has pesticide
 properties. Mr. Jeongho Gim of Gimcheon first found that Jerusalem
 artichoke was not only effective for diabetes but also had pesticide
 effects. JADAM interviewed him, validated the finding, and incorporated

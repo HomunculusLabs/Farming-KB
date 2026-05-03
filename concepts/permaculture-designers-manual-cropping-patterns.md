@@ -15,7 +15,7 @@ updated: 2026-04-18
 
 ## Overview
 
-Modern agriculture is unable to cope with any but the most basic and simple intercrop systems, thus sacrificing yield, quality, stability, and inevitably people. The permaculture approach to cropping patterns emphasizes polyculture, intercropping, and complex species assemblies that maximize total nutrition and total yield while maintaining system stability. From Nigerian strip cropping systems to avenue mulch systems, the Designers Manual presents a range of cropping patterns suited to different climates and scales.
+[[fukuoka-critique-modern-agriculture]] is unable to cope with any but the most basic and simple intercrop systems, thus sacrificing yield, quality, stability, and inevitably people. The permaculture approach to cropping patterns emphasizes polyculture, intercropping, and complex species assemblies that maximize total nutrition and total yield while maintaining system stability. From Nigerian strip cropping systems to avenue mulch systems, the Designers Manual presents a range of cropping patterns suited to [[permaculture-design-different-climates]] and scales.
 
 ## Strip Cropping
 
@@ -78,7 +78,7 @@ In any evolved system, avenue cropping or mulch provision can be sustained by a 
 
 ### Fiscal vs. Nutritional Analysis
 
-If we analyse the dollar economics of polyculture systems, there will be an optimum number of species for broadscale cash yields. If we analyse for total nutrition and total yield (ignoring the dollar returns), a different and richer species assembly will be indicated.
+If we analyse the dollar economics of [[mollison-aquatic-polyculture-systems]], there will be an optimum number of species for broadscale cash yields. If we analyse for total nutrition and total yield (ignoring the dollar returns), a different and richer species assembly will be indicated.
 
 - Fiscal return peaks at about 6-8 species in a system
 - Nutritional-total yield system peaks at 50-100 species, well-distributed over all seasons
@@ -120,7 +120,7 @@ Intercrop selection is a priority, sometimes used to:
 - Provide mulch and nurse crop for nitrogen fixation
 - Reduce wind, salt, or sun damage
 - Create beneficial [[urban-permaculture-edge-effect-and-design-principles]]
-- Attract beneficial insects and repel pests
+- Attract [[beneficial-insects-cannabis]] and repel pests
 
 ## Earthworks for Polyculture
 

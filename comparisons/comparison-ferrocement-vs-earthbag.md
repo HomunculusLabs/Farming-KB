@@ -7,7 +7,7 @@ sources: []
 
 # Ferrocement vs Earthbag Construction
 
-Both ferrocement and earthbag construction are affordable, resource-efficient building methods popular in permaculture, homesteading, and disaster-relief contexts. They share a philosophy of using local, low-cost materials to create durable structures — but differ radically in technique, structural behavior, and ideal applications.
+Both ferrocement and earthbag construction are affordable, resource-efficient [[query-what-are-the-best-natural-building-methods]] popular in permaculture, homesteading, and disaster-relief contexts. They share a philosophy of using local, low-cost materials to create durable structures — but differ radically in technique, structural behavior, and ideal applications.
 
 ## Core Method
 
@@ -38,7 +38,7 @@ Earthbag walls are massive (30–45 cm thick), providing excellent compressive s
 
 **Thermal mass:** Earthbag walls store enormous thermal energy, moderating indoor temperature swings in hot-dry and cold climates. A 40 cm earthbag wall has roughly four times the thermal mass of a 2 cm ferrocement shell. Ferrocement's thin shell provides negligible thermal mass on its own — it needs insulation backing or an inner shell to perform similarly.
 
-**Insulation:** Neither material is inherently insulating (R-value per inch is low for both). Earthbag builders in cold climates fill bags with scoria, perlite, vermiculite, or rice hulls instead of earth, dramatically improving R-value. Ferrocement walls are often built as two thin shells with rigid insulation sandwiched between (a "double-shell" technique), combining the strength of cement with the insulation of foam board or natural materials.
+**Insulation:** Neither material is inherently insulating (R-value per inch is low for both). Earthbag builders in cold climates fill bags with scoria, perlite, vermiculite, or rice hulls instead of earth, dramatically improving R-value. Ferrocement walls are often built as two thin shells with rigid insulation sandwiched between (a "double-shell" technique), combining the strength of cement with the insulation of foam board or [[building-with-natural-materials]].
 
 **Breathability:** Unplastered earthbag walls are highly vapor-permeable, allowing moisture to migrate through the wall assembly. Lime or earthen plasters maintain this breathability while protecting the bags from UV and physical damage. Ferrocement is vapor-impermeable unless built with hydraulic lime mortars instead of Portland cement — a substitution that reduces strength and changes curing requirements.
 
@@ -60,7 +60,7 @@ Labor costs tend to favor ferrocement for experienced crews (faster application 
 
 Ferrocement, when properly mixed and cured with adequate mortar cover over the armature (minimum 10–15 mm), is extremely durable and resistant to water, fire, insects, and rodents. It has a proven lifespan of 50+ years in marine and tropical environments. Hairline cracks can develop due to thermal movement or minor settling but are easily repaired with a thin mortar slurry. If the armature corrodes — which occurs if cover is too thin or chlorides penetrate — structural failure can be sudden rather than gradual, making inspection important.
 
-Earthbag walls are vulnerable to moisture ingress if not properly plastered and protected from rising damp (a gravel bag foundation course solves the latter). UV from sunlight degrades polypropylene bags within 3–6 months of exposure — plastering must happen promptly after wall construction. Rodents can occasionally burrow into unplastered or damaged walls, though the tightly tamped fill discourages most pests. When maintained with [[rammed-earth]]er, good roof overhangs (minimum 60 cm), and proper site drainage, earthbag structures can last centuries.
+Earthbag walls are vulnerable to moisture ingress if not properly plastered and protected from rising damp (a gravel bag foundation course solves the latter). UV from sunlight degrades polypropylene bags within 3–6 months of exposure — plastering must happen promptly after wall construction. Rodents can occasionally burrow into unplastered or damaged walls, though the tightly tamped fill discourages most pests. When maintained with rammed earther, good roof overhangs (minimum 60 cm), and proper site drainage, earthbag structures can last centuries.
 
 ## Foundation Requirements
 
@@ -83,7 +83,7 @@ Ferrocement shells need a reinforced concrete ring beam or grade beam foundation
 Some builders combine both methods to leverage each one's strengths:
 
 - **Earthbag walls with ferrocement roof:** The massive earthbag walls provide thermal mass while the ferrocement dome or vault offers a lightweight, waterproof, tensile-strong roof that earthbag alone cannot easily achieve on large spans.
-- **Ferrocement cistern inside earthbag building:** A rainwater harvesting system where earthbag walls shelter a ferrocement tank, combining the tank's water-tightness with the building's thermal protection.
+- **Ferrocement cistern inside [[earthbag-building]]:** A [[comparison-drip-irrigation-vs-rainwater-harvesting]] system where earthbag walls shelter a ferrocement tank, combining the tank's water-tightness with the building's thermal protection.
 - **Earthbag dome with ferrocement skylight or entrance arch:** The main structure is earthbag for thermal mass and low cost, while the entrance and any openings use ferrocement for precise, clean edges and tensile strength around perforations.
 - **Ferrocement waterproofing layer over earthbag cistern:** An earthbag tank lined internally with ferrocement for water-tightness, avoiding the cost of a full ferrocement structure while still achieving a sealed vessel.
 

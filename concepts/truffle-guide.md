@@ -7,7 +7,7 @@ tags: [fungi, mushrooms, foraging, species, mycorrhizae, ecology, cultivation, f
 sources: []
 ---
 # Truffle Guide
-Truffles are the fruiting bodies of subterranean fungi in the genus Tuber, among the most expensive foods in the world. Unlike any other mushroom, truffles grow entirely underground and are found with the help of trained animals. They form obligate mycorrhizal associations with tree roots and have been prized in European cuisine since Roman times.
+Truffles are the fruiting bodies of subterranean fungi in the genus Tuber, among the most expensive foods in the world. Unlike any other mushroom, truffles grow entirely underground and are found with the help of trained animals. They form obligate [[plants-without-mycorrhizal-associations]] with tree roots and have been prized in European cuisine since Roman times.
 ## Overview
 Truffles are hypogeous (underground) fungi that produce their spores below the soil surface. They rely on animals to dig them up and disperse the spores, which is why they evolved such powerful aromas — to attract mammals from a distance. The most valuable species grow in Europe, though truffle-like fungi are found on every continent.
 ## Major Species
@@ -58,7 +58,7 @@ Successful truffle orchards require careful site assessment:
 - Downy oak (Quercus pubescens): good host for calcareous soils
 - Pine species: used for some Tuber species
 ### Establishment
-1. Obtain inoculated seedlings from certified nurseries
+1. Obtain [[truffle-inoculated-seedlings]] from certified nurseries
 2. Soil test and amend as needed (lime to raise pH, ensure drainage)
 3. Plant trees on a grid: typically 5-8 meters apart (150-400 trees/hectare)
 4. Irrigation system installation (drip irrigation preferred)
@@ -118,7 +118,7 @@ Truffle-hunting dogs are essential for finding ripe truffles underground. While 
 - Always verify the marbled interior pattern characteristic of Tuber
 - See [[chanterelle-guide]] for general wild mushroom foraging safety principles
 ## Economics
-The global truffle market is estimated at several billion dollars annually. European production has declined significantly over the past century due to habitat loss, deforestation, and climate change, driving prices upward. Truffle cultivation is a long-term investment with high potential returns but significant risk and uncertainty.
+The global truffle market is estimated at several billion dollars annually. European production has declined significantly over the past century due to habitat loss, deforestation, [[mycelium-running-stamets-fungi-and-climate-change]], driving prices upward. [[truffle-cultivation-basics]] is a long-term investment with high potential returns but significant risk and uncertainty.
 ## Related Topics
 - [[matsutake-mushroom]] for another mycorrhizal fungus that cannot be cultivated
 - [[porcini-boletus-guide]] for another high-value wild foraged mushroom

@@ -1,5 +1,33 @@
 ---
 
+title: Mushroom Grow Equipment
+created: 2026-04-11
+updated: 2026-04-12
+type: concept
+
+tags:
+- mushrooms
+- equipment
+- indoor
+- microbes
+- lab-technique
+- underground-press
+- substrate
+- grain
+
+sources:
+- raw/papers/the-mushroom-cultivator-stamets.md
+- raw/papers/2-laminar-flow-hood-construction.md
+- raw/papers/pf-tek-psilocybe-fanaticus.md
+- raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md
+- raw/papers/unknown-magic-mushroom-growers-guide.md
+- raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
+- raw/papers/a-new-indoor-growing-technique-tech-main-doc-a4-sizeindd.md
+- raw/papers/peter-oei-5-pages-mushroom-cultivation.md
+- raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md
+- raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
+---
+
 t
 
 # Mushroom Grow Equipment
@@ -15,7 +43,7 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 | Pressure cooker (23qt+) | $80–200 | Sterilize grain jars, agar media, substrates | Essential. Must reach 15 PSI. All-American 941 recommended by Oss & Oeric. |
 | Pressure canner | $100–300 | Larger batches, bags of substrate | Higher capacity than standard pressure cookers |
 | Autoclave | $500–5000+ | Lab-grade sterilization | Overkill for home growers but standard for commercial spawn |
-| Microwave (for surface sterilization) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
+| Microwave (for [[microwave-surface-sterilization]]) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
 
 **Sterilization times at 15 PSI** ([[pf-tek]] at 12 PSI):
 - 1/2 pint PF jars: 20 min (12 PSI)
@@ -30,7 +58,7 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 |---|---|---|---|
 | Still air box (plastic tote) | $5–20 | Basic sterile work | Cut two arm holes. Wipe with 70% alcohol. Essential minimum. |
 | Glove box | $50–200 (buy) / $20–50 (DIY) | Semi-sterile transfers | Rubber gloves or removable cotton front (Stamets) |
-| Laminar flow hood (DIY) | $150–400 | Professional-grade sterile work | See DIY section below. HEPA + blower + enclosure. |
+| [[laminar-flow-hood-construction-hepa-filter]] (DIY) | $150–400 | Professional-grade sterile work | See DIY section below. HEPA + blower + enclosure. |
 | Laminar flow hood (commercial) | $500–2000+ | Professional/commercial | Pre-built, tested, certified |
 
 ### DIY Laminar Flow Hood
@@ -60,13 +88,13 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 | Seedling heat mat with thermostat | $20–40 | Maintain colonization temperature | 75–80°F for most species |
 | shelving unit | $30–80 | Organization | Wire shelves allow air circulation |
 | Insulated cabinet or closet | $0–50 | Temperature stability | Existing closet works; add insulation |
-| Temperature/humidity monitor | $10–30 | Environmental monitoring | Digital with min/max recording |
+| Temperature/humidity monitor | $10–30 | [[fungal-biosensors-environmental-monitoring]] | Digital with min/max recording |
 
 ### Fruiting Chambers
 
 | Item | Cost | Purpose | Notes |
 |---|---|---|---|
-| SGFC (Shotgun Fruiting Chamber) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
+| SGFC ([[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
 | Monotub | $15–30 | Bulk fruiting | Modified tote with polyfill-filtered holes. Self-contained. |
 | Martha tent (greenhouse) | $60–150 | High-volume fruiting | With humidifier on timer. Best for multiple species. |
 | Humidifier (ultrasonic) | $25–60 | Martha tent humidity | Use distilled water. Connect to timer or hygrostat. |

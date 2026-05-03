@@ -59,7 +59,7 @@ Chaga's profile is dominated by compounds related to its birch tree host and ext
 
 ### Chaga — Antioxidant and Immune Focus
 
-- **Antioxidant defense**: one of the highest ORAC scores of any food; combats oxidative stress systemically
+- **[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]**: one of the highest ORAC scores of any food; combats oxidative stress systemically
 - **Immune modulation**: beta-glucans activate macrophages, NK cells, and cytokine production
 - **Anti-inflammatory**: reduces chronic inflammation through multiple pathways including NF-kB inhibition
 - **Anticancer potential**: betulinic acid and inotodiol show selective cytotoxicity against cancer cells in vitro; approved as anticancer drug (befungin) in Russia since 1955
@@ -70,9 +70,9 @@ Chaga's profile is dominated by compounds related to its birch tree host and ext
 
 This is where the two mushrooms diverge most dramatically:
 
-**Lion's Mane** is readily cultivated on supplemented hardwood sawdust (oak, maple, or beech with 10-20% wheat bran). It fruits reliably indoors in 2-4 weeks after colonization, making it one of the easier medicinal mushrooms to grow at home or commercially. Yield per bag is good, and cultivation is well-documented in [[medicinal-mushroom-guide-lions-mane]] and [[medicinal-mushroom-guide-lions-mane]].
+**Lion's Mane** is readily cultivated on supplemented hardwood sawdust (oak, maple, or beech with 10-20% wheat bran). It fruits reliably indoors in 2-4 weeks after colonization, making it one of the easier [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]] to grow at home or commercially. Yield per bag is good, and cultivation is well-documented in [[medicinal-mushroom-guide-lions-mane]] and [[medicinal-mushroom-guide-lions-mane]].
 
-**Chaga** is notoriously difficult to cultivate. It does not fruit reliably in artificial culture and the sclerotium — the medicinally active part — requires years of growth on a living birch tree to develop its full complement of compounds, particularly the betulin/betulinic acid derived from the host. Most commercial Chaga is wild-harvested from boreal forests, raising sustainability concerns as demand surges. Cultivation attempts using birch logs or inoculated trees show promise but produce sclerotia with different compound profiles than wild-harvested material.
+**Chaga** is notoriously difficult to cultivate. It does not fruit reliably in artificial culture and the sclerotium — the medicinally active part — requires years of growth on a living birch tree to develop its full complement of compounds, particularly the betulin/betulinic acid derived from the host. Most commercial Chaga is wild-harvested from boreal forests, raising sustainability concerns as demand surges. [[lactarius-cultivation-attempts]] using birch logs or inoculated trees show promise but produce sclerotia with different compound profiles than wild-harvested material.
 
 See [[chaga-inonotus-obliquus-medicinal-profile]] and [[medicinal-mushroom-guide-chaga]] for details on sourcing and compound variability.
 
@@ -107,7 +107,7 @@ Many practitioners combine both — Lion's Mane in the morning for cognitive foc
 
 Sustainability is a critical differentiator between these two mushrooms:
 
-**Lion's Mane** has a low sustainability footprint. It can be cultivated on agricultural waste products (sawdust, bran) and does not require wild harvesting. Commercial cultivation reduces pressure on wild populations, and home cultivation is straightforward and accessible. The species is not considered threatened in the wild.
+**Lion's Mane** has a low sustainability footprint. It can be cultivated on [[agricultural-waste-substrates]] products (sawdust, bran) and does not require wild harvesting. Commercial cultivation reduces pressure on wild populations, and home cultivation is straightforward and accessible. The species is not considered threatened in the wild.
 
 **Chaga** faces serious sustainability challenges. Wild harvesting involves cutting the sclerotium from living birch trees, and because Chaga grows extremely slowly — taking 10-20 years to develop a harvestable conk — overharvesting is a real concern. The surge in global demand has led to overharvesting in some regions, particularly in Siberia and parts of Canada. There are also ethical concerns around removing Chaga from living trees without killing or weakening the host. Consumers should seek Chaga from suppliers who practice responsible harvesting, ideally from regions with managed harvest plans, and avoid purchasing whole chunks that appear to have been taken from very young trees.
 

@@ -9,14 +9,14 @@ sources: []
 # Biointensive Carbon Farming
 
 Carbon farming is the practice of growing dedicated crops specifically for
-producing biomass to feed the biointensive-composting|compost pile. In the
+producing biomass to feed the [[biointensive-composting]]|compost pile. In the
 [[comparison-biointensive-vs-square-foot-gardening]] system, approximately
 60% of growing area is devoted to carbon/compost crops -- making it the
 largest single allocation and the foundation of soil
 sustainability.
 ## Why Carbon Farming?
 
-Conventional agriculture depletes soil organic matter at rates far exceeding
+Conventional agriculture depletes [[humus-formation-and-soil-organic-matter]] at rates far exceeding
 natural replacement. GB reverses this by growing all needed organic matter
 on-site. The 60% figure comes from careful
 calculations:
@@ -91,7 +91,7 @@ into the subsoil) mines minerals and nutrients unavailable to shallow-rooted
 crops, bringing them to the surface in its leaves. Comfrey can be cut 4-6
 times per growing season, producing substantial biomass each time. Its leaves
 contain approximately 2.5-3.0 percent nitrogen on a dry weight basis, making
-it one of the few non-leguminous plants with nitrogen levels comparable to
+it one of the few non-leguminous [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] levels comparable to
 legumes. The leaves break down rapidly in compost piles, contributing both
 carbon and
 nitrogen.
@@ -146,4 +146,4 @@ soil health, increased water retention, reduced need for synthetic
 fertilizers, and enhanced crop resilience -- make it a valuable strategy
 regardless of its carbon accounting. The GROW BIOINTENSIVE approach of growing
 carbon crops on 60 percent of cultivated area represents one of the most
-deliberate and systematic frameworks for soil carbon sequestration available
+deliberate and systematic frameworks for [[savory-soil-carbon-sequestration]] available

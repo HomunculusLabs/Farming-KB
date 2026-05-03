@@ -19,7 +19,7 @@ Tropical rain forests are being lost to:
 - Urban infrastructure development
 - Socioeconomic factors including land ownership inequality and livestock subsidies
 
-In Mexico, as in many developing countries, 50 years of socioeconomic factors have driven significant land use change. The consequences include:
+In Mexico, as in many [[mushroom-poverty-alleviation-developing-countries]], 50 years of socioeconomic factors have driven significant land use change. The consequences include:
 
 - Increased carbon emissions from soil carbon release
 - Reduced carbon sequestration capacity
@@ -45,7 +45,7 @@ Tropical plant species show a range of mycorrhizal dependencies:
 
 - **Obligate mycotrophs**: Require AMF for survival and normal growth
 - **Facultative mycotrophs**: Benefit from AMF but can grow without them
-- **Non-mycotrophs**: Do not form mycorrhizal associations (rare in tropical forests)
+- **Non-mycotrophs**: Do not form [[plants-without-mycorrhizal-associations]] (rare in tropical forests)
 
 Most tropical woody species are mycorrhizal, and their mycorrhizal dependency often correlates with successional status. Pioneer species tend to show higher mycorrhizal dependency than late-successional species, as they colonize nutrient-poor disturbed sites where AMF-mediated phosphorus uptake is critical.
 
@@ -56,7 +56,7 @@ Seedling performance under mycorrhizal colonization depends on several ecophysio
 ### Relative Growth Rate (RGR)
 
 - RGR = (ln W2 - ln W1) / (t2 - t1), where W is biomass and t is time
-- Mycorrhizal plants often show higher RGR due to improved nutrient acquisition
+- Mycorrhizal plants often show higher RGR due to improved [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 - The magnitude of RGR enhancement varies with species and AMF inoculum source
 
 ### Mycorrhizal Dependency
@@ -104,7 +104,7 @@ Restoration success depends on matching AMF inoculum to successional stage:
 
 - Early-successional AMF species promote pioneer establishment
 - Late-successional AMF species may be needed for long-term forest development
-- Allen et al. (2003) showed differential impacts of early- and late-seral mycorrhizae during seasonal tropical forest restoration in Mexico
+- Allen et al. (2003) showed differential impacts of early- and late-seral mycorrhizae during seasonal [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] in Mexico
 
 ## Landscape-Level Considerations
 
@@ -121,7 +121,7 @@ Tropical rain forest fragmentation affects AMF-mediated restoration:
 
 Long-term monitosporeof restoration success should track:
 
-- Plant community composition and diversity trajectories
+- [[mycorrhizal-effects-on-plant-community-composition]] and diversity trajectories
 - AMF community structure and spore populations
 - Soil chemical and physical properties
 - Mycorrhizal colonization rates in target species

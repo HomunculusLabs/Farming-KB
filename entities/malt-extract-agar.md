@@ -15,13 +15,13 @@ sources:
 
 # Malt Extract Agar
 
-Malt extract agar (MEA) is a standard microbiological growth medium widely used in mycology for the cultivation, isolation, and maintenance of fungal cultures. It provides a nutrient-rich, semi-solid surface that supports the growth of a broad range of fungi, making it the preferred medium for germinating spores and establishing pure mycelial cultures of species such as [[psilocybe-azurescens]] and related mushrooms. MEA has been a staple of mycological laboratories since the early 20th century and remains the most commonly recommended medium for general-purpose fungal cultivation.
+Malt extract agar (MEA) is a standard microbiological growth medium widely used in mycology for the cultivation, isolation, and maintenance of fungal cultures. It provides a nutrient-rich, semi-solid surface that supports the growth of a broad range of fungi, making it the preferred medium for germinating spores and establishing pure mycelial cultures of species such as [[psilocybe-azurescens]] and related mushrooms. MEA has been a staple of mycological laboratories since the early 20th century and remains the most commonly recommended medium for general-purpose [[fungal-cultivation-methods]].
 
 ## Composition
 
 Malt extract agar is composed of the following ingredients:
 
-- **Malt extract**: 30 g per liter, providing a complex mixture of carbohydrates (maltose, glucose, dextrins), amino acids, peptides, vitamins (particularly B vitamins including thiamine, riboflavin, and niacin), and minerals (potassium, magnesium, phosphorus, and trace elements) essential for fungal growth
+- **Malt extract**: 30 g per liter, providing a complex mixture of carbohydrates (maltose, glucose, dextrins), amino acids, peptides, vitamins (particularly B vitamins including thiamine, riboflavin, and niacin), and minerals (potassium, magnesium, phosphorus, [[teaming-with-nutrients-micronutrients-and-trace-elements]]) essential for fungal growth
 - **Agar**: 15-20 g per liter, serving as a solidifying agent derived from red algae (Rhodophyceae, primarily Gelidium and Gracilaria species) that creates a stable, translucent gel matrix at room temperature. Agar melts at approximately 85 degrees C and solidifies at approximately 32-40 degrees C, exhibiting the useful property of hysteresis (solidifying at a lower temperature than it melts)
 - **Distilled water**: to 1 liter total volume
 
@@ -44,7 +44,7 @@ Standard preparation of malt extract agar follows these steps:
 2. **Adjust pH**: Test the pH with a calibrated pH meter or pH indicator strips and adjust to 5.6-6.0 using dilute NaOH to raise pH or dilute HCl to lower it. Proper pH adjustment is important for consistent growth results.
 3. **Bring to final volume**: Add distilled water to reach exactly 1 liter total volume, accounting for any water lost during heating.
 4. **Sterilize**: Seal the flask with aluminum foil and sterilize by autoclaving at 121 degrees C (15 psi) for 15-20 minutes. Proper [[sterilization]] is essential to eliminate contaminant organisms that would otherwise outcompete the desired fungal species. The foil cover prevents the medium from boiling over while allowing steam penetration.
-5. **Cool and pour**: After autoclaving, allow the medium to cool to approximately 45-55 degrees C (warm but not hot to the touch), then pour 20-25 mL into each sterile Petri dish in a laminar flow hood or still-air box. Pouring at this temperature minimizes condensation on the lid while keeping the agar liquid enough to flow evenly across the plate surface. Pouring at too high a temperature creates excessive condensation; pouring at too low a temperature causes premature solidification and uneven surfaces.
+5. **Cool and pour**: After autoclaving, allow the medium to cool to approximately 45-55 degrees C (warm but not hot to the touch), then pour 20-25 mL into each sterile Petri dish in a [[laminar-flow-hood-construction-hepa-filter]] or still-air box. Pouring at this temperature minimizes condensation on the lid while keeping the agar liquid enough to flow evenly across the plate surface. Pouring at too high a temperature creates excessive condensation; pouring at too low a temperature causes premature solidification and uneven surfaces.
 6. **Solidify and store**: Allow the poured plates to solidify undisturbed at room temperature for approximately 30 minutes, then store inverted (lid down) at 4 degrees C in sealed plastic bags. Inverting the plates prevents any condensation droplets from falling onto the agar surface. Properly stored MEA plates remain usable for 2-4 weeks; beyond this, desiccation and potential airborne contamination reduce respore-syringe# Usspore-printogy
 
 ### Spore Germination
@@ -71,7 +71,7 @@ Fungal cultures can be stored on MEA slants (agar solidified in test tubes rathe
 
 MEA is favored in mycology because it supports a wide range of fungi without being overly selective or inhibitory. The complex nutrient profile encourages vigorous growth and typical colony morphology. It is also inexpensive, straightforward to prepare from commercially available components, and the results are highly reproducible between laboratories and batches.
 
-However, MEA's broad nutritional profile also means it supports many contaminant organisms, including bacteria and fast-growing mold species. For slow-growing species like [[psilocybe-azurescens]], contaminant organisms can easily outcompete the desired mycelium on MEA unless strict sterile technique is maintained. Additionally, the relatively high sugar content of MEA can promote bacterial growth and encourage mucoid (slimy) colony morphologies in some fungal species.
+However, MEA's broad nutritional profile also means it supports many contaminant organisms, including bacteria and fast-growing mold species. For slow-growing species like [[psilocybe-azurescens]], contaminant organisms can easily outcompete the desired mycelium on MEA unless strict [[mushroom-cultivation-sterile-technique]] is maintained. Additionally, the relatively high sugar content of MEA can promote bacterial growth and encourage mucoid (slimy) colony morphologies in some fungal species.
 
 ## Alternative Mycological Media
 

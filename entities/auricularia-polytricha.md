@@ -18,18 +18,18 @@ sources:
 ## Introduction
 
 auricularia polytricha, commonly known as the Wood Ear Mushroom, Cloud Ear, or Tree
-Ear, is one of the most widely cultivated mushrooms in Asia, particularly in China where
+Ear, is one of the most widely [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]] in Asia, particularly in China where
 it has been grown for centuries. The species is known as Kikurage in Japanese and Mu-er
 in Chinese, reflecting its deep cultural and culinary significance across East Asia.
 
 Also referred to as Auricularia cornea in some taxonomic systems, this species belongs
 to the order Auriculariales, making it a jelly fungus rather than a gilled mushroom.
-Unlike the [[agar]]ics and polypores, jelly fungi produce gelatinous, rubbery fruitbodies
+Unlike the agarics and polypores, jelly fungi produce gelatinous, rubbery fruitbodies
 that are distinctive in both texture and appearance.
 
 In the cultivation literature, auricularia polytricha is noted as one of the mushrooms
 successfully grown in bottle culture alongside [Buna-shimeji,
-[Reishi, and various Oyster mushroom species. This versatility in
+[Reishi, and various [[oyster-mushroom-species]]. This versatility in
 cultivation methods has contributed to its enduring popularity among commercial growers.
 
 ## Description
@@ -92,7 +92,7 @@ culture, and tray culture on supplemented sawdust substrates.
 The species has been cultivated in China for centuries, and Chinese growers have
 developed highly efficient production methods that yield consistent results. Indoor
 cultivation on sterilized sawdust substrates allows for year-round production with
-controlled environmental parameters.
+controlled [[mushroom-cultivation-environmental-parameters]].
 
 ## Growth Parameters
 
@@ -105,7 +105,7 @@ controlled environmental parameters.
 ## Medicinal Properties
 
 In Traditional Chinese Medicine, auricularia polytricha has been used for centuries
-to improve blood circulation and promote overall cardiovascular health. It is classified
+to improve blood circulation and promote overall [[blesching-cannabis-cardiovascular-health]]. It is classified
 as a food that benefits the blood and is often recommended for individuals with poor
 circulation or related conditions.
 

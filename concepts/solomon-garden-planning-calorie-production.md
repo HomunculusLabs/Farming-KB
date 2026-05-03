@@ -14,13 +14,13 @@ tags: [gardening]
 
 Steve Solomon begins with a rough gauge: about 2,700 square feet (250 square meters) of growing beds can produce approximately half the daily calories for two adults, provided the garden is in a climate similar to the United Kingdom. Britain's cool, cloudy summers mean most vegetables grow more slowly than in the US, but mild winters allow year-round harvesting of frost-hardy crops.
 
-The British wartime allotment of 2,700 square feet was sized so that a family growing vegetables including potatoes could produce about half their caloric intake. The other half came from bread, meat, cheese, and dairy. During the war, the British were allocated 2 ounces of meat per week per person.
+The British wartime allotment of 2,700 square feet was sized so that a family [[growing-vegetables-with-less-fertilizer]] including potatoes could produce about half their caloric intake. The other half came from bread, meat, cheese, and dairy. During the war, the British were allocated 2 ounces of meat per week per person.
 
 ## Space Requirements by Climate
 
 Solomon provides increasingly detailed calculations for garden size based on climate:
 
-**Rainy, mild climates** (Tasmania, maritime northwest): The mild winters allow actively growing root crops, cole crops, and salad greens during all the chilly, frosty months. Less space is needed because the growing season is effectively year-round.
+**Rainy, mild climates** (Tasmania, maritime northwest): The mild winters allow actively growing root crops, cole crops, and salad greens during all the chilly, frosty months. Less space is needed because [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is effectively year-round.
 
 **Continental climates** (most of North America east of the 98th meridian): Growing seasons are compressed. No winter garden without glass. This means roughly doubling the growing area to compensate -- about 700 additional square feet (65 square meters) per adult in the family. No irrigation needed in the rainy eastern half.
 
@@ -68,10 +68,10 @@ This allocation prioritizes calories over variety. For gardeners not seeking ful
 
 ## Crop Rotation and Ley Fallowing
 
-Solomon's rotation system is essential for long-term calorie production:
+Solomon's [[jeavons-crop-rotation-system]] is essential for long-term calorie production:
 
 - Every four to five years, vegetable beds are put to rest in grass and clover (a "ley").
-- The ley rebuilds soil organic matter and restores biological balance.
+- The ley rebuilds [[humus-formation-and-soil-organic-matter]] and restores biological balance.
 - After two to three years in ley, the grass is turned over for vegetables, which grow noticeably better than the ones on the old beds.
 - By the fourth year, disease and slower growth signal it is time to rotate again.
 
@@ -84,7 +84,7 @@ Solomon warns that his calculations assume several conditions:
 - Deep, reasonably fertile soil (at least 3 feet/90 cm deep).
 - A skilled gardener (experience matters enormously).
 - Adequate water supply, whether from rainfall or irrigation.
-- Climate-appropriate variety selection.
+- Climate-appropriate [[coleman-winter-greens-variety-selection]].
 - High-quality seeds from reputable suppliers.
 - Appropriate latitude determining growing season length.
 - A wildlife-proof fence to protect crops.

@@ -9,12 +9,12 @@ sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 
 # Maitake Cultivation Guide
 
-Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal mushroom of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
+[[grifola-frondosa]] (maitake / hen of the woods) is a prized edible and [[medicinal-mushroom-antimicrobial-antiviral-research]] of [[fukuoka-natural-farming-temperate-climates]]. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
 
 ## Key Characteristics
 
 - Temperate climate species, fruits in autumn
-- Highly aerobic -- requires more oxygen than most cultivated mushrooms
+- Highly aerobic -- requires more oxygen than most [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]]
 - Short, chunky, highly branched stems with numerous overlapping caps
 - Fruit body can be very large in nature
 - Narrow fruiting temperature range
@@ -64,7 +64,7 @@ The basal ingredient is hardwood sawdust (fine + coarse, 3:1 ratio) for good air
 | Moisture content | 60-63% |
 | pH | 5.5-6.5 |
 
-Wheat bran provides thiamine (vitamin B1), essential for fruiting body formation. Calcium contributes to basidiocarp differentiation. Oak is the most commonly used sawdust species in North America; maple, elm, beech, alder, and poplar also work.
+Wheat bran provides thiamine (vitamin B1), essential for fruiting body formation. Calcium contributes to basidiocarp differentiation. Oak is the most commonly used sawdust species [[neurotropic-fungi-in-north-america]]; maple, elm, beech, alder, and poplar also work.
 
 ## Types of Spawn
 

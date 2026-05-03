@@ -13,12 +13,12 @@ Seed saving networks are community-based systems for preserving, sharing, and br
 
 ## Why Seed Saving Matters
 
-- **Genetic diversity** — preserving a wide gene pool protects against crop failure, disease, and climate variability
+- **Genetic diversity** — preserving a wide gene pool protects against crop failure, disease, and [[macrofungal-fruiting-phenology-climate-variability]]
 - **Regional adaptation** — seeds saved locally year after year become better adapted to local climate, soil, and pest pressures
 - **Self-reliance** — reduces dependence on commercial seed companies, many of which sell F1 hybrids that do not breed true
 - **Cost reduction** — seeds are free once the initial stock is acquired
 - **Food sovereignty** — communities control their own food supply chain from seed to plate
-- **Cultural preservation** — heirloom varieties carry cultural history, flavor, and nutritional qualities
+- **Cultural preservation** — [[cannabis-landrace-and-heirloom-varieties]] carry cultural history, flavor, and nutritional qualities
 
 ## Open-Pollinated vs Hybrid Seeds
 
@@ -89,7 +89,7 @@ Seed libraries are community collections where members can borrow seeds, grow pl
 ### Hosting Models
 - **Public libraries** — many public libraries host seed collections as a community service
 - **Community centers** — attached to existing community gathering spaces
-- **Farms and gardens** — hosted at community gardens, farms, or [[permaculture-community-resilience]] hubs
+- **Farms and gardens** — hosted at [[gaias-garden-creating-community-gardens]], farms, or [[permaculture-community-resilience]] hubs
 - **Online platforms** — digital catalogs connecting savers across regions
 
 ### Challenges
@@ -138,4 +138,4 @@ Steps to start a seed saving network:
 - [[permaculture-community-resilience]] — seed networks as part of community self-reliance
 - [[permaculture-social-design]] — governance and organizational structures for networks
 - [[permaculture-forest-garden-establishment]] — saving seeds from perennial food forests
-- [[permaculture-guild-design]] — selecting and saving seeds from polyculture systems
+- [[permaculture-guild-design]] — selecting and saving seeds from [[mollison-aquatic-polyculture-systems]]

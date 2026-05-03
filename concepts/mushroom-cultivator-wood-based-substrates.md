@@ -13,7 +13,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Chapter VI covers non-composted substrates used for cultivating wood-loving (lignicolous) mushroom species. These include sawdust/bran mixtures, natural log culture, outdoor wood chip beds, and pasteurized straw. The chapter provides detailed recipes, preparation methods, and cultivation guidelines for each approach.
+Chapter VI covers non-composted substrates used for cultivating wood-loving (lignicolous) mushroom species. These include sawdust/bran mixtures, natural log culture, outdoor wood chip beds, and [[pasteurized-straw-cultivation-techniques]]. The chapter provides detailed recipes, [[amanita-preparation-methods]], and cultivation guidelines for each approach.
 
 ## Lignicolous Mushrooms
 
@@ -113,7 +113,7 @@ Freshly cut logs provide a semi-sterile substrate with no special treatment -- v
 1. Collect substrate pieces already colonized by mushroom mycelium
 2. Use these as "virgin spawn" to inoculate similar materials
 3. Freshly cut chips of alder, maple and fir support healthy mycelial growth
-4. Alder preferred: high sugar content, no resins, abundant in Pacific Northwest
+4. Alder preferred: high sugar content, no resins, abundant in [[psilocybin-north-america-pacific-northwest]]
 5. Keep inoculated chips indoors in gallon jars with minimal air exchange
 6. Recommended ratio: **1:5 virgin spawn to fresh chips**
 
@@ -121,7 +121,7 @@ Freshly cut logs provide a semi-sterile substrate with no special treatment -- v
 
 - Make beds **4-6 inches deep and 2 feet wide**
 - Use irregular chips approximately **1-3 inches** long (better than finely ground sawdust)
-- Fresh chips provide greater nutrient and water reservoir plus substantial surface area for primordia formation
+- Fresh chips provide greater nutrient and water reservoir plus substantial surface area for [[stamets-fruiting-strategies-and-primordia-formation]]
 - Place beds under rhododendrons, leafy ornamentals, fence rows, or in grass
 - Never expose to direct sunlight, but must allow rainfall to reach
 - Cover with plastic or cardboard during spring/summer colonization

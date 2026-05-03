@@ -103,13 +103,13 @@ size preferred by customers. Greenhouse cucumbers are heavy feeders
 demanding the best fertility available. coleman soil preparation [[organic-garden-soil-preparation]] gardens for winter includes a
 full inch of manure compost plus organic [[organic-greenhouse-growing]] nitrogen fertilizer.
 Seaweed or commercial trace-element amendments ensure optimum
-trace-element levels. Starting with low hamilton hamilton composting coleman compost and organic fertility management matter management humus fungal microaggregate humus formation and soil organic matter stability organic matter management soil, Coleman
+trace-element levels. Starting with low hamilton [[hamilton-composting-and-organic-matter-management]] [[coleman-compost-and-organic-fertility-management]] and organic fertility management matter management humus [[fungal-microaggregate-formation-and-soil-stability]] humus formation and soil organic matter stability organic matter management soil, Coleman
 recommends tilling in a couple of inches of peat moss with limestone
 before cucumber preparation.
 
 Cucumbers are sown in succession at three-week intervals from March
 21 through June 21. Seeds go into 3-inch soil blocks with a
-three-quarter-inch cubic indentation filled with fine solomon comparison seed starting vs direct seeding transplanting
+three-quarter-inch cubic indentation filled with fine solomon [[comparison-seed-starting-vs-direct-seeding]] transplanting
 mix. Germination occurs on heating pads at 85 degrees Fahrenheit.
 Seedlings transplant to the greenhouse at two weeks old. Night
 temperatures of 55 to 60 degrees Fahrenheit give better

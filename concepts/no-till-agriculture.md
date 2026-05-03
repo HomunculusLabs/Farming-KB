@@ -29,7 +29,7 @@ Beyond the immediate mechanical effects, tillage disrupts the soil ecosystem in
 multiple ways. The soil in natural ecosystems is worked by plant roots, earthworms,
 and microorganisms that create channels for air and water movement. Plowing
 destroys these biological structures. It exposes organic matter to rapid
-oxidation, depleting soil carbon. It kills or displaces the microbial communities
+oxidation, depleting soil carbon. It kills or displaces the [[soil-edaphic-factors-microbial-communities]]
 and soil-dwelling organisms that maintain soil fertility naturally. It also
 brings buried weed seeds to the surface where they germinate, creating the
 perceived need for weeding and herbicides.
@@ -88,7 +88,7 @@ need for chemical interventions such as fungicides.
 Modern no-till agriculture in conventional farming typically replaces the plow
 with chemical herbicides, particularly glyphosate, to manage weeds. Fukuoka's
 approach differs fundamentally in that it avoids all chemical inputs. Weed
-suppression is achieved through the clover ground cover and the layer of straw
+suppression is achieved through the [[fukuoka-white-clover-ground-cover]] and the layer of straw
 mulch, not through herbicides. The clover also fixes nitrogen, eliminating the
 need for synthetic nitrogen fertilizer. This makes Fukuoka's system a truly
 chemical-free no-till approach, distinct from the herbicide-dependent no-till
@@ -119,10 +119,10 @@ by the shrine deity, growing "into large trees of their own accord."
 The mulch layer from uncut straw also plays a critical role. It protects the
 soil surface from the direct impact of raindrops, preventing crust formation and
 erosion. It moderates soil temperature, keeping it cooler in summer and warmer
-in winter. As it decomposes, it feeds the soil food web, creating a continuous
+in winter. As it decomposes, it feeds the [[compost-chemistry-soil-food-web]], creating a continuous
 cycle of nutrient availability. This is fundamentally different from the
 conventional approach of removing crop residues and replacing their functions
-with synthetic fertilizers and mechanical soil preparation.
+with [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and mechanical soil preparation.
 
 ## See Also
 

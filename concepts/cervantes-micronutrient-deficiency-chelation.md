@@ -54,9 +54,9 @@ claw-like bond with free electrically charged metal particles, keeping
 them soluble in water and suppressing reactions with other materials.
 Roots take in chelated metals in a stable, soluble form used immediately.
 
-Natural chelates such as cervantes humic fulvic acid soil conditioners and citric acid can be added to
+Natural chelates such as [[cervantes-humic-fulvic-acid-soil-conditioners]] soil conditioners and citric acid can be added to
 organic soil mixes. Roots and bacteria also exude natural chelates.
-Man-made chelates: DTPA is most effective below cervantes dolomite lime ph buffering, EDDHA up to pH
+Man-made chelates: DTPA is most effective below [[cervantes-dolomite-lime-ph-buffering]] lime ph buffering, EDDHA up to pH
 8, and EDTA chelate is slow to cause leaf burn. Important: chelates
 decompose rapidly in UV light including HID bulbs and sunlight. Keep
 chelates out of light to protect them from rapid decomposition.
@@ -97,7 +97,7 @@ deficiency.
 ## Iron (Fe) -- Immobile
 
 ### Role
-Fundamental to enzyme systems and electron transport during photosynthesis,
+Fundamental to enzyme systems and [[electron-transport-chain-mitochondrial-respiration]] during photosynthesis,
 respiration, and chlorophyll production. Permits plants to use energy
 provided by sugar. Catalyst for chlorophyll production, necessary for
 nitrate and sulfate reduction and assimilation. Plants have a difficult
@@ -139,7 +139,7 @@ Relatively common indoors. Young leaves show symptoms first: yellow
 between veins (interveinal chlorosis) while veins remain green. Symptoms
 spread from younger to older leaves. Necrotic spots develop on severely
 affected leaves. Overall plant growth is stunted. Severe deficiency looks
-like severe query how to fix magnesium deficiency in cannabis.
+like severe query how to fix [[query-how-to-fix-magnesium-deficiency-in-cannabis]].
 
 **Progression:**
 - Interveinal chlorosis of young leaves

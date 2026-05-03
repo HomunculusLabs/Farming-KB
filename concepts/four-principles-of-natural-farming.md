@@ -42,13 +42,13 @@ microbes.
 
 ## Principle Two: No Fertilizer
 
-The second principle rejects both chemical fertilizers and prepared compost.
+The second principle rejects both [[cannabis-chemical-fertilizers]] and prepared compost.
 Fukuoka argued that plants in nature grow without fertilizer, drawing nutrients
-from the soil as it enriches itself through natural decomposition processes. He
+from the soil as it enriches itself through natural [[fungal-decomposition-processes]]. He
 acknowledged that the ancient practice of using manure and compost does help
 speed crop growth, but identified several problems.
 
-Fertilizer application depletes the land from which the organic material was
+[[teaming-with-nutrients-fertilizer-application]] depletes the land from which the organic material was
 originally taken. Plants grown with fertilizer develop weaker tissues and lowered
 resistance to disease and pests. Fertilizer applied to soil is usually less
 effective than in laboratory experiments because field conditions involve complex
@@ -115,7 +115,7 @@ Eliminating any one of them can undermine the effectiveness of the others. When
 pesticides are applied, for example, the natural predator network that keeps pest
 populations in check is destroyed, making the no-weeding principle harder to
 maintain because the ecosystem is no longer self-regulating. When the soil is
-plowed, the microbial communities that fix nitrogen and suppress disease are
+plowed, the [[soil-edaphic-factors-microbial-communities]] that fix nitrogen and suppress disease are
 disrupted, making the no-fertilizer principle more difficult to sustain.
 
 Fukuoka's system works because the principles reinforce each other. The clover

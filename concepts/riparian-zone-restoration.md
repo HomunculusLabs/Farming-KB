@@ -16,7 +16,7 @@ Intact riparian zones act as natural water treatment systems:
 - **Nutrient uptake**: Riparian plants absorb nitrogen, phosphorus, and other nutrients from surface runoff and shallow groundwater
 - **Pathogen reduction**: Soil filtration, UV exposure, and microbial activity reduce bacteria and viruses in runoff
 - **Chemical filtration**: Organic matter in riparian soils binds pesticides, heavy metals, and other contaminants
-- **Temperature regulation**: Shading from riparian trees keeps water temperatures cool, maintaining dissolved oxygen levels for fish and aquatic life
+- **[[blesching-cannabis-fever-temperature-regulation]]**: Shading from riparian trees keeps water temperatures cool, maintaining dissolved oxygen levels for fish and aquatic life
 ### Flood Control and Water Storage
 Riparian zones absorb and slowly release floodwaters:
 - Floodplain storage reduces peak flood flows downstream
@@ -24,7 +24,7 @@ Riparian zones absorb and slowly release floodwaters:
 - Healthy riparian soils have high infiltration rates, recharging groundwater
 - Connected floodplains allow rivers to access their natural overflow areas
 ### Habitat Corridors
-Riparian zones serve as critical wildlife corridors:
+Riparian zones serve as critical [[permaculture-designers-manual-wildlife-corridors]]:
 - Linear habitat connecting otherwise isolated patches of natural vegetation
 - High biodiversity due to edge effects, water availability, and vegetative diversity
 - Essential breeding habitat for amphibians, fish, and aquatic invertebrates
@@ -99,7 +99,7 @@ Riparian zones are critical for [[soil-erosion-control]] along waterways:
 - **Gradient plantings**: Match species to moisture gradients from stream edge to upland
 - **Ground cover**: Maintain continuous ground cover to prevent surface erosion
 - **Root reinforcement**: Deep-rooted species provide the most bank stability
-- **Large woody debris**: Retain fallen trees and branches in and along streams for habitat and erosion control
+- **Large woody debris**: Retain fallen trees and branches in and along streams for habitat [[mollison-arid-lands-design-and-erosion-control]]
 ## Water Quality Monitoring
 Simple monitoring methods for tracking restoration success:
 - **Visual assessment**: Photograph fixed points seasonally to document vegetation recovery
@@ -120,4 +120,4 @@ Riparian restoration is a key component of [[watershed-management]]:
 - Riparian buffers are among the most cost-effective best management practices for water quality
 - Restoration sites should be prioritized within the watershed context (downstream of pollution sources, at confluences, in impaired reaches)
 - Coordinate with upstream landowners to address pollution sources
-- Connect riparian corridors to create continuous wildlife habitat across property boundaries
+- Connect riparian corridors to create continuous wildlife habitat across [[holzer-high-beds-property-boundaries]]

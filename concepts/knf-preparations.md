@@ -27,7 +27,7 @@ sources:
 
 # KNF Preparations — Complete Input Guide
 
-Korean Natural Farming (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace synthetic fertilizers and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
+[[korean-natural-farming]] (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
 
 ## Core Inputs Overview
 
@@ -57,8 +57,8 @@ JADAM (Youngsang Cho, Korea) extends KNF toward zero-budget agriculture. Key inn
 
 - **JADAM Wetting Agent (JWA)**: Canola oil + caustic potash + water (no heating). Replaces commercial surfactants. Essential for all foliar/pesticide applications.
 - **JADAM Sulfur (JS)**: Sulfur + caustic soda + red clay/phyllite powder + sea salt. Powerful germicide.
-- **JADAM Microorganism Solution (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
-- **JADAM Mineral Water (JMW)**: Leaf mold + rocks in water. Slow-release mineral input.
+- **[[jadam-microorganism-solution-culturing]] (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
+- **[[jadam-mineral-water-jmw]] (JMW)**: Leaf mold + rocks in water. Slow-release mineral input.
 - **Cost**: ~$100/acre/year target. 10-100x reduction vs conventional. All inputs made on-farm from local materials.
 - **Pesticide combos**: JNP (JWA+JS+JHS), JMS-JHS (JMS+JHS+JWA), JS-JHS. Combine wetting agent with sulfur/herb solution.
 - **Philosophy**: "Bring farming back to farmers" — no patents, all knowledge shared openly.

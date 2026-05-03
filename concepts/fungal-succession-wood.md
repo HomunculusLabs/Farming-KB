@@ -8,11 +8,11 @@ sources: []
 ---
 # Fungal Succession on Decomposing Wood
 ## Overview
-The decomposition of wood by fungi follows predictable successional patterns driven by changes in the chemical and physical properties of the substratum, interspecific interactions among fungal species, and environmental conditions. Wood decomposition is one of the most important ecosystem processes in forests, determining carbon storage, nutrient cycling, and habitat availability for countless organisms. For the role of decomposition in the broader [[soil-food-web]], see the soil food web overview.
+The [[fungal-decomposition-of-wood]] by fungi follows predictable successional patterns driven by changes in the chemical and physical properties of the substratum, interspecific interactions among fungal species, and environmental conditions. Wood decomposition is one of the most important ecosystem processes in forests, determining carbon storage, nutrient cycling, and habitat availability for countless organisms. For the role of decomposition in the broader [[soil-food-web]], see the [[compost-chemistry-soil-food-web]] overview.
 ## Wood as a Substratum
 ### Chemical Composition
 Wood is composed primarily of:
-- **Cellulose** (40-50%): Linear polymer of glucose; relatively accessible to enzymatic degradation
+- **Cellulose** (40-50%): Linear polymer of glucose; relatively accessible to [[enzymatic-degradation-in-mycoremediation]]
 - **Hemicellulose** (20-30%): Branched polymers of various sugars; more easily degraded than cellulose
 - **Lignin** (20-30%): Complex, irregular polymer of phenylpropanoid units; extremely resistant to degradation
 - **Extractives**: Resins, tannins, and other secondary compounds; vary among species and can inhibit fungal growth
@@ -40,7 +40,7 @@ Wood is composed primarily of:
 ### Soft Rot
 - Cellulose degraded from lumen of wood cells; creates cavities
 - Produced primarily by Ascomycota and some Deuteromycota
-- Important in aquatic environments and in wood with high moisture content
+- Important in [[biodiversity-fungi-aquatic-environments]] and in wood with high moisture content
 - Species: Chaetomium, Xylaria, Hypoxylon, various microfungi
 ## Successional Patterns
 ### Primary Colonizers (Early Stage)
@@ -53,7 +53,7 @@ Wood is composed primarily of:
 - Replace primary colonizers through competition
 - More specialized decomposers of complex polymers
 - Include both white-rot and brown-rot Basidiomycota
-- Competition mediated by: antagonism, priority effects, enzymatic capabilities
+- Competition mediated by: antagonism, priority effects, [[fungal-enzymatic-capabilities]]
 - Wood chemistry changes significantly (cellulose/lignin ratios shift)
 ### Late-Stage Decomposers
 - Specialized species on highly decayed wood

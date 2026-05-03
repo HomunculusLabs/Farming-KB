@@ -21,7 +21,7 @@ organisms can be grown in mass.
 
 ## Historical Foundation
 
-Louis Pasteur (1822-1895) pioneered sterile technique by recognizing
+Louis Pasteur (1822-1895) pioneered [[mushroom-cultivation-sterile-technique]] by recognizing
 that microorganisms are killed by heat, most effectively by steam or
 boiling water. Tissue culture of one organism in absence of competitors
 became possible for the first time. By the early 1900s, growing
@@ -77,7 +77,7 @@ neighboring media and cultures are not likewise infected.
 
 For indoor, high-intensity cultivation on straw (or similar material),
 three basic steps are required. Four steps are needed for cultivation on
-supplemented sawdust. Within each step, several generations of transfers
+[[supplemented-sawdust-block-cultivation]]. Within each step, several generations of transfers
 occur, with each resulting in five-to-hundred-fold increases in mycelial
 mass.
 
@@ -94,7 +94,7 @@ generations of expansions. [[growing-gourmet-grain-spawn-generation]] is inocula
 
 ### Step III: Producing Sawdust Spawn
 
-growing gourmet sawdust spawn creation is inoculated
+[[growing-gourmet-sawdust-spawn-production-use]] creation is inoculated
 with grain spawn. Sawdust spawn is best used to inoculate a "fruiting
 substrate," typically logs or supplemented sawdust formulas. One 5 lb.
 bag of sawdust spawn can effectively inoculate 5-20 times its mass, with
@@ -136,7 +136,7 @@ When mushroom mycelium encounters unfamiliar components, a delay in
 growth called the "lag period" occurs. This can be significantly reduced
 by adding 3-5 grams of the end-substrate (in most cases hardwood sawdust)
 to the [[growing-gourmet-nutrified-agar-media]] formula. This
-simple step can greatly accelerate the mushroom life cycle, decreasing
+simple step can greatly accelerate the [[growing-gourmet-mushroom-life-cycle]], decreasing
 the duration of colonization prior to fruiting.
 
 ## Related Topics

@@ -14,7 +14,7 @@ sources:
 
 ## Water Purification and Storage Principles
 
-Water is the most critical resource in any permaculture system, and its
+Water is the most critical resource in any [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]], and its
 management encompasses collection, purification, storage, and distribution.
 Bill Mollison's *Permaculture: A Designers' Manual* presents water as a
 design element that should pass through multiple functional uses before leaving
@@ -37,7 +37,7 @@ Visual assessment provides initial clues. Clear water with no odor is likely
 safe for irrigation but may still contain pathogens unsafe for drinking. Water
 from roofs, springs, and wells each carries different contamination profiles.
 Roof water may contain heavy metals from roofing materials; spring water may
-carry dissolved minerals; well water may contain agricultural chemicals.
+carry dissolved minerals; well water may contain [[agricultural-chemicals-mycorrhizal-impact]].
 
 Simple field tests for pH, turbidity, and biological contamination can guide
 preliminary design decisions. Professional laboratory testing is recommended
@@ -62,7 +62,7 @@ without chemicals or energy inputs.
 
 ## Reedbed and Constructed Wetland Purification
 
-Reedbeds and constructed wetlands are among the most effective biological
+Reedbeds and [[constructed-wetlands-wastewater-treatment]] are among the most effective biological
 purification systems for household greywater and small-scale sewage treatment.
 These systems use aquatic plants (typically reeds, rushes, and cattails) in
 shallow gravel beds through which wastewater flows. Plant roots provide oxygen
@@ -86,7 +86,7 @@ the treatment level.
 
 Water storage is essential for buffering supply against seasonal and daily
 variation. In [[permaculture-design]], storage systems are integrated into the
-landscape and building design rather than treated as separate infrastructure.
+landscape [[holmgren-passive-solar-and-building-design]] rather than treated as separate infrastructure.
 
 Tank sizing depends on the balance between water supply (rainfall, spring flow)
 and demand (household use, irrigation, livestock). A common approach is to

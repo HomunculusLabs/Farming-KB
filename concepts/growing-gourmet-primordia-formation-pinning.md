@@ -38,7 +38,7 @@ entering the next phase.
 From the natural decline in temperature within the host substrate,
 as well as in response to environmental stimuli including water
 and humidity, light, drop in temperature, and reduction in carbon
-dioxide, the mushroom mycelium is triggered into mushroom
+dioxide, the [[mushroom-mycelium-and-mycofiltration]] is triggered into mushroom
 production. The mosaic of mycelium, until now homogeneously
 arranged, coalesces into increasingly dense clusters. Shortly
 thereafter, literally minutes with some species, these hyphal
@@ -89,7 +89,7 @@ and finally by gravity.
 
 The sensitivity of mushrooms to light is surprising to many who
 have heard that mushrooms like to grow in the dark. In fact, most
-gourmet and medicinal mushrooms require and favorably react to
+gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]] require and favorably react to
 light. The development of mushrooms is affected by lioyster-mushrooms Initially, primordia form when exposed to light. Even though
 thousands of primordia can form in response to brief light
 exposure, these primordia will not develop into normal-looking
@@ -104,14 +104,14 @@ the caps remain undeveloped. Oyster, [[growing-gourmet-shiitake-cultivation]], a
 The classic initiation strategy for most mushrooms calls for
 drastically dropping the temperature for several days. With many
 temperate mushroom strains, the core temperature of the substrate
-must be dropped below 60-65 degrees F before mushroom primordia
+must be dropped below 60-65 degrees F before [[mushroom-primordia-formation-triggers]]
 will set. Once formed, temperatures can be elevated to the 70-80
 degree F range.
 
 This requirement is particularly critical for strains which have
-evolved in temperate climates, where distinct seasonal changes
+evolved in [[fukuoka-natural-farming-temperate-climates]], where distinct seasonal changes
 from summer to fall precede the wild mushroom season. Strains
-isolated from subtropical or tropical climates generally do not
+isolated from subtropical or [[fukuoka-natural-farming-tropical-climates]] generally do not
 require a cold shock. As a rule, warm weather strains grow more
 quickly, fruiting in half the time than do their cold-weather
 cousins.

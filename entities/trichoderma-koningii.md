@@ -26,7 +26,7 @@ rate, green conidial pigmentation, and the production of
 branching conidiophores bearing clusters of phialides. The species
 is morphologically similar to other Trichoderma species, and modern
 taxonomy increasingly relies on molecular markers for accurate
-species identification within this genus.
+[[field-guide-psilocybin-mushroom-species-identification]] within this genus.
 
 ## Overview
 
@@ -69,13 +69,13 @@ ecological interactions that can be disrupted by the application of
 synthetic chemical pesticides and herbicides. The secondary effects
 of these chemicals on fragile tropical ecosystems are often poorly
 understood, creating uncertainty about the long-term consequences of
-chemical-based disease management strategies.
+chemical-based disease [[mollison-grasslands-and-range-management-strategies]].
 
 For this reason, biological control agents including pathogenic and
 mycoparasitic fungi like T. koningii may be more desirable than
 chemical alternatives in tropical agricultural systems. The use of
 biologically based disease control aligns with integrated pest
-management principles and reduces the risk of unintended ecological
+[[jadam-soil-management-principles]] and reduces the risk of unintended ecological
 consequences associated with broad-spectrum chemical applications.
 
 ## Agricultural Significance
@@ -120,13 +120,13 @@ the Trichoderma fungus to breach the structural defenses of its
 fungal prey.
 
 Antibiosis represents another important mechanism, whereby T.
-koningii produces secondary metabolites with antifungal properties
+koningii produces [[biodiversity-fungal-secondary-metabolites]] with antifungal properties
 that inhibit the growth and development of competing microorganisms.
 These metabolites include volatile and non-volatile organic compounds
 that can diffuse through soil or the rhizosphere to affect pathogens
 at a distance from the Trichoderma colony. Competition for nutrients
 and ecological space further contributes to the biocontrol activity
-of T. koningii, as its rapid growth and colonization ability allow it
+of T. koningii, as its rapid [[mycelial-growth-and-colonization]] ability allow it
 to preemptively occupy niches that might otherwise be exploited by
 pathogenic fungi.
 

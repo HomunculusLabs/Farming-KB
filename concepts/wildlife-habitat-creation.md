@@ -47,10 +47,10 @@ Choose species native to your specific ecoregion. Key categories:
 - Do not fertilize native plantings -- they are adapted to poor soils
 - Be patient: native perennials spend their first year establishing roots, with minimal above-ground growth
 ## Shelter Corridors
-Wildlife corridors are strips of vegetation that connect larger habitat areas, allowing animals to move safely between feeding, nesting, and resting areas. On the homestead, corridors connect woodlots, wetlands, food plots, and the [[food-forest-design]].
+[[permaculture-designers-manual-wildlife-corridors]] are strips of vegetation that connect larger habitat areas, allowing animals to move safely between feeding, nesting, and resting areas. On the homestead, corridors connect woodlots, wetlands, food plots, and the [[food-forest-design]].
 ### Hedgerows
-A hedgerow is a linear planting of trees and shrubs that functions as a living fence, windbreak, and wildlife corridor.
-Design principles:
+A hedgerow is a linear planting of [[nitrogen-fixing-trees-and-shrubs]] that functions as a living fence, windbreak, and wildlife corridor.
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]:
 - Width: Minimum 15-20 feet for adequate cover
 - Composition: 5-10 species in mixed rows (deciduous and evergreen)
 - Layers: Ground cover, shrub layer, understory trees, canopy trees
@@ -106,7 +106,7 @@ Invasive plants degrade habitat by outcompeting natives and providing poor food 
 - Multiflora rose: Forms impenetrable thickets. Mow or treat.
 - Garlic mustard: Outcompetes spring wildflowers. Pull by hand before seed set.
 - Oriental bittersweet: Strangles trees. Cut vines and treat stumps.
-Control methods: Hand-pulling (small infestations), repeated mowing, targeted herbicide application on cut stumps, prescribed grazing (goats are effective for many woody invasives).
+[[cho-natural-pest-control-methods]]: Hand-pulling (small infestations), repeated mowing, targeted herbicide application on cut stumps, prescribed grazing (goats are effective for many woody invasives).
 ## Related Topics
 - [[food-forest-design]] for integrating food production with wildlife habitat
 - [[woodlot-management]] for managing forests to support wildlife

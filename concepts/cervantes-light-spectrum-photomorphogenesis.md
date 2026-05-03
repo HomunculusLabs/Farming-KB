@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # Light Spectrum and Photomorphogenesis
 
-Marijuana needs light with the proper spectrum and intensity to ensure rapid growth. Light is comprised of separate bands of colors, each sending the plant a separate signal and promoting different types of growth. Understanding how cannabis responds to different wavelengths and photoperiods is essential for optimizing indoor cultivation.
+Marijuana needs light with the proper spectrum and intensity to ensure rapid growth. Light is comprised of separate bands of colors, each sending the plant a separate signal and promoting different types of growth. Understanding how cannabis responds to different wavelengths and photoperiods is essential for optimizing [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]].
 
 ## Photosynthetically Active Radiation (PAR)
 
@@ -85,7 +85,7 @@ The primary disadvantages of narrowband red/blue fixtures are the unnatural purp
 
 ### Hybrid and Adjustable Spectrum Fixtures
 
-Many modern LED grow lights combine elements of both approaches, using a mix of full-spectrum white LED strips and supplemental narrowband red, blue, and far-red LED chips. These hybrid fixtures aim to provide the broad spectral coverage of white light with the targeted efficiency of narrowband LEDs. Some advanced models offer programmable spectrum control, allowing the grower to shift the spectral output throughout the day (simulating dawn-to-dusk spectral changes) or adjust it for different growth stages with a single fixture.
+Many modern [[comparison-cmh-vs-led-grow-lights]] combine elements of both approaches, using a mix of full-spectrum white LED strips and supplemental narrowband red, blue, and far-red LED chips. These hybrid fixtures aim to provide the broad spectral coverage of white light with the targeted efficiency of narrowband LEDs. Some advanced models offer programmable spectrum control, allowing the grower to shift the spectral output throughout the day (simulating dawn-to-dusk spectral changes) or adjust it for different growth stages with a single fixture.
 
 ## Light Intensity and Canopy Penetration
 
@@ -120,9 +120,9 @@ DLI provides a useful framework for comparing lighting systems regardless of spe
 
 Achieving uniform light distribution across the entire canopy is one of the most important and often overlooked aspects of grow room lighting. Light intensity decreases rapidly with distancescreen-of-greene (following the inverse square law), and the canopy of a mature cannabis plant is inherently uneven due to branching patterns, plant height variation, and bud development.
 
-- **Canopy management**: Training techniques such as low-stress training (LST), screen of green (ScrOG), and defoliation are used to create a flat, even canopy that maximizes light interception. A uniform canopy height ensures that all bud sites receive similar light intensity, rather than the upper canopy receiving too much light (causing stress) and the lower canopy receiving too little (causing underdeveloped buds).
+- **Canopy management**: [[cannabis-training-techniques]] such as low-stress training (LST), screen of green (ScrOG), and defoliation are used to create a flat, even canopy that maximizes light interception. A uniform canopy height ensures that all bud sites receive similar light intensity, rather than the upper canopy receiving too much light (causing stress) and the lower canopy receiving too little (causing underdeveloped buds).
 - **Light height adjustment**: The distance between the light source and the canopy should be set so that the PPFD at the canopy edge is at least 70-80% of the PPFD directly below the fixture. With HID lamps, this typically means positioning the lamp 18-36 inches above the canopy. With LED fixtures (which have lower heat output and can be positioned closer), 12-24 inches is typical. Using a PAR meter to map PPFD at multiple points across the canopy is the most reliable way to optimize light height.
-- **Light movers**: As described in advanced grow room design, motorized light movers distribute light more evenly by continuously changing the angle and distance of illumination. This reduces hot spots directly under the fixture and improves light penetration to the outer edges of the growing area.
+- **Light movers**: As described in advanced [[mushroom-grow-room-design]], motorized light movers distribute light more evenly by continuously changing the angle and distance of illumination. This reduces hot spots directly under the fixture and improves light penetration to the outer edges of the growing area.
 - **Overlapping coverage**: When using multiple fixtures, positioning them so that their coverage areas overlap ensures more uniform intensity at the boundaries between fixtures. A rule of thumb is to space fixtures so that the PPFD at the point equidistant between two fixtures is at least 75% of the PPFD directly under either fixture.
 - **Reflective walls**: Flat white paint, Mylar, or Foylon on the grow room walls reflects light back into the canopy from the sides, increasing total light interception and reducing the intensity gradient from center to edge. This is particularly important for single-fixture setups where the walls are the only source of side lighting.
 - **Supplemental side lighting**: In large rooms or with tall plants, vertical or side-mounted LED strips can provide supplemental light to the lower canopy. This is especially valuable during late flowering when dense bud sites on lower branches may receive inadequate light from overhead fixtures alone.

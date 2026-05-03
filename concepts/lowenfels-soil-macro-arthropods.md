@@ -18,7 +18,7 @@ bacteria, protozoa, nematodes, and each other. The soil arthropod community is
 divided into microarthropods (mites, springtails, and their kin) and
 macroarthropods (beetles, ants, millipedes, centipedes, spiders, and others).
 While often overlooked, they are essential for nutrient cycling, soil structure,
-and disease suppression.
+and [[ingham-aact-disease-suppression]].
 
 ## Microarthropods: Mites and Springtails
 
@@ -52,7 +52,7 @@ beetles (Scarabaeidae) bury animal dung, incorporating it into soil and
 preventing nutrient loss. Other beetles are decomposers, breaking down woody
 material. Beetle diversity is a strong indicator of [[soil-food-web]] health.
 
-**Ants (Formicidae)** -- Ants are ecosystem engineers that profoundly modify
+**Ants (Formicidae)** -- Ants are [[fungi-ecosystem-engineers]] that profoundly modify
 soil structure. They excavate tunnels that improve aeration and water
 infiltration. Some species cultivate fungal gardens (leafcutter ants), while
 others prey on other soil organisms. Ants bring organic material underground
@@ -89,7 +89,7 @@ microbes and nutrients throughout the soil profile.
 
 ## Nutrient Cycling
 
-Arthropods are the "shredders" of the soil food web. When macroarthropods chew
+Arthropods are the "shredders" of the [[compost-chemistry-soil-food-web]]. When macroarthropods chew
 plant material into smaller pieces, they dramatically increase the surface area
 available for microbial colonization. This is called comminution and is one of
 the rate-limiting steps in decomposition. Without arthropods, leaves and twigs
@@ -111,7 +111,7 @@ diseases and pests.
 
 Soil arthropods are highly sensitive to physical and chemical disturbance.
 Rototilling destroys their habitat, crushes their bodies, and breaks up the
-soil structure they help create. Pesticides and synthetic fertilizers kill
+soil structure they help create. Pesticides and [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] kill
 arthropods directly. Compaction eliminates the air spaces they need to move
 through soil. Because many soil arthropods are slow reproducers, recovery from
 disturbance can take months to years. Protecting soil structure through

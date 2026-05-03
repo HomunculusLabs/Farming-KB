@@ -13,7 +13,7 @@ The Williams PDC culminates in a comprehensive design project that serves as the
 
 ## The Design Project as Capstone
 
-Williams structures the PDC so that all learning exercises, readings, and discussions build toward the final design project. The project is not theoretical -- it requires an actual client and an actual site. The best way to find clients, Williams advises, is to be part of a community and join your local permaculture guild.
+Williams structures the PDC so that all learning exercises, readings, and discussions build toward the final design project. The project is not theoretical -- it requires an actual client and an actual site. The best way to find clients, Williams advises, is to be part of a community and join your local [[permaculture-guild-design]].
 
 The design project demonstrates that the student can:
 - Perform comprehensive site analysis
@@ -24,7 +24,7 @@ The design project demonstrates that the student can:
 
 ## Team Assembly and Organization
 
-Design projects are conducted in teams, mirroring professional design practice. [[composting]]utlines specific guidance for team composition and organization.
+Design projects are conducted in teams, mirroring professional design practice. compostingutlines specific guidance for team composition and organization.
 
 ### Team Composition
 
@@ -38,7 +38,7 @@ Teams should include people with expertise or interest in:
 - Food systems and gardening
 - Forestry and trees
 - Hydrology and water
-- Invisible structures (economics, governance)
+- [[williams-pdc-invisible-structures]] (economics, governance)
 - Passive design
 - Plant knowledge
 - Soils
@@ -59,7 +59,7 @@ Each Design Steward receives the working base map and client interview, then tak
 
 ## Case Study Method: Learning from Existing Sites
 
-Williams integrates case studies throughout the PDC, drawing from real projects to illustrate design principles. The case study approach follows a specific methodology:
+Williams integrates case studies throughout the PDC, drawing from real projects to illustrate [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. The case study approach follows a specific methodology:
 
 ### Site Selection for Case Studies
 
@@ -78,7 +78,7 @@ Williams references several real-world examples:
 
 When analyzing any case study, students should examine:
 1. **Context**: What climate, watershed, bioregion, and community does the site exist within?
-2. **History**: What patterns of human use and ecological succession preceded the current design?
+2. **History**: What patterns of human use and [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] preceded the current design?
 3. **Analysis**: What sectors, zones, soil conditions, water flows, and microclimates were identified?
 4. **Design decisions**: What elements were chosen, where were they placed, and why?
 5. **Integration**: How do the design elements connect to and support each other?

@@ -15,14 +15,14 @@ how to use each input maximizes their complementary benefits.
 
 ## Overview
 
-**Fish Aminos** are a Korean Natural Farming (KNF) bionutrient produced by
+**Fish Aminos** are a [[korean-natural-farming]] (KNF) bionutrient produced by
 fermenting fish scraps with brown sugar or molasses at a 1:3 ratio (fish to
 sugar by weight). The fermentation process, which takes 2-4 weeks, preserves
 enzymes and breaks down proteins into amino acids that plants can absorb
 directly through foliage and roots. The resulting liquid is a high-nitrogen
 biostimulant diluted at 1:20 for foliar sprays or soil drenches.
 
-Fish aminos are applied primarily during the vegetative growth stage when plants
+Fish aminos are applied primarily during the [[cannabis-vegetative-growth-stage]] when plants
 have the highest demand for nitrogen. A key advantage over commercial fish
 emulsion is that the low-pH fermentation preserves heat-sensitive enzymes that
 commercial processing destroys. The production cost is essentially zero if fish
@@ -40,8 +40,8 @@ root development, improve stress resistance, and enhance overall plant vigor.
 It can be used as a soil amendment mixed into beds, as a compost activator,
 steeped as a foliar spray, or applied as a seed treatment. The alginate in kelp
 improves soil structure by enhancing water retention and aggregation. Kelp meal
-feeds beneficial soil microbes, supporting the soil food web. The main drawbacks
-are higher cost compared to other organic fertilizers and a low NPK that means
+feeds beneficial soil microbes, supporting the [[compost-chemistry-soil-food-web]]. The main drawbacks
+are higher cost compared to other [[cannabis-organic-fertilizers]] and a low NPK that means
 it cannot serve as a primary nitrogen source.
 
 ## Key Differences

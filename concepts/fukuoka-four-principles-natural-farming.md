@@ -21,7 +21,7 @@ Fukuoka arrived at his farming method through a moment of insight during his you
 Fukuoka divided farming approaches into three categories:
 
 1. **Mahayana natural farming** -- pure natural farming where man becomes one with nature, requiring no effort. This is the ideal.
-2. **Hinayana natural farming** -- organic farming and other methods that try to minimize human intervention but still rely on some human knowledge.
+2. **[[fukuoka-mahayana-and-hinayana-natural-farming]]** -- organic farming and other methods that try to minimize human intervention but still rely on some human knowledge.
 3. **Scientific farming** -- conventional agriculture that relies on human knowledge and action, expanding centrifugally away from nature toward "something-ness."
 
 Scientific farming and Hinayana farming move in opposite directions: natural farming condenses inward toward zero, while scientific farming expands outward toward infinity. Though they may appear similar at a given moment, they are fundamentally opposed.
@@ -48,7 +48,7 @@ In nature, the soil plows itself through multiple mechanisms:
 Fukuoka argues that farmers create the very conditions that make plowing seem necessary:
 
 - Transplanting saplings entangles roots, preventing deep root penetration
-- Chemical fertilizers encourage shallow root systems
+- [[cannabis-chemical-fertilizers]] encourage shallow root systems
 - Weeding halts natural topsoil aggregation and enrichment
 - Clearing land removes the source of humus from deeper soil layers
 - These practices deplete soil life, creating compacted, lifeless soil that then requires plowing
@@ -79,7 +79,7 @@ Fukuoka catalogs the damages caused by chemical fertilizers:
 
 ### Why No-Fertilizer Tests Are Rare
 
-Scientists almost never conduct no-fertilizer cultivation experiments. The standard for fertilizer experiments is three-element tests (NPK), not zero-fertilizer controls. When no-fertilizer tests are done, they place trees in small concrete enclosures or pots -- conditions that kill soil life and prevent natural nutrient cycling. Fukuoka calls these "condition-less" experiments that prove nothing about natural farming.
+Scientists almost never conduct no-fertilizer [[holzer-mushroom-cultivation-experiments]]. The standard for fertilizer experiments is three-element tests (NPK), not zero-fertilizer controls. When no-fertilizer tests are done, they place trees in small concrete enclosures or pots -- conditions that kill soil life and prevent natural nutrient cycling. Fukuoka calls these "condition-less" experiments that prove nothing about natural farming.
 
 ### The Mountain Forest Comparison
 
@@ -132,7 +132,7 @@ He argues that diseases and pests are self-defense measures taken by nature to r
 
 ### The Rice Borer Experience
 
-Fukuoka's professional experience with the yellow rice borer eradication program in Kochi Prefecture was pivotal. Despite the most advanced agricultural technology of the time, involving complete restructuring of rice cultivation schedules across the entire prefecture, the program succeeded only in eliminating the borer -- it did not increase yields. This convinced Fukuoka that scientific agriculture "will never amount to more than a temporary expedient."
+Fukuoka's professional experience with the yellow rice borer eradication program in Kochi Prefecture was pivotal. Despite the most advanced agricultural technology of the time, involving complete restructuring of rice cultivation schedules across the entire prefecture, the program succeeded only in eliminating the borer -- it did not increase yields. This convinced Fukuoka that [[fukuoka-critique-scientific-agriculture]] "will never amount to more than a temporary expedient."
 
 ### Nature's Self-Regulation
 

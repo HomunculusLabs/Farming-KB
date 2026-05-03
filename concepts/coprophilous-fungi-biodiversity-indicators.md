@@ -12,7 +12,7 @@ created: 2026-04-26
 tags:
   - [[coprophilous-fungi]]
   - bioindicators
-  - biodiversity assessment
+  - [[dighton-soil-fungal-biodiversity-assessment]]
   - habitat quality
   - conservation monitoring
 date: 2026-04-25
@@ -38,12 +38,12 @@ their specialized substrate:
 
 - They are primary decomposers of herbivore dung, facilitating
   nutrient cycling in grassland and forest ecosystems
-- They produce a remarkable diversity of secondary metabolites,
+- They produce a remarkable diversity of [[biodiversity-fungal-secondary-metabolites]],
   including antibacterial and antifungal compounds
 - Their interactions with other dung organisms (bacteria, arthropods,
   nematodes) create complex micro-ecosystems
 - They serve as food resources for fungivorous invertebrates
-- Their spore dispersal mechanisms often depend on herbivore behavior,
+- Their [[fungal-spore-dispersal-mechanisms]] often depend on herbivore behavior,
   creating tight links between fungal and animal populations
 
 ## Indicator Potential
@@ -57,7 +57,7 @@ rests on several attributes:
   assessments
 - **Species specificity**: Many coprophilous fungi show preferences
   for dung from specific herbivore species, reflecting the mammalian
-  community composition
+  [[mycorrhizal-effects-on-plant-community-composition]]
 - **Habitat sensitivity**: The composition of coprophilous fungal
   communities reflects the vegetation, climate, and land-use history
   of the surrounding landscape
@@ -79,7 +79,7 @@ coprophilous fungi in biodiversity monitoring:
   is lacking
 - Knowledge of the biology of coprophilous fungi is almost negligible
   and is restricted to a limited number of species
-- Obtaining realistic estimates of microfungal diversity as part of
+- Obtaining realistic estimates of [[microfungal-diversity-host-plant-relationship]] as part of
   biodiversity surveys may be impractical because of the enormous
   scope of the task
 - Rarity may be an artifact of the specialized requirements of

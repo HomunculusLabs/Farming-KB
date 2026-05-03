@@ -18,7 +18,7 @@ sources:
 
 ### Conventional Pruning: Destroying the Tree's Nature
 
-Conventional fruit tree management relies heavily on pruning to shape trees for maximum fruit production. Fukuoka argues that this is fundamentally wrong:
+Conventional [[jadam-fruit-tree-management]] relies heavily on pruning to shape trees for maximum fruit production. Fukuoka argues that this is fundamentally wrong:
 
 - The natural form of a fruit tree is the central leader type -- a single trunk rising straight up with branches radiating outward
 - Conventional pruning forces trees into open-center or modified leader forms that are unnatural
@@ -45,7 +45,7 @@ Fukuoka acknowledges that converting a conventionally pruned orchard to natural 
 
 ### The Evolution of Fukuoka's Ground Cover
 
-Fukuoka's orchard ground cover evolved through three stages:
+Fukuoka's [[fukuoka-natural-orchard-ground-cover]] evolved through three stages:
 
 1. **Grass cover:** Initially allowed various grasses to grow as ground cover
 2. **Green manure cultivation:** Deliberately planted [[green-manure-crops]]
@@ -80,7 +80,7 @@ Fukuoka's orchard is not just a place for growing fruit but an organically integ
 
 - **Canopy layer:** Fruit trees (citrus, etc.)
 - **Understory:** Manure trees (acacia), windbreak trees, evergreens and deciduous trees in combination
-- **Ground level:** Clover ground cover, vegetables
+- **Ground level:** [[fukuoka-white-clover-ground-cover]], vegetables
 - **Animal layer:** Fowl and livestock forage in the orchard
 - **Human layer:** The farmer lives within and manages this ecosystem
 
@@ -104,7 +104,7 @@ Fukuoka discovered that growing vegetables beneath fruit trees provides multiple
 - **Complex food web:** Some pests are common to both fruit trees and vegetables, some are not, and all have different natural enemies that emerge at various times
 - **Balance maintenance:** As long as a balance is maintained between fruit trees, vegetables, insect pests, and their natural predators, real damage from disease and insect attack can be prevented
 
-Most vegetables, when cultivated in a semi-wild state, can be grown almost entirely without fertilizers. Cruciferous winter vegetables, when sown just before weeds emerge, grow vigorously and overwhelm weeds. Their deep roots are highly effective in soil improvement. Leguminous green manures suppress summer weeds and enrich the soil.
+Most vegetables, when cultivated in a semi-wild state, can be grown almost entirely [[fukuoka-orchard-soil-building-without-fertilizers]]. Cruciferous winter vegetables, when sown just before weeds emerge, grow vigorously and overwhelm weeds. Their deep roots are highly effective in soil improvement. Leguminous green manures suppress summer weeds and enrich the soil.
 
 ## Soil Building Without Fertilizer
 

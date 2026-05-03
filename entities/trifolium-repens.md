@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-White clover is a low-growing, perennial legume native to Europe and Central Asia, now distributed globally in temperate grasslands, pastures, and lawns. In permaculture design, it serves as a primary living mulch and nitrogen-fixing ground cover, valued for its ability to improve soil fertility while suppressing unwanted vegetation.
+White clover is a low-growing, perennial legume native to Europe and Central Asia, now distributed globally in temperate grasslands, pastures, and lawns. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], it serves as a primary living mulch and nitrogen-fixing ground cover, valued for its ability to improve soil fertility while suppressing unwanted vegetation.
 
 ## Botanical Description
 
@@ -31,7 +31,7 @@ As a legume, white clover forms a symbiotic relationship with *Rhizobium legumin
 
 - **Living mulch:** Planted beneath fruit trees, berries, and vegetable crops to suppress weeds, retain soil moisture, and regulate soil temperature
 - **Nitrogen source:** Fixed nitrogen becomes available to companion plants as clover tissues decompose or are grazed/cut
-- **Erosion control:** Dense stolon network stabilizes soil on slopes and in waterways
+- **[[mollison-arid-lands-design-and-erosion-control]]:** Dense stolon network stabilizes soil on slopes and in waterways
 - **Pasture component:** Mixed with grasses in rotational grazing systems; high protein forage for livestock
 - **Bee forage:** Long flowering season (spring through autumn) provides critical nectar and pollen for honeybees and native pollinators
 - **Lawn alternative:** Maintains green appearance with minimal mowing; tolerates foot traffic better than most legumes
@@ -42,7 +42,7 @@ White clover is typically broadcast-sown at 2–5 kg/ha into existing grass or p
 
 - **'Ladino'/'Huia':** Large-leaved, high productivity, widely used in pastures and orchards
 - **'Pipolina'/'Microclover':** Dwarf varieties suited to lawns, requiring less frequent mowing
-- **'Dutch White':** Medium-leaved, good general-purpose type for living mulch systems
+- **'Dutch White':** Medium-leaved, good general-purpose type for [[living-mulch-systems-guide]]
 
 ## Soil Preferences
 
@@ -52,14 +52,14 @@ Thrives in moist, well-drained loams with pH 6.0–7.0. Tolerates moderate acidi
 
 - Host plant for the larvae of several butterfly and moth species, including the common blue butterfly (*Polyommatus icarus*)
 - Nectar source for long-tongued bees, short-tongued bees, and hoverflies
-- Provides ground-level habitat for predatory beetles and spiders in integrated pest management systems
+- Provides ground-level habitat for predatory beetles and spiders in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] systems
 - Can serve as a trap crop for certain pest species in orchard systems
 
 ## Limitations
 
 - Aggressive in moist climates; may invade garden beds if not bordered
 - Provides relatively little biomass compared to other green manures
-- Can harbor slugs and snails in damp conditions
+- Can harbor [[jadam-pesticide-for-slugs-and-snails]] in damp conditions
 - Nitrogen fixation is reduced in high-nitrogen soils (negative feedback regulation)
 
 ## See Also

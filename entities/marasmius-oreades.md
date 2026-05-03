@@ -75,15 +75,15 @@ M. oreades is considered an excellent edible despite its small size:
 
 M. oreades is a saprotrophic grassland species that decomposes organic matter in soil:
 
-- Forms extensive underground mycelial networks
+- Forms extensive underground [[fungal-resource-translocation-in-mycelial-networks]]
 - Decomposes thatch and other organic matter in lawns and pastures
-- Contributes to nitrogen cycling in grassland ecosystems
+- Contributes to nitrogen cycling in [[biodiversity-fungi-grassland-ecosystems]]
 - The fairy ring growth pattern demonstrates the remarkable longevity and persistence of fungal mycelium
 - Interacts with grass root systems, sometimes stimulating grass growth through nitrogen release
 
 ## Medicinal Properties
 
-Research on M. oreades has identified several bioactive compounds:
+Research on M. oreades has identified several [[cordyceps-cancer-bioactive-compounds]]:
 
 - **Marasmin** — an antibacterial compound isolated from this species
 - **Anti-inflammatory properties** — some studies suggest anti-inflammatory effects
@@ -131,7 +131,7 @@ Several mushroom species share grassland habitats with M. oreades:
 | Agaricus campestris | Pink to brown gills | Edible | Brown |
 | [[psilocybe-semilanceata]] | Conical cap, blue bruising | Psychoactive | Purple-brown |
 | Clitocybe dealbata | Crowded gills, white cap | Toxic (muscarine) | White |
-| Panaeolus foenisecii | Dark gills, mottled cap | Inedible | Black |
+| [[panaeolus-foenisecii-taxonomy-debate]] | Dark gills, mottled cap | Inedible | Black |
 | Coprinus comatus | Shaggy, inky deliquescence | Excellent edible | Black |
 
 ## Nutritional Value

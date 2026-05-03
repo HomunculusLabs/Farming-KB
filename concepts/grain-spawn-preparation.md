@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Grain spawn is colonized grain that serves as the inoculant for bulk substrates. The mycelium grows through the grain kernels, using the stored carbohydrates and proteins as food. Once fully colonized, the grain is mixed with a bulk substrate like CVG (coconut coir, vermiculite, gypsum) where the mycelium continues to expand and eventually fruits. Proper grain preparation is critical — too dry and colonization stalls, too wet and the grain ferments or breeds bacteria.
+Grain spawn is colonized grain that serves as the inoculant for bulk substrates. The mycelium grows through the grain kernels, using the stored carbohydrates and proteins as food. Once fully colonized, the grain is mixed with [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] like CVG (coconut coir, vermiculite, gypsum) where the mycelium continues to expand and eventually fruits. Proper [[spawn-grain-preparation]] is critical — too dry and colonization stalls, too wet and the grain ferments or breeds bacteria.
 
 ## Grain Types
 
@@ -121,7 +121,7 @@ Colonized grain spawn can be stored in the refrigerator (35-40F / 2-4C) for 2-4 
 - [[mushroom-spawn-making-detailed]]
 ## Spawn Grain × Substrate Interactions (Nwanze et al., 2005)
 
-Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain interacts significantly with the culture medium to affect fruitbody quality:
+Research on *[[spawn-grain-medium-interaction-lentinus-squarrosulus]]* demonstrated that the choice of spawn grain interacts significantly with the culture medium to affect fruitbody quality:
 
 ### Key Findings
 - **Millet spawn × animal bedding/rice medium** produced the widest stipe diameter
@@ -133,7 +133,7 @@ Research on *Lentinus squarrosulus* demonstrated that the choice of spawn grain 
 - Grain choice matters beyond colonization speed — it affects fruitbody morphology and yield
 - Protein-rich substrates (animal bedding, rice) paired with corn or millet spawn gave the best results
 - For sawdust-based substrates, wheat spawn performed better than corn or millet
-- These findings apply primarily to non-composted substrates and tropical species; results may differ for composted Agaricus cultivation
+- These findings apply primarily to non-composted substrates and tropical species; results may differ for composted [[growing-gourmet-button-mushroom-agaricus-cultivation]]
 
 Source: raw/papers/unknown-effect-of-spawn-grains-with-culture-medium-on-carpophore.md
 

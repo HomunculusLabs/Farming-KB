@@ -15,23 +15,23 @@ sources:
 
 # Permaculture Patterns in Nature
 
-Chapter 4 of the Designers' Manual is devoted to pattern understanding -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
+Chapter 4 of the Designers' Manual is devoted to [[mollison-pattern-understanding]] -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
 
 ## The Role of Pattern in Design
 
-Permaculture design works from pattern to detail. Understanding the patterns that govern natural events allows the designer to place elements in relationships that mirror natural efficiency. The tree of life, referenced in the book's cover story, expresses the general pattern of life forms: roots in earth, crown in rain, sunlight, and wind.
+[[bamboo-permaculture-design]] works from pattern to detail. Understanding the patterns that govern natural events allows the designer to place elements in relationships that mirror natural efficiency. The tree of life, referenced in the book's cover story, expresses the general pattern of life forms: roots in earth, crown in rain, sunlight, and wind.
 
 ## Key Pattern Types
 
 ### Branching
 
-Branching patterns appear throughout nature: in trees, rivers, blood vessels, lightning, root systems, and neural networks. Branching is an efficient distribution system -- it minimises the distance any element must travel while maximising surface area for exchange. In permaculture design, branching patterns inform road layout, water distribution, pathway systems, and the placement of elements in zone planning.
+Branching patterns appear throughout nature: in trees, rivers, blood vessels, lightning, root systems, and neural networks. Branching is an efficient distribution system -- it minimises the distance any element must travel while maximising surface area for exchange. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], branching patterns inform road layout, water distribution, pathway systems, and the placement of elements in zone planning.
 
 The Manual discusses orders of magnitude in branches and how branching affects the efficiency of conduits for flow (water, nutrients, energy).
 
 ### Spirals
 
-Spirals are pervasive in nature: shells, galaxies, weather systems, plant growth patterns (phyllotaxis), and water flow. Spirals are efficient for compacting complex components into limited space while maintaining access. Herb spirals in permaculture gardens are a direct application, creating multiple microclimates in a small footprint.
+Spirals are pervasive in nature: shells, galaxies, weather systems, plant growth patterns (phyllotaxis), and water flow. Spirals are efficient for compacting complex components into limited space while maintaining access. Herb spirals [[mollison-guinea-pig-integration-in-permaculture-gardens]] are a direct application, creating multiple microclimates in a small footprint.
 
 ### Waves and Oscillations
 
@@ -47,7 +47,7 @@ Toroidal flow patterns appear in weather systems, ocean currents, and thermal co
 
 ### Boundaries and Edges
 
-Edges are where two media meet (land/water, forest/field, warm/cold). Boundaries have their own harmonics and geometries. The edge effect -- where diversity and productivity are highest at the interface between two systems -- is a core permaculture principle. Compatible and incompatible borders and components must be understood for effective design.
+Edges are where two media meet (land/water, forest/field, warm/cold). Boundaries have their own harmonics and geometries. The edge effect -- where diversity and productivity are highest at the interface between two systems -- is a core [[apply-self-regulation-permaculture-principle]]. Compatible and incompatible borders and components must be understood for effective design.
 
 ## Flow Over Landscape
 

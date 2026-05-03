@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 # Common Mycorrhizal Networks
 
 Common mycorrhizal networks (CMNs), sometimes called mycorrhizal networks or
-myconets, are underground fungal networks that physically connect the root
+myconets, are [[underground-fungal-networks]] that physically connect the root
 systems of multiple plants. These networks form when mycorrhizal fungal hyphae
 colonize the roots of neighboring plants, creating a shared biological
 infrastructure through which carbon, nutrients, water, and chemical signals
@@ -24,7 +24,7 @@ encounter and colonize the roots of nearby plants. Over time, a single fungal
 individual (genet) can connect dozens or even hundreds of plants. In forests,
 the most extensive networks are typically formed by ectomycorrhizal fungi,
 where a single fungal genet may span tens of hectares. In grasslands and many
-agricultural systems, arbuscular mycorrhizal fungi form the dominant networks.
+agricultural systems, [[arbuscular-mycorrhizal-colonization-patterns]] fungi form the dominant networks.
 
 The physical structure of a CMN consists of internal fungal structures within
 plant roots (arbuscules, hyphal coils, or Hartig nets, depending on the
@@ -80,7 +80,7 @@ chemically suppress competitors. The extent and ecological significance of
 signaling through CMNs remains an active and sometimes contentious area of
 research, with ongoing debate about whether fungal-mediated signaling is
 sufficiently specific and rapid to be ecologically meaningful compared to
-airborne volatile signaling or direct root exudate interactions.
+airborne volatile signaling or direct [[singh-mycorrhizal-exudates-root-exudate-interactions]].
 
 ## Controversies and Limitations
 
@@ -109,7 +109,7 @@ outcomes between species, facilitate seedling establishment, buffer
 environmental stress, and contribute to ecosystem stability. Understanding
 CMNs is increasingly important for forest management, ecological restoration,
 and sustainable agriculture, where manipulating these networks could improve
-outcomes for biodiversity conservation and ecosystem resilience.
+outcomes for [[gadd-fungal-biodiversity-conservation]] and ecosystem resilience.
 
 ## See Also
 

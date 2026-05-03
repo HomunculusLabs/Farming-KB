@@ -8,7 +8,7 @@ sources: []
 ---
 # Tropical Rainforest Restoration Using Arbuscular [[mycorrhizal-fungi]]
 
-Tropical rainforests are experiencing rapid deforestation, with annual losses of approximatelyarbuscular-mycorrhizal-fungilly. Restoration of these ecosystems requires reestablishment of both plant communities and their associated soil microorganisms, particularly arbuscular mycorrhizal fungi (AMF). AMF play critical roles in soil aggregation, nutrient cycling, plant establishment, and successional dynamics, making them essential tools for tropical forest restoration programs.
+Tropical rainforests are experiencing rapid deforestation, with annual losses of approximatelyarbuscular-mycorrhizal-fungilly. Restoration of these ecosystems requires reestablishment of both plant communities and their associated soil microorganisms, particularly [[arbuscular-mycorrhizal-colonization-patterns]] fungi (AMF). AMF play critical roles in soil aggregation, nutrient cycling, plant establishment, and successional dynamics, making them essential tools for tropical forest restoration programs.
 
 Restoration of these ecosystems requires reestablishment of both plant communities and their associated soil microorganisms, particularly arbuscular mycorrhizal fungi (AMF).
 
@@ -26,7 +26,7 @@ Crucially, deforestation alters soil microbiota, including mycorrhiza-forming fu
 
 ## Mycorrhizal Roles in Restoration
 
-AMF contribute to ecosystem restoration through multiple mechanisms. They improve soil structure by forming aggregates that retain organic material and reduce erosion. They enhance [[plant-nutrient-uptake]], particularly phosphorus, which is often limiting in tropical soils. They increase plant drought tolerance through improved water relations. They protect plants against certain soilborne pathogens. Maintaining or reestablishing native AMF communities can therefore accelerate the recovery of soil properties and facilitate plant community reassembly.
+AMF contribute to [[bioremediation-ecosystem-restoration]] through multiple mechanisms. They [[query-how-do-fungi-improve-soil-structure]] by forming aggregates that retain organic material and reduce erosion. They enhance [[plant-nutrient-uptake]], particularly phosphorus, which is often limiting in tropical soils. They increase plant drought tolerance through improved water relations. They protect plants against certain soilborne pathogens. Maintaining or reestablishing native AMF communities can therefore accelerate the recovery of soil properties and facilitate plant community reassembly.
 
 They improve soil structure by forming aggregates that retain organic material and reduce erosion.
 
@@ -72,7 +72,7 @@ AMF combined with moderate phosphorus fertilization promotes recruitment of nati
 
 ## Protocol for Restoration with AMF
 
-Effective restoration protocols integrate ecological theory with practical AMF application. The process involves: (1) assessing site conditions and degradation level, (2) selecting appropriate AMF inocula based on native community composition, (3) matching inoculation strategies to the mycorrhizal dependency and life history traits of target plant species, (4) timing inoculation to coincide with optimal planting windows, and (5) monitoring AMF effects on plant growth, survival, and community assembly. Greenhouse experiments should precede field applications to characterize species-specific responses.
+Effective restoration protocols integrate ecological theory with practical AMF application. The process involves: (1) assessing site conditions and degradation level, (2) selecting appropriate AMF inocula based on native [[mycorrhizal-effects-on-plant-community-composition]], (3) matching inoculation strategies to the mycorrhizal dependency and life history traits of target plant species, (4) timing inoculation to coincide with optimal planting windows, and (5) monitoring AMF effects on plant growth, survival, and community assembly. Greenhouse experiments should precede field applications to characterize species-specific responses.
 
 The process involves: (1) assessing site conditions and degradation level, (2) selecting appropriate AMF inocula based on native community composition, (3) matching inoculation strategies to the mycorrhizal dependency and life history traits of target plant species, (4) timing inoculation to coincide with optimal planting windows, and (5) monitoring AMF effects on plant growth, survival, and community assembly.
 

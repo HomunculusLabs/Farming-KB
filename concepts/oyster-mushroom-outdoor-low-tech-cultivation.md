@@ -11,7 +11,7 @@ tags: [cultivation, growing growing gourmet tree oyster ostreatus species profil
 
 # oyster mushroom growing gourmet [[stamets-fruiting-substrate-materials]] wood types guide Outdoor and Low-Tech Cultivation Methods
 
-oyster mushroom fungal fungal staycare fungal [[staycare-solid-state-fermentation-for-bioremediation]] agricultural waste for bioremediation agricultural waste conversion substrates survey mushrooms are uniquely suited to outdoor and low-tech cultivation. Their aggressive colonization, wide [[mushroom-substrates]] adaptability, and tolerance for less-than-ideal conditions make them the premier mushroom for resource-limited growers, rural communities, and sustainable agriculture projects. Over 200 different waste materials have been documented as oyster mushroom substrates, many of which can be utilized with minimal equipment.
+oyster mushroom fungal fungal staycare fungal [[staycare-solid-state-fermentation-for-bioremediation]] agricultural waste for bioremediation [[fungal-agricultural-waste-conversion]] substrates survey mushrooms are uniquely suited to outdoor and low-tech cultivation. Their aggressive colonization, wide [[mushroom-substrates]] adaptability, and tolerance for less-than-ideal conditions make them the premier mushroom for resource-limited growers, rural communities, and sustainable agriculture projects. Over 200 different waste materials have been documented as [[oyster-mushroom-substrates]], many of which can be utilized with minimal equipment.
 
 ## Outdoor pleurotus natural [[log-cultivation-methods]]
 
@@ -44,7 +44,7 @@ While Stropharia rugoso-annulata is the premier species for outdoor bed culture,
 3. Inoculate with grain or sawdust spawn, mixing thoroughly
 4. Cover with cardboard, shade cloth, or straw to retain moisture
 5. Water regularly to maintain consistent moisture
-6. Fruiting occurs naturally with seasonal temperature and humidity changes
+6. Fruiting occurs naturally with seasonal [[vegetable-storage-conditions-by-temperature-and-humidity]] changes
 
 ### Philippines Outdoor Method
 
@@ -112,7 +112,7 @@ This method is particularly well-suited for educational programs, home cultivati
 
 ### Low-Cost Structures (Thailand Model)
 
-falconer mushroom growing house design houses for outdoor or semi-outdoor cultivation are typically:
+falconer [[falconer-mushroom-growing-house-design]] houses for outdoor or semi-outdoor cultivation are typically:
 
 - Constructed from thatch, bamboo, or wooden poles with shading nets
 - Roof and wall materials replaced on a regular schedule (1-5 year durability)

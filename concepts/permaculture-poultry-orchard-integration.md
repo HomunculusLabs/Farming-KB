@@ -11,7 +11,7 @@ sources: [~/wiki/raw/papers/the-ultimate-guide-to-natural-farming-and-sustainabl
 Integrating poultry into orchards and food production systems is one of the
 most productive and mutually beneficial strategies in [[permaculture-design]].
 Chickens, ducks, and other small animals provide pest control, fertilizer,
-soil cultivation, and food production while the orchard provides them with
+[[fukuoka-critique-soil-cultivation]], and food production while the orchard provides them with
 forage, shelter, and shade. The key principle is placing elements so that
 the outputs of one system become the inputs of another, creating closed
 loops that reduce labor and external inputs. In the [[mollison-permaculture-two-zone-planning-and-site-layout]], small poultry typically occupies Zone 2,
@@ -49,7 +49,7 @@ chickens with some important differences. Ducks are superior at slug control
 and can forage in wetter areas where chickens would suffer. A small flock
 of ducks near a pond provides additional pest control for the orchard while
 the pond itself becomes part of the aquaculture system. Ducks add manure to
-the pond water, fertilizing the plankton and aquatic plants that feed fish.
+the pond water, fertilizing the plankton [[hamilton-garden-ponds-and-aquatic-plants]] that feed fish.
 The combination of ducks, fish, and orchard plants creates a multi-layered
 productive system where each element supports the others. Ducks hide their
 nests among reeds, and the gathered materials can be used for basket making,
@@ -59,7 +59,7 @@ adding yet another yield from the integrated system.
 
 Rabbits are especially practical for urban and suburban homesteaders because
 rabbit hutches are legal in most places where chickens might not be. In a
-permaculture system, rabbits are kept for meat, manure, and fur. Unlike
+[[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]], rabbits are kept for meat, manure, and fur. Unlike
 other animals, they can never be allowed to roam the gardens because they
 will eat everything and multiply beyond control. They live in a hutch with a
 mesh floor so droppings fall through for easy cleanup, and a worm bin can be
@@ -81,7 +81,7 @@ supplemental lighting), and can live in the greenhouse because they eat
 insects rather than plants. Both pigeons and quail are social animals and
 should be kept in groups of at least three breeding pairs. Quail require a
 game bird license in many jurisdictions. These smaller poultry options allow
-urban dwellers to integrate animal protein production into their food
+urban dwellers to integrate animal [[fungal-single-cell-protein-production]] into their food
 systems without the space requirements of chickens.
 
 ## Orchard Layout for Poultry Integration

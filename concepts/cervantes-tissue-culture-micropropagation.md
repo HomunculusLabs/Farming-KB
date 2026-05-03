@@ -20,7 +20,7 @@ Meristem pruning is the practice of cutting away the growth tip to encourage lat
 
 ## The Agar Medium
 
-Tissue culture medium typically contains a gelatinous agar base supplemented with macronutrients (nitrogen, phosphorus, potassium), micronutrients (iron, manganese, zinc, boron), vitamins (thiamine, nicotinic acid), and plant growth regulators (auxins and cytokinins). The balance of auxins (promoting root development) and cytokinins (promoting shoot development) determines whether the explant produces roots, shoots, or callus tissue.
+Tissue culture medium typically contains a gelatinous agar base supplemented with macronutrients (nitrogen, phosphorus, potassium), micronutrients (iron, manganese, zinc, boron), vitamins (thiamine, nicotinic acid), and [[tompkins-plant-growth-regulators]] (auxins and cytokinins). The balance of auxins (promoting root development) and cytokinins (promoting shoot development) determines whether the explant produces roots, shoots, or callus tissue.
 
 A mother plant can be cloned via an agar solution, providing a sterile environment that eliminates many of the disease transmission risks associated with traditional cloning. The sealed containers maintain humidity while preventing contamination from airborne pathogens.
 
@@ -36,14 +36,14 @@ Tissue culture offers several major advantages over traditional cloning:
 
 ## Disadvantages and Challenges
 
-Tissue culture requires significant upfront investment in sterile equipment (laminar flow hood, autoclave, pH meter) and specialized knowledge. Contamination by bacteria or fungi is the most common problem and can destroy entire batches. The initial establishment of cultures has a steep learning curve, and the transition from agar-grown plantlets to soil or hydroponic media (acclimatization) requires careful humidity management.
+Tissue culture requires significant upfront investment in sterile equipment ([[laminar-flow-hood-construction-hepa-filter]], autoclave, pH meter) and specialized knowledge. Contamination by bacteria or fungi is the most common problem and can destroy entire batches. The initial establishment of cultures has a steep learning curve, and the transition from agar-grown plantlets to soil or hydroponic media (acclimatization) requires careful humidity management.
 
 The process is also time-consuming compared to traditional cloning. While traditional cuttings root in 7-14 days, tissue culture from initial explant to rooted plantlet ready for transplant can take 6-12 weeks.
 
 ## Procedure Overview
 
 1. **Explant selection**: Choose a healthy, actively growing meristem tip from a verified mother plant.
-2. **Surface sterilization**: The explant is dipped in a mild bleach solution (typically 5-10% sodium hypochlorite) for several minutes, then rinsed with sterile water.
+2. **[[microwave-surface-sterilization]]**: The explant is dipped in a mild bleach solution (typically 5-10% sodium hypochlorite) for several minutes, then rinsed with sterile water.
 3. **Medium preparation**: Agar medium is prepared, pH-adjusted (typically 5.6-5.8), autoclaved, and poured into sterile culture vessels.
 4. **Inoculation**: Under sterile conditions (laminar flow hood), the sterilized explant is placed on the medium.
 5. **Incubation**: Cultures are kept under low light (16-24 hours) at 72-78°F (22-26°C). Shoots develop over 2-4 weeks.
@@ -70,7 +70,7 @@ The Murashige and Skoog (MS) medium, developed in 1962, is the most widely used 
 - **Carbon source**: Sucrose at 20-30 g/L provides the primary energy source, since cultured explants are typically not photosynthetically self-sufficient, especially during early stages.
 - **Gelling agent**: Agar at 6-8 g/L solidifies the medium. Phytagel (0.2-0.3%) is sometimes used as an alternative, providing a clearer medium that makes it easier to observe root development.
 
-The pH of the prepared medium is adjusted to 5.6-5.8 (using NaOH or KOH to raise pH, or HCl to lower it) before autoclaving. This pH range optimizes nutrient availability and gelling consistency.
+The pH of the prepared medium is adjusted to 5.6-5.8 (using NaOH or KOH to raise pH, or HCl to lower it) before autoclaving. This pH range optimizes [[fungal-enzyme-activity-nutrient-availability]] and gelling consistency.
 
 ### Cannabis-Specific Medium Variations
 

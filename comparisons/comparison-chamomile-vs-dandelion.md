@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 Chamomile and dandelion are two of the most widely used herbaceous
-plants in traditional medicine and permaculture design, yet they
+plants in traditional medicine and [[bamboo-permaculture-design]], yet they
 occupy very different ecological niches and cultural roles. Chamomile
 is a deliberately cultivated medicinal herb prized for its calming,
 anti-inflammatory, and digestive properties. Dandelion is a ubiquitous
@@ -62,7 +62,7 @@ poor soils with good drainage.
 [[permaculture-dandelion]]
 
 The common dandelion (Taraxacum officinale) is one of the most
-multi-functional plants available to permaculture designers. The
+multi-functional plants available to [[permaculture-designers-manual-animal-forage-systems]]. The
 entire plant is edible: flowers for wine and fritters, leaves for
 salads and cooked greens, and roots for coffee substitute and
 medicine. Dandelion leaves contain more beta-carotene than carrots
@@ -123,7 +123,7 @@ beds where their flowers support pollinators.
 Choose dandelion for free food, medicine, and soil improvement
 from a plant that needs no cultivation investment. Allow dandelion
 to colonize compacted areas, orchard understories, and marginal
-zones where its deep taproot will improve soil structure. Harvest
+zones where its deep taproot will [[query-how-do-fungi-improve-soil-structure]]. Harvest
 young leaves in spring for nutritious greens, flowers for wine
 and fritters, and roots in fall for roasted coffee substitute.
 Managing dandelion through regular harvest turns a perceived weed
@@ -132,7 +132,7 @@ into a valued crop.
 ## Growing Both Together
 
 Chamomile and dandelion make excellent companions in a diverse
-herb garden or food forest understory. Dandelion's early spring
+herb garden or [[food-forest-understory-plants]]. Dandelion's early spring
 blooms provide nectar before chamomile flowers appear. Chamomile's
 dense low growth suppresses excessive dandelion spread while both
 plants support overlapping pollinator populations. Harvesting from

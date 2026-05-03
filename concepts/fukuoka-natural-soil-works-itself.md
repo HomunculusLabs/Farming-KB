@@ -60,8 +60,8 @@ even a slight entanglement of the tree's roots interferes with the normal
 growth of the first generation of roots and weakens the tree's ability to send
 roots deep into the soil.
 
-Applying chemical fertilizers encourages the tree to grow a shallow root
-structure that extends along the topsoil. Fertilizer application and weeding
+Applying [[cannabis-chemical-fertilizers]] encourages the tree to grow a shallow root
+structure that extends along the topsoil. [[teaming-with-nutrients-fertilizer-application]] and weeding
 bring a halt to the normal aggregation and enrichment of topsoil. Clearing
 new land for agriculture by pulling up trees and bushes robs the deeper
 layers of the soil of a source of humus, halting the active proliferation of
@@ -103,7 +103,7 @@ We can either choose to see the soil as imperfect and take hoe in hand, or
 trust the soil and leave the business of working it to nature. This is the
 fundamental choice that separates [[fukuoka-natural-farming]] from
 [[fukuoka-natural-farming-philosophy-of-mu]]. When we trust the
-soil, we recognize that the fukuoka natural soil works itself
+soil, we recognize that the [[fukuoka-natural-soil-fertility]] works itself
 is self-sustaining and that [[fukuoka-natural-farming-philosophy-of-mu]] to maintain productive capacity.
 
 The soil that knows itself is complete and whole. It is only when man
@@ -123,7 +123,7 @@ or sprays the forest, yet it produces enormous biomasdecompositionyear.
 
 The farmer's field, by contrast, is stripped of its natural vegetation,
 compacted by machinery, and depleted of organic matter through continuous
-harvesting. The soil food web is disrupted by chemical inputs, and the
+harvesting. The [[compost-chemistry-soil-food-web]] is disrupted by chemical inputs, and the
 natural cycles of decomposition and renewal are broken. Then the farmer
 wonders why the soil "needs" plowing and fertilization, not realizing that
 these are merely responses to damage already done.

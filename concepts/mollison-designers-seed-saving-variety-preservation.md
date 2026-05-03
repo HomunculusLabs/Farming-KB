@@ -12,7 +12,7 @@ sources:
 Mollison considers seed saving a cornerstone of permaculture [[permaculture-self-reliance-and-political-action]]. In
 Permaculture: A Designer's Manual, he argues that dependence on commercial seed
 suppliers undermines the resilience of food systems and erodes the genetic
-diversity built by generations of farmers and gardeners. A permaculture system
+diversity built by generations of farmers and gardeners. [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]]
 should produce, select, and store its own seeds, adapting varieties to local
 conditions over successive growing seasons.
 
@@ -100,7 +100,7 @@ Optimal storage conditions:
 
 - Seed moisture: 5-8%
 - Temperature: 0-5 degrees C (refrigerator) or -18 degrees C (freezer for
-  query how to store cannabis seeds for long term viability storage of orthodox seeds)
+  query how to store cannabis seeds for [[query-how-to-store-cannabis-seeds-for-long-term-viability]] storage of orthodox seeds)
 - Container: Glass jars with rubber seals, or airtight plastic containers
 - Desiccant: Include silica gel packets in storage containers in humid
   climates
@@ -142,7 +142,7 @@ Strategies for preserving heirloom diversity:
 - Participate in seed exchange networks and community [[green-cannabis-grow-bible-seed-selection-and-seed-banks]]
 - Maintain a dedicated seed garden area isolated from commercial plantings
 - Document variety characteristics, origins, and [[shroom-cultural-history-hippie-revolution-and-counterculture]]
-- Practice mollison mollison mollison designers seed pelleting and pretreatment dormancy and germination treatments dispersal and natural regeneration
+- Practice mollison mollison [[mollison-designers-seed-pelleting-and-pretreatment]] [[mollison-designers-seed-dormancy-and-germination-treatments]] dispersal and natural regeneration
   alongside deliberate seed saving to maintain wild relatives
 
 ## See Also

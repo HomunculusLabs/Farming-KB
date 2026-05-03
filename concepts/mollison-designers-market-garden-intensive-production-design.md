@@ -56,7 +56,7 @@ breaks down and can be transferred to beds as additional organic matter.
 
 ## [[succession-planting]]
 
-Continuous harvest requires continuous planting. Succession planting schedules
+Continuous harvest requires continuous planting. [[coleman-succession-planting]] schedules
 specify sowing dates for each crop throughout the year, calculated backwards
 from target harvest dates. Fast-maturing crops (radishes, salad greens,
 bush beans) may be sown every two to three weeks. Slower crops (tomatoes,
@@ -70,7 +70,7 @@ seedlings planted alongside maturing plants.
 Mollison emphasises that the most successful market gardeners maintain detailed
 planting records, tracking sowing dates, varieties, yields, and market
 performance from year to year. This data allows increasingly precise planning
-and identification of the most profitable crop combinations.
+and identification of the most profitable [[holzer-polycultures-catch-crop-combinations]].
 
 ## Season Extension
 
@@ -85,10 +85,10 @@ Celsius and protect against insect pests.
 **Cold frames:** Bottomless boxes with transparent lids, positioned against
 a south-facing wall or in full sun. Cold frames are used for hardening off
 seedlings, growing winter salad greens, and starting early spring crops. They
-provide 5 to 10 degrees of frost protection.
+provide 5 to 10 degrees of [[cervantes-microclimate-frost-protection]].
 
 **Greenhouses and polytunnels:** Unheated or minimally heated structures
-provide a fully protected growing environment. Polytunnels (hoop houses
+provide a fully protected [[growing-gourmet-indoor-growing-environment]]. Polytunnels (hoop houses
 covered with polyethylene film) are the most cost-effective option for
 commercial production. They allow year-round production of salad crops,
 early tomatoes and peppers, and winter greens.

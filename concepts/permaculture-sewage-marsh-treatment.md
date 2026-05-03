@@ -10,14 +10,14 @@ sources:
 # Permaculture Sewage and Marsh Treatment
 
 **Updated:** 2026-04-18
-In permaculture design, sewage is treated through biological marsh systems rather than mechanical treatment plants. Sewage flows through a sequence of holding ponds, marsh plants, and finally into productive ponds, creating an industrial resource base rather than a waste problem.
+[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], sewage is treated through biological marsh systems rather than mechanical treatment plants. Sewage flows through a sequence of holding ponds, marsh plants, and finally into productive ponds, creating an industrial resource base rather than a waste problem.
 
 ## Source
-Bill Mollison Permaculture Design Course, Pamphwater-in-permacultureaculture)
+Bill [[mollison-permaculture-design-course-curriculum]] Course, Pamphwater-in-permacultureaculture)
 
 ## Core Principle
 
-Sewage should be turned out into a marsh, NOT a pond. The marsh is planted with high-demand plants (mints, bog plants) that have phenomenal nutrient uptake capacity. After passing through the marsh, the water contains no solids but still holds dissolved nutrients (mainly phosphates and nitrates) that can fertilize downstream systems.
+Sewage should be turned out into a marsh, NOT a pond. The marsh is planted with high-demand plants (mints, bog plants) that have phenomenal [[mycorrhizal-nutrient-uptake]] capacity. After passing through the marsh, the water contains no solids but still holds dissolved nutrients (mainly phosphates and nitrates) that can fertilize downstream systems.
 
 ## System Design
 
@@ -67,7 +67,7 @@ Black peppermint is an excellent sewage treatment plant:
 - Steam distillation produces menthol (valuable product)
 - Good to grow mint if you are dairying and have dairy outwash
 - From dairy outwash you get powerful blooms of mint
-- Mint exhausts ponds after a few years; in cold climates it has a rest period for renewal
+- Mint exhausts ponds after a few years; in [[permaculture-designers-manual-cold-climates]] it has a rest period for renewal
 - Control mint's lateral invasiveness with dense bushes on either side
 
 ## Bamboo in Sewage Systems
@@ -90,7 +90,7 @@ Black peppermint is an excellent sewage treatment plant:
 - [Duck pond systems -- can integrate with sewage treatment
 - [Greywater systems -- separate from blackwater/sewage
 - [Pond construction -- technical aspects
-- Waste management -- broader permaculture waste strategy
+- [[off-grid-waste-management]] -- broader [[permaculture-waste-management]] strategy
 
 ## See Also
 

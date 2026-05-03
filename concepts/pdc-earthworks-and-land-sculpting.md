@@ -44,7 +44,7 @@ Swales are one of the most important earthwork tools in permaculture. Williams d
 - Reduces the need for irrigation
 - Builds soil over time through organic matter accumulation in the moist zone
 
-**Design considerations**:
+**[[mycoremediation-bioreactor-design-considerations]]**:
 - Must be absolutely level along the contour to prevent concentrated water flow
 - Spacing depends on slope gradient (steeper slopes need closer swale spacing)
 - The berm (excavated soil placed on the downhill side) is the primary planting zone
@@ -74,7 +74,7 @@ Williams references Keyline design as a foundational earthworks approach for bro
 
 ### Ponds and Dams
 
-Earthworks for water storage include ponds, dams, and constructed wetlands:
+Earthworks for water storage include ponds, dams, and [[constructed-wetlands-wastewater-treatment]]:
 
 **Siting considerations**:
 - Use the lowest practical point in the landscape to maximize catchment area
@@ -99,7 +99,7 @@ Williams includes paths as earthworks because they change how water moves across
 
 ## Soils and Earthworks
 
-Williams connects earthworks directly to soil management strategies:
+Williams connects earthworks directly to soil [[mollison-grasslands-and-range-management-strategies]]:
 
 ### Soil as the Foundation
 
@@ -115,7 +115,7 @@ Williams advocates combining earthworks with sheet mulching (lasagna gardening):
 1. Complete earthworks first
 2. Plant the berm or terrace immediately
 3. Sheet mulch the entire area to suppress weeds, retain moisture, and begin building soil
-4. Allow the earthworks and mulch to work together to create optimal growing conditions
+4. Allow the earthworks and mulch to work together to create optimal [[mushroom-growing-conditions]]
 
 ### The [[soil-food-web]]
 

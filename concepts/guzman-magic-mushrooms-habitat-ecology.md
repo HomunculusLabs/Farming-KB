@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 Neurotropic fungi occupy diverse ecological niches across the world, from
 arctic-alpine tundra to tropical rainforests. Understanding their habitat
 preferences is essential for both field identification and understanding
-their global distribution patterns. The ecological diversity of these
+their [[gartz-magic-mushrooms-global-distribution-patterns]]. The ecological diversity of these
 fungi reflects their evolutionary adaptation to specific substrates and
 environmental conditions.
 
@@ -33,7 +33,7 @@ Many neurotropic species are coprophilous, growing on herbivore dung:
 - **Panaeolus** species: P. subbalteatus, P. sphinctrinus, P.
   retirugis, P. fimicola, P. papilionaceus are coprophilous; some
   occur on horse or cow dung in pastures
-- **Panaeolina foenisecii**: "Haymaker's mushroom"; common on horse
+- **[[panaeolina-foenisecii]]**: "Haymaker's mushroom"; common on horse
   dung and in grasslands; widespread in temperate regions
 - **Conocybe** species: C. siliginoides, C. cyanopus, C. kuehneriana
   grow on dung or dung-enriched soil
@@ -91,7 +91,7 @@ Many subtropical and tropical Psilocybe species grow in leaf litter:
 
 ### Geophilous and Root-Associated Species
 
-- **P. caerulipes**: Grows with hardwood roots in eastern North America
+- **P. caerulipes**: Grows with hardwood roots in [[polypore-fungi-eastern-north-america]]
 - **P. quebecensis**: Found in Quebec, Canada
 - **P. weilii**: Found in disturbed soils in Georgia, USA
 +- **P. tampanensis**: Known from sclerotia in sandy soils, Florida
@@ -116,7 +116,7 @@ Neurotropic fungi span a wide altitudinal range:
 
 ## Climate and Geographic Preferences
 
-The distribution of neurotropic fungi strongly correlates with humidity
+The [[distribution-of-neurotropic-fungi]] strongly correlates with humidity
 and temperature:
 - **Tropical and subtropical humid forests**: The richest habitats;
   Mexico, Brazil, Colombia, Southeast Asia, and New Guinea

@@ -6,12 +6,12 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/myceliummycelium-running.md]
 ---
 
-# Saprotrophic Nutrient [[saprotrophic-fungi]]rophic fungi obtain nutrients by decomposing dead organic matter,
-occupying a fundamentally different ecological nichemycorrhizal-fungiycorrhizal fungi or parasitic fungi. Their nutrient acquisition strategies
+# Saprotrophic Nutrient saprotrophic fungirophic fungi obtain nutrients by decomposing dead organic matter,
+occupying a fundamentally different ecological nichemycorrhizal-fungiycorrhizal fungi or parasitic fungi. Their [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategies
 are shaped by the chemical complexity of their substrates, competitive
 interactions with other decomposers, and the stoichiometric constraints of
 fungal metabolism. Understanding these strategies is essential for predicting
-decomposition rates, soil carbon dynamics, and ecosystem responses to
+[[dighton-litter-quality-fungal-decomposition-rates]], soil carbon dynamics, and ecosystem responses to
 environmental change.
 
 ## Fundamental Nutrient Modes
@@ -99,7 +99,7 @@ Saprotrophs vary in environmental stress tolerance:
 - **Temperature extremes:** Thermophilic fungi decompose compost above 50
   degrees C; psychrotolerant species remain active near freezing
 - **Heavy metal resistance:** Some saprotrophs sequester metals in vacuoles or
-  precipitate them extracellularly, enabling growth on contaminated substrates
+  precipitate them extracellularly, enabling growth on [[mycoremediation-mushroom-cultivation-contaminated-substrates]]
 
 ## Stoichiometric Constraints and Nutrient Economy
 
@@ -135,7 +135,7 @@ Accurate representation of saprotrophic strategies is critical for predicting
 ecosystem responses to environmental change:
 
 - **Warming effects:** Temperature-driven decomposition increases may be
-  limited by nutrient availability if warming increases metabolic demand
+  limited by [[fungal-enzyme-activity-nutrient-availability]] if warming increases metabolic demand
   faster than nutrient supply
 - **Nitrogen deposition:** Anthropogenic nitrogen may shift fungal communities
   from resource-efficient to resource-expensive strategies, reducing soil

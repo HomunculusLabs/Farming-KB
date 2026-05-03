@@ -49,10 +49,10 @@ precise one-hour vortex stirring process called "dynamization."
 KNF uses a system of **fermented natural inputs** producedfermented-plant-juicey available materials. Core inputs infish-amino-acidgenous
 microorganisms) collected from forest soils and multiplied through a
 four-stage cultivation process, FPJ (fermented plant juice), FFJ
-(fermented fruit juice), FAA (fish amino acid), OHN (oriental herbal
-nutrient), WCA (water-soluble calcium), and BRV (brown rice vinegar).
+([[knf-fermented-fruit-juice]]), FAA ([[fish-amino-acid]]), OHN (oriental herbal
+nutrient), WCA (water-soluble calcium), and BRV ([[brown-rice-vinegar-brv]]).
 Each targets a specific nutritional need at a specific plant growth
-stage per Cho's nutritive cycle theory. No animal organs or esoteric
+stage per Cho's [[cho-nutritive-cycle-theory]]. No animal organs or esoteric
 containers are needed; inputs are fermented in simple vessels using
 brown sugar as an osmotic preservative.
 ## Soil Management Approach
@@ -99,7 +99,7 @@ overhead.
 Both systems face skepticism from mainstream agronomy, but for different
 reasons. Biodynamic preparations involve homeopathic dilution levels,
 animal organ containers, and cosmic forces that resist conventional
-validation. Some studies [[lactic-acid-bacteria]]iology and yield, while
+validation. Some studies lactic acid bacteriaiology and yield, while
 others find no difference from standard organic management.
 KNF's fermented inputs operate through more conventionally understood
 mechanisms: lactic acid bacteria, yeast fermentation, and microbial

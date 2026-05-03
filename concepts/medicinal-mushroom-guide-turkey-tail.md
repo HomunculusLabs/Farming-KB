@@ -21,7 +21,7 @@ Turkey tail is the most extensively researched medicinal mushroom for immune sup
 - **PSP (Polysaccharide-peptide):** Similar protein-bound polysaccharide. Approved as a drug in China since 1987.
 - **[[beta-glucans]]:** The primary immunomodulatory compounds, particularly 1,3-beta and 1,6-beta-glucans.
 - **Triterpenes:** Present at lower concentrations than reishi or chaga.
-- **Phenolic compounds and flavonoids:** Contribute antioxidant activity.
+- **[[ingham-tannins-terpenes-phenolic-compounds]] and flavonoids:** Contribute antioxidant activity.
 
 ## PSK and PSP — Mechanisms
 
@@ -116,7 +116,7 @@ Turkey tail is one of the easiest mushrooms to identify, but has lookalikes:
 
 ### Habitat
 - Dead hardwood (oak, maple, beech, birch).
-- Found year-round in temperate climates.
+- Found year-round in [[fukuoka-natural-farming-temperate-climates]].
 - One of the most common wood-decay fungi worldwide.
 
 ## Cultivation
@@ -131,7 +131,7 @@ Turkey tail can be cultivated but is often wild-harvested due to abundance:
 
 - Extremely safe with long history of use as food and medicine.
 - No significant toxicity in animal or human studies even at high doses.
-- May enhance immune function — caution with autoimmune conditions (lupus, MS, rheumatoid arthritis).
+- May enhance immune function — caution with [[blesching-cannabis-health-index-autoimmune-conditions]] (lupus, MS, [[blesching-cannabis-rheumatoid-arthritis]]).
 - Possible interactions with immunosuppressant medications.
 - Safe during most chemotherapy regimens but always consult oncologist.
 

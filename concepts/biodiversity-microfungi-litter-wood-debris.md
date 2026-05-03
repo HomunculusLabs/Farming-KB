@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 Microfungi associated with dead plant material represent one of the
 most diverse and ecologically significant components of fungal
-biodiversity. These fungi drive decomposition processes, recycle
+biodiversity. These fungi drive [[fungal-decomposition-processes]], recycle
 nutrients, and form complex communities that change over time through
 successional dynamics. Their diversity far exceeds that of macrofungi
 and soil fungi, yet they remain among the most poorly documented
@@ -80,7 +80,7 @@ plant tissue components.
 
 ## Tropical Versus Temperate Diversity
 
-Direct evidence for greater tropical microfungal diversity comes from
+Direct evidence for greater tropical [[microfungal-diversity-host-plant-relationship]] comes from
 comparative studies. Cannon (1997a) found that Phyllachoraceae species
 between latitudes 20 degrees N and 20 degrees S outnumbered those in
 temperate zones (40 to 60 degrees) by a factor of more than 2.5.
@@ -99,7 +99,7 @@ composition. The diversity of fungi associated with litter of
 Castanopsis cuspidata and Quercus phillyraeoides was greater in
 southern Japan than in central Japan, reflecting temperature
 differences. Moisture availability strongly influences both fungal
-growth rates and community composition on dead plant material.
+growth rates and [[mycorrhizal-effects-on-plant-community-composition]] on dead plant material.
 
 ### Seasonality
 
@@ -128,7 +128,7 @@ material, each with advantages and limitations. Direct observation of
 fruiting structures on substrate surfaces reveals the most
 ecologically relevant species but misses those that do not sporulate
 under observation conditions. Moist chamber incubation induces
-sporulation of many species. Particle filtration and washing methods
+sporulation of many species. [[particle-filtration-dilution-plating-microfungal-isolation]] and washing methods
 (Bills and Polishook 1994) isolate fungi from individual substrate
 particles for culturing. Dilution plating provides quantitative data
 on fungal abundance but favors rapidly growing ruderal species.

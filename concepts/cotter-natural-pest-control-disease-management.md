@@ -18,7 +18,7 @@ tool sanitation. The cultivator is the most frequent contamination vector during
 media preparation and spawning. Mushrooms absorb gases, liquids, and sometimes
 heavy metals from their environment, making it critical to never spray pesticides
 or synthetic chemicals on fruiting mushrooms. Mushrooms can break down some
-herbicides in substrate via extracellular enzymes, but directly sprayed
+herbicides in substrate via [[fungal-extracellular-enzymes]], but directly sprayed
 chemicals translocate into fruitbodies. Effective organic alternatives exist.
 
 ## Prevention Through Growing Space Design
@@ -98,11 +98,11 @@ traps from many feet away, enter, and drown.
 
 ### Biological Predators
 
-Introducing predators into fruiting rooms leverages ecological balance.
+Introducing predators into fruiting rooms leverages [[fukuoka-bushman-world-ecological-balance]].
 Spiders in rafters weave webs between mushroom columns, catching fungus gnats.
 Anole lizards patrol racks and tables, snapping up beetles. Leopard tree frogs
 raised from tadpoles in aquariums position themselves near column exit holes,
-waiting to consume emerging gnats. These predators fill ecological niches that
+waiting to consume emerging gnats. These predators fill [[mushroom-habitats-and-ecological-niches]] that
 naturally slow reproductive pest species.
 
 ## Mold Control
@@ -122,7 +122,7 @@ under high CO2 concentrations found in [[mushroom-substrates]].
 5. Allow to dry, then tape the hole with clear packing tape to monitor whether
    mold is contained.
 6. In the lab, remove all contaminated agar plates, bags, or containers
-   immediately. Rescue cultures using isolation techniques.
+   immediately. Rescue cultures using [[endophyte-isolation-techniques]].
 
 ## Bacteria Control
 

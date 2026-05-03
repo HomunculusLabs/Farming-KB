@@ -28,10 +28,10 @@ of a specific nutrient in its foliage compared to surrounding plants or
 average plant tissue. These plants can be used strategically in gardens,
 orchards, and farms to gather nutrients from deep soil layers or from
 mineralized forms that other plants cannot access, then return those
-nutrients to the upper soil profile [[decomposition]]position.
+nutrients to the upper soil profile decompositionposition.
 
 The practical goal is fertilizer self-sufficiency. Rather than importing
-external amendments, gardeners can grow accumulator plants and recycle
+external amendments, gardeners can grow [[permaculture-dynamic-accumulator-plants]] and recycle
 their nutrient-rich biomass through composting, mulching, cover cropping,
 and green manuring. Once a plant has freed an element from its mineral
 form and used it to grow, that element can be recycled for the benefit
@@ -93,7 +93,7 @@ When working with dynamic accumulators, keep these principles in mind:
 
 - Not all accumulators concentrate nutrients regardless of soil levels.
 - The nutrient profile of a plant reflects both its genetics and its
-  growing environment.
+  [[growing-gourmet-indoor-growing-environment]].
 - The real value comes from the ability of accumulator plants to
   access nutrients in forms or soil depths unavailable to crop plants.
 - Recycling accumulator biomass through compost or mulch is what makes
@@ -128,7 +128,7 @@ The concept of dynamic accumulators draws from several traditional
 sources. Joseph Cocannouer's 1950 book "Weeds: Guardians of the Soil"
 was among the first to popularize the idea that weeds serve important
 soil-building functions. Other foundational works include Ben Easey's
-"Practical Organic Gardening" (1955) and Ehrenfried Pfeiffer's "Weeds
+"Practical [[green-manures-organic-gardening]]" (1955) and Ehrenfried Pfeiffer's "Weeds
 and What They Tell." These authors recognized that many common weeds
 are actually performing valuable ecological services, particularly in
 nutrient cycling and soil conditioning.
@@ -141,6 +141,6 @@ nutrient cycling and soil conditioning.
 
 - Legume nitrogen fixation is the most well-documented example of true
   bioaccumulation icover-crops Cover crops and green manures provide a practical framework for using
-  accumulator plants in agricultural systems.
+  accumulator plants in [[fungal-diversity-agricultural-systems]].
 - Phosphate accumulators like buckwheat and mustard play a critical role
   in liberating bound phosphorus from soil minerals.

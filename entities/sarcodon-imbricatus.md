@@ -72,7 +72,7 @@ This complex arsenic speciation profile indicates that sarcodon imbricatus is ca
 
 ### Tree Hosts
 
-sarcodon imbricatus is primarily associated with coniferous trees, especially spruce and pine species. The ectomycorrhizal association benefits host trees through enhanced nutrient acquisition, particularly in nutrient-poor forest soils. The fungus may also provide some degree of protection against root pathogens.
+sarcodon imbricatus is primarily associated with coniferous trees, especially spruce and pine species. The ectomycorrhizal association benefits host trees through enhanced [[dighton-ericoid-mycorrhizal-nutrient-acquisition]], particularly in nutrient-poor forest soils. The fungus may also provide some degree of protection against root pathogens.
 
 ## Decomposer Organisms
 
@@ -90,7 +90,7 @@ sarcodon imbricatus is considered edible in some traditions but is not widely re
 
 ### Bioremediation Potential
 
-The arsenic accumulation and biotransformation capabilities of sarcodon imbricatus suggest potential applications in bioremediation of arsenic-contaminated soils. The ability to methylate inorganic arsenic into less toxic organoarsenic forms could be harnessed for the detoxification of contaminated environments.
+The arsenic accumulation and biotransformation capabilities of sarcodon imbricatus suggest potential applications in bioremediation of arsenic-contaminated soils. The ability to methylate inorganic arsenic into less toxic organoarsenic forms could be harnessed for the detoxification of [[singh-fungal-biofilms-in-contaminated-environments]].
 
 ### Bioindicator Value
 
@@ -110,11 +110,11 @@ The presence of methylated arsenic compounds (MA and DMA) in sarcodon imbricatus
 
 ### Environmental Context
 
-The accumulation of arsenic by sarcodon imbricatus and other higher fungi reflects the bioavailability of arsenic in their growing environments. Arsenic occurs naturally in soil minerals and can be elevated by anthropogenic activities including mining, smelting, use of arsenical pesticides, and coal combustion. The ability of ectomycorrhizal fungi to accumulate arsenic from soil may influence arsenic cycling and availability in forest ecosystems.
+The accumulation of arsenic by sarcodon imbricatus and other higher fungi reflects the bioavailability of arsenic in their [[mushroom-growing-environments]]. Arsenic occurs naturally in soil minerals and can be elevated by anthropogenic activities including mining, smelting, use of arsenical pesticides, and coal combustion. The ability of ectomycorrhizal fungi to accumulate arsenic from soil may influence arsenic cycling and availability in forest ecosystems.
 
 ## Bioactive Compounds
 
-In addition to arsenic metabolism, sarcodon imbricatus has been studied for its production of various bioactive secondary metabolites. Some Sarcodon species produce scabronine derivatives and other terpenoid compounds with biological activity, including potential anti-inflammatory and neurotrophic properties. However, the specific bioactive compound profile of S. imbricatus requires further investigation.
+In addition to arsenic metabolism, sarcodon imbricatus has been studied for its production of various bioactive [[biodiversity-fungal-secondary-metabolites]]. Some Sarcodon species produce scabronine derivatives and other terpenoid compounds with biological activity, including potential anti-inflammatory and neurotrophic properties. However, the specific bioactive compound profile of S. imbricatus requires further investigation.
 
 ## Research Notes
 
