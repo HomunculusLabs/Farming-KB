@@ -24,7 +24,7 @@ The central design feature involves shaping approximately 50 hectares of land in
 ### Pond Design Principles
 Within the individual ponds, deep and shallow areas accommodate the different requirements of various types of fish, crayfish, crabs, and mussels (see [[aquaculture-in-permaculture]]). Different depths of water create areas with different temperatures. This way problems such as a lack of oxygen or the pond becoming overgrown can be minimised -- a principle also applied at the [[holzer-raised-bed-design-principles]] in Austria.
 
-The result is a water garden with many uses, enclosed by a raised bed. A lake with an island, on which an earth cellar will be built, completes the plan.
+The result is a water garden with many uses, enclosed by a raised bed — a design approach detailed in [[raised-bed-gardening]]. A lake with an island, on which an earth cellar will be built, completes the plan.
 
 
 ## Flood Protection and Land Creation
@@ -34,7 +34,7 @@ The changes to the shape of the land not only increase the area of workable land
 
 ## Microclimate Creation
 
-The changes to the land include the creation of different [[microclimate-creation-permaculture]] such as dry areas and "mini rainforests." These changes should not only provide usable areas of land that can be farmed the whole year round, but also serve as a recreational and experimental landscape, a garden for the children at the orphanage, a pick-your-own area, a display garden, livestock keeping area, and a sanctuary for birds and wild animals.
+The changes to the land include the creation of different [[microclimate-creation-permaculture]] such as dry areas and "mini rainforests" — a precursor to the [[food-forest]] concept. These changes should not only provide usable areas of land that can be farmed the whole year round, but also serve as a recreational and experimental landscape, a garden for the children at the orphanage, a pick-your-own area, a display garden, livestock keeping area, and a sanctuary for birds and wild animals.
 
 
 ## Water Treatment and Supply
@@ -51,7 +51,7 @@ Restoring the water supply, which was polluted with many harmful substances, to 
 
 ## Fruit Tree Trenches
 
-Children helped plant fruit trees (mango, papaya, and many others) in trenches. This technique, also used extensively at the Krameterhof, involves planting trees in excavated trenches that collect water and organic matter, giving the young trees the best possible start.
+Children helped plant fruit trees (mango, papaya, and many others) in trenches — a technique described in [[holzer-fruit-tree-planting-method]] and also used extensively at the Krameterhof. This technique involves planting trees in excavated trenches that collect water and organic matter, giving the young trees the best possible start.
 
 
 ## Clay Building
@@ -82,6 +82,9 @@ This project demonstrates Holzer's core [[permaculture-climatic-zones-design]] p
 - [[earth-cellar-construction]]
 - [[microclimate-creation-permaculture]]
 - [[greywater-systems-detailed]]
+- [[permaculture-water-harvesting]]
+- [[hugelkultur]]
+- [[keyline-design]]
 
 
 ## Source

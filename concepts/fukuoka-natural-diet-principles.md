@@ -56,7 +56,7 @@ The dietary principles flow directly from the farming philosophy. [[fukuoka-natu
 
 ## Critique of Modern Food Systems
 
-Fukuoka's dietary principles constitute an implicit critique of the globalized food system. The transportation of food across thousands of miles, the reliance on chemical preservatives and packaging, the industrial processing that strips foods of their natural complexity — all of these represent the same kind of human arrogance and separation from nature that he identified in [[fukuoka-critique-modern-agriculture]]. The modern eater, disconnected from the source of their food, is in the same position as the modern farmer, disconnected from the living processes of the soil.
+Fukuoka's dietary principles constitute an implicit critique of the globalized food system and resonate with the framework of [[agroecology]], which similarly argues for food systems embedded in ecological and social context. The transportation of food across thousands of miles, the reliance on chemical preservatives and packaging, the industrial processing that strips foods of their natural complexity — all of these represent the same kind of human arrogance and separation from nature that he identified in [[fukuoka-critique-modern-agriculture]]. The modern eater, disconnected from the source of their food, is in the same position as the modern farmer, disconnected from the living processes of the soil.
 
 
 
@@ -70,7 +70,7 @@ For those seeking to follow Fukuoka's dietary principles, the starting point is 
 
 Fukuoka believed that the modern diet — dependent on chemical agriculture, food processing, and global transportation — was a primary cause of the degenerative diseases that afflict industrialized societies. While he did not conduct formal medical research, his observations from decades of farming and eating naturally led him to conclude that food grown in living soil and consumed in its natural state supported not only physical health but also mental clarity and spiritual well-being.
 
-The connection between soil health and human health is a recurring theme in Fukuoka's philosophy. Just as chemical agriculture degrades the soil while appearing to increase yields in the short term, the modern diet degrades human health while appearing to provide adequate nutrition. The deficiency is not in calories or macronutrients but in the full spectrum of trace minerals, beneficial microorganisms, and complex phytochemicals that are present in food grown in healthy, living soil.
+The connection between soil health and human health is a recurring theme in Fukuoka's philosophy and anticipates principles now central to [[regenerative-agriculture]]. Just as chemical agriculture degrades the soil while appearing to increase yields in the short term, the modern diet degrades human health while appearing to provide adequate nutrition. The deficiency is not in calories or macronutrients but in the full spectrum of trace minerals, beneficial microorganisms, and complex phytochemicals that are present in food grown in healthy, living soil.
 
 
 
@@ -84,3 +84,4 @@ The connection between soil health and human health is a recurring theme in Fuku
 - [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+- [[soil-food-web]]

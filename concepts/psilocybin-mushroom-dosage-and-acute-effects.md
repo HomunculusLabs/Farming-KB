@@ -19,7 +19,7 @@ thematic paper on [[hallucinogenic-mushrooms-european-trends]] as an emerging tr
 ## Chemistry and Mechanism of Action
 
 Psilocybin and psilocin are classified as indolealkylamines
-(tryptamines), belonging to the same chemical group as [[lsd]]. They are
+(tryptamines), belonging to the same chemical group as [[lsd]] and the broader [[tryptamine]] family. They are
 structurally similar to the neurotransmitter [[serotonin]] (5-
 hydroxytryptamine or 5-HT). Psilocybin (4-phosphoryloxy-N,N-
 dimethyltryptamine, or 4-PO-DMT) is the phosphate ester of psilocin
@@ -86,7 +86,8 @@ restlessness, incoordination, anxiety, impaired judgement of time or
 distance, sense of unreality, and depersonalisation.
 
 Severe effects: delusions, real hallucinations, panic reactions, and
-psychosis-like states. These may be termed 'bad trips' by users.
+psychosis-like states. These may be termed 'bad trips' by users, and
+are more likely when [[set-and-setting]] conditions are unfavorable.
 
 The 'good trips' are associated with relaxation, mental stimulation,
 new insights (often about time) and perspectives, and quickly changing
@@ -123,8 +124,14 @@ evidence of chronic toxicity, and no irreversible organ damage by
 psilocybin has been reported. However, use is more commonly linked to
 mental health risks, and persons with pre-existing psychological
 conditions or those taking certain medications (particularly for AIDS,
-depression, and psychiatric disorders) face elevated risks.
+depression, and psychiatric disorders) face elevated risks. Proper [[set-and-setting]]
+preparation and [[psychedelic-integration]] practices are increasingly recognized
+as important for reducing adverse outcomes and maximizing therapeutic benefit.
 
 ## See Also
 
 - [[psilocybin-mushroom-potency-and-dosage-guide]]
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
+- [[lsd-set-and-setting-framework]]
+- [[psychedelic-harm-reduction]]

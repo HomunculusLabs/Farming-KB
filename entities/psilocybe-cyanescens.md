@@ -1,103 +1,156 @@
 ---
-title: stamets-psi-psilocybe-cyanescens-species-guide
+title: Psilocybe cyanescens
 type: species
 tags:
+  - fungi
   - psilocybin-mushroom
   - psychedelic
-  - wavy-cap
-  - wood-chip
-  - temperate
+  - entheogen
+  - wood-inhabiting
+  - temperate-climate
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - https://en.wikipedia.org/wiki/Psilocybe_cyanescens
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8794074/
+  - https://pubmed.ncbi.nlm.nih.gov/33749756/
 ---
 
-# [[stamets-psylo-psilocybe-cyanescens]]
+# Psilocybe cyanescens
 
-*Psilocybe cyanescens* — commonly known as the wavy cap or blue halos — is a potent [[psilocybin-mushroom]] and one of
-the most widely distributed members of the *Psilocybe* genus outside of tropical regions. First described by Elsie Maud
-Wakefield in 1946 from specimens collected at Kew Gardens in London, it has since been found across much of the
-temperate Northern Hemisphere, largely as a result of its affinity for anthropogenic wood chip mulch landscapes.
+## Overview
 
-## Taxonomy
+**Psilocybe cyanescens**, commonly known as the wavy-cap or potent psilocybe, is a species of psilocybin-containing mushroom in the family Hymenogastraceae. It is among the most potent of the psychedelic mushrooms, containing up to 1.96% psilocybin and 0.36% psilocin by dry weight. Native to the Pacific Northwest of North America, the species has become widely distributed across temperate regions worldwide through the dispersal of woody mulch and horticultural materials. It is one of the most commonly foraged "magic mushrooms" in urban and suburban environments.
 
-Wakefield's original 1946 description placed the species in the genus *Psilocybe*, noting its distinctive wavy cap
-margin and intense bluing reaction. The epithet *cyanescens* directly references this characteristic blue coloration.
-The species is placed in section *Cyanescens* of the genus, alongside other wood-inhabiting temperate species including
-*P. azurescens* and *P. allenii*. Several taxa previously considered separate species have been synonymized with *P.
-cyanescens*, including *P. mairei* from Europe and various "cyan" forms from North America. Molecular phylogenetic
-studies have confirmed the species' distinctiveness within the genus and its close relationship to other section
-*Cyanescens* members.
+## Taxonomy and Classification
+
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Agaricales
+- **Family:** Hymenogastraceae
+- **Genus:** *Psilocybe*
+- **Species:** *P. cyanescens*
+
+The species was first described by Elsie Wakefield in 1946 from specimens collected at Kew Gardens in London, England—a testament to its capacity for global dispersal through horticultural trade. The specific epithet *cyanescens* refers to the distinctive blue bruising that develops when the flesh is damaged, caused by the oxidation of psilocin.
 
 ## Morphology
 
-The most distinctive field characteristic is the strongly undulating to wavy cap margin that develops as the mushroom
-matures. The pileus is 1.5–5 cm in diameter, hemispheric to convex when young, expanding to broadly convex with a
-markedly wavy and often upturned margin at maturity. The cap surface is smooth, viscid when moist, and hygrophanous,
-ranging from pale caramel-brown to dark reddish-brown when wet, fading to ochraceous or straw-yellow when dry. The
-gills are adnexed to sinuate, subdistant, grayish initially, becoming dark purplish-brown. The stipe is 3–6 cm long
-and 0.3–0.5 cm thick, equal or slightly enlarged at the base, whitish, and bruises intensely blue when handled or
-injured. The partial veil is fragile and often disappears quickly, leaving little to no annulus in mature specimens.
-Spores are ellipsoid to subovoid, 9–12 × 6–8 µm.
+### Cap (Pileus)
+- 1.5–5 cm diameter
+- Convex to broadly umbonate, often with a pronounced central bump
+- Hygrophanous: caramel-brown to ochraceous when moist, fading to pale straw or whitish when dry
+- Surface smooth, sometimes slightly sticky when wet
+- Margin strongly wavy to undulating at maturity—the species' namesake feature
+- Bruises intensely blue where handled or injured
+
+### Gills (Lamellae)
+- Adnate to adnexed attachment
+- Crowded, moderately broad
+- Color progresses from pale gray to dark purplish-brown with spore maturity
+- Bruise blue when damaged
+
+### Stipe (Stem)
+- 3–8 cm long × 2–5 mm thick
+- Cylindrical, slightly enlarged at the base
+- Hollow, fibrous, and flexible
+- White to pale yellow, bruising blue intensely
+- Partial veil often leaving a transient annular zone in young specimens
+
+### Spores
+- 9–12 × 6–8 μm, elliptical to rhomboidal in face view
+- Thick-walled with a distinct germ pore
+- Purplish-brown spore print
 
 ## Distribution and Habitat
 
-*P. cyanescens* has a remarkably wide distribution for a temperate psilocybin mushroom. It occurs naturally in the
-Pacific Northwest of North America and has been introduced throughout much of Europe, parts of New Zealand, and
-scattered locations worldwide. Its expansion is directly linked to human landscaping practices — the species thrives
-in mulched garden beds, park landscaping, and other areas where woody plant material is chipped and spread as ground
-cover. It fruits from a variety of hardwood substrates, with a particular affinity for the wood chips of
-*Rhododendron*, *Acer*, *Alnus*, and *Quercus*. Fruiting occurs in autumn, typically from October through December,
-triggered by cold snaps and rain. The species is gregarious to caespitose, often forming dense clusters.
+*Psilocybe cyanescens* is thought to be native to the Pacific Northwest of North America, where it grows along coastal dune grasses and in riparian zones from British Columbia to California. However, it has achieved a remarkably cosmopolitan distribution through human activity:
 
-## Anthropogenic Distribution
+- **Europe:** Widespread in the UK, Netherlands, Germany, France, and Scandinavia
+- **North America:** Pacific coast, with increasing reports in the Northeast and Mid-Atlantic
+- **Southern Hemisphere:** Established in New Zealand, Australia, and parts of South America
 
-The relationship between *P. cyanescens* and human landscaping practices is one of the most fascinating aspects of the
-species' biology. It appears that the mushroom has been inadvertently transported around the world in commercial wood
-chip mulch, establishing itself wherever suitable substrate and climate conditions coincide. The species is
-particularly successful in the temperate maritime climates of western Europe and the Pacific Northwest, where cool, wet
-autumn conditions provide ideal fruiting triggers. In urban and suburban areas, *P. cyanescens* can be found in
-surprisingly public locations — garden beds, parks, university campuses, and roadside plantings. This anthropogenic
-distribution pattern has made the species the most commonly encountered wild psilocybin mushroom in many temperate
-urban areas, despite being originally native to a relatively small portion of western North America.
+The species is strongly associated with decaying woody debris, particularly:
+- Hardwood chip mulch (especially from alder, birch, and oak)
+- Wood chips in landscaped gardens, parks, and municipal plantings
+- Decomposing logs and stumps in forested areas
+- Occasionally on grass stems and other herbaceous debris
 
-## Chemistry
+Fruiting occurs in autumn to early winter (October–December in the Northern Hemisphere), triggered by the first significant rains and cooling temperatures. It often fruits prolifically after the first frost, with flushes recurring through the wet season.
 
-*P. cyanescens* is among the more potent [[psilocybin-mushrooms]]. Typical concentrations range from 0.5–1.0% psilocybin
-and 0.1–0.5% psilocin by dry weight, with some collections reported as high as 1.3% total alkaloids. [[baeocystin]]
-is present at approximately 0.05–0.3%. The species shows considerable variation in alkaloid content based on
-geographic origin, substrate composition, and age of the fruiting body. European collections from wood chip beds tend
-to be somewhat less potent than Pacific Northwest collections from natural habitats. The alkaloid profile also varies
-with the age of the fruiting body — younger specimens tend to have higher concentrations of psilocybin relative to
-psilocin, while the ratio shifts as the mushroom matures.
+## Psychoactive Constituents
+
+### Psilocybin and Psilocin
+
+*P. cyanescens* is notable for its high concentrations of tryptamine alkaloids:
+
+| Compound | Typical Range (% dry weight) |
+|----------|------------------------------|
+| Psilocybin | 0.5–1.96% |
+| Psilocin | 0.12–0.36% |
+| Baeocystin | 0.01–0.10% |
+
+The exceptionally high psilocybin content makes this one of the most potent psilocybin mushrooms known. A typical recreational dose is 0.5–1.5 g of dried material, compared to 1–2.5 g for *Psilocybe cubensis*.
+
+### Mechanism of Action
+
+Psilocybin is a prodrug that is dephosphorylated to psilocin in the body. Psilocin acts primarily as a 5-HT2A receptor agonist, producing its characteristic psychedelic effects through modulation of serotonergic signaling in the prefrontal cortex. Additional receptor interactions include 5-HT1A, 5-HT2C, and dopamine D2 receptors.
+
+## Effects
+
+The effects of *P. cyanescens* are qualitatively similar to other psilocybin mushrooms but notably more intense at equivalent doses:
+
+- **Onset:** 20–60 minutes after ingestion
+- **Peak:** 2–4 hours
+- **Duration:** 4–8 hours (often longer than *P. cubensis*)
+- **Visual effects:** Enhanced color perception, geometric patterning, synesthesia, and altered perception of objects and faces
+- **Cognitive effects:** Altered thought patterns, ego dissolution, enhanced introspection, and mystical-type experiences
+- **Emotional effects:** Euphoria, anxiety, profound emotional release, and heightened empathy
+- **Somatic effects:** Pupil dilation, increased heart rate, nausea (early phase), and temperature dysregulation
 
 ## Cultivation
 
-Outdoor cultivation is relatively straightforward using hardwood wood chip beds, which closely replicate the species'
-preferred natural environment. Chips of alder, oak, beech, or mixed hardwoods are inoculated with spawn and maintained
-in a shaded, humid location. The species is difficult to fruit reliably indoors due to its requirement for cool
-temperatures (8–15°C for optimal fruiting). Once established, outdoor beds can persist and produce crops for several
-years, often spreading into adjacent mulched areas. The species is considered one of the easiest outdoor psilocybin
-mushrooms to cultivate in temperate climates. Its ability to colonize fresh wood chips rapidly and fruit prolifically
-once established makes it a reliable choice for outdoor cultivation projects.
+*P. cyanescens* is more challenging to cultivate indoors than *P. cubensis* due to its specific environmental requirements:
 
-## Toxic Lookalikes
+- It is a **secondary decomposer** that prefers partially decomposed hardwood rather than sterilized grain
+- Requires a **cold shock** (10–12°C) to initiate fruiting, unlike tropical species
+- Benefits from **outdoor cultivation** on hardwood chip beds, which can produce prolific flushes for several years
 
-*P. cyanescens* grows in the same habitats as several species of *Galerina*, particularly *Galerina marginata*, which
-contains the lethal amatoxins found in death cap mushrooms. Other potential lookalikes include *Inocybe* species and
-certain *Hypholoma* species. The key distinguishing features are the intense blue bruising reaction (absent in
-*Galerina*), the wavy cap margin, and the dark purplish-brown spore print (rusty brown in *Galerina*). Proper
-identification is critical given the potentially fatal consequences of confusion. Foragers should always check spore
-print color, bluing reaction, and microscopic features before consuming any wild mushroom.
+Outdoor beds are established by inoculating soaked hardwood chips with grain spawn or mycelial agar, then allowing colonization through warm months before autumn fruiting. Alder chips are the preferred substrate in the Pacific Northwest. Once established, beds can persist and fruit for 5+ years with minimal maintenance.
 
-## Legal Status and Cultural Impact
+## Legal Status
 
-*P. cyanescens* is controlled in most countries as a psilocybin-containing organism. In the Netherlands, the species
-was historically legal to possess fresh but was banned under the 2008 revision of the mushroom law that followed the
-UK's ban. In the UK, the 2005 Drugs Act specifically listed psilocybin mushrooms as Class A drugs, largely in response
-to the growing popularity of *P. cyanescens* foraging. Despite legal prohibitions, the species remains one of the most
-commonly foraged and consumed wild mushrooms in the Pacific Northwest and parts of Europe, where its abundance in
-public spaces makes enforcement difficult.
+The legal status of *P. cyanescens* varies significantly by jurisdiction:
 
-Related: [[cotter-wood-chip-cultivation-outdoor-beds]]
+- **United States:** Schedule I under the Controlled Substances Act (illegal to possess, cultivate, or distribute)
+- **Netherlands:** Contained mushrooms were banned in 2008, but fresh truffles remain legal
+- **Portugal:** Decriminalized for personal use (not legal, but penalties are administrative)
+- **Oregon (USA):** Legal for therapeutic use under Measure 109 (2020)
+- **Colorado (USA):** Decriminalized under Proposition 122 (2022)
+- **Various jurisdictions:** Increasing movement toward decriminalization and therapeutic legalization
+
+## Research and Therapeutic Potential
+
+Clinical interest in psilocybin-containing mushrooms has expanded dramatically:
+
+- **Treatment-resistant depression:** Multiple Phase II trials show rapid and sustained antidepressant effects from a single psilocybin session
+- **End-of-life anxiety:** Reduction in existential distress in terminal cancer patients
+- **Substance use disorders:** Promising results for alcohol use disorder, nicotine dependence, and cocaine addiction
+- **Cluster headaches:** Anecdotal reports and preliminary studies suggest efficacy in interrupting cluster headache cycles
+
+## Identification and Safety
+
+Critical identification features distinguishing *P. cyanescens* from look-alikes:
+- Wavy cap margin at maturity
+- Intense blue bruising on all parts when damaged
+- Growth on wood chips (not on dung or grass alone)
+- Relatively small size compared to edible species
+
+**Dangerous look-alikes** include species in the genus *Galerina* (particularly *Galerina marginata*), which contains deadly amatoxins. *Galerina* species do NOT bruise blue, have brown spore prints, and typically grow in different substrates. Thorough identification training is essential for wild foraging.
+
+## See Also
+
+- [[Psilocybe-cubensis]] — the most commonly cultivated psilocybin mushroom
+- [[psilocybin]] — the primary psychoactive compound
+- [[psilocybin-assisted-therapy]] — clinical applications of psychedelic mushrooms
+- [[entheogenic-fungi]] — mushrooms used in spiritual and ceremonial contexts

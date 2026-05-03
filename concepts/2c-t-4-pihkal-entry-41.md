@@ -14,7 +14,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 ## Chemical Classification
 
 - Family: [[2c-family-chemistry-and-sar-pihkal]]
-- Sub-family: 2C-T series (thioalkyl-substituted phenethylamines)
+- Sub-family: 2C-T series (thioalkyl-substituted phenethylamines), related to compounds like [[2c-i-compound-profile]] and [[2c-e-compound-profile]]
 - IUPAC: 2,5-dimethoxy-4-(isopropylthio)phenethylamine
 - Molecular Formula: C13H21NO2S (freebase)
 - Note: The isopropyl (branched) rather than n-propyl (linear) isomer
@@ -114,13 +114,13 @@ the body. The drug 2C-T-4 is neither an explosive nor an amino acid.
 
 ## Key Characteristics
 
-- Extremely long duration (12-18 hours) makes planning essential
+- Extremely long duration (12-18 hours) makes planning essential — longer than most [[2c-p-compound-profile]] or [[2c-b-compound-profile]] experiences
 - Unusually wide individual variation in effective dosage
 - Tendency toward extremity numbness/paresthesia at moderate doses
 - Rich visual effects for some, absent for others
 - Gentle onset and gradual decline
 - Cognitive clarity noted by multiple experimenters
-- Dark corners/mood lability possible at higher doses in some individuals
+- Dark corners/mood lability possible at higher doses in some individuals, underscoring the importance of [[psychedelic-harm-reduction]] practices
 
 ## Related Compounds
 
@@ -138,3 +138,5 @@ the body. The drug 2C-T-4 is neither an explosive nor an amino acid.
 [[pihkal-introduction-and-methodology]] by [[alexander-shulgin|Alexander Shulgin]] and [[ann-shulgin|Ann Shulgin]],
 Entry #41
 - [[qualitative-comments-methodology-pihkal]]
+- [[2c-family-compounds-overview]]
+- [[shulgin-rating-scale]]

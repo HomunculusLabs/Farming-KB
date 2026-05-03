@@ -62,8 +62,8 @@ composition.
 
 The late-stage fungi are typically specialized decomposers
 that can utilize the most recalcitrant wood components,
-including highly modified lignin and humic substances.
-These species may dominate for decades as the wood is
+including highly modified lignin and humic substances — processes
+central to [[lignin-degradation]]. These species may dominate for decades as the wood is
 slowly converted to humus. In some cases, late-stage
 fungi are replaced by soil fungi as the wood becomes
 incorporated into the mineral soil horizon.
@@ -78,6 +78,8 @@ Heartwood, with its extractive compounds and modified
 lignin, supports a different fungal community than sapwood.
 Coniferous wood, with its resin acids and phenolic
 compounds, presents different challenges than hardwood.
+This chemical diversity is part of what makes [[fungal-biodiversity]]
+so high in forest ecosystems — different wood types support distinct fungal assemblages.
 The moisture content, nitrogen content, and physical
 structure of the wood also influence fungal colonization.
 
@@ -143,4 +145,13 @@ on the same log for years, with fruiting bodies appearing
 annually or sporadically. The spatial pattern of fungal
 colonization within a single log is often patchy, with
 different species occupying different zones depending on
-moisture, temperature, and wood chemistry gradients.
+moisture, temperature, and wood chemistry gradients. Patterns of [[spore-dispersal]]
+further shape which species colonize available niches during successional transitions.
+
+## See Also
+
+- [[white-rot-fungi]]
+- [[mycelial-networks]]
+- [[fungal-ecology]]
+- [[saprotrophic-fungi]]
+- [[soil-food-web]]
