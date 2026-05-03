@@ -52,7 +52,9 @@ thermophilic microorganisms that can provide some biological protection. Sterili
 allowing for higher supplementation rates.
 
 Hot water pasteurization (immersion in 65-80°C water for 1-2 hours) is common for
-straw-based substrates. Steam pasteurization is used for larger operations with bulk
+straw-based substrates. For detailed approaches see
+[[cotter-oyster-mushroom-cultivation]] and
+[[cultivation-of-oyster-mushrooms]]. Steam pasteurization is used for larger operations with bulk
 substrate processing. Pressure sterilization in autoclavable bags is standard for
 supplemented sawdust blocks. Each method has trade-offs between equipment cost, energy
 input, throughput, and allowable supplementation levels.
@@ -60,7 +62,8 @@ input, throughput, and allowable supplementation levels.
 ## Moisture Content and pH
 
 Optimal substrate moisture content for oyster [[mushroom-cultivation]] ranges from 60-75%,
-depending on the base material. Sawdust substrates favor the lower end (60-65%), while
+depending on the base material. For sawdust-based methods, see
+[[enriched-sawdust-cultivation]]. Sawdust substrates favor the lower end (60-65%), while
 straw can hold more water (68-75%). Excess moisture restricts gas exchange and promotes
 anaerobic conditions; insufficient moisture slows colonization and reduces yield.
 

@@ -108,7 +108,9 @@ substrate. Key principles:
 Mushrooms on uncased substrates draw moisture solely from the substrate.
 These require higher humidity (90-95%) and periodic misting. If the
 surface dries into a dead mycelial mat, rake or scratch to reopen for
-further flushing (common Pleurotus technique).
+further flushing (common Pleurotus technique). See
+[[casing-layer-principles]] for detailed guidance on casing layer
+function and management during cropping.
 
 ### Panning and Watering Between Flushes
 
@@ -144,6 +146,8 @@ pins are visible.
 - Water 2-4 times per day rather than once for slow absorption.
 - Pick before veil tears; spore release inhibits further pinning.
 - Twist-pull harvesting minimizes damage to neighboring pins.
+- Total crop yield is measured as
+[[biological-efficiency-mushroom-cultivation]].
 
 ## See Also
 - [[mushroom-pinning-primordia-formation-strategies]]

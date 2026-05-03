@@ -24,7 +24,9 @@ confounding factors from soil matrices or competing microorganisms.
 
 The essential role of AMF in phosphorus uptake and transfer to host plants
 was first convincingly demonstrated in the late 1960s and early 1970s using
-bi-compartmented pot culture systems with isotopic tracers. Studies by
+bi-compartmented pot culture systems with isotopic tracers. The broader
+context of AM biology is covered in
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. Studies by
 Hattingh et al. (1973), Pearson and Tinker (1975), Rhodes and Gerdemann
 (1975), and Cooper and Tinker (1978, 1981) established that AM fungi actively
 transport phosphorus from soil to plants through their hyphal networks. These
@@ -96,7 +98,9 @@ physiological context of the [[arbuscular-mycorrhizal-fungi-biology-symbiosis]].
 Compartmented in vitro systems enable research on:
 
   - **Phosphorus uptake kinetics**: Quantifying P uptake by ERM and transfer
-    rates to host plants using isotopic tracers
+    rates to host plants using isotopic tracers — see
+    [[fungal-role-in-phosphorus-cycling]] and
+    [[isotopic-tracers-mycorrhizal-research]] for methodology
   - **Metal transport**: Studying uptake and translocation of heavy metals
     and micronutrients by AMF hyphae
   - **Carbon allocation**: Tracking photosynthate flow from host to fungus
@@ -115,6 +119,8 @@ The sterile, defined environment of in vitro systems provides:
   - Direct visualisation of fungal and root development
   - Precise recovery of both roots and extraradical mycelium for analysis
   - Reproducibility essential for physiological and molecular studies
+  - Compatibility with
+[[arbuscular-mycorrhizal-fungal-diversity]] surveys
 
 These systems have been instrumental in advancing our understanding of the
 [[mycorrhizal-compartmented-culture-systems]] and continue to be essential

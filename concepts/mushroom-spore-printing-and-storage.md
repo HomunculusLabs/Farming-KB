@@ -28,6 +28,10 @@ Spore collection is the foundation of mushroom cultivation — every grow begins
 
 ## Spore Print Technique
 
+Proper sterile handling is essential when collecting spores for cultivation.
+See [[mushroom-sterile-technique]] for comprehensive sterile procedure
+guidelines, and [[agar-culture-techniques-detailed]] for agar work methods.
+
 ### Basic Field Print (for identification)
 1. Select a mature mushroom with intact gills/pores
 2. Cut stem close to cap with a clean knife
@@ -94,6 +98,9 @@ Dehydrated spores germinate poorly. Soaking improves viability:
 
 ## Agar Inoculation from Spores
 
+The foundational guide for working with agar is
+[[agar-culture-techniques-detailed]].
+
 1. Sterilize inoculating loop or scalpel over alcohol lamp flame until red hot (5–10 seconds)
 2. Cool tip by inserting into sterile agar media
 3. Scrape some spores off the print and streak across the agar surface
@@ -103,6 +110,9 @@ Dehydrated spores germinate poorly. Soaking improves viability:
 See [[mushroom-sterile-technique-detailed]] for full agar work procedures.
 
 ## Long-Term Spore Storage
+
+For related substrate and growing methods, see
+[[pf-tek]].
 
 ### Viability Timeline
 - **Fresh spores**: Highest germination rate, massive and quick (PF Tek)
