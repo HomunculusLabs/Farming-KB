@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2207 pages**
+**2208 pages**
 
 ## #
 
@@ -278,6 +278,7 @@
 - [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 - [[candida-albicans-molecular-epidemiology]]
+- [[cannabis-rhizosphere-microbiome]]
 - [[cantharellus-tubaeformis]]
 - [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]
 - [[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]

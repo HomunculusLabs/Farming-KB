@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**809 pages**
+**811 pages**
 
 ## A
 
@@ -194,6 +194,7 @@
 - [[fukuoka-indian-agriculture-observations]]
 - [[fukuoka-innocence-of-children]]
 - [[fukuoka-insects-create-new-rice-varieties]]
+- [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]
 - [[fukuoka-italian-agriculture-observations]]
 - [[fukuoka-japan-postwar-agriculture]]
 - [[fukuoka-japanese-cooking-culture-disappearing]]
@@ -210,6 +211,7 @@
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-mandarin-orange-citrus]]
 - [[fukuoka-medfly-quarantine]]
+- [[fukuoka-monoculture-meat-based-agricultural-system]]
 - [[fukuoka-mountain-soil-restoration]]
 - [[fukuoka-mu-economics]]
 - [[fukuoka-mu-economics-and-value-of-nothing-essay]]

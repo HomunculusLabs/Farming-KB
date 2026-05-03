@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1160 pages**
+**1166 pages**
 
 ## #
 
@@ -262,6 +262,7 @@
 - [[black-locust-entity]]
 - [[blastomyces-dermatitidis]]
 - [[blue-dream]]
+- [[blue-dream-cannabis]]
 - [[blumeria-graminis]]
 - [[bob-entity]]
 - [[bob-entity-pihkal]]
@@ -291,6 +292,7 @@
 ## C
 
 - [[calcarisporium-arbuscula]]
+- [[calendula-officinalis]]
 - [[candida-albicans]]
 - [[cannabichromene-cbc]]
 - [[cannabidiol-cbd]]
@@ -520,6 +522,7 @@
 - [[glomus-versiforme]]
 - [[gonatobotryum-fuscum]]
 - [[gordon-wasson]]
+- [[gorilla-glue]]
 - [[graham-burnett]]
 - [[gramine]]
 - [[greg-green]]
@@ -784,6 +787,7 @@
 - [[mme-entity-pihkal]]
 - [[monacrosporium-haptotylum]]
 - [[morchella-angusticeps]]
+- [[morchella-elata]]
 - [[morchella-esculenta]]
 - [[mordecai-cooke]]
 - [[moringa]]
@@ -834,6 +838,7 @@
 ## O
 
 - [[octavia-e-butler]]
+- [[og-kush]]
 - [[oidiodendron-maius]]
 - [[ophiostoma-minus]]
 - [[oriental-herbal-nutrient]]
@@ -1084,6 +1089,7 @@
 - [[sajeev-john]]
 - [[salix-alba]]
 - [[salvia-divinorum]]
+- [[salvinorin-a]]
 - [[sandoz-pharmaceuticals]]
 - [[sapodilla-entity]]
 - [[sarah-c-watkinson]]

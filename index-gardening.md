@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**819 pages**
+**824 pages**
 
 ## A
 
@@ -657,6 +657,11 @@
 - [[pruning-fruit-trees]]
 - [[pruning-fruit-trees-and-bushes]]
 - [[pruning-techniques-organic]]
+- [[psilocybe-cubensis-miniculture-on-rye-grain]]
+- [[purdue-four-step-garden-fertilization-program]]
+- [[purdue-garden-planning-and-layout]]
+- [[purdue-vegetable-harvest-and-storage-guide]]
+- [[purdue-vegetable-planting-reference-table]]
 
 ## Q
 

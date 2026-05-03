@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**373 pages**
+**375 pages**
 
 ## A
 
@@ -19,6 +19,7 @@
 - [[aact-troubleshooting-ingham]]
 - [[acid-and-alkaline-soil-management]]
 - [[actinomycetes-soil-biology]]
+- [[actively-aerated-compost-tea]]
 - [[alkaline-soil-plants]]
 - [[animal-manure-guide]]
 - [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
@@ -328,6 +329,7 @@
 - [[potassium-role-in-plants]]
 - [[protozoa-in-soil]]
 - [[protozoa-roles-in-soil]]
+- [[purdue-nitrogen-side-dressing-schedule]]
 
 ## R
 

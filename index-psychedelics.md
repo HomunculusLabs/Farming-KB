@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**948 pages**
+**953 pages**
 
 ## #
 
@@ -72,6 +72,7 @@
 - [[ayahuasca-additive-plants-and-dmt-synergy]]
 - [[ayahuasca-botany-and-preparation]]
 - [[ayahuasca-brewing-guide]]
+- [[ayahuasca-interactions-with-prescription-medications]]
 - [[ayahuasca-pharmacology]]
 - [[ayahuasca-preparation]]
 - [[ayahuasca-preparation-and-ceremony]]
@@ -219,6 +220,7 @@
 - [[entheogenic-eleusis-theory-scholarly-reception]]
 - [[entheogenic-knowledge-secret-societies]]
 - [[entheogenic-symbiosis-and-gaian-mind]]
+- [[entheogenic-syncretic-churches-brazil]]
 - [[entheogens-and-cultural-evolution]]
 - [[entheogens-in-ancient-cultures]]
 - [[essential-amphetamines-and-natural-precursors]]
@@ -731,6 +733,7 @@
 - [[psilocybin-biosynthesis-pathway]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
 - [[psilocybin-bluing-reaction]]
+- [[psilocybin-chemical-synthesis]]
 - [[psilocybin-chemistry-pharmacology]]
 - [[psilocybin-clinical-research-history]]
 - [[psilocybin-clinical-trials]]
@@ -840,6 +843,7 @@
 ## S
 
 - [[sachamama-the-mother-of-the-forest]]
+- [[sacramental-ayahuasca-legal-battles-united-states]]
 - [[sacramental-psychedelic-legal-protections]]
 - [[sacramental-use-of-psychedelic-plants-in-us]]
 - [[sacred-brewing-traditions]]
@@ -951,6 +955,7 @@
 - [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
 - [[tryptamine-consciousness-theory]]
 - [[tryptamine-family-overview]]
+- [[tryptamine-hallucinogens-and-consciousness]]
 - [[tryptamine-receptor-pharmacology]]
 - [[tryptamines-and-quantum-mechanics]]
 - [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
