@@ -14,6 +14,8 @@ Updated: 2026-04-18
 
 Steve Solomon argues that a well-designed vegetable garden can provide a significant portion of a family's nutritional needs, but that nutritional quality depends on soil mineral balance, variety selection, and growing methods. The decline in vegetable nutrition since 1870 is a central concern.
 
+
+
 ## The Decline of Vegetable Nutrition
 
 Solomon, drawing on the work of biophysicist Dr. Alan Kapuler, explains why modern vegetables are less nutritious than historical varieties:
@@ -24,6 +26,8 @@ Solomon, drawing on the work of biophysicist Dr. Alan Kapuler, explains why mode
 - After about 1870, the industrial revolution ended subsistence farming in Europe and North America. Farmers began selecting varieties for marketability (appearance, shipping quality, uniformity) rather than nutritional quality.
 - Modern hybrids and modern OP varieties bred after 1870 are generally not as nutritious as pre-industrial varieties.
 - Much of what passes for "heirloom" varieties today is actually degraded commercial seed that has been misnamed by unethical growers.
+
+
 
 ## Key Nutritional Principles
 
@@ -47,6 +51,8 @@ A vegetable garden alone cannot provide complete nutrition. Solomon recommends:
 - Supplementing with animal protein or carefully selected plant protein sources.
 - Using complete organic fertilizer (COF) to ensure mineral balance in all crops.
 
+
+
 ## Soil Mineral Balance and Nutrition
 
 The connection between soil minerals and plant nutrition is fundamental:
@@ -56,6 +62,8 @@ The connection between soil minerals and plant nutrition is fundamental:
 - Compost alone is insufficient -- it provides organic matter and some nutrients but not reliable mineral balance.
 - Albrecht's work on soil mineral balance is referenced as foundational to understanding this connection.
 
+
+
 ## Practical Dietary Strategy from the Garden
 
 1. Plant calorie crops as your largest category (potatoes, corn, beans, squash).
@@ -64,6 +72,8 @@ The connection between soil minerals and plant nutrition is fundamental:
 4. Grow alliums for flavor and health benefits (onions, garlic, leeks).
 5. Include legumes for protein (beans, peas).
 6. Supplement garden produce with stored grains, dairy, or other protein sources.
+
+
 
 ## Related Concepts
 

@@ -26,9 +26,21 @@ sources:
 
 John Marco Allegro (1923-1988) was an English philologist, Dead Sea Scrolls scholar, and controversial author best known for *The Sacred Mushroom and the Cross* (1970), which argued that Christianity originated in an ancient fertility cult centered on the use of Amanita muscaria mushrooms.
 
+
+
+
+
+
+
 ## Biography
 
 Allegro was one of the original team of scholars assigned to edit and publish the Dead Sea Scrolls discovered at Qumran in 1947, joining the project in 1953. His was among the first published interpretations of the scrolls. He held academic positions at the University of Manchester and was a respected Semitic philologist before publishing his controversial mushroom thesis.
+
+
+
+
+
+
 
 ## *The Sacred Mushroom and the Cross* (1970)
 
@@ -51,12 +63,24 @@ Allegro used Sumerian philology (the oldest written language, c. 3500 BC) to tra
 - Wrongfully classified Rue as an abortifacient, not recognizing Acacia and Rue as an ayahuasca analogue
 - Wrongfully assumed mushrooms (rather than institutional religion) were the cause of shamanic protest against suppression
 
+
+
+
+
+
+
 ## Scholarly Reception
 
 - **Universal condemnation** by theologians upon publication; publisher (Doubleday) withdrew the book
 - **Subsequent philological work** has confirmed some linguistic observations while rejecting broader conclusions
 - **Modern reassessment** is mixed: the pirated edition claims "philology today knows he was right" (citing Piotr Michalowski in the Cambridge Encyclopedia), though this is contested
 - **Legacy:** Acknowledged as a pioneer in ethnomycology who founded ideas still used by researchers (often without credit)
+
+
+
+
+
+
 
 ## Relevance to the Wiki
 

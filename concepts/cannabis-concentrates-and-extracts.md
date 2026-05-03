@@ -10,9 +10,17 @@ sources:
 
 # Cannabis Concentrates and Extracts
 
+
+
+
+
 ## Overview
 
 Cannabis concentrates are products made by extracting and concentrating the active compounds -- cannabinoids and terpenes -- from the cannabis plant. They represent a spectrum from simple mechanical separation to sophisticated chemical extraction. Throughout S.T. Oner's Cannabis Sativa Vol. 3, the production of hash and other concentrates is a recurring theme, with many strains recommended specifically for their hash-making potential.
+
+
+
+
 
 ## Types of Concentrates
 
@@ -49,13 +57,25 @@ Cannabis distillate is a highly refined product that has been purified through s
 
 Cannabis tinctures are liquid extracts made by steeping cannabis in alcohol (typically food-grade ethanol). They are administered sublingually (under the tongue) using a dropper. Tinctures were among the earliest pharmaceutical cannabis preparations, sold as patent medicines in the 19th and early 20th centuries.
 
+
+
+
+
 ## Strain Selection for Concentrates
 
 Oner's guide repeatedly identifies strains suitable for concentrate production based on trichome density and resin production. Strains noted for hash-making potential include those with "heavy trichome production," "resinous" buds, and "sugary crystals." The quality of the starting material is the primary determinant of concentrate quality.
 
+
+
+
+
 ## Related Concepts
 
 - [[cannabis-terpene-profiles]] -- the aromatic compounds concentrated in extracts
+
+
+
+
 
 ## See Also
 

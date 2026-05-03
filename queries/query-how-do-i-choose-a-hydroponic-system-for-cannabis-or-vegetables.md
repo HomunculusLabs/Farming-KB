@@ -82,7 +82,7 @@ Choose it when you want scalability and are willing to inspect lines and runoff 
 Aquaponics uses fish waste and microbial conversion to feed plants.
 The comparison [[comparison-aquaponics-vs-cannabis-hydroponic-systems]] is useful because aquaponics behaves differently from salt-based hydroponics.
 It can be elegant and productive, but it requires keeping fish, microbes, and plants in balance at the same time.
-The broader page [[hydroponics-and-soilless-cultivation]] helps place aquaponics among other soilless methods.
+The broader page [[hydroponic-growing-basics]] helps place aquaponics among other soilless methods.
 Hybrid systems may combine recirculating nutrients with biological filtration, inoculants, or organic inputs.
 These systems can work well, but they reduce the simplicity that makes standard hydroponics attractive.
 Beginners usually learn faster with one clean, well-understood method before combining systems.

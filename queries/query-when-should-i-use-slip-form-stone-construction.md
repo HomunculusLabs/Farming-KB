@@ -86,7 +86,7 @@ Choose the method that fits land, climate, code, budget, and builder capacity.
 ## See Also
 - [[slip-form-stone-construction]]
 - [[slip-form-stone-vs-cordwood-construction]]
-- [[natural-building-techniques]]
+- [[natural-building-overview]]
 - [[cordwood-construction]]
 - [[earthbag-construction]]
 - [[cob-building]]

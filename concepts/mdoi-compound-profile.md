@@ -9,11 +9,17 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 # MDOI Compound Profile
 
+
+
+
 ## Chemical Identity
 
 **MDOI**: 3,4-Methylenedioxyoxyamphetamin e, also known as 2,5-dimethoxy-3,4-methylenedioxyamphetamine. The compound carries both methoxy groups and a methylenedioxy bridge on the amphetamine ring, making it a hybrid of the DO and MD chemical families.
 
 Molecular formula: C12H17NO4
+
+
+
 
 ## Dosage
 
@@ -22,9 +28,15 @@ Molecular formula: C12H17NO4
 - **Common:** 25-40 mg
 - **Strong:** 40-60 mg
 
+
+
+
 ## Duration
 
 Effective duration: 8-12 hours.
+
+
+
 
 ## Qualitative Effects
 
@@ -35,13 +47,22 @@ Shulgin's qualitative notes describe MDOI as a compound with moderate psychedeli
 - A generally clear-headed experience
 - Extended duration typical of alpha-methylated compounds
 
+
+
+
 ## SAR Context
 
 MDOI is an example of Shulgin's systematic exploration of substitution patterns. By combining the 2,5-dimethoxy pattern (found in the DO family) with the 3,4-methylenedioxy pattern (found in the MD family), the compound tests whether these two productive pharmacophores can coexist and produce novel activity. The results suggest moderate activity but no dramatic synergy between the two patterns.
 
+
+
+
 ## Pharmacology
 
 As a ring-substituted amphetamine, MDOI likely acts as a serotonin receptor agonist (particularly 5-HT2A) and as a monoamine releaser. The combination of methoxy and methylenedioxy substituents creates a more complex receptor interaction profile than either pattern alone. See [[phenethylamine-receptor-pharmacology]].
+
+
+
 
 ## Comparison to Related Compounds
 
@@ -49,13 +70,22 @@ As a ring-substituted amphetamine, MDOI likely acts as a serotonin receptor agon
 - **DOB** ([[dob-compound-profile]]): DOB has a bromine rather than a methylenedioxy bridge, producing more potent and longer-lasting effects
 - **MDMA** ([[mdma-in-pihkal-context]]): MDOI lacks MDMA's N-methyl group and has different ring substitution, producing a more psychedelic and less empathogenic profile
 
+
+
+
 ## Shulgin's Commentary
 
 In PiHKAL, Shulgin assigned MDOI a qualitative rating reflecting its position as a compound of moderate interest. The combination of substitution patterns was intellectually satisfying from a structure-activity perspective, but the pharmacological results did not exceed the activity of either parent pattern alone. MDOI illustrates an important SAR principle: adding more pharmacophores to a molecule does not necessarily produce additive or synergistic effects — steric hindrance, electronic interference between substituents, and changes in molecular conformation can all reduce the effective binding affinity at target receptors.
 
+
+
+
 ## Legal Status
 
 As a ring-substituted amphetamine with both methoxy and methylenedioxy groups, MDOI is likely controlled in most jurisdictions under analogue acts or as a named substance. In the United States, the Federal Analogue Act would likely classify it as a Schedule I controlled substance analogue of MDA. Many countries with phenethylamine-specific scheduling would also control this compound.
+
+
+
 
 ## Harm Reduction
 

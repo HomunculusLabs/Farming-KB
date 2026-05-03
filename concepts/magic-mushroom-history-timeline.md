@@ -19,9 +19,13 @@ sources:
 
 A chronological overview of key events in the cultural and scientific history of psychoactive mushrooms.
 
+
+
 ## Pre-Columbian Era
 
 Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs called them *teonanacatl*, meaning "flesh of the gods" or "divine mushroom." Stone carvings from Guatemala dating to approximately 1000 BCE depict mushroom-shaped figures, and mushroom stones have been found throughout highland Mesoamerica. The Mazatec, Mixtec, Nahuatl, Zapotec, and other indigenous peoples of Oaxaca maintained unbroken traditions of mushroom use into the 20th century.
+
+
 
 ## 1915-1938: Early Scholarly Interest
 
@@ -29,6 +33,8 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 - **1916**: Jean Bassett Johnson, led by Roberto Weitlaner, became the first outsiders to witness an indigenous mushroom curing ceremony in Huautla de Jimenez, Oaxaca. Johnson reported that a curandero, under the influence of the mushroom, divined the patient's illness.
 - **1936**: Blas Pablo Reko published material suggesting teonanacatl was indeed a mushroom. [[richard-evans-schultes]] traveled to Oaxaca and collected specimens of *[[panaeolus-campanulatus]]*, identifying them (incorrectly, as it turned out) as the ceremonial mushroom.
 - **1938**: Schultes published a paper in the *American Anthropologist* identifying teonanacatl as a mushroom and effectively ending the peyote hypothesis.
+
+
 
 ## 1952-1958: The Wasson Expeditions and Hofmann's Discovery
 
@@ -39,6 +45,8 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 - **1956**: Roger Heim, Professor of Mycology at the Musee National d'Histoire Naturelle in Paris, accompanied Wasson to Mexico to classify the hallucinogenic mushroom species.
 - **1958**: Albert [[lsd-discovery-and-history|Hofmann]], whom Heim had approached to identify the active ingredients, succeeded in isolating and synthesizing **psilocybin** and **psilocin** from the Mexican mushroom specimens at Sandoz Laboratories in Basel. Sandoz began distributing psilocybin under the brand name Indocybin to researchers worldwide.
 
+
+
 ## 1960-1966: Leary, Harvard, and the Counterculture
 
 - **1960**: Timothy Leary, a Harvard psychology professor, traveled to Cuernavaca, Mexico and consumed psilocybin mushrooms. He later described the experience as the most profound of his life. Returning to Harvard, he and Richard Alpert began the Harvard Psilocybin Project, administering psilocybin to volunteers including graduate students, prisoners, and theologians.
@@ -47,6 +55,8 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 - **1963**: The last Sandoz patents for LSD production expired, removing barriers to illegal manufacture.
 - **1964-1966**: LSD and psychedelic publicity reached its peak. A "veritable LSD hysteria" gripped the media, with reports of both ecstatic experiences and horror trips. The hippie movement and psychedelic drug use became intertwined.
 
+
+
 ## 1966-1971: Criminalization
 
 - **1966**: Sandoz ceased distribution of LSD and psilocybin to researchers on August 23, 1965, and by 1966 had halted all supply.
@@ -54,6 +64,8 @@ Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs c
 - **1968**: The UK passed the Dangerous Drugs Act, placing psilocybin and psilocin in Class A, making possession of magic mushrooms illegal.
 - **1970**: The US Controlled Substances Act placed psilocybin and psilocin in Schedule I, declaring them to have no accepted medical use and high potential for abuse.
 - **1971**: The United Nations Convention on Psychotropic Substances was adopted in Vienna, scheduling psilocybin internationally and requiring signatory nations to control it.
+
+
 
 ## 1970s: The Mushroom Spreads
 
@@ -65,6 +77,8 @@ Despite criminalization, psilocybin mushrooms became widely known and used in th
 - The book *Hallucinogens and Shamanism* (1973), edited by Michael Harner, was published by Oxford University Press.
 - Carlos Castaneda's *The Teachings of Don Juan* (1968) became a massive bestseller, popularizing the idea of psychedelic shamanism.
 - The 1967 San Francisco conference on ethnopharmacologic search for psychoactive drugs and subsequent publications kept psychedelic research visible in academic circles.
+
+
 
 ## Late 20th Century to Present
 

@@ -11,6 +11,10 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 Sheet composting (also called in-situ composting or composting in place) decomposes organic materials directly on the garden bed where they will be used, rather than in a separate pile. This saves labor, retains nutrients on-site, and builds soil structure without transport.
 
+
+
+
+
 ## Methods
 
 ### Autumn Sheet Composting
@@ -36,6 +40,10 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 4. The roots decompose in place, improving soil structure
 5. The surface material suppresses weeds and retains moisture
 
+
+
+
+
 ## Materials Suitable for Sheet Composting
 - Chopped leaves (best if shredded by mower)
 - Grass clippings (thin layers to avoid matting)
@@ -46,6 +54,10 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 - Newspaper (plain black and white only)
 - Cardboard (remove tape and staples)
 
+
+
+
+
 ## Advantages Over Traditional Composting
 - No turning required — soil organisms do the work
 - Nutrients stay in place (no leaching from compost pile)
@@ -53,11 +65,19 @@ Sheet composting (also called in-situ composting or composting in place) decompo
 - Suppresses weeds during decomposition
 - Can cover large areas with minimal labor
 
+
+
+
+
 ## Disadvantages
 - Slower decomposition (cold process, 3-12 months depending on materials)
 - May attract pests if food scraps are exposed
 - Large pieces decompose very slowly — chop everything small
 - Nitrogen tie-up: fresh materials can temporarily lock up nitrogen
+
+
+
+
 
 ## Related
 - [[compost-building-guide]] — for traditional hot composting

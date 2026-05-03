@@ -125,3 +125,6 @@ Future advances will likely combine better enzymes with better delivery systems.
 They will also require transparent public governance.
 A precise molecular tool is not automatically a wise social technology.
 Its value depends on how carefully it is used.
+- [[holmgren-genetic-engineering-and-evolution]]
+- [[fungal-genetics]]
+- [[synthetic-data-generation]]

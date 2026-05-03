@@ -10,11 +10,15 @@ sources: []
 
 Biosurfactants are surface-active compounds produced by microorganisms that reduce surface tension and interfacial tension between immiscible phases. In bioremediation, biosurfactants play a critical role in increasing the bioavailability of hydrophobic organic contaminants by emulsifying and solubilizing them in aqueous environments. Their biological origin makes them biodegradable and generally less toxic than synthetic surfactants, offering advantages for environmental applications.
 
+
+
 ## Types of Biosurfactants
 
 Biosurfactants are classified by their chemical structure into several categories. Glycolipids, including rhamnolipids produced by Pseudomonas species and trehalolipids produced by Rhodococcus species, are among the most studied biosurfactants for environmental applications. Lipopeptides, such as surfactin from Bacillus subtilis, combine lipid and peptide moieties. Phospholipids and fatty acids serve as biosurfactants in many yeast and fungal systems.
 
 The chemical nature of biosurfactants produced by yeasts appears to be predominantly that of glycolipids. These compounds play an important role in petroleum degradation by increasing the available surface area of the hydrocarbon phase for uptake and transport by microorganisms. The diversity of biosurfactant structures reflects the diversity of microorganisms that produce them and the range of environmental conditions under which they function.
+
+
 
 ## Fungal Surfactant Production
 
@@ -26,6 +30,8 @@ Several fungal species produce biosurfactants with applications in bioremediatio
 
 The ability of fungi to produce biosurfactants while simultaneously degrading hydrocarbons creates a self-reinforcing cycle: biosurfactant production increases hydrocarbon bioavailability, which in turn supports fungal growth and further biosurfactant production. This autocatalytic effect can significantly accelerate the bioremediation of hydrophobic contaminants in soil and water systems, giving fungi a distinct advantage in petroleum-contaminated environments.
 
+
+
 ## Mechanisms of Action
 
 Biosurfactants enhance contaminant bioavailability through several mechanisms. When the aqueous surfactant concentration exceeds the critical micelle concentration (CMC), surfactant molecules self-assemble into micelles that can solubilize hydrophobic compounds within their hydrophobic cores. This micellar solubilization effectively increases the apparent aqueous solubility of hydrophobic contaminants, making them more accessible to degrading microorganisms.
@@ -33,6 +39,8 @@ Biosurfactants enhance contaminant bioavailability through several mechanisms. W
 In addition to micellar solubilization, biosurfactants reduce the interfacial tension between water and non-aqueous phase liquids (NAPLs), promoting the dispersion of oil droplets and increasing the surface area available for microbial colonization. Biosurfactants can also facilitate contaminant desorption from soil particles by competing for sorption sites and by reducing the adhesion of hydrophobic compounds to soil organic matter.
 
 The biodegradation of contaminants in the presence of surfactants can be modeled using the Monod equation, where surfactant concentration affects both the maximum degradation rate and the half-saturation constant. However, some surfactants at high concentrations can inhibit microbial activity or be preferentially metabolized over the target contaminant, requiring careful optimization of surfactant type and concentration.
+
+
 
 ## Role in Petroleum Hydrocarbon Degradation
 
@@ -42,17 +50,23 @@ Dispersants have demonstrated positive effects on rates of hydrocarbon degradati
 
 Nutrient availability influences both biosurfactant production and hydrocarbon degradation. Low nitrogen levels and low pH favor fungal development, and fungi can produce biosurfactants under these conditions where bacteria are less competitive. The degradation efficiency of petroleum hydrocarbons can be further enhanced using chemical dispersants as supplements along with nutrient sources such as malt extract. Penicillium simplicissimum YP demonstrates enhanced degradation when Plysurf A210G dispersant is supplemented with a high concentration (0.3%) of malt extract.
 
+
+
 ## Application in Soil Washing
 
 Biosurfactants are increasingly used as alternatives to synthetic surfactants in soil washing applications for contaminated soil remediation. An integrated bioremediation process linking surfactant washing of PCBs from soils, followed by bacterial aerobic degradation, has shown significant potential. The surfactant-based approach mobilizes contaminants from soil, and the resulting surfactant-contaminant mixture can be treated biologically.
 
 Novel biosurfactants have been studied for their effects on biodegradation processes in contaminated soils. The effects of biosurfactants on the biodegradation of PAHs and other recalcitrant compounds have demonstrated that biosurfactant-enhanced treatment can significantly improve contaminant removal compared to water flushing alone. Biosurfactants offer the additional advantage of being biodegradable, so residual surfactant does not persist in treated soil.
 
+
+
 ## Advantages Over Synthetic Surfactants
 
 Biosurfactants offer several advantages over synthetic surfactants for bioremediation applications. They are biodegradable, reducing the risk of persistent secondary contamination. They are generally less toxic to microorganisms, plants, and animals. They are effective at lower concentrations than many synthetic alternatives. They can be produced from renewable substrates, including waste materials.
 
 The environmental compatibility of biosurfactants is particularly important when they are applied to sensitive ecosystems such as wetlands, shorelines, and agricultural soils. Some synthetic surfactants can be toxic to indigenous microorganisms at the concentrations needed for effective contaminant mobilization, inadvertently inhibiting the very biodegradation processes they are intended to enhance. Biosurfactants avoid this counterproductive effect, as noted in the Singh mycoremediation reference regarding the inhibitory effects of certain dispersants on yeasts and fungi.
+
+
 
 ## Challenges and Future Directions
 
@@ -63,6 +77,8 @@ The economic viability of biosurfactant use in bioremediation depends on achievi
 Research directions include the development of biosurfactant-producing microbial formulations tailored for specific contaminants and environmental conditions, the use of waste substrates for cost-effective biosurfactant production, and the combination of biosurfactant treatment with other remediation technologies in integrated treatment trains. Genetic engineering approaches may enable the development of microorganisms with enhanced biosurfactant production capabilities, leveraging advances in fungal genetic tools for improved bioremediation outcomes.
 
 The integration of biosurfactant-producing fungi with other bioremediation strategies, such as [[bioaugmentation-strategies]] and [[biostimulation-techniques]], represents a promising approach for treating mixed contamination at field scale. Future research should focus on optimizing biosurfactant production under in situ conditions and developing delivery methods that maximize contact between biosurfactants and target contaminants in heterogeneous subsurface environments.
+
+
 
 ## See Also
 

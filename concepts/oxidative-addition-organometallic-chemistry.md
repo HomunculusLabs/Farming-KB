@@ -10,7 +10,7 @@ sources: []
 ## Overview
 
 Oxidative addition is an elementary organometallic reaction in which a metal complex inserts into a covalent bond and formally increases
-both its oxidation state and coordination number. It is paired with [[reductive-elimination]] as one of the defining transformations of
+both its oxidation state and coordination number. It is paired with reductive elimination as one of the defining transformations of
 transition-metal catalysis.
 
 A simple representation is M + X-Y to X-M-Y, where the metal gains two ligands and is oxidized by two units in the formal electron-counting
@@ -130,8 +130,8 @@ even when oxidative addition occurs. Mechanistic studies therefore track every s
 
 ## Related Concepts
 
-Oxidative addition links [[organometallic-chemistry]], [[coordination-chemistry]], [[cross-coupling-catalysis]], [[c-h-activation]],
-[[ligand-field-theory]], and [[redox-chemistry]]. It is one of the clearest places where inorganic electron counting directly informs
+Oxidative addition links organometallic chemistry, coordination chemistry, cross coupling catalysis, c h activation,
+ligand field theory, and [[glutathione-biochemistry-and-redox-biology]]. It is one of the clearest places where inorganic electron counting directly informs
 organic synthesis.
 
 Its conceptual partner is reductive elimination. Together they create a reversible gate for moving fragments between organic molecules and
@@ -144,3 +144,6 @@ metal centers, enabling catalytic bond formation under conditions that would be 
 - Miessler, Fischer, and Tarr. Inorganic Chemistry.
 - Wikipedia: Oxidative addition and Organometallic chemistry, consulted for
 orientation during mining.
+- [[photoredox-catalysis]]
+- [[phase-transfer-catalysis]]
+- [[fenton-reaction-chemistry-and-biochemistry]]

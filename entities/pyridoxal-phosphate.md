@@ -132,3 +132,8 @@ The concept page [[pyridoxal-phosphate-coenzyme-chemistry]] explains PLP as an e
 The entity [[pyridoxamine-phosphate]] is the aminated partner formed during transamination.
 PLP connects vitamin nutrition to enzyme mechanism, amino acid metabolism, and neurochemistry.
 It is an entity because it is a specific compound with a defined structure, identifiers, and biochemical role.
+
+## See Also
+
+- [[enzyme-kinetics-michaelis-menten-model]]
+- [[catalytic-triad-enzyme-mechanism]]

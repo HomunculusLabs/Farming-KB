@@ -27,9 +27,15 @@ sources:
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 
+
+
+
 ## Overview
 
 Elaine Ingham (born 1951) is an American soil microbiologist, researcher, and educator who is widely recognized as the leading voice on the **soil food web** — the complex community of bacteria, fungi, protozoa, nematodes, and microarthropods that drives soil fertility and plant health. Her work has transformed how farmers, gardeners, and land managers understand soil biology.
+
+
+
 
 ## Key Contributions
 
@@ -40,11 +46,17 @@ Elaine Ingham (born 1951) is an American soil microbiologist, researcher, and ed
 - **Compost quality standards:** Developed protocols for assessing compost quality based on microbial diversity and activity, not just NPK.
 - **Critique of synthetic agriculture:** Has been a vocal critic of synthetic fertilizers and pesticides, arguing they destroy soil biology and create dependency.
 
+
+
+
 ## Major Works
 
 - **"The Compost Tea Brewing Manual"** (2005, various editions) — Standard reference for AACT brewing.
 - **"The Soil Food Web"** — Lecture series and educational materials (widely distributed online).
 - Numerous peer-reviewed papers and conference presentations on soil microbiology.
+
+
+
 
 ## Career
 
@@ -53,9 +65,15 @@ Elaine Ingham (born 1951) is an American soil microbiologist, researcher, and ed
 - Founder of Soil Food Web Inc. and Soil Food Web School
 - Has consulted on farming projects worldwide
 
+
+
+
 ## Legacy
 
 Ingham's work is foundational to the [[regenerative-agriculture-history]] movement. Her soil food web framework underpins the rationale for [[no-till-gardening-method]], [[compost-tea-aact]], [[vermicomposting]], and [[mycorrhizal-fungi]] management. She has trained thousands of soil consultants and compost tea brewers worldwide.
+
+
+
 
 ## See Also
 

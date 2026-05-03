@@ -11,6 +11,9 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
 
+
+
+
 ## Types of Endophytes
 
 ### Clavicipitaceous Endophytes (Class 1)
@@ -25,6 +28,9 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 - Extremely diverse: estimated 1 million+ endophytic fungal species
 - Many are latent pathogens that can become pathogenic under stress
 - Found in roots (endophytic mycorrhiza-like), leaves, stems, flowers, seeds
+
+
+
 
 ## Benefits to Host Plants
 
@@ -52,6 +58,9 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 - Improved survival in marginal environments
 - Enhanced reproductive output (more seeds, better seed viability)
 
+
+
+
 ## Agricultural Applications
 
 ### Forage Grasses
@@ -69,6 +78,9 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 - Endophytic Beauveria and [[metarhizium]]: entomopathogenic fungi that live in plants
 - Endophytic [[trichoderma]]: suppress plant diseases from inside the plant
 - Combines biological control with plant growth promotion
+
+
+
 
 ## Related
 - [[mycorrhizal-networks]] — for mycorrhizal endophytes

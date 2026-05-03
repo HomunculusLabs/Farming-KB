@@ -13,9 +13,13 @@ Updated: 2026-04-18
 
 Textile dye effluents are among the most challenging industrial wastewaters due to their intense colour, chemical complexity, and toxicity. Dye house effluents contain numerous chromophore types including azo, triphenylmethane, metal phthalocyanin, anthraquinone, heterocyclic, indigo, and polymeric dyes. White rot fungi and their ligninolytic enzymes offer effective biological treatment through mechanisms analogous to [[lignin-degradation-mechanisms-wood-rot-fungi]].
 
+
+
 ## Dye Structure and Degradability
 
 The structure of dyes profoundly affects their susceptibility to fungal degradation. Azo dyes, the most widely used class, show variable degradability depending on substituents on the aromatic rings. Dyes with electron-withdrawing groups (e.g., nitro, chloro) are more recalcitrant than those with electron-donating groups. Some azo dyes are inhibitory to P. chrysosporium at relatively low concentrations, though not all fungi are equally susceptible. See [[fungal-degradation-of-textile-dyes]].
+
+
 
 ## Mechanisms of Decolorization
 
@@ -26,6 +30,8 @@ Positively charged dyes like triphenylmethanes and basic azo dyes can adsorb to 
 
 ### Enzymatic Degradation
 The principal mechanism in white rot fungi involves oxidative degradation by [[ligninolytic-enzymes-bioremediation]]. After initial adsorption to the mycelium, oxidative degradation occurs. Evidence shows initial rapid adsorption followed by slower degradative decolorization. Complete decolorization often leaves white mycelium with no trace of adsorbed dye, whereas heat-killed controls show deeply coloured mycelial mats.
+
+
 
 ## Key Enzymes in Dye Decolorization
 
@@ -38,6 +44,8 @@ MnP generates Mn(III)-organic acid chelates that act as diffusible oxidants, att
 ### Lignin Peroxidase
 LiP can directly oxidize non-phenolic aromatic structures in dyes through its high redox potential. Different LiP isoenzymes show different pH optima for dye decolorization.
 
+
+
 ## Factors Affecting Decolorization
 
 ### pH and Buffering
@@ -49,9 +57,13 @@ Glucose (5-10 g/L) is the standard co-substrate, though xylose, fructose, sucros
 ### Nitrogen Source
 Early research used nitrogen-limited conditions based on P. chrysosporium ligninolysis studies. However, other fungi like Bjerkandera adusta and P. flavido-alba produce more peroxidases under nitrogen-sufficient conditions. Nitrogen requirements vary significantly between species.
 
+
+
 ## Measurement Challenges
 
 Comparing decolorization studies is difficult because different methods are used: colorimeters with filters, light absorption spectra, single-wavelength measurements, or Platinum-Cobalt Units. A critical issue is that decolorization in one spectral region may be accompanied by increases in others -- treatment of yellow/black azo effluents can produce residual red coloration at 490-520 nm. Full-spectrum analysis is essential, not single-wavelength monitoring.
+
+
 
 ## Bioreactor Applications
 
@@ -62,6 +74,8 @@ Various bioreactor configurations have been tested:
 - Continuous and sequential batch processes
 
 Immobilization in alginate beads, urethane foam, or on jute rope enables repeated reuse of fungal biomass and is essential for continuous treatment processes. See [[fungal-bioreactor-types-for-pollutant-removal]], [[fungal-immobilization-bioreactor-systems]], and [[mycoremediation-bioreactor-design]].
+
+
 
 ## See Also
 

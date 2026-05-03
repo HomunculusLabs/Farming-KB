@@ -130,4 +130,4 @@ An entity page restores that context.
 * [[gordon-wasson]]
 * [[michael-harner]]
 * [[andy-letcher]]
-* [[chukchi]]
+* chukchi

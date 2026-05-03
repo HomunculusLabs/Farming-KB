@@ -13,7 +13,7 @@ Enzyme inhibition is the reduction of catalytic activity when a molecule binds t
 conformations, or covalently modifies a functional group required for catalysis. The inhibitor may resemble a substrate, mimic a
 transition state, occupy an allosteric pocket, chelate a metal cofactor, or react with a catalytic residue.
 
-The concept is central to [[biochemistry]], [[pharmacology]], toxicology, pesticide chemistry, and metabolic regulation. Many
+The concept is central to biochemistry, pharmacology, toxicology, pesticide chemistry, and metabolic regulation. Many
 successful medicines are enzyme inhibitors, including angiotensin converting enzyme inhibitors, HIV protease inhibitors, statins,
 kinase inhibitors, and cyclooxygenase inhibitors.
 
@@ -131,8 +131,8 @@ auxiliary enzyme used to detect NADH, ATP, phosphate, or chromogenic product for
 
 ## Related Concepts
 
-Enzyme inhibition is closely tied to [[michaelis-menten-kinetics]], [[allosteric- regulation]], [[dose-response-curve]],
-[[therapeutic-index]], and [[reactive- metabolites-and-bioactivation-toxicology]]. It connects molecular recognition to organism-
+Enzyme inhibition is closely tied to [[enzyme-kinetics-michaelis-menten-model]], [[allosteric- regulation]], [[psychedelic-dose-response]],
+[[cannabis-therapeutic-index-overview]], and [[reactive- metabolites-and-bioactivation-toxicology]]. It connects molecular recognition to organism-
 level pharmacology and toxicology.
 
 The same mathematical language appears in receptor pharmacology, transporter inhibition, and drug-drug interaction prediction. The

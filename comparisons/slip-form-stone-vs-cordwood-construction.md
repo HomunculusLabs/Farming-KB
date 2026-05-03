@@ -112,7 +112,7 @@ The best method is the one matched to site resources, climate, code, and builder
 ## See Also
 - [[slip-form-stone-construction]]
 - [[cordwood-construction]]
-- [[natural-building-techniques]]
+- [[natural-building-overview]]
 - [[earthbag-construction]]
 - [[cob-building]]
 - [[passive-solar-design]]

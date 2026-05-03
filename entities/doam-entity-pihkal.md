@@ -10,9 +10,13 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #61. 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE.
 
+
+
 ## Chemical Name
 
 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE
+
+
 
 ## Dosage and Duration
 
@@ -20,6 +24,8 @@ PIHKAL entry #61. 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE.
 |----------|-------|
 | Dosage | greater than 10 mg. |
 | Duration | unknown. |
+
+
 
 ## Qualitative Comments
 
@@ -33,6 +39,8 @@ PIHKAL entry #61. 2,5-DIMETHOXY-4-(n)-AMYLAMPHETAMINE.
 > to take this compound to a higher dose.
 >
 
+
+
 ## Extensions and Commentary
 
 The actual procedure that was published for the isolation of this final amine was a different one, one that would certainly work, but which was based on the procedures tried and proven with the lower homologues. The process described above is just a bit bizarre (a sulfate salt extracting into methylene chloride) but it was the actual thing that was done. The work was started towards two additional compounds but these never got past the first "ketone and phenol" stage. p-Dimethoxybenzene was brought into reaction with n-caproic acid with polyphosphoric acid (aiming towards 2,5-dimethoxy-4-(n)-hexylamphetamine, DOHE) but this was dropped when DOAM proved to be down in potency. And the reaction between p-dimethoxybenzene and benzoyl chloride with anh. aluminum chloride went well (aiming towards 2,5-dimethoxy-4-benzylamphetamine, DOBZ). A goodly amount of the phenol (2-hydroxy-5-methoxybenzophenone) was obtained as fine yellow crystals, but this line of inquiry was also dropped.
@@ -44,6 +52,8 @@ the original discovery of DOM. The "Ten Classic Ladies" concept was mentioned un
 I learned of a curious young researcher in Washington who had an elegant procedure for measuring serotonin agonist action using the (otherwise) discarded sheep umbilical artery strips. These become available each year at lambing time, do not cost the life of anything, and require very little compound. He assayed my compounds and, lo and behold, the serotonin activity also went through a maximum in the middle of this series. We published a short paper to this effect, which served as a excellent vehicle to get the cogent human data into the scientific literature.
 
 I have never understood the reasons that there might be connection between the twitching of a umbilical artery in a sheep and the appearance of an insight in the mind of man. And, I have never personally met this pharmacologist. Some day, I hope to do both.
+
+
 
 ## Synthesis
 
@@ -57,11 +67,15 @@ A mixture of 36.3 g POCl3 and 40.9 g N-methylformanilide was allowed to incubate
 
 (Additional synthesis details available in source.)
 
+
+
 ## Safety Notes
 
 DOAM is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
+
+
 
 ## See Also
 

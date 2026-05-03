@@ -10,9 +10,17 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #73. 2,4,5-TRIETHOXYAMPHETAMINE.
 
+
+
+
+
 ## Chemical Name
 
 2,4,5-TRIETHOXYAMPHETAMINE
+
+
+
+
 
 ## Dosage and Duration
 
@@ -21,15 +29,27 @@ PIHKAL entry #73. 2,4,5-TRIETHOXYAMPHETAMINE.
 | Dosage | unknown. |
 | Duration | unknown. |
 
+
+
+
+
 ## Qualitative Comments
 
 No qualitative comments recorded.
+
+
+
+
 
 ## Extensions and Commentary
 
 This amphetamine, the final item on the ethoxy homologue of TMA-2 project, has never been tried in man. I do not know how it tastes, but I suspect that it is probably bitter. An interesting sidelight concerning this project, and one which can serve as a measure of the enthusiasm that went into it, is that (except for the 2-ethoxy homologue EMM) all of the possible ethoxy homologues of TMA-2, including MEM, MME, EEM, EME, MEE and EEE, their precursor nitrostyrenes, the precursor aldehydes (and their malononitrile derivatives), the precursor ethers, and the precursor phenols, for a total of 33 compounds, were all synthesized, purified, and characterized within a period of just over three weeks. Actually it was 23 days, and that was a magically exciting time.
 
 And there were two true treasures that came out of it all. The compound MEM, and the knowledge that the 4-position was where the action is.
+
+
+
+
 
 ## Synthesis
 
@@ -45,11 +65,19 @@ Et2O to drip into a shunted Soxhlet thimble containing the nitrostyrene, thus ef
 
 (Additional synthesis details available in source.)
 
+
+
+
+
 ## Safety Notes
 
 EEE is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
+
+
+
+
 
 ## See Also
 

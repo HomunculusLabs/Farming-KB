@@ -10,9 +10,15 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #112. N-METHOXYETHYL-MDA;.
 
+
+
+
 ## Chemical Name
 
 N-METHOXYETHYL-MDA;
+
+
+
 
 ## Dosage and Duration
 
@@ -21,9 +27,15 @@ N-METHOXYETHYL-MDA;
 | Dosage | greater than 180 mg. |
 | Duration | unknown. |
 
+
+
+
 ## Qualitative Comments
 
 No qualitative comments available in source.
+
+
+
 
 ## Extensions and Commentary
 
@@ -33,6 +45,9 @@ more polar one. MDMEOET would be called an isostere of MDBU in that
 it has the same shape, with a methylene unit (the CH2) replaced by an
 oxygen atom. No activity turned up with either compound, so nothing
 can be learned from this particular example of change of polarity.
+
+
+
 
 ## Synthesis
 
@@ -59,9 +74,15 @@ Et2O. After air drying there was obtained 4.9 g of
 3,4-methylenedioxy-N-(2-methoxyethyl)amphetamine hydrochloride
 (MDMEOET) with a mp of 182.5-183 deg C. Anal. (C13H20ClNO3) N.
 
+
+
+
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+
+
+
 
 ## See Also
 

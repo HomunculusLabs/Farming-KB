@@ -10,11 +10,15 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms" (Psilocybe, Stropharia, Panaeolus, Inocybe species). Psilocybin is the 4-phosphate ester of psilocin (4-HO-DMT); the two are pharmacologically equivalent as the phosphate ester is readily hydrolyzed in vivo. First isolated by [[albert-hofmann]] in 1958.
 
+
+
 ## Chemical Names
 
 - Psilocin: Tryptamine, 4-hydroxy-N,N-dimethyl (4-HO-DMT)
 - Psilocybin: Tryptamine, N,N-dimethyl-4-phosphoryloxy (the phosphate ester)
 - Shulgin's shorthand: PSOH (psilocin, for the exposed OH) and PSOP (psilocybin, for the phosphate)
+
+
 
 ## Dosage
 
@@ -24,9 +28,13 @@ TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms"
 | Intramuscular | 12 mg phosphate ester |
 | Intravenous | 3–12 mg phosphate ester |
 
+
+
 ## Duration
 
 3–6 hours
+
+
 
 ## Qualitative Comments
 
@@ -45,11 +53,15 @@ TIHKAL entry #18. The classic psychedelic tryptamines found in "magic mushrooms"
 - **1.5 g, orally**: "At best, some speckled patterning with my eyes closed, and in general a light intoxication. Certainly not the sparkle of LSD. Dropped quickly and felt heavy and tired, good sleep."
 - **3.5 g, orally**: "Everything was coming at me in waves, boxing me in, the visuals were in waves and in dark earth colors, orange and brown, not the wide spectrum of acid."
 
+
+
 ## Mushrooms vs. Pure Chemicals
 
 Shulgin emphasizes a critical distinction: pure psilocin/psilocybin chemicals are not equivalent to consuming mushrooms. Mushroom material contains variable amounts of psilocin, psilocybin, baeocystin, and norbaeocystin in widely different proportions depending on species, growing conditions, and preservation methods. The chemicals can be analyzed and weighed; mushrooms introduce uncontrollable variables.
 
 This variability is one of the strongest arguments for chemical purity in psychopharmacological research. There is a considerable body of scientific literature discussing changes in psilocybin and psilocin content in mushrooms as a function of their nutrient diet. Under the 4-HO-DET entry, Shulgin noted that the inclusion of an unnatural component into the diet might produce an unnatural alkaloidal product through exploitation of the natural enzyme systems in the mycelial structure.
+
+
 
 ## Synthesis Notes
 
@@ -59,11 +71,15 @@ Most early syntheses employ the O-benzyl ether as a protecting group, requiring 
 
 Sandoz's code for 1-methyl-psilocin is CMY; it has been explored in clinical settings but Shulgin reports no knowledge of its activity.
 
+
+
 ## Legal Status
 
 Under the original Controlled Substances Act of 1970, only four plants were explicitly listed as Scheduled Drugs: Marijuana, Peyote, Opium poppy, and Coca leaves. Genera such as Psilocybe, Stropharia, Panaeolus, and Inocybe are nowhere named in the statutes. However, since both psilocin and psilocybin are Schedule I drugs, mushrooms containing them become legal complications — the dried fruiting bodies could be seen as packaging for delivery of a Scheduled I drug, and cultivation as manufacture.
 
 Shulgin noted the drift from criminal statutes (where the burden of proof falls on the accuser and "presumption of innocence" provides protection) to regulatory statutes (where the accused must prove innocence). The random urine test demands, without probable cause, that you prove you do not have drugs in your system — no presumption of innocence. The legal landscape around psychedelic mushrooms remains contested.
+
+
 
 ## See Also
 
@@ -71,6 +87,8 @@ Shulgin noted the drift from criminal statutes (where the burden of proof falls 
 - [[bufotenin-entity-tihkal]] — 5-HO-DMT (bufotenine), the 5-hydroxy positional isomer
 - [[alexander-shulgin]] — co-author of TIHKAL, which documents these compounds
 - [[psilocybe-cubensis]] — the most widely cultivated psychedelic mushroom species
+
+
 
 ## Contemporary Relevance
 
