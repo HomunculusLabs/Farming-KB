@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1227 pages**
+**1230 pages**
 
 ## #
 
@@ -462,6 +462,7 @@
 ## H
 
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+- [[hallucinogenic-mushroom-legal-status-europe]]
 - [[hallucinogenic-mushroom-online-retail-markets]]
 - [[hallucinogenic-mushrooms-european-trends]]
 - [[hamilton-deep-bed-system]]
@@ -597,6 +598,7 @@
 - [[metol-testing-bluing-reaction-mushrooms]]
 - [[mexican-inquisition-against-mushroom-cults]]
 - [[mexican-mushroom-stones-archaeological-evidence]]
+- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
 - [[microwave-surface-sterilization]]
 - [[minoan-mushroom-cult-and-myth-of-glaukos]]
 - [[modern-mushroom-festival-culture]]
@@ -1159,6 +1161,7 @@
 - [[singh-mushroom-cultivation-on-agricultural-wastes]]
 - [[singh-mushroom-spawn-production-grain-spawn]]
 - [[six-vectors-of-contamination]]
+- [[smartshop-hallucinogenic-mushroom-market]]
 - [[soma-and-the-sacred-mushroom-debate]]
 - [[southeast-asian-mushroom-tourism-bali]]
 - [[spawn-generation-techniques]]

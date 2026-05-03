@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2180 pages**
+**2182 pages**
 
 ## #
 
@@ -276,6 +276,7 @@
 - [[cervantes-nematodes-root-maggots-soil-pests]]
 - [[cervantes-photosynthesis-chlorophyll-plant-science]]
 - [[cervantes-trichoderma-beneficial-fungi]]
+- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 - [[chanterelle-guide]]
 - [[chanterelle-species-eastern-us]]
 - [[chlorobenzene-chlorophenoxy-fungal-degradation]]
@@ -1163,6 +1164,7 @@
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
+- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]]
 - [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]

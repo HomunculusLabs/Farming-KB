@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**941 pages**
+**942 pages**
 
 ## #
 
@@ -726,6 +726,7 @@
 - [[psilocybin-biosynthesis-pathway]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
 - [[psilocybin-bluing-reaction]]
+- [[psilocybin-chemistry-pharmacology]]
 - [[psilocybin-clinical-research-history]]
 - [[psilocybin-clinical-trials]]
 - [[psilocybin-compound-profile]]

@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1133 pages**
+**1136 pages**
 
 ## #
 
@@ -610,6 +610,7 @@
 - [[jeff-lowenfels]]
 - [[jerusalem-artichoke]]
 - [[jochen-gartz]]
+- [[jock-horror]]
 - [[john-allegro]]
 - [[john-dighton]]
 - [[john-halpern]]
@@ -782,6 +783,7 @@
 - [[mucor-hiemalis]]
 - [[mucor-piriformis]]
 - [[mucor-racemosus-entity-the-mushroom-cultivator]]
+- [[mucuna-pruriens]]
 - [[muscarine]]
 - [[muscimol]]
 - [[mycelium]]
@@ -1048,6 +1050,7 @@
 - [[rivea-corymbosa]]
 - [[robert-clarke]]
 - [[robert-connell-clarke]]
+- [[robert-hart]]
 - [[robinia-pseudoacacia]]
 - [[roger-heim]]
 - [[roland-griffiths]]
