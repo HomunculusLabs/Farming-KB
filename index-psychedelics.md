@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**943 pages**
+**948 pages**
 
 ## #
 
@@ -302,6 +302,7 @@
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[guzman-allen-gartz-neotropical-psilocybe-species]]
 - [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]]
+- [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
 
 ## H
 
@@ -468,6 +469,7 @@
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-diet-symbiosis-human-evolution]]
 - [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
+- [[mckenna-dioscorea-population-reproduction-effects]]
 - [[mckenna-discovery-and-impact-of-lsd]]
 - [[mckenna-dissolution-of-the-dominator-culture]]
 - [[mckenna-dmt-amazonian-ecosystems]]
@@ -503,8 +505,11 @@
 - [[mckenna-genesis-first-drug-bust]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-human-cognition-and-the-stoned-age]]
+- [[mckenna-huxley-mind-at-large-reducing-valve]]
 - [[mckenna-inquisition-suppression-of-plant-knowledge]]
+- [[mckenna-jaynes-bicameral-mind-breakdown]]
 - [[mckenna-language-and-reality]]
+- [[mckenna-lumsden-wilson-gene-culture-coevolution]]
 - [[mckenna-maya-tobacco-shamanism-enemas]]
 - [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-nostalgia-for-paradise]]

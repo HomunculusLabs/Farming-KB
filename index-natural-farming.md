@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**804 pages**
+**809 pages**
 
 ## A
 
@@ -102,6 +102,7 @@
 - [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 - [[fukuoka-citrus-orchard-ground-cover-cultivation]]
 - [[fukuoka-clay-pellet-desert-greening]]
+- [[fukuoka-clay-seed-pellets]]
 - [[fukuoka-cleansing-diet]]
 - [[fukuoka-clover-and-green-manure-cropping]]
 - [[fukuoka-compost-unnecessary-philosophy]]
@@ -114,6 +115,7 @@
 - [[fukuoka-critique-modern-agriculture]]
 - [[fukuoka-critique-modern-livestock]]
 - [[fukuoka-critique-of-education-universities]]
+- [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-critique-organic-certification]]
 - [[fukuoka-critique-organic-farming-ecology]]
 - [[fukuoka-critique-scientific-agriculture]]
@@ -234,6 +236,7 @@
 - [[fukuoka-natural-farming-new-age]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
+- [[fukuoka-natural-farming-principles]]
 - [[fukuoka-natural-farming-soil-ecology-principles]]
 - [[fukuoka-natural-farming-speech-1975]]
 - [[fukuoka-natural-farming-temperate-climates]]
@@ -286,6 +289,7 @@
 - [[fukuoka-no-till-grain-production-method]]
 - [[fukuoka-no-till-rice-barley-succession]]
 - [[fukuoka-no-tillage-direct-seeding-history]]
+- [[fukuoka-no-tillage-rice-barley-succession]]
 - [[fukuoka-no-weeding-no-pesticides]]
 - [[fukuoka-observation-based-farming]]
 - [[fukuoka-old-rice-variety-testing]]
@@ -432,6 +436,7 @@
 - [[fukuoka-water-management]]
 - [[fukuoka-weed-diversity-soil-nutrients]]
 - [[fukuoka-weed-ecology]]
+- [[fukuoka-weed-management-and-green-manure]]
 - [[fukuoka-western-eastern-philosophy-agriculture]]
 - [[fukuoka-western-root-vegetable-deficiency]]
 - [[fukuoka-western-vs-japanese-attitudes]]

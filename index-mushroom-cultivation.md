@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1231 pages**
+**1234 pages**
 
 ## #
 
@@ -63,6 +63,7 @@
 - [[benjamin-minge-duggar-mushroom-cultivation-research]]
 - [[biofertilizers-and-soil-inoculants]]
 - [[biological-efficiency-mushroom-cultivation]]
+- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
 - [[bloomfield-mushroom-poisons-and-toxidromes]]
 - [[boil-a-bag-mushroom-cultivation-technique]]
 - [[bolete-mushrooms-ecology-edibility]]
@@ -442,6 +443,7 @@
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-volunteer-primordia-agar-media]]
 - [[growing-gourmet-wood-ear-auricularia-cultivation]]
+- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]]
 - [[guzman-magic-mushrooms-african-species]]
 - [[guzman-magic-mushrooms-asian-species]]
 - [[guzman-magic-mushrooms-chemical-constituents]]
@@ -1066,6 +1068,7 @@
 - [[psilocybin-mushroom-cultivation-compost-basics]]
 - [[psilocybin-mushroom-cultural-artifacts]]
 - [[psilocybin-mushroom-deadly-lookalikes]]
+- [[psilocybin-mushroom-discovery-historical-periods]]
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[psilocybin-mushroom-dosage-and-acute-effects]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**846 pages**
+**850 pages**
 
 ## A
 
@@ -78,6 +78,8 @@
 - [[comparison-bioponics-vs-aquaponics]]
 - [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
 - [[comparison-black-locust-vs-honey-locust]]
+- [[comparison-black-soldier-fly-composting-vs-bokashi]]
+- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
 - [[comparison-black-soldier-fly-vs-vermicomposting]]
 - [[comparison-bokashi-vs-compost-tea]]
 - [[comparison-bokashi-vs-hot-composting-method]]
@@ -590,6 +592,7 @@
 - [[query-how-to-build-a-raised-bed-garden]]
 - [[query-how-to-build-a-swale-for-water-harvesting]]
 - [[query-how-to-build-and-manage-a-root-cellar]]
+- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
 - [[query-how-to-build-healthy-garden-soil]]
 - [[query-how-to-choose-right-grow-light-cannabis]]
 - [[query-how-to-choose-the-right-cover-crop]]
@@ -815,6 +818,7 @@
 - [[query-what-is-polyculture-and-how-does-it-differ-from-monoculture]]
 - [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]]
+- [[query-what-is-seed-viability-and-how-do-i-test-it]]
 - [[query-what-is-sheet-mulching-and-how-to-do-it]]
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-what-is-super-cropping-and-when-to-do-it]]

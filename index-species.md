@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1144 pages**
+**1160 pages**
 
 ## #
 
@@ -223,10 +223,12 @@
 - [[arthur-heffter]]
 - [[asb-entity]]
 - [[asb-entity-pihkal]]
+- [[ashwagandha]]
 - [[aspergillus-flavus]]
 - [[aspergillus-fumigatus]]
 - [[aspergillus-niger]]
 - [[aspergillus-oryzae]]
+- [[astragalus-membranaceus]]
 - [[atropa-belladonna]]
 - [[aureobasidium-pullulans]]
 - [[auricularia-auricula]]
@@ -259,6 +261,7 @@
 - [[bjerkandera-adusta]]
 - [[black-locust-entity]]
 - [[blastomyces-dermatitidis]]
+- [[blue-dream]]
 - [[blumeria-graminis]]
 - [[bob-entity]]
 - [[bob-entity-pihkal]]
@@ -421,6 +424,7 @@
 
 - [[e-beta-caryophyllene-bcp]]
 - [[e-entity-pihkal]]
+- [[echinacea-purpurea]]
 - [[echinopsis-pachanoi]]
 - [[eee-entity-pihkal]]
 - [[eem-entity-pihkal]]
@@ -441,6 +445,7 @@
 - [[ergine-lsa]]
 - [[ergotamine]]
 - [[ergothioneine]]
+- [[eric-toensmeier]]
 - [[erythroxylum-coca]]
 - [[escaline-entity]]
 - [[eth-lad-entity-tihkal]]
@@ -504,6 +509,7 @@
 - [[geoffrey-gadd]]
 - [[gerronema-fibula]]
 - [[gigaspora-marginata]]
+- [[ginkgo-biloba]]
 - [[gleditsia-triacanthos]]
 - [[gliocladium-roseum]]
 - [[gloeophyllum-trabeum]]
@@ -560,6 +566,7 @@
 - [[hydnum-repandum]]
 - [[hymenoscyphus-ericae]]
 - [[hyoscyamus-niger]]
+- [[hypericum-perforatum]]
 - [[hypholoma-capnoides]]
 - [[hypholoma-fasciculare]]
 - [[hypholoma-popperianum]]
@@ -657,6 +664,7 @@
 - [[lentinus-edodes-entity-the-mushroom-cultivator]]
 - [[leonotis-leonurus]]
 - [[leonurus-cardiaca]]
+- [[leonurus-sibiricus]]
 - [[lepiota-procera]]
 - [[lepiota-rachodes]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
@@ -764,6 +772,7 @@
 - [[michael-harner]]
 - [[mimosa-hostilis]]
 - [[mimosa-pudica]]
+- [[mimosa-tenuiflora]]
 - [[mipt-entity-tihkal]]
 - [[mitragyna-speciosa]]
 - [[mmda-2-entity-pihkal]]
@@ -819,6 +828,7 @@
 - [[noladin-ether]]
 - [[norbaeocystin]]
 - [[norpsilocin]]
+- [[northern-lights]]
 - [[nymphaea-caerulea]]
 
 ## O
@@ -850,6 +860,7 @@
 - [[panaeolus-tropicalis]]
 - [[panaeolus-venenosus]]
 - [[panama-red]]
+- [[panax-ginseng]]
 - [[pancratium-trianthum]]
 - [[paracoccidioides-brasiliensis]]
 - [[passiflora-incarnata]]
@@ -1082,11 +1093,13 @@
 - [[schizophyllan]]
 - [[schizophyllum-commune]]
 - [[sclerotinia-sclerotiorum]]
+- [[scutellaria-baicalensis]]
 - [[scutellospora-calospora]]
 - [[sepp-holzer]]
 - [[serotonin]]
 - [[serpula-himantioides]]
 - [[serpula-lacrymans]]
+- [[sida-rhombifolia]]
 - [[silicon]]
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
@@ -1129,6 +1142,7 @@
 - [[tetrahydrocannabinolic-acid-thca]]
 - [[tetrahydrocannabivarin-thcv]]
 - [[tetrahydroharmine-entity-tihkal]]
+- [[tetrapteris-methystica]]
 - [[thelephora-terrestris]]
 - [[timothy-leary]]
 - [[tipuana-tipu]]
@@ -1185,6 +1199,7 @@
 
 ## U
 
+- [[uncaria-tomentosa]]
 - [[uncinula-necator]]
 - [[urtica-dioica]]
 - [[ustilago-maydis]]
@@ -1193,6 +1208,7 @@
 ## V
 
 - [[valentina-pavlovna-wasson]]
+- [[valeriana-officinalis]]
 - [[verticillium-biguttatum]]
 - [[verticillium-dahliae]]
 - [[verticillium-lecanii]]
