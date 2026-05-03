@@ -12,11 +12,6 @@ sources:
 
 Youngsang Cho (born 1965) is a South Korean farmer and the founder of JADAM (Jayongul Damanhwa), an organic farming movement focused on ultra-low-cost agriculture. He established JADAM in 1991 and has developed a comprehensive system of natural farming inputs and methods designed to make organic farming accessible and affordable to all farmers.
 
-
-
-
-
-
 ## Biography
 
 - Born 1965 in Hwaseong, Gyeonggi province, Korea
@@ -27,11 +22,6 @@ Youngsang Cho (born 1965) is a South Korean farmer and the founder of JADAM (Jay
 - Established "JADAM Organic Farming" and began promoting through books and website (www.jadam.kr)
 - Established "JADAM Natural Pesticide Institute" in 2002
 - Integrated knowledge from many experienced farmers to complete the ultra-low-cost JADAM system
-
-
-
-
-
 
 ## Key Inventions
 
@@ -51,28 +41,13 @@ Cho invented and voluntarily did not patent his technologies, choosing instead t
   - Chicken lice, coffee pests
 - **JADAM Mineral Water (JMW)** — sea minerals and rock dust solutions (see [[jadam-mineral-water-jmw]])
 
-
-
-
-
-
 ## JADAM Philosophy
 
 JADAM's core philosophy holds that farming should not require expensive inputs, and that the means of agricultural production should be in the hands of farmers themselves. This contrasts with commercial organic farming, which often simply substitutes expensive organic inputs for synthetic ones. Cho's innovations enable farmers to produce all their own inputs from locally available materials.
 
-
-
-
-
-
 ## Relationship to Korean Natural Farming
 
 While his father [[cho-han-kyu]] (Master Cho, see [[master-cho]]) developed Korean Natural Farming (KNF), Youngsang Cho took a different path with JADAM, emphasizing ultra-low-cost methods. See [[knf-vs-jadam-vs-em]] for a detailed comparison of the two systems and [[natural-farming-methods-comparison]] for the broader context including [[masanobu-fukuoka]]'s natural farming.
-
-
-
-
-
 
 ## Related
 

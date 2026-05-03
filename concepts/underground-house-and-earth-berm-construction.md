@@ -13,13 +13,9 @@ Updated: 2026-04-18
 
 Underground houses have been built of stone and dirt in every climate for thousands of years, either completely submerged in the ground or built into hillsides. While dirt is not a great insulator by itself, the sheer quantity of earth used in an underground house acts as thermal mass, keeping the interior warm in winter and cool in summer.
 
-
-
 ## Earth Berm Houses
 
 Most modern North American underground homes are actually earth berm houses -- structures covered in a man-made embankment rather than fully buried. The front of the house is typically open to the south (in the Northern Hemisphere), shaded with vines. The roof can be part of the berm, with plants growing on it, or it can be a conventional peaked roof. In desert climates, homes are set deep into soil or rock faces; in temperate climates, only the back half may be earth-sheltered.
-
-
 
 ## Structural Requirements
 
@@ -32,8 +28,6 @@ Key structural considerations:
 - **Waterproofing** -- critical; includes polyethylene sheeting (pond liner), clay, or commercial cement products
 - **Insulation** -- placed outside the waterproof membrane to protect it from freezing; polystyrene sheets or spray foam are common
 
-
-
 ## Waterproofing
 
 Waterproofing is the most critical technical challenge. Multiple layers are recommended:
@@ -44,8 +38,6 @@ Waterproofing is the most critical technical challenge. Multiple layers are reco
 5. Filter fabric (to prevent soil clogging the drainage)
 6. Earth cover
 
-
-
 ## Advantages
 
 - **Energy efficiency** -- earth thermal mass provides passive heating and cooling; heating/cooling costs can be 50-80% lower than conventional homes
@@ -55,8 +47,6 @@ Waterproofing is the most critical technical challenge. Multiple layers are reco
 - **Sound insulation** -- excellent noise reduction
 - **Small footprint** -- can preserve agricultural land and blend with landscape
 
-
-
 ## Disadvantages
 
 - **High material cost** -- requires substantial concrete, waterproofing, and insulation materials
@@ -65,19 +55,13 @@ Waterproofing is the most critical technical challenge. Multiple layers are reco
 - **Construction complexity** -- requires engineering knowledge; not suitable for amateur builders
 - **Financing difficulties** -- some lenders are unfamiliar with earth-sheltered construction
 
-
-
 ## Earthbag as Alternative
 
 For those seeking a more sustainable and owner-buildable alternative, [[earthbag-construction]] provides similar thermal mass benefits without the heavy concrete and waterproofing requirements. [[cob-building]], [[straw-bale-construction]], and [[cordwood-construction]] offer additional natural building alternatives with lower environmental impact.
 
-
-
 ## Living Roofs
 
 A sod or living roof can be added to conventional structures (not just underground houses) to gain thermal mass and insulation benefits. The roof must be very strong and well supported, with a moisture barrier between the roof deck and the sod layer. A beam along the edge prevents soil sliding, and metal flashing under the eaves protects gutters. In wet areas, regular grass works; in dry climates, local groundcover species are better.
-
-
 
 ## See Also
 

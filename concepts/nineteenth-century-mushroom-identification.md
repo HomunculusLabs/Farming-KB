@@ -11,13 +11,9 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 Palmer's classification system, species descriptions, and foraging philosophy from "About Mushrooms" (1894).
 
-
-
 ## The Mushroom/Toadstool Fallacy
 
 Palmer insisted the two words were synonymous: "Every mushroom is a toadstool, and every toadstool is a mushroom." He compared calling all non-cultivated fungi "toadstools" to calling all non-russet apples "crabs." The common name "mushroom" applied to only one cultivated species (Agaricus arvensis) out of roughly 1,000 New England fungi.
-
-
 
 ## No Universal Test
 
@@ -38,8 +34,6 @@ Palmer demolished every popular identification rule:
 
 Palmer quoted Dr. F.S. Cordier (Paris, 1876): "No one of these characteristics is exclusively the property either of esculent mushrooms or of poisonous mushrooms."
 
-
-
 ## Palmer's Four Grand Divisions
 
 For beginners, Palmer offered a practical classification by examining the underside of the cap:
@@ -52,8 +46,6 @@ For beginners, Palmer offered a practical classification by examining the unders
 
 4. **Puff-balls (enclosed spores)**: "Safest mushrooms for the beginner." Giant puffball (Lycoperdon giganteum) when white inside and out is edible. "I believe all white puff-balls may be safely used if cooked at once." No poisonous fungus resembles them.
 
-
-
 ## Notable Edible Species Described
 
 - **Coprinus comatus (Maned/Shaggy Mane)**: ovate like turtle's egg, brown smooth top, white ruffled "mane" below. Hollow stem. "No poisonous counterpart." Deliquesces into ink — never eat with black gills. Called "macaroni mushroom" because stem resembles macaroni when cut.
@@ -64,8 +56,6 @@ For beginners, Palmer offered a practical classification by examining the unders
 
 - **Russula alutacea**: bright red top, buff-colored gills, stout short stem. Must be distinguished from R. emetica and R. rosacea. All russulas are brittle (snap when bent). Dry, tasteless russulas are edible; acrid ones should be rejected.
 
-
-
 ## Foraging Best Practices
 
 - Gather in afternoon when dry (dew has evaporated)
@@ -74,21 +64,15 @@ For beginners, Palmer offered a practical classification by examining the unders
 - Large quantity of one kind preferred over miscellaneous collection
 - Rich lawns and well-kept gardens produce the finest mushrooms
 
-
-
 ## Palmer's Testing Protocol
 
 For new species: "I broil it with the addition of salt and butter (no pepper) and eat a small piece on an empty stomach. I then increase the quantity in successive experiments." Non-edible specimens typically disclose themselves during cooking: "nauseous slime weeps from the stem, a grassy and disagreeable odor arises."
-
-
 
 ## The Amanita Warning
 
 Palmer identified the Amanita family as the source of all fatal mushroom poisonings. Three diagnostic marks: (1) white wrapper/volva at stem base, (2) ring/veil around stem, (3) scurfy warts on sticky cap. "The three marks — wrapper, ring, and scurfy top — must exist together." Colors variable: white, drab, golden, red, or greenish. Most common variety has yellow center fading to white.
 
 See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [[julius-palmer]] | [[amanita-muscaria-guide]]
-
-
 
 ## Related
 

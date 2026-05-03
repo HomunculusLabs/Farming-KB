@@ -28,8 +28,6 @@ sources:
 
 Understanding the philosophical and practical differences between three major approaches to growing food. Each represents a fundamentally different relationship with land. See [[natural-farming-fukuoka]] for the Fukuoka method, [[knf-preparations]] for Korean Natural Farming inputs, and [[regenerative-agriculture-history]] for the modern synthesis.
 
-
-
 ## Comparison Table
 
 | Dimension | Natural Farming (Fukuoka/KNF) | Organic Farming | Conventional Farming |
@@ -50,8 +48,6 @@ Understanding the philosophical and practical differences between three major ap
 | **Pollution** | Zero: no runoff, no chemical residue | Low: some organic inputs can leach; much cleaner than conventional | High: nutrient runoff, pesticide drift, soil erosion, water contamination |
 | **Long-term Trajectory** | Soil improves each year; self-reinforcing fertility | Soil improves but plateau; input dependency remains | Soil degrades; compounding chemical dependence; diminishing returns |
 
-
-
 ## Key Distinctions
 
 ### Natural vs Organic (Fukuoka's View)
@@ -66,16 +62,12 @@ Korean Natural Farming (Cho Han-Kyu) occupies a unique position: it creates spec
 
 Fukuoka calculated that scientific agriculture requires an energy expenditure per unit of food produced up to 50 times that of natural farming. When you factor in soil erosion (estimated at 5.6 tons/acre/year on US cropland), water pollution, health costs, and fossil fuel dependency, conventional farming's "efficiency" is an illusion maintained by externalizing costs.
 
-
-
 ## Which Approach for Your Homestead?
 
 - **Start with observation**: Walk your land daily for a full year before deciding. See [[permaculture-design]].
 - **Transition gradually**: You don't need to jump to full natural farming. [[no-till-gardening-method]] methods can be adopted step by step.
 - **Focus on soil first**: All three approaches work better with living soil. See [[soil-food-web-nutrient-cycling]].
 - **Local context matters**: Fukuoka's methods were developed for subtropical Japan. Adapt to your climate. see your local extension office.
-
-
 
 ## Related Pages
 

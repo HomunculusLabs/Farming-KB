@@ -12,29 +12,21 @@ sources:
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 
-
-
 ## Symbiosis Between Trees and Fungi
 
 Many plants form symbiotic associations with fungi. The fungus supplies the plant with water and mineral nutrients through decomposition activity. The fungus profits because the plant supplies it with the products of photosynthesis (principally carbohydrates). If a plant does not have access to its specific symbiotic partner, it will grow poorly.
 
 Understanding this symbiosis is key to mushroom cultivation. Mushrooms that live in symbiosis, such as ceps or chanterelles, require their symbiotic partner in the form of forest trees in addition to a forest floor substrate.
 
-
-
 ## Shiitake at 1,500m
 
 According to experts, shiitake mushrooms can only be cultivated at lower altitudes because they need warmth. As an experiment, Holzer inoculated a 50cm-thick oak log with shiitake mushroom spawn at 1,500m above sea level, sank the log 30cm into the ground, and two years later the first mushrooms appeared -- so many that the entire log was covered. The log has been producing new mushrooms each year for over ten years with no further intervention.
-
-
 
 ## Health Benefits
 
 Mushrooms have long been recognised as healthy food and medicine. The shiitake mushroom can lower cholesterol, is effective against colds, strengthens the immune system, and has been scientifically confirmed to have a positive effect in cancer treatment. The Judas' ear fungus treats nausea and lowers blood pressure. The lingzhi mushroom treats sleeping disorders and strengthens immunity.
 
 Mushrooms are low in calories, rich in vitamins and minerals, high in fibre, and make very good tea for preventing and treating illnesses and detoxification.
-
-
 
 ## Growing Mushrooms on Wood
 
@@ -45,8 +37,6 @@ Only uncontaminated raw materials should be used. Mushrooms can absorb harmful s
 Mushroom cultivation does not require large amounts of space. It is possible to grow enough mushrooms for personal consumption on just a 2m2 balcony.
 
 [[holzer-mushroom-cultivation]] | [[holzer-permaculture-landscape-design]] | [[outdoor-mushroom-cultivation]] | [[shiitake-cultivation-guide]] | [[sepp-holzer-method]]
-
-
 
 ## Key Points
 
@@ -61,8 +51,6 @@ Mushroom cultivation does not require large amounts of space. It is possible to 
 9. Fruit trees are managed without pruning, allowing them to develop natural forms suited to their environment.
 10. Crop diversity and polyculture systems provide resilience against weather extremes, pests, and disease.
 
-
-
 ## Practical Applications
 
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
@@ -73,8 +61,6 @@ Mushroom cultivation does not require large amounts of space. It is possible to 
 - Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
-
-
 
 ## See Also
 

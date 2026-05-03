@@ -10,17 +10,9 @@ sources:
 
 # Hallucinogenic Plants of the World
 
-
-
-
-
 ## Overview
 
 Hallucinogenic plants have been used by humans for thousands of years, "probably since he began gathering plants for food." They have played an extensive role in human culture -- as sacred sacraments, medicines, divinatory tools, and sources of artistic inspiration. The Golden Guide to Hallucinogenic Plants provides a comprehensive survey of the major psychoactive plant families and their cultural significance.
-
-
-
-
 
 ## Classification of Hallinogens
 
@@ -29,10 +21,6 @@ The active compounds in hallucinogenic plants are "true narcotics" that distort 
 - **Psychotomimetics** (psychosis mimickers)
 - **Psychotaraxics** (mind disturbers)
 - **Psychedelics** (mind manifesters)
-
-
-
-
 
 ## Major Plant Families
 
@@ -65,10 +53,6 @@ Several cactus species contain mescaline and related alkaloids:
 - **Tabernanthe iboga** -- containing ibogaine, used in African Bwiti ceremonies.
 - **Peganum harmala** -- Syrian rue, containing harmine and harmaline.
 
-
-
-
-
 ## Cultural Roles
 
 Hallucinogenic plants have served multiple functions in human societies:
@@ -77,10 +61,6 @@ Hallucinogenic plants have served multiple functions in human societies:
 - **Divination**: Predicting the future, diagnosing illness, locating lost objects.
 - **Initiation**: Rites of passage in many indigenous cultures.
 - **Artistic inspiration**: Source of visions depicted in rock art, textiles, and paintings.
-
-
-
-
 
 ## Related Concepts
 

@@ -10,21 +10,15 @@ sources: []
 
 **PIHKAL Entry #97** -- PMA; 4-Methoxyamphetamine
 
-
-
 ## Chemical Name
 
 4-Methoxyamphetamine
-
-
 
 ## Dosage and Duration
 
 - **Dosage:** 50 - 80 mg
 
 - **Duration:** short
-
-
 
 ## Qualitative Comments
 
@@ -35,8 +29,6 @@ after-images and some parasthesia. No residue by early evening (after 5 hours).
 (with 70 mg) Hits suddenly with "a feeling of druggedness, almost an
 alcohol-like intoxication." Never really high in the psychedelic sense.
 
-
-
 ## Synthesis
 
 Synthesized from anisaldehyde via nitropropene formation with nitroethane in
@@ -44,8 +36,6 @@ benzene using a Dean-Stark trap, followed by LAH reduction. The nitropropene had
 a mp of 45-46 degrees C. The hydrochloride salt had a mp of 208-209 degrees C.
 The metabolite 4-hydroxyamphetamine (4-HA) was also prepared by heating 4-MA in
 concentrated HCl.
-
-
 
 ## Extensions and Commentary
 
@@ -72,8 +62,6 @@ illegalized.
 The N-methyl homologue (DOONE) was studied as a separate entry. 4-MA stands as
 a cautionary tale about the dangers of selling misidentified or misrepresented
 substances.
-
-
 
 ## Related Compounds
 

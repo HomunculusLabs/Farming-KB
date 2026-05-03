@@ -12,9 +12,6 @@ sources:
 
 Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesticide applications. Compiled from *Mycelium Running* by [[paul-stamets]].
 
-
-
-
 ## Paul Stamets Patents
 
 ### Mycoremediation of Chemical/Biological Warfare Agents
@@ -35,9 +32,6 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 - Termite colony elimination using delayed-mortality fungal deployment
 - Fire ant control using dual-species fungal matrices (attractant + pathogen)
 - Search USPTO.gov under "Stamets" for full list
-
-
-
 
 ## Other Key Mycoremediation Patents
 
@@ -64,9 +58,6 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 ### Dye Remediation
 - **Raghukumar et al. (2002)**: U.S. Patent 6,395,534 — Flavodon flavus for removing dye from water/soil
 
-
-
-
 ## Patent Implications
 
 - U.S. patents have 17-year lifespans before expiration
@@ -75,9 +66,6 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 - Multiple patents can overlap when complex sites contain multiple toxins
 - The patent landscape favors large companies over small practitioners
 - [[paul-stamets]] notes this legal complexity has slowed adoption of mycoremediation
-
-
-
 
 ## See Also
 

@@ -12,17 +12,11 @@ sources:
 
 From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
 
-
-
-
 ## Core Definition
 
 The icon for this principle shows a butterfly emerging from a chrysalis, symbolising the opportunity to use the boundary between different systems or states as a source of new ideas and creative action.
 
 What constitutes an edge and what is a system in its own right is a matter of scale and perspective. Increasing edge is one important way to increase system intensity and productivity. It is possible to see increasing complexity of edge as an alternative mode of growth and development to gross system expansion.
-
-
-
 
 ## Edge in Cultivated Landscapes
 
@@ -31,9 +25,6 @@ The patchwork fabric of traditional English farm landscapes was made up of irreg
 The change from small-scale intensive systems to large-scale monocultures had the effect of eliminating much of the landscape complexity in edges. The removal of hedgerows to create larger fields reduced environmental values such as wildlife habitat and rural resources such as wild food, herbs and construction materials.
 
 The amount of structural edge in a landscape can be seen as a "leading indicator" of biological and resource diversity and, eventually, economic productivity.
-
-
-
 
 ## Aboriginal Land Management
 
@@ -44,9 +35,6 @@ The effects of the fire regime were manifold: it created open accessible ground,
 This culturally embedded land management produced a pattern of localised degradation and enrichment, which was self-reinforcing. It is a brilliant example of the use of edge between burnt and unburnt areas to increase total landscape diversity and productivity.
 
 [[permaculture-principle-use-edges-and-value-the-marginal]] | [[permaculture-principles]] | [[permaculture-edge-effect-design]] | [[holmgren-diversity-detailed]] | [[permaculture-earthworks-guide]]
-
-
-
 
 ## Key Points
 
@@ -61,9 +49,6 @@ This culturally embedded land management produced a pattern of localised degrada
 9. The principle supports the broader goal of reducing dependence on non-renewable resources and external inputs.
 10. Real-world application of this principle has been demonstrated across diverse climates and contexts worldwide.
 
-
-
-
 ## Practical Applications
 
 - Conduct a thorough site analysis before design, mapping zones, sectors, soil, water, and existing vegetation.
@@ -74,9 +59,6 @@ This culturally embedded land management produced a pattern of localised degrada
 - Create redundancy in critical systems to increase resilience against failure or disruption.
 - Incorporate small-scale, slow solutions that can be tested and adjusted before large investments.
 - Map and maximize edge effects between different ecosystems or landscape elements.
-
-
-
 
 ## See Also
 

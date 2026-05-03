@@ -11,15 +11,11 @@ sources:
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
-
-
 ## The Problem of Cause and Effect in Agriculture
 
 When we talk of causes, we refer to a complex web of organically interrelated causes -- basic causes, remote causes, contributing factors, predisposing factors. This is why one cannot give a brief, simple explanation of the true cause of poor maturation in rice, and it is also why a more detailed explanation is no closer to grasping the real truth.
 
 The causal relationships between factors in nature are just too entangled for man to unravel through research and analysis. Perhaps science succeeds in advancing one slow step at a time, but because it does so while groping in total darkness along a road without end, it is unable to know the real truth of things.
-
-
 
 ## Mutual Cancellation of Improvements
 
@@ -27,15 +23,11 @@ Many people believe that if you take a variety of rice which bears large heads o
 
 Efforts to obtain large stems and heads only weaken the rice plant and increase disease and insect damage, while thorough pest control measures result in lodging. The more improvement measures are combined, the more these measures cancel each other out to give an indefinite result.
 
-
-
 ## Natural Control of Harvests
 
 This property of mutual cancellation derives from the equilibrium of nature. Nature inherently abhors the unnatural and makes every effort to return to its true state by discarding human techniques for increasing harvests. A natural control operates to hold down large harvests and raise low harvests, such as to approach the natural yield without disrupting the balance of nature.
 
 Since the basic causes of actions and effects that arise at any particular time and place cannot be known to man, there is no way for him to know the true effectiveness of any of his techniques. Although he knows that no grand conclusion is forthcoming in the long run, man persists in the belief that his partial conclusions and devices are effective in an overall sense.
-
-
 
 ## Two Ways of Natural Farming
 
@@ -44,8 +36,6 @@ Fukuoka divides natural farming into two types. The first type of natural farmin
 The true natural farming goes beyond mere rejection of agricultural chemicals or adoption of organic methods. It requires a fundamental shift in how one perceives the relationship between humans and nature.
 
 [[fukuoka-fallacies-scientific-understanding]] | [[fukuoka-critique-laws-agricultural-science]] | [[fukuoka-natural-farming-new-age]] | [[natural-farming-philosophy]] | mu philosophy
-
-
 
 ## Key Points
 
@@ -60,8 +50,6 @@ The true natural farming goes beyond mere rejection of agricultural chemicals or
 9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
 10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
 
-
-
 ## Practical Applications
 
 - Start with a small area and observe natural vegetation patterns before introducing any cultivation.
@@ -72,8 +60,6 @@ The true natural farming goes beyond mere rejection of agricultural chemicals or
 - Create a diverse orchard with ground cover plants that fix nitrogen, attract pollinators, and suppress unwanted vegetation.
 - Apply a thin layer of chicken manure or compost only if soil fertility is visibly deficient.
 - Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
-
-
 
 ## See Also
 - [[fukuoka-three-ways-farming-compared]]

@@ -131,3 +131,6 @@ Wavelet thinking also connects to convolutional neural networks and scale space 
 
 - [[kalman-filter-vs-wavelet-transform]]
 - [[query-what-is-a-wavelet-transform-used-for]]
+
+## See Also
+- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]

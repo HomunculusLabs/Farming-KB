@@ -10,13 +10,9 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #117. N-PROPARGYL-MDA; N-PROPYNYL-MDA;.
 
-
-
 ## Chemical Name
 
 N-PROPARGYL-MDA; N-PROPYNYL-MDA;
-
-
 
 ## Dosage and Duration
 
@@ -25,13 +21,9 @@ N-PROPARGYL-MDA; N-PROPYNYL-MDA;
 | Dosage | greater than 150 mg. |
 | Duration | unknown. |
 
-
-
 ## Qualitative Comments
 
 No qualitative comments available in source.
-
-
 
 ## Extensions and Commentary
 
@@ -52,8 +44,6 @@ same as 3-hydroxypropyne, or propargyl alcohol. The code MDPL takes
 the first and last letter of the two of them, both propargyl and
 propynyl.
 
-
-
 ## Synthesis
 
 A solution of 10.5 g propargylamine hydrochloride in 40 mL
@@ -73,13 +63,9 @@ After filtration, Et2O washing and air drying, there was obtained 1.1
 g white crystals of 3,4-methylenedioxy-N-propargylamphetamine
 hydrochloride (MDPL) with a mp of 189-190 deg C. Anal. (C13H16ClNO2) N.
 
-
-
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-
 
 ## See Also
 

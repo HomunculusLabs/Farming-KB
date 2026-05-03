@@ -15,8 +15,6 @@ sources:
 
 # Psilocybe antioquensis
 
-
-
 ## Taxonomy
 
 - **Kingdom:** Fungi
@@ -28,8 +26,6 @@ sources:
 - **Species:** *P. antioquensis*
 
 Described by Guzmán from material collected in the department of Antioquia, Colombia. The species epithet refers directly to its type locality. It is placed within *Psilocybe* Section *Caerulescentes*, a group characterized by strong bluing reactions and typically associated with subtropical to tropical montane environments in the Americas.
-
-
 
 ## Description
 
@@ -60,31 +56,21 @@ Described by Guzmán from material collected in the department of Antioquia, Col
 - Basidia 4-spored, clavate
 - Cheilocystidia numerous, ventricose-rostrate
 
-
-
 ## Distribution and Habitat
 
 Known primarily from the Colombian Andes, specifically the department of Antioquia, at elevations between 1,500 and 2,500 meters above sea level. It grows in cloud forest and subtropical montane forest environments, typically on soil rich in organic matter along trails, road cuts, and in disturbed forest clearings. The species appears restricted to the northern Andes and has not been confirmed outside of Colombia despite surveys in neighboring countries.
-
-
 
 ## Chemistry and Pharmacology
 
 Chemical analysis confirms the presence of psilocybin and [[psilocin]]. The species is considered moderately to strongly active. The intensity of the bluing reaction, which is among the most pronounced of any *Psilocybe* species, suggests significant alkaloid concentrations. No formal quantitative study with modern analytical methods (HPLC, LC-MS) has been published, making precise potency comparisons difficult.
 
-
-
 ## Ethnobotanical Notes
 
 Colombia has a rich ethnobotanical tradition involving psychoactive plants and fungi. While *Psilocybe antioquensis* has not been specifically documented in ethnographic literature, it occurs in a region with indigenous communities (including Emberá and other groups) who maintain traditional ecological knowledge. The species' strong bluing and occurrence in disturbed areas suggest it would have been noticed by local mushroom gatherers, but specific ceremonial or recreational use remains unrecorded.
 
-
-
 ## Similar Species
 
 Can be confused with *Psilocybe caerulescens*, which has a broader distribution across Mexico and Central America and shares the montane habitat preference and strong bluing. *P. antioquensis* differs in its more restricted Andean distribution, slightly different spore morphology, and the character of its annulus. *[[psilocybe-zapotecorum]]*, also found at higher elevations in the neotropics, tends to grow in more swampy or bog-like conditions and has a more robust stature with a distinct umbo.
-
-
 
 ## Conservation Status
 

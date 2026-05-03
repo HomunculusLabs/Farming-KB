@@ -73,9 +73,9 @@ Look also for design education that starts with color, form, texture, and compos
 These signals do not prove direct Bauhaus origin, but they show the movement's continuing influence.
 ## Related pages
 - [[bauhaus-movement]]
-- [[topics/bauhaus-movement]]
-- [[topics/natural-building-techniques]]
-- [[topics/permaculture-design-principles]]
+- topics/bauhaus-movement
+- topics/natural-building-techniques
+- topics/permaculture-design-principles
 
 ## See Also
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]

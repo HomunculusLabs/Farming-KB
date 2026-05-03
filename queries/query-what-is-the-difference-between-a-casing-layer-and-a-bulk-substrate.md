@@ -143,7 +143,6 @@ Early intervention with salt or hydrogen peroxide treatment may save the grow if
 - Oyster mushrooms ([[pleurotus-species-guide]]) generally do not need casing, but [[agaricus-bisporus]] absolutely requires it for fruiting
 - Maintain casing layer pH at 7.0 to 8.0 with hydrated lime to suppress contaminants like Trichoderma during [[fruiting-body-development]]
 - The [[supplementation-at-spawning-and-casing]] technique adds nutrients to the bulk substrate at spawning but should not be applied to the casing layer
-
 ## See Also
 
 - [[query-what-is-the-difference-between-a-hedgerow-and-a-windbreak]]

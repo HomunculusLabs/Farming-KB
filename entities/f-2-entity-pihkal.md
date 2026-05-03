@@ -11,13 +11,9 @@ sources: ["Shulgin - PIHKAL"]
 PIHKAL entry #79. 6-(2-AMINOPROPYL)-5-METHOXY-2-METHYL-2,3-DIHYDROBENZOFURAN.
 Also known as: 2-M.
 
-
-
 ## Chemical Name
 
 6-(2-AMINOPROPYL)-5-METHOXY-2-METHYL-2,3-DIHYDROBENZOFURAN
-
-
 
 ## Dosage and Duration
 
@@ -26,13 +22,9 @@ Also known as: 2-M.
 | Dosage | greater than 15 mg. |
 | Duration | unknown. |
 
-
-
 ## Qualitative Comments
 
 No qualitative comments recorded.
-
-
 
 ## Extensions and Commentary
 
@@ -50,8 +42,6 @@ benzaldehyde recipe above gave a fleeting fantasy of a whole new direction that 
 
 The plain furan analogue, without any methyl groups on it, has been made. Five-methoxybenzofuran formed the 6-formyl derivative (the aldehyde) with a mp of 79-80 deg C and from it the nitrostyrene (orange needles, mp 89-91 deg C) and the final amphetamine (white solids, as the methane sulfonate, mp 141-144 deg C) were prepared in a manner similar to the preparation of F-2 above. In the rat studies, it was three times more potent than F-2, but still some 15 times less potent than DOM. And in initial human trials (of up to 30 milligrams) there were again no effects noted. Naming of this material is easy chemically (6-(2-aminopropyl)-5-methoxy-2,3-dihydrobenzofuran) but tricky as to code. If the numbers that follow the RFS give the location of the methyl groups, then this material, without any such groups, can have no numbers following, and should properly be simply "F." OK, it is "F." The preparation or the attempted preparations of other homologues such as F-23 and F-233 are outlined under the recipe for F-22.
 
-
-
 ## Synthesis
 
 To a solution of 43.2 g KOH pellets in 250 boiling EtOH there was added 96 g 4-methoxyphenol followed by the slow addition of 131.2 g allyl bromide, and the mixture was held under refluxing conditions for 16 h. After cooling, the reaction was added to 1.6 L H2O, and made strongly basic with 25% NaOH. This was extracted with 3x100 mL CH2Cl2, the extracts pooled, washed once with dilute NaOH and then once with dilute HCl. Removal of the solvent under vacuum gave 93.8 g of 4-allyloxyanisole as a pale amber oil, which was used in the
@@ -66,15 +56,11 @@ To a half-hour pre-incubated mixture of 69 g POCl3 and 60 g N-methylformanilide 
 
 (Additional synthesis details available in source.)
 
-
-
 ## Safety Notes
 
 F-2 is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
 
 ## See Also
 

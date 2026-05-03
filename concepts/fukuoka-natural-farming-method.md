@@ -11,8 +11,6 @@ sources: [raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 
 Masanobu Fukuoka (1913-2008) developed natural farming over fifty years on his farm in Ehime Prefecture, Japan. Natural farming is based on a nature free of human meddling and intervention, striving to restore nature from the destruction wrought by human knowledge and action.
 
-
-
 ## The Five Principles
 
 Fukuoka demonstrated the validity of five major principles:
@@ -23,13 +21,9 @@ Fukuoka demonstrated the validity of five major principles:
 4. **No weeding** -- Nature does not arbitrarily call one plant a weed and try to eradicate it. A cover of grass is beneficial.
 5. **No pruning** -- A fruit tree grows best in its natural habit; branches do not tangle, sunlight falls on every leaf, and the tree bears fully each year, not only in alternate years.
 
-
-
 ## "Do-Nothing" Farming
 
 Fukuoka called his approach "do-nothing" farming. The field has not been plowed or turned in over thirty years. No chemical fertilizers, prepared compost, pesticides, or other chemicals are applied. Yet yields of close to 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre are achieved -- matching top yields in Ehime Prefecture.
-
-
 
 ## The Core Method: Direct-Seeded, No-Tillage Rice/Barley Succession
 
@@ -42,15 +36,11 @@ The essential method is "direct-seeded, no-tillage, winter grain/rice succession
 5. **June-July**: Leave unirrigated (rainwater sufficient)
 6. **August**: Run fresh water through field once weekly
 
-
-
 ## Critique of Scientific Agriculture
 
 Fukuoka argued that even organic farming is "just another type of scientific farming" -- moving organic materials from place to place, processing and treating them. The gains are local and temporal; from a broader perspective, many efforts to protect the natural ecology are actually destructive.
 
 He further argued that "there is no cause and effect in nature" -- the endless chain of interwoven events and factors is beyond man's powers of comprehension. The only effective approach to restoring barren land is to leave things largely up to nature.
-
-
 
 ## Revegetating Deserts
 
@@ -58,13 +48,9 @@ Fukuoka proposed that seeds of green manure trees (such as black wattle), clover
 
 His observation: "Rain does not fall from the heavens; it issues forth from the ground. Deserts do not form because there is no rain; rather, rain ceases to fall because the vegetation has disappeared."
 
-
-
 ## The State of Mind
 
 "In making the transition to this kind of farming, some weeding, composting or pruning may be necessary at first, but these measures should be gradually reduced each year. Ultimately, it is not the growing technique which is the most important factor, but rather the state of mind of the farmer."
-
-
 
 ## Practical Use
 This topic is best evaluated in context: climate, available materials, labor,
@@ -72,22 +58,16 @@ water access, and the surrounding ecological community all influence whether it
 is useful on a working site. Small trials reduce risk and make local adaptation
 visible before larger investments are made.
 
-
-
 ## Observation Points
 Track seasonal timing, moisture, plant or fungal response, pest pressure, and
 maintenance needs. Notes across several cycles are more reliable than a single
 observation because many biological systems respond slowly or episodically.
-
-
 
 ## Integration
 The strongest applications usually connect several functions at once, such as
 soil improvement, habitat creation, water moderation, yield, and education. If a
 practice only solves one problem while creating new maintenance burdens, it
 should be redesigned or kept experimental.
-
-
 
 ## Related
 

@@ -145,10 +145,6 @@ updated: 2026-05-02
 ## Connections
 - Related concept: [[bauhaus-movement]].
 - Related entity: [[anni-albers]].
-- Related institution: Bauhaus.
-- Related movement: International Style.
-- The entity anchors Bauhaus architectural and pedagogical history in the wiki.
-
 ## Related
 
 - [[walter-stoll]]

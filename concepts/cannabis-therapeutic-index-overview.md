@@ -11,9 +11,6 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 The Cannabis Health Index (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
 
-
-
-
 ## Evidence Grading System
 
 The CHI uses a multi-tiered evidence framework:
@@ -23,9 +20,6 @@ The CHI uses a multi-tiered evidence framework:
 - **Tier 4 — Traditional/Ethnobotanical**: Historical use, anecdotal evidence
 
 Each condition receives a combined score reflecting the weight of evidence across all tiers.
-
-
-
 
 ## Major Therapeutic Categories
 
@@ -62,24 +56,15 @@ Evidence supports cannabis for cancer symptom management:
 - Irritable bowel syndrome
 - Appetite disorders
 
-
-
-
 ## Key Principle: The Entourage Effect
 
 The therapeutic index emphasizes that whole-plant cannabis often outperforms isolated cannabinoids due to the entourage effect — terpenes, flavonoids, and minor cannabinoids interact synergistically with THC and CBD. This supports whole-plant preparations over single-molecule pharmaceuticals for many conditions.
-
-
-
 
 ## Dosing Philosophy
 
 - **Start low, go slow**: Begin with the smallest effective dose
 - **Microdosing**: Sub-psychoactive doses (1-2.5mg THC) for daytime therapeutic use
 - **Condition-specific ratios**: CBD:THC ratios vary by condition (e.g., high CBD for anxiety, balanced for pain)
-
-
-
 
 ## Related
 - [[cannabis-endocannabinoid-system]] — for the biological basis

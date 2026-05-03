@@ -14,12 +14,6 @@ sources:
 
 American mycologist, author, and entrepreneur. Founder of Fungi Perfecti, a company specializing in gourmet and medicinal mushroom products. Based in the Pacific Northwest (Olympic Peninsula, Washington). One of the most influential figures in popular mycology, known for bridging academic research with practical cultivation.
 
-
-
-
-
-
-
 ## Key Works
 
 - **Mycelium Running: How Mushrooms Can Help Save the World** (2005) — Comprehensive guide to mycoremediation, mycofiltration, and the ecological roles of fungi. Over 1,000 pages covering [[mycoremediation-basics]] techniques, [[mycofiltration-overview]], and fungal partnerships with plants.
@@ -27,12 +21,6 @@ American mycologist, author, and entrepreneur. Founder of Fungi Perfecti, a comp
 - **Psilocybin Mushrooms of the World** (1996) — Taxonomic and identification guide to psychoactive mushroom species worldwide, with contributions from [[david-arora]], [[gary-lincoff]], [[gaston-guzman]], and [[bigwood]].
 - **Growing Gourmet and Medicinal Mushrooms** (1993) — Practical cultivation guide.
 - **Fantastic Fungi** (2019) — Documentary film featuring his work.
-
-
-
-
-
-
 
 ## Key Contributions
 
@@ -54,31 +42,13 @@ Stamets has conducted extensive research on *Laricifomes officinalis* (Agarikon)
 ### Host Defense
 Through Fungi Perfecti's Host Defense line, Stamets commercialized medicinal mushroom supplements using fruiting body and mycelium preparations. The product line popularized medicinal mushrooms for general health maintenance, though it has also drawn criticism from some mycologists who argue that the marketing sometimes outpaces the clinical evidence. Nonetheless, Host Defense has been instrumental in bringing species like turkey tail and lion's mane into mainstream awareness.
 
-
-
-
-
-
-
 ## Biographical Details
 
 Stamets was born in 1955 in Ohio. His interest in mycology began in childhood after a close encounter with a fungal infection, and he later studied at The Evergreen State College in Olympia, Washington. His early career combined field mycology in the Pacific Northwest with entrepreneurial ventures in mushroom cultivation. He has received numerous awards including the Invention Ambassador award from the American Association for the Advancement of Science.
 
-
-
-
-
-
-
 ## Legacy
 
 Stamets' work has popularized mycology for a general audience while maintaining scientific credibility. His ability to communicate complex mycological concepts in accessible language has made him the most publicly recognizable mycologist of his generation. His advocacy for fungal conservation and ecological restoration has influenced permaculture, regenerative agriculture, and environmental science.
-
-
-
-
-
-
 
 ## Related
 

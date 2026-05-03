@@ -19,19 +19,13 @@ sources:
 
 [[terence-mckenna]]'s speculative theory that psilocybin mushrooms played a catalytic role in the rapid evolution of human consciousness, language, and culture.
 
-
-
 ## Overview
 
 McKenna proposed that the sudden and still-unexplained tripling of the human brain size over approximately three million years of hominid evolution was catalyzed by the inclusion of psychoactive mushrooms -- particularly psilocybin-containing species of the genus *Psilocybe* -- in the protohuman diet. He articulated this hypothesis most fully in *Food of the Gods* (1992).
 
-
-
 ## The Evolutionary Puzzle
 
 McKenna framed his hypothesis around a well-established problem in paleoanthropology: between the emergence of *Homo habilis* (average brain weight 770 grams) and *Homo erectus* (900-1100 grams), and then *Homo sapiens* (approximately 1350 grams), human brain size tripled in what Lumsden and Wilson called "perhaps the fastest advance recorded for any complex organ in the whole history of life." This rate of change implies "extraordinary selective pressures" that conventional theories -- bipedalism, tool use, social organization -- have not fully explained.
-
-
 
 ## The Three Levels of Psilocybin Use
 
@@ -49,13 +43,9 @@ At moderate doses, psilocybin acts as a central nervous system stimulant, trigge
 
 At high doses, psilocybin produces the "full-blown shamanic ecstasy" -- boundary-dissolving rapture that predisposes groups to community bonding and group sexual activities, promoting gene mixing, higher birth rates, and communal responsibility for offspring. This level provides "access to realms of supernatural power."
 
-
-
 ## Language and Synesthesia
 
 McKenna argued that psilocybin's power to stimulate synesthesia -- the experience of seeing sounds, hearing colors -- was crucial to the development of language. Synesthesia breaks down the barriers between sensory modalities, and McKenna proposed that this experience of "seeing" meaning could have catalyzed the emergence of linguistic behavior: "psilocybin can be considered the catalyst to the human development of language."
-
-
 
 ## Addressing the Lamarckian Objection
 
@@ -63,13 +53,9 @@ A key objection is that if mushrooms provided enhanced visual acuity, language, 
 
 McKenna responded that psilocybin inclusion in the diet "changed the parameters of the process of natural selection by changing the behavioral patterns upon which that selection was operating." New behaviors -- especially language use -- became highly adaptive in the context of hunting and gathering lifestyles. The psilocybin-using individuals developed "epigenetic rules or cultural forms" that enabled them to survive and reproduce better. These successful behavioral patterns spread through populations along with the genes that reinforced them, so the population "evolved genetically and culturally."
 
-
-
 ## Ecological Context
 
 McKenna noted that psilocybin mushrooms of the genus *Psilocybe* grow predominantly on the dung of ungulate (hoofed) herbivores -- the same animals that early hominids hunted and followed across the grasslands of Africa. As hominids expanded from forest to savanna, they would have encountered *Psilocybe* species growing on bovine dung. The mushrooms' preference for this ecological niche placed them directly in the path of evolving humans.
-
-
 
 ## Reception and Criticism
 
@@ -81,8 +67,6 @@ The [[stoned-ape-hypothesis]] remains highly controversial and is not accepted w
 - Alternative explanations for brain expansion (social brain hypothesis, dietary changes from cooking, etc.) are better supported by evidence.
 
 McKenna acknowledged the speculative nature of the theory but maintained that the coincidence of psilocybin's extraordinary pharmacological properties with the ecological context of early hominid evolution warranted serious consideration.
-
-
 
 ## Related Topics
 

@@ -131,8 +131,6 @@ Modern multiphysics simulation often couples mechanical deformation with heat tr
 
 The most important practical skill is not merely solving equations but selecting the simplest model that captures the controlling physics at the relevant scale.
 
-Continuum mechanics remains foundational because it organizes diverse physical systems around conservation, geometry, material response, and scale.
-
 ## See Also
 
 - [[lagrangian-mechanics]]

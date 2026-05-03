@@ -11,15 +11,9 @@ sources: ["Shulgin - PIHKAL"]
 PIHKAL entry #47. 2,5-DIMETHOXY-4-CYCLOPROPYLTHIOPHENETHYLAMINE.
 Also known as: SESQUI.
 
-
-
-
 ## Chemical Name
 
 2,5-DIMETHOXY-4-CYCLOPROPYLTHIOPHENETHYLAMINE
-
-
-
 
 ## Dosage and Duration
 
@@ -28,18 +22,12 @@ Also known as: SESQUI.
 | Dosage | greater than 30 mg. |
 | Duration | several hours. |
 
-
-
-
 ## Qualitative Comments
 
 > (at 30 mg) I was somewhere between a threshold
 > and a plus one for several hours, and appeared to be quite talkative
 > in the evening.
 >
-
-
-
 
 ## Extensions and Commentary
 
@@ -53,9 +41,6 @@ Towards the cyclobutyl homologue, a solution of 2,5-dimethoxythiophenol and cycl
 
 Towards the cyclopentyl homologue, a solution of 2,5-dimethoxythiophenol and cyclopentyl bromide in DMSO containing anhydrous potassium carbonate was stirred for several hours at room temperature and yielded 2,5-dimethoxyphenyl cyclopentyl sulfide as a white oil that boiled at 135-145 deg C at 0.3 mm/Hg. This was brought to react with a mixture of phosphorus oxychloride and N-methylformanilide producing 2,5-dimethoxy-4-(cyclopentylthio)benzaldehyde as yellow crystals from MeOH. This will some day be converted to the nitrostyrene and then reduced to 2,5-dimethoxy-4-cyclopentylthiophenethylamine hydrochloride, 2C-T-23.
 
-
-
-
 ## Synthesis
 
 To a solution of 3.3 g of KOH pellets in 150 mL hot MeOH, there was added 10 g 2,5-dimethoxythiophenol (see recipe for 2C-T-2 for its preparation) followed by 10 g 1-bromo-3-chloropropane. The reaction was exothermic, and immediately deposited white solids of KCl. The reaction mixture was warmed for a few min on the steam bath, and then quenched in H2O. The basic reaction mixture was extracted with 3x75 mL CH2Cl2. The pooled extracts were stripped of solvent under vacuum. The residual oil was distilled at 145-155 deg C at 0.2 mm/Hg to give 16.5 g of 2,5-dimethoxyphenyl 3-chloropropyl sulfide as a clear, colorless oil.
@@ -68,17 +53,11 @@ A completely different approach to the synthesis of this sulfide was explored th
 
 (Additional synthesis details available in source.)
 
-
-
-
 ## Safety Notes
 
 2C-T-15 is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
-
 
 ## See Also
 

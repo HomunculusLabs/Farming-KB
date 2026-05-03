@@ -11,10 +11,6 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/unknown-growing-gou
 
 Mycelium composites are materials produced by growing fungal mycelium through [[agricultural-waste-substrates]], creating dense, structural materials that can replace traditional products like styrofoam packaging, building insulation, and even leather.
 
-
-
-
-
 ## How Mycelium Composites Are Made
 
 The process exploits the natural tendency of mycelium to colonize and bind together substrate materials:
@@ -24,10 +20,6 @@ The process exploits the natural tendency of mycelium to colonize and bind toget
 3. **Colonization**: The mycelium grows through the substrate over days to weeks, binding the particles together with a dense network of hyphae
 4. **Formation**: The colonized substrate is pressed into molds (for packaging, bricks, panels) or shaped into sheets
 5. **Drying/termination**: Heat treatment stops growth and dries the material, producing a stable composite
-
-
-
-
 
 ## Properties
 
@@ -40,10 +32,6 @@ Mycelium composites offer several advantageous properties:
 - **Acoustic absorption**: Effective sound dampening
 - **Structural strength**: Can be engineered for various strength requirements depending on substrate density and fungal species
 
-
-
-
-
 ## Applications
 
 ### Packaging
@@ -55,10 +43,6 @@ Mycelium can be grown into bricks, insulation panels, and wallboard. The materia
 ### Leather Alternatives
 Mycelium can be grown into thin, durable sheets that mimic the texture and properties of animal leather. This application offers a sustainable alternative for fashion and upholstery.
 
-
-
-
-
 ## Suitable Fungal Species
 
 Species with strong mycelial networks and rapid colonization are preferred:
@@ -67,17 +51,9 @@ Species with strong mycelial networks and rapid colonization are preferred:
 - **Pleurotus ostreatus**: Fast colonizer, aggressive growth through diverse substrates
 - **Trametes versicolor**: Strong white rot fungus with tenacious mycelial binding
 
-
-
-
-
 ## Relationship to Stamets' Work
 
 While Mycelium Running discusses the structural role of mycelium in nature -- binding soil, creating aggregates, and forming mats that resist erosion -- the commercial development of mycelium composites extends these natural properties into manufactured materials. The concept draws directly from observations of how mycelium binds wood chips into coherent masses in mycofiltration installations and how fungal mycelium creates durable structures in nature.
-
-
-
-
 
 ## See Also
 

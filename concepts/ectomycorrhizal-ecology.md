@@ -11,8 +11,6 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody plants — primarily trees in temperate and boreal forests. The fungus forms a sheath (mantle) around the root tip and a Hartig net between root cells, facilitating nutrient exchange. ECM fungi are essential to forest health, tree nutrition, and ecosystem function.
 
-
-
 ## The Symbiosis
 
 ### What the Fungus Provides the Tree
@@ -27,8 +25,6 @@ Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody 
 - **Habitat**: Root surface as substrate for growth and reproduction
 - **Specific sugars**: Glucose and sucrose as primary carbon sources
 
-
-
 ## Host Specificity
 
 ### Broad Host Range
@@ -41,8 +37,6 @@ Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody 
 - Suillus species: primarily Pinaceae (pine, spruce, larch)
 - Lactarius and Russula: often genus-specific (oak, birch, pine)
 - Narrow specialists increase in mature, diverse forests
-
-
 
 ## Forest Succession and ECM
 
@@ -58,8 +52,6 @@ Ectomycorrhizal fungi (ECM) form symbiotic associations with the roots of woody 
 - Long-distance exploration type (far-reaching, cord-forming hyphae)
 - Fruiting bodies (mushrooms) more diverse and abundant
 
-
-
 ## Exploration Types
 ECM fungi are classified by how they forage for nutrients:
 - **Contact**: Short hyphae, high density, efficient in nutrient-rich patches
@@ -69,15 +61,11 @@ ECM fungi are classified by how they forage for nutrients:
 
 Forests with diverse exploration types are more resilient — they access nutrients from different soil volumes and microhabitats.
 
-
-
 ## Ecological Significance
 - ECM fungi are keystone organisms in temperate and boreal forests
 - They drive nutrient cycling, carbon sequestration, and plant community composition
 - Forest productivity is directly linked to ECM diversity and function
 - Climate change impacts on ECM (warming, drought, N deposition) affect entire forest ecosystems
-
-
 
 ## Related
 - [[mycorrhizal-fungi]] — for the other major mycorrhizal type

@@ -15,9 +15,6 @@ over 90% of fungal diversity remains undocumented. This gap in knowledge is
 one of the largest in all of biology and has profound implications for ecology,
 medicine, and biotechnology.
 
-
-
-
 ## Major Phyla
 
 Fungi are classified into several major phyla, each with distinct ecological
@@ -44,9 +41,6 @@ roles and morphological characteristics:
   relationships with the roots of most terrestrial plants. Essential for plant
   nutrient uptake in ecosystems worldwide.
 
-
-
-
 ## Cryptic Diversity
 
 A significant challenge in fungal taxonomy is the prevalence of cryptic
@@ -57,9 +51,6 @@ actually species complexes containing dozens of unrecognized taxa. Environmental
 DNA (eDNA) sampling from soil, water, and air has further uncovered vast
 communities of fungi that have never been observed directly.
 
-
-
-
 ## Functional Diversity
 
 Fungi occupy virtually every ecological niche. They are the primary decomposers
@@ -69,9 +60,6 @@ secondary metabolites including antibiotics, toxins, and enzymes. The
 functional diversity of fungi far exceeds what their described species count
 would suggest, and many ecosystem services provided by fungi are carried out by
 undocumented species.
-
-
-
 
 ## See Also
 

@@ -8,7 +8,7 @@ tags: []
 
 ## Overview
 CRISPR base editing is a genome engineering method that changes individual DNA bases without making a full double-strand break.
-It adapts the targeting logic of [[CRISPR-Cas9]] while replacing cutting with chemical conversion.
+It adapts the targeting logic of CRISPR-Cas9 while replacing cutting with chemical conversion.
 A base editor usually combines a guide RNA, a Cas protein with impaired nuclease activity, and a deaminase enzyme.
 The guide RNA brings the editor to a chosen genomic sequence.
 The Cas protein opens a small DNA bubble at the target site.
@@ -109,16 +109,16 @@ Base editing could widen health disparities if it remains expensive.
 It could also reduce suffering if safe treatments become broadly available.
 
 ## Related concepts
-[[CRISPR-Cas9]]
-[[Gene Therapy]]
-[[Prime Editing]]
-[[DNA Repair]]
-[[Genomics]]
-[[Synthetic Biology]]
-[[Molecular Biology]]
-[[Bioethics]]
-[[Somatic Cell Editing]]
-[[Functional Genomics]]
+CRISPR-Cas9
+Gene Therapy
+Prime Editing
+DNA Repair
+Genomics
+Synthetic Biology
+Molecular Biology
+Bioethics
+Somatic Cell Editing
+Functional Genomics
 
 ## See also
 Base editing is best understood as one member of a family of programmable editing technologies.

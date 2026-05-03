@@ -7,18 +7,6 @@ tags: [medicinal-mushroom, immunology, cancer, polysaccharide-k, polysaccharide-
 sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Trametes versicolor (Turkey Tail) — Cancer Research Summary
 
 Turkey tail (Trametes versicolor, formerly Coriolus versicolor) is one of the most extensively researched medicinal mushrooms for cancer treatment. It produces two key polysaccharide compounds: PSK (polysaccharide-K, krestin) and PSP (polysaccharide-peptide).
@@ -64,18 +52,6 @@ Excellent safety record across decades of clinical use. Mild gastrointestinal ef
 ### Traditional Use
 
 Used in Traditional Chinese Medicine as "Yun Zhi" (cloud mushroom) to strengthen vitality, clear dampness, and reduce phlegm. The modern research validates its traditional application in supporting patients with chronic illness.
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## See Also
 

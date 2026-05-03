@@ -9,15 +9,9 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Wormery Construction
 
-
-
-
 ## Overview
 
 A wormery is a managed system for producing [[vermicomposting]] by housing composting worms (typically red worms / nightcrawlers, *Lumbricus terrestris*) in a purpose-built container. Worms dramatically speed up decomposition and produce a superior soil conditioner and fertilizer compared to conventional composting.
-
-
-
 
 ## How Worms Improve Soil
 
@@ -25,15 +19,9 @@ Worms feed on organic matter and eject it as gel-coated pellets. This crumb stru
 
 Worms break organic matter into smaller granules, enabling soil microbes to work on a greater surface area. They produce enzymes that help bacteria work more efficiently, accelerating decomposition overall.
 
-
-
-
 ## Worm Species
 
 The worms needed are commonly known as "nightcrawlers" or "red worms" (*Lumbricus terrestris*). These worms do not live long in ordinary soil but multiply very quickly in manure or compost heaps. If none are found in your compost heap, buy from a fishing tackle shop or specialist supplier.
-
-
-
 
 ## Building a Wormery (Step by Step)
 
@@ -47,9 +35,6 @@ The worms needed are commonly known as "nightcrawlers" or "red worms" (*Lumbricu
 6. **Cover with a layer** of old compost or manure and a handful of nightcrawlers
 7. **Add a thin layer** of uncomposted material on top, cover with old carpet or insulated packaging
 
-
-
-
 ## Operating the Wormery
 
 - Build up slowly — no more than 3in (7cm) of material per week
@@ -60,15 +45,9 @@ The worms needed are commonly known as "nightcrawlers" or "red worms" (*Lumbricu
 - Optimum temperature: 68-75F (20-24C)
 - In cold weather, cover with old carpet; in hot weather, water the material (too wet is better than too dry)
 
-
-
-
 ## Harvesting Worm-Cast Compost
 
 The worm works upward through layers. Take worm-worked material from the bottom of the box using the scraper system, leaving worms inside to continue working upper layers.
-
-
-
 
 ## Uses for Worm-Cast Compost
 
@@ -78,9 +57,6 @@ The worm works upward through layers. Take worm-worked material from the bottom 
 - Rake into top inch of seedbed for crumbly surface structure
 - Seed compost: mix 1 part worm-cast compost with 2 parts peat
 - Potting compost: equal parts peat and worm-cast compost
-
-
-
 
 ## Related
 

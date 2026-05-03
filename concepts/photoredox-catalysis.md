@@ -139,7 +139,6 @@ Representative primary literature to consult includes reviews by MacMillan, Yoon
 photoredox catalysis, nickel-photoredox cross-coupling, and organic dye photocatalysts.
 
 Photoredox methods can also model single-electron radical processes relevant to [[reactive-metabolites-and-bioactivation-toxicology]], though the page here treats the chemistry at a concept level rather than as a toxicology protocol.
-
 ## See Also
 
 - [[oxidative-addition-vs-photoredox-catalysis]]

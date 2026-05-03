@@ -12,15 +12,11 @@ sources:
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
-
-
 ## Mahayana Natural Farming
 
 When the human spirit and human life blend with the natural order and man devotes himself entirely to the service of nature, he lives freely as an integral part of the natural world, subsisting on its bounty without having to resort to purposeful effort. This type of farming transcends time and space and reaches the zenith of understanding and enlightenment.
 
 The relationship between man and nature is like an ideal marriage in which the partners together realize a perfect life without asking for, giving, or receiving anything of each other. Mahayana farming is the very embodiment of life in accordance with nature.
-
-
 
 ## Hinayana Natural Farming
 
@@ -28,13 +24,9 @@ This type of farming arises when man earnestly seeks entry to the realm of Mahay
 
 Hinayana farming attempts to cast off human knowledge and action and devote itself to making the greatest possible use of the pure forces of nature. Borrowing an analogy from swordfighting, Hinayana may be likened to the one-sword school directed toward the center.
 
-
-
 ## Scientific Farming
 
 Man exists in a state of contradiction, basically estranged from nature, living in a totally artificial world, yet longing for a return to nature. Scientific farming forever wanders blindly, now calling upon the blessings of nature, now rejecting it in favor of human knowledge and action. It uses all possible means, increasing the number of swords.
-
-
 
 ## Yield Comparison
 
@@ -45,8 +37,6 @@ Man exists in a state of contradiction, basically estranged from nature, living 
 The irregular shape of scientific farming represents the distortions and imperfections arising from narrow research findings. This contrasts with the perfect circle that signifies the perfection of nature toward which Hinayana natural farming aspires.
 
 [[fukuoka-relative-merits-natural-scientific-agriculture]] | [[fukuoka-how-nature-should-be-perceived]] | mu philosophy | [[natural-farming-philosophy]] | [[fukuoka-natural-farming-new-age]]
-
-
 
 ## Key Points
 
@@ -61,8 +51,6 @@ The irregular shape of scientific farming represents the distortions and imperfe
 9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
 10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
 
-
-
 ## Practical Applications
 
 - Start with a small area and observe natural vegetation patterns before introducing any cultivation.
@@ -73,8 +61,6 @@ The irregular shape of scientific farming represents the distortions and imperfe
 - Create a diverse orchard with ground cover plants that fix nitrogen, attract pollinators, and suppress unwanted vegetation.
 - Apply a thin layer of chicken manure or compost only if soil fertility is visibly deficient.
 - Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
-
-
 
 ## See Also
 

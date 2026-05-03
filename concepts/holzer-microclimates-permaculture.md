@@ -11,8 +11,6 @@ sources:
 
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
 
-
-
 ## The Importance of Microclimates
 
 Microclimates are a very important aspect of any permaculture system. Every microclimate forms a special biotope that is colonised by a particular community of plants. A large number of animals find food, a habitat, somewhere to breed and take refuge. The different microclimates give useful insects somewhere to breed as well.
@@ -21,13 +19,9 @@ This is why I try to create as many microclimates as possible throughout a perma
 
 Microclimates are areas in which the climatic conditions are completely unlike those of the surrounding area. This means that these places can be comparatively dry, wet, shady or sunny -- all depending on what the microclimate is needed for. This allows me to create the correct conditions for very different kinds of plants in a relatively small area.
 
-
-
 ## Natural Microclimate Formation
 
 Microclimates may develop naturally near large stones, in clefts in the rock, in hollow tree trunks, near tree stumps, in hedges or amongst trees and shrubs. Favourable climatic conditions can also be created by making terraces, raised beds and ditches. It is especially important to keep the lines of the terraces and paths as rounded and winding as possible. Straight lines create wind tunnels, whereas curved shapes make niches that are sheltered from the wind and can work as suntraps.
-
-
 
 ## Creating Microclimates in Different Contexts
 
@@ -38,8 +32,6 @@ In the Scottish Highlands, the areas had been cleared centuries ago. Nothing but
 The beneficial effects of microclimates have even allowed me to grow cacti outside during the winter, and apricots, sweet chestnut, grapes and kiwi fruit in particularly warm and sheltered areas on the Krameterhof at 1,100-1,500m above sea level.
 
 [[holzer-permaculture-landscape-design]] | [[holzer-assessing-the-land]] | [[microclimate-creation-permaculture]] | [[holzer-terrace-systems]] | [[sepp-holzer-method]]
-
-
 
 ## Key Points
 
@@ -54,8 +46,6 @@ The beneficial effects of microclimates have even allowed me to grow cacti outsi
 9. Fruit trees are managed without pruning, allowing them to develop natural forms suited to their environment.
 10. Crop diversity and polyculture systems provide resilience against weather extremes, pests, and disease.
 
-
-
 ## Practical Applications
 
 - Walk the land extensively during different seasons and weather conditions before beginning any earthworks or planting.
@@ -66,8 +56,6 @@ The beneficial effects of microclimates have even allowed me to grow cacti outsi
 - Use stone walls and large rocks as thermal mass to create warm microclimates for heat-loving crops.
 - Establish polyculture strips with diverse root depths, growth habits, and maturity dates.
 - Allow natural succession to inform planting schemes rather than imposing rigid crop plans.
-
-
 
 ## See Also
 - [[holzer-pig-keeping-paddock-system]]

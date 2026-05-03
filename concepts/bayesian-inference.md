@@ -144,10 +144,6 @@ It supports engineering by providing real-time updating under uncertainty.
 - markov chain monte carlo
 - hierarchical models
 - [[kalman-filter]]
-- machine learning
-- decision theory
-- uncertainty quantification
-
 ## Related
 
 - [[mescaline-reference]]
