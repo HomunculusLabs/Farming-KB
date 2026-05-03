@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**965 pages**
+**975 pages**
 
 ## #
 
@@ -250,12 +250,16 @@
 - [[fukuoka-spiritual-philosophy-farming]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
 - [[fukuoka-textdoc-decline-quality-food]]
+- [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]
+- [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-farming-for-all-vision]]
+- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
+- [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-getting-natural-diet]]
@@ -277,6 +281,7 @@
 - [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-no-good-or-evil-in-nature]]
+- [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
@@ -471,6 +476,7 @@
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
 - [[mckenna-archaic-revival]]
+- [[mckenna-archaic-sexuality-and-partnership-society]]
 - [[mckenna-art-archaic-revival]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-brothers-la-chorrera-experiment-1971]]
@@ -487,6 +493,7 @@
 - [[mckenna-dissolution-of-the-dominator-culture]]
 - [[mckenna-dmt-amazonian-ecosystems]]
 - [[mckenna-dmt-experience-and-hyperspace]]
+- [[mckenna-dmt-experience-and-overmind]]
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-drug-war-and-human-freedom]]
 - [[mckenna-eleusinian-mysteries]]
@@ -519,6 +526,7 @@
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-human-cognition-and-the-stoned-age]]
 - [[mckenna-huxley-mind-at-large-reducing-valve]]
+- [[mckenna-hyperspace-and-human-freedom]]
 - [[mckenna-inquisition-suppression-of-plant-knowledge]]
 - [[mckenna-jaynes-bicameral-mind-breakdown]]
 - [[mckenna-language-and-reality]]
@@ -536,6 +544,7 @@
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-psychedelic-shamanism]]
+- [[mckenna-shamanic-meme]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
 - [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-sugar-slavery-and-dominance]]
@@ -553,6 +562,7 @@
 - [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-vedic-soma-indo-european-mysteries]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
+- [[mckenna-world-made-of-language]]
 - [[md-family-structure-activity]]
 - [[mda-compound-profile]]
 - [[mde-compound-profile]]
