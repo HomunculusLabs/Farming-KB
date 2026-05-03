@@ -10,8 +10,8 @@ sources:
 # Why No-Fertilizer Tests Are Absent from Agricultural Science
 
 Strange as it may seem, scientists hardly ever run experiments on
-no-fertilizer cultivation. In Japan, only a handful of reports have been
-published over the last few years on the cultivation of fruit trees without
+no-fertilizer cultivation. [[fukuoka-why-natural-farming-blocked-in-japan]], only a handful of reports have been
+published over the last few years on the cultivation of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] without
 fertilizer in small concrete enclosures and earthen pots. Some tests have
 been done on rice and other grains, but only as controls. The reason why
 no-fertilizer tests are not performed is all too clear. Scientists work from
@@ -29,7 +29,7 @@ the common belief is that yields are terrible, on the order of one-third that
 obtained with fertilizers.
 
 However, the conditions under which these no-fertilizer experiments were
-conducted have little in common with true natural farming. When crops are
+conducted have little in common with true [[natural-farming-guide-permaculture-design-for-small-holdings]]. When crops are
 planted in small earthenware pots or artificial enclosures, the soil in which
 they grow is dead soil. The growth of trees whose roots are boxed in by
 concrete is highly unnatural. It is unreasonable to claim that because plants
@@ -124,7 +124,7 @@ land became buried under a mantle of rich soil.
 
 ## The Compost Question
 
-The logic that rejects grassed fields, green manure, and the direct
+The logic that rejects grassed fields, [[sepp-holzer-soil-fertility-and-green-manure]], and the direct
 application and plowing under of human wastes and livestock manure changes
 with time and circumstances. Given the right conditions, these may be
 effective. But no fertilizer method is absolute. The surest way to solve the
@@ -143,6 +143,6 @@ Because the net effect of these efforts is to speed up [[decomposition]] by at
 most ten to twenty percent, this can hardly be called necessary, especially
 since there already was a method of applying straw that achieved outstanding
 results. The [[fukuoka-straw-mulch-philosophy]] provides
-a natural pathway for nutrient cycling without the labor-intensive composting
+a natural pathway for [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] without the labor-intensive composting
 process that [[fukuoka-natural-farming-vs-organic-farming]]
 typically requires.

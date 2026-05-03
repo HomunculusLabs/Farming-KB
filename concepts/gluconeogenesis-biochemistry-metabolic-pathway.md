@@ -31,7 +31,7 @@ GNG is indispensable for survival. The human brain consumes approximately 120 g 
 
 ### 1. Pyruvate to Oxaloacetate (Pyruvate Carboxylase)
 
-Pyruvate carboxylase (PC), a mitochondrial enzyme, carboxylates pyruvate to oxaloacetate (OAA) using ATP and bicarbonate. PC requires biotin as a covalently bound cofactor and acetyl-CoA as a potent allosteric activator. Acetyl-CoA signals a high-energy, low-carbohydrate state (e.g., beta-oxidation of fatty acids), effectively telling the cell to divert pyruvate toward glucose synthesis rather than oxidation. This is a key committed step and a major point of regulation.
+Pyruvate carboxylase (PC), a mitochondrial enzyme, carboxylates pyruvate to oxaloacetate (OAA) using ATP and bicarbonate. PC requires biotin as a covalently bound cofactor and acetyl-CoA as a potent allosteric activator. Acetyl-CoA signals a high-energy, low-carbohydrate state (e.g., beta-oxidation of [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]), effectively telling the cell to divert pyruvate toward glucose synthesis rather than oxidation. This is a key committed step and a major point of regulation.
 
 ### 2. Oxaloacetate to Phosphoenolpyruvate (PEP Carboxykinase)
 
@@ -78,7 +78,7 @@ Alanine serves as a nitrogen carrier from muscle to liver. Muscle proteolysis du
 ### Allosteric Regulation
 
 - **Acetyl-CoA** allosterically activates pyruvate carboxylase, linking GNG to fatty acid oxidation.
-- **AMP** inhibits both FBPase-1 and PEPCK, signaling low cellular energy and suppressing GNG.
+- **AMP** inhibits both FBPase-1 and PEPCK, signaling low [[adenosine-triphosphate-and-cellular-energy]] and suppressing GNG.
 - **Fructose-2,6-bisphosphate (F2,6BP)** is the most potent regulator of the FBPase-1/PFK-1 pair: it activates PFK-1 and inhibits FBPase-1, strongly suppressing GNG.
 - **ATP and citrate** activate FBPase-1, promoting GNG when energy is abundant.
 
@@ -136,7 +136,7 @@ Impaired gluconeogenesis contributes to hypoglycemia in multiple clinical settin
 
 ## Evolutionary Conservation
 
-Gluconeogenesis is an ancient, evolutionarily conserved pathway present in virtually all life forms — bacteria, plants, fungi, and animals. The fundamental enzymatic steps are remarkably preserved across species, reflecting the essential nature of glucose homeostasis. In plants, GNG is critical for seed germination (converting stored lipids and proteins to sugars) and the synthesis of cell wall components. In C4 and CAM plants, specialized GNG pathways contribute to carbon concentration mechanisms for photosynthesis. The conservation of the key bypass enzymes (PC, PEPCK, FBPase, G6Pase) across all domains of life underscores their early evolutionary origin and fundamental metabolic importance.
+Gluconeogenesis is an ancient, evolutionarily conserved pathway present in virtually all life forms — bacteria, plants, fungi, [[permaculture-interaction-of-plants-and-animals]]. The fundamental enzymatic steps are remarkably preserved across species, reflecting the essential nature of glucose homeostasis. [[diffusion-osmosis-and-active-transport-in-plants]], GNG is critical for [[seed-germination-techniques-solomon]] (converting stored lipids and proteins to sugars) and the synthesis of cell wall components. In C4 and CAM plants, specialized GNG pathways contribute to carbon concentration mechanisms for photosynthesis. The conservation of the key bypass enzymes (PC, PEPCK, FBPase, G6Pase) across all domains of life underscores their early evolutionary origin and fundamental metabolic importance.
 ## Related Topics
 
 - [[glycolysis-embden-meyerhof-parnas-pathway]]

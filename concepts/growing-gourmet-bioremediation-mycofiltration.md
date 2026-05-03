@@ -44,8 +44,8 @@ mushroom tissues.
 ## Bioremediation with Fungi
 
 A number of fungi can be used to detoxify contaminated environments,
-a process called "bioremediation." The white rot fungi (particularly
-Phanerochaete chrysosporium) and brown rot fungi (notably Gloeophyllum
+a process called "bioremediation." The [[white-rot-fungi]] (particularly
+[[phanerochaete-chrysosporium]]) and brown rot fungi (notably Gloeophyllum
 species) are the most widely used. Most of these wood-rotters produce
 lignin peroxidases and cellulases which have unusually powerful
 degradative properties.

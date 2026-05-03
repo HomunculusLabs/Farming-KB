@@ -7,7 +7,7 @@ tags: [homesteading, off-grid, chemistry, processing, sustainability, energy, sa
 sources: []
 ---
 ## Overview
-Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On a homestead scale, biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost.
+Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On [[query-how-to-start-beekeeping-on-a-homestead]] scale, biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost.
 ## The Chemistry of Transesterification
 Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct.
 The reaction:
@@ -107,7 +107,7 @@ Glycerin makes up about 20% of the reaction volume and has several uses:
 - **Degreaser** — Raw glycerin is an effective industrial degreaser
 Do not dump large quantities of glycerin on the ground or in waterways. The methanol content makes it toxic until it has fully evaporated.
 ## Safety Considerations
-- **Methanol** is toxic, flammable, and absorbed through skin. Work outdoors, wear a respirator with organic vapor cartridges, nitrile gloves, and safety goggles
+- **Methanol** is toxic, flammable, and absorbed through skin. Work outdoors, wear a respirator with organic vapor cartridges, nitrile gloves, [[palmer-about-mushrooms-foraging-basics-and-safety]] goggles
 - **Sodium methoxide** is extremely caustic. It causes severe chemical burns on contact with skin or eyes
 - **Fire risk** — Methanol vapors are heavier than air and can travel to ignition sources. No open flames or sparks near the processing area
 - **Ventilation** — Work in a well-ventilated area. Methanol exposure limits are 200ppm over 8 hours
@@ -118,4 +118,4 @@ Do not dump large quantities of glycerin on the ground or in waterways. The meth
 - Off-road use (farm equipment, generators) generally has fewer regulatory requirements than on-road vehicle fuel
 - Check local fire codes for methanol storage requirements
 ## Related Topics
-Biodiesel production complements other off-grid energy systems. See [[biogas-digester-basics]] for another renewable fuel approach. The glycerin byproduct connects to soap making in [[soap-making-guide]]. Energy system design principles overlap with broader [[fungi-and-sustainability]] goals on the homestead.
+Biodiesel production complements other off-grid [[permaculture-designers-manual-energy-systems]]. See [[biogas-digester-basics]] for another renewable fuel approach. The glycerin byproduct connects to soap making in [[soap-making-guide]]. Energy system [[mollison-designers-free-range-forage-design-principles]] overlap with broader [[fungi-and-sustainability]] goals on [[faires-household-products-from-the-homestead]].

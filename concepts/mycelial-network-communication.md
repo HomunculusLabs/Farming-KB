@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 Mycelial networks are the underground filamentous structures formed by fungi,
 consisting of vast arrays of hyphae that connect individual organisms and
 facilitate resource exchange, signaling, and environmental sensing across
-large distances. Often referred to as the "Wood Wide Web," these networks
+large distances. Often referred to as the "[[wood-wide-web]]," these networks
 represent one of nature's most sophisticated biological communication systems.
 
 ## Structure of the Mycelial Network
@@ -74,7 +74,7 @@ locations (growing tips, fruiting bodies, or connected plant partners).
 In mycorrhizal networks, this resource sharing extends between different plant
 species. Research by Suzanne Simard and colleagues demonstrated that
  Douglas-fir seedlings receive carbon from older conspecific trees through
-common mycorrhizal networks, with preferential transfer to kin over
+[[common-mycorrhizal-networks]], with preferential transfer to kin over
 non-related individuals.
 
 ## Ecological Implications

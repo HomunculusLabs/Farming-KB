@@ -13,7 +13,7 @@ sources: []
 
 ## Taxonomy and Nomenclature
 
-*Myristica fragrans* Houtt. is the type species of the genus *Myristica*, which comprises approximately 120 species distributed across the tropics. The family Myristicaceae includes about 18 genera and 300 species of tropical trees. Several other *Myristica* species produce edible seeds, but *M. fragrans* alone is commercially cultivated for spice production.
+*Myristica fragrans* Houtt. is the type species of the genus *Myristica*, which comprises approximately 120 species distributed across the tropics. The family Myristicaceae includes about 18 genera and 300 species of [[mollison-designers-moringa-and-multipurpose-tropical-trees]]. Several other *Myristica* species produce edible seeds, but *M. fragrans* alone is commercially cultivated for spice production.
 
 The English word "nutmeg" derives from the Latin *nux muscata*, meaning "musky nut," referring to the aromatic seed. The word "mace" comes from the Latin *macir*, itself borrowed from an Arabic or Sanskrit source. In Sanskrit, nutmeg was known as *jatiphala*, and in Arabic as *jawz buwa*.
 
@@ -48,7 +48,7 @@ Nutmeg contains a complex mixture of volatile oils, fixed oils, and psychoactive
 
 - **Trimyristin** — the major fixed oil component, comprising 15% to 25% of the seed. Trimyristin is a triglyceride of myristic acid (tetradecanoic acid) and is used commercially in the synthesis of myristic acid and its derivatives.
 - **Myristic acid** — a saturated fatty acid widely used in soap making and cosmetics.
-- **Additional fatty acids** — including oleic, palmitic, linoleic, and stearic acids.
+- **Additional [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]** — including oleic, palmitic, linoleic, and stearic acids.
 
 ### Volatile Oils
 
@@ -65,7 +65,7 @@ These volatile compounds give nutmeg its characteristic warm, sweet, aromatic fl
 
 ## Psychoactive Effects
 
-When consumed in doses significantly exceeding culinary amounts (typically 5 to 20 grams of ground nutmeg), nutmeg produces pronounced psychoactive effects classified as **deliriant** in nature:
+When consumed in doses significantly exceeding culinary amounts (typically 5 to 20 grams of ground nutmeg), nutmeg produces pronounced psychoactive effects classified as **deliriant** [[fukuoka-textdoc-no-cause-and-effect-in-nature]]:
 
 - **Onset**: 2 to 6 hours after ingestion, reflecting the slow absorption and metabolic conversion of the active compounds
 - **Peak effects**: 5 to 8 hours after ingestion
@@ -107,13 +107,13 @@ Chronic heavy use of nutmeg has been associated with nutmeg dependence syndrome,
 
 ## Legal Status
 
-Nutmeg is uncontrolled worldwide as a food spice. It is sold freely in grocery stores and markets globally. However, several jurisdictions have enacted restrictions specifically targeting the sale of nutmeg in quantities suggestive of recreational use. In some Middle Eastern countries, importation of large quantities of nutmeg is restricted. The plant and its extracts remain legal to possess and purchase in virtually all countries. In the United States, myristicin itself is not a scheduled substance, though some states have considered regulatory action.
+Nutmeg is uncontrolled worldwide as a food spice. It is sold freely in grocery stores and markets globally. However, several jurisdictions have enacted restrictions specifically targeting the sale of nutmeg in quantities suggestive of recreational use. In some Middle Eastern countries, importation of large quantities of nutmeg is restricted. The plant and its extracts remain legal to possess and purchase in virtually all countries. In the [[psychedelic-research-legal-history-united-states]], myristicin itself is not a scheduled substance, though some states have considered regulatory action.
 
 ## Research and Pharmacology
 
 Research into the pharmacology of myristicin has revealed a complex mechanism of action. Myristicin inhibits monoamine oxidase (MAO), particularly MAO-A, at moderate concentratioserotonin may contribute to its psychoactive effects by increasing synaptic levels of monoamine neurotransmitters. It also exhibits weak agonist activity at serotonin 5-HT2A receptors, a pharmacological profile shared with many classical psychedelics. The metabolic conversion of myristicin to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), an amphetamine derivative with psychedelic properties, has been demonstrated in animal studies, though the extent to which this conversion occurs in humans remains unclear.
 
-In addition to its psychoactive properties, nutmeg extracts have demonstrated antibacterial, antifungal, anti-inflammatory, and hepatoprotective activities in preclinical studies. The essential oil has been investigated for its potential as a natural insecticide and as a food preservative due to its antimicrobial properties. These pharmacological activities are attributed to the combined effects of myristicin, elemicin, safrole, and the terpene constituents of the essential oil.
+In addition to its psychoactive properties, nutmeg extracts have demonstrated antibacterial, antifungal, anti-inflammatory, and hepatoprotective activities in preclinical studies. The essential oil has been investigated for its potential as a [[mollison-designers-neem-tree-as-natural-insecticide]] and as a food preservative due to its antimicrobial properties. These pharmacological activities are attributed to the combined effects of myristicin, elemicin, safrole, and the terpene constituents of the essential oil.
 
 ## See Also
 

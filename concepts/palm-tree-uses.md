@@ -56,7 +56,7 @@ Rattan canes are climbing palms used for furniture, baskets, and woven goods:
 ## Sago Palms
 
 ### Metroxylon sagu (Sago Palm)
-SE Asia, tropical rainforest swamps. Sago from trunk (300 kg/tree). Leaves for thatch. Lifespan 8-15 years, usually felled before terminal flowering.
+SE Asia, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] swamps. Sago from trunk (300 kg/tree). Leaves for thatch. Lifespan 8-15 years, usually felled before terminal flowering.
 
 ### Corypha elata (Gewang Palm)
 Indonesia. Sap for sugar (monocarpic, only after flowering). Trunk for coarse sago — livestock staple (pigs). Leaves for thatch.
@@ -82,13 +82,13 @@ Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 - **Hyphaene thebaica** (Doum Palm) — NE Africa, semi-desert, heavy crops of edible hard-shelled fruit, medicinal, sap for wine. Promising desert palm
 - **Mauritia flexuosa** (Buriti) — staple food: oil, fruit, heart-of-palm, wine. High in vitamins A and C. Fruit clusters to 45 kg. Leaf fibre for rope, sacking, hammocks. Trunk for balsa-like wood. Indicator plant for tropical rainforest swamp
 - **Salacca zalacca** (Salak Palm) — one of the finest palm fruits for eating raw, edible seeds
-- **Orbignya speciosa** (Babacu) — staple palm. Oil (40 kg/tree/yr) for margarine, soap, fatty acids. Kernels 72% oil. Seedcake 75% protein for animal feed. Thick shells for fuel
+- **Orbignya speciosa** (Babacu) — staple palm. Oil (40 kg/tree/yr) for margarine, soap, [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]. Kernels 72% oil. Seedcake 75% protein for animal feed. Thick shells for fuel
 
 ## Thatch and Building Material Palms
 
 - **Attalea funifera** (Piassava) — leaf base fibre exported, leaves for thatch
 - **Copernicia prunifera** (Carnauba Wax) — wax from leaves (100 g/tree/yr), very hard and durable trunks for wood
-- **Copernicia spp** (Yarey Palms) — compatible with grazing systems, trunks for pilings
+- **Copernicia spp** (Yarey Palms) — compatible with [[mollison-designers-sheep-management-grazing-systems]], trunks for pilings
 - **Lodoicea maldivica** (Coco de Mer) — world's largest seed, very large leaves for roofing
 - **Manicaria saccifera** (Monkey Cap Palm) — huge leaves for thatch, sails, baskets (natural sacs 60-90 cm deep)
 - **Thrinax spp** (Thatch Palms) — Caribbean, some grow on dry limestone sites
@@ -97,7 +97,7 @@ Palms from which the terminal growing bud (heart) is harvested as a vegetable:
 ## Dune Stabilization and Erosion Control
 
 - **Diplothemium maritimum** (Dune Palm) — Brazil, multi-stemmed, semi-hardy, edible green fruit
-- **Nannorhops ritchieana** (Mazari Palm) — S. Asia, subtropical mountains, erosion control for mountain slopes, leaves for thatch, edible fruit and heart, very hardy
+- **Nannorhops ritchieana** (Mazari Palm) — S. Asia, subtropical mountains, [[mollison-designers-vetiver-grass-for-erosion-control]] for mountain slopes, leaves for thatch, edible fruit and heart, very hardy
 - **Pinanga spp** — erosion control in SE Asian forests
 
 ## Fence Barrier Palms (Spiny)
@@ -123,5 +123,5 @@ Several palms have spiny trunks and prickly foliage that make effective fence ba
 ## Related
 
 - [[alkaline-soil-plants]] — many palms tolerate alkaline soils (especially date palm)
-- [[permaculture-principle-catch-and-store-energy]] — palms as multi-functional elements in permaculture design
+- [[permaculture-principle-catch-and-store-energy]] — palms as multi-functional elements [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
 - [[sepp-holzer-method]] — broad permaculture approach to integrating useful trees

@@ -23,7 +23,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 
 **Hippophae rhamnoides** is a deciduous, dioecious shrub in the family Elaeagnaceae, native to the coastal dunes, riverbanks, and mountain slopes of Europe and Asia.
 It is one of the most commercially significant nitrogen-fixing shrubs, cultivated extensively for its nutrient-dense orange berries used in food, cosmetics, and medicine.
-Sea buckthorn is increasingly recognized in permaculture for its soil-building capacity, windbreak utility, and exceptional nutritional profile.
+Sea buckthorn is increasingly recognized [[mollison-designers-thatch-and-natural-roofing-in-permaculture]] for its soil-building capacity, windbreak utility, and exceptional nutritional profile.
 
 ## Botanical Description
 
@@ -48,7 +48,7 @@ Hardy to USDA Zone 3, tolerating winter temperatures below minus 40 degrees Cels
 
 Sea buckthorn forms actinorhizal root nodules with Frankia bacteria, fixing atmospheric nitrogen at rates of 15 to 60 kg N per hectare per year depending on site conditions and plant age.
 Nitrogen fixation begins in the second year of growth and increases substantially as the root system develops.
-The extensive, fibrous root system also stabilizes loose soils and contributes significant organic matter through root turnover.
+The extensive, fibrous root system also stabilizes loose soils and contributes significant [[mollison-designers-humus-building-and-soil-organic-matter]] through root turnover.
 
 ## Fruit Composition and Nutrition
 
@@ -70,7 +70,7 @@ Sandy loams with pH 6.0 to 7.5 are optimal. Avoid heavy clay soils with poor dra
 Wind exposure is tolerated and even beneficial, as it increases branch strength and fruit set.
 
 ### Propagation Methods
-Seed propagation requires removal of the fleshy fruit, cold stratification at 3 to 5 degrees Celsius for 90 days, and spring sowing in nursery beds.
+[[green-cannabis-grow-bible-cloning-and-seed-propagation]] requires removal of the fleshy fruit, cold stratification at 3 to 5 degrees Celsius for 90 days, and spring sowing in nursery beds.
 Germination is epigeal and occurs in 2 to 4 weeks.
 Hardwood cuttings of 15 to 20 cm taken in November to February, treated with rooting hormone and placed under mist, root at 60 to 80 percent.
 Softwood cuttings from current season growth in June to July root at 80 to 95 percent under mist.
@@ -98,8 +98,8 @@ The dense thorny thickets offer nesting sites for birds and cover for small mamm
 
 ## Companion Planting
 
-In food forest systems, sea buckthorn integrates well as a middle canopy nitrogen fixer and windbreak element.
-It provides wind protection for establishing fruit trees, improves soil nitrogen content through fixation, and produces a marketable fruit crop.
+In [[mollison-designers-climate-zone-2-orchard-food-forest]] systems, sea buckthorn integrates well as a middle canopy nitrogen fixer and windbreak element.
+It provides wind protection for establishing [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], improves soil nitrogen content through fixation, and produces a marketable fruit crop.
 Compatible companions include seaberry, hazelnut, Siberian peashrub, elderberry, and rugosa rose in windbreak rows, with apple, pear, and plum as the main canopy.
 
 ## Related Species

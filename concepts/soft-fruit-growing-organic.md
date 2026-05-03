@@ -4,7 +4,8 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/steve-solomon-gardening-when-it-counts.md"
 ---
 
 # soft fruit growing organic

@@ -9,7 +9,7 @@ sources: []
 
 # wine making from grapes
 
-Making wine from grapes on the homestead connects you to one of humanity's oldest agricultural traditions. Whether you grow your own grapes, source from local vineyards, or buy in bulk, the principles of winemaking are accessible to anyone with attention to detail and patience.
+Making wine from grapes on [[faires-household-products-from-the-homestead]] connects you to one of humanity's oldest agricultural traditions. Whether you grow your own grapes, source from local vineyards, or buy in bulk, the principles of winemaking are accessible to anyone with attention to detail and patience.
 
 ## Grape Selection
 
@@ -27,12 +27,12 @@ Making wine from grapes on the homestead connects you to one of humanity's oldes
 - Chardonnay: full-bodied, buttery, apple. Adaptable to many climates.
 - Sauvignon Blanc: crisp, herbaceous, citrus. High acidity.
 - Riesling: aromatic, high acid, ranges from dry to sweet. Cold-hardy.
-- Gewurztraminer: highly aromatic, lychee and spice. Needs cool climate.
+- Gewurztraminer: highly aromatic, lychee and spice. Needs [[cool-climate-settlement-design-mollison]].
 - Muscat: floral, grapey, aromatic. Makes both dry and sweet wines.
 - Seyval Blanc: French-American hybrid. Disease-resistant, cold-hardy. Good beginner grape.
 
 ### Choosing for Your Climate
-- Cold climates (zone 4-5): Marquette, Frontenac, La Crescent, St. Croix, Brianna
+- [[permaculture-designers-manual-cold-climates]] (zone 4-5): Marquette, Frontenac, La Crescent, St. Croix, Brianna
 - Moderate climates (zone 6-7): Cabernet Franc, Merlot, Chardonnay, Riesling, Vidal Blanc
 - Warm climates (zone 8+): Cabernet Sauvignon, Syrah, Zinfandel, Sangiovese, Muscat
 
@@ -49,7 +49,7 @@ Making wine from grapes on the homestead connects you to one of humanity's oldes
 - Secondary fermenter (glass carboy, 5-6 gallon)
 - Airlock and stopper
 - Crush/destemmer: hand-crank or motorized
-- Press: basket press (small scale) or bladder press (larger scale)
+- Press: basket press ([[holmgren-gigantism-intermediate-technology-and-small-scale]]) or bladder press (larger scale)
 - Hydrometer and test jar
 - Thermometer
 - Siphon and tubing
@@ -137,7 +137,7 @@ The most critical aspect of winemaking. Every surface that contacts wine must be
 
 - Volatile acidity (vinegar smell): caused by acetic acid bacteria. Prevent with proper sulfiting and full vessels.
 - Oxidation (brown color, flat taste): exposure to air. Minimize headspace, use sulfite.
-- Hydrogen sulfide (rotten egg smell): yeast nutrient deficiency during fermentation.
+- Hydrogen sulfide (rotten egg smell): yeast [[greg-green-npk-and-nutrient-deficiency]] during fermentation.
 - Refermentation in bottle: residual sugar ferments. Stabilize with potassium sorbate and sulfite before bottling sweet wines.
 - Cork taint (musty, wet cardboard): contaminated cork. Buy quality corks, store properly.
 

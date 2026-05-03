@@ -13,12 +13,12 @@ sources: []
 [[monotub-cultivation]] and [[pf-tek-guide]] represent two foundationapsilocybe-fanaticuswing mushrooms at home, each occupying a different position on
 the spectrum of complexity, cost, and yield.
 
-PF TEK (Psilocybe Fanaticus Technique) was first published in 1992 and remains
+PF TEK ([[psilocybe-fanaticus]] Technique) was first published in 1992 and remains
 the most accessible entry point for home mycology. Monotub cultivation builds
 on the principles of grain spsubstrate-preparatione to achieve significantly
 higfruiting-chambermore streamlined process.
 
-The two methods differ primarily in their substrate preparation, sterilization
+The two methods differ primarily in their [[substrate-preparation]], sterilization
 requirements, fruiting chamber design, and overall scalability. PF TEK uses a
 simple brown rice flour and vermiculite mixture sterilized in half-pint mason
 jars, while monotub cultivation uses colonized grain spawn mixed with a bulk

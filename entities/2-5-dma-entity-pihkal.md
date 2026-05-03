@@ -8,16 +8,12 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2,5-DMA (DMA)
 
-PIHKAL entry #54. 2,5-DIMETHOXYAMPHETAMINE.
+[[al-pihkal-entry-2]] #54. 2,5-DIMETHOXYAMPHETAMINE.
 Also known as: DMA.
-
-
 
 ## Chemical Name
 
 2,5-DIMETHOXYAMPHETAMINE
-
-
 
 ## Dosage and Duration
 
@@ -26,17 +22,13 @@ Also known as: DMA.
 | Dosage | 80 - 160 mg. |
 | Duration | 6 - 8 h. |
 
-
-
 ## Qualitative Comments
 
-No qualitative comments recorded.
-
-
+No [[qualitative-comments-methodology-pihkal]] recorded.
 
 ## Extensions and Commentary
 
-The qualitative information on 2,5-DMA is very sparse. I was up to a 1+ with 80 milligrams of the hydrochloride, and since it appeared to be totally a physical trip with tremors and some cardiovascular push and nothing of a sensory nature, I chose to explore it no further. A report from South America found the intoxication to be largely pleasant (this, at 75 milligrams), with an enhanced interest in one's surroundings, but no perceptual changes, no overt stimulation, and no gross physiological effects other than a slight mydriasis (dilation of the pupils). I have also been told of a single trial of 250 milligrams of the tartrate (this is equivalent to somewhere in the 150-200 milligram range of the hydrochloride salt, depending upon the acid/base ratio of the tartrate salt) with some "speedy" effects but still no sensory changes. A seizure of capsules reported by the drug law enforcement authorities some 20 years ago found that each contained some 200 milligrams of the hydrobromide salt. This is equivalent to 170 milligrams of the hydrochloride salt, and suggests that level may be an effective dosage.
+The qualitative information on 2,5-DMA is very sparse. I was up to a 1+ with 80 milligrams of the hydrochloride, and since it appeared to be totally a physical trip with tremors and some cardiovascular push and nothing of a sensory nature, I chose to explore it no further. A report from [[gartz-magic-mushrooms-species-south-america]] found the intoxication to be largely pleasant (this, at 75 milligrams), with an enhanced interest in one's surroundings, but no perceptual changes, no overt stimulation, and no gross physiological effects other than a slight mydriasis (dilation of the pupils). I have also been told of a single trial of 250 milligrams of the tartrate (this is equivalent to somewhere in the 150-200 milligram range of the hydrochloride salt, depending upon the acid/base ratio of the tartrate salt) with some "speedy" effects but still no sensory changes. A seizure of capsules reported by the drug [[cervantes-grow-room-security-law-enforcement]] authorities some 20 years ago found that each contained some 200 milligrams of the hydrobromide salt. This is equivalent to 170 milligrams of the hydrochloride salt, and suggests that level may be an effective dosage.
 
 An intriguing, but little studied, analogue of 2,5-DMA is the compound with methyls in place of the methoxyls. 2,5-Dimethylamphetamine has been looked at, in man, as a potential anorexic, but there is little effect even at 150 milligrams. The 3,4-isomer, 3,4-dimethylamphetamine or xylopropamine, is an adrenergic agent and it has been found to be an analgesic in man at as little as 10 milligrams. This was assayed, rather remarkably, by attaching electrodes to the tooth fillings of the experimental subjects. But with this base, cardiovascular effects were not observed until doses of about 100 milligrams were administered, and toxic effects (nausea and vomiting) were reported at 150 milligrams. There was no suggestion of anything psychedelic.
 
@@ -56,8 +48,6 @@ The 2,5-dimethylamphetamine analogue mentioned above was also explored in this I
 
 All of these latter materials remain unevaluated in man.
 
-
-
 ## Synthesis
 
 A solution of 10.0 g 2,5-dimethoxybenzaldehyde in 50 mL glacial acetic acid was treated with 6.8 g of nitroethane and 4.0 g of anhydrous ammonium acetate. This mixture was heated on the steam bath for 3 h and then the reagent/solvent was removed under vacuum. The residue was suspended in H2O and extracted with CHCl3. Removal of the solvent from the pooled extracts yielded 11.2 g of an impure 1-(2,5-dimethoxyphenyl)-2-nitropropene which, on recrystallization from 75 mL boiling MeOH, gave 6.7 g of product with a mp of 73-75 deg C. Anal. (C11H13NO4) C,H,N. This nitrostyrene has been periodically available commercially from a number of sources.
@@ -66,15 +56,10 @@ A solution of 17.0 g of 1-(2,5-dimethoxyphenyl)-2-nitropropene was prepared in 5
 
 were separated, and the ether phase dried by the addition of anhydrous MgSO4. The drying agent was removed by filtration, and the clear filtrate saturated with a stream of anhydrous HCl gas. The formed crystals of 2,5-dimethoxyamphetamine hydrochloride (2,5-DMA) were removed by filtration, washed with anhydrous Et2O, and dried to constant weight of 16.3 g. Recrystallization from EtOH gave an analytical sample with a mp of 114-116 deg C. The hydrobromide salt is reported to melt at 129-131 deg C.
 
-
-
 ## Safety Notes
 
-2,5-DMA is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+2,5-DMA is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
-
-
 
 ## See Also
 

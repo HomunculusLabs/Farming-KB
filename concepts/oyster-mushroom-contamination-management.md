@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 # Oyster Mushroom Contamination Management
 
 Contamination by competing organisms is the single greatest challenge in mushroom
-cultivation. Oyster mushrooms are vigorous colonizers, but they share their
+cultivation. [[oyster-mushrooms]] are vigorous colonizers, but they share their
 preferred substrates and environmental conditions with numerous competitor fungi,
 bacteria, and occasionally pests. Understanding common contaminants, their
 identification, and prevention strategies is essential for consistent production.
@@ -26,7 +26,7 @@ one leg of this triangle.
 ## Major Fungal Contaminants
 
 **Trichoderma** (green mold) is the most common and destructive fungal competitor
-in mushroom cultivation. It appears as rapidly expanding patches of green or
+in [[mushroom-cultivation]]. It appears as rapidly expanding patches of green or
 white-green fuzzy growth on substrate surfaces. Trichoderma is aggressive: it
 produces enzymes and antifungal compounds that kill mushroom mycelium on contact.
 It thrives in warm (25 to 30 degrees C), humid conditions and is particularly

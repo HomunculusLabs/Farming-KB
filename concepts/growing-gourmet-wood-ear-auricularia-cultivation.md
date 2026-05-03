@@ -144,3 +144,7 @@ anticoagulant effective in the prevention of blood clots.
 The greatest volume is sold in dry form. Although dark when dried,
 Wood Ears lighten to brownish color as they rehydrate, usually true
 to form. The rubbery and cartilaginous consistency is strangely
+
+## See Also
+
+- [[growing-gourmet-spore-germination-strain-isolation]]

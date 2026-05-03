@@ -15,17 +15,9 @@ sources:
 
 # Agricultural Mycorrhizae
 
-
-
-
-
 ## Overview
 
-Mycorrhizal fungi are symbiotic soil organisms that form mutualistic associations with the roots of approximately 90% of terrestrial plant species. The term derives from the Greek *mykes* (fungus) and *rhiza* (root). These associations are among the most widespread and ecologically important symbioses on Earth, playing a critical role in plant nutrition, soil structure, and ecosystem resilience.
-
-
-
-
+[[mycorrhizal-fungi]] are symbiotic soil organisms that form mutualistic associations with the roots of approximately 90% of terrestrial plant species. The term derives from the Greek *mykes* (fungus) and *rhiza* (root). These associations are among the most widespread and ecologically important symbioses on Earth, playing a critical role in plant nutrition, soil structure, and ecosystem resilience.
 
 ## Types of Mycorrhizae
 
@@ -37,10 +29,6 @@ Predominantly associate with trees, particularly in temperate and boreal forests
 
 ### Ericoid and Orchid Mycorrhizae
 Specialized associations with Ericaceae (heath family) and Orchidaceae, respectively. Ericoid mycorrhizae are critical for plants growing in acidic, nutrient-poor soils, while orchid mycorrhizae are required for seed germination in nearly all orchid species.
-
-
-
-
 
 ## Agricultural Significance
 
@@ -54,11 +42,7 @@ Mycorrhizal plants show improved water relations through enhanced hydraulic cond
 Mycorrhizal colonization can reduce incidence of soilborne pathogens through multiple mechanisms: physical barriers, biochemical antagonism, and activation of plant systemic defense responses (induced systemic resistance).
 
 ### Soil Aggregation
-Glomalin, a glycoprotein produced by AMF, acts as a biological glue binding soil particles into stable aggregates. This improves soil structure, water infiltration, and erosion resistance.
-
-
-
-
+[[glomalin]], a glycoprotein produced by AMF, acts as a biological glue binding soil particles into stable aggregates. This improves soil structure, water infiltration, and erosion resistance.
 
 ## Inoculation Practices
 
@@ -68,19 +52,11 @@ Commercial mycorrhizal inoculants are available as powders, granules, or liquid 
 - Minimize soil disturbance after inoculation to preserve hyphal networks
 - Reduce phosphorus fertilizer rates — high available P suppresses AMF colonization
 - Avoid fungicide applications that are non-selective toward mycorrhizal fungi
-- Use diverse cover crop rotations to maintain active AMF populations between cash crops
-
-
-
-
+- Use diverse [[cover-crops]] rotations to maintain active AMF populations between cash crops
 
 ## Limitations
 
 Not all crops benefit equally from mycorrhizal colonization. Brassicas (cabbage family) and Chenopodiaceae (spinach, beet) are non-host or weakly responsive. Heavy tillage, fallow periods, and high-input conventional management with excessive fertilization can degrade native mycorrhizal communities.
-
-
-
-
 
 ## See Also
 

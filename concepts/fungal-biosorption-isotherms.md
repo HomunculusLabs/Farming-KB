@@ -47,7 +47,7 @@ among the highest reported values. Mucor meihi showed 1.15 mmol per
 gram for chromium(VI). While Penicillium and Aspergillus species were
 initially reported as poor biosorbents, more recent studies have
 shown contrasting evidence with improved performance. Yeasts including
-Saccharomyces cerevisiae and Candida maltosa are not among the best
+[[saccharomyces-cerevisiae]] and Candida maltosa are not among the best
 performers but are frequently employed as model organisms.
 
 ## Biosorption Isotherms
@@ -69,7 +69,7 @@ chitin, amino, carboxyl, phosphate, sulfhydryl, and other functional
 groups. While chitin and chitosan were identified as key binding
 sites in early studies, carboxyl, phosphate, and other moieties are
 now recognized as of principal importance. X-ray studies of lead
-bound to Penicillium chrysogenum cell walls showed phosphoryl groups
+bound to [[penicillium-chrysogenum]] cell walls showed phosphoryl groups
 accounting for up to 95% of binding, with carboxyl groups making up
 5%. At low concentrations, carboxyl groups were preferentially bound
 due to greater affinity. For zinc, carboxyl groups accounted for up

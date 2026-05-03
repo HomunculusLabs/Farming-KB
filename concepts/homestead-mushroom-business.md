@@ -13,7 +13,7 @@ Growing and selling mushrooms on a homestead scale offers high returns on low ca
 - Fastest to fruit (2-4 weeks from inoculation)
 - Multiple varieties: blue, pink, golden, king, phoenix
 - Grow on straw, coffee grounds, cardboard, hardwood sawdust
-- Yield: 50-100% biological efficiency (1 lb mushrooms per lb dry substrate)
+- Yield: 50-100% [[biological-efficiency]] (1 lb mushrooms per lb dry substrate)
 - Price: $8-12/lb retail
 ### Shiitake (Lentinula edodes)
 - Most recognized gourmet mushroom
@@ -42,7 +42,7 @@ Setup requirements:
 - Fresh air exchange: fan or ventilation
 - Light: ambient room light (no grow lights needed for most)
 - Shelving: wire shelves with space between blocks
-Substrate preparation:
+[[substrate-preparation]]:
 1. Hardwood sawdust + wheat bran (80:20 ratio) + water to 60% moisture
 2. Sterilize in pressure cooker or autoclave (15 psi, 90 min for bags)
 3. Cool to room temperature in clean environment
@@ -89,7 +89,7 @@ Requirements vary by state. Common requirements:
 - Commercial kitchen or dedicated facility for fresh sales (some states)
 - Business license (county/city)
 - Sales tax permit
-- Mushroom identification certification (some states require)
+- [[mushroom-identification]] certification (some states require)
 - Labeling: species, weight, farm name, address, "keep refrigerated"
 Check your state's Department of Agriculture for specific requirements. Some states (Pennsylvania, for example) have specific mushroom growing licenses.
 ## Startup Costs

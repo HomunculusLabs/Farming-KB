@@ -9,7 +9,7 @@ sources: [/Usenatural-farmingaw/papers/chos-global-natural-farming.md]
 
 # Indigenous Microorganisms
 
-**Indigenous Microorganisms (IMO)** are locally sourced, naturally occurring microbial communities collected and cultured using the Korean Natural Farming (KNF) methods developed by Master Han Kyu Cho. IMO preparations form the foundation of the KNF system, providing a diverse inoculum of beneficial bacteria, fungi, actinomycetes, and yeasts adapted to the local environment. The core philosophy is that microorganisms native to a specific location are already optimally adapted to local soil conditions, climate, and plant communities, making them more effective than commercially produced microbial products.
+**Indigenous Microorganisms (IMO)** are locally sourced, naturally occurring microbial communities collected and cultured using the [[korean-natural-farming]] (KNF) methods developed by Master Han Kyu Cho. IMO preparations form the foundation of the KNF system, providing a diverse inoculum of beneficial bacteria, fungi, actinomycetes, and yeasts adapted to the local environment. The core philosophy is that microorganisms native to a specific location are already optimally adapted to local soil conditions, climate, and plant communities, making them more effective than commercially produced microbial products.
 
 ## IMO Collection Stages
 
@@ -34,7 +34,7 @@ Microorganisms are collected from a pristine natural environment using cooked ri
 
 The collected microorganisms are propagated on a bulk substrate:
 
-1. **Substrate preparation:** Brown rice bran (or a mix of rice bran and wheat bran) is moistened to 65–70% moisture content (holds shape when squeezed but no water drips out).
+1. **[[substrate-preparation]]:** Brown rice bran (or a mix of rice bran and wheat bran) is moistened to 65–70% moisture content (holds shape when squeezed but no water drips out).
 2. **Mixing:** IMO 1 rice is crumbled and mixed thoroughly with the bran at approximately 1:10 ratio (rice to bran).
 3. **Container:** The mixture is placed in a breathable container (straw box, wooden crate, or earthenware pot) lined with cloth. Depth should not exceed 10–15 cm to maintain aerobic conditions.
 4. **Incubation:** Covered and kept at 20–30°C for 5–7 days. The mixture is stirred once daily to ensure even colonization and prevent anaerobic pockets.
@@ -94,7 +94,7 @@ IMO is typically used in combination with other KNF preparations:
 
 * **Fermented Plant Juice (FPJ):** Provides plant-derived nutrients and growth factors that feed both plants and microorganisms
 * **[[oriental-herbal-nutrient-ohn]]:** Provides antimicrobial and growth-promoting compounds from medicinal herbs
-* **Fish Amino Acid (FAA):** Provides nitrogen and amino acids that support rapid microbial growth and plant protein synthesis
+* **[[fish-amino-acid]] (FAA):** Provides nitrogen and amino acids that support rapid microbial growth and plant protein synthesis
 * **Water-Soluble Calcium (WCA):** Provides calcium that strengthens plant cell walls and supports microbial cell membrane integrity
 
 ## Quality Assessment

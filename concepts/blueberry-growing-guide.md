@@ -1,12 +1,13 @@
 ---
-ti
+title: "Blueberry Growing Guide"
+---
 ## Overview
 Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation and variety selection, blueberries are reliable and productive in home gardens across most temperate regions.
 ## Soil Acidification
 Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critical growing requirement and the most common reason for failure.
 ### Testing and Targeting pH
-- Test [[acid-and-alkaline-soil-management|soil pH]] before planting — most garden soils are too alkaline (pH 6.0-7.5)
-- Target pH 4.5-5.0 for optimal growth and nutrient uptake
+- Test [[acid-and-alkaline-soil-management]] before planting — most [[ph-and-nutrient-availability-garden-soils]] are too alkaline (pH 6.0-7.5)
+- Target pH 4.5-5.0 for optimal growth [[root-anatomy-structure-and-nutrient-uptake]]
 - At higher pH, blueberries develop iron chlorosis (yellowing leaves with green veins) and fail to thrive
 - Test annually — pH tends to drift upward over time
 ### Lowering Soil pH
@@ -51,7 +52,7 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 - Dig a hole 2-3 feet wide and 18-24 inches deep
 - Mix removed soil 50/50 with peat moss and/or pine bark fines
 - Add elemental sulfur per soil test recommendations
-- Create a raised bed or mound if soil is heavy clay or poorly drained
+- Create a [[comparison-wicking-bed-vs-raised-bed]] or mound if soil is heavy clay or poorly drained
 - Blueberries have shallow, fibrous roots — they cannot tolerate standing water
 ### Planting Technique
 - Space plants 4-6 feet apart (highbush), 5-8 feet apart (rabbiteye)
@@ -70,7 +71,7 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 - Removes old, unproductive wood
 - Increases berry size and quality
 - Improves air circulation (disease reduction)
-- Maintains plant shape and manageable size
+- Maintains [[fukuoka-natural-ideal-rice-plant-shape]] and manageable size
 - Encourages new productive growth
 ### When to Prune
 - Late winter (February-March) before new growth begins
@@ -114,7 +115,7 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Stop fertilizing by mid-summer to allow new growth to harden before winter
 ### Nutrient Deficiencies
 - **Iron chlorosis**: Yellow leaves with green veins; lower soil pH with sulfur
-- **Nitrogen deficiency**: Pale leaves, slow growth; apply ammonium sulfate
+- **Nitrogen deficiency**: Pale leaves, [[holmgren-long-rotation-forestry-slow-growth]]; apply ammonium sulfate
 - **Magnesium deficiency**: Yellowing between leaf veins; apply Epsom salts as foliar spray
 ## Watering
 - Blueberries have shallow root systems — consistent moisture is critical

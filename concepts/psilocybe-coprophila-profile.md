@@ -33,7 +33,7 @@ shared with several other psilocybin-containing species, including
 It is worth noting that the name Psilocybe coprophila has at times
 been applied to different taxa in the mycological literature, and
 some records attributed to this species may require taxonomic
-verification. The Psilocybin Mushroom Image Guide documents the
+verification. The [[psilocybin-mushrooms]] Image Guide documents the
 species through a photograph showing "a nice selection of harvested
 Psilocybe coprophila," though the specific source and collection
 location are not recorded.
@@ -101,7 +101,7 @@ subtropical regions around the world, following the distribution of
 suitable herbivore dung in warm climates. It has been documented
 in parts of the Americas, Southeast Asia, and other tropical regions.
 The widespread nature of coprophilous fungi is partly due to the
-efficiency of spore dispersal through herbivore grazing, as spores
+efficiency of [[spore-dispersal]] through herbivore grazing, as spores
 pass through the animal's digestive system and are deposited in
 fresh dung.
 

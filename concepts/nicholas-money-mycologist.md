@@ -48,7 +48,7 @@ to measure wall tensile strength.
 chapter-length essays, each exploring a different aspect of mycology
 through the lens of particular fungi, mycologists, or personal
 experiences. The book covers topics ranging from stinkhorn biology and
-fungal pathogens to spore dispersal, chemical signaling, and the
+fungal pathogens to [[spore-dispersal]], chemical signaling, and the
 history of mycology. Each chapter profiles notable figures in the field,
 including A. H. R. Buller, Curtis Gates Lloyd, Cecil Terence Ingold,
 and John Webster.
@@ -113,7 +113,7 @@ and the aerodynamics of spore liberation.
 - [[nicholas-money]]
 - [[terence-ingold-mycologist]]
 
-- [Terence Ingold (Mycologist)](terence-ingold-mycologistfungal-spore-biology Biology](fungal-spore-biofungal-chemical-signalingal Signaling](fungal-chemical-smycelium-networkMycelium Network](mycelium-network.md)
+- [Terence Ingold (Mycologist)](terence-ingold-mycologistfungal-spore-biology Biology](fungal-spore-biofungal-chemical-signalingal Signaling](fungal-chemical-smycelium-networkMycelium Network]([[mycelium-network]].md)
 
 ## References
 

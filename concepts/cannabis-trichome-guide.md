@@ -8,10 +8,10 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 # Cannabis Trichome Guide
-Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
+Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the [[dighton-fungal-soil-crust-primary-production]] sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
 ## What Are Trichomes?
-Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." In cannabis, glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant's psychoactive and aromatic compounds.
-Functions in nature:
+Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant's psychoactive and aromatic compounds.
+Functions [[fukuoka-textdoc-no-cause-and-effect-in-nature]]:
 - Chemical defense against herbivores (bitter, intoxicating resin deters grazing)
 - UV protection (resin filters harmful radiation at high altitudes)
 - Temperature regulation
@@ -100,14 +100,14 @@ Different strains reach peak trichome maturity at different rates. Sativa-domina
 UV-B light can increase trichome production as a defense response. Some growers use UV supplemental lighting in the final 2-3 weeks of flower. Excessive light intensity or heat can also accelerate trichome degradation.
 ### Temperature
 Cooler night temperatures (around 65-70°F / 18-21°C) in the final weeks of flowering can:
-- Enhance terpene production and preservation
+- Enhance terpene production [[palmer-about-mushrooms-cooking-and-preservation]]
 - Slow degradation of existing trichomes
 - Introduce purple coloration in some strains
 - Extend the optimal harvest window
 ### Nutrient Status
 Proper nutrition throughout flowering supports maximum trichome production. Phosphorus and potassium are particularly important. Excess nitrogen late in flower can delay maturation and reduce trichome density.
 ### Growing Medium
-Living soil systems with diverse microbiology tend to produce more complex terpene profiles in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
+Living soil systems with diverse microbiology tend to produce more complex terpene profiles in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how [[jarrold-boil-a-bag-mushroom-cultivation-method]] affects terpene expression.
 ## Post-Harvest Trichome Preservation
 Trichomes are fragile. Proper handling preserves potency:
 - Handle flowers gently — trichomes break off with physical contact

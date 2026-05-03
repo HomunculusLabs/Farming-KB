@@ -59,14 +59,14 @@ psychoactive mushroom species can be roughly ranked by potency:
 
 ### Very High Potency
 
-- *Copelandia cyanescens*: Consistently among the most potent psilocybin
+- *[[copelandia-cyanescens]]*: Consistently among the most potent psilocybin
   mushrooms worldwide. Contains high concentrations of both psilocybin and
   psilocine. Australian specimens from Darwin and tropical Queensland are
   reported to be particularly potent.
 
 ### High Potency
 
-- *Psilocybe subaeruginosa*: The most potent *Psilocybe* species known from
+- *[[psilocybe-subaeruginosa]]*: The most potent *Psilocybe* species known from
   Australia. Southeastern Australian collections (Victoria, South Australia,
   Tasmania) have been analyzed and found to contain significant amounts of
   psilocybin. First confirmed as psychoactive in 1970.
@@ -88,7 +88,7 @@ psychoactive mushroom species can be roughly ranked by potency:
 
 ### Variable Potency
 
-- *Psilocybe semilanceata*: Though famous as one of the most potent
+- *[[psilocybe-semilanceata]]*: Though famous as one of the most potent
   species in Europe, Australian and New Zealand specimens have been less
   thoroughly analyzed. Environmental factors are known to significantly
   affect the potency of this species. Tasmanian collections may differ

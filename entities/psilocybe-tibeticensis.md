@@ -17,16 +17,12 @@ sources:
 
 **Psilocybe tibeticensis** is a [[psilocybin]]-containing mushroom species described from the Tibetan Plateau and surrounding high-altitude regions of the Himalayas. It is one of the few known Psilocybe species adapted to alpine and subalpine environments, making it of particular ecological and biogeographical interest.
 
-
-
 ## Taxonomy
 
 - **Order:** Agaricales
 - **Family:** Hymenogastraceae
 - **Genus:** Psilocybe
 - **Etymology:** Refers to the Tibetan region where the species was first documented and described.
-
-
 
 ## Description
 
@@ -58,31 +54,21 @@ sources:
 - Size range approximately 10–13 × 6.5–8 µm
 - Basidia typically 2- or 4-spored
 
-
-
 ## Distribution and Habitat
 
 P. tibeticensis is found in high-altitude environments on the Tibetan Plateau and adjacent Himalayan regions, typically at elevations above 3,000 meters. It grows on decomposing plant material in alpine meadows, grasslands, and shrub communities. The species fruits during the short warm season (typically July–September) when temperatures and moisture conditions are favorable. It has been found in association with yak dung, alpine grasses, and decaying herbaceous vegetation.
-
-
 
 ## Chemistry
 
 Contains psilocybin and [[psilocin]] as the primary psychoactive alkaloids. The blue bruising reaction is typically strong and readily observable, suggesting substantial alkaloid content. No quantitative analytical data has been published for this species.
 
-
-
 ## Ecology and Adaptation
 
 The high-altitude habitat of P. tibeticensis is unusual for Psilocybe species, most of which are found in tropical, subtropical, or temperate lowland environments. Its adaptation to alpine conditions — including cold tolerance, UV exposure, and short growing seasons — makes it an interesting subject for studying the ecological range and physiological flexibility of the genus. The species may have developed unique metabolic adaptations to thrive in these extreme environments.
 
-
-
 ## Similar Species
 
 In its alpine habitat, P. tibeticensis could potentially be confused with P. semilanceata, which also occurs in montane and subalpine grasslands across Eurasia. However, P. tibeticensis typically has a broader, less conical cap and different microscopic features. Other high-altitude brown mushrooms such as Deconica species may also appear similar but lack psychoactive properties and blue bruising.
-
-
 
 ## Notes
 

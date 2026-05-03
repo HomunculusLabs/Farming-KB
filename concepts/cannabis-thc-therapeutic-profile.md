@@ -11,9 +11,6 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of therapeutic effects alongside its psychoactive properties.
 
-
-
-
 ## Key Therapeutic Effects
 
 ### Analgesic (Pain Relief)
@@ -45,9 +42,6 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 - Acute THC inhalation opens airways (opposite of tobacco)
 - Short-lived effect; not suitable for chronic asthma management
 
-
-
-
 ## Psychoactive Effects
 
 ### Desired Effects (at therapeutic doses)
@@ -63,25 +57,16 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 - Increased heart rate, dry mouth, red eyes
 - In rare cases: psychosis-like symptoms in predisposed individuals
 
-
-
-
 ## Tolerance and Dependency
 - Tolerance develops to most effects within 1-2 weeks of daily use
 - Mild physical dependency possible (withdrawal: irritability, insomnia, appetite loss)
 - Withdrawal is mild compared to opioids, alcohol, or benzodiazepines
 - Tolerance breaks (3-7 days) restore sensitivity
 
-
-
-
 ## Pharmacokinetics
 - Onset: 1-5 min (inhaled), 30-90 min (oral), 15-45 min (sublingual)
 - Duration: 2-4 hours (inhaled), 6-8 hours (oral)
 - 11-hydroxy-THC: Metabolite from oral ingestion, 5x more psychoactive than THC itself — explains why edibles feel stronger
-
-
-
 
 ## Related
 - [[cannabis-cbd-therapeutic-profile]] — for CBD comparison

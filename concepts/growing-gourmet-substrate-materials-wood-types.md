@@ -18,7 +18,7 @@ type: concept
 
 The potential for recycling organic wastes with fungi seems
 unlimited. Surprisingly, many mushrooms thrive on base materials
-alien to their natural habitat. Although Oyster mushrooms are
+alien to their natural habitat. Although [[oyster-mushrooms]] are
 generally found in the wild on deciduous woods, they grow well on
 many other materials besides hardwoods, including cereal straws,
 corn cobs, seed hulls, coffee wastes, sugar cane bagasse, paper
@@ -69,7 +69,7 @@ in a short period of time.
   chestnuts, chinkapins, larches, and ashes
 
 ### Suggested Softwoods
-- Douglas fir and hemlock -- suitable for some species
+- [[douglas-fir]] and hemlock -- suitable for some species
   ([[ganoderma-tsugae]], some Pholiota species)
 - Most other pines (ponderosa, lodgepole), cedars, and redwood
   are NOT easily degraded by mushroom mycelium

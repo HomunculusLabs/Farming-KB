@@ -66,7 +66,7 @@ universes.
 ## Mushroom Use Was Not Universal
 
 The Western assumption that Siberian shamans everywhere used the [[amanita-muscaria-cultural-history]] is itself an orientalist simplification.
-Mushroom use was concentrated among a relatively small number of tribes —
+[[powell-mayan-civilisation-and-psilocybin-mushroom-use]] was concentrated among a relatively small number of tribes —
 primarily the Koryak, Chukchi, and Kamchadal peoples of the Kamchatka peninsula
 and surrounding regions. Many Siberian tribes had no tradition of mushroom
 intoxication whatsoever.
@@ -98,7 +98,7 @@ This orientalist tradition continues into the present. Contemporary writers such
 as Angela Carter (Nights at the Circus) and Alan Garner (Thursbitch) have drawn
 upon the fly-agaric shaman mythos, presenting characters with shaman-like
 qualities. While their fiction is sophisticated and self-aware, it nevertheless
-draws upon and perpetuates a Western fantasy about Siberian shamanism that bears
+draws upon and perpetuates a Western fantasy about [[harner-amanita-muscaria-siberian-shamanism]] that bears
 limited relationship to the complex, varied, and often mundane realities of
 indigenous practice.
 
@@ -122,8 +122,8 @@ that the practice produced "a kind of madness."
 Stepan Krasheninnikov, who joined the expedition as a student and later produced
 the first comprehensive account of Kamchatka (published 1755), provided more
 detailed observations of Koryak mushroom practices. Krasheninnikov documented
-the preparation methods, the social context of consumption, and the economic
-role of mushrooms in Koryak society — they were reportedly used as a form of
+the [[gottlieb-peyote-extraction-and-preparation-methods]], the social context of consumption, and the economic
+role [[antiviral-properties-of-mushrooms]] in Koryak society — they were reportedly used as a form of
 currency and as gifts to cement social bonds. However, Krasheninnikov relied
 heavily on Russian interpreters and local informants who may have shaped their
 accounts to satisfy Russian expectations of exotic behaviour. His description of
@@ -137,7 +137,7 @@ through the work of Waldemar Jochelson among the Koryak, Yukaghir, and other
 Siberian peoples. Jochelson spent extended periods living among his subjects and
 attempted to record their beliefs and practices with greater fidelity than his
 predecessors. His 1905 work "The Koryak" remains an essential source on Siberian
-mushroom shamanism. Yet even Jochelson was not free from bias. He shared the
+[[harner-mazatec-mushroom-shamanism]]. Yet even Jochelson was not free from bias. He shared the
 evolutionist assumptions common to early twentieth-century anthropology, viewing
 indigenous Siberian cultures as survivals of an earlier stage of human
 development. His account of fly-agaric use was shaped by a desire to document

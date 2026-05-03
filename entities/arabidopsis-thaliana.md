@@ -34,7 +34,7 @@ updated: 2026-05-02
 **Arabidopsis thaliana** is a small flowering plant in the mustard family Brassicaceae.
 It is commonly called thale cress, mouse-ear cress, or simply Arabidopsis.
 Although it is an unremarkable roadside weed in the field, it is one of the most important model organisms in plant biology.
-Its short life cycle, compact genome, self-fertilization, and easy transformation made it the reference plant for genetics, development, and molecular physiology.
+Its short [[growing-gourmet-black-morel-sclerotia-life-cycle]], compact genome, self-fertilization, and easy transformation made it the reference plant for genetics, development, and molecular physiology.
 
 ## Taxonomic position
 
@@ -119,12 +119,12 @@ The wiki's [[auxin-production-by-symbiotic-fungi]] page uses Arabidopsis root br
 
 Arabidopsis is not a classic mycorrhizal host, which makes it unusual compared with many land plants.
 Nevertheless, it is widely used to study innate immunity, bacterial pathogenesis, endophytes, root exudates, and microbiome assembly.
-The species interacts experimentally with *Pseudomonas syringae*, *Botrytis cinerea*, powdery mildews, oomycetes, and many beneficial microbes.
+The species interacts experimentally with *Pseudomonas syringae*, *Botrytis cinerea*, [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]], oomycetes, and many beneficial microbes.
 Its immune signaling pathways include salicylic acid, jasmonate, ethylene, pattern-triggered immunity, and effector-triggered immunity.
 Root microbiome studies use Arabidopsis because sterile seedlings can be inoculated with defined microbial communities.
 Its limitations must be remembered when generalizing to crops, trees, or mycorrhizal plants.
 ## Practical cultivation
-Arabidopsis can be grown in soil, agar plates, hydroponic systems, or controlled-environment chambers.
+Arabidopsis can be grown [[singh-fungal-interactions-with-heavy-metals-in-soil]], agar plates, [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]], or controlled-environment chambers.
 Seeds are tiny and often stratified at low temperature to synchronize germination.
 Plants are commonly grown under long-day conditions when rapid flowering is desired.
 Short-day or vernalization treatments are used when studying flowering regulation and natural life-history variation.
@@ -133,7 +133,7 @@ Good experiments randomize positions, track accession background, and separate d
 Arabidopsis appears across concept pages whenever plant molecular biology needs a reference organism.
 It anchors discussions of phytochrome genes, trichome development, auxin assays, plant stress signaling, and root architecture.
 It is useful for explaining mechanisms but should not be treated as a direct substitute for every crop or perennial plant.
-For cannabis trichome pages, Arabidopsis supplies a regulatory comparison rather than a resin-gland equivalent.
+[[query-how-does-foliar-feeding-work-for-cannabis]] trichome pages, Arabidopsis supplies a regulatory comparison rather than a resin-gland equivalent.
 For soil symbiosis pages, Arabidopsis seedling assays are experimentally convenient but ecologically narrower than mycorrhizal host systems.
 ## Key takeaways
 *Arabidopsis thaliana* is the reference plant for modern genetics and molecular plant biology.

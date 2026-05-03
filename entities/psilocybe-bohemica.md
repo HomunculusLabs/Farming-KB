@@ -42,7 +42,7 @@ Successfully cultivated by [[jochen-gartz]] on damp rice substrate. Key findings
 - Cultivated specimens appeared **much hardier** than wild-collected fruiting bodies
 - Some cultivated specimens developed **two annular rings** — unusual for the species
 - Fruitng required exposure to **cold temperature shock** to trigger
-- Mycelial growth rate is faster than *Psilocybe semilanceata* but comparable to *Gymnopilus purpuratus*
+- Mycelial growth rate is faster than *[[psilocybe-semilanceata]]* but comparable to *[[gymnopilus-purpuratus]]*
 
 ## Psychoactive Properties
 

@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 # Biological Efficiency
 
 Biological efficiency (BE) is the standard metric for measuring yield performance in
-mushroom cultivation. It expresses the fresh weight of harvested mushrooms as a
+[[mushroom-cultivation]]. It expresses the fresh weight of harvested mushrooms as a
 percentage of the dry weight of the substrate used to produce them. This metric allows
 growers and researchers to compare yields across different species, substrates,
 strains, and cultivation methods on a standardized basis.
@@ -30,7 +30,7 @@ yields between studies or growers.
 ## Typical Ranges by Species
 
 Different mushroom species achieve different biological efficiencies under optimal
-conditions. *Pleurotus ostreatus* typically achieves 60-100% BE on supplemented
+conditions. *[[pleurotus-ostreatus]]* typically achieves 60-100% BE on supplemented
 sawdust and 50-80% on straw. *Pleurotus eryngii* (king oyster) generally yields 40-70%
 BE, reflecting its longer growth cycle and denser fruiting bodies. *Pleurotus
 pulmonarius* can achieve 80-120% BE under optimal conditions. Button mushroom

@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
 
 # Fungicolous Fungi on Cultivated Mushrooms

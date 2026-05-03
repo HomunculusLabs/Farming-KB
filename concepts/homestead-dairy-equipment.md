@@ -11,7 +11,7 @@ A well-equipped homestead dairy makes milking, processing, and value-added produ
 ## Milking Equipment
 ### Hand Milking
 For small herds (1-5 goats or 1-2 cows), hand milking is the most economical and simple approach.
--  **Milking pail** — Stainless steel, 8-12 quart capacity. Features a swing-out handle to avoid contamination. A wide mouth makes pouring easy. Cost: $20-40.
+-  **Milking pail** — Stainless steel, 8-12 quart capacity. Features a swing-out handle [[palmer-about-mushrooms-poisonous-species-to-avoid]] contamination. A wide mouth makes pouring easy. Cost: $20-40.
 -  **Milking stool** — Low, stable seat. Traditional three-legged stools work but any low seat with good stability is adequate.
 -  **Strip cup** — A small black plastic or metal cup with a fine mesh insert. The first few streams from each teat are stripped into this cup to check for clots, blood, or flakes (mastitis indicators). Cost: $5-15.
 -  **Teat dip cup** — Holds teat dip solution for pre- and post-milking teat sanitation. Cost: $5-10.
@@ -34,9 +34,9 @@ Machine milking becomes worthwhile at 5+ animals or for daily time savings.
 -  **CIP (Clean-in-Place) brushes** — Specialized brushes for cleaning milking clusters, pipelines, and bulk tanks.
 ## Milk Cooling and Storage
 ### Rapid Cooling
-Cooling milk quickly after milking is the most important step for quality and safety. See [[raw-milk-guide]] for detailed protocols.
+Cooling milk quickly after milking is the most important step for quality [[palmer-about-mushrooms-foraging-basics-and-safety]]. See [[raw-milk-guide]] for detailed protocols.
 -  **Ice bath setup** — Place the milking bucket in a larger container (milk can or bus tub) filled with ice water. Stir milk periodically for even cooling. Bring from 38 C to 4 C within 1 hour.
--  **Plate cooler** — A heat exchanger that uses cold running water to chill milk as it flows from the milking bucket to the storage container. Requires a steady cold water supply. Cost: $100-300.
+-  **Plate cooler** — A heat exchanger that uses cold running water to chill milk as it flows from the milking bucket to the storage container. Requires a steady cold [[holzer-ring-water-feeder-living-water-supply]]. Cost: $100-300.
 -  **Bulk tank with cooling** — For larger operations. An insulated tank with a built-in refrigeration unit that agitates and cools milk to 4 C automatically. Cost: $1,500-5,000.
 ### Storage Containers
 -  **Glass jars** — Wide-mouth Mason jars (quart or half-gallon) are ideal for home use. Non-reactive, easy to sanitize, reusable. Cost: $1-2 per jar.
@@ -65,7 +65,7 @@ A cream separator spins milk at high speed in a centrifuge, separating the light
 -  **Electric churn** — Dedicated motor-driven churns. Cost: $100-300.
 ### Butter Making Process
 1.  **Source cream** — Separate from fresh milk using the cream separator. Let cream ripen at 12-15 C for 12-24 hours for cultured butter, or use fresh for sweet cream butter.
-2.  **Churn** — Agitate cream until butter grains form and separate from buttermilk (10-20 minutes depending on method and temperature). Optimal cream temperature: 10-15 C (50-59 F).
+2.  **Churn** — Agitate cream until butter grains form and separate from buttermilk (10-20 minutes depending on method [[cuthill-mushroom-growing-seasons-and-temperature]]). Optimal cream temperature: 10-15 C (50-59 F).
 3.  **Drain buttermilk** — Pour off the buttermilk through a strainer. Save for baking, drinking, or animal feed.
 4.  **Wash butter** — Add cold water to the butter grains, knead to remove residual buttermilk. Repeat until rinse water runs clear. Residual buttermilk causes off-flavors and rapid spoilage.
 5.  **Salt** — Knead in non-iodized salt to taste (1/4 teaspoon per pound of butter is standard). Salt acts as a preservative and flavor enhancer.
@@ -77,7 +77,7 @@ A cream separator spins milk at high speed in a centrifuge, separating the light
 Pasteurization equipment is needed when selling dairy products commercially or when serving milk to vulnerable populations.
 ### Small-Batch Pasteurizer Options
 -  **Double boiler method** — Heat milk in a stainless steel container set inside a larger pot of water. Stir constantly. Use a dairy thermometer to verify temperature. Heat to 63 C (145 F) and hold for 30 minutes (vat method). Cool rapidly in ice bath. No special equipment beyond what most kitchens already have.
--  **Dedicated dairy pasteurizer** — Electric units with built-in temperature control and agitation. Ensure precise temperature and hold time. Cost: $200-600.
+-  **Dedicated dairy pasteurizer** — Electric units with built-in [[hamilton-greenhouse-heating-and-temperature-control]] and agitation. Ensure precise temperature and hold time. Cost: $200-600.
 -  **Solar pasteurizer** — Solar oven design that achieves pasteurization temperatures. Useful for off-grid operations but less precise.
 ### Pasteurization Methods
 -  **Vat method (LTLT)** — 63 C (145 F) for 30 minutes. Preserves more flavor and nutritional quality. Best for homestead scale.

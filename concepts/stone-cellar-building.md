@@ -13,9 +13,9 @@ Stone cellars provide permanent storage for fruit and vegetables with the same b
 
 ## Storage Conditions
 
-An optimal stone cellar maintains humidity between 80 and 90 percent and temperature between 8 and 10°C using just the warmth of the soil — no additional energy required.
+An optimal stone cellar maintains humidity between 80 and 90 percent [[cuthill-mushroom-growing-seasons-and-temperature]] between 8 and 10°C using just the warmth of the soil — no additional energy required.
 
-Stone cellars have an advantage over wooden structures in thermal regulation due to the high thermal mass of stone walls. A metre-thick stone wall acts as a thermal flywheel, absorbing heat slowly during warm periods and releasing it slowly during cold periods.
+Stone cellars have an advantage over wooden structures in thermal regulation due to the high [[urban-water-catchment-cistern-thermal-mass]] of stone walls. A metre-thick stone wall acts as a thermal flywheel, absorbing heat slowly during warm periods and releasing it slowly during cold periods.
 
 This thermal inertia creates even more stable interior temperatures than wooden earth cellars, with temperature fluctuations typically less than 1–2°C across an entire year.
 
@@ -73,7 +73,7 @@ Cement mortar is rigid and impermeable, leading to trapped moisture, efflorescen
 
 Stone cellar roofs can be constructed in several ways. A vaulted or domed stone ceiling is the most traditional and permanent approach, but requires significant masonry skill.
 
-More commonly, heavy timber beams are laid across the top of the stone walls, and the ceiling is built up in layers similar to [[earth-cellar-construction|earth cellar roofing]]: membrane, drainage layer, earth, and vegetation on top.
+More commonly, heavy timber beams are laid across the top of the stone walls, and the ceiling is built up in layers similar to [[earth-cellar-construction]]: membrane, drainage layer, earth, and vegetation on top.
 
 The stone walls provide the structural strength to support this roof mass.
 
@@ -87,17 +87,17 @@ The choice of roof system depends on available materials, skill level, and desir
 
 The diameter of both inlet and outlet pipes must be adjusted according to the size of the room. Proper ventilation ensures oxygen supply while maintaining the stable temperature that the soil provides naturally.
 
-The ventilation system, the stone walls, and the drainage work together as an integrated climate control system — none of the three can compensate for failure in another.
+The ventilation system, the stone walls, and the drainage work together as an integrated [[growing-gourmet-growing-room-humidification-climate-control]] system — none of the three can compensate for failure in another.
 
 ## Comparison with Earth Cellars
 
-Stone cellars represent a significantly larger investment of labor and materials compared to [[earth-cellar-construction|roundwood earth cellars]], but they offer near-permanent longevity.
+Stone cellars represent a significantly larger investment of labor [[mollison-tropical-mulch-systems-and-materials]] compared to [[earth-cellar-construction]], but they offer near-permanent longevity.
 
 A well-built stone cellar with lime mortar can last for centuries — many European examples date to the medieval period and remain functional today.
 
 Wooden earth cellars, by contrast, typically last 20–40 years before the timber deteriorates.
 
-Stone cellars also provide better pest resistance (rodents cannot chew through stone walls), superior fire resistance, and more precise humidity control due to the moisture-buffering properties of stone and lime mortar.
+Stone cellars also provide better pest resistance (rodents cannot chew through stone walls), superior fire resistance, and more precise [[greg-green-temperature-and-humidity-control]] due to the moisture-buffering properties of stone and lime mortar.
 
 ## Historical Context
 

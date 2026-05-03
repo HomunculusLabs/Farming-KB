@@ -62,7 +62,7 @@ an estimated 10–20 mg — doses at the high end of the effective range, which 
 lasting up to 24 hours. Many users, expecting an LSD-like 8–12 hour experience, redosed during the peak, resulting in
 extremely prolonged and often difficult trips. The STP episode became a cautionary tale in psychedelic drug culture and
 contributed to the growing backlash against street psychedelics that culminated in their scheduling under the
-Controlled Substances Act of 1970.
+[[controlled-substances-act-and-psychedelic-research]] of 1970.
 
 ## The STP Incident and Its Legacy
 
@@ -70,10 +70,10 @@ The STP episode is historically significant as one of the earliest examples of t
 substances in unregulated distribution. The problems with STP were multifaceted: the dose was too high for most users;
 the duration far exceeded user expectations; there was no quality control or dosage information provided; and the drug
 was distributed in a context of escalating social and political tension. These factors combined to produce a wave of
-bad experiences and medical incidents that were widely reported in the media. The STP case study is frequently
-referenced in discussions of drug policy, harm reduction, and the ethics of novel psychoactive substance distribution.
+bad experiences and medical incidents that were widely reported in the media. The STP [[gaias-garden-flowering-tree-desert-restoration-case-study]] is frequently
+referenced in discussions of [[magic-mushroom-prohibition-and-uk-drug-policy]], [[hallucinogenic-mushroom-health-risks-and-harm-reduction]], and the ethics of novel psychoactive substance distribution.
 It illustrates the critical importance of accurate dosage information and user education — principles that remain
-central to modern harm reduction practice.
+central [[turner-brief-history-psychedelics-ancient-to-modern]] harm reduction practice.
 
 ## DOx Series
 

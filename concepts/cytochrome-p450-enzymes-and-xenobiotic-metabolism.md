@@ -26,7 +26,7 @@ related:
 
 ## Overview
 
-Cytochrome P450 (CYP) enzymes are a massive superfamily of heme-containing monooxygenases found across all kingdoms of life. They catalyze the oxidation of a vast array of endogenous and exogenous compounds, playing central roles in drug metabolism, steroid hormone biosynthesis, fatty acid oxidation, vitamin D activation, and the bioactivation of environmental carcinogens. The name derives from the characteristic spectral absorption peak at 450 nm when the reduced (ferrous, Fe2+) heme-thiolate enzyme binds carbon monoxide. The human genome encodes 57 functional CYP enzymes organized into 18 families and 44 subfamilies, with CYP3A4 alone metabolizing approximately 30-40% of all marketed drugs.
+Cytochrome P450 (CYP) enzymes are a massive superfamily of heme-containing monooxygenases found across all kingdoms of life. They catalyze the oxidation of a vast array of endogenous and exogenous compounds, playing central roles in [[phase-ii-conjugation-reactions-drug-metabolism]], steroid hormone biosynthesis, fatty acid oxidation, vitamin D activation, and the bioactivation of environmental carcinogens. The name derives from the characteristic spectral absorption peak at 450 nm when the reduced (ferrous, Fe2+) heme-thiolate enzyme binds carbon monoxide. The human genome encodes 57 functional CYP enzymes organized into 18 families and 44 subfamilies, with CYP3A4 alone metabolizing approximately 30-40% of all marketed drugs.
 
 ## Structural Features
 
@@ -46,7 +46,7 @@ The catalytic cycle activates molecular oxygen to insert one oxygen atom into a 
 
 ## Major Human CYP Families in Drug Metabolism
 
-Three families dominate xenobiotic metabolism. **CYP1**: CYP1A2 (~13% of hepatic CYP) metabolizes caffeine, theophylline, and clozapine; induced by smoking and omeprazole via AhR. CYP1A1 is extrahepatic and bioactivates polycyclic aromatic hydrocarbons. CYP1B1 hydroxylates estradiol at the 4-position. **CYP2**: CYP2C9 (~15-20% of hepatic CYP) metabolizes warfarin, phenytoin, and NSAIDs. CYP2C19 (~5-10%) metabolizes omeprazole and activates clopidogrel. CYP2D6 (~1-5% of hepatic CYP but metabolizes ~25% of all drugs) handles codeine, tamoxifen, metoprolol, and fluoxetine. CYP2E1 metabolizes ethanol and acetaminophen. CYP2B6 handles methadone and efavirenz. **CYP3**: CYP3A4 (~30-40%, the most abundant) has extremely broad substrate specificity including midazolam, cyclosporine, statins, and fentanyl. CYP3A5 is polymorphically expressed and critical for tacrolimus dosing.
+Three families dominate xenobiotic metabolism. **CYP1**: CYP1A2 (~13% of hepatic CYP) metabolizes caffeine, theophylline, and clozapine; induced by smoking and omeprazole via AhR. CYP1A1 is extrahepatic and bioactivates [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]. CYP1B1 hydroxylates estradiol at the 4-position. **CYP2**: CYP2C9 (~15-20% of hepatic CYP) metabolizes warfarin, phenytoin, and NSAIDs. CYP2C19 (~5-10%) metabolizes omeprazole and activates clopidogrel. CYP2D6 (~1-5% of hepatic CYP but metabolizes ~25% of all drugs) handles codeine, tamoxifen, metoprolol, and fluoxetine. CYP2E1 metabolizes ethanol and acetaminophen. CYP2B6 handles methadone and efavirenz. **CYP3**: CYP3A4 (~30-40%, the most abundant) has extremely broad substrate specificity including midazolam, cyclosporine, statins, and fentanyl. CYP3A5 is polymorphically expressed and critical for tacrolimus dosing.
 
 ## Phase I Reactions (Functionalization)
 
@@ -58,13 +58,13 @@ Phase II reactions conjugate hydrophilic moieties onto Phase I products, dramati
 
 ## Phase III Transport (Efflux)
 
-ATP-binding cassette (ABC) transporters complete the elimination pathway. P-glycoprotein (ABCB1/MDR1) pumps drugs out of enterocytes, hepatocytes, and across the blood-brain barrier, determining oral bioavailability and CNS penetration for digoxin, fexofenadine, and HIV protease inhibitors. BCRP (ABCG2) handles rosuvastatin and sulfasalazine. MRP2 (ABCC2) exports glucuronide and glutathione conjugates into bile. CYP3A4 and P-gp are co-localized on enterocytes and share many substrates, acting synergistically to limit oral bioavailability through cooperative first-pass metabolism and efflux.
+ATP-binding cassette (ABC) transporters complete the elimination pathway. P-glycoprotein (ABCB1/MDR1) pumps drugs out of enterocytes, hepatocytes, and across the blood-brain barrier, determining [[first-pass-metabolism-and-oral-bioavailability]] and CNS penetration for digoxin, fexofenadine, and HIV protease inhibitors. BCRP (ABCG2) handles rosuvastatin and sulfasalazine. MRP2 (ABCC2) exports glucuronide and glutathione conjugates into bile. CYP3A4 and P-gp are co-localized on enterocytes and share many substrates, acting synergistically to limit oral bioavailability through cooperative first-pass metabolism and efflux.
 
 ## Induction and Inhibition
 
 **Nuclear receptor-mediated induction**: PXR (pregnane X receptor) induces CYP3A4, CYP2B6, CYP2C9 in response to rifampin, carbamazepine, and St. John's Wort. CAR (constitutive androstane receptor) induces CYP2B6 via phenobarbital. AhR (aryl hydrocarbon receptor) induces CYP1A1/1A2/1B1 via dioxins, PAHs, and cigarette smoke. Clinically, rifampin + oral contraceptives causes contraceptive failure; St. John's Wort + cyclosporine causes transplant rejection.
 
-**Inhibition mechanisms**: Reversible competitive inhibition (ketoconazole on CYP3A4, quinidine on CYP2D6), noncompetitive inhibition, and mechanism-based inactivation (MBI) where reactive metabolites form covalent adducts with the heme or apoprotein (erythromycin, paroxetine on CYP2D6). Grapefruit juice furanocoumarins irreversibly inhibit intestinal CYP3A4. Ketoconazole + midazolam increases midazolam AUC 10-15x. Ritonavir is used pharmacologically as a CYP3A4 inhibitor to boost other HIV protease inhibitors.
+**Inhibition mechanisms**: Reversible competitive inhibition (ketoconazole on CYP3A4, quinidine on CYP2D6), noncompetitive inhibition, and mechanism-based inactivation (MBI) where [[reactive-metabolites-and-bioactivation-toxicology]] form covalent adducts with the heme or apoprotein (erythromycin, paroxetine on CYP2D6). Grapefruit juice furanocoumarins irreversibly inhibit intestinal CYP3A4. Ketoconazole + midazolam increases midazolam AUC 10-15x. Ritonavir is used pharmacologically as a CYP3A4 inhibitor to boost other HIV protease inhibitors.
 
 ## Pharmacogenomics
 
@@ -109,7 +109,7 @@ Mechanism-based inactivation (MBI), also called suicide inactivation, occurs whe
 
 ## CYP Evolution and Diversity
 
-The CYP superfamily is ancient, with members found in all domains of life. Bacteria typically have 1-20 CYP genes, while plants have enormous CYP repertoires (*Arabidopsis thaliana* has >240 CYP genes involved in secondary metabolite biosynthesis, including the CYP71, CYP73, CYP75, CYP81, and CYP89 families for phenylpropanoid, flavonoid, alkaloid, and terpenoid pathways). Fungal CYPs are involved in secondary metabolite biosynthesis (including mycotoxins like aflatoxin) and xenobiotic degradation. The expansion of CYP families in mammals correlates with increased dietary complexity and exposure to plant secondary metabolites, suggesting that detoxification of plant xenobiotics was a major evolutionary driver. CYP2D6 is of particular evolutionary interest as it shows evidence of recent positive selection in some African populations, possibly related to dietary toxin exposure.
+The CYP superfamily is ancient, with members found in all domains of life. Bacteria typically have 1-20 CYP genes, while plants have enormous CYP repertoires (*Arabidopsis thaliana* has >240 CYP genes involved in secondary metabolite biosynthesis, including the CYP71, CYP73, CYP75, CYP81, and CYP89 families for phenylpropanoid, flavonoid, alkaloid, and terpenoid pathways). Fungal CYPs are involved in secondary metabolite biosynthesis (including mycotoxins like aflatoxin) and xenobiotic degradation. The expansion of CYP families in mammals correlates with increased dietary complexity and exposure to [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] metabolites, suggesting that detoxification of plant xenobiotics was a major evolutionary driver. CYP2D6 is of particular evolutionary interest as it shows evidence of recent positive selection in some African populations, possibly related to dietary toxin exposure.
 
 ## Regulatory Guidance and Drug Development
 

@@ -17,22 +17,22 @@ tags: [reference]
 
 # The Sandoz Psilocybin Distribution Program
 
-Following [[albert-hofmann]]'s synthesis of [psilocybin in 1958, the Swiss pharmaceutical company Sandoz (now Novartis) undertook an unprecedented program of manufacturing and distributing the compound to qualified researchers worldwide. This program, which produced approximately 2 kg of pure psilocybin, represented the most extensive legal distribution of a psychedelic substance in history and laid the groundwork for the modern resurgence of clinical psychedelic research.
+Following [[albert-hofmann]]'s synthesis of [psilocybin in 1958, the Swiss pharmaceutical company Sandoz (now Novartis) undertook an unprecedented program of manufacturing and distributing the compound to qualified researchers worldwide. This program, which produced approximately 2 kg of pure psilocybin, represented the most extensive legal distribution of a psychedelic substance in history and laid the groundwork for the modern resurgence of clinical [[controlled-substances-act-and-psychedelic-research]].
 
 ## Historical Context
 
 ### Hofmann's Discovery
 
-Albert Hofmann first isolated psilocybpsilocybe-mexicanamexicana mushrooms collected in Mexico during the 1956 expedition led by R. Gordon W[[roger-heim]]Roger Heim. Hofmann identified the active principle, determined its chemical structure, and developed a method for its laboratory synthesis. The synthesis was confirmed in 1958, and Sandoz began manufacturing psilocybin for research purposes.
+Albert Hofmann first isolated psilocybpsilocybe-mexicanamexicana mushrooms collected in Mexico during the 1956 expedition led by R. Gordon Wasson and Roger Heim. Hofmann identified the active principle, determined its chemical structure, and developed a method for its laboratory synthesis. The synthesis was confirmed in 1958, and Sandoz began manufacturing psilocybin for research purposes.
 
 ### Sandoz's Role
-    2[[sandoz-pharmaceuticals]]aceuticals had previously been responsible for the discovery and distribution of LSD-25 (also by Hofmann, in 1943). The company's experience with LSD distribution prepared it for a similar program with psilocybin, though the scale was smaller and the compound was considered less controversial at the time.
+    Sandoz Pharmaceuticals had previously been responsible for the discovery [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] of LSD-25 (also by Hofmann, in 1943). The company's experience with LSD distribution prepared it for a similar program with psilocybin, though the scale was smaller and the compound was considered less controversial at the time.
 
 ## The Manufacturing Program
 
 ### Scale of Production
 
-Sandoz manufactured approximately 2 kg (ca. 4.4 lbs) of pure psilocybin for scientific research purposes. This is a remarkable quantity when considered against typical research doses:
+Sandoz manufactured approximately 2 kg (ca. 4.4 lbs) of pure psilocybin for [[psilocybin-isolation-and-early-scientific-research]] purposes. This is a remarkable quantity when considered against typical research doses:
 
 - A typical clinical dose of psilocybin is 10-30 mg
 - 2 kg = 2,000,000 mg
@@ -57,9 +57,7 @@ Sandoz distributed psilocybin to qualified scientists for:
 - **Experimental research** -- Pharmacological, biochemical, and psychological studies
 - **Psychotherapeutic purposes** -- Clinical investigations of therapeutic potential
 
-The distribution was global, reaching researchers in:
-
-- Europe (Germany, Switzerland, UK, France, Czechoslovakia, and others)
+The distribution was global, reaching researchers [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] (Germany, Switzerland, UK, France, Czechoslovakia, and others)
 - North America (United States, Canada)
 - South and Central America
 - Asia and Australia (to a lesser extent)
@@ -136,7 +134,7 @@ The research enabled by the Sandoz program laid the foundation for the modern re
 The Sandoz psilocybin program demonstrates that:
 
 1. Pharmaceutical-grade psychedelics can be safely manufactured and distributed
-2. Rigorous scientific investigation of psychedelics is feasible and productive
+2. Rigorous scientific investigation [[turner-further-explorations-and-future-of-psychedelics]] is feasible and productive
 3. Political prohibition can destroy decades of productive research
 4. The safety profile of psilocybin was established 60+ years ago but was ignored for political reasons
 5. Resumption of research after decades of prohibition is possible but wasteful

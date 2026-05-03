@@ -29,9 +29,9 @@ sources:
   - concepts/autoflowering-breeding.md
 ---
 
-# [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants|green cannabis grow bible]] — Pre-flowering and sexing plants chapter
+# [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] — Pre-flowering and sexing plants chapter
 
-*Cannabis ruderalis* is the third recognized subspecies of cannabis, classified as *C. sativa* var. *spontanea* under the International Code of Botanical Nomenclature. Originally described by Russian botanist Dmitrij E. Janischevsky in 1924 from populations in Central Asia and southeastern Russia, it is distinguished from *C. sativa* var. *sativa* and *C. sativa* var. *indica* by its short stature, weedy growth habit, low THC content, and critically, its automatic flowering response triggered by chronological age rather than photoperiod. Though of little direct value as a drug crop, C. ruderalis has become one of the most commercially significant cannabis genetics through its autoflowering trait, which revolutionized cannabis breeding when introgressed into drug-type varieties starting in the early 2000s.
+*[[comparison-cannabis-sativa-vs-cannabis-ruderalis]]* is the third recognized subspecies of cannabis, classified as *C. sativa* var. *spontanea* under the International Code of Botanical Nomenclature. Originally described by Russian botanist Dmitrij E. Janischevsky in 1924 from populations in Central Asia and southeastern Russia, it is distinguished from *C. sativa* var. *sativa* and *C. sativa* var. *indica* by its short stature, weedy growth habit, low THC content, and critically, its automatic [[mollison-designers-day-length-and-flowering-response]] triggered by chronological age rather than photoperiod. Though of little direct value as a drug crop, C. ruderalis has become one of the most commercially significant cannabis genetics through its autoflowering trait, which revolutionized [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] when introgressed into drug-type varieties starting in the early 2000s.
 
 ## Taxonomy
 
@@ -54,7 +54,7 @@ C. ruderalis is a short, weedy, scrubby annual herb rarely exceeding 60 cm (2 fe
 - **Leaves:** Narrow to medium leaflets, generally smaller than C. sativa, lighter green coloration
 - **Stems:** Thin but fibrous stems, less woody than C. indica
 - **Flowers:** Small, sparse inflorescences with very low resin production
-- **[[cannabis-seed-storage|Seed]]s:** Small, round seeds that shatter readily at maturity (auto-seeding mechanism)
+- **Seeds:** Small, round seeds that shatter readily at maturity (auto-seeding mechanism)
 - **Root system:** Shallow but extensive lateral roots adapted to poor soils
 - **Lifecycle:** Extremely fast — seed to maturity in approximately 8–10 weeks
 - **Odor:** Minimal aromatic profile compared to drug-type cannabis
@@ -67,7 +67,7 @@ C. ruderalis is native to Central Asia, Eastern Europe, and parts of Central Eur
 
 The defining characteristic of C. ruderalis is its flowering mechanism. Unlike C. sativa and C. indica, which require a change in photoperiod (typically to 12 hours of darkness) to trigger flowering, C. ruderalis begins flowering after a predetermined number of weeks from germination — typically 2–4 weeks of vegetative growth — regardless of light schedule. This automatic flowering response is genetically programmed and cannot be prevented or delayed by extending the light period.
 
-This trait evolved as an adaptation to the short growing seasons of northern latitudes (50°N and above), where waiting for the seasonal photoperiod shift to initiate flowering would risk the plant being killed by frost before seed maturation. The autoflowering mechanism allows C. ruderalis to complete its entire lifecycle within the narrow summer window of subarctic and temperate regions.
+This trait evolved as an adaptation to the short [[solomon-climate-zones-and-growing-seasons]] of northern latitudes (50°N and above), where waiting for the seasonal photoperiod shift to initiate flowering would risk the plant being killed by frost before seed maturation. The autoflowering mechanism allows C. ruderalis to complete its entire lifecycle within the narrow summer window of subarctic and temperate regions.
 
 ## Cannabinoid Profile
 
@@ -124,7 +124,7 @@ Beyond its breeding value, C. ruderalis populations represent feral hemp that ha
 
 ## History and Discovery
 
-Janischevsky's 1924 description established C. ruderalis as distinct from cultivated hemp based on specimens collected from the Volga River region and Central Asia. The plant received little attention outside of botanical circles until the early 1980s, when cannabis breeders in Amsterdam recognized the potential of its autoflowering trait. The Seed Bank (later merged into Sensi Seeds) was instrumental in bringing Central European ruderalis genetics into the breeding mainstream. The development of viable autoflowering drug strains in the 2000s by breeders such as The Joint Doctor (creator of Lowryder) transformed C. ruderalis from a botanical curiosity into a cornerstone of modern cannabis genetics, with autoflowering varieties now comprising a significant and growing segment of the global seed market.
+Janischevsky's 1924 description established C. ruderalis as distinct from cultivated hemp based on specimens collected from the Volga River region and Central Asia. The plant received little attention outside of botanical circles until the early 1980s, when cannabis breeders in Amsterdam recognized the potential of its autoflowering trait. The Seed Bank (later merged into Sensi Seeds) was instrumental in bringing Central European ruderalis genetics into the breeding mainstream. The development of viable autoflowering drug strains in the 2000s by breeders such as The Joint Doctor (creator of Lowryder) transformed C. ruderalis from a botanical curiosity into a cornerstone of modern cannabis genetics, with autoflowering varieties now comprising a significant [[holzer-stone-fruit-varieties-and-growing]] segment of the global seed market.
 
 ## See Also
 

@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/staycare-mngmt-fungi-in-bioremediation.md"
 ---
 
 updated: 2026-04-18

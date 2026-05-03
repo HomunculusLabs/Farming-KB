@@ -82,7 +82,9 @@ Soils under slashed pastures are of excellent structure, and erosion is effectiv
 
 See [[permaculture-tree-crop-systems]] for full treatment of silvopastoral systems. The transition from pasture to tree crop is a key permaculture strategy, using animal tractor systems to prepare ground for tree planting.
 
-## Related Concepts
+## Related
+
+- [[query-how-do-i-plan-rotational-grazing-for-soil-health]] Concepts
 
 - [[permaculture-livestock-forage-systems]] -- diverse forage sources including tree fodder
 - [[permaculture-domestic-animals]] -- the animals themselves and their management

@@ -9,7 +9,7 @@ sources:
 ---
 # Outdoor Woodlover Mushroom Cultivation
 
-Wood-loving (lignicolous) psilocybin mushrooms -- including [[psilocybe-azurescens]], P. cyanescens, P. subaeruginosa, P. cyanofibrillosa, and allies -- are among the most potent psychedelic mushrooms known. They cannot be reliably fruited indoors and require outdoor cultivation on wood-based substrates. This page covers the complete outdoor cultivation cycle.
+Wood-loving (lignicolous) [[psilocybin-mushrooms]] -- including [[psilocybe-azurescens]], P. cyanescens, P. subaeruginosa, P. cyanofibrillosa, and allies -- are among the most potent psychedelic mushrooms known. They cannot be reliably fruited indoors and require outdoor cultivation on wood-based substrates. This page covers the complete outdoor cultivation cycle.
 
 ## Species Overview
 
@@ -31,7 +31,7 @@ The process follows three stages:
 
 ## Stage 1: Agar Culture and Strain Isolation
 
-1. Prepare malt extract agar (4g malt extract + 2g agar per 100ml water)
+1. Prepare [[malt-extract-agar]] (4g malt extract + 2g agar per 100ml water)
 2. Sterilize at 121C for 20 minutes
 3. Germinate spores or clone tissue on agar
 4. Incubate at 18-24C; spores germinate within a few days

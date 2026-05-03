@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[fukuoka-living-soil]]'s farming method is inseparable from his philosophical and spiritual worldview. His approach to [[fukuoka-natural-vegetable-growing]] exemplifies these principles in practice. Unlike most agricultural reformers who offer improved techniques, Fukuoka presented a complete worldview that challenges the foundations of modern civilization. His natural farming is not a technique but a way of life rooted in an understanding of the relationship between humanity and nature.
+[[fukuoka-living-soil]]'s farming method is inseparable from his philosophical and spiritual worldview. His approach to [[fukuoka-natural-vegetable-growing]] exemplifies these [[williams-pdc-permaculture-ethics-and-principles-in-practice]]. Unlike most agricultural reformers who offer improved techniques, Fukuoka presented a complete worldview that challenges the foundations of modern civilization. His [[natural-farming-guide-permaculture-design-for-small-holdings]] is not a technique but a way of life rooted in an understanding of the relationship between humanity and nature.
 
 ## The Moment of Insight
 
@@ -58,7 +58,7 @@ This reasoning is circular: it analyzes what already exists and calls the analys
 
 Fukuoka uses the parable of the blind men and the elephant to illustrate the problem:
 - Each blind man touches a different part of the elephant and believes he understands the whole
-- Similarly, each agricultural scientist studies one aspect (soil, breeding, pest control) and believes he understands farming
+- Similarly, each agricultural scientist studies one aspect (soil, breeding, [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]) and believes he understands farming
 - "The whole is greater than the sum of its parts"
 - No matter how many fragmentary laws are collected, they can never equal the great source principle
 
@@ -80,7 +80,7 @@ Fukuoka contrasts two approaches to agricultural knowledge:
 
 ### The Principle of Non-Causality
 
-Fukuoka's most radical philosophical position: causality does not exist in nature.
+Fukuoka's most radical philosophical position: causality does not exist [[fukuoka-textdoc-no-cause-and-effect-in-nature]].
 
 "Viewed up close, organic causal relationships can be resolved into causes and effects, but when examined holistically, no effects and causes are to be found. There is nothing to get ahold of, so all measures are futile."
 
@@ -119,7 +119,7 @@ Fukuoka distinguishes between two types of knowledge:
 - Categorizes, classifies, and distinguishes
 - Creates distinctions between crop and weed, beneficial and harmful
 - Leads to action -- intervention, control, manipulation
-- Moves away from nature toward "somethingness"
+- Moves away [[fukuoka-learning-about-nature-distances-one-from-nature]] toward "somethingness"
 
 **Non-discriminating knowledge (the knowledge of nature):**
 - Sees wholeness and interconnectedness

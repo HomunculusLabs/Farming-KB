@@ -16,7 +16,7 @@ sources:
 
 ## Fukuoka's Revolution in Grain Cultivation
 
-Until Mollison read [[fukuoka-natural-farming-philosophy-of-mu]] work, there was no satisfactory basis for including grain and legume crops in permaculture. The system outlined in The One-Straw Revolution (Rodale, 1975) solved the problems of no-dig grain cultivation.
+Until Mollison read [[fukuoka-natural-farming-philosophy-of-mu]] work, there was no satisfactory basis for including grain and legume crops [[mollison-designers-thatch-and-natural-roofing-in-permaculture]]. The system outlined in The One-Straw Revolution (Rodale, 1975) solved the problems of no-dig grain cultivation.
 
 The approach combines the usual rotation of legume/grain/root crop/pasture/fallow/legume into a single grain/legume mixed crop — what Mollison calls "simultaneous rotation." Any smallholder can, without tractor or machinery, produce a heavy crop of grains and legumes if this method is practised.
 
@@ -24,7 +24,7 @@ The approach combines the usual rotation of legume/grain/root crop/pasture/fallo
 
 The core principles enabling small areas (400 m² or less) to support a family of five on grain are:
 
-- **Continuous mulch** with clover as a living ground cover
+- **Continuous mulch** with clover as a living [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]
 
 - **Double-cropping** using winter and spring sown grains
 
@@ -32,7 +32,7 @@ The core principles enabling small areas (400 m² or less) to support a family o
 
 - **No cultivation** — once the cycle is perfected, there is no further tillage
 
-- **Mulch-based weed control** — straw mulch is the only weed control needed
+- **Mulch-based [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]** — [[fukuoka-straw-winter-grain-straw-mulch]] is the only weed control needed
 
 The system is well suited to sewage or sullage disposal from holding lagoons, where no poultry manure would be needed.
 
@@ -111,7 +111,7 @@ A long-day plant for cool areas, sub-tropical to arctic. Spring types mature in 
 
 ### Buckwheat (Fagopyrum spp.)
 
-Suited to a wide range of climates. F. esculentum is best for cool moist climates. Tolerates infertile, poorly-tilled, and acid soils. Insect-pollinated; needs bees at 2 hives per ha. Frost tender. Sow after frost danger at 25–40 kg/ha. Harvested at 10 weeks. Threshes easily. Good yields: 4,200–4,400 kg/ha. Excellent green manure for poor soils.
+Suited to a wide range of climates. F. esculentum is best for cool moist climates. Tolerates infertile, poorly-tilled, and acid soils. Insect-pollinated; needs bees at 2 hives per ha. Frost tender. Sow after frost danger at 25–40 kg/ha. Harvested at 10 weeks. Threshes easily. Good yields: 4,200–4,400 kg/ha. Excellent [[sepp-holzer-soil-fertility-and-green-manure]] for poor soils.
 
 ### Oats (Avena sativa)
 

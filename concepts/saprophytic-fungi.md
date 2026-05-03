@@ -13,7 +13,7 @@ for breaking down dead organic matter and recycling nutrients back into
 ecosystems. Approximately 8,000 known macrofungi are saprophytic, making
 them the largest category of visible mushrooms. They steer the course of
 biological communities by shaping the first menus in the food web from dead
-plants, insects, and animals. Most gourmet and medicinal mushrooms are wood
+plants, insects, and animals. Most gourmet and [[medicinal-mushrooms]] are wood
 decomposers, the premier recyclers on the planet. Building soil is the
 primary outcome of their activities, as their filamentous mycelial networks
 weave through and between the cell walls of dead plant material, secreting
@@ -21,7 +21,7 @@ enzymes and acids that degrade large molecules into simpler reusable forms.
 
 ## Decomposition Stages
 
-Saprophytic mushrooms are classified into three groups based on when they
+[[saprophytic-mushrooms]] are classified into three groups based on when they
 colonize organic material during the decomposition process. These groups can
 coexist in a single location.
 
@@ -65,7 +65,7 @@ the fungal kingdom.
 
 Many saprophytic fungi can behave as weak parasites when conditions allow,
 especially when a host tree is already stressed by environmental factors or
-other infestations. Oyster mushrooms (Pleurotus ostreatus) are classic
+other infestations. Oyster mushrooms ([[pleurotus-ostreatus]]) are classic
 saprophytes but are frequently found on dying trees including cottonwood,
 oak, poplar, birch, maple, and alder. Reishi (Ganoderma lucidum), considered
 a true saprophyte by most mycologists, has been classified as a parasite by

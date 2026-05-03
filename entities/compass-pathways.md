@@ -33,9 +33,9 @@ Before founding Compass, Goldsmith had a background in healthcare technology and
 
 ## COMP360 Program
 
-COMP360 is Compass’s proprietary, synthetic formulation of psilocybin, administered as a single oral capsule dose alongside psychological support. The therapy model involves preparatory sessions with trained therapists, a dosing session in a controlled clinical setting, and integration sessions afterward. The approach is designed for patients who have not responded to at least two prior antidepressant treatments.
+COMP360 is Compass’s proprietary, synthetic formulation of psilocybin, administered as a single oral capsule dose alongside psychological support. The therapy model involves preparatory sessions with trained therapists, a dosing session in a controlled clinical setting, [[mollison-designers-road-water-harvesting-and-integration]] sessions afterward. The approach is designed for patients who have not responded to at least two prior antidepressant treatments.
 
-The synthetic formulation distinguishes COMP360 from natural psilocybin mushrooms.
+The synthetic formulation distinguishes COMP360 from natural [[psilocybin-mushrooms-of-the-world-genus-overview]].
 
 By manufacturing a chemically defined product, Compass aims to ensure consistent dosing, quality control, and regulatory compliance—critical requirements for pharmaceutical approval that natural products cannot easily meet.
 
@@ -65,7 +65,7 @@ COMP360 has received several significant regulatory designations that reflect it
 
 - **FDA Breakthrough Therapy Designation** (2018) for treatment-resistant depression, making Compass one of the first psychedelic companies to receive this designation.
 - **FDA Fast Track Designation**, providing more frequent FDA interactions and rolling review submissions.
-- **EMA Priority Medicines (PRIME) designation** from the European Medicines Agency, supporting accelerated development in Europe.
+- **EMA Priority Medicines (PRIME) designation** from the European Medicines Agency, supporting accelerated development [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]].
 - Psilocybin remains a Schedule I controlled substance in the US, though COMP360 is used under clinical trial protocols and Investigational New Drug (IND) applications.
 
 The path to FDA approval has been complicated by concerns about the suicidality signal observed in trials.
@@ -84,9 +84,9 @@ While treatment-resistant depression remains the lead indication, Compass has ex
 
 ## Partnerships and Collaborations
 
-Compass has built a network of partnerships to support its clinical development and commercialization strategy. King’s College London has been a longstanding research partner for clinical trials and neuroscience research. In 2022, Compass partnered with Holmusk to use real-world data and AI to support clinical development and post-approval strategies. The company has also worked with the Heffter Research Institute and academic investigators worldwide.
+Compass has built a network of partnerships to support its clinical development and commercialization strategy. King’s College London has been a longstanding research partner for [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] and neuroscience research. In 2022, Compass partnered with Holmusk to use real-world data and AI to support clinical development and post-approval strategies. The company has also worked with the Heffter Research Institute and academic investigators worldwide.
 
-These partnerships have been essential for building the clinical evidence base and training the therapist workforce needed to deliver psilocybin-assisted therapy at scale.
+These partnerships have been essential for building the clinical evidence base [[permaculture-designers-manual-education-and-training]] the therapist workforce needed to deliver psilocybin-assisted therapy at scale.
 
 ## Controversies and Criticisms
 

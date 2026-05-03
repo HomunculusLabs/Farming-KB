@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDOH
 
-PIHKAL entry #114. N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE.
+[[al-pihkal-entry-2]] #114. N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -29,7 +29,7 @@ N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE
 > was offered. Since I felt I was beginning to move through the
 > barrier, I declined the supplement, particularly since I was anxious
 > to compare the after-effects with my first experience. I had found
-> the first time very remarkable, but felt unusually tired for several
+> the [[first-time-grower-common-mistakes]] very remarkable, but felt unusually tired for several
 > days following. I feel it is important to know whether this is a
 > specific drug-induced effect, or the result of psychological
 > phenomena. The experience continued in a rich, meaningful way. There
@@ -42,7 +42,7 @@ N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE
 >
 > (with 100 mg) The material came on fairly rapidly. In about 30
 > minutes, I was intensely intoxicated, and more deeply than with MDMA.
-> It was a glorious feeling, and beauty was everywhere enhanced. With
+> It was a glorious feeling, [[fukuoka-road-flowers-and-beauty]] was everywhere enhanced. With
 > eyes closed it felt marvelous, and it was appealing to pursue the
 > inner experience. I did notice an internal dryness which was
 > characteristic of MDMA, and I had similar difficulty in urinating, but
@@ -136,7 +136,7 @@ gives an O-acetyl derivative that is an oil.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[mckenna-tryptamine-research-legal-status]] varies by jurisdiction.
 
 ## See Also
 

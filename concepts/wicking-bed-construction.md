@@ -38,7 +38,7 @@ The layer that bridges the reservoir and soil:
 ### Soil Layer
 The growing medium sits on top of the wicking medium:
 - **Depth:** Minimum 8-10 inches above the wicking medium. 12 inches is ideal for most vegetables.
-- **Soil mix:** Use a well-draining, nutrient-rich mix. A blend of garden soil, compost, and aeration material (perlite, pumice, coarse sand) works well.
+- **Soil mix:** Use a well-draining, nutrient-rich mix. A blend of garden soil, compost, [[mollison-designers-fish-pond-water-quality-and-aeration]] material (perlite, pumice, coarse sand) works well.
 - **Do not use pure potting mix:** It's too light and wicks poorly. Include some mineral soil for better capillary action.
 - **Do not use garden soil straight:** It can become compacted and inhibit wicking. Mix with compost and aeration material.
 ## Sizing
@@ -93,7 +93,7 @@ The growing medium sits on top of the wicking medium:
 ### Planting Pattern
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider companion planting for pest management and efficient space use
+- Consider [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and efficient space use
 ## Maintenance
 - **Check water level weekly:** Lift the fill pipe cap and look inside, or insert a dipstick
 - **Top-dress with compost:** Apply 1-2 inches of compost each season
@@ -112,6 +112,6 @@ The growing medium sits on top of the wicking medium:
 - **Nutrient depletion:** Wicking beds need regular compost top-dressing since nutrients can accumulate in the reservoir over time
 - **Roots clogging overflow:** Trim roots that grow into the overflow pipe during maintenance
 ## Related Concepts
-- [[permaculture-designers-manual-keyhole-garden]] for another self-contained, water-efficient garden bed design
-- [[herb-spiral-construction]] for microclimate-based planting design
+- [[permaculture-designers-manual-keyhole-garden]] for another self-contained, water-efficient garden [[mollison-designers-plant-nursery-propagation-bed-design]]
+- [[herb-spiral-construction]] for microclimate-based [[mollison-pig-forage-species-and-range-planting-design]]
 - [[garden-bed-designs]] for intensive, space-efficient garden layout

@@ -9,7 +9,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 # Ayahuasca Therapeutic Potential
 Ayahuasca, the Amazonian psychoactive brew, has demonstrated significant therapeutic
 potential across multiple contexts -- from traditional indigenous shamanic healing to
-syncretic Brazilian church ceremonies to modern hybrid therapeutic rituals. Its
+syncretic Brazilian church ceremonies [[turner-brief-history-psychedelics-ancient-to-modern]] hybrid therapeutic rituals. Its
 therapeutic applications span physical, psychological, and spiritual dimensions of
 healing, making it perhaps the most versatile of all entheogenic plant medicines
 currently in use.
@@ -44,7 +44,7 @@ for the person's illness. Indigenous healers refer to ayahuasca and other entheo
 plants as "plant teachers," recognizing that there is an intelligence associated with
 the plant medicine that communicates in an interior way to the person who ingests it.
 This concept of the plant as teacher -- rather than mere chemical -- fundamentally
-shapes the therapeutic relationship between healer, patient, and medicine.
+shapes the therapeutic relationship between healer, patient, [[mushroom-cultivation-for-food-and-medicine]].
 ### Three Distinctive Features of Traditional Ceremonies
 Traditional ayahuasca ceremonies share three features with other shamanic entheogenic
 rituals that distinguish them from Western psychotherapy:
@@ -75,18 +75,18 @@ participants sit in rows in straight-backed chairs during the ceremony, listenin
 sermons and songs given by the maestres who sit around a central table. There is also
 a question-and-answer period, and sometimes testimonials of life-transformations are
 offered by longer-term members, reminiscent of AA confessions. The UDV's formal
-structure reflects its emphasis on teaching and transmission of knowledge through the
+structure reflects its emphasis on teaching and transmission [[fukuoka-ignorant-agriculture-pit-of-knowledge]] through the
 ayahuasca experience.
 ### Barquinia
 Less well known outside Brazil, Barquinia has incorporated elements of Umbanda, an
 Afro-Brazilian religious movement involving contact with deceased ancestors and
 deities known as orixas. These ceremonies involve both singing and dancing, combining
-Amazonian ayahuasca practice with African-derived spiritual traditions.
+[[amazonian-ayahuasca-purge-and-diet-practices]] practice with African-derived spiritual traditions.
 ### Social and Therapeutic Functions
 The ayahuasca churches serve important functions beyond individual healing. An
 important social function is to strengthen community bonds and give members a sense of
 participation and belonging. The churches provide their members with a certain degree
-of social cohesion and protection, and participation tends to reduce the incidence of
+of social cohesion [[falconer-mushroom-bed-boxing-and-protection]], and participation tends to reduce the incidence of
 alcoholism and drug addiction. A further societal function is to provide a protective
 shield of traditional lore against the encroachments of Christian missionaries and the
 seductions of Western consumer culture.

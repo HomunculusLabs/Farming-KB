@@ -23,7 +23,7 @@ sources:
 - **Genus:** Kaempferia
 - **Species:** K. galanga
 - **Authority:** L.
-- **Common names:** Galanga, Greater Galangal, Kencur (Indonesian), Pro Hom (Thai)
+- **[[australian-magic-mushroom-common-names]]:** Galanga, Greater Galangal, Kencur (Indonesian), Pro Hom (Thai)
 
 The genus Kaempferia was named in honor of the German physician and botanist Engelbert Kaempfer, who traveled extensively in Asia in the late 17th century. K. galanga is sometimes confused with Alpinia galanga (the "greater galangal" of commerce), and the taxonomic relationship and common name overlap between these species has caused considerable confusion in both the botanical and culinary literature.
 
@@ -35,7 +35,7 @@ Kaempferia galanga is a short-stemmed herb with a highly aromatic rhizome. The p
 
 The leaves are often patterned with lighter veins against a darker green background, giving them an ornamental appearance. The distinctive leaf patterning makes the plant easily recognizable even when not in flower. The leaves arise directly from the rhizome, with very short or no above-ground stem.
 
-The flowers are small and white or pale purple, emerging directly from the rhizome near the base of the leaf stems. The plant rarely flowers in cultivation, and propagation is typically done vegetatively through division of the rhizome.
+The flowers are small and white or pale purple, emerging directly from the rhizome near the base of the leaf stems. The plant rarely flowers [[mushroom-mites-and-nematodes-in-cultivation]], and propagation is typically done vegetatively through division of the rhizome.
 
 The rhizome is the primary plant part used both culinarily and medicinally, with a characteristic spicy, camphoraceous aroma. Fresh rhizomes are aromatic and firm, with a pale interior and a brownish exterior skin.
 
@@ -72,11 +72,11 @@ In Malaysia, K. galanga was historically added to the arrow poison prepared from
 
 ### Hallucinogenic Use (New Guinea)
 
-There are vague reports that Galanga is employed as a hallucinogen in New Guinea. The specific context, preparation methods, and effects of this use remain poorly documented in the ethnobotanical literature. Some researchers have suggested that the hallucinogenic effects attributed to Galanga in New Guinea may actually result from confusion with other species or from adulteration of preparations with other psychoactive plants.
+There are vague reports that Galanga is employed as a hallucinogen in New Guinea. The specific context, [[gottlieb-peyote-extraction-and-preparation-methods]], [[emcdda-psilocybin-mushroom-dose-and-effects]] of this use remain poorly documented in the ethnobotanical literature. Some researchers have suggested that the hallucinogenic effects attributed to Galanga in New Guinea may actually result from confusion with other species or from adulteration of preparations with other psychoactive plants.
 
 ## Chemistry
 
-The rhizome of K. galanga contains a complex mixture of bioactive compounds, including:
+The rhizome of K. galanga contains a complex mixture of [[medicinal-mushroom-extraction-bioactive-compounds]], including:
 
 - **Ethyl cinnamate** — a major aromatic constituent
 - **Ethyl p-methoxycinnamate** — a significant aromatic compound

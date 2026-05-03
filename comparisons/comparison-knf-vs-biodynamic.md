@@ -1,4 +1,5 @@
----[[korean-natural-farming]]l Farming vs Biodynamic Agriculture"
+---
+title: Korean Natural Farming vs Biodynamic Agriculture
 tags: [knf, biodynamic, natural-farming, organic-farming, soil-biology]
 date: 2026-04-28
 updated: 2026-04-28

@@ -31,7 +31,7 @@ construction, also known as stackwall or log-end building, uses short debarked
 logs laid in mortar beds to create solid, thermally massive walls.
 
 While bamboo excels in tropical and subtropical regions with its lightweight
-flexibility, cordwood thrives in temperate climates where thermal mass and
+flexibility, cordwood thrives in [[fukuoka-natural-farming-temperate-climates]] where [[urban-water-catchment-cistern-thermal-mass]] and
 insulation are paramount. Both methods offer low-cost, sustainable alternatives
 to conventional construction but differ significantly in material sourcing,
 structural behavior, climate suitability, and building technique.
@@ -63,7 +63,7 @@ minimal maintenance.
 Bamboo construction is best suited to tropical and subtropical climates where
 the material is readily available and where its lightweight, breathable nature
 is an advantage. Its renewability is virtually unmatched among structural
-building materials, and its carbon sequestration capacity during rapid growth
+building materials, and its [[query-how-do-fungi-contribute-to-carbon-sequestration]] capacity during rapid growth
 makes it an environmentally compelling choice.
 
 ## Cordwood Construction
@@ -104,7 +104,7 @@ insulation, making cordwood buildings quiet and comfortable year-round.
 | **Building complexity** | Requires joinery skills | Simple stacking technique |
 | **Sound insulation** | Moderate | Excellent |
 | **Renewability** | Extremely high | Moderate |
-| **Primary regions** | Asia, Africa, Latin America | North America, Europe |
+| **Primary regions** | Asia, Africa, Latin America | [[guzman-psilocybin-mushrooms-north-america]], Europe |
 
 ## When to Choose Bamboo
 
@@ -129,7 +129,7 @@ feel are priorities.
 
 Cordwood also suits projects with access to softwood timber and where the heavy,
 masonry-like character of the walls is desired. Its thick walls provide natural
-temperature regulation that reduces heating and cooling demands over the life
+[[blesching-cannabis-fever-temperature-regulation]] that reduces heating and cooling demands over the life
 of the building.
 
 ## Hybrid Approaches

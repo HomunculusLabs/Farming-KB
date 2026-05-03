@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
 
 ## Overview
 
-After mycelial colonization and fruiting initiation, commercial mushroom crops
+After [[mycelial-colonization]] and [[fruiting-initiation]], commercial mushroom crops
 progress through a series of harvest cycles called flushes. Managing these
 flushes, including the timing, environmental conditions, and harvesting
 techniques, determines both yield and quality of the crop. Mushroom crop

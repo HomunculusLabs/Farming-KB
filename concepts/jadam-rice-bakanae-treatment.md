@@ -10,15 +10,11 @@ sources:
 
 # Rice Bakanae Disease Treatment (JADAM Pesticide Recipe #1)
 
-
-
 ## Overview
 
 Rice bakanae disease (caused by Fusarium fujikuroi) causes elongated, thin, pale seedlings that eventually die. JADAM developed a cold water seed immersion method using [[jadam-sulfur-js]] that completely eliminates bakanae without chemical seed disinfectants.
 
 **Developed by:** Seonseop Jeong, Youngsu Hyeon, Seonsu Gim, Youngsang Cho
-
-
 
 ## Seed Disinfection Recipe
 
@@ -35,8 +31,6 @@ For the immersion solution (to treat 20 L / 5.3 gal of rice seeds):
 - **Rice seeds with thick husks:** Increase JS to 7 L (1.85 gal)
 - **Waxy rice and colored rice:** Increase JS to 7 L (1.85 gal)
 
-
-
 ## Step-by-Step Procedure
 
 1. Put rice seeds in small porous bags
@@ -45,8 +39,6 @@ For the immersion solution (to treat 20 L / 5.3 gal of rice seeds):
 4. A white film will form on the surface (normal)
 5. Remove seeds and rinse **very thoroughly** with water
 6. Begin sprouting
-
-
 
 ## Seedbed Treatment (if disease appears)
 
@@ -57,8 +49,6 @@ If rice seedlings show bakanae disease in the seedbed:
 - Add water to make 500 L (132 gal)
 - Spray on affected seedlings
 
-
-
 ## Applicability to Other Seeds
 
 This seed disinfection method works for other crops too:
@@ -67,8 +57,6 @@ This seed disinfection method works for other crops too:
 
 This solution can fully replace chemical seed disinfectants.
 
-
-
 ## Key Notes
 
 - Use cold water only, not warm or hot water
@@ -76,8 +64,6 @@ This solution can fully replace chemical seed disinfectants.
 - Thorough rinsing after immersion is essential to remove residual sulfur
 - The method works by disrupting the Fusarium fungus on the seed surface during the long cold soak
 - This is one of JADAM's signature inventions listed among Youngsang Cho's major achievements
-
-
 
 ## See Also
 

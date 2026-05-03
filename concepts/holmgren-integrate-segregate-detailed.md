@@ -12,17 +12,11 @@ sources:
 
 From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
 
-
-
-
 ## Core Concepts
 
 The principle of integration focuses on the relationships between elements in a system. Symbiotic relationships go beyond mutualism to the point where the organisms become so interdependent that they cannot live without the other. Symbiotic nitrogen-fixing bacteria on the roots of legumes are one of the best-known examples, critical for organic and low-input agriculture.
 
 The apparently opposite tendencies of symbiosis and predation in nature can be seen as different paths to integration. Indigenous hunter-gatherer cultures generally regarded the process of killing and consuming animals, and even plants, as one of integration. The maxim that "we are what we eat" is true at many levels.
-
-
-
 
 ## Each Element Performs Many Functions
 
@@ -31,9 +25,6 @@ In nature, multi-functionality is the norm. The trunk and branches of a tree hol
 The maximum yield fallacy: the ignoring of secondary yields or benefits in favour of a single yield or benefit, especially among farmers, was a natural response to readily available energy. But without increasing energy availability, this approach is highly dysfunctional.
 
 Functional analysis shows there are many potential yields and functions for any element. For example, at Melliodora the purebred Black Australorp fowls are heavy birds and can be contained by one-metre fences, a critical design factor. Sometimes, obtaining secondary yields actually contributes to primary yield.
-
-
-
 
 ## Each Important Function is Supported by Many Elements
 
@@ -44,9 +35,6 @@ Another aspect is complementary contribution: different elements contribute in v
 This multi-functional use of plants and animals often involves compromises, because varieties and breeds suited to one use may not be so good for another. With declining energy, flexibility to changing conditions and needs is more useful than the apparent gains possible from specialisation.
 
 [[permaculture-principle-integrate-rather-than-segregate]] | [[permaculture-principles]] | [[permaculture-guild-design]] | [[permaculture-design-methods]] | [[permaculture-earthworks-guide]]
-
-
-
 
 ## Key Points
 
@@ -61,9 +49,6 @@ This multi-functional use of plants and animals often involves compromises, beca
 9. The principle supports the broader goal of reducing dependence on non-renewable resources and external inputs.
 10. Real-world application of this principle has been demonstrated across diverse climates and contexts worldwide.
 
-
-
-
 ## Practical Applications
 
 - Conduct a thorough site analysis before design, mapping zones, sectors, soil, water, and existing vegetation.
@@ -74,9 +59,6 @@ This multi-functional use of plants and animals often involves compromises, beca
 - Create redundancy in critical systems to increase resilience against failure or disruption.
 - Incorporate small-scale, slow solutions that can be tested and adjusted before large investments.
 - Map and maximize edge effects between different ecosystems or landscape elements.
-
-
-
 
 ## See Also
 

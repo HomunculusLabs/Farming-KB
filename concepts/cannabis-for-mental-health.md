@@ -65,9 +65,9 @@ This Nature paper demonstrated that the emotional valence (positive/negative) of
 ## Bipolar Disorder
 
 ### Key Studies
-**Ashton, Moore, Gallagher, and Young (2005)**: "Cannabinoids in bipolar affective disorder: A review and discussion of their therapeutic potential." Journal of Psychopharmacology 19(3):293-300.
+**Ashton, Moore, Gallagher, and Young (2005)**: "Cannabinoids in bipolar affective disorder: A review and discussion of their [[metzner-ayahuasca-therapeutic-potential]]." Journal of Psychopharmacology 19(3):293-300.
 
-**Grinspoon and Bakalar (1998)**: "The use of cannabis as a mood stabilizer in bipolar disorder: Anecdotal evidence and the need for clinical research." Journal of Psychoactive Drugs 30(2):171-77.
+**Grinspoon and Bakalar (1998)**: "The use of cannabis as a mood stabilizer in bipolar disorder: Anecdotal evidence and the need for [[reishi-ganoderma-cancer-clinical-research]]." Journal of Psychoactive Drugs 30(2):171-77.
 
 Anecdotal evidence suggests cannabis may function as a mood stabilizer -- reducing both manic and depressive episodes.
 
@@ -87,7 +87,7 @@ Childhood trauma is associated with more severe bipolar illness course, connecti
 
 **Gururajan, Taylor, and Malone (2012)**: "Cannabidiol and clozapine reverse MK-801-induced deficits in social interaction and hyperactivity." Journal of Psychopharmacology 26(10):1317-32.
 
-**Lafenetre, Chaouloff, and Marsicano (2009)**: "Bidirectional regulation of novelty-induced behavioral inhibition by the endocannabinoid system." Neuropharmacology 57(7-8):715-21.
+**Lafenetre, Chaouloff, and Marsicano (2009)**: "Bidirectional regulation of novelty-induced behavioral inhibition by the [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]." Neuropharmacology 57(7-8):715-21.
 
 The endocannabinoid system bidirectionally regulates behavioral inhibition, suggesting a role in ADHD's core deficit.
 
@@ -99,9 +99,7 @@ The endocannabinoid system bidirectionally regulates behavioral inhibition, sugg
 ## Schizophrenia
 
 ### The Paradox
-Cannabis is often cited as a risk factor for schizophrenia, yet CBD shows antipsychotic properties. The key distinction is THC vs. CBD:
-
-- **THC**: Can trigger psychotic symptoms in vulnerable individuals (especially those with COMT val158met genetic variant)
+Cannabis is often cited as a risk factor for schizophrenia, yet CBD shows antipsychotic properties. The key distinction is THC vs. [[cbd-to-thc-isomerization-chemistry]]**: Can trigger psychotic symptoms in vulnerable individuals (especially those with COMT val158met genetic variant)
 - **CBD**: Shows antipsychotic effects comparable to conventional antipsychotic medications
 
 ### Key Studies
@@ -141,7 +139,7 @@ For mental health conditions, CBD-dominant preparations are generally preferred:
 THC should be used cautiously in mental health contexts:
 - Can trigger anxiety at higher doses
 - May worsen psychotic symptoms in vulnerable individuals
-- Adolescent use may increase psychosis risk in genetically susceptible people
+- [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]] may increase psychosis risk in genetically susceptible people
 
 ## See Also
 - [[cannabis-health-endo-cannabinoid-system]]

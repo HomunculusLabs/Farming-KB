@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic fungi arbuscular mycorrhizal colonization pattern
 
 # Arbuscular Mycorrhizal Mechanisms
 
-Source: symbiotic fungi arbuscular mycorrhizal fungal diversity agriculture (Varma and Kharkwal, eds.), Chapters 1, 4, 6, 8, 11
+Source: symbiotic fungi arbuscular [[mycorrhizal-fungal-diversity]] agriculture (Varma and Kharkwal, eds.), Chapters 1, 4, 6, 8, 11
 
 ## Introduction
 
@@ -46,7 +46,7 @@ Aseptate hyphae enter the root cortical cells and form characteristic structures
 
 - **Vesicles**: storage organs containing lipids
 - **Arbuscules**: tree-like branched structures serving as the main nutrient exchange site
-- **arbuscule intraradical hyphae isolation mycorrhizal roots**: connect arbuscules and vesicles within the root cortex
+- **[[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]**: connect arbuscules and vesicles within the root cortex
 - **Extraradical hyphae**: extend from roots into soil for nutrient acquisition
 
 The plasmalemma of the host cell invaginates and encloses the arbuscules, creating an

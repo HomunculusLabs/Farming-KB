@@ -42,7 +42,7 @@ colonization. Most species will not pin reliably until the mycelium has fully
 colonized the available substrate and begun to consolidate. Consolidation — a
 period of 1-2 weeks after full colonization where the mycelium densifies and
 strengthens its network — significantly improves pinning uniformity and yield.
-Many cultivators intentionally delay fruiting initiation to allow this
+Many cultivators intentionally delay [[fruiting-initiation]] to allow this
 consolidation period.
 
 ### Fresh Air Exchange (CO2 Reduction)
@@ -100,7 +100,7 @@ environmental stress. The most critical factors during early pin development:
 ### No Pins Form
 
 If the substrate is fully colonized and no pins appear after 1-2 weeks of
-fruiting conditions, possible causes include insufficient FAE, incorrect
+[[fruiting-conditions]], possible causes include insufficient FAE, incorrect
 temperature, contamination blocking the surface, substrate that is too dry, or
 genetic issues with the culture. Increasing air exchange and lowering
 temperature slightly are the most effective corrective measures.

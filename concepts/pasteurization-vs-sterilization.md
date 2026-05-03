@@ -28,7 +28,7 @@ by knocking back competitors without creating a completely sterile environment.
 
 **Sterilization** eliminates all living organisms including bacterial
 endospores. It uses high temperature (121°C at 15 PSI) or chemical methods.
-The goal is to create a completely clean slate for mycelium colonization.
+The goal is to create a completely clean slate for [[mycelium-colonization]].
 
 The key distinction: pasteurization works *with* biology, creating a
 competitive advantage for the desired fungus. Sterilization works *against*
@@ -100,7 +100,7 @@ investment and careful safety practices.
 
 ### When to Sterilize
 - Any substrate with added nitrogen (bran, grain, soy meal)
-- Grain spawn production (non-negotiable)
+- [[grain-spawn-production]] (non-negotiable)
 - Contamination-sensitive species (Shiitake, Lion's Mane, Maitake)
 - Commercial operations where consistency is paramount
 

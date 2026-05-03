@@ -19,7 +19,7 @@ sources:
 
 # Psychedelic Plants in Ancient Cultures
 
-The evidence and theories connecting psychoactive plants to ancient religious practices, particularly the Eleusinian Mysteries and the Vedic Soma ceremony.
+The evidence and theories connecting psychoactive plants to ancient religious practices, particularly the [[eleusinian-mysteries]] and the Vedic Soma ceremony.
 
 ## The Eleusinian Mysteries
 
@@ -27,7 +27,7 @@ The Eleusinian Mysteries were the most important religious initiation ceremony o
 
 ### Wasson's Ergot Hypothesis
 
-Gordon Wasson proposed that the kykeon contained an infusion of ergot (*Claviceps purpurea*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which Albert Hofmann later derived LSD:
+Gordon Wasson proposed that the kykeon contained an infusion of ergot (*[[claviceps-purpurea]]*), the fungus that grows parasitically on rye and other grains. Ergot contains the alkaloids from which Albert Hofmann later derived LSD:
 
 - Wasson noted the parallel between the Greek word *eleusis* (advent, revealing) and descriptions of the ceremony's effects, which ancient writers described as producing visions of the afterlife and dispelling the fear of death.
 - The kykeon was prepared from barley (a grain susceptible to ergot) and water, consistent with an ergot-based preparation.

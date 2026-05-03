@@ -32,7 +32,7 @@ Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemic
 
 1. Worker termites encounter the fungus
 2. Before dying (3-5 days), infected termites return to the colony
-3. They groom nestmates, transferring fungal spores throughout the colony
+3. They groom nestmates, transferring [[fungal-spores]] throughout the colony
 4. The fungus spreads through the entire colony via social contact
 5. Entire colony is eliminated — not just individual insects
 
@@ -46,7 +46,7 @@ Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemic
 
 ## Advantages Over Chemical Pesticides
 
-| | Chemical Pesticides | Fungal Biopesticides |
+| | Chemical Pesticides | [[fungal-biopesticides]] |
 |---|---|---|
 | Toxicity to humans | High | Negligible |
 | Environmental persistence | Years to decades | Days to weeks |

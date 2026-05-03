@@ -25,7 +25,7 @@ protocols for alcoholism, anxiety, and existential distress. These programs
 were curtailed in the early 1970s when psychedelics were scheduled as
 controlled substances, effectively ending clinical research for nearly three
 decades.
-Modern psilocybin research resumed in 1999 when Roland Griffiths and
+Modern psilocybin research resumed in 1999 when [[roland-griffiths]] and
 colleagues at Johns Hopkins University received regulatory approval to study
 psilocybin in healthy volunteers. This landmark study demonstrated that
 psilocybin could produce mystical-type experiences with lasting positive
@@ -42,7 +42,7 @@ an intention forpsilocybe-cubensish provides a psychological anchor during
 the experience.
 The dosing session involves administration of a single high dose of psilocybin
 (usually 20 to 30 milligrams, equivalent to approximately 2.5 to 4 grams of
-dried Psilocybe cubensis) in a comfortable, controlled clinical environment.
+dried [[psilocybe-cubensis]]) in a comfortable, controlled clinical environment.
 The client reclines on a couch or bed, wears an eye mask, and listens to a
 carefully curated music playlist. One or two therapists are present throughout
 the session, which lasts approximately six to eight hours. Therapists provide

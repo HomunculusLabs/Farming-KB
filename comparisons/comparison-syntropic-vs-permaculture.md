@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Syntropic agriculture (developed by Ernst Götsch in Brazil) and permaculture (co-founded by Bill Mollison and David Holmgren in Australia) are two of the most influential regenerative design frameworks in the world. Both seek to create productive agricultural systems that work with natural processes rather than against them. Both emphasize polyculture, [[permaculture-soil-rehabilitation|soil]] health, biodiversity, and minimal external inputs. However, they differ significantly in their origin, design methodology, primary management tools, and philosophical foundations. Understanding these differences helps practitioners choose the right approach — or combine elements of both — for their specific context.
+Syntropic agriculture (developed by Ernst Götsch in Brazil) and permaculture (co-founded by Bill Mollison and David Holmgren in Australia) are two of the most influential regenerative design frameworks in the world. Both seek to create productive agricultural systems that work with natural processes rather than against them. Both emphasize polyculture, [[permaculture-soil-rehabilitation]] health, biodiversity, and minimal external inputs. However, they differ significantly in their origin, design methodology, primary management tools, and philosophical foundations. Understanding these differences helps practitioners choose the right approach — or combine elements of both — for their specific context.
 
 ## Origins and Philosophical Foundations
 
@@ -28,7 +28,7 @@ Emerges from decades of hands-on farming by Swiss researcher Ernst Götsch in th
 
 ### Permaculture
 
-Originated in the 1970s from the work of Bill Mollison and David Holmgren in Tasmania, Australia. Permaculture is explicitly a **design system** — a set of principles and frameworks for designing [[permaculture-design]]ettlements. Its philosophical foundation is rooted in systems thinking, ecological ethics (earth care, people care, fair share), and the observation of natural patterns. Permaculture is taught globally through a standardized 72-hour Permaculture Design Course (PDC) and has developed an extensive body of published literature, design tools, and certified practitioners.
+Originated in the 1970s from the work of Bill Mollison and David Holmgren in Tasmania, Australia. Permaculture is explicitly a **design system** — a set of principles and frameworks for designing settlements. Its philosophical foundation is rooted in systems thinking, ecological ethics (earth care, [[permaculture-ethics-earth-care-people-care-fair-share]]), and the observation of natural patterns. Permaculture is taught globally through a standardized 72-hour Permaculture Design Course (PDC) and has developed an extensive body of published literature, design tools, and certified practitioners.
 
 ## Design Methodology
 
@@ -40,7 +40,7 @@ Syntropic agriculture's design process centers on **plant succession dynamics**.
 - Which pioneer species will accelerate biomass accumulation and soil recovery?
 - Which successional species will build canopy structure and diversity?
 - Which climax species will form the permanent productive forest?
-- How should pruning be timed to manage light, organic matter, and succession transitions?
+- How should pruning be timed to manage light, [[mollison-designers-humus-building-and-soil-organic-matter]], and succession transitions?
 
 Design is temporal and process-oriented. The farmer designs not a static arrangement of elements but a **managed sequence of ecological transitions**. The spatial layout (rows, alleys, stratification) serves the temporal dynamics of succession.
 
@@ -54,7 +54,7 @@ Permaculture's design process is more comprehensive and pattern-based. The prima
 - **Connections and redundancies**: Designing multiple pathways for critical functions.
 - **Pattern application**: Applying natural patterns (branching, spirals, waves, nets) to physical layouts.
 
-Permaculture design encompasses food production but also addresses water systems, energy, shelter, community economics, and social organization. It is a broader design framework applied to entire human settlements, not just agricultural systems.
+[[mollison-lawn-reform-and-alternatives-in-permaculture-design]] encompasses food production but also addresses water systems, energy, shelter, community economics, and social organization. It is a broader design framework applied to entire human settlements, not just agricultural systems.
 
 ## Primary Management Tools
 
@@ -70,7 +70,7 @@ Permaculture design encompasses food production but also addresses water systems
 
 - **Observation-based management** — the principle of "protracted and thoughtful observation rather than protracted and thoughtlekeyline-design*Edge effect maximization** — designing interfaces between ecosystems for increased productivity.
 - **Guild design** — assembling groups of plants and animals that support each other.
-- **Water harvesting earthworks** — swales, dams, and keyline design.
+- **[[mollison-designers-swale-design-and-water-harvesting-earthworks]]** — swales, dams, and keyline design.
 - **Closed-loop systems** — recycling all outputs as inputs within the system.
 
 ## Scale and Scope
@@ -101,7 +101,7 @@ Economic viability is a central concern. The system is designed to produce **mar
 
 ### Permaculture
 
-Economic considerations are part of the design but often secondary to ecological and ethical goals. Permaculture design includes Zone 5 (wilderness) with no economic expectation, and many permaculture systems prioritize self-sufficiency and ecological function over market production. Financial viability varies enormously by practitioner and project.
+Economic considerations are part of the design but often secondary to ecological and ethical goals. Permaculture design includes Zone 5 (wilderness) with no economic expectation, and many [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] prioritize self-sufficiency and ecological function over market production. Financial viability varies enormously by practitioner and project.
 
 ## Learning Curve and Accessibility
 

@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [psychedelics]
-sources: []
+sources:
+  - "raw/papers/food-of-the-gods-terence-mckenna.md"
 ---
 # Psychedelic Plants and Civilization
 

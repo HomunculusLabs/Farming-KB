@@ -38,7 +38,7 @@ tropane alkaloids, with the root having the highest concentration.
 
 ## Distribution and Habitat
 
-*Mandragora officinarum* is native to the Mediterranean basin, including
+*[[schultes-mandrake-mandragora-officinarum]]* is native to the Mediterranean basin, including
 southern Europe (Italy, Spain, Greece, the Balkans), North Africa, and the
 Middle East (Turkey, Syria, Lebanon, Israel/Palestine), extending into
 western and central Asia. It grows in dry, stony, calcareous soils, in
@@ -75,14 +75,14 @@ therapeutic or toxic doses.
 ## Historical and Ethnobotanical Significance
 
 Mandrake occupies a unique and unrivaled position in the history of Western
-ethnobotany. Its complex history as a magic hypnotic in European folklore
+ethnobotany. Its complex history as a magic hypnotic [[mandrake-mandragora-officinarum-in-european-folklore]]
 cannot be equaled by any other plant species. For over two millennia, the
-mandrake root was simultaneously one of the most valued medicinal plants and
+mandrake root was simultaneously one of the most valued [[holzer-kitchen-garden-herbs-and-medicinal-plants]] and
 one of the most feared magical objects in European culture.
 
 ### Classical Antiquity
 
-Mandrake was well known to the civilizations of the ancient Near East and
+Mandrake was well known to the civilizations of [[allegro-fertility-philosophy-of-the-ancient-near-east]] and
 Mediterranean. The earliest references appear in cuneiform texts from
 Mesopotamia, where the plant was valued for its analgesic and sedative
 properties. The Hebrew Bible mentions mandrake (Hebrew: *dudaim*) in Genesis
@@ -114,7 +114,7 @@ also warning of its lethal toxicity at higher doses.
 
 Mandrake was one of the most potent and important ingredients in the complex
 hallucinogenic preparations attributed to medieval and early modern European
-witches. These brews and flying ointments typically combined mandrake with
+witches. These brews [[witches-fungi-and-flying-ointments]] typically combined mandrake with
 [[atropa-belladonna]], [[hyoscyamus-niger]], and [[datura-stramonium]]. The
 tropane alkaloids in these mixtures produced vivid visual hallucinations,
 sensations of floating or flying, feelings of bodily transformation, and

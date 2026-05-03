@@ -11,9 +11,6 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 The phenethylamine structure is the foundation upon which the entire Book II of PIHKAL is built. Understanding its structure-activity relationships (SAR) is essential to understanding the diversity of compounds documented in the work.
 
-
-
-
 ## Core Structure
 
 The basic phenethylamine consists of a benzene ring connected through a two-carbon chain to an amine nitrogen:
@@ -29,9 +26,6 @@ Substitution on the benzene ring and on the nitrogen generates the enormous dive
 1. **Ring substitution** — Adding substituents at positions on the benzene ring (most commonly positions 2, 4, and 5)
 2. **Alpha-carbon substitution** — Adding an alpha-methyl group to create amphetamines (phenethylamine becomes amphetamine)
 
-
-
-
 ## Major Substitution Patterns
 
 ### 2,4,5-Trisubstitution Pattern
@@ -43,9 +37,6 @@ A less explored but promising area. Shulgin noted that "every one of them [2,4,5
 ### 3,4,5-Trisubstitution Pattern
 The mescaline pattern — 3,4,5-trimethoxyphenethylamine. This is the naturally occurring arrangement found in peyote cactus.
 
-
-
-
 ## Functional Group Variations on the Ring
 
 - **Methoxy groups (-OCH3)** — The most common substituent; provide metabolic stability and lipophilicity
@@ -55,9 +46,6 @@ The mescaline pattern — 3,4,5-trimethoxyphenethylamine. This is the naturally 
 - **Thioalkyl groups (-SR)** — Sulfur-containing groups; the basis of the 2C-T series (see [[2c-t-2-compound-profile]])
 - **Methylenedioxy bridge (-O-CH2-O-)** — Connects two adjacent positions; found in [[mda-compound-profile]] and [[mdma-in-pihkal-context]]
 
-
-
-
 ## Alpha-Methylation (Amphetamine vs. Phenethylamine)
 
 Adding a methyl group to the alpha-carbon (adjacent to the amine) converts a phenethylamine to an amphetamine. This modification typically:
@@ -65,9 +53,6 @@ Adding a methyl group to the alpha-carbon (adjacent to the amine) converts a phe
 - Extends duration of action
 - Shifts subjective character toward greater stimulant qualities
 - Changes the optimal dose range, sometimes by orders of magnitude
-
-
-
 
 ## Key Families in PIHKAL
 
@@ -78,9 +63,6 @@ Adding a methyl group to the alpha-carbon (adjacent to the amine) converts a phe
 - **Mescaline analogues** — 3,4,5-substituted phenethylamines (see [[mescaline-compound-profile]])
 
 See also: phenethylamine chemistry basics, [[phenethylamine-receptor-pharmacology]], [[pihkal-introduction-and-methodology]], [[phenethylamine-synthesis-safety]]
-
-
-
 
 ## See Also
 

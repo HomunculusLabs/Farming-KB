@@ -9,7 +9,7 @@ sources: []
 ---
 title: "Caragana arborescens"
 type: species
-    [[permaculture]]gs: [permaculture, nitrogen-fixer, windbreak, edible-seeds, cold-hardy]
+    tags: [permaculture, nitrogen-fixer, windbreak, edible-seeds, cold-hardy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
@@ -22,8 +22,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
 ## Overview
 
 **Caragana arborescens** is a deciduous, nitrogen-fixing shrub or small tree in the family Fabaceae, native to Siberia, Mongolia, and northern China.
-It is one of the hardiest and most versatile woody legumes in temperate permaculture systems, valued for its exceptional cold tolerance, windbreak performance, edible pods and seeds, nitrogen fixation, and drought resilience.
-Widely planted across the northern hemisphere for shelterbelts, erosion control, and as a fodder crop.
+It is one of the hardiest and most versatile woody legumes in temperate [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]], valued for its exceptional cold tolerance, windbreak performance, edible pods and seeds, nitrogen fixation, and drought resilience.
+Widely planted across the northern hemisphere for shelterbelts, [[mollison-designers-vetiver-grass-for-erosion-control]], and as a fodder crop.
 
 ## Botanical Description
 
@@ -74,7 +74,7 @@ It tolerates severe wind exposure, ice loading, and heavy snow accumulation.
 It is a standard component of prairie shelterbelt systems across the Canadian Prairies and northern US states.
 
 ### Nitrogen-Fixing Canopy Support
-In food forest systems, caragana serves as a nitrogen-fixing overstory or middle canopy element, feeding understory fruit and nut crops.
+In [[mollison-designers-climate-zone-2-orchard-food-forest]] systems, caragana serves as a nitrogen-fixing overstory or middle canopy element, feeding understory fruit and nut crops.
 Its dappled shade is compatible with berry bushes and shade-tolerant perennials.
 
 ### Erosion Control
@@ -104,7 +104,7 @@ Caragana can become weedy in disturbed grasslands through seed dispersal and roo
 
 ## Companion Planting and Polyculture Integration
 
-Siberian peashrub serves as an effective nitrogen-fixing nurse tree for establishing fruit and nut [[food-forest-design]]ood forest design, it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
+Siberian peashrub serves as an effective nitrogen-fixing nurse tree for establishing fruit and nut food [[mollison-designers-temperate-zone-food-forest-design]], it is positioned as the upper canopy in early succession, providing shade, wind protection, and nitrogen to establishing layers below.
 Compatible companions include apple, plum, cherry, and hazelnut as the eventual main canopy, with currants, gooseberries, and herbs in the understory.
 Caragana is also combined with sea buckthorn and autumn olive in multi-species windbreaks for enhanced biodiversity and resilience.
 Its early leaf emergence in spring and late leaf retention in autumn extend the period of photosynthesis and nitrogen contribution.
@@ -124,7 +124,7 @@ Mature pods can be threshed by hand or with a flail thresher.
 Clean seed stores well for 3 to 5 years at cool, dry conditions.
 Seed yields average 20 to 40 kg per hectare from established plantings.
 Germination after cold stratification typically exceeds 80 percent for fresh seed.
-The seed coat is hard and benefits from scarification with hot water or mechanical nicking before stratification.
+The seed coat is hard [[gaias-garden-food-forest-vision-and-benefits]] from scarification with hot water or mechanical nicking before stratification.
 
 ## Propagation Techniques
 

@@ -44,7 +44,7 @@ Smoking remains the most common traditional method but carries the greatest heal
 ## Oral Consumption
 
 ### Edibles and Capsules
-If eaten, it may take 45 minutes to an hour and a half for cannabis to be absorbed through the gastrointestinal tract. The effects of consumed cannabis thus tend to be delayed, last much longer (4-8 hours), and are noticeably different compared to the effects of inhalation. Oral consumption undergoes first-pass hepatic metabolism, which converts THC to 11-hydroxy-THC -- a more potent metabolite that produces stronger psychoactive effects.
+If eaten, it may take 45 minutes to an hour and a half [[query-how-does-foliar-feeding-work-for-cannabis]] to be absorbed through the gastrointestinal tract. The effects of consumed cannabis thus tend to be delayed, last much longer (4-8 hours), and are noticeably different compared to the effects of inhalation. Oral consumption undergoes first-pass hepatic metabolism, which converts THC to 11-hydroxy-THC -- a more potent metabolite that produces stronger psychoactive effects.
 
 Any favorite recipes can be fortified with cannabis-infused oil, or an alcohol-based tincture that supports specific needs. The oil or tincture should be added after the cooking process is completed, and at the right dose specific to the therapeutic window.
 
@@ -65,7 +65,7 @@ Any favorite recipes can be fortified with cannabis-infused oil, or an alcohol-b
 **Best for:** Chronic conditions requiring sustained effects (pain, inflammation, sleep), appetite stimulation, conditions where prolonged coverage is needed
 
 ### Raw Cannabis Juice
-Raw cannabis juice is a unique preparation method highlighted in the Cannabis Health Index. Fresh, raw cannabis contains CBD-acid and THC-acid in their non-psychoactive acidic forms. Juicing raw cannabis provides:
+[[blesching-cannabis-decarboxylation-and-raw-cannabis]] juice is a unique preparation method highlighted in the Cannabis Health Index. Fresh, raw cannabis contains CBD-acid and THC-acid in their non-psychoactive acidic forms. Juicing raw cannabis provides:
 
 - High doses of CB2-activating cannabinoids without psychoactive effects
 - CBD-acid with selective COX-2 inhibition (anti-inflammatory without GI damage)
@@ -77,7 +77,7 @@ Raw cannabis, fresh leaf, and leaf juice contain CBD-acid and thus favor CB2 act
 
 ## Sublingual and Tinctures
 
-Infused oils or tinctures often come in dropper bottles, which allow for precise dosing. As always, start slowly with a few drops, and wait at least one hour to feel the effect. Then slowly increase the dosage by a couple of drops, repeating the process until the desired therapeutic effect is achieved. Many patients start with 3 or 4 drops and work from there. The oil or tinctures can easily be made at home or bought at most dispensaries. Since most products are not standardized, the titration process may need to be repeated each time a new bottle is made or purchased.
+Infused oils or tinctures often come in dropper bottles, which allow for precise dosing. As always, start slowly with a few drops, and wait at least one hour to feel the effect. Then slowly increase the dosage by a couple of drops, repeating the process until the desired therapeutic effect is achieved. Many patients start with 3 or 4 drops and work from there. The oil or tinctures can easily be made [[query-how-to-make-cannabis-tinctures-at-home]] or bought at most dispensaries. Since most products are not standardized, the titration process may need to be repeated each time a new bottle is made or purchased.
 
 Sublingual administration places cannabinoids under the tongue for absorption through the mucous membranes directly into the bloodstream, partially bypassing first-pass hepatic metabolism.
 
@@ -95,7 +95,7 @@ Sublingual administration places cannabinoids under the tongue for absorption th
 - Products vary widely in concentration and quality
 - Taste may be unpleasant for some patients
 
-**Best for:** Conditions requiring intermediate onset and duration, patients who need precise dose control, anxiety and mood conditions, neurological conditions
+**Best [[cannabis-thc-cbd-ratio-guide-for-conditions]] requiring intermediate onset and duration, patients who need precise dose control, anxiety and mood conditions, neurological conditions
 
 ### Sativex (Oromucosal Spray)
 Sativex is a pharmaceutical cannabis-based medicine administered as a sublingual spray. It consists of roughly equal parts THC (2.7 mg per spray) and CBD (2.5 mg per spray). Sativex is not synthetic but rather made from cannabis, with formulation ratios very similar to actual [[cannabis-sativa]] ratios. It is approved in many countries for MS spasticity and neuropathic pain.
@@ -139,7 +139,7 @@ Some patients who want to deliver cannabinoids to the lower half of the intestin
 - Less familiar and socially awkward administration method
 - Limited product availability
 - Variable absorption
-- Not well-studied in clinical trials
+- Not well-studied in [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
 
 **Best for:** Lower GI inflammatory conditions (ulcerative colitis, Crohn's disease), pelvic pain conditions, patients who cannot tolerate oral or inhaled routes
 

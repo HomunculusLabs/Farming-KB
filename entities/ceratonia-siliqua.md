@@ -82,7 +82,7 @@ also tolerant of coastal conditions including salt spray and wind.
 The ripe carob pod pulp is naturally sweet, containing approximately 40 to 50 percent
 sugars (mainly sucrose, fructose, and glucose), 5 to 10 percent protein, 1 to 2 percent
 fat, and significant dietary fiber content. The pods also contain B vitamins, calcium,
-iron, magnesium, phosphorus, potassium, and zinc. It has been used as a food since
+iron, magnesium, [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]], and zinc. It has been used as a food since
 antiquity, referenced in the Bible (Genesis 30:37, where Jacob places carob rods before
 Laban's flocks) and classical Greek and Roman texts.
 
@@ -108,7 +108,7 @@ known as carob gum or carob bean gum. This galactomannan polysaccharide constitu
 approximately 35 to 42 percent of the seed weight and is extracted from the endosperm. LBG
 is used as a thickening, stabilizing, and gelling agent in food products (ice cream, cream
 cheese, baked goods, sauces, salad dressings), pharmaceuticals (laxatives, controlled-
-release formulations), cosmetics (creams, lotions), and industrial applications (textile
+release formulations), cosmetics (creams, lotions), and [[fungal-ligninolytic-enzymes-in-industrial-applications]] (textile
 sizing, paper coating, oil well drilling fluids).
 
 LBG has one of the highest molecular weights among commercial gums and forms strong
@@ -128,11 +128,10 @@ regions.
 As a legume, Ceratonia siliqua forms symbiotic associations with rhizobial bacteria
 (Bradyrhizobium spp.) in its root nodules, enabling atmospheric nitrogen fixation. For more on this, see [[nitrogen-fixing-trees]]. While
 the nitrogen fixation rates are moderate compared to many other leguminous trees, the
-carob contributes to soil nitrogen cycling in agroforestry systems, particularly in the
+carob contributes [[query-how-do-legumes-add-nitrogen-to-soil]] nitrogen cycling in agroforestry systems, particularly in the
 dryland environments where it excels.
 
-In permaculture design, carob serves as a canopy-layer food tree in Mediterranean [[food-forest-design]]. Its deep taproot brings minerals from subsoil layers to the surface through leaf
-litter. The dense evergreen canopy provides year-round shade, wind protection, and mulch
+[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], carob serves as a canopy-layer food tree in Mediterranean [[food-forest-design]]. Its deep taproot brings minerals from subsoil layers to the surface through [[leaf-litter-microfungal-diversity-tropical-temperate]]. The dense evergreen canopy provides year-round shade, wind protection, and mulch
 from fallen leaves and pods. It functions effectively as a living fence and windbreak when
 planted in hedgerow configurations. When intercropped with olives, grapes, citrus, or
 pasture, it provides shade without severely competing for surface water due to its deep

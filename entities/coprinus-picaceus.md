@@ -32,7 +32,7 @@ The taxonomy of the coprinoid fungi has undergone significant revision. The genu
 
 ### Basidiocarps
 - **Cap:** 4 to 8 cm in height when young, ovate to cylindrical, expanding with age. The cap surface is covered with prominent, recurved, dark brown to black scales over a grayispore-dispersalackground. This contrasting pattern gives rise to the common name "magpie inkcap"
-- **Gills:** Very crowded, free from the stipe, initially white but becoming black as the spores mature. The gills deliquesce (dissolve into an inky liquid) from the margin downward, facilitating spore dispersal
+- **Gills:** Very crowded, free from the stipe, initially white but becoming black as the spores mature. The gills deliquesce (dissolve into an inky liquid) from the margin downward, facilitating [[spore-dispersal]]
 - **Stipe:** 8 to 15 cm tall, 1 to 1.5 cm thick, white to pale gray, smooth, with a slightly swollen base. The stipe is hollow and fragile
 - **Annulus:** A fragile, movable ring (annulus) is often present on the upper stipe, though it is easily lost
 - **Spore Print:** Black
@@ -68,7 +68,7 @@ Like other coprinoid fungi, *C. picaceus* exhibits autodeliquescence:
 Studies of coprinoid fungi have revealed interesting nutritional profiles:
 
 - **Nutrient Content:** Like many agarics, the fruiting bodies contain significant amounts of protein, fiber, B vitamins, and minerals
-- **Stable Isotope Signatures:** Stable isotope analysis (d15N, d13C values) of saprotrophic fungi like *C. picaceus* provides information about their position in the [[soil-food-web]] and their nitrogen sources. Saprotrophic fungi typically have higher d15N values than ectomycorrhizal fungi, reflecting their utilization of decomposed organic nitrogen sources
+- **Stable Isotope Signatures:** Stable isotope analysis (d15N, d13C values) of saprotrophic fungi like *C. picaceus* provides information about their position in the [[soil-food-web]] and their nitrogen sources. Saprotrophic fungi typically have higher d15N values than [[ectomycorrhizal-fungi]], reflecting their utilization of decomposed organic nitrogen sources
 
 ## Edibility and Toxicity
 

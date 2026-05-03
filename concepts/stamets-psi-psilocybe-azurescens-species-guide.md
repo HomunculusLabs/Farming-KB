@@ -106,9 +106,9 @@ to P. azurescens.
 ## Related Species
 
 - psilocybe-cyanescens - smaller, wavy-capped relative
-- psilocybe-cyanofibrillosa - Pacific coastal species
+- [[psilocybe-cyanofibrillosa]] - Pacific coastal species
 - psilocybe-serbica - European wood-inhabiting species
-- psilocybe-subaeruginosa - Australian species
+- [[psilocybe-subaeruginosa]] - Australian species
 - psilocybe-venenata - related taxon
 
 ## See Also

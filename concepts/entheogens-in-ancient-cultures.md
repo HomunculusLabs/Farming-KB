@@ -56,12 +56,12 @@ The use of psychoactive mushrooms in Mesoamerica is among the best-documented
 cases of entheogenic practice in the ancient world. The "mushroom stones" of
 Guatemala, dating from approximately 1000 BCE to 900 CE, are carved
 representations of *Psilocybe* mushrooms often depicted with anthropomorphic
-faces. Richard Evans Schultes and R. Gordon Wasson documented the continuation
+faces. [[richard-evans-schultes]] and R. Gordon Wasson documented the continuation
 of pre-Columbian mushroom cults among the Mazatec people of Oaxaca, most
 famously in Wasson's 1957 *Life* magazine article "Seeking the Magic Mushroom,"
-which introduced psilocybin mushrooms to Western audiences.
+which introduced [[psilocybin-mushrooms]] to Western audiences.
 
-Other Mesoamerican entheogens included peyote (*Lophophora williamsii*),
+Other Mesoamerican entheogens included peyote (*[[lophophora-williamsii]]*),
 ololiuqui (morning glory seeds containing LSA), *Salvia divinorum*, and
 *Datura* species. The Aztec ritual use of *teonanácatl* ("flesh of the gods")
 was well-documented by Spanish chroniclers who, despite their efforts to
@@ -128,6 +128,6 @@ of the traditions McKenna described.
 
 - [[stoned-ape-hypothesis]]
 - [[ergot-alkaloids-eleusinian-mysteries]]
-- ayahuasca pharmacology
+- [[ayahuasca-pharmacology]]
 - [[psychedelic-therapy-current-research]]
 - [[gordon-wasson-comparative-method-ethnomycology]]

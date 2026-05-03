@@ -62,8 +62,8 @@ hardwood sawdust or logs as substrate. Two main cultivation methods:
   3-7 years. Requires outdoor space and patience (6-18 month wait for
   first fruiting). Traditional and low-input.
 - **Indoor sawdust blocks**: Supplemented hardwood sawdust in
-  sterilized bags. Requires pressure cooker sterilization and more
-  controlled fruiting conditions. Yields faster (6-10 weeks) and
+  sterilized bags. Requires pressure cooker [[sterilization]] and more
+  controlled [[fruiting-conditions]]. Yields faster (6-10 weeks) and
   higher per substrate volume.
 
 Shiitake demands a cold shock (reduce temperature by 10-15°C for 24-48
@@ -105,7 +105,7 @@ outdoors.
 
 An advanced species requiring sterilized substrate (typically rice-based)
 and very precise environmental control. Grows at 18-22°C with high
-humidity. Light is required for proper fruiting body development and
+humidity. Light is required for proper [[fruiting-body-development]] and
 pigment production. Commercial cultivation uses liquid culture
 inoculation of sterilized grain or rice in jars. The market value is
 high, making it attractive despite the difficulty.

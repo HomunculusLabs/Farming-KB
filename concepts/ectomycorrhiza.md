@@ -13,7 +13,7 @@ fungi and the roots of woody plants, primarily trees and shrubs in temperate,
 boreal, and some tropical forests. Unlike arbuscular mycorrhizae, ECM fungi
 do not penetrate root cells but instead form a sheath around the root tip and
 a network between root cells, creating an interface for nutrient exchange that
-is critical for forest ecosystem function. Ectomycorrhizal fungi are
+is critical for forest ecosystem function. [[ectomycorrhizal-fungi]] are
 responsible for many of the most familiar and ecologically important
 mushrooms found in forests worldwide.
 
@@ -45,7 +45,7 @@ the host root.
 
 ## Fungal Diversity
 
-ECTomycorrhizal associations have evolved independently in multiple fungal
+[[ectomycorrhizal-associations]] have evolved independently in multiple fungal
 lineages, primarily within the Basidiomycota and Ascomycota. Approximately
 7,000 to 10,000 fungal species are estimated to form ECM associations, though
 the majority do not produce visible fruiting bodies and can only be detected

@@ -10,7 +10,7 @@ sources:
 
 # Faires Meat Processing Curing and Smoking
 
-Processing meat on the homestead is an essential skill for self-reliance. When an animal is slaughtered, the meat must be preserved quickly to prevent spoilage. In a permaculture system, any processing of farm products -- including meat -- should be done on site. The Faires guide covers several methods of meat preservation including salting, smoking, making clarified fats, and rendering tallow and lard. See also [[faires-comprehensive-food-preservation-guide]] for an overview of all preservation methods.
+Processing meat on the homestead is an essential skill for self-reliance. When an animal is slaughtered, the meat must be preserved quickly to prevent spoilage. In a permaculture system, any processing of farm products -- including meat -- should be done on site. The Faires guide covers several methods of meat preservation including salting, smoking, making clarified fats, and rendering tallow and lard. See also [[faires-comprehensive-food-preservation-guide]] for an overview of all [[lacto-fermentation-and-food-preservation-methods]].
 
 ## Salting Meat
 
@@ -41,7 +41,7 @@ Smoking is one of the oldest methods of meat preservation and produces delicious
 A proper smokehouse is needed for reliable meat smoking. This is a dedicated structure separate from living areas, with:
 - A fire pit or smoke source at the bottom or side
 - Hanging racks for the meat above the smoke
-- Ventilation controls to regulate smoke density and temperature
+- Ventilation controls to regulate smoke density [[cuthill-mushroom-growing-seasons-and-temperature]]
 - Protection from rain and wind
 - A way to maintain low, steady heat (below 140 degrees F / 60 degrees C) for extended periods
 
@@ -55,7 +55,7 @@ Smoking takes several weeks of time and constant vigilance. The fire must be kep
 
 ### Combination Methods
 
-In practice, meat is often both salted and smoked for maximum preservation. Salt-cure the meat first for a week or two, then smoke it. This dual approach produces the most reliably preserved product with the best flavour.
+[[williams-pdc-permaculture-ethics-and-principles-in-practice]], meat is often both salted and smoked for maximum preservation. Salt-cure the meat first for a week or two, then smoke it. This dual approach produces the most reliably preserved product with the best flavour.
 
 ## Rendering Fats: Tallow and Lard
 
@@ -78,7 +78,7 @@ Properly rendered and strained fat should last for years and can be used in soup
 
 Tallow is specifically rendered beef fat (suet). It is harder than lard and has a higher melting point. Tallow was historically one of the most important cooking and lighting fats. It has several advantages:
 - Very stable at high temperatures, excellent for frying
-- Long shelf life without refrigeration
+- Long shelf life [[query-how-to-store-food-without-refrigeration]]
 - Can be used for soap-making and [[candle-making]]
 - Good for seasoning cast-iron cookware
 - Can be used as a leather conditioner and waterproofing treatment
@@ -116,7 +116,7 @@ Liver is nature's most concentrated source of vitamin A, iron, B vitamins, and m
 
 ### Kidney
 
-Kidney has a stronger flavour than liver and benefits from soaking in milk or water before cooking to milder the taste. It can be grilled, sauteed, or added to meat pies and stews.
+Kidney has a stronger flavour than liver [[gaias-garden-food-forest-vision-and-benefits]] from soaking in milk or water before cooking to milder the taste. It can be grilled, sauteed, or added to meat pies and stews.
 
 ### Heart
 

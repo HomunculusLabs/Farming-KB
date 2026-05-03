@@ -119,20 +119,20 @@ Rising CO₂ (~420 ppm, projected 550-1000 ppm by 2100) directly
 benefits C3 plants by suppressing photorespiration; FACE experiments
 show 10-25% C3 yield increases at ~550 ppm. Above 700-800 ppm the C4
 photosynthetic advantage largely disappears. Rising temperatures
-simultaneously favor C4 plants. In tropical regions, C4 grasses will
+simultaneously favor C4 plants. [[fukuoka-natural-farming-in-tropical-regions]], C4 grasses will
 likely maintain dominance; in temperate regions, C3 gains from CO₂
 fertilization may cause C4 grassland contraction. For agriculture, C3
 crops (wheat, rice, soybean) benefit from CO₂ but face temperature
 stress; C4 crops (maize, sorghum) are heat-tolerant but less CO₂-
 responsive. The net outcome depends on regional climate projections
-and the balance between CO₂ fertilization and temperature/drought
-stress. In arid regions, CAM and C4 plants gain competitive advantage
+and the balance between CO₂ fertilization [[cuthill-mushroom-growing-seasons-and-temperature]]/drought
+stress. [[fukuoka-natural-farming-in-arid-regions]], CAM and C4 plants gain competitive advantage
 as drought frequency increases.
 
 ## See Also
 
-- plant nutrition
-- [[hamilton-greenhouse-management-organic|greenhouse management]]
-- companion planting
+- [[hamilton-organic-fertilizers-and-plant-nutrition]]
+- [[hamilton-greenhouse-management-organic]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
 - [[photosynthesis-and-chloroplast-function]]
 - [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]

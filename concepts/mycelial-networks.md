@@ -31,7 +31,7 @@ with both geometric and topological complexity. Research has shown that
 mycelial networks share structural properties with other biological and
 transportation networks, including optimized connectivity, redundancy, and
 resource distribution pathways. The slime mold *Physarum polycephalum* has
-become a model organism for studying biological network optimization, famously
+become a model organism for studying [[biological-network-optimization]], famously
 demonstrating the ability to recreate the Tokyo rail network when foraging for
 food.
 
@@ -101,7 +101,7 @@ gene transfer, and the spread of beneficial or pathogenic bacteria.
 ## Wood Wide Web
 
 The metaphor of the "wood wide web" popularized the idea that forest trees are
-connected by underground fungal networks that facilitate communication and
+connected by [[underground-fungal-networks]] that facilitate communication and
 resource sharing. While the science behind interplant transfer through
 mycorrhizal networks is well-established (see [[common-mycorrhizal-networks]]),
 the popular narrative sometimes overstates the cooperation angle. The fungal

@@ -15,7 +15,7 @@ The house or primary dwelling. This is the center of activity where people spend
 - Indoor living spaces
 - Kitchen and food preparation areas
 - Indoor herb gardens, sprouting setups
-- Passive solar design elements
+- [[passive-solar-design]] elements
 - Water harvesting from rooftops
 - Composting toilet or worm bin in attached greenhouse
 Zone 0 design focuses on energy efficiency, thermal comfort, and integrating growing systems into daily living spaces.
@@ -102,7 +102,7 @@ Key design response: [[permaculture-earthworks]] such as swales and keyline syst
 Track animal movement corridors and foraging patterns:
 - Deer trails and browsing pressure zones
 - Bird migration routes and nesting areas
-- Beneficial insect habitat (hedgerows, wildflower strips)
+- [[beneficial-insect-habitat]] (hedgerows, wildflower strips)
 - Predator presence and livestock protection needs
 Key design response: Use fencing strategically, create wildlife corridors that bypass sensitive crops, and integrate habitat features that support beneficial species.
 ## The Design Process

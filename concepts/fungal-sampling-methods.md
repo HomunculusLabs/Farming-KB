@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Fungal Sampling Methods
 
-Standardized methods for documenting fungal biodiversity across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
+Standardized methods for documenting [[fungal-biodiversity]] across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
 
 ## General Principles
 
@@ -85,7 +85,7 @@ Standardized methods for documenting fungal biodiversity across habitats. Fungal
 - Standardized mesh bags filled with known litter type
 - Placed in field and retrieved at intervals (weeks to months)
 - Retrieved litter examined for fungi (moist chambers, direct plating)
-- Quantifies fungal succession on decomposing litter
+- Quantifies [[fungal-succession]] on decomposing litter
 
 **Direct examination**:
 - Collect litter samples from defined plots
@@ -127,7 +127,7 @@ Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 w
 1. Collect healthy-looking leaves/stems
 2. Wash in 70% ethanol (30 sec) - 2.5% sodium hypochlorite (2-5 min) - 70% ethanol (30 sec)
 3. Rinse in sterile distilled water
-4. Cut into segments, plate on malt extract agar + antibiotics
+4. Cut into segments, plate on [[malt-extract-agar]] + antibiotics
 5. Incubate at room temperature; examine daily for 4-8 weeks
 6. Isolate emerging colonies to pure culture
 

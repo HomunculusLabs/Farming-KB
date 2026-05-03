@@ -13,8 +13,7 @@ sources:
 **Henbane** is a biennial or annual plant in the nightshade family (Solanaceae),
 native to Europe, northern Africa, and western and central Asia. It is one of
 approximately 20 species in the genus *Hyoscyamus*. Henbane has a long and
-notorious history as a hallucinogenic and toxic plant, deeply embedded in
-European folklore and the mythology of medieval witchcraft.
+notorious history as a hallucinogenic and toxic plant, deeply embedded [[mandrake-mandragora-officinarum-in-european-folklore]] and the mythology of medieval witchcraft.
 
 ## Botanical Description
 
@@ -36,8 +35,7 @@ each roughly 1 to 1.5 mm in length.
 
 *Hyoscyamus niger* is widely distributed across Europe, the Mediterranean
 region, North Africa, and temperate regions of Asia including the Middle
-East, Central Asia, and Siberia. It has been introduced and naturalized in
-North America, Australia, and other temperate regions. The plant grows
+East, Central Asia, and Siberia. It has been introduced and naturalized [[neurotropic-fungi-in-north-america]], Australia, and other temperate regions. The plant grows
 readily in disturbed soils, waste ground, along roadsides and railway
 embankments, near cultivated fields, and in rubble and debris. It prefers
 well-drained, nitrogen-rich soils and full sun but tolerates partial shade.
@@ -74,7 +72,7 @@ seeds and leaves, with lower concentrations in stems and roots.
 ## Historical and Ethnobotanical Uses
 
 Henbane was one of the most frequently included plants in the so-called
-witches' brews and flying ointments of medieval Europe. These preparations
+witches' brews [[witches-fungi-and-flying-ointments]] of [[arthur-mushroom-iconography-medieval-europe]]. These preparations
 combined henbane with other Solanaceae species such as Atropa
 belladonna, [[mandragora-officinarum]], and [[datura-stramonium]] to
 produce complex mixtures reported to induce visual hallucinations and the
@@ -107,7 +105,7 @@ relating to its use in folk rituals.
 The association of henbane with witchcraft is one of its most prominent
 cultural attributes. Along with belladonna, mandrake, and datura, henbane was
 considered one of the primary ingredients in the pharmacological basis of
-European witchcraft. Modern scholars, most notably Michael D. Harner and
+[[solanaceous-hallucinogens-of-medieval-european-witchcraft]]. Modern scholars, most notably Michael D. Harner and
 subsequent researchers, have proposed that the experiences attributed to
 witches — flying through the air, attending sabbaths, transforming into
 animals, and communicating with spirits — can be largely explained by the

@@ -12,7 +12,7 @@ tags: [lsd]
 
 ## The Systematic Origins
 
-Albert Hofmann frequently corrected the popular claim that LSD was discovered by
+[[albert-hofmann-eleusinian-potion-analysis]] frequently corrected the popular claim that LSD was discovered by
 accident. As he wrote, "LSD came into being within a systematic research program,
 and the 'accident' did not occur until much later." The synthesis of LSD-25 was
 the result of a deliberate program of ergot alkaloid research at Sandoz
@@ -33,7 +33,7 @@ department, to let him continue investigations on the alkaloids of ergot. Stoll
 had been the first to isolate ergotamine in pure chemical form in 1918. After
 that discovery, chemical research on ergot at Sandoz had been abandoned. By the
 early 1930s, however, English and American laboratories had begun determining
-the chemical structure of ergot alkaloids and had discovered new water-soluble
+the chemical structure of [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] and had discovered new water-soluble
 alkaloids. Hofmann argued that Sandoz risked losing its leading role if it did
 not resume ergot research.
 
@@ -42,7 +42,7 @@ the exceedingly sensitive, easily decomposed ergot alkaloids. The ergot
 production department was still using Portuguese ergot, which yielded an
 amorphous alkaloidal preparation corresponding to the so-called ergotoxine first
 produced by Barger and Carr. Hofmann chose this less expensive material as his
-starting material for preparing lysergic acid, the nucleus common to all ergot
+starting material for preparing [[lysergic-acid-amide-discovery-in-ololiuhqui]], the nucleus common to all ergot
 alkaloids.
 
 ## Synthesis of Lysergic Acid Derivatives
@@ -97,7 +97,7 @@ wrote:
 
 "Last Friday, April 16, 1943, I was forced to interrupt my work in the
 laboratory in the middle of the afternoon and proceed home, being affected by a
-remarkable restlessness, combined with a slight dizziness. At home I lay down
+remarkable restlessness, combined with a slight dizziness. [[query-how-to-make-cannabis-tinctures-at-home]] I lay down
 and sank into a not unpleasant intoxicated-like condition, characterized by an
 extremely stimulated imagination. In a dreamlike state, with eyes closed (I
 found the daylight to be unpleasantly glaring), I perceived an uninterrupted
@@ -143,7 +143,7 @@ inner restlessness. The neighbor who brought milk appeared as a malevolent witch
 with a colored mask.
 
 ## See Also
-- hofmann lsd discovery bicycle day
+- [[hofmann-lsd-clinical-research-early-studies]] discovery bicycle day
 - [[mckenna-discovery-and-impact-of-lsd]]
 - [[lsd-discovery-and-history]]
 - [[mollison-designers-day-length-and-flowering-response]]

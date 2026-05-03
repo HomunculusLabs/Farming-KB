@@ -18,7 +18,7 @@ their documentation and conservation a matter of global importance.
 ## Major Mycorrhizal Types
 
 There are several distinct types of mycorrhizal associations, each involving
-different fungal lineages. Arbuscular mycorrhizal fungi (AMF), belonging to
+different fungal lineages. [[arbuscular-mycorrhizal-fungi]] (AMF), belonging to
 the phylum Glomeromycota, associate with the majority of herbaceous plants and
 many trees. They form intracellular structures called arbuscules within root
 cells, where nutrient exchange occurs. Ectomycorrhizal fungi (EMF), primarily
@@ -45,7 +45,7 @@ and soil health.
 EMF are among the most conspicuous fungi in forest ecosystems, producing
 the mushrooms and fruiting bodies that are most familiar to the public.
 However, most EMF diversity exists belowground as mycelial networks connecting
-trees in "common mycorrhizal networks." Global EMF diversity is estimated at
+trees in "[[common-mycorrhizal-networks]]." Global EMF diversity is estimated at
 20,000-25,000 species, with perhaps only half formally described. Tropical
 forests, once thought to be dominated by AMF, are now known to harbor diverse
 EMF communities, particularly in dipterocarp forests of Southeast Asia and
@@ -57,7 +57,7 @@ has substantially revised our understanding of global mycorrhizal biogeography.
 Individual mycorrhizal fungal mycelia can connect multiple trees of the same or
 different species, forming underground networks through which carbon, nitrogen,
 phosphorus, water, and signaling molecules can be transferred. These networks,
-sometimes called "wood wide webs," influence forest dynamics by mediating
+sometimes called "[[wood-wide-web]]," influence forest dynamics by mediating
 competition, facilitating seedling establishment, and enabling mature trees to
 support shaded offspring. The diversity of fungal partners determines the
 complexity and resilience of these networks. Forests with diverse mycorrhizal

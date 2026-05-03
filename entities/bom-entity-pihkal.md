@@ -10,18 +10,12 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #17. 3,4,5,beta-Tetramethoxy-PEA.
 
-
-
-
 ## Dosage and Duration
 
 | Property | Value |
 |----------|-------|
 | Dosage | greater than 200 mg. |
 | Duration | unknown. |
-
-
-
 
 ## Extensions and Commentary
 
@@ -38,9 +32,6 @@ between mescaline and BOM, the active level might well be in the
 Again, the name of the compound (BOM) is from the RBO-S prefix of this
 family (from benzyl + oxy), plus the RMS of mescaline (which has
 provided the ring substitution pattern).
-
-
-
 
 ## Synthesis
 
@@ -67,15 +58,9 @@ by the addition of 6 g of solid
 
 (Additional synthesis details available in source.)
 
-
-
-
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
-
-
-
 
 ## See Also
 

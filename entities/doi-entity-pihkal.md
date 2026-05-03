@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOI
 
-PIHKAL entry #67. 2,5-DIMETHOXY-4-IODOAMPHETAMINE.
+[[al-pihkal-entry-2]] #67. 2,5-DIMETHOXY-4-IODOAMPHETAMINE.
 
 ## Chemical Name
 
@@ -24,7 +24,7 @@ PIHKAL entry #67. 2,5-DIMETHOXY-4-IODOAMPHETAMINE.
 ## Qualitative Comments
 
 > (with 0.6 mg) There was a nice spacey
-> light-headedness for a few hours, and time seemed to move quite
+> light-headedness for a few hours, [[mollison-designers-cycles-niches-and-time]] seemed to move quite
 > slowly. Then a generic sadness came over me, as I reminisced about
 > earlier days (recalling pleasures now gone) and wondered if I would be
 > allowed to be here on the Farm when I am old and not important. There
@@ -35,7 +35,7 @@ PIHKAL entry #67. 2,5-DIMETHOXY-4-IODOAMPHETAMINE.
 > with a sad view of life. There was no way I could connect with my
 > emotions. Even my sadness was vague. At about the ninth hour I
 > decided that enough was enough, and this strangely disappointing
-> about-plus-two was aborted with 125 micrograms of LSD. The emotions
+> about-plus-two was aborted with 125 micrograms [[mckenna-discovery-and-impact-of-lsd]]. The emotions
 > became present and living within a half hour. I was greatly relieved.
 > The erotic was not a mechanical attempt but a deeply involved feeling
 > with an archetype of orgasm easily available. It was shaped like a
@@ -89,7 +89,7 @@ PIHKAL entry #67. 2,5-DIMETHOXY-4-IODOAMPHETAMINE.
 
 ## Extensions and Commentary
 
-Again, as with every other psychedelic amphetamine analogue which has a chiral center and has been expldomd as the individual optical isomers, it is the "R" isomer that is the more potent. And again, the other isomer, the "S" isomer, still shows some activity. The same was true with DOB, and DOM, and MDA. The only exception was MDMA, but then that is more of a stimulant, and there is virtually no psychedelic component to its action. Rat studies, where there is a measure of the discrimination of a test compound from saline, have shown the "R" isomer to have about twice the potency of the "S" isomer. That the "R" is more potent is certain, but the above reports would suggest that the factor would bserotoninto times-four rather than times-two.
+Again, as with every other psychedelic amphetamine analogue which has a chiral center and has been expldomd as the individual [[optical-isomers-psychedelic-phenethylamines]], it is the "R" isomer that is the more potent. And again, the other isomer, the "S" isomer, still shows some activity. The same was true with DOB, and DOM, and MDA. The only exception was MDMA, but then that is more of a stimulant, and there is virtually no psychedelic component to its action. Rat studies, where there is a measure of the discrimination of a test compound from saline, have shown the "R" isomer to have about twice the potency of the "S" isomer. That the "R" is more potent is certain, but the above reports would suggest that the factor would bserotoninto times-four rather than times-two.
 
 A number of studies with DOI in animal models have shown it to have an extremely high binding capacity to what are called the 5-HT2 receptors. Serotonin is a vital neurotransmitter in the brain, and is strongly implicated in the action of all of the phenethylamine psychedelics. The place where it acts, at the molecular level, is called its receptor site. As an outgrowth of the cooperative studies of the medicinal chemists working closely with the neuropharmacologists, a number of compounds have emerged that interact with these sites. But this one interacts with these sites and not those, and that one interacts with those sites and not these. So, there has developed a collection of sub-divisions and sub-subdivisions of receptor sites, all related to serotonin, but each defined by the particular compound that interacts most tightly with it.
 
@@ -113,8 +113,7 @@ solids were removed by filtration and had a mp of about 340 deg C (reference sam
 
 ## Safety Notes
 
-DOI is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+DOI is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

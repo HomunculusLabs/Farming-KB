@@ -21,8 +21,8 @@ make sterile technique difficult unless proper precautions are taken.
 2. **The culture medium** -- improperly sterilized substrates harbor latent organisms
 3. **The culturing equipment** -- tools, containers, and surfaces that contact media
 4. **The cultivator and their clothing** -- the human body carries bacteria, mites,
-   and fungal spores at all times
-5. **The mushroom spores or mycelium itself** -- wild specimens carry associated
+   and [[fungal-spores]] at all times
+5. **The mushroom spores or [[mycelium]] itself** -- wild specimens carry associated
    organisms that must be isolated away from
 
 Mushrooms and all living organisms compete for available nutrients. In creating a

@@ -39,7 +39,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 ## Starting a Culture
 
 ### From Spores (Multispore)
-- Take a spore print: cap gills-down on clean paper, cover with glass, wait hours
+- Take a [[spore-print]]: cap gills-down on clean paper, cover with glass, wait hours
 - Spores from under the partial veil are most contaminant-free
 - Inoculate agar by scraping spores with flame-sterilized scalpel
 - Soak dehydrated spores in sterile water 6-12 hours to improve germination
@@ -117,7 +117,7 @@ Mushroom cultivation is the process of isolating a mushroom species from the wil
 - **Sterilize** bags at 15 psi for 60-90 minutes
 
 ### Straw-Based Substrates
-- **Best for**: Oyster mushrooms (Pleurotus)
+- **Best for**: [[oyster-mushrooms]] (Pleurotus)
 - Wheat straw is standard (coarse fiber, widely available)
 - Shred/chop to 1-3 inch pieces
 - **Pasteurize** in hot water (160-170°F for 1-2 hours) — does NOT require full sterilization

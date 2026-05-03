@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Flavonoids
-Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation in plants (yellow, red, blue, purple hues). In cannabis, flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and terpenes but play an important role in the entourage effect and the plant's medicinal profile.
+Flavonoids are a diverse class of phytonutrients found throughout the plant kingdom, responsible for the non-green pigmentation [[diffusion-osmosis-and-active-transport-in-plants]] (yellow, red, blue, purple hues). [[query-how-to-fix-phosphorus-deficiency-in-cannabis]], flavonoids contribute to flavor, aroma, color, and therapeutic effects. They are less discussed than cannabinoids and terpenes but play an important role in the [[query-what-is-the-cannabis-entourage-effect]] and the plant's [[agaricus-brasiliensis-almond-mushroom-medicinal-profile]].
 ## What Are Flavonoids?
 Flavonoids are polyphenolic compounds with a 15-carbon skeleton (two benzene rings connected by a three-carbon bridge). The word comes from Latin "flavus" meaning yellow. Over 6,000 flavonoids have been identified across the plant kingdom, with approximately 20 found in cannabis.
 Functions in cannabis:
@@ -52,7 +52,7 @@ Beyond the cannflavins, cannabis contains many flavonoids shared with other plan
 - Present in kale, beans, tea, spinach, and cannabis
 - Antioxidant, anti-inflammatory, cardioprotective properties
 - Neuroprotective: studied for potential in Alzheimer's and Parkinson's disease
-- Antimicrobial activity against certain bacteria and fungi
+- Antimicrobial activity against certain bacteria [[allegro-biblical-references-to-mushrooms-and-fungi]]
 - May have antidepressant-like effects through monoamine oxidase (MAO) inhibition
 - In cannabis: contributes to yellow pigmentation and anti-inflammatory profile
 ### Apigenin

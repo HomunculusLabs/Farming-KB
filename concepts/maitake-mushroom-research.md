@@ -7,10 +7,6 @@ tags: [medicinal-mushroom, immunology, cancer, beta-glucan, d-fraction, grifolan
 sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 ---
 
-
-
-
-
 ## Grifola frondosa (Maitake / Hen of the Woods) — Research Summary
 
 Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hardwood forests of North America, Europe, and Japan. Known as "hen of the woods" for its appearance, and as "dancing mushroom" (mai-take) in Japanese folklore because people reportedly danced with joy upon finding it.
@@ -72,10 +68,6 @@ Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hard
 ### Traditional Use
 
 Used in Japanese and Chinese traditional medicine for: immune support, digestive health, fatigue reduction, and as a general tonic. In traditional Kampo medicine, prescribed for "spleen and stomach" disorders. Valued as both food and medicine — one of the most commercially cultivated medicinal mushrooms in Japan.
-
-
-
-
 
 ## See Also
 

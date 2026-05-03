@@ -8,7 +8,7 @@ sources: []
 ---
 # Turkey Tail (Trametes versicolor)
 ## Overview
-Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied medicinal mushrooms in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations.
+Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied [[medicinal-mushrooms]] in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations.
 ## Taxonomy and Identification
 - **Kingdom**: Fungi
 - **Division**: Basidiomycota
@@ -16,7 +16,7 @@ Trametes versicolor, commonly known as turkey tail, is one of the most widesprea
 - **Order**: Polyporales
 - **Family**: Polyporaceae
 - **Genus**: Trametes
-- **Species**: T. versicolor (syn. Coriolus versicolor)
+- **Species**: T. versicolor (syn. [[coriolus-versicolor]])
 ### Morphology
 - **Cap**: Fan-shaped to semicircular, 2-10 cm wide, overlapping shelves
 - **Surface**: Concentric zones of brown, tan, white, blue, green, orange, and red

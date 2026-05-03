@@ -11,23 +11,17 @@ sources: ["papers/david-holmgren-permaculture-principles-pathways-beyon.md"]
 
 From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
 
-
-
 ## Core Definition
 
 There is no point in attempting to plant a forest for the grandchildren if we haven't got enough to eat today. This principle reminds us that we should design any system to provide for self-reliance at all levels by using captured and stored energy effectively to maintain the system and capture more energy.
 
 Without immediate and truly useful yields, whatever we design and develop will tend to wither while elements that do generate immediate yield will proliferate. A yield, profit or income functions as a reward that encourages, maintains and/or replicates the system that generated the yield. In systems language, these rewards are called positive feedback loops.
 
-
-
 ## Competition and Cooperation
 
 Darwin's emphasis on competition and predation as the driving forces in natural selection was predisposed by his experience of early industrial England. Peter Kropotkin provided a refutation with diverse examples of co-operative and symbiotic relationships both in nature and in human history.
 
 Competition in nature helps test the vigour and fitness of individual organisms for particular conditions. Direct seeding to produce dense stands encourages the fastest-growing and most vigorous individuals to prevail. We can help that process along by thinning, as the more vigorous individuals become obvious.
-
-
 
 ## Maximum Power Law
 
@@ -37,15 +31,11 @@ The modern consumer economy encourages consumption for its own sake -- analogous
 
 Howard Odum gives a list of ways in which successful self-organised systems maximise power: develop storages of high-quality energy, feed back work from storages to increase inflows, recycle materials, organise control mechanisms, set up exchanges with other systems, and contribute useful work to surrounding environmental systems.
 
-
-
 ## Positive Feedback Examples
 
 In a bushfire, heat from burning preheats green vegetation, making it more readily combustible; in extreme cases this creates massive updrafts that suck in more oxygen to feed the conflagration. By use of energy captured from sunlight, plants grow more leaves, which in turn capture more energy.
 
 [[permaculture-principle-obtain-a-yield]] | [[permaculture-principles]] | [[holmgren-self-regulation-feedback-detailed]] | [[permaculture-earthworks-guide]] | [[holmgren-catch-and-store-energy-detailed]]
-
-
 
 ## Key Points
 
@@ -60,8 +50,6 @@ In a bushfire, heat from burning preheats green vegetation, making it more readi
 9. The principle supports the broader goal of reducing dependence on non-renewable resources and external inputs.
 10. Real-world application of this principle has been demonstrated across diverse climates and contexts worldwide.
 
-
-
 ## Practical Applications
 
 - Conduct a thorough site analysis before design, mapping zones, sectors, soil, water, and existing vegetation.
@@ -72,8 +60,6 @@ In a bushfire, heat from burning preheats green vegetation, making it more readi
 - Create redundancy in critical systems to increase resilience against failure or disruption.
 - Incorporate small-scale, slow solutions that can be tested and adjusted before large investments.
 - Map and maximize edge effects between different ecosystems or landscape elements.
-
-
 
 ## See Also
 

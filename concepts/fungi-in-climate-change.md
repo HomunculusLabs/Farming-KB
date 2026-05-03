@@ -17,8 +17,8 @@ Fungi play critical but underappreciated roles in climate change dynamics. As pr
 Mycorrhizal fungi are among the largest sinks for atmospheric carbon dioxide:
 - Global mycorrhizal mycelial networks contain an estimated 13-36 gigatons of carbon
 - This is roughly equivalent to 30-70% of annual global fossil fuel emissions
-- Arbuscular mycorrhizal fungi (AMF) store carbon primarily as glomalin-related soil protein (GRSP)
-- Ectomycorrhizal fungi (EMF) produce recalcitrant compounds that resist decomposition for decades to centuries
+- [[arbuscular-mycorrhizal-fungi]] (AMF) store carbon primarily as glomalin-related soil protein (GRSP)
+- [[ectomycorrhizal-fungi]] (EMF) produce recalcitrant compounds that resist decomposition for decades to centuries
 
 ### Glomalin and Soil Carbon Stability
 - Glomalin is a glycoprotein produced by AMF hyphae
@@ -81,7 +81,7 @@ Climate change is altering fungal communities worldwide:
 ### Drought Resilience
 - Mycorrhizal networks improve plant water access through hyphal exploration
 - AMF increase plant drought tolerance by improving hydraulic conductivity
-- Dark septate endophytes (DSE) confer drought resistance to host plants
+- [[dark-septate-endophytes]] (DSE) confer drought resistance to host plants
 - Melanized fungal hyphae maintain water channels in drying soils
 
 ### Heat Stress Mitigation
@@ -112,7 +112,7 @@ Climate change is altering fungal communities worldwide:
 
 ### Monitoring and Research Needs
 - Standardize fungal biomass measurement in carbon accounting
-- Include fungal functional groups in Earth system models
+- Include [[fungal-functional-groups]] in Earth system models
 - Long-term monitoring of fungal community responses to warming
 - Research on fungal feedbacks at ecosystem scale
 

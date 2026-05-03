@@ -8,8 +8,8 @@ created: 2026-05-02
 Glycolysis (from Greek glykys, sweet, and lysis, splitting) is the universal
 metabolic pathway that converts one molecule of glucose (C6) into two molecules
 of pyruvate (C3) in the cytoplasm of virtually all living organisms. The pathway
-consists of ten enzyme-catalyzed steps, requires no oxygen, and yields a net
-gain of 2 [[electron-transport-chain-mitochondrial-respiration|ATP]] and 2 [[glutathione-biochemistry-and-redox-biology|NADH]] per glucose. Also called the Embden-Meyerhof-Parnas
+consists of ten enzyme-catalyzed steps, requires no oxygen, [[mollison-designers-resources-classification-and-yields]] a net
+gain of 2 [[electron-transport-chain-mitochondrial-respiration]] and 2 [[glutathione-biochemistry-and-redox-biology]] per glucose. Also called the Embden-Meyerhof-Parnas
 (EMP) pathway after the three researchers who elucidated it, glycolysis is one
 of the most ancient metabolic pathways, believed to have evolved before the
 Great Oxidation Event approximately 2.4 billion years ago in an anaerobic world.
@@ -100,7 +100,7 @@ conditions when glucose is abundant.
 
 Under aerobic conditions, pyruvate enters mitochondria via the mitochondrial
 pyruvate carrier (MPC) and is converted to acetyl-CoA by the pyruvate
-dehydrogenase complex (PDHC), feeding into the Krebs cycle and ultimately
+dehydrogenase complex (PDHC), feeding into the [[citric-acid-cycle-tca-krebs-cycle]] and ultimately
 oxidative phosphorylation for a total yield of approximately 30-32 ATP per
 glucose. Under anaerobic conditions, lactate dehydrogenase (LDH) converts
 pyruvate to lactate, regenerating NAD+ to keep glycolysis running. Erythrocytes,
@@ -112,13 +112,13 @@ at a cost of 6 ATP per glucose molecule.
 
 ## Connections to Other Metabolic Pathways
 
-Glycolysis interfaces with multiple metabolic networks: G6P branches into glycogen synthesis (via G1P) and the [[pentose-phosphate-pathway|pentose]] phosphate pathway, which produces
+Glycolysis interfaces with multiple metabolic networks: G6P branches into glycogen synthesis (via G1P) and the [[pentose-phosphate-pathway]] phosphate pathway, which produces
 NADPH for biosynthesis and ribose-5-phosphate for nucleotide synthesis. DHAP
 feeds glycerol-3-phosphate for triglyceride backbone formation. Pyruvate provides carbon for alanine transamination and oxaloacetate via
-pyruvate carboxylase (anaplerosis). In plants and microorganisms, PEP and erythrose-
-4-phosphate enter the shikimate pathway for aromatic amino acid biosynthesis,
+pyruvate carboxylase (anaplerosis). [[diffusion-osmosis-and-active-transport-in-plants]] and microorganisms, PEP and erythrose-
+4-phosphate enter [[primary-metabolic-precursors-to-the-shikimate-pathway]] for aromatic amino acid biosynthesis,
 the precursor to tryptophan, phenylalanine, and tyrosine, as well as numerous
-secondary metabolites including alkaloids and flavonoids.
+[[singh-ergot-alkaloid-fungal-secondary-metabolites]] including alkaloids and flavonoids.
 
 ## Historical Discovery
 

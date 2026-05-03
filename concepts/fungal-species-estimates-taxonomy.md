@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Fungal Species Estimates and Taxonomy
 
-Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes estimation methods, the current state of fungal taxonomy, and the classification of the fungal kingdom.
+Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes estimation methods, the current state of [[fungal-taxonomy]], and the classification of the fungal kingdom.
 
 ## The Species Gap
 
@@ -85,9 +85,9 @@ This gap means the vast majority of fungal species remain unknown to science.
 ### Cryptic Species
 - Many "known" species are actually species complexes
 - Examples:
-  - *Amanita muscaria*: 6+ phylogenetic species globally
+  - *[[amanita-muscaria]]*: 6+ phylogenetic species globally
   - *[[pleurotus-ostreatus]]* complex: Multiple species across continents
-  - *Armillaria mellea* complex: At least 10+ species in North America alone
+  - *[[armillaria-mellea]]* complex: At least 10+ species in North America alone
   - *[[fusarium-graminearum]]* complex: 15+ phylogenetic species
 - Cryptic species have different ecological roles, host ranges, and geographic distributions
 

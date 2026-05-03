@@ -1,4 +1,5 @@
----[[cannabis-sativa]]s Sativa-Dominant Growing Challenges
+---
+title: Cannabis Sativa-Dominant Growing Challenges
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
@@ -7,8 +8,7 @@ sources:
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 # Cannabis Sativa-Dominant Growing Challenges
-Sativa-dominant cannabis strains present a distinct set of cultivation
-challenges compared to their indica counterparts. While indica varieties were
+Sativa-dominant cannabis strains present a distinct set of [[growing-gourmet-chanterelle-truffle-cultivation-challenges]] compared to their indica counterparts. While indica varieties were
 naturally favored by the advent of widespread indoor growing due to their
 compact stature, rapid flowering, and heavy yields, sativa strains require
 specific techniques and greater patience to reach their full potential.
@@ -19,7 +19,7 @@ buds.
 The single most significant challenge with sativa-dominant strains is their
 propensity for extreme vertical growth. Left unchecked, many sativas will
 reach heights of 10 to 14 feet when grown outdoors, and even indoors they can
-rapidly outgrow a grow room. The Rev, cultivation editor for SKUNK Magazine,
+rapidly outgrow a [[query-how-to-manage-humidity-cannabis-grow-room]]. The Rev, cultivation editor for SKUNK Magazine,
 describes sativas and indicas using a canine metaphor: sativas are like
 wolves, while indicas are domesticated dogs. Sativas retain their wild,
 adaptive nature and resist the constraints of artificial
@@ -46,11 +46,10 @@ genetics. Durban Poison, indigenous to Durban, South Africa at approximately
 northern hemisphere. The Rev describes it as starting flowering outdoors in
 late June and finishing by the second half of September — before coastal fog
 or rain arrives. This trait has been bred into many Durban Poison hybrids,
-making them invaluable for outdoor growers in temperate
-climates.
+making them invaluable for outdoor growers in [[fukuoka-natural-farming-temperate-climates]].
 ## Nutrient Sensitivity
 Sativa strains often exhibit greater sensitivity to nutrients than indicas,
-particularly when grown with synthetic fertilizers. The Rev strongly advocates
+particularly when grown with [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]. The Rev strongly advocates
 organic cultivation for sativas, noting that these wild-adapted plants "by
 their very nature don't really like being force-fed synthetic nutrients, and
 it shows." Key considerations
@@ -92,7 +91,7 @@ spindly, improving their ability to support later bud development. This is
 particularly important for indoor grows where natural wind is
 absent.
 ## Hybridization as a Solution
-The central achievement of modern cannabis breeding has been bringing sativa
+The central achievement of modern [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] has been bringing sativa
 qualities — the psychedelic head highs, the complex terpene profiles, the
 creative inspiration — into plants with indica-like growth characteristics.
 North American breeders have focused on introducing sativa traits into indica

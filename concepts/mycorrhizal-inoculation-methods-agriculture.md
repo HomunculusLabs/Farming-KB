@@ -106,10 +106,10 @@ For crops that form arbuscular mycorrhizae (most vegetables, grains, legumes):
 
 For trees and shrubs requiring ectomycorrhizae:
 - Use species-specific inoculants when available
-- For pines: Hebeloma arenosum, Pisolithus arhizus
+- For pines: Hebeloma arenosum, [[pisolithus-arhizus]]
 - For oaks: Pisolithus arhizus, Scleroderma citrinum
 - For birches: Leccinum scabrum
-- For general-purpose nursery use: Thelephora terrestris, Laccaria laccata, Inocybe species
+- For general-purpose nursery use: [[thelephora-terrestris]], Laccaria laccata, Inocybe species
 
 ### Non-Host Crops
 

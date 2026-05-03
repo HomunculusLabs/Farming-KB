@@ -21,12 +21,12 @@ model of biological diversity and complementary agricultural
 practices promotes a sustainable environment via the
 interplay of natural ecosystems.
 
-When gourmet and medicinal mushrooms are involved as key
+When gourmet and [[medicinal-mushrooms]] are involved as key
 organisms in the recycling of agricultural and forest
 by-products, the biodynamics of permaculture soar to
 extraordinary levels of productivity. Not only are mushrooms
 a protein-rich food source for humans, but the by-products
-of mushroom cultivation unlock nutrients for other members
+of [[mushroom-cultivation]] unlock nutrients for other members
 of the ecological community.
 
 ## Key Integration Strategies

@@ -11,8 +11,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 *Hericium coralloides* (syn. *Hericium ramosum*), commonly known as the coral tooth fungus or comb tooth, is a species of edible mushroom in the family Hericiaceae. It is closely related to the well-known lion's mane mushroom (*Hericium erinaceus*) and shares many of its bioactive properties, including the production of erinacine and hericenone compounds that have demonstrated neuroprotective and potential anticancer activities in preclinical research.
 
-
-
 ## Taxonomy and Description
 
 *Hericium coralloides* is a saprotrophic basidiomycete that grows on dead or dying hardwood trees, particularly oaks (*Quercus* spp.), beeches (*Fagus* spp.), and birches (*Betula* spp.). The fruiting body is distinctive and easily recognized: it forms a branched, coral-like structure from which numerous soft, pendant spines hang downward. These spines are typically 1–3 cm long, white to cream-colored, and occur in cascading clusters that can reach 10–25 cm in total diameter.
@@ -21,15 +19,11 @@ Unlike *Hericium erinaceus*, which typically forms a single, uspore-printass of 
 
 The spore print is white. Microscopically, the spores are roughly spherical to broadly ellipsoid, smooth, and measure approximately 5–7 × 5–6 µm.
 
-
-
 ## Distribution and Habitat
 
 *Hericium coralloides* has a wide distribution across temperate regions of the Northern Hemisphere. It is found throughout Europe, North America, and parts of Asia. The species fruits in late summer to autumn, typically from August through November, though fruiting can extend into winter in mild climates.
 
 The fungus is primarily associated with hardwood forests and is often found on fallen logs, standing dead trees, and stumps. It prefers moist, shaded environments and is relatively uncommon compared to many other wood-decay fungi. In some regions, it is considered a species of conservation concern due to habitat loss and the decline of mature forest ecosystems.
-
-
 
 ## Culinary Value
 
@@ -38,8 +32,6 @@ The fungus is primarily associated with hardwood forests and is often found on f
 When young and fresh, the spines are tender and have a mild, slightly sweet flavor. The mushroom can be prepared in various ways: sautéed in butter, used in soups and sauces, battered and fried, or used as a seafood substitute in vegetarian dishes. Over-mature specimens can become tough and develop a bitter or acrid taste.
 
 Cultivation of *H. coralloides* is possible but less commercially developed than that of *H. erinaceus*. It can be grown on hardwood sawdust substrates supplemented with bran or other nitrogen sources, using methods similar to those employed formyceliumood-inhabiting mushrooms.
-
-
 
 ## Bioactive Compounds
 
@@ -61,8 +53,6 @@ Hericenones are aromatic compounds isolated primarily from the fruiting bodies o
 
 Additional bioactive compounds reported from *H. coralloides* include various sterols, fatty acids, and phenolic compounds with antioxidant activity.
 
-
-
 ## Medicinal Properties
 
 ### Neuroprotective Effects
@@ -77,13 +67,9 @@ Research into the anticancer properties of *Hericium coralloides* has shown prom
 
 *Hericium coralloides* extracts exhibit significant anti-inflammatory and antioxidant activity, which may contribute to both their neuroprotective and anticancer effects. Chronic inflammation and oxidative stress are implicated in the development and progression of numerous diseases, and the ability to mitigate these processes represents an important therapeutic mechanism.
 
-
-
 ## Comparison with *Hericium erinaceus*
 
 While *Hericium coralloides* shares many bioactive properties with the more extensively studied *H. erinaceus*, it has received comparatively less research attention. Available evidence suggests that the two species produce similar profiles of erinacines, hericenones, and polysaccharides, though quantitative differences in compound concentrations may exist.
-
-
 
 ## See Also
 

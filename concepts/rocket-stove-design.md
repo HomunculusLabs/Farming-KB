@@ -9,11 +9,11 @@ sources: []
 
 # Rocket Stove Design
 
-A rocket stove is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems.
+A [[comparison-cob-oven-construction-vs-rocket-stove]] is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On [[query-how-to-start-beekeeping-on-a-homestead]], rocket stoves serve as primary or backup cooking, water heating, and space [[mollison-designers-solar-water-heating-systems]].
 
 ## How Rocket Stoves Work
 
-Rocket stoves operate on the principle of **insulated combustion chamber design**:
+Rocket stoves operate on the principle of **insulated combustion [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]**:
 
 1. **Fuel is fed vertically** into a narrow (J-shaped or L-shaped) combustion chamber
 2. The chamber is heavily insulated, which keeps the combustion zone extremely hot (1000F+)
@@ -104,7 +104,7 @@ A well-built rocket stove achieves:
 
 - **Daily cooking** — efficient stovetop cooking for soups, stews, boiling, and frying
 - **Water heating** — heat water for bathing, cleaning, or [[wood-fired-hot-tub]]
-- **Canning** — supports a large pot for water bath canning during power outages
+- **Canning** — supports a large pot for [[comparison-pressure-canning-vs-water-bath-canning]] during power outages
 - **Space heating** — rocket mass heaters use the same combustion principle with a thermal mass bench for radiant heating (significant project, not covered here)
 - **Outdoor cooking** — portable rocket stoves are excellent for outdoor kitchens, camping, and emergency cooking
 - **Burning brush** — dispose of small brush and branches efficiently while producing useful heat

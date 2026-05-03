@@ -51,7 +51,7 @@ The infection process follows distinct stages:
 1. **Attachment**: Conidia adhere to insect cuticle using hydrophobic interactions
 2. **Germination**: Spores germinate when conditions are favorable (moisture, temperature 20-30C)
 3. **Penetration**: Germ tubes produce appressoria; enzymes (proteases, lipases, chitinases) degrade cuticle
-4. **Colonization**: Fungal hyphae proliferate in hemocoel (insect body cavity)
+4. **Colonization**: [[fungal-hyphae]] proliferate in hemocoel (insect body cavity)
 5. **Death**: Toxin production, nutrient depletion, and physical disruption kill the host in 3-10 days
 6. **Sporulation**: Under humid conditions, fungus emerges from cadaver and produces new conidia
 ## Antagonistic Fungi -- Disease Control
@@ -73,7 +73,7 @@ Mechanisms of action:
 - Produces gliovirin antibiotic
 - Used as soil drench and seed treatment
 ### Coniothyrium minitans
-- Specific mycoparasite of Sclerotinia sclerotiorum and S. minor
+- Specific mycoparasite of [[sclerotinia-sclerotiorum]] and S. minor
 - Parasitizes and destroys sclerotia (survival structures) in soil
 - Breaks disease cycle for Sclerotinia stem rot, white mold
 - Commercial product "Contans"

@@ -74,7 +74,7 @@ jurisdiction and contaminant type.
 
 ## Mycoremediation: Fungal Contributions
 
-Fungi play a complementary role in phytoremediation. [[mycorrhizal-fungi]] extending from plant roots dramatically increase the effective soil volume explored for contaminants and can directly degrade organic pollutants. White-rot fungi (Phanerochaete chrysosporium, Pleurotus ostreatus) produce lignin-degrading enzymes including manganese peroxidase, lignin peroxidase, and laccase that can break down persistent organic pollutants including polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and certain pesticides. See [[ligninolytic-enzymes-bioremediation]] for detailed mechanisms.
+Fungi play a complementary role in phytoremediation. [[mycorrhizal-fungi]] extending from plant roots dramatically increase the effective soil volume explored for contaminants and can directly degrade organic pollutants. White-rot fungi ([[phanerochaete-chrysosporium]], [[pleurotus-ostreatus]]) produce lignin-degrading enzymes including manganese peroxidase, lignin peroxidase, and laccase that can break down persistent organic pollutants including polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and certain pesticides. See [[ligninolytic-enzymes-bioremediation]] for detailed mechanisms.
 
 ## Phytovolatilization and Hydraulic Control
 

@@ -35,7 +35,7 @@ Bud rot is the most feared disease in cannabis cultivation. It attacks from the 
 - Dispose of infected material outside the grow space (do not compost)
 - Increase airflow and reduce humidity immediately
 - If more than 10-15% of the plant is affected, consider early harvest
-- Apply preventative biological sprays (Trichoderma, Bacillus subtilis) to remaining plants
+- Apply preventative biological sprays ([[trichoderma]], [[bacillus-subtilis]]) to remaining plants
 ## Powdery Mildew (Podosphaera macularis)
 A fungal disease that appears as white powdery spots on leaf surfaces. Unlike most fungi, powdery mildew does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
 ### Identification

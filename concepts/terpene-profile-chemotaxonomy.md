@@ -14,7 +14,7 @@ sources:
 # Terpene Profile Chemotaxonomy
 
 Chemotaxonomy uses chemical composition profiles to classify organisms and
-establish evolutionary relationships. In Cannabis sativa, terpene profiling
+establish evolutionary relationships. In [[cannabis-sativa]], terpene profiling
 provides a more nuanced and chemically meaningful classification system
 than the traditional sativa/indica/hybrid paradigm, which is primarily
 based on morphological and historical rather than chemical criteria.
@@ -86,7 +86,7 @@ and eye irritation at high concentrations.
 
 ## Terpene Groupings and Effects
 
-Practical chemotaxonomy groups cannabis terpene profiles into functional
+Practical chemotaxonomy groups [[cannabis-terpene-profiles]] into functional
 categories based on dominant terpenes and their associated effects:
 
 1. **Myrcene-dominant**: Sedative, relaxing, analgesic. Dominant in

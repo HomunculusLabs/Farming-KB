@@ -47,7 +47,7 @@ H. capsulatum var. capsulatum has a distinctive geographic distribution that ref
 
 ### Other Regions
 
-- Limited parts of the American southeast, Central America, South America, and Africa
+- Limited parts of the American southeast, [[guzman-psilocybin-mushrooms-mexico-central-america]], South America, and Africa
 - Rarely in other parts of the world, most notably in southern Africa where an evolutionarily divergent lineage occurs as a separate serotype
 - The African and Eurasian distribution represents separate introductions or evolutionary lineages
 
@@ -59,7 +59,7 @@ H. capsulatum var. capsulatum is strongly associated with depositions of bird or
 - Chickens and other poultry on farms
 - Bats, particularly in caves and abandoned buildings
 
-The organism grows saprotrophically in soil, producing conidia that become aerosolized when soil is disturbed by activities such as construction, excavation, farming, or cave exploration. This aerosolization is the primary mechanism of human exposure.
+The organism grows saprotrophically [[singh-fungal-interactions-with-heavy-metals-in-soil]], producing conidia that become aerosolized when soil is disturbed by activities such as construction, excavation, farming, or cave exploration. This aerosolization is the primary mechanism of human exposure.
 
 ## Varieties and Disease Forms
 
@@ -77,7 +77,7 @@ An African and Eurasian variety that causes epizootic outbreaks of a lymphocutan
 
 Skin testing provides investigators with a rough idea of the prevalence of H. capsulatum by revealing previous exposure in healthy humans or animals. The technique involves:
 
-- Preparation of standardized extracts such as histoplasmin from sterile culture filtrates of the fungus using classic serological antigen preparation techniques (Ainsworth and Austwick 1973)
+- Preparation of standardized extracts such as histoplasmin from sterile culture filtrates of the fungus using classic serological antigen [[stamets-cultivator-spore-syringe-preparation-techniques]] (Ainsworth and Austwick 1973)
 - Subcutaneous injection of the standardized extract in an area that has been shaved or clipped
 - Assessment of induration (hard swelling) over an area of more than 5 mm, which indicates previous exposure
 
@@ -97,7 +97,7 @@ H. capsulatum is classified in biohazard class 3, the second-highest hazard grad
 
 ## Impact on Biodiversity Studies
 
-The biohazardous nature of H. capsulatum affects fungal biodiversity research in endemic areas. Investigators must be aware of the potential presence of this pathogen when collecting soil samples, especially those associated with bird or bat guano. Any comprehensive survey of biodiversity in an ecosystem should include data from local medical and veterinary authorities on pathogens and their environmental prevalence.
+The biohazardous nature of H. capsulatum affects [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] research in endemic areas. Investigators must be aware of the potential presence of this pathogen when collecting soil samples, especially those associated with bird or bat guano. Any comprehensive survey of biodiversity in an ecosystem should include data from local medical and veterinary authorities on pathogens and their environmental prevalence.
 
 ## Clinical Manifestations
 
@@ -127,7 +127,7 @@ Accurate diagnosis of histoplasmosis relies on a combination of methods:
 - **Histopathology**: Examination of tissue biopsies reveals small, oval yeast cells (2–4 µm) within macrophages, sometimes with narrow-based budding. Gomori methenamine silver (GMS) and periodic acid-Schiff (PAS) stains highlight the organisms. The intracellular location of the yeast form is a characteristic feature
 - **Antigen detection**: Detection of *Histoplasma* polysaccharide antigen in urine, serum, or bronchoalveolar lavage fluid by enzyme immunoassay (EIA) is the most rapid and sensitive method for diagnosing acute and disseminated disease. Urine antigen detection is particularly useful for monitoring treatment response
 - **Antibody detection**: Complement fixation and immunodiffusion tests detect host antibody responses. These are useful for chronic and subacute forms but may be negative in early acute infection and in immunocompromised patients. A rising titer in paired sera is diagnostic of active infection
-- **Molecular methods**: PCR-based assays targeting specific genomic regions of *H. capsulatum* have been developed for direct detection from clinical specimens, offering improved speed and sensitivity compared with culture
+- **[[molecular-methods-in-situ-fungal-diversity-monitoring]]**: PCR-based assays targeting specific genomic regions of *H. capsulatum* have been developed for direct detection from clinical specimens, offering improved speed and sensitivity compared with culture
 
 ## Treatment Approaches
 

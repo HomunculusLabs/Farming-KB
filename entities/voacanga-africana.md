@@ -23,9 +23,9 @@ sources:
 - **Genus:** Voacanga
 - **Species:** V. africana
 - **Authority:** Stapf
-- **Common names:** Voacanga, African Voacanga, Gaboon wood
+- **[[australian-magic-mushroom-common-names]]:** Voacanga, African Voacanga, Gaboon wood
 
-The genus Voacanga comprises approximately 10 species of tropical trees and shrubs distributed across Africa and Southeast Asia. V. africana was first described by the British botanist Otto Stapf in the late 19th century. The Apocynaceae family is well known for containing psychoactive species, including [[tabernanthe-iboga]] and the Asian rauwolfia-serpentina, both of which share the ibogaine-type indole alkaloid profile with Voacanga.
+The genus Voacanga comprises approximately 10 species of tropical [[nitrogen-fixing-trees-and-shrubs]] distributed across Africa and Southeast Asia. V. africana was first described by the British botanist Otto Stapf in the late 19th century. The Apocynaceae family is well known for containing psychoactive species, including [[tabernanthe-iboga]] and the Asian rauwolfia-serpentina, both of which share the ibogaine-type indole alkaloid profile with Voacanga.
 
 ## Morphology
 
@@ -74,7 +74,7 @@ The bark and seeds of Voacanga africana contain up to 10% indole alkaloids of th
 - **Voccamine** — the primary alkaloid, a complex iboga-type indole
 - **Ibogaine** — a potent psychedelic with anti-addictive properties
 - **Voacangine** — another significant alkaloid
-- **Ibogamine** — an iboga-type alkaloid also found in Tabernanthe iboga
+- **Ibogamine** — an iboga-type alkaloid also found in [[plants-of-the-gods-tabernanthe-iboga]]
 - **Tabersonine** — a precursor alkaloid in the iboga biosynthetic pathway
 - **Vobasine** — a related indole alkaloid
 
@@ -86,7 +86,7 @@ The primary psychoactive alkaloids in V. africana are ibogaine and voacangine, b
 - **Voacangine** — a precursor to ibogaine with similar but milder effects
 - **Voccamine** — has demonstrated antiarrhythmic and cardiotonic properties
 
-The anti-addictive properties of ibogaine have received considerable scientific attention, with research suggesting that a single dose can significantly reduce opioid withdrawal symptoms and drug craving. These properties have led to the development of ibogaine-assisted therapy for addiction treatment, though legal and safety concerns have limited its clinical adoption.
+The anti-addictive properties of ibogaine have received considerable scientific attention, with research suggesting that a single dose can significantly reduce opioid withdrawal symptoms and drug craving. These properties have led to the development of ibogaine-assisted therapy for addiction treatment, though legal [[palmer-about-mushrooms-foraging-basics-and-safety]] concerns have limited its clinical adoption.
 
 ## Safety Considerations
 
@@ -102,7 +102,7 @@ The therapeutic window between effective and dangerous doses of ibogaine is narr
 
 ## Cultural Significance
 
-Voacanga africana represents an important but poorly documented element of African ethnopharmacology. Its use by traditional magicians and healers in West Africa places it within a rich tradition of psychoactive plant knowledge that has received far less scientific attention than its New World and Asian counterparts. The secrecy surrounding Voacanga use highlights the challenges faced by etrichard-evans-schultesn African contexts, where traditional spiritual knowledge is often closely guarded.
+Voacanga africana represents an important but poorly documented element of African ethnopharmacology. Its use by traditional magicians and healers in West Africa places it within a rich tradition of psychoactive [[mckenna-inquisition-suppression-of-plant-knowledge]] that has received far less scientific attention than its New World and Asian counterparts. The secrecy surrounding Voacanga use highlights the challenges faced by etrichard-evans-schultesn African contexts, where traditional spiritual knowledge is often closely guarded.
 
 ## Historical Documentation
 

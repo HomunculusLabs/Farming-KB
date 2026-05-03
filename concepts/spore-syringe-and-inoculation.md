@@ -11,11 +11,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mus
 ## Overview
 
 Inoculation is the process of introducing fungal genetic material into a sterile
-substrate to initiate mycelial colonization. The most common inoculation methods
+substrate to initiate [[mycelial-colonization]]. The most common inoculation methods
 for small-scale and hobbyist cultivation use spore syringes — sterile
 suspensions of mushroom spores in distilled water. Understanding the biology of
 spores, the mechanics of syringe preparation, and the principles of aseptic
-technique is essential for successful mushroom cultivation.
+technique is essential for successful [[mushroom-cultivation]].
 
 ## Spore Biology
 

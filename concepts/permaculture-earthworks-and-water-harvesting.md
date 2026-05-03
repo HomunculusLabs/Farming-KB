@@ -144,5 +144,7 @@ Earthworks primarily address items 2, 3, and 4 — they're permanent and expensi
 6. Monitor during first rains — check for erosion, leaks, overflow
 
 ## See Also
+
+- [[query-what-earthworks-should-i-use-for-water-harvesting]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[mollison-designers-swale-design-and-water-harvesting-earthworks]]

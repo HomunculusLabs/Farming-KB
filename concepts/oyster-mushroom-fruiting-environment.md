@@ -29,7 +29,7 @@ natural onset of cooler, wetter conditions in autumn.
 
 Most *Pleurotus* species fruit optimally between 15 and 25 degrees Celsius,
 though this varies significantly by species. *Pleurotus ostreatus*, the common
-oyster, fruits at 10 to 20 degrees. *Pleurotus pulmonarius* prefers slightly
+oyster, fruits at 10 to 20 degrees. *[[pleurotus-pulmonarius]]* prefers slightly
 warmer conditions at 15 to 25 degrees. Tropical species like *Pleurotus
 cystidiosus* and pink oyster (*Pleurotus djamor*) require temperatures above 20
 degrees and may stall below 15 degrees. Temperature fluctuations of 5 to 8
@@ -52,7 +52,7 @@ hygrostat control are strongly recommended for commercial operations.
 Oyster mushrooms are extremely sensitive to carbon dioxide concentration. During
 colonization, CO2 levels above 5000 ppm are tolerated and even beneficial for
 rapid mycelial expansion. During fruiting, however, CO2 must drop below 800 to
-1000 ppm for proper fruiting body development. Elevated CO2 causes stems to
+1000 ppm for proper [[fruiting-body-development]]. Elevated CO2 causes stems to
 elongate abnormally, producing coral-like or cauliflower-shaped malformations
 with small or absent caps. Adequate fresh air exchange also helps evaporate
 moisture from the substrate surface and mushroom surfaces, which drives the
@@ -73,7 +73,7 @@ consistent illumination.
 
 A fruiting chamber provides controlled humidity, air exchange, and light. Simple
 designs include plastic tote bins with humidifiers and passive ventilation,
-shotgun fruiting chambers with drilled holes for natural convection, and
+[[shotgun-fruiting-chamber]] with drilled holes for natural convection, and
 commercial walk-in rooms with automated environmental controls. Martha tents
 (greenhouse-style enclosures) with ultrasonic humidifiers are popular among
 intermediate growers. Regardless of design, the chamber must maintain stable

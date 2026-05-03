@@ -38,7 +38,7 @@ conditions, try new varieties, and adapt crop plans from year to year based
 on experience and changing conditions.
 
 Mollison's [[permaculture]] Two outlines strategies for making annuals more
-self-sustaining within permaculture systems. By allowing four to six
+self-sustaining within [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]. By allowing four to six
 percent of crops to go to seed each season, farmers can develop locally
 adapted varieties that volunteer the following year without replanting. The
 system integrates continuous mulch at roughly 900 kilograms per 1,000
@@ -50,8 +50,8 @@ dramatically reduce annual planting labor.
 
 Despite these innovations, annuals have inherent limitations. They demand
 repeated soil disturbance for planting and harvesting, which disrupts
-fungal networks and soil structure. Soil is left exposed between crops
-without careful management, leading to erosion and organic matter loss.
+[[teaming-with-microbes-tilling-damage-to-fungal-networks]] and soil structure. Soil is left exposed between crops
+without careful management, leading to erosion and [[mollison-designers-humus-building-and-soil-organic-matter]] loss.
 Annuals require ongoing inputs of compost, fertility, and mulch to maintain
 productivity, and their shallow root systems cannot access the deep soil
 layers that perennials reach. The need for seasonal replanting creates an
@@ -103,7 +103,7 @@ aggressively invasive if not managed.
 | Crop Flexibility | High (change each season) | Low (permanent placement) |
 | Root Depth | Shallow to medium | Deep and extensive |
 | Carbon Sequestration | Low | High |
-| Pest Management | Crop rotation possible | Permanent habitat, scouting needed |
+| [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] | Crop rotation possible | Permanent habitat, scouting needed |
 | Self-Propagation | Self-seeding possible | Division, cuttings |
 | Dietary Diversity | Very high (hundreds of species) | Moderate (dozens of species) |
 | Market Availability | Standard supply chains | Often specialty or direct market |
@@ -116,7 +116,7 @@ such as in the first years of establishing a new garden or homestead. They
 provide dietary variety and high-calorie staple crops like grains and
 legumes that perennials cannot match. Self-seeding annual strategies from
 permaculture bridge the gap by reducing replanting labor while maintaining
-the flexibility to change varieties. Market gardeners who need predictable,
+the flexibility [[permaculture-principle-creatively-use-and-respond-to-change]] varieties. Market gardeners who need predictable,
 uniform harvests for restaurant or CSA sales also rely heavily on annual
 crops for their reliability and variety.
 

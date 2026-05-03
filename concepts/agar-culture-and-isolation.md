@@ -9,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 ---
-title: Agar Culture and Isolation Techniques
+title: [[agar]] Culture and Isolation Techniques
 tags: [mycology, cultivation, tissue-culture, fungi]
 date: 2026-04-28
 updated: 2026-04-28
@@ -30,7 +30,7 @@ Agar is a gelatinous substance derived from red algae. It serves as a solid
 growth medium when combined with nutrients and water. Agar melts at 185°F
 (85°C) and solidifies at approximately 100-110°F (38-43°C), allowing it to
 be sterilized as a liquid and poured into plates where it sets into a firm
-surface for mycelium growth.
+surface for [[mycelium]] growth.
 
 ## Agar Recipes
 
@@ -119,7 +119,7 @@ Common agar contaminants and their appearance:
 - **Bacteria**: Milky, glossy, iridescent colonies on the agar surface.
   Often smell sour or rotten. Mycelium may grow around but not through
   bacterial colonies.
-- **Mold** (Aspergillus, Penicillium, Trichoderma): Fast-growing, colored
+- **Mold** (Aspergillus, Penicillium, [[trichoderma]]): Fast-growing, colored
   colonies (green, blue-green, black). Produce spores that can spread rapidly.
   Affected plates should be discarded in a sealed bag.
 - **Yeast**: Creamy, raised, circular colonies. Often white or pinkish.

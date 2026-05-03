@@ -45,7 +45,7 @@ and increases the likelihood of contamination by *Trichoderma* and other competi
 
 ## Pasteurization and Sterilization
 
-Substrate preparation requires heat treatment to eliminate competitors. Pasteurization
+[[substrate-preparation]] requires heat treatment to eliminate competitors. Pasteurization
 (60-80°C for 1-2 hours) kills most mesophilic contaminants while preserving beneficial
 thermophilic microorganisms that can provide some biological protection. Sterilization
 (121°C at 15 psi for 60-90 minutes) achieves complete eradication of all organisms,
@@ -59,7 +59,7 @@ input, throughput, and allowable supplementation levels.
 
 ## Moisture Content and pH
 
-Optimal substrate moisture content for oyster mushroom cultivation ranges from 60-75%,
+Optimal substrate moisture content for oyster [[mushroom-cultivation]] ranges from 60-75%,
 depending on the base material. Sawdust substrates favor the lower end (60-65%), while
 straw can hold more water (68-75%). Excess moisture restricts gas exchange and promotes
 anaerobic conditions; insufficient moisture slows colonization and reduces yield.

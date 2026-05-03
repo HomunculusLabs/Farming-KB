@@ -72,7 +72,7 @@ can increase project costs.
 ## Phytoremediation
 
 Plants contribute to contaminant removal through several mechanisms.
-Phytoextraction uses hyperaccumulator plants that concentrate metals in their
+Phytoextraction uses [[hyperaccumulator-plants]] that concentrate metals in their
 aboveground tissues, which are then harvested. Thlaspi caerulescens accumulates
 zinc and cadmium at exphytostabilizationtrations, while sunflowers have been
 used to extract lead from contaminated soils.
@@ -83,7 +83,7 @@ to immobilize contaminants in the rhizosphere, reducing leaching and erosion
 loss. Rhizofiltration uses plant roots in hydroponic systems to absorb
 dissolved contaminants from water.
 
-The rhizosphere effect, where root exudates stimulate dense microbial
+The rhizosphere effect, where [[root-exudates]] stimulate dense microbial
 communities around roots, enhances contaminant degradation by combining plant
 and microbial capabilities. Constructed wetlands are a major application that
 combines phytoremediation with microbial processes for treating wastewater,

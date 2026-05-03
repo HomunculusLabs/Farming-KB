@@ -8,7 +8,7 @@ sources: []
 ---
 # Insectary Plants Guide
 
-Insectary plants attract, feed, and shelter beneficial insects -- pollinators, predators, and parasitoids that provide essential ecological services in any permaculture system. A year-round supply of nectar and pollen is the foundation of biological pest control and crop pollination. This guide covers bee forage systems, hedgerow design for beneficial insects, and specific pest-repelling plants.
+Insectary plants attract, feed, and shelter beneficial insects -- pollinators, predators, and parasitoids that provide essential ecological services in any [[permaculture]] system. A year-round supply of nectar and pollen is the foundation of biological pest control and crop pollination. This guide covers bee forage systems, hedgerow design for beneficial insects, and specific pest-repelling plants.
 
 ## The Bee Forage System
 
@@ -102,7 +102,7 @@ Supplement native forest with multipurpose species, especially those producing o
 - **Cape lilac** (Melia azedarach): Valuable bee forage
 - **Castor** (Ricinus communis): Valued bee forage
 - **Chilean nut** (Gevuina avellana): Nectar and pollen
-- **Chinese tallow tree** (Sapium sebiferum): Bee forage
+- **[[chinese-tallow-tree]]** (Sapium sebiferum): Bee forage
 - **Citrus**: High honey producers
 - **Grey mangrove** (Avicennia marina): Autumn, winter; good light honey
 - **Ivy**: Late season nectar source

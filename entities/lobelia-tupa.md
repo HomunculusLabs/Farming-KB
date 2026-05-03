@@ -45,7 +45,7 @@ The species occurs in tropical and warm zones of South America, particularly in 
 
 Recognizing L. tupa as toxic, the Mapuche Indians of Chile nevertheless value the leaves for their intoxicating properties. The plant's common name "Tabaco del Diablo" (Devil's Tobacco) reflects both its use and the danger associated with it. The Mapuche reportedly smoke the dried leaves or prepare them as an infusion to produce psychoactive effects.
 
-The name "Devil's Tobacco" is particularly apt, as the plant's effects when smoked are described as tobacco-like but considerably more intense and potentially hallucinogenic. The Mapuche have developed specific knowledge of dosing and preparation that allows them to use the plant safely within their traditional context.
+The name "Devil's Tobacco" is particularly apt, as the plant's effects when smoked are described as tobacco-like but considerably more intense and potentially hallucinogenic. The Mapuche have developed specific knowledge of dosing [[falconer-mushroom-cooking-selection-and-preparation]] that allows them to use the plant safely within their traditional context.
 
 ### Emetic and Purgative
 
@@ -53,7 +53,7 @@ Other Andean Indian groups take L. tupa as an emetic and purgative. This dual us
 
 ### Wound Healing
 
-Some Mapuche communities also use preparations of L. tupa externally for wound healing, taking advantage of the plant's antimicrobial and anti-inflammatory properties. The latelobelinelied directly to wounds, burns, and skin infections, though care is taken to avoid systemic absorption.
+Some Mapuche communities also use preparations of L. tupa externally for wound healing, taking advantage of the plant's antimicrobial and anti-inflammatory properties. The latelobelinelied directly to wounds, burns, and skin infections, though care is taken [[palmer-about-mushrooms-poisonous-species-to-avoid]] systemic absorption.
 
 ## Chemistry
 
@@ -75,7 +75,7 @@ The pharmacological profile of lobeline explains both the stimulant-like and rel
 
 ## Toxicity
 
-The plant is recognized as toxic, and its use requires knowledge of proper preparation and dosage. The Mapuche, who have used it traditionally, understand its properties and the risks involved. Ingestion of excessive amounts can cause:
+The plant is recognized as toxic, and its use requires knowledge of proper [[turner-harmala-alkaloids-preparation-and-dosage]]. The Mapuche, who have used it traditionally, understand its properties and the risks involved. Ingestion of excessive amounts can cause:
 
 - Nausea, vomiting, and profuse sweating
 - Respiratory depression and breathing difficulty
@@ -91,7 +91,7 @@ Lobelia tupa should not be used without expert guidance. The plant's toxicity me
 
 ## Cultural Significance
 
-Lobelia tupa is an example of a plant that is simultaneously recognized as toxic and valued for its psychoactive properties. The Mapuche people's sophisticated understanding of this plant's dual nature — its dangers and its benefits — reflects the deep ethnopharmacological knowledge that characterizes indigenous plant use in South America.
+Lobelia tupa is an example of a plant that is simultaneously recognized as toxic and valued for its psychoactive properties. The Mapuche people's sophisticated understanding of this plant's dual nature — its dangers and its benefits — reflects the deep ethnopharmacological knowledge that characterizes indigenous [[plants-of-the-gods-overview-hallucinogenic-plant-use]] in South America.
 
 The plant's dramatic appearance and powerful effects have also made it an ornamental curiosity in botanical gardens, where it is grown for its striking flowers despite (or perhaps because of) its toxic reputation.
 
@@ -101,7 +101,7 @@ Lobelia tupa was first described by Linnaeus in the 18th century. Its use by the
 
 ## Ornamental and Horticultural Use
 
-Despite its toxicity, Lobelia tupa has become popular in horticulture as an ornamental plant. Its tall, dramatic flower spikes and attractive foliage make it a striking addition to gardens. The plant is hardy in temperate climates and has been successfully cultivated in Europe, North America, and other regions outside its native range.
+Despite its toxicity, Lobelia tupa has become popular in horticulture as an ornamental plant. Its tall, dramatic flower spikes and attractive foliage make it a striking addition to gardens. The plant is hardy in temperate climates and has been successfully cultivated [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]], North America, and other regions outside its native range.
 
 Gardeners should be aware of its toxic properties and handle it with appropriate care. The plant prefers well-drained soil and full sun to partial shade. It is relatively drought-tolerant once established but benefits from regular watering during the growing season.
 

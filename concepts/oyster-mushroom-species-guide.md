@@ -9,11 +9,11 @@ sources: []
 
 # Oyster Mushroom Species Guide
 
-Oyster mushrooms (genus Pleurotus) are among the most widely cultivated mushrooms worldwide, valued for their fast growth, broad substrate tolerance, excellent culinary qualities, and ease of cultivation. The genus contains over 30 described species, but five are most commonly grown commercially and by home cultivators.
+[[oyster-mushrooms]] (genus Pleurotus) are among the most widely cultivated mushrooms worldwide, valued for their fast growth, broad substrate tolerance, excellent culinary qualities, and ease of cultivation. The genus contains over 30 described species, but five are most commonly grown commercially and by home cultivators.
 
 ## Genus Overview
 
-Pleurotus species are white-rot fungi that decompose both cellulose and lignin, giving them an unusually broad substrate range. They are found worldwide on dead and dying hardwood trees. Most species are saprotrophic, though some can be weak parasites on stressed trees. Oyster mushrooms are aggressive colonizers, making them forgiving for beginners but also competitive contaminants in mushroom farms growing other species.
+[[pleurotus-species]] are white-rot fungi that decompose both cellulose and lignin, giving them an unusually broad substrate range. They are found worldwide on dead and dying hardwood trees. Most species are saprotrophic, though some can be weak parasites on stressed trees. Oyster mushrooms are aggressive colonizers, making them forgiving for beginners but also competitive contaminants in mushroom farms growing other species.
 
 ## Species Comparison Table
 
@@ -29,7 +29,7 @@ Pleurotus species are white-rot fungi that decompose both cellulose and lignin, 
 | Spawn Run | 14-21 days | 10-18 days | 14-21 days | 10-16 days | 21-30 days |
 | Colonization Speed | Moderate | Fast | Moderate | Fast | Slow |
 | Substrate Range | Very broad | Very broad | Broad | Broad | Narrower (prefers straw) |
-| Biological Efficiency | 100-200% | 100-150% | 75-150% | 50-100% | 60-100% |
+| [[biological-efficiency]] | 100-200% | 100-150% | 75-150% | 50-100% | 60-100% |
 | Shelf Life | 5-7 days | 5-7 days | 3-5 days | 2-3 days | 7-10 days |
 | Cold Tolerance | Good | Poor | Poor | None | Excellent |
 | Heat Tolerance | Moderate | Good | Good | Very good | Poor |
@@ -108,7 +108,7 @@ All Pleurotus species share similar substrate preparation:
 
 - [[shiitake-cultivation-guide]] for sawdust block cultivation methods
 - [[enoki-cultivation-guide]] for another commercially important cultivated species
-- [[paddy-straw-mushroom]] for tropical mushroom cultivation comparison
+- [[paddy-straw-mushroom]] for tropical [[mushroom-cultivation]] comparison
 
 ## Related
 

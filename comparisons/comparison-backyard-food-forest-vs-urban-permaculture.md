@@ -20,7 +20,7 @@ sources: []
 
 ## Overview
 
-Backyard food forests and urban permaculture designs both apply ecological principles to food
+Backyard food forests and urban [[permaculture-design]] both apply ecological principles to food
 production in human-managed landscapes, but they differ significantly in scale, structure, and the
 constraints they work within. A backyard food forest mimics a multi-layered forest ecosystem on a
 suburban or rural residential lot, while urban permaculture adapts those principles to the extreme
@@ -61,7 +61,7 @@ reducing irrigation dependency while recharging groundwater.
 
 [[urban-permaculture-design]]
 
-Urban permaculture adapts zone and sector analysis, guild design, and closed-loop systems to
+Urban permaculture adapts [[zone-and-sector-analysis]], guild design, and closed-loop systems to
 constrained environments including balconies, rooftops, vacant lots, and community gardens. Core
 principles for small spaces include stacking functions, using vertical space to multiply growing
 area, closing nutrient loops through composting and water harvesting, observing microclimates
@@ -82,7 +82,7 @@ while climbing beans, cucumbers, and indeterminate tomatoes exploit overhead spa
 elements also create microclimates by casting shade, blocking wind, and trapping heat.
 
 Microclimate management becomes a critical skill in urban environments. Thermal mass from concrete
-and brick walls absorbs heat during the day and releases it at night, extending growing seasons.
+and brick walls absorbs heat during the day and releases it at night, [[extending-growing-season]].
 Reflective surfaces like white-painted walls maximize available light in shaded courtyards. Wind
 protection from railing-mounted fabric creates sheltered zones on exposed balconies and rooftops.
 Water harvesting from small roof areas into 55-gallon drum systems provides irrigation without

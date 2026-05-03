@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Substrate Preparation
 
-Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
+[[oyster-mushrooms]] (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
 
 ## Suitable Substrates
 
@@ -39,7 +39,7 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 ### Why Supplement
 - Raw substrates (straw, sawdust) are low in nitrogen
 - Adding nitrogen-rich supplements boosts yield 50-200%
-- Supplemented substrates require sterilization (not just pasteurization)
+- Supplemented substrates require [[sterilization]] (not just pasteurization)
 
 ### Common Supplements
 - Wheat bran: 10-20% by dry weight (most common)

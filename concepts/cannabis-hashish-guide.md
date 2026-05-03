@@ -1,12 +1,13 @@
 ---
-ti
+title: "Cannabis Hashish Guide"
+---
 # Cannabis Hashish Guide
 ## Overview
-Hashish (hash) is a concentrated cannabis product made by separating and collecting the resinous trichomes from the cannabis plant. With a history spanning thousands of years, hashish represents one of the oldest forms of cannabis lands (trichomes) contain the highest concentrations of cannabinoids and terpenes, making hash a potent and flavorful concentrate. This guide covers traditional and modern hashish production methods.
+Hashish (hash) is a concentrated cannabis product made by separating and collecting the resinous trichomes from the [[cannabis-plant-stress-types-and-recovery]]. With a history spanning thousands of years, hashish represents one of the oldest forms of cannabis lands (trichomes) contain the highest concentrations of cannabinoids and terpenes, making hash a potent and flavorful concentrate. This guide covers traditional and modern hashish production methods.
 ## What Is Hashish?
-Hashish is essentially compressed cannabis resin. The trichomes — tiny, crystal-like glandular hairs on cannabis flowers and leaves — contain the plant's active compounds (THC, CBD, terpenes, and other cannabinoids). Hashish is created by separating these trichomes from plant material and pressing them into a cohesive form. Different [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] strains produce hashish with varying characteristics.
+Hashish is essentially compressed [[cannabis-resin-production-and-quality-traits-clarke]]. The trichomes — tiny, crystal-like glandular hairs on cannabis flowers and leaves — contain the plant's active compounds (THC, CBD, terpenes, and other cannabinoids). Hashish is created by separating these trichomes from plant material and pressing them into a cohesive form. Different [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]] strains produce hashish with varying characteristics.
 ### Trichome Types and Quality
-Three types of trichomes exist on cannabis plants:
+Three types of trichomes exist on [[query-how-to-prevent-hermaphrodite-cannabis-plants]]:
 1. **Bulbous trichomes:** Smallest, appear on the entire plant surface. Lowest cannabinoid content.
 2. **Capitate sessile trichomes:** Medium-sized, slightly more abundant on flowers. Moderate cannabinoid content.
 3. **Capitate stalked trichomes:** Largest and most abundant on cannabis flowers. Highest cannabinoid and terpene concentrations. These are the primary target for hashish production.
@@ -15,7 +16,7 @@ Trichome maturity affects quality:
 - **Cloudy/milky trichomes:** Peak THC production, optimal harvest for maximum potency
 - **Amber trichomes:** THC degrading to CBN, more sedative effects
 ## Dry Sift Hashish
-Dry sift is one of the simplest and oldest methods of making hash. It uses mechanical separation with screens of varying micron sizes. This method works well with flowers from both [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] varieties.
+Dry sift is one of the simplest and oldest methods of making hash. It uses mechanical separation with screens of varying micron sizes. This method works well with flowers from both [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]] varieties.
 ### Process
 1. **Starting material:** Cured, dried cannabis flowers or trim (frozen beforehand improves results)
 2. **Screen sizes:** Multiple screens of decreasing micron sizes separate trichomes by quality:
@@ -60,7 +61,7 @@ Ice water extraction (also called bubble hash or ice wax) uses cold water and ag
    - Rinse collected hash on the mesh with cold water to remove contaminants
 3. **Drying:**
    - Spread hash on parchment paper or freeze-dry
-   - Air drying takes 3-14 days depending on quantity and humidity
+   - Air drying takes 3-14 days depending on quantity [[vegetable-storage-conditions-by-temperature-and-humidity]]
    - Freeze-drying (lyophilization) preserves terpenes and texture best
    - Improper drying leads to mold and degraded quality
 4. **Curing:**
@@ -79,7 +80,7 @@ Ice water extraction (also called bubble hash or ice wax) uses cold water and ag
 - Buckets or dedicated washing machine (mini washer)
 - Ice (10+ lbs per wash)
 - Freeze dryer (optional, $1,000-$5,000 — preserves terpenes best)
-- Parchment paper for collection and drying
+- Parchment paper for collection [[gottlieb-psilocybin-cultivation-harvesting-and-drying]]
 ## Traditional Hash: Charas, Moroccan, and Afghan
 ### Charas (Hand-Rubbed)
 Traditional hand-rubbed hashish of India and the Himalayan region. Growers rub flowering tops with their hands; accumulated resin is scraped off and rolled into balls. Thousands of years of cultural history — used by Sadhus for meditation, associated with Shiva worship. Malana Cream from the Parvati Valley is among the most famous. Properly made charas is among the highest quality hashish.
@@ -104,7 +105,7 @@ Made from fresh frozen cannabis (harvested and immediately frozen rather than dr
 - Airtight glass containers (not plastic), cool dark location
 - Refrigerator for long-term, 55-62% RH with humidity packs
 - Properly stored hash maintains quality 1-2 years
-- [[cannabis-testing-and-quality|Lab testing]] can verify potency and purity
+- [[cannabis-testing-and-quality]] can verify potency and purity
 ### Consumption
 - **Smoking:** In pipes, bowls, chillums, or mixed with flower in joints
 - **Dabbing:** Vaporizing rosin or high-quality hash on a heated nail

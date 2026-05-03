@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # HOT-17
 
-PIHKAL entry #89. 2,5-DIMETHOXY-4-(s)-BUTYLTHIO-N-HYDROXYPHENETHYLAMINE.
+[[al-pihkal-entry-2]] #89. 2,5-DIMETHOXY-4-(s)-BUTYLTHIO-N-HYDROXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -37,7 +37,7 @@ PIHKAL entry #89. 2,5-DIMETHOXY-4-(s)-BUTYLTHIO-N-HYDROXYPHENETHYLAMINE.
 > with the day, and would be interested in exploring it under a variety
 > of circumstances.
 >
-> (with 120 mg) This is my first time with this material. It is 4:45
+> (with 120 mg) This is my [[first-time-grower-common-mistakes]] with this material. It is 4:45
 > PM. Small nudge at 30 minutes, but not too real. At one hour,
 > threshold, quite real. 6:15 to a +1. By 7:25, +3 about. 7:45, no
 > doubt +3. Possibly still climbing; I hope so. No body discomfort at
@@ -49,7 +49,7 @@ PIHKAL entry #89. 2,5-DIMETHOXY-4-(s)-BUTYLTHIO-N-HYDROXYPHENETHYLAMINE.
 > scary, ego-disintegrating kind of experiment, or not? Silly question
 > which answers itself. Yes, of course. At 3 hours, aware of some mild
 > time-distortion. More a tendency to not think in terms of clock-time,
-> than actual distortion. The mind lazy when attempting to keep track
+> than actual distortion. [[dmt-candy-for-the-mind]] lazy when attempting to keep track
 > of clock time. Feel it would be quite easy and pleasant to continue
 > writing. The energy could very well go in that direction. However,
 > the idea of the erotic is also quite agreeable. This is, so far, a
@@ -69,7 +69,7 @@ drugs, in that the more you take, the more you get. If you want more
 intensity, take a second pill. And often, you get a longer duration
 as an added property. But it is instructive to inquire into the
 rationale that promotes brevity as a virtue. I believe that it says
-something concerning the reasons for using a psychedelic drug. A
+something concerning the reasons for using a [[psychedelic-drug-testing-and-adulterant-screening]]. A
 trade off between learning and entertainment. Or between the
 achieving of something and the appearance of achieving something. Or,
 in the concepts of the classics, between substance and image.
@@ -83,7 +83,7 @@ such-and-such (choose one: digging to the bottom of a complex concept,
 giving my energies to those whom I can help, to search out my inner
 strengths and weaknesses) so instead I shall simply do such-and-such
 (choose one: read the book review, go to church on Sunday morning, use
-a short-acting psychedelic). The world is too much with us. This may
+a short-acting psychedelic). [[hallucinogenic-plants-of-the-world]] is too much with us. This may
 be a bit harsh, but there is some merit to it.
 
 HOT-17 is by no means a particularly potent compound. The hundred

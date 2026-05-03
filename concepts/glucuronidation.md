@@ -9,7 +9,7 @@ sources: []
 
 Glucuronidation is a major conjugation pathway in which glucuronic acid is transferred to drugs, hormones, bilirubin, bile acids, pollutants, and other small molecules.
 
-The reaction usually increases water solubility and supports elimination in urine or bile, making it one of the most important forms of [[phase-ii-conjugation-reactions-drug-metabolism|phase II metabolism]].
+The reaction usually increases water solubility and supports elimination in urine or bile, making it one of the most important forms of [[phase-ii-conjugation-reactions-drug-metabolism]].
 
 It is catalyzed by UDP-glucuronosyltransferase enzymes, abbreviated UGTs, which use UDP-glucuronic acid as the activated sugar donor.
 
@@ -37,7 +37,7 @@ The UGT1A and UGT2B families contain many clinically important isoforms with ove
 
 UGT1A1 is central for bilirubin conjugation, while UGT1A4, UGT1A9, UGT2B7, UGT2B15, and UGT2B17 are important for many drugs and endogenous compounds.
 
-Tissue distribution matters because intestinal UGTs can reduce oral bioavailability before a compound reaches systemic circulation.
+Tissue distribution matters because intestinal UGTs can reduce [[first-pass-metabolism-and-oral-bioavailability]] before a compound reaches systemic circulation.
 
 Isoform overlap gives the pathway robustness, but it also makes prediction difficult when a drug is cleared by several UGTs at once.
 
@@ -111,17 +111,17 @@ Biliary glucuronides can be hydrolyzed by intestinal bacteria, releasing parent 
 
 Urinary glucuronides are useful biomarkers of exposure for drugs, environmental chemicals, hormones, and dietary compounds.
 
-Analytical methods often use enzymatic deconjugation or mass spectrometry to distinguish parent molecules from conjugated metabolites.
+[[fungal-siderophore-detection-analytical-methods]] often use enzymatic deconjugation or mass spectrometry to distinguish parent molecules from conjugated metabolites.
 
 ## Relationship to Other Phase II Pathways
 
-Glucuronidation often competes with sulfation, methylation, acetylation, amino acid conjugation, and [[glutathione-biochemistry-and-redox-biology|glutathione]] conjugation.
+Glucuronidation often competes with sulfation, methylation, acetylation, [[knf-fish-amino-acid]] conjugation, and [[glutathione-biochemistry-and-redox-biology]] conjugation.
 
 High-capacity glucuronidation may dominate at higher substrate concentrations, while high-affinity sulfation may dominate at lower concentrations for some phenols.
 
-Phase I oxidation by [[cytochrome-p450-enzyme-system|cytochrome P450]] can create hydroxylated metabolites that are then excellent UGT substrates.
+Phase I oxidation by [[cytochrome-p450-enzyme-system]] can create hydroxylated metabolites that are then excellent UGT substrates.
 
-This coupling means that phase I and phase II metabolism are not isolated stages but linked networks shaped by enzyme expression and substrate chemistry.
+This coupling means that phase I and phase II metabolism are not isolated stages but linked networks shaped by enzyme expression [[oyster-mushroom-ph-and-substrate-chemistry]].
 
 In toxicology, the balance between glucuronidation and oxidative activation can determine whether exposure remains safe or produces reactive intermediates.
 
@@ -139,12 +139,12 @@ For biochemistry, the pathway illustrates how activated sugar donors and membran
 
 Wikipedia: "Glucuronidation", "Glucuronosyltransferase", and "Drug metabolism" sections reviewed during this mining wave.
 
-General pharmacology and toxicology literature on UGT isoforms, bilirubin conjugation, drug clearance, acyl glucuronides, and enterohepatic cycling.
+General pharmacology [[fungal-poisons-and-toxicology]] literature on UGT isoforms, bilirubin conjugation, drug clearance, acyl glucuronides, and enterohepatic cycling.
 
 ## See Also
 
-[[phase-ii-conjugation-reactions-drug-metabolism|drug metabolism]]
-[[cytochrome-p450-enzyme-system|cytochrome P450]]
+[[phase-ii-conjugation-reactions-drug-metabolism]]
+[[cytochrome-p450-enzyme-system]]
 pharmacokinetics
 toxicology
-[[glutathione-biochemistry-and-redox-biology|glutathione]]
+[[glutathione-biochemistry-and-redox-biology]]

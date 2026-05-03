@@ -22,7 +22,7 @@ Nitroaromatic compounds are used in the manufacture of explosives,
 pesticides, pharmaceuticals, dyes, and plastics. They are common
 contaminants of groundwater and soil near production sites and
 military facilities. Many nitroaromatics are highly toxic, carcinogenic,
-or mutagenic. White rot fungi, particularly Phanerochaete
+or mutagenic. [[white-rot-fungi]], particularly Phanerochaete
 chrysosporium, have demonstrated significant ability to transform and
 degrade these recalcitrant compounds through both ligninolytic and
 non-ligninolytic enzyme pathways. The fungal approach offers advantages
@@ -103,9 +103,9 @@ fractions.
 [[fungal-enzyme-systems]] have shown potential for degrading chemical
 warfare agents. Nerve agents VX and Russian VX (RVX), along with
 the insecticide analog diisopropylamiton, contain phosphothiolate
-bonds. Pleurotus ostreatus rapidly and completely oxidized these
+bonds. [[pleurotus-ostreatus]] rapidly and completely oxidized these
 compounds in the presence of ABTS as a laccase mediator. This finding
-extends the relevance of fungal bioremediation beyond conventional
+extends the relevance of [[fungal-bioremediation]] beyond conventional
 explosive contaminants to include military chemical agents, suggesting
 potential applications for demilitarization and cleanup of chemical
 warfare agent disposal sites.

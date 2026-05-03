@@ -30,7 +30,7 @@ The soil food web is organized into distinct trophic levels:
   [[fungal-ecology]]. Fungal-dominated soils tend to have better aggregate
   structure and higher carbon retention.
 - **Actinomycetes**: Filamentous bacteria that bridge the gap between
-  bacterial and fungal decomposition strategies, important in degrading
+  bacterial and [[fungal-decomposition]] strategies, important in degrading
   resistant compounds like chitin and cellulose.
 
 ### Level 2: Mutualists
@@ -79,7 +79,7 @@ The soil food web drives the nutrient cycle that sustains terrestrial life:
 3. **Microbial feeders** (protozoa, nematodes) consume decomposers,
    mineralizing nutrients immobilized in microbial biomass.
 4. **Plants** absorb mineralized nutrients through roots, often facilitated
-   by mycorrhizal networks.
+   by [[mycorrhizal-networks]].
 5. **Higher predators** regulate populations at lower levels, maintaining
    community balance.
 
@@ -119,7 +119,7 @@ Conventional agricultural practices severely disrupt soil food webs:
 - **Monoculture**: Reduces plant diversity, which in turn reduces microbial
   and faunal diversity.
 
-Regenerative agriculture practices that support soil food web health include
+[[regenerative-agriculture]] practices that support soil food web health include
 cover cropping, compost application, reduced tillage, crop rotation, and
 diverse plantings.
 

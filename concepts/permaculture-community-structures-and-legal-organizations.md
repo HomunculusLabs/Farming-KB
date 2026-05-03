@@ -12,7 +12,7 @@ sources:
 
 updatebill-mollison
 
-Pamphlets XIII and XIV of the [[permaculture-design]] Course provide detailed models for organizing permaculture communities, including legal structures, trust systems, financial management, and practical enterprise models. Bill Mollison presents a working model used [[agar]]he Tagari community in Australia.
+Pamphlets XIII and XIV of the [[permaculture-design]] Course provide detailed models for organizing permaculture communities, including [[holmgren-permaculture-land-tenure-and-legal-structures]], trust systems, financial management, and practical enterprise models. Bill Mollison presents a working model used by [[mollison-permaculture-two-philosophy-and-tagari-community]] in Australia.
 
 ## The Community Model
 
@@ -22,14 +22,14 @@ A permaculture community is organized around three ethical principles:
 2. **People care**
 3. **Non-profiteering** -- not accumulating wealth beyond one's needs
 
-The community forms a **company** (a perfectly [[al-entity]]legal entity existing in all nations). Part of the function of all companies is to act as a **trustee**. The company does not trade, nor does it take any cash flow in or out. It issues shares of one dollar to each member. All members can be directors.
+The community forms a **company** (a perfectly legal entity existing in all nations). Part of the function of all companies is to act as a **trustee**. The company does not trade, nor does it take any cash flow in or out. It issues shares of one dollar to each member. All members can be directors.
 
 ### The Institute Trust (Public Trust)
 The Permaculture Institute (the name of this company) exists to work in areas of **health, education, and agriculture**. This gives the company a broad spectrum basis of acting.
 
 Under trust drawn up according to the laws of your country, it adds "for the good of all Americans" (or equivalent). This publicly oriented trust confers advantages:
 - Immunity from land taxes, rates, and local government charges
-- Automatic membership in the **World Free Seed Exchange** (4,600 institutes, 680 botanical gardens)
+- Automatic membership in [[hallucinogenic-plants-of-the-world]] Free [[permaculture-designers-manual-seed-exchange]]** (4,600 institutes, 680 botanical gardens)
 - Joint research with any other institute of its kind
 - Links with funding staff arrangements
 - Insulated from corporate risk -- if this fails, so do schools, churches, and public institutions, making it nearly unheard of for it to be raided
@@ -42,7 +42,7 @@ This is a **second trust**, not connected with the Institute Trust, under the co
 - Owns no buildings, employs no staff, has no chattels
 - Borrows all moveable fixtures, furnishings, and usable objects from a political party or small external society
 
-**At the Trading Trust, there is nobody and nothing at home.** No risk is incurred. This mirrors the structure of merchant banks worldwide.
+**At the Trading Trust, there is nobody and nothing [[query-how-to-make-cannabis-tinctures-at-home]].** No risk is incurred. This mirrors the structure of merchant banks worldwide.
 
 ## Trading Trust Businesses
 

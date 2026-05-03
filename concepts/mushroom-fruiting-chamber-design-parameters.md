@@ -36,7 +36,7 @@ its food source and is exposed to the outdoor atmosphere.
 Mushrooms are aerobic organisms that require constant oxygen and produce carbon
 dioxide as a metabolic byproduct. During fruiting, CO2 levels must be kept
 below 800 to 1000 parts per million for most gourmet species. Elevated CO2
-causes elongated stems, small caps, and reduced yields in oyster mushrooms.
+causes elongated stems, small caps, and reduced yields in [[oyster-mushrooms]].
 
 FAE is provided through passive ventilation (filtered holes), active
 ventilation (fans), or a combination. Passive systems are simpler but require
@@ -99,7 +99,7 @@ controllers.
 
 ## The Pinning Phase
 
-After full colonization and exposure to fruiting conditions, mycelium forms a
+After full colonization and exposure to [[fruiting-conditions]], mycelium forms a
 white, cottony mat on the substrate surface. Within days, tiny pin-like
 structures called primordia emerge. This is the most vulnerable phase of the
 grow. Pins are extremely sensitive to drying, CO2 spikes, and physical

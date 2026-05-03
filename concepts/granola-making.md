@@ -7,7 +7,7 @@ tags: [food, recipe, homesteading, homestead-crafts, preparation]
 sources: []
 ---
 ## What Is Granola
-Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free of the excessive sugar, preservatives, and additives found in commercial varieties. Making granola at home takes about 45 minutes from start to finish and yields roughly 10-12 cups per batch.
+Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free of the excessive sugar, preservatives, and additives found in commercial varieties. Making granola [[query-how-to-make-cannabis-tinctures-at-home]] takes about 45 minutes from start to finish [[mollison-designers-resources-classification-and-yields]] roughly 10-12 cups per batch.
 ## Core Ingredients
 ### Oats
 - Old-fashioned rolled oats — the standard choice; provide the best balance of texture and crunch
@@ -30,7 +30,7 @@ Fat carries flavor, promotes browning, and helps crisp the granola.
 - Avocado oil — neutral flavor, high smoke point
 - Butter — rich, classic flavor; melt before adding
 - Ghee (clarified butter) — buttery flavor without the milk solids that can burn
-- Coconut oil and butter blend — combines the best of both
+- Coconut oil [[faires-dairy-processing-cheese-and-butter]] blend — combines the best of both
 ### Nuts
 Nuts add protein, healthy fats, and crunch.
 - Almonds — sliced, slivered, or whole; most popular
@@ -50,7 +50,7 @@ Seeds add nutrition and texture without overwhelming the flavor.
 - Sesame seeds — nutty, small, distribute evenly
 - Hemp seeds — protein-rich, mild, add at the end (no baking needed)
 ### Dried Fruit
-Add after baking to prevent burning and drying out.
+Add after baking to prevent burning [[gottlieb-psilocybin-cultivation-harvesting-and-drying]] out.
 - Raisins — classic, sweet
 - Dried cranberries — tart, colorful
 - Dried blueberries — sweet-tart, antioxidant-rich
@@ -95,7 +95,7 @@ Add after baking to prevent burning and drying out.
 13. Break into desired cluster size
 ## Baking Temperatures and Techniques
 - 250F (120C): very low, slow baking; takes 45-60 minutes; maximum crunch, minimal risk of burning
-- 300F (150C): standard temperature; 25-35 minutes; good balance of time and quality
+- 300F (150C): standard temperature; 25-35 minutes; good balance of time [[cannabis-testing-and-quality]]
 - 325F (165C): faster baking; 20-25 minutes; more color and flavor development but watch carefully
 - 350F (175C): hot and fast; 15-20 minutes; high risk of burning, only for experienced bakers
 ### Cluster Tips

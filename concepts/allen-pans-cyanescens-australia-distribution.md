@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 ## Overview
 
-*Copelandia cyanescens* (syn. *Panaeolus cyanescens*) is one of the most
+*[[copelandia-cyanescens]]* (syn. *Panaeolus cyanescens*) is one of the most
 potent and widely distributed psychoactive mushrooms in Australia. Known
 locally as "blue meanies," this dung-inhabiting species is found across
 tropical, subtropical, and temperate regions of the continent. Its
@@ -34,7 +34,7 @@ In older Australian literature, the species is frequently listed under
 
 The Darwin area represents one of the most reliable collection zones for
 this species in Australia. The tropical climate with distinct wet and dry
-seasons creates ideal fruiting conditions. Collections have been documented
+seasons creates ideal [[fruiting-conditions]]. Collections have been documented
 consistently in and around Darwin during the wet season months.
 
 ### Queensland

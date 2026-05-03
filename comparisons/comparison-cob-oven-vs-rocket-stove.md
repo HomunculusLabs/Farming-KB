@@ -128,4 +128,3 @@ centerpiece that serves the homestead year-round through all seasons.
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[solar-cooking-methods]]
 - [[rocket-mass-heater-design]]
-

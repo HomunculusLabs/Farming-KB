@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mus
 # Spawn Preparation
 
 Spawn is the living fungal mycelium propagated on a nutritious substrate,
-serving as the "seed" for mushroom cultivation. Preparing clean, vigorous
+serving as the "seed" for [[mushroom-cultivation]]. Preparing clean, vigorous
 spawn is arguably the most critical step in any mushroom growing operation.
 Contaminated or weak spawn leads directly to crop failure, while quality
 spawn dramatically improves yields and consistency.
@@ -32,7 +32,7 @@ its small kernel size, though it can be more difficult to hydrate evenly.
 ## Hydration and Loading
 
 Grains must be hydrated to approximately 50-55% moisture content before
-sterilization. Over-hydrated grains clump together, reducing air exchange
+[[sterilization]]. Over-hydrated grains clump together, reducing air exchange
 and promoting anaerobic bacterial growth. Under-hydrated grains slow
 mycelial growth because the fungus cannot access dissolved nutrients
 efficiently.
@@ -122,7 +122,7 @@ While grain spawn is the most common, several other spawn types exist:
 
 ## Scale Considerations
 
-The choice of spawn production method scales with operation size.
+The choice of [[spawn-production]] method scales with operation size.
 Hobbyists may prepare a few quart jars per week in a home pressure
 canner. Small commercial operations typically use 5-10 pound grain bags
 in autoclaves, producing enough spawn for dozens of substrate blocks per

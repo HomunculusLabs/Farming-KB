@@ -11,17 +11,9 @@ sources: [raw/papers/amaringo-p-ayahuasca-visions.md]
 
 Ayahuasca is a psychoactive brew from the Amazon basin, traditionally prepared from Banisteriopsis caapi (ayahuasca vine) and Psychotria viridis (chacruna). The brew contains DMT (from chacruna) made orally active by harmine/harmaline MAO inhibitors (from the vine). Used for millennia by indigenous peoples for healing, divination, and communal ceremony. See [[ayahuasca-preparation]] for additional preparation details and [[amazonian-plant-teachers-doctores]] for the broader plant teacher tradition.
 
-
-
-
-
 ## Pablo Amaringo and the Usko-Ayar School
 
 [[pablo-amaringo]] (1938-2009) was a Shipibo-Conibo vegetalista and painter from Peru who documented over 1,000 ayahuasca visions. He co-founded the Usko-Ayar school with anthropologist Luis Eduardo Luna to teach young people Amazonian plant knowledge through art. His paintings reveal the spirit world encountered during ayahuasca ceremonies.
-
-
-
-
 
 ## The Ceremony
 
@@ -41,10 +33,6 @@ The preparation of ayahuasca follows a strict ritual protocol observed by Amarin
 
 5. **Ceremonial setting**: The ceremony takes place near trees and plants that are "doctors" — their spirits are invoked to assist healing. Incas appear as spirit teachers: one teaches smoke-blowing for healing, another gives beautiful visions, the third teaches use of medicinal plants.
 
-
-
-
-
 ## Vegetalista Degrees
 
 Only through years of dieta (dietary fasting) can one become a vegetalista. Three degrees are recognized:
@@ -53,10 +41,6 @@ Only through years of dieta (dietary fasting) can one become a vegetalista. Thre
 - **Sumi** — Advanced practitioner who can see into the past and future
 - **Banco** — Master vegetalista who controls multiple spirit forces
 
-
-
-
-
 ## Spirit Categories
 
 - **Mothers** (Madres) — Protective plant spirits, each with specific healing domains. For example, the puka-lupuna tree (*Cavanillesia hylogeiton*) has a spirit described as a woman of dark complexion with cat eyes and a gold chain.
@@ -64,17 +48,9 @@ Only through years of dieta (dietary fasting) can one become a vegetalista. Thre
 - **Guardians** — Spirits that protect ceremonial space, including the vegetalista's dog which has "spiritual vision" to detect approaching enemies
 - **Demons** — Dangerous spirits that can cause illness or madness
 
-
-
-
-
 ## Dieta (Dietary Regime)
 
 The dieta is central to Amazonian plant medicine. Many plants "exercise power upon anyone who has not followed the strict dietary regime." The dieta facilitates knowledge of "magical esoteric sciences" and is required before working with any teacher plant. The strictness and duration of dieta determines the degree of knowledge attained — years of fasting are required to reach the highest vegetalista degrees.
-
-
-
-
 
 ## Related
 

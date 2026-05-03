@@ -52,9 +52,9 @@ The compound was at one point sold on the streets of Chicago as mdma-entity|MDMA
 
 ## Related Compounds
 
-[[amt-entity-tihkal]] (alpha-methyltryptamine) - the primary amine parent compound, a well-known psychedelic stimulant.
+[[amt-entity-tihkal]] ([[alpha-methyltryptamine]]) - the primary amine parent compound, a well-known psychedelic stimulant.
 
-alpha n dmt entity tihkal (N,N-dimethyltryptamine) - the foundational compound of the dialkyltryptamine series.
+alpha n [[dmt-entity-tihkal]] (N,N-dimethyltryptamine) - the foundational compound of the dialkyltryptamine series.
 
 [[nmt-entity-tihkal]] (N-methyltryptamine) - the mono-methylated tryptamine.
 

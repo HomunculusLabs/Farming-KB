@@ -15,7 +15,7 @@ The simplest and cheapest season extension structure:
 - **Width:** 24-48 inches, covering one or two rows
 - **Frame:** 9-gauge galvanized wire hoops, PVC pipe, or fiberglass rods bent into arches, spaced 3-5 feet apart
 - **Cover:** Floating row cover fabric (spun-bonded polypropylene) or clear polyethylene film
-- **Anchoring:** Bury the edges of the cover in soil, or use sandbags, earth staples, or clips
+- **Anchoring:** Bury the edges of the cover [[singh-fungal-interactions-with-heavy-metals-in-soil]], or use sandbags, earth staples, or clips
 - **Cost:** Very low — $20-50 for a 50-foot row
 - **Season extension:** 2-4 weeks in spring and fall
 - **Best for:** Early spring greens, fall lettuce, protecting seedlings from frost, insect exclusion
@@ -27,9 +27,9 @@ Larger, walk-in structures:
 - **Frame:** Galvanized steel tubing (most common), PVC pipe, or wood arches
 - **Cover:** 6-mil greenhouse polyethylene film (UV-stabilized), typically replaced every 4-6 years
 - **Anchoring:** Posts driven into the ground (ground posts), or baseboards anchored to a foundation
-- **Cost:** $500-5,000+ depending on size and materials
+- **Cost:** $500-5,000+ depending on size [[mollison-tropical-mulch-systems-and-materials]]
 - **Season extension:** 6-12 weeks in spring and fall; enables year-round growing in mild climates
-- **Best for:** Tomatoes, peppers, cucumbers, winter greens, seedling production, season extension for a wide range of crops
+- **Best for:** Tomatoes, peppers, cucumbers, [[coleman-mache-and-specialty-winter-greens]], [[mollison-designers-plant-nursery-seedling-production]], season extension for a wide range of crops
 ### Caterpillar Tunnels
 A hybrid between low and high tunnels:
 - **Height:** 5-7 feet at peak
@@ -52,7 +52,7 @@ A hybrid between low and high tunnels:
 4. **Anchor the edges:** Bury the excess material in soil, or secure with earth staples every 2-3 feet
 5. **Ventilation:** For row cover fabric, ventilation is generally not needed (the fabric breathes). For poly film, lift or roll up the sides on warm days.
 ### Low Tunnel Tips
-- **Row cover weights:** 0.5 oz provides light frost protection and insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
+- **Row cover weights:** 0.5 oz provides light [[coleman-season-extension-timeline-and-frost-protection]] and insect exclusion. 1.0-2.0 oz provides heavier frost protection (down to 26-28°F).
 - **Slugs:** The humid environment under low tunnels can increase slug activity — use organic slug controls.
 - **Heat management:** On sunny days, temperatures under poly film low tunnels can exceed 100°F quickly. Ventilate or switch to shade cloth in summer.
 ## High Tunnel (Hoop House) Construction

@@ -9,7 +9,7 @@ sources: []
 ---
 title: Claviceps purpurea
 type: species
-tags: [ergot, claviceps, ergot-alkaloids, lysergic-acid, parasitic-fungi]
+tags: [ergot, [[plants-of-the-gods-claviceps-ergot-alkaloids]], lysergic-acid, parasitic-fungi]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
@@ -37,7 +37,7 @@ considered *C. purpurea* sensu lato, leading to the recognition of several crypt
 
 ## Life Cycle
 
-The life cycle of *C. purpurea* involves three distinct phases spanning two growing seasons:
+The [[growing-gourmet-black-morel-sclerotia-life-cycle]] of *C. purpurea* involves three distinct phases spanning two [[solomon-climate-zones-and-growing-seasons]]:
 
 ### Sphacelial Phase (Summer)
 
@@ -96,7 +96,7 @@ derived and is of enormous pharmaceutical importance.
 
 These are amide derivatives of [[ergot-and-lysergic-acid-history]] with simple amino alcohols. The most
 important member is ergometrine (also called ergonovine), which is paired with its
-C-8 epimer ergometrinine. These compounds are water-soluble and are medically important
+C-8 epimer ergometrinine. These compounds are water-soluble and are [[medically-important-fungi-pathogens-opportunists]]
 as uterotonic agents.
 
 ### Ergopeptine Alkaloids (Lipid-Soluble Peptide Alkaloids)
@@ -108,7 +108,7 @@ These compounds are lipid-soluble and have potent vasoconstrictive, uterotonic, 
 neuroreceptor activity.
 
 The total alkaloid content of ergot sclerotia typically ranges from 0.15% to 0.5% by dry
-weight, depending on the host plant, fungal strain, and growing conditions. The ratio of
+weight, depending on the host plant, fungal strain, [[holzer-stone-fruit-varieties-and-growing]] conditions. The ratio of
 individual alkaloids varies considerably among strains.
 
 ## Historical Significance: Ergotism

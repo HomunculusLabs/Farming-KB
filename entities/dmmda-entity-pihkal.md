@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DMMDA
 
-PIHKAL entry #58. 2,5-DIMETHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
+[[al-pihkal-entry-2]] #58. 2,5-DIMETHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -29,7 +29,7 @@ PIHKAL entry #58. 2,5-DIMETHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
 >
 > hour and a quarter, and I was hit with nausea with no particular
 > warning. I am shaky, a little dilated in the eyes, and there is a
-> modest depersonalization (reminding me of LSD). Time might be
+> modest depersonalization (reminding me [[mckenna-discovery-and-impact-of-lsd]]). Time might be
 > slightly slowed, and there is a mild ataxia in the legs. A couple of
 > hours later, all effects are going away fast. I ate an apple, but
 > maybe my mouth didn't work quite right. The apple was incredibly
@@ -58,7 +58,7 @@ PIHKAL entry #58. 2,5-DIMETHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
 
 DMMDA was the first of the tetraoxygenated amphetamine derivatmescaline was ever explored in man, back in 1962. And it is not easy to find an acceptable single phrase to describe its action or an acceptable number to describe its potency. I have put the value of 10 mescaline units (M.U.) into the literature and this would imply that maybe 30 milligrams was an active dose. This is probably too low, and some day I would like to run an experiment with the entire research group with this compound to see just what it really does.
 
-The essential oil that corresponds to DMMDA is, of course, apiole from the Oil of Parsley, which again ties together the spice world and the amphetamine world. And there is isoapiole, also a natural thing. This pair represents the ring-substitution pattern of one of the ten essential oils and DMMDA is one of the ten essential amphetamines.
+The essential oil that corresponds to DMMDA is, of course, apiole from the Oil of Parsley, which again ties together the spice world and the amphetamine world. And there is isoapiole, also a natural thing. This pair represents the ring-substitution pattern of one of the ten essential oils and DMMDA is one of the ten [[essential-amphetamines-and-natural-precursors]].
 
 Several people have asked me what I thought about the potential activity of a compound with a methyl group added to DMMDA. One of these possibilities would be the N-methylated derivative, 2,5-dimethoxy-N-methyl-3,4-methylenedioxyamphetamine, or METHYL-DMMDA (or DMMDMA for the dimethoxy-methylenedioxy-methamphetamine nomenclature). It is a MDMA analogue, and is described in the recipe for METHYL-MMDA-2.
 
@@ -70,7 +70,7 @@ The only other beta-methyl homologue of an active material that was explored che
 
 ## Synthesis
 
-Apiole, as the crystalline essential oil 1-allyl-2,5-dimethoxy-3,4-methylenedioxybenzene, is isolated directly from commercial Oil of Parsley, by careful fractional distillation. It is the fraction that boils at 165-167 deg C at 27 mm/Hg. A solution of 19.8 g apiole in a mixture of 43 g KOH and 60 mL hot EtOH was heated in the steam bath for 24 h. With vigorous stirring, it was diluted with H2O, at a rate which the crystals that formed spontaneously could accumulate from the turbidity that was generated. When no more H2O could be added (there was persistent oiling out of material) the reaction mixture was filtered to give 12.1 g of an amber solid material. This was recrystallized from 20 mL boiling hexane, which was filtered while hot to remove insolubles. From the cooled filtrate, there was obtained 9.3 g of 2,5-dimethoxy-3,4-methylenedioxy-1-propenylbenzene, isoapiole, as pale cream-colored solids.
+Apiole, as the crystalline essential oil 1-allyl-2,5-dimethoxy-3,4-methylenedioxybenzene, is isolated directly from commercial Oil of Parsley, by careful [[cannabis-advanced-refinement-fractional-distillation]]. It is the fraction that boils at 165-167 deg C at 27 mm/Hg. A solution of 19.8 g apiole in a mixture of 43 g KOH and 60 mL hot EtOH was heated in the steam bath for 24 h. With vigorous stirring, it was diluted with H2O, at a rate which the crystals that formed spontaneously could accumulate from the turbidity that was generated. When no more H2O could be added (there was persistent oiling out of material) the reaction mixture was filtered to give 12.1 g of an amber solid material. This was recrystallized from 20 mL boiling hexane, which was filtered while hot to remove insolubles. From the cooled filtrate, there was obtained 9.3 g of 2,5-dimethoxy-3,4-methylenedioxy-1-propenylbenzene, isoapiole, as pale cream-colored solids.
 
 A stirred solution of 8.8 g 2,5-dimethoxy-3,4-methylenedioxy-1-propenylbenzene and 3.9 g pyridine in 45 mL acetone was cooled to ice-bath temperatures, and treated with 7.9 g tetranitromethane. This extremely dark reac-tion was stirred at 0 deg C for 5 min, then quenched with a solution of 2.6 g KOH in 45 mL H2O. With continued stirring, there appeared yellow crystals of 1-(2,5-dimethoxy-3,4-methylenedioxyphenyl)-2-nitropropene which, after filtering, washing with 50% acetone and air drying, weighed 8.0 g and had a mp of 110-111 deg C.
 
@@ -78,8 +78,7 @@ To a well-stirred and gently refluxing suspension of 6.3 g LAH in 500 mL anhydro
 
 ## Safety Notes
 
-DMMDA is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+DMMDA is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

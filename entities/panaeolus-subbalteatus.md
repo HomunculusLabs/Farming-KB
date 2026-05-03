@@ -25,7 +25,7 @@ The taxonomic history of this species is complex. Many field guides and mycologi
 
 ## Distribution and Habitat
 
-*Panaeolus subbalteatus* has a remarkably wide distribution, far exceeding that of most psilocybin mushrooms:
+*Panaeolus subbalteatus* has a remarkably wide distribution, far exceeding that of most [[psilocybin-mushrooms]]:
 
 - **North America:** Throughout the continental United States and southern Canada, especially the Pacific Northwest, Great Plains, and Gulf Coast
 - **Europe:** Widespread across western and central Europe
@@ -68,7 +68,7 @@ The genus *Panaeolus* contains many species, most of which are inactive. Key dis
 - **Habitat on enriched soil:** Unlike many inactive lawn mushrooms
 
 Potentially confusing species includepanaeolus-acuminatusnisecii** (the "haymaker's mushroom"): Very similar appearance, smaller, grows in similar habitats. *P. foenisecii* is generally considered inactive or weakly active. It tends to have a more reddish-brown cap and smaller spores.
-- **Panaeolus acuminatus:** Slender, smaller species with a more pointed cap. Inactive.
+- **[[panaeolus-acuminatus]]:** Slender, smaller species with a more pointed cap. Inactive.
 - **Psathyrella species:** Many small brown lawn mushrooms resemble *Panaeolus* but have different spore colors and gill attachments.
 - **Coprinus species:** Ink caps share the habitat but deliquesce (dissolve into ink) as spores mature.
 

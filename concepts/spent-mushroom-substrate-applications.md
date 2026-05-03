@@ -11,7 +11,7 @@ sources: [cotter-organic-mushroom-farming-mycoremediation.md, unknown-oyster-mus
 ## Overview
 
 Spent mushroom substrate (SMS) is the residual organic material remaining after
-mushroom cultivation has been completed and all harvestable fruiting bodies have
+[[mushroom-cultivation]] has been completed and all harvestable fruiting bodies have
 been collected. Far from being waste, SMS represents a valuable resource with
 multiple agricultural, environmental, and economic applications. The substrate,
 typically composed of straw, sawdust, or composted agricultural materials, has
@@ -68,7 +68,7 @@ amendment suitable for organic farming operations.
 
 Spent substrate from mushroom cultivation retains biological activity that can
 be harnessed for mycoremediation strategies using edible fungi. Residual
-ligninolytic enzymes in SMS from white-rot fungal cultivation continue to
+[[ligninolytic-enzymes]] in SMS from white-rot fungal cultivation continue to
 degrade organic pollutants when the spent material is applied to contaminated
 soils. This passive bioremediation approach extends the environmental benefits
 of mushroom cultivation beyond food production into ecological restoration.

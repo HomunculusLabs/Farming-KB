@@ -50,7 +50,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 
 ### Fruit and Nut Trees
 - Carya illinoensis (Pecan)
-- Ceratonia siliqua (Carob) -- recovers
+- [[ceratonia-siliqua]] (Carob) -- recovers
 - Castanea sativa (Sweet Chestnut)
 - Fortunella japonica (Round Kumquat) -- recovers
 - Juglans regia (Persian Walnut)
@@ -59,7 +59,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Ginkgo biloba
 
 ### Other Notable Trees
-- Robinia pseudoacacia (Black Locust)
+- [[robinia-pseudoacacia]] (Black Locust)
 - Salix spp. (Willows)
 - Populus alba (White Poplar) -- recovers
 - Platanus acerifolia (London Plane)

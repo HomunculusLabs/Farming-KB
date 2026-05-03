@@ -13,7 +13,7 @@ ways in which plants sense and respond to mechanical stimulation. The scientific
 term for this is **thigmomorphogenesis**, derived from the Greek *thigma*
 (touch), *morphe* (shape), and *genesis* (origin). Plants constantly monitor
 mechanical forces in their environment, from gentle breezes to herbivore bites,
-and alter their growth and development in response.
+and alter their growth [[cannabis-trichome-types-and-development]] in response.
 
 ## The Sense of Touch in Plants
 
@@ -25,7 +25,7 @@ calcium ions to flood into the cell, initiating a signalling cascade that
 ultimately changes gene expression. This process is remarkably fast and can
 occur within milliseconds of the stimulus.
 
-The most famous example of rapid touch response in plants is the sensitive
+The most famous example of rapid touch response [[diffusion-osmosis-and-active-transport-in-plants]] is the sensitive
 plant (*Mimosa pudica*). When touched, its leaflets rapidly fold inward and
 the petiole droops, a response called seismonasty. This movement is driven by
 a sudden loss of turgor pressure in specialised cells called pulvini at the
@@ -52,11 +52,11 @@ mechanosensory system.
 
 The biochemical pathway involves several key steps. Mechanical stimulation
 activates mechanosensitive channels, leading to calcium influx. This calcium
-signal triggers the production of reactive oxygen species and activates
+signal triggers the production of [[reactive-oxygen-species-and-oxidative-stress]] and activates
 calcium-dependent protein kinases. These kinases phosphorylate transcription
 factors that alter the expression of genes involved in cell wall modification
 and hormone metabolism. In particular, genes encoding enzymes that stiffen
-cell walls, such as those in the lignin and cellulose biosynthesis pathways,
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]], such as those in the lignin and cellulose biosynthesis pathways,
 are upregulated.
 
 The plant hormone jasmonic acid plays a central role in thigmomorphogenesis.
@@ -125,7 +125,7 @@ commercially to reduce lodging (stem breakage) in crops. Greenhouse-grown
 plants, which experience less wind than field-grown plants, are often
 mechanically stimulated to produce stronger stems.
 
-Understanding plant touch responses also informs pest management. Some insect
+Understanding plant touch responses also informs [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. Some insect
 herbivores have evolved to minimise the mechanical cues they create when
 feeding, reducing the plant's ability to detect and respond to the attack.
 Conversely, breeding crops with enhanced mechanosensory capabilities could

@@ -45,9 +45,9 @@ Despite their morphological similarity, genetic and molecular analyses consisten
 *Sac paradoxus* occupies natural ecological niches that contrast with the human-associated habitats of *S. cerevisiae*:
 
 - **Tree Bark:** The primary natural habitat is the bark of deciduous trees, particularly oak (*Quercus* spp.), beech (*Fagus* spp.), and birch (*Betula* spp.). Bark provides a stable substrate with nutrient inputs from sap fluxes, insect honeydew, and atmospheric deposition
-- **Soil:** Isolated from forest soils, particularly in association with decaying leaf litter and woody debris beneath host trees
+- **Soil:** Isolated from forest soils, particularly in association with decaying leaf litter and [[fungal-diversity-leaf-litter-coarse-woody-debris]] beneath host trees
 - **Exudates and Sap:** Found in tree sap fluxes, where sugars and other nutrients support yeast growth
-- **Insect Associations:** Can be isolated from the guts of insects feeding on tree sap or fruit, particularly bark beetles and other wood-associated insects
+- **Insect Associations:** Can be isolated from the guts of insects feeding on tree sap or fruit, particularly [[dighton-fungus-cultivation-ants-termites-bark-beetles]] and other wood-associated insects
 - **Fruit:** Occasionally found on wild fruits, particularly those growing near host trees
 - **Geographic Distribution:** Found in temperate forests of the Northern Hemisphere, including North America (eastern North America, the Pacific Northwest), Europe, and East Asia. Strains from different continents show significant genetic differentiation
 
@@ -71,7 +71,7 @@ Molecular studies using multilocus sequence typing (MLST) have identified distin
 - **Chromosomal Rearrangements:** Differences in chromosome number and arrangement between the two species contribute to hybrid sterility
 
 ### Speciation Studies
-*S. paradoxus* has been used to investigate the mechanisms of speciation in fungi:
+*S. paradoxus* has been used to investigate the mechanisms of speciation [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]]:
 
 - **Ecological Speciation:** Evidence suggests that adaptation to different ecological niches (natural vs. anthropogenic) drives reproductive isolation
 - **Chromosomal Speciation:** Inversions and translocations contribute to reproductive isolation by reducing recombination in hybrids
@@ -81,8 +81,8 @@ Molecular studies using multilocus sequence typing (MLST) have identified distin
 
 Key differences between *S. paradoxus* and *S. cerevisiae* highlight the effects of domestication:
 
-- **Ecological Niche:** *S. paradoxus* is a wild organism adapted to forest ecosystems, while *S. cerevisiae* is adapted to human-associated fermentation environments
-- **Stress Tolerance:** *S. cerevisiae* shows enhanced tolerance to ethanol, osmotic stress, and other fermentation-related stresses, reflecting selection during domestication
+- **Ecological Niche:** *S. paradoxus* is a wild organism adapted to [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], while *S. cerevisiae* is adapted to human-associated fermentation environments
+- **[[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]:** *S. cerevisiae* shows enhanced tolerance to ethanol, osmotic stress, and other fermentation-related stresses, reflecting selection during domestication
 - **Sugar Utilization:** *S. cerevisiae* has a broader range of sugar transporters and metabolic capabilities optimized for fruit and grain fermentation
 - **Ploidy:** Natural populations of *S. paradoxus* are predominantly haploid, while domesticated *S. cerevisiae* strains are often diploid or polyploid
 - **Population Structure:** *S. paradoxus* populations show strong geographic structure, while *S. cerevisiae* populations reflect human migration and trade patterns

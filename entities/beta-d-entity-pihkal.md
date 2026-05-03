@@ -51,8 +51,8 @@ PIHKAL entry #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
 > the past, the unbridled passion to vanquish everything. I could see
 > how such misguided power could lead nations to war. Wanting still
 > more power, I was about to find out if God would grant me the power to
-> destroy the world if I wished it, when I felt a gentle kiss on my
-> brow. My wife had leaned over just in time to save the world.
+> destroy [[hallucinogenic-plants-of-the-world]] if I wished it, when I felt a gentle kiss on my
+> brow. My wife had leaned over just [[permaculture-cycles-and-niches-in-time]] to save the world.
 >
 > (with 275 mg) Never had I had such a magnificent appreciation of God.
 > It was clear that if I minded my business and turned to Him to learn
@@ -90,7 +90,7 @@ PIHKAL entry #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
 > in which it is possible to seriously consider trying to rise twomescaline above the floor and skim, as I do so expertly in dreams. As a
 > matter of fact I haven't had those dreams for some time now. This
 > material doesn't allow the straddling of realities as does ordinary
-> mescaline. I know where my realities are, and reality is, basically,
+> mescaline. I know where my realities are, [[mckenna-language-and-reality]] is, basically,
 > where my center is. Thus I am grounded in the physical reality even
 > when the doors are open to non-physical levels.
 >
@@ -101,7 +101,7 @@ The 4-D and the beta-D are two of five obvious deuterium isomer derivatives of m
 
 The last compound, a-D, could be quite a different matter. The principal metabolite of mescaline is 3,4,5-trimethoxyphenylacetic acid, and this product requires enzymatic attack at the exact position where the deuteriums will be located. To the extent that they are harder to remove (come off more slowly or to a lesser degree), to that extent the molecule will be more potent in man, and the dosage required for effects will be less. The compound will be easily made by the reduction of 3,4,5-trimethoxyphenylacetonitrile with lithium
 
-aluminum deuteride. And if there is a believable difference between a-D and mescaline, it will be necessary to synthesize each of the two optically active a-mono-deutero analogs. That will be quite a challenge.
+aluminum deuteride. And if there is a believable difference between a-D [[schultes-peyote-and-mescaline]], it will be necessary to synthesize each of the two optically active a-mono-deutero analogs. That will be quite a challenge.
 
 Some years ago I performed a fascinating series of experiments with another isotopically labeled mescaline derivative. This was beta-14C labeled material, which I self-administered on three occasions, at three different levels. One dosage was with 350 milligrams, a second a few weeks later was with 4 milligrams, and a third was a few weeks later yet, with about 60 micrograms. In each case, exactly the same absolute quantity of radioactivity was administered, so the metabolic distribution was equally visible. Only the weight dosage was different. Urinary analysis was run for each experiment for the presence of unchanged mescaline, and for the primary metabolite, 3,4,5-trimethoxyphenylacetic acid. The smaller the dosage, the proportionately larger amount of mescaline was oxidized to the inactive acetic acid, and the smaller amount was excreted in an unchanged state. It seemed to me that there might be a finite capacity of the body to oxidatively deaminate mescaline, and at larger and larger dosages, this capacity became increasingly depleted. Perhaps this is why mescaline requires such a large dosage to be effective in man.
 
@@ -119,8 +119,7 @@ which was distilled at 120-130 deg C at 0.3 mm/Hg to p...
 
 ## Safety Notes
 
-beta-D is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+beta-D is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

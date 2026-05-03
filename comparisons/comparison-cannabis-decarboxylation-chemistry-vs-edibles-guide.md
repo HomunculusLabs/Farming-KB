@@ -74,7 +74,7 @@ cannabinoid content per serving based on starting material potency and infusion 
 | Aspect | Decarboxylation Chemistry | Edibles Guide |
 |--------|--------------------------|---------------|
 | Primary focus | Chemical reaction and optimization | Practical kitchen application |
-| Depth of science | Detailed molecular-level explanation | Basic, sufficient for cooking |
+| Depth [[neo-shamanic-phenomenology-and-limits-of-science]] | Detailed molecular-level explanation | Basic, sufficient for cooking |
 | Scope | Single reaction (decarboxylation) | Full workflow from prep to consumption |
 | Temperature guidance | 110-130C optimal range | 115C (240F) practical recommendation |
 | Pharmacokinetics | Chemical conversion rates | Onset, duration, 11-hydroxy-THC effects |
@@ -93,12 +93,12 @@ The chemistry guide is also essential for producers working with CBD-dominant ma
 who need to ensure complete conversion of CBDA to CBD before further processing. The
 Beam test protocol for detecting CBD presence, covered in the chemistry guide, provides
 a practical verification method that kitchen-focused guides do not address. For anyone
-engaged in cannabis product development, quality control, or laboratory analysis, the
+engaged [[query-how-to-fix-phosphorus-deficiency-in-cannabis]] product development, quality control, or laboratory analysis, the
 detailed understanding of decarboxylation kinetics and degradation pathways is
 indispensable for consistent, reproducible results.
 ## When to Choose the Edibles Guide
 The edibles guide is the right choice for anyone who wants to make cannabis-infused food
-at home without needing to understand the underlying chemistry in depth. The practical,
+[[query-how-to-make-cannabis-tinctures-at-home]] without needing to understand the underlying chemistry in depth. The practical,
 step-by-step approach to decarboxylation, infusion, and recipe preparation makes the
 process accessible to cooks of all skill levels. The dosing guidance is particularly
 valuable for new consumers who may not be familiar with the delayed onset and prolonged
@@ -106,14 +106,14 @@ duration of orally consumed cannabis, helping them avoid the common mistake of c
 too much when effects seem slow to arrive.
 The edibles guide also serves as a creative resource for experienced cooks who want to
 expand their repertoire beyond basic cannabutter. Different infusion methods, flavor
-pairing strategies, and techniques for masking or complementing cannabis taste in food
+pairing strategies, [[natural-farming-guide-composting-methods-and-techniques]] for masking or complementing cannabis taste in food
 are covered in detail. For commercial producers, the guide provides a foundation for
 developing standardized recipes with consistent dosing, essential for regulatory
 compliance and consumer satisfaction in legal markets with strict potency labeling
 requirements.
 ## Hybrid Approaches
 The most effective approach combines both: use the decarboxylation chemistry guide to optimize
-activation with precise temperature control, then follow the edibles guide for infusion,
+activation with precise [[hamilton-greenhouse-heating-and-temperature-control]], then follow the edibles guide for infusion,
 recipes, and dosing. Understanding why decarboxylation matters chemically helps
 troubleshoot problems like weak potency or off-flavors, while practical kitchen guidance
 ensures the final product is palatable and consistently dosed. This combined knowledge

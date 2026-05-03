@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T-17 (NIMITZ)
 
-PIHKAL entry #48. 2,5-DIMETHOXY-4-(s)-BUTYLTHIOPHENETHYLAMINE.
+[[al-pihkal-entry-2]] #48. 2,5-DIMETHOXY-4-(s)-BUTYLTHIOPHENETHYLAMINE.
 Also known as: NIMITZ.
 
 ## Chemical Name
@@ -50,11 +50,11 @@ Also known as: NIMITZ.
 
 An interesting, and quite logical, habit that seems to always pop up when a lot of talk and energy become directed at a specific compound, is the habit of using a nickname for it. The Tweetios are an example, and in the 2C-T-X family I had mentioned the term SESQUI. Here, this compound was called NIMITZ, for the obvious reason that the major freeway from Oakland to San Jose, the Nimitz freeway, was also called State Highway 17. Its name has been changed to Interstate 880, and I guess it could now only be used as a reference point if efforts were being made for a 2C-T-880.
 
-The reason that 2C-T-17 is of special theoretic interest is that it is one of the very first of the active psychedelic compounds (along with 2C-G-5) to have a potential optically active center on the side of the ring away from the nitrogen atom. One of the oldest and best studied variants of the phenethylamine chain are the alpha-methyl homologues, the substituted amphetamines. Here there is an asymmetric carbon atom right next to the amine group, allowing the molecule to be prepared in either a right-hand way or a left-hand way. The "R" or the "S" isomer. And in the several studies that have looked at such isomers separately, it has always been the "R" isomer that has carried the psychedelic effects. This probably says something about the nitrogen end, the metabolic end, the "north" end of the receptor site that
+The reason that 2C-T-17 is of special theoretic interest is that it is one of the very first of the active [[psychedelic-compounds-reference]] (along with 2C-G-5) to have a potential optically active center on the side of the ring away from the nitrogen atom. One of the oldest and best studied variants of the [[phenethylamine-chain-length-effects]] are the alpha-methyl homologues, the substituted amphetamines. Here there is an asymmetric carbon atom right next to the amine group, allowing the molecule to be prepared in either a right-hand way or a left-hand way. The "R" or the "S" isomer. And in the several studies that have looked at such isomers separately, it has always been the "R" isomer that has carried the psychedelic effects. This probably says something about the nitrogen end, the metabolic end, the "north" end of the receptor site that
 
 recognizes these compounds, and suggests that there is some intrinsic asymmetry in the area that binds near to the basic nitrogen atom.
 
-But very little is known of the receptor's "south" end, so to speak, the geometry of the area where the opposite end of the molecule has to fit. Here, with 2-C-17, there is a secondary butyl group, and this contains an asymmetric carbon atom. But now this center of asymmetry is clear across the benzene ring from the nitrogen, and should certainly be in some entirely new part of the receptor site. Why not make this compound with the "R" and the "S" forms in this new and unusual location? Why not, indeed! Why not call them the right-lane and the left lane of the Nimitz? Fortunately, both "R" and "S" secondary butyl alcohols were easily obtained, and the synthesis given above for the racemic compound was paralleled for each of these isomers, separately. Is there any chemistry that is different with the specific optical isomers from that which has been reported with the racemic? There certainly is for the first step, since the butyl alcohols rather than the butyl bromides must be used, and this first step must go by inversion, and it cannot be allowed any racemization (loss of the optical purity of the chiral center).
+But very little is known of the receptor's "south" end, so to speak, the geometry of the area where the opposite end of the molecule has to fit. Here, with 2-C-17, there is a secondary butyl group, and this contains an asymmetric carbon atom. But now this center of asymmetry is clear across the benzene ring from the nitrogen, and should certainly be in some entirely new part of the receptor site. Why not make this compound with the "R" and the "S" forms in this new and unusual location? Why not, indeed! Why not call them the right-lane and the left lane of the Nimitz? Fortunately, both "R" and "S" secondary butyl alcohols were easily obtained, and the synthesis given above for the racemic compound was paralleled for each of these isomers, separately. Is there any chemistry that is different with the specific [[optical-isomers-psychedelic-phenethylamines]] from that which has been reported with the racemic? There certainly is for the first step, since the butyl alcohols rather than the butyl bromides must be used, and this first step must go by inversion, and it cannot be allowed any racemization (loss of the optical purity of the chiral center).
 
 The synthesis of 2C-T-17 "R" required starting with the "S" isomer of secondary butanol. The "S" 2-butanol in petroleum ether gave the lithium salt with butyllithium which was treated with tosyl chloride (freshly crystallized from naphtha, hexane washed, used in toluene solution) and the solvent was removed. The addition of 2,5-dimethoxythiophenol, anhydrous potassium carbonate, and DMF produced "S"-2,5-dimethoxyphenyl s-butyl sulfide. The conversion to "R"-2,5-dimethoxy-4-(s-butyl-thio)benzaldehyde (which melted at 78-79 deg C compared to 86-87 deg C for the racemic counterpart) and its conversion in turn to the nitrostyrene, "S"-2,5-dimethoxy-4-(s)-butylthio-beta-nitrostyrene which melted at 70-71 deg C compared to 68-69 deg C for the racemic counterpart, followed the specific recipes above. The preparation of the intermediates to 2C-T-17 "S" follows the above precisely, but starting with "R" 2-butanol instead. And it is at these nitrostyrene stages that this project stands at the moment.
 
@@ -78,8 +78,7 @@ A solution of LAH (120 mL of a 1 M solution in THF) was cooled, under He, to 0 d
 
 ## Safety Notes
 
-2C-T-17 is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
+2C-T-17 is a research chemical documented in PIHKAL. Dosage data [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also

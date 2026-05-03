@@ -11,10 +11,10 @@ sources:
 # Datura candida
 **Datura candida** (white angel's trumpet) is a perennial shrub or small tree
 in the nightshade family (Solanaceae), native to the Andean regions of
-South America. It is one of the so-called "tree daturas" or "angel's
+[[gartz-magic-mushrooms-species-south-america]]. It is one of the so-called "[[tree-daturas-brugmansia-south-american-ethnobotany]]" or "angel's
 trumpets," a group of species within the genus *Datura* characterized by
 their large, pendant, trumpet-shaped flowers and woody growth habit. Like
-all Datura species, *D. candida* contains potent tropane [[psychedelic-mushroom-dosage-guide|alkaloid]]s and has
+all Datura species, *D. candida* contains potent tropane alkaloids and has
 a long history of use and misuse as a hallucinogen, medicine, and
 ceremonial plant in indigenous South American cultures.
 
@@ -22,7 +22,7 @@ ceremonial plant in indigenous South American cultures.
 
 *Datura candida* is a fast-growing, woody perennial that can reach 2 to 5
 meters in height under favorable conditions, occasionally attaining heights
-of 8 meters in cultivation. The stems are semi-woody, branching freely, and
+of 8 meters [[mushroom-mites-and-nematodes-in-cultivation]]. The stems are semi-woody, branching freely, and
 covered with a fine pubescence. The leaves are large (15 to 30 cm long and
 8 to 18 cm wide), ovate to elliptic, with entire or slightly toothed margins,
 a velvety upper surface, and soft pubescence on the underside.
@@ -71,8 +71,7 @@ near human settlements, and in cloud forest margins. The plant prefers
 moist, well-drained, fertile soils in positions with full sun or partial
 shade.
 The species has been widely cultivated and naturalized outside its native
-range in tropical and subtropical regions worldwide, including Central
-America, the Caribbean, Hawaii, parts of Africa, South and Southeast Asia,
+range in tropical and subtropical regions worldwide, including [[guzman-psilocybin-mushrooms-mexico-central-america]], the Caribbean, Hawaii, parts of Africa, South and Southeast Asia,
 and Australia. It is valued in horticulture for its spectacular, fragrant
 flowers and has escaped cultivation in many areas to become established in
 the wild.
@@ -108,7 +107,7 @@ potentially millennia. Their uses span several distinct categories:
 In Andean ethnobotany, tree daturas are among the most important visionary
 plants. They are employed by shamans (curanderos) in healing rituals,
 divination, and ceremonies designed to communicate with the spirit world.
-Preparation methods vary but include brewing the leaves into a tea
+[[gottlieb-peyote-extraction-and-preparation-methods]] vary but include brewing the leaves into a tea
 (cimora), smoking dried leaf material, or incorporating the plant into
 more complex entheogenic preparations.
 The effects of tree datura intoxication are typically characterized by

@@ -12,8 +12,6 @@ sources:
 
 From [[solomon-gardening-when-it-counts-index]] by Steve Solomon.
 
-
-
 ## The Science of Seed Longevity
 
 Seed storage life is governed by two interacting factors: temperature and moisture content. The rules are:
@@ -30,8 +28,6 @@ Examples of the multiplier effect:
 - Seeds on a closet shelf in a dry, cool bedroom: probably last longer than standard
 - 50 degrees F and 50% relative humidity (drying seed to ~10% moisture): seed lasts **four times** as long as standard
 
-
-
 ## What Shortens Seed Life
 
 - High temperature (most common problem)
@@ -41,13 +37,9 @@ Examples of the multiplier effect:
 - Seed that was rained on during field drying
 - Seed grown on infertile soil (less food reserve in embryo)
 
-
-
 ## Professional Seed Storage
 
 When Solomon ran Territorial Seed Company, he built a climate-controlled storeroom holding seed at 50 degrees F (10 degrees C) with 50% relative humidity. At this RH, seeds dried to about 10% moisture, lasting four times longer than standard conditions. Johnny's Selected Seeds and Park Seed Company do this as well.
-
-
 
 ## DIY Seed Storage at Home
 
@@ -65,8 +57,6 @@ When Solomon ran Territorial Seed Company, he built a climate-controlled storero
 ### Solomon's practice
 He keeps his large plastic tub in the refrigerator, claiming half a shelf. He notes this took negotiation with his partner. A root cellar is the next best option. Least ideal: an unheated room in winter and the coolest place available in summer (such as under the house).
 
-
-
 ## Understanding Purchased Seed's History
 
 There is always more uncertainty about the storage life of seeds you purchase than those you grow yourself. Consider:
@@ -77,8 +67,6 @@ There is always more uncertainty about the storage life of seeds you purchase th
 - Was the seed production field adequately fertile?
 
 When you grow your own seed, you know a lot more about its history.
-
-
 
 ## Related
 - [[solomon-seed-quality-and-germination-testing]]

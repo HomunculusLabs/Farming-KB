@@ -9,7 +9,7 @@ sources: []
 
 # Solar Dehydrator Plans
 
-A solar food dehydrator uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader.
+A solar food dehydrator uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for [[comparison-root-cellaring-vs-food-dehydration]] — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader.
 
 ## Design Principles
 
@@ -22,7 +22,7 @@ The key design variables are:
 - **Collector area** — determines how much solar energy is captured. Larger area = higher temperatures and faster drying.
 - **Airflow path** — must be smooth and unrestricted. Any bottleneck reduces performance.
 - **Insulation** — reduces heat loss, especially on cloudy days and in cool climates.
-- **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow temperature control.
+- **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow [[hamilton-greenhouse-heating-and-temperature-control]].
 
 ## The Indirect Solar Dehydrator (Recommended Design)
 
@@ -69,7 +69,7 @@ Rule of thumb: you need approximately 1 square foot of collector area per square
 
 - **Target range**: 110-140F for most fruits and vegetables
 - **Herbs**: 90-100F (lower temperature preserves volatile oils and color)
-- **Meats (jerky)**: 145-160F (higher temperature for food safety)
+- **Meats (jerky)**: 145-160F (higher temperature for [[ingham-coli-compost-tea-food-safety]])
 - **On cool or cloudy days**, temperatures will be lower. Supplement with a small fan or accept longer drying times.
 - **On very hot days**, partially close the bottom intake vent to reduce airflow and prevent overheating.
 - Place a thermometer in the drying chamber near the top tray (hottest point) and one near the bottom (coolest point).
@@ -84,7 +84,7 @@ Rule of thumb: you need approximately 1 square foot of collector area per square
 
 ## Drying Times
 
-Drying times vary by food, thickness, humidity, and temperature. General guidelines at 120-135F:
+Drying times vary by food, thickness, humidity, [[cuthill-mushroom-growing-seasons-and-temperature]]. General guidelines at 120-135F:
 
 - Herbs: 2-6 hours
 - Fruit leather: 6-12 hours
@@ -96,7 +96,7 @@ Food is properly dried when it is leathery and pliable (fruits), brittle and cri
 
 ## Storage
 
-Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[emergency-preparedness]] for long-term food storage strategies.
+Condition dried foods before storage: place in jars, seal, and shake daily for 7-10 days. If condensation appears inside the jar, the food needs more drying. Once conditioned, store in airtight containers in a cool, dark place. Properly dehydrated foods keep for 6-12 months. For longer storage, use oxygen absorbers in mason jars or vacuum seal bags. See [[emergency-preparedness]] for long-term [[root-cellaring-and-no-energy-food-storage]] strategies.
 
 ## Maintenance
 

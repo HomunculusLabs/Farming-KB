@@ -25,8 +25,8 @@ fungal bioremediation in soil systems.
 ## Fungal Growth in Soil
 
 Soil is not the natural habitat for many fungi used in bioremediation,
-most of which are wood-decay organisms. White rot fungi such as
-Phanerochaete chrysosporium, which naturally colonize dead wood, may
+most of which are wood-decay organisms. [[white-rot-fungi]] such as
+[[phanerochaete-chrysosporium]], which naturally colonize dead wood, may
 require soil conditions to be altered to encourage their growth. Soil
 physicochemical factors including pH, moisture content, temperature,
 and nutrient availability dramatically affect pollutant transformation

@@ -53,7 +53,7 @@ Common genera with white spores:
 - **Lepiota**: Parasol mushrooms; some deadly (L. brunneoincarnata)
 - **Tricholoma**: Many species including matsutake (T. matsutake)
 - **Pleurotus**: Oyster mushrooms (P. ostreatus)
-- **Volvariella**: Paddy straw mushroom (V. volvacea)
+- **Volvariella**: [[paddy-straw-mushroom]] (V. volvacea)
 - **Marasmius**: Marasmius oreades (fairy ring mushroom)
 - **Lycoperdon**: Puffballs (when mature and releasing spores)
 
@@ -97,7 +97,7 @@ The largest group of gilled mushrooms:
 - **Gymnopilus**: Some species contain psilocybin
 - **Pholiota**: Scaly caps, often on wood
 - **Inocybe**: Many species are toxic (muscarine)
-- **Paxillus**: Paxillus involutus (poisonous, causes autoimmune hemolysis)
+- **Paxillus**: [[paxillus-involutus]] (poisonous, causes autoimmune hemolysis)
 
 ### Buff / Pale Yellow Spore Print
 

@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Mushroom Spawn Preparation
 
-Spawn is the living fungal inoculum used to start mushroom cultivation. It
+Spawn is the living fungal inoculum used to start [[mushroom-cultivation]]. It
 consists of a carrier material (usually grain) fully colonized by the
 mushroom mycelium. Spawn quality directly determines colonization speed,
 contamination resistance, and ultimately crop yield. The entire cultivation
@@ -85,7 +85,7 @@ Grain is hydrated and partially cooked to achieve a moisture content of
 6. Add filters: jars need polyfill, micropore tape, or specialized lids
    with filter patches. Bags need built-in filter patches rated 0.2--0.5 µm.
 7. Sterilize at 121°C (15 psi) for 60--90 minutes. The larger the vessel,
-   the longer the sterilization time required to ensure core temperature
+   the longer the [[sterilization]] time required to ensure core temperature
    is reached.
 
 ### 3. Inoculation

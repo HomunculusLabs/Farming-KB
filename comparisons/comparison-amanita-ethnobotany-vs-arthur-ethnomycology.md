@@ -1,4 +1,5 @@
----[[amanita-muscaria]] Muscaria Ethnobotany vsmushrooms-and-mankind Mankind"
+---
+title: Amanita Muscaria Ethnobotany vs Arthur: Mushrooms and Mankind
 tags:
   - amanita-muscaria
   - ethnobotany

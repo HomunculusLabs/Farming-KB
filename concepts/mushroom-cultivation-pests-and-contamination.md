@@ -26,7 +26,7 @@ Contamination by competitor organisms and pests is the most common cause of fail
 - Most common bacterial contaminant in grain spawn
 - Causes sour, foul odor detectable through the dry vermiculite layer within 2 days of inoculation
 - Grain appears wet, slimy, or matted
-- Caused by insufficient sterilization or overly wet grain
+- Caused by insufficient [[sterilization]] or overly wet grain
 - Prevention: extend sterilization time; ensure proper grain moisture
 
 ### Pseudomonas (Bacterial Blotch and Pit)
@@ -45,7 +45,7 @@ Contamination by competitor organisms and pests is the most common cause of fail
 ### Aspergillus (Green Mold)
 - Common airborne contaminant
 - Green to yellow-green powdery colonies
-- Some species produce mycotoxins
+- Some species produce [[mycotoxins]]
 - Appears as colored growths in pastels to greens
 
 ### Penicillium (Bluish Green Mold)
@@ -97,7 +97,7 @@ Contamination by competitor organisms and pests is the most common cause of fail
 ### Actinomyces and Streptomyces (Firefang)
 - These are actually beneficial in compost -- they produce the characteristic "sweet earthy" smell of good compost
 - Appear as white, gray, or tan powdery growth in compost
-- Indicator of proper composting, not a problem
+- Indicator of proper [[composting]], not a problem
 
 ## Insect Pests (from Stamets)
 

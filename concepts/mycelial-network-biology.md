@@ -45,7 +45,7 @@ cultivation:
   susceptibility
 
 Strain selection for rhizomorphic growth is a key consideration in commercial
-spawn production. Environmental factors (CO₂ levels, temperature, substrate
+[[spawn-production]]. Environmental factors (CO₂ levels, temperature, substrate
 density) also influence morphology.
 
 ## Extracellular Enzymes and Decomposition
@@ -60,7 +60,7 @@ Fungi are primary decomposers in terrestrial ecosystems. Mycelium secretes
 - **Amylases** — hydrolyze starch into sugars
 - **Chitinases** — degrade chitin from insect exoskeletons and other fungi
 
-**White-rot fungi** (e.g., oyster mushrooms) can decompose both cellulose and
+**White-rot fungi** (e.g., [[oyster-mushrooms]]) can decompose both cellulose and
 lignin, while **brown-rot fungi** primarily target cellulose. This capability
 makes certain mushroom species valuable for **mycoremediation** — using fungi
 to degrade environmental pollutants including petroleum hydrocarbons, PAHs,

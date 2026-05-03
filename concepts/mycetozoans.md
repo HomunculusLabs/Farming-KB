@@ -17,11 +17,11 @@ updated: 2026-04-12
 
 # Mycetozoans
 
-Mycetozoans (slime molds) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
+Mycetozoans ([[teaming-with-microbes-algae-slime-molds]]) are a polyphyletic group of fungus-like protists that produce fruiting bodies and feed as predators on bacteria and other microorganisms. They comprise several distinct lineages within the Eumycetozoa and related groups.
 
 ## Overview
 
-Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("animal-fungi"), they are protists, not true fungi. They share with fungi the production of fruiting bodies bearing spores, but their trophic (feeding) stages are amoeboid, ingesting food by phagocytosis rather than absorbing nutrients osmotrophically.
+Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("animal-fungi"), they are protists, not true fungi. They share [[mycelium-running-filtering-water-with-fungi]] the production of fruiting bodies bearing spores, but their trophic (feeding) stages are amoeboid, ingesting food by phagocytosis rather than absorbing nutrients osmotrophically.
 
 ## Major Groups
 
@@ -50,7 +50,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Microhabitat specificity**: Species assemblages differ more between microhabitats than between habitats. Litter assemblages from grasslands are similar to those from forests. In tropical rainforests (Puerto Rico), the distinction between litter and aerial microhabitats is less pronounced.
 
 **Sampling predictions**:
-- Temperate/boreal forests: 50,000-ha plot may contain most known species
+- [[biodiversity-fungi-temperate-boreal-forests]]: 50,000-ha plot may contain most known species
 - Hawaiian forest sites (few hectares each) have yielded 80%+ of described species in <40 collections
 - Temperate grasslands: most species except bark/rotting wood specialists
 - Arid/desert ecosystems: fewer species, mostly litter and bark inhabitants
@@ -61,7 +61,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Diversity**: ~800 described species; ~100 described in the last 25 years
 **Key orders**: Echinosteliales, Physarales, Stemonitales, Trichiales, Liceales
 
-**Life cycle**:
+**[[growing-gourmet-black-morel-sclerotia-life-cycle]]**:
 1. Spores germinate as amoeboflagellates
 2. Amoeboflagellates feed on bacteria, then develop into plasmodia
 3. Plasmodium (feeding stage) is a multinucleate, acellular mass of protoplasm
@@ -103,7 +103,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 5. Slug transforms into fruiting body with stalk and spore mass
 6. Sexual cycle: macrocyst formation from zygotes
 
-**Distribution**: Worldwide in soil, particularly surface humus layers. Also found in litter, dung, and canopy soil of tropical rainforests. Transported by arthropods, earthworms, rodents, amphibians, and ground-feeding birds.
+**Distribution**: Worldwide [[singh-fungal-interactions-with-heavy-metals-in-soil]], particularly surface humus layers. Also found in litter, dung, and canopy soil of tropical rainforests. Transported by arthropods, earthworms, rodents, amphibians, and ground-feeding birds.
 
 **Habitat patterns**:
 - More species in forest soils than agricultural soils, grasslands, or deserts

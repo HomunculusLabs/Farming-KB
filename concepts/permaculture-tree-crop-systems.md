@@ -11,8 +11,6 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 Tree crops form the backbone of permaculture design, providing long-term yields of food, fodder, fuel, and habitat while building soil and modifying microclimate. Mollison treats tree crop systems as the successor to annual agriculture -- the stable, productive endpoint of ecological succession guided by design.
 
-
-
 ## Principles of Tree Crop Systems
 
 In permaculture, tree crops replace grain-based forage systems and field crops as the primary productive element. The rationale is both ecological and economic:
@@ -23,8 +21,6 @@ In permaculture, tree crops replace grain-based forage systems and field crops a
 - Leaf fall builds humus and cycles nutrients continuously
 - Multiple strata (canopy, understory, groundcover) multiply yields per unit area
 
-
-
 ## Multi-Strata and Successional Design
 
 Tree crop establishment follows a planned succession from pioneer species to mature productive systems:
@@ -34,8 +30,6 @@ Tree crop establishment follows a planned succession from pioneer species to mat
 3. **Mature phase**: Multi-strata system with canopy trees, understory fruit, shrub layer, herbaceous groundcovers, and root crops
 
 Nucleated planting -- establishing productive tree crop "nuclei" in degraded landscapes -- allows gradual expansion outward as each nucleus modifies its local environment.
-
-
 
 ## Integration with Livestock
 
@@ -48,8 +42,6 @@ Tree crops and animals form integrated systems:
 
 In any tropical tree crop monoculture, Mollison warns, soil fungi and specific pest problems develop. Polyculture tree systems avoid these issues.
 
-
-
 ## Key Tree Crop Categories
 
 - **Staple carbohydrate trees**: breadfruit, chestnut, oak (acorns), banana, plantain, sago palm
@@ -59,13 +51,9 @@ In any tropical tree crop monoculture, Mollison warns, soil fungi and specific p
 - **Nut trees**: walnut, pecan, almond, hazelnut, chestnut
 - **Fuel and timber**: coppice systems of fast-growing species
 
-
-
 ## Windbreak and Shelter Integration
 
 Tree crops serve as shelterbelts that modify microclimate for adjacent crops and pastures. Light-crowned leguminous trees planted in crop or pasture areas provide fodder while protecting crops from wind. Effects include increased yields in the sheltered zone, reduced evaporation, and improved animal welfare.
-
-
 
 ## Climate-Specific Strategies
 
@@ -74,13 +62,9 @@ Tree crops serve as shelterbelts that modify microclimate for adjacent crops and
 - **Temperate**: Combine deciduous fruit and nut trees with berry fruits, brambles, and pasture understory
 - **Cold climates**: Limited tree crop potential; focus on hardy fruit and nut species
 
-
-
 ## Economic Benefits
 
 A more assured income from tree crops, coupled with wider market for relatively exotic vine crops, fruits, and nuts, has driven the transition from annual cropping to perennial systems. Tree crop associations and permaculture groups provide the plant materials and knowledge needed for establishment.
-
-
 
 ## Related Concepts
 

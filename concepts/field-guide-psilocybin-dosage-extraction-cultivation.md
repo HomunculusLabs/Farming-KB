@@ -16,7 +16,7 @@ its historical context.
 
 ## Active Alkaloids
 
-All psilocybin mushrooms contain two primary psychoactive alkaloids:
+All [[psilocybin-mushrooms]] contain two primary psychoactive alkaloids:
 psilocybin and psilocin. While these occur in varying amounts
 across species, the subjective experience is essentially the same.
 The mushroom's chemical structure contains eight total alkaloids; six
@@ -69,7 +69,7 @@ preparations for overall quality of experience.
 
 The most common mushroom compost uses horse manure, wheat straw, and
 added chemicals. The wheat straw is soaked and piled with the manure.
-Microbial decomposition generates heat up to 180 degrees Fahrenheit,
+Microbial [[decomposition]] generates heat up to 180 degrees Fahrenheit,
 killing competing spores, insects, larvae, and molds. The compost is
 ready when the straw breaks into short pieces, the manure crumbles,
 and the pile takes on the smell of autumn woods. It should ball when

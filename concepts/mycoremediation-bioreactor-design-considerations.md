@@ -52,7 +52,7 @@ Fungal metabolism and metal biosorption are highly pH-dependent:
 
 ### Temperature
 - Mesophilic fungi (Trametes, Pleurotus, Phanerochaete) operate optimally at 25-30°C
-- Thermophilic fungi (Thermomyces, Myceliophthora) can be used at 40-50°C, which offers advantages for treating hot waste streams
+- [[thermophilic-fungi]] (Thermomyces, Myceliophthora) can be used at 40-50°C, which offers advantages for treating hot waste streams
 - Temperature control through heat exchangers or reactor insulation may be needed in temperate climates
 
 ### Biomass Support and Immobilization
@@ -87,7 +87,7 @@ Open bioreactor systems are susceptible to bacterial contamination, which can:
 - Sterile operation is impractical at scale; instead, design for conditions that favor fungi over bacteria (low pH, low nitrogen, high lignocellulosic carbon)
 
 ### Enzyme Stability
-Ligninolytic enzymes (laccase, manganese peroxidase, lignin peroxidase) are the primary agents of organic pollutant degradation. Their production and stability are affected by:
+[[ligninolytic-enzymes]] (laccase, manganese peroxidase, lignin peroxidase) are the primary agents of organic pollutant degradation. Their production and stability are affected by:
 - Nitrogen source and concentration (ligninolytic enzyme production is suppressed by high nitrogen)
 - Inducer compounds (veratryl alcohol, manganese, copper)
 - Temperature and pH

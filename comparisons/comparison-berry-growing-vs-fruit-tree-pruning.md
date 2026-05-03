@@ -18,11 +18,11 @@ sources: []
 
 ## Overview
 
-Berries and fruit trees represent the two main categories of perennial fruit
+Berries and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] represent the two main categories of perennial fruit
 production for the home gardener and homesteader. Berries offer quick returns on
 investment, low startup costs, and flexible planting options that fit into any
 landscape. Fruit trees provide long-term yields, greater per-plant productivity,
-and substantial food storage potential through canning, drying, and preserving.
+and substantial food storage potential through canning, drying, [[comparison-root-cellaring-guide-vs-canning-and-preserving]].
 The comparison highlights a key distinction in management intensity: berry
 growing emphasizes planting, training, and annual renovation, while fruit tree
 pruning is a precision skill that determines the health and productivity of
@@ -73,7 +73,7 @@ the most space-saving option for small gardens).
 Pruning serves multiple purposes: removing dead, diseased, and crossing branches
 that compromise tree health; opening the canopy for light penetration and air
 circulation to improve fruit quality and reduce disease; controlling tree size
-for easier harvesting and management; and stimulating new fruiting wood on
+for easier harvesting [[mollison-tropical-pasture-grass-species-selection-and-management]]; and stimulating new fruiting wood on
 species that fruit on 1-year-old growth. Timing matters significantly. Dormant
 pruning (late winter before bud break) is the standard for most trees,
 encouraging vigorous regrowth. Summer pruning (after fruit set, typically
@@ -131,14 +131,14 @@ hundreds of pounds of fruit annually, providing fresh eating, canning, drying,
 pressing into cider, and storing for winter. Fruit trees also provide ecosystem
 services including summer shade, windbreaks, wildlife habitat, and landscape
 beauty. The pruning knowledge transfers to ornamental tree care and is a
-valuable homesteading skill that cannot be easily hired out at small scale.
+valuable homesteading skill that cannot be easily hired out at [[holmgren-gigantism-intermediate-technology-and-small-scale]].
 Orchard trees become a legacy asset that increases property value and food
 production capacity over time.
 
 ## Hybrid Approaches
 
 The most productive homestead integrates both berries and fruit trees in a
-layered food forest or orchard design. Plant fruit trees as the upper canopy and
+layered [[mollison-designers-climate-zone-2-orchard-food-forest]] or [[comparison-food-forest-design-vs-backyard-orchard-design]]. Plant fruit trees as the upper canopy and
 berries as the understory. Brambles can be trained along the perimeter of
 orchard rows, using the fence or a simple wire trellis as support. Strawberries
 serve as a living mulch under young fruit trees, producing fruit while
@@ -147,7 +147,3 @@ partial-shade edges of the orchard where fruit trees cast afternoon shadows.
 This layered approach maximizes food production per square foot and creates a
 resilient, diversified perennial fruit production system that produces from June
 (strawberries) through November (late apples and elderberries).
-
-## See Also
-
-- [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]

@@ -5,8 +5,6 @@ ti
 
 Voles are among the most damaging garden pests, capable of destroying root crops, fruit trees, and garden beds through their tunneling and feeding. [[sepp-holzer]] addresses vole control as part of his integrated approach to working with nature rather than declaring war on individual species.
 
-
-
 ## Encouraging Natural Predators
 
 The primary method of vole control is encouraging natural predators rather than relying solely on trapping. Key predator allies include:
@@ -18,8 +16,6 @@ The primary method of vole control is encouraging natural predators rather than 
 
 Holzer emphasizes that a healthy ecosystem with diverse predator populations keeps vole numbers in check naturally. Eliminating all predators creates the conditions for vole population explosions.
 
-
-
 ## Trapping Methods
 
 When voles exceed tolerable levels, trapping is recommended over poisoning:
@@ -29,8 +25,6 @@ When voles exceed tolerable levels, trapping is recommended over poisoning:
 - **Timing**: Trap in autumn and early spring when food is scarce and voles are most active near the surface.
 - **Cover traps** with boards or stones to create dark, enclosed spaces voles will enter willingly.
 
-
-
 ## Habitat Management
 
 - Keep grass mowed short near vulnerable plantings to reduce cover for voles.
@@ -38,20 +32,14 @@ When voles exceed tolerable levels, trapping is recommended over poisoning:
 - Maintain firm soil surfaces -- voles prefer loose, workable soil for tunneling.
 - Remove weed thickets and dense ground cover that provide vole habitat adjacent to gardens.
 
-
-
 ## Exclusion Methods
 
 - **Wire mesh guards** around tree roots and trunk bases (buried 10-15 cm below ground) prevent voles from girdling trees.
 - **Gravel barriers** in garden beds can deter tunneling into root crop areas.
 
-
-
 ## Holzer's Philosophy
 
 Holzer stresses that complete eradication is neither possible nor desirable. The goal is maintaining balance so that vole damage remains within acceptable limits. A farm or garden with healthy predator populations and diverse plantings will naturally regulate vole numbers. Over-reliance on any single control method leads to imbalance elsewhere in the system.
-
-
 
 ## Practical Context
 
@@ -60,16 +48,12 @@ land stewardship, and low-input production systems. The practical value
 comes from matching the technique or organism to site conditions rather
 than treating it as an isolated recipe.
 
-
-
 ## Field Assessment
 
 Useful assessment starts with climate, substrate or soil conditions,
 water availability, and the existing biological community. Observations
 should be repeated across seasons because moisture, temperature, and
 management history often determine whether an approach succeeds.
-
-
 
 ## Management Considerations
 
@@ -78,16 +62,12 @@ timing, yields, failures, and labor requirements so the method can be
 adapted to local constraints. Avoid interventions that create dependence
 on scarce inputs when a simpler ecological substitute is available.
 
-
-
 ## Related Topics
 
 - [[soil-food-web]]
 - [[composting-systems]]
 - [[mycoremediation]]
 - [[mushroom-cultivation]]
-
-
 
 ## See Also
 

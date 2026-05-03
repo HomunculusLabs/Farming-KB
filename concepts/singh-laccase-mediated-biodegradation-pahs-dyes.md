@@ -12,7 +12,7 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 Updated: 2026-04-18
 
-Source: Harbhajan Singh, Mycoremediation: Fungal Bioremediation (2006), Chapters 8-9
+Source: Harbhajan Singh, Mycoremediation: [[fungal-bioremediation]] (2006), Chapters 8-9
 
 ## Overview
 
@@ -87,7 +87,7 @@ These metabolites are generally less toxic and more water-soluble than parent my
 ### Key Fungal Species for Dye Decolorization
 - [[turkey-tail-trametes-versicolor]]: most extensively studied; effective against wide range of dye structures
 - Trametes hirsuta: efficient laccase producer for dye treatment
-- Pleurotus ostreatus: significant dye decolorization in solid-state fermentation
+- [[pleurotus-ostreatus]]: significant dye decolorization in solid-state fermentation
 - Coriolopsis gallica: high laccase activity for dye treatment
 - Bjerkandera adusta: effective for recalcitrant dyes
 - Pycnoporus cinnabarinus: strong laccase production

@@ -87,7 +87,7 @@ have been discovered, but it likely applies to at least some compounds.
 
 ### Aflatoxins
 
-Produced by Aspergillus flavus and related species, aflatoxins are among
+Produced by [[aspergillus-flavus]] and related species, aflatoxins are among
 the most potent known carcinogens. They contaminate stored grains and nuts,
 particularly in tropical regions, causing liver cancer in humans and
 livestock. Their primary ecological role may be defense against insects
@@ -95,7 +95,7 @@ or competing microorganisms.
 
 ### Ergot Alkaloids
 
-Claviceps purpurea produces ergot alkaloids that cause ergotism (St.
+[[claviceps-purpurea]] produces ergot alkaloids that cause ergotism (St.
 Anthony's Fire) in humans who consume contaminated grain. These compounds
 include lysergic acid derivatives; LSD is a semisynthetic derivative of
 ergotamine. The ecological function is likely defense against herbivores.

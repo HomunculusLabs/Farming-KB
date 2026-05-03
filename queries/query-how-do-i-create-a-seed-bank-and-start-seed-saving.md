@@ -14,7 +14,7 @@ sources:
 
 # How Do I Create a Seed Bank and Start Seed Saving?
 
-Seed saving is one of the most powerful skills a gardener, homesteader, or permaculturalist can develop. A personal seed bank gives you food sovereignty, reduces annual costs, and preserves genetics adapted to your specific microclimate. Over generations, saved seeds become more resilient to local pests, diseases, and weather patterns.
+[[comparison-tissue-culture-vs-seed-saving]] is one of the most powerful skills a gardener, homesteader, or permaculturalist can develop. A personal seed bank gives you food sovereignty, reduces annual costs, and preserves genetics adapted to your specific microclimate. Over generations, saved seeds become more resilient to local pests, diseases, and weather patterns.
 
 ## Why Build a Personal Seed Bank?
 
@@ -30,11 +30,11 @@ Before saving seeds, you must understand the difference between seed types, beca
 
 ### Open-Pollinated (OP) Varieties
 
-Open-pollinated plants are pollinated by insects, wind, or birds and will produce offspring that closely resemble the parent plant, provided they are not cross-pollinated by a different variety of the same species. These are the only seeds worth saving for a seed bank. All heirloom varieties are open-pollinated.
+Open-pollinated plants are pollinated by insects, wind, or birds and will produce offspring that closely resemble the parent plant, provided they are not cross-pollinated by a different variety of the same species. These are the only seeds worth saving for a seed bank. All [[natural-farming-guide-seed-saving-and-heirloom-varieties]] are open-pollinated.
 
 ### Hybrid (F1) Varieties
 
-Hybrids are crosses between two distinct parent lines. Seeds saved from hybrid plants will not breed true and the next generation will express unpredictable traits, often reverting to characteristics of the grandparent lines. Do not save hybrid seeds unless you are deliberately breeding new varieties.
+Hybrids are crosses between two distinct parent lines. Seeds saved from hybrid plants will not breed true and the [[next-generation-sequencing-hidden-fungal-diversity]] will express unpredictable traits, often reverting to characteristics of the grandparent lines. Do not save [[comparison-seed-saving-vs-hybrid-seeds]] unless you are deliberately breeding new varieties.
 
 ### Self-Pollinating vs. Cross-Pollinating
 
@@ -59,7 +59,7 @@ Begin with self-pollinating annuals. These require minimal isolation and produce
 
 ### 1. Select the Best Plants
 
-Never save seed from just any plant. Walk your garden at peak season and tag your strongest performers based on flavor, yield, disease resistance, vigor, and earliness. These traits are what you want to amplify in your seed line. This is called **roguing**, and it is the most important step in building a quality seed bank.
+Never save seed from just any plant. Walk your garden at peak season and tag your strongest performers based on flavor, yield, disease resistance, vigor, and earliness. These traits are what you want to amplify in your seed line. This is called **roguing**, and it is the most important step [[faires-thermal-mass-applications-in-building]] a quality seed bank.
 
 ### 2. Allow Seeds to Fully Mature
 

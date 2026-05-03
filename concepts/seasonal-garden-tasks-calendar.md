@@ -23,7 +23,7 @@ Gardening is far from an exact science, and the gardener who makes rules and sti
 
 ### Throughout Spring
 - Heavy soils: rake soil for sowing
-- Light soils: dig in overwintered green-mancover-cropsrops in time to allow soil to settle
+- Light soils: dig in overwintered green-mancover-cropsrops [[permaculture-cycles-and-niches-in-time]] to allow soil to settle
 - Start hoeing regularly
 - Mulch between plants to control weeds and help water retention
 - Water regularly in dry weather, particularly newly planted items
@@ -40,12 +40,12 @@ Gardening is far from an exact science, and the gardener who makes rules and sti
 - Lift and divide perennials
 - Prune hybrid bush roses, cutting away frost damage
 - Finish planting bare root deciduous trees, shrubs, and hedges
-- Start outside sowing of hardy annuals and many shrubs and climbers
+- Start outside sowing of hardy annuals and many shrubs [[permaculture-designers-manual-vines-and-climbers]]
 - Start planting summer-flowering bulbs and perennials if ground is workable
 - Start planting sweet peas
 - Take softwood cuttings of heathers and layer shrubs
 ### Early Spring — Vegetable Garden
-- Feed spring cabbages with dried blood or kelp meal
+- Feed spring cabbages with dried blood or [[comparison-fish-aminos-vs-kelp-meal]]
 - Start sowing peas and beets outside under cloches, and green beans in greenhouse
 - Sow leeks, Brussels sprouts, and cabbages in a stale seedbed
 - Start sowing chard outside
@@ -82,13 +82,13 @@ Gardening is far from an exact science, and the gardener who makes rules and sti
 ### Late Spring — Ornamental Garden
 - Finish planting bare root evergreen plants
 - Support tall perennials
-- Trim ground cover after flowering
+- Trim [[fukuoka-natural-alfalfa-black-wattle-ground-cover]] after flowering
 - When all frost danger has passed, plant out half-hardy annuals and perennials
 - If half-hardy annuals in seed trays look yellow, feed with liquid kelp fertilizer
 - Dig and heel in spring-flowering bulbs if space is needed
 - Start clipping fast-growing hedges
 - Prune early flowering climbers; start tying in climbers
-- Plant deep-water aquatic plants
+- Plant deep-water [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - Sow hardy perennials and biennials in a seedbed
 - Start taking softwood cuttings
 - Look out for caterpillars on roses and other ornamentals

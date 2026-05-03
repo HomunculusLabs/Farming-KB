@@ -19,12 +19,12 @@ sources: []
 
 ## Overview
 
-[[biochar]] and [[vermicomposting]] are two powerful soil amendment strategies that
+[[biochar]] and [[vermicomposting]] are two powerful [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] strategies that
 operate on fundamentally different principles. Biochar is a carbon-rich, inert
 material produced through pyrolysis that provides permanent structural and chemical
 improvements to soil. Vermicomposting is a biological process using earthworms to
 convert organic waste into nutrient-dense vermicast. While biochar excels at
-long-term soil structure, [[water-management]], and carbon sequestration, vermicomposting
+long-term soil structure, [[water-management]], and [[query-how-do-fungi-contribute-to-carbon-sequestration]], vermicomposting
 delivers readily available nutrients, beneficial microorganisms, and plant growth
 stimulants. Together they represent complementary approaches to building and
 maintaining healthy soil ecosystems.
@@ -33,7 +33,7 @@ maintaining healthy soil ecosystems.
 
 [[biochar]] is produced by heating biomass (wood chips, crop residues, nut shells,
 bamboo) in a low-oxygen environment through a process called pyrolysis. The result
-is a highly porous, carbon-rich material that persists in soil for centuries without
+is a highly porous, carbon-rich material that persists [[singh-fungal-interactions-with-heavy-metals-in-soil]] for centuries without
 decomposing. Archaeological evidence shows Amazonian terra preta soils enriched with
 biochar thousands of years ago remain fertile today, demonstrating its remarkable
 longevity as a soil amendment.
@@ -45,7 +45,7 @@ or fast-draining soils. The material improves aeration and physical structure by
 creating persistent pore spaces that resist compaction over time. Biochar sequesters
 carbon for hundreds to thousands of years, making it one of the most effective
 long-term carbon removal tools available to growers. It also buffers soil pH toward
-neutral and provides ideal habitat for mycorrhizal fungi within its pore network.
+neutral and provides ideal habitat for [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] within its pore network.
 
 The primary drawback is that biochar must be conditioned before use through compost
 charging for 3 to 6 months, during which nutrients and microbes colonize the pore
@@ -91,7 +91,7 @@ requires significant expansion of bin infrastructure and worm population.
 | Cost | $200 to $800 per ton | $25 to $100 total startup |
 | Space needed | Storage space for bulk material | Small bin (1 to 5 sq ft) |
 | Temperature sensitivity | None once applied to soil | High (55 to 77°F optimal range) |
-| Time to benefit | 3 to 6 months (charging period) | 2 to 3 months (first harvest cycle) |
+| Time to benefit | 3 to 6 months (charging period) | 2 to 3 months (first [[query-how-to-run-perpetual-cannabis-harvest-cycle]]) |
 | Longevity in soil | Permanent (does not decompose) | Consumed by plants over seasons |
 | Setup complexity | Low (mix into soil) | Moderate (ongoing worm management) |
 | Scalability | High (bulk broadcast application) | Moderate (requires more bins/worms) |

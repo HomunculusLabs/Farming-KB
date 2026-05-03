@@ -35,7 +35,7 @@ capacity (CEC) is what allows soils to store fertility rather than
 leaching it with rainfall or irrigation. Humic acid also buffers
 soil pH toward the optimal 5.5 to 7.0 range, reducing the need
 for lime or sulfur amendments.
-In compost tea brewing, humic acid is the most selective fungal
+In [[compost-tea-brewing]], humic acid is the most selective fungal
 food available, shifting the microbial community toward fungal
 dominance desirable for perennial plantings, orchards, and forest
 gardens. Fungi use humic acid as a carbon source while building
@@ -93,7 +93,7 @@ labeled "humic-fulvic" contain both fractions in varying proportions.
 | Soil Building | Excellent, long-term aggregate formation | Moderate, indirect through biology |
 ## When to Choose Humic Acid
 Choose humic acid when your goal is long-term soil structure
-improvement, increased cation exchange capacity, or fungal
+improvement, increased [[cation-exchange-capacity]], or fungal
 dominance in compost tea. Humic acid is the right amendment for
 building permanent soil fertility in perennial systems, orchards,
 and pastures where cumulative effects over multiple seasons

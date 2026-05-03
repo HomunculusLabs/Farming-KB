@@ -85,7 +85,7 @@ include:
   This species, along with psilocybe-aztecorum, is the likely
   species referred to by Sahagun as the teonanacatl of the Aztecs.
 - psilocybe-aztecorum - named for the Aztec civilization
-- psilocybe-zapotecorum - used by the Zapotec peoples of Oaxaca
+- [[psilocybe-zapotecorum]] - used by the Zapotec peoples of Oaxaca
 - psilocybe-mexicana (nize, "little birds") - called teonanacatl
   by the Aztecs
 - psilocybe-caerulescens-var.-mazatecorum - the Mazatec variety
@@ -94,7 +94,7 @@ include:
 
 Stamets emphasizes that when mushroom use is ritualized, guided by
 veteran users who can orchestrate the necessary variables with careful
-attention to set and setting, an extraordinarily gratifying cerebral
+attention to [[set-and-setting]], an extraordinarily gratifying cerebral
 adventure can unfold. As dosage increases, the need for ritual becomes
 increasingly important. Working within a ritual setting gives structure
 to the experience and guides events along a positive path. Ritual can

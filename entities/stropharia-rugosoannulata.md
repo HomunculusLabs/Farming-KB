@@ -33,7 +33,7 @@ The wine-cap mushroom is one of the most effemycelial-networksuilding healthy ga
 * **Water retention:** Mycelial networks improve soil aggregation, increasing water-holding capacity by 20–40% in treated garden beds
 * **Nutrient cycling:** Mineralizes organic matter, releasing nitrogen, phosphorus, and potassium in plant-available forms while preventing nutrient leaching
 * **Erosion control:** Dense mycelial mats bind soil particles, reducing erosion on slopes and in raised beds
-* **Soil food web support:** Provides food and habitat for beneficial soil organisms including springtails, mites, and earthworms, which in turn support plant health
+* **[[soil-food-web]] support:** Provides food and habitat for beneficial soil organisms including springtails, mites, and earthworms, which in turn support plant health
 
 ### Plant Partnerships
 
@@ -49,7 +49,7 @@ While not a true mycorrhizal fungus, *S. rugosoannulata* forms associations with
 The primary cultivation method exploits the mushroom's natural habitat preferences:
 
 1. **Site selection:** Shaded or partially shaded garden beds, pathways, or border areas with good drainage
-2. **Substrate preparation:** Fresh hardwood chips (oak, maple, alder) mixed 1:1 with wheat or oat straw, soaked to 70–75% moisture content
+2. **[[substrate-preparation]]:** Fresh hardwood chips (oak, maple, alder) mixed 1:1 with wheat or oat straw, soaked to 70–75% moisture content
 3. **Inoculation:** Spawn (grain spawn or sawdust spawn) is mixed at 10–20% by volume into the substrate, layered 10–15 cm deep
 4. **Mulching:** Cover with additional 5 cm of wood chips to retain moisture
 5. **Maintenance:** Keep moist but not waterlogged; watering may be needed during dry periods
@@ -65,7 +65,7 @@ The primary cultivation method exploits the mushroom's natural habitat preferenc
 The mushroom integrates well into permaculture guilds and food forests:
 
 * Plant along the drip line of fruit trees to decompose woody mulch and cycle nutrients
-* Establish in perennial vegetable beds as a living mulch system
+* Establish in [[perennial-vegetables]] beds as a living mulch system
 * Use in riparian buffer zones to filter runoff and stabilize banks
 * Incorporate into three-sisters garden systems (corn, beans, squash) as a ground-level decomposer
 

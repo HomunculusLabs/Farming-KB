@@ -9,15 +9,9 @@ sources:
 ---
 # JADAM Good and Bad Are One
 
-
-
-
 ## Overview
 
 The principle "good and bad are one" (Korean: seongsok-il-yo, a Buddhist concept meaning sacred and profane are one) is the philosophical cornerstone of JADAM farming. It rejects the dualistic thinking that divides the natural world into beneficial and harmful categories, arguing instead that nature operates as an integrated whole where apparent opposites serve complementary functions.
-
-
-
 
 ## Applications in Agriculture
 
@@ -41,22 +35,13 @@ The principle extends even to heavy metals: "Heavy metals are not always harmful
 ### Oxygen
 Even oxygen, essential for life, becomes harmful in excess. "Oxygen excess creates active oxygen (free radicals) that damage cells." The same principle applies: good in proper amount, bad in excess.
 
-
-
-
 ## Against the Good/Bad Framework in Products
 
 The commercial microorganism industry selects and sells a tiny fraction of microbial species as a panacea. JADAM considers this "not scientific" and "a marketing ploy by corporations wanting to monopolize microorganisms for profit." The entire framework of selecting specific "good" microbes ignores the reality that soil health depends on diversity, not on the presence of specific species.
 
-
-
-
 ## The Sea Salt Example
 
 Even sea salt, one of JADAM's most recommended inputs, must be used correctly. "Good and bad are one. If a good were excessive, it will turn bad." Sea water must be diluted at least 30 times or the salinity will be too strong and damage crops. One must not sprinkle salt directly onto soil or spray undiluted sea water.
-
-
-
 
 ## The Broader Philosophical Context
 
@@ -66,9 +51,6 @@ This principle has deep roots in Korean Buddhist philosophy (seongsok-il-yo) and
 - Not trying to eliminate specific pests but creating balanced ecosystems
 - Accepting that some crop loss is natural and necessary for overall system health
 
-
-
-
 ## Practical Implications
 
 The principle leads to a fundamentally different approach to farming problems:
@@ -76,9 +58,6 @@ The principle leads to a fundamentally different approach to farming problems:
 - Instead of "Which microbe is good?", ask "How do I maximize diversity?"
 - Instead of "What nutrient is deficient?", ask "How do I restore mineral diversity?"
 - Instead of "How do I eliminate this disease?", ask "How do I prevent any single organism from dominating?"
-
-
-
 
 ## Related Concepts
 

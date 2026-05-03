@@ -12,7 +12,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-[[fukuoka-living-soil]] grew vegetables using methods that defy conventional horticulture. Rather than carefully prepared beds, intensive fertilization, and systematic pest control, Fukuoka practiced what he called "semi-wild" cultivation -- allowing vegetables to grow in a nearly natural state with minimal human intervention. His approach produces yields comparable to conventional methods while improving soil and requiring almost no labor.
+[[fukuoka-living-soil]] grew vegetables using methods that defy conventional horticulture. Rather than carefully prepared beds, intensive fertilization, and systematic [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]], Fukuoka practiced what he called "semi-wild" cultivation -- allowing vegetables to grow in a nearly natural state with minimal human intervention. His approach produces yields comparable to conventional methods while improving soil and requiring almost no labor.
 
 ## The Semi-Wild Approach
 
@@ -45,7 +45,7 @@ This is possible because:
 
 ## Growing Vegetables Under Fruit Trees
 
-Fukuoka's preferred method is growing vegetables beneath fruit trees in his orchard:
+Fukuoka's preferred method is growing vegetables beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in his orchard:
 
 - When vegetables are grown beneath fruit trees, insect pest numbers tend to be low
 - Some diseases and pests are common to both fruit trees and vegetables, some are not
@@ -81,7 +81,7 @@ Root vegetables (daikon radish, burdock, carrot, etc.) are excellent soil builde
 - Their deep taproots penetrate and loosen soil effectively
 - They bring up minerals from deep soil layers
 - When harvested, the root channels remain, improving water infiltration
-- Their leaves provide surface mulch and organic matter
+- Their leaves provide surface mulch and [[mollison-designers-humus-building-and-soil-organic-matter]]
 
 ### Leaf Vegetables
 
@@ -127,14 +127,14 @@ The vegetable garden in Fukuoka's system is not just a food production area but 
 - Deep-rooted vegetables loosen and aerate soil
 - Leguminous vegetables fix nitrogen
 - Leaf litter from all vegetables adds organic matter
-- The diversity of root types and depths improves soil structure at multiple levels
+- The diversity of root types and depths improves [[biodiversity-of-fungi-biomass-carbon-soil-structure]] at multiple levels
 - Continuous vegetable growing (when done with natural rotation) actually improves soil rather than depleting it
 
 ## Fukuoka's Practical Approach
 
 Despite his philosophical radicalism, Fukuoka was pragmatic about vegetable growing:
 
-- He recognized that pure "do-nothing" farming is an ideal (Mahayana natural farming) that few can practice
+- He recognized that pure "do-nothing" farming is an ideal (Mahayana [[natural-farming-guide-permaculture-design-for-small-holdings]]) that few can practice
 - For practical purposes, his semi-wild methods represent Hinayana natural farming -- as close to nature as possible while still producing reliable food
 - The key is to minimize human intervention rather than eliminate it entirely
 - Observation and timing are more important than technique

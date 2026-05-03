@@ -23,7 +23,7 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 - This makes polar solvent extraction straightforwardpsilocybe-azurescens
 ### Common Cultivated Species
 - **Psilocybe cubensis** — most common cultivated species,[[psilocybe-semilanceata]]–1.5% psilocybin+psilocin by dry weight)
-- **Psilocybe cyanescens** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
+- **[[psilocybe-cyanescens]]** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
 - **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
 - **Psilocybe semilanceata** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
 ### Potency Variation
@@ -115,7 +115,7 @@ Converting mushroom extract into purified psilocybin crystals:
 - A sitter is recommended, especially at higher doses
 - Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
 - Avoid if personal or family history of psychosis or schizophrenia
-- Set and setting are critical for a positive experience
+- [[set-and-setting]] are critical for a positive experience
 - See [[psychedelic-plants-legal-status]] for legal information
 - See [[psychedelic-mushroom-decriminalization]] for reform efforts
 ## Related Topics

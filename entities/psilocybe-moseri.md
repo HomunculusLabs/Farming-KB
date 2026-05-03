@@ -26,14 +26,14 @@ sources:
 - **Genus:** Psilocybe
 - **Authority:** Singer & Smith
 
-The species was described by Rolf Singer and Alexander H. Smith, two of the most prolific 20th-century agaric taxonomists. The dedication to Meinhard Moser reflects his enormous contributions to the taxonomy of European agarics and boletes. *P. moseri* has sometimes been treated as a synonym or variety of [[psilocybe-cyanescens]] due to macroscopic similarities, particularly the tendency toward undulating wavy caps. Modern phylogenetic studies may help clarify its relationship to other European Psilocybe species.
+The species was described by [[rolf-singer]] and Alexander H. Smith, two of the most prolific 20th-century agaric taxonomists. The dedication to Meinhard Moser reflects his enormous contributions to the taxonomy of European agarics and boletes. *P. moseri* has sometimes been treated as a synonym or variety of [[psilocybe-cyanescens]] due to macroscopic similarities, particularly the tendency toward undulating wavy caps. Modern phylogenetic studies may help clarify its relationship to other European Psilocybe species.
 
 ## Morphology
 
 - **Cap (Pileus):** 10 to 40 mm in diameter. Conic to convex when young, becoming broadly convex to plano-convex and often developing an undulating or wavy margin at maturity, superficially resembling [[psilocybe-cyanescens]]. Surface is smooth and hygrophanous, dark chestnut brown to reddish brown when moist, fading to pale tan or yellowish brown upon drying. The cap cuticle is often slightly viscid when wet.
 - **Gills (Lamellae):** Adnate to sinuate. Grayish when young, becoming dark purplish brown with spore maturity. Gill edges are fringed and paler than the gill faces.
 - **Stipe (Stem):** 30 to 80 mm long, 1.5 to 3 mm thick. Equal or slightly enlarged at the base. Surface is smooth to silky-fibrillose, whitish to pale brown. Bruising blue, often prominently so, especially near the base and where handled.
-- **Spore Print:** Dark purplish brown.
+- **[[spore-print]]:** Dark purplish brown.
 - **Spores:** Ellipsoidal to subellipsoidal, smooth-walled, with a distinct germ pore. Dimensions typically 10 to 14 μm by 6 to 8 μm.
 - **Microscopic Features:** Cheilocystidia are abundant, ventricose to lageniform with a narrow neck. Pleurocystidia are also present, similar in morphology. Chrysocystidia have been reported in some collections.
 
@@ -77,4 +77,4 @@ There are no widely documented cultivation methods for *P. moseri*. As a wood-in
 
 - Bigwood, J. & Beug, M. W. (1992). Variation of psilocybin and psilocin levels. Journal of Psychoactive Drugs.
 - Guzmán, G. (1983). The Genus Psilocybe: A Systematic Revision of the Known Species. Vaduz: J. Cramer.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Berkeley: Ten Speed Press.
+- Stamets, P. (1996). [[psilocybin-mushrooms]] of the World. Berkeley: Ten Speed Press.

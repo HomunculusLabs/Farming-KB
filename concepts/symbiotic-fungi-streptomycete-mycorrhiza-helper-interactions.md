@@ -33,7 +33,7 @@ plant growth regulators, increase root branching or permeability,
 improve nitrogen or phosphate availability, enhance plant resistance
 against pathogens, and contribute to soil quality. Helper bacteria
 include intrahyphal bacteria in ectomycorrhizal fungi, intraspore
-bacteria in arbuscular mycorrhizal fungi, and species colonizing the
+bacteria in [[arbuscular-mycorrhizal-fungi]], and species colonizing the
 surfaces of fungal hyphae and mycorrhizal roots.
 
 ## Streptomyces as Mycorrhiza Helpers
@@ -45,7 +45,7 @@ demonstrated particularly significant effects on mycorrhizal fungi. The
 isolate Streptomyces sp. AcH 505 promotes mycelial growth and
 mycorrhization rates of the ectomycorrhizal fungus Amanita muscaria
 while simultaneously suppressing plant-pathogenic fungi including
-Armillariella obscura and Heterobasidion annosum.
+Armillariella obscura and [[heterobasidion-annosum]].
 
 This dual activity is ecologically significant because it suggests that
 MHB can simultaneously promote beneficial mycorrhizal partnerships and
@@ -119,7 +119,7 @@ rather than a mixture of active and inactive biomass.
 
 ## Ecological Significance
 
-Mycorrhiza helper bacteria occupy a critical position in soil food webs.
+Mycorrhiza helper bacteria occupy a critical position in [[soil-food-web]].
 By promoting mycorrhizal establishment, they indirectly enhance plant
 nutrient acquisition, particularly phosphorus and nitrogen. By
 suppressing pathogens, they provide a natural defense mechanism. The

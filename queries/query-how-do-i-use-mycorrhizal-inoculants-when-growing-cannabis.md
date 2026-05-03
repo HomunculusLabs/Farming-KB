@@ -20,7 +20,7 @@ Mycorrhizal inoculants are products containing beneficial fungi that form a symb
 
 **[[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *Rhizophagus irregularis* (formerly *Glomus intraradices*), *Funneliformis mosseae*, and *Glomus aggregatum* colonize root cells internaectomycorrhizal-fungies — tree-like structures inside root cortical cells where nutrient exchange occurs. Cannabis is a broadleaf annual that readily forms associations with AMF under the right conditions.
 
-Ectomycorrhizal fungi are generally not relevant to cannabis. They associate with trees and woody plants. Many commercial inoculant products blend AMF species and may also include ecto species for broader horticultural marketing, but the AMF component is what matters for cannabis.
+[[ectomycorrhizal-fungi]] are generally not relevant to cannabis. They associate with trees and woody plants. Many commercial inoculant products blend AMF species and may also include ecto species for broader horticultural marketing, but the AMF component is what matters for cannabis.
 
 ## When to Apply Inoculants
 
@@ -81,7 +81,7 @@ Mycorrhizal fungi work well alongsbacillus-subtilisil biology:
 - **Trichoderma** species can coexist and even synergize, as Trichoderma helps suppress pathogens while mycorrhizae handle nutrient acquisition.
 - **Beneficial bacteria** like *Bacillus subtilis* are generally compatible and are often included in broad-spectrum inoculant blends.
 - **Earthworms** improve soil structure and help distribute mycorrhizal propagules through their castings.
-- **Predatory nematodes** and protozoa are part of the soil food web that cycles nutrients to the fungal network.
+- **Predatory nematodes** and protozoa are part of the [[soil-food-web]] that cycles nutrients to the fungal network.
 
 Avoid combining mycorrhizal inoculants with products containing high concentrations of soluble nutrients or harsh biological controls in the same application.
 

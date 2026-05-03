@@ -9,11 +9,11 @@ sources: []
 
 Phase transfer catalysis is a strategy for making two immiscible reaction phases behave as if the reactive species could meet in the same solution.
 
-It is most often used when an inorganic anion or other ionic reagent is soluble in water or a solid salt, while the organic substrate is soluble in an organic phase.
+It is most often used when an inorganic anion or other ionic reagent is soluble [[ingoldian-hyphomycetes-spore-dispersal-in-water]] or a solid salt, while the organic substrate is soluble in an organic phase.
 
 A phase transfer catalyst carries one partner across the interface, creates a lipophilic ion pair, or organizes a boundary layer where reaction becomes fast.
 
-The method is central to practical [[pericyclic-reactions-organic-chemistry|organic chemistry]] because it can replace dry polar aprotic solvents, strong bases, and elaborate anhydrous procedures with cheaper biphasic mixtures.
+The method is central to practical [[pericyclic-reactions-organic-chemistry]] because it can replace dry polar aprotic solvents, strong bases, and elaborate anhydrous procedures with cheaper biphasic mixtures.
 
 In industry, phase transfer catalysis is valued because it combines high reaction rates with simple workups, concentrated media, and comparatively mild operating conditions.
 
@@ -61,7 +61,7 @@ Phase transfer catalysis is widely used for nucleophilic substitutions, includin
 
 Alkylation of phenols, carboxylates, active methylene compounds, and heteroatom nucleophiles is one of the largest families of PTC reactions.
 
-Oxidations with permanganate, hypochlorite, hydrogen peroxide derivatives, or peroxydisulfate can be accelerated when the oxidant or its counterion is transferred into the organic phase.
+Oxidations with permanganate, hypochlorite, [[hydrogen-peroxide-tissue-culture-wild-polypores]] derivatives, or peroxydisulfate can be accelerated when the oxidant or its counterion is transferred into the organic phase.
 
 Epoxidation, dichlorocyclopropanation, halogen exchange, Darzens reactions, and Wittig-type processes have all been adapted to phase transfer conditions.
 
@@ -83,11 +83,11 @@ A good PTC process therefore evaluates solvent, base, catalyst recovery, salt wa
 
 Phase transfer catalysis can alter chemoselectivity because the transferred anion is less strongly solvated and often more nucleophilic than in water.
 
-Strong bases transferred into organic media can favor elimination, overalkylation, racemization, or side reactions if substrate acidity and temperature are not controlled.
+Strong bases transferred into organic media can favor elimination, overalkylation, racemization, or side reactions if substrate acidity [[cuthill-mushroom-growing-seasons-and-temperature]] are not controlled.
 
 Ion pairing can create microenvironments where one face or conformation of a substrate is favored, which is the basis of asymmetric phase transfer catalysis.
 
-Rate laws may depend on catalyst concentration, stirring speed, interfacial area, salt loading, water activity, and the partition coefficient of the ion pair.
+Rate laws may depend on catalyst concentration, stirring speed, interfacial area, salt loading, [[water-activity-osmophilic-fungal-media-preparation]], and the partition coefficient of the ion pair.
 
 Because mass transfer and chemical reaction are coupled, scale-up requires more than simply multiplying flask quantities.
 
@@ -121,7 +121,7 @@ Phase transfer catalysis overlaps with surfactant chemistry because both use amp
 
 It also overlaps with organocatalysis when the catalyst is an organic ion that provides stereocontrol or activates a reactive anion without metal assistance.
 
-The technique is related to [[nucleophilic-substitution-sn1-sn2-reactions|nucleophilic substitution]], oxidation-reduction reactions, and reaction kinetics because it changes the apparent concentration and reactivity of charged species.
+The technique is related to [[nucleophilic-substitution-sn1-sn2-reactions]], oxidation-reduction reactions, and reaction kinetics because it changes the apparent concentration and reactivity of charged species.
 
 In medicinal and agrochemical manufacturing, PTC is often evaluated beside homogeneous base chemistry, enzymatic methods, and continuous-flow biphasic reactors.
 
@@ -137,10 +137,11 @@ Confirm that the final isolation removes catalyst residues and inorganic salts t
 
 ## References
 
-Wikipedia: "Phase-transfer catalyst" for definitions, catalyst classes, examples, and limitations reviewed during this mining wave.
+Wikipedia: "Phase-transfer catalyst" for definitions, catalyst classes, examples, [[gaias-garden-guild-challenges-and-limitations]] reviewed during this mining wave.
 
 General organic process chemistry literature on quaternary ammonium salts, crown ethers, solid-liquid PTC, and asymmetric phase transfer catalysis.
 
+## Related
 
-## Related Topics
+- [[photoredox-catalysis]] Topics
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]

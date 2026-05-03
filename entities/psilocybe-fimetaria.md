@@ -14,7 +14,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
   Stropharia fimetaria Orton
 
 ## Overview
-Psilocybe fimetaria is a moderately active psilocybin mushroom that
+Psilocybe fimetaria is a moderately active [[psilocybin-mushroom]] that
 favors horse manure and rich grassland soils. Named for its dung
 habitat (fimetaria = "of dung"), it is known from North America,
 Europe, and Chile, often fruiting in large rings during autumn. The
@@ -54,7 +54,7 @@ Europe (Britain, Finland, Norway, Czech Republic), and South America
 (Chile). It typically fruits from October through November in the
 Northern Hemisphere, though Chilean collections have been made in
 August. The species often fruits in large rings (fairy rings), a
-pattern indicating extensive underground mycelial networks. This
+pattern indicating extensive underground [[mycelial-networks]]. This
 ring-forming habit, combined with its dung preference, suggests the
 mycelium colonizes nutrient-rich soils and depletes resources in a
 radial pattern over successive fruiting seasons.

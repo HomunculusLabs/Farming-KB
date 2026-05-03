@@ -29,15 +29,15 @@ from hand-rubbed charas to laboratory-grade solvent extraction procedures.
 
 ## Extraction Basics
 
-comparison cannabis extraction basics vs extraction methods
+[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] extraction basics vs extraction methods
 
-Extraction basics provides a foundational overview of the principles and techniques used
+Extraction basics provides a foundational overview of the principles [[natural-farming-guide-composting-methods-and-techniques]] used
 to separate cannabinoids, terpenes, and other desirable compounds from cannabis plant
 material. The guide focuses primarily on modern commercial extraction systems, which rely
 on solvents to dissolve target compounds away from the plant matrix, followed by careful
 purification and solvent removal to produce clean, potent concentrates. The two most
 common solvent-based approaches in commercial settings are ethanol extraction and butane
-hash oil (BHO) extraction, each with distinct advantages, limitations, and safety profiles
+hash oil (BHO) extraction, each with distinct advantages, limitations, [[palmer-about-mushrooms-foraging-basics-and-safety]] profiles
 that producers must understand before choosing a system.
 
 Ethanol extraction uses food-grade ethyl alcohol as a solvent, making it one of the safest
@@ -67,7 +67,7 @@ for premium producers.
 [[cannabis-solvent-reflux-extraction-methods]]
 
 Extraction methods provides a comprehensive survey of every major technique for separating
-cannabis resin from plant material, spanning from ancient mechanical methods to modern
+[[cannabis-resin-production-and-quality-traits-clarke]] from plant material, spanning from ancient mechanical methods [[turner-brief-history-psychedelics-ancient-to-modern]]
 chemical processing. The mechanical methods covered include kief collection through dry
 sieving, hand-rubbed charas production from living plants, and ice water or bubble hash
 extraction using cold water agitation and micron-screen filters. These solventless
@@ -144,12 +144,7 @@ historical techniques.
 Many commercial operations use a hybrid approach drawing from both guides. A common workflow
 involves starting with extraction basics to select and set up a primary ethanol or BHO
 system, then consulting extraction methods for specific optimization techniques or
-mechanical preprocessing steps that improve input material quality. Some producers also
-maintain a parallel mechanical extraction line for solventless products alongside their
-solvent-based operation, serving different market segments with products produced through
-both traditional and modern methods.
 
 ## See Also
-
-- [[cannabis-administration-methods-comparison]]
-- [[cannabis-delivery-methods-comparison]]
+- [[cannabis-extraction-basics]]
+- [[query-which-cannabis-training-techniques-produce-highest-yields]]

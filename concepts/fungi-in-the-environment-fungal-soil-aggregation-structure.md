@@ -16,7 +16,7 @@ of soil particles, secretion of organic binding agents, and precipitation of
 secondary minerals, fungi create and stabilize soil aggregates that are
 fundamental to soil fertility, water retention, and carbon sequestration.
 These contributions are among the most important but underappreciated
-ecosystem services provided by fungi in the environment fungal soil aggregation structure.
+ecosystem services provided by fungi in the environment [[fungal-soil-aggregation]] structure.
 
 ## Physical Mechanisms of Soil Binding
 
@@ -36,7 +36,7 @@ Mycorrhizal fungi contribute significantly to soil aggregation through
 their extensive external mycelial networks. Arbuscular mycorrhizal (AM)
 fungi produce main arterial hyphae in soil with highly thickened cell walls
 that are much less palatable to fungal-feeding invertebrates than
-saprotrophic fungi. These persistent hyphal structures provide long-term
+[[saprotrophic-fungi]]. These persistent hyphal structures provide long-term
 physical binding of soil particles. The external mycelium of AM fungi
 represents a major component of soil microbial biomass, directly adding
 chemically distinct carbon inputs to soil (chitin cell walls rather than

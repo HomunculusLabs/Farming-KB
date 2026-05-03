@@ -11,8 +11,6 @@ sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 
 *Pleurotus nebrodensis*, commonly known as the Nebrodini mushroom or Sicilian oyster mushroom, is a rare and critically endangered species of edible mushroom in the family Pleurotaceae. Endemic to the Madonie Mountains of northern Sicily, Italy, it is one of the most prized wild mushrooms in European gastronomy and has attracted scientific interest for its nutritional composition, bioactive compounds, and potential medicinal properties, including anticancer and immunomodulatory activities.
 
-
-
 ## Taxonomy and Description
 
 *Pleurotus nebrodensis* was first described by the Italian mycologist Giuseppe Inzenga in 1863, who considered it the finest edible mushroom in Sicily. The species was for many years confused with or considered a variety of *Pleurotus eryngii* (king oyster mushroom), from which it can be distinguished by morphological, ecological, and molecular characters.
@@ -23,8 +21,6 @@ The gills are decurrent (running down the stem), close, narrow, and white. The s
 
 The spore print is white to pale pinkish. Spores are cylindrical to ellipsoid, smooth, measuring 9–12 × 4–5 µm.
 
-
-
 ## Distribution and Conservation Status
 
 *Pleurotus nebrodensis* is endemic to the Madonie Mountains (Monti Madonie) of northern Sicily, where it grows in association with the roots of living plants of the family Apiaceae, particularly *Cachrys ferulacea* (syn. *Ferulago nodosa*), in limestone grasslands and open rocky areas at elevations of 1,200–2,000 meters above sea level.
@@ -33,21 +29,15 @@ The species is classified as Critically Endangered on the IUCN Red List due to i
 
 Conservation efforts for *P. nebrodensis* include habitat protection within the Madonie Regional Natural Park, monitoring of known populations, and restrictions on collection. Cultivation programs have been developed to reduce pressure on wild populations while providing a supply of this valuable mushroom for culinary and research purposes.
 
-
-
 ## Cultivation
 
 Successful cultivation of *Pleurotus nebrodensis* has been achieved using methods adapted from oyster mushroom cultivation technology. The fungus can be grown on various lignocellulosic substrates, including wheat straw, sawdust supplemented with bran, and agricultural waste materials. Optimal fruiting temperatures are in the range of 12–18°C, reflecting its adaptation to the cool mountain environments of its native habitat.
 
 Cultivated *P. nebrodensis* retains many of the culinary qualities of the wild mushroom, though some connoisseurs report subtle differences in flavor and texture compared to wild-collected specimens.
 
-
-
 ## Nutritional Composition
 
 *Pleurotus nebrodensis* is nutritionally dense, with a composition comparable to or exceeding that of other cultivated *Pleurotus* species. Protein content is 15–25% of dry weight, with a favorable amino acid profile including all essential amino acids. Dietary fiber constitutes 20–35% of dry weight, primarily as chitin and beta-glucans. The mushroom is rich in B vitamins (thiamine, riboflavin, niacin), contains vitamin C, and is a source of ergosterol (provitamin D2). Minerals include potassium, phosphorus, magnesium, zinc, and selenium.
-
-
 
 ## Bioactive Compounds and Medicinal Properties
 
@@ -74,8 +64,6 @@ Extracts of *P. nebrodensis* have shown anti-inflammatory effects in cell cultur
 ### Hepatoprotective Effects
 
 Some studies have reported hepatoprotective effects of *Pleurotus nebrodensis* extracts in animal models of liver damage induced by toxins such as carbon tetrachloride or acetaminophen.
-
-
 
 ## See Also
 

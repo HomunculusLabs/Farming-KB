@@ -7,7 +7,7 @@ tags: [permaculture]
 sources: []
 ---
 ---
-title: PDC Passive Design Principles for Buildings and Landscapes
+title: PDC Passive [[mollison-designers-free-range-forage-design-principles]] for Buildings and Landscapes
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -17,7 +17,7 @@ tags: [permaculture, pdc, building, microclimate]
 
 # PDC Passive [[permaculture-house-design-principles]] for Buildings and Landscapes
 
-Passive design is the art and science of harnessing natural existing forces to accomplish tasks without external energy input. The Williams PDC devotes extensive coverage to passive design as a core permaculture competency, treating it as an application of Permaculture Principle #2: catch and store energy. Williams teaches that passive design is not limited to architecture -- it is a way of thinking applicable to water movement, cooling, heating, ventilation, and lighting.
+Passive design is the art and science of harnessing natural existing forces to accomplish tasks without external energy input. The [[williams-pdc-permaculture-ethics-and-principles-in-practice]] devotes extensive coverage to passive design as a core permaculture competency, treating it as an application of [[permaculture-principle-creatively-use-and-respond-to-change]] #2: catch and store energy. Williams teaches that passive design is not limited to architecture -- it is a way of thinking applicable to water movement, cooling, heating, ventilation, and lighting.
 
 ## The Three Mechanisms of Heat Transfer
 
@@ -46,7 +46,7 @@ Heat transfers through the movement of a medium such as air or water. Key princi
 
 ## The Four Fundamentals of [[passive-solar-design]]
 
-Williams identifies four elements that must be correctly combined for effective passive solar design:
+Williams identifies four elements that must be correctly combined for effective [[permaculture-designers-manual-passive-solar-design]]:
 
 ### 1. Orientation
 
@@ -113,7 +113,7 @@ Williams stresses that passive design begins OUTSIDE the structure. The surround
 
 ### Ground Covers and Vegetation
 
-- Grasses and ground covers shade the ground surface, reducing ambient temperature
+- Grasses and [[mollison-designers-living-mulches-ground-covers]] shade the ground surface, reducing ambient temperature
 - Evapotranspiration from plants cools surrounding air
 - Plant selection can provide year-round shade or seasonal variation
 

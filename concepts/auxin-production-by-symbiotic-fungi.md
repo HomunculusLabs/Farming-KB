@@ -75,7 +75,7 @@ activity.
 
 ## Truffles (Tuber spp.)
 
-Truffles are ectomycorrhizal fungi forming symbioses with trees such as oaks
+Truffles are [[ectomycorrhizal-fungi]] forming symbioses with trees such as oaks
 and hazels, and some shrubs including Cistus spp. Production of IAA by
 ectomycorrhizal fungi is well-documented and may drive ectomycorrhiza
 genesis alongside other signalling molecules.
@@ -112,7 +112,7 @@ necessary to confirm IAA production and determine its concentration.
 
 Many ectomycorrhizal basidiomycetes produce IAA or auxin-like compounds:
 
-- Hebeloma crustuliniforme, Laccaria laccata, Pisolithus tinctorius, and Suillus bovinus have all been shown to produce IAA in culture
+- [[hebeloma-crustuliniforme]], Laccaria laccata, [[pisolithus-tinctorius]], and Suillus bovinus have all been shown to produce IAA in culture
 - Production levels vary with culture conditions, media composition, and fungal species
 - Auxin production is often higher in young mycelial cultures
 

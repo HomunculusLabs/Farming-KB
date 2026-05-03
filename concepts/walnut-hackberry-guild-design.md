@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
 
 # Walnut Hackberry Guild Design

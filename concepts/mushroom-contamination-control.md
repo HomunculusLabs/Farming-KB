@@ -11,12 +11,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 Contamination by competing microorganisms is the primary challenge in mushroom
 cultivation. Fungi, bacteria, and occasionally insects can colonize substrates and
 spawns, reducing or destroying yields. Effective contamination control combines
-preventive hygiene practices, proper substrate preparation, environmental management,
+preventive hygiene practices, proper [[substrate-preparation]], environmental management,
 and early detection to minimize losses.
 
 ## Common Contaminant Organisms
 
-Mold contaminants are the most frequent and damaging. *Trichoderma harzianum* (green
+Mold contaminants are the most frequent and damaging. *[[trichoderma-harzianum]]* (green
 mold) is the most widespread, appearing as rapidly expanding green patches on substrate
 surfaces. It thrives in the same conditions as mushroom mycelium and is particularly
 damaging in supplemented substrates. *Aspergillus* and *Penicillium* species produce
@@ -55,7 +55,7 @@ the clean zone.
 ## Sanitation Protocols
 
 A 70% isopropyl alcohol solution is the standard surface sanitizer for tools, containers,
-and work surfaces in mushroom cultivation. It is effective against most bacterial and
+and work surfaces in [[mushroom-cultivation]]. It is effective against most bacterial and
 fungal spores on contact and evaporates quickly without leaving residue. For larger
 surface areas, 10% bleach solutions are used. Flame sterilization of inoculation tools
 between each use is essential. Autoclaving or pressure-cooking substrate containers

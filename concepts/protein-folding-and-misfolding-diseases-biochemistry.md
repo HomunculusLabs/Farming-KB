@@ -1,5 +1,6 @@
 ---
-ti
+title: "Protein Folding And Misfolding Diseases Biochemistry"
+---
 
 ## Protein Structure Hierarchy
 
@@ -22,7 +23,7 @@ Folding begins while the polypeptide is still being synthesized on the ribosome.
 
 Chaperones are proteins that assist folding without being part of the final structure. They prevent aggregation, facilitate correct domain assembly, and can rescue stalled intermediates.
 
-- **Hsp70 (DnaK system)**: Binds exposed hydrophobic patches on nascent or stress-unfolded chains in an ATP-dependent cycle. Co-chaperones Hsp40 (DnaJ) deliver substrates; nucleotide exchange factors (NEFs, e.g., GrpE, BAG family) promote ADP release. Central to de novo folding and stress recovery.
+- **Hsp70 (DnaK system)**: Binds exposed hydrophobic patches on nascent or stress-unfolded chains in an ATP-dependent cycle. Co-chaperones Hsp40 (DnaJ) deliver substrates; nucleotide exchange factors (NEFs, e.g., GrpE, BAG family) promote ADP release. Central to de novo folding and [[cervantes-plant-stress-recovery]].
 
 - **Hsp60 / Chaperonins (GroEL-GroES in bacteria; TRiC/CCT in eukaryotes)**: Large double-ring complexes (~800 kDa) that encapsulate folding substrates in an isolated chamber. GroEL undergoes ATP-driven conformational changes; GroES acts as a lid. TRiC/CCT folds actin, tubulin, and WD40-repeat proteins with substrate-specific inner-ring recognition.
 
@@ -56,7 +57,7 @@ If stress is prolonged or unresolved, UPR signaling switches from pro-survival t
 
 Misfolded proteins can aggregate into toxic oligomers, amyloid fibrils, or amorphous deposits, disrupting cellular function:
 
-- **Prion diseases (Creutzfeldt-Jakob, BSE, scrapie)**: The cellular prion protein (PrP^C) misfolds into a beta-sheet-rich isoform (PrP^Sc) that templates conversion of native PrP^C, propagating in an infectious, self-perpetuating manner. Aggregates form amyloid plaques and spongiform brain degeneration.
+- **[[blesching-cannabis-prion-diseases]] (Creutzfeldt-Jakob, BSE, scrapie)**: The cellular prion protein (PrP^C) misfolds into a beta-sheet-rich isoform (PrP^Sc) that templates conversion of native PrP^C, propagating in an infectious, self-perpetuating manner. Aggregates form amyloid plaques and spongiform brain degeneration.
 
 - **Alzheimer's disease**: Characterized by extracellular amyloid-beta (A-beta) plaques (derived from APP proteolysis by beta- and gamma-secretases) and intracellular neurofibrillary tangles of hyperphosphorylated tau protein. A-beta oligomers are the most neurotoxic species, disrupting synaptic function and membrane integrity.
 
@@ -70,7 +71,7 @@ Misfolded proteins can aggregate into toxic oligomers, amyloid fibrils, or amorp
 
 ## Proteostasis Network
 
-Proteostasis (protein homeostasis) is the integrated network maintaining the functional proteome. It encompasses synthesis (translation), folding (chaperones, co-translational machinery), conformational maintenance (HSPs), trafficking, and degradation (UPS, autophagy). The network is spatially organized across the cytosol, ER, mitochondria, and nucleus. Proteostasis capacity declines with age, contributing to the late onset of neurodegenerative diseases. Enhancing proteostasis is a therapeutic strategy explored through HSP inducers, UPR modulators, and proteasome/autophagy activators.
+Proteostasis (protein homeostasis) is the integrated network maintaining the functional proteome. It encompasses synthesis (translation), folding (chaperones, co-translational machinery), conformational maintenance (HSPs), trafficking, and degradation (UPS, autophagy). The network is spatially organized across the cytosol, ER, mitochondria, and nucleus. Proteostasis capacity declines with age, contributing to the late onset of [[blesching-cannabis-neurodegenerative-diseases]]. Enhancing proteostasis is a therapeutic strategy explored through HSP inducers, UPR modulators, and proteasome/autophagy activators.
 
 ## Autophagy and Aggrephagy
 
@@ -95,11 +96,11 @@ Protein misfolding mechanisms present diverse therapeutic opportunities:
 
 ## Protein Folding Kinetics and Energy Landscapes
 
-The energy landscape theory (Bryngelson and Wolynes) describes protein folding as a funnel-shaped multidimensional surface where the native state occupies the global minimum. Folding proceeds through multiple pathways rather than a single defined route, with ruggedness of the landscape determined by the presence of kinetic traps (local minima corresponding to misfolded intermediates). The folding rate is governed by the height of the free-energy barrier between the unfolded ensemble and the transition state. Phi-value analysis, developed by Alan Fersht, uses site-directed mutagenesis to map transition state structures by measuring the effect of mutations on folding kinetics and stability. Two-state folders (small, single-domain proteins) show cooperative unfolding transitions without stable intermediates, while multi-state folders populate intermediate ensembles that can be productive (on-pathway) or lead to aggregation (off-pathway).
+The energy landscape theory (Bryngelson and Wolynes) describes protein folding as a funnel-shaped multidimensional surface where the native state occupies the global minimum. Folding proceeds through multiple pathways rather than a single defined route, with ruggedness of [[permaculture-mapping-and-reading-the-landscape]] determined by the presence of kinetic traps (local minima corresponding to misfolded intermediates). The folding rate is governed by the height of the free-energy barrier between the unfolded ensemble and the transition state. Phi-value analysis, developed by Alan Fersht, uses site-directed mutagenesis to map transition state structures by measuring the effect of mutations on folding kinetics and stability. Two-state folders (small, single-domain proteins) show cooperative unfolding transitions without stable intermediates, while multi-state folders populate intermediate ensembles that can be productive (on-pathway) or lead to aggregation (off-pathway).
 
 ## Disulfide Bond Formation and Isomerization
 
-In the oxidizing environment of the ER, disulfide bonds (covalent S-S linkages between cysteine residues) stabilize the native fold of many secretory and membrane proteins. The protein disulfide isomerase (PDI) family catalyzes both disulfide formation (oxidation) and rearrangement of incorrect disulfide pairings (isomerization). Ero1-alpha transfers electrons from PDI to molecular oxygen, generating hydrogen peroxide as a byproduct. In the cytosol, disulfide bonds are generally reduced; however, specific cytosolic proteins (e.g., thioredoxin, glutaredoxin) can form transient disulfides as part of redox signaling. The formation of correct disulfide pairings is a critical quality checkpoint in the ER, and failure to form proper disulfides targets proteins for ERAD.
+In the oxidizing environment of the ER, disulfide bonds (covalent S-S linkages between cysteine residues) stabilize the native fold of many secretory and membrane proteins. The protein disulfide isomerase (PDI) family catalyzes both disulfide formation (oxidation) and rearrangement of incorrect disulfide pairings (isomerization). Ero1-alpha transfers electrons from PDI to molecular oxygen, generating [[hydrogen-peroxide-tissue-culture-wild-polypores]] as a byproduct. In the cytosol, disulfide bonds are generally reduced; however, specific cytosolic proteins (e.g., thioredoxin, glutaredoxin) can form transient disulfides as part of redox signaling. The formation of correct disulfide pairings is a critical quality checkpoint in the ER, and failure to form proper disulfides targets proteins for ERAD.
 
 Understanding the biophysical principles of protein folding and the cellular machinery maintaining proteostasis is essential for rational drug design targeting conformational diseases.
 

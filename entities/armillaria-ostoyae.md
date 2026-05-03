@@ -72,7 +72,7 @@ Research into biological control of *A. ostoyae* has explored several approaches
 
 - **Competitive Saprotrophs:** Inoculation of stumps with competing fungi such as *Trichoderma* species or *Phlebiopsis gigantea* can reduce *Armillaria* colonization.
 - **Predation:** Nematode-trapping fungi and other soil microorganisms may influence *Armillaria* populations, though this remains poorly understood.
-- **Mycorrhizal Interactions:** There is evidence that certain ectomycorrhizal fungi can provide some protection against *Armillaria* infection, though the mechanisms are not fully elucidated.
+- **Mycorrhizal Interactions:** There is evidence that certain [[ectomycorrhizal-fungi]] can provide some protection against *Armillaria* infection, though the mechanisms are not fully elucidated.
 
 ## Research Significance
 
@@ -98,7 +98,7 @@ The genus *Armillaria* contains approximately 10 described species in North Amer
 - **1992:** The Malheur National Forest individual in Oregon is identified through somatic incompatibility testing and genetic analysis as a single genet, drawing worldwide attention as potentially the largest organism on Earth by area
 - **1998:** DNA fingerprinting techniques confirm the Oregon genet covers approximately 9.6 km², with age estimates ranging from 2,400 to 8,650 years
 - **2008:** Volk and colleagues propose the reinstatement of the name *Armillaria solidipes* based on Peck's earlier (1900) description, though *A. ostoyae* remains dominant in the forest pathology literature
-- **2011:** The genome of *A. ostoyae* is sequenced, revealing a large genome (~73 Mb) with numerous gene families associated with plant cell wall degradation, detoxification, and rhizomorph development
+- **2011:** The genome of *A. ostoyae* is sequenced, revealing a large genome (~73 Mb) with numerous gene families associated with plant cell wall degradation, detoxification, and [[rhizomorph-development]]
 - **2015:** Stable isotope studies (d15N, d13C) using *Armillaria* species demonstrate their utility in tracing nitrogen and carbon cycling through forest food webs, distinguishing saprotrophic from mycorrhizal nutrient acquisition strategies
 - **2020s:** Climate modeling studies predict northward range expansion and increased disease severity in North American forests under warming scenarios, prompting revised management guidelines
 

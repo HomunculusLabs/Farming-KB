@@ -25,9 +25,6 @@ sources:
 
 The archaeological evidence for prehistoric psychedelic mushroom use is fragmentary and controversial. Andy Letcher's "Shroom" (2006) provides a thorough critical assessment of the claims and evidence, concluding that "there is not a single instance of a magic mushroom being preserved in the archaeological record anywhere."
 
-
-
-
 ## Direct Archaeological Evidence
 
 ### Fungal Remains at Archaeological Sites
@@ -35,16 +32,13 @@ The archaeological evidence for prehistoric psychedelic mushroom use is fragment
 The direct evidence is extremely limited:
 - **Scole, Norfolk (Roman well):** Puffball spores (Lycoperdon) found in a Roman well. These puffballs were past the edible stage when deposited, making their presence mysterious — possibly used for magic, medicine, or even loft insulation.
 - **North American grave guardians:** 19th-century indigenous grave "guardians" (carved figures of faces and animals) were found to be made from dried Fomitopsis officinalis mushroom, not wood as originally thought.
-- **Ergot (Claviceps purpurea):** Ergot sclerotia were found in the stomach contents of the exquisitely preserved Iron Age "bog bodies" of Denmark (Grauballe Man and others). However, whether ergot was consumed knowingly for its psychoactive effects is unclear — Grauballe Man appears to have been violently executed.
+- **Ergot ([[claviceps-purpurea]]):** Ergot sclerotia were found in the stomach contents of the exquisitely preserved Iron Age "bog bodies" of Denmark (Grauballe Man and others). However, whether ergot was consumed knowingly for its psychoactive effects is unclear — Grauballe Man appears to have been violently executed.
 
 ### Psychoactive Plant Evidence
 
-Preserved poppy heads (Papaver somniferum) uncovered in Britain, Switzerland, and Spain suggest opium production from the Neolithic onwards. Cannabis (Cannabis sativa) evidence appears in Britain and Eastern Europe from perhaps the late Bronze Age. Henbane (Hyoscyamus niger) seeds and pollen have been found in Neolithic Grooved Ware pottery at Balfarg in Scotland.
+Preserved poppy heads (Papaver somniferum) uncovered in Britain, Switzerland, and Spain suggest opium production from the Neolithic onwards. Cannabis (Cannabis sativa) evidence appears in Britain and Eastern Europe from perhaps the late Bronze Age. Henbane ([[hyoscyamus-niger]]) seeds and pollen have been found in Neolithic Grooved Ware pottery at Balfarg in Scotland.
 
 However, Letcher argues that the presence of these plants does not guarantee psychoactive use: poppy seeds are nutritious, opium is a painkiller, cannabis has medical uses and fiber applications, and henbane seeds might have been kept purely as a display of mastery over a poisonous plant.
-
-
-
 
 ## Rock Art Interpretation
 
@@ -68,15 +62,9 @@ Laser scans have revealed Bronze Age carvings on the sarsen stones at Stonehenge
 
 The magnificent Iron Age Gundestrup cauldron, decorated with pictures of animals, plants, and a horned figure, has been tentatively suggested to contain representations of psychoactive plants or even Liberty Caps, but the identification remains speculative.
 
-
-
-
 ## Letcher's Assessment
 
 Letcher identifies a fundamental problem: "It is not enough to identify an image as a representation of a magic mushroom on the basis of homology alone." Without contextual evidence, mushroom-shaped objects in ancient art could represent anything. He also notes the important principle that "cultures that use one psychoactive plant may have a socially constructed aversion towards, or be wholly ignorant of, another" — psychoactive know-how is not always horizontally transferable. Terence McKenna's own experience illustrates this: when he traveled to the Amazon to investigate oo-koo-he, he found the locals were ignorant of the magic mushrooms sprouting from their cattle dung.
-
-
-
 
 ## See Also
 

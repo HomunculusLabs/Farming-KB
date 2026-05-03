@@ -133,4 +133,3 @@ The most effective biological pest management combines both strategies
 - [[companion-planting-reference]]
 - [[comparison-trap-cropping-vs-companion-planting]]
 - [[comparison-insectary-plants-vs-trap-crops]]
-

@@ -21,8 +21,7 @@ tags: [reference]
 
 The linguistic technique that John Marco Allegro claimed to have discovered
 underlying the composition of the New Testament was a sophisticated system
-of multilingual punning. According to his thesis in "The Sacred Mushroom and
-the Cross," the Gospel writers composed their texts so that individual words
+of multilingual punning. According to his thesis in "The [[sacred-mushroom-and-the-cross]]," the Gospel writers composed their texts so that individual words
 and phrases could be read simultaneously in Greek, Semitic languages (Hebrew
 and Aramaic), and Sumerian -- the oldest written language of Mesopotamia.
 Each reading revealed a different layer of meaning, with the deepest
@@ -41,7 +40,7 @@ Indo-European languages through cultural contact and trade.
 
 Crucially, the original Sumerian meanings of many plant names and religious
 terms had been lost or obscured over the millennia. Words that once referred
-specifically to the sacred mushroom and its cult had come to be associated
+specifically to the [[sacred-mushroom-names-cross-cultural-synonyms]] and its cult had come to be associated
 with other plants or with abstract religious concepts. Allegro believed that
 by tracing words back to their Sumerian roots, he could recover the original
 mushroom references that had been encoded in the biblical texts.
@@ -75,10 +74,10 @@ and its phallic appearance.
 Among the most important was the Sumerian phrase meaning "cone of the erect
 phallus" -- a direct description of the mushroom's shape. This phrase, Allegro
 traced through Syriac (khurbeqana) and Arabic (kharbaq) names for Hellebore,
-arguing that the plant name had been transferred from the mushroom to other
+arguing that the plant name had been transferred from [[allegro-canaanite-religion-and-the-mushroom]] to other
 species while retaining its original morphological reference. The Greek
 Korkoron, which appeared as an alternative name for several plants in the
-classical pharmacopoeia, was similarly derived from this Sumerian mushroom
+classical pharmacopoeia, was similarly derived from this [[sumerian-mushroom-nomenclature]]
 name.
 
 ## The BALAG Root: Crown, Glans, and Church
@@ -127,7 +126,7 @@ The name "Paeony," for example, was traced to a Sumerian original meaning
 "capsule of fecundity; womb" -- a clear reference to the mushroom's volva.
 Pliny's description of the Paeony as a plant that "prevents the mocking
 delusions that the Fauns bring us in our sleep" made far more sense if the
-plant in question was actually the psychoactive [[allegro-colour-and-consistency-of-the-amanita-muscaria]] rather than the garden flower we know today.
+plant in question was actually the psychoactive [[allegro-colour-and-consistency-of-the-amanita-muscaria]] rather than [[faires-herbal-medicine-from-the-garden]] flower we know today.
 
 Similarly, the plant called Cotuledon (Navelwort) derived from Sumerian
 words meaning "ball-and-socket" or "penis-and-vulva," its sexual

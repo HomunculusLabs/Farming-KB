@@ -48,7 +48,7 @@ Alternatively, roots inserted into polished stainless steel needles achieve more
 
 ## Elemental Detection Capabilities
 
-Micro-PIXE can simultaneously measure all elements from sodium (atomic number 11) to uranium (atomic number 92) with detection limits in the range of 1-10 micrograms per gram for most biologically relevant elements. Macro-nutrients (P, S, K, Ca), micro-nutrients (Fe, Mn, Zn, Cu, Ni), and toxic elements (Cd, Pb, As, Zn at elevated concentrations) can all be quantified in the same measurement. This multi-element capability makes micro-PIXE particularly valuable for studying interactions between nutrient uptake and toxic metal accumulation.
+Micro-PIXE can simultaneously measure all elements from sodium (atomic number 11) to uranium (atomic number 92) with detection limits in the range of 1-10 micrograms per gram for most biologically relevant elements. Macro-nutrients (P, S, K, Ca), micro-nutrients (Fe, Mn, Zn, Cu, Ni), and toxic elements (Cd, Pb, As, Zn at elevated concentrations) can all be quantified in the same measurement. This multi-element capability makes micro-PIXE particularly valuable for studying interactions between [[query-how-do-amf-improve-plant-nutrient-uptake]] and toxic [[mushroom-food-safety-heavy-metal-accumulation]].
 
 Macro-nutrients (P, S, K, Ca), micro-nutrients (Fe, Mn, Zn, Cu, Ni), and toxic elements (Cd, Pb, As, Zn at elevated concentrations) can all be quantified in the same measurement.
 
@@ -56,7 +56,7 @@ This multi-element capability makes micro-PIXE particularly valuable for studyin
 
 ## Applications to Mycorrhizal Research
 
-Micro-PIXE has been applied to study element localization in roots of mycorrhizal plants colonized by arbuscular mycorrhizal (AM) fungi growing on metal-contaminated soils. Studies have mapped the distribution of elements such as phosphorus, zinc, cadmium, and lead in root cross-sections, revealing how AM fungal colonization affects element partitioning within root tissues. The technique can distinguish element concentrations in different cell types and compartments, providing evidence for detoxification mechanisms including sequestration in specific cell types or avoidance of metal uptake in colonized root regions.
+Micro-PIXE has been applied to study element localization in roots of mycorrhizal plants colonized by [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] (AM) fungi growing on metal-contaminated soils. Studies have mapped the distribution of elements such as phosphorus, zinc, cadmium, and lead in root cross-sections, revealing how AM fungal colonization affects element partitioning within root tissues. The technique can distinguish element concentrations in different cell types and compartments, providing evidence for detoxification mechanisms including sequestration in specific cell types or avoidance of metal uptake in colonized root regions.
 
 Studies have mapped the distribution of elements such as phosphorus, zinc, cadmium, and lead in root cross-sections, revealing how AM fungal colonization affects element partitioning within root tissues.
 
@@ -64,7 +64,7 @@ The technique can distinguish element concentrations in different cell types and
 
 ## Detoxification Mechanism Studies
 
-Element distribution maps obtained by micro-PIXE can indicate possible pathways of detoxification in mycorrhizal plants. For example, accumulation of toxic metals in root cortical cells rather than vascular tissue suggests a strategy of root-level sequestration that prevents metal translocation to shoots. Differences in element distribution between mycorrhizal and non-mycorrhizal roots can reveal how fungal colonization modifies metal tolerance. Co-localization patterns of essential nutrients and toxic elements can indicate competitive interactions for uptake or transport pathways.
+Element distribution maps obtained by micro-PIXE can indicate possible pathways of detoxification in mycorrhizal plants. For example, accumulation of toxic metals in root cortical cells rather than vascular tissue suggests a strategy of root-level sequestration that prevents metal translocation to shoots. Differences in element distribution between mycorrhizal and non-mycorrhizal roots can reveal how fungal colonization modifies metal tolerance. Co-localization patterns of essential nutrients and toxic elements can indicate competitive interactions for uptake or [[the-apoplastic-symplastic-and-transcellular-transport-pathways]].
 
 For example, accumulation of toxic metals in root cortical cells rather than vascular tissue suggests a strategy of root-level sequestration that prevents metal translocation to shoots.
 
@@ -74,7 +74,7 @@ Co-localization patterns of essential nutrients and toxic elements can indicate 
 
 ## Comparison with Other Techniques
 
-Micro-PIXE offers advantages over several alternative analytical methods. Unlike bulk chemical analysis (AAS, ICP-MS), it provides spatially resolved information. Compared to electron microscopy-based techniques (EDX), it offers better sensitivity for trace elements and lower detection limits. Synchrotron-based X-ray fluorescence (SXRF) offers similar capabilities but requires access to synchrotron facilities, whereas micro-PIXE uses more accessible accelerator-based instruments. However, micro-PIXE cannot detect light elements (below Na) and provides lower spatial resolution than some synchrotron techniques.
+Micro-PIXE offers advantages over several alternative analytical methods. Unlike bulk chemical analysis (AAS, ICP-MS), it provides spatially resolved information. Compared to electron microscopy-based techniques (EDX), it offers better sensitivity for [[teaming-with-nutrients-micronutrients-and-trace-elements]] and lower detection limits. Synchrotron-based X-ray fluorescence (SXRF) offers similar capabilities but requires access to synchrotron facilities, whereas micro-PIXE uses more accessible accelerator-based instruments. However, micro-PIXE cannot detect light elements (below Na) and provides lower spatial resolution than some synchrotron techniques.
 
 Unlike bulk chemical analysis (AAS, ICP-MS), it provides spatially resolved information.
 

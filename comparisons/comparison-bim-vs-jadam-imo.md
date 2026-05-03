@@ -30,7 +30,7 @@ BIM is Gil Carandang's Philippine approach to indigenous microorganisms that
 combines multiple microbial sources into a single blended serum. The system is
 notable for its simplicity and speed compared to the more elaborate Korean
 Natural Farming (KNF) IMO process developed by Cho Han-kyu. BIM's composition is
-approximately 50 percent lactic acid bacteria (LAB) combined with 50 percent
+approximately 50 percent [[lactic-acid-bacteria]] (LAB) combined with 50 percent
 other microorganisms sourced from forest soil, bamboo stands, and plant-specific
 environments.
 
@@ -49,7 +49,7 @@ in humus under a healthy old tree at a depth of 2 feet to 1 yard. Within 2-10
 days, white and colored molds colonize the rice, indicating successful microbial
 capture. This material is combined with LAB and sugar to create the complete BIM
 serum. BIM integrates with Carandang's broader bionutrient system that includes
-fermented plant juice (FPJ), fermented fruit juice (FFJ), and oriental herbal
+[[fermented-plant-juice]] (FPJ), fermented fruit juice (FFJ), and oriental herbal
 nutrients (OHN).
 
 ## JADAM JMS

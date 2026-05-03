@@ -13,7 +13,7 @@ type: concept
 When a collector finds mushrooms in the wild, the encounter is a mere
 coincidence, a "snap-shot" in time of a far vaster process. The mushroom
 life cycle remainsporegely invisible to most mushroom hunters; not so to
-cultivators. The cultivator follows the path of the mushroom life cycle
+cultivators. The cultivator follows the path of the mushroom [[growing-gourmet-black-morel-sclerotia-life-cycle]]
 from beginning to end. Only at the completion of the mushroom life
 cycle, which may span weeks or months, do mushrooms appear, and then
 they occur for but a few days.
@@ -33,7 +33,7 @@ germinate, the mycelium grows out radially, away from the site of
 origin. Spores, taken up by the wind, or carried by insects and mammals,
 are dispersed to habitats well distant from the parent mushroom.
 
-By coincidence, different varieties of the same species meet and exchange
+By coincidence, different varieties of the same species meet [[mollison-designers-community-seed-banks-and-exchange]]
 genetic material. In the ever-changing ecological landscape, new
 varieties are favorably selected for and survive. This diversity within a
 species is critical to preserving its ability to adapt.
@@ -45,7 +45,7 @@ continue to reproduce mitotically. Enzymes and acids are secreted by the
 mushroom mycelium into the surrounding environment, breaking down
 lignin-cellulose complexes into simpler compounds. The mushroom mycelium
 absorbs these reduced organic molecules as nutrients directly through its
-cell walls.
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 
 ## Mating and Dikaryotization
 
@@ -97,7 +97,7 @@ With the approach of winter, the mycelial mat retreats to survive in
 specific sites. At this time, many mushrooms, both gilled and
 non-gilled, produce sclerotia. Sclerotia are a resting phase in the
 mushroom life cycle. They resemble a hardened tuber, wood-like in
-texture. While in this dormant state, the mushroom species can survive
+texture. While in this dormant state, the [[query-what-is-the-strongest-psilocybin-mushroom-species]] can survive
 inclement weather conditions like drought, fire, flooding, or other
 natural catastrophes. In the spring, the sclerotia swell with water and
 soften. Directly from the sclerotia, mushrooms emerge. Morels are the
@@ -106,7 +106,7 @@ best known mushrooms which arise from sclerotia.
 ## Primordia Formation
 
 From the natural decline in temperature within the host substrate, as
-well as in response to environmental stimuli (water and humidity, light,
+well as in response to environmental stimuli (water [[vegetable-storage-conditions-by-temperature-and-humidity]], light,
 drop in temperature, reduction in carbon dioxide), the mushroom mycelium
 is triggered into mushroom production. The mechanism responsible for
 this sudden shift from active colonization to mushroom formation is

@@ -15,7 +15,7 @@ sources: []
 
 ## Why Proper Drying Matters for Medicinal Herbs
 
-Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stabilidecompositioncompounds—alkaloids, essential oils, flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, enzymatic degradation of medicinal constituents, or uneven curing that creates hot spots of decomposition.
+Drying is the single most critical post-harvest step for preserving medicinal potency. Fresh herbs contain 70–90% water, and the speed and method of moisture removal directly affect the concentration and stabilidecompositioncompounds—alkaloids, essential oils, flavonoids, and terpenes. Poor drying leads to mold, loss of volatile oils, [[enzymatic-degradation-in-mycoremediation]] of medicinal constituents, or uneven curing that creates hot spots of decomposition.
 
 The goal is to remove moisture steadily and completely while preserving the maximum concentration of the phytochemicals you grew the herb for in the first place.
 
@@ -26,7 +26,7 @@ The goal is to remove moisture steadily and completely while preserving the maxi
 | **Temperature** | 70–95°F (21–35°C) | Low enough to prevent volatile oil evaporation; high enough to inhibit microbial growth |
 | **Humidity** | 40–55% RH | Below 40% dries too fast and shatters leaves; above 60% risks mold |
 | **Airflow** | Gentle, continuous | Stagnant air creates microclimates of high humidity around plant material |
-| **Light** | Dark or indirect | UV light degrades chlorophyll and photolabile compounds like certain alkaloids and flavonoids |
+| **Light** | Dark or indirect | UV light degrades chlorophyll and photolabile compounds like certain alkaloids [[blesching-cannabis-terpenoids-and-flavonoids]] |
 | **Time** | 3–14 days (species-dependent) | Rushing with heat destroys quality; slow drying in humid conditions invites mold |
 
 Different herb categories have different sensitivities:
@@ -82,7 +82,7 @@ Preparation varies by plant part and affects drying speed and final quality:
 
 ### Roots
 
-- Wash thoroughly—roots grow in soil and must be cleaned.
+- Wash thoroughly—roots grow [[singh-fungal-interactions-with-heavy-metals-in-soil]] and must be cleaned.
 - Slice roots ⅛–¼" thick for even drying. Thinner slices dry faster and more uniformly.
 - Large roots (marshmallow, valerian) may need to be split lengthwise before slicing.
 
@@ -118,8 +118,8 @@ Proper storage preserves months of growing effort:
 1. **Drying in direct sunlight**: UV light destroys flavonoids, alkaloids, and essential oils. Herbs bleach and lose medicinal value.
 2. **Stacking herbs too thickly**: Overcrowding traps moisture and creates mold. Always leave space for air movement between pieces.
 3. **Using an oven or microwave**: These generate far too much heat and destroy volatile compounds. Even the lowest oven setting (170°F) is too hot.
-4. **Drying herbs and mushrooms in the same space**: Mushrooms release enormous amounts of spores during drying, which can contaminate herb batches and cause respiratory irritation.
-5. **Not labeling immediately**: Once dried, many herbs look similar. Label every jar with the herb name, harvest date, and drying date.
+4. **Drying herbs [[mycelium-running-forestry-practices-and-mushrooms]] in the same space**: Mushrooms release enormous amounts of spores during drying, which can contaminate herb batches and cause respiratory irritation.
+5. **Not labeling immediately**: Once dried, many herbs look similar. Label every jar with the herb name, harvest date, [[gottlieb-psilocybin-cultivation-harvesting-and-drying]] date.
 6. **Ignoring ambient humidity**: If you live in a humid climate (above 65% RH), passive air drying may not be sufficient. Use a dehumidifier in the drying space or a small fan with a desiccant packet system.
 
 ## See Also

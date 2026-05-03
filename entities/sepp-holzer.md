@@ -29,15 +29,9 @@ sources:
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 
-
-
-
 ## Overview
 
 Josef "Sepp" Holzer (born 1942) is an Austrian farmer, author, and consultant known as the **"Agro-Rebel"** (Der Agrarrebell) for his unconventional farming methods. He operates the **Krameterhof**, a 45-hectare farm at 1,100 meters elevation in the Austrian Alps, where he grows citrus fruits, kiwis, and other subtropical plants — crops considered impossible at that altitude and latitude. He is one of the most influential practical permaculture practitioners in the world.
-
-
-
 
 ## Key Contributions
 
@@ -48,31 +42,19 @@ Josef "Sepp" Holzer (born 1942) is an Austrian farmer, author, and consultant kn
 - **Animal integration:** Uses pigs, cattle, and poultry in managed grazing and landscape modification. Animals are tools for land management, not just products.
 - **Desert reclamation:** Applied his methods to desert restoration projects in Spain, Portugal, Morocco, and other arid regions.
 
-
-
-
 ## Major Works
 
 - **"Sepp Holzer's Permaculture"** (2004) — Practical guide to his methods at Krameterhof.
 - **"Desert or Paradise"** (2012) — Desert reclamation and water retention landscapes.
 - **"Holzer Permaculture"** (various films and documentary features)
 
-
-
-
 ## Approach
 
 Holzer's methods are distinctive for being highly empirical — he developed his techniques through decades of observation and experimentation rather than academic study. His advice is often iconoclastic: "I am always doing what I am forbidden to do." He emphasizes trusting observation over theory.
 
-
-
-
 ## Legacy
 
 Holzer's practical demonstrations have inspired regenerative farmers worldwide. His techniques for raised beds, ponds, terracing, and animal integration are directly applicable to homesteading in challenging climates. The [[sepp-holzer-methods]] page covers his specific techniques in detail.
-
-
-
 
 ## See Also
 

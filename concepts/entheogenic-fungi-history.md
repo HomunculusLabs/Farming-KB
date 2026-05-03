@@ -21,7 +21,7 @@ role these fungi have played in many traditional societies.
 The earliest known evidence of psychoactive mushroom use comes from rock
 art found in various locations around the world. In the Sahara Desert,
 mushroom-shaped figures dated to approximately 7,000 to 9,000 years ago
-appear to depict psilocybin mushrooms and their use in ritual contexts.
+appear to depict [[psilocybin-mushrooms]] and their use in ritual contexts.
 In Spain, cave paintings at Cueva de Pileta dating to the Neolithic period
 show mushroom-like figures alongside dancing human forms. In Algeria, frescos
 at Tassili n'Ajjer depict mushroom-headed figures that some researchers
@@ -63,7 +63,7 @@ R. Gordon Wasson's 1957 article in Life magazine, "Seeking the Magic
 Mushroom," introduced psilocybin mushrooms to Western popular culture and
 triggered a wave of scientific and popular interest. Wasson's account of
 his experiences with Psilocybe mushrooms in Mexico inspired researchers
-including Albert Hofmann, the Swiss chemist who had previously discovered
+including [[albert-hofmann]], the Swiss chemist who had previously discovered
 LSD, to investigate the active compounds in these mushrooms. Hofmann
 successfully isolated and synthesized psilocybin and psilocin in 1958,
 paving the way for pharmacological research and clinical investigation
@@ -124,5 +124,5 @@ knowledge makes the research possible.
 - [[psilocybin-mushrooms-biology]]
 - [[psilocybin-pharmacology]]
 - [[psilocybin-therapy]]
-- mazatec mushroom traditions
+- [[mazatec-mushroom-tradition]]
 - psychedelic renaissance

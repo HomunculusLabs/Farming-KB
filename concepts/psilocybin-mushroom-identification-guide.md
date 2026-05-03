@@ -26,7 +26,7 @@ Proper identification requires training, patience, and ideally expert guidance. 
 
 ### 1. Blue Bruising (Bluing Reaction)
 
-The most characteristic feature of psilocybin mushrooms is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
+The most characteristic feature of [[psilocybin-mushrooms]] is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
 
 - Bluing may appear on the stem, cap, gills, or flesh when damaged.
 - The reaction is not instantaneous; it may take seconds to minutes to develop.
@@ -39,9 +39,9 @@ A spore print is essential for identification. Place the cap gills-down on paper
 
 - Most psilocybin mushrooms produce a **purple-brown to dark purple-black** spore print.
 - *Psilocybe cubensis*: Purple-brown to nearly black.
-- *Psilocybe semilanceata*: Dark purple-brown.
-- *Psilocybe cyanescens*: Dark purplish-brown.
-- *Panaeolus cyanescens*: Black.
+- *[[psilocybe-semilanceata]]*: Dark purple-brown.
+- *[[psilocybe-cyanescens]]*: Dark purplish-brown.
+- *[[panaeolus-cyanescens]]*: Black.
 
 ### 3. Gill Characteristics
 

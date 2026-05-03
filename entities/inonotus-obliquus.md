@@ -17,7 +17,7 @@ sources:
 
 *Inonomedicinal-mushroomsonly known as chaga, is a sterile conk (sclerotial mass) that forms on the bark of birch trees
 in cold climates and has been used as a traditionmyceliumine across Northern Europe, Siberia, and North America for
-centuries. Unlike most medicinal mushrooms, the commercially and medicinally used portion of chaga is not the fruiting
+centuries. Unlike most [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]], the commercially and medicinally used portion of chaga is not the fruiting
 body but rather a dark, cracked, sterile mass of densely compacted mycelium and host tree compounds that develops over
 years or decades of parasitic growth.
 
@@ -51,7 +51,7 @@ and the northern United States). The fungus is an obligate parasite of birch tre
 preference for paper birch (*B. papyrifera*) in North America and silver birch (*B. pendula*) and downy birch (*B.
 pubescens*) in Eurasia. The sclerotium develops slowly over 10–20 years or more on living trees, eventually
 contributing to the death of the host by disrupting nutrient and water transport. The extreme cold of the boreal
-environment in which chaga grows is believed to contribute to its accumulation of protective secondary metabolites,
+environment in which chaga grows is believed to contribute to its accumulation of protective [[singh-ergot-alkaloid-fungal-secondary-metabolites]],
 including melanin and betulin derivatives.
 
 ## Bioactive Compounds
@@ -70,7 +70,7 @@ berries, and other well-known antioxidant-rich foods by orders of magnitude in s
 ## Anti-Tumor Research
 
 Chaga extracts have demonstrated anti-tumor activity across numerous in vitro and in vivo studies. Mechanisms include
-direct cytotoxic effects on tumor cells via induction of apoptosis (programmed cell death), anti-angiogenic activity
+direct cytotoxic effects on tumor cells via induction of apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-death]]), anti-angiogenic activity
 (inhibition of new blood vessel formation essential for tumor growth), immunomodulation (enhancement of anti-tumor
 immune responses), and inhibition of tumor cell migration and invasion. Betulinic acid, in particular, has been
 extensively studied as a selective inducer of apoptosis in cancer cells while sparing normal cells, and has shown
@@ -93,7 +93,7 @@ cosmetics.
 
 The method of preparation significantly affects the bioactive compound profile of chaga extracts. Hot water extraction
 (decoction) is effective for extracting water-soluble polysaccharides and some phenolic compounds but does not
-efficiently extract the lipophilic triterpenoids including betulinic acid. Dual extraction methods — combining hot
+efficiently extract the lipophilic triterpenoids including betulinic acid. Dual [[comparison-cannabis-extraction-basics-vs-extraction-methods]] — combining hot
 water extraction with alcohol (ethanol) extraction — are considered superior for capturing the full range of
 bioactive compounds. The alcohol extraction is particularly important for accessing the triterpenoid fraction, which
 contains many of the anti-tumor and anti-inflammatory compounds. Some commercial preparations use supercritical CO₂
@@ -105,7 +105,7 @@ extract the triterpenoid constituents.
 
 Wild chaga harvesting has raised significant sustainability concerns due to increasing commercial demand.
 Overharvesting, particularly the destructive practice of removing the entire sclerotium including the internal mass
-embedded in the tree, can damage or kill the host birch tree. Sustainable harvesting practices recommend removing only
+embedded in the tree, can damage or kill the host birch tree. [[holmgren-forest-management-and-sustainable-harvesting]] practices recommend removing only
 the external portion of the sclerotium (approximately one-third of the visible mass), leaving enough fungal tissue to
 continue growing. The slow growth rate of chaga (10–20+ years to produce a harvestable sclerotium) means that
 overharvested populations may require decades to recover. Cultivation efforts have had limited success, as the

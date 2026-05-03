@@ -12,7 +12,7 @@ sources: ["raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"]
 
 Wakefield, commonly known as "cyans," "blue
 halos," or the "wavy-capped Psilocybe," is a moderately to highly
-potent psilocybin mushroom found throughout temperate regions of the
+potent [[psilocybin-mushroom]] found throughout temperate regions of the
 world. Named for its distinctive wavy cap margin, this species is one
 of the most widely distributed active Psilocybes, ranging from the
 Pacific Northwest of North America across much of Europe. [[andrew-weil]]
@@ -107,7 +107,7 @@ the lack of a distinct umbo. Other related species include,,,
 P. cyanescens is an important decomposer of woody debris in temperate
 coastal ecosystems. Its preference for wood chip mulch means it has
 expanded its range considerably alongside human landscaping practices.
-The species forms extensive mycelial networks in enriched soils and can
+The species forms extensive [[mycelial-networks]] in enriched soils and can
 persist for years in established garden beds, fruiting prolifically
 each fall when temperatures drop and moisture increases.
 
@@ -119,7 +119,7 @@ are:
  specimens
 - The caramel to chestnut brown cap coloration when moist
 - Strong bluing reaction upon handling or injury
-- Dark purplish brown spore print
+- Dark purplish brown [[spore-print]]
 - Habitat in wood chips, sawdust, or woody garden debris
 
 Foragers should exercise extreme caution, as and

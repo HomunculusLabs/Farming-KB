@@ -12,9 +12,9 @@ sources:
 **Pancratium trianthum** is a bulbous perennial plant in the Amaryllis
 family (Amaryllidaceae), native to tropical and subtropical regions of
 Africa. It is one of several *Pancratium* species known to contain
-[[psychedelic-plants-chemical-guide|psychoactive]] Amaryllidaceae [[datura-metel|alkaloid]]s, and it has a documented history of
+[[psychedelic-plants-chemical-guide]] Amaryllidaceae alkaloids, and it has a documented history of
 use in traditional African medicine and spiritual practices. The plant is
-sometimes referred to by common names including African daffodil, sea lily,
+sometimes referred to by [[australian-magic-mushroom-common-names]] including African daffodil, sea lily,
 and various vernacular names in African languages reflecting its ceremonial
 and medicinal importance.
 
@@ -55,8 +55,7 @@ areas. It is often found in seasonally dry habitats where the bulb allows
 it to survive extended drought periods by entering dormancy. The species
 favors warm, well-drained soils and positions with full sun to partial
 shade. Several related *Pancratium* species are found in similar African
-habitats, and their distributions sometimes overlap, making field
-identification challenging. *P. trianthum* is distinguished by its
+habitats, and their distributions sometimes overlap, making [[palmer-mushroom-hunting-field-identification]] challenging. *P. trianthum* is distinguished by its
 characteristic flower number (the specific epithet *trianthum* means
 "three-flowered"), corona morphology, and tepal shape.
 
@@ -66,7 +65,7 @@ Amaryllidaceae alkaloids — a structurally diverse class of
 isoquinoline-derived compounds unique to this plant family. These alkaloids
 are biosynthesized from the amino acid tyrosine via the intermediate
 norbelladine, with structural diversity arising from different intramolecular
-oxidative coupling patterns. The principal alkaloids found in *Pancratium*
+[[fungal-methylation-oxidative-coupling]] patterns. The principal alkaloids found in *Pancratium*
 species include:
 - **Lycorine** — the most widely distributed Amaryllidaceae alkaloid,
   found in many genera within the family; it has emetic, antiviral,
@@ -87,7 +86,7 @@ species include:
 - **Hippeastrine** and related crinine-type alkaloids — a subgroup of
   Amaryllidaceae alkaloids with a characteristic 5,10b-ethanophenanthridine
   ring system; some exhibit cytotoxic and antimalarial activity
-The [[psychedelic-plants-chemical-guide|psychoactive]] properties of *Pancratium* species are attributed
+The [[psychedelic-plants-chemical-guide]] properties of *Pancratium* species are attributed
 primarily to the combined effects of lycorine and related alkaloids, which
 can produce dizziness, nausea, visual disturbances, and at sufficient doses,
 hallucinatory experiences. The alkaloid profile of *P. trianthum*
@@ -97,12 +96,11 @@ related species, and further phytochemical investigation is warranted.
 *Pancratium trianthum* has a documented history of use in traditional
 African medicine and spiritual practice across its wide distribution range,
 though the literature is less extensive than for many better-known
-[[psychedelic-plants-chemical-guide|psychoactive]] plants.
+[[psychedelic-plants-chemical-guide]] plants.
 ### Medicinal Use
 In West African traditional medicine, preparations from the bulb are used
 to treat a wide variety of conditions. The bulb is applied topically as a
-poultice or decoction for wounds, skin infections, boils, and inflammatory
-conditions. Internally, very small doses of bulb preparations have been
+poultice or decoction for wounds, skin infections, boils, and [[cannabis-for-inflammatory-conditions]]. Internally, very small doses of bulb preparations have been
 
 (Section truncated for length.)
 ## Toxicology
@@ -111,7 +109,7 @@ All parts of *Pancratium trianthum* are toxic, with the bulb containing
 the highest alkaloid concentrations. Ingestion causes nausea, vomiting,
 abdominal pain, salivation, dizziness, blurred vision, and in severe
 cases, cardiac arrhythmias, hypotension, convulsions, and respiratory
-depression. The narrow margin between doses producing [[psychedelic-plants-chemical-guide|psychoactive]] effects
+depression. The narrow margin between doses producing [[psychedelic-plants-chemical-guide]] effects
 and those causing serious toxicity makes the plant dangerous for casual or
 unguided use. Accidental poisoning most commonly occurs when the bulbs are
 mistaken for edible bulbous plants (such as onions or wild yams) or when
@@ -121,8 +119,7 @@ established. Lycorine inhibits protein synthesis at the ribosomal level
 and interferes with ascorbic acid metabolism. The minimum lethal dose of
 lycorine in experimental animals is approximately 2-5 mg/kg body weight,
 though individual sensitivity varies. Treatment of poisoning is supportive,
-with attention to fluid and electrolyte balance, cardiac monitoring, and
-management of seizures if they occur.
+with attention to fluid and electrolyte balance, cardiac monitoring, [[mollison-tropical-pasture-grass-species-selection-and-management]] of seizures if they occur.
 ## Pharmacological Research
 The Amaryllidaceae alkaloids found in *Pancratium* and related genera have
 attracted significant pharmaceutical interest in recent decades:

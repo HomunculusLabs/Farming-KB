@@ -11,15 +11,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/hofmann-a-lsd-my-problem-child.md]
 
 **Arthur Heffter** (June 15, 1859 – February 18, 1925) was a German pharmacologist and chemist who is widely regarded as the father of modern psychopharmacology. He is best known for being the first person to isolate and identify a psychoactive compound from a plant and self-administer it to study its effects — specifically **mescaline**, the active principle of the peyote cactus, which he isolated in 1897.
 
-
-
-
 ## Early Life and Education
 
 Heffter was born in Leipzig, Germany. He studied medicine and chemistry at the University of Leipzig, earning his medical degree in 1883. He subsequently worked as a pharmacologist and toxicologist, eventually becoming a professor at the University of Leipzig. His early research focused on the pharmacology of various natural substances and the mechanisms of drug action.
-
-
-
 
 ## The Mescaline Discovery
 
@@ -31,9 +25,6 @@ Heffter's methodology was groundbreaking: he isolated each alkaloid separately, 
 
 Heffter published his findings in 1898 in a landmark paper titled "Über Pellote" (On Peyote), which established the principle that the psychoactive effects of psychoactive plants are attributable to specific chemical compounds rather than mystical plant essences.
 
-
-
-
 ## Contributions to Pharmacology
 
 Beyond mescaline, Heffter made several other important contributions to pharmacology and toxicology:
@@ -43,15 +34,9 @@ Beyond mescaline, Heffter made several other important contributions to pharmaco
 - He conducted extensive studies on cardiac glycosides and their effects on the heart
 - He investigated the mechanisms of action of various toxins and drugs on organ systems
 
-
-
-
 ## Heffter Research Institute
 
 Heffter's contributions are commemorated by the **Heffter Research Institute**, founded in 1993 as a nonprofit organization dedicated to supporting research on psychedelic substances and their therapeutic potential. The institute, based in Santa Fe, New Mexico, funds clinical and preclinical research on psilocybin, MDMA, and other psychedelics for the treatment of conditions including depression, anxiety, PTSD, and substance use disorders.
-
-
-
 
 ## Historical Significance
 
@@ -63,15 +48,9 @@ Heffter's work established several foundational principles of modern psychopharm
 
 These principles directly enabled the work of later researchers including Alexander Shulgin, Albert Hofmann, and the entire field of modern psychedelic science.
 
-
-
-
 ## Death and Legacy
 
 Heffter died on February 18, 1925, in Freiburg im Breisgau, Germany, at the age of 65. His work was largely forgotten during the mid-20th century as pharmacology shifted toward synthetic drug development, but has been increasingly recognized in recent decades as the field of psychedelic research has undergone a renaissance.
-
-
-
 
 ## See Also
 

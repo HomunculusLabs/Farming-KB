@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Many entheogenic plants can be grown indoors with appropriate setup and care. Indoor cultivsalvia-divinorum-entityanpsychotria-viridisar-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the indoor cultivation of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and [[banisteriopsis-caapi]].
+Many entheogenic plants can be grown indoors with appropriate setup [[mollison-designers-citrus-growing-and-care]]. Indoor cultivsalvia-divinorum-entityanpsychotria-viridisar-round growing, controlled conditions, privacy, and the ability to maintain tropical species outside their native range. This guide covers the [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] of four key entheogenic plants: San Pedro cactus, Salvia divinorum, Psychotria viridis, and [[banisteriopsis-caapi]].
 
 Note: Growing these plants is legal in most jurisdictions when done for ornamental or botanical purposes. Consuming them for psychoactive content may be illegal. See [[psychedelic-plants-legal-status]] for jurisdiction-specific information.
 
@@ -70,8 +70,8 @@ Salvia rarely produces viable seeds. Propagation is by stem cuttings:
 3. Remove lower leaves, leaving 2–4 pairs at the top
 4. Place the cutting in a glass of water (or moist potting soil)
 5. Keep in a warm, humid, bright indirect light location
-6. Roots form in 2–4 weeks in water
-7. Once roots are 1–2 inches long, transplant to soil
+6. Roots form in 2–4 weeks [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
+7. Once roots are 1–2 inches long, transplant [[query-how-do-legumes-add-nitrogen-to-soil]]
 8. Maintain high humidity during the transition — a humidity dome or misting system helps
 
 ### Care
@@ -106,7 +106,7 @@ From seed:
 4. Germination: 3–8 weeks (can be erratic)
 5. Seedlings are slow-growing initially
 
-From cuttings:
+[[query-how-to-propagate-woody-herbs-from-cuttings]]:
 1. Take semi-hardwood cuttings 4–6 inches long
 2. Dip in rooting hormone
 3. Place in moist propagation mix under high humidity

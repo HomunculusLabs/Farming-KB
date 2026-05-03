@@ -31,7 +31,7 @@ when hallucinogenic mushrooms started to be commercialised by smartshops, new
 labels appeared reflecting changes in the groups who sell and use these drugs.
 
 The term 'philosopher's stone' is used to describe the sclerotia of certain
-hallucinogenic mushrooms, most notably that of Psilocybe mexicana, which are
+hallucinogenic mushrooms, most notably that of [[psilocybe-mexicana]], which are
 sold by many smartshops. Hallucinogenic mushrooms have also been sold by many
 retailers under the general label of 'Herbal highs' following the trend in the
 late 1990s towards the preference for organic and herbal products. Numerous
@@ -130,7 +130,7 @@ non-profit 'Free Spore Ring Europe'.
 
 In the UK, internet sites stopped selling hallucinogenic mushrooms in 2005.
 Retailers have started to switch their sales to legal alternatives such as
-Fly Agaric (Amanita muscaria) and Amanita pantherina, as well as Purple Ohms
+Fly Agaric (Amanita muscaria) and [[amanita-pantherina]], as well as Purple Ohms
 capsules which contain Hawaiian Baby Woodrose (Argyreia nervosa) with LSA.
 
 ## Criminological Evidence and Seizures

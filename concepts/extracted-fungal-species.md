@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [cannabis, fungal-ecology, mycology, processing]
-sources: []
+sources:
+  - "raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 
 # Extracted Content for 15 Fungal Species

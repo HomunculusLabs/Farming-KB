@@ -10,7 +10,7 @@ sources:
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 ---
 # Fire-Resistant Landscape Design
-Bill Mollison addresses fire in the landscape extensively in Chapter 5
+Bill Mollison addresses fire in [[permaculture-mapping-and-reading-the-landscape]] extensively in Chapter 5
 (Climatic Factors) and Chapter 14 of Permaculture: A Designers' Manual.
 He treats wildfire not as an external threat to be fought but as a
 landscape process that must be understood, anticipated, and designed for.
@@ -43,7 +43,7 @@ permaculture zoning framework:
 This is the most critical zone for protecting structures. Design
 requirements:
 - Remove all flammable vegetation within 3 to 5 metres of buildings
-- Use non-combustible ground covers: gravel, stone, concrete, brick
+- Use non-combustible [[mollison-designers-living-mulches-ground-covers]]: gravel, stone, concrete, brick
   paving, or closely mown green lawns (maintained and irrigated)
 - Store firewood, fuel, and combustible materials well away from
   buildings (minimum 10 metres, preferably 20+ metres)
@@ -62,7 +62,7 @@ buildings:
   least 3 to 5 metres)
 - Replace highly flammable shrubs with fire-resistant species
 - Maintain lawns or low ground covers, mowed regularly
-- Remove dead wood, leaf litter, and accumulated debris
+- Remove dead wood, [[leaf-litter-microfungal-diversity-tropical-temperate]], and accumulated debris
 - Retain isolated specimen trees with cleared, low-fuel understories
 ### Zone 3: Outer Management Zone (30 to 100+ metres)
 This zone provides strategic fuel reduction and firebreak function:
@@ -79,7 +79,7 @@ Mollison describes multiple approaches to reducing fuel loads:
 - Controlled burning: Prescribed fires conducted under safe conditions
   (cool, calm, moist weather) to reduce accumulated fuels. Requires
   skill, planning, and appropriate weather windows.
-- Grazing management: Livestock (particularly goats and cattle) consume
+- [[permaculture-designers-manual-grazing-management]]: Livestock (particularly goats and cattle) consume
   grass and shrub fuels. Rotational grazing through fire-prone areas
   before the ficompostingis highly effective.
 - Mechanical clearing: Slashing, mowing, or mulching to reduce fuel
@@ -89,7 +89,7 @@ Mollison describes multiple approaches to reducing fuel loads:
 - Composting and mulching: Converting cleared vegetation to compost or
   sheet mulch rather than burning it in piles.
 ## Species Selection
-Mollison emphasises that plant species selection is one of the most
+Mollison emphasises that plant [[mollison-designers-mixed-orchard-design-species-selection]] is one of the most
 powerful tools for fire-resistant landscape design:
 ### Fire-Resistant Species (Low Flammability)
 These species have high moisture content, low volatile oil content,

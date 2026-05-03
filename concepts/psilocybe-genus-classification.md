@@ -33,7 +33,7 @@ Taxonomic classification of the genus Psilocybe, including sections, species gro
 - **Family:** Hymenogastraceae (reclassified from Strophariaceae/Coprinaceae in modern taxonomy)
 - **Genus:** Psilocybe (Fr.) P. Kumm. (1871)
 - **Etymology:** From Greek "psilos" (bare/naked) + "kube" (head), referring to the smooth, bare cap surface of the type species
-- **Type species:** Psilocybe semilanceata (Fr.) P. Kumm.
+- **Type species:** [[psilocybe-semilanceata]] (Fr.) P. Kumm.
 - **Number of species:** Approximately 180-200 described species (as of Gartz/Guzman/Allen's 1998 survey); many more have been described since
 
 ## Generic Characteristics
@@ -142,7 +142,7 @@ Several other mushroom genera contain psilocybin and related tryptamines, with i
 
 - **Distinguishing features:** Black spore print; mottled gills (spots of different colors due to simultaneous spore maturation); thin, fragile stems; grows on dung
 - **Psychoactive species:**
-  - P. cyanescens (syn. Copelandia cyanescens) — very potent, pantropical, strong bluing
+  - P. cyanescens (syn. [[copelandia-cyanescens]]) — very potent, pantropical, strong bluing
   - P. subbalteatus — moderate potency, widespread in temperate regions
   - P. tropicalis — tropical, high potency
   - P. bisporus — 2-spored species, Caribbean

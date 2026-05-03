@@ -89,7 +89,7 @@ BRF cakes and grain spawn serve different purposes in mushroom cultivation. BRF 
 
 ## Environmental Requirements for Fruiting
 
-After full colonization, BRF cakes require specific environmental conditions to initiate and sustain fruiting. Temperature should drop to 70-75°F (a 5-10°F reduction from incubation temperature), humidity must remain above 90%, and fresh air exchange is essential throughout fruiting. A shotgun fruiting chamber (SGFC) — a plastic tote drilled with holes on all six sides and filled with damp perlite — provides passive humidity and air exchange adequate for small-scale cultivation. Light in the 6500K (daylight) spectrum for 12 hours daily triggers and directs fruiting body development. Mushrooms will grow toward light, so positioning the light source above the chamber encourages upward growth and reduces the likelihood of side-pinning.
+After full colonization, BRF cakes require specific environmental conditions to initiate and sustain fruiting. Temperature should drop to 70-75°F (a 5-10°F reduction from incubation temperature), humidity must remain above 90%, and fresh air exchange is essential throughout fruiting. A [[shotgun-fruiting-chamber]] (SGFC) — a plastic tote drilled with holes on all six sides and filled with damp perlite — provides passive humidity and air exchange adequate for small-scale cultivation. Light in the 6500K (daylight) spectrum for 12 hours daily triggers and directs [[fruiting-body-development]]. Mushrooms will grow toward light, so positioning the light source above the chamber encourages upward growth and reduces the likelihood of side-pinning.
 
 ## Key Considerations
 

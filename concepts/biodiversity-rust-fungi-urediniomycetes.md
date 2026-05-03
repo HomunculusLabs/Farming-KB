@@ -27,7 +27,7 @@ spore stages are designated by Roman numerals: 0 (spermogonia with
 spermatia), I (aecia with aeciospores), II (uredinia with urediniospores),
 III (telia with teliospores), and IV (basidia with basidiospores).
 
-Autoecious rusts complete their entire life cycle on a single host
+Autoecious rusts complete their entire [[growing-gourmet-black-morel-sclerotia-life-cycle]] on a single host
 species, while heteroecious rusts require alternation between two
 unrelated hosts. Well-known examples of heteroecious rusts include
 Puccinia graminis (wheat stem rust), which alternates between wheat
@@ -93,7 +93,7 @@ are notable examples.
 
 Sampling for rust fungi on living plant substrata requires systematic
 survey methods. Disease incidence (proportion of plants affected) and
-disease severity (proportion of plant tissue affected) are the two
+disease severity (proportion of [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] affected) are the two
 primary measurements used in rust epidemiology. Sample size
 requirements can be estimated using methods described by Kranz (1988).
 
@@ -125,13 +125,13 @@ sequences, which can be used even from herbarium specimens.
 
 ## Ecological Interactions
 
-Beyond their role as plant pathogens, rust fungi participate in complex
+Beyond their role as [[snow-mold-fungi-cold-temperature-plant-pathogens]], rust fungi participate in complex
 ecological interactions. Some rust species induce pseudoflower formation
 in their hosts, creating flower-like structures from infected leaves
 that pspore-dispersalnd attract pollinating insects. The crucifer rusts
 Puccinia thlaspeos and P. monoica inhibit flowering and cause host
 leaves to develop the color and nectar production of flowers, attracting
-various pollinating insects that facilitate rust spore dispersal.
+various pollinating insects that facilitate rust [[fungi-in-the-environment-fungal-spore-dispersal]].
 
 Rust fungi also interact with [[biodiversity-fungi-insect-symbiosis]] and other fungal groups. Fungicolous
 species from several ascomycete genera, including some Tubeufiaceae,
@@ -141,7 +141,7 @@ disease severity, making them subjects of interest for [[biodiversity-fungi-plan
 ## Economic Impact and Management
 
 The economic impact of rust diseases is immense, affecting food
-security, timber production, and ecosystem health. Management strategies include breeding for genetic resistance (the most
+security, timber production, and ecosystem health. [[mollison-grasslands-and-range-management-strategies]] include breeding for genetic resistance (the most
 sustainable approach), chemical fungicide application, and biological
 control. The emergence of new rust pathotypes that overcome deployed
 resistance genes remains a persistent challenge.

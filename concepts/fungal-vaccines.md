@@ -30,7 +30,7 @@ The populations at highest risk — immunocompromised patients (HIV/AIDS, transp
 ### Biological Challenges
 
 - **Fungi are eukaryotes**: Unlike bacteria and viruses, fungi share fundamental cellular biology with human cells. Many potential antigens have human homologs, raising concerns about autoimmune cross-reactivity
-- **Diverse pathogenic mechanisms**: Fungal pathogens use varied strategies — tissue invasion, dimorphism, biofilm formation, immune evasion — making a universal approach difficult
+- **Diverse pathogenic mechanisms**: [[bloomfield-yeast-saccharomyces-fungal-pathogens]] use varied strategies — tissue invasion, dimorphism, biofilm formation, [[fungal-virulence-factors-host-immune-evasion]] — making a universal approach difficult
 - **Intracellular vs. extracellular phases**: Some fungi (Histoplasma, Cryptococcus) have intracellular phases that require cell-mediated immunity, while others (Candida, Aspergillus) are primarily extracellular
 - **Immune evasion**: Fungi have sophisticated mechanisms to evade host immunity, including capsule formation (Cryptococcus), biofilm formation (Candida), melanin production, and morphological switching
 
@@ -51,7 +51,7 @@ The most clinically advanced Candida vaccine candidate:
 
 - **Antigen**: Recombinant N-terminus of Als3 protein (agglutinin-like sequence 3) from C. albicans
 - **Platform**: Recombinant protein with alum adjuvant
-- **Als3 function**: Cell surface adhesin and invasin involved in biofilm formation, epithelial adhesion, and iron acquisition
+- **Als3 function**: Cell surface adhesin and invasin involved in biofilm formation, epithelial adhesion, and [[symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition]]
 - **Clinical progress**: Completed Phase II trials showing immunogenicity and reduced recurrence of vulvovaginal candidiasis. Phase III planning for recurrent vulvovaginal candidiasis
 - **Spectrum**: Also shown protective activity against C. glabrata, C. tropicalis, and Staphylococcus aureus (due to structural similarity between Als3 and S. aureus adhesins)
 
@@ -68,7 +68,7 @@ Invasive aspergillosis primarily affects immunocompromised patients, especially 
 ### ASP3976 (Astellas/GlaxoSmithKline)
 
 - **Antigen**: Recombinant Asp f3 protein from [[aspergillus-fumigatus]]
-- **Mechanism**: Asp f3 is a thiol peroxidase involved in oxidative stress defense
+- **Mechanism**: Asp f3 is a thiol peroxidase involved in [[reactive-oxygen-species-and-oxidative-stress]] defense
 - **Status**: Completed Phase I trials demonstrating safety and immunogenicity in healthy adults
 - **Target population**: Patients undergoing chemotherapy, stem cell transplantation, or lung transplantation
 
@@ -126,7 +126,7 @@ The success of mRNA vaccines against SARS-CoV-2 has renewed interest in mRNA pla
 
 - Protein antigens displayed on self-assembling nanoparticle scaffolds
 - Enhanced immunogenicity through multivalent antigen display
-- Can incorporate adjuvants for targeted immune activation
+- Can incorporate adjuvants for targeted [[mushroom-cytokine-production-immune-activation]]
 
 ### Live Attenuated Vaccines
 

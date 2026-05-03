@@ -8,7 +8,7 @@ sources: []
 ---
 # Bat Conservation and Housing
 ## Overview
-Bats are among the most important yet misunderstood animals on Earth. As the primary predators of night-flying insects, bats provide essential pest control services valued at billions of dollars annually in agricultural savings. North America is home to approximately 45 bat species, many of which are declining due to habitat loss, white-nose syndrome, wind energy development, and persecution. Installing bat houses and conserving bat habitat on the homestead supports these valuable animals while reducing pest insect populations. See also [[bird-habitat-creation]] and [[pollinator-conservation|conservation]] for complementary wildlife habitat practices.
+Bats are among the most important yet misunderstood animals on Earth. As the primary predators of night-flying insects, bats provide essential [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] services valued at billions of dollars annually in agricultural savings. North America is home to approximately 45 bat species, many of which are declining due to habitat loss, white-nose syndrome, wind energy development, and persecution. Installing bat houses and conserving bat habitat on [[faires-household-products-from-the-homestead]] supports these valuable animals while reducing pest insect populations. See also [[bird-habitat-creation]] and [[pollinator-conservation]] for complementary wildlife habitat practices.
 ## North American Bat Species
 ### Common North American Bats
 #### Little Brown Bat (Myotis lucifugus)
@@ -71,7 +71,7 @@ Proper placement is critical for bat house occupancy:
 - **Avoid**: Near bright lights, near noisy areas, near chemical spray zones
 ### Occupancy Expectations
 - Occupancy may take 6 months to 2 years; patience is essential
-- Only 30-50% of bat houses are occupied; proper design and placement improve odds significantly
+- Only 30-50% of bat houses are occupied; proper design [[mollison-zone-planning-frequency-distance-and-placement]] improve odds significantly
 - Once occupied, colonies may include 20-300 bats depending on house size and species
 - Pre-existing bat colonies in the area increase the likelihood of occupancy
 - Avoid moving occupied bat houses; bats are site-faithful to roost locations
@@ -117,15 +117,15 @@ Not all bat species are equally affected:
 - Install bat houses to provide alternative summer roosting habitat
 - Avoid disturbing hibernating bats in caves and mines (decontaminate gear between sites)
 - Report unusual bat behavior or mortality to state wildlife agencies
-- Support research and conservation organizations working on WNS
+- Support research [[gottlieb-peyote-legal-status-and-conservation]] organizations working on WNS
 - Maintain and protect summer foraging habitat to support surviving populations
 - Never handle bats with bare hands; bats can carry rabies (though prevalence is very low, approximately 1%)
 ## Bat-Friendly Practices
 ### Creating Bat Foraging Habitat
 - **Preserve open water**: Ponds, streams, and wetlands provide drinking water and concentrate insect prey
 - **Reduce light pollution**: Excessive outdoor lighting disrupts bat foraging and navigation; use motion-sensor lights
-- **Maintain native vegetation**: Diverse plant communities support diverse insect populations; see [[pollinator-conservation]]
-- **Avoid pesticide use**: Chemical insecticides reduce bat prey availability and can directly poison bats through bioaccumulation; see [[integrated-pest-management|pest management]] for alternatives
+- **Maintain native vegetation**: Diverse [[fungi-in-the-environment-fungal-endophytes-plant-communities]] support diverse insect populations; see [[pollinator-conservation]]
+- **Avoid pesticide use**: Chemical insecticides reduce bat prey availability and can directly poison bats through bioaccumulation; see [[integrated-pest-management]] for alternatives
 - **Preserve dead trees**: Snags provide roosting habitat for species that do not use bat houses
 ### Bat Exclusion (Humanely Removing Bats from Buildings)
 If bats are roosting in unwanted locations:

@@ -1,4 +1,5 @@
----[[herb-spiral]]b Spiral Construction
+---
+title: Herb Spiral Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

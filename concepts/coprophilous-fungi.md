@@ -110,7 +110,9 @@ Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide al
 - Habitat (tropical vs. temperate)
 - Season and moisture conditions
 - Dung size and consistency
-## Related Topics
+## Related
+
+- [[biodiversity-coprophilous-zygomycetes-dung]] Topics
 - [[saprotrophic-fungi]] — Decomposer fungi general
 - [[fungal-spore-biology]] — Spore launch physics
 - [[fungal-ecology]] — Fungal ecology overview

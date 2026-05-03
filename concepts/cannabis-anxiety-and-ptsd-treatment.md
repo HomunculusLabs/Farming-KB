@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-Anxiety disorders and post-traumatic stress disorder (PTSD) represent significant areas of cannabinoid therapeutic research documented in the [[cannabis-health-index]]. Blesching presents anxiety not merely as a psychological condition but as a state deeply connected to the body's neurochemistry, with the endocannabinoid system (ECS) playing a modulatory role in fear, stress responses, and emotional regulation.
+Anxiety disorders and post-traumatic stress disorder (PTSD) represent significant areas of cannabinoid therapeutic research documented in the [[cannabis-health-index]]. Blesching presents anxiety not merely as a psychological condition but as a state deeply connected to the body's neurochemistry, with the [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]] (ECS) playing a modulatory role in fear, [[lichen-poikilohydry-and-drought-stress-responses]], and emotional regulation.
 
 ## The Neurochemistry of Anxiety
 
@@ -43,13 +43,13 @@ The sativa vs. indica distinction is relevant: indicas (higher CBD to THC ratio)
 PTSD represents a condition where the endocannabinoid system's role in emotional modulation becomes particularly relevant. The [[cannabis-health-index]] documents several key connections:
 
 - Exposure to abuse resulting in PTSD was identified as a significant co-factor (13.7%) in developing anorexia nervosa in a study of 753 female patients
-- Epigenetic research demonstrates that horrific emotions experienced during traumatic events produce physiological changes that can be passed to the next generation, leaving offspring more vulnerable to developing anxiety disorders such as phobia or PTSD
+- Epigenetic research demonstrates that horrific emotions experienced during traumatic events produce physiological changes that can be passed to the [[next-generation-sequencing-hidden-fungal-diversity]], leaving offspring more vulnerable to developing anxiety disorders such as phobia or PTSD
 - Vasopressin, a molecule associated with aggression, has been linked to PTSD; patients who suffered from PTSD showed difficulties with emotional connections modulated by vasopressin
 - The endocannabinoid-induced modulation of stress-related disorders positions the ECS as a therapeutic target for PTSD treatment
 - Insomnia caused by anxiety or use of addictive substances may respond to cannabinoid therapy
 - Consider with PTSD a potential similar approach to other fear-based belief patterns or inappropriate trust responses
 
-Synthetic cannabinoid pharmaceuticals including [[nabilone]] are approved by the FDA for treating conditions including PTSD. Studies on cancer patients receiving Nabilone showed improvements in anxiety, depression, insomnia, and night sweats alongside pain reduction.
+Synthetic cannabinoid pharmaceuticals including [[nabilone]] are approved by the FDA for treating conditions including PTSD. Studies on cancer patients receiving Nabilone showed improvements in anxiety, depression, insomnia, and [[blesching-cannabis-cancer-night-sweats]] alongside pain reduction.
 
 ## The Biology of Fear and Emotional Processing
 
@@ -96,7 +96,7 @@ The [[cannabis-health-index]] identifies anxiety as an aggravating factor in num
 - **Gastroesophageal reflux disease (GERD)**: Introduction of anxiety increases acid-induced esophageal hyperalgesia; anxiety intervention is recommended
 - **Hypertension**: Anxiety and depression confirmed as predictive signs for future development of hypertension
 - **Insomnia**: Insomnia may produce symptoms of anxiety, creating a reinforcing cycle
-- **Fibromyalgia**: Fibromyalgia comorbidities include stress-related disorders such as PTSD, irritable bowel syndrome, and depression
+- **Fibromyalgia**: Fibromyalgia comorbidities include stress-related disorders such as PTSD, [[blesching-cannabis-irritable-bowel-syndrome]], and depression
 - **Eating disorders**: PTSD was identified as a significant co-factor (13.7%) in anorexia nervosa development in a 753-patient study
 
 ## The Constricting vs. Expansive Emotions Framework

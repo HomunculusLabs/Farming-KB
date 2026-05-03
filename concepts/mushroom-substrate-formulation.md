@@ -9,9 +9,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mus
 # Mushroom Substrate Formulation
 
 Substrate is the material on which mushrooms grow, providing the nutrients,
-moisture, and physical structure needed for mycelial colonization and
+moisture, and physical structure needed for [[mycelial-colonization]] and
 fruiting. Formulating the right substrate is one of the most critical skills
-in mushroom cultivation.
+in [[mushroom-cultivation]].
 
 ## Role of Substrate Components
 

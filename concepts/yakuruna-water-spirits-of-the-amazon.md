@@ -11,8 +11,6 @@ sources: []
 
 The yakuruna are aquatic spirit beings central to Amazonian shamanic cosmology. They inhabit the underwater realms of rivers and lakes, dwelling in cities of great splendor beneath the surface. Yakuruna appear in ayahuasca visions as humanoid figures, sometimes with green hair, who rest in serpent-hammocks among groves of golden trees. They are allies of the muraya (high-degree shamans) and serve as teachers, guides, and protectors.
 
-
-
 ## Types of Yakuruna
 
 ### Masha Yakuruna
@@ -35,8 +33,6 @@ This yakuruna type lives in the largest of the underwater cities. It is invoked 
 
 Allies of sorcerers, these dark yakuruna inhabit the deepest underwater regions alongside the pato-bufeos (duck-dolphins) and black mermaids. The Shetebo sorcerer works with the black yakurunas, the yana-sirenas (black mermaids), the black boa, and other dark beings.
 
-
-
 ## The Underwater World
 
 The yakuruna inhabit a multi-layered underwater reality:
@@ -52,13 +48,9 @@ Beyond these regions lie realms of great splendor:
 - The great bath of the sumis, with gilded crystal stairways and sapphire-blue waters
 - Sumillakta, the beautiful city of the sumis, where great magical parapsychic arts are learned
 
-
-
 ## Yakuruna as Guardians
 
 The muraya uses the Yakumama (water mother serpent) to descend to the deepest parts of the river, where she transforms into a submarine. The Yakumama is distinct from the yakuruna -- she is the great serpent that guards the underwater cities. Yakurunas serve as her subjects and the muraya's guides within these domains.
-
-
 
 ## Relationship to the Muraya
 
@@ -72,8 +64,6 @@ The muraya's power is specifically associated with dominion over the water realm
 The Yakuruna represent a fundamentally different aspect of Amazonian cosmology than the terrestrial and aerial spirit beings. While beings like Sachamama and Huairamama are tied to specific physical locations, the Yakuruna inhabit an entire parallel dimension — the underwater world. This cosmological framework reflects the Amazon's own geography, where rivers and waterways are as central to life as the forest itself.
 
 The aquatic realm is viewed as a source of primordial knowledge, accessible only to the most advanced practitioners. In ceremonies, the Yakuruna are sometimes perceived as bringing gifts of underwater plants, stones, or substances that possess unique healing properties not found in the terrestrial world. The yakuruna are also associated with the control of aquatic animals and fish, and Muraya shamans may call upon them to ensure good fishing or to protect against dangerous river creatures.
-
-
 
 ## Related Topics
 

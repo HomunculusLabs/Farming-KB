@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agen
 
 ## Overview
 
-Amanita muscaria (fly [[agar]]ic) and Amanita pantherina (panther cap)
+Amanita muscaria (fly [[agar]]ic) and [[amanita-pantherina]] (panther cap)
 contain the psychoactive compounds muscimol and ibotenic acid. Unlike
 [[psilocybin]]-containing mushrooms that act on serotonin receptors,
 Amanita species produce effects through modulation of GABA and
@@ -113,7 +113,7 @@ dangerous overconfidence in identification.
 ### Misidentification
 
 The most serious risk. Poisonous varieties including the deadly
-Amanita phalloides (death cap) typically grow in close proximity to
+[[amanita-phalloides]] (death cap) typically grow in close proximity to
 Amanita muscaria and Amanita pantherina. Amanita phalloides contains
 amatoxins causing irreversible liver failure and is responsible for
 the majority of fatal mushroom poisonings worldwide.

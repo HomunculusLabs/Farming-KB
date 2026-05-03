@@ -59,7 +59,7 @@ defined media at 25–30C (pH 5.0–7.5).
 ## Symbiosis with Plants
 
 *S. indica* colonizes over 150 plant species spanning monocots and dicots, including
-rice, wheat, barley, maize, tomato, tobacco, and *Arabidopsis thaliana*. The
+rice, wheat, barley, maize, tomato, tobacco, and *[[arabidopsis-thaliana]]*. The
 colonization process involves hyphal attachment, epidermal penetration, intercellular
 cortical spread, and formation of intracellular vesicles within a periarbuscular
 membrane.
@@ -84,7 +84,7 @@ formulations for seed treatment and soil application.
 
 The fungus activates **induced systemic resistance (ISR)** through jasmonic acid
 and ethylene signaling, priming defenses without growth penalties. Colonized plants
-show enhanced resistance to fungal pathogens (*Fusarium oxysporum*, *Rhizoctonia
+show enhanced resistance to fungal pathogens (*[[fusarium-oxysporum]]*, *Rhizoctonia
 solani*, *Colletotrichum* spp.), bacterial pathogens (*Pseudomonas syringae*,
 *Ralstonia solanacearum*), root-knot nematodes (*Meloidogyne incognita*), and
 certain insect pests.

@@ -18,12 +18,12 @@ sources: []
 
 ## Overview
 
-Biointensive gardening and square foot gardening are two of the most popular small-scale
+Biointensive gardening and [[comparison-deep-bed-cultivation-vs-square-foot-gardening]] are two of the most popular small-scale
 intensive growing methods, both designed to maximize food production in minimal space using
 raised beds and close plant spacing. Biointensive gardening, developed by [[john-jeavons]] through
 Ecology Action, emphasizes closed-loop soil fertility through dedicated compost crops, deep
-soil preparation, and calorie-efficient food production. Square foot gardening, created by Mel
-Bartholomew, simplifies intensive gardening with a grid-based raised bed system using a
+[[mollison-rabbits-in-permaculture-design-and-soil-preparation]], and calorie-efficient food production. Square foot gardening, created by Mel
+Bartholomew, simplifies [[natural-farming-guide-raised-bed-and-intensive-gardening]] with a grid-based raised bed system using a
 proprietary soil mix and standardized plant spacing rules.
 
 ## Biointensive Gardening
@@ -35,8 +35,7 @@ loosen soil to a depth of 24 inches, close hexagonal spacing to create a continu
 canopy over the bed, composting with all crop residues and dedicated compost crops, carbon
 farming (growing specific crops for compost biomass production), calorie farming (growing
 calorie-dense root crops for dietary self-sufficiency), companion planting for pest control and
-nutrient sharing, open-pollinated seed saving for genetic diversity, and integrated pest
-management. The ambitious goal is to produce all compost materials and calories needed to
+nutrient sharing, open-pollinated seed saving for genetic diversity, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. The ambitious goal is to produce all compost materials and calories needed to
 sustain one person on as little as 4,000 square feet of growing area.
 
 Double-digging is the signature practice of biointensive gardening and the source of both its
@@ -119,7 +118,7 @@ for true self-sufficiency or large-scale food production.
 Choose biointensive gardening if your goal is genuine food self-sufficiency, deep and lasting
 soil improvement, and minimal external inputs over time. The method is ideal for homesteaders,
 small-scale farmers, and dedicated gardeners willing to invest significant physical labor in
-exchange for long-term soil health and calorie independence. Biointensive is also the better
+exchange for long-term [[teaming-with-microbes-no-till-gardening-soil-health]] and calorie independence. Biointensive is also the better
 choice for those who want to save their own seeds, grow their own compost materials, and create
 a truly closed-loop growing system that reduces dependence on purchased inputs of any kind.
 

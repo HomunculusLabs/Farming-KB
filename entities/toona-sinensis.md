@@ -13,7 +13,7 @@ Toona sinensis, commonly known as Chinese mahogany, Chinese toon, or red toon, i
 deciduous tree species in the family Meliaceae. Native to China and widely cultivated
 apermaculturend Southeast Asia, it is valued both as a timber tree and, uniquely among
 mahoganies, for its edible young leaves and shoots, which are a prized ingredient in
-Chinese cuisine. The species is increasingly recognized in permaculture for its dual
+Chinese cuisine. The species is increasingly recognized [[mollison-designers-thatch-and-natural-roofing-in-permaculture]] for its dual
 production of high-quality timber and nutritious spring greens.
 
 ## Taxonomy and Nomenclature
@@ -79,9 +79,8 @@ chao jidan), braising with tofu, incorporating into dumplings and omelets, pickl
 salt or soy sauce, and using as a flavoring garnish for soups and rice dishes. The shoots
 are rich in vitamins A, C, and E, and contain significant amounts of protein
 (approximately 6 to 8 grams per 100 grams fresh weight), calcium, iron, and phosphorus for
-a leafy green. Research has identified numerous bioactive compounds including quercetin,
-kaempferol, rutin, and various phenolic acids with demonstrated antioxidant, anti-
-inflammatory, and antimicrobial properties. The total phenolic content of young shoots is
+a leafy green. Research has identified numerous [[medicinal-mushroom-extraction-bioactive-compounds]] including quercetin,
+kaempferol, rutin, and various phenolic acids with demonstrated [[medicinal-mushroom-antioxidant-anti-inflammatory]], and antimicrobial properties. The total phenolic content of young shoots is
 significantly higher than that of many common vegetables.
 
 In traditional Chinese medicine, Toona sinensis leaves are used to stimulate appetite,
@@ -120,7 +119,7 @@ Growth rates are moderate to fast under favorable conditions, with trees reachin
 12 meters in 10 years. Full sun is preferred, though the tree tolerates partial shade,
 especially when young. Water requirements are moderate, and established trees show
 reasonable drought tolerance. The tree is relatively wind-resistant due to its flexible
-wood and deep root system. For seed saving of woody perennials, see [[permaculture-seed-saving]].
+wood and deep root system. For [[comparison-tissue-culture-vs-seed-saving]] of woody perennials, see [[permaculture-seed-saving]].
 
 ## Propagation
 
@@ -141,5 +140,4 @@ In permaculture [[food-forest-design]], Toona sinensis occupiesperennial-vegetab
 timber and a unique spring vegetable crop that few other canopy trees can match. The early
 spring leaf emergence fills a temporal niche in food production, providing nutritious
 greens before most perennial vegetables begin producing. The deep root system helps break
-compacted subsoil and cycle nutrients from deeper soil layers to the surface through leaf
-litter. The deciduous canopy allows winter sun to reach understory crops while providing
+compacted subsoil and cycle nutrients from deeper soil layers to the surface through [[leaf-litter-microfungal-diversity-tropical-temperate]]. The deciduous canopy allows winter sun to reach understory crops while providing

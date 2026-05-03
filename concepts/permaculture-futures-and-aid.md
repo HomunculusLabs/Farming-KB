@@ -1,6 +1,8 @@
----[[permaculture]]aculture Futures And Aid
+---
+title: Permaculture Futures and Aid
 created: 2026-04-19
-updated: 2026-[[bill-mollison]]oncept
+updated: 2026-04-19
+type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"

@@ -21,13 +21,13 @@ surviving pasteurization temperatures. They produce antifungal compounds
 that kill mushroom mycelium. Contaminated substrate should be discarded
 far from growing areas. Spores persist in the environment for months.
 Trichoderma is the primary reason supplemented substrates require full
-sterilization.
+[[sterilization]].
 
 ### Aspergillus and Penicillium
 
 These produce black, yellow, blue, or green colonies. Common in indoor
 environments, they readily colonize improperly sterilized substrates. Some
-Aspergillus species produce mycotoxins posing health risks through spore
+Aspergillus species produce [[mycotoxins]] posing health risks through spore
 inhalation. Any substrate showing these molds should be removed.
 
 ### Neurospora (Pink Mold)

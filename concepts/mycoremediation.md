@@ -42,10 +42,10 @@ Mycoremediation has been demonstrated against diverse pollutant classes:
 | Contaminant Class | Examples | Notable Fungal Species |
 |---|---|---|
 | Petroleum hydrocarbons | Diesel, oil, gasoline | Pleurotus ostreatus |
-| Polycyclic aromatic hydrocarbons | PAHs, creosote | Phanerochaete chrysosporium |
+| Polycyclic aromatic hydrocarbons | PAHs, creosote | [[phanerochaete-chrysosporium]] |
 | Polychlorinated biphenyls | PCBs, dioxins | Phlebia tremellosa |
 | Chemical warfare agents | DMMP (VX surrogate), sarin | Unpublished Battelle strains |
-| Agricultural chemicals | Pesticides, herbicides | Stropharia rugosoannulata |
+| Agricultural chemicals | Pesticides, herbicides | [[stropharia-rugosoannulata]] |
 | Heavy metals | Lead, cadmium, mercury | Various accumulators |
 | Coliform bacteria | E. coli, fecal coliforms | Pleurotus, Stropharia spp. |
 

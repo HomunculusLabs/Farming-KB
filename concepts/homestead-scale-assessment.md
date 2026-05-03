@@ -7,7 +7,7 @@ tags: [homesteading, economics, business, sustainability, agriculture]
 sources: []
 ---
 # Homestead Scale Assessment
-Determining the right scale for a homestead operation depends on goals, available resources, land, labor, and risk tolerance. This guide defines four common scales -- hobby, side hustle, part-time farm, and full-time farm -- with revenue benchmarks, resource requirements, and decision criteria for each level.
+Determining the right scale for [[query-how-to-start-beekeeping-on-a-homestead]] operation depends on goals, available resources, land, labor, and risk tolerance. This guide defines four common scales -- hobby, side hustle, part-time farm, and full-time farm -- with revenue benchmarks, resource requirements, and decision criteria for each level.
 ## The Four Scales
 ### 1. Hobby Homestead
 - Revenue: $0-2,000/year
@@ -59,10 +59,10 @@ Determining the right scale for a homestead operation depends on goals, availabl
 |---|---|---|---|
 | Eggs (50 hens) | 1,000 dozen | $6 | $6,000 |
 | Broilers (200 birds, 2 batches) | 200 | $25 | $5,000 |
-| Grass-fed beef (5 head) | 5 | $2,500 | $12,500 |
+| [[grass-fed-beef-production]] (5 head) | 5 | $2,500 | $12,500 |
 | Pastured pork (10 pigs) | 10 | $900 | $9,000 |
 | Vegetable CSA (30 members) | 30 shares | $600 | $18,000 |
-| Farmers market vegetables | 30 weeks | $300/week | $9,000 |
+| [[farmers-market-selling-guide]] vegetables | 30 weeks | $300/week | $9,000 |
 | Mushrooms (indoor, small) | 200 lbs/month | $12/lb | $28,800 |
 | Dried herbs and products | various | -- | $5,000-15,000 |
 | Bread (weekly baking) | 30 loaves/week | $8 | $12,480 |
@@ -74,7 +74,7 @@ Note: these are gross revenue estimates. Net profit is typically 30-60% of gross
 2. How much time can you commit? (be realistic about other obligations)
 3. How much capital do you have available? (savings, loans, family support)
 4. How much land do you have or can you access? (own, lease, borrow)
-5. What are your skills and experience? (farming, business, marketing)
+5. What are your skills and experience? (farming, [[cotter-mushroom-business-marketing]])
 6. What is your risk tolerance? (can you absorb a bad year?)
 7. Who is your market? (local, regional, online)
 8. What is your timeline? (building a farm takes 3-7 years to reach full potential)
@@ -147,4 +147,4 @@ Stay or even scale back when:
 - Market saturation in your area
 - You don't have systems to handle increased production
 - Life circumstances change (family, health, career)
-Scale assessment should be revisited annually as part of [[homestead-financial-planning]] and business planning. Use the benchmarks above to set realistic goals and track progress.
+Scale assessment should be revisited annually as part of [[homestead-financial-planning]] [[selling-farm-products-and-business]] planning. Use the benchmarks above to set realistic goals and track progress.

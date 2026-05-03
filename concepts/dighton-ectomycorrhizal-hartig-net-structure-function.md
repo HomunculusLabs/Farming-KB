@@ -17,7 +17,7 @@ type: concept
 ## Overview
 
 The Hartig net is a defining anatomical feature of
-ectomycorrhizal-ecology|ectomycorrhizal associations, consisting
+[[ectomycorrhizal-ecology]]|[[ectomycorrhizal-associations]], consisting
 of a network of fungal hyphae that penetrate between the cortical cells
 of the host root. Named after Robert Hartig, who first described the
 structure in the 19th century, the Hartig net represents the primary

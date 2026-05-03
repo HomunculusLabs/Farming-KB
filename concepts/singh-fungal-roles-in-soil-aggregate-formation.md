@@ -18,7 +18,7 @@ Soil aggregates are clusters of mineral particles bound together by organic
 materials, biological agents, and physicochemical forces. Their formation and
 stability are critical determinants of soil health, water infiltration, erosion
 resistance, and carbon sequestration. Fungi, particularly arbuscular
-mycorrhizal fungi (AMF) and saprotrophic species, play central roles in
+[[mycorrhizal-fungi]] (AMF) and saprotrophic species, play central roles in
 binding soil particles into stable aggregates through physical entanglement
 and production of biological glues.
 
@@ -43,7 +43,7 @@ binding them together through:
   root-soil interface. The hyphal connections between adjacent aggregates
   contribute to macroporosity and soil structural integrity.
 
-Saprotrophic fungi also contribute to aggregate formation, particularly through
+[[saprotrophic-fungi]] also contribute to aggregate formation, particularly through
 decomposition of organic residues and incorporation of decomposed material into
 mineral soil horizons. Their hyphal networks in litter layers create
 aggregates that subsequently become incorporated into surface soil through

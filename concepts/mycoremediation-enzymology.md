@@ -9,24 +9,18 @@ sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-env.md
 ---
 
-
-
 ## Overview
 
 Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-techniques]]. The extracellular oxidative enzymes produced primarily by white-rot basidiomycetes can degrade recalcitrant environmental pollutants including lignin, polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), dyes, explosives, and pesticides. Three major enzyme families dominate: laccases, lignin peroxidases (LiP), and manganese peroxidases (MnP), with cytochrome P450 systems playing important intracellular roles.
 
-
-
 ## Lignin Peroxidase (LiP; EC 1.11.1.14)
 
-- First isolated from **Phanerochaete chrysosporium** (Tien and Kirk, 1983; Glenn and Gold, 1983)
+- First isolated from **[[phanerochaete-chrysosporium]]** (Tien and Kirk, 1983; Glenn and Gold, 1983)
 - A heme-containing glycoprotein requiring H2O2 as cosubstrate and veratryl alcohol (VA) as redox mediator
 - Catalyzes one-electron oxidation of non-phenolic aromatic compounds with high redox potentials (~1.5 V)
 - Capable of cleaving C-C bonds and C-O bonds in lignin model compounds
 - Degrades PAHs, azo dyes, and chlorinated phenols
 - Produced during secondary metabolism under nitrogen or carbon limitation
-
-
 
 ## Manganese Peroxidase (MnP; EC 1.11.1.13)
 
@@ -37,18 +31,14 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - Key role in dye decolorization — MnP activity correlates with efficient decolorization of olive mill wastewater and textile dyes
 - Works in conjunction with Mn-independent peroxidase (MIP) in some species
 
-
-
 ## Laccase (EC 1.10.3.2)
 
 - Multi-copper oxidase that uses molecular oxygen as electron acceptor, producing water
 - Does not require H2O2 (advantage over peroxidases for bioreactor applications)
 - Oxidizes phenolic and some non-phenolic compounds; mediators (ABTS, HBT) extend substrate range
 - Detected early in white-rot fungal dye decolorization; correlates with reduction of total phenolics
-- Produced by Trametes versicolor, Pleurotus ostreatus, P. sajor-caju, Coriolopsis polyzona, Bjerkandera adusta, and others
+- Produced by [[trametes-versicolor]], Pleurotus ostreatus, P. sajor-caju, Coriolopsis polyzona, Bjerkandera adusta, and others
 - Involved in dye decolorization of azo, anthraquinone, triphenylmethane, and phthalocyanine dyes
-
-
 
 ## Cytochrome P450 Enzyme Systems
 
@@ -60,8 +50,6 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - P450 reductase (CPR) genes identified in Aspergillus niger, S. cerevisiae, and Schizosaccharomyces pombe
 - P450 overproduction in fungi has potential for enhanced bioremediation of oil contaminants
 
-
-
 ## Auxiliary Enzymes
 
 - **Glyoxal oxidase (GLOX)** — Generates H2O2 for peroxidase reactions; detected during T. versicolor dye decolorization
@@ -69,8 +57,6 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - **Glucose-1-oxidase** — May participate in dye degradation processes in P. sajor-caju
 - **Veratryl alcohol oxidase (VAOx)** — Supports LiP cycling
 - **Beta-glucosidase** — Detected alongside MnP in P. chrysosporium during dye degradation
-
-
 
 ## Factors Affecting Enzyme Production
 
@@ -80,8 +66,6 @@ Fungal enzymatic systems are the biochemical foundation of [[mycoremediation-tec
 - **Aeration/agitation** — Static vs. agitated conditions dramatically affect decolorization rates (e.g., Bjerkandera sp. BOS55: 8% vs. 98% for Amaranth)
 - **Inducers** — Veratryl alcohol, Tween 80, and specific aromatic compounds induce enzyme production
 - **pH** — Optimal pH varies by enzyme: laccases generally pH 3-6, LiP pH 2-4, MnP pH 4-5
-
-
 
 ## Related Concepts
 

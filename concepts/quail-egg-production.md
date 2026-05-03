@@ -9,7 +9,7 @@ sources: [raw/papers/gaias-garden-toby-hemenway.md]
 
 # quail egg production
 
-Coturnix quail (Coturnix japonica) are the most productive small-scale egg producers. They reach laying age at 6-8 weeks, produce 250-320 eggs per year per hen, and require minimal space compared to chickens. quail egg production is increasingly popular on homesteads and urban farms due to low startup costs, fast return on investment, and growing market demand.
+Coturnix quail (Coturnix japonica) are the most productive small-scale egg producers. They reach laying age at 6-8 weeks, produce 250-320 eggs per year per hen, and require minimal space compared to chickens. quail [[mollison-designers-chicken-tractors-egg-production]] is increasingly popular on homesteads and urban farms due to low startup costs, fast return on investment, [[holzer-stone-fruit-varieties-and-growing]] market demand.
 
 ## Coturnix Quail Overview
 
@@ -31,7 +31,7 @@ Standard quail cages are constructed from 1.3 cm (1/2 inch) galvanized hardware 
 -  **Dimensions** — Minimum 15 cm wide x 20 cm deep per bird. A standard cage is 60 cm x 60 cm x 30 cm tall, housing 12-15 birds.
 -  **Floor** — Sloped at 8-10 degrees toward the front to allow eggs to roll out into a collection tray.
 -  **Manure tray** — Slides under the cage for easy cleaning. Line with newspaper, cardboard, or dried leaves.
--  **Feeders** — External tube feeders reduce feed waste and contamination. One feeder per 6-8 birds.
+-  **Feeders** — External tube feeders reduce feed waste [[mushroom-cultivation-pests-and-contamination]]. One feeder per 6-8 birds.
 -  **Waterers** — Nipple waterers (one per 4-6 birds) are cleanest. Alternatively, small cup waterers or inverted jar waterers.
 -  **Ventilation** — Wire on all sides except the top (which should be solid for weather protection). Good airflow is critical — quail produce ammonia-laden manure in concentrated spaces.
 
@@ -41,7 +41,7 @@ Larger cages housing 20-30 birds together. More social interaction but higher ri
 
 ### Floor Pens
 
-Deep litter systems on solid floors with bedding (pine shavings, straw). Birds express more natural behaviors but egg collection is more difficult and manure management is labor-intensive. Best for breeder flocks rather than egg production flocks.
+Deep litter systems on solid floors with bedding (pine shavings, straw). Birds express more natural behaviors but egg collection is more difficult [[mollison-designers-rabbit-housing-and-manure-management]] is labor-intensive. Best for breeder flocks rather than egg production flocks.
 
 ### Stackable Cages
 
@@ -134,7 +134,7 @@ Maintain 1 male per 3-5 females for fertile eggs. Remove excess males to reduce 
 - **Coccidiosis** — Most common quail disease. Prevent with clean, dry conditions and avoid overcrowding. Medicated feed (amprolium) is available for prevention.
 - **Ulcerative enteritis** — Bacterial infection causing sudden mortality. Maintain clean waterers and feeders.
 - **Cannibalism** — Triggered by overcrowding, bright light, nutritional deficiency, or boredom. Reduce light intensity, provide hiding spots, and ensure adequate protein and space.
-- **External parasites** — Mites and lice. Treat with diatomaceous earth in dust baths or permethrin spray on housing (not on birds).
+- **External parasites** — Mites and lice. Treat with [[comparison-neem-oil-vs-diatomaceous-earth]] in dust baths or permethrin spray on housing (not on birds).
 - **Biosecurity** — Keep wild birds away from the quail area. Quarantine new birds for 2 weeks before introducing to the flock.
 
-Quail production pairs well with [[chickshaw-and-poultry-tractors|poultry tractor]] systems — quail can be housed in mobile units for limited foraging, or their manure can be composted for garden use. Processing facilities for [[rabbit-processing-guide|other small livestock]] can sometimes be adapted for quail meat production as well.
+Quail production pairs well with [[chickshaw-and-poultry-tractors]] systems — quail can be housed in mobile units for limited foraging, or their manure can be composted for garden use. Processing facilities for [[rabbit-processing-guide]] can sometimes be adapted for quail meat production as well.

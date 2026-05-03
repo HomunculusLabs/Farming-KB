@@ -7,7 +7,7 @@ tags: [fermentation, recipe, food, homesteading, microbes, homestead-crafts, pre
 sources: []
 ---
 ## What Is Vinegar
-Vinegar is a sour liquid produced by the oxidation of ethanol (alcohol) into acetic acid by acetic acid bacteria (Acetobacter species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, food preservation, cleaning, and medicine.
+Vinegar is a sour liquid produced by the oxidation of ethanol (alcohol) into acetic acid by acetic acid bacteria (Acetobacter species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, [[faires-low-energy-cooking-and-food-preservation]], cleaning, [[mushroom-cultivation-for-food-and-medicine]].
 The vinegar-making process involves two distinct stages of fermentation:
 1. **Alcoholic fermentation:** Yeast converts sugars into ethanol (this step produces wine, beer, cider, or mead)
 2. **Acetic fermentation:** Acetobacter bacteria convert ethanol into acetic acid (this step produces vinegar)
@@ -94,14 +94,14 @@ Pasteurization stops all fermentation and prevents a new mother from forming in 
 2. Hold at temperature for 10 minutes
 3. Cool and bottle
 4. Pasteurized vinegar has a longer shelf life but loses some probiotic benefit
-5. Raw, unpasteurized vinegar retains live bacteria and enzymes
+5. Raw, unpasteurized vinegar retains live bacteria [[fungi-sustainability-biofuel-and-enzymes]]
 ## Flavoring Vinegar
 Infusing finished vinegar with herbs, fruits, and spices creates versatile flavored vinegars for cooking:
 ### Popular Infusions
 - Tarragon vinegar: 3-4 sprigs fresh tarragon per cup of vinegar
 - Raspberry vinegar: 1/2 cup fresh raspberries per cup of vinegar
 - Garlic and herb vinegar: garlic cloves, rosemary, thyme, bay leaf
-- Hot pepper vinegar: whole chili peppers (jalapeno, habanero, Thai bird's eye)
+- [[knf-soap-water-and-hot-pepper]] vinegar: whole chili peppers (jalapeno, habanero, Thai bird's eye)
 - Lemon or citrus vinegar: lemon peel, zest, or juice
 - Rosemary vinegar: 2-3 sprigs fresh rosemary
 - Mint vinegar: fresh mint leaves
@@ -118,7 +118,7 @@ Infusing finished vinegar with herbs, fruits, and spices creates versatile flavo
 - Cooking: salad dressings, marinades, reductions, sauces, pickling
 - Cleaning: natural disinfectant, glass cleaner, de-scaler
 - Garden: weed killer (spray full-strength on weeds), soil acidifier (diluted)
-- Health: apple cider vinegar tonics (1 tablespoon in water), digestive aid
+- Health: apple cider vinegar tonics (1 tablespoon [[ingoldian-hyphomycetes-spore-dispersal-in-water]]), digestive aid
 - Preserving: as the acid base for [[pickle-making]] and other pickled foods
 - Fermentation: as an acid adjuster for other ferments
 ## Troubleshooting

@@ -11,12 +11,6 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 Roundwood shelters and earth cellars are practical buildings that can be constructed all over the world. They make use of the soil's balancing effect — creating a pleasant, cool retreat in hot places and a warm one in cold places.
 
-
-
-
-
-
-
 ## Construction Method
 
 ### Foundation Posts
@@ -38,12 +32,6 @@ The roof is built up in layers from the inside out:
 
 This layered approach provides insulation, waterproofing, and integrates the structure into the landscape.
 
-
-
-
-
-
-
 ## Materials
 
 - **Robinia logs**: Particularly durable wood species suitable for storage rooms
@@ -52,21 +40,9 @@ This layered approach provides insulation, waterproofing, and integrates the str
 - **Membranes**: Provide waterproofing between layers
 - **Local soil and vegetation**: Top layer for insulation and aesthetics
 
-
-
-
-
-
-
 ## Maintenance
 
 Roundwood shelters and storage rooms must be checked regularly like any other building. This is necessary to repair any damage promptly and to guarantee safety.
-
-
-
-
-
-
 
 ## Advantages
 
@@ -75,12 +51,6 @@ Roundwood shelters and storage rooms must be checked regularly like any other bu
 - Can be built with simple tools and techniques
 - Integrates naturally into the landscape
 - Works in all climates when properly designed
-
-
-
-
-
-
 
 ## Related
 

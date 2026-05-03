@@ -11,8 +11,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mus
 Gourmet mushroom cultivation is the practice of growing edible fungi for
 culinary markets. The most commonly cultivated species include **shiitake**
 (*Lentinula edodes*), **oyster mushrooms** (*Pleurotus* spp.), **king oyster**
-(*Pleurotus eryngii*), **enoki** (*Flammulina velutipes*), **maitake/hen of
-the woods** (*Grifola frondosa*), and **lion's mane** (*Hericium erinaceus*).
+(*Pleurotus eryngii*), **enoki** (*[[flammulina-velutipes]]*), **maitake/hen of
+the woods** (*Grifola frondosa*), and **lion's mane** (*[[hericium-erinaceus]]*).
 Each species has distinct growing parameters, substrate preferences, and market
 value. The global gourmet mushroom market exceeds $50 billion and is growing
 annually as consumer demand for functional foods and plant-based proteins
@@ -66,7 +66,7 @@ Substrate must be **pasteurized** (60-80°C for 60-90 minutes for straw/coffee
 grounds) or **sterilized** (121°C at 15 PSI for 90-120 minutes for sawdust
 blocks) before inoculation. Supplementation with nitrogen-rich additives (bran,
 soy hulls) increases yields significantly — often doubling or tripling
-biological efficiency — but also raises contamination risk, necessitating
+[[biological-efficiency]] — but also raises contamination risk, necessitating
 sterilization rather than pasteurization.
 
 ## Fruiting Parameters

@@ -14,11 +14,6 @@ sources:
 
 Amateur mycologist and ethnographer specializing in the psychoactive mushrooms of Australia, New Zealand, and Southeast Asia. Author of *Magic Mushrooms of Australia & New Zealand*, the definitive field guide to psychoactive fungi of the Australasian region.
 
-
-
-
-
-
 ## Key Contributions
 
 - **Definitive Australasian guide**: *Magic Mushrooms of Australia & New Zealand* covers identification, distribution, cultural context, dosage levels, ingestion methods, legal status, and treatment for poisoning of Australian and New Zealand psychoactive species
@@ -26,11 +21,6 @@ Amateur mycologist and ethnographer specializing in the psychoactive mushrooms o
 - **Southeast Asian distribution**: Conducted fieldwork in Thailand, Cambodia, Nepal documenting *Psilocybe cubensis*, *P. samuiensis*, *P. subcubensis*, and *Panaeolus cambodginiensis*
 - **Worldwide distribution co-author**: With [[gaston-guzman]] and [[jochen-gartz]], co-authored the 1998 landmark study cataloguing 216 neurotropic fungal species worldwide
 - **Australian use history**: Helped establish that psychoactive mushroom usage in Australia dates to the 1940s, with widespread recreational use emerging in the late 1960s and 1970s
-
-
-
-
-
 
 ## *Magic Mushrooms of Australia & New Zealand*
 
@@ -50,30 +40,15 @@ The book covers 24 topics in comprehensive detail:
 12. New Zealand species survey
 13. Tables of hallucinogenic fungi identified from Australia and New Zealand
 
-
-
-
-
-
 ## Species Documented
 
 Allen documented key Australasian species including *Psilocybe cubensis*, *P. subaeruginosa*, *P. cyanescens*, *P. aucklandii*, *P. australiana*, *Panaeolus cyanescens*, and *Gymnopilus purpuratus* (photograph by [[jochen-gartz]]). See [[psilocybin-mushroom-chemistry]] for broader species coverage.
-
-
-
-
-
 
 ## Major Works
 
 - "Magic Mushrooms of Australia & New Zealand" — Comprehensive field guide
 - "A Worldwide Geographical Distribution of the Neurotropic Fungi" (1998, with Guzman and Gartz) — Survey of 216 species
 - Numerous papers on Thai and Southeast Asian mushroom species with M.D. Merlin
-
-
-
-
-
 
 ## See Also
 

@@ -37,7 +37,7 @@ short as 12-24 hours for some fast-growing species.
   "donko" grade shiitake are harvested earlier with unopened veils,
   while "koshin" grade have open caps and more developed flavor.
 
-- **Lion's Mane** (Hericium erinaceus): Harvest while still white or
+- **Lion's Mane** ([[hericium-erinaceus]]): Harvest while still white or
   with only a slight yellowish tinge. Once they turn brown/yellow, they
   develop a bitter or sour flavor. The spines should be 0.5-1 cm long
   at harvest for best texture.
@@ -113,7 +113,7 @@ Storage tips:
 ## Drying and Preservation
 
 Drying is the most common long-term preservation method, especially for
-medicinal mushrooms. Drying concentrates bioactive compounds and allows
+[[medicinal-mushrooms]]. Drying concentrates bioactive compounds and allows
 mushrooms to be stored for extended periods without refrigeration.
 
 - **Dehydrator**: 35-45 degrees C for 8-24 hours depending on species

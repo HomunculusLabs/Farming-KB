@@ -13,16 +13,12 @@ sources:
 **Last Updated:** 2026-04-18
 **CHI Value: 19** (7 studies reviewed)
 
-
-
 ## Condition Overview
 
 ALS (Amyotrophic Lateral Sclerosis) = selective loss of nerve cells for muscular motion in brain and spinal cord. ~2 in 100,000 die of ALS in US. Most die within 3-5 years of onset. Mind remains mostly unaffected while body descends into total paralysis. Primary cause of death: respiratory failure.
 
 **Risk factors:** military service (Gulf War veterans 2x more likely), environmental toxins, Guam 1950s outbreak.
 **Standard treatment:** Riluzole (reduces glutamate) -- extends life by up to 2 months, does not reverse nerve damage, liver-toxic.
-
-
 
 ## Cannabis Research Findings
 
@@ -43,8 +39,6 @@ ALS (Amyotrophic Lateral Sclerosis) = selective loss of nerve cells for muscular
 - 2005 U. of Washington (mice): CBN (5mg/kg/day) significantly delayed disease onset by 2+ weeks
 - 2010 Switzerland (27 ALS patients): 5mg THC twice daily -- no change in cramps (negative result)
 
-
-
 ## Study Summary
 
 | Agent | Study Type | Year, Location, Key Finding | CHI |
@@ -58,8 +52,6 @@ ALS (Amyotrophic Lateral Sclerosis) = selective loss of nerve cells for muscular
 | Cannabis | Review (preclinical + anecdotal) | 2001 -- Seattle: Benefits from analgesia, muscle relaxation, bronchodilation, saliva reduction, appetite, sleep, antioxidation, neuroprotection | 4 |
 | | | **Total CHI Value: 19** | |
 
-
-
 ## Strain-Specific Considerations
 
 - Full-spectrum cannabinoids preferred (bind both CB1 and CB2)
@@ -67,15 +59,11 @@ ALS (Amyotrophic Lateral Sclerosis) = selective loss of nerve cells for muscular
 - Some patients prioritize symptoms and choose strain for top items
 - CBN specifically delayed onset in mice
 
-
-
 ## Mind-Body Perspective
 
 Clinical depression is NOT inevitable in ALS. Lou Gehrig expressed only gratitude; Stephen Hawking: "I'm not afraid of death, but I'm in no hurry to die." The widening rift between diminishing body and fully functioning mind ("locked-in syndrome") may offer insight into its message.
 
 Aggravating factors: Gulf War service, environmental toxins. Consider: gratitude, long-term projects, passion for life.
-
-
 
 ## Related Pages
 

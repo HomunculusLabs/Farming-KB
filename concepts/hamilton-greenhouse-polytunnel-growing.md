@@ -60,7 +60,7 @@ be needed to prevent scorching. Use blinds, shade paint, or netting.
 
 "Damping down" -- wetting the greenhouse knf fmc floor and temperature control staging on hot
 days -- helps cool the structure through evaporation and increases
-humidity, which benefits most hemenway insectary mollison designers insectary hemenway insectary plants and beneficial insects insect habitat insects discourages red spider mite.
+humidity, which benefits most hemenway insectary mollison designers insectary [[hemenway-insectary-plants-and-beneficial-insects]] insect habitat insects discourages red spider mite.
 
 ## Soil and Growing Media
 
@@ -142,7 +142,7 @@ conditions (55-60F/13-15C minimum).
 ## organic organic greenhouse growing hamilton Management
 
 The key principles are the same as for the outdoor garden: maintain
-healthy soil, encourage hamilton beneficial insects cannabis hamilton beneficial insects and biological pest control pest control, and use biological controls
+healthy soil, encourage hamilton beneficial insects cannabis [[hamilton-beneficial-insects-and-biological-pest-control]] pest control, and use biological controls
 before resorting to sprays. Clean the greenhouse thoroughly each autumn
 to reduce overwintering pests and diseases. Remove all plant debris and
 ## See Also

@@ -9,7 +9,7 @@ sources: []
 # Cannabis Sativa vs Cannabis Indica
 
 ## Overview
-Cannabis sativa and Cannabis indica are the two most widely recognized
+[[cannabis-sativa-morphology-and-plant-architecture]] [[marijuana-magick-historical-witches-and-cannabis]] indica are the two most widely recognized
 classifications within the Cannabis genus, distinguished historically by
 their morphology, geographic origin, and perceived effects. Sativa
 varieties originated in equatorial regions and tend toward tall, lanky
@@ -43,7 +43,7 @@ Cultivation of sativa varieties presents unique challenges, particularly
 for indoor growers. Their tall stature and long flowering time demand
 significant vertical space and patience. Outdoors, they perform best in
 warm, Mediterranean climates with long growing seasons. Their extended
-vegetative phase makes them better suited to training methods like scrog
+vegetative phase makes them better suited to [[query-sog-vs-scrog-cannabis-training-methods]] like scrog
 ([[screen-of-green]]) or outdoor trellising that controls height while
 allowing lateral branching. Landrace sativa varieties from Thailand,
 Colombia, Mexico, and Africa have contributed genetics to many modern
@@ -73,7 +73,7 @@ manageable than sativas, especially for indoor growers with limited
 height. Their compact structure, rapid flowering, and generous yields
 per square foot make them the preferred choice for commercial production
 and beginner growers. Indica genetics have been heavily selected and
-hybridized over decades, contributing the majority of genetics to modern
+hybridized over decades, contributing the majority of genetics [[turner-brief-history-psychedelics-ancient-to-modern]]
 autoflowering varieties (through crosses with Cannabis ruderalis) and
 serving as the backbone of countless polyhybrid strains.
 
@@ -141,5 +141,5 @@ flowering, and heavy yields of indica. Ratio designations like "70/30
 sativa-dominant" or "80/20 indica-dominant" guide consumers toward the
 general effect profile while acknowledging the mixed genetic heritage.
 This blending has largely rendered the pure sativa-versus-indica
-distinction less meaningful in practice, though it remains the
+distinction less meaningful [[williams-pdc-permaculture-ethics-and-principles-in-practice]], though it remains the
 foundational framework for understanding cannabis diversity.

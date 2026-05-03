@@ -136,7 +136,7 @@ guided by King's College or Clichy criteria.
 Destroying angels cause ~90% of fatal mushroom poisonings worldwide. *A.
 bisporigera* accounts for most wild-mushroom fatalities in eastern North
 America. Victims often include experienced foragers who mistake it for edible
-*Volvariella volvacea* (paddy straw mushroom) or *Amanita* sect. *Vaginatae*.
+*[[volvariella-volvacea]]* ([[paddy-straw-mushroom]]) or *Amanita* sect. *Vaginatae*.
 Several US fatalities documented annually. The name "Destroying Angel"
 captures the juxtaposition of pure white beauty and lethal toxicity. It is
 a cornerstone example in mycology education, underscoring: never eat a

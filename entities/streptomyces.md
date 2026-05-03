@@ -43,12 +43,12 @@ Members of the genus are best known for producing the earthy odor molecule geosm
 **Genus:** *Streptomyces*.
 The genus was formalized by Selman Waksman and Arthur Henrici in 1943 during revision of older actinomycete classifications.
 It includes many organisms once grouped loosely with *Actinomyces* because of their branching growth form.
-Unlike true fungi, streptomycetes are prokaryotes with bacterial cell structure and peptidoglycan-containing cell walls.
-Their fungal-like appearance makes them a bridge term in soil writing between bacteria and mycelial decomposers.
+Unlike true fungi, streptomycetes are prokaryotes with bacterial cell structure and peptidoglycan-containing [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
+Their fungal-like appearance makes them a bridge term [[singh-fungal-interactions-with-heavy-metals-in-soil]] writing between bacteria and mycelial decomposers.
 
 ## Morphology
 
-Streptomycetes grow as branching hyphae that form a substrate mycelium through soil, compost, or decaying organic matter.
+Streptomycetes grow as branching hyphae that form a substrate mycelium through soil, compost, or decaying [[mollison-designers-humus-building-and-soil-organic-matter]].
 The hyphae are typically much narrower than fungal hyphae, often about 0.5 to 2 micrometers in diameter.
 As colonies mature, many species produce aerial hyphae that differentiate into chains of spores.
 This life cycle lets the organism spread through dry soil particles and recolonize new organic substrates.
@@ -80,7 +80,7 @@ Their presence often indicates aeration, organic residues, and active microbial 
 ## Plant interactions
 
 Many streptomycetes live in the rhizosphere, where root exudates provide carbon and microbial competition is intense.
-Some strains promote plant growth by suppressing pathogens, producing phytohormone-like compounds, or improving nutrient cycling.
+Some strains promote plant growth by suppressing pathogens, producing phytohormone-like compounds, or improving [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 Others act as mycorrhiza-helper bacteria by changing the microbial environment around roots and fungal hyphae.
 Plant-beneficial strains may inhibit damping-off fungi, root pathogens, and nematode-associated microbes through antibiotics and enzymes.
 However, the genus also contains plant pathogens.
@@ -121,7 +121,7 @@ Species-level identification is difficult because many taxa are closely related 
 
 *Streptomyces* connects soil microbiology, compost maturity, antibiotic history, and plant disease.
 It is referenced in concept pages on [[actinomycetes-soil-biology]], [[decomposition]], and rhizosphere microbial interactions.
-It also links agricultural soil health discussions with pharmacology pages such as [[amphotericin-b-antifungal]].
+It also links agricultural [[teaming-with-microbes-no-till-gardening-soil-health]] discussions with pharmacology pages such as [[amphotericin-b-antifungal]].
 When a concept page mentions actinomycetes as earthy-smelling bacteria, this genus is usually the central example.
 When a page discusses microbial antagonism in the rhizosphere, streptomycetes are among the organisms most likely to produce inhibitory compounds.
 The entity should not be treated as a single functional guild because decomposers, mutualists, pathogens, and industrial strains all occur within it.

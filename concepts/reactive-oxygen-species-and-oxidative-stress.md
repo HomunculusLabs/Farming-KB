@@ -34,7 +34,7 @@ NOX enzymes deliberately produce superoxide for host defense and signaling. NOX2
 
 ### Xanthine Oxidase and Other Enzymatic Sources
 
-Xanthine oxidase (XO) produces both O₂•⁻ and H₂O₂ during purine catabolism. During ischemia-reperfusion, xanthine dehydrogenase converts to XO and accumulated hypoxanthine plus restored oxygen causes a burst of ROS. Allopurinol inhibits XO as a therapeutic strategy. Cytochrome P450 enzymes (particularly CYP2E1, induced by ethanol) uncouple to release superoxide and H₂O₂. Peroxisomal acyl-CoA oxidase (ACOX1) generates H₂O₂ during fatty acid β-oxidation, normally degraded by intraperoxisomal catalase.
+Xanthine oxidase (XO) produces both O₂•⁻ and H₂O₂ during purine catabolism. During ischemia-reperfusion, xanthine dehydrogenase converts to XO and accumulated hypoxanthine plus restored oxygen causes a burst of ROS. Allopurinol inhibits XO as a therapeutic strategy. [[cytochrome-p450-enzymes-structure-function-pharmacology]] (particularly CYP2E1, induced by ethanol) uncouple to release superoxide and H₂O₂. Peroxisomal acyl-CoA oxidase (ACOX1) generates H₂O₂ during fatty acid β-oxidation, normally degraded by intraperoxisomal catalase.
 
 ### Metal-Catalyzed ROS Generation
 
@@ -48,7 +48,7 @@ The Fenton reaction (Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻) and the iro
 
 **Catalase (CAT, 11p13)** is a tetrameric heme enzyme in peroxisomes that converts 2 H₂O₂ → 2 H₂O + O₂ with extremely high turnover (~40 million molecules/second). Its Km for H₂O₂ is ~1.1 M, making it a low-affinity, high-capacity enzyme complementary to the high-affinity, low-capacity glutathione peroxidase and peroxiredoxins. Acatalasemia (Takara's disease) is usually asymptomatic but may increase risk of oral ulcers and diabetes.
 
-**Glutathione peroxidase (GPx)** is a selenoenzyme family that reduces H₂O₂ and organic hydroperoxides using GSH: H₂O₂ + 2 GSH → 2 H₂O + GSSG. GPx1 (cytosol/mitochondria) is the major form; GPx4 (PHGPx, 19p13.3) is uniquely critical as the only enzyme directly reducing phospholipid hydroperoxides within membranes, preventing ferroptosis — an iron-dependent, lipid peroxidation-driven cell death pathway. GPx4 knockout is embryonic lethal.
+**Glutathione peroxidase (GPx)** is a selenoenzyme family that reduces H₂O₂ and organic hydroperoxides using GSH: H₂O₂ + 2 GSH → 2 H₂O + GSSG. GPx1 (cytosol/mitochondria) is the major form; GPx4 (PHGPx, 19p13.3) is uniquely critical as the only enzyme directly reducing phospholipid hydroperoxides within membranes, preventing ferroptosis — an iron-dependent, lipid peroxidation-driven [[blesching-cannabis-apoptosis-and-cancer-cell-death]] pathway. GPx4 knockout is embryonic lethal.
 
 **Glutathione reductase (GSR, 8p21.1)** maintains the GSH/GSSG ratio (>100:1 normally) using NADPH: GSSG + NADPH → 2 GSH + NADP⁺. NADPH is supplied by the pentose phosphate pathway (G6PD, PGD), malic enzyme (ME1), and isocitrate dehydrogenase (IDH1/2).
 
@@ -72,7 +72,7 @@ The Fenton reaction (Fe²⁺ + H₂O₂ → Fe³⁺ + •OH + OH⁻) and the iro
 
 ## Molecular Damage from ROS
 
-**Lipid peroxidation** is initiated when hydroxyl radicals abstract bis-allylic hydrogens from polyunsaturated fatty acids in membrane phospholipids, propagating a chain reaction of lipid radical formation. Key biomarkers include malondialdehyde (MDA, measured by TBARS or HPLC), 4-hydroxynonenal (4-HNE, an α,β-unsaturated aldehyde that forms Michael adducts with Cys/His/Lys residues and modulates Nrf2 signaling at low concentrations), and F₂-isoprostanes (prostaglandin-like compounds from non-enzymatic arachidonic acid peroxidation, the gold-standard in vivo lipid peroxidation biomarker measured in urine by GC-MS). Oxidized LDL (oxLDL), recognized by scavenger receptors CD36 and SR-A1, drives foam cell formation in atherosclerotic plaques.
+**Lipid peroxidation** is initiated when hydroxyl radicals abstract bis-allylic hydrogens from polyunsaturated [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] in membrane phospholipids, propagating a chain reaction of lipid radical formation. Key biomarkers include malondialdehyde (MDA, measured by TBARS or HPLC), 4-hydroxynonenal (4-HNE, an α,β-unsaturated aldehyde that forms Michael adducts with Cys/His/Lys residues and modulates Nrf2 signaling at low concentrations), and F₂-isoprostanes (prostaglandin-like compounds from non-enzymatic arachidonic acid peroxidation, the gold-standard in vivo lipid peroxidation biomarker measured in urine by GC-MS). Oxidized LDL (oxLDL), recognized by scavenger receptors CD36 and SR-A1, drives foam cell formation in atherosclerotic plaques.
 
 **Protein oxidation** includes carbonyl formation (irreversible modification of Pro, Arg, Lys, Thr side chains, accumulating with aging), disulfide formation (reversible redox regulation), methionine sulfoxide (reduced by MSRA/MSRB), advanced glycation end products (AGEs from reactive carbonyls reacting with proteins, activating RAGE/NF-κB inflammation), and 3-nitrotyrosine formation from peroxynitrite (marker found in atherosclerotic plaques and Parkinson's disease brains).
 
@@ -110,7 +110,7 @@ F₂-isoprostanes in urine (GC-MS) are the gold-standard lipid peroxidation biom
 
 ## Therapeutic Antioxidants: Clinical Evidence
 
-Large clinical trials have largely failed to demonstrate benefit from vitamin E, vitamin C, or β-carotene supplementation for chronic disease prevention in well-nourished populations. β-carotene increased lung cancer by 18-28% in smokers (ATBC and CARET trials). Vitamin E showed possible benefit in non-alcoholic steatohepatitis (PIVENS trial) but increased prostate cancer risk (SELECT trial).
+Large [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] have largely failed to demonstrate benefit from vitamin E, vitamin C, or β-carotene supplementation for chronic [[green-cannabis-grow-bible-pest-disease-prevention]] in well-nourished populations. β-carotene increased lung cancer by 18-28% in smokers (ATBC and CARET trials). Vitamin E showed possible benefit in non-alcoholic steatohepatitis (PIVENS trial) but increased prostate cancer risk (SELECT trial).
 
 Targeted approaches show more promise: N-acetylcysteine is the standard antidote for acetaminophen poisoning (GSH precursor) and has modest COPD benefit. Alpha-lipoic acid (600 mg/day) is approved in Germany for diabetic neuropathy. Coenzyme Q10 reduced major cardiac events in heart failure (Q-SYMBIO trial). Nrf2 activators (dimethyl fumarate approved for MS; sulforaphane in Phase II trials) represent a rational pharmacological approach to boosting endogenous defenses. NOX1/4 inhibitor setanaxib shows promise in liver fibrosis trials. Ferroptosis inhibitors (liproxstatin-1, iron chelators) represent a new therapeutic frontier for lipid peroxidation-driven cell death.
 

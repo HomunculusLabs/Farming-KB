@@ -12,19 +12,13 @@ sources:
 
 JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by Youngsang Cho. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
 
-
-
 ## Cost and Efficiency
 
 Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can be used 60-100 times when diluted to make 500 L of pesticide spray.
 
-
-
 ## What It Controls
 
 Effective against: black spot, pear rust, powdery mildew, downy mildew, and most fungal diseases.
-
-
 
 ## Ingredients (for 100 L batch)
 
@@ -35,16 +29,12 @@ Effective against: black spot, pear rust, powdery mildew, downy mildew, and most
 - Red clay powder: 0.5 kg (can substitute very fine rock powder)
 - Sea salt: 1.5 kg
 
-
-
 ## Equipment
 
 - 110 L heat-resistant plastic container (do NOT use aluminum or containers smaller than 110 L)
 - 1.2 m wooden stick (do NOT use metal)
 - Protective gear: mask, boots, jacket, gloves, safety goggles
 - Keep 1-2 L of water handy for emergency cooling
-
-
 
 ## Making Process
 
@@ -60,8 +50,6 @@ Effective against: black spot, pear rust, powdery mildew, downy mildew, and most
 
 **Warning:** Very high heat is produced. Spill-over of liquid can occur due to boiling. Take extreme caution. If water is too little or weather too hot, it can over-boil.
 
-
-
 ## Dilution and Application
 
 Mix 0.5-2 L of JS with water to make 500 L of spray:
@@ -71,19 +59,13 @@ Mix 0.5-2 L of JS with water to make 500 L of spray:
 
 Use JS only when disease has broken out. Do not use repeatedly or it can cause growth problems. Grapes, persimmons, walnuts, and greenhouse crops are sensitive -- take caution in increasing the dose.
 
-
-
 ## Innovation Behind JS
 
 Traditional lime-sulfur requires intense heat, is difficult to make with simple apparatuses, takes a long time, causes concentration problems during growth period, and damages greenhouse pipes. After nearly 100 experiments, Cho discovered that lye (caustic soda/sodium hydroxide) could completely liquefy sulfur without external heating. The method was further refined to not require heating at all, not need steel containers, and be completable in under 10 minutes.
 
-
-
 ## Compatibility
 
 JS can be used with commercial organic or chemical pesticides, but always do a mixture test and concentration test before combined use.
-
-
 
 ## See Also
 

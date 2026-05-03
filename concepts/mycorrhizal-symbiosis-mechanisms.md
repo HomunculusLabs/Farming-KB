@@ -40,9 +40,9 @@ forest ecosystem functioning and can produce ectomycorrhizal fruiting bodies
 
 ### Other Types
 
-- **Ericoid mycorrhiza**: Association with Ericaceae in acidic, nutrient-poor
+- **[[ericoid-mycorrhiza]]**: Association with Ericaceae in acidic, nutrient-poor
   soils; fungi penetrate root cells.
-- **Orchid mycorrhiza**: Obligate symbiosis in which orchid seeds require
+- **[[orchid-mycorrhiza]]**: Obligate symbiosis in which orchid seeds require
   fungal colonization for germination and early nutrition.
 - **Ectendomycorrhiza**: Intermediate form with both mantle and intracellular
   penetration, found in some Pinaceae genera.
@@ -74,7 +74,7 @@ at the periarbuscular membrane mediate uptake into the plant cell.
 
 ### Nitrogen Transfer
 
-Fungal hyphae absorb ammonium and amino acids from soil organic matter and
+[[fungal-hyphae]] absorb ammonium and amino acids from soil organic matter and
 transfer nitrogen to the plant, often as arginine or glutamine. In EMF,
 proteins and other organic nitrogen compounds are mobilized through
 extracellular enzyme secretion (proteases, peptidases) and the resulting

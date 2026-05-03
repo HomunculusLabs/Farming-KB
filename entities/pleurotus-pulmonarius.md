@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremed
 
 # Pleurotus pulmonarius
 
-**Pleurotus pulmonarius**, commonly known as the phoenix mushroom, Indian oyster, or lung oyster, is a close relative of *P. ostreatus* distinguished by its preference for warmer temperatures, faster colonization speed, and superior performance on agricultural waste substrates. It is a cornerstone species in tropical and subtropical mushroom cultivation and plays a significant role in organic farming systems as a waste-recycling and mycoremediation agent.
+**Pleurotus pulmonarius**, commonly known as the phoenix mushroom, Indian oyster, or lung oyster, is a close relative of *P. ostreatus* distinguished by its preference for warmer temperatures, faster colonization speed, and superior performance on [[agricultural-waste-substrates]]. It is a cornerstone species in tropical and subtropical mushroom cultivation and plays a significant role in organic farming systems as a waste-recycling and mycoremediation agent.
 
 ## Taxonomy and Distinction from P. ostreatus
 
@@ -24,7 +24,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremed
 * **Temperature preference:** Optimal fruiting at 20–28°C versus 10–18°C for *P. ostreatus*
 * **Fruting body morphology:** Typically smaller caps (3–12 cm), more pale in color, with thinner flesh
 * **Spore color:** White spore print (versus white to lilac in *P. ostreatus*)
-* **Growth rate:** Significantly faster mycelial colonization (25–40% faster than *P. ostreatus*)
+* **Growth rate:** Significantly faster [[mycelial-colonization]] (25–40% faster than *P. ostreatus*)
 * **Substrate range:** More adaptable to herbaceous substrates (straw, grasses) compared to the more wood-specialized *P. ostreatus*
 
 ## Role in Organic Farming Systems
@@ -33,7 +33,7 @@ In the context of organic mushroom farming and permaculture, *P. pulmonarius* se
 
 * **Waste conversion:** Efficiently converts agricultural residues (rice straw, wheat straw, banana leaves, sugarcane bagasse, corn stover) into high-quality protein. Biological efficiency on straw substrates ranges from 60–120%.
 * **Spent substrate utilization:** After mushroom harvest, the spent substrate is partially decomposed, enriched with fungal enzymes, and serves as excellent organic fertilizer, animal feed supplement, or vermicomposting feedstock.
-* **Biological pest control:** *Pleurotus* species produce nematocidal compounds that suppress plant-parasitic nematodes, making them valuable in integrated pest management systems.
+* **Biological pest control:** *Pleurotus* species produce nematocidal compounds that suppress plant-parasitic nematodes, making them valuable in [[integrated-pest-management]] systems.
 
 ## Mycoremediation Applications
 
@@ -66,7 +66,7 @@ In the context of organic mushroom farming and permaculture, *P. pulmonarius* se
 
 * Temperature: 20–28°C (strain-dependent)
 * Humidity: 85–95% relative humidity
-* Light: 500–1000 lux indirect light (essential for normal fruiting body development and cap pigmentation)
+* Light: 500–1000 lux indirect light (essential for normal [[fruiting-body-development]] and cap pigmentation)
 * Fresh air exchange: Moderate to high CO₂ tolerance but requires sufficient fresh air for healthy fruiting
 * Fruiting cycle: 7–14 days from pinning to harvest, with 2–4 flushes over 4–6 weeks
 

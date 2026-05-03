@@ -32,7 +32,7 @@ peroxidases, enabling it to oxidize the most recalcitrant aromatic structures.
 
 Manganese peroxidase (MnP, EC 1.11.1.13) oxidizes Mn(II) to Mn(III), which
 forms chelates with organic acids like oxalate and malate. These Mn(III)
-chelates diffuse away from the fungal hyphae and oxidize phenolic lignin
+chelates diffuse away from the [[fungal-hyphae]] and oxidize phenolic lignin
 components. MnP is more widely distributed among white-rot fungi than LiP and
 is considered the more versatile lignin-degrading enzyme.
 
@@ -71,7 +71,7 @@ use them as mycoparasitic weapons against plant pathogenic fungi.
 
 ## Enzyme Regulation
 
-Fungal extracellular enzyme production is tightly regulated by both
+[[fungal-extracellular-enzyme-production]] is tightly regulated by both
 nutritional signals and environmental conditions. Carbon catabolite repression
 (CCR) suppresses production of cellulases and other degradative enzymes when
 easily metabolized sugars are available, conserving energy. Derepression

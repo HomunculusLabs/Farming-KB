@@ -16,7 +16,7 @@ process is fundamental to global nutrient cycling and carbon turnover.
 
 ## The Saprotrophic Process
 
-Saprotrophic decomposition occurs in three overlapping phases:
+[[saprotrophic-decomposition]] occurs in three overlapping phases:
 
 ### 1. Colonization and Enzyme Secretion
 Fungal spores germinate on dead organic matsaprotrophic-fungiyphae
@@ -110,7 +110,7 @@ forms. This mineralization process is particularly important in forests
 where most nutrients are locked in organic forms. The fungal biomass
 itself represents a significant nutrient pool, and the turnover of
 fungal mycelium (through grazing by microarthropods and nematodes)
-contributes to the soil food web.
+contributes to the [[soil-food-web]].
 
 ## Interactions with Other Organisms
 

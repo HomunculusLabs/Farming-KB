@@ -1,4 +1,5 @@
----[[composting]]mposting Toilet [[composting-toilets]]026-04-12
+---
+title: Composting Toilet Systems
 updated: 2026-04-12
 type: conceptdecompositionteading, off-grid, water, composting, sustainability, construction]
 sources: []

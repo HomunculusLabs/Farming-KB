@@ -8,7 +8,7 @@ sources: []
 
 # Lichen Biology Guide
 
-Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide|ascomycete]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming flichen-symbiosisetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest living organisms on Earth.
+Lichens are composite organisms arising from a symbiotic relationship between a fungus (the mycobiont, usually an [[ascomycete-phylum-guide]]) and a photosynthetic partner (the photobiont, either a green alga or a cyanobacterium). Approximately 98% of lichen-forming flichen-symbiosisetes, with the remaining 2% being basidiomycetes. Lichens are found on every continent, including Antarctica, and are among the oldest living organisms on Earth.
 
 ## Lichen Symbiosis
 
@@ -54,7 +54,7 @@ Lichen identification requires attention to several features:
 - Perithecia (flask-shaped fruiting bodies): embedded or protruding
 
 ### Chemical Tests
-Lichen substances (secondary metabolites) are crucial for identification. Standard spot tests:
+Lichen substances ([[singh-ergot-alkaloid-fungal-secondary-metabolites]]) are crucial for identification. Standard spot tests:
 - Potassium hydroxide (K): turns certain substances yellow, red, or purple
 - Sodium hypochlorite (C): bleaching reaction
 - Paraphenylenediamine (PD): yellow, orange, or red reactions
@@ -87,16 +87,16 @@ Lichens are among the most reliable biological indicators of air quality:
 ### Biomonitoring Methods
 - Lichen diversity surveys: count species in a defined area
 - Transplanted lichen technique: move lichens from clean to polluted areas and measure health
-- Bioaccumulation studies: lichens absorb heavy metals from air and can be analyzed chemically
+- Bioaccumulation studies: lichens absorb [[singh-fungal-biosorption-reactors-heavy-metals]] from air and can be analyzed chemically
 - Mapping lichen communities to create air quality maps
 
 ## Ecological Roles
 
 ### Pioneer Species
-Lichens are often the first organisms to colonize bare rock, beginning the process of soil formation. They secrete organic acids (oxalic, lichenic) that slowly dissolve rock surfaces, contributing to pedogenesis over centuries.
+Lichens are often the first organisms to colonize bare rock, beginning the process of [[dighton-fungal-litter-trapping-canopy-soil-formation]]. They secrete organic acids (oxalic, lichenic) that slowly dissolve rock surfaces, contributing to pedogenesis over centuries.
 
 ### Nitrogen Fixation
-Lichens with cyanobacterial photobionts fix atmospheric nitrogen, contributing significant nitrogen to ecosystems. In old-growth forests of the Pacific Northwest, Lobaria species contribute an estimated 2-5 kg of nitrogen per hectare per year.
+Lichens with cyanobacterial photobionts fix atmospheric nitrogen, contributing significant nitrogen to ecosystems. [[fungal-roles-in-old-growth-forests]] of the Pacific Northwest, Lobaria species contribute an estimated 2-5 kg of nitrogen per hectare per year.
 
 ### Food and Habitat
 - Reindeer (caribou) depend heavily on Cladonia (reindeer lichen) as winter food
@@ -127,7 +127,7 @@ Lichens are extremely slow-growing organisms:
 
 - Air pollution (SO2, NOx, ammonia, ozone) is the primary threat to lichen diversity
 - Habitat loss through deforestation removes corticolous lichen habitat
-- Climate change is altering lichen distributions, especially in mountain and arctic areas
+- [[mycelium-running-stamets-fungi-and-climate-change]] is altering lichen distributions, especially in mountain and arctic areas
 - Overcollection of commercially valuable lichens (e.g., for perfume) threatens some populations
 - Acid rain leaches calcium from bark, reducing suitable substrate
 

@@ -11,13 +11,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 **Psilocybe hochetschii** is a rare psilocybin-containing mushroom species in the family Hymenogastraceae. It is a little-known member of the Psilocybe genus with limited documentation in the mycological literature.
 
-
-
 ## Taxonomy and Etymology
 
 The species was described from collections made in tropical or subtropical regions. The specific epithet "hochetschii" honors the collector or mycologist associated with its original discovery. It has not been subject to modern phylogenetic analysis and its placement within Psilocybe sensu stricto or the broader Psilocybe|Psilocybe s.l. clades remains unresolved.
-
-
 
 ## Description
 
@@ -34,31 +30,21 @@ The species was described from collections made in tropical or subtropical regio
 - **Basidia:** Clavate, four-spored.
 - **Cheilocystidia:** Variously shaped, often ventricose or flask-shaped with elongated necks. Pleurocystidia may be present or absent.
 
-
-
 ## Distribution and Habitat
 
 Reported from tropical and subtropical regions, likely associated with forested or grassland habitats. Specific details on substrate preference and geographic range are sparsely documented. Like many tropical Psilocybe species, it may fruit on rich organic soils, decaying plant material, or in association with particular grasses.
-
-
 
 ## Chemistry
 
 The species is presumed to contain [[psilocybin]] and [[psilocin]] based on its taxonomic placement within the genus. Quantitative analyses of alkaloid content have not been widely published. Related tropical species typically contain moderate levels of these tryptamine alkaloids.
 
-
-
 ## Similar Species
 
 May be confused with other small, brown Psilocybe species from tropical regions, including [[psilocybe-cubensis-potency-variation-by-flush]] in its immature state, or various inactive Mycena and Conocybe species. Microscopic examination is generally required for reliable identification.
 
-
-
 ## Notes
 
 Due to the scarcity of documented collections and limited modern study, the validity, distribution, and chemistry of this species remain poorly characterized. Additional field work and molecular phylogenetic studies are needed to clarify its taxonomic status.
-
-
 
 ## Practical Context
 
@@ -67,16 +53,12 @@ land stewardship, and low-input production systems. The practical value
 comes from matching the technique or organism to site conditions rather
 than treating it as an isolated recipe.
 
-
-
 ## Field Assessment
 
 Useful assessment starts with climate, substrate or soil conditions,
 water availability, and the existing biological community. Observations
 should be repeated across seasons because moisture, temperature, and
 management history often determine whether an approach succeeds.
-
-
 
 ## Management Considerations
 
@@ -85,16 +67,12 @@ timing, yields, failures, and labor requirements so the method can be
 adapted to local constraints. Avoid interventions that create dependence
 on scarce inputs when a simpler ecological substitute is available.
 
-
-
 ## Related Topics
 
 - [[soil-food-web]]
 - [[composting-systems]]
 - [[mycoremediation]]
 - [[mushroom-cultivation]]
-
-
 
 ## See Also
 

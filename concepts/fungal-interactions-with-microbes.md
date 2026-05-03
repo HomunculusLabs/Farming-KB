@@ -21,7 +21,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 
 ### Mutualism
 - **Nutrient exchange**: Bacteria fix nitrogen that fungi and plants use; fungi provide carbon
-- **Physical association**: Bacterial biofilms on fungal hyphae ("fungal highway") enhance dispersal
+- **Physical association**: Bacterial biofilms on [[fungal-hyphae]] ("fungal highway") enhance dispersal
 - **Degradation synergy**: Fungi and bacteria work together to degrade complex organic matter
   - Fungi break down lignin; bacteria consume the released sugars
   - Neither can fully decompose wood alone — partnership is required
@@ -47,7 +47,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 
 ### Symbiosis
 - Lichens: fungus + algae/cyanobacteria partnership
-- Endophytic fungi within other fungi (mycoviruses)
+- [[endophytic-fungi]] within other fungi (mycoviruses)
 - [[arbuscular-mycorrhizal-networks]] connecting multiple plant species
 
 ## Fungal-Viral Interactions
@@ -85,5 +85,5 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 ## Applications
 - **Biocontrol**: Trichoderma, mycophagous fungi, mycoviruses as disease control
 - **Composting**: Fungal-bacterial consortia for efficient decomposition
-- [[soil-food-web-structure]] — for the complete soil food web
+- [[soil-food-web-structure]] — for the complete [[soil-food-web]]
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents

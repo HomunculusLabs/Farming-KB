@@ -36,7 +36,7 @@ With the rise of the Nazi regime in 1933, Singer—who was of Jewish descent—w
 
 ## Career in the United States: Harvard and USDA
 
-In 1935, Singer emigrated to the United States. He obtained a position at the Farlow Herbarium of Cryptogamic Botany at Harvard University (1935–1940), one of the world's premier mycological institutions. There he worked alongside leading American mycologists, conducted extensive fieldwork across North America, and began developing his comprehensive classification system for the Agaricales. He subsequently moved to the United States Department of Agriculture in Beltsville, Maryland (approximately 1940–1947), where he continued research on fungal taxonomy and plant pathology, contributing to applied mycology alongside his systematic work.
+In 1935, Singer emigrated to the United States. He obtained a position at the Farlow Herbarium of Cryptogamic Botany at Harvard University (1935–1940), one of the world's premier mycological institutions. There he worked alongside leading American mycologists, conducted extensive fieldwork across North America, and began developing his comprehensive classification system for the Agaricales. He subsequently moved to the United States Department of Agriculture in Beltsville, Maryland (approximately 1940–1947), where he continued research on [[fungal-taxonomy]] and plant pathology, contributing to applied mycology alongside his systematic work.
 
 ## Argentina: The Neotropical Period (1947–1961)
 
@@ -57,7 +57,7 @@ After leaving the Field Museum in 1968, Singer held positions at the University 
 Singer was a classical phenetic taxonomist who used morphological characters for classification, working before the era of molecular phylogenetics. His approach emphasized several key methodological principles:
 
 - **Detailed microscopic analysis** of spore morphology, basidial structure, hyphal configurations, cystidia, and other cellular features
-- **Spore print color** as a primary diagnostic character at the family level
+- **[[spore-print]] color** as a primary diagnostic character at the family level
 - **Chemical reactions** with KOH, Melzer's reagent, ammonia, and other reagents for diagnostic purposes
 - **Ecological and distributional data** integrated into taxonomic decisions
 - **Comparative anatomy** across related taxa to establish evolutionary relationships

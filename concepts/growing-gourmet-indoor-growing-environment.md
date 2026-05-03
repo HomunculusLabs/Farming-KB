@@ -11,7 +11,7 @@ sources:
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 # Indoor Growing Environment
-[[mycopesticides-stamets]] describes a comprehensive 8-environment growing room complex designed for commercial-scale mushroom cultivation. Each environment has specific temperature, humidity, light, and pressurization requirements based on its function within the production pipeline. The design philosophy prioritizes flow-through logistics, contamination control, and energy efficiency.
+[[mycopesticides-stamets]] describes a comprehensive 8-environment growing room complex designed for commercial-scale [[query-what-are-the-stages-of-mushroom-cultivation]]. Each environment has specific temperature, humidity, light, and pressurization requirements based on its function within the production pipeline. The design philosophy prioritizes flow-through logistics, contamination control, and energy efficiency.
 ## The Growing Room Complex
 The growing room complex houses all non-laboratory activities within one building. Each room has different requirements according to function. Growers in humid tropical climates face a set of problems uniquely different from growers in cold, temperate climates. Ancillary storage and shop maintenance buildings are separate.
 ## Environment 1: The Growing Rooms
@@ -23,9 +23,9 @@ The growing room complex houses all non-laboratory activities within one buildin
 **Insulation:** R8-R16 or as needed.
 **Positive Pressurization:** Yes, through electrostatic filters.
 **Air-to-Substrate Ratio:** Stamets recommends filling growing rooms to no more than 1/4th of total air volume, preferring only 1/8th of capacity. This means for every 8 air spaces, 1 space is occupied by substrate -- a 7:1 air-to-substrate ratio. Five dry tons of wheat straw functionally fills a 1000 sq. ft. growing room.
-**Key Design Principles:**
+**Key [[mollison-designers-free-range-forage-design-principles]]:**
 - Ideally a flow-through design is followed, both in consideration of fresh mushrooms and the entry/exit of substrate mass.
-- Removing contaminated substrates into the same corridor through which freshly spawned substrate is being transferred causes cross-contamination.
+- Removing [[mycoremediation-mushroom-cultivation-contaminated-substrates]] into the same corridor through which freshly spawned substrate is being transferred causes cross-contamination.
 - Spent substrate should be exited out of the opposite ends of the growing rooms.
 - Many farms bring their fresh mushrooms into the main hallway en route to sorting and cold storage rooms.
 ## Environment 2: The Spawning Room
@@ -53,7 +53,7 @@ The growing room complex houses all non-laboratory activities within one buildin
 - Large farms use "walking floors" or a net pulled by a winch to facilitate off-loading.
 - When steam is injected, outer edges of the straw mass heat first, forming an outer shell. Three thermometers should be inserted at low (4-6 inches), midway, and high (12-24 inches from top) positions.
 - The minimum recommended time for steam pasteurization is 2 hours above 160F (71C).
-- After pasteurization, the chamber should be immediately positive-pressurized with contaminant-free air through a HEPA filter. For a 10x10x10 ft. steam box, a 1/8 HP blower pushing 200 CFM through a 12x12x6 inch HEPA filter adequately pressurizes the chamber.
+- After pasteurization, the chamber should be immediately positive-pressurized with contaminant-free air through a [[laminar-flow-hood-construction-hepa-filter]]. For a 10x10x10 ft. steam box, a 1/8 HP blower pushing 200 CFM through a 12x12x6 inch HEPA filter adequately pressurizes the chamber.
 - Once emptied, rooms should be doused with a bleach solution to limit mold colony growth.
 - Doors or openings must be tightly gasketed.
 ## Environment 4: The Main Corridor
@@ -68,7 +68,7 @@ The growing room complex houses all non-laboratory activities within one buildin
 - Bug-traps are placed at several locations to intercept winged intruders before possible entry into growing rooms.
 ## Environment 5: Sorting, Grading and Packing Room
 **Purpose:** To sort, grade, and package mushrooms into end-user containers.
-**Facility:** A well-lit room with gravity conveyors, sorting tables, and often a blast-chiller which quickly cools mushrooms prior to packaging and storage.
+**Facility:** A well-lit room with gravity conveyors, sorting tables, and often a blast-chiller which quickly cools mushrooms prior to packaging [[coleman-post-harvest-handling-and-storage]].
 **Temperature:** 35-50F (1-10C).
 **Humidity:** 50-75% rH.
 **Light:** 500-1000 lux.

@@ -7,7 +7,7 @@ tags: [mushrooms, fungi, cultivation, indoor, preparation, recipe, workflow, ino
 sources: [papers/unknown-mushroom-culture-patent-2761246.md]
 ---
 ## Overview
-Liquid culture (LC) is a nutrient-rich liquid medium inoculated with mushroom mycelium. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over spore syringes: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
+Liquid culture (LC) is a nutrient-rich liquid medium inoculated with mushroom [[mycelium]]. The mycelium grows throughout the liquid, forming a floating mat of white growth that can be drawn into a syringe and used to inoculate grain jars. Liquid culture offers several advantages over [[spore-syringe]]: faster colonization, lower contamination rates, and the ability to expand a small amount of mycelium into a large number of inoculations. It is an essential skill for cultivators working at any scale beyond casual hobby growing.
 ## How Liquid Culture Works
 Mushroom mycelium grows in liquid by extending hyphal threads throughout the nutrient solution. In an agitated environment, the mycelium forms small spherical masses called "mycelial balls" or "pellets." These balls are essentially concentrated bundles of living mycelium that, when introduced to a grain substrate, rapidly expand and colonize the grain. Because you are inoculating with living, actively growing mycelium rather than dormant spores, colonization time is significantly reduced.
 ## Liquid Culture Recipes

@@ -29,13 +29,13 @@ from 2x to over 100x depending on the element and species.
 
 ## Key Accumulator Species
 
-Comfrey (Symphytum officinale) is perhaps the most widely cited dynamic
+Comfrey ([[symphytum-officinale]]) is perhaps the most widely cited dynamic
 accumulator in permaculture literature. Its deep taproot can extend over 2
 meters, mining potassium, calcium, and other minerals from subsoil. Nettle
 (Urtica dioica) accumulates nitrogen, iron, calcium, and magnesium in
 exceptional concentrations.
 
-Other notable accumulators include yarrow (Achillea millefolium) for
+Other notable accumulators include yarrow ([[achillea-millefolium]]) for
 potassium and phosphorus, dandelion (Taraxacum officinale) for calcium and
 potassium, and chicory (Cichorium intybus) for potassium and trace minerals.
 Leguminous accumulators like clover and vetch fix atmospheric nitrogen while

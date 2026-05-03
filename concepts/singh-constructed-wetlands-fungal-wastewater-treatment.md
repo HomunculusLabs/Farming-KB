@@ -44,7 +44,7 @@ critical decomposition functions:
 These enzymatic capabilities enable the microbial communities to break
 down complex organic compounds in wastewater, reducing BOD and degrading
 recalcitrant pollutants. Fungi are particularly important due to their
-ability to produce ligninolytic enzymes that can degrade phenolic
+ability to produce [[ligninolytic-enzymes]] that can degrade phenolic
 compounds and other recalcitrant organic molecules.
 
 ## Fungal Role in Pulp Mill Effluent Treatment
@@ -111,7 +111,7 @@ mechanisms:
   the degradation of specific recalcitrant compounds.
 
 The influence of compost bioaugmentation on PAH degradation has been
-studied, with fungal bioaugmentation at PAH-contaminated sites showing
+studied, with [[fungal-bioaugmentation]] at PAH-contaminated sites showing
 promise for enhancing natural degradation processes. Fungal-bacterial
 co-cultures and bioaugmentation are employed to overcome limitations
 associated with single-organism approaches.

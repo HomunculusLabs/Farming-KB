@@ -7,23 +7,9 @@ tags: [permaculture, design, ethics, principles, sustainable-agriculture, ecolog
 sources: [raw/particles/permaculture-beginners-guide.md]
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Permaculture Design Principles for Beginners
 
-Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians David Holmgren and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
+Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians [[david-holmgren]] and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
 
 ### Three Core Ethics
 
@@ -47,7 +33,7 @@ Permaculture (from "permanent agriculture" / "permanent culture") was coined in 
 
 **Stacking**: Nature layers plants at multiple heights in a woodland — canopy trees, understory trees, shrubs, climbers, and ground cover. The forest garden replicates this layering with useful plants: fruit and nut trees, berry bushes, herbs, vegetables, and ground covers occupying the same area.
 
-**Everything Cycles**: In nature there is no waste — every "waste product" is useful elsewhere in the system. Composting returns fertility instead of flushing nutrients to sea.
+**Everything Cycles**: In nature there is no waste — every "waste product" is useful elsewhere in the system. Composting returns fertility instead of [[flushing-nutrients]] to sea.
 
 ### Zone System
 
@@ -63,20 +49,6 @@ Zoning is about correct placement — positioning elements by frequency of human
 ### Community Economics
 
 Local spending keeps money circulating within communities. When money is spent with a local producer using local materials, it stays within the community to be continually reinvested. Community orchards, LETS (Local Exchange Trading Systems), and local distinctiveness (preserving regional heritage varieties) all strengthen community resilience against homogenization and corporate extraction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## See Also
 

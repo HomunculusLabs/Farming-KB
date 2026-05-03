@@ -12,8 +12,6 @@ sources:
 
 JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean organic farming system developed by Youngsang Cho. Its ultimate objective is to bring farming back to farmers by making organic agriculture simple, effective, and ultra-low-cost -- as low as $100 per acre per year.
 
-
-
 ## Core Philosophy
 
 JADAM's guiding principle is **SESE**: Simple, Easy, Scientific, Effective. The system rejects the idea that farming knowledge should be proprietary or expensive. Youngsang Cho chose not to patent JADAM's key inventions (JADAM wetting agent, JADAM sulfur) and instead opened them publicly.
@@ -25,13 +23,9 @@ Key philosophical tenets:
 - Resemble, respect, and love nature rather than conquer, destroy, and exploit it
 - Follow nature and things will be surprisingly simple, easy, scientific and effective
 
-
-
 ## The Problem JADAM Solves
 
 Conventional and even organic farming have become dependent on purchased inputs -- seeds, seedlings, fertilizers, pesticides, microbes -- all bought from the marketplace. Farmers have lost control and leadership over farming to fertilizer and pesticide companies. One liter of imported organic liquid fertilizer can cost $200; JADAM's equivalent costs almost nothing.
-
-
 
 ## The JADAM System
 
@@ -51,31 +45,21 @@ The JADAM system includes:
 
 7. **Phyllite solution** -- Rock powder containing nearly all inorganic nutrients plants need.
 
-
-
 ## The Most Important Technology
 
 The single most important JADAM practice: "Apply JMS, sea water, and phyllite solution every time you water." This soil foundation work before transplanting or lowering is the key to strong root settlement, high yield, and high quality.
-
-
 
 ## Cost Achievements
 
 Bongha village, Korea (320 acres) successfully farmed rice for 5 years using JADAM method. They applied JADAM natural pesticide 4 times at a cost of $9 per acre. JADAM pesticide costs approximately 1/50 of commercial chemical pesticides.
 
-
-
 ## Microbial Diversity Over Disinfection
 
 JADAM fundamentally shifts the approach from killing pathogens (disinfection) to maximizing microbial diversity. When micro-ecology recovers its natural diversity, no particular pathogen can multiply in extraordinary numbers. Increased diversity of microorganisms means increased diversity of nutrients available for plants.
 
-
-
 ## Applicability
 
 JADAM method can be applied in all types of agriculture: conventional, hydroponics, commercial farms, large-scale plantations, home gardens, and urban gardens. Even conventional farmers can use JADAM pesticides alongside chemical ones to drastically cut costs.
-
-
 
 ## See Also
 

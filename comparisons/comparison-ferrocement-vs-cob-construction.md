@@ -8,7 +8,7 @@ sources: []
 
 # Ferrocement vs Cob Construction
 
-Both ferrocement and cob are affordable, low-tech building methods that empower DIY builders to create structures without heavy machinery. Despite sharing this philosophy, they sit at opposite ends of the material spectrum—one uses cement and steel mesh, the other uses raw earth and straw. Understanding their trade-offs helps builders choose the right technique for climate, structure type, and skill level.
+Both ferrocement and cob are affordable, low-tech [[query-what-are-the-best-natural-building-methods]] that empower DIY builders to create structures without heavy machinery. Despite sharing this philosophy, they sit at opposite ends of the material spectrum—one uses cement and steel mesh, the other uses raw earth and straw. Understanding their trade-offs helps builders choose the right technique for climate, structure type, and skill level.
 
 ## Material Composition
 
@@ -23,7 +23,7 @@ Both ferrocement and cob are affordable, low-tech building methods that empower 
 | **Wall thickness** | 2–5 cm | 45–60 cm |
 | **Compressive strength** | Very high (30–50 MPa) | Moderate (1–5 MPa) |
 | **Tensile strength** | High (steel reinforcement) | Low (straw fibers help minimally) |
-| **Weight** | Light for its strength | Very heavy (thermal mass) |
+| **Weight** | Light for its strength | Very heavy ([[urban-water-catchment-cistern-thermal-mass]]) |
 | **Monolithic behavior** | Excellent—shell acts as one unit | Excellent—no joints or cold bridges |
 | **Seismic resistance** | Good (flexible mesh distributes stress) | Poor to moderate (brittle in earthquakes) |
 | **Span capability** | Can vault and dome without formwork | Limited to small openings, timber lintels |
@@ -40,7 +40,7 @@ Ferrocement is essentially a thin concrete shell with minimal thermal mass. With
 
 ## Construction Process
 
-**Ferrocement** requires procuring cement, steel mesh, and tools for cutting and bending wire. The armature is built first—a rebar skeleton with layered mesh tied tightly at multiple points. The mesh is then plastered with mortar in 2–3 passes, working from the outside in to force mortar fully through the mesh layers. Skill matters significantly: too much water weakens the mix, voids in the mesh create weak points, and inconsistent thickness leads to cracking. Curing requires keeping the shell moist for 7–28 days (covering with wet burlap or plastic sheeting). A small dome (3–4 m diameter) can be built by 2–3 people in a week.
+**Ferrocement** requires procuring cement, steel mesh, [[coleman-small-farm-equipment-and-tools]] for cutting and bending wire. The armature is built first—a rebar skeleton with layered mesh tied tightly at multiple points. The mesh is then plastered with mortar in 2–3 passes, working from the outside in to force mortar fully through the mesh layers. Skill matters significantly: too much water weakens the mix, voids in the mesh create weak points, and inconsistent thickness leads to cracking. Curing requires keeping the shell moist for 7–28 days (covering with wet burlap or plastic sheeting). A small dome (3–4 m diameter) can be built by 2–3 people in a week.
 
 **Cob** requires only subsoil (tested on-site for clay content using the "jar test" or ribbon test), sand, straw, and water. Mixing is done by tarp-throwing or foot-mixing directly on the ground—no power tools needed. Walls are built in courses of 30–60 cm height, each allowed to stiffen (typically overnight) before the next is added. Openings for windows and doors are formed with temporary wooden formwork that is removed once the cob sets. A small [[cob-building]] (20–30 m²) typically takes a full building season (3–5 months) with a crew of 3–5 working steadily. No curing period beyond natural drying is required, and walls can be trimmed and sculpted while still plastic.
 
@@ -83,7 +83,7 @@ Many natural builders combine both materials creatively. A common pattern uses c
 
 Properly built ferrocement can last 50–100+ years with minimal maintenance. The main risk is corrosion of the steel reinforcement if the mortar cover is too thin or cracks allow moisture penetration. Using galvanized mesh and maintaining adequate cement cover (minimum 1.5 cm over all reinforcement) mitigates this. Hairline cracks that develop over time can be patched with a cement slurry.
 
-Cob buildings that are kept dry can last centuries—many cob structures in Devon (UK) and Yemen are 300–500 years old and still inhabited. Maintenance involves periodic re-plastering (every 10–20 years) and vigilant protection from water intrusion at foundations and roof lines. One of cob's greatest advantages is reparability: damaged or eroded sections can be repaired by mixing new cob and packing it directly into the wall, where it bonds seamlessly with the existing material.
+Cob buildings that are kept dry can last centuries—many cob structures in Devon (UK) and Yemen are 300–500 years old and still inhabited. Maintenance involves periodic re-plastering (every 10–20 years) and vigilant protection from water intrusion at foundations and roof lines. One of cob's greatest advantages is reparability: damaged or eroded sections can be repaired by mixing new cob [[coleman-winter-harvest-washing-and-packing]] it directly into the wall, where it bonds seamlessly with the existing material.
 
 ## Fire Resistance
 
@@ -103,7 +103,7 @@ Both materials perform well in fire, but through different mechanisms.
 
 **Cob** has a strong tradition of community workshops and [[natural-building]] schools. The learning curve is gentle—most people can mix and apply cob competently within a single weekend workshop. The tactile, sculptural nature of cob attracts artists and beginners alike. Building parties ("cob jams") are common, making cob a social building method.
 
-**Ferrocement** requires more specializedappropriate-technologyixing ratios, mesh armature construction, and plastering technique. Training resources are fewer, though organizations like the Ferrocement Society and various appropriate-technology groups offer workshops. The method has a strong following in developing countries for low-cost water storage and housing.
+**Ferrocement** requires more specializedappropriate-technologyixing ratios, mesh armature construction, and plastering technique. Training resources are fewer, though organizations like the Ferrocement Society and various appropriate-technology groups offer workshops. The method has a strong following in developing countries for low-cost [[mollison-designers-dam-construction-and-water-storage]] and housing.
 
 ## Summary
 

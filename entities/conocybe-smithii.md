@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets
 
 # Conocybe smithii
 
-**Conocybe smithii** is a small, fragile, psilocybin-containing mushroom in the family Bolbitiaceae. It is one of the lesser-known psychoactive *Conocybe* species, found in grasslands and disturbed soils in North America and Europe. The species was named in honor of the American mycologist **Alexander H. Smith**, one of the most prolific agaric taxonomists of the 20th century. Due to its extremely small size, inconspicuous appearance, and tendency to grow among other small grassland mushrooms, *C. smithii* is rarely noticed by casual observers and is among the most underreported psilocybin mushrooms.
+**Conocybe smithii** is a small, fragile, psilocybin-containing mushroom in the family Bolbitiaceae. It is one of the lesser-known psychoactive *Conocybe* species, found in grasslands and disturbed soils in North America and Europe. The species was named in honor of the American mycologist **Alexander H. Smith**, one of the most prolific agaric taxonomists of the 20th century. Due to its extremely small size, inconspicuous appearance, and tendency to grow among other small grassland mushrooms, *C. smithii* is rarely noticed by casual observers and is among the most underreported [[psilocybin-mushrooms]].
 
 ## Taxonomy and Etymology
 
@@ -106,7 +106,7 @@ Potency varies significantly between collections. Some reports suggest Pacific N
 
 Several *Conocybe* species are **dangerously toxic** and can be easily confused with *C. smithii*:
 
-- **Conocybe filaris:** Contains amatoxins (the same toxins as *Amanita phalloides*); can cause fatal liver and kidney failure
+- **Conocybe filaris:** Contains amatoxins (the same toxins as *[[amanita-phalloides]]*); can cause fatal liver and kidney failure
 - **Conocybe apala:** Common lawn species; non-psychoactive but not dangerous
 - **Conocybe lactea:** Small white species; non-psychoactive
 - **Conocybe albipes:** Very common lawn species; non-psychoactive

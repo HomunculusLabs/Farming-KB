@@ -11,11 +11,11 @@ sources:
 ---
 # Contamination Prevention
 
-Contamination is the single greatest threat to mushroom cultivation. [[mycopesticides-stamets]] identifies [[six-vectors-of-contamination]] and provides a systematic framework for preventing each one. The key insight is that all contamination is preventable by eliminating these vectors, and that time of exposure is the universal variable affecting all of them.
+Contamination is the single greatest threat to [[query-what-are-the-stages-of-mushroom-cultivation]]. [[mycopesticides-stamets]] identifies [[six-vectors-of-contamination]] and provides a systematic framework for preventing each one. The key insight is that all contamination is preventable by eliminating these vectors, and that time of exposure is the universal variable affecting all of them.
 
 ## The Six Vectors of Contamination
 
-The principal vectors of contamination are:
+The principal [[growing-gourmet-six-vectors-of-contamination]] are:
 1. The Cultivator
 2. The Air
 3. The Media
@@ -60,7 +60,7 @@ For those not installing micron filters, the "still-air" method uses aerosol spr
 - Lab doors should be electrically switched to UV lights so they turn off at entry
 
 ### CO2 and Air Exchange
-Without fresh air exchange, carbon dioxide levels rise from out-gassing by mushroom mycelium. Elevated CO2 triggers contaminant growth. Heavily packed spawn rooms also see oxygen levels decrease, eventually asphyxiating personnel. Since the only way to exchange air without introducing contaminants is by filtering, the combination of fans and micron filters is the only recourse.
+Without fresh [[growing-gourmet-growing-room-ventilation-air-exchange]], carbon dioxide levels rise from out-gassing by mushroom mycelium. Elevated CO2 triggers contaminant growth. Heavily packed spawn rooms also see oxygen levels decrease, eventually asphyxiating personnel. Since the only way to exchange air without introducing contaminants is by filtering, the combination of fans and micron filters is the only recourse.
 
 ### Water Misting for Growing Rooms
 The air in growing rooms does not require the degree of filtration needed for the laboratory. Cleaning the air by water misting is practical and effective (rain is nature's best method). Spray down each growing room twice a day, starting from the ceiling and broadcasting back and forth, eventually washing towards the center gutter. Each wash-down of a 1000 sq. ft. growing room takes about 15 minutes.
@@ -71,7 +71,7 @@ Often the medium upon which a culture is grown becomes the source of contaminati
 
 **Standard sterilization times:**
 - Liquid media: 15-20 minutes at 15 psi (250F / 121C) -- Stamets considers this far too brief for many endospore-forming bacteria
-- Malt extract or potato dextrose [[agar]]s: at least 40 minutes at 15 psi
+- Malt extract or potato dextrose agars: at least 40 minutes at 15 psi
 - Soil extracts: soak 24 hours, then sterilize extracted water for minimum 1 hour
 - Fresh hardwood sawdust: 2-3 hours at 15 psi
 - Supplemented sawdust (with rice bran): 4-5 hours at 15 psi
@@ -81,7 +81,7 @@ Often the medium upon which a culture is grown becomes the source of contaminati
 
 **Over-sterilization danger:** Prolonged steam sterilization (more than 5 hours at 15-18 psi) causes complex chemical transformations. Sawdust takes on a dark brown color, has a distinctly different odor, and resists decomposition by mushroom mycelium. Turpentines, volatile oils, and toxic by-products are responsible.
 
-**Media should be wetted just prior to filling.** If water is added and allowed to sit for more than 6 hours, legions of contaminants spur to life. The more contaminants at make-up, the more that survive the sterilization cycle.
+**Media should be wetted just prior to filling.** If water is added and allowed to sit for more than 6 hours, legions of contaminants spur [[gaias-garden-bringing-the-soil-to-life]]. The more contaminants at make-up, the more that survive the sterilization cycle.
 
 ## Vector 4: The Tools
 
@@ -95,7 +95,7 @@ All tools of the trade are included -- from the scalpel to the pressure cooker t
 
 ## Vector 5: The Inoculum
 
-The inoculum is the tissue being transferred -- whether from a living mushroom, mycelium from another petri dish, or spores. Bacteria and molds can infect the mushroom tissue and be carried with it every time a transfer is made. Isolation of the inoculum from mushroom mycelium can be frustrating because many contaminant organisms grow faster than newly emerging mushroom mycelium.
+The inoculum is the tissue being transferred -- whether from a living mushroom, mycelium from another petri dish, or spores. Bacteria and molds can infect [[allegro-canaanite-religion-and-the-mushroom]] tissue and be carried with it every time a transfer is made. Isolation of the inoculum from mushroom mycelium can be frustrating because many contaminant organisms grow faster than newly emerging mushroom mycelium.
 
 **Prevention measures:**
 - Cultivators must constantly "run" or transfer their mycelium away from rapidly developing competitors

@@ -42,7 +42,7 @@ complete decomposition.
 The selective strategy is more common in species like Phanerochaete
 chrysosporium and Ceriporiopsis subvermispora, which have potential
 applications in biopulping because they remove lignin while preserving
-cellulose fibers. Simultaneous decay is typical of Trametes versicolor and
+cellulose fibers. Simultaneous decay is typical of [[trametes-versicolor]] and
 many shelf fungi that completely consume the wood substrate.
 
 ## Lignin-Degrading Machinery
@@ -88,7 +88,7 @@ environmental pollutants. They have been demonstrated to degrade polycyclic
 aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), explosives
 like TNT, synthetic dyes, pharmaceuticals, and endocrine-disrupting compounds.
 
-Phanerochaete chrysosporium has been the most studied species for
+[[phanerochaete-chrysosporium]] has been the most studied species for
 bioremediation, but Pleurotus ostreatus and Trametes versicolor often show
 superior performance in field applications due to their faster growth and
 greater environmental tolerance. Live mycelium can be deployed in contaminated
@@ -100,7 +100,7 @@ treatment of contaminated water.
 Many commercially important mushroom species are white rot fungi. Shiitake
 (Lentinula edodes), oyster mushrooms (Pleurotus spp.), enoki (Flammulina
 velutipes), and reishi (Ganoderma lucidum) all degrade lignocellulose as
-part of their life cycle. Mushroom cultivation on wood-based substrates
+part of their life cycle. [[mushroom-cultivation]] on wood-based substrates
 exploits the white rot decay machinery to convert low-value wood byproducts
 into nutritious food.
 

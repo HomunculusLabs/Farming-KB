@@ -31,7 +31,7 @@ in forest soils can exceed the above-ground biomass.
 
 When a forest is clear-cut, this underground network is
 suddenly deprived of its photosynthetic partners. The
-mycorrhizal fungi that depended on root exudates from
+[[mycorrhizal-fungi]] that depended on root exudates from
 living trees lose their energy source and die back. With
 them die the complex communities of organisms that depended
 on the fungal network for nutrients and habitat.
@@ -54,7 +54,7 @@ The deforestation cascade follows a predictable sequence:
    soil. The nutrient-retention capacity of the land
    declines dramatically.
 
-4. **Water cycle disruption**: Mycelial networks acted as
+4. **Water cycle disruption**: [[mycelial-networks]] acted as
    a hydrological transport system, channeling and
    retaining water. Without them, water runs off rather
    than infiltrating, reducing groundwater recharge and

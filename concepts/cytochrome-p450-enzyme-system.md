@@ -15,7 +15,7 @@ Tsuneo Omura and Ryo Sato in 1962, the CYP superfamily is one of the largest
 gene families known, with over 300,000 sequences across all domains of life.
 Humans possess 57 functional CYP genes and 58 pseudogenes across 18 families and
 43 subfamilies. CYP enzymes are responsible for approximately 90% of Phase I
-drug metabolism, with the top five isoforms (CYP3A4, CYP2D6, CYP2C9, CYP2C19,
+[[phase-ii-conjugation-reactions-drug-metabolism]], with the top five isoforms (CYP3A4, CYP2D6, CYP2C9, CYP2C19,
 CYP1A2) accounting for metabolism of over 95% of CYP-metabolized drugs. Beyond
 xenobiotic processing, CYPs are essential for steroid biosynthesis, bile acid
 production, vitamin D activation, and eicosanoid signaling.
@@ -69,8 +69,7 @@ olanzapine, and melatonin. It is inducible by cigarette smoke via the aryl
 hydrocarbon receptor, increasing caffeine clearance 40-70% in smokers. CYP2E1
 (5-7% of hepatic CYP) is uniquely inducible by ethanol and bioactivates
 acetaminophen to NAPQI, carbon tetrachloride, benzene, and
-N-nitrosodimethylamine. CYP1A1 is extrahepatic and bioactivates polycyclic
-aromatic hydrocarbons to carcinogenic epoxides. CYP1B1 metabolizes estrogens to
+N-nitrosodimethylamine. CYP1A1 is extrahepatic and bioactivates [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] to carcinogenic epoxides. CYP1B1 metabolizes estrogens to
 potentially carcinogenic 4-hydroxyestradiol.
 ## Phase I Oxidation Reactions
 CYPs catalyze diverse oxidations: aliphatic hydroxylation (midazolam by CYP3A4),
@@ -93,7 +92,7 @@ regulates CYP3A4/2C9/19 via ER6 motifs; rifampin can decrease midazolam AUC
 ~95%. CAR (Constitutive Androstane Receptor) regulates CYP2B6/2C9/3A4, activated
 by phenobarbital and efavirenz. AhR (Aryl Hydrocarbon Receptor) regulates
 CYP1A1/1A2/1B1 via xenobiotic response elements, activated by cigarette smoke
-and dioxins (TCDD Kd ~0.1-1 nM). Induction requires 5-7 days to reach maximum
+[[staycare-fungal-degradation-of-pcbs-and-dioxins]] (TCDD Kd ~0.1-1 nM). Induction requires 5-7 days to reach maximum
 from de novo enzyme synthesis.
 ## Pharmacogenomics
 CYP2D6 defines four phenotypes: poor metabolizers (PM, two loss-of-function
@@ -104,7 +103,7 @@ gene duplications, ~10-29% Ethiopians). Key alleles: *CYP2D6*4 (splice defect,
 duplication, UM). Codeine requires CYP2D6 activation -- PMs get no analgesia; a
 2009 case involved fatal morphine overdose in a breastfeeding infant of a UM
 mother. Tamoxifen activation to endoxifen is CYP2D6-dependent; PMs have worse
-breast cancer outcomes. CYP2C19 PMs (12-23% Asians) face reduced clopidogrel
+[[blesching-cannabis-breast-cancer]] outcomes. CYP2C19 PMs (12-23% Asians) face reduced clopidogrel
 efficacy. CYP2C9 variants require 17-78% lower warfarin doses. FDA lists
 pharmacogenomic data for over 300 drugs.
 ## Endogenous Metabolism and Toxicology
@@ -128,7 +127,7 @@ failure). The CYP superfamily originated over 3.5 billion years ago with
 remarkable conservation of the heme-thiolate mechanism. Plants have expanded
 repertoires (Arabidopsis: 272 genes). Drug-metabolizing families are vertebrate-
 specific. CYPs serve as drug targets (aromatase inhibitors, abiraterone, azole
-antifungals) and pharmacology tools. FDA mandates reaction phenotyping with
+antifungals) [[amanita-muscaria-fly-agaric-history-and-pharmacology]] tools. FDA mandates reaction phenotyping with
 probe substrates (midazolam, dextromethorphan, tolbutamide, omeprazole,
 caffeine). The CPIC provides guidelines for 30+ gene-drug pairs; preemptive
 panel testing is increasingly adopted at major medical centers.

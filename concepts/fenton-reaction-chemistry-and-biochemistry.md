@@ -56,7 +56,7 @@ Other transition metals catalyze analogous reactions with hydrogen peroxide. Cop
 
 ## Role in Biological Oxidative Stress
 
-The hydroxyl radical is extraordinarily short-lived (~10^-9 s in biological media) and damages whatever biomolecule it encounters at its site of generation. Key molecular targets include DNA bases (forming mutagenic 8-hydroxy-2'-deoxyguanosine, 8-OHdG), polyunsaturated fatty acids in cell membranes (initiating lipid peroxidation chain reactions), and proteins (causing carbonylation, cross-linking, and fragmentation). Cellular sources of H2O2 include mitochondrial electron transport chain Complexes I and III, NADPH oxidases (NOX enzymes), xanthine oxidase, and peroxisomal oxidases.
+The hydroxyl radical is extraordinarily short-lived (~10^-9 s in biological media) and damages whatever biomolecule it encounters at its site of generation. Key molecular targets include DNA bases (forming mutagenic 8-hydroxy-2'-deoxyguanosine, 8-OHdG), polyunsaturated [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]] in cell membranes (initiating lipid peroxidation chain reactions), and proteins (causing carbonylation, cross-linking, and fragmentation). Cellular sources of H2O2 include mitochondrial electron transport chain Complexes I and III, NADPH oxidases (NOX enzymes), xanthine oxidase, and peroxisomal oxidases.
 
 ### Lipid Peroxidation
 
@@ -70,7 +70,7 @@ In Parkinson's disease, elevated iron in the substantia nigra combines with dopa
 
 In atherosclerosis, iron deposits in plaques catalyze LDL oxidation (oxLDL) via Fenton chemistry; oxidized LDL is taken up by macrophages to form foam cells, driving plaque progression. Ischemia-reperfusion injury represents an acute Fenton event where iron from damaged cells catalyzes destructive hydroxyl radical formation upon reoxygenation. Hereditary hemochromatosis directly increases Fenton substrate, leading to multi-organ damage.
 
-In cancer biology, Fenton-mediated ROS play a dual role. They can initiate carcinogenesis through DNA damage and mutations, but are also exploitable therapeutically. Many chemotherapeutic agents (doxorubicin, bleomycin, cisplatin) work partly through iron-dependent ROS generation. Cancer cells often have elevated labile iron pools, making them potentially more vulnerable to Fenton-based therapies. The concept of ferroptosis -- iron-dependent, non-apoptotic cell death driven by lipid peroxidation -- is directly linked to Fenton chemistry and represents an active area of cancer drug development.
+In cancer biology, Fenton-mediated ROS play a dual role. They can initiate carcinogenesis through DNA damage and mutations, but are also exploitable therapeutically. Many chemotherapeutic agents (doxorubicin, bleomycin, cisplatin) work partly through iron-dependent ROS generation. Cancer cells often have elevated labile iron pools, making them potentially more vulnerable to Fenton-based therapies. The concept of ferroptosis -- iron-dependent, non-apoptotic [[blesching-cannabis-apoptosis-and-cancer-cell-death]] driven by lipid peroxidation -- is directly linked to Fenton chemistry and represents an active area of cancer drug development.
 
 ## Antioxidant Defense Systems
 
@@ -94,11 +94,11 @@ Solid catalysts including magnetite (Fe3O4), goethite, iron-loaded zeolites, and
 
 ## Fenton Chemistry in Brown Rot Fungi
 
-Brown rot fungi (*Serpula lacrymans*, *Gloeophyllum trabeum*, *Postia placenta*) employ a non-enzymatic Fenton system as their primary cellulose-degrading mechanism. They secrete oxalic acid to lower local pH to ~2-4 and solubilize iron from wood, produce low-molecular-weight quinones (2,5-dimethoxyhydroquinone) to reduce Fe3+ to Fe2+, and generate H2O2 through glycerol oxidation. The resulting hydroxyl radicals cleave cellulose chains non-enzymatically at a distance from hyphae, creating diffusible oligosaccharides. This allows brown rot fungi to degrade cellulose and hemicellulose while leaving lignin intact (Kersten & Cullen, *J. Biotechnol.*, 2007, 129, 608-617).
+[[mycelium-running-white-rot-brown-rot-fungi]] (*Serpula lacrymans*, *Gloeophyllum trabeum*, *Postia placenta*) employ a non-enzymatic Fenton system as their primary cellulose-degrading mechanism. They secrete oxalic acid to lower local pH to ~2-4 and solubilize iron from wood, produce low-molecular-weight quinones (2,5-dimethoxyhydroquinone) to reduce Fe3+ to Fe2+, and generate H2O2 through glycerol oxidation. The resulting hydroxyl radicals cleave cellulose chains non-enzymatically at a distance from hyphae, creating diffusible oligosaccharides. This allows [[brown-rot-and-white-rot-fungi-in-mycoremediation]] fungi to degrade cellulose and hemicellulose while leaving lignin intact (Kersten & Cullen, *J. Biotechnol.*, 2007, 129, 608-617).
 
 ## Environmental and Atmospheric Fenton Chemistry
 
-In soils, Fe(II)-bearing minerals (pyrite FeS2, siderite FeCO3, magnetite Fe3O4, green rust) generate hydroxyl radicals through Fenton-like reactions with microbially and photochemically produced H2O2. Soil organic matter quinone groups mediate sustained Fe(III)/Fe(II) cycling. In atmospheric chemistry, iron-containing mineral dust in cloud droplets catalyzes Fenton reactions influencing tropospheric oxidative capacity. Acid mine drainage creates intense natural Fenton conditions through simultaneous pyrite-derived Fe2+ and H2O2 production.
+In soils, Fe(II)-bearing minerals (pyrite FeS2, siderite FeCO3, magnetite Fe3O4, green rust) generate hydroxyl radicals through Fenton-like reactions with microbially and photochemically produced H2O2. [[mollison-designers-humus-building-and-soil-organic-matter]] quinone groups mediate sustained Fe(III)/Fe(II) cycling. In atmospheric chemistry, iron-containing mineral dust in cloud droplets catalyzes Fenton reactions influencing tropospheric oxidative capacity. Acid mine drainage creates intense natural Fenton conditions through simultaneous pyrite-derived Fe2+ and H2O2 production.
 
 ## Detection and Measurement of Hydroxyl Radicals
 

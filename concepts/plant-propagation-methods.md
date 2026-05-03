@@ -1,4 +1,5 @@
----[[plant-propagation]]pagation Methods
+---
+title: Plant Propagation Methods
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -8,7 +9,7 @@ sources:
   - "raw/papers/laminar-flow-hood-construction-1.md"
 ---
 # Plant Propagation Methods
-Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
+Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. [[green-cannabis-grow-bible-cloning-and-seed-propagation]] introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
 ## Seed Propagation
 Seed propagation is the most common method for annual vegetables, herbs, and many perennials. See [[seed-starting-reference]] for detailed seed-starting guidance.
 ### Advantages
@@ -19,11 +20,11 @@ Seed propagation is the most common method for annual vegetables, herbs, and man
 ### Disadvantages
 - Does not preserve exact genetics of hybrid parents (F1 hybrids do not breed true)
 - Some species have long juvenile periods before flowering/fruiting
-- Some species are difficult or slow from seed (e.g., many fruit trees)
+- Some species are difficult or slow from seed (e.g., many [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]])
 ### Seed Trepawpaw Methods
 - **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, pawpaw, many native perennials.
 - **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: morning glories, locust, redbud, moonflower.
-- **Soaking**: Soak seeds in water for 6-24 hours before planting to speed germination. Common for: beans, peas, corn, beets, squash.
+- **Soaking**: Soak seeds [[ingoldian-hyphomycetes-spore-dispersal-in-water]] for 6-24 hours before planting to speed germination. Common for: beans, peas, corn, beets, squash.
 ## Cuttings
 Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and grow into a new plant. This is one of the most widely used vegetative propagation methods.
 **Softwood Cuttings (Spring-Summer)**
@@ -83,14 +84,14 @@ Layering encourages a stem to form roots while still attached to the parent plan
 1. Select a flexible, low-growing branch
 2. Bend the branch down to the ground
 3. Wound the underside of the stem at the contact point (scrape or notch)
-4. Bury the wounded section 4-6 inches deep in soil
+4. Bury the wounded section 4-6 inches deep [[singh-fungal-interactions-with-heavy-metals-in-soil]]
 5. Leave the tip of the branch exposed above ground
 6. Anchor with a U-shaped wire or stone
 7. Keep moist; roots form in 6-12 months
 8. Sever from the parent plant once well-rooted
 **Best for**: raspberries, blackberries, honeysuckle, forsythia, rhododendrons, magnolias, hazelnut
 ### Air Layering
-Used for plants that cannot be easily bent to ground level.
+Used [[query-how-to-make-lactobacillus-serum-for-plants]] that cannot be easily bent to ground level.
 1. Select a healthy branch, 1-2 feet from the tip
 2. Make an upward diagonal cut 1/3 through the stem
 3. Insert a toothpick or matchstick to keep the cut open

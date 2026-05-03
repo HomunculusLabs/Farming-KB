@@ -33,12 +33,12 @@ preference for warmer temperatures (18-28 degrees C) and a more complex,
 nutty flavor. Phoenix oysters are one of the fastest-colonizing *Pleurotus*
 species and can colonize supplemented straw in 10-14 days. They tolerate higher
 CO2 levels than most oyster species, making them suitable for less intensively
-managed fruiting environments. Yields are comparable to pearl oysters. This
+managed [[fruiting-environment]]. Yields are comparable to pearl oysters. This
 species is popular in subtropical and tropical regions.
 
 ## Pleurotus eryngii (King Oyster / King Trumpet)
 
-King oyster mushrooms are the largest *Pleurotus* species, producing single
+King [[oyster-mushrooms]] are the largest *Pleurotus* species, producing single
 fruiting bodies with thick, meaty stems and small brown caps that can reach
 15-20 cm in height. They prefer cooler temperatures (12-18 degrees C) and
 require lower CO2 levels for proper cap development; high CO2 causes stem
@@ -57,7 +57,7 @@ among the fastest fruiting oyster mushrooms. They have a distinctive, complex
 flavor described as citrusy or slightly cashew-like. The fruiting bodies are
 delicate and have a short shelf life (3-5 days refrigerated), which limits
 their commercial viability to direct-to-consumer or farmers market sales.
-Biological efficiency on straw is high, often exceeding 100%. This species is
+[[biological-efficiency]] on straw is high, often exceeding 100%. This species is
 particularly sensitive to contamination during early colonization but becomes
 quite aggressive once established.
 

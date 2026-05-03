@@ -15,8 +15,6 @@ sources:
 
 # Psilocybe thailandensis
 
-
-
 ## Taxonomy
 
 - **Kingdom:** Fungi
@@ -28,8 +26,6 @@ sources:
 - **Species:** *P. thailandensis*
 
 Described by Guzmán and colleagues from collections made in Thailand. The species name reflects its type locality and primary known distribution in mainland Southeast Asia. It belongs to *Psilocybe* Section *Coprophilae*, the dung-inhabiting group within the genus.
-
-
 
 ## Description
 
@@ -59,31 +55,21 @@ Described by Guzmán and colleagues from collections made in Thailand. The speci
 - Spore print dark purple-brown to nearly black
 - Basidia 2- and 4-spored
 
-
-
 ## Distribution and Habitat
 
 Endemic to mainland Southeast Asia with confirmed collections from Thailand and likely occurring in neighboring countries including Laos, Cambodia, and Vietnam. A strictly coprophilous species found growing on dung of water buffalo (*Bubalus bubalis*) and cattle in open grasslands, rice paddies, and disturbed tropical lowland habitats. Fruiting is seasonal, correlated with the monsoon rains from approximately May through October. Specimens are most commonly encountered in the early morning hours and tend to deliquesce rapidly under tropical sun.
-
-
 
 ## Chemistry and Pharmacology
 
 Biochemical analyses have confirmed the presence of psilocybin and psilocin. The species is considered moderately potent. Notably, some collections have shown elevated psilocin relative to psilocybin, which may relate to enzymatic degradation during the rapid desiccation that occurs in tropical environments. No quantitative study of [[baeocystin]] or norbaeocystin content has been published specifically for this species.
 
-
-
 ## Ethnobotanical Significance
 
-Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[psilocybe-samuiensis]]* (originally described from Koh Samui) has received more attention, *P. thailandensis* and related coprophilous species are likely among those encountered and used informally. The Thai term "hed keequai" (water buffalo mushroom) may refer broadly to dung-inhabiting psilocybin mushrooms including this species. Tourism-related mushroom consumption in Thailand has brought international attention to the country's psychoactive fungal diversity, though this has also led to legal restrictions.
-
-
+Thailand has a documented history of psychoactive mushroom use, particularly among rural communities and hill tribes. While *[[psilocybe-samuiensis]]* (originally described from Koh Samui) has received more attention, *P. thailandensis* and related coprophilous species are likely among those encountered and used informally. The Thai term "hed keequai" (water buffalo mushroom) may refer broadly to dung-inhabiting [[psilocybin-mushrooms]] including this species. Tourism-related mushroom consumption in Thailand has brought international attention to the country's psychoactive fungal diversity, though this has also led to legal restrictions.
 
 ## Similar Species
 
-Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *Psilocybe cubensis* is far larger and has a different spore shape. *[[panaeolus-cyanescens]]* co-occurs in the same habitats but is readily separated by its black spore print and mottled gill edges.
-
-
+Most easily confused with *Psilocybe samuiensis*, which shares its Southeast Asian distribution and coprophilous habit. *P. thailandensis* can be distinguished by its generally smaller size, more strongly conic cap, and differences in spore morphology. *[[psilocybe-cubensis]]* is far larger and has a different spore shape. *[[panaeolus-cyanescens]]* co-occurs in the same habitats but is readily separated by its black spore print and mottled gill edges.
 
 ## Conservation
 

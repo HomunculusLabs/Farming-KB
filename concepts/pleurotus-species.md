@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-oyster-mushroom-cultivation.md]
 ## Overview
 
 The genus pleurotus-ostreatus|Pleurotus contains approximately 30-40
-recognized species of gilled mushrooms commonly known as oyster mushrooms. They
+recognized species of gilled mushrooms commonly known as [[oyster-mushrooms]]. They
 are among the most widely cultivated mushrooms globally, valued for their
 culinary quality, medicinal properties, and ease of cultivation on diverse
 [[oyster-mushroom-substrates]].
@@ -37,7 +37,7 @@ caps, short off-center stems, and white gills that run down the stem
 (decurrent).
 
 Prefers temperatures of 15-18 degrees Celsius for fruiting. Known for fast
-colonization and reliable yields with biological efficiency often exceeding
+colonization and reliable yields with [[biological-efficiency]] often exceeding
 100% on supplemented straw substrates.
 
 ### Pleurotus pulmonarius (Phoenix Oyster / Indian Oyster)

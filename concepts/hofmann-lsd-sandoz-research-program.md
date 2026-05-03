@@ -19,8 +19,8 @@ Most fundamental studies on animals were carried out by Dr. Aurelio Cerletti in
 the Sandoz pharmacological department, headed by Professor Ernst Rothlin.
 
 The research program required extensive pharmacological testing on animals
-before systematic clinical trials with human subjects could begin. These
-experiments had to assay the assimilation and elimination of LSD in organisms,
+before systematic [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] with human subjects could begin. These
+experiments had to assay the assimilation and elimination [[mckenna-discovery-and-impact-of-lsd]] in organisms,
 and above all its tolerance and relative toxicity. Hofmann noted that it would
 have greatly exceeded the scope of his book to mention all the results of the
 several hundred pharmacological investigations conducted worldwide in connection
@@ -75,8 +75,7 @@ tablets containing 0.025 mg (25 mcg), and ampoules of 1 ml containing 0.1 mg
 (100 mcg) for oral administration. The solution could also be injected
 subcutaneously or intravenously, producing identical effects but more rapidly.
 
-The prospectus listed the properties, method of administration, indications and
-dosage, precautions, and antidote information. The effect of Delysid sets in
+The prospectus listed the properties, method of administration, indications [[turner-harmala-alkaloids-preparation-and-dosage]], precautions, and antidote information. The effect of Delysid sets in
 after 30 to 90 minutes and generally lasts 5 to 12 hours, though intermittent
 disturbances of affect may occasionally persist for several days.
 
@@ -126,9 +125,9 @@ neurology, and psychiatry.
 During the first years after its discovery, LSD brought Hofmann the same
 gratification that any pharmaceutical chemist would feel on learning that a
 substance might develop into a valuable medicament. This joy was tarnished after
-more than ten years of uninterrupted scientific research when LSD was swept up
+more than ten years of uninterrupted [[psilocybin-isolation-and-early-scientific-research]] when LSD was swept up
 in the wave of inebriant mania that spread over the Western world, above all
-the United States, at the end of the 1950s.
+the [[psychedelic-research-legal-history-united-states]], at the end of the 1950s.
 
 The spread from medicine into the drug scene was introduced by sensational
 magazine reports on LSD experiments carried out in psychiatric clinics. Sidney
