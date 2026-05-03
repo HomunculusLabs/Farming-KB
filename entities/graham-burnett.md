@@ -54,7 +54,6 @@ Start with small trials before relying on graham burnett at production scale. Re
 
 ## Related Topics
 
-
 ## See Also
 
 - [[permaculture-principles]] — Core design principles

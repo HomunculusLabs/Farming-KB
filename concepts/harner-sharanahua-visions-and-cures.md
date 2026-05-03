@@ -113,7 +113,7 @@ each group's unique cultural identity and historical experience.
 
 The Sharanahua case demonstrates that the effects of hallucinogenic
 substances cannot be understood in purely pharmacological terms. The
-same brew that produces恐惧 (fear) and confrontation among the Jivaro
+same brew that produces fear and confrontation among the Jivaro
 produces communal healing among the Sharanahua. This underscores the
 importance of cultural context, social structure, and the communication
 patterns established during the ceremonial session in determining the

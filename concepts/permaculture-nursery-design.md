@@ -147,5 +147,4 @@ From backyard to commercial:
 - Develop a reputation for quality and reliability
 
 ## Related
-
 - [[query-how-do-i-start-a-small-permaculture-nursery]]

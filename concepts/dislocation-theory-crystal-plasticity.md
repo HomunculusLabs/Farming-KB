@@ -51,7 +51,7 @@ Small coherent precipitates are sheared by dislocations through chemical (new in
 
 ### Grain Boundary Strengthening (Hall-Petch)
 
-σ_y = σ₀ + k_y d^(−1/2), where σ₀ is friction stress and d is grain diameter. Mechanism: shorter pile-ups in smaller grains (n ∝ √d) require higher stress for跨grain deformation transmission. k_y = 0.1–1 MPa·m^(1/2). Breakdown occurs at d < 10–20 nm (inverse Hall-Petch, grain boundary sliding) and T > 0.5T_m (diffusional creep dominates). Severe plastic deformation (ECAP, HPT, ARB) achieves 100–500 nm grains yielding 1–2 GPa in Al and Cu.
+σ_y = σ₀ + k_y d^(−1/2), where σ₀ is friction stress and d is grain diameter. Mechanism: shorter pile-ups in smaller grains (n ∝ √d) require higher stress for cross-grain deformation transmission. k_y = 0.1–1 MPa·m^(1/2). Breakdown occurs at d < 10–20 nm (inverse Hall-Petch, grain boundary sliding) and T > 0.5T_m (diffusional creep dominates). Severe plastic deformation (ECAP, HPT, ARB) achieves 100–500 nm grains yielding 1–2 GPa in Al and Cu.
 
 ### Work Hardening
 

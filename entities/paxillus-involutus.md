@@ -44,7 +44,7 @@ fungus is toxic to humans when consumed raw.
   birch (Betula spp.), and other forest trees
 - Produces extraradical hyphae that extend nutrient-absorbing surface
   area of host roots by up to 75%
-- Total fungal area可达47.4 mm2 per gram of soil in association with
+- Total fungal area can reach 47.4 mm2 per gram of soil in association with
   pine seedlings (Rousseau et al., 1994)
 
 ### Nutrient Mobilization

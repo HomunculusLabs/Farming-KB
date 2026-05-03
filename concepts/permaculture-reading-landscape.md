@@ -71,7 +71,7 @@ Reading landscape is the practical expression of [[permaculture-principle-observ
 
 Holmgren argues that it is only after entering a low-energy future that landscape evolution processes and [[permaculture-energy-descent-planning]] and culture will have settled enough for patterns to become a readily recognised and widely used pattern language. Given the geological scale and novel nature of change wrought by industrial culture, reading landscape is destined to generate localised and contingent patterns for some time.
 
-Some may see this as a prognosis for frustration. Holmgren sees it as exciting detective work, sifting the diversity of place and process to inform design and management more in tune with nature. The ability to read landscape will become an increasingly valuable skill as [[permaculture-and-peak-oil]] progresses and societies need to重新learn how to live within the capacities of their local environments.
+Some may see this as a prognosis for frustration. Holmgren sees it as exciting detective work, sifting the diversity of place and process to inform design and management more in tune with nature. The ability to read landscape will become an increasingly valuable skill as [[permaculture-and-peak-oil]] progresses and societies need to relearn how to live within the capacities of their local environments.
 
 ## See Also
 

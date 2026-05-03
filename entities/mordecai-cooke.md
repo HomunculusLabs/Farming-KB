@@ -58,7 +58,6 @@ Start with small trials before relying on mordecai cooke at production scale. Re
 
 ## Related Topics
 
-
 ## See Also
 
 - [[victorian-mycology]] — Broader context of Victorian fungal studies

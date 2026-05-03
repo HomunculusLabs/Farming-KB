@@ -55,7 +55,7 @@ The KOR mechanism may explain the characteristic dysphoria, disorientation, and 
 
 The Mazatec use S. divinorum primarily for:
 
-- **Divination** (寻求 respuestas — "seeking answers"): a healer (curandero/a) guides a patient through a session to diagnose illness, locate lost objects, or divine future events
+- **Divination** ("seeking answers"): a healer (curandero/a) guides a patient through a session to diagnose illness, locate lost objects, or divine future events
 - **Healing**: used to treat ailments including headache, rheumatism, and gastrointestinal complaints
 - The leaves are traditionally chewed fresh in pairs (quid method), with the juice held in the mouth for absorption through the buccal mucosa
 - Sessions typically occur at night, in darkness or dim candlelight, often accompanied by prayer

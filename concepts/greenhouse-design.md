@@ -44,7 +44,7 @@ A greenhouse extends the growing season, protects crops from weather, and enable
 
 **Attached Lean-To** — Shares a wall with an existing structure. Good passive solar gain from the house wall as thermal mass. Limited by available wall length. Structural attachment must handle wind/snow loads.
 
-**Freestanding Greenhouse** — Full独立 structure with foundation. Highest control over environment. Suitable for [[composting-systems]] integration, [[seed-saving-techniques]], and year-round growing. Cost: $10-30/sq ft.
+**Freestanding Greenhouse** — Fully independent structure with foundation. Highest control over environment. Suitable for [[composting-systems]] integration, [[seed-saving-techniques]], and year-round growing. Cost: $10-30/sq ft.
 
 ## Passive Solar Design
 

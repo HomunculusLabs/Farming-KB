@@ -10,7 +10,7 @@ sources:
 # Permaculture Sewage and Marsh Treatment
 
 **Updated:** 2026-04-18
-[[permaculture-design]]sign, sewage is treated through biological marsh systems rather than mechanical treatment plants. Sewage flows through a sequence of holding ponds, marsh plants, and最终 into productive ponds, creating an industrial resource base rather than a waste problem.
+In permaculture design, sewage is treated through biological marsh systems rather than mechanical treatment plants. Sewage flows through a sequence of holding ponds, marsh plants, and finally into productive ponds, creating an industrial resource base rather than a waste problem.
 
 ## Source
 Bill Mollison Permaculture Design Course, Pamphwater-in-permacultureaculture)

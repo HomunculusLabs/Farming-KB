@@ -46,7 +46,7 @@ contributes to DOM's somewhat lower potency relative to DOB or DOI.
 The DOM experience is characterized by intense, long-lasting visual hallucinations with a quality often described as
 "sharp" and "crystalline." Visual effects include complex geometric patterns, color enhancement and distortion,
 significant depth perception changes, and persistent afterimages. Cognitive effects include pronounced stimulation,
-enhanced analytical thinking, and sometimes a rigid or强迫 quality to thought patterns that some users find
+enhanced analytical thinking, and sometimes a rigid or compulsive quality to thought patterns that some users find
 uncomfortable. The stimulant component is significant and can include sustained physical energy, jaw clenching,
 insomnia, and elevated heart rate and blood pressure. The extremely long duration — with aftereffects and difficulty
 sleeping persisting well beyond the primary experience — is the most frequently cited challenge. Users often report

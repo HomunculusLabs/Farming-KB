@@ -91,7 +91,7 @@ Hemenway observed that within a day or two of laying down mulch, robins and towh
 
 ### Through Sheet Mulching
 
-In the sheet mulch construction process, a thin layer of high-nitrogen material (manure, blood meal, fresh grass clippings) is added to attract worms and burrowing beetles, which aerate and loosen the soil. As the mulch breaks down from the top, worms and other organisms work from below, creating a双向 (two-way) decomposition process that rapidly builds soil.
+In the sheet mulch construction process, a thin layer of high-nitrogen material (manure, blood meal, fresh grass clippings) is added to attract worms and burrowing beetles, which aerate and loosen the soil. As the mulch breaks down from the top, worms and other organisms work from below, creating a two-way decomposition process that rapidly builds soil.
 
 ### Avoiding Practices That Harm Worms
 

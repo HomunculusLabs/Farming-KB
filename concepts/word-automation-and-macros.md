@@ -27,7 +27,7 @@ programmatically, accessing the Word Object Model which exposes every aspect of
 the application, from paragraphs and ranges to styles and templates. The Macro
 Recorder, accessible from the Developer tab, translates user actions into VBA
 code, providing a starting point for automation scripts. Common VBA tasks
-include批量 formatting, automated mail merges, document assembly from templates,
+include batch formatting, automated mail merges, document assembly from templates,
 and custom dialog boxes for user input. VBA projects are stored within .docm
 files (macro-enabled documents) or in global templates like Normal.dotm.
 

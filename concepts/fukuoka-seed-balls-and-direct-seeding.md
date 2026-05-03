@@ -50,7 +50,7 @@ This eliminates the entire nursery-bed phase of rice production. There is no nee
 ## Seeding Rates and Varieties
 
 Fukuoka provided specific guidance on seeding quantities per quarter-acre:
-- Clover: 1 lb, sown in September-October (with possible补充sowing in March-April)
+- Clover: 1 lb, sown in September-October (with possible supplemental sowing in March-April)
 - Barley: 6.5-22 lbs, sown end of October to mid-November
 - Rice: 6.5-22 lbs, sown mid-November to December
 

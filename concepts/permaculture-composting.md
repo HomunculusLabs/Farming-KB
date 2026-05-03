@@ -94,7 +94,7 @@ Permaculture composting differs from conventional approaches by:
 A permaculture site typically employs several complementary composting methods:
 
 ### Sheet Composting (Lasagna Gardening)
-[[mollison-pdc-sheet-mulching-versus-composting]] layers carbon and nitrogen materials directly on garden beds, composting in place. Alternate layers of cardboard, manure, straw, compost, and green material. Works best for creating new beds and suppressing existing vegetation. Decomposition occurs over 3-6 months, creating rich soil without any搬运 of materials.
+[[mollison-pdc-sheet-mulching-versus-composting]] layers carbon and nitrogen materials directly on garden beds, composting in place. Alternate layers of cardboard, manure, straw, compost, and green material. Works best for creating new beds and suppressing existing vegetation. Decomposition occurs over 3-6 months, creating rich soil without any moving of materials.
 
 ### Cold Composting Piles
 Simple open piles where materials decompose slowly over 6-12 months. Less labor-intensive than [[comparison-bsf-composting-vs-hot-composting]] but does not reliably kill weed seeds or pathogens. Position in Zone 2 where materials accumulate and finished compost is accessible.

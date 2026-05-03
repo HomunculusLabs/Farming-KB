@@ -79,7 +79,7 @@ All psychedelic tryptamines are structural analogues of serotonin. The conversio
 
 ## The Role of 5-HT2A Receptors
 
-While TIHKAL predates the full elucidation of 5-HT2A receptor pharmacology, the text repeatedly discusses compounds' serotonin agonist/antagonist properties. The key insight from TIHKAL is that **serotonin receptor binding does not简单地 correlate with psychedelic potency** -- the relationship is far more complex, involving receptor subtype specificity, efficacy (agonist vs. partial agonist vs. antagonist), functional selectivity, and downstream signaling pathways.
+While TIHKAL predates the full elucidation of 5-HT2A receptor pharmacology, the text repeatedly discusses compounds' serotonin agonist/antagonist properties. The key insight from TIHKAL is that **serotonin receptor binding does not simply correlate with psychedelic potency** -- the relationship is far more complex, involving receptor subtype specificity, efficacy (agonist vs. partial agonist vs. antagonist), functional selectivity, and downstream signaling pathways.
 
 ## Research Integrity Concerns
 

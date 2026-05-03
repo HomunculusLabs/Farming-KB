@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # Water Quality Management
 
-Water quality directly affects nutrient availability, plant health, and最终 yield. Cannabis plants are composed of more than 80 percent water, making water quality one of the most critical yet often overlooked aspects of cultivation.
+Water quality directly affects nutrient availability, plant health, and final yield. Cannabis plants are composed of more than 80 percent water, making water quality one of the most critical yet often overlooked aspects of cultivation.
 
 ## pH Management
 

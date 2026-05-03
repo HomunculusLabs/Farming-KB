@@ -50,7 +50,7 @@ degradation proceeds more rapidly.
 Keratinolytic fungi produce keratinases, a group of proteases that can hydrolyze keratin.
 Effective keratin degradation typically requires a combination of enzymatic activities:
 disulfide reductases that break disulfide bonds and proteases that cleave the polypeptide
-backbone. The协同 action of these enzymes is necessary because the cross-linked
+backbone. The synergistic action of these enzymes is necessary because the cross-linked
 structure of keratin prevents protease access until the disulfide bonds are reduced.
 
 Keratinases from fungi are typically serine proteases or metalloproteases that function

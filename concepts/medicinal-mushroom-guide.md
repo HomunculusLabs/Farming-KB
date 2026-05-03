@@ -107,7 +107,7 @@ Related: [[mushroom-species-guide]], [[herbal-medicine]], [[fungal-ecology]]
 - **Dosage**: 2-4 g dried chaga/day in tea; 500-1500 mg dual extract/day
 - **Cultivation**: Cannot be reliably cultivated for fruiting body. Mycelial cultivation possible but traditional chaga is a sterile conk (sclerotium) that grows on living birch trees for 10-20 years. Most commercial products are wild-harvested.
 - **Sourcing**: Wild harvested from birch forests (Siberia, Canada, northern US, Scandinavia). Quality varies widely. Look for betulin content and third-party testing for heavy metals. Overharvesting is a conservation concern.
-- **Cautions**: High oxalate content -- may contribute to kidney stones with heavy use. Contains compounds that may interact with blood thinners. Avoid in pregnancy (traditional禁忌). Potential for contamination with heavy metals from polluted environments.
+- **Cautions**: High oxalate content -- may contribute to kidney stones with heavy use. Contains compounds that may interact with blood thinners. Avoid in pregnancy (traditional contraindication). Potential for contamination with heavy metals from polluted environments.
 
 ### [[medicinal-mushroom-guide-agaricus-blazei|Agaricus blazei]] (Agaricus subrufescens)
 
