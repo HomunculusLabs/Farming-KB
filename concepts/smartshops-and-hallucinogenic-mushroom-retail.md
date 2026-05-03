@@ -120,6 +120,10 @@ Several factors facilitated the expansion of the hallucinogenic mushroom retail 
 
 ## See Also
 
+- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
+- [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
+- [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
+
 - [[psilocybin pharmacology]]
 - [[Psilocybe cubensis]]
 - [[Amanita muscaria]]

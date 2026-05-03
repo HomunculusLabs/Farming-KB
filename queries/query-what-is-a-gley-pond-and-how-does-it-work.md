@@ -141,6 +141,8 @@ very sandy or porous soils, and the need for abundant organic material which may
 - Full sealing typically takes 4 to 8 weeks; initial seepage is normal during this period
 - Gley ponds eliminate the cost of synthetic liners and create a self-repairing biological seal
 
-## Related Questions
+## Related
+
+- [[query-what-is-an-earthship-and-how-does-it-work]] Questions
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
 - [[query-how-does-keyline-design-work-in-permaculture]]

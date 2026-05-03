@@ -122,6 +122,6 @@ Some critics note that Toensmeier's enthusiasm for perennial staples sometimes u
 - [[bill-mollison]] — co-originator of permaculture; Toensmeier builds upon and refines many Mollison principles
 - [[david-holmgren]] — co-originator of permaculture; permaculture design principles framework
 - [[robert-hart]] — pioneer of forest gardening; foundational influence on Toensmeier's food forest work
-- [[mark-shepard]] — perennial agriculture advocate; restoration agriculture practitioner
+- mark shepard — perennial agriculture advocate; restoration agriculture practitioner
 - [[food-forest-design]] — concept pages on food forest systems
-- [[carbon-farming]] — climate mitigation through regenerative agriculture
+- [[biointensive-carbon-farming]] — climate mitigation through regenerative agriculture

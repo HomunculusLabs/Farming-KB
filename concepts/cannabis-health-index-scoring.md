@@ -100,3 +100,7 @@ See also: [[cannabis-dosing-guidelines-by-condition]], [[cannabis-thc-cbd-ratio-
 - [[blesching-cannabis-tourette-syndrome]]
 - [[blesching-cannabis-prostate-cancer]]
 - [[blesching-cannabis-tourette-syndrome]]
+
+## See Also
+
+- [[cannabis-health-index-scoring-system]]

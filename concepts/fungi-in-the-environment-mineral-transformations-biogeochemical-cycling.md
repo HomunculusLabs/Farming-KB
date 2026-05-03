@@ -132,4 +132,4 @@ concrete, demonstrating fungal adaptation to extreme contamination.
 [[fungi-in-the-environment-saprotrophic-mycelial-foraging-strategies]]
 [[fungi-in-the-environment-mycorrhizal-carbon-cycle-soil-carbon-pools]]
 [[arbuscular-mycorrhizal-fungi]]
-[[ectomycorrhizal-fungi-biology]]
+[[ectomycorrhizal-ecology]]

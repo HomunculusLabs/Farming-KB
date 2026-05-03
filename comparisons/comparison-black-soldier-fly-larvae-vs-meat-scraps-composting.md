@@ -84,3 +84,7 @@ Many practitioners use both: BSFL for high-volume summer bioconversion of meat a
 ## See Also
 
 - [[comparison-black-soldier-fly-composting-vs-bokashi]]
+- [[black-soldier-fly-composting]]
+- [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]]
+
+- [[comparison-black-soldier-fly-composting-vs-bokashi]]

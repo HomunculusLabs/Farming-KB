@@ -77,7 +77,9 @@ Standing at the Peace Memorial in Hiroshima, Fukuoka reflected on how the same i
 
 The peace message connects to an earlier episode in Fukuoka's life. In 1941, as a young man in his twenties, he wrote a letter to Franklin D. Roosevelt expressing his thoughts on the dreadfulness of approaching war. The letter was never delivered. Decades later, in "The Road Back to Nature," he prepared to write a similar letter to the leaders of the United States, the Soviet Union, and other countries.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-cultural-disease-five-senses-alienated-nature]] Concepts
 
 - [[fukuoka-peace-march-war-agriculture]]
 - [[fukuoka-european-travels-natural-farming]]

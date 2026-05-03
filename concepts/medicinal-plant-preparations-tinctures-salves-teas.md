@@ -99,6 +99,14 @@ alkaloids and resins.
 
 ## See Also
 
+- [[calendula-officinalis]]
+
+- [[lobelia-inflata]]
+
+- [[ocimum-tenuiflorum]]
+
+- [[mentha-pulegium]]
+
 - [[herbal-medicine-making-basics]] — Overview of all preparation types,
   harvesting, and shelf life
 - [[adaptogenic-herbs-overview]] — Adaptogenic herbs suitable for tinctures

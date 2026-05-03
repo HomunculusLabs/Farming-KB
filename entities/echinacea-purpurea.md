@@ -138,4 +138,4 @@ Meta-analyses suggest that *Echinacea* preparations may reduce the incidence and
 - [[bacopa-monnieri]] — complementary immunomodulatory herb
 - [[valeriana-officinalis]] — complementary herbal remedy often used in combination cold formulas
 - [[adaptogenic-herbs-guide]] — herbs supporting immune resilience
-- [[medicinal-plants-of-north-america]] — broader context of North American medicinal flora
+- [[medicinal-plant-guide]] — broader context of North American medicinal flora

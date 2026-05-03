@@ -92,7 +92,11 @@ For cannabis growers, combining entomopathogenic fungi with regular scouting and
 - These fungi are safer for non-target organisms and face lower resistance development than chemical pesticides
 - Environmental conditions, especially humidity and UV exposure, significantly affect field effectiveness
 
-## Related Questions
+## Related
+
+- [[query-what-are-mycelium-materials-and-how-are-they-made]]
+
+- [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]] Questions
 
 - [[query-how-to-control-pests-without-chemicals]]
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]

@@ -169,6 +169,10 @@ Despite these criticisms, the core principles of permaculture have been increasi
 
 ## See Also
 
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
+
 - [[David-Holmgren]] — Co-developer of permaculture and author of the 12 design principles
 - [[Permaculture]] — Comprehensive article on the design system
 - [[Geoff-Lawton]] — Prominent permaculture teacher and Mollison's protégé

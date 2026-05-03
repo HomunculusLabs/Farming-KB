@@ -122,6 +122,8 @@ Medicinal and culinary herbs are integrated throughout the farm:
 
 ## See Also
 
+- [[artemisia-absinthium]]
+
 - [[composting-humus-building-holzer]]
 - [[holzer-vegetable-garden-polycultures]]
 - [[holzer-polycultures-catch-crop-combinations]]

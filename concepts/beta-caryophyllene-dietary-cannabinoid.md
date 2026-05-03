@@ -130,6 +130,10 @@ The identification of (E)-BCP as a cannabinoid receptor ligand in 2008 opened a 
 
 ## See Also
 
+- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[blesching-cannabis-caryophyllene-dietary-cannabinoids]]
+- [[e-beta-caryophyllene-bcp]]
+
 - [[Endocannabinoid System]]
 - [[Cannabidiol CBD]]
 - [[Cannabis Health Index Scoring System]]

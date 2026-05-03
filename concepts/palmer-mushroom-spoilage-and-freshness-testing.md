@@ -1,3 +1,12 @@
+---
+title: "Palmer Mushroom Spoilage And Freshness Testing"
+created: 2026-05-03
+updated: 2026-05-03
+type: concept
+tags: [mushroom-cultivation, food-safety, quality]
+sources: []
+---
+
 1|---
      2|title: Mushroom Spoilage, Freshness, and Safety Testing
      3|tags: [mushroom-safety, foraging, mycology, julius-palmer, food-safety, mushroom-toxicology, identification]
@@ -138,3 +147,9 @@
    138|
    139|## Critical Limitations of Taste as a Safety Guide
    140|
+
+## See Also
+
+- [[palmer-mushroom-anatomy-and-structure]]
+- [[allegro-firmament-and-the-mushroom-canopy]]
+- [[smartshops-and-hallucinogenic-mushroom-retail]]

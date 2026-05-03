@@ -142,8 +142,10 @@ Blue Dream emerged during the California medical cannabis era and became the def
 
 ## See Also
 
+- [[amnesia-haze]]
+
 - [[sour-diesel]] — Classic sativa-dominant strain
 - [[girl-scout-cookies]] — Indica-dominant hybrid
 - [[myrcene]] — Primary terpene in Blue Dream
-- [[cannabis-terpenes]] — Comprehensive terpene guide
-- [[cannabis-cultivation]] — Growing guide
+- [[cannabis-terpene-entourage-effect]] — Comprehensive terpene guide
+- [[cannabis-indoor-growing-basics]] — Growing guide

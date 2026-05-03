@@ -82,6 +82,10 @@ The critical innovation is the isolation of the zwitterionic intermediate (8), w
 
 ## See Also
 
+- [[psilocybin-chemical-synthesis]]
+
+- [[psilocybin-chemical-synthesis]]
+
 - [[psilocybin-neuroplasticity]]
 - [[psilocybin-and-addiction-treatment]]
 - [[psilocybin-neuroscience]]

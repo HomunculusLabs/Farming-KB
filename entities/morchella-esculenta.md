@@ -101,6 +101,8 @@ it a model organism for studying [[fungal-ecology]] and stress-response
 biology in Ascomycetes.
 
 ## See Also
+
+- [[morchella-elata]]
 - [[morchella-angusticeps]]
 - [[cantharellus-cibarius]]
 - [[boletus-edulis]]

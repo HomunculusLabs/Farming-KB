@@ -121,6 +121,6 @@ water retention, and microbial ecology.
 
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[oss-oeric-growing-parameters-cubensis]]
-- [[oss-oeric-substrate-preparation-techniques]]
+- [[oss-oeric-spore-syringe-preparation]]
 - [[psilocybe-cubensis-introduction-americas-slave-trade]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]

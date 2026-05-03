@@ -129,6 +129,8 @@ and nutritional components deliver their full benefit without interfering with o
 
 ## See Also
 
+- [[comparison-lab-serum-vs-compost-tea]]
+
 - [[comparison-bokashi-vs-compost-tea]]
 
 - [[comparison-foliar-feeding-vs-vermicompost-tea]]

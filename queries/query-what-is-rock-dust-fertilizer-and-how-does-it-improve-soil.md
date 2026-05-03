@@ -119,6 +119,8 @@ colder months can begin breaking it down before the main growing season.
 
 ## Related
 
+- [[query-how-does-rock-dust-improve-soil-fertility]]
+
 - [[query-how-to-read-a-soil-test-report]] Questions
 - [[query-how-to-build-healthy-garden-soil]]
 - [[query-what-is-the-best-soil-mix-for-growing-cannabis]]

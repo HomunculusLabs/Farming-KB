@@ -114,6 +114,10 @@ The legal status of P. cubensis varies by country. It is explicitly controlled i
 
 ## See Also
 
+- [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
+- [[stamets-psylo-psilocybe-cubensis]]
+- [[tropisms-psilocybe-cubensis-gravitropism]]
+
 - [[psilocybin pharmacology]]
 - [[Psilocybe semilanceata]]
 - [[Amanita muscaria]]

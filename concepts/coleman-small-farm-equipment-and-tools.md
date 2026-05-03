@@ -105,7 +105,9 @@ sharpening during use, with a file carried in the back pocket. Keeping
 tools clean, dry, and properly stored extends their life and maintains
 the precision on which intensive small-farm production depends.
 
-## Related Concepts
+## Related
+
+- [[coleman-hidden-farm-and-double-cropping-strategy]] Concepts
 
 - [[coleman-bed-preparation-and-minimal-tillage]] — how tools are used in
   the bed preparation sequence

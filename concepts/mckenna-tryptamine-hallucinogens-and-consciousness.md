@@ -69,6 +69,8 @@ He notes that in the Amazon, when asked why they were chosen as ambassadors of t
 
 ## See Also
 
+- [[tryptamine-hallucinogens-and-consciousness]]
+
 - [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 - [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]

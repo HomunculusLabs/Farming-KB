@@ -136,6 +136,8 @@ trans-Pacific dispersal events.
 
 ## See Also
 
+- [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
+
 - [[psilocybe-semilanceata-profile]]
 
 - [[psilocybe-weilii-species-profile]]

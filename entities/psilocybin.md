@@ -173,6 +173,6 @@ This model emphasizes the importance of **set** (mindset) and **setting** (envir
 - [[psilocybe-cubensis]] — Most commonly cultivated psychedelic mushroom
 - [[dmt]] — Related tryptamine psychedelic compound
 - [[lsd]] — Ergoline psychedelic, different receptor profile
-- [[ketamine]] — Dissociative anesthetic with rapid antidepressant effects
-- [[psychedelic-therapy]] — Therapeutic models and protocols
-- [[neuroplasticity]] — Brain's ability to reorganize, enhanced by psychedelics
+- ketamine — Dissociative anesthetic with rapid antidepressant effects
+- [[psychedelic-therapy-foundations]] — Therapeutic models and protocols
+- [[psilocybin-neuroplasticity]] — Brain's ability to reorganize, enhanced by psychedelics

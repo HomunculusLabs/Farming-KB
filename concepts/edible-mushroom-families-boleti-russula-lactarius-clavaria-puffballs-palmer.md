@@ -46,6 +46,8 @@ Puffballs are among the safest edible mushrooms for beginners. Palmer noted that
 
 ### Related
 
+- [[sparassis-crispa]]
+
 - [[palmer-russula-lactarius-families]]
 
 - [[palmer-popular-errors-mushroom-tests]]

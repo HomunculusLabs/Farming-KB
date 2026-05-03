@@ -18,12 +18,12 @@ sources:
 
 # Ayahuasca Interactions with Prescription Medications
 
-The pharmacological complexity of [[ayahuasca]] creates serious and
+The pharmacological complexity of [[harmala-alkaloids-and-ayahuasca-preparation]] creates serious and
 potentially fatal interactions with numerous prescription medications.
 The brew's monoamine oxidase inhibiting (MAOI) activity, combined with
 its serotonergic [[tryptamine]] content, means that individuals taking
 certain medications face risks ranging from hypertensive crisis to
-[[serotonin-syndrome|serotonin syndrome]] and death. Unlike
+serotonin syndrome and death. Unlike
 pharmaceutical drug interactions that are typically monitored by
 healthcare systems, ayahuasca ceremonies often occur in remote settings
 with no medical oversight, making prior awareness of these interactions
@@ -143,7 +143,7 @@ The remote ceremonial setting further delays emergency response.
 
 ## Practical Recommendations
 
-Individuals considering an [[ayahuasca]] ceremony should:
+Individuals considering an [[harmala-alkaloids-and-ayahuasca-preparation]] ceremony should:
 
 - Consult a physician knowledgeable about MAOI pharmacology
 - Provide a complete list of all medications and supplements
@@ -158,7 +158,7 @@ Individuals considering an [[ayahuasca]] ceremony should:
 
 - [[ayahuasca-pharmacology]] for detailed biochemical mechanisms
 - [[mao-inhibitors-and-psychedelics]] for MAOI pharmacology
-- [[serotonin-syndrome]] for clinical presentation and management
+- serotonin syndrome for clinical presentation and management
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]] for
   broader safety context
 - [[ayahuasca-botany-and-preparation]] for preparation methods

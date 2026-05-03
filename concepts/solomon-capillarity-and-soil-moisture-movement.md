@@ -1,3 +1,12 @@
+---
+title: "Solomon Capillarity And Soil Moisture Movement"
+created: 2026-05-03
+updated: 2026-05-03
+type: concept
+tags: [soil-science, water, physics]
+sources: []
+---
+
 1|---
      2|title: Capillarity and Soil Moisture Movement
      3|tags: [soil-science, water-movement, capillarity, irrigation, gardening, steve-solomon, soil-physics, water-retention]
@@ -138,3 +147,9 @@
    138|mulching, arguing instead that gardeners should understand and work with the
    139|natural physics of water movement rather than trying to override them with
    140|organic matter.
+
+## See Also
+
+- [[solomon-tilling-and-soil-aeration]]
+- [[solomon-humus-building-and-soil-life]]
+- [[solomon-soil-testing-and-interpretation-low-input]]

@@ -158,7 +158,7 @@ Scaled-down hugelkultur suitable for patios and balconies, using smaller branche
 - [[sheet-mulching]] — No-dig garden bed preparation technique
 - [[biochar]] — Carbon-rich soil amendment for long-term fertility
 - [[mycoremediation]] — Using fungi to break down woody debris and contaminants
-- [[rainwater-harvesting]] — Complementary water management techniques
-- [[companion-planting]] — Maximizing garden productivity through plant relationships
+- [[rainwater-harvesting-systems]] — Complementary water management techniques
+- [[permaculture-companion-planting]] — Maximizing garden productivity through plant relationships
 - [[cover-crops]] — Green manures and living mulches for soil health
 - [[permaculture-design]] — Comprehensive design principles and methodologies

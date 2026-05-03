@@ -115,7 +115,9 @@ receptors without producing systemic psychoactive effects. This makes
 topicals an excellent option for patients who need targeted relief but
 cannot tolerate or do not desire psychoactive effects.
 
-## Related Concepts
+## Related
+
+- [[blesching-cannabis-depression-and-anger-release]] Concepts
 
 - [[blesching-cannabis-administration-methods]]
 - [[blesching-cannabis-decarboxylation-and-raw-cannabis]]

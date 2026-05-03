@@ -117,8 +117,11 @@ The plant's milky latex can cause contact dermatitis in sensitive individuals.
 
 ## See Also
 
+- [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
+- [[lobelia-tupa]]
+
 - [[lobeline]]
-- [[nicotinic-acetylcholine-receptors]]
-- [[smoking-cessation-pharmacology]]
-- [[thomsonian-medicine]]
-- [[indigenous-plant-medicine-north-america]]
+- nicotinic acetylcholine receptors
+- smoking cessation pharmacology
+- thomsonian medicine
+- indigenous plant medicine north america

@@ -122,3 +122,7 @@ Holzer has observed that animals on diverse pastures rarely require veterinary i
 - [[intercropping-systems]]
 - [[natural-building-materials-guide]]
 - [[bypass-technique-planting]]
+
+## See Also
+
+- [[joel-salatin]]

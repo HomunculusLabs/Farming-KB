@@ -133,6 +133,8 @@ reasons that advancing succession increases productivity and stability.
 
 ## See Also
 
+- [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]
+
 - [[reynolds-number-and-flow-regimes]]
 
 - [[savory-solar-dollars-and-wealth-classification]]

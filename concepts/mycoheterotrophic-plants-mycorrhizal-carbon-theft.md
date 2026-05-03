@@ -86,3 +86,7 @@ See also: [[mycorrhizal-networks-interplant-carbon-transfer]], [[arbuscular-myco
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[mycorrhizal-effects-on-plant-community-composition]]
+
+## See Also
+
+- [[monotropa-uniflora]]

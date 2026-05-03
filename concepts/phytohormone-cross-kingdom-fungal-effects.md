@@ -125,5 +125,5 @@ habitats.
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[brassinosteroid-homobrassinolide-chemistry-synthesis]]
 - [[brassinosteroid-fungal-fruiting-body-morphology]]
-- [[mycorrhizal-fungi-plant-root-symbiosis]]
-- [[fungal-plant-pathogen-signaling-mechanisms]]
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
+- [[fungal-plant-pathogen-interactions]]

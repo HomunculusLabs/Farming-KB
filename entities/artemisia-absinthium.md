@@ -111,10 +111,12 @@ Commercial cultivation of wormwood for essential oil production is centered in E
 
 ## See Also
 
-- [[thujone]]
-- [[absinthe-history]]
-- [[artemisia-annua]]
-- [[bitter-principles-in-medicinal-plants]]
-- [[gaba-receptor-pharmacology]]
-- [[absinthe-distillation-methods]]
-- [[artemisia-genus-overview]]
+- [[medicinal-plant-preparations-tinctures-salves-teas]]
+
+- thujone
+- [[artemisia-absinthium]]
+- artemisia annua
+- bitter principles in medicinal plants
+- [[phenethylamine-receptor-pharmacology]]
+- [[artemisia-absinthium]]
+- [[artemisia-absinthium]]

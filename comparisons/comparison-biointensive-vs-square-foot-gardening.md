@@ -141,3 +141,7 @@ first season to get started quickly, then gradually transition to biointensive c
 practices as the beds mature. Another popular hybrid uses square foot grid organization within
 biointensive beds, gaining the visual management benefits without the dependency on imported
 soil mix components.
+
+## See Also
+
+- [[comparison-brassica-vs-nightshade-gardening]]

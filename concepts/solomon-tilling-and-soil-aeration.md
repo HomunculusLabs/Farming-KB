@@ -123,7 +123,9 @@ garden. However, for most gardeners starting with undeveloped ground,
 some initial soil disruption is necessary to create the conditions for
 future no-dig management.
 
-## Related Concepts
+## Related
+
+- [[solomon-capillarity-and-soil-moisture-movement]] Concepts
 
 - [[solomon-double-digging]]
 - [[solomon-soil-preparation-bed-prep]]

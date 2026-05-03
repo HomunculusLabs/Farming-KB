@@ -125,7 +125,9 @@ these barriers while its interaction with the endocannabinoid system may
 directly support the neurobiological states associated with meditative and
 mindful awareness.
 
-## Related Concepts
+## Related
+
+- [[mind-body-medicine-emotional-molecules]] Concepts
 
 - [[blesching-cannabis-endocannabinoid-mind-body]]
 - [[blesching-cannabis-anandamide]]

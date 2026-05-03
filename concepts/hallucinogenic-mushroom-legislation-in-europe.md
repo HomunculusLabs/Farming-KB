@@ -117,6 +117,10 @@ Conversely, barriers to diffusion included the unpredictable potency and negativ
 
 ## See Also
 
+- [[eu-hallucinogenic-mushroom-legislation-timeline]]
+- [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
+- [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+
 - [[psilocybin pharmacology]]
 - [[Psilocybe cubensis]]
 - [[Amanita muscaria]]

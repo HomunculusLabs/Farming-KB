@@ -125,6 +125,6 @@ reconnection through regrowth following damage.
 
 [[fungi-in-the-environment-mineral-transformations-biogeochemical-cycling]]
 [[fungi-in-the-environment-mycorrhizal-carbon-cycle-soil-carbon-pools]]
-[[mycelial-network-transport-fungi]]
+[[mycelial-network-communication]]
 [[wood-decomposition-by-fungi]]
 [[underground-fungal-networks]]

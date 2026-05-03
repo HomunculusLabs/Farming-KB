@@ -115,6 +115,10 @@ relationship between earth, plant, and human being.
 
 ## See Also
 
+- [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
+
+- [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
+
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-food-civilization-critique]]
 - [[fukuoka-critique-scientific-agriculture]]

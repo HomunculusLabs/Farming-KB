@@ -121,6 +121,10 @@ Patients are encouraged to explore whether emotional factors such as unresolved 
 
 ## See Also
 
+- [[cannabis-for-anorexia-and-cachexia]]
+- [[blesching-cannabis-anorexia-cachexia]]
+- [[cannabis-for-cachexia-and-appetite-stimulation]]
+
 - [[Endocannabinoid System]]
 - [[Cannabis Health Index Scoring System]]
 - [[Tetrahydrocannabinol THC]]

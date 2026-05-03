@@ -141,7 +141,9 @@ Fukuoka applied no lime or micronutrients and noted no deficiencies. The
 constant change in cover crop conditions showed only that soil changes
 constantly and that fruit trees adapt continuously to such changes.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-orchard-herbs-cover-crop-classification]] Concepts
 
 - [[fukuoka-theory-three-ways-of-farming]] for the philosophical framework
 - [[fukuoka-theory-principle-of-non-causality]] for why intervention often

@@ -178,6 +178,10 @@ The three materials are **complementary**, not competing. An ideal sustainable m
 
 ## See Also
 
+- [[mycelium-composites-materials]]
+- [[query-what-are-mycelium-materials-and-how-are-they-made]]
+- [[woodlovers-mycelium-running-pathway-technique]]
+
 - [Mycelium Materials and Fungal Biomanufacturing](mycelium-materials-and-fungal-biomanufacturing.md)
 - [Pasteurization vs Sterilization](../comparisons/pasteurization-vs-sterilization.md)
 - [Biochar vs Biofertilizer](../comparisons/biochar-vs-biofertilizer.md)

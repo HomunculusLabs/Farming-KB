@@ -173,5 +173,9 @@ broadly applicable to contamination challenges in cultivation environments.
 
 ## See Also
 
+- [[microwave-surface-sterilization]]
+- [[mushroom-microwave-sterilization]]
+- [[appropriate-technology]]
+
 - [[mushroom-microwave-sterilization]] for mycological microwave applications
-- [[sterilization-methods-comparison]] for broader sterilization overview
+- [[mushroom-substrate-sterilization-and-pasteurization]] for broader sterilization overview

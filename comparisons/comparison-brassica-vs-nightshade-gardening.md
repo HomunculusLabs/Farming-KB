@@ -141,9 +141,9 @@ protection gives nightshades an early start.
 
 ## See Also
 
-- [[home-vegetable-gardening-essentials]]
+- [[home-vegetable-gardening]]
 - [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
 - [[comparison-tomato-vs-pepper-growing]]
 - [[comparison-annual-vs-perennial]]
-- [[crop-rotation-and-farm-planning]]
-- [[cold-climate-farming-and-season-extension]]
+- [[crop-rotation-principles]]
+- [[season-extension-techniques]]

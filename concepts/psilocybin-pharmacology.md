@@ -135,6 +135,10 @@ Psilocybin and psilocin are controlled under the 1971 UN Convention on Psychotro
 
 ## See Also
 
+- [[psilocybin-chemistry-pharmacology]]
+- [[psilocybin-pharmacology-detail]]
+- [[powell-psilocybin-neuronal-pharmacology-synaptic-mechanisms]]
+
 - [[Psilocybe cubensis]]
 - [[Psilocybe semilanceata]]
 - [[Amanita muscaria]]

@@ -96,7 +96,9 @@ Some growers use techniques to force early sex identification:
 
 Once sex is confirmed and males are removed, females can remain under 12/12 to develop full buds for harvest.
 
-## Related Topics
+## Related
+
+- [[oner-sativa-indoor-challenges-and-flowering-time-problems]] Topics
 
 - [[cannabis-photoperiodism-and-light-cycles]] — light cycle science
 - [[cannabis-flowering-stage-management]] — managing the flowering phase

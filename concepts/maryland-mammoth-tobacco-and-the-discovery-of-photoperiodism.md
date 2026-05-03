@@ -18,7 +18,7 @@ sources:
 # Maryland Mammoth Tobacco and the Discovery of Photoperiodism
 
 The Maryland Mammoth tobacco strain was the unlikely key that unlocked one
-of the most fundamental discoveries in plant biology: [[photoperiodism]],
+of the most fundamental discoveries in plant biology: [[clarke-marijuana-botany-flowering-and-photoperiodism]],
 the ability of plants to measure day length and use that information to
 trigger flowering. This discovery, made by Wightman W. Garner and Harry
 A. Allard at the United States Department of Agriculture in 1918,
@@ -81,7 +81,7 @@ mutation.
 
 ## The Concept of Photoperiodism
 
-Garner and Allard named this phenomenon [[photoperiodism]]. Their
+Garner and Allard named this phenomenon [[clarke-marijuana-botany-flowering-and-photoperiodism]]. Their
 discovery established several foundational principles:
 
 - **Short-day plants**: These species flower only when the continuous
@@ -137,7 +137,7 @@ sufficient to cancel the flowering signal.
 ## Connection to Phytochrome
 
 The Maryland Mammoth experiments laid the groundwork for the discovery
-of [[phytochrome]], the photoreceptor pigment responsible for red and
+of [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]], the photoreceptor pigment responsible for red and
 far-red light perception in plants. Research by Harry Borthwick and
 colleagues in the same USDA laboratory led to the finding that plants
 respond specifically to red and far-red light in regulating their
@@ -155,4 +155,4 @@ rising sun reactivates it.
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]] for phytochrome
 - [[cannabis-photoperiodism-and-light-cycles]] for cannabis light cycles
 - [[darwins-phototropism-experiments]] for directional light responses
-- [[phytochrome]] for the molecular photoreceptor details
+- [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] for the molecular photoreceptor details

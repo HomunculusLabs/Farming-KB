@@ -105,6 +105,8 @@ fungal connections between companion species.
 
 ## Related
 
+- [[query-what-is-an-earthship-and-how-does-it-work]]
+
 - [[query-how-does-companion-planting-work-in-a-food-forest]]
 
 - [[query-what-is-mycelium-and-how-does-it-function-in-nature]]

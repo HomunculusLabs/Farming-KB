@@ -148,6 +148,10 @@ Calendula officinalis is not considered threatened. Widely cultivated globally a
 
 ## See Also
 
+- [[valeriana-officinalis]]
+- [[calendula-salve-making]]
+- [[laricifomes-officinalis]]
+
 - [[Symphytum-officinale]] — Comfrey, another permaculture wound-healing plant
 - [[Urtica-dioica]] — Nettle, dynamic accumulator for permaculture systems
 - [[Achillea-millefolium]] — Yarrow, companion plant with similar ecological roles

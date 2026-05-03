@@ -120,3 +120,7 @@ determine plant performance. The permaculture designer must consider
 all three factors when selecting species and varieties for any site.
 Mollison's treatment reinforces that climate analysis is the
 foundation of all design work, connecting to [[mollison-climate-classification]] and [[mollison-designers-pattern-understanding-in-design]].
+
+## See Also
+
+- [[oner-sativa-indoor-challenges-and-flowering-time-problems]]

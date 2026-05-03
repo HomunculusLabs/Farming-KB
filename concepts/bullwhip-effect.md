@@ -1,3 +1,12 @@
+---
+title: "Bullwhip Effect"
+created: 2026-05-03
+updated: 2026-05-03
+type: concept
+tags: [economics, supply-chain, permaculture]
+sources: []
+---
+
 # Bullwhip Effect
 
 ## Overview

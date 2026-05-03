@@ -144,6 +144,6 @@ normal brain serotonin actions, similar to the proposed mechanism of [[LSD]].
 - [[psilocybin]]
 - [[psilocin]]
 - [[baeocystin]]
-- [[tryptamines]]
+- [[tryptamine-receptor-pharmacology]]
 - [[serotonin]]
 - [[Psilocybe]]

@@ -116,6 +116,8 @@ creating a continuous and efficient waste-to-soil pipeline that handles all
 organic household waste.
 
 ## See Also
+
+- [[comparison-deep-litter-vs-hot-composting]]
 - [[comparison-aerobic-vs-anaerobic-composting]]
 - [[comparison-bokashi-vs-vermicomposting]]
 - [[comparison-vermicomposting-vs-hot-composting]]

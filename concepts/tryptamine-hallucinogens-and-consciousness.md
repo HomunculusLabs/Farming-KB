@@ -18,7 +18,7 @@ sources:
 Terence McKenna's 1983 lecture at the Lilly/Goswami Conference on Consciousness
 and Quantum Physics at [[Esalen Institute]] presents a phenomenological
 exploration of the tryptamine hallucinogens — dimethyltryptamine ([[DMT]]),
-[[psilocybin]], and [[ayahuasca]] — and their implications for understanding
+[[psilocybin]], and [[harmala-alkaloids-and-ayahuasca-preparation]] — and their implications for understanding
 human consciousness. The talk was later published in *The Archaic Revival*
 (1992).
 
@@ -81,7 +81,7 @@ McKenna proposed that [[Psilocybe cubensis]] did not evolve on Earth, based
 on information received during mushroom experiences. According to this
 hypothesis, the mushroom achieved symbiosis with human society through
 association with domesticated cattle and nomadic peoples. The classic mushroom
-cults of Mexico, where the mushroom was called [[teonanacatl]] ("flesh of the
+cults of Mexico, where the mushroom was called [[teonanacatl-aztec-codices-archaeology]] ("flesh of the
 gods"), were largely destroyed by the Spanish conquest and the Inquisition,
 surviving only in a few villages in the mountains of [[Oaxaca]] until
 rediscovered by Valentina and Gordon Wasson in the 1950s.
@@ -120,8 +120,8 @@ McKenna considered a technical gloss for complex concepts.
 
 - [[DMT]]
 - [[psilocybin]]
-- [[ayahuasca]]
-- [[tryptamines]]
+- [[harmala-alkaloids-and-ayahuasca-preparation]]
+- [[tryptamine-receptor-pharmacology]]
 - [[serotonin]]
 - [[Psilocybe cubensis]]
-- [[teonanacatl]]
+- [[teonanacatl-aztec-codices-archaeology]]

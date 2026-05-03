@@ -15,9 +15,13 @@ sources: []
 
 # Earthship vs Cob Construction
 
+
+
 ## Overview
 
 Both earthships and cob buildings represent radical departures from conventional construction, relying on earth-based materials and massive thermal mass to create comfortable, sustainable homes. Yet they differ profoundly in their materials, construction methods, systems integration, and the philosophy behind them. An earthship is an integrated machine — a self-contained system for shelter, energy, water, and food. A cob building is a sculptural shelter — a handcrafted home made from the earth beneath your feet.
+
+
 
 ## Structural Materials
 
@@ -26,6 +30,8 @@ Both earthships and cob buildings represent radical departures from conventional
 **Cob walls** are monolithic structures made from a mixture of clay-rich subsoil, sand, and straw fibers, mixed by foot and applied in thick wet loaves by hand. The walls are sculpted and shaped as they are built, allowing for curved walls, built-in niches, furniture, and organic forms. Cob is finished with natural earthen or lime plasters.
 
 The key difference: earthships use industrial waste as their primary structural unit (tires), while cob uses minimally processed natural materials (subsoil, sand, straw). Cob is arguably the more ecologically pure material — it requires no manufactured inputs at all — while earthships solve a waste disposal problem by sequestering tires.
+
+
 
 ## Thermal Performance
 
@@ -37,6 +43,8 @@ Both systems rely on thermal mass for temperature regulation, but they manage so
 
 In cold, overcast winters, neither system alone may provide sufficient heat without supplementary sources. Earthships have the advantage of integrated energy systems (solar panels, backup heating) as part of their standard design package.
 
+
+
 ## Systems Integration
 
 This is where the two approaches diverge most sharply.
@@ -47,6 +55,8 @@ This is where the two approaches diverge most sharply.
 
 If you want a fully integrated self-sufficient home with minimal design decisions, earthships provide a complete package. If you prefer to pick and choose your off-grid systems and integrate them into a handcrafted home, cob offers more flexibility.
 
+
+
 ## Construction Process and Labor
 
 **Earthship construction** is grueling physical work, primarily because of tire packing. Ramming earth into tires with a sledgehammer requires strength, stamina, and typically a crew of 3–6 people. A modest earthship uses 600–1,000 tires. The framing, glazing, and systems installation require conventional carpentry and plumbing skills. Earthship Biotecture runs academy programs and offers construction crews for hire.
@@ -55,11 +65,15 @@ If you want a fully integrated self-sufficient home with minimal design decision
 
 Both methods are time-intensive. A small cob cottage (400–600 sq ft) might take a dedicated crew 2–4 months of full-time work. A comparable earthship might take 3–6 months depending on crew experience and systems complexity.
 
+
+
 ## Cost
 
 Cob is generally cheaper per square foot because the primary materials — subsoil, sand, and straw — are often free or nearly free on-site. The main costs are labor, roof timber, windows, doors, and finishes. A simple cob cottage can be built for $20,000–$80,000 depending on size, finish quality, and whether labor is paid or volunteer.
 
 Earthships have higher material costs due to the glazing, metal roofing, cisterns, pumps, filters, photovoltaic systems, batteries, and specialized components. A professionally built earthship typically costs $150–$300 per square foot, though owner-built earthships using scavenged materials can be significantly cheaper. The long-term utility savings offset initial costs over time.
+
+
 
 ## Aesthetics and Design Freedom
 
@@ -67,12 +81,22 @@ Earthships have higher material costs due to the glazing, metal roofing, cistern
 
 **Earthships** have a more standardized aesthetic, defined by the repeating cylindrical forms of the tire walls, the sweeping greenhouse glass, and the industrial character of the systems. Interior bottle walls add color and light, but the overall design language is more constrained.
 
+
+
 ## Durability and Maintenance
 
 Both are highly durable when properly built and maintained. Cob structures have lasted centuries in England, Wales, and Yemen. Earthships have been performing well since the 1970s with no significant structural failures. Both require good roof overhangs, proper foundation drainage, and periodic replastering. Earthships have more mechanical systems that require maintenance (pumps, filters, batteries), while cob homes are simpler and have fewer moving parts to maintain.
+
+
 
 ## When to Choose Which
 
 Choose an **earthship** if you want a fully integrated off-grid home with water harvesting, greywater treatment, and solar electricity built into the design from the start. They are ideal for arid and semi-arid climates with abundant sunshine and are well-suited to owners who want a complete, proven system rather than assembling components themselves.
 
 Choose **cob** if you prioritize design freedom, natural materials, lower cost, and a hands-on building experience. Cob is ideal for temperate climates, owner-builders with small crews, and anyone who wants a unique, sculptural home and is willing to separately design or add off-grid systems as needed.
+
+## See Also
+
+- [[comparison-cob-oven-construction-vs-rocket-stove]]
+- [[comparison-ferrocement-vs-cob-construction]]
+- [[comparison-cob-construction-vs-straw-bale-construction]]

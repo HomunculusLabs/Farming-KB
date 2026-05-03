@@ -141,6 +141,8 @@ common mushroom, whose flesh can be bent without breaking.
 
 ## See Also
 
+- [[palmer-mushroom-spoilage-and-freshness-testing]]
+
 - [[palmer-mushroom-taxonomy-classification-system]]
 - [[palmer-specific-mushroom-species-guide]]
 - [[palmer-about-mushrooms-poisonous-species-to-avoid]]

@@ -114,6 +114,8 @@ This story illustrates the deep interconnectedness of human history, agriculture
 
 ## See Also
 
+- [[golden-teacher-cubensis]]
+
 - [[magic-mushroom-global-distribution]]
 - [[psilocybe-species-diversity-and-biogeographic-origin]]
 - [[guzman-allen-gartz-neurotropic-fungi-classification-system]]

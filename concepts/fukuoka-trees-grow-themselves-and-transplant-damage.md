@@ -1,3 +1,12 @@
+---
+title: "Fukuoka Trees Grow Themselves And Transplant Damage"
+created: 2026-05-03
+updated: 2026-05-03
+type: concept
+tags: [natural-farming, fukuoka, trees]
+sources: []
+---
+
 1|---
      2|title: Trees Grow Themselves and the Damage of Transplanting
      3|tags: [natural-farming, trees, fruit-orchards, transplanting, root-systems, soil-ecology, masanobu-fukuoka, no-till]
@@ -138,3 +147,9 @@
    138|## Implications for Orchard Establishment
    139|
    140|Fukuoka's observations lead to a radical rethinking of orchard establishment
+
+## See Also
+
+- [[fukuoka-view-of-nature-and-human-hubris]]
+- [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
+- [[permaculture-neem-and-indian-beech-utility-trees]]

@@ -93,7 +93,9 @@ A related species, Withania somnifera var. kaulii, is endemic to the Indian Hima
 - Avoid overwatering, as root rot is the primary disease concern
 - Integrates well with other [[adaptogenic-herbs-overview|adaptogenic herbs]] in a [[permaculture-plants-medicinal-herbs-healing|medicinal herb garden]]
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-grow-brassicas-successfully]] Questions
 
 - [[query-what-are-adaptogenic-herbs-and-how-do-i-grow-them]]
 - [[query-how-do-i-start-a-medicinal-herb-garden]]

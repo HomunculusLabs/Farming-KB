@@ -20,7 +20,7 @@ sources:
 Charles Darwin, best known for his theory of evolution by natural
 selection, spent the twenty years following the publication of On the
 Origin of Species conducting pioneering research in plant physiology.
-His experiments on [[phototropism]], conducted collaboratively with his
+His experiments on [[plant-vision-and-phototropism]], conducted collaboratively with his
 son Francis Darwin, remain among the most elegant and influential in the
 history of botany. Published in 1880 in his final book, The Power of
 Movement in Plants, these experiments demonstrated for the first time
@@ -62,7 +62,7 @@ occurred about an inch (approximately two centimetres) below the tip.
 
 This established two important facts. First, the light sensitivity of
 the seedling was remarkably acute, far exceeding what would be required
-for [[photosynthesis]]. Second, the site of perception (the tip) was
+for [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]. Second, the site of perception (the tip) was
 spatially separated from the site of response (the bending region),
 implying some form of signal transmission between the two.
 
@@ -88,7 +88,7 @@ signal, the Darwins designed a brilliant five-part experiment:
 
 ## Interpretation and Significance
 
-The results were unambiguous. The Darwins proved that [[phototropism]]
+The results were unambiguous. The Darwins proved that [[plant-vision-and-phototropism]]
 operates through a two-step mechanism:
 
 - **Perception**: Light is perceived at the coleoptile apex of the
@@ -112,7 +112,7 @@ a signaling mechanism, decades before plant hormones were discovered.
 ## Connection to Auxin Discovery
 
 The Darwins' work directly laid the foundation for the discovery of
-[[auxin]]. In the 1920s, Frits Went demonstrated that a diffusible
+auxin. In the 1920s, Frits Went demonstrated that a diffusible
 chemical from the coleoptile tip could be collected on agar and applied
 asymmetrically to a decapitated coleoptile to induce bending.
 
@@ -126,9 +126,9 @@ proteins and other transporters, remain active areas of research.
 ## Contrast with Photoperiodism Sensing
 
 A notable finding from later research is that the "eye" for phototropism
-differs from the "eye" for [[photoperiodism]]. While Darwin proved that
+differs from the "eye" for [[clarke-marijuana-botany-flowering-and-photoperiodism]]. While Darwin proved that
 the coleoptile tip perceives directional light for growth bending,
-subsequent work showed that any single leaf containing [[phytochrome]]
+subsequent work showed that any single leaf containing [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
 can perceive day-length cues and transmit a flowering signal throughout
 the plant.
 
@@ -149,11 +149,11 @@ scientific methodology.
 
 ## Related Concepts
 
-- [[phototropism-in-plants]] for the broader phenomenon and modern
+- [[plant-vision-and-phototropism]] for the broader phenomenon and modern
   molecular understanding
-- [[auxin]] for the hormone mechanism behind differential elongation
+- auxin for the hormone mechanism behind differential elongation
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]] for other plant
   light-sensing systems
 - [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] for
   photoperiodism discovery
-- [[phytochrome]] for the molecular light receptor details
+- [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] for the molecular light receptor details

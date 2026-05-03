@@ -142,3 +142,9 @@ Not recommended. Beyond fennel's allelopathy, the two plants can cross-pollinate
 ## Summary
 
 Fennel and dill are superficially similar Apiaceae herbs with distinct personalities. Fennel is the bold perennial — licorice-sweet, allelopathic, drought-tough, and architecturally dramatic. Dill is the humble annual — fresh, fast, garden-friendly, and essential in the pickle jar. Choosing between them comes down to your climate, your kitchen needs, and how much garden real estate you're willing to dedicate to a plant that plays by its own rules.
+
+## See Also
+
+- [[cervantes-odor-deodorizers-comparison]]
+- [[comparison-agar-vs-liquid-culture]]
+- [[comparison-amf-vs-endophytic-fungi]]

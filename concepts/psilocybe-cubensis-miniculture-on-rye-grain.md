@@ -42,7 +42,7 @@ conditions while maintaining the controlled environment necessary for
 meaningful alkaloid comparisons.
 
 Their goal was to produce sufficient fruiting body material for
-[[high-performance-liquid-chromatography|HPLC]] analysis while
+[[cannabis-chromatography-cannabinoid-purification|HPLC]] analysis while
 eliminating confounding variables. By standardizing substrate
 composition, container geometry, moisture content, inoculation
 procedure, and environmental conditions, they could attribute observed
@@ -156,4 +156,4 @@ were deposited in the University of Washington Herbarium (WTU).
   alkaloid research this method supported
 - [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] for
   findings from miniculture-grown specimens
-- [[casing-layer-composition]] for detailed casing material information
+- [[mushroom-casing-layers]] for detailed casing material information

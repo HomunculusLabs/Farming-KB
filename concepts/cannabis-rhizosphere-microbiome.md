@@ -17,7 +17,7 @@ sources:
 
 The cannabis rhizosphere microbiome refers to the community of microorganisms
 associated with the root systems of [[Cannabis]] plants. The first comprehensive
-characterization of the [[endorhiza]], rhizosphere, and bulk soil microbiomes of
+characterization of the [[cannabis-endorhiza-microbiome]], rhizosphere, and bulk soil microbiomes of
 multiple [[Cannabis sativa]] cultivars was published by Winston et al. (2014),
 who used Illumina 16S rRNA gene sequencing of the V4 region across five
 distinct cultivars grown in California.
@@ -30,7 +30,7 @@ such as pH, nitrogen, carbon, salinity, and water content primarily determine
 which microorganisms are available to colonize the rhizosphere. This represents
 the first tier of selection. The second tier occurs when specific cultivar
 genotypes selectively filter and enrich particular bacterial taxa during root
-colonization, shaping the [[endorhiza]] community composition.
+colonization, shaping the [[cannabis-endorhiza-microbiome]] community composition.
 
 This model was supported by PCoA analyses showing that soil type was the
 dominant factor determining PC1 (32.06% of variance) in unweighted UniFrac
@@ -44,7 +44,7 @@ The endorhiza (root interior) microbiome showed the strongest cultivar
 specificity among all sample types. A core community of [[Pseudomonas]],
 [[Cellvibrio]], Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and
 Sphingobacteriales was consistently found across all cultivars. Most of these
-are well known [[endophytes]] primarily within the orders Gammaproteobacteria
+are well known [[endophytic-fungi-and-plant-health]] primarily within the orders Gammaproteobacteria
 and Alphaproteobacteria.
 
 Notable cultivar-specific differences included:
@@ -125,9 +125,9 @@ The research examined five cultivars across two experiments:
 
 ## See Also
 
-- [[endorhiza]]
+- [[cannabis-endorhiza-microbiome]]
 - [[soil food web]]
 - [[mycorrhizal fungi]]
 - [[edaphic factors]]
-- [[cannabinoid]]
-- [[endophytes]]
+- [[cannabis-minor-cannabinoids]]
+- [[endophytic-fungi-and-plant-health]]

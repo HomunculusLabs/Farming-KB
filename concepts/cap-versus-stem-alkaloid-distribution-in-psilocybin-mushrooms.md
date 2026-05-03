@@ -30,7 +30,7 @@ research and harm reduction practice.
 Bigwood and Beug analyzed three distinct strains of Psilocybe cubensis
 grown on rye-grain substrate, separating caps from stems during the first
 flush and quantifying alkaloid levels via reversed-phase
-[[high-performance-liquid-chromatography|HPLC]] calibrated against
+[[cannabis-chromatography-cannabinoid-purification|HPLC]] calibrated against
 standards from the National Institute on Drug Abuse. This systematic
 approach allowed precise comparison of alkaloid partitioning between
 morphological structures under identical growing conditions.
@@ -49,7 +49,7 @@ The M.R. and Ecuadorian strains showed a clear and consistent pattern
 of psilocybin concentrating in the cap tissue. The Amazonian strain was
 unique, showing equal psilocybin distribution between cap and stem
 tissues. This strain-to-strain variability suggests that the genetic
-background of the [[cultivar]] meaningfully influences how alkaloids are
+background of the [[cannabis-genetics-and-breeding]] meaningfully influences how alkaloids are
 partitioned between morphological structures.
 
 ### Psilocin Distribution
@@ -88,7 +88,7 @@ degraded or oxidized in cap tissue more rapidly than in stems.
 The consistently higher psilocybin concentration in caps aligns with the
 broader understanding that the cap is the primary site of spore production
 and metabolic activity. The pileus contains the greatest density of
-actively dividing cells, the [[hymenium|gill tissue]] responsible for
+actively dividing cells, the gill tissue responsible for
 basidiospore formation, and the highest concentration of organelles
 associated with secondary metabolism.
 
@@ -146,5 +146,5 @@ which anatomical part of the mushroom is consumed.
 - [[psilocybe-cubensis-cultivation]] for growing methodology context
 - [[psilocybe-cubensis-miniculture-on-rye-grain]] for the cultivation
   method used in this research
-- [[high-performance-liquid-chromatography]] for analytical technique
+- [[cannabis-chromatography-cannabinoid-purification]] for analytical technique
   details

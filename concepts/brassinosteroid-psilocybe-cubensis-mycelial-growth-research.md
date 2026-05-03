@@ -111,7 +111,9 @@ mycelial extension rate, biomass accumulation, and enzyme activity.
 The commercial mushroom industry has shown increasing interest in
 biological growth stimulants as alternatives to synthetic additives.
 
-## Related Topics
+## Related
+
+- [[brassinosteroid-annulus-loss-psilocybe-taxonomy]] Topics
 
 - [[oss-oeric-growing-parameters-cubensis]] for standard conditions
 - [[oss-oeric-harvesting-and-crop-management]] for yield comparison

@@ -136,7 +136,9 @@ which classifies spices by their effects on the three doshas (body types), and
 Five Element theory, both of which can be used to fine-tune the selection of
 spices for individual therapeutic needs.
 
-## Related Concepts
+## Related
+
+- [[blesching-cannabis-depression-and-anger-release]] Concepts
 
 - [Cannabinoid-Terpene Entourage Effect
 - [Caryophyllene and Dietary Cannabinoids

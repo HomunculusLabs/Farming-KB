@@ -153,3 +153,9 @@ This stacked approach minimizes daily labor (deep litter), maximizes sanitation 
 - Turn when internal temperature drops below 110°F
 - Target 3–4 heating cycles before considering the compost finished
 - Cover the pile to retain moisture and prevent nutrient leaching from rain
+
+## See Also
+
+- [[comparison-bokashi-vs-hot-composting-method]]
+- [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+- [[comparison-vermicomposting-vs-hot-composting]]

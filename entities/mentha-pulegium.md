@@ -119,8 +119,13 @@ The plant's allelopathic properties are mild compared to some other mint species
 
 ## See Also
 
-- [[pulegone]]
-- [[mentha-spicata]]
-- [[essential-oil-toxicity]]
-- [[hepatotoxic-plants]]
-- [[abortifacient-herbs-history]]
+- [[concepts/nervine-herbs-and-anxiety-relief]]
+- [[concepts/herbal-medicine]]
+
+- [[medicinal-plant-preparations-tinctures-salves-teas]]
+
+- pulegone
+- mentha spicata
+- essential oil toxicity
+- hepatotoxic plants
+- [[medicinal-plant-preparations-tinctures-salves-teas]]

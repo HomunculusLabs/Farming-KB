@@ -121,3 +121,7 @@ Guzmán, Allen and Gartz organized their comprehensive list into four groups,
 reserving the most rigorous standards for species confirmed to contain
 psilocybin and related indoles, while acknowledging the cultural significance
 of species used as sacred fungi without reliable chemical verification.
+
+## See Also
+
+- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]

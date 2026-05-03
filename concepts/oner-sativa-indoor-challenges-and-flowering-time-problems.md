@@ -1,3 +1,12 @@
+---
+title: "Oner Sativa Indoor Challenges And Flowering Time Problems"
+created: 2026-05-03
+updated: 2026-05-03
+type: concept
+tags: [cannabis, indoor-growing, flowering]
+sources: []
+---
+
 1|---
      2|title: Cannabis Sativa Indoor Challenges and Flowering Time Problems
      3|tags: [cannabis-cultivation, indoor-growing, flowering-problems, photoperiod, cannabis-genetics, environmental-stress, sativa]
@@ -138,3 +147,9 @@
    138|Screen of Green (ScrOG) systems work particularly well for sativas because they
    139|physically restrain vertical growth while creating an even canopy. However, the
    140|extended flowering time of sativas means that the screen must accommodate not
+
+## See Also
+
+- [[gaias-garden-guild-challenges-and-limitations]]
+- [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]]
+- [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]

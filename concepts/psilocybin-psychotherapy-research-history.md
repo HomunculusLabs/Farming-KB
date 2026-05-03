@@ -110,6 +110,8 @@ After decades of suppression, clinical research into psilocybin-assisted psychot
 
 ## See Also
 
+- [[gartz-adam-vorbrodt-institutional-history-gdr-research]]
+
 - [[psilocybin-clinical-research-history]]
 - [[early-paris-psilocybin-research-1960s]]
 

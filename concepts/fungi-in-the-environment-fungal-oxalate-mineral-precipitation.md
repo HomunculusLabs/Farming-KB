@@ -127,4 +127,4 @@ for soil restoration and contaminant management.
 [[fungi-in-the-environment-ectomycorrhizal-mineral-dissolution-weathering]]
 [[fungi-in-the-environment-saprotrophic-mycelial-foraging-strategies]]
 [[fungi-in-the-environment-mycorrhizal-carbon-cycle-soil-carbon-pools]]
-[[fungal-bioremediation-principles]]
+[[fungal-bioremediation-case-studies]]

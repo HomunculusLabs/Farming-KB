@@ -140,7 +140,9 @@ the casing layer of trays cased for mushroom production. See
 [[sclerotia-cultivation]] for comprehensive coverage of sclerotia
 biology and harvest techniques.
 
-## Related Concepts
+## Related
+
+- [[grass-seed-cultivation-of-psilocybe-mushrooms]] Concepts
 
 - [[casing-layer-preparation]]: Casing soil recipes and application.
 - [[fruiting-chamber-setup]]: Simple plastic bin fruiting containers.

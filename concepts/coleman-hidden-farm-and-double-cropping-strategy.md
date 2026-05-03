@@ -1,3 +1,12 @@
+---
+title: "Coleman Hidden Farm And Double Cropping Strategy"
+created: 2026-05-03
+updated: 2026-05-03
+type: concept
+tags: [homesteading, farming, crop-planning]
+sources: []
+---
+
 1|---
      2|title: The Hidden Farm and Double Cropping Strategy
      3|tags: [winter-harvest, season-extension, double-cropping, eliot-coleman, cold-frames, succession-planting, protected-cultivation]
@@ -138,3 +147,9 @@
    138|Winter-grown produce commands premium prices because of its scarcity. In most
    139|northern markets, fresh local salad greens are simply unavailable during the
    140|winter months, and the few that appear are shipped from thousands of miles
+
+## See Also
+
+- [[coleman-small-farm-equipment-and-tools]]
+- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]
+- [[coleman-beneficial-insects-and-ecological-pest-control]]

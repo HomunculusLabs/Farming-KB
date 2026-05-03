@@ -140,7 +140,9 @@ plant-derived compounds, and that humans have likely been modulating
 this system through diet for thousands of years before cannabis was
 identified as a specific medicine.
 
-## Related Topics
+## Related
+
+- [[beta-caryophyllene-dietary-cannabinoid]] Topics
 
 - [[cannabis-endocannabinoid-system]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]

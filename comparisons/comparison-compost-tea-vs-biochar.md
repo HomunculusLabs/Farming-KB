@@ -119,6 +119,8 @@ effectiveness as microbial refugia. This combination delivers both immediate bio
 benefits and permanent soil improvement in an integrated soil health program.
 
 ## See Also
+
+- [[actively-aerated-compost-tea]]
 - [[comparison-biochar-vs-compost]]
 - [[comparison-biochar-vs-mycorrhiza]]
 - [[comparison-biochar-vs-biofertilizer]]

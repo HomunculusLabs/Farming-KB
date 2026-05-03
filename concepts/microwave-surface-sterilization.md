@@ -136,6 +136,8 @@ level of commercial validation as more established sterilization protocols.
 
 ## See Also
 
+- [[microwave-surface-sterilization-technology]]
+
 - [[mushroom-microwave-sterilization]]
 - [[mushroom-sterile-technique-detailed]]
 

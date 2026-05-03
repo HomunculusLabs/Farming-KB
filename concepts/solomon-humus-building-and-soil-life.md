@@ -122,7 +122,9 @@ top growth become food for soil organisms, eventually converting to
 humus. Leguminous cover crops additionally fix atmospheric nitrogen,
 further enriching the soil.
 
-## Related Concepts
+## Related
+
+- [[solomon-capillarity-and-soil-moisture-movement]] Concepts
 
 - [[solomon-compost-organic-matter]]
 - [[solomon-carbon-nitrogen-ratios]]

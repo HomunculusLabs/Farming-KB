@@ -16,10 +16,10 @@ sources:
 # Grass Seed Cultivation of Psilocybe Mushrooms
 
 Grass seed is a versatile substrate for cultivating [[Psilocybe]] species,
-supporting both mushroom fruitbody production and [[sclerotia]] formation. The
+supporting both mushroom fruitbody production and [[fungal-sclerotia-and-resting-structures]] formation. The
 method is particularly well suited for [[Psilocybe mexicana]] and [[Psilocybe
 tampanensis]], which produce sclerotia directly within colonized grain without
-requiring a [[casing]] layer or fruiting conditions.
+requiring a [[mushroom-casing-layers]] layer or fruiting conditions.
 
 ## Suitable Species
 
@@ -35,7 +35,7 @@ The grass seed method supports:
 
 Rye grass seed ([[Lolium perenne]]) is the most common choice, though mixtures
 of different grass species work well. The seed must not be treated with
-[[fungicides]]. Inexpensive seed can be sourced from animal feed stores sold as
+[[organic-pest-and-disease-management]]. Inexpensive seed can be sourced from animal feed stores sold as
 bird feed.
 
 ### Standard Formula (720 ml Jars)
@@ -125,10 +125,10 @@ cased trays.
 
 ## See Also
 
-- [[sclerotia]]
+- [[fungal-sclerotia-and-resting-structures]]
 - [[Psilocybe mexicana]]
 - [[Psilocybe tampanensis]]
 - [[Psilocybe cubensis]]
-- [[casing]]
+- [[mushroom-casing-layers]]
 - [[rye grain]]
-- [[substrate]]
+- [[mushroom-substrates]]

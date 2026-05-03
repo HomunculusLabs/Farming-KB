@@ -88,7 +88,7 @@ Dr. Ingham advocates direct microscopy for assessing compost tea biology:
 - Only 0.1 to 10% of soil organisms grow on any single plate medium
 - Plate methods cannot distinguish active from dormant organisms
 - Fungal morphology and hyphal diameter critical for identification are lost
-- [[Protozoa]] and [[nematodes]] require observation of live movement
+- [[Protozoa]] and [[protozoa-roles-in-soil]] require observation of live movement
 - Organism group ratios determining soil health cannot be assessed via plates
 
 ## Organism Groups and Their Roles
@@ -96,7 +96,7 @@ Dr. Ingham advocates direct microscopy for assessing compost tea biology:
 A complete AACT should contain all major trophic groups:
 
 - **Bacteria**: Nutrient cycling, decomposition, disease competition
-- **Fungi**: Decomposition of complex organic matter, [[mycorrhizal]]
+- **Fungi**: Decomposition of complex organic matter, [[mycorrhizal-networks-common-mycelial-network]]
   associations, soil aggregation through [[glomalin]] production
 - **Protozoa**: Bacterial grazers that release plant-available nitrogen
 - **Nematodes**: Bacterial-feeding, fungal-feeding, and predatory species
@@ -119,17 +119,17 @@ ranges depend on the specific plant, climate, and current soil conditions.
 
 ## Application Methods
 
-AACT can be applied through soil drench, foliar spray for [[phyllosphere]]
+AACT can be applied through soil drench, foliar spray for [[teaming-with-microbes-phyllosphere]]
 protection, drip irrigation with appropriate filtration, or specialized
 compost tea delivery systems for large-scale agriculture.
 
 ## See Also
 
 - [[soil food web]]
-- [[compost]]
+- compost
 - [[mycorrhizal fungi]]
 - [[glomalin]]
-- [[protozoa]]
-- [[nematodes]]
+- [[protozoa-roles-in-soil]]
+- [[protozoa-roles-in-soil]]
 - [[edaphic factors]]
 - [[Elaine Ingham]]

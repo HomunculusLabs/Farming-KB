@@ -75,7 +75,7 @@ Kale can be transplanted 4-6 weeks before last frost.
 
 Brassicas attract a specialized suite of insects that can quickly
 destroy unprotected plantings.
-[[integrated-pest-management-ipm|Floating row covers]] are the single
+[[query-what-is-integrated-pest-management-for-organic-gardens|Floating row covers]] are the single
 most effective pest prevention strategy.
 Install them at transplant and leave them on until plants are well
 established.
@@ -134,9 +134,9 @@ converts starches to sugars.
   rich, firm soil with plenty of organic matter
 - Plant fall brassicas in July-August for the most reliable results
   with less pest pressure
-- Use [[integrated-pest-management-ipm|floating row covers]] from
+- Use [[query-what-is-integrated-pest-management-for-organic-gardens|floating row covers]] from
   transplant to exclude cabbage butterflies and flea beetles
-- Practice strict [[crop-rotation-and-farm-planning|3-4 year crop
+- Practice strict [[crop-rotation-principles|3-4 year crop
   rotation]] to prevent clubroot
 - Harvest broccoli before florets separate, cabbage when heads are
   solid, and [[cole-crop-harvest-and-storage|sprouts after frost]]

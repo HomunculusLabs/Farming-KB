@@ -147,3 +147,7 @@ interest in its potential therapeutic applications:
   mplications for addiction treatment
 - **Consciousness research**: Salvinorin A provides a unique tool for 
   studying the neurobiology of consciousness, particularly the kappa-o
+
+## See Also
+
+- [[salvinorin-a]]

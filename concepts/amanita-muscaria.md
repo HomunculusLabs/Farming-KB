@@ -116,6 +116,10 @@ The EMCDDA has noted that use of Amanita muscaria may pose health risks which ca
 
 ## See Also
 
+- [[amanita-muscaria-chemistry-and-pharmacology]]
+- [[amanita-muscaria-drying-and-preparation]]
+- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
+
 - [[psilocybin pharmacology]]
 - [[Psilocybe cubensis]]
 - [[hallucinogenic mushroom legislation in Europe]]

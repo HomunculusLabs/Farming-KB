@@ -110,6 +110,8 @@ In permaculture design, bamboo and cob structures often sit alongside each other
 
 ## See Also
 
+- [[comparison-earthship-vs-cob-construction]]
+
 - [[comparison-cob-building-vs-adobe-construction]]
 
 - [[bamboo-construction]]

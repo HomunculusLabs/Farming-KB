@@ -17,6 +17,16 @@ sources: []
 
 # What Is an Earthship and How Does It Work?
 
+
+
+
+
+
+
+
+
+
+
 ## Frequently Asked Questions
 
 ### What exactly is an earthship?
@@ -74,3 +84,9 @@ Common issues include condensation on interior glass surfaces in cold weather, m
 ### How does an earthship compare to other natural building methods?
 
 Earthships differ from cob, straw bale, and other natural building methods in their systems integration. While cob and straw bale focus primarily on the building envelope, earthships incorporate water harvesting, wastewater treatment, and energy generation as integral parts of the design. Earthships use recycled industrial materials (tires, cans, bottles) alongside earth, while methods like cob use only natural materials. Each approach has strengths — earthships offer a complete off-grid package; cob offers greater design freedom and lower material costs.
+
+## See Also
+
+- [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
+- [[query-what-is-a-gley-pond-and-how-does-it-work]]
+- [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]

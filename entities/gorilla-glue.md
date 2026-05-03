@@ -135,6 +135,12 @@ In 2017, the Gorilla Glue adhesive company (Gorilla Glue Inc.) initiated tradema
 
 ## See Also
 
+- [[entities/blue-dream-cannabis]]
+- [[entities/cannabis-indica]]
+
+- [[cannabis-terpene-entourage-effect]]
+- [[cannabis-strain-selection-guide]]
+
 - [[OG-Kush]] — Foundational West Coast hybrid with similar cultural significance
 - [[Chemdawg]] — Ancestor strain contributing Chem's Sister genetics
 - [[Cannabis-sativa]] — Sativa parentage in the Chocolate Diesel lineage

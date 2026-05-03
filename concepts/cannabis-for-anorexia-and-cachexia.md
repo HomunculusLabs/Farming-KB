@@ -70,6 +70,8 @@ These findings align with broader research on the therapeutic potential and ecol
 
 ## See Also
 
+- [[cannabis-and-anorexia-cachexia]]
+
 - [[cannabis-endocannabinoid-system]]
 - [[cannabis-thc-therapeutic-profile]]
 - [[cannabis-dosing-guidelines]]

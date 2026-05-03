@@ -188,4 +188,4 @@ Santo Daime for their nondrug sacramental use of ayahuasca.
 - [[metzner-four-paradigms-psychedelic-healing]] for Metzner's framework
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for hybrid rituals
 - [[metzner-ayahuasca-therapeutic-potential]] for therapeutic research
-- [[peyote-legal-status-and-conservation]] for peyote legal issues
+- [[gottlieb-peyote-legal-status-and-conservation]] for peyote legal issues

@@ -122,6 +122,8 @@ Different methods suit different situations:
 
 ## See Also
 
+- [[gelato-cannabis]]
+
 - [[cannabis-vegetative-stage]] — Training happens primarily during vegetative growth
 - [[cannabis-flowering-stage]] — Transition considerations when moving trained plants to flower
 - [[cannabis-lighting-guide]] — Matching your training method to your lighting setup

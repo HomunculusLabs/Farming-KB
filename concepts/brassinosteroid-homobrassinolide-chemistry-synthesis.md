@@ -119,4 +119,4 @@ fungal brassinosteroids.
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[brassinosteroids-psilocybin-fruiting]]
 - [[phytohormone-cross-kingdom-fungal-effects]]
-- [[ergosterol-fungal-cell-membrane-component]]
+- [[ergosterol-fungal-drug-target]]

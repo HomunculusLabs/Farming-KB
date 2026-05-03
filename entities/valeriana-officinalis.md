@@ -137,4 +137,4 @@ Multiple meta-analyses and systematic reviews support valerian as a mild to mode
 - [[bacopa-monnieri]] — Ayurvedic cognitive herb with GABAergic activity
 - [[passiflora-incarnata]] — complementary herbal sedative often combined with valerian
 - [[hypericum-perforatum]] — herbal antidepressant used alongside valerian in anxiety formulations
-- [[nervine-herbs]] — broader category of herbs acting on the nervous system
+- [[nervine-herbs-and-anxiety-relief]] — broader category of herbs acting on the nervous system

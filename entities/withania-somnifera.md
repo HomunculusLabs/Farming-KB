@@ -184,4 +184,4 @@ Several patented, standardized extracts dominate the commercial market:
 - [[panax-ginseng]] — Ginseng, traditional adaptogen
 - [[bacopa-monnieri]] — Ayurvedic nootropic herb (Brahmi)
 - [[curcuma-longa]] — Turmeric, anti-inflammatory Ayurvedic herb
-- [[adaptogens]] — Comprehensive guide to adaptogenic herbs
+- [[adaptogenic-herbs-overview]] — Comprehensive guide to adaptogenic herbs
