@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1172 pages**
+**1180 pages**
 
 ## #
 
@@ -199,6 +199,7 @@
 - [[amanita-regalis]]
 - [[amanita-rubescens]]
 - [[amanita-verna]]
+- [[amnesia-haze]]
 - [[ampelomyces-quisqualis]]
 - [[amt-entity-tihkal]]
 - [[anadenanthera-colubrina]]
@@ -355,6 +356,7 @@
 - [[cpm-entity-pihkal]]
 - [[craterellus-tubaeformis]]
 - [[cryptococcus-neoformans]]
+- [[curcuma-longa]]
 - [[cylindrocarpon-destructans]]
 
 ## D
@@ -507,12 +509,14 @@
 - [[ganoderma-tsugae]]
 - [[gary-lincoff]]
 - [[gaston-guzman]]
+- [[gelato-cannabis]]
 - [[geoff-hamilton]]
 - [[geoff-lawton]]
 - [[geoffrey-gadd]]
 - [[gerronema-fibula]]
 - [[gigaspora-marginata]]
 - [[ginkgo-biloba]]
+- [[girl-scout-cookies]]
 - [[gleditsia-triacanthos]]
 - [[gliocladium-roseum]]
 - [[gloeophyllum-trabeum]]
@@ -566,6 +570,7 @@
 - [[hot-2-entity-pihkal]]
 - [[hot-7-entity]]
 - [[hot-7-entity-pihkal]]
+- [[hugelkultur]]
 - [[humphry-osmond]]
 - [[humulene]]
 - [[hydnum-repandum]]
@@ -625,6 +630,7 @@
 - [[jerusalem-artichoke]]
 - [[jochen-gartz]]
 - [[jock-horror]]
+- [[joel-salatin]]
 - [[john-allegro]]
 - [[john-dighton]]
 - [[john-halpern]]
@@ -842,6 +848,7 @@
 
 ## O
 
+- [[ocimum-tenuiflorum]]
 - [[octavia-e-butler]]
 - [[og-kush]]
 - [[oidiodendron-maius]]
@@ -1116,6 +1123,7 @@
 - [[simon-powell]]
 - [[sophora-secundiflora-entity]]
 - [[sour-diesel]]
+- [[sparassis-crispa]]
 - [[sphaerobolus-stellatus]]
 - [[sphaerotheca-fuliginea]]
 - [[sporidesmium-sclerotivorum]]

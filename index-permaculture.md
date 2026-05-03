@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1569 pages**
+**1568 pages**
 
 ## A
 
@@ -442,7 +442,6 @@
 - [[holzer-wild-cattle-and-old-breeds]]
 - [[holzer-wild-fruit-trees-and-hedges]]
 - [[homestead-permaculture-design]]
-- [[hugelkultur]]
 - [[hugelkultur-bed-construction]]
 - [[hugelkultur-bed-construction-detailed]]
 - [[hugelkultur-beds]]

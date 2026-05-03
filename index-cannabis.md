@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**918 pages**
+**922 pages**
 
 ## A
 
@@ -63,16 +63,20 @@
 - [[blesching-cannabis-decarboxylation-and-raw-cannabis]]
 - [[blesching-cannabis-dental-and-oral-health]]
 - [[blesching-cannabis-depression]]
+- [[blesching-cannabis-depression-and-anger-release]]
 - [[blesching-cannabis-dermatological-conditions]]
 - [[blesching-cannabis-diabetes]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]
 - [[blesching-cannabis-dosing-strategies]]
 - [[blesching-cannabis-eczema-dermatitis]]
 - [[blesching-cannabis-encephalitis]]
+- [[blesching-cannabis-epigenetics-and-emotional-trauma]]
 - [[blesching-cannabis-epinephrine-norepinephrine-endocannabinoid-system]]
 - [[blesching-cannabis-febrile-seizures]]
 - [[blesching-cannabis-fertility-reproductive-health]]
 - [[blesching-cannabis-fever-temperature-regulation]]
+- [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]
+- [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]
 - [[blesching-cannabis-forms-and-preparations]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
 - [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]]

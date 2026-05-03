@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**858 pages**
+**862 pages**
 
 ## A
 
@@ -144,6 +144,7 @@
 - [[comparison-crop-rotation-vs-cover-cropping]]
 - [[comparison-dam-construction-vs-swale-design]]
 - [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
+- [[comparison-deep-litter-vs-hot-composting]]
 - [[comparison-desert-gardening-vs-drought-gardening]]
 - [[comparison-double-digging-vs-no-till]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
@@ -220,6 +221,7 @@
 - [[comparison-knf-vs-biodynamic]]
 - [[comparison-kombucha-vs-kefir]]
 - [[comparison-kratky-vs-dwc]]
+- [[comparison-lab-serum-vs-compost-tea]]
 - [[comparison-lacto-fermentation-vs-canning]]
 - [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
@@ -585,6 +587,7 @@
 - [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]
 - [[query-how-does-one-carbon-metabolism-affect-methylation]]
+- [[query-how-does-rock-dust-improve-soil-fertility]]
 - [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
 - [[query-how-does-vermicomposting-work]]
 - [[query-how-mycorrhizal-fungi-help-plants]]
@@ -740,6 +743,7 @@
 - [[query-what-are-green-manures-and-how-to-use-them]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
+- [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
 - [[query-what-are-the-12-permaculture-principles]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]]
