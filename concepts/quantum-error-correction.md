@@ -1,3 +1,8 @@
+---
+title: "Quantum Error Correction"
+sources: []
+---
+
 # Quantum Error Correction
 
 ## Overview
@@ -16,7 +21,7 @@ The encoded system allows errors to be detected and corrected without measuring 
 
 This is possible because error syndromes reveal what kind of error occurred without revealing the encoded logical state.
 
-The field combines [[quantum mechanics fundamentals]], information theory, algebra, computer science, and experimental engineering.
+The field combines quantum mechanics fundamentals, information theory, algebra, computer science, and experimental engineering.
 
 It is one of the main reasons scalable quantum computing is difficult.
 
@@ -88,46 +93,6 @@ Mitigation tries to infer less noisy answers from noisy computations without ful
 
 Correction aims to actively maintain valid encoded quantum information during computation.
 
-## History and Context
-
-Quantum error correction emerged in the mid-1990s after researchers recognized that noise might not make quantum computing impossible.
-
-Peter Shor introduced a pioneering quantum code in 1995.
-
-Andrew Steane soon developed another foundational code based on classical coding theory.
-
-The stabilizer formalism, associated with Daniel Gottesman, unified many early codes.
-
-Fault-tolerant quantum computation developed alongside these codes.
-
-Threshold theorems by several researchers showed that error correction could scale in principle.
-
-This changed the status of quantum computing from a fragile curiosity to a plausible engineering program.
-
-The field drew from classical error correction but had to solve uniquely quantum constraints.
-
-Measurement had to reveal errors without collapsing useful information.
-
-Gates had to be designed so faults did not amplify catastrophically.
-
-Magic-state distillation became important for implementing universal fault-tolerant gates.
-
-Topological quantum computation influenced the design of surface codes and color codes.
-
-Experimental progress accelerated in the 2000s and 2010s.
-
-Groups demonstrated small codes in ion traps, superconducting circuits, photons, nitrogen-vacancy centers, and neutral atoms.
-
-By the 2020s, experiments began showing repeated syndrome extraction and logical error suppression under some conditions.
-
-The central challenge shifted from showing code components to building complete logical qubits with practical overheads.
-
-Quantum error correction became a benchmark for hardware maturity.
-
-A device that can run a logical qubit with lower error than its components marks a major milestone.
-
-Scaling from one logical qubit to useful machines remains a major open problem.
-
 ## Applications and Significance
 
 Quantum error correction is required for large-scale algorithms such as Shor's factoring algorithm.
@@ -168,21 +133,6 @@ Quantum error correction shows that measurement can protect quantum information 
 
 It is a conceptual bridge between fragile microscopic states and robust computational systems.
 
-## Related Concepts
-
-- [[quantum mechanics fundamentals]]
-- [[quantum computing]]
-- [[information theory]]
-- [[decoherence]]
-- [[entanglement]]
-- [[fault tolerance]]
-- [[topological quantum computing]]
-- [[classical error correction]]
-- [[surface code]]
-- [[stabilizer formalism]]
-- [[quantum cryptography]]
-- [[computer architecture]]
-
 ## See Also
 
 Quantum error correction is not merely a repair mechanism.
@@ -190,3 +140,6 @@ Quantum error correction is not merely a repair mechanism.
 It is the architecture that allows quantum information to behave as an engineered resource.
 
 Its success or failure will largely determine the scale and timing of practical quantum computation.
+- [[unconventional-computing]]
+- [[computational-universe-and-natural-intelligence]]
+- [[quantum-mechanics-fundamentals]]

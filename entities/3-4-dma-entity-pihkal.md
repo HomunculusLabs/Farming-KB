@@ -11,11 +11,9 @@ sources: ["Shulgin - PIHKAL"]
 PIHKAL entry #55. 3,4-DIMETHOXYAMPHETAMINE.
 
 
-
 ## Chemical Name
 
 3,4-DIMETHOXYAMPHETAMINE
-
 
 
 ## Dosage and Duration
@@ -24,7 +22,6 @@ PIHKAL entry #55. 3,4-DIMETHOXYAMPHETAMINE.
 |----------|-------|
 | Dosage | a few hundred milligrams. |
 | Duration | unknown. |
-
 
 
 ## Qualitative Comments
@@ -43,7 +40,6 @@ PIHKAL entry #55. 3,4-DIMETHOXYAMPHETAMINE.
 > mydriasis and gross body tremors also occurred but apparently no
 > hallucinations were experienced.]
 >
-
 
 
 ## Extensions and Commentary
@@ -65,7 +61,6 @@ The 3,5-isomer followed precisely the same flow sheet. 3,5-Dimethoxybenzaldehyde
 perchlorate (3,5-DNNA) with a melting point of 100-101 deg C. This also reacted readily with 18F acetylhypofluorite and 122I-hypoiodite. Several alpha-ethyl homologues of these compounds have also been discussed in the recipe for ARIADNE.
 
 
-
 ## Synthesis
 
 A solution of 33.2 g of veratraldehyde in 15.0 g nitroethane was treated with 0.9 g of n-amylamine and placed in a dark place at room temperature. In a day or so, separated H2O was apparent and, after a couple of weeks, the mixture completely solidified. The addition of 50 mL EtOH and heating effected complete solution and, on cooling, this provided 1-(3,4-dimethoxyphenyl)-2-nitropropene as yellow crystals, 29.0 g, with mp of 70-71 deg C. The more conventional reaction scheme, 6 h heating of a solution of the aldehyde and nitroethane in acetic acid with ammonium acetate as catalyst, gave a much inferior yield of product (33.2 g gave 14.8 g) of the same purity. Recrystallization from MeOH increased the mp to 72-73 deg C.
@@ -75,12 +70,10 @@ To a refluxing suspension of 7 g LAH in 600 mL anhydrous Et2O, stirred and under
 addition of aqueous NaOH. This clear solution was extracted with 3x150 mL CH2Cl2, the extracts were pooled, and the solvent removed under vacuum to give a residual oil. This was dissolved in Et2O, saturated with anhydrous HCl gas, and the resulting solids removed by filtration. Recrystallization from 10 mL acetone gave 1.35 g 3,4-dimethoxyamphetamine hydrochloride (3,4-DMA) as beautiful white crystals with a mp of 144-145 deg C.
 
 
-
 ## Safety Notes
 
 3,4-DMA is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
-
 
 
 ## See Also

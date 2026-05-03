@@ -13,13 +13,11 @@ tags: [design, principles]
 David Holmgren's twelve design principles form the core framework of permaculture as a design science. First systematically articulated in "Permaculture: Principles and Pathways Beyond Sustainability" (2002), these principles distill decades of practical experience and theoretical development since the co-founding of permaculture with Bill Mollison in the mid-1970s.
 
 
-
 ## Origin and Purpose
 
 Holmgren organises the diversity of permaculture thinking under 12 design principles that differ significantly from those used by most other permaculture teachers. While some differences are matters of emphasis and organisation, a few indicate substantive divergence. This reflects the new and still emerging nature of permaculture as a discipline.
 
 In Permaculture One (1978), Mollison and Holmgren outlined theory and applications without explicitly listing a clear set of principles. The Permaculture Tree presented the concept as analogous to a germinating seed, giving rise to interdependent root and aerial structures. In Permaculture: A Designers' Manual (1988), Mollison provided encyclopaedic coverage of scope and possibilities as well as enlargement of theory and principles, but hardly provided a clear list. It was through Holmgren's systematic teaching and writing that the principles gained their current form.
-
 
 
 ## The Value and Use of Principles
@@ -31,13 +29,11 @@ Permaculture principles are brief statements or slogans remembered as a checklis
 These principles can be divided into ethical principles and design principles. The ethical principles -- Care for the Earth, Care for People, and Set Limits to Consumption and Reproduction while Redistributing Surplus -- are explored in [[holmgren-permaculture-ethics-foundations]] and [[holmgren-ethical-philosophical-framework]].
 
 
-
 ## Structure: Two Groups of Six
 
 The twelve principles are organised in two groups of six. The first six tend to consider systems from the bottom-up perspective of elements, organisms, and individuals. The second six tend to emphasise the top-down perspective of the patterns and relationships that tend to emerge by system self-organisation and co-evolution. This structure reflects the [[holmgren-top-down-thinking-bottom-up-action]] maxim.
 
 Each design principle takes the form of a brief action statement with an associated icon and a proverb or saying which exemplify the principle. While the action statements provide a memorable shorthand, they are merely doorways into the labyrinth of whole-systems thinking. The division between issues covered under each principle is acknowledged as arbitrary.
-
 
 
 ## The Twelve Principles
@@ -71,7 +67,6 @@ Each design principle takes the form of a brief action statement with an associa
 12. **Creatively Use and Respond to Change** -- We can have a positive impact on inevitable change by carefully observing, and then intervening at the right time. Proverb: "Vision is not seeing things as they are but as they will be." See [[holmgren-change-detailed]].
 
 
-
 ## Scientific Foundations
 
 The scientific foundation for permaculture design principles lies generally within the modern science of ecology, and more particularly within systems ecology. Other intellectual disciplines, most particularly landscape geography and ethnobiology, have contributed concepts adapted to design principles. Fundamentally, the principles arise from [[holmgren-wholistic-design-thinking]].
@@ -79,11 +74,9 @@ The scientific foundation for permaculture design principles lies generally with
 The influence of systems ecology, especially the ecological energetics of Howard Odum, has been the single most important intellectual foundation. Odum's concept of EMERGY (embodied energy) and the maximum power principle inform the understanding of optimal design and energy efficiency that runs through all twelve principles.
 
 
-
 ## Application Across Domains
 
 The [[holmgren-permaculture-flower-and-domains]] illustrates how the principles apply across seven domains: land and nature stewardship, building, tools and technology, education and culture, health and spiritual well-being, finances and economics, and land tenure and community governance. Each principle chapter includes examples of application towards creating an ecological culture, starting with examples from gardening, building, and farming and expanding to broader community, organisational, and cultural applications.
-
 
 
 ## Principles and Energy Descent

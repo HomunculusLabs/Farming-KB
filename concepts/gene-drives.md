@@ -1,3 +1,8 @@
+---
+title: "Gene Drives"
+sources: []
+---
+
 # Gene Drives
 
 ## Overview
@@ -74,48 +79,6 @@ Monitoring requires genetic assays, field ecology, and community-based reporting
 
 Reversal drives have been proposed, but reversing an ecological intervention is harder than editing a DNA sequence.
 
-## History and Context
-
-Biologists recognized selfish genetic elements in the twentieth century while studying inheritance anomalies.
-
-The term gene drive became prominent as population geneticists formalized systems that bias transmission.
-
-Homing endonuclease genes attracted attention because they could copy themselves into chromosomes.
-
-In the early 2000s, researchers proposed using engineered homing systems to alter wild populations.
-
-The idea was especially relevant to mosquito-borne disease control.
-
-Malaria, dengue, Zika, chikungunya, and other diseases motivated interest in vector engineering.
-
-Earlier transgenic mosquito projects aimed to reduce pathogen transmission without necessarily using drives.
-
-The arrival of CRISPR-Cas systems dramatically changed the field.
-
-CRISPR made sequence targeting cheaper, faster, and more flexible than many earlier engineering methods.
-
-In 2015, laboratory demonstrations showed CRISPR-based drives in insects and yeast.
-
-These results moved gene drives from theoretical possibility to urgent policy issue.
-
-Public debate then expanded beyond technical feasibility.
-
-Questions arose about consent, transboundary movement, indigenous rights, ecological uncertainty, and dual use.
-
-International bodies considered gene drives under biodiversity and biosafety frameworks.
-
-The [[precautionary principle]] became a frequent reference in policy discussions.
-
-Some researchers emphasized phased testing from contained lab work to confined field trials.
-
-Others argued for moratoria until governance systems mature.
-
-Gene drives also intersect with colonial histories of public health intervention.
-
-A release in one region could affect neighboring communities that did not authorize it.
-
-This has made public engagement a core part of responsible research.
-
 ## Applications and Significance
 
 The most discussed application is control of disease-vector mosquitoes.
@@ -152,26 +115,11 @@ Field governance can include staged trials, independent review, and long-term su
 
 No technical design can replace legitimacy and trust.
 
-The field illustrates how [[synthetic biology]] challenges older categories of invention and release.
+The field illustrates how synthetic biology challenges older categories of invention and release.
 
 Gene drives are also a test case for anticipatory governance in emerging technology.
 
 They require thinking in evolutionary time, not just engineering time.
-
-## Related Concepts
-
-- [[crispr-base-editing]]
-- [[synthetic biology]]
-- [[population genetics]]
-- [[evolutionary biology]]
-- [[malaria ecology]]
-- [[invasive species management]]
-- [[biosafety]]
-- [[biosecurity]]
-- [[precautionary principle]]
-- [[ecological risk assessment]]
-- [[vector-borne disease]]
-- [[conservation biology]]
 
 ## See Also
 
@@ -180,3 +128,5 @@ Gene drives show how a molecular tool can become a landscape-scale intervention.
 They are best understood as engineered evolutionary processes rather than simple genetic edits.
 
 Their significance lies as much in governance and ecology as in biotechnology.
+- [[holmgren-genetic-engineering-and-evolution]]
+- [[singh-genetically-engineered-fungi-bioremediation]]

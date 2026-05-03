@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
-sources: []
+sources:
+  - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
 
 # Forest Garden Design Principles

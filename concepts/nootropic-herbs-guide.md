@@ -147,3 +147,4 @@ Mediterranean aromatic herb used since ancient times for memory enhancement. The
 ## See Also
 
 - [[bacopa-monnieri]]
+- [[corneliu-e-giurgea]]

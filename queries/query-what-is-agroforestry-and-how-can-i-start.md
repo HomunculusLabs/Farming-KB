@@ -97,3 +97,4 @@ Properly designed windbreaks reduce wind speed for a distance of 10 to 15 times 
 
 Alley cropping is another excellent entry point for beginners interested in agroforestry.
 This involves planting rows of trees or shrubs with crops grown in the alleys between them.
+- [[query-what-is-alley-cropping-and-when-should-i-use-it]]

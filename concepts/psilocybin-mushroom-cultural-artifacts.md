@@ -145,3 +145,4 @@ textile art, the collection demonstrates that mushrooms have inspired
 
 - [[african-psilocybin-mushroom-guide]]
 - [[asian-psilocybin-mushroom-guide]]
+- [[john-w-allen]]

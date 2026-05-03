@@ -117,7 +117,7 @@ The link is important because Bose's work crossed disciplinary boundaries.
 
 ## Named Concepts
 
-- [[rayleigh-scattering]]: elastic scattering by particles smaller than wavelength.
+- Rayleigh scattering: elastic scattering by particles smaller than wavelength.
 - Rayleigh waves: surface waves important in seismology and materials science.
 - Rayleigh number: dimensionless number for buoyancy-driven convection.
 - Rayleigh criterion: angular resolution criterion in optics.
@@ -142,5 +142,5 @@ Small signals, carefully amplified, could reveal hidden continuity in nature.
 - [[jagadis-chandra-bose]]
 - [[jagadis-chandra-bose-plant-research]]
 - [[plant-bioelectricity]]
-- [[rayleigh-scattering]]
-- [[argon]]
+- Rayleigh scattering
+- argon

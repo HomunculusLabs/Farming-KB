@@ -92,3 +92,4 @@ Dairy goats are the backbone of many homestead dairy operations:
 - [[composting-systems]]
 - [[faires-dairy-processing-cheese-and-butter]]
 - [[small-scale-grain-growing]]
+- [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]

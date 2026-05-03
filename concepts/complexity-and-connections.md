@@ -4,7 +4,10 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"
 ---
 # Complexity and Connections
 

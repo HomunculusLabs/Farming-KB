@@ -15,13 +15,11 @@ Updated: 2026-04-18
 Fungal decolorization of synthetic dyes is influenced by numerous physicochemical and biological factors that determine both the rate and extent of color removal. Understanding these factors is essential for optimizing fungal-based treatment systems for industrial dye-containing wastewaters.
 
 
-
 ## Media Composition
 
 The choice of growth medium significantly affects decolorization efficiency. Kirk's basal salts medium and urea-containing media support complete decolorization of dyes such as Everzol Turquoise Blue by [[turkey-tail-trametes-versicolor]] (syn. [[turkey-tail-trametes-versicolor]]), achieving 100% removal over 6 days (Kapdan et al. 2000). Glucose supplementation enhances decolorization of many dyes by providing co-substrate for fungal metabolism and H2O2 generation. Organic nitrogen sources including ammonium sulfate, ammonium chloride, ammonium tartrate, and urea all support effective decolorization, with urea showing the highest efficiency (98%) for C. versicolor.
 
 A critical parameter is the total organic carbon-to-nitrogen ratio (TOC/N). Ratios exceeding 20 consistently yield greater than 98% decolorization, as nitrogen limitation promotes secondary metabolism and expression of [[ligninolytic-enzyme-production-bioremediation]] (Swamy and Ramsay 1999a).
-
 
 
 ## Static Versus Agitated Culture
@@ -34,13 +32,11 @@ Oxidative enzymes of [[white-rot-fungi-effluent-decolorization]] function optima
 - [[turkey-tail-trametes-versicolor]] achieves 100% decolorization of Reactive Blue, Remazol Orange, and Remazol Brilliant Blue R under agitated conditions in just 1-7 days
 
 
-
 ## pH and Temperature
 
 Most [[white-rot-fungi-effluent-decolorization]] show optimal growth and decolorization at acidic pH (4.0-5.5). [[turkey-tail-trametes-versicolor]] and isolate DSPM95 maintain degradation of Poly R-478 across a wide pH range up to pH 6.0 (Tekere et al. 2001). The pH range 3-10 shows no correlation with dye adsorption (Mou et al. 1991; Brahimi-Horn et al. 1992), indicating that biological degradation rather than passive adsorption is the primary mechanism at acidic pH.
 
 For yeasts, Kluyveromyces Marxianus IMB3 shows optimal decolorization of Remazol Black B at pH 3.5-5.0 and 37 degrees C (Meehan et al. 2000), with temperature being a significant factor.
-
 
 
 ## Dye Concentration and Class
@@ -55,7 +51,6 @@ Higher initial dye concentrations generally reduce percent color removal but inc
 - Indigo dyes: All wood-rotting fungal isolates remove approximately 99% of Indigo Carmine color (Knapp et al. 1995)
 
 
-
 ## Enzyme System Involved
 
 Different ligninolytic enzyme systems dominate depending on the fungus and conditions:
@@ -66,17 +61,14 @@ Different ligninolytic enzyme systems dominate depending on the fungus and condi
 - Non-specific peroxidases and laccases of [[cotter-mycoremediation-overview]] correlate with high decolorization in solid-state fermentation (Tychanowicz et al. 2004)
 
 
-
 ## Salt and Ionic Strength
 
 Industrial effluents often contain high levels of sodium chloride or sulfate from manufacturing processes. High ionic strength can inhibit fungal decolorization through osmotic effects. White-rot fungi show similar decolorization rates for diazo-linked chromophore effluents in both salted and unsalted portions (Knapp and Newby 1999), suggesting some salt tolerance. Marine fungi such as Flavodon Flavus (a marine basidiomycete) represent a promising avenue for treating high-salinity dye wastewaters.
 
 
-
 ## Repeated-Use and Sequential Decolorization
 
 Fungal mycelia can be reused over multiple decolorization cycles. T. versicolor mycelial pellets maintain constant decolorization rates above 0.13 g/L glucose. Debaryomyces Polymorphus achieves greater than 99% decolorization of Reactive Black 5 with glucose and ammonium phosphate supplementation, maintaining activity over repeated cycles (Yang et al. 2005). In sequential dye addition studies, T. versicolor maintains high-level color removal across multiple dye types added successively, including mixtures of Remazol Black, Remazol Orange, and Reactive Blue.
-
 
 
 ## Related Topics
@@ -86,7 +78,6 @@ Fungal mycelia can be reused over multiple decolorization cycles. T. versicolor 
 - [[laccase-mediator-system-dye]]
 - [[white-rot-fungi-effluent-decolorization]]
 - [[fungal-bioreactor-effluent-treatment]]
-
 
 
 ## Sources

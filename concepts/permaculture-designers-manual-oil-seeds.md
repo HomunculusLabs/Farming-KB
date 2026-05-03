@@ -14,11 +14,9 @@ updated: 2026-04-18
 From: [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 
 
-
 ## Overview
 
 Oilseed crops provide edible oils, fuel, and industrial raw materials in permaculture systems. Bees carry out the essential service of pollination for a wide variety of food, oil, fruit, and seed crops such as mustard, clovers, buckwheat, most smallfruit, apples, and grain legumes. The Designer's Manual references oil crops as part of regional plantation systems and specialist crop potential.
-
 
 
 ## Principal Oilseed Crops
@@ -42,11 +40,9 @@ Oilseed crops provide edible oils, fuel, and industrial raw materials in permacu
 - **Pecan and macadamia** - high-value nut oils in tree crop systems
 
 
-
 ## Specialist Crop Potential
 
 There is a wide range of specialist crop potential for oils, from rubber (Hevea), betel-nut, chalmougra oil, and chicle to essential oils and medicinals. Many are suited to primary processing in remote locations, or conversion to commercial-quality end-products. The high value of processed product often justifies small-scale production.
-
 
 
 ## Oil Processing
@@ -56,7 +52,6 @@ Permaculture systems emphasise on-site or community-scale processing of oilseeds
 - Seed cleaning using vibrating tables with screens
 - Fukuoka-style seed-clay mixes pressed through mincers
 - Community-scale processing facilities in bioregional planning
-
 
 
 ## Integration with Other Systems
@@ -70,7 +65,6 @@ Oil crops integrate with other permaculture elements:
 - Sunflower hedges providing garden windbreak and food
 
 
-
 ## Design Considerations
 
 - Select oil crops suited to local climate (tropical palms vs temperate seeds)
@@ -79,7 +73,6 @@ Oil crops integrate with other permaculture elements:
 - Use oil-producing trees in Zone 3-4 food forests
 - Consider dual-purpose crops (oil + feed, oil + fibre)
 - Plan for pollinator habitat near oilseed fields
-
 
 
 ## Related Topics

@@ -123,3 +123,5 @@ Psychedelics serve as tools for exploring the computational nature of reality.
 ## See Also
 
 - [[powell-natural-intelligence-and-the-universal-computation]]
+- [[afrofuturism]]
+- [[memristor]]

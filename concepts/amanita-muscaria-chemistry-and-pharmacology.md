@@ -11,11 +11,9 @@ sources:
 # Amanita Muscaria Chemistry and Pharmacology
 
 
-
 ## Overview
 
 [[amanita-muscaria]], the fly-agaric, contains a unique pharmacological profile distinct from the psilocybin-containing mushrooms. Its primary psychoactive compounds are ibotenic acid and muscimol, which act on the glutamate and GABA neurotransmitter systems respectively -- fundamentally different from the serotonergic mechanism of psilocybin.
-
 
 
 ## Primary Active Compounds
@@ -39,13 +37,11 @@ sources:
 - **Significance**: Cycloserine, an antimicrobial tuberculostatic agent, exhibits a similar carbon backbone to muscimol.
 
 
-
 ## Other Notable Compounds
 
 - **(-)-R-4-hydroxy-pyrrolidone-(2)**: Closely related to ibotenic acid and muscimol. Found in [[amanita]] muscaria (Matsumoto et al. 1969a). This chemical frame is common in micromycetes and generally exhibits potent biological activity against bacteria and other fungi.
 - **A; B-(1->6) branched (1->3)-beta-D-glucan (AM-ASN)**: Isolated from A. muscaria, it exhibited antitumor activity against Sarcoma 180 in mice (Kiho et al. 1992).
 - **Muscarine**: Despite the species name, A. muscaria contains only trace amounts of muscarine; the primary effects are from ibotenic acid/muscimol.
-
 
 
 ## Pharmacological Relationship
@@ -55,17 +51,14 @@ Ibotenic acid and muscimol are respectively conformationally restricted derivati
 According to Michelot and Melendez-Howell: "Ibotenic acid, and particularly muscimol, have to be regarded as the substances responsible for the psychotropic action of Amanita muscaria. The effects of both substances are similar but not identical to the effect of the fungus in toto."
 
 
-
 ## Antibiotic Properties
 
 The two major chemicals found in A. muscaria are closely related to known antibiotics. The chemically related hydroxypyrollidone derivative is a known antibiotic and antifungal also found in micromycetes. Almost all modern medicine's antibiotics were first discovered in fungi.
 
 
-
 ## Toxicity
 
 Amanita muscaria is commonly considered poisonous, yet reliable recorded fatalities are "extremely rare, even when consumed fresh in large quantities." The adverse effects of fresh consumption (nausea, disorientation, agitation) are primarily due to ibotenic acid content, which is substantially reduced through proper preparation.
-
 
 
 ## Practical Use
@@ -75,12 +68,10 @@ is useful on a working site. Small trials reduce risk and make local adaptation
 visible before larger investments are made.
 
 
-
 ## Observation Points
 Track seasonal timing, moisture, plant or fungal response, pest pressure, and
 maintenance needs. Notes across several cycles are more reliable than a single
 observation because many biological systems respond slowly or episodically.
-
 
 
 ## Integration
@@ -88,7 +79,6 @@ The strongest applications usually connect several functions at once, such as
 soil improvement, habitat creation, water moderation, yield, and education. If a
 practice only solves one problem while creating new maintenance burdens, it
 should be redesigned or kept experimental.
-
 
 
 ## Related Concepts

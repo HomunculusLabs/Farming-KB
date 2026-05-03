@@ -10,11 +10,9 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 # Composting Materials — Alternative Sources
 
 
-
 ## Overview
 
 Few gardens produce enough waste organic material to be self-sufficient in compost. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources.
-
 
 
 ## External Sources of Compost Material
@@ -35,7 +33,6 @@ Used grow bags at the end of the season contain once-used compost full of tomato
 Leaves from municipal collection are often available. They may contain trash (cigarette packs, etc.) that is easy to remove. Lead contamination from car exhaust is a concern, but [[composting]] should reduce it to acceptable levels.
 
 
-
 ## Leaf Mold
 
 Leaves are slow to rot because they contain lignin. Expect to wait at least one year, possibly two to three, for crumbly leaf mold ready to use.
@@ -46,7 +43,6 @@ Leaves are slow to rot because they contain lignin. Expect to wait at least one 
 - Need at least two heaps since it takes 2-3 years
 - Simple construction: four 3ft (1m) stakes + ~12ft (4m) wire netting in a 3ft square
 - Pile leaves in, pressing down each time; water in dry summer; otherwise leave alone
-
 
 
 ## [[sheet-composting]]
@@ -63,13 +59,11 @@ For gardeners who lack time for proper [[composting]] but refuse to throw away o
 - Alternative: dig sheet compost into the top inch of soil, or use a rotary cultivator (extra nitrogen definitely needed — use dried blood)
 
 
-
 ## Practical Use
 This topic is best evaluated in context: climate, available materials, labor,
 water access, and the surrounding ecological community all influence whether it
 is useful on a working site. Small trials reduce risk and make local adaptation
 visible before larger investments are made.
-
 
 
 ## Observation Points
@@ -78,13 +72,11 @@ maintenance needs. Notes across several cycles are more reliable than a single
 observation because many biological systems respond slowly or episodically.
 
 
-
 ## Integration
 The strongest applications usually connect several functions at once, such as
 soil improvement, habitat creation, water moderation, yield, and education. If a
 practice only solves one problem while creating new maintenance burdens, it
 should be redesigned or kept experimental.
-
 
 
 ## Related

@@ -19,7 +19,7 @@ sources:
 - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 # Asian Psilocybin Mushroom Guide
-Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
+Regional distribution guide for psilocybin-containing mushrooms across Asia, covering species, habitats, seasonal patterns, and cultural use. Based on [[jochen-gartz]]'s global survey and [[john-w-allen]]'s Southeast Asian research. See also [[psilocybin-mushroom-chemistry]] for the worldwide overview and [[mushroom-species-guide]] for species profiles.
 ## Southeast Asia
 Southeast Asia is one of the world's richest regions for psilocybin mushroom biodiversity, with a tropical climate supporting year-round fruiting in many areas.
 ### Thailand
@@ -114,4 +114,4 @@ Across Asia, psychoactive mushrooms follow predictable substrate patterns:
 - [[mushroom-species-guide]] — Detailed species profiles
 - [[mushroom-folklore-and-culture]] — Cultural use of mushrooms
 - [[jochen-gartz]] — Primary source researcher
-- [[john-allen]] — Southeast Asian mushroom researcher
+- [[john-w-allen]] — Southeast Asian mushroom researcher

@@ -52,7 +52,7 @@ sources:
 - Context bruises bluish to bluish-green when cut or handled
 
 ### [[spore]]s
-- Spore print dark purplish-brown
+- [[spore-print]] dark purplish-brown
 - Spores ellipsoid to subellipsoid
 - Wall moderately thick with a prominent germ pore
 - Size range approximately 10–13 × 6.5–8 µm

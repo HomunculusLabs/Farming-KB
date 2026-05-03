@@ -80,4 +80,4 @@ As a coprophilous fungus, *Panaeolus venenosus* plays an important role in nutri
 - [[psilocybin]] — primary psychoactive alkaloid
 - [[psilocin]] — active metabolite responsible for bluing reactions
 - [[baeocystin]] — secondary tryptamine alkaloid
-- [[john-allen]] — researcher who documented psychoactive fungi of the Pacific region
+- [[john-w-allen]] — researcher who documented psychoactive fungi of the Pacific region

@@ -13,7 +13,6 @@ sources:
 From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
 
 
-
 ## Pulsing Paradigm
 
 The pulsing paradigm describes how ecosystems alternate between rapid growth and accumulation phases. More surprising is the idea that river courses may be set by catastrophic flood events on an enormous scale, rather than by gradual, slow erosion. Under this model, the formation of a river is similar to what we can observe on a small scale with erosion gullies.
@@ -21,11 +20,9 @@ The pulsing paradigm describes how ecosystems alternate between rapid growth and
 Earthquakes in mountainous country result in multiple landslips, stream blockages and even lake formation -- another dramatic example of catastrophic land formation. Even the dust storm of 1983 that blanketed Melbourne in Victorian Mallee topsoil can move more soil than decades of normal wind erosion.
 
 
-
 ## Chaos Theory
 
 Chaos Theory has provided a general framework for understanding the role of change and stability across many scientific disciplines. It suggests that events (changes) are not randomly distributed in space or time, but occur in clusters. This clustering of events operates at multiple scales -- there are clusters within clusters.
-
 
 
 ## Fire as a Pulse in Australian Ecosystems
@@ -33,7 +30,6 @@ Chaos Theory has provided a general framework for understanding the role of chan
 Most Australian forests are adapted to periodic fire, which recycles nutrients, results in plant regeneration, and often provides a flush of nectar and seed. By reducing fuel levels, smaller fires reduce the likelihood of larger and potentially more damaging fires. There is evidence that frequent fires result in an ecological drift to more fire-prone vegetation.
 
 For any particular low-fertility ecosystem adapted to fire, a particular frequency and intensity will provide an optimal balance between system stimulation and stability. The pulse of fire provides the action and the benefits, but the long slow phase of plant growth is just as essential for system health.
-
 
 
 ## Pulsing Agricultural Ecosystems
@@ -45,13 +41,11 @@ Pasture ley cropping: The rotation of fertility-demanding annual crops with long
 Tropical slash and burn: The most evolved and sustainable example is the swidden agriculture of New Guinea. Small areas of rainforest are cleared, burnt and planted to a great mixture of perennial crops. In the New Guinea highlands before Europeans arrived, this system sustainably supported dense populations.
 
 
-
 ## Lessons for Permaculture Design
 
 The use of fire, grazing and cultivation to provide a pulse of high yield between longer phases of biological rebuilding can be recognised as strategic use of change against a background of catching and storing energy. The more difficult lesson is that the benefits from the pulse are dependent on the slow accumulation of the building phase; pulsing the system too frequently leads to a downward spiral of land degradation.
 
 [[permaculture-principle-creatively-use-and-respond-to-change]] | [[permaculture-principles]] | [[succession-in-permaculture]] | [[energy-descent-action-planning]] | [[permaculture-earthworks-guide]]
-
 
 
 ## Key Points
@@ -68,7 +62,6 @@ The use of fire, grazing and cultivation to provide a pulse of high yield betwee
 10. Real-world application of this principle has been demonstrated across diverse climates and contexts worldwide.
 
 
-
 ## Practical Applications
 
 - Conduct a thorough site analysis before design, mapping zones, sectors, soil, water, and existing vegetation.
@@ -79,7 +72,6 @@ The use of fire, grazing and cultivation to provide a pulse of high yield betwee
 - Create redundancy in critical systems to increase resilience against failure or disruption.
 - Incorporate small-scale, slow solutions that can be tested and adjusted before large investments.
 - Map and maximize edge effects between different ecosystems or landscape elements.
-
 
 
 ## See Also

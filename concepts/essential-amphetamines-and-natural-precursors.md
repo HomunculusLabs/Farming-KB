@@ -13,11 +13,9 @@ sources:
 **Updated:** 2026-04-18
 
 
-
 ## Overview
 
 PiHKAL documents a concept Shulgin called the "Ten Essential Amphetamines" -- a set of amphetamine compounds that can theoretically be synthesized from the ten essential oils of the spice and herb trade. This concept bridges natural product chemistry with psychedelic pharmacology, revealing how common botanical sources can yield psychoactive compounds.
-
 
 
 ## The Ten Essential Oils
@@ -34,7 +32,6 @@ The essential oils that serve as precursors contain allylbenzene or propenylbenz
 - **Asarone** -- precursor to TMA-2
 
 
-
 ## MMDA and the Nutmeg Connection
 
 The relationship between MMDA and myristicin is particularly instructive:
@@ -47,7 +44,6 @@ The relationship between MMDA and myristicin is particularly instructive:
 The 1960s rumor that "parsley could get you high" probably originated from reports of myristicin's presence and its relationship to MMDA.
 
 
-
 ## The Nutmeg Pharmacology Question
 
 Shulgin identified MMDA as "a material that might be a contributing factor to the pharmacology of nutmeg." The conversion pathway from myristicin to MMDA involves:
@@ -55,7 +51,6 @@ Shulgin identified MMDA as "a material that might be a contributing factor to th
 2. Oxidation to myristicinaldehyde (via tetranitromethane reaction)
 3. Condensation with nitroethane to form the nitrostyrene
 4. Reduction to MMDA
-
 
 
 ## Synthetic Routes from Essential Oils
@@ -70,17 +65,14 @@ The general pathway from essential oils to amphetamines involves:
 The nitrostyrene-to-aldehyde conversion also provides access to the corresponding phenethylamine (2-carbon chain) compounds.
 
 
-
 ## Natural vs Synthetic
 
 The "Essential Amphetamine" concept highlights the artificial boundary between "natural" and "synthetic" psychoactive compounds. MDA, one of the most important psychedelic amphetamines, can be derived directly from safrole in sassafras root bark. MMDA derives from nutmeg's myristicin. This challenges the common assumption that naturally occurring psychoactive substances are fundamentally different from their synthetic counterparts.
 
 
-
 ## Historical Context
 
 MDA was "humorously referred to as one of the Ten Essential Amphetamines" because safrole is one of the ten essential oils. The concept also underscores why many of these compounds became widely available before legal controls -- their precursors were common commercial chemicals derived from the spice trade.
-
 
 
 ## Related Topics

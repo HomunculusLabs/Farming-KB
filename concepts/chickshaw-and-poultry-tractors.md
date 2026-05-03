@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, livestock, forage, permaculture, homesteading, construction, design]
-sources: []
+sources:
+  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
 # chickshaw and poultry tractors

@@ -126,3 +126,4 @@ Performed during the active growing season when trees are in full leaf.
 - [[season-extension-techniques]] — Protecting blossoms from late frost
 - [[companion-planting-reference]] — Beneficial understory plantings beneath fruit trees
 - [[homesteading]] — [[orchard-management]] as part of homestead food production
+- [[query-how-do-i-prune-fruit-trees-naturally]]

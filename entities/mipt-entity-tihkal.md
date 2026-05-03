@@ -11,13 +11,11 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 TIHKAL entry #47. The simplest tryptamine with the "magical" methyl-isopropyl nitrogen substitution pattern that allows oral activity despite the presence of a methyl group (which normally makes tryptamines susceptible to rapid MAO destruction). Produces a mild, primarily cognitive psychedelic experience with minimal visual effects.
 
 
-
 ## Chemical Names
 
 - Tryptamine, N-isopropyl-N-methyl
 - Indole, 3-[2-(isopropylmethylamino)ethyl]
 - N-Isopropyl-N-methyltryptamine
-
 
 
 ## Dosage
@@ -28,11 +26,9 @@ TIHKAL entry #47. The simplest tryptamine with the "magical" methyl-isopropyl ni
 | Insufflation | 20 mg |
 
 
-
 ## Duration
 
 3–4 hours
-
 
 
 ## Qualitative Comments
@@ -43,7 +39,6 @@ TIHKAL entry #47. The simplest tryptamine with the "magical" methyl-isopropyl ni
 - **20 mg, orally**: "My handwriting is shot. There are almost no visuals, so why am I at a plus two? I feel very alert. Tried to sleep and ended up talking for quite a while instead. The overall experience can best be described as 'mild'."
 - **25 mg, orally**: "Quite an active dose. Same initial effects as with 10 milligrams, but considerably more excitement, central stimulation. At an hour, the effects seem to have plateaued. Enhancement of visual field, i.e., brightened colors, clearly defined objects. Definite auditory effects, and I can pick out each sound with clear definition. Very 'heady,' but still remarkably free of visual distortion. Slight mydriasis. As it subsides, there is some muscle tension in the jaws, but much milder than with MDA or even psilocin."
 - **20 mg, insufflation**: "Immediate onset (less than a minute) and to ++. A little dizziness. Everything looked brighter, and vision was tinted orange. Everything appeared as if under an orange overlay. No other visual changes to speak of. Skin, hearing, sensitive. The effects on thought were more typically psychedelic — the spin-offs, tangents, and implications of different threads of thought became apparent, and I could watch them unfold with my mind's eye. This compound seems to emphasize 'psychedelic' effects over 'hallucinogenic' effects."
-
 
 
 ## Extensions and Commentary
@@ -67,18 +62,15 @@ Many free-base tryptamines are sensitive to air oxidation, some extremely so. MI
 There is almost a total lack of visual phenomena — no wave-forms, color distortion or object shape changes, and no eyes-closed imagery, unlike most N,N-disubstituted tryptamines. The experience is primarily cognitive: alertness, enhanced thought associations, and mild central stimulation. Insufflation produces a faster onset with a characteristic orange visual tint.
 
 
-
 ## Physical Properties
 
 - Free base mp: 82–83 °C
 - MS (m/z): C5H12N+ 86 (100%); indolemethylene+ 130 (10%); parent ion 216 (2%)
 
 
-
 ## Pharmacological Notes
 
 The oral activity of MIPT is pharmacologically significant because it demonstrates that N-alkyl substitution with at least one branched group (isopropyl) confers sufficient protection from MAO degradation. This pattern holds across the tryptamine family: compounds with two small groups (DMT, DET) are inactive orally unless combined with an MAOI, while those with at least one branched alkyl group (MIPT, DIPT, 5-MeO-MIPT) readily cross into the CNS without enzyme inhibition. The combination of oral activity with a primarily cognitive rather than visual profile makes MIPT an interesting reference compound for understanding structure-activity relationships in psychedelic tryptamines.
-
 
 
 ## See Also
@@ -87,7 +79,6 @@ The oral activity of MIPT is pharmacologically significant because it demonstrat
 - [[5-meo-mipt-entity-tihkal]] — the 5-methoxy analogue, considerably more potent
 - [[dipt-entity-tihkal]] — N,N-diisopropyl, primarily auditory effects
 - [[5-meo-dipt-entity-tihkal]] — another orally active isopropyl tryptamine
-
 
 
 ## Comparison to Other Orally Active Tryptamines

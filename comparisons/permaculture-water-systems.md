@@ -97,3 +97,4 @@ Start with rainwater harvesting (tanks) and graywater reuse (branched drain to m
 - [[drip-irrigation-guide]] — System design, emitter sizing, scheduling
 - [[homestead-water-systems]] — Complete water sourcing, storage, and distribution
 - [[permaculture-design-methods]] — Water management in the broader design process
+- [[query-how-do-i-save-water-in-a-vegetable-garden]]

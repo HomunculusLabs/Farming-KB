@@ -123,3 +123,4 @@ Straw bale building codes exist in several jurisdictions and can guide design:
 - [[earth-plaster-and-natural-finishes]] for appropriate breathable plaster systems
 - [[timber-frame-basics]] for structural frame options in post-and-beam construction
 - [[rocket-mass-heater-design]]
+- [[how-do-i-choose-between-straw-bale-and-earthbag-construction]]

@@ -12,7 +12,7 @@ sources: []
 Alley cropping is an agroforestry pattern where annual crops, forage, or perennials grow in strips between rows of trees or shrubs.
 Use it when you want production, fertility, shelter, fodder, mulch, habitat, or microclimate benefits from woody plants without converting the whole field into forest.
 The design sits between open-field cropping and full forest garden systems, so it needs careful spacing, pruning, and equipment access.
-Existing pages such as [[agroforestry-and-alley-cropping]], [[leucaena-alley-cropping-systems]], and [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] show how the pattern changes by climate and crop.
+Existing pages such as [[query-what-is-agroforestry-and-how-can-i-start]], [[leucaena-alley-cropping-systems]], and [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] show how the pattern changes by climate and crop.
 Alley cropping is most useful where the tree row has a clear job and where competition for light, water, and roots is actively managed.
 
 ## Detailed Explanation
@@ -22,7 +22,7 @@ Alley cropping is most useful where the tree row has a clear job and where compe
 Alley cropping places woody rows and crop alleys in a repeating field pattern.
 The woody rows may be nitrogen-fixing trees, coppice shrubs, fruit trees, fodder banks, hedgerows, or timber species.
 The alleys may hold vegetables, grains, pasture, medicinal herbs, or cover crops.
-[[agroforestry-and-alley-cropping]] describes the pattern as a way to combine agricultural and tree functions on the same land.
+[[query-what-is-agroforestry-and-how-can-i-start]] describes the pattern as a way to combine agricultural and tree functions on the same land.
 The system works because the tree rows modify the field instead of replacing it.
 Rows can reduce wind, add biomass, feed soil organisms, support pollinators, and create vertical structure.
 The challenge is to keep those benefits larger than the competition costs.
@@ -81,7 +81,7 @@ Expect a transition period before the tree rows fully repay their establishment 
 
 Alley cropping is related to hedgerows, windbreaks, food forests, and silvopasture, but each pattern has a different center of gravity.
 [[hedgerow-planting]] focuses more on boundary, habitat, and edge functions.
-[[windbreaks-hedgerows-and-shelterbelts]] focuses on wind reduction and shelter.
+[[hedgerow-planting]] focuses on wind reduction and shelter.
 [[query-what-is-silvopasture-and-how-does-it-work]] focuses on combining trees with livestock and forage.
 [[query-what-is-agroforestry-and-how-can-i-start]] gives the broader category that alley cropping belongs to.
 Alley cropping remains crop-centered, even when the tree row has valuable secondary yields.
@@ -98,13 +98,13 @@ Planting slower and learning faster usually beats planting a permanent mistake.
 Good alley cropping is adaptive management with trees.
 
 ## Key Points
-- [[agroforestry-and-alley-cropping]] explains the overall pattern and why it belongs in agroforestry.
+- [[query-what-is-agroforestry-and-how-can-i-start]] explains the overall pattern and why it belongs in agroforestry.
 - [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] connects alley rows with slope, erosion, and water management.
 - [[leucaena-alley-cropping-systems]] is a useful tropical example of nitrogen, fodder, and pruning integration.
 - [[leucaena-alley-cropping-tropical-forage]] shows how livestock feed can be part of the design.
 - [[comparison-alley-cropping-vs-silvopasture]] helps decide whether the alley should prioritize crops or animals.
 - [[hedgerow-planting]] is related but usually emphasizes edge and habitat more than field production.
-- [[windbreaks-hedgerows-and-shelterbelts]] is useful when shelter is the main goal.
+- [[hedgerow-planting]] is useful when shelter is the main goal.
 - Start small because row spacing, shade, and labor are hard to change after trees mature.
 - Choose tree rows by function, not by trend.
 - Plan pruning, access, and harvest before planting.

@@ -125,3 +125,4 @@ Climate change is altering fungal communities worldwide:
 ## Related
 
 - [[fungi-in-space-research]]
+- [[thermohaline-circulation]]

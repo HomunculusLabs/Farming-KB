@@ -13,7 +13,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-b
 
 ## Taxonomy and Classification
 
-*Psilocybe kumaenorum* was described from specimens collected in Papua New Guinea. The species epithet derives from the Kuma people, an indigenous group from the Highland region of Papua New Guinea, reflecting the ethnomycological context of its discovery. It belongs to the family Hymenogastraceae, order Agaricales. The species was documented as part of mycological surveys conducted in the Pacific Islands and Melanesia, where researchers including [[john-allen]] catalogued the psychoactive mushroom flora of the region. The species has not been included in recent molecular phylogenetic studies of the genus Psilocybe, meaning its placement within the broader phylogeny remains uncertain. It may belong to the same clade as other tropical and subtropical species like *P. cubensis* and *P. subcubensis*, but molecular confirmation is needed.
+*Psilocybe kumaenorum* was described from specimens collected in Papua New Guinea. The species epithet derives from the Kuma people, an indigenous group from the Highland region of Papua New Guinea, reflecting the ethnomycological context of its discovery. It belongs to the family Hymenogastraceae, order Agaricales. The species was documented as part of mycological surveys conducted in the Pacific Islands and Melanesia, where researchers including [[john-w-allen]] catalogued the psychoactive mushroom flora of the region. The species has not been included in recent molecular phylogenetic studies of the genus Psilocybe, meaning its placement within the broader phylogeny remains uncertain. It may belong to the same clade as other tropical and subtropical species like *P. cubensis* and *P. subcubensis*, but molecular confirmation is needed.
 
 ## Morphology
 
@@ -91,7 +91,7 @@ While specific seasonal data for *P. kumaenorum* are not well documented, the tr
 - [[gymnopilus-purpuratus]] — another psychoactive genus found in the Australasian region
 - [[psilocybe-cubensis]] — the most widely distributed tropical psychoactive mushroom
 - [[psilocybe-samuiensis]] — tropical species from Southeast Asia with overlapping range
-- [[john-allen]] — researcher who documented psychoactive fungi of the Pacific region
+- [[john-w-allen]] — researcher who documented psychoactive fungi of the Pacific region
 - [[psilocybe-eucalypta]] — Australian wood-inhabiting psychoactive species
 - [[galerina-marginata]] — deadly lookalike containing amatoxins
 - [[baeocystin]] — secondary alkaloid found in related Psilocybe species

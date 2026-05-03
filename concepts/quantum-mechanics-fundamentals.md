@@ -147,3 +147,4 @@ expansions for Hermitian operators.
 - [[stereochemistry-and-chirality]]
 
 - [[semiconductor-physics-and-devices]]
+- [[quantum-error-correction]]

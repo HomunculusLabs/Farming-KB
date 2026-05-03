@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cultivation, mycology]
-sources: []
+sources:
+  - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
 **Source:** Mycelium Running (Paul Stamets, Ch. 7) | **Updated:** 2026-04-18

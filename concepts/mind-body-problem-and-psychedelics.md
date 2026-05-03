@@ -92,7 +92,7 @@ Despite the problems with Cartesian dualism, some version of dualism or property
 
 The qualitative character of conscious experience, what philosophers call qualia, seems fundamentally different from the quantitative descriptions of physics and chemistry.
 
-The redness of red, the painfulness of pain, the bliss of a mystical experience: these subjective qualities do not obviously reduce to the firing of neurons, however precisely those firings may be described.
+The redness of red, the painfulness of pain, the bliss of a [[mystical-experience]]: these subjective qualities do not obviously reduce to the firing of neurons, however precisely those firings may be described.
 
 Psychedelics intensify this intuition by producing qualia of extraordinary vividness and complexity that seem to exceed what can be explained by simple perturbations of neural circuitry.
 

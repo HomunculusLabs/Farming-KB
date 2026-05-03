@@ -4,7 +4,8 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 # Energy-Efficient House Design
 

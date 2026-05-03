@@ -140,3 +140,4 @@ nature of life.
 - [[marcel-vogel-plant-communication]]
 - [[jagadis-chandra-bose-plant-research]]
 - [[plants-and-electromagnetism]]
+- [[piezoelectric-materials-and-transducers]]

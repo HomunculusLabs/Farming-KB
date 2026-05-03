@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 Updated: 2026-04-18

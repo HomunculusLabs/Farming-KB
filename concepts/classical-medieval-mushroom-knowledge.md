@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 # Classical and Medieval Mushroom Knowledge — Much Disordered

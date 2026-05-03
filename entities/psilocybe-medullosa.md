@@ -18,14 +18,12 @@ sources:
 **Psilocybe medullosa** is a rare, little-known species of [[psilocybin]]-containing mushroom in the family Hymenogastraceae. It was originally described from European collections and is one of the more obscure members of the genus.
 
 
-
 ## Taxonomy
 
 - **Order:** Agaricales
 - **Family:** Hymenogastraceae
 - **Genus:** Psilocybe
 - **Authority:** Originally placed in Psilocybe; taxonomic placement has been debated over time due to its atypical morphology.
-
 
 
 ## Description
@@ -51,11 +49,9 @@ sources:
 - Smooth to finely roughened ornamentation
 
 
-
 ## Distribution and Habitat
 
 Psilocybe medullosa has been reported from European locales, typically in temperate forest environments. It is a saprotrophic species found on decaying plant material, rich soil, and occasionally in association with forest floor litter. The species is considered rare with very few confirmed collections.
-
 
 
 ## Chemistry
@@ -63,11 +59,9 @@ Psilocybe medullosa has been reported from European locales, typically in temper
 Like other Psilocybe species, P. medullosa is presumed to contain psilocybin and [[psilocin]] as its primary psychoactive alkaloids, though quantitative analysis data is extremely limited due to the rarity of collections. Bluish bruising on the stipe suggests the presence of psilocybin/psilocin compounds.
 
 
-
 ## Similar Species
 
 May be confused with other brown-capped Psilocybe species such as P. fuscoflocculosa or non-psychoactive members of related genera. Microscopic examination of spore morphology and cheilocystidia is typically required for confident identification.
-
 
 
 ## Notes
@@ -75,17 +69,14 @@ May be confused with other brown-capped Psilocybe species such as P. fuscofloccu
 Due to its extreme rarity in field collections, P. medullosa remains poorly characterized. It is not a species commonly encountered by foragers and is primarily of mycological interest. More collections and modern molecular analysis would help clarify its taxonomic placement and relationships within the genus.
 
 
-
 ## Microscopic Features
 
 Detailed microscopic analysis of P. medullosa specimens reveals cheilocystidia that are ventricose to lageniform (flask-shaped) with narrow necks, a characteristic shared with many Psilocybe species. The pleurocystidia are less common and similar in morphology. Basidia are typically four-spored and clavate. The spore wall ornamentation, visible under scanning electron microscopy, shows fine surface markings that may aid in distinguishing this species from close relatives.
 
 
-
 ## Conservation Status
 
 As a rarely collected European species, P. medullosa has not been formally assessed for conservation status. Like many saprotrophic fungi, its distribution is likely underreported due to its inconspicuous appearance and the difficulty of distinguishing it from more common brown-capped species without microscopic examination. Habitat loss through deforestation and land-use changes across temperate Europe may threaten populations, though data is insufficient to evaluate this.
-
 
 
 ## See Also

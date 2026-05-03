@@ -141,8 +141,8 @@ Giurgea's criteria help sort these claims by mechanism, benefit, and safety.
 ## See Also
 
 - [[nootropic-herbs-guide]]
-- [[piracetam]]
+- piracetam
 - [[bacopa-monnieri]]
 - [[hericium-erinaceus]]
-- [[ginkgo-biloba]]
-- [[cognitive-enhancement]]
+- Ginkgo biloba
+- cognitive enhancement

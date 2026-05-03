@@ -120,3 +120,4 @@ Scepticism and resistance to dogma are just as important in a descent culture as
 ## Related
 
 - [[mollison-social-and-economic-design]]
+- [[phase-change-materials-thermal-energy-storage]]

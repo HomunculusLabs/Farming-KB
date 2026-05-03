@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 **Cordyceps militaris** (coneurotropic-fungihe scarlet caterpillar club) is an entomopathogenic
 fungus in the family Clavicipitaceae that parasitizes the pupae and larvae of Lepidoptera
 (butterflies and moths). Along with [[cordyceps-sinensis]], it is oneindoleo Cordyceps
-species included in the third group of neurotropic fungi classified by Guzmán, Allen, and Gartz
+species included in the third group of [[neurotropic-fungi]] classified by Guzmán, Allen, and Gartz
 (2000). Unlike many [[psilocybin]]-containing mushrooms, its bioactive profile is dominated by
 cordycepin (3'-deoxyadenosine) and other nucleoside derivatives rather than indole alkaloids.
 

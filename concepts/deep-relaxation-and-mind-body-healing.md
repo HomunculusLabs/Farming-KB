@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
 # Deep Relaxation and Mind-Body Healing

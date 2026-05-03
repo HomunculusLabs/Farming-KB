@@ -108,3 +108,4 @@ In desert applications, the pellets serve an even more critical function: they k
 - [[natural-farming-desert-reclamation]] -- large-scale application
 - [[natural-farming-seed-balls]] -- broader seed ball context
 - [[fukuoka-seed-ball-one-seed-technique]]
+- [[query-how-do-clay-seed-balls-work-for-natural-farming]]

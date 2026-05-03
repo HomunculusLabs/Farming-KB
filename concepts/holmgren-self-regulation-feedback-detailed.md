@@ -12,7 +12,6 @@ sources:
 From "Permaculture: Principles and Pathways Beyond Sustainability" by David Holmgren.
 
 
-
 ## Core Definition
 
 This principle deals with self-regulatory aspects of Permaculture design that limit or discourage inappropriate growth or behaviour. With better understanding of how positive and negative feedbacks work in nature, we can design systems that are more self-regulating, thus reducing the work involved in repeated and harsh corrective management.
@@ -20,11 +19,9 @@ This principle deals with self-regulatory aspects of Permaculture design that li
 Positive feedback is an accelerator that pushes the system towards freely available energy. Negative feedback is the brake that prevents the system falling into holes of scarcity and instability from overuse or misuse of energy. Organisms adapt to the negative feedback from large-scale systems by developing self-regulation to pre-empt the harsher consequence of external negative feedback.
 
 
-
 ## The Gaia Hypothesis
 
 The Gaia hypothesis of the earth as a self-regulating system makes the whole earth a suitable image for this principle. Scientific evidence of the Earth's remarkable homeostasis over hundreds of millions of years highlights the earth as the archetypical self-regulating whole system, which stimulated the evolution and nurtures the continuity of its constituent lifeforms.
-
 
 
 ## Nurture and Control in Nature
@@ -34,13 +31,11 @@ Ecosystems provide for the survival and health of their member species by mainta
 There is an inherent design tension between autonomy and higher-order system control. Cells within an organism that grow and reproduce without control can be fatal -- we call this cancer. Similarly, at all levels of nature, the larger system controls its constituent parts for the good of that system.
 
 
-
 ## Self-Regulation in Practice
 
 One of the most important evolutionary responses of organisms to higher-order control is to develop internal self-regulation mechanisms. For example, in a dam or pond the growth of fish and crustaceans is suppressed by their own wastes, decreasing the likelihood of disease or starvation.
 
 Traditional societies had social and ethical constraints on population growth and resource use, which allowed communities to persist over long periods without destroying the environment.
-
 
 
 ## Tripartite Altruism
@@ -50,7 +45,6 @@ Howard Odum described a "tripartite altruism" in nature: approximately one-third
 I believe these self-controlling aspects of human culture, rather than the expansion of technology for resource exploitation and growth, represent the highest evolutionary development achieved by Homo sapiens.
 
 [[permaculture-principle-apply-self-regulation]] | [[permaculture-principles]] | [[natural-intelligence]] | [[complexity-and-connections]] | [[permaculture-earthworks-guide]]
-
 
 
 ## Key Points
@@ -67,7 +61,6 @@ I believe these self-controlling aspects of human culture, rather than the expan
 10. Real-world application of this principle has been demonstrated across diverse climates and contexts worldwide.
 
 
-
 ## Practical Applications
 
 - Conduct a thorough site analysis before design, mapping zones, sectors, soil, water, and existing vegetation.
@@ -78,7 +71,6 @@ I believe these self-controlling aspects of human culture, rather than the expan
 - Create redundancy in critical systems to increase resilience against failure or disruption.
 - Incorporate small-scale, slow solutions that can be tested and adjusted before large investments.
 - Map and maximize edge effects between different ecosystems or landscape elements.
-
 
 
 ## See Also

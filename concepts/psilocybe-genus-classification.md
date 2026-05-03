@@ -23,7 +23,7 @@ sources:
 
 # Psilocybe Genus Classification
 
-Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-allen]]. See also [[psilocybin-mushroom-chemistry]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
+Taxonomic classification of the genus Psilocybe, including sections, species groups, and related psychoactive genera. Based on the work of [[gaston-guzman]] (2000 monograph), [[jochen-gartz]], and [[john-w-allen]]. See also [[psilocybin-mushroom-chemistry]] for geographical distribution and [[psilocybin-mushroom-chemistry]] for chemical profiles.
 
 ## Genus Overview
 

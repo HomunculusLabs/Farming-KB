@@ -12,13 +12,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
 Lobeline is a piperidine alkaloid found primarily in plants of the genus *Lobelia* (family Campanulaceae, formerly Lobeliaceae). It is the principal bioactive compound of *Lobelia inflata* (Indian tobacco) and has a long history of medicinal use as a respiratory stimulant, expectorant, and, more recently, as an investigational agent for nicotine addiction treatment. Its presence in *Lobelia tupa*, a psychoactive plant discussed in ethnobotanical literature, gives it additional relevance to the study of psychoactive plant constituents.
 
 
-
 ## Chemical Structure and Properties
 
 Lobeline (2,6-dimethoxy-N-methylpiperidine-2-phenyl-1-one) has the molecular formula C22H27NO2 and a molecular weight of 337.46 g/mol. It is a crystalline solid at room temperature and is soluble in organic solvents including ethanol, chloroform, and ether, but poorly soluble in water.
 
 The structure of lobeline features a piperidine ring system with two methoxy substituents and a phenyl group attached to a ketone-containing side chain. This structural motif places it within the piperidine alkaloid class, though its pharmacological profile is distinct from many other members of this class.
-
 
 
 ## Natural Sources
@@ -30,7 +28,6 @@ Lobeline is found predominantly in species of the genus *Lobelia*, particularly:
 - ***Lobelia nicotianaefolia***: An Asian species also reported to contain lobeline alkaloids.
 
 The alkaloid content varies with plant part, growing conditions, and developmental stage. The above-ground parts harvested during flowering typically contain the highest concentrations.
-
 
 
 ## Pharmacology
@@ -58,7 +55,6 @@ At therapeutic doses, lobeline acts as a respiratory stimulant, increasing the r
 Lobeline also exhibits anti-inflammatory, neuroprotective, and antioxidant properties in preclinical studies. It has been investigated for potential applications in neurodegenerative diseases, attention deficit hyperactivity disorder (ADHD), and drug abuse treatment.
 
 
-
 ## Traditional and Historical Use
 
 The medicinal use of *Lobelia inflata* (Indian tobacco) by Native American peoples predates European contact. Indigenous communities used the plant as a treatment for respiratory ailments, muscle disorders, and as an emetic. The common name "Indian tobacco" reflects both the plant's use in smoking mixtures and its resemblance to nicotine in its physiological effects.
@@ -66,7 +62,6 @@ The medicinal use of *Lobelia inflata* (Indian tobacco) by Native American peopl
 European settlers adopted *Lobelia* in the cuthill [[mushroom-cultivation]], and it became an important remedy in the Thomsonian and Eclectic medical systems. Samuel Thomson regarded *Lobelia* as one of the most valuable and medicinal plants and used it extensively in his practice.
 
 *Lobelia tupa*, the Andean species, has been used by the Mapuche people of Chile as a ceremonial and medicinal plant preparations. The dried leaves are sometimes smoked or prepared as infusions for their psychoactive and respiratory effects. Schultes and Hofmann discuss *L. tupa* in *Plants of the Gods* as an example of a lesser-known psychoactive Lobelia species.
-
 
 
 ## Modern Clinical Applications
@@ -80,11 +75,9 @@ Lobeline has been investigated as an aid to smoking cessation, though clinical t
 Lobeline continues to appear in some herbal formulations for respiratory conditions, including asthma, bronchitis, and cough. However, its use in mainstream medicine has declined significantly.
 
 
-
 ## Toxicity
 
 Lobeline has a relatively narrow therapeutic index. At doses exceeding therapeutic ranges, it can produce nausea, vomiting, dizziness, tremor, anxiety, tachycardia, and hypertension. Severe poisoning can result in convulsions, respiratory failure, and death.
-
 
 
 ## Related Compounds

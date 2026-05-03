@@ -13,13 +13,11 @@ sources:
 [[toby-hemenway]]'s comprehensive guide to choosing and using cover crops for [[building-soil]] fertility, structure, and biodiversity. From Gaia's Garden, Chapter 4.
 
 
-
 ## Why Cover Crops
 
 Cover crops are plants grown primarily to benefit the soil rather than for harvest. Their roles include:
 
 - Buil
-
 
 
 ## Practical Context
@@ -30,14 +28,12 @@ conditions make it stronger or weaker, and how it changes decisions in the
 field.
 
 
-
 ## Field Indicators
 Look for repeated patterns across seasons instead of relying on a single
 observation. Useful indicators include substrate or soil condition, moisture
 availability, disturbance history, plant or fungal associates, and the timing
 of visible changes. Recording these factors makes the page easier to connect
 to local trials and future notes.
-
 
 
 ## Management Relevance
@@ -48,7 +44,6 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 
-
 ## Related Topics
 - [[cover-crops]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
@@ -57,11 +52,9 @@ changes.
 - [[teaming-with-microbes-cover-crops-soil-health]]
 
 
-
 ## Notes for Further Development
 - Add local observations when available.
 - Add source-specific details when a matching source is identified.
-
 
 
 ## Practical Context
@@ -72,7 +65,6 @@ comes from matching the technique or organism to site conditions rather
 than treating it as an isolated recipe.
 
 
-
 ## Field Assessment
 
 Useful assessment starts with climate, substrate or soil conditions,
@@ -81,14 +73,12 @@ should be repeated across seasons because moisture, temperature, and
 management history often determine whether an approach succeeds.
 
 
-
 ## Management Considerations
 
 Small trials are safer than whole-system changes. Record inputs,
 timing, yields, failures, and labor requirements so the method can be
 adapted to local constraints. Avoid interventions that create dependence
 on scarce inputs when a simpler ecological substitute is available.
-
 
 
 ## Related Topics

@@ -4,7 +4,8 @@ created: 2026-04-28
 updated: 2026-05-02
 type: concept
 tags: [nutrients, plant-care, foliar]
-sources: []
+sources:
+  - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
 ## How It Works

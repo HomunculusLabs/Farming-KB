@@ -16,11 +16,9 @@ sources:
 # Psilocybe phyllogena
 
 
-
 ## Overview
 
 **Psilocybe phyllogena** is a temperate, wood-inhabiting mushroom in the family Hymenogastraceae. It was one of the species analyzed in Bigwood and Beug's landmark 1992 study on the variation of psilocybin and psilocin levels across Psilocybe species. *P. phyllogena* is a relatively obscure member of the genus, known from forested habitats in North America.
-
 
 
 ## Taxonomy and Classification
@@ -33,7 +31,6 @@ sources:
 The species epithet *phyllogena* is derived from Greek *phyllon* (leaf) and *genos* (born of or on), suggesting an association with leaf litter or forest floor environments. Some mycological authorities have questioned whether *P. phyllogena* warrants species-level distinction or may represent a variant or synonym of other closely related taxa within the genus.
 
 
-
 ## Morphology
 
 - **Cap (Pileus):** Small, ranging from 5 to 25 mm in diameter. Conic to convex when young, often becoming broadly convex or slightly umbonate with maturity. Surface is smooth, hygrophanous, and typically brown to reddish brown when moist, fading to a pale tan or ochraceous color upon drying.
@@ -42,7 +39,6 @@ The species epithet *phyllogena* is derived from Greek *phyllon* (leaf) and *gen
 - **Spore Print:** Dark purplish brown to nearly black.
 - **Spores:** Ellipsoidal, smooth-walled, with a distinct germ pore. Spore dimensions typically fall within the range of 10 to 14 μm by 6 to 8 μm.
 - **Microscopic Features:** Cheilocystidia are ventricose to lageniform; pleurocystidia are less commonly observed but when present are similar in morphology to the cheilocystidia.
-
 
 
 ## Habitat and Distribution
@@ -56,7 +52,6 @@ The species epithet *phyllogena* is derived from Greek *phyllon* (leaf) and *gen
 The species has been reported primarily from the Pacific Northwest of North America, including British Columbia, Washington, and Oregon. It fruits in autumn and early winter, often following sustained periods of rainfall. Its distribution may be wider than currently documented, as small brown Psilocybe species in forest litter are frequently overlooked.
 
 
-
 ## Chemistry and Psychoactivity
 
 *P. phyllogena* was analyzed by Bigwood and Beug (1992) as part of their broad survey of psilocybin and psilocin concentrations:
@@ -68,7 +63,6 @@ The species has been reported primarily from the Pacific Northwest of North Amer
 The relatively low alkaloid content suggests that *P. phyllogena* is unlikely to produce significant psychoactive effects even in large quantities. This is consistent with its general obscurity and lack of documentation in ethnobotanical literature.
 
 
-
 ## Similar Species
 
 - **[[psilocybe-silvatica]]** — A closely related wood-inhabiting species with somewhat higher reported alkaloid content
@@ -77,17 +71,14 @@ The relatively low alkaloid content suggests that *P. phyllogena* is unlikely to
 - **[[psilocybe-montana]]** — Widespread temperate species, generally considered inactive
 
 
-
 ## Ethnobotanical and Legal Status
 
 There are no documented traditional, ceremonial, or recreational uses of *P. phyllogena*. The species has never been identified as a target for foraging by psychoactive mushroom enthusiasts due to its low potency and inconspicuous appearance. In jurisdictions that control psilocybin-containing mushrooms broadly, it may fall under legal restrictions, though enforcement is unlikely given its negligible activity.
 
 
-
 ## Cultivation
 
 No established cultivation methods exist for *P. phyllogena*. As a wood-inhabiting species, it would likely require sterilized wood-based substrates such as supplemented sawdust or hardwood chips. Interest in cultivation has been essentially nonexistent given the species' low psychoactive alkaloid content.
-
 
 
 ## References

@@ -19,7 +19,7 @@ are unique to these regions.
 
 ### [[psilocybe-samuiensis]]
 
-First reported by [[john-allen]] from the island of Koh Samui, Thailand. Grows in
+First reported by [[john-w-allen]] from the island of Koh Samui, Thailand. Grows in
 well-manured, claylike soils in pastures, meadows, or amongst rice paddies.
 First found in early August. P. samuiensis is strikingly similar to the
 [[stamets-mushrooms-world-semilanceata]] and

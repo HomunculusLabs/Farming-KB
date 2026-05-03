@@ -12,11 +12,9 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 Settlement design in permaculture extends from individual house placement to village-scale planning. Mollison treats the village or dwelling as the origin (Zone 0) from which all design radiates outward. The goal is regional and village self-reliance.
 
 
-
 ## Zone 0 as Design Origin
 
 In zonation, the village or dwelling itself is Zone 0 -- the origin from which we work. The available energy in Zone 0 is human, animal, piped-in, or created on site. To conserve energy, work, and time, components are placed in concentric zones of decreasing management intensity.
-
 
 
 ## Settlement Siting for Cool Climates
@@ -33,7 +31,6 @@ Settlement site choice and surrounding plantings provide about 70% of heat energ
 - Sites off radioactive or radio-emitting rocks where possible
 
 
-
 ## Village Complex Elements
 
 Mollison outlines the elements of a village complex including:
@@ -48,7 +45,6 @@ Mollison outlines the elements of a village complex including:
 - Small business support services
 
 
-
 ## Village Economics and Livelihoods
 
 A village of about 50 households can support 20+ enterprises:
@@ -61,11 +57,9 @@ A village of about 50 households can support 20+ enterprises:
 The long-term aim is for the village to own and operate its own employment enterprises. Job-sharing should be the rule, so individuals have occupational shares in 2-3 enterprises.
 
 
-
 ## Trust and Land Tenure
 
 Mollison proposes village trust structures where 30% of land titles are vested in a village trust. When all titles sell, the monies generated ensure a large interest yield annually for village development -- building fences, terraces, schools, workshops, and alternative energy systems.
-
 
 
 ## Technology Criteria
@@ -79,11 +73,9 @@ For any technology adopted in a permaculture settlement:
 Technologies that lay waste to soil, water, or air must be rejected as the "economics of extinction."
 
 
-
 ## Community Recycling
 
 The Devonport (Auckland) model demonstrates total solid waste recycling returning cash benefits to households through separated waste collection, community woodwork centres, windrow composting, and community gardens built on clean fill "ziggurats."
-
 
 
 ## Related Concepts

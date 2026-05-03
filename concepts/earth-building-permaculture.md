@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 
 # Earth Building in Permaculture
