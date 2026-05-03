@@ -11,9 +11,13 @@ sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 
 Grain spawn is the primary inoculum used in mushroom cultivation, consisting of cereal grain fully colonized by mushroom mycelium. Each individual kernel becomes a point from which mycelium can spread, making grain spawn the most efficient medium for expanding mycelial mass.
 
+
+
 ## History
 
 During the 1800s, Agaricus growers obtained spawn by gathering concentrations of mycelium from natural habitats ("virgin spawn"), supplemented with horse manure. With the advent of pure culture techniques, propagation by spore germination or tissue cloning completely superseded virgin spawn. In 1932, Dr. James Sinden patented a new spawn-making process using cereal grain as the mycelial carrier, setting the standard for modern [[spawn-production]].
+
+
 
 ## Cereal Grains for Spawn
 
@@ -29,11 +33,15 @@ During the 1800s, Agaricus growers obtained spawn by gathering concentrations of
 
 **Rye** is the preferred grain for most spawn makers due to its availability, low cost, and ability to separate into individual kernels. A liter of rye grain spawn contains approximately 25,000 kernels, each an inoculation point.
 
+
+
 ## Moisture Content
 
 The optimum moisture content for grain spawn is 49-54%. Commercial rye grain is approximately 11% water by mass. To determine precise moisture: weigh a 100-gram sample, dry in an oven (250 F for 3 hours), subtract the new weight. The resultant figure is the percentage of moisture naturally bound within the grain.
 
 Excessive water favors bacterial growth, causes kernels to explode during [[sterilization]], and makes colonized grain difficult to break apart. Balanced moisture content ensures spawn breaks easily into individual mycelium-covered kernels.
+
+
 
 ## Spawn Formulas
 
@@ -42,11 +50,15 @@ For **1/2 gallon jars**: 3 cups rye grain + 1 3/4 cups water
 
 Chalk (CaCO3) and gypsum (CaSO4) can be added at 1-3 parts per 100 parts grain (dry weight), ratio 1:4 chalk to gypsum. When using calcium buffers, add 10% more water.
 
+
+
 ## Sterilization
 
 Sterilize grain spawn at 15 psi for a minimum of 1 hour. A single gram of commercial rye contains an estimated 50,000-100,000 bacteria, 200,000+ actinomycetes, 12,000 fungi, and many yeasts. A full hour at 15 psi is necessary to ensure steam penetrates the small air pockets and structural cavities in the grain. Do not exceed 250 F or the sugar will caramelize, inhibiting mycelial growth and promoting mutations.
 
 At higher altitudes, increase pressure proportionally (e.g., at 5,000 feet, use 20 psi instead of 15 psi).
+
+
 
 ## Inoculation
 
@@ -67,6 +79,8 @@ At higher altitudes, increase pressure proportionally (e.g., at 5,000 feet, use 
 6. Incubate; grain should be fully colonized in 7-10 days
 
 Generational expansion: 1 petri dish can inoculate 10 G-1 jars, which can inoculate 100 G-2 jars, which can inoculate 1000 G-3 jars. Transfers beyond the third generation are not recommended.
+
+
 
 ## See Also
 

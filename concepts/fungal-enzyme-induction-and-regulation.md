@@ -111,6 +111,8 @@ Understanding enzyme induction and regulation is therefore central to predicting
 
 ## Related
 
+- [[electromagnetic-induction-faraday-law]]
+
 - [[international-transport-regulation-fungal-cultures]] Concepts
 
 - [[fungal-saprotrophic-enzymatic-strategies]]

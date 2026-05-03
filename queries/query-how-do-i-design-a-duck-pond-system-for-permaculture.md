@@ -114,6 +114,8 @@ harvesting fast-growing aquatic plants to maintain open water surface area.
 - Secure fencing, buried wire, floating cover, and a locked night shelter are
   essential for predator protection around any duck pond installation
 
-## Related Questions
+## Related
+
+- [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] Questions
 - [[permaculture-aquaculture]]
 - [[permaculture-duck-pond-systems]]

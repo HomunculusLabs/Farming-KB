@@ -10,9 +10,15 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #104. CYCLOPROPYLMETHYL-MDA;.
 
+
+
+
 ## Chemical Name
 
 CYCLOPROPYLMETHYL-MDA;
+
+
+
 
 ## Dosage and Duration
 
@@ -21,9 +27,15 @@ CYCLOPROPYLMETHYL-MDA;
 | Dosage | greater than 10 mg. |
 | Duration | unknown. |
 
+
+
+
 ## Qualitative Comments
 
 No qualitative comments available in source.
+
+
+
 
 ## Extensions and Commentary
 
@@ -34,6 +46,9 @@ rather colorful activities of other cyclopropylmethyl things such as
 CPM and 2C-T-8 , this compound might someday warrant reinvestigation.
 It is a certainty that the yield could only be improved with a careful
 resynthesis.
+
+
+
 
 ## Synthesis
 
@@ -56,9 +71,15 @@ turbidity. There was obtained a small yield of crystalline
 218-220 deg C, with extensive darkening just prior to melting. Anal.
 (C14H20ClNO2) N.
 
+
+
+
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+
+
+
 
 ## See Also
 

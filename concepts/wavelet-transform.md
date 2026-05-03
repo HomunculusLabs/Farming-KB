@@ -18,7 +18,7 @@ The transform can be continuous or discrete.
 Continuous wavelet transforms provide dense scale-position representations.
 Discrete wavelet transforms use selected scales and positions for efficient computation.
 Wavelets are central to signal processing, image compression, numerical analysis, and data denoising.
-They are related to [[fourier-transform]], [[signal-processing]], and [[multiresolution-analysis]].
+They are related to fourier transform, signal processing, and multiresolution analysis.
 
 ## Key Aspects
 A wavelet transform measures similarity between a signal and shifted, scaled wavelets.
@@ -120,9 +120,14 @@ They provide a bridge between exact mathematical bases and practical data analys
 They also illustrate how representation choices shape what patterns become visible.
 
 ## Related Concepts
-Wavelets are closely related to [[fourier-analysis]], [[short-time-fourier-transform]], and [[filter-banks]].
-They depend on ideas from [[linear-algebra]], [[functional-analysis]], and [[orthogonal-basis]].
-Important subtopics include [[haar-wavelet]], [[daubechies-wavelets]], and [[morlet-wavelet]].
-Applied topics include [[image-compression]], [[signal-denoising]], and [[time-frequency-analysis]].
-Computational links include [[fast-wavelet-transform]], [[multiresolution-analysis]], and [[sparse-representation]].
-Wavelet thinking also connects to [[convolutional-neural-networks]] and [[scale-space-theory]].
+Wavelets are closely related to fourier analysis, short time fourier transform, and filter banks.
+They depend on ideas from linear algebra, functional analysis, and orthogonal basis.
+Important subtopics include haar wavelet, daubechies wavelets, and morlet wavelet.
+Applied topics include image compression, signal denoising, and time frequency analysis.
+Computational links include [[wavelet-transform]], multiresolution analysis, and sparse representation.
+Wavelet thinking also connects to convolutional neural networks and scale space theory.
+
+## Related
+
+- [[kalman-filter-vs-wavelet-transform]]
+- [[query-what-is-a-wavelet-transform-used-for]]

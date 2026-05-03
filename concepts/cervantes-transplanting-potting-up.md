@@ -12,9 +12,13 @@ updated: 2026-04-26
 
 Transplanting is the second most traumatic experience for cannabis after cloning. When plants outgrow their containers, they must be moved to continue rapid growth. Inhibited, cramped root systems grow sickly, stunted plants. Proper technique minimizes transplant shock and maintains growth momentum.
 
+
+
 ## Signs of Root-Bound Plants
 
 Root-bound plants show slow, sickly growth and branches that develop with more distance between internodes (stretched appearance). Severely root-bound plants tend to grow straight up with few branches that extend beyond the sides of the pot. To check for root-bound symptoms, remove a plant from its pot to see if roots are deeply matted on the bottom or surrounding the sides. Roots showing through drainage holes also indicate the plant is ready for a larger container.
+
+
 
 ## Pot Size Selection
 
@@ -24,6 +28,8 @@ When growing short plants that reach full maturity in 90 days, there is little n
 - 3 gallon (11 L): standard for most indoor plants finishing in 8-10 weeks
 - 5 gallon (19 L): for larger plants, longer vegetative periods, or mother plants
 - 10+ gallon (38+ L): for large mother plants or outdoor/container grows
+
+
 
 ## Transplanting Technique
 
@@ -38,11 +44,15 @@ Transplanting should involve as little disturbance to the root system as possibl
 5. Set the root ball into a pre-made hole in the new container. Fill soil around the root ball, packing it firmly to eliminate air pockets.
 6. Water the transplant immediately to settle the soil around roots.
 
+
+
 ## Timing and Recovery
 
 Transplant late in the day so transplanted plants have all night to recover. After transplanting, photosynthesis and chlorophyll production slow, as do water and nutrient absorption via roots. Transplants need subdued light so foliage can grow at the rate roots are able to supply water and nutrients. Give new transplants filtered, less-intense light for a couple of days. Move transplants under a fluorescent lamp for a couple of days before returning them under HID.
 
 Ideally, plants should be as healthy as possible before being traumatized by transplanting. However, transplanting a sick, root-bound plant to a bigger container has cured more than one ailing plant.
+
+
 
 ## Root Cube and Peat Pot Transplants
 
@@ -50,9 +60,13 @@ Starting seeds and clones in root cubes or peat pots makes transplanting much ea
 
 Transplant into the same type or similar growing medium; otherwise a water pressure differential could develop between the different mediums, slowing water movement and causing slow root growth.
 
+
+
 ## Double Potting Technique
 
 Double potting is a simple technique that disturbs roots very little. Cut the bottom out of a root-bound pot and set it on top of another bigger pot of soil. Roots naturally grow down into the second pot, avoiding the trauma of removing the root ball. This method is particularly useful for large plants where full repotting would be difficult.
+
+
 
 ## Preventing Transplant Problems
 
@@ -61,6 +75,8 @@ Double potting is a simple technique that disturbs roots very little. Cut the bo
 - Products containing Trichoderma bacteria or Vitamin B1 help ease transplant shock.
 - Once transplanted, cannabis requires low nitrogen and potassium but increased phosphorus for a few days to encourage root establishment.
 - Plants need a few days to settle in and re-establish a solid flow of fluids from roots throughout the plant. When transplanted carefully, there will be no signs of transplant shock or wilt.
+
+
 
 ## See Also
 

@@ -130,6 +130,8 @@ your available grow space height and desired plant count.
 
 ## Related
 
+- [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
+
 - [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] Questions
 
 - [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]

@@ -134,16 +134,16 @@ In intestinal medicine, citrulline may support assessment of absorptive mucosal 
 ## Related Entities
 
 [[l-ornithine]] is the direct precursor in the urea cycle.
-[[arginine]] is the downstream amino acid that releases urea.
-[[carbamoyl-phosphate]] donates the carbamoyl group that forms citrulline.
-[[aspartate]] supplies the second nitrogen atom of urea.
-[[argininosuccinate]] is made from citrulline and aspartate.
-[[nitric-oxide]] is produced together with citrulline from arginine.
-[[watermelon]] is the dietary source most closely associated with citrulline.
+arginine is the downstream amino acid that releases urea.
+carbamoyl phosphate donates the carbamoyl group that forms citrulline.
+aspartate supplies the second nitrogen atom of urea.
+argininosuccinate is made from citrulline and aspartate.
+nitric oxide is produced together with citrulline from arginine.
+watermelon is the dietary source most closely associated with citrulline.
 
 ## See Also
 
 - [[urea-cycle-biochemistry]]
-- [[amino-acid-metabolism]]
-- [[nitric-oxide-biology]]
+- [[knf-fish-amino-acid]]
+- nitric oxide biology
 - [[enzyme-inhibition]]

@@ -116,7 +116,9 @@ Modern permaculture designers increasingly use digital tools:
 4. Create design overlays showing proposed elements
 5. Present the design with clear before-and-after comparisons
 Williams recommends showing the original base map, the analytical overlays, and the new design with zones and elements as part of any design presentation.
-## Related Concepts
+## Related
+
+- [[crispr-base-editing]] Concepts
 - [[permaculture-site-analysis]]
 - [[permaculture-site-assessment-checklist]]
 - [[permaculture-design-methods]]

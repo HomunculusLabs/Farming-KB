@@ -123,6 +123,8 @@ reduced maintenance and extra bounty typically offset any minor inconvenience.
 
 ## See Also
 
+- [[query-how-do-i-design-an-apple-tree-guild]]
+
 - [[comparison-apple-tree-care-vs-apple-guild-design]]
 
 - [[hemenway-guild-design-roles-and-assembly]] for guild design methodology

@@ -120,6 +120,8 @@ A simple squeeze test can determine if soil is too wet to work: if it forms a ti
 4. Encourage earthworms through mulching, avoiding chemicals, and maintaining consistent moisture
 5. Adopt no-till practices and permanent pathways to prevent future [[soil-compaction-solutions]]
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-adjust-soil-ph-naturally]] Questions
 - [[query-what-is-the-difference-between-perlite-and-vermiculite]]
 - [[query-how-to-grow-potatoes-organically]]

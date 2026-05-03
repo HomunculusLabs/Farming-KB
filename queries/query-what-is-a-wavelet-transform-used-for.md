@@ -94,3 +94,7 @@ A wavelet transform is used when data must be understood across multiple scales 
 It is especially valuable for noisy, nonstationary, or edge-rich data.
 Its strengths are locality, sparsity, multiresolution structure, and reconstructability.
 Its best applications appear when broad trends and sharp details both matter.
+
+## Related
+
+- [[query-what-is-biochar-and-should-i-use-it]]

@@ -146,4 +146,6 @@ Early intervention with salt or hydrogen peroxide treatment may save the grow if
 
 ## See Also
 
+- [[query-what-is-the-difference-between-a-hedgerow-and-a-windbreak]]
+
 - [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]

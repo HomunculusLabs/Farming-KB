@@ -134,6 +134,8 @@ As with all psychedelics, set (mindset) and setting (environment) profoundly inf
 - Integration: set aside time for reflection and processing after the experience
 - "La purga" (vomiting) is common and considered therapeutic in traditional contexts
 ## See Also
+
+- [[bayesian-inference]]
 - [[psychoactive-cacti-guide]] for detailed cactus species identification and cultivation
 - [[lsd-reference]] for comparison with another classical psychedelic
 - [[psilocybin-pharmacology-detail]] for tryptamine psychedelic pharmacology

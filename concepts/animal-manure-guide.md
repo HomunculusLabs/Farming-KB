@@ -9,9 +9,15 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # animal manure guide
 
+
+
+
 ## Overview
 
 Animal manures are the very best sources of organic matter for soil, improving condition and supplying nutrients. They can be used on any soil type. Some, like poultry manure, require care due to high nitrogen content. Commercial manure may be adulterated with hormones, herbicides, and pesticides, but stacking for at least a year significantly reduces contamination risk.
+
+
+
 
 ## General Guidelines
 
@@ -20,6 +26,9 @@ Animal manures are the very best sources of organic matter for soil, improving c
 - Stack manure for at least 12 months before use to leach out impurities and prevent root scorching
 - Some nutrient loss occurs during storage but can be made up in other ways
 - General coverage: 20-30lb (9-15kg) per sq yard/meter (varies by type)
+
+
+
 
 ## Manure Types
 
@@ -62,9 +71,15 @@ Animal manures are the very best sources of organic matter for soil, improving c
 - **Rabbit manure:** Ideal but available only in small quantities. Use like chicken manure.
 - **Goat manure:** Similar to horse manure but better quality. Compost and use like horse manure.
 
+
+
+
 ## Chickens as Soil Improvers
 
 Half a dozen chickens in a portable house with movable wire-mesh run can be rotated through the vegetable garden. As crops finish, move hens onto the space — they devour green matter (recycling it as high-nitrogen fertilizer), peck out old seeds, and eat soil pests near the surface.
+
+
+
 
 ## Related
 

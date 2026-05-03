@@ -100,7 +100,9 @@ box with native flowers or a single fruit tree in bloom can strengthen these
 corridors and provide stepping stones for pollinators moving through the
 landscape.
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-design-habitat-for-beneficial-insects]] Questions
 - [[query-how-to-design-a-pollinator-garden]]
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
 - [[query-how-to-control-pests-without-chemicals]]

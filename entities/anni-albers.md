@@ -148,3 +148,7 @@ updated: 2026-05-02
 - Related medium: weaving.
 - Related themes: abstraction, material research, textile design, and craft theory.
 - Related locations: Berlin, Weimar, Dessau, Black Mountain, and Orange.
+
+## Related
+
+- [[cladonia-alpestris]]

@@ -113,3 +113,7 @@ A wavelet transform is the better choice when the problem is understanding what 
 They are not substitutes in a strict sense.
 They are complementary tools that operate at different conceptual levels.
 In practice, robust signal-processing systems may use both.
+
+## Related
+
+- [[query-what-is-a-wavelet-transform-used-for]]

@@ -12,9 +12,13 @@ sources:
 
 From [[solomon-gardening-when-it-counts-index]] by Steve Solomon.
 
+
+
 ## The Contract with Vegetables
 
 When we domesticated vegetables, we made a contractual agreement: they agreed to become our food, and we agreed to keep them from having to compete. If you don't hold down your end of the bargain -- thinning properly and providing adequate spacing -- the vegetables will not be able to do their best. Seedlings should never be allowed to strongly compete with each other for light, water, and nutrients.
+
+
 
 ## Thinning Method: Progressive Reduction
 
@@ -30,6 +34,8 @@ Within two weeks of emergence, the most vigorous individuals will stand out. Rem
 ### Final spacing
 When seedlings are three true leaves and growing well, thin to final spacing. At this stage they are nearly immune to sudden loss from insect or disease and may be used as salad material.
 
+
+
 ## Sowing Depth Guidelines
 
 - **Tiny seeds** (celery, basil, sorrel, most herbs): barely covered with a sprinkling of fine compost; press earth down gently with hand or back of spade to restore capillarity
@@ -38,6 +44,8 @@ When seedlings are three true leaves and growing well, thin to final spacing. At
 - **Large seeds** (corn, cucurbits): usually planted 1-2 inches deep
 
 For tiny seeds: sow in mild temperatures, or shade the rows temporarily until they sprout. Fine seeds outdoors require fine compost cover rather than soil to maintain moisture.
+
+
 
 ## The Thumbprint Method
 
@@ -53,6 +61,8 @@ Excellent for starting small seeds that will grow large plants: cabbage, broccol
 
 After germination, thin the clump to the best 3-4, then progressively thin. When the best plant has three true leaves, it should stand alone. For tiny seeds like celery (naturally low germination), make the depression shallower, use more seeds (up to 10 per spot), and cover with fine compost or aged manure that holds more moisture.
 
+
+
 ## Spacing Philosophy
 
 Solomon advocates wider spacing than most intensive gardening methods. His reasoning is based on understanding root systems:
@@ -65,9 +75,13 @@ Solomon advocates wider spacing than most intensive gardening methods. His reaso
 
 Wider spacing ensures each plant has an ever-expanding root zone free from competition, leading to healthier, more productive, more drought-resistant plants.
 
+
+
 ## Planting Too Early
 
 The single biggest cause of trouble is sowing too early. Planting on the first possible day the species could germinate or be transplanted, versus sowing two weeks later, results in two crops with little difference in maturity -- but the later-sown crop will have a lot less trouble. Growth rates accelerate hugely as the soil warms, so a slightly later start is quickly made up.
+
+
 
 ## Related
 - [[solomon-transplanting-and-hardening-off]]

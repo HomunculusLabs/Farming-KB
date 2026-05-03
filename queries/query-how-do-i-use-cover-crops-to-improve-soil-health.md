@@ -99,7 +99,9 @@ that supports a more diverse soil biology.
 - Mix legumes and grasses for complementary benefits; terminate by chop
   and drop or crimping before seed set
 
-## Related Questions
+## Related
+
+- [[query-how-do-cover-crops-suppress-weeds]] Questions
 - [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]]
 - [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]

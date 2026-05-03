@@ -101,7 +101,9 @@ food sources that encourage animals to stay outside the cultivated zones.
 - Use species-specific strategies: buried wire for groundhogs, netting for
   birds, electric strands for raccoons
 
-## Related Questions
+## Related
+
+- [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]] Questions
 - [[query-how-to-control-pests-without-chemicals]]
 - [[query-what-is-companion-planting-and-how-does-it-work]]
 - [[query-how-to-design-a-permaculture-property-from-scratch]]

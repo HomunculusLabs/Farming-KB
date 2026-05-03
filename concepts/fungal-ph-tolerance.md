@@ -47,7 +47,9 @@ Fungi actively influence soil pH through several mechanisms. The production of o
 
 Mycorrhizal fungi can alter rhizosphere pH to improve nutrient availability. Ectomycorrhizal fungi acidifying the rhizosphere through organic acid production can increase phosphorus solubility in calcareous soils. Conversely, some mycorrhizal fungi raise rhizosphere pH in acidic soils, potentially reducing aluminum toxicity. These pH-modifying activities demonstrate that fungi are not passive responders to soil pH but active agents in shaping their chemical environment.
 
-## Related Topics
+## Related
+
+- [[byzantine-fault-tolerance]] Topics
 
 - [[fungal-acidification-and-pollution-responses]] covers pollution-driven acidification
 - [[fungal-role-in-phosphorus-cycling]] connects to pH-phosphorus interactions

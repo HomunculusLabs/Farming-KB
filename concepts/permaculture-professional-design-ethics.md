@@ -13,6 +13,8 @@ sources:
 **Source:** Permaculture Design Course, Bill Mollison (1981, Pamphlet VIII)
 **Updated:** 2026-04-18
 
+
+
 ## The Eight Ethics for Professional Permaculture Designers
 
 1. **Cooperate, don't compete:** As a group of designers, we cooperate; we do not compete.
@@ -24,11 +26,15 @@ sources:
 7. **Recycle at the highest level:** Everything can be a resource. Use what you have. Make the least change produce the most effect.
 8. **Divest surplus:** Practice divesting ourselves of everything surplus to our needs (though not required of clients).
 
+
+
 ## The Role of the Professional Designer
 
 The designer's function is to know **where to place things, and why** — not to tell people how to garden, build a house, or build a dam. The function is to place things in the environment so their multiple functions are used, creating low energy inputs for high yield and stability.
 
 The designer is also a **creative observer** — learning to observe nature and recognize how to develop potential uses so humans may benefit.
+
+
 
 ## Business Practices
 
@@ -66,6 +72,8 @@ The designer is also a **creative observer** — learning to observe nature and 
 - Energy budgeting and resource inventory
 - Network linking: horticulture, architecture, agricultural engineering, realty, PR, office management
 - Land management for absent owners
+
+
 
 ## Related Topics
 

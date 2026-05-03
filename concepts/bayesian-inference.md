@@ -147,3 +147,8 @@ It supports engineering by providing real-time updating under uncertainty.
 - machine learning
 - decision theory
 - uncertainty quantification
+
+## Related
+
+- [[mescaline-reference]]
+- [[ibogaine-reference]]

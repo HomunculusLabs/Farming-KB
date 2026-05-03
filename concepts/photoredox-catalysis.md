@@ -142,6 +142,8 @@ Photoredox methods can also model single-electron radical processes relevant to 
 
 ## See Also
 
+- [[oxidative-addition-vs-photoredox-catalysis]]
+
 - radical chemistry
 - organic chemistry
 - photochemistry

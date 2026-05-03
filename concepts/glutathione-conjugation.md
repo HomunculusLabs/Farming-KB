@@ -19,8 +19,7 @@ creates an electrophile. A conjugation reaction can intercept that electrophile 
 or membrane lipids. When the pathway is overwhelmed, covalent binding and oxidative stress become much more
 likely.
 
-GSH conjugation belongs beside [[phase-ii-metabolism]] and [[cytochrome-p450-enzymes-and-xenobiotic-
-metabolism]] in any account of xenobiotic defense. Phase I oxidation can expose or create reactive sites,
+GSH conjugation belongs beside [[phase-ii-metabolism]] and [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]] in any account of xenobiotic defense. Phase I oxidation can expose or create reactive sites,
 whereas GSH conjugation supplies a nucleophilic sulfur atom that neutralizes many of those sites.
 
 ## Chemical Basis
@@ -84,8 +83,7 @@ exposure margins, species differences, and clinical monitoring strategies.
 
 ## Toxicological Importance
 
-Glutathione conjugation protects cells from electrophiles and contributes to defense against [[reactive-
-oxygen-species-and-oxidative-stress]]. It complements antioxidant enzymes by removing secondary products such
+Glutathione conjugation protects cells from electrophiles and contributes to defense against [[reactive-oxygen-species-and-oxidative-stress]]. It complements antioxidant enzymes by removing secondary products such
 as lipid-derived aldehydes that arise after oxidative membrane damage.
 
 Capacity is finite. GSH stores can fall during overdose, inflammation, malnutrition, mitochondrial injury, or

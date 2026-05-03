@@ -13,9 +13,17 @@ Updated: 2026-04-18
 
 The ligninolytic enzyme system (LDS) is a collection of extracellular enzymes produced by white rot basidiomycetes that enables them to degrade lignin, the second most abundant biopolymer on Earth after cellulose. These enzymes are unique because they attack a non-repeating, non-hydrolyzable polymer through non-specific free radical mechanisms, unlike most enzymes that target specific bonds.
 
+
+
+
+
 ## Why Lignin Requires a Special System
 
 Lignin is a complex, three-dimensional polymer of phenylpropanoid units linked by a variety of carbon-carbon and ether bonds with no symmetrical repeating structure. This means there is no single bond type for a specific enzyme to target. Instead, white rot fungi produce enzymes that generate highly reactive, non-specific free radicals capable of attacking many bond types simultaneously. See [[lignin-degradation-mechanisms-wood-rot-fungi]] for detailed degradation pathways.
+
+
+
+
 
 ## The Three Main Ligninolytic Enzymes
 
@@ -43,6 +51,10 @@ Lignin is a complex, three-dimensional polymer of phenylpropanoid units linked b
 - Plays the primary role in BPE decolorization by T. versicolor
 - Laccases from C. gallica oxidize benzo[a]pyrene and other PAHs
 
+
+
+
+
 ## Regulation
 
 Ligninolytic enzyme production is typically triggered by:
@@ -50,6 +62,10 @@ Ligninolytic enzyme production is typically triggered by:
 - **Carbon limitation** -- also triggers ligninolytic activity
 - **Manganese** -- Mn(II) in the medium stimulates MnP production
 - **Chemical inducers** -- veratryl alcohol, 2,5-xylidine, and various aromatic compounds can induce LiP, MnP, or laccase production
+
+
+
+
 
 ## Applications
 
@@ -60,6 +76,10 @@ Ligninolytic enzyme production is typically triggered by:
 - [[nitroaromatic-degradation-by-white-rot-fungi]] -- degradation of TNT and explosives
 - [[fungal-degradation-of-dioxins-and-polychlorinated-biphenyls]] -- degradation of persistent halogenated compounds
 - [[mycoremediation-of-pahs]] -- degradation of PAHs
+
+
+
+
 
 ## See Also
 

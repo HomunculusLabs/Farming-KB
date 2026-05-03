@@ -12,6 +12,8 @@ sources:
 
 From "The Natural Way of Farming: The Theory" by Masanobu Fukuoka.
 
+
+
 ## The American Model Exposed
 
 In 1979, Fukuoka visited the United States and was astounded by what he saw. He had thought that desertification and the disappearance of native peoples were stories from ancient history, but he learned that the very same thing has happened repeatedly in the U.S.
@@ -20,11 +22,15 @@ Because meat is the food staple in America, agriculture is dominated by livestoc
 
 The low productivity of the land drives farmers to large-scale operations. Large operations require mechanization with machinery of increasing size. This "big iron" breaks down the structure of the soil, setting up a negative cycle. Agriculture that ignores the forces of nature and relies solely on the human intellect and human effort is unprofitable.
 
+
+
 ## The Fragility of Commercial Agriculture
 
 To get an idea of just how fragile commercial agriculture is with its large-scale, subcontractor-type monoculture farming, just consider that U.S. farmers working 500 to 700 acres have smaller net incomes than Japanese farmers on 3 to 5 acres.
 
 These faults of modern farming were rooted in the basic illusions of Western philosophy that support the foundations of scientific agriculture. Mistaken ideology had led man astray in how he lived his life and secured his essentials of food, clothing, and shelter. Confusion over food had bred confusion over farming, which had destroyed nature.
+
+
 
 ## The Future of Natural Farming
 
@@ -32,11 +38,15 @@ Fukuoka does not merely wish to expose and attack the current state of modern ag
 
 Even organic farming, which has come into its own with the pollution problem, only serves as a temporary stopgap. Being part and parcel of scientific agriculture to begin with, it will be swallowed whole and assimilated by scientific agriculture.
 
+
+
 ## Science on an Unending Rampage
 
 In today's society, man is cut off from nature and human knowledge is arbitrary. Suppose a scientist wants to understand nature. He may begin by studying a leaf, but as his investigation progresses down to molecules, atoms, and elementary particles, he loses sight of the original leaf.
 
 [[fukuoka-breakdown-japanese-agriculture]] | [[fukuoka-disappearance-natural-diet]] | [[fukuoka-natural-farming-new-age]] | [[fukuoka-breakdown-japanese-agriculture]] | mu philosophy
+
+
 
 ## Key Points
 
@@ -51,6 +61,8 @@ In today's society, man is cut off from nature and human knowledge is arbitrary.
 9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
 10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
 
+
+
 ## Practical Applications
 
 - Start with a small area and observe natural vegetation patterns before introducing any cultivation.
@@ -61,6 +73,8 @@ In today's society, man is cut off from nature and human knowledge is arbitrary.
 - Create a diverse orchard with ground cover plants that fix nitrogen, attract pollinators, and suppress unwanted vegetation.
 - Apply a thin layer of chicken manure or compost only if soil fertility is visibly deficient.
 - Harvest at natural maturity rather than forcing early or late harvests with chemical inputs.
+
+
 
 ## See Also
 

@@ -13,6 +13,8 @@ Updated: 2026-04-18
 
 Access to clean water is fundamental to sustainable living, agriculture, and public health. Desalination and water treatment technologies range from simple low-tech methods suitable for homesteads to industrial-scale plants. For [[sustainable-living-habits-for-homesteads]], understanding these options helps ensure water security.
 
+
+
 ## Low-Tech Methods
 
 ### Solar Stills
@@ -27,6 +29,8 @@ The simplest and most reliable method for killing pathogens. Bring water to a ro
 ### Ceramic Filters
 Porous ceramic filters with pore sizes small enough to remove bacteria (0.2-1.0 microns). Some are impregnated with colloidal silver for additional antibacterial action. Flow rates are typically 1-3 liters per hour.
 
+
+
 ## Medium-Tech Methods
 
 ### Reverse Osmosis (RO)
@@ -37,6 +41,8 @@ Ultraviolet light at 254 nm wavelength damages the DNA of bacteria, viruses, and
 
 ### Distillation
 Water is boiled and the steam is condensed into pure water. Removes all contaminants including salts, heavy metals, and pathogens. Energy-intensive but effective for small-scale desalination. Solar-powered distillation units are available.
+
+
 
 ## Large-Scale Desalination
 
@@ -52,6 +58,8 @@ Similar to MSF but more energy-efficient. Multiple evaporation chambers (effects
 ### Electrodialysis (ED)
 Uses electrical potential to drive ions through selective membranes, removing dissolved salts. Most efficient for brackish water (lower salinity than seawater). Energy consumption scales with salt concentration.
 
+
+
 ## Environmental Considerations
 
 - **Brine disposal** -- all desalination produces concentrated brine that must be disposed of responsibly; ocean discharge can harm marine ecosystems
@@ -59,9 +67,13 @@ Uses electrical potential to drive ions through selective membranes, removing di
 - **Chemical use** -- pre-treatment chemicals and membrane cleaning agents create additional waste streams
 - **Intake impacts** -- seawater intakes can entrain and kill marine organisms
 
+
+
 ## Rainwater Harvesting
 
 The simplest sustainable water source for homesteads. Rooftop collection, storage in cisterns, and filtration provide potable water in areas with adequate rainfall. A typical system includes gutters, first-flush diverters (to discard the first rainfall that washes the roof), storage tanks, and filtration/purification.
+
+
 
 ## See Also
 

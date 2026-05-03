@@ -13,6 +13,8 @@ Updated: 2026-04-18
 
 Wood decomposition is one of the most ecologically significant processes carried out by fungi. As the primary decomposers of lignocellulose -- the main structural component of wood -- fungi play a central role in forest nutrient cycling and carbon flow. The process involves the coordinated action of multiple enzyme systems working together to degrade cellulose, hemicellulose, and lignin.
 
+
+
 ## Wood Composition
 
 Wood is composed of approximately:
@@ -20,6 +22,8 @@ Wood is composed of approximately:
 - **Hemicellulose** (20-30%) -- heterogeneous branched polysaccharides (xylan, glucomannan, etc.)
 - **Lignin** (20-30%) -- complex, non-repeating aromatic polymer providing rigidity and decay resistance
 - **Extractives** (5-10%) -- resins, tannins, phenolics, and other secondary compounds that provide additional decay resistance
+
+
 
 ## Types of Wood Decay Fungi
 
@@ -32,6 +36,8 @@ Brown rot fungi primarily degrade cellulose and hemicellulose while leaving lign
 ### Soft Rot Fungi
 Soft rot fungi (primarily Ascomycetes and some Deuteromycetes) degrade wood under conditions too wet or too dry for basidiomycetes. They create characteristic cavity formations within the wood cell walls. Common in tropical and aquatic environments.
 
+
+
 ## Decay Process
 
 1. **Colonization** -- fungal spores or hyphal fragments land on wood surfaces and germinate, entering through wounds, branch stubs, or exposed end-grain
@@ -39,6 +45,8 @@ Soft rot fungi (primarily Ascomycetes and some Deuteromycetes) degrade wood unde
 3. **Polymer depolymerization** -- cellulose, hemicellulose, and (for white rot) lignin are broken down into oligomers and monomers
 4. **Nutrient absorption** -- simple sugars, amino acids, and other monomers are absorbed across the hyphal cell wall
 5. **Mass loss** -- progressive loss of wood substance reduces density, strength, and structural integrity
+
+
 
 ## Factors Affecting Decay Rate
 
@@ -49,11 +57,15 @@ Soft rot fungi (primarily Ascomycetes and some Deuteromycetes) degrade wood unde
 - **pH** -- most decay fungi prefer slightly acidic conditions (pH 4-6)
 - **Nutrient availability** -- nitrogen and other nutrients in the wood or from the environment affect decay rates
 
+
+
 ## Selective vs. Simultaneous Decay
 
 White rot fungi exhibit two strategies:
 - **Selective delignification** -- some species remove lignin preferentially, leaving cellulose-enriched wood. This is the basis for [[biobleaching-of-pulp-by-white-rot-fungi]]
 - **Simultaneous decay** -- most species degrade all wood components at similar rates
+
+
 
 ## Ecological Significance
 
@@ -63,6 +75,8 @@ Wood decomposition by fungi:
 - Creates habitat for other organisms (cavity-nesting birds, insects, amphibians)
 - Influences forest succession and stand dynamics
 - Forms the basis for many [[mycoremediation-bioreactor-design]]
+
+
 
 ## See Also
 

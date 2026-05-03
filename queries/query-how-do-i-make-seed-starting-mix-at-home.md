@@ -111,6 +111,8 @@ Seed starting mix is intentionally low in nutrients — it is designed for germi
 
 ## See Also
 
+- [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
+
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] — timing and techniques for starting seeds
 - [[query-how-to-build-healthy-garden-soil]] — transitioning seedlings into garden beds
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]] — common in seedlings grown in low-calcium mixes

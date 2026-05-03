@@ -77,7 +77,9 @@ Understanding symbiotic interaction changes how we approach farming:
 - Accept and use nature's energy rather than fighting it.
 - Trust that plants in community will support each other.
 
-## Related Topics
+## Related
+
+- [[euler-bernoulli-beam-theory]] Topics
 
 - [[holzer-polyculture-examples]]
 - [[holzer-catch-crop-and-polyculture-design]]

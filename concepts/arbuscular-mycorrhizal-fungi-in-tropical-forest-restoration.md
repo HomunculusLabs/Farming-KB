@@ -11,6 +11,8 @@ sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-ma
 
 Arbuscular mycorrhizal fungi (AMF) play critical roles in tropical rain forest restoration by facilitating plant establishment, improving soil structure, and enabling nutrient cycling. Deforestation and habitat fragmentation disrupt these fungal communities, creating barriers to natural regeneration.
 
+
+
 ## Impact of Deforestation on AMF Communities
 
 Tropical rain forests are losing coverage at approximately 2% annually. Deforestation causes:
@@ -20,6 +22,8 @@ Tropical rain forests are losing coverage at approximately 2% annually. Deforest
 - Disruption of common mycorrhizal networks that connect plants
 - Reduced pollinator and seed disperser populations that interact with mycorrhizal plants
 - Changes in soil microbiota, including nitrogen-fixing bacteria
+
+
 
 ## Successional Stages and AMF Responses
 
@@ -40,6 +44,8 @@ Plant species in tropical rain forests fall into two functional groups with cont
 - Develop seedling banks (not seed banks)
 - Form extensive defensive compounds against herbivores
 
+
+
 ## AMF in Habitat Recovery
 
 If a plant community consists primarily of non-mycotrophic plants and AMF propagule reentry is slow, natural succession is retarded. Late successional species dependent on AMF may fail to establish, making restoration difficult.
@@ -51,6 +57,8 @@ If a plant community consists primarily of non-mycotrophic plants and AMF propag
 - **Degraded tropical soils**: AMF inoculation combined with moderate phosphorus application recommended for restarting succession (Cuenca et al., 2002)
 - **Seasonal tropical forest**: AMF inoculum from early successional stages produced significant differences in plant community development (Allen et al., 2003)
 
+
+
 ## Practical Applications
 
 Restoration programs should:
@@ -61,6 +69,8 @@ Restoration programs should:
 5. Facilitate soil microbiotic community recovery, not just plant establishment
 
 AMF contribute to soil retention through aggregate formation, organic material retention, improved soil structure, and reduced water and wind erosion.
+
+
 
 ## See Also
 

@@ -133,4 +133,6 @@ control through heat.
 
 ## See Also
 
+- [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]
+
 - [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]

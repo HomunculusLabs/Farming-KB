@@ -13,9 +13,13 @@ updated: 2026-04-18
 
 From: [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 
+
+
 ## Overview
 
 Sugar-producing plants play multiple roles in permaculture systems, from food and energy crops to mulch and soil-building species. Mollison includes sugar-providing grasses (such as sugarcane) among the species that stimulate soil bacteria and fungi, and benefit associated trees in orchard systems.
+
+
 
 ## Principal Sugar Crops
 
@@ -49,9 +53,13 @@ In the integrated garden design, the ideal palm circle includes 2 coconuts, 2 oi
 - **Stevia** (Stevia rebaudiana) - natural sweetener
 - **Sugar maple and birch** sap in cold climates
 
+
+
 ## Sugar Crops in Polyculture
 
 Sugar cane and bananas are listed among crops highly responsive to wind protection -- both plant height and yields rapidly decrease with increases in wind speed. Intensive shelterbelt systems are essential for these species. Sugar-providing grasses assist orchard species and can be slashed or trimmed to provide rich mulch below trees or between crops.
+
+
 
 ## Processing and Energy
 
@@ -62,9 +70,13 @@ Sugar crops can be processed into:
 - Mulch and compost material
 - Fuel (bagasse as biomass)
 
+
+
 ## Regional Considerations
 
 In the humid tropics of Africa, plantation crops include sugar alongside cotton, peanuts, and sisal. Sugar cane responds to shadecloth in desert environments, showing increased production under 50-70% shade.
+
+
 
 ## Related Topics
 

@@ -131,6 +131,8 @@ Instead, it transforms the food through biological activity, creating new flavor
 
 ## Related
 
+- [[query-how-do-i-make-kimchi-with-lacto-fermentation]]
+
 - [[query-how-does-kombucha-brewing-work]] Questions
 
 - [[query-how-to-store-food-without-refrigeration]]

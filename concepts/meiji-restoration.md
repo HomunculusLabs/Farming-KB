@@ -17,7 +17,7 @@ Japan rapidly restructured its government, military, economy, education system, 
 The changes helped transform Japan from a decentralized feudal polity into a centralized nation-state.
 The period also reshaped class relations, religion, identity, and everyday life.
 It stands as one of the most consequential state-building projects of the nineteenth century.
-The Meiji Restoration is related to [[japanese-history]], [[modernization]], and [[imperialism]].
+The Meiji Restoration is related to japanese history, modernization, and imperialism.
 
 ## Key Aspects
 The Restoration replaced the Tokugawa bakufu with a centralized imperial government.
@@ -121,9 +121,15 @@ For global history, it belongs to the age of empire, industrial capitalism, and 
 Its significance lies in both Japan's internal transformation and its changing place in the world.
 
 ## Related Concepts
-Closely related topics include [[tokugawa-shogunate]], [[boshin-war]], and [[emperor-meiji]].
-Political themes include [[nation-state]], [[constitutional-monarchy]], and [[bureaucratic-centralization]].
-Economic themes include [[industrialization]], [[land-tax-reform]], and [[zaibatsu]].
-Cultural themes include [[state-shinto]], [[bunmei-kaika]], and [[japanese-nationalism]].
-International themes include [[unequal-treaties]], [[iwakura-mission]], and [[japanese-imperialism]].
-Comparative topics include [[ottoman-tanzimat]], [[self-strengthening-movement]], and [[peter-the-great-reforms]].
+Closely related topics include tokugawa shogunate, boshin war, and emperor meiji.
+Political themes include nation state, constitutional monarchy, and bureaucratic centralization.
+Economic themes include industrialization, land tax reform, and zaibatsu.
+Cultural themes include state shinto, bunmei kaika, and japanese nationalism.
+International themes include unequal treaties, iwakura mission, and japanese imperialism.
+Comparative topics include ottoman tanzimat, self strengthening movement, and peter the great reforms.
+
+## Related
+
+- [[riparian-zone-restoration]]
+- [[bioremediation-ecosystem-restoration]]
+- [[fukuoka-mountain-soil-restoration]]

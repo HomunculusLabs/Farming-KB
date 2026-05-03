@@ -10,9 +10,13 @@ sources:
 
 **Source:** The Cannabis Health Index (Uwe Blesching) | **CHI:** 10 | **Studies:** 3 | **Updated:** 2026-04-18
 
+
+
 ## Overview
 
 Migraines affect approximately 12% of the population and are characterized by severe unilateral headache, often with nausea, vomiting, and sensitivity to light and sound. Cannabis has a long history of use for headache treatment. See also [[blesching-cannabis-skin-diseases]], [[cannabis-and-ptsd]], and cannabinoid-receptors.
+
+
 
 ## Clinical Evidence
 
@@ -37,11 +41,15 @@ Three studies support cannabis for migraine treatment.
 - Cannabis was used medicinally for headaches for centuries (Mikuriya 1969)
 - Ancient medical texts reference cannabis for head pain
 
+
+
 ## Integrative Approaches
 
 - Orgasm and sexual activity may relieve migraines in some patients (Couch and Bearss 1990; Evans and Couch 2001)
 - Psychological stress is a known migraine trigger (Grace and Graham 1952; Wober et al. 2007)
 - Addressing stress through mind-body practices complements cannabinoid therapy
+
+
 
 ## Therapeutic Considerations
 
@@ -59,11 +67,15 @@ Three studies support cannabis for migraine treatment.
 - Early intervention at first signs of migraine is most effective
 - Prophylactic use may reduce migraine frequency
 
+
+
 ## Safety Profile
 
 - Generally well-tolerated
 - Avoid overuse — medication overuse headache is a risk with any pain treatment
 - Non-psychoactive options (CBD) available for daytime use
+
+
 
 ## Related Topics
 

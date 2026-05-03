@@ -10,9 +10,13 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #107. HYDROXYETHYL-MDA;.
 
+
+
 ## Chemical Name
 
 HYDROXYETHYL-MDA;
+
+
 
 ## Dosage and Duration
 
@@ -21,9 +25,13 @@ HYDROXYETHYL-MDA;
 | Dosage | greater than 50 mg. |
 | Duration | unknown. |
 
+
+
 ## Qualitative Comments
 
 No qualitative comments available in source.
+
+
 
 ## Extensions and Commentary
 
@@ -40,6 +48,8 @@ of ketamine. This is an interesting comment, in that ketamine has
 found its major medical use as an anesthetic, and MDHOET is among the
 most effective of all the N-substituted MDA derivatives assayed in
 several animal analgesia models.
+
+
 
 ## Synthesis
 
@@ -64,9 +74,13 @@ hydrochloride (MDHOET) that formed were removed by filtration, washed
 with Et2O, and air dried. These weighed 2.3 g, and had a mp of
 147-148 deg C. Anal. (C12H18ClNO3) N.
 
+
+
 ## Safety Notes
 
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. Legal status varies by jurisdiction.
+
+
 
 ## See Also
 

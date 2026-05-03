@@ -141,6 +141,8 @@ parts throughout the growing season.
 
 ## See Also
 
+- [[comparison-comfrey-vs-dandelion]]
+
 - [[comparison-comfrey-vs-yarrow]] for dynamic accumulator and
   companion planting comparisons
 - [[comparison-ashwagandha-vs-tulsi]] for medicinal herb selection

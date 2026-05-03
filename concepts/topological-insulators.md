@@ -19,7 +19,7 @@ This topological obstruction is what gives the phase its robustness.
 The most famous examples include two-dimensional quantum spin Hall systems and three-dimensional bismuth-based compounds.
 The field has become a major part of modern materials science.
 It also provides a practical language for classifying quantum phases beyond symmetry breaking.
-Topological insulators are related to [[quantum-hall-effect]], [[band-theory]], and [[spintronics]].
+Topological insulators are related to quantum hall effect, band theory, and spintronics.
 
 ## Key Aspects
 The bulk of a topological insulator has an energy gap between occupied and unoccupied bands.
@@ -117,9 +117,15 @@ Students now encounter Berry phase, curvature, and band topology as practical to
 Topological insulators are thus both a class of materials and a conceptual turning point.
 
 ## Related Concepts
-Related mathematical ideas include [[topology]], [[berry-phase]], and [[chern-number]].
-Related physical systems include [[quantum-hall-effect]], [[topological-superconductors]], and [[weyl-semimetals]].
-Related measurement techniques include [[angle-resolved-photoemission-spectroscopy]] and [[scanning-tunneling-microscopy]].
-Related engineering fields include [[spintronics]], [[quantum-computing]], and [[materials-informatics]].
-Related band-structure ideas include [[band-inversion]], [[spin-orbit-coupling]], and [[bloch-waves]].
-The concept also connects to [[symmetry-protected-topological-order]].
+Related mathematical ideas include topology, berry phase, and chern number.
+Related physical systems include quantum hall effect, topological superconductors, and weyl semimetals.
+Related measurement techniques include angle resolved photoemission spectroscopy and scanning tunneling microscopy.
+Related engineering fields include spintronics, quantum computing, and materials informatics.
+Related band-structure ideas include band inversion, spin orbit coupling, and bloch waves.
+The concept also connects to symmetry protected topological order.
+
+## Related
+
+- [[permaculture-biological-soil-indicators]]
+- [[biological-network-theory]]
+- [[biological-transport-networks]]

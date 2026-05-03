@@ -32,7 +32,7 @@ That framing is important because the plant becomes useful only when it is cycle
 Duckweed fits best in small side ponds, animal-water treatment cells, aquaculture edges, or controlled basins.
 It is harder to manage in large ornamental ponds where a clear open surface is the main goal.
 The page [[backyard-pond-building]] gives general pond context that can help decide where a managed duckweed zone belongs.
-The page [[aquaculture-ponds-and-integrated-fish-systems]] connects aquatic plants with fish and nutrient cycling.
+The page [[permaculture-integrated-animal-systems]] connects aquatic plants with fish and nutrient cycling.
 The page [[mollison-aquatic-polyculture-and-pond-culture]] is useful for thinking of ponds as layered polycultures.
 Duckweed should usually be part of a mosaic of open water, emergent plants, edge habitat, and harvestable biomass.
 A pond that is entirely covered with floating plants is rarely the most resilient design.
@@ -102,7 +102,7 @@ The goal is a managed aquatic crop, not an accidental release.
 - [[permaculture-duckweed]] explains duckweed as a managed aquatic yield.
 - [[comparison-duckweed-vs-azolla]] helps choose between two floating biomass plants.
 - [[backyard-pond-building]] provides basic pond design context.
-- [[aquaculture-ponds-and-integrated-fish-systems]] connects duckweed to fish and nutrient loops.
+- [[permaculture-integrated-animal-systems]] connects duckweed to fish and nutrient loops.
 - [[mollison-aquatic-polyculture-and-pond-culture]] frames ponds as multi-layer productive systems.
 - [[knf-fish-pond-integration]] is relevant when duckweed is part of integrated fish culture.
 - [[holzer-pond-shape-deep-shallow-zones]] shows why pond form affects management.

@@ -122,6 +122,10 @@ The Carnot cycle, despite its two centuries of age, remains the starting point f
 
 ## See Also
 
+- [[query-why-cant-heat-engines-be-100-percent-efficient]]
+
+- [[carnot-cycle-vs-rankine-cycle]]
+
 - [[fracture-mechanics-engineering-materials]]
 
 - [[laws-of-thermodynamics]]

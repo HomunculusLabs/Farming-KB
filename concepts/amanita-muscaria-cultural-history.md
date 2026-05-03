@@ -77,6 +77,8 @@ The fly-agaric has become the iconic, archetypal mushroom — the default symbol
 
 ## See Also
 
+- [[koryaks]]
+
 - [[amanita-muscaria-guide]]
 - [[mushroom-poisoning-and-lookalikes]]
 - [[mushroom-poisoning-and-lookalikes]]

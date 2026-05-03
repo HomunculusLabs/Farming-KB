@@ -107,6 +107,8 @@ Several well-known structures demonstrate the longevity and beauty of slip form 
 
 ## See Also
 
+- [[query-when-should-i-use-slip-form-stone-construction]]
+
 - [[cordwood-construction]]
 
 - [[cob-building]]

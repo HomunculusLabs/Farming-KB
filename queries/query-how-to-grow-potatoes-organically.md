@@ -120,6 +120,8 @@ Potato plants typically flower during the growing season, but flowering is not a
 4. Follow a four-year crop rotation to prevent soil-borne disease buildup
 5. Cure harvested potatoes properly for long-term storage success
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-grow-tomatoes-organically]] Questions
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
 - [[query-what-is-the-difference-between-perlite-and-vermiculite]]

@@ -125,3 +125,8 @@ litter, and heavy falling cones make it completely unsuitable for small
 residential gardens. In a permaculture context, it serves as a
 long-lived overstorey element in food forest systems in suitable
 climates.
+
+## Related
+
+- [[permaculture-bunya-pine]]
+- [[eugenia-bone]]

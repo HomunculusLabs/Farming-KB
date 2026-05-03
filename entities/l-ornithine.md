@@ -133,16 +133,16 @@ It is also a useful reminder that biological importance is not limited to protei
 ## Related Entities
 
 [[l-citrulline]] is produced directly from ornithine in the urea cycle.
-[[carbamoyl-phosphate]] donates the carbamoyl group to ornithine.
-[[arginine]] is hydrolyzed to regenerate ornithine and release urea.
-[[putrescine]] is formed from ornithine by decarboxylation.
-[[spermidine]] and [[spermine]] are downstream polyamines.
-[[ammonia]] is the toxic nitrogen source that the urea cycle helps eliminate.
-[[urea]] is the excreted nitrogen product produced after ornithine is regenerated.
+carbamoyl phosphate donates the carbamoyl group to ornithine.
+arginine is hydrolyzed to regenerate ornithine and release urea.
+putrescine is formed from ornithine by decarboxylation.
+spermidine and spermine are downstream polyamines.
+ammonia is the toxic nitrogen source that the urea cycle helps eliminate.
+urea is the excreted nitrogen product produced after ornithine is regenerated.
 
 ## See Also
 
 - [[urea-cycle-biochemistry]]
-- [[amino-acid-metabolism]]
-- [[hyperammonemia]]
+- [[knf-fish-amino-acid]]
+- hyperammonemia
 - [[enzyme-inhibition]]

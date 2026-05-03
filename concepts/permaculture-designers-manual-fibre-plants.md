@@ -13,9 +13,13 @@ updated: 2026-04-18
 
 From: [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 
+
+
 ## Overview
 
 Fibre plants provide materials for textiles, rope, basketry, paper-making, and construction in permaculture systems. The Designers Manual references fibre plants both as cultivated crops and as integrated elements within garden and settlement designs, where a few fibre plants help with trellis construction and other garden infrastructure.
+
+
 
 ## Principal Fibre Plants
 
@@ -42,11 +46,15 @@ Fibre plants provide materials for textiles, rope, basketry, paper-making, and c
 - **Kapok** (Ceiba pentandra) - seed fibre for stuffing and insulation
 - **Ramie** (Boehmeria nivea) - strong bast fibre
 
+
+
 ## Fibre in Integrated Design
 
 In the permaculture garden design, the front yard includes "a fibre plant or two (to help the trellis)" alongside traditional flowers, basic medicinals, pleasant scents, and ornamental food plants. Fibre plants thus serve both practical and aesthetic functions in Zone 1.
 
 Fences for animal runs can be made of woven bamboo, palm rib, banana grass stalks, or wire netting, demonstrating the integration of fibre-producing plants with animal management systems.
+
+
 
 ## Fibre Processing
 
@@ -57,6 +65,8 @@ Permaculture encourages local processing of fibre crops:
 - Paper-making from fibre residues (see [[permaculture-designers-manual-paper-making]])
 - Rope and cordage making from bast fibres
 
+
+
 ## Sustainable Fibre Production
 
 Key principles for fibre in permaculture:
@@ -66,6 +76,8 @@ Key principles for fibre in permaculture:
 - Process fibres on-site or at community scale
 - Avoid chemically contaminated sites for food-related fibre crops
 - Recycle and reuse fibre products within the system
+
+
 
 ## Related Topics
 

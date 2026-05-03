@@ -125,7 +125,9 @@ Curing thickens the skin and heals minor cuts, dramatically improving storage li
 - Do NOT store near apples, pears, or bananas — ethylene gas shortens storage.
 - Eat the shortest-storing varieties first (acorn, delicata).
 - Save longest-storing varieties (butternut, hubbard) for deep winter.
-## Related Concepts
+## Related
+
+- [[kintsugi]] Concepts
 - [[companion-planting-reference]] — corn, beans, and nasturtiums as squash companions (Three Sisters)
 - [[hemenway-hugelkultur-guide]] — squash cascading off hugel mounds
 - [[mulching-guide]] — heavy mulching for moisture retention

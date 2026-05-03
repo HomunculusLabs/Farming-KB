@@ -11,6 +11,8 @@ sources: [raw/papers/gaias-garden-toby-hemenway.md]
 
 Sheet mulching (also called lasagna gardening or composting in place) is a no-till method of building fertile soil directly where you want to grow. It suppresses weeds, builds topsoil, and eliminates the need to transport compost. The definitive guide in Toby Hemenway's Gaia's Garden makes this the preferred method for establishing ecological gardens.
 
+
+
 ## Why Sheet Mulch Instead of Tilling
 
 - Preserves soil structure and the [[soil-food-web-nutrient-cycling]] intact — tilling destroys fungal networks and kills beneficial organisms
@@ -19,6 +21,8 @@ Sheet mulching (also called lasagna gardening or composting in place) is a no-ti
 - Less work than building a compost pile and then carting finished compost to beds
 - Builds 1-2 inches of topsoil per year
 - Can be planted into immediately (using soil pockets)
+
+
 
 ## Step-by-Step Process (from Gaia's Garden)
 
@@ -32,11 +36,15 @@ Sheet mulching (also called lasagna gardening or composting in place) is a no-ti
 8. **Top with 2-4 inches finished mulch** for appearance and moisture retention
 9. **Plant directly** by pulling aside mulch, cutting through cardboard, and setting plants into soil
 
+
+
 ## Timing and Scheduling
 
 - **Best**: Start in fall for spring planting — winter decomposition creates rich soil
 - **Acceptable**: Spring installation works but soil won't reach maximum fertility for 1-2 years
 - **Immediate planting**: Use soil pockets — pull back mulch, add a handful of compost, set plant in
+
+
 
 ## Material Sources
 
@@ -44,6 +52,8 @@ Sheet mulching (also called lasagna gardening or composting in place) is a no-ti
 - Mulch: tree trimming services, municipal green waste, fall leaves, straw
 - Nitrogen layer: compost, well-rotted manure, coffee grounds, grass clippings
 - One pickup load of mulch covers approximately 50 square feet
+
+
 
 ## Variations
 
@@ -56,6 +66,8 @@ Mow the lawn as low as possible first. The cardboard kills the grass by blocking
 ### For Food Forest Establishment
 Sheet mulch is the preferred method for establishing [[food-forest-design]]. Mulch the entire area, then plant through the cardboard into existing soil. This is especially important because once perennial plants are established, the soil is much harder to amend.
 
+
+
 ## Common Mistakes
 
 - **Too thin**: Less than 4 inches of mulch allows weeds to push through
@@ -64,9 +76,13 @@ Sheet mulch is the preferred method for establishing [[food-forest-design]]. Mul
 - **Mulch against tree trunks**: Keep mulch 3-6 inches away from bark to prevent rot and rodent damage
 - **Using hay with seeds**: Straw (seedless) is preferred over hay (often contains grass seeds)
 
+
+
 ## Soil Biology Benefits
 
 Sheet mulching accelerates ecological succession in the soil. The layered organic matter attracts thousands of species of soil organisms that arrive with the mulch, drift in on air currents and raindrops, or are present but dormant. In the welcoming habitat, they spring to life, rapidly enlarging the decomposer component of the producer-consumer-decomposer cycle. This pumps out an enormous surplus of nutrients and generates humus, which becomes a capacious reservoir for minerals essential for plant growth.
+
+
 
 ## Related
 

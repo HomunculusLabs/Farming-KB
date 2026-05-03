@@ -13,7 +13,7 @@ sources: []
 A hedgerow is a multifunctional living edge that often emphasizes habitat, boundaries, biodiversity, small yields, and beneficial insects.
 A windbreak is a linear planting or structure designed primarily to reduce wind speed and protect crops, animals, soil, or buildings.
 They overlap because many hedgerows slow wind and many windbreaks can be designed as diverse hedgerows.
-Use [[comparison-windbreak-vs-hedgerow]] for the direct distinction and [[windbreaks-hedgerows-and-shelterbelts]] for the shared design family.
+Use [[comparison-windbreak-vs-hedgerow]] for the direct distinction and [[gaias-garden-hedgerows-and-windbreaks]] for the shared design family.
 The practical choice depends on whether your main problem is wind exposure, ecological edge function, or both.
 
 ## Detailed Explanation
@@ -54,7 +54,7 @@ A windbreak is judged by the microclimate it creates.
 ### Place shelterbelts in the family
 
 A shelterbelt is commonly a wider or more substantial windbreak.
-[[windbreaks-hedgerows-and-shelterbelts]] groups these plantings because they share linear shelter logic.
+[[gaias-garden-hedgerows-and-windbreaks]] groups these plantings because they share linear shelter logic.
 Shelterbelts may contain several rows of trees and shrubs.
 They can protect livestock, reduce erosion, catch snow, and buffer roads or buildings.
 A hedgerow can function like a small shelterbelt if it is tall and wind-oriented.
@@ -110,7 +110,7 @@ The best design is one that can still be managed ten years later.
 
 - [[comparison-windbreak-vs-hedgerow]] gives the direct comparison.
 - [[hedgerow-planting]] helps with establishment of living boundaries.
-- [[windbreaks-hedgerows-and-shelterbelts]] explains the shared design category.
+- [[gaias-garden-hedgerows-and-windbreaks]] explains the shared design category.
 - [[gaias-garden-hedgerows-and-windbreaks]] emphasizes biodiversity and multifunctional edges.
 - [[hemenway-hedgerow-and-shelterbelt-design]] connects layout and shelterbelt function.
 - [[permaculture-windbreak]] focuses on wind reduction.

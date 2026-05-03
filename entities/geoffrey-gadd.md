@@ -14,6 +14,12 @@ sources:
 
 British mycologist, professor at the University of Dundee, and leading researcher on fungal interactions with metals, minerals, and the environment. Gadd is one of the most cited researchers in geomycology — the study of fungal interactions with geological substrates.
 
+
+
+
+
+
+
 ## Key Research Areas
 
 ### Geomycology and Metal Interactions
@@ -40,6 +46,12 @@ Gadd's research on fungal-metal interactions has direct applications to [[mycore
 
 Co-editor of *Fungi in the Environment* (with [[sarah-c-watkinson]] and Paul S. Dyer), a comprehensive reference covering fungal contributions to decomposition, nutrient cycling, plant symbioses, and environmental interactions. See also [[john-dighton]]'s complementary *Fungi in Ecosystem Processes*.
 
+
+
+
+
+
+
 ## Academic Career
 
 - Professor and head of mycology research at the University of Dundee
@@ -48,9 +60,21 @@ Co-editor of *Fungi in the Environment* (with [[sarah-c-watkinson]] and Paul S. 
 - Contributed to Singh's comprehensive volume on fungal bioremediation
 - Established geomycology as a recognized subdiscipline
 
+
+
+
+
+
+
 ## Legacy
 
 Gadd demonstrated that fungi play critical roles in mineral cycling and environmental chemistry that were previously underappreciated. His work bridges mycology, geochemistry, and environmental science, providing the scientific basis for using fungi in environmental remediation.
+
+
+
+
+
+
 
 ## Related
 

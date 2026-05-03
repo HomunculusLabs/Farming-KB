@@ -135,6 +135,8 @@ Continuum mechanics remains foundational because it organizes diverse physical s
 
 ## See Also
 
+- [[lagrangian-mechanics]]
+
 - [[stress-strain-and-elasticity]]
 - [[navier-stokes-equations-fluid-dynamics]]
 - [[finite-element-method]]

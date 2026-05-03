@@ -82,5 +82,7 @@ Plants manufacture carbon through photosynthesis and convert it to hexose sugars
 
 ## Related
 
+- [[p-glycoprotein-drug-transport]]
+
 - [[bacterial-to-fungal-soil-succession]]
 - [[nutrient-retention-soil-food-web]]
