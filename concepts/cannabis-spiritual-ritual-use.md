@@ -119,3 +119,4 @@ The guide notes that cannabis should only be used in jurisdictions where legally
 - [[cannabis-vegetative-stage]] — Cannabis cultivation basics
 - [[cannabis-extraction-basics]] — Making infused oils and tinctures
 - [[mushroom-folklore-and-culture]] — Cultural attitudes toward fungi as a parallel tradition
+- [[leonotis-leonurus]]

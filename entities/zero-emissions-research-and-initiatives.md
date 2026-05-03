@@ -32,7 +32,7 @@ fungi to transform agricultural and industrial residues into food and fertility.
 - Founder: [[gunter-pauli]].
 - Full name: Zero Emissions Research and Initiatives.
 - Common abbreviation: ZERI.
-- Related frame: [[blue-economy]].
+- Related frame: blue economy.
 
 ## Historical Background
 Wikipedia summarizes ZERI as a decentralized global network founded in 1994 at the
@@ -107,7 +107,7 @@ ZERI frames those residues as a basis for local enterprise.
 
 ## Relationship to the Blue Economy
 ZERI is one institutional root of Pauli's later Blue Economy framing.
-The [[blue-economy]] emphasizes business models that meet needs using locally available
+The blue economy emphasizes business models that meet needs using locally available
 resources and cascading value.
 Where some green business models add environmental premiums, ZERI seeks lower cost
 through multiple uses of the same resource stream.

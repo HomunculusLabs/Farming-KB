@@ -15,7 +15,7 @@ It connects the shapes of continents with fossil distributions and rock belts.
 It links deep ocean trenches with volcanic arcs and earthquake zones.
 
 It also explains why Earth continually recycles crustal material.
-The theory is central to [[geology]], [[geophysics]], and [[earth-system-science]].
+The theory is central to geology, geophysics, and earth system science.
 ## Key Aspects
 
 A tectonic plate is a coherent slab of lithosphere.
@@ -123,13 +123,18 @@ Continents assemble into supercontinents and later split apart.
 Oceans open, close, and reopen through the Wilson cycle.
 Mountains rise and erode into sediment that may become future rock.
 ## Related Concepts
-[[geology]]
-[[geophysics]]
-[[earthquakes]]
-[[volcanology]]
-[[mantle-convection]]
-[[subduction-zones]]
-[[seafloor-spreading]]
-[[paleomagnetism]]
-[[rock-cycle]]
-[[carbon-cycle]]
+geology
+geophysics
+earthquakes
+volcanology
+mantle convection
+subduction zones
+seafloor spreading
+paleomagnetism
+rock cycle
+[[mycorrhiza-carbon-cycle-sequestration|carbon cycle]]
+
+## See Also
+
+- [[rock-eating-fungi-and-mineral-weathering]]
+- [[endolithic-fungi-rock-colonizing-communities]]

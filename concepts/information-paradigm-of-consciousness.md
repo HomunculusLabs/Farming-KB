@@ -118,3 +118,4 @@ Despite these challenges, the information paradigm provides a uniquely useful fr
 - [[mind-body-problem-and-psychedelics]]
 
 - [[consciousness-and-psychedelics]]
+- [[information-entropy]]

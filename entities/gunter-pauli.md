@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 Gunter Pauli is a Belgian entrepreneur, economist, author, and sustainability advocate
-best known for [[blue-economy]] thinking and for founding [[zero-emissions-research-and-initiatives]].
+best known for blue economy thinking and for founding [[zero-emissions-research-and-initiatives]].
 He appears in this wiki because ZERI case studies connect fungi, agricultural residues, and zero-waste industrial design.
 
 ## Entity Type
@@ -143,7 +143,7 @@ every claim or project.
 
 ## See Also
 - [[zero-emissions-research-and-initiatives]]
-- [[blue-economy]]
+- blue economy
 - [[fungi-sustainable-packaging-and-materials]]
 - [[fungal-roles-in-mass-extinction-recovery]]
 - [[oyster-mushroom-spent-substrate-recycling]]

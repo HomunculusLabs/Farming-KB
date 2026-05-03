@@ -136,3 +136,4 @@ Fungal mineral weathering has practical applications:
 
 ## Merged: Tassili Rock Art and the Mushroom Debate
 The Tassili plateau of southern Algeria contains some of the most discussed — and contested — rock art in the history of psychedelic research. The images, dating from the Neolithic to the start of the Common Era, have been interpreted by some as evidence of prehistoric mushroom use, though this interpretation is far from settled. This image was popularized by [[terence-mckenna-stoned-ape-hypothesis]], who reproduced it in two widely read books. - [[terence-mckenna-stoned-ape-hypothesis]] - [[archaeology-of-psychedelic-mushroom-use]] - [[archaeology-of-psychedelic-mushroom-use]] - [[amanita-muscaria-guide]] - [[gordon-wasson-mushroom-discovery]] --- Source: Shroom: A Cultural History of the Magic Mushroom (Letcher, 2006), Chapters 2-3 Updated: 2026-04-18 - rock eating fungi and mineral weathering
+- [[plate-tectonics]]

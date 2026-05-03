@@ -109,3 +109,10 @@ farming" resonated with the growing critique of industrial agriculture in the
 1980s and 1990s, and his seed ball technique (encasing seeds in clay
 containing compost and protective microbes) was adopted by restoration
 ecologists for revegetating degraded landscapes. Fukuoka's later project to
+
+## See Also
+
+- [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
+- [[fukuoka-textdoc-natural-form-fruit-trees]]
+- [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
+- [[fukuoka-textdoc-ideal-form-high-yielding-rice]]

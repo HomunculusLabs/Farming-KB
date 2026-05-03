@@ -144,3 +144,4 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 ## See Also
 
 - [[agroecology]]
+- [[fukuoka-textdoc-greening-deserts-plant-irrigation]]

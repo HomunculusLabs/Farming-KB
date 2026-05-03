@@ -118,3 +118,4 @@ These caveats make one-carbon metabolism a systems problem rather than a supplem
 - PMC, "Folate-Methionine Cycle Disruptions in ASD Patients and Possible Interventions," accessed 2026-05-02.
 - PMC, "Methionine synthase is essential for cancer cell proliferation in physiological folate environments," accessed 2026-05-02.
 - Wikipedia, "Methionine," accessed 2026-05-02.
+- [[query-how-does-one-carbon-metabolism-affect-methylation]]

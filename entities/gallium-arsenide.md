@@ -128,3 +128,8 @@ Gallium arsenide is the canonical high-performance direct-gap III-V semiconducto
 Its value comes from the combination of efficient optical transitions and fast electron transport.
 Those same advantages are balanced by cost, arsenic handling, substrate fragility, and weaker oxide technology.
 For wiki navigation, it is best treated as the direct-gap counterpart to silicon in semiconductor examples.
+
+## See Also
+- [[singh-selenium-arsenic-biotransformation-fungi]]
+- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
+- [[singh-composted-fungal-biomass-heavy-metal-immobilization]]

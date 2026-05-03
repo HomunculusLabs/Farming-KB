@@ -147,3 +147,4 @@ saturation current, breakdown voltage, and optical response all trace back to ba
 - Wikipedia, "Electronic band structure," accessed for Bloch-state, Brillouin-zone, and direct-gap terminology.
 - Wikipedia, "Semiconductor," accessed for carrier, doping, and device context.
 - Wikipedia, "Band gap," accessed for valence-band, conduction-band, and optical transition definitions.
+- [[semiconductor-pn-junction]]

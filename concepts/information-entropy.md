@@ -16,7 +16,7 @@ If all symbols are equally likely, each observation resolves more uncertainty.
 
 The most familiar unit is the bit.
 One bit is the information gained by distinguishing between two equally likely alternatives.
-Information entropy links [[probability-theory]], [[communication-theory]], and [[statistical-mechanics]].
+Information entropy links probability theory, communication theory, and statistical mechanics.
 ## Key Definition
 
 For a discrete random variable, Shannon entropy is the expected value of self-information.
@@ -121,15 +121,20 @@ It gives scientists and engineers a language for limits rather than just mechani
 It says how much can be compressed, transmitted, predicted, hidden, or learned.
 ## Related Concepts
 
-[[probability-theory]]
-[[communication-theory]]
+probability theory
+communication theory
 
-[[statistical-mechanics]]
-[[thermodynamics]]
-[[data-compression]]
-[[cryptography]]
-[[machine-learning]]
-[[mutual-information]]
+statistical mechanics
+[[laws-of-thermodynamics|thermodynamics]]
+data compression
+cryptography
+machine learning
+mutual information
 
-[[maximum-entropy-principle]]
-[[complex-systems]]
+maximum entropy principle
+complex systems
+
+## See Also
+
+- [[information-paradigm-of-consciousness]]
+- [[psychedelic-consciousness-models]]

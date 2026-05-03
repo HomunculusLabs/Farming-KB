@@ -122,3 +122,4 @@ resistance, and mechanical durability.
 - thermal radiation and emissivity
 - [[mushroom-cultivation-basics]]
 - [[biomass-compost-greenhouse-heating-systems]]
+- [[heat-transfer-coefficient]]

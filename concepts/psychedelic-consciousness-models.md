@@ -101,3 +101,7 @@ See also: [[informational-monism]], [[ketamine-psychedelic-journey-guide]], psyc
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[visionary-symbols-and-universal-archetypes]]
 - [[psilocybin-consciousness-as-information-in-process]]
+
+## See Also
+
+- [[query-how-do-psychedelics-change-consciousness]]

@@ -11,7 +11,7 @@ When these elements are poorly aligned, organizations overreact to noisy demand 
 The result can be excess inventory, stockouts, rush orders, idle capacity, and unstable production schedules.
 The bullwhip effect is not limited to consumer goods.
 It appears in industrial equipment, pharmaceuticals, food systems, energy markets, and digital infrastructure procurement.
-It is a core concept in [[operations-management]], [[systems-thinking]], and [[supply-chain-management]].
+It is a core concept in operations management, [[savory-complexity-and-wholistic-thinking|systems thinking]], and supply chain management.
 ## Key Aspects
 
 The bullwhip effect begins with demand variability.
@@ -123,13 +123,18 @@ It also shows why resilience requires looking at networks rather than isolated f
 A supply chain is not merely a line of transactions.
 It is a dynamic system with memory, feedback, expectations, and power relationships.
 ## Related Concepts
-[[supply-chain-management]]
-[[operations-management]]
-[[systems-thinking]]
-[[feedback-loops]]
-[[inventory-management]]
-[[just-in-time-manufacturing]]
-[[forecasting]]
-[[logistics]]
-[[resilience-engineering]]
-[[complex-systems]]
+supply chain management
+operations management
+[[savory-complexity-and-wholistic-thinking|systems thinking]]
+feedback loops
+inventory management
+just in time manufacturing
+forecasting
+logistics
+resilience engineering
+complex systems
+
+## See Also
+
+- [[permaculture-community-resilience-strategies]]
+- [[holmgren-self-regulation-feedback-detailed]]

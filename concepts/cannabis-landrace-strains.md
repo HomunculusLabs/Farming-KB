@@ -126,3 +126,4 @@ botanical term.
 - [[cannabis-strain-naming]]
 - [[cannabis-genetic-stability]]
 - [[autoflowering-breeding]]
+- [[panama-red]]

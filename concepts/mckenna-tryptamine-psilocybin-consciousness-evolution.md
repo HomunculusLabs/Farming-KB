@@ -102,3 +102,4 @@ McKenna argues that in the absence of psychedelic compounds, "the closest we can
 - mckenna-tryptamine-consciousness-dmt-spirit-molecule -- DMT phenomenology
 - mckenna-tryptamine-endogenous-dmt-pineal-gland-theory -- endogenous tryptamines
 - mckenna-tryptamine-research-legal-status -- barriers to investigation
+- [[bufotenin]]

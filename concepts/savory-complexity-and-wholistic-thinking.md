@@ -131,3 +131,4 @@ collaborative management of the whole can lead to long-term success.
 - [[savory-ecosystem-foundation-blocks]]
 - [[savory-testing-and-management-guidelines]]
 - [[savory-holistic-management-overview]]
+- [[bullwhip-effect]]

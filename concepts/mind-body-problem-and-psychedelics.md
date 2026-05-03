@@ -118,3 +118,4 @@ It directly affects how we interpret the significance of psychedelic experiences
 ## See Also
 
 - [[deep-relaxation-and-mind-body-healing]]
+- [[mind-body-problem-vs-information-paradigm-of-consciousness]]

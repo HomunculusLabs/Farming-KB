@@ -148,3 +148,10 @@ culture, influencing decriminalization movements, artists, and filmmakers.
   [[albert-hofmann]], [[aldous-huxley]]
 - **Peers:** [[timothy-leary]], [[ralph-metzner]], [[claude-naranjo]],
   [[stanislav-grof]], [[jonathan-ott]], [[alexander-shulgin]], [[andrew-weil]]
+
+## See Also
+
+- [[mckenna-four-stages-abandoning-mystery]]
+- [[mckenna-exploitation-cycles-drug-diplomacy]]
+- [[mckenna-television-dominator-drug]]
+- [[mckenna-genesis-first-drug-bust]]

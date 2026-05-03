@@ -83,3 +83,8 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 - [[psychedelic-consciousness-models]]
 - [[psychedelic-plants-and-civilization]]
 - [[terence-mckenna-stoned-ape-hypothesis]]
+- [[mckenna-four-stages-abandoning-mystery]]
+- [[mckenna-exploitation-cycles-drug-diplomacy]]
+- [[mckenna-television-dominator-drug]]
+- [[mckenna-genesis-first-drug-bust]]
+- [[mckenna-art-archaic-revival]]
