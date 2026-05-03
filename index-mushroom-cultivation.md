@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1230 pages**
+**1231 pages**
 
 ## #
 
@@ -1138,6 +1138,7 @@
 - [[sacred-mushroom-ceremonies]]
 - [[sacred-mushroom-hypothesis]]
 - [[sacred-mushroom-names-cross-cultural-synonyms]]
+- [[sacred-mushroom-traditions-in-mexico]]
 - [[sacred-sacrament-mushroom-rites]]
 - [[saharan-rock-art-mushroom-cult]]
 - [[saprophytic-mushrooms]]

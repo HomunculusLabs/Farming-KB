@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**842 pages**
+**846 pages**
 
 ## A
 
@@ -85,6 +85,7 @@
 - [[comparison-brown-rot-vs-white-rot-bioremediation]]
 - [[comparison-bsf-composting-vs-earthworm-breeding]]
 - [[comparison-bsf-composting-vs-hot-composting]]
+- [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
 - [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]
 - [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
 - [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
@@ -322,6 +323,7 @@
 - [[comparison-solar-cooking-vs-cob-oven]]
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]
 - [[comparison-solar-dehydrator-vs-root-cellar]]
+- [[comparison-solarization-vs-occultation]]
 - [[comparison-sourdough-vs-wild-yeast]]
 - [[comparison-sourdough-vs-wild-yeast-bread]]
 - [[comparison-spore-print-collection-vs-spore-syringe-production]]
@@ -720,6 +722,7 @@
 - [[query-sog-vs-scrog-cannabis-training-methods]]
 - [[query-spore-syringes-vs-liquid-culture]]
 - [[query-what-are-adaptogenic-herbs-and-how-do-i-grow-them]]
+- [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
 - [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
@@ -780,6 +783,7 @@
 - [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
 - [[query-what-is-a-wavelet-transform-used-for]]
 - [[query-what-is-agroforestry-and-how-can-i-start]]
+- [[query-what-is-allelopathy-and-how-can-i-use-it-in-my-garden]]
 - [[query-what-is-alley-cropping-and-when-should-i-use-it]]
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
 - [[query-what-is-biochar-and-should-i-use-it]]

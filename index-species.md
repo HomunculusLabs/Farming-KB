@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1136 pages**
+**1144 pages**
 
 ## #
 
@@ -439,6 +439,7 @@
 - [[epibrassinolide]]
 - [[epichloe-typhina]]
 - [[ergine-lsa]]
+- [[ergotamine]]
 - [[ergothioneine]]
 - [[erythroxylum-coca]]
 - [[escaline-entity]]
@@ -572,6 +573,7 @@
 ## I
 
 - [[ibogaine-entity-tihkal]]
+- [[ibotenic-acid]]
 - [[ice-cream-bean-entity]]
 - [[idnna-entity]]
 - [[idnna-entity-pihkal]]
@@ -654,6 +656,7 @@
 - [[lentinula-edodes]]
 - [[lentinus-edodes-entity-the-mushroom-cultivator]]
 - [[leonotis-leonurus]]
+- [[leonurus-cardiaca]]
 - [[lepiota-procera]]
 - [[lepiota-rachodes]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
@@ -792,6 +795,8 @@
 - [[mycena-galopus]]
 - [[mycena-pura]]
 - [[mycena-purpureofusca]]
+- [[mycofiltration]]
+- [[mycoforestry]]
 - [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
 - [[mycoremediation]]
 - [[myrcene]]
@@ -800,6 +805,7 @@
 ## N
 
 - [[n-arachidonoyl-dopamine-nada]]
+- [[n-dmt]]
 - [[n-methyl-pea-entity]]
 - [[nabilone]]
 - [[neem]]
@@ -860,6 +866,7 @@
 - [[penicillium-entity]]
 - [[penicillium-expansum]]
 - [[penicillium-simplicissimum]]
+- [[permaculture]]
 - [[persimmon-entity]]
 - [[peter-oei]]
 - [[phallus-impudicus-entity]]
@@ -1204,6 +1211,7 @@
 - [[walter-pahnke]]
 - [[walter-stoll]]
 - [[wayne-lewis]]
+- [[white-widow]]
 - [[william-falconer]]
 - [[william-ozier-williams]]
 - [[win55212-2]]

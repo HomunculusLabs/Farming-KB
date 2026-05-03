@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1570 pages**
+**1569 pages**
 
 ## A
 
@@ -1038,7 +1038,6 @@
 - [[pdc-zone-analysis-guide]]
 - [[pdc-zone-one-garden-design]]
 - [[perennial-food-forests]]
-- [[permaculture]]
 - [[permaculture-access-and-circulation-design]]
 - [[permaculture-access-design]]
 - [[permaculture-almond-guide]]

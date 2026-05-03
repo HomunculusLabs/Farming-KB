@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2182 pages**
+**2187 pages**
 
 ## #
 
@@ -208,6 +208,7 @@
 - [[bioremediation-fungal-vs-bacterial]]
 - [[bioremediation-laccase-mediator-systems]]
 - [[blesching-cannabis-fungal-infections-candida]]
+- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 - [[bloomfield-basidiomycete-biology-overview]]
@@ -215,6 +216,7 @@
 - [[bloomfield-buller-experimental-mycology]]
 - [[bloomfield-chytrid-fungi-early-fungal-evolution]]
 - [[bloomfield-cordyceps-insect-pathogens-behavior]]
+- [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
@@ -224,6 +226,7 @@
 - [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
 - [[bloomfield-fungal-reproduction-and-chemical-communication]]
 - [[bloomfield-fungal-secondary-metabolites]]
+- [[bloomfield-fungal-sex-pheromones-mating-communication]]
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-fungi-in-folklore-and-mythology]]
 - [[bloomfield-gasteromycetes-puffballs-earthstars]]
@@ -235,10 +238,12 @@
 - [[bloomfield-potato-blight-phytophthora-infestans]]
 - [[bloomfield-pythium-oomycete-water-molds]]
 - [[bloomfield-rice-blast-appressorium-mechanics]]
+- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
 - [[bloomfield-truffle-hunting-and-culinary-fungi]]
 - [[bloomfield-turgor-pressure-and-hyphal-invasion]]
+- [[bloomfield-wood-decay-fungi-spalted-timber]]
 - [[bloomfield-yeast-saccharomyces-fungal-pathogens]]
 - [[bloomfields-orchard-fungal-biology-and-ecology]]
 - [[bloomfields-orchard-history-of-mycology]]
@@ -1457,7 +1462,6 @@
 - [[mycofiltration-silt-erosion-control]]
 - [[mycofiltration-water-treatment]]
 - [[mycofiltration-watershed-protection]]
-- [[mycoforestry]]
 - [[mycoforestry-applications]]
 - [[mycoforestry-forest-management-with-fungi]]
 - [[mycoforestry-forest-restoration]]
@@ -1775,6 +1779,7 @@
 - [[psilocybe-tampanensis-profile]]
 - [[psilocybe-weilii-species-profile]]
 - [[psilocybian-fungi-law-australia-nz]]
+- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]]
 - [[psilocybin-mushroom-image-guide-spore-color-chart]]
 - [[psilocybin-mushroom-spore-print-identification]]
 - [[psilocybin-tryptamine-chemistry-fungi]]

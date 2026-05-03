@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**942 pages**
+**943 pages**
 
 ## #
 
@@ -756,6 +756,7 @@
 - [[psilocybin-potency-dosage-guide]]
 - [[psilocybin-potency-variation]]
 - [[psilocybin-psilocin-chemical-synthesis]]
+- [[psilocybin-psilocin-chemistry]]
 - [[psilocybin-psychological-mechanisms]]
 - [[psilocybin-psychotherapy]]
 - [[psilocybin-psychotherapy-research-history]]
