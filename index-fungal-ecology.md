@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2175 pages**
+**2176 pages**
 
 ## #
 
@@ -1672,6 +1672,7 @@
 
 ## P
 
+- [[p-glycoprotein-drug-transport]]
 - [[palmer-about-mushrooms-cooking-and-preservation]]
 - [[palmer-about-mushrooms-edible-species-identification]]
 - [[palmer-about-mushrooms-foraging-basics-and-safety]]

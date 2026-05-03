@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**820 pages**
+**827 pages**
 
 ## A
 
@@ -20,6 +20,7 @@
 - [[cannabis-nutrient-regimens-comparison]]
 - [[cannabis-prohibition-history]]
 - [[cannabis-training-techniques-comparison]]
+- [[carnot-cycle-vs-rankine-cycle]]
 - [[comparison-adobe-vs-bamboo-construction]]
 - [[comparison-adobe-vs-rammed-earth]]
 - [[comparison-aerobic-vs-anaerobic-composting]]
@@ -436,6 +437,7 @@
 - [[permaculture-history-timeline]]
 - [[permaculture-water-systems]]
 - [[permaculture-zone-design-comparison]]
+- [[photonic-crystals-vs-metamaterials]]
 - [[psychedelic-substances-comparison]]
 - [[psychedelic-therapy-models-comparison]]
 
@@ -459,6 +461,7 @@
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
+- [[query-how-do-cover-crops-suppress-weeds]]
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
 - [[query-how-do-fungi-contribute-to-carbon-sequestration]]
@@ -480,6 +483,7 @@
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
+- [[query-how-do-i-design-habitat-for-beneficial-insects]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]]
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
@@ -540,6 +544,7 @@
 - [[query-how-do-mushrooms-contribute-to-soil-health]]
 - [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
+- [[query-how-do-photonic-crystals-create-structural-color]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
 - [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]
 - [[query-how-do-you-make-your-own-mushroom-spawn-at-home]]
@@ -815,6 +820,7 @@
 - [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]
 - [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]
 - [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
+- [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]
 - [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]]
 - [[query-what-is-the-difference-between-indica-sativa-and-ruderalis-cannabis]]
 - [[query-what-is-the-difference-between-living-soil-and-hydroponic-growing]]
@@ -851,6 +857,7 @@
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[query-who-is-sepp-holzer-and-what-is-his-method]]
+- [[query-why-cant-heat-engines-be-100-percent-efficient]]
 
 ## R
 

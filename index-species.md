@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1106 pages**
+**1114 pages**
 
 ## #
 
@@ -206,6 +206,7 @@
 - [[andrew-weil]]
 - [[andy-letcher]]
 - [[ann-shulgin]]
+- [[anni-albers]]
 - [[aphanocladium-album]]
 - [[arabidopsis-thaliana]]
 - [[araucaria-araucana]]
@@ -425,8 +426,10 @@
 - [[elaphomyces-granulatus]]
 - [[eleagnus-angustifolia]]
 - [[eleutheromyces-subulatus]]
+- [[eli-yablonovitch]]
 - [[eliot-coleman]]
 - [[eme-entity-pihkal]]
+- [[emile-clapeyron]]
 - [[emm-entity-pihkal]]
 - [[ephedra-sinica]]
 - [[epibrassinolide]]
@@ -620,6 +623,8 @@
 
 ## L
 
+- [[l-citrulline]]
+- [[l-ornithine]]
 - [[laccaria-bicolor]]
 - [[laccaria-laccata]]
 - [[laccase]]
@@ -1041,6 +1046,8 @@
 
 - [[saccharomyces-cerevisiae]]
 - [[saccharomyces-paradoxus]]
+- [[sadi-carnot]]
+- [[sajeev-john]]
 - [[salix-alba]]
 - [[salvia-divinorum]]
 - [[sandoz-pharmaceuticals]]
@@ -1173,6 +1180,7 @@
 ## W
 
 - [[wade-davis]]
+- [[walter-gropius]]
 - [[walter-pahnke]]
 - [[walter-stoll]]
 - [[wayne-lewis]]
