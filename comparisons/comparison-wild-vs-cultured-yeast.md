@@ -16,7 +16,7 @@ making wine, baking bread, or creating other fermented foods. Wild fermentation
 relies on microorganisms naturally present in the environment and on ingredient
 surfaces, producing complex, variable results rooted in thousands of years of
 tradition. Cultured yeast uses specific laboratory-isolated strains of
-Saccharomyces cerevisiae and other species, providing predictable, consistent
+[[saccharomyces-cerevisiae]] and other species, providing predictable, consistent
 fermentation with known flavor profiles. Understanding both approaches allows
 fermenters to choose the right tool for their goals, ingredients, and risk
 tolerance.

@@ -14,7 +14,7 @@ sources:
 
 # Wool Insulation and Natural Textiles
 
-Bill Mollison covers natural fibres in Chapter 14 of Permaculture: A
+[[bill-mollison]] covers natural fibres in Chapter 14 of Permaculture: A
 Designers' Manual as essential materials for self-reliant building and
 clothing production. He presents sheep wool insulation as a superior
 natural alternative to synthetic insulations and describes traditional

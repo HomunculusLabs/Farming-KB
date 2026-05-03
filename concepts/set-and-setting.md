@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychot
 Set and setting is a foundational concept in psychedelic therapy and drug
 research that describes how the psychological and environmental context of a
 psychedelic experience profoundly shapes its content, quality, and outcomes.
-First articulated by Timothy Leary and his colleagues at Harvard in the early
+First articulated by [[timothy-leary]] and his colleagues at Harvard in the early
 1960s, this framework remains central to both clinical and recreational
 understanding of psychedelic substances. The principle that context determines
 experience has become one of the most important insights in psychedelic

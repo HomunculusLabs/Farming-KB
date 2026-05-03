@@ -122,7 +122,7 @@ Mushrooms orient into the wind (aerotropism), creating a pressure drop under the
 2. Spread over 10 pounds of moist, untreated straw
 3. Place in a perforated bag, burlap sack, or wooden crate
 4. Store at 35-50°F; mushrooms begin fruiting in 2-3 months (e.g., March from January inoculation)
-5. Works with aggressive species like *Pleurotus* (oyster mushrooms)
+5. Works with aggressive species like *Pleurotus* ([[oyster-mushrooms]])
 
 ### On Burlap
 1. Soak burlap sacks in water for an hour

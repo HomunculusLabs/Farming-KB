@@ -37,7 +37,7 @@ necessary.
 
 ### Trees Planted in Protected Areas Outside Pens
 
-In the tropics: mulberry, Bunya pine, fig, Inga (Inga edulis), oaks,
+In the tropics: mulberry, Bunya pine, fig, Inga ([[inga-edulis]]), oaks,
 chestnuts, chinquapins, breadfruit, jackfruit, and Prosopis. Palm
 species include Chilean wine palm (Jubaea spectabilis), Jagua palms
 (Jessenia spp), Buriti palms (Mauritia spp), Babassu palms (Orbignya

@@ -65,8 +65,7 @@ setups, and the systems require more frequent attention to prevent problems.
 [[hydroponic-growing-basics]]
 
 Hydroponics encompasses several methods that deliver nutrient solution directly
-to plant roots without soil, including [[deep-water-culture]], Nutrient Film
-Technique, [[ebb-and-flow]] (flood and drain), drip irrigation, and wick systems. In
+to plant roots without soil, including [[deep-water-culture]], [[nutrient-film-technique]], [[ebb-and-flow]] (flood and drain), drip irrigation, and wick systems. In
 all hydroponic methods, roots are in direct contact with nutrient solution,
 either through continuous submersion in DWC, periodic flooding in ebb and flow,
 continuous thin film flow in NFT, or regular dripping in drip systems. Dissolved

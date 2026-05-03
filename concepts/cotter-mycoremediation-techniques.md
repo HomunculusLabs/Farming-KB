@@ -124,7 +124,7 @@ A filtration prototype can also harvest enzymes by "washing mycelium":
 - Blewits (Clitocybe nuda): Hyperaccumulate metals in mycelium
 
 ### Hydrocarbons and Oil
-- Oyster mushrooms (Pleurotus spp.): Extremely effective at breaking down oil
+- [[oyster-mushrooms]] (Pleurotus spp.): Extremely effective at breaking down oil
 - Can be trained to degrade motor oil and related compounds
 
 ### Herbicides and Pesticides

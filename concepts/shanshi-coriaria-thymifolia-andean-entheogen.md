@@ -16,7 +16,7 @@ in Ecuador as an intoxicant, producing effects that include the
 sensation of flight. The chemistry of this species remains poorly
 understood, making it one of the more mysterious entheogenic plants
 documented in the ethnobotanical literature. The plant was documented
-by Richard Evans Schultes and [[albert-hofmann]] in their comprehensive
+by [[richard-evans-schultes]] and [[albert-hofmann]] in their comprehensive
 survey of hallucinogenic plants, reflecting its confirmed status as
 a psychoactive species despite limited ethnobotanical study.
 

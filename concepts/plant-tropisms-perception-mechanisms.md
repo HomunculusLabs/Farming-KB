@@ -13,7 +13,7 @@ sources: [raw/papers/tompkins-secret-life-of-plants.md]
 Plant tropisms are directional growth responses in which plants orient
 their growth toward or away from external stimuli. The study of these
 mechanisms has a rich history, from early botanical observations through
-the groundbreaking instrumentation of Sir Jagadis Chandra Bose, whose
+the groundbreaking instrumentation of Sir [[jagadis-chandra-bose]], whose
 work challenged the assumption that plant sensitivity was negligible.
 The research documented in *The Secret Life of Plants* reveals that
 [[plant-perception]] extends far beyond simple mechanical responses,

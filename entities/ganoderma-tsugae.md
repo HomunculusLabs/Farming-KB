@@ -72,7 +72,7 @@ sterile bag culture on supplemented sawdust substrates. Submerged
 fermentation can also be employed for mycelial biomass production.
 
 ### Traditional Use
-Ganoderma tsugae is used similarly to reishi (Ganoderma lucidum) in
+Ganoderma tsugae is used similarly to [[reishi-ganoderma-lucidum]]) in
 traditional medicine. It is prepared as teas, decoctions, and
 powdered extracts. While Ganoderma lucidum is more widely known in
 traditional Chinese medicine, Ganoderma tsugae has been used

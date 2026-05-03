@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # alpha-O-DMS (5-Methoxy-alpha-Methyltryptamine)
 
-alpha-O-DMS, also known as 5-methoxy-alpha-methyltryptamine or alpha,O-dimethylserotonin, is a potent synthetic tryptamine compound documented by Alexander Shulgin in TIHKAL as entry #5. It is one of the most pharmacologically powerful orally active tryptamines, with an extremely low dosage threshold and exceptionally long duration.
+alpha-O-DMS, also known as 5-methoxy-alpha-methyltryptamine or alpha,O-dimethylserotonin, is a potent synthetic tryptamine compound documented by [[alexander-shulgin]] in TIHKAL as entry #5. It is one of the most pharmacologically powerful orally active tryptamines, with an extremely low dosage threshold and exceptionally long duration.
 
 ## Chemistry and Structure
 

@@ -16,7 +16,7 @@ cannabinoids and terpenes but critically on the method of administration.
 Different routes of delivery produce dramatically different pharmacokinetic
 profiles, affecting onset time, duration of effects, bioavailability, and
 the ratio of active compounds that reach systemic circulation. In "The
-Cannabis Health Index," Uwe Blesching provides a comprehensive comparison
+[[cannabis-health-index]]," Uwe Blesching provides a comprehensive comparison
 of cannabis administration methods, helping patients and clinicians select
 the most appropriate approach for specific conditions and symptom profiles.
 

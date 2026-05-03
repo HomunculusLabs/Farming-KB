@@ -10,7 +10,7 @@ sources: []
 ## Overview
 
 Semiconductor band structure describes the allowed and forbidden electron energies in a crystalline semiconductor. It explains why silicon,
-germanium, gallium arsenide, and related materials conduct better than insulators but worse than metals under ordinary conditions.
+germanium, [[gallium-arsenide]], and related materials conduct better than insulators but worse than metals under ordinary conditions.
 
 The central feature is the band gap between a filled valence band and an empty or partly populated conduction band. Electrons promoted
 across the gap behave as mobile negative carriers, while the missing valence electrons behave as mobile positive holes.

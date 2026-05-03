@@ -79,7 +79,7 @@ After ingestion, gyromitrin is hydrolyzed in the stomach and liver to yield
 monomethylhydrazine (MMH, CH3NHNH2), which is the actual toxic agent. The conversion is
 catalyzed by gastric acid and by hepatic cytochrome P450 enzymes, particularly CYP2E1.
 
-MMH is a potent inhibitor of pyridoxal phosphate (vitamin B6)-dependent enzymes, particularly
+MMH is a potent inhibitor of [[pyridoxal-phosphate]] (vitamin B6)-dependent enzymes, particularly
 glutamic acid decarboxylase (GAD), which is essential for the synthesis of gamma-aminobutyric
 acid (GABA), the primary inhibitory neurotransmitter in the central nervous system.
 

@@ -29,8 +29,7 @@ complexes with metal cations, increasing their mobility.
 
 Approximately one-third of natural soil fungal isolates can solubilize at
 least one metal compound, and one-tenth can solubilize all tested compounds.
-Organic acids reach millimolar concentrations near plant roots and fungal
-hyphae. In European coniferous forests, fungal organic acids have created
+Organic acids reach millimolar concentrations near plant roots and [[fungal-hyphae]]. In European coniferous forests, fungal organic acids have created
 3–10 μm diameter pore networks in feldspar and hornblende minerals.
 
 ### Siderophore-Mediated Solubilization

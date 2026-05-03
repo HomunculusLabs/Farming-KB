@@ -109,7 +109,6 @@ Start with a small amount and apply more as needed. Effects are typically felt w
 - **Arthritis and joint pain**: Apply to affected joints 2-3 times daily
 - **Muscle soreness**: Apply after exercise or physical labor
 - **Menstrual cramps**: Apply to lower abdomen
-- **Headaches**: Apply to temples and neck (peppermint + cannabis)
-- **Skin conditions**: Psoriasis, eczema, dermatitis (CBD-dominant preparations)
+- **Headaches**: Apply to temples and neck (peppermint + [[cannabis-skin-conditions]]**: Psoriasis, eczema, dermatitis (CBD-dominant preparations)
 - **Nerve pain**: Apply to the affected area; some find relief with regular application
 For internal consumption methods, see [[cannabis-tinctures-guide]] and [[cannabis-edibles-guide]]. For the extracts used in topical production, see [[cannabis-extraction-basics]]. Cannabis potency in topicals can be estimated using dosing principles from [[cannabis-concentrates-types]].

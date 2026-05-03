@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 # Fungal Taxonomy Challenges
 
-Fungal taxonomy — the science of describing, naming, and classifying fungi —
+[[fungal-taxonomy]] — the science of describing, naming, and classifying fungi —
 faces a crisis. The rate of species discovery is far outpaced by the rate of
 extinction, and the gap between known and unknown fungal diversity continues
 to widen. Fundamental challenges in species concepts, nomenclature,

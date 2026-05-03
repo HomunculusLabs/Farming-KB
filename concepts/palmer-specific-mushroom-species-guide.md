@@ -24,7 +24,7 @@ time of year.
 
 ## The Meadow and Horse Mushroom
 
-The meadow mushroom (Agaricus campestris) and the horse-mushroom
+The meadow mushroom ([[agaricus-campestris]]) and the horse-mushroom
 (Agaricus arvensis) are so similar that cooks and gardeners ignore
 any difference between them. Palmer advanced the theory that the
 horse-mushroom is propagated from spores of the meadow mushroom

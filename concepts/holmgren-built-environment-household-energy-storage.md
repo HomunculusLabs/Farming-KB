@@ -16,7 +16,7 @@ type: concept
 
 # Built Environment as Energy Storage and the Household Economy
 
-David Holmgren extends the concept of energy storage beyond biological systems to
+[[david-holmgren]] extends the concept of energy storage beyond biological systems to
 encompass the built environment, household economies, and cultural systems. The
 transformation of energy into progressively more elaborate and valuable forms
 extends well beyond physical resources to the things we make with those resources

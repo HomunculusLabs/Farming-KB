@@ -11,8 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 Chapter 5 of *What a Plant Knows* examines how plants perceive and respond to
 gravity, enabling them to orient themselves correctly in space. A plant's
 ability to distinguish up from down, and to grow its roots downward and shoots
-upward, is one of the most fundamental aspects of plant biology. Daniel
-Chamovitz traces the history of research into gravitropism from the earliest
+upward, is one of the most fundamental aspects of plant biology. [[daniel-chamovitz]] traces the history of research into gravitropism from the earliest
 observations to modern molecular understanding.
 
 ## The Fundamental Problem of Orientation

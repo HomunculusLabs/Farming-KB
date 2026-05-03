@@ -26,7 +26,7 @@ parasitism of invertebrate eggs and cysts.
 
 ### Predatory Fungi
 
-Predatory species form extensive mycelial networks in soil and capture
+Predatory species form extensive [[mycelial-networks]] in soil and capture
 multiple animal prey per mycelial individual. They produce specialized
 capture organs including adhesive knobs, adhesive networks (three-
 dimensional nets), and constricting or nonconstricting rings. When a

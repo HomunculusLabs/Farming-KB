@@ -118,7 +118,7 @@ greater understanding of the dynamics of the unconscious.
 
 ## Controversy and Risk Assessment
 
-Hallucinogenic drugs as an adjunct to psychoanalysis and psychotherapy
+[[hallucinogenic-drugs]] as an adjunct to psychoanalysis and psychotherapy
 are still the subject of dispute in medical circles. Some psychiatrists
 hold that faster retrieval of traumatic experiences and shorter treatment
 periods are not advantageous, believing this method does not allow

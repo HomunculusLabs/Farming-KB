@@ -15,7 +15,7 @@ method for your climate, goals, and available resources.
 
 ## Overview
 
-**Dry Farming**, as developed and popularized by Steve Solomon, is a method of
+**Dry Farming**, as developed and popularized by [[steve-solomon]], is a method of
 growing crops without irrigation by relying on stored soil moisture. The
 technique involves wide plant spacing so that individual root systems can
 access deep subsoil moisture reserves. Watering is deep and infrequent,

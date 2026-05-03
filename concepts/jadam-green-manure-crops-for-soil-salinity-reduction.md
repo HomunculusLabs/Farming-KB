@@ -35,7 +35,7 @@ stagnates, slowly evaporates, and leaves salt behind. This cycle repeats,
 producing progressively more salinized soil.
 
 The fundamental solution is to eliminate the compacted soil layer. JADAM
-achieves this through no-till practices, cover crops with vigorous root
+achieves this through no-till practices, [[cover-crops]] with vigorous root
 systems, and microbial activity that breaks down compaction. Cover crops
 play a dual role: their roots physically break through compacted layers,
 and they actively absorb salt from the soil profile.

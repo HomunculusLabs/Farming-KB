@@ -60,7 +60,7 @@ each pair of calyxes.
 
 ## Factors Affecting Sex Ratios
 
-Under average conditions with a normal inductive photoperiod, Cannabis
+Under average conditions with a normal inductive [[photoperiod-cannabis]]
 will bloom and produce approximately equal numbers of pure staminate and
 pure pistillate plants with a few hermaphrodites. Under conditions of
 extreme stress, such as nutrient excess or deficiency, mutilation, and

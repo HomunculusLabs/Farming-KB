@@ -9,7 +9,7 @@ sources:
 
 # Extraction and Purification of Marijuana and Hashish Oils
 
-Chapter 1 of *Cannabis Alchemy* by Ben Lemon provides a detailed six-step
+Chapter 1 of *Cannabis Alchemy* by [[ben-lemon]] provides a detailed six-step
 process for extracting essential oils from cannabis plant material using
 solvent-based methods. The process covers everything from preparing raw
 marijuana or hashish through to obtaining purified, potent cannabis oil

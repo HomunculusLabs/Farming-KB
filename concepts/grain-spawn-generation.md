@@ -26,7 +26,7 @@ and thorough colonization of the target substrate.
 
 ## Choice of Grain
 
-Rye grain is the most popular choice for grain spawn production. Rye
+Rye grain is the most popular choice for [[grain-spawn-production]]. Rye
 kernels are of an ideal size, absorb water well, and provide excellent
 nutrition for mycelial growth. Other grains used successfully include
 wheat, milo (sorghum), corn, and millet. The general principle is that

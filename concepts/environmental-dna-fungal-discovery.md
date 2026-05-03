@@ -14,7 +14,7 @@ directly from environmental samples such as soil, water, air, and plant
 surfaces, researchers can detect fungi that cannot be observed directly or
 cultured in the laboratory. These approaches have revealed that the previously
 known fungal diversity represents only a small fraction of what actually exists
-in most ecosystems, fundamentally changing our understanding of fungal ecology
+in most ecosystems, fundamentally changing our understanding of [[fungal-ecology]]
 and biogeography. The scale of hidden diversity uncovered by eDNA approaches
 has been one of the most striking findings in modern mycology, suggesting that
 traditional survey methods have captured only the tip of the fungal iceberg.

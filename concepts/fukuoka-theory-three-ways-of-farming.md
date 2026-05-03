@@ -24,7 +24,7 @@ underlying different approaches to agriculture and their relative merits.
 Fukuoka arranged the three ways of farming along a spectrum from absolute to
 relative:
 
-- **Absolute World:** Mahayana natural farming (pure natural farming)
+- **Absolute World:** Mahayana [[natural-farming]] (pure natural farming)
 - **Relative World:** Hinayana natural farming (organic, idealistic farming)
   and scientific farming (scientific agriculture)
 

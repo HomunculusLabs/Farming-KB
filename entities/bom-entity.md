@@ -37,7 +37,7 @@ In the BOX family, BOM represents the mescaline pattern (3,4,5-trimethoxy) with 
 
 ## Chemical Family and Historical Context
 
-BOM belongs to the BOX family of phenethylamines, a group characterized by the addition of an oxygen substituent at the beta-carbon position of the phenethylamine backbone. This structural modification is significant because it represents one of the few systematic explorations of aliphatic substitution in psychedelic phenethylamines, a research direction pioneered by Alexander and Ann Shulgin.
+BOM belongs to the BOX family of phenethylamines, a group characterized by the addition of an oxygen substituent at the beta-carbon position of the phenethylamine backbone. This structural modification is significant because it represents one of the few systematic explorations of aliphatic substitution in psychedelic phenethylamines, a research direction pioneered by Alexander and [[ann-shulgin]].
 
 The beta-substitution strategy was motivated by the desire to explore how modifications to the ethylamine bridge between the aromatic ring and the amino nitrogen affect psychedelic activity. Most phenethylamine SAR (structure-activity relationship) work has focused on ring substitution patterns, with the aliphatic chain receiving comparatively little attention. The BOX family represents a notable exception to this trend.
 

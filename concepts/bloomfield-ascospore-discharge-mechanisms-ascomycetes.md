@@ -73,7 +73,7 @@ that visit the flowers.
 
 ## Dipodascus: The Mucilaginous Launcher
 
-Dipodascus, a yeast that grows in mucus trails left by slime molds,
+Dipodascus, a yeast that grows in mucus trails left by [[slime-molds]],
 produces upright, tapered asci that fill with ascospores. Each spore is
 wrapped in a thick, mucilaginous coat. When the tip of the ascus
 ruptures, the heavily lubricated spores slide out and form a loose

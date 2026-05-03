@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 # Plant Olfaction: What a Plant Smells
 
 Plants possess a sophisticated ability to detect volatile chemicals in their
-environment, a capacity that Daniel Chamovitz explores in Chapter 2 of *What a
+environment, a capacity that [[daniel-chamovitz]] explores in Chapter 2 of *What a
 Plant Knows*. While plants lack noses and olfactory neurons, they accomplish
 chemical sensing through receptor proteins on their cell surfaces that bind to
 specific airborne molecules. This chemical perception is central to how plants

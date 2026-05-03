@@ -24,8 +24,7 @@ bioremediation technologies.
 
 Metallothioneins (MTs) are specific, low-molecular-weight proteins
 (6000-10,000 Da) produced by animals, plants, and microorganisms in
-response to toxic metals. In fungi, the main function of Saccharomyces
-cerevisiae metallothionein (yeast MT) is cellular copper homeostasis.
+response to toxic metals. In fungi, the main function of [[saccharomyces-cerevisiae]] metallothionein (yeast MT) is cellular copper homeostasis.
 Induction and synthesis of MT, as well as amplification of the genes for
 MT, leads to enhanced copper resistance in both S. cerevisiae and
 Candida glabrata. Production of MT has been detected in both copper- and

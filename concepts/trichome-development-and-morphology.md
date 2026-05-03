@@ -47,7 +47,7 @@ ontogenetic sequence:
    layer through asymmetric cell division. This process is regulated by
    a suite of transcription factors including MYB, bHLH, and WD40 family
    proteins that form a regulatory complex analogous to the trichome
-   initiation complex in Arabidopsis thaliana.
+   initiation complex in [[arabidopsis-thaliana]].
 2. **Stalk elongation**: The stalk elongates through sequential cell
    divisions, raising the developing secretory head above the leaf
    surface. Stalk length is influenced by light intensity, with high-intensity

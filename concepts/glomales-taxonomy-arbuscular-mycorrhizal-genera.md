@@ -34,8 +34,7 @@ within the Zygomycota, containing two suborders and several
 families. Key historical landmarks include:
 - The original recognition of the Endogonaceae as a family
   of zygomycete fungi
-- The separation of the Glomaceae (arbuscular mycorrhizal
-  fungi) from the Endogonaceae (which includes nonmycorrhizal
+- The separation of the Glomaceae ([[arbuscular-mycorrhizal-fungi]]) from the Endogonaceae (which includes nonmycorrhizal
   genera)
 - The elevation of the group to phylum status based on
   molecular phylogenetic evidence

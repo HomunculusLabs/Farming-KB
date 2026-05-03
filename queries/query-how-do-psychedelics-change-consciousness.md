@@ -22,7 +22,7 @@ This is why psychedelic states are important for both neuroscience and the philo
 ## What Happens First?
 
 The process begins when a psychedelic compound enters the body.
-In the case of psilocybin mushrooms, psilocybin is converted into psilocin.
+In the case of [[psilocybin-mushrooms]], psilocybin is converted into psilocin.
 Psilocin then interacts with serotonin receptors, especially 5-HT2A receptors, in the brain.
 Other classic psychedelics, including LSD, DMT, and mescaline, also influence serotonergic signaling.
 These receptor-level events are physical and measurable.
@@ -85,7 +85,7 @@ Integration helps separate durable understanding from temporary intoxication.
 Dose, compound, personality, expectation, environment, music, social support, and cultural framing all matter.
 So do physical state, mental health, prior experience, and the presence or absence of preparation.
 The same substance can produce awe in one context and panic in another.
-This is why set and setting are central concepts in psychedelic literature.
+This is why [[set-and-setting]] are central concepts in psychedelic literature.
 The chemistry opens a range of possibilities, but context strongly shapes which possibilities become experience.
 
 ## Bottom Line

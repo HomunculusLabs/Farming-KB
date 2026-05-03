@@ -10,7 +10,7 @@ sources:
 
 # PDC Water Conservation Techniques
 
-The 1981 [[permaculture-design]] Course devotes extensive coverage to water conservation across multiple pamphlets. This page consolidates the specific water harvesting, storage, and conservation techniques Mollison teaches, complementing the existing [[pdc-water-harvesting-design]] page.
+The 1981 [[permaculture-design]] Course devotes extensive coverage to [[water-conservation]] across multiple pamphlets. This page consolidates the specific water harvesting, storage, and conservation techniques Mollison teaches, complementing the existing [[pdc-water-harvesting-design]] page.
 
 ## Swales: The Core Technology
 

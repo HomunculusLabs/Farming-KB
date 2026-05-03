@@ -55,8 +55,7 @@ bay by inhibitory serotonergic neurons.
 The visions produced by psychedelic agents like psilocybin can thus be
 understood as the result of waking dreams, or at least as emerging from
 neuronal processes similar to those that occur during sleep. This idea is not
-only theoretically compelling but intuitively correct: the psilocybin
-mushroom allows one to experience dream-like consciousness while awake,
+only theoretically compelling but intuitively correct: the [[psilocybin-mushroom]] allows one to experience dream-like consciousness while awake,
 taking the form of intensely moving visions behind closed eyes. Both states
 share a common neurochemical basis in the temporary suspension of serotonergic
 inhibition.

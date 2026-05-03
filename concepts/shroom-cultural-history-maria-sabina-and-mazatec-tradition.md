@@ -14,7 +14,7 @@ tags: [history, mazatec]
 
 ## The Mazatec Mushroom Velada
 
-Maria Sabina, a Mazatec Indian, was born in Huautla de Jiménez, Oaxaca, on 17 March 1894. She grew up in a culture where the highest class of curanderos (healers) — the "Wise Men" and "Wise Women" — derived their healing powers from the "sacred" mushrooms. According to curanderos, mushrooms granted access to, or were literally seen as, spirits with whom the healers could form beneficial relationships.
+[[maria-sabina]], a Mazatec Indian, was born in Huautla de Jiménez, Oaxaca, on 17 March 1894. She grew up in a culture where the highest class of curanderos (healers) — the "Wise Men" and "Wise Women" — derived their healing powers from the "sacred" mushrooms. According to curanderos, mushrooms granted access to, or were literally seen as, spirits with whom the healers could form beneficial relationships.
 
 ### Childhood Discovery
 

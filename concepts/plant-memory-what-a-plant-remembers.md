@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 Chapter 6 of *What a Plant Knows* addresses one of the most philosophically
 rich topics in plant biology: the question of whether plants can be said to
-have memory. Daniel Chamovitz approaches this question by examining the various
+have memory. [[daniel-chamovitz]] approaches this question by examining the various
 ways in which plants retain information about past experiences and use that
 information to modify future responses. While plants do not have brains or
 neural circuits, they exhibit several forms of information storage that are

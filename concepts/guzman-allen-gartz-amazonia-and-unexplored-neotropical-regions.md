@@ -16,8 +16,7 @@ sources:
 
 Despite the recognition of 216 neurotropic [[fungal-species-concept-and-taxonomy]] worldwide, vast
 regions of the tropics remain mycologically unexplored. Guzmán, Allen and
-Gartz (1998/2000) identified significant gaps in the known distribution of
-neurotropic fungi, particularly in the Amazon basin, Central Africa, and
+Gartz (1998/2000) identified significant gaps in the known [[distribution-of-neurotropic-fungi]], particularly in the Amazon basin, Central Africa, and
 parts of Asia. The concentration of collecting effort in Europe and North
 America creates a biased picture of global diversity that likely
 underestimates tropical species richness.

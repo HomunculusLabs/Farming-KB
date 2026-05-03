@@ -19,7 +19,7 @@ type: concept
 Robert Graves (1895-1985) occupies an idiosyncratic position in the
 story of the magic mushroom. The eccentric poet, novelist, and
 Professor of Poetry at Oxford played a vital if largely forgotten role
-in alerting Gordon Wasson to the existence of Mexican mushroom rituals
+in alerting [[gordon-wasson]] to the existence of Mexican mushroom rituals
 and subsequently in promoting the idea that hallucinogenic mushrooms
 had been used in ancient European cultures. His influence extended to
 the British psychedelic underground through his widely read books.

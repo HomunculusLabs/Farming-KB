@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-JADAM nutrient management is built on three pillars: (1) the JADAM Wetting Agent (JWA) as the universal delivery vehicle for all inputs, (2) sea water/sea salt and phyllite solution as mineral supplements, and (3) [[jadam-liquid-fertilizer]] (JLF) made from crop-specific materials. The system rejects stage-based fertilizer programs as marketing tools and emphasizes soil application over [[foliar-feeding]].
+JADAM nutrient management is built on three pillars: (1) the [[jadam-wetting-agent-jwa]]) as the universal delivery vehicle for all inputs, (2) sea water/sea salt and phyllite solution as mineral supplements, and (3) [[jadam-liquid-fertilizer]] (JLF) made from crop-specific materials. The system rejects stage-based fertilizer programs as marketing tools and emphasizes soil application over [[foliar-feeding]].
 
 ## JADAM Wetting Agent (JWA)
 

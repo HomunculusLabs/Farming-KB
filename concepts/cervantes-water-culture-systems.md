@@ -10,7 +10,7 @@ updated: 2026-04-26
 
 # Water Culture Systems
 
-Water culture hydroponic systems grow plants without soil, suspending roots directly in nutrient solution or misted environments. These systems include Deep Water Culture (DWC), Nutrient Film Technique (NFT), and aeroponics -- each offering high performance with varying levels of complexity and maintenance requirements.
+Water culture hydroponic systems grow plants without soil, suspending roots directly in nutrient solution or misted environments. These systems include [[deep-water-culture]] (DWC), Nutrient Film Technique (NFT), and aeroponics -- each offering high performance with varying levels of complexity and maintenance requirements.
 
 
 
