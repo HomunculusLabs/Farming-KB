@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1114 pages**
+**1118 pages**
 
 ## #
 
@@ -339,6 +339,7 @@
 - [[cordyceps-militaris]]
 - [[cordyceps-sinensis]]
 - [[coriolus-versicolor]]
+- [[corneliu-e-giurgea]]
 - [[cortinarius-cinnamomeus]]
 - [[coryphantha-compacta]]
 - [[cpm-entity]]
@@ -660,6 +661,7 @@
 - [[lophophora-diffusa]]
 - [[lophophora-williamsii]]
 - [[loquat-entity]]
+- [[lord-rayleigh]]
 - [[louis-lewin]]
 - [[lsd]]
 - [[lsd-d-lysergic-acid-diethylamide]]
@@ -1044,6 +1046,7 @@
 
 ## S
 
+- [[s-adenosylmethionine]]
 - [[saccharomyces-cerevisiae]]
 - [[saccharomyces-paradoxus]]
 - [[sadi-carnot]]
@@ -1148,6 +1151,7 @@
 - [[tricholoma-tigrinum]]
 - [[trichothecium-roseum]]
 - [[trifolium-repens]]
+- [[trimethylarsine]]
 - [[tris-entity-pihkal]]
 - [[tryptamine]]
 - [[tryptamine-entity-tihkal]]

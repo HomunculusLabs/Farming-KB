@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**827 pages**
+**832 pages**
 
 ## A
 
@@ -390,6 +390,7 @@
 
 ## H
 
+- [[hemoglobin-vs-myoglobin]]
 - [[history-of-mycology-timeline]]
 - [[homestead-startup-checklist]]
 - [[homesteading-livestock-comparison]]
@@ -461,6 +462,7 @@
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
+- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
 - [[query-how-do-cover-crops-suppress-weeds]]
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
@@ -500,6 +502,7 @@
 - [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
 - [[query-how-do-i-improve-soil-drainage-in-my-garden]]
 - [[query-how-do-i-integrate-ducks-into-my-permaculture-system]]
+- [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]
 - [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]]
 - [[query-how-do-i-make-a-balanced-herbal-mulch-for-no-till-gardens]]
 - [[query-how-do-i-make-a-johnson-su-bioreactor]]
@@ -555,6 +558,7 @@
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
 - [[query-how-does-crop-rotation-improve-soil-health]]
 - [[query-how-does-foliar-feeding-work-for-cannabis]]
+- [[query-how-does-hemoglobin-know-when-to-release-oxygen]]
 - [[query-how-does-keyline-design-work-in-permaculture]]
 - [[query-how-does-kombucha-brewing-work]]
 - [[query-how-does-lacto-fermentation-work-for-food-preservation]]
@@ -767,6 +771,7 @@
 - [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
 - [[query-what-is-a-wavelet-transform-used-for]]
 - [[query-what-is-agroforestry-and-how-can-i-start]]
+- [[query-what-is-alley-cropping-and-when-should-i-use-it]]
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
 - [[query-what-is-biochar-and-should-i-use-it]]
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]
@@ -878,7 +883,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-
-- [[hemoglobin-vs-myoglobin]]
-
-- [[query-how-does-hemoglobin-know-when-to-release-oxygen]]
