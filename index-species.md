@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1100 pages**
+**1106 pages**
 
 ## #
 
@@ -607,6 +607,7 @@
 - [[john-ramsbottom]]
 - [[johns-hopkins-psychedelic-research]]
 - [[jonathan-ott]]
+- [[jorge-cervantes]]
 - [[juglans-regia]]
 - [[jujube-entity]]
 - [[julius-palmer]]
@@ -615,6 +616,7 @@
 ## K
 
 - [[kaempferia-galanga]]
+- [[koryaks]]
 
 ## L
 
@@ -683,6 +685,7 @@
 - [[masanobu-fukuoka]]
 - [[master-cho]]
 - [[max-winston]]
+- [[mazatec-people]]
 - [[mbdb-entity]]
 - [[mbt-entity-tihkal]]
 - [[mda-entity]]
@@ -1001,6 +1004,8 @@
 - [[psk-polysaccharide-krestin]]
 - [[psychotria-viridis]]
 - [[pyr-t-entity-tihkal]]
+- [[pyridoxal-phosphate]]
+- [[pyridoxamine-phosphate]]
 - [[pythium-oligandrum]]
 - [[pythium-ultimum]]
 
@@ -1025,6 +1030,7 @@
 - [[rick-strassman]]
 - [[rivea-corymbosa]]
 - [[robert-clarke]]
+- [[robert-connell-clarke]]
 - [[robinia-pseudoacacia]]
 - [[roger-heim]]
 - [[roland-griffiths]]

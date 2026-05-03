@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**804 pages**
+**810 pages**
 
 ## A
 
@@ -122,6 +122,7 @@
 - [[comparison-coco-coir-vs-peat]]
 - [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
 - [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
+- [[comparison-comfrey-vs-dandelion]]
 - [[comparison-comfrey-vs-yarrow]]
 - [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
 - [[comparison-companion-planting-reference-vs-trap-cropping]]
@@ -452,15 +453,18 @@
 - [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
 - [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]
 - [[query-how-can-companion-plants-protect-cannabis-from-pests]]
+- [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
 - [[query-how-do-fungi-contribute-to-carbon-sequestration]]
 - [[query-how-do-fungi-improve-soil-structure]]
+- [[query-how-do-i-adjust-soil-ph-naturally]]
 - [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
+- [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
 - [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]]
 - [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]]
@@ -833,6 +837,7 @@
 - [[query-what-is-trap-cropping-and-how-does-it-work]]
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
 - [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
+- [[query-when-should-i-use-slip-form-stone-construction]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[query-who-is-sepp-holzer-and-what-is-his-method]]
@@ -849,6 +854,7 @@
 - [[seed-company-supplier-reference]]
 - [[seed-starting-methods-comparison]]
 - [[shiitake-log-vs-sawdust-cultivation]]
+- [[slip-form-stone-vs-cordwood-construction]]
 - [[spore-syringe-vs-liquid-culture]]
 
 ## W
