@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**931 pages**
+**941 pages**
 
 ## #
 
@@ -253,18 +253,23 @@
 - [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-getting-natural-diet]]
+- [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
+- [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 - [[fukuoka-textdoc-maze-relative-subjectivity]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
+- [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-textdoc-natural-soil-management]]
 - [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-no-good-or-evil-in-nature]]
+- [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
+- [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
@@ -452,6 +457,7 @@
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
 - [[mckenna-archaic-revival]]
+- [[mckenna-art-archaic-revival]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-brothers-la-chorrera-experiment-1971]]
 - [[mckenna-cannabis-culture-history]]
@@ -469,6 +475,7 @@
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-drug-war-and-human-freedom]]
 - [[mckenna-eleusinian-mysteries]]
+- [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-fall-of-partnership-society]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 - [[mckenna-food-gods-archaic-revival]]
@@ -492,6 +499,8 @@
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-four-families-of-indole-hallucinogens]]
+- [[mckenna-four-stages-abandoning-mystery]]
+- [[mckenna-genesis-first-drug-bust]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-human-cognition-and-the-stoned-age]]
 - [[mckenna-inquisition-suppression-of-plant-knowledge]]
@@ -515,6 +524,7 @@
 - [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[mckenna-techniques-of-ecstasy]]
+- [[mckenna-television-dominator-drug]]
 - [[mckenna-transcendent-other-and-exopheromones]]
 - [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]

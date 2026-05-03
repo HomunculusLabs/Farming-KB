@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1226 pages**
+**1227 pages**
 
 ## #
 
@@ -312,6 +312,7 @@
 - [[gartz-mushroom-identification-dangers-and-tips]]
 - [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]
 - [[gartz-wasson-mexican-mushroom-cult-rediscovery]]
+- [[gasteromycete-fruiting-bodies]]
 - [[global-psychedelic-mushroom-species-diversity]]
 - [[global-wild-mushroom-trade]]
 - [[golden-guide-psilocybin-mushrooms-overview]]

@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2176 pages**
+**2180 pages**
 
 ## #
 
@@ -84,6 +84,7 @@
 - [[ant-termite-fungal-symbiosis]]
 - [[antifungal-secondary-metabolites-coprophilous-fungi]]
 - [[aquatic-fungi-and-ingoldian-spores]]
+- [[aquatic-fungi-and-zoospore-biology]]
 - [[aquatic-fungi-spore-dispersal-ingold]]
 - [[aquatic-hyphomycetes-and-ingoldian-spores]]
 - [[arbuscular-mycorrhizal-colonization-patterns]]
@@ -950,6 +951,7 @@
 - [[fungal-specimen-preparation-herbarium-management]]
 - [[fungal-spore-biology]]
 - [[fungal-spore-biology-dispersal]]
+- [[fungal-spore-discharge-mechanisms]]
 - [[fungal-spore-dispersal]]
 - [[fungal-spore-dispersal-animals-wind]]
 - [[fungal-spore-dispersal-mechanisms]]
@@ -1188,9 +1190,11 @@
 - [[holzer-humus-storage-ditches]]
 - [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
 - [[host-recognition-mycoparasitism-fungal-specificity]]
+- [[human-fungal-pathogens]]
 - [[human-uses-fungi-history]]
 - [[humus-formation-and-soil-organic-matter]]
 - [[hydrogen-peroxide-tissue-culture-wild-polypores]]
+- [[hyphal-biology-and-turgor-pressure]]
 - [[hyphal-growth-dynamics]]
 - [[hyphal-growth-kinetics]]
 - [[hypholoma-pluteus-inocybe-conocybe-genera]]

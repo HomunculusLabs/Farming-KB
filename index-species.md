@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1123 pages**
+**1133 pages**
 
 ## #
 
@@ -95,6 +95,7 @@
 - [[4-5-mdo-dipt-entity-tihkal]]
 - [[4-5-mdo-dmt-entity-tihkal]]
 - [[4-acetoxy-nn-dimethyltryptamine]]
+- [[4-aco-dmt]]
 - [[4-br-3-5-dma-entity]]
 - [[4-br-3-5-dma-entity-pihkal]]
 - [[4-d-entity]]
@@ -278,6 +279,7 @@
 - [[brugmansia-sanguinea]]
 - [[brugmansia-suaveolens]]
 - [[brugmansia-versicolor]]
+- [[bufotenin]]
 - [[bufotenin-entity-tihkal]]
 - [[bufotenine]]
 - [[buller-ahr]]
@@ -334,6 +336,7 @@
 - [[copelandia-cyanescens]]
 - [[coprinus-atramentaria]]
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
+- [[coprinus-comatus]]
 - [[coprinus-comatus-detailed]]
 - [[coprinus-picaceus]]
 - [[cordyceps-militaris]]
@@ -483,6 +486,7 @@
 - [[galerina-autumnalis]]
 - [[galerina-marginata]]
 - [[galerina-steglichii]]
+- [[gallium-arsenide]]
 - [[gamma-2c-t-4-entity]]
 - [[gamma-2c-t-4-entity-pihkal]]
 - [[gamma-dom-entity]]
@@ -495,6 +499,7 @@
 - [[gary-lincoff]]
 - [[gaston-guzman]]
 - [[geoff-hamilton]]
+- [[geoff-lawton]]
 - [[geoffrey-gadd]]
 - [[gerronema-fibula]]
 - [[gigaspora-marginata]]
@@ -597,6 +602,7 @@
 
 - [[j-entity]]
 - [[j-entity-pihkal]]
+- [[jack-herer]]
 - [[jagadis-chandra-bose]]
 - [[james-arthur]]
 - [[james-cuthill]]
@@ -646,6 +652,7 @@
 - [[lentinan]]
 - [[lentinula-edodes]]
 - [[lentinus-edodes-entity-the-mushroom-cultivator]]
+- [[leonotis-leonurus]]
 - [[lepiota-procera]]
 - [[lepiota-rachodes]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
@@ -834,6 +841,7 @@
 - [[panaeolus-subbalteatus]]
 - [[panaeolus-tropicalis]]
 - [[panaeolus-venenosus]]
+- [[panama-red]]
 - [[pancratium-trianthum]]
 - [[paracoccidioides-brasiliensis]]
 - [[passiflora-incarnata]]
@@ -1069,6 +1077,7 @@
 - [[serotonin]]
 - [[serpula-himantioides]]
 - [[serpula-lacrymans]]
+- [[silicon]]
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
 - [[sophora-secundiflora-entity]]
@@ -1195,6 +1204,7 @@
 - [[william-falconer]]
 - [[william-ozier-williams]]
 - [[win55212-2]]
+- [[withania-somnifera]]
 
 ## X
 
