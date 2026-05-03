@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**810 pages**
+**820 pages**
 
 ## A
 
@@ -400,6 +400,7 @@
 
 ## K
 
+- [[kalman-filter-vs-wavelet-transform]]
 - [[knf-vs-jadam-vs-em]]
 
 ## L
@@ -427,6 +428,7 @@
 - [[organic-farming-history]]
 - [[organic-farming-methods-comparison]]
 - [[organic-nutrients-vs-synthetic-nutrients]]
+- [[oxidative-addition-vs-photoredox-catalysis]]
 
 ## P
 
@@ -454,6 +456,7 @@
 - [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]
 - [[query-how-can-companion-plants-protect-cannabis-from-pests]]
 - [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
+- [[query-how-can-duckweed-be-used-in-a-permaculture-pond]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
 - [[query-how-do-different-composting-methods-compare]]
@@ -476,14 +479,17 @@
 - [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
+- [[query-how-do-i-design-an-apple-tree-guild]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]]
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
+- [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[query-how-do-i-grow-cannabis-in-a-greenhouse]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
+- [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
@@ -496,6 +502,7 @@
 - [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
 - [[query-how-do-i-make-biodynamic-preparations-for-my-farm-or-garden]]
 - [[query-how-do-i-make-jadam-natural-pesticide-jnp]]
+- [[query-how-do-i-make-kimchi-with-lacto-fermentation]]
 - [[query-how-do-i-make-seed-starting-mix-at-home]]
 - [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
@@ -753,6 +760,7 @@
 - [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]]
 - [[query-what-is-a-plant-guild-in-permaculture]]
 - [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
+- [[query-what-is-a-wavelet-transform-used-for]]
 - [[query-what-is-agroforestry-and-how-can-i-start]]
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
 - [[query-what-is-biochar-and-should-i-use-it]]
@@ -788,12 +796,14 @@
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-what-is-super-cropping-and-when-to-do-it]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
+- [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]
 - [[query-what-is-the-best-cannabis-grow-medium-for-beginners]]
 - [[query-what-is-the-best-soil-mix-for-growing-cannabis]]
 - [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]
 - [[query-what-is-the-cannabis-entourage-effect]]
 - [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]
 - [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]
+- [[query-what-is-the-difference-between-a-hedgerow-and-a-windbreak]]
 - [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]]
 - [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]]
 - [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]

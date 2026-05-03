@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**63 pages**
+**65 pages**
 
 ## A
 
@@ -46,6 +46,10 @@
 - [[heavy-metal-bioremediation]]
 - [[heavy-metal-biosorption]]
 
+## I
+
+- [[idiosyncratic-drug-toxicity]]
+
 ## L
 
 - [[lignin-degradation]]
@@ -55,6 +59,7 @@
 
 ## M
 
+- [[meiji-restoration]]
 - [[microbial-fuel-cells-remediation]]
 - [[molecular-tools-bioremediation]]
 
