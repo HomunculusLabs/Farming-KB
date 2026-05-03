@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1118 pages**
+**1123 pages**
 
 ## #
 
@@ -513,6 +513,7 @@
 - [[greg-green]]
 - [[grifola-frondosa]]
 - [[grifolan]]
+- [[gunter-pauli]]
 - [[gymnopilus-aeruginosus]]
 - [[gymnopilus-badiceps]]
 - [[gymnopilus-brunneus]]
@@ -604,11 +605,11 @@
 - [[jerusalem-artichoke]]
 - [[jochen-gartz]]
 - [[john-allegro]]
-- [[john-allen]]
 - [[john-dighton]]
 - [[john-halpern]]
 - [[john-jeavons]]
 - [[john-ramsbottom]]
+- [[john-w-allen]]
 - [[johns-hopkins-psychedelic-research]]
 - [[jonathan-ott]]
 - [[jorge-cervantes]]
@@ -807,6 +808,7 @@
 
 ## O
 
+- [[octavia-e-butler]]
 - [[oidiodendron-maius]]
 - [[ophiostoma-minus]]
 - [[oriental-herbal-nutrient]]
@@ -1090,6 +1092,7 @@
 - [[suillus-granulatus]]
 - [[suillus-luteus]]
 - [[suillus-variegatus]]
+- [[sun-ra]]
 - [[symphytum-officinale]]
 
 ## T
@@ -1131,6 +1134,7 @@
 - [[toona-sinensis]]
 - [[tp-entity]]
 - [[tp-entity-pihkal]]
+- [[tradd-cotter]]
 - [[trametes-hirsuta]]
 - [[trametes-versicolor]]
 - [[tremella-aurantia]]
@@ -1199,3 +1203,7 @@
 ## Y
 
 - [[youngsang-cho]]
+
+## Z
+
+- [[zero-emissions-research-and-initiatives]]

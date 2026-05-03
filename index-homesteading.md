@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**200 pages**
+**201 pages**
 
 ## A
 
@@ -182,6 +182,7 @@
 - [[passive-solar-and-biomass-energy]]
 - [[passive-solar-design]]
 - [[pellet-stove-heating]]
+- [[phase-change-materials-thermal-energy-storage]]
 - [[pickle-making]]
 - [[pig-husbandry]]
 - [[pig-keeping-guide]]

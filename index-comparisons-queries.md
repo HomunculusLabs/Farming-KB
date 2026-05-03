@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**832 pages**
+**840 pages**
 
 ## A
 
@@ -132,6 +132,7 @@
 - [[comparison-companion-planting-vs-polyculture]]
 - [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]
 - [[comparison-compost-tea-vs-biochar]]
+- [[comparison-compost-tea-vs-vermicompost-tea]]
 - [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 - [[comparison-composting-toilets-vs-humanure]]
 - [[comparison-constructed-wetland-vs-backyard-pond]]
@@ -395,6 +396,7 @@
 - [[homestead-startup-checklist]]
 - [[homesteading-livestock-comparison]]
 - [[hot-composting-vs-vermicompost-vs-bokashi]]
+- [[how-do-i-choose-between-straw-bale-and-earthbag-construction]]
 
 ## I
 
@@ -411,6 +413,7 @@
 
 ## M
 
+- [[mind-body-problem-vs-information-paradigm-of-consciousness]]
 - [[mushroom-cultivation-history]]
 - [[mushroom-cultivation-methods]]
 - [[mushroom-foraging-safety-guide]]
@@ -495,6 +498,7 @@
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
+- [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
@@ -520,7 +524,9 @@
 - [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 - [[query-how-do-i-prevent-and-treat-damping-off-in-cannabis-seedlings]]
 - [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
+- [[query-how-do-i-prune-fruit-trees-naturally]]
 - [[query-how-do-i-raise-rabbits-in-a-permaculture-system]]
+- [[query-how-do-i-save-water-in-a-vegetable-garden]]
 - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]]
 - [[query-how-do-i-start-a-hugelkultur-bed]]
@@ -548,6 +554,7 @@
 - [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
 - [[query-how-do-photonic-crystals-create-structural-color]]
+- [[query-how-do-psychedelics-change-consciousness]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
 - [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]
 - [[query-how-do-you-make-your-own-mushroom-spawn-at-home]]
@@ -878,6 +885,7 @@
 - [[shiitake-log-vs-sawdust-cultivation]]
 - [[slip-form-stone-vs-cordwood-construction]]
 - [[spore-syringe-vs-liquid-culture]]
+- [[straw-bale-construction-vs-earthbag-construction]]
 
 ## W
 
