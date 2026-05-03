@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**376 pages**
+**377 pages**
 
 ## A
 
@@ -91,6 +91,7 @@
 
 ## D
 
+- [[direct-seeded-notillage-rice-barley-clover-succession]]
 - [[dynamic-accumulator-bracken-fern-potash]]
 - [[dynamic-accumulator-hyperaccumulator-geobotany]]
 - [[dynamic-accumulator-phosphate-liberators]]

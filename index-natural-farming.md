@@ -877,8 +877,3 @@
 - [[ultra-low-jadam-sulfur-js]]
 - [[ultra-low-jadam-wetting-agent-jwa]]
 - [[ultra-low-water-softening-for-pesticide-efficacy]]
-- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
-- [[fukuoka-textdoc-four-types-of-diet-classification]]
-- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
-- [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]

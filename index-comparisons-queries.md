@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**862 pages**
+**864 pages**
 
 ## A
 
@@ -266,6 +266,7 @@
 - [[comparison-no-till-vs-raised-bed]]
 - [[comparison-no-till-vs-reduced-tillage]]
 - [[comparison-no-till-vs-tilling]]
+- [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 - [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - [[comparison-organic-vs-chemical-amendments]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
@@ -461,6 +462,7 @@
 - [[query-benefits-of-integrating-chickens-into-permaculture]]
 - [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]]
 - [[query-best-light-schedule-for-cannabis]]
+- [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
 - [[query-can-fungi-break-down-plastic-pollution]]
 - [[query-can-fungi-clean-up-oil-spills]]
 - [[query-can-you-reveg-a-cannabis-plant-after-harvest]]

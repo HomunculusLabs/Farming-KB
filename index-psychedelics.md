@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**955 pages**
+**960 pages**
 
 ## #
 
@@ -254,15 +254,19 @@
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]
+- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
+- [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
+- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 - [[fukuoka-textdoc-maze-relative-subjectivity]]
+- [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
@@ -270,6 +274,7 @@
 - [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-no-good-or-evil-in-nature]]
+- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
@@ -1036,4 +1041,3 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
-- [[nn-dmt]]

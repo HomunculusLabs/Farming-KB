@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1190 pages**
+**1194 pages**
 
 ## #
 
@@ -331,6 +331,7 @@
 - [[coccidioides-immitis]]
 - [[coleus-blumei]]
 - [[colletotrichum-gloeosporioides]]
+- [[comfrey]]
 - [[compass-pathways]]
 - [[coniophora-puteana]]
 - [[coniothyrium-minitans]]
@@ -686,6 +687,7 @@
 - [[leucaena-entity]]
 - [[limonene]]
 - [[linalool]]
+- [[lions-mane-mushroom]]
 - [[lloyd-library]]
 - [[lobaria-pulmonaria]]
 - [[lobelia-inflata]]
@@ -844,6 +846,7 @@
 - [[nicole-faires]]
 - [[nicotiana-rustica]]
 - [[nmt-entity-tihkal]]
+- [[nn-dmt]]
 - [[noladin-ether]]
 - [[norbaeocystin]]
 - [[norpsilocin]]
@@ -861,6 +864,7 @@
 - [[oriental-herbal-nutrient]]
 - [[oriental-herbal-nutrient-ohn]]
 - [[ortho-dot-entity-pihkal]]
+- [[oyster-mushroom]]
 
 ## P
 
