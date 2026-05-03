@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1204 pages**
+**1206 pages**
 
 ## #
 
@@ -431,6 +431,7 @@
 - [[dronabinol]]
 - [[duboisia-hopwoodii]]
 - [[duddingtonia-flagrans]]
+- [[durban-poison]]
 
 ## E
 
@@ -633,6 +634,7 @@
 - [[j-entity]]
 - [[j-entity-pihkal]]
 - [[jack-herer]]
+- [[jack-herer-cannabis-strain]]
 - [[jagadis-chandra-bose]]
 - [[james-arthur]]
 - [[james-cuthill]]

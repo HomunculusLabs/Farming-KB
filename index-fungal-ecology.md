@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2224 pages**
+**2229 pages**
 
 ## #
 
@@ -222,12 +222,15 @@
 - [[bloomfield-cordyceps-insect-pathogens-behavior]]
 - [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]
 - [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]
+- [[bloomfield-cryptococcus-neoformans-pathogenic-yeast-meningitis]]
 - [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
 - [[bloomfield-dermatophytes-ringworm-malassezia-skin-mycoses]]
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
+- [[bloomfield-fungal-enzymatic-wood-decay-cellulose-lignin-brown-rot]]
+- [[bloomfield-fungal-melanin-radiation-protection-pigmentation]]
 - [[bloomfield-fungal-parasites-of-insects]]
 - [[bloomfield-fungal-pathogens-and-parasites]]
 - [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]]
@@ -239,10 +242,12 @@
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-fungi-in-folklore-and-mythology]]
 - [[bloomfield-gasteromycetes-puffballs-earthstars]]
+- [[bloomfield-gasteromycetes-puffballs-earthstars-false-truffles-evolution]]
 - [[bloomfield-history-of-mycology-pioneers]]
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
 - [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
+- [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
 - [[bloomfield-poisonous-mushrooms-and-mycotoxins]]

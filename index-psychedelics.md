@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**975 pages**
+**980 pages**
 
 ## #
 
@@ -264,11 +264,13 @@
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
+- [[fukuoka-textdoc-hotel-building-model-harvest-yields]]
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
+- [[fukuoka-textdoc-liebig-law-minimum-critique]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 - [[fukuoka-textdoc-maze-relative-subjectivity]]
 - [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
@@ -277,10 +279,13 @@
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
+- [[fukuoka-textdoc-natural-seedlings-grafted-nursery-stock]]
 - [[fukuoka-textdoc-natural-soil-management]]
+- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
 - [[fukuoka-textdoc-nature-of-food]]
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
 - [[fukuoka-textdoc-no-good-or-evil-in-nature]]
+- [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
 - [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
