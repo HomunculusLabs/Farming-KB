@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2218 pages**
+**2221 pages**
 
 ## #
 
@@ -242,6 +242,7 @@
 - [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
+- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
 - [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
 - [[bloomfield-potato-blight-phytophthora-infestans]]
 - [[bloomfield-pythium-oomycete-water-molds]]
@@ -250,7 +251,9 @@
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
 - [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
+- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
+- [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]
 - [[bloomfield-truffle-hunting-and-culinary-fungi]]
 - [[bloomfield-turgor-pressure-and-hyphal-invasion]]
 - [[bloomfield-wood-decay-fungi-spalted-timber]]
@@ -2296,8 +2299,3 @@
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[zygomycete-phylum-guide]]
 - [[zygomycota-phylogeny-classification-non-monophyletic]]
-- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
-- [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
-- [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]
-- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
-- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**864 pages**
+**866 pages**
 
 ## A
 
@@ -238,6 +238,7 @@
 - [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
 - [[comparison-martha-tent-vs-monotub]]
 - [[comparison-mead-making-vs-beer-brewing]]
+- [[comparison-microgreens-vs-sprouts]]
 - [[comparison-miso-vs-natto]]
 - [[comparison-monoculture-vs-polyculture]]
 - [[comparison-monotub-vs-martha-tent]]
@@ -818,6 +819,7 @@
 - [[query-what-is-humanure-and-is-it-safe]]
 - [[query-what-is-humic-acid-and-when-should-i-use-it]]
 - [[query-what-is-humus-and-why-is-it-important-for-soil-health]]
+- [[query-what-is-hydroponic-fodder-and-is-it-worth-growing-for-livestock]]
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]
 - [[query-what-is-jadam-farming-and-how-does-it-work]]
@@ -915,5 +917,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[query-what-is-hydroponic-fodder-and-is-it-worth-growing-for-livestock]]
-- [[comparison-microgreens-vs-sprouts]]

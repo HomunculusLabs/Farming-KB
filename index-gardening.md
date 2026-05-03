@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**826 pages**
+**827 pages**
 
 ## A
 
@@ -61,6 +61,7 @@
 - [[chelation-and-metal-binding-in-plants]]
 - [[chestnuts-castanea-spp]]
 - [[clay-pellet-seed-balls]]
+- [[clay-pellet-seed-broadcasting]]
 - [[clay-seed-balls-tsuchi-dango]]
 - [[clay-seed-pellets]]
 - [[cleve-backster-plant-perception-experiments]]

@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1194 pages**
+**1195 pages**
 
 ## #
 
@@ -687,6 +687,7 @@
 - [[leucaena-entity]]
 - [[limonene]]
 - [[linalool]]
+- [[lions-mane]]
 - [[lions-mane-mushroom]]
 - [[lloyd-library]]
 - [[lobaria-pulmonaria]]
