@@ -145,6 +145,10 @@ scientific community despite its inaccuracy). In practice, the terms
 
 ## See Also
 
+- [[psilocybin-pharmacology]]
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+- [[tihkal-psilocin-psilocybin-chemistry]]
+
 - [[Psilocybe cubensis]] for the most commonly cultivated species
 - [[hallucinogenic mushroom legal status in Europe]] for regulatory
   context

@@ -140,6 +140,10 @@ significantly different risk profiles.
 
 ## See Also
 
+- [[psilocybe-cubensis-cultivation]]
+- [[psilocybe-cubensis-potency-variation-by-flush]]
+- [[stamets-psi-psilocybe-cubensis-species-guide]]
+
 - [[psilocybin-chemistry-pharmacology]] for the active compounds
 - [[smartshop hallucinogenic mushroom market]] for retail distribution
 - [[hallucinogenic mushroom legal status in Europe]] for legal context

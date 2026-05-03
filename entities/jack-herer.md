@@ -115,6 +115,6 @@ Jack Herer the strain is inseparable from Jack Herer the man:
 - [[pinene]] — The dominant terpene responsible for Jack Herer's characteristic pine aroma
 - [[myrcene]] — Secondary terpene contributing to the effect profile
 - caryophyllene — Peppery terpene with anti-inflammatory properties
-- [[thc]] — Primary psychoactive cannabinoid
-- [[cbd]] — Non-psychoactive cannabinoid, present in low amounts in Jack Herer
-- [[sour-diesel]] — Another legendary sativa-dominant strain from the same era
+- [[tetrahydrocannabinol-thc]] — Primary psychoactive cannabinoid
+- [[cannabidiol-cbd]] — Non-psychoactive cannabinoid, present in low amounts in Jack Herer
+- Sour Diesel — Another legendary sativa-dominant strain from the same era

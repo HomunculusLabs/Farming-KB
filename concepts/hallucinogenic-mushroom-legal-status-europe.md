@@ -137,6 +137,10 @@ risks, and some closely related Amanita species are lethal.
 
 ## See Also
 
+- [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+- [[psilocybin-mushroom-legal-status-worldwide]]
+- [[emcdda-hallucinogenic-mushroom-legal-responses]]
+
 - [[psilocybin-chemistry-pharmacology]] for the controlled substances
 - [[smartshop hallucinogenic mushroom market]] for commercial context
 - [[Amanita muscaria]] for the legal alternative species

@@ -150,6 +150,10 @@ responses to address the emerging market for Amanita-based products.
 
 ## See Also
 
+- [[amanita-muscaria-pharmacology]]
+- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
+
 - [[psilocybin-chemistry-pharmacology]] for comparison with tryptamine
   hallucinogens
 - [[Psilocybe cubensis]] for the primary prohibited species
