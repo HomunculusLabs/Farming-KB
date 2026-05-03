@@ -62,8 +62,9 @@ the error of double-naming is unavoidable.
 
 ## The Tulasne Brothers: Pioneers of Pleomorphy
 
-The concept that individual fungi could produce different types of
-spores was first recognized in the middle of the [[nineteenth-century-mushroom-literature]] by
+[[fungal-evolution]] has been shaped by the complex life cycles that
+pleomorphy enables. The concept that individual fungi could produce
+different types of spores was first recognized in the middle of the [[nineteenth-century-mushroom-literature]] by
 two bachelor brothers, Louis-Rene and Charles Tulasne. The brothers
 presented their findings, with frequent references to the glory of God,
 in an enchanting three-volume work entitled Selecta Fungorum
@@ -132,7 +133,8 @@ challenge for mycology and developmental biology.
 
 ## Carolus Linnaeus and Chaos Fungorum
 
-The variety and plasticity of fungi have challenged taxonomists since
+[[fungal-kingdom-taxonomy-classification]] remains challenging today, but the
+variety and plasticity of fungi have challenged taxonomists since
 the earliest days of classification. Carolus Linnaeus, who invented the
 binomial system for naming organisms and described more than 12,000
 species of [[permaculture-interaction-of-plants-and-animals]] himself, was perplexed by the variety of
@@ -147,3 +149,6 @@ taxonomy.
 
 - [[bloomfield-chytrid-fungi-early-fungal-evolution]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
+- [[fungal-kingdom-taxonomy-classification]]
+- [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
+- [[fungal-evolution]]

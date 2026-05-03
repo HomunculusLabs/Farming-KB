@@ -16,7 +16,8 @@ sources:
 
 ## Philosophical Foundation: The Sender-Receiver Model
 
-Albert Hofmann proposed a fundamental model for understanding
+[[consciousness-and-psychedelics]] explores how hallucinogenic substances
+alter fundamental aspects of conscious experience. Albert Hofmann proposed a fundamental model for understanding
 hallucinogenic experience in the context of medicine. In this framework,
 our experience of reality depends on two components: a sender (the
 external world) and a receiver (the deep self or consciousness). The
@@ -74,7 +75,8 @@ to the therapeutic value of these substances.
 
 ## Psycholysis
 
-Developed in European hospitals by English psychotherapist Ronald A.
+[[schultes-hallucinogens-medical-psychotherapy]] documents the broader clinical
+history of these approaches. Developed in European hospitals by English psychotherapist Ronald A.
 Sandison of the Jungian school, psycholysis involves administering
 medium doses of hallucinogens on a number of successive occasions at
 specific intervals. The term "psycholysis" (from Greek *lysis* meaning
@@ -114,7 +116,8 @@ of unconscious dynamics.
 
 ## Experimental Psychiatry
 
-Hallucinogens serve as research tools for studying the nature of
+[[plants-of-the-gods-chemical-structures-hallucinogens]] describes the
+molecular structures underlying the effects discussed here. Hallucinogens serve as research tools for studying the nature of
 mental disorders. Certain abnormal mental states produced by
 hallucinogens in normal subjects resemble, in some respects, symptoms
 of schizophrenia. While hallucinogenic intoxication was once considered
@@ -147,3 +150,5 @@ remains essential.
 - [[plants-of-the-gods-chemical-structures-hallucinogens]]
 - [[schultes-hallucinogens-medical-psychotherapy]]
 - [[plants-of-the-gods-phytochemistry-sacred-plants]]
+- [[consciousness-and-psychedelics]]
+- [[schultes-ololiuqui-vines-serpent]]

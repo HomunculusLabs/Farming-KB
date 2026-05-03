@@ -114,4 +114,6 @@ Optimal ranges:
 - No-till approaches reduce plant stress from disturbance
 - Organic growing enhances terpene production and flavor
 ## Related
+
+- [[amnesia-haze]]
 - [[cannabis-seed-germination]]

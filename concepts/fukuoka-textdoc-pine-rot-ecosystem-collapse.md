@@ -142,7 +142,9 @@ The germicide kills bacteria that moderate the disease, leaving the
 field open to unchecked pathogen proliferation. Every intervention
 creates new problems worse than the original.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]] Concepts
 
 - [[fukuoka-textdoc-natural-soil-management]] for soil health without chemicals
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]] for orchard disease management

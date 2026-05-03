@@ -142,6 +142,8 @@ Fukuoka believed that modern diseases are largely caused by:
 - Consuming food out of season and out of region
 ## See Also
 
+- [[fukuoka-natural-ecosystem-food-chain-interconnection]]
+
 - [[fukuoka-seasonal-eating-natural-food-calendar]]
 
 - [[fukuoka-disappearance-natural-diet]]

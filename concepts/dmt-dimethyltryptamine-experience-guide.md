@@ -121,6 +121,8 @@ In recent years DMT has become notorious in the psychedelic underground, primari
 
 ## See Also
 
+- [[nn-dmt]]
+
 - [[dimethyltryptamine-n-oxide]]
 - [[turner-dmt-water-spirit-connection]]
 

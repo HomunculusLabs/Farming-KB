@@ -139,6 +139,8 @@ Under good conditions, expect 5-10 pounds of fresh rhizomes per plant,
 yielding approximately 1-2 pounds of dried turmeric powder per 10 square
 ## See Also
 
+- [[curcuma-longa]]
+
 - [[root-crops-growing-guide]]
 - [[tomato-pepper-eggplant-growing-guide]]
 - [[bean-growing-guide]]

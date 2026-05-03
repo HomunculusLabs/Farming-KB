@@ -1,124 +1,118 @@
 ---
 title: Mimosa hostilis
 type: species
-tags: [herbal-plants, ethnobotany, psychoactive, dmt, entheogen, leguminosae, jurema, brazilian-indigenous]
+tags:
+  - herbal-plant
+  - entheogen
+  - leguminous-tree
+  - dmt-source
+  - traditional-medicine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
-  - /Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4009210/
+  - https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/mimosa-hostilis
+  - https://en.wikipedia.org/wiki/Mimosa_tenuiflora
 ---
 
 # Mimosa hostilis
 
-**Mimosa hostilis** (syn. *Mimosa tenuiflora*), commonly known as jurema preta or the jurema tree, is a perennial shrub or small tree native to the dry caatinga region of northeastern Brazil. Revered by indigenous peoples for its psychoactive root bark, which contains N,N-dimethyltryptamine (DMT), the plant has played a central role in the ritual and spiritual life of numerous Brazilian tribes for centuries. More recently, it has gained global attention as a primary botanical source of DMT for ayahuasca analogs and as a medicinal plant valued for its wound-healing properties.
+**Mimosa hostilis** (syn. *Mimosa tenuiflora*), commonly known as **Jurema Preta**, **Jurema**, or **Tepezcohuite**, is a perennial leguminous tree or shrub in the family Fabaceae (subfamily Mimosoideae). Native to the tropical dry forests of northeastern Brazil and extending into Central America and southern Mexico, this species is renowned for its high DMT content in the root bark, its traditional use in indigenous entheogenic preparations, and its remarkable wound-healing properties.
 
-## Taxonomy and Classification
+## Taxonomy and Nomenclature
 
 - **Kingdom:** Plantae
-- **Division:** Magnoliophyta
-- **Class:** Magnoliopsida
+- **Clade:** Tracheophytes
+- **Clade:** Angiosperms
+- **Clade:** Eudicots
+- **Clade:** Rosids
 - **Order:** Fabales
-- **Family:** Fabaceae (Leguminosae)
-- **Subfamily:** Mimosoideae
-- **Genus:** Mimosa
-- **Species:** M. hostilis (Mart.) Benth.
+- **Family:** Fabaceae
+- **Subfamily:** Caesalpinioideae (formerly Mimosoideae)
+- **Genus:** *Mimosa*
+- **Species:** *M. tenuiflora* (Willd.) Poir. (syn. *M. hostilis* Benth.)
 
-The species was originally described as *Mimosa hostilis* by the German botanist Carl Friedrich Philipp von Martius and later reclassified by George Bentham. It is also widely known under the synonym *Mimosa tenuiflora* (Willd.) Poir., which has priority in some taxonomic treatments. In Mexico, the same species is known as tepescohuite. The genus *Mimosa* comprises approximately 500 species of tropical and subtropical herbs, shrubs, and small trees, most of which are native to the Americas. The genus is closely allied to *Acacia* and *Anadenanthera*.
+The taxonomic history is complex. The species was originally described as *Acacia hostilis* by Martius in 1837, later transferred to *Mimosa hostilis* by Bentham in 1840, and subsequently determined to be synonymous with *Mimosa tenuiflora*, which had been described earlier by Willdenow in 1806. Under the principle of priority, *M. tenuiflora* is the accepted botanical name, though *M. hostilis* remains in widespread common use, particularly in the context of entheogenic and ethnobotanical literature.
 
 ## Morphology
 
-In its native habitat, *Mimosa hostilis* grows as a busy, sparsely spiny treelet or shrub reaching heights of 3–8 meters, though specimens occasionally attain 12–16 meters. The spines are basally swollen and approximately 3 mm long. The leaves are bipinnately compound, finely divided, and 3–5 cm long, giving the foliage a delicate, feathery appearance characteristic of many mimosoid legumes.
+*Mimosa hostilis* is a fast-growing, thorny tree or shrub with the following characteristics:
 
-The flowers are borne in loosely cylindrical spikes and are white and fragrant. The legume or pod is approximately 2.5–3 cm long and breaks into 4–6 sections at maturity, each containing small seeds. The root bark, which is the primary psychoactive and medicinally used part, is dark reddish-brown and deeply fissured, with a characteristic inner layer that is lighter in color and rich in bioactive alkaloids. The bark's dark coloration is due to high tannin content.
+- **Height:** Typically 2-8 meters, occasionally reaching 12 meters under optimal conditions
+- **Bark:** Gray-brown, fissured, with prominent lenticels. Inner bark is reddish-pink to deep red, particularly in the root bark
+- **Leaves:** Bipinnately compound, 5-12 cm long, with 2-4 pairs of pinnae, each bearing 15-30 pairs of small, linear leaflets (3-6 mm long, 0.5-1 mm wide). Leaves are sensitive to touch (seismonastic movement), folding when disturbed — a characteristic feature of the genus
+- **Flowers:** Spicate inflorescences, 3-6 cm long, composed of numerous sessile, white to pale pink staminate flowers. Each flower head contains 20-30 tiny flowers. Blooming occurs primarily during the dry season
+- **Fruit:** Flat, oblong pods, 3-7 cm long and 6-10 mm wide, containing 3-6 oval seeds. Pods are dehiscent, splitting open to release seeds when mature
+- **Roots:** Extensive taproot system with a characteristic red inner bark (root bark) that is the primary source of bioactive alkaloids
+- **Thorns:** Sharp, recurved stipular spines, 3-6 mm long, borne at the base of each leaf petiole
 
 ## Distribution and Habitat
 
-*Mimosa hostilis* is native to the dry caatinga scrublands of eastern Brazil, where it flourishes abundantly. The caatinga is a semi-arid tropical biome characterized by thorny scrub vegetation, prolonged dry seasons, and erratic rainfall. The species is remarkably drought-tolerant and can survive in nutrient-poor soils. Its range extends through the Brazilian states of Pernambuco, Paraíba, Rio Grande do Norte, Ceará, Bahia, and Minas Gerais.
+*Mimosa hostilis* is native to the tropical and subtropical dry forests of:
 
-In Mexico, where it is known as tepescohuite, it occurs in the states of Chiapas, Oaxaca, and Veracruz. The plant has been introduced to other tropical and subtropical regions and is cultivated commercially for both its root bark and its potential as a nitrogen-fixing agroforestry species. The disjunct distribution — Brazilian caatinga and Mexican tropical dry forest — is biogeographically unusual and may reflect either ancient vicariance patterns or human-mediated dispersal during the colonial or pre-Columbian periods.
+- **Northeastern Brazil:** Caatinga biome (primary range), extending into Cerrado transitions
+- **Central America:** Southern Mexico (Chiapas, Oaxaca), Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, Panama
+- **Northern South America:** Colombia, Venezuela
 
-The species' nitrogen-fixing capability, conferred by symbiotic rhizobial bacteria in root nodules, makes it a valuable species for soil restoration and agroforestry in degraded tropical landscapes. In its native range, *M. hostilis* is one of the first species to colonize disturbed or degraded land, and it plays an important role in the natural succession of caatinga vegetation. The nitrogen fixed by *M. hostilis* root nodules is gradually released into the surrounding soil as the plant's roots and leaf litter decompose, creating favorable conditions for the establishment of less hardy species in the succession sequence. This ecological role has made the species a candidate for reforestation and land rehabilitation projects in the semi-arid tropics, where its deep root system and drought tolerance give it a competitive advantage over introduced species.
+The species is remarkably adapted to arid and semi-arid conditions. It thrives in poor, rocky soils and is a pioneer species capable of colonizing degraded lands. In the Caatinga biome of Brazil, Jurema Preta is one of the most abundant tree species, forming dense thickets that provide crucial shade, forage, and habitat in an otherwise harsh landscape.
 
-The plant's relationship with its rhizobial partners is species-specific to some degree, with different strains of *Bradyrhizobium* and *Rhizobium* showing varying efficiency in nodulation and nitrogen fixation. Research into optimizing these symbiotic relationships has potential applications in improving the productivity of *M. hostilis* plantations established for commercial bark harvest, while also maintaining the soil-restoration benefits that make the species valuable in agroforestry systems. The caatinga biome, where *M. hostilis* is most abundant, is one of the most threatened tropical ecosystems in the world, and the species' ability to restore degraded soils within this biome has drawn increasing attention from conservation ecologists working to combat desertification in northeastern Brazil.
+The tree is nitrogen-fixing through its symbiotic relationship with rhizobial bacteria (primarily *Bradyrhizobium* spp.), making it ecologically important for soil enrichment and a valuable species in agroforestry and land restoration.
 
-## Traditional Use: The Jurema Ceremony
+## Chemical Constituents
 
-The psychoactive use of *Mimosa hostilis* among the indigenous peoples of northeastern Brazil is one of the most historically significant yet poorly documented entheogenic traditions in the Americas. As described in Schultes, Hofmann, and Ratsch's *Plants of the Gods*, several species of *Mimosa* are called jurema in eastern Brazil, with *M. hostilis* distinguished as jurema preta ("black jurema") and the related *M. verrucosa* as jurema branca ("white jurema").
+### Root Bark (Inner Bark)
+The root bark of *M. hostilis* contains the following major bioactive compounds:
 
-The primary psychoactive preparation is the "miraculous jurema drink," known locally as ajuca or vinho de jurema. This beverage is prepared from the root bark and was consumed in elaborate ceremonial contexts by numerous tribes, including the Kariri, Pankarurú, Tusha, and Fulnio of Pernambuco. The Golden Guide to Hallucinogenic Plants records that the drink was "usually connected with warfare" and was used by now-extinct tribes "to pass the night navigating through the depths of slumber just prior to sallying forth to war."
+- **N,N-Dimethyltryptamine (DMT):** 0.3-1.0% dry weight (primary psychoactive alkaloid)
+- **N-Methyltryptamine (NMT):** Trace amounts
+- **β-Carboline alkaloids:** Present in trace quantities; unlike *Banisteriopsis caapi*, the root bark does not contain significant concentrations of harmine, harmaline, or tetrahydroharmine (MAO inhibitors), meaning oral ingestion of the root bark alone is not psychoactive without addition of an MAOI
+- **Tannins:** High concentrations (10-15%) of condensed tannins (proanthocyanidins) responsible for wound-healing and astringent properties
+- **Flavonoids:** Including quercetin, kaempferol, and their glycosides
+- **Saponins:** Triterpenoid saponins with antimicrobial activity
 
-Warriors would see "glorious visions of the spirit land... or catch a glimpse of the clashing rocks that destroy souls of the dead journeying to their goal or see the Thunderbird shooting lightning from a huge tuft on his head and producing claps of thunder." It appears, however, that the hallucinogenic use of *M. hostilis* has nearly disappeared in recent times, with many indigenous communities losing the full knowledge of the preparation.
+### Bark (Stem Bark)
+Stem bark shares many of the same constituents as root bark but at significantly lower DMT concentrations (typically <0.05%). The stem bark is richer in tannins and is the primary material used in commercial wound-healing preparations.
 
-The ethnobotanical mystery surrounding the jurema drink has intrigued researchers for decades: since DMT is not orally active without a monoamine oxidase inhibitor (MAOI), the traditional preparation must have included additional ingredients that served this function, or the plant itself must contain an endogenous MAOI in its tissues. This question remains partially unresolved, though it is likely that various plant additives traditionally combined with the jurema bark served as the necessary enzymatic inhibitors.
+## Traditional and Indigenous Use
 
-Early ethnographic accounts from the 19th and early 20th centuries provide tantalizing but incomplete descriptions of the jurema ceremony and its pharmacology. The Brazilian naturalist Gonçalves de Lima, who conducted fieldwork among the remaining jurema-practicing communities in the 1940s and 1950s, documented the use of at least one additional plant ingredient — which he identified only by its local common name and which has never been definitively linked to a botanical species — that was combined with the *M. hostilis* bark during preparation. Subsequent researchers, including the American ethnobotanist Jonathan Ott, have speculated that this unidentified additive may have been a species containing β-carboline alkaloids, but the destruction of the indigenous communities that possessed this knowledge has made definitive identification impossible. The loss of this information underscores the broader pattern of ethnopharmacological knowledge destruction that has accompanied the colonization and assimilation of indigenous peoples worldwide.
+### Jurema Cult (Northeastern Brazil)
+The use of Jurema in entheogenic contexts by indigenous peoples of northeastern Brazil predates European colonization. The Tupi and Guaraní peoples prepared a ceremonial beverage called **Vinho de Jurema** (Jurema Wine) or **Ajucá** from the root bark. This preparation involves:
 
-## Phytochemistry
+1. Harvesting and scraping the root bark
+2. Pulverizing the dried bark
+3. Steeping in cold water or lightly boiling
+4. Adding ashes from specific plants (likely containing alkaloid MAOIs) to enable oral activity
+5. Fermenting the mixture for several hours to days
 
-The root bark of *Mimosa hostilis* contains significant concentrations of N,N-dimethyltryptamine (DMT), one of the most potent naturally occurring psychedelic compounds. Early chemical studies identified an active alkaloid that was given the name nigerine, which was later demonstrated to be identical to DMT. The root bark typically contains 0.5–1.0% DMT by dry weight, though concentrations can vary depending on the age of the plant, growing conditions, and the specific population. More recent analytical studies using gas chromatography-mass spectrometry (GC-MS) and high-performance liquid chromatography (HPLC) have confirmed these figures while also revealing considerable intraspecific variation, with some individual trees yielding bark with DMT concentrations as low as 0.2% and others exceeding 1.5% by dry weight.
+The resulting beverage induces visionary states used in healing ceremonies, divination, and spiritual practices. The tradition survived colonization and syncretized with Catholic and African-derived religious practices, particularly in the state of Pernambuco, where the **Culto à Jurema** (Jurema Cult) continues to this day as a living religious tradition.
 
-Other compounds identified in the species include N-methyltryptamine (NMT), 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) in some populations, various β-carboline alkaloids, tannins and flavonoids, and mucilage polysaccharides responsible for wound-healing properties.
+### Traditional Medicine (Mexico)
+In southern Mexico, *Mimosa hostilis* is known as **Tepezcohuite** (from Nahuatl *tepetl* = hill + *tzahuitle* = skin eruption/ulcer), a name that directly references its dermatological applications. Traditional uses include:
 
-The β-carboline alkaloids identified in *M. hostilis*, while present in relatively low concentrations, are of particular ethnopharmacological interest because of their potential role in rendering the traditional jurema beverage orally active. Harmine and harmaline, the β-carbolines most commonly associated with MAO inhibition in ayahuasca preparations, have been detected in trace amounts in some bark samples, though the concentrations reported are generally considered insufficient to fully explain the oral activity of the traditional brew. This has led to the hypothesis that the jurema preparation may have relied on a combination of weak endogenous MAO inhibition from multiple minor compounds, rather than a single potent inhibitor. The tannins and flavonoids in the bark also have documented pharmacological activity, including antioxidant, anti-inflammatory, and antimicrobial properties that contribute to the plant's traditional medicinal uses in both Brazil (as jurema) and Mexico (as tepescohuite).
+- **Wound healing:** Bark powder applied to burns, cuts, abrasions, and surgical wounds
+- **Skin conditions:** Treatment of acne, eczema, psoriasis, and herpes simplex
+- **Anti-inflammatory:** Poultices for insect bites, rashes, and inflammatory skin conditions
+- **Antimicrobial:** Treatment of fungal and bacterial skin infections
+- **Analgesic:** Pain relief for minor injuries and dental problems
 
-## Taxonomic History
+## Modern Pharmacological Research
 
-*Mimosa hostilis* has undergone several taxonomic revisions since its original description. The species was first described by Carl Ludwig Willdenow in 1806 based on specimens collected in South America. Over the subsequent two centuries, the species has been variously placed in the genera *Mimosa*, *Acacia*, and *Senegalia*, reflecting ongoing debates about the phylogenetic boundaries of the Mimosoid clade. In 2006, the botanist Robinson proposed the combination *Mimosa tenuiflora* based on nomenclatural priority, and this name is accepted by some modern taxonomic authorities. However, the name *Mimosa hostilis* remains in widespread use, particularly in the ethnobotanical and pharmacological literature, and both names are encountered with roughly equal frequency.
+### Wound Healing
+Clinical and preclinical studies have demonstrated that Tepezcohuite bark extract accelerates wound healing through multiple mechanisms: promotion of fibroblast proliferation and collagen synthesis, stimulation of epithelial cell migration, anti-inflammatory activity via COX-2 inhibition, antimicrobial protection against common wound pathogens, and antioxidant scavenging of reactive oxygen species.
 
-The species is placed in the family Fabaceae (Leguminosae), subfamily Mimosoideae, and is closely related to other psychoactive members of the genus including *Mimosa verrucosa*, which has been reported to contain DMT in its root bark.
+### Antimicrobial Activity
+Extracts have demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *Candida albicans*, attributed primarily to tannin and saponin content.
 
-## Botanical Description
+### Anti-inflammatory
+In vivo studies confirm significant anti-inflammatory effects mediated through inhibition of NF-κB signaling and reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6).
 
-*Mimosa hostilis* is a perennial shrub or small tree, typically reaching heights of 2–8 meters in its native habitat. The trunk is gnarled and covered with dark, rough bark that is thornless, distinguishing it from many other *Mimosa* species. The bark is the primary plant part of ethnobotanical interest, ranging from reddish-brown to dark brown and often forming thick, fibrous layers on mature specimens.
-
-The leaves are bipinnately compound (twice-divided), giving the foliage a delicate, fern-like appearance characteristic of the Mimosoideae subfamily. Each leaf bears numerous small leaflets (pinnae) that are arranged in pairs along the rachis. The leaflets are oblong, approximately 4–6 mm long, and exhibit the characteristic nyctinastic (sleep) movement common to many *Mimosa* species — the leaves fold downward at night and reopen during daylight hours.
-
-The inflorescences are cylindrical spikes, approximately 2–6 cm long, bearing numerous small white to pale pinkish flowers. The flowers are regular (radially symmetric), with five petals and numerous prominent stamens that give the spike a fluffy, brush-like appearance. Flowering occurs primarily during the rainy season in the plant's native range.
-
-The fruit is a flattened legume (pod), 2–5 cm long, containing 3–5 seeds. The pods are brown at maturity and may be slightly curved. The seeds are oblong, brown, and possess a hard seed coat that may require scarification for germination.
-
-## Ethnobotanical Mystery of Oral Activity
-
-The puzzle of how the jurema drink could be orally active remains one of the most intriguing unanswered questions in ethnopharmacology. Since DMT is not orally active without a monoamine oxidase inhibitor (MAOI), the traditional preparation must have included additional ingredients that served this function, or the plant itself must contain an endogenous MAOI in its tissues. This question has been debated for decades without definitive resolution.
-
-Several hypotheses have been proposed to explain the oral activity of the jurema drink. One possibility is that the traditional preparation included one or more plant additives containing β-carboline alkaloids (harmine, harmaline, or tetrahydroharmine), which are potent MAOIs. These compounds are found in several plant species native to the region, including *Banisteriopsis caapi* and *Peganum harmala*, though neither is known to be native to northeastern Brazil.
-
-Another possibility is that *Mimosa hostilis* itself contains an as-yet-unidentified MAOI compound in its root bark or other tissues. Some researchers have speculated that tannins or other polyphenolic compounds in the bark may have weak MAO-inhibiting activity, though this has not been convincingly demonstrated. A third possibility is that the preparation method itself — which may have involved prolonged fermentation or combination with alkaline substances — could have chemically modified the DMT or inhibited MAO activity through non-enzymatic means.
-
-## Medicinal Uses
-
-In Mexico, the bark of the same species (known locally as tepescohuite) is widely used in traditional medicine and commercial skin-care products for its purported wound-healing, anti-inflammatory, and antimicrobial properties. Tepescohuite bark powder is applied topically to burns, cuts, and skin infections, and has been incorporated into soaps, creams, and ointments sold throughout Mexico. Scientific studies have confirmed that the bark contains tannins with astringent properties, flavonoids with antioxidant activity, and polysaccharides that promote tissue regeneration.
-
-Clinical interest in tepescohuite has grown significantly since the 1980s, when Mexican researchers began investigating its wound-healing properties in formal clinical settings. Studies published in Mexican medical journals reported accelerated healing of second-degree burns and chronic skin ulcers when treated with tepescohuite preparations compared to conventional treatments. The bark's high mucilage content is believed to form a protective film over wounds that prevents infection and maintains a moist healing environment, while the tannins and flavonoids reduce inflammation and oxidative tissue damage. Despite these promising findings, large-scale randomized controlled trials have not been conducted, and tepescohuite remains primarily a traditional and commercial remedy rather than a mainstream pharmaceutical agent.
-
-## Modern Use and Conservation
-
-In contemporary contexts, *Mimosa hostilis* root bark has become one of the most widely used botanical sources of DMT worldwide. It is a primary ingredient in numerous ayahuasca analog preparations, particularly in contexts where traditional Amazonian plants are unavailable. The root bark is commonly combined with a source of β-carboline alkaloids (such as *Peganum harmala* seeds or *Banisteriopsis caapi* bark) to create an orally active brew pharmacologically analogous to traditional ayahuasca.
-
-The increasing global demand has raised concerns about sustainable harvesting practices and the ecological impact of wild collection. Conservation organizations and ethnobotanists have advocated for cultivation programs and sustainable management practices to ensure the long-term survival of wild populations. In Brazil, harvesting and sale of the root bark are regulated.
-
-## Bark Harvesting and Jurema Preparation
-
-Traditional harvesting of *Mimosa hostilis* root bark is a labor-intensive process that requires careful technique to ensure both the quality of the harvested material and the survival of the parent plant. Harvesters typically select mature trees and excavate the lateral roots rather than the taproot, stripping the outer bark in sections while leaving the inner cambium intact so that the root can regenerate. The bark is then sun-dried for several days, during which it curls and develops its characteristic dark reddish-brown coloration, before being pounded or ground into a coarse powder using wooden mortars. Ethnobotanical accounts suggest that sustainable yield from a single mature tree can be maintained over many years through rotational harvesting, in which different root zones are tapped in successive years, allowing previously harvested roots to recover. However, the increasing commercial demand for the bark — driven largely by its use in ayahuasca analog preparations outside Brazil — has led to destructive harvesting practices in some areas, including the wholesale uprooting of young trees and the stripping of bark from specimens too immature to survive the process.
-
-The preparation of the traditional jurema beverage (*vinho de jurema* or *ajuca*) is a multi-step process that has been only partially documented, as much of the knowledge was lost with the decline of the indigenous communities that practiced it. Surviving accounts describe the soaking of freshly harvested or sun-dried root bark in cold water for extended periods, often 24 hours or more, during which the DMT-rich extract leaches into the water. The soaked bark is then pounded and sometimes heated gently, with additional water added to produce a dark, tannin-rich liquid. Some accounts mention the addition of other plant ingredients — potentially including the leaves or bark of species containing β-carboline alkaloids — though the specific admixture plants have not been definitively identified. The resulting beverage is described as intensely bitter and astringent, and was consumed in communal ceremonial contexts, often in quantities sufficient to produce powerful visionary experiences lasting several hours. The role of fermentation in the preparation remains unclear; some researchers have speculated that spontaneous fermentation of the bark soak may have produced small quantities of ethanol or other compounds that could modify the pharmacokinetics of the DMT, though this hypothesis has not been experimentally confirmed.
-
-The ceremonial context of jurema consumption was as elaborate and structured as the preparation itself. Historical accounts from the late 19th and early 20th centuries describe gatherings in which participants would consume the jurema beverage in a communal setting, often accompanied by singing, drumming, and rhythmic dancing that were believed to facilitate the visionary experience and help participants navigate the spiritual realms they entered. The ceremonies were typically led by a *pajé* (shaman) who served as both the preparer of the beverage and the interpreter of the visions experienced by participants. Warriors preparing for battle would drink the jurema to receive visions of the spirit world, seeking omens of victory or defeat, glimpses of the fate of fallen comrades, and encounters with powerful spirit beings who could grant protection or counsel.
-
-The decline of the jurema ceremony represents one of the most significant losses of indigenous entheogenic knowledge in the Americas. By the mid-20th century, the full ceremonial practice had largely disappeared, surviving only in fragmentary accounts recorded by a handful of ethnographers and travelers who witnessed its final iterations. The indigenous communities of northeastern Brazil that once practiced the jurema ceremony were devastated by centuries of colonial violence, forced displacement, and cultural suppression, and the transmission of ceremonial knowledge was disrupted long before modern ethnopharmacologists arrived to document it. Contemporary attempts to reconstruct the jurema ceremony have drawn on the surviving ethnographic record and on the continued use of *M. hostilis* bark in certain Afro-Brazilian spiritual traditions, but the original indigenous practice — including the critical question of how the beverage was rendered orally active — may never be fully recovered.
+### Antioxidant
+High phenolic and flavonoid content confers significant free radical scavenging activity, protecting cellular membranes and DNA from oxidative damage.
 
 ## Legal Status
 
-The legal status of *Mimosa hostilis* varies significantly by jurisdiction. In many countries, the plant itself is legal while extracted DMT is controlled. The plant occupies a complex legal position in international drug policy, as its status as a traditional entheogen and a modern commercial product continues to evolve alongside shifting regulatory frameworks for psychedelic substances.
+The legal status of *Mimosa hostilis* varies significantly by jurisdiction. In Brazil, harvest of wild Jurema is regulated due to ecological concerns in the Caatinga biome. In many countries, the plant itself is legal to grow and possess, but extraction or preparation of DMT-containing material may be controlled under drug scheduling laws. In the United States, *M. hostilis* root bark is not specifically scheduled but DMT is a Schedule I controlled substance.
 
-## See Also
+## Conservation Concerns
 
-- [[entheogen-jurema-mimosa-hostilis-ethnobotany]]
-- [[schultes-mimosa-jurema-dmt-brazil]]
-- [[dmt-dimethyltryptamine-experience-guide]]
-
-- [[5-MeO-DMT]] — related tryptamine compound found in some populations of *M. hostilis*
-- [[Bufotenin]] — another tryptamine alkaloid with distinct pharmacological properties
-- [[Plants of the Gods]] — comprehensive ethnobotanical survey covering jurema traditions
-- [[Banisteriopsis caapi]] — the traditional Amazonian MAOI source used in ayahuasca preparations
+Wild populations of *Mimosa hostilis* in the Caatinga biome face pressure from overharvesting for both entheogenic and commercial wound-healing markets, as well as habitat destruction from agricultural expansion and charcoal production. Sustainable cultivation programs and plantation-grown material are increasingly important to reduce pressure on wild stands.

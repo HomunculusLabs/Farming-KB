@@ -114,6 +114,8 @@ The orchard thus becomes not a managed monoculture but "an organically integrate
 
 ## See Also
 
+- [[fukuoka-pruning-cascade-self-perpetuating-cycle]]
+
 - [[fukuoka-argument-against-pruning]]
 - [[fukuoka-no-prune-fruit-tree-method]]
 - [[fukuoka-no-pruning-philosophy-fruit-trees]]

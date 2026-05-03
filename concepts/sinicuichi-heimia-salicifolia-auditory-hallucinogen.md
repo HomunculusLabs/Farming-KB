@@ -75,6 +75,8 @@ The growing field of psychoacoustics — the study of how psychoactive substance
 
 ## See Also
 
+- [[heimia-salicifolia-entity]]
+
 - [[heimia-salicifolia]]
 
 sinicuichi heimia salicifolia auditory hallucinogen — another Mexican psychoactive plant with dream-modifying properties.

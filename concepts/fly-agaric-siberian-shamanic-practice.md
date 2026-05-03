@@ -87,6 +87,7 @@ century. These tales were shocking and gripping, revealing that just over the
 edge of the civilised Western world were people with profoundly different
 religious practices.
 
+[[christmas-mushroom-symbolism]] draws directly on these Siberian traditions.
 The first detailed accounts came from Russian explorers and administrators
 expanding into Siberia. The eighteenth-century naturalist Stepan Krasheninnikov
 provided particularly vivid descriptions of Koryak mushroom use, including
@@ -112,7 +113,8 @@ for later English-speaking scholars."
 
 ## The La Barre-Wasson Debate on Siberian Origins
 
-The American anthropologist Weston La Barre went further than Wasson,
+[[amanita-muscaria-ethnobotany]] documents the global spread of fly-agaric use
+beyond Siberia. The American anthropologist Weston La Barre went further than Wasson,
 arguing that [[harner-amanita-muscaria-siberian-shamanism]] was the original ur-religion from which all
 psychedelic plant use derived. The widespread use of psychoactive plants in
 the Americas could, in his view, be explained by Siberian shamanic practices
@@ -130,3 +132,9 @@ severely disrupted by centuries of Russian colonisation, Soviet
 assimilation policies, and Christian missionary activity. Contemporary
 Siberian shamans who use the fly-agaric are rare, and much of the
 traditional knowledge surrounding its use has been lost.
+
+## See Also
+
+- [[amanita-muscaria-ethnobotany]]
+- [[rig-veda-soma-hymns-amanita-muscaria]]
+- [[consciousness-and-psychedelics]]

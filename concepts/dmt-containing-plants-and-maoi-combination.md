@@ -133,3 +133,7 @@ legal status of sacramental ayahuasca remains in federal litigation.
 - McKenna, D.J. et al. (1984). J Ethnopharmacol, 10, 195-223.
 - Riba, J. et al. (2001). Psychopharmacology, 154, 85-95.
 - Strassman, R.J. (1996). Behav Brain Res, 73, 121-124.
+
+## See Also
+
+- [[desmanthus-illinoensis]]

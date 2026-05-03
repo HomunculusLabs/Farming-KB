@@ -138,13 +138,13 @@ in riparian and coastal areas. California Invasive Plant Council rates it **"Mod
 
 ## Related Species
 
-- [[phalaris-arundinacea]] — Reed Canary Grass, most widespread *Phalaris* species
-- [[phalaris-canariensis]] — Canary Grass, grain crop used as birdseed
-- [[phalaris-brachystachys]] — Short-spiked Canary Grass, also DMT-containing
-- [[arundo-donax]] — Giant Reed, related Poaceae for erosion control
-- [[deschampsia-cespitosa]] — Tufted Hairgrass, native erosion-control alternative
-- [[festuca-arundinacea]] — Tall Fescue, forage grass with endophyte alkaloids
-- [[typha-latifolia]] — Common Cattail, co-occurs in riparian habitats
+- phalaris arundinacea — Reed Canary Grass, most widespread *Phalaris* species
+- phalaris canariensis — Canary Grass, grain crop used as birdseed
+- phalaris brachystachys — Short-spiked Canary Grass, also DMT-containing
+- arundo donax — Giant Reed, related Poaceae for erosion control
+- deschampsia cespitosa — Tufted Hairgrass, native erosion-control alternative
+- festuca arundinacea — Tall Fescue, forage grass with endophyte alkaloids
+- [[typha-latifolia-entity]] — Common Cattail, co-occurs in riparian habitats
 - [[mimosa-hostilis]] — Jurema, more reliable DMT-containing species
 - [[psychotria-viridis]] — Chacruna, principal ayahuasca DMT admixture
 - [[banisteriopsis-caapi]] — Ayahuasca vine, β-carboline MAOI source

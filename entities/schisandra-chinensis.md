@@ -142,9 +142,9 @@ Requires both sexes (1 male per 5–8 female). Prune late winter. Pests: scale i
 
 - [[adaptogenic-herbs-guide]] — comprehensive guide to adaptogenic herbs
 - [[nootropic-herbs-guide]] — cognitive-enhancing botanicals
-- [[hepatoprotective-herbs]] — liver-protective plant medicines
-- [[traditional-chinese-medicine-herbs]] — TCM herbal materia medica
-- [[schisandra-sphenanthera]] — Southern Schisandra, related medicinal species
+- hepatoprotective herbs — liver-protective plant medicines
+- traditional chinese medicine herbs — TCM herbal materia medica
+- schisandra sphenanthera — Southern Schisandra, related medicinal species
 - [[ashwagandha]] — *Withania somnifera*, another prominent adaptogen
 - [[rhodiola-rosea]] — Arctic root, comparative adaptogenic profile
 - [[panax-ginseng]] — Asian ginseng, synergistic TCM combination

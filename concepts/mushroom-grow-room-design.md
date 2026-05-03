@@ -9,13 +9,14 @@ sources:
 
 ## Overview
 
-A dedicated grow room provides controlled environmental conditions for [[mushroom-cultivation]] at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
+[[mushroom-cultivation]] provides the foundational techniques that a grow
+room builds upon. A dedicated grow room provides controlled environmental conditions for [[mushroom-cultivation]] at scale. While a single monotub can be managed in a closet or spare room, growers running multiple tubs or bags benefit from a purpose-built space that maintains stable temperature, humidity, and fresh air exchange. Good grow room design reduces daily maintenance, improves consistency, and maximizes yields.
 
 ## Environmental Parameters
 
 ### Temperature
 
-[[psilocybe-cubensis]] thrives at 70-78F (21-26C) during both colonization and fruiting. Temperature requirements:
+[[psilocybe-cubensis]] thrives at 70-78F (21-26C) during both colonization and fruiting. [[fruiting-body-development]] depends on precise temperature management. Temperature requirements:
 
 - **Colonization**: 75F (24C) is optimal. Temperatures above 80F promote bacterial growth without significantly speeding mycelial growth. Below 65F, colonization slows dramatically.
 - **Fruiting**: 70-75F (21-24C) is ideal. A slight drop from colonization temperature (3-5 degrees) can help trigger fruiting.
@@ -110,6 +111,8 @@ A dedicated grow room provides controlled environmental conditions for [[mushroo
 
 ## Contamination Prevention in the Grow Room
 
+[[mushroom-contamination-identification]] is essential reading for any grow
+room operator.
 - **Clean regularly**: Wipe shelves and surfaces with 10% bleach solution or 70% alcohol weekly.
 - **HEPA air purifier**: Run continuously or on a timer to reduce airborne spore count.
 - **Separate colonization and fruiting areas**: If possible, colonize jars in a separate space from fruiting tubs. Fruiting produces massive spore loads that can contaminate colonizing cultures.
@@ -120,6 +123,8 @@ A dedicated grow room provides controlled environmental conditions for [[mushroo
 
 ## Automation
 
+[[grain-spawn-preparation]] and other upstream processes can also benefit from
+automation principles. Practical options include:
 - **Inkbird or similar controllers**: Dual-stage temperature and humidity controllers can automate heaters and humidifiers.
 - **Timers**: For lighting (12/12), humidifiers (on/off cycles), and fans.
 - **Smart plugs**: WiFi-enabled plugs allow remote monitoring and control via smartphone.
@@ -141,4 +146,6 @@ A basic grow room setup can be assembled for $100-300:
 - [[mushroom-harvesting-potency]] — environmental optimization for maximum yields
 - [[mushroom-contamination-identification]] — identifying and managing contamination
 - [[bulk-substrate-preparation]] — substrate considerations for the grow room
-- [[mushroom-contamination-identification]]
+- [[agar-culture-and-isolation]]
+- [[grain-spawn-preparation]]
+- [[fruiting-body-development]]

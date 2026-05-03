@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-[[Boswellia serrata]] is a moderate-to-large deciduous tree in the family [[Burseraceae]], prized for its aromatic oleogum resin known as Indian frankincense. Used for millennia in [[ayurvedic-medicine]], it is now one of the most clinically studied botanical [[anti-inflammatory-herbs]]. Its principal bioactives — the boswellic acids — are potent inhibitors of 5-lipoxygenase (5-LOX), distinguishing its mechanism from NSAIDs and corticosteroids.
+[[Boswellia serrata]] is a moderate-to-large deciduous tree in the family [[Burseraceae]], prized for its aromatic oleogum resin known as Indian frankincense. Used for millennia in ayurvedic medicine, it is now one of the most clinically studied botanical anti inflammatory herbs. Its principal bioactives — the boswellic acids — are potent inhibitors of 5-lipoxygenase (5-LOX), distinguishing its mechanism from NSAIDs and corticosteroids.
 
 ## Taxonomy
 
@@ -37,7 +37,7 @@ First described by William Roxburgh and formalized by Henry Thomas Colebrooke in
 - **Indian Frankincense** — English trade name distinguishing it from Arabian frankincense.
 - **Kundur / Luban** — Arabic terms for frankincense-type resins, applied to this species in regional trade.
 - **Olibanum indicum** — Historical pharmacopeial name in European medical texts.
-- **Shallaki** — Sanskrit name used in classical [[ayurvedic-medicine]] compendia.
+- **Shallaki** — Sanskrit name used in classical ayurvedic medicine compendia.
 
 ## Morphology
 
@@ -51,11 +51,11 @@ First described by William Roxburgh and formalized by Henry Thomas Colebrooke in
 | Arabian Peninsula | Yemen, Oman (naturalized or closely related species) |
 | Cultivated | Worldwide in arid botanical collections and commercial plantations |
 
-Most abundant on dry, rocky hillsides at 200–1,250 m elevation in central and western India. Thrives on shallow, well-drained soils over limestone, gneiss, or sandstone. Core habitat spans the [[dry-deciduous-forest]] and [[tropical-thorn-forest]] zones of the Deccan Peninsula.
+Most abundant on dry, rocky hillsides at 200–1,250 m elevation in central and western India. Thrives on shallow, well-drained soils over limestone, gneiss, or sandstone. Core habitat spans the dry deciduous forest and tropical thorn forest zones of the Deccan Peninsula.
 
 ## Traditional Use in Ayurveda
 
-Referenced in the *Charaka Samhita* and *Sushruta Samhita*, the resin treats a broad range of conditions in [[ayurvedic-medicine]]:
+Referenced in the *Charaka Samhita* and *Sushruta Samhita*, the resin treats a broad range of conditions in ayurvedic medicine:
 
 | Indication | Ayurvedic Category | Classical Reference |
 |-----------|-------------------|--------------------|
@@ -64,7 +64,7 @@ Referenced in the *Charaka Samhita* and *Sushruta Samhita*, the resin treats a b
 | Digestive complaints | Deepana-Pachana | Grahani, Amlapitta |
 | Skin diseases | Kusthahara | Vicharchika, Kushta |
 
-Administered as powder (churna), decoction (kwatha), medicated ghee (ghrita), or in compound formulations such as *Kaishore Guggulu* and *Mahayogaraja Guggulu*. Classical doses range from 1–3 g crude resin/day. See also [[guggulu-resins]] and [[anti-inflammatory-herbs]].
+Administered as powder (churna), decoction (kwatha), medicated ghee (ghrita), or in compound formulations such as *Kaishore Guggulu* and *Mahayogaraja Guggulu*. Classical doses range from 1–3 g crude resin/day. See also guggulu resins and anti inflammatory herbs.
 
 ## Phytochemistry
 
@@ -92,13 +92,13 @@ The volatile fraction (5–10% of resin) is dominated by monoterpenes:
 | Limonene | 5–15% | Anti-inflammatory |
 | β-Caryophyllene | 2–6% | CB2 receptor agonist |
 
-Other minor constituents include myrcene, p-cymene, sabinene, and sesquiterpenes. See [[essential-oils]] and [[resins-and-extracts]].
+Other minor constituents include myrcene, p-cymene, sabinene, and sesquiterpenes. See essential oils and resins and extracts.
 
 ## Pharmacology
 
 ### 5-Lipoxygenase (5-LOX) Inhibition
 
-AKBA is a non-redox, competitive inhibitor of 5-LOX (IC₅₀ ≈ 1.5 μM), blocking conversion of arachidonic acid to leukotriene B₄ (LTB₄). This underpins efficacy in [[asthma-herbal-treatment]] and inflammatory arthritis.
+AKBA is a non-redox, competitive inhibitor of 5-LOX (IC₅₀ ≈ 1.5 μM), blocking conversion of arachidonic acid to leukotriene B₄ (LTB₄). This underpins efficacy in asthma herbal treatment and inflammatory arthritis.
 
 ### NF-κB Suppression
 
@@ -113,23 +113,23 @@ Boswellic acids inhibit IκB kinase (IKK), preventing NF-κB nuclear translocati
 | Asthma (bronchial) | Double-blind RCT (n=40) | Improved FEV1, reduced leukotriene levels | Moderate |
 | Ulcerative colitis | RCT (n=82) | Higher remission vs. mesalamine control | Moderate |
 
-Standardized extracts (5-Loxin®, Aflapin®, Boswellin®) are dosed at 100–500 mg/day providing 30–75% AKBA. See [[clinical-herbal-research]] and [[anti-inflammatory-herbs]].
+Standardized extracts (5-Loxin®, Aflapin®, Boswellin®) are dosed at 100–500 mg/day providing 30–75% AKBA. See clinical herbal research and anti inflammatory herbs.
 
 ## Cultivation and Resin Harvesting
 
-Requires arid to semi-arid tropical conditions (500–1,500 mm rainfall), well-drained soils, full sun. Drought-tolerant once established but intolerant of waterlogging, frost, and shade. Propagation by seed (40–60% germination, improved by scarification); seedlings require 8–12 years before first harvest. Resin extraction involves systematic bark incisions (tapping) on trees ≥8 years old following a seasonal cycle: pre-tapping (Oct–Nov), first shallow tapping (Dec–Jan), deeper second tapping (Feb–Mar), then collection as resin dries over 10–15 days into opaque pale-yellow to amber tears. Average yield is 0.5–2 kg dry resin/tree/season. See [[sustainable-herbal-harvesting]].
+Requires arid to semi-arid tropical conditions (500–1,500 mm rainfall), well-drained soils, full sun. Drought-tolerant once established but intolerant of waterlogging, frost, and shade. Propagation by seed (40–60% germination, improved by scarification); seedlings require 8–12 years before first harvest. Resin extraction involves systematic bark incisions (tapping) on trees ≥8 years old following a seasonal cycle: pre-tapping (Oct–Nov), first shallow tapping (Dec–Jan), deeper second tapping (Feb–Mar), then collection as resin dries over 10–15 days into opaque pale-yellow to amber tears. Average yield is 0.5–2 kg dry resin/tree/season. See sustainable herbal harvesting.
 
 ## Conservation Status
 
-Overexploitation through excessive tapping, bark stripping, and habitat destruction has led to population decline. IUCN Red List (2023): **Near Threatened**. Key threats include non-sustainable tapping that weakens trees, conversion of dry forest to agriculture and grazing, fire damage, and livestock browsing on seedlings. Conservation measures include regulated tapping schedules, community-managed extraction zones, and plantation programs on India's degraded forest lands. See [[endangered-medicinal-plants]].
+Overexploitation through excessive tapping, bark stripping, and habitat destruction has led to population decline. IUCN Red List (2023): **Near Threatened**. Key threats include non-sustainable tapping that weakens trees, conversion of dry forest to agriculture and grazing, fire damage, and livestock browsing on seedlings. Conservation measures include regulated tapping schedules, community-managed extraction zones, and plantation programs on India's degraded forest lands. See endangered medicinal plants.
 
 ## See Also
 
 - [[Boswellia sacra]] — Arabian frankincense, the biblical olibanum source
 - [[Boswellia carterii]] — Somali frankincense, closely related species
 - [[Commiphora mukul]] — Guggul, a related Burseraceae resin used in Ayurveda
-- [[anti-inflammatory-herbs]] — Comprehensive index of anti-inflammatory botanicals
-- [[ayurvedic-medicine]] — Overview of the traditional Indian medical system
-- [[resins-and-extracts]] — Botanical resins used in medicine and perfumery
-- [[boswellic-acids]] — Detailed pharmacology of the active triterpenes
-- [[joint-health-herbs]] — Herbs for musculoskeletal and arthritic conditions
+- anti inflammatory herbs — Comprehensive index of anti-inflammatory botanicals
+- ayurvedic medicine — Overview of the traditional Indian medical system
+- resins and extracts — Botanical resins used in medicine and perfumery
+- boswellic acids — Detailed pharmacology of the active triterpenes
+- joint health herbs — Herbs for musculoskeletal and arthritic conditions

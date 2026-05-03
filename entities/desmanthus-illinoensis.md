@@ -43,7 +43,7 @@ sources:
 ## Morphology
 
 - Perennial herbaceous plant or subshrub, 0.3–1.0 m tall, erect to spreading stems
-- Multiple stems arise from a woody [[root-crown]] and deep taproot; forms dense clumps
+- Multiple stems arise from a woody root crown and deep taproot; forms dense clumps
 - Above-ground biomass dies back each winter; regrowth in spring
 - **Leaves:** Bipinnately compound, 8–15 cm, with 3–6 pairs of pinnae bearing 20–40 pairs of small oblong leaflets (3–6 mm); thigmonastic — leaflets fold when touched
 - **Flowers:** Spherical white to pale cream heads, 8–14 mm diameter; 5 petals, 5–10 stamens; blooms June–September; protandrous, cross-pollinated by bees
@@ -73,7 +73,7 @@ sources:
 - Highest concentrations in root bark (periderm/phloem); leaf/stem tissue contains only trace levels
 - Seeds lack significant alkaloid content
 - **Seasonal variation:** Peaks August–September; lowest in early spring vegetative growth
-- Drought stress may elevate alkaloid concentrations (stress response consistent with [[carbon-nutrient-balance-hypothesis]])
+- Drought stress may elevate alkaloid concentrations (stress response consistent with carbon nutrient balance hypothesis)
 - Poorer soils sometimes correlate with higher relative alkaloid content; significant inter-individual variation exists
 
 ## Entheogenic History
@@ -87,7 +87,7 @@ sources:
 | Species | DMT (root bark) | Cold Hardiness | Difficulty |
 |---------|-----------------|---------------|------------|
 | [[mimosa-hostilis]] | 0.5–1.0% | Tropical only | Moderate |
-| [[acacia-confusa]] | 0.5–1.1% | Subtropical | Moderate |
+| acacia confusa | 0.5–1.1% | Subtropical | Moderate |
 | *D. illinoensis* | 0.02–0.34% | Zone 4 | Easy |
 
 ## Permaculture and Agricultural Uses
@@ -117,14 +117,14 @@ sources:
 ## Related Species
 
 - [[mimosa-hostilis]] — tropical legume with much higher DMT yield
-- [[desmanthus-virgatus]] — close relative, tropical forage species, lower alkaloid content
-- [[acacia-confusa]] — East Asian acacia with significant root bark DMT
+- desmanthus virgatus — close relative, tropical forage species, lower alkaloid content
+- acacia confusa — East Asian acacia with significant root bark DMT
 - [[mimosa-pudica]] — sensitive plant, related Mimosoideae with trace tryptamines
 
 ## See Also
 
 - [[nitrogen-fixing-plants]] — index of nitrogen-fixing species for agriculture
-- [[prairie-restoration]] — techniques for restoring native North American grasslands
-- [[tryptamine-alkaloids]] — chemistry and pharmacology of plant tryptamines
-- [[entheogenic-plants-guide]] — overview of plants with psychoactive properties
-- [[extraction-methods]] — laboratory techniques for isolating plant alkaloids
+- prairie restoration — techniques for restoring native North American grasslands
+- tryptamine alkaloids — chemistry and pharmacology of plant tryptamines
+- entheogenic plants guide — overview of plants with psychoactive properties
+- extraction methods — laboratory techniques for isolating plant alkaloids

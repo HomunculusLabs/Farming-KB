@@ -97,3 +97,7 @@ Peyote is a Schedule I substance, but members of the Native American Church with
 The primary safety concern across all these botanicals is accurate identification. Misidentifying mushrooms is the most dangerous error, with potentially fatal consequences. Even correctly identified plants can cause serious harm through overdose, improper preparation, or consumption in inappropriate settings. Drug education should include awareness of these indigenous botanicals alongside their synthetic counterparts.
 
 [[psilocybin-mushroom-deadly-lookalikes]]
+
+## See Also
+
+- [[phalaris-aquatica]]

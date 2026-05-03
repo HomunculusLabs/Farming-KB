@@ -81,6 +81,8 @@ make it ideal for desert agroforestry, while the protein-rich seed
 cake provides a valuable livestock feed byproduct.
 
 ## See Also
+
+- [[schisandra-chinensis]]
 - [[azadirachta-indica]]
 - [[moringa]]
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]

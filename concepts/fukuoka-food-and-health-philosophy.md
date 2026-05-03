@@ -85,6 +85,8 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 
 ## See Also
 
+- [[fukuoka-flavor-philosophy-spiritual-alienation-food]]
+
 - [[fukuoka-food-and-human-health]]
 - [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-natural-food-philosophy]]

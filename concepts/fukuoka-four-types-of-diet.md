@@ -83,7 +83,9 @@ The progression through the four types of diet parallels the progression from co
 
 The [[fukuoka-food-spirit-united]] that Fukuoka describes is only possible when food is grown in a way that preserves its connection to the living earth. Food grown by natural farming carries within it the qualities of the soil, the season, and the ecosystem from which it came. This is why Fukuoka insists that the natural diet cannot be separated from natural farming -- they are two expressions of the same fundamental relationship between human beings and the natural world.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-textdoc-four-types-of-diet-classification]] Concepts
 
 - [[fukuoka-natural-diet-philosophy]]
 

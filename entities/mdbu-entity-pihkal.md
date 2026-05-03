@@ -85,6 +85,12 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
+- [[pineapple-express-entity]]
+
+- [[myristicin-entity]]
+
+- [[voacangine-entity]]
+
 - [[mdbu-entity]]
 
 - [[mdbu-entity]]

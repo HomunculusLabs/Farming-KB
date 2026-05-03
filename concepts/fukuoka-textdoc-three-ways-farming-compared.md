@@ -127,6 +127,10 @@ wisdom.
 
 ## See Also
 
+- [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
+
+- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
+
 - [[fukuoka-three-ways-farming-compared]]
 - [[fukuoka-theory-three-ways-of-farming]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

@@ -133,6 +133,8 @@ guide, never to force or accelerate beyond what the land can support.
 
 ## See Also
 
+- [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
+
 - [[fukuoka-three-dimensional-orchard-design]]
 - [[hemenway-hedgerow-and-shelterbelt-design]]
 - [[fukuoka-straw-mandala-orchard-design]]

@@ -21,7 +21,9 @@ interactions that rival the sophistication of animal sensory systems.
 
 ## The Chemistry of Plant Smell
 
-The plant "olfactory" system operates through receptor proteins embedded in
+[[plant-sensory-biology]] encompasses all the ways plants perceive their
+environment, with olfaction being one of the most sophisticated. The plant
+"olfactory" system operates through receptor proteins embedded in
 cell membranes, which detect specific chemical molecules and trigger
 intracellular signaling cascades. When a plant perceives a volatile compound,
 these receptors initiate changes in gene expression, hormonal balances, and
@@ -60,7 +62,8 @@ protease inhibitors.
 
 ## Eavesdropping on Neighbors
 
-One of the most remarkable aspects of plant olfaction is the ability to
+[[fungal-plant-defense]] represents a parallel system of chemical
+communication in the fungal kingdom. One of the most remarkable aspects of plant olfaction is the ability to
 eavesdrop on the chemical signals of other species. When a plant is
 attacked by herbivores, it releases a bouquet of VOCs that serve multiple
 functions: some compounds directly repel or poison the attacker, while
@@ -97,6 +100,8 @@ make ripe fruit attractive to seed-dispersing animals.
 
 ## Below-Ground Chemical Communication
 
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] relies heavily on the same
+chemical signaling pathways that plants use for olfaction.
 [[root-exudates]] represent another major channel of plant chemical sensing.
 Plants release a complex mixture of organic acids, sugars, amino acids,
 phenolics, and secondary metabolites into the rhizosphere. These exudates
@@ -126,3 +131,6 @@ demonstrates the unified nature of [[plant-sensory-biology]].
 - [[plant-mechanosensing-and-thigmomorphogenesis]]
 - [[plant-memory-and-learning]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
+- [[fungal-plant-defense]]
+- [[ingham-tannins-terpenes-phenolic-compounds]]
