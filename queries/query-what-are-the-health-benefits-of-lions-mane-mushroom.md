@@ -120,6 +120,8 @@ Lion's mane may also have mild antidepressant and anxiolytic effects, based on a
 4. Traditional use for digestive health is supported by modern research on gastric protection
 5. Cultivation is accessible to home growers using either indoor sawdust blocks or outdoor logs
 
-## Related Questions
+## Related
+
+- [[lions-mane-mushroom]] Questions
 - [[query-what-are-the-health-benefits-of-turkey-tail-mushroom]]
 - [[mushroom-foraging-safety-guide]]

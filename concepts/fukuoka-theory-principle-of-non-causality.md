@@ -133,7 +133,9 @@ intervention and allow nature's inherent balance to operate. This is not
 passive resignation but an active recognition that nature's comprehensive
 intelligence exceeds any partial understanding humans can achieve.
 
-## Related Concepts
+## Related
+
+- [[non-causality-in-nature]] Concepts
 
 - [[fukuoka-theory-three-ways-of-farming]] for the philosophical framework
   encompassing this principle

@@ -2296,3 +2296,8 @@
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[zygomycete-phylum-guide]]
 - [[zygomycota-phylogeny-classification-non-monophyletic]]
+- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
+- [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
+- [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]
+- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
+- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]

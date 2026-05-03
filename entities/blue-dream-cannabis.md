@@ -113,3 +113,11 @@ Several notable strains have been bred using Blue Dream as a parent:
 - **Blue Dream CBD:** Blue Dream bred for high CBD expression — approximately 1:1 THC:CBD ratio
 - **Purple Dream:** Blue Dream × Purple Kush — enhanced purple coloration and deeper body relaxation
 - **Blue Diesel:** Blue Dream × NYC Diesel — high-energy sativa-dominant hybrid
+
+## See Also
+
+- [[blue-dream]]
+- [[blesching-cannabis-cancer-night-sweats]]
+- [[blesching-cannabis-decarboxylation-and-raw-cannabis]]
+- [[cannabis-for-endometriosis]]
+- [[cannabis-health-cancer]]

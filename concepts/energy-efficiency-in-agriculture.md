@@ -145,3 +145,11 @@ geopolitical conflict, or market volatility, directly threatens food
 production capacity. Natural farming, requiring no external energy inputs
 beyond human labor, is structurally immune to such disruptions and
 represents the only truly sustainable basis for long-term food security.
+
+## See Also
+
+- [[mollison-designers-energy-conversion-efficiency-devices]]
+- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
+- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
+- [[mollison-village-energy-systems-and-efficiency]]
+- [[biological-efficiency]]

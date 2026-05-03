@@ -144,3 +144,11 @@ Multiple clinical trials have demonstrated significant antidepressant effects:
 - **Contraindications:** Schizophrenia spectrum disorders, bipolar I, certain cardiac conditions (serotonin syndrome risk with SSRIs)
 - **Drug interactions:** Dangerous interactions with MAOIs, lithium, and tramadol
 - **Integration:** Post-experience integration therapy significantly improves therapeutic outcomes
+
+## See Also
+
+- [[psilocybin-north-america-pacific-northwest]]
+- [[neotropical-psilocybin-mushrooms]]
+- [[powell-mayan-civilisation-and-psilocybin-mushroom-use]]
+- [[psilocybin-potency-dosage-guide]]
+- [[psilocybin-psychotherapy-research-history]]

@@ -120,6 +120,12 @@ Mollison was a polarizing figure whose outspoken nature generated both admiratio
 
 ## See Also
 
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
+
 - [[David-Holmgren]] — Co-developer of permaculture and author of *Permaculture: Principles and Pathways Beyond Sustainability*
 - [[Geoff-Lawton]] — Prominent permaculture teacher and practitioner who continued Mollison's work
 - [[Hugelkultur]] — A permaculture technique for raised beds using woody debris

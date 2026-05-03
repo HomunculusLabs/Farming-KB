@@ -116,6 +116,10 @@ While generally considered safe, individuals with known mushroom allergies shoul
 
 ## See Also
 
+- [[cancer-medicinal-mushrooms-hericium-erinaceus]]
+- [[hericium-coralloides]]
+- [[stamets-cultivator-log-cultivation-shiitake-hericium]]
+
 - [[Ganoderma-lucidum]] — Reishi, another prominent medicinal mushroom
 - [[Paul-Stamets]] — Mycologist who popularized medicinal mushroom research
 - [[psilocybin]] — Psychedelic compound produced by related fungal genera

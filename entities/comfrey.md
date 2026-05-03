@@ -184,3 +184,11 @@ One of the most popular uses in permaculture:
 - **Children:** Topical use only; never give internally
 - **Drug interactions:** May potentiate hepatotoxic effects of other liver-taxing medications
 - **PA-free preparations:** Some commercially available comfrey preparations use PA-free extracts (cultivated under controlled conditions); these are safer for topical use
+
+## See Also
+
+- [[comparison-comfrey-vs-dandelion]]
+- [[permaculture-plants-comfrey-chop-and-drop]]
+- [[comfrey-multifunctional-guild-plant]]
+- [[comfrey-as-dynamic-accumulator]]
+- [[comparison-comfrey-vs-yarrow]]

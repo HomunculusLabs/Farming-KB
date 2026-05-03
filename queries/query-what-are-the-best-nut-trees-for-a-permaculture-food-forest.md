@@ -96,7 +96,9 @@ Space trees according to their mature canopy spread, typically 30 to 60 feet apa
 - Walnuts require companion planting awareness due to juglone toxicity
 - Almonds are best suited for Mediterranean and warm, dry climates
 
-## Related Pages
+## Related
+
+- [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] Pages
 
 - [[food-forest-design]]
 - [[food-forest-plant-palette]]

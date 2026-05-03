@@ -137,3 +137,11 @@ Blue Dream is considered relatively forgiving for cultivators but rewards attent
 - Can be integrated into companion planting systems — grows well alongside basil, peppers, and tomatoes
 - Spent plant material can be composted; roots contribute to soil mycobiome diversity
 - Living soil cultivation methods produce terpene-rich expression comparable to synthetic nutrient programs
+
+## See Also
+
+- [[blue-lotus-history]]
+- [[calea-zacatechichi-dream-herb-ethnobotany]]
+- [[stamets-psi-psilocybe-stuntzii-blue-ringers]]
+
+- [[blue-dream-cannabis]]

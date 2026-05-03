@@ -140,3 +140,11 @@ Recent studies indicate potential benefits in neurodegenerative conditions throu
 ## Economic and Cultural Significance
 
 The global Reishi mushroom market was valued at over USD 5 billion in the early 2020s and continues to grow, driven by demand for functional foods, dietary supplements, and nutraceuticals. Products include dried fruiting bodies, spore oil, spore powder, mycelial biomass, and standardized extracts. China is the dominant producer, accounting for over 80% of global supply. The mushroom holds profound cultural significance in East Asian art, literature, and spiritual traditions, symbolizing longevity, prosperity, and divine blessing.
+
+## See Also
+
+- [[ganoderma-lucidum-cultivation]]
+- [[reishi-ganoderma-lucidum]]
+- [[stamets-reishi-ganoderma-lucidum-cultivation]]
+- [[ganoderma-lucidum-reishi-comprehensive-profile]]
+- [[parasitic-mushrooms-armillaria-ganoderma]]

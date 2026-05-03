@@ -143,5 +143,7 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 
 ## See Also
 
+- [[direct-seeded-notillage-rice-barley-clover-succession]]
+
 - [[agroecology]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]

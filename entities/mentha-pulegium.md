@@ -119,6 +119,9 @@ The plant's allelopathic properties are mild compared to some other mint species
 
 ## See Also
 
+- [[adaptogenic-herbs-guide]]
+- [[adaptogenic-herbs-overview]]
+
 - [[concepts/nervine-herbs-and-anxiety-relief]]
 - [[concepts/herbal-medicine]]
 

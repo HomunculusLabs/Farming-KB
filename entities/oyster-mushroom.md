@@ -183,3 +183,11 @@ Oyster mushrooms are one of the most valuable species in permaculture design:
 - **Income generation:** Low-input, high-return crop suitable for small-scale market gardening
 - **Soil building:** Spent mushroom substrate is excellent compost and mulch for garden beds
 - **Integration with chickens:** Spent substrate can be fed to poultry (chickens readily consume mycelium and remaining nutrients)
+
+## See Also
+
+- [[oyster-mushroom-lifecycle-and-reproduction]]
+- [[oyster-mushroom-spent-substrate-recycling]]
+- [[oyster-mushroom-hypocrea-disease]]
+- [[oyster-mushroom-nutritional-composition]]
+- [[oyster-mushroom-viral-diseases]]

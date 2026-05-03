@@ -116,3 +116,11 @@ The legal status of *Mimosa hostilis* varies significantly by jurisdiction. In B
 ## Conservation Concerns
 
 Wild populations of *Mimosa hostilis* in the Caatinga biome face pressure from overharvesting for both entheogenic and commercial wound-healing markets, as well as habitat destruction from agricultural expansion and charcoal production. Sustainable cultivation programs and plantation-grown material are increasingly important to reduce pressure on wild stands.
+
+## See Also
+
+- [[entheogen-jurema-mimosa-hostilis-ethnobotany]]
+- [[mimosa-pudica]]
+- [[schultes-mimosa-jurema-dmt-brazil]]
+- [[tompkins-mimosa-pudica-sensitive-plant-experiments]]
+- [[mimosa-tenuiflora]]

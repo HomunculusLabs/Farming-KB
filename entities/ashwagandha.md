@@ -154,3 +154,9 @@ Clinical evidence supports anxiolytic properties:
 - **Autoimmune conditions:** Immune-stimulating effects may exacerbate lupus, rheumatoid arthritis, or MS in some individuals (though also studied as a treatment)
 - **Drug interactions:** May enhance sedative effects of benzodiazepines, barbiturates, and alcohol
 - **Nightshade allergy:** Belongs to Solanaceae — use caution if sensitive to nightshades
+
+## See Also
+
+- [[ashwagandha-growing-guide]]
+- [[query-how-to-grow-ashwagandha-at-home]]
+- [[comparison-ashwagandha-vs-tulsi]]

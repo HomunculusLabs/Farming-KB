@@ -86,6 +86,8 @@ Bionutrient preparations (see [[bionutrients-guide]]) directly feed and shape so
 
 ## See Also
 
+- [[liebig-law-of-minimum-critique]]
+
 - soil food web nutrient cycling — Overview of trophic levels and bacterial vs. fungal dominance
 - soil food web nutrient cycling — Detailed nutrient cycling and fungal ecology
 - [[mycorrhizal-networks]] — Types, carbon flow, "wood wide web", glomalin

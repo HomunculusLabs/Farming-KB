@@ -148,3 +148,7 @@ Factors to consider in strain selection and breeding:
 | Cultivation Method | Best Suited Species |
 |-------------------|-------------------|
 | Log culture | P. ostreatus, P. eryngii |
+
+## See Also
+
+- [[oyster-mushroom]]

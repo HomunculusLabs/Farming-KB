@@ -125,6 +125,12 @@ conversion to MMDA. During the 1960s, nutmeg experienced periodic waves of
 recreational use as a legal psychoactive, always followed by consensus that
 the experience was unpleasant and not worth repeating.
 ## See Also
+
+- [[cpm-entity-pihkal]]
+- [[4-d-entity-pihkal]]
+- [[5-toet-entity-pihkal]]
+- [[lsd-entity-tihkal]]
+- [[4-ho-mipt-entity-tihkal]]
 - [[mescaline]]
 - Safrole
 - Elemicin

@@ -155,3 +155,11 @@ Current and emerging areas of Lion's Mane research include:
 - Potential applications in treating anxiety and depression
 - Synergistic effects with other medicinal mushrooms
 - Optimization of cultivation for maximum bioactive compound yield
+
+## See Also
+
+- [[query-what-are-the-health-benefits-of-lions-mane-mushroom]]
+- [[medicinal-mushroom-guide-lions-mane]]
+- [[lions-mane-cultivation]]
+- [[lions-mane-indoor-cultivation]]
+- [[growing-gourmet-lions-mane-cultivation]]

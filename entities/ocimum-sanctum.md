@@ -139,3 +139,12 @@ Tulsi is one of the easiest medicinal herbs to cultivate. It self-seeds readily 
 - [[Adhatoda vasica]] — Malabar Nut; respiratory herb used alongside Tulsi in Ayurvedic formulations for bronchitis and asthma.
 - [[Glycyrrhiza glabra]] — Licorice; demulcent root combined with Tulsi in throat and respiratory formulations (Tulasi Yashti Madhu Kvatha).
 - [[Piper nigrum]] — Black Pepper; enhances bioavailability of Tulsi's triterpenoids via piperine-mediated inhibition of hepatic glucuronidation.
+
+## See Also
+
+- [[adaptogenic-herbs-guide]]
+- [[adaptogenic-herbs-overview]]
+- [[comparison-ashwagandha-vs-tulsi]]
+- [[holy-basil-tulsi-guide]]
+
+- [[ocimum-tenuiflorum]]

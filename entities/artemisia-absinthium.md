@@ -111,6 +111,9 @@ Commercial cultivation of wormwood for essential oil production is centered in E
 
 ## See Also
 
+- [[adaptogenic-herbs-guide]]
+- [[adaptogenic-herbs-overview]]
+
 - [[medicinal-plant-preparations-tinctures-salves-teas]]
 
 - thujone

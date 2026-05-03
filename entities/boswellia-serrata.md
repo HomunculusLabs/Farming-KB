@@ -125,6 +125,11 @@ Overexploitation through excessive tapping, bark stripping, and habitat destruct
 
 ## See Also
 
+- [[adaptogenic-herbs-guide]]
+- [[adaptogenic-herbs-overview]]
+- [[cannabis-glandular-trichome-types-resin-production-clarke]]
+- [[resin-acid-fungal-biodegradation]]
+
 - [[Boswellia sacra]] — Arabian frankincense, the biblical olibanum source
 - [[Boswellia carterii]] — Somali frankincense, closely related species
 - [[Commiphora mukul]] — Guggul, a related Burseraceae resin used in Ayurveda

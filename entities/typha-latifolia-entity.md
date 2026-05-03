@@ -144,6 +144,12 @@ permaculture water management:
 - **Pests and diseases:** Generally pest-free. Cattail moth larvae can
   damage seed heads but rarely threaten plant health.
 ## See Also
+
+- [[cpm-entity-pihkal]]
+- [[4-d-entity-pihkal]]
+- [[5-toet-entity-pihkal]]
+- [[lsd-entity-tihkal]]
+- [[4-ho-mipt-entity-tihkal]]
 - Sagittaria latifolia
 - Medicago sativa
 - [[symphytum-officinale]]

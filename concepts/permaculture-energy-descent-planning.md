@@ -107,7 +107,9 @@ Holmgren suggests that energy descent will not be a sudden collapse but a steppe
 - Prioritize investments that provide value regardless of energy availability
 - Focus on knowledge and skills that become more valuable as energy declines
 
-## Related Concepts
+## Related
+
+- [[energy-efficiency-in-agriculture]] Concepts
 
 - [[permaculture-principles]]
 - [[permaculture-principle-creatively-use-and-respond-to-change|Use creativity to respond to change]]

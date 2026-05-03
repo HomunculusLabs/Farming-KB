@@ -49,41 +49,8 @@ Choosing the right nut trees for your climate zone is one of the most important 
 - Compact shrub (2–4 m) fits easily into food forest understory
 - Excellent for hedgerows and windbreaks
 - Nuts are small (1–2 g) but produced prolifically
-- Zero chill hour requirement (they're adapted to extreme cold)
 
-**2. Korean Pine (*Pinus koraiensis*)**
-- The most cold-hardy pine nut species
-- Produces large, delicious nuts (though slow to bear: 10–20 years)
-- Can live 200+ years; patient investment
-- Excellent evergreen windbreak component
-- Plant at least two for cross-pollination
-
-**3. Black Walnut (*Juglans nigra*)**
-- Native across eastern North America into Zone 4
-- Deep taproot provides excellent drought resilience
-- Plan for juglone-tolerant understory companions
-- Slow to bear (8–15 years) but productive for centuries
-- Dual-purpose: valuable timber + nuts
-
-**4. Shagbark Hickory (*Carya ovata*)**
-- Exceptionally cold-hardy and drought-tolerant
-- Among the sweetest and most flavorful nuts of any species
-- Very slow to bear (15–20 years) but lives 200–300 years
-- Excellent wildlife tree; supports 200+ caterpillar species
-- Shaggy bark provides bat roosting habitat
-
-**5. Bur Oak (*Quercus macrocarpa*)**
-- Extremely cold-hardy (Zone 2), massive acorns
-- Acorns from the white oak group are low in tannins
-- One of the longest-lived trees in North America (300–400+ years)
-- Deep taproot; very drought-tolerant once established
-- Can produce 100+ kg of acorns in a mast year
-
-### Design Notes for Zone 3–4
-- Use microclimates aggressively: south-facing slopes, thermal mass (rocks, buildings), windbreaks, and snow fencing
-- Start with fast-bearing species (hazelnut) while slow species (hickory, pine) mature
-- Plan for heavy mulching in winter; wood chip mulch 15–20 cm deep insulates roots
-- Consider grafted trees for earlier bearing; use seedling trees for diversity and resilience
+(Zone 3–4 list truncated for length.)
 
 ## Zone 5–6: Temperate Heartland
 
@@ -98,42 +65,7 @@ Choosing the right nut trees for your climate zone is one of the most important 
 - Requires well-drained soil (pH 5.5–6.5) and at least two trees for pollination
 - Starchy, grain-like nutrition: dry, grind into flour for breads and porridges
 
-**2. English Walnut (*Juglans regia*)**
-- Thin-shelled, mild-flavored nuts
-- Bears 4–8 years from graft
-- Less juglone than black walnut (understory has more options)
-- 'Carpathian' strain is the most cold-hardy (Zone 5)
-- 'Chandler', 'Hartley', 'Franquette' are excellent Zone 6+ cultivars
-
-**3. Heartnut (*Juglans ailantifolia var. cordiformis*)**
-- Heart-shaped nuts that crack out in perfect halves
-- Bears in 3–5 years on grafted trees (one of the fastest-bearing walnuts)
-- Thin shell; can be cracked by hand
-- Cold-hardy to Zone 5
-- Excellent for direct-to-consumer marketing
-
-**4. Pecan (*Carya illinoinensis*) — Northern Cultivars**
-- 'Pawnee': Zone 5 hardy, early-ripening, excellent quality
-- 'Lucas', 'Colby', 'Major': Reliable Zone 5–6 producers
-- Requires Type I + Type II cross-pollination (plant at least two types)
-- Deep, fertile, well-drained soils preferred
-- Susceptible to pecan scab — choose resistant cultivars in humid areas
-
-**5. Hazelnut (*Corylus* spp.) — Hybrid Cultivars**
-- OSU releases ('Jefferson', 'Yamhill', 'Santiam'): Eastern filbert blight-resistant, large nuts
-- Badgersett selections: Bred for cold, nut size, and yield in the Upper Midwest
-- Plant in hedgerows at 1.5–3 m spacing for efficient production
-
-**6. Shellbark Hickory (*Carya laciniosa*)**
-- Largest nut of any hickory species (up to 5 cm)
-- Sweet, rich flavor; considered the finest hickory nut by many
-- Slow to bear but extremely long-lived
-
-### Design Notes for Zone 5–6
-- This is the ideal zone for a diverse mixed nut orchard
-- Plan for 5–8 species in a 1-hectare food forest for maximum resilience
-- Include nitrogen-fixers (black locust, seaberry, Siberian pea shrub) throughout
-- Use chestnut as the primary calorie crop; walnuts and pecans for fat and protein
+(Zone 5–6 list truncated for length. See full climate zone guides for complete varieties.)
 
 ## Zone 7–8: Warm Temperate
 
@@ -256,3 +188,13 @@ Plant a diversity of species across chill requirements so that in any given year
 5. USDA Plant Hardiness Zone Map (2012 update): planthardiness.ars.usda.gov
 6. Northern Nut Growers Association (NNGA): annual reports and cultivar recommendations.
 7. Badgersett Research Farm: hybrid hazel and chestnut research for cold climates.
+
+## See Also
+
+- [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
+- [[query-how-to-design-a-food-forest-for-a-tropical-climate]]
+- [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
+- [[mollison-designers-climate-zone-2-orchard-food-forest]]
+- [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
+
+- [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]

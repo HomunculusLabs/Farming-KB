@@ -134,3 +134,11 @@ produced about 250 heads of grain per square yard with an average of 200
 grains per head, demonstrating that natural biological processes are fully
 capable of maintaining high productivity when allowed to function without
 disruption from human intervention.
+
+## See Also
+
+- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
+- [[fukuoka-road-back-clover-barley-rice-method]]
+- [[fukuoka-no-tillage-rice-barley-succession]]
+- [[fukuoka-no-till-rice-barley-succession]]
+- [[fukuoka-rice-and-barley-natural-farming]]

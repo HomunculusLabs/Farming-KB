@@ -142,6 +142,13 @@ Ashwagandha is generally well-tolerated with a good safety profile. However:
 
 ## See Also
 
+- [[adaptogenic-herbs-overview]]
+- [[ashwagandha]]
+- [[ashwagandha-growing-guide]]
+- [[comparison-ashwagandha-vs-tulsi]]
+
+- [[adaptogenic-herbs-guide]]
+
 - [[Panax-ginseng]] — Another prominent adaptogenic herb (Chinese/Korean ginseng)
 - [[Rhodiola-rosea]] — Arctic adaptogen for stress and fatigue
 - [[Curcuma-longa]] — Turmeric, another cornerstone Ayurvedic medicinal plant

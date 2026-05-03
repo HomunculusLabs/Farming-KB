@@ -84,6 +84,12 @@ The abundance of fungi in humid forests reflects this dependency. [[fungal-spore
 
 ## Related
 
+- [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]
+- [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
+- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
+- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
+- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
+
 - [[fungal-decomposition]]
 - [[fungi-in-space-research]]
 - [[mycelium-composites-materials]]

@@ -155,3 +155,11 @@ DMT is considered physically safe at common doses, with no documented cases of f
 - **Cardiovascular effects:** Transient increases in heart rate and blood pressure
 - **Serotonin syndrome risk:** Theoretical when combined with serotonergic medications (SSRIs, MAOIs, tramadol), though documented cases are extremely rare
 - **Psychiatric contraindications:** Persons with personal or family history of psychosis or schizophrenia are generally advised against use
+
+## See Also
+
+- [[dmt-black-hole-effect-and-shamanic-practice]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[4-aco-dmt]]
+- [[schultes-mimosa-jurema-dmt-brazil]]
+- [[schultes-psychotria-chacruna-dmt-admixture]]

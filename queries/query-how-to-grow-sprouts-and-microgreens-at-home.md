@@ -115,7 +115,9 @@ perspectives on seed activation that complement microgreen and sprouting practic
 - Both sprouts and microgreens offer significantly higher nutrient density than
   mature vegetables, making them an efficient way to boost nutrition
 
-## Related Questions
+## Related
+
+- [[comparison-microgreens-vs-sprouts]] Questions
 - [[query-how-to-start-seed-saving]]
 - [[query-how-to-grow-food-in-small-spaces-vertically]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]

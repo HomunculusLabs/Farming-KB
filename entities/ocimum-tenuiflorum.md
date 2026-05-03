@@ -148,6 +148,11 @@ Tulsi is generally recognized as safe (GRAS) with a favorable safety profile:
 
 ## See Also
 
+- [[adaptogenic-herbs-guide]]
+- [[adaptogenic-herbs-overview]]
+- [[comparison-ashwagandha-vs-tulsi]]
+- [[holy-basil-tulsi-guide]]
+
 - [[ocimum-sanctum]]
 
 - [[Withania-somnifera]] — Ashwagandha, another primary Ayurvedic adaptogen
