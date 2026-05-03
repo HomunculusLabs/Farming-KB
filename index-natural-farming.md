@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**811 pages**
+**812 pages**
 
 ## A
 
@@ -428,6 +428,7 @@
 - [[fukuoka-three-ways-farming-compared]]
 - [[fukuoka-touching-the-great-spirit]]
 - [[fukuoka-traditional-paddy-construction]]
+- [[fukuoka-trees-grow-themselves-and-transplant-damage]]
 - [[fukuoka-vegetable-disease-insect-resistance]]
 - [[fukuoka-vegetable-growing-detailed]]
 - [[fukuoka-vegetable-growing-natural-method]]

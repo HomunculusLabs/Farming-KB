@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**375 pages**
+**376 pages**
 
 ## A
 
@@ -380,6 +380,7 @@
 - [[soil-testing-and-analysis]]
 - [[soil-testing-and-interpretation]]
 - [[soil-testing-methods-interpretation]]
+- [[solomon-capillarity-and-soil-moisture-movement]]
 - [[solomon-carbon-nitrogen-ratios]]
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-compost-organic-matter]]

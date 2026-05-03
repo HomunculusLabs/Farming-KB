@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1166 pages**
+**1172 pages**
 
 ## #
 
@@ -218,6 +218,7 @@
 - [[armillaria-bulbosa]]
 - [[armillaria-mellea]]
 - [[armillaria-ostoyae]]
+- [[artemisia-absinthium]]
 - [[arthrobotrys-musiformis]]
 - [[arthrobotrys-oligospora]]
 - [[arthur-heffter]]
@@ -520,6 +521,7 @@
 - [[glomus-intraradices]]
 - [[glomus-mosseae]]
 - [[glomus-versiforme]]
+- [[golden-teacher-cubensis]]
 - [[gonatobotryum-fuscum]]
 - [[gordon-wasson]]
 - [[gorilla-glue]]
@@ -677,6 +679,7 @@
 - [[linalool]]
 - [[lloyd-library]]
 - [[lobaria-pulmonaria]]
+- [[lobelia-inflata]]
 - [[lobelia-tupa]]
 - [[lobeline]]
 - [[lophophine-entity]]
@@ -756,6 +759,7 @@
 - [[melatonin-entity-tihkal]]
 - [[mem-entity]]
 - [[mem-entity-pihkal]]
+- [[mentha-pulegium]]
 - [[mepea-entity]]
 - [[mepea-entity-pihkal]]
 - [[meruliporia-incrassata]]
@@ -786,6 +790,7 @@
 - [[mmda-entity-pihkal]]
 - [[mme-entity-pihkal]]
 - [[monacrosporium-haptotylum]]
+- [[monotropa-uniflora]]
 - [[morchella-angusticeps]]
 - [[morchella-elata]]
 - [[morchella-esculenta]]
@@ -1110,6 +1115,7 @@
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
 - [[sophora-secundiflora-entity]]
+- [[sour-diesel]]
 - [[sphaerobolus-stellatus]]
 - [[sphaerotheca-fuliginea]]
 - [[sporidesmium-sclerotivorum]]

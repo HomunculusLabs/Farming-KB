@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**953 pages**
+**954 pages**
 
 ## #
 
@@ -576,6 +576,7 @@
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[microdosing-guide]]
 - [[microdosing-theory-and-practice]]
+- [[mind-body-medicine-emotional-molecules]]
 - [[mind-body-problem-and-psychedelics]]
 - [[mithraism-entheogenic-origins]]
 - [[mmda-2-compound-profile]]

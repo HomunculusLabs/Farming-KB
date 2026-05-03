@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**854 pages**
+**858 pages**
 
 ## A
 
@@ -156,6 +156,7 @@
 - [[comparison-dynamic-accumulators-vs-cover-crops]]
 - [[comparison-earthbag-construction-vs-cob-construction]]
 - [[comparison-earthbag-vs-adobe-construction]]
+- [[comparison-earthship-vs-cob-construction]]
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
@@ -246,6 +247,7 @@
 - [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
 - [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
 - [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]
+- [[comparison-mycelium-materials-vs-bioplastics-pla-pha]]
 - [[comparison-mycoremediation-basics-vs-bioremediation-strategies]]
 - [[comparison-mycorrhizal-vs-endophytic-fungi]]
 - [[comparison-mycorrhizal-vs-saprotrophic-fungi]]
@@ -736,6 +738,7 @@
 - [[query-what-are-endophytic-fungi-and-why-do-they-matter]]
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-green-manures-and-how-to-use-them]]
+- [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
 - [[query-what-are-the-12-permaculture-principles]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
@@ -791,6 +794,7 @@
 - [[query-what-is-agroforestry-and-how-can-i-start]]
 - [[query-what-is-allelopathy-and-how-can-i-use-it-in-my-garden]]
 - [[query-what-is-alley-cropping-and-when-should-i-use-it]]
+- [[query-what-is-an-earthship-and-how-does-it-work]]
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
 - [[query-what-is-biochar-and-should-i-use-it]]
 - [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]

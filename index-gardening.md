@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**824 pages**
+**825 pages**
 
 ## A
 
@@ -81,6 +81,7 @@
 - [[coleman-four-season-farm]]
 - [[coleman-french-intensive-bed-method]]
 - [[coleman-greenhouse-tomato-vertical-growing]]
+- [[coleman-hidden-farm-and-double-cropping-strategy]]
 - [[coleman-high-tunnel-cold-frame-design]]
 - [[coleman-insects-diseases]]
 - [[coleman-leek-deep-planting-technique]]
