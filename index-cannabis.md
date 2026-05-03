@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**913 pages**
+**914 pages**
 
 ## A
 
@@ -925,6 +925,7 @@
 - [[ph-management-cannabis]]
 - [[phase-ii-composting]]
 - [[phase-ii-conjugation-reactions-drug-metabolism]]
+- [[phase-ii-metabolism]]
 - [[photoperiod-cannabis]]
 - [[plants-of-the-gods-cannabis-ancient-cultures]]
 - [[powdery-mildew-cannabis]]
@@ -973,5 +974,3 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
-- [[reactive-metabolites-and-bioactivation-toxicology]]
-- [[first-pass-metabolism-and-oral-bioavailability]]

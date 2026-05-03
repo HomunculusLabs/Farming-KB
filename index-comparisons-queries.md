@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**801 pages**
+**804 pages**
 
 ## A
 
@@ -496,6 +496,7 @@
 - [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
 - [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]
+- [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
 - [[query-how-do-i-preserve-and-store-mushrooms-after-harvest]]
 - [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
 - [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
@@ -507,6 +508,7 @@
 - [[query-how-do-i-start-a-hugelkultur-bed]]
 - [[query-how-do-i-start-a-medicinal-herb-garden]]
 - [[query-how-do-i-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-small-permaculture-nursery]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
@@ -737,6 +739,7 @@
 - [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]]
 - [[query-what-causes-nutrient-lockout-in-cannabis]]
 - [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]
+- [[query-what-earthworks-should-i-use-for-water-harvesting]]
 - [[query-what-is-a-banana-circle-in-permaculture]]
 - [[query-what-is-a-cannabis-mother-plant-and-how-do-i-maintain-one]]
 - [[query-what-is-a-chinampa-and-how-does-it-work]]
