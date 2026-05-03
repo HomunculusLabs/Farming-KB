@@ -10,6 +10,8 @@ sources: []
 
 Psychedelic-assisted therapy encompasses a diverse range of approaches, from rigorously controlled clinical protocols to indigenous ceremonial traditions that predate modern medicine by millennia. Each model operates from different assumptions about the nature of healing, the role of the guide or therapist, the appropriate dose, and the importance of preparation and integration. This comparison covers five major models. For historical context, see [[lsd-therapeutic-history]]. Set and setting principles are covered in [[psychedelic-therapy-set-and-setting]] and integration practices in [[philosophical-implications-of-psychedelics]].
 
+
+
 ## Model Comparison Table
 
 | Model | Typical Substance | Dose Level | Number of Sessions | Therapist/Guide Role | Integration | Setting | Legal Status (2026) |
@@ -19,6 +21,8 @@ Psychedelic-assisted therapy encompasses a diverse range of approaches, from rig
 | **MAPS MDMA Protocol** | MDMA | Full therapeutic (80-120 mg + 40-60 mg booster) | 3 sessions over 12 weeks | Co-therapist pair; supportive presence | Extensive preparation (3 sessions) + integration (3+ sessions) | Clinical; comfortable room, music, eyeshades | FDA breakthrough therapy; approved in some countries |
 | **Johns Hopkins Psilocybin Protocol** | Psilocybin | High (20-30 mg/70 kg) | 1-2 sessions | Guide pair; supportive, non-directive | Preparation + integration sessions | Clinical; living-room-like, music, eyeshades | Research only; expanded access |
 | **Indigenous Ceremony** | Ayahuasca, psilocybin, peyote, iboga, San Pedro | Moderate-High (ceremonial dose) | Ongoing (ceremony cycle) | Curandero/shaman/facilitator; active guide | Community-based; ceremonial context | Traditional ceremonial space (maloca, teepee, temple) | Varies; legal in some countries, decriminalized in others |
+
+
 
 ## Detailed Model Breakdown
 
@@ -57,6 +61,8 @@ Indigenous psychedelic traditions span thousands of years and multiple continent
 **Key features:** Dose determined by tradition (not individualized pharmacology), communal setting, active guide, cultural/spiritual framework, plant preparations (not isolated compounds), dietary and behavioral preparation (dieta), ongoing ceremony participation.
 **Evidence base:** Growing ethnographic and clinical interest; ayahuasca shows promise for depression and addiction in observational studies.
 
+
+
 ## Preparation and Integration Comparison
 
 | Model | Preparation | During Session | Integration |
@@ -67,9 +73,13 @@ Indigenous psychedelic traditions span thousands of years and multiple continent
 | Johns Hopkins | 2+ preparatory meetings; medical/psychological screening | Non-directive guides; music and eyeshades | Integration sessions; mystical experience processing |
 | Indigenous Ceremony | Dietary restrictions (dieta), behavioral protocols, intention | Active guidance; music, ritual, prayer | Community support; ceremonial context provides ongoing framework |
 
+
+
 ## Verdict
 
 No single model is universally superior. The MAPS MDMA protocol has the strongest empirical evidence for PTSD and is closest to mainstream medical acceptance. The Johns Hopkins psilocybin protocol has demonstrated broad efficacy across conditions. Indigenous ceremonies offer the deepest cultural and spiritual context but lack standardized protocols and carry additional risks from plant preparations (MAOI interactions with ayahuasca, cardiac risks with iboga). Psycholytic therapy's strength is in its depth — many sessions allow for sustained therapeutic work but require significant time commitment. For individuals seeking structured, evidence-based treatment, the MAPS and Hopkins models are the most accessible as research expands. For those drawn to spiritual and communal contexts, indigenous ceremonies provide a fundamentally different healing paradigm that modern clinical models are only beginning to understand. See [[philosophical-implications-of-psychedelics]] for practical integration guidance applicable across all models.
+
+
 
 ## Related
 

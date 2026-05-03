@@ -114,7 +114,9 @@ Hemoglobin and myoglobin use similar heme chemistry for different biological pur
 Hemoglobin is a cooperative, regulated tetramer optimized for transport.
 Myoglobin is a high-affinity monomer optimized for storage.
 A protein's usefulness depends not only on whether it binds oxygen, but on when and where it releases it.
-## Related Topics
-- [[hemoglobin-and-oxygen-transport]]
+## Related
+
+- [[query-how-does-hemoglobin-know-when-to-release-oxygen]] Topics
+- [[hemoglobin-oxygen-transport-biochemistry]]
 - [[hemoglobin-oxygen-transport-biochemistry]]
 - [[allosteric-regulation]]

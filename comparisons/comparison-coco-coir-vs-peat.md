@@ -38,7 +38,7 @@ requires thorough rinsing before use to remove residual sodium and
 potassium salts absorbed during coastal processing. Once properly prepared,
 coir provides a clean, disease-free growing medium with consistent
 physical properties throughout multiple growing seasons. Its lignin and
-cellulose content resist decomposition, giving coir a usable lifespan of
+cellulose content resist [[decomposition]], giving coir a usable lifespan of
 3 to 4 years in container applications.
 
 Coir's sustainability credentials are strong. Coconut palms produce fruit
@@ -108,7 +108,7 @@ required by acidic peat-based mixes.
 
 Choose coco coir when working with crops sensitive to acidic conditions
 or when your water source is already alkaline. The balanced pH minimizes
-nutrient lockout issues and simplifies fertility management. Coir is
+[[nutrient-lockout]] issues and simplifies fertility management. Coir is
 also preferred for propagation and seed starting, where its consistent
 physical structure supports uniform germination and root development.
 
@@ -136,8 +136,8 @@ from areas dependent on imported peat from threatened ecosystems.
 Blending coco coir with peat-free alternatives like composted bark, wood
 fiber, or perlite creates growing media that combine the strengths of
 multiple materials. A mix of 50 percent coir, 30 percent composted bark,
-and 20 percent perlite provides excellent structure, water management,
-and biological activity while remaining fully peat-free. Adding biochar
+and 20 percent perlite provides excellent structure, [[water-management]],
+and biological activity while remaining fully peat-free. Adding [[biochar]]
 to coir-based blends further improves longevity and nutrient retention,
 creating a sustainable, high-performance alternative to peat-based
 formulations for virtually any growing application.

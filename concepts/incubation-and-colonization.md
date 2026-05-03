@@ -12,7 +12,7 @@ sources:
 ## Overview
 
 After inoculation, the jars enter the incubation phase, during which the spores
-germinate and the mycelium colonizes the substrate. This stage requires
+germinate and the [[mycelium]] colonizes the substrate. This stage requires
 patience and attention to environmental conditions, particularly temperature
 and light. Understanding the colonization timeline and the visible signs of
 progress is essential for successful cultivation.

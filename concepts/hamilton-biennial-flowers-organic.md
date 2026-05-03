@@ -108,7 +108,7 @@ for overwintering under cover.
 - Spring-flowering biennials can be replaced with summer annuals for
   continuous color
 - Foxgloves add dramatic vertical interest and attract bees to the
-  comparison vermicomposting composting
+  comparison [[vermicomposting]] [[composting]]
 - Wallflowers provide richly scented spring color and pair well with
   tulips in the border
 - Keep the area under biennials weeded during winter to prevent pests

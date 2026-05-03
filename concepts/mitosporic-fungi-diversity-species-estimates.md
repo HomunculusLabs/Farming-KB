@@ -53,7 +53,7 @@ varies with:
   distinct fungal communities. The chemistry of the
   substrate, particularly lignin and cellulose content,
   influences which fungi can colonize.
-- **Stage of decomposition**: Early successional fungi
+- **Stage of [[decomposition]]**: Early successional fungi
   are replaced by later colonizers as the substrate
   chemistry changes.
 - **Moisture and temperature**: Environmental gradients
@@ -104,7 +104,7 @@ have been synonymized with their sexual counterparts.
 ### Cryptic Species
 Molecular studies have revealed that many morphologically
 defined mitosporic "species" actually comprise multiple
-cryptic species that are reproductively isolated but
+[[cryptic-species]] that are reproductively isolated but
 morphologically indistinguishable. This is particularly
 common in widespread species and in groups with simple
 morphology.

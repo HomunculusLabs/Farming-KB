@@ -26,9 +26,21 @@ sources:
 
 > **Note:** Sources unavailable — content from model knowledge. Review and add sources.
 
+
+
+
+
+
+
 ## Overview
 
 Robert Connell Clarke (1953–2017) was an American cannabis researcher, ethnobotanist, and author who made foundational contributions to the understanding of cannabis botany, genetics, breeding, and the history of hemp and hashish. He was widely regarded as one of the foremost cannabis botanists in the world.
+
+
+
+
+
+
 
 ## Key Contributions
 
@@ -39,15 +51,33 @@ Robert Connell Clarke (1953–2017) was an American cannabis researcher, ethnobo
 - **Cannabis evolution and ethnobotany:** With Mark Merlin, produced the most comprehensive academic treatment of cannabis's evolutionary history, dispersal routes, and historical use across cultures.
 - **Cannabis museum curation:** Curated the Hash Marihuana & Hemp Museum in Amsterdam, helping preserve and display the cultural history of cannabis.
 
+
+
+
+
+
+
 ## Major Works
 
 - **"Marijuana Botany: An Advanced Study: The Propagation and Breeding of Distinctive Cannabis"** (1981) — The foundational cannabis breeding manual.
 - **"Hashish!"** (1998) — Comprehensive guide to hashish history, production, and culture, with Laurence Cherniak.
 - **"Cannabis: Evolution and Ethnobotany"** (2013, with Mark D. Merlin) — Academic treatment of cannabis origins, dispersal, and cultural uses from prehistory to modern era. Published by University of California Press.
 
+
+
+
+
+
+
 ## Legacy
 
 Clarke's "Marijuana Botany" remains the most cited reference for cannabis breeding methodology. His taxonomic and ethnobotanical work provides the scientific foundation for understanding cannabis diversity. His research on traditional hashish production has influenced modern solventless extraction methods. The [[cannabis-genetics-and-breeding]], [[cannabis-vegetative-stage]], and [[cannabis-harvest-and-curing]] pages all draw on principles Clarke formalized.
+
+
+
+
+
+
 
 ## See Also
 

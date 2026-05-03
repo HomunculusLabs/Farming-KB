@@ -11,6 +11,8 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 Fire is treated by Mollison as a predictable, periodic event in many landscapes that designers must plan for rather than ignore. Wildfire occurs on regular schedules: approximately 30 years in wet sclerophyll forest, 8-10 years in dry savannah, and annually in unbrowsed grassland. The period from 3-5 years after clearing until forest establishment carries the highest fire risk.
 
+
+
 ## Factors That Increase Fire Intensity and Spread
 
 Once initiated, wildfire spreads with great speed. Grass fires spread after 10-11 a.m. (after dew dries); forest fires from midday to 3 p.m. Firestorm conditions develop aided by:
@@ -20,9 +22,13 @@ Once initiated, wildfire spreads with great speed. Grass fires spread after 10-1
 - **Slope effect**: For every 10 degrees increase in upslope angle, fire speed and intensity doubles. At 0 degrees slope: 16 km/h; at 10 degrees: 32 km/h; at 20 degrees: 64 km/h; at 30 degrees: 128 km/h.
 - **Backing winds** (shifting late in the day) may blow a fire flank into a broad front or back on itself.
 
+
+
 ## Fire Causes
 
 The vast majority of fires (roughly 96%) are human-lit -- by the mischievous, pyromaniacs, or even well-meaning people. Lightning and accidents account for only about 4%.
+
+
 
 ## Design Strategies for Living with Fire
 
@@ -32,6 +38,8 @@ Mollison argues we must first learn to live with fire, then over years design to
 2. **Designing dams** specifically to flood-flow over hillsides subject to fire
 3. **Mechanical or grazing removal of fuels** just before fire-danger periods -- dead brush, long dry grasses, dead lower branches
 
+
+
 ## Firebreaks
 
 A firebreak decreases fire intensity. Types include:
@@ -39,6 +47,8 @@ A firebreak decreases fire intensity. Types include:
 - **Vertical firebreaks**: Removal of lower tree branches, dead material, and planting sappy groundcover under forest to prevent fire "crowning" in trees.
 
 No firebreak is effective in true firestorms, where fire tornadoes with ascent velocities up to 250 km/h can develop.
+
+
 
 ## Fire-Resistant House and Building Design
 
@@ -50,6 +60,8 @@ In fireprone areas, buildings should have:
 - **No inflammable materials** against house walls -- no wood piles, shrubs, doormats, or fuel stores near buildings
 - **Petrol and explosives** stored in a separate shed, tightly lidded
 
+
+
 ## Siting Houses in Fireprone Areas
 
 - Houses are at greatest danger from **upslope fire**; few survive on sharp hilltops or in hill saddles with diverging ridgelines creating a wind funnel
@@ -59,9 +71,13 @@ In fireprone areas, buildings should have:
 - **Reduce fuel** within 30 m (100 feet) of buildings -- plant fire-resistant species (Coprosma, deciduous fruits, figs, willows, poplars, lilies, comfrey, iceplants) rather than pines, eucalypts, or olives
 - **Remove all lower limbs**, loose bark, twigs, fallen leaves, dry brush, and dead stumps annually within the 30 m zone
 
+
+
 ## Forest/Fuel Wood Selection
 
 Downslope forests should be slow-burning deciduous trees with low leaf oils, sappy or thick-leaved species, with a clean floor or succulent groundcovers. Avoid planting inflammable trees (eucalypts, pines) or grasses (pampas grass) along house driveways, as these create a blowtorch effect.
+
+
 
 ## Related Concepts
 

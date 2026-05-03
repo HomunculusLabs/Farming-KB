@@ -84,7 +84,7 @@ Consider it when a time-frequency display with variable resolution is useful.
 Do not choose it automatically if a simpler filter, Fourier method, or model-based estimator directly answers the question.
 ## What are common pitfalls?
 Choosing the wrong wavelet can hide or distort meaningful structure.
-Choosing too many decomposition levels can make interpretation harder.
+Choosing too many [[decomposition]] levels can make interpretation harder.
 Thresholding too aggressively can erase real but subtle features.
 Boundary handling can create artifacts near the start or end of a finite signal.
 Scale is related to frequency but is not exactly the same thing.

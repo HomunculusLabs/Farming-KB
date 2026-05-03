@@ -42,7 +42,7 @@ The discrete wavelet transform is commonly implemented with filter banks.
 A low-pass filter extracts approximations.
 A high-pass filter extracts details.
 Downsampling reduces the number of samples after filtering.
-Repeated filtering of the approximation coefficients creates a multilevel decomposition.
+Repeated filtering of the approximation coefficients creates a multilevel [[decomposition]].
 This structure is called a wavelet pyramid or multiresolution hierarchy.
 The inverse transform reconstructs the original signal from wavelet coefficients.
 Perfect reconstruction requires compatible analysis and synthesis filters.
@@ -124,7 +124,7 @@ Wavelets are closely related to fourier analysis, short time fourier transform, 
 They depend on ideas from linear algebra, functional analysis, and orthogonal basis.
 Important subtopics include haar wavelet, daubechies wavelets, and morlet wavelet.
 Applied topics include image compression, signal denoising, and time frequency analysis.
-Computational links include [[wavelet-transform]], multiresolution analysis, and sparse representation.
+Computational links include wavelet transform, multiresolution analysis, and sparse representation.
 Wavelet thinking also connects to convolutional neural networks and scale space theory.
 
 ## Related

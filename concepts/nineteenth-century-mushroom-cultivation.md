@@ -11,11 +11,15 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 Julius Auboineau Palmer's practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
 
+
+
 ## Historical Context
 
 Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom (Agaricus campestris / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
 
 Cultivated mushrooms commanded $1-2 per pound (astronomical for the era), reflecting the difficulty and uncertainty of production.
+
+
 
 ## Spawn and Propagation
 
@@ -27,6 +31,8 @@ The core of Palmer's cultivation system:
 
 3. **Spawn handling**: Small blocks of earth permeated with white mycelium, inserted into prepared beds.
 
+
+
 ## Bed Preparation
 
 Palmer's substrate recipe:
@@ -35,6 +41,8 @@ Palmer's substrate recipe:
 - Insert spawn blocks in sections (staggered like "Pullman cars" so one end bears while the other prepares)
 - Three weeks for mycelium to spread through the bed
 - Ten more days until mushrooms appear
+
+
 
 ## Moisture Management — The Critical Challenge
 
@@ -46,6 +54,8 @@ Palmer called moisture "the most difficult problem" in cultivation:
 - **Steam method**: in hot-houses, vent steam pipes under benches; steam condenses on soil, keeping it moist and warm
 - "With a greenhouse so constructed, mushrooms can be grown with all the certainty of other crops"
 
+
+
 ## Cultivation Challenges
 
 Palmer identified three primary causes of failure:
@@ -54,9 +64,13 @@ Palmer identified three primary causes of failure:
 2. **All-at-once spawning**: Entire bed spawned simultaneously instead of staggered sections
 3. **Atmospheric neglect**: Fungi are "very susceptible to atmospheric change, and cannot grow without attention to this condition"
 
+
+
 ## The Animal Connection
 
 Palmer noted the horse-mushroom's unique relationship with horses: "It follows the animal whose name it bears. It can be grown in and by his manure, and in no other way." He theorized that A. arvensis was propagated from spores of A. campestris after passing through the horse's digestive system — a plausible explanation for the tight association.
+
+
 
 ## Seasonal Growth
 
@@ -65,6 +79,8 @@ Mushrooms were not thought to spring up overnight despite popular belief. Palmer
 - Heavy dew or evening showers straighten the stem and expand the cap overnight
 - "So, popular error has made mushroom growth proverbial for a superficiality which by the fungi, at least, is undeserved"
 - Varieties succeed each other in rotation, like spring bloodroot → summer roses → fall gentians
+
+
 
 ## Cooking and Preservation
 

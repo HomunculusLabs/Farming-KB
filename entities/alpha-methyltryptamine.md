@@ -11,6 +11,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 **α-Methyltryptamine** (α-MT, **AMT**) is a synthetic tryptamine with a distinctive triple-action pharmacological profile combining psychedelic, stimulant, and entactogenic (empathogen) effects. Developed in the 1960s as an antidepressant candidate, it never reached pharmaceutical market but has persisted as a research chemical and recreational substance.
 
+
+
+
 ## Chemistry
 
 - **IUPAC**: α-Methyl-1H-indole-3-ethanamine
@@ -21,12 +24,18 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Exists as two enantiomers; pharmacology differs between (R)- and (S)-forms, though racemic mixtures are most commonly encountered
 - Freebase is a viscous oil; fumarate salt forms white crystals
 
+
+
+
 ## Pharmacology
 
 - Acts as a **non-selective serotonin receptor agonist** (5-HT₂A, 5-HT₂B, 5-HT₂C), **serotonin-norepinephrine-dopamine releasing agent** (SNRA), and weak **monoamine oxidase inhibitor** (MAOI)
 - This triple mechanism accounts for its unique effect profile combining elements of LSD, MDMA, and amphetamine
 - The alpha-methyl group provides significant resistance to MAO degradation, giving oral bioavailability and a long duration of action (10–14 hours)
 - **5-HT₂B agonism** is a noted concern — chronic activation of this receptor is associated with valvular heart disease (similar to fenfluramine)
+
+
+
 
 ## Dosing
 
@@ -37,6 +46,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Duration: 10–14 hours (oral); onset 30–90 minutes
 - The extremely long duration and stimulant component make timing and dose management critical
 
+
+
+
 ## Effects
 
 - **Psychedelic**: Visual distortions, color enhancement, pattern recognition, mild to moderate hallucinations at higher doses
@@ -44,6 +56,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **Stimulant**: Increased energy, elevated heart rate, insomnia, jaw tension, restlessness — amphetamine-like component dominates at higher doses
 - **Physical**: Significant body load including nausea, vasoconstriction, mydriasis, hyperthermia risk
 - **Aftereffects**: Prolonged stimulation, difficulty sleeping (up to 24+ hours post-dose), next-day fatigue, possible depressive comedown
+
+
+
 
 ## History
 
@@ -53,6 +68,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Documented in Shulgin's TIHKAL (#34 in the main sequence)
 - Classified as a Schedule I substance in the US and many other countries
 
+
+
+
 ## Safety Concerns
 
 - **Cardiotoxicity**: 5-HT₂B agonism raises theoretical concerns for valvular heart disease with chronic use
@@ -60,6 +78,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **Prolonged duration**: Users frequently underestimate the length of effect, leading to difficult extended experiences
 - **Vasoconstriction**: Can produce uncomfortable peripheral vasoconstriction and muscle tension
 - **Drug interactions**: Contraindicated with SSRIs, MAOIs, and other serotonergic agents; serotonin syndrome risk is significant
+
+
+
 
 ## See Also
 

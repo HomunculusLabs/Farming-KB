@@ -11,9 +11,13 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with mycorrhizal fungi, deploying saprophytic fungi for decomposition and soil creation, and using fungal networks to establish nutrient cycling in damaged landscapes.
 
+
+
 ## The Mycelial Network
 
 In old-growth forests, mycelial networks form a "mycelial mat" -- a vast underground web connecting trees, plants, and soil organisms. This mycorrhizal network facilitates nutrient exchange between trees, distributes water, and creates soil structure. In fact, the mycelium of a single fungal organism can extend for hundreds or even thousands of acres. When old-growth forests are cut, this network is destroyed, and recovery is extremely slow without intervention.
+
+
 
 ## Mycorrhizal Inoculation
 
@@ -29,6 +33,8 @@ Benefits of mycorrhizal inoculation:
 - Protection against root pathogens
 - Improved soil structure through glomalin production
 
+
+
 ## Road Reconstruction with Fungi
 
 A demonstrated mycoforestry technique for reclaiming damaged roads and disturbed sites:
@@ -42,27 +48,39 @@ A demonstrated mycoforestry technique for reclaiming damaged roads and disturbed
 
 Over years, the wood chips decompose into rich soil (approximately 1-2 inches of soil per 12 inches of wood chips over 4 years). A mantle of mycelium forms where wood chips and subsoil meet, binding loose gravel and providing structural resilience to the road's subsurface.
 
+
+
 ## Wood Chips as Ecological Currency
 
 Wood chips serve as a primary substrate for mycoforestry practices. They provide the carbon source that fuels fungal growth, which in turn creates soil, retains moisture, and supports the re-establishment of native plant communities. As Stamets writes: "Wood chips are the ecological currency that we should bank for preventing erosion."
+
+
 
 ## Future Approaches
 
 Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrhizal species working in concert. No parasitic species are contemplated. The combination of decomposition, soil building, and symbiotic nutrient exchange creates a comprehensive approach to forest restoration.
 
+
+
 ## Practical Assessment
 
 Mycoforestry Forest Restoration is best evaluated by its role in whole-system design, not as an isolated technique. Key questions include where it fits in a site plan, which inputs it requires, what outputs it produces, and how its risks change across climates, seasons, and management styles.
 
+
+
 ## Implementation Notes
 
 Start with small trials before relying on mycoforestry forest restoration at production scale. Record timing, labor, water use, yields, failures, and maintenance needs so the practice can be adapted to local soil, weather, and household constraints.
+
+
 
 ## Related Topics
 - [[mycoforestry-forest-management-with-fungi]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
 - [[urban-permaculture-food-forest-succession]]
 - [[urban-broadscale-restoration-watershed-repair]]
+
+
 
 ## See Also
 

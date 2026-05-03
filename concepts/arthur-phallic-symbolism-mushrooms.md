@@ -33,7 +33,7 @@ anthropomorphized into the two elementary archetypal creators. Enki and his
 sister Ninhursag were the creators of the Adama. The substance fed to the
 faithful was known as "Star-Fire," produced from the lunar essence, or blood
 (from the womb), of the goddess Ninhursag. It is also called "the gold of the
-gods" and "the red gold" -- all descriptors that map to the Amanita muscaria
+gods" and "the red gold" -- all descriptors that map to the [[amanita-muscaria]]
 and its effects.
 
 ## The Djed Pillar: Osiris and the Phallus

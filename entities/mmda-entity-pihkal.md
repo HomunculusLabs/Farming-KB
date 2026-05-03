@@ -51,7 +51,7 @@ PIHKAL entry #132. 3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 > drug to the drugs of this class, to become familiar with the drug
 > state in as gentle a fashion as possible. This substance seems to
 > have a much gentler action than others of this class; perhaps more
-> like cannabis or psilocybin. There is very little paranoia. I note
+> like cannabis or [[psilocybin]]. There is very little paranoia. I note
 > hallucinations of two types: those which are strictly retinal and more
 > minute and small and influenced by light and focused on the light
 > ahead on the retina or lids; and the other, those deep in the visual
@@ -63,7 +63,7 @@ PIHKAL entry #132. 3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 > rubber tubing. Nothing seems to happen for about 45 minutes when
 > rather suddenly an anvil seems to lower itself over your head; you
 > feel disoriented, and tend to withdraw from social contact a little.
-> The drug gives less feeling of being ill than mescaline. The effect
+> The drug gives less feeling of being ill than [[mescaline]]. The effect
 > definitely reaches a climax with a pleasant afterglow following.
 > Apparently there are no profound motor coordination problems. MMDA
 > yields that 'Sunday afternoon' feeling of desiring to lie down and

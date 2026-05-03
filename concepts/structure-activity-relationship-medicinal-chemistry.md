@@ -130,6 +130,8 @@ provided 2-3 fold potency gains.
 
 ## See Also
 
+- [[bioisosteres]]
+
 - [[medicinal-mushroom-properties]]
 
 - [[tihkal-psilocin-psilocybin-chemistry]]

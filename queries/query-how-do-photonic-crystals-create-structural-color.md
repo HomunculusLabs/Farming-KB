@@ -89,3 +89,10 @@ Photonic crystals create structural color by matching nanoscale periodicity to t
 Their geometry selects wavelengths through interference, diffraction, and band-structure effects.
 The result is color made by form rather than by pigment alone.
 This is why opal, butterfly wings, beetle shells, and engineered nanofilms can produce vivid colors from transparent or nearly colorless materials.
+
+## See Also
+
+- [[photonic-crystals]]
+- [[photonic-crystals-vs-metamaterials]]
+- [[eli-yablonovitch]]
+- [[sajeev-john]]

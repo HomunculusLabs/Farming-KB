@@ -16,6 +16,9 @@ sources:
 
 Peter Oei is a Dutch mycologist and mushroom cultivation expert, author of *Manual on Mushroom Cultivation: Techniques, Species and Opportunities for Commercial Application* (1991, Tool Publications, Amsterdam) and *Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries* (1996). His work has been instrumental in promoting mushroom cultivation in tropical and subtropical regions.
 
+
+
+
 ## Key Contributions
 
 - Authored comprehensive mushroom cultivation manuals covering techniques, species selection, substrate preparation, and spawn production
@@ -24,6 +27,9 @@ Peter Oei is a Dutch mycologist and mushroom cultivation expert, author of *Manu
 - Focused on making [[psilocybin-cultivation]] accessible in developing countries using appropriate technology and low-cost methods
 - His substrate formulas and lime treatment protocols are cited in academic papers on spawn grain and culture medium interactions
 - Provided detailed guidance on wood type selection for different mushroom species, with emphasis on hardwoods over softwoods
+
+
+
 
 ## Substrate Science and Wood Selection
 
@@ -45,6 +51,9 @@ Oei documented extensive lists of agricultural waste suitable for cultivation, i
 
 Oei described the hot water pasteurization method for cereal straws: submerge chopped straw (1–4 inch lengths) in hot water (160°F/71°C) for 1–2 hours, then drain, cool, and inoculate. This simple approach, using a metal barrel with propane burner beneath, makes [[mushroom-pasteurization]] accessible to home cultivators in resource-limited settings.
 
+
+
+
 ## Case Studies from Developing Countries
 
 Oei's manuals document successful cultivation projects across Asia:
@@ -53,13 +62,22 @@ Oei's manuals document successful cultivation projects across Asia:
 - **Philippines**: Straw mushroom (*Volvariella volvacea*) bed production using rice straw or dried banana leaves, with fruiting bodies appearing within 2 weeks.
 - **Thailand**: Oyster mushroom cultivation on sawdust and agricultural wastes including palm fibers, coconut wastes, and rice straw.
 
+
+
+
 ## Legacy in Tropical Mycology
 
 Oei's work on the synthetic-log cultivation methodology is referenced in the maitake (*Grifola frondosa*) cultivation literature, where his 1996 manual is cited as a foundational source for supplemented sawdust-bran substrate preparation. His practical guidance on spawn production using simple clean benches and locally available materials has enabled mushroom cultivation programs throughout Southeast Asia, South Asia, and sub-Saharan Africa.
 
+
+
+
 ## Significance
 
 Oei's work has been widely referenced in both academic and practical [[mushroom-species-guide]] cultivation literature. His emphasis on using locally available agricultural wastes as substrates aligns with [[permaculture-design]] principles, making mushroom cultivation accessible in resource-limited settings. His manuals bridge the gap between Western [[history-of-mycology-timeline]] and practical application in tropical agriculture.
+
+
+
 
 ## Related
 

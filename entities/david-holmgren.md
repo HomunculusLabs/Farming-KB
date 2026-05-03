@@ -24,9 +24,19 @@ sources:
 
 # David Holmgren
 
+
+
+
+
+
 ## Overview
 
 David Holmgren (born 1955) is an Australian ecologist, ecological design engineer, and writer who co-founded **permaculture** with [[bill-mollison]] in 1978. While Mollison was the global evangelist, Holmgren has been the deep thinker — articulating the design principles, refining the ethics, and developing permaculture into a comprehensive framework for energy descent and societal transition.
+
+
+
+
+
 
 ## Key Contributions
 
@@ -35,19 +45,39 @@ David Holmgren (born 1955) is an Australian ecologist, ecological design enginee
 - **Energy Descent Action Planning (EDAP):** Developed frameworks for communities to plan proactively for energy scarcity and climate change.
 - **RetroSuburbia:** Advocated for transforming existing suburban landscapes into productive, resilient food systems — making permaculture accessible to non-rural populations.
 
+
+
+
+
+
 ## Major Works
 
 - **"Permaculture One"** (1978, with Bill Mollison) — Foundational permaculture text.
 - **"Permaculture: Principles and Pathways Beyond Sustainability"** (2002) — His masterwork. Articulates the 12 principles and frames permaculture as a response to peak oil and energy descent.
 - **"RetroSuburbia"** (2018) — Practical guide for retrofitting suburban properties for food production, water capture, and resilience.
 
+
+
+
+
+
 ## Philosophy
 
 Holmgren sees permaculture not merely as a gardening technique but as a design system for "consciously designed landscapes which mimic the patterns and relationships found in nature." His work emphasizes that sustainable design must address energy flows, not just material flows.
 
+
+
+
+
+
 ## Legacy
 
 Holmgren's Melliodora property in Hepburn, Victoria serves as a living demonstration of permaculture design — a 1-hectare property producing food, timber, and water while building soil. His principles framework has become the standard curriculum in PDC courses worldwide.
+
+
+
+
+
 
 ## See Also
 

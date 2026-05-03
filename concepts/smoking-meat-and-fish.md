@@ -69,7 +69,7 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 - Treated or painted wood — Toxic chemicals
 - Plywood, particle board — Glues and adhesives are toxic when burned
 - Locust, osage orange — Extremely dense and harsh
-- Moldy wood — Can produce off-flavors and mycotoxins
+- Moldy wood — Can produce off-flavors and [[mycotoxins]]
 ### Wood Preparation
 - Use seasoned wood (dried 6-12 months) — moisture content around 20%
 - Soak wood chunks in water for 30-60 minutes before use for longer, cooler smoke

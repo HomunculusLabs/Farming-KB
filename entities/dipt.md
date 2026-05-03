@@ -11,6 +11,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 
 **N,N-Diisopropyltryptamine** is an unusual psychedelic tryptamine distinguished by its uniquely auditory-dominant effects — it is one of the very few psychedelics that produces profound auditory distortion with minimal visual or cognitive alteration. First synthesized by [[alexander-shulgin]] and documented in TIHKAL.
 
+
+
+
+
 ## Chemistry
 
 - **IUPAC**: N,N-Diisopropyl-1H-indole-3-ethanamine
@@ -19,6 +23,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **CAS**: 15588-68-8
 - The diisopropyl substitution on the terminal amine is the key structural feature — the bulky isopropyl groups prevent typical 5-HT₂A-mediated visual psychedelic effects while preserving auditory effects
 - Typically a clear to slightly yellow oil; forms crystalline salts (fumarate, hydrochloride)
+
+
+
+
 
 ## Pharmacology
 
@@ -29,6 +37,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Visual effects are minimal to absent even at higher doses; cognitive function remains relatively intact
 - Duration: 4–8 hours oral; shorter when insufflated (2–4 hours)
 
+
+
+
+
 ## Dosing
 
 - **Threshold**: 15–25 mg (oral)
@@ -37,6 +49,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - Shulgin's TIHKAL entry describes testing at multiple dose levels, noting the persistent and sometimes disorienting nature of the auditory shifts
 - Insufflation produces faster onset but more uncomfortable physical side effects
 
+
+
+
+
 ## Effects Profile
 
 - **Auditory**: Persistent pitch shift downward, harmonic distortion, metallic timbre, muffled quality, echo-like reverberation
@@ -44,17 +60,29 @@ sources: [/Users/t3rpz/wiki/raw/papers/shulgin-a-tihkal.md]
 - **Cognitive**: Relatively clear-headed compared to classical psychedelics; no significant mystical or ego-dissolution experiences
 - **Aftereffects**: Auditory distortions can persist for 12–24 hours after subjective effects subside; hearing may not return to baseline for up to a week in some reports
 
+
+
+
+
 ## Research Significance
 
 - One of the most pharmacologically interesting tryptamines due to its **selective auditory** mechanism — provides a unique tool for studying auditory processing in the CNS
 - The lack of visual effects despite tryptamine structure challenges simplified receptor-based models of psychedelic action
 - Limited clinical research; primarily of interest to psychopharmacology researchers studying sensory-specific hallucinogens
 
+
+
+
+
 ## Safety
 
 - No deaths attributed to DiPT alone in literature
 - Persistent auditory aftereffects are the primary concern — tinnitus-like symptoms reported in some users lasting days to weeks
 - Limited toxicological data; standard tryptamine precautions apply
+
+
+
+
 
 ## See Also
 

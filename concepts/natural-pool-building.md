@@ -65,7 +65,7 @@ Plants are the primary filtration mechanism. Select for:
 - Iris (Iris versicolor, I. pseudacorus)
 - Arrowhead (Sagittaria latifolia)
 - Cattail (Typha latifolia) — aggressive, use sparingly
-- Sweet flag (Acorus calamus)
+- Sweet flag ([[acorus-calamus]])
 - Water mint (Mentha aquatica)
 - Elephant ear (Colocasia)
 **Floating plants** (for additional nutrient uptake):

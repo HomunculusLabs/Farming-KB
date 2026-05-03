@@ -87,7 +87,7 @@ d'ambiance.
 And one finds the prefix "iso" used everywhere. Considerable care
 should be taken in the two different uses of the prefix "iso" in the
 
-nomenclature with the mescaline analogues. In general, the term "iso"
+nomenclature with the [[mescaline]] analogues. In general, the term "iso"
 means the other one of two possibilities. If you are allowed to paint
 a house only with green paint or red paint, and green is the color you
 actually use, then red could be called iso-green. With isoproscaline

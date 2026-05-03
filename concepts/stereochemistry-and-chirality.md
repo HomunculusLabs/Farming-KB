@@ -91,7 +91,7 @@ brucine, quinine); fractional crystallization gives max 50% yield.
 Chiral HPLC uses chiral stationary phases (polysaccharide derivatives,
 cyclodextrins, Pirkle phases) for analytical and preparative
 separation. SFC with supercritical CO2 is preferred for large-scale
-work. Enzymatic resolution uses lipases (CAL-B, pseudomonas cepacia
+work. Enzymatic resolution uses lipases (CAL-B, [[pseudomonas]] cepacia
 lipase) or esterases with high enantioselectivity. Kinetic resolution
 selectivity s = k_fast/k_slow; for ee > 99%, s must exceed 200.
 Dynamic kinetic resolution (DKR) combines resolution with in situ

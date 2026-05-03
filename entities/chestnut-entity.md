@@ -71,7 +71,7 @@ Fat 4.1 g, Potassium 875 mg, Phosphorus 162 mg
 
 ## Relevance
 Chestnut is one of the most important staple nut trees for temperate
-permaculture systems. Its high carbohydrate content (unlike most nuts
+[[permaculture]] systems. Its high carbohydrate content (unlike most nuts
 which are primarily fat-based) makes it a unique calorie crop that can
 replace grain staples. The coppicing tradition in Europe demonstrates
 sustainable timber management, and the tree's drought resistance suits

@@ -92,7 +92,7 @@ In elimination reactions, PLP helps remove groups from beta or gamma positions r
 Alanine aminotransferase uses PLP to connect alanine and pyruvate metabolism.
 Aspartate aminotransferase uses PLP to connect aspartate and oxaloacetate metabolism.
 Glutamate decarboxylase uses PLP to produce gamma-aminobutyric acid, or GABA.
-Aromatic L-amino acid decarboxylase uses PLP in dopamine and serotonin biosynthesis pathways.
+Aromatic L-amino acid decarboxylase uses PLP in dopamine and [[serotonin]] biosynthesis pathways.
 Histidine decarboxylase uses PLP to make histamine.
 Serine hydroxymethyltransferase uses PLP in one-carbon metabolism linked to folate chemistry.
 Cystathionine beta-synthase and cystathionine gamma-lyase use PLP in sulfur amino acid metabolism.

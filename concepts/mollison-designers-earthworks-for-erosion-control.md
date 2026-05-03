@@ -15,7 +15,7 @@ sources:
 ## Earthworks for Erosion Control
 
 Erosion is the single greatest threat to productive land worldwide. Bill
-Mollison's *Permaculture: A Designers' Manual* treats erosion not as an
+Mollison's *[[permaculture]]: A Designers' Manual* treats erosion not as an
 inevitable natural process but as a symptom of poor design, and one that can
 be halted and reversed through appropriate earthworks and vegetation
 management. Erosion control earthworks slow water flow, reduce runoff

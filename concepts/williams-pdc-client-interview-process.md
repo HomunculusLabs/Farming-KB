@@ -8,7 +8,7 @@ sources:
   [/Users/t3rpz/wiki/raw/papwilliam-ozier-williamsiams-pdc_-a-permaculture-design-cours.md]
 ---
 # Client Interview Process in [[permaculture-design]]
-A permaculture design will always be done for a client. Even if you are
+A [[permaculture]] design will always be done for a client. Even if you are
 doing a design for yourself, think of yourself as your own client and
 treat yourself accordingly. The client interview is one of the most
 critical steps in the design process, establishing the foundation upon

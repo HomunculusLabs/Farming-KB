@@ -10,9 +10,13 @@ sources:
 
 **Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 14) | **Updated:** 2026-04-18
 
+
+
 ## Overview
 
 Permaculture community economics aims for self-reliance within bioregions, maximizing local currency circulation, reducing external dependencies, and building cooperative enterprises. See also [[bioregional-organization]], [[bioregional-organization]], and [[bioregional-organization]].
+
+
 
 ## Village Financial Pool System
 
@@ -34,6 +38,8 @@ The schematic of capital flow within a village aims to:
 7. **Barter/Sales** — goods and services exchanged through work groups, markets, cooperatives
 8. **Consultancy** — expertise shared within and beyond the community
 
+
+
 ## Cooperative Enterprise Support Services
 
 Essential administrative services for a bioregional cooperative:
@@ -48,9 +54,13 @@ Essential administrative services for a bioregional cooperative:
 - **Skills Register:** File on key people for special advice
 - **Research:** Retrieval and basic research for region and projects
 
+
+
 ## Cooperatives and Leasing
 
 Any cooperative or village can run a **leasing service** for seldom-used capital equipment (photocopiers to trucks). The user-pays principle applies: charges cover running costs, repairs, and replacements for all users — businesses, administration, trusts, and individuals.
+
+
 
 ## Special Co-investment
 
@@ -61,9 +71,13 @@ Community members can co-invest in shared projects:
 
 These save money and provide wider resource access than individual funding. The investing group decides expense, location, and use payments.
 
+
+
 ## Aid and Development
 
 See [[aid-and-development-in-permaculture]] for the full framework of mutual aid enterprises between Western and Third World groups, based on written legal agreements with financial, ethical, and social accounting.
+
+
 
 ## Related Topics
 

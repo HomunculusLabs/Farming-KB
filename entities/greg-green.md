@@ -13,6 +13,13 @@ sources:
 
 Greg Green is the author of *The Cannabis Grow Bible* (4th edition, 2001), one of the most widely read comprehensive guides to cannabis cultivation. The book covers all aspects of growing from seed selection and breeding through vegetative growth, flowering, harvesting, and processing. See [[cannabis-lighting-guide]] and [[cannabis-growth-stage-checklist]] for practical techniques covered extensively in his work.
 
+
+
+
+
+
+
+
 ## The Cannabis Grow Bible
 
 The Grow Bible is structured as a 17-chapter reference covering the complete cannabis cultivation cycle:
@@ -35,6 +42,13 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 16. **Strain index** — reference of known varieties
 17. **Hash making** — trichome collection, screening methods (see [[cannabis-hashish-guide]])
 
+
+
+
+
+
+
+
 ## Key Contributions
 
 - Comprehensive reference that democratized cannabis cultivation knowledge during the prohibition era
@@ -44,9 +58,23 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 - Covered both basic techniques for beginners and advanced methods (SOG, ScrOG, hydroponics) for experienced growers
 - Practical approach to [[cannabis-plant-nutrition]] and [[cannabis-pest-management]]
 
+
+
+
+
+
+
+
 ## Significance
 
 Green's Grow Bible became a foundational reference for cannabis cultivators worldwide, particularly during the period when cultivation information was primarily shared through underground channels. It sits alongside [[robert-clarke]]'s *Marijuana Botany* as essential reading for serious cannabis cultivators.
+
+
+
+
+
+
+
 
 ## Related
 

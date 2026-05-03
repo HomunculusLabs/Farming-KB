@@ -135,7 +135,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Run fans and dehumidifiers to dry structures
 - Coveremergency-preparednessth tarps immediately to prevent further water intrusion
 ## Related Concepts
-- [[mushroom-foraging-safety-guide]] — General safety principles and emergency preparedness
+- [[mushroom-foraging-safety-guide]] — General safety principles and [[emergency-preparedness]]
 - [[flood-preparedness-guide]] — Flooding is often the most destructive component of hurricanes
 - [[homestead-first-aid-guide]] — Comprehensive first aid supplies
 - [[homestead-communication]] — Communication during extended power outages

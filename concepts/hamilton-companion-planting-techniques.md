@@ -62,7 +62,7 @@ planting marigolds, poppies (*Papaver* sp.), nasturtiums
 
 Many gardeners have reported similar results with eelworms, soil pests
 that attack potatoes in particular, where French marigolds are grown.
-Psilocybin isolation early has confirmed that this is indeed due to a
+[[psilocybin]] isolation early has confirmed that this is indeed due to a
 secretion from the roots of the marigolds. French marigolds are also
 said to help kill weeds, in particular couch grass (*Agropyron
 repens*).

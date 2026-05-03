@@ -14,6 +14,8 @@ updated: 2026-04-18
 
 Interstitial cystitis (IC), also called painful bladder syndrome, is a chronic condition characterized by bladder pressure, bladder pain, and sometimes pelvic pain. Research from The Cannabis Health Index documents the role of the [[cannabis-endocannabinoid-system]] in bladder function and the potential for cannabinoid therapy.
 
+
+
 ## Key Clinical Studies
 
 ### CB1 and CB2 in Bladder Function
@@ -30,6 +32,8 @@ CB2 receptor activation reduced hyperalgesia (increased pain sensitivity) in vis
 ### Bladder Overactivity
 Studies have shown that cannabinoids reduce bladder overactivity and hyperreflexia through both CB1 and CB2 mechanisms. This addresses the urgency and frequency components of IC.
 
+
+
 ## The Mind-Body Connection
 
 ### Abuse-Related PTSD and Pelvic Pain
@@ -42,6 +46,8 @@ Women with chronic pelvic pain (including IC) showed high rates of abuse-related
 
 ### Emotional Processing
 The bladder, like the gut, has its own local nervous system and endocannabinoid system. Emotional stress can directly affect bladder function through the brain-bladder axis.
+
+
 
 ## Treatment Approach
 
@@ -62,11 +68,15 @@ The bladder, like the gut, has its own local nervous system and endocannabinoid 
 - Dietary modifications (avoid bladder irritants: caffeine, alcohol, acidic foods)
 - Pelvic floor physical therapy
 
+
+
 ## Related Topics
 
 - Cannabis For Inflammation
 - [[cannabis-for-mental-health]]
 - [[deep-relaxation-and-mind-body-healing]]
+
+
 
 ## Source
 

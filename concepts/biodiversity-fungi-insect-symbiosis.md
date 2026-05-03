@@ -86,7 +86,7 @@ Fungi that kill insects represent a very diverse group. *Cordyceps*, with more t
 
 Major groups include:
 - **Zygomycota**: *Entomophthorales* — *Entomophaga*, *Entomophthora*, *Erynia*, *Furia*, *Massospora*, *Pandora*, *Zoophthora*, *Neozygites*, *Conidiobolus*
-- **Ascomycota**: *Hypocreales* — *Cordyceps*, *Torrubiella*, *Gibellula*, *Hirsutella*, and their anamorphs including *Beauveria*, *Metarhizium*, *Paecilomyces*, *Verticillium*
+- **Ascomycota**: *Hypocreales* — *Cordyceps*, *Torrubiella*, *Gibellula*, *Hirsutella*, and their anamorphs including *[[beauveria]]*, *[[metarhizium]]*, *Paecilomyces*, *Verticillium*
 
 ## Trichomycetes: Gut-Inhabiting Fungi
 

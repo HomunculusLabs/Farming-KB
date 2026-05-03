@@ -72,7 +72,7 @@ observation because many biological systems respond slowly or episodically.
 
 ## Integration
 The strongest applications usually connect several functions at once, such as
-mollison permaculture two, habitat creation, water moderation, yield, and education. If a
+mollison [[permaculture]] two, habitat creation, water moderation, yield, and education. If a
 practice only solves one problem while creating new maintenance burdens, it
 should be redesigned or kept experimental.
 

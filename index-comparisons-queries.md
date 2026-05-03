@@ -878,3 +878,7 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
+
+- [[hemoglobin-vs-myoglobin]]
+
+- [[query-how-does-hemoglobin-know-when-to-release-oxygen]]

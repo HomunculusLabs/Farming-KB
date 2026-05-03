@@ -130,6 +130,8 @@ sources: []
 
 ## See Also
 
+- [[induction-motor-operation]]
+
 - [[maxwell-equations-electromagnetism]]
 - [[finite-element-method]]
 - [[heat-transfer-mechanisms]]

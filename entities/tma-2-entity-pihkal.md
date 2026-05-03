@@ -41,7 +41,7 @@ PIHKAL entry #158. 2,4,5-TRIMETHOXYAMPHETAMINE.
 > (with 24 mg) I took the dosage in two halves, an hour apart.
 > Initially, I was a little nauseous, with light tremors and modest eye
 > dilation. But after another hour, there was the entire package of
-> mescaline, missing only the intense color enhancement. The world is
+> [[mescaline]], missing only the intense color enhancement. The world is
 > filled with distorted. moving things. Then my little fingers on both
 > hands got periodically numb. And there was an occasional
 > light-headedness that hinted at fainting. The two phenomena

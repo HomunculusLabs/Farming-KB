@@ -139,6 +139,8 @@ crack detection), radiography, eddy current, and acoustic emission.
 
 ## See Also
 
+- [[fatigue-crack-growth]]
+
 - [[stress-strain-and-elasticity]]
 
 - [[natural-building-materials-guide]]

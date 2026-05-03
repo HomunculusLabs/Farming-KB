@@ -111,7 +111,7 @@ The same organism is a common spoilage mold of bread and produce.
 It can contribute to soft rot of fruits and vegetables, especially where tissue has been wounded.
 It acts mainly as an early colonizer of accessible carbohydrates.
 In household settings it is usually a spoilage issue rather than a deliberately cultivated organism.
-Its ecological role is decomposition: converting dead or damaged mollison designers humus back into fungal biomass and simpler compounds.
+Its ecological role is [[decomposition]]: converting dead or damaged mollison designers humus back into fungal biomass and simpler compounds.
 
 ## Management notes
 
@@ -125,7 +125,7 @@ Separate food-spoilage cleanup from mushroom inoculation spaces.
 
 ## Distinguishing context
 
-Rhizopus stolonifer is not the same as Trichoderma green mold.
+Rhizopus stolonifer is not the same as [[trichoderma]] green mold.
 It belongs to a different fungal lineage and produces sporangia rather than green conidial masses.
 It is also distinct from Penicillium and Aspergillus, which form different spore-bearing structures.
 Cultivation guides may compress several Mucorales molds into one warning category.

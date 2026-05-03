@@ -15,17 +15,25 @@ sources:
 
 # Trifolium repens (White Clover)
 
+
+
 ## Overview
 
 White clover is a low-growing, perennial legume native to Europe and Central Asia, now distributed globally in temperate grasslands, pastures, and lawns. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], it serves as a primary living mulch and nitrogen-fixing ground cover, valued for its ability to improve soil fertility while suppressing unwanted vegetation.
+
+
 
 ## Botanical Description
 
 White clover is a creeping perennial that spreads via stolons (above-ground runners), forming dense mats 10–30 cm tall. Leaves are trifoliate (three leaflets) with characteristic white crescent-shaped markings. Flower heads are white to pinkish-white, round, and borne on stalks rising above the foliage. The root system is shallow but associates extensively with rhizobia bacteria.
 
+
+
 ## Nitrogen Fixation
 
 As a legume, white clover forms a symbiotic relationship with *Rhizobium leguminosarum* biovar *trifolii* bacteria, which colonize root nodules and fix atmospheric nitrogen (N₂) into ammonium (NH₄⁺). In productive stands, white clover can fix 100–200 kg N/ha/year, significantly reducing or eliminating the need for synthetic nitrogen fertilizers in adjacent plantings.
+
+
 
 ## Permaculture Applications
 
@@ -36,6 +44,8 @@ As a legume, white clover forms a symbiotic relationship with *Rhizobium legumin
 - **Bee forage:** Long flowering season (spring through autumn) provides critical nectar and pollen for honeybees and native pollinators
 - **Lawn alternative:** Maintains green appearance with minimal mowing; tolerates foot traffic better than most legumes
 
+
+
 ## Cultivation and Varieties
 
 White clover is typically broadcast-sown at 2–5 kg/ha into existing grass or prepared seedbeds. Seed requires inoculation with appropriate rhizobium strains if not naturally present in soil. Key varieties include:
@@ -44,9 +54,13 @@ White clover is typically broadcast-sown at 2–5 kg/ha into existing grass or p
 - **'Pipolina'/'Microclover':** Dwarf varieties suited to lawns, requiring less frequent mowing
 - **'Dutch White':** Medium-leaved, good general-purpose type for [[living-mulch-systems-guide]]
 
+
+
 ## Soil Preferences
 
 Thrives in moist, well-drained loams with pH 6.0–7.0. Tolerates moderate acidity, poor drainage (briefly), and partial shade. Competes poorly with tall aggressive grasses; performs best when mowed or grazed periodically to maintain light penetration.
+
+
 
 ## Ecological Interactions
 
@@ -55,12 +69,16 @@ Thrives in moist, well-drained loams with pH 6.0–7.0. Tolerates moderate acidi
 - Provides ground-level habitat for predatory beetles and spiders in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] systems
 - Can serve as a trap crop for certain pest species in orchard systems
 
+
+
 ## Limitations
 
 - Aggressive in moist climates; may invade garden beds if not bordered
 - Provides relatively little biomass compared to other green manures
 - Can harbor [[jadam-pesticide-for-slugs-and-snails]] in damp conditions
 - Nitrogen fixation is reduced in high-nitrogen soils (negative feedback regulation)
+
+
 
 ## See Also
 

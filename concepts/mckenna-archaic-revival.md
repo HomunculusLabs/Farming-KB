@@ -101,6 +101,8 @@ While much of McKenna's Archaic Revival framework is philosophical and speculati
 
 The revival of interest in traditional plant medicines — ayahuasca, psilocybin mushrooms, peyote, iboga — represents perhaps the most direct manifestation of the Archaic Revival in contemporary culture. Clinical research into psychedelic-assisted therapy, while conducted within a Western medical framework, nonetheless represents a partial legitimation of the shamanic plant knowledge that McKenna championed. The growing [[psychedelic-therapy-current-research]] field, whatever its differences from McKenna's approach, shares his conviction that these substances have the capacity to fundamentally alter human consciousness and social organization.
 
-## Related McKenna Topics
+## Related
+
+- [[capoeira]] McKenna Topics
 
 McKenna's analysis fits within his broader framework of the [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-dissolution-of-the-dominator-culture]] and the broader project of recovering humanity's ancient partnership with the natural world.

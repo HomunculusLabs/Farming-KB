@@ -32,7 +32,7 @@ supply several growing rooms, if properly designed.
 
 ### Steam Humidification
 
-In permaculture designers manual or during cold winter months, the
+In [[permaculture]] designers manual or during cold winter months, the
 preconditioning plenum can be largely humidified using
 steam. Steam provides both moisture and heat. Thermostats
 located in the preconditioning plenum and/or growing room

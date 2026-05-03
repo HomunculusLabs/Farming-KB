@@ -7,6 +7,20 @@ tags: [permaculture, design, ethics, principles, sustainable-agriculture, ecolog
 sources: [raw/particles/permaculture-beginners-guide.md]
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Permaculture Design Principles for Beginners
 
 Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians [[david-holmgren]] and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
@@ -49,6 +63,20 @@ Zoning is about correct placement — positioning elements by frequency of human
 ### Community Economics
 
 Local spending keeps money circulating within communities. When money is spent with a local producer using local materials, it stays within the community to be continually reinvested. Community orchards, LETS (Local Exchange Trading Systems), and local distinctiveness (preserving regional heritage varieties) all strengthen community resilience against homogenization and corporate extraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## See Also
 

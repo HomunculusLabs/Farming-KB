@@ -25,7 +25,7 @@ PIHKAL entry #50. 3,5-DIMETHOXY-4-TRIDEUTEROMETHOXY-PHENETHYLAMINE.
 
 > (with 275 mg) The onset was smooth and gradual.
 > Within the hour, the slight queasiness I experienced (not as much as
-> with mescaline) completely disappeared. Some visual enhancement, good
+> with [[mescaline]]) completely disappeared. Some visual enhancement, good
 > energy, good communication. It was a very special day for me as I was
 > in a good place pretty much the whole day, and able to communicate
 > clearly without deeper feelings getting in the way. While most

@@ -10,9 +10,17 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #74. 2,4-DIETHOXY-5-METHOXYAMPHETAMINE.
 
+
+
+
+
 ## Chemical Name
 
 2,4-DIETHOXY-5-METHOXYAMPHETAMINE
+
+
+
+
 
 ## Dosage and Duration
 
@@ -21,13 +29,25 @@ PIHKAL entry #74. 2,4-DIETHOXY-5-METHOXYAMPHETAMINE.
 | Dosage | unknown. |
 | Duration | unknown. |
 
+
+
+
+
 ## Qualitative Comments
 
 No [[qualitative-comments-methodology-pihkal]] recorded.
 
+
+
+
+
 ## Extensions and Commentary
 
 This particular identity and arrangement of the alkoxy groups on the amphetamine molecule, EEM, is a totally unexplored molecule. It is reasonable to assume that it would be way down in potency, but there is no way of guessing what the nature of its activity might be at the dosage that would be active.
+
+
+
+
 
 ## Synthesis
 
@@ -43,10 +63,18 @@ To a gently refluxing suspension of 2.9 g LAH in 400 mL anhydrous Et2O under a H
 
 (Additional synthesis details available in source.)
 
+
+
+
+
 ## Safety Notes
 
 EEM is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
+
+
+
+
 
 ## See Also
 

@@ -7,9 +7,17 @@ tags: [chemistry, psychopharmacology, psychedelics, tryptamine, structure-activi
 sources: [raw/papers/shulgin-a-tihkal.md]
 ---
 
+
+
+
+
 ## What TIHKAL Is
 
 TIHKAL (Tryptamines I Have Known and Loved: The Chemistry Continues) by Alexander and Ann Shulgin is the sequel to PIHKAL and catalogs 55 tryptamine compounds with synthesis procedures, dosage data, qualitative experience reports, and extensive commentary. It covers the full range of psychedelic tryptamines from simple dialkyltryptamines to complex lysergamides and beta-carbolines.
+
+
+
+
 
 ## Tryptamine Chemistry Basics
 
@@ -47,6 +55,10 @@ The compounds cataloged in TIHKAL illustrate several structure-activity relation
 - Methylenedioxy bridges at the 4,5-position create unique compounds
 - Lysergamides (LSD, AL-LAD, ETH-LAD) represent a structurally distinct but pharmacologically related class
 
+
+
+
+
 ## Methodology
 
 Each entry follows a consistent format:
@@ -57,9 +69,17 @@ Each entry follows a consistent format:
 5. Qualitative comments from human trials (first-person experience reports)
 6. Extensions and commentary — pharmacology, natural occurrence, historical context, comparative analysis
 
+
+
+
+
 ## Pharmacological Context
 
 Tryptamines primarily act as serotonin receptor agonists, particularly at 5-HT2A and 5-HT1A receptors. The Shulgin compounds span a wide range of receptor affinities and functional selectivities, from the extremely potent lysergamides (microgram range) to the simpler tryptamines (milligram range).
+
+
+
+
 
 ## See Also
 

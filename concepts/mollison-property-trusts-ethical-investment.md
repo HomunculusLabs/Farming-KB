@@ -12,17 +12,23 @@ sources:
 
 Source: Bill Mollison, Permaculture: A Designers' Manual (Chapter 14, Section 14.8)
 
+
+
 ## The Need for Ethical Investment
 
 No investment in glamour stocks (coal, oil, uranium, properties, paper pulp, agrochemicals, mining) is likely to yield anything but more pollution and to hasten global collapse. The evidence on acid rain alone (well documented) will convince any sane person that further "progress and development" will cause social and environmental upheaval.
 
 We need to turn money resources to truly rehabilitative ends: accelerated reafforestation, preservation of existing forests, sane village development, and rehabilitation of eroded and misused lands.
 
+
+
 ## How a Property Trust Works
 
 A property trust purchases real estate for improvement, lease, or rental on behalf of many small investors who cannot afford to individually own or develop such properties. By improving properties, their value increases, and taxation is not incurred on that increase if the property is held for 10 or more years, nor is the trust itself taxed on its income from investors.
 
 The management group obtains backing from investors (via a public prospectus) to float a Property Trust on the investment market. The prime purpose is to give every person a chance to do more than object to or protest inappropriate land sales, land misuse, and poor planning, and to invest in saving critical or endangered national resources while actively rehabilitating eroded lands.
+
+
 
 ## Investor Access and Participation
 
@@ -35,6 +41,8 @@ Unlike other property trusts, investors should be given every opportunity to inv
 - Controlled recreational access to lands and buildings.
 - Levels from volunteer or recreational use to paid consultancy, building, or leaseholds.
 
+
+
 ## Financial Parameters
 
 In the first trust of this type, aim to stop accepting investors at $2 to 5 million. A low unit price ($100) enables even poorer people to invest; a single unit can be held by a partnership, society, or other corporate group so that even less money need be contributed per person.
@@ -42,6 +50,8 @@ In the first trust of this type, aim to stop accepting investors at $2 to 5 mill
 The precise amount used for management and running costs should not exceed 4 to 8 percent of funds (based on figures from other property trust expenses), and the remainder is devoted to the purchase and development of properties. Costs reduce as trust income grows.
 
 Any surplus or unused funds accumulating can be invested in ethical systems, including housing cooperatives, inventory for development projects, and shares in ethical businesses.
+
+
 
 ## Specific Project Areas for Ethical Trusts
 
@@ -52,6 +62,8 @@ Any surplus or unused funds accumulating can be invested in ethical systems, inc
 - Bioregional development as purchase of community resources in a specific region(s) for use by residents, community groups, trust unit holders, or residents buying trust properties.
 - Purchase of selected properties for assisting developing countries (overseas outposts).
 - Bioregional clean energy systems or clean transport methods.
+
+
 
 ## Staging Development
 
@@ -67,6 +79,8 @@ Property trusts stage development in sequence as funds become available:
 Community survival is ensured by community involvement. With good management and skilful work, there is no reason why this should not also pay for itself, or show a financial advantage to investors.
 
 See also: [[mollison-bioregional-organisation-and-resource-index]], [[mollison-social-and-economic-design]], [[mollison-village-development-design]], [[mollison-bioregional-organisation-and-resource-index]]
+
+
 
 ## Related
 

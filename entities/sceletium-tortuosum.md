@@ -54,7 +54,7 @@ The principal psychoactive constituents of *Sceletium torserotoninre
 mesembrine-type alkaloids, a unique class of compounds largely restricted to
 the Mesembryanthemoideae subfamily within Aizoaceae:
 - **Mesembrine** — the predominant alkaloid, typically comprising 0.1 to 1.3%
-  of dry plant weight; a serotonin reuptake inhibitor (SRI) with anxiolytic
+  of dry plant weight; a [[serotonin]] reuptake inhibitor (SRI) with anxiolytic
   and antidepressant properties
 - **Mesembrenone** — also a significant SRI, considered by some researchers
   to be the primary contributor to the psychoactive effects; has a more
@@ -73,7 +73,7 @@ identified as a dual serotonin reuptake inhibitor and phosphodiesterase-4
 effects. PDE4 inhibition is also a mechanism of action of certain
 prescription antidepressants and anti-inflammatory drugs.
 Unlike many traditional psychoactive plants, kanna does not contain tropane,
-indole, beta-carboline, or cannabinoid alkaloids. Its pharmacology is
+[[indole]], beta-carboline, or cannabinoid alkaloids. Its pharmacology is
 unique among entheogenic and psychoactive plants, representing a distinct
 mechanism of action not shared with other well-known botanical medicines.
 

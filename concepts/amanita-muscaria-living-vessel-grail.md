@@ -9,13 +9,13 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Living Vessel and the Grail
 
-The "living vessel" is a container -- cup, bowl, or jar -- that has been permanently colonized by [[amanita-muscaria-drying-and-preparation]] mycelium through repeated cycles of [[amanita-muscaria-resurrection-experiments]]. Once colonized, the vessel becomes a self-renewing source of sacramental material, requiring only periodic feeding with nutrient liquid to continue producing the "food of immortality" indefinitely. The author of "Amanita Muscaria: Herb of Immortality" argues that this living vessel is the historical origin of the Holy Grail legend.
+The "living vessel" is a container -- cup, bowl, or jar -- that has been permanently colonized by [[amanita-muscaria-drying-and-preparation]] mycelium through repeated cycles of [[amanita-muscaria-resurrection-experiments]]. Once colonized, the vessel becomes a self-renewing source of sacramental material, requiring only periodic feeding with nutrient liquid to continue producing the "food of immortality" indefinitely. The author of "[[amanita-muscaria]]: Herb of Immortality" argues that this living vessel is the historical origin of the Holy Grail legend.
 
 ## The Biology of the Living Vessel
 
 ### How a Vessel Becomes "Living"
 
-When [[amanita-muscaria-drying-and-preparation]] pieces are extracted with a nutrient liquid (grape juice, boiled barley water, or honey water) and allowed to resurrect in a container, the mycelium does not merely grow on the mushroom pieces. It also colonizes the interior surfaces of the container itself:
+When [[amanita-muscaria-drying-and-preparation]] pieces are extracted with a nutrient liquid (grape juice, boiled barley water, or honey water) and allowed to resurrect in a container, the [[mycelium]] does not merely grow on the mushroom pieces. It also colonizes the interior surfaces of the container itself:
 
 1. **First resurrection:** Mycelium grows primarily from the mushroom pieces
 2. **Second resurrection:** Mycelium begins to establish on container walls

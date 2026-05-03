@@ -118,3 +118,10 @@ In research practice, the best solution may combine both approaches.
 Photonic crystals are periodic optical lattices whose wavelength-scale structure creates band effects.
 Metamaterials are artificial media whose subwavelength structure creates engineered effective properties.
 Their shared lesson is that light can be designed by designing the material architecture around it.
+
+## See Also
+
+- [[photonic-crystals]]
+- [[query-how-do-photonic-crystals-create-structural-color]]
+- [[eli-yablonovitch]]
+- [[sajeev-john]]

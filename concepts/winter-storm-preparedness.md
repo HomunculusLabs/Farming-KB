@@ -104,7 +104,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 ## Related Concepts
 
-- safety — Comprehensive safety planning and emergency preparedness
+- safety — Comprehensive safety planning and [[emergency-preparedness]]
 - [[firewood-seasoning-and-storage]] — Ensuring adequate seasoned wood supply for winter heating
 - animal husbandry — Livestock care and management
 - [[homestead-communication]] — Communication during winter power outages

@@ -9,9 +9,15 @@ sources:
   - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
 ---
 
+
+
+
 ## Overview
 
 Soil is the most speciose habitat for fungi on Earth, harboring an estimated diversity far exceeding that of all other fungal habitats combined. Soil fungal communities include saprotrophs, mycorrhizal symbionts, plant pathogens, endophytes, and fungal parasites of other soil organisms. Despite this richness, soil fungi remain among the most poorly documented organisms on the planet.
+
+
+
 
 ## Vertical Distribution
 
@@ -20,6 +26,9 @@ Fungal communities in soil are stratified by depth, corresponding to soil horizo
 - **Organic horizons (O and A)**: The greatest density and diversity of fungi occurs in the organic layers where carbon inputs are highest. Saprotrophic fungi decomposing fresh litter dominate the O horizon, while more heavily decomposed material in the A horizon supports different assemblages.
 - **Mineral soil (B horizon)**: Fungal biomass decreases sharply with depth, but distinct communities persist. Arbuscular mycorrhizal fungi (AMF) and dark-septate endophytes are relatively more important in mineral horizons.
 - **Deep soil and subsoil**: Even deep soil profiles harbor fungal communities, though biomass is low. Some species are specifically adapted to deep-soil conditions.
+
+
+
 
 ## Seasonal Variation
 
@@ -31,6 +40,9 @@ Soil fungal communities fluctuate seasonally in composition and biomass. In temp
 
 Molecular surveys using soil cores taken across seasons reveal that many species are present but undetectable at certain times of year, persisting as dormant propagules or below-detection-biomass mycelium.
 
+
+
+
 ## Sampling and Detection Challenges
 
 Soil fungi pose exceptional challenges for biodiversity assessment:
@@ -39,6 +51,9 @@ Soil fungi pose exceptional challenges for biodiversity assessment:
 - Many soil fungi exist as resting spores or sclerotia rather than active mycelium, complicating interpretation of "diversity" vs. "activity"
 - Molecular methods (DNA metabarcoding) detect a far greater fraction of soil fungal diversity but have their own biases, including primer selectivity and the inability to distinguish active from dormant organisms
 - Spatial heterogeneity is extreme: fungal diversity can differ significantly between samples taken centimeters apart
+
+
+
 
 ## Functional Groups in Soil
 
@@ -50,9 +65,15 @@ Soil fungi pose exceptional challenges for biodiversity assessment:
 - **Fungal parasites and hyperparasites**: Fungi that attack other fungi, including mycoparasites used in biological control
 - **Zoosporic fungi**: Chytrids and oomycetes (though the latter are not true fungi) that are aquatic or soil-dwelling spore producers
 
+
+
+
 ## Ecosystem Functions
 
 Soil fungi drive critical ecosystem processes including organic matter decomposition (see [[fungal-nutrient-cycling-mineral-transformations]]), nutrient mineralization (see [[fungal-nutrient-cycling-mineral-transformations]]), soil aggregate formation through hyphal binding, mineral weathering (see [[fungal-nutrient-cycling-mineral-transformations]]), and plant-microbe interactions (see [[fungal-bacterial-interactions]]). The functional diversity of soil fungi is at least as important as their species diversity for ecosystem functioning.
+
+
+
 
 ## Related Pages
 

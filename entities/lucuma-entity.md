@@ -74,7 +74,7 @@ can be dried into a flour that stores for years.
 Lucuma is a significant traditional Andean fruit tree with exceptional
 storage properties through drying. Its ability to produce year-round,
 tolerate dry conditions, and store as flour for years makes it
-valuable for food security in subtropical permaculture systems. The
+valuable for food security in subtropical [[permaculture]] systems. The
 unique maple-syrup flavour and high nutritional value add diversity to
 food forest designs. Its use as chicken forage that enhances yolk
 colour adds a multi-function element.

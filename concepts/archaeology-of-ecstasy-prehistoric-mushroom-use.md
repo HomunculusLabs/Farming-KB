@@ -85,6 +85,8 @@ The debate about prehistoric mushroom use is not merely academic. The popular be
 
 ## Related
 
+- [[gobekli-tepe]]
+
 - [[gordon-wasson-comparative-method-ethnomycology]]
 - [[philosophical-implications-of-psychedelics]]
 - [[magic-mushroom-history-timeline]]

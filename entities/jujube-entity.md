@@ -72,7 +72,7 @@ Vitamin C 13 mg, Potassium 531 mg, Calcium 79 mg
 Jujube is an exceptionally hardy fruit tree for arid and marginal
 landscapes, offering high nutritional value with minimal water
 requirements. Its drought and salinity tolerance make it ideal for
-dryland permaculture systems. The Indian jujube's additional yields of
+dryland [[permaculture]] systems. The Indian jujube's additional yields of
 shellac, firewood, and fodder create multiple income streams from a
 single species, exemplifying the permaculture principle of multiple
 functions.

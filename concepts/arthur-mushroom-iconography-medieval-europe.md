@@ -16,7 +16,7 @@ During Germany's Middle Ages, a popular play symbolic of the paradise story was
 staged on December 24th, the religious feast day of Adam and Eve. Central to
 this tradition was "The Paradise tree," a fir tree decorated with apples
 representing the fruit of the Tree of Knowledge in the Garden of Eden. As James
-Arthur demonstrates, this "fruit" is the Amanita muscaria mushroom. Two more
+Arthur demonstrates, this "fruit" is the [[amanita-muscaria]] mushroom. Two more
 symbolic connections with the mushroom were the candles and cookies also hung on
 the tree, where candles represent Christ and cookies represent the wafers of
 the Christian sacrament.

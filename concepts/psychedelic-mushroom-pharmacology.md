@@ -12,11 +12,11 @@ sources:
 
 ## Overview
 
-The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of [[psilocybin]] — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
-The principal mechanism of action of psilocin is agonism (activation) of the serotonin 2A receptor (5-HT2A), a Gq/11-coupled G-protein-coupled receptor (GPCR). Psilocin acts as a full or near-full agonist at this receptor, with an estimated Ki (inhibition constant) of approximately 6-20 nM, making it a high-affinity ligand.
+The principal mechanism of action of psilocin is agonism (activation) of the [[serotonin]] 2A receptor (5-HT2A), a Gq/11-coupled G-protein-coupled receptor (GPCR). Psilocin acts as a full or near-full agonist at this receptor, with an estimated Ki (inhibition constant) of approximately 6-20 nM, making it a high-affinity ligand.
 
 ### Receptor Binding Profile
 
@@ -54,7 +54,7 @@ Psilocin is lipophilic enough to cross the blood-brain barrier readily. It distr
 Psilocin is primarily metabolized in the liver through two pathways:
 
 1. **Oxidative deamination** by monoamine oxidase (MAO), primarily MAO-A, producing 4-hydroxy-indoleacetic acid (4-HIAA)
-2. **Glucuronidation** by UDP-glucuronosyltransferases (UGTs), producing psilocin-O-glucuronide, the primary metabolite excreted in urine
+2. **[[glucuronidation]]** by UDP-glucuronosyltransferases (UGTs), producing psilocin-O-glucuronide, the primary metabolite excreted in urine
 
 The plasma half-life of psilocin is approximately 2-3 hours. Subjective effects typically last 4-6 hours, depending on dose.
 
@@ -121,7 +121,7 @@ This increased connectivity may allow the brain to escape entrenched patterns of
 
 Rapid and significant tolerance develops to the effects of psilocybin:
 
-- **Cross-tolerance** occurs with other serotonergic psychedelics (LSD, DMT, mescaline)
+- **Cross-tolerance** occurs with other serotonergic psychedelics (LSD, DMT, [[mescaline]])
 - Tolerance is largely gone within 7-14 days of abstinence
 - The mechanism involves 5-HT2A receptor downregulation and desensitization
 - No evidence of physical dependence or withdrawal syndrome

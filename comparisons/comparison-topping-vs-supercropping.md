@@ -105,7 +105,7 @@ bending multiple times during the vegetative phase.
 Topping is the better choice for novice growers who want a reliable, predictable
 method for increasing yield. It works best in grows with adequate vertical space
 where the primary goal is simply to multiply main colas rather than manage
-height. Topping pairs well with low-stress training (LST) such as tying down
+height. Topping pairs well with [[low-stress-training]] (LST) such as tying down
 branches, and is ideal for plants that will have a long vegetative period to
 recover fully. It is also preferred when growing from seed, as seed- grown
 plants tend to exhibit stronger apical dominance that responds dramatically to
@@ -115,7 +115,7 @@ dramatically since their branching structure is partly predetermined.
 ## When to Choose Supercropping
 
 Supercropping shines in situations where height management is critical, such as
-low-ceiling grows, small tents, or screen-of-green (ScROG) setups where uniform
+low-ceiling grows, small tents, or [[screen-of-green]] (ScROG) setups where uniform
 canopy height is essential. It is the technique of choice for experienced
 growers who want fine-grained control over individual branch architecture
 without sacrificing growth time to wound healing. Supercropping is particularly

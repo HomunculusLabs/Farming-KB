@@ -10,7 +10,7 @@ tags: [culture, permaculture, plants, species]
 
 # Permaculture Aquatic and Wetland Species
 
-Water plants provide direct food for humans and aquatic animals, oxygenate water, filter nutrients, and create habitat. "A Selection of Permaculture Plants" (Nugent & Boniface, 2004) dedicates a full section to water plants, classifying them into four functional groups based on their growth position in aquatic systems.
+Water plants provide direct food for humans and aquatic animals, oxygenate water, filter nutrients, and create habitat. "A Selection of [[permaculture]] Plants" (Nugent & Boniface, 2004) dedicates a full section to water plants, classifying them into four functional groups based on their growth position in aquatic systems.
 
 ## The Four Groups of Water Plants
 

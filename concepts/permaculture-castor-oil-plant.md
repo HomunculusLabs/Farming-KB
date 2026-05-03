@@ -13,15 +13,21 @@ updated: 2026-04-18
 
 The castor oil plant is a fast-growing, striking perennial shrub (often treated as an annual in cooler climates) native to tropical Africa. It is one of the most productive oilseed plants known and has been cultivated for thousands of years for its oil, which has diverse industrial, medicinal, and agricultural applications.
 
+
+
 ## Botany and Growth Habit
 
 A large, dramatic plant reaching 3-12 m in tropical conditions, though typically 1-3 m as an annual. The large, palmate leaves are up to 60 cm across and range from green to deep reddish-purple, depending on variety. The spiny seed capsules are distinctive and ornamental. Growth rate is extremely rapid -- castor can outgrow most weeds when conditions are favourable.
+
+
 
 ## Climate and Soil
 
 Castor is adapted to tropical and subtropical climates but can be grown as an annual in temperate regions. It is drought tolerant once established and grows on a wide range of soils, including poor and saline soils, though it prefers deep, fertile, well-drained soil. It is damaged by frost.
 
 **Critical warning**: All parts of the plant, especially the seeds, contain ricin, one of the most toxic natural substances known. The seeds should never be eaten, and the plant should be kept away from children and livestock. The oil extracted from seeds is safe because ricin is water-soluble and not oil-soluble.
+
+
 
 ## Castor Oil Production
 
@@ -36,11 +42,15 @@ The seeds contain 40-60% oil, which is extracted by pressing. Castor oil has uni
 
 The seed cake remaining after oil extraction is toxic due to residual ricin and must be detoxified before use as animal feed or fertiliser.
 
+
+
 ## Agricultural Uses
 
 - **Insecticide**: Castor oil sprays can deter certain insect pests
 - **Mole repellent**: Castor oil applied to soil repels moles and voles in some garden applications
 - **Green manure**: The fast-growing biomass can be cut and incorporated into soil
+
+
 
 ## Permaculture Functions
 
@@ -51,6 +61,8 @@ The seed cake remaining after oil extraction is toxic due to residual ricin and 
 - **Windbreak**: Tall growth provides temporary wind protection while permanent species establish
 - **Drought tolerant**: Produces in dry conditions where few oilseeds thrive
 
+
+
 ## Safety Considerations
 
 The extreme toxicity of ricin in raw seeds means castor requires careful management in permaculture systems:
@@ -60,11 +72,15 @@ The extreme toxicity of ricin in raw seeds means castor requires careful managem
 - Dispose of seed cake safely if not detoxified
 - Consider using only ornamental, sterile varieties if oil production is not needed
 
+
+
 ## Cultivation
 
 Castor is easily grown from seed. Direct sowing after the last frost is common in temperate areas. In tropical regions, it self-seeds readily. The rapid growth means it quickly fills its niche in a system, but the same vigour means it can become weedy if not managed.
 
 In [[permaculture-food-forest-design-principles]] systems, castor serves as a temporary canopy species during establishment, providing quick shade and wind protection while slower-growing permanent trees mature. It can then be removed or managed to prevent competition with the permanent species.
+
+
 
 ## See Also
 

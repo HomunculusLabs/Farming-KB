@@ -16,10 +16,24 @@ Water plants provide direct food for humans and aquatic animals, and oxygenate w
 3. **Emergent Plants**: Roots and stems below water, leaves and flowers above. Shallows in ponds can dedicate large areas to these plants.
 4. **Margin Plants**: Do not grow in water but associate with the water system, deriving moisture from moist edge soils.
 
+
+
+
+
+
+
+
 ## Submerged Plants
 
 ### Plankton (Algae, Bacteria, Flagellates, Diatoms)
 A reasonable balance can be established by introducing water from an established aquatic system (lake, creek, or large pond).
+
+
+
+
+
+
+
 
 ## Floating-Leaved Plants
 
@@ -42,6 +56,13 @@ Perennial floating plant, native to Europe, India, and eastern Asia. Grows in 0.
 ### Water Lilies (Nymphaea alba, N. gigantea, N. odorata, N. tetragona)
 Root in mud, leaves float on water (depths up to 1.5 m). Roots are edible. *N. alba* used as pig feed in europe.
 
+
+
+
+
+
+
+
 ## Emergent Plants
 
 ### Ceratopteris thalictroides
@@ -53,6 +74,13 @@ Possibly the earliest cultivated plant. Grown in paddy culture like rice or on d
 Taro leaf nutrition (per 100 g): Water 87.2%, 40 cal, Carbohydrate 7.4 g, Fat 0.8 g, Protein 3.0 g, Calcium 76 mg, Iron 1.0 mg, Vitamin C 31 mg.
 
 Taro corm nutrition (per 100 g): Water 73%, 98 cal, Carbohydrate 23.7 g, Fat 0.2 g, Protein 1.9 g, Calcium 28 mg, Potassium 514 mg, Phosphorus 61 mg, Vitamin A 20 IU.
+
+
+
+
+
+
+
 
 ## Related
 

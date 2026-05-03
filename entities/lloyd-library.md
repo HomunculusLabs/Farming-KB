@@ -11,7 +11,7 @@ sources:
 ---
 # Lloyd Library and Museum
 
-The Lloyd Library anmycology, located in Cincinnati, Ohio, is one of the world's foremost independent research collections devoted to botany, mycology, pharmacy, and natural history. Founded by the Lloyd brothers — [[fungal-kingdom-classification]], John Uri Lloyd, and Nelson Ashley Lloyd — it grew from a pharmaceutical company's working library into an irreplaceable repository of scientific literature spanning five centuries. As described by [[nicholas-money]] in Mr. Bloomfield's Orchard, the library represents the material legacy of one of American mycology's most remarkable families.
+The Lloyd Library anmycology, located in Cincinnati, Ohio, is one of the world's foremost independent research collections devoted to botany, [[mycology]], pharmacy, and natural history. Founded by the Lloyd brothers — [[fungal-kingdom-classification]], John Uri Lloyd, and Nelson Ashley Lloyd — it grew from a pharmaceutical company's working library into an irreplaceable repository of scientific literature spanning five centuries. As described by [[nicholas-money]] in Mr. Bloomfield's Orchard, the library represents the material legacy of one of American mycology's most remarkable families.
 
 ## History and Founding
 

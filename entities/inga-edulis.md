@@ -72,7 +72,7 @@ producer, with over 400 species in the genus.
 ## Relevance
 The ice cream bean is a uniquely valuable agroforestry species because
 it combines the nitrogen-fixing nurse crop function with an edible
-fruit product. In permaculture systems, Inga edulis serves as a
+fruit product. In [[permaculture]] systems, Inga edulis serves as a
 multipurpose support tree that provides shade, fixes nitrogen, improves
 soil, and yields a sweet edible pulp, making it ideal for food forest
 overstory layers in tropical climates.

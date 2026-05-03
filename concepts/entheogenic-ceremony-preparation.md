@@ -31,7 +31,7 @@ Modern adaptations may be less strict but generally emphasize clean eating for s
 Critical for safety, especially with MAOI-containing entheogens like ayahuasca:
 - Alcohol: Abstain for at least 1-2 weeks prior
 - Cannabis: 3-7 days minimum; longer for heavy users
-- SSRIs: Consult medical professional — discontinuation before ayahuasca is essential (serotonin syndrome risk) but must be tapered gradually
+- SSRIs: Consult medical professional — discontinuation before ayahuasca is essential ([[serotonin]] syndrome risk) but must be tapered gradually
 - MAOIs: Absolutely contraindicated
 - Stimulants (cocaine, amphetamines): At least 1 week
 - Other psychedelics: At least 2 weeks between experiences

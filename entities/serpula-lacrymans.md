@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment decomposition organisms in temperate regions, capable of destroying structural timber in buildings and causing extensive economic damage. Despite the common name "dry rot," the fungus requires elevated moisture (typically >20% wood moisture content) to colonize and decay wood — the name refers to the resulting dry, cracked, cubical appearance of severely decayed timber.
+*Serpula lacrymans* is a basidiomycete fungus notorious as the causative agent of dry rot in buildings. Commonly called the dry rot fungus, it is one of the most destructive fungi environment [[decomposition]] organisms in temperate regions, capable of destroying structural timber in buildings and causing extensive economic damage. Despite the common name "dry rot," the fungus requires elevated moisture (typically >20% wood moisture content) to colonize and decay wood — the name refers to the resulting dry, cracked, cubical appearance of severely decayed timber.
 
 ## Taxonomy
 
@@ -32,7 +32,7 @@ The species epithet *lacrymans* (weeping) refers to the conspicuous water drople
 ## Morphology
 
 ### Mycelium
-The mycelium is the primary diagnostic feature encountered in building inspections. It forms:
+The [[mycelium]] is the primary diagnostic feature encountered in building inspections. It forms:
 
 - **White, cottony sheets** spreading over masonry, timber, and plaster
 - **Strands (rhizomorphs)**: Thick, fleshy, white to grayish cords that conduct water and nutrients over considerable distances (meters). These are the primary mechanism for moisture transport through otherwise dry building materials

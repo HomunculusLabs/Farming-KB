@@ -8,7 +8,7 @@ sources: []
 ---
 # PGPR and Mycorrhizal Inoculants for Microplant Establishment
 
-Plant growth-promoting rhizobacteria (PGPR) and [[arbuscular-mycorrhizal-network-visualization-anastomosis]] (AMF) can be used as biological inoculants to improve the establishment, growth, and health of micropropagated plants (microplants). Microplants are produced in sterile laboratory conditions and face unique challenges during weaning and transplanting, including poor water relations, underdeveloped defense mechanisms, and absence of protective rhizosphere microorganisms. Biological inoculants address these vulnerabilities through multiple modes of action.
+[[plant-growth-promoting-rhizobacteria]] (PGPR) and [[arbuscular-mycorrhizal-network-visualization-anastomosis]] (AMF) can be used as biological inoculants to improve the establishment, growth, and health of micropropagated plants (microplants). Microplants are produced in sterile laboratory conditions and face unique challenges during weaning and transplanting, including poor water relations, underdeveloped defense mechanisms, and absence of protective rhizosphere microorganisms. Biological inoculants address these vulnerabilities through multiple modes of action.
 
 Microplants are produced in sterile laboratory conditions and face unique challenges during weaning and transplanting, including poor water relations, underdeveloped defense mechanisms, and absence of protective rhizosphere microorganisms.
 
@@ -34,7 +34,7 @@ AMF inoculation during micropropagation can reduce post-transplant losses and ac
 
 ## Plant Growth-Promoting Rhizobacteria
 
-PGPR, principally Pseudomonas and Bacillus species, promote plant growth through multiple mechanisms: production of iron-chelating siderophores that sequester iron from pathogens, synthesis of antibiotics that suppress pathogens, production of plant growth regulators (auxins, cytokinins, gibberellins), reduction of inhibitory ethylene levels through ACC deaminase activity, and induction of systemic resistance (ISR). PGPR are generally less sensitive to substrate phosphate concentration than AMF and show less host specificity, making them more flexible inoculants for diverse micropropagation systems.
+PGPR, principally [[pseudomonas]] and Bacillus species, promote plant growth through multiple mechanisms: production of iron-chelating siderophores that sequester iron from pathogens, synthesis of antibiotics that suppress pathogens, production of plant growth regulators (auxins, cytokinins, gibberellins), reduction of inhibitory ethylene levels through ACC deaminase activity, and induction of systemic resistance (ISR). PGPR are generally less sensitive to substrate phosphate concentration than AMF and show less host specificity, making them more flexible inoculants for diverse micropropagation systems.
 
 PGPR are generally less sensitive to substrate phosphate concentration than AMF and show less host specificity, making them more flexible inoculants for diverse micropropagation systems.
 

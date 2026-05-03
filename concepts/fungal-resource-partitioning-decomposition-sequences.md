@@ -18,7 +18,7 @@ type: concept
 
 Fungi function as primary, secondary, and tertiary decomposers in the
 often complex process of degrading mollison designers humus. The sequence of
-fungal species appearing during decomposition reflects resource
+fungal species appearing during [[decomposition]] reflects resource
 partitioning based on the types of substrata, carbohydrates, cellulose,
 and lignins used by each species. Competition from other organisms and
 availability of specific nutrients and substrates may modify the strict
@@ -115,7 +115,7 @@ with taxa introduced by the agricultural process.
 
 ### Hyphal Interference
 
-A phenomenon termed hyphal interference occurs when the mycelium of
+A phenomenon termed hyphal interference occurs when the [[mycelium]] of
 one fungus, growing either close to (within 50 mm) or in contact with
 that of another species, reduces the growth rate and causes cytoplasmic
 disruption of the second fungus. Electron microscopy studies have
@@ -127,7 +127,7 @@ vitro but is believed to occur in nature.
 ### Antibiotic Production
 
 Some fungi produce diffusible antibiotics that restrict the growth of
-competing and faster-growing species. Trichoderma species exhibit
+competing and faster-growing species. [[trichoderma]] species exhibit
 various modes of interspecific interaction mediated by volatile and
 nonvolatile metabolites. Members of the Chaetomiaceae and
 Sporormiaceae produce a number of diffusible compounds that may act as

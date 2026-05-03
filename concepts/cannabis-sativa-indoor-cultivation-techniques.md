@@ -7,7 +7,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3
 ---
 # Cannabis Sativa Indoor Cultivation Techniques
 ## Overview
-Growing Cannabis sativa indoors presents unique challenges that
+Growing [[cannabis-sativa]] indoors presents unique challenges that
 differentiate it from indica-dominant cultivation. Sativa's natural
 proclivity for tall growth, extended flowering, and specific
 environmental preferences requires adapted techniques for light

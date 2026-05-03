@@ -13,13 +13,19 @@ sources:
 **Source:** [[monster-cropping]] (KNF Recipe Book, Section 8)
 **Updated:** 2026-04-18
 
+
+
 ## Purpose in KNF
 
 Bone charcoal is a critical intermediate material in Korean Natural Farming used primarily for making [[water-soluble-calcium-phosphate-wcp]]. The charcoal process removes organic matter and fats from the bones, leaving a porous mineral structure that can be dissolved by [[knf-brown-rice-vinegar]] to extract calcium phosphate.
 
+
+
 ## Why Bones Must Be Charred
 
 Raw or boiled bones still contain organic material and fatty substances that would contaminate the extraction process. Burning bones at low temperature converts them to a charcoal state, burning off all organic and fatty matter while preserving the mineral calcium phosphate structure. This is essential for producing a clean, water-soluble mineral extract.
+
+
 
 ## Step-by-Step Process
 
@@ -46,11 +52,15 @@ Raw or boiled bones still contain organic material and fatty substances that wou
 - Small bubbles will appear as calcium phosphate dissolves
 - When bubbles stop (approximately 7 days), the extraction is complete
 
+
+
 ## Environmental Conditions
 
 - Optimal temperature: 23 to 25 degrees Celsius
 - Cool, shaded area with no direct sunlight
 - Little change in exterior surroundings is desirable
+
+
 
 ## Uses of the Final Product (WCP)
 
@@ -63,9 +73,13 @@ The resulting Water-Soluble Calcium Phosphate can be used for:
 - Improving poor initial growth
 - Strengthening weak flower bud differentiation
 
+
+
 ## Relationship to Other KNF Inputs
 
 Bone charcoal is distinct from plant-based charcoals used elsewhere in KNF. [[knf-water-soluble-phosphoric-acid-wspa]] uses sesame stem charcoal instead of bone charcoal. The two mineral inputs serve different nutritional purposes: WCP provides calcium and phosphate from animal sources, while WPA provides phosphoric acid from plant sources.
+
+
 
 ## See Also
 

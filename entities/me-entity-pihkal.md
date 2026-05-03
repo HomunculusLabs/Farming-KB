@@ -77,7 +77,7 @@ METAESCALINE; 3,4-DIMETHOXY-5-ETHOXYPHENETHYLAMINE
 > stuck at a ++. Take another 100 milligrams at 3:45 PM. Still tastes
 > awful. Feel a small head-rush fifteen minutes after taking the
 > supplement, and within a half hour I am completely +3. For a while
-> this was a sterner mescaline. Saw the eternal, continual making of
+> this was a sterner [[mescaline]]. Saw the eternal, continual making of
 > choices, all opposites continually in motion with each other. Yin and
 > yang everywhere, giving life to every molecule. The universe itself
 > keeps alive by the action-reaction, the yes-no, the black-white,

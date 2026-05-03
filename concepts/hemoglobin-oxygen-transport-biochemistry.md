@@ -106,7 +106,10 @@ Hemoglobins belong to the globin superfamily, an ancient lineage of heme-binding
 ## Summary
 
 Hemoglobin is an exquisitely optimized molecular machine whose allosteric properties — cooperative binding, Bohr effect, 2,3-BPG regulation, and developmental isoform switching — allow vertebrates to meet the competing demands of O2 loading in the lung and unloading in metabolically diverse tissues. Its structural simplicity (four nearly identical subunits) belies sophisticated regulation, and its genetic vulnerability (single-residue mutations causing devastating disease) reflects the evolutionary trade-off between functional optimization and mutational fragility.
-## Related Topics
+## Related
+
+- [[hemoglobin-vs-myoglobin]]
+- [[query-how-does-hemoglobin-know-when-to-release-oxygen]] Topics
 
 - [[mycorrhizal-fungi]]
 - [[fungal-vacuolar-systems-and-nutrient-transport]]

@@ -17,7 +17,7 @@ The most widely used method for long-term preservation. Developed for fungi by A
 
 ### Protocol
 1. Grow cultures in liquid medium (static or shake) or on [[agar]]
-2. Harvest young, vigorously growing mycelium or spores
+2. Harvest young, vigorously growing [[mycelium]] or spores
 3. Suspend in sterile skim milk (10%) or other protectant (sucrose, inositol, honey, serum)
 4. Transfer to lyophilization ampoules
 5. Freeze at -40C to -80C

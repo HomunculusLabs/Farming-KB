@@ -13,11 +13,17 @@ sources:
 **Source:** Permaculture Design Course, Bill Mollison (1981, Pamphlet VII)
 **Updated:** 2026-04-18
 
+
+
+
 ## Fire Periodicity
 
 Fire has a periodicity specific to the site, depending on two factors: (1) the rate that fuel accumulates on site, and (2) the amount of moisture contained on site. Any ridge top is far more fire prone than valley systems. Vegetation on ridge tops may even be fire-dependent, with species that germinate after fire. Sun-facing sites are more fire prone than shaded slopes.
 
 With 30–40 inches of rainfall, a catastrophic fire occurs about every 25–30 years. The cycle can be changed: the less a site burns, the less likely it is to burn again (more humus, more moisture). The more it burns, the more likely it is to burn again soon, as fire removes moisture-retaining humus and creates fire-prone litter build-up. Natural 30-year fire cycles can collapse to 8–10 year cycles once burning becomes frequent.
+
+
+
 
 ## Defense Sequences
 
@@ -52,6 +58,9 @@ The primary strategy is to **reduce fuel** by creating non-fuel surfaces (roads,
 - Mulches are not a fire risk (at most half-inch surface smolder)
 - Work from valleys upward with plantings of low fuel vegetation
 
+
+
+
 ## Housing Design for Fire
 - Specify fire hardware mesh screens to block large particles
 - Use rolled-under roof sections with gutters below to prevent leaf/ash/snow accumulation
@@ -59,9 +68,15 @@ The primary strategy is to **reduce fuel** by creating non-fuel surfaces (roads,
 - Store fuels and explosives away from living situations, in separate dispersed sheds
 - Never place clients at head of converging valleys or where ridges converge
 
+
+
+
 ## Broader Pattern
 
 Greece was once wet rainforest with enormous oaks and beeches. It became a skeleton through repeated burning. The Mediterranean and much of North Africa have reached terminal fire degradation — the dirt is burned, plants burned, rocks slip downhill, and nothing is left to burn. The task is to reverse this process by re-establishing moisture-holding systems.
+
+
+
 
 ## Related Topics
 

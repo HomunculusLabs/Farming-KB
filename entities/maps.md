@@ -20,7 +20,7 @@ The Multidisciplinary for psychedelic studies (MAPS) is a
 nonprofit research and educational organization founded in 1986 by Rick
 Doblin, PhD. MAPS has served as the primary institutional vehicle for
 the revival of clinical psychedelic research in the United States and
-globally, sponsoring over $150 million in research across MDMA, psilocybin,
+globally, sponsoring over $150 million in research across MDMA, [[psilocybin]],
 cannabis, ibogaine, LSD, ayahuasca, and other substances.
 
 Headquartered in Santa Cruz, California, MAPS operated as a 501(c)(3)
@@ -133,7 +133,7 @@ Pathways, and the Beckley Foundation.
 ## Related Entities
 
 - rick doblin — Founder and Executive Director
-- [[compass-pathways]] — Commercial competitor in psilocybin therapy
+- [[compass-pathways]] — Commercial competitor in [[psilocybin-therapy]]
 - [[roland-griffiths]] — Key psilocybin researcher
 - [[mdma-entity]] — Primary drug compound researched
 - ptsd — Primary target condition

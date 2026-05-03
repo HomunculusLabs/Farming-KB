@@ -79,7 +79,9 @@ Problems arise when hemoglobin quantity, structure, oxidation state, or ligand b
 Anemia reduces total carrying capacity.
 Carbon monoxide blocks binding sites and interferes with unloading.
 Methemoglobin cannot bind oxygen normally.
-## Related Topics
-- [[hemoglobin-and-oxygen-transport]]
+## Related
+
+- [[allosteric-regulation]] Topics
+- [[hemoglobin-oxygen-transport-biochemistry]]
 - [[hemoglobin-vs-myoglobin]]
 - [[hemoglobin-oxygen-transport-biochemistry]]

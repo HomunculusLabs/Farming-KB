@@ -7,7 +7,7 @@ tags: [permaculture, soil-science]
 sources: []
 ---
 ---
-title: "Soils in permaculture design"
+title: "Soils in [[permaculture]] design"
 tags: [permaculture, soils, topsoil, erosion, earthen-construction,
        soil-sampling, nutrient-cycle, microclimate]
 date: 2026-04-25
@@ -53,7 +53,7 @@ pee, shed, molt and die, returning their micro-nutrients to the soil.
 Plants return micro-nutrients by shedding leaves, dropping twigs, and
 eventually falling over when they die. The permaculture designer
 endeavors to return micro-nutrients to the soil through techniques
-such as composting old food, mulching prunings and clippings, and
+such as [[composting]] old food, mulching prunings and clippings, and
 even harvesting their own human waste in sanitary fashion.
 
 ## Topsoil: Formation and Fragility

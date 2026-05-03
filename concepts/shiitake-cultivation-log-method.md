@@ -11,6 +11,8 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
 
+
+
 ## Selecting Logs
 
 Hardwood logs are essential. Oak (especially white oak) is the traditional and preferred species. Other suitable hardwoods include maple, alder, beech, birch, ironwood, and hickory. Avoid softwoods (pine, fir, spruce, cedar) and fruit trees. Logs should be:
@@ -19,6 +21,8 @@ Hardwood logs are essential. Oak (especially white oak) is the traditional and p
 - 3-4 feet long
 - Cut from healthy, living trees during dormancy (late fall through early spring)
 - Inoculated within 2-6 weeks of cutting (before competing fungi colonize)
+
+
 
 ## Inoculation
 
@@ -33,6 +37,8 @@ Hardwood logs are essential. Oak (especially white oak) is the traditional and p
 2. Tap dowel spawn into each hole with a hammer
 3. Seal with wax
 
+
+
 ## Incubation (Spawn Run)
 
 After inoculation, logs enter an incubation period of 6-18 months:
@@ -43,6 +49,8 @@ After inoculation, logs enter an incubation period of 6-18 months:
 - **Temperature**: 50-80 F is acceptable; 60-75 F is ideal for mycelial growth
 - **Ground contact**: Some growers rest logs on bare earth; others elevate on bricks or wire to prevent contamination from soil organisms
 
+
+
 ## Fruiting
 
 Shiitake typically fruits naturally in spring and fall when temperature and moisture fluctuations trigger the mycelium:
@@ -52,9 +60,13 @@ Shiitake typically fruits naturally in spring and fall when temperature and mois
 3. **Harvest window**: Mushrooms appear 7-14 days after soaking
 4. **Rest period**: After fruiting, logs need a rest period of 6-8 weeks before the next forcing cycle
 
+
+
 ## Yield
 
 A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 pound of fresh shiitake per log per year. Total yield over the log's productive life can equal the log's original weight in fresh mushrooms.
+
+
 
 ## Advantages of the Log Method
 
@@ -63,6 +75,8 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 - Produces high-quality, thick-capped mushrooms preferred by chefs
 - No sterilization required (wax sealing prevents contamination)
 - Logs can be integrated into garden landscapes
+
+
 
 ## See Also
 

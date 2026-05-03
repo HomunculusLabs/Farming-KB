@@ -71,7 +71,7 @@ Pathogens become a risk when:
   Salmonella, and Shigella can grow
 - The tea maker has black, slimy biofilms creating anaerobic
   pockets where E. coli can proliferate
-- Compost is not properly made (incomplete composting of manure)
+- Compost is not properly made (incomplete [[composting]] of manure)
 - Fresh manure is used as starting material
 - Too much inoculum is added, causing organisms to grow too fast
   and deplete oxygen

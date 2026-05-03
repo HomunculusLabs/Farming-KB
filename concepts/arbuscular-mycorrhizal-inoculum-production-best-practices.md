@@ -74,7 +74,7 @@ Large-scale production can achieve yields exceeding 8 billion spores per year us
 
 ## Carrier Materials and Formulation
 
-Carrier materials must protect AMF propagules during storage and handling while facilivermicompostinglonization upon application. Expanded clay particles (1-2 mm diameter) are effective carriers that are compatible with automated potting systems. Other carriers include peat-based substrates, vermiculite, perlite, and vermicomposting|compost. The carrier should be free of oomycetes, weed seeds, and fertilizers. The AMF inoculum typically represents a maximum of 0.5% of the final pot volume, making carrier compatibility with standard horticultural practices essential.
+Carrier materials must protect AMF propagules during storage and handling while facilivermicompostinglonization upon application. Expanded clay particles (1-2 mm diameter) are effective carriers that are compatible with automated potting systems. Other carriers include peat-based substrates, vermiculite, perlite, and [[vermicomposting]]|compost. The carrier should be free of oomycetes, weed seeds, and fertilizers. The AMF inoculum typically represents a maximum of 0.5% of the final pot volume, making carrier compatibility with standard horticultural practices essential.
 
 Expanded clay particles (1-2 mm diameter) are effective carriers that are compatible with automated potting systems.
 

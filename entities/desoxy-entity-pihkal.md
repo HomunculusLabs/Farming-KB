@@ -71,7 +71,7 @@ PIHKAL entry #52. 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE.
 > enhancementmescalinee eyes-closed imagery to music was noteworthy.
 > Thinking skills and conversation seemed to be fully under control, if
 > not enhanced. There was none of the colorful psychedelic world of
-> mescaline, but this might be just around the corner; perhaps with a
+> [[mescaline]], but this might be just around the corner; perhaps with a
 > larger dose. This is a comfortable in-between level. Sleep was not
 > possible at the sixth hour, but two hours later, it was easy and very
 > restful. There was no negative price to pay the next day.
@@ -91,7 +91,7 @@ This is not the first time that oxygen atoms have been removed from the mescalin
 
 The 3-carbon chain amphetamines that correspond to these mescaline look-alikes with one or more methoxy groups replaced with methyl groups, are largely untested and would require independent and novel syntheses. The 3,4,5-trimethylamphetamine is known, and is known to be very hard on experimental cats.
 
-A mescaline analogue with a bromo atom in place of the 4-methoxyl group is an analogue of mescaline in exactly the sserotoninhat DOB (a very potent am-phetamine) is an analog of TMA-2 (the original trisubstituted amphetamine). This analogue, 3,5-dimethoxy-4-bromoamphetamine, has been found to be a most effective serotonin agonist, and it is a possibility that it could be a most potent phenethylamine. But, as of the present time, it has never been assayed in man.
+A mescaline analogue with a bromo atom in place of the 4-methoxyl group is an analogue of mescaline in exactly the sserotoninhat DOB (a very potent am-phetamine) is an analog of TMA-2 (the original trisubstituted amphetamine). This analogue, 3,5-dimethoxy-4-bromoamphetamine, has been found to be a most effective [[serotonin]] agonist, and it is a possibility that it could be a most potent phenethylamine. But, as of the present time, it has never been assayed in man.
 
 ## Synthesis
 

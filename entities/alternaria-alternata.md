@@ -52,7 +52,7 @@ recognized as
 a common component of leaf litter fungal communities and as a
 saprotrophic decomposer in soil ecosystems. The species
 contributes to
-decomposition of plant debris and participates in nutrient cycling in
+[[decomposition]] of plant debris and participates in nutrient cycling in
 both agricultural and natural ecosystems.
 
 # Radiation Resistance and Chernobyl Strains
@@ -112,7 +112,7 @@ production of conidia dispersed by wind and rain splash.
 The intraspecific genomic variation observed in Chernobyl strains
 of
 Alternaria alternata represents an important area of study at the
-intersection of mycology, radiation biology, and evolutionary
+intersection of [[mycology]], radiation biology, and evolutionary
 ecology.
 Mironenko et al. (2000) documented differences in genomic
 structure

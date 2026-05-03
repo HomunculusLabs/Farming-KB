@@ -82,4 +82,4 @@ Gradually reduce humidity over 7 to 10 days by propping the dome open incrementa
 - [[query-how-to-grow-medicinal-herbs-at-home]]
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
 - [[query-how-to-make-herbal-infused-oils-at-home]]
-- query how do i use woody herb cuttings for plant propagation
+- query how do i use woody herb cuttings for [[plant-propagation]]

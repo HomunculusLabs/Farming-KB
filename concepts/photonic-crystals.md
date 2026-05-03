@@ -95,7 +95,10 @@ In geology, opal color comes from ordered silica spheres acting as a natural pho
 In art and design, structural color offers a material vocabulary based on geometry and light.
 The concept also matters philosophically because it shows that form can function as a physical property.
 
-## Related Concepts
+## Related
+
+- [[query-how-do-photonic-crystals-create-structural-color]]
+- [[photonic-crystals-vs-metamaterials]] Concepts
 [[electromagnetic-induction-faraday-law]] connects photonic crystals to the broader theory of electromagnetic fields.
 [[wavelet-transform]] is useful in analyzing spatial and spectral features of optical signals.
 [[topological-insulators]] provides analogies for topological photonic edge states.

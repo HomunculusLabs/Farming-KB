@@ -29,7 +29,7 @@ restricted to a single species. Understanding these
 recognition mechanisms is essential for elucidating the
 ecology and evolution of [[zoosporic-mycoparasites-aquatic-fungi]],
 terrestrial [[zoopagales-dimargaritales-zygomycete-mycoparasites]],
-and biocontrol agents such as Trichoderma.
+and biocontrol agents such as [[trichoderma]].
 
 ## Mechanisms of Host Recognition
 

@@ -56,7 +56,7 @@ that spans the entire plant lifecycle, from early vegetative structural
 training through flowering canopy management. The broader practice
 includes structural methods like topping (removing the apical meristem
 to create two main colas), fimming (pinching the growth tip to produce
-three to four colas), low-stress training (bending branches to create an
+three to four colas), [[low-stress-training]] (bending branches to create an
 even canopy), and repeated topping for bush-style training. Each of
 these methods serves a different purpose: controlling plant height,
 increasing cola count, manipulating canopy shape for light distribution,

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 # Zone Planning: Frequency, Visit Distance, and Placement
-Zoning is the permaculture method of placing components
+Zoning is the [[permaculture]] method of placing components
 according to the frequency of human visits required. Zones
 are not concentric rings but frequency zones determined by
 how often you need to visit a plant, animal, or structure,

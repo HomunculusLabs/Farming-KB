@@ -108,7 +108,7 @@ is prioritized by degree of cleanliness:
 
 The hot scalpel tip and freshly poured media plates should
 be kept upstream of the mushroom being cloned or the
-mycelium being transferred. One should always presume
+[[mycelium]] being transferred. One should always presume
 hands are replete with contaminants, no matter how many
 times they have been disinfected.
 

@@ -7,7 +7,7 @@ sources: [~/wiki/raw/papers/bill-mollison-permaculture-design-course.md]
 ---
 
 Soil conditioning is the process of opening compacted soil to
-restore its forest-like absorption capacity. In permaculture, the
+restore its forest-like absorption capacity. In [[permaculture]], the
 primary aim is to store water in the soil rather than allowing it
 to run off. The Wallace soil conditioner (Yeomans plow), a chisel
 plow with narrow shanks, is the primary mechanical tool, though

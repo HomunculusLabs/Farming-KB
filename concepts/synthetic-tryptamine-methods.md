@@ -10,14 +10,14 @@ sources:
 
 # Synthetic Tryptamine Methods
 
-The synthesis of substituted tryptamines documented throughout TIHKAL follows a set of recurring methodologies that [[alexander-shulgin]] refined and systematized over decades of underground research. These methods form the backbone of modern tryptamine chemistry, enabling systematic exploration of the structure-activity landscape.
+The synthesis of substituted tryptamines documented throughout TIHKAL follows a set of recurring methodologies that [[alexander-shulgin]] refined and systematized over decades of underground research. These methods form the backbone of modern [[tryptamine]] chemistry, enabling systematic exploration of the structure-activity landscape.
 
 ## The Indoleglyoxylamide Method (Primary Route)
 
 The most frequently used pathway in TIHKAL, applied to the majority of tryptamine entries, proceeds in three steps:
 
 **Step 1: Formation of indol-3-ylglyoxyl chloride**
-The substituted indole is reacted with oxalyl chloride in anhydrous benzene or toluene under inert atmosphere. The reaction is typically stirred at room temperature or gently heated, and the product precipitates as a yellow-orange solid. This intermediate is sensitive to moisture and must be used promptly.
+The substituted [[indole]] is reacted with oxalyl chloride in anhydrous benzene or toluene under inert atmosphere. The reaction is typically stirred at room temperature or gently heated, and the product precipitates as a yellow-orange solid. This intermediate is sensitive to moisture and must be used promptly.
 
 **Step 2: Amine condensation to the glyoxylamide**
 The glyoxyl chloride is treated with the desired secondary amine (dimethylamine, diethylamine, diisopropylamine, etc.) either as a gas bubbled through the solution or as an aqueous/alcoholic solution. The product is the substituted indol-3-ylglyoxylamide, typically crystallized and characterized before proceeding.
@@ -65,7 +65,7 @@ Primary tryptamines can be N-methylated through formylation followed by LAH redu
 - LAH is pyrophoric and must be handled under inert atmosphere with rigorous exclusion of moisture
 - Many free-base tryptamines are sensitive to air oxidation; stpsilocin hydrochloride or other stable salt form is preferred
 - Oxalyl chloride is a corrosive lachrymator requiring fume hood work
-- The 4-hydroxy tryptamines (psilocin family) are particularly oxidation-sensitive and may require immediate use or careful stabilization
+- The 4-hydroxy tryptamines ([[psilocin]] family) are particularly oxidation-sensitive and may require immediate use or careful stabilization
 
 ## See Also
 
@@ -96,7 +96,7 @@ TIHKAL is organized as a systematic tour through the tryptamine structure-activi
 - **Route dependency** (oral vs. smoked vs. insufflation vs. injected)
 - **Qualitative character** (visual, auditory, somatic, cognitive, emotional dimensions)
 
-Shulgin's commentary sections explicitly frame new compounds as experiments testing specific SAR hypotheses. For example, the comparison between MIPT (oral, active) and MPT (oral, inactive) tests the role of amine branching in conferring oral activity. The comparison between 5-MeO-DMT and 5-MeS-DMT tests whether sulfur substitution enhances potency in tryptamines as it does in phenethylamines (answer: it does not).
+Shulgin's commentary sections explicitly frame new compounds as experiments testing specific SAR hypotheses. For example, the comparison between MIPT (oral, active) and MPT (oral, inactive) tests the role of amine branching in conferring oral activity. The comparison between [[5-meo-dmt]] and 5-MeS-DMT tests whether sulfur substitution enhances potency in tryptamines as it does in phenethylamines (answer: it does not).
 
 ## The Numbering Convention and Chemical Precision
 

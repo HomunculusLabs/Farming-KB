@@ -20,7 +20,7 @@ Typical biogas from a well-managed digester:
 | Trace gases | <0.5% | Hydrogen, ammonia, oxygen |
 The energy content of biogas is roughly 600 BTU per cubic foot (compared to 1,000 BTU for pure methane and 1,030 BTU for natural gas). A typical small digester produces 1-3 cubic meters of biogas per day, enough for 2-4 hours of cooking.
 ## The Anaerobic Digestion Process
-Four stages of microbial decomposition occur in sequence:
+Four stages of microbial [[decomposition]] occur in sequence:
 ### 1. Hydrolysis
 Complex organic molecules (cellulose, proteins, fats) are broken down into simpler soluble compounds by hydrolytic bacteria. This is often the rate-limiting step, especially for fibrous feedstocks. Temperature range: psychrophilic (55-68F), mesophilic (85-105F), or thermophilic (120-140F).
 ### 2. Acidogenesis

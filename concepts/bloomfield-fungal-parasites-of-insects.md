@@ -24,7 +24,7 @@ movies, and that they provoke our darkest imaginings about alien life."
 The genus Cordyceps contains some of the most extraordinary parasites on Earth.
 Cordyceps species infect insects by penetrating the exoskeleton, then grow
 within the host's body, consuming non-vital tissues until the insect is filled
-with fungal mycelium. At a critical moment, the fungus hijacks the insect's
+with fungal [[mycelium]]. At a critical moment, the fungus hijacks the insect's
 nervous system, compelling it to climb upward and clamp its mandibles onto a
 leaf, twig, or stem -- a behavior called the "death grip" or summit disease.
 The fungus then kills the host and erupts from its body as a stalk-like
@@ -79,10 +79,10 @@ confusion:
 
 - **[[beauveria-bassiana]]** (asexual stage) produces white powdery conidia on
   dead insects. Its teleomorph was later identified as Cordyceps bassiana.
-  Beauveria is now widely used as a biological control agent against
+  [[beauveria]] is now widely used as a biological control agent against
   agricultural pests.
 
-- **Metarhizium anisopliae** (asexual stage) is a green-spored fungus that
+- **[[metarhizium]] anisopliae** (asexual stage) is a green-spored fungus that
   kills a wide range of insects including beetles, termites, and grasshoppers.
   Its teleomorph is Metacordyceps. It has been investigated as a biological
   weapon against malaria-carrying mosquitoes and crop-damaging locusts.

@@ -16,7 +16,7 @@ Various techniques are available, each with distinct advantages and disadvantage
 
 ## Rationale for Inoculum Reduction
 
-Valid experimental evaluation of AM fungal function requires control treatments where the contribution of indigenous AMF is minimized. Without inoculum reduction, the presence of native AMF propagules confounds measurements of colonization, plant growth response, and nutrient uptake attributed to experimental inoculation. It is important to distinguish between soil sterilization (which aims to destroy all microorganisms while preserving soil physical and chemical properties) and inoculum reduction (which aims to suppress mycorrhizal formation without necessarily eliminating all microorganisms).
+Valid experimental evaluation of AM fungal function requires control treatments where the contribution of indigenous AMF is minimized. Without inoculum reduction, the presence of native AMF propagules confounds measurements of colonization, plant growth response, and nutrient uptake attributed to experimental inoculation. It is important to distinguish between soil [[sterilization]] (which aims to destroy all microorganisms while preserving soil physical and chemical properties) and inoculum reduction (which aims to suppress mycorrhizal formation without necessarily eliminating all microorganisms).
 
 Without inoculum reduction, the presence of native AMF propagules confounds measurements of colonization, plant growth response, and nutrient uptake attributed to experimental inoculation.
 
@@ -107,5 +107,5 @@ Complete sterilization (autoclaving, gamma irradiation) provides the most effect
 Moderate methods (pasteurization, chemical suppression) offer compromises between inoculum reduction and soil preservation.
 ## See Also
 
-- [[mycorrhizal-inoculum-reduction-techniques-comparative]]
+- mycorrhizal inoculum reduction techniques comparative
 - [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]

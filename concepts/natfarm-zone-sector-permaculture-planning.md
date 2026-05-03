@@ -56,7 +56,7 @@ Zone 3 is for rural areas and properties that are larger. This is where you
 would have a larger, unpruned orchard and other trees that act as a
 windbreak for the house. The goat pen and beehives are placed here, and the
 area is full of living mulches, plants for animal fodder, and firebreaks.
-Water is stored in the soil in swale-design|swales, or it is caught
+Water is stored in the soil in [[swale-design]]|swales, or it is caught
 with small dams and sent through ditches rather than pipes. The barn would
 be located here, and this is where you would raise cash crops and animals
 that are going to be sold for profit.

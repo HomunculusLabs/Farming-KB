@@ -69,7 +69,7 @@ It lets one enzyme serve as a computational node that weighs substrate availabil
 
 ## Receptors and Pharmacology
 
-In psilocybin serotonin 5ht2a, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
+In [[psilocybin]] [[serotonin]] 5ht2a, allosteric modulators bind outside the endogenous ligand site and modify receptor response. A positive allosteric modulator increases the potency, affinity, efficacy, or signaling duration of an endogenous agonist.
 
 A negative allosteric modulator decreases response without necessarily displacing the endogenous ligand. A silent allosteric modulator occupies an allosteric site but has little direct effect until it blocks another modulator.
 

@@ -69,8 +69,8 @@ and bronze colours contrasting with the white wax-coated seeds.
 - Rapid establishment and early productivity
 
 ## Relevance
-Chinese tallow tree is a remarkably versatile species for permaculture systems
-requiring flood-tolerant, multi-purpose trees. Its ability to produce both
+Chinese tallow tree is a remarkably versatile species for [[permaculture]] systems
+requiring flood-tolerant, [[multi-purpose-trees]]. Its ability to produce both
 high-quality firewood (through coppicing) and valuable seed wax, combined
 with exceptional environmental tolerance, makes it valuable for difficult
 sites. However, its weedy potential requires careful management in sensitive

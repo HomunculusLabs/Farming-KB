@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/purdue-home-gardeners-guide.md]
 
 # Composting
 
-Composting is the biological decomposition of organic materials into a stable,
+Composting is the biological [[decomposition]] of organic materials into a stable,
 dark, earthy product called compost or humus. It is one of the most effective
 and accessible ways for home gardeners to recycle yard and kitchen waste, reduce
 landfill contributions, and produce a valuable soil amendment. The process is
@@ -132,7 +132,7 @@ bone meal.
 
 ## Vermicomposting
 
-Vermicomposting uses earthworms, typically red wigglers (Eisenia fetida), to
+[[vermicomposting]] uses earthworms, typically red wigglers (Eisenia fetida), to
 process organic waste in enclosed bins. This method is ideal for apartment
 dwellers and those with limited outdoor space. Worms consume kitchen scraps and
 produce castings (vermicompost), which is richer in plant-available nutrients

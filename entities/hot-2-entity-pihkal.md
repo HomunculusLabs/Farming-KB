@@ -97,12 +97,12 @@ crystals started to form. These were removed by filtration, washed
 with Et2O, and air dried to constant weight. Thus was obtained 2.86 g
 2,5-dimethoxy-4-ethylthio-N-hydroxyphenethylamine hydrochloride
 (HOT-2) as off-white crystals, with a melting point of 122 deg C with
-decomposition. Anal. (C12H20ClNO3 S) H; C: calcd, 49.05; found,
+[[decomposition]]. Anal. (C12H20ClNO3 S) H; C: calcd, 49.05; found,
 50.15, 49.90.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna tryptamine research varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin safety principles and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[tryptamine]] research varies by jurisdiction.
 
 ## See Also
 

@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-text
 
 ## Overview
 
-Microsoft Word has used several proprietary and open document formats since its
+[[microsoft-word]] has used several proprietary and open document formats since its
 initial release in 1983. The evolution of these formats reflects broader shifts
 in software interoperability, open standards adoption, and the competition
 between Microsoft and other office suite vendors.

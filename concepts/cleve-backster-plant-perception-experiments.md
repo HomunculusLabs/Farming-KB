@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 
 # Cleve Backster's Plant Perception Experiments
 
-Cleve Backster, America's foremost polygraph examiner, discovered in 1966
+[[cleve-backster]], America's foremost polygraph examiner, discovered in 1966
 that plants appear capable of sensing human thoughts and emotions, detecting
 threats, recognizing individuals, and even responding to the death of living
 cells at a distance. His work, known as the "Backster Effect," opened a new

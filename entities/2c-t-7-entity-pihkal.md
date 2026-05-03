@@ -10,9 +10,15 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #43. 2,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE.
 
+
+
+
 ## Chemical Name
 
 2,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE
+
+
+
 
 ## Dosage and Duration
 
@@ -21,9 +27,15 @@ PIHKAL entry #43. 2,5-DIMETHOXY-4-(n)-PROPYLTHIOPHENETHYLAMINE.
 | Dosage | 10 - 30 mg. |
 | Duration | 8 - 15 h. |
 
+
+
+
 ## Qualitative Comments
 
 No qualitative comments recorded.
+
+
+
 
 ## Extensions and Commentary
 
@@ -34,6 +46,9 @@ One Tweetio related to 2C-T-7 has been made and evaluated. This is the 2-EtO-hom
 The unusual properties of a number of N-methyl-N-(i)-propyltryptamines suggested the possibility of something like a similar set of N-methyl-N-(i)-propylphenethylamines. Why not try one from 2C-T-7? The thought was, maybe N-methylate this compound, then put on an isopropyl group with reductive alkylation, using acetone as the carbon source and sodium cyanoborohydride. Towards this end, the free base of 2C-T-7 (from one gram of the hydrochloride) was refluxed for 2 h in 1.3 g butyl formate, and on removing the solvent/reactant the residue spontaneously crystallized. This formamide (0.7 g) was reduced with
 
 lithium hydride in cold THF to provide 2,5-dimethoxy-4-(n)-propyl-N-methyl-phenethylamine, METHYL-2C-T-7, which distilled at 150-170 deg C at 0.4 mm/Hg. A very small amount of the hydrochloride salt was obtained (65 milligrams) and it had a brown color. Too small an amount of an impure product; the entire project was dropped.
+
+
+
 
 ## Synthesis
 
@@ -49,11 +64,17 @@ A solution of LAH (132 mL of a 1 M solution in THF) was cooled, under He, to 0 d
 
 (Additional synthesis details available in source.)
 
+
+
+
 ## Safety Notes
 
 2C-T-7 is a research chemical documented in PIHKAL. Dosage data and
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
+
+
+
 
 ## See Also
 

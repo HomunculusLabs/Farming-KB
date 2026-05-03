@@ -68,7 +68,7 @@ subtropical and warm temperate landscapes.
 - Many fine cultivars available
 
 ## Relevance
-Loquat is a valuable early-season fruit for permaculture food forests,
+Loquat is a valuable early-season fruit for [[permaculture]] food forests,
 producing in spring when few other tree fruits are available. Its
 evergreen habit provides year-round structure, shade, and wind
 protection, while its tolerance of salt spray makes it suitable for

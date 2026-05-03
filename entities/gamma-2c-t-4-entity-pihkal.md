@@ -10,9 +10,13 @@ sources: ["Shulgin - PIHKAL"]
 
 PIHKAL entry #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
 
+
+
 ## Chemical Name
 
 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE)
+
+
 
 ## Dosage and Duration
 
@@ -20,6 +24,8 @@ PIHKAL entry #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
 |----------|-------|
 | Dosage | above 12 mg. |
 | Duration | probably short. |
+
+
 
 ## Qualitative Comments
 
@@ -31,6 +37,8 @@ PIHKAL entry #42. 2,6-DIMETHOXY-4-(i)-PROPYLTHIOPHENETHYLAMINE).
 > and in another quarter hour I am into something. Will this be another
 > forever threshold? I feel very good, but there is no sparkle.
 >
+
+
 
 ## Extensions and Commentary
 
@@ -46,6 +54,8 @@ It goes yet further. The antidepressant series of "Ariadne" compounds are 1-phen
 
 And it goes yet yet further. Think back to the six possible TMA's. TMA and TMA-3 were relatively inactive. And TMA-2 and TMA-6 were the interesting ones. The first gave rise to the last twenty years of psychedelic chemistry, and the other (as speculated upon above) will give rise to the forthcoming ten years. But what of TMA-4 and TMA-5? Both showed activity that was more than TMA but less than that of the -2 or -6 isomers. Could they, some day, provoke yet other families of psychedelics? Maybe the 3-position of these two might be focal points of leverage as to psychological activity. What are the letters that follow y in the Greek alphabet? If I remember correctly, the next letter is the last letter, omega. So, I guess that Nature is trying to tell us something, that the -4 and -5 isomers will not engender interesting families. What a pity. The chemistry is so unthinkably difficult that it would have been a true challenge. My next incarnation, maybe?
 
+
+
 ## Synthesis
 
 A stirred solution of 8.3 g 3,5-dimethoxy-1-chlorobenzene and 7.2 g isopropylsulfide in 100 mL anhydrous Et2O was cooled with an external ice bath, and then treated with 67 mL 1.5 M lithium diisopropylamide in hexane which was added over the course of 10 min. The reaction mixture was allowed to return to room temperature and the stirring was continued for 0.5 h. The mixture was poured into dilute H2SO4, the organic layer was separated, and the aqueous phase extracted with 3x75 mL EtOAc. The organic phases were combined, dried over anhydrous K2CO3, and the solvent removed under vacuum. The resulting 4.54 g of almost colorless oil was distilled at 85-95 deg C at
@@ -60,10 +70,14 @@ A solution of LAH (20 mL of a 1 M solution in THF) was cooled, under He to 0 deg
 
 (Additional synthesis details available in source.)
 
+
+
 ## Safety Notes
 
 gamma-2C-T-4 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited shulgin safety principles. Exercise
 extreme caution. This compound is not approved for human consumption.
+
+
 
 ## See Also
 

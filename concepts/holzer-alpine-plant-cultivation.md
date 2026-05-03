@@ -11,6 +11,9 @@ sources: ["papers/sepp-holzer-practical-guide.md"]
 
 Over years of experience cultivating plants from Alpine regions, Holzer's most important lesson: all events in nature should be observed closely. This is a wonderful activity because you never cease to learn and profit from it.
 
+
+
+
 ## Yellow Gentian (Gentiana lutea)
 
 ### Germination Requirements
@@ -45,6 +48,9 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 - Without digging, roots wear out from age (30-40 years), soil mats and compacts, roots die out
 - Holzer argues protectors should be trained to cultivate and propagate rather than just restrict access
 
+
+
+
 ## Other Alpine Plants Cultivable by This Method
 
 - Spotted gentian (Gentiana punctata)
@@ -55,6 +61,9 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 - Cowberries (Vaccinium vitis-idaea)
 - Bilberries (Vaccinium myrtillus)
 
+
+
+
 ## Key Principles for Alpine Plant Propagation
 
 1. Always take native soil from near parent plant roots (symbiotic fungi required)
@@ -64,6 +73,9 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 5. Compensate for altitude differences by adjusting sowing time
 6. When cultivating at lower altitudes, introduce native soil for mycorrhizal fungi
 7. When sowing in natural environments, native soil is not necessary (fungi already present)
+
+
+
 
 ## General Lesson
 

@@ -15,7 +15,7 @@ sources:
 
 # Argyreia nervosa
 
-**Argyreia nervosa**, commonly known as **Hawaiian Baby Woodrose** (HBW) or **Elephant Creeper**, is a perennial climbing vine in the morning glory family (Convolvulaceae). It is notable for producing the highest natural concentration of lysergic acid amide (LSA) in its seeds — approximately 0.3% by weight, roughly 5–10 times the concentration found in morning glory ([[ipomoea-violacea]]) or ololiuqui ([[turbina-corymbosa]]) seeds. Native to the Indian subcontinent, the plant has become naturalized in tropical and subtropical regions worldwide.
+**Argyreia nervosa**, commonly known as **Hawaiian Baby Woodrose** (HBW) or **Elephant Creeper**, is a perennial climbing vine in the morning glory family (Convolvulaceae). It is notable for producing the highest natural concentration of lysergic acid amide (LSA) in its seeds — approximately 0.3% by weight, roughly 5–10 times the concentration found in morning glory ([[ipomoea-violacea]]) or [[ololiuqui]] ([[turbina-corymbosa]]) seeds. Native to the Indian subcontinent, the plant has become naturalized in tropical and subtropical regions worldwide.
 
 ## Taxonomy
 
@@ -106,7 +106,7 @@ A. nervosa is widely cultivated as an ornamental vine and for seed production:
 
 The total alkaloid content of A. nervosa seeds produces a complex pharmacological interaction:
 
-- **Ergoline receptor profile:** LSA binds to multiple serotonin receptor subtypes (5-HT1A, 5-HT2A, 5-HT2C) with moderate affinity, while LSH has additional affinity for dopamine and adrenergic receptors
+- **Ergoline receptor profile:** LSA binds to multiple [[serotonin]] receptor subtypes (5-HT1A, 5-HT2A, 5-HT2C) with moderate affinity, while LSH has additional affinity for dopamine and adrenergic receptors
 - **Uterotonic activity:** Ergometrine content produces oxytocic effects on uterine smooth muscle, similar to pharmaceutical ergometrine used in obstetrics
 - **Vasoactivity:** Ergoline alkaloids produce peripheral vasoconstriction via 5-HT2A receptor activation on vascular smooth muscle
 - **CNS effects:** The combined agonism at multiple serotonergic, dopaminergic, and adrenergic receptor sites produces the characteristic dreamy-sedating psychoactive experience

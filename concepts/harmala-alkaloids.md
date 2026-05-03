@@ -8,11 +8,11 @@ sources: []
 ---
 # Harmala Alkaloids
 ## Overview
-Harmala alkaloids are a group of beta-carboline compounds found in several plant species, most notably [[banisteriopsis-caapi]] (ayahuasca vine) and Peganum harmala (Syrian rue). These compounds are primarily known for their function as reversible inhibitors of monoamine oxidase (MAOI), which is the key pharmacological mechanism that enables the oral activity of DMT in ayahuasca.
+Harmala alkaloids are a group of beta-carboline compounds found in several plant species, most notably [[banisteriopsis-caapi]] (ayahuasca vine) and [[peganum-harmala]] (Syrian rue). These compounds are primarily known for their function as reversible inhibitors of monoamine oxidase (MAOI), which is the key pharmacological mechanism that enables the oral activity of DMT in ayahuasca.
 The three primary harmala alkaloids are harmine, harmaline, and tetrahydroharmine (THH). Each has distinct pharmacological properties, and their combined action is what makes ayahuasca uniquely effective.
 ## The Three Primary Alkaloids
 ### Harmine
-- Chemical name: 7-methoxy-1-methyl-9H-pyrido[3,4-b]indole
+- Chemical name: 7-methoxy-1-methyl-9H-pyrido[3,4-b][[indole]]
 - Molecular weight: 168.19 g/mol
 - Primary MAOI activity: potent reversible inhibitor of MAO-A
 - Also has affinity for 5-HT2A receptors (psychedelic effects at high doses)
@@ -30,7 +30,7 @@ The three primary harmala alkaloids are harmine, harmaline, and tetrahydroharmin
 - Chemical name: 1-Methyl-1,2,3,4-tetrahydro-beta-carboline
 - Molecular weight: 188.23 g/mol
 - Weaker MAOI activity than harmine or harmaline
-- Potent serotonin reuptake inhibitor (SRI) — similar mechanism to SSRIs
+- Potent [[serotonin]] reuptake inhibitor (SRI) — similar mechanism to SSRIs
 - May contribute significantly to the antidepressant effects reported with ayahuasca
 - Often the most abundant harmala alkaloid in B. caapi
 - Less visual, more euphoric and antidepressant
@@ -53,7 +53,7 @@ The three primary harmala alkaloids are harmine, harmaline, and tetrahydroharmin
 - Has its own traditional use in Middle Eastern folk medicine (as an abortifacient and emmenagogue)
 - Seeds are harmala-rich but lack the complex alkaloid profile of B. caapi
 ### Other Sources
-- **Passiflora incarnata** (passionflower) — contains trace amounts of harmala alkaloids, mild MAOI activity
+- **[[passiflora-incarnata]]** (passionflower) — contains trace amounts of harmala alkaloids, mild MAOI activity
 - **Banisteriopsis quitensis** — related to B. caapi, used in some Andean preparations
 ## MAOI Mechanism
 ### What is MAO?
