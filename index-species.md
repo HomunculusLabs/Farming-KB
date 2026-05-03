@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1206 pages**
+**1214 pages**
 
 ## #
 
@@ -168,6 +168,7 @@
 - [[agaricus-sylvicola]]
 - [[agricultural-mycorrhizae]]
 - [[agrocybe-aegerita-detailed]]
+- [[ak-47-cannabis]]
 - [[al-entity]]
 - [[al-entity-pihkal]]
 - [[al-lad-entity-tihkal]]
@@ -226,6 +227,7 @@
 - [[asb-entity]]
 - [[asb-entity-pihkal]]
 - [[ashwagandha]]
+- [[ashwagandha-withania-somnifera]]
 - [[aspergillus-flavus]]
 - [[aspergillus-fumigatus]]
 - [[aspergillus-niger]]
@@ -335,6 +337,7 @@
 - [[coleus-blumei]]
 - [[colletotrichum-gloeosporioides]]
 - [[comfrey]]
+- [[comfrey-symphytum-officinale]]
 - [[compass-pathways]]
 - [[coniophora-puteana]]
 - [[coniothyrium-minitans]]
@@ -346,6 +349,7 @@
 - [[copelandia-anomalus]]
 - [[copelandia-cambodginiensis]]
 - [[copelandia-cyanescens]]
+- [[copelandia-tropicalis]]
 - [[coprinus-atramentaria]]
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[coprinus-comatus]]
@@ -555,6 +559,7 @@
 - [[gymnopilus-sapineus]]
 - [[gymnopilus-spectabilis]]
 - [[gymnopilus-validipes]]
+- [[gymnopilus-ventricosus]]
 - [[gymnopilus-viridans]]
 - [[gyromitrin]]
 
@@ -697,6 +702,7 @@
 - [[limonene]]
 - [[linalool]]
 - [[lions-mane]]
+- [[lions-mane-hericium-erinaceus]]
 - [[lions-mane-mushroom]]
 - [[lloyd-library]]
 - [[lobaria-pulmonaria]]
@@ -1008,6 +1014,7 @@
 - [[psilocybe-gallaeciae]]
 - [[psilocybe-graecia]]
 - [[psilocybe-guilartensis]]
+- [[psilocybe-heliconia]]
 - [[psilocybe-hermescii]]
 - [[psilocybe-heterophyllia]]
 - [[psilocybe-hispanica]]
@@ -1079,6 +1086,7 @@
 - [[psim-enzyme]]
 - [[psk-polysaccharide-krestin]]
 - [[psychotria-viridis]]
+- [[purple-haze-cannabis]]
 - [[pyr-t-entity-tihkal]]
 - [[pyridoxal-phosphate]]
 - [[pyridoxamine-phosphate]]
