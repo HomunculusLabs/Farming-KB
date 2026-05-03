@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**822 pages**
+**823 pages**
 
 ## A
 
@@ -754,6 +754,7 @@
 - [[natural-farming-desert-reclamation]]
 - [[natural-farming-faa-fertilizer]]
 - [[natural-farming-food-philosophy]]
+- [[natural-farming-four-principles]]
 - [[natural-farming-fpj-preparation]]
 - [[natural-farming-fukuoka]]
 - [[natural-farming-guide-biological-pest-control-predators]]

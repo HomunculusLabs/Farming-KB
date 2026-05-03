@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**827 pages**
+**828 pages**
 
 ## A
 
@@ -550,6 +550,7 @@
 - [[natural-beekeeping-practices]]
 - [[natural-dye-plants]]
 - [[natural-farm-water-conservation-irrigation]]
+- [[natural-orchard-management]]
 - [[natural-pest-deterrents]]
 - [[nehemiah-grew-plant-anatomy]]
 - [[no-pruning-fruit-trees]]

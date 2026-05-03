@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1200 pages**
+**1204 pages**
 
 ## #
 
@@ -314,6 +314,7 @@
 - [[catha-edulis]]
 - [[catharanthus-roseus]]
 - [[cenococcum-geophilum]]
+- [[centella-asiatica]]
 - [[ceratocystis-fimbriata]]
 - [[ceratonia-siliqua]]
 - [[chaetomium-globosum]]
@@ -367,6 +368,7 @@
 
 - [[dactylaria-brochopaga]]
 - [[dactylium-dendroides-entity-the-mushroom-cultivator]]
+- [[damiana-turnera-diffusa]]
 - [[daniel-chamovitz]]
 - [[datura-candida]]
 - [[datura-innoxia]]
@@ -597,6 +599,7 @@
 
 ## I
 
+- [[ibogaine]]
 - [[ibogaine-entity-tihkal]]
 - [[ibotenic-acid]]
 - [[ice-cream-bean-entity]]
@@ -1206,6 +1209,7 @@
 - [[tp-entity]]
 - [[tp-entity-pihkal]]
 - [[tradd-cotter]]
+- [[trainwreck-cannabis]]
 - [[trametes-hirsuta]]
 - [[trametes-versicolor]]
 - [[tremella-aurantia]]

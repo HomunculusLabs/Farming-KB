@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**378 pages**
+**380 pages**
 
 ## A
 
@@ -293,6 +293,7 @@
 - [[no-till-grain-growing]]
 - [[no-till-grain-growing-methods]]
 - [[no-till-grain-strategy]]
+- [[no-till-rice-winter-grain-succession]]
 - [[no-tillage-grain-systems]]
 - [[nutrient-cycling-in-soil]]
 - [[nutrient-dense-gardening]]
@@ -372,6 +373,7 @@
 - [[soil-health-management]]
 - [[soil-life]]
 - [[soil-microbiology-basics]]
+- [[soil-microorganisms-natural-fertility]]
 - [[soil-microscope-analysis]]
 - [[soil-nutrient-cycling]]
 - [[soil-ph-management]]
