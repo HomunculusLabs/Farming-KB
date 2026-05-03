@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1180 pages**
+**1190 pages**
 
 ## #
 
@@ -278,6 +278,7 @@
 - [[boletus-pinophilus]]
 - [[bom-entity]]
 - [[bom-entity-pihkal]]
+- [[boswellia-serrata]]
 - [[botrytis-cinerea]]
 - [[brassinosteroid]]
 - [[bri1]]
@@ -376,6 +377,7 @@
 - [[dennis-mckenna]]
 - [[derris-indica]]
 - [[desfontainia-spinosa]]
+- [[desmanthus-illinoensis]]
 - [[desoxy-entity]]
 - [[desoxy-entity-pihkal]]
 - [[det-entity-tihkal]]
@@ -556,6 +558,7 @@
 - [[harmine-entity-tihkal]]
 - [[hebeloma-crustuliniforme]]
 - [[heimia-salicifolia]]
+- [[heimia-salicifolia-entity]]
 - [[hericium-coralloides]]
 - [[hericium-erinaceus]]
 - [[heterobasidion-annosum]]
@@ -825,6 +828,7 @@
 - [[mycoremediation]]
 - [[myrcene]]
 - [[myristica-fragrans]]
+- [[myristicin-entity]]
 
 ## N
 
@@ -848,6 +852,7 @@
 
 ## O
 
+- [[ocimum-sanctum]]
 - [[ocimum-tenuiflorum]]
 - [[octavia-e-butler]]
 - [[og-kush]]
@@ -897,6 +902,7 @@
 - [[permaculture]]
 - [[persimmon-entity]]
 - [[peter-oei]]
+- [[phalaris-aquatica]]
 - [[phallus-impudicus-entity]]
 - [[phanerochaete-chrysosporium]]
 - [[phanerochaete-velutina]]
@@ -910,6 +916,7 @@
 - [[phosphoryl-chloride]]
 - [[physarum-polycephalum]]
 - [[pichia-stipitis]]
+- [[pineapple-express-entity]]
 - [[pinene]]
 - [[piper-methysticum]]
 - [[piptoporus-betulinus]]
@@ -1108,6 +1115,7 @@
 - [[sarcodon-imbricatus]]
 - [[sb-entity-pihkal]]
 - [[sceletium-tortuosum]]
+- [[schisandra-chinensis]]
 - [[schizophyllan]]
 - [[schizophyllum-commune]]
 - [[sclerotinia-sclerotiorum]]
@@ -1216,6 +1224,7 @@
 - [[tuber-melanosporum]]
 - [[turbina-corymbosa]]
 - [[two-ag]]
+- [[typha-latifolia-entity]]
 
 ## U
 
@@ -1238,6 +1247,7 @@
 - [[virodhamine]]
 - [[virola-theiodora]]
 - [[voacanga-africana]]
+- [[voacangine-entity]]
 - [[volvariella-volvacea]]
 
 ## W

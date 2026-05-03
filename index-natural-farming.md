@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**817 pages**
+**820 pages**
 
 ## A
 
@@ -230,6 +230,7 @@
 - [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-natural-diet-principles]]
 - [[fukuoka-natural-diet-theory]]
+- [[fukuoka-natural-ecosystem-food-chain-interconnection]]
 - [[fukuoka-natural-farming]]
 - [[fukuoka-natural-farming-four-principles]]
 - [[fukuoka-natural-farming-global-influence]]
@@ -325,12 +326,14 @@
 - [[fukuoka-philosophy-in-practice]]
 - [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-philosophy-of-non-intervention]]
+- [[fukuoka-phyllotaxy-natural-branching-law]]
 - [[fukuoka-pine-bark-weevil-ecology]]
 - [[fukuoka-pine-environment-collapse-japan]]
 - [[fukuoka-pine-rot-root-cause]]
 - [[fukuoka-pit-of-knowledge]]
 - [[fukuoka-pollution-conference-modest-solution]]
 - [[fukuoka-problems-darwin-evolution]]
+- [[fukuoka-pruning-cascade-self-perpetuating-cycle]]
 - [[fukuoka-pruning-fruit-tree-natural-management]]
 - [[fukuoka-quarter-acre-farmer-do-nothing-farming]]
 - [[fukuoka-reflections-on-japanese-character]]

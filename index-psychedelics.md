@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**954 pages**
+**955 pages**
 
 ## #
 
@@ -239,6 +239,7 @@
 - [[field-guide-psilocybin-dosage-extraction-cultivation]]
 - [[four-families-of-indole-hallucinogens]]
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
+- [[fukuoka-flavor-philosophy-spiritual-alienation-food]]
 - [[fukuoka-india-visit-agriculture-spirituality]]
 - [[fukuoka-morishima-acacia-orchard-integration]]
 - [[fukuoka-natural-farming-spiritual-light]]
