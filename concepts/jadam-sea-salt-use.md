@@ -55,6 +55,23 @@ Fields, rice paddies, and orchards near the sea have been showered with sea wate
 
 JADAM uses sea water together with phyllite solution (fine-powdered phyllite rock). Add 60 kg of phyllite powder to 500 L of water, stir, let settle, and use the upper water. Phyllite contains almost all inorganic nutrients required by plants. Together with sea water, the soil will never be richer in minerals.
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## See Also
 
 - [[jadam-ultra-low-cost-methods]]

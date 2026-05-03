@@ -9,11 +9,9 @@ sources: [jadam-organic-farming-ultra-low-cost-agriculture.md]
 ## Overview
 JADAM Microorganism Solution (JMS) is the cornerstone input of JADAM
 organic farming, a Korean ultra-low-cost agricultural system developed
-by Young-sang Cho. JMS is produced by culturing indigenous
-microorganisms collected from local leaf mold using simple, affordable
+by Young-sang Cho. JMS is produced by culturing [[indigenous-microorganisms]] collected from local leaf mold using simple, affordable
 ingredients and methods accessible to any farmer. The solution contains
-diverse microbial populations including photosynthetic bacteria, lactic
-acid bacteria, yeast, actinobacteria, hay bacillus, and Bacillus natto,
+diverse microbial populations including photosynthetic bacteria, [[lactic-acid-bacteria]], yeast, actinobacteria, hay bacillus, and Bacillus natto,
 all of which are anaerobic organisms that benefit farming when applied
 to soil or plant surfaces.
 The JADAM approach to microbial cultivation fundamentally rejects the

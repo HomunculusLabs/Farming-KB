@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Pyridoxal phosphate, usually abbreviated PLP, is the active aldehyde-phosphate coenzyme form of vitamin B6.
+[[pyridoxal-phosphate]], usually abbreviated PLP, is the active aldehyde-phosphate coenzyme form of vitamin B6.
 
 It is best known for amino acid chemistry, where it helps enzymes move, remove, or transform groups attached to the alpha carbon.
 
@@ -52,7 +52,7 @@ PLP therefore supplies general chemical capability, while the protein supplies r
 ## Transamination
 Aminotransferases use PLP to transfer an amino group from an amino acid to an alpha-keto acid.
 
-In the first half-reaction, the amino acid donates its amino group to PLP, converting PLP into pyridoxamine phosphate, or PMP.
+In the first half-reaction, the amino acid donates its amino group to PLP, converting PLP into [[pyridoxamine-phosphate]], or PMP.
 
 The carbon skeleton of the amino acid leaves as a corresponding keto acid.
 
@@ -114,7 +114,7 @@ Levodopa therapy can be affected by peripheral aromatic amino acid decarboxylase
 
 Vigabatrin is an antiepileptic that irreversibly inhibits GABA transaminase, raising brain GABA levels.
 
-Eflornithine inhibits ornithine decarboxylase and shows how PLP enzyme inhibition can be therapeutically useful.
+Eflornithine inhibits ornithine decarboxylase and shows how PLP [[enzyme-inhibition]] can be therapeutically useful.
 
 Because PLP enzymes are widespread, selectivity is a major medicinal chemistry challenge.
 

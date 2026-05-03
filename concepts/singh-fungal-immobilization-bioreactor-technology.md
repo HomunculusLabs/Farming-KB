@@ -20,8 +20,7 @@ By confining fungal cells or their extracellular enzymes to a solid
 support matrix, immobilization enhances operational stability, enables
 biomass reuse across multiple treatment cycles, facilitates product
 separation, and permits continuous-flow reactor operation. These
-advantages are critical for translating laboratory-scale fungal
-bioremediation into industrially viable wastewater treatment processes.
+advantages are critical for translating laboratory-scale [[fungal-bioremediation]] into industrially viable wastewater treatment processes.
 ## Principles of Fungal Immobilization
 Fungal immobilization involves the entrapment, attachment, or
 encapsulation of fungal cells, spores, or purified enzymes within or
@@ -32,8 +31,7 @@ fungal viability and enzymatic activity while providing mechanical
 stability and mass transfer of substrates and products.
 ## Immobilization Methods
 ### Entrapment in Natural Polymers
-- **Calcium alginate beads**: The most widely used method. Fungal
-  spores or mycelial fragments are mixed with sodium alginate solution
+- **Calcium alginate beads**: The most widely used method. [[fungal-spores]] or mycelial fragments are mixed with sodium alginate solution
   and extruded dropwise into calcium chloride solution, forming
   spherical gel beads (2-5 mm diameter). Alginate entrapment preserves
   cell viability and allows diffusion of nutrients and pollutants.

@@ -12,8 +12,7 @@ type: concept
 # Cannabis and Gastrointestinal Disorders: IBS, Crohn's, and Colitis
 
 The gastrointestinal (GI) tract contains the highest density of cannabinoid
-receptors in the body -- even surpassing the brain. In "The Cannabis Health
-Index," [[uwe-blesching]] devotes extensive coverage to the role of the
+receptors in the body -- even surpassing the brain. In "The [[cannabis-health-index]]," [[uwe-blesching]] devotes extensive coverage to the role of the
 blesching [[cannabis-endocannabinoid-system]] (ECS) in digestive health and
 the therapeutic potential of cannabis for GI disorders including irritable
 bowel syndrome (IBS), Crohn's disease, and ulcerative colitis.
@@ -32,7 +31,7 @@ receptors throughout the GI tract:
   lymphoid tissue (GALT). Modulate intestinal inflammation and immune
   responses.
 
-The gut also produces its own endocannabinoids, primarily anandamide (AEA)
+The gut also produces its own endocannabinoids, primarily [[anandamide-aea]])
 and 2-AG, which locally regulate GI motility, inflammation, and epithelial
 integrity. Blesching notes that clinical endocannabinoid deficiency in the
 gut may underlie numerous digestive disorders. See

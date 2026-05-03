@@ -17,7 +17,7 @@ Its influence can be seen in modernist architecture, graphic design, product des
 The Bauhaus was not a single style so much as a method and institutional experiment.
 It asked how art could respond to industrial society without losing human imagination.
 ## Founding principles
-Walter Gropius founded the Bauhaus in Weimar after World War I.
+[[walter-gropius]] founded the Bauhaus in Weimar after World War I.
 He merged the Grand Ducal School of Arts and Crafts with the Weimar Academy of Fine Art.
 The founding manifesto called for a unity of art, craft, and architecture.
 Medieval guilds provided one symbolic model for collaborative workshop practice.
@@ -69,7 +69,7 @@ Wassily Kandinsky connected abstraction with spiritual and perceptual theory.
 Laszlo Moholy-Nagy promoted photography, light, technology, and experimental media.
 Josef Albers developed rigorous studies of color and material perception.
 Marcel Breuer designed influential tubular steel furniture.
-Anni Albers transformed textile design through structure, pattern, and material research.
+[[anni-albers]] transformed textile design through structure, pattern, and material research.
 Oskar Schlemmer explored the human body through theater and geometric costume.
 ## Weimar period
 The Bauhaus began in Weimar in a politically fragile postwar environment.

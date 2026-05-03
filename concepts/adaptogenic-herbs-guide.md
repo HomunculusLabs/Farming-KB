@@ -110,7 +110,7 @@ Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for 
 Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
 
 ### Key Compounds
--[[beta-glucans]]sides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
+- **Eleutherosides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
 - **Polysaccharides:** Immune-modulating beta-glucans.
 - **Lignans:** Including syringaresinol with antioxidant activity.
 
@@ -128,13 +128,3 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 - **Dried root powder:** 2-4g per day.
 - **Tincture:** 2-4ml, 2-3 times daily.
 - Take consistently for 4-8 weeks for full adaptogenic effects.
-
-### Contraindications
-- Caution with cardiovascular conditions and hypertension (some reports of palpitations). Autoimmune conditions. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
-
----
-
-## Maca (Lepidium meyenii)
-
-### Overview
-Root vegetable from the high Andes of Peru, cultivated at altitudes above 3,500 meters. Used as food and medicine by indigenous Andean peoples for over 2,000 years. Not a true adaptogen by strict definition (lacks HPA axis modulation) but commonly classified as one due to its stress-resistance and vitality-enhancing properties. Three main varieties: yellow (most common), red, and black (each with slightly different properties).

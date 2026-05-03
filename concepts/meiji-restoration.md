@@ -1,3 +1,8 @@
+---
+title: Meiji Restoration
+sources: []
+---
+
 # Meiji Restoration
 
 ## Overview

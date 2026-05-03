@@ -54,6 +54,23 @@ Holzer emphasizes choosing species adapted to the local climate and microconditi
 
 The pig-grazing step in the planting process exemplifies Holzer's integrated approach. Pigs simultaneously loosen compacted soil, fertilize it with manure, and consume weed roots and pest larvae. After the initial soil preparation, poultry can be introduced to control insect pests among the young trees. Sheep and goats should be excluded until trees are well-established, as they will browse on young bark and shoots. See [[holzer-livestock-integration]] for detailed guidance on combining animals with tree crops.
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## Related
 
 - [[fruit-tree-grafting-guide]]

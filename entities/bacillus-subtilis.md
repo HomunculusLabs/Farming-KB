@@ -91,11 +91,11 @@ specialty chemicals. Premier model organism for Gram-positive cell biology.
 ## Agricultural Applications
 
 Widely used as biofertilizer and biopesticide. Strain QST 713 (Serenade® by
-Bayer) suppresses pathogens (*Botrytis*, powdery mildews) via lipopeptide
+Bayer) suppresses pathogens (*Botrytis*, [[biodiversity-powdery-mildews]]) via lipopeptide
 antibiotics (iturin, surfactin, fengycin), competitive exclusion, and ISR.
 Solubilizes insoluble phosphate and produces IAA for root growth stimulation.
 Biofertilizer formulations used globally for cereals, vegetables, fruits, and
-ornamentals, often combined with mycorrhizal fungi for synergistic effects.
+ornamentals, often combined with [[mycorrhizal-fungi]] for synergistic effects.
 
 ## Medical and Pharmaceutical Significance
 

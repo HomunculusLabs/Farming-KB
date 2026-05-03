@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushroom
 
 # Fungal Sexual Reproduction and Mating
 
-How fungi find partners, fuse, exchange genetic material, and produce sexual [[spore]]s — from Money's "Mr. Bloomfield's Orchard."
+How fungi find partners, fuse, exchange genetic material, and produce sexual spores — from Money's "Mr. Bloomfield's Orchard."
 
 ## Overview
 
@@ -56,6 +56,23 @@ Palmer noted in 1894 that "the very name cryptogamy shows our ignorance; the sec
 Palmer observed that spores thrown on ground rarely produced mushrooms: "I have thrown the refuse of hundreds of fungi [on soil], and the soil must have received millions of spores, yet not a toadstool of any kind has ever grown there." The transition from spore to mycelium (spawn) remains one of the more poorly understood aspects of fungal biology, with many species requiring specific conditions for successful germination and colonization.
 
 See also: [[fungal-biology-fundamentals]] | [[fungal-spore-biology]] | [[nineteenth-century-mushroom-cultivation]]
+
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
 
 ## Related
 

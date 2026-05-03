@@ -62,6 +62,23 @@ One Psilocybe species documented from northern Algeria (P. mairei). Reports of a
 
 Stamets argues that the production of psilocybin has proven to be a competitive evolutionary advantage. Psilocybin mushrooms "have propelled themselves to the front lines of evolution precisely because of their psilocybin content." The compound may deter predation by invertebrates, or it may confer advantages through its effects on the mammals that disperse their spores.
 
+## Cultivation Notes
+Practical use depends on matching the organism to a suitable substrate, moisture
+regime, temperature range, and contamination-control strategy. Small test blocks
+or trays are preferable before scaling because strain behavior can vary strongly
+with local materials.
+
+## Identification and Safety
+When wild material is involved, identification should rely on multiple traits:
+habitat, season, spore color, microscopic features where appropriate, and
+comparison with known lookalikes. Edibility or medicinal claims should never be
+inferred from appearance alone.
+
+## Ecological Role
+Fungi connect plant residues, soil organisms, and nutrient cycling. Their value
+in a farming system often comes from decomposition, soil aggregation, biological
+competition, and habitat creation as much as from harvestable fruiting bodies.
+
 ## Related Concepts
 
 - [[psilocybe-azurescens-profile]] -- the most potent known species

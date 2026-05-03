@@ -130,13 +130,3 @@ Hebeloma crustuliniforme (crustlike hebeloma) grows in rings in grassy places, l
 Ramsbottom's guide also documented species formerly considered deadly that were subsequently found to be harmless. Amanita mappa (false death cap) was "now known to be harmless, though worthless because of its offensive flavour."
 
 Volvaria gloiocephala (sticky volvaria), "formerly regarded as deadly poisonous," is harmless and much eaten in Portugal and Algeria. These reclassifications illustrate the evolution of [[mushroom-toxins-and-poisoning]] and the danger of relying on outdated mushroom-identification|field guides.
-
-## Further Reading and References
-
-The primary source for this article includes established reference works in mycology, plant pathology, and the history of science. Readers seeking deeper engagement with the primary literature are encouraged to consult the sources listed in the article header.
-
-Additional context has been drawn from peer-reviewed scientific literature, historical records, and contemporary field guides. The interplay between fungal biology and human civilization continues to be an active area of scholarly inquiry with important implications for agriculture, medicine, and environmental management.
-
-## Further Reading and References
-
-The primary source material for this article has been drawn from established reference works in the relevant field. These include peer-reviewed publications, historical documents, and authoritative textbooks that provide comprehensive coverage of the topics discussed.

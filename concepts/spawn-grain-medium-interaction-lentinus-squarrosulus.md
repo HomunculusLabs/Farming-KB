@@ -16,7 +16,7 @@ carpophore dry weight, stipe diameter, and pileus diameter in
 Lentinus squarrosulus, an indigenous Nigerian mushroom species. This study,
 published in the African Journal of Biotechnology, represents one of the
 first systematic evaluations of spawn-medium interaction effects for
-tropical mushroom cultivation in West Africa.
+tropical [[mushroom-cultivation]] in West Africa.
 
 ## Species and Nigerian Context
 
@@ -144,6 +144,5 @@ smallholder adoption.
 
 - [[spawn-grain-performance-research]]: broader comparative analysis of
   spawn grain types across mushroom species
-- [[gourmet-medicinal-mushroom-spawn-grain-production]]: grain spawn
-  production methodology and general grain selection principles
+- [[gourmet-medicinal-mushroom-spawn-grain-production]]: [[grain-spawn-production]] methodology and general grain selection principles
 - [[fungal-basidiocarp-formation-ecology]]: ecological and physiological

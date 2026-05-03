@@ -1,3 +1,8 @@
+---
+title: Wavelet Transform
+sources: []
+---
+
 # Wavelet Transform
 
 ## Overview

@@ -118,13 +118,3 @@ Solomon's overarching message about season extension materials is that the cost 
 
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-gardening-when-it-counts-index]]
-- [[season-extension-techniques]]
-- [[cold-frame-gardening]]
-- [[intensive-gardening-critique-solomon]]
-- [[solomon-on-root-cellaring]]
-- [[seed-germination-techniques-solomon]]
-
-## See Also
-
-- [[solomon-greenhouse-and-season-extension-basics]]
-- [[solomon-sprouting-seeds-and-early-season-nutrition]]

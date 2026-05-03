@@ -62,3 +62,20 @@ As a ring-substituted amphetamine with both methoxy and methylenedioxy groups, M
 Given the 8-12 hour duration, users should plan for a full day commitment. The combination of stimulant (amphetamine backbone) and psychedelic (serotonergic) effects can produce significant cardiovascular strain. Hydration, comfortable setting, and a trusted sitter are essential. As with all research chemicals, reagent testing is recommended to verify identity and purity before consumption. The extended duration also increases the risk of sleep disruption — planning the experience for morning start allows for natural resolution before bedtime.
 
 See also: [[mda-compound-profile]], [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]]
+
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.

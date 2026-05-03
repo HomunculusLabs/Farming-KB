@@ -21,7 +21,7 @@ or breeder, as the differences between staminate (male) and pistillate
 importantly, in the psychoactive resin production that defines the
 plant's value.
 
-Robert Connell Clarke, in Marijuana Botany, provides the most detailed
+[[robert-connell-clarke]], in Marijuana Botany, provides the most detailed
 botanical treatment of cannabis sexual differentiation available. He
 notes that female plants tend to be shorter and more branched than males,
 remaining leafy to the top with many leaves surrounding the flowers,
@@ -32,7 +32,7 @@ which soon differentiate into the distinct sexual forms.
 
 The genetics of cannabis sex determination involve 10 chromosome pairs
 (2n=20), with meiosis producing haploid gametes (n=10). Under normal
-conditions with a standard inductive photoperiod, cannabis produces
+conditions with a standard inductive [[photoperiod-cannabis]] produces
 approximately equal numbers of pure staminate and pure pistillate plants
 with a few hermaphrodites. Environmental stressors including nutrient
 excess or deficiency, mutilation, and altered light cycles can shift

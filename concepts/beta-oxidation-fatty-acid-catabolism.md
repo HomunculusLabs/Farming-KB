@@ -141,3 +141,8 @@ bodies (acetoacetate, beta-hydroxybutyrate, acetone) by HMG-CoA synthase and HMG
 hepatic mitochondria. These water-soluble fuels supply the brain, heart, and skeletal muscle
 during glucose scarcity. Ketogenesis is governed by the same malonyl-CoA/CPT I gate that
 controls beta-oxidation flux, linking the two pathways at their regulatory nexus.
+
+## See Also
+- [[cancer-beta-glucan-pharmacology]]
+- [[beta-glucan-receptor-binding]]
+- [[beta-d-entity-pihkal]]

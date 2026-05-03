@@ -125,13 +125,3 @@ litter, and heavy falling cones make it completely unsuitable for small
 residential gardens. In a permaculture context, it serves as a
 long-lived overstorey element in food forest systems in suitable
 climates.
-
-## Cultural Significance
-
-The bunya bunya holds deep cultural significance for Aboriginal peoples
-of south-east Queensland. Large gatherings were traditionally held when
-the cones ripened, with people travelling long distances to share in the
-harvest. The nuts were a staple food that could be stored and traded.
-- [[jarrold-boil-a-bag-mushroom-cultivation-method]]
-- [[sterile-technique-mushroom-cultivation]]
-- [[mushroom-cultivation-sterile-technique]]

@@ -105,7 +105,7 @@ have germination shields inside the spore with complex surface patterns.
 ## Spore Extraction Methods
 
 ### Wet Sieving and Decanting
-The standard method for extracting AM fungal spores from soil involves
+The standard method for extracting AM [[fungal-spores]] from soil involves
 wet sieving through a series of sieves (typically 250, 100, and 50
 micrometer mesh sizes). Soil is suspended in water, agitated, poured
 through the sieves, and material retained on each sieve is collected.
@@ -143,6 +143,6 @@ complements morphological identification.
 ## Challenges and Limitations
 
 Spore-based identification faces several challenges. Spores of different
-species may be morphologically indistinguishable (cryptic species), a
+species may be morphologically indistinguishable ([[cryptic-species]]), a
 single species may produce polymorphic spores depending on environmental
 ## See Also

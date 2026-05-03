@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-At the philosophical core of [[masanobu-fukuoka]]'s natural farming lies a
+At the philosophical core of [[masanobu-fukuoka]]'s [[natural-farming]] lies a
 fundamental distinction between two modes of understanding: discriminating
 knowledge and nondiscriminating knowledge. This epistemological framework
 is not merely abstract philosophy but has direct practical consequences
@@ -85,7 +85,7 @@ light.
 
 Similarly, the soil scientist explains that crops grow under the effects
 of water and nutrients, but what he has in his laboratory is dead,
-mineral soil, not the living soil of nature. The water that flows from
+mineral soil, not [[fukuoka-living-soil]] of nature. The water that flows from
 mountains and gives birth to all forms of life is more than a compound
 of oxygen and hydrogen.
 
@@ -130,7 +130,7 @@ factor without understanding its relationship to the whole.
 The natural farmer, operating from nondiscriminating awareness, does
 not try to control nature but instead seeks to understand and work
 within its inherent patterns. This is why Fukuoka's method is often
-described as "do-nothing farming": not because no activity occurs, but
+described as "[[do-nothing-farming]]": not because no activity occurs, but
 because the farmer refrains from the discriminating interventions that
 characterize scientific agriculture.
 

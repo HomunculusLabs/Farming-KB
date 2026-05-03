@@ -54,6 +54,23 @@ For gardeners who lack time for proper [[composting]] but refuse to throw away o
 - Risk of nitrogen deficiency — sprinkle dried blood over the soil (one handful per sq yard/meter) before spreading green material
 - Alternative: dig sheet compost into the top inch of soil, or use a rotary cultivator (extra nitrogen definitely needed — use dried blood)
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## Related
 
 - [[compost-container-types]] — container designs for proper [[composting]]

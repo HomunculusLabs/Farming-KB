@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/the-modern-farm-why-cannabis-grown-with-l
 
 # Humulene
 
-Humulene (α-caryophyllene), also known as α-humulene, is a sesquiterpene (C15) found abundantly in cannabis (*Cannabis sativa*), hops (*Humulus lupulus*), and numerous other plant species. Unlike the monoterpenes (C10) that dominate cannabis essential oil profiles, humulene is distinguished by its anti-inflammatory, antibacterial, and appetite-suppressant properties, as well as its unique role in the pharmacological synergy of cannabis preparations. It is structurally related to β-caryophyllene and shares some pharmacological properties, though it does not activate cannabinoid receptors.
+Humulene (α-caryophyllene), also known as α-humulene, is a sesquiterpene (C15) found abundantly in cannabis (*[[cannabis-sativa]]*), hops (*Humulus lupulus*), and numerous other plant species. Unlike the monoterpenes (C10) that dominate cannabis essential oil profiles, humulene is distinguished by its anti-inflammatory, antibacterial, and appetite-suppressant properties, as well as its unique role in the pharmacological synergy of cannabis preparations. It is structurally related to β-caryophyllene and shares some pharmacological properties, though it does not activate cannabinoid receptors.
 
 ## Chemical Properties
 
@@ -42,7 +42,7 @@ Humulene is one of the most potent anti-inflammatory terpenes, with activity com
 
 ### Antibacterial and Antifungal Activity
 
-Humulene exhibits antimicrobial properties against *Staphylococcus aureus* (including some MRSA strains), *Streptococcus* species, *Escherichia coli*, *Candida albicans*, and dermatophyte fungi.
+Humulene exhibits antimicrobial properties against *Staphylococcus aureus* (including some MRSA strains), *Streptococcus* species, *Escherichia coli*, *[[candida-albicans]]*, and dermatophyte fungi.
 
 ### Analgesic Properties
 

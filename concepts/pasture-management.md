@@ -30,8 +30,8 @@ plant and soil health.
 - Reduced parasite load — larvae die during rest periods before animals return.
 - Deeper root systems — plroot-exudatesper when grazed and rested pbuilding-soilproved water infiltration — root channels and organic matter increase
   soil porosity.
-- Carbon sequestration — grazing stimulates root exudates that feed soil
-  microbes, building soil organic carbon.
+- Carbon sequestration — grazing stimulates [[root-exudates]] that feed soil
+  microbes, [[building-soil]] organic carbon.
 
 ### Implementation
 - Start simple: divide existing pasture into 4-8 paddocks with portable
@@ -114,7 +114,7 @@ plant and soil health.
   grazing mixes. Fixes 50-100 lbs N/acre/year.
 - **Red Clover:** Biennial, taller, good quality. Fixes 70-150 lbs N/acre.
 - **Alfalfa:** Deep-rooted, very high protein and productivity. Requires
-  well-drained soil and careful grazing management (bloat risk). See
+  well-drained soil and careful [[permaculture-designers-manual-grazing-management]] (bloat risk). See
   [[hay-and-forage-management]].
 - **Birdsfoot Trefoil:** Non-bloating legume, tolerant of wet and acid soils.
 - **Crown Vetch:** Erosion control, not ideal for grazing (low palatability).

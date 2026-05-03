@@ -27,7 +27,7 @@ In temperate climates, coleus is typically grown as an annual, as it is sensitiv
 
 Reports of psychoactive activity in *Coleus blumei* are scattered and somewhat ambiguous. The plant has occasionally been mentioned in ethnobotanical and underground literature as producing mild hallucinogenic or sedative effects when the fresh leaves are chewed or consumed, particularly the more colorful varieties.
 
-The psychoactive constituents of coleus, if any, have not been definitively identified. Some researchers have suggested that diterpenoids or other secondary metabolites present in the leaves may be responsible for the reported effects. The Lamiaceae family includes several species with well-documented psychoactive properties, including *Salvia divinorum* (which contains salvinorin A, a potent kappa-opioid receptor agonist), which has led to speculation about possible shared pharmacological mechanisms.
+The psychoactive constituents of coleus, if any, have not been definitively identified. Some researchers have suggested that diterpenoids or other secondary metabolites present in the leaves may be responsible for the reported effects. The Lamiaceae family includes several species with well-documented psychoactive properties, including *[[salvia-divinorum]]* (which contains salvinorin A, a potent kappa-opioid receptor agonist), which has led to speculation about possible shared pharmacological mechanisms.
 
 However, the psychoactive claims regarding *Coleus blumei* remain poorly substantiated. The effects reported by users are generally described as mild—less intense than those of *Salvia divinorum* or classical psychedelics—and may involve subtle visual changes, relaxation, and mild euphoria rather than profound alterations of consciousness. Some authorities have questioned whether the plant possesses genuine psychoactive properties at all, suggesting that reported effects may be attributable to placebo, expectation, or misidentification of plant material.
 
@@ -35,7 +35,7 @@ However, the psychoactive claims regarding *Coleus blumei* remain poorly substan
 
 Unlike many psychoactive plants discussed in *Plants of the Gods*, *Coleus blumei* does not have a well-documented history of ritual or ceremonial use among Indigenous peoples. Reports of its psychoactive use appear to originate primarily from Western experimental use rather than from established ethnobotanical traditions.
 
-This distinguishes coleus from other Lamiaceae psychoactives such as *Salvia divinorum*, which has a documented history of use by the Mazatec people of Oaxaca, Mexico. The absence of a clear Indigenous use tradition for *Coleus blumei* has led some ethnobotanists to regard its psychoactive reputation with skepticism.
+This distinguishes coleus from other Lamiaceae psychoactives such as *Salvia divinorum*, which has a documented history of use by the [[mazatec-people]] of Oaxaca, Mexico. The absence of a clear Indigenous use tradition for *Coleus blumei* has led some ethnobotanists to regard its psychoactive reputation with skepticism.
 
 ## Phytochemistry
 

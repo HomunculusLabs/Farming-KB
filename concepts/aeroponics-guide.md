@@ -62,7 +62,7 @@ Pros:
 - Much cheaper to build than HPA (standard pump, no accumulator)
 - Simpler construction and fewer components
 - More forgiving of nozzle clogging
-- Still provides excellent oxygenation compared to DWC or ebb-and-flow
+- Still provides excellent oxygenation compared to DWC or [[ebb-and-flow]]
 - Good entry point into aeroponic growing
 Cons:
 - Larger droplet size means less efficient nutrient absorption
@@ -72,7 +72,7 @@ Cons:
 - Less precise control over misting environment
 ## Cannabis Applications
 ### Cloning and Propagation
-Aeroponics excels at cannabis cloning:
+Aeroponics excels at [[cannabis-cloning]]:
 - Cuttings develop roots in 5-10 days (vs. 10-21 days in rockwool or soil)
 - Higher success rates than conventional methods
 - No transplant shock — roots emerge directly from the stem
@@ -109,7 +109,7 @@ Prevention:
 - Maintain water temperature at 65-70°F (18-21°C) — use a water chiller if needed
 - Use RO water and clean, synthetic nutrients
 - Sanitize the system between grows with hydrogen peroxide or a commercial cleaner
-- Add beneficial bacteria (Bacillus subtilis strains) to prevent pathogen colonization
+- Add beneficial bacteria ([[bacillus-subtilis]] strains) to prevent pathogen colonization
 - Replace misting nozzles regularly or clean them with vinegar or CLR
 - Keep the root chamber completely light-proof
 ## Nutrient Solution for Aeroponics

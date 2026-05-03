@@ -11,8 +11,7 @@ sources: greg-green-sinsemilla-and-pollination-the-cannabis-grow-bible.md]
 ## Overview
 
 The photoperiod - the ratio of light hours to dark hours - is the
-primary environmental trigger controlling flowering in cannabis. Greg
-Green, in The Cannabis Grow Bible, emphasizes that understanding the
+primary environmental trigger controlling flowering in cannabis. [[greg-green]], in The Cannabis Grow Bible, emphasizes that understanding the
 12/12 light cycle is essential for successful indoor cultivation. Most
 people never achieve good bud quantities because they have never heard
 of 12/12, despite it being a straightforward concept: cannabis plants
@@ -133,7 +132,7 @@ batch of plants.
 
 ### Clone Timing
 
-When flowering mother plants to take cuttings, the 12/12 schedule
+When flowering [[cervantes-mother-plants]] to take cuttings, the 12/12 schedule
 determines flowering timing. Clones taken from flowering mothers will
 start to flower as soon as they are placed under 12/12, allowing
 rapid production cycles for strains that have already been sexed and

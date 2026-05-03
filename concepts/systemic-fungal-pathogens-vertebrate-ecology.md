@@ -23,7 +23,7 @@ the genus Arthroderma and its related anamorphs in Trichophyton,
 Microsporum, and Epidermophyton, as well as internally invasive
 (systemic) pathogens in the genus Ajellomyces and its related
 anamorphs in Blastomyces, Histoplasma, and Paracoccidioides. Also
-related to this order is the anamorph species Coccidioides immitis, a
+related to this order is the anamorph species [[coccidioides-immitis]], a
 particularly virulent species strongly resembling anamorphic members of
 the Onygenales.
 
@@ -45,7 +45,7 @@ perennation rather than as loci of population increase and dispersal.
 Systemically pathogenic Onygenales tend to be endemic to particular
 geographic areas for largely undetermined reasons:
 
-- **Blastomyces dermatitidis**: Specific to an enigmatic range of
+- **[[blastomyces-dermatitidis]]**: Specific to an enigmatic range of
   riparian and rodent-influenced habitats containing soil and plant
   debris, mostly in boreal eastern Canada and adjacent northern
   Wisconsin and Michigan, and in a more southerly zone extending
@@ -53,7 +53,7 @@ geographic areas for largely undetermined reasons:
   Africa, where an evolutionarily divergent lineage recognized as
   a separate serotype occurs.
 
-- **Histoplasma capsulatum var. capsulatum**: Indigenous to the
+- **[[histoplasma-capsulatum]] var. capsulatum**: Indigenous to the
   valleys of the Mississippi River system, occurring in soils
   particularly influenced by bird excretions and possibly other
   sources of organic nitrogen. Also found in limited parts of
@@ -63,7 +63,7 @@ geographic areas for largely undetermined reasons:
   H. capsulatum var. farciminosum, causes epizootic outbreaks of
   lymphocutaneous disease among equines.
 
-- **Paracoccidioides brasiliensis**: Seldom isolated except from
+- **[[paracoccidioides-brasiliensis]]**: Seldom isolated except from
   infected humans, associated with moist soils in the humid,
   forested areas of southern Mexico, Central America, and South
   America east of the Andes and north of the Argentine pampas.
@@ -100,8 +100,7 @@ fungus, it produces a yeast form within host tissue.
 
 ### Filobasidiella neoformans
 
-Filobasidiella neoformans var. neoformans (anamorph Cryptococcus
-neoformans var. neoformans) appears to be a cosmopolitan colonizer of
+Filobasidiella neoformans var. neoformans (anamorph [[cryptococcus-neoformans]] var. neoformans) appears to be a cosmopolitan colonizer of
 bird and bat guano. The closely related and equally animal-pathogenic
 F. neoformans var. bacillispora grows as an endophyte in the now
 globally dispersed Australian Red River gum tree (Eucalyptus

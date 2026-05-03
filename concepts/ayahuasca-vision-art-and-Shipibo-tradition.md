@@ -56,6 +56,23 @@ Shipibo ayahuasca art uses a distinctive visual vocabulary of interlocking geome
 
 In Shipibo cosmology, illness is understood as a disruption in the pattern of a person's being — literally a "pattern that has been broken." The healer, or *onán*, works to restore the patient's pattern by singing the corresponding icaros and sometimes painting the corrective patterns directly on the patient's body. This practice, sometimes called "animated design" or *chová*, involves tracing geometric patterns on the patient's skin while singing, with the intention of restructuring the patient's energetic pattern. The integration of visual art, music, and healing in a single practice distinguishes the Shipibo tradition from most other ayahuasca-using cultures.
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## Related Concepts
 
 - [[hallucinogenic-plants-of-the-world]] -- overview of psychoactive plant families

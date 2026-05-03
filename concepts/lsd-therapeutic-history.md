@@ -55,6 +55,23 @@ A particularly significant application was LSD's use with terminally ill patient
 
 LSD research and therapy were curtailed as the drug was swept up in the "huge wave of an inebriant mania" spreading across the Western world at the end of the 1950s. As careless, medically unsupervised use led to untoward incidents, LSD became a "problem child" for Sandoz. The company eventually withdrew Delysid from the market, and legal prohibitions effectively ended two decades of clinical research.
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## Related Concepts
 
 - [[hallucinogenic-drugs-in-psychotherapy-history]] -- broader historical overview

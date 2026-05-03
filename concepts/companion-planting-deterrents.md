@@ -59,6 +59,23 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 
 Beyond pest deterrence, French marigolds are reported to help suppress certain weeds, particularly couch grass. The mechanism may be related to root secretions, similar to their effect on eelworms.
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## Related
 
 - [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies

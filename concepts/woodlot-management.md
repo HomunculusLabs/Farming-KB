@@ -34,7 +34,7 @@ Wood species vary significantly in heat output, burn characteristics, and season
 - Ash: 22-24 MBTU/cord. Easy to split, burns well green or seasoned. Being devastated by emerald ash borer -- use available ash before it is lost.
 - Beech: 24-27 MBTU/cord. Excellent firewood, dense, produces good coals.
 - Maple (sugar, hard): 22-25 MBTU/cord. Good all-around firewood.
-- Black locust: 26-29 MBTU/cord. Extremely dense, burns very hot and long. Difficult to split. Excellent for overnight burns.
+- [[black-locust-entity]]: 26-29 MBTU/cord. Extremely dense, burns very hot and long. Difficult to split. Excellent for overnight burns.
 - Apple/cherry: 20-22 MBTU/cord. Pleasant scent, good coals. Moderate heat output.
 - Birch (yellow, paper): 20-23 MBTU/cord. Good heat, burns quickly. Paper birch is excellent for kindling.
 - Pine/spruce/fir: 14-18 MBTU/cord. Low heat output, burns fast, creates creosote buildup in chimneys. Use for kindling and shoulder-season burning, not primary heating.

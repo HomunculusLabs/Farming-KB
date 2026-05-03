@@ -57,6 +57,23 @@ Oner's guide repeatedly identifies strains suitable for concentrate production b
 
 - [[cannabis-terpene-profiles]] -- the aromatic compounds concentrated in extracts
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## See Also
 
 - [[query-what-causes-cannabis-seedlings-to-die-and-how-to-save-them]]

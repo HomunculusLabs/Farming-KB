@@ -61,6 +61,23 @@ JADAM fundamentally shifts the approach from killing pathogens (disinfection) to
 
 JADAM method can be applied in all types of agriculture: conventional, hydroponics, commercial farms, large-scale plantations, home gardens, and urban gardens. Even conventional farmers can use JADAM pesticides alongside chemical ones to drastically cut costs.
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## See Also
 
 - [[jadam-sulfur-application]]

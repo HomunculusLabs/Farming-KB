@@ -52,6 +52,23 @@ The pellets are covered with straw (spread uncut, tossed every which way "just a
 
 Fukuoka proposed large-scale use of clay pellets for revegetating deserts. The mixture of seeds is coated first with a layer of soil, then one of clay, to form microbe-containing clay pellets. These can be scattered by hand over deserts and savannahs. The seeds within the hard clay pellets will not sprout until rain has fallen and conditions are right for germination, and will not be eaten by mice and birds.
 
+## Practical Use
+This topic is best evaluated in context: climate, available materials, labor,
+water access, and the surrounding ecological community all influence whether it
+is useful on a working site. Small trials reduce risk and make local adaptation
+visible before larger investments are made.
+
+## Observation Points
+Track seasonal timing, moisture, plant or fungal response, pest pressure, and
+maintenance needs. Notes across several cycles are more reliable than a single
+observation because many biological systems respond slowly or episodically.
+
+## Integration
+The strongest applications usually connect several functions at once, such as
+soil improvement, habitat creation, water moderation, yield, and education. If a
+practice only solves one problem while creating new maintenance burdens, it
+should be redesigned or kept experimental.
+
 ## Related
 
 - [[fukuoka-natural-farming-method]]

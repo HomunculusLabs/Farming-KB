@@ -78,7 +78,7 @@ The inevitable consequence is zero power output: P = W/t → 0 as t → ∞. Rea
 
 **Brayton cycle** (gas turbines and jet engines): Two isobaric (constant pressure) and two adiabatic processes in continuous flow. η = 1 − 1/r_p^((γ−1)/γ), where r_p is pressure ratio. At r_p = 20: η_ideal = 57.6%. Simple cycle: 30–40%. Combined Brayton-Rankine cycles recover exhaust heat in a heat recovery steam generator (HRSG) to reach 63–64% actual — the highest of any commercial power generation technology.
 
-**Rankine cycle** (steam power plants): Phase-change cycle with boiler, turbine, condenser, and feed pump. Subcritical: 35–45%. Supercritical (above 22.064 MPa): up to 48%. Ultra-supercritical with T_H up to 620°C: approximately 48%. Limited by turbine blade creep resistance and condenser temperature constrained by ambient conditions (25–40°C depending on cooling water or air availability).
+**[[rankine-cycle]]** (steam power plants): Phase-change cycle with boiler, turbine, condenser, and feed pump. Subcritical: 35–45%. Supercritical (above 22.064 MPa): up to 48%. Ultra-supercritical with T_H up to 620°C: approximately 48%. Limited by turbine blade creep resistance and condenser temperature constrained by ambient conditions (25–40°C depending on cooling water or air availability).
 
 ## Reverse Carnot Cycle: Refrigeration and Heat Pumps
 

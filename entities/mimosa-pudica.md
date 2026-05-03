@@ -33,8 +33,7 @@ vibration, and other stimuli. Native to tropical Central and South America, it
 has become pantropical in distribution and is known by many common names
 including sensitive plant, touch-me-not, humble plant, and sleepy plant. The
 specific epithet *pudica* derives from Latin "pudicus," meaning bashful or
-modest. *Mimosa pudica* has served as a model organism in plant
-electrophysiology, movement biology, and studies of plant learning and memory,
+modest. *Mimosa pudica* has served as a model organism in [[plant-electrophysiology]], movement biology, and studies of plant learning and memory,
 making it one of the most scientifically studied species in behavioral botany.
 
 ## Taxonomy
@@ -76,7 +75,7 @@ the primary second messenger initiating the cascade.
 
 Rapid folding likely serves multiple adaptive functions: herbivory deterrence
 (exposing spiny stems, reducing leaf area, startling insects), thermoregulation
-(reducing radiative heat loss at night), water conservation (reducing night
+(reducing radiative heat loss at night), [[water-conservation]] (reducing night
 transpiration), and protection from mechanical damage during wind and rain.
 The energetic cost of movement suggests strong selective pressure.
 
