@@ -124,4 +124,8 @@ boiling water.
 
 ## See Also
 
-- [[permplant-fig-ficus-carica-fruit-tree]]
+[[permaculture-pioneer-species]] for other pioneer trees in permaculture systems.
+[[nitrogen-fixing-trees]] for tagasaste's nitrogen-fixing role in the wider context.
+[[forage-and-fodder-trees-permaculture-systems]] for integrated fodder tree design.
+[[mollison-pioneer-species-and-accelerated-succession]] for the succession framework tagasaste exemplifies.
+[[permplant-fig-ficus-carica-fruit-tree]]

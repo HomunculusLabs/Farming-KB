@@ -116,8 +116,10 @@ The most valuable permaculture fruit trees provide yields beyond fruit:
 
 ## See Also
 
-- [[ceratonia-siliqua]]
+[[ceratonia-siliqua]]
 
-- [[gaias-garden-fruit-tree-selection]]
-- [[fukuoka-no-pruning-philosophy-fruit-trees]]
-- [[berry-fruit-production-in-permaculture]]
+[[gaias-garden-fruit-tree-selection]]
+[[fukuoka-no-pruning-philosophy-fruit-trees]]
+[[berry-fruit-production-in-permaculture]]
+[[food-forest-design]] for integrating fruit trees into perennial polyculture systems.
+[[permaculture-feijoa]] for one of the most cold-hardy subtropical fruit trees.

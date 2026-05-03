@@ -134,8 +134,12 @@ an untreated area are usually more reliable than immediate whole-system
 changes.
 
 ## Related Topics
-- [[ann-shulgin]]
-- [[qualitative-comments-methodology-pihkal]]
-- [[pihkal-introduction-and-methodology]]
-- [[2c-family-chemistry-and-sar-pihkal]]
-- [[pihkal-qualitative-effects-themes]]
+[[ann-shulgin]]
+[[qualitative-comments-methodology-pihkal]]
+[[pihkal-introduction-and-methodology]]
+[[2c-family-chemistry-and-sar-pihkal]]
+[[pihkal-qualitative-effects-themes]]
+[[alexander-shulgin]] for biographical context on the PIHKAL project.
+[[2c-e-compound-profile]] for the shorter-acting ethyl homologue.
+[[2c-b-compound-profile]] for the widely-studied bromine analog.
+[[do-family-compounds-pihkal]] for the amphetamine homologues related to 2C-P.

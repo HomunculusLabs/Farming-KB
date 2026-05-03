@@ -88,6 +88,8 @@ Avoid synthetic fragrance oils if natural purity is important. Some essential oi
 
 ## Related Topics
 
-- [[top-bar-hive]] for producing your own beeswax
-- [[herbal-salves-and-balms]] for beeswax uses beyond candles
-- [[soap-making-guide]] for another homestead craft using natural fats
+[[top-bar-hive]] for producing your own beeswax.
+[[herbal-salves-and-balms]] for beeswax uses beyond candles.
+[[soap-making-guide]] for another homestead craft using natural fats.
+[[beekeeping-basics]] for beekeeping fundamentals that supply wax.
+[[bee-products-beyond-honey]] for other hive products used in homesteading.
