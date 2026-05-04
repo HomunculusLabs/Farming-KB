@@ -146,3 +146,9 @@ county, state, and federal levels.
 - [[actively-aerated-compost-tea]] for brewing from combined compost sources
 - [[aact-pathogen-safety-ingham]] for pathogen safety standards
 - [[teaming-with-microbes-compost-biology]] for compost microbiology fundamentals
+
+[[aact-compost-organism-levels]] provides target organism counts for quality compost.
+[[aact-nematode-protozoa-management-ingham]] covers the nematode and protozoa groups where thermal and worm compost differ most.
+[[teaming-with-microbes-earthworm-ecology-and-vermicomposting]] explores the biological basis for worm compost strengths.
+[[bacterial-vs-fungal-compost-teas]] explains how compost source affects tea microbial balance.
+[[teaming-with-microbes-compost-tea-brewing-guide]] is a practical companion for brewing tea from combined compost.

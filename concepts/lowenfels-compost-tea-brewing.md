@@ -135,3 +135,11 @@ biological networks, and [[teaming-with-microbes-humus-formation-and-glomalin]] 
 that build soil structure. Tea applications supplement rather than replace
 these foundational practices, providing periodic boosts of microbial diversity
 and activity to support the entire [[teaming-with-microbes-soil-food-web-overview]].
+
+## See Also
+
+[[aact-aeration-oxygen-management-ingham]] covers the critical dissolved oxygen requirements during brewing.
+[[aact-applications-guide-ingham]] provides detailed application rates and timing for different crop types.
+[[aact-definitions-and-types-ingham]] distinguishes AACT from passive extracts and anaerobic teas.
+[[aact-troubleshooting-ingham]] helps diagnose common problems like putrid odors and low microbial counts.
+[[teaming-with-microbes-compost-mulch-tea]] extends the compost tea concept into mulch-based inoculation strategies.

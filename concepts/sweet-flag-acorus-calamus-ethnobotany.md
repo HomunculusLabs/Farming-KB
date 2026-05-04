@@ -133,3 +133,9 @@ essential.
 - [[golden-guide-iboga-and-tabernanthe]]
 - [[turkestan-mint-lagochilus-inebrians]]
 - [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
+
+[[amanita-muscaria-ethnobotany]] covers another culturally important psychoactive plant with a long history of indigenous use across the Northern Hemisphere.
+[[anticholinergic-hallucinogenic-plants]] describes plants with similarly ambiguous boundaries between medicinal and psychoactive use.
+[[syrian-rue-peganum-harmala-ethnobotany]] examines another plant with beta-carboline alkaloids and a deep ethnobotanical history.
+[[tree-daturas-brugmansia-south-american-ethnobotany]] explores South American ethnobotanical traditions parallel to the Northern Hemisphere sweet flag usage.
+[[tryptamine-hallucinogens-and-consciousness]] provides pharmacological context for understanding mild psychoactive plant effects like those of sweet flag.

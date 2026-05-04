@@ -113,3 +113,9 @@ into nutritious food.
 - [[biobleaching-of-pulp-by-white-rot-fungi]]
 - [[staycare-brown-rot-fungi-in-bioremediation]]
 - [[trametes-versicolor]]
+
+[[wood-decay-fungi]] covers the broader taxonomy of fungi that decompose wood, including both white and brown rot strategies.
+[[staycare-composting-as-a-fungal-bioremediation-strategy]] examines how fungal decomposition applies to contaminated organic waste.
+[[stamets-mycoremediation-case-studies]] documents field applications of white rot fungi for pollutant cleanup.
+[[staycare-ecotoxicological-assessment-of-fungal-bioremediation]] addresses evaluating the safety and effectiveness of fungal remediation.
+[[staycare-fungal-immobilization-and-entrapment-for-bioremediation]] explores techniques for deploying fungal biomass in treatment systems.

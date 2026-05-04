@@ -1,147 +1,145 @@
 ---
-title: "Wholistic Perception and the Mt. Fuji Metaphor"
-tags:
-  - natural-farming
-  - fukuoka
-  - philosophy-of-science
-  - epistemology
-  - holism
-  - zen
-  - perception
-  - nature-philosophy
+title: "Wholistic Perception and Mt. Fuji Metaphor"
+tags: [fukuoka, natural-farming, epistemology, wholistic-perception, zen,
+nature-philosophy, nondiscrimination]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - administrator-microsoft-word-fukuoka-textdoc.md
+- raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
-# Wholistic Perception and the Mt. Fuji Metaphor
+# Wholistic Perception and Mt. Fuji Metaphor
 
-Fukuoka develops a sophisticated epistemological argument using Mount
-Fuji as a metaphor for how scientific analysis fails to capture the
-essence of natural wholes. He argues that analytic research, far from
-revealing truth, actually obscures it by breaking apart the living unity
-that is the only valid object of true knowledge.
+One of Masanobu Fukuoka's most powerful philosophical arguments against the
+scientific method is encapsulated in his Mount Fuji metaphor. This metaphor
+illustrates the fundamental difference between analytic knowledge, which breaks
+nature into parts, and wholistic perception, which grasps nature as an
+indivisible whole. The argument carries deep implications for all human
+understanding of the natural world.
 
-## The Scientist Who Climbs Fuji
+## The Scientist Climbing Fuji
 
-A scientist who wishes to know Mount Fuji will climb the mountain and
-examine the rocks and wildlife. After conducting geological, biological,
-and meteorological research, he will conclude that he now has a full
-picture of Fuji. But if we ask whether it is the scientist who has spent
-his life studying the details of the mountain who knows it best, the
-answer would have to be no. When one seeks total understanding and
-comprehensive judgment, analytic research is instead a hindrance. If a
-lifetime of study leads to the conclusion that Fuji consists mostly of
-rocks and trees, then it would have been better not to have climbed it
-in the first place.
+A scientist who wishes to know Mount Fuji will climb the mountain and examine
+the rocks and wildlife. After having conducted geological, biological, and
+meteorological research, he will conclude that he now has a full picture of
+Fuji. But if we were to ask whether it is the scientist who has spent his life
+studying the details of the mountain who knows it best, the answer would have to
+be no.
 
-## The Hokusai Argument
+When one seeks total understanding and comprehensive judgment, analytic research
+is instead a hindrance. If a lifetime of study leads to the conclusion that Fuji
+consists mostly of rocks and trees, then it would have been better not to have
+climbed it in the first place. One can know Fuji by looking at it from afar. One
+must see it and yet not examine it, and in not examining it, know it. This
+paradox echoes Zen Buddhist teachings on direct perception.
 
-The artist Hokusai, who captured faraway images of Fuji in his
-paintings, understood it better than those who climbed it and found it
-an ugly mountain. When told that this is just a subjective difference, a
-mere difference in viewpoint or opinion, Fukuoka insists that this
-misses the point entirely. The artist's holistic perception captures
-something that the scientist's analytic method cannot: the living truth
-of the mountain as a unified whole.
+## The Scientist's Rebuttal and Its Limitations
 
-The most common view, that one can best know Fuji by both listening
-to the ecologist speak of research on its fauna and flora and looking at
-Hokusai's paintings, is compared to the hunter who chases two rabbits
-and catches none. Such a person neither climbs the mountain nor paints.
-Those who say Fuji is the same whether we look at it lying down or
-standing up, those who make use of discriminating knowledge, cannot
-grasp the truth of this mountain.
+The scientist will think that gazing at Fuji from a distance is useful for
+knowing it abstractly, but is no help in learning about the actual features of
+the mountain. What more can Fukuoka say if, when he mentions that the artist
+Hokusai who captured faraway images of Fuji understood it better than those who
+climbed it and found it an ugly mountain, he is told that this is just a
+subjective difference?
 
-## Without the Whole, the Parts Are Lost
+The most common view is that one can best know Fuji by both listening to the
+ecologist and looking at Hokusai's paintings. But this is just like the hunter
+who chases two rabbits and catches none. Such a person neither climbs the
+mountain nor paints. Those who make use of discriminating knowledge cannot grasp
+the truth of this mountain.
 
-Without the whole, the parts are lost, and without the parts, there
-is no whole. Both lie within the same plane. The moment one
-distinguishes between the trees and rocks that form a part of the
-mountain and the mountain as a whole, one falls into a confusion from
-which one cannot easily escape. A problem exists from the moment man
-draws a distinction between partial, focused research and total, all-
-encompassing conclusions.
+## The Paradox of Parts and Whole
 
-This is not a mystical claim but an observation about the nature of
-living systems. A living organism is not merely the sum of its parts.
-The relationships between parts, the dynamic processes that integrate
-them, and the emergent properties that arise from their interaction, all
-exist at a level that is invisible to analytic investigation. To dissect
-a living thing is to destroy the very properties one seeks to
-understand.
+Without the whole, the parts are lost, and without the parts, there is no whole.
+Both lie within the same plane. The moment he distinguishes between the trees
+and rocks that form a part of the mountain and the mountain as a whole, man
+falls into a confusion from which he cannot easily escape.
 
-## All Versus Whole: A Crucial Distinction
+"All" refers to the world of mathematical form and "whole" represents the world
+of living truth. Farming by the hand of nature is a world alive, not a world of
+form. Nature should not be taken apart. The moment it is broken down, parts
+cease being parts and the whole is no longer a whole. When collected together,
+all the parts do not make a whole.
 
-This distinction has profound implications for scientific
-methodology. Science operates in the realm of all, collecting data
-points, measuring variables, and constructing models that represent the
-quantitative relationships between components. But the living reality of
-a rice plant growing in a field, or a mountain standing against the sky,
-exists in the realm of whole, where the relationships between parts are
-qualitative, dynamic, and irreducible to numerical representation.
+The instant he begins to ponder over the factors of crop cultivation and growth,
+man loses sight of the crop as a whole entity. To produce a crop, he must
+comprehend the true meaning of a plant growing on the earth's surface, and the
+goal of production must derive from a clear vision of unity with the crop.
 
 ## Become One with Nature
 
-## Not Borrowed Philosophy
+To know the real Fuji, one must look at the self in relation to Fuji rather than
+at the mountain itself. One must look at oneself and Fuji prior to the self-
+other dichotomy. When one's eyes are opened by forgetting the self and becoming
+one with Fuji, then one will know the true form of the mountain.
 
-## The Proof of Nature's Perfection
+Fukuoka applies this directly to farming. We must look carefully at a rice plant
+and listen to what it tells us. However, to "look at" rice does not mean to view
+it as an object. One should essentially put oneself in the place of the rice. In
+so doing, the self looking upon the rice plant vanishes.
 
-The very incompleteness of the nature conceived and born of human
-knowledge and action, a nature that is but a pale shadow of true nature,
-is proof that the nature from which science derived its image of nature
-is whole and complete. This argument from imperfection is central to
-Fukuoka's philosophy: the fact that our attempts to improve on nature
-always fall short demonstrates that nature was already perfect to begin
-with.
+This is what it means to "see and not examine and in not examining to know." It
+is enough to be able to work with detachment, free of worldly concerns. Laying
+aside one's ego is the quickest path to unity with nature. Fukuoka insists he is
+speaking from raw personal experience of things grounded solidly in reality, not
+borrowing philosophical terms to spout empty theories.
 
-## Rejection of Relativistic Perception
+## The Limits of Specialized Knowledge
 
-In natural farming, one always avoids seeing things in relative
-terms; should one catch sight of relative phenomena, one immediately
-tries to trace these back to a single source, to reunite the two broken
-halves. To farm naturally, one must question and reject scientific
-thinking, all of which is founded on a relative view of things: notions
-of good and poor crop growth, fast and slow, life and death, health and
-disease, large and small yields, major and minor gains, profits and
-losses.
+In nature, a whole encloses the parts, and a yet larger whole encloses the whole
+enclosing the parts. By enlarging our field of view, what is thought of as a
+whole becomes nothing more than one part of a larger whole, in a concentric
+series that continues on to infinity.
 
-## Transcending Time and Space
+Fukuoka illustrates this with nutritional science. Nutritional principles that
+work for German beer drinkers do not necessarily apply to the people of Africa.
+The same radishes will be absorbed very differently by the irritable city
+dweller afflicted by smog and noise pollution as compared with the tropical
+African who munches on his after a meal of wild game. Progress in medicine has
+brought dietary therapies for every conceivable condition, but what happens when
+a person has problems with two or three organs? The poor fellow, unable to eat
+anything, could end up as thin as a dried sardine.
 
-Scientific farming is a method of farming that originates within the
-confines of time and space, but Mahayana natural farming comes into
-being only in a world beyond time and space. The natural farmer sees,
-yet does not see, the rice; he sees and yet does not see the insect. He
-is not misled by circumstantial matters; he does not pursue the
-scientific method of inquiry. He reaches beyond time and space by taking
-the stance that there are no crops or pests in nature to begin with.
+## Cruder But Complete Knowledge
 
-## Practical Consequences for Farming
+In an age before nutritional science, all people knew was that to stay healthy,
+one should eat in moderation. Which has broader application? Modern nutritional
+science with its specialized research or traditional admonitions for moderation
+at mealtime? Modern science may appear broader because it considers all cases,
+yet it forbids first one thing then another, so people keep running into walls.
 
-This epistemological framework has direct practical consequences for
-how the farmer approaches his work. When an insect alights on a rice
-plant, the natural farmer does not immediately identify it as a pest and
-begin researching control methods. Instead, he reaches beyond time and
-space by taking the stance that there are no crops or pests in nature to
-begin with. The concepts of raising plants and harmful insects are just
-words coined by man based on subjective criteria grounded in the self.
+Cruder but complete, the simple knowledge that one should eat with moderation
+applies to all people and thus works better. This is so because knowledge that
+is less discriminating has wider application. The principle extends beyond
+nutrition to all of scientific agriculture: the more discriminating and
+specialized the knowledge, the narrower its applicability and the more it
+contradicts itself.
 
-The natural farmer seeks to develop methods of cultivation in which
-the existence of pests poses no problem. He begins by first stating the
-conclusion and clearing up local and temporal problems in a way that
-fits the conclusion. Nature is always showing man, somewhere and
-sometime, situations in which pests are not pests and do not cause real
-damage. The farmer needs only to observe these situations and learn from
-them.
+## The Perfection of Nature
+
+Understanding the degree to which human knowledge is imperfect and inadequate
+helps one appreciate just how perfect nature is. Scientists of all ages have
+sensed with increasing clarity the frailty and insignificance of human
+knowledge. No matter how unlimited his knowledge may appear, there are hurdles
+over which man cannot pass.
+
+If human knowledge is unenlightened and imperfect, then the nature perceived and
+built up by this knowledge must in turn always be imperfect. And paradoxically,
+the very incompleteness of the nature conceived by human knowledge, a nature
+that is but a pale shadow of true nature, is proof that the nature from which
+science derived its image is whole and complete.
+
+The only direct means for confirming the perfection of nature is for each
+individual to come into immediate contact with the reality of nature and see for
+himself. Natural farming begins with the assumption that nature is perfect.
+Natural farming admits to the existence neither of insect pests nor of
+beneficial insects. If a pest outbreak occurs, one reflects that this was
+probably triggered by some human mistake.
 
 ## See Also
 
-- [[fukuoka-textdoc-three-ways-farming-compared]] for how wholistic
-perception distinguishes natural farming from other approaches
-- [[fukuoka-textdoc-maze-relative-subjectivity]] for the limitations
-of subjective observation
-- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-
-experimentation]] for the methodological implications
-- [[fukuoka-textdoc-errors-of-human-intellect]] for the broader
-critique of human cognitive limitations
+- [[fukuoka-how-nature-should-be-perceived]]
+- [[fukuoka-nature-perfect-imperfect]]
+- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
+- [[fukuoka-nature-transcends-human-knowledge]]
+- [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
