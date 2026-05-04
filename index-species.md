@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1252 pages**
+**1253 pages**
 
 ## #
 
@@ -1283,6 +1283,7 @@
 - [[tryptophan]]
 - [[tuber-melanosporum]]
 - [[turbina-corymbosa]]
+- [[turnera-diffusa]]
 - [[two-ag]]
 - [[typha-latifolia-entity]]
 

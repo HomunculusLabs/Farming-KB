@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1013 pages**
+**1018 pages**
 
 ## #
 
@@ -249,6 +249,7 @@
 - [[fukuoka-somalia-desert-greening-mission]]
 - [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-spiritual-philosophy-farming]]
+- [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
@@ -302,7 +303,9 @@
 - [[fukuoka-textdoc-non-causality-rice-blast-disease]]
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
 - [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]
+- [[fukuoka-textdoc-paddy-levee-construction-water-management]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
+- [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
@@ -313,9 +316,11 @@
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
 - [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-sericulture-natural-vs-scientific-silk-production]]
+- [[fukuoka-textdoc-soil-self-plowing-earthworm-ecology]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
+- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-textdoc-three-stages-collapse-only-future]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
