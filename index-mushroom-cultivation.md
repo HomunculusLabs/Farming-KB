@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1255 pages**
+**1254 pages**
 
 ## #
 
@@ -1149,7 +1149,6 @@
 - [[reishi-cultivation-guide]]
 - [[reishi-cultivation-methods]]
 - [[reishi-ganoderma-cancer-clinical-research]]
-- [[reishi-ganoderma-lucidum]]
 - [[reishi-mushroom-medicinal-properties]]
 - [[reishi-mushroom-medicinal-research]]
 - [[reishi-triterpenoids-pharmacology]]

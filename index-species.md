@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1288 pages**
+**1289 pages**
 
 ## #
 
@@ -1155,6 +1155,7 @@
 
 - [[ralph-metzner]]
 - [[rauwolfia-serpentina]]
+- [[reishi-ganoderma-lucidum]]
 - [[rhizoctonia-solani]]
 - [[rhizopogon-vinicolor]]
 - [[rhizopus-arrhizus]]

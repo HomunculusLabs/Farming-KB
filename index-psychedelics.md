@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1043 pages**
+**1053 pages**
 
 ## #
 
@@ -254,6 +254,7 @@
 - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
 - [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
+- [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
@@ -262,28 +263,35 @@
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
 - [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
+- [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
+- [[fukuoka-textdoc-epilogue-barley-philosophy]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
+- [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]
 - [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
 - [[fukuoka-textdoc-forest-productivity-without-fertilizer]]
 - [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
+- [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
+- [[fukuoka-textdoc-genetic-engineering-critique-warning]]
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
 - [[fukuoka-textdoc-hotel-building-model-harvest-yields]]
+- [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 - [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]]
+- [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]]
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
@@ -334,6 +342,7 @@
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
 - [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-sericulture-natural-vs-scientific-silk-production]]
+- [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 - [[fukuoka-textdoc-soil-self-plowing-earthworm-ecology]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
@@ -344,6 +353,7 @@
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
 - [[fukuoka-textdoc-traditional-pest-control-pyrethrum-derris-fowl]]
+- [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]
 - [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
 - [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
