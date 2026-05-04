@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1278 pages**
+**1283 pages**
 
 ## #
 
@@ -308,6 +308,7 @@
 - [[calcarisporium-arbuscula]]
 - [[calea-zacatechichi]]
 - [[calendula-officinalis]]
+- [[calocybe-gambosa]]
 - [[calvatia-gigantea]]
 - [[candida-albicans]]
 - [[cannabichromene-cbc]]
@@ -337,6 +338,7 @@
 - [[chestnut-entity]]
 - [[chinese-tallow-tree]]
 - [[cho-han-kyu]]
+- [[cinnamomum-verum]]
 - [[cladonia-alpestris]]
 - [[cladonia-stellaris]]
 - [[cladosporium-cladosporioides]]
@@ -906,6 +908,7 @@
 - [[norbaeocystin]]
 - [[norpsilocin]]
 - [[northern-lights]]
+- [[nymphaea-ampla]]
 - [[nymphaea-caerulea]]
 
 ## O
@@ -944,10 +947,12 @@
 - [[panama-red]]
 - [[panax-ginseng]]
 - [[pancratium-trianthum]]
+- [[panellus-stipticus]]
 - [[paracoccidioides-brasiliensis]]
 - [[passiflora-incarnata]]
 - [[paul-stamets]]
 - [[paul-wheaton]]
+- [[paullinia-cupana]]
 - [[paulownia-tomentosa]]
 - [[pawpaw]]
 - [[paxillus-involutus]]
