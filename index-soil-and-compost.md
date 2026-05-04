@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**384 pages**
+**387 pages**
 
 ## A
 
@@ -120,6 +120,7 @@
 - [[fermented-mixed-compost-fmc]]
 - [[fertilizer-pollution-environmental-impact]]
 - [[flushing-nutrients]]
+- [[foliar-pest-deterrence-aact-mechanisms]]
 
 ## G
 
@@ -371,6 +372,7 @@
 - [[soil-food-web-management-for-farmers]]
 - [[soil-food-web-nutrient-cycling]]
 - [[soil-food-web-structure]]
+- [[soil-foodweb-balancing-protocol-ingham]]
 - [[soil-health-and-management]]
 - [[soil-health-indicators]]
 - [[soil-health-management]]
@@ -398,6 +400,7 @@
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-mulching-and-cover-cropping]]
 - [[solomon-phosphorus-potassium-and-secondary-nutrients]]
+- [[solomon-potassium-yield-versus-nutrition-tradeoff]]
 - [[solomon-potting-mix-and-seedling-soil-recipe]]
 - [[solomon-sheet-composting-mulch-gardening]]
 - [[solomon-soil-mineral-depletion]]

@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**923 pages**
+**925 pages**
 
 ## A
 
@@ -393,6 +393,7 @@
 - [[cannabis-health-endo-cannabinoid-system]]
 - [[cannabis-health-index]]
 - [[cannabis-health-index-scoring]]
+- [[cannabis-health-index-scoring-evidence-methodology]]
 - [[cannabis-health-index-scoring-system]]
 - [[cannabis-health-methods-of-administration]]
 - [[cannabis-health-pain-management]]
@@ -797,6 +798,7 @@
 ## E
 
 - [[ec-tds-cannabis]]
+- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 - [[endocannabinoid-system]]
 
 ## F

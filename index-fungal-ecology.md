@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2278 pages**
+**2288 pages**
 
 ## #
 
@@ -109,6 +109,7 @@
 - [[artillery-fungus-and-built-environment-fungi]]
 - [[ascomycete-phylum-guide]]
 - [[ascomycota-phylogeny-major-classes-lineages]]
+- [[aseptic-inoculation-technique-fungal-cultures]]
 - [[asian-truffle-species]]
 - [[aspergillus-fumigatus-population-genetics]]
 - [[aspergillus-niger-in-fungal-bioleaching]]
@@ -293,6 +294,7 @@
 - [[brassinosteroid-effects-on-fungal-morphology]]
 - [[brassinosteroid-fungal-fruiting-body-morphology]]
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
+- [[brassinosteroids-phytohormones-fungal-growth-promotion]]
 - [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
 - [[brown-rot-fungi-biodegradation]]
 - [[brown-rot-white-rot-fungi-remediation]]
@@ -567,6 +569,7 @@
 - [[fukuoka-textdoc-cross-breeding-fungal-strain-mutability]]
 - [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
 - [[fukuoka-textdoc-microbes-as-scavengers-decomposition-drama]]
+- [[fukuoka-textdoc-straw-decomposition-ecological-succession]]
 - [[functional-genomics-arbuscular-mycorrhiza]]
 - [[functional-redundancy-fungal-communities]]
 - [[fungal-acidification-and-pollution-responses]]
@@ -1170,6 +1173,7 @@
 - [[gadd-mathematical-modelling-fungal-mycelia]]
 - [[gadd-mineral-transformations-biogeochemistry]]
 - [[gadd-mycelial-network-dynamics]]
+- [[gadd-nematode-trapping-fungi-functional-genomics]]
 - [[gadd-penicillium-marneffei-population-genetics]]
 - [[gadd-peroxisomes-ascomycete-lifestyle]]
 - [[gadd-rice-blast-magnaporthe-grisea]]
@@ -1197,6 +1201,7 @@
 - [[gordon-wasson-comparative-method-ethnomycology]]
 - [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
 - [[gourmet-mushroom-polypore-cultivation]]
+- [[grass-seed-substrate-preparation-mycology]]
 - [[grifron-d-maitake-beta-glucan]]
 - [[growing-beans-peas-legume-guide]]
 - [[growing-gourmet-basidium-spore-production]]
@@ -1274,6 +1279,7 @@
 - [[human-fungal-pathogens]]
 - [[human-uses-fungi-history]]
 - [[humus-formation-and-soil-organic-matter]]
+- [[humus-humic-acid-fulvic-acid-distinctions]]
 - [[hydrogen-peroxide-tissue-culture-wild-polypores]]
 - [[hyphal-biology-and-turgor-pressure]]
 - [[hyphal-growth-dynamics]]
@@ -1417,6 +1423,8 @@
 - [[mckenna-ergot-and-witches-sabbath-theory]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
 - [[mckenna-leafcutter-ant-fungal-agriculture]]
+- [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
+- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
 - [[medically-important-fungi-pathogens-opportunists]]
 - [[medicinal-mushroom-guide-agaricus-blazei]]
 - [[medicinal-mushroom-guide-cordyceps]]
@@ -1437,6 +1445,7 @@
 - [[mitosporic-fungi-diversity-species-estimates]]
 - [[moist-chamber-technique-fungal-fruiting]]
 - [[moist-chamber-techniques-fungi]]
+- [[molasses-fungal-food-sticker-spreader-ingham]]
 - [[molasses-wastewater-fungal-decolorization]]
 - [[mold-identification-guide]]
 - [[molecular-fungal-taxonomy]]
@@ -1835,6 +1844,7 @@
 - [[polypore-fungi-eastern-north-america]]
 - [[porcini-boletus-guide]]
 - [[pore-fungi-polyporaceae]]
+- [[pressure-cooker-sterilisation-fungal-substrate]]
 - [[primary-metabolic-precursors-to-the-shikimate-pathway]]
 - [[protein-fat-wastewater-fungi]]
 - [[proteomics-early-am-symbiosis-stages]]

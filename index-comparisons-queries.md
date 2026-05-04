@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**874 pages**
+**888 pages**
 
 ## A
 
@@ -45,6 +45,7 @@
 - [[comparison-autoflowering-vs-photoperiod]]
 - [[comparison-backyard-food-forest-vs-urban-permaculture]]
 - [[comparison-bacterial-dominant-vs-fungal-dominant-tea]]
+- [[comparison-bacteriophages-vs-antibiotics]]
 - [[comparison-bamboo-construction-vs-cob-building]]
 - [[comparison-bamboo-construction-vs-timber-frame-basics]]
 - [[comparison-bamboo-vs-cob-construction]]
@@ -88,6 +89,7 @@
 - [[comparison-brown-rot-vs-white-rot-bioremediation]]
 - [[comparison-bsf-composting-vs-earthworm-breeding]]
 - [[comparison-bsf-composting-vs-hot-composting]]
+- [[comparison-bsf-farming-vs-vermicomposting]]
 - [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
 - [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]
 - [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
@@ -187,6 +189,7 @@
 - [[comparison-fukuoka-vs-jadam-farming]]
 - [[comparison-gabions-vs-check-dams]]
 - [[comparison-goat-husbandry-vs-sheep-husbandry]]
+- [[comparison-grafting-vs-budding-fruit-trees]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
@@ -222,6 +225,7 @@
 - [[comparison-keyline-vs-swale]]
 - [[comparison-keyline-vs-swale-design]]
 - [[comparison-knf-vs-biodynamic]]
+- [[comparison-koji-vs-scoby-fermentation-culture]]
 - [[comparison-kombucha-vs-kefir]]
 - [[comparison-kratky-vs-dwc]]
 - [[comparison-lab-serum-vs-compost-tea]]
@@ -239,6 +243,7 @@
 - [[comparison-lollipopping-vs-supercropping]]
 - [[comparison-main-lining-vs-screen-of-green]]
 - [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
+- [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - [[comparison-martha-tent-vs-monotub]]
 - [[comparison-mead-making-vs-beer-brewing]]
 - [[comparison-microgreens-vs-sprouts]]
@@ -380,6 +385,7 @@
 - [[comparison-white-rot-vs-brown-rot-fungi]]
 - [[comparison-wicking-bed-vs-passive-wick-hydroponics]]
 - [[comparison-wicking-bed-vs-raised-bed]]
+- [[comparison-wild-fermentation-vs-commercial-starter-culture]]
 - [[comparison-wild-vs-cultured-yeast]]
 - [[comparison-windbreak-design-vs-species-selection]]
 - [[comparison-windbreak-vs-hedgerow]]
@@ -407,6 +413,7 @@
 
 ## H
 
+- [[heirloom-vs-hybrid-seeds-comparison]]
 - [[hemoglobin-vs-myoglobin]]
 - [[history-of-mycology-timeline]]
 - [[homestead-startup-checklist]]
@@ -475,6 +482,7 @@
 - [[query-difference-between-photoperiod-and-autoflowering-cannabis]]
 - [[query-difference-between-shiitake-and-oyster-mushrooms]]
 - [[query-difference-between-white-rot-and-brown-rot-fungi]]
+- [[query-difference-between-wild-fermentation-back-slopping-and-starter-culture]]
 - [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
 - [[query-dwc-vs-coco-coir-vs-soil-cannabis-growing]]
 - [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]]
@@ -484,6 +492,7 @@
 - [[query-how-can-i-design-a-climate-resilient-food-forest]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
+- [[query-how-do-bacteriophages-affect-soil-microbiome-and-plant-health]]
 - [[query-how-do-clay-seed-balls-work-for-natural-farming]]
 - [[query-how-do-cover-crops-suppress-weeds]]
 - [[query-how-do-different-composting-methods-compare]]
@@ -534,6 +543,7 @@
 - [[query-how-do-i-make-biodynamic-preparations-for-my-farm-or-garden]]
 - [[query-how-do-i-make-jadam-natural-pesticide-jnp]]
 - [[query-how-do-i-make-kimchi-with-lacto-fermentation]]
+- [[query-how-do-i-make-koji-at-home-for-beginners]]
 - [[query-how-do-i-make-seed-starting-mix-at-home]]
 - [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
@@ -555,6 +565,7 @@
 - [[query-how-do-i-start-a-small-permaculture-nursery]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
+- [[query-how-do-i-start-farming-spirulina-at-home]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
 - [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
 - [[query-how-do-i-use-biochar-in-my-garden]]
@@ -611,6 +622,7 @@
 - [[query-how-to-build-and-manage-a-root-cellar]]
 - [[query-how-to-build-and-use-a-solar-food-dehydrator]]
 - [[query-how-to-build-healthy-garden-soil]]
+- [[query-how-to-choose-cover-crops-for-your-climate-and-goals]]
 - [[query-how-to-choose-right-grow-light-cannabis]]
 - [[query-how-to-choose-the-right-cover-crop]]
 - [[query-how-to-choose-the-right-pot-size-for-cannabis]]
@@ -783,6 +795,7 @@
 - [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
 - [[query-what-are-the-stages-of-cannabis-growth]]
 - [[query-what-are-the-stages-of-mushroom-cultivation]]
+- [[query-what-are-the-three-sisters-and-how-do-i-plant-them]]
 - [[query-what-causes-airy-loose-cannabis-buds-and-how-to-prevent-them]]
 - [[query-what-causes-cannabis-bud-rot-and-how-to-prevent-it]]
 - [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]]
@@ -903,6 +916,7 @@
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[query-who-is-sepp-holzer-and-what-is-his-method]]
+- [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 - [[query-why-cant-heat-engines-be-100-percent-efficient]]
 
 ## R

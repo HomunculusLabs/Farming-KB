@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**833 pages**
+**836 pages**
 
 ## A
 
@@ -79,6 +79,7 @@
 - [[fermented-plant-juice-preparation-and-application]]
 - [[fish-amino-acid-faa]]
 - [[four-principles-of-natural-farming]]
+- [[four-principles-of-natural-farming-fukuoka]]
 - [[fukuoka-africa-natural-farming]]
 - [[fukuoka-african-agriculture-observations]]
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]]
@@ -415,6 +416,7 @@
 - [[fukuoka-spaniards-brought-bad-grasses]]
 - [[fukuoka-specter-food-scarcity]]
 - [[fukuoka-spider-leafhopper-natural-balance]]
+- [[fukuoka-spring-orchard-bloom-and-aesthetic-philosophy]]
 - [[fukuoka-stopping-desert-advance-natural-revegetation]]
 - [[fukuoka-straw-four-principles]]
 - [[fukuoka-straw-healing-the-earth]]
@@ -453,6 +455,7 @@
 - [[fukuoka-weed-diversity-soil-nutrients]]
 - [[fukuoka-weed-ecology]]
 - [[fukuoka-weed-management-and-green-manure]]
+- [[fukuoka-western-commitment-and-japanese-halfheartedness]]
 - [[fukuoka-western-eastern-philosophy-agriculture]]
 - [[fukuoka-western-root-vegetable-deficiency]]
 - [[fukuoka-western-vs-japanese-attitudes]]

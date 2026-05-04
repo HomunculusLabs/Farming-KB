@@ -2,10 +2,11 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**835 pages**
+**838 pages**
 
 ## A
 
+- [[aerobic-vs-anaerobic-tea-benefits-comparison]]
 - [[aeroponics-guide]]
 - [[alliums-growing-guide]]
 - [[alpine-plant-cultivation-guide]]
@@ -138,6 +139,7 @@
 
 ## D
 
+- [[darwin-phototropism-discovery-plant-light-perception]]
 - [[darwin-power-of-movement-in-plants]]
 - [[deep-water-culture]]
 - [[desalination-and-water-treatment-technologies]]
@@ -729,6 +731,7 @@
 - [[soft-fruit-growing-organic]]
 - [[solomon-chitting-and-presprouting-techniques]]
 - [[solomon-climate-zones-and-growing-seasons]]
+- [[solomon-cof-ingredient-roles-and-sourcing]]
 - [[solomon-companion-planting-evidence-based]]
 - [[solomon-crop-rotation-and-garden-planning]]
 - [[solomon-disease-identification-and-organic-remedies]]
