@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1095 pages**
+**1105 pages**
 
 ## #
 
@@ -277,8 +277,10 @@
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-epilogue-barley-philosophy]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]
+- [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
+- [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
 - [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]]
@@ -358,8 +360,10 @@
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
+- [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - [[fukuoka-textdoc-scientific-farming-energy-paradox]]
+- [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
 - [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
@@ -369,6 +373,7 @@
 - [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
 - [[fukuoka-textdoc-soil-self-plowing-earthworm-ecology]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
+- [[fukuoka-textdoc-soil-self-regulation-failure-lime-correction]]
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
@@ -428,6 +433,7 @@
 - [[hallucinogenic-plants-united-states]]
 - [[hallucinogens-and-shamanism-harner-anthology]]
 - [[halpern-native-us-dmt-maoi-plants]]
+- [[halpern-sacramental-peyote-and-native-american-church]]
 - [[harm-reduction-guide]]
 - [[harmala-alkaloids]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]
@@ -599,6 +605,7 @@
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-ecstasy-as-social-catalyst]]
 - [[mckenna-eleusinian-mysteries]]
+- [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-fall-of-partnership-society]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
@@ -655,6 +662,8 @@
 - [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-psychedelic-shamanism]]
 - [[mckenna-roland-fischer-psilocybin-visual-acuity]]
+- [[mckenna-search-for-soma-vedic-enigma]]
+- [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
 - [[mckenna-shamanic-meme]]
 - [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
@@ -675,6 +684,7 @@
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
 - [[mckenna-tryptamine-research-legal-status]]
+- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 - [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-vedic-soma-indo-european-mysteries]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]

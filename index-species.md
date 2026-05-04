@@ -2,11 +2,12 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1328 pages**
+**1333 pages**
 
 ## #
 
 - [[1p-lsd]]
+- [[1v-lsd]]
 - [[2-4-dma-entity-pihkal]]
 - [[2-5-dma-entity]]
 - [[2-5-dma-entity-pihkal]]
@@ -222,6 +223,7 @@
 - [[aphanocladium-album]]
 - [[arabidopsis-thaliana]]
 - [[araucaria-araucana]]
+- [[arctium-lappa]]
 - [[areca-catechu]]
 - [[argyreia-nervosa]]
 - [[ariadne-entity]]
@@ -641,6 +643,7 @@
 - [[hugelkultur]]
 - [[humphry-osmond]]
 - [[humulene]]
+- [[hydnellum-peckii]]
 - [[hydnum-repandum]]
 - [[hymenoscyphus-ericae]]
 - [[hyoscyamus-niger]]
@@ -1249,6 +1252,7 @@
 - [[silybum-marianum]]
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
+- [[skywalker-og]]
 - [[sophora-secundiflora-entity]]
 - [[sour-diesel]]
 - [[sparassis-crispa]]
@@ -1348,6 +1352,7 @@
 - [[trifolium-repens]]
 - [[trimethylarsine]]
 - [[tris-entity-pihkal]]
+- [[tropaeolum-majus]]
 - [[tryptamine]]
 - [[tryptamine-entity-tihkal]]
 - [[tryptophan]]

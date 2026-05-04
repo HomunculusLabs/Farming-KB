@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**872 pages**
+**874 pages**
 
 ## A
 
@@ -312,6 +312,7 @@
 - [[comparison-root-cellaring-vs-food-dehydration]]
 - [[comparison-sea-of-green-vs-screen-of-green]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
+- [[comparison-seaweed-extract-vs-fish-hydrolysate]]
 - [[comparison-seed-balls-vs-direct-seeding]]
 - [[comparison-seed-balls-vs-transplanting]]
 - [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
@@ -480,6 +481,7 @@
 - [[query-how-can-companion-plants-protect-cannabis-from-pests]]
 - [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]]
+- [[query-how-can-i-design-a-climate-resilient-food-forest]]
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
 - [[query-how-do-clay-seed-balls-work-for-natural-farming]]
