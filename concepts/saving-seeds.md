@@ -119,3 +119,7 @@ Many communities have seed libraries where members can borrow seeds, grow them, 
 - [[small-scale-grain-growing]] -- grain seed saving and selection
 - [[fruit-tree-propagation]] -- vegetative propagation as an alternative to seed saving for fruit trees
 - [[medicinal-herb-growing]] -- save seeds from your best medicinal herb plants
+- [[ultra-low-cost-seed-saving]] for budget-friendly seed saving methods
+- [[seed-saving-in-permaculture]] for seed saving within permaculture design systems
+- [[vegetable-seed-and-transplant-guide]] for seed starting and transplanting techniques
+- [[solomon-seed-saving-guide]] for Steve Solomon's approach to seed saving fundamentals

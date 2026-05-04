@@ -126,3 +126,8 @@ of the people who will manage it.
 ## See Also
 
 - [[ozier-pdc-composting-and-nutrient-cycles]]
+- [[teaming-with-microbes-compost-biology]] for the science of compost decomposition
+- [[teaming-with-nutrients-composting-and-nutrient-cycling]] for detailed nutrient cycle mechanics
+- [[teaming-with-microbes-compost-tea-and-inoculation]] for liquid compost methods
+- [[vermicomposting]] for worm-based composting systems
+- [[biochar-production-guide]] for biochar as a compost amendment

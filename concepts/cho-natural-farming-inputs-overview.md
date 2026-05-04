@@ -113,8 +113,12 @@ OHN is considered the most important input and is always included.
 
 ## See Also
 
-- [[cho-han-kyu-life-and-philosophy]]
+- [[cho-han-kyu-life-and-philosophy]] for the background and philosophy behind the system
+- [[korean-natural-farming]] for the broader KNF methodology and practice
+- [[natural-farming-knf-overview]] for a comprehensive introduction to Korean Natural Farming
 - [[knf-nutritive-cycle-theory]]
 - [[knf-seed-treatment-and-soil-foundation]]
 - [[knf-plant-stage-treatments]]
 - [[knf-preparations]]
+- [[cho-seed-seedling-solution-treatment]] for seed preparation inputs
+- [[knf-fermented-mixed-compost]] for soil-building compost recipes

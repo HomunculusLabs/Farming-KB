@@ -146,3 +146,8 @@ structures; repairing erosion damage promptly; controlling burrowing animals
 in dam walls; managing aquatic vegetation; and desilting when sediment
 significantly reduces storage capacity.
 ## See Also
+
+- [[swale-design]] and [[swale-construction-guide]] for complementary earthwork water-harvesting techniques
+- [[water-storage-techniques]] and [[water-catchment-permaculture]] for broader water management strategies
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] for the full design manual treatment
+- [[water-management]] for integrated water cycle design
