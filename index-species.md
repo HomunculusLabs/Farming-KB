@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1377 pages**
+**1387 pages**
 
 ## #
 
@@ -24,6 +24,7 @@
 - [[2c-b]]
 - [[2c-b-entity]]
 - [[2c-b-entity-pihkal]]
+- [[2c-b-fly]]
 - [[2c-c-entity]]
 - [[2c-c-entity-pihkal]]
 - [[2c-d-entity]]
@@ -328,6 +329,7 @@
 - [[calendula-officinalis]]
 - [[calocybe-gambosa]]
 - [[calvatia-gigantea]]
+- [[camellia-sinensis-entity]]
 - [[candida-albicans]]
 - [[canna-indica]]
 - [[cannabichromene-cbc]]
@@ -369,6 +371,7 @@
 - [[claviceps-paspali]]
 - [[claviceps-purpurea]]
 - [[cleve-backster]]
+- [[clitocybe-nuda-entity]]
 - [[clitocybe-odora]]
 - [[clitoria-ternatea]]
 - [[clonostachys-rosea]]
@@ -511,6 +514,7 @@
 - [[ephedrine]]
 - [[epibrassinolide]]
 - [[epichloe-typhina]]
+- [[equisetum-arvense]]
 - [[ergine]]
 - [[ergine-lsa]]
 - [[ergotamine]]
@@ -742,6 +746,7 @@
 - [[juglans-regia]]
 - [[jujube-entity]]
 - [[julius-palmer]]
+- [[jungle-cake]]
 - [[justicia-pectoralis]]
 
 ## K
@@ -983,6 +988,7 @@
 - [[octavia-e-butler]]
 - [[og-kush]]
 - [[oidiodendron-maius]]
+- [[omphalotus-olearius]]
 - [[ophiostoma-minus]]
 - [[oriental-herbal-nutrient]]
 - [[oriental-herbal-nutrient-ohn]]
@@ -1053,12 +1059,14 @@
 - [[pineapple-express-entity]]
 - [[pinene]]
 - [[piper-methysticum]]
+- [[piper-nigrum-entity]]
 - [[piperine]]
 - [[piptoporus-betulinus]]
 - [[piriformospora-indica]]
 - [[pisolithus-arhizus]]
 - [[pisolithus-tinctorius]]
 - [[pistacia-vera-entity]]
+- [[plant-guild]]
 - [[plantago-major]]
 - [[pleuran]]
 - [[pleurotus-citrinopileatus]]
@@ -1249,6 +1257,7 @@
 - [[roland-griffiths]]
 - [[rolf-singer]]
 - [[rosmarinus-officinalis-entity]]
+- [[rubus-idaeus-entity]]
 - [[runtz]]
 - [[runtz-cannabis]]
 - [[russula-emetica]]
@@ -1344,6 +1353,7 @@
 - [[tetrapteris-methystica]]
 - [[thelephora-terrestris]]
 - [[three-sisters]]
+- [[thymus-vulgaris-entity]]
 - [[timothy-leary]]
 - [[tinospora-cordifolia]]
 - [[tipuana-tipu]]

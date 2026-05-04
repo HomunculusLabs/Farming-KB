@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**888 pages**
+**892 pages**
 
 ## A
 
@@ -234,6 +234,7 @@
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-lions-mane-vs-cordyceps-cultivation]]
+- [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
 - [[comparison-liquid-culture-vs-grain-spawn]]
 - [[comparison-living-mulch-vs-cover-crops]]
 - [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]
@@ -246,6 +247,7 @@
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - [[comparison-martha-tent-vs-monotub]]
 - [[comparison-mead-making-vs-beer-brewing]]
+- [[comparison-microgreens-vs-shoots-growing]]
 - [[comparison-microgreens-vs-sprouts]]
 - [[comparison-miso-vs-natto]]
 - [[comparison-monoculture-vs-polyculture]]
@@ -530,6 +532,7 @@
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
+- [[query-how-do-i-identify-and-control-common-garden-pests-organically]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
 - [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
@@ -633,6 +636,7 @@
 - [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]]
 - [[query-how-to-design-a-chicken-tractor-system]]
 - [[query-how-to-design-a-food-forest-for-a-tropical-climate]]
+- [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-how-to-design-a-food-forest-on-a-slope]]
 - [[query-how-to-design-a-permaculture-property-from-scratch]]
 - [[query-how-to-design-a-pollinator-garden]]

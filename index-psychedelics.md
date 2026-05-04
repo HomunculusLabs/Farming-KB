@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1129 pages**
+**1131 pages**
 
 ## #
 
@@ -801,6 +801,7 @@
 - [[permaculture-poultry-orchard-integration]]
 - [[persephone-abduction-and-narkissos]]
 - [[persephone-and-demeter-in-the-mysteries]]
+- [[peruvian-drug-war-and-ayahuasca-acceptance]]
 - [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
 - [[peyote-and-mescaline]]
 - [[peyote-and-psychoactive-cacti]]
@@ -936,6 +937,7 @@
 - [[psilocybin-potency-variation]]
 - [[psilocybin-psilocin-chemical-synthesis]]
 - [[psilocybin-psilocin-chemistry]]
+- [[psilocybin-psilocin-flush-variation]]
 - [[psilocybin-psychological-mechanisms]]
 - [[psilocybin-psychotherapy]]
 - [[psilocybin-psychotherapy-research-history]]
