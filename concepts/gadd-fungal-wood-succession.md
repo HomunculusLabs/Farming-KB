@@ -13,12 +13,18 @@ sources: ["raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-e
 
 ## Overview
 
-[[wood-decomposition-by-fungi]] is a major pathway in forest carbon and nutrient cycling. The process involves predictable patterns of species succession driven by substrate quality changes, combative interactions between fungal species, and the functional differences between decay types (white rot, brown rot, and soft rot). Stable isotope analysis (d13C and d15N) provides powerful tools for investigating [[fungal-ecology]] during wood decomposition.
+[[wood-decomposition-by-fungi]] is a major pathway in forest carbon and nutrient cycling.
+[[fungal-ecology]] provides the framework for understanding the process, which involves
+predictable patterns of species succession driven by substrate quality changes, combative
+interactions between fungal species, and the functional differences between decay types
+(white rot, brown rot, and soft rot). Stable isotope analysis (d13C and d15N) provides
+powerful tools for investigating these dynamics during wood decomposition.
 
 ## Decay Types
 
 ### White Rot (Basidiomycota)
-- Utilizes all cell-wall components (cellulose, hemicellulose, and lignin)
+[[basidiomycota-classification-major-clades]] includes the white-rot fungi that
+utilize all cell-wall components (cellulose, hemicellulose, and lignin)
 - Produces lignin and manganese peroxidases
 - Some species use laccase as sole lignin-oxidizing enzyme when redox-mediator molecules are present
 - Examples: [[staycare-trametes-versicolor-bioremediation-applications]], Pycnoporus cinnabarinus
@@ -94,7 +100,8 @@ Stable isotope analysis (d15N and d13C in larvae, wood, and mycelium) can help d
 
 ## Invertebrate Grazing Effects
 
-- Mycelia are highly nutritious; Collembola, termites, nematodes, and Diptera graze on fungal mycelia
+[[soil-food-web-nutrient-cycling]] depends on the interactions between
+fungi and their invertebrate grazers. Mycelia are highly nutritious; Collembola, termites, nematodes, and Diptera graze on fungal mycelia
 - Different fungi are preferentially grazed in different regions (hyphal tips, cords, fine mycelium)
 - Grazing can alter mycelial morphology and foraging patterns
 - Intense grazing can completely destroy mycelia

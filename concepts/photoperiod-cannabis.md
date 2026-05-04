@@ -18,7 +18,7 @@ successful cannabis cultivation.
 
 ## Biological Mechanism
 
-Cannabis contains photoreceptor proteins (phytochromes) that detect the ratio of red to
+[[cannabis-plant-anatomy]] contains photoreceptor proteins (phytochromes) that detect the ratio of red to
 far-red light. During daylight, phytochromes exist primarily in the active (Pfr) form.
 In darkness, they slowly revert to the inactive (Pr) form. When the dark period exceeds
 a critical threshold (approximately 12 hours), the accumulated Pr form triggers the
@@ -30,7 +30,7 @@ flowers in autumn when days naturally shorten.
 Most strains of cannabis will remain in vegetative growth as long as 18-24 hours of
 light and 0-6 hours of dark are maintained. Eighteen hours of light per day provides all
 the light cannabis needs to sustain vegetative growth. Research shows plants grow faster
-under 24 hours of continuous light. Cloning, transplanting, pruning, and training are all
+under 24 hours of continuous light. [[cannabis-cloning]], transplanting, pruning, and training are all
 initiated during the vegetative stage under a long-day photoperiod.
 
 ## Flowering Photoperiod
@@ -89,7 +89,7 @@ providing a window for sex identification.
 
 ## Photoperiod and Outdoor Growing
 
-Outdoors, the natural photoperiod controls flowering. Plants begin flowering as days
+[[outdoor-cannabis-growing]], the natural photoperiod controls flowering. Plants begin flowering as days
 shorten in late summer. In tropical regions near the equator, the near-equal day length
 allows year-round flowering. [[light-deprivation-cannabis]] techniques allow outdoor and
 greenhouse growers to manipulate the natural photoperiod.

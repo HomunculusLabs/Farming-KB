@@ -18,7 +18,8 @@ Cannabis testing is the laboratory analysis of cannabis flowers, concentrates, a
 
 ### Potency Testing
 
-Potency testing measures the concentration of cannabinoids in a sample. This is the most common and widely recognized form of cannabis testing.
+[[cannabis-seed-banks-and-genetics]] directly influence the chemical
+composition that potency testing measures. Potency testing measures the concentration of cannabinoids in a sample. This is the most common and widely recognized form of cannabis testing.
 
 **Cannabinoids Tested:**
 - **THC (Delta-9 Tetrahydrocannabinol):** Primary psychoactive compound
@@ -100,6 +101,8 @@ A COA is the official lab document containing all test results for a specific ba
 
 ## Quality Beyond Testing
 
+[[cannabis-living-soil-guide]] and [[cannabis-outdoor-growing]] methods
+directly influence the terpene and cannabinoid profiles that testing reveals.
 Testing is a snapshot. Other quality factors include:
 
 - **Growing practices:** [[cannabis-living-soil-guide|Living soil]] and [[cannabis-outdoor-growing|organic]] methods produce superior terpene content
@@ -109,7 +112,9 @@ Testing is a snapshot. Other quality factors include:
 
 ## Home Testing Options
 
-- **At-home THC/CBD test kits:** Rough estimates (limited accuracy)
+[[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]]
+genetics produce different baseline cannabinoid profiles that
+at-home testing can roughly estimate. Practical options include:
 - **Jeweler's loupe (60-100x):** Visual trichome inspection for harvest timing
 - **pH and EC meters:** For monitoring growing conditions
 - **Microscope:** For pest and mold identification

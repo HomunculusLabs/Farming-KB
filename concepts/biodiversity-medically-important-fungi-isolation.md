@@ -28,8 +28,8 @@ isolations.
 
 ## Sources and Categories of Mycotic Diseases
 
-Most mycotic diseases are acquired from non-animal environmental
-sources rather than through contagion. The majority of mycotic disease
+[[fungal-biodiversity]] surveys reveal that most mycotic diseases are acquired
+from non-animal environmental sources rather than through contagion. The majority of mycotic disease
 agents have saprobic ecological roles through which they exert their
 main ecological impact. [[aspergillus-fumigatus]], for example, although
 capable of causing disease in heavily exposed or immunocompromised
@@ -52,8 +52,8 @@ penetration that activates vertebrate immune responses.
 
 ## Systemic Pathogens and the Onygenales
 
-The majority of specialized filamentous fungal pathogens of
-homeothermic vertebrates belong to the Ascomycete order Onygenales.
+[[fungal-taxonomy]] classifies the majority of specialized filamentous
+fungal pathogens of homeothermic vertebrates within the Ascomycete order Onygenales.
 This group includes dermatophytes (teleomorph Arthroderma; anamorphs
 in Trichophyton, Microsporum, Epidermophyton) and systemic pathogens
 (teleomorph Ajellomyces; anamorphs in Blastomyces, Histoplasma,
@@ -95,7 +95,8 @@ Fonsecaea, and Onychocola.
 
 ## Environmental Isolation Techniques
 
-Environmental isolation of medically important fungi targets three
+[[biodiversity-fungal-culture-media]] provides the foundational methods
+for environmental isolation of medically important fungi, which targets three
 categories: systemic pathogens, dermatophytes, and opportunistic
 pathogens. For systemic pathogens, soil samples from endemic areas are
 processed using selective media. Bird and bat guano deposits are

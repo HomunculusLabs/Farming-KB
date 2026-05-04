@@ -58,7 +58,8 @@ suppress competitors provide a direct fitness advantage.
 The systematic study of secondary metabolites from
 coprophilous fungi was largely initiated by James B.
 Gloer and collaborators at the University of Iowa.
-Their approach involved culturing coprophilous fungi on
+[[mycology]] researchers in this program approached
+the work by culturing coprophilous fungi on
 defined media, extracting secondary metabolites, and
 screening extracts for antimicrobial, cytotoxic, and
 other biological activities. This program has yielded
@@ -80,6 +81,7 @@ in dung.
 
 ### Sordarin and Analogues
 
+[[saprotrophic-fungi]] produce diverse antifungal compounds.
 Sordarin is a glycosidic antifungal compound produced
 by Sordaria species that selectively inhibits fungal
 protein synthesis by targeting elongation factor 2.
@@ -146,3 +148,7 @@ following groups:
 - **Pleosporaceae**: Various genera producing
   anthraquinone derivatives and other aromatic
 ## See Also
+
+- [[fungal-biodiversity]] — broader context of fungal diversity
+- [[biodiversity-fungal-secondary-metabolites]] — overview of fungal secondary metabolite diversity
+- [[fungal-ecology]] — ecological roles of fungi
