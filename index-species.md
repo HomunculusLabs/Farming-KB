@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1294 pages**
+**1300 pages**
 
 ## #
 
@@ -227,6 +227,7 @@
 - [[armillaria-mellea]]
 - [[armillaria-ostoyae]]
 - [[artemisia-absinthium]]
+- [[artemisia-annua]]
 - [[artemisia-vulgaris-entity]]
 - [[arthrobotrys-musiformis]]
 - [[arthrobotrys-oligospora]]
@@ -270,6 +271,7 @@
 - [[beug]]
 - [[bigwood]]
 - [[bill-mollison]]
+- [[biochar]]
 - [[bis-tom-entity-pihkal]]
 - [[bjerkandera-adusta]]
 - [[black-locust-entity]]
@@ -353,6 +355,7 @@
 - [[coleus-blumei]]
 - [[colletotrichum-gloeosporioides]]
 - [[comfrey]]
+- [[comfrey-permaculture]]
 - [[comfrey-symphytum-officinale]]
 - [[compass-pathways]]
 - [[coniophora-puteana]]
@@ -427,6 +430,7 @@
 - [[dmpea-entity-pihkal]]
 - [[dmt]]
 - [[dmt-entity-tihkal]]
+- [[do-si-dos]]
 - [[doam-entity]]
 - [[doam-entity-pihkal]]
 - [[dob-entity]]
@@ -852,6 +856,7 @@
 - [[mimosa-hostilis]]
 - [[mimosa-pudica]]
 - [[mimosa-tenuiflora]]
+- [[miprocin]]
 - [[mipt-entity-tihkal]]
 - [[mitragyna-speciosa]]
 - [[mitragynine]]
@@ -1337,6 +1342,7 @@
 
 - [[valentina-pavlovna-wasson]]
 - [[valeriana-officinalis]]
+- [[verbascum-thapsus]]
 - [[verticillium-biguttatum]]
 - [[verticillium-dahliae]]
 - [[verticillium-lecanii]]

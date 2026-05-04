@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1254 pages**
+**1264 pages**
 
 ## #
 
@@ -212,6 +212,8 @@
 - [[egyptian-mushroom-symbolism]]
 - [[egyptian-mushroom-temple-architecture]]
 - [[eleusinian-oracle-vs-mexican-mushroom-oracle]]
+- [[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]]
+- [[emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology]]
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
@@ -219,14 +221,17 @@
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
+- [[emcdda-hallucinogenic-mushroom-legal-loopholes]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 - [[emcdda-hallucinogenic-mushroom-legal-responses]]
 - [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
 - [[emcdda-hallucinogenic-mushroom-markets]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
+- [[emcdda-hallucinogenic-mushroom-polydrug-use-patterns]]
 - [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
+- [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]
@@ -1043,11 +1048,16 @@
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-fruiting-chamber]]
 - [[pf-tek-guide]]
+- [[pf-tek-low-humidity-symptoms-and-remediation]]
+- [[pf-tek-maximum-fruiting-substrate-formula]]
 - [[pf-tek-mushroom-growth-timeline]]
+- [[pf-tek-non-germination-troubleshooting]]
 - [[pf-tek-overview-and-history]]
 - [[pf-tek-perlite-humidification-technique]]
+- [[pf-tek-pressure-canner-sterilization]]
 - [[pf-tek-psilocybe-fanaticus]]
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
+- [[pf-tek-spraying-and-ventilation-procedure]]
 - [[pf-tek-steam-sterilization-technique]]
 - [[phase-ii-room-design]]
 - [[pine-mushroom-forestry-management]]

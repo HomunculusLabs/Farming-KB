@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**384 pages**
+**383 pages**
 
 ## A
 
@@ -28,7 +28,6 @@
 
 - [[bacterial-associates-amf-structures-biocontrol]]
 - [[bacterial-plant-diseases]]
-- [[biochar]]
 - [[biochar-in-agriculture]]
 - [[biochar-production-guide]]
 - [[biochar-soil-amendment]]
