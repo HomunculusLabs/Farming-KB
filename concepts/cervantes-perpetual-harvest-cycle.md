@@ -119,6 +119,10 @@ regular intervals. For an eight-week flowering strain:
 This approach also eases the workload at harvest time, as only a portion of
 the total crop is harvested at any given time. Drying and [[cervantes-curing-storage]] space requirements are also spread out.
 
+[[aeroponics-cannabis]] offers an alternative growing method that pairs well with perpetual harvest scheduling for growers seeking faster growth rates.
+
+[[cannabis-indica]] and [[cannabis-sativa]] lineages differ significantly in flowering time, directly affecting harvest frequency in perpetual systems.
+
 ## Limitations
 
 - Higher initial setup cost for multiple rooms/zones

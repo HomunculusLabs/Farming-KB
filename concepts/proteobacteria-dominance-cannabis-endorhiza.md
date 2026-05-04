@@ -121,11 +121,15 @@ relative to bulk soil. This conservation across distantly related plant
 species suggests fundamental convergent selection for fast-growing,
 nutrient-responsive bacteria in the root interior.
 
+[[pseudomonas]] species are among the best-characterized plant growth-promoting rhizobacteria and dominate the Cannabis endorhiza.
+
 Winston et al. note that with the exception of Cellvibrio (see
 [[cellvibrio-and-root-decay-microbiome]]), all prevalent core endorhiza
 members are well-known endophytic bacteria primarily within Gammaproteo-
 bacteria and Alphaproteobacteria, supporting observations from Arabidopsis
 and poplar plant systems.
+
+[[bacterial-endophytes-plant-roots]] describes the broader context of bacterial colonization within root tissues across diverse plant species. [[rhizosphere-microbiome-selection-model]] explains the two-step selection process driving these community shifts from bulk soil to root interior.
 
 ## Bacteroidetes as Secondary Contributors
 

@@ -30,6 +30,8 @@ large as olives. One of the few members of the Apocynaceae utilized
 as a hallucinogen, its yellowish root is the active part of the plant,
 containing the psychoactive alkaloids.
 
+[[ibogaine]] is the primary psychoactive indole alkaloid found in the root bark of *Tabernanthe iboga*. [[tabernanthe-iboga]] provides a detailed botanical profile of this sacred shrub. [[voacanga-africana]] is a related Apocynaceous species containing the ibogaine-like alkaloid voacangine.
+
 ## Chemistry of Iboga
 
 As with other hallucinogens, especially [[schultes-psilocybe-little-flowers-gods]]

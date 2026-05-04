@@ -42,6 +42,8 @@ ERM associations dominate in heathlands and acidic soils:
 
 See [[ericoid-and-orchid-mycorrhizae]] for additional information on ericoid systems.
 
+[[glomalin]] is the recalcitrant glycoprotein produced by AM hyphae that contributes significantly to stable soil carbon pools.
+
 ## Nitrogen Economics
 
 ### The Saprotrophic-Mycorrhizal Divide
@@ -56,6 +58,8 @@ This nitrogen partitioning is a key component of [[fungal-role-in-nitrogen-cycli
 ### Mycoheterotrophs
 
 Non-photosynthetic plants (e.g., *Cryptothallus mirabilis*, some orchids) obtain all carbon and nitrogen from mycorrhizal fungi. These "cheaters" show the highest 15N enrichment and the most depleted 13C values, reflecting their complete dependence on fungal intermediaries.
+
+[[ectomycorrhizal-ecology]] provides comprehensive coverage of EM fungal biology and their dominant role in boreal and temperate forest nutrient cycling.
 
 ## The Gadgil Effect
 

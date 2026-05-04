@@ -164,6 +164,10 @@ like a gymnast launching from a vaulting horse, propelling the spore ball with
 a force of 10,000 times the acceleration due to gravity. The spore balls stick
 to smooth surfaces with incredible tenacity and can damage car paintwork.
 
+[[ballistospore-discharge]] describes the ballistic spore launch used by typical agarics — the very system gasteromycetes have abandoned in favour of animal and rain dispersal. [[fungal-spore-dispersal]] covers the full range of dispersal strategies across the fungal kingdom.
+
+[[basidiospore-discharge-mechanism]] explains the physics of active spore release in agarics and other hymenomycetes.
+
 ## Ecological Significance
 
 Stinkhorn and cage fungi play important roles in forest ecosystems as
