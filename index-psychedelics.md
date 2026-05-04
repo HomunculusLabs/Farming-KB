@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1018 pages**
+**1023 pages**
 
 ## #
 
@@ -249,12 +249,14 @@
 - [[fukuoka-somalia-desert-greening-mission]]
 - [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-spiritual-philosophy-farming]]
+- [[fukuoka-textdoc-absence-no-fertilizer-tests]]
 - [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
 - [[fukuoka-textdoc-decline-quality-food]]
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
+- [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
@@ -264,6 +266,7 @@
 - [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 - [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
+- [[fukuoka-textdoc-forest-productivity-without-fertilizer]]
 - [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
@@ -303,6 +306,8 @@
 - [[fukuoka-textdoc-non-causality-rice-blast-disease]]
 - [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
 - [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]
+- [[fukuoka-textdoc-one-thing-is-all-things-holism]]
+- [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]

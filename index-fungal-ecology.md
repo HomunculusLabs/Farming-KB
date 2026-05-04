@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2254 pages**
+**2257 pages**
 
 ## #
 
@@ -923,6 +923,7 @@
 - [[fungal-pesticide-and-herbicide-degradation]]
 - [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
 - [[fungal-ph-tolerance]]
+- [[fungal-pheromones]]
 - [[fungal-pheromones-and-sexual-signaling]]
 - [[fungal-pheromones-sexual-reproduction]]
 - [[fungal-phylogeny-kingdom-classification]]
@@ -1041,6 +1042,7 @@
 - [[fungal-temperature-responses]]
 - [[fungal-textile-dye-effluent-decolorization]]
 - [[fungal-toxins-and-poisonous-mushrooms]]
+- [[fungal-toxins-as-insecticides]]
 - [[fungal-toxins-reference]]
 - [[fungal-trait-based-ecology]]
 - [[fungal-treatment-of-distillery-and-brewery-wastes]]
@@ -1883,6 +1885,7 @@
 - [[rust-fungi]]
 - [[rust-fungi-biodiversity-life-cycles]]
 - [[rust-fungi-guide]]
+- [[rust-fungi-life-cycle]]
 
 ## S
 

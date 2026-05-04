@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1253 pages**
+**1263 pages**
 
 ## #
 
@@ -302,6 +302,7 @@
 ## C
 
 - [[calcarisporium-arbuscula]]
+- [[calea-zacatechichi]]
 - [[calendula-officinalis]]
 - [[calvatia-gigantea]]
 - [[candida-albicans]]
@@ -556,9 +557,11 @@
 - [[gonatobotryum-fuscum]]
 - [[gordon-wasson]]
 - [[gorilla-glue]]
+- [[goumi]]
 - [[graham-burnett]]
 - [[gramine]]
 - [[granddaddy-purple]]
+- [[green-crack]]
 - [[greg-green]]
 - [[grifola-frondosa]]
 - [[grifolan]]
@@ -764,6 +767,7 @@
 - [[maps-multidisciplinary-association-for-psychedelic-studies]]
 - [[marasmius-oreades]]
 - [[maria-sabina]]
+- [[mark-shepard]]
 - [[masanobu-fukuoka]]
 - [[master-cho]]
 - [[matricaria-chamomilla]]
@@ -860,6 +864,7 @@
 - [[muscarine]]
 - [[muscimol]]
 - [[mycelium]]
+- [[mycena-chlorophos]]
 - [[mycena-citrinomarginata]]
 - [[mycena-cyanorrhiza]]
 - [[mycena-galopus]]
@@ -880,6 +885,7 @@
 - [[n-methyl-pea-entity]]
 - [[nabilone]]
 - [[neem]]
+- [[nelumbo-nucifera]]
 - [[neocallimastix-frontalis]]
 - [[net-entity-tihkal]]
 - [[neurospora-crassa]]
@@ -1211,6 +1217,7 @@
 - [[suillus-variegatus]]
 - [[sun-ra]]
 - [[super-lemon-haze]]
+- [[super-silver-haze]]
 - [[symphytum-officinale]]
 
 ## T
@@ -1232,6 +1239,7 @@
 - [[tetrapteris-methystica]]
 - [[thelephora-terrestris]]
 - [[timothy-leary]]
+- [[tinospora-cordifolia]]
 - [[tipuana-tipu]]
 - [[tm-entity]]
 - [[tm-entity-pihkal]]
@@ -1282,6 +1290,7 @@
 - [[tryptamine-entity-tihkal]]
 - [[tryptophan]]
 - [[tuber-melanosporum]]
+- [[tulsi]]
 - [[turbina-corymbosa]]
 - [[turnera-diffusa]]
 - [[two-ag]]
@@ -1324,6 +1333,7 @@
 - [[william-ozier-williams]]
 - [[win55212-2]]
 - [[withania-somnifera]]
+- [[wolfiporia-extensa]]
 
 ## X
 
