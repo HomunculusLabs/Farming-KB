@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**870 pages**
+**872 pages**
 
 ## A
 
@@ -101,6 +101,7 @@
 - [[comparison-cannabis-sativa-vs-cannabis-ruderalis]]
 - [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
+- [[comparison-chaga-vs-reishi]]
 - [[comparison-chaga-vs-reishi-medicinal]]
 - [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-chamomile-vs-dandelion]]
@@ -572,6 +573,7 @@
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
 - [[query-how-do-photonic-crystals-create-structural-color]]
 - [[query-how-do-psychedelics-change-consciousness]]
+- [[query-how-do-slime-molds-decompose-organic-matter]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
 - [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]
 - [[query-how-do-you-make-your-own-mushroom-spawn-at-home]]

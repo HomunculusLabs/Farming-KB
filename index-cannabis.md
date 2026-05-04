@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**922 pages**
+**923 pages**
 
 ## A
 
@@ -442,6 +442,7 @@
 - [[cannabis-methods-of-consumption]]
 - [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-microbial-terpene-enhancement]]
+- [[cannabis-microbiome-cultivar-specificity]]
 - [[cannabis-microbiome-experimental-design]]
 - [[cannabis-microbiome-research]]
 - [[cannabis-minor-cannabinoids]]

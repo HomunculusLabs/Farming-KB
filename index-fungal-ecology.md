@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2271 pages**
+**2278 pages**
 
 ## #
 
@@ -13,6 +13,7 @@
 
 - [[aact-fungal-dominant-tea]]
 - [[aact-nematode-protozoa-management-ingham]]
+- [[acidobacteria-decline-rhizosphere-endorhiza-transition]]
 - [[acidophilic-alkalophilic-fungi]]
 - [[actinorhizal-symbiosis-frankia]]
 - [[aflatoxins-mycotoxins-food]]
@@ -536,6 +537,7 @@
 - [[fairy-rings-and-giant-mycelia]]
 - [[fairy-rings-folklore-and-science]]
 - [[fairy-rings-mycelium-ecology-soil]]
+- [[fanaticus-spore-printing-and-syringe-preparation]]
 - [[fertilizers-and-mycorrhizae]]
 - [[fire-associated-fungi]]
 - [[fly-agaric-amanita-muscaria]]
@@ -1224,11 +1226,14 @@
 - [[guttation-root-pressure-and-maple-sap-physiology]]
 - [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]
 - [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
 - [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
 - [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
+- [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
 - [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
+- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
 - [[guzman-allen-gartz-neurotropic-fungi-africa]]
 - [[guzman-allen-gartz-neurotropic-fungi-asia]]
@@ -1719,6 +1724,7 @@
 - [[neurotropic-fungi]]
 - [[neurotropic-fungi-biogeographic-patterns]]
 - [[neurotropic-fungi-classification]]
+- [[neurotropic-fungi-distribution]]
 - [[neurotropic-fungi-in-africa]]
 - [[neurotropic-fungi-in-asia]]
 - [[neurotropic-fungi-in-central-america]]
@@ -1801,6 +1807,7 @@
 - [[petroleum-degradation-fungi]]
 - [[petroleum-hydrocarbon-fungal-biodegradation]]
 - [[pezizales-discomycete-ascomycete-diversity]]
+- [[pf-tek-spore-printing-and-syringe-preparation]]
 - [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
 - [[phallus-impudicus-stinkhorn]]
 - [[phase-i-compost-preparation-agaricus]]

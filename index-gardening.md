@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**832 pages**
+**835 pages**
 
 ## A
 
@@ -353,6 +353,7 @@
 ## H
 
 - [[habitat-nooks-for-garden-wildlife]]
+- [[halpern-lysergic-acid-amide-plants-and-pharmacology]]
 - [[hamilton-alpine-plants-growing]]
 - [[hamilton-annual-flowers-organic]]
 - [[hamilton-asparagus-growing-organic]]
@@ -633,6 +634,8 @@
 - [[plant-olfaction-and-chemical-sensing]]
 - [[plant-olfaction-what-a-plant-smells]]
 - [[plant-perception]]
+- [[plant-photoreception-and-phototropism]]
+- [[plant-photoreceptor-evolution-from-photolyases]]
 - [[plant-propagation]]
 - [[plant-propagation-methods]]
 - [[plant-propagation-techniques]]

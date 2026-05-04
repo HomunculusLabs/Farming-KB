@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1087 pages**
+**1095 pages**
 
 ## #
 
@@ -173,6 +173,7 @@
 - [[dmt-extraction-guide]]
 - [[dmt-hyperspace-and-machine-elves]]
 - [[dmt-reference]]
+- [[dmt-self-transforming-machine-elves-mckenna]]
 - [[dmt-smoking-and-administration-methods]]
 - [[dmt-smoking-technique-and-preparation]]
 - [[do-family-compounds-pihkal]]
@@ -413,6 +414,8 @@
 - [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]
 - [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]]
 - [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
+- [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]]
+- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
 
 ## H
 
@@ -424,6 +427,7 @@
 - [[hallucinogenic-plants-of-the-world]]
 - [[hallucinogenic-plants-united-states]]
 - [[hallucinogens-and-shamanism-harner-anthology]]
+- [[halpern-native-us-dmt-maoi-plants]]
 - [[harm-reduction-guide]]
 - [[harmala-alkaloids]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]
@@ -706,6 +710,7 @@
 - [[metzner-lsd-psychotherapy-approaches]]
 - [[metzner-mdma-assisted-therapy-research]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
+- [[metzner-shamanic-healing-divination-worldview]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[microdosing-guide]]
 - [[microdosing-theory-and-practice]]
@@ -962,6 +967,7 @@
 - [[psychoactive-cacti-guide]]
 - [[psychoactive-cacti-of-central-mexico]]
 - [[psychoactive-cacti-species-reference]]
+- [[psychoactive-plants-united-states]]
 
 ## Q
 
@@ -1026,6 +1032,7 @@
 - [[shamanic-use-of-psychedelics]]
 - [[shanshi-coriaria-thymifolia-andean-entheogen]]
 - [[shipibo-icaros-healing-songs]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 - [[shroom-counterculture]]
 - [[shroom-cultural-history-hippie-revolution-and-counterculture]]
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]
@@ -1090,6 +1097,7 @@
 - [[tryptamine-consciousness-theory]]
 - [[tryptamine-family-overview]]
 - [[tryptamine-hallucinogens-and-consciousness]]
+- [[tryptamine-hallucinogens-consciousness]]
 - [[tryptamine-receptor-pharmacology]]
 - [[tryptamines-and-quantum-mechanics]]
 - [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]

@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1567 pages**
+**1566 pages**
 
 ## A
 
@@ -82,7 +82,6 @@
 - [[catch-and-store-energy-permaculture-principle]]
 - [[chicken-husbandry-in-permaculture]]
 - [[chicken-tractor-systems]]
-- [[chinampas]]
 - [[chinampas-agriculture]]
 - [[chisel-plough-soil-conditioning-mollison]]
 - [[coastal-permaculture-design-mollison]]

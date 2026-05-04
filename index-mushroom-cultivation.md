@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1264 pages**
+**1270 pages**
 
 ## #
 
@@ -215,6 +215,7 @@
 - [[emcdda-hallucinogenic-mushroom-barriers-to-diffusion]]
 - [[emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology]]
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
+- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
@@ -230,6 +231,7 @@
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[emcdda-hallucinogenic-mushroom-polydrug-use-patterns]]
 - [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
+- [[emcdda-hallucinogenic-mushroom-route-administration-and-effects]]
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
 - [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
@@ -244,6 +246,7 @@
 - [[entheogenic-mushroom-species]]
 - [[environmental-control-mushroom-growing]]
 - [[eu-hallucinogenic-mushroom-legislation-timeline]]
+- [[eu-legislation-hallucinogenic-mushrooms-2001-2006]]
 - [[european-magic-mushroom-growkit-market]]
 - [[european-mushroom-poisoning-history]]
 - [[everard-brande-1799-european-mushroom-discovery]]
@@ -1037,6 +1040,7 @@
 - [[pasteurization-techniques]]
 - [[pasteurized-straw-cultivation-techniques]]
 - [[pda-and-tissue-culture]]
+- [[perlite-humidification-mushroom-fruiting-chambers]]
 - [[pf-substrate-formula]]
 - [[pf-tek]]
 - [[pf-tek-aborts-and-potency-harvesting]]
@@ -1048,9 +1052,11 @@
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-fruiting-chamber]]
 - [[pf-tek-guide]]
+- [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
 - [[pf-tek-low-humidity-symptoms-and-remediation]]
 - [[pf-tek-maximum-fruiting-substrate-formula]]
 - [[pf-tek-mushroom-growth-timeline]]
+- [[pf-tek-mushroom-potency-and-age-relationship]]
 - [[pf-tek-non-germination-troubleshooting]]
 - [[pf-tek-overview-and-history]]
 - [[pf-tek-perlite-humidification-technique]]
