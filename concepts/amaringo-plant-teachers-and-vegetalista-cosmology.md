@@ -15,6 +15,7 @@ sources: [raw/papers/amaringo-p-ayahuasca-visions.md]
 reveals a cosmology in which every plant possesses a conscious spirit, and
 specific plants serve as "teachers" that grant healing knowledge, spiritual
 power, and visionary capacity to those who follow proper dietary disciplines.
+This worldview shares deep structural parallels with other indigenous [[psychedelic-spirituality-and-religion]] traditions worldwide, and intersects with modern [[psychedelic-consciousness-models]] that attempt to map visionary experience scientifically.
 
 ## The Spirit of Plants
 
@@ -39,7 +40,7 @@ degrees of attainment, each requiring years of fasting and dieting:
 
 Becoming a vegetalista requires years of diet and fasting. The discipline is
 called "ciencia vegetalista" (vegetal science), known in earlier times as
-"aiquimia palistica" (tompkins george washington).
+"aiquimia palistica" (tompkins george washington). This pattern of rigorous preparation mirrors practices described in [[mazatec-mushrooms-of-language]] and [[fly-agaric-siberian-shamanic-practice]], where indigenous cultures across continents independently developed similar frameworks of plant-spirit relationships, dietary restriction, and visionary training.
 
 ## Preparation of Ayahuasca
 

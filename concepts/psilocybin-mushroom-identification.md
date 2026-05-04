@@ -14,7 +14,7 @@ exposure to toxic lookalikes (some potentially lethal) to legal consequences.
 Psilocybin mushrooms belong to multiple genera and share morphological features
 with many non-psychoactive and poisonous species. No single characteristic
 reliably identifies a psilocybin mushroom; identification requires considering
-multiple morphological, ecological, and microscopic features together.
+multiple morphological, ecological, and microscopic features together. Beyond the well-known Psilocybe genus, [[psilocybin-containing-genera-beyond-psilocybe]] documents active species in genera like Panaeolus, Gymnopilus, and Inocybe, while [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]] covers lesser-known neurotropic fungi that complicate identification further.
 
 ## Key Morphological Features
 
@@ -105,11 +105,11 @@ tropical and subtropical regions and is among the most potent species.
 ## Ecological Context
 
 Understanding the ecological context of mushroom growth aids identification.
-Most psilocybin mushrooms are saprotrophic, decomposing organic matter. Those
+Most psilocybin mushrooms are saprotrophic, decomposing organic matter through the [[decomposition]] processes described in fungal ecology. Those
 growing on dung (Psilocybe cubensis, Panaeolus cyanescens) are unlikely to be
 confused with woodland species. Those growing on wood (Psilocybe cyanescens,
 Gymnopilus species) occupy a different niche than grassland species. Season,
-altitude, latitude, and associated vegetation all provide clues.
+altitude, latitude, and associated vegetation all provide clues. The [[cotter-mushroom-life-cycle-mycelium-biology]] of each species determines when and where fruiting occurs, making lifecycle knowledge an important identification aid.
 
 Active mycorrhizal species are extremely rare; nearly all known psilocybin
 mushrooms are either dung-inhabiting (coprophilous) or lignicolous (wood-

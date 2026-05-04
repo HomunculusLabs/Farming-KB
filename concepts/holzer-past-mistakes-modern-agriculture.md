@@ -17,7 +17,7 @@ In the last few decades many mistakes have been made with the management of land
 
 Rocks and cliffs are blasted to make the fields and meadows suitable for mechanised farming. Wetlands in which the most beautiful orchids grow are drained and dense spruce monocultures are planted there instead.
 
-The result of these monocultures and this irresponsible attitude to nature is already well known: the catastrophes are becoming greater and greater. Floods, landslides and damage caused by storms and snow are becoming more prevalent. Valuable biomass and fertile humus are being lost.
+The result of these monocultures and this irresponsible attitude to nature is already well known: the catastrophes are becoming greater and greater. Floods, landslides and damage caused by storms and snow are becoming more prevalent. Valuable biomass and fertile humus are being lost. Holzer's alternative -- detailed in [[permaculture-zones-in-practice]] -- uses terraces, ponds, and polyculture plantings that work with terrain rather than against it, as demonstrated by [[hugelkultur-bed-construction-detailed]] techniques that turn woody debris into productive growing mounds.
 
 Holzer's catalogue of damage reads like a litany of the sins of industrial agriculture. Each intervention -- drainage, blasting, clearing, planting monocultures -- was undertaken for a narrow, short-term purpose: to increase the area available for mechanized crop production.
 
@@ -55,7 +55,7 @@ As a young farmer, the Chamber of Agriculture used their biased subsidy system a
 
 Luckily, my experience with plants and animals began at a young age. This experience made me realise that I was on the wrong path. The damage I had caused before realising this was still limited.
 
-I threw out the official guidelines and decided to restore the farm according to my own ideas. It was important to me that I had healthy and hardy plants and animals on the farm again.
+I threw out the official guidelines and decided to restore the farm according to my own ideas. It was important to me that I had healthy and hardy plants and animals on the farm again. His approach parallels the [[natural-farming-philosophy-of-mu]] principle of letting nature guide cultivation rather than imposing human designs.
 
 I started by using machines to improve and widen the terraces I made as a child. Then I wanted to make proper use of the springs on my land. I made ponds and lakes across the farm to breed fish. This is how the permaculture landscape of the Krameterhof began to emerge.
 

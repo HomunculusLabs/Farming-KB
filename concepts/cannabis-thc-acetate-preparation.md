@@ -8,7 +8,7 @@ sources: [raw/papers/ben-lemon-cannabis-alchemy.md]
 ---
 # Cannabis THC Acetate Preparation
 
-THC acetate has approximately twice the potency of THC on the Adams scale (THC = 7.3, THC acetate = 14.6). There is also a 25% increase in weight after adding the acetate structure. The effect of THC acetate is more spiritual and psychedelic than ordinary THC, with a unique property: a delay of about thirty minutes before effects are felt.
+THC acetate has approximately twice the potency of THC on the Adams scale (THC = 7.3, THC acetate = 14.6). There is also a 25% increase in weight after adding the acetate structure. The effect of THC acetate is more spiritual and psychedelic than ordinary THC, with a unique property: a delay of about thirty minutes before effects are felt. The pharmacological profile places it alongside other [[psychedelic-consciousness-models]] as a compound that blurs the line between cannabis and classic psychedelics. Understanding the parent compound's chemistry in [[tetrahydrocannabinolic-acid-thca]] is essential since the quality of starting material directly affects acetate yield and purity.
 
 ## Safety Requirements
 
@@ -77,6 +77,8 @@ This conversion uses acetic anhydride, an extremely dangerous chemical. A safety
 - All operations must be conducted under nitrogen atmosphere
 - The product volume will be up to 25% more than the starting oil volume
 - THC acetate can be consumed in any customary manner (smoked, oral, etc.)
+
+For growers interested in the upstream cultivation side, [[green-cannabis-ph-management-cannabis-growing]] covers the soil chemistry that influences the precursor cannabinoids in raw plant material. Research into [[cannabis-cancer-pain-research]] explores the therapeutic potential of cannabinoids including acetylated derivatives.
 
 See also [[cannabis-oil-isomerization]], [[cannabis-extraction-basics]], [[cannabis-honey-oil-production]], and [[cannabis-extraction-solvent-properties-and-safety]].
 

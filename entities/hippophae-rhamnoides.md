@@ -1,150 +1,152 @@
 ---
-title: "Hippophae Rhamnoides"
-created: 2026-05-02
-updated: 2026-05-02
-type: entity
-tags: [permaculture, species]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
----
----
 title: "Hippophae rhamnoides"
 type: species
-tags: [permaculture, nitrogen-fixer, superfood, medicinal-plant, windbreak]
+tags: [permaculture, medicinal, edible, nitrogen-fixer, superfood, hardy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md]
+sources:
+  - "/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md"
 ---
 
 # Hippophae rhamnoides
 
-**Common names:** Sea buckthorn, seaberry, sandthorn, sallowthorn
+Hippophae rhamnoides, commonly known as sea buckthorn, is a deciduous, thorny shrub native to Europe and Asia, celebrated for its extraordinary nutritional profile and ecological resilience. The bright orange berries are among the most nutrient-dense fruits on Earth, containing exceptionally high concentrations of vitamin C, vitamin E, carotenoids, flavonoids, and rare omega-7 fatty acids. Sea buckthorn has a long history of use in traditional medicine across Tibet, Mongolia, Russia, and Eastern Europe, and its cultivation has expanded dramatically worldwide in response to growing demand for superfood and nutraceutical products. In permaculture and agroforestry, sea buckthorn is valued as a pioneer species, nitrogen fixer, windbreak, and wildlife habitat plant.
 
-## Overview
+## Taxonomy and Naming
 
-**Hippophae rhamnoides** is a deciduous, dioecious shrub in the family Elaeagnaceae, native to the coastal dunes, riverbanks, and mountain slopes of Europe and Asia.
-It is one of the most commercially significant nitrogen-fixing shrubs, cultivated extensively for its nutrient-dense orange berries used in food, cosmetics, and medicine.
-Sea buckthorn is increasingly recognized [[mollison-designers-thatch-and-natural-roofing-in-permaculture]] for its soil-building capacity, windbreak utility, and exceptional nutritional profile.
+| Rank | Classification |
+|---|---|
+| Kingdom | Plantae |
+| Clade | Tracheophytes |
+| Clade | Angiosperms |
+| Clade | Eudicots |
+| Order | Rosales |
+| Family | Elaeagnaceae |
+| Genus | Hippophae |
+| Species | H. rhamnoides |
 
-## Botanical Description
+The genus name Hippophae derives from Greek "hippos" (horse) and "phaos" (to shine), referencing the ancient practice of feeding sea buckthorn leaves to horses to improve coat condition. The species epithet "rhamnoides" refers to the buckthorn- like appearance of the leaves. The genus contains approximately 7 species distributed across Eurasia. H. rhamnoides itself encompasses several subspecies adapted to different geographic regions: subsp. rhamnoides (coastal Europe), subsp. fluviatilis (Central European river valleys), subsp. mongolica (Mongolia and China), and subsp. sinensis (China). The Chinese subspecies (often called H. rhamnoides subsp. sinensis) is the most commercially cultivated form.
 
-Sea buckthorn forms a dense, multi-stemmed shrub 2 to 6 meters tall with a spreading crown.
-The bark is rough, dark gray to black, with young branches covered in silvery-brown scales.
-The most distinctive feature is the narrow, linear-lanceolate leaves, 3 to 7 cm long and 2 to 6 mm wide, with a silvery upper surface and densely scaly undersurface.
-This silvery foliage gives the plant a characteristic shimmering appearance.
-Plants are dioecious, with male and female flowers on separate individuals.
-Male flowers are brownish, borne in clusters of 4 to 6, appearing before leaf emergence in March to April.
-Female flowers are greenish, solitary or in short racemes.
-The fruit is an orange to yellow-orange drupe 6 to 9 mm long, tightly clustered along the stems, persisting well into winter.
-Each fruit contains a single brown seed.
+## Description
+
+### Growth Habit and Morphology
+
+- **Life form**: Deciduous, dioecious shrub or
+small tree, typically 2–6 m tall but capable of reaching 10 m under ideal conditions. Multi-stemmed with a spreading, open crown. Dense, thorny branching creates effective wildlife shelter.
+- **Bark**: Dark gray to brown, rough and fissured
+on older wood. Young branches are silvery-gray with distinctive lenticels. Thorns are 2–5 cm long, sharp, and abundant on mature wood.
+- **Leaves**: Alternate, linear-lanceolate, 3–7 cm
+long and 0.5–1 cm wide. Upper surface is dark green and glabrous; lower surface is covered with distinctive silver-white scales (lepidote indumentum), giving the whole canopy a silvery appearance from a distance. This silvery pubescence is a key identification feature shared with other Elaeagnaceae family members.
+- **Roots**: Extensive lateral root system with
+actinorhizal nitrogen-fixing symbiosis with Frankia bacteria. Root nodules are visible as small, coralloid structures. Nitrogen fixation rates of 20–60 kg N/ha/year have been documented, making sea buckthorn a significant soil fertility contributor.
+- **Flowers**: Small (3–4 mm), yellowish,
+appearing before leaf emergence in early spring (March–April). Dioecious — male and female flowers on separate plants. Wind- pollinated. Male flowers are borne in short clusters; female flowers are solitary or in small groups at leaf axils.
+- **Fruit**: Distinctive bright orange to yellow-
+orange berry-like drupe, 6–9 mm in diameter, produced in dense clusters along branches. Each fruit contains 1 small seed. The fruit persists well into winter, providing winter food for birds. The berries are extremely tart and astringent when fresh due to high acid content (malic, quinic, and ascorbic acids).
+
+### Key Identification Features
+
+- Silvery-scaled leaves on both surfaces (most
+diagnostic trait)
+- Bright orange berries in dense clusters along
+branches
+- Thorny, multi-stemmed shrub form
+- Dioecious (male and female plants required for
+fruit production)
+- Association with riparian, coastal, or disturbed
+habitats
 
 ## Distribution and Habitat
 
-Sea buckthorn has one of the widest natural distributions of any shrub species, spanning from the Atlantic coasts of Europe across Central Asia to the Loess Plateau of China, and from the Arctic Circle to the Himalayas at elevations up to 5,200 meters.
-It colonizes sandy coastal dunes, gravelly riverbanks, mountain screes, and dry steppes.
-It is extremely tolerant of drought, salinity, and alkaline soils.
-Hardy to USDA Zone 3, tolerating winter temperatures below minus 40 degrees Celsius.
+- **Native range**: Coastal dunes, riverbanks, and
+mountain slopes across Europe, Central Asia, Mongolia, and northwestern China. The species spans an enormous latitudinal range from the Atlantic coast of Europe to the Loess Plateau of China.
+- **Introduced range**: Widely planted across
+North America (Canada, northern US), Scandinavia, New Zealand, and parts of South America for erosion control, ornament, and commercial berry production.
+- **Habitat**: Pioneer species on sandy, gravelly,
+or disturbed soils. Naturally colonizes coastal dunes, river gravel bars, alluvial fans, landslide scars, and degraded mountain slopes. Tolerates saline, alkaline, and nutrient-poor soils where few other woody plants survive.
+- **Climate adaptation**: Extremely cold-hardy
+(USDA zones 3–8). Withstands temperatures to -40°C and below. Tolerates drought once established, though performs best with moderate moisture. Requires full sun; intolerant of shade.
 
-## Nitrogen Fixation
+## Nutritional and Chemical Composition
 
-Sea buckthorn forms actinorhizal root nodules with Frankia bacteria, fixing atmospheric nitrogen at rates of 15 to 60 kg N per hectare per year depending on site conditions and plant age.
-Nitrogen fixation begins in the second year of growth and increases substantially as the root system develops.
-The extensive, fibrous root system also stabilizes loose soils and contributes significant [[mollison-designers-humus-building-and-soil-organic-matter]] through root turnover.
+### Berry Composition (per 100g fresh weight)
 
-## Fruit Composition and Nutrition
+| Nutrient | Amount | Significance |
+|---|---|---|
+| Vitamin C | 200–900 mg | 3–15× higher than citrus; one of the richest plant sources |
+| Vitamin E | 15–35 mg | Exceptionally high for a fruit; includes tocopherols and tocotrienols |
+| Carotenoids | 30–60 mg | Beta-carotene, lycopene, zeaxanthin, lutein |
+| Omega-7 fatty acids | 30–40% of seed oil | Palmitoleic acid; rare in plant sources |
+| Omega-3 fatty acids | 25–35% of seed oil | ALA (alpha-linolenic acid) |
+| Flavonoids | 100–500 mg | Quercetin, isorhamnetin, kaempferol glycosides |
+| Organic acids | 2–5 g | Malic, quinic, ascorbic, oxalic acids |
 
-Sea buckthorn berries are among the most nutritionally concentrated fruits known.
-They contain over 190 bioactive compounds including:
+### Seed Oil vs. Pulp Oil
 
-- **Vitamin C:** 400 to 2,500 mg per 100 g, exceeding citrus fruits by 10 to 40 times
-- **Vitamin E:** 100 to 300 mg per 100 g in the seed oil, one of the richest plant sources
-- **Carotenoids:** Beta-carotene, lycopene, zeaxanthin, and lutein in exceptional concentrations
-- **Fatty acids:** The seed oil contains omega-3 (alpha-linolenic acid), omega-6, omega-7 (palmitoleic acid), and omega-9 (oleic acid) in a rare balanced ratio
-- **Flavonoids:** Quercetin, kaempferol, isorhamnetin, and rutin
-- **Organic acids:** Malic, quinic, and ascorbic acids
+Sea buckthorn produces two distinct oils with different compositions and therapeutic applications:
+- **Seed oil**: Rich in omega-3 (25–35%), omega-6
+(30–40%), and omega-9 (15–20%) fatty acids. Used primarily for cardiovascular health, skin repair, and anti-inflammatory applications.
+- **Pulp/berry oil**: Rich in omega-7 (30–40%) and
+carotenoids (giving it a deep red-orange color). Used for mucous membrane health, gastric ulcers, dry eye syndrome, and skin conditions.
 
-## Cultivation Details
+## Therapeutic and Medicinal Applications
 
-### Site Selection
-Sea buckthorn prefers full sun and well-drained soils but tolerates partial shade, poor fertility, and saline conditions.
-Sandy loams with pH 6.0 to 7.5 are optimal. Avoid heavy clay soils with poor drainage, which promote root diseases.
-Wind exposure is tolerated and even beneficial, as it increases branch strength and fruit set.
+- **Skin health and wound healing**: Topical and
+internal sea buckthorn oil accelerates wound healing, reduces scar formation, and treats burns, eczema, psoriasis, and dermatitis.
+- **Gastrointestinal health**: Omega-7-rich pulp
+oil protects and heals gastric and duodenal mucosa. Clinical trials show efficacy against gastric ulcers and mucositis.
+- **Cardiovascular support**: Omega-3 and omega-7
+fatty acids, combined with flavonoids and vitamin E, improve lipid profiles and reduce oxidative stress.
+- **Dry eye syndrome**: Oral supplementation
+significantly reduces dry eye symptoms in clinical trials.
+- **Immune support**: High vitamin C, flavonoids,
+and carotenoids provide antioxidant and immune-modulating effects.
+- **Anti-fatigue**: Traditional use in China and
+Russia as an adaptogenic tonic for physical endurance.
 
-### Propagation Methods
-[[green-cannabis-grow-bible-cloning-and-seed-propagation]] requires removal of the fleshy fruit, cold stratification at 3 to 5 degrees Celsius for 90 days, and spring sowing in nursery beds.
-Germination is epigeal and occurs in 2 to 4 weeks.
-Hardwood cuttings of 15 to 20 cm taken in November to February, treated with rooting hormone and placed under mist, root at 60 to 80 percent.
-Softwood cuttings from current season growth in June to July root at 80 to 95 percent under mist.
-Root suckers from established plants provide true-to-type propagation material.
+## Permaculture and Agroforestry Applications
 
-### Pollination Requirements
-Sea buckthorn is wind-pollinated, requiring 1 male plant for every 6 to 8 female plants.
-Male plants should be positioned upwind of females in prevailing spring wind patterns.
-Male and female plants are indistinguishable until flowering at 3 to 4 years of age, so purchasing sexed nursery stock is essential.
-Pollination occurs in April to May, with fruit development requiring 90 to 100 days.
+Sea buckthorn is one of the most valuable multi- functional plants in permaculture design:
+- **Nitrogen fixation**: Actinorhizal symbiosis
+adds 20–60 kg N/ha/year, significantly improving soil fertility for interplanted crops.
+- **Erosion control**: Extensive, soil-binding
+root system stabilizes banks, dunes, and slopes.
+- **Windbreak and shelter**: Dense, thorny growth
+provides excellent wind protection. Hardy enough for exposed sites.
+- **Wildlife habitat**: Dense thorny cover
+provides nesting and winter shelter for birds. Persistent berries sustain overwintering birds.
+- **Pioneer species**: Among the first woody
+plants to colonize degraded, saline, or nutrient-poor sites.
+- **Bee forage**: Early spring flowers provide
+valuable nectar and pollen before most other plants bloom.
 
-## Economic Importance
+## Cultivation Notes
 
-Sea buckthorn cultivation has expanded rapidly since the 1990s, driven by growing demand for health foods, cosmetics, and nutraceuticals.
-China is the largest producer, with over 200,000 hectares under cultivation, primarily on the Loess Plateau.
-Commercial orchards are established in Canada, Germany, Russia, Finland, India, and Nepal.
-The global sea buckthorn market exceeds $1 billion annually, with juice, oil, and dietary supplements as the primary products.
+- **Pollination**: Dioecious — plant 1 male per
+6–8 females for reliable fruit production.
+- **Soil**: Extremely adaptable. Thrives in sandy,
+gravelly, saline, and alkaline soils. Avoid waterlogged conditions. pH 5.5–8.5.
+- **Propagation**: Hardwood cuttings (most
+reliable), softwood cuttings under mist, or seed (requires stratification).
+- **Spacing**: 1–2 m within rows, 3–4 m between
+rows.
+- **Harvest**: Berries ripen August–October. Hand-
+harvesting is labor-intensive; commercial operations use mechanical shakers. Yields of 8–15 tonnes/ha achievable with good management.
+- **Pruning**: Requires periodic renewal pruning.
+Remove older canes (>4 years) as fruit is produced primarily on 2–3 year old wood.
 
-## Landscape and Ecological Uses
+## Similar Species
 
-In ecological restoration, sea buckthorn is planted on degraded lands, mine tailings, coastal dunes, and eroded hillsides.
-Its rapid growth and soil-binding root system stabilize disturbed sites within 3 to 5 years.
-It provides critical habitat for wildlife in harsh, exposed landscapes where few other species can establish.
-The dense thorny thickets offer nesting sites for birds and cover for small mammals.
+| Species | Key Differences |
+|---|---|
+| [[elaeagnus-angustifolia]] | Russian olive; similar silver foliage; different fruit |
+| [[elaeagnus-umbellata]] | Autumn olive; red fruits; nitrogen-fixing |
+| [[shepherdia-argentea]] | Silver buffaloberry; similar habitat; native to North America |
 
-## Companion Planting
-
-In [[mollison-designers-climate-zone-2-orchard-food-forest]] systems, sea buckthorn integrates well as a middle canopy nitrogen fixer and windbreak element.
-It provides wind protection for establishing [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], improves soil nitrogen content through fixation, and produces a marketable fruit crop.
-Compatible companions include seaberry, hazelnut, Siberian peashrub, elderberry, and rugosa rose in windbreak rows, with apple, pear, and plum as the main canopy.
-
-## Related Species
-
-- [[elaeagnus-umbellata]] — Autumn olive, a related nitrogen-fixing shrub
-- Elaeagnus angustifolia — Russian olive, larger windbreak species
-- Shepherdia argentea — Silver buffaloberry, North American relative
-
-## Permaculture Functions
-
-### Windbreak and Erosion Control
-Sea buckthorn is one of the premier windbreak species for cold, dry, and exposed sites.
-Its dense, low-branching habit provides excellent wind reduction at ground level.
-The extensive root system binds sandy and erodible soils, making it invaluable for stabilizing coastal dunes, mine tailings, and degraded rangelands.
-
-### Soil Improvement
-Through nitrogen fixation and leaf litter deposition, sea buckthorn significantly improves soil nitrogen and organic matter content.
-It is widely used as a nurse plant for establishing timber and fruit tree plantations on marginal sites.
-
-### Wildlife Habitat
-The persistent winter fruit provides critical food for birds including waxwings, thrushes, and game birds during lean months.
-The thorny, dense growth provides shelter for nesting birds and small mammals.
-It is a preferred browse species for deer and rabbits.
-
-### Polyculture Integration
-Sea buckthorn integrates well into food forests as a middle-canopy nitrogen fixer and fruit producer.
-It pairs effectively with fruit trees, berry bushes, and understory herbs, providing dappled shade and soil fertility.
-
-## Harvest and Processing
-
-Harvest is labor-intensive due to the small berry size and thorny branches.
-Mechanical harvesters using vibrating combs have been developed for commercial orchards.
-The berries are processed into juice, puree, oil, tea, jam, and dietary supplements.
-Oil extraction from seeds and pulp yields distinct products with different fatty acid profiles.
-## Medicinal Applications
-Sea buckthorn oil is used topically for burns, wounds, eczema, and radiation-induced skin damage.
-Internal preparations support cardiovascular health, immune function, and gastrointestinal mucosal integrity.
-Clinical studies have demonstrated anti-inflammatory, antioxidant, hepatoprotective, and cardioprotective properties.
-## Related Species
-- [[elaeagnus-umbellata]] — Autumn olive, a related nitrogen-fixing shrub
-- Elaeagnus angustifolia — Russian olive, larger windbreak species
-- Shepherdia argentea — Silver buffaloberry, North American relative
-
-## Related Topics
-
-## Related Topics
-- [[biological-nitrogen-fixation-agriculture]]
+## See Also
+- [[autumn-olive]]
+- [[black-locust]]
+- [[siberian-peashrub]]
+- [[comfrey]]
+- [[tagasaste]]
+- [[goumi]]

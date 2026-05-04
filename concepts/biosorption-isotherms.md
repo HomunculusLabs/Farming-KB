@@ -13,7 +13,7 @@ Biosorption isotherms are mathematical models that describe the distribution of 
 
 These models are fundamental tools for designing and optimizing biosorption-based water treatment systems, providing quantitative relationships between contaminant concentration in solution and the amount sorbed per unit mass of biosorbent.
 
-The study of biosorption isotherms draws on principles from physical chemistry, surface science, and environmental engineering, and is central to understanding the mechanisms described in [[fungal-biosorption-mechanisms]] and [[fungal-metal-biosorption]].
+The study of biosorption isotherms draws on principles from physical chemistry, surface science, and environmental engineering, and is central to understanding the mechanisms described in [[fungal-biosorption-mechanisms]] and [[fungal-metal-biosorption]]. These models are essential for engineering [[mycoremediation-bioreactor-design]] systems and inform field-scale [[mycoremediation-field-applications]] where real-world conditions deviate significantly from laboratory isotherm predictions.
 
 ## Langmuir Isotherm Model
 
@@ -107,7 +107,7 @@ The number of adsorption-desorption cycles that a biosorbent can withstand witho
 
 Biosorption isotherms provide the engineering basis for designing treatment systems for metal-contaminated wastewater streams from mining, electroplating, tannery, and textile industries.
 
-Fungal biosorbents including Rhizopus arrhizus, Mucor meihi, Aspergillus niger, and Saccharomyces cerevisiae have been studied extensively for metal removal from industrial effluents.
+Fungal biosorbents including Rhizopus arrhizus, Mucor meihi, Aspergillus niger, and Saccharomyces cerevisiae have been studied extensively for metal removal from industrial effluents. Studies of [[singh-chromium-bioremediation-fungi]] demonstrate how species-specific differences in cell wall chemistry affect biosorption capacity. The underlying [[fungal-bioremediation-mechanisms]] -- including ion exchange, complexation, and microprecipitation -- directly determine which isotherm model best fits a given system.
 
 Non-living fungal biomass offers several advantages for biosorption applications: it does not require nutrients, is not affected by metal toxicity, and can be produced as a byproduct of industrial fermentation processes.
 
