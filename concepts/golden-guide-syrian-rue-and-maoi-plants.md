@@ -125,3 +125,9 @@ development of these compounds.
 - [[golden-guide-datura-and-nightshade-deliriants]]
 
 See also [[beta-carboline-alkaloids]], [[ayahuasca-pharmacology]], [[ayahuasca-botany-and-preparation]], [[tryptamine]], and [[syrian-rue-peganum-harmala-ethnobotany]] for related chemistry and ethnobotany.
+
+[[harmala-alkaloids]] — detailed chemistry of harmine, harmaline, and related beta-carboline compounds
+[[mao-inhibitors-and-psychedelics]] — pharmacology of MAO inhibition and its interaction with psychedelic tryptamines
+[[ayahuasca-preparation-and-ceremony]] — traditional Amazonian ayahuasca practices and the role of beta-carboline vines
+[[naranjo-harmaline-yage-experiment]] — Claudio Naranjo's clinical research on harmaline and its visionary effects
+[[ethnobotany-of-psychedelic-fungi]] — broader ethnobotanical context for psychoactive plant use across cultures

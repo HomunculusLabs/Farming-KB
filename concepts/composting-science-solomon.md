@@ -115,3 +115,9 @@ See also: [[compost-building-guide]], [[composting-methods-comparison]], [[compo
 - [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
 - [[solomon-gardening-when-it-counts-index]]
 - [[solomon-manure-types-and-nutrient-values]]
+
+[[teaming-with-nutrients-composting-and-nutrient-cycling]]
+[[teaming-with-microbes-compost-biology]]
+[[vermicomposting]]
+[[animal-manure-guide]]
+[[teaming-with-microbes-no-till-gardening-soil-health]]

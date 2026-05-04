@@ -105,3 +105,9 @@ See also: [[informational-monism]], [[ketamine-psychedelic-journey-guide]], psyc
 ## See Also
 
 - [[query-how-do-psychedelics-change-consciousness]]
+
+[[tryptamine-consciousness-theory]]
+[[weil-intoxication-and-consciousness-theory]]
+[[turner-psilocybin]]
+[[weil-psychedelic-experience-set-and-setting]]
+[[tryptamine-hallucinogens-and-consciousness]]

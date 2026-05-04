@@ -136,3 +136,9 @@ Practical application of permaculture zones 0-5 for a regenerative homestead wit
 - [[homesteading-infrastructure]] — Infrastructure planning by zone
 - [[seasonal-planning]] — Monthly calendar across all zones
 - [[food-forest-design]] — Food forest layer design
+
+[[permaculture-design]]
+[[zone-and-sector-analysis]]
+[[backyard-food-forest-design]]
+[[no-till-gardening-method]]
+[[companion-planting-reference]]

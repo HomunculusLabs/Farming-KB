@@ -149,3 +149,9 @@ food-producing plants are introduced. Heavy metal accumulation in plant tissues
 must be assessed. Initial systems may focus on non-food products (timber, fibre,
 biofuel, livestock fodder) until contamination levels are confirmed safe.
 Mollison notes that rehabilitated sites often become more productive than the
+
+[[mollison-designers-vetiver-grass-for-erosion-control]] — vetiver grass systems for steep-slope stabilisation and erosion control in rehabilitation projects
+[[mollison-pioneer-species-and-accelerated-succession]] — pioneer species selection and accelerated succession strategies for degraded land
+[[mollison-designers-gabions-and-stone-weirs-for-gully-control]] — physical structures for gully stabilisation and sediment trapping
+[[riparian-zone-restoration]] — waterway buffer restoration techniques complementary to broad landscape rehabilitation
+[[keyline-design]] — keyline system for water distribution and soil development on degraded slopes

@@ -122,3 +122,9 @@ Mollison provides several practical tools for analyzing landscape patterns and d
 - [[mollison-mulching-and-soil-health]]
 
 See also [[permaculture-design]], [[permaculture-principles]], [[bill-mollison]], [[permaculture-ethics]], and [[zone-and-sector-analysis]] for related design topics.
+
+[[mollison-designers-pattern-understanding-in-design]] — pattern recognition and application as the foundation of permaculture design
+[[permaculture-element-analysis-design-methods]] — systematic methods for analysing and placing design elements by function and needs
+[[pdc-landform-and-topography-reading]] — reading landscape form, slope, and water flow as the basis for site design
+[[fire-control-in-permaculture]] — fire as a design sector: risk assessment, prevention, and strategic use
+[[permaculture-windbreak-design-detailed]] — windbreak and shelterbelt design for microclimate creation and crop protection

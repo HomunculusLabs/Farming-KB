@@ -126,3 +126,9 @@ more production cycles per year. Key levers:
 - [[substrate-contamination]] — threats to successful colonization
 
 See also [[substrate-pasteurization]], [[sterile-technique-mushroom-cultivation]], [[trichoderma-forest-green-mold-guide]], and [[grain-spawn-preparation]] for related cultivation topics.
+
+[[mushroom-liquid-culture]] — liquid culture inoculum for faster, more uniform colonization
+[[spore-syringe-and-inoculation]] — spore-based inoculation techniques and sterile syringe preparation
+[[oyster-mushroom-species-and-strain-selection]] — choosing species and strains optimised for different substrates and climates
+[[mushroom-strain-preservation-species-banking]] — long-term strain storage and genetic preservation methods
+[[fungal-hyphae]] — hyphal growth mechanics, branching, and anastomosis underlying mycelial network formation

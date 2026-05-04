@@ -137,3 +137,9 @@ Recording observations in a grazing journal or digital log allows you to identif
 - [[nutrient-movement-through-soil-to-plant-roots]]
 
 See also [[permaculture-design]], [[permaculture-principles]], [[composting]], [[animal-manure-guide]], and [[earthworm-ecology]] for related pasture and soil topics.
+
+[[silvopasture-systems]] — integrating trees with livestock grazing for shade, fodder, and soil protection
+[[savory-holistic-resource-management-decision-framework]] — Allan Savory's framework for holistic grazing and land management decisions
+[[cover-crops-soil-health]] — cover crop strategies for maintaining soil biology and preventing erosion between grazing cycles
+[[hay-and-forage-management]] — harvesting, storing, and supplementing forage through seasonal shortages
+[[salt-tolerant-fodder-plants]] — salt-tolerant forage species for coastal and arid pasture systems
