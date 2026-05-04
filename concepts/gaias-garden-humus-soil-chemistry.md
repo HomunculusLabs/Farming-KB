@@ -13,14 +13,13 @@ type: concept
 
 Humus is the end product of decomposition, a stable, incredibly
 complex group of molecules that only slowly undergoes further
-breakdown. Toby Hemenway dedicates significant attention in
-[[gaias-garden-bringing-the-soil-to-life]] to explaining how
-humus is formed and why it is the single most important
+breakdown. [[teaming-with-microbes-humus-formation-and-glomalin]] explains how humus is formed and why it is the single most important
 ingredient for healthy, productive soil.
 
 ## How Humus Is Made
 
-The journey from leaf to humus follows a precise ecological
+[[teaming-with-microbes-soil-food-web-overview]] is essential context for understanding humus:
+the journey from leaf to humus follows a precise ecological
 sequence. As a leaf is shredded, chewed, and chemically
 dissolved by soil organisms, some parts decompose more quickly
 than others. The first tissues to go are those made of sugars
@@ -125,7 +124,7 @@ rain and forms clay-bound, root-thwarting clods.
 
 ## Humus and Fungal Networks
 
-An intact subterranean ecology develops in humus-rich soil,
+[[teaming-with-microbes-fungi-the-underground-network]] describes how an intact subterranean ecology develops in humus-rich soil,
 woven by silken fibers of mycelium, riddled with tunnels from
 worms and other creatures. Some naturalists theorize that roots
 and fungal mycelia may translocate water from woody caches to
@@ -134,7 +133,8 @@ system powered by the soil food web.
 
 ## Building Humus in the Garden
 
-To maintain and build humus:
+[[composting-science-solomon]] and [[hugelkultur-bed-construction-detailed]] are two practical approaches
+for maintaining and building humus:
 
 - Practice [[gaias-garden-sheet-mulching]] to add constant
   organic matter

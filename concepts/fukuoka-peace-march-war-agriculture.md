@@ -45,7 +45,7 @@ Fukuoka traced the origins of civilization's destructive tendencies to the inven
 
 ## The Green Revolution as Warfare
 
-Fukuoka explicitly framed the [[fukuoka-critique-green-revolution]] as a form of warfare against nature and against traditional farming cultures:
+[[masanobu-fukuoka]] explicitly framed the [[fukuoka-critique-green-revolution]] as a form of warfare against nature and against traditional farming cultures:
 
 - Chemical fertilizers and pesticides as "weapons" that kill soil life
 
@@ -77,7 +77,7 @@ Fukuoka argued that self-sufficient communities practicing natural farming would
 
 ## War as a Product of the Human Intellect
 
-Fukuoka's most radical claim was that "war exists only in man's world and is alien to the rest of the biological kingdom; it does not belong to the natural world. War is an absurdity that arose from the human intellect." He rejected the social Darwinist justification for militarism: "Nature in its original form is neither a world of competition nor of cooperation." The survival of the fittest was a human projection, not a natural law.
+[[natural-farming-fukuoka]]'s most radical claim was that "war exists only in man's world and is alien to the rest of the biological kingdom; it does not belong to the natural world. War is an absurdity that arose from the human intellect." He rejected the social Darwinist justification for militarism: "Nature in its original form is neither a world of competition nor of cooperation." The survival of the fittest was a human projection, not a natural law.
 
 He pointed out the escalation logic of weapons: "Defense and offense may appear unlike, the shield and the halberd may seem different things, but these are as joined in purpose and function as the right and left hands." The more powerful the arms, the more intense the wars. "Today weapons are in a race by themselves. Things have gotten to the point where weapons are moving people."
 

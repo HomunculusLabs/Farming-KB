@@ -9,7 +9,7 @@ sources:
 ---
 # Irrigation Design
 
-Permaculture irrigation is half species choice and half terrain. Only a small part involves piping, pumps, or equipment. By studying slope and topography, gravity directs water to gardens or individual plants. Irrigation is simply a way of supplementing natural water flow and possibly rehabilitating soil — it should NOT be used for growing watermelons in the desert or for watering lawns and washing cars.
+[[permaculture-zones-in-practice]] irrigation is half species choice and half terrain. Only a small part involves piping, pumps, or equipment. By studying slope and topography, gravity directs water to gardens or individual plants. Irrigation is simply a way of supplementing natural water flow and possibly rehabilitating soil — it should NOT be used for growing watermelons in the desert or for watering lawns and washing cars.
 
 ## A Self-Reliant Water System
 
@@ -36,9 +36,9 @@ With careful planning, enough water can be captured to grow food even in the des
 
 ## Designing an Irrigation System
 
-1. Study the slope and topography of the land
-2. Use gravity to direct water to gardens or individual plants
-3. Choose species suited to the specific location and water availability
+[[water-catchment-permaculture]] is the foundation: study the slope and topography of the land,
+use gravity to direct water to gardens or individual plants,
+choose species suited to the specific location and water availability,
 4. Harvest barn roof rainwater into a large tank
 5. Gravity-feed to gardens below if possible
 6. Mulch extensively

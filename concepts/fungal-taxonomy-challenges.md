@@ -18,7 +18,7 @@ understanding and conserving fungal ecosystems.
 
 ## The Species Concept Problem
 
-Defining what constitutes a fungal species is fundamentally difficult. Many
+[[fungal-species-concept]] is fundamentally difficult. Many
 fungi reproduce both sexually and asexually, and the same species can produce
 dramatically different morphological forms depending on conditions. This led to
 the historical practice of giving separate names to the sexual (teleomorph)
@@ -32,7 +32,7 @@ vary among fungal groups.
 
 ## Cryptic Speciation
 
-Cryptic species — genetically distinct lineages that are morphologically
+[[cryptic-fungal-species]] — genetically distinct lineages that are morphologically
 identical or nearly so — are pervasive in the fungal kingdom. Molecular studies
 have revealed that many "widespread" fungal species are actually complexes of
 dozens or hundreds of cryptic species with restricted geographic ranges. The
@@ -70,11 +70,11 @@ be cleared.
 
 ## Integration of Molecular and Morphological Data
 
-Modern fungal taxonomy increasingly relies on integrative approaches that
+[[fungal-discovery-methods]] increasingly relies on integrative approaches that
 combine DNA sequence data with morphological, ecological, and chemical
 information. Multi-gene phylogenies have revolutionized our understanding of
-fungal evolutionary relationships, leading to major reclassifications. Whole
-genome sequencing is revealing that fungal genomes vary enormously in size and
+fungal evolutionary relationships, leading to major reclassifications. [[fungal-environmental-dna]]
+and whole genome sequencing are revealing that fungal genomes vary enormously in size and
 composition, providing new characters for classification. However, the
 disconnect between molecular phylogenetics and classical morphology-based
 taxonomy creates tension within the field, and the rapid pace of phylogenetic

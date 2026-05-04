@@ -9,7 +9,7 @@ sources:
 
 # Natural Crop Rotation and Vegetable Growing Methods
 
-Fukuoka presents a comprehensive system of natural crop rotation that
+[[natural-farming-fukuoka]] presents a comprehensive system of natural crop rotation that
 integrates vegetables, grains, green manures, and fruit trees into a self-
 sustaining ecosystem. This approach differs fundamentally from conventional
 rotation schemes by designing systems that benefit the earth rather than
@@ -38,7 +38,7 @@ For permanent cultivation on large acreages, systematic rotation schemes must
 be set up. Fukuoka's natural crop rotation is based on four principles:
 
 ### No Tilling
-This consists typically of ridging the field at intervals of 3 to 6 feet or
+[[fukuoka-no-till-grain-production-method]] is the first principle: this consists typically of ridging the field at intervals of 3 to 6 feet or
 digging drainage channels every 13 to 16 feet the first year, then either
 not plowing the next year or, at most, shallow plowing followed by seeding
 and rotary tillage. See also [[fukuoka-no-till-grain-production-method]].
