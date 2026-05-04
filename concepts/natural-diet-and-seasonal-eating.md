@@ -1,13 +1,6 @@
 ---
 title: Natural Diet and Seasonal Eating
-tags:
-  - natural-diet
-  - food-philosophy
-  - seasonal-eating
-  - macrobiotics
-  - sustainable-food
-  - masanobu-fukuoka
-  - yin-yang
+tags: [diet, nutrition, philosophy, seasons, yin-yang, fukuoka, food]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -16,131 +9,152 @@ sources:
 
 # Natural Diet and Seasonal Eating
 
-[[masanobu-fukuoka]]'s philosophy of natural diet is inseparable from his [[natural-farming-poster-input-free-farming]]
-method. He argued that natural farming, natural diet, and natural healing are all
-parts of one whole, and that all three are achievable only by what he called "natural
-people." The decline of [[fukuoka-artificial-food-synthesis-degradation-food-quality]], in his view, was a direct consequence of the
-decline of farming practices, and restoring one required restoring the other.
+Natural diet, as conceived by Masanobu Fukuoka, is a way of eating grounded in
+the cycles and rhythms of nature. It transcends both Western nutritional science
+and Eastern yin-yang philosophy while incorporating insights from both. A
+natural diet arises spontaneously when one lives in accordance with the seasons,
+consuming locally available foods at their peak, without elaborate processing or
+artificial enhancement.
 
-## The Decline of Food Quality
+## The Foundation of Natural Diet
 
-Fukuoka traced the deterioration of food to the transformation of agriculture from a
-partnership with nature into a petroleum-dependent manufacturing process. He noted
-that farming under the open skies had essentially disappeared, replaced by what he
-called the manufacture of petroleum-derived foods. The farmer had become a seller of
-what he called false goods, nutritional food that was a poor imitation of its natural
-counterpart.
+Fukuoka's natural diet begins with detachment from discriminating knowledge
+about food. Rather than analyzing foods for their vitamin, mineral, protein,
+and calorie content, one should eat what nature provides locally and seasonally.
+He described this as creating "unlearned people who gather food without
+deliberate rationale from nature's garden, people who do not turn their backs
+on Heaven but accept its ways as their own."
 
-The progression toward artificial food production followed a clear trajectory. Open
-cultivation of vegetables gave way to hothouse horticulture using soil in enclosed
-structures. This evolved into sand and gravel culture, which replaced soil with inert
-media because they contained fewer bacteria and were considered "cleaner." This led
-to [[comparison-aeroponics-guide-vs-cannabis-hydroponic-systems]] where plants were grown in plastic netting with nutrient
-solutions sprayed over the entire plant. The logical endpoint of this progression
-is the total [[psilocybin-psilocin-chemical-synthesis]] of food, eliminating farms and gardens entirely.
+The diet of traditional farmers and fishermen who have taken foods of the
+seasons available near at hand for thousands of years represents, in Fukuoka's
+view, a splendid example of natural eating in accordance with the laws of
+nature. These people savor the distinctive flavors of their local fare while
+perceiving the providence of the heavens in their modest meals.
 
-Fukuoka observed that any product grown in such artificial environments is far
-removed from products grown under natural conditions. While these products may
-appear attractive with uniform color and size, they are inferior in quality in ways
-that may be unknown to consumers but are nevertheless real. Nature has struck back
-against this technological assault through increased insect damage on artificially
-grown crops.
+## The Seven Herbs of Spring
 
-## Unity of Body and Spirit in Food
+Fukuoka's description of seasonal eating begins with the seven herbs of spring:
+Japanese parsley, shepherd's purse, cudweed, chickweed, bee nettle, wild turnip,
+and wild radish. These emerge early in the new year from the brown earth. As the
+farmer enjoys their flavors, he meditates on having survived a harsh winter.
+Nature provides complementary foods in the form of early spring shellfish such
+as pond snails, freshwater clams, and sea clams.
 
-Fukuoka's [[fukuoka-natural-food-philosophy]] rejects the purely materialistic understanding of food as
-mere nutrition. Drawing on Buddhist thought, he argued that form is emptiness and
-emptiness is form, meaning that matter and spirit are one. Food is not simply fuel
-for the biological body; it is intimately connected with the human soul and the
-total experience of living.
+The progression continues through the year: bracken and osmund in early spring,
+bamboo shoots with rockfish, broad beans, loquats in early summer rain, green
+Japanese apricot pickling, peaches, and the bitter-sour flavors of oleaster
+berry and plum. Each food arrives at precisely the right time for the body's
+needs.
 
-The key aspects of food as matter are color and flavor. Fukuoka argued that while
-the world appears filled with seven prismatic colors, when combined these become
-white. Viewed with detachment, all things are colorless. Similarly, while people
-perceive many different flavors, the true flavor of food can only be perceived when
-the mind and spirit are in consonance with the food itself.
+## Yin-Yang Seasonal Balance
 
-Modern people, according to Fukuoka, have lost their instinctive sense of taste.
-They chase after flavor because they have lost it. They eat with their minds rather
-than their bodies, relying on seasonings, sauces, and artificial flavorings to
-compensate for their inability to perceive the true taste of food. This spiritual
-alienation from food is the root cause of dietary confusion and the proliferation
-of contradictory dietary theories.
+Fukuoka arranged foods according to George Ohsawa's application of yin and yang
+principles to the four seasons. Summer is hot and yang; winter is cold and yin.
+In terms of color, summer is represented by red and orange, spring by brown
+and yellow, fall by green and blue, and winter by indigo and purple.
 
-## Eating with the Seasons
+The dietary principle states that in summer (yang) one should eat yin foods, and
+in winter (yin) one should eat yang foods. Meat is yang and vegetables are yin,
+with grains occupying an intermediate position. Because humans are omnivorous
+animals that are yang, the principle suggests eating grains as the staple,
+supplemented by yin vegetables, while avoiding excessive meat consumption.
 
-Fukuoka described the traditional Japanese farmer's diet as a model of natural eating
-in accordance with the laws of nature. The seven herbs of spring, including Japanese
-parsley, shepherd's purse, cudweed, chickweed, and wild turnip, emerge early in the
-year from the slumbering earth. Along with these, nature provides shellfish, a brown
-food that balances the green herbs.
+However, Fukuoka cautioned that excessive concern over whether something is yin
+or yang, acidic or alkaline, leads one back into the realm of science and
+discriminating knowledge. The ideal is to eat naturally without such mental
+categorization.
 
-Each season brings its own foods, and each food is most delicious and most
-nutritionally appropriate at the time it ripens naturally. The loquat that glistens
-in early summer rains is a fruit that the body craves at that moment. The heavy
-catches of yang fish such as yellowtail and tuna during the cold months provide
-warming nourishment precisely when it is needed.
+## The Unity of Color, Flavor, and Spirit
 
-Fukuoka arranged foods according to the colors of the four seasons, incorporating
-elements of the yin-yang system. Summer is hot and yang, winter is cold and yin. The
-diet maintains balance between yin and yang: in summer (yang), one eats yin foods,
-and in winter (yin), one eats yang foods. Grains, which are intermediate between
-the extremes, serve as the staple food.
+Fukuoka explored the connection between food and the human spirit through the
+concepts of color and flavor. Drawing on Buddhist terminology where "form"
+refers to matter and "emptiness" to spirit, he stated that matter and spirit
+are one. The seven prismatic colors combine into white light; viewed with
+detachment, all things are colorless and white. Similarly, the vast array of
+foods in nature are fundamentally one, and human categorization into good and
+bad foods is the root of dietary error.
 
-However, Fukuoka cautioned against rigid adherence to dietary rules. Too much
-concern over whether something is yin or yang, acidic or alkaline, leads one back
-into the realm of science and discriminating knowledge. The purpose of a natural
-diet is not to create learned individuals who support their food selections with
-articulate explanations, but to create unlearned people who gather food without
-deliberate rationale from nature's garden.
+Flavor, for Fukuoka, cannot be understood through chemical analysis of food
+components. True flavor is perceived only with the five senses, the mind, and
+the spirit working in concert. He argued that people today chase after flavor
+because they have lost it. Their instincts are confused, their senses deranged,
+and they are easily deceived by artificial flavorings.
 
-## The Staple Food: Grains
+## The Corruption of Modern Diet
 
-Fukuoka considered cereal grains the ideal staple food for humanity. Being
-intermediate in the yin-yang spectrum, grains form the center of a balanced diet.
-He advocated brown rice as the primary staple, noting that polishing removes the
-bran containing aroma, taste, and nutrients. He was concerned by the decline of
-barley and wheat in Japan, noting barley is well-suited to the climate and should
-be double-cropped with rice. He also valued minor grains including millet, corn,
-buckwheat, and Job's tears as prototypic health foods, with the general principle
-that the wilder and more primitive the food, the greater its medicinal value.
+Fukuoka traced the corruption of the modern diet through several stages:
 
-## Critique of Artificial Diets
+**Loss of instinctive taste**: Adults who have lost their instinctive sense of
+taste no longer appreciate the taste of rice. They eat white rice with meat
+sauce or sashimi to compensate for the flavor removed by polishing. Tasty rice
+becomes defined as rice that is easy to flavor and season rather than rice with
+its own inherent flavor.
 
-Fukuoka was sharply critical of food processing and the industrial food system. He
-observed that refinements in flavoring with petroleum-derived protein had created
-people unaware that their entire diet had been converted into an artificial diet.
-White rice, prepared by polishing brown rice to remove the bran, requires meat
-sauce or other strong seasonings to compensate for lost flavor. Meat and fish have
-undergone similar degradation through industrial production methods.
+**Artificial substitution**: Meat and fish have gone the same route as rice.
+Refinements in flavoring with petroleum-derived protein have created people
+who are unaware that their entire diet has been converted into an artificial
+diet. The locus of flavor shifts from the food itself to the additives applied
+to it.
 
-The pursuit of delicious food through technology has, paradoxically, made truly
-delicious food increasingly inaccessible. People strive to produce delicious rice,
-fruit, and vegetables through ever more elaborate methods, but the more they strive,
-the more inaccessible genuine flavor becomes. Fukuoka saw this as a manifestation of
-the broader pattern: human effort applied to nature produces the opposite of its
-intended result.
+**Paradox of effort**: In efforts to make bread tastier, bread has ceased to
+taste good. In efforts to produce delicious rice, fruit, and vegetables,
+these become increasingly inaccessible. The more humanity strives to produce
+delicious food, the more it recedes.
 
-## The Diet of the Sick and the Healthy
+## Eating with the Seasons: A Year of Food
 
-Fukuoka argued that illness begins when man moves away from nature, and the severity
-of affliction is proportional to the degree of estrangement. However, merely
-consuming natural food without a natural body and spirit prepared to receive it does
-not constitute a natural diet. The various natural diet movements, each promoting
-contradictory approaches, all miss the essential point: nature is a fluid entity
-that changes from moment to moment, and any theory that freezes this fluidity fails.
+Fukuoka described a complete annual cycle of natural eating that illustrates
+his principles:
 
-Fukuoka concluded that the first priority is not prescribing what people should eat,
-but creating natural people whose bodies can properly select and digest food. The
-greatest role of a natural diet is to return people to the bosom of nature.
+**Spring**: The seven herbs emerge from winter earth, complemented by
+shellfish. Wild herbs, young cherry and persimmon leaves, bamboo shoots with
+rockfish, red sea bream and grunt at barley harvest time, Spanish mackerel
+sashimi, and seaweed gathering along the seashore.
 
-## Principles for a Natural Diet
+**Summer**: Under the midsummer sun, melon, milk, and honey in cool shade.
+Rapeseed oil and sesame oil revive the body worn by summer heat. Cucumbers,
+squash, eggplant, kidney beans, and early sweet potatoes from the garden.
 
-Fukuoka offered several practical principles: eat foods of the seasons that grow
-close at hand; consume all things in moderation; affirm one's connection to divine
-providence; and devote oneself to holism, the inseparability of body from land, and
-a simple local diet. The overarching principle is to stop eating with the head and
-clear the mind and heart. Rather than following a diet that prescribes and
-proscribes, one should merely receive with gratitude the food that nature provides.
-The trinity of natural farming, natural diet, and natural healing begins and is
-realized at once.
+**Autumn**: Early autumn brings many fruits. Yellow foods such as cereal grains,
+soybeans, and adzuki beans become available. Millet dumplings under the
+moonlight, taros and green soybeans, corn-on-the-cob, chestnuts and rice, and
+the ripened grains of rice that have absorbed the yang of summer.
+
+**Winter**: The first frost brings grilled chicken, mallard, and wild game
+served with warming herbs. Pickled vegetables from the fall harvest. Oysters,
+sea urchins, and sea cucumbers. As spring approaches, the edible butterbur
+flower peeks through snow and hardy green herbs emerge beneath the frost.
+
+## Food as Medicine
+
+Fukuoka believed that the wilder and more primitive the food, the greater its
+medicinal value. He cited the loquat as an example of the principle of using
+the whole plant: not only can the flesh be eaten, the seeds can be ground as a
+coffee substitute, and the leaves infused as tea that Fukuoka called "the best
+of all medicines."
+
+The traditional Japanese culinary arts of making miso, tofu, and fish cooked
+on river rocks with crude natural salt prepared by burning sea salt with brush
+and seaweed represent, in Fukuoka's view, a form of food preparation that
+preserves both nourishment and the spiritual connection between humans and
+nature.
+
+## The Diet of Self-Sufficiency
+
+Natural diet is inseparable from natural farming. Young people living in
+Fukuoka's orchard grew large, hardy vegetables simply by scattering seeds of
+cruciferous vegetables in fall, solanaceous vegetables in spring, and
+leguminous vegetables in early summer among the orchard weeds. These vegetables
+served as fitting food for those living self-sufficiently on a natural diet of
+brown rice and vegetables, without electricity or running water.
+
+Fukuoka's broader vision was that the natural farming orchard, managed as a
+single microcosm including fowl, livestock, and humans, could provide complete
+dietary self-sufficiency.
+
+## See Also
+
+- [[natural-farming-five-principles]]
+- [[clay-pellet-seed-broadcasting]]
+- [[soil-self-enrichment]]
+- [[non-causality-in-nature]]

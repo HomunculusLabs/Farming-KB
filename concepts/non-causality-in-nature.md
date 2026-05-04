@@ -1,168 +1,154 @@
 ---
 title: Non-Causality in Nature
-tags: [natural-farming, philosophy, epistemology, causality, fukuoka, scientific-method, agricultural-theory]
+tags: [philosophy, science, epistemology, fukuoka, nature, systems-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
-    author: Masanobu Fukuoka
-    title: The Natural Way of Farming
+  - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
 # Non-Causality in Nature
 
-The principle of non-causality is Masanobu Fukuoka's most radical philosophical
-contribution to agricultural thought. He argued that cause and effect, as
-understood through the scientific method, do not exist in nature when viewed
-holistically. What appears to be causal relationships at close range dissolves
-into a tangled web of interconnections when examined from broader spatial and
-temporal perspectives, making all single-cause explanations fundamentally
-misleading and all interventions based on them ultimately futile.
+Non-causality is Masanobu Fukuoka's philosophical principle that cause and
+effect, as understood by human intellect, do not truly exist in nature. While
+causal relationships may appear discernible when observing isolated events at a
+specific point in time, examining nature holistically reveals a tangled web of
+relationships that defies resolution into simple cause and effect. This
+principle has profound implications for agriculture, science, and humanity's
+relationship with the natural world.
 
-## The Infinite Regress of Causes
+## The Illusion of Cause and Effect
 
-Behind every cause lie countless other causes. When soil acidity becomes a
-problem, the immediate conclusion is insufficient lime. But the lime
-deficiency may stem from erosion caused by repeated cultivation on ground
-exposed by weeding, or from rainfall patterns, or temperature. Applying lime
-to treat surface acidity may increase acidity further by promoting excessive
-plant growth, in which case cause and effect become confused.
+Fukuoka developed this principle through decades of observation and farming
+practice. His canonical example involves rice blast disease, a common fungal
+affliction of rice plants. The conventional scientific approach identifies the
+rice blast bacterium as the cause and recommends applying copper or mercury
+pesticides as the solution. However, Fukuoka demonstrated that the true
+situation is far more complex:
 
-Fukuoka demonstrated this with a direct observation from his own orchard. After
-applying large quantities of sawdust and wood chips to his land, soil experts
-warned that the organic acids from rotting wood would make the soil acidic and
-require massive lime applications. Yet the soil did not turn acidic. As
-bacterial decomposition produced organic acids and acidity rose, bacterial
-growth leveled off and molds flourished. The molds were eventually replaced by
-mushrooms and other fungi that broke the sawdust into cellulose and lignin.
-The soil settled at a point of equilibrium that was neither acidic nor basic.
+- High temperatures and heavy rainfall may be contributing factors
+- Over-application of nitrogenous fertilizers may weaken plant resistance
+- Prolonged flooding during high temperatures may damage roots
+- The rice variety being grown may have inherently low resistance
+- Insufficient sunlight or carbon dioxide may slow photosynthesis
+- Excess unassimilated nitrogenous components may remain in leaves
 
-The scientific approach would have treated a snapshot of one moment in the
-decomposition process, diagnosed a problem, and applied a remedy that
-interfered with a self-correcting natural process. Nonintervention proved the
-wisest course.
+Each of these "causes" is itself the result of other causes, which are in turn
+effects of yet other causes. The regression continues endlessly. Fukuoka
+concluded that "what we view as a cause can also be seen as the result of
+another cause. Similarly, what we think of as an effect may become the cause of
+something else."
 
-## The Rice Blast Example
+## Rice Blast as Natural Balance
 
-Fukuoka's analysis of rice blast disease illustrates how scientific cause-
-and-effect reasoning leads to ever-deepening confusion. The conventional
-explanation holds that rice blast is caused by infiltration of rice blast
-bacteria, and the solution is to spray copper or mercury agents. But high
-temperatures, heavy rainfall, excessive nitrogenous fertilizer, prolonged
-flooding during high temperatures weakening roots, or low-resistance rice
-varieties may all be contributing factors.
+Fukuoka went further, suggesting that rice blast disease might actually serve
+as a protective mechanism. By halting excessive plant growth, it could restore
+the balance between the surface and underground portions of the plant, prevent
+overly dense growth that would impede photosynthesis, and assure full seed
+production. In this view, disease is not a final effect but merely one stage
+in the constant flux of nature, simultaneously a cause and an effect.
 
-If excess nitrogen fertilizer is identified as the cause, the question becomes
-how excess nitrogen relates to bacterial attack. If cloudy weather reduces
-photosynthesis, slowing the assimilation of nitrogenous components into
-protein, unassimilated nitrogen accumulates in the leaves, making the plant
-susceptible. But then the cause shifts to insufficient sunlight or carbon
-dioxide, or to the amount of starch in the leaves, which requires
-understanding photosynthesis, a process modern science has not fully
-unlocked.
+This perspective fundamentally challenges the pest-control paradigm. If disease
+is part of nature's self-regulating mechanism, then attempting to eliminate it
+through pesticides disrupts the very balance that keeps the ecosystem healthy.
+The pesticides themselves then create new problems that require further
+intervention, initiating a cycle of escalating chemical dependency.
 
-Rotting roots may make plants susceptible, but defining what constitutes
-the proper balance between surface growth and root growth leads to further
-questions about what makes a plant "unhealthy," which no one can adequately
-define. Some scientists cite silica content and stalk hardness, while others
-point to genetics or physiology. With each layer of investigation, the
-originally clear cause becomes murkier until the true cause is lost entirely.
+## The Principle of Non-Causality
 
-## Disease as Natural Process
+Fukuoka formally stated his principle as follows: "When there is no front or
+back, no beginning or end, but only what resembles a circle or sphere, one
+could say that there is unity of cause and effect, but one could just as well
+claim that cause and effect do not exist. This is my principle of non-causality."
 
-Fukuoka proposed that the rice plant itself may perceive blast disease as a
-protective mechanism that halts excessive growth and restores balance between
-the above-ground and below-ground portions. The disease may serve as nature's
-means of preventing overly dense growth, thus aiding photosynthesis and
-assuring full seed production. Rice blast is not a final effect but one stage
-in the constant flux of nature, simultaneously cause and effect.
+To the scientific mind trained to believe in causality, there certainly
+appears to be a way to combat rice blast bacteria. Yet when man perceives rice
+disease as a nuisance and takes the scientific approach of controlling it with
+a powerful bactericide, he proceeds from his first error that causality exists
+to subsequent errors, incurring further toil and misery from his futile efforts.
 
-When viewed up close, organic relationships can be resolved into apparent
-causes and effects. When examined holistically across space and time, no
-effects and causes are found. There is nothing to grasp, so all measures are
-futile. Nature has neither beginning nor end, before nor after, cause nor
-effect. This is the principle of non-causality.
+## Critique of Scientific Laws of Agriculture
 
-## The Pine Forest Cascade
+Fukuoka extended his critique to the fundamental laws upon which modern
+agricultural science is built: the laws of diminishing returns, equilibrium,
+adaptation, compensation and cancellation, relativity, and Liebig's law of
+minimum. He argued that these laws, while appearing individually valid, are
+all merely scattered images of a single fundamental principle, "the Dharmic
+Law That All Things Return to One."
 
-Fukuoka traced a devastating cascade through a Japanese mountain forest to
-demonstrate the futility of single-cause interventions. When a section of
-forest was clear-cut and cedar trees planted as a cash crop, food became
-insufficient for small birds. The birds disappeared, allowing long-horned
-beetles to flourish. Beetles served as vectors for nematodes that attacked
-red pines by feeding on parasitic Botrytis fungi in the trunks. The pines
-fell victim because the beneficial matsutake fungus living on their roots
-had died off due to increased harmful Botrytis in the soil, which resulted
-from soil acidity caused by atmospheric pollution and acid rain.
+Each law reflects a different aspect of nature's inherent harmony and balance.
+The law of diminishing returns reflects a force opposing increases; compensation
+and cancellation are mutually antagonistic forces maintaining equilibrium;
+equilibrium and adaptability protect the balance and order of nature. But by
+treating these as separate, independent laws, agricultural scientists have
+created an elaborate framework that leads farming further from nature rather
+than closer to it.
 
-When the pines died, thickets of bamboo grass sprang up. Mice fed on the
-abundant bamboo grass berries and multiplied, attacking cedar saplings.
-Humans applied rodenticide, but as mice vanished, weasels and snakes that
-fed on them also declined. To protect the weasels, people began raising
-mice to restore the rodent population. Fukuoka called this chain of
-interventions "the stuff of crazed dreams."
+## Liebig's Law of Minimum Critique
 
-Each remedy addressed only the symptom visible at a particular moment while
-the underlying cascade continued. No amount of scientific analysis could
-have predicted or prevented this chain because it emerged from the
-interconnected whole of the forest ecosystem, not from any single
-identifiable cause.
+Fukuoka's critique of Liebig's law of minimum is particularly telling. The law
+states that crop yield is determined by the nutrient present in shortest
+supply, illustrated by the famous barrel analogy where the water level cannot
+rise above the height of the lowest stave. Fukuoka identified two fundamental
+problems:
 
-## The Maze of Relative Subjectivity
+First, what holds up the barrel? Yield is not determined by just one factor
+but by the general outcome of all conditions and factors of cultivation. The
+barrel should be shown on top of a column representing these many conditions.
 
-Fukuoka illustrated the problem of human knowledge with a parable. The Shinto
-deity Okuninushi carries a sack filled with objects. People open the sack,
-thrust their hands in, and attempt to identify each object's purpose. One
-declares a bamboo-and-shell object to be a weapon; another, a musical
-instrument; another, a decorative carving. Yet the truth, known only to
-Okuninushi, is that the object is a broken amusement piece he carries merely
-as kindling.
+Second, the angle of this supporting column affects the tilt of the barrel,
+changing the amount of water it can hold. The tilt exerts greater influence
+on water capacity than the height of individual staves, meaning that nutrient
+levels are often of no real significance compared to overall system conditions.
 
-Man jumps into the great sack called nature, grabs objects, examines them,
-and draws conclusions about nature's purposes. But no matter how careful the
-observations and reasoning, each interpretation carries the risk of grievous
-error because man can know nature no more than he can know the uses for the
-objects in Okuninushi's sack. A flea born inside the sack can never guess
-the object's true purpose no matter how long it studies it.
+He also noted that providing a sufficient amount of a limiting nutrient does
+not increase yield; it merely prevents a loss in yield. The distinction is
+crucial: fertilizers don't make crops grow better, they only prevent them from
+growing worse under degraded conditions.
 
-## Discriminating vs. Non-Discriminating Knowledge
+## The Blind Men and the Elephant
 
-In Buddhist terms, knowledge that splits apart self and object and sets them
-in opposition is "discriminating knowledge." Knowledge that treats self and
-object as a unified whole is "non-discriminating knowledge," the highest
-form of wisdom. An infant sees nature intuitively, as entire and complete.
-An adult mentally picks things apart and classifies them, seeing everything
-as imperfect and fraught with inconsistency.
+Fukuoka compared scientific understanding of nature to the parable of the blind
+men and the elephant. One blind man touches the trunk and believes it to be a
+snake; another touches a leg and calls it a tree. Scientists observe the
+dualities of compensation and cancellation, life and death, loss and gain,
+nutrient excess and deficiency. From these observations they derive various
+laws and pronounce them truths.
 
-Fukuoka observed that a country child who jumps into a muddy rice field and
-plays in the dirt knows the earth intuitively. A city child, taught that
-dirt is filthy and full of germs, sees the same field as unclean and
-fearful. The soil contains hundreds of millions of microorganisms per gram,
-including bacteria that kill other bacteria and bacteria that kill those
-killers. The soil under the sun is healthy, whole, and absolutely essential
-to human life. The knowledge that "there are germs in the soil" is, in
-Fukuoka's view, more ignorant than ignorance itself.
+But no matter how many fragmentary laws extracted from the single unnamed law
+of nature are collected together, they can never add up to the great source
+principle. The nature observed through these laws differs fundamentally from
+true nature. "Man might just as well have chosen to group together the law of
+diminishing returns, the law of minimum, and the law of compensation and
+cancellation, and refer to these collectively as the 'law of harmony.'"
 
-## Implications for Agricultural Practice
+## Practical Implications
 
-The principle of non-causality carries profound practical implications. If
-cause and effect cannot be reliably identified in nature, then all
-agricultural interventions based on causal reasoning are gambles at best.
-Treating symptoms with targeted remedies, as science does, ignores the
-organic interconnectedness of all factors. The proper response is
-nonintervention: allowing nature's self-correcting mechanisms to operate
-without disruption.
+The principle of non-causality has direct practical implications for farming:
 
-This does not mean passive neglect. Fukuoka distinguished between natural
-farming and laissez-faire abandonment. Laissez-faire means abandoning
-nature after having altered it, such as releasing a formula-fed calf into
-a mountain meadow. Natural farming means never having altered nature in
-the first place, or actively working to remove the effects of past human
-interference until the system approaches its natural state.
+- **No quick fixes**: Because effects cannot be isolated from their web of
+  causes, targeting individual symptoms with pesticides or fertilizers is
+  futile and counterproductive.
+- **Holistic management**: The entire ecosystem must be considered as an
+  indivisible whole. Improving overall conditions is more effective than
+  manipulating individual factors.
+- **Patience and trust**: Rather than intervening aggressively, the farmer
+  should allow natural balances to establish themselves.
+- **Humility**: Recognition that human knowledge is inherently fragmentary
+  should lead to restraint in intervention, not increased manipulation.
+
+## The Unified Law of Nature
+
+If Fukuoka's fragmented laws had to be given a single name, he suggested "the
+Dharmic Law That All Things Return to One." All things fuse into a circle,
+which reverts to a point, and the point to nothing. To man it appears as if
+something has occurred and something has vanished, yet nothing is ever created
+or destroyed. This is distinct from the scientific law of conservation of
+matter, which maintains that destruction and conservation exist side by side
+but ventures no further.
 
 ## See Also
 
-- [[mahayana-and-hinayana-natural-farming]]
-- [[no-till-direct-seeding-rice-barley]]
-- [[natural-ground-cover-and-straw-mulching]]
-- [[clay-pellet-desert-revegetation]]
+- [[natural-farming-five-principles]]
+- [[soil-self-enrichment]]
+- [[natural-diet-and-seasonal-eating]]
