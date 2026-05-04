@@ -16,7 +16,8 @@ the sugar in molasses is denatured during the heating and extraction
 processes used to get sugar from plant material. The denatured
 material condenses, becoming more complex forms of sugars, causing
 the change in color. More complex sugars help [[aact-fungal-dominant-tea]] more than
-[[aact-bacterial-dominant-tea]].
+[[aact-bacterial-dominant-tea]]. This distinction between bacterial and fungal foods
+is central to the practice of [[actively-aerated-compost-tea]].
 
 Blackstrap molasses has more condensed forms of sugar, which means
 these forms are more complex and favor fungi more than bacteria.
@@ -97,11 +98,15 @@ become a sterilizer or preservative. The amount present is critical.
 Simple sugars favor bacteria, as long as there are other sources of
 nitrogen and micronutrients available. If there is no nitrogen
 available, addition of pure simple sugar will shut down everything.
+This mirrors the broader dynamics described in [[bacterial-vs-fungal-soil]].
 White sugar is refined and typically nearly only sucrose. You want
 more diverse foods in order to feed a wider diversity of bacteria.
 The only sugar to add to tea is molasses, because it contains a
 wide diversity of kinds of sugars and some recalcitrant kinds of
 sugar that help [[aact-fungal-dominant-tea]] grow. See also [[aact-brewing-ingredients-ingham]].
+
+For troubleshooting molasses-related issues in brewing, see [[aact-troubleshooting-ingham]].
+For food safety concerns when brewing with molasses, see [[aact-pathogen-safety-ingham]].
 
 ## Sulphured vs. Unsulphured Molasses
 

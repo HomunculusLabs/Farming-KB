@@ -9,9 +9,9 @@ sources:
 
 # Matsutake Natural Culture Medium Recipe
 
-Appendix C of *Sowing Seeds in the Desert* presents Masanobu Fukuoka's recipe
+Appendix C of *Sowing Seeds in the Desert* presents [[masanobu-fukuoka]]'s recipe
 for an all-around natural culture medium specifically designed for cultivating
-matsutake fungus (Tricholoma matsutake). This medium is notable for achieving
+[[tricholoma-matsutake]] (matsutake fungus). This medium is notable for achieving
 results approximately ten times faster than the standard Hamada medium
 previously used in mycological research, and for producing dense, vigorous
 growth of hyphae. The medium is also broadly suitable for cultivating
@@ -28,8 +28,8 @@ has proceeded very slowly due to two fundamental obstacles:
    difficult to achieve. The fungus is highly sensitive to laboratory
    conditions and resists standard isolation techniques.
 
-2. **Slow growth**: The hyphae grow extremely slowly in conventional media,
-   making it difficult to obtain sufficient quantities for practical
+The [[mycelium]] grow extremely slowly in conventional [[agar]] media,
+making it difficult to obtain sufficient quantities for practical
    cultivation. No other fungus is as difficult to culture as matsutake.
 
 These difficulties are connected to the broader ecological crisis of
@@ -41,7 +41,7 @@ increasingly urgent.
 ## Composition of the Natural Culture Medium
 
 The culture medium is comprised of bacterial and fungal microorganisms,
-especially mycorrhizal fungi (matsutake), eumycetes (fungi), actinomycetes
+especially mycorrhizal fungi (matsutake), eumycetes (fungi), [[actinomycetes-soil-biology]]
 (fungi), and bacilli (bacteria). It is produced by combining leaf mold and rice
 bran with an infusion derived from boiling plants from three specific botanical
 families.

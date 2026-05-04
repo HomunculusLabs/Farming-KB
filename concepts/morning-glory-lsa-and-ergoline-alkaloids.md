@@ -13,12 +13,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agen
 
 Lysergic acid amide (LSA, also known as "ergine") is a naturally
 occurring ergoline alkaloid found in the seeds of several plant
-species. LSA is a close chemical analogue of LSD (lysergic acid
-diethylamide), the best-known synthetic hallucinogen. While LSD does
-not occur in nature, LSA is present in the seeds of Argyreia nervosa
-(Hawaiian baby woodrose) and [[ipomoea-violacea]] (morning glory). LSA
+species. LSA is a close chemical analogue of [[lsd]] (lysergic acid
+diethylamide), the best-known synthetic hallucinogen. While [[lsd]] does
+not occur in nature, LSA is present in the seeds of [[argyreia-nervosa]]
+(Hawaiian baby woodrose) and [[ipomoea-violacea]] (morning glory). [[ergine-lsa]]
 produces hallucinogenic effects at significantly higher doses than
-LSD and has both quantitative and qualitative differences from its
+[[lsd]] and has both quantitative and qualitative differences from its
 synthetic counterpart.
 
 See also: [[hallucinogenic-plants-native-to-united-states]],
@@ -106,7 +106,7 @@ compounds.
 
 Ipomoea violacea and related Ipomoea corymbosa seeds have documented
 use in Central America for shamanic and ceremonial purposes. The
-Mazatec people of Mexico continue traditional usage in divination and
+The [[mazatec-people]] of Mexico continue traditional usage in divination and
 healing rituals. Known in the Mazatec tradition as "[[ololiuqui]]," these
 seeds represent one of the oldest known psychedelic plant preparations
 in the Americas.
@@ -115,7 +115,7 @@ in the Americas.
 
 Primary health risks include nausea and vomiting (common with all
 preparation methods, particularly from seed coatings), theoretical
-ergotism risk from ergoline alkaloids (though LSA has not been
+theoretical [[ergotamine]] risk from ergoline alkaloids (though [[ergine-lsa]] has not been
 associated with ergotism at typical doses), and sedation that impairs
 coordination and judgment.
 

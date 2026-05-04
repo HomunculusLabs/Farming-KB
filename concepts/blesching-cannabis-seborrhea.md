@@ -25,7 +25,7 @@ secreted by sebaceous glands, along with inflammation and flaking skin.
 Seborrheic dermatitis is considered an overview condition by orthodox
 medicine, with treatments typically involving antifungal medications,
 corticosteroids, and specialized shampoos. While the exact cause is not fully
-understood, it is believed to involve an inflammatory response to Malassezia,
+understood, it is believed to involve an inflammatory response to [[malassezia-restricta]] (Malassezia),
 a naturally occurring yeast on the skin, combined with excessive sebum
 production.
 
@@ -56,7 +56,8 @@ balance growth, differentiation, and survival of skin cells as well as to
 produce proper immune responses.
 
 For seborrhea (and acne), researchers identified that down-regulation of CB2
-produces an inhibition of sebum/lipid production. This finding is significant
+produces an inhibition of sebum/lipid production. [[beta-caryophyllene-dietary-cannabinoid]]
+is a natural dietary CB2 agonist that may complement this mechanism. This finding is significant
 because it directly targets the excessive oil production that characterizes
 seborrhea.
 
@@ -95,11 +96,11 @@ of broader systemic imbalances that the endocannabinoid system helps regulate.
 The ability to target sebum production through CB2 modulation offers
 potential for:
 
-- Topical cannabinoid preparations for seborrheic dermatitis
+- Topical [[cannabidiol-cbd]] preparations for seborrheic dermatitis
 - Adjunctive therapy alongside conventional antifungal treatments
 - Personalized approaches based on individual sebum levels
 - Combination therapies addressing both oil production and inflammation
-- Scalp-specific formulations leveraging the ECS-hair follicle connection
+scalp-specific formulations leveraging the [[anandamide-aea]]/ECS-hair follicle connection.
 
 No evidence-based CHI rating was applicable for this specific application, as
 the research remains at the pre-clinical level and focuses on the broader ECS

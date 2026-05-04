@@ -25,7 +25,7 @@ can be found on pastures up to 30 degrees north and south of the equator. These
 species likely spread through human activity -- cattle ranching, agricultural
 trade, and settlement patterns.
 
-Psilocybe semilanceata ("Liberty Cap") represents the temperate-zone
+[[psilocybe-semilanceata]] ("Liberty Cap") represents the temperate-zone
 counterpart, common across Europe and also found throughout the Pacific
 Northwest of North America. It is a nitrophilic grassland species that fruits
 in autumn, particularly after heavy rainfall.
@@ -49,13 +49,14 @@ Gartz identifies several climatic corridors supporting psychoactive mycoflora:
 ## Regional Centers of Diversity
 
 - **North America (Pacific Northwest)**: Exceptionally rich mycoflora including
-  P. semilanceata, P. cyanescens, P. stuntzii, P. baeocystis, P. pelliculosa,
-  P. azurescens, and Panaeolus subbalteatus. The region is considered a major
+  P. semilanceata, P. cyanescens, [[psilocybe-stuntzii]], P. baeocystis, P. pelliculosa,
+  [[psilocybe-azurescens]], and Panaeolus subbalteatus. The region is considered a major
   center of psychoactive mushroom biodiversity.
 
 - **Mexico**: The original epicenter of documented psychoactive mushroom use,
-  home to numerous endemic Psilocybe species including P. mexicana, P.
-  aztecorum, and P. caerulescens.
+  home to numerous endemic Psilocybe species including [[psilocybe-mexicana]], P.
+  aztecorum, and P. caerulescens. The primary active compound [[psilocybin]] is found
+  across all of these species.
 
 - **Southeast Asia**: Thailand is identified as the country with the largest
   current consumption of psychoactive mushrooms. Species include P. cubensis,
