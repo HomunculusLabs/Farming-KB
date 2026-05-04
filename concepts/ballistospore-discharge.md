@@ -9,12 +9,12 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)"
+  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists ([[nicholas-money|Nicholas P. Money]], 2002)"
 ---
 
 # Ballistospore Discharge
 
-Ballistospore discharge is the explosive mechanism by which basidiomycete fungi launch their reproductive spores into the air. The process relies on a surface tension catapult powered by a microscopic droplet of liquid called **Buller's drop**, named after the pioneering mycologist A. H. Reginald Buller (1874-1944). This mechanism is universal among mushroom-forming fungi and represents one of the most remarkable feats of biological engineering at the microscopic scale.
+Ballistospore discharge is the explosive mechanism by which [[basidiomycete-phylum-guide|basidiomycete]] fungi launch their reproductive spores into the air. The process relies on a surface tension catapult powered by a microscopic droplet of liquid called **Buller's drop**, named after the pioneering mycologist [[buller-ahr|A. H. Reginald Buller]] (1874-1944). This mechanism is universal among mushroom-forming fungi and represents one of the most remarkable feats of biological engineering at the microscopic scale.
 
 ## The Surface Tension Catapult Mechanism
 
@@ -36,11 +36,11 @@ Buller was elected to the Royal Society of London and became one of the most pro
 
 Once launched, basidiospores must clear the gills and escape the cap to be carried by air currents. The vertical orientation and precise spacing of gills are critical for this process. Natural selection tolerates no error in gill arrangement, as any obstruction would prevent spore dispersal.
 
-Buller calculated that individual mushrooms can produce prodigious quantities of spores. The cup fungus *Geopyxis cacabus*, for example, was estimated to discharge 7 trillion spores over its active period. Even the common ink cap (*Coprinus comatus*) releases hundreds of millions of spores in a single day.
+Buller calculated that individual mushrooms can produce prodigious quantities of spores. The cup fungus *Geopyxis cacabus*, for example, was estimated to discharge 7 trillion spores over its active period. Even the common ink cap ([[coprinus-comatus|*Coprinus comatus*]]) releases hundreds of millions of spores in a single day.
 
 ## The Mechanism in Rust Fungi
 
-Buller's most significant insight was recognizing that rust fungi use the same discharge mechanism as mushrooms. The teliospore of *Puccinia graminis* (black stem rust of wheat) produces basidiospores that are launched by Buller's drop, establishing that rusts are basidiomycete fungi, distant cousins of mushrooms. This finding, based on the uniformity of this complex mechanism across all basidiomycetes, supported the conclusion that the process arose only once in evolutionary history.
+Buller's most significant insight was recognizing that [[rust-fungi-guide|rust fungi]] use the same discharge mechanism as mushrooms. The teliospore of *Puccinia graminis* (black stem rust of wheat) produces basidiospores that are launched by Buller's drop, establishing that rusts are basidiomycete fungi, distant cousins of mushrooms. This finding, based on the uniformity of this complex mechanism across all basidiomycetes, supported the conclusion that the process arose only once in evolutionary history.
 
 ## Limitations in Aquatic Environments
 

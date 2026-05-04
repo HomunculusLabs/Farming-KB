@@ -37,7 +37,8 @@ establishment an existential threat to diversified farming systems.
 
 The codling moth ravages apples, pears, and other fruit of the rose family (Rosaceae).
 While its host range is narrower than the medfly, its impact on the core temperate
-fruit crops makes it a severe threat to Japanese orchard agriculture. The codling moth
+fruit crops makes it a severe threat to Japanese [[natural-orchard-management|orchard]]
+agriculture. The codling moth
 larvae burrow into the fruit, rendering it unmarketable and causing significant economic
 losses in apple and pear producing regions worldwide.
 
@@ -90,7 +91,8 @@ Fukuoka general principle that scientific agriculture produces only "temporary
 expedients" applies here with particular force. Even if a control measure for the
 medfly were developed, perhaps through sterile insect release or targeted
 biological agents, it would generate secondary problems requiring yet more
-interventions. The sterile insect technique, for instance, requires mass rearing
+interventions. This mirrors his [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique|critique of biological control]]
+as another layer of technological dependency. The sterile insect technique, for instance, requires mass rearing
 facilities, quality control systems, and repeated releases, all of which represent
 ongoing costs and potential failure points.
 
@@ -98,7 +100,7 @@ ongoing costs and potential failure points.
 
 From Fukuoka perspective, the healthiest defense against pest damage is not
 quarantine or chemical control but growing healthy crops in balanced ecological
-systems. His [[fukuoka-textdoc-no-pesticide-principle-insect-balance]] principle
+systems grounded in the [[natural-farming-five-principles]]. His [[fukuoka-textdoc-no-pesticide-principle-insect-balance]] principle
 holds that disease and pest problems arise primarily from unhealthy growing
 conditions rather than from the mere presence of pest organisms. A farm operating
 within natural ecological balance would be more resilient to pest establishment
@@ -106,8 +108,8 @@ than a conventional farm, even when facing novel invasive species.
 
 ## The Broader Lesson on Ecological Interconnection
 
-Fukuoka analysis of the invasive pest threat illustrates his principle that ecological
-systems cannot be managed through piecemeal interventions. Trade policy, agricultural
+Fukuoka analysis of the invasive pest threat illustrates his [[fukuoka-textdoc-one-thing-is-all-things-holism|holistic principle]]
+that ecological systems cannot be managed through piecemeal interventions. Trade policy, agricultural
 practice, pest management, and food security form an interconnected whole. Attempting
 to solve one problem (consumer demand for diverse fruits) while ignoring its ecological
 consequences (pest introduction risk) exemplifies the fragmented thinking that Fukuoka

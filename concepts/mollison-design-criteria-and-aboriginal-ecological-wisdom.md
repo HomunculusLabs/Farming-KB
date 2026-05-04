@@ -120,3 +120,5 @@ Mollison provides several practical tools for analyzing landscape patterns and d
 - mollison design criteria and aboriginal ecological wisdom
 - [[permaculture-design-methodology]]
 - [[mollison-mulching-and-soil-health]]
+
+See also [[permaculture-design]], [[permaculture-principles]], [[bill-mollison]], [[permaculture-ethics]], and [[zone-and-sector-analysis]] for related design topics.

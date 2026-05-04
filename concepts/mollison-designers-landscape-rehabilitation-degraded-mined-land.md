@@ -142,6 +142,8 @@ described in [[mollison-designers-food-forest-succession-design]]. Pioneer
 nitrogen-fixing trees are thinned or retained as shelter, while fruit and nut
 trees, timber species, and pasture are established in improving conditions.
 
+See also [[swale-design]], [[succession-in-permaculture]], [[biochar-soil-remediation]], [[acid-mine-drainage-treatment]], and [[arbuscular-mycorrhizal-fungi]] for complementary rehabilitation techniques.
+
 On mine sites, careful monitoring of soil and water quality is essential before
 food-producing plants are introduced. Heavy metal accumulation in plant tissues
 must be assessed. Initial systems may focus on non-food products (timber, fibre,

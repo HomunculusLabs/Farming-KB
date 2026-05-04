@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists (Nicholas P. Money, 2002)"
+  - "Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists ([[nicholas-money|Nicholas P. Money]], 2002)"
 ---
 
 # Fungal Pheromones
@@ -18,12 +18,12 @@ Fungal pheromones are chemical signals that coordinate sexual reproduction and o
 
 ## Oomycete Steroid Pheromones
 
-The best-characterized fungal pheromone system is found in oomycete water molds, particularly *Achlya ambisexualis*. These organisms produce steroid-based pheromones remarkably similar to human sex hormones:
+The best-characterized fungal pheromone system is found in [[zoosporic-fungi|oomycete]] water molds, particularly *Achlya ambisexualis*. These organisms produce steroid-based pheromones remarkably similar to human sex hormones:
 
 - **Antheridiol**: Released by the female mycelium to attract males; structurally similar to estrogen
 - **Oogoniol**: Released by the male in response; structurally similar to progesterone and testosterone
 
-The mating sequence begins when the female releases antheridiol from her mycelial network. If a male is growing sufficiently close, he responds by producing antheridial branches that grow toward the pheromone source while releasing oogoniol. The female, sensing the male's response, forms egg sacs (oogonia) and secretes additional antheridiol to attract multiple males. The process culminates when antheridia penetrate the oogonia and inject sperm nuclei.
+The mating sequence begins when the female releases antheridiol from her [[mycelial-colonization|mycelial network]]. If a male is growing sufficiently close, he responds by producing antheridial branches that grow toward the pheromone source while releasing oogoniol. The female, sensing the male's response, forms egg sacs (oogonia) and secretes additional antheridiol to attract multiple males. The process culminates when antheridia penetrate the oogonia and inject sperm nuclei.
 
 The structural similarity between oomycete pheromones and animal steroids is remarkable given the enormous evolutionary distance between these lineages. All of these compounds are ring-shaped lipids called steroids, employed for relaying messages between cells across virtually all domains of life.
 
@@ -33,7 +33,7 @@ The formation of male branches is sculpted by localized changes in the plasticit
 
 ## Chytrid Sesquiterpene Pheromones
 
-Chytrid fungi use a different class of pheromones derived from sesquiterpenes rather than steroids:
+[[zoosporic-fungi|Chytrid fungi]] use a different class of pheromones derived from sesquiterpenes rather than steroids:
 
 - **Sirenin**: Released by the female egg cell to attract male sperm cells
 - **Parisin**: Released by the male sex cell
@@ -42,13 +42,13 @@ When a male sperm cell detects sirenin, its behavior changes abruptly: it stops 
 
 ## Zygomycete Cooperative Biosynthesis
 
-Zygomycete fungi (pin molds) have evolved an economical signaling scheme using pheromones manufactured from **carotenoids**, the class of compounds that includes beta-carotene and photosynthetic pigments. Rather than releasing large quantities of pheromones, each strain releases a minute amount of precursor compound that is converted into **trisporic acid** only upon receipt by the partner strain.
+[[zygomycete-phylum-guide|Zygomycete fungi]] (pin molds) have evolved an economical signaling scheme using pheromones manufactured from **carotenoids**, the class of compounds that includes beta-carotene and photosynthetic pigments. Rather than releasing large quantities of pheromones, each strain releases a minute amount of precursor compound that is converted into **trisporic acid** only upon receipt by the partner strain.
 
 This **cooperative biosynthesis** means that no individual strain can process its own precursor into the active pheromone; only the mate possesses the necessary enzyme. In response to trisporic acid accumulation, both strains cease producing asexual sporangia and instead produce aerial hyphae that grow toward one another in a cobra-like dance, culminating in fusion and zygospore formation. Unlike oomycete pheromones, trisporic acid functions through both water and air.
 
 ## Mushroom Mating Types
 
-Mushroom-forming basidiomycetes have a fundamentally different approach to mate recognition. While all mycelia appear identical (masses of androgynous tubes), genetic diversity lurks in their nuclei. A single species of ink-cap mushroom can encompass hundreds of different **mating types**, determined by a handful of genes with multiple alleles.
+Mushroom-forming [[basidiomycete-phylum-guide|basidiomycetes]] have a fundamentally different approach to mate recognition. While all mycelia appear identical (masses of androgynous tubes), genetic diversity lurks in their nuclei. A single species of ink-cap mushroom can encompass hundreds of different **mating types**, determined by a handful of genes with multiple alleles.
 
 When compatible strains fuse, their mycelia merge and eventually produce a mushroom. When incompatible strains meet, the region of mingled cytoplasm darkens and decays. The evolution of so many sexes maximizes outcrossing and promotes tremendous genetic variation within a single species.
 

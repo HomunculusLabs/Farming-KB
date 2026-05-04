@@ -22,7 +22,7 @@ Fungi do not limit their parasitic ambitions to plants, animals, and other organ
 
 ## The Phenomenon of Mycoparasitism
 
-The discovery that "little fleas upon their backs bite them" applies as readily to fungi as to the animals in Jonathan Swift's verse. Fungal parasites are found among all major fungal groups, and many apparently innocuous saprotrophic species will attack living organisms when opportunities present themselves. Mycoparasitism represents one expression of four universal features shared by all the microorganisms encountered in fungal biology: they penetrate their foods with invasive hyphae, feed by absorbing nutrients, reproduce by spore formation, and show a marked propensity for attacking other organisms.
+The discovery that "little fleas upon their backs bite them" applies as readily to fungi as to the animals in Jonathan Swift's verse. Fungal parasites are found among all major fungal groups, and many apparently innocuous saprotrophic species will attack living organisms when opportunities present themselves. Mycoparasitism represents one expression of four universal features shared by all the microorganisms encountered in fungal biology: they penetrate their foods with [[bloomfields-orchard-hyphal-growth-and-invasive-biology|invasive hyphae]], feed by absorbing nutrients, reproduce by spore formation, and show a marked propensity for attacking other organisms.
 
 The fact that some fungi eat other fungi is symptomatic of the broader behavioral repertoire of all fungi. These diverse species are united by their invasive hyphal growth, absorptive nutrition, spore-based reproduction, and propensity for attacking living organisms. The lines between saprotroph, parasite, and predator are not hard boundaries but positions on a continuum of ecological strategies.
 
@@ -38,7 +38,7 @@ The ecological strategy is clear: rather than competing with decomposer fungi fo
 
 ### Cordyceps as Mycoparasites
 
-While most species of Cordyceps are known as insect pathogens — their fruiting bodies erupt from the bodies of dead caterpillars, ants, and beetles — some Cordyceps species infect the underground fruiting bodies of truffles (Tuber species). This represents a remarkable ecological niche: a fungus that parasitizes the reproductive structures of another fungus that itself lives underground in symbiosis with tree roots. The truffle, already engaged in a complex mutualistic relationship with its host tree, becomes the unwitting host for a second fungal parasite.
+While most species of Cordyceps are known as insect pathogens — their fruiting bodies erupt from the bodies of dead caterpillars, ants, and beetles — some Cordyceps species infect the underground fruiting bodies of [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution|truffles]] (Tuber species). This represents a remarkable ecological niche: a fungus that parasitizes the reproductive structures of another fungus that itself lives underground in [[mycorrhizal-carbon-nitrogen-economics|symbiosis with tree roots]]. The truffle, already engaged in a complex mutualistic relationship with its host tree, becomes the unwitting host for a second fungal parasite.
 
 The implications for truffle cultivation are significant. Truffle growers, who carefully manage the mycorrhizal relationship between truffle fungi and their host trees, must also contend with the possibility that their valuable crop could be parasitized by Cordyceps or other mycoparasites before it can be harvested.
 
@@ -80,7 +80,7 @@ Careful regulation of temperature and relative humidity in growing rooms can sup
 
 ## Trichoderma as Biocontrol Agent
 
-The deliberate introduction of **Trichoderma** species represents one of the most successful biological control approaches against mycoparasites of cultivated mushrooms. Trichoderma is a common soil microorganism that aggressively colonizes substrates and attacks other fungi.
+The deliberate introduction of **Trichoderma** species represents one of the most successful biological control approaches against mycoparasites of cultivated mushrooms. [[trichoderma-harzianum|Trichoderma]] is a common soil microorganism that aggressively colonizes substrates and attacks other fungi.
 
 ### Mechanisms of Action
 
@@ -88,12 +88,12 @@ Trichoderma's efficacy against fungal parasites operates through multiple mechan
 
 - **Rapid growth**: The mycelium expands so swiftly that it starves other fungi in its neighborhood by exhausting available nutrients before competitors can establish themselves. This competitive exclusion is a primary mechanism of biocontrol.
 - **Mycoparasitism**: Trichoderma itself is a mycoparasite. Its hyphae coil around the hyphae of target fungi, penetrate their cell walls with specialized appressorium-like structures, and digest them from within using a battery of cell-wall-degrading enzymes including chitinases, glucanases, and proteases.
-- **Antibiosis**: Some Trichoderma species produce secondary metabolites that inhibit the growth of competing fungi, creating chemical exclusion zones around their colonies.
+- **Antibiosis**: Some Trichoderma species produce [[bloomfield-fungal-secondary-metabolites|secondary metabolites]] that inhibit the growth of competing fungi, creating chemical exclusion zones around their colonies.
 - **Enzyme production**: The aggressive secretion of hydrolytic enzymes allows Trichoderma to break down the cell walls of other fungi, which are composed of chitin and beta-glucans.
 
 ### Broader Applications
 
-The aggressive behavior of Trichoderma extends beyond mushroom cultivation. The same genus is utilized in efforts to control various plant diseases caused by pathogenic fungi. Trichoderma-based biocontrol products are commercially available for management of soil-borne plant pathogens including Fusarium, Rhizoctonia, and Pythium species. The organism's ability to colonize plant roots while simultaneously attacking pathogenic fungi in the rhizosphere makes it a dual-purpose biocontrol agent.
+The aggressive behavior of Trichoderma extends beyond mushroom cultivation. The same genus is utilized in efforts to control various plant diseases caused by pathogenic fungi. Trichoderma-based biocontrol products are commercially available for management of soil-borne plant pathogens including Fusarium, Rhizoctonia, and Pythium species. The organism's ability to [[mycelial-colonization|colonize plant roots]] while simultaneously attacking pathogenic fungi in the rhizosphere makes it a dual-purpose biocontrol agent.
 
 ## Mycoparasitism in Natural Ecosystems
 

@@ -123,3 +123,5 @@ development of these compounds.
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]
 - [[golden-guide-morning-glory-and-ololiuqui]]
 - [[golden-guide-datura-and-nightshade-deliriants]]
+
+See also [[beta-carboline-alkaloids]], [[ayahuasca-pharmacology]], [[ayahuasca-botany-and-preparation]], [[tryptamine]], and [[syrian-rue-peganum-harmala-ethnobotany]] for related chemistry and ethnobotany.

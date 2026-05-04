@@ -135,3 +135,5 @@ Recording observations in a grazing journal or digital log allows you to identif
 
 ---
 - [[nutrient-movement-through-soil-to-plant-roots]]
+
+See also [[permaculture-design]], [[permaculture-principles]], [[composting]], [[animal-manure-guide]], and [[earthworm-ecology]] for related pasture and soil topics.

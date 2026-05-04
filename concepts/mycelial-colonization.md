@@ -124,3 +124,5 @@ more production cycles per year. Key levers:
 - [[oyster-mushroom-substrates]] — substrate selection and preparation
 - hyphae — the cellular building blocks of mycelium
 - [[substrate-contamination]] — threats to successful colonization
+
+See also [[substrate-pasteurization]], [[sterile-technique-mushroom-cultivation]], [[trichoderma-forest-green-mold-guide]], and [[grain-spawn-preparation]] for related cultivation topics.

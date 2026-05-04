@@ -18,7 +18,7 @@ sources:
 
 ## The Concept
 
-Fukuoka proposes integrating ducks and carp into the rice paddy as a natural alternative to chemical fertilization, weeding, and pest control. Rather than applying chicken manure as a fertilizer input, the farmer releases animals into the field to perform these functions biologically.
+[[masanobu-fukuoka|Fukuoka]] proposes integrating ducks and carp into the rice paddy as a natural alternative to chemical fertilization, weeding, and pest control. Rather than applying chicken manure as a fertilizer input, the farmer releases animals into the field to perform these functions biologically.
 
 The principle is one of making "full, three-dimensional use of the field" — utilizing not just the surface soil layer for grain production, but the water column and the entire biological community as a productive system.
 
@@ -33,7 +33,7 @@ Ducks consume weeds and weed seeds as they forage through the paddy. Their const
 Ducks pick off insects from the rice plants and from the water surface. Insects that would otherwise damage the rice crop become food for the ducks, converting a potential problem into a productive output.
 
 ### Soil Turning
-As the ducks move through the mud, their feet and bodies disturb and turn the soil surface. This gentle biological tilling aerates the soil without destroying its structure — unlike mechanical tilling, which Fukuoka argues damages soil aggregation and kills microbial life.
+As the ducks move through the mud, their feet and bodies disturb and turn the soil surface. This gentle biological tilling aerates the soil without destroying its structure — unlike mechanical tilling, which [[masanobu-fukuoka|Fukuoka]] argues damages soil aggregation and kills microbial life.
 
 ### Fertilization
 Duck droppings provide a continuous, evenly distributed source of organic nutrients throughout the growing season. Unlike concentrated applications of chemical fertilizer, this nutrient input is released gradually as the ducks feed and process the biomass in the field.
@@ -127,10 +127,10 @@ The duck-carp integration exemplifies Fukuoka's principle that natural farming w
 
 This stands in contrast to industrial agriculture's approach of breaking down ecosystems into monocultures and then replacing the lost functions with purchased inputs (herbicides for the weeding that ducks would do, pesticides for the pest control that ducks would provide, mechanical tillers for the soil aeration that duck feet would accomplish).
 
-The system also embodies Fukuoka's "one thing is all things" principle: by introducing ducks to solve one problem (fertilization), multiple other problems (weeding, pest control, soil compaction) are simultaneously resolved, and new productive outputs (eggs, meat) are generated from the same land area.
+The system also embodies Fukuoka's [[fukuoka-textdoc-one-thing-is-all-things-holism|"one thing is all things" principle]]: by introducing ducks to solve one problem (fertilization), multiple other problems (weeding, pest control, soil compaction) are simultaneously resolved, and new productive outputs (eggs, meat) are generated from the same land area.
 
 ## Historical and Cultural Context
 
-Integrated duck-rice farming has a long history in East and Southeast Asia, particularly in Japan, China, Vietnam, and Indonesia. The system was widely practiced before the introduction of chemical agriculture displaced it. Fukuoka's contribution was not inventing the practice but demonstrating its compatibility with his broader no-tillage, no-fertilizer, no-pesticide approach to rice cultivation.
+Integrated duck-rice farming has a long history in East and Southeast Asia, particularly in Japan, China, Vietnam, and Indonesia. The system was widely practiced before the introduction of chemical agriculture displaced it. Fukuoka's contribution was not inventing the practice but demonstrating its compatibility with his broader [[fukuoka-natural-farming-method|no-tillage, no-fertilizer, no-pesticide approach]] to rice cultivation.
 
-The system has experienced a modern revival through the work of Japanese farmer Takao Furuno, who developed and popularized the "aigamo" method (using crossbred ducks) starting in the late 1980s, explicitly building on Fukuoka's principles. Similar integrated systems have been adopted across Asia as part of the SRI (System of Rice Intensification) movement and various agroecological approaches.
+The system has experienced a modern revival through the work of Japanese farmer Takao Furuno, who developed and popularized the "aigamo" method (using crossbred ducks) starting in the late 1980s, explicitly building on Fukuoka's principles. Similar integrated systems have been adopted across Asia as part of the SRI (System of Rice Intensification) movement and various [[agroecology|agroecological]] approaches.
