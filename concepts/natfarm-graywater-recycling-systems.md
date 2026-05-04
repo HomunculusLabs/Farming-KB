@@ -133,3 +133,5 @@ gravel for compaction or silt accumulation.
 
 - [[graywater-systems-for-homesteads]]
 - [[graywater-wetland-marsh-filtration-systems]]
+
+[[comparison-greywater-vs-constructed-wetland]] compares treatment approaches for residential wastewater. [[comparison-composting-toilets-vs-greywater-systems-detailed]] examines the tradeoffs between composting toilets and graywater recycling. [[backyard-water-harvesting]] covers rain collection techniques that complement graywater systems. For a broader comparison of water strategies, [[comparison-greywater-vs-rainwater-harvesting]] evaluates both approaches side by side.

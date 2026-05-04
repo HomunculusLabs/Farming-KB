@@ -110,7 +110,9 @@ by:
 
 ## Burrowing and Soil Structure
 
-Different worm species create different burrow types:
+[[biodiversity-of-fungi-biomass-carbon-soil-structure]] depends on the physical soil
+improvements that earthworm burrows provide. Different worm species create
+different burrow types:
 
 - **Vertical burrowers**: Move up and down, sometimes reaching 12 feet
   deep; pull surface litter into burrows for later decomposition;
@@ -143,3 +145,5 @@ Earthworms are remarkably vulnerable to common gardening practices:
 A noticeable worm population is a clear sign of a healthy [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]. It indicates that organic matter, bacteria,
 fungi, protozoa, and nematodes -- all necessary to support worms -- are
 present and functioning.
+
+[[actinomycetes-soil-biology]] are another key group of soil organisms that work alongside earthworms in decomposition. For practical guidance on methods, [[comparison-vermicomposting-vs-composting-organic-garden]] compares approaches for organic gardens. Earthworms also contribute to [[biodiversity-of-fungi-decomposition-nutrient-cycling]] across ecosystems. Techniques for boosting worm populations are covered in [[compost-biology-soil-food-web-inoculation]].

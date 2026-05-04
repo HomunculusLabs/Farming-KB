@@ -117,7 +117,8 @@ metabolite with an unambiguous adaptive purpose.
 
 ## Medical and Industrial Importance
 
-Fungal secondary metabolites have enormous practical importance:
+[[antifungal-secondary-metabolites-coprophilous-fungi]] demonstrates that even
+coprophilous (dung-inhabiting) fungi produce medically relevant compounds. Fungal secondary metabolites have enormous practical importance:
 
 - **Antibiotics**: Penicillin and cephalosporins revolutionized medicine
 - **Immunosuppressants**: Cyclosporine from Tolypocladium enables organ
@@ -137,3 +138,5 @@ discovered and characterized at an accelerating pace.
 - [[fungal-secondary-metabolites-environment]]
 - bloomfield fungal secondary metabolites
 - [[fungal-elicitors-enhanced-secondary-metabolite-production]]
+
+[[bloomfield-amatoxin-poisoning-mechanism]] explains how amatoxins cause lethal liver failure. [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] covers the dark history of trichothecene toxins as biological weapons. [[bloomfield-aspergillus-biology-and-aflatoxins]] provides deeper detail on aflatoxin-producing Aspergillus species. For food safety implications, [[aflatoxins-mycotoxins-food]] addresses contamination of stored grains and nuts.
