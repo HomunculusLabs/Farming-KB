@@ -2,13 +2,13 @@
 
 > A comprehensive knowledge base covering mycology, mushroom cultivation, psychedelics, permaculture, natural farming, cannabis, soil science, herbalism, bioremediation, and homesteading.
 
-**11638 pages** across 14 categories
+**11658 pages** across 14 categories
 
 ## Categories
 
-- [[index-fungal-ecology|Fungal Ecology & Biology]] (2235 pages)
-- [[index-mushroom-cultivation|Mushroom Cultivation]] (1249 pages)
-- [[index-psychedelics|Psychedelics & Entheogens]] (989 pages)
+- [[index-fungal-ecology|Fungal Ecology & Biology]] (2239 pages)
+- [[index-mushroom-cultivation|Mushroom Cultivation]] (1254 pages)
+- [[index-psychedelics|Psychedelics & Entheogens]] (990 pages)
 - [[index-permaculture|Permaculture & Ecological Design]] (1568 pages)
 - [[index-natural-farming|Natural Farming]] (823 pages)
 - [[index-cannabis|Cannabis]] (922 pages)
@@ -18,7 +18,7 @@
 - [[index-herbalism|Herbalism & Plant Medicine]] (58 pages)
 - [[index-homesteading|Homesteading & Self-Reliance]] (202 pages)
 - [[index-brewing|Brewing & Fermentation]] (38 pages)
-- [[index-species|Species Profiles]] (1218 pages)
+- [[index-species|Species Profiles]] (1228 pages)
 - [[index-comparisons-queries|Comparisons & Queries]] (870 pages)
 
 ## Complete Index

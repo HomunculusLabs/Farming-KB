@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**989 pages**
+**990 pages**
 
 ## #
 
@@ -328,6 +328,7 @@
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[guzman-allen-gartz-neotropical-psilocybe-species]]
+- [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]
 - [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]]
 - [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
 

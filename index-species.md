@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1218 pages**
+**1228 pages**
 
 ## #
 
@@ -150,6 +150,7 @@
 - [[a-et-entity-tihkal]]
 - [[a-o-dms-entity-tihkal]]
 - [[acacia]]
+- [[acacia-confusa]]
 - [[achillea-millefolium]]
 - [[acorus-calamus]]
 - [[acremonium-strictum]]
@@ -298,6 +299,7 @@
 
 - [[calcarisporium-arbuscula]]
 - [[calendula-officinalis]]
+- [[calvatia-gigantea]]
 - [[candida-albicans]]
 - [[cannabichromene-cbc]]
 - [[cannabidiol-cbd]]
@@ -539,6 +541,7 @@
 - [[glomus-intraradices]]
 - [[glomus-mosseae]]
 - [[glomus-versiforme]]
+- [[glycyrrhiza-glabra]]
 - [[golden-teacher-cubensis]]
 - [[gonatobotryum-fuscum]]
 - [[gordon-wasson]]
@@ -553,6 +556,7 @@
 - [[gymnopilus-aeruginosus]]
 - [[gymnopilus-badiceps]]
 - [[gymnopilus-brunneus]]
+- [[gymnopilus-fulgens]]
 - [[gymnopilus-junonius]]
 - [[gymnopilus-luteofolius]]
 - [[gymnopilus-luteus]]
@@ -667,6 +671,7 @@
 ## K
 
 - [[kaempferia-galanga]]
+- [[ketamine]]
 - [[koryaks]]
 
 ## L
@@ -812,6 +817,7 @@
 - [[mimosa-tenuiflora]]
 - [[mipt-entity-tihkal]]
 - [[mitragyna-speciosa]]
+- [[mitragynine]]
 - [[mmda-2-entity-pihkal]]
 - [[mmda-3a-entity]]
 - [[mmda-3a-entity-pihkal]]
@@ -910,6 +916,7 @@
 - [[paracoccidioides-brasiliensis]]
 - [[passiflora-incarnata]]
 - [[paul-stamets]]
+- [[paul-wheaton]]
 - [[paulownia-tomentosa]]
 - [[pawpaw]]
 - [[paxillus-involutus]]
@@ -1122,6 +1129,7 @@
 - [[roger-heim]]
 - [[roland-griffiths]]
 - [[rolf-singer]]
+- [[runtz]]
 - [[russula-emetica]]
 
 ## S
@@ -1152,6 +1160,7 @@
 - [[serpula-lacrymans]]
 - [[sida-rhombifolia]]
 - [[silicon]]
+- [[silybum-marianum]]
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
 - [[sophora-secundiflora-entity]]
@@ -1178,6 +1187,7 @@
 - [[suillus-luteus]]
 - [[suillus-variegatus]]
 - [[sun-ra]]
+- [[super-lemon-haze]]
 - [[symphytum-officinale]]
 
 ## T
