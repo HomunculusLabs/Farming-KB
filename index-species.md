@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1387 pages**
+**1396 pages**
 
 ## #
 
@@ -136,6 +136,7 @@
 - [[5-meo-det-entity-tihkal]]
 - [[5-meo-dipt-entity-tihkal]]
 - [[5-meo-dmt]]
+- [[5-meo-dmt-entity]]
 - [[5-meo-dmt-entity-tihkal]]
 - [[5-meo-mipt]]
 - [[5-meo-mipt-entity-tihkal]]
@@ -239,6 +240,7 @@
 - [[ariadne-entity-pihkal]]
 - [[armillaria-bulbosa]]
 - [[armillaria-mellea]]
+- [[armillaria-mellea-entity]]
 - [[armillaria-ostoyae]]
 - [[artemisia-absinthium]]
 - [[artemisia-annua]]
@@ -293,6 +295,7 @@
 - [[blastomyces-dermatitidis]]
 - [[blue-dream]]
 - [[blue-dream-cannabis]]
+- [[blueberry-cannabis]]
 - [[blumeria-graminis]]
 - [[bob-entity]]
 - [[bob-entity-pihkal]]
@@ -501,6 +504,7 @@
 - [[elaine-ingham]]
 - [[elaphomyces-granulatus]]
 - [[eleagnus-angustifolia]]
+- [[eleagnus-umbellata-entity]]
 - [[elemicin]]
 - [[eleutherococcus-senticosus]]
 - [[eleutheromyces-subulatus]]
@@ -972,6 +976,7 @@
 - [[nicholas-money]]
 - [[nicole-faires]]
 - [[nicotiana-rustica]]
+- [[nigella-sativa]]
 - [[nmt-entity-tihkal]]
 - [[nn-dmt]]
 - [[noladin-ether]]
@@ -1023,6 +1028,7 @@
 - [[panellus-stipticus]]
 - [[paracoccidioides-brasiliensis]]
 - [[passiflora-incarnata]]
+- [[passiflora-incarnata-entity]]
 - [[paul-stamets]]
 - [[paul-wheaton]]
 - [[paullinia-cupana]]
@@ -1128,6 +1134,7 @@
 - [[psilocybe-cordispora]]
 - [[psilocybe-cubensis]]
 - [[psilocybe-cubensis-australia]]
+- [[psilocybe-cubensis-entity]]
 - [[psilocybe-cyanescens]]
 - [[psilocybe-cyanofibrillosa]]
 - [[psilocybe-czechica]]
@@ -1273,6 +1280,7 @@
 - [[salvia-divinorum]]
 - [[salvia-officinalis]]
 - [[salvinorin-a]]
+- [[salvinorin-a-entity]]
 - [[sambucus-nigra]]
 - [[sandoz-pharmaceuticals]]
 - [[sapodilla-entity]]
@@ -1382,6 +1390,7 @@
 - [[trainwreck-cannabis]]
 - [[trametes-hirsuta]]
 - [[trametes-versicolor]]
+- [[trametes-versicolor-entity]]
 - [[tremella-aurantia]]
 - [[tremella-fuciformis]]
 - [[tremella-mesenterica]]

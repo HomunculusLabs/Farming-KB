@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**892 pages**
+**897 pages**
 
 ## A
 
@@ -102,6 +102,7 @@
 - [[comparison-cannabis-sativa-vs-cannabis-indica]]
 - [[comparison-cannabis-sativa-vs-cannabis-ruderalis]]
 - [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
 - [[comparison-chaga-vs-reishi]]
 - [[comparison-chaga-vs-reishi-medicinal]]
@@ -207,6 +208,7 @@
 - [[comparison-hot-composting-vs-bokashi]]
 - [[comparison-hps-vs-cmh]]
 - [[comparison-hugelkultur-vs-chinampas]]
+- [[comparison-hugelkultur-vs-keyline-design]]
 - [[comparison-hugelkultur-vs-sheet-mulching]]
 - [[comparison-hugelkultur-vs-terracing]]
 - [[comparison-hugelkultur-vs-wicking-bed]]
@@ -505,12 +507,15 @@
 - [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
+- [[query-how-do-i-build-with-hempcrete]]
 - [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
+- [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]]
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
 - [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]]
 - [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]]
 - [[query-how-do-i-create-a-permaculture-zone-plan-for-my-property]]
 - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
+- [[query-how-do-i-create-habitat-for-amphibians-in-a-permaculture-system]]
 - [[query-how-do-i-create-microclimates-in-my-garden]]
 - [[query-how-do-i-cure-cannabis-in-jars-without-mold]]
 - [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]

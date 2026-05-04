@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1131 pages**
+**1134 pages**
 
 ## #
 
@@ -630,9 +630,12 @@
 - [[mckenna-food-gods-ibogaine-bwiti-fang]]
 - [[mckenna-food-gods-leary-harvard-psilocybin-project]]
 - [[mckenna-food-gods-mead-honey-dionysian]]
+- [[mckenna-food-gods-myth-of-glaukos-honey]]
 - [[mckenna-food-gods-natural-synthetic-drugs]]
 - [[mckenna-food-gods-partnership-dominator]]
+- [[mckenna-food-gods-peganum-harmala-soma]]
 - [[mckenna-food-gods-psilocybin-cultivation-1970s]]
+- [[mckenna-food-gods-soma-vedic-enigma]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
 - [[mckenna-food-gods-tassili-cave-paintings]]
 - [[mckenna-food-gods-tryptamine-dimension]]

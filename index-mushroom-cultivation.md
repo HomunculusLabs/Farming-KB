@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1282 pages**
+**1283 pages**
 
 ## #
 
@@ -584,6 +584,7 @@
 - [[mazatec-mushroom-tradition]]
 - [[mazatec-mushrooms-of-language]]
 - [[mckenna-food-gods-mesoamerican-mushrooms]]
+- [[mckenna-food-gods-minoan-crete-mushroom-religion]]
 - [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
 - [[mckenna-minoan-crete-mushroom-religion]]
 - [[mckenna-mushroom-cultivation-history]]

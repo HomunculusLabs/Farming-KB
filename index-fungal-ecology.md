@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2290 pages**
+**2291 pages**
 
 ## #
 
@@ -1424,6 +1424,7 @@
 - [[matsutake-mushroom]]
 - [[mckenna-ergot-and-witches-sabbath-theory]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
+- [[mckenna-food-gods-wasson-amanita-theory]]
 - [[mckenna-leafcutter-ant-fungal-agriculture]]
 - [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
 - [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
