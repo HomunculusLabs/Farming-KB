@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1241 pages**
+**1247 pages**
 
 ## #
 
@@ -104,6 +104,7 @@
 - [[4-ho-det-entity-tihkal]]
 - [[4-ho-dipt-entity-tihkal]]
 - [[4-ho-dpt-entity-tihkal]]
+- [[4-ho-met]]
 - [[4-ho-met-entity-tihkal]]
 - [[4-ho-mipt-entity-tihkal]]
 - [[4-ho-mpt-entity-tihkal]]
@@ -196,6 +197,7 @@
 - [[amanita-bisporigera]]
 - [[amanita-caesarea]]
 - [[amanita-gemmata]]
+- [[amanita-jacksonii]]
 - [[amanita-muscaria]]
 - [[amanita-pantherina]]
 - [[amanita-phalloides]]
@@ -681,6 +683,7 @@
 
 - [[kaempferia-galanga]]
 - [[ketamine]]
+- [[keyline-design]]
 - [[koryaks]]
 
 ## L
@@ -1108,6 +1111,7 @@
 - [[psk-polysaccharide-krestin]]
 - [[psychotria-viridis]]
 - [[purple-haze-cannabis]]
+- [[purple-punch]]
 - [[pyr-t-entity-tihkal]]
 - [[pyridoxal-phosphate]]
 - [[pyridoxamine-phosphate]]
@@ -1155,6 +1159,7 @@
 - [[salix-alba]]
 - [[salvia-divinorum]]
 - [[salvinorin-a]]
+- [[sambucus-nigra]]
 - [[sandoz-pharmaceuticals]]
 - [[sapodilla-entity]]
 - [[sarah-c-watkinson]]
@@ -1325,3 +1330,4 @@
 ## Z
 
 - [[zero-emissions-research-and-initiatives]]
+- [[zkittlez]]

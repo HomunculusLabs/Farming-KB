@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1568 pages**
+**1567 pages**
 
 ## A
 
@@ -464,7 +464,6 @@
 
 ## K
 
-- [[keyline-design]]
 - [[keyline-design-water-management]]
 - [[keypoint-dam-water-storage-earthworks]]
 - [[krameterhof-holzer-model-farm]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1003 pages**
+**1008 pages**
 
 ## #
 
@@ -248,6 +248,7 @@
 - [[fukuoka-somalia-desert-greening-mission]]
 - [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-spiritual-philosophy-farming]]
+- [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
 - [[fukuoka-textdoc-decline-quality-food]]
@@ -275,11 +276,13 @@
 - [[fukuoka-textdoc-liebig-law-minimum-critique]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
+- [[fukuoka-textdoc-matter-spirit-unity-food]]
 - [[fukuoka-textdoc-maze-relative-subjectivity]]
 - [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
 - [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
+- [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]
 - [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
@@ -309,9 +312,11 @@
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
+- [[fukuoka-textdoc-three-stages-collapse-only-future]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
 - [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
+- [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
 - [[fukuoka-textdoc-what-plowing-really-is]]
 - [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]]
 
