@@ -68,12 +68,12 @@ sources used during brewing. This allows growers to produce teas tailored to
 specific needs:
 
 - **Bacterial-dominant tea:** High in molasses and simple sugars, favoring
-  rapid bacterial growth. Suitable for annual crops, vegetables, and early
-  successional soils as described in [[lowenfels-soil-food-web-succession]].
+suitable for annual crops, vegetables, and early
+  successional soils as described in [[teaming-with-microbes-bacterial-vs-fungal-dominance]].
 - **Fungal-dominant tea:** Includes fish hydrolysate, kelp, and small amounts
   of humic acid, with minimal simple sugars. Suitable for perennials, trees,
   and soils needing more fungal biomass for
-  [[lowenfels-soil-fungi-decomposition]].
+  [[teaming-with-microbes-fungi-the-underground-network]].
 - **Balanced tea:** A combination of food sources that supports both bacteria
   and fungi, providing the broadest microbial diversity.
 
@@ -96,7 +96,7 @@ microbial populations before pathogen pressure builds. Regular applications
 every 2 to 4 weeks maintain microbial coverage on plant surfaces. Soil
 drenches are most effective when applied to moist soil, as this allows
 microorganisms to establish and begin cycling nutrients for the
-[[lowenfels-rhizosphere-bacteria-plant-interaction]].
+[[teaming-with-microbes-bacteria-and-archaea-in-soil]].
 
 ## Disease Suppression Mechanisms
 
@@ -126,9 +126,9 @@ and diversity of organisms in the finished tea.
 ## Integration with Soil Food Web Management
 
 Compost tea is most effective as part of a comprehensive soil biology
-management program. It works synergistically with [[lowenfels-cover-crops-soil-biology]]
+management program. It works synergistically with [[teaming-with-microbes-cover-crops-soil-health]]
 that maintain living roots, minimal tillage that preserves established
-biological networks, and [[lowenfels-glomalin-soil-aggregation]] practices
+biological networks, and [[teaming-with-microbes-humus-formation-and-glomalin]] practices
 that build soil structure. Tea applications supplement rather than replace
 these foundational practices, providing periodic boosts of microbial diversity
-and activity to support the entire [[lowenfels-soil-food-web-succession]].
+and activity to support the entire [[teaming-with-microbes-soil-food-web-overview]].

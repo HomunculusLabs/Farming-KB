@@ -13,7 +13,7 @@ type: concept
 
 Elaine Ingham's field guide provides detailed comparison of thermal
 (heat-produced) compost and worm (vermi) compost for use in
-[[compost-tea-aact]] production. Both methods can produce excellent
+[[actively-aerated-compost-tea]] production. Both methods can produce excellent
 compost, but they differ in their mechanisms for pathogen
 elimination, the organism groups they best support, and their
 practical requirements.
@@ -139,8 +139,8 @@ county, state, and federal levels.
 
 ## Related Topics
 
-- [[hot-composting-method]] for thermal compost production details
-- [[ingham-vermicompost-worm-castings]] for vermicompost specifics
-- [[compost-tea-aact]] for brewing from combined compost sources
-- [[ingham-compost-tea-recipe-ratios]] for recipe formulation
-- [[ingham-food-safety-compost-tea]] for pathogen safety standards
+- [[aact-compost-quality-standards-ingham]] for testing requirements and compost quality
+- [[vermicomposting]] for vermicompost production details
+- [[actively-aerated-compost-tea]] for brewing from combined compost sources
+- [[aact-pathogen-safety-ingham]] for pathogen safety standards
+- [[teaming-with-microbes-compost-biology]] for compost microbiology fundamentals

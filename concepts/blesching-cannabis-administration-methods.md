@@ -16,7 +16,7 @@ cannabinoids and terpenes but critically on the method of administration.
 Different routes of delivery produce dramatically different pharmacokinetic
 profiles, affecting onset time, duration of effects, bioavailability, and
 the ratio of active compounds that reach systemic circulation. In "The
-[[cannabis-health-index]]," Uwe Blesching provides a comprehensive comparison
+[[cannabis-health-index]]," Uwe [[uwe-blesching]] provides a comprehensive comparison
 of cannabis administration methods, helping patients and clinicians select
 the most appropriate approach for specific conditions and symptom profiles.
 
@@ -147,3 +147,10 @@ routes:
   post-surgical); minimal psychoactive effects at typical doses
 - **Considerations**: Social acceptability barriers; requires preparation
   or commercial suppositories; absorption can be variable; limited
+
+## See Also
+
+- [[cannabis-health-index]] — scoring system for condition-strain matching
+- [[cannabis-dosing-guidelines]] — dosing strategies by administration route
+- [[cannabis-decarboxylation-chemistry]] — thermal conversion of acidic cannabinoids
+- [[tetrahydrocannabinolic-acid-thca]] — THCA pharmacology relevant to raw juice

@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-[[natural-farming-fukuoka]] considered the plow to be the single most destructive
+Masanobu Fukuoka considered the plow to be the single most destructive
 invention
 in agriculture. In "The Natural Way of Farming," he devotes extensive analysis
 to
@@ -103,22 +103,22 @@ reducing the soil's ability to maintain itself; the degraded soil then appears
 to
 "need" further cultivation to maintain structure. Breaking this cycle by
 stopping
-cultivation is the first step toward genuine [[fukuoka-natural-fertility-cycle]]natural
+cultivation is the first step toward genuine [[teaming-with-microbes-no-till-benefits]]
 soil fertility].
 
 See also:
-- [[fukuoka-four-principles-natural-farming]] — the principle of no cultivation
-- [[fukuoka-natural-farming-philosophy]] — broader philosophical context
-- [[fukuoka-straw-mulch-system]] — alternative to cultivation for weed management
+- [[teaming-with-microbes-no-till-gardening-soil-health]] — evidence for no-cultivation benefits
+- [[teaming-with-microbes-tilling-damage-to-fungal-networks]] — how tillage damages fungal networks
+- [[teaming-with-microbes-compost-biology]] — building soil biology without cultivation
 - [[white-clover-ground-cover]] — living mulch approach
-- [[fukuoka-natural-rice-barley-cultivation]] — practical application
+- [[teaming-with-microbes-soil-food-web-overview]] — the soil ecosystem cultivation disrupts
 ## Merged: Fukuoka Soil Microorganisms Fertilizer Damage
 
 # Soil Microorganisms and Fertilizer Damage
 
 updated: 2026-04-18
 
-Fukuoka's understanding of [[fukuoka-five-principles-natural-farming]] rests on a deep awareness of soil microbiology. He argued that chemical fertilizers destroy the living soil ecosystem, creating the very problems they claim to solve.
+Fukuoka's understanding of [[teaming-with-microbes-soil-food-web-overview]] rests on a deep awareness of soil microbiology. He argued that chemical fertilizers destroy the living soil ecosystem, creating the very problems they claim to solve.
 
 ## The Living Soil
 

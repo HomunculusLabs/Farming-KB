@@ -49,7 +49,7 @@ many shelf fungi that completely consume the wood substrate.
 
 The enzymatic basis of white rot decay centers on the lignin-modifying enzyme
 system: lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase, as
-detailed in [[fungal-extracellular-enzymes]]. These enzymes initiate an
+detailed in [[staycare-laccase-enzymes-in-bioremediation]]. These enzymes initiate an
 oxidative radical cascade that non-specifically attacks lignin's aromatic
 polymer structure, progressively fragmenting it into water-soluble oligomers
 and ultimately to carbon dioxide.
@@ -88,7 +88,7 @@ environmental pollutants. They have been demonstrated to degrade polycyclic
 aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), explosives
 like TNT, synthetic dyes, pharmaceuticals, and endocrine-disrupting compounds.
 
-[[phanerochaete-chrysosporium]] has been the most studied species for
+[[staycare-phanerochaete-chrysosporium-in-bioremediation]] has been the most studied species for
 bioremediation, but Pleurotus ostreatus and Trametes versicolor often show
 superior performance in field applications due to their faster growth and
 greater environmental tolerance. Live mycelium can be deployed in contaminated
@@ -100,12 +100,14 @@ treatment of contaminated water.
 Many commercially important mushroom species are white rot fungi. Shiitake
 (Lentinula edodes), oyster mushrooms (Pleurotus spp.), enoki (Flammulina
 velutipes), and reishi (Ganoderma lucidum) all degrade lignocellulose as
-part of their life cycle. [[mushroom-cultivation]] on wood-based substrates
+part of their life cycle. [[stamets-pleurotus-oyster-cultivation]] on wood-based substrates
 exploits the white rot decay machinery to convert low-value wood byproducts
 into nutritious food.
 
 ## See Also
 
-- [[fungal-extracellular-enzymes]]
-- [[mycelium-running-techniques]]
-- [[bioremediation-strategies]]
+- [[staycare-laccase-enzymes-in-bioremediation]]
+- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
+- [[biobleaching-of-pulp-by-white-rot-fungi]]
+- [[staycare-brown-rot-fungi-in-bioremediation]]
+- [[trametes-versicolor]]
