@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1228 pages**
+**1241 pages**
 
 ## #
 
@@ -151,6 +151,7 @@
 - [[a-o-dms-entity-tihkal]]
 - [[acacia]]
 - [[acacia-confusa]]
+- [[acdc]]
 - [[achillea-millefolium]]
 - [[acorus-calamus]]
 - [[acremonium-strictum]]
@@ -222,6 +223,7 @@
 - [[armillaria-mellea]]
 - [[armillaria-ostoyae]]
 - [[artemisia-absinthium]]
+- [[artemisia-vulgaris-entity]]
 - [[arthrobotrys-musiformis]]
 - [[arthrobotrys-oligospora]]
 - [[arthur-heffter]]
@@ -351,6 +353,7 @@
 - [[copelandia-anomalus]]
 - [[copelandia-cambodginiensis]]
 - [[copelandia-cyanescens]]
+- [[copelandia-mexicana]]
 - [[copelandia-tropicalis]]
 - [[coprinus-atramentaria]]
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
@@ -462,6 +465,7 @@
 - [[ephedra-sinica]]
 - [[epibrassinolide]]
 - [[epichloe-typhina]]
+- [[ergine]]
 - [[ergine-lsa]]
 - [[ergotamine]]
 - [[ergothioneine]]
@@ -491,7 +495,9 @@
 - [[flammulina-velutipes]]
 - [[flea-entity]]
 - [[flea-entity-pihkal]]
+- [[foeniculum-vulgare-entity]]
 - [[fomes-entity]]
+- [[fomes-fomentarius]]
 - [[fomitopsis-pinicola]]
 - [[food-forest]]
 - [[fusarium-culmorum]]
@@ -560,6 +566,7 @@
 - [[gymnopilus-junonius]]
 - [[gymnopilus-luteofolius]]
 - [[gymnopilus-luteus]]
+- [[gymnopilus-penetrans]]
 - [[gymnopilus-purpuratus]]
 - [[gymnopilus-sapineus]]
 - [[gymnopilus-spectabilis]]
@@ -580,6 +587,7 @@
 - [[hericium-coralloides]]
 - [[hericium-erinaceus]]
 - [[heterobasidion-annosum]]
+- [[hindu-kush-cannabis-entity]]
 - [[hippophae-rhamnoides]]
 - [[hispolon]]
 - [[histoplasma-capsulatum]]
@@ -625,6 +633,7 @@
 - [[inga-edulis]]
 - [[ingold-cecil-t]]
 - [[inocybe-aeruginascens]]
+- [[inocybe-calamistrata]]
 - [[inocybe-corydalina-entity]]
 - [[inocybe-crocata]]
 - [[inocybe-geophylla]]
@@ -694,6 +703,7 @@
 - [[laetisaria-arvalis]]
 - [[laricifomes-officinalis]]
 - [[latua-pubiflora]]
+- [[lavandula-angustifolia-entity]]
 - [[lentinan]]
 - [[lentinula-edodes]]
 - [[lentinus-edodes-entity-the-mushroom-cultivator]]
@@ -906,6 +916,7 @@
 - [[panaeolus-fimicola]]
 - [[panaeolus-olivaceus]]
 - [[panaeolus-papilionaceus]]
+- [[panaeolus-retirugis]]
 - [[panaeolus-sphinctrinus]]
 - [[panaeolus-subbalteatus]]
 - [[panaeolus-tropicalis]]
@@ -967,6 +978,7 @@
 - [[pluteus-americanus]]
 - [[pluteus-cervinus]]
 - [[pluteus-glaucotinctus]]
+- [[pluteus-glaucus]]
 - [[pluteus-nigroviridis]]
 - [[pluteus-romellii]]
 - [[pluteus-salicinus]]
@@ -1129,6 +1141,7 @@
 - [[roger-heim]]
 - [[roland-griffiths]]
 - [[rolf-singer]]
+- [[rosmarinus-officinalis-entity]]
 - [[runtz]]
 - [[russula-emetica]]
 

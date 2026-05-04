@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**998 pages**
+**1003 pages**
 
 ## #
 
@@ -248,6 +248,7 @@
 - [[fukuoka-somalia-desert-greening-mission]]
 - [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-spiritual-philosophy-farming]]
+- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
 - [[fukuoka-textdoc-decline-quality-food]]
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
@@ -259,6 +260,7 @@
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
+- [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
 - [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
 - [[fukuoka-textdoc-four-types-of-diet-classification]]
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
@@ -281,6 +283,7 @@
 - [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]
 - [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
+- [[fukuoka-textdoc-natural-order-food-chain-unity]]
 - [[fukuoka-textdoc-natural-order-microbial-ecology]]
 - [[fukuoka-textdoc-natural-seedlings-grafted-nursery-stock]]
 - [[fukuoka-textdoc-natural-soil-management]]
@@ -303,9 +306,11 @@
 - [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-sericulture-natural-vs-scientific-silk-production]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
+- [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
+- [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
 - [[fukuoka-textdoc-what-plowing-really-is]]
 - [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]]

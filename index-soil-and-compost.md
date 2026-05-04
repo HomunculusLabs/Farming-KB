@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**380 pages**
+**381 pages**
 
 ## A
 
@@ -289,6 +289,7 @@
 - [[nitrogen-plant-nutrition]]
 - [[no-till-agriculture]]
 - [[no-till-benefits]]
+- [[no-till-direct-seeding-rice-barley]]
 - [[no-till-gardening-method]]
 - [[no-till-grain-growing]]
 - [[no-till-grain-growing-methods]]
