@@ -86,3 +86,12 @@ See also [[cannabis-oil-isomerization]], [[cannabis-extraction-basics]], [[canna
 - [[cannabis-solvent-reflux-extraction-methods]]
 - [[cannabis-reflux-extraction-apparatus]]
 - [[cannabis-hash-making-from-extracted-oil]]
+
+## See Also
+
+- [[thc-acetate-synthesis-and-pharmacology]] — pharmacological profile and effects of THC acetate including the characteristic delayed onset
+- [[thc-acetate-and-isomerization]] — relationship between THC acetate formation and cannabinoid isomerization pathways
+- [[tetrahydrocannabinol-thc]] — the parent compound from which THC acetate is derived via acetylation
+- [[tetrahydrocannabinolic-acid-thca]] — the natural acidic precursor to THC, relevant to extraction starting material quality
+
+[[thc-acetate-synthesis-and-pharmacology]] | [[thc-acetate-and-isomerization]] | [[tetrahydrocannabinol-thc]] | [[tetrahydrocannabinolic-acid-thca]]

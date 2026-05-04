@@ -121,3 +121,12 @@ Integration of biosorption with other treatment technologies, including [[fungal
 - [[fungal-treatment-of-textile-dyes-mechanisms]]
 - [[constructed-wetlands-wastewater-treatment]]
 - [[fungal-industrial-wastewater-treatment]]
+
+## See Also
+
+- [[staycare-fungal-biosorption-of-heavy-metals]] — comprehensive review of metal biosorption capacities across fungal species
+- [[staycare-fungal-metal-biosorption-reactor-systems]] — engineering design of continuous-flow biosorption columns
+- [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] — chemical modification of fungal biomass to enhance sorption
+- [[staycare-bioavailability-pollutants-fungal-bioremediation]] — how pollutant bioavailability affects isotherm behavior in situ
+
+[[staycare-fungal-biosorption-of-heavy-metals]] | [[staycare-fungal-metal-biosorption-reactor-systems]] | [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] | [[staycare-bioavailability-pollutants-fungal-bioremediation]]

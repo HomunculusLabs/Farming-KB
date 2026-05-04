@@ -137,3 +137,12 @@ initiatives.
 
 See also: [[psilocybin-mushrooms-overview]], [[mycology-modern-era]],
 [[psychedelic-harm-reduction]], [[mushroom-toxicology-palmer-theory]]
+
+## See Also
+
+- [[stamets-psi-galerina-deadly-look-alikes-safety]] — detailed guide to distinguishing Galerina marginata and other deadly lookalikes
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]] — DNA barcoding methods for definitive species confirmation
+- [[amanita-phalloides-death-cap]] — the amatoxin-containing species whose toxins are shared by the deadliest psilocybin lookalikes
+- [[baeocystin]] — a secondary tryptamine alkaloid found alongside psilocybin that aids in chemical identification
+
+[[stamets-psi-galerina-deadly-look-alikes-safety]] | [[biodiversity-fungal-molecular-identification-dna-barcoding]] | [[amanita-phalloides-death-cap]] | [[baeocystin]]

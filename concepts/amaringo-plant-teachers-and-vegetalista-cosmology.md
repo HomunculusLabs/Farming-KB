@@ -147,3 +147,13 @@ or enemy attack. Left arm contractions indicate sorcery; right arm contractions
 indicate the visions will reveal all that was asked.
 
 ## Dietary Discipline
+
+## See Also
+
+- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] — detailed breakdown of the banco, muraya, and sumiruna ranks
+- [[amazonian-ayahuasca-purge-and-diet-practices]] — the dietary restrictions and purification protocols Amaringo describes
+- [[amazonian-plant-teachers-doctores]] — catalog of specific plant teachers and their healing specializations
+- [[banisteriopsis-caapi]] — the ayahuasca vine itself, its botany, chemistry, and traditional preparation
+- [[ayahuasca-pharmacology]] — the biochemical basis of the DMT–harmine/harmaline synergy central to the brew
+
+[[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] | [[amazonian-ayahuasca-purge-and-diet-practices]] | [[amazonian-plant-teachers-doctores]] | [[banisteriopsis-caapi]] | [[ayahuasca-pharmacology]]

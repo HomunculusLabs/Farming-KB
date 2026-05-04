@@ -88,3 +88,12 @@ Together, they demonstrate that the mistakes of modern agriculture are not inevi
 [[holzer-farming-philosophy]] | [[holzer-disaster-resistant-farming]] | [[sepp-holzer-method]] | [[natural-farming-vs-organic-farming]] | [[fukuoka-critique-modern-agriculture]]
 - [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
 - [[biodiversity-of-fungi-ecosystem-services-agriculture]]
+
+## See Also
+
+- [[agroecology]] — ecological approach to farming that aligns with Holzer's critique of industrial monoculture
+- [[bill-mollison]] — co-originator of permaculture, whose design principles complement Holzer's landscape-scale methods
+- [[agricultural-chemicals-mycorrhizal-impact]] — how pesticides and fertilizers destroy the fungal symbioses Holzer's methods restore
+- [[teaming-with-microbes-no-till-gardening-soil-health]] — the soil biology benefits of avoiding the tillage Holzer also rejected
+
+[[agroecology]] | [[bill-mollison]] | [[agricultural-chemicals-mycorrhizal-impact]] | [[teaming-with-microbes-no-till-gardening-soil-health]]
