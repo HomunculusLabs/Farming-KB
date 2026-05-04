@@ -71,6 +71,12 @@ See also [[faires-water-sources-and-catchment]], [[faires-swales-and-water-conse
 
 [[faires-orchard-design-and-intercropping]], [[faires-pond-design-and-aquaculture]], [[faires-garden-design-zone-1-layout]], [[faires-house-design-and-retrofit]], [[faires-sustainability-and-design-goals]], [[faires-ecological-succession-and-edge-design]], [[faires-water-tank-design]], [[faires-forest-garden-design]]
 
+- [[permaculture-zones-in-practice]]
+- [[zone-1-intensive-garden]]
+- [[faires-water-sources-and-catchment]]
+- [[faires-swales-and-water-conservation]]
+- [[mollison-designers-duck-pond-integrated-systems]]
+
 ## Practical Applications
 
 The principles outlined on this page connect directly to hands-on work in gardens,

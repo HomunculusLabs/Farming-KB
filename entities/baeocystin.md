@@ -1,96 +1,149 @@
 ---
-title: baeocystin
+title: Baeocystin
 type: chemical
-tags: ["tryptamine-alkaloid", "mushroom-constituent", "psilocybin-related", "minor-alkaloid"]
+tags:
+  - psychedelic
+  - tryptamine
+  - alkaloid
+  - mushroom-compound
+  - minor-alkaloid
+  - psilocybe
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md, /Users/t3rpz/wiki/raw/papers/tryptamine-cubensis-gartz.md]
+sources:
+  - https://en.wikipedia.org/wiki/Baeocystin
+  - Leung, A.Y. & Paul, A.G. (1968). "Baeocystin and norbaeocystin: new analogs of psilocybin." Journal of Pharmaceutical Sciences
+  - Gartz, J. (1989). "Baeocystin in Psilocybe, Conocybe and Inocybe species." Mycological Research
 ---
 
 # Baeocystin
 
-**Baeocystin** (4-phosphoryloxy-N-methyltryptamine, abbreviated as 4-PO-NMT) is a naturally occurring tryptamine alkaloid found in a variety of psilocybin-containing mushroom species. It is structurally related to psilocybin, differing by the presence of a single N-methyl group rather than the N,N-dimethyl substitution found in psilocybin. Baeocystin is considered a minor alkaloid, typically present at lower concentrations than psilocybin and psilocin in fungal tissue.
+**Baeocystin** (4-phosphoryloxy-N-methyltryptamine, or **4-PO-NMT**) is a naturally occurring psychedelic alkaloid found in various species of psilocybin-containing mushrooms. Structurally, it is the N-demethylated analogue of [[psilocybin]] and the phosphorylated derivative of [[norpsilocin]]. First isolated in 1968, baeocystin is classified as a minor alkaloid in most mushroom species, typically present at 0.1–0.5% of the total alkaloid content, though it may contribute to the overall pharmacological profile of psychedelic mushrooms.
 
 ## Chemical Properties
 
+**Nomenclature**
 - **IUPAC Name:** [3-(2-Methylaminoethyl)-1H-indol-4-yl] dihydrogen phosphate
-- **Molecular Formula:** C₁₁H₁₅N₂O₄P
-- **Molecular Weight:** 270.22 g/mol
-- **Structural relationship:** The N-monomethyl analog of psilocybin (4-PO-[[dmt]]) and the phosphorylated analog of norpsilocin (4-HO-NMT)
+- **CAS Number:** 10382-58-8
+- **Formula:** C₁₁H₁₅N₂O₄P | **MW:** 270.22 g/mol | **SMILES:** CNCCc1c[nH]c2ccc(OP(=O)(O)O)cc12
 
-Baeocystin occupies an intermediate position in the series of psilocybin-related alkaloids: tryptamine, N-methyltryptamine (NMT), N,N-dimethyltryptamine (DMT), and their respective 4-hydroxy and 4-phosphoryloxy derivatives. The biosynthetic pathway in fungi proceeds from tryptamine through successive methylation steps, and baeocystin represents the mono-methylated intermediate in this sequence.
+### Structural Classification
+- **Class:** Tryptamine alkaloid; **Subclass:** 4-substituted tryptamine; **Family:** Psilocybin analogues
 
-## Occurrence in Nature
+### Structure-Activity Relationship
+Baeocystin's structure differs from psilocybin by the absence of one methyl group on the terminal amine:
 
-Baeocystin was first isolated from *Psilocybe baeocystis* Singer and Smith, the species from which it takes its name. This mushroom, found in the Pacific Northwest of North America, was described by Singer and Smith in 1958 and is known to contain baeocystin at notable concentrations.
+```
+Psilocybin:   4-PO-DMT   (dimethylaminoethylindole-4-phosphate)
+Baeocystin:   4-PO-NMT   (methylaminoethylindole-4-phosphate)
+Norbaeocystin: 4-PO-T    (aminoethylindole-4-phosphate)
+```
 
-The compound has since been detected in numerous psilocybin-containing species including:
-- *Psilocybe cubensis*
-- *Psilocybe semilanceata*
-- *Psilocybe cyanescens*
-- *Psilocybe azurescens*
-- *Psilocybe bohemica*
-- *Panaeolus cyanescens* (syn. *Copelandia cyanescens*)
-- *Inocybe aeruginascens*
-- *Gymnopilus* species
+This demethylation significantly affects pharmacological activity — the tertiary amine (N,N-dimethyl) is reduced to secondary (N-methyl), altering receptor binding, metabolic stability, and BBB permeability.
 
-Concentrations of baeocystin in mushroom tissue are typically 10 to 30 percent of the psilocybin concentration, though this ratio varies considerably by species and specimen. Bigwood and Beug reported baeocystin levels that, while consistently lower than psilocybin, showed significant inter-specimen variability, complicating attempts to establish reliable species-level average values.
+### Chemical Stability
+- Stable in dried mushroom tissue when stored cool, dark, and dry
+- Phosphate ester is hydrolytically labile — dephosphorylates to the free phenol (norpsilocin) under alkaline conditions or via phosphatase enzymes
+- More susceptible to enzymatic dephosphorylation than psilocybin due to reduced steric hindrance at the amine
+- Synthetically accessible from 4-hydroxyindole via phosphorylation and reductive amination
+
+## Natural Occurrence
+
+Baeocystin has been identified in numerous psilocybin-containing mushrooms:
+
+**Primary source — Psilocybe species:**
+- *P. baeocystis* — named for this compound; highest concentrations
+- *P. cubensis* — consistently detected; 0.1–0.4% dry weight
+- *P. semilanceata* — common in European liberty caps
+- *P. azurescens*, *P. cyanescens*, *P. bohemica*, *P. stuntzii*, *P. natatolensis*
+
+**Other genera:** *Panaeolus cyanescens*, *Inocybe aeruginascens*, *Conocybe* spp., *Gymnopilus* spp.
+
+### Concentration Ranges
+Typical baeocystin content across species (% of dry weight):
+
+| Species | Baeocystin | Psilocybin | Baeocystin:Psilocybin Ratio |
+|---------|-----------|------------|---------------------------|
+| *P. baeocystis* | 0.15–0.85% | 0.36–1.07% | ~0.3–0.8 |
+| *P. cubensis* | 0.05–0.36% | 0.30–1.80% | ~0.1–0.3 |
+| *P. semilanceata* | 0.02–0.20% | 0.20–2.50% | ~0.05–0.2 |
+| *P. azurescens* | 0.10–0.50% | 0.60–1.80% | ~0.1–0.4 |
+| *P. cyanescens* | 0.05–0.30% | 0.30–1.50% | ~0.1–0.3 |
+
+### Biosynthetic Pathway
+
+1. **L-Tryptophan** → decarboxylation → **Tryptamine**
+2. **Tryptamine** → N-methyltransferase → **N-Methyltryptamine (NMT)**
+3. **NMT** → 4-hydroxylase → **Norpsilocin (4-HO-NMT)**
+4. **Norpsilocin** → 4-hydroxytryptamine kinase → **Baeocystin (4-PO-NMT)**
+
+Psilocybin branches at step 2 (NMT → DMT → hydroxylation). Baeocystin represents the shorter monomethylation pathway.
 
 ## Pharmacology
 
-The pharmacological activity of baeocystin remains incompletely characterized. As a prodrug analogous to psilocybin, it is expected to undergo dephosphorylation in vivo to form **norpsilocin** (4-HO-NMT), the N-monomethyl analog of psilocin. Norpsilocin's activity at serotonin receptors has not been extensively studied, but by analogy with other tryptamine derivatives, it is presumed to have affinity for 5-HT receptors, likely as a partial agonist at 5-HT₂A with lower potency than psilocin.
+### Mechanism of Action
+Baeocystin is a prodrug dephosphorylated in vivo to **norpsilocin** (4-HO-NMT):
+1. Alkaline phosphatases cleave the phosphate ester (gut, liver, bloodstream)
+2. Norpsilocin crosses the blood-brain barrier
+3. Acts as partial agonist at 5-HT₂A receptors (primary psychedelic mechanism)
+4. Additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₆ receptors
 
-The contribution of baeocystin (and its active metabolite norpsilocin) to the overall psychoactive effect of mushroom consumption is debated. Given its lower concentrations and potentially reduced receptor affinity, most researchers consider it a minor contributor compared to psilocybin and psilocin. However, some anecdotal reports suggest that species with higher baeocystin-to-psilocybin ratios may produce qualitatively different experiential profiles, and formal pharmacological investigation of this question remains an open area of research.
+### Receptor Affinity
 
-## Tryptamine-Feeding Experiments
+- **5-HT₂A:** Lower affinity than psilocybin (estimated 2–5× lower Ki)
+- **5-HT₁A:** Moderate; may contribute anxiolytic effects
+- **5-HT₂C:** Weak to moderate
+- Reduced N-substitution decreases lipophilicity and 5-HT₂A affinity vs. psilocybin
 
-Jochen Gartz demonstrated that baeocystin levels in cultivated *Psilocybe cubensis* could be significantly elevated by supplementing the growth substrate with tryptamine. When tryptamine was added to the substrate, the fungal biosynthetic pathway utilized the excess precursor, leading to increased production of N-methyltryptamine intermediates and consequently higher baeocystin concentrations in the fruiting bodies. This finding supported the proposed biosynthetic pathway in which baeocystin represents an intermediate en route to psilocybin.
+### Pharmacokinetics
+- **Onset:** 20–60 minutes oral; similar to psilocybin
+- **Half-life:** Estimated 2–3 hours for norpsilocin metabolite
+- **Metabolism:** MAO oxidation; glucuronidation
+- **Duration:** 3–5 hours (slightly shorter than psilocybin's 4–6 hours)
 
-## [[norbaeocystin]]
+## Subjective Effects
 
-**Norbaeocystin** (4-phosphoryloxytryptamine, 4-PO-T) is the demethylated precursor of baeocystin and is also found in psilocybin mushrooms, though typically at even lower concentrations. Its dephosphorylated metabolite would be 4-hydroxytryptamine (4-HT), which is not known to have significant psychoactive properties. Like baeocystin, norbaeocystin's pharmacological contribution to the overall effects of mushroom ingestion is considered minimal.
+### Human Experience
+Data on baeocystin's subjective effects in isolation is extremely limited because it is virtually never consumed alone — it always co-occurs with psilocybin and psilocin in mushroom tissue. Anecdotal reports from users who have consumed mushroom preparations with unusually high baeocystin:psilocybin ratios suggest:
 
-## Analytical Methods
+- **Visual effects:** Similar geometric patterns but reportedly less intense than psilocybin
+- **Cognitive effects:** Mindful, contemplative quality; "cleaner" mental state
+- **Emotional effects:** Mild euphoria with less anxiety than pure psilocybin
+- **Body effects:** Lighter sensation; less heavy body load
+- **Duration:** Potentially shorter experience
 
-Baeocystin is typically quantified using the same analytical methods employed for [[psilocybin]] and [[psilocin]]:
-- **HPLC with UV detection** at approximately 265 to 270 nm
-- **LC-MS/MS** for higher sensitivity and specificity
-- **GC-MS** following derivatization
+**Important caveat:** These reports are subjective, uncontrolled, and confounded by the simultaneous presence of psilocybin, psilocin, and other alkaloids. No controlled clinical trials of isolated baeocystin have been conducted.
 
-Co-elution or interference with other tryptamine compounds can complicate analysis, and chromatographic methods must be optimized to resolve baeocystin from psilocybin and other co-occurring alkaloids.
-## Quantitative Occurrence Data
+### The Entourage Hypothesis
+Baeocystin is often cited in the "entourage effect" hypothesis for psilocybin mushrooms — the proposal that the full spectrum of alkaloids (psilocybin, psilocin, baeocystin, norbaeocystin, aeruginascin) produces a qualitatively different experience than isolated psilocybin alone. Proponents argue:
 
-Published quantitative analyses of baeocystin concentrations across species provide the following representative ranges (expressed as percentage of dry weight):
-- *Psilocybe baeocystis*: up to 0.36% (the highest reported for any species, consistent with its status as the type species for the compound)
-- *Psilocybe cubensis*: 0.02–0.10% in wild collections, elevated to 0.10–0.50% in tryptamine-fed cultures
-- *Psilocybe semilanceata*: 0.02–0.17%, with significant inter-population variability
-- *Psilocybe azurescens*: 0.02–0.16%
-- *Panaeolus cyanescens*: 0.01–0.08%
-- *Inocybe aeruginascens*: trace to 0.05%
+- Different mushroom species with varying alkaloid ratios produce subtly different experiential profiles
+- Baeocystin may modulate the anxiety-provoking effects of psilocybin
+- The combination may produce smoother onset and comedown
+- Minor alkaloids may contribute to therapeutic outcomes in ways not captured by psilocybin-only studies
 
-The baeocystin-to-psilocybin ratio varies considerably: typically 1:3 to 1:10, but occasionally reaching 1:1 or higher in unusual specimens. Bigwood and Beug's landmark study of psilocybin variation in *P. cubensis* found that baeocystin levels, while consistently lower than psilocybin, did not correlate strongly with psilocybin concentration, suggesting that the two alkaloids may be regulated somewhat independently within the biosynthetic pathway.
-## Biosynthesis
+This hypothesis remains speculative without controlled comparative studies.
 
-The biosynthesis of baeocystin proceeds through the same tryptamine-derived pathway that produces [[psilocybin]], with baeocystin occupying an intermediate position. The pathway begins with the decarboxylation of L-tryptophan to form tryptamine, which then undergoes hydroxylation at the 4-position to produce 4-hydroxytryptamine (4-HT). Methylation by the enzyme PsiM (a methyltransferase) then adds a single methyl group to produce 4-hydroxy-N-methyltryptamine (norpsilocin), which is subsequently phosphorylated by the kinase PsiK to yield baeocystin (4-PO-NMT). A second methylation step converts baeocystin to psilocybin (4-PO-DMT). The pathway can also proceed via alternative routes involving phosphorylation before methylation. This intermediate position explains why baeocystin levels are typically lower than psilocybin — it represents a biosynthetic intermediate that is largely converted to the end product, with accumulation depending on the relative activities and kinetics of the methyltransferase and phosphorylation enzymes.
-## Synthesis and Research Chemistry
-
-Synthetic baeocystin has been prepared for research purposes, though it is not commercially available from major chemical suppliers. Synthetic routes typically follow the same general strategy used for psilocybin synthesis: construction of the 4-hydroxyindole core, introduction of the dimethylaminoethyl side chain, and phosphorylation of the 4-hydroxy group. The mono-methylated nature of baeocystin requires careful control of methylation conditions to avoid over-methylation to psilocybin. The lack of commercially available reference standards has historically been an obstacle to quantitative analysis, with researchers often relying on semi-quantitative methods or synthesizing their own standards. The increasing availability of certified reference materials from specialized suppliers has improved the reliability of quantitative baeocystin measurements in recent years.
-## Stability
-
-Baeocystin shares the general stability characteristics of phosphorylated tryptamine alkaloids. It is more stable than its dephosphorylated metabolite norpsilocin but less stable than [[psilocybin]] under some conditions. In dried mushroom tissue stored at room temperature, baeocystin degrades slowly over months to years, with degradation accelerated by exposure to heat, moisture, and light. In aqueous solution at neutral to alkaline pH, baeocystin undergoes progressive dephosphorylation to norpsilocin. Acidification of extracts (to approximately pH 3–4) and storage at −20°C are recommended for long-term preservation of analytical samples containing baeocystin.
-## Species-Specific Variation
-
-The ratio of baeocystin to psilocybin varies not only between species but also between populations of the same species, individual specimens within a population, and even between different parts of the same fruiting body (cap versus stem). This variability is influenced by genetic factors, substrate composition, environmental conditions during growth, and the developmental stage at harvest. [[jochen-gartz]] demonstrated that substrate supplementation with tryptamine could dramatically alter this ratio, increasing baeocystin concentrations by several-fold relative to unsupplemented controls. The ecological significance of this variability, if any, remains unknown — it is unclear whether baeocystin serves any biological function in the producing fungus or is merely a biosynthetic byproduct of psilocybin production.
 ## Legal Status
 
-Baeocystin is not specifically scheduled in most jurisdictions. However, its status as a naturally occurring component of psilocybin mushrooms means that it is effectively controlled wherever psilocybin mushrooms themselves are controlled. In jurisdictions that control psilocybin and [[psilocin]] by name but not baeocystin specifically, the legal status of isolated baeocystin is potentially ambiguous. As a practical matter, baeocystin is never encountered in isolation outside of laboratory settings, and its legal status is primarily of academic rather than practical interest.
+Controlled internationally under the UN Convention on Psychotropic Substances as a psilocybin analogue. Schedule I in the US (Federal Analogue Act), Class A in the UK, Schedule III in Canada. Legal within regulated therapeutic frameworks in Oregon and Colorado (as component of whole mushroom).
+
+## Analytical Detection
+
+- **LC-MS/MS:** Most reliable method; distinct molecular ion [M+H]⁺ at m/z 271.1
+- **HPLC-UV:** Detectable at 265–270 nm; co-elutes near psilocybin
+- **GC-MS:** Requires silylation derivatization due to phosphate ester lability
+- Used forensically to confirm species identification and distinguish cultivated from wild specimens
+
+## Research Status
+
+No controlled clinical trials of isolated baeocystin exist. Key knowledge gaps include: no human pharmacokinetic data, limited receptor binding profiles, and the entourage effect hypothesis remains untested. Emerging work focuses on synthetic routes for pure baeocystin/norpsilocin and chemotaxonomic marker applications.
+
 ## See Also
 
-- [[norbaeocystin]] — demethylated precursor of baeocystin
-- norpsilocin — dephosphorylated metabolite of baeocystin
-- [[psilocybin]] — the N,N-dimethyl analog and major mushroom alkaloid
-- [[psilocin]] — the dephosphorylated active metabolite of psilocybin
-- [[tryptamine]] — the biosynthetic precursor of all psilocybin-related alkaloids
-- [[dmt]] — the non-hydroxylated analog
-- [[jochen-gartz]] — researcher who demonstrated tryptamine feeding effects on baeocystin levels
-- [[bigwood]] and [[beug]] — researchers who documented inter-specimen variability in alkaloid levels
+- [[Psilocybin]] — primary psychoactive compound in psychedelic mushrooms
+- [[Psilocin]] — active dephosphorylated metabolite of psilocybin
+- [[Norbaeocystin]] — further demethylated analogue (4-PO-T)
+- [[Aeruginascin]] — another minor alkaloid found in Inocybe aeruginascens
+- [[Psilocybe cubensis]] — most commonly cultivated species containing baeocystin
+- [[4-AcO-DMT]] — synthetic psilocybin analogue used in research

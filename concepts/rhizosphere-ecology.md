@@ -120,6 +120,12 @@ Breeding programs are beginning to consider rhizosphere interactions as a
 selection criterion, aiming to develop cultivars that recruit beneficial
 microbial communities and suppress soil-borne pathogens through their natural
 rhizosphere effects.
-See also: [[cannabis-root-microbiome]], [[soil-health-and-management]],
-[[arbuscular-mycorrhizal-fungi]], [[plant-growth-promoting-rhizobacteria]],
-[[endophytes-in-cannabis]]
+The microbial loop dynamics described here are further explored in [[teaming-with-microbes-protozoa]], while [[teaming-with-microbes-decomposition-pathways]] covers the broader decomposition processes that complement rhizosphere nutrient cycling. For the role of nematodes in rhizosphere grazing, see [[teaming-with-microbes-nematodes]], and [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]] details how larger soil fauna interact with rhizosphere communities.
+
+See also: [[cannabis-root-microbiome]], [[arbuscular-mycorrhizal-fungi]],
+[[teaming-with-microbes-fungi]], [[teaming-with-microbes-bacteria]],
+[[teaming-with-microbes-fungi-and-mycorrhizal-relationships]],
+[[teaming-with-microbes-protozoa]],
+[[teaming-with-microbes-decomposition-pathways]],
+[[teaming-with-microbes-nematodes]],
+[[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]

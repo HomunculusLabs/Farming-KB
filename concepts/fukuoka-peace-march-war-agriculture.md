@@ -120,3 +120,11 @@ This connects to his [[fukuoka-road-do-nothing-farming]]: emptiness is not nothi
 - [[natural-farming-fukuoka]]
 
 - [[fukuoka-decentralized-self-sufficient-communities]]
+
+- [[fukuoka-specter-food-scarcity]]
+
+- [[fukuoka-sowing-desert-greening-worldwide-results]]
+
+- [[fukuoka-road-back-desert-reclamation]]
+
+- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]

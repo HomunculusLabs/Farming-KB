@@ -126,3 +126,6 @@ to close the documentation gap before it becomes an irremediable loss.
 - [[fungal-environmental-dna]]
 - [[cryptic-fungal-species]]
 - [[endophytic-fungi]]
+- [[fungal-species-concept]]
+- [[fungal-discovery-methods]]
+- [[fungi-in-the-environment-soil-fungal-community-structure]]

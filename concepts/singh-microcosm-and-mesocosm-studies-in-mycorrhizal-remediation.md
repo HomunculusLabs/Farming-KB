@@ -133,6 +133,9 @@ Successful field validation requires:
 
 - Adaptive management frameworks that allow protocol modification
 ## See Also
-- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-- [[arbuscular-mycorrhizal-fungal-diversity]] for community composition context
-- [[staycare-scale-up-challenges-in-fungal-bioremediation]]
+[[staycare-fungal-bioremediation-field-studies]]
+[[arbuscular-mycorrhizal-fungal-diversity]]
+[[staycare-scale-up-challenges-in-fungal-bioremediation]]
+[[staycare-bioavailability-pollutants-fungal-bioremediation]]
+[[arbuscular-mycorrhizal-fungi]]
+[[teaming-with-microbes-bacteria]]

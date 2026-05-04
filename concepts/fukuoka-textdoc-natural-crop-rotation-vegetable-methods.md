@@ -141,3 +141,6 @@ selection, but the results are remarkably productive.
 - [[fukuoka-clover-and-green-manure-cropping]]
 - [[fukuoka-three-dimensional-orchard-design]]
 - [[fukuoka-crop-rotation-and-natural-weeds]]
+- [[fukuoka-do-nothing-farming-philosophy]]
+- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
+- [[fukuoka-no-till-grain-production-method]]

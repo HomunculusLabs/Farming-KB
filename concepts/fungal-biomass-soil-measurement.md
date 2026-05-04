@@ -80,10 +80,12 @@ Accurate estimates of fungal biomass are needed for ecosystem models that predic
 The development of methods that can routinely quantify fungal biomass in soil, combined with advances in molecular methods for characterizing fungal community composition, is improving our ability to represent fungal processes in ecosystem models. These improvements are particularly important for predicting the response of ecosystems to environmental changes such as warming, elevated CO2, and nitrogen deposition.
 
 
+The relationship between fungal biomass and soil carbon storage is detailed in [[biochar-and-fungi]], while [[biochar]] covers broader biochar applications in soil systems. For the microbial community context surrounding fungal biomass, see [[teaming-with-microbes-bacteria]] and [[teaming-with-microbes-fungi]]. The decomposition processes that drive fungal biomass turnover are explored in [[teaming-with-microbes-decomposition-pathways]].
+
 ## See Also
 
-[[fungal-nutrient-immobilization-and-translocation]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
-- [[fungal-enzyme-activity-nutrient-availability]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[fungal-heavy-metal-uptake-and-translocation]]
+[[staycare-fungal-bioremediation-field-studies]]
+[[staycare-bioavailability-pollutants-fungal-bioremediation]]
+[[arbuscular-mycorrhizal-fungal-diversity]]
+[[teaming-with-microbes-fungi]]
+[[teaming-with-microbes-bacteria]]
