@@ -2,10 +2,11 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1268 pages**
+**1278 pages**
 
 ## #
 
+- [[1p-lsd]]
 - [[2-4-dma-entity-pihkal]]
 - [[2-5-dma-entity]]
 - [[2-5-dma-entity-pihkal]]
@@ -176,6 +177,7 @@
 - [[al-entity-pihkal]]
 - [[al-lad-entity-tihkal]]
 - [[albert-hofmann]]
+- [[ald-52]]
 - [[aldous-huxley]]
 - [[aleph-1-entity]]
 - [[aleph-2-entity]]
@@ -290,6 +292,7 @@
 - [[botrytis-cinerea]]
 - [[brassinosteroid]]
 - [[bri1]]
+- [[bruce-banner]]
 - [[brugmansia-aurea]]
 - [[brugmansia-sanguinea]]
 - [[brugmansia-suaveolens]]
@@ -330,6 +333,7 @@
 - [[chaetomium-globosum]]
 - [[chamaecytisus-palmensis]]
 - [[chemdawg]]
+- [[chenopodium-album]]
 - [[chestnut-entity]]
 - [[chinese-tallow-tree]]
 - [[cho-han-kyu]]
@@ -478,6 +482,7 @@
 - [[eric-toensmeier]]
 - [[erythroxylum-coca]]
 - [[escaline-entity]]
+- [[eschscholzia-californica]]
 - [[eth-lad-entity-tihkal]]
 - [[ethyl-j-entity-pihkal]]
 - [[ethyl-k-entity-pihkal]]
@@ -702,6 +707,7 @@
 - [[laccaria-laccata]]
 - [[laccase]]
 - [[lactarius-deliciosus]]
+- [[lactarius-indigo]]
 - [[lactarius-rufus]]
 - [[lactic-acid-bacteria]]
 - [[lactic-acid-bacteria-serum-labs]]
@@ -1139,6 +1145,7 @@
 ## R
 
 - [[ralph-metzner]]
+- [[rauwolfia-serpentina]]
 - [[rhizoctonia-solani]]
 - [[rhizopogon-vinicolor]]
 - [[rhizopus-arrhizus]]
@@ -1229,8 +1236,10 @@
 
 - [[ta-entity-pihkal]]
 - [[tabernanthe-iboga]]
+- [[tagetes-lucida]]
 - [[talaromyces-flavus]]
 - [[tamarillo]]
+- [[tangie-cannabis]]
 - [[taraxacum-officinale]]
 - [[tb-entity]]
 - [[tb-entity-pihkal]]
@@ -1351,4 +1360,5 @@
 ## Z
 
 - [[zero-emissions-research-and-initiatives]]
+- [[zingiber-officinale]]
 - [[zkittlez]]
