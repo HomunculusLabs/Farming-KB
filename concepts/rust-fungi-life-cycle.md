@@ -14,7 +14,7 @@ sources:
 
 # Rust Fungi Life Cycle
 
-Rust fungi are basidiomycete pathogens that cause devastating diseases in cereal crops and other plants. The life cycle of *Puccinia graminis*, the causal agent of **black stem rust of wheat**, is among the most complex of any known organism, involving two host plants, four distinct spore types, sperm-like cells, insect pollinators, and three acts of plant penetration. This byzantine cycle has been described as a "Faberge egg of a life cycle" that has been fashioned over 100 million years of co-evolution with grasses.
+Rust fungi are basidiomycete pathogens — see [[basidiospore-discharge-mechanism|basidiospore discharge mechanisms]] — that cause devastating diseases in cereal crops and other plants. The life cycle of *Puccinia graminis*, the causal agent of **black stem rust of wheat**, is among the most complex of any known organism, involving two host plants, four distinct spore types, sperm-like cells, insect pollinators, and three acts of plant penetration. This byzantine cycle has been described as a "Faberge egg of a life cycle" that has been fashioned over 100 million years of co-evolution with grasses.
 
 ## Overview: Two Hosts and Five Spore Stages
 
@@ -53,7 +53,7 @@ Toward the end of the growing season, black streaks containing teliospores devel
 
 ### Basidiospore Infection of Barberry
 
-Critically, **Buller's drop** forms at the base of each basidiospore before launch, proving that rusts are basidiomycete fungi. The basidiospores must land on a wet barberry leaf, where they germinate and penetrate directly through the cuticle, unlike on wheat where they require stomata. Barberry leaves are softer than grass leaves, making direct penetration feasible.
+Critically, **Buller's drop** forms at the base of each basidiospore before launch, proving that rusts are basidiomycete fungi — a phenomenon detailed in [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge|Buller's drop and surface-tension spore catapults]]. The basidiospores must land on a wet barberry leaf, where they germinate and penetrate directly through the cuticle, unlike on wheat where they require stomata. Barberry leaves are softer than grass leaves, making direct penetration feasible.
 
 ### Insect-Mediated Sexual Reproduction
 
@@ -80,8 +80,8 @@ Black stem rust causes more crop damage than any other single pathogen. Control 
 - **Barberry eradication**: Removing the alternate host retards the evolution of new rust races by eliminating sexual reproduction
 - **Genetic engineering**: Prospects for crops with built-in antifungal defenses
 
-The arms race between rusts and their host plants continues, with evolution favoring new rust races that overcome plant defenses, and breeders (natural and artificial) selecting for new resistant varieties.
+The arms race between rusts and their host plants continues, with evolution favoring new rust races that overcome plant defenses — a diversity explored in [[biodiversity-rust-fungi-urediniomycetes|rust fungi biodiversity and taxonomy]], and breeders (natural and artificial) selecting for new resistant varieties.
 
 ## Edited Life Cycles
 
-Not all rusts maintain the complete cycle. Coffee rust (*Hemileia vastatrix*) produces uredospores, teliospores, and basidiospores, but has lost the spermagonial and aecial stages. It has no alternate host and survives on coffee alone, making control particularly challenging since barberry eradication is not an option.
+Not all rusts maintain the complete cycle. Coffee rust (*Hemileia vastatrix*) produces uredospores, teliospores, and basidiospores, but has lost the spermagonial and aecial stages — see [[bloomfield-coffee-rust-and-crop-pathogens|coffee rust and crop pathogens]] for details on this economically devastating species. It has no alternate host and survives on coffee alone, making control particularly challenging since barberry eradication is not an option.

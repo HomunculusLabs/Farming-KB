@@ -14,7 +14,7 @@ sources:
 
 # Fungal Toxins as Insecticides
 
-The production of deadly toxins by mushrooms, particularly amatoxins in *Amanita* species, presents an evolutionary puzzle. If toxicity served as a defense against mammalian predators, one would expect the poison to act immediately, as bee stings and nettle toxins do. Instead, amatoxin symptoms appear hours or even days after consumption, long after the mushroom has been digested. A delayed-action toxin provides no selective advantage if the consumer has already destroyed the organism. This paradox has led mycologists to propose that the **real targets of fungal toxins are insect larvae**, not humans.
+The production of deadly toxins by mushrooms, particularly amatoxins in *Amanita* species, presents an evolutionary puzzle. These compounds belong to the broader class of [[bloomfield-fungal-secondary-metabolites|fungal secondary metabolites]] whose ecological functions remain debated. If toxicity served as a defense against mammalian predators, one would expect the poison to act immediately, as bee stings and nettle toxins do. Instead, amatoxin symptoms appear hours or even days after consumption, long after the mushroom has been digested. A delayed-action toxin provides no selective advantage if the consumer has already destroyed the organism. This paradox has led mycologists to propose that the **real targets of fungal toxins are insect larvae**, not humans.
 
 ## The Delayed-Action Paradox
 
@@ -46,7 +46,7 @@ The insecticide hypothesis does not explain all fungal toxins, and multiple evol
 
 ### Muscimol and Ibotenic Acid (Fly Agaric)
 
-The fly agaric (*Amanita muscaria*) produces muscimol and ibotenic acid, compounds that respectively excite and sedate the nervous system by binding to brain receptors. Their common name "fly agaric" suggests they may indeed serve their original intended purpose: killing or incapacitating insects. Lewis Carroll's *Alice in Wonderland* (1865) probably drew details of its disoriented world from contemporary accounts of fly agaric inebriation documented by the mycologist Mordecai Cubitt Cooke.
+The fly agaric (*Amanita muscaria*) produces muscimol and ibotenic acid, compounds that respectively excite and sedate the nervous system by binding to brain receptors. Their common name "fly agaric" suggests they may indeed serve their original intended purpose: killing or incapacitating insects — a function they share with [[topics/entomopathogenic-fungi-and-biological-pest-control|entomopathogenic fungi]] that have evolved specifically for this role. Lewis Carroll's *Alice in Wonderland* (1865) probably drew details of its disoriented world from contemporary accounts of fly agaric inebriation documented by the mycologist Mordecai Cubitt Cooke.
 
 ### Coprine (Alcohol-Antabuse Toxin)
 
@@ -54,7 +54,7 @@ The fly agaric (*Amanita muscaria*) produces muscimol and ibotenic acid, compoun
 
 ### Aflatoxins
 
-Aflatoxins, produced by *Aspergillus flavus* and *A. parasiticus* growing on crops, are among the most potent naturally occurring mutagens and carcinogens. Found in corn, peanuts, peanut butter, milk, eggs, and meat, these mycotoxins react with DNA to cause genetic damage. The 1960 "turkey X-disease" episode, in which 100,000 turkeys died from aflatoxin-contaminated peanut meal, brought these compounds to scientific attention. Like mushroom toxins, aflatoxins probably evolved to eliminate competing microorganisms in the immediate vicinity of growing hyphae rather than to poison vertebrates.
+Aflatoxins, produced by *Aspergillus flavus* and *A. parasiticus* growing on crops — a topic covered in depth in [[aflatoxins-mycotoxins-food|aflatoxins and mycotoxins in food]] — are among the most potent naturally occurring mutagens and carcinogens. Found in corn, peanuts, peanut butter, milk, eggs, and meat, these mycotoxins react with DNA to cause genetic damage. The 1960 "turkey X-disease" episode, in which 100,000 turkeys died from aflatoxin-contaminated peanut meal, brought these compounds to scientific attention. Like mushroom toxins, aflatoxins probably evolved to eliminate competing microorganisms in the immediate vicinity of growing hyphae rather than to poison vertebrates.
 
 ### Trichothecenes
 
@@ -64,4 +64,4 @@ The black mold *Stachybotrys chartarum* produces macrocyclic trichothecenes, myc
 
 The insecticide hypothesis reflects a broader principle in chemical ecology: most secondary metabolites produced by fungi likely evolved for ecological interactions within the fungal community or with their most intimate associates (insects, nematodes, bacteria), not for their effects on large vertebrate animals. Humans are collateral damage in chemical wars fought at the microscopic scale.
 
-This perspective also has practical implications. Understanding the true ecological function of fungal toxins could guide the development of new insecticides, inform risk assessment of mycotoxin exposure, and explain why some fungi produce compounds with potent pharmaceutical activities (antibiotics, immunosuppressants) that have nothing to do with their apparent function in nature.
+This perspective also has practical implications. Understanding the true ecological function of fungal toxins could guide the development of new insecticides — see [[topics/entomopathogenic-fungi-and-biological-pest-control|entomopathogenic fungi and biological pest control]] — inform risk assessment of mycotoxin exposure, and explain why some fungi produce compounds with potent pharmaceutical activities (antibiotics, immunosuppressants) that have nothing to do with their apparent function in nature.

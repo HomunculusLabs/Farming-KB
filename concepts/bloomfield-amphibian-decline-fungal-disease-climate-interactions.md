@@ -36,7 +36,7 @@ The UV radiation hypothesis was particularly compelling because amphibian eggs m
 
 ## Batrachochytrium dendrobatidis: The Chytrid Frog Killer
 
-In 1998, a multinational research team published a landmark paper in the Proceedings of the National Academy of Sciences describing a chytrid fungus parasitizing the skin of sickened frogs. The pathogen was found to produce spore-bearing capsules (sporangia) buried within the keratinized skin layers of affected amphibians.
+In 1998, a multinational research team published a landmark paper in the Proceedings of the National Academy of Sciences describing a chytrid fungus — see [[bloomfield-chytrid-fungi-early-fungal-evolution|chytrid fungi and early fungal evolution]] — parasitizing the skin of sickened frogs. The pathogen was found to produce spore-bearing capsules (sporangia) buried within the keratinized skin layers of affected amphibians.
 
 ### Disease Mechanism
 
@@ -50,7 +50,7 @@ The authors of the 1998 paper indicted the chytrid as the primary cause of amphi
 
 ## Saprolegnia ferax: The Toad Egg Pathogen
 
-Four years after the chytrid discovery, a separate research team published a study in Nature that revealed a different fungal threat to amphibians. The oomycete water mold **Saprolegnia ferax** was found to be causing lethal infections of western toad eggs (Bufo boreas) in the Pacific Northwest of North America.
+Four years after the chytrid discovery, a separate research team published a study in Nature that revealed a different fungal threat to amphibians. The oomycete water mold **Saprolegnia ferax** was found to be causing lethal infections of western toad eggs (*Bufo boreas*) in the Pacific Northwest of North America. The biology of this water mold is covered in [[bloomfield-saprolegnia-water-mold-zoospore-discharge|Saprolegnia and zoospore discharge]].
 
 ### The Climate-Disease Chain
 
@@ -64,7 +64,7 @@ The Nature study was significant not only for identifying the pathogen but for e
 
 ### Saprolegnia as Classic Opportunist
 
-Saprolegnia ferax is not a specialized amphibian pathogen. It is a generalist water mold that normally feeds on dead insects and other organic debris in freshwater habitats. Its attack on amphibian eggs represents opportunistic behavior: the fungus exploits a temporarily vulnerable substrate that it would not normally be able to colonize. Under normal pond conditions — deeper water providing UV protection — the eggs' antimicrobial defenses are sufficient to prevent colonization.
+Saprolegnia ferax is not a specialized amphibian pathogen. It is a generalist water mold that normally feeds on dead insects and other organic debris in freshwater habitats — one of many [[bloomfield-fungal-pathogens-and-parasites|fungal pathogens and parasites]] that can switch between saprotrophic and parasitic lifestyles. Its attack on amphibian eggs represents opportunistic behavior: the fungus exploits a temporarily vulnerable substrate that it would not normally be able to colonize. Under normal pond conditions — deeper water providing UV protection — the eggs' antimicrobial defenses are sufficient to prevent colonization.
 
 ## The Complexity of Climate-Disease Interactions
 
@@ -115,4 +115,4 @@ The amphibian decline story carries several important lessons for conservation b
 
 Following its formal description in 1998, Batrachochytrium dendrobatidis was recognized as the causative agent of **chytridiomycosis**, a disease that has since been implicated in the decline or extinction of hundreds of amphibian species worldwide. The pathogen has been found on every continent where amphibians occur and is considered one of the most destructive wildlife diseases ever recorded. Its spread has been facilitated by the international trade in amphibians — frogs transported for the pet trade, laboratory research, and human food have carried the pathogen to regions where native amphibian populations had no evolutionary exposure and therefore no resistance.
 
-The story of amphibian decline illustrates a broader principle in disease ecology: emerging infectious diseases rarely result from a single cause. The chytrid fungus and Saprolegnia water mold are genuine pathogens, but their impact is amplified by environmental changes that stress host populations and compromise their immune defenses. Conservation efforts must therefore address both the proximate cause (the pathogen itself) and the ultimate causes (climate change, habitat degradation, and other environmental stressors) that create conditions favorable for disease emergence.
+The story of amphibian decline illustrates a broader principle in disease ecology: emerging infectious diseases rarely result from a single cause. The chytrid fungus and Saprolegnia water mold are genuine pathogens, but their impact is amplified by environmental changes that stress host populations and compromise their immune defenses. Conservation efforts must therefore address both the proximate cause (the pathogen itself) and the ultimate causes (climate change, habitat degradation, and other environmental stressors) that create conditions favorable for disease emergence — challenges explored in [[topics/fungal-biodiversity-assessment-and-conservation|fungal biodiversity and conservation]].

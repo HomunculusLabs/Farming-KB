@@ -19,7 +19,7 @@ sources:
 
 # Fungal Allergens, Indoor Mold, and Respiratory Health
 
-Human exposure to fungal spores is constant, inescapable, and largely invisible. Every breath drawn from infancy to old age contains fungal spores and fragments of fungal cell walls. For most people, this perpetual inhalation is benign. For asthmatics, immunocompromised individuals, and the unfortunate few who inhale massive spore doses, the consequences range from chronic irritation to acute respiratory failure. The intersection of modern building practices, energy conservation, and fungal biology has created a public health concern that extends well beyond the well-publicized cases of toxic black mold.
+Human exposure to fungal spores is constant, inescapable, and largely invisible. Every breath drawn from infancy to old age contains [[ballistospore-discharge|fungal spores]] and fragments of fungal cell walls. For most people, this perpetual inhalation is benign. For asthmatics, immunocompromised individuals, and the unfortunate few who inhale massive spore doses, the consequences range from chronic irritation to acute respiratory failure. The intersection of modern building practices, energy conservation, and fungal biology has created a public health concern that extends well beyond the well-publicized cases of toxic black mold.
 
 ## The Mold Index and Airborne Spore Concentrations
 
@@ -71,7 +71,7 @@ The spores of indoor fungi present a serious threat to asthmatics. Fungal spores
 - Exacerbation of asthma symptoms including wheezing and bronchoconstriction
 - Hypersensitivity pneumonitis in severe cases
 
-The allergenic potency of spores varies among fungal species. Species commonly found in indoor environments — including Cladosporium, Penicillium, Aspergillus, and Alternaria — are all recognized as significant allergen sources. Their spores are small enough to penetrate deep into the respiratory tract, reaching the bronchioles and even the alveoli.
+The allergenic potency of spores varies among fungal species. Species commonly found in indoor environments — including Cladosporium, Penicillium, [[bloomfield-aspergillus-biology-and-aflatoxins|Aspergillus]], and Alternaria — are all recognized as significant allergen sources. Their spores are small enough to penetrate deep into the respiratory tract, reaching the bronchioles and even the alveoli.
 
 ## Lycoperdonosis: Puffball Spore Inhalation
 
@@ -101,7 +101,7 @@ Intentional inhalation of puffball spores is not exclusively a recreational mist
 
 ## The Black Mold Panic
 
-The discovery that Stachybotrys chartarum could produce dangerous trichothecene mycotoxins triggered widespread public alarm about indoor mold. While the health risks of toxin-producing strains are genuine, the panic is often disproportionate to the actual threat:
+The discovery that *Stachybotrys chartarum* could produce dangerous trichothecene mycotoxins — compounds related to the [[bloomfield-fungal-secondary-metabolites|fungal secondary metabolites]] that shape ecological interactions across kingdoms triggered widespread public alarm about indoor mold. While the health risks of toxin-producing strains are genuine, the panic is often disproportionate to the actual threat:
 
 - Stachybotrys is not the only black mold found in homes
 - Species of Cladosporium, Penicillium, Aspergillus, and Alternaria with melanin-impregnated cell walls are far more prevalent in water-damaged buildings
@@ -122,4 +122,4 @@ While the black mold panic is often exaggerated, genuine mold problems should no
 - **Targeted remediation**: Isolated patches of mold can be treated with diluted bleach solutions. Large infestations may require professional remediation.
 - **Source identification**: Mold growth always indicates a moisture problem. Simply removing visible mold without addressing the underlying water source guarantees regrowth.
 - **Ventilation improvement**: In well-insulated homes, mechanical ventilation systems that exchange stale indoor air for fresh outdoor air can dramatically reduce humidity and spore concentrations.
-- **Realistic risk assessment**: The presence of mold does not automatically signify a health emergency. Context matters — the species involved, the extent of colonization, and the sensitivity of the occupants all influence the actual risk level.
+- **Realistic risk assessment**: The presence of mold does not automatically signify a health emergency. See [[topics/mushroom-foraging-safety-and-toxicology|mushroom foraging safety]] for broader context on fungal exposure risks. Context matters — the species involved, the extent of colonization, and the sensitivity of the occupants all influence the actual risk level.

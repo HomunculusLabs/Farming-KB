@@ -40,7 +40,7 @@ The process by which forest soil maintains and increases its fertility without e
 Rock outcroppings on the earth are battered by the elements — wind, rain, temperature fluctuations — first into boulders and stones, then into sand and earth. This geological process has been operating for millions of years and continues unabated.
 
 ### Organic Accumulation
-As trees grow and shed leaves, a layer of humus forms and deepens with each passing year. Microorganisms multiply in the soil, turning it rich and black. The soil aggregates and softens, increasing its water retention capacity.
+As trees grow and shed leaves, a layer of humus forms and deepens with each passing year — the foundation of [[topics/humus-and-soil-organic-matter|soil organic matter]] that sustains all terrestrial life. Microorganisms multiply in the soil, turning it rich and black. The soil aggregates and softens, increasing its water retention capacity — a process central to [[topics/the-soil-food-web|soil food web]] dynamics.
 
 ### Microbial Proliferation
 One gram of ordinary topsoil contains approximately one hundred million bacteria, yeasts, molds, diatoms, and other microbes. These are not random inhabitants — each exists for a purpose, "struggling, cooperating, and carrying on the cycles of nature."
@@ -113,7 +113,7 @@ In natural systems, the slow release of minerals from rock weathering, combined 
 
 The key mechanism that allows forests to maintain fertility without external inputs is the humus cycle. As plants shed leaves and branches, as grasses die back in winter, as organisms excrete waste and eventually die, organic matter accumulates on the soil surface. Soil microorganisms decompose this material, releasing nutrients in forms that living plants can absorb. The cycle is continuous and self-sustaining.
 
-Fukuoka emphasizes that in living soil, "microorganisms do not exist without reason. Each lives for a purpose, struggling, cooperating, and carrying on the cycles of nature." The soil is not a passive substrate for plant growth but an active biological community whose health determines the health of everything that grows in it.
+Fukuoka emphasizes that in living soil, "microorganisms do not exist without reason." This principle — that the [[topics/no-till-farming-and-conservation-agriculture|no-till farming]] approach preserves rather than destroys — is central to his philosophy. Each microorganism "lives for a purpose, struggling, cooperating, and carrying on the cycles of nature." The soil is not a passive substrate for plant growth but an active biological community whose health determines the health of everything that grows in it.
 
 This is why no-fertilizer natural farming requires healthy soil as a precondition. Fields that have been degraded by years of chemical agriculture cannot immediately switch to no-input methods and expect good results. A transition period is needed during which the biological community is restored through green manure crops, straw mulching, and the cessation of practices that harm soil life.
 
@@ -121,4 +121,4 @@ This is why no-fertilizer natural farming requires healthy soil as a preconditio
 
 The mountain forest demonstrates that sustained high productivity is entirely compatible with zero external inputs — provided the biological systems that build and maintain soil fertility are allowed to function. The challenge for agriculture is not to find better fertilizers but to stop destroying the natural fertility systems that already exist.
 
-This insight forms the foundation of Fukuoka's no-fertilizer principle: rather than asking "what fertilizer should I apply?", the farmer should ask "what am I doing that prevents the soil from feeding the plants itself?"
+This insight forms the foundation of Fukuoka's no-fertilizer principle — a philosophy explored in [[topics/fukuoka-natural-farming-philosophy|Fukuoka's natural farming philosophy]] and contrasted with other approaches in [[comparisons/comparison-fukuoka-vs-holzer|Fukuoka vs. Holzer]]: rather than asking "what fertilizer should I apply?", the farmer should ask "what am I doing that prevents the soil from feeding the plants itself?"
