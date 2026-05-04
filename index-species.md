@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1247 pages**
+**1252 pages**
 
 ## #
 
@@ -327,6 +327,7 @@
 - [[ceratonia-siliqua]]
 - [[chaetomium-globosum]]
 - [[chamaecytisus-palmensis]]
+- [[chemdawg]]
 - [[chestnut-entity]]
 - [[chinese-tallow-tree]]
 - [[cho-han-kyu]]
@@ -464,6 +465,7 @@
 - [[eme-entity-pihkal]]
 - [[emile-clapeyron]]
 - [[emm-entity-pihkal]]
+- [[entoloma-hochstetteri]]
 - [[ephedra-sinica]]
 - [[epibrassinolide]]
 - [[epichloe-typhina]]
@@ -575,6 +577,7 @@
 - [[gymnopilus-validipes]]
 - [[gymnopilus-ventricosus]]
 - [[gymnopilus-viridans]]
+- [[gyromitra-esculenta]]
 - [[gyromitrin]]
 
 ## H
@@ -963,6 +966,7 @@
 - [[pineapple-express-entity]]
 - [[pinene]]
 - [[piper-methysticum]]
+- [[piperine]]
 - [[piptoporus-betulinus]]
 - [[piriformospora-indica]]
 - [[pisolithus-arhizus]]
@@ -1158,6 +1162,7 @@
 - [[sajeev-john]]
 - [[salix-alba]]
 - [[salvia-divinorum]]
+- [[salvia-officinalis]]
 - [[salvinorin-a]]
 - [[sambucus-nigra]]
 - [[sandoz-pharmaceuticals]]
