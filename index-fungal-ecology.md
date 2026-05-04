@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2265 pages**
+**2270 pages**
 
 ## #
 
@@ -1222,6 +1222,7 @@
 - [[growing-legumes-organically]]
 - [[guttation-root-pressure-and-maple-sap-physiology]]
 - [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]
+- [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
 - [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
 - [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
@@ -1229,11 +1230,15 @@
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
 - [[guzman-allen-gartz-neurotropic-fungi-africa]]
+- [[guzman-allen-gartz-neurotropic-fungi-asia]]
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
+- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
 - [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 - [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-neurotropic-fungi-europe]]
 - [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
+- [[guzman-allen-gartz-neurotropic-inocybe-species]]
 - [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]]
 - [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]

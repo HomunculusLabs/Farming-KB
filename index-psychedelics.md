@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1063 pages**
+**1068 pages**
 
 ## #
 
@@ -549,6 +549,7 @@
 - [[mariri-phantom-sorcery]]
 - [[maya-entheogens]]
 - [[mckenna-abandonment-of-the-mystery]]
+- [[mckenna-acquired-tastes-chemical-addiction-syndrome]]
 - [[mckenna-agriculture-and-the-fall-from-paradise]]
 - [[mckenna-alcohol-alchemy-spirit]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
@@ -577,6 +578,7 @@
 - [[mckenna-dmt-experience-and-overmind]]
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-drug-war-and-human-freedom]]
+- [[mckenna-ecstasy-as-social-catalyst]]
 - [[mckenna-eleusinian-mysteries]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-fall-of-partnership-society]]
@@ -604,6 +606,7 @@
 - [[mckenna-four-families-of-indole-hallucinogens]]
 - [[mckenna-four-stages-abandoning-mystery]]
 - [[mckenna-genesis-first-drug-bust]]
+- [[mckenna-habit-creode-waddington-cultural-evolution]]
 - [[mckenna-hashish-scythians-and-classical-cannabis]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-human-cognition-and-the-stoned-age]]
@@ -618,6 +621,7 @@
 - [[mckenna-maya-tobacco-shamanism-enemas]]
 - [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-monotheism-and-pathological-religion]]
+- [[mckenna-neanderthal-skull-vibration-language-evolution]]
 - [[mckenna-nostalgia-for-paradise]]
 - [[mckenna-octopus-intelligence-and-archaic-mind]]
 - [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
@@ -630,6 +634,7 @@
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-psychedelic-shamanism]]
+- [[mckenna-roland-fischer-psilocybin-visual-acuity]]
 - [[mckenna-shamanic-meme]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
 - [[mckenna-sugar-coffee-tea-chocolate]]

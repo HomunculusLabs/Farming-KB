@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1289 pages**
+**1294 pages**
 
 ## #
 
@@ -263,6 +263,7 @@
 - [[beauveria-bassiana]]
 - [[ben-lemon]]
 - [[benjamin-duggar]]
+- [[berberis-vulgaris]]
 - [[beta-d-entity]]
 - [[beta-d-entity-pihkal]]
 - [[beta-glucans]]
@@ -733,6 +734,7 @@
 - [[leonurus-sibiricus]]
 - [[lepiota-procera]]
 - [[lepiota-rachodes]]
+- [[lepista-nuda]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[lespedeza-bicolor]]
 - [[leucaena-entity]]
@@ -766,6 +768,7 @@
 ## M
 
 - [[m-entity-pihkal]]
+- [[mac-cannabis]]
 - [[macadamia-entity]]
 - [[madam-6-entity]]
 - [[madam-6-entity-pihkal]]
@@ -804,6 +807,7 @@
 - [[mdea-entity]]
 - [[mdhoet-entity-pihkal]]
 - [[mdip-entity-pihkal]]
+- [[mdma]]
 - [[mdma-entity]]
 - [[mdmc-entity-pihkal]]
 - [[mdmeo-entity-pihkal]]
@@ -1262,6 +1266,7 @@
 - [[tetrahydroharmine-entity-tihkal]]
 - [[tetrapteris-methystica]]
 - [[thelephora-terrestris]]
+- [[three-sisters]]
 - [[timothy-leary]]
 - [[tinospora-cordifolia]]
 - [[tipuana-tipu]]
