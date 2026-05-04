@@ -1,100 +1,147 @@
 ---
-title: "Pleurotus eryngii"
-tags: [species, fungi, basidiomycete, edible, cultivation]
-date: 2026-04-25
-updated: 2026-04-25
-sources: [unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
+title: "King Oyster Mushroom"
+type: species
+tags:
+  - fungi
+  - edible-mushroom
+  - medicinal-mushroom
+  - pleurotus
+  - cultivation
+  - mycology
+  - culinary
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3470863/
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6275782/
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4438473/
+  - https://pubmed.ncbi.nlm.nih.gov/22583231/
+  - https://pubmed.ncbi.nlm.nih.gov/11354661/
 ---
 
-# Pleurotus eryngii
+# King Oyster Mushroom
 
-**Type:** Species
-**Category:** Basidiomycete
-**Also known as:** King Oyster, Boletus of the Steppes
+> *Pleurotus eryngii* (DC.) Quél. — largest species in *Pleurotus*, prized for its meaty texture and robust umami flavor.
 
 ## Overview
+| Attribute | Detail |
+|---|---|
+| **Common names** | King Oyster, Eryngii, Trumpet Mushroom, King Trumpet, Xing Bao Gu (杏鲍菇) |
+| **Economic importance** | Third most cultivated oyster mushroom worldwide; major crop in China, Japan, South Korea, Italy |
+| **Global production** | >500,000 tonnes/year (combined *Pleurotus* spp.; *P. eryngii* is a significant share) |
+| **Key differentiator** | Thick, meaty stipe accounts for most harvestable weight; superior shelf life vs. other *Pleurotus* spp. |
 
-Pleurotus eryngii, known as the King Oyster mushroom, is widely regarded
-as the finest tasting member of the Oyster mushroom genus. Native to
-southern Europe, North Africa, and central Asia, it is a facultative
-parasite on Eryngium campestre (wild carrot). Its thick, meaty stem and
-rich, nutty flavor have earned it the highest culinary accolades among
-Oyster species, with exceptional shelf life for commercial distribution.
+## Taxonomy
+| Rank | Classification |
+|---|---|
+| **Kingdom** | Fungi | **Division** | Basidiomycota |
+| **Class** | Agaricomycetes | **Order** | Agaricales |
+| **Family** | Pleurotaceae | **Genus** | *Pleurotus* |
+| **Species** | *P. eryngii* (DC.) Quél., 1872 (basionym: *Agaricus eryngii* DC., 1815) |
+| **Varieties** | var. *eryngii*, var. *ferulae*, var. *tubicola*, var. *elaeoselini* |
 
-## Key Details
+- **Etymology**: Named after *Eryngium* (sea holly), host plant of the type specimen; varietal forms adapted to different *Apiaceae* across the Mediterranean
 
-### Taxonomy and Classification
+## Description
+- **Cap**: 5–15 cm diameter; convex to plane; white to buff; smooth, dry
+- **Stipe**: 4–10 cm × 2–5 cm; thick, solid, fleshy; white; dominant marketable portion
+- **Gills**: Decurrent; white, crowded; pallid with age
+- **Flesh**: White, firm, dense; no color change on cutting
+- **Spores**: Cylindrical to ellipsoid, 8–14 × 4–6 µm; print white to pale lilac
+- **Odor/Taste**: Mild, pleasant, distinctly umami; no acrid taste
 
-Kingdom: Fungi
-Division: Basidiomycota
-Class: [[agar]]icomycetes
-Order: Agaricales
-Family: Pleurotaceae
-Genus: Pleurotus
+| Feature | *P. eryngii* | *P. ostreatus* | *P. pulmonarius* |
+|---|---|---|---|
+| Stipe | Very thick, meaty | Thin | Thin |
+| Size | Largest in genus | Medium | Smaller |
+| Host | *Apiaceae*, lignocellulose | Broadleaf hardwoods | Broadleaf hardwoods |
 
-Called "Boletus of the Steppes" by Zadrazil and Vasilkov. Ecotypes are
-specific to particular environmental niches (Bresinsky et al. 1987).
+## Phytochemistry
+| Compound Class | Specific Compounds | Concentration / Notes |
+|---|---|---|
+| **Statins (Lovastatin)** | Mevinolin | 0.5–3.0 mg/g DW; HMG-CoA reductase inhibitor |
+| **β-Glucans** | (1→3), (1→6)-β-D-glucan | 15–30% of dry cell wall polysaccharides |
+| **Ergothioneine** | L-ergothioneine | 1.5–3.0 mg/g DW; potent antioxidant amino acid |
+| **Phenolics** | Gallic acid, protocatechuic acid, catechin | 2–8 mg GAE/g DW |
+| **Ergosterol** | Provitamin D₂ | 3–7 mg/g DW; converts to vitamin D₂ on UV |
+| **Nucleotides** | 5'-GMP, 5'-IMP | Umami flavor enhancers |
 
-### Description
+- **Lovastatin mechanism**: Competitive HMG-CoA reductase inhibition → reduced hepatic cholesterol synthesis
+- **Substrate effect**: Wheat straw supplementation can increase lovastatin content 2–3×
 
-Cap measures 3 to 12 cm, convex and expanding with age, with an
-inrolled margin. The stem is 3 to 10 cm long, central, thick, and
-tapering. Gills are distant, thin, grayish, and decurrent. Spores are
-white, ellipsoid, 10 to 14 x 4 to 5 micrometers. Clamp connections are
-present and the context is monomitic.
+## Nutritional Profile
 
-### Distribution and Habitat
+*(Per 100 g fresh weight)*
 
-Distributed across southern Europe, North Africa, central Asia, and the
-southern Soviet Union. In nature, it grows terrestrially on buried roots
-of hardwoods and as a facultative parasite on Eryngium campestre, a
-member of the carrot family. Wild specimens are sold commercially in
-Spain, Morocco, and throughout southern Europe.
+| Nutrient | Amount | Nutrient | Amount |
+|---|---|---|---|
+| Energy | 30–35 kcal | Potassium | 300–450 mg |
+| Protein | 2.5–3.5 g | Phosphorus | 80–120 mg |
+| Carbohydrate | 4.5–6.0 g | Iron | 0.4–0.7 mg |
+| Fiber | 1.5–2.5 g | Vitamin B₂ | 0.3–0.5 mg (20–30% DV) |
+| Fat | 0.3–0.5 g | Vitamin B₃ | 3.0–5.0 mg (15–25% DV) |
+| Sodium | <10 mg | Vitamin D₂ | 0.1–2.0 µg (UV-enhanced up to 10 µg) |
 
-### Cultivation
+- Low calorie, high protein-to-carb ratio; rich in B vitamins and potassium
 
-Grows well on hardwoods, wheat straw, and cottonseed hulls. Best results
-are achieved on sterilized sawdust, though it is less productive on
-straw than [[pleurotus-ostreatus]]. Adding 5 to 10% cottonseed meal
-enhances yields. Combination spawning uses 100 pounds grain plus 100
-pounds sawdust per ton of wheat straw.
+## Culinary Uses
+- **Texture**: Dense, firm, meaty — holds shape under grilling, braising, sautéing, deep-frying
+- **Flavor**: Rich umami; sweeter and less peppery than *P. ostreatus*
+- **Preparations**: Sliced/seared (scallop-like), thick-cut grilled (steak alternative), shredded (pulled-meat substitute), stir-fried, braised, hot pot
+- **Shelf life**: 14–21 days at 2–4 °C (superior to other *Pleurotus* spp.)
+- **Cuisines**: Staple in Chinese, Japanese, Korean cooking; increasingly featured in Western fine dining as plant-based protein
 
-Growth parameters:
-- Spawn: 75 degrees F, 90 to 95% RH, 12 to 16 days
-- Primordia: 50 to 60 degrees F, 95 to 100% RH, 4 to 5 days
-- Fruitbody: 60 to 70 degrees F, 85 to 90% RH, 4 to 8 days
+## Cultivation
+| Parameter | Optimal Range |
+|---|---|
+| **Substrate** | Wheat straw, sawdust (oak/beech), cotton seed hulls + bran (5–20%) |
+| **Moisture / pH** | 60–65% / 5.5–6.5 (initial), ~4.5 at fruiting |
+| **Spawn run temp.** | 22–28 °C |
+| **Fruiting temp.** | 12–18 °C; cold shock 8–10 °C × 48–72 h induces primordia |
+| **Humidity / CO₂** | 85–95% RH / 600–3000 ppm (elevated CO₂ → longer stipe) |
+| **Light** | 200–500 lux, 8–12 h/day |
+| **Cycle** | 30–45 d spawn run + 10–15 d to harvest |
+| **Biological efficiency** | 60–120% (BE = fresh wt / dry substrate × 100) |
+| **Flushes** | 2–3 (first flush: 60–70% of total) |
+| **Difficulty** | Moderate — requires controlled temp; tolerates CO₂; more forgiving than shiitake |
 
-Total cycle is approximately 45 days, yielding 2 crops about 14 days
-apart. Yield averages 1 pound per 5 pounds of substrate. Harvest before
-the cap margin flattens for best quality. Ships well with extended shelf
-life compared to other Oyster species.
+- **Stipe enhancement**: Elevated CO₂ (1500–3000 ppm) during early fruiting produces premium "king" morphology
+- **Pasteurization**: 60–70 °C × 8–12 h; sterilization (121 °C) for bag cultivation
+- **Major producers**: China (>90% of global supply), South Korea, Japan, USA, Spain
 
-### Culinary and Nutritional
+## Medicinal Properties
 
-Considered the best tasting Oyster mushroom by mycological and culinary
-authorities. When stir-fried until crispy and golden brown, it develops
-a chewy, nutty texture that pairs exceptionally well with Italian dishes,
-lamb, pork, and fish. It received the highest accolades at the European
-culinary tour conducted by Lincoff in 1990, rated far superior to both
-P. ostreatus and P. pulmonarius.
+| Property | Evidence | Mechanisms |
+|---|---|---|
+| **Cholesterol-lowering** | Moderate (animal + human) | Lovastatin inhibits HMG-CoA reductase; β-glucans ↑ bile acid excretion |
+| **Anti-inflammatory** | Moderate (in vitro + animal) | NF-κB inhibition; ↓TNF-α, ↓IL-6, ↓COX-2 |
+| **Antioxidant** | Strong (in vitro + animal) | Ergothioneine scavenges ROS; ↑SOD, ↑CAT, ↑GPx |
+| **Immunomodulatory** | Moderate (in vitro + animal) | β-glucan activates macrophages/NK cells via Dectin-1/CR3 |
+| **Antihypertensive** | Preliminary (animal) | ACE-inhibitory peptides in hydrolysates |
+| **Antimicrobial** | Preliminary (in vitro) | Extracts active against *S. aureus*, *E. coli*, *C. albicans* |
 
-### Medicinal Properties
+- **Cholesterol**: 10–20 g dried powder/day reduced serum LDL by 10–15% in hyperlipidemic animal models (4–8 wk)
+- **Anti-inflammatory**: Ethanolic extracts reduced carrageenan paw edema 30–40% in mice (200 mg/kg)
+- **Antioxidant**: DPPH/ABTS IC₅₀ of 1.5–3.0 mg/mL; ergothioneine ~40% of total antioxidant capacity
+- **Immunomodulation**: β-glucan ↑ macrophage phagocytic index 50–70% at 100 µg/mL in vitro
 
-While specific medicinal compounds are not detailed in the source
-material, Oyster mushrooms in general are recognized for
-cholesterol-lowering properties and immune system support. The King
-Oyster's robust nutritional profile makes it a valuable functional food.
+## Ecological Role
 
-## Relevance
+- **Mode**: Facultative saprotroph / weak parasite; white-rot fungus producing laccase and Mn-peroxidase
+- **Host plants**: *Eryngium campestre*, *Ferula communis*, *Thapsia garganica*, *Cachrys ferulacea* (*Apiaceae*)
+- **Bioremediation**: Capable of degrading PAHs and xenobiotics in contaminated soils
+- **Range**: Mediterranean basin, Middle East, Central Asia, North Africa; fruits spring and autumn
 
-King Oyster represents the premium tier of cultivated Oyster mushrooms.
-Its combination of excellent flavor, meaty texture, long shelf life, and
-relatively straightforward cultivation on [[agricultural-waste-substrates]]
-makes it highly attractive for commercial growers. The species
-demonstrates how targeted substrate supplementation (cottonseed meal) can
-significantly improve yields in gourmet mushroom production.
+## Safety
+
+- **Edibility**: Widely consumed; no known toxicity; GRAS status
+- **Allergy**: Rare respiratory allergy in farm workers (spore inhalation); contact dermatitis uncommon
+- **Drug interactions**: Lovastatin may have additive effects with prescription statins — consult healthcare provider
+- **Foraging**: Not commonly confused with toxic species; always verify identification
+- **Storage**: 2–4 °C in paper bag; avoid sealed plastic (anaerobic spoilage)
+- **Preparation**: Must be cooked; raw consumption may cause mild GI discomfort
 
 ## See Also
-- [[pleurotus-djamor]]
-- [[stropharia-rugoso-annulata]]
-- [[pholiota-nameko]]
+
+- [[pleurotus-ostreatus]] — Pearl Oyster · [[pleurotus-citrinopileatus]] — Golden Oyster · [[lentinula-edodes]] — Shiitake · [[agaricus-bisporus]] — Button Mushroom · [[ganoderma-lucidum]] — Reishi
+- [[beta-glucans]] · [[lovastatin]] · [[ergothioneine]] · [[fungal-cultivation]] · [[functional-foods]]

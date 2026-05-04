@@ -42,7 +42,7 @@ gravel, collect water that can be directed to:
 - Small dams and storages at low points in the road system
 - Diversion drains leading to broader [[water-management]]
   systems
-- Infiltration pits and mulch basins for roadside planting
+- Infiltration pits and mulch basins for roadside planting, as described in [[backyard-water-harvesting]] techniques
 
 ## Swale Integration with Roads
 
@@ -51,7 +51,7 @@ Swales by roadsides provide tree water and shade after
 California (Michael Corbett, designer) demonstrates this
 principle at scale: swales interpenetrating the suburban
 development accept all road and excess roof run-off, and
-support hundreds of productive trees in settlement.
+support hundreds of productive trees in settlement. This approach aligns with [[urban-permaculture-swales-raised-beds]] principles.
 
 Water penetrated soils to 6 m (19 feet) deep after a few
 years of operation, and swales were self-shaded after 3-4
@@ -129,7 +129,7 @@ The lower slope road swales can be planted mainly to
 Casuarina or leguminous trees to prevent upslope winds.
 Ridges should always have [[mollison-windbreak-design]]
 and condensation plants of hardy and useful species:
-Casuarina, Acacia, Leucaena, silky oak, pine, and cypress.
+Casuarina, Acacia, Leucaena, silky oak, pine, and cypress. See also [[windbreak-and-shelterbelt-design]] for species selection guidance.
 
 Windbreaks can occupy every sixth to tenth swale on sites
 where wind is a limiting factor. It is better to plant on

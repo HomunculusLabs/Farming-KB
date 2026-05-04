@@ -32,8 +32,7 @@ siderophore-like compounds.
 Root exudates act as chemical signals that attract specific microorganisms to
 the rhizosphere. This process, sometimes called the cry for help hypothesis,
 suggests that plants actively recruit beneficial microbes when under stress.
-Flavonoids and strigolactones in root exudates attract rhizobia and arbuscular
-mycorrhizal fungi, respectively. Malic acid released by Arabidopsis roots under
+Flavonoids and strigolactones in root exudates attract rhizobia and [[arbuscular-mycorrhizal-fungi]], respectively. These signaling interactions are central to [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]. Malic acid released by Arabidopsis roots under
 pathogen attack recruits Bacillus subtilis, which provides disease protection.
 The rhizosphere effect refers to the consistent observation that microbial
 numbers and activity are orders of magnitude higher in the rhizosphere than in
@@ -52,7 +51,7 @@ zinc, copper, and other immobile nutrients. Free-living bacteria fix atmospheric
 nitrogen, providing a nitrogen source in addition to that available from
 decomposition.
 The rhizosphere priming effect describes the stimulation or suppression of soil
-organic matter decomposition by root exudates. Labile carbon in exudates can
+organic matter decomposition by root exudates. This process is closely related to [[soil-food-web-nutrient-cycling]] dynamics. Labile carbon in exudates can
 stimulate microbial activity and enzyme production, accelerating the
 decomposition of more recalcitrant soil organic matter. This priming effect can
 either enhance or reduce nutrient availability depending on the balance between
@@ -108,7 +107,7 @@ capacity, and root penetration resistance.
 Anthropogenic factors including tillage, fertilization, pesticide application,
 and crop rotation also strongly impact rhizosphere communities. No-till systems
 generally support more diverse and stable rhizosphere communities than
-conventionally tilled systems. Organic fertilization promotes greater microbial
+conventionally tilled systems, a topic explored in [[teaming-with-microbes-no-till-benefits]]. Organic fertilization promotes greater microbial
 diversity than synthetic fertilization, though crop yield responses vary. The
 interactions between management practices and rhizosphere ecology are central
 to sustainable agriculture.
@@ -116,7 +115,7 @@ to sustainable agriculture.
 Different cultivars of the same plant species can develop distinct rhizosphere
 microbial communities due to differences in root exudate profiles, root
 architecture, and defense compound production. This cultivar specificity has
-been documented in many crops including cannabis, wheat, maize, and rice.
+been documented in many crops including cannabis, wheat, maize, and rice. See [[cannabis-root-microbiome]] for details on cannabis-specific patterns.
 Breeding programs are beginning to consider rhizosphere interactions as a
 selection criterion, aiming to develop cultivars that recruit beneficial
 microbial communities and suppress soil-borne pathogens through their natural

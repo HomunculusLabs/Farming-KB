@@ -19,7 +19,7 @@ outdoor physical activity.
 Successful vegetable gardens begin with careful planning. Gardeners should
 consider available sunlight (most vegetables need six to eight hours of direct
 sun daily), soil quality, water access, and available space. Raised beds are a
-popular approach for areas with poor native soil or drainage issues. Container
+Raised beds are a popular approach for areas with poor native soil or drainage issues. See [[raised-bed-gardening]] for detailed construction guidance. Container
 gardening extends growing opportunities to patios, balconies, and other small
 spaces.
 
@@ -38,7 +38,7 @@ Lime raises pH while sulfur lowers it, but amendments should always be guided
 by test results.
 
 Organic matter such as compost, well-rotted manure, or peat moss improves soil
-structure, drainage, water-holding capacity, and microbial activity. A general
+structure, drainage, water-holding capacity, and microbial activity. The role of soil biology is explored in [[teaming-with-microbes-bacteria-and-archaea-in-soil]]. A general
 recommendation is to incorporate two to four inches of compost into the top six
 to eight inches of soil before planting. Cover crops like crimson clover or
 winter rye can be grown in the off-season to protect and enrich the soil.
@@ -74,7 +74,7 @@ in some species.
 ## Pest and Disease Management
 
 Integrated Pest Management (IPM) combines cultural, biological, and chemical
-strategies to manage pests while minimizing environmental impact. Cultural
+strategies to manage pests while minimizing environmental impact. See [[integrated-pest-management]] for a comprehensive guide. Cultural
 practices include crop rotation, proper spacing, sanitation, and choosing
 disease-resistant varieties. Biological controls such as lady beetles,
 parasitic wasps, and Bacillus thuringiensis (Bt) target specific pests without
@@ -101,7 +101,7 @@ never be refrigerated as cold temperatures degrade their flavor and texture.
 
 ## Common Garden Vegetables
 
-Tomatoes are the most popular home garden vegetable and come in determinate
+Tomatoes are the most popular home garden vegetable. See [[tomato-growing-guide]] for detailed cultivation advice. They come in determinate
 (bush-type, ripen all at once) and indeterminate (vining, produce throughout
 the season) varieties. Peppers, both sweet and hot, require warm conditions and
 well-drained soil. Leafy greens like lettuce and spinach are easy to grow and
@@ -116,7 +116,7 @@ advantages for the home gardener.
 ## Season Extension
 
 Season extension techniques allow gardeners to start earlier in spring and
-continue later into fall. Cold frames, row covers, and low tunnels provide a
+continue later into fall. See [[winter-gardening-techniques]] and [[winter-gardening-season-extension]] for detailed approaches. Cold frames, row covers, and low tunnels provide a
 few degrees of frost protection. Hoop houses or high tunnels offer more
 substantial protection and can significantly extend the growing season, making
 it possible to grow cool-season crops through much of the winter in mild

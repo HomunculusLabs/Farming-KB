@@ -12,7 +12,7 @@ review of experimental designs, scaling considerations, and the role
 of these intermediate-scale studies in validating the efficacy of
 [[mycorrhizal-fungi]] for contaminated site restoration. These studies
 are essential for understanding complex plant-fungus-soil-pollutant
-interactions under increasingly realistic conditions.
+interactions under increasingly realistic conditions. For broader context on fungal bioremediation approaches, see [[staycare-fungal-bioremediation-field-studies]].
 
 ## Experimental Design Hierarchy
 
@@ -118,7 +118,7 @@ microcosms to field applications:
 
 - Contaminant distribution: Spiking homogeneous soil in the
   laboratory does not replicate the heterogeneous contamination
-  patterns found at real sites.
+  patterns found at real sites. See [[staycare-bioavailability-pollutants-fungal-bioremediation]] for discussion of pollutant accessibility.
 
 - Biotic complexity: Non-target soil organisms (earthworms,
   collembola, nematodes) absent from microcosms may significantly
@@ -134,3 +134,5 @@ Successful field validation requires:
 - Adaptive management frameworks that allow protocol modification
 ## See Also
 - [[singh-fungal-interactions-with-heavy-metals-in-soil]]
+- [[arbuscular-mycorrhizal-fungal-diversity]] for community composition context
+- [[staycare-scale-up-challenges-in-fungal-bioremediation]]

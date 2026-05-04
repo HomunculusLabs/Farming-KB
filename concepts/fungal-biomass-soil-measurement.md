@@ -10,7 +10,7 @@ sources:
 
 # Fungal Biomass in Soil: Measurement and Significance
 
-Fungal biomass in soil represents a major pool of organic carbon and nutrients that plays central roles in fungal-decomposition|decomposition, nutrient cycling, and soil food web dynamics. The quantification of fungal biomass is essential for understanding the contribution of fungi to ecosystem processes, yet measuring fungal biomass in complex soil matrices presents significant methodological challenges. Different measurement approaches yield different estimates, and the choice of method influences the interpretation of fungal contributions to ecosystem function.
+Fungal biomass in soil represents a major pool of organic carbon and nutrients that plays central roles in fungal-decomposition|decomposition, nutrient cycling, and [[soil-food-web-nutrient-cycling]] dynamics. The quantification of fungal biomass is essential for understanding the contribution of fungi to ecosystem processes, yet measuring fungal biomass in complex soil matrices presents significant methodological challenges. Different measurement approaches yield different estimates, and the choice of method influences the interpretation of fungal contributions to ecosystem function.
 
 
 ## Methods of Measurement
@@ -49,7 +49,7 @@ The phosphorus concentration in fungal tissues can reach 5 to 36 milligrams per 
 
 Fungal biomass in soil is not static but fluctuates in response to seasonal changes, resource availability, and environmental conditions. Lodge (1993) showed that the biomass of fungi in wet tropical forest soils is significantly and positively correlated with soil moisture and the amount of rainfall in the preceding week. This moisture dependence means that fungal biomass, and consequently the nutrient retention capacity of the fungal community, varies on short timescales in response to weather patterns.
 
-In temperate ecosystems, fungal biomass typically peaks in autumn when litter fall provides fresh substrates for colonization, and declines during winter when low temperatures limit fungal growth. Seasonal patterns of fungal biomass influence the timing of nutrient mineralization and immobilization, creating feedbacks between fungal dynamics and plant nutrient uptake.
+In temperate ecosystems, fungal biomass typically peaks in autumn when litter fall provides fresh substrates for colonization, and declines during winter when low temperatures limit fungal growth. These patterns are tied to broader [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]] dynamics. Seasonal patterns of fungal biomass influence the timing of nutrient mineralization and immobilization, creating feedbacks between fungal dynamics and plant nutrient uptake.
 
 
 ## Turnover Rates
@@ -68,7 +68,7 @@ Live fungal biomass in decomposing litter is typically low, at less than 20 mill
 
 ## Effects of Environmental Stress on Fungal Biomass
 
-Heavy metal contamination reduces both fungal biomass and enzyme activity in soil. Studies have shown that fluorescence diacetate fungal biomass and enzyme activity were reduced in heavy metal-contaminated soils compared to uncontaminated controls. The suppression of fungal biomass by metals has consequences for decomposition rates, bioremediation, and soil food web structure.
+Heavy metal contamination reduces both fungal biomass and enzyme activity in soil. This suppression connects to [[fungal-heavy-metal-uptake-and-translocation]] mechanisms. Studies have shown that fluorescence diacetate fungal biomass and enzyme activity were reduced in heavy metal-contaminated soils compared to uncontaminated controls. The suppression of fungal biomass by metals has consequences for decomposition rates, bioremediation, and soil food web structure.
 
 Other environmental stresses, including acidification, drought, and temperature extremes, can also reduce fungal biomass. The sensitivity of fungal biomass to environmental stress varies among fungal groups, with some species being more tolerant than others. This differential sensitivity can shift the composition of the fungal community and alter ecosystem function.
 
