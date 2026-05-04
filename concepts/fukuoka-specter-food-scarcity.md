@@ -114,3 +114,11 @@ systems that require less effort while producing more abundance over time.
 
 ## Merged: Fukuoka on Food Scarcity, Meat Consumption, and Self-Sufficiency
 Source: Masanobu Fukuoka, *The Road Back to Nature* (1996), pp. 36-37 When Fukuoka went abroad, he became intensely aware of how wonderful Japanese farming is, how extraordinary the Japanese farmer, how precious the land that he protects, and how amazing the methods that have kept a land fertile for three thousand years. See: fukuoka specter food scarcity,
+
+[[fukuoka-deficit-farming]] describes Fukuoka's broader critique of modern agriculture's dependency on external inputs, which is the root cause of the food insecurity he warns about.
+
+[[fukuoka-critique-green-revolution]] expands on Fukuoka's skepticism toward yield-maximizing technologies and chemical agriculture as solutions to global hunger.
+
+[[natural-farming-fukuoka]] outlines the core philosophy and methods that Fukuoka argues could make countries self-sufficient without industrial agriculture.
+
+[[food-dehydration-guide]] connects to Fukuoka's emphasis on traditional food preservation as a path to reducing waste and dependency on imported foods.

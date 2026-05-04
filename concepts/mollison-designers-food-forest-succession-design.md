@@ -133,3 +133,13 @@ systems into broader farm landscapes.
 ## See Also
 
 - [[mollison-designers-temperate-zone-food-forest-design]]
+
+[[succession-in-permaculture]] covers the broader permaculture framework of ecological succession that underpins food forest design strategies.
+
+[[hemenway-guild-design-roles-and-assembly]] explains how to combine compatible species into functional guilds within each successional layer of the food forest.
+
+[[pdc-food-forest-layers-and-succession]] provides a PDC-level summary of the seven-layer model and successional phases for food forest establishment.
+
+[[guild-design-methods]] offers practical techniques for designing plant communities that fill complementary niches, essential for productive canopy and understory management.
+
+[[ozier-pdc-forest-succession-and-food-forests]] connects succession theory to hands-on food forest implementation, including species selection and timing for each successional stage.

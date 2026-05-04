@@ -96,5 +96,14 @@ See also: [[soil-food-web-structure]], [[mycorrhizal-networks-explained]],
 [[root-exudates-rhizosphere]], [[mulch-types-effects-soil-biology]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
+
+[[soil-food-web-structure]] describes the trophic hierarchy that determines how bacterial and fungal channels channel energy and nutrients through decomposer food webs.
+
+[[mycorrhizal-networks-explained]] illustrates how fungal-dominated soils support extensive mycelial networks that connect plants and facilitate nutrient exchange.
+
+[[bacterial-to-fungal-soil-succession]] explains the natural progression from bacterially dominated pioneer soils to fungally dominated mature ecosystems.
+
+[[mulch-types-effects-soil-biology]] details how different mulch materials selectively feed either bacterial or fungal communities, offering a practical lever for managing the F:B ratio.
+
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-bacterial-vs-fungal-dominance]]

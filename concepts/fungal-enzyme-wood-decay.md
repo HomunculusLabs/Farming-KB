@@ -123,3 +123,11 @@ barrier to commercial viability. See also [[lignin-degradation]] and
 - [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
 - [[fungi-in-the-environment-decomposition-wood-decay]]
 - [[fungal-enzyme-systems]]
+
+[[white-rot-fungi]] are the only organisms capable of substantial lignin degradation, employing the peroxidase and laccase systems described above.
+
+[[fungal-bioremediation]] applies these same ligninolytic enzymes to break down environmental pollutants including PAHs, dyes, and chlorinated compounds.
+
+[[fungal-succession-wood-substrates]] describes how different fungal species colonize wood in predictable sequences, each bringing distinct enzyme capabilities to the decay process.
+
+[[lignin-degradation]] covers the biochemistry of lignin breakdown in greater detail, including the role of mediators and co-substrates in peroxidase catalysis.

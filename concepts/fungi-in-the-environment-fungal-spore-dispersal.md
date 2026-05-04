@@ -110,11 +110,16 @@ Understanding spore dispersal is important for agriculture:
 ## See Also
 
 - [[fungal-spore-dispersal]]
-
-- [[fungal-spore-biology]]
 - [[fungal-spore-biology]]
 - [[fungal-spore-dispersal-animals-wind]]
 - [[fungal-conidia-and-spore-types]]
-- [[fungal-spore-biology]]
 - [[bullers-drop-spore-discharge]]
 - [[aquatic-hyphomycetes-and-ingoldian-spores]]
+
+[[fungal-chlamydospore-formation-and-survival]] are thick-walled resting spores critical for long-term survival and seasonal re-emergence of fungal populations.
+
+[[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]] depend on successful spore germination and hyphal contact with host roots, making dispersal ecology central to mycorrhizal establishment.
+
+[[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]] relies on airborne spore dispersal for infecting insect hosts, with implications for biological pest control in agricultural systems.
+
+[[arbuscular-mycorrhizal-spore-extraction-methods]] provides practical techniques for isolating and quantifying spores from soil, directly informed by the dispersal biology described here.

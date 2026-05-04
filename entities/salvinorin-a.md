@@ -2,138 +2,137 @@
 title: "Salvinorin A"
 type: chemical
 tags:
-  - psychedelic
+  - psychedelic-compound
   - neoclerodane-diterpene
-  - salvinorin
   - kappa-opioid-receptor
+  - dissociative
   - entheogen
-  - divinorum
-  - pharmacology
+  - salvia-divinorum
+  - ethnobotany
+  - neuropharmacology
+  - hallucinogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3010984/
-  - https://pubmed.ncbi.nlm.nih.gov/15573213/
-  - https://doi.org/10.1016/j.cell.2005.09.008
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3747695/
-  - https://pubchem.ncbi.nlm.nih.gov/compound/Salvinorin-A
+  - https://pubmed.ncbi.nlm.nih.gov/?term=salvinorin+A+kappa+opioid+receptor+pharmacology
+  - https://pubchem.ncbi.nlm.nih.gov/compound/Salvinorin_A
+  - Roth, B.L. et al. (2002). "Salvinorin A: A potent naturally occurring nonnitrogenous kappa opioid selective agonist." PNAS.
+  - Siebert, D.J. (1994). "Salvia divinorum and salvinorin A." Journal of Psychoactive Drugs.
+  - https://en.wikipedia.org/wiki/Salvinorin_A
 ---
 
 # Salvinorin A
 
 ## Overview
 
-**Salvinorin A** (neoclerodane diterpene) is the principal psychoactive constituent of *[[salvia-divinorum-profile]]*, a perennial herb in the mint family (Lamiaceae). It is the most potent naturally occurring psychedelic known, with active doses as low as 200–500 µg when vaporized. Salvinorin A is structurally and pharmacologically unique among classical psychedelics: it is a non-nitrogenous diterpene rather than a [[tryptamine]] or phenethylamine, and it produces its effects through selective agonism at the κ-opioid receptor (KOR) rather than the 5-HT₂A [[serotonin]] receptor. The compound was first isolated and characterized by Alfredo Ortega in 1982. *Salvia divinorum* is native to the Sierra Mazateca in Oaxaca, Mexico, where it has been used for centuries by Mazatec shamans in divinatory and healing rituals.
+Salvinorin A is a powerful psychoactive **neoclerodane diterpene** and the principal active compound in *Salvia divinorum*, a member of the mint family (Lamiaceae) used traditionally by the Mazatec people of Oaxaca, Mexico, in divinatory rituals. Isolated in 1982 by Alfredo Ortega and colleagues, salvinorin A is remarkable for several reasons: it is the most potent naturally occurring psychedelic known — active at doses as low as 200–500 µg — and it is the first non-nitrogenous (non-alkaloid) psychedelic compound discovered, containing no nitrogen atoms. Its mechanism of action is entirely distinct from classical psychedelics (LSD, psilocybin, DMT) and dissociatives (ketamine, PCP): salvinorin A is a highly selective **agonist of the kappa-opioid receptor (KOR)**, with negligible affinity for other opioid receptors or serotonin receptors. This unique pharmacological profile produces an intense but short-lived altered state characterized by profound dissociation, visual distortion, altered spatial perception, and ego dissolution, with no significant cardiovascular or respiratory depression at psychoactive doses.
 
-## Chemical Properties
+## Chemical Identity
 
-- **Molecular Formula:** C₂₃H₂₈O₈
-- **Molecular Weight:** 432.47 g/mol
-- **IUPAC Name:** (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-1H-benzo[f]isochromene-7-carboxylic acid methyl ester
-- **CAS Number:** 83729-01-7
-- **Appearance:** White to off-white crystalline powder
-- **Solubility:** Lipophilic; soluble in acetone, ethanol, and chloroform; poorly soluble in water
-- **Melting Point:** 238–240°C
-- **Stability:** Stable at room temperature; sensitive to heat and light; degradation occurs at temperatures above ~240°C
-- **Chemical Class:** Neoclerodane trans-clerodane diterpene — one of the few non-nitrogenous psychedelics; lacks the [[indole]] or phenethylamine scaffold common to virtually all other classical psychedelics
+| Property | Value |
+|---|---|
+| **IUPAC name** | (2S,4aR,6aR,7R,9S,10aS,10bR)-9-(acetyloxy)-2-(furan-3-yl)-6a,10b-dimethyl-4,10-dioxododecahydro-2H-naphtho[2,1-c]pyran-7-carboxylic acid methyl ester |
+| **Molecular formula** | C₂₃H₂₈O₈ |
+| **Molecular weight** | 432.47 g/mol |
+| **CAS number** | 83703-79-3 |
+| **Chemical class** | Neoclerodane trans-clerodane diterpenoid |
+| **SMILES** | CC(=O)O[C@H]1CC(=O)[C@H]2[C@]1(C)[C@@H](C(=O)OC)[C@@H](O2)C3=COC=C3 |
+| **Appearance** | White crystalline solid |
+| **Solubility** | Soluble in acetone, ethyl acetate, DMSO; poorly soluble in water |
+
+Salvinorin A is structurally unrelated to all other known psychedelic compounds. Its neoclerodane skeleton is a bicyclic diterpene framework with an acetoxy group at C-2 and a furan ring, both essential for KOR binding activity.
+
+## Biosynthesis and Natural Occurrence
+
+Salvinorin A is found exclusively in *Salvia divinorum* (Epling & Játiva), though trace amounts of related salvinorins (B through F) co-occur in the plant. It is concentrated primarily in the glandular trichomes on the abaxial (underside) surface of the leaves, with concentrations typically ranging from 0.08–0.37% dry weight depending on leaf age, growing conditions, and genetic variety.
+
+The biosynthetic pathway proceeds through the terpenoid (MEP) pathway to produce geranylgeranyl diphosphate (GGPP), which undergoes cyclization via clerodienyl diphosphate synthase to form the neoclerodane skeleton. Subsequent oxidative modifications and acetylation produce salvinorin A. Unlike alkaloid biosynthesis, this pathway does not involve amino acid precursors.
 
 ## Pharmacology
 
 ### Mechanism of Action
 
-Salvinorin A is a highly selective and potent agonist at the κ-opioid receptor (KOR):
+| Parameter | Detail |
+|---|---|
+| **Primary target** | κ-opioid receptor (KOR / OPRK1) |
+| **Binding affinity (Kᵢ)** | ~1 nM — among the most potent KOR agonists known |
+| **Efficacy** | Full agonist |
+| **Selectivity** | >1,000× selectivity for KOR over μ-opioid (MOR) and δ-opioid (DOR) receptors |
+| **Serotonin receptors** | Negligible affinity for 5-HT2A, 5-HT1A, or other serotonin receptors |
+| **NMDA receptors** | No significant affinity (distinguishing from dissociative anesthetics) |
 
-- **KOR agonism:** Ki ≈ 1–10 nM at KOR, making it one of the most potent known non-peptidic KOR agonists
-- **No 5-HT₂A activity:** Unlike all classical psychedelics, salvinorin A shows no meaningful affinity for serotonin 5-HT₂A, 5-HT₁A, 5-HT₂C, dopamine D₁/D₂, or µ/δ-opioid receptors
-- **Selectivity profile:** >1000-fold selectivity for KOR over µ-opioid and δ-opioid receptors; no affinity for monoamine transporters
-- **[[fungal-environmental-sensing-signal-transduction]]:** KOR activation leads to Gᵢ/Go protein-mediated inhibition of adenylyl cyclase, activation of MAPK/ERK pathways, and modulation of dopamine release in mesolimbic circuits
-- **Downstream effects:** KOR agonism in the claustrum, prefrontal cortex, and ventral tegmental area is hypothesized to underlie the dissociative and visionary effects; the claustrum has been proposed as a key neural substrate for consciousness and salvinorin A's effects may arise from disruption of its integrative function
+Salvinorin A's KOR agonism triggers activation of the Gᵢ/o signaling pathway, leading to:
+- Inhibition of adenylyl cyclase and reduced cAMP production
+- Activation of G protein-coupled inwardly rectifying potassium (GIRK) channels
+- Inhibition of voltage-gated calcium channels
+- β-arrestin-2 recruitment (mediating some aversive/dysphoric effects)
 
-### Receptor Binding Data
+### Pharmacokinetics
 
-| Receptor | Ki (nM) | Action |
-|----------|---------|--------|
-| κ-opioid (KOR) | 1–10 | Full agonist |
-| µ-opioid (MOR) | >10,000 | Inactive |
-| δ-opioid (DOR) | >10,000 | Inactive |
-| 5-HT₂A | >10,000 | Inactive |
-| Dopamine D₂ | >10,000 | Inactive |
+| Parameter | Value |
+|---|---|
+| **Route of onset (sublingual)** | 5–15 minutes |
+| **Route of onset (smoked/vaporized)** | 20–60 seconds |
+| **Peak effect** | 2–5 minutes (smoked); 30–60 minutes (sublingual) |
+| **Duration (smoked)** | 5–20 minutes |
+| **Duration (sublingual/chewed)** | 30–90 minutes |
+| **Metabolism** | Hepatic; primarily via esterases and CYP2D6 |
+| **Elimination half-life** | ~60–90 minutes |
+| **Blood-brain barrier** | Rapidly crosses due to high lipophilicity (logP ~2.8) |
 
-## Pharmacokinetics
+## Subjective Effects
 
-| Property | Value |
-|----------|-------|
-| Route (traditional) | Sublingual (chewed fresh leaf) |
-| Route (modern) | Vaporization / smoking |
-| Onset (vaporized) | 20–60 seconds |
-| Onset (sublingual) | 5–10 minutes |
-| Time to peak | 1–3 minutes (vaporized) |
-| Duration (vaporized) | 5–15 minutes |
-| Duration (sublingual) | 30–60 minutes |
-| Bioavailability | Poor oral; moderate buccal/sublingual |
-| Metabolism | Hepatic (CYP2D6, CYP2C9, CYP3A4); ester hydrolysis |
-| Active metabolites | Salvinorin B (weaker, ~10× less potent) |
-| Elimination half-life | ~60–90 minutes |
+The salvinorin A experience is qualitatively distinct from both serotonergic psychedelics and NMDA dissociatives. It is one of the most intense and disorienting psychoactive experiences known, despite its brevity.
 
-The extreme brevity of the smoked experience (5–15 min) is unusual for a psychedelic and is attributed to rapid metabolic deacetylation. Salvinorin A is poorly active orally due to extensive first-[[first-pass-metabolism-and-oral-bioavailability]]; traditional Mazatec use employs chewing of fresh leaves, allowing buccal absorption and bypassing hepatic degradation.
+### Smoked/Vaporized (most common route)
+- **Onset (0–1 min):** Sudden, overwhelming sensory alteration — often described as being "pulled" or "pushed" by an invisible force
+- **Peak (1–5 min):** Complete dissociation from body and environment; profound spatial distortion (rooms appear to fold, rotate, or multiply); loss of ego boundaries; visionary experiences including encounters with entities, landscapes, or impossible geometries; amnesia of the experience is common
+- **Resolution (5–20 min):** Rapid return to normal consciousness; residual afterglow of calmness or bewilderment
 
-## Natural Source
+### Key Characteristics
+- **Suddenness:** Unlike other psychedelics with gradual onset, smoked salvinorin A produces an almost instantaneous shift
+- **Intensity:** Many users report it as the single most intense psychoactive experience of their lives
+- **Brevity:** Full experience lasts under 20 minutes (smoked), making it one of the shortest-acting psychedelics
+- **Unpredictability:** Effects are highly variable and strongly influenced by dose, set, and setting
+- **Limited recreational appeal:** The intensity and dysphoric potential make it poorly suited for casual use
 
-### Salvia divinorum
+### Dosage
 
-- **Family:** Lamiaceae (mint family)
-- **Distribution:** Endemic to the Sierra Mazateca region of Oaxaca, Mexico; cultivated globally as an ornamental and entheogenic plant
-- **Part used:** Fresh or dried leaves; salvinorin A concentration is ~0.1–0.4% dry weight in leaves
-- **Cultivation:** Propagated vegetatively (stem cuttings); rarely sets viable seed; sterility is hypothesized to be due to aneuploidy (2n = 96)
-- **Related species:** Over 100 salvinorin-related neoclerodane diterpenes have been identified in *Salvia* species, though only salvinorin A is psychoactive at typical doses
-- **Chemotaxonomy:** *S. divinorum* is one of ~900 *Salvia* species and the only one known to produce salvinorin A; related neoclerodanes are found in *S. splendida*, *S. recognita*, and others but lack significant KOR activity
+| Method | Threshold | Light | Moderate | Strong |
+|---|---|---|---|---|
+| **Smoked (pure)** | 200–300 µg | 300–500 µg | 500 µg–1 mg | 1–2 mg |
+| **Smoked (leaf, 5× extract)** | ~0.1 g | 0.1–0.2 g | 0.2–0.3 g | 0.3+ g |
+| **Chewed (fresh leaf)** | 2–4 g | 4–8 g | 8–15 g | 15+ g |
 
-### Traditional Use
+## Therapeutic Research
 
-- **Mazatec shamans** of Oaxaca have used *S. divinorum* (known as *ska María Pastora*, "leaves of Mary the Shepherdess") for centuries in divination rituals, healing ceremonies, and diagnosis of illness
-- Typically consumed as fresh leaf quids held in the mouth, or as a water-based infusion (though the latter is less effective due to poor aqueous solubility)
-- The Mazatec consider the plant a manifestation of the Virgin Mary and use it in a ceremonial context with specific prayers and protocols
-- First brought to Western attention by ethnobotanist R. Gordon Wasson in the 1950s; Albert Hofmann isolated inactive fractions in 1962; Ortega identified salvinorin A as the active principle in 1982
-
-## Effects and Experience
-
-The salvinorin A experience is qualitatively distinct from serotonergic psychedelics:
-
-- **Intensity:** Disproportionately intense relative to dose; full breakthrough at 500 µg–1 mg (vaporized)
-- **Onset:** Abrupt and overwhelming; users frequently report loss of motor coordination within seconds
-- **Visual/sensory:** Vivid, immersive, and often bizarre hallucinatory landscapes; a sense of merging with objects or environments; synesthetic experiences
-- **Dissociation:** Profound ego dissolution and detachment from ordinary reality; users may be unable to recognize their body, location, or identity
-- **Aftermath:** Confusion and residual altered perception for 20–60 minutes post-peak; full baseline return within 1–2 hours
-- **Subjective character:** Often described as more "mechanical" or "alien" compared to the warm, organic quality of tryptamine experiences; frequently overwhelming and dysphoric at high doses
-- **Dose-dependent progression:** Light (100–250 µg): mild perceptual shifts, laughter; Moderate (250–500 µg): vivid closed-eye imagery, altered body schema; Strong (500 µg+): complete dissociation, immersive hallucinatory "worlds," amnesia of the experience
+Despite its intense psychoactive profile, salvinorin A has attracted significant research interest as a therapeutic lead compound:
+- **Depression:** KOR antagonists have shown antidepressant effects; paradoxically, acute KOR agonism by salvinorin A may produce rapid antidepressant-like effects in animal models via downstream signaling adaptations
+- **Substance use disorders:** KOR system involvement in stress-induced drug seeking makes salvinorin A analogs candidates for addiction treatment research
+- **Neuropathic pain:** KOR agonism produces analgesia without the respiratory depression risk of MOR agonists; modified salvinorin analogs with longer duration are under investigation
+- **Structure-activity relationships:** Over 200 salvinorin A analogs have been synthesized, with several showing improved pharmacokinetic profiles and therapeutic potential while reducing psychoactive intensity
 
 ## Safety and Toxicology
 
-- **Toxicity profile:** No confirmed human fatalities attributable to salvinorin A; LD₅₀ in mice is >1000 mg/kg (oral), representing an enormous safety margin relative to active doses
-- **Physical safety:** No evidence of organ toxicity, neurotoxicity, or mutagenicity; no clinically relevant respiratory or cardiovascular depression at recreational doses
-- **Psychological risks:** Primary hazards are psychological — panic, confusion, and accidental injury due to loss of motor coordination; the intensity and abrupt onset can be traumatizing, particularly in unprepared users
-- **Dependence:** No evidence of physical dependence or addiction; KOR agonists are generally dysphoric and are being investigated as anti-addiction agents rather than drugs of abuse
-- **Tolerance:** Rapid tolerance develops with repeated use; cross-tolerance with other psychedelics has not been demonstrated (consistent with distinct receptor mechanisms)
-- **Set and setting:** The extreme intensity and short duration make salvinorin A particularly sensitive to set and setting; a sober trip sitter is strongly recommended due to fall risk and confusion
-- **Contraindications:** Individuals with a history of psychosis, schizophrenia, or severe anxiety disorders should avoid use; no known dangerous pharmacological interactions with common medications, though KOR agonism may potentiate sedatives
+- **Physical safety:** No known lethal dose; salvinorin A does not depress respiration or cardiovascular function at any dose tested in animals (up to 10 mg/kg IV in mice)
+- **Behavioral risks:** The sudden, intense dissociation poses risks of injury from falls or uncoordinated movement; a sober sitter is strongly recommended
+- **Psychological risks:** Can trigger severe anxiety, panic, and existential distress; contraindicated for individuals with psychotic disorders, severe anxiety, or PTSD
+- **Dependence potential:** Low to none; KOR agonists are generally dysphoric, producing aversive rather than rewarding effects
+- **Drug interactions:** No known dangerous pharmacokinetic interactions; MAOIs do not affect salvinorin A (not an amine)
 
 ## Legal Status
 
-| Jurisdiction | Status |
-|--------------|--------|
-| United States | Not federally scheduled (as of 2026); regulated in many states; DEA listed as "drug of concern" |
-| Australia | Schedule 9 (prohibited substance) since 2002 |
-| Canada | Controlled under the Controlled Drugs and Substances Act (Schedule IV as of 2023) |
-| United Kingdom | Class B drug under the Misuse of Drugs Act (as of 2016) |
-| Germany | Controlled under the BtMG (Betäubungsmittelgesetz) since 2008 |
-| Denmark | Schedule I since 2003 |
-| Brazil | Legal (not scheduled) |
-| Mexico | Legal; native use unregulated |
-
-Many countries have enacted scheduling specifically for *Salvia divinorum* or salvinorin A, while others regulate it under analogue drug laws. Legal status continues to evolve; several US states have banned sale and possession. The plant remains unregulated in parts of Latin America, where traditional Mazatec use persists.
+- **United States:** Not federally scheduled (as of 2026); regulated or banned in numerous states (CA, FL, IL, DE, and others)
+- **United Kingdom:** Class B controlled substance (since 2016 Psychoactive Substances Act)
+- **Australia:** Schedule 9 prohibited substance
+- **Canada:** Not scheduled under CDSA
+- **Germany:** Controlled under BtMG (NpSG since 2022)
+- **International:** Not listed under UN drug conventions; many countries regulate under novel psychoactive substance (NPS) legislation
 
 ## See Also
 
-- [[salvinorin-reference]]
-- [[salvia-divinorum-and-salvinorin-a]]
-- [[salvinorin-pharmacology]]
+- [[salvia-divinorum]] — Source organism of salvinorin A
+- [[psilocybin]] — Serotonergic psychedelic for pharmacological comparison
+- [[muscimol]] — GABA-A agonist psychoactive compound; another non-serotonergic hallucinogen
+- [[ketamine]] — NMDA antagonist dissociative; different mechanism, some overlapping subjective effects
+- [[kappa-opioid-receptor]] — KOR biology and therapeutic targeting
