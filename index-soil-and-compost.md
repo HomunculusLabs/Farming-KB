@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**383 pages**
+**384 pages**
 
 ## A
 
@@ -297,6 +297,7 @@
 - [[no-till-grain-strategy]]
 - [[no-till-rice-winter-grain-succession]]
 - [[no-tillage-grain-systems]]
+- [[no-tillage-rice-barley-succession-cropping]]
 - [[nutrient-cycling-in-soil]]
 - [[nutrient-dense-gardening]]
 - [[nutrient-dynamic-accumulator-reference]]

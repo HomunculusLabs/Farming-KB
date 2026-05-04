@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**830 pages**
+**832 pages**
 
 ## A
 
@@ -64,6 +64,7 @@
 - [[clay-pellet-seed-balling]]
 - [[clay-pellet-seed-balls]]
 - [[clay-pellet-seed-broadcasting]]
+- [[clay-pellet-seed-encapsulation]]
 - [[clay-seed-balls-tsuchi-dango]]
 - [[clay-seed-pellets]]
 - [[cleve-backster-plant-perception-experiments]]
@@ -552,6 +553,7 @@
 - [[natural-beekeeping-practices]]
 - [[natural-dye-plants]]
 - [[natural-farm-water-conservation-irrigation]]
+- [[natural-fruit-tree-form-and-non-pruning]]
 - [[natural-orchard-management]]
 - [[natural-pest-deterrents]]
 - [[nehemiah-grew-plant-anatomy]]
