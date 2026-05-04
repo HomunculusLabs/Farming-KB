@@ -51,7 +51,7 @@ orders:
 
 ## Teliospores and Life Cycle
 
-Teliospores are the defining feature of the Ustilaginomycetes.
+[[smut-fungi]] are defined by their teliospore-based life cycle. Teliospores are the defining feature of the Ustilaginomycetes.
 These diploid resting spores are typically darkly pigmented,
 thick-walled, and capable of surviving adverse environmental
 conditions for extended periods. Upon germination, teliospores
@@ -90,7 +90,7 @@ intractable based on morphology alone.
 
 ## Ecological and Economic Significance
 
-Smut fungi are primarily parasites of flowering plants
+[[biodiversity-fungi-plant-pathogens]] encompasses smut fungi among many other groups. Smut fungi are primarily parasites of flowering plants
 (Angiosperms), particularly members of the grass family
 (Poaceae). They typically infect the reproductive structures of
 their hosts, replacing seeds or grains with masses of dark,
@@ -100,7 +100,7 @@ Ustilago scitaminea, for example, can cause yield losses of up
 to 100% in susceptible sugarcane varieties.
 
 Some smut fungi have been used as model organisms for studying
-plant-pathogen interactions. Ustilago maydis has become
+plant-pathogen interactions. [[ustilago-maydis|Ustilago maydis]] has become
 particularly important as a genetic and molecular model, owing
 to its well-characterized life cycle, ease of cultivation, and
 the availability of molecular tools for genetic manipulation.
@@ -114,11 +114,11 @@ animal association.
 
 ## Research Methods and Challenges
 
-Many smut fungi are obligate biotrophs that cannot be cultured
+[[fungal-parasites-living-plants-estimating-diversity]] outlines the broader methodological challenges that apply to smut fungi. Many smut fungi are obligate biotrophs that cannot be cultured
 on artificial media, making them difficult to study in the
 laboratory. Molecular phylogenetic methods have been
-essential for understanding relationships within the group,
-though the obligate nature of many species limits the
+essential for understanding relationships within the group — see [[biodiversity-fungal-molecular-identification-dna-barcoding|DNA barcoding and molecular identification]]
+for the broader methodological framework — though the obligate nature of many species limits the
 availability of DNA for sequencing. Teliospore morphology,
 host specificity, and disease symptoms remain important
 characters for species identification, even as molecular
@@ -128,9 +128,12 @@ boundaries and generic circumscriptions.
 ## See Also
 
 - [[smut-fungi]]
-
 - [[basidiomycota-classification-major-clades]]
 - [[urediniomycetes-rust-fungi-yeastlike-relatives]]
 - [[smut-fungi-grass-cereal-parasites]]
 - [[fungal-parasites-living-plants-estimating-diversity]]
 - [[malassezia-commensal-pathogenic-yeasts]]
+- [[biodiversity-smut-fungi-diversity]] for species richness and distribution patterns
+- [[biodiversity-fungi-plant-pathogens]] for broader context on fungal plant pathogen diversity
+- [[basidiomycete-phylum-guide]] for the wider taxonomic context within Basidiomycota
+- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] for cell wall biochemistry relevant to pathogenicity

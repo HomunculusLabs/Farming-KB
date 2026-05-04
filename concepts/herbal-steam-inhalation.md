@@ -29,6 +29,8 @@ For children, direct steam tent inhalation is not recommended due to burn risk. 
 
 ## Herbs for Respiratory Steam
 
+[[herbal-materia-medica]] provides detailed monographs for many of the herbs listed below.
+
 - **Eucalyptus (Eucalyptus globulus):** The most widely used herb for respiratory steam inhalation. Eucalyptol (1,8-cineole) is a proven mucolytic and expectorant that thins mucus secretions, opens airways, and exhibits antibacterial activity against respiratory pathogens including Streptococcus pneumoniae and Haemophilus influenzae. Eucalyptus steam is a first-line treatment for sinus congestion, bronchitis, and the common cold.
 - **Thyme (Thymus vulgaris):** Thymol and carvacrol provide potent antimicrobial and antispasmodic effects. Thyme steam is particularly effective for respiratory infections with productive coughs, helping to address both the infection and the bronchospasm that accompanies it. Thyme has documented activity against biofilms formed by respiratory pathogens.
 - **Peppermint (Mentha x piperita):** Menthol produces a cooling sensation that subjectively opens airways through activation of TRPM8 cold receptors in the nasal passages. Peppermint steam relieves nasal congestion and headaches associated with sinus pressure. Use sparingly as high menthol concentrations can paradoxically increase bronchial tone.
@@ -41,7 +43,7 @@ For children, direct steam tent inhalation is not recommended due to burn risk. 
 
 ## Chronic and Preventive Applications
 
-Beyond acute respiratory illness, herbal steam inhalation has applications for chronic respiratory conditions. People with chronic sinusitis may benefit from regular sage and thyme steam to reduce bacterial load in the sinuses and improve drainage. Individuals with chronic bronchitis can use mullein and licorice root steam to soothe inflamed bronchial passages and reduce excessive mucus production.
+[[respiratory-herbs]] are commonly used in both acute and chronic protocols. Beyond acute respiratory illness, herbal steam inhalation has applications for chronic respiratory conditions. People with chronic sinusitis may benefit from regular sage and thyme steam to reduce bacterial load in the sinuses and improve drainage. Individuals with chronic bronchitis can use mullein and licorice root steam to soothe inflamed bronchial passages and reduce excessive mucus production.
 
 For occupational respiratory exposure — such as after working with dust, chemicals, or in dry environments — a cleansing steam with peppermint and eucalyptus helps clear inhaled particulates and restore mucosal hydration. Singers, public speakers, and teachers use thyme and marshmallow root steam to maintain vocal cord health and reduce throat irritation from prolonged voice use.
 
@@ -49,7 +51,7 @@ Allergy sufferers benefit from regular steam during pollen season, as the hydrat
 
 ## Safety Considerations
 
-Steam inhalation is not appropriate for young children under age 6 in the traditional bowl-and-towel method due to burn risk. Alternative delivery methods include the shower steam method, commercial facial steamers, and bedside steam bowls. People with asthma should use caution as hot steam can trigger bronchospasm in some individuals — warm (not hot) steam is preferred for asthmatic patients.
+[[herbal-medicine-safety]] should be consulted alongside the guidelines below. Steam inhalation is not appropriate for young children under age 6 in the traditional bowl-and-towel method due to burn risk. Alternative delivery methods include the shower steam method, commercial facial steamers, and bedside steam bowls. People with asthma should use caution as hot steam can trigger bronchospasm in some individuals — warm (not hot) steam is preferred for asthmatic patients.
 
 Eucalyptus should not be used around infants or toddlers under age 2 due to the risk of laryngospasm and central nervous system depression. [[herbal-medicine-safety]] guidelines recommend starting with shorter sessions (5 minutes) and lower herb concentrations. Sessions should be discontinued immediately if dizziness, nausea, or worsening breathing difficulty occurs.
 
@@ -74,10 +76,13 @@ After a steam session, it is important to avoid cold air exposure for at least 1
 - [[respiratory-herbs]]
 - [[herbal-medicine-safety]]
 - [[herbal-formulation-principles]]
-- [[herbal-formulation-principles]]
 - [[herbal-medicine-preparation-methods]]
 - [[herbal-baths-and-hydrotherapy]]
-- [[herbal-medicine-preparation-methods]]
+- [[adaptogenic-herbs-overview]] for stress-modulating herbs that complement respiratory care
+- [[adaptogenic-herbs-guide]] for comprehensive adaptogen selection guidance
+- [[valeriana-officinalis]] for nervine herbs used alongside respiratory treatments
+- [[valerian-growing-guide]] for cultivating key medicinal herbs at home
+- [[womens-health-herbs]] for additional herbs addressing sleep and hormonal balance
 ## Merged: Sleep and Insomnia Herbs
 
 # Sleep and Insomnia Herbs
@@ -114,11 +119,11 @@ Skullcap (Scutellaria lateriflora) is a relaxing nervine that addresses the nerv
 
 Hops (Humulus lupulus) have mild sedative properties and are traditionally used in sleep pillows (dried hops flowers placed inside a pillowcase). The myrcene content of hops has sedative effects. Hops are also used in sleep tinctures and teas, often combined with valerian and passionflower. Hops have mild estrogenic properties and may be especially effective for sleep disturbances related to menopause.
 
-Ashwagandha (Withania somnifera) is an adaptogenic herb that supports sleep indirectly by reducing cortisol levels and modulating the stress response. Clinical trials have shown that ashwagandha improves sleep quality and reduces insomnia, particularly in people with stress-related sleep disturbance. Ashwagandha is best taken in the morning rather than at bedtime, as its effects develop over time through stress hormone normalization. See [[adaptogenic-herbs-overview]] for more on ashwagandha.
+Ashwagandha ([[ashwagandha|Withania somnifera]]) is an adaptogenic herb that supports sleep indirectly by reducing cortisol levels and modulating the stress response. Clinical trials have shown that ashwagandha improves sleep quality and reduces insomnia, particularly in people with stress-related sleep disturbance. Ashwagandha is best taken in the morning rather than at bedtime, as its effects develop over time through stress hormone normalization. See [[adaptogenic-herbs-overview]] for more on ashwagandha.
 
 ## Herbal Sleep Formulas
 
-Sleep formulas typically combine two to four herbs that address different aspects of sleep difficulty. A classic combination for anxiety-related insomnia includes valerian, passionflower, and chamomile. For stress-related insomnia with nervous exhaustion, skullcap, lemon balm, and ashwagandha (taken in the morning) address the underlying pattern.
+Sleep formulas typically combine two to four herbs that address different aspects of sleep difficulty. A classic combination for anxiety-related insomnia includes valerian, passionflower, and chamomile. For people with stress-related insomnia with nervous exhaustion, skullcap, lemon balm, and ashwagandha (see [[ashwagandha-growing-guide]] for cultivation) address the underlying pattern.
 
 Timing of administration is important. Sedative herbs should be taken 30 to 60 minutes before the desired sleep time. Relaxing teas can be consumed one to two hours before bed as part of a wind-down routine. Adaptogens are taken in the morning for their daytime stress-modulating effects. Essential oils can be diffused continuously through the evening.
 

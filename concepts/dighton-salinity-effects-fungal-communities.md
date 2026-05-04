@@ -31,7 +31,7 @@ irrigated agroecosystems.
 
 ## Sources of Soil Salinity
 
-Salinity in soils originates from several natural and anthropogenic
+[[fungal-ecosystem-roles]] are fundamentally altered by changes in soil chemistry. Salinity in soils originates from several natural and anthropogenic
 processes. In coastal ecosystems, saltwater intrusion and tidal
 flooding create naturally saline conditions. In arid and semiarid
 regions, high evaporation rates concentrate salts in the soil profile.
@@ -46,9 +46,7 @@ fungal communities present.
 ### Arbuscular Mycorrhizal Responses
 
 Juniper and Abbott (1993) demonstrated that increased soil salinity
-can reduce the germination of [[arbuscular-mycorrhizal-network-visualization-anastomosis]] spores and reduce extraradical hyphal growth. Plants
-growing in saline soils thus have a reduced mycorrhizal component,
-which is probably detrimental to their growth and survival. The impact
+can reduce the germination of [[arbuscular-mycorrhizal-network-visualization-anastomosis]] spores and reduce extraradical hyphal growth. The resulting reduction in [[arbuscular-mycorrhizal-colonization-patterns|mycorrhizal colonization]] limits plant access to nutrients and underscores the importance of [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms|mycorrhizal mechanisms]] in stressed environments. The impact
 of salinity on mycorrhizal colonization is, however, a matter of
 degree.
 
@@ -105,19 +103,20 @@ mangrove leaves is much lower than in salt marsh vegetation (less than
 
 ## Fungal Adaptations to Salinity
 
-Fungi exhibit several strategies for coping with saline conditions.
+[[fungal-community-assembly]] in saline environments follows different successional patterns than in non-saline soils. Fungi exhibit several strategies for coping with saline conditions.
 These include the accumulation of compatible solutes, modification of
 cell wall composition, and alteration of enzyme production patterns.
 Fungi that grow in saline environments serve as models for
 understanding ecophysiological adaptation to osmotic stress. The
-presence of marine oomycetes (e.g., Halophytophthora) in mangrove
+The presence of marine oomycetes (e.g., Halophytophthora) in mangrove
 systems represents an additional fungal-like group adapted to saline
-conditions, though these organisms do not contain ergosterol and are
+conditions — see [[straminipiles-oomycetes-fungus-like-chromists]] for
+the broader classification of these organisms. Though these organisms
 thus not captured by standard fungal biomass measurements.
 
 ## Broader Ecosystem Implications
 
-The effects of salinity on fungal communities cascade through
+[[fungal-role-in-nitrogen-cycling]] is among the key processes affected. The effects of salinity on fungal communities cascade through
 ecosystem processes. Reduced mycorrhizal colonization limits plant
 access to nutrients, particularly [[fungal-role-in-nitrogen-cycling]]
 and nitrogen. Alterations in fungal decomposer communities affect

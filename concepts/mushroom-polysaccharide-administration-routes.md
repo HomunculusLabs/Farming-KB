@@ -46,7 +46,7 @@ Several mushroom polysaccharides demonstrate oral efficacy:
 - [[grifron-d-maitake-beta-glucan]]: Orally bioavailable from
   [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[ahcc-active-hexose-correlated-compound]]: Alpha-1,3 glucan, 3g/day orally
-- Ganopoly: Ganoderma extract, 1800mg three times daily
+- Ganopoly: [[ganoderma-lucidum|Ganoderma]] extract, 1800mg three times daily
 
 ### Molecular Weight and Bioavailability
 
@@ -88,19 +88,20 @@ exemplifies this with its low MW alpha-glucan structures.
 
 ## Pharmacokinetic Gaps
 
-Despite decades of clinical use of PSK and PSP, detailed bioavailability
+[[medicinal-mushroom-extraction-preparation]] methods directly influence the bioavailability outcomes described below. Despite decades of clinical use of PSK and PSP, detailed bioavailability
 and pharmacokinetic studies remain limited. Key questions include intestinal
 absorption mechanisms, first-pass metabolism, immune cell distribution,
 elimination pathways, and optimal dosing schedules.
 
 ## Impact on Treatment Paradigms
 
-Orally bioavailable polysaccharides enable outpatient treatment, reduce
+[[mushroom-polysaccharide-chemotherapy-synergy]] research has shown that polysaccharides can enhance conventional treatment outcomes. Orally bioavailable polysaccharides enable outpatient treatment, reduce
 clinical infrastructure needs, support long-term maintenance therapy,
 improve quality of life, and lower overall treatment costs.
 
 ## Future Directions
 
+[[mushroom-polysaccharide-safety-toxicity]] data will be essential as new delivery routes are developed.
 - Molecular weight reduction technologies for large beta-glucans
 - Encapsulation and delivery systems for GI tract protection
 - Standardised bioavailability testing protocols
@@ -115,3 +116,9 @@ improve quality of life, and lower overall treatment costs.
 - [[mushroom-polysaccharide-safety-toxicity]]
 - [[psk-gastric-cancer-clinical-trials]]
 - [[psp-phase-clinical-trials]]
+- [[agaricus-blazei-murill-research]] for the Agaricus blazei polysaccharide profile
+- [[turkey-tail-research-psk]] for PSK clinical evidence from Trametes versicolor
+- [[beta-glucan-receptor-binding]] for immune receptor interactions underlying efficacy
+- [[turkey-tail-trametes-versicolor]] for the source organism of PSK and PSP
+- [[beta-glucans]] for structural and functional overview of beta-glucan compounds
+- [[stamets-shiitake-and-stropharia-cultivation]] for cultivating species with therapeutic polysaccharides

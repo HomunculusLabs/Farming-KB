@@ -14,11 +14,13 @@ approximately $30 using readily available materials, this three-
 tiered plastic module with a recirculating water filter allows
 cultivators to evaluate species performance, measure contaminant
 reduction, and develop data for scaling up to full-scale
-[[mycoremediation]] installations.
+[[mycoremediation]] installations. This bench-scale approach
+connects directly to the broader science of [[stamets-mycoremediation-principles]]
+and informs [[bioaugmentation-strategies]] for contaminated sites.
 
 ## Design Philosophy
 
-Most mycoremediation projects employ some form of water
+[[stamets-mycoremediation-principles]] underpin most mycoremediation projects, which employ some form of water
 mycofiltration or enzyme harvesting system, since contaminants
 can be treated directly in water or percolated into soils. The
 simplest filtration unit uses gravity to feed water through a
@@ -36,8 +38,8 @@ commonly available components:
   filtration system, providing three separate filtration stages.
 - **Recirculating water pump**: Moves water through the system
   for repeated filtration passes during testing.
-- **Mycelial biomass**: Fully colonized substrate blocks or sawdust
-  spawn from the selected fungal species, filling each tier.
+- **Mycelial biomass**: Fully colonized substrate blocks or [[stamets-spawn-making-and-grain-culture|sawdust
+  spawn]] from the selected fungal species, filling each tier.
 - **Tubing**: For water recirculation between the collection
   reservoir and the top tier.
 - **Collection reservoir**: Catches filtered water for testing
@@ -62,14 +64,14 @@ performance.
 Fill each tier with fully colonized mycelial substrate. The
 biomass should be intact and well-consolidated to prevent
 channeling of water through gaps. Ensure the mycelium is actively
-growing, not stalled or contaminated. The fungal species selected
+growing, not stalled or contaminated. The [[white-rot-fungi]] species selected
 should match the contaminants being targeted. For general coliform
-removal, king stropharia and oyster mushrooms are effective
+removal, [[stropharia-rugosoannulata|king stropharia]] and [[stamets-pleurotus-oyster-cultivation|oyster mushrooms]] are effective
 choices.
 
 ## Enzyme Harvesting Modification
 
-The tabletop unit can be modified for enzyme harvesting by
+[[biobleaching-of-pulp-by-white-rot-fungi]] and related research demonstrates that enzymatic extraction from fungal biomass is feasible at bench scale. The tabletop unit can be modified for enzyme harvesting by
 inserting small sterile, open-ended tubing into the biomass,
 accessible from the exterior and typically positioned at an angle
 that can be capped. Solutions added through these tubes infuse
@@ -113,7 +115,7 @@ effectiveness.
 
 ## Scaling Considerations
 
-Data gathered from tabletop units directly informs full-scale
+[[bioaugmentation-strategies]] benefit from data gathered at bench scale. Data gathered from tabletop units directly informs full-scale
 design. Key parameters to record include: flow rate through the
 biomass, pressure differential, contaminant concentration before
 and after filtration, biological activity of the mycelium over
@@ -143,7 +145,9 @@ time.
 
 ## See Also
 
-- [[fungal-filter-barnyard-waste-remediation]]
-- [[enzyme-harvesting-mycorrhizal-systems]]
-- [[staycare-fungal-pellet-bioreactors-for-effluent-treatment]] principles
-- [[staycare-fungal-treatment-of-textile-industry-wastewater]] methods
+- [[stamets-mycoremediation-principles]] for the foundational science behind fungal remediation
+- [[stropharia-rugoso-annulata-mycofiltration]] for species-specific filtration applications
+- [[staycare-fungal-pellet-bioreactors-for-effluent-treatment]] for scaled reactor designs
+- [[staycare-laccase-enzymes-in-bioremediation]] for enzymatic contaminant degradation
+- [[staycare-fungal-treatment-of-textile-industry-wastewater]] for industrial treatment methods
+- [[white-rot-fungi-bioremediation]] for related white-rot degradation approaches
