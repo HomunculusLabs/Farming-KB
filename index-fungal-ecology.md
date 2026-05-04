@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2257 pages**
+**2260 pages**
 
 ## #
 
@@ -215,6 +215,7 @@
 - [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 - [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
+- [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 - [[bloomfield-basidiomycete-biology-overview]]
 - [[bloomfield-bioluminescent-fungi-overview]]
@@ -254,6 +255,7 @@
 - [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
 - [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]
+- [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
 - [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
 - [[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
@@ -270,6 +272,7 @@
 - [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
 - [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
+- [[bloomfield-stokes-law-fungal-spore-sedimentation]]
 - [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]]
 - [[bloomfield-truffle-hunting-and-culinary-fungi]]
 - [[bloomfield-turgor-pressure-and-hyphal-invasion]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1023 pages**
+**1028 pages**
 
 ## #
 
@@ -250,12 +250,14 @@
 - [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-spiritual-philosophy-farming]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]
+- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
 - [[fukuoka-textdoc-decline-quality-food]]
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
+- [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
 - [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
@@ -276,6 +278,7 @@
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
+- [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 - [[fukuoka-textdoc-liebig-law-minimum-critique]]
@@ -284,6 +287,7 @@
 - [[fukuoka-textdoc-matter-spirit-unity-food]]
 - [[fukuoka-textdoc-maze-relative-subjectivity]]
 - [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
+- [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
 - [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-textdoc-natural-form-fruit-trees]]
@@ -313,6 +317,7 @@
 - [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
+- [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]

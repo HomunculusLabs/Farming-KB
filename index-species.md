@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1263 pages**
+**1268 pages**
 
 ## #
 
@@ -251,6 +251,7 @@
 - [[bacillus-megaterium]]
 - [[bacillus-subtilis]]
 - [[bacopa-monnieri]]
+- [[bacopa-monnieri-detailed]]
 - [[baeocystin]]
 - [[baeocystin-entity]]
 - [[banisteriopsis-caapi]]
@@ -588,6 +589,7 @@
 - [[hallucinogenic-plants-new-world]]
 - [[harbhajan-singh]]
 - [[harmaline-entity-tihkal]]
+- [[harmine]]
 - [[harmine-entity-tihkal]]
 - [[hebeloma-crustuliniforme]]
 - [[heimia-salicifolia]]
@@ -979,6 +981,7 @@
 - [[pisolithus-tinctorius]]
 - [[pleuran]]
 - [[pleurotus-citrinopileatus]]
+- [[pleurotus-columbinus]]
 - [[pleurotus-cornucopiae]]
 - [[pleurotus-cystidiosus]]
 - [[pleurotus-djamor]]
@@ -1142,6 +1145,7 @@
 - [[rhizopus-stolonifer]]
 - [[rhodiola-rosea]]
 - [[rhodopseudomonas-palustris]]
+- [[ribes-nigrum]]
 - [[richard-alpert]]
 - [[richard-evans-schultes]]
 - [[richard-evans-schultes-updated]]
@@ -1157,6 +1161,7 @@
 - [[rolf-singer]]
 - [[rosmarinus-officinalis-entity]]
 - [[runtz]]
+- [[runtz-cannabis]]
 - [[russula-emetica]]
 
 ## S
