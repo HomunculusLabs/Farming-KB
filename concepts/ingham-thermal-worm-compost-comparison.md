@@ -11,8 +11,8 @@ type: concept
 
 # Thermal vs. Worm Compost Comparison
 
-Elaine Ingham's field guide provides detailed comparison of thermal
-(heat-produced) compost and worm (vermi) compost for use in
+[[elaine-ingham]]'s field guide provides detailed comparison of thermal
+(heat-produced) compost and worm ([[vermicomposting]]) compost for use in
 [[actively-aerated-compost-tea]] production. Both methods can produce excellent
 compost, but they differ in their mechanisms for pathogen
 elimination, the organism groups they best support, and their
@@ -80,7 +80,8 @@ compost has the biology you want.
 - Often contains microarthropods
 - Fungal dominance achievable by feeding worms cardboard and paper
 - The worm digestive process modifies bacterial, fungal, and
-  protozoan communities favorably
+  protozoan communities favorably. See [[earthworm-ecology]] for details on
+  worm biology and [[cotter-recycling-composting-vermicomposting-mushrooms]] for integrated systems.
 
 ### Worm Compost Weaknesses
 - Slower production than thermal composting
@@ -99,6 +100,7 @@ production:
 - Thermal compost provides pathogen-free base with good fungal
   biomass
 - Worm compost provides protozoa, nematodes, and microarthropods
+  per the [[compost-biology-organisms]] reference.
 
 A mix of good aerobic thermal compost with aerobic worm castings
 (about 50-50) is the recommended AACT starting material.

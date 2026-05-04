@@ -14,7 +14,8 @@ including lignin, cellulose, and hemicellulose. They are named for the
 bleached white appearance of wood they have colonized, resulting from the
 selective removal of brown lignin pigments. White rot fungi are the primary
 biological agents of lignin decomposition on Earth and are indispensable to
-global carbon cycling in forest ecosystems.
+global carbon cycling in forest ecosystems. Their lignin-degrading capabilities
+are detailed in [[biochemistry-of-ligninolytic-fungi-bioremediation]].
 
 ## Taxonomic Diversity
 
@@ -89,9 +90,10 @@ aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), explosives
 like TNT, synthetic dyes, pharmaceuticals, and endocrine-disrupting compounds.
 
 [[staycare-phanerochaete-chrysosporium-in-bioremediation]] has been the most studied species for
-bioremediation, but Pleurotus ostreatus and Trametes versicolor often show
+bioremediation, but Pleurotus ostreatus and [[trametes-versicolor]] often show
 superior performance in field applications due to their faster growth and
-greater environmental tolerance. Live mycelium can be deployed in contaminated
+greater environmental tolerance. The [[bioremediation-laccase-mediator-systems]] approach
+extends white rot applications to recalcitrant pollutants. Live mycelium can be deployed in contaminated
 soil as inoculated wood chips or straw, or in constructed bioreactors for
 treatment of contaminated water.
 
@@ -99,7 +101,7 @@ treatment of contaminated water.
 
 Many commercially important mushroom species are white rot fungi. Shiitake
 (Lentinula edodes), oyster mushrooms (Pleurotus spp.), enoki (Flammulina
-velutipes), and reishi (Ganoderma lucidum) all degrade lignocellulose as
+velutipes), and reishi ([[ganoderma-lucidum]]) all degrade lignocellulose as
 part of their life cycle. [[stamets-pleurotus-oyster-cultivation]] on wood-based substrates
 exploits the white rot decay machinery to convert low-value wood byproducts
 into nutritious food.

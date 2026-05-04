@@ -1,151 +1,141 @@
-     1|---
-     2|title: Withania somnifera
-     3|type: species
-     4|tags:
-     5|  - herbal-plant
-     6|  - adaptogen
-     7|  - ayurveda
-     8|  - ashwagandha
-     9|  - solanaceae
-    10|  - rasayana
-    11|date: 2026-04-28
-    12|updated: 2026-04-28
-    13|sources:
-    14|  - https://pubmed.ncbi.nlm.nih.gov/ - peer-reviewed clinical trials and pharmacological studies
-    15|  - https://www.worldfloraonline.org/ - taxonomic classification
-    16|  - Singh, N. et al. (2011). "An overview on ashwagandha." African Journal of Traditional Medicine.
-    17|  - Patel, S. et al. (2021). "Withania somnifera: A comprehensive review." Phytotherapy Research.
-    18|  - Mishra, L.C. et al. (2000). Scientific Basis for Ayurvedic Therapies. CRC Press.
-    19|---
-    20|
-    21|# Withania somnifera (Ashwagandha)
-    22|
-    23|## Overview
-    24|
-    25|**Withania somnifera**, commonly known as **ashwagandha** (Sanskrit: अश्वगंधा, meaning "smell of the horse" — referring to both its characteristic odor and the traditional belief that it imparts the vigor and strength of a stallion), is one of the most important herbs in Ayurvedic medicine. Belonging to the Solanaceae (nightshade) family, it is a small evergreen shrub native to the Indian subcontinent, the Middle East, and parts of North Africa.
-    26|
-    27|Ashwagandha is classified as a **rasayana** (rejuvenator) in the Ayurvedic pharmacopoeia and is one of the most extensively researched adaptogenic herbs in modern phytotherapy. Its root is the primary plant part used medicinally, containing a complex profile of steroidal lactones known as **withanolides**, which are responsible for the herb's broad-spectrum pharmacological activity.
-    28|
-    29|## Taxonomy and Classification
-    30|
-    31|| Rank | Classification |
-    32||------|---------------|
-    33|| Kingdom | Plantae |
-    34|| Clade | Tracheophytes |
-    35|| Clade | Angiosperms |
-    36|| Clade | Eudicots |
-    37|| Clade | Asterids |
-    38|| Order | Solanales |
-    39|| Family | Solanaceae |
-    40|| Genus | *Withania* |
-    41|| Species | *W. somnifera* |
-    42|
-    43|**Synonyms**: *Physalis somnifera*, *Withania kansuensis*, *Withania microphysalis*
-    44|
-    45|## Botanical Description
-    46|
-    47|### Growth Habit
-    48|- Perennial evergreen shrub, typically 35–75 cm tall
-    49|- Erect, branched stems covered with fine stellate hairs (tomato-like pubescence)
-    50|- Deep, extensive taproot system — roots are thick, fleshy, and tuberous, reaching 30–60 cm in length
-    51|
-    52|### Leaves
-    53|- Simple, alternate, ovate to elliptic, 5–10 cm long and 2.5–6 cm wide
-    54|- Dull green upper surface, pale green beneath
-    55|- Entire margin, acute apex, cuneate base
-    56|- Both surfaces pubescent with stellate trichomes
-    57|
-    58|### Flowers
-    59|- Small, green to yellow-green, axillary or terminal in cymose clusters
-    60|- Hermaphroditic, 5-merous
-    61|- Calyx: 5-lobed, persistent, 5–8 mm
-    62|- Corolla: Campanulate, 5-lobed, 8–12 mm diameter
-    63|- Stamens: 5, inserted at corolla base
-    64|- Ovary: Superior, 2-locular
-    65|
-    66|### Fruit and Seed
-    67|- Berry, 6–8 mm diameter, orange-red to bright red when ripe
-    68|- Enclosed in persistent, inflated calyx (calyx accrescent)
-    69|- Contains numerous small, yellow, reniform seeds
-    70|- Seeds 1.5–2 mm, flat, kidney-shaped
-    71|
-    72|## Phytochemistry
-    73|
-    74|### Withanolides (Steroidal Lactones)
-    75|The primary bioactive constituents are C28 steroidal lactones based on an ergostane skeleton:
-    76|
-    77|| Compound | Significance |
-    78||----------|-------------|
-    79|| **Withaferin A** | Most studied; anticancer, anti-inflammatory, pro-apoptotic |
-    80|| **Withanolide D** | Potent neuroprotective and anti-cancer activity |
-    81|| **Withanoside IV** | Neuroregenerative; promotes neurite outgrowth |
-    82|| **Withanoside VI** | Cognitive enhancement, memory improvement |
-    83|| **Withaferin A 27-acetate** | Immunomodulatory |
-    84|| **12-Deoxywithastramonolide** | Anti-inflammatory |
-    85|
-    86|Over 40 withanolides have been identified from *W. somnifera*, with the specific composition varying significantly by chemotype, geographic origin, and cultivation conditions.
-    87|
-    88|### Other Constituents
-    89|- **Alkaloids**: Ashwagandhine, somniferine, somnine, anferine, withanine
-    90|- **Saponins**: Sitoindosides VII–X
-    91|- **Flavonoids**: Kaempferol, quercetin derivatives
-    92|- **Tannins**: Condensed and hydrolyzable tannins
-    93|- **Phenolic acids**: Caffeic acid, chlorogenic acid, ferulic acid
-    94|- **Amino acids**: Including tryptophan precursor for serotonin synthesis
-    95|
-    96|## Pharmacological Activities
-    97|
-    98|### Adaptogenic Activity
-    99|Ashwagandha's adaptogenic properties are mediated through regulation of the **hypothalamic-pituitary-adrenal (HPA) axis**:
-   100|- Reduces cortisol levels by modulating cortisol secretion
-   101|- Normalizes dysregulated stress response
-   102|- Enhances stress tolerance without overstimulation
-   103|- Improves resilience to physical, chemical, and psychological stressors
-   104|
-   105|### Clinical Evidence Summary
-   106|
-   107|| Condition | Evidence Level | Key Findings |
-   108||-----------|---------------|-------------|
-   109|| Stress and Anxiety | Strong (multiple RCTs) | Significant reductions in Perceived Stress Scale scores; cortisol reduction of 14–23% at 300–600 mg/day over 60 days |
-   110|| Sleep Quality | Moderate–Strong | Improved sleep onset latency and quality; KSM-66 extract at 300 mg/day for 10 weeks showed significant improvement in Pittsburgh Sleep Quality Index |
-   111|| Testosterone and Male Fertility | Moderate | 5,000 mg/day root powder for 90 days increased testosterone by 15%, improved sperm quality |
-   112|| Cognitive Function | Moderate | Withanoside IV and VI show memory enhancement in animal models; limited but promising human data |
-   113|| Athletic Performance | Moderate | Improved VO₂ max, strength, and recovery; Shoden extract at 300 mg/day |
-   114|| Thyroid Function | Preliminary | T3 and T4 improvements in subclinical hypothyroid patients; caution with hyperthyroidism |
-   115|| Anti-inflammatory | Moderate | Inhibition of NF-κB pathway; reductions in CRP and inflammatory cytokines |
-   116|
-   117|## Cultivation
-   118|
-   119|### Environmental Requirements
-   120|| Parameter | Optimal Range |
-   121||-----------|--------------|
-   122|| Climate | Semi-arid to subtropical; tolerant of drought |
-   123|| Temperature | 20–35°C; can tolerate up to 40°C |
-   124|| Rainfall | 500–750 mm annual; prefers dry conditions |
-   125|| Soil type | Sandy loam to loam; well-drained |
-   126|| Soil pH | 7.0–8.5 (slightly alkaline preferred) |
-   127|| Altitude | Up to 1,500 meters |
-   128|| Photoperiod | Short-day plant for root development |
-   129|
-   130|### Propagation
-   131|- **Seed propagation**: Most common; seeds sown in nursery beds, transplanted after 30–35 days
-   132|- **Seed treatment**: Soaking in water for 24 hours improves germination (germination rate ~65–75%)
-   133|- **Root division**: Possible but less common; used for maintaining specific chemotypes
-   134|
-   135|### Growth Cycle
-   136|- **Vegetative phase**: 60–90 days
-   137|- **Flowering**: 150–180 days after sowing
-   138|- **Root harvest**: 180–240 days after sowing (6–8 months)
-   139|- **Root yield**: 200–500 kg dried roots per hectare under rainfed conditions; up to 700 kg/ha with irrigation
-   140|
-   141|### Major Cultivation Regions
-   142|- **India**: Rajasthan (largest producer), Madhya Pradesh, Punjab, Gujarat
-   143|- **Global**: Nepal, China, Yemen, Egypt, South Africa, United States (increasing cultivation)
-   144|
-   145|## Commercial Preparations and Standardization
-   146|
-   147|### Root Extracts
-   148|| Extract/Brand | Standardization | Typical Dose |
-   149||---------------|----------------|-------------|
-   150|| KSM-66® | ≥5% withanolides (by HPLC) | 300–600 mg/day |
-   151|
+---
+title: Withania somnifera
+type: species
+tags:
+  - herbal-plant
+  - adaptogen
+  - ayurveda
+  - ashwagandha
+  - solanaceae
+  - withanolides
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Singh, N. et al. (2011). "An Overview on Ashwagandha." African Journal of Traditional Medicine.
+  - Chandrasekhar, K. et al. (2012). "A Prospective, Randomized Double-Blind, Placebo-Controlled Study of Safety and Efficacy." Indian Journal of Psychological Medicine.
+  - Patel, S. et al. (2020). "Withania somnifera: A Comprehensive Review." Phytotherapy Research.
+---
+
+# Withania somnifera (Ashwagandha)
+
+## Overview
+
+Withania somnifera, commonly known as **Ashwagandha** (Sanskrit: अश्वगंधा, "smell of the horse"), is one of the most important herbs in **Ayurveda**, the traditional medicine system of India. It belongs to the nightshade family (Solanaceae) and has been used for over 3,000 years as a **rasayana** (rejuvenating tonic). The name references both the herb's characteristic horse-like aroma and the traditional belief that it imparts the vigor and strength of a stallion.
+
+## Taxonomy
+
+- **Kingdom:** Plantae
+- **Order:** Solanales
+- **Family:** Solanaceae
+- **Genus:** *Withania*
+- **Species:** *W. somnifera*
+- **Common names:** Ashwagandha, Indian ginseng, Winter cherry, Poison gooseberry, Ajagandha
+
+## Botanical Description
+
+Ashwagandha is an evergreen **shrub** growing 35–75 cm tall. The leaves are dull green, elliptic, and up to 10 cm long. The flowers are small, green, and bell-shaped, borne in axillary clusters. The fruit is an orange-red berry enclosed in an inflated, papery calyx. The root system is the primary medicinal organ — thick, fleshy, tuberous, and brownish-white on the interior.
+
+## Geographic Distribution
+
+Native to the dry regions of India, Pakistan, Sri Lanka, and North Africa. It thrives in sandy, well-drained soils at altitudes of 600–1,500 m. It is drought-tolerant and cultivated commercially across India (Rajasthan, Madhya Pradesh, Gujarat), as well as in parts of the Middle East, southern Europe, and increasingly in the United States.
+
+## Active Compounds
+
+The pharmacological activity of Ashwagandha is attributed to a diverse group of **steroidal lactones** called **withanolides**, along with alkaloids and other constituents:
+
+### Withanolides (Primary Actives)
+- **Withaferin A:** Cytotoxic, anti-inflammatory, anti-tumor; the most extensively studied withanolide
+- **Withanolide D:** Neuroprotective, anti-inflammatory, induces apoptosis in cancer cells
+- **Withanone:** Anti-cancer, stress-reducing; identified as a selective stress response modulator
+- **Withanoside IV and VI:** Neuroprotective; promote neurite outgrowth and synaptic reconstruction
+
+### Alkaloids
+- **Anaferine:** Mild sedative
+- **Anahygrine:** Cholinergic activity
+- **Cuscohygrine:** Present in roots and leaves
+- **Tropine:** Anticholinergic properties
+
+### Other Constituents
+- **Iron:** Roots contain approximately 3% iron by weight
+- **Saponins:** Immunomodulatory activity
+- **Flavonoids:** Antioxidant capacity (quercetin, kaempferol derivatives)
+
+## Traditional Uses in Ayurveda
+
+Ashwagandha occupies a central position in Ayurvedic pharmacopoeia, prescribed for:
+
+- **Bala (strength):** General debility, convalescence, and muscle weakness
+- **Vajikarna (aphrodisiac):** Low libido, male infertility, sexual dysfunction
+- **Medhya rasayana (brain tonic):** Memory enhancement, cognitive decline, learning difficulties
+- **Kshaya (wasting):** Tuberculosis, chronic illness, weight loss
+- **Nidra (sleep):** Insomnia, disturbed sleep, anxiety-related sleep disruption
+
+It is classified as a **sattvic** herb in Ayurvedic energetics, promoting clarity, calm, and grounded energy.
+
+## Modern Clinical Evidence
+
+### Stress and Cortisol Reduction
+Multiple randomized controlled trials have demonstrated Ashwagandha's ability to reduce perceived stress and lower cortisol levels. A 2012 double-blind study found that participants taking 600 mg/day of a high-concentration full-spectrum extract (KSM-66®) for 60 days showed a 30% reduction in cortisol and a 44% reduction in perceived stress scores compared to placebo.
+
+### Anxiety and Mood
+Meta-analyses consistently show significant anxiolytic effects. Ashwagandha extract (300–600 mg/day) outperforms placebo on the Hamilton Anxiety Rating Scale (HAM-A) with effect sizes comparable to standard anxiolytic medications, but with a markedly superior safety profile.
+
+### Testosterone and Male Fertility
+Several clinical trials demonstrate improvements in testosterone levels (10–22% increases), sperm quality (motility, count, morphology), and DHEA-S levels in men receiving 5–10 g/day of root powder or standardized extracts over 8–12 weeks.
+
+### Sleep Quality
+A 2019 double-blind trial using a proprietary extract (350 mg/day for 8 weeks) showed significant improvements in sleep onset latency, sleep quality, and sleep efficiency in patients with insomnia, measured by the Pittsburgh Sleep Quality Index (PSQI).
+
+### Athletic Performance
+Ashwagandha supplementation (500–600 mg/day) improves VO₂ max, muscular strength, and recovery in healthy adults. It enhances endurance, reduces exercise-induced muscle damage (lower creatine kinase levels), and may improve body composition through cortisol-mediated pathways.
+
+### Neuroprotection and Cognitive Function
+Animal models demonstrate protection against Alzheimer's-type pathology, stroke, and Parkinson's disease models. Human trials show modest improvements in reaction time, memory, and executive function, particularly in stress-impaired populations.
+
+## Adaptogenic Mechanism
+
+Ashwagandha's adaptogenic activity is mediated through several pathways:
+
+- **HPA axis regulation:** Normalizes cortisol secretion patterns and attenuates chronic stress response
+- **GABAergic modulation:** Withanolides act as positive allosteric modulators at GABA-A receptors
+- **Anti-inflammatory:** Suppresses NF-κB, COX-2, and iNOS inflammatory signaling cascades
+- **Antioxidant:** Increases superoxide dismutase (SOD), catalase, and glutathione peroxidase activity
+- **Telomere protection:** Withanone binds and stabilizes the mortalin-TP53 interaction, reducing stress-induced telomere erosion
+
+## Cultivation
+
+- **Propagation:** Seeds (direct sowing) or root cuttings; seeds germinate in 2–3 weeks
+- **Soil:** Sandy loam, pH 7.5–8.0, well-drained; intolerant of waterlogging
+- **Climate:** Arid to semi-arid; 500–750 mm annual rainfall; temperatures 20–38°C
+- **Planting:** Seeds sown 2 cm deep, 30–40 cm spacing; nursery beds for transplanting
+- **Harvest:** Roots harvested 150–180 days after sowing, typically in winter (November–January)
+- **Drying:** Roots washed, cut into small pieces, and dried at 35–40°C for 7–10 days
+- **Yield:** 200–300 kg dried root per hectare under optimal conditions
+
+## Dosage Guidelines
+
+- **Standardized root extract (5% withanolides):** 250–600 mg/day
+- **KSM-66® (2.5% withanolides):** 300–600 mg/day
+- **Sensoril® (10% withanolides):** 125–250 mg/day (more potent; lower dose)
+- **Traditional root powder:** 1,000–6,000 mg/day (divided doses)
+- **Tincture (1:5):** 2–4 mL/day
+
+Best taken with food. Effects typically accumulate over 4–8 weeks.
+
+## Safety and Precautions
+
+Ashwagandha is generally well-tolerated. Common side effects are mild and include gastrointestinal discomfort, nausea, and drowsiness. Important contraindications and precautions:
+
+- **Pregnancy and lactation:** Avoid — traditional use as an abortifacient; insufficient safety data
+- **Autoimmune conditions:** Immune-stimulating effects may exacerbate lupus, MS, rheumatoid arthritis
+- **Thyroid disorders:** Enhances thyroid hormone production; monitor T3/T4 if on thyroid medication
+- **Diabetes:** May lower blood sugar; adjust medication if co-administered
+- **Sedative interactions:** Additive effects with benzodiazepines, barbiturates, and other CNS depressants
+- **Immunosuppressants:** May reduce efficacy of immunosuppressive drugs
+
+## See Also
+
+- [[panax-ginseng]] — Another major adaptogenic root
+- [[rhodiola-rosea]] — Arctic adaptogen for stress and fatigue
+- [[adaptogens]] — Overview of adaptogenic herbs
+- [[ayurvedic-medicine]] — Traditional Indian medicine system

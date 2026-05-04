@@ -15,8 +15,10 @@ The therapeutic efficacy of cannabis depends not only on the choice of
 cannabinoids and terpenes but critically on the method of administration.
 Different routes of delivery produce dramatically different pharmacokinetic
 profiles, affecting onset time, duration of effects, bioavailability, and
-the ratio of active compounds that reach systemic circulation. In "The
-[[cannabis-health-index]]," Uwe [[uwe-blesching]] provides a comprehensive comparison
+the ratio of active compounds that reach systemic circulation. The
+[[blesching-cannabinoid-pharmacology]] page covers the underlying mechanisms.
+In "The
+[[cannabis-health-index]]," [[uwe-blesching]] provides a comprehensive comparison
 of cannabis administration methods, helping patients and clinicians select
 the most appropriate approach for specific conditions and symptom profiles.
 
@@ -52,7 +54,9 @@ Blesching provides a temperature guide for targeted extraction:
 ## Oral Ingestion (Edibles and Capsules)
 
 Oral administration delivers cannabinoids through the gastrointestinal
-tract to the liver, where they undergo first-pass metabolism:
+tract to the liver, where they undergo first-pass metabolism. See
+[[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] for how
+route of delivery affects the entourage effect:
 
 - **Onset**: 30-120 minutes, with peak effects typically at 2-3 hours
 - **Bioavailability**: 4-20%, the lowest of all administration methods due
@@ -151,6 +155,6 @@ routes:
 ## See Also
 
 - [[cannabis-health-index]] — scoring system for condition-strain matching
-- [[cannabis-dosing-guidelines]] — dosing strategies by administration route
+- [[blesching-cannabis-health-index-dosage-guidelines-medical]] — dosing strategies by administration route
 - [[cannabis-decarboxylation-chemistry]] — thermal conversion of acidic cannabinoids
 - [[tetrahydrocannabinolic-acid-thca]] — THCA pharmacology relevant to raw juice

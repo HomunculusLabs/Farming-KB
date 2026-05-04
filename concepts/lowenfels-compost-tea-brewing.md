@@ -15,12 +15,13 @@ sources:
 # Compost Tea Brewing
 
 Compost tea is a liquid extract of compost that is actively brewed to multiply
-beneficial microorganisms. In "Teaming With Microbes," Lowenfels and Lewis
+beneficial microorganisms. In "Teaming With Microbes," [[jeff-lowenfels]] and Lewis
 present compost tea as a practical tool for inoculating soil and plant surfaces
 with diverse microbial communities. Unlike passive compost extracts, actively
 aerated compost tea (AACT) is brewed with controlled aeration and food sources
 to produce a concentrated suspension of bacteria, fungi, protozoa, and
-nematodes that can be applied as a soil drench or foliar spray.
+nematodes that can be applied as a soil drench or foliar spray. The [[fungal-soil-food-web]]
+provides the ecological context for how these organisms interact once applied.
 
 ## Actively Aerated Compost Tea (AACT)
 
@@ -54,7 +55,8 @@ A basic AACT setup requires several components:
 - **Food sources:** To fuel microbial reproduction during the brew. Common
   food sources include unsulfured molasses (feeds bacteria), fish hydrolysate
   (feeds both bacteria and fungi), kelp meal (provides micronutrients and
-  microbial stimulants), and humic acids.
+  microbial stimulants), and humic acids. See [[aact-brewing-ingredients-ingham]] for
+  a comprehensive ingredient reference.
 
 The compost is placed in a mesh bag or basket suspended in the water. Food
 sources are dissolved in the water, and aeration begins. Temperature should
@@ -112,7 +114,8 @@ Compost tea suppresses plant diseases through several mechanisms:
   the plant's immune system, making it more resistant to subsequent pathogen
   attack.
 - **Enzyme activity:** Microbial enzymes in tea can degrade pathogen
-  structures directly.
+  structures directly. The [[bacterial-vs-fungal-compost-teas]] guide explains
+  how to tailor brew composition for different microbial balances.
 
 ## Quality Control and Testing
 
