@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2245 pages**
+**2249 pages**
 
 ## #
 
@@ -217,6 +217,7 @@
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
 - [[bloomfield-basidiomycete-biology-overview]]
 - [[bloomfield-bioluminescent-fungi-overview]]
+- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
 - [[bloomfield-buller-experimental-mycology]]
 - [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
 - [[bloomfield-chytrid-fungi-early-fungal-evolution]]
@@ -228,6 +229,7 @@
 - [[bloomfield-dermatophytes-ringworm-malassezia-skin-mycoses]]
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
+- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
 - [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[bloomfield-fungal-enzymatic-wood-decay-cellulose-lignin-brown-rot]]
@@ -244,10 +246,12 @@
 - [[bloomfield-fungi-in-folklore-and-mythology]]
 - [[bloomfield-gasteromycetes-puffballs-earthstars]]
 - [[bloomfield-gasteromycetes-puffballs-earthstars-false-truffles-evolution]]
+- [[bloomfield-gymnosporangium-cedar-apple-rust-hawthorn-teleospores]]
 - [[bloomfield-history-of-mycology-pioneers]]
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
 - [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
+- [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]
 - [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]

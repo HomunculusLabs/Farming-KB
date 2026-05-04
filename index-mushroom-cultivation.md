@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1254 pages**
+**1255 pages**
 
 ## #
 
@@ -64,6 +64,7 @@
 - [[biofertilizers-and-soil-inoculants]]
 - [[biological-efficiency-mushroom-cultivation]]
 - [[blesching-cannabis-strain-selection-receptor-targeting]]
+- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
 - [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 - [[bloomfield-mushroom-poisons-and-toxidromes]]
