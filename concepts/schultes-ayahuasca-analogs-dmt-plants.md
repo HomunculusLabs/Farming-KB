@@ -19,6 +19,7 @@ MAO inhibitor and a DMT supplier.
 ## The Pharmacological Principle
 
 The drink made from Ayahuasca is a unique pharmacological combination
+central to [[ayahuasca-pharmacology]], made from
 of *[[banisteriopsis-caapi]]*, a liana that contains harmaline, and
 Chacruna (*[[psychotria-viridis]]*) leaves, which contain DMT. Harmaline
 is an MAO inhibitor; it reduces the body's production and distribution
@@ -35,7 +36,7 @@ preparations and their analogs include:
 
 - *Banisteriopsis caapi* and *B. inebrians*: contain harmine,
   tetrahydroharmine, dihydroharmaline, harmane, isoharmine, and
-  other beta-carboline alkaloids.
+  other [[beta-carboline-alkaloids]].
 
 - *[[peganum-harmala]]* (Syrian Rue): contains harmine, harmaline,
   tetrahydroharmine, harmane, and related compounds. See
@@ -52,7 +53,7 @@ preparations and their analogs include:
 
 ## DMT-Containing Plants for Analog Preparations
 
-A wide variety of plants contain DMT (N,N-dimethyltryptamine) or its
+A wide variety of plants contain DMT (N,N-dimethyltryptamine), a [[tryptamine]], or its
 methoxylated derivatives. The principal suppliers include:
 
 **Leguminosae (Fabaceae):**
@@ -129,6 +130,10 @@ peoples of the Amazon that anticipated modern biochemical research
 by centuries or millennia.
 
 ## See Also
+
+[[ayahuasca-pharmacology]] provides a detailed overview of the biochemistry behind Ayahuasca.
+[[beta-carboline-alkaloids]] covers the MAO-inhibiting compounds essential to the brew.
+[[tryptamine-family-overview]] describes the class of compounds that includes DMT.
 
 - [[schultes-ayahuasca-analogs-dmt-plants]]
 

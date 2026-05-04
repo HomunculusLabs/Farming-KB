@@ -50,11 +50,11 @@ In a bushfire, heat from burning preheats green vegetation, making it more readi
 ## Key Points
 
 1. This principle from David Holmgren's permaculture framework highlights how thoughtful design can create self-sustaining systems.
-2. The principle connects directly to broader permaculture ethics: earth care, people care, and fair share.
+2. The principle connects directly to broader [[permaculture-ethics]]: earth care, people care, and fair share.
 3. Applying this principle requires careful observation of natural patterns before implementing design changes.
 4. Energy cycling and resource conservation are core themes embedded in this design principle.
 5. The principle encourages designers to think in terms of systems and relationships rather than isolated elements.
-6. Small, slow solutions are preferred over large-scale interventions — this principle embodies that approach.
+6. [[use-small-and-slow-solutions]] are preferred over large-scale interventions — this principle embodies that approach.
 7. Integration rather than segregation of elements increases system efficiency and resilience.
 8. Edge effects and marginal spaces often hold the greatest potential when this principle is properly applied.
 9. The principle supports the broader goal of reducing dependence on non-renewable resources and external inputs.
@@ -81,6 +81,8 @@ Related topics in this wiki include: [[permaculture-principles]], [[permaculture
 
 David Holmgren co-founded permaculture with Bill Mollison in the 1970s and continues to develop the framework.
 The twelve permaculture design principles form an interconnected system — each principle supports and reinforces the others.
-Energy descent planning addresses the transition from fossil fuel dependence to resilient, low-energy systems.
+[[permaculture-ethics]] form the moral foundation of the design framework.
+[[succession-in-permaculture]] describes how systems evolve over time — directly relevant to obtaining sustained yields.
+[[permaculture-energy-descent-planning]] addresses the transition from fossil fuel dependence to resilient, low-energy systems.
 Permaculture design is best understood as a thinking tool rather than a fixed set of techniques.
 These principles have been applied to urban planning, economics, education, and community governance.

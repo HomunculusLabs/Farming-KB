@@ -11,7 +11,8 @@ sources:
 
 Fukuoka extends his critique of scientific agriculture to livestock farming,
 framing the difference between scientific and natural approaches as a
-fundamental philosophical divide between conditional and unconditional truth.
+fundamental philosophical divide between conditional and unconditional truth,
+closely tied to [[permaculture-ethics]] and [[natural-farm-permaculture-ethics-principles]].
 This builds upon his broader [[fukuoka-critique-modern-livestock]].
 
 ## Conditional vs. Unconditional Truth
@@ -93,7 +94,8 @@ it has been transplanted and pruned, or suddenly letting a calf out to
 pasture after raising it on formula milk. Crops and domestic animals are no
 longer things of nature and so it is already close to impossible to attain
 true Mahayana natural farming. But at least we can try reaching for Hinayana
-natural farming, which approaches closest to nature.
+natural farming, which approaches closest to nature. This aligns with [[apply-self-regulation-permaculture-principle]]
+and the broader [[fukuoka-philosophy-of-non-intervention]].
 
 ## Experiments Free of Conditions
 
@@ -125,6 +127,10 @@ make their starting point the raising of healthy animals that do not contract
 diseases in the first place.
 
 ## See Also
+
+[[fukuoka-natural-livestock-farming]] describes Fukuoka's approach to raising animals in nature.
+[[fukuoka-critique-modern-livestock]] lays out his argument against scientific livestock methods.
+[[natural-farm-permaculture-ethics-principles]] bridges Fukuoka's philosophy with permaculture ethics.
 
 - [[fukuoka-natural-livestock-farming]]
 - [[fukuoka-critique-modern-livestock]]

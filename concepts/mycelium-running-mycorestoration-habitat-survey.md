@@ -117,9 +117,9 @@ The choice of species depends on the specific restoration context:
   filtering surface water
 - **Soil building**: Saprophytes that break down woody debris and build soil
   organic matter
-- **Plant partnerships**: Mycorrhizal species that associate with target plant
+- **Plant partnerships**: [[arbuscular-mycorrhizal-fungi]] that associate with target plant
   communities
-- **Toxin degradation**: White rot fungi for organic pollutants, specific
+- **Toxin degradation**: [[white-rot-fungi]] for organic pollutants, specific
   species for heavy metals
 - **Pest control**: Entomopathogenic fungi for insect pest management
 
@@ -135,13 +135,17 @@ environments that continue to expand as mycelium creates soil.
 ## Long-Term Vision
 
 Mycorestoration represents a new paradigm borrowed from nature's age-old
-methods. By learning from natural recovery patterns and accelerating them through
+methods. See [[mycorestoration-principles]] for foundational concepts. By learning from natural recovery patterns and accelerating them through
 thoughtful species selection, mycologists can design landscapes for both human
 and natural benefit. The goal is to work within natural succession patterns,
 using fungi as keystone organisms that enable entire ecological communities to
 recover and thrive.
 
 ## See Also
+
+[[mycoremediation-stamets-approach]] provides Stamets' comprehensive framework for fungal remediation.
+[[mycorestoration-principles]] covers the foundational concepts of using fungi for ecological recovery.
+[[mycelium-running-filtering-water-with-fungi]] details the water filtration applications.
 
 - [[mycoremediation-stamets-approach]]
 - [[mycelium-running-filtering-water-with-fungi]]

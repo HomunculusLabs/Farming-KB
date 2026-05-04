@@ -49,8 +49,8 @@ local signals experienced at the microscopic level as gradients:
 nutrients, oxygen, carbon dioxide, pH, chemical signals, mechanical
 stimuli, and osmotic conditions. Third, biotic signals from other
 organisms including chemicals that promote or inhibit growth, compounds
-modulating secondary metabolism, and host-derived cues for invasion.
-Fourth, autoregulatory signals produced by the fungus itself.
+modulating secondary metabolism, and host-derived cues for invasion — a topic explored in [[symbiotic-fungi-endophytic-fungi-in-plants]] and [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]].
+Fourth, autoregulatory signals produced by the fungus itself, including [[fungal-quorum-sensing-autoregulation]] mechanisms.
 
 ## Autoregulatory Signals
 
@@ -72,7 +72,7 @@ fungus, revealed a signal transduction apparatus of remarkable
 complexity. Compared with Saccharomyces cerevisiae, Neurospora possesses
 expanded upstream sensory proteins with conserved downstream components,
 suggesting extensive networking and novel signaling interactions not
-found in yeasts.
+found in yeasts — a theme also relevant to [[trichoderma]] biology.
 
 ### Two-Component Signaling
 
@@ -126,6 +126,10 @@ networks in fungi rival those of higher eukaryotes in their
 complexity and integration capacity.
 
 ## See Also
+
+[[fungal-ecology]] provides context for how environmental sensing shapes fungal communities.
+[[hyphal-growth-kinetics]] describes the biomechanics underlying hyphal tip growth.
+[[fungal-quorum-sensing-autoregulation]] explores how fungi coordinate colony-wide behavior.
 
 - [[hyphal-growth-kinetics]]
 - [[growing-gourmet-mycelial-morphology-classification-agar-media]]
