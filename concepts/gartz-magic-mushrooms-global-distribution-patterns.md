@@ -97,3 +97,11 @@ formal description.
 - [[gartz-magic-mushrooms-species-south-america]]
 - [[gartz-magic-mushrooms-species-asia-and-oceania]]
 - [[gartz-magic-mushrooms-species-africa]]
+
+## Related Topics
+
+[[gartz-european-psychoactive-mushroom-species]] provides detailed profiles of psychoactive species found across Europe.
+[[gartz-global-psilocybin-mushroom-distribution]] offers a complementary view of worldwide psilocybin mushroom distribution.
+[[gartz-mushroom-cultivation-classic-and-new-techniques]] covers both traditional and modern methods for cultivating psychoactive mushrooms.
+[[gartz-psilocybin-potency-and-alkaloid-variations]] examines how alkaloid content varies across species and growing conditions.
+[[gartz-wasson-mexican-mushroom-cult-rediscovery]] tells the story of how Western mycology rediscovered the ceremonial use of psychoactive mushrooms in Mexico.

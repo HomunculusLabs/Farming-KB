@@ -131,3 +131,10 @@ vendors, creating a legal gray area.
 - Chao, J.M. & Der Marderosian, A.H. (1973). J Pharm Sci, 62, 588-591.
 - Borsutzky, M. et al. (2002). Nervenarzt, 73, 892-896.
 - Petroski, R.J. et al. (1992). Nat Toxins, 1, 84-88.
+
+## Related Topics
+
+[[hallucinogenic-plants-native-to-united-states]] surveys psychoactive flora found growing wild in the US, including several ergoline-containing species.
+[[psilocybin-containing-mushrooms-in-us]] covers the other major class of naturally occurring hallucinogenic organisms in the United States.
+[[entities/ergine-lsa]] provides the detailed entity profile for the ergine molecule itself.
+[[entities/lsd]] covers the synthetic derivative to which LSA is most closely compared.

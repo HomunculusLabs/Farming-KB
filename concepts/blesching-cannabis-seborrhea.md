@@ -134,3 +134,10 @@ mechanisms involved in each condition allows for targeted approaches:
 See also: [[blesching-cannabis-dermatological-conditions]],
 [[blesching-cannabis-skin-diseases]],
 [[blesching-cannabis-inflammation]]
+
+## Further Reading
+
+[[blesching-cannabis-acne]] explores the closely related CB2/sebum mechanism.
+[[blesching-cannabis-eczema-dermatitis]] covers the immune/inflammatory skin pathway.
+[[blesching-cannabis-psoriasis]] addresses keratinocyte proliferation in dermatological conditions.
+[[blesching-cannabis-inflammation]] provides broader context on cannabis-mediated anti-inflammatory effects.

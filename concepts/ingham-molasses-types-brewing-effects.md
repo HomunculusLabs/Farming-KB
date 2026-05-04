@@ -147,3 +147,11 @@ synergistically with the more complex sugars in blackstrap molasses.
 Kelp adds trace minerals and natural growth regulators. The
 combination creates a more balanced food package that supports a
 wider diversity of organisms than any single food source alone.
+
+## Related Topics
+
+[[ingham-bacterial-fungal-succession]] explains the broader dynamics of how bacterial and fungal communities shift in soil and compost systems.
+[[ingham-anaerobic-vs-aerobic-compost-tea]] covers the critical distinction between aerobic and anaerobic tea brewing methods.
+[[ingham-aact-field-guide-index]] serves as the master index for the entire Ingham compost tea field guide series.
+[[aact-brewing-ingredients-ingham]] details the full range of approved and discouraged ingredients for compost tea brewing.
+[[aact-pathogen-safety-ingham]] addresses food safety considerations when using compost tea on food crops.
