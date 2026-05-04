@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**995 pages**
+**998 pages**
 
 ## #
 
@@ -272,6 +272,7 @@
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 - [[fukuoka-textdoc-liebig-law-minimum-critique]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
+- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[fukuoka-textdoc-maze-relative-subjectivity]]
 - [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
 - [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
@@ -293,12 +294,14 @@
 - [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
+- [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
 - [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
+- [[fukuoka-textdoc-sericulture-natural-vs-scientific-silk-production]]
 - [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]

@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2239 pages**
+**2245 pages**
 
 ## #
 
@@ -269,8 +269,13 @@
 - [[bloomfield-yeast-saccharomyces-fungal-pathogens]]
 - [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]
 - [[bloomfields-orchard-fungal-biology-and-ecology]]
+- [[bloomfields-orchard-fungal-pathogens-and-human-disease]]
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
 - [[bloomfields-orchard-history-of-mycology]]
+- [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
 - [[bloomfields-orchard-mushroom-hunting-and-identification]]
+- [[bloomfields-orchard-notable-mycologists-buller-and-lloyd]]
+- [[bloomfields-orchard-spore-discharge-mechanisms]]
 - [[bolete-fungi-appalachian-region]]
 - [[brassinosteroid-agar-mycelial-growth-acceleration]]
 - [[brassinosteroid-effects-on-fungal-morphology]]
@@ -546,6 +551,7 @@
 - [[fukuoka-pine-blight-matsutake-portent]]
 - [[fukuoka-pine-blight-matsutake-research]]
 - [[fukuoka-straw-decomposition-microbial-succession]]
+- [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]
 - [[fukuoka-textdoc-microbes-as-scavengers-decomposition-drama]]
 - [[functional-genomics-arbuscular-mycorrhiza]]
 - [[functional-redundancy-fungal-communities]]
