@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1038 pages**
+**1043 pages**
 
 ## #
 
@@ -584,19 +584,23 @@
 - [[mckenna-four-families-of-indole-hallucinogens]]
 - [[mckenna-four-stages-abandoning-mystery]]
 - [[mckenna-genesis-first-drug-bust]]
+- [[mckenna-hashish-scythians-and-classical-cannabis]]
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[mckenna-human-cognition-and-the-stoned-age]]
 - [[mckenna-huxley-mind-at-large-reducing-valve]]
 - [[mckenna-hyperspace-and-human-freedom]]
 - [[mckenna-inquisition-suppression-of-plant-knowledge]]
+- [[mckenna-invention-of-lsd-and-psychedelic-sixties]]
 - [[mckenna-jaynes-bicameral-mind-breakdown]]
 - [[mckenna-language-and-reality]]
+- [[mckenna-legalization-debate-and-archaic-revival]]
 - [[mckenna-lumsden-wilson-gene-culture-coevolution]]
 - [[mckenna-maya-tobacco-shamanism-enemas]]
 - [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-nostalgia-for-paradise]]
 - [[mckenna-octopus-intelligence-and-archaic-mind]]
+- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
 - [[mckenna-opium-history-demeter-poppy]]
 - [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[mckenna-opium-wars-and-drug-diplomacy]]
@@ -614,6 +618,7 @@
 - [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[mckenna-techniques-of-ecstasy]]
+- [[mckenna-television-as-hidden-persuader]]
 - [[mckenna-television-dominator-drug]]
 - [[mckenna-transcendent-other-and-exopheromones]]
 - [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]

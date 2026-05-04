@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2260 pages**
+**2265 pages**
 
 ## #
 
@@ -1443,6 +1443,11 @@
 - [[monitoring-and-assessment-of-fungal-bioremediation]]
 - [[monotropoid-mycorrhiza]]
 - [[morel-mushroom-guide]]
+- [[mr-bloomfields-ah-reginald-buller-and-experimental-mycology]]
+- [[mr-bloomfields-cordyceps-and-entomopathogenic-fungi]]
+- [[mr-bloomfields-fungal-hyphal-biology-and-mycelial-networks]]
+- [[mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling]]
+- [[mr-bloomfields-stinkhorn-fungi-and-insect-spore-dispersal]]
 - [[mucormycosis-zygomycete-infections]]
 - [[muscimol-and-amanita-muscaria]]
 - [[mushroom-classification-basidiomycete-families]]

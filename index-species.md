@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1283 pages**
+**1288 pages**
 
 ## #
 
@@ -366,6 +366,7 @@
 - [[copelandia-cyanescens]]
 - [[copelandia-mexicana]]
 - [[copelandia-tropicalis]]
+- [[coprinopsis-atramentaria]]
 - [[coprinus-atramentaria]]
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[coprinus-comatus]]
@@ -595,6 +596,7 @@
 
 - [[hallucinogenic-plants-new-world]]
 - [[harbhajan-singh]]
+- [[harmaline]]
 - [[harmaline-entity-tihkal]]
 - [[harmine]]
 - [[harmine-entity-tihkal]]
@@ -824,6 +826,7 @@
 - [[melissa-officinalis]]
 - [[mem-entity]]
 - [[mem-entity-pihkal]]
+- [[mentha-piperita]]
 - [[mentha-pulegium]]
 - [[mepea-entity]]
 - [[mepea-entity-pihkal]]
@@ -1134,6 +1137,7 @@
 - [[psim-enzyme]]
 - [[psk-polysaccharide-krestin]]
 - [[psychotria-viridis]]
+- [[purple-haze]]
 - [[purple-haze-cannabis]]
 - [[purple-punch]]
 - [[pyr-t-entity-tihkal]]
@@ -1360,6 +1364,7 @@
 
 ## Y
 
+- [[yarrow]]
 - [[youngsang-cho]]
 
 ## Z
