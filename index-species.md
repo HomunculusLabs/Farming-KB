@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1367 pages**
+**1377 pages**
 
 ## #
 
@@ -98,6 +98,7 @@
 - [[4-5-mdo-dmt-entity-tihkal]]
 - [[4-acetoxy-nn-dimethyltryptamine]]
 - [[4-aco-dmt]]
+- [[4-aco-met]]
 - [[4-br-3-5-dma-entity]]
 - [[4-br-3-5-dma-entity-pihkal]]
 - [[4-d-entity]]
@@ -205,6 +206,7 @@
 - [[alpha-n-dmt-entity-tihkal]]
 - [[alpha-n-o-tms-entity-tihkal]]
 - [[alternaria-alternata]]
+- [[althaea-officinalis]]
 - [[amanita-bisporigera]]
 - [[amanita-caesarea]]
 - [[amanita-gemmata]]
@@ -338,6 +340,7 @@
 - [[cannabis-ruderalis]]
 - [[cannabis-sativa]]
 - [[cantharellus-cibarius]]
+- [[cantharellus-lateritius]]
 - [[caragana-arborescens]]
 - [[caryophyllene-oxide]]
 - [[castanea-sativa]]
@@ -367,6 +370,7 @@
 - [[claviceps-purpurea]]
 - [[cleve-backster]]
 - [[clitocybe-odora]]
+- [[clitoria-ternatea]]
 - [[clonostachys-rosea]]
 - [[coccidioides-immitis]]
 - [[coleus-blumei]]
@@ -408,6 +412,7 @@
 - [[cryptococcus-neoformans]]
 - [[curcuma-longa]]
 - [[cylindrocarpon-destructans]]
+- [[cymbopogon-citratus]]
 
 ## D
 
@@ -887,6 +892,7 @@
 - [[meta-dob-entity-pihkal]]
 - [[meta-dot-entity-pihkal]]
 - [[metarhizium]]
+- [[methoxetamine]]
 - [[methyl-dma-entity-pihkal]]
 - [[methyl-dob-entity-pihkal]]
 - [[methyl-j-entity]]
@@ -1053,6 +1059,7 @@
 - [[pisolithus-arhizus]]
 - [[pisolithus-tinctorius]]
 - [[pistacia-vera-entity]]
+- [[plantago-major]]
 - [[pleuran]]
 - [[pleurotus-citrinopileatus]]
 - [[pleurotus-columbinus]]
@@ -1287,6 +1294,7 @@
 - [[sparassis-crispa]]
 - [[sphaerobolus-stellatus]]
 - [[sphaerotheca-fuliginea]]
+- [[spilanthes-acmella]]
 - [[sporidesmium-sclerotivorum]]
 - [[stachybotrys-chartarum]]
 - [[stamets-patents]]
@@ -1295,6 +1303,7 @@
 - [[steve-solomon]]
 - [[steven-pollock]]
 - [[stigmasterol]]
+- [[strawberry-cough]]
 - [[streptomyces]]
 - [[streptomyces-griseus]]
 - [[stropharia-caerulea]]
@@ -1309,6 +1318,7 @@
 - [[sun-ra]]
 - [[super-lemon-haze]]
 - [[super-silver-haze]]
+- [[sutherlandia-frutescens]]
 - [[swale]]
 - [[symphytum-officinale]]
 

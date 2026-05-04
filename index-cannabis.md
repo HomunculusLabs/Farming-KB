@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**925 pages**
+**927 pages**
 
 ## A
 
@@ -595,6 +595,7 @@
 - [[cannabis-zinc-nutrient]]
 - [[carbon-filter-cannabis]]
 - [[cbd-to-thc-isomerization-chemistry]]
+- [[cellvibrio-post-harvest-root-decay-cannabis]]
 - [[cervantes-15-bag-water-hash-extraction]]
 - [[cervantes-air-quality-ventilation]]
 - [[cervantes-aphids-identification-control]]
@@ -908,6 +909,7 @@
 - [[marijuana-strain-guide-hybrid]]
 - [[marijuana-strain-guide-indica]]
 - [[marijuana-strain-guide-sativa]]
+- [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[modern-farm-cannabis-living-soil-vs-hydroponic-debate]]
 - [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]]
 - [[mother-plant-cannabis]]

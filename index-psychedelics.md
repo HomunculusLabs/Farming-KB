@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1127 pages**
+**1129 pages**
 
 ## #
 
@@ -618,6 +618,7 @@
 - [[mckenna-eleusinian-mysteries]]
 - [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
+- [[mckenna-exteriorization-soul-translinguistic-matter]]
 - [[mckenna-fall-of-partnership-society]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 - [[mckenna-food-gods-archaic-revival]]
@@ -740,6 +741,7 @@
 - [[metzner-mdma-assisted-therapy-research]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[metzner-shamanic-healing-divination-worldview]]
+- [[metzner-spirit-beings-multiple-realities-entheogens]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies-community-ritual]]
 - [[microdosing-guide]]
