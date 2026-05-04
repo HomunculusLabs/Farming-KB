@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**984 pages**
+**989 pages**
 
 ## #
 
@@ -481,6 +481,7 @@
 - [[maya-entheogens]]
 - [[mckenna-abandonment-of-the-mystery]]
 - [[mckenna-agriculture-and-the-fall-from-paradise]]
+- [[mckenna-alcohol-alchemy-spirit]]
 - [[mckenna-alcohol-and-the-alchemy-of-spirit]]
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
@@ -490,6 +491,7 @@
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
 - [[mckenna-brothers-la-chorrera-experiment-1971]]
 - [[mckenna-cannabis-culture-history]]
+- [[mckenna-cannabis-dreaming-weavers]]
 - [[mckenna-catal-huyuk-natufian-link]]
 - [[mckenna-catalytic-psychedelics-and-culture]]
 - [[mckenna-catalyzing-consciousness-and-language]]
@@ -497,6 +499,7 @@
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-diet-symbiosis-human-evolution]]
 - [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
+- [[mckenna-dionysus-dying-god-archetype]]
 - [[mckenna-dioscorea-population-reproduction-effects]]
 - [[mckenna-discovery-and-impact-of-lsd]]
 - [[mckenna-dissolution-of-the-dominator-culture]]
@@ -541,6 +544,7 @@
 - [[mckenna-language-and-reality]]
 - [[mckenna-lumsden-wilson-gene-culture-coevolution]]
 - [[mckenna-maya-tobacco-shamanism-enemas]]
+- [[mckenna-minoan-crete-eleusinian-mysteries]]
 - [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-nostalgia-for-paradise]]
 - [[mckenna-octopus-intelligence-and-archaic-mind]]
@@ -557,6 +561,7 @@
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
 - [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-sugar-slavery-and-dominance]]
+- [[mckenna-sugar-spice-mercantilism]]
 - [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[mckenna-techniques-of-ecstasy]]

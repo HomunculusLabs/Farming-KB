@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2230 pages**
+**2235 pages**
 
 ## #
 
@@ -121,6 +121,7 @@
 - [[bacterial-vs-fungal-compost-teas]]
 - [[bacterial-vs-fungal-soil]]
 - [[bacterial-vs-fungal-soil-dynamics]]
+- [[ballistospore-discharge]]
 - [[ballistospore-discharge-mechanism-mushrooms]]
 - [[banyan-tree-bacterial-endophytes-isolation-visualization]]
 - [[bark-beetle-fungi-ophiostomatales-collection-isolation]]
@@ -835,6 +836,7 @@
 - [[fungal-ligninolytic-enzymes-in-industrial-applications]]
 - [[fungal-lignocellulose-degradation-mechanisms]]
 - [[fungal-manganese-peroxidase-remediation]]
+- [[fungal-melanin]]
 - [[fungal-melanin-in-ecology-and-stress-protection]]
 - [[fungal-melanoidin-degradation]]
 - [[fungal-metabolism-of-pahs]]
@@ -908,6 +910,7 @@
 - [[fungal-petroleum-hydrocarbon-degradation-mechanisms]]
 - [[fungal-ph-tolerance]]
 - [[fungal-pheromones-and-sexual-signaling]]
+- [[fungal-pheromones-sexual-reproduction]]
 - [[fungal-phylogeny-kingdom-classification]]
 - [[fungal-phylogeny-microsporidia-slime-molds]]
 - [[fungal-phylogeny-systematics]]
@@ -1158,6 +1161,7 @@
 - [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
 - [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
 - [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]
+- [[gasteromycete-fungi]]
 - [[gasteromycete-fungi-overview]]
 - [[gasteromycetes-sacred-fungi]]
 - [[genetic-engineering-fungal-bioremediation]]
@@ -1260,6 +1264,7 @@
 - [[ingham-single-species-vs-whole-community]]
 - [[ingham-sticker-spreader-surfactants]]
 - [[ingham-trichoderma-biocontrol-fungi-aact]]
+- [[ingoldian-aquatic-fungi]]
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
 - [[inocybe-aeruginascens-profile]]
 - [[insect-arthropod-associated-fungi]]

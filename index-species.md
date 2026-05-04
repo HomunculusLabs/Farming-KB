@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1214 pages**
+**1218 pages**
 
 ## #
 
@@ -390,6 +390,7 @@
 - [[desoxy-entity]]
 - [[desoxy-entity-pihkal]]
 - [[det-entity-tihkal]]
+- [[dextromethorphan]]
 - [[dimethyltryptamine]]
 - [[dimethyltryptamine-n-oxide]]
 - [[diplopterys-cabrerana]]
@@ -744,6 +745,7 @@
 - [[maria-sabina]]
 - [[masanobu-fukuoka]]
 - [[master-cho]]
+- [[matricaria-chamomilla]]
 - [[max-winston]]
 - [[mazatec-people]]
 - [[mbdb-entity]]
@@ -1184,6 +1186,7 @@
 - [[tabernanthe-iboga]]
 - [[talaromyces-flavus]]
 - [[tamarillo]]
+- [[taraxacum-officinale]]
 - [[tb-entity]]
 - [[tb-entity-pihkal]]
 - [[te-entity]]
@@ -1281,6 +1284,7 @@
 - [[walter-pahnke]]
 - [[walter-stoll]]
 - [[wayne-lewis]]
+- [[wedding-cake]]
 - [[white-widow]]
 - [[william-falconer]]
 - [[william-ozier-williams]]
