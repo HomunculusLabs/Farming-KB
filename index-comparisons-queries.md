@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**897 pages**
+**901 pages**
 
 ## A
 
@@ -284,6 +284,7 @@
 - [[comparison-organic-vs-chemical-amendments]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
 - [[comparison-oyster-vs-wine-cap-cultivation]]
+- [[comparison-papercrete-vs-cob-construction]]
 - [[comparison-passive-solar-vs-earth-sheltered]]
 - [[comparison-pasteurization-vs-sterilization]]
 - [[comparison-pasture-vs-silvopasture]]
@@ -370,6 +371,7 @@
 - [[comparison-tissue-culture-vs-seed-saving]]
 - [[comparison-tissue-culture-vs-wild-isolation]]
 - [[comparison-tomato-vs-pepper-growing]]
+- [[comparison-top-bar-hive-vs-warre-hive]]
 - [[comparison-topping-vs-fimming]]
 - [[comparison-topping-vs-supercropping]]
 - [[comparison-topping-vs-supercropping-cannabis]]
@@ -615,6 +617,7 @@
 - [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]
 - [[query-how-does-one-carbon-metabolism-affect-methylation]]
+- [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]]
 - [[query-how-does-rock-dust-improve-soil-fertility]]
 - [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
 - [[query-how-does-vermicomposting-work]]
@@ -645,6 +648,7 @@
 - [[query-how-to-design-a-food-forest-on-a-slope]]
 - [[query-how-to-design-a-permaculture-property-from-scratch]]
 - [[query-how-to-design-a-pollinator-garden]]
+- [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]
 - [[query-how-to-fix-boron-deficiency-in-cannabis]]
 - [[query-how-to-fix-copper-deficiency-in-cannabis]]
 - [[query-how-to-fix-magnesium-deficiency-in-cannabis]]

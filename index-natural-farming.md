@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**836 pages**
+**838 pages**
 
 ## A
 
@@ -155,6 +155,7 @@
 - [[fukuoka-duck-rice-fish-symbiosis]]
 - [[fukuoka-early-farming-experiments]]
 - [[fukuoka-ecological-balance-principles]]
+- [[fukuoka-energy-productivity-and-the-mechanization-trap]]
 - [[fukuoka-errors-human-intellect]]
 - [[fukuoka-european-agriculture-observations]]
 - [[fukuoka-european-civilization-standstill]]
@@ -197,6 +198,7 @@
 - [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
 - [[fukuoka-ignorant-medicine-hospital-collapse]]
 - [[fukuoka-illusions-of-scientific-farming]]
+- [[fukuoka-incomprehensibility-and-inviolability-of-nature]]
 - [[fukuoka-indian-agriculture-observations]]
 - [[fukuoka-innocence-of-children]]
 - [[fukuoka-insects-create-new-rice-varieties]]

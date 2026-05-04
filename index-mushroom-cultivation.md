@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1283 pages**
+**1284 pages**
 
 ## #
 
@@ -220,6 +220,7 @@
 - [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
+- [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 - [[emcdda-hallucinogenic-mushroom-eu-legislation-timeline-2001-2006]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]

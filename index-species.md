@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1396 pages**
+**1401 pages**
 
 ## #
 
@@ -98,6 +98,7 @@
 - [[4-5-mdo-dipt-entity-tihkal]]
 - [[4-5-mdo-dmt-entity-tihkal]]
 - [[4-acetoxy-nn-dimethyltryptamine]]
+- [[4-aco-det-entity]]
 - [[4-aco-dmt]]
 - [[4-aco-met]]
 - [[4-br-3-5-dma-entity]]
@@ -260,6 +261,7 @@
 - [[atropa-belladonna]]
 - [[aureobasidium-pullulans]]
 - [[auricularia-auricula]]
+- [[auricularia-auricula-judae-entity]]
 - [[auricularia-polytricha]]
 - [[azadirachta-indica]]
 - [[azotobacter-chroococcum]]
@@ -359,6 +361,7 @@
 - [[chaetomium-globosum]]
 - [[chamaecytisus-palmensis]]
 - [[chemdawg]]
+- [[chemdawg-entity]]
 - [[chenopodium-album]]
 - [[chestnut-entity]]
 - [[chinampas]]
@@ -1265,6 +1268,7 @@
 - [[rolf-singer]]
 - [[rosmarinus-officinalis-entity]]
 - [[rubus-idaeus-entity]]
+- [[rumex-obtusifolius-entity]]
 - [[runtz]]
 - [[runtz-cannabis]]
 - [[russula-emetica]]
@@ -1344,6 +1348,7 @@
 - [[ta-entity-pihkal]]
 - [[tabernanthe-iboga]]
 - [[tagasaste]]
+- [[tagetes-erecta-entity]]
 - [[tagetes-lucida]]
 - [[talaromyces-flavus]]
 - [[tamarillo]]
