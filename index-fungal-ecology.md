@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2253 pages**
+**2254 pages**
 
 ## #
 
@@ -1795,6 +1795,7 @@
 - [[photosynthesis-and-chloroplast-function]]
 - [[photosynthesis-carbon-cycle-plants]]
 - [[phytohormone-cross-kingdom-fungal-effects]]
+- [[pine-disease-and-matsutake-mushroom-decline]]
 - [[pinhead-initiation-fruiting-triggers]]
 - [[pinhead-initiation-strategy]]
 - [[pinhead-initiation-techniques]]
