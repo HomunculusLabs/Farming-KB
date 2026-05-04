@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1300 pages**
+**1301 pages**
 
 ## #
 
@@ -154,6 +154,7 @@
 - [[acacia]]
 - [[acacia-confusa]]
 - [[acdc]]
+- [[acdc-cannabis-strain]]
 - [[achillea-millefolium]]
 - [[acorus-calamus]]
 - [[acremonium-strictum]]

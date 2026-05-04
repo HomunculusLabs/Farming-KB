@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1078 pages**
+**1087 pages**
 
 ## #
 
@@ -280,6 +280,7 @@
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
+- [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]]
 - [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 - [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]
 - [[fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food]]
@@ -308,12 +309,14 @@
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 - [[fukuoka-textdoc-leave-nature-alone-philosophy]]
 - [[fukuoka-textdoc-liebig-law-minimum-critique]]
+- [[fukuoka-textdoc-livestock-caloric-land-carrying-capacity]]
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
 - [[fukuoka-textdoc-matter-spirit-unity-food]]
 - [[fukuoka-textdoc-maze-relative-subjectivity]]
 - [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
 - [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]
+- [[fukuoka-textdoc-mountain-wood-preserve-revegetation-method]]
 - [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
@@ -345,6 +348,7 @@
 - [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
+- [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]
 - [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
 - [[fukuoka-textdoc-pine-forest-ecosystem-collapse-chain]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
@@ -588,6 +592,7 @@
 - [[mckenna-dmt-experience-and-overmind]]
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-drug-war-and-human-freedom]]
+- [[mckenna-drugs-governments-and-intelligence-agencies]]
 - [[mckenna-ecstasy-as-social-catalyst]]
 - [[mckenna-eleusinian-mysteries]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
@@ -630,6 +635,7 @@
 - [[mckenna-lumsden-wilson-gene-culture-coevolution]]
 - [[mckenna-maya-tobacco-shamanism-enemas]]
 - [[mckenna-minoan-crete-eleusinian-mysteries]]
+- [[mckenna-modest-proposal-drug-policy-reform]]
 - [[mckenna-monotheism-and-pathological-religion]]
 - [[mckenna-neanderthal-skull-vibration-language-evolution]]
 - [[mckenna-nostalgia-for-paradise]]
@@ -646,7 +652,10 @@
 - [[mckenna-psychedelic-shamanism]]
 - [[mckenna-roland-fischer-psilocybin-visual-acuity]]
 - [[mckenna-shamanic-meme]]
+- [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
+- [[mckenna-spice-trade-and-medieval-drug-scarcity]]
+- [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
 - [[mckenna-sugar-coffee-tea-chocolate]]
 - [[mckenna-sugar-slavery-and-dominance]]
 - [[mckenna-sugar-spice-mercantilism]]
