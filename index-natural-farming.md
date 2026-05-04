@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**830 pages**
+**833 pages**
 
 ## A
 
@@ -742,11 +742,13 @@
 ## M
 
 - [[mahayana-and-hinayana-natural-farming]]
+- [[mahayana-hinayana-natural-farming]]
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]]
 - [[master-cho-knf-fish-aminos-and-sea-minerals]]
 - [[master-cho-knf-fpj-fermented-plant-juice-guide]]
 - [[master-cho-knf-imo-indigenous-microorganism-collection]]
 - [[master-cho-knf-ohn-oriental-herb-nutrient-recipe]]
+- [[microbes-scavengers-natural-farming]]
 - [[motivational-sessions-trainees]]
 - [[mulching-in-natural-farming]]
 
@@ -758,6 +760,7 @@
 - [[natural-farming-cover-crops]]
 - [[natural-farming-desert-reclamation]]
 - [[natural-farming-faa-fertilizer]]
+- [[natural-farming-five-principles]]
 - [[natural-farming-food-philosophy]]
 - [[natural-farming-four-principles]]
 - [[natural-farming-fpj-preparation]]
