@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**825 pages**
+**829 pages**
 
 ## A
 
@@ -117,6 +117,7 @@
 - [[fukuoka-critique-modern-agriculture]]
 - [[fukuoka-critique-modern-livestock]]
 - [[fukuoka-critique-of-education-universities]]
+- [[fukuoka-critique-of-liebig-law-of-minimum]]
 - [[fukuoka-critique-of-scientific-agriculture]]
 - [[fukuoka-critique-organic-certification]]
 - [[fukuoka-critique-organic-farming-ecology]]
@@ -194,6 +195,7 @@
 - [[fukuoka-hybrid-rice-international-drama]]
 - [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
 - [[fukuoka-ignorant-medicine-hospital-collapse]]
+- [[fukuoka-illusions-of-scientific-farming]]
 - [[fukuoka-indian-agriculture-observations]]
 - [[fukuoka-innocence-of-children]]
 - [[fukuoka-insects-create-new-rice-varieties]]
@@ -290,7 +292,9 @@
 - [[fukuoka-natures-self-organizing-principles]]
 - [[fukuoka-nelissen-farm]]
 - [[fukuoka-no-cultivation-principle]]
+- [[fukuoka-no-cultivation-principle-soil-self-tillage]]
 - [[fukuoka-no-fertilizer-principle]]
+- [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]
 - [[fukuoka-no-prune-fruit-tree-method]]
 - [[fukuoka-no-pruning-philosophy-fruit-trees]]
 - [[fukuoka-no-till-grain-production-method]]

@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2249 pages**
+**2253 pages**
 
 ## #
 
@@ -212,6 +212,7 @@
 - [[bioremediation-laccase-mediator-systems]]
 - [[blesching-cannabis-fungal-infections-candida]]
 - [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
+- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
 - [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
 - [[bloomfield-aspergillus-biology-and-aflatoxins]]
@@ -230,6 +231,7 @@
 - [[bloomfield-ergot-claviceps-purpurea-ergotism]]
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
+- [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis]]
 - [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
 - [[bloomfield-fungal-biology-and-hyphal-growth]]
 - [[bloomfield-fungal-enzymatic-wood-decay-cellulose-lignin-brown-rot]]
@@ -253,8 +255,10 @@
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
 - [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]
 - [[bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop]]
+- [[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
+- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
 - [[bloomfield-poisonous-mushrooms-and-mycotoxins]]
 - [[bloomfield-potato-blight-phytophthora-infestans]]
 - [[bloomfield-pythium-oomycete-water-molds]]

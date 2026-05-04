@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1008 pages**
+**1009 pages**
 
 ## #
 
@@ -242,6 +242,7 @@
 - [[fukuoka-flavor-philosophy-spiritual-alienation-food]]
 - [[fukuoka-india-visit-agriculture-spirituality]]
 - [[fukuoka-morishima-acacia-orchard-integration]]
+- [[fukuoka-natural-diet-philosophy-spiritual-health]]
 - [[fukuoka-natural-farming-spiritual-light]]
 - [[fukuoka-natural-livestock-integration-philosophy]]
 - [[fukuoka-road-spiritual-aspects-farming]]
