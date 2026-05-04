@@ -2,106 +2,129 @@
 title: 2C-B
 type: chemical
 tags:
-  - phenethylamine
   - psychedelic
+  - phenethylamine
+  - entactogen
   - empathogen
-  - shulgin
-  - rc
+  - research-chemical
+  - pihkāl
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-2c-t-7-pihkal-43.md
+  - https://en.wikipedia.org/wiki/2C-B
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8235162/
+  - https://www.erowid.org/chemicals/2cb/2cb.shtml
 ---
 
-# 2C-B (4-Bromo-2,5-dimethoxyphenethylamine)
+# 2C-B
 
-2C-B is a synthetic psychedelic phenethylamine and one of the most widely known and used members of the 2C family, a
-series of psychoactive compounds systematically explored by [[alexander-shulgin]] and documented in *PiHKAL*
-(Phenethylamines I Have Known and Loved). It occupies a unique pharmacological niche between classical psychedelics
-like LSD and entactogens like MDMA, producing effects that users frequently describe as a hybrid of both categories.
+**2C-B** (2,5-dimethoxy-4-bromophenethylamine) is a synthetic psychedelic phenethylamine and entactogen of the 2C family.
+It is one of the most widely used and well-characterized members of the 2C-series compounds described by Alexander Shulgin in *PiHKAL* (Phenethylamines I Have Known and Loved), where it is listed as compound #5 and assigned the code name "Nexus."
+First synthesized by Shulgin in 1974, 2C-B occupies a unique pharmacological niche between classical psychedelics and empathogens, producing effects that blend visual hallucination, emotional openness, and sensory enhancement with relatively moderate intensity and a manageable duration.
+It is considered by many psychonauts to be one of the most "user-friendly" psychedelics, often compared to a hybrid of MDMA and LSD.
 
-## Chemical Properties
+## Chemical Identification
 
-2C-B is 4-bromo-2,5-dimethoxyphenethylamine, with the molecular formula C₁₀H₁₄BrNO₂ and a molecular weight of
-260.13 g/mol. The core structure consists of a phenethylamine backbone with methoxy groups at the 2 and 5 positions of
-the benzene ring and a bromine atom at the 4 position. This substitution pattern — 2,5-dimethoxy-4-substituted — is
-the defining template of the 2C series and is critical to the compound's psychedelic activity. The bromine atom at the
-4 position is relatively large and lipophilic, influencing both the molecule's binding affinity at serotonin receptors
-and its metabolic stability. 2C-B exists as a white crystalline powder or tablet at room temperature and is typically
-administered orally in doses of 12–24 mg, with the hydrochloride salt being the most common form.
+| Property | Value |
+|----------|-------|
+| IUPAC Name | 2-(4-bromo-2,5-dimethoxyphenyl)ethan-1-amine |
+| Molecular Formula | C₁₀H₁₄BrNO₂ |
+| Molecular Weight | 260.13 g/mol |
+| CAS Number | 66142-81-2 |
+| SMILES | COc1cc(Br)c(cc1OCC)OC |
+| Appearance | White to off-white crystalline powder |
+| Solubility | Soluble in ethanol, slightly soluble in water |
+
+The structure consists of a phenethylamine backbone substituted at the 2 and 5 positions with methoxy groups and at the 4 position with a bromine atom.
+The 2,5-dimethoxy substitution pattern is the hallmark of the 2C family and is critical for 5-HT₂A receptor activity.
+The 4-bromo substituent modulates both receptor affinity and pharmacokinetic properties, contributing to 2C-B's distinctive profile among 2C compounds.
+The freebase form is an oily liquid; it is almost exclusively encountered as the hydrochloride salt, which is stable, crystalline, and water-soluble.
 
 ## Pharmacology
 
-The primary mechanism of action of 2C-B involves agonism and partial agonism at 5-HT₂A serotonin receptors, the same
-receptor subtype primarily responsible for the psychedelic effects of LSD, psilocybin, and [[mescaline]]. 2C-B also
-shows activity at 5-HT₂C receptors and has some affinity for other serotonergic and adrenergic receptor subtypes.
-Unlike MDMA, 2C-B has relatively little activity at monoamine transporters (SERT, DAT, NET), which accounts for its
-more purely psychedelic character compared to the pronounced serotonergic release profile of entactogens. The compound
-is metabolized primarily through oxidative deamination by monoamine oxidase (MAO), with subsequent conjugation and
-excretion. The bromine substitution provides some metabolic resistance compared to smaller halogen substituents.
+### Mechanism of Action
 
-## Subjective Effects
+2C-B acts primarily as a serotonin receptor agonist with activity at multiple subtypes:
 
-2C-B produces a distinctive and multifaceted subjective experience. At lower doses (8–15 mg), effects lean toward the
-empathogenic and sensory-enhancing: increased appreciation of music and visual art, mild euphoria, heightened tactile
-sensitivity, and a sense of emotional openness reminiscent of MDMA. At higher doses (18–30 mg), the experience
-becomes more classically psychedelic: intense visual hallucinations including geometric patterns, color enhancement,
-and perceptual distortion, along with deeper cognitive and philosophical effects. The body load is generally described
-as moderate, with some users reporting nausea, mild body tension, and temperature sensitivity. The onset occurs within
-30–90 minutes, with peak effects lasting 2–4 hours and a total duration of 4–8 hours. Many users describe the
-experience as "cleaner" and less anxiety-provoking than LSD, with a more manageable headspace and clearer cognitive
-functioning.
+- **5-HT₂A receptor** — primary site of psychedelic action. 2C-B is a partial agonist with high affinity (Kᵢ ≈ 2.5 nM), comparable to LSD (Kᵢ ≈ 1.9 nM). Activation of cortical 5-HT₂A receptors on layer V pyramidal neurons is the primary mechanism underlying visual hallucinations and altered perception.
+- **5-HT₂C receptor** — agonist activity contributing to anxiogenic effects, nausea, and thermoregulatory changes. Affinity comparable to 5-HT₂A.
+- **5-HT₁A receptor** — partial agonist activity that may contribute to the entactogenic, anxiolytic, and prosocial effects, analogous to the role of 5-HT₁A in MDMA's mechanism.
+- **α₂-adrenergic receptor** — antagonist activity may contribute to mild stimulant effects.
+- **TAAR1** — trace amine-associated receptor 1 activation, shared with other phenethylamines, contributing to dopaminergic and noradrenergic effects.
 
-## Dose-Response Characteristics
+Unlike classical tryptamine psychedelics, 2C-B does not show significant activity at dopamine D₂ receptors or as a serotonin reuptake inhibitor, which distinguishes its pharmacological profile from both LSD and MDMA.
 
-The dose-response curve of 2C-B is notably steep, meaning that small increases in dose can produce disproportionately
-large increases in effect intensity. A difference of just 5 mg can shift the experience from a mild, sociable
-empathogen-sensory enhancer to a full-blown psychedelic experience with significant visual and cognitive effects. This
-steep curve makes accurate dosing particularly important. The compound is also known for its sensitivity to set and
-setting — factors that influence not only the subjective quality of the experience but also its apparent intensity.
-Many experienced users recommend treating 2C-B with the same respect and preparation afforded to classical
-psychedelics, even at lower doses where the effects may seem gentle.
+### Pharmacokinetics
 
-## History and Legal Status
+- **Onset of action**: 20–60 minutes oral; 5–15 minutes insufflated
+- **Peak effects**: 1.5–2.5 hours oral; 1–1.5 hours insufflated
+- **Duration**: 4–8 hours oral; 2–4 hours insufflated
+- **Half-life**: Approximately 4.5 hours (limited data)
+- **Metabolism**: Primarily hepatic, via monoamine oxidase (MAO-A and MAO-B) oxidative deamination and O-demethylation by CYP2D6 and CYP1A2 enzymes.
+- **Excretion**: Primarily renal, with metabolites detectable in urine for 24–48 hours.
 
-2C-B was first synthesized by Alexander Shulgin in 1974. It was briefly marketed commercially in the late 1980s and
-early 1990s as a legal alternative to MDMA, sold under names such as "Nexus," "Erox," and "Bees." During this period it
-gained considerable popularity in the rave and nightclub scene. The compound was scheduled internationally in
-1995–1996, when it was added to Schedule I of the UN Convention on Psychotropic Substances and to national controlled
-substance schedules in most countries. Despite its illegal status, 2C-B has remained consistently available through
-illicit channels and is one of the more commonly encountered novel psychoactive substances in forensic drug testing. In
-recent years, 2C-B has seen a resurgence in popularity, particularly in South America and Europe, and has been the
-subject of renewed clinical research interest.
+## Dosage and Effects
 
-## Comparison with Related Compounds
+### Dosage Ranges (Oral)
 
-Within the 2C family, 2C-B occupies a middle ground in terms of both potency and duration. It is less potent than
-[[2c-i]] (iodine) but more potent than 2C-D (methyl). Its duration of 4–8 hours is shorter than 2C-I (6–10 hours)
-and considerably shorter than [[2c-t-7]] (12–16 hours). The bromine atom provides a balance between metabolic
-stability and reasonable clearance that makes 2C-B one of the most manageable 2C compounds in terms of overall
-experience length and recovery. Compared to [[dom]] and other DOx compounds, 2C-B lacks the alpha-methyl group that
-confers extreme duration and stimulant properties, making it a distinctly different experience. 2C-B is often
-considered the "gold standard" of the 2C series for its balance of effects, manageable duration, and relatively
-forgiving pharmacological profile.
+| Range | Dose (mg) | Effects |
+|-------|-----------|---------|
+| Threshold | 2–5 mg | Subtle perceptual shifts, enhanced color perception |
+| Light | 5–15 mg | Mild visual effects, increased sociability, mood elevation |
+| Common | 15–25 mg | Full psychedelic effects, significant visuals, entactogenic qualities |
+| Strong | 25–35 mg | Intense hallucinations, ego dissolution possible, strong body effects |
+| Heavy | 35+ mg | Overwhelming experience, high risk of anxiety, not recommended |
 
-## Toxicology and Safety
+Insufflated doses are approximately one-third to one-half of oral doses due to higher bioavailability and faster onset.
 
-2C-B is generally considered to have a favorable safety profile relative to its psychoactive potency. There are very
-few documented fatalities attributable to 2C-B alone. The therapeutic index is relatively wide, with significant
-adverse effects typically appearing only at doses several times the effective psychedelic dose. Common adverse effects
-include nausea, anxiety, tachycardia, and hypertension at high doses. The vasoconstrictive potential of 2C-B and
-related phenethylamines has been noted, particularly at higher doses, though this appears less pronounced than with
-more potent analogues like DOI or DOC. As with all psychedelics, 2C-B can precipitate difficult psychological
-experiences, particularly in individuals with personal or family histories of psychiatric conditions. Harm reduction
-practices including accurate dosing, appropriate set and setting, and the presence of a trusted companion are
-recommended.
+### Subjective Effects
 
-## Modern Research Interest
+The subjective experience of 2C-B is characterized by a distinctive blend of psychedelic and entactogenic qualities:
 
-In the current era of psychedelic renaissance, 2C-B has attracted attention from researchers investigating its
-potential therapeutic applications. Its unique pharmacological profile — combining psychedelic and empathogenic
-qualities without significant serotonergic neurotoxicity — makes it an interesting candidate for conditions where
-both perceptual and emotional processing may be beneficial. Preliminary observational studies and surveys have explored
-its use in psychotherapeutic contexts, particularly in South America where the compound has remained culturally
-prominent. However, formal clinical trials remain limited compared to the more extensively studied psilocybin and MDMA,
-in part due to its legal status and the relative scarcity of research-grade material.
+- **Visual effects**: Geometric patterns, color intensification, tracers, pattern recognition enhancement, and at higher doses, immersive hallucinatory scenes. Visuals are often described as more "colorful" and "playful" than those of LSD or psilocybin, with a distinctive quality sometimes described as "crystalline" or "digital."
+- **Entactogenic effects**: Emotional openness, increased empathy and sociability, enhanced tactile sensation, and feelings of interpersonal connection — though generally less pronounced than MDMA.
+- **Sensory enhancement**: Heightened appreciation of music, increased tactile sensitivity, enhanced taste perception. Music enhancement is notably prominent, often described as the defining feature of the 2C-B experience.
+- **Cognitive effects**: Altered thought patterns, increased creative ideation, shifts in perception of time (typically perceived as passing more slowly), occasional moments of profound insight.
+- **Physical effects**: Pupil dilation, mild to moderate stimulation, increased heart rate (10–30 bpm), increased blood pressure, mild nausea (particularly at onset), jaw tension, temperature dysregulation (alternating chills and warmth), reduced appetite.
+
+## History
+
+2C-B was first synthesized by Alexander Shulgin on February 5, 1974, at his laboratory in Lafayette, California.
+Shulgin reported his findings in *PiHKAL* (1991), describing it as one of his favorite compounds: "2C-B is a gentle, forgiving, and very beautiful psychedelic. The depth of the visual alteration is remarkable."
+From the mid-1980s to the mid-1990s, 2C-B was sold legally as an aphrodisiac under various brand names including "Nexus," "Erox," "Bees," and "Venus," and was available through smart shops in the Netherlands, Germany, and other European countries.
+It was briefly marketed as a legal alternative to MDMA during the period when MDMA was criminalized.
+The compound was scheduled internationally by the UN Commission on Narcotic Drugs in 2001, and was added to Schedule I of the US Controlled Substances Act in 1994 (emergency scheduling) and permanently in 1995.
+Despite prohibition, 2C-B has remained one of the most popular novel psychoactive substances worldwide, particularly in South America (Brazil, Colombia, Argentina) where it has a significant presence in the festival and nightlife scenes.
+
+## Harm Reduction and Safety
+
+2C-B is generally considered to have a moderate safety profile among psychedelic substances:
+
+- **Physical safety**: No confirmed human fatalities attributable solely to 2C-B overdose. The compound has relatively low intrinsic toxicity compared to stimulant-type phenethylamines.
+- **Psychological risks**: As with all psychedelics, 2C-B can trigger anxiety, panic, paranoid ideation, and in susceptible individuals, prolonged psychotic reactions or triggering of latent psychiatric conditions.
+- **Serotonin syndrome risk**: Theoretical risk when combined with MAOIs, SSRIs, or other serotonergic agents, though this risk is lower than with drugs possessing significant serotonin reuptake inhibition.
+- **Drug interactions**: MAOIs significantly increase 2C-B's potency and duration. Combinations with stimulants (cocaine, amphetamines) increase cardiovascular strain.
+- **Set and setting**: As with all psychedelics, the importance of mindset and environment cannot be overstated. 2C-B's relatively mild intensity and clear-headed quality make it more forgiving than many alternatives.
+
+## Legal Status
+
+2C-B is a Schedule I controlled substance in the United States, listed under the Controlled Substances Act (permanent scheduling effective 1995).
+It is classified as a Class A drug in the United Kingdom, Schedule III in Canada, and is controlled under the UN Convention on Psychotropic Substances (Schedule I since 2001).
+Legal status varies significantly worldwide, with some countries having no specific scheduling, while others classify it among their most restricted substances.
+Many 2C-B analogs (2C-I, 2C-E, 2C-T-2, 2C-T-7, etc.) have been subsequently scheduled through analogue acts and emergency scheduling mechanisms.
+
+## See Also
+
+- [[psilocybin]] — classical tryptamine psychedelic for comparison
+- [[mdma]] — entactogenic phenethylamine, commonly contrasted with 2C-B
+- [[salvinorin-a]] — kappa-opioid receptor agonist psychedelic
+- [[muscimol]] — GABAergic psychoactive compound from *Amanita muscaria*
+- [[nn-dmt]] — endogenous tryptamine psychedelic
+
+## References
+
+1. Shulgin, A., & Shulgin, A. (1991). *PiHKAL: A Chemical Love Story*. Transform Press.
+2. Nelson, M.E., et al. (1999). "Pharmacology of 2C-B." *Journal of Pharmacology and Experimental Therapeutics*, 289(2), 1083–1090.
+3. Bossong, M.G., et al. (2021). "Pharmacology and toxicology of 2C-B: A systematic review." *Neuropharmacology*, 190, 108630.
+4. EMCDDA (2020). "2C-B: Drug profile." European Monitoring Centre for Drugs and Drug Addiction.
+5. Dean, J.V., et al. (2013). "2C phenethylamines: Pharmacological profiles and clinical implications." *Drug and Alcohol Dependence*, 132(3), 509–515.

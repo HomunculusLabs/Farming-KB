@@ -158,3 +158,4 @@ indicate the visions will reveal all that was asked.
 - [[ayahuasca-pharmacology]] — the biochemical basis of the DMT–harmine/harmaline synergy central to the brew
 
 [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] | [[amazonian-ayahuasca-purge-and-diet-practices]] | [[amazonian-plant-teachers-doctores]] | [[banisteriopsis-caapi]] | [[ayahuasca-pharmacology]]
+[[pablo-amaringo]] | [[schultes-psychotria-chacruna-dmt-admixture]] | [[psychedelic-spirituality-and-religion]] | [[psychedelic-consciousness-models]] | [[mazatec-mushrooms-of-language]]

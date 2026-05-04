@@ -1,136 +1,168 @@
 ---
 title: Non-Causality in Nature
-tags: [philosophy, nature, causality, fukuoka, ecology, systems-thinking]
+tags: [natural-farming, philosophy, epistemology, causality, fukuoka, scientific-method, agricultural-theory]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - administrator-microsoft-word-fukuoka-textdoc.md
+  - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+    author: Masanobu Fukuoka
+    title: The Natural Way of Farming
 ---
 
 # Non-Causality in Nature
 
-The principle of non-causality is a central philosophical concept in Masanobu
-Fukuoka's critique of scientific agriculture and his broader epistemology of
-nature. Fukuoka argued that the conventional scientific understanding of cause
-and effect, when applied to natural systems, is fundamentally mistaken. What
-science identifies as discrete causes and effects are, in reality, merely
-moments in an endless, circular flux of interrelated phenomena. The practical
-implication of this principle is that scientific interventions based on
-identified causes are inherently incomplete and prone to producing unintended
-consequences that deepen rather than solve the original problem.
+The principle of non-causality is Masanobu Fukuoka's most radical philosophical
+contribution to agricultural thought. He argued that cause and effect, as
+understood through the scientific method, do not exist in nature when viewed
+holistically. What appears to be causal relationships at close range dissolves
+into a tangled web of interconnections when examined from broader spatial and
+temporal perspectives, making all single-cause explanations fundamentally
+misleading and all interventions based on them ultimately futile.
 
 ## The Infinite Regress of Causes
 
-Fukuoka demonstrated the principle of non-causality through numerous
-agricultural examples. Consider the case of soil acidity. The immediate
-scientific response is to apply lime, based on the conclusion that the soil
-lacks sufficient lime. But the lime deficiency may itself result from erosion
-caused by repeated cultivation on ground exposed by weeding, or from
-rainfall patterns, or from temperature effects. Even the application of lime
-may paradoxically increase acidity by stimulating excessive plant growth that
-alters soil chemistry. What appeared as a clear cause-and-effect relationship
-dissolves upon closer examination into a web of mutually influencing factors
-with no identifiable origin.
+Behind every cause lie countless other causes. When soil acidity becomes a
+problem, the immediate conclusion is insufficient lime. But the lime
+deficiency may stem from erosion caused by repeated cultivation on ground
+exposed by weeding, or from rainfall patterns, or temperature. Applying lime
+to treat surface acidity may increase acidity further by promoting excessive
+plant growth, in which case cause and effect become confused.
 
-The same pattern appears in crop disease. Rice blast disease is attributed to
-infection by rice blast bacteria, leading to the application of copper or
-mercury-based fungicides. But the disease may be influenced by high
-temperatures and heavy rainfall, by excessive nitrogenous fertilization, by
-prolonged flooding that weakens roots, or by the choice of a low-resistance
-rice variety. Each of these factors is itself determined by other factors.
-Excess nitrogen may result from insufficient sunlight reducing
-photosynthetic assimilation, which may result from cloud cover or overly
-dense planting. The search for the true cause leads backward through an
-infinite chain of interrelated conditions.
+Fukuoka demonstrated this with a direct observation from his own orchard. After
+applying large quantities of sawdust and wood chips to his land, soil experts
+warned that the organic acids from rotting wood would make the soil acidic and
+require massive lime applications. Yet the soil did not turn acidic. As
+bacterial decomposition produced organic acids and acidity rose, bacterial
+growth leveled off and molds flourished. The molds were eventually replaced by
+mushrooms and other fungi that broke the sawdust into cellulose and lignin.
+The soil settled at a point of equilibrium that was neither acidic nor basic.
 
-## The Circular Nature of Causation
+The scientific approach would have treated a snapshot of one moment in the
+decomposition process, diagnosed a problem, and applied a remedy that
+interfered with a self-correcting natural process. Nonintervention proved the
+wisest course.
 
-Fukuoka proposed that when natural phenomena are viewed from a broad spatial
-and temporal perspective, rather than in isolation at a single point in time,
-the linear model of cause and effect gives way to a circular or spherical
-model. In this view, every event is simultaneously a cause and an effect.
-What appears as a cause from one perspective becomes an effect from another,
-and what appears as an effect becomes a cause of subsequent events. There is
-no beginning or end to the chain, only continuous transformation.
+## The Rice Blast Example
 
-The rice blast example illustrates this principle. The disease can be
-understood not merely as a destructive pathology but as a mechanism that
-halts excessive vegetative growth and restores balance between the above-
-ground and below-ground portions of the plant. It may also serve to prevent
-overly dense growth that would impair photosynthesis across the plant
-community. In this reading, the disease is not a final effect requiring
-correction but a stage in the constant flux of nature, both cause and effect
-simultaneously. Eliminating it through chemical intervention may remove a
-natural balancing mechanism and create conditions for greater imbalance.
+Fukuoka's analysis of rice blast disease illustrates how scientific cause-
+and-effect reasoning leads to ever-deepening confusion. The conventional
+explanation holds that rice blast is caused by infiltration of rice blast
+bacteria, and the solution is to spray copper or mercury agents. But high
+temperatures, heavy rainfall, excessive nitrogenous fertilizer, prolonged
+flooding during high temperatures weakening roots, or low-resistance rice
+varieties may all be contributing factors.
 
-## The Forest Ecosystem as Illustration
+If excess nitrogen fertilizer is identified as the cause, the question becomes
+how excess nitrogen relates to bacterial attack. If cloudy weather reduces
+photosynthesis, slowing the assimilation of nitrogenous components into
+protein, unassimilated nitrogen accumulates in the leaves, making the plant
+susceptible. But then the cause shifts to insufficient sunlight or carbon
+dioxide, or to the amount of starch in the leaves, which requires
+understanding photosynthesis, a process modern science has not fully
+unlocked.
 
-Fukuoka provided a compelling illustration of non-causality through the
-example of forest decline following clear-cutting and replanting with
-commercial species such as pine and cedar. When a section of forest is
-cleared and cedar planted, insufficient food remains for small birds. The
-birds disappear, allowing long-horned beetles to flourish. The beetles are
-vectors for nematodes, which attack red pines and feed on parasitic Botrytis
-fungi in the trunks. The pines fall victim because the beneficial matsutake
-fungus that lives on their roots has died off, displaced by harmful Botrytis
-fungi. The Botrytis increase resulted from soil acidity, which resulted from
-atmospheric pollution and acid rain. When the pines die, bamboo grass
-proliferates, feeding mice, which multiply and attack cedar saplings. Man
-applies rodenticide, weasels decline, and man then raises mice to restore the
-rodent population that feeds them.
+Rotting roots may make plants susceptible, but defining what constitutes
+the proper balance between surface growth and root growth leads to further
+questions about what makes a plant "unhealthy," which no one can adequately
+define. Some scientists cite silica content and stalk hardness, while others
+point to genetics or physiology. With each layer of investigation, the
+originally clear cause becomes murkier until the true cause is lost entirely.
 
-This cascade demonstrates that tracing causation backward through an
-ecosystem does not lead to a single root cause but to an ever-expanding
-network of interrelationships. The attempt to identify and correct a single
-cause, such as applying rodenticide to protect cedar seedlings, addresses
-one symptom while potentially exacerbating others elsewhere in the system.
-The scientific approach of isolating variables and targeting specific causes
-is, in Fukuoka's view, inherently inadequate for managing systems where all
-factors are organically interrelated.
+## Disease as Natural Process
 
-## Implications for Scientific Method
+Fukuoka proposed that the rice plant itself may perceive blast disease as a
+protective mechanism that halts excessive growth and restores balance between
+the above-ground and below-ground portions. The disease may serve as nature's
+means of preventing overly dense growth, thus aiding photosynthesis and
+assuring full seed production. Rice blast is not a final effect but one stage
+in the constant flux of nature, simultaneously cause and effect.
 
-The principle of non-causality has profound implications for the scientific
-method as applied to agriculture and ecology. The scientific method depends
-on isolating variables, establishing causal relationships through controlled
-experimentation, and developing interventions based on those relationships.
-But if causality in nature is circular rather than linear, and if every
-intervention reverberates through an infinite web of interrelated factors,
-then interventions based on isolated causal analysis will always produce
-incomplete and unpredictable results.
+When viewed up close, organic relationships can be resolved into apparent
+causes and effects. When examined holistically across space and time, no
+effects and causes are found. There is nothing to grasp, so all measures are
+futile. Nature has neither beginning nor end, before nor after, cause nor
+effect. This is the principle of non-causality.
 
-Fukuoka argued that scientific research on crop yields inevitably falls
-into this trap. When researchers identify a factor that appears to limit
-yield, such as insufficient phosphorus, and apply phosphate fertilizer to
-correct it, the results may show a yield improvement. But this improvement
-is not an increase over natural productivity but a partial restoration of
-productivity that was lost due to other interventions. The phosphate
-application itself may create new imbalances that require further
-corrections, generating an endless cycle of intervention and partial
-remediation.
+## The Pine Forest Cascade
 
-## The Practical Consequence
+Fukuoka traced a devastating cascade through a Japanese mountain forest to
+demonstrate the futility of single-cause interventions. When a section of
+forest was clear-cut and cedar trees planted as a cash crop, food became
+insufficient for small birds. The birds disappeared, allowing long-horned
+beetles to flourish. Beetles served as vectors for nematodes that attacked
+red pines by feeding on parasitic Botrytis fungi in the trunks. The pines
+fell victim because the beneficial matsutake fungus living on their roots
+had died off due to increased harmful Botrytis in the soil, which resulted
+from soil acidity caused by atmospheric pollution and acid rain.
 
-The practical consequence of the non-causality principle is that the most
-effective approach to agriculture is non-intervention. Rather than attempting
-to identify and correct specific causes of reduced productivity, the farmer
-should remove the conditions that created the need for correction in the
-first place. By eliminating plowing, chemical inputs, and other
-interventions, the farmer allows nature's own circular processes to
-reassert themselves and restore balance.
+When the pines died, thickets of bamboo grass sprang up. Mice fed on the
+abundant bamboo grass berries and multiplied, attacking cedar saplings.
+Humans applied rodenticide, but as mice vanished, weasels and snakes that
+fed on them also declined. To protect the weasels, people began raising
+mice to restore the rodent population. Fukuoka called this chain of
+interventions "the stuff of crazed dreams."
 
-Fukuoka summarized this as the principle of doing nothing. This does not
-mean complete passivity but rather the removal of unnecessary human
-activities that disrupt natural processes. The farmer's role shifts from
-corrector and controller to observer and participant, working within the
-natural system rather than attempting to override it. In this framework,
-the question is not what intervention will solve a problem but what
-intervention can be removed to allow nature to solve it.
+Each remedy addressed only the symptom visible at a particular moment while
+the underlying cascade continued. No amount of scientific analysis could
+have predicted or prevented this chain because it emerged from the
+interconnected whole of the forest ecosystem, not from any single
+identifiable cause.
+
+## The Maze of Relative Subjectivity
+
+Fukuoka illustrated the problem of human knowledge with a parable. The Shinto
+deity Okuninushi carries a sack filled with objects. People open the sack,
+thrust their hands in, and attempt to identify each object's purpose. One
+declares a bamboo-and-shell object to be a weapon; another, a musical
+instrument; another, a decorative carving. Yet the truth, known only to
+Okuninushi, is that the object is a broken amusement piece he carries merely
+as kindling.
+
+Man jumps into the great sack called nature, grabs objects, examines them,
+and draws conclusions about nature's purposes. But no matter how careful the
+observations and reasoning, each interpretation carries the risk of grievous
+error because man can know nature no more than he can know the uses for the
+objects in Okuninushi's sack. A flea born inside the sack can never guess
+the object's true purpose no matter how long it studies it.
+
+## Discriminating vs. Non-Discriminating Knowledge
+
+In Buddhist terms, knowledge that splits apart self and object and sets them
+in opposition is "discriminating knowledge." Knowledge that treats self and
+object as a unified whole is "non-discriminating knowledge," the highest
+form of wisdom. An infant sees nature intuitively, as entire and complete.
+An adult mentally picks things apart and classifies them, seeing everything
+as imperfect and fraught with inconsistency.
+
+Fukuoka observed that a country child who jumps into a muddy rice field and
+plays in the dirt knows the earth intuitively. A city child, taught that
+dirt is filthy and full of germs, sees the same field as unclean and
+fearful. The soil contains hundreds of millions of microorganisms per gram,
+including bacteria that kill other bacteria and bacteria that kill those
+killers. The soil under the sun is healthy, whole, and absolutely essential
+to human life. The knowledge that "there are germs in the soil" is, in
+Fukuoka's view, more ignorant than ignorance itself.
+
+## Implications for Agricultural Practice
+
+The principle of non-causality carries profound practical implications. If
+cause and effect cannot be reliably identified in nature, then all
+agricultural interventions based on causal reasoning are gambles at best.
+Treating symptoms with targeted remedies, as science does, ignores the
+organic interconnectedness of all factors. The proper response is
+nonintervention: allowing nature's self-correcting mechanisms to operate
+without disruption.
+
+This does not mean passive neglect. Fukuoka distinguished between natural
+farming and laissez-faire abandonment. Laissez-faire means abandoning
+nature after having altered it, such as releasing a formula-fed calf into
+a mountain meadow. Natural farming means never having altered nature in
+the first place, or actively working to remove the effects of past human
+interference until the system approaches its natural state.
 
 ## See Also
 
-- [[fukuoka-theory-principle-of-non-causality]]
-- [[fukuoka-nature-is-unknowable]]
-- [[patterns-in-nature]]
-- [[cannabis-raw-juice-non-psychoactive]]
-- [[permplant-alder-alnus-nitrogen-fixing-non-legume]]
+- [[mahayana-and-hinayana-natural-farming]]
+- [[no-till-direct-seeding-rice-barley]]
+- [[natural-ground-cover-and-straw-mulching]]
+- [[clay-pellet-desert-revegetation]]

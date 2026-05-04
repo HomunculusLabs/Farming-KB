@@ -97,3 +97,4 @@ See also [[cannabis-oil-isomerization]], [[cannabis-extraction-basics]], [[canna
 - [[tetrahydrocannabinolic-acid-thca]] — the natural acidic precursor to THC, relevant to extraction starting material quality
 
 [[thc-acetate-synthesis-and-pharmacology]] | [[thc-acetate-and-isomerization]] | [[tetrahydrocannabinol-thc]] | [[tetrahydrocannabinolic-acid-thca]]
+[[cannabinoid-biosynthesis-pathway]] | [[cannabis-extraction-solvent-properties-and-safety]] | [[cannabis-solvent-reflux-extraction-methods]] | [[cannabis-reflux-extraction-apparatus]] | [[green-cannabis-ph-management-cannabis-growing]]

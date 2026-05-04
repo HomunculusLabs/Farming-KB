@@ -130,3 +130,4 @@ Integration of biosorption with other treatment technologies, including [[fungal
 - [[staycare-bioavailability-pollutants-fungal-bioremediation]] — how pollutant bioavailability affects isotherm behavior in situ
 
 [[staycare-fungal-biosorption-of-heavy-metals]] | [[staycare-fungal-metal-biosorption-reactor-systems]] | [[staycare-chitosan-and-fungal-biomass-derivatives-in-biosorption]] | [[staycare-bioavailability-pollutants-fungal-bioremediation]]
+[[fungal-biosorption-mechanisms]] | [[fungal-metal-biosorption]] | [[mycoremediation-bioreactor-design]] | [[fungal-bioremediation-mechanisms]] | [[fungal-industrial-wastewater-treatment]]

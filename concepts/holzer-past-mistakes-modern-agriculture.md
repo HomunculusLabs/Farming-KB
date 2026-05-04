@@ -97,3 +97,4 @@ Together, they demonstrate that the mistakes of modern agriculture are not inevi
 - [[teaming-with-microbes-no-till-gardening-soil-health]] — the soil biology benefits of avoiding the tillage Holzer also rejected
 
 [[agroecology]] | [[bill-mollison]] | [[agricultural-chemicals-mycorrhizal-impact]] | [[teaming-with-microbes-no-till-gardening-soil-health]]
+[[sepp-holzer-terrace-systems-and-raised-beds]] | [[sepp-holzer-pond-construction]] | [[sepp-holzer-composting-and-humus-building]] | [[teaming-with-microbes-no-till-benefits]] | [[wetland-ecology]]

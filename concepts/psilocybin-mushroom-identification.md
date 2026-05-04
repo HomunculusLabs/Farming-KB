@@ -146,3 +146,4 @@ See also: [[psilocybin-mushrooms-overview]], [[mycology-modern-era]],
 - [[baeocystin]] — a secondary tryptamine alkaloid found alongside psilocybin that aids in chemical identification
 
 [[stamets-psi-galerina-deadly-look-alikes-safety]] | [[biodiversity-fungal-molecular-identification-dna-barcoding]] | [[amanita-phalloides-death-cap]] | [[baeocystin]]
+[[psilocybin-containing-genera-beyond-psilocybe]] | [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]] | [[psilocybe-semilanceata-profile]] | [[cotter-mushroom-life-cycle-mycelium-biology]] | [[psychedelic-harm-reduction]]
