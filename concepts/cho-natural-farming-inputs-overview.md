@@ -19,7 +19,10 @@ specific growth stages.
 ## The Input Philosophy
 
 In Natural Farming, we do not feed the plant -- we nurture the soil,
-and the soil nurtures the plant through IMOs. The inputs fall into
+and the soil nurtures the plant through IMOs. This philosophy aligns with
+[[fukuoka-natural-farming-method|Fukuoka's natural farming]] approach and
+contrasts with conventional [[teaming-with-nutrients-organic-fertilizer-types-and-sources|fertilizer]]
+regimes. The inputs fall into
 several functional categories:
 
 ### Microbial Inputs
@@ -56,7 +59,9 @@ several functional categories:
 
 ### Compost and Soil Inputs
 - [[knf-fermented-mixed-compost]]:
-  Enriched compost incorporating IMO-4 and multiple NF inputs
+  Enriched compost incorporating IMO-4 and multiple NF inputs. This
+  complements other composting approaches like [[composting-systems|conventional composting]]
+  and [[natural-farming-guide-vermicomposting-and-worm-based-soil-building|vermicomposting]]
 - [[knf-seed-treatment-and-soil-foundation]]:
   Combined liquid application for soil conditioning
 

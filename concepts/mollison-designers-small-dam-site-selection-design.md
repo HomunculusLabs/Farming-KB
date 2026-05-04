@@ -14,13 +14,15 @@ sources:
 
 # Small Dam Site Selection and Design
 
-Small dams and ponds are central elements of [[backyard-water-harvesting]] in
+[[backyard-water-harvesting|Small dams and ponds]] are central elements of [[backyard-water-harvesting]] in
 [[permaculture-design]]. In the [[permaculture-designers-manual-bamboo]], Bill
 Mollison provides detailed guidance on selecting suitable dam sites and
 designing storage systems that maximise water availability while minimising
 cost, maintenance, and ecological impact. Properly sited and constructed
-small dams provide irrigation, stock water, fire protection, aquaculture,
-wildlife habitat, and landscape aesthetics.
+small dams provide irrigation, stock water, fire protection, [[aquaculture-in-permaculture|aquaculture]],
+wildlife habitat, and landscape aesthetics. These earthworks complement
+broader [[permaculture-earthworks|earthworks]] strategies and integrate
+naturally with [[backyard-pond-building|pond systems]] on permaculture sites.
 
 ## Site Selection Criteria
 
@@ -53,7 +55,8 @@ seepage. Mollison identifies the following soil requirements:
 
 - **Clay content:** Dam sites require a minimum of 20 to 30 percent clay
   content in the soil profile to achieve adequate impermeability. Ideal
-  dam soils contain 30 to 60 percent clay.
+  dam soils contain 30 to 60 percent clay, similar to soils valued for
+  [[biochar-and-fungi|biochar]] and [[soil-health|soil health]] management.
 
 - **Depth of impervious layer:** The clay or impermeable layer should
   extend deep enough to prevent seepage under the dam wall. A minimum
@@ -144,10 +147,19 @@ extends dam life.
 Regular maintenance includes inspecting walls, spillways, and outlet
 structures; repairing erosion damage promptly; controlling burrowing animals
 in dam walls; managing aquatic vegetation; and desilting when sediment
-significantly reduces storage capacity.
+significantly reduces storage capacity. Sediment removed during desilting
+can be repurposed as [[biochar-soil-remediation|soil amendment]] on adjacent
+agricultural land.
 ## See Also
 
 - [[swale-design]] and [[swale-construction-guide]] for complementary earthwork water-harvesting techniques
 - [[water-storage-techniques]] and [[water-catchment-permaculture]] for broader water management strategies
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] for the full design manual treatment
 - [[water-management]] for integrated water cycle design
+
+## Related Pages
+
+[[keyline-design]] extends dam and earthwork principles into broad-scale landscape water management.
+[[pond-and-aquaculture]] covers integrated pond systems that complement small dam infrastructure.
+[[irrigation-systems]] connects stored dam water to efficient field delivery methods.
+[[mollison-designers-duck-pond-integrated-systems]] shows how dams integrate with livestock and food production.

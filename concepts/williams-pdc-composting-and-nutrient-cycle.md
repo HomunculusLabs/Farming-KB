@@ -10,7 +10,8 @@ sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 
 Composting is the technique of controlled decomposition of
 food scraps and organic waste to create fertilizer, serving
-as a critical practice for maintaining the nutrient cycle
+as a critical practice for maintaining the [[soil-health|soil health]]
+and [[teaming-with-nutrients-organic-fertilizer-types-and-sources|nutrient cycle]]
 that sustains all ecological systems.
 
 ## The Nutrient Cycle
@@ -107,10 +108,11 @@ Vermiculture systems are compost systems that incorporate
 red worms, creating a more powerful composting system that
 is not much more difficult than a normal compost system. The
 worms accelerate decomposition and their castings are among
-the finest fertilizers available. A vermiculture system can
-be scaled to fit any context from apartment balconies to
+the finest fertilizers available. A [[natural-farming-guide-vermicomposting-and-worm-based-soil-building|vermiculture]]
+system can be scaled to fit any context from apartment balconies to
 large rural properties, making it one of the most versatile
-composting strategies available to the [[permaculture-design-methodology]]er.
+composting strategies available to the [[permaculture-design-methodology|permaculture
+designer]].
 
 ## Composting as Integral to Permaculture Design
 
@@ -121,7 +123,9 @@ there are many different ways a composting system can be
 designed. One could even use prefabricated composters. An
 efficient composting system should be part of any
 permaculture design, matching the capacity and commitment
-of the people who will manage it.
+of the people who will manage it. The [[biochar-production-guide|biochar]]
+produced as a byproduct can further enrich compost and build
+long-term soil carbon.
 
 ## See Also
 
@@ -131,3 +135,10 @@ of the people who will manage it.
 - [[teaming-with-microbes-compost-tea-and-inoculation]] for liquid compost methods
 - [[vermicomposting]] for worm-based composting systems
 - [[biochar-production-guide]] for biochar as a compost amendment
+
+## Related Pages
+
+[[composting-science-solomon]] provides the scientific foundations of compost decomposition and nutrient release.
+[[vermicomposting]] details worm-based composting systems for faster nutrient cycling.
+[[singh-composted-biomass-as-soil-amendment-remediation]] explores compost beyond gardening — as a tool for environmental remediation.
+[[microscope-identification-soil-organisms]] introduces the soil microorganisms that drive the composting process.

@@ -11,7 +11,7 @@ sources:
 [[permaculture-seed-saving-and-selection|Seed saving]] is one of the most empowering homesteading skills. It reduces costs, preserves genetic diversity, and develops plant varieties uniquely adapted to your local conditions. Over generations, saved seeds become more resilient and productive on your specific land.
 ## Why Save Seeds
 - Cost savings: never buy seed for your staple crops again
-- Adaptation: plants become better adapted to your soil, climate, and growing methods over generations
+- Adaptation: plants become better adapted to your soil, climate, and growing methods over generations -- a principle shared with [[permaculture-seed-saving-and-selection|permaculture seed saving]]
 - Genetic diversity: preserve heirloom and open-pollinated varieties that may disappear from commercial catalogs
 - Self-reliance: independence from seed companies and supply chain disruptions
 - Community: share and trade seeds with other local growers
@@ -84,8 +84,9 @@ Before planting saved seeds (especially older ones), test germination rate:
 4. Check daily for 7-14 days
 5. Count sprouted seeds: 8-10 sprouted = excellent; 5-7 = acceptable but sow thicker; under 5 = discard or save more next season
 ## Seed Storage
-Proper storage is critical for maintaining viability:
-- Seeds must be completely dry before storage (below 8% moisture for most seeds)
+Proper storage is critical for maintaining viability. The principles of
+[[solomon-seed-quality-and-germination-testing|seed quality testing]] apply
+here: seeds must be completely dry before storage (below 8% moisture for most seeds).
 - Store in airtight containers: glass jars with tight lids, metal tins, or moisture-proof bags
 - Add a desiccant packet (silica gel) to each container
 - Store in a cool, dark, dry location
@@ -106,7 +107,8 @@ Proper storage is critical for maintaining viability:
 | Parsnips | 1-2 years |
 | Carrots | 3-5 years |
 ## Biennial Crops
-Some crops (carrots, beets, onions, cabbage, kale, parsnips) are biennials -- they produce seed in their second year of growth. To save seed:
+Some crops (carrots, beets, onions, cabbage, kale, parsnips) are biennials -- they produce seed in their second year of growth. Biennial seed production requires careful [[vegetable-seed-and-transplant-guide|transplant handling]]
+and planning. To save seed:
 1. Grow the crop in year one and select the best roots/plants at harvest
 2. Store selected roots in a cool, humid location over winter (root cellar, refrigerator in damp sand, or mulched in the ground)
 3. Replant in early spring of year two
@@ -123,3 +125,10 @@ Many communities have seed libraries where members can borrow seeds, grow them, 
 - [[seed-saving-in-permaculture]] for seed saving within permaculture design systems
 - [[vegetable-seed-and-transplant-guide]] for seed starting and transplanting techniques
 - [[solomon-seed-saving-guide]] for Steve Solomon's approach to seed saving fundamentals
+
+## Related Pages
+
+[[permaculture-seed-saving-breeding]] covers seed saving within permaculture design and selection for local adaptation.
+[[fruit-tree-propagation]] describes vegetative propagation methods as an alternative to seed-based reproduction.
+[[permaculture-multipurpose-trees]] explores tree crops whose seeds can be saved for food, fodder, and agroforestry.
+[[mollison-designers-seed-pelleting-and-pretreatment]] details seed treatment techniques that complement proper seed storage.

@@ -45,7 +45,10 @@ weeds, and protects the soil.
 **Nitrogen Fixation**: Leguminous cover crops such as
 clover, alfalfa, and bur clover fix atmospheric nitrogen
 through symbiotic relationships with rhizobia bacteria,
-reducing or eliminating the need for nitrogen inputs.
+reducing or eliminating the need for nitrogen inputs. This
+biological nitrogen fixation is a key [[soil-health|soil health]]
+strategy also central to [[permaculture-green-manure-crops|green manure]]
+practices.
 
 **Weed Suppression**: A dense cover crop outcompetes
 undesirable weeds. Fukuoka found that by growing grasses
@@ -63,7 +66,9 @@ water-holding capacity.
 
 **Soil Aeration**: The roots of grasses and green manure
 crops work the soil down to twelve inches, replacing the
-need for mechanical tillage.
+need for mechanical tillage. This aligns with [[fukuoka-no-till-grain-production-method|no-till]]
+principles and [[sheet-mulching-methods-urban-permaculture|sheet mulching]]
+techniques that protect soil structure.
 
 ## Natural Succession and Cover Crops
 
@@ -125,3 +130,10 @@ dimensions.
 - [[teaming-with-microbes-cover-crops-soil-health]] for soil biology benefits of cover cropping
 - [[white-clover-ground-cover]] and [[white-clover-living-mulch]] for specific clover management
 - [[succession-planting]] for timing cover crops with main crop rotations
+
+## Related Pages
+
+[[fukuoka-no-till-grain-production-method]] describes the no-till grain system where cover crops replace tillage.
+[[hugelkultur-bed-construction-detailed]] uses buried wood and organic matter as a long-term soil-building analog to cover cropping.
+[[soil-health]] covers the broader soil science that underpins why cover crops are effective.
+[[permaculture-green-manure-crops|green manure]] details specific green manure species and their nitrogen contributions.
