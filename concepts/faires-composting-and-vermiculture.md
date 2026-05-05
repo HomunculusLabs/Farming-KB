@@ -9,7 +9,10 @@ sources:
 ---
 # Composting and Vermiculture
 
-Composting converts kitchen scraps, yard waste, and manure into rich soil amendment through microbial decomposition. Vermiculture uses worms (specifically red wigglers) to process organic waste even faster, producing nutrient-dense castings. Together, these systems close the nutrient loop on a homestead, turning waste into fertility. For most households, food scraps constitute about 30% of garbage — material that can be returned to the soil instead of landfilled.
+Composting converts kitchen scraps, yard waste, and manure into rich soil amendment through [[decomposition|microbial decomposition]]. The [[teaming-with-microbes-compost-biology|compost biology]]
+driving this process involves successions of bacteria, actinomycetes, and fungi.
+Vermiculture uses worms (specifically red wigglers) to process organic waste even faster, producing nutrient-dense castings. See [[vermicomposting]] for detailed worm-based methods and [[fungal-decomposition-resource-quality-determinants|fungal decomposition dynamics]]
+that contribute to the later stages of compost breakdown. Together, these systems close the nutrient loop on a homestead, turning waste into fertility. For most households, food scraps constitute about 30% of garbage — material that can be returned to the soil instead of landfilled.
 
 ## Kitchen Compost
 

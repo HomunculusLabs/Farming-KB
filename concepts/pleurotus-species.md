@@ -14,7 +14,10 @@ The genus pleurotus-ostreatus|Pleurotus contains approximately 30-40
 recognized species of gilled mushrooms commonly known as [[oyster-mushrooms]]. They
 are among the most widely cultivated mushrooms globally, valued for their
 culinary quality, medicinal properties, and ease of cultivation on diverse
-[[oyster-mushroom-substrates]].
+[[oyster-mushroom-substrates]]. Like [[lentinula-edodes|shiitake]] and other
+saprotrophic genera, Pleurotus species rely on [[fungal-spore-dispersal-mechanisms|spore dispersal]]
+for colonization of new substrates, and their [[cotter-mushroom-life-cycle-mycelium-biology|life cycle]]
+follows the typical mushroom pattern of mycelial colonization followed by fruiting.
 
 ## Taxonomy and Classification
 

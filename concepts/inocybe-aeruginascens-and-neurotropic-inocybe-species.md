@@ -20,11 +20,12 @@ sources:
 The genus Inocybe represents one of the most surprising groups of
 neurotropic fungi. As members of the family Cortinariaceae, Inocybe
 species are not visually associated with the typical "magic mushroom"
-morphotype, lacking the bluing reaction characteristic of most
+morphotype, lacking the [[metol-testing-bluing-reaction-mushrooms|bluing reaction]] characteristic of most
 psilocybin-containing fungi. Yet several Inocybe species have been
 confirmed to contain [[psilocybin]], [[psilocin]], and related indole
 alkaloids, making them important but often overlooked members of the
-[[neurotropic-fungi|neurotropic mycoflora]].
+[[neurotropic-fungi|neurotropic mycoflora]]. See [[psilocybe-genus-diversity-and-taxonomy]] for
+comparison with the more widely studied [[mushroom-spore-printing-and-storage|spore-print-producing]] Psilocybe genus.
 
 ## The Genus Inocybe
 

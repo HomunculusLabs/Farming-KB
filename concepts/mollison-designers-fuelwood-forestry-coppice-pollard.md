@@ -9,7 +9,8 @@ sources:
 
 # Fuelwood Forestry: Coppice, Pollard, and Sustainable Yield
 
-Mollison addresses fuelwood production as a critical component of permaculture
+[[agroforestry]] integrates fuelwood production with agricultural systems,
+and Mollison addresses fuelwood production as a critical component of permaculture
 land use in Permaculture: A Designer's Manual. In a world increasingly dependent
 on fossil fuels, the sustainable production of wood fuel from designed
 woodlots represents both an energy strategy and an ecological rehabilitation

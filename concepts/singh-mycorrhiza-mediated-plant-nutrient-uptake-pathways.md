@@ -11,7 +11,9 @@ sources:
 
 [[mycorrhizal-fungi]] fundamentally alter plant nutrient acquisition by extending
 the effective absorptive surface area of root systems and accessing nutrient
-pools unavailable to non-mycorrhizal roots. Singh's treatment of mycorrhizal
+pools unavailable to non-mycorrhizal roots. These [[mycorrhizal-mineral-weathering-nutrient-acquisition|mineral weathering]] and
+[[arbuscular-mycorrhizal-networks|network-based]] strategies are central to how fungi
+influence plant nutrition. Singh's treatment of mycorrhizal
 nutrient dynamics emphasizes the molecular and physiological mechanisms
 underlying this symbiosis, with particular attention to phosphate uptake,
 nitrogen forms, and micronutrient transport that together determine plant

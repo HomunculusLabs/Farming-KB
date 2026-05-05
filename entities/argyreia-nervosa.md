@@ -2,131 +2,147 @@
 title: Argyreia nervosa
 type: species
 tags:
-  - convolvulaceae
-  - psychoactive
-  - lsa
   - hawaiian-baby-woodrose
+  - lsa
+  - ergoline-alkaloids
+  - psychedelic
+  - convolvulaceae
+  - morning-glory
   - entheogen
+  - traditional-use
+  - seed
+  - tropical-vine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+  - https://en.wikipedia.org/wiki/Argyreia_nervosa
+  - https://pubmed.ncbi.nlm.nih.gov/?term=argyreia+nervosa+lysergamide
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6609648/
+  - https://www.erowid.org/plants/argyreia/argyreia.shtml
 ---
 
-# Argyreia nervosa
+# Argyreia nervosa (Hawaiian Baby Woodrose)
 
-**Argyreia nervosa**, commonly known as **Hawaiian Baby Woodrose** (HBW) or **Elephant Creeper**, is a perennial climbing vine in the morning glory family (Convolvulaceae). It is notable for producing the highest natural concentration of lysergic acid amide (LSA) in its seeds — approximately 0.3% by weight, roughly 5–10 times the concentration found in morning glory ([[ipomoea-violacea]]) or [[ololiuqui]] ([[turbina-corymbosa]]) seeds. Native to the Indian subcontinent, the plant has become naturalized in tropical and subtropical regions worldwide.
+**Argyreia nervosa**, commonly known as **Hawaiian Baby Woodrose** (HBWR), is a perennial climbing vine in the Convolvulaceae (morning glory) family. Native to the Indian subcontinent, it is widely cultivated as an ornamental and is known for its seeds, which contain ergoline alkaloids including **lysergic acid amide (LSA)**, a naturally occurring compound structurally related to LSD.
 
-## Taxonomy
+## Taxonomy and Botany
 
 - **Family:** Convolvulaceae
-- **Genus:** Argyreia
-- **Species:** A. nervosa
-- **Authority:** (Burm. f.) Bojer
-- **Synonyms:** Convolvulus nervosus Burm. f., Argyreia speciosa Sweet
-- **Common names:** Hawaiian Baby Woodrose, Elephant Creeper, Woolly Morning Glory, Silver Morning Glory
+- **Genus:** *Argyreia*
+- **Species:** *A. nervosa* (Burman f.) Bojer
+- **Common names:** Hawaiian Baby Woodrose, Elephant Creeper, Woolly Morning Glory, Vidhara (Sanskrit/Ayurveda)
 
-The genus Argyreia contains approximately 90 species distributed across tropical Asia and the Pacific. A. nervosa is the only species in the genus known to contain significant psychoactive alkaloid concentrations.
+The plant is a vigorous woody vine that can climb 10–15 meters. It features large, heart-shaped leaves (10–20 cm) covered on the undersurface with a distinctive silvery-white indumentum (fuzzy hair). Flowers are trumpet-shaped, pink to purplish, approximately 5–7 cm long. The seed pods are round, woody capsules containing 1–4 large, durable seeds (~8–12 mm diameter).
 
-## Botany
+### Distribution
+- **Native:** Indian subcontinent (India, Nepal, Sri Lanka, Bangladesh)
+- **Introduced/naturalized:** Hawaii, Caribbean, West Africa, Southeast Asia, northern Australia
+- **Habitat:** Tropical and subtropical forests, roadsides, disturbed areas up to 1000 m elevation
 
-Argyreia nervosa is a robust, woody, twining vine that can climb to 10 meters or more:
-- **Leaves:** Large, heart-shaped (10–25 cm), covered with silvery-white hairs on the underside (giving the genus name from Greek argyros, "silver")
-- **Stems:** Thick, woody, covered in fine pubescence; produces vigorous annual growth from a woody base
-- **Flowers:** Large, trumpet-shaped, pink to purple, 5–8 cm long, borne in cymes; similar in appearance to morning glory flowers but larger
-- **Seeds:** Large, rounded, brown to black, 8–12 mm diameter, contained in woody capsules; each capsule typically produces 1–4 seeds
-- **Root:** Large, tuberous root system that allows survival through dry seasons
+## Chemical Composition
 
-The plant is adapted to monsoon climates with pronounced wet and dry seasons. It grows in forest margins, along streambanks, and in disturbed areas from sea level to 1000 meters elevation.
+### Ergoline Alkaloids in Seeds
+The primary psychoactive constituents are ergoline alkaloids found predominantly in the seeds:
 
-## Chemistry
+| Alkaloid | Approximate Content | Notes |
+|----------|-------------------|-------|
+| Ergine (LSA) | 0.3–0.9% | Primary psychoactive; lysergic acid amide |
+| Isoergine | 0.05–0.2% | Isomer of LSA; less active |
+| Ergometrine (ergonovine) | 0.01–0.06% | Uterotonic; ergot alkaloid |
+| Lysergic acid hydroxyethylamide (LSH) | Trace | Potentially psychoactive |
+| Lysergic acid amide | — | Same as ergine |
+| Chanoclavine | Trace | Ergot alkaloid precursor |
+| Elymoclavine | Trace | Ergot alkaloid |
 
-The seeds of Argyreia nervosa contain a complex ergoline alkaloid profile:
+### Variability
+Alkaloid content varies significantly between seed sources, populations, and harvest years. Hawaiian-grown seeds are reported to have higher LSA content than seeds from Indian populations. Seed coat extraction methods and preparation also dramatically affect bioavailability.
 
-| Compound | Concentration | Notes |
-|----------|--------------|-------|
-| Lysergic acid amide (LSA) | ~0.3% | Primary psychoactive compound |
-| Lysergic acid hydroxyethylamide (LSH) | Present | Contributes to physical side effects |
-| Ergometrine (ergonovine) | Trace | Uterotonic |
-| Isoergine | Present | Inactive isomer |
-| Chanoclavine | Trace | Ergoline precursor |
-| Elymoclavine | Trace | Ergoline intermediate |
+### Other Plant Parts
+Leaves and roots contain trace amounts of alkaloids but are not considered psychoactive at typical consumption levels.
 
-At ~0.3% LSA, A. nervosa seeds are the most potent natural LSA source known. A typical psychoactive dose requires only 3–8 seeds, compared to 50–300 morning glory seeds.
+## Traditional Use
 
-## Traditional and Ethnobotanical Use
+### Ayurvedic Medicine
+In Ayurvedic tradition, *Argyreia nervosa* is known as **Vidhara** or **Samudra-sosh**. It is classified as a *rasayana* (rejuvenative) herb and has been used for:
 
-Unlike other Convolvulaceae used in Mesoamerica (ololiuqui, tlitliltzin), A. nervosa does not have a well-documented history of traditional psychoactive use in its native range. Traditional Indian medicine (Ayurveda) uses the plant primarily for its purported medicinal properties:
-- Anti-inflammatory and analgesic applications
-- Treatment of rheumatism and joint pain
-- Aphrodisiac and nervine tonic preparations
-- The root is used more commonly than the seeds in traditional practice
+- Improving vitality and sexual function (*vajikarana*)
+- Reducing inflammation and joint pain
+- Treating respiratory conditions (cough, bronchitis)
+- Wound healing and skin disorders
+- Enhancing memory and cognitive function
+- Promoting longevity
 
-The psychoactive use of the seeds appears to be a modern phenomenon, first reported in the 1960s–1970s after the plant became widely naturalized in Hawaii and its high LSA content was recognized. The seeds are sometimes referred to as "Hawaiian woodrose seeds" in this context, though the plant's psychoactive properties were not traditionally exploited by Hawaiian culture.
+The Ayurvedic preparations typically use the root, not the seeds, and involve decoctions or powders in formulations like *Vidharadi Kwath*.
 
-## Preparation and Use
+### Ethnobotanical Use
+Indigenous communities in India have used the plant for centuries. The psychoactive properties of the seeds were not widely documented in ethnobotanical literature until the 1960s, when Western researchers identified LSA as the active compound. The plant's introduction to Hawaii occurred in the early 20th century as an ornamental, where it naturalized readily.
 
-Common methods of preparation:
-- **Seed extraction:** Seeds are ground and soaked in cold water, then filtered; cold water extraction reduces non-polar compounds that contribute to nausea
-- **Full consumption:** Seeds chewed whole or powdered and encapsulated; most nausea-inducing but simplest method
-- **Defatting:** Some users pre-wash ground seeds with a non-polar solvent (naphtha) to remove fatty oils before aqueous extraction
+## Pharmacology of LSA (Ergine)
 
-**Dosage guidelines:**
-- **Threshold:** 1–2 seeds
-- **Light:** 3–4 seeds
-- **Moderate:** 5–6 seeds
-- **Strong:** 7–10 seeds
+### Mechanism of Action
+LSA is a partial agonist at **5-HT₂A serotonin receptors**, the primary mechanism underlying its psychedelic effects. It also binds to:
 
-## Adverse Effects
+- **5-HT₁A receptors** (contributing to anxiolytic/mood effects)
+- **Dopamine receptors** (D₂, contributing to stimulant aspects)
+- **Alpha-adrenergic receptors** (contributing to vasoconstriction)
 
-Argyreia nervosa seed preparations are associated with more pronounced physical side effects than other LSA sources:
-- **Nausea:** Very common, sometimes severe; attributed to the high alkaloid concentration and LSH content
-- **Vasoconstriction:** Peripheral vasoconstriction and associated coldness or numbness in extremities
-- **Sedation:** Significant lethargy and drowsiness are typical
-- **Uterine stimulation:** Ergometrine content poses risk during pregnancy
-- **Cyanogenic glycosides:** Some sources suggest the seed coat contains mild cyanogenic compounds, supporting the practice of scraping or removing the fuzzy seed coating before preparation
+The affinity for 5-HT₂A is approximately 10–20 times lower than LSD, which accounts for LSA's weaker psychedelic potency.
+
+### Effects Profile
+Typical effects from seed preparations (4–12 seeds) include:
+
+- **Onset:** 30–90 minutes
+- **Duration:** 4–8 hours
+- **Visual:** Mild color enhancement, pattern recognition, closed-eye imagery
+- **Cognitive:** Altered thought patterns, introspection, mild euphoria
+- **Somatic:** Nausea (common, often significant), lethargy, vasoconstriction
+- **Emotional:** Contemplative, sometimes dysphoric
+
+LSA is generally considered significantly less visual and more sedating than LSD or psilocybin. The experience is often described as more "dreamlike" than the sharp clarity of classical psychedelics.
+
+## Extraction and Preparation
+
+### Traditional/Crude Methods
+- **Whole seed ingestion:** Seeds are chewed or ground and swallowed. The seed coat contains cyanogenic glycosides and bitter compounds contributing to nausea.
+- **Cold water extraction:** Ground seeds soaked in cold water, filtered. Removes some non-alkaloid compounds but is inefficient.
+- **Nonpolar wash:** Seeds are soaked briefly in petroleum ether or naphtha to remove surface oils and fatty compounds, then dried before consumption.
+
+### Chemical Extraction
+LSA can be extracted using a modified acid-base extraction:
+1. Defat seeds with nonpolar solvent (petroleum ether)
+2. Extract alkaloids into acidic aqueous solution (dilute acetic acid)
+3. Basify to pH ~9 with sodium carbonate
+4. Pull alkaloids into nonpolar solvent (dichloromethane or diethyl ether)
+5. Evaporate solvent to obtain crude alkaloid fraction
+
+**Note:** LSA is a controlled substance in many jurisdictions. Extraction constitutes manufacture of a scheduled substance.
+
+## Safety and Toxicity
+
+### Nausea
+The most commonly reported adverse effect. Attributed to:
+- Cyanogenic glycosides in the seed coat (release small amounts of HCN)
+- Ergot alkaloids stimulating the chemoreceptor trigger zone
+- Non-alkaloid fatty compounds
+- Seed coatings and treatments on commercial horticultural seeds
+
+### Vasoconstriction
+Ergot alkaloids cause vasoconstriction, which can produce:
+- Cold extremities and numbness
+- Mild to moderate hypertension
+- In severe cases: peripheral ischemia (rare at typical doses)
+
+### Ergotism Risk
+While the risk of true ergotism (St. Anthony's fire) from HBWR seeds is very low due to the relatively low concentrations of potent vasoconstrictive ergopeptines, chronic heavy use could theoretically pose cardiovascular risks.
+
+### Seed Treatments
+Commercially available HBWR seeds sold for horticultural purposes are often treated with fungicides or pesticides that are toxic if ingested. Seeds should ideally be sourced from untreated, organic suppliers if intended for consumption.
+
+### Contraindications
+- Pregnancy (ergot alkaloids are uterotonic)
+- Cardiovascular disease, hypertension
+- History of psychosis or severe mental illness
+- MAOIs (potential serotonin syndrome)
+- Medications affecting serotonin (SSRIs, triptans)
 
 ## Cultivation
-
-A. nervosa is widely cultivated as an ornamental vine and for seed production:
-- **Climate:** Tropical to subtropical; thrives in USDA zones 9–11
-- **Propagation:** Primarily from seed; scarification improves germination rates
-- **Growth:** Rapid vegetative growth during warm, wet seasons; may become invasive in tropical climates
-- **Seed production:** Seeds mature 3–5 months after flowering; viable for several years when stored dry
-- **Ornamental value:** Valued for large, attractive foliage and showy flowers
-
-## Legal Status
-
-- **United States:** Not specifically scheduled at the federal level, but LSA is a Schedule III substance; seeds sold for ornamental/horticultural purposes
-- **Australia:** Scheduled as a prohibited substance
-- **UK:** Controlled under the Psychoactive Substances Act 2016
-- **Many jurisdictions:** Seeds may be sold but extraction or preparation for consumption is prohibited
-
-## Pharmacology of Seed Alkaloids
-
-The total alkaloid content of A. nervosa seeds produces a complex pharmacological interaction:
-
-- **Ergoline receptor profile:** LSA binds to multiple [[serotonin]] receptor subtypes (5-HT1A, 5-HT2A, 5-HT2C) with moderate affinity, while LSH has additional affinity for dopamine and adrenergic receptors
-- **Uterotonic activity:** Ergometrine content produces oxytocic effects on uterine smooth muscle, similar to pharmaceutical ergometrine used in obstetrics
-- **Vasoactivity:** Ergoline alkaloids produce peripheral vasoconstriction via 5-HT2A receptor activation on vascular smooth muscle
-- **CNS effects:** The combined agonism at multiple serotonergic, dopaminergic, and adrenergic receptor sites produces the characteristic dreamy-sedating psychoactive experience
-
-The higher total alkaloid load per seed compared to other LSA-containing species means that fewer seeds are needed for psychoactive effects, but adverse physical effects (nausea, vasoconstriction) are also proportionally more pronounced.
-
-## Ecological Considerations
-
-A. nervosa has become an invasive species in several tropical regions:
-- **Hawaii:** Widely naturalized after introduction as an ornamental; climbs and smothers native vegetation
-- **Australia:** Listed as a potential environmental weed in northern tropical regions
-- **Caribbean:** Established in several islands where it can outcompete native vegetation
-- **India:** Native range, where it is common in forest margins and along waterways
-
-## See Also
-
-- [[lysergic-acid-amide]] — primary psychoactive compound in seeds
-- [[ipomoea-violacea]] — morning glory, lower-concentration LSA source
-- [[turbina-corymbosa]] — ololiuqui, traditional Mesoamerican LSA source
-- [[rivea-corymbosa]] — taxonomic synonym, traditional Aztec entheogen
-- lsd — synthetic derivative of LSA
-- ergot — fungal source of ergoline alkaloids
-- [[ergometrine]]

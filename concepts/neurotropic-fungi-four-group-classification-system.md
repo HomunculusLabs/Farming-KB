@@ -1,127 +1,129 @@
 ---
-title: Neurotropic Fungi Four Group Classification System
-tags: [mycology, classification, neurotropic-fungi, psilocybin, ergot, ibotenic-acid, ethnobotany]
+title: Neurotropic Fungi Classification and the Four-Group System
+tags: [mycology, neurotropic-fungi, psilocybin, taxonomy, guzman-allen-gartz, classification, hallucinogens, ergot, ibotenic-acid]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. "A Worldwide Geographical Distribution of the Neurotropic Fungi, an Analysis and Discussion." Ann. Mus. civ. Rovereto 14:189-280 (1998-2000).
+  - Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Annali del Museo Civico di Rovereto, Sez.: Arch., St., Sc. nat., 14, 189-280.
 ---
 
-# Neurotropic Fungi Four Group Classification System
+# Neurotropic Fungi Classification and the Four-Group System
 
-The definitive taxonomic framework for organizing all known hallucinogenic and neurotropic mushrooms was established by Guzmán, Allen and Gartz (1998-2000) in their landmark global survey. This system divides 216 accepted species of neurotropic fungi into four distinct groups based on their active chemical constituents and cultural significance. The classification was an update of an earlier list by Allen et al. (1992) that considered only 128 species.
+Gastón Guzmán, John W. Allen, and Jochen Gartz proposed a comprehensive four-group classification system for neurotropic (hallucinogenic) fungi in their landmark 2000 paper. This system organizes all known neurotropic mushroom species into categories based on their chemical constituents and cultural uses, covering 216 species across multiple genera and all continents.
 
-## Group 1: Indole-Containing Fungi (Psilocybin and Related Compounds)
+## The Four Groups
 
-This is by far the largest group, encompassing the majority of neurotropic species. These fungi contain **psilocybin**, **psilocin**, **baeocystin**, and/or **norbaeocystin** as their principal active compounds. The group spans 20 genera with the following species counts:
+### Group 1: Psilocybin and Related Indoles
 
-- **[[Psilocybe]]**: 116 species (the overwhelming majority, representing 54% of all accepted neurotropic species)
-- **[[Gymnopilus]]**: 14 species including G. aeruginosus, G. braendlei, G. intermedius, G. lateritius, G. liquiritiae, G. luteofolius, G. luteoviridis, G. luteus, G. purpuratus, G. sapineus, G. spectabilis, G. subpurpuratus, G. validipes, and G. viridans
-- **[[Panaeolus]]**: 13 species including P. africanus, P. ater, P. castaneifolius, P. fimicola, P. microsporus, P. moellerianus, P. olivaceus, P. papilionaceus, P. retirugis, P. rubricaulis, P. sphinctrinus, P. subbalteatus, and P. venezolanus
-- **[[Copelandia]]**: 12 species including C. affinis, C. anomala, C. bispora, C. cambodginiensis, C. chlorocystis, C. cyanescens, C. lentisporus, C. mexicana, C. tirunelveliensis, C. tropica, C. tropicalis, and C. westii
-- **[[Hypholoma]]**: 6 species (H. gigaspora, H. guzmanii, H. naematoliformis, H. neocaledonica, H. popperianum, H. rhombispora)
-- **[[Pluteus]]**: 6 species (P. atricapillus, P. cyanopus, P. glaucus, P. nigriviridis, P. salicinus, P. villosus)
-- **[[Inocybe]]**: 6 species (I. aeruginascens, I. coelestium, I. corydalina with two varieties, I. haemacta, I. tricolor)
-- **[[Conocybe]]**: 4 species (C. cyanopus, C. kuehneriana, C. siligineoides, C. smithii)
-- **[[Panaeolina]]**: 4 species (P. foenisecii, P. microsperma, P. rhombisperma, P. sagarae)
-- **[[Gerronema]]**: 2 species (G. fibula, G. solidipes)
-- **[[Agrocybe]]**, **[[Galerina]]**, **[[Mycena]]**: 1 species each
+The largest group contains species with psilocybin and related indole compounds, or those likely to contain these substances. This group encompasses the majority of known neurotropic fungi:
 
-Within [[Psilocybe]], the bluing reaction serves as a key field indicator of neurotropic activity. Species known to bruise blue belong to sections Aztecorum, Brunneocystidiatae, Cordisporae, Cubensies, Mexicanae, Semilanceatae, Stuntzae, Subaeruginosae, and Zapotecorum. However, bluing is not universal among active species, and some non-bluing species in genera like [[Panaeolus]] and [[Inocybe]] have been confirmed to contain indole alkaloids through chemical analysis.
+| Genus | Number of Species |
+|-------|------------------|
+| [[Psilocybe]] | 116 |
+| [[Gymnopilus]] | 14 |
+| [[Panaeolus]] | 13 |
+| [[Copelandia]] | 12 |
+| [[Hypholoma]] | 6 |
+| [[Pluteus]] | 6 |
+| [[Inocybe]] | 6 |
+| [[Conocybe]] | 4 |
+| [[Panaeolina]] | 4 |
+| [[Gerronema]] | 2 |
+| [[Agrocybe]] | 1 |
+| [[Galerina]] | 1 |
+| [[Mycena]] | 1 |
 
-Several species in this group remain chemically unconfirmed. The Panaeoloideous fungi are particularly problematic, as many have never been subjected to rigorous chemical analysis. The taxonomic treatment follows Singer (1986) with modifications by Guzmán (1983, 1995), excluding Section Chrysocystidiatae. The authors explicitly do not follow the broader generic concepts of Kühner and Romagnesi (1953) and Kühner (1980), which would merge [[Psilocybe]], [[Hypholoma]], and [[Stropharia]] into a single genus.
+Several species in this group, mainly among the Panaeoloideous fungi, have no known chemical studies confirming the presence of active compounds. The presence of psilocybin in some species has been disputed or found to be unreliable upon re-analysis.
 
-## Group 2: Ibotenic Acid-Containing Fungi
+### Group 2: Ibotenic Acid
 
-This small but culturally significant group contains species producing **ibotenic acid** and its decarboxylation product **muscimol** as primary active compounds:
+This group contains three [[Amanita]] species known to produce ibotenic acid and muscimol:
 
-- **[[Amanita muscaria]]** (the classic fly agaric) with numerous subspecies and varieties including ssp. muscaria, ssp. americana, ssp. flavivolvata, ssp. kamtschatica, var. alba, var. formosa, and var. persicina
-- **[[Amanita pantherina]]** (the panther cap) with varieties including var. mutisquamosa, var. pantherinoides, and var. velatipes
-- **[[Amanita regalis]]** (the royal fly agaric, sometimes treated as A. muscaria var. regalis)
+- **Amanita muscaria** — The classic fly agaric, used traditionally in Siberia among the Chukchee and Koryak peoples
+- **Amanita pantherina** — Panther cap, documented to contain ibotenic acid by Hatfield (1979)
+- **Amanita regalis** — A related species with similar properties
 
-Unlike the psilocybin-containing fungi, these [[Amanita]] species produce a fundamentally different type of intoxication characterized by ataxia, visual distortions, and sometimes delirium rather than the vivid hallucinations associated with tryptamine-containing species. They are confined to temperate and boreal regions of the Northern Hemisphere, where they form mycorrhizal associations with [[Pinus]] and [[Betula]] trees. However, [[Amanita muscaria]] has been widely introduced to pine plantations in tropical regions including Brazil (Homrich, 1965), Colombia (Velásquez et al., 1998), Tanzania (Härkönen, 1995), Australia (Cleland, 1976), and New Zealand (Hongo and Yokoyama, 1978).
+The [[Amanita]] neurotropics are pharmacologically distinct from the psilocybin-containing fungi, acting primarily on GABA receptors rather than serotonin receptors.
 
-The [[Amanita muscaria]] complex is historically significant as a sacred fungus among Siberian peoples. Wasson and Wasson (1957) brought attention to its importance between the Chukchee and Koryak peoples of Siberia, drawing parallels with psilocybian mushroom use in Mexico. Hatfield (1979) confirmed the presence of ibotenic acid in [[Amanita pantherina]] and A. cothurnata.
+### Group 3: Ergot Fungi
 
-## Group 3: Ergot Fungi (Clavicipitales)
+The ergot group contains species of [[Claviceps]] and [[Cordyceps]]:
 
-This group contains the well-known **ergot alkaloids** produced by ascomycetous fungi, belonging to the order Clavicipitales:
+- **5 species of Claviceps** — Including the famous Claviceps purpurea, source of ergot alkaloids that can produce hallucinations (ergotism)
+- **2 species of Cordyceps** — Including C. capitata and C. ophioglossoides, used ceremonially by indigenous peoples in Mexico
 
-**Claviceps species** (5 accepted):
-- [[Claviceps purpurea]] (the classic ergot of rye, with several taxonomic forms documented by Grasso, 1955)
-- [[Claviceps nigricans]]
-- [[Claviceps paspali]] (considered synonymous with C. rolfesii by Farr et al., 1989)
-- [[Claviceps rolfesii]]
-- [[Claviceps tripsicii]]
+These ascomycete fungi are taxonomically distinct from the basidiomycete neurotropics in Groups 1 and 2. The genus Cordyceps is closely related to Claviceps. In Mexico, Cordyceps species are used in special nocturnal ceremonies, sometimes eaten together with [[Psilocybe muliercula]].
 
-**Cordyceps species** (2 probable):
-- [[Cordyceps capitata]] (growing as a parasite on [[Elaphomyces]] truffles)
-- [[Cordyceps ophioglossoides]] (also parasitic on Elaphomyces)
+### Group 4: Sacred Fungi Without Confirmed Chemistry
 
-The [[Claviceps]] species are widely distributed temperate organisms parasitizing grasses and cereals. [[Claviceps purpurea]] is historically the most significant, responsible for ergotism (St. Anthony's Fire) outbreaks throughout European history and the original source of lysergic acid derivatives. The [[Cordyceps]] species occupy a unique position at the intersection of Groups 3 and 4: they are taxonomically related to [[Claviceps purpurea]] but are used in traditional ceremonies in Mexico.
+This group contains species used as sacred fungi for which no reliable chemical studies confirming neurotropic properties have been found:
 
-The Trique Indians of Alta Mixteca, Oaxaca, use [[Cordyceps capitata]] and [[Cordyceps ophioglossoides]] in special nocturnal ceremonies, sometimes consuming them alongside [[Psilocybe muliercula]] ("hombrecitos" and "mujercitas", meaning "little men" and "little women"). A specimen of their host [[Elaphomyces]] is placed at the center of the ceremony room to act as a "director." These Cordyceps species were gathered by Wasson in a popular market in Mexico as sacred fungi, but Hofmann found no indoles in the old preserved specimens.
+- **Bolets**: Two genera with 8 species total, reported by Heim as hallucinogenic among New Guinea aborigines, though Ott (1993) stated they do not possess neurotropic properties
+- **[[Russula]]**: 6 species used in ceremonial contexts
+- **Gasteromycetes** (puffballs): 6 species across 3 genera including [[Lycoperdon]] and [[Astraeus]]
 
-## Group 4: Sacred Fungi Without Confirmed Chemistry
+Many species in this group are likely the result of **confusion or substitution** with confirmed neurotropic species. For example, Ott et al. (1975) identified at least nine species of "narcotic puffballs" used by the Mixtec Indians of Oaxaca that contained no neurotropic properties. Similarly, [[Dictyophora indusiata]] is used for divination among the Chinantec Indians despite lacking confirmed active compounds.
 
-This group includes fungi used ceremonially by indigenous peoples for which no reliable chemical studies confirming neurotropic properties have been published:
+## Problems in Classification
 
-**Boletes** (8 species in 2 genera, all from New Guinea):
-- [[Boletus]]: 6 species (B. flammeus, B. kumaeus, B. manicus, B. nigerrimus, B. nigroviolaceus, B. reayi) described by Heim (1963, 1966)
-- [[Heimiella]]: 2 species (H. anguiformis, H. retispora)
+### Misidentification
 
-**Russula** (6 species, all from New Guinea):
-- R. agglutinata, R. kirinea, R. maenadum, R. nondorbingi, R. pseudomaenadum, R. wahgiensis
+Misidentification is a significant factor contributing to confusion in published chemical studies. Chemical studies frequently lack a taxonomic basis, and in some cases, mixtures of different species were studied. Guzmán found a mixture of Panaeolus spp., Psilocybe mexicana, and P. coprophila all identified as P. coprophila in material used by Leslie and Repke to isolate psilocybin.
 
-**Gasteromycetes** (6 species in puffballs and stinkhorns, primarily from Mexico):
-- Lycoperdales: [[Lycoperdon candidum]], [[Lycoperdon oblongiosporum]], [[Vascellum pratense]], [[Vascellum intermedium]], [[Vascellum qudenii]]
-- Phallales: [[Dictyophora indusiata]] (with three recognized forms, used by Chinantec Indians for divination)
+### Conflicting Reports
 
-The boletes and [[Russula]] species were reported by Heim from New Guinea, where aboriginal peoples use them in ceremonies. Ott (1993) stated that these boletes likely possess no neurotropic properties, but they are retained in the classification due to their cultural importance. The gasteromycetes, particularly the Mixtec "narcotic puffballs," represent a case of ethnobotanical complexity: Ott et al. (1975) demonstrated that at least nine species of puffballs used ceremonially by the Mixtec Indians contained no neurotropic substances, but were employed alongside genuine psychoactive species. [[Scleroderma verrucosum]] was experimentally proven poisonous.
+Frequently, a single species has been reported with and without neurotropic substances by different researchers. A prominent example is [[Panaeolina foenisecii]]: Mantle and Waight (1969), Ott and Guzmán (1976), Beug and Bigwood (1982), and Stijve (1987) found no psilocybin, while Robbers et al. (1969), Olah (1969), and others reported its presence. It appears P. foenisecii is more toxic than neurotropic.
 
-## Phytochemical Profiles Within Each Group
+### Volatility of Active Compounds
 
-### Indole Alkaloid Variation in Group 1
+The age of studied specimens is an important variable. Repke et al. (1977) showed variations in baeocystin content according to specimen age, with no trace of indoles in specimens analyzed 20-60 days after collection. This aligns with the traditional knowledge of Mexican Indians, who say that old dried specimens kept for more than one year are not effective. Ohenoja et al. (1987) found decreasing psilocybin in herbarium specimens of [[Psilocybe semilanceata]]: 0.014% (1869 specimen), 0.67% (1954), and 0.84% (1976).
 
-The indole alkaloid profiles of Group 1 fungi show considerable variation both between and within species:
+### Unreliable Studies
 
-- **[[Psilocybe semilanceata]]** contains primarily psilocybin (0.17-1.34% dry weight) and baeocystin (0.01-0.28%), with psilocin typically absent or present only in trace amounts
-- **[[Psilocybe azurescens]]** contains among the highest concentrations of psilocybin ever reported (up to 1.78% dry weight), along with significant psilocin and baeocystin
-- **[[Psilocybe cyanescens]]** and [[Psilocybe bohemica]] (syn. [[Psilocybe serbica]]) show similar high-potency profiles, both belonging to Section Cyanescens
-- **[[Psilocybe cubensis]]** shows extreme variability in alkaloid content depending on geographical origin, substrate, and developmental stage
-- **[[Inocybe aeruginascens]]** and related species contain psilocybin and baeocystin but differ from [[Psilocybe]] in their overall alkaloid ratios
-- **[[Panaeolus cyanescens]]** (syn. [[Copelandia cyanescens]]) consistently shows high psilocin content relative to psilocybin, a characteristic feature of the [[Copelandia]] genus
+Several chemical studies must be considered doubtful due to analytical errors. Bresinsky and Besl (1990) considered studies on [[Stropharia cyanea]], S. coronilla, Mycena pura, and Amanita gemmata to be doubtful. Stijve and Kuyper (1988) did not find psilocybin in Gerronema fibula, Gymnopilus fulgens, G. spectabilis, or several other species previously reported as active.
 
-### Ibotenic Acid Chemistry in Group 2
+## Indigenous Mexican Names and Traditional Use
 
-The chemistry of Group 2 is fundamentally different from Group 1. Ibotenic acid (alpha-amino-3-hydroxy-5-isoxazoleacetic acid) acts as a glutamate receptor agonist at the metabotropic glutamate receptor mGluR5, while muscimol (a derivative of ibotenic acid produced by decarboxylation upon drying or cooking) acts as a GABA-A receptor agonist. This dual mechanism produces the characteristic dissociative, ataxic, and sometimes deliriant effects that distinguish [[Amanita]] intoxication from the serotonergic hallucinations of psilocybin-containing fungi.
+The neurotropic fungi were so important in Mexican traditions that Guzmán (1997) reported more than 200 common names, many in indigenous languages. Notable Nahuatl names include:
 
-### Ergot Alkaloid Complexity in Group 3
+- **"Teonanácatl"** — Divine mushroom (now indiscriminately applied to all Mexican hallucinogenic fungi)
+- **"Apipiltzin"** — Kid or little boy
+- **"Atkad"** — Mayor or leader
+- **"Di nizé taaya"** — Fungus of the genius
+- **"Shi thó"** — That eruptions thing
+- **"Teotlaquilnanácatl"** — Divine fungus
 
-The [[Claviceps]] species produce a complex mixture of ergoline alkaloids including ergotamine, ergocristine, ergocryptine, ergometrine (ergonovine), and lysergic acid amide (LSA). These compounds act primarily as agonists at serotonin, dopamine, and adrenergic receptors. The alkaloid profile varies significantly among [[Claviceps]] species and even among strains of the same species growing on different host plants. Some of these compounds are medically important: ergometrine is used to control postpartum hemorrhage, and derivatives of lysergic acid include the potent hallucinogen LSD.
+Common Spanish names include "san isidros" (a saint of agriculture, describing [[Psilocybe cubensis]]), "pajaritos" (little birds, for [[Psilocybe mexicana]]), and "derrumbes" (landslides, for [[Psilocybe zapotecorum]]).
 
-## Total Species Count and Unresolved Taxonomic Issues
+## Historical Periods of Neurotropic Fungi Study
 
-The 216 accepted species represent a substantial increase from earlier compilations. However, the authors note that more than 250 species have been reported as neurotropic in the literature. Several species were explicitly excluded from the accepted list, including [[Psilocybe atrobrunnea]], [[Psilocybe coprophila]], [[Psilocybe pseudobullacea]], [[Psilocybe lazoi]] (a doubtful species considered by Singer, 1986, as non-bluing and independent of [[Psilocybe zapotecorum]]), [[Psathyrella sepulchralis]], and [[Panaeolus antillarum]]. The taxonomy of [[Psilocybe coprinifacies]] remains particularly contentious, with some European authors recognizing it while others consider it a synonym of [[Psilocybe cyanescens]] or [[Psilocybe serbica]].
+Guzmán, building on Stamets' framework, identified five historical periods:
 
-### Non-Psilocybe Group 1 Genera in Detail
+1. **Ancient use**: Indigenous peoples in North America, Mesoamerica, Siberia, and New Guinea used neurotropic fungi in ceremonial and healing contexts
+2. **Early erroneous studies** (early 20th century): Schultes (1939) stated Mexican neurotropic fungi belonged only to Panaeolus campanulatus var. sphinctrinus, a position followed by Singer (1949)
+3. **Scientific investigation** (1950s onward): Wasson's studies triggered rigorous scientific documentation of species and chemistry
+4. **Recreational use and decline** (1960s): Utilization as recreational drugs and degeneration of traditional use, mainly in Mexico
+5. **Recapitulation** (present): New species descriptions, improved chemical analysis, and renewed scientific interest
 
-While [[Psilocybe]] dominates Group 1, the other genera contribute significant ecological and chemical diversity:
+## Volatility of Active Compounds and Passive Exposure
 
-**[[Copelandia]]** (12 species): This genus, segregated from [[Panaeolus]] by Singer (1973), contains some of the most potent neurotropic fungi known. Species are pantropical, growing on herbivore dung in pastures and grasslands. [[Copelandia cyanescens]] is among the most widely distributed, reported from Hawaii, Florida, Mexico, Central America, the Caribbean, South America, Africa, Southeast Asia, and Australia. The genus is characterized by distinctly pleurocystidiate lamellae and a strong bluing reaction. Some authorities do not recognize [[Copelandia]] as distinct from [[Panaeolus]], maintaining all species in the latter genus.
+Psilocybin and psilocin appear to be volatile compounds. Guzmán experienced colored hallucinations without consuming any fungi while sleeping in a small closed room filled with freshly collected specimens of a mixture of Psilocybe species (P. caerulescens, P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum) that had been gathered for commercial purposes. The air was heavy with a strong acrid aroma, and prolonged exposure resulted in hallucinations that ceased upon leaving the room.
 
-**[[Gymnopilus]]** (14 species): This genus of wood-inhabiting fungi produces large, colorful fruiting bodies with orange-to-red pilei. The neurotropic species include both widely distributed taxa ([[Gymnopilus spectabilis]], found in North America, Europe, and Asia; [[Gymnopilus purpuratus]], found in the Americas, Europe, and Oceania) and regionally restricted ones. The chemical identity of the active compounds in [[Gymnopilus]] has been debated, with some studies confirming psilocybin and others producing contradictory results. The genus's characteristic orange pigments may interfere with certain chemical assays.
+## Geographical Distribution Patterns
 
-**[[Panaeolus]]** (13 species): A cosmopolitan genus of dung-inhabiting fungi. Only some species in this genus have confirmed neurotropic properties. [[Panaeolus subbalteatus]] is the most widely documented neurotropic species, found across North America, Europe, and parts of Asia. The genus illustrates the difficulty of chemical confirmation: several [[Panaeolus]] species have never been chemically analyzed despite being morphologically similar to confirmed neurotropic species.
+Mexico has the highest number of neurotropic species of any country, with 76 species, of which 44 belong to Psilocybe — representing 39% of the world's Psilocybe species. The majority of Psilocybe species are found in or near the Austral hemisphere, mainly in subtropical humid forests. Within these forests reside the most well-documented ethnic groups that use neurotropic fungi, such as the native peoples of Mexico and New Guinea.
 
-**[[Hypholoma]]** (6 species): All six accepted neurotropic [[Hypholoma]] species were described from material collected in Mexico, New Caledonia, or Papua New Guinea, highlighting the tropical and southern hemisphere bias of this genus within Group 1. [[Hypholoma guzmanii]] and [[Hypholoma]] species from New Caledonia represent some of the most geographically restricted neurotropic fungi.
+## Terminology
 
-**[[Inocybe]]** (6 species): This large genus of ectomycorrhizal fungi includes several neurotropic species that are particularly dangerous because many [[Inocybe]] species are lethally toxic (containing muscarine). The neurotropic [[Inocybe]] species ([[Inocybe aeruginascens]], [[Inocybe coelestium]], [[Inocybe corydalina]]) grow in association with trees in parks, gardens, and forests, creating a significant risk of accidental poisoning by mushroom foragers who mistake them for edible species.
+The fungi with neurotropic properties are referred to by numerous names: hallucinogenic, narcotic, magic, sacred, psychedelic, or entheogenic mushrooms. The term "neurotropic" was favored by Guzmán as a scientifically neutral descriptor. The term "entheogen," proposed by R. Gordon Wasson and Jonathan Ott, has the same root as "enthusiasm" and means "releasing or expressing the divine within." "Hallucinogen," while commonly used in psychiatric literature, is considered misleading since these substances do not induce illusory perceptions — the original Latin alucinare means "to wander in one's mind," which is actually an appropriate description.
 
-The classification system serves as a working framework rather than a definitive statement. As molecular phylogenetic methods are applied to neurotropic fungi, many current species boundaries and generic assignments will likely change. The broad morphological diversity encompassed within [[Psilocybe]] (including both agaricoid and secotioid forms) and the chemical diversity across the four groups suggest that the natural evolutionary relationships may not align perfectly with the current four-group system. Nevertheless, this classification remains the most comprehensive and widely referenced framework for organizing knowledge of neurotropic fungi.
+## Other Reported Neurotropic Fungi
 
-## See Also
+Beyond the four main groups, several other fungi have been reported with neurotropic properties, though many of these reports are disputed:
 
-- [[amanita-muscaria]]
-- [[amanita-pantherina]]
-- [[amanita-regalis]]
+- **Phellinus igniarus** and **Fomes fomentarius** — Observed as narcotic fungi in Alaska
+- **Chlorophyllum molybdites** — Reported with neurotropic properties in Africa (Yoruba name: "a jegba ariwo-orun" meaning "eat and hear voices from heaven"), but widely considered poisonous
+- **Schizophyllum commune** — Reported as hallucinogenic in Australia, but is a common edible in Guatemala and southeastern Mexico
+- **Dictyophora indusiata** — Used for divination among Chinantec Indians in Oaxaca; available in three forms, all considered "narcotic"
+
+The confusion around some of these species often stems from shared indigenous names with confirmed neurotropic species. The Mazatec name "nise" (little bird) is used for both Psilocybe mexicana and the unrelated Schizophyllum commune, despite their entirely different properties.

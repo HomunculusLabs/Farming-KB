@@ -1,176 +1,150 @@
 ---
-title: Symphytum officinale
+title: 'Symphytum officinale'
 type: species
-tags:
-  - herbal-plant
-  - permaculture
-  - dynamic-accumulator
-  - medicinal-plant
-  - compost-activator
-  - polyculture
+tags: [herbal-plant, permaculture, dynamic-accumulator, medicinal-herb, polyculture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hills, L. (1976). Comfrey: Fodder, Food & Remedy. Faber & Faber.
-  - Newsholme, C. (1976). "The history and taxonomy of Symphytum." Botanical Journal of the Linnean Society, 73(3), 227-241.
-  - Rodecap, D. (2013). "Comfrey: A controversial plant with potential." Permaculture Activist, 102.
-  - Stickel, M., & Seitz, H.K. (2000). "The efficacy and safety of comfrey." Phytomedicine, 7(2), 91-94.
-  - Tilston, E.L., et al. (2013). "Dynamic accumulator plants: myth or reality?" Journal of Plant Nutrition and Soil Science.
+  - 'Hills L. Comfrey: Past Present and Future 1976'
+  - 'Martin R. The Comfrey Report 1983'
+  - 'Rode D. J Agric Food Chem 2002 — PA content analysis'
+  - 'Jefferies P. Permaculture Magazine — Bocking 14 cultivation'
 ---
 
-# Symphytum officinale (Common Comfrey)
-
-## Overview
-
-Symphytum officinale, commonly known as common comfrey, is a perennial herbaceous plant in the family Boraginaceae. Renowned in permaculture and organic gardening as a "dynamic accumulator" and "compost activator," comfrey is simultaneously valued as a medicinal herb (with important safety caveats) and as a nutrient-dense mulch and fertilizer crop. The species is native to Europe and parts of Western Asia and has been naturalized across temperate regions worldwide.
+# Comfrey (*Symphytum officinale*)
 
 ## Taxonomy
 
-- **Kingdom:** Plantae
-- **Clade:** Tracheophytes
-- **Clade:** Angiosperms
-- **Clade:** Eudicots
-- **Clade:** Boraginales
-- **Family:** Boraginaceae
-- **Genus:** Symphytum
-- **Species:** S. officinale
+| Rank | Classification |
+|------|---------------|
+| Family | Boraginaceae |
+| Genus | *Symphytum* |
+| Species | *S. officinale* |
+| Related species | ~35 species in genus |
 
-### Related Species and Cultivars
+## Common Names
 
-- **Symphytum × uplandicum** (Russian comfrey): A hybrid (S. officinale × S. asperum) more commonly cultivated in permaculture; sterile, spread only by root fragments
-  - **'Bocking 14':** The most widely grown cultivar in permaculture; high-yielding, sterile, deep-rooted
-- **Symphytum asperum** (Rough comfrey): Parent species of Russian comfrey; less commonly cultivated
-- **Symphytum tuberosum** (Tuberous comfrey): Less aggressive spreader; shorter stature
+Knitbone, boneset, bruisewort, slippery root, gum plant, healherb,
+assault-and-battery, wallwort, blackwort.
 
-## Description
+## Morphology
 
-### Botanical Characteristics
+- **Leaves**: Large, broadly lanceolate, covered in coarse hairs;
+  basal rosette up to 60 cm long.
+- **Flowers**: Bell-shaped, pendulous, cream to purplish-blue,
+  arranged in cymose scorpioid clusters; blooming May–July.
+- **Stem**: Erect, branching, 60–150 cm tall, winged at base.
+- **Root system**: Deep, fleshy taproot extending 2 m+,
+  black exterior, white interior, brittle and mucilaginous.
 
-Comfrey is a robust, clump-forming perennial growing 60–150 cm tall. It produces large, lanceolate to ovate leaves 15–60 cm long that are covered in coarse hairs, giving them a rough texture. The leaves form a basal rosette with smaller stem leaves clasping the stem.
+## Permaculture Role — Dynamic Accumulator
 
-The flowers are bell-shaped, typically 12–20 mm long, in one-sided curving clusters (cincinnus). S. officinale flowers are purplish-blue to violet (occasionally white or pink), blooming from May to July and sometimes into autumn. The fruit consists of four nutlets.
+Comfrey mines nutrients from deep subsoil layers and concentrates them
+in its leaf biomass, making those nutrients available at the surface
+when used as mulch or compost.
 
-### Root System
+| Nutrient | Role | Concentration in dry leaf |
+|----------|------|--------------------------|
+| N (Nitrogen) | Protein synthesis, foliage growth | 1.8% |
+| P (Phosphorus) | Root development, flowering | 0.5% |
+| K (Potassium) | Fruit/flower quality, disease resistance | 8.0% |
+| Ca (Calcium) | Cell wall structure, soil pH buffer | 2.0% |
+| Mg (Magnesium) | Chlorophyll core, enzyme activation | 0.3% |
+| Si (Silicon) | Structural reinforcement | trace |
+| Fe (Iron) | Electron transport, chlorophyll synthesis | trace |
 
-Comfrey develops an extremely deep and extensive taproot system, reaching depths of 2–3 meters (6–10 feet). This deep root system is the basis of its reputation as a "dynamic accumulator" — it mines minerals from subsoil layers unavailable to shallower-rooted plants and deposits them in its leaves through biological translocation.
+## Varieties Comparison
 
-### Habitat and Distribution
+| Feature | Common Comfrey (*S. officinale*) | Bocking 4 | Bocking 14 |
+|---------|---------------------------------|-----------|------------|
+| Type | Wild species | Sterile hybrid | Sterile hybrid |
+| Seed production | Fertile — can become invasive | Sterile | Sterile |
+| Leaf yield (kg/plant/yr) | 2–4 | 4–6 | 5–8 |
+| PA content | High | Low–moderate | Lowest |
+| Recommended use | Ornamental / limited use | General permaculture mulch | Preferred for fertilizer / tea |
+| Origin | Europe, W. Asia | L.D. Hills, Bocking, UK | L.D. Hills, Bocking, UK |
 
-Native to damp grasslands, riverbanks, and woodland edges throughout Europe (from the British Isles to the Caucasus). Naturalized in North America, New Zealand, and parts of South America. Prefers moist, fertile soils in partial shade to full sun. Hardy to USDA Zone 3.
+## Uses in Polyculture
 
-## Permaculture Applications
+### Chop-and-Drop Mulch
+Cut foliage 4–5 times per season (spring through early autumn) and
+lay directly around crops. Leaves decompose rapidly, releasing
+potassium-rich organic matter and suppressing weeds.
 
-### Dynamic Accumulator
+### Comfrey Tea (Liquid Fertilizer)
+1. Pack 1 kg fresh comfrey leaves into a container.
+2. Add 10 L water (or weight leaves down and collect the dark
+   exudate without water for a concentrated feed).
+3. Steep 2–4 weeks, stirring occasionally — expect strong odour.
+4. Dilute 1:10 with water and apply to fruiting plants every
+   2 weeks during the growing season.
 
-Comfrey is perhaps the most famous "dynamic accumulator" in permaculture literature. Its deep taproot is said to mine the following nutrients from subsoil:
+### Compost Activator
+Layer fresh comfrey leaves with carbon-rich browns (straw,
+cardboard, wood chips). The high nitrogen content accelerates
+microbial decomposition and raises internal compost temperatures.
 
-| Nutrient | Concentration in Leaves (dry weight) | Significance |
-|---|---|---|
-| **Potassium (K)** | 3.0–4.8% | Comparable to concentrated liquid kelp; excellent for flowering/fruiting plants |
-| **Nitrogen (N)** | 1.5–3.0% | Moderate nitrogen source; comparable to animal manures |
-| **Calcium (Ca)** | 1.2–2.4% | Important for cell wall structure; soil pH buffering |
-| **Phosphorus (P)** | 0.3–0.5% | Lower than N and K, but still significant |
-| **Magnesium (Mg)** | 0.3–0.5% | Essential for chlorophyll synthesis |
-| **Iron, copper, zinc, selenium** | Trace | Micronutrient contributions |
+### Nutrient Mining
+The deep taproot accesses minerals (especially potassium and
+calcium) far below the root zone of most annual crops, bringing
+them into the biological cycle at the soil surface.
 
-**Note:** The "dynamic accumulator" concept, while widely cited in permaculture, has been critiqued by soil scientists. Comfrey does accumulate nutrients in its leaves, but the mechanism is more accurately described as normal biological nutrient cycling rather than a unique "mining" ability. The practical value, however, remains well-established.
+## Companion Planting
 
-### Comfrey Fertilizer Preparations
+| Companion | Benefit |
+|-----------|---------|
+| Fruit trees (apple, plum, citrus) | Potassium feed via mulch ring; suppresses grass competition |
+| Tomatoes, potatoes | Boosts flowering and fruit set; K-rich tea prevents blossom end rot |
+| Comfrey under fruit bushes | Living mulch; reduces nutrient leaching |
 
-#### Comfrey Tea (Liquid Feed)
+## Traditional Medicinal Use
 
-The most common preparation. Fill a container with comfrey leaves, add water (optional — some prefer to let the leaves decompose without water for a more concentrated product), and steep for 2–6 weeks. The resulting liquid is diluted 1:10 to 1:15 with water and used as a potassium-rich liquid feed for tomatoes, peppers, fruiting vegetables, and fruit trees. The odor is notoriously pungent.
+### Active Compounds
 
-#### Comfrey Mulch
+| Compound | Concentration | Action |
+|----------|--------------|--------|
+| Allantoin | 0.3–1.0% | Cell proliferation, wound healing |
+| Rosmarinic acid | Variable | Anti-inflammatory, antioxidant |
+| Mucilage | High | Soothing, demulcent |
+| Tannins | Moderate | Astringent |
+| Pyrrolizidine alkaloids (PAs) | Variable | Hepatotoxic (see Safety) |
 
-Fresh comfrey leaves can be laid directly around plants as a nutrient-rich mulch. As they decompose, they release nutrients slowly. Particularly beneficial around potassium-hungry crops. Leaves break down rapidly (typically within 2–4 weeks) due to their high moisture content and thin structure.
+Historically applied as poultices for fractures, sprains, and
+wounds — hence the common name "knitbone." Anti-inflammatory
+properties support treatment of bruises, joint pain, and skin
+conditions.
 
-#### Compost Activator
+### PA Toxicity Controversy
 
-Adding comfrey leaves to compost piles accelerates decomposition. The high nitrogen and moisture content feeds thermophilic bacteria, raising compost temperatures and speeding breakdown of carbon-rich materials.
+Pyrrolizidine alkaloids (PAs) in comfrey — notably symphytine and
+echimidine — are hepatotoxic. Chronic ingestion has been linked to
+hepatic veno-occlusive disease (VOD), a potentially fatal condition.
+The PAs are present in all plant parts; roots contain the highest
+concentrations. This has led to regulatory restrictions on internal
+use in the EU, UK, Australia, and other jurisdictions.
 
-#### Comfrey Leaf Mold
+## Safety
 
-Layering comfrey leaves with soil in a container and allowing them to decompose creates a concentrated leaf mold that can be mixed into potting soil or used as a top dressing.
+- **Topical use only** is generally regarded as safe for
+  unbroken skin; risk of PA absorption through damaged skin is
+  debated but caution is warranted.
+- **Avoid internal use** of common comfrey (*S. officinale*) and
+  Russian comfrey (*S. × uplandicum*) in any form.
+- **Bocking 14** has the lowest measured PA content among
+  cultivated varieties but should still not be ingested.
+- **Contraindicated** during pregnancy, lactation, and in
+  individuals with pre-existing liver disease.
+- Do not use on deep open wounds or broken skin.
 
-### Biomass Production
-
-Russian comfrey 'Bocking 14' is exceptionally productive:
-
-- **Yield:** 4–7 kg (9–15 lbs) of fresh leaf per plant per harvest
-- **Harvest frequency:** 4–6 cuts per season (every 6–8 weeks from late spring to early autumn)
-- **Annual yield:** 15–30 kg per plant in ideal conditions
-- **Spacing:** Typically planted at 60–90 cm spacing in dedicated beds
-
-### Companion Planting
-
-- Grown beneath fruit trees as a living mulch and nutrient source
-- Compatible with currants, gooseberries, and raspberries
-- The flowers attract pollinators, particularly bumblebees
-- Can be interplanted in food forests and guild plantings
-
-### Pest Deterrent
-
-Some gardeners report that comfrey's alkaloid content deters certain pests, though scientific evidence is limited. The dense leaf canopy can suppress weeds when used as a living mulch.
-
-## Propagation
-
-### Russian Comfrey 'Bocking 14'
-
-Since 'Bocking 14' is sterile (produces no viable seed), propagation is exclusively vegetative:
-
-- **Root cuttings:** The standard method. Cut root pieces 2–5 cm long and plant horizontally 2–5 cm deep in spring. Each cutting produces a new plant. A single mature plant can produce dozens of root cuttings.
-- **Crown divisions:** Divide established crowns in early spring or autumn. Each division should have at least one growing point.
-
-### Common Comfrey (S. officinale)
-
-Can be propagated by seed (sown in spring) or root cuttings. Seed-grown plants show genetic variation. Common comfrey spreads by seed and can become invasive, which is why sterile 'Bocking 14' is preferred in permaculture.
-
-## Medicinal Uses and Safety
-
-### Historical and Traditional Use
-
-Comfrey has a 2,000+ year history of medicinal use. Its genus name *Symphytum* derives from the Greek *symphyo* ("to unite"), reflecting its traditional use for healing wounds, broken bones, and sprains. It was also used internally for gastrointestinal complaints, bronchitis, and arthritis.
-
-### Active Constituents
-
-- **Allantoin (0.3–1.0%):** Stimulates cell proliferation; promotes wound healing and tissue repair
-- **Rosmarinic acid:** Anti-inflammatory, antioxidant
-- **Mucilage:** Soothing to mucous membranes
-- **Tannins:** Astringent
-- **Pyrrolizidine alkaloids (PAs):** Hepatotoxic, carcinogenic, and mutagenic compounds
-
-### Safety Concerns — Pyrrolizidine Alkaloids (PAs)
-
-This is the critical safety issue with comfrey. The plant contains hepatotoxic pyrrolizidine alkaloids (primarily symphytine, lycopsamine, and their N-oxide derivatives):
-
-- **PA content varies:** Roots contain 0.2–0.4% PAs; leaves contain approximately 0.01–0.03% PAs
-- **Hepatotoxicity:** PAs cause hepatic veno-occlusive disease (VOD), which can be fatal
-- **Carcinogenicity:** PAs are genotoxic and carcinogenic in animal studies
-- **Regulatory status:** The German Commission E, UK MHRA, and Health Canada have banned or severely restricted internal use of comfrey-containing products
-- **External use:** Topical application is generally considered acceptably safe for intact skin (PAs are poorly absorbed dermally), but should not be applied to broken skin or used on open wounds
-- **Duration of exposure:** Risk is cumulative; chronic low-dose exposure is as concerning as acute high-dose exposure
-
-**Recommendation:** Internal use of comfrey is strongly discouraged. External use on intact skin for short periods is the only currently accepted application.
-
-## Cultivation Guide
+## Cultivation
 
 | Parameter | Details |
-|---|---|
-| **Hardiness** | USDA Zones 3–9 |
-| **Soil** | Tolerates most soils; prefers deep, moist, fertile loam |
-| **pH** | 6.0–7.5 |
-| **Sun** | Full sun to partial shade |
-| **Water** | Moderate; drought-tolerant once established but prefers consistent moisture |
-| **Propagation** | Root cuttings (sterile cultivars); seed or cuttings (common comfrey) |
-| **Spacing** | 60–90 cm |
-| **Lifespan** | Perennial; productive for 20+ years |
-| **Pests/Diseases** | Generally pest-free; comfrey rust can affect leaves in humid conditions |
-
-## See Also
-
-- [[comfrey-multifunctional-guild-plant]] — The most important permaculture comfrey cultivar
-- [[dynamic-accumulators]] — Overview of plants used for nutrient cycling in permaculture
-- stinging nettle — Another high-nitrogen compost activator and liquid feed plant
-- [[achillea-millefolium]] — A deep-rooted accumulator plant used in composting
-- [[comfrey-multifunctional-guild-plant]] — Preparation methods for comfrey liquid fertilizer
+|-----------|---------|
+| Propagation | Root cuttings (5 cm segments), crown divisions |
+| Soil preference | Any well-drained soil; tolerates clay, loam, sandy soils |
+| Light | Full sun to partial shade |
+| Hardiness | Hardy to -20 °C (USDA Zone 5) |
+| Drought tolerance | High once established; deep taproot provides resilience |
+| Spacing | 60–90 cm between plants |
+| Lifespan | Perennial; productive for 20+ years |
+| Pests/diseases | Generally pest-free; rust can occur in humid conditions |

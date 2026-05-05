@@ -122,13 +122,13 @@ sources:
 
 | Region | Status |
 |--------|--------|
-| United States | Schedule I (DEA); exemptions for clinical research; Oregon and Colorado have legalized supervised therapeutic use |
-| Netherlands | Fresh mushrooms illegal (2008 ban); truffles (*Psilocybe tampanensis*) remain legal |
+| United States | Schedule I; Oregon and Colorado allow supervised therapeutic use |
+| Netherlands | Fresh mushrooms banned (2008); truffles remain legal |
 | Brazil | Not scheduled; legal to cultivate and consume |
 | Jamaica | Legal; commercial retreat centers operate openly |
-| Canada | Restricted; exemptions granted for end-of-life therapy (2022+) |
-| UK/EU | Schedule I / Class A equivalent; illegal to possess, cultivate, or sell |
-| Australia | Schedule 9; approved for therapeutic use in clinical settings (2023) |
+| Canada | Restricted; exemptions for end-of-life therapy (2022+) |
+| UK/EU | Schedule I / Class A equivalent |
+| Australia | Schedule 9; approved for therapeutic use in clinics (2023) |
 
 ## Cultural History
 
@@ -148,8 +148,3 @@ sources:
 | Strong | 2.5–5.0 g | ~15–30 mg | Intense visionary experience, ego dissolution |
 | Heroic | 5.0 g+ | ~30 mg+ | Complete ego death; overwhelming mystical |
 
-## See Also
-
-- [[baeocystin]]
-- [[compass-pathways]]
-- [[golden-teacher]]
