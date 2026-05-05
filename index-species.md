@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1766 pages**
+**1781 pages**
 
 ## #
 
@@ -247,6 +247,7 @@
 - [[amanita-regalis]]
 - [[amanita-regalis-entity]]
 - [[amanita-rubescens]]
+- [[amanita-vaginata]]
 - [[amanita-verna]]
 - [[amnesia-haze]]
 - [[ampelomyces-quisqualis]]
@@ -443,6 +444,7 @@
 - [[chinese-tallow-tree]]
 - [[chlorophyllum-molybdites]]
 - [[cho-han-kyu]]
+- [[chondrostereum-purpureum]]
 - [[chroogomphus-rutilus]]
 - [[cichorium-intybus]]
 - [[cinex]]
@@ -521,6 +523,7 @@
 - [[crocus-sativus]]
 - [[crotalaria-juncea]]
 - [[cryptococcus-neoformans]]
+- [[curculigo-orchioides]]
 - [[curcuma-longa]]
 - [[curcumin]]
 - [[cyclocybe-cylindracea]]
@@ -533,7 +536,9 @@
 
 - [[dactylaria-brochopaga]]
 - [[dactylium-dendroides-entity-the-mushroom-cultivator]]
+- [[dalbergia-sissoo]]
 - [[daldinia-concentrica]]
+- [[damiana]]
 - [[damiana-turnera-diffusa]]
 - [[daniel-chamovitz]]
 - [[datura-candida]]
@@ -600,6 +605,7 @@
 - [[dopr-entity]]
 - [[dopr-entity-pihkal]]
 - [[douglas-fir]]
+- [[dpt]]
 - [[dpt-entity-tihkal]]
 - [[dronabinol]]
 - [[duboisia-hopwoodii]]
@@ -646,6 +652,7 @@
 - [[ergine-lsa]]
 - [[ergocornine]]
 - [[ergocristine]]
+- [[ergocryptine]]
 - [[ergometrine]]
 - [[ergosterol]]
 - [[ergotamine]]
@@ -788,11 +795,13 @@
 - [[gynostemma-pentaphyllum]]
 - [[gyromitra-esculenta]]
 - [[gyromitrin]]
+- [[gyroporus-cyanescens]]
 
 ## H
 
 - [[hallucinogenic-plants-new-world]]
 - [[harbhajan-singh]]
+- [[harlequin]]
 - [[harlequin-cannabis]]
 - [[harmaline]]
 - [[harmaline-entity-tihkal]]
@@ -836,6 +845,7 @@
 - [[hygrophorus-russula]]
 - [[hymenoscyphus-ericae]]
 - [[hyoscyamus-niger]]
+- [[hypericin]]
 - [[hypericum-perforatum]]
 - [[hypholoma-capnoides]]
 - [[hypholoma-fasciculare]]
@@ -975,6 +985,7 @@
 - [[larry-og]]
 - [[latua-pubiflora]]
 - [[lavandula-angustifolia-entity]]
+- [[leccinum-insigne]]
 - [[leccinum-scabrum]]
 - [[lemon-haze]]
 - [[lentinan]]
@@ -1042,6 +1053,7 @@
 - [[madam-6-entity]]
 - [[madam-6-entity-pihkal]]
 - [[magnaporthe-grisea]]
+- [[mahonia-aquifolium]]
 - [[mal-entity]]
 - [[mal-entity-pihkal]]
 - [[malassezia-restricta]]
@@ -1651,6 +1663,7 @@
 - [[suillus-pungens]]
 - [[suillus-variegatus]]
 - [[sun-ra]]
+- [[sundae-driver]]
 - [[sunset-sherbet]]
 - [[super-boof-cannabis-strain]]
 - [[super-lemon-haze]]
@@ -1663,6 +1676,7 @@
 ## T
 
 - [[ta-entity-pihkal]]
+- [[tabebuia-avellanedae]]
 - [[tabebuia-impetiginosa]]
 - [[tabernaemontana-divaricata]]
 - [[tabernanthe-iboga]]
@@ -1807,6 +1821,7 @@
 - [[vietnam-black]]
 - [[virodhamine]]
 - [[virola-theiodora]]
+- [[viscum-album]]
 - [[vitex-agnus-castus]]
 - [[voacanga-africana]]
 - [[voacangine]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**975 pages**
+**979 pages**
 
 ## A
 
@@ -90,6 +90,7 @@
 - [[comparison-bokashi-vs-hot-composting-method]]
 - [[comparison-bokashi-vs-vermicomposting]]
 - [[comparison-brassica-vs-nightshade-gardening]]
+- [[comparison-breadfruit-vs-cassava]]
 - [[comparison-brown-rot-vs-white-rot-bioremediation]]
 - [[comparison-bsf-composting-vs-earthworm-breeding]]
 - [[comparison-bsf-composting-vs-hot-composting]]
@@ -303,6 +304,7 @@
 - [[comparison-no-till-vs-tilling]]
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 - [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
 - [[comparison-organic-vs-chemical-amendments]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
 - [[comparison-oyster-vs-wine-cap-cultivation]]
@@ -829,6 +831,7 @@
 - [[query-how-to-use-wood-chips-in-your-garden]]
 - [[query-jadam-vs-korean-natural-farming]]
 - [[query-organic-vs-synthetic-nutrients-cannabis]]
+- [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
 - [[query-sog-vs-scrog-cannabis-training-methods]]
 - [[query-spore-syringes-vs-liquid-culture]]
 - [[query-what-are-adaptogenic-herbs-and-how-do-i-grow-them]]
@@ -912,6 +915,7 @@
 - [[query-what-is-biofumigation-and-how-does-it-work]]
 - [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]]
 - [[query-what-is-bokashi-composting-and-how-does-it-work]]
+- [[query-what-is-breadfruit-and-how-can-i-grow-it]]
 - [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]]
 - [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
 - [[query-what-is-chop-and-drop-mulching-and-why-should-i-use-it]]
