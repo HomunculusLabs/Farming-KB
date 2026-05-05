@@ -1,135 +1,146 @@
 ---
 title: Psilocybin
-tags: [pharmacology, psychedelics, neuroscience, psychiatry]
+tags:
+  - chemistry
+  - pharmacology
+  - psychedelics
+  - tryptamines
+  - serotonin
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-field-guide-to-the-psilocybin-mushroom.md]
+sources:
+  - raw/papers/carolina-mushrooms_08qxp.md
 ---
 
 # Psilocybin
 
-Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is a naturally occurring
-psychedelic prodrug and the principal psychoactive compound found in over 200
-species of fungi. One of the most widely studied classical psychedelics,
-psilocybin has shown significant therapeutic potential in modern clinical
-trials for depression, anxiety, and substance use disorders. Its rediscovery
-by Western science, beginning with Albert Hofmann's identification of the
-compound in 1958, has made it a cornerstone of contemporary psychedelic
-research.
+Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine, abbreviated 4-PO-DMT) is the primary
+psychoactive prodrug found in hallucinogenic mushrooms of the [[Psilocybe]] genus and related
+fungi. It is classified as an indolealkylamine (tryptamine), placing it in the same broad
+chemical family as LSD and serotonin. Chemically, psilocybin is the phosphate ester of
+[[psilocin]] (4-hydroxy-N,N-dimethyltryptamine, or 4-HO-DMT), which is the pharmacologically
+active compound produced when psilocybin is metabolised in the body.
 
-## Chemical Properties
+## Chemical Classification
 
-Psilocybin is a tryptamine alkaloid, chemically related to serotonin
-(5-hydroxytryptamine) and the neurotransmitter DMT. Its molecular formula is
-C12H17N2O4P, and it appears as a white crystalline solid that is soluble in
-water. The compound is relatively stable in dried mushroom tissue but
-degrades under conditions of heat, light, and oxidation. Synthetic psilocybin
-has been produced for clinical research, allowing precise dosing that is
-difficult to achieve with natural mushroom material due to variability in
-potency.
+Psilocybin and psilocin belong to the indolealkylamine class of hallucinogens, one of three
+major chemical groupings alongside phenylethylamines (e.g. mescaline) and cannabinoids. The
+indolealkylamine structure means these compounds are closely related to the endogenous
+neurotransmitter serotonin (5-hydroxytryptamine, 5-HT). This structural similarity underlies
+their mechanism of action at serotonin receptors in the central nervous system.
 
-As a prodrug, psilocybin itself has minimal direct pharmacological activity.
-After oral ingestion, it is rapidly dephosphorylated by alkaline phosphatase
-enzymes, primarily in the liver and intestinal mucosa, to form psilocin
-(4-hydroxy-N,N-dimethyltryptamine), which is the active metabolite responsible
-for the psychedelic effects.
+Two additional tryptamines, baeocystin and norbaeocystin, may also be present in
+psilocybin-containing mushrooms but are considered less pharmacologically active than
+psilocybin and psilocin. The presence of multiple active compounds complicates dose-response
+predictions, as the relative concentrations of each can vary between species, growing
+conditions, and individual specimens.
 
-## Mechanism of Action
+Hallucinogens can be classified by chemical structure and the compound from which they are
+derived. Chemically related substances tend to exhibit similar effects. Many other agents
+are classified as pseudo-hallucinogens because they produce psychotic and delirious effects
+without the classic visual disturbances of true hallucinogens. The three major groups based
+on chemical structure are indolealkylamines (tryptamines) such as LSD, psilocin, and
+psilocybin; phenylethylamines such as mescaline; and cannabinoids.
 
-Psilocin acts primarily as a partial agonist at serotonin 5-HT2A receptors,
-which are concentrated in the prefrontal cortex and are critical for the
-modulation of perception, cognition, and mood. The activation of these
-receptors triggers a cascade of downstream effects that profoundly alter brain
-function:
+## Pharmacology and Mechanism of Action
 
-- **Default mode network suppression**: Psilocybin reduces activity and
-  functional connectivity within the default mode network, a brain system
-  associated with self-referential processing, rumination, and the sense of
-  ego. This suppression correlates with experiences of ego dissolution.
-- **Increased global connectivity**: Brain networks that are normally
-  segregated begin to communicate more freely, producing a hyperconnected
-  brain state characterized by increased entropy and cognitive flexibility.
-- **Glutamate release**: 5-HT2A activation on cortical pyramidal neurons
-  stimulates glutamate release, which may contribute to synaptic plasticity
-  and the formation of new neural connections.
-- **BDNF upregulation**: Psilocybin increases levels of brain-derived
-  neurotrophic factor, supporting the growth and maintenance of neurons.
+Psilocybin itself is more stable in air and is water soluble, which likely serves a
+protective function in the fungal fruiting body. Upon ingestion, the body converts psilocybin
+into psilocin via dephosphorylation. Psilocin then acts primarily as a 5-HT2A post-synaptic
+agonist or partial agonist. This serotonin receptor activity is responsible for the
+characteristic perceptual distortions, altered mood, and changes in thought processes
+associated with the drug.
 
-## Pharmacokinetics
+The structural similarity between psilocybin/psilocin and serotonin (5-HT) is central to
+understanding their pharmacological action. Because the serotonin system is involved in
+regulating mood, perception, cognition, and various other neurological functions, agonist
+activity at 5-HT2A receptors produces the wide range of subjective effects reported by
+users, from enhanced visual perception and altered time perception to profound changes in
+self-awareness and emotional processing.
 
-After oral administration, psilocybin is rapidly absorbed and converted to
-psilocin. Plasma concentrations of psilocin peak within approximately 60 to
-90 minutes. The elimination half-life is approximately 2 to 3 hours, with the
-psychedelic effects lasting 4 to 6 hours. Psilocin is further metabolized by
-monoamine oxidase (MAO) and conjugated with glucuronic acid before renal
-excretion. Total clearance is typically complete within 24 hours. Bioavailability
-is approximately 50 percent, with first-pass metabolism in the liver.
+## Terminology: Hallucinogenic vs Psychedelic
 
-## Clinical Research
-
-The modern era of psilocybin research began with the landmark studies at
-Johns Hopkins University led by Roland Griffiths. Key findings include:
-
-- A 2006 study demonstrated that high-dose psilocybin could reliably produce
-  mystical-type experiences in healthy volunteers, with 67 percent rating the
-  experience among the top five most meaningful of their lives.
-- A 2016 study in cancer patients with life-threatening diagnoses showed that
-  a single dose of psilocybin produced significant and sustained reductions
-  in depression and anxiety lasting six months or longer.
-- A 2021 Phase 2 trial by Compass Pathways demonstrated rapid and significant
-  antidepressant effects of psilocybin in treatment-resistant depression,
-  leading to breakthrough therapy designation from the FDA.
-
-## Therapeutic Mechanism
-
-The therapeutic effects of psilocybin appear to operate through several
-complementary mechanisms. The acute psychedelic experience can produce
-mystical-type experiences that shift fundamental perspectives and beliefs.
-Neurobiologically, psilocybin promotes neuroplasticity, potentially allowing
-the brain to form new, healthier patterns of thought and behavior. The
-combination of experiential insight and neurobiological change may explain
-why psilocybin's therapeutic effects are both rapid and enduring.
+The term hallucinogen is scientifically inaccurate, as these drugs do not generally cause
+true hallucinations (sensory perceptions in the absence of external stimuli). The effects
+could more accurately be described as perceptual distortions, though the effects also extend
+well beyond perception to include changes of thought, mood, and personality integration
+(self-awareness). At different times, these drugs have been called psychedelic (mind
+opening, mind expanding), psychotomimetic (resembling psychosis), psychodysleptic (mind
+disrupting), hallucinogenic, or the less familiar phantastica and oneirogenic. The
+scientific community has largely adopted the term hallucinogens, while most users prefer
+psychedelic. In practice, the two terms are used interchangeably.
 
 ## Legal Status
 
-Psilocybin is classified as a Schedule I substance under the United Nations
-Convention on Psychotropic Substances and is similarly restricted in most
-countries. However, several jurisdictions have begun to decriminalize or
-regulate its use. Oregon became the first US state to legalize therapeutic
-psilocybin use in 2020, followed by Colorado in 2022. Australia's TGA
-approved psilocybin as a scheduled medicine for treatment-resistant
-depression in 2023.
+Psilocybin and psilocin are controlled under the 1971 UN Convention on Psychotropic
+Substances, listed in Schedule I under the names psilocybine and psilocine (or psilotsin).
+All EU Member States control them accordingly under their national drug laws. However, the
+legal status of the mushrooms that contain these compounds has been more ambiguous. Because
+psilocybin-containing mushrooms grow wild in many parts of the world, several countries
+faced legal difficulties in controlling them without inadvertently criminalising people
+whose land they grow on.
 
-## Comparison with Other Psychedelics
+This created a patchwork of legal approaches across Europe between 2001 and 2006. Denmark
+(2001) controlled specific named species. The Netherlands (2002) applied the Opium Act only
+to mushrooms that had been dried or processed, not fresh ones. Germany (2005) changed its
+definition of controlled substance from plant to organism to close a loophole. Estonia
+(2005) clarified that cultivation was an offence. The UK (2005) added any fungus containing
+psilocin as a controlled substance regardless of its state. Ireland (2006) criminalised
+possession or sale while exempting uncultivated mushrooms.
 
-Psilocybin occupies a distinctive position among classical psychedelics. Its
-effects profile is most similar to that of LSD, though the duration is
-significantly shorter (4 to 6 hours versus 8 to 12 hours for LSD). Compared
-to DMT, psilocybin's effects are longer and generally less intense at
-equivalent doses. Compared to mescaline, psilocybin is significantly more
-potent per milligram. Psilocybin is often described as producing a warmer,
-more "organic" quality of experience than LSD, though such subjective
-comparisons are highly individual and context-dependent.
+## Dosage and Potency
 
-## Microdosing
+The psychoactive dose of psilocybin is estimated between 45 micrograms per kilogram of body
+weight and 315 micrograms per kilogram. Mushroom potency varies significantly depending on
+species, origin, growing conditions, and age. The most potent species, such as
+[[Psilocybe semilanceata]], can contain up to approximately 1% psilocybin by dry weight,
+while [[Psilocybe cubensis]] typically contains up to 0.6% combined psilocybin and psilocin.
 
-A growing trend involves the regular use of sub-perceptual doses of psilocybin
-(0.1 to 0.3 grams of dried mushrooms) claimed to enhance creativity, focus,
-and emotional well-being without producing overt hallucinogenic effects.
-While anecdotal reports are abundant, rigorous clinical research on microdosing
-remains limited. Some placebo-controlled studies have found mixed results,
-with benefits potentially attributable to expectation rather than pharmacology.
+The recommended recreational dose is approximately 1 to 5 grams of dried mushrooms, with
+fresh mushrooms requiring roughly ten times the weight (10 to 50 grams) due to their high
+water content. These dose ranges are inherently approximate because the concentration of
+active compounds varies unpredictably between individual mushrooms. Short-term tolerance
+develops rapidly to both physical and psychological effects, which may lead users to
+increase dosages over time.
+
+## Route of Administration and Duration
+
+Users typically ingest mushrooms raw or dried, chewing them and holding them in the mouth or
+swallowing them directly. Because the taste is generally unpleasant, users often chop them
+into smaller pieces or brew them into tea. Eating them mixed with food may cause nausea and
+vomiting. Dried mushrooms have also been reported as being smoked, which is said to induce
+faster but milder effects, though it is unclear whether smoking can reliably produce
+psychoactive effects. Reports exist of mushroom extract being administered intravenously,
+which produces more severe acute effects.
+
+The onset of effects is between 10 and 60 minutes depending on the method of ingestion,
+physical condition, food intake, and user experience. The experience, commonly described as
+tripping, typically lasts 2 to 6 hours, with after-effects such as difficulty sleeping
+persisting for an additional 2 to 6 hours.
+
+## Acute Effects
+
+Subjective effects range from mild relaxation and giddiness to uncontrollable laughter,
+energy, euphoria, enhanced visual perception, and visual disturbances including moving
+surfaces and waves. More intense experiences may involve delusions, altered perception of
+real events, images and faces, or genuine hallucinations. These sensory distortions may be
+coupled with restlessness, incoordination, anxiety, impaired judgement of time or distance,
+feelings of unreality, or depersonalisation. Physiological effects include dizziness, nausea,
+weakness, muscle aching, shivering, abdominal pain, pupillary dilation, mild tachycardia,
+tachypnea, and elevated blood pressure. Body temperature generally remains normal.
+
+## Health Risks
+
+Acute toxicity of psilocybin is low and fatal intoxications are rare. Psychological and
+physical dependency does not develop, and there are no withdrawal symptoms. No irreversible
+organ damage from psilocybin has been reported. Mental health risks are the primary concern,
+particularly bad trips involving panic reactions and psychosis-like states. Flashbacks can
+occur, though less frequently than with LSD. Benzodiazepines are reported to be the safest
+medication of choice for managing acute adverse reactions.
 
 ## See Also
 
-- [[psilocybin-mushroom-biology-chemistry]]
-- [[sandoz-psilocybin-distribution-program]]
-- [[psilocybin-shelf-life-stability]]
-- [[psilocybin-mushrooms-and-ecology]]
-- [[psilocybin-mushroom-lookalikes]]
-
-- [[psilocybin-mushroom]]
-- [[hallucinogenic-drugs]]
-- [[psychedelic-psychotherapy]]
-- Serotonin Receptors
-- Default Mode Network
+- [[Psilocin]]
+- [[Psilocybe cubensis]]
+- [[Psilocybe semilanceata]]
+- [[Hallucinogenic mushrooms]]

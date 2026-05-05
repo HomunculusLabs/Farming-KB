@@ -3,125 +3,144 @@ title: ACDC (Cannabis Strain)
 type: strain
 tags:
   - cannabis
-  - cbd-dominant
+  - high-cbd
   - medical-cannabis
+  - hybrid
   - cannabidiol
-  - anti-inflammatory
-  - anti-anxiety
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.leafly.com/strains/acdc
   - https://www.wikileaf.com/strain/acdc/
-  - Lynch et al., "Cannabidiol as a Potential Treatment for Anxiety Disorders" (2020)
+  - https://www.projectcbd.org/
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6146665/
+  - https://phylosbioscience.com/
 ---
 
-# ACDC
+# ACDC (Cannabis Strain)
 
-ACDC is a high-CBD, low-THC cannabis cultivar that has become one of the most widely recognized medical cannabis strains in the world. Renowned for its therapeutic potency without psychoactive intoxication, ACDC has played a significant role in popularizing CBD-dominant cannabis for patients who cannot tolerate or do not desire the euphoric effects of THC.
+## Overview
+
+ACDC is a high-CBD, low-THC cannabis phenotype that has become one of the most sought-after medical cannabis strains in the world. Known for producing little to no psychoactive effect while delivering significant therapeutic benefits, ACDC typically expresses a CBD:THC ratio of 20:1, making it ideal for patients who require the medicinal properties of cannabis without intoxication.
 
 ## Lineage and Genetics
 
-ACDC is a phenotype of **Cannatonic**, a balanced hybrid created by crossing **MK Ultra** (Indica-dominant, G13 × Afghani) with **Reina Madre** (unknown landrace lineage). ACDC emerged as a distinct phenotype selected specifically for its exceptional CBD-to-THC ratio.
+| Attribute | Detail |
+|-----------|--------|
+| **Type** | Sativa-dominant hybrid |
+| **Parent strain** | Cannatonic (phenotype selection) |
+| **Breeder** | Dr. William Courtney / Resin Seeds selection |
+| **CBD:THC ratio** | 20:1 (typical); ranges 15:1 to 30:1 |
+| **CBD content** | 15–20% (can exceed 24% in premium cuts) |
+| **THC content** | 0.5–1.5% (always below 3%) |
+| **Flowering time** | 65–70 days indoor; late October outdoor |
 
-- **Type:** Sativa-dominant hybrid (approximately 50/50 to 60/40 sativa/indica, reported variably)
-- **Breeder:** Originally selected by Subcool's The Dank (now TGA Genetics), though the exact cultivator who stabilized the ACDC phenotype remains debated
-- **Stability:** Well-established clone-only cultivar; seeds are available from some breeders but phenotypic variation can be significant
-
-## Cannabinoid Profile
-
-ACDC's defining characteristic is its extraordinary CBD content paired with minimal THC:
-
-| Compound | Typical Range |
-|----------|---------------|
-| CBD | 15–20% (some samples tested up to 24%) |
-| THC | 0.5–1.5% (rarely exceeds 2%) |
-| CBD:THC Ratio | Typically 20:1, sometimes up to 30:1 |
-| CBC | Trace – 1% |
-| CBG | Trace – 0.5% |
-
-This profile makes it one of the most CBD-rich cultivars commercially available. The low THC content means that ACDC generally does not produce the "high" associated with recreational cannabis use, making it accessible for medical patients, children, the elderly, and professionals who need to remain clear-headed.
+ACDC was identified as a specific phenotype of Cannatonic that consistently expressed exceptionally high CBD levels. Through selective breeding and clone propagation, this phenotype was stabilized and named ACDC, reportedly as a reference to the rock band — a nod to the powerful impact delivered without the "high voltage."
 
 ## Terpene Profile
 
-ACDC's aromatic and therapeutic profile is driven by a distinctive terpene combination:
+ACDC's therapeutic effects are significantly influenced by its terpene composition, which synergizes with CBD through the entourage effect:
 
-- **Myrcene** (dominant): Earthy, musky aroma. Contributes sedative and muscle-relaxant effects. Anti-inflammatory properties.
-- **Pinene** (α and β): Pine-scented. Promotes mental clarity and alertness. Bronchodilator and anti-inflammatory.
-- **Caryophyllene**: Peppery, spicy notes. The only terpene known to directly activate CB2 receptors. Potent anti-inflammatory.
-- **Limonene**: Citrus undertones. Mood-elevating and stress-reducing. May enhance absorption of other cannabinoids.
-- **Humulene**: Woody, earthy. Appetite suppressant and anti-inflammatory.
+- **Myrcene** (dominant, 0.5–1.2%): Sedative, muscle relaxant, anti-inflammatory
+- **α-Pinene** (0.3–0.7%): Bronchodilator, memory retention, anti-inflammatory
+- **β-Caryophyllene** (0.2–0.5%): CB2 receptor agonist, anti-inflammatory, analgesic
+- **Limonene** (0.1–0.4%): Mood elevation, anti-anxiety, gastric acid reduction
+- **Humulene** (0.1–0.3%): Appetite suppressant, anti-inflammatory
+- **Linalool** (trace): Anxiolytic, sedative, analgesic
 
-The terpene profile creates a complex synergy with CBD, contributing to what is known as the "entourage effect" — the phenomenon where cannabinoids and terpenes work together to produce effects greater than the sum of their individual contributions.
+The high myrcene content contributes to ACDC's reputation as a physically relaxing strain, while pinene and limonene provide cognitive clarity — a combination often described as "relaxed but alert."
 
 ## Medical Applications
 
-### Chronic Pain and Inflammation
-ACDC is most commonly prescribed for chronic pain conditions including:
-- Fibromyalgia
-- Rheumatoid arthritis and osteoarthritis
-- Neuropathic pain
-- Multiple sclerosis-related pain
-- Post-surgical recovery pain
+### Chronic Pain Management
 
-The anti-inflammatory action is mediated through CBD's interaction with multiple receptor systems: indirect activation of CB1 and CB2 receptors, agonism of TRPV1 (vanilloid) receptors, and inhibition of COX-2 and cytokine production.
+ACDC is widely prescribed for chronic pain conditions including fibromyalgia, neuropathy, rheumatoid arthritis, and migraine. The combination of CBD and β-caryophyllene activates multiple anti-inflammatory pathways:
 
-### Anxiety and Mood Disorders
-Despite being a cannabis product, ACDC is widely used for anxiety relief precisely because its THC content is too low to trigger THC-induced anxiety or paranoia:
-- Generalized anxiety disorder (GAD)
-- Social anxiety
-- PTSD-associated anxiety
-- Panic disorder
+- CBD inhibits COX-2 and reuptake of adenosine (an endogenous analgesic)
+- β-Caryophyllene selectively binds CB2 receptors, reducing inflammatory signaling
+- Myrcene enhances GABA receptor activity, reducing pain perception
 
-### Seizure Disorders
-ACDC has been used as an alternative or adjunct to pharmaceutical CBD isolates (such as Epidiolex) for:
+### Epilepsy and Seizure Disorders
+
+ACDC gained significant attention following the success of high-CBD cannabis in treating treatment-resistant epilepsy. While Charlotte's Web received more media coverage, ACDC has been used effectively in:
+
 - Dravet syndrome
 - Lennox-Gastaut syndrome
-- Treatment-resistant epilepsy
+- Adult-onset focal seizures
 
-Patients often report that full-spectrum ACDC flower provides superior results compared to isolated CBD, likely due to the entourage effect.
+CBD's anti-convulsant mechanism involves modulation of GPR55, TRPV1, and 5-HT1A receptors, reducing neuronal hyperexcitability.
 
-### Other Applications
-- **Nausea and appetite stimulation** (particularly during chemotherapy)
-- **Insomnia** (when used in the evening, the myrcene-dominant profile promotes sleep)
-- **Autoimmune conditions** (CBD's immunomodulatory effects)
-- **Neuroprotective support** (potential benefits in Parkinson's, Alzheimer's research)
+### Anxiety and PTSD
 
-## Growing Information
+Unlike THC-dominant strains that can exacerbate anxiety in some patients, ACDC provides anxiolytic effects without triggering paranoia or increased heart rate. Clinical observations suggest benefits for:
 
-### Cultivation Difficulty: Moderate
+- Generalized anxiety disorder
+- Social anxiety
+- Post-traumatic stress disorder (PTSD)
+- Panic disorder
 
-ACDC can be cultivated both indoors and outdoors, though achieving optimal CBD expression requires attention to several factors:
+The anxiolytic effect is attributed to CBD's activation of 5-HT1A serotonin receptors and its modulation of endocannabinoid tone (inhibiting FAAH enzyme, which breaks down anandamide).
 
-- **Flowering time:** 8–9 weeks indoors
-- **Yield:** Moderate (300–400 g/m² indoors; 400–500 g/plant outdoors)
-- **Height:** Medium-tall, benefits from training techniques (LST, ScrOG)
-- **Climate:** Prefers warm, Mediterranean-like conditions outdoors
+### Cancer Support
 
-### Key Cultivation Considerations
+ACDC is used as an adjunctive therapy for cancer patients:
 
-- **Phenotypic variation:** When grown from seed, offspring may express a wide range of CBD:THC ratios. Clone propagation is strongly recommended for consistency.
-- **Harvest timing:** CBD peaks later in the flowering cycle than THC. Harvesting at 9+ weeks maximizes CBD content.
-- **Nutrient sensitivity:** ACDC can be sensitive to nitrogen levels during flowering. Reduce N gradually in weeks 5–7.
-- **Pest resistance:** Moderate. Watch for spider mites and powdery mildew. Good airflow is essential.
+- **Anti-nausea:** CBD activates 5-HT1A receptors in the brainstem's chemoreceptor trigger zone
+- **Appetite stimulation:** Via indirect CB1 receptor modulation
+- **Pain management:** Multi-target anti-inflammatory and analgesic action
+- **Quality of life:** Improved sleep, reduced anxiety, enhanced mood
 
-## Effects and Experience
+### Inflammatory and Autoimmune Conditions
 
-- **Physical:** Deep body relaxation, muscle tension relief, reduced inflammation
-- **Mental:** Clear-headed calm, reduced anxiety without cognitive impairment
-- **Side effects:** Minimal. Rare dry mouth, mild drowsiness at higher doses
-- **Onset (smoking/vaporizing):** 1–3 minutes
-- **Duration:** 2–4 hours
+Research supports ACDC's utility in:
+- Crohn's disease and inflammatory bowel disease
+- Multiple sclerosis (spasticity and pain)
+- Lupus
+- Rheumatoid arthritis
 
-ACDC is often described by patients as "medicinal without the medicine cabinet feeling" — therapeutic relief that allows normal daily functioning.
+## Cultivation Notes
 
-## Legal Status
+ACDC can be moderately challenging to grow, primarily because achieving the desired CBD:THC ratio requires careful environmental control:
 
-As a hemp-adjacent cultivar, ACDC occupies an interesting legal position in many jurisdictions. In the United States, ACDC flower that tests below 0.3% Δ9-THC on a dry-weight basis may qualify as hemp under the 2018 Farm Bill, though this varies by state testing requirements and interpretation. In countries with medical cannabis programs, ACDC is frequently available through licensed dispensaries.
+- **Photoperiod:** Standard 18/6 vegetative, 12/12 flowering
+- **Nutrient requirements:** Moderate feeder; avoid excessive nitrogen in late flowering
+- **Training:** Responds well to SCRoG (Screen of Green) and low-stress training
+- **Yield:** Moderate, 300–400 g/m² indoor; 400–600 g/plant outdoor
+- **Pest resistance:** Moderate; susceptible to spider mites and powdery mildew
+- **Climate preference:** Temperate to warm; handles cool nights well
+
+Critical cultivation tip: Stress during flowering can cause the plant to produce more THC and less CBD. Maintain stable temperatures (20–26°C day, 16–20°C night) and avoid excessive defoliation.
+
+## Administration Methods
+
+- **Whole-plant flower** (vaporization, preferred for full entourage effect)
+- **Sublingual tinctures** (fastest onset, 15–30 minutes)
+- **CBD oil/capsules** (standardized dosing, longer duration)
+- **Topical applications** (salves, balms for localized pain/inflammation)
+- **Edibles** (longest onset 1–2 hours, longest duration 6–8 hours)
+
+## Dosage Guidelines
+
+CBD dosage is highly individual and condition-dependent:
+
+| Condition | Starting dose | Therapeutic range |
+|-----------|--------------|-------------------|
+| General wellness | 5–10 mg CBD | 10–25 mg/day |
+| Anxiety | 10–15 mg CBD | 15–50 mg/day |
+| Chronic pain | 15–25 mg CBD | 25–100 mg/day |
+| Epilepsy | 20–50 mg CBD/kg/day | Physician-supervised |
+| Cancer support | 25–50 mg CBD | 50–200+ mg/day |
+
+Always start low and titrate slowly (increase by 5–10 mg every 3–5 days) to find the minimum effective dose.
+
+## Regulatory Status
+
+ACDC exists in a complex regulatory landscape. Hemp-derived ACDC (below 0.3% THC) is federally legal in the United States under the 2018 Farm Bill. However, cannabis-derived ACDC remains a Schedule I substance federally, though it is legal in states with medical or recreational cannabis programs. The European Union permits CBD products with less than 0.2% THC.
 
 ## See Also
 
-- [[cannabidiol]] — Detailed pharmacology of CBD
-- [[charlottes-web]] — Another famous CBD-dominant cultivar
-- [[entourage-effect]] — Cannabinoid-terpene synergy
-- [[cannabis-therapeutics]] — Broader overview of medical cannabis applications
+- [[charlottes-web-cannabis-strain]] — Another high-CBD strain, famous for epilepsy treatment
+- [[cannabidiol-cbd]] — Detailed pharmacology of cannabidiol
+- [[cannatonic-cannabis-strain]] — Parent strain of ACDC
+- [[endocannabinoid-system]] — The body's receptor system for cannabinoids
+- [[myrcene-terpene]] — Dominant terpene in ACDC

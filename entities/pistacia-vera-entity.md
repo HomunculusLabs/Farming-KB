@@ -31,9 +31,9 @@ Pistacia vera is a small deciduous tree in the cashew family (Anacardiaceae)
 cultivated for its edible seeds — the pistachio nut — one of the world's
 most valuable nut crops. Native to Central Asia and the Middle East
 (Iran, Turkmenistan, northern Afghanistan), pistachio has been cultivated
-for over 3,000 years. In permaculture and food forest design, P. vera is
+for over 3,000 years. In permaculture and [[food-forest]] design, P. vera is
 valued for exceptional drought tolerance, deep taproot system, and role as
-a high-value, long-lived canopy element in dryland agroforestry systems.
+a high-value, long-lived canopy element in dryland [[agroforestry]] systems.
 Productive lifespan exceeds 100 years in suitable conditions.
 
 ## Morphology
@@ -113,7 +113,7 @@ Productive lifespan exceeds 100 years in suitable conditions.
 
 ## Permaculture Applications
 - **Food forest role:** Mid-canopy tree in Mediterranean/dryland
-  systems; dappled shade for understory herbs and N-fixing shrubs
+  systems; dappled shade for understory herbs and N-fixing shrubs. See [[permaculture]] for broader design context and [[drought-tolerant-planting-design]] for companion strategies.
 - **Guild companions:** Alfalfa, clover, comfrey, rosemary, lavender,
   fig, pomegranate, olive — shared drought/heat tolerance
 - **Soil ecology:** Forms vesicular-arbuscular mycorrhizal (VAM)
@@ -128,3 +128,5 @@ Productive lifespan exceeds 100 years in suitable conditions.
 - [[juglans-regia-entity]]
 - Persimmon (Diospyros virginiana)
 - [[morus-alba-entity]]
+- [[permaculture-pistachio-guide]] — detailed pistachio cultivation guide
+- [[windbreak-shelterbelt-species-selection]] — shelterbelt species for orchard protection

@@ -10,7 +10,7 @@ sources:
   - "https://en.wikipedia.org/wiki/Mitragynine"
 ---
 # Mitragynine
-Mitragynine is the primary indole alkaloid found in Mitragyna speciosa
+Mitragynine is the primary indole alkaloid found in [[mitragyna-speciosa]]
 (kratom), a tropical tree native to Southeast Asia. First isolated in
 1921 by E. J. Field, mitragynine constitutes approximately 66% of the
 total alkaloid content in kratom leaf. It acts as a partial agonist at
@@ -25,7 +25,7 @@ research and regulatory debate.
 - **IUPAC Name:** Methyl (2E)-2-[(2S,3S)-3-ethyl-8-methoxy-1,2,3,4,6,7,
   12,12b-octahydroindolo[2,3-a]quinolizin-2-yl]-3-methoxyprop-2-enoate
 - **Chemical Class:** Indole alkaloid (corynanthean type)
-- **Structural Family:** Related to yohimbine and voacangine;
+- **Structural Family:** Related to yohimbine and [[voacangine]];
   contains a corynanthe skeleton with a methoxy-substituted
   indole ring and a methoxycarbonyl side chain
 ### Physicochemical Properties
@@ -147,3 +147,4 @@ research and regulatory debate.
 - **International:** Not scheduled under UN drug conventions
 ## See Also
 - [[7-hydroxymitragynine]] (proposed entity)
+- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] — broader indole alkaloid chemistry context

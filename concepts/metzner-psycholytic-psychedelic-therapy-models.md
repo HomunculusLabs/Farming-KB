@@ -19,11 +19,11 @@ sources:
 
 # Psycholytic and Psychedelic Models of Psychedelic-Assisted Psychotherapy
 
-Two fundamentally different approaches to psychedelic-assisted psychotherapy emerged during the 1950s and 1960s: the **psycholytic model**, developed primarily in Europe, and the **psychedelic model**, which became dominant in Anglo-American circles. Ralph Metzner's comparative analysis in "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism" (1998) provides a detailed account of both paradigms and their historical development.
+Two fundamentally different approaches to [[psychedelic-therapy]] emerged during the 1950s and 1960s: the **psycholytic model**, developed primarily in Europe, and the **psychedelic model**, which became dominant in Anglo-American circles. Ralph Metzner's comparative analysis in "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism" (1998) provides a detailed account of both paradigms and their historical development.
 
 ## The Psycholytic Model (European Approach)
 
-The psycholytic approach originated in the Sandoz laboratories where Albert Hofmann first synthesized LSD-25. Early researchers described LSD's effects as bringing about "psychic loosening or opening" (German: *seelische Auflockerung*). The term **psycholytic** literally means "mind-dissolving" or "soul-loosening."
+The psycholytic approach originated in the Sandoz laboratories where [[albert-hofmann]] first synthesized [[lsd]]. Early researchers described LSD's effects as bringing about "psychic loosening or opening" (German: *seelische Auflockerung*). The term **psycholytic** literally means "mind-dissolving" or "soul-loosening."
 
 ### Methodology
 
@@ -31,7 +31,7 @@ In psycholytic therapy, patients suffering from anxiety, depression, obsessive-c
 
 ### Stanislav Grof and Perinatal Matrices
 
-The Czech psychiatrist Stanislav Grof, working within the psycholytic model, made the pivotal discovery that a series of increasing-dose sessions could produce an even deeper psychic opening beyond Freudian childhood dynamics. After resolving conflicts stemming from early childhood interactions, patients would begin reliving significant sensory-emotional features of their birth experience. Grof termed these recurring patterns **perinatal matrices**, identifying four distinct stages of the birth trauma that could be accessed and worked through in psychedelic states.
+The Czech psychiatrist [[stanislav-grof]], working within the psycholytic model, made the pivotal discovery that a series of increasing-dose sessions could produce an even deeper psychic opening beyond Freudian childhood dynamics. After resolving conflicts stemming from early childhood interactions, patients would begin reliving significant sensory-emotional features of their birth experience. Grof termed these recurring patterns **perinatal matrices**, identifying four distinct stages of the birth trauma that could be accessed and worked through in psychedelic states.
 
 ### Geographic Base
 
@@ -41,7 +41,7 @@ The psycholytic model was practiced predominantly in **European clinical setting
 
 ### Origin of the Term
 
-The English psychiatrist **Humphrey Osmond**, working in Canada with Abram Hoffer on LSD treatment of alcoholism, coined the term "psychedelic" in correspondence with Aldous Huxley. Osmond also provided Huxley with his first mescaline experience, later immortalized in *The Doors of Perception* (1954). The word "psychedelic" means "mind-manifesting."
+The English psychiatrist **Humphrey Osmond**, working in Canada with Abram Hoffer on LSD treatment of alcoholism, coined the term "psychedelic" in correspondence with [[aldous-huxley]]. Osmond also provided Huxley with his first mescaline experience, later immortalized in *The Doors of Perception* (1954). The word "psychedelic" means "mind-manifesting."
 
 ### Methodology
 
@@ -53,7 +53,7 @@ A second center for psychedelic therapy developed in early 1960s Southern Califo
 
 ### Timothy Leary and Consciousness Expansion
 
-The term "psychedelic" was adopted by **Timothy Leary**, **Frank Barron**, **Richard Alpert**, and the Harvard research project. Their work focused not primarily on treatment or therapy, but on exploring the possibilities and values of the psychedelic experience for "normals" (mostly graduate students) as well as artists, musicians, poets, and writers. Experiences were provided in a relatively unstructured but supportive, home-like setting. Leary introduced the concept of **consciousness expansion**, contrasting it with the contracted, fixated awareness characteristic of narcotic addictions, obsessions, and compulsions.
+The term "psychedelic" was adopted by [[timothy-leary]], **Frank Barron**, **Richard Alpert**, and the Harvard research project. Their work focused not primarily on treatment or therapy, but on exploring the possibilities and values of the psychedelic experience for "normals" (mostly graduate students) as well as artists, musicians, poets, and writers. Experiences were provided in a relatively unstructured but supportive, home-like setting. Leary introduced the concept of **consciousness expansion**, contrasting it with the contracted, fixated awareness characteristic of narcotic addictions, obsessions, and compulsions.
 
 ## The Set and Setting Hypothesis
 
@@ -91,4 +91,4 @@ The discovery of LSD's mind-altering properties at the height of World War II in
 
 ## Legacy
 
-Both models were effectively shut down by the scheduling of LSD and other classical psychedelics in the late 1960s and early 1970s. However, their principles have experienced a significant revival in the 21st century with the resurgence of clinical psychedelic research. Modern trials of [[psilocybin-assisted-therapy]], [[mdma-assisted-therapy]], and other psychedelic-assisted treatments draw on elements of both traditions, with contemporary researchers acknowledging the fundamental importance of set and setting first articulated by Leary and his colleagues at Harvard.
+Both models were effectively shut down by the scheduling of LSD and other classical psychedelics in the late 1960s and early 1970s. However, their principles have experienced a significant revival in the 21st century with the resurgence of clinical psychedelic research. Modern trials of [[psilocybin-assisted-therapy]], [[mdma-assisted-therapy]], and other psychedelic-assisted treatments draw on elements of both traditions, with contemporary researchers acknowledging the fundamental importance of set and setting first articulated by Leary and his colleagues at Harvard. For more on European clinical approaches, see [[swiss-psycholytic-therapy-1988-1993]].

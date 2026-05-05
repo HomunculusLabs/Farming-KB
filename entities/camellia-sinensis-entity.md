@@ -113,10 +113,10 @@ the relative concentrations of key compounds:
   large estates in Africa and India
 - **Yield:** 1,500–4,000 kg made tea per hectare per year depending
   on variety, altitude, and management
-- **Permaculture relevance:** Tea can be integrated into agroforestry
+- **Permaculture relevance:** Tea can be integrated into [[agroforestry]]
   systems as an understory crop; shade trees (Grevillea, Albizia) provide
   microclimate regulation and nitrogen fixation; tea intercropping with
-  legumes improves soil fertility
+  legumes improves soil fertility. See also [[permaculture]] for broader design principles.
 - **Organic production:** Significant and growing; Sri Lanka and Japan
   lead in organic tea cultivation
 ## Ethnobotanical and Cultural Significance

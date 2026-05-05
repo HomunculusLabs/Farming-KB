@@ -93,7 +93,7 @@ However, it has been investigated for nutritional and bioactive constituents:
 - **Ergosterol:** The primary sterol, precursor to vitamin D2 upon UV
   exposure
 - **Beta-glucans:** Polysaccharides with immunomodulatory properties found
-  in the cell walls, similar to other edible Basidiomycota
+  in the cell walls, similar to other edible Basidiomycota (see [[beta-glucans]])
 - **Phenolic compounds:** Antioxidant activity attributed to phenolic
   content, though less studied than in medicinal mushrooms
 - **Nutritional profile:** Good source of protein, fibre, B vitamins
@@ -146,3 +146,5 @@ yielding a greyish-brown appearance.
 - Cortinarius
 - [[laccaria-laccata]]
 - [[armillaria-mellea]]
+- [[edible-wild-mushroom-guide]] — field identification of common edible species
+- [[lepista-nuda-entity-the-mushroom-cultivator]] — cultivation perspective

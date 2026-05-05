@@ -16,9 +16,9 @@ prized since antiquity for both culinary and medicinal applications. Beyond
 its value as a gourmet vegetable, artichoke leaf extract is one of the
 best-documented herbal hepatoprotective and choleretic agents, with
 clinically validated benefits for lipid metabolism, digestive function,
-and liver health. The plant is also an excellent permaculture species,
+and liver health. The plant is also an excellent [[permaculture]] species,
 providing ornamental structure, nectar for pollinators, and deep-rooted
-soil improvement.
+soil improvement. Globe artichoke is closely related to [[silybum-marianum]] (milk thistle), another Asteraceae member renowned for hepatoprotective properties.
 ## Taxonomy and Naming
 - **Kingdom:** Plantae
 - **Order:** Asterales
@@ -125,7 +125,7 @@ expression, contributing to anti-inflammatory effects.
   secondary buds follow on lateral shoots
 - **Companion planting:** Benefits from interplanting with nitrogen-fixing
   legumes; avoid planting near root crops that compete for deep soil
-  nutrients
+  nutrients. For broader digestive herbal approaches, see [[digestive-herbs-and-bitters]].
 ## Nutritional Value (per 100 g raw edible portion)
 | Nutrient | Amount | % Daily Value |
 |----------|--------|---------------|
