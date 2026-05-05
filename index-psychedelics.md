@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1198 pages**
+**1199 pages**
 
 ## #
 
@@ -545,6 +545,7 @@
 - [[ibogaine-reference]]
 - [[icaros-power-songs]]
 - [[inactive-probes-pharmacological-falsification-pihkal]]
+- [[indole_hallucinogens_and_human_evolution]]
 - [[information-paradigm-of-consciousness]]
 - [[informational-monism]]
 - [[iochroma-fuchsioides-borrachera-ethnobotany]]

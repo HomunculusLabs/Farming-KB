@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**959 pages**
+**963 pages**
 
 ## A
 
@@ -253,6 +253,7 @@
 - [[comparison-lions-mane-vs-cordyceps-cultivation]]
 - [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
 - [[comparison-liquid-culture-vs-grain-spawn]]
+- [[comparison-living-fences-vs-hedgerows]]
 - [[comparison-living-mulch-vs-cover-crops]]
 - [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]
 - [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
@@ -410,6 +411,7 @@
 - [[comparison-vermicomposting-vs-composting-organic-garden]]
 - [[comparison-vermicomposting-vs-hot-composting]]
 - [[comparison-vermicomposting-vs-leaf-mold]]
+- [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 - [[comparison-vinegar-vs-lacto-fermentation]]
 - [[comparison-walipini-vs-greenhouse]]
 - [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]]
@@ -561,6 +563,7 @@
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
+- [[query-how-do-i-design-and-plant-a-living-fence]]
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]
 - [[query-how-do-i-design-planting-guilds-for-a-food-forest]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
@@ -835,6 +838,7 @@
 - [[query-what-are-the-benefits-of-no-till-gardening]]
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
 - [[query-what-are-the-best-companion-plants-for-cannabis]]
+- [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]
 - [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
 - [[query-what-are-the-best-fig-varieties-for-different-climates]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
