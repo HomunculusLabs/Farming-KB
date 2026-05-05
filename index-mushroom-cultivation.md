@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1289 pages**
+**1294 pages**
 
 ## #
 
@@ -236,6 +236,7 @@
 - [[emcdda-hallucinogenic-mushroom-markets]]
 - [[emcdda-hallucinogenic-mushroom-markets-availability]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
+- [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]
 - [[emcdda-hallucinogenic-mushroom-polydrug-use-patterns]]
 - [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]
 - [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
@@ -243,7 +244,9 @@
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
 - [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
+- [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
+- [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]
 - [[emcdda-psilocybin-mushroom-species-and-identification]]
 - [[emcdda-smartshop-trade-online-distribution-mushrooms]]
@@ -533,6 +536,7 @@
 ## K
 
 - [[keewaydinoquay-native-american-mushroom-traditions]]
+- [[kh2po4-phosphate-supplementation-mushroom-substrates]]
 - [[king-oyster-cultivation]]
 - [[knf-water-soluble-phosphoric-acid-detailed]]
 - [[knf-water-soluble-phosphoric-acid-wspa]]
@@ -758,6 +762,7 @@
 - [[mushroom-extraction-methods]]
 - [[mushroom-festivals-and-events]]
 - [[mushroom-flies-in-cultivation]]
+- [[mushroom-flush-dynamics-variation-fruiting-cycles]]
 - [[mushroom-folklore-and-culture]]
 - [[mushroom-folklore-misinterpretations]]
 - [[mushroom-food-safety-heavy-metal-accumulation]]

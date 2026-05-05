@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1469 pages**
+**1479 pages**
 
 ## #
 
@@ -221,6 +221,7 @@
 - [[amanita-gemmata]]
 - [[amanita-jacksonii]]
 - [[amanita-muscaria]]
+- [[amanita-muscaria-entity]]
 - [[amanita-pantherina]]
 - [[amanita-phalloides]]
 - [[amanita-regalis]]
@@ -807,6 +808,7 @@
 - [[lactarius-deliciosus]]
 - [[lactarius-indigo]]
 - [[lactarius-rufus]]
+- [[lactarius-sanguifluus]]
 - [[lactarius-torminosus]]
 - [[lactic-acid-bacteria]]
 - [[lactic-acid-bacteria-serum-labs]]
@@ -987,6 +989,7 @@
 - [[mucuna-pruriens]]
 - [[muscarine]]
 - [[muscimol]]
+- [[muscimol-entity]]
 - [[mycelium]]
 - [[mycena-chlorophos]]
 - [[mycena-citrinomarginata]]
@@ -1026,6 +1029,7 @@
 - [[norbaeocystin]]
 - [[norpsilocin]]
 - [[northern-lights]]
+- [[northern-lights-cannabis]]
 - [[nymphaea-ampla]]
 - [[nymphaea-caerulea]]
 
@@ -1034,6 +1038,7 @@
 - [[ocimum-basilicum]]
 - [[ocimum-sanctum]]
 - [[ocimum-tenuiflorum]]
+- [[ocimum-tenuiflorum-entity]]
 - [[octavia-e-butler]]
 - [[og-kush]]
 - [[og-kush-cannabis-entity]]
@@ -1058,6 +1063,7 @@
 - [[panaeolus-castaneifolius]]
 - [[panaeolus-cinctulus]]
 - [[panaeolus-cyanescens]]
+- [[panaeolus-cyanescens-entity]]
 - [[panaeolus-fimicola]]
 - [[panaeolus-olivaceus]]
 - [[panaeolus-papilionaceus]]
@@ -1104,6 +1110,7 @@
 - [[phellinus-linteus]]
 - [[phellinus-weirii]]
 - [[phenethylamine-pharmacology]]
+- [[pholiota-adiposa]]
 - [[pholiota-nameko]]
 - [[pholiotina-cyanopoda]]
 - [[phoma-exigua]]
@@ -1336,6 +1343,7 @@
 - [[sajeev-john]]
 - [[salix-alba]]
 - [[salvia-divinorum]]
+- [[salvia-divinorum-entity]]
 - [[salvia-officinalis]]
 - [[salvinorin-a]]
 - [[salvinorin-a-entity]]
@@ -1345,6 +1353,7 @@
 - [[sapodilla-entity]]
 - [[sarah-c-watkinson]]
 - [[sarcodon-imbricatus]]
+- [[sarcodon-scabrosus]]
 - [[sb-entity-pihkal]]
 - [[sceletium-tortuosum]]
 - [[schisandra-chinensis]]
@@ -1529,6 +1538,7 @@
 - [[wayne-lewis]]
 - [[wedding-cake]]
 - [[white-widow]]
+- [[white-widow-cannabis]]
 - [[william-falconer]]
 - [[william-ozier-williams]]
 - [[win55212-2]]

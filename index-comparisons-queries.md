@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**913 pages**
+**915 pages**
 
 ## A
 
@@ -273,6 +273,7 @@
 - [[comparison-natural-farming-vs-permaculture]]
 - [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 - [[comparison-neem-oil-vs-diatomaceous-earth]]
+- [[comparison-neem-oil-vs-pyrethrin]]
 - [[comparison-nft-vs-dwc]]
 - [[comparison-nft-vs-ebb-and-flow]]
 - [[comparison-no-till-vs-conventional-tillage]]
@@ -859,6 +860,7 @@
 - [[query-what-is-companion-planting-and-how-does-it-work]]
 - [[query-what-is-defoliation-and-when-should-i-defoliate-cannabis]]
 - [[query-what-is-dry-farming-and-how-does-it-work]]
+- [[query-what-is-ecological-succession-and-how-can-farmers-use-it]]
 - [[query-what-is-fish-hydrolysate-and-how-do-i-use-it-as-fertilizer]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
 - [[query-what-is-humanure-and-is-it-safe]]

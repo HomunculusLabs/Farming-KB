@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**838 pages**
+**839 pages**
 
 ## A
 
@@ -198,6 +198,7 @@
 - [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
 - [[fukuoka-ignorant-medicine-hospital-collapse]]
 - [[fukuoka-illusions-of-scientific-farming]]
+- [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
 - [[fukuoka-incomprehensibility-and-inviolability-of-nature]]
 - [[fukuoka-indian-agriculture-observations]]
 - [[fukuoka-innocence-of-children]]

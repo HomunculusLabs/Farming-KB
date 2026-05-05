@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1144 pages**
+**1148 pages**
 
 ## #
 
@@ -80,6 +80,7 @@
 - [[ayahuasca-preparation-methods]]
 - [[ayahuasca-sorcery-types]]
 - [[ayahuasca-tourism]]
+- [[ayahuasca-tourism-economics-commodification-peru]]
 - [[ayahuasca-tourism-economics-peruvian-amazon]]
 - [[ayahuasca-tourism-ethics]]
 - [[ayahuasca-tourism-ethics-and-commodification]]
@@ -209,6 +210,7 @@
 - [[eleusinian-profanes-scandal-of-415-bce]]
 - [[eleusinian-telesterion-architecture-and-ritual]]
 - [[eleusis-mysteries-overview]]
+- [[emcdda-hallucinogenic-vs-psychedelic-terminology-debate]]
 - [[emcdda-psilocybin-pharmacology-and-chemistry]]
 - [[entheogen-ayahuasca-admixture-plants]]
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
@@ -682,6 +684,7 @@
 - [[mckenna-overmind-and-vegetable-mind]]
 - [[mckenna-plants-and-primates-coevolution]]
 - [[mckenna-psilocybin-and-language-formation]]
+- [[mckenna-psilocybin-language-poetry-vocal-impulse]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-psychedelic-shamanism]]
@@ -915,6 +918,7 @@
 - [[psilocybin-biosynthesis-pathway]]
 - [[psilocybin-biosynthetic-metabolic-pathway]]
 - [[psilocybin-bluing-reaction]]
+- [[psilocybin-cap-stem-distribution-bigwood-beug]]
 - [[psilocybin-chemical-synthesis]]
 - [[psilocybin-chemistry-pharmacology]]
 - [[psilocybin-clinical-research-history]]
