@@ -132,6 +132,6 @@ Fresh: 5–7 days refrigerated in paper bags (avoid sealed plastic, which traps 
 - [[Ganoderma lucidum]] — Reishi mushroom
 - [[mycoremediation]] — Fungal environmental remediation
 - [[permaculture]] — Sustainable design framework
-- [[bioremediation]] — Biological cleanup of contaminants
-- [[saprotroph]] — Decomposer organisms
+- [[bioremediation-ecosystem-restoration]] — Biological cleanup of contaminants
+- saprotroph — Decomposer organisms
 - [[white-rot fungi]] — Lignin-degrading fungal group

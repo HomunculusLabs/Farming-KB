@@ -14,7 +14,7 @@ sources:
 
 # Pigeon Pea vs Cowpea
 
-Pigeon pea ([[pigeon-pea]]) and cowpea ([[cowpea]]) are two of the most important tropical legumes in smallholder farming systems worldwide. Both fix atmospheric nitrogen, thrive in poor soils, and provide high-protein food and fodder. However, they differ markedly in growth cycle, water requirements, and agronomic role. This page provides a detailed side-by-side comparison to help farmers, permaculture designers, and agronomists choose the right crop for their context.
+Pigeon pea (pigeon pea) and cowpea (cowpea) are two of the most important tropical legumes in smallholder farming systems worldwide. Both fix atmospheric nitrogen, thrive in poor soils, and provide high-protein food and fodder. However, they differ markedly in growth cycle, water requirements, and agronomic role. This page provides a detailed side-by-side comparison to help farmers, permaculture designers, and agronomists choose the right crop for their context.
 
 ## Comparison Table
 

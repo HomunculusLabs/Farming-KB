@@ -121,4 +121,13 @@ through creative placement and connection of elements.
 
 ## Related
 
+- [[comparison-pigeon-pea-vs-cowpea]]
+- [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
+- [[comparison-tempeh-vs-tofu]]
+- [[query-how-do-i-grow-passion-fruit-in-a-cold-climate]]
+- [[query-how-do-i-start-a-silvopasture-system-on-my-property]]
+- [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]
+- [[query-how-to-grow-dragon-fruit-pitaya-at-home]]
+- [[query-what-is-wattle-and-daub-and-how-do-i-build-with-it]]
+
 - [[williams-pdc-ecological-design-principles]]

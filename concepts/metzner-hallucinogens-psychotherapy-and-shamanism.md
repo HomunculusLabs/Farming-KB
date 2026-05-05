@@ -151,4 +151,6 @@ states as ontologically real.
 
 ## See Also
 
+- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
+
 - [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]

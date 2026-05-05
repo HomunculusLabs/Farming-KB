@@ -79,6 +79,10 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 
 ## See Also
 
+- [[mckenna-chimpanzee-self-medication-and-primate-pharmacology]]
+- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
+- [[mckenna-tryptamine-glossolalia-and-primal-language]]
+
 - [[mckenna-archaic-paradise-techniques-ecstasy]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]

@@ -129,6 +129,8 @@ the genus.
 
 ## See Also
 
+- [[amanita-vaginata]]
+
 - [[fungal-ecology]]
 - [[mycorrhiza]]
 - [[psilocybin-mushroom]]

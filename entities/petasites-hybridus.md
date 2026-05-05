@@ -144,7 +144,7 @@ should be used medicinally.
 - [[artemisia-annua]]
 - [[inula-helenium]]
 - [[verbascum-thapsus]]
-- [[migraine-treatments]]
-- [[herbal-migraine-prophylaxis]]
-- [[pyrrolizidine-alkaloids]]
-- [[medicinal-asters]]
+- migraine treatments
+- herbal migraine prophylaxis
+- pyrrolizidine alkaloids
+- medicinal asters

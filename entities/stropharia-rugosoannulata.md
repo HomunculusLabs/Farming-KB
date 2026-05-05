@@ -161,5 +161,5 @@ Wine caps are excellent edibles when harvested at the right stage:
 - [[hericium-erinaceus]] — Lion's mane, another permaculture-compatible medicinal mushroom
 - [[pleurotus-ostreatus]] — Oyster mushroom, versatile decomposer and edible
 - [[mycoremediation]] — Using fungi for environmental cleanup and restoration
-- [[woodchip-gardening]] — Mulch-based gardening methods that pair with wine cap cultivation
+- [[cotter-wood-chip-cultivation-outdoor-beds]] — Mulch-based gardening methods that pair with wine cap cultivation
 - [[companion-planting]] — Overview of plant and fungal companion strategies

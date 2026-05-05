@@ -142,6 +142,8 @@ Damiana is generally well-tolerated at typical herbal doses. Side effects are ra
 
 ## See Also
 
+- [[damiana]]
+
 - [[rhodiola-rosea]]
 - [[ashwagandha]]
 - [[bacopa-monnieri]]

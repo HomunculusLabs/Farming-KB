@@ -143,6 +143,13 @@ Cannabis sativa ranges from 12-35% (E)-BCP content by comparison.
 
 ## See Also
 
+- [[lambsbread]]
+- [[golden-teacher-cannabis]]
+- [[royal-gorilla]]
+- [[tangie]]
+- [[thin-mint]]
+- [[vietnam-black]]
+
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]

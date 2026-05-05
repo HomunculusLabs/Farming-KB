@@ -137,6 +137,14 @@ However, Shulgin maintained that the information was already available in the sc
 
 ## See Also
 
+- [[ergocornine]]
+- [[ergocryptine]]
+- [[harmalol]]
+- [[ibotenic-acid-entity]]
+- [[lysergol]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]
+- [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]
+
 - [[walter-stoll]]
 
 - [[alexander-shulgin]] — biographical profile

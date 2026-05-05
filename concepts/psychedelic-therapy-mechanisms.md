@@ -112,3 +112,7 @@ distress and improve quality of remaining life.
 - [[hofmann-lsd-psychiatric-research]]
 - [[default-mode-network-and-ego-dissolution]]
 - [[psychedelic-crisis-response-protocol]]
+
+## See Also
+
+- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]

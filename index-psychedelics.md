@@ -1294,3 +1294,4 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
+- [[lysergic-acid]]

@@ -78,6 +78,8 @@ ecosystems.
 
 ## See Also
 
+- [[rehmannia-glutinosa]]
+
 - [[apple-tree-care]]
 - [[jojoba]]
 - [[moringa]]

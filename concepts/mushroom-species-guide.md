@@ -110,6 +110,20 @@ Avoid: most pines (ponderosa, lodgepole), cedars, redwood (anti-rotting compound
 Multiple mushroom species can be grown sequentially on the same substrate. Once one species has exhausted its preferred compounds, a different species with complementary enzymes can further reduce the substrate mass. The remaining material that does not evolve into gases becomes humus — this is how nature builds soil. A simple 50:50 mixture (by volume) of sawdust and wood chips of varying particle sizes provides the best structure: smaller particles stimulate quick "leap-off" growth; larger chips become nutritional bases and fruiting platforms, enabling super-large specimens.
 **Heavy metal warning**: Avoid wood chips from trees along busy roadways — automobile exhaust contaminates surrounding soil with lead and aluminum, which mushrooms can concentrate. Source wood from larger-diameter trees at sawmills. Test mushrooms if growing near industrial areas ($50-125 per analysis).
 ## See Also
+
+- [[agarikon]]
+- [[antrodia-camphorata]]
+- [[cetraria-islandica]]
+- [[chroogomphus-rutilus]]
+- [[cyclocybe-cylindracea]]
+- [[hericium-novae-zealandiae]]
+- [[irpex-lacteus]]
+- [[jack-o-lantern]]
+- [[strobilomyces-strobilaceus]]
+- [[usnea-barbata]]
+- [[amanita-caesarea-mycology]]
+- [[leccinum-insigne]]
+- [[gyroporus-cyanescens]]
 - [[specialty-mushroom-species]] — Agarikon, enokitake, pioppino, shaggy mane, tinder conk, artist conk, and more
 - [[mushroom-cultivation-basics]] — General cultivation processes
 - [[mushroom-substrates]] — Substrate selection and preparation

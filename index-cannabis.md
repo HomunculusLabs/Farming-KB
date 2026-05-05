@@ -1003,3 +1003,4 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
+- [[afghan-kush]]

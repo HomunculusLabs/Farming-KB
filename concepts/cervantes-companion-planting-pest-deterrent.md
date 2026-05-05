@@ -123,6 +123,8 @@ prevention through companion planting and other measures is so critical.
 
 ## See Also
 
+- [[companion-planting-guild]]
+
 - [[cervantes-pest-disease]] for comprehensive pest and disease management
 - [[outdoor-cannabis-growing]] for outdoor cultivation techniques
 - [[beneficial-insects-cannabis]] for biological pest control

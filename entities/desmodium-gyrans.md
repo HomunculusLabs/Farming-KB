@@ -143,8 +143,8 @@ ecosystems:
 
 - [[mimosa-pudica]]
 - [[glycyrrhiza-glabra]]
-- [[piper-nigrum]]
+- [[piper-nigrum-entity]]
 - [[nitrogen-fixing-plants]]
-- [[living-mulch]]
-- [[tropical-legumes]]
-- [[ayurvedic-plants]]
+- [[comparison-living-mulch-vs-cover-crops]]
+- tropical legumes
+- [[adaptogenic-herbs-overview]]

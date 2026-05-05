@@ -145,5 +145,5 @@ for *H. erinaceus*, though the species is less commercially developed.
 - [[trametes-versicolor]]
 - [[grifola-frondosa]]
 - [[pleurotus-ostreatus]]
-- [[neuroprotective-compounds]]
+- [[hericium-erinaceus]]
 - [[medicinal-mushrooms]]

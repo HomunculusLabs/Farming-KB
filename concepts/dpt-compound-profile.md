@@ -80,6 +80,8 @@ Synthesized from tryptamine or indole via standard reductive amination with dipr
 - Long-term effects unknown
 
 ## Related
+
+- [[dpt]]
 - [[5-meo-dmt-compound-profile]] — for the most well-known tryptamine
 - [[tryptamine-family-overview]] — for tryptamine chemistry overview
 - [[tihkal-introduction-and-methodology]] — for Shulgin's methodology

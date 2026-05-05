@@ -151,5 +151,10 @@ Related: [[stamets-spawn-making-and-grain-culture]], [[agar-to-grain-wedge-trans
 
 ## See Also
 
+- [[guerrilla-mycology]]
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide]]
+- [[laetiporus-sulphureus-permaculture]]
+
 - [[clitocybe-odora]]
 - [[lions-mane]]

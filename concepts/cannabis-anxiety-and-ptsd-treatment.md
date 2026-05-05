@@ -145,4 +145,8 @@ The endocannabinoid system interacts with serotonin and dopamine pathways releva
 5. **Mind the biphasic response**: Both THC and CBD can have biphasic dose-response effects
 ## See Also
 
+- [[harlequin]]
+
+- [[acdc]]
+
 - [[blesching-cannabis-ptsd-anxiety]]

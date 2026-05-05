@@ -1,0 +1,131 @@
+---
+title: "Ergocornine"
+type: chemical
+tags:
+  - ergot-alkaloid
+  - ergopeptine
+  - lysergamide
+  - dopamine-agonist
+  - ergot-fungus
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Hofmann, A. (1964). "The active principles of the ergot fungus." Proceedings of the Royal Society of Medicine, 57(Suppl), 14–20.
+- Berde, B., Schild, H.O. (1978). Ergot Alkaloids and Related Compounds. Springer-Verlag.
+- Schardl, C.L., Panaccione, D.G., Tudzynski, P. (2006). "Ergot alkaloids — biology and molecular biology." Alkaloids: Chemical and Biological Perspectives, 63, 45–86.
+- Gröger, D., Floss, H.G. (1998). "Biochemistry of ergot alkaloids." In: Biochemistry of Microbial Degradation. Springer.
+- Kren, V., Cvak, L. (1999). Ergot: The Genus Claviceps. CRC Press.
+---
+
+## Overview
+
+**Ergocornine** (C₃₁H₃₉N₅O₅) is an ergopeptine alkaloid produced by the
+ergot fungus *Claviceps purpurea* and several related *Claviceps* species.
+It belongs to the ergoline class of compounds and is one of the four
+principal ergopeptines found in ergot sclerotia alongside ergocristine,
+ergocryptine, and ergotamine.
+
+Ergocornine is a potent **dopamine D₂ receptor agonist** with moderate
+affinity for α-adrenergic and serotonin 5-HT₂ receptors. While not widely
+used as a standalone pharmaceutical, it serves as a key reference compound
+in ergopeptine pharmacology and contributes to the overall biological
+activity profile of crude ergot preparations used historically in obstetrics.
+
+## Chemical Properties
+
+- **Molecular formula:** C₃₁H₃₉N₅O₅
+- **Molecular weight:** 561.67 g/mol
+- **Chemical class:** Ergopeptine (ergoline tricyclic + cyclol tripeptide)
+- **Structure:** Composed of lysergic acid amide linked to a cyclol ring
+  formed by three amino acids: L-valine, L-proline, and L-phenylalanine
+- **IUPAC name:** Ergotaman-3',6',18-trione, 12'-hydroxy-2',5'-α-epoxy-
+  (or according to stereochemical conventions for ergopeptines)
+- **Solubility:** Sparingly soluble in water; soluble in chloroform,
+  ethanol, and dilute acetic acid
+
+The distinguishing feature among the four principal ergopeptines is the
+first amino acid in the tripeptide moiety:
+- **Ergocornine:** L-valine (isopropyl side chain)
+- **Ergocristine:** L-phenylalanine (benzyl side chain)
+- **Ergocryptine:** L-leucine (isobutyl side chain)
+- **Ergotamine:** L-alanine (methyl side chain)
+
+## Pharmacology
+
+### Receptor Binding Profile
+
+- **Dopamine D₂ receptor:** High affinity agonist (Kᵢ ~1–5 nM), comparable
+  to bromocriptine. This is the primary pharmacological target underlying
+  the prolactin-suppressing and anti-Parkinsonian effects shared by
+  ergopeptines.
+- **Serotonin 5-HT₁A, 5-HT₂A:** Moderate affinity (Kᵢ ~50–200 nM).
+  5-HT₂A antagonism contributes to the vasoconstrictive properties of
+  ergot alkaloids.
+- **α-Adrenergic receptors:** Partial agonist/antagonist activity at α₁
+  and α₂ subtypes, mediating vasoconstriction and uterotonic effects.
+
+### Biological Effects
+
+**Prolactin inhibition:** As a D₂ agonist, ergocornine suppresses pituitary
+prolactin secretion, a property shared with its derivative bromocriptine.
+This mechanism underlies the historical use of ergot preparations for
+lactation suppression.
+
+**Uterotonic activity:** Vasoconstriction and smooth muscle stimulation
+via α-adrenergic receptor activity — the basis of ergot's historical use
+in obstetrics (both therapeutic and toxic).
+
+**Vasoconstriction:** Peripheral vasoconstriction through α₁-adrenergic
+agonism and 5-HT₂A activity; excessive vasoconstriction is the mechanism
+of ergotism (St. Anthony's Fire).
+
+## Biosynthesis
+
+Ergocornine is biosynthesized in *Claviceps* spp. via the **ergot alkaloid
+pathway**, which proceeds through several well-characterized steps:
+
+1. L-tryptophan → dimethylallyltryptophan (DMAT) by prenyltransferase
+2. DMAT → festuclavine via a series of methylation and reduction steps
+3. Festuclavine → lysergic acid (via agroclavine intermediates)
+4. Lysergic acid + activated tripeptide (L-Val-L-Pro-L-Phe) → ergocornine
+   via the enzyme **ergopeptine synthase** (a non-ribosomal peptide
+   synthetase-like enzyme complex)
+
+The specific amino acid at the first position of the tripeptide (valine for
+ergocornine) determines the final ergopeptine product, with different
+enzyme variants incorporating different amino acids.
+
+## Occurrence and Natural Sources
+
+Ergocornine is produced primarily by:
+
+- ***Claviceps purpurea*** — the common ergot fungus parasitizing rye,
+  wheat, barley, and other cereal grasses. Ergocornine typically
+  constitutes 5–15% of the total ergopeptine alkaloid fraction.
+- ***Claviceps paspali*** — tropical ergot species on *Paspalum* grasses
+- Endophytic fungi in the *Epichloë* (formerly *Neotyphodium*) genus
+  infecting pasture grasses, where ergopeptines contribute to livestock
+  toxicosis (fescue toxicosis, ryegrass staggers)
+
+Total ergopeptine content in *C. purpurea* sclerotia ranges from 0.2–0.5%
+dry weight, with ergocornine as a significant but not dominant component.
+
+## Derivatives and Applications
+
+**Bromocriptine** (2-bromo-α-ergocryptine) is a semisynthetic derivative
+of ergocryptine, a close structural relative of ergocornine. Bromocriptine
+is widely prescribed for Parkinson's disease, hyperprolactinemia, and
+type 2 diabetes. While ergocornine itself is not used clinically, it
+serves as an important pharmacological reference compound for understanding
+ergopeptine structure-activity relationships.
+
+Ergocornine has been used experimentally to:
+- Characterize dopamine receptor subtypes in radioligand binding assays
+- Study prolactin regulation in neuroendocrinology research
+- Investigate ergopeptine biosynthesis in *Claviceps* genetics
+
+## See Also
+
+- [[ergocristine]] — Sister ergopeptine with phenylalanine side chain
+- [[ergotamine]] — Clinically important ergopeptine for migraine treatment
+- [[lsd]] — Semisynthetic lysergamide derived from ergot alkaloid pathway

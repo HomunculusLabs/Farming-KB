@@ -120,6 +120,8 @@ Hypericum perforatum contains a complex and synergistic mixture of bioactive com
 
 ## See Also
 
+- [[hypericin]]
+
 - [[leonurus-cardiaca]]
 - [[mimosa-tenuiflora]]
 - [[scutellaria-baicalensis]]

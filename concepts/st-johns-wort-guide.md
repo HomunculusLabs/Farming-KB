@@ -139,6 +139,8 @@ This is the most prized preparation:
 10. Store in amber glass bottles away from heat and light
 ## See Also
 
+- [[hypericin]]
+
 - [[mushroom-cultivation-photographic-guide]]
 - [[root-crops-growing-guide]]
 - [[field-guide-psilocybin-dosage-extraction-cultivation]]

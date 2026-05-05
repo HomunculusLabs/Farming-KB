@@ -28,7 +28,6 @@ Chili peppers (*Capsicum* spp.) are warm-season crops in the nightshade family (
 ## Understanding the Species
 
 There are five domesticated *Capsicum* species, each with different characteristics:
-
 | Species | Common Examples | Heat Range | Days to Maturity |
 |---------|----------------|------------|-----------------|
 | *C. annuum* | Jalapeño, poblano, Anaheim, bell, cayenne | 0–30,000 SHU | 65–90 days |
@@ -52,35 +51,11 @@ Pepper seeds remain viable for 2–4 years when stored cool and dry. Test older 
 ### Germination Requirements
 
 Pepper seeds need specific conditions to germinate reliably:
-
 - **Temperature**: 26–32°C (80–90°F) is optimal. Below 20°C, germination slows dramatically or stops entirely
 - **Moisture**: Consistently moist but not waterlogged
 - **Time**: 7–21 days depending on variety and conditions
 - **Light**: Not needed for germination (but provide light immediately after sprouting)
-
-### Sowing Method
-
-1. **Fill cells or trays** with a fine, sterile seed-starting mix (peat + perlite or coconut coir + perlite)
-2. **Sow seeds 6mm (¼ inch) deep**, one per cell if possible
-3. **Water gently** from below by setting trays in a shallow pan of water
-4. **Provide bottom heat** using a seedling heat mat set to 28–30°C. This is the single most important factor for fast, even germination
-5. **Cover with a humidity dome** or plastic wrap until seeds sprout; remove immediately after germination to prevent damping-off
-6. **Provide light**: 12–16 hours per day under grow lights or a bright south-facing window. Fluorescent or LED grow lights positioned 5–10 cm above seedlings work well
-
-### Hardening Off
-
-Before transplanting outdoors, seedlings need 7–10 days of gradual acclimation:
-
-- **Days 1–3**: Set outside in a sheltered spot for 2–3 hours during the warmest part of the day
-- **Days 4–6**: Extend to 4–6 hours, include some direct sun
-- **Days 7–10**: Leave outside all day, overnight if temperatures stay above 10°C
-
-## Growing Conditions
-
-### Temperature
-
 Peppers are warmth-loving plants:
-
 - **Optimal growth**: 21–30°C during the day, 16–21°C at night
 - **Minimum**: Growth stops below 12°C; plants are damaged or killed by frost
 - **Maximum**: Pollination fails above 35°C; flowers may drop without setting fruit
@@ -89,7 +64,6 @@ Peppers are warmth-loving plants:
 ### Soil
 
 Peppers prefer well-drained, loamy soil with:
-
 - **pH**: 6.0–6.8 (slightly acidic)
 - **Organic matter**: 3–5% compost worked in before planting
 - **Drainage**: Critical — peppers in waterlogged soil develop root rot quickly
@@ -117,7 +91,6 @@ Transplant seedlings into the garden **2–3 weeks after the last frost date**, 
 ### Watering
 
 Consistent moisture is key. Peppers are sensitive to both drought and overwatering:
-
 - **Frequency**: Water deeply 1–2 times per week rather than frequent shallow watering
 - **Amount**: 2.5–4 cm per week from rain + irrigation
 - **Flowering/fruiting**: Even more critical to maintain consistent moisture; fluctuations cause blossom-end rot and flower drop
@@ -126,7 +99,6 @@ Consistent moisture is key. Peppers are sensitive to both drought and overwateri
 ### Fertilizing
 
 Peppers are moderate to heavy feeders:
-
 - **At planting**: Mix in 2–4 liters of compost per square meter; optionally add a balanced organic fertilizer (4-4-4 or 5-5-5)
 - **Early growth** (first 4 weeks): Side-dress with nitrogen if growth is slow (fish emulsion, blood meal, or compost tea)
 - **Flowering and fruiting**: Shift to higher-phosphorus and potassium (bone meal, kelp meal, or a 2-5-5 blend) to support fruit production
@@ -172,7 +144,6 @@ Peppers are moderate to heavy feeders:
 ### When to Pick
 
 Peppers can be harvested at any stage, but flavor and heat develop as they mature:
-
 - **Green stage**: Crisp, slightly bitter, milder heat. Most jalapeños are eaten green
 - **Color stage** (red, orange, yellow, etc.): Sweeter, fuller flavor, maximum heat. Habaneros and many ornamentals are best fully colored
 - **Drying**: Cayenne, Thai, and similar thin-walled peppers can be left on the plant until partially dry, then finished in a dehydrator
@@ -193,7 +164,6 @@ Use scissors or pruning shears to cut peppers from the plant, leaving a short st
 ### Seed Saving
 
 Peppers are predominantly self-pollinating but can cross-pollinate at rates of 5–30% between varieties of the same species. To save pure seed:
-
 1. Select the best-looking fruit from the healthiest plant
 2. Allow it to fully ripen on the plant
 3. Cut open, scrape out seeds, and spread on a paper towel
@@ -203,7 +173,6 @@ Peppers are predominantly self-pollinating but can cross-pollinate at rates of 5
 ## Overwintering
 
 In frost-free climates or with indoor space, pepper plants can be overwintered:
-
 1. Before first frost, prune the plant back by half to two-thirds
 2. Dig up, pot into a container, and bring indoors
 3. Place in a bright, cool location (15–20°C)

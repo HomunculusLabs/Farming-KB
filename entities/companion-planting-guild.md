@@ -119,3 +119,7 @@ Some guild designs must account for negative chemical interactions:
 - **Successional planting**: Replace annuals seasonally while maintaining permanent guild members
 - **Pruning**: Manage canopy to ensure light reaches understory layers
 - **Soil monitoring**: Test annually to assess guild nutrient cycling effectiveness
+
+## See Also
+
+- [[guild-planting]]

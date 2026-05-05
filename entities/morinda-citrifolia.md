@@ -39,25 +39,19 @@ sources:
 ## Botanical Description
 
 **Growth habit:** Evergreen shrub to small tree, typically 3–10 m tall, occasionally reaching 15 m in ideal conditions. Canopy spread 3–6 m.
-
 **Trunk:** Gray-brown, rough bark, often crooked or gnarled. Branches are stiff and spreading.
-
 **Leaves:** Opposite, simple, elliptic to ovate, 15–30 cm long × 8–15 cm wide, glossy dark green above, paler below, with prominent venation. Leaves have a distinct pungent odor when crushed.
-
 **Flowers:** Small, white, tubular, 1.5–2 cm long, arranged in globose heads 2–3 cm diameter. Fragrant, opening at night (moth-pollinated). Flowers year-round in tropical climates.
 
 **Fruit:** Ovoid to ellipsoid syncarp (aggregate fruit), 5–12 cm long × 3–7 cm wide. Green when immature, turning creamy white to yellow-white when ripe. Surface has characteristic polygonal facets (achenes). Ripe fruit has a strong, pungent odor described as "aged cheese" or "vomit-like" — a consequence of butyric acid and caproic acid esters. Contains numerous seeds embedded in a white, juicy pulp.
 
 **Roots:** Extensive lateral root system. Some Pacific Island cultivars develop prominent, carrot-shaped taproots (used as a red dye source in traditional textiles).
-
 **Lifecycle:** Can begin flowering at 9–12 months from seed. Fruits mature 90–120 days after flowering. Productive for 20+ years.
 
 ## Distribution & Habitat
 
 **Native range:** Southeast Asia (Indonesia, Malaysia, Philippines), northern Australia, Papua New Guinea.
-
 **Naturalized:** Throughout the Pacific Islands (Hawai'i, Tahiti, Fiji, Samoa, Tonga), Caribbean, Central and South America, West Africa, southern Florida.
-
 **Habitat:** Extremely versatile — found from sea level to 1,300 m elevation. Thrives on:
 - Coastal sandy soils and coral atolls
 - Volcanic soils (lava fields)
@@ -115,22 +109,6 @@ Noni has been used across Polynesia for centuries to treat a remarkably broad ra
 - Noni juice showed chemopreventive effects in DMBA-induced mammary tumorigenesis in rats
 - Induction of apoptosis and cell cycle arrest in various cancer cell lines
 - **Human evidence:** Insufficient; one small pilot study (Wong, 2011) suggested quality-of-life improvement in cancer patients but was not powered for efficacy
-
-#### Immunomodulation
-- Noni-ppt polysaccharide activates macrophages, NK cells, and dendritic cells
-- Enhanced antibody response to thymus-dependent antigens in mice
-- Mixed results in human trials for immune function endpoints
-
-#### Anti-Inflammatory & Analgesic
-- Scopoletin and rutin inhibit COX-2 and 5-LOX pathways
-- Animal models show analgesic effects comparable to NSAIDs at equivalent doses
-- Traditional topical use for arthritic pain supported by anti-inflammatory activity
-
-#### Antioxidant
-- ORAC (Oxygen Radical Absorbance Capacity) of noni juice: 4,000–7,500 µmol TE/L
-- Scavenges superoxide, hydroxyl, and peroxyl radicals
-- Vitamin C content contributes but is not the primary source of antioxidant activity
-
 #### Cardiovascular
 - Mild blood pressure reduction in hypertensive patients (small RCT, 8 weeks)
 - Endothelial function improvement
@@ -199,7 +177,6 @@ Noni is remarkably pest-resistant:
 ## Food & Processing
 
 The ripe fruit's pungent odor makes it challenging for fresh consumption, but various traditional and modern processing methods improve palatability:
-
 - **Noni juice** — most common commercial product; fruit fermented 2–6 months, then pressed
 - **Noni powder** — dehydrated ripe fruit, ground; used in capsules and smoothies
 - **Noni leather** — fruit pulp dried into sheets (Hawaiian traditional method)
@@ -217,6 +194,5 @@ Noni is generally well-tolerated:
 ## See Also
 
 - [[moringa-oleifera]] — Fellow tropical multi-use tree
-- [[pioneer-species-tropical]] — Site rehabilitation with fast-growing tropicals
+- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] — Site rehabilitation with fast-growing tropicals
 - [[food-forest-design]] — Integrating noni into polyculture systems
-- [[rubiaceae-family]] — Coffee family medicinal plants

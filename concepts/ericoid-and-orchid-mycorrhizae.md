@@ -93,7 +93,9 @@ Orchid-fungal specificity varies widely:
 | Habitat | Acidic, nutrient-poor soils | Extremely varied |
 | Dependency | Beneficial but not obligate | Obligate (at least for germination) |
 
-## Related Concepts
+## Related
+
+- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] Concepts
 
 - [[arbuscular-mycorrhizal-fungi]] -- the most common mycorrhizal type
 - [[ectomycorrhizal-ecology]] -- forest tree mycorrhizae

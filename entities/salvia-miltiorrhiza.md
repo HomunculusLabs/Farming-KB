@@ -145,5 +145,5 @@ Generally well-tolerated at therapeutic doses. Key cautions include:
 - [[glycyrrhiza-glabra]]
 - [[salvia-officinalis]]
 - [[cardiovascular-herbs]]
-- [[traditional-chinese-medicine]]
-- [[tanshinone-iia]]
+- [[ganoderma-lucidum]]
+- tanshinone iia

@@ -140,6 +140,8 @@ The active principle can be absorbed through the skin. If you gently hold a fres
 
 ## See Also
 
+- [[amanita-vaginata]]
+
 - [[amanita-muscaria-drying-and-preparation]] -- Pre-processing
 - Sacred wine preparation -- Detailed wine method
 - Eucharist wafer preparation -- Herb flour and wafers

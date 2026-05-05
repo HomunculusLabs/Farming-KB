@@ -97,6 +97,8 @@ Management:
 
 ## See Also
 
+- [[chondrostereum-purpureum]]
+
 - [[uncinula-necator]]
 
 - [[sphaerotheca-fuliginea]]

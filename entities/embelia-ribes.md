@@ -141,10 +141,10 @@ a pungent (*katu*) taste and heating (*ushna*) potency.
 
 ## See Also
 
-- [[piper-nigrum]]
+- [[piper-nigrum-entity]]
 - [[glycyrrhiza-glabra]]
 - [[picrorhiza-kurroa]]
 - [[withania-somnifera]]
-- [[anthelmintic-herbs]]
-- [[ayurvedic-plants]]
-- [[benzoquinones]]
+- [[reishi-mushroom-medicinal-properties]]
+- [[adaptogenic-herbs-overview]]
+- benzoquinones

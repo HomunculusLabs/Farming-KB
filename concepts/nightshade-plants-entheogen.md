@@ -113,4 +113,6 @@ richard evans schultes updated, albert hofmann
 
 ## See Also
 
+- [[syncretic-entheogenic-folk-ceremonies-community-churches]]
+
 - [[duboisia-hopwoodii-pituri-ethnobotany]]

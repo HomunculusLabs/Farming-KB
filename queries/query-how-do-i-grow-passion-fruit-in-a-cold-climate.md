@@ -28,7 +28,7 @@ sources:
 | *P. edulis f. flavicarpa* | Yellow Passion Fruit | 2°C (35°F) | Zones 10–11 | Excellent |
 | *P. ligularis* | Sweet Granadilla | 4°C (39°F) | Zones 10–11 | Excellent |
 
-**Key takeaway:** *P. incarnata* is the only species that reliably survives winters in zones 5–6. For *P. edulis* fruit quality in cold climates, container growing with indoor overwintering is essential. See [[passion-fruit-species-comparison]] for full species profiles.
+**Key takeaway:** *P. incarnata* is the only species that reliably survives winters in zones 5–6. For *P. edulis* fruit quality in cold climates, container growing with indoor overwintering is essential. See [[comparison-dragon-fruit-vs-passion-fruit-cultivation]] for full species profiles.
 
 ## Understanding Hardiness Zones
 
@@ -37,7 +37,7 @@ sources:
 - **Zones 6–7:** Grow *P. incarnata* or *P. caerulea* outdoors; *P. edulis* must be container-grown and overwintered indoors.
 - **Zones 3–5:** Outdoor passion fruit limited to *P. incarnata* with heavy mulching. For *P. edulis*, a greenhouse is strongly recommended.
 
-- **Critical thresholds:** Root damage begins below 5°C (41°F). Above-ground *P. edulis* damaged at −1°C (30°F); leaf drop at 2°C (36°F). See [[hardiness-zone-guide]] for microclimate strategies.
+- **Critical thresholds:** Root damage begins below 5°C (41°F). Above-ground *P. edulis* damaged at −1°C (30°F); leaf drop at 2°C (36°F). See [[coleman-cold-hardiness-testing-ratings]] for microclimate strategies.
 
 ---
 
@@ -58,7 +58,7 @@ Container growing is the most practical approach for cold-climate growers seekin
 - **Mobility:** Use a plant caddy with casters. A mature vine in a 60 L pot weighs 30–40 kg. Repot every 2 years.
 - **Fertilizing:** Apply balanced liquid fertilizer (10-10-10) every 2 weeks during growing season; monthly in autumn.
 
-See [[container-fruit-growing]] for container-specific techniques.
+See [[comparison-berry-growing-vs-fruit-tree-pruning]] for container-specific techniques.
 
 ---
 
@@ -79,7 +79,7 @@ Move containers indoors before nighttime temperatures consistently drop below 10
 Apply 15–20 cm of organic mulch over the root zone after the first hard frost. For *P. incarnata* in zone 5, the crown dies back but roots survive — cut dead vines to ground level in early spring. Avoid nitrogen-heavy fertilizers after mid-summer to prevent frost-vulnerable soft growth.
 
 ### Frost Cloth
-Cover above-ground growth when temperatures drop below 2°C (36°F). Protects down to −3°C to −5°C but is not a substitute for indoor overwintering of *P. edulis*. See [[overwintering-tender-plants]].
+Cover above-ground growth when temperatures drop below 2°C (36°F). Protects down to −3°C to −5°C but is not a substitute for indoor overwintering of *P. edulis*. See overwintering tender plants.
 
 ---
 
@@ -123,7 +123,7 @@ Cover above-ground growth when temperatures drop below 2°C (36°F). Protects do
 - **'Frederick'** (*P. edulis*): Vigorous, good for containers. Reliable with hand pollination.
 - **'Nelly Kelly'** (*P. edulis*): Self-fertile grafted variety, ideal for greenhouses.
 - **'Constance Elliot'** (*P. caerulea* × *P. edulis*): Cold-hardy hybrid with edible fruit. Zones 7–10.
-- **'Incarnata' (wild type):** Best for zones 5–6 in-ground. Die-back perennial. See [[passion-fruit-variety-guide]].
+- **'Incarnata' (wild type):** Best for zones 5–6 in-ground. Die-back perennial. See [[comparison-dragon-fruit-vs-passion-fruit-cultivation]].
 
 ---
 

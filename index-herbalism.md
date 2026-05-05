@@ -104,3 +104,4 @@
 ## W
 
 - [[womens-health-herbs]]
+- [[rehmannia-glutinosa]]

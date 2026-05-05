@@ -141,6 +141,12 @@ of these practices.
 
 ## See Also
 
+- [[guzman-magic-mushrooms-copelandia-panaeolus]]
+- [[guzman-magic-mushrooms-european-distribution]]
+- [[guzman-magic-mushrooms-mexican-diversity]]
+- [[guzman-magic-mushrooms-new-guinea-sacred-fungi]]
+- [[guzman-magic-mushrooms-psilocybe-sections]]
+
 - [[guzman-magic-mushrooms-neotropical-species]] for Mexican and
   Central American species
 - [[guzman-magic-mushrooms-asian-species]] for Asian traditions

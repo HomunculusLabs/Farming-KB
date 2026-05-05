@@ -179,4 +179,6 @@ Chamovitz argues legitimately deserves to be called a form of vision.
 
 ## See Also
 
+- [[phototropism-and-phytochrome-in-plants]]
+
 - [[daniel-chamovitz]]

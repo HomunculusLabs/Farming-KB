@@ -143,6 +143,10 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 
 ## See Also
 
+- [[fukuoka-mechanization-trap-and-farmer-alienation]]
+- [[fukuoka-science-destroy-and-rebuild-paradox]]
+- [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
+
 - [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
 - [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
 - [[fukuoka-textdoc-straw-decomposition-ecological-succession]]

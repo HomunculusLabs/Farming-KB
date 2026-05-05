@@ -93,7 +93,27 @@ The chicua bird (Piaya cayana) serves as a living oracle when harvesting ayahuas
 - "Chicua" — danger; must leave it for another day
 - "Chis, chis, chicua" — things will start well but go wrong afterward
 
-## Related Pages
+## Related
+
+- [[arnica-montana]]
+- [[clitoria-ternatea]]
+- [[codonopsis-pilosula]]
+- [[curculigo-orchioides]]
+- [[desmodium-gyrans]]
+- [[embelia-ribes]]
+- [[eucommia-ulmoides]]
+- [[hibiscus-cannabinus]]
+- [[oplopanax-horridus]]
+- [[pelargonium-sidoides]]
+- [[petasites-hybridus]]
+- [[plumbago-zeylanica]]
+- [[shepherdia-canadensis]]
+- [[solidago-virgaurea]]
+- [[stephania-tetrandra]]
+- [[tagetes-minuta]]
+- [[viscum-album]]
+- [[lupinus-polyphyllus]]
+- [[maca]] Pages
 
 - [[amazonian-plant-teachers-doctores]] — Teacher plant traditions
 - [[shipibo-icaros-healing-songs]] — Songs taught by these plants

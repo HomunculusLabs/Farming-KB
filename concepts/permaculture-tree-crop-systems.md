@@ -89,3 +89,7 @@ A more assured income from tree crops, coupled with wider market for relatively 
 - [[permaculture-livestock-forage-systems]] -- tree fodder as a forage strategy
 - [[permaculture-woody-mulch-systems]] -- tree prunings as mulch resource
 - [[permaculture-settlement-design]] -- tree crops in village and community landscapes
+
+## See Also
+
+- [[dalbergia-sissoo]]

@@ -80,6 +80,8 @@ The primary species used in Mesoamerican ceremonies belong to the genus Psilocyb
 
 ## See Also
 
+- [[syncretic-entheogenic-folk-ceremonies-community-churches]]
+
 - [[magic-mushroom-cultural-history]]
 - [[magic-mushroom-history-timeline]]
 - [[soma-and-the-sacred-mushroom-debate]]

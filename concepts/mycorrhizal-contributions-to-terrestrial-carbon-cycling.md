@@ -118,3 +118,7 @@ both carbon and nitrogen biogeochemical cycles. Changes in atmospheric
 CO2 concentration, nitrogen deposition, and land use all affect the
 carbon flux through mycorrhizal pathways, with cascading consequences
 for soil carbon storage and ecosystem functioning.
+
+## See Also
+
+- [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
