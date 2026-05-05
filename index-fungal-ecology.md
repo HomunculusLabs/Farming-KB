@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2315 pages**
+**2316 pages**
 
 ## #
 
@@ -1825,6 +1825,7 @@
 - [[palmer-russula-lactarius-families]]
 - [[palmer-specific-mushroom-species-guide]]
 - [[palmer-toadstool-poisoning-cases]]
+- [[panaeolus-panaeolina-neurotropic-species]]
 - [[particle-filtration-dilution-plating-microfungal-isolation]]
 - [[pcr-methods-fungal-identification-monitoring]]
 - [[permaculture-designers-manual-legumes]]

@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**202 pages**
+**203 pages**
 
 ## A
 
@@ -125,6 +125,7 @@
 - [[honey-extraction-and-processing]]
 - [[honey-varieties-guide]]
 - [[hot-sauce-making]]
+- [[human-photoreception-rods-cones-and-visual-pigments]]
 - [[hurricane-preparedness-guide]]
 
 ## I

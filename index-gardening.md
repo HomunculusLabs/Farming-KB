@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**842 pages**
+**843 pages**
 
 ## A
 
@@ -729,6 +729,7 @@
 - [[seed-starting-reference]]
 - [[selling-farm-products-and-business]]
 - [[shock-method-fruit-tree]]
+- [[short-day-and-long-day-plant-classification]]
 - [[silvopasture-systems]]
 - [[slugs-and-snails-organic-control]]
 - [[small-scale-grain-growing]]

@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1303 pages**
+**1306 pages**
 
 ## #
 
@@ -140,6 +140,7 @@
 - [[copelandia-cambodginiensis-profile]]
 - [[copelandia-cyanescens-australia-nz]]
 - [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
+- [[copelandia-genus]]
 - [[copelandia-genus-species-guide]]
 - [[copelandia-panaeolus-genera]]
 - [[coprinus-comatus-cultivation]]
@@ -250,12 +251,14 @@
 - [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
+- [[emcdda-hallucinogenic-mushroom-survey-methodology-data-limitations]]
 - [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]
 - [[emcdda-psilocybin-mushroom-species-and-identification]]
 - [[emcdda-smartshop-trade-online-distribution-mushrooms]]
+- [[emcdda-wild-mushroom-foraging-misidentification-hazards]]
 - [[enoki-cultivation]]
 - [[enoki-cultivation-guide]]
 - [[enoki-mushroom-cultivation]]

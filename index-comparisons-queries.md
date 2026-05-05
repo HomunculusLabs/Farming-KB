@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**939 pages**
+**949 pages**
 
 ## A
 
@@ -176,6 +176,7 @@
 - [[comparison-fermented-vegetables-vs-canning]]
 - [[comparison-ferrocement-vs-cob-construction]]
 - [[comparison-ferrocement-vs-earthbag]]
+- [[comparison-fig-vs-mulberry-for-permaculture]]
 - [[comparison-fimming-vs-topping]]
 - [[comparison-fish-aminos-vs-kelp-meal]]
 - [[comparison-fish-aminos-vs-vermicompost-tea]]
@@ -211,12 +212,14 @@
 - [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
 - [[comparison-herb-spiral-vs-keyhole-garden]]
+- [[comparison-honey-bees-vs-native-solitary-bees]]
 - [[comparison-hot-composting-vs-bokashi]]
 - [[comparison-hps-vs-cmh]]
 - [[comparison-hugelkultur-vs-chinampas]]
 - [[comparison-hugelkultur-vs-keyline-design]]
 - [[comparison-hugelkultur-vs-sheet-mulching]]
 - [[comparison-hugelkultur-vs-syntropic-agriculture]]
+- [[comparison-hugelkultur-vs-terra-preta-soil-building]]
 - [[comparison-hugelkultur-vs-terracing]]
 - [[comparison-hugelkultur-vs-wicking-bed]]
 - [[comparison-humic-acid-vs-fulvic-acid]]
@@ -266,6 +269,7 @@
 - [[comparison-monotub-vs-martha-tent]]
 - [[comparison-monotub-vs-pf-tek]]
 - [[comparison-morel-vs-chanterelle]]
+- [[comparison-moringa-oleifera-vs-moringa-stenopetala]]
 - [[comparison-mulch-vs-cover-crops]]
 - [[comparison-mulch-vs-living-mulch]]
 - [[comparison-mulching-guide-vs-green-manure-guide]]
@@ -307,6 +311,7 @@
 - [[comparison-permaculture-beekeeping-vs-natural-beekeeping]]
 - [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
 - [[comparison-persimmon-vs-pawpaw]]
+- [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - [[comparison-phytoextraction-vs-phytostabilization]]
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[comparison-polyculture-vs-intercropping]]
@@ -503,6 +508,7 @@
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
 - [[query-can-fungi-break-down-plastic-pollution]]
 - [[query-can-fungi-clean-up-oil-spills]]
+- [[query-can-moringa-be-used-for-water-purification]]
 - [[query-can-you-reveg-a-cannabis-plant-after-harvest]]
 - [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
 - [[query-difference-between-photoperiod-and-autoflowering-cannabis]]
@@ -529,6 +535,7 @@
 - [[query-how-do-fungi-improve-soil-structure]]
 - [[query-how-do-i-adjust-soil-ph-naturally]]
 - [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
+- [[query-how-do-i-build-a-wicking-bed-for-my-garden]]
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
 - [[query-how-do-i-build-with-hempcrete]]
@@ -549,6 +556,7 @@
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]
+- [[query-how-do-i-design-planting-guilds-for-a-food-forest]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]]
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
@@ -624,6 +632,7 @@
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
 - [[query-how-do-photonic-crystals-create-structural-color]]
 - [[query-how-do-plants-defend-themselves-chemically]]
+- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 - [[query-how-do-psychedelics-change-consciousness]]
 - [[query-how-do-slime-molds-decompose-organic-matter]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
@@ -818,6 +827,7 @@
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
 - [[query-what-are-the-best-companion-plants-for-cannabis]]
 - [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
+- [[query-what-are-the-best-fig-varieties-for-different-climates]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
 - [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]

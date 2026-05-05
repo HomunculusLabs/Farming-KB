@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1182 pages**
+**1188 pages**
 
 ## #
 
@@ -216,6 +216,7 @@
 - [[eleusinian-telesterion-architecture-and-ritual]]
 - [[eleusis-mysteries-overview]]
 - [[emcdda-hallucinogenic-vs-psychedelic-terminology-debate]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance]]
 - [[emcdda-psilocybin-pharmacology-and-chemistry]]
 - [[entheogen-ayahuasca-admixture-plants]]
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
@@ -616,6 +617,7 @@
 - [[mckenna-archaic-sexuality-and-partnership-society]]
 - [[mckenna-art-archaic-revival]]
 - [[mckenna-ayahuasca-and-amazonian-shamanism]]
+- [[mckenna-beringer-mescaline-psychedelic-psychiatry]]
 - [[mckenna-brothers-la-chorrera-experiment-1971]]
 - [[mckenna-cannabis-culture-history]]
 - [[mckenna-cannabis-dreaming-weavers]]
@@ -624,6 +626,7 @@
 - [[mckenna-catalytic-psychedelics-and-culture]]
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-catalyzing-consciousness-language-formation]]
+- [[mckenna-coca-mama-coca-inca-goddess-tradition]]
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-diet-symbiosis-human-evolution]]
 - [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
@@ -705,6 +708,7 @@
 - [[mckenna-opium-tobacco-paradoxical-attitudes]]
 - [[mckenna-opium-wars-and-drug-diplomacy]]
 - [[mckenna-overmind-and-vegetable-mind]]
+- [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]
 - [[mckenna-plants-and-primates-coevolution]]
 - [[mckenna-psilocybin-and-language-formation]]
 - [[mckenna-psilocybin-language-poetry-vocal-impulse]]
@@ -727,6 +731,7 @@
 - [[mckenna-symbiosis-and-human-plant-relationships]]
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[mckenna-techniques-of-ecstasy]]
+- [[mckenna-telepathine-harmala-alkaloid-discovery]]
 - [[mckenna-television-as-hidden-persuader]]
 - [[mckenna-television-dominator-drug]]
 - [[mckenna-transcendent-other-and-exopheromones]]
@@ -742,6 +747,7 @@
 - [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-vedic-soma-indo-european-mysteries]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
+- [[mckenna-war-as-vector-of-addiction]]
 - [[mckenna-wasson-soma-contradictions-and-doubts]]
 - [[mckenna-women-gatherers-and-evolution-of-language]]
 - [[mckenna-world-made-of-language]]

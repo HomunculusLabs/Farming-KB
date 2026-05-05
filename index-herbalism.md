@@ -2,7 +2,7 @@
 
 > Medicinal plants, herbal preparations, functional mushrooms, and traditional plant medicine
 
-**58 pages**
+**59 pages**
 
 ## A
 
@@ -25,6 +25,10 @@
 ## D
 
 - [[digestive-herbs-and-bitters]]
+
+## E
+
+- [[emcdda-herbal-highs-market-product-substitution-bans]]
 
 ## G
 
