@@ -1,152 +1,207 @@
 ---
-title: "Mimosa tenuiflora"
+title: "Mimosa tenuiflora (Jurema)"
 type: species
-tags: [species, plant, ethnobotanical, legume, dmt-containing, herbal]
+tags:
+  - herbal-plant
+  - dmt
+  - entheogen
+  - permaculture
+  - nitrogen-fixer
+  - legume
+  - ethnobotany
+  - restoration
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md"
+  - https://pubmed.ncbi.nlm.nih.gov/?term=mimosa+tenuiflora+dmt+bark+phytochemistry
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5397334/
+  - Ott, J. (1994). Ayahuasca Analogues: Pegaan Huasca. Natural Products Co.
+  - Albuquerque, U.P. et al. (2011). "The use of plants in northeastern Brazil." Journal of Ethnopharmacology.
 ---
 
-# Mimosa tenuiflora
+# Mimosa tenuiflora (Jurema / Jurema Preta)
 
-Mimosa tenuiflora, commonly known as jurema preta, tepezcohuite,
-or carbonal, is a perennial shrub or small tree in the family
-Fabaceae native to northeastern Brazil and extending into Central
-America and southern Mexico. It is one of the most culturally
-significant psychoactive plants in the Americas, primarily due to
-the bark of its roots containing N,N-dimethyltryptamine (DMT),
-which has been used for centuries in indigenous ceremonial
-preparations.
+## Overview
 
-The tree typically reaches 4-8 meters in height with bipinnate
-leaves, small white flower heads, and flattened seed pods. Its
-bark is dark gray to reddish-brown and fissured. It is remarkably
-resilient, thriving in poor, arid soils. Beyond its psychoactive
-properties, M. tenuiflora has gained modern recognition for its
-wound-healing and dermatological applications.
+**Mimosa tenuiflora** (syn. *Mimosa hostilis*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through Central America to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital nitrogen-fixing pioneer species with significant applications in ecological restoration and permaculture.
 
-## Taxonomy and Classification
+## Taxonomy
 
-- **Kingdom:** Plantae
-- **Phylum:** Tracheophyta
-- **Class:** Magnoliopsida
-- **Order:** Fabales
-- **Family:** Fabaceae
-- **Subfamily:** Mimosoideae
-- **Genus:** Mimosa
-- **Species:** M. tenuiflora
+| Rank | Classification |
+|------|---------------|
+| Kingdom | Plantae |
+| Division | Magnoliophyta |
+| Class | Magnoliopsida |
+| Order | Fabales |
+| Family | Fabaceae |
+| Subfamily | Mimosoideae |
+| Genus | *Mimosa* |
+| Species | *M. tenuiflora* |
 
-Synonyms include Mimosa hostilis (the name under which the
-species was most widely known in psychedelic literature), Acacia
-hostilis, and Mimosa tenuiflora var. hostilis. Described by Carl
-Martius in 1842. It belongs to section Mimosa ser. Mimosa,
-characterized by sensitive leaves that fold when touched
-(thigmonasty).
+### Synonyms
 
-## Description
+- *Mimosa hostilis* (Benth.) J.F.Macbr. — the most widely used synonym, especially in the entheogenic community
+- *Acacia hostilis* (Benth.) Mart.
+- *Mimosa verissima* Mart.
+- *Mimosa limensis* Rizzini
 
-### Growth Habit and Morphology
+### Common Names
 
-- **Habit:** Perennial shrub or small tree, 4-8 m tall
-- **Bark:** Dark gray to reddish-brown, deeply fissured; inner bark pinkish-red
-- **Leaves:** Bipinnate, 5-10 cm long, with 2-4 pairs of pinnae, each bearing 10-25 pairs of leaflets; thigmonastic
-- **Flowers:** Spikes 2-5 cm long, white to pale yellow, fragrant
-- **Fruit:** Flattened pods 3-6 cm long, brown, containing 3-6 seeds
-- **Seeds:** Ovoid, brown, 3-4 mm, hard testa
-- **Roots:** Deep taproot; root bark is the primary psychoactive part
+- **Portuguese (Brazil)**: Jurema, jurema-preta, jurema-vermelha, calumbi
+- **Spanish (Mexico)**: Tepezcohuite, tepescohuite, carbonal, cabrera
+- **English**: Jurema, black jurema, mimosa hostilis
 
-### Root Bark Chemistry
+## Morphology
 
-| Compound | Concentration (dry bark) | Notes |
-|----------|------------------------|-------|
-| N,N-DMT | 0.31-1.0% | Primary psychoactive |
-| 5-MeO-DMT | Trace | Minor constituent |
-| Bufotenine | Trace | Present in some analyses |
-| β-carbolines | Trace | MAOI activity |
-| Methyltryptamine | Trace | Minor alkaloid |
+- **Growth habit**: Fast-growing perennial shrub to small tree; typically 2–8 m tall, occasionally reaching 12 m
+- **Trunk**: Grayish-brown, smooth when young, becoming rough and fissured with age; 10–30 cm diameter
+- **Bark**: Outer bark dark brown, thick, and corky; inner bark (the entheogenically significant part) pinkish-red to reddish-brown, fibrous, with a characteristic sweet-woody aroma
+- **Branches**: Armed with sharp stipular spines (thorns) 3–12 mm long at branch nodes; crucial identification feature
+- **Leaves**: Bipinnately compound, 5–10 cm long; 2–4 pairs of pinnae, each with 15–30 pairs of small (3–6 mm) linear leaflets; leaves exhibit rapid **seismonastic movement** (folding in response to touch, vibration, or changes in light — the "sensitive plant" response)
+- **Flowers**: Fragrant, sessile, in dense cylindrical spikes 2–6 cm long; white to creamy-white, with numerous long stamens giving a powder-puff appearance; bloom during the dry season (September to January in Brazil)
+- **Fruit**: Flat, linear pods 4–8 cm long and 6–10 mm wide, brown at maturity; containing 3–5 seeds per pod; pods dehisce explosively when dry, dispersing seeds several meters
+- **Seeds**: Oval, brown, 3–4 mm long, hard-coated; require scarification for germination
+- **Root system**: Deep taproot (2–4 m) with extensive nitrogen-fixing rhizobial nodules; lateral roots also well-developed
 
-## Distribution and Habitat
+## Phytochemistry
 
-- **Native range:** Northeastern Brazil (Caatinga biome) to Central America and southern Mexico
-- **Habitat:** Tropical dry forests, savannas, and degraded lands
-- **Elevation:** 0-1000 m above sea level
-- **Soil preference:** Sandy, well-drained, low-nutrient; highly drought-tolerant
-- **Climate:** Semi-arid to sub-humid; 250-1000 mm annual rainfall
+### Tryptamine Alkaloids
 
-M. tenuiflora is a pioneer species, among the first to colonize
-disturbed land. It fixes atmospheric nitrogen through rhizobial
-symbiosis, improving soil fertility for subsequent species. Its
-deep taproot accesses groundwater unavailable to shallow-rooted
-plants.
+The inner root bark of *M. tenuiflora* is exceptionally rich in DMT:
 
-## Chemistry and Active Compounds
+- **N,N-DMT**: 0.31–1.0% in dried inner root bark (variable by population, season, and plant age)
+- **N-Methyltryptamine (NMT)**: 0.02–0.08% — a biosynthetic intermediate and mild psychoactive compound
+- **β-Carboline alkaloids**: Trace amounts of harmine and harmaline have been detected in some samples, though concentrations are generally too low for monoamine oxidase inhibition
 
-Psychoactive constituents reside predominantly in the root bark,
-where DMT concentrations of 0.31-1.0% have been reported. Stem
-bark contains significantly lower concentrations (0.03-0.1%). The
-primary alkaloid is N,N-dimethyltryptamine, a serotonin 5-HT2A
-receptor agonist producing visionary and entheogenic effects.
+### Other Compounds
 
-Trace β-carboline alkaloids (harmine, harmaline) have also been
-detected. These MAOIs would theoretically facilitate oral DMT
-activity, but concentrations are generally too low to explain
-oral activity of traditional jurema preparations, suggesting
-other co-occurring compounds or admixture plants contribute to
-the pharmacological effect.
+- **Tannins**: High concentrations (15–25%) of condensed tannins (proanthocyanidins) — responsible for the bark's astringent and wound-healing properties
+- **Flavonoids**: Kaempferol, quercetin, and their glycosides — antioxidant and anti-inflammatory
+- **Saponins**: Triterpenoid saponins — antimicrobial and immunomodulatory
+- **Mucilages**: Polysaccharides contributing to wound-healing and skin-protective effects
+- **Phenolic acids**: Gallic acid, ellagic acid derivatives — antioxidant
 
-## Ethnobotanical and Cultural Significance
+## Ethnobotanical History
 
-In northeastern Brazil, M. tenuiflora bark has been used for
-centuries in the preparation of a ceremonial beverage called
-vinho de jurema. The drink is central to the Jurema Sagrada
-tradition, blending indigenous Tupi-Guarani cosmology with
-Catholic and African spiritual elements. The ceremony involves
-ingestion to facilitate visions, healing, and communion with
-spirits.
+### Jurema Ceremony (Northeastern Brazil)
 
-In Mexico, the bark is known as tepezcohuite and has been used
-since pre-Columbian times for wound healing and skin conditions.
-Modern Mexican pharmacology has validated these uses, and
-tepezcohuite extracts are commercially available in burn-care
-products.
+The use of *M. tenuiflora* in northeastern Brazil represents one of the oldest continuous entheogenic traditions in the Americas:
 
-## Medicinal Uses
+- **Archaeological evidence**: Ceramic pipes containing DMT residues, dated to 1000 BCE, have been found in the region of Pernambuco — demonstrating over 3,000 years of documented use
+- **Indigenous peoples**: The Tupi, Pataxó, Tuxá, Fulni-ô, and other indigenous groups of the Caatinga region used jurema in shamanic ceremonies for healing, divination, and communication with spirits
+- **Vinho da Jurema (Jurema wine)**: The traditional preparation involves:
+  1. Harvesting inner root bark (traditionally done with ritual prayers)
+  2. Shaving and pounding the bark into a fibrous mass
+  3. Cold-water extraction, often with fermentation over 2–3 days
+  4. The resulting beverage is a reddish-brown, bitter, slightly effervescent liquid
+  5. The ceremony traditionally includes ritual chanting, dancing, and ingestion of the brew
+- **Cultural suppression**: Portuguese colonial authorities actively suppressed jurema ceremonies in the 17th–19th centuries; the practice went underground and was nearly lost
+- **Modern revival**: Since the 1990s, indigenous communities have been reviving jurema ceremonies as part of cultural reclamation; the "Jurema Sagrada" (Sacred Jurema) movement connects indigenous and neo-indigenous practices
 
-- **Wound healing:** Inner bark promotes cell proliferation and collagen synthesis
-- **Burn treatment:** Widely used in Mexican folk medicine and commercial products
-- **Anti-inflammatory:** Bark extracts show significant activity in vitro
-- **Antimicrobial:** Active against Gram-positive bacteria and some fungi
+### Tepezcohuite (Mexico)
 
-## Cultivation Notes
+In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological and wound-healing use:
 
-Mimosa tenuiflora is easily cultivated from seed. Seeds require
-scarification (mechanical nicking or brief acid treatment) for
-germination, then sprout in 1-3 weeks at 25-30°C. Prefers full
-sun and well-drained soil; highly drought-tolerant once
-established. Growth is moderate, reaching 1-2 meters in the first
-year. Frost-sensitive.
+- **Aztec use**: Documented in the Florentine Codex ( Bernardino de Sahagún, 16th century) as "tepezcohuite" — a bark preparation used for skin wounds and burns
+- **Modern dermatology**: Following the 1984 San Juan Ixhuatepec gas explosion in Mexico City, where hundreds of burn victims were treated with tepezcohuite bark preparations with reportedly remarkable healing results, the species gained international attention as a wound-healing agent
+- **Commercial products**: Tepezcohuite-based soaps, creams, shampoos, and supplements are widely available in Mexican pharmacies and international markets
 
-## Legal Status
+### Indigenous Maya Use
 
-- **Brazil:** Culturally protected; jurema ceremonies recognized as intangible heritage in some states
-- **United States:** DMT is Schedule I; the plant is not specifically scheduled but extraction constitutes a controlled substance offense
-- **International:** DMT listed under UN Convention on Psychotropic Substances (Schedule I); plant material legal in most countries
+- Evidence of *M. tenuiflora* use in Maya ceremonial contexts in southern Mexico and Guatemala
+- Archaeological findings of DMT-containing residue in Maya ritual vessels
 
-## Similar Species
+## Ecological Role and Permaculture Applications
 
-| Species | DMT Content | Distribution | Key Differences |
-|---------|-------------|--------------|-----------------|
-| Mimosa verrucosa | Low/trace | NE Brazil | Smaller leaves, verrucose pods |
-| Anadenanthera peregrina | 0.04-0.16% | N. South America | Tree to 20 m, different bark |
-| Acacia confusa | 1.0-1.5% bark | SE Asia | Asian native, phyllodes not pinnae |
-| Diplopterys cabrerana | 0.1-0.6% leaves | Amazon | Vine, ayahuasca admixture |
+### Nitrogen Fixation
 
-## See Also
+- **Rhizobial symbiosis**: *M. tenuiflora* forms nitrogen-fixing nodules with Bradyrhizobium and Rhizobium species, contributing 20–60 kg N/ha/year to the soil
+- **Pioneer species**: One of the first woody species to colonize degraded land in the Caatinga; creates favorable conditions for succession by improving soil fertility
+- **Leaf litter**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant organic matter and nutrients to soil
 
-- [[anadenanthera-colubrina]]
-- [[psychotria-viridis]]
-- [[banisteriopsis-caapi]]
-- [[peganum-harmala]]
-- [[salvia-divinorum]]
-- [[virola-theiodora]]
+### Ecological Restoration
+
+- **Erosion control**: Deep root system stabilizes soils on slopes and degraded land
+- **Soil rehabilitation**: Improves soil structure, water retention, and microbial activity
+- **Reforestation**: Used as a nurse tree in tropical dry forest restoration; provides shade and wind protection for later-succession species
+- **Degraded pasture recovery**: Intercropping with *M. tenuiflora* in degraded pastures accelerates soil recovery and biomass accumulation
+- **Mine reclamation**: Successfully used in rehabilitation of bauxite-mined areas in Brazil
+
+### Agroforestry and Permaculture
+
+| System | Role | Benefits |
+|--------|------|----------|
+| Food forest canopy | Sub-canopy tree | Shade regulation, N fixation, mulch production |
+| Alley cropping | Hedgerow tree | Nitrogen contribution, windbreak, fodder |
+| Silvopasture | Shade tree | Animal shade, browse fodder, soil improvement |
+| Riparian buffer | Stabilizer | Bank stabilization, water filtration, shade |
+| Windbreak | Component | Dense branching provides effective wind protection |
+
+### Companion Planting Benefits
+
+- **Pest deterrence**: Tannins and saponins in leaf litter create unfavorable conditions for soil-dwelling pests
+- **Soil improvement**: Organic matter input and nitrogen fixation benefit neighboring plants
+- **Biodiversity support**: Flowers provide nectar for bees and butterflies; branches provide bird habitat
+- **Living fence**: Spiny branches make it an effective barrier when planted as a hedge
+
+### Fire Resilience
+
+- **Bark protection**: Thick, corky outer bark provides some fire resistance
+- **Coppicing**: Regrows rapidly from the base after fire or cutting
+- **Post-fire pioneer**: Often among the first species to recolonize after fire in the Caatinga
+
+## Medicinal Properties
+
+### Dermatological
+
+- **Wound healing**: Promotes fibroblast proliferation, collagen synthesis, and epithelialization; the combination of tannins (astringent), flavonoids (anti-inflammatory), and mucilages (moisture retention) provides a multi-mechanism approach
+- **Burns**: Topical bark preparations used for first and second-degree burns; reduces pain and accelerates healing
+- **Anti-aging**: Cosmetic applications for skin rejuvenation; antioxidant flavonoids reduce oxidative damage
+- **Anti-acne**: Antimicrobial tannins and saponins help control *Propionibacterium acnes*
+
+### Antimicrobial
+
+- **Bacterial inhibition**: Active against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *Bacillus subtilis*
+- **Fungal activity**: Inhibits *Candida albicans* and dermatophyte species
+- **Mechanisms**: Tannins disrupt microbial cell membranes; flavonoids inhibit bacterial enzymes
+
+### Anti-Inflammatory
+
+- Reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in vitro
+- Tannins inhibit cyclooxygenase (COX) and lipoxygenase (LOX) pathways
+- Traditional use for joint pain and inflammatory skin conditions
+
+## Cultivation
+
+### Propagation
+
+- **Seed propagation**: Seeds require scarification (hot water treatment: 80°C water, soak 24 hours, or mechanical nicking) to break physical dormancy; germination in 7–21 days at 25–30°C; seed viability maintained for 3–5 years in dry, cool storage
+- **Cuttings**: Semi-hardwood cuttings root readily with rooting hormone; 60–80% success rate
+- **Direct seeding**: Successful in tropical conditions during rainy season; pre-soaked seeds planted 1–2 cm deep
+
+### Growing Conditions
+
+| Parameter | Optimal Range |
+|-----------|--------------|
+| Climate | Tropical and subtropical; tolerates 5–45°C |
+| Rainfall | 250–1500 mm annually; drought-deciduous in dry conditions |
+| Soil | Well-drained sandy to loamy; tolerates poor, rocky soils |
+| Soil pH | 5.5–7.5; tolerates mildly acidic conditions |
+| Sun exposure | Full sun |
+| Altitude | 0–1000 m |
+| Growth rate | Very fast; 1–3 m/year in favorable conditions |
+| Lifespan | 20–40 years |
+| coppicing | Regrows vigorously; can be cut to ground level |
+
+### Harvesting
+
+- **Root bark**: Harvest from mature plants (> 2 years); the inner bark is carefully separated from the outer bark and woody core; sustainable practices involve harvesting lateral roots rather than killing the main tree
+- **Sustainability concerns**: Increasing commercial demand for DMT-containing root bark has led to overharvesting in some regions; cultivated sources are strongly preferred over wild harvest
+- **Leaf harvest**: Can be harvested year-round for mulch and fodder without harming the plant
+
+## Conservation Status
+
+- **IUCN status**: Not formally assessed globally; locally common in native range
+- **Threats**: Overharvesting for root bark (entheogenic market); habitat destruction from agricultural expansion and urbanization; climate change increasing drought frequency in the Caatinga
+- **Conservation**: Protected in some Brazilian states; cultivation programs encouraged to reduce wild harvest pressure
+- **Sustainable sourcing**: Ethical suppliers cultivate *M. tenuiflora* specifically for bark harvest, using coppicing methods that allow plant regeneration
