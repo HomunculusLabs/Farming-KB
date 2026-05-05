@@ -148,3 +148,11 @@ Fungal auxin production creates a hormonal dimension to plant-fungal symbioses t
 - Enhance the plant's capacity for soil exploration and resource acquisition
 - Alter competitive interactions between plant species
 - Influence belowground carbon allocation patterns
+
+## See Also
+
+- [[mycorrhizal-fungi]] — overview of mycorrhizal types and ecology
+- [[mycorrhizal-symbiosis]] — mycorrhizal symbiosis mechanisms
+- [[mycorrhizal-nutrient-uptake]] — nutrient exchange in mycorrhizae
+- [[truffle-auxin-root-morphogenesis]] — truffle-specific auxin effects
+- [[symbiotic-fungi-mycorrhizal-bioassays-agriculture]] — bioassay methods for mycorrhizal fungi

@@ -150,3 +150,12 @@ For a deeper look at disease and insect resistance in vegetables, see [[fukuoka-
 
 Letting native fowl loose in a vegetable patch can be one very effective way
 of keeping insect pests in check. The birds will feed on the insects and their
+eggs, providing natural pest regulation.
+
+## See Also
+
+- [[fukuoka-natural-farming]] — core philosophy and method overview
+- [[masanobu-fukuoka]] — biography and broader influence
+- [[fukuoka-semi-wild-vegetable-growing-techniques]] — detailed semi-wild methods
+- [[fukuoka-vegetable-growing-natural-method]] — additional natural vegetable approaches
+- [[fukuoka-clover-and-green-manure-cropping]] — clover and green manure systems

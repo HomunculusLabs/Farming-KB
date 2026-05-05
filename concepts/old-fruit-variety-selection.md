@@ -91,3 +91,8 @@ These can be grown at altitude if sheltered from wind and grown in climatically 
 - [[sepp-holzer-method]]
 - [[apple-tree-care]]
 - [[climate-and-microclimate-management]]
+- [[holzer-old-varieties-and-seed-saving]] — Holzer's approach to preserving old varieties
+- [[stone-fruit-tree-care]] — care guide for stone fruits (plums, cherries, peaches)
+- [[windbreak-shelterbelt-species-selection]] — shelterbelt species for orchard protection
+- [[fruit-tree-pruning]] — pruning techniques for fruit trees
+- [[grafting-fruit-trees]] — grafting methods for propagation

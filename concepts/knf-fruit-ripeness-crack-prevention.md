@@ -143,3 +143,12 @@ The source emphasizes precise timing for fruit treatments:
 - BRV plays a key role in forming protective wax layers on fruit
   skins.
 - Seawater at 30 ml per liter provides essential trace minerals for
+  fruit development and stress resistance.
+
+## See Also
+
+- [[knf-plant-stage-treatments]] — broader growth stage input schedules
+- [[knf-input-application-timing]] — detailed timing guidance for all NF inputs
+- [[knf-seawater-fermented-seawater-guide]] — seawater preparation and use
+- [[knf-water-soluble-calcium]] — WCA preparation for fruit firmness
+- [[knf-ohn-oriental-herbal-nutrient-recipe]] — OHN recipe details

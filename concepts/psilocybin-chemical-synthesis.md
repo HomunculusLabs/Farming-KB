@@ -1,149 +1,149 @@
 ---
 title: Psilocybin Chemical Synthesis
 tags:
+  - chemistry
+  - synthesis
   - psilocybin
   - psilocin
-  - organic-chemistry
-  - synthesis
   - tryptamines
-  - pharmaceutical-chemistry
+  - pharmacognosy
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
+  - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 ---
 
 # Psilocybin Chemical Synthesis
 
-The total synthesis of [[psilocybin]] and its dephosphorylated active
-metabolite [[psilocin]] has been achieved by several research groups since the
-compounds were first isolated from [[Psilocybe]] mushrooms by Hofmann et al.
-(1958-1959). Shirota, Hakamata, and Goda (2003) developed a concise,
-large-scale route that requires no chromatographic purification at any step,
-making it practical for producing gram-scale quantities of analytical
-standards.
+The chemical synthesis of psilocybin and its dephosphorylated active
+metabolite psilocin has been pursued since the compounds were first
+isolated by Albert Hofmann and colleagues at Sandoz in the late
+1950s. The most efficient large-scale route was reported by Shirota,
+Hakamata, and Goda in 2003 at Japan's National Institute of Health
+Sciences, achieving gram-scale production without chromatographic
+purification and with significantly improved yields over prior
+methods.
 
-## Historical Context
+## Historical Background
 
-Several factors motivated the development of efficient synthetic routes:
+Psilocin (4-hydroxy-N,N-dimethyltryptamine) and psilocybin
+(4-phosphoryloxy-N,N-dimethyltryptamine) are the principal
+hallucinogenic constituents of "magic mushrooms" in the genus
+*Psilocybe*. Hofmann, Heim, and colleagues first isolated these
+compounds from *Psilocybe mexicana* in 1958-1959. Both closely
+resemble serotonin (5-hydroxytryptamine), and their hallucinogenic
+effects result from interference with normal brain serotonin
+actions, particularly at 5-HT2A receptors.
 
-- [[Psilocybin]] and [[psilocin]] are difficult to isolate from mushroom
-  material on a gram scale because psilocin decomposes readily and psilocybin
-  has high polarity
-- Standard compounds are needed for chromatographic identification methods
-  including TLC, GC, and HPLC used in forensic and regulatory analysis
-- "Magic mushrooms" containing these compounds were regulated under the
-  Narcotics and Psychotropic Control Law in Japan beginning June 6, 2002
-- Morphological and microscopic identification of psilocybin-containing fungi
-  is difficult without expert mycologists
+Minor constituents include baeocystin and norbaeocystin, also
+tryptamine derivatives. Isolation from fungal material is difficult
+on a gram scale because psilocin readily decomposes and psilocybin
+has high polarity. This motivated the development of synthetic
+routes for producing analytical standards. Several approaches to
+psilocin were published between 1959 and 1999, but reports on
+psilocybin synthesis remained scarce due to the phosphorylation
+challenge.
 
-## Psilocin Synthesis Route
+## The Shirota-Hakamata-Goda Route
 
-The Shirota et al. synthesis starts from commercially available
-4-hydroxyindole and proceeds through four steps to [[psilocin]]:
+The 2003 synthesis proceeds in four steps from commercially
+available 4-hydroxyindole:
 
-### Step 1: Acetylation
-4-hydroxyindole is protected by acetylation using acetic anhydride and
-pyridine in dichloromethane at 0 degrees C to room temperature, yielding
-4-acetylindole as ivory white crystals in quantitative yield.
+### Step 1: Hydroxyl Protection
 
-### Step 2: Glyoxylation
-The acetyl-protected indole is treated with oxalyl chloride in diethyl ether
-at 0 degrees C, followed by precipitation in n-hexane at -20 degrees C to
-isolate the glyoxalyl chloride intermediate as yellow crystals.
+4-Hydroxyindole is acetylated using acetic anhydride in pyridine
+with dichloromethane solvent at 0 degrees Celsius to room
+temperature, yielding 4-acetylindole in quantitative yield. The
+acetyl group serves as a readily removable protecting group for
+the phenolic hydroxyl. The product is obtained as ivory white
+crystals after filtration and washing with ethyl acetate.
 
-### Step 3: Dimethylamidation
-The glyoxalyl chloride is reacted with dimethylamine in tetrahydrofuran with
-pyridine to yield 3-dimethylaminooxalyl-4-acetylindole as an ivory white
-crystalline powder in over 80% yield.
+### Step 2: Glyoxalylamide Formation
 
-### Step 4: Reduction
-[[Lithium aluminum hydride]] reduction in tetrahydrofuran under argon at
-reflux for 2 hours reduces the amide and removes the acetyl protecting group
-simultaneously, yielding psilocin as white crystals in over 85% yield. The
-product has a melting point of 169-174 degrees C (decomposing), consistent
-with the literature value of 173-176 degrees C.
+4-Acetylindole is treated with oxalyl chloride in diethyl ether
+at 0 degrees Celsius, followed by n-hexane addition and sub-zero
+storage, producing yellow crystals of the glyoxalyl chloride
+intermediate. This intermediate is dissolved in tetrahydrofuran
+and reacted with dimethylamine and pyridine to yield
+3-dimethylaminooxalyl-4-acetylindole in greater than 80% yield
+as an ivory white crystalline powder.
 
-## Psilocybin Synthesis via Phosphorylation
+### Step 3: Reduction to Psilocin
 
-Converting [[psilocin]] to [[psilocybin]] requires phosphorylation of the
-4-hydroxy group. Several methods were evaluated:
+The glyoxalylamide is reduced using lithium aluminum hydride
+(LiAlH4) in anhydrous tetrahydrofuran under argon. After
+dropwise addition over 2 hours and reflux for 2 hours, psilocin
+is obtained in greater than 85% yield as white crystals (mp
+169-174 degrees C, decomposing). No chromatographic purification
+is required — crystallization and ethanol washing suffice.
 
-- Most phosphorylation methods failed to consume the starting psilocin
-- The phosphoryl iodide method using tribenzyl phosphite, I2, and DMAP showed
-  promise
-- The pyrophosphate method using tetrabenzylpyrophosphate and n-butyllithium
-  was ultimately selected for scalability and reagent stability
+### Step 4: Phosphorylation to Psilocybin
 
-### The Zwitterionic Intermediate Discovery
+The phosphorylation of psilocin represents the key challenge.
+Several methods were evaluated: the phosphite-iodine method and
+the pyrophosphate method using tetrabenzylpyrophosphate and
+n-butyllithium. The pyrophosphate method was selected for easy
+handling and reagent stability. The reaction proceeds at
+-78 degrees C to 0 degrees C in THF.
 
-The key innovation was the discovery that the O,O-dibenzyl phosphate
-derivative of psilocin undergoes an intramolecular rearrangement. One benzyl
-group migrates from oxygen to the nitrogen of the N,N-dimethylamino group,
-forming a zwitterionic N,O-dibenzyl phosphate derivative.
+**Discovery of the Zwitterionic Intermediate**: Instead of the
+expected O,O-dibenzyl phosphate, an intramolecular rearrangement
+occurred where one benzyl group migrated from phosphate oxygen
+to the nitrogen of the N,N-dimethylamino group, forming a
+quaternary ammonium ion. This zwitterionic compound was fully
+characterized by 2D NMR (HMBC and NOESY) and 31P NMR.
 
-This rearrangement was confirmed through:
+**Practical Significance**: The zwitterionic intermediate is
+insoluble in dichloromethane, enabling isolation by simple
+filtration in greater than 85% yield. Excess dibenzyl phosphate
+is removed by dichloromethane washing. This eliminates
+chromatographic purification — the key innovation of the route.
 
-- **HMBC** (Heteronuclear Multiple Bond Correlation) NMR showing one benzyl
-  group linked at the nitrogen (quaternary ammonium ion)
-- **NOESY** (Nuclear Overhauser Effect Spectroscopy) supporting the
-  N-benzyl linkage
-- **31P NMR** confirming the phosphate moiety
+### Step 5: Catalytic Hydrogenolysis
 
-### Practical Advantage of the Zwitterion
+The zwitterionic intermediate undergoes catalytic hydrogenolysis
+using 10% palladium-activated carbon in methanol under hydrogen
+atmosphere. After two hours, water is added and stirring continues
+one more hour. The mixture is filtered through Celite,
+concentrated, and crystallized to afford psilocybin in greater
+than 72% yield as white needle crystals (mp 190-198 degrees C).
 
-The zwitterionic nature of the intermediate makes it insoluble in
-dichloromethane, allowing isolation by simple filtration in over 85% yield.
-Excess dibenzyl phosphate reagent is removed by washing with dichloromethane,
-eliminating the need for column chromatography.
+## Spectroscopic Characterization
 
-### Final Deprotection
+**Psilocin**: UV (MeOH) lambda-max at 222.5, 268.0, 284.5, and
+294.0 nm. IR: N-H stretch at 3285 cm-1, aromatic C=C at 1620
+cm-1. 1H NMR (CDCl3, 400 MHz): H-1 at 7.90 ppm (br s), aromatics
+6.84-7.05 ppm, NMe2 at 2.38 ppm. HR-ESI-MS: C12H17N2O
+([M+H]+ m/z 205.1303).
 
-Catalytic hydrogenolysis using 10% palladium on activated carbon in methanol
-under a hydrogen atmosphere at room temperature removes both benzyl groups,
-yielding psilocybin as white needle crystals in over 72% yield from psilocin.
-The product melts at 190-198 degrees C (literature: 185-212 degrees C).
+**Psilocybin**: UV (MeOH) lambda-max at 221.0, 267.5, 278.5, and
+290.0 nm. 31P NMR: phosphate at -4.48 ppm. 1H NMR (D2O, 400 MHz):
+aromatics 6.98-7.22 ppm, NMe2 at 2.86 ppm. HR-ESI-MS:
+C12H18N2O4P ([M+H]+ m/z 285.0991).
 
-## Comparison with Previous Syntheses
+## Comparison with Prior Methods
 
-The Shirota et al. route represents a significant improvement over earlier
-methods:
+The Troxler et al. (1959) Sandoz synthesis achieved ~20% yield for
+phosphorylation. Nichols and Frescas (1999) improved to ~47% but
+required anion-exchange chromatography. The Shirota route achieved
+greater than 85% psilocin yield, greater than 72% psilocybin yield,
+no chromatographic purification, and successful gram-scale production.
 
-- **Troxler et al. (1959)**: Approximately 20% yield for psilocybin
-- **Hofmann et al. (1958)**: Approximately 20% yield for psilocybin
-- **Nichols and Frescas (1999)**: 47% yield, requiring anion-exchange
-  resin purification
-- **Shirota et al. (2003)**: Greater than 72% yield with no chromatographic
-  purification needed at any step
+## Regulatory and Analytical Context
 
-## Spectroscopic Data
+In Japan, fungi containing psilocin and psilocybin were regulated
+under the Narcotics and Psychotropic Control Law beginning June 6,
+2002. The synthesis was developed because morphologic and
+microscopic mushroom identification is difficult without experts.
+Chromatographic methods (TLC, GC, HPLC) with pure standards are
+essential for forensic identification and regulatory enforcement.
+Ehrlich's reagent produces characteristic color reactions with
+indole derivatives on TLC plates.
 
-### Psilocin Key Data
-- UV (MeOH): lambda_max at 222.5, 268.0, 284.5, 294.0 nm
-- 1H NMR (CDCl3): Characteristic indole protons, N(CH3)2 at delta 2.38 ppm,
-  ethylamine chain at delta 2.70-2.94 ppm
-- HRMS: [M+H]+ calcd for C12H17N2O: 205.1341; found: 205.1303
+## Related Concepts
 
-### Psilocybin Key Data
-- UV (MeOH): lambda_max at 221.0, 267.5, 278.5, 290.0 nm
-- 1H NMR (D2O): Phosphorylated compound shows characteristic shifts with
-  OPO3H2 group
-- 31P NMR: delta -4.48 ppm (OPO3H2)
-- HRMS: [M+H]+ calcd for C12H18N2O4P: 285.1004; found: 285.0991
-
-## Related Compounds
-
-Other constituents of "magic mushrooms" include [[baeocystin]] and
-[[norbaeocystin]], which are typically minor constituents. All of these
-compounds closely resemble the neurotransmitter [[serotonin]] in structure,
-and their hallucinogenic effects are probably caused by interference with
-normal brain serotonin actions, similar to the proposed mechanism of [[LSD]].
-
-## See Also
-
-- [[psilocybin]]
-- [[psilocin]]
-- [[baeocystin]]
-- [[tryptamine-receptor-pharmacology]]
-- [[serotonin]]
-- [[Psilocybe]]
+- [[Psilocybin]] for pharmacology and natural occurrence
+- [[Psilocin]] for the active dephosphorylated metabolite
+- [[Magic Mushrooms]] for fungal species producing these compounds
+- [[Serotonin Receptor Agonism]] for the hallucinogenic mechanism
+- [[Tryptamine Chemistry]] for broader indole alkaloid synthesis

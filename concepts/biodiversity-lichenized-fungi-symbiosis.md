@@ -150,3 +150,8 @@ is expected to total about 18,000 species.
 - [[biodiversity-fungi-endophytes-tropical-plants]]
 - [[mycorrhizal-fungi]]
 - [[symbiosis-in-fungi]]
+- [[lichen-biology-guide]] — comprehensive lichen biology reference
+- [[lichenized-fungi-bioindicators]] — lichens as environmental quality indicators
+- [[lichen-ecology-environmental-sensitivity]] — ecological roles and habitat requirements
+- [[biodiversity-fungi-conservation]] — fungal conservation strategies
+- [[lichen-symbiosis-mechanisms-photobiont-selection]] — photobiont partner selection
