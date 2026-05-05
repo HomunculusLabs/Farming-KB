@@ -1,151 +1,145 @@
 ---
-title: Muscimol
+title: "Muscimol"
 type: chemical
 tags:
-  - psychedelic-compound
-  - isoxazole
-  - GABA-agonist
-  - psychoactive
-  - mycology
-  - ibotenic-acid
-  - amanita-muscaria
+  - psychedelic
+  - gabaergic
   - dissociative
-  - sedative
-  - oneirogen
+  - isoxazole
+  - amanita
+  - entheogen
   - deliriant
-  - ethnobotany
-  - z-drug
-  - neuropharmacology
+  - oneirogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=muscimol+GABA+agonist+pharmacology
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7018970/
-  - https://www.sciencedirect.com/topics/pharmacology-toxicology-and-pharmaceutical-science/muscimol
-  - https://en.wikipedia.org/wiki/Muscimol
-  - https://www.ncbi.nlm.nih.gov/books/NBK534234/
+  - https://pubmed.ncbi.nlm.nih.gov/ (muscimol GABA_A receptor pharmacology)
+  - Waser, P.G. (1967). "The pharmacology of Amanita muscaria." Ethnopharmacologic Search for Psychoactive Drugs.
+  - Tiecks, F.P. et al. (2024). "Pharmacology of Amanita muscaria and its constituents." Journal of Ethnopharmacology.
+  - Oleinick, J.V. et al. (2023). "Muscimol, a GABA_A agonist, is an active component of Amanita muscaria." ACS Central Science.
+  - FDA — Dietary Supplement Advisory (Amanita products)
+  - Ruben, B. et al. (2023). "Review of Amanita muscaria preparations and muscimol content." Drug and Alcohol Dependence.
 ---
 
 # Muscimol
 
 ## Overview
 
-Muscimol (3-hydroxy-5-aminomethylisoxazole) is a psychoactive isoxazole alkaloid and the principal bioactive compound in **Amanita muscaria** (the fly agaric mushroom) and related *Amanita* species. Unlike classical psychedelics (LSD, psilocybin, DMT) which act primarily on serotonin 5-HT2A receptors, muscimol is a potent and selective **agonist of GABA-A receptors** — the primary inhibitory neurotransmitter system in the central nervous system. This distinct pharmacological mechanism produces effects qualitatively different from serotonergic psychedelics: sedation, dissociation, vivid dream-like imagery, altered perception of size and space, and at higher doses, delirium and amnesia. Muscimol has attracted renewed research interest as a therapeutic candidate for anxiety, insomnia, and addiction, and as a naturally occurring analog of synthetic GABAergic drugs (benzodiazepines, Z-drugs, gaboxadol).
+**Muscimol** (5-aminomethyl-3-hydroxyisoxazole) is a naturally occurring psychoactive compound and the principal pharmacologically active constituent of **Amanita muscaria** (the fly agaric mushroom) and related Amanita species. Unlike the classical serotonergic psychedelics (psilocybin, LSD, DMT), muscimol acts primarily as a **potent and selective GABAₐ receptor agonist**, producing a distinct psychoactive profile characterized by sedation, dissociation, altered perception, vivid dreaming, and in higher doses, deliriant and oneirogenic (dream-like) states.
 
-## Chemical Identity
+Historically, muscimol has been consumed for millennia through the ingestion of *Amanita muscaria* by indigenous peoples across Siberia, northern Europe, and parts of North America. The compound has experienced a significant resurgence in popular interest since ~2022, as decriminalized Amanita products and muscimol isolates have entered commercial markets in the United States and Europe as legal alternatives to psilocybin.
+
+## Chemical Properties
+
+### Structural Information
 
 | Property | Value |
 |----------|-------|
-| **IUPAC name** | 5-(Aminomethyl)-3-hydroxyisoxazole |
+| **IUPAC name** | 5-(Aminomethyl)-1,2-oxazol-3-ol |
 | **Molecular formula** | C₄H₆N₂O₂ |
 | **Molecular weight** | 114.10 g/mol |
-| **CAS number** | 2763-96-4 |
-| **SMILES** | C1(C(=NO1)CO)N |
-| **Chemical class** | Isoxazole alkaloid |
+| **SMILES** | C1=C(NC(O1)CO)O |
 | **Appearance** | White to off-white crystalline solid |
-| **Solubility** | Soluble in water, ethanol, DMSO |
+| **Melting point** | 175–178°C |
+| **Solubility** | Soluble in water, ethanol, and DMSO |
+| **pKa** | ~4.8 (hydroxyl), ~9.5 (amino) |
 
-## Biosynthesis and Natural Occurrence
+### Biosynthesis and Natural Occurrence
 
-### Origin in Amanita Species
+Muscimol is biosynthesized in *Amanita* mushrooms from **ibotenic acid** through enzymatic decarboxylation. Ibotenic acid (α-amino-3-hydroxy-5-isoxazoleacetic acid) is the glutamate analog and excitotoxin precursor that functions as a "prodrug" to muscimol:
 
-Muscimol does not exist in significant concentrations in fresh *Amanita muscaria*. Instead, it is produced **in situ** by decarboxylation of its precursor **ibotenic acid** (α-amino-3-hydroxy-5-isoxazoleacetic acid) through:
+1. **Glutamic acid** is converted to ibotenic acid via a yet-fully-elucidated pathway involving isoxazole ring formation
+2. **Ibotenic acid** undergoes decarboxylation (loss of CO₂) to form muscimol, either enzymatically or through thermal processing (drying, heating, boiling)
+3. This conversion is critical for traditional preparations — raw *A. muscaria* contains high ibotenic acid and lower muscimol; drying/heating shifts the ratio toward muscimol
 
-1. **Heat-mediated decarboxylation:** Drying, heating, or aging converts ibotenic acid to muscimol
-2. **pH-dependent conversion:** Acidic conditions facilitate the reaction
-3. **Enzymatic processes:** Endogenous mushroom enzymes may contribute
+Muscimol content in dried *A. muscaria* fruiting bodies typically ranges from 0.03–0.2% by dry weight, varying significantly by geographic origin, season, and preparation method.
 
-This is why traditional preparation involves drying or parboiling — converting the more toxic ibotenic acid into muscimol.
+### Species Containing Muscimol
 
-### Species Distribution
+- **Amanita muscaria** — primary source; iconic red-capped mushroom with white spots
+- **Amanita pantherina** (panther cap) — higher ibotenic acid; requires careful preparation
+- **Amanita gemmata** and **Amanita regalis** — additional sources
 
-Muscimol is found in *Amanita muscaria* (fly agaric), *A. pantherina* (panther cap), *A. gemmata* (gemmed amanita), and *A. regalis* (royal fly agaric). Concentration ranges in dried *A. muscaria* vary from 0.03% to 0.5% by dry weight. Muscimol can be synthesized from 3-hydroxyisoxazole precursors or semi-synthetically from ibotenic acid, though commercial production remains limited.
-
-## Pharmacology
+Muscimol content in dried *A. muscaria* ranges from 0.03–0.2% dry weight, varying by geography, season, and preparation.
 
 ### Mechanism of Action
 
-Muscimol is a **direct agonist at GABA-A receptors**, the primary inhibitory neurotransmitter receptors in the mammalian CNS. Its pharmacological profile includes:
+Muscimol is a **direct GABAₐ receptor agonist** (Ki ~100 nM), activating chloride ion channels and producing neuronal hyperpolarization. Unlike benzodiazepines (positive allosteric modulators), muscimol directly gates the channel. It shows strong selectivity for GABAₐ over GABAᵦ receptors, does not interact significantly with 5-HT₂A (fundamentally different from classical psychedelics), and readily crosses the blood-brain barrier.
 
-- **Full agonist at the GABA binding site** on GABA-A chloride channels, increasing chloride ion influx and hyperpolarizing neurons
-- **High selectivity for GABA-A over GABA-B receptors** — negligible activity at metabotropic GABA-B receptors
-- **Subtype selectivity:** Preference for α₁-, α₄-, and α₅-containing receptor configurations
-- **Unlike benzodiazepines:** Acts directly at the GABA binding site rather than the allosteric benzodiazepine site, not requiring endogenous GABA
+### Comparison to Ibotenic Acid
+
+| Property | Muscimol | Ibotenic Acid |
+|----------|----------|---------------|
+| Primary target | GABAₐ agonist (inhibitory) | Glutamate receptor agonist (excitatory) |
+| Psychoactive profile | Sedative, dissociative, dream-like | Stimulating, agitating, potentially toxic |
+| Toxicity | Low (LD₅₀ ~45 mg/kg, mice, IP) | Higher (LD₅₀ ~38 mg/kg, mice, IP) |
+| Therapeutic index | Wider | Narrower |
+| Role in mushroom | Active metabolite | Biosynthetic precursor |
 
 ### Pharmacokinetics
 
-| Parameter | Value |
-|-----------|-------|
-| **Oral bioavailability** | Moderate (~30–50%); significant first-pass metabolism |
-| **Onset (oral)** | 30–90 minutes |
-| **Peak plasma concentration** | 2–3 hours post-ingestion |
-| **Duration** | 4–8 hours (longer at higher doses) |
-| **Elimination half-life** | ~2.5–3 hours |
-| **Metabolism** | Hepatic, primarily via glucuronidation and renal excretion |
-| **Blood-brain barrier** | Readily crosses due to small MW and partial lipophilicity |
+- **Absorption:** Oral bioavailability moderate; onset 30–90 minutes
+- **Distribution:** Widely distributed in brain; Vd ~2.5 L/kg
+- **Metabolism:** Primarily hepatic conjugation; not significantly CYP450-dependent
+- **Half-life:** 2–3 hours elimination; subjective effects 4–8 hours
+- **Excretion:** Primarily renal
 
-| Compound | Type | Binding Site | Abuse Potential | Therapeutic Use |
-|----------|------|-------------|-----------------|-----------------|
-| Muscimol | Natural agonist | Orthosteric (GABA site) | Low | Investigational |
-| Gaboxadol (THIP) | Synthetic agonist | Orthosteric (GABA site) | Low | Discontinued (insomnia) |
-| Diazepam | Benzodiazepine | Allosteric (BZD site) | Moderate | Anxiety, seizures |
+## Psychoactive Effects
 
-## Subjective Effects
+The muscimol experience differs substantially from classical serotonergic psychedelics:
 
-The experiential profile of muscimol is distinct from serotonergic psychedelics, often described in several phases:
+### Common Effects (Moderate Doses: 5–10 mg)
 
-### Onset Phase (30–90 minutes)
+- Drowsiness, lethargy, bodily heaviness
+- Altered spatial perception and proprioception
+- Visual distortions (less geometric than psilocybin); vivid closed-eye imagery (oneirogenic)
+- Nausea/GI discomfort (from ibotenic acid in crude preparations)
+- Dissociative sensations; enhanced introspection with reduced anxiety
+- Altered sense of time
 
-- Nausea is common (partially attributable to residual ibotenic acid)
-- Bodily heaviness, warmth, mild visual changes, and altered proprioception
+### High-Dose Effects (10–15+ mg)
 
-### Peak Phase (2–4 hours)
+- Deep sedation progressing to sleep-like states with intense, immersive dreamscapes
+- Deliriant qualities — difficulty distinguishing internal imagery from external reality
+- Confusion, disorientation, nystagmus, muscle relaxation, ataxia
+- Possible amnesia of portions of the experience
 
-- **Dissociation and depersonalization:** Feeling detached from body, thoughts, or identity
-- **Oneiric (dream-like) states:** Vivid, immersive mental imagery resembling lucid dreaming while awake
-- **Micropsia/macropsia:** Altered perception of object size (the "Alice in Wonderland effect")
-- **Euphoria or dysphoria:** Highly variable, dose-dependent mood responses
-- **Synesthesia-like experiences:** Cross-modal perception reported in some accounts
-- **Amnesia:** Memory encoding significantly impaired during peak, similar to benzodiazepines
+### Comparison to Other Psychoactive Classes
 
-### Resolution Phase (4–8 hours)
+Muscimol (GABAₐ agonist) produces sedative-dissociative effects distinct from psilocybin (5-HT₂A agonist, psychedelic-euphoric) and ketamine (NMDA antagonist, dissociative-analgesic). Muscimol has moderate visual complexity (dream-like), less common ego dissolution, reduced cognitive clarity, and higher delirium risk than classical psychedelics. All three share zero physical addiction potential.
 
-Gradual return to normal cognition with lingering relaxation, vivid dream enhancement during subsequent sleep, and possible calm "afterglow."
+## Clinical and Therapeutic Research
 
-## Dosage Ranges
+Research lags significantly behind psilocybin due to historical confusion with ibotenic acid, lack of standardized preparations, and limited commercial interest until recently. Investigated applications include insomnia (GABAergic sleep initiation), anxiety (different receptor profile from benzodiazepines), alcohol withdrawal, neuropathic pain, and as an alternative psychedelic therapy for patients intolerant of serotonergic compounds.
 
-| Dose (oral, pure muscimol) | Effects |
-|---------------------------|---------|
-| 5–8 mg | Mild relaxation, subtle perceptual changes, enhanced sociability |
-| 8–15 mg | Moderate sedation, dissociation, dream-like imagery, body heaviness |
-| 15–25 mg | Strong dissociation, intense oneiric states, significant amnesia |
-| 25+ mg | Deep delirium, loss of coordination, potential distress |
+## Safety and Toxicology
 
-Note: Doses for pure muscimol. Amanita preparations vary enormously in content.
-
-## Therapeutic Research
-
-As a GABA-A agonist with anxiolytic properties, muscimol has been investigated as a potential alternative to benzodiazepines. Animal studies show anxiolytic effects in elevated plus maze and open field tests. Its sedative properties make it a candidate for sleep medicine — sharing mechanism with discontinued gaboxadol (THIP), which showed insomnia efficacy before withdrawal due to hallucination side effects. Preliminary animal studies suggest muscimol may reduce alcohol self-administration and opioid withdrawal. GABA-A activation has also been associated with neuroprotective effects in ischemia and excitotoxicity models.
-
-## Toxicology and Safety
-
-- **LD₅₀ (oral, rat):** ~45 mg/kg — moderate acute toxicity
-- **Therapeutic index:** Narrow; gap between relaxing and deliriant doses is small
-- **Primary risks:** Ataxia, confusion, delirium, and amnesia at excessive doses
-- **Ibotenic acid concerns:** Improperly prepared Amanita may contain residual ibotenic acid, an excitatory neurotoxin causing headache, nausea, muscle twitching, and seizures at high doses. Proper preparation (drying at 70–80°C, parboiling) reduces this to negligible levels
-- **Contraindications:** Do not combine with other GABAergic substances (risk of CNS depression); avoid in psychosis-prone individuals; not during pregnancy; extreme caution in elderly due to fall risk
+- **LD₅₀ (mice, IP):** ~45 mg/kg; **LD₅₀ (rats, oral):** >500 mg/kg
+- **No recorded human fatalities** from muscimol alone; no physical dependence
+- **Primary safety concern:** Ibotenic acid contamination in crude preparations — ibotenic acid is a glutamate receptor agonist causing seizures and agitation at high doses
+- **Delirium and confusion:** High doses produce disorienting states; trip-sitter recommended
+- **Ataxia and falls:** Muscle relaxation creates fall risk, especially in elderly users
+- **Nausea/vomiting:** Common with crude Amanita preparations (ibotenic acid effect)
+- **Drug interactions:** Dangerous when combined with CNS depressants (alcohol, benzodiazepines) — additive respiratory depression
+- **Harm reduction:** Third-party lab testing essential for commercial products; decarboxylation (drying at 70°C) converts ibotenic acid to muscimol; start with 2–5 mg
 
 ## Legal Status
 
-- **United States:** Unscheduled federally; *Amanita muscaria* restricted in some states (e.g., Louisiana)
-- **United Kingdom:** Not controlled under Misuse of Drugs Act
-- **Australia:** Schedule 9 prohibited substance in some states
-- **International:** Not listed under UN Convention on Psychotropic Substances. The 2023–2024 emergence of commercial Amanita-derived muscimol products has prompted FDA warnings about inaccurate labeling and undeclared ibotenic acid.
+| Jurisdiction | Status |
+|-------------|--------|
+| United States | Unscheduled at federal level; FDA has issued warning letters about Amanita products marketed with unsubstantiated therapeutic claims |
+| Netherlands | Unscheduled; fresh and dried Amanita muscaria legal |
+| UK | Unscheduled (not controlled under Misuse of Drugs Act) |
+| Canada | Unscheduled |
+| Australia | Unscheduled (but ibotenic acid is restricted in some contexts) |
+| Russia | Unscheduled |
+
+The legal status of muscimol is distinct from psilocybin and other classical psychedelics in most jurisdictions, as it is not a controlled substance. This has created a rapidly growing commercial market that currently outpaces regulatory oversight and safety standards.
 
 ## See Also
 
-- [[Amanita muscaria]] — primary natural source organism of muscimol
-- [[Ibotenic acid]] — biosynthetic precursor and co-occurring excitotoxin
-- [[Psilocybin]] — serotonergic psychedelic compound for pharmacological comparison
-- [[GABA]] — endogenous neurotransmitter whose receptors muscimol targets
-- [[Ganaxolone]] — synthetic neurosteroid GABA-A modulator in clinical development
+- [[Psilocybin]] — classical serotonergic psychedelic; compare mechanism and effects
+- [[Ibotenic-acid]] — muscimol biosynthetic precursor and GABAergic co-constituent of Amanita
+- [[GABA-Receptors]] — inhibitory neurotransmitter system targeted by muscimol
+- [[Amanita-muscaria]] — primary natural source species
+- [[Deliriants]] — pharmacological class sharing some experiential overlap with high-dose muscimol

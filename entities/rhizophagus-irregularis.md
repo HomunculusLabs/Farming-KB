@@ -1,0 +1,123 @@
+---
+title: "Rhizophagus irregularis"
+type: species
+tags:
+  - fungus
+  - glomeromycota
+  - arbuscular-mycorrhizal
+  - mycorrhiza
+  - soil-biology
+  - permaculture
+  - symbiosis
+  - agriculture
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Tisserant, E. et al. (2013). "Genome of an arbuscular mycorrhizal fungus provides
+    insight into the oldest plant symbiosis." PNAS, 110(50), 20117-20122.
+  - Schüßler, A. & Walker, C. (2010). "The Glomeromycota: A species list with new
+    families and new genera." Royal Botanic Garden Edinburgh.
+  - Smith, S.E. & Read, D.J. (2008). Mycorrhizal Symbiosis, 3rd Ed. Academic Press.
+  - Berruti, A. et al. (2016). "Mycorrhizal fungal inoculation functions as a
+    biostimulant in horticulture." Agronomy, 6(3), 39.
+  - Lekberg, Y. & Koide, R.T. (2014). "Arbuscular mycorrhizal fungi in temperate
+    agricultural soils." In Soil Microbiology, Ecology and Biochemistry, 4th Ed.
+  - Cakmak, I. et al. (2010). "Zinc fertilization strategy for wheat in Central
+    Anatolia." Plant and Soil, 337(1-2), 1-13.
+  - Helber, N. & Requena, N. (2008). "Expression of DsRED under the control of a
+    nitrate reductase promoter in Glomus intraradices." Mycorrhiza, 18(2), 69-75.
+---
+
+# Rhizophagus irregularis
+
+## Taxonomy
+
+- **Domain:** Eukaryota
+- **Kingdom:** Fungi
+- **Phylum:** Glomeromycota
+- **Class:** Glomeromycetes
+- **Order:** Glomerales
+- **Family:** Glomeraceae
+- **Genus:** Rhizophagus
+
+### Nomenclatural History
+
+Originally described as *Glomus intraradices* (Schenck & Smith, 1982). Transferred to *Rhizophagus intraradices* during the 2010 Glomeromycota circumscriptional revision (Schüßler & Walker). Current accepted name: *R. irregularis*. Epithet "irregularis" refers to the irregular shape of its spores.
+
+## Description
+
+Arbuscular mycorrhizal fungus (AMF); the most studied mycorrhizal species. Forms obligate symbiotic associations with ~80% of terrestrial plant species including most agricultural crops. Hyphae penetrate root cortical cells and form highly branched arbuscules — the primary site of bidirectional nutrient exchange. Produces intraradical and extraradical vesicles (lipid-rich storage organs). Coarse extraradical hyphae (5-20 μm diameter) extend from colonized roots into surrounding soil. Spores are glomerospores: hyaline to yellow-brown, 100-400 μm diameter, laminated wall (3-4 layers). No known sexual cycle; reproduces exclusively through asexual spore production.
+
+## Distribution
+
+Cosmopolitan — found from arctic tundra to tropical agroecosystems on all inhabited continents. Especially abundant in agricultural soils, temperate grasslands, and deciduous forests. Tolerates pH 4.0-8.5 and varying soil textures. Native populations show significant genetic diversity; strain-level functional variation is well documented.
+
+## Symbiosis Mechanics
+
+### Carbon Flow (Host → Fungus)
+Receives up to 20% of host plant's photosynthetically fixed carbon as hexoses across the arbuscular interface. Carbon is metabolized via glycolysis and stored as triacylglycerols in vesicles. Allocation increases under low soil phosphorus conditions.
+
+### Nutrient Flow (Fungus → Host)
+- **Phosphorus:** Primary benefit — absorbed by extraradical hyphae beyond the root depletion zone, transported as polyphosphate
+- **Nitrogen:** Assimilates NH₄⁺ and NO₃⁻; transported as arginine via hyphae
+- **Micronutrients:** Zinc, copper, and other trace metals
+- **Water:** Extraradical mycelium improves hydraulic conductivity and drought tolerance
+
+### Root Zone Expansion
+Extraradical mycelium extends effective root absorptive surface area by 100-1000×. Hyphal networks connect multiple plants simultaneously via common mycorrhizal networks (CMNs).
+
+## Agricultural & Permaculture Significance
+
+- Most widely used AMF species in commercial mycorrhizal inoculants
+- Documented crop yield improvements of 10-30% in phosphorus-deficient soils
+- Reduces phosphate fertilizer requirements by 25-50% in responsive systems
+- Enhances tolerance to drought, salinity, and heavy metal stress
+- Suppresses soilborne pathogens (Fusarium, Rhizoctonia, Pythium) through improved nutrition, root lignification, and microbial competition
+- Improves soil aggregation via glomalin-related soil protein (GRSP) production
+- Compatible with cover crop systems, no-till agriculture, food forests, agroforestry, and ecological restoration
+
+## Life Cycle
+
+- **Obligate biotroph:** cannot complete its life cycle without a living host
+- Spores persist in soil and germinate in response to root exudates (strigolactones, flavonoids, CO₂)
+- Germ tubes grow chemotropically toward roots; form appressoria on root surface
+- Hyphae penetrate between epidermal cells, spread intercellularly in root cortex
+- Arbuscules develop within cortical cells — transient structures (lifespan 4-15 days)
+- Vesicles form as long-term storage structures (persist months)
+- Asexual reproduction via chlamydospores and glomerospores on extraradical hyphae
+- Spore-to-spore cycle: ~4-8 weeks depending on host and conditions
+
+## Research Applications
+
+Primary model organism for AMF research. First AMF with a published genome (Tisserant et al., 2013):
+
+- **Genome:** ~150 Mb — smallest known among fungi; ~28,000 protein-coding genes
+- **Notable:** Loss of plant cell wall degradation genes; expansion of transporter families (MST, PT, ammonium transporters)
+
+Key research areas: plant-fungal signal transduction (strigolactone receptors, DMI pathway), nutrient transporter biology (mycorrhiza-specific phosphate and monosaccharide transporters), carbon metabolism and lipid biosynthesis, common mycorrhizal network function and interplant resource sharing, soil microbial community interactions.
+
+## Cultivation
+
+### Laboratory Culture
+Maintained in dual in vitro culture using Ri T-DNA-transformed carrot (*Daucus carota*) roots or *Medicago truncatula* hairy root organ cultures. Grown on Minimal Medium (M) or Modified Strullu-Romand (MSR) medium. Produces clean, contaminant-free inoculum for research.
+
+### Commercial Production
+On-farm inoculum via trap crop methods (*Paspalum notatum*, *Sorghum bicolor* in inoculated soil/compost). Pot culture with sterilized substrate and host plants. Major commercial strain: DAOM 197198 (type strain).
+
+## Related Species
+
+- **Rhizophagus clarus** — close relative; common in tropical soils
+- **Funneliformis mosseae** — formerly *Glomus mosseae*; widely distributed, used in inoculants
+- **Claroideoglomus claroideum** — formerly *Glomus claroideum*; common in European agricultural soils
+- **Gigaspora margarita** — large-spored AMF (Gigasporaceae); no vesicles, only auxiliary cells
+
+## Key Identification Features
+
+| Feature | Description |
+|---------|-------------|
+| Spore color | Hyaline to yellow-brown, darkening with age |
+| Spore size | 100-400 μm diameter |
+| Spore wall | Laminated, 3-4 layers |
+| Arbuscule type | Arum-type (highly branched) |
+| Hyphal attachment | Direct from subtending hypha, no bulbous base |
+| Soil niche | Generalist; prefers disturbed/agricultural soils |

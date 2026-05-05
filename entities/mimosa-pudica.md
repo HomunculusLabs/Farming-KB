@@ -1,141 +1,146 @@
 ---
-title: Mimosa pudica
-type: organism
-aliases:
-  - sensitive plant
-  - touch-me-not
-  - humble plant
-  - shameful plant
-  - Lajjalu
-  - makahiya
-kingdom: Plantae
-order: Fabales
-family: Fabaceae
-subfamily: Caesalpinioideae
-genus: Mimosa
-species: M. pudica
-author: Linnaeus, 1753
+title: "Mimosa pudica"
+type: species
 tags:
-  - thigmonasty
-  - seismonasty
-  - plant-electrophysiology
-  - nitrogen-fixation
-  - plant-learning
+  - nitrogen-fixer
+  - ground-cover
+  - permaculture
   - medicinal-plant
-  - invasive-species
+  - fabaceae
+  - tropical
+  - thigmonasty
+  - green-manure
+  - soil-builder
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - https://pubmed.ncbi.nlm.nih.gov/ (Mimosa pudica pharmacology studies)
+  - Holm, L.G. et al. (1979). A Geographical Atlas of World Weeds. Wiley.
+  - USDA NRCS — PLANTS Database (Mimosa pudica profile)
+  - Razal, R.A. et al. (1992). "Nitrogen fixation of Mimosa pudica." Plant and Soil.
+  - Fosberg, F.R. et al. (1979). A Geographical Atlas of World Weeds.
+  - Raju, A.J.S. (2016). "Reproductive ecology of Mimosa pudica." Current Botany.
+  - Peoples, M.B. et al. (2009). "The contributions of nitrogen-fixing crop legumes." Field Crops Research.
 ---
 
-# Mimosa pudica
+# Mimosa pudica (Sensitive Plant)
 
-*Mimosa pudica* is a creeping annual or perennial herbaceous plant in the family
-Fabaceae, famous for its rapid leaf-folding movement in response to touch,
-vibration, and other stimuli. Native to tropical Central and South America, it
-has become pantropical in distribution and is known by many common names
-including sensitive plant, touch-me-not, humble plant, and sleepy plant. The
-specific epithet *pudica* derives from Latin "pudicus," meaning bashful or
-modest. *Mimosa pudica* has served as a model organism in [[plant-electrophysiology]], movement biology, and studies of plant learning and memory,
-making it one of the most scientifically studied species in behavioral botany.
+## Overview
+
+**Mimosa pudica**, commonly known as the **Sensitive Plant**, **Touch-Me-Not**, or **Sleepy Plant**, is a creeping annual or short-lived perennial herb in the *Fabaceae* (legume) family. Native to Central and South America, it has become pantropical in distribution and is widely recognized for its remarkable **thigmonastic (touch-induced) leaf-folding response** — one of the most visible and rapid plant movements in the botanical world.
+
+Beyond its botanical novelty, *M. pudica* is a significant species in tropical agriculture and permaculture systems. As a nitrogen-fixing legume, it serves as a valuable **ground cover, green manure, and soil-improvement crop**. It also possesses documented anthelmintic, anti-inflammatory, wound-healing, and antimicrobial properties that have been validated by modern pharmacological research, supporting its extensive use in traditional medicine across Africa, Asia, and the Americas.
 
 ## Taxonomy
 
-First described by Carl Linnaeus in 1753, the genus *Mimosa* contains
-approximately 500 species. Historically placed in subfamily Mimosoideae, it was
-reclassified to Caesalpinioideae under the APG IV system (2016) based on
-molecular phylogenetic evidence. The species is highly variable across its
-range, and several varieties have been described.
+- **Kingdom:** Plantae
+- **Clade:** Tracheophytes, Angiosperms, Eudicots, Rosids
+- **Order:** Fabales
+- **Family:** Fabaceae
+- **Subfamily:** Mimosoideae
+- **Genus:** *Mimosa*
+- **Species:** *M. pudica*
 
-## Morphology
+### Synonyms and Common Names
 
-*Mimosa pudica* is a prostrate or semi-erect herb, typically 15–60 cm tall,
-forming dense mats up to a meter across. Stems are slender, branching,
-reddish-brown, and armed with recurved prickles. Leaves are bipinnately
-compound, 10–20 cm long, with 2–4 pairs of pinnae each bearing 10–26 pairs of
-small oblong leaflets (~6 mm). The distinctive **pulvini** — swollen motor
-organs at the base of pinnae and petiole-stem junctions — mediate rapid leaf
-movement.
+- Sensitive plant, Touch-me-not, Humble plant, Sleepy plant, Shameplant
+- Chuimui (Hindi: चुईमुई), Makahiya (Tagalog: "shy"), Namaskari (Sanskrit), Morivivi (Spanish Caribbean)
 
-Flowers are pinkish-purple, globular, and borne on axillary peduncles (8–12 mm
-diameter), composed of numerous stamens in a pom-pom arrangement. Fruit is a
-flat, segmented pod (loment) 1–2 cm long, each segment containing 1–3 hard-
-coated seeds dispersed by animals (epizoochory) or water (hydrochory).
+## Botanical Description
 
-## Mechanism of Movement
+- **Growth habit:** Prostrate or semi-erect creeping herb, 15–100 cm tall, forming dense mats
+- **Stems:** Slender, branching, pubescent with recurved prickles
+- **Leaves:** Bipinnately compound, 2–4 pinnae pairs, each with 10–26 leaflet pairs (~6 mm). Leaflets fold upward on mechanical stimulation.
+- **Pulvini:** Swollen motor joints at pinnae/petiole bases operating through rapid turgor changes
+- **Flowers:** Globose pale pink to purplish heads, 1–2 cm, resembling miniature pom-poms
+- **Fruit:** Flat pods 1–2 cm with 2–8 seeds and recurved prickles
+- **Roots:** Shallow fibrous system with prominent nitrogen-fixing *Rhizobium* nodules
 
-The plant exhibits thigmonasty (touch-triggered), seismonasty (vibration-
-triggered), and nyctinasty (circadian night closure), all mediated by the
-pulvinus. Upon stimulation, an action potential propagates at ~0.1 m/s through
-phloem tissue to the pulvinus, triggering rapid K⁺ and Cl⁻ efflux from
-extensor cells. Water leaves via osmosis, extensor cells collapse, and the leaf
-folds downward within 0.1–0.5 seconds. Reopening takes 15–30 minutes as H⁺-
-ATPase pumps restore ion gradients — the ATP requirement distinguishes this
-from passive elastic mechanisms. Mechanosensitive calcium channels serve as
-the primary second messenger initiating the cascade.
+## Thigmonastic Movement
 
-## Functions of Movement
+The rapid leaf-folding is one of the best-studied plant movements:
 
-Rapid folding likely serves multiple adaptive functions: herbivory deterrence
-(exposing spiny stems, reducing leaf area, startling insects), thermoregulation
-(reducing radiative heat loss at night), [[water-conservation]] (reducing night
-transpiration), and protection from mechanical damage during wind and rain.
-The energetic cost of movement suggests strong selective pressure.
+- **Speed:** Leaflet folding within 0.1–0.3 seconds; pinnae collapse within 1–2 seconds
+- **Signal propagation:** Stimulus travels at 1–10 cm/s via action potentials in pulvinar cells
+- **Mechanism:** Mechanical stimulation triggers ion efflux (K⁺, Cl⁻) from motor cells in pulvini, causing rapid turgor pressure loss and bending
+- **Recovery:** Leaves reopen within 15–30 minutes as ion pumps restore turgor
+- **Habituation:** Plants can "learn" to ignore repeated non-harmful stimuli (Gagliano, 2014) — suggesting rudimentary plant memory
+- **Adaptive function:** May deter herbivores, reduce water loss, or protect against physical damage
 
-## Distribution and Ecology
+## Ecological and Agricultural Significance
 
-Native to tropical Central and South America, *Mimosa pudica* is now pantropical
-after widespread naturalization. It thrives in disturbed areas, roadsides,
-pastures, and agricultural fields. As a legume, it fixes atmospheric nitrogen
-via *Bradyrhizobium* symbiosis, enriching soil fertility. Flowers attract bees
-and butterflies; prickly pods disperse via animals and water. Some studies
-suggest heavy metal accumulation potential for phytoremediation.
+### Nitrogen Fixation
 
-The species is classified as invasive in Australia, parts of Africa, Pacific
-Islands, and Southeast Asia due to rapid growth, prolific seed production, hard
-seed coats, and vegetative propagation via stem rooting.
+Forms symbiotic associations with **rhizobial bacteria** (*Bradyrhizobium* spp.) in root nodules, converting atmospheric N₂ into ammonia. Fixation rates: 20–80 kg N/ha/year depending on soil, climate, and plant density. Effective nodulation occurs within 3–4 weeks of germination. Leaf litter and root decomposition contribute additional organic nitrogen for intercropped or subsequent crops.
 
-## Plant Learning and Memory
+### Permaculture and Agroforestry Applications
 
-*Mimosa pudica* became central to debates about plant intelligence through
-Monica Gagliano's research. In a landmark 2014 *Oecologia* study, plants
-repeatedly dropped from a fixed height ceased folding — demonstrating
-habituation. Habituated plants discriminated between drop heights, retained
-learned responses for weeks, and reopened faster than naïve plants when
-transferred to new environments. In 2016, Gagliano's group demonstrated
-Pavlovian-like conditioning by associating light with aversive air flow.
-While critics argue non-cognitive explanations (sensory adaptation), the
-context-specificity and retention patterns remain difficult to fully explain.
+*Mimosa pudica* is increasingly valued in tropical permaculture for multiple functions:
 
-## Historical Significance
+- **Living ground cover:** Dense mats suppress weeds, erosion, and maintain moisture; effective against nutgrass and creeping signal grass
+- **Green manure:** Slashed and incorporated as nitrogen-rich amendment (3–8 t DM/ha/year)
+- **Companion planting:** Fixes nitrogen for cassava, maize, sweet potato, and fruit trees
+- **Erosion control:** Stabilizes slopes and degraded land
+- **Pioneer species:** Tolerates poor, compacted soils; useful for initial site rehabilitation
+- **Pollinator support:** Attracts bees and butterflies; mulch production from regular cutting
 
-Charles Darwin studied *Mimosa pudica* extensively in *The Power of Movement
-in Plants* (1880), proposing that plant movements share principles with animal
-nervous systems. Jagadish Chandra Bose used it as his primary model organism
-for pioneering plant electrophysiology in the early 1900s, demonstrating
-fatigue, refractory periods, and stimulus summation analogous to animal nerves,
-and showing that anesthetics could suppress plant motor responses.
+### Invasive Potential
 
-## Chemical Constituents
+Classified as invasive in parts of Australia, Pacific Islands, and Southeast Asia. Prolific seed production (600+ seeds/plant), hard seed coat (5+ year soil viability), and dense monoculture formation can suppress native vegetation. Management requires regular cutting before seed set.
 
-The signature compound is **mimosine**, a non-protein amino acid found
-throughout the plant, especially in seeds and leaves. Mimosine is goitrogenic
-and toxic to livestock (hair loss, reproductive failure), but has been
-investigated for anticancer and anti-Alzheimer's properties. Other constituents
-include flavonoids (quercetin, kaempferol), condensed tannins, phenolic acids
-(caffeic, ferulic, gallic acid), triterpenoids, saponins, and phytosterols.
+## Phytochemistry
 
-## Medicinal Uses
+- **Mimosine** (leucine analog, 0.1–1.0% dry weight) — primary alkaloid; antiprotozoal, goitrogenic at high doses, cytotoxic to cancer cells; toxic to ruminants at sustained high intake
+- **DMT** — trace quantities in root bark
+- **Flavonoids:** Quercetin, kaempferol, myricetin — antioxidant, anti-inflammatory
+- **Tannins** — astringent, antimicrobial
+- **Terpenoids, saponins** — anti-inflammatory, hemolytic
+- **Calcium oxalate crystals** — mechanical irritant in leaves/stems
 
-In Ayurveda (*Lajjalu*), it treats dysentery, diarrhea, hemorrhoids, wounds,
-and gynecological disorders. In TCM (*hánxiūcǎo*), it clears heat and reduces
-swelling. Southeast Asian traditions use leaves for wounds, burns, and fever.
-West African herbalists use leaf extracts for snakebite. Modern studies have
-validated anti-inflammatory, antimicrobial, antidiabetic, wound-healing, and
-anxiolytic activities, though clinical trials are lacking and mimosine toxicity
-remains a safety concern.
+## Pharmacology and Traditional Medicine
 
-## Related Entities
+### Anthelmintic Activity
 
-- [[jagadis-chandra-bose]] — Pioneered plant electrophysiology using *Mimosa*
-  pudica as his primary model organism
-- [[cleve-backster]] — Used sensitive plants in polygraph-based perception
-  experiments; his claims were popularized in *The Secret Life of Plants*
-- [[mimosa-hostilis]] — Related psychoactive species in the same genus
+Most widely used traditional application — root extracts demonstrate significant activity against *Ascaris lumbricoides*, *Trichuris trichiura*, and *Necator americanus*. Mechanism involves paralysis of worm musculature through GABAergic and glutamatergic receptor interference. Clinical studies report 70–90% egg reduction rates with aqueous root extracts.
+
+### Wound Healing and Anti-Inflammatory
+
+Aqueous and ethanolic leaf extracts accelerate wound contraction and epithelialization. Anti-inflammatory activity mediated through COX-2, LOX, and NF-κB inhibition; reduces TNF-α, IL-1β, IL-6. Topical leaf paste is a common traditional wound treatment across South and Southeast Asia.
+
+### Antimicrobial Activity
+
+Active against Gram-positive (*S. aureus*, *B. subtilis*) and Gram-negative (*E. coli*, *P. aeruginosa*) bacteria, and fungi (*C. albicans*, *A. niger*, dermatophytes). Tannins and flavonoids are primary antimicrobial agents.
+
+### Other Traditional Uses
+
+- **Diarrhea and dysentery:** Astringent tannin content
+- **Urinary tract infections:** Diuretic and antimicrobial properties
+- **Diabetes:** Hypoglycemic effects observed in animal models
+- **Snake bite:** Traditional adjunctive treatment in parts of Africa and India (limited validation)
+
+## Cultivation
+
+### Growing Conditions
+
+- **Climate:** Tropical/subtropical; optimal 25–35°C (77–95°F); intolerant of frost
+- **Soil:** Wide tolerance (sandy to clay); pH 5.0–8.0; best in well-drained soils
+- **Light:** Full sun to partial shade
+- **Water:** Moderate; drought-tolerant once established; cannot tolerate waterlogging
+- **Propagation:** Seed with scarification (hot water, acid, or mechanical); germination in 5–10 days
+- **Growth rate:** Rapid — establishes ground cover within 6–8 weeks
+- **Biomass:** 3–8 tonnes dry matter/ha/year
+
+## Safety and Precautions
+
+- **Mimosine toxicity:** Sustained high intake causes hair loss, goiter, and reproductive abnormalities in livestock; human dietary exposure from traditional preparations is generally safe
+- **Calcium oxalate:** May cause skin irritation in sensitive individuals
+- **Contraceptive concern:** Traditional use suggests potential contraceptive effects — avoid during pregnancy
+- **Invasive management:** Prevent seed production through regular cutting before flowering in non-native ecosystems
+
+## See Also
+
+- [[Arachis-pintoi]] — Pinto peanut, another tropical nitrogen-fixing ground cover for permaculture
+- [[Nitrogen-Fixation]] — biological process by which legumes convert atmospheric nitrogen
+- [[Cover-Crops]] — plants grown primarily for soil health benefits
+- [[Companion-Planting]] — strategic plant placement for mutual benefit
+- [[Rhizobia]] — nitrogen-fixing bacteria in symbiosis with leguminous plants

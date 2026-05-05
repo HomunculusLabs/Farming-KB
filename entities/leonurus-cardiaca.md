@@ -1,132 +1,133 @@
 ---
 title: Leonurus cardiaca
 type: species
-tags: [medicinal-plant, lamiaceae, cardiotonic, emmenagogue, nervine, ethnobotanical, temperate-herb, mint-family]
+tags: [herbal-plants, lamiaceae, cardiotonic, emmenagogue, ethnobotany, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/nutrient-and-dynamic-accumulators.md]
+sources:
+  - https://en.wikipedia.org/wiki/Leonurus_cardiaca
+  - https://pubmed.ncbi.nlm.nih.gov/?term=leonurus+cardiaca+review
+  - B. K. Koul et al., "Phytochemistry and Pharmacology of Leonurus cardiaca" (2021)
+  - Hoffmann, "Medical Herbalism" (2003), Healing Arts Press
 ---
 
 # Leonurus cardiaca
 
-## Overview
+*Leonurus cardiaca*, commonly known as motherwort, is a perennial herbaceous plant in the mint family (Lamiaceae) with a long history of use in both European and Traditional Chinese Medicine (TCM). Its species name *cardiaca* reflects its traditional reputation as a heart remedy, while the common name "motherwort" points to its historical use in women's reproductive health. Once a staple of monastery gardens and medieval physick gardens, motherwort has experienced renewed interest as modern pharmacological research validates several of its traditional applications.
 
-Leonurus cardiaca, commonly known as motherwort, is a perennial herbaceous plant in the mint family (Lamiaceae) with a long and distinguished history of use in traditional European, Chinese, and North American [[herbal-medicine-making-basics]]. Its genus name, derived from the Greek "leon" (lion) and "oura" (tail), refers to the distinctive shape of its leaves, which resemble a lion's tail. The species epithet "cardiaca" reflects its traditional reputation as a cardiotonic — a remedy for the heart. Motherwort has been used for centuries as a remedy for female reproductive disorders (hence the common name "motherwort"), as a calming nervine for anxiety and palpitations, and as a general tonic for [[blesching-cannabis-cardiovascular-health]]. Modern pharmacological research has identified several [[cordyceps-cancer-bioactive-compounds]], including leonurine and stachydrine, that validate many of its traditional uses, particularly its cardioprotective, uterotonic, anxiolytic, and [[medicinal-mushroom-antioxidant-anti-inflammatory]] properties.
-
-## Taxonomy
+## Taxonomy and Botanical Description
 
 - **Kingdom:** Plantae
-- **Clade:** Tracheophytes (vascular plants)
-- **Clade:** Angiosperms (flowering plants)
+- **Clade:** Tracheophytes
+- **Clade:** Angiosperms
 - **Clade:** Eudicots
 - **Clade:** Asterids
 - **Order:** Lamiales
-- **Family:** Lamiaceae (mint family)
-- **Genus:** Leonurus
-- **Species:** L. cardiaca L., 1753
-- **[[australian-magic-mushroom-common-names]]:** Motherwort, lion's tail, throw-wort, lion's ear (not to be confused with Leonotis leonurus, a distinct species)
-- **Related species:** Leonurus japonicus (Chinese motherwort, yi mu cao) is the most medicinally significant congener, widely used in traditional Chinese medicine. Leonotis leonurus (wild dagga) is in a different genus within the same family.
-- **Etymology:** Greek "leon" (lion) + "oura" (tail) referring to the leaf shape; Latin "cardiaca" meaning "of the heart," reflecting its traditional cardiac applications.
+- **Family:** Lamiaceae
+- **Genus:** *Leonurus*
+- **Species:** *L. cardiaca*
 
-## Description
+### Morphology
 
-- **Growth habit:** Vigorous, upright perennial herb, 60–150 cm tall. Forms dense clumps from a woody rootstock. Square stems characteristic of the Lamiaceae.
-- **Stems:** Erect, branching in the upper portion, prominently four-angled (square in cross-section), pubescent with short, backward-pointing hairs. Green to purplish-green, often with a reddish tinge, especially near nodes.
-- **Leaves:** Opposite, palmately lobed, 3–10 cm long and 2–8 cm wide. Deeply divided into 3–5 pointed, toothed lobes that give the characteristic lion's-tail appearance. Upper surface dark green and rough-hairy; lower surface paler with prominent veining. Petioles 1–4 cm long.
-- **Flowers:** Small, two-lipped, arranged in dense whorled clusters (verticillasters) in the axils of the upper leaves, forming a continuous spike-like inflorescence. Corolla 8–12 mm long, pink to lilac, occasionally white. Upper lip hooded, lower lip three-lobed with a prominent central lobe. Calyx tubular, 5-toothed, persistent.
-- **Fruit:** Four small nutlets (schizocarps), brown, oblong-trigonous, approximately 2–2.5 mm long, enclosed within the persistent calyx.
-- **Roots:** Fibrous, spreading rootstock with numerous fine roots. Capable of forming extensive clonal colonies.
-- **Aroma:** Strongly aromatic when crushed — a distinctive, somewhat bitter, herbaceous-minty scent. The aroma is complex, combining camphoraceous and slightly musky notes.
-- **Taste:** Bitter, acrid, and slightly astringent. The bitterness is a significant component of its traditional medicinal action.
+Motherwort is a robust, upright perennial growing 60–150 cm tall. Key identifying features include:
 
-## Habitat and Distribution
+- **Stem:** Square (characteristic of Lamiaceae), pubescent, often with a reddish-purple tinge, branching in the upper portions
+- **Leaves:** Opposite, palmately lobed with 3–7 pointed lobes (resembling a lion's tail — the origin of the genus name, from Greek *leon* "lion" and *oura* "tail"), dark green above and paler beneath with fine hairs, 3–10 cm long
+- **Flowers:** Small (8–12 mm), two-lipped, pinkish-purple to white, arranged in dense whorls in the axils of the upper leaves. The calyx is persistent and prickly, with 5 prominent teeth. Flowers mid-summer through early autumn
+- **Root:** Fibrous perennial rootstock with creeping rhizomes enabling vegetative spread
+- **Seeds:** Small brown nutlets (achenes), 4 per calyx
 
-- **Native range:** Central and southern Europe, temperate Asia (from Turkey to Siberia), and parts of Central Asia. Originally described from European populations.
-- **Naturalized range:** Widely naturalized throughout North America (from Newfoundland to British Columbia, south to Georgia and Colorado), [[stamets-mushrooms-world-south-america]], Australia, New Zealand, and parts of Africa. Considered an introduced and often weedy species in these regions.
-- **Habitat:** Highly adaptable. Found in waste places, roadsides, railroad embankments, abandoned fields, vacant lots, riverbanks, forest edges, and disturbed ground. Tolerates a wide range of soil types but prefers moist, nitrogen-rich soils.
-- **Invasive potential:** Listed as invasive or potentially invasive in several US states and European countries due to its aggressive colonization of disturbed habitats and ability to outcompete native vegetation.
-- **Hardiness:** Extremely cold-hardy (USDA zones 3–8). Dies back to the ground in winter and regrows vigorously from the rootstock each spring.
+### Distribution and Habitat
 
-## Chemistry and Bioactive Compounds
+Native to central and southern Europe, central Asia, and parts of China. Widely naturalized across North America (particularly the northeastern United States and eastern Canada), where it arrived with European settlers. Motherwort thrives in disturbed soils, waste places, roadsides, riverbanks, and woodland edges. It is classified as hardy in USDA zones 3–8.
 
-Leonurus cardiaca contains a diverse profile of pharmacologically active compounds distributed across several chemical classes:
+In permaculture contexts, motherwort is valued as a dynamic accumulator and beneficial insect attractor, though its vigorous self-seeding habit requires management to prevent invasiveness.
+
+## Phytochemistry
+
+The pharmacological activity of *Leonurus cardiaca* is attributed to a complex mixture of bioactive compounds:
 
 ### Alkaloids
+- **Stachydrine** — the most significant alkaloid, a proline derivative with documented cardiotonic, uterotonic, and neuroprotective properties. Current research investigates stachydrine for postpartum hemorrhage prevention and treatment of cardiovascular disorders.
+- **Leonurine** — a quinazoline alkaloid with antioxidant, anti-inflammatory, and uterotonic activity. Leonurine has shown promise in protecting against doxorubicin-induced cardiotoxicity in animal studies.
+- **LeONURINE N-oxide** — a metabolite with antiplatelet aggregation activity
 
-- **Leonurine:** The most pharmacologically significant alkaloid, unique to the genus Leonurus. Demonstrated cardioprotective, vasodilatory, uterotonic, antioxidant, and anti-inflammatory activities. Leonurine protects cardiomyocytes from ischemia-reperfusion injury, inhibits platelet aggregation, and promotes angiogenesis.
-- **Stachydrine:** A pyrrolidine betaine alkaloid with uterotonic, anti-fibrotic, and cardioprotective properties. Inhibits cardiac fibroblast proliferation and collagen deposition, suggesting potential in preventing cardiac remodeling after myocardial infarction.
-- **Leonuridine:** A glucosylated alkaloid derivative with related pharmacological activities.
-
-### Iridoid glycosides
-
-- **Leonuride (harpagide):** Bitter-tasting iridoid glycosides contribute to the plant's traditional digestive and bitter tonic properties. Stimulate bile secretion and appetite.
-- **Ajugoside and reptoside:** Additional iridoid glycosides with reported anti-inflammatory and hepatoprotective activities.
-
-### Diterpenoids
-
-- **Leonurin and leocardin:** Labdane-type diterpenoids with antibacterial and anti-inflammatory properties.
+### Iridoid Glycosides
+- **Leonuride** and related compounds contribute anti-inflammatory and mildly hypotensive effects
 
 ### Flavonoids
+- **Rutin, quercetin, hyperoside, and kaempferol derivatives** — contribute antioxidant, anti-inflammatory, and capillary-strengthening activity. Rutin in particular is recognized for reducing capillary fragility
 
-- **Rutin, quercetin, hyperoside, and kaempferol:** Flavonoid glycosides contributing to antioxidant, anti-inflammatory, and capillary-strengthening effects. Rutin is particularly notable for its ability to reduce capillary fragility.
-- **Apigenin and luteolin derivatives:** Additional flavonoids with anxiolytic and anti-inflammatory properties.
+### Diterpenoids
+- **Leonurin and leocardin** — bitter principles with documented cardiovascular effects
 
-### Phenolic acids and volatile oils
+### Essential Oil
+- Present at approximately 0.05–0.1% in aerial parts. Major components include germacrene D, β-caryophyllene, and α-humulene. The essential oil contributes antimicrobial activity
 
-- **Rosmarinic acid:** A major phenolic constituent with potent antioxidant and anti-inflammatory activity.
-- **Caffeic acid and chlorogenic acid:** Phenolic acids contributing to the antioxidant profile.
-- **Essential oil:** Contains germacrene D, β-caryophyllene, α-humulene, and caryophyllene oxide as major volatile constituents.
+### Organic Acids
+- **Chlorogenic, caffeic, and rosmarinic acids** — potent antioxidants
 
-### Tannins and bitter principles
+## Traditional and Modern Uses
 
-- Moderate tannin content contributing to astringent properties.
-- High bitterness value attributable to the iridoid glycosides, stimulating digestion and liver function.
+### Cardiovascular System
+Motherwort's traditional reputation as a heart tonic ("cardiaca") has partial support from modern research:
 
-## Traditional and Modern Medicinal Uses
+- **Mild hypotensive effect:** Animal studies demonstrate dose-dependent reduction in blood pressure, attributed primarily to stachydrine and the vasodilatory effects of flavonoids
+- **Antiarrhythmic properties:** Leonurine has shown protective effects against ischemia-induced arrhythmias in animal models
+- **Anxiolytic cardiovascular modulation:** The combination of mild sedation and cardiovascular calming may underlie the traditional use for "palpitations of nervous origin"
 
-### Cardiovascular applications
+### Women's Reproductive Health
+Motherwort has perhaps its strongest traditional association with female reproductive health:
 
-- **Traditional:** Used since antiquity as a cardiotonic for "weak heart," palpitations, tachycardia, and anxiety-related cardiac symptoms. Nicholas Culpeper (1653) wrote: "There is no better herb to take melancholy vapours from the heart... it makes the heart merry."
-- **Modern validation:** Leonurine and stachydrine have demonstrated cardioprotective effects in preclinical studies, including reduction of myocardial ischemia-reperfusion injury, inhibition of cardiac fibrosis, and antiarrhythmic activity. Motherwort extracts show mild hypotensive effects and improve coronary circulation.
+- **Emmenagogue:** Promotes menstrual flow in cases of delayed or absent menstruation (amenorrhea). This is a uterotonic effect mediated by stachydrine and leonurine
+- **Dysmenorrhea relief:** Antispasmodic properties reduce uterine cramping. Clinical studies in China using *Leonurus japonicus* (a closely related species used interchangeably in TCM) demonstrated significant reduction in menstrual pain
+- **Postpartum support:** In TCM, *Yi Mu Cao* (益母草, "benefit mother herb") is one of the most important postpartum herbs, used to promote uterine involution and reduce postpartum bleeding
+- **Menopausal symptoms:** Anecdotal evidence and preliminary studies suggest benefit for hot flashes and anxiety associated with menopause, though controlled trials are lacking
 
-### Women's health and reproductive medicine
+### Nervous System
+- **Anxiolytic and mild sedative:** The combination of leonurine, flavonoids, and iridoids produces a calming effect without significant drowsiness. Traditional use for anxiety, nervousness, and "hysteria" may reflect genuine anxiolytic activity
+- **Thyroid modulation:** Some herbalists report motherwort as helpful for hyperthyroid symptoms, though evidence is primarily empirical
 
-- **Traditional:** One of the most important herbs in Western herbalism for female reproductive health. Used to promote menstruation (emmenagogue), ease menstrual cramps (dysmenorrhea), regulate irregular cycles, promote postpartum recovery, and ease menopausal anxiety and palpitations. The common name "motherwort" directly reflects its association with women's health.
-- **Chinese medicine:** L. japonicus (yi mu cao, "benefit mother herb") is one of the 50 fundamental herbs of TCM, used to promote blood circulation, regulate menstruation, and promote postpartum recovery. It is a key ingredient in many classical gynecological formulas.
-- **Modern evidence:** Leonurine demonstrates dose-dependent uterotonic activity, promoting uterine contractions. Anti-inflammatory and analgesic effects support its use for dysmenorrhea.
+### Preparation and Dosage
 
-### Nervous system and mental health
+| Preparation | Parts Used | Typical Dosage |
+|-------------|-----------|----------------|
+| Dried herb infusion | Aerial parts, flowering | 1–4 g dried herb, 2–3× daily |
+| Tincture (1:5, 40% ethanol) | Aerial parts, flowering | 2–4 mL, 2–3× daily |
+| Fluid extract | Aerial parts | 1–2 mL, 2× daily |
+| Standardized extract (0.2% stachydrine) | Aerial parts | Per manufacturer guidelines |
 
-- **Traditional:** Used as a calming nervine for anxiety, nervousness, insomnia, and stress-related conditions. Particularly indicated for anxiety with cardiac symptoms (palpitations, racing heartbeat).
-- **Modern evidence:** Anxiolytic effects demonstrated in animal models. The combination of leonurine, flavonoids (apigenin), and rosmarinic acid is believed to contribute to calming effects through GABAergic modulation and cortisol reduction.
+The aerial parts are harvested during flowering for maximum potency. Leaves and flowering tops are the primary plant parts used medicinally.
 
-## Permaculture and Ecological Applications
+## Cultivation
 
-Leonurus cardiaca has several applications in permaculture design and ecological landscaping:
+Motherwort is straightforward to cultivate and well-suited to herb gardens, permaculture food forests, and medicinal plant collections:
 
-- **Dynamic accumulator:** Motherwort is classified as a dynamic accumulator, drawing up minerals from deep soil layers and making them available to neighboring plants when its leaves decompose or are used as mulch. It accumulates potassium, iron, magnesium, and calcium in its tissues.
-- **Pollinator support:** The flowers are attractive to bees, butterflies, and other pollinators, providing a late-season nectar and pollen source when many other plants have finished flowering.
-- **Soil stabilization:** Deep, fibrous root system helps stabilize soil on slopes and disturbed sites. Useful in ecological restoration projects.
-- **Companion planting:** In traditional European herb gardens, motherwort was often interplanted with other medicinal herbs. Its strong aroma may help deter certain pest insects.
-- **Wildlife habitat:** Dense clumps provide cover for small birds and insects. Seeds are consumed by some bird species.
+- **Propagation:** Seed (stratification improves germination), division, or stem cuttings. Seeds require light for germination — surface sow and press gently. Germination typically occurs in 2–3 weeks
+- **Soil:** Adaptable to a wide range of soils but prefers moist, well-drained loam. Tolerates poor soils and clay
+- **Light:** Full sun to partial shade. Most vigorous in full sun
+- **Water:** Moderate. Drought-tolerant once established but performs best with consistent moisture
+- **Spacing:** 45–60 cm apart
+- **Maintenance:** Cut back after flowering to prevent excessive self-seeding and encourage a second flush of growth. Divide every 3–4 years to maintain vigor
+- **Pests and diseases:** Generally pest-free. Susceptible to powdery mildew in humid, poorly ventilated conditions
 
-## Cultivation and Harvesting
+### Permaculture Functions
+- **Dynamic accumulator:** Deep taproot mines minerals from subsoil, particularly calcium, iron, and magnesium
+- **Beneficial insect attractant:** Flowers attract bees, butterflies, and predatory wasps
+- **Edge plant:** Thrives in marginal, disturbed areas where other plants struggle
+- **Compost activator:** High mineral content accelerates compost decomposition when added in moderate quantities
 
-- **Propagation:** Easily grown from seed (direct sow in spring or fall), division of established clumps, or stem cuttings. Seeds require light for germination — press into soil surface without covering.
-- **Cultivation:** Full sun to partial shade. Adapts to most soil types but thrives in moist, well-drained, fertile soils. Extremely vigorous and can become weedy in garden settings. Space plants 30–45 cm apart.
-- **Harvest:** Aerial parts are harvested during flowering (June–August), when bioactive compound concentrations are at their peak. Cut stems 10–15 cm above ground level. Can be dried for later use.
-- **Drying:** Hang in bundles in a warm, well-ventilated area out of direct sunlight. Dried herb retains potency for 12–18 months when stored in airtight containers away from light.
-- **Yield:** Fresh herb yield of 1–2 kg per m² in established plantings.
+## Safety and Contraindications
+
+- **Pregnancy:** Contraindicated. Uterotonic alkaloids (stachydrine, leonurine) can stimulate uterine contractions. May pose risk of miscarriage, particularly in the first trimester
+- **Menstruation:** Avoid in heavy menstrual bleeding due to emmenagogue effects
+- **Cardiac medications:** Potential interactions with antiarrhythmic, antihypertensive, and anticoagulant drugs. Consult healthcare provider before combining
+- **Bleeding disorders:** Use with caution due to potential antiplatelet effects
+- **Sedative interactions:** May potentiate effects of benzodiazepines, barbiturates, and other CNS depressants
 
 ## See Also
 
-- [[herbal-medicine-preparation-methods]]
-
-- [[leonotis-leonurus]] — Wild dagga, a related Lamiaceae species with mild psychoactive properties
-- melissa officinalis — Lemon balm, another calming Lamiaceae herb for anxiety and palpitations
-- vitex agnus castus — Chaste tree, complementary herb for female reproductive health
-- scutellaria baicalensis — Chinese skullcap, sharing flavonoid chemistry and anxiolytic properties
-
-## See Also
-
-- [[leonurus-sibiricus]]
+- [[Leonurus japonicus]] — closely related TCM species (*Yi Mu Cao*)
+- [[Lamiaceae Medicinal Herbs]]
+- [[Stachydrine Pharmacology]]
+- [[Permaculture Dynamic Accumulators]]

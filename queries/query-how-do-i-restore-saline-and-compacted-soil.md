@@ -1,0 +1,144 @@
+---
+title: "How Do I Restore Saline and Compacted Soil?"
+tags: [soil-restoration, saline-soil, soil-compaction, phytoremediation, gypsum, leaching, halophytes, cover-crops, drainage, soil-health]
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - FAO. "Soil Salinity Management." Irrigation and Drainage Paper 71. Food and Agriculture Organization of the United Nations, Rome, 2020.
+  - USDA NRCS. "Soil Quality Indicators: Salinity and Sodicity." United States Department of Agriculture, Natural Resources Conservation Service, 2021.
+  - Qadir, M., et al. "Economics of salt-induced land degradation and restoration." Natural Resources Forum, vol. 38, no. 4, 2014, pp. 282-295.
+  - Brady, N.C., and R.R. Weil. The Nature and Properties of Soils. 15th ed., Pearson, 2016.
+  - Shainberg, I., and M.E. Sumner. "Effects of gypsum on soil physical and chemical properties." Advances in Soil Science, vol. 12, 1989, pp. 1-41.
+  - Ghassemi, F., A.J. Jakeman, and H.A. Nix. Salinisation of Land and Water Resources. CABI, 1995.
+  - Masters, D., and R. Benes. "Role of halophytes in the rehabilitation of degraded saline soils." Journal of Arid Environments, vol. 175, 2020, 104079.
+  - Bronick, C.J., and R. Lal. "Soil structure and management: a review." Geoderma, vol. 124, no. 1-2, 2005, pp. 3-22.
+---
+
+# How Do I Restore Saline and Compacted Soil?
+
+Saline and compacted soils affect hundreds of millions of hectares globally. Restoring them requires physical, chemical, and biological strategies tailored to the specific degradation type. This guide covers diagnosis, remediation, and prevention for farmers and gardeners.
+
+## 1. Diagnosing Saline vs. Sodic Soil
+
+Accurate diagnosis is critical — the wrong amendment can worsen the problem.
+
+| Property | Saline Soil | Sodic Soil | Saline-Sodic Soil |
+|---|---|---|---|
+| EC (dS/m) | > 4.0 | < 4.0 | > 4.0 |
+| ESP / SAR | ESP < 15, SAR < 13 | ESP > 15, SAR > 13 | ESP > 15, SAR > 13 |
+| pH | < 8.5 | > 8.5 (often 9–10) | < 8.5 |
+| Soil dispersion | Minimal | Severe — poor structure | Moderate to severe |
+
+**Key diagnostics:** Electrical conductivity (EC) of a saturated paste extract; Sodium Adsorption Ratio (SAR); Exchangeable Sodium Percentage (ESP). Visual cues: saline soils show white salt crusts; sodic soils are structureless, hard when dry, sticky when wet.
+
+> **Bottom line:** Saline soils need leaching to remove salts. Sodic soils need calcium amendments to displace sodium *before* leaching. Applying water to sodic soil without amendments worsens dispersion and compaction.
+
+## 2. Physical Remediation
+
+### Deep Ripping (Subsoiling)
+- Breaks compacted layers (hardpans, plow pans) at 30–60 cm depth.
+- Best when soil is dry enough to shatter but not powder-dry.
+- Combine with gypsum for sodic subsoils — ripping alone can let sodium disperse deeper.
+
+### Drainage
+- Install tile drains or open ditches to carry leached salts away from the root zone.
+- Essential where the water table is within 1.5 m of the surface.
+- Clay soils need closer drain spacing due to low hydraulic conductivity.
+
+### Sand Incorporation
+- Coarse sand at 50–100 t/ha improves infiltration in heavy saline-sodic clays.
+- Expensive at field scale; practical for garden beds when mixed thoroughly to avoid layering.
+
+## 3. Chemical Amendments
+
+### Gypsum (CaSO₄·2H₂O)
+The most effective amendment for sodic soils. Calcium displaces sodium from exchange sites; sulfate leaches it away. Rates depend on SAR and CEC (see table below). Use agricultural-grade gypsum and incorporate into top 15–20 cm.
+
+### Elemental Sulfur (S⁰)
+Lowers pH in alkaline sodic soils, improving calcium availability. Oxidation is slow (weeks to months). Typical rate: 1–3 t/ha, depending on pH and buffer capacity.
+
+### Organic Matter
+Compost improves structure, increases CEC, buffers sodium, and supports microbial activity. Apply 20–50 t/ha (field) or 5–10 cm layer (garden). Avoid fresh manure on saline soils — it adds soluble salts.
+
+### Quick-Reference Amendment Rates
+
+| Soil Condition | Amendment | Typical Rate | Application Notes |
+|---|---|---|---|
+| Sodic (SAR 13–20) | Gypsum | 5–10 t/ha | Incorporate top 15–20 cm |
+| Sodic (SAR 20–30) | Gypsum | 10–20 t/ha | Split application; lab verify |
+| Sodic (SAR > 30) | Gypsum | 20–40+ t/ha | Multi-year; add drainage |
+| Saline-sodic, high pH | Elemental S | 1–3 t/ha | With gypsum; slow-acting |
+| Compacted + saline | Compost | 20–50 t/ha | Combine with deep ripping |
+| Garden beds | Gypsum | 0.5–2 kg/m² | Work into top 10 cm; water in |
+| Garden beds | Compost | 5–10 cm layer | Mix thoroughly; no fresh manure |
+
+> Always base rates on a recent soil test. Over-applying gypsum is wasteful but rarely harmful; excess sulfur can depress pH too far.
+
+## 4. Biological Approaches
+
+### Halophytes
+Species like *Salicornia*, *Atriplex* (saltbush), and *Suaeda* extract and accumulate salts. Plant during reclamation, then harvest and remove biomass to permanently extract salt.
+
+### Salt-Tolerant Cover Crops
+Barley, triticale, and tall wheatgrass tolerate moderate salinity (EC up to ~8 dS/m). They protect the surface, reduce evaporation-driven salt concentration, and add organic matter when terminated.
+
+### Mycorrhizal Inoculation
+Arbuscular mycorrhizal fungi (AMF) improve nutrient uptake under saline stress and enhance soil aggregation. Inoculate cover crop seed; most effective with organic matter present.
+
+## 5. Leaching Techniques
+
+Leaching flushes excess salts below the root zone with irrigation water.
+
+- **Leaching requirement:** Apply 15–30% excess water beyond crop ET needs, depending on irrigation water salinity.
+- Use intermittent ponding (flood irrigation) — moves salts deeper per unit of water than light sprinkling.
+- Ensure drainage exists — leaching without drainage raises the water table and spreads salinity.
+- Garden beds: flush with 2–3× soil volume in water over several sessions; redirect runoff.
+
+## 6. Step-by-Step Restoration
+
+### For Farmers (Field Scale)
+1. **Test soil** — EC, SAR, ESP, pH, texture, organic matter.
+2. **Install drainage** if water table is shallow or internal drainage is poor.
+3. **Apply gypsum** at the lab-calculated rate (based on SAR and CEC).
+4. **Deep rip** to 40–60 cm to break compaction and incorporate gypsum into subsoil.
+5. **Apply compost** at 20–50 t/ha and incorporate.
+6. **Leach** with ponded irrigation to flush salts below 60 cm.
+7. **Plant salt-tolerant cover crop** (barley, triticale) to stabilize and build organic matter.
+8. **Monitor** — re-test EC and SAR at 3, 6, and 12 months.
+9. **Transition** to cash crops once EC < 4 dS/m and SAR < 13. Expect 1–3 years for moderate cases.
+
+### For Gardeners (Small Scale)
+1. **Collect soil sample** — university extensions offer affordable salinity testing.
+2. **Improve drainage** — grade beds; add gravel or coarse sand below raised beds.
+3. **Apply gypsum** at 0.5–2 kg/m² and work into top 10 cm.
+4. **Add compost** — 5–10 cm layer, mixed in thoroughly.
+5. **Flush with water** — 2–3 volumes per soil volume over multiple sessions.
+6. **Plant salt-tolerant species** — barley, ryegrass, or native halophytes as green manure.
+7. **Mulch** heavily (5–8 cm) to reduce evaporation and salt wicking.
+8. **Retest** after 2–3 months; repeat amendments if needed.
+
+## 7. Monitoring and Timeline
+
+| Phase | Duration | Key Actions | Target Metrics |
+|---|---|---|---|
+| Assessment | Week 1–2 | Soil testing, site evaluation | Baseline EC, SAR, ESP |
+| Physical + Chemical | Month 1–2 | Drainage, ripping, gypsum, compost | EC trending down |
+| Leaching | Month 2–4 | Ponded irrigation, drainage flow | EC < 6 dS/m in root zone |
+| Biological | Month 3–12 | Cover crops, halophytes, mulch | SAR < 13, structure improving |
+| Stabilization | Year 1–3 | Rotational crops, monitoring | EC < 4 dS/m, SAR < 13 |
+
+Mild saline soils: 1–2 seasons. Sodic with severe compaction: 2–5 years. Severely degraded sites may need multi-year drainage investment.
+
+## 8. Prevention Strategies
+
+- **Manage irrigation quality** — monitor EC; blend with fresh water if EC > 1.5 dS/m.
+- **Avoid over-irrigation** — excess water raises the water table and brings salts upward via capillary rise.
+- **Maintain 3–5% organic matter** — improves structure and resistance to salinity and compaction.
+- **Rotate crops** — include deep-rooted and salt-tolerant species.
+- **Minimize tillage** — preserves structure and prevents re-compaction.
+- **Year-round soil cover** — mulch and cover crops reduce evaporation-driven salt accumulation.
+- **Control traffic** — designated equipment lanes prevent re-compacting restored areas.
+
+## Summary
+
+Restore saline and compacted soil systematically: **diagnose accurately, address physical barriers first (drainage, compaction), apply correct chemical amendments (gypsum for sodic, leaching for saline), support biological recovery (halophytes, cover crops, organic matter), and monitor with regular soil testing.** Prevention through good irrigation management, organic matter maintenance, and minimal tillage is far cheaper than remediation.

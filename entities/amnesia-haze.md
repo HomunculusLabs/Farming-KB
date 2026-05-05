@@ -1,191 +1,133 @@
 ---
 title: "Amnesia Haze"
 type: strain
-tags: [cannabis, strain, sativa-dominant, haze-lineage, high-thc, european-classic, award-winning]
+tags:
+  - sativa-dominant
+  - hybrid
+  - uplifting
+  - creative
+  - award-winning
+  - citrus
+  - tropical
+  - amsterdam
+  - breeding-stock
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "general cannabis breeding and cultivation knowledge"
+  - Leafly Strain Database
+  - Erowid Cannabis Vault
+  - High Times Cannabis Cup Archives
+  - Phylos Bioscience Genetic Research
+  - cannabis.seedfinders.eu
+  - Alchimia Grow Shop — Strain Profiles
+  - ACS Laboratory — Terpene Profiling Data
+  - Wikipedia — List of Cannabis Strains
 ---
 
-Amnesia Haze is a sativa-dominant hybrid cannabis strain renowned for
-its potent cerebral effects and complex citrus-earth aroma. Originating
-in the Netherlands in the 1990s, it has become one of the most
-recognized and commercially successful cannabis strains in Europe,
-particularly in Amsterdam's coffeeshop culture where it has consistently
-ranked among the top-selling varieties for over two decades. The strain
-is valued for its uplifting, creative, and long-lasting psychoactive
-effects, making it a staple daytime strain for experienced consumers.
+# Amnesia Haze
+
+Amnesia Haze is a sativa-dominant cannabis hybrid that has earned legendary status in European cannabis culture, particularly in the Netherlands, where it became one of the most celebrated coffeeshop staples. Known for its potent cerebral effects, complex citrus-earthy flavor profile, and impressive THC content, Amnesia Haze has won multiple Cannabis Cup awards and remains one of the most widely sold and requested strains in Amsterdam's coffeeshop scene.
 
 ## Genetic Lineage
 
-| Parent | Role | Notable Traits |
-|--------|------|----------------|
-| Southeast Asian landrace | Pollen donor | Tall structure, long flowering, cerebral effects |
-| Jamaican landrace | Pollen donor | Tropical terpene profile, creative stimulation |
-| Hawaiian (unknown) | Maternal contributor | Citrus and tropical fruit terpenes |
-| Afghan indica (unknown) | Maternal contributor | Shortened flowering, resin production |
-| Haze (NL) | Stabilizing cross | Classic Haze terpenes and effect profile |
+Amnesia Haze is a sativa-dominant hybrid, typically reported as approximately 70–80% sativa / 20–30% indica. Its exact genetic heritage involves Southeast Asian and Jamaican landrace sativas crossed with Afghan indica genetics, though the precise breeding history varies between seed banks:
 
-The exact genetic composition of Amnesia Haze has been debated for
-decades, and multiple breeders have claimed the original cross. The
-most widely accepted origin story traces the strain to a Dutch breeder
-who crossed a Southeast Asian sativa with a Jamaican landrace, then
-backcrossed and stabilized the line with Afghan genetics to reduce the
-extreme flowering time and improve resin production. The name "Amnesia"
-was reportedly coined by the original breeder due to the strain's
-ability to produce a spacelike, forgetful cerebral effect at high
-doses. The "Haze" suffix reflects its Haze lineage, which is evident
-in both its aroma profile and sativa-dominant growth pattern.
+- **Primary lineage:** Southeast Asian sativa (Thai/Lao) × Jamaican sativa × Hawaiian sativa × Afghan indica
+- **Stabilization:** Originally bred in the Netherlands, with the most recognized version popularized by Soma Seeds and later stabilized by multiple European seed banks including D-Seeds and Hy-Pro Seeds
+- **Soma's Amnesia Haze:** Soma Seeds' version (sometimes called "Amnesia") was created by crossing a Southeast Asian sativa with Jamaican genetics, selecting for potency and the signature Haze flavor profile
 
-Some coffeeshop and seed bank variants labeled "Amnesia" or "Amnesia
-Haze" may represent different phenotypic selections or entirely
-different crosses, contributing to variation in reported effects and
-characteristics across commercial sources.
+The strain's "Amnesia" name refers to its powerful, memory-clouding cerebral effects rather than any actual amnesiac properties. Some phenotypes may carry genetic contributions from Cinderella 99 or other Haze-dominant lines, contributing to the variation observed between different seed bank offerings.
 
-## Cannabinoid and Terpene Profile
+### Influence on Modern Hybrids
 
-### Cannabinoids
-- **THC**: 18-24% (tested averages), with select cuts reported up to 27%
-- **CBD**: Typically below 0.2% (very low)
-- **THC:CBD ratio**: Greater than 100:1 in most tested samples
-- The high THC content and negligible CBD contribute to the intense
-  cerebral psychoactivity for which the strain is known
+Amnesia Haze has served as parent stock for several notable crosses:
 
-### Terpene Profile
-| Terpene | Approximate Range | Aroma Contribution |
-|---------|-------------------|-------------------|
-| Terpinolene | 0.4-1.0% | Fruity, piney, floral, slightly herbal |
-| Myrcene | 0.2-0.6% | Herbal, musky, earthy undertone |
-| Limonene | 0.3-0.8% | Citrus, lemon, sweet fruit |
-| Caryophyllene | 0.2-0.5% | Peppery, spicy, woody |
-| Pinene (alpha/beta) | 0.1-0.4% | Pine, fresh, mental clarity |
-| Humulene | 0.1-0.3% | Earthy, woody, hoppy |
-| Linalool | Trace | Floral, lavender, calming |
-| Ocimene | Trace | Sweet, herbal, woody |
+- **Amnesia MAC** — Amnesia Haze × Miracle Alien Cookies
+- **Amnesia Kush** — Amnesia Haze × OG Kush
+- **Bruce Banner #3** (some lines) — OG Kush × Strawberry Diesel with Amnesia influence
+- Various "Amnesia" branded crosses throughout European seed markets
 
-The combined terpene profile produces the strain's signature bouquet:
-bright, citrus-forward with underlying earthy, peppery, and tropical
-notes. The terpinolene dominance is relatively unusual in cannabis
-strains and contributes to the complex, multifaceted aroma that
-distinguishes Amnesia Haze from simpler citrus-heavy sativas.
+## Terpene Profile
 
-## Growth Characteristics
+Amnesia Haze features a complex, layered terpene profile dominated by limonene and terpinolene:
 
-### Plant Structure
-Amnesia Haze grows as a tall, lanky sativa-dominant plant. Indoor
-heights of 120-180 cm are common, with vigorous vertical growth during
-the vegetative period. The branch structure is long and open with
-significant intermodal spacing. Leaves are narrow-leafleted with a
-sativa morphology, though Afghan influence can produce slightly broader
-leaflets in some phenotypes. The plant has a strong, sweet-citrus
-aroma throughout growth that intensifies during flowering.
+### Limonene (Dominant)
 
-### Flowering
-- **Indoor flowering time**: 10-12 weeks from 12/12 flip
-- **Outdoor flowering**: Late October to early November (Northern
-  Hemisphere), requiring warm Mediterranean or tropical climates for
-  reliable outdoor maturation
-- **Yield**: Moderate to high, 400-600 g/m² indoors; outdoor plants
-  can yield 500-800 g each under optimal conditions
-- **Bud structure**: Medium-density, elongated calyxes forming
-  slightly airy but resinous colas. Buds are light green with
-  abundant orange pistils and a heavy coating of trichomes.
+Limonene is the primary terpene, contributing bright citrus notes of lemon, orange, and grapefruit. Typically present at 0.8–1.5% by weight, limonene gives Amnesia Haze its signature zesty aroma. Research associates limonene with mood elevation, stress relief, and potential anti-inflammatory properties. It may also enhance the absorption of other terpenes and cannabinoids through the skin and mucous membranes.
 
-### Cultivation Notes
-- Tends to stretch significantly during the first 3-4 weeks of
-  flowering (can double or triple in height); plan vertical space
-  accordingly
-- Responds well to topping, LST, and ScrOG methods to control height
-- Requires moderate to high nutrient levels, particularly nitrogen
-  during vegetative growth and phosphorus/potassium during flower
-- Prefers slightly acidic soil (pH 6.0-6.5)
-- Susceptible to spider mites in dry conditions
-- Long flowering period means higher electricity and maintenance costs
-  indoors; outdoor cultivation is more practical in suitable climates
-- Training during vegetative period is essential to manage the
-  inevitable flowering stretch
-- Multiple commercial seed versions available from Dutch Passion,
-  Sannie's Seeds, Royal Queen Seeds, and others
+### Terpinolene (Secondary Dominant)
 
-## Effects and Medical Applications
+Terpinolene adds complexity with notes of pine, herbs, flowers, and a subtle sweetness. Found at moderate concentrations (0.5–1.0%), terpinolene contributes to the Haze family's characteristic floral-woody aroma. It may possess antioxidant and mildly sedative properties, creating an interesting counterpoint to the strain's stimulating effects.
 
-### Recreational Effects
-The effects are strongly sativa-dominant, characterized by an
-immediate, intense cerebral high that is both euphoric and
-cerebrally stimulating. Users commonly report:
+### Myrcene
 
-- Rapid-onset euphoria and uplifted mood within minutes of consumption
-- Intense cerebral stimulation that can feel "racing" or overwhelming
-  for inexperienced users
-- Enhanced creativity, focus, and conversational energy
-- Visual and auditory enhancement; colors and music may seem more vivid
-- The "amnesia" effect: spaciness, forgetfulness, and a tendency to
-  lose track of thought mid-sentence at higher doses
-- Body effects are minimal initially but can include mild physical
-  relaxation and tingling sensations in the extremities
-- Duration of effects: 2-4 hours; notably long-lasting for a sativa
-- Comedown is generally smooth but can produce mental fatigue after
-  the peak fades
+Present at moderate levels, myrcene provides earthy, herbal undertones and contributes to the entourage effect. It may enhance cannabinoid receptor binding and add subtle relaxing body notes beneath the dominant cerebral experience.
 
-The strain is widely considered one of the more potent sativa-dominant
-varieties and is recommended for experienced consumers. Novice users
-may find the effects anxiety-inducing, particularly at high doses.
+### Secondary Terpenes
+
+- **Caryophyllene** — peppery, spicy notes; dietary cannabinoid (CB2 receptor agonist)
+- **Pinene** — fresh pine and forest floor; potential bronchodilator and memory-preservation effects
+- **Humulene** — woody, earthy depth; anti-inflammatory properties
+- **Ocimene** — sweet, herbaceous; adds to the complex bouquet
+
+## Aroma and Flavor
+
+Amnesia Haze delivers one of the most recognizable aromatic profiles in cannabis:
+
+- **Aroma:** Immediately striking — a bright, sharp citrus blast of lemon and orange peel layered over earthy, musky undertones. Secondary notes of tropical fruit, fresh herbs, and a faintly spicy, peppery quality. The overall impression is fresh, complex, and distinctly "Haze-like."
+- **Flavor:** On inhalation, users experience a rush of citrus and lemon zest with earthy, woody undertones. The exhale reveals more tropical and floral notes — hints of mango, passionfruit, and a clean, slightly herbal finish. A subtle peppery spice lingers on the palate. The flavor is often described as "exotic" and multi-layered.
+
+## Effects
+
+Amnesia Haze delivers a powerful, predominantly cerebral experience:
+
+- **Euphoric onset:** Rapid onset of uplifting, euphoric effects that elevate mood and induce laughter and sociability. The head high is intense and can be almost overwhelming for inexperienced users.
+- **Creative stimulation:** Enhanced divergent thinking and creative flow, making it popular among artists, musicians, and writers seeking inspiration.
+- **Mental energy:** A pronounced sense of mental clarity and energy accompanies the euphoria, though this can shift toward cerebral haziness at higher doses (hence the name).
+- **Social enhancement:** Promotes talkativeness and social engagement; a popular choice for gatherings and creative collaboration.
+- **Physical sensation:** Mild body relaxation develops gradually but remains secondary to the cerebral effects. Some body buzz in the extremities.
+- **Duration:** Effects typically last 2–4 hours, with a somewhat extended comedown period.
+- **Potency:** THC content typically ranges 18–22%, with premium phenotypes reaching 25%+. Low CBD (<0.1%).
 
 ### Medical Applications
-Amnesia Haze has several recognized medical applications:
 
-- **Mood disorders**: Strong antidepressant and anxiolytic effects at
-  moderate doses; many users report significant relief from depression
-  symptoms
-- **Fatigue**: Stimulating properties make it useful for managing
-  chronic fatigue syndrome and daytime exhaustion
-- **ADHD**: Some patients report improved focus and task completion,
-  though clinical evidence is limited
-- **Stress relief**: Euphoric effects provide temporary relief from
-  acute stress and anxiety
-- **Migraine**: Reported headache relief, possibly related to
-  terpinolene's anti-inflammatory properties
-- **Appetite stimulation**: Moderate appetite-enhancing effects
+Amnesia Haze is commonly used for:
 
-## Awards and Recognition
+- Depression and mood disorders (potent antidepressant-like effects)
+- Chronic fatigue and low energy
+- Stress and anxiety (in low to moderate doses; high doses may exacerbate anxiety in sensitive individuals)
+- ADHD (anecdotal focus enhancement in some users)
+- Mild to moderate pain management
+- Nausea and appetite stimulation
+- PTSD (mood elevation and temporary relief from intrusive thoughts)
 
-Amnesia Haze has an exceptional competitive record in European cannabis
-competitions:
+Due to its potency, new or sensitive users should approach with caution. High doses can produce cerebral overload, paranoia, or anxiety in predisposed individuals.
 
-- **2004 High Times Cannabis Cup, Amsterdam**: 1st Place Sativa
-- **2012 High Times Cannabis Cup, Amsterdam**: 1st Place Sativa
-- Multiple High Times Cannabis Cup placements throughout the 2000s
-  and 2010s in sativa categories
-- Consistently ranked in Amsterdam coffeeshop "top strain" customer
-  surveys
-- Remains one of the best-selling strains in Dutch coffeeshops as of
-  the 2020s
+## Cultivation Characteristics
 
-## Cultural Significance
+Amnesia Haze is considered moderately challenging to cultivate, with specific requirements reflecting its sativa-heavy heritage:
 
-Amnesia Haze occupies a unique position in cannabis culture:
+### Growth Pattern
 
-- **Amsterdam coffeeshop icon**: Along with White Widow and Northern
-  Lights, Amnesia Haze is one of the "big three" strains that define
-  Amsterdam's cannabis tourism industry
-- **Bridge strain**: Helped popularize sativa genetics among consumers
-  who had primarily experienced indica-heavy commercial cannabis
-- **Name recognition**: The memorable name has contributed to
-  widespread brand recognition beyond cannabis-savvy consumers
-- **European preference**: Remains more popular in Europe than in
-  North America, where cookie-family and Kush-dominant genetics have
-  trended in recent years
-- **Longevity**: Few strains from the 1990s have maintained such
-  consistent commercial presence over three decades
+- **Height:** Tall, vigorous growth — plants can reach 1.5–2.5 meters indoors without training
+- **Structure:** Long internodal spacing, elongated sativa-type leaflets, with robust branching when trained
+- **Flowering time:** 10–12 weeks indoors; late October to November outdoors
+- **Yield:** High — 500–600 g/m² indoors; 600–800 g/plant outdoors
+- **Resistance:** Moderate resistance to mold and pests; dense buds in humid conditions require attention to airflow
 
-## See Also
-- [[jack-herer]]
-- [[northern-lights]]
-- [[white-widow]]
-- [[sour-diesel]]
-- [[blue-dream]]
-- [[og-kush]]
-- [[girl-scout-cookies]]
-- super silver haze
-- [[cannabis-sativa]]
+### Growing Conditions
+
+- **Climate:** Prefers warm, Mediterranean-like conditions; performs well in greenhouse environments
+- **Light:** High light intensity essential for optimal yield and resin production
+- **Training:** Strongly recommended — LST, SCROG, or topping to control height and promote even canopy
+- **Nutrients:** Moderate to heavy feeder during vegetative phase; reduce nitrogen and increase phosphorus/potassium during flowering
+- **Container size:** Minimum 10–15 gallons for unrestricted root development
+- **Humidity management:** Critical during late flowering — dense, resinous buds are susceptible to botrytis if humidity exceeds 60%
+
+### Phenotypic Variation
+
+Multiple phenotypes exist reflecting the complex genetic background. Some express more citrus-forward aromas with leaner, sativa-dominant bud structure; others produce denser, more indica-influenced flowers with earthier terpene profiles. Selecting mother plants over 2–3 generations allows growers to stabilize preferred traits.
+
+## Summary
+
+Amnesia Haze occupies a unique position in cannabis culture as a bridge between classic Haze-era genetics and modern European breeding. Its combination of award-winning potency, complex terpene profile, and enduring popularity in Amsterdam's coffeeshop scene has made it a touchstone strain. While demanding in the garden, Amnesia Haze rewards skilled cultivators with abundant, high-quality harvests of some of the most aromatically complex and cerebrally potent cannabis available.

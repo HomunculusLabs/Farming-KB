@@ -1,150 +1,152 @@
 ---
 title: Morinda citrifolia
 type: species
-tags:
-  - herbal-plant
-  - medicinal-plant
-  - tropical-fruit
-  - adaptogen
-  - permaculture
-  - ethnobotany
-  - rubiaceae
-  - traditional-medicine
+tags: [herbal-plants, rubiaceae, polynesian-medicine, adaptogen, permaculture, traditional-medicine]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=morinda+citrifolia+noni
-  - https://pubmed.ncbi.nlm.nih.gov/?term=noni+scopoletin+damnacanthal
-  - Chan-Blanco, Y. et al. (2006). "The Noni Fruit: A Review." Food Rev Int.
-  - West, B.J. et al. (2006). "Morinda citrifolia and the human immune system." J Nat Prod.
+  - https://en.wikipedia.org/wiki/Morinda_citrifolia
+  - https://pubmed.ncbi.nlm.nih.gov/?term=morinda+citrifolia+review+2023
+  - Wang et al., "Morinda citrifolia (Noni): A Comprehensive Review" (2022), Frontiers in Pharmacology
+  - West et al., "Noni: The Complete Guide" (2020), CRC Press
 ---
 
 # Morinda citrifolia
 
-**Noni** | **Indian Mulberry** | **Great Morinda** | **Cheese Fruit** | **Nhau** | **Nonu** | **Apa** | **Mengkudu**
+*Morinda citrifolia*, universally known as noni, is an evergreen shrub or small tree in the coffee family (Rubiaceae) native to Southeast Asia and Australasia. One of the most widely distributed medicinal plants in the tropics, noni has been used in Polynesian traditional medicine for over 2,000 years. The fruit, leaves, bark, and roots have all been employed therapeutically. Despite a controversial reputation in Western markets — fueled by aggressive multi-level marketing in the early 2000s — noni possesses a substantial and growing body of scientific literature supporting several of its traditional uses, particularly in anti-inflammatory, immunomodulatory, and anticancer contexts.
 
-*Morinda citrifolia* is a tropical evergreen shrub or small tree in the coffee family (Rubiaceae) native to Southeast Asia and Australasia. Widely distributed across the Pacific Islands through natural oceanic drift and Polynesian voyaging, it is one of the most important traditional medicinal plants in the Pacific region. All parts of the plant — fruit, leaves, bark, roots, and flowers — have documented ethnobotanical uses, with the fruit being the most commercially significant as the source of noni juice, a globally marketed health supplement.
+## Taxonomy and Botanical Description
 
-## Taxonomy
+- **Kingdom:** Plantae
+- **Clade:** Tracheophytes
+- **Clade:** Angiosperms
+- **Clade:** Eudicots
+- **Clade:** Asterids
+- **Order:** Gentianales
+- **Family:** Rubiaceae
+- **Genus:** *Morinda*
+- **Species:** *M. citrifolia*
 
-- **Kingdom:** Plantae → **Clade:** Angiosperms, Eudicots, Asterids → **Order:** Gentianales
-- **Family:** Rubiaceae → **Genus:** *Morinda* → **Species:** *M. citrifolia* L.
-- **First described:** Carl Linnaeus, 1753 (Species Plantarum)
+### Morphology
 
-The genus contains ~80 species across tropical and subtropical regions. *M. citrifolia* is the most economically and medicinally significant; the epithet *citrifolia* refers to the citrus-like fruit odor.
+Noni is a remarkably hardy and adaptable plant that can assume various growth forms depending on environmental conditions:
 
-## Botanical Description
+- **Habit:** Evergreen shrub to small tree, typically 3–10 m tall but can reach 15 m in ideal conditions. Often appears as a straggling, multi-stemmed shrub in marginal environments
+- **Trunk and branches:** Gray-brown bark, fissured with age. Branches are stiff, spreading, and sometimes distinctly quadrangular in cross-section
+- **Leaves:** Large (15–35 cm long × 8–18 cm wide), opposite, elliptic to ovate, glossy dark green above, paler beneath. Leaf veins are prominent, with 7–9 pairs of lateral veins. Leaves exude a milky latex when damaged
+- **Flowers:** Small (1–1.5 cm), tubular, white to creamy-yellow, fragrant. Born in dense, globose heads on short stalks from leaf axils. Flowers are bisexual and pollinated by insects, particularly flies and moths
+- **Fruit:** The most distinctive feature — an ovoid to ellipsoid syncarp (aggregate fruit) 5–12 cm long, composed of numerous fused berries. Green when immature, turning yellowish-white as it ripens. The ripe fruit has a characteristic, intensely pungent odor variously described as "rancid cheese," "vomit-like," or "fermented" — due to volatile organic compounds including octanoic acid and hexanoic acid. The fruit is edible but the smell limits palatability
+- **Seeds:** Numerous small seeds embedded in the pale pulp, each with an internal air sac that facilitates water dispersal
+- **Root:** A prominent taproot with extensive lateral root system. The root bark is traditionally harvested for its red dye (morindone)
 
-- **Growth habit:** Evergreen shrub to small tree, 3–10 m tall; branching, spreading rounded crown
-- **Trunk:** Gray-brown, rough, fissured bark; wood light, soft, and fibrous; low branching
-- **Leaves:** Opposite, large, glossy dark green, 15–30 cm × 8–15 cm, elliptic to ovate-elliptic, entire margin, prominent midrib; young leaves may bronze
-- **Flowers:** Small, white, tubular, 1.5–2 cm, fragrant; in dense globose heads (2–3 cm) of 20–50 florets; open sequentially
-- **Fruit:** Ovoid syncarp (aggregate fruit), 5–12 cm × 4–7 cm; fused ovaries forming a single compound structure; green → yellow → white when ripe; polygonal-faceted surface; develops pungent "cheese-like" odor when ripe
-- **Seeds:** Numerous, small (~5 mm), angular, buoyant and salt-tolerant — enables oceanic dispersal
-- **Roots:** Extensive lateral system; root bark produces red-orange morindone dye
+### Distribution
 
-## Distribution and Habitat
+Native range extends from Southeast Asia (India, Sri Lanka, Thailand, Malaysia, Indonesia, Philippines) through northern Australia and into the Pacific Islands. Noni is one of the "canoe plants" — species deliberately transported by Polynesian voyagers across the Pacific to Hawai'i, Tahiti, Fiji, Samoa, and other islands. It is now pantropical, naturalized in Central and South America, the Caribbean, West Africa, and southern Florida.
 
-- **Native range:** Southeast Asia (Indonesia, Malaysia, Philippines, PNG), northern Australia, tropical Pacific
-- **Naturalized:** Throughout Pacific Islands (Hawaii, Fiji, Samoa, Tahiti), coastal East Africa, Caribbean, Central/South America, southern Florida
-- **Dispersal:** Oceanic drift (buoyant seeds viable for months in saltwater); also spread by Polynesian canoe voyagers
-- **Habitat:** Coastal forests, lava fields, disturbed sites, forest margins, stream banks; sea level to 500 m
-- **Climate:** Tropical, 20–35 °C, 1000–4000 mm rainfall; drought-tolerant once established; tolerates saline soils
-- **Soil:** Extremely adaptable — sandy, rocky, volcanic, limestone, clay; pH 5.0–8.5
+Noni is one of the first species to colonize lava flows and disturbed coastal sites in the Pacific, demonstrating remarkable tolerance for saline, nutrient-poor, and drought-prone environments.
 
-## Nutritional Profile (Fruit)
+## Phytochemistry
 
-Per 100 g raw ripe fruit (approximate): Calories 44 kcal, Protein 0.9 g, Carbohydrates 9.5 g (sugars ~4 g), Fat 0.3 g, Fiber 2.1 g, Vitamin C 30–50 mg (50–85% DV), Vitamin A 10–15 µg (β-carotene), Niacin 0.8 mg, Iron 0.4 mg, Potassium 30–50 mg, Calcium 15–20 mg. The fruit is low in calories but provides significant vitamin C. Fermented noni juice may have enhanced bioavailability due to microbial transformation.
+Noni fruit contains a diverse and complex phytochemical profile, with over 200 compounds identified:
 
-## Bioactive Compounds
+### Iridoid Glycosides
+The most pharmacologically significant compound class:
+- **Asperulosidic acid** — anti-inflammatory, hepatoprotective
+- **Deacetylasperulosidic acid** — immunomodulatory, anticancer properties
+- **Rubiadin, morindone, and alizarin derivatives** — anthraquinone compounds with antioxidant and potential anticancer activity
 
-*Morinda citrifolia* contains a diverse array of secondary metabolites:
-### Iridoids and Iridoid Glycosides (Primary Bioactives)
-- **Asperuloside:** Major iridoid glycoside; anti-inflammatory, hepatoprotective
-- **Asperulosidic acid:** Immune-modulatory, antioxidant
-- **Deacetylasperulosidic acid:** Anti-inflammatory, analgesic
-- **Scandoside:** Hepatoprotective, antioxidant
-- **Rutin:** Flavonoid glycoside with antioxidant and vascular-protective properties
+### Scopoletin
+A coumarin with documented anti-inflammatory, analgesic, and hepatoprotective properties. Scopoletin levels are higher in ripe fruit compared to unripe.
 
-### Anthraquinones
-- **Damnacanthal:** Most studied anthraquinone; potent tyrosine kinase inhibitor with anticancer activity; antifungal, antibacterial; found in roots and fruit
-- **Morindone:** Red pigment from roots; antimicrobial, antifungal
-- **Alizarin, Rubiadin:** Root bark anthraquinones; traditional dye compounds, antioxidant
+### Damnacanthal
+An anthraquinone compound isolated from noni roots with significant biological activity:
+- Tyrosine kinase inhibitor
+- Induces apoptosis in cancer cell lines
+- Anti-inflammatory via NF-κB pathway modulation
 
-### Coumarins and Phenolics
-- **Scopoletin:** Signature coumarin of noni fruit; anti-inflammatory, analgesic, vasodilatory, hepatoprotective, hypotensive; highest concentration in ripe fruit
-- **Ursolic acid:** Triterpenoid; anti-inflammatory, hepatoprotective, anti-cancer
-- **Quercetin, Kaempferol, EGCG:** Flavonoids with antioxidant, anti-inflammatory, cardioprotective activity
+### Fatty Acids and Lipids
+Noni fruit contains unusual medium-chain fatty acids:
+- **Octanoic acid (caprylic acid)** and **hexanoic acid** — responsible for the characteristic odor
+- **Linoleic, oleic, and palmitic acids** — conventional fatty acids with nutritional value
 
-### Other Compounds
-- **Xeronine (proxeronine):** Controversial alkaloid precursor proposed by Heinicke (1980s); not independently confirmed as a discrete bioactive
-- **Lipids:** Linoleic, oleic, palmitic, and stearic acids
-- **Amino acids:** 17 of 20 standard amino acids including all 9 essential
-- **Enzymes:** Proxeroninase, bromelain-like proteolytic activity
+### Vitamins and Minerals
+- High in vitamin C (ascorbic acid): 30–100 mg/100g in ripe fruit
+- Significant amounts of β-carotene (provitamin A), vitamin E, niacin (B3), iron, and potassium
+- Contains all essential amino acids, though not in nutritionally significant quantities
 
-## Pharmacology and Clinical Research
+### Polysaccharides
+Noni fruit juice contains unique polysaccharide fractions that exhibit significant immunomodulatory activity. These are often referred to collectively as "noni-ppt" (noni precipitate). Research at the University of Hawai'i has shown these polysaccharides can activate dendritic cells and enhance natural killer (NK) cell activity.
 
-### Anti-inflammatory
-- Scopoletin and damnacanthal inhibit COX-2, iNOS, and NF-κB inflammatory signaling pathways
-- Reduces TNF-α, IL-1β, IL-6, and PGE₂ in in vitro and animal models
-- Clinical trials show reduction in CRP (C-reactive protein) and joint pain in osteoarthritis patients
+### Alkaloids
+- **Xeronine** — a proposed alkaloid described by Ralph Heinicke in the 1980s, claimed to be essential for cellular protein function. The xeronine hypothesis is not widely accepted in mainstream biochemistry and lacks independent verification, though it remains influential in commercial noni marketing.
 
-### Immunomodulation
-- Polysaccharide fractions activate macrophages, NK cells, and dendritic cells
-- Enhances phagocytic activity and TNF-α production by macrophages
-- Clinical studies show increased interferon-γ production and enhanced immune response
+## Traditional Uses
 
-### Anticancer Activity
-- Damnacanthal inhibits Ras oncogene signaling and induces apoptosis in cancer cell lines
-- Ethanol extracts show antiproliferative effects against breast, colon, lung, and liver cancer lines
-- Animal models demonstrate tumor volume reduction and enhanced survival
-- Phase I clinical trials in cancer patients show noni juice is well-tolerated and improves quality of life measures
+### Polynesian Medicine
+In traditional Hawaiian and Polynesian medicine (*la'au lapa'au*), virtually every part of the noni plant has a medicinal application:
 
-### Antioxidant
-- Strong DPPH, ABTS, and superoxide radical scavenging activity
-- Reduces lipid peroxidation (MDA levels) in animal models
-- Protects against CCl₄-induced liver oxidative damage
+- **Fruit:** Used internally for digestive complaints, respiratory infections, joint pain, and as a general tonic. Externally as a poultice for wounds, boils, and skin infections
+- **Leaves:** Wrapped around arthritic joints for pain relief. Used as a poultice for headaches and migraines. Steeped for tea to treat fever, cough, and nausea
+- **Bark:** Used as astringent for diarrhea and dysentery. The inner bark produces a red-brown dye used in traditional tapa cloth making
+- **Root:** The most potent part in traditional use. Root bark decoctions were used for hypertension, jaundice, and as a purgative. The red pigment (morindone) was used as a dye for clothing and ceremonial purposes
+- **Flowers:** Used in traditional eye washes and for throat inflammation
 
-### Cardiovascular Effects
-- Scopoletin produces vasodilation through nitric oxide pathway
-- Reduces blood pressure in hypertensive animal models
-- Improves lipid profiles (reduced LDL, increased HDL) in clinical trials
+### Ayurvedic and Southeast Asian Medicine
+In Indian Ayurveda (*Ach* or *Indian mulberry*), noni fruit is used for digestive disorders, rheumatism, and menstrual irregularities. In Thai traditional medicine, the unripe fruit is used as an emetic and purgative, while the ripe fruit is used for digestive complaints.
 
-### Analgesic
-- Central and peripheral analgesic activity demonstrated in rodent models
-- Damnacanthal acts as a selective COX-2 inhibitor
-- Traditional use for joint pain, headache, and menstrual cramps supported by pharmacological data
+### Indonesian Jamu
+In Indonesian traditional medicine (*jamu*), noni (*pace* or *mengkudu*) is incorporated into preparations for hypertension, diabetes, and as a postpartum tonic.
 
-## Traditional and Ethnobotanical Use
+## Modern Clinical Evidence
 
-- **Polynesia (Hawaii, Tahiti, Samoa, Tonga):** Fruit consumed for digestive complaints, respiratory infections, joint pain, skin infections, and as a general tonic; leaves applied as poultices for wounds, boils, insect bites; root bark used as red-orange dye for tapa cloth
-- **Fiji:** Fruit for boils, ringworm, mouth infections; leaf decoction for fever
-- **Samoa:** Fruit for menstrual cramps, UTIs, and diabetes management
-- **Malaysia:** Leaves as poultice for coughs and nausea; fruit for diabetes and hypertension
-- **Indonesia (Jamu):** Fruit and leaves for digestive health and blood purification
-- **Philippines:** Fruit for intestinal parasites and digestive ailments; leaves for arthritis
-- **Ayurveda (India):** Known as "Acha" or "Mengkudu"; blood purifier, digestive aid, topical joint pain treatment
+### Supported Uses (moderate evidence)
+- **Pain reduction:** Several small clinical trials have demonstrated modest analgesic effects of noni fruit juice, particularly for osteoarthritis. A 2011 randomized controlled trial showed significant reduction in neck pain and disability
+- **Blood pressure modulation:** Some evidence for mild antihypertensive effects, though results are inconsistent across studies
+- **Antioxidant status:** Supplementation consistently improves biomarkers of oxidative stress (increased SOD, catalase, reduced lipid peroxidation)
 
-## Permaculture and Agroforestry Applications
+### Preliminary Evidence (small or open-label studies)
+- **Anticancer properties:** In vitro and animal studies show promising activity, but human clinical evidence remains very limited
+- **Immunomodulation:** Polysaccharide fractions enhance immune cell activity in vitro and in animal models
+- **Glycemic control:** Some evidence for improved blood sugar regulation in pre-diabetic populations
+- **Exercise performance:** One study showed improved endurance and reduced oxidative damage in athletes supplementing with noni juice
 
-*Morinda citrifolia* has significant value in tropical permaculture systems:
-- **Pioneer species:** First colonizer of lava fields, disturbed sites, and degraded land; establishes rapidly, improves soil
-- **Nitrogen contribution:** Roots harbor nitrogen-fixing endophytic bacteria (*Bradyrhizobium*-like associates)
-- **Coastal stabilization:** Extensive roots prevent erosion on sandy coasts
-- **Food forest integration:** Understory to mid-canopy tree; year-round fruit; tolerates partial shade
-- **Pest resistance:** Relatively pest-free due to toxic secondary compounds
-- **Polyculture:** Compatible with breadfruit, coconut, taro, banana, and papaya
+### Unsupported or Exaggerated Claims
+Many commercial claims lack scientific basis, including: cure for cancer, HIV/AIDS treatment, diabetes cure, and anti-aging. These exaggerated marketing claims were the subject of FDA warning letters to major noni distributors in the early 2000s.
 
-## Safety and Contraindications
+## Permaculture Applications
 
-- Generally well-tolerated; noni juice has GRAS status in the United States
-- **Potassium content:** High — renal impairment or potassium-sparing medication patients should exercise caution
-- **Hepatotoxicity:** Rare cases reported, primarily with excessive consumption or hepatotoxic drug interactions
-- **Pregnancy/breastfeeding:** Limited safety data; some Pacific Island cultures discourage use during pregnancy
-- **Drug interactions:** May potentiate anticoagulants/antiplatelets; potential CYP3A4 interactions
-- **Blood sugar:** May lower glucose — diabetic patients on medication should monitor closely
+Noni is exceptionally well-suited to permaculture and regenerative agriculture systems in tropical and subtropical climates:
+
+### Ecological Functions
+- **Pioneer species:** One of the first plants to colonize degraded land, lava fields, and disturbed coastal areas. Builds soil through leaf litter and root activity
+- **Nitrogen fixation association:** While not a nitrogen fixer itself, noni is associated with mycorrhizal networks that enhance soil nitrogen cycling
+- **Erosion control:** Extensive root system stabilizes slopes and coastal soils
+- **Windbreak:** Dense, flexible canopy provides wind protection for understory crops
+- **Wildlife support:** Fruit feeds birds, fruit bats, and insects. Flowers attract pollinators
+- **Salt tolerance:** Grows well in coastal areas with salt spray, making it valuable for coastal restoration
+
+### Integration in Food Forests
+- **Canopy layer:** Functions as a small understory tree or mid-canopy element
+- **Edge plant:** Excellent for zone 1-2 placement near dwelling areas for convenient medicinal harvest
+- **Companion planting:** Provides shade for understory herbs and shade-loving crops
+- **Low maintenance:** Once established, requires virtually no irrigation, fertilization, or pest management
+
+### Propagation
+- **Seed:** Most common method. Seeds germinate readily in 3–8 weeks when fresh. Pre-soaking in water for 24 hours improves germination rates. Seed viability declines rapidly — sow within a few months of harvest
+- **Cuttings:** Stem cuttings (30–60 cm, semi-hardwood) root readily in humid conditions. Produces fruit faster than seed-grown plants (1–2 years vs. 3–5 years)
+- **Suckers:** Root suckers can be separated and transplanted
+
+## Safety Considerations
+
+- **Potassium content:** Noni fruit is exceptionally high in potassium. Patients with renal impairment or on potassium-sparing medications should exercise caution due to risk of hyperkalemia
+- **Hepatotoxicity:** Several case reports have associated noni juice consumption with hepatotoxicity, though causality is debated. Most commercial products are considered safe at recommended doses
+- **Pregnancy:** Traditional use as an emmenagogue (menstruation promoter) suggests contraindication in pregnancy, though systematic safety data is lacking
+- **Drug interactions:** Potential interactions with anticoagulants (warfarin), antihypertensives, and immunosuppressants based on pharmacological properties
 
 ## See Also
-- [[mitragyna-speciosa]] — Another tropical medicinal plant in Rubiaceae with complex pharmacology
-- [[cymbopogon-citratus]] — Tropical aromatic herb with medicinal applications
-- [[food-forest-permaculture]] — Permaculture integration of tropical food-bearing species
+
+- [[Canoe Plants of Polynesia]]
+- [[Iridoid Glycosides]]
+- [[Polynesian Traditional Medicine]]
+- [[Rubiaceae Medicinal Plants]]
+- [[Tropical Permaculture Pioneers]]
