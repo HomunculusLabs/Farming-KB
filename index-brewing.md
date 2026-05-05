@@ -2,7 +2,7 @@
 
 > Fermented foods, beverages, probiotics, and traditional fermentation methods
 
-**38 pages**
+**39 pages**
 
 ## A
 
@@ -69,6 +69,7 @@
 
 ## S
 
+- [[smartshops]]
 - [[sourdough-bread-guide]]
 
 ## T

@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2311 pages**
+**2315 pages**
 
 ## #
 
@@ -484,6 +484,8 @@
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
 - [[eleusinian-mysteries-ergot-theory]]
 - [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
+- [[emcdda-hallucinogenic-mushroom-sclerotia-truffle-products]]
+- [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]
 - [[endobacteria-arbuscular-mycorrhizal-fungi]]
 - [[endolithic-fungi-rock-colonizing-communities]]
 - [[endomycorrhizal-fungi-sampling]]
@@ -559,6 +561,7 @@
 - [[fly-agaric-western-literature]]
 - [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
 - [[formulation-and-delivery-of-fungal-inocula]]
+- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[freshwater-fungal-habitats-conservation-urgency]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[freshwater-fungi-biodiversity]]
@@ -2124,6 +2127,7 @@
 - [[spore]]
 - [[spore-dispersal]]
 - [[spore-dispersal-mechanisms]]
+- [[spore-interstellar-dispersal-hypothesis]]
 - [[spore-print]]
 - [[spore-print-collection]]
 - [[spore-printing-and-syringe-preparation]]

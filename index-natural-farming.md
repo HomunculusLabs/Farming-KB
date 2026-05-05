@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**840 pages**
+**841 pages**
 
 ## A
 
@@ -332,6 +332,7 @@
 - [[fukuoka-pest-balance-without-chemicals]]
 - [[fukuoka-pest-ecology]]
 - [[fukuoka-pest-management-without-chemicals]]
+- [[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-philosophy-eating]]
 - [[fukuoka-philosophy-in-practice]]
 - [[fukuoka-philosophy-of-mu-and-nature]]

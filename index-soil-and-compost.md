@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**390 pages**
+**389 pages**
 
 ## A
 
@@ -102,7 +102,6 @@
 - [[dynamic-accumulator-plants-phosphorus]]
 - [[dynamic-accumulator-plants-potassium]]
 - [[dynamic-accumulator-plants-trace-minerals]]
-- [[dynamic-accumulators]]
 - [[dynamic-accumulators-overview]]
 - [[dynamic-nutrient-accumulators]]
 

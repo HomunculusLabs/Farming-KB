@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1162 pages**
+**1177 pages**
 
 ## #
 
@@ -41,6 +41,7 @@
 - [[acetyl-protection-route-psilocin-psilocybin-synthesis]]
 - [[aem-pihkal-entry-1]]
 - [[al-pihkal-entry-2]]
+- [[alan-shoemaker-ayahuasca-legal-peru]]
 - [[albert-hofmann-eleusinian-potion-analysis]]
 - [[aleph-2-pihkal-entry-4]]
 - [[aleph-4-pihkal-entry-5]]
@@ -73,6 +74,8 @@
 - [[ayahuasca-additive-plants-and-dmt-synergy]]
 - [[ayahuasca-botany-and-preparation]]
 - [[ayahuasca-brewing-guide]]
+- [[ayahuasca-commercial-vs-authentic-ceremony-dynamics]]
+- [[ayahuasca-diy-home-brewing-as-tourism-alternative]]
 - [[ayahuasca-interactions-with-prescription-medications]]
 - [[ayahuasca-pharmacology]]
 - [[ayahuasca-preparation]]
@@ -217,6 +220,7 @@
 - [[entheogen-bwiti-iboga-initiation-fang-society]]
 - [[entheogen-cimora-folk-healing-ceremony]]
 - [[entheogen-culture]]
+- [[entheogen-etymology-and-terminology]]
 - [[entheogen-jivaro-natem-shamanism]]
 - [[entheogen-jurema-mimosa-hostilis-ethnobotany]]
 - [[entheogen-tetrapteris-methystica-alternative-caapi]]
@@ -268,6 +272,7 @@
 - [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
 - [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
 - [[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]]
+- [[fukuoka-textdoc-clay-pellet-seed-coating-direct-seeding]]
 - [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
 - [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
@@ -275,6 +280,7 @@
 - [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]]
 - [[fukuoka-textdoc-critique-mechanization-agriculture]]
 - [[fukuoka-textdoc-decline-quality-food]]
+- [[fukuoka-textdoc-desert-rainfall-vegetation-cycle-nature-dissected]]
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
 - [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
 - [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]
@@ -307,6 +313,7 @@
 - [[fukuoka-textdoc-genetic-engineering-critique-warning]]
 - [[fukuoka-textdoc-getting-natural-diet]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
+- [[fukuoka-textdoc-happy-hill-rice-strain-world-food]]
 - [[fukuoka-textdoc-hillside-garden-terrace-soil-preparation]]
 - [[fukuoka-textdoc-hotel-building-model-harvest-yields]]
 - [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
@@ -362,11 +369,13 @@
 - [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]]
 - [[fukuoka-textdoc-orchard-terracing-slope-management]]
 - [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
+- [[fukuoka-textdoc-paddy-ecosystem-spider-frog-dragonfly-balance]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management]]
 - [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]
 - [[fukuoka-textdoc-philosophy-mu-buddhist-roots-natural-farming]]
+- [[fukuoka-textdoc-phyllotaxy-natural-tree-form-against-pruning]]
 - [[fukuoka-textdoc-pine-forest-ecosystem-collapse-chain]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse]]
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
@@ -621,6 +630,7 @@
 - [[mckenna-dioscorea-population-reproduction-effects]]
 - [[mckenna-discovery-and-impact-of-lsd]]
 - [[mckenna-dissolution-of-the-dominator-culture]]
+- [[mckenna-distillation-and-the-birth-of-synthetic-drugs]]
 - [[mckenna-dmt-amazonian-ecosystems]]
 - [[mckenna-dmt-entities-borges-and-archaic-secret]]
 - [[mckenna-dmt-experience-and-hyperspace]]
@@ -974,6 +984,7 @@
 - [[psilocybin-serotonin-mimic-thalamic-filter-model]]
 - [[psilocybin-shelf-life-stability]]
 - [[psilocybin-stoned-ape-hypothesis-critique]]
+- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
 - [[psilocybin-therapeutic-applications]]
 - [[psilocybin-therapy]]
 - [[psilocybin-tolerance-cross-tolerance]]
@@ -1036,6 +1047,7 @@
 ## Q
 
 - [[qualitative-comments-methodology-pihkal]]
+- [[quantum-mechanical-correlates-of-hallucinogenesis]]
 
 ## R
 
@@ -1091,10 +1103,12 @@
 - [[set-and-setting]]
 - [[set-and-setting-eleusinian-initiation-methodology]]
 - [[set-and-setting-framework]]
+- [[shamanic-healing-variants-and-divination]]
 - [[shamanic-powers-ayahuasca]]
 - [[shamanic-trance-cross-cultural-patterns]]
 - [[shamanic-use-of-psychedelics]]
 - [[shanshi-coriaria-thymifolia-andean-entheogen]]
+- [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
 - [[shipibo-icaros-healing-songs]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
 - [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
@@ -1229,6 +1243,7 @@
 - [[weil-psychedelic-experience-set-and-setting]]
 - [[weil-the-mind-drug-relationship-paradigm]]
 - [[weil-the-natural-mind-altered-states-normalcy]]
+- [[western-spiritual-tourism-chronology]]
 - [[williams-pdc-stacking-functions-and-system-integration]]
 
 ## Y
