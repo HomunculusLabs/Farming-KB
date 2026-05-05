@@ -125,3 +125,4 @@ fungal diversity in a state of taxonomic limbo.
 - [[fungal-taxonomy]]
 - species delimitation
 - [[environmental-dna-metabarcoding]]
+- [[gymnopus-dryophilus]]

@@ -113,3 +113,4 @@ Analytical considerations for agaritine research present additional challenges:
 - monomethylhydrazine — Hydrolysis product of gyromitrin; structurally related to agaritine's hydrazine moiety
 - [[shiitake-strain-classification-and-substrate-formulas]] — *Lentinula edodes*, an edible mushroom containing trace agaritine and numerous beneficial compounds
 - [[amanita-phalloides]] — Death cap mushroom producing structurally distinct but similarly concerning fungal toxins (amatoxins)
+- [[macrolepiota-procera]]

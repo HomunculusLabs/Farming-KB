@@ -120,3 +120,8 @@ Antibiotics remain the first-line antimicrobial for most clinical and agricultur
 Bacteriophages offer a complementary approach — narrow-spectrum, self-amplifying, environmentally benign, and effective against biofilms and MDR strains. In agriculture, phages are already proving their value as targeted biocontrol agents that protect crops without collateral damage to beneficial microbiota.
 
 The most effective future strategies will likely combine both modalities, using antibiotics for broad initial coverage and phages for targeted follow-up, resistance management, and environmentally sensitive applications.
+
+## See Also
+
+- [[crop-rotation-principles]]
+- [[integrated-pest-management]]

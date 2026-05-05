@@ -120,3 +120,4 @@ Spores of *P. cubensis*, including Golden Teacher, are legal to possess and sell
 - [[psilocybin]]
 - [[mushroom-cultivation-basics]]
 - [[psilocybin-mushroom-potency-comparison-by-species]]
+- [[golden-teacher-psilocybe-cubensis]]

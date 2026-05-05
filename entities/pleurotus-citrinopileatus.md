@@ -126,6 +126,10 @@ Golden oyster mushrooms have become naturalized in parts of North America and Eu
 
 ## See Also
 
+- [[biological-efficiency]]
+- [[candida-albicans]]
+- [[ergosterol]]
+
 - [[Pleurotus ostreatus]] — Common oyster mushroom, the most widely cultivated *Pleurotus* species
 - [[Pleurotus eryngii]] — King oyster mushroom, known for its thick stem and meaty texture
 - [[Trametes versicolor]] — Turkey tail mushroom, another prolific wood-decay fungus with medicinal properties

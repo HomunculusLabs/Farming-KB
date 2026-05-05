@@ -143,6 +143,10 @@ The Three Sisters concept has been widely adapted in permaculture and sustainabl
 
 ## See Also
 
+- [[agroecology]]
+- [[companion-planting]]
+- [[decomposition]]
+
 - [[Milpa]] — Mesoamerican companion planting system · [[Companion planting]] — broader concept
 - [[Nitrogen fixation]] — biological process mediated by Rhizobium · [[Polyculture]] — multi-species agriculture
 - [[Food forest]] — perennial multi-layered planting · [[Cover crop]] · [[Dynamic accumulator]] · [[No-till farming]]

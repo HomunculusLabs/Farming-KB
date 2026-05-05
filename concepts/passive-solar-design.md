@@ -134,3 +134,4 @@ Even the best passive solar design fails without proper insulation and air seali
 - [[masonry-heater-design]]
 - [[tiny-house-on-wheels]]
 - [[cob-building-basics-detailed]]
+- [[passive-humidity-fruit-chamber-polyethylene-sheeting]]

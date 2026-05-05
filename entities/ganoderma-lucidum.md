@@ -135,6 +135,10 @@ Ganoderma lucidum fits into permaculture systems as a valuable tree-dependent mu
 
 ## See Also
 
+- [[decomposition]]
+- [[ergosterol]]
+- [[food-forest]]
+
 - [[Ganoderma tsugae]] — North American hemlock-associated species
 - [[Trametes versicolor]] — Turkey tail, another polypore medicinal mushroom
 - [[β-Glucans]] — Polysaccharide class central to medicinal mushroom activity

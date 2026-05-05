@@ -145,6 +145,8 @@ Traditional respiratory use is supported by bronchodilatory and antiasthmatic ef
 
 ## See Also
 
+- [[cannabis-sativa-morphology-and-plant-architecture]]
+
 - [[ashwagandha-withania-somnifera]] — Another adaptogenic herb with extensive research
 - [[bacopa-monnieri]] — Nootropic Ayurvedic herb with complementary actions
 - [[ocimum-sanctum]] — Tulsi — Rasayana herb with overlapping anti-inflammatory properties

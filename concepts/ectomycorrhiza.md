@@ -129,3 +129,5 @@ is a critical uncertainty in climate-ecosystem models.
 - [[fungal-ecology]]
 - [[mycelium]]
 - forest ecology
+- [[clavulina-cristata]]
+- [[scleroderma-citrinum]]

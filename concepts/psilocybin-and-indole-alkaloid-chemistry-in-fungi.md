@@ -159,3 +159,4 @@ condition.
 - [[Psilocybe cubensis Distribution and Ecology]]
 - [[Psilocybe Diversity in Mexico]]
 - [[Sacred Mushroom Traditions in Mexico]]
+- [[mitragynine]]

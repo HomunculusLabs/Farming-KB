@@ -131,3 +131,9 @@ Companion planting is one of the easiest prevention strategies. Pair these plant
 ---
 
 *Remember: the goal is management, not eradication. A healthy garden always has some insects—most are helpful or harmless. Focus on building a resilient ecosystem and intervening only when pest damage threatens your harvest.*
+
+## See Also
+
+- [[bacillus-thuringiensis]]
+- [[companion-planting]]
+- [[integrated-pest-management]]

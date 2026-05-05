@@ -140,3 +140,4 @@ The extracted material is best kept in a dry, airtight container under refrigera
 - [[mushroom-strain-preservation-senescence]] — maintaining long-term cultures
 - [[psilocybin-mushroom-cultivation-basics]] — standard fruiting methods
 - [[psilocybin-potency-dosage-guide]] — dosing the extracted material
+- [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]

@@ -84,3 +84,4 @@ changes.
 ## Notes for Further Development
 - Add local observations when available.
 - Add source-specific details when a matching source is identified.
+- [[n-n-dimethyltryptamine]]

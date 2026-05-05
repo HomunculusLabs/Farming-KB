@@ -136,3 +136,5 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - berry growing guide for companion small fruit management
 - [[apple-tree-care]] for companion orchard tree care
 - [[backyard-orchard-design]] for integrating blueberries into orchard layouts
+- [[blueberry-cannabis]]
+- [[blue-cheese]]

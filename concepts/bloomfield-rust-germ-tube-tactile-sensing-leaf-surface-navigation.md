@@ -114,3 +114,8 @@ The distribution of stomata on cereal leaves is itself an evolutionary adaptatio
 ### Implications for Resistance Breeding
 
 Knowledge of the rust's tactile sensing mechanisms opens several avenues for breeding resistant crops. If the fungus requires a 0.5 µm ridge to recognize a stoma, then leaf surface modifications that alter the microtopography of the stomatal region — for example, increasing or decreasing the height of the guard cell lips — could disrupt the recognition process. Plant breeders could potentially select for varieties whose stomatal topography is invisible to the rust germ tube's tactile sensors, providing a physical defense that does not depend on chemical signaling pathways that the pathogen might evolve to circumvent.
+
+## See Also
+
+- [[plant-defense-mechanisms]]
+- [[rust-fungi]]

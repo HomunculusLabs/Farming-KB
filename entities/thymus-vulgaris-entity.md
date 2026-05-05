@@ -146,3 +146,5 @@ Thyme has one of the longest documented histories of medicinal use:
 - [[lavandula-angustifolia-entity]]
 - Ocimum basilicum
 - [[salvia-officinalis]]
+- [[glechoma-hederacea]]
+- [[prunella-vulgaris]]

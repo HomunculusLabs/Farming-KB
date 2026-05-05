@@ -145,3 +145,4 @@ In TCM, the dried, roasted silkworm feces (called "Can Sha") are also used medic
 3. Asano, N., et al. (1994). "Sugar-mimic glycosidase inhibitors: Natural occurrence, biological activity and prospects." *Tetrahedron: Asymmetry*, 5(9), 1645–1680.
 4. Sánchez, M.D. (2002). "Mulberry for animal production." FAO Animal Production and Health Paper No. 147.
 5. Kimura, T., et al. (2007). "Food-grade mulberry powder enriched with 1-deoxynojirimycin suppresses the elevation of postprandial blood glucose." *Journal of Agricultural and Food Chemistry*, 55(14), 5869–5874.
+- [[lonicera-caerulea]]

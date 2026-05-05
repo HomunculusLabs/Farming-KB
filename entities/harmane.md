@@ -138,3 +138,9 @@ Substances Act, etc.). Ayahuasca legality varies by jurisdiction.
 N-oxidation to harmane N-oxide, ring hydroxylation, glucuronidation/
 sulfation of hydroxylated metabolites. Urinary excretion. Half-life
 estimated 2–6 hours (animal data). Hepatic metabolism via CYP enzymes.
+
+## See Also
+
+- [[ayahuasca-pharmacology]]
+- [[banisteriopsis-caapi]]
+- [[dmt]]

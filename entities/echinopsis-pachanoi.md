@@ -102,3 +102,4 @@ E. pachanoi is legal to grow as an ornamental in most countries. However, its cu
 - [[plants-of-the-gods-amanita-muscaria]] (concept page)
 - [[trichocereus-pachanoi]]
 - [[psilocybin-mushroom-distribution-worldwide]]
+- [[hordenine]]

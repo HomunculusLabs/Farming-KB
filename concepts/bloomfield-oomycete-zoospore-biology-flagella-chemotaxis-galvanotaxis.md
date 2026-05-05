@@ -113,3 +113,9 @@ The different sporangial emptying mechanisms allow field identification of water
 The sporangial development process can be observed directly by collecting water mold specimens from ponds. Because the appearance of the sporangium changes in a predictable fashion, the moment of discharge can be estimated with great accuracy. An experienced mycologist can glance at a specimen and predict that spores will be expelled from a particular sporangium within 30 seconds. The process repeats as new sporangia develop, providing hours of material for observation and experimental manipulation.
 
 On a molecular scale, the behavior of zoospores echoes the vitality observed in all living cells under the microscope. Any biologist who has poked individual cells with needles knows that none of them embrace death — they all squirm and try to seal their leaking membranes. The motility of zoospores simply makes their determination to survive more visible to the observer.
+
+## See Also
+
+- [[marine-oomycete-zoospore-biology-encystment]]
+- [[fungal-zoospore-biology-and-flagellate-motility]]
+- [[bloomfield-pythium-oomycete-water-molds]]

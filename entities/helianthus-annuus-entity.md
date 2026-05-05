@@ -143,6 +143,8 @@ when incorporated into soil.
 | Fiber | 8.6 g | 34% |
 | Vitamin E | 35.2 mg | 234% |
 ## See Also
+
+- [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[moringa-oleifera]]
 - [[acacia]]
 - [[robinia-pseudoacacia]]

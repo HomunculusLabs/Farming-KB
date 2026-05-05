@@ -142,3 +142,4 @@ and death.
 - [[lophophora-williamsii]] — North American psychoactive cactus
 - [[anadenanthera-colubrina]] — South American [[tryptamine]] tree
 - [[tabernanthe-iboga]] — African iboga shrub with ibogaine
+- [[atropine]]

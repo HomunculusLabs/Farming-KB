@@ -118,3 +118,4 @@ metal-contaminated sites.
 - [[paxillus-involutus]]
 - [[laccaria-laccata]]
 - [[suillus-granulatus]]
+- [[suillus-pungens]]

@@ -135,3 +135,7 @@ substances and strengthens the case for their scientific investigation.
 See also: [[powell-gaian-mind-and-entheogenic-flora]],
 Powell [[natural-intelligence]] And The Universal Computation,
 [[powell-shamanic-wisdom-and-ritual-practice]]
+
+## See Also
+
+- [[tassili-n-ajjer-and-the-saharan-eden]]

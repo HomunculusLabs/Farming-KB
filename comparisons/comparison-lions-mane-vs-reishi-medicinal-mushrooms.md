@@ -123,3 +123,5 @@ Yes — Lion's Mane and Reishi are widely considered one of the best medicinal m
 ## See Also
 
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
+- [[ganoderic-acids]]
+- [[ganoderma-lucidum]]

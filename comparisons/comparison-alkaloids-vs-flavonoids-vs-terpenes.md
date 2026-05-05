@@ -143,3 +143,9 @@ Modern analytical techniques differ in suitability across the three classes:
 | TLC with Dragendorff's reagent | Alkaloid screening | Selective for nitrogenous bases |
 
 These complementary methods ensure comprehensive phytochemical profiling when investigating medicinal plants or evaluating herbal product quality.
+
+## See Also
+
+- [[artemisia-annua]]
+- [[artemisinin]]
+- [[berberine]]

@@ -79,3 +79,5 @@ As a psilocybin-containing species, *P. salicinus* is illegal to possess, cultiv
 - [[pluteus-nigroviridis]]
 - [[pluteus-americanus]]
 - [[psilocybin]]
+- [[pluteus-glaucus]]
+- [[pluteus-salvinus]]

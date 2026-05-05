@@ -145,3 +145,7 @@ Microgreens are the faster entry point for new growers, while shoots offer bette
 Choose **microgreens** when speed, concentrated flavor, and rapid turnover are priorities. They are ideal for small spaces, quick market entry, and garnish-focused production.
 
 Choose **shoots** when maximizing yield per seed, extending harvest windows, and producing a sturdier, longer-shelf-life product are more important. Pea and sunflower shoots in particular offer excellent commercial potential with manageable growing requirements.
+
+## See Also
+
+- [[appropriate-technology]]

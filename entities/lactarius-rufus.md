@@ -139,3 +139,4 @@ Lactarius rufus is unique among ectomycorrhizal fungi in its exceptional value a
 - [[amanita-muscaria-cultural-history]] - ectomycorrhizal species with low pure-culture nematode support
 - [[hymenoscyphus-ericae]] - ericoid mycorrhizal fungus with moderate nematode support in pure culture
 - pinus contorta - lodgepole pine host species in peatland nitrogen enrichment studies
+- [[lactarius-torminosus]]

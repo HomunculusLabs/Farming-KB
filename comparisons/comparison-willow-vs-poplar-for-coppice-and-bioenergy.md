@@ -140,3 +140,9 @@ Combining willow and poplar in zoned plantings across variable topography can ma
 ## Conclusion
 
 There is no universally superior choice between willow and poplar for coppice and bioenergy. Willow is the more adaptable species, capable of producing reliable biomass on marginal, wet, and contaminated sites where few other crops can thrive. Its lower establishment cost, shorter rotations, and superior environmental remediation capacity make it the default recommendation for difficult land and cooler climates. Poplar, with higher peak yields, better fuel quality, and greater market flexibility, is the stronger choice on productive, well-drained land in warmer regions. For most projects, site conditions and climate should be the primary decision drivers rather than theoretical yield comparisons. On heterogeneous sites, mixed zoned plantings offer the best of both worlds.
+
+## See Also
+
+- [[agroforestry]]
+- [[phytoremediation]]
+- [[pollinator-habitat]]

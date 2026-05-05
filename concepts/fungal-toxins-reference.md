@@ -126,3 +126,5 @@ Most countries regulate aflatoxin levels in food:
 See [[psychedelic-mushroom-taxonomy]] for identification of potentially confused species and [[fungal-infections-human]] for diseases caused by pathogenic fungi.
 ## Related
 - [[fungal-allergies]]
+- [[salicin]]
+- [[illudin]]

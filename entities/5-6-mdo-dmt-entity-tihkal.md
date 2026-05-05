@@ -90,3 +90,4 @@ Shulgin, A. and Shulgin, A. (1997). Tryptamines I Have Known and Loved: The Chem
 - [[5-6-mdo-dipt-entity-tihkal]] - the diisopropyl member
 - [[4-5-mdo-dmt-entity-tihkal]] - the 4,5-isomer
 - [[tihkal-introduction-and-methodology]] - overview of the TIHKAL project
+- [[5-mapb]]

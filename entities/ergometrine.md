@@ -151,3 +151,9 @@ alkaloid chemistry. Albert Hofmann, in the same Sandoz laboratory, would
 later modify the ergometrine structure to create LSD in 1938. Ergometrine
 thus bridges ancient ergot-based folk medicine and the modern era of
 serotonergic drug discovery.
+
+## See Also
+
+- [[albert-hofmann]]
+- [[argyreia-nervosa]]
+- [[claviceps-paspali]]

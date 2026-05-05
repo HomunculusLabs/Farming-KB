@@ -16,7 +16,6 @@ updated: 2026-04-28
 sources:
   - raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 ---
-
 # Mycelial Network Nutrient Transport and Pulsatile Dynamics
 Basidiomycetes are the major agents of decomposition and nutrient cycling in forest
 ecosystems, occurring as both saprotrophs and mycorrhizal symbionts.
@@ -190,6 +189,9 @@ nitrogen deposition, and land-use modifications.
 
 ## See Also
 
+- [[decomposition]]
+- [[fungal-intelligence]]
+- [[mycelial-networks]]
 - [[Fungi in the Environment]] for the broader context of environmental mycology
 - [[Saprotrophic fungi]] for the ecological role of decomposer fungi
 - [[Mycorrhizal networks]] for related transport networks in mutualistic fungi

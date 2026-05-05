@@ -148,3 +148,9 @@ The primary limitation of ursolic acid as a therapeutic agent is its poor aqueou
 ## Relevance
 
 Ursolic acid is arguably the most pharmacologically versatile dietary triterpenoid, modulating an extraordinary breadth of molecular targets with implications across inflammatory, metabolic, neoplastic, and neurodegenerative diseases. Its ubiquity in common foods — especially apples, rosemary, and Mediterranean herbs — means it contributes significantly to the health benefits of plant-rich diets, providing a molecular basis for traditional dietary wisdom. Current research focuses on overcoming its bioavailability limitations through advanced drug delivery systems, with several ursolic acid derivatives entering preclinical and early clinical development as anticancer and anti-inflammatory agents. In the context of integrative medicine and permaculture nutrition, ursolic acid exemplifies how a single compound found across hundreds of plant species can serve as a unifying biochemical explanation for the therapeutic effects of diverse herbal traditions worldwide.
+
+## See Also
+
+- [[halpern-lysergic-acid-amide-plants-and-pharmacology]]
+- [[ashwagandha]]
+- [[ganoderma-lucidum]]

@@ -114,6 +114,10 @@ sources:
 - Commercial cultivation reduced wild harvest pressure; Yunnan established protected reserves
 
 ## See Also
+
+- [[auricularia-auricula]]
+- [[biological-efficiency]]
+- [[ergosterol]]
 - Naematelia aurantialba (alternate basionym in some classifications)
 - Tremella fuciformis (snow fungus / 白木耳)
 - Stereum hirsutum (hairy stereum — host fungus)

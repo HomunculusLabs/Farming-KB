@@ -121,3 +121,8 @@ Both species share a broad pharmacological profile: anti-inflammatory, antioxida
 ## Conclusion
 
 *Moringa oleifera* and *Moringa stenopetala* are complementary rather than competing species. *M. oleifera* is the workhorse of global moringa production — faster, more studied, and commercially dominant. *M. stenopetala* fills an important ecological niche as a cooler-climate, milder-flavored, mineral-rich alternative particularly suited to East African agroforestry. In regions where both can grow, interplanting the two species can extend harvest windows, diversify flavor profiles, and build resilience into moringa-based food and income systems.
+
+## See Also
+
+- [[agroforestry]]
+- [[moringa-oleifera]]

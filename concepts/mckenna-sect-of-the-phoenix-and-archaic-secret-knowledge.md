@@ -142,3 +142,4 @@ visionary plants.
 - [[mckenna-psychedelic-shamanism]]
 - [[mckenna-inquisition-suppression-of-plant-knowledge]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
+- [[mckenna-dmt-entities-borges-and-archaic-secret]]

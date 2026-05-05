@@ -133,3 +133,4 @@ recommended in vulnerable areas.
 - [[rubus-idaeus-entity]] — raspberry, a companion understory fruit
 - [[morus-alba]] — mulberry, a compatible food-forest canopy tree
 - [[symphytum-officinale]] — comfrey, complementary permaculture biomass plant
+- [[ak-47]]

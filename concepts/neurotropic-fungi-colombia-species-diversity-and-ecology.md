@@ -170,6 +170,10 @@ distribution, ecology, and chemistry of Colombia's neurotropic fungi.
 
 ## See Also
 
+- [[amanita-muscaria]]
+- [[copelandia-cambodginiensis]]
+- [[copelandia-cyanescens]]
+
 - [Neurotropic Fungi in South America](guzman-allen-gartz-neurotropic-fungi-south-america.md)
 - [Neurotropical Psilocybe Species](guzman-allen-gartz-neotropical-psilocybe-species.md)
 - [Psilocybe Cubensis Distribution and Ecology](psilocybe-cubensis-distribution-and-ecology.md)

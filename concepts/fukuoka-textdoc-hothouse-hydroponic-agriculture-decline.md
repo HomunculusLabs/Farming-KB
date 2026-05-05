@@ -147,3 +147,7 @@ The chemical interventions further degrade the growing environment, requiring st
 ## Connection to Natural Farming Principles
 
 The critique of hothouse and hydroponic agriculture is a specific application of Fukuoka's broader principle that nature cannot be improved upon through human intervention. The movement from open-field cultivation to sealed artificial environments represents the same error that underlies all of scientific agriculture: the belief that isolating and optimizing individual variables can produce results superior to the integrated, self-regulating system of nature. In natural farming, the soil itself is the growing medium, sunlight is the energy source, and the complex ecosystem of microorganisms, insects, and plants provides all the conditions necessary for healthy crop production. No artificial system, no matter how sophisticated, can replicate this integration.
+
+## See Also
+
+- [[natural-farming]]

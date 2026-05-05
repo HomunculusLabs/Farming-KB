@@ -118,6 +118,9 @@ GMO has gained significant traction in medical cannabis communities:
 
 ## See Also
 
+- [[girl-scout-cookies]]
+- [[granddaddy-purple]]
+
 - [[Girl Scout Cookies]] — Foundational parent strain from the Cookie genetic line
 - [[Chemdawg]] — The other parent, contributing diesel pungency and potency
 - [[OG Kush]] — Influential ancestor in the Chemdawg lineage

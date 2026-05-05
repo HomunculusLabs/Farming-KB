@@ -186,3 +186,9 @@ This layered approach combines the strengths of both materials and is particular
 Ramial wood chips and composted wood chips are complementary tools, not competing alternatives. Ramial chips excel at building fungal-dominant soil biology, cycling minerals from woody waste, and providing long-term mulch benefits for perennials. Composted chips provide immediate fertility, balanced biology, and versatile application for annuals and general soil improvement. The best approach is often to use both — compost for quick results and ramial chips for long-term soil health.
 
 *For perennial systems, start with ramial wood chips. For annual beds and quick fertility, use composted wood chips. For the best of both worlds, layer them.*
+
+## See Also
+
+- [[cation-exchange-capacity]]
+- [[composting]]
+- [[decomposition]]

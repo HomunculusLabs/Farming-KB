@@ -145,3 +145,4 @@ Yields vary enormously by season, weather, and tree health.
 - [[permaculture-plant-catalog]] -- maple tree profiles
 - [[candle-making]] -- other homestead production
 - [[food-fermentation-guide]] -- value-added food processing
+- [[viburnum-opulus]]

@@ -186,3 +186,5 @@ Moringa is considered one of the most valuable species in tropical permaculture 
 - [[azadirachta-indica]] — Neem, companion multipurpose tree in Indian agriculture
 - [[leucaena-alley-cropping-systems]] — Leucaena, another fast-growing multipurpose leguminous tree
 - [[permaculture-design-principles-beginners]] — Design framework integrating species like moringa
+- [[houttuynia-cordata]]
+- [[pueraria-montana]]

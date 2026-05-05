@@ -139,6 +139,8 @@ sources:
 
 ## See Also
 
+- [[glucuronidation]]
+
 - [[Kava]] — the plant *Piper methysticum* and its ethnobotany
 - [[GABA-A Receptor]] — primary target of kavalactone anxiolysis
 - [[Benzodiazepines]] — pharmaceutical comparison for anxiolytic efficacy

@@ -124,3 +124,8 @@ After experiencing the tribulations of water management, you will be better prep
 In building and maintaining the levee, the farmer engages in a dialogue with the land itself. The mud-coated farmer working on his levee is engaged in what Fukuoka called "artistic and religious work" — the transformation of raw earth into a life-sustaining structure through the application of traditional knowledge, patient observation, and physical skill.
 
 This is the opposite of the alienated labor characterizing industrial agriculture; it is work that connects the farmer to the land, to the community, and to the natural processes that make all life possible.
+
+## See Also
+
+- [[natural-farming]]
+- [[water-management]]

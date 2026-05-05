@@ -147,3 +147,9 @@ speculative.
   with distinct biological activities
 - **Oxyresveratrol:** 2,3',4,5'-tetrahydroxy stilbene from mulberry;
   potent tyrosinase inhibitor
+
+## See Also
+
+- [[enzyme-inhibition]]
+- [[glucuronidation]]
+- [[saccharomyces-cerevisiae]]

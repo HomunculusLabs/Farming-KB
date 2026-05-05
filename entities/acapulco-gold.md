@@ -139,6 +139,10 @@ Acapulco Gold's genetics contributed to numerous foundational cannabis strains:
 
 ## See Also
 
+- [[botrytis-cinerea]]
+- [[colombian-gold]]
+- [[thai-stick]]
+
 - [[Colombian Gold]] — Colombian landrace companion strain
 - [[Thai Stick]] — Southeast Asian landrace, partner in Haze creation
 - [[Skunk #1]] — Hybrid carrying Acapulco Gold genetics

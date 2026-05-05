@@ -1,3 +1,12 @@
+---
+title: Actaea Racemosa
+created: 2026-05-05
+updated: 2026-05-05
+type: entity
+tags: [species, herbalism]
+sources: [raw/papers/medicinal-herb-profiles.md]
+---
+
      1|---
      2|title: Actaea racemosa
      3|type: species

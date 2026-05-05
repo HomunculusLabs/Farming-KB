@@ -146,3 +146,4 @@ contraindicated in pregnancy.
 - [[ipomoea-tricolor]]
 - [[argyreia-nervosa]]
 - [[psilocybin]]
+- [[ergine]]

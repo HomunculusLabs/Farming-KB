@@ -123,3 +123,5 @@ White Widow's cultural significance extends far beyond its properties as a canna
 - [[northern-lights-cannabis]] — Indica-dominant classic often compared alongside White Widow
 - [[chemdawg]] — Chemdawg lineage, a key genetic contributor to many modern hybrids
 - [[amnesia-haze]] — Sativa-dominant coffee shop classic from the same era
+- [[white-runtz]]
+- [[white-rhino]]

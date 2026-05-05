@@ -126,3 +126,10 @@ A rectangular patch of bark with a bud is exchanged between scion and rootstock.
 5. **No aftercare:** Protect unions from wind, animals, and sun. Remove wrapping before it constricts growth. Remove rootstock suckers below the union.
 6. **Dirty tools:** Sterilize grafting knives with rubbing alcohol between cuts to prevent disease transmission (especially fire blight on pome fruits).
 7. **Incompatible varieties:** Some combinations are biologically incompatible (e.g., some quince rootstocks with certain pear varieties). Always verify compatibility before grafting.
+
+## See Also
+
+- [[fruit-tree-guild-roles]]
+
+- [[mollison-designers-grafting-and-budding-fruit-trees]]
+- [[grafting-fruit-trees]]

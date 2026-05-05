@@ -156,3 +156,9 @@ For smallholders, both crops offer excellent returns per hectare compared to sta
 ## Conclusion
 
 Turmeric and ginger are complementary crops that share enough cultivation requirements to be intercropped or rotated effectively. Choosing between them — or growing both — depends on climate (ginger needs more heat and moisture), market access (fresh ginger requires faster logistics), and intended end-use (medicinal extracts favor turmeric; culinary and beverage markets favor ginger). Both are excellent additions to tropical permaculture systems, providing food security, income diversification, and ecological benefits through ground cover and soil improvement.
+
+## See Also
+
+- [[curcuma-longa]]
+- [[integrated-pest-management]]
+- [[permaculture]]

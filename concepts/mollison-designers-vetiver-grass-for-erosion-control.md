@@ -127,3 +127,4 @@ forming a dense continuous hedge.
 - [[mollison-tropical-mulch-systems-and-materials]]
 - [[mollison-barrier-plants-in-garden-design]]
 - [[mollison-wet-dry-tropical-design-strategies]]
+- [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]

@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Postwar Japanese Agricultural Mechanization Collapse
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [natural-farming, fukuoka]
+sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
+---
+
      1|---
      2|title: Postwar Japanese Agricultural Mechanization and Village Collapse
      3|tags:
@@ -148,3 +157,8 @@
    148|vanish, weasels and snakes that feed on them also decline. To protect the
    149|weasels, man then begins raising mice to restore the rodent population. "Isn't
    150|this the stuff of crazed dreams?" Fukuoka asks, illustrating how each
+
+## See Also
+
+- [[masanobu-fukuoka]]
+- [[natural-farming]]

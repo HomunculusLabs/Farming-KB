@@ -144,3 +144,4 @@ appears so much more wondrous."
 - [[hofmann-lsd-consciousness-and-philosophy]]
 - [[lsd-discovery-and-history]]
 - [[hofmann-lsd-pharmacology-and-effects]]
+- [[ernst-gotsch]]

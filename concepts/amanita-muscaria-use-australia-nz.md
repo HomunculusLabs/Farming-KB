@@ -132,3 +132,4 @@ almost universally rejected by users after a single experience.
 - [[fly-agaric-siberian-shamanic-practice]] -- traditional Siberian use
 - [[soma-controversy-fly-agaric-as-divine-mushroom]] -- the Soma hypothesis
 - [[amanita-muscaria-resurrection-experiments]] -- modern rediscovery
+- [[amanita-jacksonii]]

@@ -139,3 +139,9 @@ bodies are scheduled as controlled substances.
 | P. galindoi | Mexican; common commercial source | Yes |
 | P. atlantis | Moroccan; larger sclerotia | Yes |
 | P. cubensis | Most widely cultivated | No |
+
+## See Also
+
+- [[baeocystin]]
+- [[fruiting-conditions]]
+- [[norbaeocystin]]

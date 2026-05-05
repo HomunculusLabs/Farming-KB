@@ -148,3 +148,4 @@ A 2019 meta-analysis concluded elderberry supplementation substantially reduced 
 - [[ocimum-tenuiflorum]]
 - [[glycyrrhiza-glabra]]
 - [[permaculture]]
+- [[aesculus-hippocastanum]]

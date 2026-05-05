@@ -111,8 +111,7 @@ worms accelerate decomposition and their castings are among
 the finest fertilizers available. A [[natural-farming-guide-vermicomposting-and-worm-based-soil-building|vermiculture]]
 system can be scaled to fit any context from apartment balconies to
 large rural properties, making it one of the most versatile
-composting strategies available to the [[permaculture-design-methodology|permaculture
-designer]].
+composting strategies available to the [[permaculture-design-methodology|permaculture designer]].
 
 ## Composting as Integral to Permaculture Design
 

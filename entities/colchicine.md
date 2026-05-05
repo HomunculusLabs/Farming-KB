@@ -176,6 +176,8 @@ its role in cardiovascular medicine.
 
 ## See Also
 
+- [[cervantes-colchicine-polyploidy-mutagenesis]]
+
 - [[Colchicum autumnale]]
 - [[Gloriosa superba]]
 - [[Podophyllotoxin]]

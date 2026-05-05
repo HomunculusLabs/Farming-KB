@@ -135,6 +135,8 @@ via CB2 receptor agonism.
 
 ## See Also
 
+- [[cannabis-hindu-kush-strain-description-clarke]]
+
 - [[og-kush]] — Classic West Coast strain; common cross-breeding partner
 - [[granddaddy-purple]] — Fellow purple indica with overlapping effects profile
 - [[blueberry-growing-guide]] — Blueberry parent strain

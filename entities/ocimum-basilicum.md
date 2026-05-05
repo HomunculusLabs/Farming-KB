@@ -141,6 +141,10 @@ claims remains limited:
 
 ## See Also
 
+- [[companion-planting]]
+- [[food-forest]]
+- [[food-forest-permaculture]]
+
 - [[Mentha piperita]]
 - [[Rosmarinus officinalis]]
 - [[Lavandula angustifolia]]

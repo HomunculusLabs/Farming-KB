@@ -133,6 +133,10 @@ The strain's commercial success helped establish the "cookie family" lineage as 
 
 ## See Also
 
+- [[girl-scout-cookies]]
+- [[low-stress-training]]
+- [[permanent-marker]]
+
 - [[Girl Scout Cookies]] — grandparent strain
 - [[Alien Kush]] — parent lineage
 - [[Caryophyllene]] — dominant terpene

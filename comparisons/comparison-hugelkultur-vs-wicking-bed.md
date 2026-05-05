@@ -126,3 +126,4 @@ Some gardeners combine elements of both: building a hugelkultur-style mound with
 - [[comparison-swale-design-vs-hugelkultur]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
+- [[comparison-hugelkultur-vs-syntropic-agriculture]]

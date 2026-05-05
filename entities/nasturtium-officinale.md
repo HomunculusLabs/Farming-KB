@@ -146,3 +146,9 @@ Watercress offers multiple functions in permaculture design:
 ## Relevance
 
 Nasturtium officinale holds a unique position at the intersection of nutrition science, traditional medicine, and sustainable agriculture. As the most nutrient-dense commonly consumed vegetable, it represents an underutilized crop in modern food systems with significant potential for scaling in aquaponic and permaculture contexts. Its bioactive glucosinolates, particularly PEITC, place it among the most promising dietary sources of natural chemopreventive compounds. For permaculture practitioners, watercress exemplifies multi-functional plant design: food production, water purification, erosion control, and habitat creation in a single compact, perennial species.
+
+## See Also
+
+- [[aquaponics]]
+- [[dom]]
+- [[permaculture]]

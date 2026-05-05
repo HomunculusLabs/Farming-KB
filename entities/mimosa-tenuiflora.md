@@ -18,7 +18,6 @@ sources:
   - Ott, J. (1994). Ayahuasca Analogues: Pegaan Huasca. Natural Products Co.
   - Albuquerque, U.P. et al. (2011). "The use of plants in northeastern Brazil." Journal of Ethnopharmacology.
 ---
-
 # Mimosa tenuiflora (Jurema / Jurema Preta)
 
 ## Overview
@@ -127,9 +126,7 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 ### Agroforestry and Permaculture
 
 | System | Role | Benefits |
-
 (Section truncated for length.)
-
 - **Biodiversity support**: Flowers provide nectar for bees and butterflies; branches provide bird habitat
 - **Living fence**: Spiny branches make it an effective barrier when planted as a hedge
 
@@ -194,3 +191,9 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 - **Threats**: Overharvesting for root bark (entheogenic market); habitat destruction from agricultural expansion and urbanization; climate change increasing drought frequency in the Caatinga
 - **Conservation**: Protected in some Brazilian states; cultivation programs encouraged to reduce wild harvest pressure
 - **Sustainable sourcing**: Ethical suppliers cultivate *M. tenuiflora* specifically for bark harvest, using coppicing methods that allow plant regeneration
+
+## See Also
+
+- [[agroforestry]]
+- [[bacillus-subtilis]]
+- [[candida-albicans]]

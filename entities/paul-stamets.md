@@ -156,6 +156,10 @@ Stamets' work has profoundly influenced permaculture practice:
 
 ## See Also
 
+- [[beauveria]]
+- [[beauveria-bassiana]]
+- [[composting]]
+
 - [[Mycelium Running]] — Key text on applied mycology
 - [[Trametes versicolor]] — Turkey Tail, central to Stamets' antiviral research
 - [[Hericium erinaceus]] — Lion's Mane, featured in Stamets' cognitive health work

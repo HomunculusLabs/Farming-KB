@@ -142,6 +142,10 @@ As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 
 ## See Also
 
+- [[agaricus-bisporus]]
+- [[david-arora]]
+- [[lepista-sordida]]
+
 - [[Tricholomataceae]]
 - [[Cortinarius]] — toxic look-alike genus
 - [[Pleurotus ostreatus]] — commonly cultivated alternative

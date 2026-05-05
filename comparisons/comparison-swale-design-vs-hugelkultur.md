@@ -136,3 +136,4 @@ manual reference
 swale design
 - [[sepp-holzer-terracing-and-hugelkultur]] for Holzer's combined earthworks 
 approach
+- [[comparison-hugelkultur-vs-keyline-design]]

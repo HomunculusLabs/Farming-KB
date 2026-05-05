@@ -122,3 +122,9 @@ The prevalence of species associated with Eucalyptus (P. eucalypta, P. australia
 distinctive southern hemisphere plant genus. New Guinea presents a particularly interesting case with species
 described by Heim including [[Psilocybe kumaenorum]] and several [[Boletus]] and [[Russula]] species associated with
 Kuma ceremonial use, though the neurotropic status of some of these boletes remains disputed.
+
+## See Also
+
+- [[copelandia-cyanescens]]
+- [[fungal-evolution]]
+- [[neurotropic-fungi]]

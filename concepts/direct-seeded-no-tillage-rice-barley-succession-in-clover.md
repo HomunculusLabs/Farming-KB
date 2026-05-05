@@ -127,3 +127,5 @@ Fukuoka's method was studied at a large number of agricultural testing stations 
 - [[Clay Pellet Seed Broadcasting]]
 - [[Natural Farming vs Scientific Agriculture]]
 - [[Masanobu Fukuoka]]
+- [[clay-pellet-seed-broadcasting]]
+- [[clay-pellet-seed-encapsulation]]

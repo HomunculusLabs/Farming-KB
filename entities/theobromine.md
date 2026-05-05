@@ -147,3 +147,9 @@ beverage and ceremonial substance.
 | Theophylline | 1,3-dimethylxanthine | Methyls at 1,3 (not 3,7), stronger bronchodilator |
 | Paraxanthine | 1,7-dimethylxanthine | Primary caffeine metabolite |
 | 7-Methylxanthine | 7-methylxanthine | Primary theobromine metabolite |
+
+## See Also
+
+- [[caffeine]]
+- [[dom]]
+- [[ilex-guayusa]]

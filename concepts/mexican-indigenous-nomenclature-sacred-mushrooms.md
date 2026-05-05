@@ -115,8 +115,7 @@ neurotropic properties remain uncertain. The Trique Indians of Alta
 Mixteca use [[Cordyceps capitata]] and [[Cordyceps ophioglossoides]]
 alongside [[Psilocybe muliercula]] in nocturnal ceremonies, calling
 them hombrecitos (little men) and mujercitas (little women)
-respectively. The host fungi [[Elaphomyces granulatus]], [[Elaphomyces
-muricatus]], and [[Elaphomyces reticulatus]] are placed at the ceremony
+respectively. The host fungi [[Elaphomyces granulatus]], [[Elaphomyces muricatus]], and [[Elaphomyces reticulatus]] are placed at the ceremony
 center as a director. These Elaphomyces are also used separately to
 heal wounds and to rejuvenate the organism.
 

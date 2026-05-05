@@ -122,3 +122,9 @@ animals; all may become exquisite fare. Only man, having alienated
 himself from nature, cannot partake directly of its bounty.
 See also: [[Natural Farming]], [[Do Nothing Farming]],
 [[Clay Pellet Seed Encapsulation]]
+
+## See Also
+
+- [[clay-pellet-seed-encapsulation]]
+- [[do-nothing-farming]]
+- [[masanobu-fukuoka]]

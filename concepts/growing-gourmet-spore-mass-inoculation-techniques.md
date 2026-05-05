@@ -141,3 +141,7 @@ lack of experience, equipment, and intellectual conflict are
 contributing factors. In mushroom culture, intransigence to
 new ideas has often prevailed, as the slightest variation
 from the norm has resulted in expensive failures.
+
+## See Also
+
+- [[critical-mass]]

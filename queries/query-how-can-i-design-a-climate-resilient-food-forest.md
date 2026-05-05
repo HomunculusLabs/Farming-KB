@@ -168,3 +168,9 @@ Keep a journal. Replace failures with different species or provenances — that'
 ---
 
 **Remember**: A climate-resilient food forest is never "finished." It's a living system you co-evolve with. Start small, observe deeply, and trust that diversity and thoughtful design will carry you through. Every tree you plant is an act of hope backed by good science.
+
+## See Also
+
+- [[agroforestry]]
+- [[food-forest]]
+- [[graywater-systems]]

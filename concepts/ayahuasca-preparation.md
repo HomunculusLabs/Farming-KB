@@ -122,3 +122,4 @@ Traditional ayahuasca use involves dietary restrictions, partially pharmacologic
 - [[ayahuasca-visions]] for phenomenology and artistic interpretation
 - [[pablo-amaringo]] for the artistic tradition of ayahuasca imagery
 - [[psychedelic-compounds-reference]] for comparison with other entheogenic substances
+- [[tabernaemontana-divaricata]]

@@ -146,3 +146,9 @@ more productive, more sustainable, and far less labor-intensive than
 conventional methods.
 See also: [[Clay Pellet Seed Encapsulation]], [[Natural Farming]],
 [[Green Manure Cover Cropping]]
+
+## See Also
+
+- [[clay-pellet-seed-encapsulation]]
+- [[masanobu-fukuoka]]
+- [[natural-farming]]

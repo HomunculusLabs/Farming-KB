@@ -127,3 +127,8 @@ rather than indole alkaloids, representing an entirely different pharmacological
 [[Cordyceps]] species produce ergot alkaloids, a third distinct chemical route to neurotropic activity. This
 chemical diversity across genera suggests that neurotropic properties have evolved independently multiple times in
 fungal evolution, representing convergent evolution toward psychoactive secondary metabolite production.
+
+## See Also
+
+- [[baeocystin]]
+- [[fungal-evolution]]

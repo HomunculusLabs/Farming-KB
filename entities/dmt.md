@@ -139,3 +139,8 @@ The development of extended-release DMT formulations (e.g., SPL026 intravenous b
 | Peru | Legal for traditional and ceremonial use |
 | Netherlands | Not specifically scheduled (legal for possession/consumption) |
 | Canada | Schedule III; clinical trials authorized |
+
+## See Also
+
+- [[harmalol]]
+- [[harmane]]

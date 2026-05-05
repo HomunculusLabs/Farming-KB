@@ -119,6 +119,8 @@ menus across legal markets in North America and Europe. It has also served as
 a parent or genetic contributor to several newer strains in the tropical-
 flavored category.
 ## See Also
+
+- [[cannabis-hindu-kush-strain-description-clarke]]
 - [[og-kush]]
 - [[granddaddy-purple]]
 - [[sour-diesel]]

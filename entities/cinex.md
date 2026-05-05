@@ -121,3 +121,7 @@ Cinex is popular in the solventless extraction community due to its heavy resin 
 Bubble hash yields are above average at 3–5% by weight of 120μ+ grade material.
 Live rosin pressed from fresh-frozen Cinex bubble hash retains the bright citrus terpene profile and commands premium pricing in artisanal concentrate markets.
 The strain's moderate cannabinoid-to-terpene ratio (high terpenes relative to total cannabinoids) makes it particularly well-suited for full-spectrum products.
+
+## See Also
+
+- [[cannabis-sativa]]

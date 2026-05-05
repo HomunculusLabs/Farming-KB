@@ -120,3 +120,7 @@ The depth of connection to the Gaian collectivity of organic life determines the
 The consequence of the severed connection to the vegetable mind is the modern world, a planet dying under moral anesthesia. Suppression of the feminine and of knowledge of the natural world has been the hallmark of the intervening centuries. The next evolutionary step must involve not only a repudiation of dominator culture but a rebirth of awareness of the Goddess through the vegetable mind.
 
 The medieval Church conducted the great witch burnings to suppress all knowledge of plants such as thorn apple, deadly nightshade, and monkshood. The role of these plants in nocturnal activities was never stressed in Inquisition accounts, because the Church had no interest in a Devil diminished to relying on mere herbs. A natural explanation for phenomena attributed to demonic possession would have reduced the Devil to a carnival conjurer.
+
+## See Also
+
+- [[terence-mckenna]]

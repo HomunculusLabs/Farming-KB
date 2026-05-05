@@ -121,3 +121,4 @@ sources:
 - [[piper-methysticum-entity]] — another aromatic tropical plant with anxiolytic and ceremonial uses
 - [[cymbopogon-flexuosus]] — genus overview and comparison with East Indian lemongrass (C. flexuosus)
 - [[tagetes-lucida]] — another aromatic companion plant with pest-deterrent and ceremonial properties
+- [[vetiveria-zizanoides]]

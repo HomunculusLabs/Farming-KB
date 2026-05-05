@@ -149,3 +149,6 @@ Many Mexican neurotropic fungi are threatened by:
 - [[Neurotropic Fungi Classification]]
 - [[Psilocybe mexicana]]
 - [[Copelandia Genus]]
+- [[neurotropic-fungi-of-mexico-and-mesoamerica]]
+- [[amanita-muscaria]]
+- [[amanita-pantherina]]

@@ -181,3 +181,9 @@ When gravity feed isn't possible:
 5. **Neglecting the watershed**: Upstream erosion fills the pond with sediment. Address watershed management before or during construction.
 6. **Ignoring regulations**: Unpermitted ponds can result in fines, removal orders, and liability.
 7. **Placing the pond too low**: Gravity-fed irrigation requires elevation. Place ponds high and irrigate downhill.
+
+## See Also
+
+- [[bill-mollison]]
+- [[dam-construction]]
+- [[homesteading]]

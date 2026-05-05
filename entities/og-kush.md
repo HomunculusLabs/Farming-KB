@@ -144,6 +144,10 @@ commercial strains sold today.
 
 ## See Also
 
+- [[blue-dream]]
+- [[bubba-kush]]
+- [[durban-poison]]
+
 - [[Blue Dream]] — West Coast companion, sativa-dominant hybrid
 - [[Sour Diesel]] — Chemdawg-descended, contrasting sativa profile
 - [[Girl Scout Cookies]] — Notable OG Kush descendant

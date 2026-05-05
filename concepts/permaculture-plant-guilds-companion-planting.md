@@ -147,3 +147,7 @@ Plants with natural pest-deterrent properties:
 
 Plants for windbreaks, privacy screens, and animal barriers:
 - Hedging: taupata, alder, hazel, russian olive, elderberry, hawthorn,
+
+## See Also
+
+- [[companion-planting-guilds]]

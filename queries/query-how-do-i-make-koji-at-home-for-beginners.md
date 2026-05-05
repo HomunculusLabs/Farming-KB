@@ -134,3 +134,7 @@ butter** (try it on toast or steak). Each project unlocks new dimensions of flav
 | Long-term storage | Freezer, up to 6 months |
 
 Happy fermenting! 🍚✨
+
+## See Also
+
+- [[aspergillus-oryzae]]

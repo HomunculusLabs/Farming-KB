@@ -101,8 +101,7 @@ poisoning a significant risk for amateur foragers who might mistake them for edi
 [[Inocybe aeruginascens]] was discovered in Hungary by Babos (1968) and became famous in Berlin during the 1980s
 when it fruited abundantly in urban parks. It produces [[psilocybin]], [[psilocin]], and the unique compound
 [[aeruginascin]]. [[Inocybe coelestium]] is found in Austria, the Netherlands, Germany, and Czech Republic.
-[[Inocybe corydalina]] (including var. corydalina and var. erinaceomorpha) is distributed across Europe. [[Inocybe
-haemacta]] ranges from Austria to Norway and Ukraine. [[Inocybe tricolor]] is documented from Italy, Switzerland,
+[[Inocybe corydalina]] (including var. corydalina and var. erinaceomorpha) is distributed across Europe. [[Inocybe haemacta]] ranges from Austria to Norway and Ukraine. [[Inocybe tricolor]] is documented from Italy, Switzerland,
 and Israel.
 
 ## Claviceps and Cordyceps: The Ergot Alkaloid Producers
@@ -112,8 +111,7 @@ alkaloids, a chemically distinct class of neurotropic compounds related to lyser
 
 [[Claviceps purpurea]] is the classic ergot fungus parasitizing rye and other grasses, containing [[ergotamine]],
 ergocristine, ergocryptine, and related compounds. It is widely distributed across temperate regions
-worldwide and has been responsible for numerous historical episodes of ergotism (St. Anthony's Fire). [[Claviceps
-paspali]] (= C. rolfesii) parasitizes [[Paspalum]] grasses in tropical and subtropical regions and is the source of
+worldwide and has been responsible for numerous historical episodes of ergotism (St. Anthony's Fire). [[Claviceps paspali]] (= C. rolfesii) parasitizes [[Paspalum]] grasses in tropical and subtropical regions and is the source of
 [[lysergic acid amide]] (LSA). [[Claviceps nigricans]] and C. tripsicii are additional species with ergot alkaloid
 content found in Europe and the Americas.
 

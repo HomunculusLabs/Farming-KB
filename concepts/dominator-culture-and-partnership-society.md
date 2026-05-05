@@ -104,3 +104,4 @@ sugar, slavery, and dominance
 ## Related
 
 - [[mckenna-mushroom-stones-of-guatemala]]
+- [[partnership-and-dominator-models]]

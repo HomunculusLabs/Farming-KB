@@ -122,3 +122,9 @@ may be warranted.
   the agar-phase results of the Gartz experiment
 - [[Brassinosteroid enhancement of mushroom yield and dry mass]] for the
   fruiting-phase results on supplemented substrates
+
+## See Also
+
+- [[agaricus-bisporus]]
+- [[brassinosteroid]]
+- [[fruiting-body-development]]

@@ -121,3 +121,4 @@ Mentioned by Holzer as a well-established remedy. Sage nutrient content is great
 - [[sepp-holzer-method]] — Holzer's broader [[permaculture]] philosophy and techniques
 - [[alkaline-soil-plants]] — many medicinal herbs tolerate alkaline conditions
 - [[soil-food-web-nutrient-cycling]] — healthy soil grows more potent medicinal plants
+- [[tanacetum-parthenium]]

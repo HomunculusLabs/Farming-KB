@@ -142,3 +142,7 @@ caused by roundworm parasites." Shared one-half; other half to Tu Youyou.
 - **S. hygroscopicus**: Producer of rapamycin (sirolimus)
 - **S. venezuelae**: Producer of chloramphenicol
 - **S. lividans**: Heterologous expression host for BGCs
+
+## See Also
+
+- [[streptomyces]]

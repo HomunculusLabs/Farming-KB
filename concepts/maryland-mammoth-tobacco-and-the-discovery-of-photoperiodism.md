@@ -143,8 +143,7 @@ colleagues in the same USDA laboratory led to the finding that plants
 respond specifically to red and far-red light in regulating their
 photoperiodic responses.
 
-The [[chamovitz-photoperiodism-phytochrome-plant-vision|phytochrome
-system]] acts as a biological switch: red light activates one molecular
+The [[chamovitz-photoperiodism-phytochrome-plant-vision|phytochrome system]] acts as a biological switch: red light activates one molecular
 form, far-red light reverts it to another. In nature, the last light at
 dusk contains more far-red wavelengths, effectively turning off the
 phytochrome system each evening. In the morning, red light from the

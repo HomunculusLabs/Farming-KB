@@ -135,3 +135,9 @@ Choose cob when you have good on-site subsoil, live in a dry or temperate climat
 ## Hybrid Approach
 
 Some builders combine both materials: cob for thermal-mass interior walls and papercrete for insulating exterior walls. This hybrid leverages the strengths of each while mitigating individual weaknesses. As with any alternative building method, prototype on a small structure before committing to a full build.
+
+## See Also
+
+- [[cob-construction]]
+- [[homesteading]]
+- [[natural-building]]

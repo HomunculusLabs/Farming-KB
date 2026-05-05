@@ -140,3 +140,4 @@ The unpredictable nature of pain crises creates chronic hypervigilance and antic
 - [[cannabis-for-chronic-pain]]
 - [[cannabis-for-neuropathic-pain]]
 - Anti-inflammatory effects
+- [[blesching-cannabis-sickle-cell-disease]]

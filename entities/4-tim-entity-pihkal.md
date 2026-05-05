@@ -98,3 +98,4 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[pihkal-introduction-and-methodology]]
 
 - PIHKAL (the source book)
+- [[4-aco-met]]

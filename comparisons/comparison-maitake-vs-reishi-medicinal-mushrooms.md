@@ -129,3 +129,9 @@ Both are commercially cultivated at scale, though wild-harvested specimens are s
 ## Conclusion
 
 Maitake and reishi represent complementary approaches to medicinal mushroom use. Maitake offers the unique advantage of dual culinary and medicinal value, with strong evidence for immune cell activation via its distinctive β-glucan profile. Reishi stands out for its unparalleled traditional pedigree, broad adaptogenic profile, and the added therapeutic dimension of triterpenes. For immune-focused protocols, both are supported by reasonable evidence; for stress, sleep, and anti-inflammatory applications, reishi has a stronger rationale. Choosing between them often depends on whether culinary use is desired, sensitivity to bitterness, and specific therapeutic goals.
+
+## See Also
+
+- [[biological-efficiency]]
+- [[ergosterol]]
+- [[ganoderic-acids]]

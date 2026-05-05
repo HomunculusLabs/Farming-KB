@@ -16,7 +16,6 @@ updated: 2026-04-28
 sources:
   - raw/papers/uwe-blesching-the-cannabis-health-index.md
 ---
-
 # Cannabis Health Index Evidence-Based Framework Scoring System
 The Cannabis Health Index (CHI) developed by Uwe Blesching represents an ambitious
 attempt to bring systematic evidence-based medicine (EBM) principles to the
@@ -26,11 +25,9 @@ address what Blesching identified as a critical gap in medical cannabis research
 the absence of a standardized, transparent scoring methodology that could translate
 the rapidly growing body of cannabis research into actionable clinical guidance for
 patients and healthcare providers.
-
 ## Motivation and Context
 
 (Section content removed for length. See source for full details.)
-
 ## Hierarchical Evidence Rating
 
 The CHI employs a hierarchical rating system that draws on established EBM
@@ -54,7 +51,6 @@ analyses, and that studies with adequate controls for confounding variables are 
 informative than uncontrolled observations.
 This nuanced approach to evidence quality reflects the complexity of medical cannabis
 research, where study designs vary widely in their methodological rigor.
-
 ## The CHI Scoring Matrix
 
 The core innovation of the CHI is its scoring matrix, which assigns numerical values
@@ -79,7 +75,6 @@ quickly identify conditions where the evidence base is strongest and where clini
 confidence is highest.
 This quantitative approach to evidence synthesis was novel in the medical cannabis
 literature at the time of publication.
-
 ## Condition-Specific Evaluation Protocol
 
 For each medical condition addressed, the CHI follows a structured evaluation
@@ -97,7 +92,6 @@ The endocannabinoid system's role in the condition's pathophysiology is assessed
 provide a mechanistic rationale, even when direct clinical evidence is lacking.
 This mechanistic evidence is weighted separately from clinical evidence but
 contributes to the overall assessment.
-
 ## Cannabinoid and Terpenoid Interactions
 
 A distinctive feature of the CHI framework is its systematic consideration of
@@ -115,7 +109,6 @@ isolated cannabinoids.
 The CHI framework's willingness to evaluate multi-component preparations alongside
 single-molecule studies positions it as a more ecologically valid assessment tool
 than frameworks restricted to pharmaceutical-grade cannabinoid isolates.
-
 ## Dosing and Administration Route Analysis
 
 The CHI framework systematically catalogs the administration routes and dosing
@@ -135,7 +128,6 @@ information into standardized units to enable cross-study comparison.
 This standardization effort, while imperfect, represents a significant improvement
 over the unstructured presentation of dosing data typical of medical cannabis
 literature.
-
 ## Strengths of the CHI Approach
 
 The CHI framework's primary strength lies in its transparency.
@@ -190,6 +182,9 @@ typical in either pro- or anti-cannabis advocacy contexts.
 
 ## See Also
 
+- [[cannabis-health-index]]
+- [[endocannabinoid-system]]
+- [[uwe-blesching]]
 - [[Cannabis therapeutics evidence hierarchy]] for detailed evidence level
   definitions
 - [[Endocannabinoid system clinical pharmacology]] for the biological basis of

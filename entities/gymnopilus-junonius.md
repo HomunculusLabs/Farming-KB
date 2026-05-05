@@ -139,3 +139,8 @@ While some collections contain psilocybin, the variable chemistry means identifi
 The genus Gymnopilus contains non-psychoactive species that could be confused with psychoactive ones.
 
 No fatalities have been reported from consumption, but gastrointestinal distress is possible.
+
+## See Also
+
+- [[gymnopilus-ventricosus]]
+- [[gymnopilus-viridans]]

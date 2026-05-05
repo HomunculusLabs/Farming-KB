@@ -129,3 +129,4 @@ A. nervosa has become an invasive species in several tropical regions:
 - [[rivea-corymbosa]] — taxonomic synonym, traditional Aztec entheogen
 - lsd — synthetic derivative of LSA
 - ergot — fungal source of ergoline alkaloids
+- [[ergometrine]]

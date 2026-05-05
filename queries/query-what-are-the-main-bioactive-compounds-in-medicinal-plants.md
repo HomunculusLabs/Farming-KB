@@ -133,3 +133,9 @@ The following table maps 17 common medicinal plants to their primary bioactive c
 This is not an exhaustive list — thousands of medicinal plants have documented bioactive compounds. The plants above represent some of the most well-studied and widely used in both traditional and modern herbal medicine.
 
 > **Note:** This table is a simplified overview. Most medicinal plants contain bioactive compounds from multiple classes, and their effects often overlap. The "primary" class listed reflects the compound group most responsible for the plant's characteristic therapeutic activity. Always research specific plants thoroughly before use.
+
+## See Also
+
+- [[artemisia-annua]]
+- [[artemisinin]]
+- [[ashwagandha]]

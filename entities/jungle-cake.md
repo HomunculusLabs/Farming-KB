@@ -1,149 +1,150 @@
 ---
-title: "Jungle Cake"
+title: Jungle Cake
 type: strain
-tags: [cannabis, hybrid, wedding-cake, white-fire-43, strain-profile, THC-dominant]
+tags:
+  - cannabis-strain
+  - hybrid
+  - indica-dominant
+  - wedding-cake-genetics
+  - jungle-boys
+  - high-thc
+  - dessert-terpene-profile
 date: 2026-04-28
 updated: 2026-04-28
-sources: ["https://www.leafly.com/strains/jungle-cake", "https://www.allbud.com/marijuana-strains/hybrid/jungle-cake"]
+sources:
+  - https://www.leafly.com/strains/jungle-cake
+  - https://www.allbud.com/jungle-cake-strain
+  - https://wikileaf.com/strain/jungle-cake/
 ---
+
 # Jungle Cake
-## Overview
-Jungle Cake is a potent hybrid cannabis strain that has gained significant popularity in the
-United States legal cannabis market since approximately 2018.
-It is renowned for its exceptionally high THC content, dense and frosty bud structure, and a
-complex flavor profile that blends sweet, earthy, and peppery notes.
-The strain delivers a balanced yet powerful experience, combining cerebral euphoria with deep
-physical relaxation, making it a favorite among both recreational and medical consumers.
-Its visually striking flowers, often displaying deep purple and vibrant green hues covered in
-a thick layer of trichomes, have made it a standout on dispensary shelves.
-## Lineage & Genetics
-Jungle Cake is a cross between two highly regarded parent strains: White Fire #43 (also known
-as WiFi #43 or White Fire OG) and Wedding Cake.
-White Fire #43 contributes its potent, uplifting effects and a reputation for high resin
-production, passing on significant THC potential and a robust genetic backbone.
-Wedding Cake, itself a descendant of Girl Scout Cookies and Cherry Pie, lends its
-characteristically sweet, vanilla-tinged flavor profile and dense, colorful bud morphology.
-The combination of these two powerhouse genetics results in a hybrid that expresses the best
-traits of both lineages — potency from the White Fire side and complex sweetness from the
-Wedding Cake side.
-Jungle Cake typically leans slightly indica-dominant in its effects, though the hybrid
-expression can vary depending on the specific phenotype and growing conditions.
-## Aroma & Flavor Profile
-Jungle Cake presents a rich and multi-layered aromatic experience that reflects its premium
-genetic heritage.
-The dominant scent is a sweet, creamy vanilla aroma inherited directly from its Wedding Cake
-parent, accompanied by subtle notes of earthy dough and baked goods.
-On closer inspection, peppery and spicy undertones become apparent, a contribution from the
-White Fire #43 lineage that adds complexity and depth to the bouquet.
-Some phenotypes exhibit a faint diesel or fuel-like pungency, particularly when the flowers
-are ground or broken apart.
-The flavor profile mirrors the aroma closely, delivering a smooth smoke or vapor that opens
-with sweet, cake-like flavors on the inhale.
-The exhale introduces more earthy and peppery notes, with a lingering sweetness that coats the
-palate and a subtle spiciness that may produce a mild throat tingle.
-## Cannabinoid Profile
-Jungle Cake is classified as a THC-dominant strain with cannabinoid concentrations that
-consistently place it among the stronger varieties available in legal markets.
-Total THC content typically ranges from 24% to 30%, with some exceptionally cultivated
-phenotypes reportedly testing even higher.
-CBD content is generally low, usually measuring below 1%, which is typical for strains bred
-primarily for psychoactive potency.
-Minor cannabinoids such as CBG and CBC may be present in trace amounts, though they are not
-considered defining characteristics of the strain.
-The high THC-to-CBD ratio means Jungle Cake's effects are predominantly driven by
-Δ9-tetrahydrocannabinol, contributing to its intense cerebral and physical experience.
-Novice consumers are generally advised to approach this strain with caution due to its
-potency, while experienced users often seek it out specifically for its strength.
+
+**Jungle Cake** · Indica-Dominant Hybrid · THC 24–30%
+
+## Lineage
+
+| Parent | Type | Role |
+|--------|------|------|
+| White Fire #43 (WiFi #43) | Hybrid (Sativa-dominant) | Pollen donor |
+| Wedding Cake | Indica-dominant | Seed bearer |
+
+### Ancestry Breakdown
+
+- **Wedding Cake** (Triangle Kush × Animal Mints) — inherits dense structure, sweet vanilla frosting terpenes, and heavy body effects
+- **White Fire #43** (Fire OG × White Rhino) — contributes potency, resin production, and fuel/earthy undertones
+- **Triangle Kush** (via Wedding Cake) — Florida OG heritage, providing the foundational indica backbone
+- **Animal Mints** (via Wedding Cake) — Thin Mint Cookies × Animal Cookies lineage bringing cookie-dough sweetness
+
+## Breeder and History
+
+Jungle Cake was bred by the Los Angeles-based cannabis collective **Jungle Boys**, one of the most respected cultivation brands in the modern cannabis industry. First released in the late 2010s, it quickly gained recognition in the California legal market for its exceptional potency, striking visual appearance, and complex flavor profile.
+
+The strain exemplifies the Jungle Boys' breeding philosophy of crossing proven, high-potency parents to create polyhybrid offspring with enhanced traits. The Wedding Cake × WiFi #43 cross was selected for combining the dessert-like terpene profile of Wedding Cake with the raw potency and resin density of White Fire genetics.
+
+## Appearance
+
+Jungle Cake produces visually striking flowers that command attention on any dispensary shelf. Key visual characteristics include:
+
+- **Structure**: Dense, chunky, and tightly packed calyxes forming large, cone-shaped colas. The bud structure reflects its indica-dominant heritage with a compact, heavy feel.
+- **Coloration**: Deep forest green base with contrasting purple and violet hues, especially in cooler growing conditions. The purple is more pronounced than typical Wedding Cake phenotypes.
+- **Trichome coverage**: Exceptionally frosty — a thick, crystalline blanket of milky-white trichomes with occasional amber heads at peak maturity. Trichome density is one of Jungle Cake's most defining visual traits.
+- **Pistils**: Long, curly orange-brown pistils woven throughout the calyxes, providing warm color contrast against the green and purple backdrop.
+- **Resin**: Sticky to the touch, with resin extending to the sugar leaves. Scissor hash production is notably high during trimming.
+
+## Aroma and Flavor
+
+### Aroma Profile
+
+The bouquet is complex and layered, dominated by sweet, creamy notes with contrasting pungent undertones:
+
+- **Primary**: Sweet vanilla frosting and creamy dessert, directly inherited from Wedding Cake lineage
+- **Secondary**: Earthy, musky undertones with hints of damp soil and forest floor
+- **Tertiary**: Diesel fuel and pepper spice from the WiFi #43 parent, adding a sharp, pungent counterpoint to the sweetness
+- **Background**: Subtle grape and berry notes from the Purple-leaning phenotypes
+
+### Flavor Profile
+
+On inhalation, Jungle Cake delivers a smooth, creamy smoke with pronounced sweet vanilla and cookie-dough flavors. The mid-palate introduces earthy, woody notes with a hint of pepper spice. The exhale is long and lingering, with sweet dessert flavors complemented by a subtle diesel/chemical aftertaste. The smoke is generally thick and smooth, not harsh, making it suitable for experienced consumers and newcomers with moderate tolerance.
+
 ## Terpene Profile
-The terpene profile of Jungle Cake is led by limonene, which contributes citrusy brightness and
-is associated with mood elevation and stress relief.
-Caryophyllene is the second most prominent terpene, adding peppery and spicy notes while also
-interacting with the body's endocannabinoid system as a dietary cannabinoid.
-Myrcene, the most common terpene in cannabis overall, is present in significant quantities and
-enhances the strain's relaxing, sedative qualities.
-Linalool rounds out the primary terpene lineup, imparting subtle floral and lavender notes
-that complement the sweeter elements of the flavor profile.
-This combination of limonene, caryophyllene, myrcene, and linalool creates a synergistic
-entourage effect that balances the strain's intense THC-driven psychoactivity with nuanced
-sensory and therapeutic dimensions.
-## Effects & Experience
-The onset of Jungle Cake's effects is typically felt within minutes of consumption, beginning
-with a cerebral rush characterized by euphoria and an uplifted mood.
-Users frequently report an initial wave of creative energy and mental stimulation, making the
-early stages of the experience feel more sativa-like despite the strain's indica-leaning
-genetics.
-As the high progresses, a deep sense of physical relaxation begins to emerge, spreading from
-the body outward and often leading to a state of comfortable couch-lock at higher doses.
-The cerebral effects tend to remain present throughout, maintaining a pleasant mental haziness
-that many users find enjoyable for creative pursuits or relaxed socializing.
-Commonly reported effects include happiness, relaxation, euphoria, creativity, and an
-increased sense of sociability.
-In higher doses, the sedative body effects can become pronounced, potentially leading to
-drowsiness and sleep, making Jungle Cake better suited for evening or nighttime use.
-Some users may experience dry mouth, dry eyes, dizziness, or mild paranoia, particularly when
-consuming large quantities or when they have a low tolerance for high-THC strains.
-## Medical Applications
-Jungle Cake has found a strong following among medical cannabis patients due to its potent and
-versatile therapeutic effects.
-Its high THC content and uplifting cerebral effects make it effective for managing stress and
-anxiety, helping patients achieve a calmer mental state and temporary relief from racing
-thoughts.
-The strain's analgesic properties are valued by patients dealing with chronic pain conditions,
-including arthritis, migraines, neuropathy, and muscle spasms.
-For individuals struggling with insomnia, Jungle Cake's deeply relaxing body effects can
-promote sleep onset and help maintain restful sleep throughout the night.
-Some patients report benefits for appetite stimulation, making it potentially useful for those
-dealing with nausea or appetite loss associated with medical treatments.
-The mood-elevating properties of limonene and the anti-anxiety potential of linalool may
-provide additional therapeutic value for patients managing depression or generalized anxiety
-disorder.
-As with all high-THC strains, patients with a history of cannabis-induced anxiety should
-approach Jungle Cake cautiously and start with low doses.
+
+| Terpene | Typical Range | Notes |
+|---------|---------------|-------|
+| Limonene | 0.5–1.5% | Citrus brightness, mood elevation |
+| Caryophyllene | 0.8–2.0% | Peppery spice, CB2 anti-inflammatory |
+| Linalool | 0.3–1.0% | Floral sweetness, relaxation |
+| Myrcene | 0.5–1.5% | Earthy, sedative body effects |
+| Humulene | 0.2–0.8% | Woody, earthy, appetite suppression |
+
+The terpene profile creates what is often described as a "dessert-forward" experience with the characteristic sweet/vanilla notes of its Wedding Cake parent layered over an earthy, slightly pungent base from the WiFi genetics.
+
+## Effects
+
+### Onset and Duration
+
+Effects onset is relatively rapid (5–10 minutes when smoked) and long-lasting, typically 2.5–4 hours depending on dose and individual tolerance.
+
+### Primary Effects
+
+- **Euphoria**: Strong cerebral uplift and mood elevation, though less racy than sativa-dominant strains. The mental state is described as happy, relaxed, and mildly creative.
+- **Physical relaxation**: Deep body stone that progressively intensifies, melting tension in muscles and joints. Indica dominance becomes increasingly apparent as the high progresses.
+- **Sedation**: At higher doses or in the later phase, significant couch-lock and sleepiness. Well-suited for evening or nighttime use.
+- **Appetite stimulation**: Pronounced munchies effect, common to both parent strains.
+
+### Therapeutic Applications
+
+Patients report benefits for:
+
+- Chronic pain management (muscle spasms, joint pain, neuropathic pain)
+- Insomnia and sleep disorders
+- Anxiety and stress reduction (at moderate doses)
+- Appetite stimulation for cachexia, nausea, or eating disorders
+- PTSD symptom management
+
+### Potential Side Effects
+
+- Dry mouth and dry eyes (common)
+- Dizziness at higher doses (especially in low-tolerance consumers)
+- Anxiety or paranoia at very high doses (THC content can exceed 30%)
+- Lethargy and brain fog in the comedown phase
+
 ## Growing Information
-Jungle Cake is considered a moderately difficult strain to cultivate, making it best suited
-for growers with some prior experience managing high-THC, resin-heavy varieties.
-The flowering period is relatively short for a high-potency hybrid, typically completing its
-cycle within 8 to 9 weeks when grown indoors.
-Outdoor cultivation is possible in warm, Mediterranean-like climates with a long growing
-season, with harvest generally occurring in early to mid-October.
-Indoor yields are considered medium, typically ranging from 1 to 2 ounces per square foot
-depending on growing conditions and experience level.
-Plants tend to exhibit a medium height and bushy growth pattern, responding well to training
-techniques such as low-stress training (LST), scrogging, and topping to maximize light
-penetration and bud development.
-The strain is known for producing dense, frosty buds that display striking purple and green
-coloration, particularly when exposed to cooler nighttime temperatures late in the flowering
-cycle.
-## Cultivation Tips
-Maintaining a consistent temperature range between 70–80°F (21–27°C) during the vegetative
-stage promotes healthy growth and branching.
-During the flowering stage, dropping nighttime temperatures to around 65–70°F (18–21°C) can
-help enhance the strain's natural purple coloration.
-Jungle Cake benefits from moderate to high nutrient levels, particularly phosphorus and
-potassium during the flowering phase to support dense bud development.
-Due to the density of its buds, growers should monitor humidity levels carefully during the
-late flowering stage to prevent bud rot and powdery mildew, keeping relative humidity below
-50%.
-Proper airflow and ventilation are essential, and pruning lower canopy growth can help ensure
-that energy is directed toward the top colas.
-Support structures such as trellis nets or bamboo stakes may be necessary as the heavy, dense
-buds can cause branches to bend or break late in the flowering cycle.
-A flush period of 1–2 weeks before harvest is recommended to improve the final flavor and
-smoothness of the smoke.
-## Notable Phenotypes
-Jungle Cake's genetic combination produces some degree of phenotypic variation, with some
-plants expressing more traits from the White Fire #43 parent and others leaning heavier into
-the Wedding Cake influence.
-Phenotypes that favor the Wedding Cake side tend to produce sweeter, more dessert-like flavors
-with tighter, more colorful bud structures and a slightly more indica-dominant effect profile.
-White Fire #43-dominant phenotypes often display higher resin production, more pronounced
-peppery and fuel-like aromas, and a more energetic or cerebral initial onset.
-Some rare phenotypes have been observed with exceptionally dark purple coloration throughout
-the entire flower, often commanding premium prices in commercial markets.
-The variability in expression means that clone selection from a desired mother plant is often
-preferred over seed cultivation for commercial growers seeking consistency.
+
+- **Flowering time**: 56–63 days indoors (8–9 weeks)
+- **Yield**: Moderate to high (400–500 g/m² indoor); 400–600 g/plant outdoor
+- **Difficulty**: Moderate — requires attention to humidity due to dense bud structure
+- **Preferred climate**: Mediterranean; thrives in 65–80°F during flowering
+- **Training**: Responds well to LST, ScrOG, and topping; benefits from good airflow to prevent bud rot in dense colas
+- **Nutrient needs**: Heavy feeder during mid-to-late flowering; cal-mag supplementation recommended
+- **Resistance**: Moderate resistance to mold and pests, but dense structure requires humidity management below 50% RH in late flowering
+
+## Terpene Interaction Profile (Entourage Effects)
+
+Jungle Cake's specific combination of terpenes creates notable entourage interactions with its cannabinoid profile:
+
+- **Limonene + caryophyllene**: The combination of limonene's mood-elevating properties with caryophyllene's CB2-mediated anti-inflammatory action may enhance the overall therapeutic benefit, particularly for anxiety with somatic tension
+- **Linalool + myrcene**: This pairing amplifies sedative and anxiolytic effects, explaining the strain's pronounced physical relaxation profile and evening-use suitability
+- **Humulene + caryophyllene**: Dual sesquiterpene presence provides significant anti-inflammatory activity, potentially beneficial for pain and inflammatory conditions
+- **Full-spectrum synergy**: The interplay between high THC (24–30%) and this terpene profile produces effects that differ qualitatively from THC alone — smoother onset, less anxiety, more pronounced body effects
+
+## Phenotype Variations
+
+Multiple phenotype expressions exist within the Jungle Cake gene pool:
+
+- **Type A (Cake-dominant)**: More Wedding Cake expression — denser buds, sweeter vanilla/cream aroma, heavier body effects, more purple coloration
+- **Type B (Fuel-dominant)**: More WiFi #43 expression — slightly more open bud structure, stronger diesel/fuel aroma, more cerebral and stimulating effects, greener coloration
+- **Type C (Balanced)**: Intermediate expression combining both parent profiles — complex aroma blending sweet and pungent notes, well-rounded effects
+
+The Cake-dominant phenotype is generally more sought after in the commercial market due to its visual appeal and dessert-like terpene profile.
+
+## Market Availability
+
+Jungle Cake is widely available in licensed cannabis markets including California, Oregon, Colorado, Michigan, Illinois, and Canada. Dispensary prices typically range from $35–65 per eighth ounce (3.5g) depending on quality, phenotype, and market. The strain has won or placed in multiple cannabis competitions, particularly in California, cementing its reputation as a premium-tier offering.
+
+When purchasing Jungle Cake, consumers should verify lab testing results, as the strain's popularity has led to occasional mislabeling. Authentic Jungle Cake from Jungle Boys genetics should test at 24%+ THC with the terpene profile described above.
+
 ## See Also
-- [[wedding-cake]] — Parent strain contributing sweet vanilla flavor and dense bud structure
-- [[gelato-cannabis]] — Related Cookie-family hybrid known for dessert-like flavor
-- [[sour-diesel]] — Contrasting sativa-dominant strain with diesel aroma profile
-- [[og-kush]] — Foundational West Coast genetic contributing to many modern hybrids
+
+- [[wedding-cake]]
+- [[cannabis-strain-selection-guide]]
+- [[cannabis-phenotype-and-genotype-guide]]

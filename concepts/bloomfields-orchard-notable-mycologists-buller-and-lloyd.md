@@ -174,3 +174,7 @@ formal credentials.
 - [[Spore Discharge Mechanisms in Fungi]]
 - [[Gasteromycetes and Stinkhorn Fungi]]
 - [[Fungal Biology and Ecology]]
+
+## See Also
+
+- [[rust-fungi]]

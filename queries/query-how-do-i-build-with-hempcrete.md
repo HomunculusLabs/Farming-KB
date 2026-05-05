@@ -146,3 +146,7 @@ With hired labor, expect 2–3× materials cost. Costs vary by region and hemp a
 ---
 
 *Last updated: 2026-04-28. Always consult local building authorities and a qualified structural engineer before beginning construction.*
+
+## See Also
+
+- [[natural-building]]

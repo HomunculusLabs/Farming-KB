@@ -139,6 +139,10 @@ All Panaeolus and Panaeolina species are coprophilous, playing an important ecol
 
 ## See Also
 
+- [[baeocystin]]
+- [[copelandia-cyanescens]]
+- [[copelandia-genus]]
+
 - [[Copelandia Genus]]
 - [[Psilocybe Genus Overview]]
 - [[Neurotropic Fungi Classification]]

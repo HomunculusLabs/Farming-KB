@@ -132,3 +132,10 @@ Combine multiple techniques for cumulative protection: frost cloth plus Christma
 | Grapefruit | 28 | −2 | Most cold-sensitive; avoid outdoors |
 
 > **Key rule:** Prolonged exposure at or near the minimum temperature causes damage. Brief dips below are often survivable, especially for dormant, well-hardened trees. Acclimation (gradual cold exposure in fall) significantly improves survival.
+
+## See Also
+
+- [[cold-climate-gardening]]
+
+- [[query-how-to-grow-avocados-in-cold-climates]]
+- [[query-how-do-i-grow-figs-in-cold-climates]]

@@ -123,3 +123,4 @@ Foliar feeding should be considered a supplement to, not a replacement for, a we
 - [[cannabis-magnesium-nutrient]]
 - [[cannabis-iron-nutrient]]
 - [[cannabis-manganese-nutrient]]
+- [[canna-indica]]

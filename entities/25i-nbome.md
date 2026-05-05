@@ -123,3 +123,8 @@ Originally developed as a research tool for mapping serotonin receptor pharmacol
 - **Neurotoxicity:** At supratherapeutic doses, excessive 5-HT₂A activation may trigger excitotoxic cascades. Animal studies show dose-dependent decreases in cortical 5-HT₂A receptor density following repeated high-dose exposure, suggesting receptor downregulation or neurotoxicity.
 - **Hyperthermia:** Serotonin-mediated thermoregulatory disruption can produce dangerous hyperthermia (>40°C), particularly in warm environments or during physical exertion. This is a contributing factor in many NBOMe fatalities.
 - **Seizure risk:** High doses may lower seizure threshold; tonic-clonic seizures have been reported in hospital case series.
+
+## See Also
+
+- [[serotonin]]
+- [[set-and-setting]]

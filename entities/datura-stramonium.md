@@ -134,3 +134,4 @@ with a long debated medicinal history.
 - [[turbina-corymbosa]]
 - [[peganum-harmala]]
 - [[ipomoea-violacea]]
+- [[atropine]]

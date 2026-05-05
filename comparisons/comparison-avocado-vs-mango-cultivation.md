@@ -118,3 +118,9 @@ Choosing the right variety is as important as choosing the right species. For av
 The choice between avocado and mango is less about which is objectively superior and more about matching tree to site. For cool-subtropical or Mediterranean-influenced food forests, the avocado is often the more resilient and productive choice. For hot tropical and arid-adapted systems, the mango's drought tolerance and vigor make it indispensable. In ideal conditions, planting both provides extraordinary nutritional diversity — high-fat avocados and high-sugar mangoes covering complementary dietary roles in a homestead food system.
 
 Whichever you choose — or both — invest in good drainage, proper variety selection, and patient establishment. These are long-lived trees that reward careful planning for decades.
+
+## See Also
+
+- [[food-forest]]
+- [[food-forest-design]]
+- [[homesteading]]

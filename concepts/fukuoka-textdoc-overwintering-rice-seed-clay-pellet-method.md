@@ -127,3 +127,7 @@ This principle — using minimal, natural interventions to bridge the gap betwee
 ## Legacy and Spread
 
 The clay pellet technique has become one of the most widely known practices associated with Fukuoka's natural farming. It has been applied far beyond rice cultivation — used for direct seeding of vegetables, grains, and tree seeds in natural farming and reforestation projects worldwide. The method played a central role in Fukuoka's desert greening projects, where clay pellets protected seeds from desiccation and animal predication in arid environments.
+
+## See Also
+
+- [[natural-farming]]

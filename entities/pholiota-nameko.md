@@ -105,3 +105,4 @@ central to gourmet and medicinal mycology.
 - [[pleurotus-eryngii]]
 - [[stropharia-rugoso-annulata]]
 - [[tricholoma-matsutake]]
+- [[pholiota-adiposa]]

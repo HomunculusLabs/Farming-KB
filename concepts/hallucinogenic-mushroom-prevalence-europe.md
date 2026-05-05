@@ -118,6 +118,10 @@ Several important limitations affect the interpretation of prevalence data:
 
 ## See Also
 
+- [[mescaline]]
+- [[psilocybe-cubensis]]
+- [[psilocybin]]
+
 - [[Psilocybin and Psilocin Chemistry]]
 - [[Smartshop and Online Mushroom Markets]]
 - [[Dose Effects and Health Risks of Psilocybin Mushrooms]]

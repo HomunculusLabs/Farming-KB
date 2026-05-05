@@ -1,3 +1,12 @@
+---
+title: Pf Tek Dual Chamber Terrarium Fruiting Conditions
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [mushroom-cultivation, fruiting, techniques]
+sources: [raw/papers/pf-tek-psilocybe-fanaticus.md]
+---
+
      1|---
      2|title: PF Tek Dual Chamber Terrarium Design and Fruiting Conditions
      3|tags:
@@ -148,3 +157,9 @@
    148|
    149|Multiple flushes (harvest cycles) are possible from each cake, with diminishing
    150|yields over successive flushes. The first flush typically produces the largest
+
+## See Also
+
+- [[fruiting-conditions]]
+- [[mushroom-cultivation]]
+- [[psilocybe-cubensis]]

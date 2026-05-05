@@ -85,3 +85,4 @@ Craterellus tubaeformis is a taxonomic synonym used in some references, reflecti
 - [[mushroom-hunting-and-identification]]
 
 - [[edible-wild-mushroom-guide]]
+- [[cantharellus-lateritius]]

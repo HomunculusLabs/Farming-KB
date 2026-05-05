@@ -101,3 +101,4 @@ material-only basis to enable fairer comparisons.
 - [[oyster-mushroom-species]]
 - [[spawn-preparation]]
 - [[mushroom-cultivation-environments]]
+- [[macrocybe-gigantea]]

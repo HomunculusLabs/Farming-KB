@@ -148,3 +148,9 @@ in herbal sleep formulas with hops (*Humulus lupulus*), passionflower
 - **Valeriana edulis:** North American species with edible roots.
 - **Centranthus ruber (red valerian):** Ornamental relative, not
   medicinally equivalent.
+
+## See Also
+
+- [[companion-planting]]
+- [[food-forest]]
+- [[herb-spiral]]

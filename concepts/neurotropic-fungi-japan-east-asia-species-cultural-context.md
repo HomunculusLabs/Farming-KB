@@ -190,6 +190,10 @@ East Asian neurotropic fungi show several notable biogeographic patterns:
 
 ## See Also
 
+- [[amanita-muscaria]]
+- [[amanita-muscaria-and-ibotenic-acid-fungi]]
+- [[amanita-pantherina]]
+
 - [Neurotropic Fungi in Asia](guzman-allen-gartz-neurotropic-fungi-asia.md)
 - [Amanita Muscaria and Ibotenic Acid Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
 - [Psilocybe Venenata](psilocybe-venenata-profile.md)

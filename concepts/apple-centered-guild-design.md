@@ -95,3 +95,7 @@ Several different tree-centered guilds can be combined to boost both food choice
 Guilds, each based on a different type of tree, can act as subunits of a larger, multi-tree super-guild, and be integrated to create a more deeply connected community. Think of the various guilds as organs in a body, combining to form a healthy and long-lived organism capable of much more elaborate behaviors than the components alone. Our guilds can do the same, altering microclimates, attracting new species, changing the look and feel of our landscape, and restoring it to health.
 
 Source: Gaia's Garden by Toby Hemenway
+
+## See Also
+
+- [[apple-fritter]]

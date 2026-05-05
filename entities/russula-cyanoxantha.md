@@ -142,3 +142,4 @@ distinctive features.
 - [[amanita-rubescens]] — co-occurring woodland mushroom (edible when cooked)
 - [[lactarius-deliciosus]] — similarly colored mycorrhizal mushroom with latex
 - [[cantharellus-cibarius]] — companion woodland edible foraging target
+- [[leccinum-scabrum]]

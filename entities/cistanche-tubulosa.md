@@ -120,3 +120,9 @@ It is native to the arid regions of Central Asia, including the Taklamakan Deser
 - ***Cistanche deserticola*** Y.C. Ma — the classical pharmacopoeial species; slower-growing, lower echinacoside content, more threatened.
 - ***Cistanche salsa*** (C.A. Mey.) Beck — non-pharmacopoeial, lower bioactive content, used locally in folk medicine.
 - ***Cistanche sinensis*** Beck — recorded from Inner Mongolia and Gansu; rare and poorly studied.
+
+## See Also
+
+- [[agroforestry]]
+- [[desertification]]
+- [[dom]]

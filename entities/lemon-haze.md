@@ -118,3 +118,9 @@ As of 2026, Lemon Haze is available in licensed dispensaries across Canada, most
 - Individual phenotypes vary significantly in the balance of lemon intensity vs. earthy/hazy undertones, with "lemon-heavy" phenotypes being the most sought after by collectors
 - **Lemon Haze Auto:** Autoflowering version bred by crossing with a ruderalis line; completes lifecycle in 10–12 weeks from seed; reduced potency (12–16% THC) but retains characteristic terpene profile
 - The strain's enduring popularity across nearly two decades since its introduction reflects the consistent quality of its terpene expression and reliable growth characteristics that appeal to both novice and experienced cultivators.
+
+## See Also
+
+- [[amnesia-haze]]
+- [[cannabis-sativa]]
+- [[girl-scout-cookies]]

@@ -148,3 +148,10 @@ minerals from construction-exposed subsoil. Chicory and dandelion are effective 
   it a useful pioneer on disturbed sites.
 - **Vetch** (*Vicia spp.*): Vigorous N-fixing vine used as cover crop, living mulch, and
   accumulator in rotational polycultures.
+
+## See Also
+
+- [[achillea-millefolium]]
+- [[agroecology]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[styphnolobium-japonicum]]

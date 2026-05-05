@@ -137,3 +137,4 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 - [[holzer-stone-fruit-varieties-and-growing]] for companion small fruit growing
 - [[backyard-orchard-design]] for integrating strawberries into orchard layouts
 - [[seasonal-gardening-calendar]] for planting and maintenance timing
+- [[strawberry-cough]]

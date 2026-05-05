@@ -90,3 +90,7 @@ As a sesquiterpene, humulene biosynthesis may be affected differently by environ
 Humulene is classified as GRAS by the FDA and is widely consumed through dietary sources including hops in beer, culinary herbs, and spices. It has low acute toxicity and is generally well tolerated at normal exposure levels.
 
 Related: [[cannabis-anti-inflammatory-applications]], [[medicinal-mushroom-antioxidant-anti-inflammatory]], [[cannabis-for-inflammatory-conditions]]
+
+## See Also
+
+- [[ptychopetalus-olacoides]]

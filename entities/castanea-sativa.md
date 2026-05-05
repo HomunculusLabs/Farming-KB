@@ -89,3 +89,4 @@ traditional food systems.
 - [[juglans-regia]]
 - [[quercus-suber]]
 - fagus sylvatica
+- [[castanea-mollissima]]

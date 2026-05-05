@@ -150,3 +150,9 @@ properties.
 - *Serendipita williamsii* — root endophyte of saw palmetto.
 - *Sebacina vermifera* — sebacinoid fungus with orchid mycorrhizal
 associations.
+
+## See Also
+
+- [[arbuscular-mycorrhizal-fungi]]
+- [[mycorrhiza]]
+- [[mycorrhizal-fungi]]

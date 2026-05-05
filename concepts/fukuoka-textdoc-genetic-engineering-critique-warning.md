@@ -142,3 +142,9 @@ Genetic engineering is simply the most extreme form of this same premise — the
 In Fukuoka's framework, the proper response to crop disease or low yield is not to engineer a better plant but to identify and remove the human action that is causing the problem.
 
 "All that remains is a last glimmer of hope that the principle dying like a buried ember in the farming village will be unearthed and revived in time to establish a natural way of farming that unites man and nature."
+
+## See Also
+
+- [[masanobu-fukuoka]]
+- [[natural-farming]]
+- [[persimmon]]

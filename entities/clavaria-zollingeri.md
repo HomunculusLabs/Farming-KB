@@ -142,6 +142,8 @@ rarity of the species, but available studies have identified:
 
 ## See Also
 
+- [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
+
 - [[claviceps-purpurea]] — Another Clavariaceae member with potent bioactives
 - clavulina — Related clavarioid genus with branching fruiting bodies
 - [[clitocybe-nuda-entity]] — Another violet-colored forest fungus

@@ -134,3 +134,7 @@ Its geosmin production explains much of the pleasant earthy odor associated with
 Its secondary metabolism has supplied many antibiotics, antifungals, antiparasitics, and anticancer agents.
 Its agricultural roles range from plant growth promotion and pathogen suppression to crop diseases such as potato scab.
 Its importance comes from strain-level diversity, so broad claims about the genus should be qualified by species, strain, and environment.
+
+## See Also
+
+- [[streptomyces-avermitilis]]

@@ -149,3 +149,8 @@ White Widow is considered an excellent strain for beginner and intermediate grow
 - **Height**: 60–90 cm (compact)
 - **Yield**: 300–400 g/m²
 - **THC**: 14–18% (slightly lower than photoperiod version)
+
+## See Also
+
+- [[low-stress-training]]
+- [[white-rhino]]

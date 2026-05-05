@@ -15,7 +15,6 @@ sources:
     of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
 ---
-
 # Copelandia Cyanescens Pantropical Distribution and Ecology
 Copelandia cyanescens stands as the most cosmopolitan of all neurotropic
 fungal genera, rivaled only by Psilocybe cubensis in its global tropical
@@ -58,11 +57,8 @@ C. cyanescens occurs widely in tropical South America:
 - **Brazil**: Reported by Singer (1960a), Ola'h (1969), Pollock (1976),
   Stijve and de Meijer (1993), and Stamets (1996).
 - **Colombia**: Confirmed by Pulido (1983) and Gerhardt (1996).
-
 - **Bolivia**: Reported by Singer (1960a) and Stamets (1996).
-
 - **Venezuela**: Present according to Gerhardt (1996).
-
 - **Madagascar**: Reported by Heim et al. (1967), Pollock (1976), and
   Heim (1978).
 
@@ -75,9 +71,7 @@ and the Gulf Coast states:
   (1978, 1996), Schultes and Hofmann (1979), Hatfield (1979), and
   Kinghorn (1979).
 - **California**: Reported by Arora (1986).
-
 - **Louisiana and Texas**: Confirmed from Gulf Coast regions.
-
 - **Hawaii**: An extremely rich and diverse Copelandia flora exists in
   the Hawaiian Islands (Heim et al., 1966a, 1967; Pollock, 1976; Stamets,
   1978; Stijve, 1992, 1995; Merlin and Allen, 1993; Allen, 1998).
@@ -190,6 +184,10 @@ supports human-mediated introduction, likely during the era of European
 colonization and cattle introduction.
 
 ## See Also
+
+- [[copelandia-cyanescens]]
+- [[copelandia-genus]]
+- [[copelandia-genus-species-guide]]
 
 - [Copelandia Genus Species Guide](copelandia-genus-species-guide.md)
 - [Copelandia Panaeoloideae Neurotropic Fungi](copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution.md)

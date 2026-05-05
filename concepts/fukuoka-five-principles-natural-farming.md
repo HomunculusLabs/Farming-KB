@@ -145,6 +145,10 @@ flooding briefly in early summer. These results demonstrate the five
 principles are a practical, productive farming system applicable
 everywhere.
 ## See Also
+
+- [[clay-pellet-seed-encapsulation]]
+- [[masanobu-fukuoka]]
+- [[matsutake-mushroom]]
 [[Masanobu Fukuoka]]
 [[no-tillage rice-barley succession cropping]]
 [[clay pellet seed encapsulation]]

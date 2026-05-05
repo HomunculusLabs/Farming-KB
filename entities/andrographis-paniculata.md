@@ -147,3 +147,5 @@ over-the-counter remedies for colds and flu.
 - [[ashwagandha]]
 - [[glycyrrhiza-glabra]]
 - Tanacetum parthenium
+- [[gymnema-sylvestre]]
+- [[swertia-chirata]]

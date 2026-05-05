@@ -152,3 +152,9 @@ L. perlatum plays several important ecological functions:
   smooth surface, edible when young
 - **Bovista plumbea:** Small puffball of grasslands; smooth surface
   cracking to reveal lead-colored inner skin
+
+## See Also
+
+- [[calvatia-gigantea]]
+- [[decomposition]]
+- [[food-forest]]

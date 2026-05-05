@@ -127,3 +127,4 @@ mineralized and made available to plants.
 - [[fungal-symbiosis-with-plants-beyond-mycorrhizae]]
 - [[singh-fungal-plant-growth-regulators-production]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
+- [[l-theanine]]

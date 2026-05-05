@@ -118,3 +118,8 @@ Companion plants for pawpaw guilds include serviceberry, elderberry, wild ginger
 Both species are also valuable for wildlife: persimmons feed deer, foxes, raccoons, and many bird species, while pawpaws are the exclusive larval host plant for the zebra swallowtail butterfly (*Eurytides marcellus*), making them an important ecological addition to any permaculture site.
 
 For further reading, consult the sources listed in the frontmatter or visit your local cooperative extension office for region-specific planting guidance.
+
+## See Also
+
+- [[companion-planting]]
+- [[food-forest]]

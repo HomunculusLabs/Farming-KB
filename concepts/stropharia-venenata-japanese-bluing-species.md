@@ -147,3 +147,7 @@ Despite Yokoyama's 1973 experiments, much remains unknown about Japanese psychoa
 ### Taxonomic Accuracy Matters
 
 The S. venenata case demonstrates that taxonomic errors in mycological monographs can have real-world consequences:
+
+## See Also
+
+- [[stropharia-ambigua]]

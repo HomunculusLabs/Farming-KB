@@ -148,3 +148,4 @@ expansions for Hermitian operators.
 
 - [[semiconductor-physics-and-devices]]
 - [[quantum-error-correction]]
+- [[quantum-mechanical-correlates-of-hallucinogenesis]]

@@ -146,3 +146,4 @@ released by hugs reduces anxiety and fear and enhances bonding.
 - [[blesching-cannabis-serotonin-endocannabinoid-system]]
 - [[cannabis-endocannabinoid-system-overview]]
 - [[blesching-cannabis-sleep-disorders]]
+- [[blesching-cannabis-anxiety]]

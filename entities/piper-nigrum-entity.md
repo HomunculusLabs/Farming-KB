@@ -140,3 +140,4 @@ remains the most traded spice by volume and value.
 - [[zingiber-officinale]]
 - [[curcuma-longa]]
 - [[piperine]]
+- [[capsicum-annuum]]

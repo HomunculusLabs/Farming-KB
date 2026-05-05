@@ -124,6 +124,8 @@ Productive lifespan exceeds 100 years in suitable conditions.
   canopy habitat for invertebrates
 
 ## See Also
+
+- [[mollison-tree-biomass-and-forest-as-living-entity]]
 - Pecan (Carya illinoinensis)
 - [[juglans-regia]]
 - Persimmon (Diospyros virginiana)

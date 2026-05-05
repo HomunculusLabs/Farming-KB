@@ -132,3 +132,5 @@ Verbascum thapsus is not considered at risk globally. It is listed as Least Conc
 - [[urtica-dioica]]
 - [[taraxacum-officinale]]
 - [[tinospora-cordifolia]]
+- [[althaea-officinalis]]
+- [[verbena-officinalis]]

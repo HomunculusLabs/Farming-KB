@@ -82,3 +82,9 @@ Fukuoka acknowledged that transitioning to natural farming is not instantaneous.
 A critical distinction Fukuoka drew was between his approach and organic farming, which he considered "just another type of scientific farming." While organic farming substitutes natural inputs for synthetic ones, it still operates within the same paradigm of active human management and the belief that crops must be deliberately "grown." Natural farming seeks to reduce human action toward zero, trusting that nature will perform necessary functions when allowed to do so. The net effect of composting, for example, is to accelerate decomposition by at most ten to twenty percent, a marginal gain that Fukuoka considered fundamentally unnecessary when compared to the simplicity of returning organic matter directly to the soil surface as mulch.
 
 The principles are universal in their philosophical foundation but local in their specific application. Fukuoka repeatedly emphasized that the forms these principles take will differ according to climate, soil, and ecosystem, but the underlying logic, that nature is self-sufficient when not disrupted by human intervention, applies everywhere. He framed natural farming not merely as an agricultural technique but as a path toward ecological restoration, proposing that the same principles could be applied to revegetate deserts by scattering clay pellets containing mixed seeds of green manure trees, legumes, grains, and vegetables, allowing natural selection to determine which species are suited to local conditions.
+
+## See Also
+
+- [[composting]]
+- [[decomposition]]
+- [[four-principles-of-natural-farming]]

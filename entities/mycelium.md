@@ -109,3 +109,4 @@ The largest known organism on Earth is a mycelial network of the honey fungus [[
 ## See Also
 
 - [[query-what-is-mycelium-and-how-does-it-function-in-nature]]
+- [[panellus-stipticus]]

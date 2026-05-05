@@ -118,3 +118,8 @@ The volatile profile changes dramatically during maturation, with DMS increasing
 
 ### Market
 - **Wholesale prices:** €500–€1,500/kg (typical seasonal range); premium specimens may exceed €2,000/kg. Prices fluctuate significantly by year based on harvest volume and quality.
+
+## See Also
+
+- [[tuber-aestivum]]
+- [[tuber-magnatum]]

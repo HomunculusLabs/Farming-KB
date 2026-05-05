@@ -169,3 +169,9 @@ Seaweed extract is generally more shelf-stable and easier to handle, making it m
 
 ### Best Strategy: Use Both Together
 Many experienced organic growers combine both inputs at reduced rates. A typical program uses seaweed extract as a foliar spray every 2–3 weeks for biostimulation, while fish hydrolysate is soil-drenched or added to compost tea for nitrogen feeding. Together they address both plant nutrition and plant signaling. Start with half the recommended rate of each when combining, observe plant response, and adjust from there.
+
+## See Also
+
+- [[building-soil]]
+- [[composting]]
+- [[fish-amino-acid]]

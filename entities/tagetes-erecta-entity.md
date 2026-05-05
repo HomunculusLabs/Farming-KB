@@ -118,3 +118,4 @@ T. erecta is straightforward to cultivate from seed, making it accessible for pe
 - [[neem]]
 - [[moringa-oleifera]]
 - [[alfalfa-medicago-sativa]]
+- [[lupinus-albus]]

@@ -137,6 +137,10 @@ Multiple simultaneous revenue streams:
 
 ## See Also
 
+- [[agroforestry]]
+- [[companion-planting]]
+- [[food-forest]]
+
 - [[Food Forest]] — agroforestry system focused on food production
 - [[Hugelkultur]] — soil-building technique complementary to silvopasture
 - [[Robinia pseudoacacia]] — nitrogen-fixing fodder tree for silvopasture

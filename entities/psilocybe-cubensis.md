@@ -147,3 +147,9 @@ sources:
 | Moderate | 1.0–2.5 g | ~5–15 mg | Strong visuals, emotional processing |
 | Strong | 2.5–5.0 g | ~15–30 mg | Intense visionary experience, ego dissolution |
 | Heroic | 5.0 g+ | ~30 mg+ | Complete ego death; overwhelming mystical |
+
+## See Also
+
+- [[baeocystin]]
+- [[compass-pathways]]
+- [[golden-teacher]]

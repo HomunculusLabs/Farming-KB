@@ -123,3 +123,4 @@ Adaptogenic herbs have deep roots in multiple traditional medical systems, thoug
 - [[herbal-medicine-history]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
+- [[gynostemma-pentaphyllum]]

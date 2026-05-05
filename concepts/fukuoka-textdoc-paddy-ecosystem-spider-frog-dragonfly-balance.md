@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Paddy Ecosystem Spider Frog Dragonfly Balance
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [natural-farming, fukuoka]
+sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
+---
+
 1|---
      2|title: Paddy Field Ecosystem Balance Spiders Frogs Dragonflies
      3|tags: [ecology, rice-paddy, biological-control, biodiversity, spiders, frogs, dragonflies, natural-farming, fukuoka]
@@ -148,3 +157,7 @@
    166|- [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]
    167|- [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
    168|
+
+## See Also
+
+- [[bromo-dragonfly]]

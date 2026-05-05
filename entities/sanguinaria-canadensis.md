@@ -163,6 +163,9 @@ The greatest threat to wild populations is **habitat destruction** from urbaniza
 
 ## See Also
 
+- [[chelidonium-majus]]
+- [[fungal-spores]]
+
 - [[Papaveraceae]] — Poppy family
 - [[Chelidonium majus]] — Greater celandine (related alkaloid-producing plant)
 - [[Macleaya cordata]] — Plume poppy (sanguinarine source)

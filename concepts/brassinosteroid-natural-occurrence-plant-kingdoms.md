@@ -143,3 +143,9 @@ adding a previously unrecognized dimension to plant-fungal communication.
   compound structure and preparation from stigmasterol
 - [[Steroidal regulation of fungal development and growth]] for the
   implications of cross-kingdom steroid sensitivity
+
+## See Also
+
+- [[brassinosteroid]]
+- [[homobrassinolide]]
+- [[mycorrhiza]]

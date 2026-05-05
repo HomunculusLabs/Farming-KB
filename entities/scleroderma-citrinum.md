@@ -141,3 +141,9 @@ with cracked pattern; prefers grassy habitats. *S. cepa* — pear-shaped,
 smoother peridium with powdery coating; less common. *Pisolithus arhizus*
 (dead man's foot) — columnar, club-shaped; peridium disintegrates releasing
 pea-like peridioles.
+
+## See Also
+
+- [[agar]]
+- [[dom]]
+- [[ectomycorrhiza]]

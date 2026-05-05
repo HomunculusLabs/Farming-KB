@@ -101,3 +101,9 @@ The fly agaric is deeply embedded in global culture:
 - **Video games:** The *Super Mario* power-up mushroom is explicitly modeled on *A. muscaria*.
 - **Literature and film:** Appears in Lewis Carroll's *Alice's Adventures in Wonderland* (the caterpillar's mushroom), the *Smurfs*, and numerous fantasy works.
 - **Religious scholarship:** Some researchers (e.g., R. Gordon Wasson) controversially proposed that *A. muscaria* was the identity of the Vedic **Soma**.
+
+## See Also
+
+- [[giorgio-samorini]]
+- [[bufotenin]]
+- [[ectomycorrhiza]]

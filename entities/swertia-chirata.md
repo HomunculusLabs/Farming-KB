@@ -147,6 +147,10 @@ through seed banks and managed cultivation is essential for survival.
 
 ## See Also
 
+- [[agar]]
+- [[andrographis-paniculata]]
+- [[dom]]
+
 - [[Gentiana lutea]]
 - [[Andrographis paniculata]]
 - [[Tinospora cordifolia]]

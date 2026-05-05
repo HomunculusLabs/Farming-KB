@@ -148,3 +148,9 @@ Sclerotia are dense, hard, truffle-like masses that serve as nutrient reserves f
 - [[Sclerotia]] for the biology and chemistry of fungal storage structures
 - [[Mushroom Substrate]] for comparison with other cultivation media
 - [[Sterile Technique]] for contamination prevention in mycological work
+
+## See Also
+
+- [[albert-hofmann]]
+- [[fruiting-conditions]]
+- [[mushroom-cultivation]]

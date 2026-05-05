@@ -130,3 +130,9 @@ Zookies occupies a premium market segment, typically priced above average due to
 Genetically stable seeds are available from select breeders, though the original Alien Labs cut is clone-only and closely held.
 The strain's popularity has spawned crosses including Zkittlez × Zookies ("Zoap" lineage), Zookies × Runtz, and various backcrosses.
 Competition-level hash makers frequently feature Zookies in extraction competitions due to its reliable yield and terpene preservation through processing.
+
+## See Also
+
+- [[cannabis-sativa]]
+- [[durban-poison]]
+- [[girl-scout-cookies]]

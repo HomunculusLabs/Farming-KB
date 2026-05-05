@@ -126,3 +126,9 @@ India is the primary commercial producer. Drying in shade preserves bacosides. W
 - [[Bacopa caroliniana]] — North American species, popular aquarium plant
 - [[Withania somnifera]] — Ashwagandha, often combined in Ayurvedic formulations
 - [[Convolvulus pluricaulis]] — Shankhpushpi, another Medhya Rasayana herb
+
+## See Also
+
+- [[ashwagandha]]
+- [[bacopa-monnieri]]
+- [[centella-asiatica]]

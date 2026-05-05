@@ -114,3 +114,4 @@ The connection between diet and place was equally important. Fukuoka argued that
 - [[fukuoka-cleansing-diet]] -- cleansing and healing diet
 - [[fukuoka-food-and-human-health]] -- food and human health
 - [[fukuoka-mu-nothingness-philosophy]] -- Mu as the foundation
+- [[fukuoka-textdoc-diet-of-the-sick-returning-nature]]

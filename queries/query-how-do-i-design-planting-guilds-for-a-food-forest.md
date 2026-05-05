@@ -180,3 +180,9 @@ For any central tree, use this fill-in-the-blank approach:
 - **Fungal inoculation**: [Mycorrhizal inoculant + wine cap spawn]
 
 This template produces a functional guild for almost any climate zone — swap species based on your local conditions while maintaining the functional roles.
+
+## See Also
+
+- [[achillea-millefolium]]
+- [[agroforestry]]
+- [[caragana-arborescens]]

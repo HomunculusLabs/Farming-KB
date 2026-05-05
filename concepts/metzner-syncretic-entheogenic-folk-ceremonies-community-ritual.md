@@ -1,3 +1,12 @@
+---
+title: Metzner Syncretic Entheogenic Folk Ceremonies Community Ritual
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [psychedelics, ethnobotany, entheogens]
+sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-ritual.md]
+---
+
      1|---
      2|title: Syncretic Entheogenic Folk Ceremonies and Community Ritual
      3|tags:
@@ -148,3 +157,9 @@
    148|
    149|The syncretic paradigm has increasingly influenced Western approaches to
    150|psychedelic therapy. Modern therapeutic models incorporating group ceremony,
+
+## See Also
+
+- [[iboga-plant]]
+- [[lophophora-williamsii]]
+- [[mescaline]]

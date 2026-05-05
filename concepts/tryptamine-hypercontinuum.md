@@ -148,3 +148,9 @@ issues of life and death" to have transformative power.
 - [[Stoned Ape Hypothesis]] for McKenna's evolutionary theory
 - [[Shamanism]] for the cultural context of tryptamine use
 - [[Ayahuasca]] for the Amazonian DMT-based brew
+
+## See Also
+
+- [[alexander-shulgin]]
+- [[dimethyltryptamine]]
+- [[fungal-spores]]

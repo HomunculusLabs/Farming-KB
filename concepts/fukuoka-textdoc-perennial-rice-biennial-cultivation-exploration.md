@@ -118,3 +118,7 @@ Fukuoka's exploration of perennial rice was ahead of its time. While he did not 
 Throughout his exploration, Fukuoka was driven not by the desire to create a new agricultural technology but by the desire to understand the deep design of nature. Why does rice die each winter? Why must it be replanted each spring? What would agriculture look like if it followed the patterns of natural ecosystems rather than imposing human patterns upon them?
 
 These questions led him far beyond the immediate problem of rice cultivation into a fundamental reexamination of humanity's relationship with the natural world. The perennial rice question was, in essence, a question about whether humans could learn to live within nature's patterns rather than against them. It remains an open question — but one that grows more urgent with each passing year.
+
+## See Also
+
+- [[natural-farming]]

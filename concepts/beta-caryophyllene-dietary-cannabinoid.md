@@ -138,3 +138,4 @@ The identification of (E)-BCP as a cannabinoid receptor ligand in 2008 opened a 
 - [[Cannabidiol CBD]]
 - [[Cannabis Health Index Scoring System]]
 - [[Tetrahydrocannabinol THC]]
+- [[beta-caryophyllene]]

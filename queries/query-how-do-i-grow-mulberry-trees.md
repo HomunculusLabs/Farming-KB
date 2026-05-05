@@ -125,3 +125,8 @@ Absolutely — mulberries are a keystone species in food forests and forest gard
 3. **Ignoring staining risk** — Unripe and ripe fruit will stain sidewalks, cars, and clothing. Plan accordingly.
 4. **Growing from seed for named cultivars** — Seeds don't come true; always use cuttings or buy grafted trees for specific varieties.
 5. **Fertilizing excessively** — Mulberries perform best in average to poor soils. Excess nitrogen promotes vegetative growth over fruit production. If you must fertilize, a single application of compost in spring is sufficient.
+
+## See Also
+
+- [[berry-growing]]
+- [[companion-planting]]

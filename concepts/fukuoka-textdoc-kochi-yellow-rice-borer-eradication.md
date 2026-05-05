@@ -148,3 +148,7 @@ Crop cultivation techniques based on late planting are all mere stopgap measures
 ## The Turning Point Toward Natural Farming
 
 The realization that the most comprehensive and scientifically sophisticated pest control program could achieve only the elimination of a single pest without improving overall productivity was a decisive moment in Fukuoka's intellectual journey from agricultural scientist to natural farming advocate. It demonstrated that scientific farming was always reactive, always addressing symptoms rather than causes, and always producing temporary fixes that created new problems requiring further intervention. The Kochi campaign was, in effect, a practical demonstration of the theoretical principles that Fukuoka had been developing: that nature is self-regulating, that human interference disrupts rather than improves natural systems, and that the only path to truly productive agriculture lies in understanding and working with nature rather than attempting to dominate it.
+
+## See Also
+
+- [[natural-farming]]

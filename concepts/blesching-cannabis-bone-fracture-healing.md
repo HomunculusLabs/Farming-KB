@@ -111,3 +111,4 @@ personal experiences.
 - [[blesching-cannabis-neuroprotection]]
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabinoid-pharmacology]]
+- [[blesching-cannabis-deep-relaxation-healing]]

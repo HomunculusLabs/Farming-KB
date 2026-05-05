@@ -122,3 +122,4 @@ Noribogaine appears to have a more favorable cardiac safety profile than ibogain
 ## See Also
 
 - [[ibogaine]] — Parent compound with full psychedelic profile and addiction treatment applications
+- [[noribogaine-entity]]

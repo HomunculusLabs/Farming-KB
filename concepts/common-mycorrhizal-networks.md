@@ -117,3 +117,4 @@ outcomes for [[gadd-fungal-biodiversity-conservation]] and ecosystem resilience.
 - [[ectomycorrhizal-fungi]] — dominant network formers in forests
 - [[mycelial-networks]] — the fungal body forming the network
 - [[plant-fungal-signaling-mycorrhiza]] — chemical communication in mycorrhizae
+- [[rhizophagus-irregularis]]

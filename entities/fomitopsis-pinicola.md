@@ -123,3 +123,5 @@ Various indigenous cultures in boreal regions have traditionally used F. pinicol
 - [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]
+- [[eleutheromyces-subulatus]]
+- [[imleria-badia]]

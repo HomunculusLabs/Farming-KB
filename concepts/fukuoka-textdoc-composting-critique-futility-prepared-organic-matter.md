@@ -123,3 +123,8 @@ activity, and natural succession.
 - [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 - [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
 - [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
+- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]
+- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
+- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
+- [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]

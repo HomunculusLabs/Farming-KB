@@ -137,3 +137,7 @@ See also:
 [[cannabis-propagation-sexual-vs-asexual-clarke]]
 [[cannabis-cloning-rooting-cuttings-method-clarke]]
 [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
+
+## See Also
+
+- [[humulus-lupulus]]

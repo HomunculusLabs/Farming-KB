@@ -116,6 +116,10 @@ In China, *A. aegerita* is among the top ten commercially cultivated mushrooms b
 
 ## See Also
 
+- [[agrocybe-cylindracea]]
+- [[agrocybe-praecox]]
+- [[biological-efficiency]]
+
 - [[Agrocybe]] (genus overview)
 - [[Pleurotus ostreatus]] (similar cultivation methods)
 - [[Lentinula edodes]] (comparable nutritional profile)

@@ -147,3 +147,9 @@ these for increased potency.
 - **Bubba Kush:** Related Kush lineage with similar sedative effects.
 - **Northern Lights:** Comparable pure indica with similar therapeutic
 applications.
+
+## See Also
+
+- [[bubba-kush]]
+- [[granddaddy-purple]]
+- [[northern-lights]]

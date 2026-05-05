@@ -111,6 +111,10 @@ Onset occurs within 20–60 minutes, peaking at 2–3 hours, with total duration
 
 ## See Also
 
+- [[baeocystin]]
+- [[dimethyltryptamine]]
+- [[norbaeocystin]]
+
 - [[Psilocybe]] (genus overview)
 - [[Psilocybe caerulescens]]
 - [[Psilocybe mexicana]]

@@ -126,3 +126,7 @@ their four-group system: fungi used as sacred by some tribes without reliable
 chemical studies. Their documentation preserves important cultural information
 while clearly distinguishing them from confirmed neurotropic species in the
 [[neurotropic-fungi-world-checklist]].
+
+## See Also
+
+- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]

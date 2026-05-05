@@ -126,3 +126,4 @@ agent for agricultural pest caterpillars.
 ## See Also
 
 - [[cordyceps-sinensis]] · [[ganoderma-lucidum]] · [[trametes-versicolor]] · [[grifola-frondosa]]
+- [[cordycepin]]

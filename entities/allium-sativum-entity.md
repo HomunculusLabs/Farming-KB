@@ -118,3 +118,4 @@ Garlic has been used medicinally since at least the time of the ancient Egyptian
 - [[hypericum-perforatum]]
 - [[chamomilla-recutita-entity]]
 - [[ephedra-sinica]]
+- [[allicin]]

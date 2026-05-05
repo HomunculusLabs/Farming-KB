@@ -132,4 +132,4 @@ Flowers can be harvested individually throughout the season by pinching from the
 - [[ocimum-basilicum]]
 - [[mentha-piperita]]
 - [[food-forest-permaculture]]
-
+- [[trigonella-foenum-graecum]]

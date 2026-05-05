@@ -118,3 +118,5 @@ Fukuoka reduced his labor to essentially just sowing seed and spreading straw. A
 - [[five principles of natural farming]]
 - [[barley cultivation in Japan]]
 - [[rice cultivation history]]
+- [[composting]]
+- [[masanobu-fukuoka]]

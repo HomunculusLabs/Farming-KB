@@ -137,6 +137,8 @@ emerging permaculture applications as a fast-growing vertical element.
 
 ## See Also
 
+- [[cannabis-grafting-intergeneric-humulus-clarke]]
+
 - [[cannabis-sativa]] — sister genus in Cannabaceae with overlapping
   phytochemistry
 - [[valeriana-officinalis]] — combined with hops in traditional sleep remedies

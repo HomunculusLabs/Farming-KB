@@ -138,3 +138,9 @@ These techniques are not mutually exclusive — in fact, they complement each ot
 **Choose terra preta (biochar)** when you want permanent soil improvement, need to scale across large areas, or are focused on carbon sequestration. It's the better choice for long-term investment in soil health.
 
 **Best of all**: Use both. Biochar-amended hugelkultur beds combine the water-holding power of buried wood with the permanent nutrient-retention and microbial habitat of biochar, creating a soil-building system that is greater than the sum of its parts.
+
+## See Also
+
+- [[decomposition]]
+- [[food-forest]]
+- [[hugelkultur]]

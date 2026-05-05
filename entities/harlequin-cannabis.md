@@ -140,6 +140,8 @@ sources:
 
 ## See Also
 
+- [[colombian-gold]]
+
 - [[Cannabidiol]] — primary therapeutic compound
 - [[Sativa (Cannabis)]] — dominant subspecies classification
 - [[Medical Cannabis]] — clinical applications and evidence base

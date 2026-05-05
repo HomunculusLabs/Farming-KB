@@ -118,3 +118,4 @@ Coprinus comatus plays an important ecological role as a primary decomposer of n
 - cancer treatments medicinal mushrooms — Broader context on medicinal mushroom research
 - [[mushroom-foraging-safety-guide]]
 - [[fungal-spore-discharge-mechanisms]]
+- [[coprinopsis-atramentaria]]

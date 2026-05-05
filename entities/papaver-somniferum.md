@@ -160,3 +160,10 @@ Poppy seeds are widely consumed globally:
 - **Poppy seed tea**: A dangerous practice where large quantities of unwashed poppy seeds are brewed; variable and unpredictable morphine content has caused numerous fatal overdoses
 - **Interactions**: Synergistic respiratory depression with alcohol, benzodiazepines, and other CNS depressants
 - **Pregnancy**: Neonatal abstinence syndrome (NAS) occurs with maternal opioid use; morphine crosses the placenta and blood-brain barrier
+
+## See Also
+
+- [[mckenna-opium-wars-and-drug-diplomacy]]
+
+- [[mckenna-opium-history-demeter-poppy]]
+

@@ -148,3 +148,9 @@ supports slime mold activity.
   persisting as dormant spores or sclerotia during cold or dry periods
 - Their presence in compost or soil is a **positive indicator** of a diverse,
   functioning soil food web
+
+## See Also
+
+- [[composting]]
+- [[decomposition]]
+- [[fungal-decomposition]]

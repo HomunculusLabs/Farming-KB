@@ -131,3 +131,7 @@ Multiple phenotypes exist reflecting the complex genetic background. Some expres
 ## Summary
 
 Amnesia Haze occupies a unique position in cannabis culture as a bridge between classic Haze-era genetics and modern European breeding. Its combination of award-winning potency, complex terpene profile, and enduring popularity in Amsterdam's coffeeshop scene has made it a touchstone strain. While demanding in the garden, Amnesia Haze rewards skilled cultivators with abundant, high-quality harvests of some of the most aromatically complex and cerebrally potent cannabis available.
+
+## See Also
+
+- [[bruce-banner]]

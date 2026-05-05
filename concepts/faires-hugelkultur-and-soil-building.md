@@ -86,3 +86,4 @@ Liquefied tea adds nutrients quickly -- especially useful when plants suffer bad
 - [[gaias-garden-cover-crops-soil-building]]
 - [[faires-hugelkultur-and-forest-garden-strategy]]
 - [[holzer-green-manure-and-soil-building-plants]]
+- [[comparison-hugelkultur-vs-terra-preta-soil-building]]

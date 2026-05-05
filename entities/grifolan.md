@@ -122,3 +122,4 @@ Ongoing research on grifolan includes large-scale randomized controlled trials f
 - [[psk-polysaccharide-krestin]]
 - [[polysaccharide-peptide-psp]]
 - [[lentinan]]
+- [[grifola-umbellata]]

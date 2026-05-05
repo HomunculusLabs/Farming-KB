@@ -137,3 +137,10 @@ Meta-analyses of companion planting research show:
 - **Summer**: Tomatoes with basil and marigolds; corn-bean-squash trio; cucumbers with sunflowers
 - **Autumn**: Cover crops of clover, vetch, and rye for winter soil protection and nitrogen fixation
 - **Winter**: Garlic planted among dormant perennial beds; overwintering herbs protect soil structure
+
+## See Also
+
+- [[inula-helenium]]
+- [[epimedium-sagittatum]]
+- [[monarda-didyma]]
+- [[morinda-citrifolia]]

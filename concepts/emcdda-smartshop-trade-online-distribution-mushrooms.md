@@ -1,3 +1,12 @@
+---
+title: Emcdda Smartshop Trade Online Distribution Mushrooms
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [psychedelics, policy, mycology]
+sources: [raw/papers/emcdda-hallucinogenic-mushrooms-emerging-trend-europe.md]
+---
+
      1|---
      2|title: European Smartshop Trade and Online Distribution of Hallucinogenic Mushrooms
      3|tags:
@@ -148,3 +157,9 @@
    148|with many including photo galleries, cultivation advice, and community forums.
    149|
    150|## Risk Reduction Information Gaps
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[amanita-pantherina]]
+- [[argyreia-nervosa]]

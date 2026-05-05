@@ -148,3 +148,9 @@ suggests similar parameters:
 
 Spontaneous fruiting in wood-chip gardens suggests the species can be
 encouraged through habitat creation rather than formal inoculation.
+
+## See Also
+
+- [[decomposition]]
+- [[ergosterol]]
+- [[hypholoma-fasciculare]]

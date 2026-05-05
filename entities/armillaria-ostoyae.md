@@ -128,3 +128,4 @@ Standard methods for working with *A. ostoyae* in research and diagnostics inclu
 - [[wood-decay-fungi]]
 - forest-pathology
 - Ectomycorrhizas
+- [[armillaria-gallica]]

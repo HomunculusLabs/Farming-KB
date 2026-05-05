@@ -123,3 +123,5 @@ Source: Geoff Hamilton, The Organic Garden Book
 - [[organic-garden-soil-preparation]]
 - [[gaias-garden-cover-crops-soil-building]]
 - [[hamilton-pruning-and-training-fruit-trees]]
+- [[levisticum-officinale]]
+- [[akebia-trifoliata]]

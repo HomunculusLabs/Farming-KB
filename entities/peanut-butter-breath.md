@@ -147,3 +147,9 @@ recommended. Watch for spider mites in dry conditions.
   amplifying the sweet, dessert-like terpene profile.
 - **Peanut Butter Cup:** Cross with Chocolate Thai, combining nutty
   and chocolate terpene profiles.
+
+## See Also
+
+- [[faires-dairy-processing-cheese-and-butter]]
+- [[girl-scout-cookies]]
+- [[mendo-breath]]

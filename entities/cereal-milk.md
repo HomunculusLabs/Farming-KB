@@ -146,3 +146,9 @@ LST, scrog, and topping to maximize light penetration.
 **Uncommon:** Anxiety at high doses (less common than other
 Cookies-family strains due to balanced terpene profile), mild
 paranoia in sensitive individuals, dizziness on standing.
+
+## See Also
+
+- [[smut-fungi-grass-cereal-parasites]]
+- [[girl-scout-cookies]]
+- [[mendo-breath]]

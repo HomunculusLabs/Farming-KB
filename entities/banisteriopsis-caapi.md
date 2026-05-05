@@ -100,3 +100,4 @@ Conservation concerns have emerged as international demand for B. caapi has grow
 - [[plants-of-the-gods-banisteriopsis-ayahuasca]]
 - [[cashinahua-banisteriopsis-use]]
 - [[entheogen-tetrapteris-methystica-alternative-caapi]]
+- [[harmane]]

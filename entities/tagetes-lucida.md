@@ -188,3 +188,9 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 - **Allergic reactions**: Individuals allergic to plants in the Asteraceae family (ragweed, chamomile, echinacea) may react
 - **Drug interactions**: Mild coumarin content may potentiate anticoagulant medications
 - **Pet safety**: All *Tagetes* species can be toxic to dogs and cats if ingested in quantity; keep out of reach
+
+## See Also
+
+- [[artemisia-dracunculus]]
+- [[companion-planting]]
+- [[food-forest]]

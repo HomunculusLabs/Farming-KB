@@ -93,3 +93,4 @@ typical above-ground fruiting mushrooms.
 - [[trametes-versicolor]]
 - [[ganoderma-lucidum]]
 - [[schizophyllum-commune]]
+- [[wolfiporia-extensa]]

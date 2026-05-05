@@ -130,3 +130,9 @@ intoxicant in Ghana, Nigeria, and Cameroon.
   antiplasmodial activity
 - **18-MC** — synthetic iboga derivative designed to retain anti-
   addictive properties without psychedelic or cardiotoxic effects
+
+## See Also
+
+- [[iboga-plant]]
+- [[noribogaine]]
+- [[tabernaemontana-divaricata]]

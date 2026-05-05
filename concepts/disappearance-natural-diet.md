@@ -37,8 +37,7 @@ well. Every river and stream was teeming with fish. Carp and crucian carp swam
 everywhere, and with the abundance of frogs, loaches, and killifish, a fish diet was
 standard in farming villages.
 
-This dietary abundance was made possible by the self-sufficiency of [[direct-seeded
-no-tillage rice barley succession|rice-barley]] farming households, which produced most
+This dietary abundance was made possible by the self-sufficiency of [[direct-seeded no-tillage rice barley succession|rice-barley]] farming households, which produced most
 of their own food. The diet was not limited by scarcity but by knowledge of what was
 edible. Fukuoka notes that early man undoubtedly ate several dozen times the number of
 plant and animal species eaten by modern man.
@@ -102,12 +101,10 @@ equilibrium and opens the door to disease.
 
 For Fukuoka, the disappearance of the natural diet is not just a practical concern but
 a symptom of humanity's fundamental estrangement from nature. The same arrogance that
-leads man to believe he can improve upon nature through [[scientific agriculture|modern
-farming methods]] leads him to believe he can improve upon natural food through
+leads man to believe he can improve upon nature through [[scientific agriculture|modern farming methods]] leads him to believe he can improve upon natural food through
 processing and chemical modification.
 
-This philosophical critique extends to [[mahayana-hinayana-natural-farming|the Mahayana
-versus Hinayana distinction]] in farming. Just as the "Hinayana" farmer works
+This philosophical critique extends to [[mahayana-hinayana-natural-farming|the Mahayana versus Hinayana distinction]] in farming. Just as the "Hinayana" farmer works
 desperately to control nature, the modern eater works desperately to control flavor and
 nutrition through artificial means, never recognizing that nature's way is already
 perfect.
@@ -138,3 +135,5 @@ and their preparation returns with it.
 - [[scientific agriculture]]
 - [[traditional Japanese foodways]]
 - [[mahayana-hinayana-natural-farming]]
+- [[masanobu-fukuoka]]
+- [[natural-diet]]

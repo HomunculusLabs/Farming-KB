@@ -145,3 +145,4 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 - [[apple-tree-care]] for companion orchard fruit management
 - [[backyard-orchard-design]] for orchard layout and integration
 - [[stone-fruit-tree-care]] for companion fruit tree care
+- [[grape-ape]]

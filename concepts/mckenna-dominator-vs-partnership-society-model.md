@@ -129,3 +129,4 @@ societies was imaged as female -- the power to create and sustain life.
 - [[mckenna-psychedelic-shamanism]]
 - [[mckenna-archaic-revival]]
 - [[mckenna-catalytic-psychedelics-and-culture]]
+- [[mckenna-coca-mama-coca-inca-goddess-tradition]]

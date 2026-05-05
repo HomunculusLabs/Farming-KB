@@ -105,3 +105,4 @@ The choice of method depends on the research question:
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[fungal-biodiversity-data-analysis]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
+- [[permanent-marker]]

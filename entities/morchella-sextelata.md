@@ -146,3 +146,9 @@ Overharvesting is a concern in productive burn areas, though harvesting
 impact on mycelial populations remains debated. Commercial permits are
 required on public lands in many western states. Raking can damage soil
 structure and regenerating vegetation in post-fire landscapes.
+
+## See Also
+
+- [[decomposition]]
+- [[morchella-elata]]
+- [[mycorrhiza]]

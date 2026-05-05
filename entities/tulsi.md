@@ -138,6 +138,8 @@ Tulsi excels in permaculture food forests and herb spirals for:
 
 ## See Also
 
+- [[holy-basil-tulsi-guide]]
+
 - [[ashwagandha]]
 - [[ocimum-basilicum]]
 - [[fish-amino-acid-faa]]

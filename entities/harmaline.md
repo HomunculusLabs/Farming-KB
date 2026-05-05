@@ -142,6 +142,10 @@ penetration and receptor interaction versus harmine.
 
 ## See Also
 
+- [[banisteriopsis-caapi]]
+- [[harmala-alkaloids]]
+- [[passiflora-incarnata]]
+
 - [[Beta-Carboline]]
 - [[MAO Inhibitor]]
 - [[Ayahuasca]]

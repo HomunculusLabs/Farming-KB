@@ -141,6 +141,10 @@ The most important identification features are: small size, black spore print, m
 
 ## See Also
 
+- [[baeocystin]]
+- [[biological-efficiency]]
+- [[copelandia-cyanescens]]
+
 - [[Psilocybin]] — primary psychoactive tryptamine compound
 - [[Psilocybe-cubensis]] — most widely cultivated psilocybin mushroom
 - [[Hericium-erinaceus]] — non-psychoactive medicinal mushroom for comparison

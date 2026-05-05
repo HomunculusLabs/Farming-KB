@@ -194,3 +194,5 @@ Yarrow is generally safe when used appropriately:
 - [[urtica-dioica]] — Nettle (complementary dynamic accumulator)
 - [[comfrey]] — Comfrey (permaculture companion, wound herb)
 - [[companion-planting]] — Comprehensive companion planting guide
+- [[cichorium-intybus]]
+- [[equisetum-arvense]]

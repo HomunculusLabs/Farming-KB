@@ -145,6 +145,10 @@ MDMA-assisted psychotherapy is among the most promising applications in modern p
 
 ## See Also
 
+- [[alexander-shulgin]]
+- [[mescaline]]
+- [[serotonin]]
+
 - [[MDA]] — primary active metabolite · [[Amphetamine]] — parent pharmacological class · [[Mescaline]] — structural relative
 - [[Serotonin]] — primary neurotransmitter target · [[PIHKAL]] — Shulgin's compendium (MDMA #109)
 - [[MAPS]] — clinical research organization · [[PTSD]] — primary therapeutic target · [[Alexander Shulgin]] — rediscoverer

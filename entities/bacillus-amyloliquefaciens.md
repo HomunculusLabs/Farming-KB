@@ -145,3 +145,9 @@ Non-pathogenic to humans, animals, and plants.
 - *Bacillus subtilis* — close relative; many strains reclassified.
 - *Bacillus velezensis* — sister species; significant taxonomic overlap.
 - *Bacillus siamensis* — close relative from tropical soils.
+
+## See Also
+
+- [[bacillus-subtilis]]
+- [[botrytis-cinerea]]
+- [[decomposition]]

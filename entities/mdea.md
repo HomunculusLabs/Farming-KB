@@ -89,3 +89,4 @@ The gentler comedown compared to MDMA does not eliminate the risk of serotonin s
 - [[mbdb-entity]] — the N-methylbenzofuran analog, another gentler alternative
 - [[2c-b]] — phenethylamine with overlapping entactogenic and psychedelic effects
 - [[alexander-shulgin]] — documented MDEA in PIHKAL
+- [[ethylone]]

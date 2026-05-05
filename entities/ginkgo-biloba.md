@@ -118,3 +118,4 @@ The most widely studied formulation, EGb 761 (Tebonin, Tanakan), is standardized
 - [[panax-ginseng]] — Asian ginseng, frequently combined with ginkgo in nootropic supplement formulations
 - [[bacopa-monnieri]] — Brahmi, complementary herbal nootropic for memory and cognitive enhancement
 - [[withania-somnifera]] — Ashwagandha, adaptogenic herb with overlapping neuroprotective mechanisms
+- [[ptychopetalus-olacoides]]

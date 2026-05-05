@@ -134,3 +134,4 @@ theme also explored in [[mescaline-ethnobotany]].
 - oral submucous fibrosis
 - stimulant plant ethnobotany
 - traditional asian plant use
+- [[arecoline]]

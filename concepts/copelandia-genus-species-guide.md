@@ -95,3 +95,4 @@ All Copelandia species should be identified with extreme care, as they grow in t
 
 - [[psilocybe-cubensis-profile]]
 - [[panaeolus-tropicalis-cultivation-differences]]
+- [[copelandia-mexicana]]

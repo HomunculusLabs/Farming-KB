@@ -118,3 +118,4 @@ The Mixtec name for L. mixtecorum, if one exists beyond the scientific epithet, 
 - [[psilocybe-mexicana-entity-the-mushroom-cultivator]] — the classic Mexican psychedelic mushroom
 - [[coryphantha-compacta]] — Bakana, used by the Tarahumara as a Peyote substitute
 - [[lophophora-williamsii]] — Peyote, the most famous Mexican visionary plant
+- [[lycoperdon-perlatum]]

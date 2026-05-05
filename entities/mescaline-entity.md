@@ -129,6 +129,10 @@ Mescaline-containing cacti hold irreplaceable cultural importance:
 
 ## See Also
 
+- [[aldous-huxley]]
+- [[anadenanthera-peregrina]]
+- [[arthur-heffter]]
+
 - [[Psilocybin]] — Another classical psychedelic, shorter duration and higher potency
 - [[2C-B]] — Synthetic phenethylamine psychedelic structurally related to mescaline
 - [[DMT]] — Short-acting tryptamine psychedelic used in ayahuasca

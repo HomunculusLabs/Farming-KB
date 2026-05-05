@@ -122,3 +122,4 @@ R. obtusifolius is classified as a dynamic accumulator due to its deep taproot s
 - [[comfrey-symphytum-officinale]]
 - [[yarrow]]
 - [[plantago-major]]
+- [[rumex-acetosa]]

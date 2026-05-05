@@ -145,3 +145,6 @@ However, Shulgin maintained that the information was already available in the sc
 - [[phenethylamine-chemistry-basics]] — foundational chemistry
 - [[2c-b-compound-profile]] — detailed compound entry
 - [[2c-e-compound-profile]] — detailed compound entry
+
+- [[25b-nbome]]
+- [[25i-nbome]]

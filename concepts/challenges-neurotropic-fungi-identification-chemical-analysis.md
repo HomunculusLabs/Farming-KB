@@ -132,3 +132,9 @@ Molecular phylogenetic methods offer the most promising path forward for resolvi
 - Test the monophyly of morphologically defined sections within [[Psilocybe]] and other genera
 
 However, molecular phylogenetic studies of neurotropic fungi face their own challenges: many type specimens are too old for DNA extraction, many species are known from only one or a few collections (insufficient for population-level sampling), and the legal status of these fungi in many countries restricts the collection of fresh material for molecular work. Despite these obstacles, the application of molecular methods has already begun to revolutionize our understanding of neurotropic fungal systematics.
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[baeocystin]]
+- [[cryptic-species]]

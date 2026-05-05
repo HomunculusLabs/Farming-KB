@@ -122,3 +122,9 @@ Fukuoka's scale insect case studies remain among the clearest demonstrations tha
 What makes these case studies particularly powerful is that they do not require the farmer to actively manage biological control. The vedalia ladybug and the parasitic wasps established themselves without human assistance. The farmer's role was simply to refrain from destroying what nature had already put in place. This is the essence of natural farming: not doing things, but stopping the things that prevent nature from doing them.
 
 The lesson extends beyond agriculture into every domain of human activity. When we intervene heavily in natural systems, we invariably create problems that require further intervention. When we step back, natural systems tend toward balance and health. The scale insect case studies are not merely about pest control — they are about the relationship between human action and natural order.
+
+## See Also
+
+- [[integrated-pest-management]]
+- [[natural-farming]]
+- [[orchard-management]]

@@ -142,6 +142,10 @@ intertwined with the music and counterculture of the 1960s:
 - **Super Silver Haze:** Similar sativa energy with complex
   spicy-sweet flavor, no purple hues
 ## See Also
+
+- [[amnesia-haze]]
+- [[blue-dream]]
+- [[super-silver-haze]]
 - [[Haze]] — Foundational sativa hybrid parent strain
 - [[Purple Thai]] — Southeast Asian landrace parent
 - [[Blue Dream]] — Popular modern sativa-dominant hybrid

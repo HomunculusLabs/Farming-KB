@@ -144,3 +144,12 @@ cultivated supply chains to reduce wild collection pressure.
   shorter inflorescences, distinct scent.
 - **Salvia clevelandii** (Cleveland sage) — cultivated ornamental, intensely
   fragrant blue flowers, grayer foliage.
+
+## See Also
+
+- [[native-plant-gardening]]
+
+- [[herbal-plant-remedies]]
+
+- [[salvia-officinalis]]
+- [[herbal-plant-remedies]]

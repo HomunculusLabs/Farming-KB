@@ -5,25 +5,24 @@ tags:
   - fungi
   - medicinal-mushroom
   - nootropic
-  - lion's-mane
   - mycology
-  - adaptogen
+  - lion's-mane
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/?term=Hericium+erinaceus
-  - https://www.mycobank.org/
+  - https://pubmed.ncbi.nlm.nih.gov/?term=hericium+erinaceus+neurogenesis
   - Stamets, P. (2006). Mycelium Running. Ten Speed Press.
+  - Wong, K.H. et al. (2021). "Hericium erinaceus: From culinary mushroom to therapeutic agent." Journal of Functional Foods, 85, 104583.
 ---
 
 # Hericium erinaceus
 
-**Lion's Mane** · *Hericium erinaceus* (Bull.) Pers. (1797)
+**Lion's Mane** is an edible and medicinal mushroom belonging to the tooth fungus group, recognized for its distinctive cascading white spines that resemble a lion's mane. It grows on hardwood trees across North America, Europe, and Asia, and has been used for centuries in Traditional Chinese Medicine.
 
 ## Taxonomy
 
-| Rank | Name |
-|------|------|
+| Rank | Classification |
+|------|---------------|
 | Kingdom | Fungi |
 | Division | Basidiomycota |
 | Class | Agaricomycetes |
@@ -34,101 +33,103 @@ sources:
 
 ## Description
 
-Hericium erinaceus is a species of edible and medicinal mushroom belonging to the tooth fungus group. It is easily recognized by its cascading white spines — long, downward-pointing structures that resemble a lion's mane, hence the common name. Fruit bodies can reach 5–25 cm in diameter and are typically found growing on hardwood trees, especially oak (*Quercus* spp.), walnut (*Juglans*), beech (*Fagus*), and sycamore (*Platanus*).
+Fruiting bodies are 5–25 cm in diameter, composed of soft, dangling spines (spore-bearing structures) that can reach 2–6 cm in length. The fungus is white when fresh, yellowing with age. It has no cap, gills, or stem in the conventional sense — the spines emerge directly from the fruiting surface, which attaches to dead or dying hardwood.
 
-The spines are 1–5 cm long, white when fresh, and turn yellowish-brown with age. The flesh is firm and white, with a texture often compared to crab meat or lobster when cooked. Spore print is white. Basidiospores are roughly spherical to broadly ellipsoid, 5–7 × 5–6 µm, smooth, and amyloid.
+**Spore print:** White. **Spores:** Globose to subglobose, 5–7 µm, smooth, amyloid.
 
-## Distribution and Habitat
+## Habitat & Ecology
 
-Native to North America, Europe, and Asia. It is a saprotrophic and parasitic fungus that decomposes dead hardwood but can also act as a wound parasite on living trees. In temperate forests, it fruits in late summer through autumn (August–November in the Northern Hemisphere). It prefers mature forests with abundant dead or dying hardwood.
+Lion's Mane is a saprotrophic and occasionally parasitic wood-decay fungus. Primary hosts include:
 
-Wild populations are in decline across parts of Europe and North America due to old-growth forest loss. It is listed as a species of conservation concern in several European countries.
+- **American beech** (*Fagus grandifolia*)
+- **Oak** (*Quercus* spp.)
+- **Walnut** (*Juglans* spp.)
+- **Maple** (*Acer* spp.)
+- **Birch** (*Betula* spp.)
 
-## Cultivation
-
-Lion's Mane is commercially cultivated on supplemented hardwood sawdust substrates. Optimal fruiting temperatures range from 18–24°C with high humidity (85–95%). Common cultivation substrates include:
-
-- Hardwood sawdust (oak, beech) + wheat bran (4:1 ratio)
-- Supplemented hardwood chips
-- Master's mix (hardwood sawdust + soy hulls)
-
-Colonization takes 14–21 days, with fruiting beginning 7–14 days after induction. Yields of 150–300 g fresh weight per 1 kg dry substrate are typical. Indoor cultivation uses monotubs, bags, or bottles. Outdoor cultivation on inoculated hardwood logs is also possible but slower (6–12 months to first fruit).
+It fruits in late summer through autumn, preferring mature forests with abundant dead hardwood. In permaculture systems, it can be cultivated on inoculated hardwood logs or supplemented sawdust blocks.
 
 ## Bioactive Compounds
 
-Hericium erinaceus contains several notable bioactive compounds:
+The therapeutic reputation of *H. erinaceus* rests on two primary classes of compounds:
 
-### Hericenones and Erinacines
+### Hericenones (Fatty Acid Derivatives)
+Found in the fruiting body, hericenones (C–H) stimulate nerve growth factor (NGF) synthesis in the brain. Hericenones C, D, E, F, G, and H have been isolated and studied, with hericenones C and D showing the most potent NGF-inducing activity.
 
-These are the primary nootropic compounds. **Hericenones** (C–H) are isolated from the fruiting body, while **erinacines** (A–I) are isolated from the mycelium. Both classes stimulate nerve growth factor (NGF) synthesis:
+### Erinacines (Cyathane-Type Terpenoids)
+Produced by the mycelium, erinacines A–I are potent stimulators of NGF and brain-derived neurotrophic factor (BDNF). Erinacine A is the most studied, showing oral bioavailability and the ability to cross the blood-brain barrier.
 
-- **Erinacine A** — most potent NGF stimulator; isolated from mycelial cultures
-- **Hericenones C and D** — promote NGF production in cultured astrocytes
-- **Hericenone E** — demonstrates anti-inflammatory and antioxidant activity
-
-### β-Glucans
-
-Polysaccharide β-glucans (primarily β-1,3/1,6-glucans) contribute to immunomodulatory effects, activating macrophages, NK cells, and dendritic cells.
-
-### Other Compounds
-
-- **Hericiumones** — anti-inflammatory terpenoids
-- **Oleanolic acid** — hepatoprotective triterpenoid
+### Additional Compounds
+- **β-Glucan polysaccharides** — immunomodulatory, anti-inflammatory
+- **Hericerin** — antioxidant
 - **Palmitoylethanolamide (PEA)** — endocannabinoid-like anti-inflammatory
 
-## Pharmacology and Clinical Evidence
+## Medicinal Properties
 
-### Neuroprotective Effects
+### Neuroprotection & Cognitive Enhancement
+Animal studies and early clinical trials suggest Lion's Mane may improve mild cognitive impairment. A 2009 double-blind, placebo-controlled clinical trial (Mori et al.) in 50–80 year-old Japanese adults showed significant improvement in cognitive function scores after 16 weeks of Lion's Mane consumption, with scores declining after cessation.
 
-Multiple studies demonstrate neuroprotective properties through NGF stimulation. A landmark double-blind, parallel-group, placebo-controlled trial (Mori et al., 2009) showed that oral intake of H. erinaceus dried powder (3 g/day for 16 weeks) significantly improved cognitive function in Japanese adults with mild cognitive impairment (MCI). Scores on the Revised Hasegawa Dementia Scale (HDS-R) improved in the H. erinaceus group but declined in the placebo group.
+Proposed mechanisms include:
+- NGF synthesis stimulation → neurite outgrowth
+- BDNF upregulation → synaptic plasticity
+- Anti-inflammatory action → reduced neuroinflammation
+- Antioxidant activity → reduced oxidative stress in neurons
 
-### Nerve Regeneration
+### Nervous System Repair
+In vitro studies demonstrate that erinacine A promotes myelination and may support repair of damaged peripheral nerves. Research is ongoing for applications in:
+- Peripheral neuropathy
+- Spinal cord injury
+- Multiple sclerosis (adjunctive)
 
-Animal studies show acceleration of peripheral nerve regeneration following crush injuries. Erinacine-containing extracts promoted functional recovery and axonal regrowth in rat sciatic nerve models.
+### Mood & Anxiety
+Preclinical evidence suggests anti-depressant and anxiolytic effects via modulation of the hypothalamic-pituitary-adrenal (HPA) axis and reduction of inflammatory cytokines (IL-6, TNF-α).
 
-### Antidepressant and Anxiolytic
+### Gastrointestinal Health
+Traditional use for stomach ailments is supported by evidence that Lion's Mane extract protects gastric mucosa, inhibits *Helicobacter pylori* growth, and reduces inflammatory bowel symptoms in animal models.
 
-A 2020 Japanese study (Nagano et al.) found that H. erinaceus intake reduced depression and anxiety scores in overweight adults over 4 weeks. The mechanism is hypothesized to involve reduction of inflammatory cytokines (IL-6, TNF-α) and modulation of the gut-brain axis.
+## Cultivation
 
-### Anti-inflammatory and Antioxidant
+### Substrate Methods
 
-Extracts demonstrate significant inhibition of NF-κB signaling, COX-2 expression, and oxidative stress markers in vitro and in animal models.
+**Log cultivation:**
+- Inoculate freshly cut hardwood logs (oak, beech) with plug spawn in spring
+- Incubate in shade for 12–18 months at 60–80% humidity
+- Expect fruiting 1–2 years after inoculation
+- Logs can produce for 3–6 years
 
-## Culinary Uses
+**Indoor cultivation (supplemented sawdust):**
+- Base substrate: hardwood sawdust (oak, beech) 80%, wheat bran 18%, gypsum 2%
+- Moisture content: 60–65%
+- Sterilize at 15 psi for 90 minutes
+- Spawn rate: 5–10% by weight
+- Colonization: 14–21 days at 20–24°C
+- Fruiting: Induce with fresh air exchange, light (500–1000 lux), and temperature drop to 16–18°C
+- Harvest: 7–14 days after primordia formation
 
-Lion's Mane is considered a choice edible with a sweet, mild flavor and seafood-like texture. Common preparations:
+### Permaculture Integration
+Lion's Mane is an excellent candidate for forest garden integration. Inoculated logs can be placed beneath canopy trees, utilizing vertical space in food forests. The species pairs well with shiitake logs on different hardwood species, diversifying mushroom yields.
+
+## Culinary Use
+
+Lion's Mane has a firm, meaty texture and a mild, sweet flavor often compared to lobster or crab. Common preparations:
 
 - Sautéed in butter with garlic and thyme
-- Breaded and fried as "crab cakes"
-- Dried, powdered, and added to teas, coffees, or smoothies
-- Soups and stir-fries
+- Breaded and fried as a seafood substitute
+- Dried and powdered for teas and broths
+- Extracted in alcohol for tinctures
 
-It is commercially available fresh, dried, as a powder, and in extract form (tinctures, capsules, dual extracts).
+## Safety & Contraindications
 
-## Permaculture and Ecological Role
+Lion's Mane is generally regarded as safe (GRAS). Rare adverse effects include:
+- Mild gastrointestinal discomfort at high doses
+- Theoretical risk for individuals with bleeding disorders (inhibits platelet aggregation)
+- Avoid in individuals with known mushroom allergies
 
-In permaculture systems, Lion's Mane serves as a valuable edible mushroom crop in forest gardens and agroforestry setups. It can be inoculated into hardwood logs or stumps in food forest understories, contributing to nutrient cycling and wood decomposition while producing a high-value crop.
-
-Key permaculture functions:
-- **Decomposer** — breaks down hardwood, cycling nutrients back into soil
-- **Food production** — high-value gourmet and medicinal mushroom
-- **Economic yield** — commands premium prices ($15–40/lb fresh; $30–80/lb dried)
-- **Ecological indicator** — presence indicates healthy, mature forest ecosystem
-
-## Dosage and Safety
-
-Typical therapeutic dosages:
-- **Dried powder:** 1–3 g/day
-- **Dual extract (tincture):** 1–2 mL (2–3 dropperfuls) 1–3× daily
-- **Concentrated extract capsules:** 500–1000 mg/day
-
-No serious adverse effects have been reported in clinical trials. Rare cases of contact dermatitis from handling fresh fruit bodies and mild gastrointestinal discomfort at high doses have been noted. Not recommended during pregnancy or breastfeeding due to insufficient safety data.
-
-Potential drug interactions include anticoagulants (theoretical bleeding risk due to antiplatelet activity) and immunosuppressants (immune-stimulating effects may counteract these medications).
+No established LD50 — oral toxicity is extremely low.
 
 ## See Also
 
-- [[Ganoderma-lucidum]] — Reishi, another medicinal mushroom
-- [[trametes-versicolor]] — Turkey Tail, immunomodulatory mushroom
-- [[psilocybin]] — psychoactive fungal compound
-- [[inonotus-obliquus]] — Chaga, antioxidant-rich fungus
+- [[ganoderma-lucidum]] — Reishi, another neuroprotective mushroom
+- [[trametes-versicolor]] — Turkey Tail, immunomodulatory ally
+- [[pleurotus-ostreatus]] — Oyster mushroom, beginner-friendly cultivation
+- [[permaculture-mushroom-cultivation]] — Integration into food forests

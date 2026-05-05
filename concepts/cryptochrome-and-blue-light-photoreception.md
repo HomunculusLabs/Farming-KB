@@ -125,6 +125,10 @@ development.
 
 ## See Also
 
+- [[arabidopsis-thaliana]]
+- [[daniel-chamovitz]]
+- [[phytochrome-and-plant-light-perception]]
+
 - [[Phytochrome and Plant Light Perception]] for the red/far-red photoreceptor system
 - [[Plant Photoreception and Phototropism]] for the broader context of light sensing
 - [[Plant Vision and Phototropism]] for Darwin's foundational experiments

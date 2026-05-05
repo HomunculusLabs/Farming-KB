@@ -141,6 +141,10 @@ integration in polyculture systems.
 
 ## See Also
 
+- [[achillea-millefolium]]
+- [[calendula-officinalis]]
+- [[companion-planting]]
+
 - [[Calendula officinalis]] — Asteraceae medicinal flower with
   overlapping topical anti-inflammatory uses.
 - [[Achillea millefolium]] — yarrow, related Asteraceae herb for

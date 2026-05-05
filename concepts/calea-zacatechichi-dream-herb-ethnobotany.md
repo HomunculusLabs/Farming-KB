@@ -137,3 +137,4 @@ dream research and consciousness studies.
 - [[golden-guide-salvia-divinorum-and-diviner-sage]]
 - [[golden-guide-coleus-and-other-mild-psychoactives]]
 - [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]
+- [[tangerine-dream]]

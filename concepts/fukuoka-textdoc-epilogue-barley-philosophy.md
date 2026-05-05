@@ -147,3 +147,7 @@ The core principle is that "nature always returns to its former state."
 He envisioned not the creation of green oases through artificial irrigation, but "the return of entire deserts to their former state as earthly paradises."
 
 This proposal — sowing clay pellets containing seeds of desert-appropriate plants across arid landscapes — represented Fukuoka's belief that even the most extreme environmental degradation could be reversed through natural methods, provided humanity was willing to step back and allow nature to heal itself.
+
+## See Also
+
+- [[natural-farming]]

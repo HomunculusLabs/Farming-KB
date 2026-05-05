@@ -137,3 +137,9 @@ profiles vary significantly by growing conditions and chemovar.
   formula (C₁₅H₂₆O) but different ring system (cedrane skeleton).
 - **Eudesmol**: Eudesmane-skeleton sesquiterpene alcohol found in eucalyptus and
   ginger; close structural relative.
+
+## See Also
+
+- [[aspergillus-niger]]
+- [[bacillus-subtilis]]
+- [[candida-albicans]]

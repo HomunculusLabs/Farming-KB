@@ -140,3 +140,9 @@ Several properties make *M. gigantea* relevant to permaculture design:
   very large (cap to 80 cm) but with more robust stipe and distinct ITS sequence.
 - ***Calvatia gigantea*** (giant puffball): Superficially similar size but lacks
   gills entirely; produces spores internally in a gleba rather than on lamellae.
+
+## See Also
+
+- [[agar]]
+- [[agroforestry]]
+- [[biological-efficiency]]

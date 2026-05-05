@@ -91,3 +91,5 @@ foods market.
 - [[lentinula-edodes]]
 - [[auricularia-auricula]]
 - [[hericium-erinaceus]]
+- [[tremella-foliacea]]
+- [[tremella-aurantialba]]

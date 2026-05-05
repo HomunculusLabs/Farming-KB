@@ -136,8 +136,7 @@ converts starches to sugars.
   with less pest pressure
 - Use [[query-what-is-integrated-pest-management-for-organic-gardens|floating row covers]] from
   transplant to exclude cabbage butterflies and flea beetles
-- Practice strict [[crop-rotation-principles|3-4 year crop
-  rotation]] to prevent clubroot
+- Practice strict [[crop-rotation-principles|3-4 year crop rotation]] to prevent clubroot
 - Harvest broccoli before florets separate, cabbage when heads are
   solid, and [[cole-crop-harvest-and-storage|sprouts after frost]]
 - Try Asian greens like mizuna and tatsoi for fast, less demanding

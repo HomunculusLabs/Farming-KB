@@ -114,6 +114,10 @@ The species most commonly sold through smartshops and online retailers are [[Psi
 
 ## See Also
 
+- [[amanita-phalloides]]
+- [[copelandia-cyanescens]]
+- [[galerina-marginata]]
+
 - [[Psilocybin and Psilocin Chemistry]]
 - [[Smartshop and Online Mushroom Markets]]
 - [[Dose Effects and Health Risks of Psilocybin Mushrooms]]

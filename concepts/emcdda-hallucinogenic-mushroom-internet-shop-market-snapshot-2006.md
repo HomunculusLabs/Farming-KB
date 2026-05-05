@@ -186,6 +186,10 @@ retail outlets remained the dominant distribution channel.
 
 ## See Also
 
+- [[amanita-muscaria]]
+- [[amanita-pantherina]]
+- [[argyreia-nervosa]]
+
 - [[EMCDDA hallucinogenic mushroom emerging trend analysis]] for the full overview
 - [[EMCDDA hallucinogenic mushroom cultivation and growkit market]] for smartshop
   analysis

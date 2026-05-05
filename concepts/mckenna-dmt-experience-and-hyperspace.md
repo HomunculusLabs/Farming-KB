@@ -88,3 +88,4 @@ The [[psilocybin-and-mystical-experience]] has brought renewed scholarly attenti
 ## Contemporary Relevance
 
 McKenna's ideas about the relationship between psychoactive plants and human consciousness have found new relevance in the context of the modern psychedelic renaissance. Research into psychedelic-assisted therapy, documented in [[psychedelic-therapy-mechanisms]], has demonstrated that substances like psilocybin can produce mystical-type experiences that have lasting positive effects on personality, well-being, and attitudes toward death. These findings lend some empirical support to McKenna's argument that psychoactive plants have played a significant role in shaping human consciousness and culture.
+- [[mckenna-dmt-experience-and-overmind]]

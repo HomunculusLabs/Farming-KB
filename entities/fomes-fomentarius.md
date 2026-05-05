@@ -121,3 +121,4 @@ In permaculture and forest gardening contexts, F. fomentarius plays several role
 - [[piptoporus-betulinus]]
 - [[hericium-erinaceus]]
 - [[fomitopsis-pinicola]]
+- [[neolentinus-lepideus]]

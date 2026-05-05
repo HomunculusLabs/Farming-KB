@@ -113,6 +113,10 @@ The terminology used to describe these substances varies significantly between c
 
 ## See Also
 
+- [[albert-hofmann]]
+- [[amanita-muscaria]]
+- [[baeocystin]]
+
 - [[Hallucinogenic Mushroom Prevalence in Europe]]
 - [[Dose Effects and Health Risks of Psilocybin Mushrooms]]
 - [[Psilocybe Species Identification]]

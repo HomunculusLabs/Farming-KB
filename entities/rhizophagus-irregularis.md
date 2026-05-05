@@ -121,3 +121,9 @@ On-farm inoculum via trap crop methods (*Paspalum notatum*, *Sorghum bicolor* in
 | Arbuscule type | Arum-type (highly branched) |
 | Hyphal attachment | Direct from subtending hypha, no bulbous base |
 | Soil niche | Generalist; prefers disturbed/agricultural soils |
+
+## See Also
+
+- [[agroforestry]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[common-mycorrhizal-networks]]

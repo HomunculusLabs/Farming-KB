@@ -148,3 +148,10 @@ slightly more sativa-influenced cut with longer flowering time and more
 cerebral effect. DNA Genetics' original cut remains the most widely
 available. LA Confidential has been used as a parent in crosses including
 Confidential Cheese (with UK Cheese) and LA Con (with various hybrids).
+
+## See Also
+
+- [[cannabis-indica]]
+
+- [[cannabis-strain-selection-guide]]
+- [[cannabis-phenotype-and-genotype-guide]]

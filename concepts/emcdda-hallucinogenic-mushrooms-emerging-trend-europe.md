@@ -62,8 +62,7 @@ and Psilocybe moravica.
 
 Mushrooms were sold through multiple channels: as fresh and dried products in
 smartshops and market stalls, and as home cultivation materials including
-mushroom prints, spawn bags, and grow kits via internet shops. [[Psilocybe
-cubensis]] varieties (Mexican, Thai, Colombian, Amazonian) were the most
+mushroom prints, spawn bags, and grow kits via internet shops. [[Psilocybe cubensis]] varieties (Mexican, Thai, Colombian, Amazonian) were the most
 commonly marketed. Some species such as Psilocybe mexicana and Psilocybe
 tampanensis form sclerotia, sold as "truffles" or "philosopher's stones."
 

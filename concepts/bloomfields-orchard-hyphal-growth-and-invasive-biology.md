@@ -180,3 +180,8 @@ understanding of fungal biology.
 - [[Spore Discharge Mechanisms in Fungi]]
 - [[Fungal Pathogens and Human Disease]]
 - [[Gasteromycetes and Stinkhorn Fungi]]
+
+## See Also
+
+- [[magnaporthe-grisea]]
+- [[mycorrhiza]]

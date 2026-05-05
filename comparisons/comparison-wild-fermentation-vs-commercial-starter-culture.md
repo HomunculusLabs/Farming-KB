@@ -158,3 +158,5 @@ Wild fermentation and commercial starter culture fermentation are not opposed me
 ## See Also
 
 - [[comparison-koji-vs-scoby-fermentation-culture]]
+- [[bacillus-subtilis]]
+- [[lactobacillus]]

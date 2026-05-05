@@ -148,3 +148,8 @@ purple-dominant "Black Cherry" pheno with heavier indica effects, a
 citrus-dominant "Tropicana" pheno with more sativa expression, and a
 rare "Frost" pheno with exceptional trichome production and balanced
 effects.
+
+## See Also
+
+- [[purple-punch]]
+- [[tropicana-cookies]]

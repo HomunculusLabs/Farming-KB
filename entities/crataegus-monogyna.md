@@ -143,3 +143,9 @@ grafting for named cultivars.
   in TCM for digestive stagnation; source of commercial haw flakes.
 - ***Crataegus phaenopyrum*** (Washington Hawthorn) — North American ornamental
   with distinctive thorns and excellent fall color.
+
+## See Also
+
+- [[mycorrhiza]]
+- [[permaculture]]
+- [[permaculture-design]]

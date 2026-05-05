@@ -152,3 +152,9 @@ Samorini's intellectual framework rests on several interconnected propositions:
   Samorini's approach is more empirical
 - **Gordon Wasson:** Samorini extends Wasson's pioneering ethnomycology
   into African and Classical contexts
+
+## See Also
+
+- [[agar]]
+- [[amanita]]
+- [[amanita-muscaria]]

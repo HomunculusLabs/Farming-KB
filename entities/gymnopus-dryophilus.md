@@ -119,3 +119,9 @@ Climate change models predict shifts in the distribution of *G. dryophilus* as t
 ## Interaction with Mycorrhizal Networks
 
 Emerging research suggests *G. dryophilus* may interact with ectomycorrhizal fungal networks in oak forests, though the nature of these interactions remains debated. Some studies using molecular techniques have detected *G. dryophilus* DNA within the mycorrhizosphere of oak roots, suggesting it may access root exudates or benefit from the mycorrhizal carbon pipeline. Other researchers argue this represents opportunistic colonization of dead root material rather than a true symbiotic relationship. Experimental evidence from microcosm studies shows that the presence of ectomycorrhizal fungi (*Laccaria laccata*, *Pisolithus tinctorius*) can either stimulate or inhibit *G. dryophilus* growth depending on substrate conditions and nutrient availability, indicating a complex, context-dependent interaction. These findings have implications for understanding carbon and nutrient flow in forest floor food webs. Further research using stable isotope probing and metatranscriptomics is needed to fully characterize these interactions.
+
+## See Also
+
+- [[agar]]
+- [[cryptic-species]]
+- [[decomposition]]

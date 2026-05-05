@@ -136,3 +136,9 @@ forests and garden systems. Frequently appears in commercial mulch.
 - **Clathrus ruber** — red cage fungus, Mediterranean, lattice
 - **Clathrus columnatus** — columnar, southeastern North America
 - **Aseroe rubra** — sea anemone fungus, Australasian native
+- [[clathrus-ruber]]
+
+## See Also
+
+- [[decomposition]]
+- [[permaculture]]

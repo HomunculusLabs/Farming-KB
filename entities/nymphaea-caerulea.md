@@ -143,3 +143,4 @@ Ethnobotanical surveys are documenting the declining traditional knowledge of th
 - Nuciferine
 - Apomorphine
 - [[allegro-plants-and-drugs-in-the-ancient-world]]
+- [[nymphaea-ampla]]

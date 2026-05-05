@@ -1,3 +1,12 @@
+---
+title: Spore Interstellar Dispersal Hypothesis
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [mycology, spores, theory]
+sources: [raw/papers/panspermia-hypothesis.md]
+---
+
      1|--- 2|title: Spore Interstellar Dispersal Hypothesis
      3|tags: [panspermia, mycology, astrobiology, stropharia-cubensis, mckenna]
      4|date: 2026-04-28 5|updated: 2026-04-28 6|sources:
@@ -120,7 +129,11 @@
    153|rather than to independent scientific inquiry, places it firmly in the
    154|category of revelatory knowledge rather than empirical science. Whether such
    155|knowledge deserves consideration alongside conventional scientific hypotheses
-   156|depends on one's epistemological framework. 157| 158|## See Also 159|
+   156|depends on one's epistemological framework. 157| 158|## See Also
+
+- [[fungal-spores]]
+- [[gordon-wasson]]
+- [[mckenna-mushroom-cultivation-history]] 159|
    160|- [Stropharia Cubensis Extraterrestrial Hypothesis](stropharia-cubensis-extraterrestrial-hypothesis.md)
    161|- [McKenna Psilocybin Coprophilous Ecology and Bovine Symbiosis](mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis.md)
    162|- [Psilocybin Mushroom Spore Print Identification](psilocybin-mushroom-spore-print-identification.md)

@@ -74,8 +74,7 @@ Under these conditions, initial populations of **2 × 10⁵ colony-forming units
 
 ## Microbial Efficacy
 
-The method demonstrated complete destruction of a broad panel of [[challenge
-microorganisms]]:
+The method demonstrated complete destruction of a broad panel of [[challenge microorganisms]]:
 
 | Category | Organism |
 |---|---|

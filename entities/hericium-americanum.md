@@ -145,3 +145,9 @@ mushroom cultivation.
   of spore size and ITS sequencing needed for definitive identification.
 - ***Hericium abietis***: Western North American species found on conifers;
   generally smaller with more delicate branching.
+
+## See Also
+
+- [[agroforestry]]
+- [[decomposition]]
+- [[hericium-abietis]]

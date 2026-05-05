@@ -137,3 +137,8 @@ Pollarding is used in urban arboriculture to control the size of trees in confin
 - **Choose coppicing** for dedicated woodland or thicket where grazing pressure is absent or can be excluded, and the primary goal is sustained production of small-diameter wood products or habitat creation.
 - **Choose pollarding** for wood-pasture systems, grazed commons, parkland, or urban settings where browsing animals are present and the aesthetic of veteran pollarded trees is desirable.
 - **Combine both** in a mixed landscape for maximum structural diversity and resilience, ensuring each technique is applied to the species and site conditions best suited to it.
+
+## See Also
+
+- [[castanea-sativa]]
+- [[quercus-robur]]

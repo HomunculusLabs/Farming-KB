@@ -94,3 +94,4 @@ Many plant pathogens are isolated as endophytes from healthy tissue:
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[lichenized-fungi-biology-ecology-diversity]]
+- [[neurotropic-fungi-colombia-species-diversity-and-ecology]]

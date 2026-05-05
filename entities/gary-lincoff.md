@@ -80,3 +80,4 @@ pressure, soil biology, yields, and long-term resilience.
 - [[psilocybin-mushrooms]]
 - [[mushroom-identification]]
 - [[psilocybin-mushroom]]
+- [[gary-payton]]

@@ -123,3 +123,7 @@ For gardeners interested in broader Indigenous agricultural practices, see [[hal
 ---
 
 *Related: companion planting and polycultures · [[halpern-sacramental-peyote-and-native-american-church]] · [[mollison-designers-cover-crops-and-green-manure-species]] · [[nitrogen-fixing-trees-and-shrubs]]*
+
+## See Also
+
+- [[query-how-do-i-design-and-plant-a-living-fence]]

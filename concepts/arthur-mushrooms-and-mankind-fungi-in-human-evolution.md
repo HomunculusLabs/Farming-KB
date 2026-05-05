@@ -138,3 +138,4 @@ Arthur notes that "Fly Agaric" is commonly associated with the house fly, but ev
 - [[mycorrhiza]]
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
 - [[siberian-fly-agaric-tradition]]
+- [[indole-hallucinogens-and-human-evolution]]

@@ -142,3 +142,9 @@ failures and substrate variability are ongoing challenges.
   the growth promotion effects observed in the Gartz study
 - [[22S,23S-Homobrassinolide chemistry and synthesis]] for the specific
   compound used in research
+
+## See Also
+
+- [[brassinosteroid]]
+- [[homobrassinolide]]
+- [[integrated-pest-management]]

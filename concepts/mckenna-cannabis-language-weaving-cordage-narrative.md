@@ -118,3 +118,9 @@ The suppression of cannabis knowledge means the suppression of the very vocabula
 ## Reweaving the Thread
 
 McKenna's etymological argument, while speculative, points toward a deeper truth about human culture: the technologies we use shape not only our material world but our inner world of thought and expression. Cannabis as a technology served both simultaneously. The relegalization and cultural reintegration of cannabis in the twenty-first century may, in his view, represent a partial return to this older mode of being, where the material and the imaginative are once again woven from the same thread.
+
+## See Also
+
+- [[psilocybin]]
+- [[psilocybin-mushroom]]
+- [[psilocybin-mushrooms]]

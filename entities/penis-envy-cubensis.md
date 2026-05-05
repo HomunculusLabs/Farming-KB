@@ -143,8 +143,12 @@ numerous countries and several US states.
 
 ## See Also
 
+- [[psilocybe-cubensis-cultivation]]
+
 - Psilocybe cubensis
 - Golden Teacher
 - Psilocybin
 - Mushroom cultivation techniques
 - Tryptamine alkaloids
+- [[baeocystin]]
+- [[biological-efficiency]]

@@ -168,3 +168,5 @@ severing of language from its original context and purpose.
 ## See Also
 
 - [[mckenna-neanderthal-skull-vibration-language-evolution]]
+- [[shamanism]]
+- [[terence-mckenna]]

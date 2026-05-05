@@ -188,3 +188,5 @@ this understanding.
 ## See Also
 
 - [[entheogen-etymology-and-terminology]]
+- [[aldous-huxley]]
+- [[gordon-wasson]]

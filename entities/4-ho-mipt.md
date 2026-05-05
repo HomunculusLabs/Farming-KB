@@ -144,3 +144,9 @@ sources:
 ## Relevance
 
 4-HO-MiPT represents an important compound in the pharmacological study of tryptamine structure-activity relationships, demonstrating how N-substitution patterns modulate the duration, character, and tolerability of classical psychedelic effects. Its favorable subjective profile — strong visuals with a clean cognitive headspace — has made it a popular subject in psychopharmacological research and a frequently studied comparator in receptor binding assays. Within the broader context of psychedelic science, 4-HO-MiPT illustrates the nuanced pharmacology of the 4-substituted tryptamine series and contributes to understanding how subtle structural modifications can significantly alter the psychedelic experience.
+
+## See Also
+
+- [[ann-shulgin]]
+- [[bufotenin]]
+- [[glucuronidation]]

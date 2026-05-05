@@ -136,3 +136,4 @@ Artemisia annua is globally widespread and not considered at risk. Its weedy nat
 - [[glycyrrhiza-glabra]]
 - [[curcuma-longa]]
 - [[centella-asiatica]]
+- [[artemisia-dracunculus]]

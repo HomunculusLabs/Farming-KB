@@ -94,3 +94,5 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 - [[cannabis-mexican-strain-description-clarke]]
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]
+- [[banana-kush]]
+- [[blackberry-kush]]

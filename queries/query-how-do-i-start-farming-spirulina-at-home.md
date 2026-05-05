@@ -151,3 +151,5 @@ A healthy 20-liter culture can produce **5–15 g of dried spirulina per week**,
 ## See Also
 
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
+- [[aquaponics]]
+- [[arthrospira-platensis]]

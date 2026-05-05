@@ -1,3 +1,12 @@
+---
+title: Viburnum Opulus
+created: 2026-05-05
+updated: 2026-05-05
+type: entity
+tags: [species, herbalism]
+sources: [raw/papers/medicinal-herb-profiles.md]
+---
+
      1|---
      2|title: Viburnum opulus
      3|type: species
@@ -146,3 +155,8 @@
    146|- Generally well-tolerated with a wide safety margin at standard doses.
    147|
    148|## Culinary Uses
+
+## See Also
+
+- [[herbal-medicine]]
+- [[permaculture]]

@@ -132,3 +132,9 @@ Blackcurrants contain **3–4× the vitamin C of oranges** by weight. Predominan
 - [[Rubus idaeus]] — Raspberry, complementary berry crop
 - [[Sambucus nigra]] — Elderberry, another dark-berried superfruit
 - [[Hippophae rhamnoides]] — Seaberry, nitrogen-fixing berry shrub
+
+## See Also
+
+- [[aronia-melanocarpa]]
+- [[caragana-arborescens]]
+- [[hippophae-rhamnoides]]

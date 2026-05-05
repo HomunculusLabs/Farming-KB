@@ -133,3 +133,10 @@ provides a forest-friendly economic alternative to deforestation.
   the southeastern United States; historically used for purification rituals.
 - ***Camellia sinensis*** (Tea) — The other major L-theanine-containing
   caffeinated plant; different botanical order (Ericales).
+- [[theobromine]]
+
+## See Also
+
+- [[agroforestry]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[caffeine]]

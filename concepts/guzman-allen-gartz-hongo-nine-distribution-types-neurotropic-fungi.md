@@ -142,3 +142,9 @@ mycological exploration in that country.
 [[guzman-allen-gartz-global-psilocybe-biogeography]]
 [[guzman-allen-gartz-psilocybe-transcontinental-species-pairs]]
 [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
+
+## See Also
+
+- [[neurotropic-fungi-distribution]]
+- [[neurotropic-fungi-five-historical-periods]]
+- [[neurotropic-fungi-asia-oceania-distribution-cultural-use]]

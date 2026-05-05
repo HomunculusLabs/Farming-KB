@@ -148,3 +148,9 @@ specified maximum levels.
   indirect adrenergic agonism; significantly more potent stimulant.
 - **Phenethylamine:** Simplest member of the class; endogenous trace
   amine; rapidly metabolized by MAO-B.
+
+## See Also
+
+- [[acacia]]
+- [[echinopsis-pachanoi]]
+- [[ephedrine]]

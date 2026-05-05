@@ -139,6 +139,8 @@ discreet grows.
 
 ## See Also
 
+- [[calea-zacatechichi-dream-herb-ethnobotany]]
+
 - [[amnesia-haze]] — another award-winning Amsterdam sativa-dominant hybrid
 - [[super-lemon-haze]] — citrus-forward sativa-dominant strain with
   similar terpene profile

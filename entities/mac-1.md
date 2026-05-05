@@ -148,3 +148,8 @@ MAC 1 is moderately challenging, rewarding attentive growers with exceptional qu
 - **Miracle 15** (MAC × Alien Rift): Heavy indica cross with intensified sedation
 - **Cap's Cut:** Breeder's reserve phenotype, most potent expression of the MAC lineage
 - **Jealousy** (Sherbet × MAC): Popular cross with creamy dessert aromatics and balanced effects
+
+## See Also
+
+- [[durban-poison]]
+- [[girl-scout-cookies]]

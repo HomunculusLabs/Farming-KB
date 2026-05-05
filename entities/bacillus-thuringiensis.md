@@ -133,3 +133,9 @@ sources:
 - Can synergize with entomopathogenic nematodes and other biocontrol agents
 - Spore persistence in soil creates a natural reservoir; crop residue incorporation returns Bt to soil
 - Horizontal gene transfer of cry plasmids to B. cereus and other soil bacteria occurs in nature, though ecological significance is debated
+
+## See Also
+
+- [[integrated-pest-management]]
+- [[permaculture]]
+- [[soil-arthropods]]

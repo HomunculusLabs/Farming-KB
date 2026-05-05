@@ -17,8 +17,7 @@ sources:
 
 Grass seed is a versatile substrate for cultivating [[Psilocybe]] species,
 supporting both mushroom fruitbody production and [[fungal-sclerotia-and-resting-structures]] formation. The
-method is particularly well suited for [[Psilocybe mexicana]] and [[Psilocybe
-tampanensis]], which produce sclerotia directly within colonized grain without
+method is particularly well suited for [[Psilocybe mexicana]] and [[Psilocybe tampanensis]], which produce sclerotia directly within colonized grain without
 requiring a [[mushroom-casing-layers]] layer or fruiting conditions.
 
 ## Suitable Species
@@ -106,14 +105,12 @@ Simple clear plastic bins covered with polyethylene sheeting with melted
 holes for air exchange work well. Evaporation from five cased trays per bin
 provides sufficient humidity. Harder-to-fruit strains benefit from cold shock
 (one night refrigerated); this is unnecessary for easy strains like Ecuador
-[[Psilocybe cubensis]] and unhelpful for [[Psilocybe mexicana]], [[Psilocybe
-tampanensis]], and [[Panaeolus subbalteatus]].
+[[Psilocybe cubensis]] and unhelpful for [[Psilocybe mexicana]], [[Psilocybe tampanensis]], and [[Panaeolus subbalteatus]].
 
 Mist daily, never let casing dry out. Increase watering after each flush.
 Remove dead pinheads (aborts) promptly to prevent mold. First pinheads appear
 6-15 days after introduction to fruiting conditions; mushrooms mature in 5-7
-days. Expect 3 flushes per casing (up to 5-6 with proper watering). [[Psilocybe
-mexicana]] typically produces one large flush and a small second.
+days. Expect 3 flushes per casing (up to 5-6 with proper watering). [[Psilocybe mexicana]] typically produces one large flush and a small second.
 
 ## Sclerotia Production
 

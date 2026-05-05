@@ -119,3 +119,9 @@ The principle anticipates what modern systems ecology calls emergent properties:
 Industrial agriculture continues to fragment into narrower specialties — precision agriculture, variable-rate application, drone-based monitoring — each adding layers of technological complexity to address problems created by previous layers. Fukuoka's principle suggests this trajectory leads not to solutions but to ever-deepening entanglement.
 
 The farmer who wishes to escape this entanglement must begin not by adopting a new technique but by abandoning the fragmenting mindset itself — by learning to see the field as a single living system rather than a collection of separate problems to be solved.
+
+## See Also
+
+- [[agroecology]]
+- [[masanobu-fukuoka]]
+- [[natural-farming]]

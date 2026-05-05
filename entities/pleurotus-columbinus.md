@@ -138,3 +138,9 @@ In permaculture systems, *P. columbinus* serves multiple functions:
 - [[Pleurotus eryngii]] — king oyster, with a much thicker stem
 - [[Pleurotus djamor]] — pink oyster, tropical species with vibrant pink caps
 - [[Pleurotus sajor-caju]] — Indian oyster, heat-tolerant tropical species
+
+## See Also
+
+- [[bacillus-subtilis]]
+- [[biological-efficiency]]
+- [[companion-planting]]

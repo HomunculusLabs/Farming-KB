@@ -95,3 +95,7 @@ The tryptamine scaffold is remarkably versatile and has given rise to a vast fam
 Tryptamine derivatives generally exert their primary effects through interactions with serotonin (5-HT) receptors in the central nervous system. The psychedelic tryptamines are primarily 5-HT2A receptor agonists, which leads to profound alterations in perception, cognition, mood, and sense of self. The specific receptor activation profile, including affinity for 5-HT1A, 5-HT2C, and other subtypes, determines the qualitative character and intensity of effects.
 
 Substitutions at the 4-position (hydroxylation), 5-position (methoxylation), and on the amine nitrogen (N-methylation) are the most common modifications that alter pharmacological properties. These modifications affect receptor binding affinity, metabolic stability, blood-brain barrier permeability, and duration of action. See also [[malt-extract-agar]] for laboratory cultivation methods of tryptamine-producing fungi, and [[mycelium]] for the fungal growth phase during which tryptamine alkaloid biosynthesis occurs.
+
+## See Also
+
+- [[yuremamine]]

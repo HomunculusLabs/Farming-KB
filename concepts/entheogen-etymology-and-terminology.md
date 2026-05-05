@@ -1,3 +1,12 @@
+---
+title: Entheogen Etymology And Terminology
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [psychedelics, ethnobotany, entheogens]
+sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-ritual.md]
+---
+
      1|     1|--- 2|title: Entheogen Etymology and Terminology
      2|     3|tags: [etymology, terminology, psychedelics, shamanism, history]
      3|     4|date: 2026-04-28 5|updated: 2026-04-28 6|sources:
@@ -140,3 +149,5 @@
    138|   174|- [Metzner Psycholytic Psychedelic Therapy Models](metzner-psycholytic-psychedelic-therapy-models.md)
    139|   175|- [Metzner Hybrid Shamanic Therapeutic Rituals](metzner-hybrid-shamanic-therapeutic-rituals.md)
    140|   176|- [Plant Teachers Ayahuasca](plant-teachers-ayahuasca.md) 177|
+- [[albert-hofmann]]
+- [[aldous-huxley]]

@@ -100,3 +100,9 @@ The Asian neurotropic mycoflora shows several important biogeographic patterns:
 ## Knowledge Gaps
 
 Several major Asian regions have no or very few records of neurotropic fungi: Korea, Malaysia (except recent collections by Allen), Mongolia, Tibet, Afghanistan, and much of Central Asia. As Gartz (1996) noted, "The mushrooms occur in abundance wherever mycologists abound," and Asia has historically been under-sampled by mycologists specializing in neurotropic taxa. The true diversity of Asian neurotropic fungi is undoubtedly much greater than currently documented.
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[claviceps-purpurea]]
+- [[copelandia-cambodginiensis]]

@@ -131,3 +131,8 @@ spasms, anxiety reduction (low-moderate doses), appetite stimulation, stress rel
 - **Ghost Bubba:** Bubba Kush × unknown indica; increased potency, pronounced purple.
 - **Bubba's Gift:** Bubba Kush × God's Gift; high-CBD phenotype (5–8% CBD), heavy sedation.
 - **Black Bubba:** Bubba Kush × Black Domina; extremely potent, nearly pure indica.
+
+## See Also
+
+- [[cannabis-for-chronic-pain]]
+- [[northern-lights]]

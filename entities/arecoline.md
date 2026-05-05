@@ -139,6 +139,8 @@ The alkaloid was first isolated and characterized by Jahns in 1888. Its pharmaco
 
 ## See Also
 
+- [[betel-nut-arecoline-ethnobotany]]
+
 - [[areca-catechu]]
 - [[piperine]]
 - [[muscarine]]

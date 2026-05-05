@@ -81,3 +81,4 @@ pressure, soil biology, yields, and long-term resilience.
 - [[mescaline]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]
 - [[fukuoka-learning-about-nature-distances-one-from-nature]]
+- [[ald-52]]

@@ -142,6 +142,8 @@ Primary agroforestry use as a living trellis:
 
 ## See Also
 
+- [[colorines-erythrina-seeds-mexican-hallucinogen]]
+
 - [[acacia-confusa]]
 - [[mimosa-tenuiflora]]
 - [[sesbania-grandiflora]]

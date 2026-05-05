@@ -139,6 +139,10 @@ Hard but rarely used commercially. Not a primary reason to grow carob.
 
 ## See Also
 
+- [[agroforestry]]
+- [[ceratonia-siliqua]]
+- [[food-forest]]
+
 - [Legume Trees and Nitrogen-Fixing Permaculture Species](/wiki/topics/legume-trees-and-nitrogen-fixing-permaculture-species)
 - [Black Locust vs Honey Locust](/wiki/comparisons/comparison-black-locust-vs-honey-locust)
 - [Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation](/wiki/topics/nitrogen-fixing-bacteria-and-biological-nitrogen-fixation)

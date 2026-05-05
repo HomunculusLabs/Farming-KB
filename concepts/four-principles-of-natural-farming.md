@@ -118,6 +118,10 @@ Fukuoka's insight came during a moment of illumination in his youth when he unde
 
 ## See Also
 
+- [[clay-pellet-seed-broadcasting]]
+- [[composting]]
+- [[masanobu-fukuoka]]
+
 - [[Natural Farming vs Scientific Agriculture]]
 - [[Clay Pellet Seed Broadcasting]]
 - [[Direct-Seeded No-Tillage Rice Barley Succession in Clover]]

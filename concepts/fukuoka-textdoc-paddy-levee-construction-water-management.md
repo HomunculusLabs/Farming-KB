@@ -112,3 +112,4 @@ patience, and an intimate understanding of the land — the same qualities that 
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] - [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]] -
 [[fukuoka-textdoc-greening-deserts-plant-irrigation]] - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]] -
 [[fukuoka-textdoc-critique-mechanization-agriculture]] - [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
+- [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]

@@ -140,6 +140,8 @@ nutrient cycler, and beneficial insect habitat.
 
 ## See Also
 
+- [[hamilton-potting-compost-recipes-and-growing-media]]
+
 - [[taraxacum-officinale]] (Dandelion) — companion nutritious weed
 - [[urtica-dioica]] (Stinging Nettle) — nutrient-dense foraging staple
 - [[plantago-major]] (Plantain) — co-occurring medicinal weed

@@ -118,3 +118,9 @@ The Caribbean and Central American neurotropic mycoflora shows several clear eco
 ## Conservation and Research Needs
 
 The Caribbean and Central American neurotropic mycoflora remains significantly understudied. Countries like Costa Rica, with their extraordinary biodiversity investment, have paradoxically few records of neurotropic species. Systematic surveys of cloud forests, pine savannas, and lowland pastures throughout the region would almost certainly yield new species and range extensions. The endemic species of Puerto Rico highlight the conservation importance of island mycofloras, which may be threatened by habitat destruction and climate change.
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[claviceps-paspali]]
+- [[copelandia-cyanescens]]

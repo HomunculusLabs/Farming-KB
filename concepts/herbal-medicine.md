@@ -146,3 +146,6 @@ Growing medicinal herbs provides self-reliance for common ailments, connects you
 - [[beekeeping-basics]]
 - [[seasonal-planning]]
 - [[st-johns-wort-guide]]
+- [[agrimonia-eupatoria]]
+- [[ptychopetalus-olacoides]]
+- [[pulsatilla-vulgaris]]

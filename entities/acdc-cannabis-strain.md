@@ -144,3 +144,4 @@ ACDC exists in a complex regulatory landscape. Hemp-derived ACDC (below 0.3% THC
 - [[cannabis-strain-lemonator]] — Parent strain of ACDC
 - [[endocannabinoid-system]] — The body's receptor system for cannabinoids
 - [[myrcene]] — Dominant terpene in ACDC
+- [[acdc]]

@@ -139,6 +139,10 @@ importance across over a billion years of evolution.
 
 ## See Also
 
+- [[cryptochrome-and-blue-light-photoreception]]
+- [[daniel-chamovitz]]
+- [[phytochrome-and-plant-light-perception]]
+
 - [[Shade Avoidance Syndrome]] for the ecological application of phytochrome signalling
 - [[Cryptochrome and Blue Light Photoreception]] for the complementary blue light system
 - [[Phytochrome and Plant Light Perception]] for the broader phytochrome overview

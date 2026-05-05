@@ -112,6 +112,10 @@ Analysis of *P. impudicus* has revealed:
 
 ## See Also
 
+- [[clathrus-ruber]]
+- [[ergosterol]]
+- [[herbal-medicine]]
+
 - [[Phallus]] (genus overview)
 - [[Dictyophora duplicata]]
 - [[Clathrus ruber]]

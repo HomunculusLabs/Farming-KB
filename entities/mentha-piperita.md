@@ -143,6 +143,10 @@ century, where it remains dominant. Among the earliest
 essential oils produced at industrial scale.
 
 ## See Also
+
+- [[companion-planting]]
+- [[herbal-medicine]]
+- [[permaculture]]
 - [Mentha spicata](/wiki/entities/mentha-spicata) — Spearmint
 - [Lamiaceae](/wiki/entities/lamiaceae) — Mint family
 - [Essential Oils](/wiki/entities/essential-oils)

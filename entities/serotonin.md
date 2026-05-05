@@ -136,3 +136,4 @@ Serotonin's evolutionary history extends far beyond the vertebrate nervous syste
 - [[dimethyltryptamine]] — endogenous psychedelic tryptamine
 - [[melatonin-entity-tihkal]] — serotonin-derived hormone regulating circadian rhythm
 - [[indole]] — core heterocyclic scaffold shared by serotonin and all tryptamine derivatives
+- [[cannabidivarin]]

@@ -120,3 +120,6 @@ in eutrophied boreal forests, making it a potential bioindicator of forest healt
 - [[lactarius-indigo]] — indigo milkcap
 - [[russula-emetica]] — acrid russula with similar brittleness
 - [[arctium-lappa]] — burdock, a birch-forest understory associate
+- [[lactarius-volemus]]
+- [[lactarius-sanguifluus]]
+- [[lactarius-quietus]]

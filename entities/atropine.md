@@ -144,6 +144,10 @@ hyoscyamine, which racemizes to atropine.
 
 ## See Also
 
+- [[atropa-belladonna]]
+- [[datura-stramonium]]
+- [[hyoscyamus-niger]]
+
 - [[Atropa belladonna]]
 - [[Datura stramonium]]
 - [[Hyoscyamus niger]]

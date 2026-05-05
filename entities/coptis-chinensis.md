@@ -147,3 +147,9 @@ The 5–7 year growth cycle suits permanent polyculture installations rather tha
 - **Coptis teeta** (云连, Yun Lian) — Yunnan and NE India; smaller plant, thinner rhizome; wild-harvested, endangered
 - **Coptis japonica** — Japanese species used in Kampo medicine (Ōren); similar alkaloid profile
 - **Coptis trifolia** (Three-leaf Goldthread) — North American species; used by Native Americans for mouth sores
+
+## See Also
+
+- [[agroforestry]]
+- [[berberine]]
+- [[dom]]

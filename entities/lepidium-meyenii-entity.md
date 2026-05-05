@@ -178,6 +178,8 @@ Maca has several properties that make it interesting for permaculture design:
 
 ## See Also
 
+- [[mollison-tree-biomass-and-forest-as-living-entity]]
+
 - brassicaceae — mustard family
 - [[ashwagandha]] — another adaptogenic root
 - [[rhodiola-rosea]] — high-altitude adaptogen

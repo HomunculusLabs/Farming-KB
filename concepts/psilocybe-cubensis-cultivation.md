@@ -145,3 +145,7 @@ converts to psilocin and then to inactive blue oxidation products.
 
 See also: [[psilocybin-mushrooms-overview]], [[cotter-mushroom-life-cycle-mycelium-biology]],
 [[mushroom-sterile-technique-detailed]], [[psychedelic-harm-reduction]]
+
+## See Also
+
+- [[penis-envy-cubensis]]

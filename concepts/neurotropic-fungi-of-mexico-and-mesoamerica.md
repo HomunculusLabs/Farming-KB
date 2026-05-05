@@ -86,8 +86,7 @@ as "nti-si-tho." [[Hypholoma naematoliformis]] and H. rhombispora, endemic Mexic
 [[Copelandia mexicana]] Guzmán, known from tropical regions of southern Mexico.
 
 Several species once thought to be endemic to Mexico have subsequently been found in South America and other
-regions, suggesting broader historical distributions or more recent dispersal. Examples include [[Psilocybe
-zapotecorum]], P. hoogshagenii, P. subyungensis, P. yungensis, and P. cordispora.
+regions, suggesting broader historical distributions or more recent dispersal. Examples include [[Psilocybe zapotecorum]], P. hoogshagenii, P. subyungensis, P. yungensis, and P. cordispora.
 
 ## The Mexican Puffball Tradition
 
@@ -104,18 +103,15 @@ insufficient to predict pharmacological activity.
 ## Central American Extension
 
 The neurotropic mycota extends south from Mexico through Central America, though with markedly decreasing diversity
-as one moves away from the Mexican center of endemism. **Guatemala** has [[Amanita muscaria]], [[Psilocybe
-caerulescens]], P. cubensis, and P. mexicana, with a significant indigenous mushroom-using tradition among
+as one moves away from the Mexican center of endemism. **Guatemala** has [[Amanita muscaria]], [[Psilocybe caerulescens]], P. cubensis, and P. mexicana, with a significant indigenous mushroom-using tradition among
 highland Maya communities. **Costa Rica** has [[Psilocybe cubensis]], P. cf. aztecorum, P. cf. mexicana,
 [[Copelandia cyanescens]], and A. muscaria. **El Salvador** has only [[Psilocybe subcubensis]], while **Honduras**
-has the same single species. **Panama** has [[Psilocybe caerulescens]] and P. dumontii. **Belize** has [[Psilocybe
-cordispora]] and P. cubensis, as well as C. cyanescens.
+has the same single species. **Panama** has [[Psilocybe caerulescens]] and P. dumontii. **Belize** has [[Psilocybe cordispora]] and P. cubensis, as well as C. cyanescens.
 
 ## Caribbean Distribution
 
 The Caribbean region serves as a tropical dispersal corridor, with [[Psilocybe cubensis]] widespread across Cuba,
-the Dominican Republic, Puerto Rico, Jamaica, Trinidad, Guadeloupe, Martinique, and the Bahamas. [[Copelandia
-cyanescens]] is similarly common throughout the Caribbean islands. Puerto Rico is notable for harboring endemic
+the Dominican Republic, Puerto Rico, Jamaica, Trinidad, Guadeloupe, Martinique, and the Bahamas. [[Copelandia cyanescens]] is similarly common throughout the Caribbean islands. Puerto Rico is notable for harboring endemic
 species including [[Psilocybe guilartensis]] and P. portoricensis, described by Guzmán, Tapia, and Nieves-Rivera
 in 1997.
 

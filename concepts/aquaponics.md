@@ -124,3 +124,4 @@ Aquaponics fits into permaculture systems as a Zone 1 intensive production eleme
 | Slow plant growth | Low nutrient density; insufficient light; wrong pH | Increase fish density or feeding; add supplemental lighting; adjust pH |
 ## Related
 - [[chinampas]]
+- [[nasturtium-officinale]]

@@ -126,3 +126,4 @@ shallow-rooted herbs. Root harvest provides marketable medicinal crop.
 ## See Also
 
 - [[bacopa-monnieri]] · [[hypericum-perforatum]] · [[passiflora-incarnata]] · [[valeriana-officinalis]]
+- [[scutellaria-lateriflora]]

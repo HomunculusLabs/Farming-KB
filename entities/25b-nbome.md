@@ -149,3 +149,7 @@ bioavailability.
 - **DOI:** Related 2,5-dimethoxy-4-iodoamphetamine research compound.
 - **LSD:** Often misrepresented on blotter; distinct pharmacology and
 lower potency.
+
+## See Also
+
+- [[serotonin]]

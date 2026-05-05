@@ -137,6 +137,10 @@ expression of its color, aroma, and potency:
 
 ## See Also
 
+- [[cannabis-terpene-profile]]
+- [[cannabis-terpene-profiles]]
+- [[durban-poison]]
+
 - Cherry Pie (cannabis strain)
 - Tangie (cannabis strain)
 - Granddaddy Purple

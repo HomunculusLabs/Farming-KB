@@ -115,6 +115,10 @@ Note: Chinampa yields are remarkable for requiring zero external inputs. While m
 
 ## See Also
 
+- [[agroecology]]
+- [[aquaponics]]
+- [[companion-planting]]
+
 - [[Swale]] — Similar water-harvesting earthworks used on slopes in permaculture design
 - [[Hugelkultur]] — Another permaculture technique using buried organic matter for raised bed agriculture
 - [[Three Sisters]] — The companion planting method (maize, beans, squash) commonly grown on chinampas

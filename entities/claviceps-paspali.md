@@ -122,3 +122,4 @@ Some of the ergoline-type alkaloids produced by *C. paspali* could potentially f
 - [[lysergic-acid-amide]] — Ergoline alkaloid found in several *Claviceps* and *Ipomoea* species; close structural relative of *C. paspali* clavines
 - [[fomes-fomentarius]] — Polypore fungus (tinder conk); included for cross-reference in mycological taxonomy and general mycology
 - Additional related topics: ergot alkaloid biosynthesis, indole-diterpenoid natural products, clavicipitaceous endophytes of grasses, veterinary mycotoxicology
+- [[ergometrine]]

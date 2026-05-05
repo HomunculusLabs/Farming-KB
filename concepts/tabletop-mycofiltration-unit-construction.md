@@ -38,8 +38,7 @@ commonly available components:
   filtration system, providing three separate filtration stages.
 - **Recirculating water pump**: Moves water through the system
   for repeated filtration passes during testing.
-- **Mycelial biomass**: Fully colonized substrate blocks or [[stamets-spawn-making-and-grain-culture|sawdust
-  spawn]] from the selected fungal species, filling each tier.
+- **Mycelial biomass**: Fully colonized substrate blocks or [[stamets-spawn-making-and-grain-culture|sawdust spawn]] from the selected fungal species, filling each tier.
 - **Tubing**: For water recirculation between the collection
   reservoir and the top tier.
 - **Collection reservoir**: Catches filtered water for testing

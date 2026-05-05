@@ -26,8 +26,7 @@ farming, arguing that [[natural farming]] represents the Mahayana path while
 In Buddhist thought, the Hinayana path is the narrow way of individual salvation
 through strict discipline and rigorous practice. The practitioner seeks enlightenment
 through personal effort, following prescribed rules and techniques. Fukuoka maps this
-onto what he calls "scientific farming" or [[scientific agriculture|agriculture as
-science]].
+onto what he calls "scientific farming" or [[scientific agriculture|agriculture as science]].
 
 The Hinayana farmer sees nature as something that must be understood, controlled, and
 improved upon. He analyzes soil chemistry, studies pest life cycles, develops
@@ -127,3 +126,5 @@ cooperate.
 - [[direct-seeded no-tillage rice barley succession]]
 - [[disappearance of the natural diet]]
 - [[mu philosophy in agriculture]]
+- [[four-principles-of-natural-farming]]
+- [[mahayana-and-hinayana-natural-farming]]

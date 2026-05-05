@@ -125,3 +125,9 @@ Chinese taxonomists recognize several varieties and forms within *E. sagittatum*
 Chinese Pharmacopoeia requires dried *E. sagittatum* herb to contain not less than 0.50% icariin (HPLC).
 Commercial extracts are standardized to 10–50% icariin or 20–98% total epimedium flavonoids.
 Water-extracted and ethanol-extracted products differ significantly in flavonoid profile; ethanol extraction recovers more prenylated flavonoids.
+
+## See Also
+
+- [[agroforestry]]
+- [[companion-planting]]
+- [[dom]]

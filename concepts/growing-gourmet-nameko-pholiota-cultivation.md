@@ -147,3 +147,4 @@ in Chinese; no parallel Western studies are known.
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-fruiting-parameters]]
 - [[growing-gourmet-supplemented-sawdust-sterilization]]
+- [[pholiota-squarrosa]]

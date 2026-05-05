@@ -119,3 +119,9 @@ While [[Psilocybe]] dominates Group 1, the other genera contribute significant e
 **[[Inocybe]]** (6 species): This large genus of ectomycorrhizal fungi includes several neurotropic species that are particularly dangerous because many [[Inocybe]] species are lethally toxic (containing muscarine). The neurotropic [[Inocybe]] species ([[Inocybe aeruginascens]], [[Inocybe coelestium]], [[Inocybe corydalina]]) grow in association with trees in parks, gardens, and forests, creating a significant risk of accidental poisoning by mushroom foragers who mistake them for edible species.
 
 The classification system serves as a working framework rather than a definitive statement. As molecular phylogenetic methods are applied to neurotropic fungi, many current species boundaries and generic assignments will likely change. The broad morphological diversity encompassed within [[Psilocybe]] (including both agaricoid and secotioid forms) and the chemical diversity across the four groups suggest that the natural evolutionary relationships may not align perfectly with the current four-group system. Nevertheless, this classification remains the most comprehensive and widely referenced framework for organizing knowledge of neurotropic fungi.
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[amanita-pantherina]]
+- [[amanita-regalis]]

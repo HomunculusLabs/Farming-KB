@@ -165,3 +165,9 @@ Soil and growing media are the biggest single expense — buying in bulk or mixi
 - **Balcony mini wicking beds**: Use large planter boxes (400 mm+ deep) with a simple gravel reservoir layer; perfect for apartment gardening
 - **Linked reservoirs**: Connect multiple beds to a single water tank via gravity-fed piping; great for larger gardens and automated irrigation
 - **In-ground wicking beds**: Excavate a trench, line it, and install the reservoir below ground level — lower profile and better frost protection
+
+## See Also
+
+- [[david-holmgren]]
+- [[permaculture]]
+- [[water-conservation]]

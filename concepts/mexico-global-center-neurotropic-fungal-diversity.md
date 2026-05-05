@@ -126,3 +126,9 @@ Mexico is unique among countries with neurotropic fungal diversity in maintainin
 **Chinantec practices**: The Chinantec people of Oaxaca use [[Dictyophora indusiata]] for divination ceremonies. This stinkhorn fungus (three recognized forms) represents the most unusual sacred mushroom tradition in Mexico, as it belongs to Group 4 (sacred fungi without confirmed neurotropic chemistry).
 
 These living traditions provide invaluable ethnobotanical context for understanding neurotropic fungi. Indigenous knowledge of species identification, seasonal timing, preparation methods, and ritual use complements scientific investigation and in some cases has led to the discovery of species previously unknown to science.
+
+## See Also
+
+- [[dictyophora-indusiata]]
+- [[distribution-of-neurotropic-fungi]]
+- [[fungal-biodiversity]]

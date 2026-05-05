@@ -1,3 +1,12 @@
+---
+title: Mckenna Archaic Sexuality And Partnership Society
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [psychedelics, ethnobotany, philosophy]
+sources: [raw/papers/food-of-the-gods-mckenna.md]
+---
+
      1|---
      2|title: Archaic Sexuality and the Partnership Society
      3|tags: [sexuality, partnership-society, dominator-culture, feminism, ibogaine, Bwiti, McKenna, gender]

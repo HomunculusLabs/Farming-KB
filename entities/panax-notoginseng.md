@@ -124,6 +124,10 @@ sources:
 - **Sustainability**: Overharvesting and soil degradation highlight ecological pressures on high-value medicinal plants
 - **Quality control**: Notoginsenoside R1 content serves as the primary chemical marker for pharmacopeial quality assessment of *P. notoginseng* products.
 ## See Also
+
+- [[agroforestry]]
+- [[cylindrocarpon-destructans]]
+- [[endophytic-fungi]]
 - [Panax ginseng](panax-ginseng.md) — Asian ginseng; related adaptogen with overlapping ginsenoside profile
 - [Panax quinquefolius](panax-quinquefolius.md) — American ginseng
 - [Salvia miltiorrhiza](salvia-miltiorrhiza.md) — Danshen; frequently combined with San Qi in cardiovascular formulas

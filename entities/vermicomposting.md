@@ -148,3 +148,9 @@ food waste per day, producing roughly 0.25–0.5 kg of vermicast.
 Commercial operations process 1–5 tonnes of organic waste per day.
 Vermicast is typically applied at 5–20% by volume in potting mixes or
 0.5–2 kg/m² as a soil amendment.
+
+## See Also
+
+- [[cation-exchange-capacity]]
+- [[composting]]
+- [[composting-systems]]

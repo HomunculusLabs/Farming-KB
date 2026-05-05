@@ -125,3 +125,9 @@ SCOBY's origins trace to **Manchuria (Northeast China)** around 200 BCE, where i
 **Choose koji if:** You want to make foundational pantry staples (miso, shoyu, sake); you're fascinated by enzymatic processes; you enjoy longer projects with deep payoff; or you're building a traditional East Asian kitchen.
 
 **Choose both if:** You're a fermentation enthusiast. They occupy different niches — koji transforms solid substrates into umami-rich bases, while SCOBY turns liquid into living beverages. Together, they cover an enormous range of culinary possibilities.
+
+## See Also
+
+- [[aflatoxin]]
+- [[aspergillus-flavus]]
+- [[aspergillus-oryzae]]

@@ -110,3 +110,7 @@ For most home gardeners, the progression is: **row cover → low tunnel → cold
 - **ATTRA Season Extension publication** — free, detailed construction plans and crop recommendations for all three methods
 - **Johnny's Selected Seeds Season Extension Guide** — product-specific advice on row cover weights, low tunnel hardware, and cold frame kits
 - **SARE Season Extension for Market Gardeners** — farmer-researched data on yields, economics, and best practices for commercial scale
+
+## See Also
+
+- [[eliot-coleman]]

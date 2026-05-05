@@ -153,6 +153,10 @@ The taxonomic boundary between Copelandia and Panaeolus has been debated. Ola'h 
 
 ## See Also
 
+- [[neurotropic-fungi]]
+- [[neurotropic-fungi-classification]]
+- [[psilocybin]]
+
 - [[Panaeolus and Panaeolina Genera]]
 - [[Psilocybe Genus Overview]]
 - [[Neurotropic Fungi Classification]]

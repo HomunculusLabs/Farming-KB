@@ -18,7 +18,6 @@ sources:
     Molds, and Mycologists by Nicholas P. Money (2002),
     Chapters 2 and 9
 ---
-
 # Fungal Pathogens and Human Disease
 
 ## Overview
@@ -31,7 +30,6 @@ predominantly in sub-Saharan Africa.
 Unlike bacterial or viral epidemics, fungal epidemics unfold
 quietly, afflicting the immunocompromised whose suffering
 attracts little public attention or media coverage.
-
 ## The AIDS Epidemic and Fungal Infections
 
 ### Collapse of Immunity
@@ -44,7 +42,6 @@ Fungi that are harmless to healthy people became devastating
 pathogens in the absence of T-cell immunity. Cryptococcal
 meningitis alone accounted for hundreds of thousands of
 deaths among AIDS patients worldwide.
-
 ### Cryptococcus Neoformans
 
 Cryptococcus neoformans is a yeast with a distinctive
@@ -55,14 +52,11 @@ Infection begins with inhalation of desiccated yeast cells
 from soil contaminated with pigeon droppings. From the
 lungs, the fungus disseminates to the central nervous
 system, causing fatal meningitis if untreated.
-
 (Section truncated for length.)
-
 It resides in healthy human lungs as a commensal
 organism, causing disease only when immunity collapses.
 The fungus's biology remains poorly understood despite
 its medical importance.
-
 ## Histoplasmosis
 
 ### The Ohio River Valley Disease
@@ -80,7 +74,6 @@ is fatal without treatment.
 The disease is so prevalent in some areas that most
 residents show evidence of prior infection on skin
 tests, suggesting widespread subclinical exposure.
-
 ### Diagnosis Challenges
 
 Diagnosing histoplasmosis is difficult because symptoms
@@ -91,7 +84,6 @@ but remains unavailable in many endemic areas. The fungus
 exists in two forms: a soil-dwelling mold and a
 tissue-inhabiting yeast, a temperature-dependent
 dimorphism central to its pathogenic strategy.
-
 ## Aspergillosis
 
 Aspergillus fumigatus causes aspergillosis, affecting
@@ -108,7 +100,6 @@ occur, triggering asthma-like symptoms in sensitized
 individuals. The fungus grows readily in hospital
 ventilation systems, creating dangerous nosocomial
 infections.
-
 ## Coccidioidomycosis
 
 ### Valley Fever
@@ -129,7 +120,6 @@ Climate change expanding arid regions may increase
 the geographic range of this pathogen, posing new
 public health challenges in previously unaffected
 areas.
-
 ## The Fungal Kingdom as Pathogen Reservoir
 
 ### Why Are There So Few Fungal Pathogens?
@@ -142,7 +132,6 @@ Fungal pathogens are disproportionately drawn from
 species that can grow at elevated temperatures, a
 trait called thermal tolerance that may have evolved
 in soil microhabitats like compost piles.
-
 ### Environmental Origins
 
 Human pathogenic fungi share a common feature: they are
@@ -198,3 +187,9 @@ and resources from the global health community.
 - [[Hyphal Growth and Invasive Biology]]
 - [[Fungal Biology and Ecology]]
 - [[History of Mycology]]
+
+## See Also
+
+- [[aspergillus-fumigatus]]
+- [[cryptococcus-neoformans]]
+- [[histoplasma-capsulatum]]

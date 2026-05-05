@@ -129,3 +129,9 @@ Multi-species mixes outperform monocultures in most situations. A good mix inclu
 ## Getting Started
 
 If you're new to cover crops, start simple: **cereal rye + crimson clover** in the fall. It's forgiving, widely adapted, fixes nitrogen, suppresses weeds, and builds soil. Expand into multi-species mixes as you gain confidence and learn your land's responses.
+
+## See Also
+
+- [[cover-crops]]
+- [[permaculture]]
+- [[root-exudates]]

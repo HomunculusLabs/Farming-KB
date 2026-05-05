@@ -187,3 +187,4 @@ parameters:
 - [[calendula-officinalis]]
 - [[ocimum-tenuiflorum]]
 - [[symphytum-officinale]]
+- [[rheum-palmatum]]

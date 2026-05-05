@@ -135,3 +135,4 @@ summer to root indoors.
 - [[adaptogenic-herbs-guide]]
 - [[herbal-plant-remedies]]
 - [[solomon-seed-saving-guide|seed saving]]
+- [[tulsi]]

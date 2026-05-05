@@ -122,3 +122,9 @@ Understanding fungal lifestyles helps you make practical management decisions:
 | **Mutualistic** | Photosynthate from partner | Benefits partner | Nutrient exchange, stress tolerance | Mycorrhizal benefits, biocontrol, nitrogen fixation |
 
 These three strategies are not opposing teams — they are overlapping roles in a functioning ecosystem. Managing land well means creating conditions where decomposers thrive, mutualists are supported, and pathogens remain constrained by competition and host vigor.
+
+## See Also
+
+- [[arbuscular-mycorrhizal-fungi]]
+- [[composting]]
+- [[cover-crops]]

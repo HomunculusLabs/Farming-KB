@@ -130,3 +130,9 @@ regrowth. In some tropical regions, Gliricidia has become invasive outside its
 native range in disturbed habitats. Local risk assessments should be conducted
 before introduction; sterile cutting propagation is preferred in sensitive
 areas.
+
+## See Also
+
+- [[tabebuia-impetiginosa]]
+- [[agroforestry]]
+- [[cation-exchange-capacity]]

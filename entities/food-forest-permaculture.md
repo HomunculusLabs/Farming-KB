@@ -190,3 +190,9 @@ Food forests are among the most effective **carbon-negative land use systems**:
 - Deep-rooted perennials move carbon deep into soil profiles
 - Estimated sequestration: 2–10 tonnes CO₂/ha/year (varies by climate and maturity)
 - Net carbon storage increases for 30–50+ years as the system matures
+
+## See Also
+
+- [[agroforestry]]
+- [[building-soil]]
+- [[cover-crops]]

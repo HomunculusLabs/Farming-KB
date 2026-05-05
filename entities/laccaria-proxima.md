@@ -144,3 +144,9 @@ mushrooms from other genera is possible for inexperienced foragers.
   tones on cap and stipe; associated with conifers and hardwoods.
 - ***Laccaria amethystina***: Larger, with distinctive deep violet color
   throughout; found in forest settings, not typically in sandy dunes.
+
+## See Also
+
+- [[ectomycorrhiza]]
+- [[ectomycorrhizal-associations]]
+- [[ectomycorrhizal-fungi]]

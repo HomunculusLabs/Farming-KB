@@ -139,3 +139,4 @@ can reach toxic concentrations in poorly ventilated kitchens, basements, or encl
 - [[amanita-muscaria-chemistry-and-pharmacology]]
 - [[amanita-species-ecology-identification-mycohhizal]]
 - [[mushroom-toxins-and-poisoning]]
+- [[agaritine]]

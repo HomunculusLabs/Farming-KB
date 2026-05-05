@@ -167,3 +167,9 @@ experiences safely and productively. The tragedy, as McKenna described it, is th
 "we have no shamanic tradition," and the suppression of the natural human capacity
 for ecstatic experience has left the culture alienated from dimensions of
 consciousness that other societies have explored for millennia.
+
+## See Also
+
+- [[psilocybin]]
+- [[ralph-metzner]]
+- [[serotonin]]

@@ -128,3 +128,9 @@ infrastructure, offering a practical path toward ecological recovery
 where conventional approaches are too expensive or complex to deploy.
 See also: [[Natural Farming]], [[No Tillage Rice Barley Succession]],
 [[Green Manure Cover Cropping]]
+
+## See Also
+
+- [[desert-revegetation]]
+- [[desertification]]
+- [[masanobu-fukuoka]]

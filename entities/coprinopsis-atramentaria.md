@@ -143,6 +143,10 @@ molecular phylogenetics in the Agaricales.
 
 ## See Also
 
+- [[agar]]
+- [[coprinellus-micaceus]]
+- [[coprinus-comatus]]
+
 - *Coprinopsis* — genus overview and molecular phylogeny
 - Coprine — detailed pharmacology of the active compound
 - Disulfiram — clinical context for ALDH inhibition

@@ -136,3 +136,8 @@ the most influential approaches to sustainable development.
 - [[robert-hart]] — pioneer of forest gardening
 - [[geoff-lawton]] — permaculture teacher and practitioner
 - [[eliot-coleman]] — four-season farming innovator
+- [[polygonum-multiflorum]]
+- [[crataegus-monogyna]]
+- [[arthrospira-platensis]]
+- [[agrimonia-eupatoria]]
+- [[nasturtium-officinale]]

@@ -133,3 +133,5 @@ soil fungal populations.
 ## See Also
 
 - [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
+- [[companion-planting]]
+- [[mycorrhiza]]

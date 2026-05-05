@@ -128,3 +128,6 @@ of mushrooms, sometimes less than one franc per kilo.
 - Chatin, A. La Truffe. Paris, 1892.
 - Patouillard, N. "Les Terfez de la Tunisie." Rev.
   Mycol., 1894.
+- [[termitomyces-eurhizus]]
+- [[termitomyces-heimii]]
+- [[acalypha-racemosa]]

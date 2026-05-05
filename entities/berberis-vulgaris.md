@@ -142,6 +142,9 @@ Barberry berries are widely used in **Persian cuisine** (*zereshk*, زرشک): *
 
 ## See Also
 
+- [[berberine]]
+- [[coptis-chinensis]]
+
 - [[Berberine]] — primary active alkaloid · [[Berberidaceae]] — plant family
 - [[Mahonia aquifolium]] (Oregon Grape) — related species · [[Coptis chinensis]] (Goldthread) — TCM berberine source
 - [[AMPK]] — berberine's primary molecular target · [[Metabolic syndrome]] — clinical application

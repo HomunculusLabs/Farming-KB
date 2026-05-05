@@ -126,3 +126,5 @@ Furthermore, the potency of mushrooms consumed in traditional ritual contexts ma
 ## See Also
 
 - [[psilocybin-degradation-volatility-and-specimen-age]]
+- [[albert-hofmann]]
+- [[baeocystin]]

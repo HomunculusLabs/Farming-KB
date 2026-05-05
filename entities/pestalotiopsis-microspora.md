@@ -150,3 +150,9 @@ P. microspora has potential applications in designed ecological systems:
 - **Pestalotiopsis vismiae:** Produces bioactive clavine alkaloids
 - **Pestalotiopsis clavispora:** Common tropical endophyte with antimicrobial
   metabolite production
+
+## See Also
+
+- [[agroforestry]]
+- [[composting]]
+- [[endophytic-fungi]]

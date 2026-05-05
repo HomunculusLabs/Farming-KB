@@ -164,3 +164,5 @@ P. semilanceata is the most commonly collected wild psychoactive mushroom in Eur
 - [[Mexico as Center of Neurotropic Fungi Diversity]]
 - [[Psilocybin Chemistry]]
 - [[Neurotropic Fungi Classification]]
+- [[baeocystin]]
+- [[neurotropic-fungi]]

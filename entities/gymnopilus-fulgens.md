@@ -143,3 +143,7 @@ a precursor to the alpha-pyrone pigments characteristic of the genus.
   practices (removal of dead standing trees and stumps) may
   reduce available substrate
 ## See Also
+
+- [[baeocystin]]
+- [[gymnopilus-junonius]]
+- [[gymnopilus-luteofolius]]

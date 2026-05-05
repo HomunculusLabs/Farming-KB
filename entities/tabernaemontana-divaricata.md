@@ -125,3 +125,9 @@ While *T. divaricata* is not a major commercial crop, it has economic significan
 - **Pharmaceutical research:** Interest in the species' iboga-type alkaloids has driven research funding from pharmaceutical companies investigating novel anti-cancer and anti-inflammatory drug leads. Coronaridine derivatives are in preclinical evaluation at several research institutions.
 - **Traditional medicine trade:** Dried roots and root bark are sold in Ayurvedic and Siddha medicine markets across India, particularly in Tamil Nadu and Kerala. Prices range from $5–15 per kilogram depending on quality and source.
 - **Essential oil:** Steam-distilled essential oil from the flowers, though low-yield (0.1–0.3%), is used in niche perfumery for its subtle jasmine-like fragrance with green, fresh undertones.
+
+## See Also
+
+- [[agar]]
+- [[agroforestry]]
+- [[ayahuasca-preparation]]

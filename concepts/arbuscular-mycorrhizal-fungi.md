@@ -102,3 +102,5 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - [[mycorrhizal-networks-common-mycelial-network]] — for common networks
 - [[fungal-role-in-phosphorus-cycling]] — for P cycling role
 - [[soil-food-web-structure]] — for the broader soil biology context
+- [[rhizophagus-irregularis]]
+- [[ilex-guayusa]]

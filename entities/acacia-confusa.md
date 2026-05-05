@@ -143,3 +143,7 @@ tissue used for extraction.
 - **Taiwan:** Protected native tree; harvest permits required for
   root collection
 ## See Also
+
+- [[agroforestry]]
+- [[bufotenin]]
+- [[bufotenine]]

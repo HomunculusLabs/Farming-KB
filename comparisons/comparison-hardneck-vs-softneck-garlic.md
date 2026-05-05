@@ -128,3 +128,10 @@ Both types share the same basic planting window — **4–6 weeks before the gro
 Many small-scale growers plant **both types** — hardnecks for summer and fall eating, and softnecks as the winter keeper. A common ratio is 60/40 softneck to hardneck, adjusted for your market and climate. Plant them in separate beds so you can harvest and cure each type on its own schedule. Hardnecks mature 2–3 weeks earlier than softnecks in most regions, which spreads out harvest labor.
 
 In marginal zones (6–7), try both and observe which performs better over two or three seasons. Microclimate, mulch depth, and planting date all influence results more than zone alone. Some growers even plant a small patch of **creole garlic** (a semi-softneck) as a trial — it combines softneck storage with hardneck-like heat, though it needs a long, warm season to size up well.
+
+## See Also
+
+- [[solomon-growing-garlic-onions-leeks]]
+
+- [[comparison-coppicing-vs-pollarding]]
+- [[organic-pest-and-disease-management]]

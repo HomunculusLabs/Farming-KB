@@ -148,3 +148,9 @@ Cultivated material increasingly available via liquid culture.
 
 - **Birch polyculture**: Dual yield of timber and Chaga after 10–15 years
 - **Fungal succession**: Mid-succession alongside earlier-succession fungi
+
+## See Also
+
+- [[decomposition]]
+- [[ergosterol]]
+- [[fungal-melanin]]

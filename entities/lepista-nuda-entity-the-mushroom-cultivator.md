@@ -145,3 +145,4 @@ this species as one of high culinary appeal.
 - [[agaricus-brunnescens]]
 - [[coprinus-comatus-cultivation]]
 - [[pleurotus-ostreatus]]
+- [[lepista-sordida]]

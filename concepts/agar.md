@@ -147,3 +147,16 @@ cultures remain alive and healthy.
 - laminar-flow-hood
 - spore-germination
 - Mycelium
+- [[coprinopsis-atramentaria]]
+- [[scleroderma-citrinum]]
+- [[giorgio-samorini]]
+- [[meripilus-giganteus]]
+- [[tabernaemontana-divaricata]]
+- [[pycnoporus-cinnabarinus]]
+- [[bondarzewia-berkeleyi]]
+- [[macrocybe-gigantea]]
+- [[chlorophyllum-molybdites]]
+- [[coprinellus-micaceus]]
+- [[macrolepiota-procera]]
+- [[gymnopus-dryophilus]]
+- [[swertia-chirata]]

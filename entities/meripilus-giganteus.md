@@ -134,3 +134,9 @@ mycorrhizal associations.
   Russulales; spores are amyloid; pore surface does not stain black.
 - ***Grifola frondosa*** (Maitake) — Superficially similar multi-capped
   structure; smaller; pores do not bruise black; highly valued edible.
+
+## See Also
+
+- [[agar]]
+- [[bondarzewia-berkeleyi]]
+- [[decomposition]]

@@ -131,3 +131,5 @@ Dighton (2003) discusses sarcodon imbricatus in the context of metal accumulatio
 - heavy metal accumulation
 - Bankeraceae
 - Basidiomycota
+- [[sarcodon-scabrosus]]
+- [[sarcodon-scorodonium]]

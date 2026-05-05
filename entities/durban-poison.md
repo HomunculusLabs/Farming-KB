@@ -123,3 +123,9 @@ As a landrace, Durban Poison can exhibit moderate phenotypic variation even from
 ## Summary
 
 Durban Poison stands as one of the most important and beloved landrace sativa strains in cannabis history. Its South African origins, unique terpinolene-dominant terpene profile, clear-headed effects, and role as foundational breeding stock have cemented its status as a cornerstone of global cannabis genetics. Whether consumed for creative focus, daytime energy, or as a building block for new cultivars, Durban Poison remains a pure and potent expression of African sativa excellence.
+
+## See Also
+
+- [[girl-scout-cookies]]
+- [[granddaddy-purple]]
+- [[screen-of-green]]

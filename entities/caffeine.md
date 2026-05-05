@@ -142,3 +142,6 @@ Unregulated worldwide. No scheduling under the UN Convention on Psychotropic Sub
 - **Theophylline** (1,3-dimethylxanthine) — bronchodilator used therapeutically for respiratory conditions
 - **Paraxanthine** (1,7-dimethylxanthine) — primary caffeine metabolite; contributes to lipolysis
 - **Theacrine** (1,3,7,9-tetramethyluric acid) — purine alkaloid from Camellia assamica with stimulant properties and apparently no tolerance development
+- [[theobromine]]
+- [[ilex-guayusa]]
+- [[ethylone]]

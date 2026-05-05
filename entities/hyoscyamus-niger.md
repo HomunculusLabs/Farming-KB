@@ -146,3 +146,4 @@ acetylcholine levels.
 ## See Also
 
 - [[henbane-hyoscyamus-niger-ethnobotany]]
+- [[atropine]]

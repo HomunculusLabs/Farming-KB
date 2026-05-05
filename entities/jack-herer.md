@@ -118,3 +118,4 @@ Jack Herer the strain is inseparable from Jack Herer the man:
 - [[tetrahydrocannabinol-thc]] — Primary psychoactive cannabinoid
 - [[cannabidiol-cbd]] — Non-psychoactive cannabinoid, present in low amounts in Jack Herer
 - Sour Diesel — Another legendary sativa-dominant strain from the same era
+- [[nerolidol]]

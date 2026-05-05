@@ -151,3 +151,4 @@ interest in its potential therapeutic applications:
 ## See Also
 
 - [[salvinorin-a]]
+- [[salvinorin-a-entity]]

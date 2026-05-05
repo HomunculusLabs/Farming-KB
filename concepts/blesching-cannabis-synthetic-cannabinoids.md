@@ -132,3 +132,8 @@ sometimes contradictory regulatory landscape surrounding cannabis medicine.
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[blesching-cannabis-multiple-sclerosis]]
 - [[blesching-cannabis-forms-and-preparations]]
+- [[blesching-cannabis-asthma]]
+- [[blesching-cannabis-endometriosis]]
+- [[blesching-cannabis-insomnia]]
+- [[blesching-cannabis-belief-reprogramming]]
+- [[blesching-cannabis-vasopressin-aggression]]

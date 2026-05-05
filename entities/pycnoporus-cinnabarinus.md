@@ -125,3 +125,9 @@ Several patents have been filed related to *P. cinnabarinus* laccase, covering p
 - WO Patent 99/31237: Laccase-mediator system for textile dye decolorization using *P. cinnabarinus* enzyme
 - Commercial laccase preparations derived from *P. cinnabarinus* are available from enzyme suppliers including Novozymes and Sigma-Aldrich, marketed for research and industrial applications
 - The global laccase market is projected to reach $50 million by 2028, with *P. cinnabarinus* and *Trametes versicolor* as the primary production organisms
+
+## See Also
+
+- [[agar]]
+- [[bacillus-subtilis]]
+- [[candida-albicans]]

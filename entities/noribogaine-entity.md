@@ -127,3 +127,4 @@ clinical trials evaluating noribogaine for opioid use disorder.
 - [[tabernanthe-iboga]] — Source plant, African shrub
 - [[voacangine-entity]] — Related iboga alkaloid from Voacanga species
 - [[dimethyltryptamine]] — Tryptamine psychedelic with distinct pharmacology
+- [[noribogaine]]

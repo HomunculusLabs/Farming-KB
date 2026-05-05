@@ -149,3 +149,5 @@ Neither group is a complete substitute for thoughtful soil management. Rhizobia 
 ## See Also
 
 - [[comparison-free-living-vs-parasitic-nematodes]]
+- [[arbuscular-mycorrhizal-fungi]]
+- [[azotobacter-chroococcum]]

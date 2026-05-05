@@ -169,3 +169,5 @@ The pharmacological activity of *Leonurus cardiaca* is attributed to a diverse a
 ## See Also
 
 - [[leonurus-cardiaca-entity]]
+- [[companion-planting]]
+- [[herbal-medicine]]

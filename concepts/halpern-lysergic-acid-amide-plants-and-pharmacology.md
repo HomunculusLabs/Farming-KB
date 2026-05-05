@@ -88,3 +88,4 @@ The Purple Ohms capsules marketed in the UK as a legal alternative to psilocybin
 - [[lsa-containing-plants-guide]]
 - [[morning-glory-lsa-and-ergoline-alkaloids]]
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
+- [[ursolic-acid]]

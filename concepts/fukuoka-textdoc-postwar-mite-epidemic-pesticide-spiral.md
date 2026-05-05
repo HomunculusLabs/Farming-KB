@@ -118,3 +118,7 @@ the rational response is not to intervene more precisely but to intervene less. 
 exactly why the mites do not become a problem — he simply observes that they do not. His ignorance is in fact wisdom, because he has recognized
 the limits of his understanding and chosen not to act on incomplete knowledge. This is the principle of "doing nothing" at the heart of
 natural farming — not laziness but profound respect for the complexity and self-regulating capacity of natural systems.
+
+## See Also
+
+- [[natural-farming]]

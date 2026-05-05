@@ -136,11 +136,15 @@ evolution.
 
 ## Related Concepts
 
-- [[Brassinosteroids as steroidal phytohormones for fungal growth
-  promotion]] for the broader phytohormone context
+- [[Brassinosteroids as steroidal phytohormones for fungal growth promotion]] for the broader phytohormone context
 - [[Brassinosteroid effects on fungal morphology]] for morphological
   changes in treated cultures
-- [[Brassinosteroid annulus loss in Psilocybe cubensis and taxonomic
-  implications]] for the specific developmental alteration
+- [[Brassinosteroid annulus loss in Psilocybe cubensis and taxonomic implications]] for the specific developmental alteration
 - [[22S,23S-Homobrassinolide chemistry and synthesis]] for the compound
   enabling cross-kingdom activity
+
+## See Also
+
+- [[brassinosteroid]]
+- [[brassinosteroid-effects-on-fungal-morphology]]
+- [[candida-albicans]]

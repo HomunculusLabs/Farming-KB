@@ -142,3 +142,9 @@ Mild saline soils: 1–2 seasons. Sodic with severe compaction: 2–5 years. Sev
 ## Summary
 
 Restore saline and compacted soil systematically: **diagnose accurately, address physical barriers first (drainage, compaction), apply correct chemical amendments (gypsum for sodic, leaching for saline), support biological recovery (halophytes, cover crops, organic matter), and monitor with regular soil testing.** Prevention through good irrigation management, organic matter maintenance, and minimal tillage is far cheaper than remediation.
+
+## See Also
+
+- [[arbuscular-mycorrhizal-fungi]]
+- [[cover-crops]]
+- [[mycorrhiza]]

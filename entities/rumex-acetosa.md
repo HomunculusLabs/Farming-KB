@@ -144,3 +144,4 @@ digestive aid.
 - [[plantago-major]]
 - Allium sativum
 - [[borago-officinalis]]
+- [[rumex-obtusifolius-entity]]

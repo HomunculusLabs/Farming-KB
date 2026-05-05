@@ -110,6 +110,8 @@ Despite these limitations, the demonstrated capacity to restore degraded land wh
 
 ## See Also
 
+- [[hofmann-ernst-junger-lsd-literary-dialogue]]
+
 - [[permaculture]] — The broader design framework within which syntropic agriculture operates
 - [[food-forest-permaculture]] — Food forest design shares syntropic agriculture's stratification principles
 - [[agroforestry]] — The practice of integrating trees with crops, which syntropic agriculture intensifies

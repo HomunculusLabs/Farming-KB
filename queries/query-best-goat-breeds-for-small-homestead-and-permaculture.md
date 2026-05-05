@@ -146,3 +146,8 @@ and permaculture integration.
 *Last updated: 2026-04-28. Always verify breed suitability with local extension agents
 and experienced breeders in your region. Milk production varies by individual, diet,
 and management.*
+
+## See Also
+
+- [[homesteading]]
+- [[permaculture]]

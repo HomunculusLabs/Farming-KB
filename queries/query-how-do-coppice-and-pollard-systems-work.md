@@ -120,3 +120,9 @@ Coppiced hazel or willow can provide pea sticks, bean poles, and fruit cage supp
 - You need to preserve the grass layer beneath the trees for hay or pasture.
 
 In practice, many traditional landscapes used both systems side by side—coppice in enclosed woodland compartments and pollards in open commons and wood-pastures.
+
+## See Also
+
+- [[agroforestry]]
+- [[castanea-sativa]]
+- [[quercus-robur]]

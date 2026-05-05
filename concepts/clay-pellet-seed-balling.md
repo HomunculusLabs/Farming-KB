@@ -40,8 +40,7 @@ protective shell that hardens when dry, shielding the seed inside from external 
 
 The pellet also serves as a microbial delivery system. One gram of soil from Fukuoka's
 farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching
-microbes. By mixing soil into the pellet, these [[microbes as scavengers in natural
-farming|beneficial microorganisms]] are inoculated directly into the germination zone.
+microbes. By mixing soil into the pellet, these [[microbes as scavengers in natural farming|beneficial microorganisms]] are inoculated directly into the germination zone.
 
 The inclusion of organic matter within the pellet provides initial nutrients for the
 seedling once germination begins, while the clay regulates moisture retention and
@@ -132,6 +131,10 @@ conditions, they possess an innate capacity to grow without human intervention. 
 clay pellet is merely the minimal assistance needed to let nature take its course.
 
 ## See Also
+
+- [[masanobu-fukuoka]]
+- [[natural-farming]]
+- [[natural-orchard-management]]
 
 - [[Masanobu Fukuoka]]
 - [[natural farming]]

@@ -146,3 +146,9 @@ Check the USDA Plant Hardiness Zone Map (source listed above) and consult local 
 - **Permaculture Research Institute** (permaculturenews.org) — free articles, case studies, and a global community forum.
 - **Your local cooperative extension** — offers free soil testing, variety recommendations, and pest management guidance specific to your county.
 - **Plants for a Future** (pfaf.org) — searchable database of 7,000+ edible and useful plants with companion planting and guild information.
+
+## See Also
+
+- [[companion-planting]]
+- [[dynamic-accumulators]]
+- [[eric-toensmeier]]

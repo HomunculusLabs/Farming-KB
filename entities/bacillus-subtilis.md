@@ -148,3 +148,6 @@ but differing in pathogenicity. *B. licheniformis* is used in industrial
 - [[knf-hay-bacillus-disease-control]]
 - [[cervantes-bacillus-thuringiensis-bt-control]]
 - [[bacillus-megaterium]]
+- [[pycnoporus-cinnabarinus]]
+- [[bondarzewia-berkeleyi]]
+- [[guaiol]]

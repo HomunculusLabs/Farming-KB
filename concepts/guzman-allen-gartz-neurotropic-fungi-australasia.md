@@ -127,3 +127,9 @@ The Australasian neurotropic mycoflora faces several conservation and research c
 3. **Taxonomic uncertainty**: Several Australian Psilocybe species need modern taxonomic revision using molecular techniques
 4. **Indigenous knowledge**: Aboriginal Australian and Maori knowledge of psychoactive fungi remains largely undocumented and could provide important ethnobotanical information
 5. **Climate change**: Changes in rainfall patterns and temperature could significantly affect the distribution of moisture-dependent species in Australia's already marginal climate for fungal growth
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[claviceps-paspali]]
+- [[claviceps-purpurea]]

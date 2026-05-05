@@ -82,6 +82,10 @@ The key insight from plant mechanobiology is that plants are not passive organis
 
 ## See Also
 
+- [[daniel-chamovitz]]
+- [[mimosa-pudica]]
+- [[plant-memory-and-learning]]
+
 - [Plant Vision and Light Perception](what-a-plant-knows-plant-vision-and-light-perception.md)
 - [Photoperiodism and Phytochrome](chamovitz-photoperiodism-phytochrome-plant-vision.md)
 - [Plant Olfaction and Chemical Sensing](plant-olfaction-what-a-plant-smells.md)

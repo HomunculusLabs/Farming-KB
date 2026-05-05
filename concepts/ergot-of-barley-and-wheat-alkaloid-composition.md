@@ -90,3 +90,7 @@ This variability actually strengthens the [[kykeon-potion-and-ergot-hypothesis-a
 - [[hofmann-ergonovine-self-experiment-detail]]
 
 - [[ergot-and-lysergic-acid-history]]
+
+## See Also
+
+- [[ergocristine]]

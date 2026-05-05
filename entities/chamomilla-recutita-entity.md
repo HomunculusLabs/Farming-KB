@@ -124,3 +124,4 @@ German chamomile is unregulated worldwide and classified as GRAS (Generally Reco
 - [[achillea-millefolium]]
 - [[hypericum-perforatum]]
 - [[melissa-officinalis]]
+- [[gentiana-lutea]]

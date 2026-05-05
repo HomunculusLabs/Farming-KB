@@ -146,3 +146,7 @@ The stalked capitate trichomes are the target of
 A non-pollinated female (sinsemilla) will produce more flowering buds
 with no seeds and will generate greater quantities of THC than a male
 plant or a seeded female. During sinsemilla flowering:
+
+## See Also
+
+- [[pistil-whippersnapper]]

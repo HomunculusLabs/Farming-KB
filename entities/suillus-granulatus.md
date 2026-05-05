@@ -93,3 +93,4 @@ strategies and soil management practices for conifer-dominated systems.
 - [[pisolithus-tinctorius]]
 - [[cenococcum-geophilum]]
 - [[laccaria-bicolor]]
+- [[suillus-americanus]]

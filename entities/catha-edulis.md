@@ -123,3 +123,4 @@ Khat's legal status varies dramatically worldwide, reflecting the tension betwee
 - Methamphetamine
 - Ephedra
 - [[erythroxylum-coca]]
+- [[paullinia-cupana]]

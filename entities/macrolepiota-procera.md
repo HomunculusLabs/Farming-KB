@@ -118,3 +118,9 @@ Suitable for integration into silvopasture and food forest designs as a naturall
 Preference for grassy edges makes it compatible with alley cropping and hedgerow plantings. Adding leaf litter or wood chips between fruit trees can encourage colonization.
 
 Contributes to fungal biodiversity in designed ecosystems and provides a high-value seasonal food source.
+
+## See Also
+
+- [[agar]]
+- [[agaritine]]
+- [[chlorophyllum-molybdites]]

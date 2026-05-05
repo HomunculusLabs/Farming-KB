@@ -102,6 +102,8 @@ unknown about [[fungal-ecology]]. Its conservation status serves as a
 warning signal for forest health monitoring worldwide.
 
 ## See Also
+
+- [[polyozellus-multiplex]]
 - [[boletus-edulis]]
 - [[tricholoma-matsutake]]
 - [[morchella-esculenta]]

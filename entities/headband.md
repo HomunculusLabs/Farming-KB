@@ -140,3 +140,7 @@ Watch for spider mites, powdery mildew, bud rot in humidity.
 - **710 Headband** — distinct phenotype, amplified resin
 - **Headbanger** — Headband × Sour Bubble cross
 - **Thin Mint Cookies** — carries Headband lineage through GSC
+
+## See Also
+
+- [[sour-diesel]]

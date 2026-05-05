@@ -103,3 +103,4 @@ LSD (lysergic acid diethylamide) is a semi-synthetic derivative. The addition of
 - [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
 - [[lolium-temulentum-darnel-and-ergot]]
 - [[the-road-to-eleusis-wasson-hofmann-ruck]]
+- [[digitalis-purpurea]]

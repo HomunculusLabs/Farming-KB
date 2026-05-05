@@ -119,6 +119,8 @@ as a hazardous substance following multiple overdose incidents.
 
 ## See Also
 
+- [[fukuoka-textdoc-paddy-ecosystem-spider-frog-dragonfly-balance]]
+
 - [[doi-entity]] — 2,5-dimethoxy-4-iodoamphetamine, a less potent DOx
 - [[dom-entity]] — DOM (STP), the original DOx psychedelic amphetamine
 - [[lsd-d-lysergic-acid-diethylamide]] — LSD, often misrepresented as

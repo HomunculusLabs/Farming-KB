@@ -122,3 +122,8 @@ When one reaches this state, the question of what to eat resolves itself. The bo
 Fukuoka's dietary teachings ultimately point beyond food to a more fundamental recovery of wholeness. The person who eats naturally is also the person who farms naturally, lives naturally, and thinks naturally. Diet is not a separate domain of life but an expression of one's entire relationship with the world. To change one's diet without changing one's way of living is to treat the symptom while ignoring the disease.
 
 The return to nature that Fukuoka advocated is therefore not a dietary program but a comprehensive transformation — a letting go of the artificial, the conceptual, and the compulsive, and an opening to the intelligence that runs through all living things. It begins with food because food is the most intimate point of contact between the human body and the natural world, but it does not end there.
+
+## See Also
+
+- [[natural-diet]]
+- [[natural-farming]]

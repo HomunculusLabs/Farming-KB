@@ -176,3 +176,7 @@ to red and far-red light, governs temporal perception and the measurement of day
 length through the leaves. Together, these systems give plants a remarkably
 sophisticated capacity to sense and respond to their light environment, one that
 Chamovitz argues legitimately deserves to be called a form of vision.
+
+## See Also
+
+- [[daniel-chamovitz]]

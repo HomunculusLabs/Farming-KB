@@ -152,3 +152,7 @@ and enhances angiogenesis.
 - Generally well-tolerated; high doses may cause GI discomfort
 - Not recommended during pregnancy (uterine stimulant activity)
 - May potentiate anticoagulant therapy
+
+## See Also
+
+- [[phyllanthus-emblica]]

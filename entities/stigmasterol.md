@@ -82,3 +82,4 @@ Phytosterols including stigmasterol are released into soil environments through 
 - j.-gartz
 - [[psilocybe-cubensis]]
 - β-sitosterol
+- [[gymnema-sylvestre]]

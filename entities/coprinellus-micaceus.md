@@ -141,3 +141,11 @@ coprinoid fungi.
 Not commercially cultivated due to small size and extremely short shelf life.
 Can be grown on pasteurized hardwood sawdust or straw substrates. Occasionally
 encountered as a "weed" mushroom in commercial mushroom cultivation facilities.
+
+## See Also
+
+- [[agar]]
+- [[coprinopsis-atramentaria]]
+- [[dom]]
+
+- [[coprinopsis-atramentaria]]

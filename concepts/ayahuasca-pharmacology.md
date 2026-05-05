@@ -85,3 +85,4 @@ The former is ethnobotanically rich but pharmacologically imprecise. The latter 
 - [[ayahuasca-preparation-and-ceremony]]
 - [[ayahuasca-preparation]]
 - [[amazonian-plant-teachers-doctores]]
+- [[harmane]]

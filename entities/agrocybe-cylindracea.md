@@ -119,3 +119,9 @@ Several commercial strains of *A. cylindracea* have been developed for cultivati
 - **AC-03:** Selected for warm-weather cultivation; fruits well at 22–28°C; popular in Southeast Asian production
 - **AC-05:** Developed for outdoor log cultivation; faster spawn run on poplar bolts; produces more flushes per year than other strains
 - **Wild-type isolates** from European populations show genetic and morphological differences from Asian commercial strains, with generally smaller fruiting bodies but reportedly more intense flavor
+
+## See Also
+
+- [[agrocybe-praecox]]
+- [[agroforestry]]
+- [[appropriate-technology]]

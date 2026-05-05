@@ -116,3 +116,9 @@ The reversible nature provides a wider safety margin than irreversible MAOIs (ph
 - [[Tetrahydroharmine]] — fully reduced; weak MAOI, serotonin reuptake inhibitor
 - [[Banisteriopsis caapi]] — primary botanical source in ayahuasca
 - [[DMT]] — visionary tryptamine potentiated by harmine in ayahuasca
+
+## See Also
+
+- [[banisteriopsis-caapi]]
+- [[dextromethorphan]]
+- [[ephedrine]]

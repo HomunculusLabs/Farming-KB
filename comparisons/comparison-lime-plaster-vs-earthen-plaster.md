@@ -133,3 +133,7 @@ Both plasters excel over conventional finishes, but they differ in indoor health
 ## Bottom Line
 
 For most natural building projects, the decision comes down to climate and budget. In arid regions, clay plaster is sufficient for both interior and exterior, offering unbeatable cost and ease. In wetter climates, lime plaster (or a lime-exterior/clay-interior hybrid) is the prudent choice for durability and weather protection. For interior walls in any climate, clay plaster is almost always the most practical, beautiful, and affordable option.
+
+## See Also
+
+- [[natural-building]]

@@ -135,3 +135,5 @@ The neurotropic species tend to be **large and conspicuous**, making them among 
 - [[Copelandia Genus]]
 - [[Psilocybin Chemistry]]
 - [[Panaeolus and Panaeolina Genera]]
+- [[aeruginascin]]
+- [[baeocystin]]

@@ -142,3 +142,7 @@ formation, particularly in arid and semi-arid regions.
 - [[cladosporium-cladosporioides]]
 - [[trichoderma-viride]]
 - [[chaetomium-globosum]]
+
+## See Also
+
+- [[guaiol]]

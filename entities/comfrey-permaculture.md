@@ -189,3 +189,9 @@ PA content varies significantly between species and cultivars:
 - 'Bocking 14': Lowest PA content among commonly available cultivars
 
 **For permaculture purposes, 'Bocking 14' is the recommended cultivar** — it combines maximum biomass production with the lowest PA content, is sterile (no seed spread), and is widely available.
+
+## See Also
+
+- [[companion-planting]]
+- [[composting]]
+- [[decomposition]]

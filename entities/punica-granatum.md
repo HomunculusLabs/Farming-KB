@@ -143,3 +143,9 @@ in Northern Hemisphere; fruit does not ripen off-tree.
 - **Mollar de Elche:** Spanish PDO; soft seeds, sweet, pink arils.
 - **Ambrosia:** Very large (1–1.5 kg); pink arils, popular home garden variety.
 - **Salavatski:** Cold-hardy Russian selection; tolerates −15°C.
+
+## See Also
+
+- [[agroforestry]]
+- [[dom]]
+- [[food-forest]]

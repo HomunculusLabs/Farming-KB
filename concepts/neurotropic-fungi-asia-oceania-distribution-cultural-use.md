@@ -118,3 +118,9 @@ The most significant gaps in knowledge include:
 - **Myanmar and Laos**: no records despite sharing tropical habitats with Thailand
 
 The pattern of Asia-Oceania neurotropic fungal distribution supports the southern hemisphere origin hypothesis. The most distinctive and endemic species occur in the southern parts of the region (New Guinea, Australia, New Zealand), while the northern areas (Japan, Korea, northern China) share species with the circumboreal flora of Europe and North America. The tropical species of Southeast Asia form a bridge between these two domains. Targeted field work in the undersurveyed regions of Borneo, Papua New Guinea, and the Indian subcontinent would almost certainly yield significant new discoveries and may fundamentally alter our understanding of the genus's distribution and evolution.
+
+## See Also
+
+- [[neurotropic-fungi-japan-east-asia-species-cultural-context]]
+- [[amanita-muscaria]]
+- [[copelandia-cambodginiensis]]

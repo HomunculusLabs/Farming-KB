@@ -1,3 +1,12 @@
+---
+title: Quantum Mechanical Correlates Of Hallucinogenesis
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [mycology, chemistry, research]
+sources: [raw/papers/psilocybin-synthesis-shirota.md]
+---
+
      1|--- 2|title: Quantum Mechanical Correlates of Hallucinogenesis
      3|tags: [quantum-physics, consciousness, tryptamines, pharmacology, dmt]
      4|date: 2026-04-28 5|updated: 2026-04-28 6|sources:
@@ -122,7 +131,11 @@
    149|formality of actually occurring." The most richly organized material in the
    150|universe is the human cerebral cortex, and the densest and richest experience
    151|in the universe is the experience happening right now. Everything should be
-   152|constellated outward from the perceiving self. 153| 154|## See Also 155|
+   152|constellated outward from the perceiving self. 153| 154|## See Also
+
+- [[alexander-shulgin]]
+- [[dimethyltryptamine]]
+- [[mckenna-exteriorization-soul-translinguistic-matter]] 155|
    156|- [Tryptamine Hallucinogens and Consciousness](tryptamine-hallucinogens-and-consciousness.md)
    157|- [DMT Self-Transforming Machine Elves McKenna](dmt-self-transforming-machine-elves-mckenna.md)
    158|- [McKenna Tryptamines Logos Consciousness](mckenna-tryptamines-logos-consciousness.md)

@@ -141,3 +141,9 @@ prominent umbo.
 - *Psilocybe pelliculosa* — North American, smaller stature.
 - *Psilocybe liniformans* — gelatinous gill edge distinguishes it.
 - *Psilocybe fimetaria* — found on dung, more robust.
+
+## See Also
+
+- [[baeocystin]]
+- [[psilocybe-fimetaria]]
+- [[psilocybe-liniformans]]

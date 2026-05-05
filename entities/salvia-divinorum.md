@@ -126,3 +126,9 @@ sources:
 - **Genetic diversity**: Extremely low in cultivation — conservation concern
 - **Flowering/seeding**: Exceptionally rare in cultivation; most commercial seed non-viable
 - **Growing conditions**: 60–80% humidity, partial shade, well-draining soil, 15–25°C
+
+## See Also
+
+- [[mazatec-people]]
+- [[salvinorin-a]]
+- [[salvinorin-b]]

@@ -137,3 +137,9 @@ Mexico, Costa Rica, Brazil, and the Netherlands, treating an estimated
   for opioid use disorder.
 - **Tabernanthine:** Minor iboga alkaloid with stimulant properties.
 - **Ibogamine:** Less potent at NMDA and opioid receptors.
+
+## See Also
+
+- [[noribogaine]]
+- [[psilocybin]]
+- [[serotonin]]

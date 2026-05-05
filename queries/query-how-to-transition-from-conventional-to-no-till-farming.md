@@ -155,3 +155,9 @@ Most economic analyses show break-even by year 3–4 and net profit improvement 
 - Organic certification paths that prohibit synthetic herbicides and where mechanical weed control is the only option (though flame weeding and roller-crimping can bridge this gap).
 
 The bottom line: no-till is adaptable to most contexts, but the specific strategies must match your soil, climate, and crop mix. Connect with local no-till farmers through organizations like No-Till on the Plains, the Soil Health Academy, or your regional NRCS office for region-specific guidance.
+
+## See Also
+
+- [[cover-crop-termination]]
+- [[cover-crops]]
+- [[decomposition]]

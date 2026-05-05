@@ -144,3 +144,7 @@ The pharmacological activity of *P. ginseng* is primarily attributed to ginsenos
 - Cautious use in patients with autoimmune conditions due to immunostimulatory effects
 - Avoid during acute infections (TCM principle)
 - Possible estrogenic effects — use with caution in hormone-sensitive conditions
+
+## See Also
+
+- [[herbal-medicine]]

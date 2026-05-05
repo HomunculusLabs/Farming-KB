@@ -136,3 +136,4 @@ Damiana is well-suited to warm-climate food forests and permaculture gardens. Dr
 - [[Bacopa monnieri]] — nootropic nervine herb from the Ayurvedic tradition
 - [[Salvia officinalis]] — aromatic Mediterranean herb with nervine and cognitive benefits
 - [[Comfrey]] — traditional medicinal plant with permaculture applications
+- [[pausinystalia-yohimbe]]

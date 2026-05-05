@@ -144,3 +144,9 @@ aggregation and organic matter decomposition.
   pale cream, similar flavor
 - *Craterellus tubaeformis* (Winter chanterelle) — darker,
   trumpet-shaped, now in *Craterellus*; excellent edibility
+
+## See Also
+
+- [[agroforestry]]
+- [[cantharellus-cibarius]]
+- [[craterellus-tubaeformis]]

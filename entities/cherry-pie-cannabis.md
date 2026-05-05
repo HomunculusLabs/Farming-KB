@@ -143,3 +143,9 @@ Common side effects include dry mouth and dry eyes, typical of high-THC
 cannabis. At higher doses, some users report mild dizziness, paranoia (more
 common in anxiety-prone individuals), and lethargy. The sedative properties
 impair coordination and cognitive function, making driving inadvisable.
+
+## See Also
+
+- [[blesching-cannabis-health-index-autoimmune-conditions]]
+- [[durban-poison]]
+- [[girl-scout-cookies]]

@@ -148,3 +148,9 @@ Succession is fundamentally a soil-building process. Pioneer stages have shallow
 - Working with succession rather than against it reduces inputs, builds soil faster, and creates more resilient systems
 - The weeds on your land are a free succession diagnostic — learn to read them
 - The most productive and resilient farms incorporate multiple successional stages across the landscape
+
+## See Also
+
+- [[agroecology]]
+- [[agroforestry]]
+- [[building-soil]]

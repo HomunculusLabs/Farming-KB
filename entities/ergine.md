@@ -133,3 +133,4 @@ suppliers for analytical calibration.
 - [[mescaline]]
 - [[argyreia-nervosa]]
 - [[turbina-corymbosa]]
+- [[ergine-entity]]

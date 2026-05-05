@@ -122,3 +122,10 @@ The best strategy for gardeners, farmers, and land managers is to **integrate bo
 - **Monitor and learn** — participate in citizen science programs (Bumble Bee Watch, iNaturalist) to contribute to native bee data.
 
 Both honey bees and native solitary bees have vital roles. By understanding their differences and complementary strengths, we can build landscapes that sustain pollinators, food systems, and biodiversity together.
+
+## See Also
+
+- [[gaias-garden-bees-and-pollinators]]
+
+- [[query-how-to-attract-native-bees-and-beneficial-insects]]
+- [[organic-pest-and-disease-management]]

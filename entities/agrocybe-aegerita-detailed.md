@@ -130,3 +130,5 @@ A. aegerita has been investigated for various medicinal properties:
 - [[pholiota-nameko]] — Nameko, another ringed mushroom with similar cultivation
 - [[hypsizygus-tessulatus]] — Beech Mushroom, for comparison of specialty cultivated species
 - [[pleurotus-eryngii]] — King Oyster, another specialty cultivated mushroom
+- [[agrocybe-cylindracea]]
+- [[agrocybe-praecox]]

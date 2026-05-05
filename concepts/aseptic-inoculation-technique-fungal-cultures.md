@@ -121,3 +121,9 @@ Keeping a simple log of inoculation date, inoculum type, and observed growth mil
 - **Cobweb mould**: Grey, wispy spider-web-like growth, faster than mushroom mycelium
 
 Any confirmed contaminated jar should be removed immediately and re-sterilised before opening to prevent spore release into the growing environment.
+
+## See Also
+
+- [[fungal-spores]]
+- [[spore-syringe]]
+- [[trichoderma]]

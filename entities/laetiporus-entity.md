@@ -82,3 +82,4 @@ Laetiporus is sometimes confused with other brightly colored polypores. The genu
 - [[mushroom-cooking-techniques]]
 
 - [[fomes-entity]]
+- [[laetiporus-cincinnatus]]

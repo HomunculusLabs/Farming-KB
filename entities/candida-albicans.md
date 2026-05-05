@@ -135,3 +135,7 @@ Related: [[candida-albicans-molecular-epidemiology]], [[gadd-fungal-biofilms-quo
 - [[aspergillus-fumigatus]]
 - [[cryptococcus-neoformans]]
 - [[neurospora-crassa]]
+- [[inula-helenium]]
+- [[pycnoporus-cinnabarinus]]
+- [[monarda-didyma]]
+- [[guaiol]]

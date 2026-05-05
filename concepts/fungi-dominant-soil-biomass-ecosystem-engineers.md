@@ -186,6 +186,10 @@ soil carbon sequestration.
 
 ## See Also
 
+- [[arbuscular-mycorrhizal-fungi]]
+- [[common-mycorrhizal-networks]]
+- [[decomposition]]
+
 - [[Fungi in the Environment]] for the comprehensive reference on environmental
   mycology
 - [[Ectomycorrhizal networks]] for detailed treatment of ECM fungal ecology

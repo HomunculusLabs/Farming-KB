@@ -146,3 +146,10 @@ suggesting it benefits from the nutrient-rich, frequently irrigated conditions
 of human-maintained landscapes. Despite its toxicity to humans, the mushroom
 is consumed without apparent harm by some animals including slugs and certain
 insects.
+
+## See Also
+
+- [[agar]]
+- [[decomposition]]
+- [[dom]]
+- [[macrolepiota-procera]]

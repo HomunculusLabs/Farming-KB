@@ -147,3 +147,9 @@ indole derivatives on TLC plates.
 - [[Magic Mushrooms]] for fungal species producing these compounds
 - [[Serotonin Receptor Agonism]] for the hallucinogenic mechanism
 - [[Tryptamine Chemistry]] for broader indole alkaloid synthesis
+
+## See Also
+
+- [[albert-hofmann]]
+- [[baeocystin]]
+- [[dimethyltryptamine]]

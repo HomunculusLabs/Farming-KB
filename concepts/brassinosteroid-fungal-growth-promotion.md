@@ -132,3 +132,9 @@ steroid's stability make it a practical candidate for integration into
 controlled cultivation protocols, although the annulus suppression effect
 warrants further investigation regarding its impact on spore production and
 species identification characteristics.
+
+## See Also
+
+- [[brassinosteroid]]
+- [[homobrassinolide]]
+- [[mushroom-cultivation]]

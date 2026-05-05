@@ -134,3 +134,10 @@ insect larvae. The species is not known to form mycorrhizal associations.
   appearance but in Meripilaceae; different pore structure, no amyloid spores.
 - ***Meripilus giganteus*** (Giant Polypore) — Another massive root-rot
   polypore of hardwoods; pores bruise black, spores are non-amyloid.
+- [[meripilus-giganteus]]
+
+## See Also
+
+- [[agar]]
+- [[bacillus-subtilis]]
+- [[decomposition]]

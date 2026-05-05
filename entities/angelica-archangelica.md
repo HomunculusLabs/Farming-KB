@@ -138,3 +138,8 @@ Angelica has significant value in permaculture and ecological gardening:
 - **Food forest integration:** Angelica thrives in the damp, semi-shaded margins of food forests, orchards, and forest garden edges.
 - **Self-seeding:** Plants that set seed will often naturalize in suitable microsites, though they are not aggressively invasive in most climates.
 - **Carbon farming:** The large biennial plants contribute significant biomass, which can be composted or used as mulch.
+
+## See Also
+
+- [[companion-planting]]
+- [[food-forest]]

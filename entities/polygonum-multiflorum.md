@@ -139,3 +139,9 @@ shade and stabilizes soil on slopes. Cultivation requires well-drained loamy
 soil with organic matter (pH 6.0–7.5), propagation by seed (stratification
 required) or root division, trellis support for commercial root production, and
 3–4 years before harvest for maximum constituent content. Hardy in zones 7–10.
+
+## See Also
+
+- [[dom]]
+- [[food-forest]]
+- [[permaculture]]

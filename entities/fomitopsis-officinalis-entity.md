@@ -172,6 +172,10 @@ Cultivation of *F. officinalis* is challenging due to its slow growth and specif
 
 ## See Also
 
+- [[bacillus-subtilis]]
+- [[ergosterol]]
+- [[fomes-fomentarius]]
+
 - [[Fomitopsis]] (genus overview)
 - [[Fomes fomentarius]]
 - [[Ganoderma lucidum]] (comparison of medicinal polypores)

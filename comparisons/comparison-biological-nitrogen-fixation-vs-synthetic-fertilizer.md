@@ -148,3 +148,9 @@ pressure intensifies and fossil energy costs rise, transitioning toward BNF-domi
 systems represents a critical lever for reducing agriculture's climate footprint,
 protecting waterways, restoring soil ecosystems, and building truly sustainable food
 systems for the long term.
+
+## See Also
+
+- [[melilotus-officinalis]]
+- [[agroforestry]]
+- [[cover-crops]]

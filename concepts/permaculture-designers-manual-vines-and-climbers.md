@@ -94,3 +94,4 @@ Bill Mollison, Permaculture: A Designers' Manual, Tagari Publications, 1988. Cha
 - [[permaculture-designers-manual-vine-systems]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]
 - [[permaculture-designers-manual-cold-climate-greenhouse]]
+- [[p-a-yeomans]]

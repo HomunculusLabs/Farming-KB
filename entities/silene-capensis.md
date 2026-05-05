@@ -130,3 +130,5 @@ published as of 2026.
 - oneirogens
 - [[ethnobotany-of-psychedelic-fungi]]
 - saponins
+- [[calea-zacatechichi]]
+- [[entada-rheedii]]

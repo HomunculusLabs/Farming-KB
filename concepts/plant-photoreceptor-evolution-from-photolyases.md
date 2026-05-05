@@ -125,6 +125,10 @@ timescales.
 
 ## See Also
 
+- [[cryptochrome-and-blue-light-photoreception]]
+- [[daniel-chamovitz]]
+- [[phytochrome-molecular-switch-mechanism]]
+
 - [[Cryptochrome and Blue Light Photoreception]] for detailed cryptochrome biology
 - [[Phytochrome Molecular Switch Mechanism]] for the Pr/Pfr system and gene family
 - [[Plant Vision and Phototropism]] for behavioural consequences of light sensing

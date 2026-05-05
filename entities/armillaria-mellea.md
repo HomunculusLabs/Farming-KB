@@ -100,3 +100,4 @@ infected stumps, improving tree vigor, and selecting resistant rootstocks.
 - [[paxillus-involutus]]
 - [[fusarium-oxysporum]]
 - [[magnaporthe-grisea]]
+- [[oudemansiella-radicata]]

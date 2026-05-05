@@ -177,6 +177,10 @@ Reported adverse effects include:
 
 ## See Also
 
+- [[caffeine]]
+- [[dom]]
+- [[mdea]]
+
 - [[Methylone]] — N-methyl homolog (cathinone analog of MDMA)
 - [[MDEA]] — Ethylone without the β-keto group
 - [[Mephedrone]] — 4-methylmethcathinone (4-MMC)

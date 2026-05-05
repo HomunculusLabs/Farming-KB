@@ -131,3 +131,5 @@ Yes — these systems are complementary. A hugel mound can serve as the foundati
 - [[Natural Succession]]
 - [[Keyline Design]]
 - [[Permaculture]]
+- [[agroforestry]]
+- [[decomposition]]

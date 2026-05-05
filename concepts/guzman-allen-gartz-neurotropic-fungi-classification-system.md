@@ -118,3 +118,4 @@ The Guzmán-Allen-Gartz system differs from earlier attempts in several importan
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 - [[gartz-magic-mushrooms-global-distribution-patterns]]
+- [[neurotropic-fungi-four-group-classification-system]]

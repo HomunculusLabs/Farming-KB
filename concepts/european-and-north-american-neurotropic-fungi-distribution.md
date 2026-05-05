@@ -30,8 +30,7 @@ Austria, Czech Republic, Bulgaria, Greece, and Portugal. It is also found in Nor
 Zealand, Australia, and Tasmania. Notably, it is absent from Mexico despite being nearly universal elsewhere in
 the temperate world.
 
-[[Amanita muscaria]] is universal across all European countries where surveys have been conducted. [[Panaeolina
-foenisecii]] is nearly as widespread, found from Iceland to Greece. [[Claviceps purpurea]] is the ergot fungus
+[[Amanita muscaria]] is universal across all European countries where surveys have been conducted. [[Panaeolina foenisecii]] is nearly as widespread, found from Iceland to Greece. [[Claviceps purpurea]] is the ergot fungus
 found throughout Europe on rye and other cereal grasses.
 
 ### Regionally Important European Species
@@ -43,8 +42,7 @@ practices that create ideal habitat.
 
 [[Psilocybe bohemica]] was originally described from Czechoslovakia by Sebek (1983) and is also found in Austria
 and Germany. [[Psilocybe serbica]] was described from Yugoslavia (Moser and Horak, 1968) and occurs in central and
-southeastern Europe. [[Psilocybe coprinifacies]] is known from Czechoslovakia and Great Britain. [[Psilocybe
-hispanica]] is a recently described species endemic to Spain.
+southeastern Europe. [[Psilocybe coprinifacies]] is known from Czechoslovakia and Great Britain. [[Psilocybe hispanica]] is a recently described species endemic to Spain.
 
 [[Inocybe aeruginascens]] was first discovered in Hungary by Babos (1968) and became particularly significant in
 Berlin during the 1980s when it fruited abundantly in urban parks, including the famous Kaulsdorfer Busch. Also
@@ -58,19 +56,16 @@ described from Germany by Besl (1994), and [[Psilocybe azurescens]] (introduced 
 species of [[Inocybe]] and [[Pluteus]] have been confirmed from German collections.
 
 **Great Britain** (including Ireland, Hebrides, and Shetland Islands) has been systematically surveyed since the
-18th century. [[Psilocybe semilanceata]] was recorded as early as Sowerby (1797-1809), and [[Psilocybe
-cyanescens]] was documented by Singer and Smith (1958). The country has seven confirmed species of [[Panaeolus]]
+18th century. [[Psilocybe semilanceata]] was recorded as early as Sowerby (1797-1809), and [[Psilocybe cyanescens]] was documented by Singer and Smith (1958). The country has seven confirmed species of [[Panaeolus]]
 and [[Panaeolina]], along with [[Gymnopilus purpuratus]], G. sapineus, and G. spectabilis.
 
 **Italy** has a particularly rich documented neurotropic mycota studied extensively by Giorgio Samorini (1989,
 1992, 1996), including rare species such as [[Mycena cyanorhiza]] and [[Inocybe tricolor]].
 
-**Norway and Finland** represent the northernmost records of neurotropic fungi in Europe, with [[Psilocybe
-semilanceata]] found above the Arctic Circle and [[Conocybe cyanopus]] documented from both countries. Finland
+**Norway and Finland** represent the northernmost records of neurotropic fungi in Europe, with [[Psilocybe semilanceata]] found above the Arctic Circle and [[Conocybe cyanopus]] documented from both countries. Finland
 also has P. fimetaria, P. pelliculosa, P. silvatica, and P. strictipes.
 
-**Russia** (including Siberia) has [[Amanita muscaria]] distributed across its vast territory, and [[Psilocybe
-semilanceata]] extending into Siberia.
+**Russia** (including Siberia) has [[Amanita muscaria]] distributed across its vast territory, and [[Psilocybe semilanceata]] extending into Siberia.
 
 ## North American Neurotropic Mycota
 
@@ -97,9 +92,7 @@ and is famous for producing sclerotia, commonly sold as "magic truffles" in the 
 
 ### Southeastern and Gulf Coast Species
 
-The southeastern United States supports several tropical species at their northern range limits. [[Psilocybe
-cubensis]] is found along the Gulf Coast from Texas to Florida and north to South Carolina. [[Copelandia
-cyanescens]], C. westii, and C. chlorocystis are documented from Florida. [[Copelandia cambodginiensis]] is
+The southeastern United States supports several tropical species at their northern range limits. [[Psilocybe cubensis]] is found along the Gulf Coast from Texas to Florida and north to South Carolina. [[Copelandia cyanescens]], C. westii, and C. chlorocystis are documented from Florida. [[Copelandia cambodginiensis]] is
 recorded from Texas.
 
 ### Canadian and Alaskan Records
@@ -127,3 +120,9 @@ anthropogenic introduction through commerce and travel.
 North American endemics include [[Psilocybe stuntzii]] (Pacific Northwest) and [[Psilocybe weilii]] (southeastern
 US). European endemics include [[Psilocybe bohemica]], P. serbica, and P. hispanica. [[Psilocybe semilanceata]]
 is notably absent from Mexico despite being widespread in both Europe and North America.
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[amanita-pantherina]]
+- [[claviceps-purpurea]]

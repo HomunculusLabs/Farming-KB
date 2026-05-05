@@ -147,3 +147,9 @@ oak and beech plantings with spore slurry to accelerate mycorrhizal
 establishment in food-forest designs, reliable autumn foraging in
 mature oak-beech stands within agroforestry systems, and contribution
 to soil structure and water retention in tree-crop systems.
+
+## See Also
+
+- [[agroforestry]]
+- [[ectomycorrhiza]]
+- [[ectomycorrhizal-associations]]

@@ -141,3 +141,4 @@ attitude toward plant and substance use.
 - [[mckenna-transcendent-other-and-exopheromones]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-shamanism-and-the-lost-archaic-world]]
+- [[shamanism-as-archaic-technique-of-ecstasy]]

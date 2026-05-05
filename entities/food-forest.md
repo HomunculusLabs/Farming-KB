@@ -44,24 +44,19 @@ Food forests are not a modern invention but rather a formalization of practices 
 - **Geoff Lawton:** Australian permaculture designer who has established food forests globally, including in arid and subtropical climates; his online video demonstrations have popularized the concept internationally
 
 ## The Seven Layers
-
 The classic food forest model, as articulated by Robert Hart, organizes plants into seven vertical layers that occupy distinct ecological niches, maximizing productive use of space and light:
-
 ### 1. Canopy Layer (8–15+ meters)
 - Large fruit and nut trees forming the overstory
 - Species: Standard apples (*Malus domestica*), pears (*Pyrus communis*), sweet chestnut (*Castanea sativa*), walnut (*Juglans regia*), oak (*Quercus* spp. for acorns), heartnut, pawpaw (*Asimina triloba*), persimmon (*Diospyros virginiana*)
 - Function: Primary light capture, microclimate creation, wind protection, nitrogen input (leguminous trees), pollinator habitat
-
 ### 2. Understory/Low Tree Layer (4–8 meters)
 - Smaller fruit trees, dwarf fruit varieties, and nitrogen-fixing understory trees
 - Species: Dwarf apples and pears, plums (*Prunus* spp.), cherries, quince (*Cydonia oblonga*), medlar, serviceberry (*Amelanchier* spp.), Siberian pea shrub (*Caragana arborescens*), eleagnus species
 - Function: Secondary light capture, additional fruit/nut production, nitrogen fixation, wind filtering
-
 ### 3. Shrub Layer (1.5–4 meters)
 - Berry bushes, currants, and woody perennials
 - Species: Blackberry, raspberry, blueberry, gooseberry, currants (*Ribes* spp.), elderberry (*Sambucus nigra*), seaberry (*Hippophae rhamnoides*), hazel (*Corylus avellana*), goumi (*Elaeagnus multiflora*), aronia (*Aronia melanocarpa*)
 - Function: Dense berry production, wildlife habitat, nitrogen fixation (eleagnus, caragana), pollinator forage
-
 ### 4. Herbaceous Layer (0.3–1.5 meters)
 - Perennial herbs, vegetables, and medicinal plants
 - Species: [[comfrey]] (*Symphytum* spp.), [[ashwagandha]] (*Withania somnifera*), [[melissa-officinalis]] (*Melissa officinalis*), mint, lovage, Good King Henry, perennial kale, sea kale, sorrel, artichoke, cardoon
@@ -196,3 +191,9 @@ Sector analysis maps external energies (sun, wind, fire risk, wildlife corridors
 - [[mycoforestry]] — Integration of fungi into forest management systems
 - [[robert-hart]] — Pioneer of the modern temperate food forest concept
 - [[geoff-lawton]] — Permaculture designer and food forest practitioner
+- [[rhus-typhina]]
+- [[polygonum-multiflorum]]
+- [[punica-granatum]]
+- [[morinda-citrifolia]]
+- [[arctostaphylos-uva-ursi]]
+- [[thuja-occidentalis]]

@@ -127,6 +127,10 @@ Evidence on the extent of wild foraging is sparse but exists. User websites prov
 
 ## See Also
 
+- [[amanita-muscaria]]
+- [[amanita-pantherina]]
+- [[copelandia-cyanescens]]
+
 - [[Hallucinogenic Mushroom Prevalence in Europe]]
 - [[Psilocybe Species Identification]]
 - [[Psilocybin and Psilocin Chemistry]]

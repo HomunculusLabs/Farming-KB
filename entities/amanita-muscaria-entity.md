@@ -126,3 +126,5 @@ In permaculture and forest garden design, *A. muscaria* serves as a visible indi
 - [[Psilocybin]] — serotonergic psychedelic compound found in gilled mushrooms
 - [[Ectomycorrhiza]] — symbiotic root-fungus associations
 - [[GABA-Receptors]] — target of muscimol and related depressant compounds
+- [[amanita-muscaria]]
+- [[ectomycorrhiza]]

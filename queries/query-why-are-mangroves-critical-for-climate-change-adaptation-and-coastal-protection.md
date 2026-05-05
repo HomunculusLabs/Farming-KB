@@ -119,3 +119,8 @@ As sea levels rise and storm intensity increases under climate change, mangroves
 - **Global Mangrove Watch**: https://www.globalmangrovewatch.org
 
 *Last reviewed: 2026-04-28. Data and figures reflect best available peer-reviewed estimates at time of writing.*
+
+## See Also
+
+- [[decomposition]]
+- [[permaculture]]

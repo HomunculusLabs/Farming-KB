@@ -117,3 +117,7 @@ For **cob walls**, start with clay plaster — it is the default, the cheapest, 
 - **Ignoring roof overhangs**: No plaster, natural or otherwise, can withstand persistent direct rain exposure. Adequate roof overhangs (minimum 600 mm) are essential for any natural plaster system.
 - **Rushing lime curing**: Lime plaster needs consistent moisture during curing. Letting it dry too fast (from sun, wind, or freezing) produces a weak, crumbly surface that will not achieve full strength or water resistance.
 
+## See Also
+
+- [[cob-construction]]
+- [[rammed-earth]]

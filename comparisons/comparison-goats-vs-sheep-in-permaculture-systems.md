@@ -125,3 +125,9 @@ Sheep have a lower barrier to entry, particularly in fencing costs. However, goa
 ## Summary
 
 Goats and sheep are complementary rather than competing species in permaculture design. Goats are the **engineers** — they reshape vegetation structure, control invasives, and access forage that no other livestock can reach. Sheep are the **maintainers** — they improve and sustain productive grasslands with minimal infrastructure. The ideal permaculture livestock plan often includes both, managed in complementary rotations with separate mineral feeding systems. Start with the species that best matches your most pressing land management need, then add the other as your system matures.
+
+## See Also
+
+- [[homesteading]]
+- [[permaculture]]
+- [[permaculture-design]]

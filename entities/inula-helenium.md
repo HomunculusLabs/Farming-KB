@@ -144,3 +144,9 @@ at vegetable bed edges.
 - **Inula conyzae** — ploughman's-spikenard, dry woodland
 - **Inula dysenterica** — meadow fleabane, common European
 - **Inula royleana** — Himalayan species used in Ayurvedic medicine
+
+## See Also
+
+- [[candida-albicans]]
+- [[companion-planting]]
+- [[dom]]

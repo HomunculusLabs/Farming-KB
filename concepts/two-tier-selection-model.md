@@ -145,3 +145,9 @@ water as optimal explanatory factors (rho = 0.632).
   communities
 - [[Cultivar Specificity]] for genetic influences on plant-microbe
   interactions
+
+## See Also
+
+- [[decomposition]]
+- [[pseudomonas]]
+- [[rhizosphere-ecology]]

@@ -145,5 +145,9 @@ continuous psychedelic traditions in human history, unbroken from pre-Columbian 
 | **LSD** | Chemically distinct (ergoline); shares 5-HT₂A mechanism; orders of magnitude more potent |
 ## See Also
 
+- [[arthur-heffter]]
+- [[echinopsis-pachanoi]]
+- [[lophophora-williamsii]]
+
 - [[Phenethylamines]] · [[5-HT2A Receptor]] · [[Native American Church]]
 - [[Peyote]] · [[San Pedro Cactus]] · [[Hallucinogen Persisting Perception Disorder]]

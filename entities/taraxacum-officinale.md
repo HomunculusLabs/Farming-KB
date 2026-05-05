@@ -136,6 +136,10 @@ ecologically damaging invasive in most jurisdictions.
 
 ## See Also
 
+- [[echinacea-purpurea]]
+- [[jerusalem-artichoke]]
+- [[matricaria-chamomilla]]
+
 - [[Plantago major]] — broadleaf plantain, ubiquitous medicinal
   weed with overlapping wound-healing uses.
 - [[Urtica dioica]] — stinging nettle, nutrient-dense perennial

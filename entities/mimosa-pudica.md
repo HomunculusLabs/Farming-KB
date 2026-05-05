@@ -140,3 +140,4 @@ Key bioactive compounds identified in *Mimosa pudica*:
 - [[mimosa-tenuiflora]] — Related psychoactive Mimosa species used for DMT extraction
 - [[acacia-mearnsii]] — Another nitrogen-fixing permaculture species
 - [[tagetes-lucida]] — Companion planting herb with bioactive properties
+- [[mimosa-tenuiflora-entity]]

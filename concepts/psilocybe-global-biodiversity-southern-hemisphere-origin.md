@@ -127,3 +127,5 @@ Among [[Psilocybe]], the bluing species are concentrated in Sections Aztecorum, 
 ## See Also
 
 - [[psilocybe-southern-hemisphere-origin-hypothesis]]
+- [[amanita-muscaria]]
+- [[copelandia-cyanescens]]

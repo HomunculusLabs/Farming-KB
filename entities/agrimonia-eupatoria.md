@@ -148,3 +148,9 @@ approves use for mild, nonspecific diarrhea. May potentiate
 anticoagulant drugs due to coumarin content. Avoid in Rosaceae
 allergy. Large tannin doses may cause GI irritation with prolonged
 use. Not recommended during pregnancy.
+
+## See Also
+
+- [[dom]]
+- [[herbal-medicine]]
+- [[permaculture]]

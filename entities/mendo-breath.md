@@ -151,3 +151,9 @@ euphoria that gradually yields to profound body relaxation. Peak effects at
   undertones. Grinding releases a more pungent, skunky quality.
 - **Flavor**: Smooth, sweet smoke with prominent caramel and berry notes on
   inhalation. Exhale reveals earthy, woody, and slightly minty undertones.
+
+## See Also
+
+- [[botrytis-cinerea]]
+- [[dom]]
+- [[girl-scout-cookies]]

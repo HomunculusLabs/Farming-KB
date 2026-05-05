@@ -166,3 +166,9 @@ The most practical approach for many farms combines both systems:
 - Adequate water for establishment period
 - Willingness to use temporary fencing during establishment
 - Property boundaries and windbreak locations (where permanence is an asset)
+
+## See Also
+
+- [[agroforestry]]
+- [[bill-mollison]]
+- [[caragana-arborescens]]

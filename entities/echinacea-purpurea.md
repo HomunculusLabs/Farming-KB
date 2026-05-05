@@ -148,3 +148,8 @@ the best-studied commercial preparation.
   ladies), native bees; blooms during mid-summer nectar dearth
 - **Companion planting**: Deep taproot breaks compacted soil, mines nutrients;
   attracts predatory insects for pest management
+
+## See Also
+
+- [[companion-planting]]
+- [[permaculture]]

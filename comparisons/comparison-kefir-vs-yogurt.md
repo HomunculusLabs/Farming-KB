@@ -119,3 +119,7 @@ Both fermented milks produce valuable byproducts:
 Yogurt maintains quality for 2–4 weeks refrigerated. The fermentation is arrested by cold, so texture and flavor remain stable.
 
 Live kefir continues fermenting slowly in the refrigerator, becoming progressively tarter and more carbonated over time. For best quality, consume within 1–2 weeks. Kefir can be "double-fermented" — after straining the grains, let the liquid sit at room temperature for another 12–24 hours for increased carbonation and tartness.
+
+## See Also
+
+- [[lactobacillus]]

@@ -138,3 +138,9 @@ water and sewage lines would not be needed, and the problem of pollution
 - [[Mu Economics and the Economics of Natural Farming]]
 - [[Creating True People on the Do-Nothing Road]]
 - [[Decentralized Self-Sufficient Communities]]
+
+## See Also
+
+- [[homesteading]]
+- [[masanobu-fukuoka]]
+- [[natural-farming]]

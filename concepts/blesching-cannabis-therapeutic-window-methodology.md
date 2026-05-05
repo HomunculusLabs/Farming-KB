@@ -131,3 +131,4 @@ to different strain-dose combinations in a medication journal.
 - [[blesching-cannabis-four-prime-cannabinoids]]
 - [[blesching-cannabis-forms-and-preparations]]
 - [[blesching-cannabis-addiction-dependence]]
+- [[blesching-cannabis-chi-score-methodology]]

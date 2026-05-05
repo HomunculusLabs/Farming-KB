@@ -133,3 +133,4 @@ Hexanoic acid is also a documented **priming agent** for plant defense — it ac
 - [[cannabis-flavonoids]] for non-terpene aromatic compounds
 - [[cannabis-lighting-guide]] for how light affects terpene production
 - raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
+- [[terpinolene]]

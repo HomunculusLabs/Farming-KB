@@ -122,3 +122,9 @@ Beyond fruit production, both trees serve multiple functions in a permaculture d
 ---
 
 *Both figs and mulberries are among the most rewarding fruit trees a permaculturist can plant. The ideal approach in most temperate climates is to include both — letting mulberries dominate the canopy and figs fill warmer niches below. Together, they deliver months of fruit, minimal maintenance, and enormous ecological value.*
+
+## See Also
+
+- [[eric-toensmeier]]
+- [[ficus-carica]]
+- [[food-forest]]

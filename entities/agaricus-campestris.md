@@ -135,3 +135,4 @@ A. campestris has been collected as food for thousands of years across Europe an
 - [[marasmius-oreades]] — Fairy Ring Mushroom, shares grassland habitat
 - [[coprinus-comatus-detailed]] — Shaggy Mane, another common grassland species
 - [[lepiota-procera]] — Parasol Mushroom, sometimes in similar habitats
+- [[calvatia-gigantea]]

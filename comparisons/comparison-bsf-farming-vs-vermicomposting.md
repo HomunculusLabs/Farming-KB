@@ -119,3 +119,9 @@ Both methods integrate naturally into permaculture design. BSF bins placed near 
 ## Summary
 
 Neither system is objectively superior — they serve different functions. BSF excels at speed, protein production, and handling diverse feedstocks. Vermicomposting excels at producing the highest-quality castings, fitting into small spaces, and operating quietly indoors. For the regenerative homesteader, running both in sequence creates a remarkably efficient bioconversion pipeline that turns virtually all organic waste into valuable outputs.
+
+## See Also
+
+- [[composting]]
+- [[homesteading]]
+- [[permaculture]]

@@ -139,3 +139,9 @@ Bee balm is a versatile multi-functional plant in permaculture designs:
 - **Monarda citriodora** (Lemon Bergamot) — annual species with a distinct lemon scent; native to the southern US and Mexico
 - **Monarda punctata** (Spotted Beebalm) — yellow flowers with purple-spotted bracts; native to eastern and central North America
 - **Monarda media** (Purple Bergamot) — purple flowers; native to the Appalachian region, hybridizes with M. didyma
+
+## See Also
+
+- [[candida-albicans]]
+- [[companion-planting]]
+- [[dom]]

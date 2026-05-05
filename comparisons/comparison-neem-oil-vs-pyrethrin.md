@@ -140,3 +140,8 @@ Neem oil and pyrethrin can be used in a complementary strategy:
 ## Final Recommendation
 
 For most organic growers managing an integrated system, **neem oil should be the default first-line insecticide**. Its multi-mode action, low impact on beneficials, and built-in resistance management make it far more compatible with sustainable growing practices. **Reserve pyrethrin for true emergencies** — heavy pest outbreaks, pre-harvest rescue treatments, or situations where immediate knockdown is essential. Using pyrethrin as a tool of last resort rather than a routine spray preserves its efficacy, protects beneficial insect populations, and reduces environmental risk.
+
+## See Also
+
+- [[azadirachta-indica]]
+- [[fungal-spores]]

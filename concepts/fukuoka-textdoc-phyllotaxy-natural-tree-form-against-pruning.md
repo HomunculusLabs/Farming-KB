@@ -1,3 +1,12 @@
+---
+title: Fukuoka Textdoc Phyllotaxy Natural Tree Form Against Pruning
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [natural-farming, fukuoka]
+sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
+---
+
 1|---
      2|title: Phyllotaxy and Natural Tree Form Against Pruning
      3|tags: [pruning, tree-form, phyllotaxy, citrus, fruit-trees, natural-farming, fukuoka]

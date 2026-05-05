@@ -140,3 +140,4 @@ The fatty acid profile of the seed includes oleic acid, linoleic acid, and alpha
 - [[homestead-scale-assessment]]
 - [[geoff-hamilton-organic-techniques]]
 - [[luther-burbank-plant-breeding-methods]]
+- [[elaeagnus-angustifolia]]

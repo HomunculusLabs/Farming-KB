@@ -137,3 +137,9 @@ habitat loss and harvest pressure are recognized concerns.
   conspecific; similar chemistry and traditional use.
 - Commercial "muira puama" products are frequently adulterated; authentication
   by microscopy and HPLC is essential.
+
+## See Also
+
+- [[ginkgo-biloba]]
+- [[herbal-medicine]]
+- [[humulene]]

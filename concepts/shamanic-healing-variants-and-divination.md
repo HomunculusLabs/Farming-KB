@@ -1,3 +1,12 @@
+---
+title: Shamanic Healing Variants And Divination
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [psychedelics, ethnobotany, entheogens]
+sources: [raw/papers/metzner-syncretic-entheogenic-folk-ceremonies-community-ritual.md]
+---
+
      1|--- 2|title: Shamanic Healing Variants and Divination
      3|tags: [shamanism, healing, divination, entheogens, indigenous-knowledge]
      4|date: 2026-04-28 5|updated: 2026-04-28 6|sources:
@@ -120,7 +129,11 @@
    151|waking consciousness, rational consciousness as we call it, is but one special
    152|type of consciousness, whilst all about it, parted from it by the filmiest of
    153|screens, there lie potential forms of consciousness entirely different."
-   154| 155|## See Also 156|
+   154| 155|## See Also
+
+- [[amazonian-plant-teachers-doctores]]
+- [[iboga-and-the-bwiti-cult-initiation]]
+- [[metzner-shamanic-healing-divination-worldview]] 156|
    157|- [Iboga and the Bwiti Cult Initiation](iboga-and-the-bwiti-cult-initiation.md)
    158|- [Metzner Shamanic Healing Divination Worldview](metzner-shamanic-healing-divination-worldview.md)
    159|- [Metzner Spirit Beings Multiple Realities Entheogens](metzner-spirit-beings-multiple-realities-entheogens.md)

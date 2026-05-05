@@ -1,3 +1,12 @@
+---
+title: Mckenna Hyperspace And Human Freedom
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [psychedelics, ethnobotany, philosophy]
+sources: [raw/papers/food-of-the-gods-mckenna.md]
+---
+
      1|---
      2|title: Hyperspace and Human Freedom
      3|tags: [DMT, hyperspace, drug-policy, freedom, consciousness, McKenna, law, prohibition]

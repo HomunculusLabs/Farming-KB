@@ -167,3 +167,9 @@ wild-picked. The cubensis varieties that dominate the commercial market do not
 grow wild in Europe and are cultivated specifically in controlled environments,
 primarily in the Netherlands, because they are easy to grow in terrariums and
 possess characteristics suitable for commercial distribution.
+
+## See Also
+
+- [[amanita-muscaria]]
+- [[baeocystin]]
+- [[dimethyltryptamine]]

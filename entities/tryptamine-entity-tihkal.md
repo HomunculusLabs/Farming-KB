@@ -89,3 +89,4 @@ substances.
 - [[tryptamine-consciousness-theory]] — consciousness research
 - [[tryptophan-decarboxylase]] — biosynthetic enzyme
 - [[phenethylamine-tryptamine-comparison]] — cross-series comparison
+- [[tryptamine-hypercontinuum]]

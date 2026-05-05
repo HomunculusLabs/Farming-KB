@@ -156,3 +156,5 @@ Calendula officinalis is not considered threatened. Widely cultivated globally a
 - [[Urtica-dioica]] — Nettle, dynamic accumulator for permaculture systems
 - [[Achillea-millefolium]] — Yarrow, companion plant with similar ecological roles
 - [[Trifolium-repens]] — White clover, nitrogen-fixing ground cover for permaculture
+- [[filipendula-ulmaria]]
+- [[tropaeolum-majus]]

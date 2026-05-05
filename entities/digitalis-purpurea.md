@@ -145,5 +145,7 @@ it. The seeds are too small to be significant food for birds.
 
 ## See Also
 
+- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
+
 - strophanthus kombe · convallaria majalis · nerium oleander
 - aconitum · taxus baccata

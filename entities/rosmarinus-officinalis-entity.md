@@ -121,3 +121,4 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 - [[mentha-pulegium]]
 - [[ocimum-sanctum]]
 - [[permaculture]]
+- [[vitex-agnus-castus]]

@@ -137,3 +137,5 @@ The spectrum is continuous, not divided into rigid categories. The best approach
 ## See Also
 
 - [[comparison-wild-fermentation-vs-commercial-starter-culture]]
+- [[lactobacillus]]
+- [[lactobacillus-plantarum]]

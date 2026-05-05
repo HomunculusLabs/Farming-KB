@@ -148,3 +148,8 @@ viability.
 - ***Termitomyces microcarpus***: Small species (cap 2–5 cm), widespread in
   tropical Africa; often confused with *T. heimii* but distinguished by smaller
   spores and shorter pseudo-stipe.
+
+## See Also
+
+- [[roger-heim]]
+- [[spore-print]]

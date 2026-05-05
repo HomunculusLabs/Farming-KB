@@ -127,3 +127,4 @@ Schedule I substance under U.S. federal law.
 - [[gmo-cannabis]]
 - [[la-confidential]]
 - [[malawi-gold]]
+- [[trainwreck-cannabis]]

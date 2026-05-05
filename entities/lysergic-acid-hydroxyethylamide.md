@@ -131,3 +131,9 @@ countries) and structural similarity to controlled ergolines place it in a
 legal gray area. In the US, LSH itself is unscheduled but extraction from
 plant material may constitute manufacture of a controlled substance analogue
 under the Federal Analogue Act.
+
+## See Also
+
+- [[albert-hofmann]]
+- [[argyreia-nervosa]]
+- [[claviceps-purpurea]]

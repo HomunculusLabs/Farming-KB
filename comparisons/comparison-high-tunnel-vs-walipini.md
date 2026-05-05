@@ -178,3 +178,9 @@ or earth-bermed north wall captures meaningful thermal mass benefit without exca
 complexity. Alternatively, a walipini with high-light polycarbonate and active ventilation
 maximizes light while controlling humidity. A practical progression: start with a high tunnel,
 study your site for 2–3 seasons, then add a walipini as a purpose-built winter facility.
+
+## See Also
+
+- [[eliot-coleman]]
+- [[passive-solar-design]]
+- [[rammed-earth]]

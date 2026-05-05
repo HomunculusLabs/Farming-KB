@@ -130,6 +130,10 @@ imposed age restrictions or pharmacy-only requirements.
 
 ## See Also
 
+- [[ephedrine]]
+- [[methoxetamine]]
+- [[serotonin]]
+
 - [[Ketamine]] — related dissociative anesthetic with more potent
   NMDA antagonism and established rapid antidepressant use.
 - [[PCP]] — prototypical dissociative sharing DXM's NMDA binding

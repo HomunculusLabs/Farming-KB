@@ -177,3 +177,5 @@ circumtemperate species.
 - [Neurotropic Fungi Biogeographic Patterns](neurotropic-fungi-biogeographic-patterns.md)
 - [Southern Hemisphere Origin of Neurotropic Fungi](southern-hemisphere-origin-of-neurotropic-fungi.md)
 - [European Neurotropic Fungi](guzman-allen-gartz-neurotropic-fungi-europe.md)
+- [[baeocystin]]
+- [[fungal-biogeography]]

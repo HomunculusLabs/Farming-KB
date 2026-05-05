@@ -123,3 +123,4 @@ Extraction from plant material (notably [[entheogen-jurema-mimosa-hostilis-ethno
 - [[5-meo-dmt-compound-profile]] — more potent methoxy analogue
 - [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional Amazonian DMT preparation
 - [[serotonin]] — endogenous neurotransmitter whose receptors mediate DMT's effects
+- [[entada-rheedii]]

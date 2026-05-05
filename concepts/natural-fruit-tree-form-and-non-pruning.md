@@ -144,3 +144,9 @@ same goal without any help from man. The question of natural versus
 artificial form in fruit trees is directly analogous.
 See also: [[Natural Farming]], [[Orchard Management]],
 [[Do Nothing Farming]]
+
+## See Also
+
+- [[do-nothing-farming]]
+- [[masanobu-fukuoka]]
+- [[natural-farming]]

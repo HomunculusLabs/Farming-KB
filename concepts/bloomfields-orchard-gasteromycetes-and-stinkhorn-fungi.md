@@ -168,3 +168,7 @@ wheeled, the dew of heaven was beading on a mushroom.
 - [[Fungal Biology and Ecology]]
 - [[Mushroom Hunting and Identification]]
 - [[Fungal Pathogens and Human Disease]]
+
+## See Also
+
+- [[mushroom-hunting-and-identification]]

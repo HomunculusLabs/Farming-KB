@@ -148,3 +148,9 @@ The Clavicipitalean neurotropic fungi remain incompletely studied in several res
 2. **Claviceps species diversity**: The genus contains many species beyond those documented by Guzmán, Allen, and Gartz that may produce psychoactive alkaloids
 3. **Geographic variation**: Ergot alkaloid profiles vary significantly between geographic strains of the same Claviceps species; systematic surveys of this variation are lacking
 4. **Ecological roles**: The evolutionary reasons why these fungi produce psychoactive compounds remain debated, with hypotheses ranging from insect deterrence to plant signaling
+
+## See Also
+
+- [[albert-hofmann]]
+- [[claviceps-paspali]]
+- [[claviceps-purpurea]]

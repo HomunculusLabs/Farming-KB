@@ -180,3 +180,5 @@ Control methods include manual removal (digging out taproots), grazing managemen
 - [[Pimpinella anisum]] (anise — similar flavor profile)
 - [[Ocimum basilicum]] (basil — companion herb)
 - [[Companion planting]] (permaculture technique)
+- [[aspergillus-niger]]
+- [[beneficial-insect-habitat]]

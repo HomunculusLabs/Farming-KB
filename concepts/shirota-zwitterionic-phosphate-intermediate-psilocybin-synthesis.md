@@ -1,3 +1,12 @@
+---
+title: Shirota Zwitterionic Phosphate Intermediate Psilocybin Synthesis
+created: 2026-05-05
+updated: 2026-05-05
+type: concept
+tags: [mycology, chemistry, research]
+sources: [raw/papers/psilocybin-synthesis-shirota.md]
+---
+
      1|---
      2|title: Zwitterionic Phosphate Intermediate in Psilocybin Synthesis
      3|tags:

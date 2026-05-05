@@ -84,3 +84,7 @@ A related group called **aero-aquatic fungi** specializes in leaf decomposition 
 ## Terence Ingold
 
 Cecil Terence Ingold was a British mycologist who spent most of his career at Birkbeck College, London, and later at the University of Cambridge. He retired to Benson, Oxfordshire, where he continued research in a small home study using equipment sent by former colleagues. He published well into his nineties and named a new yeast species, *Bensingtonia ciliata*, after his adopted village. Ingold's work influenced generations of mycologists, including Nicholas P. Money, the author of *Mr. Bloomfield's Orchard*, who grew up as Ingold's neighbor without knowing of his prominence until embarking on his own mycological career.
+
+## See Also
+
+- [[decomposition]]

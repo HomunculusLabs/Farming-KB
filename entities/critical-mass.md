@@ -141,6 +141,8 @@ sources: ["domain-knowledge"]
 
 ## See Also
 
+- [[growing-gourmet-spore-mass-inoculation-techniques]]
+
 - [[og-kush]] — Indica-dominant hybrid with similar medicinal applications
 - [[skunk-1]] — Parent strain contributing vigor and skunky aroma
 - [[northern-lights]] — Pure indica with comparable relaxing effects

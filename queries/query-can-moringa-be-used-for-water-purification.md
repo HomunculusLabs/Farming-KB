@@ -152,3 +152,8 @@ The seed kernel contains the active protein. The seed coat and husk do **not** c
 ## Summary
 
 Moringa seeds are a scientifically validated, low-cost coagulant suitable for reducing turbidity and bacteria in water. They are most valuable as a **sustainable, locally sourced pre-treatment** in emergency and resource-limited settings. However, they should not be relied upon as the sole treatment for water contaminated with chemicals, viruses, or high levels of pathogens. For complete water safety, pair moringa coagulation with a secondary disinfection method such as boiling or chlorination.
+
+## See Also
+
+- [[heavy-metal-biosorption]]
+- [[moringa-oleifera]]

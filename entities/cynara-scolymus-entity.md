@@ -138,6 +138,8 @@ expression, contributing to anti-inflammatory effects.
 | Potassium | 370 mg | 8% |
 | Iron | 1.3 mg | 7% |
 ## See Also
+
+- [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[silybum-marianum]]
 - Cynara cardunculus (cardoon)
 - [[echinacea-purpurea]]

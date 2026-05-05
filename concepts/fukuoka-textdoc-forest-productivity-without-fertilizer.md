@@ -122,3 +122,9 @@ This is why no-fertilizer natural farming requires healthy soil as a preconditio
 The mountain forest demonstrates that sustained high productivity is entirely compatible with zero external inputs — provided the biological systems that build and maintain soil fertility are allowed to function. The challenge for agriculture is not to find better fertilizers but to stop destroying the natural fertility systems that already exist.
 
 This insight forms the foundation of Fukuoka's no-fertilizer principle — a philosophy explored in [[topics/fukuoka-natural-farming-philosophy|Fukuoka's natural farming philosophy]] and contrasted with other approaches in [[comparisons/comparison-fukuoka-vs-holzer|Fukuoka vs. Holzer]]: rather than asking "what fertilizer should I apply?", the farmer should ask "what am I doing that prevents the soil from feeding the plants itself?"
+
+## See Also
+
+- [[decomposition]]
+- [[green-manure-crops]]
+- [[natural-farming]]

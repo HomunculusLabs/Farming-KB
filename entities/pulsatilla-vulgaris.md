@@ -132,5 +132,7 @@ Requires excellent drainage, full sun, and alkaline soil.
 
 ## See Also
 
+- [[herbal-medicine]]
+
 - clematis
 - ranunculus

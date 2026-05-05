@@ -111,3 +111,4 @@ The biennial cultivation concept also bridges the gap between natural farming ph
 - [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
 - [[fukuoka-textdoc-one-thing-is-all-things-holism]]
 - [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
+- [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]]

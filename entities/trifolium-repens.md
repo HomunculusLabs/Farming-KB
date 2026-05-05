@@ -16,7 +16,6 @@ sources:
   - Sweets, L. (2021). "White clover (Trifolium repens): A review of its uses, benefits, and management." Permaculture Research Institute.
   - National Institute of Health. (2020). "Isoflavones in red and white clover: A review of their pharmacological properties."
 ---
-
 # Trifolium repens
 
 ## Common Names
@@ -67,17 +66,14 @@ White Clover, Dutch Clover, Ladino Clover, Honeysuckle Clover, Shamrock (erroneo
 ### Nitrogen Fixation
 
 White clover forms a symbiotic relationship with *Rhizobium trifolii* bacteria, which inhabit root nodules and fix atmospheric nitrogen (N₂) into ammonium (NH₄⁺) through the nitrogenase enzyme. This biological nitrogen fixation can contribute:
-
 - **100–200 kg N/ha/year** in productive pasture systems
 - **40–80 kg N/ha/year** in lawn and ground cover applications
 - Significant reduction or elimination of synthetic nitrogen fertilizer needs
-
 The fixed nitrogen is shared with neighboring plants through root exudation, decomposition of clover biomass, and mycorrhizal networks.
 
 ### Pollinator Support
 
 White clover is an exceptional nectar and pollen source:
-
 - **Honey bees**: Major nectar source; clover honey is one of the most common honey varieties worldwide
 - **Bumble bees**: Primary pollinator; long-tongued bumble bee species (*Bombus* spp.) are especially effective
 - **Other pollinators**: Supports solitary bees, butterflies, and hoverflies
@@ -127,7 +123,6 @@ White clover is considered one of the most versatile and essential plants in per
 ### Traditional Uses
 
 White clover has a long history of use in European folk medicine:
-
 - **Respiratory ailments**: Tea from dried flowers used for coughs, bronchitis, and whooping cough
 - **Skin conditions**: Poultices applied to wounds, ulcers, and inflammatory skin conditions
 - **Detoxification**: Traditional blood cleanser and spring tonic
@@ -136,7 +131,6 @@ White clover has a long history of use in European folk medicine:
 ### Phytochemistry
 
 Key bioactive compounds include:
-
 - **Isoflavones**: Genistein, daidzein, formononetin, and biochanin A — phytoestrogens with selective estrogen receptor modulating activity
 - **Flavonoids**: Quercetin, kaempferol, and their glycosides — antioxidant and anti-inflammatory
 - **Coumarins**: Trace amounts; anticoagulant properties
@@ -176,7 +170,6 @@ Key bioactive compounds include:
 ## Culinary Uses
 
 All parts of white clover are edible:
-
 - **Flowers**: Sweet, slightly vanilla-flavored; eaten raw in salads, candied as decoration, or brewed into tea
 - **Leaves**: Mild, slightly bean-like flavor; eaten raw or cooked; dried for tea blends
 - **Sprouts**: Seeds can be sprouted like alfalfa
@@ -194,6 +187,9 @@ All parts of white clover are edible:
 
 ## See Also
 
+- [[companion-planting]]
+- [[composting]]
+- [[cover-crops]]
 - [[Trifolium pratense]] — Red Clover, related medicinal legume
 - [[Medicago sativa]] — Alfalfa, another important forage legume
 - [[Nitrogen Fixation]] — Biological nitrogen fixation process

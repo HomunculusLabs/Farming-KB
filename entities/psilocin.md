@@ -142,6 +142,10 @@ psilocybin). UN Convention Schedule I. Recent changes: Oregon
 
 ## See Also
 
+- [[albert-hofmann]]
+- [[baeocystin]]
+- [[dimethyltryptamine]]
+
 - [[Psilocybin]] — the phosphorylated prodrug form of psilocin.
 - [[Baeocystin]] — minor psilocybin mushroom alkaloid (4-PO-NMT).
 - [[4-AcO-DMT]] — psilacetin, a synthetic psilocin prodrug.

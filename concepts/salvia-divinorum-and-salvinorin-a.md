@@ -133,3 +133,4 @@ Salvia divinorum substitute might be triggered by scheduling.
 - Roth, B.L. et al. (2002). Proc Natl Acad Sci USA, 99, 11934-11939.
 - Siebert, D. (1994). J Ethnopharmacol, 43, 53-56.
 - Valdes, L.J. et al. (1983). J Ethnopharmacol, 7, 287-312.
+- [[salvia-apiana]]

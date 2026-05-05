@@ -192,3 +192,9 @@ Combining Trichoderma and Bacillus is often more effective than either alone:
 **Bacillus** is the Swiss Army knife — a tough, versatile generalist that works across environments, survives almost anything, provides broad-spectrum protection (fungal + bacterial), and promotes plant growth through multiple mechanisms. Its endospore biology makes it the **reliable workhorse** of biological agriculture.
 
 **Together**, they are synergistic and complementary — the combination provides broader-spectrum protection, more robust soil colonization, and greater resilience than either agent alone.
+
+## See Also
+
+- [[pseudomonas]]
+- [[root-exudates]]
+- [[trichoderma]]

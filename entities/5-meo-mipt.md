@@ -126,3 +126,4 @@ legal status varies significantly by jurisdiction.
 - [[psilocin]]
 - [[tryptamine]]
 - tihkal
+- [[miprocin]]

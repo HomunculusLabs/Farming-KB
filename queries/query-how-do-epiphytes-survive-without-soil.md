@@ -169,3 +169,7 @@ Many epiphyte species are now **critically endangered** due to these combined pr
 - **Bromeliads (tank types)**: Keep the tank filled with water; flush and refill weekly to prevent stagnation; use rain or filtered water (hard water causes mineral buildup).
 - **Staghorn ferns**: Mount on wood or bark; mist frequently; place banana peels or organic matter behind the shield frond for nutrients.
 - **Key principle**: Epiphytes evolved for airflow, intermittent moisture, and nutrient scarcity. Overwatering and overfertilizing are the most common causes of death in cultivation.
+
+## See Also
+
+- [[mycorrhiza]]

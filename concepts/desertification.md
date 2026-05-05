@@ -146,3 +146,7 @@ regarding the climate impact of methane from ruminants, his approach has
 produced documented improvements in vegetation cover and soil health on
 ranches across Africa, Australia, and the
 Americas.
+
+## See Also
+
+- [[cistanche-tubulosa]]

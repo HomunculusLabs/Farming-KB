@@ -107,3 +107,27 @@ mg), never redosing, having a sober companion present, and preparing for an expe
 hours.
 
 Related: [[psychedelic-drug-testing-and-adulterant-screening]]
+
+## See Also
+
+- [[polygonum-multiflorum]]
+- [[scleroderma-citrinum]]
+- [[inula-helenium]]
+- [[epimedium-sagittatum]]
+- [[theobromine]]
+- [[gymnema-sylvestre]]
+- [[arthrospira-platensis]]
+- [[mendo-breath]]
+- [[agrimonia-eupatoria]]
+- [[monarda-didyma]]
+- [[nasturtium-officinale]]
+- [[punica-granatum]]
+- [[chlorophyllum-molybdites]]
+- [[morinda-citrifolia]]
+- [[coprinellus-micaceus]]
+- [[arctostaphylos-uva-ursi]]
+- [[coptis-chinensis]]
+- [[thuja-occidentalis]]
+- [[cistanche-tubulosa]]
+- [[swertia-chirata]]
+- [[ethylone]]

@@ -129,3 +129,4 @@ Under good conditions, expect approximately:
 ## Related
 - [[gotu-kola-growing-guide]]
 - [[echinacea-purpurea]]
+- [[echinacea-angustifolia]]

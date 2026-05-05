@@ -119,3 +119,9 @@ Natural (-)-α-bisabolol is primarily extracted by steam distillation of candeia
 ## Relevance
 
 α-Bisabolol represents one of the best-characterized terpenes in terms of clinical dermatological application. Its dual role as a therapeutic agent and formulation enhancer (permeation promoter, solubilizer) makes it valuable across cosmetics, pharmaceuticals, and cannabis topicals. As sustainability concerns drive demand for biotechnologically produced terpenes, α-bisabolol serves as a model compound for industrial-scale sesquiterpene fermentation. In the context of cannabis science, it exemplifies how minor terpenes can contribute meaningfully to the entourage effect, particularly in CBD-dominant and topical product categories.
+
+## See Also
+
+- [[candida-albicans]]
+- [[cannabis-sativa]]
+- [[matricaria-chamomilla]]

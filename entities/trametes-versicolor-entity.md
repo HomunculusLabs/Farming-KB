@@ -145,3 +145,5 @@ The most important feature is the **concentrically zoned cap** with multiple col
 - [[ganoderma-lucidum]] — Reishi — polypore medicinal mushroom with complementary immunomodulatory properties
 - [[grifola-frondosa]] — Maitake — polypore with similar immunomodulatory glucans
 - [[coriolus-versicolor]] — Historical taxonomic synonym
+- [[trametes-sanguinea]]
+- [[trametes-trogii]]

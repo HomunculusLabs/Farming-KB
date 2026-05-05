@@ -152,3 +152,5 @@ A greenhouse is the ideal middle-ground for cold-climate avocado production:
 ## See Also
 
 - [[query-how-do-i-grow-figs-in-cold-climates]]
+- [[greenhouse-growing]]
+- [[permaculture]]

@@ -147,3 +147,7 @@ The goal of farming is "to produce plentiful harvest by bringing out the full fo
 Farming is not centered on income or on man; "at its core are natural fields that transcend man. The fields of nature are the representatives of nature; they are God."
 
 When a natural farmer has no use for chemical farming materials and does not reckon household labor into expenses, "his production costs are zero." Prices are a man-made device that do not exist in nature, and the true value of food cannot be measured in monetary terms. Mu economics, founded on cosmic nothingness, represents the only economic framework compatible with natural farming and with nature itself.
+
+## See Also
+
+- [[natural-farming]]

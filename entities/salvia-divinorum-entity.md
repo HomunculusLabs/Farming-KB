@@ -135,6 +135,10 @@ Wild populations are limited to a small area of the Sierra Mazateca in Oaxaca, M
 
 ## See Also
 
+- [[gordon-wasson]]
+- [[mazatec-people]]
+- [[psilocybin]]
+
 - [[Psilocybin]] — classical serotonergic psychedelic for pharmacological comparison
 - [[DMT]] — potent short-acting tryptamine psychedelic
 - [[Kappa-Opioid-Receptor]] — pharmacological target of salvinorin A

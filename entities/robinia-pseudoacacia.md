@@ -148,3 +148,5 @@ Management: root barriers, regular coppicing, avoid near natural areas.
 - **R. hispida (bristly locust):** Ornamental, erosion control use.
 - **Gleditsia triacanthos (honey locust):** Unrelated N-fixing legume
   with edible pods, distinct wood.
+- [[broussonetia-papyrifera]]
+- [[miscanthus-sinensis]]

@@ -118,3 +118,4 @@ Mineral content (mg/100 g dry weight): potassium 800–1200, phosphorus 400–60
 - [[stropharia-rugosoannulata]] — Wine cap mushroom, another permaculture-relevant cultivated species
 - [[pleurotus-djamor]] — Pink oyster mushroom, tropical relative with similar substrate preferences
 - [[coprinus-comatus]] — Shaggy mane, another fungus with unique ecological strategies
+- [[pleurotus-columbinus]]

@@ -136,6 +136,10 @@ psychoactive fungi in Mediterranean Europe.
 
 ## See Also
 
+- [[baeocystin]]
+- [[medicinal-mushrooms]]
+- [[mycorrhiza]]
+
 - [[Psilocybe semilanceata]]
 - [[Psilocybe hispanica]]
 - [[Psilocybe subaeruginosa]]

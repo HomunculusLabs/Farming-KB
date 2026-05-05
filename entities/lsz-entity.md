@@ -142,6 +142,10 @@ or specific bans.
 
 ## See Also
 
+- [[albert-hofmann]]
+- [[serotonin]]
+- [[set-and-setting]]
+
 - LSD (D-lysergic acid diethylamide)
 - AL-LAD (6-allyl-6-nor-LSD)
 - ETH-LAD (6-ethyl-6-nor-LSD)

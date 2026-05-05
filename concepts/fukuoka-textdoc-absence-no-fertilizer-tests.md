@@ -124,3 +124,9 @@ Fukuoka's own farm serves as a kind of long-term experiment, though one that doe
 A soil scientist who examined his fields reportedly said: "A study can look at the changes that arise with no-tillage farming, but it can't be used to judge the merit of no-tillage farming based on conventional ideas." This admission reveals the limits of conventional frameworks for evaluating fundamentally different approaches to agriculture.
 
 The ultimate test, as Fukuoka frames it, is not laboratory results but the harvest: whether rice yields decline or increase when no-tillage, no-fertilizer farming is continued over many years. By this practical standard, natural farming has already proven its case.
+
+## See Also
+
+- [[mycorrhiza]]
+- [[mycorrhizal-networks]]
+- [[natural-farming]]

@@ -143,3 +143,4 @@ daily for most adults).
 - [[schisandra-chinensis]]
 - [[permaculture]]
 - [[food-forest]]
+- [[picrorhiza-kurroa]]

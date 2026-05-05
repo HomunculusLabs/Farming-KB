@@ -151,3 +151,8 @@ GRAS status at doses up to 8 g/day. Key concerns:
 - **Phenylketonuria (PKU)**: Contains phenylalanine.
 - **Autoimmune conditions**: Immunostimulatory effects warrant caution.
 - **Anticoagulant interaction**: High doses may enhance bleeding risk.
+
+## See Also
+
+- [[dom]]
+- [[permaculture]]

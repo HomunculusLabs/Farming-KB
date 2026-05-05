@@ -136,3 +136,9 @@ biomass and environmental pollutants including PAHs and PCBs.
   thinner flesh.
 - **Fomitopsis betulina:** Birch polypore, larger, brown pore surface;
   medicinal with different compound profile.
+- [[irpex-lacteus]]
+
+## See Also
+
+- [[agroforestry]]
+- [[biological-efficiency]]

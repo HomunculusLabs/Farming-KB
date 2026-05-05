@@ -135,3 +135,9 @@ No formal conservation assessment has been published. The species appears
 locally abundant within suitable habitat and is not considered threatened.
 However, like many forest fungi, it may be sensitive to habitat fragmentation
 and changes in forest moisture regimes associated with climate change.
+
+## See Also
+
+- [[decomposition]]
+- [[mycena-chlorophos]]
+- [[psilocybin]]

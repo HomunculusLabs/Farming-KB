@@ -141,6 +141,10 @@ studies:
 
 ## See Also
 
+- [[blue-dream]]
+- [[cannabis-sativa]]
+- [[cymbopogon-citratus]]
+
 - [[Cannabis sativa]]
 - [[OG Kush]]
 - [[Granddaddy Purple]]

@@ -141,3 +141,9 @@ Fungal dyes vary significantly in their permanence:
 To maximize longevity, always mordant properly, rinse dyed fiber in cool water with a pH-neutral soap, and store finished textiles away from direct sunlight. Test lightfastness by taping a small swatch to a sunny window for two weeks and comparing the exposed and covered portions.
 
 Mushroom dyeing is a rewarding intersection of mycology and fiber arts. Start simple, keep good records of your recipes and results, and let curiosity guide you through one of nature's most surprising color palettes.
+
+## See Also
+
+- [[agricultural-waste-substrates]]
+- [[fungal-spores]]
+- [[hydnellum-peckii]]

@@ -111,6 +111,10 @@ He acknowledged that those without experience of this mode of perception would f
 
 ## See Also
 
+- [[clay-pellet-seed-broadcasting]]
+- [[critique-of-scientific-agriculture]]
+- [[decomposition]]
+
 - [[Four Principles of Natural Farming]]
 - [[Masanobu Fukuoka]]
 - [[Clay Pellet Seed Broadcasting]]

@@ -85,3 +85,5 @@ From 5-methoxyindole via oxalyl chloride to the glyoxylamide (mp 245-247 C, 55% 
 - [[tryptamine-entity-tihkal]] -- the parent compound; entry #53
 - [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; classic psychedelic
 - [[harmaline-entity-tihkal]] -- beta-carboline relevant to melatonin's tryptamine chemistry
+- [[eschscholzia-californica]]
+- [[portulaca-oleracea]]

@@ -151,3 +151,9 @@ Golden Teacher occupies a unique position in modern psychedelic culture:
 - The strain features prominently in the documentary *Fantastic Fungi* (2019) and in Michael Pollan's *How to Change Your Mind* (2018)
 - Golden Teacher spores are among the most widely available, sold by dozens of spore vendors for microscopy purposes
 - The strain's consistent, forgiving nature has made it the workhorse of the underground mycology movement
+
+## See Also
+
+- [[baeocystin]]
+- [[biological-efficiency]]
+- [[fruiting-initiation]]

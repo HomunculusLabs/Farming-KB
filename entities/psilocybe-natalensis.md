@@ -141,3 +141,9 @@ Spores germinate readily on MEA/PDA agar, often visible within 48–72 hours at 
 - [[Psilocybe azurescens]] — Pacific Northwest species, highest known psilocybin content
 - [[Psilocybe semilanceata]] — Liberty Cap, cosmopolitan temperate species
 - [[Psilocybe mexicana]] — Original "teonanacatl" from Central Mexico
+
+## See Also
+
+- [[baeocystin]]
+- [[biological-efficiency]]
+- [[mystical-experience]]
