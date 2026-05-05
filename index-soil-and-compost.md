@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**389 pages**
+**388 pages**
 
 ## A
 
@@ -446,7 +446,6 @@
 
 - [[vegetable-weed-control-and-mulching]]
 - [[vermicompost-tea]]
-- [[vermicomposting]]
 - [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
 
 ## W

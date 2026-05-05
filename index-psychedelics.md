@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1188 pages**
+**1198 pages**
 
 ## #
 
@@ -112,6 +112,7 @@
 - [[bicycle-day-april-1943]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
 - [[bis-tom-pihkal-entry-12]]
+- [[blesching-cannabis-deep-relaxation-healing]]
 - [[blesching-cannabis-endocannabinoid-mind-body]]
 - [[blesching-cannabis-mind-body-medicine]]
 - [[blesching-cannabis-stds-mind-body]]
@@ -284,6 +285,7 @@
 - [[fukuoka-textdoc-decline-quality-food]]
 - [[fukuoka-textdoc-desert-rainfall-vegetation-cycle-nature-dissected]]
 - [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
+- [[fukuoka-textdoc-diet-of-the-sick-returning-nature]]
 - [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
 - [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]
 - [[fukuoka-textdoc-duck-carp-rice-paddy-polyculture]]
@@ -373,6 +375,8 @@
 - [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
 - [[fukuoka-textdoc-paddy-ecosystem-spider-frog-dragonfly-balance]]
 - [[fukuoka-textdoc-paddy-levee-construction-water-management]]
+- [[fukuoka-textdoc-paddy-levee-construction-water-management-wisdom]]
+- [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]]
 - [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]
@@ -383,6 +387,7 @@
 - [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
 - [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]]
 - [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
+- [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
 - [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
@@ -391,6 +396,7 @@
 - [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
+- [[fukuoka-textdoc-scale-insect-biological-control-case-studies]]
 - [[fukuoka-textdoc-scientific-farming-energy-paradox]]
 - [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
@@ -522,6 +528,7 @@
 - [[holzer-livestock-integration]]
 - [[holzer-livestock-integration-pigs-cattle]]
 - [[holzer-pig-integration]]
+- [[hplc-analysis-of-tryptamine-alkaloids]]
 - [[huichol-peyote-tradition]]
 
 ## I
@@ -975,6 +982,7 @@
 - [[psilocybin-large-scale-production]]
 - [[psilocybin-liquid-culture]]
 - [[psilocybin-methyl-alcohol-extraction-technique]]
+- [[psilocybin-miniculture-rye-grain-method-bigwood-beug]]
 - [[psilocybin-mystical-experiences-personality-change]]
 - [[psilocybin-neuroplasticity]]
 - [[psilocybin-neuroscience]]
@@ -1000,6 +1008,7 @@
 - [[psilocybin-therapy]]
 - [[psilocybin-tolerance-cross-tolerance]]
 - [[psilocybin-toxicity-and-safety-profile]]
+- [[psilocybin-variation-across-flushes]]
 - [[psilocybin-vs-other-psychedelics]]
 - [[psilocybin-waking-dreams-and-serotonergic-neurochemistry]]
 - [[psychedelic-1960s-counterculture]]
@@ -1122,6 +1131,7 @@
 - [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
 - [[shipibo-icaros-healing-songs]]
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+- [[shirota-psilocin-psilocybin-synthesis]]
 - [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
 - [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
 - [[shroom-counterculture]]
