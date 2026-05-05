@@ -2,116 +2,148 @@
 title: Mescaline
 type: chemical
 tags:
-  - phenethylamine
-  - psychedelic
-  - cactus
-  - classical-psychedelic
-  - entheogen
+  - psychedelic-compounds
+  - phenethylamines
+  - entheogens
+  - alkaloids
+  - plant-medicine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/shulgin-a-pihkal.md
+  - title: "Mescaline: Chemistry and Pharmacology"
+    url: https://doi.org/10.1016/j.phymed.2020.153338
+    ref: Torres & Repke (2006)
+  - title: "PiHKAL: A Chemical Love Story"
+    url: https://www.erowid.org/library/books_online/pihkal/pihkal.shtml
+    ref: Shulgin & Shulgin (1991)
+  - title: "UN Convention on Psychotropic Substances, 1971"
+    url: https://www.unodc.org/unodc/en/treaties/psychotropic-substances.html
+  - title: "5-HT2A Receptor Agonism and Psychedelic Mechanisms"
+    url: https://doi.org/10.1016/j.neuron.2020.01.015
+    ref: Martin & Nichols, Cell (2020)
+  - title: "Native American Church and Peyote Use"
+    url: https://doi.org/10.1007/s11013-010-9194-6
+    ref: Calabrese, Culture Medicine and Psychiatry (2010)
+  - title: "Hallucinogen Persisting Perception Disorder"
+    url: https://doi.org/10.1007/s00213-019-05367-4
+    ref: Halpern et al., Psychopharmacology (2020)
 ---
 
 # Mescaline
 
-Mescaline (3,4,5-trimetholophophora-williamsiia naturally oechinopsis-pachanoic phenethylamine and one of the oldest
-known psychoactive substances in human history. It is the primary psychoactive alkaloid fpsilocybinveral species of
-cactus, most notably *[[lophophora-williamsii]]* (peyote), *[[echinopsis-pachanoi]]* (San Pedro), and *Echinopsis peruviana*
-(Peruvian torch). Mescaline is one of the four classical psychedelics, alongside LSD, psilocybin, and DMT.
+Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring protoalkaloid of the
+phenethylamine class and one of the oldest known psychedelic substances. It is the primary
+psychoactive compound in several columnar cacti indigenous to the Americas.
 
-## Chemical Properties
+## Chemical Identity
 
-Mescaline has the molecular formula C₁₁H₁₇NO₃ and a molecular weight of 211.26 g/mol. The molecule is a
-phenethylamine with three methoxy groups at positions 3, 4, and 5 of the benzene ring — the 3,4,5-trimethoxy
-substitution pattern. This trimethoxylation is the structural template from which [[alexander-shulgin]] derived the
-entire 2C family (by removing one methoxy group and varying the 4-position substituent). Mescaline occurs as white
-crystalline needles with a slightly bitter taste. It is soluble in water and alcohol. The hydrochloride salt is the
-most common pharmaceutical form. Thserotonin effective dose is 200–400 mg orally, making mescaline the least potent
-of the classical psychedelics by weight — roughly 1/300th the potency of LSD.
+| Property | Value |
+|----------|-------|
+| **IUPAC Name** | 3,4,5-trimethoxyphenethylamine |
+| **Molecular Formula** | C₁₁H₁₇NO₃ |
+| **Molar Mass** | 211.26 g/mol |
+| **CAS Number** | 54-04-6 |
+| **SMILES** | COc1cc(cc(c1OC)OC)CCN |
+| **Appearance** | White crystalline powder; soluble in water, ethanol, lipids |
 
+The core phenethylamine bears methoxy groups at the 3, 4, and 5 positions — a substitution
+pattern conferring potent serotonergic activity. Biosynthesis occurs via the shikimate
+pathway from L-tyrosine through 3,4,5-trimethoxyphenylacetaldehyde.
+## Discovery & History
+
+Mescaline was first isolated in **1897** by German pharmacologist **Arthur Heffter**, who
+extracted it from *Lophophora williamsii* (peyote) and identified it as the principal
+psychoactive alkaloid. Indigenous ceremonial peyote use extends back at least **5,700 years**
+based on radiocarbon-dated buttons from shelter caves along the Rio Grande. Petroglyphs
+across the American Southwest and northern Mexico attest to millennia of ritual use.
+## Natural Sources
+
+- **Lophophora williamsii** (Peyote) — 0.1–6% mescaline by dry weight; Chihuahuan Desert.
+- **Echinopsis pachanoi** (San Pedro) — 0.2–4%; widely cultivated in the Andes.
+- **Echinopsis peruviana** (Peruvian Torch) — 0.1–2.5%; western Andean slopes.
+- **Echinopsis lageniformis** (Bolivian Torch) — Variable mescaline content.
+- **Echinopsis scopulicola** — Contains mescaline; less commonly encountered.
 ## Pharmacology
 
-Mescaline acts primarily as an agonist at the 5-HT₂A serotonin receptor, the same receptor subtype responsible for
-the psychedelic effects of LSD and psilocybin. It also has affinity for 5-HT₂C, 5-HT₁A, and alpha-adrenergic
-receptors. Mescaline shows minimal activity at monoamine transporters, distinguishing it from entactogenic compounds
-like MDMA despite their structural similarity. The 3,4,5-trimethoxy substitution pattern produces a relatively
-non-selective receptor binding profile compared to more refined synthetic analogues. Metabolism occurs primarily via
-oxidative deamination by MAO-A, with N-acetylation and O-demethylation as secondary pathways. The onset of effects
-occurs within 45–120 minutes, with peak effects at 2–4 hours and a total duration of 8–12 hours — the longest
-of any classical psychedelic except perhaps high-dose LSD.
+Mescaline acts primarily as a **serotonin 5-HT₂A receptor agonist** — the same target as
+LSD, psilocybin, and DMT. Activation of 5-HT₂A on cortical layer V pyramidal neurons drives
+psychedelic effects. Additional affinities include 5-HT₂C (stimulant/anxiogenic), 5-HT₁A
+(mood modulation), and weak α₂-adrenergic binding. The three methoxy groups enhance
+lipophilicity and blood-brain barrier penetration compared to simpler phenethylamines.
 
-## Subjective Effects
+Metabolism occurs via **hepatic oxidative deamination** (MAO), producing 3,4,5-
+trimethoxyphenylacetic acid as the major metabolite. Half-life is approximately **6 hours**.
+## Effects
 
-The mescaline experience is characterized by vivid, colorful visual hallucinations with a distinctive quality often
-described as more "organic" and less geometric than those produced by LSD or psilocybin. Users commonly report enhanced
-color saturation, patterning with floral and crystalline motifs, synesthesia (particularly sound-to-color), and a
-heightened appreciation of natural environments. The emotional tone is frequently described as warm, gentle, and
-contemplative, with a pronounced sense of connection to nature and the cosmos. Physical effects include pupillary
-dilation, increased heart rate and blood pressure, elevated body temperature, nausea (often pronounced during the onset
-phase), and occasional vomiting — the latter sometimes considered a purgative aspect of the experience in traditional
-ceremonial contexts.
+**Psychological:** Visual hallucinations (geometric patterns, color intensification),
+synesthesia (sound-to-color), altered time/space/self perception, enhanced pattern
+recognition, deepened introspection. Emotional range spans euphoria and cosmic
+connectedness to anxiety and existential distress ("bad trip"), highly set-and-setting
+dependent.
 
-## Mescaline-Containing Cacti
+**Physical:** Mydriasis, tachycardia, hypertension, nausea/vomiting (common with crude
+preparations), mild tremor, flushing, elevated body temperature.
+**Duration:** Onset 45–120 min; come-up 1–3 hr; peak 2–4 hr; offset 4–6 hr; total
+**8–12 hours** with aftereffects up to 24 hr.
+## Dosage (pure mescaline sulfate/HCl, oral)
 
-The primary natural sources of mescaline are several species of New World cacti. *Lophophora williamsii* (peyote) is
-the most culturally significant, containing approximately 1–6% mescaline by dry weight along with a complex profile
-of other alkaloids including lophophine, anhalonidine, and pellotine that may modulate the overall experience.
-*Echinopsis pachanoi* (San Pedro) contains 0.1–2% mescaline and is the most commonly cultivated mescaline cactus due
-to its rapid growth — San Pedro can grow 30 cm or more per year under optimal conditions. *Echinopsis peruviana*
-(Peruvian torch) is similar to San Pedro with somewhat higher mescaline content. Other mescaline-containing species
-include *Echinopsis bridgesii* and *Echinopsis lageniformis* (Bolivian torch). The preparation of these cacti for
-consumption typically involves removing the spine-bearing epidermis and consuming the green photosynthetic tissue,
-either fresh, dried, or extracted.
+| Level | Dose |
+|-------|------|
+| Threshold | 100–150 mg |
+| Light | 150–200 mg |
+| Common | 200–300 mg |
+| Strong | 300–500 mg |
+| Heavy | 500+ mg |
 
-## Historical and Cultural Significance
+Natural preparations (dried cactus, tea) vary widely in alkaloid content and may require
+substantially higher material doses.
+## Preparation Methods
 
-Mescaline has been used continuously for at least 5,700 years, based on archaeological evidence of peyote use in the
-Rio Grande region of Texas. It is central to the religious ceremonies of the Native American Church (NAC), which was
-formally incorporated in 1918 and has fought a series of legal battles to protect its sacramental use of peyote. The
-NAC currently has approximately 250,000–400,000 members acraldous-huxleyd States and Canada. Mescaline was the first
-psychedelic compound to have its subjective effects described in the scientific literature, through the
-self-experiments of Havelock Ellis in 1897 and, most influentially, Aldous Huxley's *The Doors of Perception* (1954),
-which described his mescaline experience and introduced the concept of "mind-at-large" to a broad audience.
+**Traditional:** Dried peyote buttons consumed whole or powdered; cactus tea (fresh or
+dried tissue boiled and reduced); dried powder in capsules.
 
-## Pre-Columbian and Indigenous Use
-
-The use of mescaline-containing cacti predates European contact by millennia. Archaeological excavations at the Shumla
-Caves in Texas have yielded peyote buttons radiocarbon dated to approximately 3780 BCE, making it one of the oldest
-documented psychedelic plant uses in the world. The Huichol (Wixárika) people of Mexico continue to use peyote in
-elaborate annual pilgrimages to Wirikuta, the ancestral peyote grounds in the state of San Luis Potosí. The Ramón
-Medina murals and other colonial-era artwork document the integration of peyote into indigenous cosmology. In South
-America, San Pedro has been used in Andean traditional healing ceremonies for centuries, where it is known by names
-including "huachuma" and "achuma." The continuity of these traditions makes mescaline-containing cacti among the most
-enduring entheogens in human culture.
-
-## Chemistry in Context
-
-In *PiHKAL*, Shulgin positions mescaline as the progenitor of an enormous family of psychoactive phenethylamines. The
-2C series can be understood as systematic variations on the mescaline template — the removal of one methoxy group
-(from position 2) and replacement of the 4-position methoxy with various halogen, alkyl, and other substituents. This
-work produced dozens of active compounds with potencies ranging from equal to mescaline (2C-D) to hundreds of times
-more potent ([[2c-i]], 2C-B-FLY). The DOx series, including [[dom]], extends the mescaline template further by adding
-the alpha-methyl group of the amphetamines. Mescaline itself remains a benchmark compound in psychedelic pharmacology
-and is one of the few classical psychedelics currently being investigated in modern clinical trials for conditions
-including depression, anxiety, and substance use disorders.
-
+**Extraction:** Acid-base extraction — cactus material acidified, defatted with nonpolar
+solvent, basified, and pulled with toluene or xylene. Freebase is salted to mescaline
+sulfate or hydrochloride for crystalline purification and precise dosing.
 ## Legal Status
 
-Mescaline is listed as a Schedule I substance under the UN Convention on Psychotropic Substances and is controlled in
-most countries worldwide. In the United States, it is Schedule I under the Controlled Substances Act, though exemptions
-exist for the Native American Church's use of peyote in bona fide religious ceremonies. Several countries, including
-the Netherlands and Germany, have specific exemptions for mescaline-containing cacti, regulating only the isolated
-alkaloid. In the United States, the cultivation of peyote is restricted to registered members of the Native American
-Church, though other mescaline-containing cacti such as San Pedro occupy a legal gray area as ornamental plants unless
-prepared for consumption.
+Mescaline is **Schedule I** under the UN Convention on Psychotropic Substances (1971).
+National classifications: US Schedule I (religious exemption for Native American Church
+under AIRFA Amendments 1994); Canada Schedule III; UK Class A; Australia Schedule 9;
+Germany BtMG Anlage I; Netherlands List I. Several countries tolerate ornamental
+cultivation of mescaline-containing cacti.
+## Safety Profile
 
-## Modern Clinical Research
+- **Toxicity:** High therapeutic index; LD₅₀ ~370 mg/kg (oral, mice). Human fatalities
+  exceedingly rare.
+- **Cardiovascular:** Tachycardia and hypertension; caution in pre-existing conditions.
+- **Psychological:** Primary risk is overwhelming experience leading to anxiety or trauma —
+  mitigated by proper set, setting, and dosage.
+- **HPPD:** Hallucinogen Persisting Perception Disorder is rare (1.4–4.2% among regular
+  users); mescaline carries risk comparable to other classical psychedelics.
+- **Dependence:** No significant physical dependence; rapid tolerance limits psychological
+  dependence potential. Contraindicated in schizophrenia, bipolar disorder, cardiovascular
+  disease, and pregnancy.
+## Cultural Significance
 
-After decades of neglect, mescaline is experiencing renewed research interest. Its favorable safety profile, long
-duration allowing for extended therapeutic sessions, and well-characterized pharmacology make it an interesting
-candidate for psychedelic-assisted therapy. Researchers have noted that mescaline's gentle, organic quality and its
-traditional integration into ceremonial and communal contexts may offer advantages over shorter-acting or more intense
-psychedelics for certain therapeutic applications. However, clinical research with mescaline lags significantly behind
-that of psilocybin and MDMA, in part due to regulatory hurdles and the practical challenges of working with a compound
-that requires relatively large doses and produces long-lasting effects.
+**Wixárika (Huichol):** Peyote (*hikuri*) is central to annual pilgrimages to Wirikuta in
+San Luis Potosí, Mexico — a cosmological practice connecting the community to ancestors and
+deities. **Native American Church (NAC):** Pan-tribal (~250,000–500,000 members); peyote
+sacrament in all-night prayer meetings with drumming, singing, communal ingestion.
+**Andean traditions:** *Echinopsis pachanoi* (San Pedro, *Wachuma*) used in shamanic
+healing for 3,000+ years. **Tarahumara (Rarámuri)** use *hikuli* and *mútsali* in healing
+ceremonies and endurance running rituals. Mescaline cacti represent one of the oldest
+continuous psychedelic traditions in human history, unbroken from pre-Columbian times.
+## Related Compounds
+
+| Compound | Relationship |
+|----------|-------------|
+| **DOM** (2,5-dimethoxy-4-methylamphetamine) | Amphetamine analog; shares 2,5-dimethoxy motif; far more potent, longer-lasting |
+| **2C-B** (2,5-dimethoxy-4-bromophenethylamine) | Phenethylamine with 2,5-dimethoxy-4-substitution; shorter (4–6 hr), more stimulating |
+| **MDMA** (3,4-methylenedioxymethamphetamine) | Phenethylamine backbone; methylenedioxy replaces methoxy; primarily entactogenic |
+| **Psilocybin** | Chemically distinct (tryptamine) but shares 5-HT₂A agonism |
+| **LSD** | Chemically distinct (ergoline); shares 5-HT₂A mechanism; orders of magnitude more potent |
+## See Also
+
+- [[Phenethylamines]] · [[5-HT2A Receptor]] · [[Native American Church]]
+- [[Peyote]] · [[San Pedro Cactus]] · [[Hallucinogen Persisting Perception Disorder]]
