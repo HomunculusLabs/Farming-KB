@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1590 pages**
+**1600 pages**
 
 ## #
 
@@ -176,6 +176,7 @@
 - [[adam-vorbrodt]]
 - [[aem-entity-pihkal]]
 - [[aeruginascin]]
+- [[aesculus-hippocastanum]]
 - [[agaricus-arvensis]]
 - [[agaricus-augustus]]
 - [[agaricus-bisporus]]
@@ -509,6 +510,7 @@
 - [[det-entity-tihkal]]
 - [[dextromethorphan]]
 - [[dictyophora-indusiata]]
+- [[digitalis-purpurea]]
 - [[dimethyltryptamine]]
 - [[dimethyltryptamine-n-oxide]]
 - [[diplopterys-cabrerana]]
@@ -673,6 +675,7 @@
 - [[gerronema-fibula]]
 - [[gigaspora-marginata]]
 - [[ginkgo-biloba]]
+- [[giorgio-samorini]]
 - [[girl-scout-cookies]]
 - [[gleditsia-triacanthos]]
 - [[gliocladium-roseum]]
@@ -864,6 +867,7 @@
 - [[l-citrulline]]
 - [[l-ornithine]]
 - [[l-theanine]]
+- [[la-confidential]]
 - [[laccaria-amethystina]]
 - [[laccaria-bicolor]]
 - [[laccaria-laccata]]
@@ -928,6 +932,7 @@
 - [[lupinus-albus]]
 - [[lycoperdon-marginatum]]
 - [[lycoperdon-mixtecorum]]
+- [[lycoperdon-perlatum]]
 - [[lynn-margulis]]
 - [[lysergic-acid-amide]]
 - [[lysergic-acid-hydroxyethylamide]]
@@ -1179,6 +1184,7 @@
 - [[permaculture]]
 - [[persea-americana-entity]]
 - [[persimmon-entity]]
+- [[pestalotiopsis-microspora]]
 - [[peter-oei]]
 - [[phalaris-aquatica]]
 - [[phallus-impudicus-entity]]
@@ -1388,6 +1394,8 @@
 - [[ramaria-botrytis]]
 - [[rauwolfia-serpentina]]
 - [[reishi-ganoderma-lucidum]]
+- [[resveratrol]]
+- [[rheum-palmatum]]
 - [[rhizoctonia-solani]]
 - [[rhizophagus-irregularis]]
 - [[rhizopogon-vinicolor]]
@@ -1493,6 +1501,7 @@
 - [[stropharia-rugoso-annulata]]
 - [[stropharia-rugosoannulata]]
 - [[suillellus-luridus]]
+- [[suillus-americanus]]
 - [[suillus-bovinus]]
 - [[suillus-granulatus]]
 - [[suillus-grevillei]]
@@ -1559,6 +1568,7 @@
 - [[tp-entity]]
 - [[tp-entity-pihkal]]
 - [[tradd-cotter]]
+- [[trainwreck]]
 - [[trainwreck-cannabis]]
 - [[trametes-hirsuta]]
 - [[trametes-sanguinea]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1177 pages**
+**1182 pages**
 
 ## #
 
@@ -30,6 +30,7 @@
 - [[2c-t-7-compound-profile]]
 - [[2c-t-7-pihkal-43]]
 - [[2c-t-pihkal-entry-39]]
+- [[4-hydroxyindole-tryptamine-synthesis-building-block]]
 - [[5-meo-dipt-compound-profile]]
 - [[5-meo-dmt-compound-profile]]
 - [[5-meo-dmt-reference]]
@@ -641,6 +642,7 @@
 - [[mckenna-ecstasy-as-social-catalyst]]
 - [[mckenna-eleusinian-mysteries]]
 - [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]
+- [[mckenna-eschatology-and-acceleration-of-history]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-exteriorization-soul-translinguistic-matter]]
 - [[mckenna-fall-of-partnership-society]]
@@ -734,12 +736,14 @@
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
 - [[mckenna-tryptamine-research-legal-status]]
+- [[mckenna-tryptamine-shamanic-identification-and-signs]]
 - [[mckenna-tryptamines-logos-consciousness]]
 - [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 - [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-vedic-soma-indo-european-mysteries]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
 - [[mckenna-wasson-soma-contradictions-and-doubts]]
+- [[mckenna-women-gatherers-and-evolution-of-language]]
 - [[mckenna-world-made-of-language]]
 - [[md-family-structure-activity]]
 - [[mda-compound-profile]]
@@ -765,6 +769,7 @@
 - [[mescaline-peyote-san-pedro-cactus]]
 - [[mescaline-reference]]
 - [[metzner-ayahuasca-therapeutic-potential]]
+- [[metzner-entheogen-terminology-and-worldview-paradigms]]
 - [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
 - [[metzner-four-paradigms-entheogenic-healing]]
 - [[metzner-four-paradigms-psychedelic-healing]]

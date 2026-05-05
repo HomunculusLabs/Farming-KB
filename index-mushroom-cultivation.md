@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1302 pages**
+**1303 pages**
 
 ## #
 
@@ -249,6 +249,7 @@
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]
 - [[emcdda-hallucinogenic-mushroom-seizures-and-customs-data]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
+- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
 - [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]
