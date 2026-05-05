@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**841 pages**
+**842 pages**
 
 ## A
 
@@ -651,6 +651,7 @@
 - [[plant-signaling-pathways]]
 - [[plant-thigmomorphogenesis-what-a-plant-feels]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
+- [[plant-touch-and-thigmomorphogenesis]]
 - [[plant-tropisms-perception-mechanisms]]
 - [[plant-vision-and-phototropism]]
 - [[plants-and-electromagnetism]]

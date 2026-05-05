@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1295 pages**
+**1297 pages**
 
 ## #
 
@@ -499,6 +499,7 @@
 - [[hallucinogenic-mushroom-legal-status-europe]]
 - [[hallucinogenic-mushroom-legislation-in-europe]]
 - [[hallucinogenic-mushroom-online-retail-markets]]
+- [[hallucinogenic-mushroom-prevalence-europe]]
 - [[hallucinogenic-mushroom-seizures-and-criminological-evidence]]
 - [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
 - [[hallucinogenic-mushroom-user-terminology-and-brand-names]]
@@ -1226,6 +1227,7 @@
 - [[singh-mushroom-spawn-production-grain-spawn]]
 - [[six-vectors-of-contamination]]
 - [[smartshop-hallucinogenic-mushroom-market]]
+- [[smartshop-online-mushroom-markets]]
 - [[smartshops-and-hallucinogenic-mushroom-retail]]
 - [[soma-and-the-sacred-mushroom-debate]]
 - [[southeast-asian-mushroom-tourism-bali]]

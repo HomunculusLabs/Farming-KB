@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1148 pages**
+**1157 pages**
 
 ## #
 
@@ -193,6 +193,7 @@
 - [[dom-pihkal-68]]
 - [[dominator-culture-and-partnership-society]]
 - [[dosage-ambiguity-fuzzy-numbers-pihkal]]
+- [[dose-effects-health-risks-psilocybin]]
 - [[dpt-compound-profile]]
 - [[duboisia-hopwoodii-pituri-ethnobotany]]
 - [[dutch-smart-shop-paddos-history]]
@@ -315,6 +316,7 @@
 - [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 - [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]]
+- [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
 - [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]]
 - [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]]
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
@@ -377,6 +379,7 @@
 - [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
 - [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
+- [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
 - [[fukuoka-textdoc-scientific-farming-energy-paradox]]
 - [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
@@ -395,9 +398,12 @@
 - [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
+- [[fukuoka-textdoc-three-stage-collapse-knowledge-destruction-failure]]
 - [[fukuoka-textdoc-three-stages-collapse-only-future]]
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
+- [[fukuoka-textdoc-three-types-farming-comparison-yields]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
+- [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
 - [[fukuoka-textdoc-traditional-pest-control-pyrethrum-derris-fowl]]
 - [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]
 - [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]
@@ -713,6 +719,7 @@
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
 - [[mckenna-tryptamine-research-legal-status]]
+- [[mckenna-tryptamines-logos-consciousness]]
 - [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 - [[mckenna-ur-plant-hypothesis]]
 - [[mckenna-vedic-soma-indo-european-mysteries]]
@@ -747,6 +754,7 @@
 - [[metzner-four-paradigms-entheogenic-healing]]
 - [[metzner-four-paradigms-psychedelic-healing]]
 - [[metzner-hallucinogens-psychotherapy-and-shamanism]]
+- [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[metzner-ibogaine-addiction-treatment]]
 - [[metzner-lsd-psychotherapy-approaches]]
@@ -951,6 +959,7 @@
 - [[psilocybin-potency-dosage-guide]]
 - [[psilocybin-potency-variation]]
 - [[psilocybin-psilocin-chemical-synthesis]]
+- [[psilocybin-psilocin-chemical-synthesis-shirota]]
 - [[psilocybin-psilocin-chemistry]]
 - [[psilocybin-psilocin-flush-variation]]
 - [[psilocybin-psychological-mechanisms]]

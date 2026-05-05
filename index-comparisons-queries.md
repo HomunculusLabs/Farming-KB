@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**917 pages**
+**921 pages**
 
 ## A
 
@@ -272,6 +272,7 @@
 - [[comparison-mycorrhizal-vs-saprotrophic-fungi]]
 - [[comparison-natural-beekeeping-vs-standard-beekeeping]]
 - [[comparison-natural-farming-vs-permaculture]]
+- [[comparison-natural-swimming-pool-vs-conventional-pool]]
 - [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 - [[comparison-neem-oil-vs-diatomaceous-earth]]
 - [[comparison-neem-oil-vs-pyrethrin]]
@@ -317,6 +318,7 @@
 - [[comparison-reciprocal-roof-vs-timber-frame]]
 - [[comparison-regenerative-vs-biodynamic]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
+- [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
@@ -578,6 +580,7 @@
 - [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 - [[query-how-do-i-prune-fruit-trees-naturally]]
 - [[query-how-do-i-raise-rabbits-in-a-permaculture-system]]
+- [[query-how-do-i-restore-saline-and-compacted-soil]]
 - [[query-how-do-i-save-water-in-a-vegetable-garden]]
 - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-do-i-set-up-co2-supplementation-for-my-cannabis-grow]]
@@ -683,6 +686,7 @@
 - [[query-how-to-grow-morel-mushrooms]]
 - [[query-how-to-grow-moringa-and-what-are-its-benefits]]
 - [[query-how-to-grow-mushrooms-on-logs]]
+- [[query-how-to-grow-mushrooms-on-logs-at-home]]
 - [[query-how-to-grow-mushrooms-on-masters-mix-substrate]]
 - [[query-how-to-grow-mushrooms-on-straw]]
 - [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]

@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2306 pages**
+**2307 pages**
 
 ## #
 
@@ -1246,6 +1246,7 @@
 - [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
 - [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
 - [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
+- [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
 - [[guzman-allen-gartz-neurotropic-fungi-africa]]
 - [[guzman-allen-gartz-neurotropic-fungi-asia]]
 - [[guzman-allen-gartz-neurotropic-fungi-australasia]]
