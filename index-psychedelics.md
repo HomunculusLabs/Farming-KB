@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1136 pages**
+**1143 pages**
 
 ## #
 
@@ -283,10 +283,12 @@
 - [[fukuoka-textdoc-epilogue-barley-philosophy]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
+- [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]]
 - [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
 - [[fukuoka-textdoc-farm-establishment-wood-preserve-design]]
 - [[fukuoka-textdoc-farming-all-land-law-obstacles]]
 - [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
+- [[fukuoka-textdoc-farming-for-all-mu-economy]]
 - [[fukuoka-textdoc-farming-for-all-vision]]
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
 - [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]]
@@ -368,8 +370,10 @@
 - [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
 - [[fukuoka-textdoc-production-costs-not-coming-down]]
 - [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
+- [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
 - [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
 - [[fukuoka-textdoc-rice-seed-overwintering-biennial-cultivation-discovery]]
+- [[fukuoka-textdoc-rice-spiritual-soul-yamato-people]]
 - [[fukuoka-textdoc-road-back-to-farming-obstacles]]
 - [[fukuoka-textdoc-scientific-farming-energy-paradox]]
 - [[fukuoka-textdoc-search-natural-form-citrus-trees]]
@@ -388,6 +392,7 @@
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
+- [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 - [[fukuoka-textdoc-three-stages-collapse-only-future]]
 - [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
@@ -744,6 +749,7 @@
 - [[metzner-lsd-psychotherapy-approaches]]
 - [[metzner-mdma-assisted-therapy-research]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
+- [[metzner-psycholytic-psychedelic-therapy-models]]
 - [[metzner-shamanic-healing-divination-worldview]]
 - [[metzner-spirit-beings-multiple-realities-entheogens]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
@@ -1139,6 +1145,7 @@
 - [[tryptamine-family-overview]]
 - [[tryptamine-hallucinogens-and-consciousness]]
 - [[tryptamine-hallucinogens-consciousness]]
+- [[tryptamine-hypercontinuum]]
 - [[tryptamine-receptor-pharmacology]]
 - [[tryptamines-and-quantum-mechanics]]
 - [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]

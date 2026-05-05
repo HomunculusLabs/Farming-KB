@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**905 pages**
+**911 pages**
 
 ## A
 
@@ -201,6 +201,7 @@
 - [[comparison-greenhouse-vs-underground-walipini]]
 - [[comparison-greywater-vs-constructed-wetland]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
+- [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
@@ -395,6 +396,7 @@
 - [[comparison-wicking-bed-vs-raised-bed]]
 - [[comparison-wild-fermentation-vs-commercial-starter-culture]]
 - [[comparison-wild-vs-cultured-yeast]]
+- [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]]
 - [[comparison-windbreak-design-vs-species-selection]]
 - [[comparison-windbreak-vs-hedgerow]]
 - [[comparison-windbreak-vs-swale]]
@@ -441,6 +443,7 @@
 ## L
 
 - [[led-vs-hps-grow-lights]]
+- [[living-fences-vs-conventional-fencing]]
 
 ## M
 
@@ -525,6 +528,7 @@
 - [[query-how-do-i-cure-cannabis-in-jars-without-mold]]
 - [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]
 - [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]
+- [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
 - [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
@@ -533,6 +537,7 @@
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]]
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
+- [[query-how-do-i-grow-alliums-successfully]]
 - [[query-how-do-i-grow-brassicas-successfully]]
 - [[query-how-do-i-grow-cannabis-in-a-greenhouse]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
@@ -799,6 +804,7 @@
 - [[query-what-are-the-best-mushrooms-for-medicinal-use]]
 - [[query-what-are-the-best-natural-building-methods]]
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
+- [[query-what-are-the-best-perennial-grains-for-regenerative-farming]]
 - [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
 - [[query-what-are-the-best-plants-for-a-hugelkultur-bed]]
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]

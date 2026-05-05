@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2296 pages**
+**2300 pages**
 
 ## #
 
@@ -533,6 +533,7 @@
 - [[ethnomycology-cultural-significance-sacred-fungi]]
 - [[ethnomycology-psychoactive-fungi]]
 - [[ethnomycology-wasson-discovery-narrative]]
+- [[european-and-north-american-neurotropic-fungi-distribution]]
 - [[european-truffles]]
 - [[extracted-fungal-species]]
 - [[extremophilic-fungi]]
@@ -1750,6 +1751,7 @@
 - [[neurotropic-fungi-in-oceania]]
 - [[neurotropic-fungi-in-south-america]]
 - [[neurotropic-fungi-mycologist-distribution-bias]]
+- [[neurotropic-fungi-of-mexico-and-mesoamerica]]
 - [[neurotropic-fungi-volatility-and-potency-degradation]]
 - [[neurotropic-fungi-world-checklist]]
 - [[next-generation-sequencing-hidden-fungal-diversity]]
@@ -1762,6 +1764,7 @@
 - [[nitrogen-transfer-mycorrhizal]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
 - [[non-mycorrhizal-plants]]
+- [[non-psilocybe-neurotropic-fungi-genera]]
 - [[nonsystemic-endophytic-fungi-nongrass-hosts]]
 - [[north-carolina-mycodiversity]]
 - [[nutritive-cycle-theory]]
@@ -2106,6 +2109,7 @@
 - [[solomon-root-exudates-and-allelopathy]]
 - [[soma-controversy-fly-agaric-as-divine-mushroom]]
 - [[sooty-molds-black-mildews-tropical-foliar-fungi]]
+- [[southern-hemisphere-origin-of-neurotropic-fungi]]
 - [[soybean-oil-wastewater-fungi]]
 - [[spore]]
 - [[spore-dispersal]]

@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1286 pages**
+**1287 pages**
 
 ## #
 
@@ -372,6 +372,7 @@
 - [[grain-spawn-production]]
 - [[grain-spawn-types-and-preparation]]
 - [[grass-seed-cultivation-of-psilocybe-mushrooms]]
+- [[grass-seed-mushroom-cultivation]]
 - [[grass-seed-substrate-cultivation-psilocybe]]
 - [[grass-seed-substrate-preparation]]
 - [[green-cannabis-grow-bible-strain-selection-genetics]]

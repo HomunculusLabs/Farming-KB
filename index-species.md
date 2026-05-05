@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1432 pages**
+**1454 pages**
 
 ## #
 
@@ -135,6 +135,7 @@
 - [[5-6-meo-mipt-entity-tihkal]]
 - [[5-meo-dalt-entity]]
 - [[5-meo-det-entity-tihkal]]
+- [[5-meo-dipt]]
 - [[5-meo-dipt-entity-tihkal]]
 - [[5-meo-dmt]]
 - [[5-meo-dmt-entity]]
@@ -183,6 +184,8 @@
 - [[agaricus-sylvicola]]
 - [[agricultural-mycorrhizae]]
 - [[agrocybe-aegerita-detailed]]
+- [[agrocybe-aegerita-entity]]
+- [[agroforestry]]
 - [[ak-47]]
 - [[ak-47-cannabis]]
 - [[al-entity]]
@@ -236,6 +239,7 @@
 - [[ann-shulgin]]
 - [[anni-albers]]
 - [[aphanocladium-album]]
+- [[apple-fritter]]
 - [[arabidopsis-thaliana]]
 - [[araucaria-araucana]]
 - [[arctium-lappa]]
@@ -339,6 +343,7 @@
 - [[calea-zacatechichi]]
 - [[calendula-officinalis]]
 - [[calocybe-gambosa]]
+- [[calocybe-indica]]
 - [[calvatia-gigantea]]
 - [[camellia-sinensis-entity]]
 - [[candida-albicans]]
@@ -368,6 +373,7 @@
 - [[chamaecytisus-palmensis]]
 - [[chemdawg]]
 - [[chemdawg-entity]]
+- [[chemdog]]
 - [[chenopodium-album]]
 - [[chestnut-entity]]
 - [[chinampas]]
@@ -436,6 +442,7 @@
 
 - [[dactylaria-brochopaga]]
 - [[dactylium-dendroides-entity-the-mushroom-cultivator]]
+- [[daldinia-concentrica]]
 - [[damiana-turnera-diffusa]]
 - [[daniel-chamovitz]]
 - [[datura-candida]]
@@ -542,6 +549,7 @@
 - [[eth-lad-entity-tihkal]]
 - [[ethyl-j-entity-pihkal]]
 - [[ethyl-k-entity-pihkal]]
+- [[ethylone]]
 - [[ethylpropyltryptamine]]
 - [[eudarluca-caricis]]
 - [[eugenia-bone]]
@@ -565,6 +573,7 @@
 - [[foeniculum-vulgare-entity]]
 - [[fomes-entity]]
 - [[fomes-fomentarius]]
+- [[fomitopsis-officinalis-entity]]
 - [[fomitopsis-pinicola]]
 - [[food-forest]]
 - [[food-forest-permaculture]]
@@ -620,6 +629,7 @@
 - [[glycine-max-soybean-permaculture]]
 - [[glycyrrhiza-glabra]]
 - [[gmo-garlic-cookies]]
+- [[golden-teacher]]
 - [[golden-teacher-cubensis]]
 - [[gonatobotryum-fuscum]]
 - [[gordon-wasson]]
@@ -777,6 +787,7 @@
 - [[ketamine]]
 - [[keyline-design]]
 - [[koryaks]]
+- [[kuehneromyces-mutabilis-entity]]
 
 ## L
 
@@ -837,6 +848,7 @@
 - [[lsz-entity]]
 - [[lucuma-entity]]
 - [[ludwig-prandtl]]
+- [[lupinus-albus]]
 - [[lycoperdon-marginatum]]
 - [[lycoperdon-mixtecorum]]
 - [[lynn-margulis]]
@@ -905,6 +917,7 @@
 - [[mee-entity]]
 - [[mee-entity-pihkal]]
 - [[melatonin-entity-tihkal]]
+- [[melilotus-officinalis]]
 - [[melissa-officinalis]]
 - [[mem-entity]]
 - [[mem-entity-pihkal]]
@@ -947,6 +960,7 @@
 - [[monacrosporium-haptotylum]]
 - [[monotropa-uniflora]]
 - [[morchella-angusticeps]]
+- [[morchella-deliciosa]]
 - [[morchella-elata]]
 - [[morchella-esculenta]]
 - [[morchella-importuna]]
@@ -1086,6 +1100,7 @@
 - [[pichia-stipitis]]
 - [[pineapple-express-entity]]
 - [[pinene]]
+- [[piper-guineense-entity]]
 - [[piper-methysticum]]
 - [[piper-nigrum-entity]]
 - [[piperine]]
@@ -1141,6 +1156,7 @@
 - [[psilocybe-atrobrunnea]]
 - [[psilocybe-aucklandii]]
 - [[psilocybe-australiana]]
+- [[psilocybe-aztecorum-entity]]
 - [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
 - [[psilocybe-azurescens]]
 - [[psilocybe-baeocystis]]
@@ -1311,6 +1327,7 @@
 - [[salvinorin-a-entity]]
 - [[sambucus-nigra]]
 - [[sandoz-pharmaceuticals]]
+- [[sanguinaria-canadensis]]
 - [[sapodilla-entity]]
 - [[sarah-c-watkinson]]
 - [[sarcodon-imbricatus]]
@@ -1329,6 +1346,7 @@
 - [[serpula-lacrymans]]
 - [[sesbania-grandiflora]]
 - [[sida-rhombifolia]]
+- [[silene-capensis]]
 - [[silicon]]
 - [[silvopasture]]
 - [[silybum-marianum]]
@@ -1338,6 +1356,7 @@
 - [[skywalker-og]]
 - [[sophora-secundiflora-entity]]
 - [[sour-diesel]]
+- [[sour-diesel-cannabis]]
 - [[sparassis-crispa]]
 - [[sphaerobolus-stellatus]]
 - [[sphaerotheca-fuliginea]]
@@ -1398,6 +1417,7 @@
 - [[timothy-leary]]
 - [[tinospora-cordifolia]]
 - [[tipuana-tipu]]
+- [[tithonia-diversifolia]]
 - [[tm-entity]]
 - [[tm-entity-pihkal]]
 - [[tma-2-entity]]
@@ -1422,6 +1442,7 @@
 - [[tradd-cotter]]
 - [[trainwreck-cannabis]]
 - [[trametes-hirsuta]]
+- [[trametes-sanguinea]]
 - [[trametes-versicolor]]
 - [[trametes-versicolor-entity]]
 - [[tremella-aurantia]]
@@ -1510,6 +1531,7 @@
 - [[yarrow]]
 - [[youngsang-cho]]
 - [[yucca-filamentosa]]
+- [[yuremamine]]
 
 ## Z
 
