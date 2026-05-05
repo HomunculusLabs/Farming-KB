@@ -1,140 +1,150 @@
 ---
-title: Metzner on Hallucinogens in Psychotherapy and Shamanism
-created: 2026-04-23
+title: "Metzner Hallucinogens Psychotherapy and Shamanism"
+tags: [ralph-metzner, psychotherapy, shamanism, psychedelics, entheogen, set-and-setting, indigenous-healing, transpersonal, ritual]
+date: 2026-04-28
 updated: 2026-04-28
-type: concept
-tags: [psychedelics, ethnobotany, shamanism, psychotherapy]
 sources: [/Users/t3rpz/wiki/raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md]
 ---
 
-# Hallucinogens in Psychotherapy and Shamanism
+# Metzner Hallucinogens Psychotherapy and Shamanism
 
-Ralph Metzner's 1998 paper "Hallucinogens in Psychotherapy and Shamanism"
-provides a comparative framework for understanding the therapeutic use of
-psychedelic substances across Western clinical settings and indigenous
-shamanic traditions. Published in the *Journal of Psychoactive Drugs*,
-the paper traces the historical development of psychedelic-assisted
-psychotherapy and identifies parallels between modern clinical approaches
-and ancient shamanic healing rituals.
+Ralph Metzner published "Hallucinogenic Drugs and Plants in Psychotherapy and
+Shamanism" in the Journal of Psychoactive Drugs in 1998. Drawing on over 35
+years of consciousness studies research, including his early work at Harvard
+with Timothy Leary and Richard Alpert, Metzner proposed a comparative framework
+of four paradigms for understanding the use of psychoactive substances in
+healing and knowledge acquisition across Western and indigenous traditions.
 
-## Metzner's Background and Intellectual Journey
+## Terminology and Definitions
 
-Ralph Metzner, Ph.D., was a Professor of Psychology at the California
-Institute of Integral Studies in San Francisco. His involvement with
-consciousness studies spanned over 35 years at the time of writing. In
-the 1960s, he worked at Harvard University alongside Timothy Leary and
-Richard Alpert, researching the therapeutic applications of LSD and
-psilocybin. Their collaboration produced *The Psychedelic Experience*
-(1964), a manual based on the Tibetan Book of the Dead.
+Metzner used three terms interchangeably: "psychedelic" (mind-manifesting,
+coined by Humphrey Osmond and Aldous Huxley), "hallucinogenic" (from the Latin
+alucinare, "to wander in one's mind"), and "entheogen" (from R. Gordon Wasson
+and Jonathan Ott, meaning "releasing or expressing the divine within"). He
+noted that the scientific community largely adopted "hallucinogen" despite its
+inaccuracy, since these substances do not generally cause true hallucinations
+but rather perceptual distortions affecting thought, mood, and self-awareness.
 
-During the 1970s, Metzner shifted to non-drug methods of consciousness
-transformation, studying yoga, meditation, and alchemy, as well as
-psychotherapeutic methods involving breathwork and bodywork derived from
-pioneers like Wilhelm Reich. In the 1980s, he encountered the work of
-Michael Harner, Joan Halifax, Peter Furst, and Terence and Dennis
-McKenna on shamanic practices worldwide. This progression from
-laboratory research to contemplative practice to cross-cultural
-shamanism uniquely positioned him to articulate this comparative
-framework.
+## Paradigm One: Western Psychedelic Psychotherapy
 
-## Terminology: Psychedelic, Hallucinogenic, and Entheogenic
+### Psycholytic Model
 
-Metzner uses "psychedelic," "hallucinogenic," and "entheogenic"
-interchangeably. "Psychedelic," coined by Humphrey Osmond and Aldous
-Huxley, means "mind-manifesting." "Hallucinogenic" is the standard
-psychiatric term, though Metzner notes the Latin *alucinare* means "to
-wander in one's mind," making it apt. "Entheogen," proposed by R. Gordon
-Wasson and Jonathan Ott, means "releasing the divine within."
+The European psycholytic approach, developed from Albert Hofmann's original
+characterization of LSD as producing "psychic loosening or opening"
+(seelische Auflockerung), involved administering LSD to neurotic patients in
+a series of sessions at gradually increasing doses within a Freudian
+analytic framework. The Czech psychiatrist Stanislav Grof, working within this
+model, discovered that patients progressing through biographical conflicts
+would subsequently relive birth and pre-birth memories, which he termed
+"perinatal matrices."
 
-## The Comparative Framework
+### Psychedelic Model
 
-Metzner's central thesis is that while Western psychotherapy and
-indigenous shamanism both use psychoactive substances for healing and
-knowledge (called "diagnosis" and "divination" respectively), there are
-profound differences in underlying worldview. He organizes these into
-four paradigms: (1) psychedelic psychotherapy within the standard Western
-paradigm; (2) shamanic rituals of healing and divination; (3) syncretic
-folk religious ceremonies; and (4) hybrid shamanic-therapeutic rituals.
-For detailed treatment of each paradigm, see
-[[metzner-four-paradigms-psychedelic-healing]].
+The Anglo-American psychedelic model, introduced by Humphrey Osmond, typically
+involved one or a small number of high-dose sessions designed to produce a
+transformative experience manifesting unconscious contents as vivid
+hallucinatory imagery. Originally applied to treating alcoholism, it was
+thought to simulate a life-changing "bottoming out" experience. Timothy Leary
+shifted focus from clinical treatment to exploring the value of psychedelic
+experiences for "normals," introducing the concept of "consciousness expansion"
+and the [[set-and-setting]] hypothesis, which holds that internal set
+(intention, expectation, motivation) and external setting are the primary
+determinants of psychedelic experience outcomes.
 
-## Worldview Differences: Multiple Realities and Spirit Beings
+### Five Shared Principles
 
-Metzner identifies two points where the shamanic worldview differs
-radically from the accepted Western paradigm:
+Metzner identified five principles shared across psycholytic and psychedelic
+approaches: (1) experiences of profoundly expanded consciousness that may
+transcend fundamental self-concepts; (2) set and setting as paramount
+determinants, with the drug serving as catalyst rather than determinant; (3)
+the amplifier analogy (drug as nonspecific psychic amplifier) and microscope
+metaphor (opening hidden realms of the mind to direct observation); (4)
+personal experience of the therapist as essential prerequisite for effective
+practice; and (5) access to transcendent, religious, or transpersonal
+dimensions of consciousness, as recognized by Hofmann, Grof ("holotropic"
+states), and Leary's evolutionary framework.
 
-**Multiple realities.** Shamanic practitioners perceive and explore
-multiple "worlds" accessible in expanded states of consciousness.
-These have been referred to as the "inner world," "spirit world,"
-"upper or lower world," "dreamtime," or "otherworld." Michael Harner
-uses the term "nonordinary reality." Access may come through journeying
-or through seeing into the spirit world while remaining aware of
-ordinary time-space reality. The boundaries between worlds become more
-permeable during these experiences.
+### Empathogen Extension
 
-**Spirit beings.** The beings encountered in dreams and visions are
-considered just as real as the physical organism in shamanic cosmology.
-Such spirits are associated with particular animals, plants, places,
-deceased ancestors, and other nonordinary entities. Healing and
-divination are experienced as being done by or with the assistance of
-such spirits, also called "allies," "power animals," "guardians," or
-"helpers." Contact with malevolent spirits requiring exorcism may also
-occur in healing rituals.
+The discovery by Alexander Shulgin of phenethylamines such as MDA, MDMA, and
+2C-B extended the field. These compounds produce emotional expansion with
+minimal perceptual changes, leading to the proposed classification
+"empathogens." MDMA showed particular promise in psychotherapy for
+facilitating relationship communication and healing trauma before its
+scheduling under controlled substances legislation.
 
-These conceptions are "completely beyond the pale of both reason and
-science" within the Western paradigm, yet Metzner notes that in hybrid
-shamanic-therapeutic rituals, recognition of multiple dimensions and
-spirit beings is becoming common among Western practitioners. He closes
-by invoking William James, who observed that "no account of the universe
-in its totality can be final which leaves these other forms of
-consciousness quite disregarded."
+## Paradigm Two: Shamanic Healing and Divination
 
-## Western Psychotherapy Paradigms
+Metzner identified the shamanic entheogenic ceremony as "the intentional
+arrangement of the set and the setting for purposes of healing and
+divination." Three features distinguish traditional shamanic ceremonies from
+Western psychotherapy: minimal verbal interaction during the experience, the
+centrality of the shaman's singing (with rapid rhythmic pulse similar to
+shamanic drumming), and the use of darkness or low light to facilitate vision
+emergence. The term "journey" is the preferred metaphor in shamanistic
+societies for what Western frameworks call an "altered state of
+consciousness."
 
-Two major paradigms emerged in the mid-twentieth century. The
-[[european-psycholytic-therapy-1960s-1970s]],
-developed in Europe, involved LSD in a series of sessions at gradually
-increasing doses during Freudian-style analytic interactions. Stanislav
-Grof discovered that patients would relive birth-related perinatal
-matrices. The psychedelic model involved one or a few high-dose sessions
-producing vivid hallucinatory imagery leading to insight.
+### Healing Patterns
 
-Five conclusions emerged from both: (1) therapy involves a profoundly
-expanded state of consciousness; (2) [[psychedelic-mushroom-set-and-setting]] are paramount; (3) the drug functions as amplifier or
-microscope; (4) personal experience of the therapist is essential; (5)
-access to transpersonal dimensions is consistently reported.
+Three main variations of shamanic healing with [[entheogens]] are documented
+across indigenous societies: extraction of a toxic psychic residue or sorcerous
+implant, retrieval of a split-off psychic fragment or "soul," and the
+experience of dismemberment followed by reconstitution with a healthier body.
+Traditional healers do not distinguish physical, psychic, and spiritual
+healing as separate categories.
 
-## Shamanic Rituals of Healing and Divination
+### Divination and Plant Teachers
 
-Traditional shamanic ceremonies involve a small group of six to twelve
-people sharing a profound inner journey facilitated by an experienced
-healer. Three features distinguish them from Western therapy: minimal
-talking, essential role of the shaman's singing with rapid rhythmic
-pulse, and ceremonies conducted in darkness to facilitate visions.
+The divinatory aspect of shamanic entheogen use parallels Western diagnostic
+practice. Indigenous healers refer to entheogenic plants as "plant teachers,"
+recognizing an intelligence associated with the medicine that communicates
+interiorly, revealing the origin of illness or appropriate remedies.
 
-Shamanic healing has three main variations: extraction of toxic
-implants from sorcery, retrieval of split-off psychic fragments
-("soul retrieval"), and dismemberment followed by reconstitution.
-The experience also provides access to hidden knowledge through
-divination, equivalent to diagnosis in Western medicine. Indigenous
-healers refer to entheogenic plants as "plant teachers."
+### Spirit Beings and Multiple Worlds
 
-## Syncretic and Hybrid Rituals
+Two elements of shamanic cosmology pose the most direct challenge to Western
+materialism: the existence of multiple realities or "worlds" (the "inner
+world," "spirit world," "upper or lower world," "dreamtime," or "nonordinary
+reality" per Michael Harner), and the reality of spirit beings including
+power animals, plant spirits, ancestors, and other entities. These beings
+function as "allies," "guardians," or "helpers" in healing and divination.
 
-Metzner distinguishes between shamanic healing rituals, syncretic folk
-religious ceremonies (such as the Native American Church peyote ceremony,
-Brazilian ayahuasca churches, and Bwiti iboga ceremonies), and hybrid
-therapeutic-shamanic circles that blend indigenous and Western
-approaches. For detailed discussion of these forms, see
-[[metzner-syncretic-entheogenic-folk-ceremonies]] and
-[[metzner-hybrid-shamanic-therapeutic-rituals]].
+### Ceremonial Examples
 
-## See Also
+Metzner surveyed specific entheogenic ceremonies: the Native American Church
+peyote ceremony (all-night, central fire, led by a roadman); the Mazatec
+mushroom velada (dark room, healer singing incorporating Christian saints
+and nature spirits); Amazonian ayahuasca ceremonies (semidarkness, icaros);
+Huichol peyote pilgrimage to Wirikuta; Andean San Pedro cactus ceremonies
+with altar arrangements; and Bwiti iboga ceremonies in Gabon with ancestral
+mirrors.
 
-- [[metzner-four-paradigms-psychedelic-healing]]
-- [[metzner-lsd-psychotherapy-approaches]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[stanislav-grof]]
-- [[shamanic-use-of-psychedelics]]
-- [[psychedelic-set-and-setting]]
+## Paradigm Three: Syncretic Folk Religious Ceremonies
+
+Folk religious ceremonies involving entheogens occupy a continuum with shamanic
+practices but emphasize group worship over individual healing. Groups such as
+the Brazilian hoasca churches may involve hundreds of participants with priests
+rather than shamans. These churches provide social cohesion and protection
+against alcoholism and addiction, and function as a "protective shield of
+traditional lore" against missionary pressure and consumer culture.
+
+## Paradigm Four: Hybrid Shamanic-Therapeutic Rituals
+
+The emerging hybrid paradigm blends Western psychotherapeutic and indigenous
+shamanic approaches, incorporating the three distinctive shamanic features:
+darkness, singing, and minimal talking during the experience itself. Metzner
+observed that in these hybrid ceremonies, recognition of multiple dimensions
+and the reality of spirit beings has become "quite common," despite these
+conceptions remaining "completely beyond the pale of both reason and science"
+within conventional Western paradigms.
+
+## Comparative Conclusions
+
+Both Western psychotherapy and shamanic traditions recognize the centrality of
+an experienced guide, the importance of set and setting, and the potential for
+healing and insight. The fundamental divergence lies in underlying cosmology:
+the Western paradigm operates within a single-material-reality framework where
+psychedelic experiences are understood as products of brain chemistry, while
+shamanic traditions perceive the beings and worlds encountered in visionary
+states as ontologically real.

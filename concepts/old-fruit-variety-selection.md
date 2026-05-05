@@ -10,7 +10,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 # old fruit variety selection
 
 [[sepp-holzer]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For Holzer's broader approach, see [[sepp-holzer-method]] and [[permaculture]].
-For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
+This connects to [[apple-centered-guild-design]] and [[fruit-tree-propagation]] for complementary orchard techniques. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
 
 
 
@@ -70,6 +70,7 @@ For example, Golden Delicious thrives at 1,400m above sea level. It is important
 
 ## Wild and Sour Cherries
 
+[[holzer-livestock-integration]] complements these orchard strategies.
 Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
 
 
@@ -78,6 +79,7 @@ Holzer cultivates wild cherries in the forest to increase species diversity. Wil
 
 ## Apricot and Peach Varieties
 
+[[seed-saving-techniques]] are essential for preserving these old varieties.
 These can be grown at altitude if sheltered from wind and grown in climatically advantageous locations. Microclimates using stones or bodies of water to reflect heat are necessary. Under no circumstances should chemical fertilisers be used — fertilised trees do not lignify well enough and are not frost resistant.
 
 
@@ -96,3 +98,7 @@ These can be grown at altitude if sheltered from wind and grown in climatically 
 - [[windbreak-shelterbelt-species-selection]] — shelterbelt species for orchard protection
 - [[fruit-tree-pruning]] — pruning techniques for fruit trees
 - [[grafting-fruit-trees]] — grafting methods for propagation
+- [[apple-centered-guild-design]] — guild design for apple-centric plantings
+- [[fruit-tree-propagation]] — propagation methods beyond grafting
+- [[seed-saving-techniques]] — general seed saving for variety preservation
+- [[holzer-livestock-integration]] — integrating livestock with orchards

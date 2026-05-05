@@ -39,7 +39,7 @@ One of the most important implications of Darwin's experiment is the demonstrati
 
 ### Implications for Plant Biology
 
-This separation of perception and response became a central organizing principle in plant physiology. It led to the eventual discovery of plant hormones, particularly auxins, that mediate the bending response. The concept that a plant can "see" in one location and "respond" in another fundamentally changed how scientists understood plant integration and coordination of growth.
+This separation of perception and response became a central organizing principle in plant physiology. It led to the eventual discovery of [[plant-hormones-and-chemical-signaling-systems|plant hormones]], particularly [[auxin-production-by-symbiotic-fungi|auxins]], that mediate the bending response. The concept that a plant can "see" in one location and "respond" in another fundamentally changed how scientists understood plant integration and coordination of growth.
 
 ## The Maryland Mammoth Tobacco
 
@@ -55,7 +55,7 @@ In 1918, Wightman W. Garner and Harry A. Allard, two scientists at the US Depart
 
 ### The Discovery of Photoperiodism
 
-Simply limiting the amount of light the plants saw was enough to cause Maryland Mammoth to stop growing and start flowering. If exposed to the long days of summer, it kept growing leaves, but if it experienced artificially shorter days, it flowered. This phenomenon, called photoperiodism, provided the first strong evidence that plants measure how much light they take in.
+Simply limiting the amount of light the plants saw was enough to cause Maryland Mammoth to stop growing and start flowering. If exposed to the long days of summer, it kept growing leaves, but if it experienced artificially shorter days, it flowered. This phenomenon, called [[photoperiod-cannabis|photoperiodism]], provided the first strong evidence that plants measure how much light they take in.
 
 ### Short-Day and Long-Day Plants
 
@@ -79,7 +79,7 @@ If you take irises that normally do not flower in long nights and give them a sh
 
 ## Warren Butler and the Discovery of Phytochrome
 
-By the time John F. Kennedy was elected president, Warren L. Butler and his colleagues had demonstrated that a single photoreceptor in plants was responsible for both the red and far-red effects. They called this receptor "phytochrome," meaning "plant colour." In its simplest model, phytochrome is the light-activated switch. Red light activates phytochrome, turning it into a form primed to receive far-red light, and vice versa.
+By the time John F. Kennedy was elected president, Warren L. Butler and his colleagues had demonstrated that a single photoreceptor in plants was responsible for both the red and far-red effects. They called this receptor [[phytochrome-and-plant-light-perception|phytochrome]], meaning "plant colour." In its simplest model, phytochrome is the light-activated switch. Red light activates phytochrome, turning it into a form primed to receive far-red light, and vice versa.
 
 ### The Molecular Mechanism
 
@@ -95,7 +95,7 @@ Surprisingly, the "eye" for photoperiodism is not in the tip of the plant as Dar
 
 ## The Legacy for Modern Plant Biology
 
-Darwin's phototropism experiments opened an entire field of inquiry into plant sensory biology. From Sachs's blue light discovery to Garner and Allard's photoperiodism, from Borthwick's red-far-red experiments to Butler's phytochrome, each finding built upon the last. Modern plant biology now recognizes multiple photoreceptor families including phototropins, cryptochromes, and phytochromes, each sensitive to different wavelengths.
+Darwin's phototropism experiments opened an entire field of inquiry into plant sensory biology. From Sachs's blue light discovery to Garner and Allard's photoperiodism, from Borthwick's red-far-red experiments to Butler's phytochrome, each finding built upon the last. Modern plant biology now recognizes multiple photoreceptor families including [[phototropism-photoperiodism-discovery-phytochrome|phototropins]], cryptochromes, and [[phytochrome-red-far-red-switch-and-photoperiodism|phytochromes]], each sensitive to different wavelengths.
 
 ### Agricultural Applications
 
@@ -118,3 +118,12 @@ From Darwin's elegant five-seedling experiment through Sachs's blue light discov
 Darwin's experiments with plant phototropism are often overshadowed by his evolutionary theory, but they represent some of the most elegant experimental design in the history of biology. The five-seedling experiment demonstrated a principle that extends far beyond botany: the idea that perception and response can be spatially separated within a single organism.
 
 This insight anticipated modern concepts of signal transduction, hormone signaling, and intercellular communication that are central to contemporary molecular biology. Darwin's observation that the coleoptile tip could sense light and transmit that information to the responding tissue below laid the groundwork for the entire field of plant hormone research, culminating in the discovery of auxin half a century later.
+
+## See Also
+
+- [[phytochrome-and-plant-light-perception]] -- phytochrome photoreception mechanisms
+- [[phototropism-photoperiodism-discovery-phytochrome]] -- phototropism and photoperiodism overview
+- [[phytochrome-red-far-red-switch-and-photoperiodism]] -- red/far-red molecular switch
+- [[phytochrome-mobile-signal-leaf-flowering-regulation]] -- leaf-based flowering signals
+- [[plant-hormones-and-chemical-signaling-systems]] -- plant hormone signaling
+- [[photoperiod-cannabis]] -- photoperiodism in cannabis cultivation

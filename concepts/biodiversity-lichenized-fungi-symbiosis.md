@@ -10,6 +10,7 @@ sources: ["/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
 
 ## Overview
 
+[[fungal-biodiversity]] includes lichenized fungi as a major component.
 Lichenized fungi represent one of the most remarkable symbiotic
 associations in the fungal kingdom. A lichen is a composite organism
 consisting of a fungal partner (the mycobiont) and a photosynthetic
@@ -114,8 +115,7 @@ buffer heavy metals from atmospheric deposition.
 
 ## Chemistry and Identification
 
-Lichen chemistry is a valuable tool for identifying species,
-particularly sterile material. Spot tests using potassium hydroxide
+Lichen chemistry is a valuable tool for identifying species, particularly sterile material. The study of [[fungal-taxonomy]] and [[fungal-ecology]] provides broader context for understanding lichen diversity. Spot tests using potassium hydroxide
 (K), commercial bleach (C), p-phenylenediamine (PD), and nitric acid
 (N) produce characteristic color reactions. Secondary metabolite
 identification is typically performed by thin-layer chromatography
@@ -132,6 +132,7 @@ about one-third of tested species cultured successfully.
 
 ## Conservation and Environmental Indicators
 
+[[lichenized-fungi-bioindicators]] are widely used in pollution monitoring.
 Lichens are widely recognized as sensitive bioindicators of
 environmental quality, particularly air pollution. Industrial melanism
 in peppered moths in England is a famous example of indirect impacts
@@ -155,3 +156,5 @@ is expected to total about 18,000 species.
 - [[lichen-ecology-environmental-sensitivity]] — ecological roles and habitat requirements
 - [[biodiversity-fungi-conservation]] — fungal conservation strategies
 - [[lichen-symbiosis-mechanisms-photobiont-selection]] — photobiont partner selection
+- [[fungal-ecology]] — fungal ecology and environmental roles
+- [[fungal-taxonomy]] — fungal classification and nomenclature

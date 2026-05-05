@@ -122,3 +122,7 @@ including:
 - [[oyster-mushroom-substrates]] -- growing media for all Pleurotus species
 - [[oyster-mushroom-fruiting-conditions]] -- environmental parameters
 - [[medicinal-mushroom-extraction-bioactive-compounds]] -- nutritional and medicinal chemistry
+- [[mushroom-cultivation]] -- general cultivation techniques
+- [[biological-efficiency]] -- yield metrics for cultivated mushrooms
+- [[saprotrophic-fungi]] -- nutritional mode of Pleurotus species
+- [[spawn-preparation]] -- inoculum production methods

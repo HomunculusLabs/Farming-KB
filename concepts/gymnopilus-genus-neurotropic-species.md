@@ -6,137 +6,130 @@ tags:
   - gymnopilus
   - neurotropic-fungi
   - cortinariaceae
+  - wiki-concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - '/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md'
+  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
 ---
 
 # Gymnopilus Genus Neurotropic Species
 
-## Overview of the Genus
+**Gymnopilus** (family Cortinariaceae) is a genus of wood inhabiting fungi, commonly known as "big laughing gym" or "spectacular rustgill." Among its approximately 200 described species, **14 contain psilocybin and related indole alkaloids**, making it the second most species rich genus of neurotropic fungi after Psilocybe. The genus is easily recognized in the field by its rusty orange spore print, growth on wood, and the large, often spectacular fruiting bodies of certain species.
 
-Gymnopilus is a large genus in the family Cortinariaceae, order
-Agaricales, with over 200 described species worldwide. The genus is
-characterized by its rusty-orange to orange-brown spore prints, the
-presence of a partial veil, and growth primarily on dead wood or wood
-chips. Of the many species in the genus, 14 have been confirmed to
-contain psilocybin and psilocin, making Gymnopilus the second-largest
-genus of neurotropic fungi after Psilocybe in terms of species count.
+## Taxonomic Background
 
-## Confirmed Neurotropic Species
+Gymnopilus was treated systematically by Hesler (1969) for North America and by Singer (1986) in his worldwide Agaricales monograph. For Mexico, Guzmán Dávalos (1993) and Guzmán Dávalos and Guzmán (1995) published detailed treatments. The genus is closely related to Cortinarius and Galerina within the Cortinariaceae.
 
-The paper by Guzman, Allen, and Gartz documents the following 14
-neurotropic Gymnopilus species:
+## Neurotropic Species
 
-1. **[[gymnopilus-spectabilis]]** (G. junonius): The most widely known
-   neurotropic species in the genus, with a broad distribution across
-   North America, Europe, and Asia. It is a large, striking mushroom
-   with bright orange caps and a prominent partial veil. It fruits on
-   hardwood stumps and logs. Despite its wide distribution and
-   confirmed chemistry, its potency is relatively low compared to
-   Psilocybe species.
+Only a minority of Gymnopilus species are neurotropic. The confirmed and suspected neurotropic species include:
 
-2. **Gymnopilus aeruginosus**: Found in North America and Europe, this
-   species is associated with hardwood debris. It is recognized by its
-   greenish tinge that develops with age.
+### Confirmed Neurotropic Species (containing psilocybin/psilocin/baeocystin)
 
-3. **[[gymnopilus-luteofolius]]**: A species with a distribution in North
-   America and Asia, found on wood debris and sometimes on living
-   trees. It is notable for its purple to violet coloration in fresh
-   specimens.
+| Species | First Confirmed By | Notable Distribution |
+|---------|-------------------|---------------------|
+| **G. spectabilis** (syn. G. junonius) | Hongo, 1959; Hatfield et al., 1978 | Cosmopolitan, one of the most widespread |
+| **G. aeruginosus** | Stuntz & Isaacs, 1962 | Pacific Northwest (USA), Japan |
+| **G. purpuratus** | Singer, 1969; Gartz, 1989c | South America (Chile, Argentina), introduced in Europe |
+| **G. luteofolius** | Hesler, 1969 | Pacific Northwest (USA) |
+| **G. liquiritiae** | Hongo, 1959; Samorini, 1989 | Europe, Japan, North America |
+| **G. sapineus** | Hesler, 1969 | North America, Japan, India |
+| **G. validipes** | Hatfield, Valdes & Smith, 1977 | Eastern North America |
+| **G. viridans** | Ammirati et al., 1985 | Pacific Northwest (USA) |
+| **G. brandlei** | Hesler, 1969 | North America |
+| **G. lateritius** | Guzmán Dávalos & Guzmán, 1995 | Mexico |
+| **G. subpurpuratus** | Guzmán Dávalos & Guzmán, 1991, 1995 | Mexico |
 
-4. **[[gymnopilus-purpuratus]]**: Documented from South America (Chile,
-   Argentina) and New Zealand, this species is found on dead wood. It
-   is considered one of the more potent species in the genus.
+### Unconfirmed or Questionable Reports
 
-5. **[[gymnopilus-validipes]]**: Known from North America, this species
-   fruits on wood debris and is among the Gymnopilus species with
-   confirmed neurotropic chemistry.
-
-6. **Gymnopilus viridans**: Found in North America, associated with
-   wood debris and forest floor litter.
-
-7. **Gymnopilus crociphyllus**: Documented from tropical and
-   subtropical regions, found on dead wood.
-
-8. **Gymnopilus dilepis**: Known from various regions including
-   North America and Asia.
-
-9. **Gymnopilus liquiritiae**: A widespread species with confirmed
-   neurotropic chemistry, found on wood in North America and Europe.
-
-10. **Gymnopilus sapineus**: Documented from North America, Europe,
-    and parts of Asia, found on conifer wood.
-
-11. **Gymnopilus lateritius**: A species with distribution in North
-    America and other temperate regions, found on wood.
-
-12. **Gymnopilus subpurpuratus**: Documented from Mexico, this
-    species is found on wood debris in tropical and subtropical
-    forests.
-
-13. **Gymnopilus braendlei**: Known from North America, with
-    confirmed neurotropic chemistry.
-
-14. **Gymnopilus pictus**: Documented from North America, found on
-    wood substrates.
-
-## Geographic Distribution
-
-Gymnopilus species are found on every continent except Antarctica,
-reflecting the cosmopolitan nature of the genus as a whole. The
-concentration of neurotropic species is highest in North America (at
-least 10 species), followed by Europe (approximately 6 species), South
-America (2-3 species), and Asia (several species). New Zealand has
-documented G. purpuratus, and there are unconfirmed reports from
-Africa and Australia.
-
-## Ecological Role
-
-Gymnopilus species are primarily saprotrophic, decomposing dead wood
-of both hardwood and conifer trees. Some species may also be
-weakly parasitic on living trees, particularly those already stressed
-by disease or environmental factors. The preference for dead wood as
-a substrate means these fungi play an important ecological role in
-nutrient cycling and wood decomposition in forest ecosystems.
+- **G. penetrans**: Dangy Caye and Arpin (1974) reported bis noryangonine and hispidine (styryl pyrones), not indole alkaloids; not considered neurotropic
+- **G. aeruginosus in Mexico**: Reported by Valenzuela et al. (1981) and Bandala et al. (1988), but Guzmán Dávalos (1993) and Guzmán Dávalos and Guzmán (1995) state this species does not grow in Mexico
+- **Gerronema solipes**: Gartz (1986a) reported indole compounds, but Stijve and Kuyper (1988) later analyzed these species and failed to find any indole compounds
 
 ## Chemical Profile
 
-Neurotropic Gymnopilus species generally contain lower concentrations
-of psilocybin and psilocin compared to Psilocybe and Copelandia
-species. Psilocybin concentrations typically range from 0.01% to
-0.2% by dry weight, making them significantly less potent than the
-most active Psilocybe species. Baeocystin has also been detected in
-several Gymnopilus species. The blueing reaction is variable among
-species and may be absent in some confirmed neurotropic species,
-making visual identification unreliable.
+The indole alkaloids detected in Gymnopilus species include:
 
-## Identification Challenges
+- **Psilocybin**: Present in G. spectabilis, G. purpuratus, G. aeruginosus, G. validipes, G. viridans, G. luteofolius
+- **Psilocin**: Detected in most neurotropic species, often in lower quantities than psilocybin
+- **Baeocystin**: Found in G. purpuratus along with psilocybin and psilocin (Gartz & Müller, 1989)
+- **Aeruginascin**: Detected in G. purpuratus (Gartz, 1989c)
 
-Gymnopilus species are frequently confused with other large, orange-
-capped wood-inhabiting fungi, particularly Galerina species (some of
-which are deadly poisonous, containing amatoxins) and other
-Cortinariaceae. The presence of a rusty-orange spore print helps
-distinguish Gymnopilus from most lookalikes, but microscopic
-examination is essential for reliable identification. The genus is
-taxonomically complex, and many species are poorly defined.
+## Geographic Distribution of Neurotropic Gymnopilus
 
-## Historical Notes
+### North America
 
-Gymnopilus spectabilis has a long history of use and documentation,
-having been noted as an intoxicating species in both Japan (where it
-is called "O-waraitake," the "laughing mushroom") and Europe. Early
-mycological literature contains references to its unusual properties,
-though chemical confirmation of psilocybin content came much later.
+**Pacific Northwest (USA)** has the highest diversity, with at least 8 neurotropic species reported from Washington state alone:
+- G. aeruginosus, G. brandlei, G. luteofolius, G. liquiritiae, G. sapineus, G. spectabilis, G. viridans
+
+**Eastern North America**:
+- G. spectabilis (widespread in the Appalachians and eastern seaboard)
+- G. liquiritiae, G. sapineus (reported from Vermont, Wyoming)
+- G. validipes (eastern US)
+- G. subpurpuratus (reported from some southeastern states)
+
+### Mexico
+
+Mexico has several species:
+- G. lateritius, G. liquiritiae, G. sapineus, G. spectabilis, G. subpurpuratus
+
+### South America
+
+Chile and Argentina are notable for:
+- G. purpuratus: Common in southern Chile and Argentina; considered one of the most potent Gymnopilus species
+- G. spectabilis: Also found in both countries
+- G. sapineus: Reported from Argentina
+
+### Europe
+
+Multiple species have been reported across Europe:
+- G. spectabilis: Germany, Great Britain, Norway, Spain, Switzerland, Greece
+- G. purpuratus: Originally South American, introduced in Europe (Germany, Great Britain, Netherlands)
+- G. aeruginosus: Reported from across Europe
+- G. liquiritiae: Great Britain, Germany, Italy, Russia
+- G. sapineus: Great Britain, Germany, Norway, Switzerland
+
+### Asia
+
+Japan has notable diversity:
+- G. aeruginosus, G. liquiritiae, G. spectabilis, G. sapineus
+
+India:
+- G. sapineus, G. spectabilis
+
+Korea:
+- G. spectabilis
+
+Israel:
+- G. spectabilis
+
+### Australasia
+
+- G. spectabilis: Australia, New Zealand
+- G. purpuratus: Australia, New Zealand (introduced or naturalized)
+
+## Ecological Notes
+
+Gymnopilus species are primarily wood decomposing (saprotrophic), growing on:
+- Dead hardwood logs and stumps
+- Conifer wood
+- Tree roots
+- Buried wood
+
+The neurotropic species tend to be **large and conspicuous**, making them among the most visually impressive neurotropic fungi. G. spectabilis can form massive clusters on stumps, with individual caps reaching 15 to 20 cm in diameter. Despite their impressive appearance and confirmed psychoactive properties, Gymnopilus species are rarely sought for recreational use compared to Psilocybe species, likely due to their bitter taste and lower overall potency.
+
+## Key References
+
+- Hesler, L.R. (1969). North American species of Gymnopilus
+- Guzmán Dávalos, L. (1993). Contribución al conocimiento del género Gymnopilus en México
+- Gartz, J. (1996). Magic Mushrooms Around the World
+- Hatfield, G.M., Valdes, L.J. & Smith, A.H. (1978). The occurrence of psilocybin in Gymnopilus species
 
 ## See Also
 
-- [[gymnopilus-viridans]]
-
-- [[gymnopilus-sapineus]]
-
-- [[neurotropic-fungi-classification]]
-- [[psilocybe-genus-overview]]
-- [[copelandia-panaeolus-genera]]
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]
+- [[Psilocybe Genus Overview]]
+- [[Neurotropic Fungi Classification]]
+- [[Copelandia Genus]]
+- [[Psilocybin Chemistry]]
+- [[Panaeolus and Panaeolina Genera]]

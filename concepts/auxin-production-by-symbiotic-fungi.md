@@ -13,6 +13,7 @@ type: concept
 
 ## Overview
 
+[[mycorrhizal-plant-signaling]] is closely related to fungal auxin production.
 Many symbiotic fungi produce indole-3-acetic acid (IAA), the principal
 natural auxin, which plays a significant role in modifying root architecture
 during mycorrhizal establishment. Fungal auxin production can induce
@@ -60,7 +61,7 @@ directly extracted and analysed.
 [[piriformospora-indica]] is an endophytic basidiomycete that promotes
 growth in many plant families. Unlike [[arbuscular-mycorrhizal-fungi]], P. indica
 grows readily on artificial media and can colonise cruciferous plants
-including A. thaliana.
+including A. thaliana. For broader context on [[endophytic-fungi]] and their roles in plant health, see the dedicated pages.
 
 In bioassays, A. thaliana inoculated with P. indica showed increased root
 branching and reduced main root length, producing a characteristic "bushy
@@ -112,6 +113,7 @@ necessary to confirm IAA production and determine its concentration.
 
 ## Ectomycorrhizal Fungi
 
+[[ectomycorrhizal-fungi]] produce a wide range of auxin-like compounds.
 Many ectomycorrhizal basidiomycetes produce IAA or auxin-like compounds:
 
 - [[hebeloma-crustuliniforme]], Laccaria laccata, [[pisolithus-tinctorius]], and [[suillus-bovinus]] have all been shown to produce IAA in culture
@@ -156,3 +158,7 @@ Fungal auxin production creates a hormonal dimension to plant-fungal symbioses t
 - [[mycorrhizal-nutrient-uptake]] — nutrient exchange in mycorrhizae
 - [[truffle-auxin-root-morphogenesis]] — truffle-specific auxin effects
 - [[symbiotic-fungi-mycorrhizal-bioassays-agriculture]] — bioassay methods for mycorrhizal fungi
+- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] — AMF biology and symbiosis details
+- [[arbuscular-mycorrhizal-colonization-patterns]] — AMF colonization patterns in roots
+- [[endophytic-fungi]] — endophytic fungal associations with plants
+- [[mycorrhizal-fungal-diversity]] — diversity of mycorrhizal fungal communities

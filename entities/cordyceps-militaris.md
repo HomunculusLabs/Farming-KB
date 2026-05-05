@@ -1,110 +1,128 @@
 ---
-title: Cordyceps militaris
+title: "Cordyceps militaris"
 type: species
 tags:
   - fungi
+  - ascomycota
+  - cordycipitaceae
+  - cordyceps
   - medicinal-mushroom
-  - entomopathogenic
-  - adaptogen
+  - caterpillar-fungus
   - cordycepin
-  - traditional-chinese-medicine
+  - adaptogen
   - nootropic
+  - entomopathogenic
   - cultivation
+  - tcm
+  - anti-tumor
+  - immunomodulator
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ (cordyceps militaris pharmacology)
-  - https://www.mycobank.org/ (taxonomic reference)
-  - https://en.wikipedia.org/wiki/Cordyceps_militaris
+  - Tuli, H.S. et al. (2014). "Cordycepin and its potential therapeutic applications." Advanced Pharmacological Sciences, 2014, 693749.
+  - Das, S.K. et al. (2010). "Cordyceps militaris: a potential medicinal mushroom." Biotechnology, 9(3), 254-261.
+  - Wang, X. et al. (2021). "Health benefits of Cordyceps militaris and its bioactive constituents." Journal of Functional Foods, 85, 104622.
+  - Holliday, J. & Cleaver, M. (2008). "Medicinal value of the caterpillar fungi species." J Altern Complement Med, 14(3), 275-281.
+  - Yue, K. et al. (2013). "The genome of Cordyceps militaris." BMC Genomics, 14, 520.
 ---
 
 # Cordyceps militaris
 
 ## Overview
 
-*Cordyceps militaris*, commonly known as the scarlet caterpillar club, is a species of entomopathogenic fungus in the family *Clavicipitaceae*. It parasitizes pupae and larvae of lepidopteran insects, primarily moths and butterflies, producing a bright orange to red club-shaped fruiting body that erupts from the host's remains. Unlike the more famous *Ophiocordyceps sinensis* (the wild Himalayan cordyceps), *C. militaris* is commercially cultivable on grain substrates, making it far more accessible and sustainable as a medicinal mushroom.
+*Cordyceps militaris*, the scarlet caterpillar club, is an entomopathogenic ascomycete in
+the family Cordycipitaceae. It parasitizes lepidopteran pupae and larvae, producing bright
+orange club-shaped fruiting bodies from the host's remains. Native to temperate and boreal
+forests of the Northern Hemisphere, it has been used in traditional Chinese medicine as a
+more accessible alternative to the rare *Cordyceps sinensis*.
 
-The species has a long history of use in Traditional Chinese Medicine (TCM), where it is valued as a tonic for fatigue, respiratory health, and immune support. Modern pharmacological research has validated many of these traditional claims, revealing a rich profile of bioactive compounds including cordycepin (3'-deoxyadenosine), cordycepic acid (D-mannitol), ergosterol, and a diverse array of polysaccharides.
+Modern research focuses on **cordycepin** (3'-deoxyadenosine), a nucleoside analog with
+antitumor, immunomodulatory, and anti-inflammatory properties. Unlike *C. sinensis*, *C.
+militaris* can be reliably cultivated on grain substrates, making its bioactive compounds
+commercially viable at scale.
 
-## Taxonomy and Classification
+## Taxonomy
 
-- **Kingdom:** Fungi
-- **Division:** Ascomycota
-- **Class:** Sordariomycetes
-- **Order:** Hypocreales
-- **Family:** Clavicipitaceae
-- **Genus:** *Cordyceps*
-- **Species:** *C. militaris*
+Ascomycota → Sordariomycetes → Hypocreales → Cordycipitaceae → **Cordyceps → C. militaris** (L.) Fr. (1818).
 
-The species was first described by Carl Linnaeus in 1753 as *Clavaria militaris* and later reclassified into the genus *Cordyceps* by Elias Fries. Recent phylogenetic studies have upheld its placement within *Cordyceps sensu stricto*, distinguishing it from the renamed *Ophiocordyceps* genus.
+**Synonyms:** *Clavaria militaris* L. (1753), *Sphaeria militaris* (L.) Pers. (1801),
+*Isaria militaris* (L.) G.L. Samuels.
 
 ## Morphology
 
-The fruiting body (stroma) of *C. militaris* is cylindrical to club-shaped, typically 2–6 cm tall and 3–8 mm in diameter. The color ranges from bright orange to reddish-orange, often with a paler base where it attaches to the host insect. The surface is finely roughened due to the embedded perithecia (flask-shaped sexual reproductive structures) that contain the ascospores.
-
-Under microscopic examination, the asci are cylindrical, 200–350 µm long, and contain eight thread-like, multiseptate ascospores that fragment into part-spores at maturity — a mechanism believed to aid in dispersal and infection of new hosts.
+- **Stroma:** Club-shaped to cylindrical, 2–6 cm × 3–8 mm, bright orange to orange-red,
+  tapering toward apex. Fleshy fresh, brittle when dried.
+- **Perithecia:** Flask-shaped structures embedded in the upper stroma surface; tiny dark
+  ostioles visible.
+- **Asci:** Cylindrical, 200–300 µm, containing 8 filamentous ascospores.
+- **Ascospores:** Needle-shaped, multiseptate, 180–350 × 0.5 µm, fragmenting at maturity
+  into 4–8 µm segments serving as infective propagules.
+- **Host remains:** Parasitized lepidopteran pupa/larva, firm and white, packed with dense
+  mycelium, typically buried 1–3 cm below soil surface.
 
 ## Distribution and Habitat
 
-*C. militaris* has a broad global distribution across temperate and subtropical regions of the Northern Hemisphere. It is found throughout Europe, Asia, and North America, typically in forested habitats where it parasitizes lepidopteran larvae buried in soil or leaf litter. Fruitings are most commonly observed in late summer through autumn.
-
-The species has been documented parasitizing over 40 species of Lepidoptera, including economically important pest species, which has generated interest in its potential as a biological control agent.
-
-## Bioactive Compounds
-
-### Cordycepin (3'-Deoxyadenosine)
-
-Cordycepin is the signature nucleoside of *C. militaris* and the primary compound responsible for many of its pharmacological effects. At concentrations of 0.5–3.0% dry weight in cultivated fruiting bodies, *C. militaris* typically contains significantly more cordycepin than wild-harvested *O. sinensis* (which rarely exceeds 0.1%). Cordycepin acts as an adenosine receptor agonist and inhibits polyadenylation, producing anti-inflammatory, immunomodulatory, and anti-tumor effects.
-
-### Polysaccharides
-
-The β-glucan and galactomannan polysaccharides in *C. militaris* contribute to its immunomodulatory activity, stimulating macrophage activation, enhancing NK cell cytotoxicity, and promoting the production of cytokines including TNF-α, IL-2, and IFN-γ.
-
-### Ergosterol and Ergosterol Peroxide
-
-Ergosterol (the fungal equivalent of cholesterol) and its peroxidized derivative exhibit anti-inflammatory and anti-cancer properties, with studies demonstrating apoptosis induction in various cancer cell lines.
-
-## Pharmacological Effects
-
-### Anti-Tumor Activity
-
-In vitro and in vivo studies have demonstrated that cordycepin inhibits proliferation in breast cancer (MCF-7), lung cancer (A549), prostate cancer (PC-3), and colorectal cancer (HCT-116) cell lines. Mechanisms include cell cycle arrest at G2/M phase, induction of apoptosis via mitochondrial pathways, and inhibition of mTOR signaling.
-
-### Immunomodulation
-
-*C. militaris* extracts enhance both innate and adaptive immune responses. Polysaccharide fractions stimulate dendritic cell maturation and antigen presentation, while cordycepin modulates inflammatory signaling through inhibition of NF-κB and MAPK pathways.
-
-### Anti-Fatigue and Ergogenic Effects
-
-In animal models, *C. militaris* supplementation increased endurance exercise capacity, reduced blood lactic acid accumulation, and improved glycogen storage in liver and muscle tissue. These effects are attributed to improved mitochondrial function and enhanced ATP production.
-
-### Neuroprotective Effects
-
-Cordycepin has shown neuroprotective activity in models of Alzheimer's and Parkinson's disease, reducing oxidative stress in neuronal cells, inhibiting Aβ fibril formation, and protecting against MPTP-induced dopaminergic neurodegeneration.
+Widely distributed across temperate Northern Hemisphere: Europe, Asia (China, Japan, Korea,
+Siberia), and North America. Parasitizes lepidopteran pupae and larvae (Noctuidae, Sphingidae,
+Arctiidae). Found in forests, meadows, and grasslands. Fruiting in late summer to autumn
+(July–October) after warm, humid weather.
 
 ## Cultivation
 
-Unlike *O. sinensis*, which remains extremely difficult to cultivate, *C. militaris* is readily grown on a variety of substrates including brown rice, wheat, soybeans, and silkworm pupae. Commercial cultivation typically follows these parameters:
+- **Substrate:** Supplemented grain (brown rice, wheat, millet) with 2–5% soybean meal or
+  yeast extract. Silkworm pupae used commercially for higher cordycepin yields.
+- **Sterilization:** 121°C for 60–90 minutes.
+- **Incubation:** 20–25°C, dark, 14–21 days.
+- **Fruiting:** Light (200–500 lux, 12h photoperiod), 15–20°C, 85–95% humidity, fresh air.
+  Primordia in 7–14 days; mature fruiting bodies in 21–35 days.
+- **Yield:** 80–150 g fresh/kg dry substrate. Cordycepin: 0.5–1.5% dry weight.
+- **Fermentation:** Submerged liquid fermentation produces mycelial biomass and extracts
+  at much lower cost.
 
-- **Substrate:** Sterilized brown rice or rice bran supplemented (50–70% moisture)
-- **Inoculation:** Liquid culture spawn of a verified high-cordycepin strain
-- **Colonization:** 14–21 days at 20–25°C in darkness
-- **Fruiting induction:** Temperature reduction to 15–20°C, high humidity (85–95%), light exposure (200–500 lux, 12h photoperiod)
-- **Harvest:** 40–60 days after inoculation when stromata are fully mature
+## Bioactive Compounds
 
-Submerged liquid fermentation is also employed for producing mycelial biomass and cordycepin at industrial scale, offering faster turnaround and easier extraction.
+- **Cordycepin (3'-deoxyadenosine):** Signature nucleoside. Lacks 3'-OH group, terminates
+  RNA chain elongation. Antitumor, antiviral, immunomodulatory. Oral bioavailability limited
+  by adenosine deaminase metabolism.
+- **Cordycepic acid (D-mannitol):** Diuretic sugar alcohol with free radical scavenging.
+- **Adenosine:** Vasodilatory, antiplatelet, sedative. Present at 0.1–0.5% dry weight.
+- **Ergosterol and ergosterol peroxide:** Antioxidant sterols.
+- **β-glucan polysaccharides:** Immunomodulatory (macrophage activation via TLR-4/Dectin-1).
+- **HEA (N6-(2-hydroxyethyl)adenosine):** Anti-inflammatory, inhibits platelet aggregation.
 
-## Culinary and Tonic Uses
+## Pharmacology
 
-Dried *C. militaris* fruiting bodies are used in soups, broths, teas, and tinctures throughout East Asia. The flavor is described as savory and slightly sweet with umami notes. Typical dosage ranges from 1–3 g of dried fruiting body powder per day. Tinctures are typically prepared at 1:4 or 1:5 ratios in ethanol, with 2–4 mL taken daily.
+- **Antitumor:** Cordycepin inhibits proliferation in lung, breast, colorectal, leukemia, and
+  melanoma lines via apoptosis (caspase activation, Bax/Bcl-2 modulation), cell cycle arrest,
+  and telomerase inhibition. Synergistic with cisplatin and 5-FU in animal models.
+- **Immunomodulation:** Polysaccharides activate macrophages via TLR-4/Dectin-1, increasing
+  TNF-α, IL-12, and NO. Cordycepin modulates T-cell differentiation, suppressing Th2/Th17.
+- **Anti-inflammatory:** Inhibits NF-κB and MAPK signaling, reducing TNF-α, IL-1β, IL-6, and
+  COX-2. Effective in rheumatoid arthritis and colitis models.
+- **Antiviral:** Active against influenza A, HSV-1, HIV-1, and EBV in vitro via inhibition of
+  viral RNA polymerase.
+- **Ergogenic/adaptogenic:** Improves VO2 max and exercise endurance; mechanism involves
+  enhanced ATP production and mitochondrial function.
+- **Neuroprotective:** Reduces cerebral ischemia-reperfusion injury; cordycepin attenuates
+  neuroinflammation and amyloid-beta toxicity in Alzheimer's models.
 
-## Safety and Contraindications
+## Ecological Role
 
-*C. militaris* is generally regarded as safe at typical supplemental doses. However, due to its immunostimulatory effects and potential interactions with anticoagulant and antihypertensive medications, caution is advised for individuals on immunosuppressants, blood thinners, or with autoimmune conditions. Mild gastrointestinal discomfort has been reported at high doses.
+Entomopathogenic fungus regulating lepidopteran populations. Filamentous ascospores dispersed
+by wind and rain infect host larvae via cuticle contact. Hyphal bodies proliferate in hemolymph,
+killing and mummifying the insect before fruiting body production. Potential biological control
+agent for agricultural pest caterpillars.
+
+## Comparison with Cordyceps sinensis
+
+| Feature | *C. militaris* | *C. sinensis* |
+|---|---|---|
+| Cordycepin | 0.5–1.5% | 0.1–0.3% |
+| Cultivation | Easy (grain) | Extremely difficult |
+| Cost | Affordable | $10,000–50,000/kg |
+| Host | Lepidopteran pupae | *Hepialus* moth larvae |
+| TCM status | Secondary | Premium ingredient |
 
 ## See Also
 
-- [[Ophiocordyceps sinensis]] — the wild Himalayan caterpillar fungus
-- [[cordycepin]] — the primary bioactive nucleoside
-- [[medicinal-mushrooms]] — overview of therapeutic fungi
-- [[adaptogens]] — compounds that support stress resilience
+- [[cordyceps-sinensis]] · [[ganoderma-lucidum]] · [[trametes-versicolor]] · [[grifola-frondosa]]

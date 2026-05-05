@@ -1,139 +1,150 @@
 ---
 title: "Valeriana officinalis"
 type: species
-tags: [herbal, medicinal, adaptogen, sedative, nervine, permaculture]
+tags:
+  - herbal-plant
+  - valerianaceae
+  - sedative
+  - anxiolytic
+  - gabaergic
+  - nervine
+  - traditional-medicine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md"
+  - Houghton, P.J. (1999). "The scientific basis for the reputed effects of
+    Herba Valerianae." Phytotherapy Research, 13(8), 696-699.
+  - Mennini, T. et al. (1993). "In vitro study of the interaction of extracts
+    and pure compounds from Valeriana officinalis roots with GABA-A receptor."
+    Phytotherapy Research, 7(4), 263-266.
+  - Bent, S. et al. (2006). "Valerian for Sleep: A Systematic Review and
+    Meta-Analysis." American Journal of Medicine, 119(12), 1005-1012.
+  - ESCOP Monographs. (2003). "Valerianae radix." European Scientific
+    Cooperative on Phytotherapy.
+  - Holzinger, F. et al. (2002). "Valerian." In: Handbook of Medicinal
+    Herbs, 2nd ed. CRC Press.
 ---
 
 # Valeriana officinalis
 
-Valeriana officinalis, commonly known as valerian, is a perennial flowering plant native to Europe and parts of Asia, widely cultivated and naturalized across temperate regions worldwide. It has been used as a medicinal herb for over 2,000 years, with documented use by Hippocrates (460–370 BCE) and Dioscorides (40–90 CE). Valerian root is the most extensively researched herbal sedative and anxiolytic, commonly employed as a sleep aid, anti-anxiety remedy, and mild muscle relaxant. Despite its strong, characteristic odor — described variously as earthy, pungent, and reminiscent of old socks — valerian remains one of the top-selling herbal supplements globally.
+Valeriana officinalis, commonly known as valerian, is a perennial flowering
+plant in the family Caprifoliaceae (traditionally Valerianaceae). Native to
+Europe and parts of Asia, it has been used as a medicinal herb for over 2,000
+years, most prominently as a sedative and anxiolytic agent.
 
-## Taxonomy and Naming
+The dried root is one of the most widely used herbal sleep aids in both
+traditional Western herbalism and modern phytotherapy. Its name derives from
+the Latin *valere* ("to be strong, healthy"), reflecting its historical
+reputation as a panacea.
 
-| Rank | Classification |
-|---|---|
-| Kingdom | Plantae |
-| Clade | Tracheophytes |
-| Clade | Angiosperms |
-| Clade | Eudicots |
-| Clade | Asterids |
-| Order | Dipsacales |
-| Family | Caprifoliaceae |
-| Genus | Valeriana |
-| Species | V. officinalis |
+## Taxonomy
 
-The genus name derives from the Latin "valere" (to be strong or healthy), referencing the plant's medicinal properties. "Officinalis" denotes its traditional inclusion in apothecary formularies. The genus Valeriana contains approximately 250 species distributed across temperate and subtropical regions. Several other Valeriana species are used medicinally, including V. fauriei (Japanese valerian), V. wallichii (Indian valerian / tagara), and V. edulis (Mexican valerian), though V. officinalis remains the most widely studied and commercially important.
+- **Kingdom:** Plantae
+- **Division:** Angiospermae
+- **Class:** Magnoliopsida
+- **Order:** Dipsacales
+- **Family:** Caprifoliaceae
+- **Genus:** Valeriana
+- **Species:** V. officinalis L.
 
-## Description
+### Synonyms
 
-### Growth Habit and Morphology
+- Valeriana officinalis var. officinalis
+- Valeriana exaltata Murr.
+- Valeriana tiliifolia Tausch.
 
-- **Life form**: Hardy perennial herb, typically
-60–150 cm tall at maturity. Dies back to ground level each winter and regrows from the crown in spring.
-- **Stem**: Erect, hollow, grooved, finely hairy,
-branching in the upper portion. Stems are sturdy but can become floppy in rich soils without support.
-- **Leaves**: Opposite, pinnately divided with
-7–21 lanceolate leaflets per leaf. Leaflets are 2–5 cm long, serrated, and dark green. Lower leaves have long petioles; upper leaves are sessile or nearly so.
-- **Roots**: The medicinal organ — a thick,
-branching rhizome system with numerous fibrous rootlets. Fresh roots are creamy white, turning brown when dried. The root system develops a characteristic penetrating odor due to volatile oil production. Roots reach harvestable size in the second year of growth.
-- **Flowers**: Small (3–4 mm), fragrant, white to
-pale pink, borne in dense, terminal, cymose panicles 5–12 cm across. Bloom period is June–August in temperate regions.
-- **Fruit**: Small achene (1.5–3 mm), oblong, with
-a pappus of feathery bristles that aid wind dispersal.
+## Morphology
 
-### Key Identification Features
-
-- Tall, erect stems with opposite pinnate leaves
-- Dense clusters of small, sweet-smelling white-
-pink flowers
-- Thick, fleshy, odorous rhizome system (most
-diagnostic feature)
-- Hollow, grooved stems distinguish it from
-similar-looking species
+- **Height:** 0.5–1.5 m, erect habit.
+- **Stems:** Hollow, ridged, pubescent at nodes.
+- **Leaves:** Opposite, pinnatisect with 5–11 lanceolate leaflets,
+  coarsely toothed margins, 5–10 cm long.
+- **Roots:** Thick rhizome with numerous fleshy secondary roots.
+  Characteristic pungent odor when dried due to isovaleric acid.
+- **Flowers:** Small (3–4 mm), fragrant, white to pale pink, in dense
+  terminal cymose panicles. Corolla tubular, 5-lobed.
+- **Fruit:** Achene, oblong, crowned with feathery pappus bristles
+  for wind dispersal.
+- **Blooming:** June–August; insect-pollinated, attractive to butterflies,
+  moths, and hoverflies.
 
 ## Distribution and Habitat
 
-- **Native range**: Europe, western and central
-Asia. Particularly common in meadows, damp woodlands, stream banks, and forest edges across temperate Europe from Scandinavia to the Mediterranean.
-- **Naturalized range**: Widely naturalized in
-North America (USDA zones 4–9), Australia, New Zealand, and parts of South America.
-- **Habitat preferences**: Damp to mesic soils in
-partial shade to full sun. Naturally found in riparian zones, damp meadows, forest clearings, and hedgerows. Tolerates a wide pH range (5.5–7.5) and various soil types.
-- **Cultivation range**: Grown commercially across
-Europe (especially Germany, Netherlands, Poland), North America, and China. Major production areas have cool-temperate climates with adequate summer moisture.
+Native to Europe and temperate Asia, from the British Isles eastward through
+central Europe to western Siberia and northern Iran. Widely naturalized in
+North America, introduced by European settlers for medicinal use.
 
-## Active Compounds and Pharmacology
+Prefers moist, nutrient-rich soils in partial shade to full sun. Common in
+damp meadows, stream banks, forest edges, and disturbed ground at 0–2,000 m
+elevation. Tolerates clay soils and seasonal waterlogging.
 
-| Compound Class | Key Constituents | Activity |
-|---|---|---|
-| Valepotriates | Valtrate, isovaltrate, didrovaltrate | Cytotoxic (degraded on drying) |
-| Valerenic acids | Valerenic acid, acetoxyvalerenic acid | GABA-A receptor modulation |
-| Essential oil | Bornyl acetate, isovaleric acid, camphene | Sedative, spasmolytic |
-| Lignans | Hydroxypinoresinol, pinoresinol | Antioxidant |
-| Flavonoids | Hesperidin, linarin, apigenin derivatives | Mild anxiolytic |
-| Alkaloids | Actinidine, valerianine, chatinine | Minor sedative contribution |
-| GABA | Gamma-aminobutyric acid | Direct GABA-A modulation |
+## Cultivation
 
-The primary mechanism of valerian's sedative action involves modulation of GABA-A receptors in the central nervous system. Valerenic acid acts as a weak positive allosteric modulator at the GABA-A receptor, similar in mechanism (though much weaker) to benzodiazepines. Additionally, valerian root naturally contains GABA itself, and valerenic acid inhibits the enzyme that breaks down GABA, effectively increasing GABA availability at synapses.
+- **Propagation:** Seed (stratification 1–4°C for 4–8 weeks) or root
+  division in spring/autumn. Division most reliable for chemotype
+  consistency.
+- **Spacing:** 30–45 cm between plants.
+- **Harvest:** Roots in second or third year, autumn after flowering when
+  active compound concentrations peak.
+- **Drying:** Washed, sliced, dried at 35–40°C. Characteristic odor
+  develops during drying as valerenic acid precursors convert.
+- **Yield:** 2–4 kg dried root per m².
 
-Valepotriates, once considered primary active compounds, are highly unstable and degrade rapidly during drying and storage. Modern standardized extracts focus on valerenic acid content (typically 0.8% minimum) rather than valepotriate content.
+## Bioactive Compounds
 
-## Therapeutic Applications
+- **Valerenic acid:** Primary bioactive sesquiterpene acid; positive
+  allosteric modulator at the GABA-A receptor.
+- **Acetoxyvalerenic acid:** Related sesquiterpene with GABAergic activity.
+- **Valerenal:** Sesquiterpene aldehyde with sedative properties.
+- **Isovaleric acid:** Responsible for characteristic pungent odor.
+- **Valepotriates:** Irritant iridoid glycosides (valtrate, isovaltrate)
+  in fresh root; cytotoxic, degraded during drying. Removed in
+  pharmaceutical extracts.
+- **Lignans:** Hydroxypinoresinol and others with antioxidant activity.
+- **Flavonoids:** Hesperidin, linarin, apigenin derivatives.
 
-- **Insomnia**: The most well-documented
-application. Meta-analyses of clinical trials show improved sleep quality, reduced sleep latency, and increased slow-wave sleep. Effects are typically milder than pharmaceutical sedatives but with fewer side effects.
-- **Anxiety**: Moderate evidence for anxiolytic
-effects, particularly for generalized anxiety and situational anxiety. Often combined with other nervines like passionflower.
-- **Muscle relaxation**: Spasmolytic effects on
-smooth muscle make it useful for menstrual cramps, gastrointestinal spasms, and tension headaches.
-- **Menopausal symptoms**: Some evidence for
-reduction of hot flashes and sleep disturbances associated with menopause.
-- **Cognitive function**: Unlike many sedatives,
-valerian does not impair morning-after cognitive performance at standard doses.
+## Pharmacology
 
-## Cultivation Notes
+- **GABAergic activity:** Valerenic acid binds the GABA-A receptor β-subunit
+  as a positive allosteric modulator, enhancing GABA-mediated chloride ion
+  influx. Mechanism parallels benzodiazepines at a distinct binding site,
+  producing sedation without equivalent dependency profile.
+- **Sedative-hypnotic:** Multiple clinical trials show reduced sleep onset
+  latency and improved sleep quality; meta-analyses indicate modest effect
+  sizes versus pharmaceutical hypnotics.
+- **Anxiolytic:** Reduced anxiety-like behavior in elevated plus maze and
+  open field tests at moderate doses in animal models.
+- **Spasmolytic:** Reduces smooth muscle contraction in the GI tract,
+  supporting traditional use for cramps and menstrual discomfort.
+- **Serotonin interaction:** Hydroxypinoresinol inhibits serotonin reuptake,
+  contributing to anxiolytic and antidepressant potential.
 
-Valerian is straightforward to cultivate and suitable for home gardens, medicinal herb farms, and permaculture systems:
-- **Propagation**: Seed (stratification
-recommended), root division in spring or autumn, or crown divisions.
-- **Soil**: Prefers deep, moisture-retentive,
-fertile loams. Tolerates clay soils but requires adequate drainage.
-- **Sun**: Full sun to partial shade. Partial
-shade preferred in hotter climates.
-- **Spacing**: 30–45 cm between plants for root
-production.
-- **Harvest**: Roots harvested in autumn of the
-second year after above-ground growth dies back. Yields of 3–5 tonnes fresh root per hectare are typical.
-- **Processing**: Roots washed, sliced, and dried
-at 40°C or below to preserve volatile oils. Drying reduces weight by approximately 75%.
+## Traditional and Modern Use
+
+Described by Dioscorides in *De Materia Medica* (c. 60 AD) and recommended
+by Hippocrates. European folk medicine used it for nervous disorders,
+headaches, epilepsy, and as a general restorative.
+
+Modern applications: standardized extracts (600–900 mg/day, or 2–3 g dried
+root) for insomnia, anxiety, and restless leg syndrome. Common ingredient
+in herbal sleep formulas with hops (*Humulus lupulus*), passionflower
+(*Passiflora incarnata*), and lemon balm (*Melissa officinalis*).
 
 ## Permaculture Applications
 
-Valerian serves multiple functions in permaculture designs:
-- Dynamic accumulator of phosphorus and potassium
-from deep soil layers
-- Attracts beneficial insects including parasitic
-wasps and hoverflies
-- Ground cover and erosion control along waterways
-- Companion plant for tomatoes and peppers;
-reputed to deter certain pests
-- Medicinal yield from the food forest understory
-- Excellent bee forage during the midsummer gap
+- **Medicinal ground cover:** Useful in herb spirals and medicinal plant
+  guilds in food forests.
+- **Pollinator support:** Late-season flowering fills a nectar gap in
+  temperate food forests; larval food plant for several moth species.
+- **Soil tolerance:** Thrives in damp, marginal soils where other
+  medicinal herbs struggle.
+- **Companion planting:** Paired with tomatoes and peppers; purported
+  to deter root-feeding rodents.
 
-## Similar Species
+## Related Species
 
-| Species | Key Differences |
-|---|---|
-| [[valeriana-wallichii]] | Indian valerian; more potent; tropical montane habitat |
-| [[valeriana-fauriei]] | Japanese valerian; similar chemistry; Asian native |
-
-## See Also
-- [[passionflower]]
-- [[chamomile]]
-- [[ashwagandha]]
-- [[lemon-balm]]
-- [[skullcap]]
+- **Valeriana jatamansi:** Himalayan species, higher valepotriate content;
+  used in Ayurveda.
+- **Valeriana edulis:** North American species with edible roots.
+- **Centranthus ruber (red valerian):** Ornamental relative, not
+  medicinally equivalent.

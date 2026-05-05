@@ -137,3 +137,6 @@ manifest in real-world outcomes.
 - [[fukuoka-natural-vs-scientific-farming]]
 - [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-mu-farming-epistemology]]
+- [[masanobu-fukuoka]] -- biography of the philosopher-farmer
+- [[natural-farming]] -- natural farming methods and practice
+- [[permaculture]] -- related design philosophy for sustainable systems

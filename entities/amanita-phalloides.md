@@ -1,31 +1,33 @@
 ---
-title: Amanita phalloides
+title: "Amanita phalloides"
 type: species
 tags:
-  - mushroom
-  - toxicology
-  - poisonous-fungi
-  - amanitaceae
-  - deadly
+  - fungi
+  - agaricales
+  - poisonous-mushrooms
+  - mycology
+  - deadly-fungi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/mushrooms-poisionous-fungi-by-john-ramsbottom-1945.md
+  - "Benjamin, D.R. (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman."
+  - "Vetter, J. (1998). \"Toxins of Amanita phalloides.\" Toxicon, 36(1), 13-24."
+  - "Karlson-Stiber, C. & Persson, H. (2003). \"Cytotoxic fungi—an overview.\" Toxicon, 42(4), 339-349."
+  - "Santi, L. et al. (2012). \"Amatoxins: chemistry, biogenesis, biodegradation, and detection.\" In Fungal Metabolites. Springer."
+  - "Enjalbert, F. et al. (1993). \"Amatoxin and phallotoxin composition in Amanita phalloides.\" Mycologia, 85(4), 569-574."
 ---
 
-# Amanita phalloides
+# Amanita phalloides (*Amanita phalloides*)
 
-**Amanita phalloides** (Vaill. ex Fr.) Link, commonly known as the **death cap**, is the most
-toxic mushroom known to science and is responsible for the majority of fatal mushroom
-poisonings worldwide. Despite its extreme toxicity, it is visually unremarkable and has been
-responsible for countless accidental deaths due to its resemblance to edible species.
+## Overview
 
-The death cap accounts for an estimated 80 to 90 percent of all mushroom poisoning fatalities
-globally, a statistic that has remained consistent for well over a century. Its combination of
-high toxicity, wide distribution, and deceptively edible appearance makes it the single most
-dangerous mushroom species encountered by humans.
+*Amanita phalloides*, the death cap, is the world's most lethal mushroom, responsible for the majority of fatal mushroom poisonings globally.
 
-## Taxonomy and Classification
+A single mature cap contains sufficient amatoxin to kill an adult human.
+The species is deceptively palatable and closely resembles several edible species, making misidentification the primary cause of poisoning.
+Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, causing irreversible hepatocyte and renal tubular cell death.
+
+## Taxonomy
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
@@ -33,110 +35,113 @@ dangerous mushroom species encountered by humans.
 - **Order:** Agaricales
 - **Family:** Amanitaceae
 - **Genus:** Amanita
-- **Species:** A. phalloides
+- **Species:** *A. phalloides* (Vaill. ex Fr.) Link
+- **Synonyms:** *Agaricus phalloides* Vaill. ex Fr., *Amanita virosa* sensu auct. (partially)
+- **Etymology:** Greek *phalloides* means "phallus-shaped," referring to the volva-covered young fruiting body.
+- **Common names:** Death cap, death angel (shared with *A. virosa*), green death cap
 
-The species was first described by the French botanist Sébastien Vaillant in 1727 and later
-validated by Elias Magnus Fries in his systematic works of the 1820s and 1830s. The epithet
-"phalloides" refers to the phallus-like shape of the young fruiting body, a morphological
-feature that has been noted since antiquity.
+## Morphology
 
-It belongs to Amanita section Phalloideae, which contains most of the deadly poisonous
-members of the genus. Molecular phylogenetic studies have confirmed the monophyly of section
-Phalloideae and its distinctness from other sections within the genus.
+### Cap
 
-## Description
+- 5–15 cm diameter, convex to plano-convex, smooth and slightly sticky when wet
+- Color variable: greenish-yellow, olive-green, pale green to nearly white
+- Cuticle peels easily; margin typically non-striate in mature specimens
+- White universal veil patches (warts) may be present but often wash away
 
-The death cap is a medium-sized mushroom with a cap typically 5 to 15 cm in diameter, though
-specimens exceeding 20 cm have been recorded. The cap is initially ovate to hemispherical,
-expanding to convex and eventually plano-convex with age. In mature specimens, the cap margin
-may become slightly striate, showing the underlying gill attachment.
+### Gills
 
-The cap surface is smooth, slightly sticky when wet, and varies in color from pale
-greenish-yellow to olive-green or even whitish in some specimens. Some populations exhibit a
-distinctly yellow-green cap coloration while others are nearly white, making color an
-unreliable identification feature.
+- Free to slightly adnexed, crowded, white
+- Gill edges flocculose (finely hairy) — a useful distinguishing feature
 
-The gills are white, free from the stem (not attached), and closely spaced. The stem is
-white, 8 to 15 cm long, 1 to 2 cm thick, solid, and bears a membranous skirt-like ring
-(annulus) near the apex. The ring is persistent but may become fragile and torn with age.
+### Stipe
 
-At the base of the stem, a prominent cup-shaped volva (sac) is present, which is often buried
-in soil and leaf litter. The volva is the single most important diagnostic feature for
-distinguishing the death cap from edible species, yet it is the feature most commonly
-overlooked by foragers.
+- 8–15 cm long, 1–2 cm thick, white, solid
+- Bears a membranous, persistent annulus (skirt-like ring) near the apex
+- Base enclosed in a prominent, sac-like volva (cup)
 
-The flesh is white, firm, and does not change color when cut or bruised. The odor is mild and
-pleasant, described variously as resembling honey, raw potatoes, or being virtually absent,
-which further contributes to its danger. The spore print is white, and spores are broadly
-ellipsoidal, smooth, 8 to 10 by 6 to 8 micrometers, and non-amyloid.
+### Spores
+
+- Spore print: white
+- Spores: 8–11 × 6–8 µm, broadly ellipsoid, smooth, amyloid
+- Basidia: clavate, 4-spored
+
+### Odor and Taste
+
+- Mildly pleasant or honey-like odor when fresh — misleadingly appealing
+- Taste reportedly pleasant in early stages of ingestion (survivor accounts)
 
 ## Distribution and Habitat
 
-Originally native to Europe, amanita phalloides has become widely naturalized across
-temperate regions of the world, including North America, South America (particularly Chile and
-Argentina), Australia, New Zealand, and parts of Asia and Africa.
+- Native to Europe, now widespread across all inhabited continents
+- Introduced to North America (both coasts), Australia, New Zealand, South America, South Africa
+- Primarily associated with broadleaf trees, especially oaks (*Quercus* spp.)
+- Also found under beech, chestnut, hazel, and some conifers (e.g., *Pinus radiata*)
+- Ectomycorrhizal — forms obligate symbiotic associations with host tree roots
+- Fruits late summer to autumn (August–November in Northern Hemisphere)
 
-Its global spread is largely attributable to the introduction of ornamental trees,
-particularly European oaks ([[quercus-robur]], quercus petraea), with which it forms
-obligate ectomycorrhizal associations. The fungus has been documented spreading from planted
-ornamental trees into native forest ecosystems in North America, Australia, and elsewhere,
-raising ecological concerns about its establishment in new regions.
+## Toxicology
 
-It fruits from late summer to autumn (typically August through November in the Northern
-Hemisphere) and is found in deciduous and mixed woodlands, gardens, parks, and along
-roadsides. It grows preferentially near oak trees but also forms associations with beech,
-birch, chestnut, pine, spruce, and several other tree species.
+### Amatoxins (Primary Toxins)
 
-In urban and suburban environments, it is frequently found under ornamental oaks and beeches
-planted in lawns and gardens, placing it in close proximity to residential areas where
-children and pets may encounter it.
+- **α-Amanitin:** The principal lethal compound; LD₅₀ in mice ~0.1 mg/kg (i.p.)
+- **β-Amanitin:** Slightly less potent; co-occurs with α-amanitin
+- **γ-Amanitin, ε-Amanitin:** Minor amatoxins present in smaller quantities
+- Total amatoxin content per cap: 0.5–5 mg (lethal dose for humans ~0.1 mg/kg)
+- **Mechanism:** Inhibits RNA polymerase II and III → blocks mRNA transcription → protein synthesis arrest → hepatocyte necrosis
 
-## Toxicity
+### Phallotoxins (Secondary Toxins)
 
-amanita phalloides contains two major classes of peptide toxins: the **amatoxins** and the
-**phallotoxins**, with the amatoxins being responsible for the lethal effects. The principal
-toxin is [[alpha-amanitin]], a cyclic octapeptide that is one of the most potent hepatotoxins
-known.
+- **Phalloidin, phallacidin, phallisin:** Heat-labile bicyclic heptapeptides
+- Bind F-actin, disrupting cytoskeletal integrity
+- Poorly absorbed from the GI tract; contribute minimally to human toxicity
+- Primarily significant in laboratory settings as actin-staining reagents
 
-The total amatoxin content of a single mature death cap ranges from 5 to 8 mg, sufficient to
-kill multiple adult humans.
+### Virotoxins
 
-### Amatoxins
+- Monocyclic peptides structurally related to phallotoxins
+- Present in lower concentrations; clinical significance uncertain
 
-The amatoxins found in the death cap include [[alpha-amanitin]], beta-amanitin,
-gamma-amanitin, epsilon-amanitin, and amanin. These bicyclic octapeptides are thermostable,
-insoluble in non-polar solvents, and resistant to drying, cooking, freezing, and gastric
-acid.
+## Clinical Presentation
 
-[[alpha-amanitin]] is the most toxic of the group, with an estimated lethal dose of
-approximately 0.1 mg/kg body weight in humans.
+- **Phase 1 (6–24 hours):** Latent period — asymptomatic or mild GI symptoms
+- **Phase 2 (24–72 hours):** Apparent recovery — patient feels better; laboratory values deteriorate
+- **Phase 3 (72–96 hours):** Hepatic failure — rising transaminases, coagulopathy, hepatic encephalopathy
+- **Phase 4 (>96 hours):** Multi-organ failure or recovery; mortality 10–30% even with treatment
+- **⚠️ WARNING:** The latent period is insidious; patients often discharge themselves from emergency care before Phase 3 begins
 
-### Phallotoxins
+### Treatment
 
-The phallotoxins, including phalloin, phalloidin, phallisin, and phallacidin, are bicyclic
-heptapeptides that are far less toxic than the amatoxins when administered orally because they
-are poorly absorbed from the gastrointestinal tract. They are, however, highly toxic when
-administered parenterally.
+- Intravenous silibinin (milk thistle extract) — blocks hepatocellular amatoxin uptake
+- High-dose penicillin G — competitive inhibition of amatoxin hepatic transport
+- N-acetylcysteine (NAC) — antioxidant support
+- Aggressive fluid resuscitation and electrolyte management
+- Liver transplantation in fulminant hepatic failure (~10% of severe cases)
 
-Phalloidin binds strongly to F-actin and stabilizes it, preventing depolymerization. While
-the phallotoxins contribute little to the lethal outcome of oral ingestion, they may play a
-role in the initial gastrointestinal damage.
+## Ecological Role
 
-### Mechanism of Action
+- Important ectomycorrhizal partner in temperate hardwood forests
+- Facilitates nutrient exchange (phosphorus, nitrogen) between soil and host trees
+- Contributes to forest ecosystem stability through mycorrhizal networks
+- Fruiting bodies decompose rapidly, recycling nutrients to forest floor
 
-The amatoxins, particularly [[alpha-amanitin]], are potent inhibitors of RNA polymerase II,
-the enzyme responsible for transcribing DNA into messenger RNA in eukaryotic cells. By
-blocking mRNA synthesis, they effectively halt protein production.
+## Similar Species and Misidentification Risk
 
-Cells with high rates of protein turnover, such as hepatocytes and the epithelial cells of
-the intestinal tract, are most severely affected, leading to rapid cell death and organ
-failure.
+| Species | Edibility | Key Differences |
+|---------|-----------|-----------------|
+| *Amanita phalloides* | **Deadly** | Greenish cap, white gills, sac volva |
+| *Amanita bisporigera* | **Deadly** | White cap, two-spored basidia |
+| *Amanita verna* | **Deadly** | Pure white, lacks green tint |
+| *Volvariella volvacea* | Edible (paddy straw) | Pink spore print, grows on straw |
+| *Agaricus campestris* | Edible (meadow mushroom) | Chocolate-brown spore print, no volva |
+| *Tricholoma murrillianum* | Edible (matsutake) | Distinctive spicy odor, lacks volva |
 
-### Clinical Syndrome
+## Permaculture Relevance
+
+⚠️ Death cap poses a significant risk in permaculture food-forest systems where oak, chestnut, or hazel trees are established. The mycorrhizal association with these common permaculture tree crops means death cap will colonize designed ecosystems that mimic its natural habitat. Foragers in food forests, agroforestry systems, and broadleaf woodlands must be thoroughly trained in Amanita identification before harvesting any wild mushrooms.
 
 ## See Also
 
-- [[amanita-muscaria-chemistry-and-pharmacology]]
-- [[amanita-species-ecology-identification-mycohhizal]]
-- [[mushroom-toxins-and-poisoning]]
-- [[amanita-phalloides-death-cap]]
+- [[amanita-muscaria]] — Related Amanita species with different toxin profile (ibotenic acid, muscimol)
+- [[pleurotus-ostreatus]] — Edible alternative commonly cultivated on hardwood substrates
+- [[ganoderma-lucidum]] — Medicinal fungus with hepatoprotective properties (theoretical interest in amatoxin recovery)

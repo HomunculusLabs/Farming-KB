@@ -12,6 +12,7 @@ tags: [fukuoka, vegetables]
 
 ## The Natural Rotation Principle
 
+[[fukuoka-four-principles-natural-farming]] form the foundation of this approach.
 Ideally, crops should be left in nature's care and allowed to grow in an
 almost natural state rather than being grown under artificial conditions by
 man solely for his own purposes. Crops know where, when, and how to grow. By
@@ -30,7 +31,8 @@ application, and weeding.
 
 What Fukuoka means by the "semi-wild" cultivation of vegetables is a method of
 simply scattering vegetable seed in fields, orchards, on earthen levees, or on
-any open, unused land. For most vegetables, mixed sowing with [[white-clover-living-mulch]]
+any open, unused land. This approach is part of the broader [[natural-farming-no-till-method]]
+philosophy. For most vegetables, mixed sowing with [[white-clover-living-mulch]]
 gradually gives a vegetable garden with a cover of clover. For broader soil-building context, see [[fukuoka-straw-soil-building]].
 The idea is to pick
 a good time during the sowing season and either scatter or drill a seed
@@ -141,6 +143,7 @@ eggplant, potato, red pepper).
 
 ## Natural Pest Control Methods
 
+[[fukuoka-straw-pest-control-natural-balance]] describes additional natural methods.
 As an additional precaution, Fukuoka recommended planting pyrethrum and derris
 root at the edge of the garden. Pyrethrum flowers and derris root may be dried
 and stored as powders. Pyrethrum is effective against aphids and caterpillars,
@@ -159,3 +162,7 @@ eggs, providing natural pest regulation.
 - [[fukuoka-semi-wild-vegetable-growing-techniques]] — detailed semi-wild methods
 - [[fukuoka-vegetable-growing-natural-method]] — additional natural vegetable approaches
 - [[fukuoka-clover-and-green-manure-cropping]] — clover and green manure systems
+- [[fukuoka-natural-farming-philosophy]] — philosophical foundations of natural farming
+- [[fukuoka-rice-and-barley-natural-farming]] — grain production without tillage
+- [[natural-farming-no-till-method]] — no-till principles and practices
+- [[cover-cropping-natural-farming]] — cover crop systems for soil health

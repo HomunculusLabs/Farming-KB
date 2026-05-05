@@ -1,150 +1,139 @@
 ---
-title: Ibogaine
+title: "Ibogaine"
 type: chemical
-tags: [psychedelic, tryptamine, addiction-treatment, iboga, oneirogenic, entheogen, anti-addictive, alkaloid, kappa-opioid, cardiotoxic, neuroplasticity, scheduled-substance, tabernanthe-iboga, gabon]
+tags:
+  - psychedelic
+  - tryptamine
+  - oneirogen
+  - anti-addictive
+  - iboga
+  - tabernanthe
+  - alkaloid
+  - schedule-i
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://pubmed.ncbi.nlm.nih.gov/ (clinical ibogaine research)
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322874/
-  - https://pubmed.ncbi.nlm.nih.gov/29264187/
-  - https://www.fda.gov/drugs/drug-safety-and-availability
-  - https://www.unodc.org/unodc/en/drug-scheduling/
-  - https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5828a2.htm
+  - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Heffter Review
+    of Psychedelic Research, 2, 17-27.
+  - Mash, D.C. et al. (2000). "Ibogaine: Complex Pharmacokinetics, Common
+    Effects." Journal of Ethnopharmacology, 71(1-2), 275-283.
+  - Lotsof, H.S. (1995). "Ibogaine in the Treatment of Chemical
+    Dependence." The Ibogaine Story. Lotsof & Wachtel.
+  - Popik, P. et al. (1995). "Mechanisms of Action of Ibogaine."
+    Pharmacology Biochemistry and Behavior, 51(2-3), 559-566.
+  - Glick, S.D. et al. (2001). "Ibogaine: Antiaddictive and
+    Antiwithdrawal Effects." Handbook of Experimental Pharmacology,
+    Vol. 154.
 ---
+
 # Ibogaine
 
-## Overview
+Ibogaine is a naturally occurring psychoactive indole alkaloid classified as
+a tryptamine derivative and the primary active constituent of *Tabernanthe
+iboga*, a perennial shrub native to West Central Africa. It has been used for
+centuries in the Bwiti spiritual tradition and is unique among psychedelics
+for its capacity to interrupt opioid and stimulant dependence after a single
+administration, producing prolonged reduction in craving and withdrawal.
 
-**Ibogaine** is a naturally occurring psychoactive indole alkaloid of the tryptamine class, derived from the root bark of the West African shrub *Tabernanthe iboga*. Classified as a **oneirogenic** (dream-inducing) psychedelic, it produces a prolonged waking dream state lasting 12–36 hours. Ibogaine is unique among psychedelics for its reported capacity to interrupt substance dependence — many users report dramatic reduction or elimination of opioid withdrawal and craving after a single administration.
+## Chemical Properties
 
-Despite over three decades of observational evidence, ibogaine remains poorly studied in controlled settings due to its cardiotoxic risk and legal restrictions. It is Schedule I in the United States, though unregulated or available by prescription in several nations.
-
-## Chemical Identity
-
-- **IUPAC Name:** (12S,12aR)-12-ethyl-6,6a,7,8,9,10,12,12a-octahydro-1-methoxy-2-methylindolo[2,3-a]quinolizin-12-ol
-- **Molecular Formula:** C₂₀H₂₆N₂O
-- **Molecular Weight:** 310.43 g/mol
-- **CAS Number:** 83-74-9
-- **Appearance:** White to off-white crystalline powder
-- **Melting Point:** 152–153°C (hydrochloride salt)
-- **Solubility:** Soluble in ethanol, chloroform, dilute acids; poorly soluble in water
-
-Complex polycyclic indole alkaloid with a fused isoquinuclidine-indole ring system. Structurally related to voacangine, ibogamine, and tabernanthine.
+- **Chemical class:** Indole alkaloid (iboga-type)
+- **IUPAC name:** (2R,5S,7S,8S,9S,10S)-7-ethyl-8,9-dihydroxy-5,6,7,8,
+  9,10-hexahydro-2-methyl-1H-3,7-methano[1,3]benzodioxolo[6,5,4-de]
+  quinolizin-12-one
+- **Molecular formula:** C₂₀H₂₆N₂O
+- **Molecular weight:** 310.43 g/mol
+- **CAS number:** 83-74-9
+- **Appearance:** White to tan crystalline powder
+- **Melting point:** 152–153°C
+- **Solubility:** Soluble in ethanol, DMSO, dilute acids; poorly soluble
+  in water
 
 ## Pharmacology
 
-Ibogaine exhibits broad activity across multiple receptor systems:
-- **5-HT₂A receptor:** Weak partial agonist — contributes to oneirogenic effects with lower affinity than classical psychedelics
-- **NMDA receptor:** Potent antagonist — blocks glutamatergic excitotoxicity; may contribute to anti-craving
-- **Kappa opioid receptor (KOR):** Agonist — produces aversive conditioning against drug-seeking
-- **Mu/delta opioid receptors:** Weak agonist/partial agonist — may suppress opioid withdrawal
-- **Sigma-2 receptor:** High affinity — modulates neuroplasticity and calcium signaling
-- **hERG potassium channel:** Potent blocker — primary mechanism of cardiotoxicity (QT prolongation)
-- **Serotonin transporter (SERT):** Inhibitor (primarily via noribogaine metabolite)
+Ibogaine has a complex polypharmacological profile distinct from classical
+psychedelics like psilocybin or LSD.
 
-### Active Metabolite: Noribogaine
+- **5-HT₂A:** Weak partial agonist — insufficient to account for full
+  psychedelic effect.
+- **NMDA receptor:** Potent antagonism, contributing to dissociative and
+  oneirogenic effects and anti-addictive mechanisms.
+- **κ-opioid receptor:** Agonism produces dysphoric effects; implicated in
+  the anti-addictive reset mechanism.
+- **µ-opioid receptor:** Mixed agonist/antagonist mediates opioid
+  withdrawal interruption.
+- **SERT:** Serotonin reuptake inhibition contributes to mood effects.
+- **hERG channel:** Potassium channel blockade (I_Kr) produces QT
+  prolongation — the primary cardiovascular safety concern.
+- **Noribogaine (metabolite):** Formed via CYP2D6 O-demethylation.
+  Half-life 28–49 hours (vs. 1.5–7 hours for ibogaine). Potent µ-opioid
+  agonist; responsible for sustained anti-addictive effects.
 
-Noribogaine (12-hydroxyibogamine), produced via CYP2D6-mediated O-demethylation, is the primary active metabolite. It has a significantly longer half-life and may be primarily responsible for sustained anti-addictive effects. Retains activity at mu and kappa opioid receptors with greater SERT potency.
+## Effects
 
-## Source Plant
+- **Dose ranges:** Microdose (1–5 mg), psychotropic (10–20 mg),
+  flood dose (15–25 mg/kg).
+- **Onset:** 1–3 hours oral.
+- **Acute phase:** 4–8 hours of intense oneirogenic (waking dream)
+  experience with panoramic autobiographical memory review.
+- **Total duration:** 12–36 hours with residual after-effects 24–72 hours.
+- **Phases:** Acute visionary phase → evaluative/cognitive processing →
+  residual stimulation with heightened introspection and reduced craving.
 
-### *Tabernanthe iboga*
+## History
 
-- **Family:** Apocynaceae (dogbane family)
-- **Description:** Evergreen perennial shrub, 1–2 m tall, glossy oblong leaves, small yellowish-white flowers
-- **Habitat:** Native to rainforests of West-Central Africa — Gabon, Cameroon, Republic of Congo
-- **Part Used:** Dried root bark (highest alkaloid concentration)
-- **Ibogaine content:** 1–5% of root bark dry weight; ~80% of total alkaloids
-- **Other alkaloids:** Ibogamine, tabernanthine, voacangine, ibogaline
+First isolated from *T. iboga* root bark in 1901 by Édouard Landrin.
+Briefly marketed in France as Lambarene (neuromuscular stimulant) in the
+1930s before withdrawal due to safety concerns.
 
-Related species: *Voacanga africana* (seeds contain voacangine, an ibogaine precursor).
+Anti-addictive properties discovered in 1962 by Howard Lotsof, a 19-year-old
+heroin user who observed that a single experience eliminated his withdrawal
+and craving. Lotsof spent decades advocating for clinical development and
+held multiple treatment patents.
 
-## History & Traditional Use
+In Gabon, iboga root bark has been used for centuries in the Bwiti religion
+as a rite-of-passage sacrament, healing ceremony, and divinatory tool.
 
-### Bwiti Religion (Gabon)
+## Synthesis and Sources
 
-Iboga has been used for centuries by indigenous peoples of the Congo Basin, most significantly within the **Bwiti** religion of the Fang, Mitsogo, and Punu peoples. Large doses are consumed during **nzamba** initiation ceremonies (1–3 days continuous use), understood as a journey to the land of the ancestors for spiritual guidance. Lower doses are used in communal ceremonies, divination, healing, and hunting. Iboga is a sacred sacrament central to Bwiti cosmology; Bwiti has been an official religion in Gabon since the 1960s.
+- **Natural extraction:** Ibogaine constitutes 1–6% of dried *T. iboga*
+  root bark; total alkaloid extracts ~15–20% ibogaine.
+- **Semi-synthetic:** Noribogaine via O-demethylation; total synthesis exists
+  but is commercially impractical.
+- **Plant sources:** *Tabernanthe iboga* (primary), *Voacanga africana*
+  (bark, 0.5–1%), *Tabernanthe laevis*.
+- **Underground production:** Extraction operations supply unregulated
+  treatment clinics in Mexico, Costa Rica, and Europe.
 
-### Western Discovery
+## Legal Status
 
-- **1864:** First isolated by Édouard Heckel; **1901:** named ibogaine by Dybowski and Landrin
-- **1930s–1950s:** Sold in France as **Lambarene** (neuromuscular stimulant)
-- **1962:** Howard Lotsof discovered ibogaine's anti-addictive effects after it eliminated his heroin withdrawal
-- **1985:** Lotsof secured US Patent 4,499,096 for ibogaine in addiction treatment
-- **1993:** FDA granted Phase I IND, but the study was never completed
+Schedule I in the United States; listed under the UN Convention on
+Psychotropic Substances (1971) as Schedule I. Illegal in Belgium, France,
+Switzerland, Sweden. Unregulated or decriminalized in Brazil, New Zealand,
+Canada, Portugal, South Africa.
 
-## Mechanism of Action
+A global network of unregulated treatment clinics operates primarily in
+Mexico, Costa Rica, Brazil, and the Netherlands, treating an estimated
+1,000–2,000 patients annually for opioid, stimulant, and alcohol dependence.
 
-### Addiction Interruption
+## Safety and Toxicology
 
-Ibogaine's anti-addictive mechanism is multifactorial: (1) mu opioid partial agonism alleviates withdrawal while KOR agonism produces aversive conditioning; (2) NMDA antagonism resets aberrant glutamatergic signaling; (3) GDNF upregulation in the ventral tegmental area restores dopaminergic function; (4) noribogaine's SERT inhibition provides antidepressant support; (5) the oneirogenic dream state facilitates processing of traumatic memories relevant to addiction.
+- **Cardiovascular risk:** QT prolongation (QTc >500 ms in some patients),
+  risk of torsades de pointes. Pre-treatment ECG and continuous cardiac
+  monitoring are standard.
+- **Contraindications:** Cardiac arrhythmia, prolonged QT, hepatic
+  impairment, active psychosis, concurrent QT-prolonging medications.
+- **Fatalities:** 19+ deaths reported (1990–2008), primarily cardiac in
+  origin, mostly involving pre-existing conditions or contraindicated
+  concurrent medications.
+- **Therapeutic index:** Narrow margin between therapeutic and toxic doses.
 
-### Neuroplasticity
+## Related Compounds
 
-Ibogaine and noribogaine promote structural neuroplasticity through upregulation of GDNF and BDNF, increased dendritic spine density in cortical neurons, mTOR signaling modulation, and enhanced synaptic markers (GAP-43, synapsin).
-
-## Clinical Research
-
-### Opioid Dependence
-
-The strongest evidence base exists for opioid use disorder. Multiple open-label studies report 50–80% of patients achieving sustained abstinence after single treatment. A Mexico cohort (2007) found 75% heroin-free at 30 days and 62% at 90 days. New Zealand clinic data (2012–2017) showed significant reductions at 1- and 3-month follow-up. No randomized controlled trials completed as of 2026.
-
-### Alcohol and PTSD
-
-Anecdotal reports suggest reduced alcohol craving via KOR agonism and SERT inhibition. The oneirogenic state may facilitate trauma processing. No formal trials exist for either indication. Key limitations include absence of RCTs, small sample sizes, publication bias, and ethical challenges.
-
-## Pharmacokinetics
-
-| Parameter | Value |
-|-----------|-------|
-| Route | Oral (primary), intravenous |
-| Onset | 1–3 hours (oral) |
-| Peak plasma | 2–4 hours |
-| Ibogaine half-life | 4–7 hours |
-| Noribogaine half-life | 24–49 hours (persists days) |
-| Acute effects duration | 12–36 hours |
-| Aftereffects | Days to weeks (noribogaine) |
-| Metabolism | Hepatic, CYP2D6 |
-| Excretion | Renal and fecal |
-
-CYP2D6 polymorphism significantly affects metabolism. Poor metabolizers convert more slowly, altering efficacy and safety. CYP2D6 inhibitors (paroxetine, fluoxetine, bupropion, quinidine) increase cardiotoxicity risk.
-
-## Safety & Risks
-
-### Cardiotoxicity
-
-Ibogaine carries well-documented risk of **fatal cardiac arrhythmias**. hERG channel blockade prolongs QT interval, risking torsades de pointes and ventricular fibrillation. Over 30 fatalities reported since the 1990s, many involving pre-existing cardiac conditions, concurrent methadone, or inadequate screening.
-
-### Contraindications
-
-Long QT syndrome (personal/family), pre-existing cardiac disease, concurrent QT-prolonging drugs (methadone, antipsychotics, macrolides), active opioid intoxication, severe hepatic impairment, pregnancy, CYP2D6 poor metabolizer status.
-
-### Non-Cardiac Risks
-
-Severe ataxia and nausea/vomiting (aspiration risk), psychological distress, rare seizures, hepatotoxicity (elevated LFTs), rare mania/psychosis in predisposed individuals.
-
-### Required Monitoring
-
-Pre-treatment ECG (QTc <440ms men / <450ms women), liver function tests, electrolytes, continuous ECG telemetry during treatment, emergency equipment on site, 24–48 hour post-treatment cardiac monitoring.
-
-## Legal Status (2026)
-
-| Jurisdiction | Status |
-|-------------|--------|
-| United States | Schedule I |
-| United Nations | Not internationally scheduled |
-| France/Belgium/Switzerland/Sweden | Banned or scheduled |
-| United Kingdom | Class A |
-| Australia | Schedule IV (limited prescription) |
-| New Zealand | Prescription (Section 29) |
-| Brazil/Gabon/Cameroon/Costa Rica/Mexico/South Africa/Netherlands | Unregulated |
-
-Absence of UN scheduling means legal status varies widely. Several nations with active clinics operate in unregulated environments.
-
-## See Also
-
-- [[dmt]] — structurally related tryptamine psychedelic
-- [[psilocybin]] — comparison of tryptamine psychedelics
-- [[mescaline]] — comparison of plant-derived psychedelics
-- [[ketamine]] — comparison of addiction-interrupting NMDA antagonists
+- **Noribogaine:** Active metabolite, longer-acting, primary mediator of
+  sustained anti-addictive effects.
+- **18-Methoxycoronaridine (18-MC):** Synthetic analogue developed as
+  safer anti-addictive with reduced cardiotoxicity; in clinical trials
+  for opioid use disorder.
+- **Tabernanthine:** Minor iboga alkaloid with stimulant properties.
+- **Ibogamine:** Less potent at NMDA and opioid receptors.

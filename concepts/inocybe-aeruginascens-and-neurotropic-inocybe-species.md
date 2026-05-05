@@ -23,9 +23,9 @@ neurotropic fungi. As members of the family Cortinariaceae, Inocybe
 species are not visually associated with the typical "magic mushroom"
 morphotype, lacking the bluing reaction characteristic of most
 psilocybin-containing fungi. Yet several Inocybe species have been
-confirmed to contain psilocybin, psilocin, and related indole
+confirmed to contain [[psilocybin]], [[psilocin]], and related indole
 alkaloids, making them important but often overlooked members of the
-neurotropic mycoflora.
+[[neurotropic-fungi|neurotropic mycoflora]].
 
 ## The Genus Inocybe
 
@@ -38,12 +38,12 @@ genus is characterized by:
 - Fibrous or scaly pileus surface
 - Presence of a cortina (partial veil) in many species
 - Typically dull brown spore prints
-- Association with ectomycorrhizal tree roots
+- Association with [[ectomycorrhizal-fungi|ectomycorrhizal]] tree roots
 
 Most Inocybe species are mycorrhizal associates of trees, particularly
 in the families Pinaceae, Fagaceae, and Betulaceae. This ecological
 role distinguishes them from most other neurotropic fungi, which tend
-to be saprotrophic or coprophilous.
+tend to be [[saprotrophic-fungi|saprotrophic]] or [[coprophilous-fungi-biodiversity-indicators|coprophilous]].
 
 ## Neurotropic Inocybe Species
 
@@ -64,8 +64,8 @@ through the work of German mycologists and chemists.
   reaction, though some collections may show slight greenish-blue
   discoloration.
 
-- **Chemical constituents**: Contains psilocybin, psilocin, and
-  baeocystin. Gartz (1985a, 1986a, 1986b, 1986d, 1987a, 1989a, 1995b,
+- **Chemical constituents**: Contains [[psilocybin]], [[psilocin]], and
+  [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis|baeocystin]]. Gartz (1985a, 1986a, 1986b, 1986d, 1987a, 1989a, 1995b,
   1996) conducted extensive chemical analyses of German collections,
   documenting the indole alkaloid profile.
 
@@ -173,7 +173,7 @@ The neurotropic Inocybe species are significant for several reasons:
    patterns and chemical ecology.
 
 2. **Toxicity concern**: Inocybe species as a genus include many
-   species that contain dangerous toxins (particularly muscarine),
+   species that contain dangerous toxins (particularly [[muscarine]]),
    unrelated to psilocybin. The presence of both neurotropic and
    toxic compounds in the same genus creates a significant
    identification challenge. Misidentification of a toxic Inocybe
@@ -222,7 +222,10 @@ Inocybe species:
 
 ## See Also
 
-- [Guzmán Allen Gartz Neurotropic Inocybe Species](guzman-allen-gartz-neurotropic-inocybe-species.md)
-- [Neurotropic Fungi Classification](neurotropic-fungi-classification.md)
-- [Challenges in Neurotropic Fungi Chemical Analysis](challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification.md)
-- [European Neurotropic Fungi](guzman-allen-gartz-neurotropic-fungi-europe.md)
+- [[guzman-allen-gartz-neurotropic-inocybe-species]] -- taxonomy and distribution of neurotropic Inocybe
+- [[neurotropic-fungi-classification]] -- classification of all neurotropic fungi
+- [[guzman-allen-gartz-neurotropic-fungi-europe]] -- European neurotropic fungi distribution
+- [[psilocybin-bluing-reaction]] -- why most psilocybin fungi bruise blue, unlike Inocybe
+- [[neurotropic-fungi]] -- overview of all neurotropic fungal genera
+- [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] -- indole alkaloid biosynthesis
+- [[inocybe-aeruginascens-profile]] -- detailed species profile

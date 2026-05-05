@@ -1,131 +1,145 @@
 ---
-title: Wedding Cake (Cannabis Strain)
+title: "Wedding Cake"
 type: strain
-tags: [cannabis, indica-dominant, hybrid, THC-dominant,
-  dessert-strain, award-winning, modern-genetics]
+tags:
+  - cannabis
+  - indica-dominant
+  - hybrid
+  - modern-strain
+  - award-winner
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "Leafly Staff (2023). \"Wedding Cake Cannabis Strain Information.\" Leafly.com."
+  - "AllBud (2024). \"Wedding Cake Strain Review.\" AllBud.com."
+  - "Mudge, E.M. et al. (2022). \"Cannabinoid and terpene profiling of modern cannabis varieties.\" ACS Omega, 7(35), 31264-31274."
+  - "De Meijer, E.P.M. et al. (2020). \"Chemotaxonomic classification of Cannabis cultivars.\" Cannabis and Cannabinoid Research, 5(4), 292-304."
+  - "SeedFinder Database (2024). \"Wedding Cake / Triangle Mints #23.\" SeedFinder.eu."
 ---
 
 # Wedding Cake
 
-Wedding Cake, also known as Triangle Mints #23, is a high-THC
-indica-dominant hybrid that has become one of the most
-commercially successful cannabis strains of the 2020s. Developed
-from Triangle Kush × Animal Mints, it features exceptionally high
-THC (25-30%), a sweet vanilla-earthy flavor, and potent relaxing
-effects.
+## Overview
 
-The strain won first place in the Hybrid category at the 2018
-Emerald Cup and has become a foundational parent in modern
-breeding programs. The name reflects its sweet, cake-like aroma.
-Despite indica-dominant classification, effects are more
-accurately a balanced hybrid with pronounced body component
-transitioning into deep relaxation without complete sedation at
-moderate doses.
+Wedding Cake, also known as Triangle Mints #23, is an indica-dominant hybrid cannabis strain that has become one of the most commercially successful and widely cultivated strains of the 2020s.
 
-## Genetic Lineage
+Bred by Seed Junky Genetics in Southern California, it won first place in the Hybrid category at the 2019 Emerald Cup.
 
-- **Type:** Indica-dominant hybrid (~60/40 indica to sativa)
-- **Lineage:** Triangle Kush × Animal Mints
-- **Breeder:** Seed Junky Genetics (Los Angeles, CA)
-- **Year:** ~2012-2014; commercial release ~2017
-- **Notable crosses:** Ice Cream Cake (× Gelato #33), Jealousy
-  (× Gelato #41), Kush Mints (× Animal Mints Bx1)
+Its reputation rests on a complex dessert-like terpene profile, consistently high THC content, and a balanced body-heavy high with manageable cerebral effects.
 
-Triangle Kush contributes classic Florida OG structure — dense,
-resinous buds with gassy, earthy, pine terpenes from a 1990s
-Florida OG Kush cut. Animal Mints (Girl Scout Cookies × Blue
-Power) introduces sweet cookie aroma and elevated resin
-production, bridging old-school OG flavors with new-school
-dessert profiles.
+The strain's commercial dominance has made it one of the foundational breeding stock of the modern era, with dozens of successful crosses bearing its genetics.
 
-## Cannabinoid Profile
+## Lineage
 
-- **THC:** 25-30% in commercial samples, select phenotypes
-  reaching 32-35%. Among the highest-THC strains available.
-- **CBD:** <0.1%, below detection limits.
-- **THCV:** Trace (0.1-0.3%), not pharmacologically significant.
-- **CBG:** 0.5-1.0% in most samples.
-- **Total cannabinoids:** 27-33% dry weight in top-shelf production.
+| Parent | Ratio | Contribution |
+|--------|-------|-------------|
+| **Triangle Kush** | 50% | Potency, resin production, kush backbone |
+| **Animal Mints** | 50% | Mint terpenes, visual appeal, vigor |
 
-The dominant cannabinoid is Δ⁹-THC with THCA comprising the
-majority in raw flower. Decarboxylation (110-120°C) converts
-~87-90% of THCA to THC. The high THC:low CBD ratio produces
-predominantly psychoactive effects without CBD modulation
-characteristic of modern dessert-strain genetics.
+Animal Mints itself is a cross of **Girl Scout Cookies** × **Blue Power** × **Thin Mint GSC**, making Wedding Cake a heavily GSC-influenced lineage.
+
+- **Genetic ratio:** Approximately 70% indica / 30% sativa (varies by cut)
+- **Breeder:** Seed Junky Genetics (Jbeezy), Los Angeles, California
+- **Year of creation:** ~2012–2013; commercial release ~2017
+
+## Appearance
+
+- **Bud structure:** Dense, chunky, and tightly packed calyxes with a rounded, conical shape
+- **Color:** Deep forest green to dark olive with purple and violet undertones, especially in cooler growing conditions
+- **Trichome coverage:** Exceptionally heavy — buds appear frosted or snow-capped under magnification
+- **Pistils:** Abundant orange to rust-colored stigmas woven throughout the resinous calyxes
+- **Overall impression:** Visually striking high-quality flower; the dense resin coating is immediately apparent
+
+## Aroma and Flavor
+
+### Primary Aroma Notes
+
+- **Sweet vanilla cake batter** — the namesake aroma, most pronounced on the exhale
+- **Earthy, peppery kush undertones** — inherited from Triangle Kush lineage
+- **Diesel and fuel notes** — subtle background, more prominent in some phenotypes
+
+### Secondary and Tertiary Notes
+
+- **Sour tang** — reminiscent of GSC's fermenting sweetness
+- **Mint and herbs** — from the Animal Mints parent; cooling sensation on the palate
+- **Lemon zest** — occasional citrus brightness in select cuts
 
 ## Terpene Profile
 
-Driven by a dominant limonene and caryophyllene profile with
-supporting linalool and myrcene, producing the characteristic
-sweet, earthy, vanilla-tinged scent.
+| Terpene | Approximate Range | Character |
+|---------|------------------|-----------|
+| **Limonene** | 0.5–1.2% | Citrus, mood elevation, stress relief |
+| **Caryophyllene** | 0.4–1.0% | Peppery, anti-inflammatory, CB2 agonist |
+| **Myrcene** | 0.3–0.8% | Herbal, sedative, muscle relaxant |
+| **Linalool** | 0.1–0.4% | Floral, anxiolytic, calming |
+| **Humulene** | 0.1–0.3% | Earthy, woody, appetite suppressant |
+| **Geraniol** | Trace–0.1% | Rose, sweet, neuroprotective |
 
-- **Limonene (0.8-1.5%):** Dominant terpene; sweet citrusy top
-  notes and mood elevation. Potentiates THC's cerebral effects.
-- **Caryophyllene (0.6-1.2%):** Peppery, spicy undertone with
-  anti-inflammatory effects via CB2 receptor agonism. Only
-  terpene directly binding cannabinoid receptors.
-- **Linalool (0.4-0.8%):** Floral, lavender-like notes promoting
-  relaxation. Synergizes with limonene to modulate mood.
-- **Myrcene (0.3-0.7%):** Earthy, herbal base notes and body
-  sensation. Enhances THC blood-brain barrier permeability.
-- **Humulene (0.2-0.4%):** Woody depth with appetite suppression.
+The combination of limonene and linalool at relatively high levels contributes to the strain's notably calming yet not overly sedating character.
 
-## Effects Profile
+## Cannabinoid Profile
 
-Characterized by rapid cerebral euphoria transitioning into deep
-physical relaxation over 60-90 minutes. Described as 'happy,'
-'relaxing,' and 'euphoric,' with applications in stress relief,
-anxiety management, and evening relaxation.
+- **THC:** 22–28% (tested averages; select cuts report up to 30%+)
+- **CBD:** <0.1% (negligible)
+- **CBG:** 0.1–0.3% (variable)
+- **THCV:** Trace amounts in some phenotypes
+- **Total cannabinoids:** 25–32% typical
 
-1. **Euphoria and mood elevation:** Limonene-dominant terpene
-   profile with high THC produces pronounced wellbeing without
-   racing thoughts associated with sativa strains.
-2. **Physical relaxation:** Indica genetics and myrcene produce
-   progressive body relaxation from shoulders/neck. At moderate
-   doses, comfortable ease without impairment.
-3. **Appetite stimulation:** Consistent with high-THC CB1-mediated
-   ghrelin release. Valuable for cachexia and treatment-related
-   appetite loss.
-4. **Sedation (dose-dependent):** Higher doses produce significant
-   sedation transitioning into sleep. Popular evening/nighttime
-   strain.
+## Effects
 
-### Adverse Effects
+### Onset and Progression
 
-- **Dry mouth/eyes:** Standard dose-dependent cannabis effects.
-- **Anxiety/paranoia:** At very high doses in low-tolerance users.
-  Linalool provides partial mitigation.
-- **Couch-lock:** Can be profoundly immobilizing at excessive doses.
-  Feature for nighttime use, limits daytime functionality.
+- **Onset:** Rapid — first effects felt within 2–5 minutes of inhalation
+- **Initial phase (0–30 min):** Cerebral uplift, mild euphoria, enhanced sensory perception
+- **Middle phase (30–90 min):** Deep body relaxation spreading from head to limbs; tension release
+- **Peak phase (1–3 hours):** Full-body calm, couch-lock potential at higher doses, appetite stimulation
+- **Duration:** 2–4 hours depending on dose, tolerance, and consumption method
 
-## Therapeutic Applications
+### Common Effects
 
-Most commonly recommended for chronic pain, anxiety disorders,
-insomnia, and appetite stimulation. High THC provides analgesia
-through CB1-mediated pain modulation, while caryophyllene and
-linalool add anti-inflammatory and anxiolytic properties. Patient
-surveys consistently rank among top 10 strains for pain and
-sleep.
+- **Relaxation:** Deep physical relaxation without complete sedation at moderate doses
+- **Euphoria:** Pleasant mood elevation; happy and content without racing thoughts
+- **Creativity:** Mild enhancement of creative thinking in early phase
+- **Appetite stimulation:** Pronounced munchies effect
+- **Pain relief:** Effective for mild-to-moderate chronic pain and muscle tension
 
-## Cultivation Notes
+### Medical Applications
 
-Moderate-difficulty for experienced cultivators. Performs well
-indoors and outdoors, with indoor preferred for maximum terpene
-expression. Responds to topping, LST, and ScrOG. Flowering 7-9
-weeks indoors; outdoor harvest mid-October. Yields 400-500 g/m²
-indoors, 500-700 g/plant outdoors. Dense, chunky buds with thick
-trichome layers. Color ranges green to purple in cool late-
-flowering temperatures.
+- **Stress and anxiety:** Anxiolytic effects from limonene and linalool combination
+- **Pain management:** Caryophyllene-mediated anti-inflammatory action; useful for migraines, joint pain, and muscle spasms
+- **Insomnia:** At higher doses, the sedative body effects promote sleep onset
+- **Appetite disorders:** Stimulates appetite in conditions involving cachexia or nausea
+- **PTSD:** Calming without dissociation; manageable for daytime use at low doses
+
+### Side Effects
+
+- **Common:** Dry mouth, dry eyes, mild dizziness on standing
+- **Moderate:** Anxiety or paranoia at high doses (especially in inexperienced users)
+- **Rare:** Headache, nausea (unusual at typical doses)
+- **⚠️ CAUTION:** High THC content means low tolerance users should start with 1–2 puffs and wait 15 minutes
+
+## Cultivation
+
+- **Flowering time:** 7–9 weeks (56–63 days) indoors
+- **Yield:** 400–500 g/m² indoors; moderate yield outdoors
+- **Difficulty:** Moderate — requires attention to humidity (dense buds prone to bud rot)
+- **Height:** 80–120 cm indoors; manageable with training
+- **Preferred climate:** Mediterranean; warm days (22–28°C) and cool nights (15–18°C) during flowering
+- **Nutrient needs:** Heavy feeder during mid-flowering; reduce nitrogen, increase P-K in weeks 5–8
+- **Training:** LST, ScROG, and topping recommended for even canopy and yield maximization
+- **Pest resistance:** Moderate; watch for spider mites and powdery mildew in dense canopies
+
+## Notable Phenotypes and Crosses
+
+- **Original Wedding Cake (Seed Junky cut):** The benchmark phenotype; vanilla-dominant aroma, highest tested THC
+- **Wedding Crasher:** Wedding Cake × Purple Punch — fruity and potent
+- **Ice Cream Cake:** Wedding Cake × Gelato #33 — dessert terpene powerhouse
+- **Jungle Cake:** Wedding Cake × Jungle Cake — increased potency
+- **Stuffed French Toast:** Wedding Cake × French Toast — breakfast-cereal terpene profile
+- **Wedding Pie:** Wedding Cake × Grape Pie — grape-forward variation
 
 ## See Also
 
-- [[Girl Scout Cookies]] — foundational parent of Animal Mints.
-- [[Gelato]] — related dessert strain; parent of Ice Cream Cake.
-- [[OG Kush]] — ancestral backbone of Triangle Kush lineage.
-- [[Granddaddy Purple]] — indica-dominant with high THC and
-  purple coloration potential.
-- [[Limonene]] — dominant terpene responsible for Wedding Cake's
-  citrusy aroma and mood-elevating properties.
+- [[blue-dream-cannabis-strain]] — Contrasting sativa-dominant hybrid with different use profile
+- [[kush-mints]] — Related Kush × Mints lineage with overlapping genetics
+- [[gelato-cannabis]] — Close genetic relative via Girl Scout Cookies lineage

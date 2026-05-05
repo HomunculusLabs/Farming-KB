@@ -1,0 +1,148 @@
+---
+title: Alan Shoemaker and Ayahuasca Legal Incidents in Peru
+created: 2026-04-28
+updated: 2026-04-28
+sources:
+  - raw/papers/stuart-r-ayahuasca-tourism.md
+type: concept
+tags:
+  - ayahuasca
+  - legal
+  - peru
+  - alan-shoemaker
+  - drug-policy
+  - tourism
+---
+
+# Alan Shoemaker and Ayahuasca Legal Incidents in Peru
+
+The imprisonment of American ayahuasquero Alan
+Shoemaker in Peru stands as a notable incident in
+the broader story of ayahuasca's legal status in
+South America. R. Stuart's 2002 account briefly
+referenced this case while observing that Peruvians
+generally regard ayahuasca as an herbal tonic rather
+than an illegal drug.
+
+## Peru's Legal Relationship with Ayahuasca
+
+Peru occupies a unique position in global drug policy
+regarding ayahuasca. Despite the country's aggressive
+drug war targeting cocaine production and trafficking,
+ayahuasca is openly sold in markets, consumed in
+public ceremonies, and even endorsed by government
+officials. President Alejandro Toledo's participation
+in an ayahuasca ceremony exemplified the degree of
+official acceptance that the brew enjoys.
+
+This acceptance is rooted in ayahuasca's deep cultural
+significance. Indigenous and mestizo communities have
+used the brew for centuries, and its legitimacy is
+widely recognized across Peruvian society. Government
+tourist agencies sponsor ayahuasca festivals, treating
+the brew as a cultural asset rather than a controlled
+substance.
+
+The contrast with United States drug policy is stark.
+While Peru's drug war targets cocaine and marijuana,
+ayahuasca occupies a separate cultural category that
+insulates it from prohibition. Television shows in
+Peru portray marijuana as a "killer weed," yet
+ayahuasca remains freely available.
+
+## The Shoemaker Imprisonment
+
+Stuart reported that "a few years ago" before 2002,
+the American ayahuasquero Alan Shoemaker "was
+imprisoned in Peru for distributing ayahuasca."
+This incident appears to have been an isolated case
+rather than indicative of a broader legal crackdown
+on ayahuasca practitioners.
+
+The specific circumstances of Shoemaker's arrest
+are not detailed in Stuart's account, but the case
+raises important questions about the legal
+vulnerability of foreign practitioners operating
+in Peru. While ayahuasca itself is tolerated,
+the commercial distribution of the brew by a
+foreign national may have triggered enforcement
+that would not have been applied to a local
+practitioner.
+
+## Implications for Foreign Practitioners
+
+The Shoemaker case highlights a crucial distinction
+in Peruvian drug law: the legal status of ayahuasca
+as a cultural practice versus its status as a
+commercial product distributed by foreigners. While
+indigenous and mestizo practitioners face little
+legal risk, foreign nationals operating ayahuasca
+ceremonies or distributing the brew occupy a more
+precarious legal position.
+
+This vulnerability is particularly relevant given
+the growth of ayahuasca tourism. As more foreign
+practitioners establish operations in Peru, the
+potential for legal complications increases.
+Practitioners who fail to understand local legal
+nuances may find themselves in situations similar
+to Shoemaker's, regardless of the general
+permissiveness of Peruvian attitudes toward
+ayahuasca.
+
+## The Drug War Context
+
+Stuart's description of Peru's drug war environment
+provides important context for understanding the
+Shoemaker case. Cocaine traffickers regularly
+blocked the only road connecting Lima to several
+provinces, "no doubt abetted by corrupt politicians
+and military officials." The drug war was "in full
+force" during Stuart's visit in November 2001.
+
+This environment of aggressive enforcement against
+cocaine created conditions where ayahuasca
+practitioners could potentially be caught in the
+crossfire. Law enforcement officials focused on
+drug interdiction might not distinguish clearly
+between different psychoactive substances, particularly
+when foreign nationals are involved.
+
+## Lessons for Ayahuasca Tourism
+
+The Shoemaker incident offers several lessons for
+prospective ayahuasca tourists and practitioners.
+First, the legal environment is more complex than
+the general tolerance of ayahuasca might suggest.
+Second, foreign nationals face different legal
+standards than local practitioners. Third, the
+commercial dimension of ayahuasca distribution
+introduces legal risks that personal use does not.
+
+Stuart's characterization of the case as an
+"isolated incident" suggests that it should not
+deter responsible engagement with ayahuasca in
+Peru. However, it does underscore the importance
+of understanding local law and exercising caution
+when participating in or facilitating ayahuasca
+ceremonies as a foreign national.
+
+## Broader Legal Landscape
+
+The Peruvian context contrasts with the situation
+in other countries. In the United States, the
+Uniao do Vegetal won a Supreme Court case in 2006
+establishing the right to use ayahuasca in
+religious ceremonies. The Netherlands and several
+other European countries have grappled with similar
+questions. Peru's generally permissive approach
+represents one end of a spectrum of legal responses
+to ayahuasca use.
+
+## See also
+
+- [[peruvian-drug-war-and-ayahuasca-acceptance]]
+- [[ayahuasca-tourism-legal-status-by-country]]
+- [[sacramental-ayahuasca-legal-battles-united-states]]
+- [[entheogenic-syncretic-churches-brazil]]
+- [[ayahuasca-pharmacology]]

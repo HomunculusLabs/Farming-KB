@@ -128,3 +128,5 @@ salt marsh and estuarine decomposition processes.
 - [[acidophilic-alkalophilic-fungi]]
 - [[thermophilic-thermotolerant-fungi-ecology-isolation]]
 - [[fungal-competition-respiration-decomposition]]
+- [[aspergillus-fumigatus-population-genetics]] -- Aspergillus biology, a key osmophilic genus
+- [[penicillium-entity]] -- Penicillium, another major genus in low-aw foods

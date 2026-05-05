@@ -132,3 +132,7 @@ Compost decomposition produces significant heat. A compost pile reaches 140F (60
 [[faires-composting-toilets-and-humanure]], 
 
 [[natural-farm-composting-vermicomposting]]
+
+- [[soil-food-web-structure]] -- microbial ecology behind composting
+- [[composting]] -- composting science and methods
+- [[natural-farming]] -- broader context of chemical-free agriculture

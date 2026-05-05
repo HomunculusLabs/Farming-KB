@@ -1,25 +1,31 @@
 ---
-title: Stropharia rugosoannulata
+title: "Stropharia rugosoannulata"
 type: species
 tags:
   - fungi
   - edible-mushroom
   - permaculture
-  - soil-health
-  - companion-planting
+  - soil-remediation
+  - agroforestry
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Stropharia_rugosoannulata
-  - Paul Stamets, Mycelium Running (2005)
-  - https://www.fungi.com/stropharia-rugosoannulata
+  - "Stamets, P. (2005). Mycelium Running: How Mushrooms Can Help Save the World. Ten Speed Press."
+  - "Watling, R. & Turnbull, E. (1998). An A-Z of Mushroom Names. The Royal Botanic Garden Edinburgh."
+  - "Bissett, J. (1992). \"Stropharia rugosoannulata.\" In: The Mushroom Cultivator. Agarikon Press."
+  - "Cotter, T. (2013). Organic Mushroom Farming and Mycoremediation. Chelsea Green Publishing."
+  - "https://www.first-nature.com/fungi/stropharia-rugosoannulata.php"
 ---
 
-# Stropharia rugosoannulata
+# Stropharia rugosoannulata (Wine-Cap Mushroom)
 
-**Stropharia rugosoannulata**, commonly known as the **wine-cap mushroom**, **garden giant**, or **burgundy mushroom**, is a species of agaric fungus in the family Strophariaceae. It is one of the most popular edible mushrooms for permaculture and home cultivation due to its vigorous growth, culinary value, and compatibility with garden ecosystems.
+## Overview
 
-## Taxonomy and Etymology
+Stropharia rugosoannulata, commonly known as the wine-cap mushroom, garden giant, or king stropharia, is a large basidiomycete fungus prized for its edibility, ease of cultivation, and ecological utility in permaculture systems. Native to temperate regions of Europe and North America, it has become a cornerstone species in mycoforestry and garden-based mushroom cultivation.
+
+The species is distinguished by its imposing burgundy-to-wine-colored cap, which can reach 30 cm in diameter, and a distinctive membranous annulus (ring) on the stipe with a cogwheel or wrinkled upper surface — the origin of the epithet *rugosoannulata*.
+
+## Taxonomy
 
 - **Kingdom:** Fungi
 - **Division:** Basidiomycota
@@ -27,124 +33,103 @@ sources:
 - **Order:** Agaricales
 - **Family:** Strophariaceae
 - **Genus:** Stropharia
-- **Species:** S. rugosoannulata
+- **Species:** *S. rugosoannulata*
+- **Authority:** (Farlow ex Murrill) Noordel.
+- **Synonyms:** *Agaricus rugosoannulatus* Farlow ex Murrill (1922); *Naematoloma rugosoannulatum* (Farlow ex Murrill) Singer
+- **Etymology:** From Latin *rugosus* (wrinkled) + *annulata* (ringed), referring to the characteristic annulus
 
-The species was first described by mycologist Charles Horton Peck in 1872. The epithet *rugosoannulata* derives from Latin *rugosus* (wrinkled) and *annulatus* (ringed), referring to the wrinkled ring (annulus) on the stipe. The common name "wine-cap" refers to the rich burgundy-to-wine-red color of the young pileus (cap).
+## Morphology
 
-## Description
-
-**Cap**
-- Diameter 5–20 cm, hemispherical when young, expanding to broadly convex or plane
-- Surface smooth and slightly viscid when moist, often with adhering substrate debris
-- Color burgundy to wine-red in youth, fading to tan with age; margin inrolled, often with white veil remnants
+### Cap
+- Diameter 5–30 cm, convex when young, expanding to broadly convex or plano-convex
+- Surface smooth, hygrophanous; deep wine-red to burgundy when moist, fading to pale tan with age
+- Margin inrolled when young, often with white veil remnants
 
 ### Gills
-- Adnate to slightly decurrent, moderately close
-- Color initially pale gray, darkening to purplish-gray then nearly black with spore maturity
-- Edges often fringed and whitish
+- Adnate to adnexed, close to subdistant
+- Grayish-white when young, darkening to purplish-gray as spores mature
+- Spore print dark purplish-brown
 
 ### Stipe
-- Height 6–15 cm, thickness 1–3 cm
-- Solid, firm, white to pale cream
-- Partial veil leaves a prominent, thick, double-edged annulus that is characteristically wrinkled on the upper surface
-- Base often slightly thickened or bulbous
+- 5–15 cm long, 1–3 cm thick, solid and fibrous
+- White to pale cream, sometimes with wine-colored scales below the annulus
+- Partial veil leaves a prominent, persistent annulus with a wrinkled (cogwheel) upper surface
 
-### Spores and Flesh
-- Spore print dark purplish-brown to nearly black
-- Spores ellipsoid, smooth, 10–14 × 6–8 µm
-- Flesh white, firm, thick; mild cucumber-like odor
+### Flesh
+- White, firm, thick; does not change color on cutting
+- Odor mild, pleasant; taste mild to slightly nutty
+
+### Microscopic Features
+- Spores 12–16 × 7–9 µm, elliptical to amygdaliform, thick-walled, smooth
+- Cheilocystidia and pleurocystidia present, lageniform to ventricose
+- Clamp connections present at septa
 
 ## Distribution and Habitat
 
-- Native to Europe and parts of Asia, widely introduced across North America and Australia. Found naturally in:
-
-- Rich garden soils and compost heaps
-- Grasslands and meadows, especially near woody debris
-- Floodplain forests and riparian zones
-- Mulched landscape beds and wood chip paths
-- Straw bale gardens
-
-The species fruits prolifically from spring through autumn in temperate climates, with peak fruiting in warm, wet conditions following heavy rains.
+- Native to temperate and boreal forests of Europe and North America
+- Widely naturalized in temperate regions worldwide through cultivation escape
+- Grows on wood chips, straw, garden mulch, compost, and disturbed ground
+- Fruiting temperature range: 10–25°C; prefers 15–20°C
+- Found in gardens, parks, woodland edges, and along paths with woody debris
 
 ## Cultivation
 
-### Substrates
-Wine-cap mushrooms are exceptionally adaptable and can be cultivated on a wide range of lignocellulosic substrates:
+King stropharia is one of the easiest mushrooms for outdoor cultivation:
 
-- **Hardwood chips and sawdust** (oak, maple, beech, alder)
-- **Straw** (wheat, oat, rye) — the most productive substrate for indoor cultivation
-- **Composted garden waste** and leaf mold
-- **Cardboard** — effective for garden bed inoculation
-- **Mixed wood chip mulches** — ideal for outdoor garden integration
+- **Substrate:** Hardwood chips (oak, beech, alder), straw, or mixed woody debris
+- **Inoculation:** Spawn mixed into wood chip beds 10–20 cm deep
+- **Colonization:** 2–4 months depending on temperature and substrate volume
+- **Fruiting:** Spring and autumn; responds well to heavy watering after dry periods
+- **Yield:** 1–3 kg per m² of bed per season under favorable conditions
+- **Longevity:** Beds can persist and fruit for 2–5 years with adequate woody substrate
 
-### Inoculation Methods
-1. **Wood chip beds:** Layer spawn between 5–10 cm of soaked hardwood chips in shaded garden beds
-2. **Straw bale inoculation:** Stuff pasteurized straw bales with grain spawn
-3. **Mulch integration:** Mix spawn directly into garden pathway wood chip mulch
-4. **Compost incorporation:** Blend sawdust spawn into finished compost before application
-
-### Environmental Parameters
-- **Temperature:** Optimal colonization at 20–25°C; fruiting triggered by 15–20°C with high humidity
-- **Humidity:** 85–95% relative humidity for pinning; tolerant of lower humidity during fruiting
-- **Light:** Indirect light preferred; full shade to dappled sunlight
-- **pH:** Broad tolerance, pH 5.5–7.5
-- **Time to fruit:** 2–4 months from inoculation; beds can produce for 3–5 years
-
-## Culinary Uses
-
-Wine-cap mushrooms are considered excellent edibles when properly prepared:
-
-- **Young buttons preferred — firm texture and mild flavor
-- Cap skin is edible but can become tough with age; peel larger specimens
-- Suitable for sautéing, grilling, roasting, and soups
-- Flavor described as earthy, nutty, and slightly sweet with a meaty texture
-- Pairs well with butter, garlic, cream sauces, and fresh herbs
-- Freezes well after brief blanching; also suitable for drying
-
-**Important:** Always cook before consumption. Some individuals report mild gastrointestinal sensitivity to raw or undercooked specimens. As with all wild mushrooms, positive identification is essential before eating.
-
-## Role in Permaculture
-
-### Companion Planting
-Wine-cap mushrooms are a cornerstone species in permaculture food forests and integrated garden systems:
-
-- **Three-sisters companion:** Grown in wood chip mulch around corn, beans, and squash
-- **Orchard understory:** Excellent mushroom for fruit tree alleys and food forest ground layers
-- **Garden paths:** Productive use of pathway mulch that simultaneously improves soil
-- **Compost acceleration:** Mycelium accelerates decomposition of organic matter in compost systems
-
-### Soil Health Benefits
-- Breaks down tough lignin and cellulose in woody debris, converting it to humus
-- Creates extensive mycelial networks that improve soil structure and water retention
-- Helps aggregate soil particles, improving aeration and drainage
-- Translocates nutrients from woody material to the root zones of nearby plants
-- Competes with soil-borne plant pathogens through competitive exclusion
+## Ecological Role
 
 ### Mycoremediation
-- **E. coli filtration:** Reduces *E. coli* and *Salmonella* in mulch filtration barriers
-- **Hydrocarbon degradation:** Degrades certain hydrocarbons and aromatic compounds
-- **Stormwater:** Used in rain garden and bioswale installations
+- Effective at breaking down woody organic matter in garden systems
+- Demonstrated capacity for bioremediation of E. coli and other coliform bacteria in contaminated soils
+- Can accumulate heavy metals from contaminated substrates (do not consume from polluted sites)
 
-## Medicinal Research
+### Soil Building
+- Mycelial networks improve soil structure and water retention
+- Accelerates decomposition of woody mulches, cycling nutrients for companion plants
+- Forms beneficial associations with garden plant root zones
 
-Less studied than *Ganoderma* or *Hericium*, but emerging research identifies:
-- **Antioxidants:** Phenolic compounds and ergothioneine with free radical scavenging
-- **Anti-inflammatory:** Polysaccharide extracts showing COX-2 inhibition in vitro
-- **Antimicrobial:** Active against *S. aureus* and *E. coli*
-- **Immunomodulatory:** β-glucans stimulating macrophage activity
+## Permaculture Applications
+
+- **Mulch-bed companion:** Planted in wood-chip mulch paths and garden borders
+- **Compost accelerator:** Inoculated into compost piles to speed decomposition
+- **Food forest integration:** Productive ground layer in polyculture systems
+- **Giant garden beds:** Dedicated wine-cap beds in vegetable gardens provide both mulch and food
+- **Works well alongside:** Comfrey, currants, fruit trees, and annual vegetables
+
+## Nutritional Profile
+
+Per 100 g fresh weight (approximate):
+- Calories: 22 kcal
+- Protein: 2.5 g
+- Carbohydrates: 3.3 g
+- Fat: 0.3 g
+- Fiber: 1.0 g
+- Rich in B vitamins (B3, B5), potassium, phosphorus, and selenium
+
+## Culinary Use
+
+- Young specimens are preferred — caps are firm and caps have best texture
+- Suitable for sautéing, grilling, stuffing, and drying
+- Texture compares favorably to portobello (*Agaricus bisporus*)
+- Dried and reconstituted caps retain good flavor and texture
 
 ## Similar Species
 
-- **Stropharia hornemannii:** Larger, grows on conifer wood
-- **Psilocybe species:** Some active species share wine-red caps — always verify spore print and wrinkled annulus
-- **Cortinarius species:** Wine-colored caps but rusty-brown spore prints
-
-The combination of wine-red cap, dark purplish-brown spore print, and **wrinkled double annulus** is diagnostic.
+| Species | Key Differences |
+|---------|----------------|
+| *Stropharia hornemannii* | Larger, grows on conifer wood; rare |
+| *Agrocybe praecox* | Brown spore print, different annulus structure |
+| *Psilocybe* spp. | Bluish bruising, smaller; not similar when mature |
 
 ## See Also
 
-- [[Hericium erinaceus]] — permaculture-compatible edible mushroom
-- [[Pleurotus ostreatus]] — oyster mushroom for soil health
-- [[Trametes versicolor]] — medicinal polypore
-- [[Hugelkultur]] — raised bed technique compatible with wine-cap cultivation
-- [[Food Forest]] — permaculture system integrating wine-cap mushrooms
+- [[hericium-erinaceus]] — Another permaculture-friendly cultivated mushroom
+- [[comfrey]] — Companion plant in mulch-bed systems
+- [[trifolium-repens]] — Nitrogen-fixing ground cover pairing with wine-cap beds

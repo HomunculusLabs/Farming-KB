@@ -1,131 +1,200 @@
 ---
-title: Astragalus membranaceus
+title: "Astragalus membranaceus (Astragalus Root)"
 type: species
-tags: [medicinal-plant, adaptogen, fabaceae, traditional-chinese-medicine, immunomodulatory, saponin, polysaccharide, anti-aging, herbal]
+tags: [herbal-plant, adaptogen, traditional-chinese-medicine, immunomodulator, permaculture, legume]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [https://pubmed.ncbi.nlm.nih.gov/, https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/astragalus-membranaceus]
+sources:
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6207759/
+  - https://pubmed.ncbi.nlm.nih.gov/17569207/
+  - https://www.sciencedirect.com/science/article/abs/pii/S0378874111006735
 ---
 
-# Astragalus membranaceus
+# Astragalus membranaceus (Astragalus Root)
 
 ## Overview
 
-Astragalus membranaceus, commonly known as huáng qí (黄芪) or Mongolian milkvetch, is one of the most important tonic herbs in traditional Chinese medicine, where it has been used for over 2,000 years to strengthen qi (vital energy), support the immune system, and promote longevity. It is classified as a superior herb in the Shennong Ben Cao Jing and is the most frequently prescribed herb in modern Chinese medicine. The dried root, known as Astragali Radix, contains a complex mixture of bioactive compounds including astragaloside saponins, immunomodulatory polysaccharides (astragalans), flavonoids, and amino acids. Modern research has validated its traditional uses, demonstrating significant immunomodulatory, cardioprotective, hepatoprotective, anti-diabetic, anti-inflammatory, and anti-aging properties. Astragalus is one of the most extensively studied adaptogenic herbs.
+**Astragalus membranaceus**, commonly known as Huang Qi (黄芪) in Chinese, is a perennial flowering plant in the legume family (Fabaceae) and one of the most important herbs in Traditional Chinese Medicine (TCM). Native to the arid and semi-arid regions of northern China, Mongolia, and Korea, it has been used medicinally for over 2,000 years to strengthen vitality, support immune function, and promote longevity.
+
+The root is the primary medicinal part, harvested from plants typically 4–5 years old. Astragalus is classified as a premier **adaptogen** — a substance that helps the body maintain homeostasis and resist the damaging effects of stress through broad, non-specific physiological support.
+
+In modern herbalism and clinical practice, Astragalus is valued for its immunomodulatory, cardioprotective, anti-inflammatory, and anti-aging properties. It is one of the most thoroughly researched adaptogenic herbs, with over 3,000 published scientific studies.
 
 ## Taxonomy
 
 - **Kingdom:** Plantae
-- **Clade:** Tracheophytes (vascular plants)
-- **Clade:** Angiosperms (flowering plants)
-- **Clade:** Eudicots
-- **Clade:** Rosids
+- **Clade:** Tracheophytes, Angiosperms, Eudicots, Rosids
 - **Order:** Fabales
-- **Family:** Fabaceae (legume/pea family)
+- **Family:** Fabaceae (Leguminosae)
 - **Subfamily:** Faboideae
-- **Genus:** Astragalus (one of the largest genera of flowering plants, with ~3,000 species)
-- **Species:** A. membranaceus (Fisch.) Bunge, 1868
-- **Related medicinal species:** A. membranaceus var. mongholicus (Bunge) Hsiao, considered interchangeable with A. membranaceus in Chinese pharmacopoeia
-- **Common names:** Astragalus, huáng qí (黄芪), Mongolian milkvetch, Huang Qi, milkvetch root, bei qi (北芪)
-- **Etymology:** "Astragalus" from Greek "astragalos" meaning "ankle bone" or "dice" (referring to the shape of the seeds in some species). "Membranaceus" from Latin "membrana" (membrane) referring to the membranous seed pod. "Huáng qí" translates as "yellow leader" — "yellow" for the root color and "leader" for its preeminence among tonic herbs.
+- **Genus:** *Astragalus* (the largest genus of flowering plants, with ~3,000 species)
+- **Species:** *A. membranaceus*
+- **Varieties:** *A. membranaceus* var. *mongholicus* (Mongolian astragalus, considered interchangeable in TCM)
 
-## Description
+## Botanical Description
 
-- **Growth habit:** Perennial herbaceous plant, 30–90 cm tall. Erect, slightly hairy stems arising from a woody rootstock. Forms a substantial taproot over several years of growth.
-- **Leaves:** Compound, pinnately divided into 12–18 pairs of leaflets plus a terminal leaflet. Leaflets are elliptic to oblong, 5–20 mm long, 3–8 mm wide, with short hairs on both surfaces. Stipules lanceolate, free from the petiole.
-- **Flowers:** Pea-like (papilionaceous), typical of the Fabaceae. Arranged in axillary racemes of 10–20 flowers. Corolla yellowish-white to pale yellow, 15–18 mm long. Banner (standard) petal elliptic-obovate, wings and keel shorter than the banner. Blooms June–August.
-- **Fruit:** Legume (pod), pendulous, inflated, elliptic-oblong, 20–30 mm long and 8–12 mm wide. Membranous and papery when mature, containing numerous kidney-shaped seeds. The distinctive inflated pod gives the species its epithet "membranaceus."
-- **Roots:** The primary medicinal organ. Long, cylindrical taproot, 30–100 cm long and 1–3 cm in diameter, with few branches. Outer surface light yellowish-brown with longitudinal wrinkles and transverse lenticels. Inner tissue (cortex) white to pale yellow, with a prominent cambial ring. The root develops a sweet, slightly starchy taste characteristic of quality huáng qí.
-- **Whole plant:** Whole plant is covered in fine hairs (pubescent). Nitrogen-fixing through rhizobial symbiosis in root nodules, contributing to soil fertility.
+### Growth Habit
 
-## Habitat and Distribution
+Astragalus is a herbaceous perennial that grows 30–60 cm tall, with a sprawling, multi-stemmed habit.
 
-- **Native range:** Northern China (Heilongjiang, Jilin, Liaoning, Inner Mongolia, Hebei, Shanxi, Shaanxi, Gansu), Mongolia, and eastern Siberia. The var. mongholicus is primarily from Inner Mongolia and Shanxi Province.
-- **Naturalized range:** Limited naturalization outside native range; primarily a cultivated species globally.
-- **Habitat:** Dry, open grasslands, forest margins, and mountain slopes at 800–2,500 m elevation. Prefers well-drained sandy loam soils, full sun, and continental climates with cold winters and warm, dry summers.
-- **Cultivation:** Major production in China, particularly the provinces of Inner Mongolia, Shanxi, Gansu, and Heilongjiang. Cultivation has expanded to meet global pharmaceutical demand. Roots are typically harvested after 3–5 years of growth, with older roots considered higher quality. Shanxi Province is traditionally regarded as producing the highest quality huáng qí.
-- **Propagation:** By seed (spring sowing after scarification and soaking) or by root division. Nitrogen-fixing capability reduces fertilizer requirements.
+- **Root:** The taproot is thick, woody, and cylindrical, reaching 30–100 cm in length. Outer bark is yellowish-brown with a fibrous texture; inner cortex is pale yellow to white. The root is the sole commercially valuable part.
+- **Stems:** Multiple ascending stems from a woody crown, covered with fine white hairs
+- **Leaves:** Pinnately compound, 12–25 cm long, with 9–21 pairs of leaflets. Leaflets are elliptical to oblong, 5–20 mm long, with hairy undersides
+- **Flowers:** Pea-like, pale yellow to yellowish-white, borne in axillary racemes. Each flower is 15–18 mm long. Blooms June–August.
+- **Fruit:** Legume pods, 20–30 mm long, pendulous, swollen, containing numerous kidney-shaped seeds. Mature pods are brown and papery.
 
-## Chemistry and Bioactive Compounds
+### Habitat and Distribution
 
-Astragalus membranaceus root contains a diverse array of bioactive compounds:
+Native to dry, sandy soils in:
+- Northern and northwestern China (Gansu, Shanxi, Inner Mongolia, Hebei)
+- Mongolia
+- Korea
+- Eastern Siberia
 
-### Astragalosides (triterpene saponins)
+It thrives in full sun, well-drained sandy or loamy soils, and tolerates drought, cold (hardy to USDA Zone 4), and poor soils. These characteristics make it well-suited for permaculture applications in challenging environments.
 
-- **Astragaloside IV (AS-IV):** The most pharmacologically significant saponin and the primary quality marker in the Chinese Pharmacopoeia (minimum 0.04% dry weight). Cardioprotective (reduces myocardial ischemia-reperfusion injury), anti-inflammatory (inhibits NF-κB and TLR4 signaling), anti-fibrotic, and neuroprotective. Improves insulin sensitivity and has demonstrated anti-aging effects through telomerase activation.
-- **Astragaloside I, II, III, V, VI, VII:** Additional saponins with varying degrees of immunomodulatory, anti-inflammatory, and cardioprotective activity.
-- **Astragaloside VII:** Demonstrates significant antiviral activity, particularly against coxsackievirus B3.
+## Active Compounds
 
-### Polysaccharides (astragalans)
+The therapeutic activity of Astragalus is attributed to several classes of bioactive compounds:
 
-- **Astragalus polysaccharides (APS):** Heterogeneous mixture of glucose, galactose, arabinose, rhamnose, xylose, and uronic acid residues. Molecular weights range from 10 kDa to over 1,000 kDa.
-- **Immunomodulatory activity:** APS are the primary immunostimulatory components. Activate macrophages, enhance natural killer cell cytotoxicity, promote dendritic cell maturation, and modulate T-cell subsets (increasing CD4+/CD8+ ratio, promoting regulatory T-cell function).
-- **Anti-tumor activity:** APS enhance anti-tumor immune responses and demonstrate synergistic effects with chemotherapy, reducing side effects while maintaining or enhancing efficacy.
-- **Antioxidant activity:** APS scavenge free radicals, enhance endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase), and reduce lipid peroxidation.
+### Saponins (Astragalosides)
+
+The most studied group, with over 40 astragalosides identified:
+
+- **Astragaloside IV (AS-IV):** The most pharmacologically active. Demonstrates cardioprotective, anti-inflammatory, anti-fibrotic, and neuroprotective effects. Protective against doxorubicin-induced cardiotoxicity. Inhibits NF-κB signaling pathway.
+- **Astragaloside I, II, III:** Additional anti-inflammatory and antioxidant activities
+- **Astragaloside VII:** Unique to *A. membranaceus* var. *mongholicus*
+
+### Polysaccharides (Astragalus Polysaccharides, APS)
+
+High-molecular-weight water-soluble polysaccharides (primarily glucans) that are the primary immunomodulatory constituents:
+
+- Activate macrophages, dendritic cells, and natural killer (NK) cells
+- Enhance B-cell and T-cell proliferation and antibody production
+- Modulate cytokine secretion (IL-2, IL-6, IL-12, IFN-γ, TNF-α)
+- Antioxidant activity via free radical scavenging and upregulation of endogenous antioxidant enzymes (SOD, CAT, GSH-Px)
+- Molecular weight range: 10–500 kDa; immunomodulatory activity varies with MW
 
 ### Flavonoids
 
-- **Calycosin and calycosin-7-O-β-D-glucoside:** Isoflavones with antioxidant, estrogenic, and anti-inflammatory activity. Calycosin promotes angiogenesis and wound healing.
-- **Formononetin and ononin:** Isoflavones with phytoestrogenic and immunomodulatory properties.
-- **Astrapterocarpan:** A pterocarpan-type isoflavan with antioxidant activity.
+- **Calycosin** and **calycosin-7-O-β-D-glucoside:** Phytoestrogens with antioxidant, anti-inflammatory, and neuroprotective effects
+- **Formononetin:** Another important isoflavone with cardioprotective and anti-cancer potential
+- **Ononin:** Anti-inflammatory flavonoid glycoside
+- **Astraisoflavan:** Unique isoflavan
 
-### Other constituents
+### Other Compounds
 
-- **Amino acids:** Including γ-aminobutyric acid (GABA), L-canavanine (unique to Astragalus), and 14 proteinogenic amino acids.
-- **Trace minerals:** Selenium, zinc, iron, copper, manganese.
-- **Betaine:** An osmoprotective compound with hepatoprotective properties.
+- **Amino acids:** Including γ-aminobutyric acid (GABA), arginine, and asparagine
+- **Trace minerals:** Selenium (important for antioxidant enzyme function), zinc, iron, magnesium
+- **GABA:** Contributes to calming, anxiolytic effects
+- **Betaine:** Osmoprotectant and methyl donor
 
-## Pharmacology and Traditional Uses
+## Traditional Chinese Medicine Applications
 
-### Traditional Chinese Medicine classification
+In TCM, Astragalus is classified as a **Qi tonic** that tonifies the Spleen and Lung meridians:
 
-In TCM, Astragali Radix (huáng qí) is classified as sweet, slightly warm, and entering the Spleen and Lung meridians. It is the quintessential qi-tonifying herb, used to tonify spleen and lung qi, raise the yang (treat prolapse, organ descent), stabilize the exterior (reduce spontaneous sweating), promote tissue regeneration (heal chronic sores and ulcers), and promote urination and reduce edema. It is the most commonly used herb in modern Chinese clinical practice.
+- **Qi deficiency:** Fatigue, weakness, spontaneous sweating, shortness of breath, poor appetite
+- **Spleen deficiency:** Chronic diarrhea, prolapse conditions (uterine, rectal, organ prolapse)
+- **Lung Qi deficiency:** Chronic respiratory infections, chronic cough, frequent colds
+- **Blood deficiency:** Used in combination with blood-tonifying herbs (e.g., Angelica sinensis / Dang Gui)
+- **Surface deficiency:** Weak defensive Qi leading to susceptibility to external pathogens
+- **Wasting and thirsting disorders:** Used in diabetes management formulas
 
-### Immunomodulatory activity
+Astragalus is one of the most commonly used herbs in TCM formulations, appearing in hundreds of classical prescriptions including:
 
-- One of the best-documented immunomodulatory herbs, with extensive clinical and preclinical evidence
-- APS and astragalosides enhance both innate and adaptive immunity
-- Demonstrates bidirectional immunomodulation: stimulates immune function in immunocompromised states while reducing excessive inflammation in autoimmune conditions
-- Clinically shown to reduce the incidence, severity, and duration of upper respiratory infections, particularly in the elderly and immunocompromised
-- Widely used in China as an adjunctive therapy for cancer, reducing chemotherapy-induced immunosuppression and improving quality of life
+- **Yu Ping Feng San (Jade Windscreen Powder):** With Atractylodes and Saposhnikovia — the classic immune-protective formula
+- **Bu Zhong Yi Qi Tang (Tonify the Middle and Augment the Qi Decoction):** With Ginseng, Bupleurum, and others — for chronic fatigue and organ prolapse
+- **Huang Qi Gui Zhi Wu Wu Tang:** For blood deficiency with cold extremities
 
-### Cardioprotective effects
+## Modern Clinical Applications
 
-- AS-IV reduces myocardial ischemia-reperfusion injury by decreasing oxidative stress, inhibiting apoptosis, and improving mitochondrial function
-- Improves cardiac function in patients with chronic heart failure
-- Reduces blood pressure through endothelial nitric oxide synthase (eNOS) activation and vasodilation
-- Attenuates cardiac remodeling and fibrosis post-myocardial infarction
+### Immune System Support
 
-### Anti-diabetic effects
+Astragalus is one of the best-researched immunomodulatory herbs:
 
-- Improves insulin sensitivity through AMPK pathway activation
-- Reduces fasting blood glucose, HbA1c, and insulin resistance in clinical trials
-- Protects pancreatic β-cells from oxidative damage and apoptosis
-- Reduces diabetic nephropathy progression through anti-inflammatory and anti-fibrotic mechanisms
+- **Prevention of upper respiratory infections:** Multiple clinical trials show reduced frequency, duration, and severity of colds, particularly in immunocompromised individuals
+- **Chemotherapy support:** Adjunctive use during chemotherapy significantly reduces side effects (nausea, fatigue, immune suppression) and may enhance treatment efficacy
+- **HIV/AIDS support:** Some evidence for CD4+ T-cell count improvement and reduction of opportunistic infections
+- **Autoimmune modulation:** Paradoxically useful in autoimmune conditions due to its bidirectional (normalizing) immune effects — stimulating weak immunity while calming overactive immune responses
 
-### Anti-aging and longevity effects
+### Cardiovascular Health
 
-- AS-IV activates telomerase (TERT), the enzyme responsible for maintaining telomere length — one of the few compounds with demonstrated telomerase-activating properties
-- APS reduce cellular senescence markers and improve healthspan in animal models
-- Reduces oxidative damage to DNA, proteins, and lipids through enhancement of endogenous antioxidant systems
-- A 2018 clinical study in elderly subjects showed improved physical performance, immune function, and quality of life markers
+- **Heart failure:** AS-IV improves cardiac function, reduces myocardial fibrosis, and enhances left ventricular ejection fraction
+- **Ischemic heart disease:** Reduces myocardial ischemia-reperfusion injury, decreases infarct size
+- **Hypertension:** Mild blood pressure lowering effect via vasodilation
+- **Vascular protection:** Protects endothelial function, reduces oxidative damage to blood vessels
 
-### Hepatoprotective effects
+### Kidney Health
 
-- Protects hepatocytes from damage caused by acetaminophen, carbon tetrachloride, alcohol, and non-alcoholic fatty liver disease
-- Reduces hepatic fibrosis through inhibition of hepatic stellate cell activation and TGF-β/Smad signaling
-- APS enhance liver regeneration after partial hepatectomy in animal models
+- **Diabetic nephropathy:** APS and AS-IV reduce proteinuria, protect podocytes, and slow progression of diabetic kidney disease
+- **Chronic kidney disease:** Slows decline in glomerular filtration rate (GFR)
+- **Nephrotic syndrome:** Reduces proteinuria when used as adjunct therapy
 
-## Legal Status and Safety
+### Anti-Aging and Longevity
 
-- **Regulatory status:** Approved as a dietary supplement in the United States, European Union, and most countries. Listed in the Chinese Pharmacopoeia (2020 edition) with quality standards requiring minimum 0.04% astragaloside IV and 5.0% polysaccharide content. Used extensively in licensed pharmaceutical formulations in China, Japan, and South Korea.
-- **Contraindications:** In TCM theory, contraindicated in yin deficiency with heat signs and in acute exogenous infections (per the principle of not tonifying during acute illness). Caution in autoimmune diseases with overactive immune response (though research suggests immunomodulatory rather than purely stimulatory effects). Avoid in organ transplant recipients (theoretical risk of rejection due to immune stimulation).
-- **Drug interactions:** May interact with immunosuppressants (cyclosporine, tacrolimus), anticoagulants, antihypertensives, and hypoglycemic medications. May enhance the effects of chemotherapy drugs.
-- **Side effects:** Generally well-tolerated at recommended doses (9–30 g dried root daily in decoctions, or 250–500 mg standardized extract). Mild gastrointestinal discomfort is the most common side effect. Rare cases of allergic reactions (skin rash, itching). Some Astragalus species (not A. membranaceus) contain toxic L-canavanine and swainsonine; these are not present in medicinal-grade huáng qí.
+Astragalus activates **telomerase**, the enzyme that maintains telomere length — a key factor in cellular aging:
+
+- **Cycloastragenol (TA-65):** A derivative of astragaloside IV, marketed as a telomerase activator. Clinical studies show modest telomere lengthening in immune cells
+- **Sirtuin activation:** Upregulates SIRT1, promoting mitochondrial biogenesis and metabolic efficiency
+- **Senescent cell clearance:** APS may promote clearance of senescent cells, reducing "inflammaging"
+
+### Diabetes and Metabolic Syndrome
+
+- **Blood sugar regulation:** APS improves insulin sensitivity and glucose uptake
+- **Glycemic control:** Several clinical trials show reduced fasting blood glucose and HbA1c
+- **Lipid profile:** Improves LDL/HDL ratio and reduces triglycerides
+
+## Cultivation and Permaculture Applications
+
+### Growing Astragalus
+
+- **Propagation:** Seed (scarification and stratification recommended for germination) or root division in spring
+- **Soil:** Well-drained, sandy or loamy, pH 6.5–8.0; does not tolerate waterlogging
+- **Spacing:** 30–45 cm between plants, rows 60–90 cm apart
+- **Water:** Drought-tolerant once established; moderate water during establishment
+- **Harvest:** Roots are dug in autumn of the 4th or 5th year for maximum medicinal quality
+- **Yield:** 2–4 kg of dried root per plant at maturity
+
+### Permaculture Functions
+
+Astragalus serves multiple functions in permaculture design:
+
+- **Nitrogen fixation:** As a legume, it fixes atmospheric nitrogen via rhizobial symbiosis, improving soil fertility for neighboring plants
+- **Deep taproot:** Breaks compacted subsoil, mines deep minerals, and improves soil structure
+- **Drought-adapted ground cover:** Useful in xeriscaping and dryland permaculture
+- **Companion planting:** Benefits neighboring plants through nitrogen contribution; grows well with other medicinal herbs
+- **Erosion control:** Root system stabilizes soil on slopes
+- **Pollinator support:** Flowers provide nectar and pollen for bees and other beneficial insects
+- **Chop-and-drop mulch:** Above-ground biomass can be cut and used as nitrogen-rich mulch
+- **Guild integration:** Excellent in medicinal herb guilds, food forest understory, and contour plantings
+
+### Challenges
+
+- **Slow maturity:** 4–5 years to harvestable root size requires long-term planning
+- **Seed viability:** Relatively short; seeds should be used within 1–2 years
+- **Adulteration:** Commercial Astragalus is frequently adulterated with other *Astragalus* species; sourcing from reputable suppliers is essential
+
+## Dosage Guidelines
+
+- **Decoction:** 9–30 g dried root daily (TCM standard dose)
+- **Tincture (1:5, 30% ethanol):** 2–4 mL, 2–3 times daily
+- **Powder/capsules:** 1–3 g daily
+- **Standardized extract:** 250–500 mg of astragaloside IV-standardized extract daily
+- **Dual extraction:** Not typically needed as the primary active compounds (polysaccharides and saponins) are both water-soluble; however, some practitioners use a water extract followed by residual alcohol extraction
+
+## Safety and Precautions
+
+Astragalus has an excellent safety profile with a long history of use:
+
+- **Contraindications:** Should be avoided in acute infections (especially with high fever), as its tonifying nature may "trap" the pathogen. TCM theory advises against use during acute illness.
+- **Autoimmune conditions:** While potentially beneficial, should be used under professional guidance due to its immunostimulatory properties
+- **Pregnancy:** Limited safety data; traditional use suggests avoiding during the first trimester
+- **Immunosuppressant interactions:** May reduce efficacy of immunosuppressive medications (cyclosporine, tacrolimus)
+- **Anticoagulant interactions:** Mild antiplatelet activity; caution with warfarin and similar drugs
 
 ## See Also
 
-- [[panax-ginseng]] — Korean ginseng, complementary qi-tonifying adaptogen in TCM
-- [[withania-somnifera]] — Ashwagandha, adaptogenic herb with overlapping immunomodulatory and anti-aging properties
-- [[astragalus-membranaceus]] — The primary immunomodulatory fraction of Astragalus membranaceus
-- [[ganoderma-lucidum]] — Reishi mushroom, complementary medicinal fungus for immune support in TCM
+- [[Panax ginseng]] — Another premier adaptogen and Qi tonic
+- [[Withania somnifera]] — Ashwagandha, complementary adaptogen
+- [[Glycyrrhiza uralensis]] — Licorice root, common formula partner
+- [[Eleutherococcus senticosus]] — Siberian ginseng for endurance

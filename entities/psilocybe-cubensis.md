@@ -1,27 +1,20 @@
 ---
-title: Psilocybe cubensis
+title: "Psilocybe cubensis"
 type: species
-tags:
-  - fungi
-  - psychedelic
-  - psilocybin
-  - entheogen
-  - mycology
-  - psychoactive
+tags: [fungi, psychedelic, psilocybin, therapeutic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
-  - Guzmán, G. (2005). "The genus Psilocybe: A systematic revision of the known species." Beihefte zur Nova Hedwigia, 74.
-  - Carhart-Harris, R.L. et al. (2016). "Psilocybin with psychological support for treatment-resistant depression." Journal of Psychopharmacology, 30(12), 1121-1132.
-  - Johnson, M.W. & Griffiths, R.R. (2017). "Potential therapeutic effects of psilocybin." Neuropharmacology, 142, 37-46.
+  - Stamets, "Psilocybin Mushrooms of the World" (1996)
+  - Griffiths et al., "Psilocybin can occasion mystical-type experiences" (2006)
+  - Carhart-Harris et al., "Psilocybin for treatment-resistant depression" (2016)
 ---
 
-# Psilocybe cubensis
+# Psilocybe cubensis (Golden Teacher)
 
-## Common Names
+## Overview
 
-Golden Teacher, Golden Cap, Cuban Mushroom, San Isidro, P. cubensis.
+*Psilocybe cubensis* is the most widely known and cultivated psilocybin-containing mushroom. Colloquially called "Golden Teacher" for its golden-brown cap and the profound lessons users report, it is a moderately potent psychedelic species native to subtropical and tropical regions of the Americas. It has become the standard species for both recreational use and clinical research.
 
 ## Taxonomy
 
@@ -35,142 +28,122 @@ Golden Teacher, Golden Cap, Cuban Mushroom, San Isidro, P. cubensis.
 | Genus | *Psilocybe* |
 | Species | *P. cubensis* |
 
-## Description
+**Synonyms**: *Stropharia cubensis*, *Naematoloma caerulescens*
 
-*Psilocybe cubensis* is the most widely known and cultivated psilocybin-containing mushroom. It is a coprophilous (dung-inhabiting) species that produces medium to large fruiting bodies with a distinctive golden-brown cap that fades to pale yellow or nearly white with age.
+## Morphology
 
-### Key Morphological Features
-
-- **Cap (pileus)**: 1.5–8 cm diameter, convex to broadly convex, sometimes plano-convex; golden-brown when young, becoming pale straw-colored with age; surface smooth, viscid when moist; often with a distinct umbo
-- **Gills (lamellae)**: Adnate to adnexed, grayish to dark purple-brown with whitish edges, crowded
-- **Stem (stipe)**: 4–15 cm long, 0.4–1.4 cm thick, hollow, equal or slightly tapering upward; white to yellowish; bruising blue when damaged
-- **Veil**: Partial veil leaving a persistent annular zone (ring) on the stem
+- **Cap**: 1.5–8 cm diameter; convex to plane with age; golden-brown to caramel, hygrophanous (paling when dry), often with a distinct umbo
+- **Gills**: Adnate to adnexed; grayish when young, darkening to deep purple-black with spore maturity
+- **Stipe**: 4–15 cm tall, 0.4–1.4 cm thick; hollow, white to yellowish; bruises prominently blue where damaged
+- **Veil**: Partial veil forming a transient annular zone; remnants create a dark purplish ring on the upper stipe
 - **Spore print**: Dark purple-brown to nearly black
-- **Spores**: Ellipsoid, 11.5–17.3 × 8–11.5 µm, thick-walled, with a broad germ pore
-- **Blue bruising**: Distinctive blueing reaction when flesh is damaged, caused by psilocin oxidation
+- **Spores**: Ellipsoidal, 11.5–17.3 × 8–11.5 µm, thick-walled
+- **Blue bruising**: Oxidation of psilocin to blue-colored quinoid compounds; diagnostic field character
 
-## Distribution and Habitat
+## Natural Distribution
 
-Native to tropical and subtropical regions worldwide. Originally described from Cuba, it is now found throughout:
+- **Range**: Subtropical and tropical regions from southern Florida through the Caribbean (Cuba), Central America, and into northern South America (Colombia, Ecuador, Peru)
+- **Habitat**: Dung of herbivores in grasslands and pastures; especially cattle (*Bos taurus*), horses, and water buffalo
+- **Climate**: Warm, humid; prefers temperatures of 24–30°C with high ambient humidity (80–95%)
+- **Associations**: Often found growing gregariously after heavy rains
 
-- **Central and South America**: Mexico, Colombia, Ecuador, Peru, Brazil, Guatemala
-- **Southeast Asia**: Thailand, Cambodia, Vietnam, Indonesia
-- **Africa**: Sub-Saharan regions
-- **Australia**: Northern tropical zones
-- **Southern United States**: Florida, Gulf Coast states (naturalized)
+## Life Cycle
 
-The species grows primarily on herbivore dung (cattle, elephant, water buffalo) in grasslands, pastures, and tropical lowland forests. It fruits during warm, humid seasons following heavy rainfall.
+1. **Spore germination**: Hyphae emerge from spores on suitable substrate (dung, grain)
+2. **Mycelial colonization**: White, rhizomorphic mycelium spreads through substrate
+3. **Hyphal knot formation**: Dense aggregates of mycelium form primordia
+4. **Pinning**: Primordia develop into tiny mushroom "pins"
+5. **Fruiting**: Stipe elongates, cap expands, veil tears; mature in 5–12 days
+6. **Spore release**: Cap flattens; billions of spores dispersed by wind
+7. **Senescence**: Fruit body deteriorates; mycelium may fruit in successive flushes
 
-## Psychoactive Compounds
+## Major Alkaloids
 
-### Primary Active Alkaloids
+| Compound | % Dry Weight | Activity |
+|----------|-------------|----------|
+| Psilocybin | 0.5–1.3% | Prodrug; converted to psilocin by alkaline phosphatase |
+| Psilocin | 0.1–0.4% | Active metabolite; primary psychoactive agent |
+| Baeocystin | 0.02–0.3% | N-demethylated psilocybin; pharmacological role unclear |
+| Norbaeocystin | Trace | N,N-demethylated psilocybin; weak or inactive |
 
-| Compound | Typical % (dry weight) | Potency |
-|----------|----------------------|---------|
-| Psilocybin | 0.5–1.3% | Prodrug; converted to psilocin in vivo |
-| Psilocin | 0.1–0.6% | Active form; direct 5-HT2A agonist |
-| Baeocystin | Trace – 0.3% | Less studied; weak psychoactivity |
-| Norbaeocystin | Trace | Unclear pharmacological role |
+## Pharmacology
 
-### Pharmacology
+- **Primary mechanism**: Psilocin acts as a partial agonist at the 5-HT2A serotonin receptor (Ki ≈ 6 nM)
+- **Additional receptor activity**: 5-HT1A, 5-HT2B, 5-HT2C agonism; minimal dopamine D2 activity
+- **Default Mode Network (DMN)**: Acutely disrupts DMN connectivity, correlated with ego dissolution and mystical-type experiences
+- **Neuroplasticity**: Promotes dendritic spine growth and increased synaptic density in the prefrontal cortex via 5-HT2A–dependent BDNF/TrkB signaling
+- **Onset**: 20–60 min (oral); **Peak**: 2–3 h; **Duration**: 4–6 h
+- **Metabolism**: Hepatic dephosphorylation (psilocybin → psilocin); psilocin glucuronidated and excreted in urine
 
-Psilocybin is a prodrug that is dephosphorylated by alkaline phosphatase enzymes to psilocin, which is the primary psychoactive compound. Psilocin acts primarily as a serotonin 5-HT2A receptor agonist, though it also has affinity for 5-HT1A, 5-HT2C, and other serotonin receptor subtypes.
+## Effects
 
-The mechanism of action involves:
-1. **5-HT2A receptor activation** on cortical pyramidal neurons
-2. **Increased entropy** in brain functional connectivity (decreased default mode network integrity)
-3. **Glutamate release** mediated by 5-HT2A receptors on layer V pyramidal cells
-4. **Anti-inflammatory effects** via 5-HT2A signaling on immune cells
+### Psychological Effects
+- **Visual**: Geometric patterns, color intensification, synesthesia, object morphing, closed-eye imagery
+- **Emotional**: Euphoria, profound introspection, grief processing, existential insight
+- **Cognitive**: Altered sense of time, enhanced pattern recognition, ego dissolution
+- **Mystical experiences**: Unity, transcendence of space/time, ineffability (measured by the Mystical Experience Questionnaire, MEQ30)
 
-## Notable Cultivars and Strains
+### Physiological Effects
+- Pupil dilation, mild tachycardia, increased blood pressure, nausea (transient), yawning, restlessness, thermoregulatory changes (chills/flushes)
 
-Numerous selective cultivars have been developed by the mycology community:
-
-| Cultivar | Origin/Notes |
-|----------|-------------|
-| Golden Teacher | Classic variety; reliable cultivator, moderate potency |
-| B+ | Large fruiting bodies, resilient, beginner-friendly |
-| Penis Envy | Distinctive morphology, reportedly higher potency |
-| Cambodian | Discovered near Angkor Wat; fast colonizer |
-| Ecuador | Andean origin; consistent yields |
-| Thai Koh Samui | Southeast Asian variety; small but potent |
-| APE (Albino Penis Envy) | Leucistic mutation of Penis Envy; high potency |
-| Z-Strain | Vigorous growth; dense fruits |
-| Burma | Southeast Asian; reliable, moderate potency |
-| Mazatapec | Mexican origin; traditional ceremonial use |
-
-## Modern Clinical Research
+## Therapeutic Research
 
 ### Treatment-Resistant Depression
+- **Carhart-Harris et al. (2016)**: Open-label trial at Imperial College London — single 10 mg and 25 mg psilocybin sessions with psychological support produced rapid and sustained antidepressant effects at 3- and 6-month follow-ups
+- **COMPASS Pathways Phase IIb (2021)**: 25 mg psilocybin showed significant improvement vs. 1 mg control in TRD (n = 233)
 
-The most advanced clinical application is for treatment-resistant depression (TRD). Key findings:
+### End-of-Life Distress
+- **Griffiths et al. (2016)**: Single high-dose psilocybin session reduced depression and anxiety in cancer patients for 6+ months
+- **Ross et al. (2016)**: NYU trial confirmed robust reductions in existential distress
 
-- **Phase II trials** (Imperial College London, 2016): Single dose of psilocybin (10mg and 25mg) with psychological support produced rapid and sustained antidepressant effects lasting up to 6 months
-- **COMPASS Pathways Phase IIb** (2021): 25mg psilocybin showed statistically significant reduction in MADRS depression scores at week 3 compared to 1mg control
-- **Mechanism**: Proposed to work through increased emotional processing, enhanced cognitive flexibility, and disruption of rigid negative thought patterns mediated by the default mode network
+### Addiction
+- **Bogenschutz et al. (2022)**: Randomized trial showed psilocybin (25–40 mg) significantly reduced heavy drinking days in alcohol use disorder
+- **Johnson et al. (2014)**: Open-label study demonstrated high quit rates for tobacco smoking at 12-month follow-up (80% abstinence)
 
-### End-of-Life Anxiety
+### PTSD and Anxiety Disorders
+- Ongoing trials at Johns Hopkins, UCL, and other centers exploring psilocybin-assisted psychotherapy for PTSD
 
-Studies at Johns Hopkins and NYU have demonstrated that a single dose of psilocybin can produce significant and sustained reductions in death-related anxiety and depression in patients with life-threatening cancer diagnoses, with effects lasting 6+ months in many participants.
+## Microdosing
 
-### Substance Use Disorders
+- **Definition**: Sub-perceptual doses, typically 0.1–0.3 g dried mushroom (~0.5–1.0 mg psilocybin), taken every 3–4 days (Fadiman protocol)
+- **Reported benefits**: Enhanced focus, improved mood, increased creativity, reduced anxiety
+- **Evidence status**: Self-reported benefits strong; controlled clinical data remains limited and mixed (e.g., Szigeti et al., 2021 found no significant objective improvements in a self-blind study)
 
-- **Tobacco addiction**: Pilot study at Johns Hopkins showed 80% abstinence rate at 6-month follow-up (15/15 participants receiving 2-3 sessions)
-- **Alcohol dependence**: Ongoing trials at NYU showing promising preliminary results
-- **Mechanism hypothesis**: Psilocybin may promote psychological flexibility and increase the "openness" personality trait, facilitating behavior change
+## Harm Reduction
 
-### Microdosing
+- **Set and setting**: Mental state (set) and physical/social environment (setting) critically influence outcomes
+- **Trip sitting**: Experienced, sober guide recommended for high-dose sessions
+- **Contraindications**: Personal/family history of psychosis or schizophrenia, bipolar I disorder, cardiovascular disease, pregnancy
+- **Drug interactions**: SSRIs/SNRIs may attenuate effects; MAOIs amplify effects and require careful timing; lithium increases seizure risk
+- **Screening**: PSQ (Psychedelic Screening Questionnaire) and medical screening protocols standard in clinical trials
+- **Integration**: Post-session therapy or journaling recommended to consolidate insights
 
-The practice of consuming sub-perceptual doses (0.1–0.3g dried) on a regular schedule has gained significant popular attention. While anecdotal reports suggest benefits for mood, creativity, and focus, controlled clinical studies remain limited and results are mixed.
+## Legal Status Worldwide
 
-## Cultivation
+| Region | Status |
+|--------|--------|
+| United States | Schedule I (DEA); exemptions for clinical research; Oregon and Colorado have legalized supervised therapeutic use |
+| Netherlands | Fresh mushrooms illegal (2008 ban); truffles (*Psilocybe tampanensis*) remain legal |
+| Brazil | Not scheduled; legal to cultivate and consume |
+| Jamaica | Legal; commercial retreat centers operate openly |
+| Canada | Restricted; exemptions granted for end-of-life therapy (2022+) |
+| UK/EU | Schedule I / Class A equivalent; illegal to possess, cultivate, or sell |
+| Australia | Schedule 9; approved for therapeutic use in clinical settings (2023) |
 
-*P. cubensis* is relatively easy to cultivate, which has contributed to its status as the most commonly grown psilocybin mushroom.
+## Cultural History
 
-### Common Methods
+- **Mesoamerican use**: Stone "mushroom stones" dating to 1000 BCE found in Guatemala and Mexico; *Psilocybe* species likely used in ritual contexts by Maya, Aztec, and Mazatec peoples
+- **Teonanácatl**: Nahuatl term meaning "flesh of the gods" — used by Aztec priests in divination and healing ceremonies
+- **Western discovery**: R. Gordon Wasson (1957) documented Mazatec mushroom ceremonies; published in *Life* magazine, sparking global interest
+- **Counterculture**: Popularized by Timothy Leary and Richard Alpert at Harvard (1960–1963); became emblematic of the 1960s psychedelic movement
+- **Modern renaissance**: Resurgence in clinical research since the 2000s; growing public acceptance and decriminalization movements
 
-1. **PF Tek (Psilocybe Fanaticus Technique)**: Brown rice flour and vermiculite in half-pint jars; beginner-friendly
-2. **Monotub**: Bulk cultivation using grain spawn (rye, wheat, or millet) transferred to coco coir/vermiculite substrate; higher yields
-3. **Uncle Ben's Tek**: Pre-cooked whole grain bags as spawn; minimal equipment
+## Dosage Ranges (Dried Mushroom Equivalents)
 
-### Growing Parameters
-
-| Parameter | Optimal Range |
-|-----------|--------------|
-| Temperature (colonization) | 24–27°C (75–80°F) |
-| Temperature (fruiting) | 22–26°C (72–79°F) |
-| Humidity | 90–95% |
-| Fresh air exchange | High during fruiting |
-| Light | 12 hours indirect light daily |
-| pH | 6.0–7.0 |
-
-## Legal Status
-
-The legal status of *P. cubensis* and its active compounds varies dramatically by jurisdiction:
-
-- **United States**: Psilocybin is Schedule I federally. Oregon and Colorado have legalized therapeutic use. Several cities have deprioritized enforcement.
-- **Netherlands**: Fresh mushrooms banned since 2008; truffles (*sclerotia*) remain legal
-- **Brazil**: Mushrooms not explicitly scheduled; legal gray area
-- **Jamaica**: Legal; retreat centers operate openly
-- **Canada**: Medical exemptions available through Special Access Programme
-- **Australia**: Rescheduled to Schedule 8 (controlled substance) for medical use in 2023
-- **Portugal**: Decriminalized for personal use
-
-## Cultural and Historical Significance
-
-*P. cubensis* has been used in Mesoamerican indigenous ceremonies for centuries, particularly by the Mazatec people of Oaxaca, Mexico. The species was introduced to Western science by R. Gordon Wasson in 1957 following his experiences with Maria Sabina, a Mazatec curandera.
-
-## Safety and Harm Reduction
-
-- **Contraindications**: Schizophrenia spectrum disorders, bipolar disorder (manic phase), certain cardiovascular conditions
-- **Set and setting**: Psychological preparation and a safe, comfortable environment significantly influence outcomes
-- **Interactions**: SSRIs and MAOIs may attenuate or alter effects; serotonergic medications increase theoretical risk of serotonin syndrome (extremely rare)
-- **Toxicity**: Very low physiological toxicity; LD50 far exceeds effective dose; no known lethal overdose in humans
-- **Harm reduction**: Trip sitting, integration therapy, and screening for personal/family psychiatric history are recommended best practices
-
-## See Also
-
-- [[Psilocybin]] — The primary psychoactive compound
-- [[Psilocybe semilanceata]] — Liberty Cap, a more potent wild species
-- [[DMT]] — Another classic tryptamine psychedelic
-- [[5-HT2A Receptor]] — Primary pharmacological target
+| Level | Dose (dried) | Psilocybin equiv. | Experience |
+|-------|-------------|-------------------|------------|
+| Threshold | 0.25–0.5 g | ~1–2 mg | Subtle mood shift, enhanced colors |
+| Light | 0.5–1.0 g | ~2–5 mg | Mild visual effects, light introspection |
+| Moderate | 1.0–2.5 g | ~5–15 mg | Strong visuals, emotional processing |
+| Strong | 2.5–5.0 g | ~15–30 mg | Intense visionary experience, ego dissolution |
+| Heroic | 5.0 g+ | ~30 mg+ | Complete ego death; overwhelming mystical |

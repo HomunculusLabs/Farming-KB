@@ -1,181 +1,128 @@
 ---
-title: Salvia divinorum
+title: "Salvia divinorum"
 type: species
-tags:
-  - herbal-plants
-  - psychedelic
-  - entheogen
-  - lamiaceae
-  - ethnobotany
-  - mazatec
+tags: [psychedelic, hallucinogen, ethnobotanical, salvinorin]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Siebert, D.J. (1994). "Salvia divinorum and Salvinorin A: Pharmacology and research." Journal of Psychoactive Drugs, 26(3), 277-283.
-  - González, D. et al. (2006). "Mechanism of action of salvinorin A: A potent naturally occurring nonnitrogenous kappa opioid receptor agonist." Journal of Pharmacology and Experimental Therapeutics, 319(2), 501-507.
-  - Johnson, M.W. et al. (2011). "Human pharmacology and abuse potential of the kappa opioid agonist salvinorin A." Drug and Alcohol Dependence, 115(3), 189-194.
-  - Wasson, R.G. (1962). "A new Mexican psychotropic drug from the mint family." Botanical Museum Leaflets, Harvard University, 20(5), 77-84.
+  - Siebert, "Salvia divinorum: The Botany, Ethnobotany, Biochemistry" (1994)
+  - Roth et al., "Salvinorin A: A potent naturally occurring nonnitrogenous kappa opioid selective agonist" (2002)
+  - Johnson et al., "Salvinorin A exhibition of anxiolytic and antidepressive effects" (2011)
 ---
 
-# Salvia divinorum
+# Salvia divinorum (Diviner's Sage)
 
-## Common Names
+## Overview
 
-Diviner's Sage, Ska María Pastora (Leaves of Mary the Shepherdess), Sally-D, Salvia, Seer's Sage, Magic Mint, Yerba de la Pastora.
+*Salvia divinorum* is a perennial herb in the mint family (Lamiaceae) endemic to cloud forests of Oaxaca, Mexico. It is the sole natural source of **salvinorin A**, an extraordinarily potent dissociative psychedelic and the first known non-nitrogenous kappa-opioid receptor (KOR) agonist. Used for centuries by the Mazatec people in divination and healing rituals, it gained worldwide attention in the early 2000s.
 
 ## Taxonomy
 
 | Rank | Classification |
 |------|---------------|
 | Kingdom | Plantae |
-| Clade | Angiosperms |
-| Clade | Eudicots |
-| Clade | Asterids |
+| Division | Magnoliophyta |
+| Class | Magnoliopsida |
 | Order | Lamiales |
-| Family | Lamiaceae (Mint) |
+| Family | Lamiaceae (mint family) |
 | Genus | *Salvia* |
 | Species | *S. divinorum* |
 
-## Description
+**Common names**: Diviner's Sage, Ska María Pastora, Seer's Sage, Sally-D, Magic Mint
 
-*Salvia divinorum* is a perennial herbaceous plant in the mint family (Lamiaceae), native to a small region of the Sierra Mazateca in Oaxaca, Mexico. It is the only known naturally occurring source of salvinorin A, the most potent naturally occurring psychedelic compound known — active at doses as low as 200–500 micrograms. Unlike other classical psychedelics (LSD, psilocybin, DMT), salvinorin A is a neoclerodane diterpenoid with no nitrogen atoms, and its primary mechanism of action is as a selective kappa-opioid receptor (KOR) agonist.
+## Morphology
 
-### Key Morphological Features
+- **Growth habit**: Perennial herb, 0.5–1.5 m tall; semi-woody at base
+- **Stems**: Square (Lamiaceae characteristic), hollow, green to purplish, often reclining and rooting at nodes
+- **Leaves**: Large (10–30 cm), ovate, serrate, bright green, slightly hairy underside; opposite arrangement
+- **Flowers**: White to pale blue-purple, 2–3 cm, whorled verticillasters; rarely produced in cultivation
+- **Reproductive biology**: Near-sterile — almost never produces viable seed; propagates vegetatively
 
-- **Growth habit**: Perennial herb, 0.5–2.5 meters tall, semi-woody at base
-- **Stems**: Square (characteristic of Lamiaceae), hollow, green to purplish-green, often reclining and rooting at nodes when in contact with soil
-- **Leaves**: Large, ovate to broadly lanceolate, 10–30 cm long, 5–17 cm wide, petiolate, bright green, pubescent on both surfaces, serrate margins; arranged oppositely
-- **Flowers**: White to blue-violet, bilabiate (two-lipped), arranged in whorls along terminal spikes 20–60 cm long; calyx purple-tinged, 8–12 mm; corolla white with purple streaks, 20–30 mm
-- **Roots**: Extensive fibrous root system; roots readily at stem nodes in contact with moist soil
-- **Reproduction**: Produces viable seed only very rarely under natural conditions; almost exclusively propagated vegetatively through cuttings
+## Endemic Habitat
 
-## Distribution and Natural Habitat
+- **Location**: Sierra Mazateca, Oaxaca, Mexico — cloud forest slopes at 300–1,700 m elevation
+- **Climate**: Warm-temperate, consistently humid; annual rainfall 1,500–2,500 mm; frequent fog
+- **Microhabitat**: Shaded ravines, stream banks, humid understory beneath tropical montane canopy
+- **Endemism**: Extremely narrow range — wild populations confined to a few square kilometers
+- **Conservation concern**: Habitat loss and overharvesting threaten wild populations
 
-*Salvia divinorum* is endemic to a remarkably small area: the cloud forests of the Sierra Mazateca in northeastern Oaxaca, Mexico, at elevations of 300–1,800 meters. It grows in shaded, moist, mountainous terrain along stream banks and in ravines, often in secondary growth forests.
+## Traditional Mazatec Use
 
-The species is a cultigen — it has been propagated and cultivated by the Mazatec people for centuries and likely does not exist in a truly wild state. It is thought to be a hybrid or clonal derivative of other *Salvia* species, possibly *S. involucrata* or *S. concolor*, which would explain its near-complete sterility.
+- **Practitioners**: Curanderos guide divination and healing ceremonies, typically at night
+- **Pipilzintzintli**: Possible Nahuatl antecedent referring to psychoactive plants including *S. divinorum*
+- **Ska María Pastora**: Mazatec — "herb of Mary the Shepherdess"
+- **Preparation**: Fresh leaves chewed as quid for sublingual absorption; sometimes crushed in water
+- **Dosage**: 6–100+ leaf pairs chewed and held in mouth 15–30 minutes
+- **Intent**: Diagnosing illness, locating lost objects, spirit communication
+- **Cultural sensitivity**: Mazatec consider the plant sacred; commercialization widely criticized as appropriation
 
-## Active Compounds
+## Psychoactive Compounds
 
-### Salvinorin A
+### Salvinorin A (Primary Active)
+- **Chemical class**: Trans-clerodane diterpene (non-alkaloid; contains no nitrogen)
+- **Potency**: ~10 µg/kg IV — comparable to LSD on a weight basis
+- **Receptor**: Selective κ-opioid receptor (KOR) agonist (Ki ≈ 1 nM); **NOT** a 5-HT2A agonist
+- **Mechanism**: KOR → Gi/o → inhibition of adenylyl cyclase → modulation of mesolimbic dopamine
+- **Content**: ~0.89 mg/g dried leaf (range 0.15–2.68 mg/g depending on leaf age/position)
+- **Extraction**: Dissolved in acetone, ethanol, or DCM; crystallized from solvent
 
-Salvinorin A (C₂₃H₂₈O₈) is the principal psychoactive constituent of *S. divinorum*, comprising approximately 0.1–0.4% of the dried leaf weight by mass.
+### Other Compounds
+- **Salvinorin B**: Inactive KOR ligand; research reference compound
+- **Salvinorins C–F**: Minor neoclerodane diterpenes with limited pharmacological data
+- **Divinatorins A–E**: Additional diterpenoids from leaves
 
-| Property | Detail |
-|----------|--------|
-| Chemical class | Neoclerodane diterpenoid |
-| Molecular weight | 432.5 g/mol |
-| Threshold dose | 200–500 µg |
-| Effective dose (smoked) | 200–1,000 µg |
-| Effective dose (sublingual) | 2–10 mg (as quid) |
-| Duration (smoked) | 5–20 minutes |
-| Duration (sublingual) | 1–2 hours |
-| Potency | Comparable to LSD on a weight basis |
+## Effects
 
-### Pharmacology
+| Parameter | Smoking | Quid (Sublingual) |
+|-----------|---------|-------------------|
+| **Onset** | 30–60 seconds | 5–15 minutes |
+| **Peak** | 1–5 minutes | 15–30 minutes |
+| **Duration** | 5–15 minutes | 30–60 minutes |
+| **Afterglow** | 30–120 min calm | 1–2 hours |
 
-Salvinorin A is unique among psychedelics in several ways:
+- **Intense visionary states**: Complex landscapes, entities, geometric environments
+- **Dissociation**: Complete ego/body separation; merging with objects or spaces
+- **Reality dissolution**: Loss of consensual reality framework
+- **Amnesia**: Many users cannot recall peak experiences
+- **Unpredictability**: Effects are notoriously variable even at consistent doses
 
-1. **Kappa-opioid receptor agonism**: Primary mechanism is selective activation of KOR, with high affinity (Ki = 1.3 nM) and no significant activity at 5-HT2A, mu-opioid, or delta-opioid receptors
-2. **Non-nitrogenous**: Unlike all other known classical psychedelics, salvinorin A contains no nitrogen atoms, making it structurally unrelated to tryptamines, phenethylamines, or lysergamides
-3. **Rapid onset and offset**: When smoked or vaporized, effects onset within 15–60 seconds and subside within 5–20 minutes, due to rapid metabolism and clearance
-4. **Dissociative character**: While classified as a psychedelic, the subjective experience has significant dissociative qualities (loss of connection to self, environment, and consensual reality)
+## Methods of Administration
 
-### Other Salvinorins
+### Smoking (Most Common)
+- Dried leaf smoked in pipe or vaporized (220–240°C optimal); enhanced extracts (5×, 10×) common
+- **Threshold**: 0.1–0.5 g dried; **Strong**: 1.0+ g or enhanced leaf
+- Requires deep inhalation held 20–30 seconds; **sitter essential**
 
-- **Salvinorin B**: Inactive (lacks the C-2 acetate group essential for activity)
-- **Salvinorin C**: Weakly active KOR agonist
-- **Salvinorin D–F**: Minor constituents; various activities
-- **Divinatorins A–D**: Additional neoclerodane diterpenoids isolated from leaves
+### Quid Method (Traditional)
+- 6–100 pairs of fresh leaves chewed slowly, held against cheek/gums 15–30 minutes
+- Smoother onset, longer duration, more controllable; requires large fresh leaf quantities
 
-## Cultural and Historical Significance
+## Pharmacokinetics
 
-### Mazatec Traditional Use
+- **Absorption**: Rapid pulmonary (smoking); slower buccal mucosa (quid)
+- **Metabolism**: Hepatic via CYP2D6 and CYP2E1; half-life ~60 minutes
+- **Tolerance**: No significant tolerance develops (unlike classical psychedelics)
+- **Dependence**: No evidence of physical dependence; KOR dysphoria limits abuse potential
 
-The Mazatec people of Oaxaca have used *S. divinorum* for centuries in traditional shamanic practice:
+## Therapeutic Potential
 
-- **Divination**: Primary use is for visionary divination sessions; the shaman (*curandero/a*) consumes large quantities of fresh leaves to receive visions and guidance
-- **Healing rituals**: Used to diagnose illness, locate lost objects, and communicate with spiritual entities
-- **Method**: Traditionally consumed as a *quid* — a rolled ball of 6–28 fresh leaves chewed and held sublingually for 15–30 minutes, often with water to extract the juice
-- **Context**: Always used in darkness, silence, and with proper ritual preparation; considered a sacred plant ally requiring respect
+- **Depression**: KOR desensitization may produce antidepressant effects (Johnson et al., 2011 — rodent models)
+- **Addiction**: Reduced cocaine/nicotine self-administration in animal models via mesolimbic modulation
+- **Pain**: KOR-mediated analgesia relevant for neuropathic conditions; research is early-stage
 
-### Ethnobotanical Discovery
+## Safety and Legal Status
 
-The species was first brought to Western attention by R. Gordon Wasson and Albert Hofmann in 1962, following Wasson's earlier work with psilocybin mushrooms with Mazatec curandera María Sabina. Hofmann initially misidentified the active compound as similar to other Salvia constituents; salvinorin A was not isolated and characterized until 1982 by Alfredo Ortega and colleagues, and its KOR mechanism was not elucidated until 2002 by Bryan Roth's laboratory.
+- **Physical safety**: No confirmed deaths from salvinorin A alone; no organ toxicity or mutagenicity
+- **Acute risk**: Extreme fear, panic, dangerous loss of motor coordination — **sitter essential**
+- **Contraindications**: Psychosis history, schizophrenia, severe anxiety, cardiovascular conditions
+- **United States**: Not federally scheduled; regulated in 29+ states
+- **Australia**: Schedule 9; **UK**: Class B; **Germany**: BtMG controlled; **Mexico**: Unregulated
+- **Japan, Denmark, Finland, Italy, Sweden**: Various scheduling; **Brazil, Spain**: Legal
 
-## Subjective Effects
+## Propagation
 
-### Smoked/Vaporized (Common Modern Method)
-
-- **Onset**: 15–60 seconds
-- **Peak**: 1–5 minutes
-- **Duration**: 5–20 minutes (with diminishing aftereffects up to 45 minutes)
-
-### Experience Phases
-
-1. **Onset**: Sudden physical sensation of being pulled or rotated; visual field may fragment or shimmer; perception of reality begins to shift
-2. **Peak**: Complete dissociation from ordinary reality; ego dissolution; immersive visionary experiences including encounters with entities, landscapes, or geometric spaces; profound alteration of body schema; sense of being transported to alternate dimensions
-3. **Integration**: Gradual return to baseline awareness; residual geometric visuals and altered thought patterns; confusion is common during reorientation
-4. **Afterglow**: Period of calm introspection; some users report lasting shifts in perspective
-
-### Sublingual (Traditional Quid Method)
-
-- **Onset**: 10–15 minutes
-- **Duration**: 1–2 hours
-- **Character**: Milder, more gradual experience with less intensity but longer duration; more meditative and less overwhelming than smoked administration
-
-## Therapeutic Research
-
-### Current Research Directions
-
-- **Depression**: KOR agonism has shown rapid antidepressant effects in animal models, though human trials with salvinorin A specifically are limited
-- **Substance use disorders**: KOR agonists/modulators are being investigated for cocaine, opioid, and alcohol use disorders
-- **Neuroplasticity**: Emerging evidence suggests KOR activation may promote structural plasticity in prefrontal cortical neurons
-- **Pain**: KOR-mediated analgesia; potential alternative to mu-opioid analgesics with lower abuse potential
-
-### Challenges
-
-- Short duration of action makes clinical protocols difficult
-- Intense subjective effects limit acceptability for many patients
-- Regulatory barriers to research in most jurisdictions
-
-## Cultivation
-
-*Salvia divinorum* is relatively easy to grow indoors or in subtropical climates:
-
-- **Propagation**: Stem cuttings root readily in water or moist soil within 2–3 weeks; cuttings should be 5–15 cm with at least 2–3 nodes
-- **Light**: Bright indirect light to partial shade; direct sun causes leaf burn
-- **Temperature**: 15–27°C; intolerant of frost
-- **Humidity**: Prefers high humidity (60–80%); benefits from humidity domes for cuttings
-- **Soil**: Rich, well-draining potting mix; slightly acidic to neutral (pH 5.5–7.0)
-- **Watering**: Keep consistently moist but not waterlogged
-- **Growth rate**: Rapid in optimal conditions; can reach 2+ meters in a single growing season
-- **Flowering**: Requires 12+ hours of darkness to trigger flowering; rarely flowers indoors; flowers are sterile or produce non-viable seed
-
-## Legal Status
-
-The legal status of *Salvia divinorum* varies by jurisdiction:
-
-- **United States**: Not federally scheduled, but banned or regulated in numerous states (California, Florida, Illinois, and many others)
-- **Australia**: Schedule 9 (prohibited substance) nationally since 2002
-- **United Kingdom**: Class B drug under the Psychoactive Substances Act 2016
-- **Germany**: Controlled under the BtMG (Narcotics Act) since 2008
-- **Canada**: Not specifically scheduled, though salvinorin A is controlled
-- **Mexico**: Legal (no specific regulation)
-
-## Harm Reduction and Safety
-
-- **Setting**: Always use with a sober, experienced sitter present; dark, quiet environment
-- **Physical safety**: Lie down or sit during the experience; fall risk is significant due to complete dissociation
-- **Mental health**: Contra indicated for individuals with schizophrenia, bipolar disorder, or psychotic disorders
-- **Frequency**: Regular/daily use is not recommended; kappa-opioid receptor downregulation and dysphoria may result
-- **Smoking method**: Vaporization at controlled temperature (240°C) is preferred over direct flame; avoids combustion byproducts
-- **Potency awareness**: Salvinorin A is extremely potent; accurate dosing requires precision scales or standardized extracts
-- **Integration**: Post-experience integration and reflection are important for beneficial outcomes
-
-## See Also
-
-- [[Salvinorin A]] — The primary psychoactive compound
-- [[Kappa Opioid Receptor]] — Primary pharmacological target
-- [[Psilocybe mexicana]] — Another Mazatec entheogen
-- [[Dimethyltryptamine]] — Tryptamine psychedelic with dissociative qualities
+- **Vegetative cuttings**: 10–15 cm stem segments root in 2–4 weeks in water, perlite, or soil
+- **All cultivated plants are effectively clones** of a few original collections
+- **Genetic diversity**: Extremely low in cultivation — conservation concern
+- **Flowering/seeding**: Exceptionally rare in cultivation; most commercial seed non-viable
+- **Growing conditions**: 60–80% humidity, partial shade, well-draining soil, 15–25°C

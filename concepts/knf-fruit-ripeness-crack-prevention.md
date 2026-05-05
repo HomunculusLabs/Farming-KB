@@ -43,6 +43,7 @@ overall fruit quality.
 
 ## Understanding Fruit Cracking
 
+[[knf-oriental-herbal-nutrient]] plays a key role in crack prevention.
 Fruit cracking is a common problem in many fruit crops. The source
 identifies a specific cause-and-effect relationship: fruits crack
 when rains arrive after a long drought. The sudden availability of
@@ -102,8 +103,7 @@ prevention treatment are more effectively taken up by the plant.
 
 ## Integration with Growth Stage Treatments
 
-These fruit-specific treatments complement the broader growth stage
-treatments described in the source:
+These fruit-specific treatments complement the broader growth stage treatments described in [[knf-vegetative-growth-stage]] and [[knf-reproductive-growth-stage]]. See also [[knf-plant-stage-treatments]] for the full schedule.
 
 1. **Vegetative growth stage**: Treatment promotes vegetative growth
   and increases crop volume and size. All NF inputs diluted at
@@ -134,6 +134,8 @@ The source emphasizes precise timing for fruit treatments:
 
 ## Key Principles
 
+[[knf-nutritive-cycle-theory]] guides the timing of these treatments.
+
 - Fruit quality treatments require specific input combinations rather
   than single-input applications.
 - Sweetness promotion is a two-stage process requiring application
@@ -152,3 +154,7 @@ The source emphasizes precise timing for fruit treatments:
 - [[knf-seawater-fermented-seawater-guide]] — seawater preparation and use
 - [[knf-water-soluble-calcium]] — WCA preparation for fruit firmness
 - [[knf-ohn-oriental-herbal-nutrient-recipe]] — OHN recipe details
+- [[knf-fermented-seawater-preparation]] — fermented seawater preparation methods
+- [[knf-reproductive-growth-stage]] — reproductive stage input schedules
+- [[knf-vegetative-growth-stage]] — vegetative stage input schedules
+- [[knf-soap-water-and-hot-pepper]] — additional pest control inputs
