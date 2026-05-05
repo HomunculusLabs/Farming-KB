@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2321 pages**
+**2323 pages**
 
 ## #
 
@@ -294,6 +294,7 @@
 - [[brassinosteroid-agar-mycelial-growth-acceleration]]
 - [[brassinosteroid-effects-on-fungal-morphology]]
 - [[brassinosteroid-fungal-fruiting-body-morphology]]
+- [[brassinosteroid-fungal-growth-effects]]
 - [[brassinosteroid-fungal-growth-promotion]]
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[brassinosteroids-in-fungal-cultivation]]
@@ -1267,6 +1268,7 @@
 - [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
 - [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
 - [[guzman-magic-mushrooms-ethnomycological-traditions]]
+- [[guzman-magic-mushrooms-new-guinea-sacred-fungi]]
 - [[gymnopilus-genus-neurotropic-species]]
 - [[gymnopilus-purpuratus-profile]]
 - [[gymnopilus-spectabilis-profile]]

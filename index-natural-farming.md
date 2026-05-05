@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**841 pages**
+**843 pages**
 
 ## A
 
@@ -219,6 +219,7 @@
 - [[fukuoka-machine-culture-doomed]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-mandarin-orange-citrus]]
+- [[fukuoka-mechanization-trap-and-farmer-alienation]]
 - [[fukuoka-medfly-quarantine]]
 - [[fukuoka-monoculture-meat-based-agricultural-system]]
 - [[fukuoka-mountain-soil-restoration]]
@@ -389,6 +390,7 @@
 - [[fukuoka-rodenticide-ecosystem-disruption-chain]]
 - [[fukuoka-scattering-straw-technique]]
 - [[fukuoka-science-continues-rampage]]
+- [[fukuoka-science-destroy-and-rebuild-paradox]]
 - [[fukuoka-science-destroyer-of-nature]]
 - [[fukuoka-scientific-farming-paradoxes]]
 - [[fukuoka-seasonal-eating-natural-food-calendar]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1204 pages**
+**1211 pages**
 
 ## #
 
@@ -408,6 +408,7 @@
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
 - [[fukuoka-textdoc-sericulture-natural-vs-scientific-silk-production]]
 - [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
+- [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
 - [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 - [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
 - [[fukuoka-textdoc-soil-self-plowing-earthworm-ecology]]
@@ -639,6 +640,7 @@
 - [[mckenna-catalytic-psychedelics-and-culture]]
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-catalyzing-consciousness-language-formation]]
+- [[mckenna-chimpanzee-self-medication-and-primate-pharmacology]]
 - [[mckenna-coca-mama-coca-inca-goddess-tradition]]
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-diet-symbiosis-human-evolution]]
@@ -652,6 +654,7 @@
 - [[mckenna-dmt-entities-borges-and-archaic-secret]]
 - [[mckenna-dmt-experience-and-hyperspace]]
 - [[mckenna-dmt-experience-and-overmind]]
+- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-drug-war-and-human-freedom]]
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
@@ -751,6 +754,7 @@
 - [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 - [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
+- [[mckenna-tryptamine-glossolalia-and-primal-language]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 - [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
 - [[mckenna-tryptamine-research-legal-status]]
@@ -799,6 +803,7 @@
 - [[metzner-lsd-psychotherapy-approaches]]
 - [[metzner-mdma-assisted-therapy-research]]
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
+- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 - [[metzner-psycholytic-psychedelic-therapy-models]]
 - [[metzner-shamanic-healing-divination-worldview]]
 - [[metzner-spirit-beings-multiple-realities-entheogens]]
@@ -1010,6 +1015,7 @@
 - [[psilocybin-shelf-life-stability]]
 - [[psilocybin-stoned-ape-hypothesis-critique]]
 - [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
+- [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]
 - [[psilocybin-therapeutic-applications]]
 - [[psilocybin-therapy]]
 - [[psilocybin-tolerance-cross-tolerance]]
@@ -1174,6 +1180,7 @@
 - [[stamets-psilocybin-habitats-ecology]]
 - [[susto-andean-folk-illness-category]]
 - [[sweet-flag-acorus-calamus-ethnobotany]]
+- [[syncretic-entheogenic-folk-ceremonies-community-churches]]
 - [[synthetic-tryptamine-methods]]
 - [[syrian-rue-entheogen]]
 - [[syrian-rue-peganum-harmala-ethnobotany]]

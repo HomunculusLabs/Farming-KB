@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1310 pages**
+**1315 pages**
 
 ## #
 
@@ -390,6 +390,7 @@
 - [[grass-seed-mushroom-cultivation]]
 - [[grass-seed-substrate-cultivation-psilocybe]]
 - [[grass-seed-substrate-preparation]]
+- [[grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide]]
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
 - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
 - [[growing-gourmet-atmospheric-steam-sterilization]]
@@ -487,11 +488,15 @@
 - [[guzman-magic-mushrooms-african-species]]
 - [[guzman-magic-mushrooms-asian-species]]
 - [[guzman-magic-mushrooms-chemical-constituents]]
+- [[guzman-magic-mushrooms-copelandia-panaeolus]]
+- [[guzman-magic-mushrooms-european-distribution]]
 - [[guzman-magic-mushrooms-global-biogeography]]
 - [[guzman-magic-mushrooms-habitat-ecology]]
+- [[guzman-magic-mushrooms-mexican-diversity]]
 - [[guzman-magic-mushrooms-neotropical-species]]
 - [[guzman-magic-mushrooms-non-psilocybe-genera]]
 - [[guzman-magic-mushrooms-pacific-australian-species]]
+- [[guzman-magic-mushrooms-psilocybe-sections]]
 - [[guzman-magic-mushrooms-psilocybe-species-list]]
 - [[guzman-magic-mushrooms-temperate-zone-species]]
 - [[guzman-psilocybin-mushrooms-africa]]

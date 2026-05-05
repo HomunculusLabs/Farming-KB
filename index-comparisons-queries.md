@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**965 pages**
+**971 pages**
 
 ## A
 
@@ -319,6 +319,7 @@
 - [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - [[comparison-phytoextraction-vs-phytostabilization]]
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
+- [[comparison-pigeon-pea-vs-cowpea]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pressure-canning-vs-water-bath-canning]]
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
@@ -335,6 +336,7 @@
 - [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]
 - [[comparison-reciprocal-roof-vs-timber-frame]]
 - [[comparison-regenerative-vs-biodynamic]]
+- [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]
 - [[comparison-rhizofiltration-vs-phytoextraction]]
@@ -392,6 +394,7 @@
 - [[comparison-swale-vs-rainwater-harvesting]]
 - [[comparison-syntropic-vs-permaculture]]
 - [[comparison-tempeh-vs-miso]]
+- [[comparison-tempeh-vs-tofu]]
 - [[comparison-terra-preta-vs-modern-biochar]]
 - [[comparison-terracing-vs-swale]]
 - [[comparison-terracing-vs-swales]]
@@ -580,6 +583,7 @@
 - [[query-how-do-i-grow-mulberry-trees]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
+- [[query-how-do-i-grow-passion-fruit-in-a-cold-climate]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
@@ -617,6 +621,7 @@
 - [[query-how-do-i-start-a-hugelkultur-bed]]
 - [[query-how-do-i-start-a-medicinal-herb-garden]]
 - [[query-how-do-i-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-silvopasture-system-on-my-property]]
 - [[query-how-do-i-start-a-small-permaculture-nursery]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
@@ -715,6 +720,7 @@
 - [[query-how-to-grow-avocados-in-cold-climates]]
 - [[query-how-to-grow-cannabis-in-an-aquaponics-system]]
 - [[query-how-to-grow-chaga-mushroom]]
+- [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]
 - [[query-how-to-grow-citrus-in-cold-climates]]
 - [[query-how-to-grow-food-in-small-spaces-vertically]]
 - [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]
