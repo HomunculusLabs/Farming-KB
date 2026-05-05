@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1294 pages**
+**1295 pages**
 
 ## #
 
@@ -138,6 +138,7 @@
 - [[controversy-sacred-mushroom-theory]]
 - [[copelandia-cambodginiensis-profile]]
 - [[copelandia-cyanescens-australia-nz]]
+- [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
 - [[copelandia-genus-species-guide]]
 - [[copelandia-panaeolus-genera]]
 - [[coprinus-comatus-cultivation]]

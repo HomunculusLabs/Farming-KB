@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**915 pages**
+**917 pages**
 
 ## A
 
@@ -191,6 +191,7 @@
 - [[comparison-fukuoka-vs-jadam-farming]]
 - [[comparison-gabions-vs-check-dams]]
 - [[comparison-goat-husbandry-vs-sheep-husbandry]]
+- [[comparison-goats-vs-sheep-in-permaculture-systems]]
 - [[comparison-grafting-vs-budding-fruit-trees]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
@@ -486,6 +487,7 @@
 
 - [[query-benefits-of-integrating-chickens-into-permaculture]]
 - [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]]
+- [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 - [[query-best-light-schedule-for-cannabis]]
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
 - [[query-can-fungi-break-down-plastic-pollution]]

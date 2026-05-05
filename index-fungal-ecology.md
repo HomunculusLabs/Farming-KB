@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2303 pages**
+**2306 pages**
 
 ## #
 
@@ -1312,6 +1312,7 @@
 - [[ingham-trichoderma-biocontrol-fungi-aact]]
 - [[ingoldian-aquatic-fungi]]
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
+- [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]
 - [[inocybe-aeruginascens-profile]]
 - [[insect-arthropod-associated-fungi]]
 - [[insect-associated-fungi-sampling-diversity]]
@@ -1742,6 +1743,7 @@
 - [[neurotropic-fungi]]
 - [[neurotropic-fungi-biogeographic-patterns]]
 - [[neurotropic-fungi-classification]]
+- [[neurotropic-fungi-colombia-species-diversity-and-ecology]]
 - [[neurotropic-fungi-distribution]]
 - [[neurotropic-fungi-five-historical-periods]]
 - [[neurotropic-fungi-in-africa]]
@@ -1752,6 +1754,7 @@
 - [[neurotropic-fungi-in-north-america]]
 - [[neurotropic-fungi-in-oceania]]
 - [[neurotropic-fungi-in-south-america]]
+- [[neurotropic-fungi-japan-east-asia-species-cultural-context]]
 - [[neurotropic-fungi-mycologist-distribution-bias]]
 - [[neurotropic-fungi-of-mexico-and-mesoamerica]]
 - [[neurotropic-fungi-volatility-and-potency-degradation]]

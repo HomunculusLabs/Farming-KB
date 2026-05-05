@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1479 pages**
+**1494 pages**
 
 ## #
 
@@ -185,6 +185,7 @@
 - [[agricultural-mycorrhizae]]
 - [[agrocybe-aegerita-detailed]]
 - [[agrocybe-aegerita-entity]]
+- [[agrocybe-cylindracea]]
 - [[agroforestry]]
 - [[ak-47]]
 - [[ak-47-cannabis]]
@@ -261,6 +262,7 @@
 - [[arthrobotrys-musiformis]]
 - [[arthrobotrys-oligospora]]
 - [[arthur-heffter]]
+- [[arundo-donax]]
 - [[asb-entity]]
 - [[asb-entity-pihkal]]
 - [[ashwagandha]]
@@ -283,6 +285,7 @@
 - [[b-entity-pihkal]]
 - [[bacillus-megaterium]]
 - [[bacillus-subtilis]]
+- [[bacillus-thuringiensis]]
 - [[bacopa-monnieri]]
 - [[bacopa-monnieri-detailed]]
 - [[baeocystin]]
@@ -329,6 +332,7 @@
 - [[botrytis-cinerea]]
 - [[brassinosteroid]]
 - [[bri1]]
+- [[broussonetia-papyrifera]]
 - [[bruce-banner]]
 - [[brugmansia-aurea]]
 - [[brugmansia-sanguinea]]
@@ -664,6 +668,7 @@
 - [[gymnopilus-validipes]]
 - [[gymnopilus-ventricosus]]
 - [[gymnopilus-viridans]]
+- [[gymnopus-dryophilus]]
 - [[gynostemma-pentaphyllum]]
 - [[gyromitra-esculenta]]
 - [[gyromitrin]]
@@ -767,6 +772,7 @@
 - [[james-trappe]]
 - [[jatropha-curcas-entity]]
 - [[jealousy-cannabis-strain-entity]]
+- [[jedi-death-star]]
 - [[jeff-lowenfels]]
 - [[jerusalem-artichoke]]
 - [[jochen-gartz]]
@@ -823,6 +829,7 @@
 - [[laricifomes-officinalis]]
 - [[latua-pubiflora]]
 - [[lavandula-angustifolia-entity]]
+- [[lemon-haze]]
 - [[lentinan]]
 - [[lentinula-edodes]]
 - [[lentinus-edodes-entity-the-mushroom-cultivator]]
@@ -1045,6 +1052,7 @@
 - [[oidiodendron-maius]]
 - [[omphalotus-olearius]]
 - [[ophiostoma-minus]]
+- [[opuntia-ficus-indica]]
 - [[oriental-herbal-nutrient]]
 - [[oriental-herbal-nutrient-ohn]]
 - [[origanum-vulgare-entity]]
@@ -1285,6 +1293,7 @@
 - [[purple-haze]]
 - [[purple-haze-cannabis]]
 - [[purple-punch]]
+- [[pycnoporus-cinnabarinus]]
 - [[pyr-t-entity-tihkal]]
 - [[pyridoxal-phosphate]]
 - [[pyridoxamine-phosphate]]
@@ -1303,6 +1312,7 @@
 - [[rauwolfia-serpentina]]
 - [[reishi-ganoderma-lucidum]]
 - [[rhizoctonia-solani]]
+- [[rhizophagus-irregularis]]
 - [[rhizopogon-vinicolor]]
 - [[rhizopus-arrhizus]]
 - [[rhizopus-stolonifer]]
@@ -1324,6 +1334,7 @@
 - [[roland-griffiths]]
 - [[rolf-singer]]
 - [[rosmarinus-officinalis-entity]]
+- [[rubroboletus-satanas]]
 - [[rubus-idaeus-entity]]
 - [[rumex-acetosa]]
 - [[rumex-obtusifolius-entity]]
@@ -1395,11 +1406,13 @@
 - [[stigmasterol]]
 - [[strawberry-cough]]
 - [[streptomyces]]
+- [[streptomyces-avermitilis]]
 - [[streptomyces-griseus]]
 - [[stropharia-caerulea]]
 - [[stropharia-cubensis]]
 - [[stropharia-rugoso-annulata]]
 - [[stropharia-rugosoannulata]]
+- [[suillellus-luridus]]
 - [[suillus-bovinus]]
 - [[suillus-granulatus]]
 - [[suillus-grevillei]]
@@ -1415,6 +1428,7 @@
 ## T
 
 - [[ta-entity-pihkal]]
+- [[tabernaemontana-divaricata]]
 - [[tabernanthe-iboga]]
 - [[tagasaste]]
 - [[tagetes-erecta-entity]]
@@ -1469,6 +1483,7 @@
 - [[trametes-versicolor]]
 - [[trametes-versicolor-entity]]
 - [[tremella-aurantia]]
+- [[tremella-aurantialba]]
 - [[tremella-fuciformis]]
 - [[tremella-mesenterica]]
 - [[tribulus-terrestris]]
