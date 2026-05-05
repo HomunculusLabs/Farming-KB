@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1454 pages**
+**1469 pages**
 
 ## #
 
@@ -206,6 +206,7 @@
 - [[alexander-shulgin]]
 - [[alfalfa-medicago-sativa]]
 - [[allan-savory]]
+- [[allium-sativum-entity]]
 - [[alnus-rubra]]
 - [[aloe-vera]]
 - [[alpha-amanitin]]
@@ -241,6 +242,7 @@
 - [[aphanocladium-album]]
 - [[apple-fritter]]
 - [[arabidopsis-thaliana]]
+- [[arachis-pintoi-entity]]
 - [[araucaria-araucana]]
 - [[arctium-lappa]]
 - [[areca-catechu]]
@@ -371,6 +373,7 @@
 - [[ceratonia-siliqua]]
 - [[chaetomium-globosum]]
 - [[chamaecytisus-palmensis]]
+- [[chamomilla-recutita-entity]]
 - [[chemdawg]]
 - [[chemdawg-entity]]
 - [[chemdog]]
@@ -425,6 +428,7 @@
 - [[corneliu-e-giurgea]]
 - [[cortinarius-cinnamomeus]]
 - [[cortinarius-orellanus]]
+- [[cortinarius-rubellus]]
 - [[coryphantha-compacta]]
 - [[cpm-entity]]
 - [[cpm-entity-pihkal]]
@@ -436,6 +440,7 @@
 - [[curcuma-longa]]
 - [[cylindrocarpon-destructans]]
 - [[cymbopogon-citratus]]
+- [[cymbopogon-flexuosus]]
 - [[cynara-scolymus-entity]]
 
 ## D
@@ -738,6 +743,7 @@
 - [[inocybe-haemacta]]
 - [[inocybe-longicystis]]
 - [[inocybe-tricolor]]
+- [[inonotus-hispidus-entity]]
 - [[inonotus-obliquus]]
 - [[inonotus-obliquus-entity]]
 - [[ip-entity]]
@@ -787,18 +793,21 @@
 - [[ketamine]]
 - [[keyline-design]]
 - [[koryaks]]
+- [[kosher-kush-entity]]
 - [[kuehneromyces-mutabilis-entity]]
 
 ## L
 
 - [[l-citrulline]]
 - [[l-ornithine]]
+- [[laccaria-amethystina]]
 - [[laccaria-bicolor]]
 - [[laccaria-laccata]]
 - [[laccase]]
 - [[lactarius-deliciosus]]
 - [[lactarius-indigo]]
 - [[lactarius-rufus]]
+- [[lactarius-torminosus]]
 - [[lactic-acid-bacteria]]
 - [[lactic-acid-bacteria-serum-labs]]
 - [[lactobacillus]]
@@ -1027,6 +1036,7 @@
 - [[ocimum-tenuiflorum]]
 - [[octavia-e-butler]]
 - [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[oidiodendron-maius]]
 - [[omphalotus-olearius]]
 - [[ophiostoma-minus]]
@@ -1082,6 +1092,7 @@
 - [[penicillium-simplicissimum]]
 - [[penis-envy-cubensis]]
 - [[permaculture]]
+- [[persea-americana-entity]]
 - [[persimmon-entity]]
 - [[peter-oei]]
 - [[phalaris-aquatica]]
@@ -1089,6 +1100,7 @@
 - [[phanerochaete-chrysosporium]]
 - [[phanerochaete-velutina]]
 - [[phellinus-ferreus]]
+- [[phellinus-igniarius-entity]]
 - [[phellinus-linteus]]
 - [[phellinus-weirii]]
 - [[phenethylamine-pharmacology]]
@@ -1240,6 +1252,7 @@
 - [[psilocybe-subcubensis]]
 - [[psilocybe-subfimetaria]]
 - [[psilocybe-tampanensis]]
+- [[psilocybe-tampanensis-entity]]
 - [[psilocybe-tasmaniana]]
 - [[psilocybe-thailandensis]]
 - [[psilocybe-thessalonica]]
@@ -1311,6 +1324,7 @@
 - [[runtz-cannabis]]
 - [[russula-cyanoxantha]]
 - [[russula-emetica]]
+- [[russula-virescens]]
 
 ## S
 
@@ -1489,6 +1503,7 @@
 
 ## V
 
+- [[vaccinium-corymbosum-entity]]
 - [[valentina-pavlovna-wasson]]
 - [[valeriana-officinalis]]
 - [[verbascum-thapsus]]

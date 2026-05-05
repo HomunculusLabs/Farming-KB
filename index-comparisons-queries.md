@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**911 pages**
+**913 pages**
 
 ## A
 
@@ -184,6 +184,7 @@
 - [[comparison-food-forest-vs-orchard]]
 - [[comparison-food-forest-vs-polyculture]]
 - [[comparison-fpj-vs-ffj]]
+- [[comparison-free-living-vs-parasitic-nematodes]]
 - [[comparison-fruit-tree-guilds-vs-companion-planting]]
 - [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 - [[comparison-fukuoka-vs-holzer]]
@@ -911,6 +912,7 @@
 - [[query-what-is-the-difference-between-perlite-and-vermiculite]]
 - [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
 - [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
+- [[query-what-is-the-difference-between-saprotrophic-parasitic-and-mutualistic-fungi]]
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]
 - [[query-what-is-the-difference-between-topping-and-fimming-cannabis]]
 - [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]]

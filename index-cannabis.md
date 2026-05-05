@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**928 pages**
+**929 pages**
 
 ## A
 
@@ -392,6 +392,7 @@
 - [[cannabis-health-cbd-cannabidiol]]
 - [[cannabis-health-endo-cannabinoid-system]]
 - [[cannabis-health-index]]
+- [[cannabis-health-index-evidence-based-framework-scoring-system]]
 - [[cannabis-health-index-scoring]]
 - [[cannabis-health-index-scoring-evidence-methodology]]
 - [[cannabis-health-index-scoring-system]]

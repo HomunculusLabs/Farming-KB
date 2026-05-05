@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**387 pages**
+**390 pages**
 
 ## A
 
@@ -270,6 +270,7 @@
 ## M
 
 - [[maintaining-organic-matter-in-vegetable-gardens]]
+- [[manure-quality-variability-and-fertilizer-value]]
 - [[microbial-alpha-diversity-soil-plant-gradient]]
 - [[micronutrient-deficiency-symptoms]]
 - [[micronutrients-plant-nutrition]]
@@ -392,6 +393,7 @@
 - [[soil-testing-methods-interpretation]]
 - [[solomon-capillarity-and-soil-moisture-movement]]
 - [[solomon-carbon-nitrogen-ratios]]
+- [[solomon-clay-soil-management-and-remediation]]
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-compost-organic-matter]]
 - [[solomon-composting-methods]]
@@ -405,6 +407,7 @@
 - [[solomon-sheet-composting-mulch-gardening]]
 - [[solomon-soil-mineral-depletion]]
 - [[solomon-soil-preparation-bed-prep]]
+- [[solomon-soil-temperature-and-nighttime-plant-growth]]
 - [[solomon-soil-testing-and-interpretation-low-input]]
 - [[solomon-tilling-and-soil-aeration]]
 - [[solomon-vegetable-nutritional-decline-trace-minerals]]

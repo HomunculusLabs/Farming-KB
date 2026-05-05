@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2300 pages**
+**2302 pages**
 
 ## #
 
@@ -1088,6 +1088,7 @@
 - [[fungi-associated-aquatic-animals]]
 - [[fungi-convention-on-biological-diversity]]
 - [[fungi-cultivated-mushrooms-pathogens-competitors]]
+- [[fungi-dominant-soil-biomass-ecosystem-engineers]]
 - [[fungi-ecosystem-engineers]]
 - [[fungi-ecosystem-health-indicators]]
 - [[fungi-forest-fire-succession-litter-dighton]]
@@ -1505,6 +1506,7 @@
 - [[mycelial-network-biology]]
 - [[mycelial-network-communication]]
 - [[mycelial-network-computation]]
+- [[mycelial-network-nutrient-transport-pulsatile-dynamics]]
 - [[mycelial-network-structure]]
 - [[mycelial-networks]]
 - [[mycelial-networks-and-intelligence]]

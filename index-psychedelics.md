@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1143 pages**
+**1144 pages**
 
 ## #
 
@@ -1013,6 +1013,7 @@
 - [[psychoactive-cacti-of-central-mexico]]
 - [[psychoactive-cacti-species-reference]]
 - [[psychoactive-plants-united-states]]
+- [[psycholytic-and-psychedelic-therapy-models]]
 
 ## Q
 
