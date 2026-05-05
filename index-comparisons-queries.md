@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**935 pages**
+**939 pages**
 
 ## A
 
@@ -76,6 +76,7 @@
 - [[comparison-biogas-vs-composting-toilet]]
 - [[comparison-biointensive-vs-permaculture]]
 - [[comparison-biointensive-vs-square-foot-gardening]]
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - [[comparison-bioponics-vs-aquaponics]]
 - [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
 - [[comparison-black-locust-vs-honey-locust]]
@@ -146,6 +147,7 @@
 - [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 - [[comparison-composting-toilets-vs-humanure]]
 - [[comparison-constructed-wetland-vs-backyard-pond]]
+- [[comparison-coppicing-vs-pollarding]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[comparison-crop-rotation-vs-cover-cropping]]
 - [[comparison-dam-construction-vs-swale-design]]
@@ -518,6 +520,7 @@
 - [[query-how-do-amf-improve-plant-nutrient-uptake]]
 - [[query-how-do-bacteriophages-affect-soil-microbiome-and-plant-health]]
 - [[query-how-do-clay-seed-balls-work-for-natural-farming]]
+- [[query-how-do-coppice-and-pollard-systems-work]]
 - [[query-how-do-cover-crops-suppress-weeds]]
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
@@ -620,6 +623,7 @@
 - [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
 - [[query-how-do-photonic-crystals-create-structural-color]]
+- [[query-how-do-plants-defend-themselves-chemically]]
 - [[query-how-do-psychedelics-change-consciousness]]
 - [[query-how-do-slime-molds-decompose-organic-matter]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
