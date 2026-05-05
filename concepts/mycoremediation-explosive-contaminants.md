@@ -58,7 +58,7 @@ Dawel et al. (1997) demonstrated laccase-mediated coupling of 2,4-diamino-6-nitr
 
 ## Advantages of Fungal Treatment
 
-Fungal treatment of explosive contaminants offers several advantages:
+[[key-fungal-species-bioremediation]] offers several advantages for treating explosive contaminants:
 
 - Nonspecific ligninolytic enzymes can attack recalcitrant nitroaromatic structures
 - Both living and nonliving fungal biomass can be employed
@@ -84,7 +84,7 @@ Translating laboratory mycoremediation results to field-scale operations require
 
 ## Limitations and Future Needs
 
-Key limitations include the need for optimized soil characteristics, competition from native microorganisms, and the challenge of scaling laboratory results to field conditions. Large-scale greenhouse and field trials are needed, along with optimization of fungal inoculum production, soil conditions, and host plant selection for mycorrhizal systems.
+Key limitations include the need for optimized soil characteristics, competition from native microorganisms, and the challenge of scaling laboratory results to field conditions. [[mycoremediation-emerging-techniques]] and [[fungal-bioremediation-formulation-delivery]] are active research areas addressing these gaps. Large-scale greenhouse and field trials are needed, along with optimization of fungal inoculum production, soil conditions, and host plant selection for mycorrhizal systems.
 
 ## Comparative Performance of Fungal Species
 
@@ -110,6 +110,10 @@ Epigenetic regulation of [[fungal-enzyme-systems]] through histone modification 
 - [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
 - [[mycoremediation-phytoremediation-combined]]
 - [[mycoremediation-field-applications-case-studies]]
+- [[key-fungal-species-bioremediation]]
+- [[mycoremediation-emerging-techniques]]
+- [[fungal-bioremediation-formulation-delivery]]
+- [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]
 
 ## References
 

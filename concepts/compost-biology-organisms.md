@@ -97,7 +97,10 @@ Successful composting requires:
 - Organic materials with appropriate C:N ratio (around 30:1 is ideal)
 
 See also: [[compost-tea-brewing]], [[bacterial-vs-fungal-soil-dynamics]],
-[[mulch-types-effects-soil-biology]], [[earthworm-ecology]]
+[[mulch-types-effects-soil-biology]], [[earthworm-ecology]],
+[[bokashi-compost-method]], [[decomposition]],
+[[mollison-pdc-sheet-mulching-versus-composting]],
+[[actinomycetes-soil-biology]]
 
 Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

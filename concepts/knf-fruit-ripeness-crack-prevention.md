@@ -37,7 +37,7 @@ nutritional support during the critical final ripening period.
 
 The combination of [[knf-oriental-herbal-nutrient]] for plant
 robustness, [[water-soluble-calcium-wca]] for fruit firmness
-and nutrient accumulation, and seawater for trace minerals creates a
+and nutrient accumulation, and [[cho-seawater-and-fermented-seawater|seawater]] for trace minerals creates a
 comprehensive ripening treatment that enhances both sweetness and
 overall fruit quality.
 
@@ -75,15 +75,15 @@ period, before the rains arrive. Each input serves a specific
 protective function:
 
 - **OHN** increases plant robustness and helps the plant withstand
-  stress conditions.
-- **BRV** (brown rice vinegar) improves the flexibility of the tree
+  stress conditions. See [[knf-oriental-herbal-nutrient]] for preparation details.
+- **BRV** ([[knf-brown-rice-vinegar|brown rice vinegar]]) improves the flexibility of the tree
   and helps form the wax layer on leaves and fruit surfaces,
   creating thicker skins that resist cracking.
-- **FPJ** provides enzymes and growth factors that support the
+- **FPJ** ([[knf-fermented-plant-juice|fermented plant juice]]) provides enzymes and growth factors that support the
   plant's ability to maintain healthy fruit skin elasticity.
-- **LAB** reinforces the plant's natural defenses and supports
+- **LAB** ([[lactic-acid-bacteria]]) reinforces the plant's natural defenses and supports
   overall plant vitality during stress.
-- **Seawater** supplies trace minerals that strengthen cell walls
+- **Seawater** ([[cho-seawater-and-fermented-seawater|sea minerals]]) supplies trace minerals that strengthen cell walls
   and improve the plant's stress resistance.
 
 ## The Role of BRV in Fruit Quality

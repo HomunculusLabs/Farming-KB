@@ -1,86 +1,149 @@
 ---
-title: Myrcene
+title: "Myrcene"
 type: chemical
-tags: [terpene, cannabis, sedative, anti-inflammatory, monoterpene]
+tags: [terpene, cannabis, monoterpene, anti-inflammatory, sedative]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/racannabis-sativadern-farm-why-cannabis-grown-with-lab-might-produce.md]
+sources:
+  - "general phytochemistry and cannabis science knowledge"
 ---
 
 # Myrcene
 
-Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an acyclic monoterpene that is the most abundant terpene found in most cannabis (*[[cannabis-sativa]]*) cultivars. It plays a critical role in determining the aroma, flavor, and pharmacological effects of cannabis and is increasingly recognized for its own therapeutic properties, including sedative, anti-inflammatory, analgesic, and muscle relaxant activities.
+Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an
+acyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the essential oils of
+numerous plants including cannabis (Cannabis sativa L.), hops (Humulus lupulus),
+lemongrass (Cymbopogon citratus), thyme (Thymus vulgaris), bay laurel
+(Laurus nobilis), and mango (Mangifera indica). It is the most abundant
+terpene in the majority of commercial cannabis cultivars, typically comprising
+30–65% of the total terpene profile in indica-dominant strains and serving as
+a key contributor to the characteristic earthy, musky, and herbal aroma.
 
+Beyond its aromatic role, myrcene is of significant pharmacological interest
+due to its well-documented anti-inflammatory, analgesic, sedative, and muscle
+relaxant properties. It is widely considered a principal contributor to the
+"couch-lock" sedative effect associated with indica-dominant cannabis
+varieties. Myrcene is also a major flavor and aroma compound in the brewing
+industry, responsible for the hoppy character of beer. The compound exists as
+two structural isomers: β-myrcene (the naturally occurring, biologically
+active form) and α-myrcene (a minor synthetic isomer). In this entry, "myrcene"
+refers to β-myrcene unless otherwise specified.
 
+## Chemical Identity
 
-## Chemical Properties
+- **IUPAC Name:** 7-methyl-3-methyleneocta-1,6-diene
+- **Molecular Formula:** C₁₀H₁₆
+- **Molecular Weight:** 136.24 g/mol
+- **CAS Number:** 123-35-3
+- **PubChem CID:** 31253
+- **SMILES:** CC(=CCCC(=C)C=C)C
+- **InChIKey:** WRWYKHIIKCEKQB-UHFFFAOYSA-N
+- **Boiling Point:** 166–168 °C at 760 mmHg
+- **Density:** 0.79 g/mL at 25 °C
+- **Refractive Index:** 1.465 at 20 °C
+- **Appearance:** Colorless to pale yellow liquid with a pleasant, earthy,
+  balsamic, and slightly spicy aroma
+- **Solubility:** Insoluble in water; soluble in ethanol, ether, acetone, and
+  most organic solvents
+- **Odor Threshold:** 13–36 ppb in water (very low; potent aroma compound)
+- **Isomers:** β-myrcene (natural, biologically active) and α-myrcene (minor)
 
-Myrcene has the molecular formula C10H16 and a molecular weight of 136.23 g/mol. It is an unsaturated hydrocarbon consisting of a ten-carbon isoprene-derived chain with two double bonds. At room temperature, myrcene is a colorless to pale yellow liquid with a characteristic earthy, herbal, and slightly fruity aroma reminiscent of cloves, thyme, and tropical fruits such as mango.
+## Biosynthesis
 
-Myrcene exists in two isomeric forms: α-myrcene and β-myrcene, with the beta isomer being far more common in nature and of greater biological significance. The compound is lipophilic and volatile, contributing to the characteristic aroma of many essential oils and plant resins.
+Myrcene is biosynthesized in plants via the MEP (methylerythritol phosphate)
+pathway in plastids. Pyruvate and glyceraldehyde-3-phosphate condense to form
+DOXP, which is converted to IPP and DMAPP. Geranyl pyrophosphate synthase
+condenses one IPP and one DMAPP to form GPP (C₁₀). Myrcene synthase (a
+terpene synthase) then converts GPP to myrcene. In cannabis, myrcene synthase
+is encoded by multiple TPS gene family members; expression peaks during late
+flowering in glandular trichomes.
 
+## Occurrence in Nature
 
-
-## Natural Occurrence
-
-Myrcene is one of the most widely distributed terpenes in the plant kingdom and is found in significant quantities in numerous plant species:
-
-- ***Cannabis sativa***: Typically the dominant terpene, comprising 20–60% of the total essential oil profile in many cultivars. Myrcene content varies widely among chemotypes and is a major contributor to the distinction between indica-dominant and sativa-dominant clarke marijuana botany.
-- **Hops (*Humulus lupulus*)**: A close botanical relative of cannabis, hops are another major source of myrcene, which contributes to the characteristic aroma of beer.
-- **Mango (*Mangifera indica*)**: Myrcene is a significant aroma compound in ripe mangoes, contributing to their tropical fragrance.
-- **Lemongrass (*Cymbopogon citratus*)**: Contains myrcene along with citral and other terpenes.
-- **Bay laurel (*Laurus nobilis*)**, **thyme (*Thymus vulgaris*)**, **parsley (*Petroselinum crispum*)**, and **eucalyptus** species are additional notable sources.
-
-
+Myrcene is one of the most widely distributed monoterpenes. Notable sources:
+- **Cannabis (C. sativa):** 0.1–1.6% dry weight; typically the most abundant
+  terpene; higher in indica-dominant strains
+- **Hops (Humulus lupulus):** Up to 50% of hop essential oil
+- **Lemongrass (Cymbopogon spp.):** 15–40% of oil
+- **Mango (Mangifera indica):** Present in peel and pulp; popularly associated
+  with cannabis synergy ("mango enhances the high")
+- **Thyme, bay laurel, eucalyptus, verbena:** Minor to moderate constituents
 
 ## Role in Cannabis
 
-### Entourage Effect
+Myrcene is the dominant terpene in ~60–70% of commercial cannabis cultivars:
+- **Entourage effect:** Hypothesized to enhance THC bioavailability by
+  increasing cell membrane permeability, potentially aiding blood-brain
+  barrier crossing; limited direct experimental confirmation
+- **Sedative contribution:** Strains high in myrcene (>0.5% w/w) are
+  consistently associated with sedative, relaxing "couch-lock" effects;
+  myrcene's own analgesic and muscle relaxant activity likely contributes
+- **Aroma:** Earthy, musky, herbal, slightly fruity ("green" or "balsamic")
+- **Strain examples:** OG Kush, Granddaddy Purple, Blue Dream, Hindu Kush,
+  Northern Lights, 9 lb Hammer
+- **Breeding:** Selecting for high myrcene is common in sedative cultivar
+  breeding; content is partly heritable but influenced by growing conditions
 
-Myrcene is a key participant in the entourage effect—the synergistic interaction between cannabinoids, terpenes, and other cannabis constituents that modulates the overall pharmacological activity of the plant. Myrcene has been shown to enhance the activity of tetrahydrocannabinol (THC) by increasing the permeability of the blood-brain barrier and cell membranes, facilitating the uptake of THC and other cannabinoids into tissues. It also modulates cannabinoid recepcannabis-chemotype-classificationgh allosteric interactions and contributes its own pharmacological effects that complement and amplify those of cannabinoids.
+## Pharmacology and Biological Activity
 
-### Chemotype Determination
+Myrcene has demonstrated a range of pharmacological activities in preclinical
+studies:
+- **Anti-inflammatory:** Inhibits COX-1/COX-2; reduces prostaglandin E₂;
+  comparable potency to thymol in some assays
+- **Analgesic:** Peripheral analgesic in mouse models; non-opioid mechanism
+  involving TRPV1 and prostaglandin pathways
+- **Sedative/anxiolytic:** Potentiates barbiturate sleep time in mice at
+  10–200 mg/kg; enhances GABA_A receptor activity at high concentrations
+- **Muscle relaxant:** Reduces muscle tension; may involve calcium channel
+  modulation
+- **Antimicrobial:** Active against S. aureus, E. coli, P. aeruginosa, and
+  C. albicans (MIC 0.125–2 mg/mL)
+- **Antioxidant:** Scavenges DPPH and ABTS radicals; modest vs phenolics
+- **Anti-cancer:** Induces apoptosis in prostate, breast, colon cell lines
+  in vitro via ROS generation and mitochondrial pathway
+- **GRAS status:** FDA Generally Recognized As Safe as food flavoring
 
-Myrcene content is one of the primary determinants of cannabis chemotype climoneneation. Indica-dominant cultivars typically contain higher levels of myrcene (associated with sedative, relaxing effects), while sativa-dominant cultivars tend to have lower myrcene and higher levels of more energizing terpenes such as limonene and pinene.
+## Toxicity and Safety
 
-### Cultivation Factors Affecting Myrcene Content
+- **Acute toxicity:** Low; oral LD₅₀ in rats >5,000 mg/kg
+- **Dermal:** Mild irritant at full strength; diluted well tolerated
+- **Sensitization:** Low potential in human repeat insult patch tests
+- **Occupational:** Concentrated vapors may cause respiratory irritation
+- **Drug interactions:** No well-documented clinical interactions; theoretical
+  potentiation of CNS depressants based on preclinical GABAergic data
+- **Metabolism:** Rapidly metabolized via CYP450; excreted as glucuronide
+  and sulfate conjugates
 
-Myrcene levels are influenced by numerous agronomic and environmental factors including genetics (the primary determinant), light spectrum (UV-B can upregulate terpene biosynthesis), nutrient availability (adequate phosphorus and micronutrients support terpene production), harvest timing (myrcene typically peaks late in the comparison [[autoflowering-cannabis]]), and [[cannabis-drying-and-curing]] conditions.
+## Commercial and Industrial Uses
 
+- **Food and beverage:** Flavoring agent (fruity, herbal, balsamic); FEMA GRAS
+  No. 2762; used in fruit drinks, candy, baked goods
+- **Fragrance:** Fresh, green, balsamic character in men's fragrances,
+  fougère accords, and "green" compositions
+- **Brewing:** Major hop-derived flavor compound in beer (IPAs, pale ales)
+- **Cannabis industry:** Tracked in COAs; used for chemotype classification
+  and marketing ("high-myrcene" labels)
+- **Industrial precursor:** Starting material for nerol, geraniol,
+  citronellol via chemical or enzymatic modification
 
+## Similar Compounds
 
-## Pharmacological Properties
+| Compound | Formula | Key Difference | Primary Role |
+|----------|---------|----------------|--------------|
+| Myrcene | C₁₀H₁₆ | Acyclic monoterpene | Most abundant cannabis terpene |
+| Limonene | C₁₀H₁₆ | Monocyclic (ring) | Citrus aroma, mood elevation |
+| Linalool | C₁₀H₁₈O | Acyclic + alcohol group | Floral, sedative, anxiolytic |
+| β-Caryophyllene | C₁₅H₂₄ | Bicyclic sesquiterpene | CB2 agonist, anti-inflammatory |
+| α-Pinene | C₁₀H₁₆ | Bicyclic monoterpene | Pine aroma, bronchodilator |
+| Ocimene | C₁₀H₁₆ | Isomer, different bond position | Sweet, woody, antifungal |
+| Humulene | C₁₅H₂₄ | Bicyclic sesquiterpene | Earthy, appetite suppressant |
+| Terpinolene | C₁₀H₁₆ | Monocyclic + exocyclic double bond | Piney, floral, sedative |
 
-### Sedative and Anxiolytic Effects
+## See Also
 
-Myrcene is perhaps best known for its sedative properties. Animal studies have demonstrated significant sedative and anxiolytic effects mediated through GABA_A receptor modulation and possible adenosine receptor interaction. This accounts for the characteristic "couch-lock" sedation associated with myrcene-rich cannabis cultivars.
-
-### Analgesic Effects
-
-Myrcene exhibits analgesic activity in animal models of acute and chronic pain through activation of peripheral opioid receptors, inhibition of prostaglandin E2 synthesis, modulation of voltage-gated sodium channels, and reduction of inflammatory mediators that sensitize pain pathways.
-
-### Anti-inflammatory Activity
-
-Myrcene demonstrates significant anti-inflammatory activity through inhibition of COX-2 and 5-lipoxygenase enzymes, reduction of pro-inflammatory cytokine production (TNF-α, IL-1β, IL-6), suppression of NF-κB signaling pathway activation, and decreased neutrophil migration in models of acute inflammation.
-
-### Muscle Relaxant Properties
-
-The muscle relaxant properties of myrcene have been demonstrated in preclinical studies and are of particular relevance to the use of myrcene-rich cannabis for conditions involving muscle spasms, tension, and pain.
-
-### Antioxidant Activity
-
-Myrcene exhibits moderate antioxidant activity, scavenging free radicals and reducing oxidative stress in cellular and animal models. This antioxidant capacity contributes to its anti-inflammatory and neuroprotective effects.
-
-
-
-## Safety and Toxicology
-
-Myrcene is generally recognized as safe (GRAS) by the United States Food and Drug Administration for use as a flavoring agent. It is widely consumed through dietary sources including hops in beer, mangoes, lemongrass tea, and numerous herbs and spices. Oral LD50 values in animal studies are relatively high (>5 g/kg in rodents), indicating low acute toxicity.
-
-
-
-## Industrial Applications
-
-Beyond its role in cannabis therapeutics, myrcene has numerous industrial applications including use in the fragrance industry as a component in perfumes and personal care products, food and beverage flavoring, chemical synthesis as a precursor for myrcenol, nerol, geraniol, and other commercially important terpenoids, and polymer production for synthetic resins and elastomers.
-
-Related: [[cannabis-anti-inflammatory-applications]], [[oner-cannabis-terpene-profiles-effects]], [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
+- [[Cannabis sativa]]
+- [[OG Kush]]
+- [[Granddaddy Purple]]
+- [[Blue Dream]]
+- [[Cannabigerol]]
+- [[Cannabichromene]]

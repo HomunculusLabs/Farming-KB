@@ -2,124 +2,135 @@
 title: Mitragyna speciosa
 type: species
 tags:
-  - plant
-  - psychoactive
-  - opioid
+  - herbal-plant
+  - medicinal-plant
+  - opioid-receptor
+  - analgesic
+  - ethnobotany
   - rubiaceae
-  - southeast-asia
+  - traditional-medicine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
+  - https://pubmed.ncbi.nlm.nih.gov/?term=mitragyna+speciosa+kratom
+  - https://www.drugabuse.gov/drugs-abuse/kratom
+  - Prozialeck, W.C. et al. (2012). "Kratom: A case of misleading product categorization." J Drug Target.
+  - Hassan, Z. et al. (2013). "Mitragyna speciosa: A review of its pharmacology." J Pharm Pharmacol.
 ---
 
 # Mitragyna speciosa
 
-**Mitragyna speciosa** Korthals, commonly known as **Kratom**, is a tropical tree in the coffee family (Rubiaceae) native to Southeast Asia. It has a long history of traditional use as a stimulant, analgesic, and opium substitute in Thailand and Malaysia.
+**Kratom** | **Ketum** | **Thom** | **Ithang** | **Kakuam** | **Biak**
 
-## Taxonomy and Classification
+*Mitragyna speciosa* is a tropical evergreen tree in the coffee family (Rubiaceae), native to Southeast Asia. Its leaves contain a complex mixture of indole alkaloids — most notably mitragynine and 7-hydroxymitragynine — that produce stimulant effects at low doses and opioid-like analgesic and sedative effects at higher doses. Kratom has been used traditionally for centuries in Thailand, Malaysia, and Indonesia as a labor tonic, pain reliever, and management tool for opioid withdrawal.
 
-- **Family:** Rubiaceae (Madder/Coffee Family)
-- **Genus:** Mitragyna
-- **Species:** M. speciosa
-- **Authority:** Korthals
-- **Common names:** Kratom, Ketum, Thom, Ithang, Kakuam, Biak
+## Taxonomy
 
-The genus Mitragyna was established by the Dutch botanist Pieter Willem Korthals in the 19th century. The name is derived from the mitre-like shape of the stigma in the flowers. There are several species in the genus, but M. speciosa is by far the most significant in terms of psychoactive properties. The plant belongs to the same family as coffee (Coffea) and the psychoactive West African plant uncaria-tomentosa (Cat's Claw).
+- **Kingdom:** Plantae
+- **Clade:** Angiosperms, Eudicots, Asterids
+- **Order:** Gentianales
+- **Family:** Rubiaceae
+- **Genus:** *Mitragyna*
+- **Species:** *M. speciosa* Korth.
+- **First described:** Pieter Willem Korthals, 1839
 
-## Morphology
+The genus *Mitragyna* contains approximately 10 species distributed across tropical and subtropical Asia and Africa. The specific epithet refers to the distinctive mitre-shaped stigma of the flower. The species was originally placed in the genus *Nauclea* before being transferred to *Mitragyna*.
 
-Mitragyna speciosa is a tree that can reach considerable height in its native habitat, often growing to 50 feet (15 meters) or more under ideal conditions. The tree has large, dark green, oval-shaped leaves that are the primary plant part consumed. The leaves are glossy and can grow up to 7 inches (18 cm) long and 4 inches (10 cm) wide, with a prominent midrib and 12 to 17 pairs of lateral veins.
+## Botanical Description
 
-The tree produces clusters of small, yellowish flowers arranged in globular heads at the end of branches. The fruit is a small capsule containing numerous tiny, winged seeds that are dispersed by wind. In cultivation, Kratom is more commonly propagated through cuttings than from seed, as the seeds are short-lived and have low germination rates.
+- **Growth habit:** Tall, straight-trunked evergreen tree, 4–30 m in height; in cultivation typically 3–7 m
+- **Trunk:** Cylindrical, smooth bark, grey to brown, 10–30 cm diameter at maturity
+- **Leaves:** Opposite, ovate-acuminate, 10–18 cm long × 6–10 cm wide, glossy dark green above, lighter below; prominent midrib with 12–16 pairs of lateral veins; margin entire
+- **Flowers:** Yellow, in globular umbellate heads at branch tips; each head 3–5 cm diameter containing 30–60 florets
+- **Fruit:** Small, cylindrical capsule, 4–6 mm, containing numerous tiny flat seeds
+- **Root system:** Deep taproot with extensive lateral roots; drought-tolerant once established
 
-## Distribution
+## Distribution and Habitat
 
-Kratom is native to Southeast Asia, with its range extending through:
+Native to: Thailand, Malaysia, Indonesia (Sumatra, Borneo, Kalimantan), Myanmar, Philippines, Papua New Guinea. Introduced and naturalized in parts of tropical Africa and the Americas.
 
-- **Thailand** (where it is indigenous but illegal)
-- **Northern Malay Peninsula**
-- **Borneo** (Kalimantan, Sabah, Sarawak)
-- **New Guinea**
-- **Myanmar** (Burma)
-- **Sumatra** and other Indonesian islands
+- **Climate:** Tropical and subtropical; USDA zones 11–12 outdoors
+- **Altitude:** Sea level to 500 m
+- **Habitat:** Lowland and lower montane primary and secondary rainforest, riverbanks, forest margins, disturbed areas
+- **Soil:** Prefers rich, well-drained loamy soils with pH 5.5–6.5; tolerates poor soils
+- **Rainfall:** 1500–2500 mm annual rainfall preferred
 
-It grows in tropical and subtropical climates, typically in humid, well-drained forest environments. The tree thrives in lowland tropical forests and is commonly found along riverbanks and in forest clearings.
+## Chemical Constituents
 
-## Ethnobotanical Uses
+Over 40 alkaloids have been identified in *M. speciosa* leaves. The major bioactive compounds:
 
-### Opium Substitute
+### Primary Alkaloids
+- **Mitragynine:** C₂₃H₃₀N₂O₄, MW 398.5; 66–70% of total alkaloid content. Partial agonist at μ-opioid receptors and competitive antagonist at δ- and κ-opioid receptors. Also acts on adrenergic, serotonergic, and dopaminergic systems.
+- **7-Hydroxymitragynine:** Minor constituent (~2% of total) but 30–46× more potent than mitragynine at μ-opioid receptors. Primary contributor to analgesic effects.
+- **Speciociliatine:** ~8% of total alkaloids; weak opioid activity
+- **Speciogynine:** ~6% of total; smooth muscle relaxant properties
+- **Paynantheine:** ~9% of total; limited pharmacological data
 
-In the 19th century, Kratom was well-known as an opium substitute in Thailand and Malaysia. Workers and laborers used Kratom leaves to manage fatigue, pain, and opium withdrawal symptoms. The leaves were typically chewed fresh or dried and brewed into a tea. During the opium epidemic of the 19th century, Kratom served as a harm reduction tool for people seeking to reduce their opium dependence.
-
-### Traditional Medicine
-
-In traditional Southeast Asian medicine, Kratom has been used for:
-
-- **Pain relief** — as an analgesic for chronic and acute pain
-- **Fatigue management** — as a stimulant at low doses
-- **Diarrhea treatment** — due to its antidiarrheal properties
-- **Opioid withdrawal management** — as a substitute for opium
-- **Fever reduction** — as an antipyretic
-- **Wound healing** — as a topical application
-- **Cough suppression** — in traditional Thai medicine
-
-### Dose-Dependent Effects
-
-Kratom is unusual among psychoactive plants for its dose-dependent effects:
-
-- **Low doses** (1-5 grams of dried leaf) — produce stimulant effects, increasing energy, alertness, and sociability
-- **Moderate doses** (5-15 grams) — produce mixed stimulant and opioid-like effects
-- **High doses** (15 grams or more) — produce primarily opioid-like sedative and analgesic effects
-
-This biphasic dose-response is attributed to the different receptor affinities of the various alkaloids present in the leaf, with mitragynine and its metabolites producing different effects at different concentrations.
-
-### Traditional Preparation Methods
-
-In Thailand and Malaysia, Kratom is traditionally prepared in several ways:
-
-- **Fresh leaf chewing** — the most common traditional method
-- **Tea** — dried leaves boiled in water, often sweetened
-- **Kratom juice** — fresh leaves blended with water and strained
-- **Smoked** — dried leaves sometimes mixed with cannabis or tobacco
-- **Kratom cocktail** — in modern Thai culture, a drink made from Kratom leaves, cough syrup, ice, and cola
-
-## Chemistry
-
-The primary psychoactive alkaloids of Mitragyna speciosa include:
-
-- **Mitragynine** — the dominant indole alkaloid (up to 66% of total alkaloid content)
-- **7-Hydroxymitragynine** — a more potent mu-opioid receptor agonist, present in smaller quantities
-- **Speciogynine** — a minor alkaloid with muscle relaxant properties
-- **Speciociliatine** — a diastereomer of mitragynine
-- **Paynantheine** — another minor indole alkaloid
-- **Mitraphylline** — also found in Cat's Claw (Uncaria tomentosa)
-
-Total alkaloid content of dried Kratom leaves typically ranges from 0.5% to 1.5%, though this can vary significantly depending on the strain, growing conditions, and age of the leaf.
+### Minor Alkaloids
+Mitraphylline, rhynchophylline, ajmalicine (raubasine), corynantheidine, isomitraphylline, isorhynchophylline, and various indole derivatives. Many of these are shared with the related medicinal plant *Uncaria tomentosa* (cat's claw).
 
 ## Pharmacology
 
-Mitragynine acts as a partial mu-opioid receptor agonist and also interacts with delta- and kappa-opioid receptors, as well as adrenergic and serotonergic systems. 7-Hydroxymitragynine, formed as a metabolite of mitragynine, is a potent full agonist at mu-opioid receptors and may be responsible for much of the opioid-like analgesic activity of Kratom.
+### Mechanism of Action
+- **μ-opioid receptor (MOR):** Partial agonist — produces analgesia without the degree of respiratory depression seen with full agonists (morphine, fentanyl). This biased signaling is the basis for its reputation as a safer alternative to classical opioids.
+- **δ- and κ-opioid receptors:** Competitive antagonism — may counteract certain adverse opioid effects
+- **Adrenergic receptors:** α₂-adrenergic agonist activity contributes to stimulant-like effects at low doses
+- **Serotonergic:** 5-HT₂C and 5-HT₇ receptor modulation
+- **Dopaminergic:** D₂ receptor partial agonism
 
-The partial agonist activity at mu-opioid receptors may explain why Kratom produces opioid-like effects with a reportedly lower risk of respiratory depression compared to full mu-opioid agonists like morphine. However, this safety advantage is not well established in clinical literature, and respiratory depression remains a theoretical risk at high doses.
+### Dose-Dependent Effects
+- **Low dose (1–5 g leaf):** Stimulant effects — increased energy, alertness, sociability, libido, reduced fatigue. Dominated by adrenergic activity.
+- **Moderate dose (5–15 g leaf):** Mixed stimulant and analgesic effects — euphoria, pain relief, anxiety reduction, mild sedation
+- **High dose (15–25+ g leaf):** Opioid-like effects — strong analgesia, sedation, cough suppression, opioid withdrawal relief. Dominated by μ-opioid receptor activity.
 
-## Safety Considerations
+### Pharmacokinetics
+- **Onset:** 5–15 minutes (toss-and-wash powder); 30–45 minutes (capsules)
+- **Peak effects:** 1–2 hours
+- **Duration:** 4–8 hours depending on dose, strain, and individual metabolism
+- **Half-life:** Mitragynine ~3.5 hours; 7-hydroxymitragynine ~2.5 hours
+- **Metabolism:** Primarily hepatic via CYP3A4, CYP2D6; major metabolites include 7-hydroxymitragynine and mitragynine pseudoindoxyl
 
-While Kratom has a long history of traditional use, modern pharmacological understanding of its safety profile remains incomplete. Known concerns include:
+## Traditional and Ethnobotanical Use
 
-- **Dependence and withdrawal** — regular use can lead to physical dependence
-- **Hepatotoxicity** — rare cases of liver injury have been reported
-- **Drug interactions** — potential interactions with other CNS depressants
-- **Contamination** — commercially available Kratom products may be adulterated
-- **Variable potency** — alkaloid content varies significantly between batches
+- **Thailand:** Laborers chew fresh leaves (5–30 per day) for stamina and pain relief during agricultural work; tea preparations for diarrhea, cough, and fever; used by some as a substitute for opium since the 19th century
+- **Malaysia:** "Ketum" tea prepared from fresh or dried leaves; used as a traditional remedy for diabetes, hypertension, fatigue, and as a poultice for wounds
+- **Indonesia:** Widely consumed across all social classes; integral to daily life in rural communities; exported globally as dried leaf powder
+- **Myanmar:** Used traditionally for pain management and as an opium substitute
 
-## Cultural Significance
+## Kratom Strains and Vein Colors
 
-Kratom occupies a complex position in Southeast Asian culture. In Thailand, where it has been used for centuries, it was made illegal in 1943 partly due to government concerns about declining opium tax revenue as users switched to Kratom. Despite its illegality, traditional use persists in rural areas. The Kratom Act of 1943 was one of the earliest drug prohibition laws targeting a plant-based psychoactive substance, and its motivations were more economic than public health-oriented.
+Commercial kratom is marketed by vein color and regional origin, though scientific standardization is lacking:
+- **Red vein:** Mature leaves, reportedly more sedating and analgesic; most popular globally
+- **Green vein:** Mid-maturity, balanced effects; moderate stimulation and pain relief
+- **White vein:** Young leaves, reportedly most stimulating and euphoric
+- **Yellow/gold vein:** Typically red vein dried using alternative methods; effects variable
+- **Regional varieties:** Maeng Da (Thailand), Bali, Borneo, Malay, Sumatra, Indo, Vietnam — differences attributed to soil, climate, harvesting practices, and post-harvest processing
+
+## Legal Status
+
+Legal status is highly variable and rapidly evolving:
+- **United States:** Unscheduled at the federal level; banned in Alabama, Arkansas, Indiana, Rhode Island, Vermont, Wisconsin, and several municipalities. DEA has listed it as a "Drug of Concern." FDA has not approved kratom for any medical use.
+- **Thailand:** Decriminalized in 2021 after decades of prohibition under the Kratom Act of 1943 (which made planting the tree illegal); now regulated
+- **Malaysia:** Scheduled under the Poisons Act; illegal to possess, sell, or consume
+- **Indonesia:** Legal domestically; major export commodity; proposed export ban announced periodically
+- **Australia:** Scheduled as a Schedule 9 prohibited substance
+- **EU:** Status varies by member state; generally unscheduled but under monitoring
+- **Canada:** Legal but under regulatory review
+
+## Controversies and Safety Concerns
+
+### Documented Risks
+- **Dependence and withdrawal:** Regular heavy use (daily, >15 g) can produce dependence with withdrawal symptoms (anxiety, irritability, insomnia, muscle aches, diarrhea, cravings) beginning 12–48 hours after last use, lasting 3–7 days
+- **Hepatotoxicity:** Rare but documented cases of drug-induced liver injury (DILI), typically at high doses or with poly-substance use
+- **Seizures:** Rare, primarily in combination with other substances or at very high doses
+- **FDA contamination concerns:** Salmonella contamination in some commercial products (2018 recalls); heavy metals and adulterants detected in some samples
+
+### Mortality Data
+- Deaths associated with kratom typically involve poly-substance use (kratom + opioids, benzodiazepines, or alcohol). Isolated kratom-attributed deaths are extremely rare.
+- The CDC reported 91 kratom-associated deaths (2016–2017), but nearly all involved multiple drugs.
 
 ## See Also
 
-- [[tabernanthe-iboga]] — Iboga, another plant used for opioid withdrawal
-- [[nicotiana-rustica]] — another plant used for its stimulant effects
-- [[cannabis-sativa]] — another plant with complex dose-dependent psychoactive effects
-- [[plants-of-the-gods-piper-methysticum-kava]] — Kava, another Pacific psychoactive plant with sedative properties
+- [[psilocybin]] — Another plant/fungi-derived psychoactive compound
+- [[ephedrine]] — Plant-derived compound with stimulant properties
+- [[n,n-dimethyltryptamine]] — Tryptamine alkaloid from plant sources

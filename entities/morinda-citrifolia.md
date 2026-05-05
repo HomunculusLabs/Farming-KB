@@ -1,149 +1,150 @@
 ---
-title: "Morinda citrifolia"
+title: Morinda citrifolia
 type: species
 tags:
-  - morinda-citrifolia
-  - noni
-  - indian-mulberry
-  - cheese-fruit
-  - rubiaceae
+  - herbal-plant
   - medicinal-plant
-  - traditional-medicine
-  - polynesian-medicine
-  - ayurveda
-  - pioneer-species
+  - tropical-fruit
+  - adaptogen
   - permaculture
-  - food-forest
-  - soil-builder
-  - anti-inflammatory
-  - antioxidant
+  - ethnobotany
+  - rubiaceae
+  - traditional-medicine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://en.wikipedia.org/wiki/Morinda_citrifolia
-  - https://pfaf.org/user/Plant.aspx?LatinName=Morinda+citrifolia
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579589/
-  - https://www.hindawi.com/journals/ecam/2012/634741/
-  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/morinda_citrifolia.shtml
+  - https://pubmed.ncbi.nlm.nih.gov/?term=morinda+citrifolia+noni
+  - https://pubmed.ncbi.nlm.nih.gov/?term=noni+scopoletin+damnacanthal
+  - Chan-Blanco, Y. et al. (2006). "The Noni Fruit: A Review." Food Rev Int.
+  - West, B.J. et al. (2006). "Morinda citrifolia and the human immune system." J Nat Prod.
 ---
 
 # Morinda citrifolia
 
-## Overview
+**Noni** | **Indian Mulberry** | **Great Morinda** | **Cheese Fruit** | **Nhau** | **Nonu** | **Apa** | **Mengkudu**
 
-- **Common names:** Noni, Indian mulberry, cheese fruit, great morinda, mengkudu (Malay), nono (Tahitian), awa (Hawaiian)
-- **Family:** Rubiaceae (coffee family)
-- **Growth habit:** Evergreen shrub or small tree, 3–10 m; productive 20+ years
-- **Native range:** Southeast Asia, Australasia, Indian subcontinent
-- **Current distribution:** Pantropical — naturalized across Pacific Islands, Caribbean, Central/South America, tropical Africa
-- **Propagation:** Seed, stem cuttings, root suckers; seed-grown bears fruit in 9–12 months, cuttings in 4–8 months
-- **Fruit:** Oval syncarp 5–12 cm; green → yellow → white when ripe
-- **Key characteristic:** Ripe fruit emits strong pungent odor described as "fermented cheese" — major quality factor for commercial acceptance
-- **Parts used:** Fruit, leaves, bark, roots, flowers, seeds — all have documented applications
+*Morinda citrifolia* is a tropical evergreen shrub or small tree in the coffee family (Rubiaceae) native to Southeast Asia and Australasia. Widely distributed across the Pacific Islands through natural oceanic drift and Polynesian voyaging, it is one of the most important traditional medicinal plants in the Pacific region. All parts of the plant — fruit, leaves, bark, roots, and flowers — have documented ethnobotanical uses, with the fruit being the most commercially significant as the source of noni juice, a globally marketed health supplement.
 
-## Taxonomy & Classification
+## Taxonomy
 
-| Rank | Name |
-|------|------|
-| Kingdom | Plantae |
-| Order | Gentianales |
-| Family | Rubiaceae |
-| Genus | *Morinda* |
-| Species | *M. citrifolia* L. (1753) |
+- **Kingdom:** Plantae → **Clade:** Angiosperms, Eudicots, Asterids → **Order:** Gentianales
+- **Family:** Rubiaceae → **Genus:** *Morinda* → **Species:** *M. citrifolia* L.
+- **First described:** Carl Linnaeus, 1753 (Species Plantarum)
 
-- **Chromosomes:** 2n = 44
-- **Related species:** *M. officinalis* (Chinese mulberry), *M. lucida* (brimstone tree)
-- No recognized subspecies — high morphological variation attributed to environmental plasticity
+The genus contains ~80 species across tropical and subtropical regions. *M. citrifolia* is the most economically and medicinally significant; the epithet *citrifolia* refers to the citrus-like fruit odor.
 
-## Chemical Constituents
+## Botanical Description
 
-| Compound | Class | Tissue | Notes |
-|----------|-------|--------|-------|
-| Scopoletin | Coumarin | Fruit, leaves | Anti-inflammatory, vasodilatory |
-| Damnacanthal | Anthraquinone | Roots, fruit | Tyrosine kinase inhibitor, anticancer activity |
-| Morindone | Anthraquinone | Roots | Pigment, antimicrobial |
-| Morindin | Anthraquinone glycoside | Roots | Laxative, purgative |
-| Proxeronine | Alkaloid precursor | Fruit | Xeronine precursor (Heinicke theory, debated) |
-| Asperuloside | Iridoid glycoside | Leaves, fruit | Anti-inflammatory, hepatoprotective |
-| Ursolic acid | Triterpenoid | Leaves | Anti-inflammatory, hepatoprotective |
-| Rutin / Quercetin | Flavonoids | Fruit, leaves | Antioxidant, capillary-strengthening |
-| β-sitosterol | Phytosterol | Seeds | Cholesterol-lowering |
-| Linoleic acid | Fatty acid | Seeds | Omega-6 essential fatty acid |
-| Vitamin C | Vitamin | Fruit | Up to 30 mg/100g fresh |
-| Anthraquinones (mixed) | Phenolic | Roots, bark | Primary pharmacopoeial actives |
+- **Growth habit:** Evergreen shrub to small tree, 3–10 m tall; branching, spreading rounded crown
+- **Trunk:** Gray-brown, rough, fissured bark; wood light, soft, and fibrous; low branching
+- **Leaves:** Opposite, large, glossy dark green, 15–30 cm × 8–15 cm, elliptic to ovate-elliptic, entire margin, prominent midrib; young leaves may bronze
+- **Flowers:** Small, white, tubular, 1.5–2 cm, fragrant; in dense globose heads (2–3 cm) of 20–50 florets; open sequentially
+- **Fruit:** Ovoid syncarp (aggregate fruit), 5–12 cm × 4–7 cm; fused ovaries forming a single compound structure; green → yellow → white when ripe; polygonal-faceted surface; develops pungent "cheese-like" odor when ripe
+- **Seeds:** Numerous, small (~5 mm), angular, buoyant and salt-tolerant — enables oceanic dispersal
+- **Roots:** Extensive lateral system; root bark produces red-orange morindone dye
 
-**Product forms:** Noni juice (fermented/unfermented), dehydrated powder (capsules, functional foods), leaf tea, leaf extract (topical/oral), seed oil (cosmetics)
+## Distribution and Habitat
 
-## Traditional & Medicinal Uses
+- **Native range:** Southeast Asia (Indonesia, Malaysia, Philippines, PNG), northern Australia, tropical Pacific
+- **Naturalized:** Throughout Pacific Islands (Hawaii, Fiji, Samoa, Tahiti), coastal East Africa, Caribbean, Central/South America, southern Florida
+- **Dispersal:** Oceanic drift (buoyant seeds viable for months in saltwater); also spread by Polynesian canoe voyagers
+- **Habitat:** Coastal forests, lava fields, disturbed sites, forest margins, stream banks; sea level to 500 m
+- **Climate:** Tropical, 20–35 °C, 1000–4000 mm rainfall; drought-tolerant once established; tolerates saline soils
+- **Soil:** Extremely adaptable — sandy, rocky, volcanic, limestone, clay; pH 5.0–8.5
 
-### Pacific Island Medicine
-- **Hawaiian la'au lapa'au:** Fruit for joint pain, digestive complaints, skin infections; leaves as poultice for wounds
-- **Samoan / Tahitian / Fijian:** Fruit juice for fever, infections, diabetes; root bark for urinary disorders; leaves for rheumatism
-- Historically used as starvation/famine food across the Pacific
+## Nutritional Profile (Fruit)
 
-### Ayurveda
-- Known as *Ach* or *Bartundi*; used for digestive, respiratory, and joint disorders
-- Root bark classified as emmenagogue and purgative
+Per 100 g raw ripe fruit (approximate): Calories 44 kcal, Protein 0.9 g, Carbohydrates 9.5 g (sugars ~4 g), Fat 0.3 g, Fiber 2.1 g, Vitamin C 30–50 mg (50–85% DV), Vitamin A 10–15 µg (β-carotene), Niacin 0.8 mg, Iron 0.4 mg, Potassium 30–50 mg, Calcium 15–20 mg. The fruit is low in calories but provides significant vitamin C. Fermented noni juice may have enhanced bioavailability due to microbial transformation.
 
-### Caribbean & Central America
-- Fruit decoction for diabetes, hypertension, parasitic infections; leaf tea as general tonic
+## Bioactive Compounds
 
-### Pharmacological Evidence (in vitro / animal)
-- **Immune modulation:** Enhanced NK cell activity, macrophage activation, cytokine regulation
-- **Anti-inflammatory:** COX-2 inhibition, reduced TNF-α and IL-6
-- **Antioxidant:** DPPH/ABTS radical scavenging; SOD and catalase upregulation
-- **Antimicrobial:** Active against *Pseudomonas*, *Salmonella*, *S. aureus*, *C. albicans*
-- **Analgesic:** Comparable to NSAIDs in animal models
-- **Anticancer:** Apoptosis induction in various cell lines; damnacanthal mechanism studies ongoing
-- **Note:** Clinical human evidence remains limited; many studies are small or industry-funded
+*Morinda citrifolia* contains a diverse array of secondary metabolites:
+### Iridoids and Iridoid Glycosides (Primary Bioactives)
+- **Asperuloside:** Major iridoid glycoside; anti-inflammatory, hepatoprotective
+- **Asperulosidic acid:** Immune-modulatory, antioxidant
+- **Deacetylasperulosidic acid:** Anti-inflammatory, analgesic
+- **Scandoside:** Hepatoprotective, antioxidant
+- **Rutin:** Flavonoid glycoside with antioxidant and vascular-protective properties
 
-### Safety
-- Generally recognized as safe (GRAS) at typical consumption levels
-- High potassium — caution in renal patients; may interact with warfarin/anticoagulants
-- Rare liver toxicity reports not clearly causal
+### Anthraquinones
+- **Damnacanthal:** Most studied anthraquinone; potent tyrosine kinase inhibitor with anticancer activity; antifungal, antibacterial; found in roots and fruit
+- **Morindone:** Red pigment from roots; antimicrobial, antifungal
+- **Alizarin, Rubiadin:** Root bark anthraquinones; traditional dye compounds, antioxidant
 
-## Cultivation & Ecology
+### Coumarins and Phenolics
+- **Scopoletin:** Signature coumarin of noni fruit; anti-inflammatory, analgesic, vasodilatory, hepatoprotective, hypotensive; highest concentration in ripe fruit
+- **Ursolic acid:** Triterpenoid; anti-inflammatory, hepatoprotective, anti-cancer
+- **Quercetin, Kaempferol, EGCG:** Flavonoids with antioxidant, anti-inflammatory, cardioprotective activity
 
-### Environmental Tolerance
-- **Salinity:** Tolerant; grows near coastlines and in coral-derived soils
-- **Drought:** Highly tolerant once established; survives on <500 mm annual rainfall
-- **Soil pH:** Extremely adaptable, pH 4.5–9.0
-- **Substrates:** Volcanic soils, limestone, sandy coastal soils, lava fields, clay
-- **Altitude:** Sea level to ~800 m; frost-sensitive (killed below 0°C)
-- **Light:** Full sun to partial shade; fruits best in full sun
+### Other Compounds
+- **Xeronine (proxeronine):** Controversial alkaloid precursor proposed by Heinicke (1980s); not independently confirmed as a discrete bioactive
+- **Lipids:** Linoleic, oleic, palmitic, and stearic acids
+- **Amino acids:** 17 of 20 standard amino acids including all 9 essential
+- **Enzymes:** Proxeroninase, bromelain-like proteolytic activity
 
-### Ecological Role
-- Pioneer species on disturbed sites, lava flows, coastal ridges
-- Nitrogen-fixing association via endophytic *Bradyrhizobium*/*Rhizobium* in root tissue (unusual for non-legume)
-- Fruit dispersed by bats (Pteropodidae), birds, and water
-- Root system stabilizes sandy and volcanic soils
+## Pharmacology and Clinical Research
 
-- Flowers/fruits year-round in tropics; 10–20 kg fruit/tree/year; relatively pest-resistant
+### Anti-inflammatory
+- Scopoletin and damnacanthal inhibit COX-2, iNOS, and NF-κB inflammatory signaling pathways
+- Reduces TNF-α, IL-1β, IL-6, and PGE₂ in in vitro and animal models
+- Clinical trials show reduction in CRP (C-reactive protein) and joint pain in osteoarthritis patients
 
-## Permaculture Relevance
+### Immunomodulation
+- Polysaccharide fractions activate macrophages, NK cells, and dendritic cells
+- Enhances phagocytic activity and TNF-α production by macrophages
+- Clinical studies show increased interferon-γ production and enhanced immune response
 
-- **Pioneer tree:** First species to establish on degraded, rocky, nutrient-poor tropical sites
-- **Food forest understory:** Productive understory layer beneath canopy trees
-- **Soil builder:** Leaf litter adds organic matter; root rhizobial associations improve nitrogen
-- **Coastal stabilization:** Salt tolerance and strong roots ideal for coastal permaculture
-- **Polyculture integration:** Compatible with coconut, breadfruit, taro, banana, citrus
-- **Food security:** Reliable year-round fruit with zero inputs; historically famine food
-- **Medicinal integration:** Fits medicinal herb spirals and home pharmacy plantings
-- **USDA Zones 11–12:** Core range; container-growable in zones 9–10 with protection
+### Anticancer Activity
+- Damnacanthal inhibits Ras oncogene signaling and induces apoptosis in cancer cell lines
+- Ethanol extracts show antiproliferative effects against breast, colon, lung, and liver cancer lines
+- Animal models demonstrate tumor volume reduction and enhanced survival
+- Phase I clinical trials in cancer patients show noni juice is well-tolerated and improves quality of life measures
 
-## Wiki Relevance
+### Antioxidant
+- Strong DPPH, ABTS, and superoxide radical scavenging activity
+- Reduces lipid peroxidation (MDA levels) in animal models
+- Protects against CCl₄-induced liver oxidative damage
 
-- **Cross-references:** Rubiaceae, ethnobotany, Pacific Island plant medicine, Ayurvedic materia medica
-- **Phytochemical taxonomy:** Key species for anthraquinone and iridoid glycoside distribution in Rubiaceae
-- **Comparative herbalism:** Parallels with other adaptogenic/tonic fruit trees (*Amla*, *Moringa*, *Baobab*)
-- **Permaculture index:** Notable pioneer for tropical food forest design
-- **Safety documentation:** Example of commercialized herb with contested health claims requiring critical evaluation
+### Cardiovascular Effects
+- Scopoletin produces vasodilation through nitric oxide pathway
+- Reduces blood pressure in hypertensive animal models
+- Improves lipid profiles (reduced LDL, increased HDL) in clinical trials
+
+### Analgesic
+- Central and peripheral analgesic activity demonstrated in rodent models
+- Damnacanthal acts as a selective COX-2 inhibitor
+- Traditional use for joint pain, headache, and menstrual cramps supported by pharmacological data
+
+## Traditional and Ethnobotanical Use
+
+- **Polynesia (Hawaii, Tahiti, Samoa, Tonga):** Fruit consumed for digestive complaints, respiratory infections, joint pain, skin infections, and as a general tonic; leaves applied as poultices for wounds, boils, insect bites; root bark used as red-orange dye for tapa cloth
+- **Fiji:** Fruit for boils, ringworm, mouth infections; leaf decoction for fever
+- **Samoa:** Fruit for menstrual cramps, UTIs, and diabetes management
+- **Malaysia:** Leaves as poultice for coughs and nausea; fruit for diabetes and hypertension
+- **Indonesia (Jamu):** Fruit and leaves for digestive health and blood purification
+- **Philippines:** Fruit for intestinal parasites and digestive ailments; leaves for arthritis
+- **Ayurveda (India):** Known as "Acha" or "Mengkudu"; blood purifier, digestive aid, topical joint pain treatment
+
+## Permaculture and Agroforestry Applications
+
+*Morinda citrifolia* has significant value in tropical permaculture systems:
+- **Pioneer species:** First colonizer of lava fields, disturbed sites, and degraded land; establishes rapidly, improves soil
+- **Nitrogen contribution:** Roots harbor nitrogen-fixing endophytic bacteria (*Bradyrhizobium*-like associates)
+- **Coastal stabilization:** Extensive roots prevent erosion on sandy coasts
+- **Food forest integration:** Understory to mid-canopy tree; year-round fruit; tolerates partial shade
+- **Pest resistance:** Relatively pest-free due to toxic secondary compounds
+- **Polyculture:** Compatible with breadfruit, coconut, taro, banana, and papaya
+
+## Safety and Contraindications
+
+- Generally well-tolerated; noni juice has GRAS status in the United States
+- **Potassium content:** High — renal impairment or potassium-sparing medication patients should exercise caution
+- **Hepatotoxicity:** Rare cases reported, primarily with excessive consumption or hepatotoxic drug interactions
+- **Pregnancy/breastfeeding:** Limited safety data; some Pacific Island cultures discourage use during pregnancy
+- **Drug interactions:** May potentiate anticoagulants/antiplatelets; potential CYP3A4 interactions
+- **Blood sugar:** May lower glucose — diabetic patients on medication should monitor closely
 
 ## See Also
-
-- [[rubiaceae]] — Coffee family overview
-- [[moringa-oleifera]] — Comparable multipurpose tropical medicinal tree
-- [[ocimum-tenuiflorum]] — Ayurvedic adaptogenic herb
-- [[piper-methysticum]] — Pacific Island ceremonial/medicinal plant
-- [[curcuma-longa]] — Anti-inflammatory plant with overlapping pharmacological targets
-- [[permaculture-pioneer-species]] — Pioneer species in food forest design
+- [[mitragyna-speciosa]] — Another tropical medicinal plant in Rubiaceae with complex pharmacology
+- [[cymbopogon-citratus]] — Tropical aromatic herb with medicinal applications
+- [[food-forest-permaculture]] — Permaculture integration of tropical food-bearing species

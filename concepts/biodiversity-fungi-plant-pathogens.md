@@ -36,7 +36,7 @@ significant disease agents.
 
 ## Rusts and Smuts
 
-The Urediniomycetes (rusts) and Ustilaginiomycetes (smuts)
+The [[rust-fungi]] (Urediniomycetes) and [[smut-fungi]] (Ustilaginiomycetes)
 of the Basidiomycota are among the most specialized and
 complex plant pathogens. The Uredinales displays some of the
 most complex life cycles among fungi. In the most extreme
@@ -61,7 +61,7 @@ weakly phytopathogenic fungi in healthy plant tissues
 emphasizes the heterogeneous ecology of endophyte
 associations and the evolutionary continuum between latent
 pathogens and symptomless endophytes. Fusarium species,
-many associated with wilt diseases, cankers, and root
+many associated with wilt diseases covered in [[cervantes-fusarium-vascular-wilt-diseases]], cankers, and root
 diseases, are frequent but seldom dominant components of
 the endophyte biota of healthy plants. See
 [[biodiversity-fungi-endophytes-tropical-plants]] for further
@@ -69,14 +69,9 @@ discussion of the endophyte-pathogen continuum.
 
 ## Mycoparasites and Biocontrol
 
-Biotrophic plant pathogens are frequently attacked by
-mycoparasites, many of which can penetrate the spores or
-conidia of their host fungi. Some mycoparasites attack
-specific groups of plant pathogens and are of interest as
-potential biocontrol agents. Examples include specialized
-parasites of rust fungi, such as those producing metabolites
-like maltol, monorden (radicicol), and monocillin I that
-damage pathogen spores. Trichoderma species, well-known
+[[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]] and biotrophic plant pathogens
+are frequently attacked by
+mycoparasites. [[trichoderma-virens]] species, well-known
 biocontrol agents of plant pathogens, are polyphagous
 mycoparasites that are difficult to distinguish morphologically
 from genetically distinct strains, highlighting the importance
@@ -111,7 +106,7 @@ diversity is expected but the least sampling has occurred.
 
 ## Ecological Consequences
 
-Fungal pathogens shape plant community composition through
+[[fungal-plant-diseases]] shape plant community composition through
 their effects on host survival, reproduction, and competitive
 interactions. Pathogenic fungi contribute to forest dynamics
 by creating canopy gaps when they kill dominant trees, and
@@ -130,3 +125,9 @@ fungal pathogens in maintaining ecosystem-level biodiversity.
 - [[biodiversity-fungi-endophytes-tropical-plants]]
 - [[biodiversity-fungi-soil-ecosystems]]
 - [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
+- [[rust-fungi]]
+- [[smut-fungi]]
+- [[trichoderma-virens]]
+- [[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]]
+- [[cervantes-fusarium-vascular-wilt-diseases]]
+- [[fungal-plant-diseases]]

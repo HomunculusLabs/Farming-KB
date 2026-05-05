@@ -31,7 +31,8 @@ application, and weeding.
 What Fukuoka means by the "semi-wild" cultivation of vegetables is a method of
 simply scattering vegetable seed in fields, orchards, on earthen levees, or on
 any open, unused land. For most vegetables, mixed sowing with [[white-clover-living-mulch]]
-gradually gives a vegetable garden with a cover of clover. The idea is to pick
+gradually gives a vegetable garden with a cover of clover. For broader soil-building context, see [[fukuoka-straw-soil-building]].
+The idea is to pick
 a good time during the sowing season and either scatter or drill a seed
 mixture of clover and many vegetables among the weeds.
 
@@ -77,8 +78,9 @@ vegetables.
 Leguminous vegetables should be included in the seeds sown among the weeds in
 spring to early summer. Vegetables such as asparagus bean, cowpea, and mung
 bean are especially good choices because they are inexpensive and
-high-yielding. Birds will feed on the seeds for garden peas, soybeans, adzuki
-beans, and kidney beans, so these must be encouraged to germinate very
+high-yielding. For companion planting in a broader orchard context, see [[fukuoka-straw-mandala-orchard-design]].
+Birds will feed on the seeds for garden peas, soybeans, adzuki
+beans, so these must be encouraged to germinate very
 quickly. The best way to get around this is to sow the seed in [[fukuoka-straw-seed-balls-direct-seeding]].
 
 ### Tomatoes and Eggplants
@@ -144,6 +146,7 @@ root at the edge of the garden. Pyrethrum flowers and derris root may be dried
 and stored as powders. Pyrethrum is effective against aphids and caterpillars,
 while derris root works well against cabbage sawflies and leaf beetles. Both
 agents are harmless to man and garden vegetables. For more on this topic, see [[fukuoka-straw-pest-control-natural-balance]].
+For a deeper look at disease and insect resistance in vegetables, see [[fukuoka-vegetable-disease-insect-resistance]].
 
 Letting native fowl loose in a vegetable patch can be one very effective way
 of keeping insect pests in check. The birds will feed on the insects and their

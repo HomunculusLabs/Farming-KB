@@ -20,6 +20,7 @@ characteristic changes in host root systems including increased branching,
 reduced primary root elongation, and enhanced root hair formation. These
 morphological effects are central to understanding [[mycorrhizal-plant-signaling]]
 and the hormonal basis of [[fungal-symbiosis-with-plants-beyond-mycorrhizae]].
+For broader context on fungal symbiotic relationships, see [[symbiosis-in-fungi]].
 
 ## Bioassay for IAA Detection
 
@@ -76,7 +77,8 @@ activity.
 ## Truffles (Tuber spp.)
 
 Truffles are [[ectomycorrhizal-fungi]] forming symbioses with trees such as oaks
-and hazels, and some shrubs including Cistus spp. Production of IAA by
+and hazels, and some shrubs including Cistus spp. See [[truffle-guide]] and [[truffle-cultivation-basics]] for further details on truffle biology.
+Production of IAA by
 ectomycorrhizal fungi is well-documented and may drive ectomycorrhiza
 genesis alongside other signalling molecules.
 
@@ -112,7 +114,7 @@ necessary to confirm IAA production and determine its concentration.
 
 Many ectomycorrhizal basidiomycetes produce IAA or auxin-like compounds:
 
-- [[hebeloma-crustuliniforme]], Laccaria laccata, [[pisolithus-tinctorius]], and Suillus bovinus have all been shown to produce IAA in culture
+- [[hebeloma-crustuliniforme]], Laccaria laccata, [[pisolithus-tinctorius]], and [[suillus-bovinus]] have all been shown to produce IAA in culture
 - Production levels vary with culture conditions, media composition, and fungal species
 - Auxin production is often higher in young mycelial cultures
 

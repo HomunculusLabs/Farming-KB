@@ -9,7 +9,8 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # old fruit variety selection
 
-[[sepp-holzer]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
+[[sepp-holzer]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For Holzer's broader approach, see [[sepp-holzer-method]] and [[permaculture]].
+For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
 
 
 
@@ -88,3 +89,5 @@ These can be grown at altitude if sheltered from wind and grown in climatically 
 - [[fruit-tree-grafting-guide]]
 - [[fruit-forest-establishment]]
 - [[sepp-holzer-method]]
+- [[apple-tree-care]]
+- [[climate-and-microclimate-management]]

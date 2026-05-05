@@ -16,7 +16,8 @@ consisting of a fungal partner (the mycobiont) and a photosynthetic
 partner (the photobiont), typically a green alga or cyanobacterium, that
 grow together to form a coherent structure called the thallus. With over 13,500 described species comprising approximately 20% of all
 described fungal species, lichens are a major component of global
-[[fungal-biodiversity]]. An estimated 60-80% of lichenized species are
+[[fungal-biodiversity]]. Most lichen-forming fungi belong to the [[ascomycota-phylogeny-major-classes-lineages|Ascomycota]].
+An estimated 60-80% of lichenized species are
 already described compared to only about 5% for fungi overall, yet
 lichens remain critically important for biodiversity research,
 ecological monitoring, and conservation biology.
@@ -147,3 +148,5 @@ is expected to total about 18,000 species.
 - [[biodiversity-fungi-soil-ecosystems]]
 - [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungi-endophytes-tropical-plants]]
+- [[mycorrhizal-fungi]]
+- [[symbiosis-in-fungi]]

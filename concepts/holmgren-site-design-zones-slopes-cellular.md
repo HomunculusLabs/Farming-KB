@@ -126,4 +126,8 @@ that site-based design alone cannot address adequately.
 
 See also: [[holmgren-zones-and-sectors-design-framework]],
 [[holmgren-site-design-as-cellular-design]],
-[[holmgren-water-harvesting-storage-landscapes]]
+[[holmgren-water-harvesting-storage-landscapes]],
+[[permaculture-water-harvesting]],
+[[permaculture-climatic-zones-design]],
+[[natfarm-zone-sector-permaculture-planning]],
+[[permaculture-bioregional-architecture]]

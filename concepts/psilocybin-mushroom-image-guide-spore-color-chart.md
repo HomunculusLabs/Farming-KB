@@ -20,7 +20,7 @@ with characteristic spore colors.
 
 ### Psilocybe Species
 
-The core genus for psilocybin-containing mushrooms. All Psilocybe
+The core genus for psilocybin-containing mushrooms. All [[psilocybe-semilanceata]] and other Psilocybe
 species documented in the guide produce dark spore prints:
 
 - Spore print color: dark purple-brown to nearly black
@@ -37,7 +37,7 @@ P. pelliculosa, P. samuiensis, P. semilanceata, P. subcubensis
 
 ### Panaeolus Species
 
-The Panaeolus genus documented in the guide includes:
+The [[panaeolus-acuminatus]] and other Panaeolus genus documented in the guide includes:
 P. campanulatus and P. subbalteatus (=cinctulus).
 
 - Spore print color: black
@@ -59,7 +59,7 @@ C. cambodgeniensis, and C. tropicalis.
 
 ### Gymnopilus Species
 
-[[gymnopilus-purpuratus-profile]] (Big Laughing Gym) is the sole Gymnopilus
+[[gymnopilus-purpuratus-profile]] (Big Laughing Gym) and [[gymnopilus-genus-neurotropic-species]] are the Gymnopilus
 species in the guide.
 
 - Spore print color: rusty orange to reddish-brown
@@ -74,7 +74,8 @@ species in the guide.
 ## How to Take a Spore Print
 
 While the image guide is photographic, spore print analysis is a
-standard companion technique:
+standard companion technique. For [[psilocybin-mushroom-potency-and-dosage-guide]]
+enthusiasts, accurate spore identification is essential safety practice:
 
 1. Remove the cap from a fresh specimen
 2. Place cap gill-side down on white paper (or half white, half
@@ -85,7 +86,9 @@ standard companion technique:
 
 ## Spore Color as a Discriminating Tool
 
-The spore print immediately eliminates many dangerous
+[[gymnopilus-genus-neurotropic-species]] and other genera have distinct
+spore colors that help discriminate species. The spore print
+immediately eliminates many dangerous
 possibilities:
 
 - Dark purple-brown to black (Psilocybe, Panaeolus, Copelandia):
@@ -145,4 +148,10 @@ the decision tree from the guide's species works as follows:
      Galerina (potentially lethal)
    - No, white or cream: Not a psilocybin mushroom from this
      guide's genera
+
 ## See Also
+
+- [[gymnopilus-genus-neurotropic-species]]
+- [[psilocybe-semilanceata]]
+- [[panaeolus-acuminatus]]
+- [[psilocybin-mushroom-potency-and-dosage-guide]]
