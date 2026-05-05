@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1579 pages**
+**1590 pages**
 
 ## #
 
@@ -358,6 +358,7 @@
 - [[brugmansia-sanguinea]]
 - [[brugmansia-suaveolens]]
 - [[brugmansia-versicolor]]
+- [[bubba-kush]]
 - [[bufotenin]]
 - [[bufotenin-entity-tihkal]]
 - [[bufotenine]]
@@ -401,6 +402,7 @@
 - [[chaetomium-globosum]]
 - [[chamaecytisus-palmensis]]
 - [[chamomilla-recutita-entity]]
+- [[chelidonium-majus]]
 - [[chemdawg]]
 - [[chemdawg-entity]]
 - [[chemdog]]
@@ -499,6 +501,7 @@
 - [[deconica-crobula]]
 - [[dennis-mckenna]]
 - [[derris-indica]]
+- [[deschloroketamine]]
 - [[desfontainia-spinosa]]
 - [[desmanthus-illinoensis]]
 - [[desoxy-entity]]
@@ -682,6 +685,7 @@
 - [[glomus-versiforme]]
 - [[glycine-max-soybean-permaculture]]
 - [[glycyrrhiza-glabra]]
+- [[gmo-cannabis]]
 - [[gmo-garlic-cookies]]
 - [[golden-teacher]]
 - [[golden-teacher-cubensis]]
@@ -755,6 +759,7 @@
 - [[humulus-lupulus]]
 - [[hydnellum-peckii]]
 - [[hydnum-repandum]]
+- [[hydrastis-canadensis]]
 - [[hygrophorus-russula]]
 - [[hymenoscyphus-ericae]]
 - [[hyoscyamus-niger]]
@@ -807,6 +812,7 @@
 - [[ipomoea-violacea]]
 - [[iris-entity]]
 - [[iris-entity-pihkal]]
+- [[irpex-lacteus]]
 
 ## J
 
@@ -857,6 +863,7 @@
 
 - [[l-citrulline]]
 - [[l-ornithine]]
+- [[l-theanine]]
 - [[laccaria-amethystina]]
 - [[laccaria-bicolor]]
 - [[laccaria-laccata]]
@@ -938,6 +945,7 @@
 - [[mal-entity]]
 - [[mal-entity-pihkal]]
 - [[malassezia-restricta]]
+- [[malawi-gold]]
 - [[malt-extract-agar]]
 - [[mandragora-officinarum]]
 - [[maps]]
@@ -1357,6 +1365,7 @@
 - [[psychotria-viridis]]
 - [[ptychopetalus-olacoides]]
 - [[pueraria-montana]]
+- [[punica-granatum]]
 - [[purple-haze]]
 - [[purple-haze-cannabis]]
 - [[purple-punch]]
@@ -1521,6 +1530,7 @@
 - [[tetrapteris-methystica]]
 - [[thelephora-terrestris]]
 - [[three-sisters]]
+- [[thuja-occidentalis]]
 - [[thymus-vulgaris-entity]]
 - [[tilia-cordata]]
 - [[timothy-leary]]
@@ -1556,6 +1566,7 @@
 - [[trametes-versicolor-entity]]
 - [[tremella-aurantia]]
 - [[tremella-aurantialba]]
+- [[tremella-foliacea]]
 - [[tremella-fuciformis]]
 - [[tremella-fuciformis-entity]]
 - [[tremella-mesenterica]]
