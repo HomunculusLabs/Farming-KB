@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2292 pages**
+**2296 pages**
 
 ## #
 
@@ -348,6 +348,7 @@
 - [[composting-humus-building-holzer]]
 - [[conocybe-cyanopus-profile]]
 - [[contamination-prevention-mycology]]
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
 - [[coprophilous-fungi]]
 - [[coprophilous-fungi-biodiversity-indicators]]
 - [[coprophilous-fungi-diversity-geography]]
@@ -515,6 +516,7 @@
 - [[ergosterol-fungal-drug-target]]
 - [[ergot-alkaloid-chemistry-history]]
 - [[ergot-alkaloids-eleusinian-mysteries]]
+- [[ergot-amanita-neurotropic-fungi-groups]]
 - [[ergot-and-lysergic-acid-history]]
 - [[ergot-fungi-and-ergotism-claviceps-purpurea]]
 - [[ergot-fungi-claviceps-ergot-alkaloids]]
@@ -1434,6 +1436,7 @@
 - [[melanized-fungal-pathogens]]
 - [[metal-biotransformation-fungi]]
 - [[mexico-center-neurotropic-fungal-diversity]]
+- [[mexico-neurotropic-fungi-diversity-center]]
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
 - [[micro-pixe-element-localization-mycorrhizal-roots]]
@@ -1737,6 +1740,7 @@
 - [[neurotropic-fungi-biogeographic-patterns]]
 - [[neurotropic-fungi-classification]]
 - [[neurotropic-fungi-distribution]]
+- [[neurotropic-fungi-five-historical-periods]]
 - [[neurotropic-fungi-in-africa]]
 - [[neurotropic-fungi-in-asia]]
 - [[neurotropic-fungi-in-central-america]]

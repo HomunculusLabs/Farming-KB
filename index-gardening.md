@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**838 pages**
+**839 pages**
 
 ## A
 
@@ -638,6 +638,7 @@
 - [[plant-perception]]
 - [[plant-photoreception-and-phototropism]]
 - [[plant-photoreceptor-evolution-from-photolyases]]
+- [[plant-photoreceptors-and-mechanism-of-light-perception]]
 - [[plant-propagation]]
 - [[plant-propagation-methods]]
 - [[plant-propagation-techniques]]

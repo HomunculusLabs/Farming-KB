@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1401 pages**
+**1432 pages**
 
 ## #
 
@@ -167,6 +167,7 @@
 - [[achillea-millefolium]]
 - [[acorus-calamus]]
 - [[acremonium-strictum]]
+- [[actaea-racemosa]]
 - [[adam-vorbrodt]]
 - [[aem-entity-pihkal]]
 - [[aeruginascin]]
@@ -182,6 +183,7 @@
 - [[agaricus-sylvicola]]
 - [[agricultural-mycorrhizae]]
 - [[agrocybe-aegerita-detailed]]
+- [[ak-47]]
 - [[ak-47-cannabis]]
 - [[al-entity]]
 - [[al-entity-pihkal]]
@@ -228,7 +230,9 @@
 - [[anadenanthera-peregrina]]
 - [[anandamide-aea]]
 - [[andrew-weil]]
+- [[andrographis-paniculata]]
 - [[andy-letcher]]
+- [[angelica-archangelica]]
 - [[ann-shulgin]]
 - [[anni-albers]]
 - [[aphanocladium-album]]
@@ -243,6 +247,7 @@
 - [[armillaria-mellea]]
 - [[armillaria-mellea-entity]]
 - [[armillaria-ostoyae]]
+- [[aronia-melanocarpa]]
 - [[artemisia-absinthium]]
 - [[artemisia-annua]]
 - [[artemisia-vulgaris-entity]]
@@ -292,6 +297,7 @@
 - [[bill-mollison]]
 - [[biochar]]
 - [[bis-tom-entity-pihkal]]
+- [[biscotti-cannabis-strain]]
 - [[bjerkandera-adusta]]
 - [[black-locust-entity]]
 - [[blastomyces-dermatitidis]]
@@ -379,6 +385,7 @@
 - [[cleve-backster]]
 - [[clitocybe-nuda-entity]]
 - [[clitocybe-odora]]
+- [[clitopilus-prunulus]]
 - [[clitoria-ternatea]]
 - [[clonostachys-rosea]]
 - [[coccidioides-immitis]]
@@ -417,11 +424,13 @@
 - [[cpm-entity-pihkal]]
 - [[craterellus-cornucopioides]]
 - [[craterellus-tubaeformis]]
+- [[critical-mass]]
 - [[crocus-sativus]]
 - [[cryptococcus-neoformans]]
 - [[curcuma-longa]]
 - [[cylindrocarpon-destructans]]
 - [[cymbopogon-citratus]]
+- [[cynara-scolymus-entity]]
 
 ## D
 
@@ -591,6 +600,7 @@
 - [[ganoderma-tsugae]]
 - [[gary-lincoff]]
 - [[gaston-guzman]]
+- [[gelato]]
 - [[gelato-cannabis]]
 - [[geoff-hamilton]]
 - [[geoff-lawton]]
@@ -654,6 +664,7 @@
 - [[hebeloma-crustuliniforme]]
 - [[heimia-salicifolia]]
 - [[heimia-salicifolia-entity]]
+- [[helianthus-annuus-entity]]
 - [[hericium-abietis]]
 - [[hericium-coralloides]]
 - [[hericium-erinaceus]]
@@ -674,6 +685,7 @@
 - [[hugelkultur]]
 - [[humphry-osmond]]
 - [[humulene]]
+- [[humulus-lupulus]]
 - [[hydnellum-peckii]]
 - [[hydnum-repandum]]
 - [[hymenoscyphus-ericae]]
@@ -711,6 +723,7 @@
 - [[inocybe-coelestium]]
 - [[inocybe-corydalina-entity]]
 - [[inocybe-crocata]]
+- [[inocybe-erubescens]]
 - [[inocybe-geophylla]]
 - [[inocybe-haemacta]]
 - [[inocybe-longicystis]]
@@ -735,6 +748,7 @@
 - [[james-arthur]]
 - [[james-cuthill]]
 - [[james-trappe]]
+- [[jatropha-curcas-entity]]
 - [[jealousy-cannabis-strain-entity]]
 - [[jeff-lowenfels]]
 - [[jerusalem-artichoke]]
@@ -833,6 +847,7 @@
 - [[m-entity-pihkal]]
 - [[mac-cannabis]]
 - [[macadamia-entity]]
+- [[maclura-pomifera]]
 - [[madam-6-entity]]
 - [[madam-6-entity-pihkal]]
 - [[magnaporthe-grisea]]
@@ -934,6 +949,7 @@
 - [[morchella-angusticeps]]
 - [[morchella-elata]]
 - [[morchella-esculenta]]
+- [[morchella-importuna]]
 - [[mordecai-cooke]]
 - [[morinda-citrifolia]]
 - [[moringa]]
@@ -974,6 +990,7 @@
 - [[neem]]
 - [[nelumbo-nucifera]]
 - [[neocallimastix-frontalis]]
+- [[nepeta-cataria]]
 - [[net-entity-tihkal]]
 - [[neurospora-crassa]]
 - [[nicholas-money]]
@@ -991,6 +1008,7 @@
 
 ## O
 
+- [[ocimum-basilicum]]
 - [[ocimum-sanctum]]
 - [[ocimum-tenuiflorum]]
 - [[octavia-e-butler]]
@@ -1000,6 +1018,7 @@
 - [[ophiostoma-minus]]
 - [[oriental-herbal-nutrient]]
 - [[oriental-herbal-nutrient-ohn]]
+- [[origanum-vulgare-entity]]
 - [[ortho-dot-entity-pihkal]]
 - [[oyster-mushroom]]
 
@@ -1158,6 +1177,7 @@
 - [[psilocybe-hispanica]]
 - [[psilocybe-hochetschii]]
 - [[psilocybe-hoogshagenii]]
+- [[psilocybe-huautla]]
 - [[psilocybe-kashmeriensis]]
 - [[psilocybe-kumaenorum]]
 - [[psilocybe-linearis]]
@@ -1257,6 +1277,7 @@
 - [[richard-evans-schultes]]
 - [[richard-evans-schultes-updated]]
 - [[richard-gottlieb]]
+- [[ricinus-communis-entity]]
 - [[rick-strassman]]
 - [[rivea-corymbosa]]
 - [[robert-clarke]]
@@ -1268,9 +1289,11 @@
 - [[rolf-singer]]
 - [[rosmarinus-officinalis-entity]]
 - [[rubus-idaeus-entity]]
+- [[rumex-acetosa]]
 - [[rumex-obtusifolius-entity]]
 - [[runtz]]
 - [[runtz-cannabis]]
+- [[russula-cyanoxantha]]
 - [[russula-emetica]]
 
 ## S
@@ -1279,6 +1302,7 @@
 - [[saccharomyces-cerevisiae]]
 - [[saccharomyces-paradoxus]]
 - [[sadi-carnot]]
+- [[safrole]]
 - [[sajeev-john]]
 - [[salix-alba]]
 - [[salvia-divinorum]]
@@ -1297,6 +1321,7 @@
 - [[schizophyllum-commune]]
 - [[sclerotinia-sclerotiorum]]
 - [[scutellaria-baicalensis]]
+- [[scutellaria-lateriflora]]
 - [[scutellospora-calospora]]
 - [[sepp-holzer]]
 - [[serotonin]]
@@ -1309,6 +1334,7 @@
 - [[silybum-marianum]]
 - [[simmondsia-chinensis]]
 - [[simon-powell]]
+- [[skunk-1]]
 - [[skywalker-og]]
 - [[sophora-secundiflora-entity]]
 - [[sour-diesel]]
@@ -1320,6 +1346,7 @@
 - [[stachybotrys-chartarum]]
 - [[stamets-patents]]
 - [[stanislav-grof]]
+- [[stellaria-media]]
 - [[sterilization]]
 - [[steve-solomon]]
 - [[steven-pollock]]
@@ -1367,6 +1394,7 @@
 - [[thelephora-terrestris]]
 - [[three-sisters]]
 - [[thymus-vulgaris-entity]]
+- [[tilia-cordata]]
 - [[timothy-leary]]
 - [[tinospora-cordifolia]]
 - [[tipuana-tipu]]
@@ -1418,6 +1446,7 @@
 - [[trimethylarsine]]
 - [[tris-entity-pihkal]]
 - [[tropaeolum-majus]]
+- [[tropicana-cookies]]
 - [[tryptamine]]
 - [[tryptamine-entity-tihkal]]
 - [[tryptophan]]
@@ -1446,6 +1475,7 @@
 - [[verticillium-dahliae]]
 - [[verticillium-lecanii]]
 - [[verticillium-malthousei-entity-the-mushroom-cultivator]]
+- [[viburnum-opulus]]
 - [[vic-high]]
 - [[vicia-villosa]]
 - [[virodhamine]]
@@ -1479,6 +1509,7 @@
 
 - [[yarrow]]
 - [[youngsang-cho]]
+- [[yucca-filamentosa]]
 
 ## Z
 

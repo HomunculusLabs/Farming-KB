@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**901 pages**
+**905 pages**
 
 ## A
 
@@ -210,6 +210,7 @@
 - [[comparison-hugelkultur-vs-chinampas]]
 - [[comparison-hugelkultur-vs-keyline-design]]
 - [[comparison-hugelkultur-vs-sheet-mulching]]
+- [[comparison-hugelkultur-vs-syntropic-agriculture]]
 - [[comparison-hugelkultur-vs-terracing]]
 - [[comparison-hugelkultur-vs-wicking-bed]]
 - [[comparison-humic-acid-vs-fulvic-acid]]
@@ -377,6 +378,7 @@
 - [[comparison-topping-vs-supercropping-cannabis]]
 - [[comparison-trap-cropping-vs-beneficial-insects]]
 - [[comparison-trap-cropping-vs-companion-planting]]
+- [[comparison-trichoderma-vs-bacillus]]
 - [[comparison-trichoderma-vs-entomopathogenic-fungi]]
 - [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]
 - [[comparison-two-row-vs-six-row-barley]]
@@ -503,6 +505,7 @@
 - [[query-how-do-cover-crops-suppress-weeds]]
 - [[query-how-do-different-composting-methods-compare]]
 - [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]
+- [[query-how-do-epiphytes-survive-without-soil]]
 - [[query-how-do-fungi-contribute-to-carbon-sequestration]]
 - [[query-how-do-fungi-improve-soil-structure]]
 - [[query-how-do-i-adjust-soil-ph-naturally]]
@@ -751,6 +754,7 @@
 - [[query-how-to-store-food-without-refrigeration]]
 - [[query-how-to-store-mushroom-spores-long-term]]
 - [[query-how-to-transition-cannabis-from-vegetative-to-flowering]]
+- [[query-how-to-transition-from-conventional-to-no-till-farming]]
 - [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]
 - [[query-how-to-use-bamboo-in-permaculture]]
 - [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]

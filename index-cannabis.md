@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**927 pages**
+**928 pages**
 
 ## A
 
@@ -784,6 +784,7 @@
 - [[cmh-grow-lights]]
 - [[co2-enrichment-cannabis]]
 - [[coco-coir-cannabis]]
+- [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cultivar-endorhiza-bacterial-communities-cannabis]]
 - [[cultivation-facility-design]]

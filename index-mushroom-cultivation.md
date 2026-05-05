@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1284 pages**
+**1286 pages**
 
 ## #
 
@@ -222,6 +222,7 @@
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]
 - [[emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology]]
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
+- [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]]
 - [[emcdda-hallucinogenic-mushroom-eu-legislation-timeline-2001-2006]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
@@ -629,6 +630,7 @@
 - [[medieval-mushroom-knowledge]]
 - [[mesoamerican-mushroom-ceremonies-teonanacatl]]
 - [[metol-testing-bluing-reaction-mushrooms]]
+- [[mexican-indigenous-nomenclature-sacred-mushrooms]]
 - [[mexican-inquisition-against-mushroom-cults]]
 - [[mexican-mushroom-stones-archaeological-evidence]]
 - [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1134 pages**
+**1136 pages**
 
 ## #
 
@@ -165,6 +165,7 @@
 - [[dm-reference]]
 - [[dmmda-compound-profile]]
 - [[dmt-and-ayahuasca-history]]
+- [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]
 - [[dmt-black-hole-effect-and-shamanic-practice]]
 - [[dmt-candy-for-the-mind]]
 - [[dmt-compound-profile]]
@@ -918,6 +919,7 @@
 - [[psilocybin-containing-genera-beyond-psilocybe]]
 - [[psilocybin-cultivation]]
 - [[psilocybin-default-mode-network-ego-dissolution]]
+- [[psilocybin-degradation-volatility-and-specimen-age]]
 - [[psilocybin-depression-anxiety-treatment]]
 - [[psilocybin-dosage-guidelines-australian-species]]
 - [[psilocybin-ego-dissolution-mechanisms]]
