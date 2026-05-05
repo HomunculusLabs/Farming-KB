@@ -137,6 +137,8 @@ Tulsi lowers fasting blood glucose, improves insulin sensitivity, inhibits α-gl
 
 ## See Also
 
+- [[ocimum-tenuiflorum-entity]]
+
 - [[Withania-somnifera]] — Ashwagandha, another premier Ayurvedic adaptogen
 - [[Bacopa-monnieri]] — Brahmi, Ayurvedic nootropic herb often combined with Tulsi
 - [[Adaptogen]] — concept of stress-adaptation compounds

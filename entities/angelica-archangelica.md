@@ -95,7 +95,7 @@ Angelica has a rich pharmacological profile attributed to its diverse phytochemi
 
 **Digestive system:** Angelica is classified as a warming aromatic bitter and carminative. It stimulates digestive enzyme secretion, relieves flatulence and bloating, and eases intestinal spasms. It is particularly indicated for atonic dyspepsia (weak digestion with fermentation), nervous indigestion, and anorexia. The root is a component of numerous traditional digestive bitters formulations.
 
-**Respiratory system:** As an expectorant, angelica promotes productive coughing in bronchitis, pleurisy, and chronic respiratory congestion. Its warming, diaphoretic properties make it useful in the early stages of colds and influenza — traditionally combined with [[elderflower]] and [[peppermint]] in fever teas.
+**Respiratory system:** As an expectorant, angelica promotes productive coughing in bronchitis, pleurisy, and chronic respiratory congestion. Its warming, diaphoretic properties make it useful in the early stages of colds and influenza — traditionally combined with elderflower and peppermint in fever teas.
 
 **Women's health:** Though less specific than its Chinese cousin [[Angelica sinensis]] (dong quai), European angelica has emmenagogue properties and has been used to stimulate delayed or absent menstruation. It was historically employed for dysmenorrhea and menopausal symptoms, though this use is less supported by modern clinical evidence.
 
@@ -125,7 +125,7 @@ Angelica is a versatile culinary plant with a distinctive sweet-celery-licorice 
 - **Stems:** Chopped into fruit compotes, rhubarb dishes, and tart fillings; the sweet flavor complements tart fruits
 - **Leaves:** Used in salads (young leaves only), soups, and fish dishes
 - **Root:** Dried and ground as a spice; used in gin production (a key botanical in some formulations), Chartreuse, Benedictine, and other liqueurs
-- **Seeds:** Used as a spice, similar to [[fennel]] or [[caraway]]
+- **Seeds:** Used as a spice, similar to [[permaculture-fennel]] or caraway
 - **Jam and jelly:** Particularly traditional in Norway and Iceland, where angelica jam (*engelsk-syrin*) is a specialty
 
 ## Permaculture and Ecological Value

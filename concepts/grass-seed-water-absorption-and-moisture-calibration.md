@@ -190,4 +190,4 @@ the loss of entire batches to incorrect moisture levels.
 - [[grass-seed-substrate-preparation-mycology]]
 - [[substrate-preparation-mushroom-growing]]
 - [[mushroom-grain-sterilization]]
-- [[substrate-moisture-content]]
+- [[oyster-mushroom-substrate-preparation]]

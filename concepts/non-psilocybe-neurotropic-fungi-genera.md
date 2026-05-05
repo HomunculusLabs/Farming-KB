@@ -111,7 +111,7 @@ Five species of [[Claviceps]] (Clavicipitales, Ascomycotina) and two species of 
 alkaloids, a chemically distinct class of neurotropic compounds related to lysergic acid derivatives.
 
 [[Claviceps purpurea]] is the classic ergot fungus parasitizing rye and other grasses, containing [[ergotamine]],
-[[ergocristine]], [[ergocryptine]], and related compounds. It is widely distributed across temperate regions
+ergocristine, ergocryptine, and related compounds. It is widely distributed across temperate regions
 worldwide and has been responsible for numerous historical episodes of ergotism (St. Anthony's Fire). [[Claviceps
 paspali]] (= C. rolfesii) parasitizes [[Paspalum]] grasses in tropical and subtropical regions and is the source of
 [[lysergic acid amide]] (LSA). [[Claviceps nigricans]] and C. tripsicii are additional species with ergot alkaloid

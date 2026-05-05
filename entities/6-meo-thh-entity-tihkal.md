@@ -147,3 +147,7 @@ self-administered
 beta-carboline, it is structurally distinct from controlled tryptamines
 and is unlikely to attract regulatory attention. Its endogenous occurrence
 further complicates any regulatory approach. Harmine and harmaline are
+
+## See Also
+
+- [[5-meo-dalt-entity]]

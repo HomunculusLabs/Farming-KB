@@ -147,7 +147,7 @@ poorly known, with few subsequent collections reported in the literature.
 
 - [[psilocybe-weilii]]
 - [[psilocybe-caerulescens]]
-- [[psilocybe-guatapensis]]
+- [[psilocybe-samuiensis-profile]]
 - [[psilocybe-zapotecorum]]
 - [[psilocybe-cubensis]]
 - [[psilocybin]]

@@ -117,6 +117,6 @@ A deep taproot extends 30–60 cm, with abundant lateral roots and prolific nodu
 
 - Desmodium uncinatum
 - [[mucuna-pruriens]]
-- [[arachis-pintoi]]
+- [[arachis-pintoi-entity]]
 - Centrosema pubescens
 - [[glycine-max-soybean-permaculture]]

@@ -120,7 +120,7 @@ Insufficient pregnancy data, though theoretical risk is minimal given daily tea 
 
 ## Related Compounds
 
-- [[camellia-sinensis]] — Tea plant, primary natural source of L-theanine.
+- [[camellia-sinensis-entity]] — Tea plant, primary natural source of L-theanine.
 - [[caffeine]] — Most commonly paired nootropic; theanine smooths caffeine's stimulant edge.
 - [[psilocybin]] — Frequently combined with theanine for anxiety reduction during psychedelic sessions.
-- [[gaba]] — Theanine modulates but does not directly mimic GABAergic transmission.
+- [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] — Theanine modulates but does not directly mimic GABAergic transmission.

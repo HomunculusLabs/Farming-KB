@@ -109,7 +109,7 @@ It belongs to *Amanita* section Caesareae, which contains several prized edible 
 |---------|------------------------|
 | [[amanita-muscaria]] | White warts on cap persist; white universal veil patches; contains ibotenic acid and muscimol |
 | [[amanita-caesarea]] | European species; typically deeper red cap; orange-yellow volva sac at base rather than concentric rings |
-| [[amanita-jemmae]] | Western North American species; more yellow-orange cap; less common |
+| [[rig-veda-soma-hymns-amanita-muscaria]] | Western North American species; more yellow-orange cap; less common |
 | [[amanita-bisporigera]] | Destroying angel; pure white throughout; deadly poisonous with amatoxins |
 | [[amanita-phalloides]] | Death cap; greenish-yellow cap; white gills; volva as a loose sac at base; contains lethal amatoxins |
 

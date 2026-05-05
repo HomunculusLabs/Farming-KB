@@ -142,6 +142,10 @@ As decomposition progresses, the bed becomes increasingly productive:
 
 ## Related
 
+- [[comparison-hugelkultur-vs-terra-preta-soil-building]]
+- [[comparison-hugelkultur-vs-keyline-design]]
+- [[comparison-hugelkultur-vs-syntropic-agriculture]]
+
 - [[permaculture-earthworks]]
 
 - [[plant-nutrient-deficiency-guide]]

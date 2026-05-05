@@ -133,6 +133,8 @@ misidentification, overdose, and improper preparation.
 
 ## See Also
 
+- [[psychoactive-plants-united-states]]
+
 - [[sacramental-use-of-psychedelic-plants-in-us]]
 - ayahuasca
 - psilocybin

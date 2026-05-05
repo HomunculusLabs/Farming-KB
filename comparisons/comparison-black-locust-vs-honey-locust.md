@@ -114,6 +114,9 @@ Designers working in temperate broadacre systems should consider both
 species as complementary elements rather than choosing only one.
 
 ## See Also
+
+- [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
+- [[comparison-honey-bees-vs-native-solitary-bees]]
 - [[nitrogen-fixing-trees-and-shrubs]]
 - [[silvopasture-systems]]
 - [[comparison-alley-cropping-vs-silvopasture]]

@@ -87,7 +87,7 @@ consciousness."
 
 ### Healing Patterns
 
-Three main variations of shamanic healing with [[entheogens]] are documented
+Three main variations of shamanic healing with [[entheogens-in-ancient-cultures]] are documented
 across indigenous societies: extraction of a toxic psychic residue or sorcerous
 implant, retrieval of a split-off psychic fragment or "soul," and the
 experience of dismemberment followed by reconstitution with a healthier body.
@@ -148,3 +148,7 @@ the Western paradigm operates within a single-material-reality framework where
 psychedelic experiences are understood as products of brain chemistry, while
 shamanic traditions perceive the beings and worlds encountered in visionary
 states as ontologically real.
+
+## See Also
+
+- [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]

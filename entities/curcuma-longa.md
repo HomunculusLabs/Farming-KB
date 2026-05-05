@@ -187,7 +187,7 @@ Asia:
 
 ## See Also
 - zingiber officinale
-- [[piper-methysticum]]
+- [[piper-methysticum-entity]]
 - [[ashwagandha]]
 - [[panax-ginseng]]
 - [[bacopa-monnieri]]

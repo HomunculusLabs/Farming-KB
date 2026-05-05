@@ -123,3 +123,7 @@ However, the bluing reaction is neither necessary nor sufficient for identifying
 - Environmental factors including temperature, humidity, and age of the fruiting body affect bluing intensity
 
 Among [[Psilocybe]], the bluing species are concentrated in Sections Aztecorum, Brunneocystidiatae, Cordisporae, Cubensies, Mexicanae, Semilanceatae, Stuntzae, Subaeruginosae, and Zapotecorum. Species in other sections may or may not blue, making microscopic examination of spore morphology and cystidia essential for accurate identification.
+
+## See Also
+
+- [[psilocybe-southern-hemisphere-origin-hypothesis]]

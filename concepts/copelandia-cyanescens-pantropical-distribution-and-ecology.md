@@ -17,7 +17,6 @@ sources:
 ---
 
 # Copelandia Cyanescens Pantropical Distribution and Ecology
-
 Copelandia cyanescens stands as the most cosmopolitan of all neurotropic
 fungal genera, rivaled only by Psilocybe cubensis in its global tropical
 distribution. As a dung-inhabiting (coprophilous) species, C. cyanescens
@@ -32,7 +31,6 @@ transferred to the genus Copelandia by Singer (1951). The genus
 Copelandia is placed within the family Panaeolaceae (order Agaricales)
 and is characterized by its bluing reaction, lack of a true veil, and
 distinctive microscopic features including thick-walled cheilocystidia.
-
 The genus Copelandia currently includes approximately 12 accepted species
 (Guzmán, 1995), with C. cyanescens being the most widespread and well
 known. Related species include C. tropicalis, C. cambodginiensis,
@@ -50,7 +48,6 @@ and Heim (1978). It occurs in Belize (Gerhardt, 1996), Costa Rica
 (Sáenz et al., 1983), and throughout the Greater Antilles including
 Cuba, Jamaica, Puerto Rico (Navarro and Betancourt, 1992; Gerhardt,
 1996), and the Dominican Republic.
-
 In the Lesser Antilles, it has been found in Guadeloupe (Gerhardt, 1996),
 Martinique (Pegler, 1983), and Trinidad (Dennis, 1970). Bermuda also
 hosts this species (Gerhardt, 1996).
@@ -58,10 +55,8 @@ hosts this species (Gerhardt, 1996).
 ### South America
 
 C. cyanescens occurs widely in tropical South America:
-
 - **Brazil**: Reported by Singer (1960a), Ola'h (1969), Pollock (1976),
   Stijve and de Meijer (1993), and Stamets (1996).
-
 - **Colombia**: Confirmed by Pulido (1983) and Gerhardt (1996).
 
 - **Bolivia**: Reported by Singer (1960a) and Stamets (1996).
@@ -75,12 +70,10 @@ C. cyanescens occurs widely in tropical South America:
 
 The species reaches the southern United States, primarily in Florida
 and the Gulf Coast states:
-
 - **Florida**: One of the most reliable locations in the continental
   United States, reported by Singer (1960a), Pollock (1976), Stamets
   (1978, 1996), Schultes and Hofmann (1979), Hatfield (1979), and
   Kinghorn (1979).
-
 - **California**: Reported by Arora (1986).
 
 - **Louisiana and Texas**: Confirmed from Gulf Coast regions.
@@ -92,7 +85,6 @@ and the Gulf Coast states:
 ### Asia
 
 C. cyanescens has a broad Asian distribution:
-
 - **Southeast Asia**: Widely distributed in Thailand (Heim, 1978; Allen
   and Merlin, 1992; Stijve, 1992, 1995; Gerhardt, 1996), Indonesia
   including Java, Sumatra, and Bali (Wasson, 1959a; Heim, 1960, 1978;
@@ -101,7 +93,6 @@ C. cyanescens has a broad Asian distribution:
   Weeks et al., 1979), Vietnam (Heim, 1956a, 1958a), and Sri Lanka
   (Coomaraswamy, 1979; Singer, 1960a, 1969; Heim et al., 1966b, 1967;
   Pollock, 1976; Pegler, 1986).
-
 - **Japan**: Reported by Hongo (1986) and Imazeki and Hongo (1987).
 
 - **India**: Confirmed by Bose (1920), Natarajan and Raman (1983), and
@@ -111,7 +102,6 @@ C. cyanescens has a broad Asian distribution:
 
 - **Australia**: Confirmed by Pollock (1976), Southcott (1974), Allen
   et al. (1991), Stijve (1992), Gerhardt (1996), and Gartz (1996).
-
 - **Tasmania**: Reported by Allen et al. (1991).
 
 - **New Zealand**: Present according to Allen et al. (1991).
@@ -140,17 +130,14 @@ C. cyanescens has a broad Asian distribution:
 
 While not native to temperate Europe, C. cyanescens has been reported as
 a naturalized or introduced species:
-
 - **France**: Heim et al. (1966b), Pollock (1976), Chilton (1978),
   Samorini (1989), Stamets (1996).
-
 - **Austria**: Stijve (1992), Gerhardt (1996).
 
 - **Spain**: Festi (1985), Moreno et al. (1986).
 
 - **Italy**: Pollock (1976), Chilton (1978), Festi (1985), Samorini
   (1989, 1992).
-
 - **Switzerland**: Gerhardt (1996).
 
 - **Great Britain**: Keay and Brown (1990).
@@ -163,7 +150,6 @@ a naturalized or introduced species:
 Copelandia cyanescens is an obligate coprophile, growing almost
 exclusively on herbivore dung in tropical and subtropical environments.
 The preferred substrates include:
-
 - Bovine dung (most common substrate)
 - Equine dung
 - Occasionally other herbivore droppings
@@ -187,19 +173,15 @@ a strong and rapid bluing reaction when handled or bruised.
 The pantropical distribution of C. cyanescens raises important
 questions about fungal biogeography. Several hypotheses have been
 proposed to explain its cosmopolitan range:
-
 1. **Ancient Gondwanan distribution**: The species may have originated
    on the supercontinent and been carried to its current locations by
    continental drift. This hypothesis is less favored given the
    relatively young age of the genus.
-
 2. **Human-mediated dispersal**: The movement of domesticated livestock
    across tropical regions over the past several thousand years may have
    facilitated the spread of C. cyanescens through dung contamination.
-
 3. **Natural long-distance dispersal**: Spores may be transported by
    wind, water, or migratory animals across oceanic barriers.
-
 The combination of coprophilous ecology and tropical distribution
 pattern strongly suggests that C. cyanescens has been dispersed in
 association with the global movement of cattle and other livestock.

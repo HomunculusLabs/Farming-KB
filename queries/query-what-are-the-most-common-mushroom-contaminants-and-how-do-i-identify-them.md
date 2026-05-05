@@ -140,6 +140,8 @@ Consider running a HEPA air filter for several hours to capture remaining airbor
 - Always test [[mushroom-liquid-culture]] on agar before using it to inoculate grain spawn, as liquid culture is highly susceptible to yeast contamination
 ## Related
 
+- [[query-what-are-the-three-sisters-and-how-do-i-plant-them]]
+
 - [[query-how-to-identify-psilocybe-cubensis-in-the-wild]] Questions
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]

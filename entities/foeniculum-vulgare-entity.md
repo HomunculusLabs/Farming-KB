@@ -173,6 +173,8 @@ Control methods include manual removal (digging out taproots), grazing managemen
 
 ## See Also
 
+- [[origanum-vulgare-entity]]
+
 - [[Apiaceae]] (plant family)
 - [[Anethum graveolens]] (dill — close relative)
 - [[Pimpinella anisum]] (anise — similar flavor profile)

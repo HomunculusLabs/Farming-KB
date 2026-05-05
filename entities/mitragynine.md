@@ -146,5 +146,5 @@ research and regulatory debate.
 - **Australia:** Schedule 9 (prohibited substance) since 2003
 - **International:** Not scheduled under UN drug conventions
 ## See Also
-- [[7-hydroxymitragynine]] (proposed entity)
+- 7 hydroxymitragynine (proposed entity)
 - [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] — broader indole alkaloid chemistry context

@@ -145,6 +145,8 @@ other crops. Photoperiodic control through phytochrome manipulation is
 standard practice in commercial [[greenhouse-growing]] operations worldwide.
 ## See Also
 
+- [[plant-photoreceptors-and-mechanism-of-light-perception]]
+
 - [[phytochrome-photoreception]]
 - [[plant-vision-and-phototropism]]
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]]

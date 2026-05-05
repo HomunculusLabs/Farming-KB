@@ -145,4 +145,6 @@ neurological and psychiatric conditions.
 
 ## Related
 
+- [[endocannabinoid-neurogenesis-neuroplasticity]]
+
 - [[blesching-cannabis-dental-and-oral-health]]

@@ -140,6 +140,8 @@ chemically confirmed to contain psilocybin and psilocin.
 
 ## See Also
 
+- [[copelandia-genus]]
+
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[guzman-allen-gartz-neurotropic-fungi-classification-system]]

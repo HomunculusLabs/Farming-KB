@@ -111,6 +111,8 @@ T. versicolor shows interesting metal interactions:
 
 ## See Also
 
+- [[trametes-versicolor-entity]]
+
 - [[trametes-hirsuta]]
 
 - [[staycare-laccase-enzymes-in-bioremediation]]

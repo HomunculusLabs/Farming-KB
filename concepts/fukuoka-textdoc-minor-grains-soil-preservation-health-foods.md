@@ -72,7 +72,7 @@ cultural knowledge of how to grow, harvest, process, cook, and enjoy these grain
 was being lost as diets modernized and globalized.
 
 Fukuoka viewed this seed preservation crisis as part of the broader pattern of
-[[fukuoka-textdoc-disappearance-natural-diet]] that accompanies the
+[[fukuoka-disappearance-natural-diet]] that accompanies the
 industrialization of food systems. As food production becomes more centralized
 and standardized, the diversity of both crops and diets contracts, leaving
 populations dependent on a narrow range of foods.

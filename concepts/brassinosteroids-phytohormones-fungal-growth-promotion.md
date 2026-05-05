@@ -112,10 +112,13 @@ The Gartz study raises numerous questions that remain unanswered decades later. 
 
 ## See Also
 
+- [[brassinosteroids-in-fungal-cultivation]]
+- [[steroidal-regulation-fungal-development-growth]]
+
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]] - Chemical structure and synthesis pathway
 - [[brassinosteroid-agar-mycelial-growth-acceleration]] - Detailed agar cultivation results
 - [[brassinosteroid-fruiting-acceleration-flush-timing]] - Fruiting body acceleration data
 - [[brassinosteroid-mushroom-yield-dry-mass]] - Yield improvement measurements
 - [[brassinosteroid-effects-on-fungal-morphology]] - Morphological changes in treated fungi
 - [[brassinosteroid-suppression-abortive-fruit-bodies]] - Reduction of incomplete fruiting bodies
-- [[brassinosteroid-psilocybin-fruiting]] - Brassinosteroid effects on psilocybin production
+- [[brassinosteroids-psilocybin-fruiting]] - Brassinosteroid effects on psilocybin production

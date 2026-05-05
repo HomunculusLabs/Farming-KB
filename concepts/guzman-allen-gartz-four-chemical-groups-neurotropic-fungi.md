@@ -135,3 +135,7 @@ defies simple taxonomic classification.
 [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
 [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]]
+
+## See Also
+
+- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]

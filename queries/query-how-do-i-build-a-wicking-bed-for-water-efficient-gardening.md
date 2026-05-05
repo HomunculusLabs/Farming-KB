@@ -145,3 +145,7 @@ Mosquito breeding in the fill pipe and reservoir can be prevented by ensuring th
 - Connect your wicking bed to [[rainwater-harvesting-systems]] for chemical-free irrigation, or use [[drip-irrigation-guide]] timers for automated filling
 - Most vegetables and herbs thrive in wicking beds, but Mediterranean herbs and succulents may suffer from the consistently moist root zone
 - Regular maintenance includes checking reservoir water levels weekly and flushing the reservoir periodically to prevent salt buildup
+
+## See Also
+
+- [[query-how-do-i-build-a-wicking-bed-for-my-garden]]

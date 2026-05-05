@@ -84,7 +84,6 @@ The complex phytochemical profile of yarrow underlies its diverse pharmacologica
 
 ### Essential Oil (0.1–1.5%)
 The composition varies significantly by chemotype and geographic origin. Major constituents include:
-
 - **Chamazulene** — Anti-inflammatory, blue-colored sesquiterpene formed from matricin during steam distillation
 - **α-Bisabolol** — Anti-inflammatory, anti-ulcer, anti-microbial
 - **1,8-Cineole (Eucalyptol)** — Expectorant, antimicrobial
@@ -100,15 +99,8 @@ The composition varies significantly by chemotype and geographic origin. Major c
 - Casticin
 - Astragalin
 
-### Sesquiterpene Lactones
-- **Proazulenes** (precursors to chamazulene)
-- **Achillin**
-- **Leucodin**
-- **Balchanolide**
-- These compounds contribute anti-inflammatory and bitter tonic properties but may cause contact dermatitis in sensitive individuals
+(Section truncated for length.)
 
-### Alkaloids
-- **Achilleine** — A pyrrolizidine-related alkaloid with hemostatic (styptic) properties; contributes to yarrow's traditional wound-healing reputation
 - **Betonicine** (stachydrine) — A betaine with diuretic and hepatoprotective properties
 
 ### Tannins and Acids
@@ -157,7 +149,6 @@ Flavonoid and phenolic acid content provides significant radical-scavenging acti
 
 ### Companion Planting
 Yarrow is an exceptional companion plant in permaculture systems:
-
 - **Accumulates nutrients:** Deep taproots mine phosphorus, potassium, and calcium from subsoil layers, making them available to neighboring plants via leaf mulch
 - **Attracts beneficial insects:** Flat-topped flower clusters are ideal landing platforms for predatory insects (ladybugs, lacewings, hoverflies, parasitic wasps) that control aphids and other pests
 - **Improves soil:** Rhizomatous root system prevents erosion and improves soil structure
@@ -190,7 +181,6 @@ Yarrow integrates well into food forest and medicinal herb spirals, providing me
 ## Safety and Contraindications
 
 Yarrow is generally safe when used appropriately:
-
 - **Pregnancy:** Contraindicated — uterotonic properties may stimulate contractions; historically used to induce menstruation
 - **Allergy:** Asteraceae family allergy (ragweed, chamomile, echinacea) may cross-react; sesquiterpene lactones can cause contact dermatitis
 - **Bleeding disorders:** May enhance anticoagulant effects; caution with warfarin and other blood thinners

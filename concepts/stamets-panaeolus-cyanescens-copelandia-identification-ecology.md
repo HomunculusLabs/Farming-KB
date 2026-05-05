@@ -131,6 +131,8 @@ phytochemical research by Australian mycologists.
 
 ## See Also
 
+- [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
+
 - [[psilocybin-mushroom-taxonomy]]
 - [[panaeolus-mushroom-intoxication-history]]
 - [[gartz-magic-mushrooms-global-distribution-patterns]]

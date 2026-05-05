@@ -126,6 +126,6 @@ to the field.
 ## See Also
 - [[mr-bloomfields-stinkhorn-fungi-and-insect-spore-dispersal]]
 - [[mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling]]
-- [[basidiospore-discharge-by-surface-tension-catapult]]
-- [[rust-fungi-life-cycles-and-crop-pathology]]
-- [[history-of-mycology-from-persoon-to-the-present]]
+- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
+- [[rust-fungi-biodiversity-life-cycles]]
+- [[faires-household-products-from-the-homestead]]

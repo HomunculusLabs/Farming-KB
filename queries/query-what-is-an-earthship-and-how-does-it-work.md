@@ -87,6 +87,9 @@ Earthships differ from cob, straw bale, and other natural building methods in th
 
 ## See Also
 
+- [[query-how-does-phytoremediation-work-and-what-plants-are-best-for-it]]
+- [[query-how-do-coppice-and-pollard-systems-work]]
+
 - [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
 - [[query-what-is-a-gley-pond-and-how-does-it-work]]
 - [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]

@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Persimmon (*Diospyros virginiana*) and pawpaw (*Asimina triloba*) are two of the most promising native North American fruit trees for [[food-forest-gardening]] and [[forest-gardening-and-food-forests]]. Both are underutilized, adaptable, and produce nutrient-dense fruit that few home growers cultivate. They are often compared because they occupy overlapping ecological niches as understory/lower-canopy trees, thrive in similar hardiness ranges (zones 5–9), and appeal to permaculturists seeking resilient, low-input food crops.
+Persimmon (*Diospyros virginiana*) and pawpaw (*Asimina triloba*) are two of the most promising native North American fruit trees for [[food-forest-establishment]] and forest gardening and food forests. Both are underutilized, adaptable, and produce nutrient-dense fruit that few home growers cultivate. They are often compared because they occupy overlapping ecological niches as understory/lower-canopy trees, thrive in similar hardiness ranges (zones 5–9), and appeal to permaculturists seeking resilient, low-input food crops.
 
 However, their cultivation requirements, fruit characteristics, and roles in a planting design differ significantly. This comparison focuses primarily on the native American persimmon, with notes on Asian persimmon (*D. kaki*) where relevant for cultivation context. For pawpaw, all references are to the common pawpaw (*A. triloba*), the largest edible fruit native to North America.
 
@@ -59,7 +59,7 @@ For cold-climate growers, both are viable, but persimmons break dormancy later a
 
 **Pawpaw:** Space 8–15 ft apart. Pawpaw seedlings develop deep taproots and are sensitive to transplanting — plant young (1–2 year seedlings or potted trees) and avoid root disturbance. Site preparation should include generous compost or well-rotted manure worked into the top 12 in of soil.
 
-Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See [[companion-planting-and-polycultures]] for understory companion strategies.
+Protect young pawpaw trees from direct, intense sunlight with tree tubes or shade cloth for the first 1–2 years; this is critical for survival in open-field plantings. Irrigation is important during establishment. See companion planting and polycultures for understory companion strategies.
 
 ## Pollination and Fruiting
 
@@ -101,11 +101,11 @@ Pawpaw has a unique custardy texture and a complex flavor blending banana, mango
 
 ## Permaculture Integration
 
-Both trees are excellent additions to [[food-forest-gardening]] designs. Persimmons serve as a reliable upper-canopy or edge tree with deep taproots that break compacted subsoil and bring up minerals. Their late leaf-out allows spring ephemerals and early crops to receive full sun.
+Both trees are excellent additions to [[food-forest-establishment]] designs. Persimmons serve as a reliable upper-canopy or edge tree with deep taproots that break compacted subsoil and bring up minerals. Their late leaf-out allows spring ephemerals and early crops to receive full sun.
 
 Pawpaws are ideal understory trees beneath taller nut trees (pecan, chestnut, hickory). Their large, drooping leaves create a dense tropical-looking mulch layer that suppresses weeds and retains soil moisture throughout summer.
 
-Companion plants for pawpaw guilds include serviceberry, elderberry, wild ginger, mayapple, and native ferns. Persimmon pairs well with nitrogen-fixers like black locust, comfrey for dynamic nutrient accumulation, and berry shrubs as a productive understory layer. See [[companion-planting-and-polycultures]] for detailed guild designs.
+Companion plants for pawpaw guilds include serviceberry, elderberry, wild ginger, mayapple, and native ferns. Persimmon pairs well with nitrogen-fixers like black locust, comfrey for dynamic nutrient accumulation, and berry shrubs as a productive understory layer. See companion planting and polycultures for detailed guild designs.
 
 ## Verdict: When to Choose Which
 
@@ -113,7 +113,7 @@ Companion plants for pawpaw guilds include serviceberry, elderberry, wild ginger
 
 **Choose Pawpaw if:** You have rich, deep, moisture-retentive soil with some shade; you want a shorter understory tree with a unique tropical-flavored fruit; you are designing a food forest with multiple canopy layers; you are in zones 5–7 where pawpaws reliably fruit; or you want to tap into a growing niche market with limited regional supply.
 
-**Grow Both if:** You have the space and varied microclimates. They complement each other perfectly in a [[forest-gardening-and-food-forests]] design, extending the harvest window from late August through November with zero spray inputs and minimal maintenance once established.
+**Grow Both if:** You have the space and varied microclimates. They complement each other perfectly in a forest gardening and food forests design, extending the harvest window from late August through November with zero spray inputs and minimal maintenance once established.
 
 Both species are also valuable for wildlife: persimmons feed deer, foxes, raccoons, and many bird species, while pawpaws are the exclusive larval host plant for the zebra swallowtail butterfly (*Eurytides marcellus*), making them an important ecological addition to any permaculture site.
 

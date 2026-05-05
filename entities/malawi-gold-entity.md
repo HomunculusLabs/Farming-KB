@@ -145,5 +145,5 @@ Malawi Gold has been used extensively as breeding stock:
 - [[cannabis-sativa]] — Species-level overview of sativa cannabis
 - [[colombian-gold]] — Fellow foundational South American landrace
 - [[thai-stick]] — Southeast Asian landrace with similar flowering traits
-- [[lambs-bread]] — Jamaican landrace used in Amnesia Haze breeding
-- [[haze]] — Landrace hybrid central to modern sativa genetics
+- [[query-how-to-make-sourdough-bread-at-home]] — Jamaican landrace used in Amnesia Haze breeding
+- [[purple-haze]] — Landrace hybrid central to modern sativa genetics

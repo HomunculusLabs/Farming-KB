@@ -13,9 +13,9 @@ The [[endocannabinoid-system]] plays a central role in the brain's ability to ge
 
 ## The Endocannabinoid System as a Biological Regulator
 
-The [[endocannabinoid-system]] operates as a biological regulatory mechanism using a lock-and-key model. Cannabinoid receptors function as locks, and cannabinoid molecules function as keys. When a cannabinoid binds to its receptor, a signal cascade is initiated that produces physiological and psychological changes. The two primary receptor types are [[cb1-receptor]] (predominantly in the central nervous system) and [[cb2-receptor]] (predominantly in the immune system), though scientists suspect at least three additional endocannabinoid receptors remain to be fully characterized.
+The [[endocannabinoid-system]] operates as a biological regulatory mechanism using a lock-and-key model. Cannabinoid receptors function as locks, and cannabinoid molecules function as keys. When a cannabinoid binds to its receptor, a signal cascade is initiated that produces physiological and psychological changes. The two primary receptor types are [[cannabis-cannabinoid-receptor-pharmacology]] (predominantly in the central nervous system) and [[blesching-caryophyllene-cb2-agonist]] (predominantly in the immune system), though scientists suspect at least three additional endocannabinoid receptors remain to be fully characterized.
 
-The [[endocannabinoid-system]] was first scientifically identified in 1990, stemming from research into the [[cannabis]] plant. Since then, approximately ten new studies have been published every month examining its impact, range, and complexity, reflecting the excitement this discovery has generated in the medical research community.
+The [[endocannabinoid-system]] was first scientifically identified in 1990, stemming from research into the cannabis plant. Since then, approximately ten new studies have been published every month examining its impact, range, and complexity, reflecting the excitement this discovery has generated in the medical research community.
 
 ## Neurogenesis Through Endocannabinoid Signaling
 
@@ -23,8 +23,8 @@ Neurogenesis is the process by which new neurons are generated in the brain. Onc
 
 The [[endocannabinoid-system]] initiates and supports neurogenesis through several mechanisms:
 
-- Activation of [[cb1-receptor]] signaling pathways promotes the proliferation of neural progenitor cells
-- Endogenous cannabinoids like [[anandamide]] (the "bliss molecule") stimulate the survival and differentiation of newborn neurons
+- Activation of [[cannabis-cannabinoid-receptor-pharmacology]] signaling pathways promotes the proliferation of neural progenitor cells
+- Endogenous cannabinoids like [[anandamide-aea]] (the "bliss molecule") stimulate the survival and differentiation of newborn neurons
 - The [[endocannabinoid-system]] modulates the microenvironment of neurogenic niches, ensuring conditions favor new neuron maturation
 - Cannabinoid signaling helps integrate newly formed neurons into existing neural circuits
 
@@ -38,15 +38,15 @@ Neuroplasticity refers to the brain's ability to reorganize itself by forming ne
 
 - **Experience-dependent remodeling**: When we try new things, engage in novel experiences, or learn new skills, we literally change our brain functions for the better. The [[endocannabinoid-system]] facilitates this process by enabling the brain to form and strengthen new connections.
 
-- **Extinction learning**: The [[endocannabinoid-system]] is specifically involved in the extinction of fear memories and maladaptive behavioral patterns. This has profound implications for treating conditions like [[ptsd]], anxiety disorders, and phobias.
+- **Extinction learning**: The [[endocannabinoid-system]] is specifically involved in the extinction of fear memories and maladaptive behavioral patterns. This has profound implications for treating conditions like [[cannabis-health-ptsd]], anxiety disorders, and phobias.
 
 - **Memory function**: Beyond generating new neurons, the [[endocannabinoid-system]] plays a role in protecting nerve cells and enhancing memory function. This dual role in both creating and protecting neural tissue makes it unique among biological signaling systems.
 
 ## CB1 Receptor Density and Brain Function
 
-The [[cb1-receptor]] is the most abundant G-protein-coupled receptor in the central nervous system. Its dense concentration in brain regions associated with cognition, emotion, motor control, and sensory perception explains the profound effects that both endogenous and plant-derived cannabinoids have on consciousness and behavior.
+The [[cannabis-cannabinoid-receptor-pharmacology]] is the most abundant G-protein-coupled receptor in the central nervous system. Its dense concentration in brain regions associated with cognition, emotion, motor control, and sensory perception explains the profound effects that both endogenous and plant-derived cannabinoids have on consciousness and behavior.
 
-Regions with particularly high [[cb1-receptor]] density include:
+Regions with particularly high [[cannabis-cannabinoid-receptor-pharmacology]] density include:
 
 - The hippocampus (memory formation and spatial navigation)
 - The cerebral cortex (higher cognitive functions, perception, and consciousness)
@@ -81,13 +81,13 @@ This means that changes in frame of mind, whether induced by endocannabinoids, p
 
 ## Endocannabinoids and Neural Stem Cells
 
-Research has shown that the endocannabinoid [[anandamide]] and the endocannabinoid-like molecule 2-AG (2-arachidonoyl glycerol) both influence neural stem cell behavior. [[anandamide]] promotes neural progenitor cell proliferation through [[cb1-receptor]] activation, while 2-AG modulates both proliferation and differentiation. The presence of these endocannabinoids in neurogenic niches suggests that the [[endocannabinoid-system]] functions as a local regulator of brain repair and renewal.
+Research has shown that the endocannabinoid [[anandamide-aea]] and the endocannabinoid-like molecule 2-AG (2-arachidonoyl glycerol) both influence neural stem cell behavior. [[anandamide-aea]] promotes neural progenitor cell proliferation through [[cannabis-cannabinoid-receptor-pharmacology]] activation, while 2-AG modulates both proliferation and differentiation. The presence of these endocannabinoids in neurogenic niches suggests that the [[endocannabinoid-system]] functions as a local regulator of brain repair and renewal.
 
 ## The Entourage Effect on Brain Plasticity
 
-Blesching emphasizes that the therapeutic effects on neurogenesis and neuroplasticity are not limited to isolated cannabinoids. The concept of the entourage effect is relevant: the combination of multiple cannabinoids and terpenes working together may produce neuroplastic benefits that exceed those of any single compound. For example, [[cbd]] modulates the enzyme fatty acid amide hydrolase (FAAH) that breaks down [[anandamide]], effectively extending the bliss molecule's active life and amplifying its neurogenic effects. At the same time, [[cbd]] tames the psychoactive influence of [[thc]], allowing patients to access higher concentrations for therapeutic benefit without overwhelming psychoactive effects.
+Blesching emphasizes that the therapeutic effects on neurogenesis and neuroplasticity are not limited to isolated cannabinoids. The concept of the entourage effect is relevant: the combination of multiple cannabinoids and terpenes working together may produce neuroplastic benefits that exceed those of any single compound. For example, [[cbd-to-thc-isomerization-chemistry]] modulates the enzyme fatty acid amide hydrolase (FAAH) that breaks down [[anandamide-aea]], effectively extending the bliss molecule's active life and amplifying its neurogenic effects. At the same time, [[cbd-to-thc-isomerization-chemistry]] tames the psychoactive influence of [[thc-acetate-synthesis-and-pharmacology]], allowing patients to access higher concentrations for therapeutic benefit without overwhelming psychoactive effects.
 
-Beyond cannabinoids, terpenoid compounds also play a role. (E)-beta-caryophyllene, a dietary cannabinoid found in black pepper, cloves, rosemary, and other spices, activates the [[cb2-receptor]] and may contribute to the anti-inflammatory environment necessary for neurogenesis. The anti-inflammatory action is critical because chronic neuroinflammation suppresses neurogenesis and impairs neuroplasticity.
+Beyond cannabinoids, terpenoid compounds also play a role. (E)-beta-caryophyllene, a dietary cannabinoid found in black pepper, cloves, rosemary, and other spices, activates the [[blesching-caryophyllene-cb2-agonist]] and may contribute to the anti-inflammatory environment necessary for neurogenesis. The anti-inflammatory action is critical because chronic neuroinflammation suppresses neurogenesis and impairs neuroplasticity.
 
 ## Stress, Cortisol, and Endocannabinoid Function
 
@@ -100,11 +100,11 @@ Conversely, when the [[endocannabinoid-system]] is functioning optimally, it hel
 - Reducing cortisol production through feedback mechanisms
 - Supporting the prefrontal cortex in maintaining executive function under stress
 
-This feedback loop between the [[endocannabinoid-system]] and the hypothalamic-pituitary-adrenal (HPA) axis explains why both plant-derived cannabinoids and activities that naturally boost endocannabinoid levels (such as exercise, which increases [[anandamide]]) can have profound effects on stress resilience and emotional regulation.
+This feedback loop between the [[endocannabinoid-system]] and the hypothalamic-pituitary-adrenal (HPA) axis explains why both plant-derived cannabinoids and activities that naturally boost endocannabinoid levels (such as exercise, which increases [[anandamide-aea]]) can have profound effects on stress resilience and emotional regulation.
 
 ## Anandamide and the Bliss Molecule Connection
 
-[[anandamide]] (N-arachidonoylethanolamide, or AEA) was the first endocannabinoid discovered and remains the most studied. Its name derives from the Sanskrit word "ananda," meaning bliss or joy. Beyond its role in neurogenesis, [[anandamide]] influences:
+[[anandamide-aea]] (N-arachidonoylethanolamide, or AEA) was the first endocannabinoid discovered and remains the most studied. Its name derives from the Sanskrit word "ananda," meaning bliss or joy. Beyond its role in neurogenesis, [[anandamide-aea]] influences:
 
 - Pain perception through both CB1 and CB2 receptor pathways
 - Mood regulation and the experience of pleasure
@@ -112,7 +112,7 @@ This feedback loop between the [[endocannabinoid-system]] and the hypothalamic-p
 - Appetite control and feeding behavior
 - The immune response through CB2 receptor activation
 
-The discovery of [[anandamide]] in the 1990s was a watershed moment that transformed our understanding of the brain-body connection. It demonstrated that the human body produces its own cannabinoid-like molecules, explaining why the [[cannabis]] plant has such profound effects on human physiology: plant cannabinoids are molecular keys that fit locks evolved for our own endogenous compounds.
+The discovery of [[anandamide-aea]] in the 1990s was a watershed moment that transformed our understanding of the brain-body connection. It demonstrated that the human body produces its own cannabinoid-like molecules, explaining why the cannabis plant has such profound effects on human physiology: plant cannabinoids are molecular keys that fit locks evolved for our own endogenous compounds.
 
 ## Practical Implications
 
@@ -126,8 +126,8 @@ Understanding the [[endocannabinoid-system]] role in neurogenesis and neuroplast
 ## See Also
 
 - [[endocannabinoid-system]]
-- [[anandamide]]
-- [[cb1-receptor]]
+- [[anandamide-aea]]
+- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[blesching-endocannabinoid-system-overview]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
 - [[psilocybin-neuroplasticity]]

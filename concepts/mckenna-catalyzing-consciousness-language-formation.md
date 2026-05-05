@@ -137,6 +137,8 @@ senses and by the deeper dimensions of awareness.
 
 ## See Also
 
+- [[mckenna-cannabis-language-weaving-cordage-narrative]]
+
 - [[terence-mckenna-stoned-ape-hypothesis]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-language-and-reality]]

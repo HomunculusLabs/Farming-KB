@@ -25,7 +25,7 @@ sources:
 
 # Laetiporus sulphureus
 
-**Laetiporus sulphureus** (Bull.) Murrill, commonly known as **Chicken of the Woods**, is a conspicuous [[polypore]] fungus renowned for its bright sulfur-yellow to orange shelf-like fruiting bodies and its edible flesh with a texture and flavor often compared to chicken. It is one of the most widely recognized [[edible-mushrooms]] in temperate forests worldwide.
+**Laetiporus sulphureus** (Bull.) Murrill, commonly known as **Chicken of the Woods**, is a conspicuous [[polypore-fungi-eastern-north-america]] fungus renowned for its bright sulfur-yellow to orange shelf-like fruiting bodies and its edible flesh with a texture and flavor often compared to chicken. It is one of the most widely recognized [[edible-wild-mushrooms-by-region]] in temperate forests worldwide.
 
 ## Taxonomy
 
@@ -47,7 +47,7 @@ Fruiting bodies are bracket- or shelf-shaped, occurring singly or in overlapping
 
 ### Pores
 
-The pore surface (hymenium) is on the underside of the bracket. It is sulfur-yellow when young, maturing to pale yellow or cream. Pores are small and angular (1–3 per mm), and tubes are 2–5 mm deep. The pore surface bruises only weakly or not at all, which distinguishes it from some [[lookalikes]].
+The pore surface (hymenium) is on the underside of the bracket. It is sulfur-yellow when young, maturing to pale yellow or cream. Pores are small and angular (1–3 per mm), and tubes are 2–5 mm deep. The pore surface bruises only weakly or not at all, which distinguishes it from some [[psilocybin-mushroom-deadly-lookalikes]].
 
 ### Spore Print
 
@@ -59,7 +59,7 @@ The context (flesh) is soft, watery to fibrous when young, and whitish to pale y
 
 ## Habitat & Ecology
 
-*L. sulphureus* is primarily a **brown-rot parasite** and facultative [[saprotroph]]. It attacks living hardwoods — especially oaks (*Quercus* spp.), but also cherry (*Prunus*), walnut (*Juglans*), willow (*Salix*), beech (*Fagus*), and yew (*Taxus*) — causing a characteristic **brown heart rot** that reduces the structural integrity of the trunk and major branches. The fungus colonizes the heartwood through wounds, branch stubs, or root grafts, and can persist as a saprotroph on dead wood for years after host death.
+*L. sulphureus* is primarily a **brown-rot parasite** and facultative [[dighton-saprotroph-mycorrhizal-litter-interactions]]. It attacks living hardwoods — especially oaks (*Quercus* spp.), but also cherry (*Prunus*), walnut (*Juglans*), willow (*Salix*), beech (*Fagus*), and yew (*Taxus*) — causing a characteristic **brown heart rot** that reduces the structural integrity of the trunk and major branches. The fungus colonizes the heartwood through wounds, branch stubs, or root grafts, and can persist as a saprotroph on dead wood for years after host death.
 
 Fruiting occurs from spring through autumn, most abundantly in warm, wet periods following prolonged rains. The fungus is typically found at the base of trunks or on standing dead trees and stumps. Some species in the genus also attack conifers (e.g., *L. conifericola* on hemlock and spruce).
 
@@ -73,7 +73,7 @@ The genus as a whole has a nearly cosmopolitan distribution in temperate and sub
 
 ## Edibility
 
-Chicken of the Woods is one of the most popular [[foraging]] targets among wild mushroom enthusiasts due to its large size, distinctive appearance, and palatable flesh.
+Chicken of the Woods is one of the most popular [[mushroom-foraging-safety-guide]] targets among wild mushroom enthusiasts due to its large size, distinctive appearance, and palatable flesh.
 
 ### Preparation
 
@@ -93,7 +93,7 @@ Some individuals report mild gastrointestinal upset even after thorough cooking;
 - **Ganoderma species** (Reishi): Have a dark, lacquered upper surface and brown spore print — readily distinguished.
 - **Omphalotus species** (Jack-o'-Lantern): Not a true bracket; grows in clusters on wood or at the base of trees, gilled rather than poroid, and **bioluminescent**. Toxic.
 
-**Critical caution:** Never harvest from trees known or suspected to be treated with herbicides, pesticides, or growing near contaminated sites. *L. sulphureus* can accumulate heavy metals and environmental toxins. Specimens growing on [[yew]] (*Taxus*) may contain taxine alkaloids and should be avoided.
+**Critical caution:** Never harvest from trees known or suspected to be treated with herbicides, pesticides, or growing near contaminated sites. *L. sulphureus* can accumulate heavy metals and environmental toxins. Specimens growing on yew (*Taxus*) may contain taxine alkaloids and should be avoided.
 
 ### Allergy Warning
 
@@ -117,11 +117,11 @@ Preliminary studies suggest potential anti-inflammatory, antitumor, and antidiab
 
 ## Cultivation Notes
 
-Cultivation of *L. sulphureus* is possible but less common than for many other [[edible-mushrooms]], owing to its slow growth rate and specific substrate preferences.
+Cultivation of *L. sulphureus* is possible but less common than for many other [[edible-wild-mushrooms-by-region]], owing to its slow growth rate and specific substrate preferences.
 
 - **Substrate:** Hardwood sawdust or chips (oak, beech, or mixed hardwood) supplemented with bran. Pasteurized or sterilized substrates in bags or logs.
 - **Inoculation:** Grain spawn or sawdust spawn introduced to sterilized substrate under aseptic conditions.
-- **Incubation:** 20–25°C for 4–12 weeks for full colonization. Mycelial growth is relatively slow compared to [[oyster mushrooms]] or [[shiitake]].
+- **Incubation:** 20–25°C for 4–12 weeks for full colonization. Mycelial growth is relatively slow compared to [[oyster mushrooms]] or [[shiitake-strain-classification-and-substrate-formulas]].
 - **Fruiting:** Initiated by fresh air exchange, high humidity (85–95%), and moderate temperatures. Light is not required for fruiting but can improve color development.
 - **Yield:** Biological efficiency is generally lower than commercial species, making it primarily of interest to hobbyists and specialty growers.
 
@@ -134,6 +134,8 @@ Chicken of the Woods holds a prominent place in the culinary traditions of forag
 The fungus's striking visual appearance — large, vividly colored shelves adorning tree trunks — has also made it a favorite subject in nature photography and an iconic symbol of forest biodiversity.
 
 ## See Also
+
+- [[laetiporus-sulphureus-entity]]
 
 - [[Laetiporus]] — Genus overview and other species
 - [[Polypore]] — General information on bracket fungi

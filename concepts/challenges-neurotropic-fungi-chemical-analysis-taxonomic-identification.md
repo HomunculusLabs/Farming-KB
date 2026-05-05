@@ -129,6 +129,8 @@ These systematic problems have several important implications for future researc
 
 ## See Also
 
+- [[challenges-neurotropic-fungi-identification-chemical-analysis]]
+
 - [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
 - [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
 - [[magic-mushroom-preparation-and-consumption-methods]]

@@ -87,6 +87,6 @@ Fukuoka's critique of Liebig's law undermines the intellectual foundation of con
 - [[fukuoka-illusions-of-scientific-farming]]
 - [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]
 - [[non-causality-in-nature]]
-- [[fukuoka-textdoc-scientific-agriculture-as-processing-industry]]
+- [[fukuoka-relative-merits-natural-scientific-agriculture]]
 - [[natural-farming-philosophy-of-mu]]
-- [[fukuoka-textdoc-yield-theory-and-its-fallacies]]
+- [[fukuoka-textdoc-high-yield-theory-photosynthesis-critique]]

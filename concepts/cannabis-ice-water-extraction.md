@@ -129,6 +129,8 @@ Important safety tips for water extraction:
 
 ## See Also
 
+- [[ice-cream-cake-cannabis]]
+
 - [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
 
 - [[cannabis-hashish-production]]

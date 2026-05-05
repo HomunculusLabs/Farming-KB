@@ -115,11 +115,13 @@ Broad-spectrum chemical pesticides and some synthetic fertilizers can reduce bac
 
 **Can phages harm my plants directly?** No. Bacteriophages only infect bacteria. They are completely harmless to plants, animals, and humans.
 
-## Related Wiki Links
+## Related
 
-- [[soil-microbiome-basics]] — Introduction to soil microbial communities
-- [[beneficial-soil-bacteria-guide]] — PGPR, nitrogen fixers, and mycorrhizal helpers
-- [[biological-disease-control]] — Using living organisms to fight plant diseases
-- [[building-healthy-soil]] — Core practices for soil biology management
+- [[solomon-soil-temperature-and-nighttime-plant-growth]] Wiki Links
+
+- [[garden-soil-basics]] — Introduction to soil microbial communities
+- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]] — PGPR, nitrogen fixers, and mycorrhizal helpers
+- [[knf-hay-bacillus-disease-control]] — Using living organisms to fight plant diseases
+- [[gaias-garden-soil-building]] — Core practices for soil biology management
 - [[cover-crop-selection-guide]] — Choosing covers that feed soil life
-- [[reducing-chemical-inputs]] — Transition strategies for lower-spray systems
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] — Transition strategies for lower-spray systems

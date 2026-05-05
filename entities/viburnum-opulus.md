@@ -46,7 +46,7 @@
     46|
     47|**Bark:** Smooth, grey-brown on young stems, developing shallow fissures and corky ridges on older wood. The characteristic medicinal bark is the dried bark of 2–3 year old branches. The bark has a slightly bitter, astringent taste.
     48|
-    49|**Leaves:** Opposite, simple, 5–10 cm long and broad, palmately 3-5 lobed (superficially resembling [[maple]] leaves). Lobes are coarsely toothed and pointed. Leaf surface is dark green above, paler and slightly hairy below, particularly along the veins. Autumn color is outstanding — vibrant red, orange, and purple, making this one of the best native shrubs for fall display.
+    49|**Leaves:** Opposite, simple, 5–10 cm long and broad, palmately 3-5 lobed (superficially resembling [[maple-syrup-production]] leaves). Lobes are coarsely toothed and pointed. Leaf surface is dark green above, paler and slightly hairy below, particularly along the veins. Autumn color is outstanding — vibrant red, orange, and purple, making this one of the best native shrubs for fall display.
     50|
     51|**Flowers:** Borne in flat-topped cymes (corymbs) 5–10 cm in diameter in May–June. The cyme has two types of flowers: an outer ring of 5–6 large, showy, sterile flowers (1.5–2.5 cm across) with 5 enlarged white petals, and an inner mass of 20–40 small (5 mm), fertile flowers that produce the fruit. This dual arrangement is a distinctive feature of the species. The flowers have a slightly sweet, honey-like fragrance and are highly attractive to pollinators.
     52|

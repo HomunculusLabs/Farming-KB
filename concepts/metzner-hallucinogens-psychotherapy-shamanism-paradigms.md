@@ -125,8 +125,8 @@ Leary later adapted the Tao Te Ching as another psychedelic guidebook. Both sour
 
 ## See Also
 
-- [[set-and-setting-hypothesis]] for the foundational model of psychedelic experience determinants
-- [[psycholytic-therapy-history]] for the European tradition of LSD-assisted psychotherapy
-- [[stanislav-grof-holotropic-breathwork]] for Grof's later non-drug methods accessing non-ordinary states
-- [[shamanic-plant-teachers]] for the broader context of entheogenic plants in indigenous practice
-- [[peyote-ceremony-structure]] for detailed description of Native American Church rituals
+- [[psychedelic-set-and-setting]] for the foundational model of psychedelic experience determinants
+- [[swiss-psycholytic-therapy-1988-1993]] for the European tradition of LSD-assisted psychotherapy
+- [[stanislav-grof]] for Grof's later non-drug methods accessing non-ordinary states
+- [[amazonian-plant-teachers-doctores]] for the broader context of entheogenic plants in indigenous practice
+- [[peyote-ceremony]] for detailed description of Native American Church rituals

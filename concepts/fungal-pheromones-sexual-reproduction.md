@@ -147,9 +147,9 @@ an ideal nitrogen source.
 
 ## See Also
 
-- [[oomycete-biology]]
-- [[chytrid-fungi]]
-- [[zygomycete-fungi]]
-- [[basidiomycete-fungi]]
+- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
+- [[chytrid-fungi-guide]]
+- [[zoopagales-dimargaritales-zygomycete-mycoparasites]]
+- [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
 - [[cryptococcus-neoformans]]
-- [[armitaria-biology]]
+- [[plant-sensory-biology]]

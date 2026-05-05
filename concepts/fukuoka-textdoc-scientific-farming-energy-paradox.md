@@ -148,5 +148,5 @@ the net energy return to society.
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
 - [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
 - [[fukuoka-critique-modern-livestock]]
-- [[fukuoka-natural-livestock-caloric-efficiency]]
+- [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]

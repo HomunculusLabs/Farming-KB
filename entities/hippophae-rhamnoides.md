@@ -139,14 +139,14 @@ Remove older canes (>4 years) as fruit is produced primarily on 2–3 year old w
 
 | Species | Key Differences |
 |---|---|
-| [[elaeagnus-angustifolia]] | Russian olive; similar silver foliage; different fruit |
+| [[elaeagnus-umbellata]] | Russian olive; similar silver foliage; different fruit |
 | [[elaeagnus-umbellata]] | Autumn olive; red fruits; nitrogen-fixing |
-| [[shepherdia-argentea]] | Silver buffaloberry; similar habitat; native to North America |
+| shepherdia argentea | Silver buffaloberry; similar habitat; native to North America |
 
 ## See Also
-- [[autumn-olive]]
-- [[black-locust]]
-- [[siberian-peashrub]]
+- [[permaculture-autumn-olive]]
+- [[black-locust-entity]]
+- [[fly-agaric-siberian-shamanic-practice]]
 - [[comfrey]]
 - [[tagasaste]]
 - [[goumi]]

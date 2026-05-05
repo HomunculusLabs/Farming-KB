@@ -121,6 +121,6 @@ toxoplasmosis in mammals.
 ## See Also
 - [[mr-bloomfields-fungal-hyphal-biology-and-mycelial-networks]]
 - [[mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling]]
-- [[ascomycete-fungi-and-ascospore-biology]]
-- [[entomopathogenic-fungi-as-biological-control-agents]]
-- [[cordyceps-militaris-cultivation-and-pharmacology]]
+- [[mycelium-running-conservation-biology-and-fungi]]
+- [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
+- [[cordyceps-militaris-cultivation]]

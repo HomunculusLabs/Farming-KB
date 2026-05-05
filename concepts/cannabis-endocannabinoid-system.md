@@ -74,6 +74,9 @@ The ECS explains why cannabis treats such a wide variety of conditions — it is
 
 ## Related
 
+- [[cannabis-health-index-scoring-evidence-methodology]]
+- [[cannabis-health-index-evidence-based-framework-scoring-system]]
+
 - [[blue-dream-cannabis]]
 - [[granddaddy-purple]]
 

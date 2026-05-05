@@ -129,7 +129,7 @@ recommended in vulnerable areas.
 
 ## See Also
 
-- [[actinidia]] — kiwifruit, another climbing food-forest vine
-- [[rubus-idaeus]] — raspberry, a companion understory fruit
+- actinidia — kiwifruit, another climbing food-forest vine
+- [[rubus-idaeus-entity]] — raspberry, a companion understory fruit
 - [[morus-alba]] — mulberry, a compatible food-forest canopy tree
 - [[symphytum-officinale]] — comfrey, complementary permaculture biomass plant

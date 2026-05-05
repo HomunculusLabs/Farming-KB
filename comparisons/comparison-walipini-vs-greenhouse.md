@@ -118,6 +118,8 @@ wall sections on the south face to increase light penetration. [[cold-frame-gard
 
 ## See Also
 
+- [[comparison-high-tunnel-vs-walipini]]
+
 - [[greenhouse-growing]]
 - [[cold-frame-gardening]]
 - [[passive-solar-design]]

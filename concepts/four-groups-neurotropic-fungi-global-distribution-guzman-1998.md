@@ -71,7 +71,7 @@ Puffballs and related fungi used in religious or magical contexts:
 - [[Lycoperdon mixtecorum]] and [[Lycoperdon marginatum]]: reported by Heim and Wasson (1962) as narcotic fungi among the Mixtec Indians of Oaxaca, Mexico
 - Ott et al. (1975) later determined these were common edible species, suggesting the Mixtec use may have involved confusion with genuinely psychoactive [[Psilocybe]] species from the same region
 - [[Lycoperdon perlatum]]: used in Mexican traditional medicine; forms fairy rings in grasslands but is edible and non-psychoactive
-- Several [[Ganoderma]] species have been used in religious contexts (a church in Chignahuapan, Puebla, Mexico was built specifically in honor of [[Ganoderma lobatum]]), though this likely relates to [[psilocybe]] use in the same region
+- Several [[Ganoderma]] species have been used in religious contexts (a church in Chignahuapan, Puebla, Mexico was built specifically in honor of [[Ganoderma lobatum]]), though this likely relates to psilocybe use in the same region
 
 ## Geographic Distribution Patterns
 

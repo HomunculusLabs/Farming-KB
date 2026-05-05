@@ -115,6 +115,8 @@ relationship between earth, plant, and human being.
 
 ## See Also
 
+- [[fukuoka-petroleum-agriculture-food-quality-decline]]
+
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
 
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]

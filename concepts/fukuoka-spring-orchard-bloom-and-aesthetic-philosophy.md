@@ -21,9 +21,9 @@ In the opening passages of "The Road Back to Nature," Masanobu Fukuoka describes
 
 ## The Orchard as Living Eden
 
-Fukuoka's orchard is home to cherry, plum, peach, and pear trees growing alongside semi-wild vegetables beneath them. When spring arrives, all these plants break into bloom simultaneously, mixing the greens of new foliage with the blossoms of fruit trees and the blue and white of [[daikon]] (Japanese radish) flowers. The iridescent shower of falling petals creates what visitors call an Eden or paradise on Earth.
+Fukuoka's orchard is home to cherry, plum, peach, and pear trees growing alongside semi-wild vegetables beneath them. When spring arrives, all these plants break into bloom simultaneously, mixing the greens of new foliage with the blossoms of fruit trees and the blue and white of daikon (Japanese radish) flowers. The iridescent shower of falling petals creates what visitors call an Eden or paradise on Earth.
 
-This is not a manicured display garden but a working [[food forest]] operating on [[natural-farming]] principles. The trees grow without [[pruning]], the ground is covered in [[clover]] rather than bare soil, and the vegetables grow semi-wild beneath the canopy. The aesthetic result emerges as a byproduct of ecological health rather than deliberate landscape design. The beauty is inseparable from the biological functioning of the system.
+This is not a manicured display garden but a working [[food forest]] operating on [[natural-farming]] principles. The trees grow without [[pruning-fruit-trees-and-bushes]], the ground is covered in [[white-clover-ground-cover]] rather than bare soil, and the vegetables grow semi-wild beneath the canopy. The aesthetic result emerges as a byproduct of ecological health rather than deliberate landscape design. The beauty is inseparable from the biological functioning of the system.
 
 Fukuoka notes that the flowers of nature "bloom of their own accord and scatter without care or concern." This phrase captures a central theme: natural beauty is effortless and self-organizing, in contrast to the labor-intensive beauty of cultivated gardens that require constant human intervention to maintain. The orchard produces its stunning display without any gardener deciding what should bloom where or when. The plants follow their own seasonal rhythms in an interconnected ecology.
 
@@ -43,7 +43,7 @@ The act of cutting a flower and placing it in a vase is, for Fukuoka, emblematic
 
 ## The Intellect as Barrier to Nature
 
-Fukuoka's aesthetic philosophy is deeply intertwined with his critique of human [[intellect]]. He argues that "reason and understanding are mutually antagonistic." The intellect attempts to open up nature but "succeeds only in closing it down because human knowledge is in fact nothing more than a cumulation of judgment by the human intellect."
+Fukuoka's aesthetic philosophy is deeply intertwined with his critique of human [[fukuoka-textdoc-errors-of-human-intellect]]. He argues that "reason and understanding are mutually antagonistic." The intellect attempts to open up nature but "succeeds only in closing it down because human knowledge is in fact nothing more than a cumulation of judgment by the human intellect."
 
 At first, reason appeared capable of "becoming the means necessary for conversing with God," but "instead it turned out to be a dangerous weapon that strips man of wisdom and brutalizes God." The intellect analyzes, categorizes, and separates, but in doing so it loses the holistic perception that allows genuine understanding of natural systems. The analytical mind breaks the whole into parts, names the parts, and thereby loses sight of the whole.
 
@@ -100,7 +100,7 @@ This is why [[natural-farming]] is not simply a set of techniques but a fundamen
 
 ## The Role of Seasonal Awareness
 
-The spring bloom in Fukuoka's orchard is not a static display but a moment in an ongoing cycle. The same trees that produce cherry blossoms in April will bear fruit in summer and drop their leaves in autumn. The [[clover]] that carpets the ground will fix nitrogen in summer and die back in winter, returning its nutrients to the soil.
+The spring bloom in Fukuoka's orchard is not a static display but a moment in an ongoing cycle. The same trees that produce cherry blossoms in April will bear fruit in summer and drop their leaves in autumn. The [[white-clover-ground-cover]] that carpets the ground will fix nitrogen in summer and die back in winter, returning its nutrients to the soil.
 
 Fukuoka's aesthetic philosophy is fundamentally seasonal. It asks the observer to appreciate each phase of the cycle rather than privileging one moment, the bloom, over all others. The bare branches of winter have their own beauty, as do the ripening fruits of summer. A farmer who sees only the bloom as beautiful misses the deeper beauty of the cycle as a whole.
 

@@ -136,6 +136,10 @@ A quarter-acre (0.1 hectare) tropical food forest can realistically provide a si
 
 ## See Also
 
+- [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
+- [[query-how-do-i-design-planting-guilds-for-a-food-forest]]
+- [[query-how-can-i-design-a-climate-resilient-food-forest]]
+
 - [[permaculture-humid-tropical-garden-design]]
 - [[mollison-tropical-and-coastal-permaculture-design]]
 - [[permaculture-food-forest-design-principles]]

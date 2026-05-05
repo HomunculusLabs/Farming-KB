@@ -142,6 +142,6 @@ discontinue 7 days pre-surgery. Not mutagenic in Ames testing.
 
 ## See Also
 
-- [[allium-sativum]] — garlic, the biological source of allicin
-- [[alliin]] — precursor amino acid sulfoxide stored in intact garlic cloves
+- [[allium-sativum-entity]] — garlic, the biological source of allicin
+- alliin — precursor amino acid sulfoxide stored in intact garlic cloves
 - [[curcumin]] — polyphenol with overlapping anti-inflammatory and cardiovascular mechanisms

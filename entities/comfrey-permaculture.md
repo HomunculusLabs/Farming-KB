@@ -36,7 +36,6 @@ sources:
 - **Species:** *S. officinale*
 
 The genus *Symphytum* contains approximately 35 species. The most commonly cultivated are:
-
 - **S. officinale:** True comfrey — may produce viable seeds (can become invasive)
 - **S. × uplandicum (Russian comfrey):** A naturally occurring hybrid (*S. officinale* × *S. asperum*); sterile, clonal propagation only; higher biomass production; preferred for permaculture
 - **'Bocking 14':** The most widely grown cultivar, developed by Lawrence D. Hills at the Henry Doubleday Research Association. Sterile hybrid, high protein and potash content, disease-resistant
@@ -65,7 +64,6 @@ Comfrey is often described as the "Swiss Army knife" of permaculture plants due 
 Comfrey's deep taproot mines subsoil minerals — particularly **potassium (K), phosphorus (P), calcium (Ca), and trace minerals** — and concentrates them in its leaves. When those leaves are cut and applied as mulch, compost, or liquid feed, these minerals become available to shallow-rooted crops.
 
 Typical leaf nutrient content (dry weight basis):
-
 | Nutrient | Content | Significance |
 |----------|---------|--------------|
 | **Nitrogen (N)** | 3.0–7.0% | Comparable to animal manure |
@@ -74,13 +72,11 @@ Typical leaf nutrient content (dry weight basis):
 | **Calcium (Ca)** | 2.0–4.0% | Important for soil structure |
 | **Iron (Fe)** | 200–500 ppm | Micronutrient |
 | **Magnesium (Mg)** | 0.3–0.8% | Chlorophyll component |
-
 The high potassium content makes comfrey particularly valuable as a feed for potassium-hungry crops like tomatoes, potatoes, peppers, and fruit trees.
 
 ### Biomass Production
 
 Comfrey is among the most productive perennial biomass crops in temperate climates:
-
 - **'Bocking 14'** can produce 4–7 kg (9–15 lbs) of fresh leaf material per plant per year
 - **3–5 cuts per growing season** are possible in favorable conditions
 - Yields of **10–20 tonnes/hectare** of fresh matter annually have been recorded
@@ -89,7 +85,6 @@ Comfrey is among the most productive perennial biomass crops in temperate climat
 ### Comfrey Liquid Feed
 
 One of the most popular uses is "comfrey tea" — a nutrient-rich liquid fertilizer:
-
 1. Harvest comfrey leaves and pack into a container (bucket or barrel)
 2. Weight down with a stone or board
 3. Add water to cover (optional — some practitioners prefer to let leaves decompose without water for a more concentrated product)
@@ -97,7 +92,6 @@ One of the most popular uses is "comfrey tea" — a nutrient-rich liquid fertili
 5. Dilute 1:10 (with water) for foliar feed or soil drench
 
 The resulting liquid is dark brown, with a strong smell (similar to manure), and contains readily available potassium, nitrogen, and trace minerals. It is particularly effective as a feed for:
-
 - Fruiting vegetables (tomatoes, peppers, cucumbers)
 - Root vegetables (potatoes, carrots, beets)
 - Fruit trees and berry bushes
@@ -106,7 +100,6 @@ The resulting liquid is dark brown, with a strong smell (similar to manure), and
 ### Mulch and Compost Accelerator
 
 Fresh or wilted comfrey leaves make excellent mulch:
-
 - Spread 5–10 cm thick around plants; decomposes within 2–4 weeks
 - Higher nutrient density than straw or leaf mold
 - Accelerates compost decomposition when layered into compost piles (the high nitrogen content acts as a compost activator)
@@ -115,7 +108,6 @@ Fresh or wilted comfrey leaves make excellent mulch:
 ### Companion Planting
 
 Comfrey serves several companion planting functions:
-
 - **Fruit tree understory:** Planted in the drip line of fruit trees, comfrey mines nutrients from the root zone, reduces grass competition, and provides mulch material in-situ
 - **Pest deterrent:** The presence of comfrey may help repel certain pests; the flowers attract predatory insects
 - **Bee forage:** Extended flowering period provides nectar for bees and other pollinators during a critical gap period (late spring to midsummer)
@@ -128,7 +120,6 @@ The extensive root system helps stabilize soil on slopes, banks, and waterway ed
 ### Livestock Fodder
 
 Comfrey has a long history as animal fodder, particularly for poultry and pigs:
-
 - High protein content (20–30% of dry matter)
 - Palatable to chickens, pigs, and rabbits when wilted
 - Can be fed fresh or ensiled
@@ -174,7 +165,6 @@ Comfrey has been investigated for its ability to accumulate heavy metals from co
 ### The PA Problem
 
 All *Symphytum* species contain **pyrrolizidine alkaloids (PAs)**, primarily:
-
 - **Symphytine**
 - **Echimidine**
 - **Lycopsamine**
@@ -194,7 +184,6 @@ PAs are **hepatotoxic** (liver-damaging) and **hepatocarcinogenic** (can cause l
 ### PA Content Variability
 
 PA content varies significantly between species and cultivars:
-
 - *S. officinale* (true comfrey): Higher PA content
 - *S. × uplandicum* (Russian comfrey): Lower PA content
 - 'Bocking 14': Lowest PA content among commonly available cultivars

@@ -157,6 +157,8 @@ world of illusion distant and divorced from true nature.
 
 ## See Also
 
+- [[fukuoka-critique-of-liebig-law-of-minimum]]
+
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-errors-of-human-intellect]]
 - [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]

@@ -151,4 +151,4 @@ several options:
 - [[mckenna-drug-war-and-human-freedom]] for analysis of drug war politics
 - [[mckenna-archaic-revival]] for the broader concept of the Archaic Revival
 - [[mckenna-dominator-vs-partnership-society-model]] for the cultural theory
-- [[mckenna-psychedelic-research-legal-history-united-states]] for legal context
+- [[psychedelic-research-legal-history-united-states]] for legal context

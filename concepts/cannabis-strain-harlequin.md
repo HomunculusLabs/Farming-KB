@@ -114,6 +114,8 @@ valuable and relatively easy to cultivate.
 
 ## See Also
 
+- [[harlequin-cannabis]]
+
 - [[cannabis-sativa]] - Overview of sativa cannabis varieties
 - [[cannabidiol-cbd]] - Information on CBD and its therapeutic applications
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]] - Cannabis for therapeutic use

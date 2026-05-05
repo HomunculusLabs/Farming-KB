@@ -139,6 +139,8 @@ used incorrectly.
 
 ## Related
 
+- [[pf-tek-pressure-canner-sterilization]]
+
 - [[pf-tek-steam-sterilization-technique]]
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-maximum-fruiting-substrate-formula]]

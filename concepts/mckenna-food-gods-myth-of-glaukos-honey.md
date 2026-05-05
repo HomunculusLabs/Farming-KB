@@ -52,7 +52,7 @@ The fact that Glaukos fell into a honey pot — whose shape suggests the bucket-
 
 ### The Cattle Motif
 
-The motif of cattle appears in the bizarre section concerning the three-colored cow and the need to demonstrate linguistic facility before being able to find the lost child. This echoes the central importance of cattle in the [[soma-vedic-enigma|Soma cult]] and the [[mckenna-food-gods-stoned-ape-hypothesis|relationship between cattle, dung, and psilocybin mushrooms]].
+The motif of cattle appears in the bizarre section concerning the three-colored cow and the need to demonstrate linguistic facility before being able to find the lost child. This echoes the central importance of cattle in the [[mckenna-food-gods-soma-vedic-enigma|Soma cult]] and the [[mckenna-food-gods-stoned-ape-hypothesis|relationship between cattle, dung, and psilocybin mushrooms]].
 
 ### The Serpent and Herbal Knowledge
 

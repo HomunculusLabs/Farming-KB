@@ -140,8 +140,8 @@ curanderos including María Sabina for divination and healing.
 - **Canada:** Schedule III (reduced from I in 2022); expanded-access ongoing
 
 ## See Also
-- [[psilocin-entity]]
+- [[psilocin-entity-tihkal]]
 - [[baeocystin-entity]]
 - [[psilocybe-cubensis-entity]]
-- [[psilocybe-azurescens-entity]]
+- [[psilocybe-caerulescens-entity]]
 - [[nn-dmt]]

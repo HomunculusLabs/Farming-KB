@@ -140,8 +140,8 @@ Tulsi excels in permaculture food forests and herb spirals for:
 
 - [[ashwagandha]]
 - [[ocimum-basilicum]]
-- [[rosmarinic-acid]]
-- [[adaptogens]]
-- [[ayurvedic-medicine]]
-- [[lamiaceae]]
-- [[permaculture-herb-spiral]]
+- [[fish-amino-acid-faa]]
+- adaptogens
+- [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]
+- lamiaceae
+- [[permaculture-herb-spiral-details]]

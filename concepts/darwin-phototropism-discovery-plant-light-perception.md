@@ -121,6 +121,8 @@ This insight anticipated modern concepts of signal transduction, hormone signali
 
 ## See Also
 
+- [[julius-von-sachs-blue-light-phototropism-discovery]]
+
 - [[phytochrome-and-plant-light-perception]] -- phytochrome photoreception mechanisms
 - [[phototropism-photoperiodism-discovery-phytochrome]] -- phototropism and photoperiodism overview
 - [[phytochrome-red-far-red-switch-and-photoperiodism]] -- red/far-red molecular switch

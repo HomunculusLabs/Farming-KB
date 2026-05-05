@@ -24,7 +24,7 @@ Hallucinogenic mushrooms containing [[psilocybin]] and [[psilocin]] present a di
 
 ### No Physical Dependence
 
-A key distinguishing feature of hallucinogenic mushrooms is that psychological and physical dependency does not occur with their use. There are no withdrawal symptoms associated with cessation of use. This contrasts sharply with substances such as [[cannabis]], [[MDMA]], alcohol, and opioids.
+A key distinguishing feature of hallucinogenic mushrooms is that psychological and physical dependency does not occur with their use. There are no withdrawal symptoms associated with cessation of use. This contrasts sharply with substances such as cannabis, [[MDMA]], alcohol, and opioids.
 
 ### Limited Repeat Use
 
@@ -33,7 +33,7 @@ Several factors naturally limit habitual use of hallucinogenic mushrooms:
 - **Rapid tolerance development**: Short-term tolerance builds quickly, requiring increasing doses for similar effects
 - **Intensity of experience**: The profoundly altered state is not conducive to frequent repetition
 - **Lack of entactogenic effects**: Unlike [[MDMA]], mushrooms do not reliably produce the positive mood-altering effects that encourage repeated social use
-- **Unpredictable potency**: Variable [[potency]] between batches and species creates uncertainty
+- **Unpredictable potency**: Variable [[green-cannabis-potency-maximizing]] between batches and species creates uncertainty
 - **Negative effects**: Nausea, panic attacks, and lack of sociable effects discourage regular use
 
 Dutch qualitative research confirms that users tend to view mushroom experiences as not particularly pleasant and generally discontinue use after a few experimental trials.
@@ -65,7 +65,7 @@ Intoxication with hallucinogenic mushrooms is not always easily diagnosed unless
 - Reassuring the affected individual
 - Preventing self-harm or harm to others
 - Assisting the person to appropriate medical care
-- Administration of [[benzodiazepines]], reported to be the safest and most effective medication of choice for most patients
+- Administration of benzodiazepines, reported to be the safest and most effective medication of choice for most patients
 
 ### Chronic Toxicity
 
@@ -131,7 +131,7 @@ The mental health risk profile of hallucinogenic mushrooms broadly parallels tha
 
 - [[Flashback]] frequency appears lower with mushrooms than with LSD
 - Duration of acute effects is shorter with mushrooms (2 to 6 hours versus 8 to 12 hours for LSD)
-- The lower [[potency]] ceiling of mushrooms compared to typical LSD doses may result in less intense psychotic-like episodes
+- The lower [[green-cannabis-potency-maximizing]] ceiling of mushrooms compared to typical LSD doses may result in less intense psychotic-like episodes
 
 ## Risk Reduction Considerations
 

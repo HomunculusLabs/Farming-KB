@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-In his 1998 comparative analysis, Ralph Metzner identified four paradigms for understanding the use of psychoactive substances in healing and knowledge-seeking practices. The second paradigm, shamanic rituals of healing and divination, represents the oldest and most widespread form of entheogenic practice, spanning thousands of years and diverse indigenous cultures worldwide. These rituals differ profoundly from Western [[psychedelic psychotherapy]] in their underlying worldview, particularly in their acceptance of multiple realities and the reality of spirit beings. Understanding these foundational practices is essential for grasping the origins and cultural context of modern [[entheogenic]] use.
+In his 1998 comparative analysis, Ralph Metzner identified four paradigms for understanding the use of psychoactive substances in healing and knowledge-seeking practices. The second paradigm, shamanic rituals of healing and divination, represents the oldest and most widespread form of entheogenic practice, spanning thousands of years and diverse indigenous cultures worldwide. These rituals differ profoundly from Western [[psychedelic psychotherapy]] in their underlying worldview, particularly in their acceptance of multiple realities and the reality of spirit beings. Understanding these foundational practices is essential for grasping the origins and cultural context of modern [[entheogenic-mushroom-species]] use.
 
 ## The Shamanic Approach to Set and Setting
 
@@ -77,7 +77,7 @@ The mushroom ceremonies of the Mazatec Indians of Mexico involve:
 
 ### Ayahuasca Ceremonies
 
-Traditional Amazonian Indian or mestizo [[ayahuasca]] ceremonies involve:
+Traditional Amazonian Indian or mestizo ayahuasca ceremonies involve:
 
 - A small group sitting in a circle in semidarkness
 - Initiated healers singing icaros (healing songs) through which healing and diagnosis takes place
@@ -90,7 +90,7 @@ The ceremonies of the San Pedro cactus in Andean regions sometimes take place ar
 
 ### Iboga/Bwiti Ceremonies
 
-The ceremonies involving the African [[iboga]] plant, used by the Bwiti cult in Gabon and Zaire, feature:
+The ceremonies involving the African [[iboga-root-bark-preparation]] plant, used by the Bwiti cult in Gabon and Zaire, feature:
 
 - An altar with ancestral and deity images
 - Participants sitting on the floor with chanting and dancing
@@ -111,7 +111,7 @@ Shamanic healing experiences address physical, psychic, and spiritual levels wit
 
 ### 2. Access to Hidden Knowledge (Divination)
 
-The experience provides access to hidden knowledge, the aspect of divination, "seeing," prophecy, or visioning. When the intention is healing, divination functions as diagnosis, determining the source of illness and the appropriate remedy. Indigenous healers refer to the [[plant-teachers|entheogenic plants]] as "plant teachers," recognising that an intelligence associated with the medicine communicates in an interior way to the person who ingests it.
+The experience provides access to hidden knowledge, the aspect of divination, "seeing," prophecy, or visioning. When the intention is healing, divination functions as diagnosis, determining the source of illness and the appropriate remedy. Indigenous healers refer to the [[plant-teachers-ayahuasca|entheogenic plants]] as "plant teachers," recognising that an intelligence associated with the medicine communicates in an interior way to the person who ingests it.
 
 ### 3. Access to Metaphysical Realms
 
@@ -151,10 +151,12 @@ These conceptions are considered completely beyond the pale of conventional reas
 
 While Western [[psychoactive-assisted psychotherapy]] and shamanic entheogenic healing share the centrality of an experienced guide and the importance of set and setting, their underlying paradigms of illness and treatment differ fundamentally. The Western model focuses on psychological insight, emotional processing, and resolution of inner conflict. The shamanic model addresses spiritual dimensions, community relationships, ecological balance, and the restoration of wholeness through connection with the spirit world.
 
-## Related Topics
+## Related
+
+- [[shamanic-healing-variants-and-divination]] Topics
 
 - [[metzner-four-paradigms-psychedelic-healing]]
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
 - [[icaros-power-songs]]
-- [[plant-teachers]]
+- [[plant-teachers-ayahuasca]]

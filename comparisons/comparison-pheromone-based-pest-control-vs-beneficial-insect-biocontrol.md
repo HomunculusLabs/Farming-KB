@@ -143,8 +143,8 @@ This integrated program has reduced synthetic insecticide applications by 60–8
 
 ## See Also
 
-- [[plant-volatile-organic-compounds-and-chemical-ecology]] — the chemical signals underlying pheromone and HIPV systems
-- [[beneficial-insects-and-biological-pest-control]] — detailed guide to biocontrol agents
-- [[botanical-pesticides-and-natural-pest-control]] — additional non-synthetic pest management options
-- [[entomopathogenic-fungi-and-biological-pest-control]] — microbial biocontrol agents
+- [[plant-olfaction-and-chemical-sensing]] — the chemical signals underlying pheromone and HIPV systems
+- [[hamilton-beneficial-insects-and-biological-pest-control]] — detailed guide to biocontrol agents
+- [[jadam-pest-control-with-natural-pesticides-jhs]] — additional non-synthetic pest management options
+- [[hamilton-beneficial-insects-and-biological-pest-control]] — microbial biocontrol agents
 - [[integrated-pest-management]] — comprehensive IPM framework

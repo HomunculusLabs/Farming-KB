@@ -143,7 +143,7 @@ stress but the species survives where few others can.
 - **Yield:** 0.5–2.0 tonnes seed/ha/year; 5–8 tonnes fruit/ha/year
 - **Lifespan:** 30–50 years; peak production years 3–15
 ## See Also
-- [[ricinus-communis]]
+- [[ricinus-communis-entity]]
 - [[moringa-oleifera]]
-- [[jatropha-curcas]]
+- [[jatropha-curcas-entity]]
 - [[simmondsia-chinensis]]

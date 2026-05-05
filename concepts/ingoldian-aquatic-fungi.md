@@ -157,8 +157,8 @@ monograph nears completion, new species are discovered, extending the date.
 
 ## See Also
 
-- [[aquatic-fungi]]
+- [[aquatic-fungi-and-zoospore-biology]]
 - [[fungal-spore-dispersal]]
-- [[oomycete-biology]]
-- [[fungal-pleomorphy]]
-- [[leaf-decomposition]]
+- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
+- [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
+- [[dighton-fungal-decomposition-leaf-litter-dynamics]]

@@ -96,6 +96,8 @@ Pablo Amaringo founded the Usko-Ayar School of Amazonian Painting in Pucallpa, P
 
 ## See Also
 
+- [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
+
 - [[ayahuasca-vision-art-and-shipibo-tradition]]
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
 - [[allegro-fungal-iconography-in-ancient-art]]

@@ -147,7 +147,7 @@ Most economic analyses show break-even by year 3–4 and net profit improvement 
 **Challenging but possible:**
 - Heavy clay soils: Transition slowly, use cover crops with deep taproots (radish, daikon) to break compaction. Expect 5+ years for full transition.
 - Cold, wet climates (northern US/Canada): Surface residue can keep soil cold in spring. Use row cleaners and consider strip-till (a hybrid approach) for the first few years. Plant shorter-season varieties.
-- Sandy soils: No-till works well here but residue cover is critical to prevent wind erosion. Organic matter builds slowly on sands — add [[compost]] aggressively.
+- Sandy soils: No-till works well here but residue cover is critical to prevent wind erosion. Organic matter builds slowly on sands — add compost aggressively.
 - Irrigated systems: No-till reduces irrigation needs by 15–25% due to improved infiltration and reduced evaporation.
 
 **Poorly suited for:**

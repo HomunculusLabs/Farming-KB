@@ -77,6 +77,8 @@ The suppression of psychedelic exploration is, at its deepest level, a suppressi
 
 ## See Also
 
+- [[mckenna-archaic-sexuality-and-partnership-society]]
+
 [[mckenna-transcendent-other-and-exopheromones]]
 
 [[dmt-hyperspace-and-machine-elves]]

@@ -32,7 +32,7 @@ sources:
 
 # How Do I Create Habitat for Amphibians in a Permaculture System?
 
-Amphibians — frogs, toads, newts, and salamanders — are among the most valuable allies a permaculture grower can recruit. They consume enormous quantities of slugs, beetles, mosquitos, and other crop pests, making them a living component of [[beneficial-insects-and-biological-pest-control]]. Creating habitat for them is one of the highest-leverage investments you can make in your farm's ecological infrastructure. See [[amphibians-and-pond-ecology]] for deeper background on species roles and lifecycles.
+Amphibians — frogs, toads, newts, and salamanders — are among the most valuable allies a permaculture grower can recruit. They consume enormous quantities of slugs, beetles, mosquitos, and other crop pests, making them a living component of [[hamilton-beneficial-insects-and-biological-pest-control]]. Creating habitat for them is one of the highest-leverage investments you can make in your farm's ecological infrastructure. See [[psilocybin-mushroom-habitat-and-ecology]] for deeper background on species roles and lifecycles.
 
 ---
 
@@ -53,11 +53,11 @@ A successful amphibian pond doesn't need to be large or expensive. Even a pond 2
 - **Do not add fish** — fish are the single greatest predator of amphibian eggs and larvae. If you want fish, keep them in a separate pond.
 - **Overflow management** — plan for seasonal high water. An overflow spillway prevents erosion and connects your pond to downstream habitat corridors.
 
-For larger-scale or wastewater-integrated designs, see [[constructed-wetlands-and-ecological-wastewater-treatment]].
+For larger-scale or wastewater-integrated designs, see [[singh-constructed-wetlands-fungal-wastewater-treatment]].
 
 ## What Should I Plant Around and In the Pond?
 
-Plant selection is critical. Plants provide egg-laying surfaces, larval shelter, foraging grounds, and microclimate regulation. See [[aquatic-plants-and-pond-ecosystems]] for detailed species profiles.
+Plant selection is critical. Plants provide egg-laying surfaces, larval shelter, foraging grounds, and microclimate regulation. See [[mollison-aquatic-pond-types-and-nomenclature]] for detailed species profiles.
 
 ### Marginal Plants (shallow edges, 0–15 cm depth)
 
@@ -87,7 +87,7 @@ Plant selection is critical. Plants provide egg-laying surfaces, larval shelter,
 | **Pondweed** (*Potamogeton spp.*) | Submerged | Food source for tadpoles, oxygenation |
 | **Elodea** (*Elodea canadensis*) | Submerged | Fast grower, shade provider for larvae |
 
-**Floating species** like duckweed (*Lemna minor*) and azolla (*Azolla filiculoides*) shade water and provide forage, but can cover the surface and deplete oxygen if unmanaged — see [[duckweed-and-azolla-as-livestock-feed-and-biofertilizer]] for management guidance. Always **prioritize native species** over ornamentals.
+**Floating species** like duckweed (*Lemna minor*) and azolla (*Azolla filiculoides*) shade water and provide forage, but can cover the surface and deplete oxygen if unmanaged — see [[jadam-livestock-integration-and-manure-management]] for management guidance. Always **prioritize native species** over ornamentals.
 
 ## How Do I Provide Cover and Hiding Spots?
 
@@ -102,7 +102,7 @@ Amphibians spend most of their lives on land and need terrestrial refugia close 
 Amphibians have permeable skin and are exquisitely sensitive to chemicals. This is non-negotiable:
 - **Eliminate synthetic pesticides and herbicides** within 30 m of any water body — neonicotinoids, glyphosate, and synthetic pyrethroids are lethal at multiple life stages.
 - **Avoid copper-based fungicides** — highly toxic to aquatic larvae.
-- **Use biological and botanical alternatives** — see [[botanical-pesticides-and-natural-pest-control]].
+- **Use biological and botanical alternatives** — see [[jadam-pest-control-with-natural-pesticides-jhs]].
 - **Minimize nutrient runoff** — excess nitrogen and phosphorus from manure or fertilizers fuel algal blooms that deplete oxygen and kill larvae.
 
 ## Should I Create Habitat Corridors?
@@ -147,4 +147,4 @@ Yes. Isolated ponds support fewer species and are more vulnerable to local extin
 - [ ] Connect to other habitat via hedgerows or brush corridors
 - [ ] Begin seasonal monitoring in spring
 ---
-**Related topics:** [[amphibians-and-pond-ecology]] · [[aquatic-plants-and-pond-ecosystems]] · [[constructed-wetlands-and-ecological-wastewater-treatment]] · [[beneficial-insects-and-biological-pest-control]] · [[duckweed-and-azolla-as-livestock-feed-and-biofertilizer]] · [[botanical-pesticides-and-natural-pest-control]] · [[water-harvesting-techniques-comparison]] · [[companion-planting-and-polycultures]]
+**Related topics:** [[psilocybin-mushroom-habitat-and-ecology]] · [[mollison-aquatic-pond-types-and-nomenclature]] · [[singh-constructed-wetlands-fungal-wastewater-treatment]] · [[hamilton-beneficial-insects-and-biological-pest-control]] · [[jadam-livestock-integration-and-manure-management]] · [[jadam-pest-control-with-natural-pesticides-jhs]] · [[water-harvesting-techniques-comparison]] · companion planting and polycultures

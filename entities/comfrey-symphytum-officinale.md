@@ -160,7 +160,7 @@ Once established, comfrey is essentially permanent. The deep root system makes c
 
 ## See Also
 
-- [[nettles-urtica-dioica]] — Another dynamic accumulator and compost activator
-- [[yarrow-achillea-millefolium]] — Multifunctional permaculture herb
+- [[urtica-dioica]] — Another dynamic accumulator and compost activator
+- [[achillea-millefolium]] — Multifunctional permaculture herb
 - [[dynamic-accumulators]] — Overview of nutrient-accumulating plants in permaculture
 - [[ashwagandha-withania-somnifera]] — Medicinal herb with different safety profile

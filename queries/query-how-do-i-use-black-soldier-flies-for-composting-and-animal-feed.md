@@ -120,6 +120,8 @@ The eggs hatch within approximately four days under warm conditions and the tiny
 4. Harvested larvae provide protein-rich feed for poultry, fish, and other livestock
 5. Both the liquid runoff and residual frass make excellent garden fertilizers
 
-## Related Questions
+## Related
+
+- [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]] Questions
 - [[query-how-do-i-integrate-ducks-into-my-permaculture-system]]
 - [[query-how-do-i-raise-rabbits-in-a-permaculture-system]]

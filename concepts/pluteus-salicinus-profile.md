@@ -45,7 +45,7 @@ Pluteus salicinus displays several distinguishing features:
   staining at the base
 - **Gills:** Free from the stem (a characteristic of the Pluteaceae family),
   turning pink as spores mature — unlike the dark spore prints of
-  [[psilocybe-genus-overview]] and
+  [[psilocybe-genus-diversity-and-taxonomy]] and
   [[panaeolus-subbalteatus-profile]] species
 - **Stem:** 3–6 cm long, 2–5 mm thick, cylindrical, white to pale gray,
   sometimes with blue-green staining at the base. No ring or volva present

@@ -139,6 +139,6 @@ psilocybin mushroom hunters.
 
 ## See Also
 
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[psilocybin-mushrooms-of-the-world-genus-overview]]
 - [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]

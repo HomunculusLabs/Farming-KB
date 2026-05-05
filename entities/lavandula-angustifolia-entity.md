@@ -113,7 +113,7 @@ Lavender has been used for over 2,500 years across multiple civilizations. Ancie
 - **Genetic diversity:** Broad in cultivated germplasm but narrowing as few high-yielding cultivars dominate commercial production. Gene banks maintain over 400 accessions worldwide.
 
 ## See Also
-- [[salvia-officinalis-entity]]
+- [[salvia-officinalis]]
 - [[rosmarinus-officinalis-entity]]
 - [[thymus-vulgaris-entity]]
 - [[melissa-officinalis]]

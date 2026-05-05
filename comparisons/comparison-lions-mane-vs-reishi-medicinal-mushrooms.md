@@ -119,3 +119,7 @@ Yes — Lion's Mane and Reishi are widely considered one of the best medicinal m
 - Both: best taken consistently for 4–8 weeks before evaluating effects.
 
 *Always consult a healthcare provider before starting new supplements, especially if taking medications or managing chronic conditions.*
+
+## See Also
+
+- [[comparison-maitake-vs-reishi-medicinal-mushrooms]]

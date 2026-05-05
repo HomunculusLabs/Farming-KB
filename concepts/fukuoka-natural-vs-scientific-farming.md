@@ -82,6 +82,8 @@ Philosophically, scientific farming cannot be superior to Mahayana natural farmi
 
 ## See Also
 
+- [[natural-farming-vs-scientific-agriculture]]
+
 - [[fukuoka-mu-nothingness-philosophy]]
 
 - [[fukuoka-critique-scientific-agriculture]]

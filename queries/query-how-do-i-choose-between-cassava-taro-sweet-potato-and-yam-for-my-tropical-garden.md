@@ -126,7 +126,9 @@ This stacking strategy maximizes yield per unit area while distributing labor ac
 
 ## See Also
 
-- [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]]
-- [[cassava-vs-taro-vs-sweet-potato-vs-yam]]
-- [[growing-staple-crops-grains-beans-and-tubers]]
-- [[how-to-design-a-food-forest-for-a-tropical-climate]]
+- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
+
+- [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]]
+- [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]]
+- [[solomon-growing-beans-and-peas]]
+- [[query-how-to-design-a-food-forest-for-a-tropical-climate]]

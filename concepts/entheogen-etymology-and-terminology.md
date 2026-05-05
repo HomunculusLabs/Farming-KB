@@ -132,7 +132,9 @@
    132|   166|states is an evolutionary remembering, an experience of reconnecting with our
    133|   167|biological and cosmological evolution. The experience went beyond the personal
    134|   168|and cultural developmental issues that usually concern psychologists. 169|
-   135|   170|## See Also 171|
+   135|   170|## See Also
+
+- [[metzner-entheogen-terminology-and-worldview-paradigms]] 171|
    136|   172|- [Psychedelic Set and Setting](psychedelic-set-and-setting.md)
    137|   173|- [European Psycholytic Therapy 1960s 1970s](european-psycholytic-therapy-1960s-1970s.md)
    138|   174|- [Metzner Psycholytic Psychedelic Therapy Models](metzner-psycholytic-psychedelic-therapy-models.md)

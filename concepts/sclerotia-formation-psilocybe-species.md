@@ -37,13 +37,13 @@ A species with deep Mesoamerican ethnobotanical significance, [[Psilocybe mexica
 
 ### Substrate
 
-Sclerotia production does not require [[casing]] — unlike fruiting bodies, sclerotia develop directly within the colonised substrate. This eliminates the casing, [[fruiting]], and harvesting stages that introduce the greatest contamination risk. The entire process occurs within sealed jars. [[Grass-seed substrate]] is preferred, though rye grain can also be used with somewhat different results.
+Sclerotia production does not require [[casing-soil-preparation-mushroom-cultivation]] — unlike fruiting bodies, sclerotia develop directly within the colonised substrate. This eliminates the casing, [[fruiting-body-development]], and harvesting stages that introduce the greatest contamination risk. The entire process occurs within sealed jars. [[Grass-seed substrate]] is preferred, though rye grain can also be used with somewhat different results.
 
 ### Environmental Conditions
 
 - **Temperature**: Room temperature (approximately 20°C) is suitable. No cold shock or temperature drop is required or beneficial.
 - **Light**: Dark or low-light preferred. Sclerotia formation is not light-triggered; light may divert metabolic resources away from sclerotia production toward primordia development.
-- **Duration**: The key difference from mushroom cultivation. Sclerotia require significantly longer incubation — approximately 4 months after [[inoculation]] for optimal development of [[Psilocybe tampanensis]].
+- **Duration**: The key difference from mushroom cultivation. Sclerotia require significantly longer incubation — approximately 4 months after [[inoculation-methods]] for optimal development of [[Psilocybe tampanensis]].
 - **Gas exchange**: Loose jar lids suffice. No special fresh air exchange schedule needed. Oxygen requirements during sclerotia formation are modest compared to active fruiting.
 
 ### Timeline
@@ -59,7 +59,7 @@ Growth rate is non-linear. Initial formation is slow as mycelium redirects metab
 
 ## Sclerotia in Cased Trays
 
-Sclerotia also form within the [[casing]] layer of trays prepared for mushroom fruiting. Cultivators casing their grass seed may harvest both mushrooms from the surface and sclerotia from within the substrate and casing. These tend to form at the grain-casing interface where moisture and nutrient gradients create favourable conditions. Casing-layer sclerotia are typically smaller than jar-formed ones but represent a welcome bonus harvest.
+Sclerotia also form within the [[casing-soil-preparation-mushroom-cultivation]] layer of trays prepared for mushroom fruiting. Cultivators casing their grass seed may harvest both mushrooms from the surface and sclerotia from within the substrate and casing. These tend to form at the grain-casing interface where moisture and nutrient gradients create favourable conditions. Casing-layer sclerotia are typically smaller than jar-formed ones but represent a welcome bonus harvest.
 
 ## Harvesting
 

@@ -140,7 +140,9 @@ Plan your preservation activities around your harvest schedule for best results 
 - [[canning-and-preserving]] creates shelf-stable food through heat processing in sealed containers
 - [[ultra-low-cost-food-preservation]] combines methods for a complete no-energy food storage system
 
-## Related Questions
+## Related
+
+- [[query-how-do-epiphytes-survive-without-soil]] Questions
 
 - [[query-how-does-lacto-fermentation-work-for-food-preservation]]
 - [[query-how-to-build-and-manage-a-root-cellar]]

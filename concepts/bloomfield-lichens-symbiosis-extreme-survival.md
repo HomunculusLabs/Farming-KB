@@ -116,7 +116,9 @@ traditional Scottish textiles. Today, lichens continue to serve
 as important bioindicators, their sensitivity to atmospheric
 pollutants making them living monitors of environmental health.
 
-## Related Topics
+## Related
+
+- [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]] Topics
 
 - [[bloomfield-fungal-biology-and-hyphal-growth]] for the
   fundamental biology of the fungal partners in lichens

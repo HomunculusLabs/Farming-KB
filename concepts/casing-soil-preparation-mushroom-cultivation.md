@@ -16,7 +16,7 @@ sources:
 
 # Casing Soil Preparation and Application for Mushroom Cultivation
 
-Casing is the process of applying a non-nutritive soil layer on top of fully colonised substrate to stimulate and support fruiting body formation. Unlike the nutritious substrate below, the casing provides a microclimate of moisture and humidity at the surface while triggering environmental cues that initiate [[fruiting]]. The technique is used in both commercial mushroom farming and amateur cultivation, and is particularly important for species that do not fruit readily from exposed grain.
+Casing is the process of applying a non-nutritive soil layer on top of fully colonised substrate to stimulate and support fruiting body formation. Unlike the nutritious substrate below, the casing provides a microclimate of moisture and humidity at the surface while triggering environmental cues that initiate [[fruiting-body-development]]. The technique is used in both commercial mushroom farming and amateur cultivation, and is particularly important for species that do not fruit readily from exposed grain.
 
 ## Purpose of Casing
 
@@ -87,7 +87,7 @@ Mycelium typically breaks through the casing within a few days. Exposure timing 
 
 ## Casing Maintenance During Fruiting
 
-Once the [[fruiting]] cycle has been initiated, the casing requires ongoing maintenance:
+Once the [[fruiting-body-development]] cycle has been initiated, the casing requires ongoing maintenance:
 
 - **Misting**: The casing surface should be misted daily to maintain moisture. Never spray directly — use a fine mist from above and allow droplets to settle gently.
 - **Avoid over-watering**: After a flush is picked, watering should be temporarily increased because maturing mushrooms pull significant moisture from the casing. However, the casing should never be allowed to become waterlogged.
@@ -108,7 +108,7 @@ Notably, [[Psilocybe mexicana]], [[Psilocybe tampanensis]], and [[Panaeolus subb
 
 ## Simplicity as a Design Principle
 
-A notable theme in the source documentation is the emphasis on simplicity over sophistication. The authors explicitly state that elaborate setups with humidifiers and cool-mist devices are unnecessary. Their approach uses basic clear plastic bins with polyethylene sheeting, relying on natural evaporation from the casing surface to maintain humidity. This philosophy extends throughout the document — from substrate preparation (simple grass seed rather than complex nutrient formulations) to [[sterilisation]] (standard pressure cooker rather than laboratory autoclave) to fruiting (basic bins rather than climate-controlled chambers. This pragmatic approach makes the techniques accessible to cultivators with limited resources while still producing reliable results.
+A notable theme in the source documentation is the emphasis on simplicity over sophistication. The authors explicitly state that elaborate setups with humidifiers and cool-mist devices are unnecessary. Their approach uses basic clear plastic bins with polyethylene sheeting, relying on natural evaporation from the casing surface to maintain humidity. This philosophy extends throughout the document — from substrate preparation (simple grass seed rather than complex nutrient formulations) to sterilisation (standard pressure cooker rather than laboratory autoclave) to fruiting (basic bins rather than climate-controlled chambers. This pragmatic approach makes the techniques accessible to cultivators with limited resources while still producing reliable results.
 
 ## Species-Specific Fruiting Behaviour
 
@@ -120,3 +120,7 @@ Different species exhibit distinct fruiting patterns when cased on grass seed su
 - **[[Panaeolus subbalteatus]]** has specific environmental requirements and does not benefit from cold shock.
 
 The documentation notes that developing a "feeling" for the watering regime is essential — explicit directions are difficult to provide because optimal moisture varies with species, strain, ambient conditions, and casing depth. This skill develops with experience across multiple grows.
+
+## See Also
+
+- [[casing-soil-sterilisation-debate-mushroom-cultivation]]

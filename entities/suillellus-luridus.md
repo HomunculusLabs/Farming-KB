@@ -134,6 +134,6 @@ is a valued culinary mushroom.
 
 - [[boletus-edulis|Boletus edulis]]
 - [[rubroboletus-satanas|Rubroboletus satanas]]
-- [[neoboletus-erythropus|Neoboletus erythropus]]
+- Neoboletus erythropus
 - [[gyromitra-esculenta|Gyromitra esculenta]]
 - [[amanita-muscaria|Amanita muscaria]]

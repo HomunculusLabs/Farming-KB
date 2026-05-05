@@ -130,3 +130,7 @@ Once you've mastered the basics, explore these directions:
 - **Trust your senses:** Fermented dairy should smell tangy and pleasant — like sour cream or buttermilk. Any smell that is putrid, rotten, or distinctly "off" (especially accompanied by visible mold or unusual colors) means contamination. Discard the batch.
 - **Immunocompromised individuals, pregnant women, and young children** should use pasteurized milk and commercially prepared starters rather than raw milk products.
 - **Fermentation does not neutralize milk protein allergens.** If you have a dairy allergy (not just lactose intolerance), fermented dairy is not safe for you.
+
+## See Also
+
+- [[query-how-do-i-start-farming-spirulina-at-home]]

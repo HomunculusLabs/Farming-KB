@@ -147,5 +147,5 @@ partnership with nature.
 - [[mckenna-opium-history-demeter-poppy]] for the deeper ancient history of opium
 - [[mckenna-opium-wars-and-drug-diplomacy]] for the geopolitical dimension
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]] for the synthetic successors to opium
-- [[mckenna-ergot-alkaloids-eleusinian-mysteries]] for the hallucinogens opium replaced
+- [[ergot-alkaloids-eleusinian-mysteries]] for the hallucinogens opium replaced
 - [[mckenna-opium-tobacco-paradoxical-attitudes]] for societal contradictions around drugs

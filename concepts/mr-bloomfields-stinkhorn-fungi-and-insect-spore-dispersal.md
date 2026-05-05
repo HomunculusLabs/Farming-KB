@@ -126,6 +126,6 @@ mushroom physiology is linked to the physics of spore discharge.
 ## See Also
 - [[mr-bloomfields-fungal-hyphal-biology-and-mycelial-networks]]
 - [[mr-bloomfields-ah-reginald-buller-and-experimental-mycology]]
-- [[basidiomycetes]]
-- [[spore-dispersal-mechanisms-in-fungi]]
-- [[saprotrophic-fungi-and-decomposition]]
+- [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]]
+- [[spore-dispersal-mechanisms]]
+- [[query-what-is-the-difference-between-saprotrophic-parasitic-and-mutualistic-fungi]]

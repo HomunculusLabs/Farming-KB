@@ -107,6 +107,8 @@ structures to bridge unfavorable environmental periods.
 
 ## See Also
 
+- [[pleurotus-tuber-regium]]
+
 - [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
 - [[growing-gourmet-black-morel-sclerotia-life-cycle]]
 - [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]]

@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Steve Solomon's Complete Organic Fertilizer (COF) is a custom-blended organic fertilizer mix designed to provide balanced [[soil-fertility]] for vegetable gardens. Unlike commercial organic fertilizers, which Solomon argues are overpriced and often incomplete, COF allows gardeners to source individual ingredients in bulk and blend them in proportions tailored to their soil conditions. The formula combines macronutrients ([[nitrogen]], [[phosphorus]], [[potassium]]), secondary nutrients ([[calcium]], [[magnesium]], [[sulfur]]), and trace minerals into a single, slow-releasing mixture.
+Steve Solomon's Complete Organic Fertilizer (COF) is a custom-blended organic fertilizer mix designed to provide balanced [[soil-fertility-management]] for vegetable gardens. Unlike commercial organic fertilizers, which Solomon argues are overpriced and often incomplete, COF allows gardeners to source individual ingredients in bulk and blend them in proportions tailored to their soil conditions. The formula combines macronutrients ([[nitrogen-fixing-trees]], [[phosphorus-availability]], [[potassium-plant-nutrition]]), secondary nutrients ([[calcium-accumulators-and-oak-leaves]], [[lowenfels-nutrients-potassium-calcium-magnesium]], [[sulfur-plant-nutrition]]), and trace minerals into a single, slow-releasing mixture.
 
 The COF concept emerged from Solomon's decades of experience growing half of his family's yearly food intake. Based on considerable research into soil science and plant nutrition, he concluded that correctly balanced fertilizing is essential for producing highly nutritious vegetables. The COF formula is his attempt to make genuinely complete organic nutrition accessible and affordable for home gardeners.
 
@@ -37,9 +37,9 @@ A higher-nitrogen variant replaces 3 parts of seed meal with 3 parts tankage (bl
 
 ## Seed Meal (Nitrogen Base)
 
-Seed meal is the primary nitrogen source in COF. It is the byproduct of oil extraction from oilseeds such as [[soybeans]], [[canola]], [[cottonseed]], [[linseed]] (flax), and [[sunflower]] seeds. When the oil is mechanically pressed out, the remaining cake is ground into meal. The process of extracting vegetable oil, a product of the oilseed industry, produces seed meal as a secondary product that happens to be rich in plant nutrients.
+Seed meal is the primary nitrogen source in COF. It is the byproduct of oil extraction from oilseeds such as soybeans, [[jadam-canola-oil-surfactant-method]], cottonseed, linseed (flax), and [[hemenway-maximilian-sunflower-multipurpose-hedge]] seeds. When the oil is mechanically pressed out, the remaining cake is ground into meal. The process of extracting vegetable oil, a product of the oilseed industry, produces seed meal as a secondary product that happens to be rich in plant nutrients.
 
-Most seed meals analyze at approximately 6-4-2 NPK, though copra meal (from coconuts) runs about one-third weaker in terms of NPK. Seed meals also contain [[calcium]], [[magnesium]], and trace nutrients. The general rule is to buy whichever seed meal offers the most protein per dollar, as protein content correlates with nitrogen content. The NPK analysis of seed meals does not tell the whole story; they also contain other nutrients and mineral components that are valuable to plants.
+Most seed meals analyze at approximately 6-4-2 NPK, though copra meal (from coconuts) runs about one-third weaker in terms of NPK. Seed meals also contain [[calcium-accumulators-and-oak-leaves]], [[lowenfels-nutrients-potassium-calcium-magnesium]], and trace nutrients. The general rule is to buy whichever seed meal offers the most protein per dollar, as protein content correlates with nitrogen content. The NPK analysis of seed meals does not tell the whole story; they also contain other nutrients and mineral components that are valuable to plants.
 
 Seed meal must be kept dry and protected from pests in a container with a tight lid. Solomon recommends buying it in bulk 50-pound sacks from farm and grain dealers rather than in small, expensive packets from garden centers. This approach reduces the cost of the nitrogen input by an order of magnitude compared to retail purchases.
 
@@ -55,7 +55,7 @@ The tankage variant uses:
 
 ## Agricultural Lime (Calcium)
 
-Ordinary agricultural lime is relatively pure ground [[calcium]] carbonate (CaCO3). In the COF formula, it serves as the primary calcium source and helps buffer soil acidity over time. Solomon specifies that it should be finely ground for maximum effectiveness and reactivity in the soil.
+Ordinary agricultural lime is relatively pure ground [[calcium-accumulators-and-oak-leaves]] carbonate (CaCO3). In the COF formula, it serves as the primary calcium source and helps buffer soil acidity over time. Solomon specifies that it should be finely ground for maximum effectiveness and reactivity in the soil.
 
 Agricultural lime differs from both dolomitic lime and gypsum, and each plays a distinct role in the COF formula. Using all three types ensures a balanced supply of calcium and magnesium without creating excesses of either mineral. Solomon emphasizes that limes are not expensive when bought in large sacks from agricultural suppliers, making them accessible to even budget-conscious gardeners.
 
@@ -63,25 +63,25 @@ There are three types of lime relevant to gardening. Agricultural lime is relati
 
 ## Dolomitic Lime (Calcium and Magnesium)
 
-Dolomitic lime contains both [[calcium]] and [[magnesium]] in roughly equal amounts. It is included in the COF formula to supply magnesium, which is essential for [[chlorophyll]] production and enzyme activation in plants. The half-part proportion in the recipe ensures that magnesium does not dominate the calcium supply.
+Dolomitic lime contains both [[calcium-accumulators-and-oak-leaves]] and [[lowenfels-nutrients-potassium-calcium-magnesium]] in roughly equal amounts. It is included in the COF formula to supply magnesium, which is essential for [[porphyrin-chemistry-heme-chlorophyll-b12]] production and enzyme activation in plants. The half-part proportion in the recipe ensures that magnesium does not dominate the calcium supply.
 
 Solomon warns against relying exclusively on dolomitic lime year after year, as this can lead to excessive magnesium accumulation in the soil, which can interfere with calcium uptake by plant roots. The balanced blend of agricultural lime, dolomite, and gypsum prevents this problem. If a gardener had to choose only one kind of lime, Solomon suggests agricultural lime would probably be the best single choice, though he strongly prefers using the mixture.
 
 ## Gypsum (Calcium and Sulfur)
 
-Gypsum is [[calcium]] sulfate (CaSO4). It supplies both calcium and [[sulfur]] without affecting soil pH, unlike the carbonate limes. In the COF formula, gypsum is included at a half-part ratio. If the gardener chooses not to use gypsum, Solomon recommends doubling the quantity of agricultural lime to compensate for the missing calcium.
+Gypsum is [[calcium-accumulators-and-oak-leaves]] sulfate (CaSO4). It supplies both calcium and [[sulfur-plant-nutrition]] without affecting soil pH, unlike the carbonate limes. In the COF formula, gypsum is included at a half-part ratio. If the gardener chooses not to use gypsum, Solomon recommends doubling the quantity of agricultural lime to compensate for the missing calcium.
 
-Gypsum is particularly valuable in soils that are already at an adequate pH but still need additional calcium and sulfur. Its neutral pH effect makes it a safe amendment that can be applied without risk of over-liming. The sulfur in gypsum is an often-overlooked nutrient that is essential for protein synthesis in plants and contributes to the flavor of [[alliums]] and brassicas.
+Gypsum is particularly valuable in soils that are already at an adequate pH but still need additional calcium and sulfur. Its neutral pH effect makes it a safe amendment that can be applied without risk of over-liming. The sulfur in gypsum is an often-overlooked nutrient that is essential for protein synthesis in plants and contributes to the flavor of [[alliums-growing-guide]] and brassicas.
 
 ## Rock Phosphate or Bone Meal (Phosphorus)
 
-The COF formula calls for one part of a [[phosphorus]] source, with three options: finely ground rock phosphate (either "hard" or "soft" varieties), [[bone meal]], or high-phosphate guano. Rock phosphate is the most economical choice and releases phosphorus slowly over years as it weathers in the soil.
+The COF formula calls for one part of a [[phosphorus-availability]] source, with three options: finely ground rock phosphate (either "hard" or "soft" varieties), [[bone meal]], or high-phosphate guano. Rock phosphate is the most economical choice and releases phosphorus slowly over years as it weathers in the soil.
 
-Solomon notes that [[phosphorus]] availability from rock phosphate is enhanced by the acidic conditions created as organic matter decomposes. The slow-release nature of rock phosphate means that annual applications build up a phosphorus reserve in the soil, reducing the need for heavy applications in subsequent years. The phosphorus content of rock phosphate has steadily decreased in commercially available sources over recent decades, making the less expensive options increasingly attractive relative to their nutrient content.
+Solomon notes that [[phosphorus-availability]] availability from rock phosphate is enhanced by the acidic conditions created as organic matter decomposes. The slow-release nature of rock phosphate means that annual applications build up a phosphorus reserve in the soil, reducing the need for heavy applications in subsequent years. The phosphorus content of rock phosphate has steadily decreased in commercially available sources over recent decades, making the less expensive options increasingly attractive relative to their nutrient content.
 
 ## Kelp Meal or Basalt Dust (Trace Minerals)
 
-One part of either [[kelp meal]] or [[basalt dust]] provides the broad spectrum of [[trace minerals]] that chemical fertilizers lack. Kelp meal is particularly rich in growth regulators, natural hormones, [[cytokinins]], and micronutrients that enhance plant resistance to cold, frost, and other stresses. Solomon reports that his garden has never grown so well and that the food has never tasted so good since he began including kelp meal in his COF.
+One part of either [[kelp meal]] or [[basalt dust]] provides the broad spectrum of [[trace minerals]] that chemical fertilizers lack. Kelp meal is particularly rich in growth regulators, natural hormones, cytokinins, and micronutrients that enhance plant resistance to cold, frost, and other stresses. Solomon reports that his garden has never grown so well and that the food has never tasted so good since he began including kelp meal in his COF.
 
 Kelp meal sourced from places like South Korea can be more economical than domestic sources, as the cost of labor and exchange rates favor import pricing. Basalt dust is a suitable substitute, offering a different but equally broad mineral profile derived from volcanic rock. The kelp meal option, while somewhat costly, "adds considerable fortitude to the plants and vegetables" and Solomon urges gardeners to go as far as their budget allows to include it.
 
@@ -93,7 +93,7 @@ For gardeners in urban areas without access to farm supply stores, Solomon ackno
 
 ## Application Rates and Timing
 
-The standard application rate is 4 to 6 quarts (approximately 4 to 6 liters) of COF per 100 square feet of raised bed, or per 50 feet of row that is 12 to 18 inches wide. This is applied at least once a year, ideally in spring. The fertilizer is mixed into the top few inches of soil with a hoe or spade, or simply spread on top of [[no-till]] beds where soil organisms will incorporate it.
+The standard application rate is 4 to 6 quarts (approximately 4 to 6 liters) of COF per 100 square feet of raised bed, or per 50 feet of row that is 12 to 18 inches wide. This is applied at least once a year, ideally in spring. The fertilizer is mixed into the top few inches of soil with a hoe or spade, or simply spread on top of [[no-till-benefits]] beds where soil organisms will incorporate it.
 
 For medium and high-demand vegetables, additional side-dressings can be applied every few weeks during the growing season. Solomon advises sprinkling small amounts of COF in a circle around each plant, covering the area that the root system will eventually occupy, and gradually widening the ring as the plant grows. He provides specific side-dressing rates for high-demand crops like tomatoes and beets.
 

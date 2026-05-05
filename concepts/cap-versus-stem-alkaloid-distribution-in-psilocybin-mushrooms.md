@@ -137,7 +137,9 @@ samples) far exceeds the cap-versus-stem difference. Flush number and
 growing conditions are far more significant determinants of potency than
 which anatomical part of the mushroom is consumed.
 
-## Related Concepts
+## Related
+
+- [[cap-vs-stem-alkaloid-distribution]] Concepts
 
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]] for the full
   flush-by-flush variation data

@@ -143,7 +143,7 @@ Extensive epidemiological and clinical evidence supports tea consumption for:
   of various bacteria and viruses, including influenza and certain
   oral pathogens
 ## See Also
-- [[camellia-sinensis]]
+- [[camellia-sinensis-entity]]
 - caffeine
 - [[panax-ginseng]]
 - Ocimum basilicum

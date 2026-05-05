@@ -157,6 +157,8 @@ P. semilanceata is the most commonly collected wild psychoactive mushroom in Eur
 
 ## See Also
 
+- [[psilocybe-semilanceata-transcontinental-distribution-patterns]]
+
 - [[Psilocybe Genus Overview]]
 - [[Psilocybe cubensis]]
 - [[Mexico as Center of Neurotropic Fungi Diversity]]

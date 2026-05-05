@@ -121,7 +121,7 @@ As with all [[psilocybin]]-containing mushrooms, **P. czechica** is controlled u
 
 ## See Also
 
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 
 - [[psilocybe-bohemica]] — related Central European species
 - [[psilocybe-semilanceata]] — widespread European liberty cap

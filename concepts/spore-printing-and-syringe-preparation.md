@@ -141,6 +141,8 @@ mushrooms for spore printing, creating an ongoing self-sustaining cycle.
 
 ## See Also
 
+- [[fanaticus-spore-printing-and-syringe-preparation]]
+
 - [[inoculation-technique-and-alcohol-flaming]]
 - [[contaminant-identification-and-prevention]]
 - [[pf-tek-overview-and-history]]

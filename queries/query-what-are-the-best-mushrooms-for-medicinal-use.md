@@ -140,6 +140,8 @@ When sourcing medicinal mushroom products, prioritize suppliers who provide:
 - Clear labeling of fruiting body versus mycelium content
 - Transparency about extraction methods used
 ## See Also
+
+- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-what-are-the-most-medicinal-mushrooms]]

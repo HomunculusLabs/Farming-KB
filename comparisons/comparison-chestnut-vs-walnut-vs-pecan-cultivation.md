@@ -160,3 +160,7 @@ This is the most fundamental difference between the three genera and drives most
 | Lowest maintenance | Chestnut | Fewer pest pressures, minimal spray needs |
 | Highest market value | Pecan | Established premium market |
 | Caloric self-sufficiency | Chestnut + Walnut combo | Carbs from chestnuts, fats from walnuts |
+
+## See Also
+
+- [[comparison-avocado-vs-mango-cultivation]]

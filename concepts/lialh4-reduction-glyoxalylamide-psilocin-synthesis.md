@@ -9,9 +9,13 @@ sources:
 
 # Lithium Aluminum Hydride Reduction of Glyoxalylamide to Psilocin
 
+
+
 ## Overview
 
 The reduction of 3-dimethylaminooxalyl-4-acetylindole (the glyoxalylamide intermediate) with lithium aluminum hydride (LiAlH4) represents the pivotal transformation that converts a protected oxo-glyoxalylamide precursor into psilocin (4-hydroxy-N,N-dimethyltryptamine). This step, reported by Shirota, Hakamata, and Goda in 2003, achieves over 85% yield and is central to the concise large-scale synthesis of psilocin from commercially available 4-hydroxyindole.
+
+
 
 ## Reaction Mechanism
 
@@ -23,11 +27,15 @@ LiAlH4 is a powerful hydride donor capable of reducing multiple functional group
 
 This triple reduction is remarkably efficient because all three functional groups are susceptible to hydride attack, and LiAlH4 is strong enough to reduce each one completely. The reaction proceeds under reflux in anhydrous tetrahydrofuran (THF) under an argon atmosphere.
 
+
+
 ## Experimental Conditions
 
 The procedure described by Shirota et al. involves suspending approximately 12 g of LiAlH4 in 300 mL of anhydrous THF under argon. A solution of the glyoxalylamide intermediate (22.0 g, 80 mmol) in 250 mL of anhydrous THF is added dropwise over 2 hours. The reaction mixture is then refluxed for an additional 2 hours.
 
 After cooling, careful quenching is required. Anhydrous sodium sulfate powder (approximately 10 g) is added first, followed by dropwise addition of saturated Na2SO4 solution over 1 hour with stirring at room temperature. This controlled quenching prevents the violent reaction that can occur when LiAlH4 encounters water directly.
+
+
 
 ## Workup and Isolation
 
@@ -42,6 +50,8 @@ The workup procedure is notable for its simplicity and avoidance of chromatograp
 
 This yields psilocin (14.3 g, 87.5%) as white crystals with melting point 169-174 degrees Celsius (decomposing), consistent with literature values of 173-176 degrees Celsius (decomposing).
 
+
+
 ## Spectroscopic Characterization
 
 The product is confirmed by multiple spectroscopic methods:
@@ -52,6 +62,8 @@ The product is confirmed by multiple spectroscopic methods:
 - **13C NMR (CDCl3, 100 MHz):** 15 signals consistent with the C12H16N2O molecular formula
 - **ESI-MS:** m/z 205.1 [M+H]+ (base peak), confirming the molecular weight
 - **HR-ESI-MS:** m/z 205.1303 [M+H]+ (calculated 205.1341 for C12H17N2O)
+
+
 
 ## Significance in the Synthetic Route
 
@@ -64,9 +76,13 @@ This LiAlH4 reduction is strategically positioned as the penultimate step in the
 
 The clean nature of this reduction contrasts with alternative approaches that may require selective protection and deprotection sequences to achieve the same transformation. The ability of LiAlH4 to simultaneously reduce all three positions with high fidelity makes it uniquely suited for this particular synthetic intermediate.
 
+
+
 ## Safety Considerations
 
 LiAlH4 is pyrophoric and reacts violently with water. The reaction must be conducted under an inert atmosphere (argon or nitrogen) using rigorously anhydrous solvents and glassware. The controlled quenching procedure using anhydrous sodium sulfate followed by saturated Na2SO4 solution is critical for safe workup. Appropriate personal protective equipment and a fume hood are essential.
+
+
 
 ## Related Topics
 

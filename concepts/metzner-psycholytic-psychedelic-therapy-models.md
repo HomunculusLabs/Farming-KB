@@ -19,7 +19,7 @@ sources:
 
 # Psycholytic and Psychedelic Models of Psychedelic-Assisted Psychotherapy
 
-Two fundamentally different approaches to [[psychedelic-therapy]] emerged during the 1950s and 1960s: the **psycholytic model**, developed primarily in Europe, and the **psychedelic model**, which became dominant in Anglo-American circles. Ralph Metzner's comparative analysis in "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism" (1998) provides a detailed account of both paradigms and their historical development.
+Two fundamentally different approaches to [[psychedelic-therapy-foundations]] emerged during the 1950s and 1960s: the **psycholytic model**, developed primarily in Europe, and the **psychedelic model**, which became dominant in Anglo-American circles. Ralph Metzner's comparative analysis in "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism" (1998) provides a detailed account of both paradigms and their historical development.
 
 ## The Psycholytic Model (European Approach)
 
@@ -91,4 +91,8 @@ The discovery of LSD's mind-altering properties at the height of World War II in
 
 ## Legacy
 
-Both models were effectively shut down by the scheduling of LSD and other classical psychedelics in the late 1960s and early 1970s. However, their principles have experienced a significant revival in the 21st century with the resurgence of clinical psychedelic research. Modern trials of [[psilocybin-assisted-therapy]], [[mdma-assisted-therapy]], and other psychedelic-assisted treatments draw on elements of both traditions, with contemporary researchers acknowledging the fundamental importance of set and setting first articulated by Leary and his colleagues at Harvard. For more on European clinical approaches, see [[swiss-psycholytic-therapy-1988-1993]].
+Both models were effectively shut down by the scheduling of LSD and other classical psychedelics in the late 1960s and early 1970s. However, their principles have experienced a significant revival in the 21st century with the resurgence of clinical psychedelic research. Modern trials of [[psilocybin-assisted-therapy]], [[metzner-mdma-assisted-therapy-research]], and other psychedelic-assisted treatments draw on elements of both traditions, with contemporary researchers acknowledging the fundamental importance of set and setting first articulated by Leary and his colleagues at Harvard. For more on European clinical approaches, see [[swiss-psycholytic-therapy-1988-1993]].
+
+## See Also
+
+- [[psycholytic-and-psychedelic-therapy-models]]

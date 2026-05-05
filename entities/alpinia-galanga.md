@@ -143,4 +143,4 @@ A. galanga (greater galangal) and A. officinarum (lesser galangal) are frequentl
 - [[curcuma-longa]] — Turmeric, companion spice in Southeast Asian cooking
 - [[cinnamomum-verum]] — Ceylon cinnamon, frequently used alongside galangal in regional cuisine
 - [[kaempferia-galanga]] — Lesser galangal (kencur), a related but distinct Zingiberaceae species
-- [[eugenia-caryophyllata]] — Clove, sharing eugenol-related chemistry and anti-inflammatory properties
+- [[eugenia-bone]] — Clove, sharing eugenol-related chemistry and anti-inflammatory properties

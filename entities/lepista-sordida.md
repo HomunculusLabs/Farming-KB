@@ -21,7 +21,7 @@ sources:
 ## Overview
 
 Lepista sordida, the lilac-legged Blewit, is an agaricoid mushroom in the
-Tricholomataceae. A close relative of the edible [[clitocybe-nuda|wood blewit]]
+Tricholomataceae. A close relative of the edible [[clitocybe-nuda-entity|wood blewit]]
 (*L. nuda*), it is smaller, more delicate, and less well-known despite
 widespread distribution. Edible when thoroughly cooked, it possesses documented
 antioxidant and antimicrobial properties.
@@ -67,7 +67,7 @@ antioxidant and antimicrobial properties.
 - **Season:** Late summer to early winter (August-December N. Hemisphere)
 - **Frequency:** Common to locally abundant; fruits in flushes after rain
 
-Unlike [[clitocybe-nuda]], L. sordida frequently appears in urban parks,
+Unlike [[clitocybe-nuda-entity]], L. sordida frequently appears in urban parks,
 garden compost, and agricultural fields rather than exclusively in woodland.
 
 ## Distinguishing Features
@@ -94,7 +94,7 @@ and absence of a cortina.
 ## Edibility
 
 Edible when thoroughly cooked. Raw consumption may cause mild GI upset.
-Flavor is mild, nutty, and earthy — less aromatic than [[clitocybe-nuda]].
+Flavor is mild, nutty, and earthy — less aromatic than [[clitocybe-nuda-entity]].
 Texture is tender when young. Used in sautés, soups, and mixed mushroom
 dishes. Positive identification is critical due to Cortinarius lookalikes.
 
@@ -115,6 +115,6 @@ microbial communities and moderate organic matter.
 
 ## See Also
 
-- [[clitocybe-nuda]] — Wood blewit, larger and more prized edible relative
+- [[clitocybe-nuda-entity]] — Wood blewit, larger and more prized edible relative
 - [[agaricus-bisporus]] — Button mushroom; similar compost cultivation
 - [[calocybe-gambosa]] — St. George's mushroom; grassland agaric comparison

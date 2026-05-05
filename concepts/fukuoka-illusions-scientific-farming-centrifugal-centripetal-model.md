@@ -99,7 +99,7 @@ The second application kills chalcid wasps (natural predators) while leaving dra
 
 ### Mu and Non-Action
 
-Fukuoka rooted his farming philosophy in the Buddhist concept of [[mu]] (nothingness) and the philosophy of non-action. He argued that:
+Fukuoka rooted his farming philosophy in the Buddhist concept of mu (nothingness) and the philosophy of non-action. He argued that:
 
 - The living and holistic biosystem of nature cannot be dissected or resolved into parts
 - Once broken down, it dies

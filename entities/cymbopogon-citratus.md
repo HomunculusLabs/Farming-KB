@@ -118,6 +118,6 @@ sources:
 ## See Also
 
 - [[ocimum-sanctum]] — complementary aromatic medicinal herb used alongside lemongrass in Thai and Ayurvedic traditions
-- [[piper-methysticum]] — another aromatic tropical plant with anxiolytic and ceremonial uses
-- [[cymbopogon]] — genus overview and comparison with East Indian lemongrass (C. flexuosus)
+- [[piper-methysticum-entity]] — another aromatic tropical plant with anxiolytic and ceremonial uses
+- [[cymbopogon-flexuosus]] — genus overview and comparison with East Indian lemongrass (C. flexuosus)
 - [[tagetes-lucida]] — another aromatic companion plant with pest-deterrent and ceremonial properties

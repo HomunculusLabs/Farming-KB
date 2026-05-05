@@ -108,4 +108,6 @@ from there as your skills with [[cannabis-yield-optimization]] develop.
 
 ## See Also
 
+- [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]
+
 - [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]

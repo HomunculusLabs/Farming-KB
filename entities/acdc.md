@@ -146,8 +146,8 @@ anecdotal evidence:
   appetite stimulation (munchies) associated with high-THC strains.
 
 ## See Also
-- [[cannabidiol]]
-- [[cannabidiolic-acid]]
+- [[cannabidiol-cbd]]
+- [[cannabidiolic-acid-cbda]]
 - [[myrcene]]
-- [[caryophyllene]]
+- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
 - [[pinene]]

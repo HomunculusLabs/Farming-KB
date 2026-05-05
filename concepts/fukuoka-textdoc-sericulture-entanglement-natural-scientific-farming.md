@@ -134,10 +134,10 @@ nature.
 
 ## See Also
 
-- [[centrifugal-centripetal-natural-scientific-farming]]
-- [[entanglement-natural-scientific-farming]]
-- [[mahayana-hinayana-scientific-farming-ways]]
-- [[natural-livestock-unconditional-truth]]
-- [[critique-mechanization-agriculture]]
-- [[hothouse-hydroponic-agriculture-decline]]
-- [[errors-of-human-intellect]]
+- [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]]
+- [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
+- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
+- [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
+- [[fukuoka-textdoc-critique-mechanization-agriculture]]
+- [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
+- [[fukuoka-textdoc-errors-of-human-intellect]]

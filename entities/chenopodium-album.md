@@ -136,7 +136,7 @@ Not commercially cultivated at scale but easily grown: direct seed in spring (ge
 
 ## See Also
 
-- [[amaranthus]] — Amaranth, a related and culturally significant genus
+- amaranthus — Amaranth, a related and culturally significant genus
 - [[taraxacum-officinale]] — Dandelion, another dynamic accumulator and edible weed
 - [[urtica-dioica]] — Stinging nettle, complementary dynamic accumulator
 - [[permaculture]] — Permaculture design principles

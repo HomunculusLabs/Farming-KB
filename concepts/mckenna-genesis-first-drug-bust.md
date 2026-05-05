@@ -130,6 +130,8 @@ and divine punishment. What was once a story about climate and migration became
 
 ## See Also
 
+- [[mckenna-modest-proposal-drug-policy-reform]]
+
 - [[mckenna-tassili-plateau-round-head-civilization]]
 - [[mckenna-catal-huyuk-natufian-link]]
 - [[mckenna-food-gods-tassili-cave-paintings]]

@@ -144,8 +144,8 @@ and removing spent canes promptly after harvest to reduce disease pressure.
 
 ## See Also
 
-- [[berry-and-small-fruit-growing]]
-- [[fruit-tree-care-and-orchard-management]]
-- [[companion-planting-and-polycultures]]
+- [[holzer-stone-fruit-varieties-and-growing]]
+- [[jadam-fruit-tree-management]]
+- companion planting and polycultures
 - [[comparison-chop-and-drop-mulching-vs-mulching-guide]]
 - [[comparison-no-till-vs-raised-bed]]

@@ -94,6 +94,8 @@ See also: [[fungal-enzyme-systems]], [[fungal-community-ecology]], [[fungal-gene
 
 ## Related
 
+- [[gadd-nematode-trapping-fungi-functional-genomics]]
+
 - nematode trapping fungi
 
 - [[fungal-collembola-interactions]]

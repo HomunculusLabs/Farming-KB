@@ -131,3 +131,7 @@ Sustainability is a critical differentiator between these two mushrooms:
 - Chaga's unique compounds (betulin, melanin, SOD) are largely derived from or shaped by its birch tree host and boreal environment
 - Lion's Mane's hericenones and erinacines are unique to the Hericium genus and have no equivalent in other medicinal mushrooms
 - Both benefit from dual extraction (water + alcohol) to capture the full range of bioactive compounds
+
+## See Also
+
+- [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]

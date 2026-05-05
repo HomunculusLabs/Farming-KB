@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-The theory that the Vedic [[soma-vedic-enigma|Soma]] and its Iranian counterpart Haoma were derived from *Peganum harmala* — the giant Syrian rue — represents one of the most pharmacologically sophisticated attempts to solve the Soma identity puzzle. Advanced by David Flattery and Martin Schwartz in their 1989 book *Haoma and Harmaline*, this argument draws on Avestan and Parsi scriptural materials that other scholars had largely passed over. Terence McKenna found the harmaline theory "very persuasive" and explored its implications for understanding the evolution of Indo-European psychedelic religion in *Food of the Gods*.
+The theory that the Vedic [[mckenna-food-gods-soma-vedic-enigma|Soma]] and its Iranian counterpart Haoma were derived from *Peganum harmala* — the giant Syrian rue — represents one of the most pharmacologically sophisticated attempts to solve the Soma identity puzzle. Advanced by David Flattery and Martin Schwartz in their 1989 book *Haoma and Harmaline*, this argument draws on Avestan and Parsi scriptural materials that other scholars had largely passed over. Terence McKenna found the harmaline theory "very persuasive" and explored its implications for understanding the evolution of Indo-European psychedelic religion in *Food of the Gods*.
 
 ## Historical Background
 
@@ -34,7 +34,7 @@ Sir William Jones first identified Vedic Soma with Syrian rue in 1794, but this 
 Peganum harmala, commonly known as Syrian rue or harmal, is a hardy perennial plant native to the Mediterranean basin, Central Asia, and the Middle East. Its seeds contain several psychoactive beta-carboline alkaloids, principally:
 
 - **Harmaline**: the primary psychoactive constituent
-- **Harmine**: a closely related beta-carboline also found in the South American [[ayahuasca]] plant, *Banisteriopsis caapi*
+- **Harmine**: a closely related beta-carboline also found in the South American ayahuasca plant, *Banisteriopsis caapi*
 
 A critical pharmacological distinction exists between these two compounds: harmaline is known to be more psychoactive and less toxic than harmine. This difference is significant for the Soma question, as it means that Peganum harmala, by itself when brewed to sufficient strength, may be capable of producing a "reliable and ecstatic hallucinogenic experience" without the addition of other plants.
 

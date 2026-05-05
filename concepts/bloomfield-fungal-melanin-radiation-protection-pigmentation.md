@@ -140,6 +140,8 @@ within human tissues.
 
 ## See Also
 
+- [[fungal-melanin]]
+
 - [[bloomfield-cryptococcus-neoformans-pathogenic-yeast-meningitis]]
 - [[bloomfield-lichens-symbiosis-extreme-survival]]
 - [[human-fungal-pathogens]]

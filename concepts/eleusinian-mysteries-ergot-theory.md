@@ -28,7 +28,7 @@ Two festivals structured the cultic calendar. The [[Lesser Mysteries]] were held
 
 ## Pre-Hellenic Origins and Minoan Connection
 
-The rites possessed deep [[pre-Hellenic origins]], with strong connections to [[Minoan Crete]]. Shared cult vessels including [[kemoi]] (ceremonial jars) and [[libation jugs]], the Minoan theatrical form, purification rituals, and a fertility cult kernel all point to a common ancestor religion. The continuity between Minoan and Eleusinian practice suggests that the core of the mysteries far predated the arrival of Greek-speaking peoples in the Aegean, representing a survival of Neolithic religious traditions centered on the worship of an earth goddess and the cycle of vegetative death and rebirth.
+The rites possessed deep [[pre-Hellenic origins]], with strong connections to [[Minoan Crete]]. Shared cult vessels including kemoi (ceremonial jars) and [[libation jugs]], the Minoan theatrical form, purification rituals, and a fertility cult kernel all point to a common ancestor religion. The continuity between Minoan and Eleusinian practice suggests that the core of the mysteries far predated the arrival of Greek-speaking peoples in the Aegean, representing a survival of Neolithic religious traditions centered on the worship of an earth goddess and the cycle of vegetative death and rebirth.
 
 [[Arthur Evans]], excavating at [[Knossos]] beginning in 1900, uncovered vessels bearing barley ears in relief, suggesting that [[barley beer]] may have preceded wine on Crete as the preferred sacramental beverage. The prominence of barley in Minoan iconography, combined with the later centrality of barley in the Eleusinian rites, strengthens the case for a continuous tradition of barley-based sacramental practice stretching from Neolithic Anatolia through Minoan Crete into classical Greece. The transition from a mother-goddess-centered religion to the more complex Demeter-Persephone mythos represents a cultural elaboration rather than a fundamental break with earlier practice.
 
@@ -52,9 +52,9 @@ In 1978, Wasson, Hofmann, and Ruck published *The Road to Eleusis*, elaborating 
 
 ### Claviceps purpurea and Ergot Alkaloids
 
-[[Claviceps purpurea]] is a fungus that infects edible grains, particularly rye and barley, replacing individual kernels with dark purple to black [[sclerotia]] known as ergot. These sclerotia, historically called "ergot of commerce," contain a complex mixture of powerful [[ergot alkaloids]], including compounds that produce hallucination, induce labor, and cause vasoconstriction. The association of the color purple with [[Demeter's robe]] may signify the purple sclerotia of ergot, establishing a visual link between the sacramental substance and the mythology of the goddess.
+[[Claviceps purpurea]] is a fungus that infects edible grains, particularly rye and barley, replacing individual kernels with dark purple to black [[sclerotia-production-grass-seed-jar-method]] known as ergot. These sclerotia, historically called "ergot of commerce," contain a complex mixture of powerful [[ergot alkaloids]], including compounds that produce hallucination, induce labor, and cause vasoconstriction. The association of the color purple with [[Demeter's robe]] may signify the purple sclerotia of ergot, establishing a visual link between the sacramental substance and the mythology of the goddess.
 
-The ergot alkaloids comprise two broad chemical classes with markedly different pharmacological properties. The peptide alkaloids, including ergotamine and ergocristine, are responsible for the dangerous vasoconstrictive effects of ergotism and are relatively fat-soluble. The simpler amide and amino alkaloids, including [[lysergic acid amide]] (LSA) and [[ergonovine]], are water-soluble and produce psychoactive effects with a profile resembling that of [[LSD]], a semi-synthetic derivative of lysergic acid first synthesized by Hofmann in 1938. The presence of these simpler alkaloids in ergot provides a plausible chemical basis for the visionary experiences reported by Eleusinian initiates.
+The ergot alkaloids comprise two broad chemical classes with markedly different pharmacological properties. The peptide alkaloids, including ergotamine and ergocristine, are responsible for the dangerous vasoconstrictive effects of ergotism and are relatively fat-soluble. The simpler amide and amino alkaloids, including [[lysergic acid amide]] (LSA) and [[hofmann-self-experiment-with-ergonovine]], are water-soluble and produce psychoactive effects with a profile resembling that of [[LSD]], a semi-synthetic derivative of lysergic acid first synthesized by Hofmann in 1938. The presence of these simpler alkaloids in ergot provides a plausible chemical basis for the visionary experiences reported by Eleusinian initiates.
 
 ### Ergot of Barley as the Likely Ingredient
 
@@ -74,7 +74,7 @@ The temple hierarchy at Eleusis, centered on the [[Eumolpidae]] and [[Kerykes]] 
 
 The two principal hypotheses regarding the Eleusinian sacrament, the [[ergotized beer theory]] of Wasson, Hofmann, and Ruck and the [[psilocybin mushroom theory]] of Graves, differ in their proposed botanical source but converge on the essential insight that the mysteries involved a chemically induced visionary experience. The ergot theory has the advantage of grounding the sacrament in barley, a grain already central to the Demeter cult and archaeologically attested at both Knossos and Eleusis. The mushroom theory, while biogeographically problematic for Stropharia cubensis specifically, benefits from the demonstrated potency of psilocybin and the mushroom's more straightforward psychoactive profile without the toxicity concerns of ergot.
 
-A third possibility, not incompatible with either theory, is that multiple psychoactive preparations were employed at different periods over the two-thousand-year history of the mysteries, or that the sacrament combined plant and fungal ingredients in a manner analogous to the [[ayahuasca]] brews of Amazonia. The long duration of the cult and its pre-Hellenic origins make it unlikely that a single unchanging recipe was used throughout its history.
+A third possibility, not incompatible with either theory, is that multiple psychoactive preparations were employed at different periods over the two-thousand-year history of the mysteries, or that the sacrament combined plant and fungal ingredients in a manner analogous to the ayahuasca brews of Amazonia. The long duration of the cult and its pre-Hellenic origins make it unlikely that a single unchanging recipe was used throughout its history.
 
 ## Legacy and Decline
 
@@ -86,17 +86,17 @@ The suppression of the mysteries represented not merely a political transition b
 
 ## Controversies and Criticism
 
-The ergotized beer theory remains contested within classical scholarship. Critics argue that the evidence is circumstantial and that no archaeological traces of ergot processing have been found at the Eleusinian site. Others point out that the ancient sources describe the kykeon as a relatively simple mixture of barley meal, water, and herbs (particularly [[pennyroyal]]), and that no explicit reference to psychoactive effects survives in the classical record, although the oath of silence would have prohibited such descriptions.
+The ergotized beer theory remains contested within classical scholarship. Critics argue that the evidence is circumstantial and that no archaeological traces of ergot processing have been found at the Eleusinian site. Others point out that the ancient sources describe the kykeon as a relatively simple mixture of barley meal, water, and herbs (particularly pennyroyal), and that no explicit reference to psychoactive effects survives in the classical record, although the oath of silence would have prohibited such descriptions.
 
 Defenders of the theory note that the absence of direct evidence is precisely what one would expect from a tradition whose participants were sworn to secrecy on pain of death. The consistent testimonies to transformative experience, the extreme measures taken to protect the secret, and the parallel existence of other hallucinogen-based mystery cults in the ancient world all support the plausibility of a psychoactive sacrament. The involvement of Hofmann, the discoverer of LSD and a world authority on ergot alkaloids, lends particular scientific credibility to the chemical feasibility of the proposed preparation.
 
 ## See Also
 
 - [[Eleusinian Mysteries]]
-- [[kykeon]]
+- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
 - [[Claviceps purpurea]]
 - [[Claviceps paspali]]
-- [[ergotism]]
+- [[bloomfield-ergot-claviceps-purpurea-ergotism]]
 - [[ergot alkaloids]]
 - [[lysergic acid amide]]
 - [[R. Gordon Wasson]]

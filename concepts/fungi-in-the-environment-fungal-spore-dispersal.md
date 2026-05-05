@@ -109,6 +109,8 @@ Understanding spore dispersal is important for agriculture:
 
 ## See Also
 
+- [[spore-interstellar-dispersal-hypothesis]]
+
 - [[fungal-spore-dispersal]]
 - [[fungal-spore-biology]]
 - [[fungal-spore-dispersal-animals-wind]]

@@ -71,7 +71,6 @@ The wild progenitor of cultivated soybean is *Glycine soja* (or *G. max* subsp. 
 ### 1. Nitrogen Fixation
 
 Soybean forms a **symbiotic relationship** with *Bradyrhizobium japonicum* (or related *Bradyrhizobium* spp.) through root nodule formation. The biochemical process:
-
 1. Root exudates (flavonoids and isoflavones) attract compatible rhizobial bacteria
 2. Bacteria attach to root hairs and form an infection thread
 3. Nodule primordia develop from root cortical cells
@@ -84,7 +83,6 @@ Soybean forms a **symbiotic relationship** with *Bradyrhizobium japonicum* (or r
 ### 2. Dynamic Nutrient Accumulation
 
 The deep taproot system of soybean accesses nutrients from subsoil layers that are unavailable to shallow-rooted crops:
-
 | Nutrient | Accumulation Mechanism | Permaculture Benefit |
 |----------|----------------------|---------------------|
 | Phosphorus | Mycorrhizal associations; root exudate solubilization | Brought to surface via leaf litter and residue decomposition |
@@ -92,24 +90,7 @@ The deep taproot system of soybean accesses nutrients from subsoil layers that a
 | Potassium | Subsoil mining | Returns to topsoil via mulch incorporation |
 | Iron | Chelation by root exudates | Beneficial for intercropped species with Fe deficiency |
 
-### 3. Soil Structure Improvement
-
-- **Taproot penetration:** Breaks compacted soil layers and plow pans
-- **Root channels:** Create macropores for water infiltration and root penetration by subsequent crops
-- **Organic matter contribution:** Leaf litter and root residues add 2–5 t/ha of organic matter
-- **Glomalin production:** Arbuscular mycorrhizal fungi associated with soybean roots produce glomalin, a glycoprotein that improves soil aggregate stability
-
-### 4. Mulch and Ground Cover
-
-Determinate soybean varieties form a dense canopy that provides excellent ground cover, suppressing weed growth and reducing soil erosion. At the end of the growing season, the mature plant can be:
-
-- Cut and left as a surface mulch (chop-and-drop)
-- Incorporated into the soil as green manure
-- Harvested for seed with the residue left as protective mulch
-
-### 5. Pest Disturbance / Companion Planting
-
-Soybean's role in polyculture systems includes:
+(Section truncated for length.)
 
 - **Companion with maize (three sisters adaptation):** Soybean fixes nitrogen for the heavy-feeding corn, while corn provides structural support
 - **Intercropped with small grains:** Reduces pest pressure through habitat diversification
@@ -172,7 +153,6 @@ This sequence maximizes nitrogen fixation, soil coverage, and nutrient cycling a
 ## Nutritional Value
 
 Soybean is nutritionally exceptional among plant foods:
-
 | Nutrient | Per 100g (dry) | Significance |
 |----------|---------------|-------------|
 | Protein | 36–40 g | Complete protein — contains all 9 essential amino acids |
@@ -208,10 +188,10 @@ Soybean has a water use efficiency (WUE) of approximately 10–15 kg grain per m
 ## See Also
 
 - [[nitrogen-fixing-plants]]
-- [[cover-crops-guide]]
-- [[three-sisters-polyculture]]
-- [[bradyrhizobium-japonicum]]
-- [[legume-inoculation]]
-- [[permaculture-design-principles]]
+- [[solomon-cover-crops-green-manure-guide]]
+- [[three-sisters]]
+- bradyrhizobium japonicum
+- [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
+- [[permaculture-design-principles-beginners]]
 - [[dynamic-nutrient-accumulators]]
-- [[fermented-soy-foods]]
+- [[knf-fermented-seawater-preparation]]

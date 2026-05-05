@@ -22,7 +22,7 @@ Japan's relationship with psychoactive mushrooms extends deep into its
 cultural history:
 
 - **Stropharia venenata** (formerly Stropharia caerulescens) Imai: Now
-  classified within [[psilocybe-genus-overview]] as a close relative of P. cubensis. Grows
+  classified within [[psilocybe-genus-diversity-and-taxonomy]] as a close relative of P. cubensis. Grows
   on wood and dung. First documented intoxication in 1929 when a woman
   mistakenly served it as honey mushroom ([[armillaria-mellea]]). Singer and
   Smith mistakenly cited these incidents as examples of fatal effects,

@@ -106,6 +106,6 @@ Lion's Mane has a firm, meaty texture and a mild, slightly sweet flavor reminisc
 
 ## See Also
 
-- [[reishi-mushroom]] — *Ganoderma lucidum*, another prominent medicinal mushroom
-- [[turkey-tail-mushroom]] — *Trametes versicolor*, immune-modulating polypore
-- [[chaga-mushroom]] — *Inonotus obliquus*, antioxidant-rich sterile conk
+- [[reishi-mushroom-medicinal-research]] — *Ganoderma lucidum*, another prominent medicinal mushroom
+- [[turkey-tail-mushroom-cancer-research]] — *Trametes versicolor*, immune-modulating polypore
+- [[chaga-mushroom-research]] — *Inonotus obliquus*, antioxidant-rich sterile conk

@@ -136,6 +136,8 @@ Lycoperdon spp.).
 
 ## See Also
 
+- [[non-psilocybe-neurotropic-fungi-genera]]
+
 - [[stamets-psilocybin-genera-beyond-psilocybe]]
 
 - [[guzman-magic-mushrooms-psilocybe-species-list]] for Psilocybe

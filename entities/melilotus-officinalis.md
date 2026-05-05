@@ -127,6 +127,6 @@ In permaculture systems, sweet clover serves multiple functions simultaneously:
 - [[Trifolium repens]]
 - [[Vicia villosa]]
 - [[Medicago sativa]]
-- [[coumarin]]
-- [[nitrogen-fixation]]
+- coumarin
+- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - [[comfrey]]

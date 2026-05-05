@@ -127,6 +127,6 @@ In some European countries, the species has declined in areas with intensive for
 ## See Also
 
 - [[cantharellus-cibarius]] — Golden Chanterelle, another prized mycorrhizal edible
-- [[clavulina-cristata]] — Crested Coral, a smaller coral mushroom in a different genus
+- clavulina cristata — Crested Coral, a smaller coral mushroom in a different genus
 - [[hericium-erinaceus]] — Lion's Mane, another visually distinctive edible mushroom
 - [[ectomycorrhizal-associations]] — Mycorrhizal ecology and forest dynamics

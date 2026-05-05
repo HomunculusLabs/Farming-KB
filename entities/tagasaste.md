@@ -144,7 +144,7 @@ the soil.
   require protection during establishment.
 ## See Also
 - [[moringa-oleifera]]
-- [[black-locust]]
-- [[leucaena]]
-- [[eleagnus-umbellata]]
+- [[black-locust-entity]]
+- [[leucaena-entity]]
+- [[eleagnus-umbellata-entity]]
 - [[glycyrrhiza-glabra]]

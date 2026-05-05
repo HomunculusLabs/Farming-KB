@@ -137,6 +137,6 @@ Citizen science platforms such as iNaturalist have contributed valuable distribu
 - [[aeruginascin|Aeruginascin]]
 - [[mycorrhizal-fungi|Mycorrhizal Fungi]]
 - [[laricifomes-officinalis|Laricifomes officinalis]]
-- [[agaricales|Agaricales]]
-- [[nothofagus|Nothofagus]]
-- [[bioluminescence|Bioluminescence]]
+- Agaricales
+- Nothofagus
+- Bioluminescence

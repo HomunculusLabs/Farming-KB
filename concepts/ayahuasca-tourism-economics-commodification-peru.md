@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-The economic dynamics of [[ayahuasca]] tourism in Peru reveal a stark contrast between what foreign visitors pay and what local Peruvians pay for the same ceremony, alongside significant disparities in how practitioners conduct themselves depending on their clientele. The ayahuasca tourism economy has become a thriving business in the Peruvian Amazon, particularly around Iquitos, Pucallpa, and Shipibo communities, raising questions about authenticity, exploitation, and the cultural impact of commodifying indigenous spiritual practice.
+The economic dynamics of ayahuasca tourism in Peru reveal a stark contrast between what foreign visitors pay and what local Peruvians pay for the same ceremony, alongside significant disparities in how practitioners conduct themselves depending on their clientele. The ayahuasca tourism economy has become a thriving business in the Peruvian Amazon, particularly around Iquitos, Pucallpa, and Shipibo communities, raising questions about authenticity, exploitation, and the cultural impact of commodifying indigenous spiritual practice.
 
 ## Price Disparities
 
@@ -65,7 +65,7 @@ Ayahuasca serves dual roles in Peru: it is simultaneously a valued spiritual pra
 
 ### Brazilian Connections
 
-Ayahuasca tourism extends beyond Peru to Brazil, where visitors participate in established [[ayahuasca]] churches such as the Santo Daime. These formalized religious contexts offer a different economic model than the more ad hoc Peruvian shamanic tourism.
+Ayahuasca tourism extends beyond Peru to Brazil, where visitors participate in established ayahuasca churches such as the Santo Daime. These formalized religious contexts offer a different economic model than the more ad hoc Peruvian shamanic tourism.
 
 ## Medical and Safety Economics
 
@@ -122,8 +122,8 @@ The key variables Stuart identified for a successful experience include:
 
 ## See Also
 
-- [[ayahuasca]] - Overview of the brew and its chemistry
+- ayahuasca - Overview of the brew and its chemistry
 - [[ayahuasca-tourism]] - General overview of ayahuasca tourism
 - [[ayahuasca-interactions-with-prescription-medications]] - Medical safety considerations
-- [[icaros]] - The ceremonial songs integral to authentic ayahuasca practice
+- [[icaros-power-songs]] - The ceremonial songs integral to authentic ayahuasca practice
 - [[ayahuasca-tourism-ethics-and-commodification]] - Ethical dimensions of spiritual tourism

@@ -97,4 +97,6 @@ The disappearance of a natural diet is, in Fukuoka's view, not merely a nutritio
 
 ## See Also
 
+- [[disappearance-natural-diet]]
+
 Related topics in this wiki include: .

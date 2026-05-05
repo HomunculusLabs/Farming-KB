@@ -133,6 +133,8 @@ START: What is your USDA hardiness zone?
 
 ## See Also
 
+- [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
+
 - [Legume Trees and Nitrogen-Fixing Permaculture Species](/wiki/topics/legume-trees-and-nitrogen-fixing-permaculture-species)
 - [Mesquite vs Black Locust vs Carob Tree](/wiki/comparisons/comparison-mesquite-vs-black-locust-vs-carob-tree)
 - [Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation](/wiki/topics/nitrogen-fixing-bacteria-and-biological-nitrogen-fixation)

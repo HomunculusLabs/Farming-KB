@@ -142,6 +142,8 @@ ingredient in cough syrups and throat lozenges in many countries.
   establishment; reduce watering as plants mature for maximum oil
   production
 ## See Also
+
+- [[foeniculum-vulgare-entity]]
 - [[thymus-vulgaris-entity]]
 - [[rosmarinus-officinalis-entity]]
 - [[ocimum-basilicum]]

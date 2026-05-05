@@ -138,8 +138,7 @@ adding a previously unrecognized dimension to plant-fungal communication.
 
 ## Related Concepts
 
-- [[Brassinosteroids as steroidal phytohormones for fungal growth
-  promotion]] for classification as a hormone group
+- [[Brassinosteroids as steroidal phytohormones for fungal growth promotion]] for classification as a hormone group
 - [[22S,23S-Homobrassinolide chemistry and synthesis]] for the specific
   compound structure and preparation from stigmasterol
 - [[Steroidal regulation of fungal development and growth]] for the

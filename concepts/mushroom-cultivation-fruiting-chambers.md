@@ -78,6 +78,8 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## See Also
 
+- [[perlite-humidification-mushroom-fruiting-chambers]]
+
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-bulk-substrates]]
 - [[mushroom-cultivation-sterile-technique]]

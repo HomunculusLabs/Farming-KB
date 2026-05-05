@@ -68,7 +68,7 @@ Before beginning any sterile work, several preparatory steps are essential:
 
 ### Cap Harvesting
 
-1. Flame sterilise the scissors using an [[pf-tek-alcohol-flaming-technique|alcohol flame]] (a clean flame that avoids the soot residue of butane lighters)
+1. Flame sterilise the scissors using an [[pf-tek-inoculation-without-lids-and-alcohol-flaming|alcohol flame]] (a clean flame that avoids the soot residue of butane lighters)
 2. Snip off the mushroom cap, cutting the top of the stem as far up into the cap as possible so the gills will sit flat on the jar bottom
 3. Use a straight pin to pierce the top of the cap for handling
 4. With quick, sure movements, place the cap gill-side-down into the jar
@@ -142,6 +142,6 @@ This approach, using mass [[spore inoculation]] directly to the fruiting substra
 
 - [[pf-tek-overview-and-history]]
 - [[pf-tek-psilocybe-fanaticus]]
-- [[pf-tek-substrate-formula|pf-substrate-formula]]
+- [[pf-tek-maximum-fruiting-substrate-formula|pf-substrate-formula]]
 - [[pf-tek-steam-sterilization-technique]]
 - [[pf-tek-mushroom-growth-timeline]]

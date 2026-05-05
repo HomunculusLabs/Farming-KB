@@ -97,9 +97,9 @@ Fukuoka distilled his dietary philosophy into a simple prescription: eat cooked 
 
 ## Related Concepts
 
-- [[fukuoka-textdoc-natural-diet-and-food-mandate]]
-- [[fukuoka-textdoc-nutrition-and-health]]
-- [[fukuoka-natural-farming-spiritual-practice]]
+- [[fukuoka-natural-diet-food-philosophy]]
+- [[fukuoka-natural-body-and-health]]
+- [[fukuoka-natural-farming-spiritual-light]]
 - [[do-nothing-farming]]
 - [[natural-farming-philosophy-of-mu]]
 - [[fukuoka-textdoc-decline-quality-food]]

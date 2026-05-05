@@ -115,7 +115,9 @@ Mexican neurotropic fungi for future generations.
 
 ## See Also
 
-- [[psilocybe-genus-overview]]
+- [[mexico-global-center-neurotropic-fungal-diversity]]
+
+- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[ethnomycology-cultural-significance-sacred-fungi]]
 - [[traditional-indigenous-use-sacred-fungi]]
 - [[worldwide-distribution-psilocybin-mushrooms]]

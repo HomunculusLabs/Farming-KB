@@ -135,6 +135,8 @@ of drinks at various stages of readiness in your kitchen.
 
 ## See Also
 
+- [[comparison-kefir-vs-yogurt]]
+
 - [[kombucha-and-fermented-teas-guide]]
 - [[food-fermentation-guide]]
 - [[kefir-making]]

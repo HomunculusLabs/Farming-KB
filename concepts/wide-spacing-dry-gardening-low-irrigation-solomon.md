@@ -119,9 +119,9 @@ Solomon frames wide spacing gardening within a larger narrative about resource s
 
 ## See Also
 
-- [[sustainable-agriculture]]
-- [[dry-farming]]
+- [[holmgren-forest-management-and-sustainable-harvesting]]
+- [[query-what-is-dry-farming-and-how-does-it-work]]
 - [[water-conservation]]
-- [[soil-fertility]]
-- [[compost]]
-- [[seed-saving]]
+- [[soil-fertility-management]]
+- compost
+- [[home-garden-seed-saving]]

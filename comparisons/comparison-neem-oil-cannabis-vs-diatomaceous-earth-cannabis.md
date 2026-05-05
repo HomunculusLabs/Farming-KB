@@ -126,6 +126,8 @@ rotation prevents pest adaptation while maintaining continuous multi-modal
 protection throughout the entire grow cycle.
 
 ## See Also
+
+- [[comparison-neem-oil-vs-pyrethrin]]
 - [[fungus-gnats-cannabis]] — common cannabis pest targeted by both products
 - [[aphids-cannabis]] — another target pest for both control methods
 - [[integrated-pest-management]] — framework for combining these and other controls

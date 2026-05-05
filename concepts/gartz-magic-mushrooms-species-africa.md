@@ -35,7 +35,7 @@ The most striking image at Tin-Tazarift, Tassili District, shows masked
 beings engaged in ecstatic dancing with dashed lines connecting a mushroom
 to the center of the head -- representing a "flow of energy" and the
 mushroom's influence on the human soul. The rock drawings consistently
-show two kinds of mushroom shapes: one resembling [[psilocybe-genus-overview]] semilanceata
+show two kinds of mushroom shapes: one resembling [[psilocybe-genus-diversity-and-taxonomy]] semilanceata
 (with an acute umbo) and another resembling larger Amanita or Stropharia
 [[psilocybin-mushroom-image-guide-lookalike-species]]. Some mushrooms were drawn in blue, possibly representing the
 bluing phenomenon.

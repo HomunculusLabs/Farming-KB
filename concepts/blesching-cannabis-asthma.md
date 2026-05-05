@@ -126,6 +126,6 @@ Despite the counterintuitive nature of inhaling plant material for a respiratory
 
 - [[blesching-cannabis-copd]]
 - [[blesching-cannabis-inflammation]]
-- [[blesching-cannabis-cannabinoid-pharmacology]]
+- [[cannabis-cannabinoid-receptor-pharmacology]]
 - [[blesching-cannabis-pharmacokinetics-and-bioavailability]]
 - [[blesching-cannabis-four-prime-cannabinoids]]

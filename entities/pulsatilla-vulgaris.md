@@ -132,5 +132,5 @@ Requires excellent drainage, full sun, and alkaline soil.
 
 ## See Also
 
-- [[clematis]]
-- [[ranunculus]]
+- clematis
+- ranunculus

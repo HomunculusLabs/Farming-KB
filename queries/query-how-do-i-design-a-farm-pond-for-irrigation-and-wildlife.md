@@ -26,7 +26,6 @@ A well-designed farm pond serves as the centerpiece of a permaculture water mana
 ## Step 1: Define Your Purpose
 
 Before breaking ground, clarify what you need the pond to do. Prioritizing goals determines shape, depth, location, and surrounding plantings:
-
 | Purpose | Design Implications |
 |---------|-------------------|
 | **Irrigation storage** | Sufficient volume; gravity-fed outlet to fields; silt trap at inlet |
@@ -36,7 +35,6 @@ Before breaking ground, clarify what you need the pond to do. Prioritizing goals
 | **Recreation** | Beach area; clear water; swimming depth; safety features |
 | **Flood control** | Large capacity relative to watershed; slow release outlet; spillway design |
 | **Duck/goose habitat** | Shallow edges; aquatic plants; predator islands; fencing for livestock exclusion |
-
 Most homestead ponds serve multiple purposes. Rank yours and design for the primary use while accommodating secondary benefits.
 
 ## Step 2: Site Assessment
@@ -44,7 +42,6 @@ Most homestead ponds serve multiple purposes. Rank yours and design for the prim
 ### Watershed Analysis
 
 The watershed (catchment area) feeding your pond determines how much water you can collect. Key calculations:
-
 - **Watershed area**: Use topographic maps, Google Earth, or walk the ridgeline. Measure the area that drains to your proposed pond site.
 - **Annual rainfall**: Obtain local precipitation data from NOAA or your national weather service.
 - **Runoff coefficient**: Not all rain becomes runoff. Depends on slope and ground cover:
@@ -61,22 +58,8 @@ Annual yield (acre-feet) = Watershed area (acres) × Annual rainfall (ft) × Run
 
 ### Soil Assessment
 
-Pond success depends almost entirely on soil:
+(Section truncated for length.)
 
-- **Clay soils**: Ideal — naturally impermeable when compacted
-- **Clay loam**: Good — may need compaction or bentonite amendment
-- **Sandy loam**: Marginal — requires clay liner or geosynthetic membrane
-- **Sand/gravel**: Poor — requires a manufactured liner (EPDM, HDPE, or concrete)
-
-**Soil testing methods**:
-1. **Jar test**: Fill a jar ⅓ full of soil, add water, shake, settle for 24 hours. Sand settles in seconds, silt in minutes, clay stays suspended for hours.
-2. **Perc test**: Dig a hole, fill with water, time how fast it drains. Pond sites should drain slower than 1 inch per hour.
-3. **Professional soil boring**: For ponds over ¼ acre or where soil is uncertain — drill test holes to determine clay content at depth.
-
-### Topography
-
-- **Saddle (low point between two ridges)**: Ideal pond location — natural collection point with reduced dam width
-- **Hillside bench**: Good for gravity-fed irrigation — outlet pipe provides head pressure
 - **Valley floor**: High water yield but larger dam required; more regulatory scrutiny
 - **Flat land**: Requires significant earthwork; liner almost certainly needed
 
@@ -87,9 +70,7 @@ Pond success depends almost entirely on soil:
 ### Volume Calculation
 
 Determine volume from your water budget:
-
 **Water budget** = Annual inflow − Annual demand − Annual losses
-
 - **Inflow**: Runoff from watershed (calculated above) + spring flow (if present) + direct rainfall on pond surface
 - **Demand**: Irrigation withdrawal + livestock water + other uses
 - **Losses**: Evaporation (3–5 ft/year in temperate climates; up to 6 ft in arid) + seepage (varies by soil; target <0.5 inch/day)
@@ -104,7 +85,6 @@ Determine volume from your water budget:
 | **Shelf** | 12–36 inches | Submerged plants; fish spawning; duck foraging |
 | **Open water** | 3–6 feet | Fish habitat; swimming; aesthetics |
 | **Deep pool** | 6–12+ feet | Overwintering fish; thermal refuge; reduced evaporation |
-
 Aim for at least 25% of the pond surface area to be deeper than 6 feet. This prevents complete freezing in winter and provides reliable year-round water.
 
 ## Step 4: Dam and Spillway Design
@@ -120,7 +100,6 @@ Aim for at least 25% of the pond surface area to be deeper than 6 feet. This pre
 ### Emergency Spillway
 
 The spillway is the most critical safety feature — it prevents the dam from overtopping and failing during flood events:
-
 - **Location**: Natural ground at one end of the dam — never cut through the dam itself
 - **Capacity**: Sized for the 25-year, 24-hour storm event (or 50-year for critical ponds)
 - **Width**: Calculate from peak flow rate; typically 5–15 feet wide for small farm ponds
@@ -139,7 +118,6 @@ The spillway is the most critical safety feature — it prevents the dam from ov
 ### Graduated Edges
 
 Avoid steep drop-offs. Create gentle slopes (5:1 or flatter) on at least 2–3 sides:
-
 - **Wildlife access**: Shallow edges allow amphibians, turtles, and waterfowl to enter and exit
 - **Planting zones**: Shelves at 6, 12, and 24 inches provide planting zones for emergent, marginal, and submersed plants
 - **Safety**: Gradual slopes reduce drowning risk for livestock and children
@@ -148,7 +126,6 @@ Avoid steep drop-offs. Create gentle slopes (5:1 or flatter) on at least 2–3 s
 ### Island Design
 
 Small islands (5–20 feet diameter) provide enormous wildlife value:
-
 - Nesting sites for waterfowl (safe from land predators)
 - Basking sites for turtles and amphibians
 - Visual interest and aesthetic value
@@ -156,44 +133,13 @@ Small islands (5–20 feet diameter) provide enormous wildlife value:
 
 ## Step 6: Aquatic Planting Zones
 
-### Emergent Plants (0–12 inches deep)
-
-| Plant | Function | Notes |
-|-------|----------|-------|
-| Cattail (*Typha latifolia*) | Water filtration; wildlife cover | Aggressive; contain with root barrier |
-| Soft rush (*Juncus effusus*) | Erosion control; filtration | Clumping; well-behaved |
-| Pickerelweed (*Pontederia cordata*) | Pollinator flowers; filtration | Beautiful; native to eastern NA |
-| Arrowhead (*Sagittaria latifolia*) | Edible tubers; duck food | "Duck potato"; excellent wildlife plant |
-| Blue flag iris (*Iris versicolor*) | Filtration; beauty | Rhizomes stabilize banks |
-| Sweet flag (*Acorus calamus*) | Medicinal; fragrance | Spreads slowly; tolerant of fluctuating water |
-
-### Marginal Plants (6–24 inches deep)
-
-| Plant | Function |
-|-------|----------|
-| Water celery (*Oenanthe javanica*) | Edible; oxygenates water |
-| Taro (*Colocasia esculenta*) | Edible tuber; tropical/subtropical |
-| Water mint (*Mentha aquatica*) | Aromatic; bee forage |
-| Rice (*Oryza sativa*) | Edible; can integrate with ducks |
-| Watercress (*Nasturtium officinale*) | Edible; nutrient uptake; requires flowing water |
-
-### Submersed Plants (2–6 feet deep)
-
-| Plant | Function |
-|-------|----------|
-| Hornwort (*Ceratophyllum demersum*) | Oxygenation; algae suppression |
-| Eelgrass (*Vallisneria americana*) | Fish habitat; oxygenation |
-| Pondweed (*Potamogeton spp.*) | Fish food; oxygenation |
-| Water lily (*Nymphaea spp.*) | Shade; beauty; fish habitat |
-
-**Planting strategy**: Cover 30–50% of the pond surface with aquatic plants. This balances aesthetics, water quality, and open water for recreation or aquaculture. Avoid planting more than 60% surface coverage — excessive shading leads to oxygen depletion.
+(Section content removed for length. See source for full details.)
 
 ## Step 7: Irrigation Integration
 
 ### Gravity-Fed Systems
 
 The most efficient design places the pond above the area to be irrigated:
-
 - Every 1 foot of elevation provides 0.43 PSI of water pressure
 - A pond 10 feet above garden level provides ~4.3 PSI — sufficient for drip irrigation, soaker hoses, and gentle sprinkler systems
 - Use a float valve at the outlet to regulate flow
@@ -202,7 +148,6 @@ The most efficient design places the pond above the area to be irrigated:
 ### Pump Systems
 
 When gravity feed isn't possible:
-
 - **Solar pump**: 50–200W solar panel + DC pump; runs during peak sun when evapotranspiration is highest
 - **12V bilge pump**: Low-cost option for small systems; runs from battery bank or vehicle
 - **Sump pump**: AC-powered; high flow rate; suitable for larger operations

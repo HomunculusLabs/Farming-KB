@@ -86,6 +86,8 @@ antidiabetic properties position it well within the expanding functional
 foods market.
 
 ## See Also
+
+- [[tremella-fuciformis-entity]]
 - [[lentinula-edodes]]
 - [[auricularia-auricula]]
 - [[hericium-erinaceus]]

@@ -121,5 +121,5 @@ local populations of *T. sanguinea* and other wood-decay fungi face pressure fro
 - [[Trametes versicolor]]
 - [[Ganoderma lucidum]]
 - [[Fomes fomentarius]]
-- [[polysaccharides]]
+- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
 - [[laccase]]

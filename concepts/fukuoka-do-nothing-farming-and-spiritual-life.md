@@ -87,6 +87,9 @@ The "do-nothing" approach is not laziness but a fundamental reorientation of hum
 
 ## See Also
 
+- [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
+- [[direct-seeded-no-tillage-rice-barley-succession]]
+
 - [[fukuoka-natural-farming-philosophy]] -- farming philosophy foundation
 - [[four-principles-of-natural-farming]] -- the practical principles
 - [[one-straw-revolution-philosophy]] -- the book's philosophical core

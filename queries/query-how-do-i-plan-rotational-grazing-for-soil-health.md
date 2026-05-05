@@ -111,7 +111,9 @@ If manure is concentrated near water or shade, redesign access before the patter
 - [[comparison-pasture-vs-silvopasture]] is useful when adding trees to grazing land.
 - The best plan is adjusted by observation rather than copied from a calendar.
 
-## Related Questions
+## Related
+
+- [[comparison-rotational-grazing-vs-set-stocking]] Questions
 
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-how-do-i-integrate-ducks-into-my-permaculture-system]]

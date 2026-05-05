@@ -133,3 +133,7 @@ Absolutely — most experienced fermenters work across the spectrum depending on
 - **Pied de cuve** (winemaking): A small amount of grapes is wild-fermented separately, monitored, and — if it develops well — used to inoculate the main batch
 
 The spectrum is continuous, not divided into rigid categories. The best approach is whichever one produces food you enjoy eating, at a level of complexity you're comfortable managing, within your budget and time constraints.
+
+## See Also
+
+- [[comparison-wild-fermentation-vs-commercial-starter-culture]]

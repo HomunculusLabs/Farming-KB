@@ -114,6 +114,8 @@ symbolic, cognitive, and linguistic capacity.
 
 ## See Also
 
+- [[mckenna-psilocybin-language-poetry-vocal-impulse]]
+
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-language-and-reality]]
 - [[mckenna-human-cognition-and-the-stoned-age]]

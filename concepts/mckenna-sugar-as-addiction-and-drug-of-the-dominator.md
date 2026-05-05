@@ -118,6 +118,10 @@ The transition from partnership to dominator culture was not merely political or
 
 [[mckenna-sugar-slavery-and-dominance]]
 [[mckenna-sugar-spice-mercantilism]]
-[[mckenna-dominance-culture-and-ego]]
+[[mckenna-food-of-the-gods-dominance-culture-and-ego]]
 [[mckenna-dominator-vs-partnership-society-model]]
 [[mckenna-diet-symbiosis-human-evolution]]
+
+## See Also
+
+- [[mckenna-mdma-and-drug-terror-of-the-1980s]]

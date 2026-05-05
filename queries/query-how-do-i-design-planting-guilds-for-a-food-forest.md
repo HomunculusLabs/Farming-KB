@@ -26,7 +26,6 @@ A planting guild (also called a plant guild or companion guild) is a community o
 ## What Is a Guild?
 
 A guild centers on a **central element** — usually a fruit or nut tree — and includes companion plants that fill specific functional roles:
-
 - **Nitrogen fixers**: Convert atmospheric nitrogen into plant-available form (legumes and actinorhizal plants)
 - **Dynamic accumulators**: Deep-rooted plants that mine minerals from subsoil and bring them to the surface
 - **Insectary plants**: Flowers that attract pollinators and predatory insects
@@ -40,9 +39,7 @@ A well-designed guild provides most or all of these functions around each centra
 ## The Classic Apple Tree Guild
 
 The apple tree guild is the most widely referenced example in permaculture:
-
 **Central element**: Apple tree (Malus domestica)
-
 | Layer | Plant | Function |
 |-------|-------|----------|
 | Canopy understory | Comfrey (*Symphytum officinale*) | Dynamic accumulator (mines potassium, calcium, phosphorus from deep soil); biomass for mulch |
@@ -66,7 +63,6 @@ Every plant in the guild should serve at least two functions. Comfrey, for examp
 ### 2. Fill Every Niche
 
 Design guilds to occupy all available ecological niches:
-
 - **Vertical layers**: Canopy, understory, shrub, herbaceous, ground cover, root zone, climbing vines
 - **Root horizons**: Shallow-rooted, medium-rooted, and deep-rooted species minimize competition
 - **Temporal patterns**: Include plants that are active in different seasons (spring bulbs, summer flowers, fall fruit, winter evergreens)
@@ -75,7 +71,6 @@ Design guilds to occupy all available ecological niches:
 ### 3. Close the Loops
 
 A self-sustaining guild cycles nutrients internally:
-
 - Nitrogen fixers feed the central tree and other plants
 - Dynamic accumulators pull deep minerals to the surface
 - Biomass plants provide mulch that feeds soil organisms
@@ -86,7 +81,6 @@ A self-sustaining guild cycles nutrients internally:
 ### 4. Minimize Competition
 
 Choose plants with complementary resource needs:
-
 - **Root competition**: Pair deep-rooted trees with shallow-rooted ground covers (clover, thyme) that don't compete for the same soil horizons
 - **Light competition**: Place sun-loving plants on the southern or eastern exposure; shade-tolerant species on the northern side
 - **Water competition**: Group plants with similar water needs together. Mediterranean herbs (rosemary, thyme, oregano) prefer drier conditions than comfrey or mint
@@ -94,71 +88,13 @@ Choose plants with complementary resource needs:
 ### 5. Use Native Plants Where Possible
 
 Native plants are adapted to local conditions, support local pollinators and wildlife, and require less maintenance. Incorporate native species into guilds alongside productive food plants. Examples:
-
 - **Eastern US**: Wild bergamot, butterfly weed, native honeysuckle, elderberry, pawpaw, American persimmon
 - **Western US**: Yarrow, lupine, ceanothus, serviceberry, manzanita, native currants
 - **UK/Europe**: Comfrey, yarrow, clover, hazel, elder, wild garlic
 
 ## Example Guild Designs by Central Element
 
-### Peach Tree Guild
-
-**Central element**: Peach tree (Prunus persica)
-
-| Plant | Function |
-|-------|----------|
-| Comfrey | Dynamic accumulator, mulch biomass |
-| Garlic chives | Pest deterrence (deters peach tree borer) |
-| Yarrow | Insectary, accumulator |
-| White clover | Nitrogen fixation, living mulch |
-| Tansy | Pest repulsion (deters Japanese beetle, squash bug) |
-| Nasturtium | Ground cover, pest trap crop, edible |
-| Daikon radish | Soil penetration (bio-drill), edible root |
-| Chamomile | Insectary, ground cover, medicinal tea |
-
-### Pear Tree Guild
-
-**Central element**: Pear tree (Pyrus communis)
-
-| Plant | Function |
-|-------|----------|
-| Comfrey | Dynamic accumulator, biomass |
-| Sea kale | Edible perennial, ground cover, ornamental |
-| Chives or garlic | Pest deterrence |
-| Borage | Insectary (attracts bees), edible flowers |
-| Lupine | Nitrogen fixation, insectary, ornamental |
-| Strawberry | Ground cover, edible fruit |
-| Walking onion | Perennial allium, pest deterrence |
-| Mint (contained) | Pest repulsion, ground cover |
-
-### Chestnut Tree Guild
-
-**Central element**: Chestnut tree (Castanea spp.)
-
-| Plant | Function |
-|-------|----------|
-| Elaeagnus (autumn olive or goumi) | Nitrogen fixation, edible berries |
-| Comfrey | Dynamic accumulator, biomass |
-| Artichoke | Edible perennial, large biomass |
-| Groundnut (Apios americana) | Nitrogen-fixing vine, edible tubers |
-| Yarrow | Insectary, accumulator |
-| Clover | Nitrogen fixation, living mulch |
-| Mushroom inoculation (King stropharia) | Decompose chestnut leaf litter, edible mushrooms |
-
-### Citrus Tree Guild (Zones 9–10)
-
-**Central element**: Citrus tree (Citrus spp.)
-
-| Plant | Function |
-|-------|----------|
-| Comfrey | Dynamic accumulator, biomass |
-| Lupine | Nitrogen fixation, insectary |
-| Sweet potato vine | Ground cover, edible tubers, living mulch |
-| Lemongrass | Pest repulsion, mulch material |
-| Calendula | Insectary, edible flowers, medicinal |
-| Garlic chives | Pest deterrence |
-| Fennel | Insectary, edible |
-| Pigeon pea | Nitrogen fixation, edible peas, chop-and-drop mulch |
+(Section content removed for length. See source for full details.)
 
 ## Spacing and Layout
 
@@ -173,7 +109,6 @@ The classic guild layout places the central tree in the middle with companion pl
 ### Keyhole Guild Layout
 
 For smaller spaces, a keyhole pattern allows access to all plants from a central path:
-
 - Design a wedge or horseshoe shape (1.5–2.5 m radius)
 - Leave a narrow path (30–40 cm wide) to the center for access
 - Plant the central tree at the closed end
@@ -202,7 +137,6 @@ Based on your site conditions, determine which guild functions are most needed:
 ### Step 3: Select Plants for Each Function
 
 Choose at least one plant for each guild function, prioritizing multi-functional species:
-
 | Function | Example Plants |
 |----------|---------------|
 | Nitrogen fixer | Siberian pea shrub, goumi, seaberry, lupine, clover, groundnut, pigeon pea, false indigo |
@@ -211,31 +145,9 @@ Choose at least one plant for each guild function, prioritizing multi-functional
 | Ground cover | Clover, creeping thyme, oregano, strawberry, nasturtium, sweet potato, mint |
 | Mulch producer | Comfrey, artichoke, Jerusalem artichoke, cardoon, rhubarb, sorghum |
 | Pest confuser | Garlic, chives, onions, marigolds, nasturtium, tansy, rue, wormwood |
-| Root crop | Daikon radish, jerusalem artichoke, groundnut, sunchokes, yacon |
-| Climber | Grape, kiwi, passionfruit, groundnut, beans, hops |
 
-### Step 4: Arrange by Layer and Niche
+(Section truncated for length.)
 
-Map out your plants spatially:
-- Sketch the mature canopy spread of the central tree
-- Place tall shrubs where they won't shade smaller plants
-- Put sun-loving plants on the south/west side
-- Arrange root crops to avoid competing with tree roots
-- Contain aggressive spreaders (mint, comfrey, Jerusalem artichoke) with root barriers
-
-### Step 5: Plan for Temporal Diversity
-
-Ensure something is flowering, fruiting, or producing biomass in every season:
-- **Early spring**: Bulbs (daffodils, crocus), flowering currant, plum blossoms
-- **Late spring**: Clover, lupine, chives, yarrow beginning
-- **Summer**: Comfrey, borage, dill, fennel, calendula at peak bloom
-- **Fall**: Asters, goldenrod, late comfrey bloom, fruit harvest
-- **Winter**: Evergreen ground covers (creeping thyme), winter-activating fungi, leaf mulch decomposition
-
-### Step 6: Install and Observe
-
-- Plant the central tree first
-- Install guild companions in the first 1–3 years, working outward from the tree
 - Sheet mulch the entire guild area before planting to suppress weeds and build soil
 - Inoculate with mycorrhizal fungi at planting time
 - Observe and adjust: remove plants that aren't thriving, add plants that fill gaps
@@ -253,7 +165,6 @@ Ensure something is flowering, fruiting, or producing biomass in every season:
 ## Quick Guild Design Template
 
 For any central tree, use this fill-in-the-blank approach:
-
 - **Central tree**: [Your chosen fruit/nut tree]
 - **Nitrogen fixer**: [Choose 1–2 adapted to your zone]
 - **Dynamic accumulator**: [Comfrey or local equivalent]

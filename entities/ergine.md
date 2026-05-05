@@ -127,7 +127,7 @@ suppliers for analytical calibration.
   countries.
 
 ## See Also
-- [[lysergic-acid-diethylamide]]
+- [[lsd-lysergic-acid-diethylamide-experience-guide]]
 - [[psilocybin]]
 - [[psilocin]]
 - [[mescaline]]

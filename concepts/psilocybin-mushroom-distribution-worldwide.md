@@ -113,7 +113,7 @@ Six classic habitat types for psilocybin mushrooms (per Stamets):
 - [[psilocybe-naematoliformis]]
 - [[psilocybe-thailandensis]]
 - [[psilocybe-thrausta]]
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 
 - [[psilocybe-villamedinensis]]
 

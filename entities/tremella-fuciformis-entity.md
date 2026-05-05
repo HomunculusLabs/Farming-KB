@@ -146,4 +146,4 @@ Kidney, and Stomach meridians:
 - [[ganoderma-lucidum]]
 - [[inonotus-obliquus]]
 - [[hericium-erinaceus]]
-- [[auricularia-auricula-judae]]
+- [[auricularia-auricula-judae-entity]]

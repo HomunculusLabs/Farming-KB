@@ -125,6 +125,6 @@ Not evaluated by IUCN. *Daldinia concentrica* is common and widespread with no s
 
 ## See Also
 - [[xylaria-hypoxylon]]
-- [[xylaria-polymorpha]]
-- [[hypoxylon]]
+- [[xylaria-polymorpha-entity]]
+- [[xylaria-hypoxylon]]
 - [[trametes-versicolor]]

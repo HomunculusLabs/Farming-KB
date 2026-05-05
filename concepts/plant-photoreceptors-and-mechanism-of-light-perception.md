@@ -52,7 +52,7 @@ red photopsins, but not the green photopsin.
 ## Darwin's Phototropism Experiments
 
 Charles and Francis Darwin demonstrated that plant bending toward
-light ([[phototropism]]) was directed by a dedicated light-sensing
+light ([[phototropism-photoperiodism-discovery-phytochrome]]) was directed by a dedicated light-sensing
 mechanism at the shoot tip, not by photosynthesis. In their classic
 1880 experiment, canary grass ([[Phalaris canariensis]]) seedlings
 grown in darkness were exposed to a dim gas lamp. Five treatments were
@@ -78,7 +78,7 @@ and accelerated flowering.
 
 ## Cryptochromes
 
-[[cryptochrome|Cryptochromes]] are blue-light photoreceptors central to
+[[cryptochrome-and-blue-light-photoreception|Cryptochromes]] are blue-light photoreceptors central to
 circadian rhythm regulation, de-etiolation, and plant development. They
 absorb blue and UV-A light and share structural homology with DNA
 photolyase enzymes, though they have lost DNA repair function and
@@ -107,7 +107,7 @@ UV-induced damage.
 The [[Maryland Mammoth]] tobacco strain, discovered in 1906, grew
 continuously without flowering. In 1918, Garner and Allard at the USDA
 discovered that limiting daily light exposure caused flowering. This
-[[photoperiodism]] revealed that plants measure day length to time
+[[phytochrome-red-far-red-switch-and-photoperiodism]] revealed that plants measure day length to time
 critical developmental transitions including the switch from vegetative
 growth to flowering.
 
@@ -133,9 +133,9 @@ exceeding human capabilities in some respects.
 
 ## See Also
 
-- [[phototropism]] and the Darwin experiments
-- [[photoperiodism]] and day-length measurement
-- [[phytochrome]] red and far-red light sensing
-- [[cryptochrome]] blue light photoreception
+- [[phototropism-photoperiodism-discovery-phytochrome]] and the Darwin experiments
+- [[phytochrome-red-far-red-switch-and-photoperiodism]] and day-length measurement
+- [[phytochrome-photoreception]] red and far-red light sensing
+- [[cryptochrome-and-blue-light-photoreception]] blue light photoreception
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]]
 - [[darwins-phototropism-experiments]]

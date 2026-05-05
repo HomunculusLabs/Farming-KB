@@ -137,6 +137,8 @@ cannot, creating complementary treatment stages.
 
 ## See Also
 
+- [[comparison-bsf-farming-vs-vermicomposting]]
+
 - [[comparison-dry-farming-vs-xeriscaping]]
 
 - [[comparison-bsf-composting-vs-hot-composting]] for composting

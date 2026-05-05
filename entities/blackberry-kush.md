@@ -25,7 +25,7 @@ sources:
 Blackberry Kush is an indica-dominant cannabis strain renowned for its deep
 purple bud coloration, sweet berry aroma, and heavily sedative effects. Though
 its exact lineage remains debated, it is widely accepted as a cross between
-an Afghani indica and [[dj-short-blueberry|Blueberry]]. The strain has
+an Afghani indica and [[short-day-and-long-day-plant-classification|Blueberry]]. The strain has
 accumulated a devoted following among medical patients seeking relief from
 insomnia, chronic pain, and anxiety. Its visual appeal — dense, dark purple
 nugs covered in orange pistils and frosty trichomes — has made it a staple
@@ -60,7 +60,7 @@ of West Coast dispensaries.
 - **Secondary notes:** Fuel, damp earth, slight skunk
 - **Taste:** Sweet berry on inhale, earthy hash on exhale; smooth smoke with
   a lingering sweet aftertaste
-- **Key terpenes:** Myrcene, [[caryophyllene]], [[limonene]], pinene
+- **Key terpenes:** Myrcene, [[cannabis-beta-caryophyllene-dietary-cannabinoid]], [[limonene]], pinene
 
 The aroma is distinctly fruity and is considered one of the strain's most
 appealing attributes. The Afghani parent contributes a heavy, earthy
@@ -137,6 +137,6 @@ via CB2 receptor agonism.
 
 - [[og-kush]] — Classic West Coast strain; common cross-breeding partner
 - [[granddaddy-purple]] — Fellow purple indica with overlapping effects profile
-- [[blueberry]] — Blueberry parent strain
+- [[blueberry-growing-guide]] — Blueberry parent strain
 - [[northern-lights]] — Heritage indica; similar sedative profile
 - [[myrcene]] — Dominant terpene responsible for sedative effects

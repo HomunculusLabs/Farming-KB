@@ -133,8 +133,8 @@ along with myristicin and other compounds.
   monitoring in some jurisdictions
 
 ## See Also
-- [[myristicin]]
+- [[myristicin-entity]]
 - [[mescaline]]
 - [[safrole]]
-- [[eugenol]]
+- eugenol
 - [[psilocybin]]

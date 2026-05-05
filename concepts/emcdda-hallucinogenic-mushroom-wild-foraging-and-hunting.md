@@ -131,6 +131,8 @@ being by far the most commonly sought.
 
 ## See Also
 
+- [[emcdda-wild-mushroom-foraging-misidentification-hazards]]
+
 - [[emcdda-psilocybin-mushroom-species-and-identification]]
 - [[emcdda-hallucinogenic-mushroom-internet-information-sources]]
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]

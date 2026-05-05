@@ -184,3 +184,7 @@ already articulated that any complete account of the universe must take these
 expanded forms of consciousness into account. Metzner suggested that through hybrid
 shamanic-therapeutic exploration, Western psychology may finally be returning to
 this understanding.
+
+## See Also
+
+- [[entheogen-etymology-and-terminology]]

@@ -99,7 +99,9 @@ compound release.
 - Prevention through screening, quarantine, inspection of new plants, and
   weed management is essential for long-term control
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-identify-and-control-common-garden-pests-organically]] Questions
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
 - [[query-how-to-prevent-and-treat-spider-mites-on-cannabis]]
 - [[query-how-to-control-pests-without-chemicals]]

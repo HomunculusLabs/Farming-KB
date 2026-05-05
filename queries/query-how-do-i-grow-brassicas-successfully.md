@@ -143,7 +143,9 @@ converts starches to sugars.
 - Try Asian greens like mizuna and tatsoi for fast, less demanding
   alternatives to heading brassicas
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-grow-alliums-successfully]] Questions
 
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
 - [[query-how-do-i-winterize-my-garden-and-prepare-for-spring]]

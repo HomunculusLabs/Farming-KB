@@ -103,4 +103,6 @@ schedules that require mixing and applying nutrients every one to three days.
 
 ## See Also
 
+- [[query-how-do-slime-molds-decompose-organic-matter]]
+
 - [[query-how-do-i-make-a-johnson-su-bioreactor]]

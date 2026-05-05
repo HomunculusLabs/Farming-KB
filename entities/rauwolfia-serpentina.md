@@ -12,7 +12,7 @@ sources:
 
 # Rauwolfia serpentina
 
-**Rauwolfia serpentina** (Indian snakeroot) is an evergreen perennial shrub in the family Apocynaceae, native to the Indian subcontinent and Southeast Asia. One of the most pharmacologically significant plants in the history of modern medicine, it has been used in [[ayurveda]] for millennia and was the source of reserpine — the first antipsychotic and antihypertensive drug derived from a natural product. The plant contains over 50 identified [[indole]] alkaloids, making it a rich subject for [[tryptamine]]-class phytochemistry.
+**Rauwolfia serpentina** (Indian snakeroot) is an evergreen perennial shrub in the family Apocynaceae, native to the Indian subcontinent and Southeast Asia. One of the most pharmacologically significant plants in the history of modern medicine, it has been used in ayurveda for millennia and was the source of reserpine — the first antipsychotic and antihypertensive drug derived from a natural product. The plant contains over 50 identified [[indole]] alkaloids, making it a rich subject for [[tryptamine]]-class phytochemistry.
 
 ## Key Details
 
@@ -75,7 +75,7 @@ The antihypertensive effect derives from peripheral catecholamine depletion in s
 
 ### Antipsychotic History
 
-Reserpine was among the first drugs used to treat schizophrenia in the 1950s, predating [[chlorpromazine]]. Its efficacy in calming agitated psychotic patients was attributed to central monoamine depletion. Largely superseded by phenothiazines and butyrophenones due to severe side-effect profile, particularly deep depression.
+Reserpine was among the first drugs used to treat schizophrenia in the 1950s, predating chlorpromazine. Its efficacy in calming agitated psychotic patients was attributed to central monoamine depletion. Largely superseded by phenothiazines and butyrophenones due to severe side-effect profile, particularly deep depression.
 
 ## Historical Significance
 
@@ -92,7 +92,7 @@ Used in Ayurvedic medicine for at least 3,000 years under the Sanskrit name **Sa
 
 ### Nobel Prize Connection
 
-The isolation of reserpine contributed to the broader psychopharmacology revolution of the 1950s. While no Nobel Prize was awarded specifically for reserpine, its development alongside [[chlorpromazine]] fundamentally transformed psychiatry from institutionalization to pharmacological treatment. The work on Rauwolfia alkaloids was part of the same scientific current recognized by subsequent Nobel prizes in neurotransmitter research.
+The isolation of reserpine contributed to the broader psychopharmacology revolution of the 1950s. While no Nobel Prize was awarded specifically for reserpine, its development alongside chlorpromazine fundamentally transformed psychiatry from institutionalization to pharmacological treatment. The work on Rauwolfia alkaloids was part of the same scientific current recognized by subsequent Nobel prizes in neurotransmitter research.
 
 ## Medical Applications
 
@@ -130,17 +130,17 @@ India is the largest producer, with commercial cultivation in Uttar Pradesh, Mad
 
 ## Wiki Relevance
 
-Rauwolfia serpentina is foundational to the pharmacology of [[indole]] alkaloids and the history of psychopharmacology. Its study bridges ethnobotany, [[ayurveda]], phytochemistry, and modern clinical pharmacology. Reserpine's mechanism as a VMAT inhibitor remains a critical reference in neurotransmitter pharmacology alongside compounds affecting [[serotonin]] and dopamine pathways. The plant's conservation status highlights the intersection of medicinal plant trade, biodiversity, and sustainable agriculture.
+Rauwolfia serpentina is foundational to the pharmacology of [[indole]] alkaloids and the history of psychopharmacology. Its study bridges ethnobotany, ayurveda, phytochemistry, and modern clinical pharmacology. Reserpine's mechanism as a VMAT inhibitor remains a critical reference in neurotransmitter pharmacology alongside compounds affecting [[serotonin]] and dopamine pathways. The plant's conservation status highlights the intersection of medicinal plant trade, biodiversity, and sustainable agriculture.
 
 ## See Also
 
-- [[reserpine]]
+- reserpine
 - [[serotonin]]
 - [[tryptamine]]
 - [[indole]]
 - [[dimethyltryptamine]]
-- [[chlorpromazine]]
-- [[yohimbine]]
-- [[ayurveda]]
+- chlorpromazine
+- yohimbine
+- ayurveda
 - [[psilocybin]]
 - [[4-hydroxytryptamine]]

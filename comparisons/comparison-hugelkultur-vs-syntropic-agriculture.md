@@ -42,7 +42,7 @@ A comparison of two regenerative agriculture systems that build soil fertility a
 
 ## Core Techniques and Implementation
 
-**Hugelkultur** construction involves excavating a trench (optional but common), filling it with logs, branches, and woody debris, then layering smaller organic matter, [[compost]], and topsoil. The mound is typically 3–6 feet tall. Nitrogen-rich materials (green manure, compost, or animal manure) are layered between wood to balance the high carbon-to-nitrogen ratio of woody debris. Beds can be oriented on-contour for water harvesting.
+**Hugelkultur** construction involves excavating a trench (optional but common), filling it with logs, branches, and woody debris, then layering smaller organic matter, compost, and topsoil. The mound is typically 3–6 feet tall. Nitrogen-rich materials (green manure, compost, or animal manure) are layered between wood to balance the high carbon-to-nitrogen ratio of woody debris. Beds can be oriented on-contour for water harvesting.
 
 **Syntropic agriculture** implementation begins with site analysis and succession planning. Pioneer species (fast-growing, nitrogen-fixing, sun-loving) are planted alongside crop species at high density. Species are arranged in vertical strata — emergent, high canopy, low canopy, shrub, herbaceous, and ground cover. Regular **pruning** is the central management action: cutting biomass from upper strata accelerates succession, opens light for lower strata, and provides organic matter for soil surface mulching.
 

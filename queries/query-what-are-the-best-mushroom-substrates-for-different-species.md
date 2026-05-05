@@ -101,6 +101,9 @@ equally attractive to contaminant organisms.
 
 ## Related
 
+- [[query-what-are-the-best-fig-varieties-for-different-climates]]
+- [[kh2po4-phosphate-supplementation-mushroom-substrates]]
+
 - [[query-what-are-the-best-mushroom-species-for-beginners]]
 
 - [[query-what-are-the-best-mushroom-species-for-bioremediation]] Questions

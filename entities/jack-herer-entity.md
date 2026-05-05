@@ -116,8 +116,8 @@ profile is widely cited as one of Jack Herer's most prized qualities.
 - Consistently in top-10 strain lists across major publications
 
 ## See Also
-- [[og-kush-entity]]
-- [[northern-lights-entity]]
-- [[sour-diesel-entity]]
-- [[white-widow-entity]]
-- [[durban-poison-entity]]
+- [[og-kush-cannabis-entity]]
+- [[northern-lights]]
+- [[sour-diesel]]
+- [[white-widow-cannabis]]
+- [[durban-poison]]

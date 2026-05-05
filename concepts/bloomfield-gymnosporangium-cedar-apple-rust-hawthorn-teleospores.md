@@ -131,7 +131,7 @@ memorable plant diseases.
 
 ## See Also
 
-- [[bloomfield-puccinia-graminis-black-stem-rust-wheat]]
-- [[bloomfield-rust-fungi-life-cycles-heteroecism]]
-- [[bloomfield-plant-pathology-fungal-infection-mechanisms]]
-- [[bloomfield-stomatal-infection-germ-tube-navigation]]
+- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
+- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
+- [[singh-fungal-plant-growth-promoting-mechanisms]]
+- [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]

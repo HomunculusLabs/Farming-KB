@@ -114,8 +114,8 @@ Understanding plant photoreception has major practical applications:
 
 ## See Also
 
-- [[phytochrome]]
-- [[photoperiodism]]
-- [[plant-hormones]]
-- [[circadian-rhythm-plants]]
-- [[phototropism]]
+- [[phytochrome-photoreception]]
+- [[phytochrome-red-far-red-switch-and-photoperiodism]]
+- [[plant-hormones-and-chemical-signaling-systems]]
+- [[plant-circadian-rhythms]]
+- [[phototropism-photoperiodism-discovery-phytochrome]]

@@ -25,7 +25,7 @@ gasteroid fungi. No other country approaches this level of diversity in psychoac
 ## Indigenous Use and Ethnobotanical Significance
 
 The use of hallucinogenic mushrooms in Mexico is deeply embedded in indigenous Mesoamerican cultures, with roots
-extending back at least 3,000 years based on archaeological evidence. The Aztec name [[teonanacatl]], meaning
+extending back at least 3,000 years based on archaeological evidence. The Aztec name [[teonanacatl-and-mesoamerican-mushroom-cults]], meaning
 "flesh of the gods" or "sacred mushroom," was recorded by Spanish chroniclers including Bernardino de Sahagún in the
 16th century. The Spanish colonial authorities actively suppressed indigenous mushroom ceremonies, driving the
 practice underground where it was maintained in secrecy by several ethnic groups to the present day.

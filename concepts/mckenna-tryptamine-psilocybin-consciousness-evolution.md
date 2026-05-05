@@ -92,6 +92,9 @@ McKenna argues that in the absence of psychedelic compounds, "the closest we can
 
 ## See Also
 
+- [[mckenna-habit-creode-waddington-cultural-evolution]]
+- [[mckenna-roland-fischer-psilocybin-visual-acuity]]
+
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[mckenna-archaic-revival]]
 - [[mckenna-food-of-the-gods-thesis]]

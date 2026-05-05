@@ -146,5 +146,5 @@ spleen/stomach cold deficiency.
 
 ## See Also
 
-- [[rheum-rhabarbarum]] · [[aloe-vera]] · [[cassia-angustifolia]]
-- [[sennosides]] · [[emodin]] · [[rhein]]
+- [[rheum-palmatum]] · [[aloe-vera]] · [[cinnamomum-cassia]]
+- sennosides · emodin · rhein

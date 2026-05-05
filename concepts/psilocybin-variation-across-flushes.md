@@ -134,6 +134,8 @@ Clinical trials using psilocybin mushrooms (as opposed to synthetic psilocybin) 
 
 ## See Also
 
+- [[psilocin-accumulation-pattern-across-flushes]]
+
 - [[Psilocin Accumulation Pattern Across Flushes]]
 - [[Cap vs Stem Alkaloid Distribution]]
 - [[HPLC Analysis of Tryptamine Alkaloids]]

@@ -127,5 +127,5 @@ Chemdog's genetics form the backbone of modern cannabis breeding. Notable direct
 - [[Sour Diesel]]
 - [[Girl Scout Cookies]]
 - [[myrcene]]
-- [[caryophyllene]]
-- [[tetrahydrocannabinol]]
+- [[cannabis-beta-caryophyllene-dietary-cannabinoid]]
+- [[tetrahydrocannabinol-thc]]

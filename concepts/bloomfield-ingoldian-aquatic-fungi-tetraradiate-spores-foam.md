@@ -115,7 +115,9 @@ similar environmental challenges. The Ingoldian mycelia are asexual phases (anam
 of fungi that produce sexual spores in other habitats. This independent derivation of
 identical solutions is a textbook case of evolutionary convergence in mycology.
 
-## Related Topics
+## Related
+
+- [[ingoldian-aquatic-fungi]] Topics
 
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]

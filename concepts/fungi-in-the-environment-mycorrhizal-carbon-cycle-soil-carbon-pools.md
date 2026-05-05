@@ -134,3 +134,7 @@ responses to global change.
 [[arbuscular-mycorrhizal-fungi]]
 [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
 [[wood-wide-web]]
+
+## See Also
+
+- [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]

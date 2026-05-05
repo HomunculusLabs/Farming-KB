@@ -106,7 +106,9 @@ capacity, biomass production, winter hardiness, and termination difficulty.
   [[cover-crop-selection-guide]], is essential to maximize the benefits of any
   cover cropping program
 
-## Related Questions
+## Related
+
+- [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]] Questions
 - [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]]
 - [[query-what-are-green-manures-and-how-to-use-them]]
 - [[query-how-do-i-start-a-no-till-garden-bed]]

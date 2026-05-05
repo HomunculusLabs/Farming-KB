@@ -113,6 +113,9 @@ numerous subsequent cultivars:
 - **Blackberry Lemon Haze** (SLH × Blackberry Kush)
 - **Kosher Lemon Haze** (SLH × Kosher Kush)
 ## See Also
+
+- [[super-silver-haze]]
+- [[lemon-haze]]
 - [[jack-herer]]
 - [[sour-diesel]]
 - [[amnesia-haze]]

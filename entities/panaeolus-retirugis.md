@@ -109,7 +109,7 @@ compounds detected include:
 | [[panaeolus-cyanescens]] | Strongly bluing; larger and more robust |
 | [[panaeolus-subbalteatus]] | Larger cap; found on soil and dung |
 | [[panaeolus-fimicola]] | Smaller, less rugose cap surface |
-| [[panaeolus-foenisecii]] | Gills never truly mottled; inactive |
+| [[panaeolus-foenisecii-taxonomy-debate]] | Gills never truly mottled; inactive |
 | [[copelandia-cyanescens]] | Intensely bluing; belongs to Copelandia |
 | [[panaeolus-acuminatus]] | Distinctly pointed cap; narrower spores |
 ## Field Identification Tips

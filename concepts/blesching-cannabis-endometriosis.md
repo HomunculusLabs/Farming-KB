@@ -134,5 +134,5 @@ Despite the limited number of studies (2), the findings for cannabis in endometr
 - [[blesching-cannabis-inflammation]]
 - [[blesching-cannabis-ptsd-anxiety]]
 - [[blesching-cannabis-pregnancy]]
-- [[blesching-cannabis-endocannabinoid-system-overview]]
+- [[blesching-cannabis-oxytocin-endocannabinoid-system]]
 - [[blesching-cannabis-angiogenesis-and-tumor-suppression]]

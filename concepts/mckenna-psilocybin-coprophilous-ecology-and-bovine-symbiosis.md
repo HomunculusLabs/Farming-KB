@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-In "Food of the Gods," Terence McKenna develops the argument that the relationship between [[psilocybin]]-containing mushrooms and pastoral cattle herding represents a profound instance of [[coevolution]] and [[symbiosis]] between a fungal species and a human cultural practice. The key ecological fact underlying this argument is that the most potent psilocybin-containing mushrooms, particularly [[Psilocybe cubensis]], are coprophilous, meaning they grow exclusively on the dung of herbivorous animals, especially cattle. This dependency created a tight ecological link between the expansion of pastoralism and the availability of psychoactive fungi.
+In "Food of the Gods," Terence McKenna develops the argument that the relationship between [[psilocybin]]-containing mushrooms and pastoral cattle herding represents a profound instance of [[mckenna-plants-and-primates-coevolution]] and [[symbiosis-in-fungi]] between a fungal species and a human cultural practice. The key ecological fact underlying this argument is that the most potent psilocybin-containing mushrooms, particularly [[Psilocybe cubensis]], are coprophilous, meaning they grow exclusively on the dung of herbivorous animals, especially cattle. This dependency created a tight ecological link between the expansion of pastoralism and the availability of psychoactive fungi.
 
 ## Coprophilous Fungi: Biology and Habitat
 
@@ -29,9 +29,9 @@ The life cycle of a coprophilous psilocybin mushroom creates a dispersal mechani
 
 ## The Symbiosis Concept
 
-McKenna frames the human-psilocybin relationship within the broader biological concept of [[symbiosis]], which he defines as "a relationship between two species that confers mutual benefit upon their members." He distinguishes this from parasitism and notes that symbiotic relationships can range from genetically tightly bound to more open and behavioral.
+McKenna frames the human-psilocybin relationship within the broader biological concept of [[symbiosis-in-fungi]], which he defines as "a relationship between two species that confers mutual benefit upon their members." He distinguishes this from parasitism and notes that symbiotic relationships can range from genetically tightly bound to more open and behavioral.
 
-He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone's food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between [[leafcutter ants]] and a cultivated [[basidiomycete]] fungus, described by E.O. Wilson.
+He illustrates the concept with two key examples from nature. The first is the clown anemone fish (Amphiprion ocellaris), which lives in proximity to sea anemones. The fish gain protection from predators, while the anemone's food supply expands because the fish attract larger prey into the area. The second, more directly relevant example, is the relationship between [[leafcutter ants]] and a cultivated [[basidiomycete-phylum-guide]] fungus, described by E.O. Wilson.
 
 ## The Leafcutter Ant Analogy
 
@@ -43,7 +43,7 @@ McKenna suggests that, analogously, human pastoralism served as "an effective wa
 
 ## The Pastoral Revolution and Fungal Availability
 
-McKenna argues that the [[domestication]] of cattle, beginning roughly 10,000 years ago in the Near East and independently in Africa, created a dramatic increase in the availability of psilocybin mushrooms for human populations. Before domestication, contact between hominids and [[Psilocybe]] species was limited to chance encounters with the dung of wild ungulates on the African savannah.
+McKenna argues that the domestication of cattle, beginning roughly 10,000 years ago in the Near East and independently in Africa, created a dramatic increase in the availability of psilocybin mushrooms for human populations. Before domestication, contact between hominids and [[Psilocybe]] species was limited to chance encounters with the dung of wild ungulates on the African savannah.
 
 With the advent of pastoralism, cattle were kept in close proximity to human settlements. Their dung accumulated in and around villages, creating ideal conditions for prolific mushroom fruiting. Humans living among cattle herds would have encountered psilocybin mushrooms regularly and predictably, rather than sporadically. McKenna describes this as the "human-mushroom interspecies codependency" being "enhanced and deepened" by domestication.
 
@@ -115,5 +115,5 @@ The comparison with non-psychoactive dung fungi is relevant to McKenna's argumen
 - [[psilocybin-mushroom-evolution]]
 - [[stoned-ape-hypothesis]]
 - [[mckenna-diet-symbiosis-human-evolution]]
-- [[mckenna-symbiosis-definition-and-examples]]
-- [[mckenna-pastoral-revolution-mushroom-availability]]
+- [[mckenna-symbiosis-and-human-plant-relationships]]
+- [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]

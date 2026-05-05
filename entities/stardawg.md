@@ -129,4 +129,4 @@ No serious adverse interactions with pharmaceuticals have been documented, but t
 - [[e-beta-caryophyllene-bcp]] — Primary terpene in Stardawg, a CB2 receptor agonist
 - [[myrcene]] — Dominant sedative terpene contributing to indica-dominant effects
 - [[gmo-garlic-cookies]] — Modern descendant with enhanced Chemdawg lineage traits
-- [[dosidos]] — Notable Stardawg-influenced hybrid with similar terpene profile
+- dosidos — Notable Stardawg-influenced hybrid with similar terpene profile

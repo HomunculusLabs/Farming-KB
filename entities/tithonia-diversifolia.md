@@ -84,11 +84,11 @@ Native to the montane and piedmont regions of Mexico (particularly Jalisco, Guer
 
 ### Nutrient Cycling
 
-The primary value of *T. diversifolia* in agroecological systems lies in its capacity to accumulate and recycle nutrients from deep soil layers and redistribute them through leaf litter and green manure incorporation. Leaf tissue concentrations of 3.0–3.5% N (dry weight basis) are exceptional for a non-legume and approach values typical of leguminous species such as [[alfalfa-medicago-sativa]] (2.5–3.0% N) and [[trifolium-pratense]] (2.0–2.8% N). Potassium accumulation is particularly notable, with leaf K concentrations of 3.0–4.5%, making the species an effective potassium pump. When incorporated as green manure, *T. diversifolia* has been shown to increase maize yields by 50–200% compared to unfertilized controls, with effects comparable to moderate applications of mineral NPK fertilizer in trials across East Africa.
+The primary value of *T. diversifolia* in agroecological systems lies in its capacity to accumulate and recycle nutrients from deep soil layers and redistribute them through leaf litter and green manure incorporation. Leaf tissue concentrations of 3.0–3.5% N (dry weight basis) are exceptional for a non-legume and approach values typical of leguminous species such as [[alfalfa-medicago-sativa]] (2.5–3.0% N) and [[trifolium-repens]] (2.0–2.8% N). Potassium accumulation is particularly notable, with leaf K concentrations of 3.0–4.5%, making the species an effective potassium pump. When incorporated as green manure, *T. diversifolia* has been shown to increase maize yields by 50–200% compared to unfertilized controls, with effects comparable to moderate applications of mineral NPK fertilizer in trials across East Africa.
 
 ### Pest Management
 
-*Tithonia diversifolia* plays a dual role in pest management through its participation in push-pull strategies and its function as a reservoir for natural enemies. The flowers are highly attractive to a wide range of beneficial insects, including predatory wasps (Hymenoptera: Vespidae and Ichneumonidae), hoverflies (Syrphidae), ladybird beetles (Coccinellidae), and tachinid flies. In push-pull systems developed for stem borer management in cereal crops, *T. diversifolia* planted as a border trap crop attracts stem borers away from the main crop while also drawing in their natural parasitoids. This approach parallels systems using [[tagetes-erecta]] for nematode management and [[raphanus-sativus]] as a biofumigation trap crop, though *T. diversifolia* offers the added benefit of massive biomass production.
+*Tithonia diversifolia* plays a dual role in pest management through its participation in push-pull strategies and its function as a reservoir for natural enemies. The flowers are highly attractive to a wide range of beneficial insects, including predatory wasps (Hymenoptera: Vespidae and Ichneumonidae), hoverflies (Syrphidae), ladybird beetles (Coccinellidae), and tachinid flies. In push-pull systems developed for stem borer management in cereal crops, *T. diversifolia* planted as a border trap crop attracts stem borers away from the main crop while also drawing in their natural parasitoids. This approach parallels systems using [[tagetes-erecta-entity]] for nematode management and [[crocus-sativus]] as a biofumigation trap crop, though *T. diversifolia* offers the added benefit of massive biomass production.
 
 ### Mulch and Compost
 
@@ -126,8 +126,8 @@ The primary concern with *T. diversifolia* is its invasive potential. In tropica
 - [[comfrey-symphytum-officinale]] — temperate biomass and nutrient accumulator
 - [[moringa-oleifera]] — multipurpose tropical tree with comparable biomass yields
 - [[alfalfa-medicago-sativa]] — nitrogen-fixing forage and green manure standard
-- [[tagetes-erecta]] — marigold companion for nematode and pest management
+- [[tagetes-erecta-entity]] — marigold companion for nematode and pest management
 - [[yarrow]] — dynamic accumulator and beneficial insect attractor
-- [[trifolium-pratense]] — red clover, nitrogen-fixing green manure comparison
-- [[raphanus-sativus]] — radish biofumigation and soil conditioning
+- [[trifolium-repens]] — red clover, nitrogen-fixing green manure comparison
+- [[crocus-sativus]] — radish biofumigation and soil conditioning
 - [[acacia-confusa]] — nitrogen-fixing tree for tropical agroforestry

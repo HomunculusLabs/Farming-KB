@@ -72,6 +72,8 @@ This substitution, in Arthur's view, represents one of the biggest deceptions in
 
 ## See Also
 
+- [[forbidden-fruit-cannabis]]
+
 - [[sacred-mushroom-hypothesis]] — The broader sacred mushroom hypothesis
 - [[sacred-mushroom-and-the-cross]] — Allegro's mushroom-Christian connections
 - serpent as bringer of knowledge — The serpent's role in the Eden narrative

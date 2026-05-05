@@ -142,7 +142,7 @@ Thyme has one of the longest documented histories of medicinal use:
 - **Digestive aid:** Carminative properties relieve bloating and
   flatulence; traditionally consumed after heavy meals
 ## See Also
-- [[rosmarinus-officinalis]]
-- [[lavandula-angustifolia]]
+- [[rosmarinus-officinalis-entity]]
+- [[lavandula-angustifolia-entity]]
 - Ocimum basilicum
 - [[salvia-officinalis]]

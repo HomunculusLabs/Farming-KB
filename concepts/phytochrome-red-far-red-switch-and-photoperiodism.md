@@ -125,6 +125,8 @@ Light leaks during the dark period can reset phytochrome and delay or disrupt fl
 
 ## See Also
 
+- [[chamovitz-phytochrome-red-far-red-switch-photoperiodism]]
+
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]]
 - [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
 - [[phytochrome-and-plant-light-perception]]

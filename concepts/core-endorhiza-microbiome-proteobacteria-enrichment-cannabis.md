@@ -139,9 +139,11 @@ data.
 
 ## See Also
 
+- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
+
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cannabis-rhizosphere-microbiome]] overview
-- [[endorhiza]] bacteria and plant root colonization
+- [[endorhiza-bacterial-communities]] bacteria and plant root colonization
 - [[Acidobacteria]] ecology and soil distribution
 - [[Proteobacteria]] in plant-associated environments
 - [[Pseudomonas]] as plant growth-promoting bacteria

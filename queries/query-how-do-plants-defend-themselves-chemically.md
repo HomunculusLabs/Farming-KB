@@ -129,3 +129,7 @@ soil fungal populations.
 - Companion planting works through real chemical mechanisms
 - Support natural defenses via soil health, silicon, mycorrhizae, and smart
   stress management
+
+## See Also
+
+- [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]

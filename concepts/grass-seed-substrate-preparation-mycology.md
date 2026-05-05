@@ -21,12 +21,12 @@ Grass seed substrate is a widely used medium for cultivating a variety of fungal
 
 The grass seed substrate method is documented as effective for cultivating the following species:
 
-- [[Psilocybe mexicana]] — both mushrooms and [[sclerotia]]
-- [[Psilocybe tampanensis]] — both mushrooms and [[sclerotia]]
+- [[Psilocybe mexicana]] — both mushrooms and [[sclerotia-production-grass-seed-jar-method]]
+- [[Psilocybe tampanensis]] — both mushrooms and [[sclerotia-production-grass-seed-jar-method]]
 - [[Psilocybe cubensis]] — mushrooms only; rye grain is preferred for this species due to its larger kernel size and higher nutrient density
 - [[Panaeolus subbalteatus]] — mushrooms
 
-The substrate is particularly valued for sclerotia-producing species, as the grain medium allows direct formation without the need for [[casing]]. The small kernel size of grass seed creates many individual [[colonisation]] points, which accelerates the rate at which mycelium permeates the entire substrate volume. This property is especially beneficial when working with slower-growing species like [[Psilocybe tampanensis]], where colonisation speed is often a limiting factor.
+The substrate is particularly valued for sclerotia-producing species, as the grain medium allows direct formation without the need for [[casing-soil-preparation-mushroom-cultivation]]. The small kernel size of grass seed creates many individual colonisation points, which accelerates the rate at which mycelium permeates the entire substrate volume. This property is especially beneficial when working with slower-growing species like [[Psilocybe tampanensis]], where colonisation speed is often a limiting factor.
 
 ## Seed Selection
 
@@ -51,7 +51,7 @@ Grass seed can be soaked in water overnight before being placed into jars. This 
 
 ## Jar Preparation
 
-After hydration, the jars require specific preparation for [[sterilisation]]:
+After hydration, the jars require specific preparation for sterilisation:
 
 1. Fill jars with hydrated seed to approximately two-thirds capacity, leaving headspace for shaking
 2. Place lids on loosely — they must NOT be screwed tight under any circumstances
@@ -112,9 +112,9 @@ The 720 ml jar size specified in the source documentation is a common standard, 
 
 - **Surface-area-to-volume ratio**: Smaller jars colonise faster due to more efficient heat transfer and shorter mycelial travel distances, but require more jars per batch.
 - **Headroom**: Jars should never be filled more than two-thirds full to allow adequate shaking space. Overfilled jars cannot be properly mixed after sterilisation.
-- **Mouth width**: Wide-mouth jars are strongly preferred over regular-mouth jars. The wider opening makes it easier to shake loose the colonised grain when it comes time to case or harvest, and facilitates easier [[inoculation]].
+- **Mouth width**: Wide-mouth jars are strongly preferred over regular-mouth jars. The wider opening makes it easier to shake loose the colonised grain when it comes time to case or harvest, and facilitates easier [[inoculation-methods]].
 - **Glass vs plastic**: Glass jars are standard due to their ability to withstand pressure cooker temperatures. Some cultivators use polypropylene containers rated for autoclaving, which offer the advantage of being shatterproof.
 
 ## Role in the Cultivation Workflow
 
-Grass seed substrate preparation is the first active step in the cultivation pipeline. It precedes [[sterilisation]], [[inoculation]], colonisation, and — depending on the target product — either [[casing]] for mushroom production or extended incubation for sclerotia formation. The quality of substrate preparation directly influences every subsequent stage. Careful attention to water ratios, seed quality, and jar preparation at this stage pays dividends throughout the entire cultivation cycle.
+Grass seed substrate preparation is the first active step in the cultivation pipeline. It precedes sterilisation, [[inoculation-methods]], colonisation, and — depending on the target product — either [[casing-soil-preparation-mushroom-cultivation]] for mushroom production or extended incubation for sclerotia formation. The quality of substrate preparation directly influences every subsequent stage. Careful attention to water ratios, seed quality, and jar preparation at this stage pays dividends throughout the entire cultivation cycle.

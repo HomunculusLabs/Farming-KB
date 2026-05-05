@@ -117,7 +117,9 @@ However, the optimal concentration and timing of application might differ
 between substrate types due to differences in nutrient availability,
 water retention, and microbial ecology.
 
-## Related Topics
+## Related
+
+- [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] Topics
 
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - [[oss-oeric-growing-parameters-cubensis]]

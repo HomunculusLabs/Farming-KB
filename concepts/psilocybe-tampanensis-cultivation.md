@@ -136,6 +136,8 @@ pinheads (aborts) should be removed promptly to prevent mold.
 
 ## See Also
 
+- [[psilocybe-tampanensis-entity]]
+
 - [[sclerotia-cultivation]]: Comprehensive sclerotia production guide
 - [[psilocybe-mexicana-cultivation]]: Related sclerotia-producing species
 - [[grass-seed-substrate-preparation]]: Substrate preparation

@@ -122,6 +122,6 @@ drought, or darkness.
 ## See Also
 - [[mr-bloomfields-fungal-hyphal-biology-and-mycelial-networks]]
 - [[mr-bloomfields-cordyceps-and-entomopathogenic-fungi]]
-- [[mating-type-genes-and-sexual-compatibility-in-fungi]]
-- [[fungal-pheromone-receptors-and-signal-transduction]]
-- [[dikaryon-formation-in-basidiomycete-fungi]]
+- [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
+- [[mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling]]
+- [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]

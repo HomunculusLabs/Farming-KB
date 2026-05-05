@@ -139,6 +139,8 @@ and cultural factors in a way that complements more conventional explanations.
 
 ## See Also
 
+- [[mckenna-women-gatherers-and-evolution-of-language]]
+
 - [[mckenna-catalyzing-consciousness-and-language]]
 - [[mckenna-psilocybin-and-language-formation]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]

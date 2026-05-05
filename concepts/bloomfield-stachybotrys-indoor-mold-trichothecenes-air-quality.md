@@ -150,6 +150,8 @@ moisture source must be addressed.
 
 ## See Also
 
+- [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis]]
+
 - [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
 - [[bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation]]
 - [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]

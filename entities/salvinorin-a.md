@@ -135,4 +135,4 @@ Despite its intense psychoactive profile, salvinorin A has attracted significant
 - [[psilocybin]] — Serotonergic psychedelic for pharmacological comparison
 - [[muscimol]] — GABA-A agonist psychoactive compound; another non-serotonergic hallucinogen
 - [[ketamine]] — NMDA antagonist dissociative; different mechanism, some overlapping subjective effects
-- [[kappa-opioid-receptor]] — KOR biology and therapeutic targeting
+- kappa opioid receptor — KOR biology and therapeutic targeting

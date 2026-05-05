@@ -18,13 +18,13 @@ sources:
 
 # Rotational Grazing vs Set Stocking
 
-> A comparative analysis of two foundational livestock grazing management systems and their impacts on pasture health, animal welfare, economics, and the environment. See also [[holistic-grazing-and-pasture-management]] and [[regenerative-agriculture-overview]].
+> A comparative analysis of two foundational livestock grazing management systems and their impacts on pasture health, animal welfare, economics, and the environment. See also [[permaculture-grazing-and-pasture]] and [[regenerative-agriculture]].
 
 ## Definition and Core Principles
 
 **Set stocking** (also called continuous grazing) places livestock in a single paddock or pasture for an extended period—often the entire grazing season or year-round. Stocking rates remain fixed, and animals graze selectively, returning repeatedly to preferred species while avoiding less palatable plants.
 
-**Rotational grazing** divides pasture into multiple paddocks and moves livestock between them on a planned schedule. Rest periods between grazing events allow forage plants to recover. Stocking density within a paddock is higher than set stocking, but animals are moved before overgrazing occurs. See [[holistic-grazing-and-pasture-management]] for deeper planning frameworks.
+**Rotational grazing** divides pasture into multiple paddocks and moves livestock between them on a planned schedule. Rest periods between grazing events allow forage plants to recover. Stocking density within a paddock is higher than set stocking, but animals are moved before overgrazing occurs. See [[permaculture-grazing-and-pasture]] for deeper planning frameworks.
 
 ## Pasture Health Impacts
 
@@ -34,7 +34,7 @@ Set stocking concentrates animal traffic on preferred areas (near water, shade, 
 
 ### Root Depth and Regrowth Patterns
 
-Under continuous grazing, preferred species are grazed repeatedly before roots can replenish carbohydrate reserves, leading to shallow root systems and reduced drought resilience. Rotational systems allow rest periods that enable deep root growth and full energy recovery, improving both above-ground productivity and below-ground carbon inputs to [[the-soil-food-web]].
+Under continuous grazing, preferred species are grazed repeatedly before roots can replenish carbohydrate reserves, leading to shallow root systems and reduced drought resilience. Rotational systems allow rest periods that enable deep root growth and full energy recovery, improving both above-ground productivity and below-ground carbon inputs to [[query-what-is-the-soil-food-web-and-why-does-it-matter]].
 
 ### Overall Pasture Condition
 
@@ -83,7 +83,7 @@ Rotational grazing supports greater plant species diversity, which in turn suppo
 
 ### Carbon Sequestration
 
-The combination of deep root growth, rest periods, and manure distribution in rotational systems promotes significant soil organic carbon accumulation—making rotational grazing a key practice in [[regenerative-agriculture-overview]]. Set stocking, with its shallow root systems and soil compaction, offers minimal carbon sequestration potential.
+The combination of deep root growth, rest periods, and manure distribution in rotational systems promotes significant soil organic carbon accumulation—making rotational grazing a key practice in [[regenerative-agriculture]]. Set stocking, with its shallow root systems and soil compaction, offers minimal carbon sequestration potential.
 
 ### Water Infiltration and Quality
 
@@ -101,7 +101,7 @@ Moving from set stocking to rotational grazing should be gradual. Start with a s
 
 ## Hybrid Approaches: Adaptive Multi-Paddock Grazing
 
-Adaptive multi-paddock (AMP) grazing, promoted by [[holistic-grazing-and-pasture-management]] practitioners, combines the principles of rotational grazing with real-time decision-making based on pasture recovery, soil moisture, and animal performance. Rather than fixed schedules, animals are moved when paddock conditions indicate it is time—sometimes after hours, sometimes after weeks. AMP represents the most sophisticated evolution of rotational grazing, integrating ecological monitoring with livestock management.
+Adaptive multi-paddock (AMP) grazing, promoted by [[permaculture-grazing-and-pasture]] practitioners, combines the principles of rotational grazing with real-time decision-making based on pasture recovery, soil moisture, and animal performance. Rather than fixed schedules, animals are moved when paddock conditions indicate it is time—sometimes after hours, sometimes after weeks. AMP represents the most sophisticated evolution of rotational grazing, integrating ecological monitoring with livestock management.
 
 ## Summary Comparison
 

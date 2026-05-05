@@ -136,5 +136,5 @@ uplift before deeper physical relaxation.
 - [[gelato-cannabis]]
 - [[wedding-cake]]
 - [[girl-scout-cookies]]
-- [[sunset-sherbert-cannabis]]
+- sunset sherbert cannabis
 - [[og-kush]]

@@ -170,6 +170,6 @@ Propolis quality depends on:
 
 ## See Also
 
-- [[beekeeping-and-pollinator-conservation]] — Broader beekeeping management and pollinator ecology
-- [[bee-products-and-apitherapy]] — Full guide to all hive products and their uses
-- [[beneficial-insects-and-biological-pest-control]] — Integrated pest management including bee health
+- [[mycelium-running-conservation-biology-and-fungi]] — Broader beekeeping management and pollinator ecology
+- [[bee-feeding-and-fungal-pesticides]] — Full guide to all hive products and their uses
+- [[hamilton-beneficial-insects-and-biological-pest-control]] — Integrated pest management including bee health

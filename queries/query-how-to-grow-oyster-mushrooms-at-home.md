@@ -103,4 +103,6 @@ Prevention is always easier than treatment. Maintaining clean workspaces, using 
 
 ## See Also
 
+- [[query-how-to-grow-mushrooms-on-logs-at-home]]
+
 - [[query-how-to-grow-ashwagandha-at-home]]

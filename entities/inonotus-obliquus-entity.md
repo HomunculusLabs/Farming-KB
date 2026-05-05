@@ -160,6 +160,6 @@ Wild chaga is being overharvested in many regions due to surging commercial dema
 
 - [[inonotus-obliquus]] — related species entry
 - [[fomes-fomentarius]] — another birch polypore used medicinally
-- [[betulinic-acid]] — key bioactive triterpenoid
+- [[fish-amino-acid-faa]] — key bioactive triterpenoid
 - [[beta-glucans]] — immunomodulatory polysaccharides
-- [[birch]] — primary host tree genus
+- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]] — primary host tree genus

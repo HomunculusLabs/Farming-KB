@@ -134,6 +134,8 @@ Asia. At times, pepper was accepted as rent, tax, and dowry. Today,
 global pepper production exceeds 600,000 tonnes annually, and it
 remains the most traded spice by volume and value.
 ## See Also
+
+- [[piper-guineense-entity]]
 - [[cinnamomum-verum]]
 - [[zingiber-officinale]]
 - [[curcuma-longa]]

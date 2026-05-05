@@ -49,7 +49,7 @@ assumption of conventional and [[organic farming]]:
    rebound even stronger, creating a cycle of escalating chemical dependence.
 
 4. **No weeding** -- Weeds are not uprooted or poisoned. They are managed indirectly
-   through [[cover cropping]] with [[clover]] and strategic flooding, which suppresses
+   through [[cover cropping]] with [[white-clover-ground-cover]] and strategic flooding, which suppresses
    unwanted species without bare-soil disturbance. Fukuoka viewed weeds not as enemies
    but as indicators and contributors to soil health, provided they do not dominate.
 
@@ -60,10 +60,10 @@ assumption of conventional and [[organic farming]]:
 ## The Rice and Winter Grain Cycle
 
 Fukuoka's most celebrated practical achievement is his direct-seeded, no-tillage
-[[rice]] and winter grain rotation on [[Matsuyama]] flatland. The annual cycle
+[[jadam-rice-pesticide-program]] and winter grain rotation on [[Matsuyama]] flatland. The annual cycle
 proceeds as follows:
 
-- **Autumn:** While rice is still standing in the paddy, [[clover]] seed and winter
+- **Autumn:** While rice is still standing in the paddy, [[white-clover-ground-cover]] seed and winter
   grain (barley or wheat) are broadcast over the field. The rice ripens and is
   harvested by hand while the young grain shoots are already growing beneath,
   trodden underfoot during the harvest without harm.
@@ -98,7 +98,7 @@ lodging resistance than conventional cultivars grown under intensive management.
 ## Desert Revegetation and the Clay Pellet Method
 
 Fukuoka extended his principles beyond cultivated fields to ecological restoration,
-notably desert [[revegetation]]. His clay pellet method coats seeds of [[green manure]]
+notably desert [[desert-revegetation]]. His clay pellet method coats seeds of [[green manure]]
 trees (such as black wattle), clover, alfalfa, bur clover, grain, and vegetables in a
 layer of soil, then encases them in clay. These pellets protect seeds from desiccation
 and predation until rain triggers germination.
@@ -140,7 +140,7 @@ of control that characterizes conventional agriculture.
 
 Fukuoka's work profoundly influenced the global [[permaculture]] movement, the
 [[no-till agriculture]] movement, and ecological restoration practitioners worldwide.
-His emphasis on [[soil health]], [[biodiversity]], and minimal intervention anticipated
+His emphasis on [[soil health]], [[biodiversity-fungal-community-assembly]], and minimal intervention anticipated
 many principles later validated by [[regenerative agriculture]] research.
 
 *The One-Straw Revolution* (1975), his most widely read book, introduced these ideas

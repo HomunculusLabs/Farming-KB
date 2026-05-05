@@ -143,7 +143,9 @@ southeastern Russia, Mongolia, Arabia, Turkey, or many regions of Africa.
 This absence is almost certainly due to insufficient mycological
 exploration rather than genuine absence.
 
-## Related Topics
+## Related
+
+- [[psilocybe-global-biodiversity-southern-hemisphere-origin]] Topics
 
 - The global distribution maps and species lists are available in
   [[guzman-allen-gartz-global-psilocybe-biogeography]].

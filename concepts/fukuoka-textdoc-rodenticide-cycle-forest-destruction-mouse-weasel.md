@@ -135,4 +135,4 @@ nature carry on its affairs without his interference.
 - [[fukuoka-textdoc-no-cause-and-effect-in-nature]] for the philosophical stance on causation
 - [[fukuoka-textdoc-natural-order-microbial-ecology]] for microbial ecosystem balance
 - [[fukuoka-textdoc-pesticide-microbe-mutation-risk]] for microbial destabilization
-- [[fukuoka-textdoc-herbicide-resistant-weed-emergence]] for the weed resistance problem
+- [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]] for the weed resistance problem

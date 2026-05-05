@@ -133,7 +133,7 @@ genera than was historically appreciated:
 | Species | Distinguishing Features |
 |---|---|
 | [[pluteus-salicinus]] | Also psychoactive; on willow wood |
-| [[pluteus-atricapillus]] | Darker cap; less glaucous tinge |
+| [[pluteus-nigroviridis]] | Darker cap; less glaucous tinge |
 | Pluteus cervinus | Larger, brown; very common, inactive |
 | Pluteus leoninus | Bright yellow cap; distinctive color |
 | Pluteus romellii | Yellow cap; found on conifer wood |

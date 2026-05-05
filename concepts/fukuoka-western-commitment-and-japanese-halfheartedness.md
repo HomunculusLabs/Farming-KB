@@ -21,7 +21,7 @@ In "The Road Back to Nature," Masanobu Fukuoka draws a striking contrast between
 
 ## The Western Approach to Zen and Natural Living
 
-Fukuoka observed that many young Westerners who visited his farm had first stopped at [[Zen temples]] such as Eihei-ji or practiced [[zazen]] meditation elsewhere. A critical difference emerged in their attitudes. Westerners were willing to say clearly and unequivocally, "I don't understand." They would acknowledge that "nothing came of it and I don't understand it all, but since I do see that I've been traveling the wrong road up until now, I guess that, for better or worse, all I can do is to go on meditating."
+Fukuoka observed that many young Westerners who visited his farm had first stopped at [[Zen temples]] such as Eihei-ji or practiced zazen meditation elsewhere. A critical difference emerged in their attitudes. Westerners were willing to say clearly and unequivocally, "I don't understand." They would acknowledge that "nothing came of it and I don't understand it all, but since I do see that I've been traveling the wrong road up until now, I guess that, for better or worse, all I can do is to go on meditating."
 
 The persistence of this admission is remarkable. Rather than claiming enlightenment or understanding after a brief exposure, Western practitioners maintained their humility and continued the practice. Fukuoka describes this as a "very small distinction" but identifies it as "where the big difference with the Japanese lies."
 
@@ -55,7 +55,7 @@ The bamboo cup detail is significant. Fukuoka improvised vessels from the immedi
 
 ## The Paradox of Cultural Exchange
 
-Fukuoka frames this dynamic as an ironic cultural exchange. While the Japanese were busy westernizing, adopting bread-based and meat-heavy diets that distorted their sense of taste, Westerners were turning toward Eastern philosophy and [[vegetarianism]]. The Japanese had "lost their simplicity and reason with their minds," while Westerners maintained "this wonderful simplicity of heart that allows them to pursue these knowing full well that what they are doing is little more than mere imitation."
+Fukuoka frames this dynamic as an ironic cultural exchange. While the Japanese were busy westernizing, adopting bread-based and meat-heavy diets that distorted their sense of taste, Westerners were turning toward Eastern philosophy and vegetarianism. The Japanese had "lost their simplicity and reason with their minds," while Westerners maintained "this wonderful simplicity of heart that allows them to pursue these knowing full well that what they are doing is little more than mere imitation."
 
 He suggests that even if Western practitioners have "little more than a cursory understanding of Buddhist thought and philosophy," they are "living a Buddhist life" through their dietary and farming practices. The Japanese, who have access to the full tradition, have largely abandoned its practical application while maintaining only its surface forms. The Westerner who practices zazen without understanding it is, in Fukuoka's view, closer to the truth than the Japanese person who understands it intellectually but does not practice it.
 
@@ -77,7 +77,7 @@ Fukuoka expresses admiration for this quality: "I cannot help admiring the abili
 
 Fukuoka's observations fit within a larger pattern of postwar Japanese cultural hybridization. The Japanese education system, rebuilt under American occupation, emphasized Western science and rationalism. Traditional agricultural knowledge, passed down through generations of village practice, was devalued as backward and unscientific. Young people left farming villages for cities, and those who remained adopted chemical agriculture as the modern, progressive approach.
 
-The result is a culture that has access to both traditional and modern knowledge but commits fully to neither. The Japanese farmer applies chemical fertilizers according to soil test recommendations while maintaining token [[organic]] practices. The Japanese eater enjoys traditional foods while consuming increasing quantities of Western-style processed food. Neither tradition is practiced in its full integrity, and the compromises produce results that are inferior to either pure approach.
+The result is a culture that has access to both traditional and modern knowledge but commits fully to neither. The Japanese farmer applies chemical fertilizers according to soil test recommendations while maintaining token [[organic-farming-methods-comparison]] practices. The Japanese eater enjoys traditional foods while consuming increasing quantities of Western-style processed food. Neither tradition is practiced in its full integrity, and the compromises produce results that are inferior to either pure approach.
 
 Fukuoka sees this as a specifically Japanese pathology, but the pattern may be more universal. Any culture undergoing rapid modernization faces the challenge of deciding what to keep and what to discard. The Japanese experience offers a cautionary example: when compromise becomes the default mode, both the old wisdom and the new knowledge are impoverished.
 
@@ -115,5 +115,5 @@ What distinguishes the successful practitioner from the unsuccessful one, in Fuk
 - [[fukuoka-natural-farming-global-influence]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-disappearance-natural-diet]]
-- [[fukuoka-natural-farming-spiritual-aspects]]
+- [[fukuoka-natural-farming-spiritual-light]]
 - [[fukuoka-road-spiritual-aspects-farming]]

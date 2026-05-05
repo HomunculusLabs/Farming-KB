@@ -135,6 +135,6 @@ neurotropic Conocybe species are toxic.
 - [[conocybe-siligineoides]]
 
 - [[neurotropic-fungi-classification]]
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[gymnopilus-genus-neurotropic-species]]
 - [[copelandia-panaeolus-genera]]

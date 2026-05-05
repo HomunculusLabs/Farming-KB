@@ -128,6 +128,8 @@ The neurotropic species tend to be **large and conspicuous**, making them among 
 
 ## See Also
 
+- [[panaeolus-panaeolina-neurotropic-species]]
+
 - [[Psilocybe Genus Overview]]
 - [[Neurotropic Fungi Classification]]
 - [[Copelandia Genus]]

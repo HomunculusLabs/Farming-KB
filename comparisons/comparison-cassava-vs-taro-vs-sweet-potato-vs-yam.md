@@ -132,7 +132,7 @@ Sweet potato has the lowest overall labor requirement, making it ideal for small
 
 ## See Also
 
-- [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]]
-- [[growing-staple-crops-grains-beans-and-tubers]]
-- [[nut-trees-vs-grain-farming-for-caloric-staple-production]]
-- [[arid-vs-tropical-permaculture]]
+- [[query-how-do-i-choose-between-cassava-taro-sweet-potato-and-yam-for-my-tropical-garden]]
+- [[solomon-growing-beans-and-peas]]
+- [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
+- [[comparison-arid-vs-tropical-permaculture]]

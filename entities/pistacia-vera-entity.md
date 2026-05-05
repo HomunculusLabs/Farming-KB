@@ -125,8 +125,8 @@ Productive lifespan exceeds 100 years in suitable conditions.
 
 ## See Also
 - Pecan (Carya illinoinensis)
-- [[juglans-regia-entity]]
+- [[juglans-regia]]
 - Persimmon (Diospyros virginiana)
-- [[morus-alba-entity]]
+- [[morus-alba]]
 - [[permaculture-pistachio-guide]] — detailed pistachio cultivation guide
 - [[windbreak-shelterbelt-species-selection]] — shelterbelt species for orchard protection

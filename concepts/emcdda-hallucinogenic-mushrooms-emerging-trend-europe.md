@@ -36,12 +36,12 @@ ranged from less than 1% to 8%. The highest prevalence estimates were reported
 in the Netherlands, Czech Republic, UK, Germany, and Ireland, while the lowest
 were in Lithuania, Hungary, and France. A 2003 survey of French 17 to 18 year
 olds reported 4.3% lifetime prevalence, 2.9% last-year prevalence, and 1% last
-month prevalence. Prevalence remained considerably lower than for [[cannabis]]
+month prevalence. Prevalence remained considerably lower than for cannabis
 across all surveyed populations.
 
 The ESPAD school survey of 15 to 16 year olds across 22 EU member states
 revealed that lifetime prevalence of hallucinogenic mushroom use equaled or
-exceeded lifetime [[ecstasy]] use in nine countries. The Czech Republic,
+exceeded lifetime [[ecstasy-mdma-guide]] use in nine countries. The Czech Republic,
 Netherlands, France, and Belgium showed the highest school-age prevalence.
 Three countries, Cyprus, Finland, and Romania, reported zero lifetime
 prevalence among this age group. Club setting surveys consistently showed

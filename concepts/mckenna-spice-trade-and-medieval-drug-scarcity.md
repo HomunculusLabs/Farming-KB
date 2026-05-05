@@ -118,4 +118,4 @@ This template continues to shape our world, from the opium wars to the modern wa
 [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
 [[mckenna-dominator-vs-partnership-society-model]]
 [[mckenna-cannabis-culture-history]]
-[[mckenna-dominance-culture-and-ego]]
+[[mckenna-food-of-the-gods-dominance-culture-and-ego]]

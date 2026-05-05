@@ -109,11 +109,13 @@ The growing field of psychedelic integration therapy also draws on McKenna's ins
 
 ## See Also
 
+- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
+
 - [[DMT-entheogenic-properties]] for pharmacological details on dimethyltryptamine
 - [[psilocybin-pharmacology]] for the chemistry and effects of psilocybin
-- [[ayahuasca-brew-preparation]] for the Amazonian DMT-containing preparation
-- [[psychedelic-phenomenology]] for broader discussions of hallucinogen-induced experiences
-- [[self-transforming-machine-elves]] for the entity encounter phenomenon
-- [[stropharia-cubensis-cultivation]] for practical mushroom growing methods McKenna developed
-- [[invisible-landscape-mckenna]] for the full cosmological theory from McKenna's earlier work
-- [[novelty-theory-timewave-zero]] for McKenna's mathematical model of historical change
+- [[ayahuasca-preparation-and-ceremony]] for the Amazonian DMT-containing preparation
+- [[psychedelic-mushroom-decriminalization]] for broader discussions of hallucinogen-induced experiences
+- [[dmt-self-transforming-machine-elves-mckenna]] for the entity encounter phenomenon
+- [[gartz-tryptamine-supplemented-cubensis-cultivation]] for practical mushroom growing methods McKenna developed
+- [[pdc-invisible-structures-and-social-design]] for the full cosmological theory from McKenna's earlier work
+- [[tompkins-goethe-plant-metamorphosis-evolutionary-theory]] for McKenna's mathematical model of historical change

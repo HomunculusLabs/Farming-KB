@@ -145,6 +145,6 @@ over linguini.
 ## See Also
 
 - [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
-- [[bloomfield-ascobolus-ascus-cannon-dung-fungi]]
+- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
 - [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
-- [[bloomfield-false-morel-gyromitrin-volatile-toxin]]
+- [[bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution]]

@@ -101,6 +101,8 @@ Shulgin, A. and Shulgin, A. (1997). Tryptamines I Have Known and Loved: The Chem
 
 ## See Also
 
+- [[5-meo-mipt-entity]]
+
 - [[5-meo-mipt-entity-tihkal]] - the active 5-methoxy analogue
 - [[4-ho-mipt-entity-tihkal]] - the active 4-hydroxy analogue
 - [[4-meo-mipt-entity-tihkal]] - the moderately active 4-methoxy analogue

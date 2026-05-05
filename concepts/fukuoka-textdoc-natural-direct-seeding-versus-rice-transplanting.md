@@ -124,10 +124,10 @@ truly solved unless a common solution is found for all areas.
 
 ## See Also
 
-- [[direct-seeding-rice-barley-succession-evolution]]
-- [[creating-rice-paddy-natural-methods]]
-- [[overwintering-rice-seed-clay-pellet-method]]
-- [[straw-mulching-rice-barley-cropping]]
-- [[natural-paddy-farm-establishment-method]]
-- [[paddy-levee-construction-water-management]]
-- [[critique-inductive-deductive-reasoning-agriculture]]
+- [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
+- [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
+- [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
+- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
+- [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]
+- [[fukuoka-textdoc-paddy-levee-construction-water-management]]
+- [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]]

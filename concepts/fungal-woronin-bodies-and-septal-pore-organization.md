@@ -51,6 +51,8 @@ The phylogenetic distribution of Woronin bodies and their associated genes has a
 
 ## See Also
 
+- [[woronin-bodies-multicellular-fungal-lifestyle]]
+
 - [[gadd-woronin-bodies-hyphal-septation]]
 
 [[fungal-hyphal-organization]]

@@ -144,4 +144,4 @@ with negligible psychoactivity.
 - [[salvinorin-a]]
 - [[salvia-divinorum]]
 - [[salvia-divinorum-entity]]
-- [[kappa-opioid-receptor]]
+- kappa opioid receptor

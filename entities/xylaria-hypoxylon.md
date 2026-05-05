@@ -124,7 +124,7 @@ Cultivation is primarily of research interest for studying secondary metabolite 
 
 ## See Also
 
-- [[xylaria-polymorpha]] — Dead Man's Fingers, a related and more robust Xylaria species used in traditional medicine
+- [[xylaria-polymorpha-entity]] — Dead Man's Fingers, a related and more robust Xylaria species used in traditional medicine
 - [[trametes-versicolor]] — Turkey Tail, another common wood-decomposing fungus with medicinal properties
 - [[armillaria-mellea]] — Honey Fungus, a contrasting pathogenic wood decomposer
 - [[fungal-ecology]] — Comprehensive overview of fungal roles in ecosystem processes

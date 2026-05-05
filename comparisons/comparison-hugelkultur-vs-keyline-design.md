@@ -22,18 +22,18 @@ sources:
 
 ## Overview
 
-Hugelkultur and Keyline Design are two of the most influential land-management techniques in the [[syntropic-agriculture-design-and-practice|regenerative agriculture]] toolkit. Both aim to improve water retention, build soil, and increase landscape productivity, but they operate at fundamentally different scales and use radically different mechanisms. Hugelkultur is a localized, organic-matter-intensive soil-building technique originating from Eastern European and [[sepp-holzer-permaculture-and-rebel-farming|Sepp Holzer's]] Alpine permaculture practice. Keyline Design, developed by Australian engineer P.A. Yeomans in the 1950s, is a whole-farm landscape planning system that uses contour-based water distribution to hydrate broadacre land. Understanding where each excels — and where they overlap — is essential for permaculture designers managing diverse properties.
+Hugelkultur and Keyline Design are two of the most influential land-management techniques in the [[query-what-is-syntropic-agriculture-and-how-do-i-start|regenerative agriculture]] toolkit. Both aim to improve water retention, build soil, and increase landscape productivity, but they operate at fundamentally different scales and use radically different mechanisms. Hugelkultur is a localized, organic-matter-intensive soil-building technique originating from Eastern European and [[sepp-holzer-soil-fertility-and-green-manure|Sepp Holzer's]] Alpine permaculture practice. Keyline Design, developed by Australian engineer P.A. Yeomans in the 1950s, is a whole-farm landscape planning system that uses contour-based water distribution to hydrate broadacre land. Understanding where each excels — and where they overlap — is essential for permaculture designers managing diverse properties.
 
 ## What is Hugelkultur
 
-Hugelkultur (German for "mound culture") involves constructing raised beds or mounds from woody debris, branches, logs, and organic matter, topped with soil and compost. As the buried wood decomposes, it acts as a sponge — absorbing and slowly releasing water, providing aeration, and fostering a rich [[composting-and-soil-biology|soil biology]] including fungal networks and beneficial microorganisms.
+Hugelkultur (German for "mound culture") involves constructing raised beds or mounds from woody debris, branches, logs, and organic matter, topped with soil and compost. As the buried wood decomposes, it acts as a sponge — absorbing and slowly releasing water, providing aeration, and fostering a rich [[hamilton-soil-biology-and-microorganisms|soil biology]] including fungal networks and beneficial microorganisms.
 
 Key characteristics:
 
 - **Scale:** Individual garden beds to small field-scale mounds (typically 0.5–2 m tall)
 - **Materials required:** Abundant woody debris, topsoil, compost, mulch
 - **Water role:** Internal sponge effect; holds 5–10× its weight in water
-- **Soil building:** Rapid organic matter incorporation; supports [[biochar-in-regenerative-agriculture|biochar]] amendment within mounds
+- **Soil building:** Rapid organic matter incorporation; supports [[biochar-in-agriculture|biochar]] amendment within mounds
 - **Best suited for:** Temperate to continental climates, homesteads, market gardens, food forests
 - **Typical dimensions:** 1–2 m wide, 0.5–1.5 m tall, any length; often built along contour on slopes
 - **Wood selection:** Deciduous hardwoods decompose faster and are preferred; avoid allelopathic species (e.g., black walnut) and highly rot-resistant woods (e.g., cedar, locust) for the core — reserve those for surface mulch or structural elements
@@ -46,7 +46,7 @@ Key characteristics:
 - Not practical on very steep slopes (>30%) without terracing or additional earthworks
 - Wood-heavy beds can create excessive warmth in hot climates, stressing cool-season crops
 
-Hugelkultur beds are often paired with [[sheet-mulching-and-no-dig-gardening|sheet mulching]] on the surface and interplanted with [[cover-crops-and-green-manures|cover crops]] during establishment. See also [[swale-design-vs-hugelkultur]] for a direct comparison with swale-based water management.
+Hugelkultur beds are often paired with [[urban-rooftop-gardening-and-sheet-mulching|sheet mulching]] on the surface and interplanted with [[mollison-designers-cover-crops-and-green-manure-species|cover crops]] during establishment. See also [[comparison-swale-design-vs-hugelkultur]] for a direct comparison with swale-based water management.
 
 ## What is Keyline Design
 
@@ -71,7 +71,7 @@ Key characteristics:
 - May conflict with existing infrastructure (roads, buildings, fences) that interrupt contour lines
 - In heavy clay soils, repeated deep ripping without rest periods can damage soil structure
 
-Keyline is a keystone element of [[water-harvesting-techniques-comparison|water harvesting strategies]] and is frequently integrated with [[syntropic-agriculture-design-and-practice|syntropic agriculture]] planning for large-scale tree-crop systems.
+Keyline is a keystone element of [[water-harvesting-techniques-comparison|water harvesting strategies]] and is frequently integrated with [[query-what-is-syntropic-agriculture-and-how-do-i-start|syntropic agriculture]] planning for large-scale tree-crop systems.
 
 ## Side-by-Side Comparison
 
@@ -88,7 +88,7 @@ Keyline is a keystone element of [[water-harvesting-techniques-comparison|water 
 | [[composting-and-soil-biology\|Soil biology]] | Intense fungal and microbial activity | Improved through deeper aerobic root zones |
 | **Longevity** | 5–20+ years (as wood decomposes) | Indefinite with periodic maintenance |
 | **Ideal terrain** | Flat to moderate slope | Undulating, valley-ridge topography |
-| **Best paired with** | [[cover-crops-and-green-manures]], [[sheet-mulching-and-no-dig-gardening]] | [[syntropic-agriculture-design-and-practice]], rotational grazing |
+| **Best paired with** | [[mollison-designers-cover-crops-and-green-manure-species]], [[urban-rooftop-gardening-and-sheet-mulching]] | [[query-what-is-syntropic-agriculture-and-how-do-i-start]], rotational grazing |
 
 ## When to Use Each
 
@@ -118,7 +118,7 @@ A practical integration approach:
 2. Establish Keyline cultivation and tree-planting corridors for broadacre hydration
 3. Locate intensive growing zones within well-hydrated portions of the landscape
 4. Build hugelkultur beds in those zones, oriented on contour to support Keyline flow
-5. Apply [[cover-crops-and-green-manures]] and [[sheet-mulching-and-no-dig-gardening]] across both systems
+5. Apply [[mollison-designers-cover-crops-and-green-manure-species]] and [[urban-rooftop-gardening-and-sheet-mulching]] across both systems
 
 ## Key Differences Summary
 

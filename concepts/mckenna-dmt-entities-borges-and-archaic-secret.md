@@ -115,7 +115,7 @@ He notes that in the DMT state, "the language is actually beheld," meaning it be
 ## See Also
 
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-food-of-the-gods-tryptamine-dimension]]
+- [[mckenna-food-gods-tryptamine-dimension]]
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[dmt-black-hole-effect-and-shamanic-practice]]
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]

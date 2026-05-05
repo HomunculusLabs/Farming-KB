@@ -127,6 +127,6 @@ published as of 2026.
 - [[Mimosa tenuiflora]]
 - [[Calea zacatechichi]]
 - [[Entada rheedii]]
-- [[oneirogens]]
-- [[ethnobotany]]
-- [[saponins]]
+- oneirogens
+- [[ethnobotany-of-psychedelic-fungi]]
+- saponins

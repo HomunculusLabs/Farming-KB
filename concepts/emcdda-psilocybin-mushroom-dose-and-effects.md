@@ -137,4 +137,6 @@ Flashbacks can occur, although less frequently than with LSD.
 
 ## See Also
 
+- [[dose-effects-health-risks-psilocybin]]
+
 - [[emcdda-hallucinogenic-mushroom-dose-effects]]

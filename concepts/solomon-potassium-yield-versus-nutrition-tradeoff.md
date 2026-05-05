@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Steve Solomon identifies a critical but widely ignored inverse relationship between [[potassium]] levels in soil and the nutritional quality of harvested vegetables. While boosting soil potassium increases bulk yield, it does so primarily by increasing starch and fiber content at the expense of protein, vitamins, enzymes, and [[trace minerals]]. Solomon argues that most commercial growers, whether chemical or organic, push potassium to high levels for profit, producing vegetables that are calorically larger but nutritionally inferior.
+Steve Solomon identifies a critical but widely ignored inverse relationship between [[potassium-plant-nutrition]] levels in soil and the nutritional quality of harvested vegetables. While boosting soil potassium increases bulk yield, it does so primarily by increasing starch and fiber content at the expense of protein, vitamins, enzymes, and [[trace minerals]]. Solomon argues that most commercial growers, whether chemical or organic, push potassium to high levels for profit, producing vegetables that are calorically larger but nutritionally inferior.
 
 ## The Yield-Nutrition Inverse Relationship
 
@@ -29,7 +29,7 @@ The practical consequence for home gardeners, who grow food for nutrition rather
 
 ## How Potassium Drives Yield
 
-[[Potassium]] (K) is one of the three primary [[macronutrients]] along with nitrogen and phosphorus. It plays essential roles in plant physiology: regulating stomatal opening, activating enzymes, maintaining turgor pressure, and facilitating water transport through the plant. Adequate potassium is necessary for healthy plant growth and cannot be omitted from a fertility program.
+[[Potassium]] (K) is one of the three primary [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] along with nitrogen and phosphorus. It plays essential roles in plant physiology: regulating stomatal opening, activating enzymes, maintaining turgor pressure, and facilitating water transport through the plant. Adequate potassium is necessary for healthy plant growth and cannot be omitted from a fertility program.
 
 However, when potassium is supplied in excess, plants respond by accumulating it in their tissues. This drives cellular expansion and increases water uptake, resulting in larger cells and greater overall plant mass. The effect is most visible in root crops and leafy vegetables, where additional potassium produces noticeably larger roots and more voluminous leaves.
 
@@ -41,19 +41,19 @@ Solomon identifies why this tradeoff is systematically ignored in commercial agr
 
 This creates a perverse incentive structure. The grower who produces nutritionally superior but smaller vegetables earns less money than the grower who produces nutritionally inferior but larger ones. The consumer cannot distinguish between them by appearance and has no practical way to assess nutritional quality at the point of purchase. The market rewards weight, not nutrition.
 
-Organic growers are not exempt from this dynamic. Solomon notes that "even organic growers" push potassium, often through heavy applications of [[compost]] or [[manure]] that are rich in potassium relative to other nutrients. The organic label may indicate absence of synthetic chemicals but provides no guarantee of superior nutritional density. A consumer buying organic produce at a premium price may be purchasing larger, more potassium-diluted vegetables rather than more nutritious ones.
+Organic growers are not exempt from this dynamic. Solomon notes that "even organic growers" push potassium, often through heavy applications of compost or [[manure-quality-variability-and-fertilizer-value]] that are rich in potassium relative to other nutrients. The organic label may indicate absence of synthetic chemicals but provides no guarantee of superior nutritional density. A consumer buying organic produce at a premium price may be purchasing larger, more potassium-diluted vegetables rather than more nutritious ones.
 
 ## Nutritional Decline in Modern Vegetables
 
 Solomon connects the potassium yield-nutrition tradeoff to the broader phenomenon of declining nutritional quality in fruits and vegetables documented over the past several decades. Research cited from the USDA and Life Extension Magazine shows that the mineral content of common vegetables has declined substantially, with some nutrients decreasing by as much as 25 to 33 percent over the last 25 years.
 
-While multiple factors contribute to this decline, including [[soil-mineral-depletion]], the selection of commercial varieties for yield and shipping qualities rather than nutritional content, and the harvesting of produce before full ripeness, the systematic over-application of potassium is a significant and often overlooked contributor. The decline has been most pronounced for vitamins and minerals, which are precisely the nutrients displaced by potassium-driven starch and fiber accumulation.
+While multiple factors contribute to this decline, including [[solomon-soil-mineral-depletion]], the selection of commercial varieties for yield and shipping qualities rather than nutritional content, and the harvesting of produce before full ripeness, the systematic over-application of potassium is a significant and often overlooked contributor. The decline has been most pronounced for vitamins and minerals, which are precisely the nutrients displaced by potassium-driven starch and fiber accumulation.
 
 This nutritional decline is not merely a matter of academic interest. Solomon frames it as a public health concern: vegetables that were once reliable sources of essential minerals and vitamins have become progressively less nourishing, contributing to widespread mineral deficiencies even among people who eat diets rich in fresh produce.
 
 ## The COF Approach to Potassium Management
 
-The [[complete-organic-fertilizer]] formula that Solomon developed is explicitly designed to avoid the potassium-yield-nutrition problem. The COF recipe provides balanced nutrition without excessive potassium, producing vegetables that are nutritionally dense rather than merely bulky. Solomon reports that with this approach, "my garden has never grown so well; the food never tasted so good from our food."
+The [[complete-organic-fertilizer-recipes]] formula that Solomon developed is explicitly designed to avoid the potassium-yield-nutrition problem. The COF recipe provides balanced nutrition without excessive potassium, producing vegetables that are nutritionally dense rather than merely bulky. Solomon reports that with this approach, "my garden has never grown so well; the food never tasted so good from our food."
 
 The COF formula includes potassium only through its component ingredients. Seed meals contain moderate potassium. Kelp meal contains potassium in balance with trace minerals. No additional potassium source such as sulfate of potash or greensand is included. This deliberate restraint on potassium ensures that yield gains come from genuine improvements in overall soil fertility rather than from potassium-driven cellular expansion.
 
@@ -63,7 +63,7 @@ Solomon acknowledges that a gardener "could sizably increase bulk yield by boost
 
 For home gardeners growing food for personal consumption rather than market sale, the economics of the potassium tradeoff are reversed. The gardener's interest is in maximizing nutrition per unit of garden space and per unit of labor, not in maximizing weight of harvest. This means that deliberately limiting potassium, while ensuring adequate supplies of all other nutrients, is the rational strategy.
 
-Gardeners should be cautious with amendments that are primarily potassium sources. [[Wood ashes]], while a traditional amendment widely recommended in gardening literature, are very high in potassium and can push soil levels beyond what is optimal for nutritional quality. Similarly, heavy applications of [[compost]] or [[manure]], which contain significant potassium, can accumulate excess potassium over time.
+Gardeners should be cautious with amendments that are primarily potassium sources. [[Wood ashes]], while a traditional amendment widely recommended in gardening literature, are very high in potassium and can push soil levels beyond what is optimal for nutritional quality. Similarly, heavy applications of compost or [[manure-quality-variability-and-fertilizer-value]], which contain significant potassium, can accumulate excess potassium over time.
 
 The challenge is that potassium is easy to oversupply and difficult to remove from soil. Unlike nitrogen, which leaches readily, or phosphorus, which becomes fixed in soil minerals, potassium can persist in plant-available forms for years. A few seasons of excessive potassium application can create a long-term nutritional deficit that cannot be quickly corrected.
 
@@ -75,7 +75,7 @@ Solomon's broader critique of [[soil-testing]] in organic gardens reinforces thi
 
 ## Balancing Potassium with Calcium
 
-One of the subtler aspects of potassium management is its interaction with [[calcium]]. High potassium levels can interfere with calcium uptake by plant roots, even when soil calcium is adequate. This creates a double problem: excess potassium dilutes nutritional content while simultaneously reducing calcium availability, which is one of the most important minerals for human health.
+One of the subtler aspects of potassium management is its interaction with [[calcium-accumulators-and-oak-leaves]]. High potassium levels can interfere with calcium uptake by plant roots, even when soil calcium is adequate. This creates a double problem: excess potassium dilutes nutritional content while simultaneously reducing calcium availability, which is one of the most important minerals for human health.
 
 The COF formula's inclusion of multiple calcium sources (agricultural lime, dolomitic lime, and gypsum) helps maintain calcium availability even in the presence of moderate potassium. The balanced ratio ensures that calcium uptake is not competitively inhibited by potassium. Solomon's overall soil management approach emphasizes that all nutrients must be kept in proper balance, with none allowed to dominate at the expense of others.
 
@@ -99,7 +99,7 @@ One of the most challenging aspects of potassium management is that excess potas
 
 This persistence means that gardeners who have inherited soils with historically high potassium applications, whether from previous owners who used synthetic fertilizers or from heavy manuring, may face a long correction period. Solomon's recommendation to deliberately limit potassium is easier to implement from the start than to correct after the fact. Gardeners starting new plots should be conservative with potassium from the beginning.
 
-Common potassium-rich amendments that gardeners should use sparingly include [[wood ashes]], which can contain 3 to 7 percent potassium; [[greensand]], a mined mineral deposit containing about 5 to 6 percent potassium; and [[kelp meal]], which while valuable for its trace mineral content also contributes significant potassium. Even repeated applications of compost, which typically contains about 0.5 to 1 percent potassium, can accumulate to problematic levels over many seasons.
+Common potassium-rich amendments that gardeners should use sparingly include [[wood ashes]], which can contain 3 to 7 percent potassium; greensand, a mined mineral deposit containing about 5 to 6 percent potassium; and [[kelp meal]], which while valuable for its trace mineral content also contributes significant potassium. Even repeated applications of compost, which typically contains about 0.5 to 1 percent potassium, can accumulate to problematic levels over many seasons.
 
 ## Key Considerations
 

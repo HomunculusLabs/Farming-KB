@@ -142,7 +142,7 @@
    167|- [[fukuoka-textdoc-happy-hill-rice-strain-world-food]]
    168|- [[fukuoka-textdoc-clay-pellet-seed-coating-direct-seeding]]
    169|- [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
-   170|- [[fukuoka-textdoc-greeening-deserts-plant-irrigation]]
+   170|- [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
    171|- [[fukuoka-textdoc-laying-waste-land-sea]]
    172|- [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]
    173|- [[fukuoka-textdoc-no-cause-and-effect-in-nature]]

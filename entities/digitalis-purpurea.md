@@ -145,5 +145,5 @@ it. The seeds are too small to be significant food for birds.
 
 ## See Also
 
-- [[strophanthus-kombe]] · [[convallaria-majalis]] · [[nerium-oleander]]
-- [[aconitum]] · [[taxus-baccata]]
+- strophanthus kombe · convallaria majalis · nerium oleander
+- aconitum · taxus baccata

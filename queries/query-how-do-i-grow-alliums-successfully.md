@@ -133,4 +133,4 @@ Proper curing is essential for storage life. The goal is to dry the outer wrappe
 
 ---
 
-*See also: [[topic-alliums]] · [[comparison-hardneck-vs-softneck-garlic]]*
+*See also: [[alliums-growing-guide]] · [[comparison-hardneck-vs-softneck-garlic]]*

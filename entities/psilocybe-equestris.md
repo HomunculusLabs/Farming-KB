@@ -144,7 +144,7 @@ some countries and municipalities have decriminalized or deprioritized
 enforcement for personal possession of psilocybin mushrooms.
 ## See Also
 - [[psilocybe-semilanceata]]
-- [[psilocybe-pelliculosa]]
+- [[psilocybe-pelliculosa-profile]]
 - [[psilocybe-strictipes]]
 - [[psilocybe-cyanescens]]
 - [[psilocybe-azurescens]]

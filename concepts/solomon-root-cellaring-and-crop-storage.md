@@ -89,6 +89,8 @@ Root Cellaring by Mike and Nancy Bubel is an excellent book on this subject that
 Solomon notes that he has spent most of his adult life in climates where winter storage was not essential -- in the tropics and subtropics, vegetables grow 12 months a year. But for self-sufficient homesteaders in temperate climates, root cellaring is one of the most important food preservation skills, requiring no electricity or processing and maintaining food quality far better than canning or freezing.
 
 ## Related
+
+- [[solomon-cof-ingredient-roles-and-sourcing]]
 - [[solomon-growing-root-crops-guide]]
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-growing-brassicas-guide]]

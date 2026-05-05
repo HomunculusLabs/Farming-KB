@@ -116,8 +116,8 @@ Bill Mollison, co-originator of permaculture, acknowledged Fukuoka's work as a k
 
 ## See Also
 
-- [[no-till-farming-methods]] for modern implementations of reduced-tillage agriculture
-- [[cover-cropping-strategies]] for living mulch and green manure approaches
-- [[fukuoka-clay-pellet-seeding]] for practical details on seed ball preparation
+- [[organic-farming-methods-comparison]] for modern implementations of reduced-tillage agriculture
+- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] for living mulch and green manure approaches
+- [[fukuoka-textdoc-clay-pellet-seed-coating-direct-seeding]] for practical details on seed ball preparation
 - [[natural-farming-vs-organic-farming]] for a comparison of these approaches
-- [[happy-hill-rice-variety]] for details on Fukuoka's high-yielding rice strain
+- [[fukuoka-happy-hill-rice-strain]] for details on Fukuoka's high-yielding rice strain

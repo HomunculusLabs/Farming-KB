@@ -137,3 +137,7 @@ Fermented plant extracts work best as part of an integrated fertility program:
 7. Strain through cheesecloth into a clean bottle
 8. Dilute 1:500 for foliar spray, 1:1000 for soil drench
 9. Apply every 10 to 14 days during flowering stage
+
+## See Also
+
+- [[brassinosteroid-natural-occurrence-plant-kingdoms]]

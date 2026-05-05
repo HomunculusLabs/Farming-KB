@@ -79,7 +79,9 @@ Fungi connect plant residues, soil organisms, and nutrient cycling. Their value
 in a farming system often comes from decomposition, soil aggregation, biological
 competition, and habitat creation as much as from harvestable fruiting bodies.
 
-## Related Concepts
+## Related
+
+- [[bloomfield-sudden-oak-death-phytophthora-species-diversity]] Concepts
 
 - [[psilocybe-azurescens-profile]] -- the most potent known species
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora

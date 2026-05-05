@@ -123,7 +123,9 @@ For detailed instructions on brewing compost tea, see [[query-how-to-make-compos
 
 At the end of each growing season, remove dead plant material and either compost it or chop and drop it directly onto the bed surface. Add a layer of finished compost and optionally cover with a tarp or heavy mulch to protect soil biology over winter. Avoid leaving bare soil exposed to rain and wind, which erodes nutrients and disrupts beneficial microbial networks.
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-build-with-hempcrete]] Questions
 - [[query-how-to-build-healthy-garden-soil]]
 - [[query-what-is-hugelkultur-and-how-do-i-build-a-bed]]
 - [[query-how-to-make-compost-tea-for-my-plants]]

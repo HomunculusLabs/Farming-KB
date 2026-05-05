@@ -121,6 +121,8 @@ Fukuoka's method was studied at a large number of agricultural testing stations 
 
 ## See Also
 
+- [[no-tillage-rice-barley-succession-cropping]]
+
 - [[Four Principles of Natural Farming]]
 - [[Clay Pellet Seed Broadcasting]]
 - [[Natural Farming vs Scientific Agriculture]]

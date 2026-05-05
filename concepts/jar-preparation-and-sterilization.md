@@ -141,6 +141,8 @@ operation, as pressure canners can be dangerous if used incorrectly.
 
 ## See Also
 
+- [[pf-tek-substrate-jar-preparation-and-steam-sterilization]]
+
 - [[pf-substrate-formula]]
 - [[pf-tek-overview-and-history]]
 - [[inoculation-technique-and-alcohol-flaming]]

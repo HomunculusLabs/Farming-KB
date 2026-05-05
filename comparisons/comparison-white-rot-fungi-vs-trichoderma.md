@@ -132,3 +132,7 @@ Trichoderma-based biocontrol products are marketed worldwide under various trade
 While these fungi serve different primary functions, their capabilities can be complementary in integrated systems. White rot fungi can precondition lignocellulosic crop residues, making nutrients more accessible to subsequent decomposers, while Trichoderma protects plant roots from pathogens in the same soil environment. In some agricultural waste management scenarios, white rot fungi initiate the breakdown of woody residues that Trichoderma subsequently completes as the substrate becomes less recalcitrant.
 
 However, direct competition can also occur between these groups. For more on this dynamic, see [[trichoderma-forest-green-mold-guide]] which details cases where aggressive Trichoderma colonization interferes with mushroom cultivation, a direct conflict between these two fungal groups in commercial settings. Understanding both the cooperative and competitive interactions between these fungi is essential for designing effective integrated management strategies in agriculture and forestry.
+
+## See Also
+
+- [[comparison-trichoderma-vs-bacillus]]

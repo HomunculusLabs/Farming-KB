@@ -87,4 +87,7 @@ should be redesigned or kept experimental.
 
 ## Related
 
+- [[fungal-pheromones]]
+- [[fungal-pheromones-sexual-reproduction]]
+
 - [[mushroom-cultivation-basics]]

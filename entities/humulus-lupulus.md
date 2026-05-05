@@ -140,6 +140,6 @@ emerging permaculture applications as a fast-growing vertical element.
 - [[cannabis-sativa]] — sister genus in Cannabaceae with overlapping
   phytochemistry
 - [[valeriana-officinalis]] — combined with hops in traditional sleep remedies
-- [[piper-nigrum]] — complementary bittering and aromatic spice
+- [[piper-nigrum-entity]] — complementary bittering and aromatic spice
 - [[nepeta-cataria]] — fellow Lamiaceae sedative herb
 - [[melissa-officinalis]] — calming companion herb for sleep formulations

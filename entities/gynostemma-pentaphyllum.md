@@ -132,8 +132,8 @@ sources:
 
 ## See Also
 - [[panax-ginseng]] — Ginsenoside structural analogues
-- [[adaptogens]] — Stress-modulating herb category
-- [[cucurbitaceae]] — Botanical family
+- adaptogens — Stress-modulating herb category
+- cucurbitaceae — Botanical family
 - [[ashwagandha]] — Comparative adaptogen
-- [[gypenosides]] — Primary bioactive saponin compounds
-- [[traditional-chinese-medicine]] — Historical clinical context
+- gypenosides — Primary bioactive saponin compounds
+- [[gottlieb-peyote-traditional-use-and-history]] — Historical clinical context

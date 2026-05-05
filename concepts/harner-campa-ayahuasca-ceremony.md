@@ -80,6 +80,8 @@ Wasson (1968) suggested for India that some relatively innocuous "blessed sacram
 
 ## See Also
 
+- [[ayahuasca-commercial-vs-authentic-ceremony-dynamics]]
+
 - [[hallucinogens-and-shamanism-harner-anthology]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[harner-plant-teachers-and-entheogenic-knowledge]]

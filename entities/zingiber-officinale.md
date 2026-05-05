@@ -145,6 +145,6 @@ Ginger is generally safe at culinary and therapeutic doses (1–4 g/day dried):
 ## See Also
 
 - [[curcuma-longa]] — Turmeric, a closely related Zingiberaceae species
-- [[piper-nigrum]] — Black pepper, combined with ginger in traditional formulations
+- [[piper-nigrum-entity]] — Black pepper, combined with ginger in traditional formulations
 - [[ocimum-tenuiflorum]] — Holy basil, another major Ayurvedic adaptogen
 - [[taraxacum-officinale]] — Dandelion, a complementary bitter digestive herb

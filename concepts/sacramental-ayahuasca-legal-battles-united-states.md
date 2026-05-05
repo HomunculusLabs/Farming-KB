@@ -184,6 +184,8 @@ Santo Daime for their nondrug sacramental use of ayahuasca.
 
 ## See Also
 
+- [[alan-shoemaker-ayahuasca-legal-peru]]
+
 - [[entheogenic-syncretic-churches-brazil]] for the Brazilian ayahuasca churches
 - [[metzner-four-paradigms-psychedelic-healing]] for Metzner's framework
 - [[metzner-hybrid-shamanic-therapeutic-rituals]] for hybrid rituals

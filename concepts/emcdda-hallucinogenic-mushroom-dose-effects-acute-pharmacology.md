@@ -107,8 +107,8 @@ The structural similarity to serotonin is not coincidental. The tryptamine backb
 
 The EMCDDA report contextualized mushroom risks by comparing them to other substances commonly used in recreational settings:
 
-- Compared to [[cannabis]], mushrooms have significantly lower prevalence and lower rates of habitual use.
-- Compared to [[ecstasy]] (MDMA), mushrooms produce less predictable effects and are less sociable, limiting their use in dance music settings.
+- Compared to cannabis, mushrooms have significantly lower prevalence and lower rates of habitual use.
+- Compared to [[ecstasy-mdma-guide]] (MDMA), mushrooms produce less predictable effects and are less sociable, limiting their use in dance music settings.
 - Compared to [[LSD]], mushrooms offer a shorter duration of action and are perceived as more "natural," which contributed to their appeal during the "return to nature" trend of the late 1990s.
 - Compared to [[Amanita muscaria]], psilocybin mushrooms carry lower toxicity risk. The active compounds in Amanita (muscimol, ibotenic acid, and muscarine) are chemically unrelated to psilocybin and carry substantial toxicity risks, with some closely related Amanita species being potentially fatal.
 

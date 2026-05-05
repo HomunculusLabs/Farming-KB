@@ -141,8 +141,8 @@ Acute toxicity studies in rodents have shown that aqueous and ethanolic extracts
 
 ## See Also
 
-- [[acalypha-hispida]]
-- [[euphorbiaceae-medicinal-plants]]
-- [[west-african-ethnobotany]]
-- [[traditional-herbal-medicine]]
-- [[tropical-medicinal-plants]]
+- [[acalypha-racemosa]]
+- [[amazonian-medicinal-plants-in-amaringos-visions]]
+- [[termitomyces-african-mushrooms]]
+- [[herbal-medicine-history]]
+- [[biodiversity-fungi-endophytes-tropical-plants]]

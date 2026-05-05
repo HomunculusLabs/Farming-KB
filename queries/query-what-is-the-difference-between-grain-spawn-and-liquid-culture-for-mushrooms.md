@@ -110,6 +110,8 @@ bulk substrates or logs for fruiting.
 
 ## Related
 
+- [[query-difference-between-wild-fermentation-back-slopping-and-starter-culture]]
+
 - [[query-difference-between-shiitake-and-oyster-mushrooms]] Questions
 - [[query-spore-syringes-vs-liquid-culture]]
 - [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]

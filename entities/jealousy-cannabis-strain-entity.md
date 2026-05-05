@@ -170,8 +170,8 @@ Effects begin within 2–5 minutes when smoked or vaporized. The onset is notabl
 
 - [[gelato-cannabis]] — parent strain
 - [[girl-scout-cookies]] — foundational lineage
-- [[sunset-sherbert]] — parent strain
-- [[caryophyllene]] — dominant terpene
+- sunset sherbert — parent strain
+- [[cannabis-beta-caryophyllene-dietary-cannabinoid]] — dominant terpene
 - [[runtz]] — related Cookies-family hybrid
 - [[wedding-cake]] — another Gelato-descended strain
 - [[cannabis-sativa]] — sativa species reference

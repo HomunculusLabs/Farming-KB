@@ -114,7 +114,7 @@ As sea levels rise and storm intensity increases under climate change, mangroves
 
 ## Further Reading
 
-- **Mangrove Ecosystems and Coastal Restoration** — See the main topic page for detailed coverage of mangrove ecology, restoration techniques, and permaculture-relevant design principles: `[[mangrove-ecosystems-and-coastal-restoration]]`
+- **Mangrove Ecosystems and Coastal Restoration** — See the main topic page for detailed coverage of mangrove ecology, restoration techniques, and permaculture-relevant design principles: `[[dighton-fungi-mangrove-coastal-ecosystems]]`
 - **Blue Carbon Initiative**: https://www.bluecarboninitiative.org
 - **Global Mangrove Watch**: https://www.globalmangrovewatch.org
 

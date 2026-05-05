@@ -15,15 +15,15 @@ sources:
 
 # Brassinosteroids in Fungal Cultivation
 
-Brassinosteroids are a class of steroidal [[plant growth regulators]] classified as [[phytohormones]]. They were first isolated from the pollen of [[Brassica napus]] (rapeseed) in 1979 and have since been recognized as essential signaling molecules in plant physiology. By the early 1990s, approximately 30 brassinosteroid members had been detected across [[angiosperms]], [[gymnosperms]], and [[green algae]]. Their biological activity is characterized by strong promotion of [[cell elongation]] and [[cell division]], even at extremely low concentrations, making them among the most potent known plant growth substances.
+Brassinosteroids are a class of steroidal [[plant growth regulators]] classified as [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]. They were first isolated from the pollen of [[Brassica napus]] (rapeseed) in 1979 and have since been recognized as essential signaling molecules in plant physiology. By the early 1990s, approximately 30 brassinosteroid members had been detected across angiosperms, [[symbiosis-bryophytes-pteridophytes-gymnosperms]], and [[green algae]]. Their biological activity is characterized by strong promotion of [[cell elongation]] and [[cell division]], even at extremely low concentrations, making them among the most potent known plant growth substances.
 
 ## Chemical Background
 
-The molecular structure of brassinosteroids features a characteristic polyhydroxylated steroidal skeleton, typically with hydroxyl groups at the C-2, C-3, C-22, and C-23 positions alongside a ketone at C-6. This arrangement is essential for their biological activity and distinguishes them from other steroidal compounds such as [[ecdysteroids]] (insect molting hormones) and [[cholesterol]] derivatives found in animal systems. The polyhydroxylated structure confers both high receptor affinity and rapid metabolic turnover, which together account for the remarkably low effective concentrations at which brassinosteroids operate in biological systems.
+The molecular structure of brassinosteroids features a characteristic polyhydroxylated steroidal skeleton, typically with hydroxyl groups at the C-2, C-3, C-22, and C-23 positions alongside a ketone at C-6. This arrangement is essential for their biological activity and distinguishes them from other steroidal compounds such as ecdysteroids (insect molting hormones) and [[medicinal-mushroom-cardiovascular-cholesterol-research]] derivatives found in animal systems. The polyhydroxylated structure confers both high receptor affinity and rapid metabolic turnover, which together account for the remarkably low effective concentrations at which brassinosteroids operate in biological systems.
 
 ## Early Research Context
 
-Prior to 1990, no published studies had investigated the effects of [[brassinosteroids]] on [[fungi]]. The known biological activity of these compounds was entirely confined to the plant kingdom. The possibility that fungal organisms, which share the [[eukaryotic]] cell architecture of plants, might respond to brassinosteroid signaling was an open and unexplored question. This gap prompted the first investigation into brassinosteroid effects on fungal growth and [[fruiting body]] development.
+Prior to 1990, no published studies had investigated the effects of [[brassinosteroids-psilocybin-fruiting]] on [[fungi-ecosystem-engineers]]. The known biological activity of these compounds was entirely confined to the plant kingdom. The possibility that fungal organisms, which share the eukaryotic cell architecture of plants, might respond to brassinosteroid signaling was an open and unexplored question. This gap prompted the first investigation into brassinosteroid effects on fungal growth and [[fruiting body]] development.
 
 ## Gartz and Vorbrodt (1990)
 
@@ -53,13 +53,13 @@ The brassinosteroid was applied at a concentration of 10⁻² ppm (parts per mil
 
 On malt agar, brassinosteroid-treated cultures exhibited mycelial growth rates two to three times faster than untreated controls. This marked acceleration of [[vegetative growth]] demonstrated that the compound's cell-division-promoting properties, well documented in plants, extend to fungal mycelium as well. The effect was consistent across all ten replicate runs, indicating a robust and reliable physiological response rather than a stochastic artifact.
 
-The rapidity of mycelial colonization has practical significance in cultivation contexts, as faster colonization reduces the window of vulnerability to [[contamination]] by competing microorganisms. In both laboratory and commercial settings, the speed at which a fungal culture can fully colonize its substrate is a critical determinant of overall yield and process efficiency.
+The rapidity of mycelial colonization has practical significance in cultivation contexts, as faster colonization reduces the window of vulnerability to [[contamination-identification-prevention]] by competing microorganisms. In both laboratory and commercial settings, the speed at which a fungal culture can fully colonize its substrate is a critical determinant of overall yield and process efficiency.
 
 ### Fruiting Body Development
 
 The dung and grain substrate trials revealed more pronounced and structurally significant effects on the reproductive phase of the fungal life cycle:
 
-- **Time to first flush**: Treated cultures produced their first [[flush]] of mushrooms in 3 to 3.5 weeks, compared with 4 to 5 weeks for the control group. This represents an acceleration of approximately 25 to 40 percent in the timeline from inoculation to harvest.
+- **Time to first flush**: Treated cultures produced their first [[query-when-should-i-flush-my-cannabis-plants-before-harvest]] of mushrooms in 3 to 3.5 weeks, compared with 4 to 5 weeks for the control group. This represents an acceleration of approximately 25 to 40 percent in the timeline from inoculation to harvest.
 
 - **Yield per flush**: The first flush from brassinosteroid-treated substrates yielded 4 to 7 mushrooms, while control flushes produced only 1 to 3 mushrooms. This two- to threefold increase in fruiting body count per flush represents a substantial improvement in productivity per cultivation cycle.
 
@@ -69,7 +69,7 @@ The dung and grain substrate trials revealed more pronounced and structurally si
 
 ## Morphological Changes
 
-In addition to quantitative yield improvements, brassinosteroid treatment produced a consistent morphological alteration: fruiting bodies from treated cultures lacked the typical [[membranous annulus]] (ring) on the stem. This structure, a remnant of the partial [[veil]] that covers the gills during development, is a characteristic taxonomic feature of [[Psilocybe cubensis]].
+In addition to quantitative yield improvements, brassinosteroid treatment produced a consistent morphological alteration: fruiting bodies from treated cultures lacked the typical [[membranous annulus]] (ring) on the stem. This structure, a remnant of the partial veil that covers the gills during development, is a characteristic taxonomic feature of [[Psilocybe cubensis]].
 
 Its absence suggests that brassinosteroids may alter the developmental program governing veil rupture and annulus formation, possibly by accelerating maturation beyond the window in which the veil tissue differentiates into a persistent ring. Alternatively, the compound may interfere with the specific gene expression cascades responsible for annulus tissue development. This morphological change, while reducing taxonomic utility of the annulus as a diagnostic character, provided further evidence that brassinosteroids influence not merely the rate but the very pattern of fungal development.
 
@@ -81,12 +81,12 @@ This finding opened a line of inquiry into whether [[fungal endogenous steroids]
 
 ## Broader Implications for Mycology
 
-The results demonstrated that [[phytohormones]] can have significant effects on fungal growth and development, blurring the traditional boundary between plant and fungal regulatory chemistry. The study provided a foundation for subsequent research into several areas of both basic and applied mycology:
+The results demonstrated that [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]] can have significant effects on fungal growth and development, blurring the traditional boundary between plant and fungal regulatory chemistry. The study provided a foundation for subsequent research into several areas of both basic and applied mycology:
 
 - The identification of endogenous steroidal growth regulators in [[Basidiomycota]] and [[Ascomycota]]
 - The use of brassinosteroids or analogues as supplements in commercial [[mushroom cultivation]]
 - Comparative analysis of brassinosteroid signaling pathways across [[kingdoms of life]]
-- The role of steroidal compounds in coordinating fungal [[morphogenesis]] and [[reproductive development]]
+- The role of steroidal compounds in coordinating fungal [[truffle-auxin-root-morphogenesis]] and [[reproductive development]]
 
 ## Potential Mechanisms
 

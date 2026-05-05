@@ -10,7 +10,7 @@ sources: [raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
 
 ## Overview
 
-Kava kava ([[piper-methysticum]]) is a perennial shrub of the pepper family
+Kava kava ([[piper-methysticum-entity]]) is a perennial shrub of the pepper family
 (Piperaceae) native to the Pacific Islands, where it has been cultivated
 for centuries as a ceremonial beverage and social relaxant. Unlike many
 psychoactive plants covered in ethnobotanical literature, kava is not a

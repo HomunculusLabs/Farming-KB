@@ -20,7 +20,7 @@ sources:
 
 # Morchella importuna
 
-**Morchella importuna** is a species of [[morel]] mushroom in the family Morchellaceae, classified within the *Morchella elata* clade (black morels). It is one of the most commercially significant morel species due to its relative ease of indoor cultivation and its presence in disturbed habitats. The species was formally described by Kuo, O'Donnell, and Volk in 2012 following molecular phylogenetic analysis that resolved the long-standing taxonomic confusion within the genus.
+**Morchella importuna** is a species of [[morel-mushroom-guide]] mushroom in the family Morchellaceae, classified within the *Morchella elata* clade (black morels). It is one of the most commercially significant morel species due to its relative ease of indoor cultivation and its presence in disturbed habitats. The species was formally described by Kuo, O'Donnell, and Volk in 2012 following molecular phylogenetic analysis that resolved the long-standing taxonomic confusion within the genus.
 
 ## Taxonomy and Etymology
 
@@ -34,7 +34,7 @@ Molecular phylogenetics using ITS, RPB1, RPB2, and TEF1 regions placed *M. impor
 
 **Stipe:** 3–8 cm tall, 1.5–4 cm thick, cylindrical or slightly clavate, whitish to cream-colored, hollow. The surface is smooth or finely granulose. The interior chamber is often partially filled with cottony mycelium in younger specimens.
 
-**Flesh:** Thin, brittle, and waxy. Whitish, with a pleasant, earthy, and mildly nutty aroma. The cap is hollow with a single continuous chamber, unlike the chambered structure of some [[gyromitra]] species.
+**Flesh:** Thin, brittle, and waxy. Whitish, with a pleasant, earthy, and mildly nutty aroma. The cap is hollow with a single continuous chamber, unlike the chambered structure of some [[gyromitra-esculenta]] species.
 
 **Spore print:** Cream to pale yellow.
 
@@ -60,7 +60,7 @@ Fruiting occurs in spring (March–May in the Northern Hemisphere), often trigge
 
 The mycelium forms extensive networks in soil and woody substrates, persisting as a saprobic phase for extended periods before fruiting. Fruit body initiation appears to require a combination of temperature fluctuation, moisture availability, and possibly exposure to certain soil bacteria (including *Pseudomonas* species) that may act as fruiting triggers.
 
-Associated trees include [[poplar]], [[cottonwood]], [[alder]], [[ash]], [[elm]], and various [[conifers]]. The species is notably common in riparian corridors with [[Populus trichocarpa]] (black cottonwood) and [[Alnus rubra]] (red alder).
+Associated trees include [[comparison-willow-vs-poplar-for-coppice-and-bioenergy]], cottonwood, [[permplant-alder-alnus-nitrogen-fixing-non-legume]], ash, [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]], and various conifers. The species is notably common in riparian corridors with [[Populus trichocarpa]] (black cottonwood) and [[Alnus rubra]] (red alder).
 
 ## Cultivation
 

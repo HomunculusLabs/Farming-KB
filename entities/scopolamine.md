@@ -37,7 +37,7 @@ premedication.
 - **Melting point:** 59–61 °C (hydrobromide salt)
 - **Solubility:** Freely soluble in water (HBr salt), soluble in ethanol
 
-Structurally related to [[atropine]] and hyoscyamine, scopolamine differs by
+Structurally related to atropine and hyoscyamine, scopolamine differs by
 an epoxide bridge between C-6 and C-7 of the tropane ring. This modification
 confers greater lipid solubility and blood-brain barrier penetration, producing
 more pronounced central effects than atropine.
@@ -60,7 +60,7 @@ of [[datura-stramonium]] and [[brugmansia-suaveolens]].
 - **M₄/M₅ (CNS):** Moderate affinity
 
 Scopolamine has ~10-fold higher affinity for central muscarinic receptors than
-[[atropine]], owing to superior BBB penetration.
+atropine, owing to superior BBB penetration.
 
 ### Pharmacokinetics
 
@@ -133,14 +133,14 @@ interrogation programs.
 
 | Compound | Key Difference |
 |----------|---------------|
-| [[atropine]] | No epoxide bridge; less CNS penetration |
+| atropine | No epoxide bridge; less CNS penetration |
 | Hyoscyamine | Direct biosynthetic precursor; no epoxide |
 | Ipratropium | Quaternary ammonium; no CNS activity |
 | Tiotropium | Long-acting M₁/M₃ selective derivative |
 
 ## See Also
 
-- [[atropine]] — Related tropane alkaloid with primarily peripheral effects
+- atropine — Related tropane alkaloid with primarily peripheral effects
 - [[datura-stramonium]] — Major natural source plant
 - [[brugmansia-suaveolens]] — South American source with ethnobotanical significance
 - [[hyoscyamus-niger]] — Henbane, Solanaceae source of tropane alkaloids

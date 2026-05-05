@@ -145,6 +145,6 @@ Generally regarded as safe (GRAS) at standard doses (1.5–9 g/day dried). Mild 
 
 ## See Also
 
-- [[chaga-inonotus-obliquus]] — Chaga, another prominent medicinal polypore
+- [[chaga-inonotus-obliquus-medicinal-profile]] — Chaga, another prominent medicinal polypore
 - [[turkey-tail-trametes-versicolor]] — Turkey Tail, rich in PSK/PSP polysaccharides
-- [[lion-s-mane-hericium-erinaceus]] — Lion's Mane, neuroprotective medicinal mushroom
+- [[hericium-erinaceus]] — Lion's Mane, neuroprotective medicinal mushroom

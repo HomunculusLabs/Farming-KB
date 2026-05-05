@@ -113,8 +113,10 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 - **Genetic resources:** Extensive cultivar collections maintained in botanical gardens and germplasm banks worldwide.
 
 ## See Also
+
+- [[fomitopsis-officinalis-entity]]
 - [[lavandula-angustifolia-entity]]
-- [[salvia-officinalis-entity]]
+- [[salvia-officinalis]]
 - [[thymus-vulgaris-entity]]
 - [[mentha-pulegium]]
 - [[ocimum-sanctum]]

@@ -116,5 +116,5 @@ Significant gaps exist in the mycological record of neurotropic fungi. Southeast
 - [[psilocybin]]
 - [[psilocybe-cubensis]]
 - [[amanita-muscaria]]
-- [[ergot-alkaloids]]
-- [[entheogenic-plants]]
+- [[ergot-alkaloids-eleusinian-mysteries]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]

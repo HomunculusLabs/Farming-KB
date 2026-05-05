@@ -127,7 +127,7 @@ The pure compounds produced by this synthesis serve as essential reference stand
 ## See Also
 
 - [[psilocybin-pharmacology]] for the pharmacological effects and receptor interactions
-- [[tryptamine-chemistry]] for the broader chemical context of indole-ethylamine compounds
+- [[tihkal-tryptamine-chemistry]] for the broader chemical context of indole-ethylamine compounds
 - [[psilocybe-species-identification]] for chromatographic methods of mushroom identification
-- [[serotonin-receptor-pharmacology]] for the 5-HT2A receptor mechanism of action
-- [[psilocybin-prodrug-metabolism]] for the in vivo conversion of psilocybin to psilocin
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] for the 5-HT2A receptor mechanism of action
+- [[psilocybin-ego-dissolution-mechanisms]] for the in vivo conversion of psilocybin to psilocin

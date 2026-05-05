@@ -113,8 +113,8 @@ McKenna emphasizes that all tryptamine compounds are potentially dangerous. He a
 
 - [[dmt]]
 - [[psilocybin]]
-- [[ayahuasca]]
-- [[consciousness]]
+- ayahuasca
+- [[consciousness-as-fundamental-property]]
 - [[shamanism]]
 - [[serotonin]]
-- [[entheogenic-plants]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]

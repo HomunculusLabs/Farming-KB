@@ -9,7 +9,7 @@ sources:
 
 # Soil Foodweb Succession: Bacteria Then Fungi Cycle
 
-In the [[soil-foodweb]], a predictable pattern of ecological succession occurs as organic materials decompose and soil matures. This pattern, documented extensively by [[elaine-ingham]] in her work on [[actively-aerated-compost-tea|actively aerated compost tea (AACT)]], follows a consistent trajectory: bacteria dominate first, followed by fungi, then increasingly complex organisms including protozoa, nematodes, and microarthropods. Understanding this succession cycle is essential for managing soil biology to support specific plant communities and suppress disease.
+In the [[soil-food-web-nutrient-cycling]], a predictable pattern of ecological succession occurs as organic materials decompose and soil matures. This pattern, documented extensively by [[elaine-ingham]] in her work on [[actively-aerated-compost-tea|actively aerated compost tea (AACT)]], follows a consistent trajectory: bacteria dominate first, followed by fungi, then increasingly complex organisms including protozoa, nematodes, and microarthropods. Understanding this succession cycle is essential for managing soil biology to support specific plant communities and suppress disease.
 
 ## The Succession Principle
 
@@ -38,7 +38,7 @@ In this stage, the soil environment is typically:
 - **Warm**: Bacterial metabolism generates heat, which is why compost piles heat up rapidly in early stages
 - **Moist**: Bacteria require thin films of water to move and access nutrients
 
-The bacterial bloom serves a critical function: it rapidly breaks down the most labile (easily decomposed) fraction of organic matter, converting it into bacterial biomass, carbon dioxide, and plant-available nutrients. This is why bacterial-dominated [[compost-tea|compost tea]] is recommended for annual crops, vegetables, and early successional plant communities that evolved in bacterial soils.
+The bacterial bloom serves a critical function: it rapidly breaks down the most labile (easily decomposed) fraction of organic matter, converting it into bacterial biomass, carbon dioxide, and plant-available nutrients. This is why bacterial-dominated [[compost-tea-aact|compost tea]] is recommended for annual crops, vegetables, and early successional plant communities that evolved in bacterial soils.
 
 ## Stage Two: Fungal Emergence
 
@@ -58,7 +58,7 @@ As fungal biomass increases, the soil environment shifts:
 - **Improved soil structure**: Fungal hyphae and their exopolymer secretions (including [[glomalin]]) bind soil particles into aggregates
 - **Greater nutrient retention**: The fungal-dominated soil foodweb retains nutrients more effectively, releasing them slowly
 
-Fungal-dominated soils are characteristic of perennial plant communities, forests, and grasslands. This is why fungal-dominated [[compost-tea|compost tea]] is recommended for perennials, trees, shrubs, and late successional plant communities.
+Fungal-dominated soils are characteristic of perennial plant communities, forests, and grasslands. This is why fungal-dominated [[compost-tea-aact|compost tea]] is recommended for perennials, trees, shrubs, and late successional plant communities.
 
 ## Stage Three: Protozoan and Nematode Grazing
 
@@ -83,7 +83,7 @@ Each additional trophic level adds complexity and stability to the nutrient cycl
 
 ## Managing Succession with Compost Tea
 
-The practical application of understanding soil foodweb succession lies in managing the bacterial-to-fungal ratio of [[compost-tea|compost tea]] applications. [[elaine-ingham]] recommends matching the tea biology to the plant community being supported:
+The practical application of understanding soil foodweb succession lies in managing the bacterial-to-fungal ratio of [[compost-tea-aact|compost tea]] applications. [[elaine-ingham]] recommends matching the tea biology to the plant community being supported:
 
 | Plant Community | Preferred Tea Type | Target Bacterial to Fungal Ratio |
 |---|---|---|
@@ -112,7 +112,7 @@ Several factors determine whether bacteria or fungi will dominate in a given soi
 
 The carbon-to-nitrogen ratio of organic inputs strongly influences the succession trajectory. Materials with low C:N ratios (below 20:1), such as legume residues and manures, favor rapid bacterial growth. Materials with high C:N ratios (above 30:1), such as wood chips, straw, and sawdust, favor fungal colonization.
 
-When making [[compost-tea|compost tea]], the C:N ratio of the compost used as inoculum, combined with the food sources added during brewing, determines whether the resulting tea will be bacterial or fungal dominant. Molasses, a simple sugar, feeds bacteria and pushes the tea toward bacterial dominance. Kelp, humic acids, and fish hydrolysate provide more complex food sources that support fungal growth.
+When making [[compost-tea-aact|compost tea]], the C:N ratio of the compost used as inoculum, combined with the food sources added during brewing, determines whether the resulting tea will be bacterial or fungal dominant. Molasses, a simple sugar, feeds bacteria and pushes the tea toward bacterial dominance. Kelp, humic acids, and fish hydrolysate provide more complex food sources that support fungal growth.
 
 ## Disease Suppression Through Succession Management
 
@@ -127,10 +127,12 @@ Applying compost teas that match the target plant community's preferred foodweb 
 
 ## See Also
 
-- [[soil-foodweb]]
+- [[soil-foodweb-balancing-protocol-ingham]]
+
+- [[soil-food-web-nutrient-cycling]]
 - [[actively-aerated-compost-tea]]
 - [[bacterial-vs-fungal-compost-teas]]
 - [[elaine-ingham]]
 - [[glomalin]]
-- [[compost]]
-- [[nutrient-mineralization-soil-foodweb]]
+- compost
+- [[ingham-nutrient-cycling-soil-food-web]]

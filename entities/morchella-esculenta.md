@@ -178,6 +178,8 @@ While primarily valued as a food, morels have documented bioactive properties:
 
 ## See Also
 
+- [[morchella-esculenta-entity]]
+
 - [[Gyromitra esculenta]] — False morel (toxic look-alike)
 - [[Morchella importuna]] — Black morel, commercially cultivated species
 - [[Cantharellus cibarius]] — Chanterelle, another prized edible mushroom

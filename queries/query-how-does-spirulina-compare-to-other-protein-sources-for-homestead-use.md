@@ -10,10 +10,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - [[spirulina-cultivation-and-microalgae-farming]]
-  - [[black-soldier-fly-farming-and-insect-protein]]
-  - [[duckweed-and-azolla-as-livestock-feed-and-biofertilizer]]
-  - [[aquaponics-and-backyard-aquaculture]]
+  - [[natural-farming-imo-collection-and-cultivation]]
+  - [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]]
+  - [[jadam-livestock-integration-and-manure-management]]
+  - [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]
 ---
 
 # How Does Spirulina Compare to Other Protein Sources for Homestead and Small-Scale Production?
@@ -49,7 +49,7 @@ Spirulina (*Arthrospira platensis*) is the most land-efficient protein source av
 
 ### Protein Yield Per Unit Area
 
-Spirulina is unmatched in spatial efficiency. A single 10 m² tank can produce 5–10 kg of dry spirulina per month (3–7 kg protein), rivaling what a small flock of chickens produces annually in far more space. [[spirulina-cultivation-and-microalgae-farming]] covers production rates in depth. For context, soybeans yield roughly 0.4 t protein/ha/year while spirulina can exceed 50 t/ha/year in optimized conditions.
+Spirulina is unmatched in spatial efficiency. A single 10 m² tank can produce 5–10 kg of dry spirulina per month (3–7 kg protein), rivaling what a small flock of chickens produces annually in far more space. [[natural-farming-imo-collection-and-cultivation]] covers production rates in depth. For context, soybeans yield roughly 0.4 t protein/ha/year while spirulina can exceed 50 t/ha/year in optimized conditions.
 
 ### Resource Inputs
 
@@ -59,7 +59,7 @@ Spirulina is unmatched in spatial efficiency. A single 10 m² tank can produce 5
 
 ### Startup Cost and Complexity
 
-Spirulina has a steep learning curve: pH management (8.5–11), contamination monitoring, harvesting technique (fine mesh or cloth filter), and drying. [[black-soldier-fly-farming-and-insect-protein]] and [[duckweed-and-azolla-as-livestock-feed-and-biofertilizer]] describe systems that are far more forgiving for beginners. Poultry and legumes are the most approachable for first-time homesteaders.
+Spirulina has a steep learning curve: pH management (8.5–11), contamination monitoring, harvesting technique (fine mesh or cloth filter), and drying. [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]] and [[jadam-livestock-integration-and-manure-management]] describe systems that are far more forgiving for beginners. Poultry and legumes are the most approachable for first-time homesteaders.
 
 ### Nutritional Quality
 
@@ -104,7 +104,7 @@ This is spirulina's biggest weakness for direct human consumption. The strong, e
 - At this scale, run multiple protein systems in parallel for resilience.
 - Use BSF to process farm waste into chicken and fish feed.
 - Grow duckweed/azolla in ponds as livestock feed (chickens, ducks, rabbits).
-- Aquaponics provides fish and vegetables; see [[aquaponics-and-backyard-aquaculture]].
+- Aquaponics provides fish and vegetables; see [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]].
 - Spirulina production can scale to 500+ L tanks or open raceway ponds.
 - Field legumes (beans, cowpeas, peanuts) provide bulk storable protein.
 - Rabbits offer efficient meat production on forage and garden scraps.
@@ -124,7 +124,7 @@ This is spirulina's biggest weakness for direct human consumption. The strong, e
 
 ## See Also
 
-- [[spirulina-cultivation-and-microalgae-farming]] — detailed spirulina growing guide
-- [[black-soldier-fly-farming-and-insect-protein]] — BSF setup and protein yields
-- [[duckweed-and-azolla-as-livestock-feed-and-biofertilizer]] — aquatic plant protein systems
-- [[aquaponics-and-backyard-aquaculture]] — integrated fish and vegetable production
+- [[natural-farming-imo-collection-and-cultivation]] — detailed spirulina growing guide
+- [[query-what-is-black-soldier-fly-composting-and-how-does-it-work]] — BSF setup and protein yields
+- [[jadam-livestock-integration-and-manure-management]] — aquatic plant protein systems
+- [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] — integrated fish and vegetable production

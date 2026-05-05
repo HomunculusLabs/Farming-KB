@@ -135,7 +135,7 @@ environments that continue to expand as mycelium creates soil.
 ## Long-Term Vision
 
 Mycorestoration represents a new paradigm borrowed from nature's age-old
-methods. See [[mycorestoration-principles]] for foundational concepts. By learning from natural recovery patterns and accelerating them through
+methods. See [[mycorestoration-overview]] for foundational concepts. By learning from natural recovery patterns and accelerating them through
 thoughtful species selection, mycologists can design landscapes for both human
 and natural benefit. The goal is to work within natural succession patterns,
 using fungi as keystone organisms that enable entire ecological communities to
@@ -144,7 +144,7 @@ recover and thrive.
 ## See Also
 
 [[mycoremediation-stamets-approach]] provides Stamets' comprehensive framework for fungal remediation.
-[[mycorestoration-principles]] covers the foundational concepts of using fungi for ecological recovery.
+[[mycorestoration-overview]] covers the foundational concepts of using fungi for ecological recovery.
 [[mycelium-running-filtering-water-with-fungi]] details the water filtration applications.
 
 - [[mycoremediation-stamets-approach]]

@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-The mystery of Soma constitutes one of the most enduring puzzles in the history of religion and ethnopharmacology. Described lavishly in the [[rig-veda]] as both a plant and a god, Soma was the central sacrament of the ancient [[indo-european]] peoples, a juice pressed from a sacred plant whose botanical identity has been lost to time. Terence McKenna dedicated an entire chapter of *Food of the Gods* to this "Golden Vedic Enigma," arguing that understanding Soma is essential to recovering the Archaic relationship between humans and psychoactive plants that once shaped consciousness itself.
+The mystery of Soma constitutes one of the most enduring puzzles in the history of religion and ethnopharmacology. Described lavishly in the [[rig-veda-soma-hymns-amanita-muscaria]] as both a plant and a god, Soma was the central sacrament of the ancient [[amanita-herb-indo-european-origins]] peoples, a juice pressed from a sacred plant whose botanical identity has been lost to time. Terence McKenna dedicated an entire chapter of *Food of the Gods* to this "Golden Vedic Enigma," arguing that understanding Soma is essential to recovering the Archaic relationship between humans and psychoactive plants that once shaped consciousness itself.
 
 ## The Rig Veda and Soma Praise
 
@@ -58,7 +58,7 @@ The reform-minded religion of Zoroaster, established circa 575 B.C., appears to 
 
 However, R.C. Zahner argues persuasively that Zoroaster never actually abolished the Haoma rite. In the later Avesta, Haoma "came back again" and was in almost every respect the same as the Vedic Soma. The Haoma rite has been the central liturgical act of Zoroastrianism ever since the religion developed liturgical worship, and its central position has never been disputed.
 
-McKenna suggests Zoroaster may not have intended to ban Haoma itself, but rather the sacrifice of bulls that accompanied the rite — a practice that would be anathema to anyone aware of the connection between cattle and mushrooms in the old religion of the [[great-goddess]].
+McKenna suggests Zoroaster may not have intended to ban Haoma itself, but rather the sacrifice of bulls that accompanied the rite — a practice that would be anathema to anyone aware of the connection between cattle and mushrooms in the old religion of the [[amanita-herb-maga-magic-great-gift]].
 
 ## Clues to Botanical Identity
 
@@ -101,11 +101,15 @@ The mushroom's dual nature helps explain this gender ambiguity: it has a lustrou
 
 ## The Archaic Revival and Soma
 
-McKenna frames the search for Soma within his broader argument for an [[archaic-revival]] — a paradigm transformation that would renew humanity's relationship with plants as "models of process" embodying "symbiotic connectedness and efficient resource recycling." He argues that "more than political exhortation will be needed" and that the Archaic Revival "must rest on an experience that shakes each and every one of us to our very roots."
+McKenna frames the search for Soma within his broader argument for an [[archaic-revival-philosophy]] — a paradigm transformation that would renew humanity's relationship with plants as "models of process" embodying "symbiotic connectedness and efficient resource recycling." He argues that "more than political exhortation will be needed" and that the Archaic Revival "must rest on an experience that shakes each and every one of us to our very roots."
 
 He declares that "Nature must be declared legitimate" and that "the notion of illegal plants is obnoxious and ridiculous." The Soma mystery represents humanity's last coherent memory of a time when psychoactive plants were not marginal or criminalized but were the central organizing principle of religion, community, and consciousness itself. Recovering this lost relationship may be, in McKenna's view, essential to navigating the global ecological and spiritual crisis of the modern world.
 
 ## See Also
+
+- [[mckenna-food-gods-myth-of-glaukos-honey]]
+- [[mckenna-food-gods-dmt-experience-hyperspace]]
+- [[mckenna-food-gods-television-dominator-drug]]
 
 - [[mckenna-food-gods-wasson-amanita-theory]]
 - [[mckenna-food-gods-peganum-harmala-soma]]

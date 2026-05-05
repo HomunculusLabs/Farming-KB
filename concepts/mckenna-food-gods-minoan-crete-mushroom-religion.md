@@ -53,7 +53,7 @@ The question naturally arises of the relationship of Minoan society to the Archa
 
 ### Sacred Pillars
 
-Minoan religion was characterized by the worship of pillars — single round columns broadening toward the top, found in rooms with religious significance throughout the palaces. Remembering that [[soma-vedic-enigma|Soma]] was called "pillar of the World" in the Rig Veda, McKenna asks whether these pillars were explicit echoes of mushroom imagery or "last aniconic vestiges of the mushroom image." Such columns were widely understood to stand for a sacred tree and were connected with "images and rituals of vegetative significance that were very old."
+Minoan religion was characterized by the worship of pillars — single round columns broadening toward the top, found in rooms with religious significance throughout the palaces. Remembering that [[mckenna-food-gods-soma-vedic-enigma|Soma]] was called "pillar of the World" in the Rig Veda, McKenna asks whether these pillars were explicit echoes of mushroom imagery or "last aniconic vestiges of the mushroom image." Such columns were widely understood to stand for a sacred tree and were connected with "images and rituals of vegetative significance that were very old."
 
 ### Archaeological Evidence
 

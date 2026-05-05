@@ -129,6 +129,8 @@ anchors Zone 1 production.
 
 ## See Also
 
+- [[comparison-microgreens-vs-shoots-growing]]
+
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
 
 - [[comparison-cold-frame-gardening-vs-container-gardening-guide]]

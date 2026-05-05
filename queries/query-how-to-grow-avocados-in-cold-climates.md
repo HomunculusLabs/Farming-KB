@@ -148,3 +148,7 @@ A greenhouse is the ideal middle-ground for cold-climate avocado production:
 7. **Feed lightly and organically** -- avoid salt buildup, mulch regularly.
 8. **Consider grafting** -- Mexicola rootstock adds resilience.
 9. **Be patient** -- avocado trees take 3-5 years from planting to first fruit, even in ideal conditions.
+
+## See Also
+
+- [[query-how-do-i-grow-figs-in-cold-climates]]

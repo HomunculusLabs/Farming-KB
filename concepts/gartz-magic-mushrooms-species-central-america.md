@@ -21,7 +21,7 @@ mushroom use has been documented.
 Mexico's psychoactive mycoflora is exceptionally diverse. Gartz describes
 numerous [[psilocybin-mushroom-image-guide-lookalike-species]] studied by Wasson, Heim, and subsequent researchers:
 
-- **[[psilocybe-genus-overview]] mexicana** Heim: One of the first species identified
+- **[[psilocybe-genus-diversity-and-taxonomy]] mexicana** Heim: One of the first species identified
   chemically. The species used by Hofmann to isolate and synthesize
   psilocybin. Known as "teonanacatl" ("flesh of the gods") in indigenous
   tradition. Children near Guatemala City were observed offering this

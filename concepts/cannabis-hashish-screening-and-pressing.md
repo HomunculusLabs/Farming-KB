@@ -103,7 +103,9 @@ Store hashish in:
 - Refrigeration for long-term storage
 - Properly cured and stored hash can remain potent for months to years
 
-## Related Topics
+## Related
+
+- [[mckenna-hashish-scythians-and-classical-cannabis]] Topics
 
 - [[cannabis-hashish-guide]] — comprehensive hash making guide
 - [[cannabis-hashish-making-methods]] — various extraction methods

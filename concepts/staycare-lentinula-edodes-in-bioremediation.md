@@ -123,4 +123,6 @@ and [[staycare-solid-state-fermentation-for-bioremediation]].
 
 ## See Also
 
+- [[lentinula-edodes-entity]]
+
 - [[lentinula-edodes]]

@@ -121,6 +121,8 @@ pharmacological cross-referencing with other Asteraceae members.
 
 ## See Also
 
+- [[arctium-lappa-entity]]
+
 - [[comfrey-symphytum-officinale]]
 - [[taraxacum-officinale]]
 - [[urtica-dioica]]

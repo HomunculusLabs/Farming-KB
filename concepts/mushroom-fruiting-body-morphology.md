@@ -116,6 +116,8 @@ and reliable species identification in both field and laboratory settings.
 
 ## See Also
 
+- [[mushroom-flush-dynamics-variation-fruiting-cycles]]
+
 - [[fungal-spore-dispersal]]
 - [[mushroom-identification]]
 - [[biodiversity-basidiomycete-diversity-taxonomy]]

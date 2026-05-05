@@ -117,5 +117,5 @@ Use in safe, familiar environment with trusted sitter. Start low, go slow. Avoid
 
 - [[psilocybe-cubensis]] — Most widely cultivated psilocybin mushroom species
 - [[nn-dmt]] — Closely related tryptamine psychedelic
-- [[lysergic-acid-diethylamide]] — Classical psychedelic with shared 5-HT₂A mechanism
+- [[lsd-lysergic-acid-diethylamide-experience-guide]] — Classical psychedelic with shared 5-HT₂A mechanism
 - [[ketamine]] — Dissociative anesthetic with emerging therapeutic applications

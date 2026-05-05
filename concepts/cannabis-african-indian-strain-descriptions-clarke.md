@@ -75,7 +75,12 @@ Dagga of South Africa is highly acclaimed:
 - Commercial pressures and hybridization threaten pure African landraces
 - Seeds of many African strains appear only in small batches of low-quality marijuana
 
-## Related Topics
+## Related
+
+- [[methylophilus-cannabis-endorhiza-strain-specificity]]
+- [[biscotti-cannabis-strain]]
+- [[super-boof-cannabis-strain]]
+- [[acdc-cannabis-strain]] Topics
 
 - [[cannabis-landrace-and-heirloom-varieties]] - Overview of landrace varieties
 - [[cannabis-colombian-strain-description-clarke]] - Colombian strain profile

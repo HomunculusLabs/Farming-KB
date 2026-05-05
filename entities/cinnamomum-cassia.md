@@ -145,6 +145,6 @@ The most clinically significant modern application of C. cassia is its role in g
 ## See Also
 
 - [[cinnamomum-verum]] — Ceylon cinnamon, the "true cinnamon" with lower coumarin content
-- [[eugenia-caryophyllata]] — Clove, sharing eugenol chemistry and antimicrobial properties
+- [[eugenia-bone]] — Clove, sharing eugenol chemistry and antimicrobial properties
 - [[zingiber-officinale]] — Ginger, companion spice in five-spice powder and chai
 - [[alpinia-galanga]] — Greater galangal, frequently combined with cassia in Southeast Asian cuisine

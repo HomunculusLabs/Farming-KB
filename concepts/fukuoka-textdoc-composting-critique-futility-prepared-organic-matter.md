@@ -116,10 +116,10 @@ activity, and natural succession.
 
 ## See Also
 
-- [[no-fertilizer-principle-natural-soil-fertility]]
-- [[fertilizer-soil-destruction-sulfuric-acid]]
-- [[natural-soil-management]]
-- [[straw-mulching-rice-barley-cropping]]
-- [[soil-complexity-microorganisms-fertilizer-interactions]]
-- [[natural-crop-rotation-vegetable-methods]]
-- [[weed-utility-grass-soil-enrichment]]
+- [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]
+- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
+- [[natural-farming-soil-management]]
+- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
+- [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
+- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
+- [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]

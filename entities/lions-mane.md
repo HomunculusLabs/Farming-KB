@@ -171,8 +171,8 @@ Wild Lion's Mane populations are declining in many regions due to habitat loss (
 
 ## See Also
 
-- [[reishi]] — Another medicinal mushroom with immunomodulatory properties
-- [[cordyceps]] — Medicinal mushroom for energy and respiratory health
-- [[chaga]] — Antioxidant-rich medicinal fungus
-- [[nerve-growth-factor]] — Detailed overview of NGF biology
+- [[reishi-mushroom-medicinal-research]] — Another medicinal mushroom with immunomodulatory properties
+- [[cordyceps-militaris]] — Medicinal mushroom for energy and respiratory health
+- [[chaga-inonotus-obliquus-medicinal-profile]] — Antioxidant-rich medicinal fungus
+- [[fatigue-crack-growth]] — Detailed overview of NGF biology
 - [[beta-glucans]] — Immunomodulatory polysaccharides found in medicinal mushrooms

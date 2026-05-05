@@ -103,4 +103,6 @@ maximum productivity per square foot.
 
 ## See Also
 
+- [[query-what-are-the-best-perennial-grains-for-regenerative-farming]]
+
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]

@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-The subjective effects of hallucinogenic mushrooms containing [[psilocybin]] and [[psilocin]] depend on several interacting variables: the dose consumed, the [[potency]] and species of mushroom, the individual's sensitivity and prior experience, and the setting in which they are consumed. The major pharmacological effects are mediated through the central nervous system, primarily via [[5-HT2A receptor]] agonism, with additional sympathomimetic effects. Effects vary greatly between individuals and even between episodes for the same person.
+The subjective effects of hallucinogenic mushrooms containing [[psilocybin]] and [[psilocin]] depend on several interacting variables: the dose consumed, the [[green-cannabis-potency-maximizing]] and species of mushroom, the individual's sensitivity and prior experience, and the setting in which they are consumed. The major pharmacological effects are mediated through the central nervous system, primarily via [[5-HT2A receptor]] agonism, with additional sympathomimetic effects. Effects vary greatly between individuals and even between episodes for the same person.
 
 ## Routes of Administration
 
@@ -65,7 +65,7 @@ Short-term tolerance develops rapidly to both physical and psychological effects
 
 Subjective effects described by users during positive experiences include:
 
-- Mild feelings of relaxation (comparable to those of [[cannabis]])
+- Mild feelings of relaxation (comparable to those of cannabis)
 - Giddiness and uncontrollable laughter
 - Increased energy and joy
 - Euphoria
@@ -133,7 +133,7 @@ The psychoactive dose of [[psilocybin]] is believed to be between 45 micrograms 
 Mushroom effects differ from other commonly used substances in important ways:
 
 - Unlike [[MDMA]], mushroom experiences lack consistent entactogenic (empathy-generating) properties, which some users find less socially appealing
-- Unlike [[cannabis]], the effects are more visually and cognitively intense, with less predictable emotional tone
+- Unlike cannabis, the effects are more visually and cognitively intense, with less predictable emotional tone
 - The absence of physical dependency distinguishes mushrooms from many other recreational substances
 - The relatively short duration compared to [[LSD]] makes mushrooms more manageable for some users, though the experience can feel equally intense at equivalent doses
 

@@ -118,7 +118,7 @@ have contributed to its enduring popularity across decades of cannabis use.
 ## See Also
 - [[cannabis-indica]]
 - [[cannabis-sativa]]
-- [[afghan-kush-cannabis]]
+- [[og-kush-cannabis-entity]]
 - [[ak-47-cannabis]]
 - [[blue-dream-cannabis]]
 - [[purple-haze-cannabis]]

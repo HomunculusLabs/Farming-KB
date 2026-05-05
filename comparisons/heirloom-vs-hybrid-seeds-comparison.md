@@ -18,7 +18,7 @@ sources:
 
 Heirloom and hybrid seeds represent two fundamentally different approaches to plant genetics, each with distinct advantages for gardeners and farmers. **Heirloom seeds** are open-pollinated varieties that have been passed down for at least 50 years (and often over a century), breeding true-to-type from saved seed. **Hybrid seeds** (typically labeled F1) result from the controlled cross-pollination of two genetically distinct parent lines, producing offspring with specific combinations of traits but whose saved seed will not reliably replicate those traits.
 
-The choice between heirloom and hybrid seeds has significant implications for [[seed-saving-and-plant-breeding]], crop resilience, and food sovereignty. Approximately 94% of commercial vegetable seed sold in the U.S. is hybrid, while heirloom varieties have experienced a strong revival among home gardeners, small-scale organic producers, and culinary enthusiasts over the past two decades. Understanding the tradeoffs between these two seed types is essential for making informed planting decisions.
+The choice between heirloom and hybrid seeds has significant implications for [[holzer-seed-saving-and-variety-preservation]], crop resilience, and food sovereignty. Approximately 94% of commercial vegetable seed sold in the U.S. is hybrid, while heirloom varieties have experienced a strong revival among home gardeners, small-scale organic producers, and culinary enthusiasts over the past two decades. Understanding the tradeoffs between these two seed types is essential for making informed planting decisions.
 
 Heirloom varieties are defined not only by age but by their reproductive stability — they must be open-pollinated and produce offspring that closely resemble the parent plant. Hybrid varieties, by contrast, are the product of deliberate human intervention in plant breeding, designed to combine the most desirable traits of two distinct genetic lines into a single crop.
 
@@ -54,7 +54,7 @@ Heirloom seeds are the preferred choice when **seed saving** is a priority, as t
 
 Additionally, heirlooms contribute to **genetic diversity**, which is critical for long-term food security. Many heirloom varieties carry unique alleles for drought tolerance, pest resistance, or nutritional content that are absent from commercial hybrid gene pools. The Irish Potato Famine of the 1840s illustrates the danger of genetic uniformity — a lesson directly relevant to modern reliance on a narrow set of hybrid varieties.
 
-Gardeners practicing [[companion-planting-and-polycultures]] often prefer heirlooms because their diverse growth habits, maturity windows, and plant architectures complement intercropping systems better than the uniform characteristics of hybrid monocultures.
+Gardeners practicing companion planting and polycultures often prefer heirlooms because their diverse growth habits, maturity windows, and plant architectures complement intercropping systems better than the uniform characteristics of hybrid monocultures.
 
 Heirlooms also hold cultural and historical significance. Varieties like 'Mortgage Lifter' tomato (bred in the 1930s by a radiator repairman who paid off his mortgage selling the plants) or 'Moon and Stars' watermelon (a pre-1900 variety rediscovered in 1981) carry stories that connect modern growers to agricultural heritage. For seed libraries and community seed exchanges, heirlooms form the backbone of shared genetic resources.
 
@@ -74,7 +74,7 @@ It is worth noting that hybrids are not inherently "bad" for home gardeners — 
 
 Hybrid vigor, or **heterosis**, is the phenomenon whereby F1 offspring exhibit traits superior to both parents — including increased biomass, faster growth, greater stress tolerance, and higher yields. The biological basis involves the masking of deleterious recessive alleles and the complementary action of favorable dominant alleles contributed by each parent line.
 
-Heterosis effects are most pronounced in the F1 generation and diminish by 20–50% in the F2 generation, which is why saving hybrid seed produces disappointing, inconsistent results. Yield penalties of 30–50% are common in F2 hybrid populations, along with loss of disease resistance and uniform maturity. This principle is central to [[seed-saving-and-plant-breeding]] and explains why commercial seed companies invest heavily in maintaining genetically pure parent lines under controlled conditions.
+Heterosis effects are most pronounced in the F1 generation and diminish by 20–50% in the F2 generation, which is why saving hybrid seed produces disappointing, inconsistent results. Yield penalties of 30–50% are common in F2 hybrid populations, along with loss of disease resistance and uniform maturity. This principle is central to [[holzer-seed-saving-and-variety-preservation]] and explains why commercial seed companies invest heavily in maintaining genetically pure parent lines under controlled conditions.
 
 Not all crops exhibit heterosis equally. Hybrid vigor is most dramatic in cross-pollinated species (corn, onions, brassicas, cucurbits) and less pronounced in predominantly self-pollinated species (beans, lettuce, wheat, peas), which is why hybrid beans remain relatively uncommon.
 
@@ -110,11 +110,11 @@ The heirloom vs. hybrid decision ultimately depends on grower priorities. Those 
 
 ## Related Topics
 
-- [[seed-saving-and-plant-breeding]] — Comprehensive guide to saving seed from open-pollinated and heirloom varieties, isolation distances, population sizes, and maintaining genetic integrity.
+- [[holzer-seed-saving-and-variety-preservation]] — Comprehensive guide to saving seed from open-pollinated and heirloom varieties, isolation distances, population sizes, and maintaining genetic integrity.
 
 - [[plant-propagation-techniques]] — Methods for vegetative and sexual propagation, including seed starting, cuttings, division, layering, and tissue culture.
 
-- [[companion-planting-and-polycultures]] — How plant diversity, including heirloom variety selection, supports resilient polyculture systems through pest confusion, complementary nutrient cycling, and extended harvest windows.
+- companion planting and polycultures — How plant diversity, including heirloom variety selection, supports resilient polyculture systems through pest confusion, complementary nutrient cycling, and extended harvest windows.
 
 ---
 

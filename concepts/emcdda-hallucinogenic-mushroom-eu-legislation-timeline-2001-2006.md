@@ -122,6 +122,8 @@ regulating a natural product that can be consumed in its raw state.
 
 ## Related
 
+- [[eu-legislation-hallucinogenic-mushrooms-2001-2006]]
+
 - [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
 - [[emcdda-hallucinogenic-mushroom-legal-loopholes]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]

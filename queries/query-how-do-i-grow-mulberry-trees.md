@@ -28,7 +28,7 @@ Three species dominate cultivation, each with distinct strengths:
 - **Morus nigra (Black Mulberry)** — Zones 6–10. Native to Southwest Asia. Slow-growing but produces the richest, most complex fruit flavor — often compared to fig or blackberry. Less cold-hardy; prefers longer, hotter summers for best fruit. Ideal for orchards and food gardens where flavor is paramount. Typically stays under 30 ft.
 - **Morus rubra (Red Mulberry)** — Zones 5–9. Native to eastern North America. Vigorous grower with reddish-purple fruit. Excellent wildlife value and well-adapted to humid continental climates. Good choice for native-focused plantings and permaculture systems. Can hybridize with M. alba where ranges overlap.
 
-See also: [[mulberry-cultivation-and-uses]]
+See also: [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]
 
 ## What Are the Best Mulberry Cultivars?
 
@@ -95,7 +95,7 @@ Grafted cultivars, especially **Illinois Everbearing**, can produce a small crop
 - **Birds** — The most common "pest." Net trees or plant enough to share — mulberries are an outstanding wildlife food.
 - **Powdery mildew** — Common in humid climates on new growth; treat with potassium bicarbonate spray.
 
-Mulberries are generally pest-free compared to most fruit trees. They have no serious disease issues in most of North America. See also: [[companion-planting-and-polycultures]]
+Mulberries are generally pest-free compared to most fruit trees. They have no serious disease issues in most of North America. See also: companion planting and polycultures
 
 ## How Do I Harvest and Use Mulberries?
 
@@ -107,7 +107,7 @@ Mulberries are generally pest-free compared to most fruit trees. They have no se
 
 ## Are Mulberries Good for Permaculture?
 
-Absolutely — mulberries are a keystone species in food forests and [[forest-gardening-and-food-forests]]:
+Absolutely — mulberries are a keystone species in food forests and forest gardening and food forests:
 
 - **Multi-function** — Fruit, fodder, shade, timber, and soil improvement all from one tree.
 - **Animal feed** — Leaves are 15–28% protein; excellent poultry, goat, and cattle fodder. Silkworms eat only M. alba.

@@ -141,7 +141,9 @@ fermentation. Choose closed-eye varieties like Celeste to prevent this issue.
 - Figs fruit on new growth, so even dieback trees can produce a crop.
 - Avoid excess nitrogen, which promotes leaf growth over fruit.
 
-## Related Questions
+## Related
+
+- [[query-how-to-grow-avocados-in-cold-climates]] Questions
 
 - [[query-how-to-build-a-raised-bed-garden]]
 - [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]

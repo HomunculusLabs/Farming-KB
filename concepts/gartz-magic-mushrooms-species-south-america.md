@@ -17,7 +17,7 @@ taxonomic and chemical research has "barely just begun."
 
 ## Key Species
 
-- **[[psilocybe-genus-overview]] cubensis** (Earle) Singer: The most widely distributed and
+- **[[psilocybe-genus-diversity-and-taxonomy]] cubensis** (Earle) Singer: The most widely distributed and
   commonly used psychoactive mushroom in South America. Abundant in
   Colombia's mycoflora, found across Amazonian regions shared by Colombia,
   Peru, and Brazil. Common in the Andes Mountains and lowland tropical

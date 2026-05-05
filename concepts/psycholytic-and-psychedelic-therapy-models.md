@@ -105,9 +105,11 @@ The distinction between psycholytic and psychedelic approaches remains clinicall
 
 ## See Also
 
+- [[metzner-psycholytic-psychedelic-therapy-models]]
+
 - [[lsd-set-and-setting-framework|Set and Setting Framework]]
 - [[psychedelic-consciousness-expansion|Psychedelic Consciousness Expansion]]
 - [[metzner-four-paradigms-entheogenic-healing|Four Paradigms of Entheogenic Healing]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals|Hybrid Shamanic Therapeutic Rituals]]
-- [[grof-holotropic-breathwork|Holotropic Breathwork]]
+- [[stanislav-grof|Holotropic Breathwork]]
 - [[metzner-mdma-assisted-therapy-research|MDMA-Assisted Therapy Research]]

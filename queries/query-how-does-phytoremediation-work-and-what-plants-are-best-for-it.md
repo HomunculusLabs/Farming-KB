@@ -145,3 +145,7 @@ Multiple cropping cycles per year (in warm climates) and chelant-assisted phytoe
 4. **Monitor and harvest:** Test plant tissue and soil regularly. Harvest above-ground biomass before senescence to prevent contaminant recycling.
 5. **Manage disposal:** Compost contaminated biomass in lined facilities, incinerate with emission controls, or process for metal recovery (phytomining).
 6. **Consider hybrid approaches:** Phytoremediation pairs well with biochar amendment, microbial inoculation, and gentle soil amendment (lime, compost) for synergistic effects.
+
+## See Also
+
+- [[query-how-does-spirulina-compare-to-other-protein-sources-for-homestead-use]]

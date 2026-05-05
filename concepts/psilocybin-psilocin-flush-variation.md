@@ -17,15 +17,15 @@ sources:
 
 ## Overview
 
-The alkaloid content of [[Psilocybe cubensis]] fruiting bodies varies substantially across successive flushes (harvests) of the same culture. Research by Bigwood and Beug (1982) demonstrated that [[psilocin]] levels are nearly absent in early flushes, peak by the fourth flush, and then decline, while [[psilocybin]] shows no consistent directional trend but varies by a factor of four across flushes. These findings have direct implications for dosing accuracy and [[self-blinding]] risks among recreational and therapeutic users.
+The alkaloid content of [[Psilocybe cubensis]] fruiting bodies varies substantially across successive flushes (harvests) of the same culture. Research by Bigwood and Beug (1982) demonstrated that [[psilocin]] levels are nearly absent in early flushes, peak by the fourth flush, and then decline, while [[psilocybin]] shows no consistent directional trend but varies by a factor of four across flushes. These findings have direct implications for dosing accuracy and [[hofmann-self-experiment-with-ergonovine]] risks among recreational and therapeutic users.
 
 ## Study Design
 
 ### Strain and Cultivation
 
-The study used the Amazonian strain of [[Psilocybe cubensis]], sourced from a spore print collected near Pucallpa, Peru. Cultivation followed the [[San Antonio 1971]] method as refined by Oss and Oeric (1976). The substrate consisted of [[rye-grain]] medium in miniculture jars (250 mL) containing 10 g of rye grain and 15 mL of water, autoclaved for sterility and inoculated with spore solution.
+The study used the Amazonian strain of [[Psilocybe cubensis]], sourced from a spore print collected near Pucallpa, Peru. Cultivation followed the [[San Antonio 1971]] method as refined by Oss and Oeric (1976). The substrate consisted of [[psilocybe-cubensis-miniculture-on-rye-grain]] medium in miniculture jars (250 mL) containing 10 g of rye grain and 15 mL of water, autoclaved for sterility and inoculated with spore solution.
 
-Jars were shaken every four days for 28 days to promote even [[mycelial]] colonization of the grain substrate. After full colonization, each jar was cased with a mixture of two parts [[peat]], one part calcium carbonate (CaCO₃), and two parts [[perlite]] or [[vermiculite]]. The casing layer serves as a reservoir for moisture and provides a microclimate conducive to [[primordia]] formation and fruiting body development.
+Jars were shaken every four days for 28 days to promote even [[mycelial-network-communication]] colonization of the grain substrate. After full colonization, each jar was cased with a mixture of two parts [[peat-free-gardening]], one part calcium carbonate (CaCO₃), and two parts [[perlite-cannabis]] or [[vermiculite-cannabis]]. The casing layer serves as a reservoir for moisture and provides a microclimate conducive to [[chen-maitake-primordia-initiation-fruiting]] formation and fruiting body development.
 
 Cased cultures were watered every two days with 1 mL of sterile water delivered via syringe. This precise moisture regimen was maintained to ensure reproducible fruiting conditions across all replicate jars. The use of miniculture jars allowed controlled comparison of alkaloid profiles from the same genetic lineage across multiple flushes.
 
@@ -94,7 +94,7 @@ This unpredictability is especially relevant in the context of microdosing regim
 
 ### Self-Blinding in Clinical Settings
 
-The variation in alkaloid profiles across flushes is relevant to the design of [[self-blinding]] protocols in clinical and research settings. If participants source material from different flushes, the variability in both psilocybin and psilocin content introduces noise that may complicate dose-response relationships and [[placebo control]] measures.
+The variation in alkaloid profiles across flushes is relevant to the design of [[hofmann-self-experiment-with-ergonovine]] protocols in clinical and research settings. If participants source material from different flushes, the variability in both psilocybin and psilocin content introduces noise that may complicate dose-response relationships and [[placebo control]] measures.
 
 ### Standardization Challenges
 
@@ -111,6 +111,8 @@ Additionally, the study did not assess the effect of drying method on alkaloid p
 Bigwood and Beug (1982) provided the first controlled evidence that alkaloid content in [[Psilocybe cubensis]] is not uniform across flushes. The key findings are that [[psilocin]] follows a bell-shaped curve peaking at the fourth flush while [[psilocybin]] remains variable without a clear trend, that caps are roughly twice as potent as stems for psilocybin, and that street samples exhibit tenfold variability in potency. Together, these results demonstrate that dry weight alone is an unreliable proxy for [[psychedelic dose]].
 
 ## See Also
+
+- [[psilocybin-variation-across-flushes]]
 
 - [[Psilocybe cubensis]] cultivation methods
 - [[Reversed-phase HPLC]] for alkaloid analysis

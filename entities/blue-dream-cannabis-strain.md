@@ -136,7 +136,7 @@ Blue Dream has achieved iconic status in cannabis culture, frequently cited as o
 
 ## See Also
 
-- [[og-kush-cannabis-strain]] — Classic indica-dominant hybrid
-- [[sour-diesel-cannabis-strain]] — Energizing sativa-dominant variety
+- [[cannabis-hindu-kush-strain-description-clarke]] — Classic indica-dominant hybrid
+- [[sour-diesel-cannabis]] — Energizing sativa-dominant variety
 - [[myrcene]] — Dominant cannabis terpene
-- [[thc]] — Primary psychoactive cannabinoid
+- [[thc-acetate-synthesis-and-pharmacology]] — Primary psychoactive cannabinoid

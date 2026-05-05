@@ -69,7 +69,7 @@
     69|- In coves, floodplains, and second-growth forests
     70|- Elevations from sea level to ~1,500 m
     71|
-    72|It prefers partial to full shade, consistently moist soils, and the dappled light of the forest understory. Associated canopy trees include [[oak]], [[hickory]], [[maple]], [[tulip poplar]], [[beech]], and [[hemlock]]. The species is classified as "Apparently Secure" (G4) by NatureServe globally, though some populations are declining due to habitat loss and wild harvesting pressure.
+    72|It prefers partial to full shade, consistently moist soils, and the dappled light of the forest understory. Associated canopy trees include [[calcium-accumulators-and-oak-leaves]], hickory, [[maple-syrup-production]], [[tulip poplar]], [[permaculture-neem-and-indian-beech-utility-trees]], and hemlock. The species is classified as "Apparently Secure" (G4) by NatureServe globally, though some populations are declining due to habitat loss and wild harvesting pressure.
     73|
     74|## Cultivation
     75|

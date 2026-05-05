@@ -136,8 +136,7 @@ failures and substrate variability are ongoing challenges.
 
 ## Related Concepts
 
-- [[Brassinosteroids as steroidal phytohormones for fungal growth
-  promotion]] for the broader context of brassinosteroids in fungal
+- [[Brassinosteroids as steroidal phytohormones for fungal growth promotion]] for the broader context of brassinosteroids in fungal
   systems
 - [[Brassinosteroid enhancement of mushroom yield and dry mass]] for
   the growth promotion effects observed in the Gartz study

@@ -97,6 +97,8 @@ Timing of foliar applications should align with pest life cycles and plant growt
 
 ## See Also
 
+- [[foliar-pest-deterrence-aact-mechanisms]]
+
 - [[ingham-aact-disease-suppression]]
 - [[compost-tea-aact]]
 - [[compost-tea-application-rates]]

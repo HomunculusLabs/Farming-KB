@@ -171,6 +171,8 @@ circumtemperate species.
 
 ## See Also
 
+- [[psilocybe-semilanceata-distribution-ecology]]
+
 - [Psilocybe](psilocybe-genus.md)
 - [Neurotropic Fungi Biogeographic Patterns](neurotropic-fungi-biogeographic-patterns.md)
 - [Southern Hemisphere Origin of Neurotropic Fungi](southern-hemisphere-origin-of-neurotropic-fungi.md)

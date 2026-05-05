@@ -125,6 +125,9 @@ lengthening the useful life of each wheat cultivar.
 
 ## See Also
 
+- [[bloomfield-gymnosporangium-cedar-apple-rust-hawthorn-teleospores]]
+- [[bloomfield-plant-hypersensitive-response-rust-arms-race]]
+
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
 - [[bloomfield-coffee-rust-and-crop-pathogens]]
 - [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]

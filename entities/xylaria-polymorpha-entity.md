@@ -144,9 +144,9 @@ Research on *X. polymorpha* specifically is limited, but studies on related *Xyl
 
 ## See Also
 
-- [[xylaria]] — genus overview
+- [[xylaria-hypoxylon]] — genus overview
 - [[cordyceps-militaris]] — related entomopathogenic fungus in Xylariales
-- [[hypoxylon]] — related wood-inhabiting genus
+- [[xylaria-hypoxylon]] — related wood-inhabiting genus
 - [[fomes-fomentarius]] — another common bracket fungus on dead wood
 - [[trametes-versicolor]] — colorful wood-decay polypore
 - [[daldinia-concentrica]] — King Alfred's cakes, another carbonaceous wood fungus

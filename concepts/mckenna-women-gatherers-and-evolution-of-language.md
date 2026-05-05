@@ -164,3 +164,7 @@ originated in women's intimate knowledge of the natural world, then our
 current inability to speak meaningfully about our relationship to nature, to
 find words adequate to the ecological emergency, may reflect the historical
 severing of language from its original context and purpose.
+
+## See Also
+
+- [[mckenna-neanderthal-skull-vibration-language-evolution]]

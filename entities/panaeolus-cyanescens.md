@@ -123,7 +123,9 @@ The common name "Blue Meanies" is shared with a different Australian *Psilocybe*
 
 ## See Also
 
+- [[panaeolus-cyanescens-entity]]
+
 - [[psilocybin]] — Pharmacology and therapeutic applications
 - [[psilocybe-cubensis]] — Comparison with the most common cultivated species
 - [[baeocystin]] — Minor alkaloid found in *P. cyanescens*
-- [[copelandia]] — Alternative generic classification for section *Copelandia*
+- [[copelandia-cyanescens]] — Alternative generic classification for section *Copelandia*

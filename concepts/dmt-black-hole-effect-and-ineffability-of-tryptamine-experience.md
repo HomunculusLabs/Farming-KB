@@ -86,7 +86,7 @@ without quantized distinction.
 ## The Glossolalia Phenomenon
 
 McKenna distinguished DMT language phenomena from classical
-[[glossolalia]]. Classical glossolalia produces fluent but semantically
+glossolalia. Classical glossolalia produces fluent but semantically
 empty vocalizations, after which speakers ask whether they succeeded.
 The DMT-induced phenomenon is fundamentally different: a brain state
 allowing expression of an assembly language behind language, a primal
@@ -111,7 +111,7 @@ resistance to partial description characterizing the DMT state.
 ## Shamanism and the Validation Problem
 
 In archaic societies, individuals showing signs of oddness, epilepsy,
-or survival of unusual ordeals are identified as potential [[shaman|shamans]]
+or survival of unusual ordeals are identified as potential [[cannabis-strain-shaman|shamans]]
 and trained in breathing, plant usage, and other practices. McKenna
 noted that shamans he encountered shared extraordinary centeredness and
 were typically intellectuals alienated from their societies. They are
@@ -146,4 +146,4 @@ the physical black hole's prevention of signal escape.
 - [[mckenna-dmt-experience-and-hyperspace]]
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[tryptamine]] compounds overview
-- [[glossolalia]] and altered states of consciousness
+- glossolalia and altered states of consciousness

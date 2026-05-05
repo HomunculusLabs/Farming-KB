@@ -161,3 +161,7 @@ dominator-paradigm relationship between humans and psychoactive substances.
 - [[mckenna-drugs-governments-and-intelligence-agencies]] — government complicity in the drug trade
 - [[mckenna-dominator-vs-partnership-society-model]] — the theoretical framework linking war, domination, and drugs
 - [[mckenna-suppression-psychedelic-research-lsd-therapy]] — the political suppression of beneficial substances
+
+## See Also
+
+- [[mckenna-acquired-tastes-chemical-addiction-syndrome]]

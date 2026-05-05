@@ -168,4 +168,4 @@ Italian regional laws regulate harvesting seasons, methods, and minimum truffle 
 - [[boletus-edulis]]
 - [[morchella-esculenta]]
 - [[quercus-robur]]
-- [[corylus-avellana]]
+- [[hazelnut-corylus-spp]]

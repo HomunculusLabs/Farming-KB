@@ -10,7 +10,7 @@ sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
 
 Composting is the technique of controlled decomposition of
 food scraps and organic waste to create fertilizer, serving
-as a critical practice for maintaining the [[soil-health|soil health]]
+as a critical practice for maintaining the [[soil-health-and-management|soil health]]
 and [[teaming-with-nutrients-organic-fertilizer-types-and-sources|nutrient cycle]]
 that sustains all ecological systems.
 

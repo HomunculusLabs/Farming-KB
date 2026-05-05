@@ -78,7 +78,9 @@ Fukuoka's [[natural-farming-philosophy]] rejects the very premise that plants ne
 
 A more ecological reading of Liebig's law, informed by modern soil science, recognizes that the "minimum" in any given system might not be a mineral nutrient at all. It might be mycorrhizal colonization (limiting phosphorus uptake), earthworm activity (limiting nutrient mineralization), or soil aggregate stability (limiting root penetration). Practitioners of [[query-how-do-different-composting-methods-compare]] and organic matter management have long understood that feeding the soil food web addresses multiple potential minima simultaneously, rather than chasing individual nutrient deficiencies with chemical inputs.
 
-## Related Topics
+## Related
+
+- [[mckenna-eschatology-and-acceleration-of-history]] Topics
 
 - [[plant-cell-structure-and-organelles]] -- how nutrients are used inside the plant
 

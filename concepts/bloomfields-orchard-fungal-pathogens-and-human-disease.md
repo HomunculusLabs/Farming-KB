@@ -28,7 +28,6 @@ yet receive a fraction of the research attention and funding.
 The most lethal human pathogenic fungus, Cryptococcus neoformans,
 infects a million people annually and kills more than 600,000,
 predominantly in sub-Saharan Africa.
-
 Unlike bacterial or viral epidemics, fungal epidemics unfold
 quietly, afflicting the immunocompromised whose suffering
 attracts little public attention or media coverage.
@@ -41,7 +40,6 @@ The emergence of AIDS in the 1980s created a vast population
 of immunocompromised individuals uniquely vulnerable to
 fungal diseases. Before antiretroviral therapy, more than
 ninety percent of AIDS patients developed fungal infections.
-
 Fungi that are harmless to healthy people became devastating
 pathogens in the absence of T-cell immunity. Cryptococcal
 meningitis alone accounted for hundreds of thousands of
@@ -53,33 +51,13 @@ Cryptococcus neoformans is a yeast with a distinctive
 polysaccharide capsule. The capsule is essential for
 virulence, shielding the fungus from immune detection
 by macrophages and other immune cells.
-
 Infection begins with inhalation of desiccated yeast cells
 from soil contaminated with pigeon droppings. From the
 lungs, the fungus disseminates to the central nervous
 system, causing fatal meningitis if untreated.
 
-The disease follows a grim pattern: headache and fever
-progress to confusion, seizures, coma, and death.
-Antifungal drugs exist but are expensive, toxic, and
-often unavailable in the regions most affected.
+(Section truncated for length.)
 
-Even with treatment, mortality exceeds fifty percent
-in resource-limited settings. The fungus has a
-particular affinity for the brain, crossing the
-blood-brain barrier with disturbing efficiency.
-
-### Pneumocystis Carinii Pneumonia
-
-Pneumocystis pneumonia was the harbinger of AIDS. Before
-HIV was identified, clusters of Pneumocystis pneumonia
-among previously healthy gay men signaled a new epidemic.
-
-The organism was long classified as a protozoan but
-molecular evidence reclassified it as a fungus, one of
-the most basal members of the fungal kingdom.
-
-Pneumocystis cannot be cultured, complicating research.
 It resides in healthy human lungs as a commensal
 organism, causing disease only when immunity collapses.
 The fungus's biology remains poorly understood despite
@@ -92,16 +70,13 @@ its medical importance.
 Histoplasma capsulatum causes histoplasmosis, endemic
 to the Ohio and Mississippi River valleys. The fungus
 grows in soil enriched with bird or bat droppings.
-
 Disturbing contaminated soil releases infectious spores
 that are inhaled into the lungs. Most infections are
 asymptomatic or produce mild flu-like illness.
-
 In immunocompromised patients, the fungus disseminates
 throughout the body, infecting bone marrow, liver,
 spleen, and adrenal glands. The disseminated form
 is fatal without treatment.
-
 The disease is so prevalent in some areas that most
 residents show evidence of prior infection on skin
 tests, suggesting widespread subclinical exposure.
@@ -111,7 +86,6 @@ tests, suggesting widespread subclinical exposure.
 Diagnosing histoplasmosis is difficult because symptoms
 mimic tuberculosis and other respiratory diseases. Culture
 growth takes weeks, delaying treatment decisions.
-
 Antigen detection in urine and serum has improved diagnosis
 but remains unavailable in many endemic areas. The fungus
 exists in two forms: a soil-dwelling mold and a
@@ -124,12 +98,10 @@ Aspergillus fumigatus causes aspergillosis, affecting
 patients with weakened immune systems or damaged lungs.
 The fungus is ubiquitous in the environment, its spores
 present in every breath of outdoor air.
-
 For most people, immune defenses clear the spores
 effortlessly. For immunocompromised patients, inhaled
 spores germinate in the lungs and invade blood vessels,
 causing lethal hemorrhage.
-
 Invasive aspergillosis carries mortality rates exceeding
 fifty percent even with treatment. Allergic forms also
 occur, triggering asthma-like symptoms in sensitized
@@ -145,17 +117,14 @@ Coccidioides species cause coccidioidomycosis, known
 as valley fever, endemic to the southwestern United
 States, northern Mexico, and parts of Central and
 South America.
-
 The fungus grows in arid soils and releases airborne
 arthroconidia during dust storms. Construction, farming,
 and archaeological excavation disturb soil and trigger
 outbreaks. Most infections resolve without treatment.
-
 Some cases progress to chronic pulmonary disease or
 disseminated infection involving bones, joints, skin,
 and meninges. Disseminated disease is devastating,
 requiring years of antifungal therapy.
-
 Climate change expanding arid regions may increase
 the geographic range of this pathogen, posing new
 public health challenges in previously unaffected
@@ -169,7 +138,6 @@ Of the estimated 1.5 million fungal species, only a few
 hundred cause human disease. Mammalian body temperature
 of 37 degrees Celsius excludes most fungi, as does the
 adaptive immune system.
-
 Fungal pathogens are disproportionately drawn from
 species that can grow at elevated temperatures, a
 trait called thermal tolerance that may have evolved
@@ -182,7 +150,6 @@ environmental organisms that cause disease opportunistically.
 Unlike viruses and bacteria that specialize on human hosts,
 most fungal pathogens spend their existence in soil, on
 plants, or in animal droppings.
-
 Cryptococcus lives in pigeon droppings, Histoplasma in
 bat caves, Coccidioides in desert soil. Human infection
 is incidental rather than evolved.
@@ -193,7 +160,6 @@ New fungal pathogens continue to emerge. Candida auris,
 first identified in 2009, is resistant to multiple
 antifungal drugs and has caused hospital outbreaks
 worldwide.
-
 Climate change may select for fungi with greater
 thermal tolerance, potentially expanding the pool of
 species capable of infecting humans. The convergence
@@ -205,12 +171,10 @@ resistance creates a perfect storm for fungal disease.
 Only three major classes of antifungal drugs exist:
 polyenes, azoles, and echinocandins. By contrast,
 dozens of antibiotic classes target bacteria.
-
 Antifungal drug development is difficult because fungi
 share eukaryotic cell biology with humans, making
 toxicity a constant concern. Drugs that disrupt
 fungal membranes or cell walls often affect human cells.
-
 Resistance is growing. Agricultural azole use selects
 for resistant Aspergillus strains that cause untreatable
 infections in patients. The pipeline of new antifungal
@@ -222,7 +186,6 @@ Fungal diseases are classified as neglected tropical
 diseases despite their global distribution. They receive
 less than two percent of infectious disease research
 funding.
-
 The reasons include the association with AIDS stigma,
 the concentration of cases in poor regions, and the
 perception that fungal diseases affect few people.

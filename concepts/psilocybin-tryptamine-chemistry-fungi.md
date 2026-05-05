@@ -122,4 +122,4 @@ neurotropic species that do not exhibit blueing.
 - [[neurotropic-fungi-classification]]
 - [[amanita-muscaria-and-ibotenic-acid-fungi]]
 - [[ergot-fungi-claviceps-ergot-alkaloids]]
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]

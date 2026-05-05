@@ -116,5 +116,5 @@ Wild harvesting has been a significant conservation concern. Commercial demand p
 - [[spilanthes-acmella]] — Spilanthes, an immunostimulatory herb with a different mechanism
 - [[cannabidiol-cbd]] — CBD shares CB2 receptor modulation with Echinacea alkylamides
 - [[taraxacum-officinale]] — Dandelion, another deep-rooted Asteraceae with traditional medicinal use
-- [[goldenseal]] — Hydrastis canadensis, another overharvested native American medicinal plant
+- goldenseal — Hydrastis canadensis, another overharvested native American medicinal plant
 - [[verbascum-thapsus]] — Mullein, a co-administered herb for respiratory conditions in traditional practice

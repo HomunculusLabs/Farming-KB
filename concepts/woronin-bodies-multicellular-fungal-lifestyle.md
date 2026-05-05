@@ -9,11 +9,11 @@ sources:
 
 # Woronin Bodies and Multicellular Fungal Lifestyle
 
-Woronin bodies are specialized, dense-core organelles unique to filamentous [[ascomycota|ascomycete fungi]] that function as emergency plugs, sealing off damaged or aging hyphal compartments to maintain the integrity of the mycelial network. First described by the Russian mycologist Mikhail Stepanovich Woronin in the 1860s, these remarkable structures are essential to the multicellular lifestyle of septate fungi, enabling them to behave as coordinated multicellular organisms despite lacking the cell adhesion mechanisms found in plants and animals.
+Woronin bodies are specialized, dense-core organelles unique to filamentous [[ascomycota-phylogeny-major-classes-lineages|ascomycete fungi]] that function as emergency plugs, sealing off damaged or aging hyphal compartments to maintain the integrity of the mycelial network. First described by the Russian mycologist Mikhail Stepanovich Woronin in the 1860s, these remarkable structures are essential to the multicellular lifestyle of septate fungi, enabling them to behave as coordinated multicellular organisms despite lacking the cell adhesion mechanisms found in plants and animals.
 
 ## The Septate Hyphal Architecture
 
-Filamentous fungi grow as tubular filaments called hyphae, which extend at their tips and branch to form an interconnected network called a mycelium. In most higher fungi, particularly the [[ascomycota]], hyphae are divided into discrete cellular compartments by cross-walls called septa (singular: septum). Each septum contains a central pore that allows cytoplasmic streaming, organelle movement, and nutrient translocation between adjacent compartments.
+Filamentous fungi grow as tubular filaments called hyphae, which extend at their tips and branch to form an interconnected network called a mycelium. In most higher fungi, particularly the [[ascomycota-phylogeny-major-classes-lineages]], hyphae are divided into discrete cellular compartments by cross-walls called septa (singular: septum). Each septum contains a central pore that allows cytoplasmic streaming, organelle movement, and nutrient translocation between adjacent compartments.
 
 This architecture creates a tension: the septal pores are necessary for the free flow of materials that enables the mycelium to function as an integrated network, but they also represent vulnerability. If a hyphal tip is damaged or a compartment is invaded by a pathogen, the open pores could allow catastrophic loss of cytoplasm or spread of the damage throughout the entire mycelium.
 
@@ -21,7 +21,7 @@ This architecture creates a tension: the septal pores are necessary for the free
 
 Woronin bodies are roughly spherical, electron-dense organelles typically 0.1 to 1.0 micrometers in diameter. They are tethered to either side of each septal pore by specialized protein filaments, positioned ready to plug the pore when needed.
 
-The core structural protein of Woronin bodies is Hex1, a self-assembling protein that forms the dense matrix of the organelle. Hex1 was first identified in [[neurospora-crassa]] and has since been found throughout the [[ascomycota]]. Key features of Hex1 and Woronin body biogenesis include:
+The core structural protein of Woronin bodies is Hex1, a self-assembling protein that forms the dense matrix of the organelle. Hex1 was first identified in [[neurospora-crassa]] and has since been found throughout the [[ascomycota-phylogeny-major-classes-lineages]]. Key features of Hex1 and Woronin body biogenesis include:
 
 - Hex1 protein self-assembles into the dense core of the Woronin body within the peroxisome (a cellular organelle involved in metabolic processes)
 - Woronin bodies are derived from peroxisomes through a specific developmental pathway
@@ -56,7 +56,7 @@ While emergency septal pore plugging is the primary function, research has revea
 
 ## Evolutionary Significance
 
-The evolution of Woronin bodies represents a critical innovation that enabled the [[ascomycota]] to develop a truly multicellular lifestyle. Without some mechanism for septal pore control, the open connections between hyphal compartments would make the mycelium vulnerable to any local damage. The Woronin body solution allows [[ascomycota]] to maintain the advantages of cytoplasmic continuity (efficient nutrient transport, coordinated growth) while gaining the advantages of compartmentalization (damage containment, cellular specialization).
+The evolution of Woronin bodies represents a critical innovation that enabled the [[ascomycota-phylogeny-major-classes-lineages]] to develop a truly multicellular lifestyle. Without some mechanism for septal pore control, the open connections between hyphal compartments would make the mycelium vulnerable to any local damage. The Woronin body solution allows [[ascomycota-phylogeny-major-classes-lineages]] to maintain the advantages of cytoplasmic continuity (efficient nutrient transport, coordinated growth) while gaining the advantages of compartmentalization (damage containment, cellular specialization).
 
 This is analogous to the evolution of tight junctions in animal epithelial tissues or plasmodesmata regulation in plants. In each case, the challenge is to allow intercellular communication while maintaining cellular autonomy and damage containment.
 
@@ -109,7 +109,7 @@ Not all septate fungi possess Woronin bodies. Different fungal lineages have evo
 - **Some ascomycetes**: Certain early-diverging ascomycetes lack both Woronin bodies and parenthesomes, relying on other mechanisms such as cytoplasmic compaction or plugging by other organelles.
 - **Yeasts**: True yeasts, which do not form filamentous hyphae under most conditions, generally lack both septal pore organelles and the hyphal compartmentalization challenges that make them necessary.
 
-The distribution of Woronin bodies across the fungal kingdom provides insights into the evolutionary history of the [[ascomycota]] and the multiple independent solutions to multicellular organization in fungi.
+The distribution of Woronin bodies across the fungal kingdom provides insights into the evolutionary history of the [[ascomycota-phylogeny-major-classes-lineages]] and the multiple independent solutions to multicellular organization in fungi.
 
 ## Woronin Bodies in Biotechnology
 
@@ -121,7 +121,7 @@ Understanding Woronin body biology has practical applications in fungal biotechn
 
 ## See Also
 
-- [[ascomycota]]
+- [[ascomycota-phylogeny-major-classes-lineages]]
 - [[fungal-hyphae]]
 - [[mycelial-network-architecture]]
 - [[fungal-nutrient-translocation-mycelial-systems]]

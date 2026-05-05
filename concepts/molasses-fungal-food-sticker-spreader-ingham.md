@@ -125,5 +125,5 @@ When combining ingredients, the total food load must stay within limits that the
 - [[aact-brewing-ingredients-ingham]]
 - [[aact-fungal-dominant-tea]]
 - [[aact-aeration-oxygen-management-ingham]]
-- [[humic-acids]]
-- [[osmotic-effects-microbial-selection]]
+- [[humic-acids-soil-biology-ingham]]
+- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]

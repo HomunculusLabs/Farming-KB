@@ -132,9 +132,9 @@ Trikatu ("three acrids") combines black pepper, long pepper, and ginger as a cla
 Similar traditions exist in Unani medicine (Filfil Siyah) and traditional Chinese medicine (Hujiao).
 Understanding piperine's effects is essential for rational dosing in modern herbal medicine and nutraceutical development.
 ## See Also
-- [[piper-nigrum|Piper nigrum]]
+- [[piper-nigrum-entity|Piper nigrum]]
 - [[curcumin|Curcumin]]
-- [[cytochrome-p450|Cytochrome P450]]
+- [[cytochrome-p450-enzyme-system|Cytochrome P450]]
 - [[resveratrol|Resveratrol]]
 - [[cannabidiol-cbd|CBD Bioavailability]]
-- [[bioavailability|Bioavailability]]
+- [[bioavailability-in-fungal-bioremediation|Bioavailability]]

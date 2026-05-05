@@ -120,7 +120,9 @@ setting, and stomach contents at the time of ingestion. Higher doses
 produce more intense perceptual distortions, greater alterations in
 thought processes, and increased risk of adverse psychological reactions.
 
-## Related Topics
+## Related
+
+- [[emcdda-psilocybin-non-addictive-profile-tolerance]] Topics
 
 - [[emcdda-psilocybin-mushroom-species-and-identification]] for species
   that contain these active compounds

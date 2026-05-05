@@ -129,6 +129,8 @@ The principal bioactive constituents are **triterpenoid saponin glycosides** col
 - **Enhanced protein synthesis:** Stimulates new protein synthesis in the hippocampus critical for long-term memory consolidation
 ## Related
 
+- [[bacopa-monnieri-detailed]]
+
 - [[nootropic-herbs-guide]] — other cognitive-enhancing herbs
 - [[adaptogenic-herbs-guide]] — herbs that support stress adaptation
 - [[liver-and-detoxification-herbs]] — related herbal medicine topics

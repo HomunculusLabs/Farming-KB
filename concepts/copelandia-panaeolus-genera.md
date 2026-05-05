@@ -129,6 +129,6 @@ sufficient for species-level determination.
 - [[copelandia-cambodginiensis-profile]]
 
 - [[neurotropic-fungi-classification]]
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
 - [[gymnopilus-genus-neurotropic-species]]

@@ -98,7 +98,9 @@ salt stress that reduces both yield and quality.
 - Weekly runoff ec-tds-cannabis|EC testing catches rising salt levels
   before visible symptoms develop
 
-## Related Questions
+## Related
+
+- [[query-how-do-i-restore-saline-and-compacted-soil]] Questions
 - [[query-what-causes-nutrient-lockout-in-cannabis]]
 - [[query-how-to-manage-ph-for-healthy-cannabis-plants]]
 - [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]

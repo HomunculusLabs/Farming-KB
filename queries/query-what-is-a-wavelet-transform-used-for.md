@@ -97,4 +97,6 @@ Its best applications appear when broad trends and sharp details both matter.
 
 ## Related
 
+- [[query-can-moringa-be-used-for-water-purification]]
+
 - [[query-what-is-biochar-and-should-i-use-it]]

@@ -16,11 +16,19 @@ sources:
 
 Ingoldian hyphomycetes are a group of aquatic fungi that produce spectacularly shaped conidia (asexual spores) found in freshwater habitats worldwide. Named after their discoverer, **Cecil Terence Ingold** (1905-2010), who first identified them in foam collected from a brook in Leicester in 1938, these fungi are now known to comprise more than 300 species and are the subject of over 1,000 scientific publications.
 
+
+
+
+
 ## Discovery
 
 Ingold found the characteristic spores trapped in natural foam that forms at the bases of waterfalls and around half-submerged branches in fast-flowing creeks. The foam is created by fatty substances released from decaying leaves that act as natural detergents, forming bubbles when water is churned violently. These bubbles concentrate the spores, making them visible to anyone examining the foam closely.
 
 When Ingold presented his findings at a meeting of the British Mycological Society, a dismissive colleague from Cambridge University suggested the structures were merely hairs from plant leaves. Sixty years later, the significance of Ingold's discovery is compared to the first scientific reports of elephants, rhinoceroses, and other major animal groups: an entirely new type of fungus had been found, a rich mine of species that had always existed but had been invisible to science.
+
+
+
+
 
 ## Spore Morphology
 
@@ -33,6 +41,10 @@ Ingoldian conidia come in an extraordinary variety of shapes:
 
 The spores of *Actinospora* are among the most impressive. A hyphal apex swells to form a central hub from which four buds emerge and elongate into arms. At maturity, the spore spans 0.5 millimeters in diameter, making it visible to the naked eye with a magnifying glass and likely the largest spore produced by any fungus.
 
+
+
+
+
 ## Why the Elaborate Shapes?
 
 The unusual spore shapes were initially thought to slow sedimentation by increasing drag. However, meticulous experiments demonstrated that spores with arms fall through water at the same rate as spherical spores of similar mass. Water is a viscous medium for microscopic particles, slowing descent to millimeters per minute regardless of appendages.
@@ -41,17 +53,33 @@ The most compelling explanation comes from **search theory**, a branch of mathem
 
 A second advantage of the tetraradiate shape is the **three-point landing mechanism**. When the tip of one arm strikes a solid surface, water movement forces the spore to pivot around this attachment point until additional arms contact the substrate. Each arm tip then swells and secretes adhesive, cementing the spore to the leaf. The infection hyphae that emerge from each arm allow the spore to attack its food from the corners of a triangle.
 
+
+
+
+
 ## Ecological Role
 
 Ingoldian fungi are instrumental in **leaf decomposition** in freshwater ecosystems. Spores reach concentrations of 20,000 per liter of water in late fall and early winter. Upon landing on submerged leaves, they germinate into mycelia that soften and macerate plant tissues by secreting cellulose-degrading enzymes. The hyphae raise the protein content of the debris as dead plant material is transformed into living fungus, creating a food resource for tiny crustaceans and other invertebrates.
+
+
+
+
 
 ## Evolutionary Convergence
 
 The fabrication of tetraradiate spore morphology by unrelated fungi represents a striking case of **evolutionary convergence**. Ingoldian spores are the asexual phases (anamorphs) of fungi that produce sexual spores in other habitats. The enormous spores of *Actinospora* belong to an ascomycete cup fungus, while other Ingoldians are asexual manifestations of basidiomycetes, ascomycetes, and even zygomycetes. The independent evolution of similar shapes in unrelated lineages to meet the same environmental challenge parallels the independent derivation of hyphae by stramenopile fungi and mushroom relatives discussed elsewhere.
 
+
+
+
+
 ## Aero-aquatic Fungi
 
 A related group called **aero-aquatic fungi** specializes in leaf decomposition in stagnant water. They produce ornate spores shaped like barrels and cages that trap air bubbles. The trapped air provides buoyancy, lifting the spores from their mycelium and allowing them to drift along the water surface until they encounter suitable substrate.
+
+
+
+
 
 ## Terence Ingold
 

@@ -109,6 +109,8 @@ The pattern McKenna identified in the Opium Wars — powerful entities profiting
 
 ## See Also
 
+- [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]
+
 - [[mckenna-opium-wars-and-drug-diplomacy]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]

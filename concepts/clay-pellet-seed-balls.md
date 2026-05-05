@@ -100,6 +100,8 @@ soil, and hands — make it accessible even in resource-poor environments.
 
 ## See Also
 
+- [[clay-pellet-seed-encapsulation]]
+
 - [[natural-farming]]
 - [[do-nothing-farming]]
 - [[desertification]]

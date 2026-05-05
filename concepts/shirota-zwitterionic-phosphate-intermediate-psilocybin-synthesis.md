@@ -148,3 +148,7 @@
    148|Psilocin was characterized similarly with melting point 169 to 174 degrees
    149|Celsius (decomposing), UV maxima at 222.5, 268.0, 284.5, and 294.0 nm, and
    150|HRESIMS confirming C12H17N2O. The proton NMR in CDCl3 showed characteristic
+
+## See Also
+
+- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]

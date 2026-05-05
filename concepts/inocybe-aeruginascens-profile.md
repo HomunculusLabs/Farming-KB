@@ -79,7 +79,7 @@ psilocybin-containing species alone.
 
 Inocybe species are generally challenging to identify due to their small size,
 brown coloration, and the fact that many species within the genus are toxic.
-Unlike [[psilocybe-genus-overview]] species with their distinctive
+Unlike [[psilocybe-genus-diversity-and-taxonomy]] species with their distinctive
 dark spore prints, Inocybe species have brown spore prints that can resemble
 those of many non-psychoactive species.
 

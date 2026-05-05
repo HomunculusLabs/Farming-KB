@@ -147,3 +147,7 @@ A healthy 20-liter culture can produce **5–15 g of dried spirulina per week**,
 ---
 
 *This page is part of the permaculture and homesteading wiki. For related topics, see: [Cyanobacteria in Permaculture Systems](#), [Aquaponics Integration](#), and [Nutrient-Dense Superfoods for Self-Reliance](#).*
+
+## See Also
+
+- [[query-how-do-i-start-making-fermented-dairy-at-home]]

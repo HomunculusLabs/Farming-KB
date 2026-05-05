@@ -97,6 +97,8 @@ Starting simple with one species and one substrate type builds the skills and co
 
 ## Related
 
+- [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
+
 - [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] Questions
 
 - [[query-how-to-start-growing-mushrooms-at-home]]

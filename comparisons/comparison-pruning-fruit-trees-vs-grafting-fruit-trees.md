@@ -131,6 +131,8 @@ preserving established root systems.
 
 ## See Also
 
+- [[comparison-grafting-vs-budding-fruit-trees]]
+
 - [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]]
 
 - [[comparison-pruning-vs-grafting]]

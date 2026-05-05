@@ -145,6 +145,6 @@
    174|- [[fukuoka-textdoc-search-natural-form-citrus-trees]]
    175|- [[fukuoka-textdoc-natural-form-fruit-trees]]
    176|- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
-   177|- [[fukuoka-textdoc-arrowhead-scale-natural-control]]
+   177|- [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
    178|- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
    179|

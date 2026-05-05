@@ -112,6 +112,8 @@ Cultivation of psilocybin-containing mushrooms is illegal in many jurisdictions.
 
 ## See Also
 
+- [[species-specific-cold-shock-response-psilocybe]]
+
 - [[stamets-psi-psilocybe-mexicana-species-guide]]
 
 - [[stamets-psi-psilocybe-cyanescens-species-guide]]

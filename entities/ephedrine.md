@@ -141,7 +141,7 @@ drug manufacturing.
 
 ## See Also
 - [[ephedra-sinica]]
-- [[pseudoephedrine]]
-- [[methamphetamine]]
-- [[amphetamine]]
-- [[cathinone]]
+- pseudoephedrine
+- methamphetamine
+- amphetamine
+- cathinone

@@ -120,6 +120,9 @@ Modern research on LSA and related ergolines encompasses several areas:
 
 ## See Also
 
+- [[halpern-lysergic-acid-amide-plants-and-pharmacology]]
+- [[lysergic-acid-hydroxyethylamide]]
+
 - lsd — synthetic diethylamide derivative
 - [[ipomoea-violacea]] — morning glory, LSA source
 - [[turbina-corymbosa]] — ololiuqui, traditional LSA source

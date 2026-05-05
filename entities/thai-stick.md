@@ -121,6 +121,8 @@ True landrace Thai Stick is increasingly rare due to hybridization and commercia
 
 ## See Also
 
+- [[thai-stick-entity]]
+
 - [[colombian-gold]] — Fellow equatorial sativa landrace from South America
 - [[malawi-gold]] — African sativa landrace with similarly long flowering and potent effects
 - [[panama-red]] — Central American sativa landrace sharing the cerebral profile

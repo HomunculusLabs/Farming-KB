@@ -156,3 +156,7 @@ The simplest mead — honey, water, and yeast. Low ABV (3–5%), drinkable like 
 ---
 
 *Start with one beverage, get comfortable, then expand. Within a few months you'll have a kitchen full of cultures and the confidence to experiment freely.*
+
+## See Also
+
+- [[query-how-do-i-make-koji-at-home-for-beginners]]

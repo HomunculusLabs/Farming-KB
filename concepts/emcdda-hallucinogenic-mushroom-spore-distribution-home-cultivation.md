@@ -145,3 +145,7 @@ trend in Europe.
 [[emcdda-hallucinogenic-mushroom-internet-shop-pricing-snapshot-2006]]
 [[emcdda-hallucinogenic-mushroom-legal-loopholes]]
 [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
+
+## See Also
+
+- [[emcdda-smartshop-trade-online-distribution-mushrooms]]

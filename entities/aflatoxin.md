@@ -113,9 +113,9 @@ Aflatoxin contamination has far-reaching economic consequences beyond direct hea
 ## See Also
 
 - [[aspergillus-flavus]] — Primary fungal producer of aflatoxins B₁ and B₂
-- [[aspergillus-parasiticus]] — Produces both B-group and G-group aflatoxins
-- [[ochratoxin]] — Another significant mycotoxin produced by Aspergillus and Penicillium species
+- [[aspergillus-oryzae]] — Produces both B-group and G-group aflatoxins
+- ochratoxin — Another significant mycotoxin produced by Aspergillus and Penicillium species
 - [[ergosterol]] — Fungal membrane sterol used as a biomarker for fungal contamination
-- [[hepatocellular-carcinoma]] — Primary cancer associated with chronic aflatoxin exposure
-- [[sterigmatocystin]] — Biosynthetic precursor of aflatoxins with lower toxicity
-- [[nixtamalization]] — Traditional maize processing technique that reduces aflatoxin levels
+- hepatocellular carcinoma — Primary cancer associated with chronic aflatoxin exposure
+- sterigmatocystin — Biosynthetic precursor of aflatoxins with lower toxicity
+- nixtamalization — Traditional maize processing technique that reduces aflatoxin levels

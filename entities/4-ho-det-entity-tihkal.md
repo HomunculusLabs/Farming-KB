@@ -82,6 +82,8 @@ the three forms) support this. See also [[alpha-n-dmt-entity-tihkal]] for discus
 
 ## See Also
 
+- [[4-aco-det-entity]]
+
 - [[2-me-det-entity-tihkal]]
 
 - [[tryptamine-family-overview]] — structural context

@@ -180,7 +180,9 @@ Moringa is considered one of the most valuable species in tropical permaculture 
 
 ## See Also
 
-- [[glycine-max]] — Soybean, another protein-rich legume for food security
+- [[comparison-moringa-oleifera-vs-moringa-stenopetala]]
+
+- [[glycine-max-soybean-permaculture]] — Soybean, another protein-rich legume for food security
 - [[azadirachta-indica]] — Neem, companion multipurpose tree in Indian agriculture
-- [[leucaena-leucocephala]] — Leucaena, another fast-growing multipurpose leguminous tree
-- [[permaculture-design-principles]] — Design framework integrating species like moringa
+- [[leucaena-alley-cropping-systems]] — Leucaena, another fast-growing multipurpose leguminous tree
+- [[permaculture-design-principles-beginners]] — Design framework integrating species like moringa

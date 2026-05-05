@@ -167,7 +167,7 @@ Notable derivatives and crosses of Jack Herer include:
 
 ## See Also
 
-- [[haze]] — The foundational sativa parent
+- [[purple-haze]] — The foundational sativa parent
 - [[northern-lights]] — The iconic indica parent
 - [[skunk-1]] — The backbone of modern hybrid breeding
-- [[cannabis-terpenes]] — Comprehensive guide to cannabis terpene science
+- [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] — Comprehensive guide to cannabis terpene science

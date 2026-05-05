@@ -19,7 +19,7 @@ continuous canopy cover and soil protection.
 
 ## The Case for Fuelwood
 
-[[forest-gardening-and-food-forests]] integrates fuelwood production with food
+forest gardening and food forests integrates fuelwood production with food
 crops in designed ecosystems. Wood remains the primary cooking and heating fuel for a significant portion of
 the world's population. Even in industrialized nations, wood fuel offers a
 renewable, carbon-neutral energy source when managed sustainably -- the carbon

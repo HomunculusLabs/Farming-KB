@@ -116,6 +116,9 @@ harvesting fast-growing aquatic plants to maintain open water surface area.
 
 ## Related
 
+- [[query-how-do-i-create-habitat-for-amphibians-in-a-permaculture-system]]
+- [[query-how-do-i-design-a-farm-pond-for-irrigation-and-wildlife]]
+
 - [[query-how-can-duckweed-be-used-in-a-permaculture-pond]] Questions
 - [[permaculture-aquaculture]]
 - [[permaculture-duck-pond-systems]]

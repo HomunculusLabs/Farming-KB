@@ -18,7 +18,7 @@ sources:
 
 Cold shocking is a fruiting initiation technique that involves exposing colonised and
 cased substrates to reduced temperatures for a period before returning them to normal
-fruiting conditions. Not all [[psilocybe]] species respond equally to this treatment,
+fruiting conditions. Not all psilocybe species respond equally to this treatment,
 and understanding the species-specific differences is essential for efficient
 cultivation and avoiding unnecessary handling of cultures that do not benefit from
 the procedure.

@@ -190,8 +190,8 @@ Several hybrid systems bridge the gap between natural and conventional pools:
 
 ## See Also
 
-- [[constructed-wetlands-and-ecological-wastewater-treatment|Constructed Wetlands and Ecological Wastewater Treatment]]
-- [[aquatic-plants-and-pond-ecosystems|Aquatic Plants and Pond Ecosystems]]
-- [[rainwater-harvesting-and-graywater-recycling|Rainwater Harvesting and Graywater Recycling]]
-- [[bioremediation-using-fungi|Bioremediation Using Fungi]]
-- [[constructed-wetlands-and-ecological-wastewater-treatment|Constructed Wetlands]]
+- [[singh-constructed-wetlands-fungal-wastewater-treatment|Constructed Wetlands and Ecological Wastewater Treatment]]
+- [[mollison-aquatic-pond-types-and-nomenclature|Aquatic Plants and Pond Ecosystems]]
+- [[urban-permaculture-rainwater-harvesting-graywater|Rainwater Harvesting and Graywater Recycling]]
+- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation|Bioremediation Using Fungi]]
+- [[singh-constructed-wetlands-fungal-wastewater-treatment|Constructed Wetlands]]

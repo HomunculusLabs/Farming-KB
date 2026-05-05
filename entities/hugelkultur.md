@@ -91,17 +91,9 @@ Hügelkultur works by replicating the natural process of decomposition that occu
    - Creates air pockets and initial structure for fungal colonization
    - Can include brush, hedge trimmings, corn stalks, sunflower stems
 
-3. **Organic matter layer (10–15%)**
-   - Compost, manure, leaf mold, grass clippings, kitchen scraps
-   - Provides nitrogen to balance the carbon-heavy wood layers
-   - Green manures and cover crop residues
-   - Seaweed (rinsed if saltwater)
 
-4. **Topsoil layer (top 10–15%)**
-   - Quality topsoil or finished compost
-   - 10–15 cm deep
-   - Seeds and seedlings are planted in this layer
-   - Mulch the surface with straw, leaves, or wood chips to retain moisture
+(Section truncated for length.)
+
 
 ### Construction Steps
 
@@ -188,7 +180,6 @@ Hügel mounds constructed adjacent to or partially within ponds and water featur
 ## Applications in Permaculture Design
 
 Hügelkultur integrates with other permaculture techniques:
-
 - **Food forests:** As the base layer for fruit tree guilds and shrub plantings
 - **Earthworks:** Combined with swales, ponds, and terraces in holistic water management
 - **Zone 1–2:** Intensive vegetable production near the home
@@ -200,6 +191,6 @@ Hügelkultur integrates with other permaculture techniques:
 
 - [[biochar]] — Carbon-rich soil amendment from pyrolyzed biomass
 - [[sheet-mulching]] — No-till bed preparation technique (lasagna gardening)
-- [[swales]] — Contour-based water harvesting earthworks
+- [[pdc-earthworks-and-swales]] — Contour-based water harvesting earthworks
 - [[mycoremediation]] — Fungal-based soil and water remediation
 - [[food-forest-design]] — Polycultural food production systems

@@ -97,6 +97,8 @@ The East-West comparison in Fukuoka's work remains relevant as interest in natur
 
 ## See Also
 
+- [[fukuoka-western-commitment-and-japanese-halfheartedness]]
+
 - [[fukuoka-natural-farming-philosophy]]
 
 - [[fukuoka-nature-transcends-human-knowledge]]

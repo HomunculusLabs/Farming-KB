@@ -41,7 +41,7 @@ At the highest doses, psilocybin produced the full-blown shamanic ecstasy, chara
 
 ## Glossolalia and Mushroom Cultures
 
-McKenna distinguished between the psilocybin-induced vocal phenomenon and ordinary [[glossolalia]] (speaking in tongues). In cultures with established traditions of mushroom use, these vocal outbursts were not random babbling but were recognized as a specific form of expression:
+McKenna distinguished between the psilocybin-induced vocal phenomenon and ordinary glossolalia (speaking in tongues). In cultures with established traditions of mushroom use, these vocal outbursts were not random babbling but were recognized as a specific form of expression:
 
 - The vocalizations were spontaneous yet structured
 - They were culturally contextualized within shamanic frameworks
@@ -50,7 +50,7 @@ McKenna distinguished between the psilocybin-induced vocal phenomenon and ordina
 
 ## Language as Visible Phenomenon: Synesthesia and Meaning
 
-A key element of McKenna's thesis is the claim that under psilocybin influence, language becomes "visibly beheld." This suggests a [[synesthesia]]-like state in which spoken words acquire visual properties, effectively bridging the gap between the auditory and visual domains of experience. If early humans regularly experienced language as a visual phenomenon during mushroom intoxication, this could have:
+A key element of McKenna's thesis is the claim that under psilocybin influence, language becomes "visibly beheld." This suggests a synesthesia-like state in which spoken words acquire visual properties, effectively bridging the gap between the auditory and visual domains of experience. If early humans regularly experienced language as a visual phenomenon during mushroom intoxication, this could have:
 
 - Provided a powerful mnemonic device, making remembered phrases more vivid and persistent
 - Created a shared experiential context for the development of symbolic thought

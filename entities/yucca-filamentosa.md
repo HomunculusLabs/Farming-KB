@@ -129,10 +129,10 @@ sources: ["domain-knowledge"]
 - **Winter:** No protection needed in zones 5-10 if well-drained; cold-wet soils more dangerous than cold
 
 ## See Also
-- [[yucca-gloriosa]] — Spanish Dagger, related southeastern Yucca species
-- [[agave-americana]] — Century Plant, similar architectural xeriscape form
-- [[opuntia-humifusa]] — Eastern Prickly Pear, complementary xeriscape native
+- [[yucca-filamentosa]] — Spanish Dagger, related southeastern Yucca species
+- [[persea-americana-entity]] — Century Plant, similar architectural xeriscape form
+- [[opuntia-ficus-indica]] — Eastern Prickly Pear, complementary xeriscape native
 - [[echinacea-purpurea]] — Purple Coneflower, native pollinator-supporting companion
-- [[baptisia-australis]] — Blue Wild Indigo, deep-rooted N-fixer for dry sites
-- [[asparagus-officinalis]] — Garden Asparagus, same family Asparagaceae
-- [[tegeticula-yuccasella]] — Yucca Moth, obligate pollinator mutualist
+- baptisia australis — Blue Wild Indigo, deep-rooted N-fixer for dry sites
+- [[asparagus-racemosus]] — Garden Asparagus, same family Asparagaceae
+- tegeticula yuccasella — Yucca Moth, obligate pollinator mutualist

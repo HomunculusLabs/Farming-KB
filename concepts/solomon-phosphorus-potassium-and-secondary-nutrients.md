@@ -118,7 +118,9 @@ by the microbial population until decomposition is well advanced. This
 is why sheet composting must be done far enough in advance of planting
 for decomposition to be largely complete.
 
-## Related Concepts
+## Related
+
+- [[solomon-potassium-yield-versus-nutrition-tradeoff]] Concepts
 
 - [[solomon-complete-organic-fertilizer-guide]]
 - [[solomon-fertilizer-selection-application]]

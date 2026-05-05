@@ -111,6 +111,8 @@ Stuart contextualized ayahuasca tourism within a broader historical pattern of W
 
 ## See Also
 
+- [[ayahuasca-tourism-economics-commodification-peru]]
+
 - [[ayahuasca-tourism]] - General overview of ayahuasca tourism
 - [[ayahuasca-tourism-shamanic-tourism-economics]] - Broader economic analysis
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]] - Safety and practitioner evaluation

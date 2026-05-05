@@ -142,7 +142,7 @@ and has permaculture applications as a windbreak and soil accumulator.
   windbreak; establishes a 2–3 m barrier in a single growing season
 - **Soil improvement:** Deep taproot breaks hardpan layers; large leaf
 ## See Also
-- [[jatropha-curcas]]
+- [[jatropha-curcas-entity]]
 - Linum usitatissimum (flax)
 - [[glycyrrhiza-glabra]]
 - [[moringa-oleifera]]

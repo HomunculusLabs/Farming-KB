@@ -112,9 +112,11 @@ The two-tier model suggests several productive avenues for future investigation.
 
 ## See Also
 
-- [[endorhiza-microbiome]] for details on endophytic root colonization
-- [[rhizosphere-effect]] for how root exudates shape surrounding soil communities
+- [[two-tier-selection-model]]
+
+- [[cannabis-endorhiza-microbiome]] for details on endophytic root colonization
+- [[rhizosphere-microbiome-selection-model]] for how root exudates shape surrounding soil communities
 - [[cannabis-microbiome-research]] for the broader context of Cannabis-microbe studies
-- [[soil-health-microbiome-indicators]] for edaphic factors affecting microbial communities
-- [[acidobacteria-soil-ecology]] for the ecology of oligotrophic soil bacteria that decline in endorhiza
-- [[pseudomonas-endophytes]] for the role of Pseudomonas species as core endorhiza colonizers
+- [[soil-health-indicators]] for edaphic factors affecting microbial communities
+- [[serpentine-soil-ecology]] for the ecology of oligotrophic soil bacteria that decline in endorhiza
+- [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]] for the role of Pseudomonas species as core endorhiza colonizers

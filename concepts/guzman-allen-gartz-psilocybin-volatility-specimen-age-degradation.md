@@ -122,3 +122,7 @@ The indigenous practice of storing dried specimens in dry, cool locations reflec
 The degradation problem has profound implications for the interpretation of ethnopharmacological field data. When researchers collect specimens in the field and ship them to distant laboratories for analysis, the specimens may have already lost significant alkaloid content. This creates a systematic bias toward underreporting potency.
 
 Furthermore, the potency of mushrooms consumed in traditional ritual contexts may differ substantially from the potency of herbarium specimens of the same species. This discrepancy can lead to confusion about dosage, species identification, and the pharmacological basis of traditional practices. Researchers must account for the time elapsed between collection and analysis when interpreting chemical data.
+
+## See Also
+
+- [[psilocybin-degradation-volatility-and-specimen-age]]

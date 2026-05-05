@@ -83,7 +83,7 @@ Psilocybin, by contrast, showed no consistent upward or downward trend across fl
 
 ## Analytical Methodology
 
-The analysis used reversed-phase [[hplc]] (high performance liquid chromatography) calibrated against standards from the National Institute on Drug Abuse. The detection limit was approximately 0.01 micrograms of psilocybin or psilocin. A linear relationship with 10% repeatability was found between concentration and peak area from 0.2 to 3 micrograms total. Results were qualitatively confirmed by TLC (thin-layer chromatography) using a butanol-acetic acid-water (12:3:5) solvent system.
+The analysis used reversed-phase [[hplc-analysis-of-tryptamine-alkaloids]] (high performance liquid chromatography) calibrated against standards from the National Institute on Drug Abuse. The detection limit was approximately 0.01 micrograms of psilocybin or psilocin. A linear relationship with 10% repeatability was found between concentration and peak area from 0.2 to 3 micrograms total. Results were qualitatively confirmed by TLC (thin-layer chromatography) using a butanol-acetic acid-water (12:3:5) solvent system.
 
 ### Cultivation Conditions
 
@@ -116,6 +116,8 @@ Bigwood and Beug concluded with a direct warning to users:
 This finding underscores that weight-based dosing of [[psilocybe-cubensis]] is inherently imprecise. The same dry weight of mushrooms from different sources, or even different flushes from the same culture, can deliver substantially different doses of active compounds.
 
 ## See Also
+
+- [[psilocybin-miniculture-rye-grain-method-bigwood-beug]]
 
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]] - Full analysis of flush-to-flush variation
 - [[psilocybin-potency-variation]] - Broader context of potency variability

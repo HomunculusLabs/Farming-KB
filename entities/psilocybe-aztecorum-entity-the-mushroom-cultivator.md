@@ -125,6 +125,8 @@ extensively documented.
 
 ## See Also
 
+- [[psilocybe-aztecorum-entity]]
+
 - [[psilocybe-angustispora]]
 - [[psilocybe-argentipes]]
 - [[psilocybe-fimetaria]]

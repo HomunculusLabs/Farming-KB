@@ -146,5 +146,5 @@ Significant reductions in Hamilton Anxiety Rating Scale scores after 60 days at 
 - [[ashwagandha]] — adaptogenic herb for stress and cognitive support
 - [[ginkgo-biloba]] — nootropic herb for circulation and memory
 - [[rhodiola-rosea]] — adaptogenic herb for fatigue and mental performance
-- [[triterpenoid-saponins]] — bioactive compounds in medicinal plants
-- [[venous-insufficiency]] — primary clinical indication for Centella extracts
+- triterpenoid saponins — bioactive compounds in medicinal plants
+- venous insufficiency — primary clinical indication for Centella extracts

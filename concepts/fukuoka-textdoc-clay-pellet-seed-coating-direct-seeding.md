@@ -141,8 +141,8 @@
    145|## Wikilinks
    146|
    147|- [[fukuoka-textdoc-happy-hill-rice-strain-world-food]]
-   148|- [[fukuoka-textdoc-desert-rain-vegetation-cycle]]
-   149|- [[fukuoka-textdoc-direct-seeding-versus-rice-transplanting]]
+   148|- [[fukuoka-textdoc-desert-rainfall-vegetation-cycle-nature-dissected]]
+   149|- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
    150|- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
    151|- [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]]
    152|- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]

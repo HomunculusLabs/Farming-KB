@@ -89,7 +89,9 @@ from New Jersey show that the basidiomycete fruiting body form is ancient. Some 
 instantly recognizable as living species, with spores visible beneath gills and the telltale
 hilar appendix (signature of the catapult mechanism) visible on electron microscopy.
 
-## Related Topics
+## Related
+
+- [[gasteromycete-fungi]] Topics
 
 - [[stinkhorn-fungi-biology]] - Stinkhorn detail
 - [[stinkhorns-and-cage-fungi]] - Cage fungi detail

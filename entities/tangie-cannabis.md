@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[california-orange]] and [[skunk]], Tangie is a modern revival of the popular Tangerine Dream phenotype that was highly sought-after in the 1990s Amsterdam coffeeshop scene. Originally bred by DNA Genetics, Tangie quickly became a staple in European cannabis culture before spreading to North American markets. With a distinctive sweet-tangerine bouquet that is among the most recognizable in cannabis, Tangie has earned a devoted following among both recreational consumers and medical patients. The strain consistently rates 4.5 out of 5 stars across major platforms and has accumulated nearly 30,000 followers on Leafly alone.
+Tangie is a sativa-dominant cannabis strain renowned for its vivid tangerine citrus aroma and uplifting cerebral effects. Created by crossing [[fukuoka-california-foxtail-greening-discovery]] and [[skunk-1]], Tangie is a modern revival of the popular Tangerine Dream phenotype that was highly sought-after in the 1990s Amsterdam coffeeshop scene. Originally bred by DNA Genetics, Tangie quickly became a staple in European cannabis culture before spreading to North American markets. With a distinctive sweet-tangerine bouquet that is among the most recognizable in cannabis, Tangie has earned a devoted following among both recreational consumers and medical patients. The strain consistently rates 4.5 out of 5 stars across major platforms and has accumulated nearly 30,000 followers on Leafly alone.
 
 ## Lineage and Breeding History
 

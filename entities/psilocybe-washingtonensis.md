@@ -88,5 +88,5 @@ psychoactive profile.
 ## See Also
 - [[psilocybe-atrobrunnea]]
 - [[psilocybe-pelliculosa-entity]]
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[psilocybe-cyanescens]]

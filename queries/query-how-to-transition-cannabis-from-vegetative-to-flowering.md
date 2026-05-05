@@ -98,7 +98,9 @@ Humidity should be gradually reduced from around 60 percent during vegetative gr
 - Reduce nitrogen and increase phosphorus and potassium for [[cannabis-flowering-stage-management]]
 - Maintain complete darkness during the 12-hour off period to prevent re-vegging or hermies
 
-## Related Questions
+## Related
+
+- [[query-how-to-transition-from-conventional-to-no-till-farming]] Questions
 
 - [[query-best-light-schedule-for-cannabis]]
 - [[query-how-to-prevent-hermaphrodite-cannabis-plants]]

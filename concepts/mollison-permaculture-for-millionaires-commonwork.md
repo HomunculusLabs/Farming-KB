@@ -88,7 +88,9 @@ Mollison is candid about the risks of the commonwork model. The most common fail
 ## The Role of Demonstration Sites
 
 Mollison considered demonstration sites essential to the commonwork strategy. Before approaching major investors, the permaculture movement needed working examples that proved the economic viability of large-scale biological resource systems. The [[krameterhof-holzer-model-farm]] in Austria and other established permaculture demonstration farms serve this function, showing that productive, profitable agriculture can coexist with ecological restoration. Mollison argued that a small number of well-documented, financially transparent demonstration projects would be more persuasive to investors than any amount of theoretical argument. Each successful demonstration site also trains the designers and managers needed for the next, larger project, creating a self-expanding network of capable practitioners.
-## Related Pages
+## Related
+
+- [[comparison-fig-vs-mulberry-for-permaculture]] Pages
 
 - [[mollison-permaculture-community-legal-structure]]
 - [[mollison-dry-distillation-bioenergy]]

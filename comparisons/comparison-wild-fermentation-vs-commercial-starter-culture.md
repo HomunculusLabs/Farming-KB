@@ -154,3 +154,7 @@ Many practitioners combine elements of both approaches, recognizing that the spe
 ## Summary
 
 Wild fermentation and commercial starter culture fermentation are not opposed methods but endpoints on a spectrum of microbial management. Wild fermentation maximizes diversity, complexity, and terroir expression at the cost of predictability and consistency. Commercial starters maximize control, reproducibility, and scalability at the cost of ecological richness. The best practitioners in both traditions understand the other's principles and borrow selectively. For home fermenters, wild fermentation offers the deepest engagement with microbial ecology and the richest sensory rewards — but starter cultures provide a reliable on-ramp and a safety net for high-risk products.
+
+## See Also
+
+- [[comparison-koji-vs-scoby-fermentation-culture]]

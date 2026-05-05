@@ -143,8 +143,10 @@ The strain's genetics contribute to numerous modern hybrids bred for tropical sa
 
 ## See Also
 
+- [[malawi-gold-entity]]
+
 - [[cannabis-sativa]] — Species-level page covering sativa genetics and characteristics
 - [[durban-poison]] — Another renowned African landrace, from South Africa
 - [[chemdawg]] — Modern hybrid with possible African landrace influence
 - [[myrcene]] — Primary terpene contributing to Malawi Gold's sedative comedown
-- [[terpinolene]] — Characteristic terpene giving the strain its unique fruity-floral aroma
+- terpinolene — Characteristic terpene giving the strain its unique fruity-floral aroma

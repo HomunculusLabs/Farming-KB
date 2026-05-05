@@ -62,7 +62,7 @@ Young plants survive brief freezes to −5 °C.
 L. albus forms a symbiotic relationship with Bradyrhizobium spp. in root nodules,
 fixing 200–300 kg N/ha/year — among the highest rates reported for any annual legume.
 This exceeds the fixation capacity of [[alfalfa-medicago-sativa]] under comparable
-conditions and rivals perennial legumes including [[trifolium-pratense]]. Inoculation
+conditions and rivals perennial legumes including [[trifolium-repens]]. Inoculation
 with appropriate Bradyrhizobium strains is recommended on soils without prior lupin
 cropping history.
 
@@ -73,7 +73,7 @@ produces 6–12 t/ha of above-ground dry matter. Rapid early growth suppresses w
 weeds; the deep root system breaks plow pans and compacted layers, improving soil
 structure and water infiltration. When terminated at early flowering, residue C:N ratio
 (15–20:1) allows rapid decomposition. It serves as an effective rotation partner for
-[[raphanus-sativus]] (daikon radish) in multi-species cover crop mixes for compaction
+[[crocus-sativus]] (daikon radish) in multi-species cover crop mixes for compaction
 remediation.
 
 ### Soil Improvement
@@ -91,7 +91,7 @@ nut trees. Its nitrogen contribution supports establishing [[moringa-oleifera]] 
 subtropical systems. In temperate food forests, interplanting beneath [[robinia-
 pseudoacacia]] or [[acacia-confusa]] combines deep nitrogen inputs from both taprooted
 and nodal-fixing species. Dense biomass provides weed suppression and mulch. Flowering
-supports pollinators that also service neighboring [[tagetes-erecta]] plantings.
+supports pollinators that also service neighboring [[tagetes-erecta-entity]] plantings.
 [[tithonia-diversifolia]] cuttings interplanted with lupin benefit from elevated soil
 nitrogen during decomposition.
 
@@ -137,10 +137,10 @@ reduce alkaloid content, and expand climatic adaptation.
 ## See Also
 
 - [[alfalfa-medicago-sativa]] — perennial forage legume and nitrogen fixer
-- [[trifolium-pratense]] — red clover, widely used cover crop
+- [[trifolium-repens]] — red clover, widely used cover crop
 - [[acacia-confusa]] — fast-growing N-fixing tree for tropical permaculture
 - [[robinia-pseudoacacia]] — black locust, temperate N-fixing pioneer tree
 - [[moringa-oleifera]] — multipurpose tree with high leaf protein
 - [[tithonia-diversifolia]] — Mexican sunflower, dynamic accumulator
-- [[raphanus-sativus]] — daikon radish, bio-drilling cover crop
-- [[tagetes-erecta]] — African marigold, companion planting ally
+- [[crocus-sativus]] — daikon radish, bio-drilling cover crop
+- [[tagetes-erecta-entity]] — African marigold, companion planting ally

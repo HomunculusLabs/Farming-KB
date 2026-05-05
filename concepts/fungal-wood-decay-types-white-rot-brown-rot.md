@@ -112,6 +112,8 @@ Comparative genomics has identified class II peroxidases (including lignin perox
 
 ## Related
 
+- [[bloomfield-fungal-enzymatic-wood-decay-cellulose-lignin-brown-rot]]
+
 - [[fungal-lignin-degradation-enzymology]]
 - [[fungal-cellulose-decomposition-fungal-enzymes]]
 - [[fungal-hemicellulose-pectin-decomposition]]

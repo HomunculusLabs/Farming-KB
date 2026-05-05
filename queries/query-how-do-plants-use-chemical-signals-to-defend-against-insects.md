@@ -139,8 +139,10 @@ Not entirely, but it's a powerful component of **integrated pest management (IPM
 
 ## See Also
 
-- [[plant-volatile-organic-compounds-and-chemical-ecology]] — comprehensive topic page on VOCs
+- [[query-how-do-plants-defend-themselves-chemically]]
+
+- [[plant-olfaction-and-chemical-sensing]] — comprehensive topic page on VOCs
 - [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] — detailed comparison of two IPM approaches
-- [[plant-defense-chemistry-and-secondary-metabolites]] — broader plant defense chemistry
-- [[beneficial-insects-and-biological-pest-control]] — predators and parasitoids attracted by plant signals
-- [[entomopathogenic-fungi-and-biological-pest-control]] — another indirect defense pathway
+- [[plant-cellulose-and-carbohydrate-chemistry]] — broader plant defense chemistry
+- [[hamilton-beneficial-insects-and-biological-pest-control]] — predators and parasitoids attracted by plant signals
+- [[hamilton-beneficial-insects-and-biological-pest-control]] — another indirect defense pathway

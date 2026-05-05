@@ -84,6 +84,8 @@ After beds cease to be productive:
 
 ## Related
 
+- [[pine-disease-and-matsutake-mushroom-decline]]
+
 - [[verticillium-dry-bubble-mushroom-disease]] Concepts
 
 - [[duggar-mushroom-growing-room-design]] - Environmental management

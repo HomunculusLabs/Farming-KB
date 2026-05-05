@@ -106,6 +106,8 @@ The scale of fungal spore dispersal is staggering. Stamets' estimate of 5 trilli
 
 ## See Also
 
+- [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
+
 - [[fungal-biology-fundamentals]] -- basic fungal life cycle
 - [[fungal-relationships-with-insects]] -- insect-fungal interactions
 - [[fungal-ecology]] -- ecological context

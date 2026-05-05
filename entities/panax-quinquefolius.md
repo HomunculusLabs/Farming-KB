@@ -143,8 +143,8 @@ sources:
 
 - [[panax-ginseng]] — Asian ginseng (*Panax ginseng*)
 - [[panax-notoginseng]] — Tienchi ginseng (*Panax notoginseng*)
-- [[araliaceae]] — Ginseng family overview
-- [[adaptogens]] — Adaptogenic herbs and compounds
-- [[ginsenosides]] — Active triterpene saponins
-- [[woodland-botanicals]] — Forest-grown medicinal plants
-- [[cites-appendix-ii]] — Internationally regulated plant species
+- araliaceae — Ginseng family overview
+- adaptogens — Adaptogenic herbs and compounds
+- ginsenosides — Active triterpene saponins
+- woodland botanicals — Forest-grown medicinal plants
+- [[fukuoka-natural-protective-forests-appendix]] — Internationally regulated plant species

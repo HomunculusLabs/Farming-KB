@@ -116,5 +116,5 @@ intermediates) could eventually provide sufficient quantities for systematic pha
 - [[harmine]]
 - [[harmaline]]
 - [[β-carbolines]]
-- [[ayahuasca]]
+- ayahuasca
 - [[tryptamine]]

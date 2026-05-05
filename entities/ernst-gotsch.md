@@ -116,5 +116,5 @@ Despite these limitations, the demonstrated capacity to restore degraded land wh
 - [[masanobu-fukuoka]] — Japanese farmer whose natural farming philosophy parallels Götsch's approach
 - [[geoff-lawton]] — Permaculture designer who has incorporated syntropic principles into food forest design
 - [[sepp-holzer-entity]] — Austrian farmer with complementary large-scale land restoration methods
-- [[erictoensmeier]] — Eric Toensmeier, researcher who has documented syntropic agriculture systems
+- erictoensmeier — Eric Toensmeier, researcher who has documented syntropic agriculture systems
 - [[ben-falk]] — Vermont-based farmer applying succession-based design in temperate climates

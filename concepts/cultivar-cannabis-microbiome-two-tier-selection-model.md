@@ -143,3 +143,7 @@ Cannabinoid concentration correlated significantly with endorhiza structure
 (r-stat: 0.863, p = 0.001). However, THC was also correlated to soil variables,
 making it difficult to disassociate microbiome-cannabinoid associations from
 soil chemistry effects. For more on cannabinoid biosynthesis, see [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]].
+
+## See Also
+
+- [[understanding-cultivar-two-tier-selection-model-cannabis-microbiome]]

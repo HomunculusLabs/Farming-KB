@@ -30,7 +30,7 @@ sources:
 
 ## Overview
 
-The California poppy is a low-growing, glaucous herb reaching 5–30 cm in height with finely divided blue-green foliage and showy solitary flowers in shades of yellow, orange, and red. It blooms from February through September in its native range. The plant is drought-tolerant, self-seeding, and thrives in full sun with well-drained sandy or loamy soils. It has been used for centuries by indigenous peoples of California and adopted into Western herbal medicine as a mild sedative and anxiolytic. Modern research has identified multiple alkaloids responsible for its pharmacological activity, particularly interactions with [[gaba|GABA]] receptors.
+The California poppy is a low-growing, glaucous herb reaching 5–30 cm in height with finely divided blue-green foliage and showy solitary flowers in shades of yellow, orange, and red. It blooms from February through September in its native range. The plant is drought-tolerant, self-seeding, and thrives in full sun with well-drained sandy or loamy soils. It has been used for centuries by indigenous peoples of California and adopted into Western herbal medicine as a mild sedative and anxiolytic. Modern research has identified multiple alkaloids responsible for its pharmacological activity, particularly interactions with [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA]] receptors.
 
 ## Key Details
 
@@ -90,7 +90,7 @@ Indigenous peoples of California — including the Tongva (Gabrielino), Cahuilla
 
 ### Western Herbal Medicine
 
-In modern Western herbalism, *E. californica* is used as a mild sedative and anxiolytic, often considered gentler than [[passiflora-incarnata]] or [[valeriana-officinalis]]. Preparations include tinctures (1:5 in 40–60% ethanol), teas from dried aerial parts, syrups from fresh petals, and standardized capsule extracts. Typical doses range from 0.5–2 mL of tincture taken 1–3 times daily. It is frequently combined with [[passiflora-incarnata]], [[valeriana-officinalis]], [[melatonin]], or [[ashwagandha]] in sleep and relaxation formulas.
+In modern Western herbalism, *E. californica* is used as a mild sedative and anxiolytic, often considered gentler than [[passiflora-incarnata]] or [[valeriana-officinalis]]. Preparations include tinctures (1:5 in 40–60% ethanol), teas from dried aerial parts, syrups from fresh petals, and standardized capsule extracts. Typical doses range from 0.5–2 mL of tincture taken 1–3 times daily. It is frequently combined with [[passiflora-incarnata]], [[valeriana-officinalis]], [[melatonin-entity-tihkal]], or [[ashwagandha]] in sleep and relaxation formulas.
 
 ### Modern Research
 
@@ -100,11 +100,11 @@ No large-scale clinical trials have demonstrated efficacy for psychiatric disord
 
 ### GABA Receptor Interaction
 
-The primary mechanism for sedative and anxiolytic effects involves modulation of [[gaba|GABA_A]] receptors:
+The primary mechanism for sedative and anxiolytic effects involves modulation of [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptors:
 
 - **Allosteric modulation**: Crude extracts and isolated alkaloids (particularly protopine and allocryptopine) potentiate GABA-evoked chloride currents, similar to but less potent than benzodiazepines
-- **Benzodiazepine-like profile**: Behavioral effects in animal models are partially reversed by flumazenil, suggesting binding at or near the benzodiazepine site on the [[gaba|GABA_A]] receptor complex
-- **Subtype selectivity**: Activity may preferentially target certain [[gaba|GABA_A]] receptor subtypes, potentially offering a different side-effect profile compared to classical benzodiazepines
+- **Benzodiazepine-like profile**: Behavioral effects in animal models are partially reversed by flumazenil, suggesting binding at or near the benzodiazepine site on the [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptor complex
+- **Subtype selectivity**: Activity may preferentially target certain [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptor subtypes, potentially offering a different side-effect profile compared to classical benzodiazepines
 
 ### Other Mechanisms
 
@@ -128,18 +128,18 @@ Flavonoid constituents contribute to significant antioxidant activity: DPPH radi
 
 ## Safety and Toxicity
 
-*E. californica* is generally regarded as safe at typical herbal doses. Acute toxicity is low (LD₅₀ in rodents >2000 mg/kg for aqueous extracts), and the plant contains no addictive opiate alkaloids. Traditionally contraindicated in pregnancy due to potential uterine-stimulating effects of Papaveraceae alkaloids. Potential additive sedation when combined with benzodiazepines, barbiturates, or other CNS depressants, and may potentiate [[melatonin]] supplements. Rare side effects include mild gastrointestinal upset or drowsiness at higher doses. Not a controlled substance in any jurisdiction. Reports of livestock toxicity (cattle, sheep) from large ingestion of dried material, with symptoms including ataxia and sedation.
+*E. californica* is generally regarded as safe at typical herbal doses. Acute toxicity is low (LD₅₀ in rodents >2000 mg/kg for aqueous extracts), and the plant contains no addictive opiate alkaloids. Traditionally contraindicated in pregnancy due to potential uterine-stimulating effects of Papaveraceae alkaloids. Potential additive sedation when combined with benzodiazepines, barbiturates, or other CNS depressants, and may potentiate [[melatonin-entity-tihkal]] supplements. Rare side effects include mild gastrointestinal upset or drowsiness at higher doses. Not a controlled substance in any jurisdiction. Reports of livestock toxicity (cattle, sheep) from large ingestion of dried material, with symptoms including ataxia and sedation.
 
 ## Wiki Relevance
 
-*E. californica* is relevant as a non-opioid Papaveraceae species with pharmacological activity centered on [[gaba|GABA_A]] receptor modulation. It serves as a point of comparison with [[papaver-somniferum]] (same family, different alkaloid profile) and as a companion herb often formulated alongside [[passiflora-incarnata]], [[valeriana-officinalis]], [[melatonin]], and [[ashwagandha]] in sleep and anxiety preparations.
+*E. californica* is relevant as a non-opioid Papaveraceae species with pharmacological activity centered on [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptor modulation. It serves as a point of comparison with [[papaver-somniferum]] (same family, different alkaloid profile) and as a companion herb often formulated alongside [[passiflora-incarnata]], [[valeriana-officinalis]], [[melatonin-entity-tihkal]], and [[ashwagandha]] in sleep and anxiety preparations.
 
 ## See Also
 
 - [[papaver-somniferum]] — Opium poppy; related Papaveraceae species with distinct alkaloid profile
-- [[passiflora-incarnata]] — Passionflower; herbal anxiolytic and sedative with shared [[gaba|GABA]]-ergic mechanism
+- [[passiflora-incarnata]] — Passionflower; herbal anxiolytic and sedative with shared [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA]]-ergic mechanism
 - [[valeriana-officinalis]] — Valerian; widely used herbal sedative often combined with California poppy
 - [[ashwagandha]] — Adaptogenic herb with complementary anxiolytic properties
 - [[bacopa-monnieri]] — Nootropic herb with anxiolytic and cognitive-enhancing effects
-- [[melatonin]] — Hormone supplement commonly paired with California poppy in sleep formulas
-- [[gaba]] — Primary inhibitory neurotransmitter; target receptor for California poppy alkaloids
+- [[melatonin-entity-tihkal]] — Hormone supplement commonly paired with California poppy in sleep formulas
+- [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] — Primary inhibitory neurotransmitter; target receptor for California poppy alkaloids

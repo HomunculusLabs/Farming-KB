@@ -136,10 +136,10 @@ C. zacatechichi is relatively easy to cultivate from seed or cuttings:
 
 ## See Also
 
-- [[entheogens]]
-- [[lucid-dreaming]]
-- [[oneirogens]]
+- [[entheogens-in-ancient-cultures]]
+- [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
+- oneirogens
 - [[salvia-divinorum]]
-- [[tageteae]]
-- [[chontal-people]]
-- [[ethnobotanical-plants]]
+- tageteae
+- [[mazatec-people]]
+- [[hallucinogenic-plants-new-world]]

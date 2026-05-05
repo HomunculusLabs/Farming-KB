@@ -9,15 +9,21 @@ sources:
 
 # Oxalyl Chloride Acylation of 4-Acetylindole
 
+
+
 ## Overview
 
 The acylation of 4-acetylindole with oxalyl chloride is the key carbon-carbon bond-forming step in the Shirota, Hakamata, and Goda (2003) synthesis of psilocin. This reaction installs the glyoxalyl group at the indole 3-position, creating the 3-glyoxalyl-4-acetylindole intermediate (compound 5) that subsequently undergoes amidation with dimethylamine to form the glyoxalylamide precursor to psilocin.
+
+
 
 ## Reaction Design
 
 The indole 3-position is the most nucleophilic site on the indole ring, making it the preferred location for electrophilic substitution reactions. Oxalyl chloride serves as a bifunctional electrophile that introduces a two-carbon unit bearing both a ketone and a reactive acid chloride. The ketone becomes part of the glyoxalyl moiety, while the acid chloride is subsequently displaced by dimethylamine.
 
 This two-step acylation-amidation sequence is conceptually equivalent to introducing a dimethylaminooxalyl group at the 3-position, but performing it as separate operations provides better control over the reaction outcome and enables crystallization of the intermediate.
+
+
 
 ## Reaction Conditions
 
@@ -30,11 +36,15 @@ The procedure described by Shirota et al. proceeds as follows:
 
 The addition of n-hexane is a crystallization-aiding strategy. The glyoxalyl product has limited solubility in the ether/hexane mixture, causing it to crystallize as yellow needles during the cold storage period.
 
+
+
 ## Product Isolation
 
 The resulting yellow crystals of compound 5 are separated from the solution by simple filtration. No chromatographic purification is required. The crystals are then dissolved directly in anhydrous tetrahydrofuran for the next step (dimethylamine amidation), without the need for complete drying or characterization.
 
 This telescoping approach, where the crude product of one step is carried forward to the next, is a hallmark of the Shirota synthesis philosophy of minimizing isolation and purification operations.
+
+
 
 ## Amidation with Dimethylamine
 
@@ -48,6 +58,8 @@ The second part of the acylation-amidation conversion treats the dissolved glyox
 
 The product (compound 6, 3-dimethylaminooxalyl-4-acetylindole) is collected by filtration and washed sequentially with n-hexane, ethyl acetate, and water.
 
+
+
 ## Yield and Product Characteristics
 
 The combined acylation-amidation sequence affords compound 6 in 80.0% yield (22.0 g from 100 mmol of starting material) as an ivory white crystalline powder. This represents an excellent yield for a two-step sequence carried out on 100 mmol scale.
@@ -56,17 +68,23 @@ The 1H NMR spectrum of compound 6 in CDCl3 shows the characteristic broad single
 
 The 13C NMR confirms the presence of two carbonyl carbons in the glyoxalyl moiety at delta 185.4 (C-1 prime) and 168.4 (C-2 prime), the acetyl carbonyl at delta 170.9, and two distinct N-methyl carbons at delta 37.4 and 34.2.
 
+
+
 ## Comparison with the Benzyl Protection Route
 
 An alternative route using 4-O-benzyl protection of 4-hydroxyindole was also explored by Shirota et al. but was found to be inferior because the 4-O-benzyl derivative was somewhat unstable and required careful control of reaction conditions. Furthermore, it was not isolable in crystal form, making purification and handling more difficult.
 
 The acetyl protection route, by contrast, provides a stable crystalline intermediate (compound 4) and proceeds through crystalline intermediates at every stage of the synthesis, enabling consistent purification by simple filtration.
 
+
+
 ## Significance in the Overall Synthesis
 
 This acylation-amidation step is the point at which the tryptamine side chain begins to take shape. The glyoxalyl moiety introduced here will ultimately be reduced by LiAlH4 to form the characteristic dimethylaminoethyl side chain of psilocin. Without this step, the synthesis would require a fundamentally different approach to side chain construction, likely involving alkylation of the indole nitrogen or Grignard addition chemistry.
 
 The combination of oxalyl chloride acylation followed by dimethylamine amidation represents an efficient method for installing the complete carbon skeleton of the tryptamine side chain in a single two-step operation.
+
+
 
 ## Related Topics
 

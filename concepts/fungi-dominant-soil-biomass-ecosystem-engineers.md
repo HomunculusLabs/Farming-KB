@@ -18,15 +18,12 @@ sources:
 ---
 
 # Fungi as Dominant Soil Biomass and Ecosystem Engineers
-
 Fungi constitute the dominant living biomass in soil ecosystems, exceeding the
 combined mass of all other soil organisms in most terrestrial environments.
-
 This quantitative dominance translates into enormous functional significance, as
 fungal metabolic activities drive decomposition, nutrient cycling, soil structure
 formation, and plant-microbe interactions that underpin the productivity and
 stability of terrestrial ecosystems.
-
 The concept of fungi as ecosystem engineers, organisms that directly or indirectly
 modulate the availability of resources to other species by causing physical state
 changes in biotic or abiotic materials, has become central to understanding their
@@ -34,65 +31,23 @@ ecological role.
 
 ## Quantitative Biomass Estimates
 
-Fungal biomass in soil is quantitatively remarkable.
-
-In temperate forest soils, fungal biomass typically ranges from 500 to 5,000
-kilograms per hectare in the top 15 centimetres of soil, with ectomycorrhizal fungi
-often comprising the largest single component.
-
-Tropical forest soils contain somewhat lower fungal biomass due to faster turnover
-rates and higher temperatures, but still exceed bacterial biomass by significant
-margins.
-
-In agricultural soils converted from forest, fungal biomass typically declines by 50
-to 80 percent, reflecting the sensitivity of fungal networks to soil disturbance.
-
-Mycelial lengths in soil are equally impressive.
-
-A single gram of forest soil may contain 10 to 100 metres of fungal hyphae, while
-the total mycelial length in a hectare of temperate forest soil can extend to
-thousands of kilometres.
-
-This extraordinary physical extent means that fungal hyphae contact an enormous
-volume of soil, creating a pervasive network that permeates the soil matrix and
-interfaces with plant roots, mineral particles, and organic matter at microscopic
-scales.
-
-Biomass estimation methods include direct microscopy with staining techniques (such
-as fluorescent antibody staining or vital dyes), phospholipid fatty acid (PLFA)
-analysis, and ergosterol quantification.
-
-Each method has strengths and limitations.
-
-Microscopy provides spatial information but is labor-intensive.
-
-PLFA analysis distinguishes fungal from bacterial biomass but cannot resolve below
-the group level.
-
-Ergosterol is a fungal-specific sterol that provides a quantitative biomarker,
-though its concentration varies with fungal species and growth conditions.
+(Section content removed for length. See source for full details.)
 
 ## The Ecosystem Engineer Concept
 
 The ecosystem engineer concept, as formulated by Jones, Lawton, and Shachak (1994),
 identifies organisms that create, modify, or maintain habitats through their
 physical activities.
-
 Fungi qualify as ecosystem engineers through multiple mechanisms.
-
 Their hyphal networks physically bind soil particles, creating and maintaining soil
 aggregates that are fundamental to soil structure.
-
 Their metabolic activities alter the chemical composition of soil solution, affecting
 nutrient availability for plants and other organisms.
-
 Their interactions with plant roots reshape the below-ground resource allocation
 landscape.
-
 Unlike many ecosystem engineers that modify their environment primarily through
 mechanical means, such as beavers building dams or earthworms burrowing, fungi often
 engineer their environment through biochemical processes.
-
 The secretion of organic acids, enzymes, and chelating compounds into the soil
 solution represents a form of chemical engineering that can dissolve mineral
 matrices, release bound nutrients, and alter soil pH over scales ranging from
@@ -103,31 +58,23 @@ micrometres around individual hyphae to metres across entire mycelial networks.
 Soil aggregates, the clumps of soil particles held together by organic matter and
 biological exudates, are fundamental units of soil structure that affect water
 infiltration, gas exchange, root penetration, and erosion resistance.
-
 Fungi play a central role in aggregate formation through several mechanisms.
-
 Hyphal enmeshment physically binds soil particles together, while the production of
 extracellular polymeric substances (EPS) and glomalin-related soil proteins
 (particularly from arbuscular mycorrhizal fungi) acts as a biological glue that
 stabilizes aggregates.
-
 Research has shown that fungal-mediated aggregates are more stable than those formed
 by other biological or physical processes.
-
 The stability arises from the combination of physical entanglement by hyphae and the
 resistant nature of fungal exudates, which degrade slowly in soil.
-
 This stability has practical implications for soil management, as practices that
 maintain fungal populations, such as reduced tillage and organic amendments, tend to
 improve soil structure and reduce erosion.
-
 Glomalin, a glycoprotein produced by arbuscular mycorrhizal fungi, has been
 identified as a major contributor to soil organic carbon pools.
-
 Glomalin is highly resistant to microbial decomposition and can persist in soil for
 years to decades, providing long-term aggregate stability and contributing to soil
 carbon sequestration.
-
 The concentration of glomalin in soil correlates strongly with aggregate stability
 and water-holding capacity, making it a key indicator of soil health.
 
@@ -135,72 +82,31 @@ and water-holding capacity, making it a key indicator of soil health.
 
 Fungi are the primary agents of decomposition for recalcitrant organic materials,
 particularly lignin and cellulose, the two most abundant organic polymers on Earth.
-
 White-rot basidiomycetes possess lignin peroxidase, manganese peroxidase, and
 laccase enzymes that can oxidatively depolymerize lignin, a feat matched by few
 other organisms.
-
 Brown-rot fungi employ a non-enzymatic Fenton chemistry mechanism to depolymerize
 cellulose, generating hydroxyl radicals through the reaction of hydrogen peroxide
 with ferrous iron.
-
 The decomposition activity of fungi has a characteristic spatial pattern that reflects
 their foraging strategy.
-
 Fungal mycelia typically colonize organic matter from a pre-existing network,
 establishing nutrient conduits between the new resource and the existing mycelial
 biomass.
-
 This networked approach to decomposition contrasts with the more diffuse activity of
 bacteria and results in more efficient nutrient capture and retention within the
 fungal biomass, reducing leaching losses from the ecosystem.
-
 The enzymatic capabilities of fungi extend beyond lignin and cellulose to include
 chitin, keratin, cutin, suberin, and a wide range of aromatic compounds.
-
 This enzymatic versatility allows fungi to decompose virtually all natural organic
 materials and many synthetic compounds, including polycyclic aromatic hydrocarbons,
 polychlorinated biphenyls, and certain pesticides.
-
 This decomposer versatility positions fungi as key organisms in both natural carbon
 cycling and applied bioremediation.
 
 ## Mycorrhizal Symbiosis and Plant Nutrition
 
-Mycorrhizal fungi form symbiotic associations with the roots of over 80 percent of
-terrestrial plant species, representing one of the most widespread and ecologically
-significant mutualisms on Earth.
-
-Arbuscular mycorrhizal fungi (AMF) associate with a broad range of plant species and
-are particularly important in grasslands and tropical forests, while
-ectomycorrhizal fungi (ECMF) associate primarily with trees in temperate and boreal
-forests.
-
-The mycorrhizal symbiosis fundamentally alters plant nutrient acquisition.
-
-The fungal mycelium extends the effective root system by orders of magnitude,
-accessing soil volumes and nutrient pools that roots alone cannot reach.
-
-In exchange for photosynthetically-derived carbon, the fungus supplies the host
-plant with mineral nutrients, particularly phosphorus and nitrogen, and in some
-cases with water.
-
-The carbon cost to the plant is substantial, with estimates suggesting that plants
-may allocate 10 to 30 percent of their net photosynthate to mycorrhizal partners.
-
-The specificity of mycorrhizal associations varies considerably.
-
-AMF are relatively unspecific, with individual fungal species able to colonize
-hundreds of plant species.
-
-ECMF are more specific, with certain fungal species showing preferences for
-particular tree genera.
-
-Ericoid mycorrhizal fungi associate with plants in the Ericaceae family and are
-particularly important in acidic, nutrient-poor soils such as heathlands and bogs.
-
-Orchid mycorrhizal fungi are obligate symbionts that provide carbon to orchid seeds
-during germination, a critical stage in the orchid life cycle.
+(Section content removed for length. See source for full details.)
 
 ## Common Mycorrhizal Networks
 
@@ -208,16 +114,13 @@ A remarkable consequence of the mycorrhizal symbiosis is the formation of common
 mycorrhizal networks (CMNs), also called mycorrhizal mycelial networks or
 wood-wide webs, in which individual fungal mycelia simultaneously associate with
 multiple plants.
-
 These networks can connect plants of the same or different species, creating
 below-ground pathways for the transfer of carbon, nutrients, water, and signaling
 compounds between individuals.
-
 CMNs have been demonstrated to facilitate interplant carbon transfer, with research
 showing that carbon can move from shaded to illuminated seedlings, from adult trees
 to seedlings in the understory, and between species with different photosynthetic
 capacities.
-
 The ecological implications include potential facilitation of seedling establishment,
 maintenance of species diversity through differential resource sharing, and
 coordination of physiological responses to environmental stress across plant
@@ -227,22 +130,17 @@ communities.
 
 Fungi contribute to rock weathering and mineral transformation through both direct
 and indirect mechanisms.
-
 Direct mechanisms include the production of organic acids (oxalic, citric, gluconic)
 that dissolve mineral surfaces, the secretion of siderophores that chelate iron and
 other metals, and the physical penetration of mineral matrices by hyphal tips
 exerting turgor pressures of several atmospheres.
-
 Indirect mechanisms include the modification of soil microenvironmental conditions,
 such as pH and redox potential, that affect mineral stability.
-
 Lithotrophic fungi, those capable of using inorganic substrates as energy sources,
 include species that oxidize iron, sulfur, and manganese.
-
 These fungi play important roles in the initial stages of soil formation from rock,
 particularly in extreme environments such as desert crusts, arctic soils, and mine
 tailings where other weathering agents are limited.
-
 The ability of fungi to tolerate extreme pH, temperature, and metal concentrations
 makes them pioneer organisms in primary succession.
 
@@ -250,24 +148,18 @@ makes them pioneer organisms in primary succession.
 
 Fungi interact with heavy metals through several mechanisms that have both ecological
 and bioremediation significance.
-
 Biosorption, the passive binding of metal ions to cell wall components including
 chitin, glucans, and melanin, can concentrate metals from solution by factors of
 hundreds or thousands.
-
 Bioaccumulation involves active uptake and intracellular sequestration of metals,
 often into vacuoles or bound to metallothionein-like proteins.
-
 Biotransformation includes redox reactions that alter metal speciation, for example
 reducing hexavalent chromium to less toxic trivalent chromium or oxidizing
 manganese from Mn(II) to Mn(IV).
-
 These metal interaction mechanisms have been exploited in fungal bioremediation
 technologies for contaminated soils and wastewater.
-
 Fungal mycelia have been used as biosorbents for the removal of heavy metals
 including cadmium, copper, lead, and uranium from industrial effluents.
-
 The advantage of fungal biosorption over conventional approaches such as chemical
 precipitation or ion exchange includes lower cost, higher efficiency for dilute
 solutions, and the potential for metal recovery from spent biomass.
@@ -275,26 +167,19 @@ solutions, and the potential for metal recovery from spent biomass.
 ## Carbon Sequestration
 
 Fungi contribute to soil carbon sequestration through multiple pathways.
-
 Fungal biomass itself represents a significant carbon pool, with relatively slow
 turnover rates compared to bacterial biomass.
-
 The production of recalcitrant compounds such as chitin, melanin, and glomalin adds
 stable carbon forms to soil.
-
 Fungal-mediated aggregation protects organic matter within soil aggregates from
 microbial decomposition, extending carbon residence times.
-
 The preferential use of simple carbon compounds by fungi may leave more complex,
 recalcitrant organic molecules in soil, contributing to the formation of humus.
-
 The relative importance of fungal versus bacterial pathways in soil carbon cycling
 has implications for climate change predictions.
-
 Soils dominated by fungal decomposition pathways tend to have higher carbon-to-
 nitrogen ratios, slower decomposition rates, and greater carbon storage capacity
 than bacteria-dominated soils.
-
 Land management practices that shift the soil microbial community toward fungal
 dominance, such as reduced tillage and perennial cropping, may therefore enhance
 soil carbon sequestration.

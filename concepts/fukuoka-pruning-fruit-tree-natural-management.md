@@ -118,6 +118,8 @@ trees can manage themselves.
 
 ## See Also
 
+- [[natural-fruit-tree-form-and-non-pruning]]
+
 - [[fukuoka-textdoc-fruit-tree-pest-disease-management]]
 
 - [[fukuoka-orchard-insects-pruning-connection]]

@@ -131,5 +131,5 @@ scientific and public attitudes toward psychedelic fungi change.
 
 - [[worldwide-distribution-psilocybin-mushrooms]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[hypholoma-pluteus-inocybe-conocybe-genera]]

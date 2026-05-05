@@ -133,6 +133,8 @@ also limits distribution.
 
 ## See Also
 
+- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
+
 - [[worldwide-distribution-psilocybin-mushrooms]]
 - [[mexico-center-neurotropic-fungal-diversity]]
 - [[biogeography-austral-hemisphere-fungi]]

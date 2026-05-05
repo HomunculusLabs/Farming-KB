@@ -16,7 +16,7 @@ sources:
 
 The Three Sisters is an Indigenous American companion planting system that grows **corn, pole beans, and winter squash together** in a mutually beneficial polyculture. Corn provides a tall trellis for the beans to climb; beans fix atmospheric nitrogen (roughly 40-80 kg N/ha/year) through symbiotic rhizobia, feeding the corn and squash; squash shades the soil with broad leaves, suppressing weeds and retaining moisture. Together they produce more total calories and protein per unit area than any single crop grown alone.
 
-This system is a foundational example of [[companion-planting-and-polycultures]] and has been practiced for millennia across eastern North America. See also [[native-american-planting-methods-and-indigenous-agriculture]] for broader context.
+This system is a foundational example of companion planting and polycultures and has been practiced for millennia across eastern North America. See also [[halpern-sacramental-peyote-and-native-american-church]] for broader context.
 
 ---
 
@@ -25,10 +25,10 @@ This system is a foundational example of [[companion-planting-and-polycultures]]
 Each sister fills a distinct structural and nutritional niche:
 
 - **Corn (the "oldest sister")**: Provides vertical support. A strong stalk is essential -- field corn and flour corn varieties work best because they grow tall (6-10 ft) and produce sturdy stems.
-- **Beans (the "second sister")**: Climbing pole beans (not bush beans) wind up the corn stalks. Through [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]], their root nodules convert atmospheric N₂ into ammonium (NH₄⁺), enriching surrounding soil for the heavy-feeding corn.
+- **Beans (the "second sister")**: Climbing pole beans (not bush beans) wind up the corn stalks. Through [[nitrogen-fixing-trees-and-shrubs]], their root nodules convert atmospheric N₂ into ammonium (NH₄⁺), enriching surrounding soil for the heavy-feeding corn.
 - **Squash (the "third sister")**: Large leaves form a living mulch, reducing soil temperature by 5-10°F and cutting evaporation by up to 50%. Spined vines may also deter some pests.
 
-The root zones occupy different soil horizons: corn roots go deep (3-4 ft), beans tap mid-levels (1-2 ft), and squash roots spread shallowly. This reduces below-ground competition. For more on this dynamic, see [[cover-crops-and-green-manures]].
+The root zones occupy different soil horizons: corn roots go deep (3-4 ft), beans tap mid-levels (1-2 ft), and squash roots spread shallowly. This reduces below-ground competition. For more on this dynamic, see [[mollison-designers-cover-crops-and-green-manure-species]].
 
 ---
 
@@ -81,7 +81,7 @@ Use heirloom or open-pollinated varieties when possible to preserve genetic dive
 2. **Using bush beans instead of pole beans.** Bush beans won't climb and add nothing to the vertical dynamic.
 3. **Crowding mounds too close.** Squash needs room to sprawl. Fewer, well-spaced mounds outperform many crowded ones.
 4. **Planting super-sweet corn.** Modern supersweet hybrids (SH₂) have weak stalks that may not support climbing beans. Use field, flour, or flint corn.
-5. **Neglecting inoculation.** If your soil hasn't hosted beans before, treat bean seeds with Rhizobium inoculant to ensure effective [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]].
+5. **Neglecting inoculation.** If your soil hasn't hosted beans before, treat bean seeds with Rhizobium inoculant to ensure effective [[nitrogen-fixing-trees-and-shrubs]].
 
 ---
 
@@ -118,8 +118,8 @@ Each sister is harvested at a different time, which is one of the practical adva
 
 The Three Sisters have deep cultural significance. Corn, beans, and squash are considered sacred gifts in many Indigenous traditions — the Haudenosaunee (Iroquois) creation story describes the Three Sisters as sustainers of life. When saving seeds, select the best-performing plants from each sister and dry seeds thoroughly before storage. Cross-pollination between corn varieties can occur if multiple types are grown within 500 feet, so isolate if varietal purity matters to you.
 
-For gardeners interested in broader Indigenous agricultural practices, see [[native-american-planting-methods-and-indigenous-agriculture]]. For other polyculture approaches that build on similar principles, see [[companion-planting-and-polycultures]].
+For gardeners interested in broader Indigenous agricultural practices, see [[halpern-sacramental-peyote-and-native-american-church]]. For other polyculture approaches that build on similar principles, see companion planting and polycultures.
 
 ---
 
-*Related: [[companion-planting-and-polycultures]] · [[native-american-planting-methods-and-indigenous-agriculture]] · [[cover-crops-and-green-manures]] · [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]*
+*Related: companion planting and polycultures · [[halpern-sacramental-peyote-and-native-american-church]] · [[mollison-designers-cover-crops-and-green-manure-species]] · [[nitrogen-fixing-trees-and-shrubs]]*

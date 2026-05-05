@@ -148,7 +148,9 @@ case, a sixth flush was obtained. The average total yield was 2.7 grams
 dry weight per miniculture unit across all flushes. Voucher specimens
 were deposited in the University of Washington Herbarium (WTU).
 
-## Related Concepts
+## Related
+
+- [[psilocybe-cubensis-miniculture-method]] Concepts
 
 - [[psilocybe-cubensis-cultivation]] for broader cultivation techniques
 - [[grain-spawn-generation]] for grain spawn at commercial scale

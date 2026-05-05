@@ -43,24 +43,12 @@ sources:
 | Melting point | 44.6–46.8 °C |
 | Boiling point | 160 °C (at 0.4 mmHg) |
 | Solubility | Freely soluble in water, ethanol, chloroform |
-| Appearance | White crystalline solid or waxy crystals |
-| pKa | 8.68 (tertiary amine) |
-| LogP | 2.44 |
-| Vapor pressure | Low (non-volatile at room temperature) |
 
-### Structural Relationship to Other Compounds
+(Section truncated for length.)
 
-```
-Tryptamine (parent)
-├── N,N-Dimethyltryptamine (DMT) ← primary subject
-├── 5-Hydroxy-DMT (Bufotenin) → *Bufo alvarius* toad venom
-├── 5-Methoxy-DMT (5-MeO-DMT) → *Virola* resin, *Bufo* spp.
-├── 4-Phosphoryloxy-DMT (Psilocybin) → *Psilocybe* mushrooms
-├── N,N-Diethyltryptamine (DET)
 ├── α-Methyltryptamine (α-MT)
 └── N,N-Dipropyltryptamine (DPT)
 ```
-
 DMT is structurally analogous to serotonin (5-HT), differing only by the addition of two methyl groups on the terminal amine. This structural similarity enables DMT's activity at serotonin receptors.
 
 ## Natural Occurrence
@@ -68,7 +56,6 @@ DMT is structurally analogous to serotonin (5-HT), differing only by the additio
 ### Plant Sources
 
 DMT is found in over 65 plant species across multiple families:
-
 | Plant Species | Family | Part Used | DMT Content |
 |--------------|--------|-----------|-------------|
 | *Psychotria viridis* (Chacruna) | Rubiaceae | Leaves | 0.1–0.6% |
@@ -92,7 +79,6 @@ DMT has been detected in the following organisms:
 ### Endogenous Production Hypothesis
 
 The presence of DMT in human tissues has led to the hypothesis that it may function as an endogenous neurotransmitter or neuromodulator:
-
 - **Biosynthetic pathway:** Tryptophan → Tryptamine → N-methyltryptamine (NMT) → DMT
 - **Enzymes:** Indolethylamine N-methyltransferase (INMT) catalyzes N-methylation; aromatic L-amino acid decarboxylase (AADC) decarboxylates tryptophan
 - **INMT expression:** Found in human pineal gland, retina, and cerebral cortex
@@ -125,7 +111,6 @@ DMT shows the highest affinity for 5-HT1B and 5-HT2A receptors among serotonin r
 | Metabolism | MAO-A (first-pass, gut/liver) | MAO inhibited by β-carbolines |
 | Elimination half-life | ~15 minutes (IV) | ~3 hours (oral) |
 | Active metabolite | DMT-N-oxide | DMT-N-oxide |
-
 **Route-dependent metabolism:**
 - **Smoked/Vaporized:** Bypasses first-pass metabolism; rapid onset and intense peak
 - **Intravenous:** Most controlled route; used in clinical research settings
@@ -147,7 +132,6 @@ DMT shows the highest affinity for 5-HT1B and 5-HT2A receptors among serotonin r
 - Intense emotional experiences (awe, fear, joy, grief)
 
 **Dosage-dependent effects (smoked/IV):**
-
 | Dose (mg, smoked) | Intensity | Description |
 |-------------------|-----------|-------------|
 | 5–10 | Light | Mild visual distortion, body sensation |

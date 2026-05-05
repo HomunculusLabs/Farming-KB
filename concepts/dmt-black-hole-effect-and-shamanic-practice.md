@@ -132,7 +132,9 @@ certainty that one is dealing with a creature of integrity if one deals
 with a plant, but the creatures born in the demonic artifice of
 laboratories have to be dealt with very, very carefully."
 
-## Related Concepts
+## Related
+
+- [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] Concepts
 
 - [[dmt-experience-and-hyperspace-entities]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]

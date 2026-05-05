@@ -118,7 +118,9 @@ mechanisms, showing that internal spore maturation is as complex
 as any external gill system, just operating on different
 principles of physics and timing.
 
-## Related Topics
+## Related
+
+- [[bloomfield-gasteromycetes-puffballs-earthstars-false-truffles-evolution]] Topics
 
 - [[bloomfield-fungal-spore-discharge-and-dispersal]] for spore
   release mechanisms in gilled mushrooms

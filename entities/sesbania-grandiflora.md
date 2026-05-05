@@ -144,7 +144,7 @@ One of the most productive multipurpose tropical trees.
   every 2-3 months in fodder systems
 - **Pests:** Relatively pest-free; pod-borers on seed
 ## See Also
-- [[leucaena]]
+- [[leucaena-alley-cropping-systems]]
 - [[gliricidia-sepium]]
 - [[alfalfa-medicago-sativa]]
 - [[moringa-oleifera]]

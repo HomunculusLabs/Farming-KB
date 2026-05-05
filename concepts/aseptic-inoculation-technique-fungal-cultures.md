@@ -35,7 +35,7 @@ The fundamental principle is minimising the time sterile substrate is exposed to
 
 ### Temperature Check
 
-Jars must be at room temperature before inoculation. Temperatures above approximately 40°C kill spores or mycelium. Wait at least 4-6 hours or overnight after [[sterilisation]]. Jars that feel even slightly warm to the touch of the back of the hand are too hot.
+Jars must be at room temperature before inoculation. Temperatures above approximately 40°C kill spores or mycelium. Wait at least 4-6 hours or overnight after sterilisation. Jars that feel even slightly warm to the touch of the back of the hand are too hot.
 
 ### Workspace Preparation
 
@@ -69,7 +69,7 @@ Alcohol and aerosol disinfectant sprays such as Lysol are **highly flammable**. 
 6. Introduce inoculum targeting multiple sites within the jar
 7. Immediately close the lid to minimise exposure time
 8. Shake vigorously to distribute inoculum across multiple kernels
-9. Loosen the lid again for mycelial respiration during [[colonisation]]
+9. Loosen the lid again for mycelial respiration during colonisation
 
 ## Distribution and Shaking
 

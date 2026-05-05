@@ -145,3 +145,7 @@ Successful integration of nitrogen-fixing bacteria into farm and garden systems 
 Rhizobia deliver the highest nitrogen input per hectare but are restricted to legume crops. Free-living nitrogen fixers contribute modest amounts across all crop types and additionally provide plant growth-promoting benefits. The most effective fertility programs use both: rhizobia to power legume rotations and free-living fixers to support non-legume crops, within a soil management framework that supplies adequate carbon and avoids excessive mineral nitrogen.
 
 Neither group is a complete substitute for thoughtful soil management. Rhizobia require correct strain selection, adequate phosphorus, and near-neutral pH. Free-living fixers need sufficient organic carbon and appropriate moisture conditions. When these requirements are met, biological nitrogen fixation can supply a substantial proportion of crop nitrogen needs—reducing input costs, improving soil health, and lowering the environmental footprint of agriculture.
+
+## See Also
+
+- [[comparison-free-living-vs-parasitic-nematodes]]

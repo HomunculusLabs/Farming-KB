@@ -48,7 +48,7 @@ A normal boiling pot cannot achieve the temperatures required to kill resilient 
 | 1.5 litre jars | 2 hours |
 | Spawn bags | 2 hours |
 
-Larger volumes require extended times because heat penetration to the centre takes longer. Doubling the volume roughly doubles the required time. Insufficient sterilisation of larger containers is a common contamination source that may not appear until weeks after [[inoculation]], when hidden bacterial endospores germinate and overgrow the mycelium.
+Larger volumes require extended times because heat penetration to the centre takes longer. Doubling the volume roughly doubles the required time. Insufficient sterilisation of larger containers is a common contamination source that may not appear until weeks after [[inoculation-methods]], when hidden bacterial endospores germinate and overgrow the mycelium.
 
 ## Post-Sterilisation Handling
 
@@ -62,7 +62,7 @@ Larger volumes require extended times because heat penetration to the centre tak
 
 **Tight lids** are the most common beginner error. They prevent steam penetration, create dangerous pressure differentials, and can cause explosions. Always verify lids are finger-loose.
 
-**Insufficient time** leaves endospores alive. These may not show immediately but outcompete mycelium during [[colonisation]], causing stunted or failed cultures. When in doubt, sterilise longer.
+**Insufficient time** leaves endospores alive. These may not show immediately but outcompete mycelium during colonisation, causing stunted or failed cultures. When in doubt, sterilise longer.
 
 **Skipping the shake** leaves stratified substrate with dry tops and waterlogged bottoms, creating uneven conditions that slow growth dramatically. The shake should be vigorous enough to hear kernels clicking.
 
@@ -90,7 +90,7 @@ When jars show contamination after what appeared to be a proper sterilisation cy
 
 - Never force-open a pressurised cooker
 - Ensure the pressure relief valve functions before each use
-- Keep alcohol and flammable sprays away — alcohol and Lysol are highly flammable, a serious concern near the [[inoculation]] workspace
+- Keep alcohol and flammable sprays away — alcohol and Lysol are highly flammable, a serious concern near the [[inoculation-methods]] workspace
 - Use heat-resistant gloves for hot jars
 - Inspect the rubber gasket regularly; replace annually or on signs of wear
 - Never exceed the manufacturer's rated pressure
@@ -117,4 +117,4 @@ Regardless of the specific model chosen, proper maintenance — regular gasket i
 
 ## Integration with Workflow
 
-Sterilisation sits between substrate preparation and [[inoculation]] in the cultivation workflow. Jars should ideally be inoculated within 24 hours of sterilisation. The longer the interval, the greater the contamination risk through microscopic foil gaps. Planning inoculation immediately after cooling minimises this risk. A well-organised cultivator times the sterilisation cycle to complete in the evening, allowing overnight cooling with inoculation first thing the next morning.
+Sterilisation sits between substrate preparation and [[inoculation-methods]] in the cultivation workflow. Jars should ideally be inoculated within 24 hours of sterilisation. The longer the interval, the greater the contamination risk through microscopic foil gaps. Planning inoculation immediately after cooling minimises this risk. A well-organised cultivator times the sterilisation cycle to complete in the evening, allowing overnight cooling with inoculation first thing the next morning.

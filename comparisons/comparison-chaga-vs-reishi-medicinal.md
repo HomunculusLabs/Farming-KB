@@ -128,6 +128,8 @@ Both fungi are generally well tolerated, but note the following:
 
 ## See Also
 
+- [[comparison-chaga-vs-reishi]]
+
 - [[chaga-inonotus-obliquus-medicinal-profile]]
 - [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[medicinal-mushroom-guide-reishi]]

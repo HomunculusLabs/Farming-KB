@@ -142,7 +142,7 @@ It suggests that the modern drive toward ever-higher planting densities, support
 ## Related Concepts
 
 - [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
-- [[fukuoka-textdoc-direct-seeding-rice-barley-natural-farming]]
-- [[fukuoka-textdoc-rice-transplanting-sprout-transplanting-critique]]
-- [[fukuoka-textdoc-winter-grain-seeding-standing-rice]]
-- [[fukuoka-textdoc-no-tillage-direct-seeding-natural-farming]]
+- [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
+- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
+- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
+- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]

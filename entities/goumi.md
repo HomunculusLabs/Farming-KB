@@ -134,8 +134,8 @@ Goumi is low-maintenance and well-suited to home gardens:
 
 | Species | Comparison |
 |---|---|
-| [[eleagnus-umbellata]] | Autumn olive; larger, more invasive, less sweet fruit |
-| [[eleagnus-commutata]] | Silverberry; more cold-hardy, silver foliage, smaller fruit |
+| [[eleagnus-umbellata-entity]] | Autumn olive; larger, more invasive, less sweet fruit |
+| [[eleagnus-umbellata-entity]] | Silverberry; more cold-hardy, silver foliage, smaller fruit |
 | [[eleagnus-angustifolia]] | Russian olive; tree-sized, invasive in western US |
 | [[hippophae-rhamnoides]] | Sea buckthorn; also fixes nitrogen, orange berries |
 
@@ -144,8 +144,8 @@ Goumi is low-maintenance and well-suited to home gardens:
 - [[nitrogen-fixing-plants]]
 - [[food-forest-design]]
 - [[agroforestry]]
-- [[lycopene]]
-- [[frankia]]
-- [[eleagnus-umbellata]]
-- [[sea-buckthorn]]
-- [[permaculture-shrubs]]
+- lycopene
+- [[actinorhizal-symbiosis-frankia]]
+- [[eleagnus-umbellata-entity]]
+- [[allegro-dead-sea-scrolls]]
+- [[urban-permaculture-homesteading]]

@@ -103,6 +103,8 @@ The relationship between aquatic hyphomycetes and stream invertebrates is a cent
 
 ## Related
 
+- [[ingoldian-hyphomycetes]]
+
 - [[fungal-roles-aquatic-environments]]
 - [[freshwater-fungi-ingoldian-spores]]
 - [[marine-fungal-diversity]]

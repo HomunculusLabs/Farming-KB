@@ -68,7 +68,6 @@ sources:
 ### Tryptamine Alkaloids
 
 The inner root bark of *M. tenuiflora* is exceptionally rich in DMT:
-
 - **N,N-DMT**: 0.31–1.0% in dried inner root bark (variable by population, season, and plant age)
 - **N-Methyltryptamine (NMT)**: 0.02–0.08% — a biosynthetic intermediate and mild psychoactive compound
 - **β-Carboline alkaloids**: Trace amounts of harmine and harmaline have been detected in some samples, though concentrations are generally too low for monoamine oxidase inhibition
@@ -86,7 +85,6 @@ The inner root bark of *M. tenuiflora* is exceptionally rich in DMT:
 ### Jurema Ceremony (Northeastern Brazil)
 
 The use of *M. tenuiflora* in northeastern Brazil represents one of the oldest continuous entheogenic traditions in the Americas:
-
 - **Archaeological evidence**: Ceramic pipes containing DMT residues, dated to 1000 BCE, have been found in the region of Pernambuco — demonstrating over 3,000 years of documented use
 - **Indigenous peoples**: The Tupi, Pataxó, Tuxá, Fulni-ô, and other indigenous groups of the Caatinga region used jurema in shamanic ceremonies for healing, divination, and communication with spirits
 - **Vinho da Jurema (Jurema wine)**: The traditional preparation involves:
@@ -101,7 +99,6 @@ The use of *M. tenuiflora* in northeastern Brazil represents one of the oldest c
 ### Tepezcohuite (Mexico)
 
 In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological and wound-healing use:
-
 - **Aztec use**: Documented in the Florentine Codex ( Bernardino de Sahagún, 16th century) as "tepezcohuite" — a bark preparation used for skin wounds and burns
 - **Modern dermatology**: Following the 1984 San Juan Ixhuatepec gas explosion in Mexico City, where hundreds of burn victims were treated with tepezcohuite bark preparations with reportedly remarkable healing results, the species gained international attention as a wound-healing agent
 - **Commercial products**: Tepezcohuite-based soaps, creams, shampoos, and supplements are widely available in Mexican pharmacies and international markets
@@ -130,17 +127,9 @@ In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological a
 ### Agroforestry and Permaculture
 
 | System | Role | Benefits |
-|--------|------|----------|
-| Food forest canopy | Sub-canopy tree | Shade regulation, N fixation, mulch production |
-| Alley cropping | Hedgerow tree | Nitrogen contribution, windbreak, fodder |
-| Silvopasture | Shade tree | Animal shade, browse fodder, soil improvement |
-| Riparian buffer | Stabilizer | Bank stabilization, water filtration, shade |
-| Windbreak | Component | Dense branching provides effective wind protection |
 
-### Companion Planting Benefits
+(Section truncated for length.)
 
-- **Pest deterrence**: Tannins and saponins in leaf litter create unfavorable conditions for soil-dwelling pests
-- **Soil improvement**: Organic matter input and nitrogen fixation benefit neighboring plants
 - **Biodiversity support**: Flowers provide nectar for bees and butterflies; branches provide bird habitat
 - **Living fence**: Spiny branches make it an effective barrier when planted as a hedge
 

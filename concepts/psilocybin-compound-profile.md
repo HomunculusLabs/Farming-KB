@@ -91,6 +91,8 @@ Psilocybin mushrooms can be identified by the bluing reaction -- an enzyme assoc
 
 ## See Also
 
+- [[psilocybin-compound]]
+
 - [[psilocybin-mushroom-identification]] -- Species identification and field guide
 - [[psilocybin-mushroom-distribution-worldwide]] -- Global distribution by region
 - [[tryptamine-family-overview]] -- Tryptamine chemistry overview

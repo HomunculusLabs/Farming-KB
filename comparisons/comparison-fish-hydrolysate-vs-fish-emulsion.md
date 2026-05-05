@@ -125,3 +125,7 @@ Fish hydrolysate is the superior choice in virtually every scenario where soil h
 Fish hydrolysate pairs exceptionally well with [[hamilton-kelp-and-seaweed-in-organic-gardening]] in foliar applications — the amino acids in the hydrolysate chelate the micronutrients in the kelp, improving absorption, while the cytokinins in the kelp complement the auxin-like activity of the fish amino acids. This combination is sometimes called a "fish and kelp" program and is one of the most effective and economical biostimulant regimens in organic agriculture. See [[comparison-fish-aminos-vs-kelp-meal]] for detailed pairing recommendations.
 
 Fish hydrolysate should not be tank-mixed with high-pH products (like alkaline seaweed extracts at full strength) without a compatibility test, as the pH shift can cause amino acid precipitation. When combining fish hydrolysate and kelp in a foliar spray, dilute each separately to half strength, then combine.
+
+## See Also
+
+- [[comparison-seaweed-extract-vs-fish-hydrolysate]]

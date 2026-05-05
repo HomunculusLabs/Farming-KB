@@ -113,6 +113,8 @@ This difference in turnover rates between fungal and bacterial biomass has impli
 
 ## Related
 
+- [[pressure-cooker-sterilisation-fungal-substrate]]
+
 - [[oyster-substrate-carbon-nitrogen-ratio]] Concepts
 
 - [[fungal-resource-use-efficiency]]

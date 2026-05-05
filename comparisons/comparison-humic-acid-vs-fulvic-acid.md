@@ -117,6 +117,8 @@ compost or vermicompost contains the full spectrum of humic
 substances, making regular compost application the simplest
 way to ensure both fractions are present in your soil.
 ## See Also
+
+- [[humus-humic-acid-fulvic-acid-distinctions]]
 - [[comparison-compost-tea-vs-biochar]] for biological soil
   amendment strategies
 - [[comparison-soil-food-web-vs-biochar]] for soil biology

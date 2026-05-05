@@ -139,8 +139,8 @@ ACDC exists in a complex regulatory landscape. Hemp-derived ACDC (below 0.3% THC
 
 ## See Also
 
-- [[charlottes-web-cannabis-strain]] — Another high-CBD strain, famous for epilepsy treatment
+- [[cannabis-strain-lemonator]] — Another high-CBD strain, famous for epilepsy treatment
 - [[cannabidiol-cbd]] — Detailed pharmacology of cannabidiol
-- [[cannatonic-cannabis-strain]] — Parent strain of ACDC
+- [[cannabis-strain-lemonator]] — Parent strain of ACDC
 - [[endocannabinoid-system]] — The body's receptor system for cannabinoids
-- [[myrcene-terpene]] — Dominant terpene in ACDC
+- [[myrcene]] — Dominant terpene in ACDC

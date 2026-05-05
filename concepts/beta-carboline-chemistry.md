@@ -74,6 +74,8 @@ Beta-carbolines are found in:
 
 ## See Also
 
+- [[beta-carboline]]
+
 - [[5-meo-dmt-compound-profile]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]
 - [[ayahuasca-preparation]]
@@ -89,5 +91,7 @@ The harmala alkaloids are a specific subset of beta-carbolines derived primarily
 - [[turner-harmala-alkaloids-preparation-and-dosage]]
 
 ## See Also
+
+- [[beta-carboline]]
 
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]

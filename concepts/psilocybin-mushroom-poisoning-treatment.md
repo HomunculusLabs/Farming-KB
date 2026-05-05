@@ -21,7 +21,7 @@ In Japan, over 366 accidental ingestions of psilocybin mushrooms were reported i
 
 Outside of a few intoxications caused by [[psilocybe-cubensis-profile]] in Africa and one caused by [[psilocybe-semilanceata]] in England in the late 1700s, the majority of all pre-recreational intoxications were caused by various species of Panaeolus, with the exceptions of Japan and the northeastern United States where some inebriations resulted from ingesting Gymnopilus species.
 
-Subjective effects of [[panaeolus-cyanescens-bali-omelette]] intoxication were typically described as: drowsiness, lightheadedness, an inability to walk, a staggering gait, giggling, much hilarity, inappropriate speech, uncontrollable laughter, euphoria, and acting as if on a bender. [[panaeolus-cyanescens-bali-omelette]] produced more tranquil and less hallucinogenic effects compared to [[psilocybe-genus-overview]] species.
+Subjective effects of [[panaeolus-cyanescens-bali-omelette]] intoxication were typically described as: drowsiness, lightheadedness, an inability to walk, a staggering gait, giggling, much hilarity, inappropriate speech, uncontrollable laughter, euphoria, and acting as if on a bender. [[panaeolus-cyanescens-bali-omelette]] produced more tranquil and less hallucinogenic effects compared to [[psilocybe-genus-diversity-and-taxonomy]] species.
 
 ## The Real Danger: Misidentification
 

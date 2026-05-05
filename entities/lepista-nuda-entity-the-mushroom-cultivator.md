@@ -140,6 +140,8 @@ attributes. Its striking violet color, firm texture, and good taste recommend
 this species as one of high culinary appeal.
 
 ## See Also
+
+- [[lepista-nuda]]
 - [[agaricus-brunnescens]]
 - [[coprinus-comatus-cultivation]]
 - [[pleurotus-ostreatus]]

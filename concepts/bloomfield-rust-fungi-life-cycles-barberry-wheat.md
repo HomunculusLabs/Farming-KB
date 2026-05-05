@@ -129,6 +129,8 @@ rust control strategies.
 
 ## See Also
 
+- [[rust-fungi-life-cycle]]
+
 - [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
 - [[bloomfield-fungal-sex-pheromones-mating-communication]]
 - [[bloomfield-ascobolus-ascomycete-fruiting-body-evolution]]

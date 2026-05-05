@@ -133,6 +133,6 @@ Sage has an extensive history of medicinal use spanning over 2,000 years, docume
 - [[rosmarinus-officinalis-entity|Rosmarinus officinalis]]
 - [[lavandula-angustifolia-entity|Lavandula angustifolia]]
 - [[mentha-pulegium|Mentha pulegium]]
-- [[thymus-vulgaris|Thymus vulgaris]]
+- [[thymus-vulgaris-entity|Thymus vulgaris]]
 - [[permaculture|Permaculture]]
 - [[food-forest|Food Forest]]

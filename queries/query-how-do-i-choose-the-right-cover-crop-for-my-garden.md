@@ -105,6 +105,8 @@ mycorrhizal networks, and greater earthworm populations.
 
 ## Related
 
+- [[query-how-to-choose-cover-crops-for-your-climate-and-goals]]
+
 - [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]] Questions
 [[query-what-are-green-manures-and-how-to-use-them]]
 query how do i choose the right cover crop for my garden

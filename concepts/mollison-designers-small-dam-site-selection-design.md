@@ -56,7 +56,7 @@ seepage. Mollison identifies the following soil requirements:
 - **Clay content:** Dam sites require a minimum of 20 to 30 percent clay
   content in the soil profile to achieve adequate impermeability. Ideal
   dam soils contain 30 to 60 percent clay, similar to soils valued for
-  [[biochar-and-fungi|biochar]] and [[soil-health|soil health]] management.
+  [[biochar-and-fungi|biochar]] and [[soil-health-and-management|soil health]] management.
 
 - **Depth of impervious layer:** The clay or impermeable layer should
   extend deep enough to prevent seepage under the dam wall. A minimum

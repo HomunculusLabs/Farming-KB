@@ -120,7 +120,7 @@ As a [[psilocybin]]-containing species, **P. graecia** is subject to drug contro
 
 ## See Also
 
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 
 - [[psilocybe-semilanceata]] — the most widespread European liberty cap
 - [[psilocybe-hispanica]] — related Iberian species

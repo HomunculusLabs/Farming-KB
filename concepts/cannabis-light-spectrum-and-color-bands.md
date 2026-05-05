@@ -128,6 +128,8 @@ Some research suggests UV-B exposure (280–315nm) can increase THC and terpene 
 
 ## Related
 
+- [[electromagnetic-spectrum-and-light-wave-properties]]
+
 - [[stamets-cultivator-light-spectrum-effects-on-fruiting]] Topics
 
 - [[cannabis-lighting-guide]] — comprehensive lighting comparison

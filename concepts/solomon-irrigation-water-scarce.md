@@ -101,6 +101,8 @@ methods increasingly important.
 
 ## See Also
 
+- [[wide-spacing-dry-gardening-low-irrigation-solomon]]
+
 - [[solomon-raised-beds]] for bed types suited to different water availability -
 [[solomon-compost-organic-matter]] for compost tea fertigation recipes -
 [[solomon-complete-organic-fertilizer-guide]] for COF-based fertigation solutions

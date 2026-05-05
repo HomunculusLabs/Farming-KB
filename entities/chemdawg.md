@@ -133,5 +133,5 @@ Chemdawg's influence is comparable to that of foundational wine grape varieties 
 - [[cannabis-indica|Cannabis indica]]
 - [[headband|Headband]]
 - [[myrcene|Myrcene]]
-- [[caryophyllene|Caryophyllene]]
-- [[sunset-sherbet|Sunset Sherbet]]
+- [[cannabis-beta-caryophyllene-dietary-cannabinoid|Caryophyllene]]
+- Sunset Sherbet

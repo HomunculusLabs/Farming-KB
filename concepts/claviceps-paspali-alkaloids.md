@@ -89,7 +89,9 @@ The alkaloid profile of C. paspali can be usefully compared with other ergot spe
 
 This comparison shows that C. paspali on Paspalum distichum represents the simplest possible preparation scenario, while C. purpurea on barley requires the additional step of water extraction to separate the alkaloid groups.
 
-## Related Concepts
+## Related
+
+- [[claviceps-paspali]] Concepts
 
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 

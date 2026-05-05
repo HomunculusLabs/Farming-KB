@@ -118,4 +118,4 @@ Perhaps the most radical aspect of Fukuoka's epistemology is the idea that knowl
 - [[fukuoka-breakdown-japanese-agriculture]]
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]]
 - [[do-nothing-farming]]
-- [[natural-farming-as-spiritual-practice]]
+- [[fukuoka-natural-farming-spiritual-light]]

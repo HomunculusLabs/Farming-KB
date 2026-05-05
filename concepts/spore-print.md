@@ -126,5 +126,5 @@ germination rates decline over time.
 - [[psilocybin-mushroom]]
 - [[mycology]]
 - [[mushroom-cultivation]]
-- [[psilocybe-genus-overview]]
+- [[psilocybe-genus-diversity-and-taxonomy]]
 - [[fungal-taxonomy]]

@@ -92,3 +92,7 @@ From *The Ultimate Guide to Natural Farming and Sustainable Living*, plant catal
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
 - [[plant-micronutrients-and-their-essential-functions]]
+
+## See Also
+
+- [[ayahuasca-diy-home-brewing-as-tourism-alternative]]

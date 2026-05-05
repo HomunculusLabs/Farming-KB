@@ -148,3 +148,7 @@ vertical stacking might look imposing to neighbors, and the aesthetic
 appeal of a natural-looking horizontal hive can be easier to integrate
 into residential landscapes. Beekeepers interested in the treatment-free
 or bee-centered philosophy of apiculture will find top bar hives more
+
+## See Also
+
+- [[comparison-top-bar-hive-vs-warre-hive]]

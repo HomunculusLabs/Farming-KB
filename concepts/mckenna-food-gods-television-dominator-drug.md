@@ -135,9 +135,11 @@ The credit for giving us tools to resist this horror belongs to unsung heroes wh
 
 Thanks to them we have, in this most chaotic of centuries, taken into our frail hands the means to do something about our predicament. Psychology, in contrast, has been complacent and silent.
 
-## Related Concepts
+## Related
+
+- [[mckenna-television-as-hidden-persuader]] Concepts
 
 - [[mckenna-food-gods-designer-states-of-consciousness|Designer States of Consciousness]]
 - [[mckenna-food-gods-natural-synthetic-drugs|Natural and Synthetic Drugs]]
-- [[mckenna-food-gods-dominance-culture-and-ego|Dominance Culture and the Ego]]
+- [[mckenna-food-of-the-gods-dominance-culture-and-ego|Dominance Culture and the Ego]]
 - [[mckenna-food-gods-archaic-revival|The Archaic Revival]]

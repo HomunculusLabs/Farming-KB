@@ -131,6 +131,6 @@ and has served as a parent in several notable crosses.
 
 - [[og-kush]] — Foundational parent of the OG Kush family
 - [[sour-diesel]] — Chemdawg-lineage strain with complementary terpene profile
-- [[sfv-og]] — San Fernando Valley OG, possible parent strain
+- sfv og — San Fernando Valley OG, possible parent strain
 - [[granddaddy-purple]] — Another iconic California indica
 - [[myrcene]] — Dominant sedative terpene in Larry OG

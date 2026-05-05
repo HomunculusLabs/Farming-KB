@@ -77,7 +77,10 @@ Fukuoka calculated that scientific agriculture requires an energy expenditure pe
 
 
 
-## Related Pages
+## Related
+
+- [[microbes-scavengers-natural-farming]]
+- [[comparison-natural-swimming-pool-vs-conventional-pool]] Pages
 
 - [[natural-farming-fukuoka]] -- Fukuoka's method and philosophy
 - [[knf-preparations]] -- Korean Natural Farming input recipes

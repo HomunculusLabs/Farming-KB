@@ -118,6 +118,8 @@ McKenna considered a technical gloss for complex concepts.
 
 ## See Also
 
+- [[tryptamine-hallucinogens-consciousness]]
+
 - [[DMT]]
 - [[psilocybin]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]

@@ -97,7 +97,9 @@ anaerobic contaminants. During fruiting, the semi-permeable
 polyethylene lid covering on the cooler provides passive air
 exchange while maintaining humidity.
 
-## Related Topics
+## Related
+
+- [[pf-tek-low-humidity-symptoms-and-remediation]] Topics
 
 - oss oeric terrarium design and humidity for casing soils
 - [[oss-oeric-growing-parameters-cubensis]] for temperature ranges

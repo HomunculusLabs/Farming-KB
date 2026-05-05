@@ -165,3 +165,7 @@ The pharmacological activity of *Leonurus cardiaca* is attributed to a diverse a
 3. Zhou, L., Zuo, Z., Chow, M.S. (2019). Leonurine: a review of its pharmacology and pharmacokinetics. *Frontiers in Pharmacology*, 10, 427.
 4. Liu, Y., et al. (2019). Phytochemistry and pharmacology of *Leonurus japonicus*. *Chinese Medicine*, 14, 38.
 5. Kuchta, K., et al. (2020). *Leonurus cardiaca* L. — a review of traditional uses, phytochemistry, pharmacology, and toxicology. *Journal of Ethnopharmacology*, 260, 113359.
+
+## See Also
+
+- [[leonurus-cardiaca-entity]]

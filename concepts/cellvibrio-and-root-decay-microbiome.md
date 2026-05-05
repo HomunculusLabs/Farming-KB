@@ -115,6 +115,8 @@ decay on microbiome characterization.
 
 ## See Also
 
+- [[cellvibrio-post-harvest-root-decay-cannabis]]
+
 - [[endorhiza-bacterial-communities]] for the healthy endorhiza community
 - [[microbial-alpha-diversity-soil-plant-gradient]] for diversity impacts
 - [[cannabis-cultivar-microbiome-specificity]] for persistent cultivar

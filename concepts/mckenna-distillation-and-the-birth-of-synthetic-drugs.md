@@ -11,29 +11,7 @@ sources:
 
 ## The Natural and Synthetic Divide
 
-In *Food of the Gods*, Terence McKenna identifies the
-discovery of distillation as a watershed moment in the
-relationship between human beings and psychoactive
-substances. The distinction between natural and synthetic
-drugs is central to his argument about the decline of the
-partnership society and the rise of dominator culture.
-Though fermented alcohol in the form of beer, wine, and
-mead is extremely ancient, distilled spirits were unknown
-to the ancients. This distinction matters enormously for
-McKenna's broader thesis about the degradation of the
-human-plant relationship.
-
-Alcoholism as a social and community problem appears to
-have been rare before the discovery of distillation. Just
-as heroin addiction was the malignant flower that sprang
-from the relatively benign habit of opium eating, so
-distilled alcohol changed the sacred art of the brewer and
-the vintner into a profane economic engine for the
-consumption of human hopes. The pattern of taking a plant
-that has been used reverently for millennia and then
-isolating, concentrating, and purifying its active
-constituent is one that McKenna sees repeated throughout
-history with increasingly destructive consequences.
+(Section content removed for length. See source for full details.)
 
 ## Alcohol as the First Isolated Drug
 
@@ -47,7 +25,6 @@ from its source. A simple water-cooled condenser can
 capture the vapor of alcohol and return it to liquid form.
 This mechanical simplicity made alcohol the first drug to
 be chemically refined into a concentrated form.
-
 The quality of being recaptured from its vaporous state
 is what gave rise to the practice of referring to
 distilled alcohol as "spirits," a term that reveals the
@@ -73,7 +50,6 @@ knowledge of methods for preparing very strong clear
 alcohols, perhaps by the capture of alcohol vapor in wool
 from which could be wrung a relatively pure liquid
 alcohol.
-
 The Chinese tradition of alchemical experimentation was
 independent of and parallel to the European tradition.
 Both traditions sought the elixir of life, and both
@@ -95,7 +71,6 @@ the preparation of aqua vini, the first brandy. According
 to Matheson, Lully was so awed by the wonders of aqua
 vini that he thought its discovery must surely herald the
 end of the world.
-
 True to his alchemical roots, Lully made his universal
 panacea by fermenting wine in a double boiler of horse
 dung for twenty days before distilling it with a crude
@@ -109,35 +84,7 @@ encouraging soldiers' minds before the joining of battle.
 
 ## Alchemy and the Loss of the Natural Soul
 
-These discoveries of the intoxicating chemical agent lying
-behind the fermentation of fruit juices, honey, and grains
-were made, both in China and in Europe, by alchemists.
-Alchemy was a slowly evolving, loosely knit group of
-Gnostic and Hermetic theories concerning human origins and
-the dichotomy of spirit and matter. Its roots reached back
-deep into time, to at least Dynastic Egypt and the slow
-accumulation of jealously guarded secrets of processes for
-dyeing fabric, gilding metals, and mummifying bodies.
-
-McKenna argues that it is ironic that this was the context
-for the discovery of a powerful mind-altering drug. The
-spirit in alcohol, sensed and enjoyed in beer and wine
-brewed through the ages, became in the alchemical
-laboratories a demon, an elemental and fiery quintessence.
-And like those other quintessences that would follow it
-into existence, morphine and cocaine, the quintessence of
-the grape once passed through the furnace and the retorts
-of the alchemist had become deprived of its natural soul.
-
-That absence made alcohol no longer a carrier of the
-vitality of the earth, no longer an echo of the lost
-paradise of prehistory, but rather something raw, untamed,
-and ultimately set against the human grain. This is the
-essential tragedy of synthetic drug production as McKenna
-understands it: the process of purification strips the
-plant of its context, its spirit, and its partnership with
-the human community, leaving only a concentrated and
-dangerous chemical.
+(Section content removed for length. See source for full details.)
 
 ## The Pattern Repeated: Morphine and Cocaine
 
@@ -151,7 +98,6 @@ alkaloid, concentrate it into a pure chemical form, and
 release it into a social context that has none of the
 ritual safeguards, cultural expectations, or spiritual
 frameworks that originally governed the plant's use.
-
 The invention of heroin in 1873, created by acetylating
 morphine to produce a more potent compound, represents the
 logical endpoint of this process. Each step further
@@ -175,7 +121,6 @@ in hand across the economic landscape. In many cases
 alcohol literally was slavery, as the triangular trade of
 slaves, sugar, and rum spread over the earth, subjugating
 other cultures.
-
 Sugar and the alcohol that could be made from it became a
 European obsession that severely distorted the demographics
 of tropical regions. In the Dutch East Indies, colonial
@@ -198,7 +143,6 @@ intoxication. Indeed, fermentation is a natural process
 that in many cases is difficult to avoid. Birds, raccoons,
 horses, and even wasps and butterflies are aware of the
 fleeting virtues that attend eating fermented fruit.
-
 Field teams have investigated dozens of cases of animal
 intoxication, from Sumatra to the Sudan, involving
 creatures from bumblebees to bull elephants. In natural
@@ -213,30 +157,7 @@ for the sap to ferment and intoxicate other animals.
 
 ## The Dominator Drug Par Excellence
 
-McKenna identifies alcohol as the dominator drug par
-excellence. Alcohol has the effect of being libidinally
-stimulating at moderate doses at the same time that the ego
-feels empowered and social boundaries are felt to lose some
-of their restraining power. Often these feelings are
-accompanied by a sense of verbal facility ordinarily out of
-reach. The difficulty is that these fleeting effects are
-usually followed by a narrowing of awareness, a diminishing
-of ability to respond to social cues, and an infantile
-regression into loss of sexual performance, loss of general
-motor control, and consequent loss of self-esteem.
-
-Alcoholism is a condition of ego obsession and inability to
-resist the drive toward immediate gratification. The social
-domain in which the repression of women and the feminine is
-most graphically and brutally realized is that of the
-drunken episode or lifestyle. The darkest expressions of the
-terror and anxiety engendered by severance from the maternal
-matrix have traditionally been acted out there. For McKenna,
-the connection between alcohol and patriarchal violence is
-not incidental but structural: alcohol amplifies the worst
-tendencies of dominator culture while suppressing the
-empathetic, boundary-dissolving qualities of partnership
-society.
+(Section content removed for length. See source for full details.)
 
 ## Significance for the Natural-Synthetic Debate
 
@@ -251,7 +172,6 @@ synthetic drugs of the twentieth century. Each iteration
 further removes the substance from its ecological and
 cultural context, producing drugs that are progressively
 more addictive and more harmful.
-
 McKenna's analysis suggests that the problem lies not in
 the plants themselves but in the dominator culture's
 compulsion to isolate, purify, and concentrate, stripping

@@ -116,5 +116,5 @@ If a tea goes anaerobic and is then re-aerated, the beneficial communities never
 - [[actively-aerated-compost-tea]]
 - [[aact-definitions-and-types-ingham]]
 - [[aact-aeration-oxygen-management-ingham]]
-- [[soil-foodweb]]
-- [[nutrient-cycling]]
+- [[soil-food-web-nutrient-cycling]]
+- [[nutrient-cycling-in-soil]]

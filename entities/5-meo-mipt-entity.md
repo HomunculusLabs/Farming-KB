@@ -101,7 +101,7 @@ Legal status varies widely across jurisdictions and changes frequently; users sh
 | 5-MeO-DiPT | Predominantly tactile | 3–5 h | Moderate | Low |
 | 5-MeO-DMT | Intense psychedelic | 1–2 h | High | Low–moderate |
 | [[5-meo-dmt-entity]] | Mystical-psychedelic | 15–45 min | High | Low |
-| [[psilocin-entity]] | Classic psychedelic | 4–6 h | Moderate | High |
+| [[psilocin-entity-tihkal]] | Classic psychedelic | 4–6 h | Moderate | High |
 
 ## History
 

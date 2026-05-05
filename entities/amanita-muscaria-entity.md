@@ -120,6 +120,8 @@ In permaculture and forest garden design, *A. muscaria* serves as a visible indi
 
 ## See Also
 
+- [[amanita-regalis-entity]]
+
 - [[Muscimol]] — primary psychoactive compound of *Amanita muscaria*
 - [[Psilocybin]] — serotonergic psychedelic compound found in gilled mushrooms
 - [[Ectomycorrhiza]] — symbiotic root-fungus associations

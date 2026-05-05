@@ -107,7 +107,7 @@ Fukuoka writes that the only future for man lies in returning to this unity with
 - [[fukuoka-textdoc-three-stages-collapse-only-future]]
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]
 - [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
-- [[fukuoka-quarter-acre-farming-self-sufficiency]]
+- [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
 - [[fukuoka-textdoc-mu-economics-natural-farming-beyond-money]]
 - [[fukuoka-textdoc-laying-waste-land-sea]]
 

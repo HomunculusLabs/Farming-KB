@@ -74,7 +74,6 @@ Designed by French monk **Émile Warré** (1867–1951) and detailed in his book
 ### Top-Bar Hive: Observation and Accessibility
 
 The TBH excels as an **educational and observational hive**. Each bar can be lifted individually for inspection, making it ideal for:
-
 - **Teaching:** Beekeeping classes and demonstrations where students can see comb, brood, and queen activity
 - **Minimalist beekeeping:** Beekeepers who want to check on their bees without heavy lifting
 - **Comb honey production:** Harvesting beautiful, natural comb honey by the bar
@@ -85,7 +84,6 @@ The trade-off is that the colony builds laterally, and in a strong nectar flow, 
 ### Warre Hive: Minimal Intervention
 
 Warré's philosophy was to **interfere as little as possible** with the bees. The hive is designed so that:
-
 - Bees build comb downward into new boxes added at the **bottom** (nadiring), mimicking how they would expand in a tree cavity
 - The quilt box manages moisture and temperature without human intervention
 - Honey is harvested from the **top** boxes (which are the oldest and typically fully capped)
@@ -138,20 +136,8 @@ Both hives produce less honey than Langstroth hives (typically 40–100+ lbs), b
 - Large footprint — needs adequate horizontal space
 - Limited expansion options in small yards
 
-### Warre Hive
+(Section truncated for length.)
 
-**Advantages:**
-- Excellent natural beekeeping philosophy — minimal intervention
-- Superior winter performance due to compact design and quilt insulation
-- Bees build comb naturally downward, reducing cross-combing issues
-- Lower swarming tendency compared to TBH (more frequent nadiring satisfies colony expansion instinct)
-- Stacking boxes allow easy colony size management
-- Aesthetic design fits well in permaculture and homestead settings
-- Warré's book provides detailed, time-tested management guidance
-
-**Disadvantages:**
-- Lifting full boxes for inspection and nadiring requires some strength (~35 lbs)
-- Less ability to inspect specific frames — inspection is disruptive (whole boxes must be lifted)
 - Lower honey yield than both Langstroth and TBH
 - Harvesting requires crush-and-strain, which destroys drawn comb (bees must rebuild each year)
 - Fewer commercial resources, mentors, and community support compared to Langstroth
@@ -167,7 +153,6 @@ Both hives produce less honey than Langstroth hives (typically 40–100+ lbs), b
 | **Roof** | $20–$40 | $30–$50 |
 | **Total DIY** | $100–$200 | $150–$300 |
 | **Pre-built** | $300–$600 | $400–$800 |
-
 Both are significantly cheaper than Langstroth setups ($500–$1,000+ with frames, foundation, extractor, etc.).
 
 ## Which Hive to Choose?
@@ -205,7 +190,7 @@ Both are significantly cheaper than Langstroth setups ($500–$1,000+ with frame
 
 ## See Also
 
-- [[beekeeping-and-pollinator-conservation]] — Broader beekeeping practices and pollinator ecology
-- [[bee-products-and-apitherapy]] — Hive products beyond honey
-- [[beneficial-insects-and-biological-pest-control]] — Bees as part of the integrated pest management system
-- [[permaculture-zone-and-sector-analysis]] — Hive placement in permaculture design
+- [[mycelium-running-conservation-biology-and-fungi]] — Broader beekeeping practices and pollinator ecology
+- [[bee-feeding-and-fungal-pesticides]] — Hive products beyond honey
+- [[hamilton-beneficial-insects-and-biological-pest-control]] — Bees as part of the integrated pest management system
+- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] — Hive placement in permaculture design

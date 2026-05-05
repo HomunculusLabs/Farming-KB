@@ -118,6 +118,8 @@ applied according to label directions.
 
 ## See Also
 
+- [[bacillus-thuringiensis]]
+
 - [[cervantes-pest-disease]] for general pest management
 - [[cervantes-pyrethrum-pyrethroid-insecticides]] for organic sprays
 - [[beneficial-insects-cannabis]] for predator introductions

@@ -114,8 +114,10 @@ These discoveries have major agricultural significance. Flower farmers routinely
 
 ## See Also
 
+- [[darwin-phytochrome-and-photoperiodism-discovery]]
+
 - [[chamovitz-photoperiodism-phytochrome-plant-vision]]
 - [[cannabis-photoperiodism-and-light-cycles]]
 - [[clarke-marijuana-botany-flowering-and-photoperiodism]]
-- [[phototropism]]
-- [[phytochrome]]
+- [[phototropism-photoperiodism-discovery-phytochrome]]
+- [[phytochrome-photoreception]]
