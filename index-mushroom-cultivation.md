@@ -1379,4 +1379,3 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
-- [[golden-teacher-psilocybe-cubensis]]

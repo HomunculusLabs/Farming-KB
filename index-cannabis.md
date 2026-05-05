@@ -1003,4 +1003,3 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
-- [[pistil-whippersnapper]]
