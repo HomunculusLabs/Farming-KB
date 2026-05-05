@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1211 pages**
+**1213 pages**
 
 ## #
 
@@ -471,6 +471,7 @@
 ## H
 
 - [[hallucinogenic-drugs]]
+- [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]]
 - [[hallucinogenic-drugs-in-psychotherapy-history]]
 - [[hallucinogenic-plant-chemistry]]
 - [[hallucinogenic-plants-history-ethnobotany]]
@@ -965,6 +966,7 @@
 - [[psilocybin-and-death-anxiety]]
 - [[psilocybin-and-mystical-experience]]
 - [[psilocybin-and-nature-connection]]
+- [[psilocybin-and-psilocin-chemical-synthesis]]
 - [[psilocybin-as-catalyst-for-paradigm-shift]]
 - [[psilocybin-assisted-therapy]]
 - [[psilocybin-biosynthesis-pathway]]

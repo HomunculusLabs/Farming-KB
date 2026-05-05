@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1315 pages**
+**1317 pages**
 
 ## #
 
@@ -511,10 +511,12 @@
 - [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]
 - [[hallucinogenic-mushroom-health-risks-and-harm-reduction]]
 - [[hallucinogenic-mushroom-legal-loopholes-and-classification-challenges]]
+- [[hallucinogenic-mushroom-legal-status-eu]]
 - [[hallucinogenic-mushroom-legal-status-europe]]
 - [[hallucinogenic-mushroom-legislation-in-europe]]
 - [[hallucinogenic-mushroom-online-retail-markets]]
 - [[hallucinogenic-mushroom-prevalence-europe]]
+- [[hallucinogenic-mushroom-prevalence-in-europe]]
 - [[hallucinogenic-mushroom-seizures-and-criminological-evidence]]
 - [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
 - [[hallucinogenic-mushroom-user-terminology-and-brand-names]]

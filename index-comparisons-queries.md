@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**971 pages**
+**975 pages**
 
 ## A
 
@@ -157,6 +157,7 @@
 - [[comparison-deep-litter-vs-hot-composting]]
 - [[comparison-desert-gardening-vs-drought-gardening]]
 - [[comparison-double-digging-vs-no-till]]
+- [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-drip-irrigation-vs-rainwater-harvesting]]
 - [[comparison-drought-gardening-vs-rainwater-harvesting]]
@@ -418,6 +419,7 @@
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 - [[comparison-vinegar-vs-lacto-fermentation]]
 - [[comparison-walipini-vs-greenhouse]]
+- [[comparison-wattle-and-daub-vs-cob-construction]]
 - [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]]
 - [[comparison-white-rot-fungi-vs-trichoderma]]
 - [[comparison-white-rot-vs-brown-rot-bioremediation]]
@@ -722,6 +724,7 @@
 - [[query-how-to-grow-chaga-mushroom]]
 - [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]
 - [[query-how-to-grow-citrus-in-cold-climates]]
+- [[query-how-to-grow-dragon-fruit-pitaya-at-home]]
 - [[query-how-to-grow-food-in-small-spaces-vertically]]
 - [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]
 - [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]
@@ -994,6 +997,7 @@
 - [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]]
 - [[query-what-is-trap-cropping-and-how-does-it-work]]
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
+- [[query-what-is-wattle-and-daub-and-how-do-i-build-with-it]]
 - [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
 - [[query-when-should-i-use-slip-form-stone-construction]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]
