@@ -150,4 +150,6 @@ Plants for windbreaks, privacy screens, and animal barriers:
 
 ## See Also
 
+- [[silphium-laciniatum]]
+
 - [[companion-planting-guilds]]

@@ -148,3 +148,6 @@ widely used in mine reclamation and coastal restoration.
 processed into juices, oils, preserves, and supplements, creating economic returns from
 marginal land.
 
+## See Also
+
+- [[query-how-do-i-grow-sea-buckthorn]]

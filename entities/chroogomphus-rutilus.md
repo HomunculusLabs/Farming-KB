@@ -136,6 +136,8 @@ observed in related *Chroogomphus* species.
 
 ## See Also
 
+- [[gomphus-clavatus]]
+
 - [[suillus-luteus]] — Fellow ectomycorrhizal associate of pine forests
 - [[suillus-grevillei]] — Common larch associate with shared habitat overlap
 - [[ganoderma-lucidum]] — Medicinal polypore sharing coniferous forest habitat

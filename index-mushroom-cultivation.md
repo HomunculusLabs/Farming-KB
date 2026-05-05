@@ -1386,3 +1386,8 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
+- [[dry-microwave-irradiation-spore-resistance]]
+- [[microwave-exposure-system-architecture-surface-sterilization]]
+- [[microwave-vs-conventional-surface-sterilization-methods]]
+- [[space-station-closed-system-aseptic-access-sterilization]]
+- [[trace-water-enhanced-microwave-surface-sterilization]]

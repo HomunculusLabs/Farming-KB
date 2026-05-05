@@ -115,7 +115,9 @@ For long-term genetic preservation, agar slants or cultures stored in mineral oi
 
 Spore syringes and spore prints are legal to possess and sell in many jurisdictions because the spores themselves do not contain controlled substances. However, the act of germinating spores with the intent to cultivate psilocybin-containing mushrooms is illegal in many places. Laws vary widely by country, state, and municipality. Always research local regulations before acquiring or using spore materials.
 
-## Related Topics
+## Related
+
+- [[dry-microwave-irradiation-spore-resistance]] Topics
 
 - [[agar-work-guide]] — germinating spores on agar and isolating cultures
 - [[mushroom-sterile-technique-detailed]] — maintaining sterility during syringe preparation

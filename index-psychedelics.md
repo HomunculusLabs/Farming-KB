@@ -1295,3 +1295,4 @@
 
 - [[zoroaster-mazda-religion-haoma]]
 - [[lysergic-acid]]
+- [[galantamine]]

@@ -112,6 +112,8 @@ Calendula belongs to the Asteraceae family and may cause allergic reactions in s
 
 ## See Also
 
+- [[hamamelis-virginiana]]
+
 - [[herbal-actions-and-energetics]] — understanding herb properties
 - [[herbal-plant-remedies]] — additional plant remedy profiles
 - [[herbal-medicine-safety]] — safety considerations

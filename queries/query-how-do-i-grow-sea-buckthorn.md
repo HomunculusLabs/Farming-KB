@@ -29,13 +29,11 @@ Sea buckthorn is a cold-hardy, nitrogen-fixing shrub that produces exceptionally
 ### Sex Ratio (Critical)
 
 Sea buckthorn has separate male and female plants. **You must have at least one male to get fruit from females.** Recommended ratios:
-
 | Setting | Male-to-Female Ratio |
 |---------|---------------------|
 | Home garden (2–5 plants) | 1 male per 3–5 females |
 | Small orchard (10–50 plants) | 1 male per 6–8 females |
 | Hedgerow / windbreak | 1 male every 10–15 m of row |
-
 Nurseries should label plants by sex. If buying bare-root, confirm with the supplier — unlabeled plants are a gamble (50/50 male/female from seed).
 
 ### Site Selection
@@ -97,7 +95,6 @@ After the first year, sea buckthorn is drought-tolerant but produces much better
 ### Pruning
 
 **When:** Early spring (before bud break) for removal cuts; after harvest for renewal cuts.
-
 **What to do:**
 - Remove dead, damaged, or diseased branches
 - Thin crowded growth to improve airflow and light
@@ -122,7 +119,6 @@ Berries are ready when they turn deep orange (late August to October, depending 
 ### How to Harvest
 
 **For small plantings (home garden):**
-
 1. **Freeze-and-shake method (recommended):** Cut fruit-bearing branches, place in a freezer for 24–48 hours, then shake over a clean tarp or into a bucket. Frozen berries release easily.
 
 2. **Scissor snipping:** Cut individual berries with small scissors. Very slow (2–3 kg/hour) but selective.
@@ -167,7 +163,6 @@ Blend 50 g frozen berries with 1 banana, 200 ml yogurt, and 1 tbsp honey. This m
 ## Sea Buckthorn in a Permaculture Design
 
 Sea buckthorn fits multiple roles:
-
 - **Nitrogen fixer:** Adds 2–15 kg N/ha/year to the system via root nodules
 - **Windbreak:** Multi-stemmed, drought-tolerant, salt-tolerant — ideal for exposed sites
 - **Pioneer plant:** Establish first on degraded land; improves soil for later species
@@ -179,25 +174,20 @@ Sea buckthorn fits multiple roles:
 
 **Q: How long until I get fruit?**
 A: Typically 3–4 years from planting. Some cultivars may produce a few berries in year 2.
-
 **Q: Can I grow sea buckthorn in a container?**
 A: Yes, in a large container (50+ liters) with well-draining soil, but yields will be reduced. Choose a compact cultivar.
-
 **Q: Is sea buckthorn invasive?**
 A: It can spread via root suckers on sandy soils in disturbed habitats. It is not listed as invasive in most jurisdictions but check your local regulations. Contain by removing suckers annually.
-
 **Q: Can I tell male from female before they flower?**
 A: It's difficult before flowering. Males tend to have slightly more upright growth; females slightly more spreading. But this is unreliable — buy labeled plants.
-
 **Q: What's the easiest way to process the berries?**
 A: Freeze branches, shake off berries, then run through a fruit press. The resulting juice can be mixed with sweeter juices or frozen in ice cube trays for easy use.
-
 **Q: How long do sea buckthorn plants live?**
 A: 30–50+ years with proper care. They are very long-lived once established.
 
 ## See Also
 
-- [[sea-buckthorn-cultivation-and-uses]] — complete cultivation reference
+- [[hippophae-rhamnoides-permaculture]] — complete cultivation reference
 - [[comparison-sea-buckthorn-vs-aronia]] — how it compares to aronia chokeberry
-- [[companion-planting-and-polycultures]] — integrating sea buckthorn into diverse plantings
-- [[windbreaks-hedgerows-and-shelterbelts]] — using sea buckthorn in shelterbelt design
+- [[permaculture-companion-planting]] — integrating sea buckthorn into diverse plantings
+- [[gaias-garden-hedgerows-and-windbreaks]] — using sea buckthorn in shelterbelt design

@@ -124,7 +124,7 @@ In a permaculture or food forest design, sea buckthorn and aronia are highly com
 
 ## See Also
 
-- [[sea-buckthorn-cultivation-and-uses]] — detailed sea buckthorn guide
-- [[elderberry-vs-echinacea-comparison]] — another medicinal berry comparison
-- [[companion-planting-and-polycultures]] — integration into diverse plantings
-- [[windbreaks-hedgerows-and-shelterbelts]] — shelterbelt design
+- [[hippophae-rhamnoides-permaculture]] — detailed sea buckthorn guide
+- [[comparison-elderberry-vs-echinacea]] — another medicinal berry comparison
+- [[permaculture-companion-planting]] — integration into diverse plantings
+- [[gaias-garden-hedgerows-and-windbreaks]] — shelterbelt design

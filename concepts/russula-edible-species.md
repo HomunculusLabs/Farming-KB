@@ -92,6 +92,8 @@ The genus shows considerable host specificity, with different Russula species sp
 
 ## See Also
 
+- [[russula-brevipes]]
+
 - [[bolete-mushrooms-ecology-edibility]]
 
 - [[mushroom-foraging-safety]]

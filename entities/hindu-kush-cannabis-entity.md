@@ -116,6 +116,8 @@ developing as the flowers cure. The strain's consistent, predictable effects
 have contributed to its enduring popularity across decades of cannabis use.
 
 ## See Also
+
+- [[afghan-kush]]
 - [[cannabis-indica]]
 - [[cannabis-sativa]]
 - [[og-kush-cannabis-entity]]

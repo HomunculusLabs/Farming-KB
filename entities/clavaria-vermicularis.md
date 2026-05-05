@@ -134,7 +134,7 @@ No pharmaceutical applications have been developed from this species.
 
 - [[clavulina-cristata]] — White coral fungus, a commonly confused branched relative
 - [[ramaria-stricta]] — Upright coral fungus, a larger branched Clavariaceae member
-- [[clavulina-rugosa]] — Wrinkled coral, another branched Clavariaceae species
+- [[clavulina-cristata]] — Wrinkled coral, another branched Clavariaceae species
 - [[ramaria-botrytis]] — Clustered coral, an edible branched coral fungus
 - [[hericium-erinaceus]] — Lion's mane, a tooth fungus with medicinal properties
 - [[trametes-versicolor-entity]] — Turkey tail, a common polypore decomposer

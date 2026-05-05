@@ -103,6 +103,8 @@ All bulb alliums store best when:
 - Checked regularly — remove any showing signs of mold or sprouting immediately
 
 ## Related
+
+- [[allium-tuberosum]]
 - [[growing-potatoes-organically]]
 - [[growing-sweet-corn-organically]]
 

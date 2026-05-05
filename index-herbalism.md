@@ -105,3 +105,5 @@
 
 - [[womens-health-herbs]]
 - [[rehmannia-glutinosa]]
+- [[eucalyptol]]
+- [[thujone]]

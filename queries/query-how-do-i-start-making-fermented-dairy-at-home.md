@@ -133,4 +133,6 @@ Once you've mastered the basics, explore these directions:
 
 ## See Also
 
+- [[query-how-do-i-start-making-kefir-at-home]]
+
 - [[query-how-do-i-start-farming-spirulina-at-home]]

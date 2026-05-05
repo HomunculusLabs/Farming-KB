@@ -141,6 +141,8 @@ zone 1–2 areas where regular harvesting is practical.
 
 ## See Also
 
+- [[stropharia-ambiguata]]
+
 - [[stropharia-rugosoannulata]] — Main species entity page for wine cap mushroom
 - [[trametes-versicolor-entity]] — Turkey tail, another mulch-associated decomposer
 - [[laetiporus-sulphureus-permaculture]] — Chicken of the woods in permaculture

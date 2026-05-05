@@ -126,7 +126,9 @@ Gram-scale synthesis of psilocin and psilocybin without chromatographic purifica
 **Psilocin**: mp 169-174 dec C; UV (MeOH) lambda_max 222.5, 268.0, 284.5, 294.0 nm; HRESIMS m/z 205.1303 [M+H]+
 **Psilocybin**: mp 190-198 C; UV (MeOH) lambda_max 221.0, 267.5, 278.5, 290.0 nm; IR 3266, 1620, 1580 cm-1; 31P NMR delta -4.48; HRESIMS m/z 285.0991 [M+H]+
 **Previous yields**: Psilocybin synthesis was only 20% (Troxler 1959) and 47% (Nichols 1999) — this method represents a major improvement, achieving gram-scale production without any chromatographic purification.
-## Related Pages
+## Related
+
+- [[galantamine]] Pages
 - [[mushroom-growing-reference]] — Cultivation parameters and species tips
 - [[psychedelic-compounds-reference]] — Compound pharmacology and dosing
 - [[mushroom-substrates]] — Grain spawn and substrate details

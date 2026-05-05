@@ -77,5 +77,7 @@ should be redesigned or kept experimental.
 
 ## Related
 
+- [[clavaria-vermicularis]]
+
 - [[fungal-ecology]]
 - [[soil-food-web-nutrient-cycling]]

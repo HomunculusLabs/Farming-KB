@@ -135,8 +135,8 @@ and provide reliable, repeated harvests throughout the growing season.
 
 ## See Also
 
-- [[allium-sativum]] — Garlic, the most widely cultivated Allium species
-- [[allium-schoenoprasum]] — Common chives, the tubular-leaved relative
+- [[allium-sativum-entity]] — Garlic, the most widely cultivated Allium species
+- [[allium-tuberosum]] — Common chives, the tubular-leaved relative
 - [[ocimum-tenuiflorum-entity]] — Holy basil, another Asian culinary herb
 - [[mentha-piperita]] — Peppermint, a compatible companion herb
 - [[taraxacum-officinale]] — Dandelion, a dynamic accumulator neighbor

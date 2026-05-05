@@ -134,6 +134,8 @@ under the Federal Analogue Act.
 
 ## See Also
 
+- [[lysergic-acid]]
+
 - [[albert-hofmann]]
 - [[argyreia-nervosa]]
 - [[claviceps-purpurea]]
