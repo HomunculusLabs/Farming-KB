@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1703 pages**
+**1704 pages**
 
 ## #
 
@@ -330,6 +330,7 @@
 - [[berberine]]
 - [[berberis-vulgaris]]
 - [[beta-carboline]]
+- [[beta-caryophyllene]]
 - [[beta-d-entity]]
 - [[beta-d-entity-pihkal]]
 - [[beta-glucans]]

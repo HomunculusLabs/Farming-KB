@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**963 pages**
+**965 pages**
 
 ## A
 
@@ -346,6 +346,7 @@
 - [[comparison-root-cellaring-vs-dehydration]]
 - [[comparison-root-cellaring-vs-food-dehydration]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
+- [[comparison-saffron-vs-turmeric-cultivation]]
 - [[comparison-sea-of-green-vs-screen-of-green]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
 - [[comparison-seaweed-extract-vs-fish-hydrolysate]]
@@ -792,6 +793,7 @@
 - [[query-how-to-start-a-backyard-chicken-flock]]
 - [[query-how-to-start-a-backyard-orchard]]
 - [[query-how-to-start-a-food-forest]]
+- [[query-how-to-start-a-saffron-farm]]
 - [[query-how-to-start-a-syntropic-farm]]
 - [[query-how-to-start-a-worm-compost-bin]]
 - [[query-how-to-start-a-worm-farm-for-profit]]

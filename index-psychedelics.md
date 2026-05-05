@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1199 pages**
+**1204 pages**
 
 ## #
 
@@ -265,9 +265,12 @@
 - [[fukuoka-spiritual-philosophy-farming]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]
 - [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
+- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 - [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
 - [[fukuoka-textdoc-attaining-natural-form-fruit-trees]]
 - [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]]
+- [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
+- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
 - [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - [[fukuoka-textdoc-black-wattle-green-manure-trees-orchard-soil-building]]
 - [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
@@ -309,6 +312,7 @@
 - [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]
 - [[fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food]]
 - [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
+- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]
 - [[fukuoka-textdoc-forest-productivity-without-fertilizer]]
 - [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
 - [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
@@ -426,6 +430,7 @@
 - [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]
 - [[fukuoka-textdoc-vegetable-disease-pest-resistance-classification]]
 - [[fukuoka-textdoc-village-philosophy-disappearance]]
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 - [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
 - [[fukuoka-textdoc-what-plowing-really-is]]
 - [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]]
@@ -545,7 +550,7 @@
 - [[ibogaine-reference]]
 - [[icaros-power-songs]]
 - [[inactive-probes-pharmacological-falsification-pihkal]]
-- [[indole_hallucinogens_and_human_evolution]]
+- [[indole-hallucinogens-and-human-evolution]]
 - [[information-paradigm-of-consciousness]]
 - [[informational-monism]]
 - [[iochroma-fuchsioides-borrachera-ethnobotany]]
