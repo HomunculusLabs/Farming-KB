@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1573 pages**
+**1579 pages**
 
 ## #
 
@@ -164,6 +164,7 @@
 - [[a-o-dms-entity-tihkal]]
 - [[acacia]]
 - [[acacia-confusa]]
+- [[acacia-mearnsii]]
 - [[acalypha-racemosa]]
 - [[acapulco-gold]]
 - [[acdc]]
@@ -342,6 +343,7 @@
 - [[bohd-entity-pihkal]]
 - [[boletus-edulis]]
 - [[boletus-pinophilus]]
+- [[boletus-reticulatus]]
 - [[bom-entity]]
 - [[bom-entity-pihkal]]
 - [[bondarzewia-berkeleyi]]
@@ -434,6 +436,7 @@
 - [[comfrey]]
 - [[comfrey-permaculture]]
 - [[comfrey-symphytum-officinale]]
+- [[companion-planting]]
 - [[compass-pathways]]
 - [[coniophora-puteana]]
 - [[coniothyrium-minitans]]
@@ -752,6 +755,7 @@
 - [[humulus-lupulus]]
 - [[hydnellum-peckii]]
 - [[hydnum-repandum]]
+- [[hygrophorus-russula]]
 - [[hymenoscyphus-ericae]]
 - [[hyoscyamus-niger]]
 - [[hypericum-perforatum]]
@@ -859,6 +863,7 @@
 - [[laccase]]
 - [[lactarius-deliciosus]]
 - [[lactarius-indigo]]
+- [[lactarius-quietus]]
 - [[lactarius-rufus]]
 - [[lactarius-sanguifluus]]
 - [[lactarius-torminosus]]
@@ -1568,6 +1573,7 @@
 - [[tricholoma-lobayense]]
 - [[tricholoma-matsutake]]
 - [[tricholoma-mongolicum]]
+- [[tricholoma-portentosum]]
 - [[tricholoma-tigrinum]]
 - [[trichothecium-roseum]]
 - [[trifolium-repens]]
