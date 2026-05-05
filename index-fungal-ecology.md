@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2307 pages**
+**2311 pages**
 
 ## #
 
@@ -328,6 +328,7 @@
 - [[cervantes-photosynthesis-chlorophyll-plant-science]]
 - [[cervantes-trichoderma-beneficial-fungi]]
 - [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
+- [[challenges-neurotropic-fungi-identification-chemical-analysis]]
 - [[chanterelle-guide]]
 - [[chanterelle-species-eastern-us]]
 - [[chlorobenzene-chlorophenoxy-fungal-degradation]]
@@ -1440,6 +1441,7 @@
 - [[melanized-fungal-pathogens]]
 - [[metal-biotransformation-fungi]]
 - [[mexico-center-neurotropic-fungal-diversity]]
+- [[mexico-global-center-neurotropic-fungal-diversity]]
 - [[mexico-neurotropic-fungi-diversity-center]]
 - [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
 - [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
@@ -1742,11 +1744,13 @@
 - [[nematophagous-fungi]]
 - [[neurospora-baiting-isolation-methods]]
 - [[neurotropic-fungi]]
+- [[neurotropic-fungi-asia-oceania-distribution-cultural-use]]
 - [[neurotropic-fungi-biogeographic-patterns]]
 - [[neurotropic-fungi-classification]]
 - [[neurotropic-fungi-colombia-species-diversity-and-ecology]]
 - [[neurotropic-fungi-distribution]]
 - [[neurotropic-fungi-five-historical-periods]]
+- [[neurotropic-fungi-four-group-classification-system]]
 - [[neurotropic-fungi-in-africa]]
 - [[neurotropic-fungi-in-asia]]
 - [[neurotropic-fungi-in-central-america]]

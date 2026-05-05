@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1525 pages**
+**1530 pages**
 
 ## #
 
@@ -391,6 +391,7 @@
 - [[chemdawg-entity]]
 - [[chemdog]]
 - [[chenopodium-album]]
+- [[cherry-pie-cannabis]]
 - [[chestnut-entity]]
 - [[chinampas]]
 - [[chinese-tallow-tree]]
@@ -644,6 +645,7 @@
 - [[girl-scout-cookies]]
 - [[gleditsia-triacanthos]]
 - [[gliocladium-roseum]]
+- [[gliricidia-sepium]]
 - [[gloeophyllum-trabeum]]
 - [[glomalin]]
 - [[glomus-fasciculatus]]
@@ -890,6 +892,7 @@
 - [[lycoperdon-mixtecorum]]
 - [[lynn-margulis]]
 - [[lysergic-acid-amide]]
+- [[lysergic-acid-hydroxyethylamide]]
 
 ## M
 
@@ -1183,6 +1186,7 @@
 - [[pluteus-umbrosus]]
 - [[pluteus-villosus]]
 - [[podospora-anserina]]
+- [[polygonum-multiflorum]]
 - [[polyporus-umbellatus]]
 - [[polysaccharide-peptide-psp]]
 - [[poria-cocos]]
@@ -1395,6 +1399,7 @@
 - [[schisandra-chinensis]]
 - [[schizophyllan]]
 - [[schizophyllum-commune]]
+- [[scleroderma-citrinum]]
 - [[sclerotinia-sclerotiorum]]
 - [[scutellaria-baicalensis]]
 - [[scutellaria-lateriflora]]

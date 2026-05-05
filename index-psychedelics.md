@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1157 pages**
+**1162 pages**
 
 ## #
 
@@ -636,8 +636,10 @@
 - [[mckenna-fall-of-partnership-society]]
 - [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
 - [[mckenna-food-gods-archaic-revival]]
+- [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
 - [[mckenna-food-gods-chimpanzee-aspilia-self-med]]
 - [[mckenna-food-gods-designer-states-of-consciousness]]
+- [[mckenna-food-gods-dmt-experience-hyperspace]]
 - [[mckenna-food-gods-fall-consciousness]]
 - [[mckenna-food-gods-genesis-first-drug-bust]]
 - [[mckenna-food-gods-graves-psilocybin-eleusis]]
@@ -651,7 +653,10 @@
 - [[mckenna-food-gods-psilocybin-cultivation-1970s]]
 - [[mckenna-food-gods-soma-vedic-enigma]]
 - [[mckenna-food-gods-stoned-ape-hypothesis]]
+- [[mckenna-food-gods-sugar-addiction-slavery]]
 - [[mckenna-food-gods-tassili-cave-paintings]]
+- [[mckenna-food-gods-tea-coffee-drugs-gentility]]
+- [[mckenna-food-gods-television-dominator-drug]]
 - [[mckenna-food-gods-tryptamine-dimension]]
 - [[mckenna-food-gods-tryptamine-pharmacology-indoles]]
 - [[mckenna-food-gods-twilight-state-thinking]]

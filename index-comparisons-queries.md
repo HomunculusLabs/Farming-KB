@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**921 pages**
+**923 pages**
 
 ## A
 
@@ -315,6 +315,7 @@
 - [[comparison-rainwater-vs-greywater]]
 - [[comparison-raised-beds-vs-hugelkultur]]
 - [[comparison-raised-beds-vs-wicking-beds]]
+- [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]
 - [[comparison-reciprocal-roof-vs-timber-frame]]
 - [[comparison-regenerative-vs-biodynamic]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
@@ -802,6 +803,7 @@
 - [[query-what-are-the-benefits-of-no-till-gardening]]
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
 - [[query-what-are-the-best-companion-plants-for-cannabis]]
+- [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
 - [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
 - [[query-what-are-the-best-indicator-plants-for-soil-health]]
