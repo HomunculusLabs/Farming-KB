@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2192 pages**
+**2198 pages**
 
 ## #
 
@@ -624,6 +624,7 @@
 - [[cortinarius-orellanus]]
 - [[cortinarius-rubellus]]
 - [[cortinarius-violaceus]]
+- [[corydalis-cava]]
 - [[corydalis-yanhusuo]]
 - [[corylus-avellana]]
 - [[coryphantha-compacta]]
@@ -1446,6 +1447,7 @@
 - [[myrciaria-dubia]]
 - [[myrica-gale]]
 - [[myristica-fragrans]]
+- [[myristicin]]
 - [[myristicin-entity]]
 
 ## N
@@ -1473,6 +1475,7 @@
 - [[nicotine]]
 - [[nigella-sativa]]
 - [[nmt-entity-tihkal]]
+- [[nn-dimethyltryptamine]]
 - [[nn-dmt]]
 - [[noladin-ether]]
 - [[norbaeocystin]]
@@ -1534,6 +1537,7 @@
 - [[panaeolina-foenisecii]]
 - [[panaeolus-acuminatus]]
 - [[panaeolus-africanus]]
+- [[panaeolus-cambodginiensis]]
 - [[panaeolus-campanulatus]]
 - [[panaeolus-castaneifolius]]
 - [[panaeolus-cinctulus]]
@@ -1592,6 +1596,7 @@
 - [[petasites-hybridus]]
 - [[peter-oei]]
 - [[phalaris-aquatica]]
+- [[phallus-impudicus]]
 - [[phallus-impudicus-entity]]
 - [[phanerochaete-chrysosporium]]
 - [[phanerochaete-velutina]]
@@ -1702,6 +1707,7 @@
 - [[psilocybe-atrobrunnea]]
 - [[psilocybe-aucklandii]]
 - [[psilocybe-australiana]]
+- [[psilocybe-aztecorum]]
 - [[psilocybe-aztecorum-entity]]
 - [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
 - [[psilocybe-azurescens]]

@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**852 pages**
+**857 pages**
 
 ## A
 
@@ -154,6 +154,7 @@
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
 - [[fukuoka-do-nothing-health-philosophy]]
 - [[fukuoka-document-processing-research]]
+- [[fukuoka-dry-field-rice-compact-plant-theory]]
 - [[fukuoka-duck-rice-fish-symbiosis]]
 - [[fukuoka-early-farming-experiments]]
 - [[fukuoka-ecological-balance-principles]]
@@ -179,6 +180,7 @@
 - [[fukuoka-forty-days-africa]]
 - [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-four-types-of-diet]]
+- [[fukuoka-fruit-processing-and-natural-food-marketing]]
 - [[fukuoka-future-modern-agriculture]]
 - [[fukuoka-giannozzo-pucci-italian-natural-farming-camp]]
 - [[fukuoka-gibberellin-discovery-period]]
@@ -302,6 +304,7 @@
 - [[fukuoka-nature-transcends-human-knowledge]]
 - [[fukuoka-natures-self-organizing-principles]]
 - [[fukuoka-nelissen-farm]]
+- [[fukuoka-night-heron-revelation-origin-story]]
 - [[fukuoka-no-cultivation-principle]]
 - [[fukuoka-no-cultivation-principle-soil-self-tillage]]
 - [[fukuoka-no-fertilizer-principle]]
@@ -401,6 +404,7 @@
 - [[fukuoka-science-destroyer-of-nature]]
 - [[fukuoka-scientific-farming-paradoxes]]
 - [[fukuoka-seasonal-eating-natural-food-calendar]]
+- [[fukuoka-seasonal-food-mandala-local-diet]]
 - [[fukuoka-seed-ball-method]]
 - [[fukuoka-seed-ball-methods-advanced]]
 - [[fukuoka-seed-ball-one-seed-technique]]
@@ -430,6 +434,7 @@
 - [[fukuoka-spaniards-brought-bad-grasses]]
 - [[fukuoka-specter-food-scarcity]]
 - [[fukuoka-spider-leafhopper-natural-balance]]
+- [[fukuoka-spider-swarm-natural-predator-balance]]
 - [[fukuoka-spring-orchard-bloom-and-aesthetic-philosophy]]
 - [[fukuoka-stopping-desert-advance-natural-revegetation]]
 - [[fukuoka-straw-four-principles]]

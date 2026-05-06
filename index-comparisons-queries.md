@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1070 pages**
+**1078 pages**
 
 ## A
 
@@ -90,6 +90,7 @@
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
 - [[comparison-bioponics-vs-aquaponics]]
 - [[comparison-bioremediation-strategies-vs-biostimulation-techniques]]
+- [[comparison-black-currant-vs-red-currant-cultivation]]
 - [[comparison-black-locust-vs-honey-locust]]
 - [[comparison-black-soldier-fly-composting-vs-bokashi]]
 - [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
@@ -235,6 +236,7 @@
 - [[comparison-greywater-vs-rainwater-harvesting]]
 - [[comparison-guava-vs-passion-fruit-cultivation]]
 - [[comparison-hardneck-vs-softneck-garlic]]
+- [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]
@@ -360,6 +362,7 @@
 - [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pomegranate-vs-persimmon-cultivation]]
+- [[comparison-prairie-restoration-vs-silvopasture]]
 - [[comparison-pressure-canning-vs-water-bath-canning]]
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 - [[comparison-pruning-vs-grafting]]
@@ -367,6 +370,7 @@
 - [[comparison-quail-husbandry-vs-rabbit-husbandry]]
 - [[comparison-rabbit-husbandry-vs-chicken-keeping]]
 - [[comparison-rabbit-vs-quail-husbandry]]
+- [[comparison-rain-garden-vs-bioswale]]
 - [[comparison-rain-garden-vs-constructed-wetland]]
 - [[comparison-rain-garden-vs-swale]]
 - [[comparison-rainwater-vs-greywater]]
@@ -572,6 +576,7 @@
 - [[query-best-elderberry-varieties-for-different-climates-and-uses]]
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 - [[query-best-grain-legumes-for-a-small-homestead]]
+- [[query-best-kiwifruit-varieties-for-cold-climates]]
 - [[query-best-light-schedule-for-cannabis]]
 - [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
 - [[query-best-native-fruiting-shrubs-for-permaculture-hedges]]
@@ -744,6 +749,7 @@
 - [[query-how-does-living-soil-work-for-cannabis]]
 - [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
 - [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
+- [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]
 - [[query-how-does-one-carbon-metabolism-affect-methylation]]
 - [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
@@ -799,6 +805,7 @@
 - [[query-how-to-grow-and-use-stinging-nettle]]
 - [[query-how-to-grow-ashwagandha-at-home]]
 - [[query-how-to-grow-avocados-in-cold-climates]]
+- [[query-how-to-grow-black-currants-at-home]]
 - [[query-how-to-grow-cannabis-in-an-aquaponics-system]]
 - [[query-how-to-grow-chaga-mushroom]]
 - [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]
@@ -1029,6 +1036,7 @@
 - [[query-what-is-monster-cropping-and-should-i-try-it]]
 - [[query-what-is-mycelium-and-how-does-it-function-in-nature]]
 - [[query-what-is-mycoremediation-and-how-does-it-work]]
+- [[query-what-is-plant-phenology-and-why-does-it-matter-for-growers]]
 - [[query-what-is-polyculture-and-how-does-it-differ-from-monoculture]]
 - [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]]
