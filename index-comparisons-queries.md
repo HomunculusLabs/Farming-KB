@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1026 pages**
+**1032 pages**
 
 ## A
 
@@ -209,6 +209,7 @@
 - [[comparison-garlic-vs-onion-growing]]
 - [[comparison-goat-husbandry-vs-sheep-husbandry]]
 - [[comparison-goats-vs-sheep-in-permaculture-systems]]
+- [[comparison-goji-berry-vs-aronia-chokeberry]]
 - [[comparison-grafting-vs-budding-fruit-trees]]
 - [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
@@ -243,6 +244,7 @@
 - [[comparison-insectary-plants-vs-trap-cropping]]
 - [[comparison-insectary-plants-vs-trap-crops]]
 - [[comparison-jadam-vs-imo-microorganism-solutions]]
+- [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]]
 - [[comparison-jnp-vs-jms]]
 - [[comparison-kefir-vs-kombucha]]
 - [[comparison-kefir-vs-yogurt]]
@@ -318,6 +320,7 @@
 - [[comparison-no-till-vs-tilling]]
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
 - [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- [[comparison-oca-vs-potato]]
 - [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
 - [[comparison-organic-vs-chemical-amendments]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
@@ -613,6 +616,7 @@
 - [[query-how-do-i-grow-carnivorous-plants-outdoors]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
+- [[query-how-do-i-grow-goji-berries-at-home]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
 - [[query-how-do-i-grow-mulberry-trees]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
@@ -686,6 +690,7 @@
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
 - [[query-how-do-parasitoid-wasps-control-pest-populations]]
 - [[query-how-do-photonic-crystals-create-structural-color]]
+- [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
 - [[query-how-do-plants-defend-themselves-chemically]]
 - [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 - [[query-how-do-psychedelics-change-consciousness]]
@@ -758,6 +763,7 @@
 - [[query-how-to-fix-zinc-deficiency-in-cannabis]]
 - [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
+- [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - [[query-how-to-grow-and-use-stinging-nettle]]
 - [[query-how-to-grow-ashwagandha-at-home]]
 - [[query-how-to-grow-avocados-in-cold-climates]]

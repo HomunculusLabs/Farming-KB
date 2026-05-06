@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1335 pages**
+**1337 pages**
 
 ## #
 
@@ -672,6 +672,7 @@
 - [[microwave-steam-flash-sterilization-mechanism]]
 - [[microwave-sterilizable-access-port]]
 - [[microwave-sterilization]]
+- [[microwave-sterilization-of-enclosed-systems]]
 - [[microwave-surface-sterilization]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
 - [[microwave-surface-sterilization-technology]]
@@ -1372,6 +1373,7 @@
 - [[termitomyces-african-mushrooms]]
 - [[tissue-culture-cloning]]
 - [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
+- [[trace-water-enhanced-microwave-sterilization]]
 - [[trace-water-enhanced-microwave-surface-sterilization]]
 - [[training-program-mushroom-cultivation]]
 - [[tropical-mushroom-house-construction]]

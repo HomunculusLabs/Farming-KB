@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2337 pages**
+**2343 pages**
 
 ## #
 
@@ -359,6 +359,7 @@
 - [[coprophilous-fungi-diversity-geography]]
 - [[coprophilous-fungi-ecology]]
 - [[coprophilous-fungi-ecology-diversity]]
+- [[coprophilous-fungi-ecology-diversity-succession]]
 - [[coprophilous-fungi-ecology-succession]]
 - [[coprophilous-fungi-succession]]
 - [[coprophilous-fungi-taxonomic-groups-distribution]]
@@ -502,6 +503,7 @@
 - [[endophytic-fungal-diversity]]
 - [[endophytic-fungi]]
 - [[endophytic-fungi-and-plant-health]]
+- [[endophytic-fungi-biology-distribution-ecological-roles]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[endophytic-fungi-diversity]]
 - [[endophytic-fungi-diversity-and-ecology]]
@@ -869,6 +871,7 @@
 - [[fungal-life-cycles]]
 - [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 - [[fungal-life-history-strategies]]
+- [[fungal-life-strategies-ruderal-competitive-stress-tolerant]]
 - [[fungal-lignin-degradation-enzymology]]
 - [[fungal-lignin-peroxidase-veratryl-alcohol]]
 - [[fungal-ligninolytic-enzyme-systems-overview]]
@@ -1017,6 +1020,7 @@
 - [[fungal-species-concept]]
 - [[fungal-species-concept-and-taxonomy]]
 - [[fungal-species-concepts-estimates]]
+- [[fungal-species-concepts-taxonomic-impediment]]
 - [[fungal-species-estimates]]
 - [[fungal-species-estimates-biodiversity-overview]]
 - [[fungal-species-estimates-taxonomy]]
@@ -1467,6 +1471,7 @@
 - [[microfungal-species-diversity-large-areas]]
 - [[microfungi-litter-diversity-survey-methods]]
 - [[microfungi-wood-plant-debris]]
+- [[microfungi-wood-plant-debris-diversity-trophic-biogeography]]
 - [[microfungi-wood-plant-debris-survey]]
 - [[mitosporic-fungi-diversity-species-estimates]]
 - [[moist-chamber-technique-fungal-fruiting]]
@@ -1979,6 +1984,7 @@
 - [[sequestrate-fungi-diversity]]
 - [[sequestrate-fungi-ecology-evolution]]
 - [[sequestrate-fungi-evolution-mushroom-to-truffle]]
+- [[sequestrate-fungi-evolution-spore-dispersal]]
 - [[sequestrate-fungi-taxonomy-geographic-distribution]]
 - [[sequestrate-fungi-truffles-hypogeous-dispersal]]
 - [[shikimate-pathway-in-fungi]]
