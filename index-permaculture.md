@@ -1637,4 +1637,3 @@
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
 - [[zone-system]]
-- [[low-input-vegetable-gardening]]

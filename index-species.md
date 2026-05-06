@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2021 pages**
+**2034 pages**
 
 ## #
 
@@ -255,6 +255,7 @@
 - [[amanita-bisporigera]]
 - [[amanita-caesarea]]
 - [[amanita-caesarea-mycology]]
+- [[amanita-ceceliae]]
 - [[amanita-flavoconia]]
 - [[amanita-gemmata]]
 - [[amanita-jacksonii]]
@@ -454,8 +455,11 @@
 - [[cannabigerolic-acid-cbga]]
 - [[cannabinol-cbn]]
 - [[cannabis-blue-dream]]
+- [[cannabis-gorilla-glue]]
 - [[cannabis-indica]]
+- [[cannabis-jack-herer]]
 - [[cannabis-northern-lights]]
+- [[cannabis-og-kush]]
 - [[cannabis-ruderalis]]
 - [[cannabis-sativa]]
 - [[cantharellus-cibarius]]
@@ -516,6 +520,7 @@
 - [[claude-naranjo]]
 - [[clavaria-vermicularis]]
 - [[clavaria-zollingeri]]
+- [[clavariadelphus-pistillaris]]
 - [[claviceps-paspali]]
 - [[claviceps-purpurea]]
 - [[clavulina-cristata]]
@@ -577,6 +582,7 @@
 - [[cortinarius-cinnamomeus]]
 - [[cortinarius-orellanus]]
 - [[cortinarius-rubellus]]
+- [[cortinarius-violaceus]]
 - [[corydalis-yanhusuo]]
 - [[corylus-avellana]]
 - [[coryphantha-compacta]]
@@ -768,6 +774,7 @@
 - [[f-22-entity-pihkal]]
 - [[f-c-ghouled]]
 - [[fagopyrum-esculentum]]
+- [[fagus-sylvatica]]
 - [[feijoa]]
 - [[fermented-plant-juice]]
 - [[fermented-plant-juice-fpj]]
@@ -954,6 +961,7 @@
 - [[humulus-lupulus]]
 - [[hydnellum-peckii]]
 - [[hydnum-repandum]]
+- [[hydnum-repens]]
 - [[hydrastis-canadensis]]
 - [[hygrophorus-chlorophanus]]
 - [[hygrophorus-coccineus]]
@@ -968,6 +976,7 @@
 - [[hypholoma-sublateritium]]
 - [[hypomyces-aurantius]]
 - [[hypomyces-lactifluorum]]
+- [[hypoxylon-fragiforme]]
 - [[hypsizygus-marmoreus]]
 - [[hypsizygus-tessulatus]]
 - [[hypsizygus-ulmarius]]
@@ -1061,6 +1070,7 @@
 ## K
 
 - [[kaempferia-galanga]]
+- [[kaempferol]]
 - [[kali-mist]]
 - [[kavalactones]]
 - [[ketamine]]
@@ -1085,6 +1095,7 @@
 - [[lactarius-camphoratus]]
 - [[lactarius-deliciosus]]
 - [[lactarius-indigo]]
+- [[lactarius-piperatus]]
 - [[lactarius-quietus]]
 - [[lactarius-rufus]]
 - [[lactarius-sanguifluus]]
@@ -1409,6 +1420,7 @@
 - [[ortho-dot-entity-pihkal]]
 - [[osmorhiza-claytonii]]
 - [[oudemansiella-radicata]]
+- [[oudenansiella-mucida]]
 - [[oyster-mushroom]]
 
 ## P
@@ -1512,6 +1524,7 @@
 - [[pisolithus-tinctorius]]
 - [[pistacia-lentiscus]]
 - [[pistacia-vera-entity]]
+- [[pistia-stratiotes]]
 - [[pistil-whippersnapper]]
 - [[plant-guild]]
 - [[plantago-lanceolata]]
@@ -2105,13 +2118,3 @@
 - [[zkittlez]]
 - [[zombie-kush]]
 - [[zookies]]
-- [[amanita-ceceliae]]
-- [[clavariadelphus-pistillaris]]
-- [[cortinarius-violaceus]]
-- [[hydnum-repens]]
-- [[hypoxylon-fragiforme]]
-- [[kaempferol]]
-- [[lactarius-piperatus]]
-- [[oudenansiella-mucida]]
-- [[pistia-stratiotes]]
-- [[fagus-sylvatica]]

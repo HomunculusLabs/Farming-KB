@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1024 pages**
+**1026 pages**
 
 ## A
 
@@ -180,6 +180,7 @@
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
+- [[comparison-erect-vs-trailing-vs-primocane-brambles]]
 - [[comparison-ethnobotany-vs-ethnomycology]]
 - [[comparison-fennel-vs-dill]]
 - [[comparison-fermentation-vs-canning]]
@@ -646,6 +647,7 @@
 - [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 - [[query-how-do-i-prevent-and-treat-damping-off-in-cannabis-seedlings]]
 - [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
+- [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
 - [[query-how-do-i-prune-fruit-trees-naturally]]
 - [[query-how-do-i-raise-rabbits-in-a-permaculture-system]]
 - [[query-how-do-i-restore-saline-and-compacted-soil]]
@@ -1075,5 +1077,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[comparison-erect-vs-trailing-vs-primocane-brambles]]
-- [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]

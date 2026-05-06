@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1334 pages**
+**1335 pages**
 
 ## #
 
@@ -671,6 +671,7 @@
 - [[microwave-exposure-system-architecture-surface-sterilization]]
 - [[microwave-steam-flash-sterilization-mechanism]]
 - [[microwave-sterilizable-access-port]]
+- [[microwave-sterilization]]
 - [[microwave-surface-sterilization]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
 - [[microwave-surface-sterilization-technology]]
@@ -1403,5 +1404,3 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
-- [[microwave-sterilization]]
-- [[psilocybin-psilocin-variation-flushes]]

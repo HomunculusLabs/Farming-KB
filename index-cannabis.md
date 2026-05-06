@@ -1003,6 +1003,3 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
-- [[cannabis-jack-herer]]
-- [[cannabis-og-kush]]
-- [[cannabis-gorilla-glue]]

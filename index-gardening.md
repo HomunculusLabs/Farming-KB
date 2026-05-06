@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**851 pages**
+**852 pages**
 
 ## A
 
@@ -536,6 +536,7 @@
 - [[leucaena-alley-cropping-systems]]
 - [[leucaena-alley-cropping-tropical-forage]]
 - [[low-fire-trees]]
+- [[low-input-vegetable-gardening]]
 - [[lsa-containing-plants-guide]]
 - [[luther-burbank-plant-breeding-methods]]
 

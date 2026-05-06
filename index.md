@@ -7,19 +7,19 @@
 ## Categories
 
 - [[index-fungal-ecology|Fungal Ecology & Biology]] (2337 pages)
-- [[index-mushroom-cultivation|Mushroom Cultivation]] (1334 pages)
-- [[index-psychedelics|Psychedelics & Entheogens]] (1255 pages)
+- [[index-mushroom-cultivation|Mushroom Cultivation]] (1335 pages)
+- [[index-psychedelics|Psychedelics & Entheogens]] (1256 pages)
 - [[index-permaculture|Permaculture & Ecological Design]] (1565 pages)
 - [[index-natural-farming|Natural Farming]] (848 pages)
 - [[index-cannabis|Cannabis]] (940 pages)
 - [[index-soil-and-compost|Soil & Compost]] (390 pages)
-- [[index-gardening|Gardening & Growing]] (851 pages)
+- [[index-gardening|Gardening & Growing]] (852 pages)
 - [[index-bioremediation|Bioremediation & Restoration]] (65 pages)
 - [[index-herbalism|Herbalism & Plant Medicine]] (59 pages)
 - [[index-homesteading|Homesteading & Self-Reliance]] (206 pages)
 - [[index-brewing|Brewing & Fermentation]] (39 pages)
-- [[index-species|Species Profiles]] (2021 pages)
-- [[index-comparisons-queries|Comparisons & Queries]] (1024 pages)
+- [[index-species|Species Profiles]] (2034 pages)
+- [[index-comparisons-queries|Comparisons & Queries]] (1026 pages)
 
 ## Complete Index
 
