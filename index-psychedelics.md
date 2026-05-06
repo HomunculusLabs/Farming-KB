@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1219 pages**
+**1224 pages**
 
 ## #
 
@@ -329,11 +329,13 @@
 - [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
 - [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
+- [[fukuoka-textdoc-imitation-cannot-outclass-original-persimmon-seed]]
 - [[fukuoka-textdoc-increased-production-not-increased-yields]]
 - [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]
 - [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
 - [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]]
 - [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
+- [[fukuoka-textdoc-kitchen-knife-two-edged-sword-zen-food-culture]]
 - [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]]
 - [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]]
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
@@ -405,7 +407,9 @@
 - [[fukuoka-textdoc-rodenticide-cycle-forest-destruction-mouse-weasel]]
 - [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
 - [[fukuoka-textdoc-scale-insect-biological-control-case-studies]]
+- [[fukuoka-textdoc-scientific-farming-deformed-fruit-distortion-incompleteness]]
 - [[fukuoka-textdoc-scientific-farming-energy-paradox]]
+- [[fukuoka-textdoc-scientists-meet-limits-soil-science-no-tillage]]
 - [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 - [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
 - [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
@@ -423,6 +427,7 @@
 - [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
 - [[fukuoka-textdoc-starting-natural-farm-site-design]]
 - [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
+- [[fukuoka-textdoc-sword-fighting-analogy-three-ways-farming]]
 - [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
 - [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 - [[fukuoka-textdoc-three-stage-collapse-knowledge-destruction-failure]]
