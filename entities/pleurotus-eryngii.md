@@ -3,28 +3,27 @@ title: "Pleurotus eryngii"
 type: species
 tags:
   - fungi
-  - agaricales
-  - edible-mushrooms
+  - edible-mushroom
   - cultivation
-  - gourmet-mushrooms
+  - permaculture
+  - oyster-mushroom
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sánchez, C. (2010). \"Cultivation of Pleurotus eryngii on various substrates.\" Journal of Agricultural and Food Chemistry, 58(9), 5653-5658."
-  - "Zhang, M. et al. (2014). \"Bioactive compounds from Pleurotus eryngii.\" Food Chemistry, 159, 20-26."
-  - "Kim, Y.W. et al. (2012). \"Anti-inflammatory effects of Pleurotus eryngii extracts.\" Journal of Medicinal Food, 15(3), 275-281."
-  - "Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. 3rd ed. Ten Speed Press."
-  - "Oei, P. & Nuyen, M.T. (2005). Manual for Mushroom Growers. Tool Publications."
+  - Zadrazil, F. (1978). "The ecology and industrial production of Pleurotus ostreatus." Mushroom Science X(1): 621-628.
+  - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other edible mushrooms." Applied Microbiology and Biotechnology 85(5): 1321-1337.
+  - Royse, D.J. et al. (2017). "Sixteen years of cultivation of Pleurotus spp. on tree leaves." Mushroom Science 15(1): 381-388.
+  - Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. 3rd ed. Ten Speed Press.
+  - Oei, P. (2003). Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
 ---
-
-# Pleurotus eryngii (*Pleurotus eryngii*)
 
 ## Overview
 
-*Pleurotus eryngii*, the king oyster mushroom, is the largest species in the oyster mushroom genus (*Pleurotus*), prized for its thick, meaty stipe and mild, umami-rich flavor.
-Native to the Mediterranean basin and parts of Central Asia, it is one of the most commercially cultivated specialty mushrooms worldwide.
-Unlike other oyster mushrooms that grow on wood, *P. eryngii* is a weak primary decomposer that often fruits in association with the roots of herbaceous plants, particularly *Eryngium* (sea holly), from which its species epithet derives.
-Its combination of culinary quality, nutritional density, and documented bioactive compounds makes it a dual-purpose species for food and functional medicine.
+**Pleurotus eryngii** (DC.) Quél., commonly known as the king oyster mushroom, is the largest species in the genus *Pleurotus*. Native to the Mediterranean basin and parts of the Middle East and North Africa, it is prized for its thick, meaty stipe and firm cap.
+
+The species is both commercially significant and well-suited to home cultivation. Its robust fruiting body texture makes it a popular substitute for seafood and meat in vegetarian and vegan cooking.
+
+Unlike other oyster mushrooms, *P. eryngii* fruits singly or in small clusters rather than in large shelf-like formations. This growth habit, combined with its long storage life, has driven rapid expansion in commercial production since the 1990s.
 
 ## Taxonomy
 
@@ -33,121 +32,89 @@ Its combination of culinary quality, nutritional density, and documented bioacti
 - **Class:** Agaricomycetes
 - **Order:** Agaricales
 - **Family:** Pleurotaceae
-- **Genus:** *Pleurotus*
-- **Species:** *P. eryngii* (DC.) Quél.
-- **Varieties:** *P. eryngii* var. *eryngii*, var. *ferulae*, var. *tornatae*, var. *pseudocornucopiae*
-- **Etymology:** Named for its association with *Eryngium campestre* (field eryngo), a thistle-like herbaceous plant
-- **Common names:** King oyster mushroom, king trumpet mushroom, eryngii, trumpet royale
+- **Genus:** Pleurotus
+- **Species:** P. eryngii (DC.) Quél. (1872)
+
+**Synonyms:**
+- *Agaricus eryngii* DC. (1815) — basionym
+- *Pleurotus eryngii* var. *eryngii*
+
+The species epithet derives from *Eryngium* (sea holly), the plant on which the type specimen was found. Several varieties are recognized based on host plant association, including var. *ferulae* (on fennel) and var. *tingitanus*.
 
 ## Morphology
 
-### Cap
+**Cap:** Convex to plane, 5–15 cm diameter. Surface smooth, dry, pale grey-brown to tan, sometimes with a slightly darker disc. Margin inrolled when young, decurved at maturity. Flesh thick, white, firm.
 
-- 3–12 cm diameter, convex to plano-convex with inrolled margin when young
-- Color ranges from white to pale tan or brownish; darker in wild forms
-- Surface smooth, dry, non-hygrophanous
-- Context (flesh) thick, firm, white
+**Stipe:** Central to eccentric, 4–12 cm long, 1.5–4 cm thick. Cylindrical or clavate, solid, white. The stipe is conspicuously thick relative to the cap — a defining feature of the species.
 
-### Stipe (Most Distinctive Feature)
+**Gills:** Decurrent, narrow, white to cream, crowded. Edge entire.
 
-- 4–15 cm long, 2–5 cm thick — exceptionally robust compared to other *Pleurotus* species
-- Solid and meaty throughout, unlike the lateral and thin-stiped common oyster
-- White to pale, surface smooth or with fine longitudinal fibrils
-- Central to eccentric attachment; the stipe often constitutes 60–70% of the fruiting body mass
+**Spores:** Elliptical, smooth, 8–12 × 4–5.5 µm. Spore print white to pale lilac.
 
-### Gills
-
-- Decurrent (running down the stipe), crowded, white to cream
-- Gill edges entire, sometimes forking near the stipe
-- Spore-producing surface develops a slightly pinkish tint at maturity
-
-### Spores
-
-- Spore print: white to pale lilac
-- Spores: 8–14 × 4–6 µm, cylindrical to ellipsoid, smooth, hyaline, non-amyloid
-
-### Mycelium
-
-- White, cottony to woolly, moderately fast-growing on agar; optimal growth at 24–28°C
-- Robust colonizer of supplemented substrates; forms dense mycelial mats
+**Mycelium:** White, cottony to woolly, moderately fast colonizing. Forms a thick, leathery mat on fully colonized substrates.
 
 ## Distribution and Habitat
 
-- Native to Mediterranean Europe, North Africa, and Central Asia (Spain to Himalayas)
-- Grows in sandy soils, grasslands, and semi-arid scrublands
-- **Unusual substrate preference:** Fruits at the base of herbaceous plants (*Eryngium*, *Ferula*, *Cirsium* spp.)
-- Unlike most *Pleurotus* species, rarely found on hardwood logs
-- Season: Spring and autumn after rain in Mediterranean climates
+*P. eryngii* is native to the Mediterranean region, spanning Southern Europe, North Africa, and the Middle East. It has been documented from Spain, France, Italy, Greece, Turkey, Morocco, Algeria, and Iran.
 
-## Nutritional Profile (per 100 g fresh weight)
+In the wild, it is a weak parasite and saprotroph associated with herbaceous plants. It colonizes the roots and lower stems of *Eryngium* species, *Ferula communis* (giant fennel), *Cirsium* thistles, and related Apiaceae and Asteraceae.
 
-- **Calories:** 33 kcal
-- **Protein:** 2.5–3.5 g (contains all essential amino acids)
-- **Carbohydrates:** 5.0 g (including 1.5 g dietary fiber)
-- **Fat:** 0.3 g
-- **Potassium:** 310 mg
-- **Phosphorus:** 95 mg
-- **Niacin (B₃):** 4.5 mg
-- **Ergothioneine:** 4.0–7.0 mg (antioxidant amino acid, among the highest of all mushrooms)
-
-## Bioactive Compounds
-
-### β-Glucans
-
-- 1,3/1,6-β-D-glucan content: 15–25% of dry weight
-- Immunomodulatory activity: activates macrophages, NK cells, and dendritic cells
-- Anti-tumor activity in murine sarcoma models (60–80% inhibition rates)
-
-### Lovastatin
-
-- Naturally produced lovastatin: 0.5–1.5% dry weight; HMG-CoA reductase inhibitor with cholesterol-lowering activity
-- Concentration varies with substrate and cultivation conditions
-
-### Other Compounds
-
-- **Ergosterol:** Provitamin D₂ precursor; UV-B exposure converts to vitamin D₂
-- **Pleuran:** Specific β-glucan fraction with documented immunostimulatory effects
-- **Pleuran:** Specific β-glucan fraction with documented immunostimulatory effects
+It fruits in spring and autumn, preferring warm, dry Mediterranean climates. Wild collections are uncommon relative to cultivated material in most markets.
 
 ## Cultivation
 
-### Substrate Preparation
+King oyster mushrooms are cultivated commercially on supplemented straw, sawdust, or a mixture of both. They are among the most commercially valuable *Pleurotus* species due to shelf life and texture.
 
-- **Base substrate:** Wheat straw, hardwood sawdust, or cottonseed hulls
-- **Supplements:** Wheat bran (15–20%), rice bran (10–15%), or soybean meal (5–10%)
-- **Moisture content:** 62–68%; sterilize by autoclave or atmospheric steam pasteurization
+**Substrate:** Wheat or rice straw, hardwood sawdust (oak, beech), supplemented with wheat bran (10–20%) or soybean meal (5–10%). Pasteurization at 65–70°C for 8–12 hours.
 
-### Cultivation Parameters
+**Spawn:** Grain spawn (wheat, rye, millet) at 3–5% inoculation rate by weight.
 
-- **Spawn run:** 20–28 days at 24–26°C, 85–90% humidity
-- **Primordia formation:** Temperature drop to 12–16°C, high humidity (95%), fresh air exchange
-- **Fruiting temperature:** 14–18°C (significantly cooler than other *Pleurotus* species)
-- **Light:** 500–1000 lux, 12 hours/day; high CO₂ (1000–2000 ppm) promotes long stipes
-- **Crop cycle:** 7–10 days from pinning to harvest
+**Colonization:** 20–25°C, 85–90% relative humidity, 14–21 days for full colonization.
 
-### Yield and Economics
+**Fruiting conditions:** 12–18°C, 85–95% humidity, 500–1000 lux light, fresh air exchange of 4–6 air changes per hour. CO₂ below 800 ppm promotes normal cap development; higher CO₂ produces elongated stipes (intentionally done in commercial production for premium appearance).
 
-- **Biological efficiency:** 60–100% (kg fresh per kg dry substrate)
-- **Flushes:** Typically 2–3; first flush is 60–70% of total yield
-- **Shelf life:** 10–14 days at 2–4°C
-- **Market value:** Premium gourmet; 2–3× price of common oyster mushrooms
+**Yield:** Biological efficiency of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
 
-### Culinary Applications
+## Bioactive Compounds
 
-- Thick stipe slices as a meat substitute — grills, roasts, and sautés like scallops
-- Firm texture holds up to stir-frying and braising without becoming mushy
-- Mild, slightly sweet flavor with pronounced umami; absorbs marinades well
-- Popular in ramen, hot pot, and Italian cuisine; dried for concentrated stock flavor
+*P. eryngii* produces several bioactive metabolites of pharmacological interest:
+
+- **Ergothioneine:** A potent antioxidant thiourea derivative found at 2.5–5.0 mg/g dry weight, among the highest levels in edible mushrooms.
+- **β-Glucans:** (1→3),(1→6)-linked polysaccharides with immunomodulatory activity, measured at 15–25% of dry weight.
+- **Lovastatin:** A statin compound produced at measurable levels, contributing to cholesterol-lowering potential.
+- **Pleurotin:** A diketopiperazine antibiotic isolated from related *Pleurotus* species, with variable presence in *P. eryngii*.
+- **Ergosterol:** Provitamin D₂ precursor, present at 5–8 mg/g dry weight.
+
+## Culinary and Nutritional Use
+
+The king oyster mushroom is valued for its thick, meaty texture and mild, umami flavor. The stipe is the primary edible portion — unlike most mushrooms where the cap dominates.
+
+**Preparation methods:** Sliced and seared (resembles scallops), grilled whole, breaded and fried, shredded to mimic pulled pork, thinly sliced as a bacon substitute. The firm texture holds up to braising and stir-frying.
+
+**Nutritional profile (per 100 g fresh):**
+- Calories: 22–33 kcal
+- Protein: 2.5–3.5 g
+- Carbohydrates: 4–6 g (of which dietary fiber: 1.5–2.5 g)
+- Fat: 0.3–0.5 g
+- Potassium: 300–400 mg
+- B vitamins: Thiamine, riboflavin, niacin, pantothenic acid
 
 ## Permaculture Applications
 
-- **Substrate recycling:** Spent substrate is excellent compost rich in fungal biomass
-- **Food forest integration:** Grown on agricultural waste (straw, chipped prunings) from permaculture systems
-- **Nutrient cycling:** Converts lignocellulosic waste into high-protein food
-- **Income crop:** High market value suits small-scale commercial permaculture enterprises
+King oyster mushrooms integrate well into permaculture systems as both a food crop and a decomposition pathway:
+
+- **Straw bale cultivation:** Spent straw from grain production can be directly inoculated, turning agricultural waste into food and compost.
+- **Food forest integration:** Can be grown on chipped branch prunings from forest garden trees, particularly hardwoods.
+- **Companion planting synergy:** The spent substrate makes excellent mulch or soil amendment with residual fungal biomass and enzymes.
+- **Mycelial networks:** When grown in-ground on buried substrate, the mycelium connects with surrounding soil ecology, improving soil structure and nutrient cycling.
+- **Stacked functions:** Produces food while simultaneously decomposing organic matter, making it a high-value element in zone 1–2 permaculture designs.
 
 ## See Also
 
-- [[pleurotus-ostreatus]] — Common oyster mushroom; easier to grow, thinner, different ecology
-- [[lions-mane-hericium-erinaceus]] — Another gourmet medicinal mushroom with neuroprotective properties
-- [[trametes-versicolor]] — Medicinal polypore with complementary immunomodulatory β-glucans
+- [[Pleurotus ostreatus]]
+- [[Grifola frondosa]]
+- [[Hericium erinaceus]]
+- [[Mycelium]]
+- [[Fungal Cultivation]]
+- [[Permaculture]]
+- [[Ergothioneine]]
