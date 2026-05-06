@@ -1638,6 +1638,3 @@
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
 - [[zone-system]]
-- [[hippophae-rhamnoides-permaculture]]
-- [[leucaena-leucocephala]]
-- [[stropharia-rugosoannulata-permaculture]]

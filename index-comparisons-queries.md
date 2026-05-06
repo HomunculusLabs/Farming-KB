@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**979 pages**
+**985 pages**
 
 ## A
 
@@ -268,6 +268,7 @@
 - [[comparison-mangrove-restoration-vs-constructed-wetlands]]
 - [[comparison-martha-tent-vs-monotub]]
 - [[comparison-mead-making-vs-beer-brewing]]
+- [[comparison-mealworm-farming-vs-cricket-farming]]
 - [[comparison-mesquite-vs-black-locust-vs-carob-tree]]
 - [[comparison-microgreens-vs-shoots-growing]]
 - [[comparison-microgreens-vs-sprouts]]
@@ -323,6 +324,7 @@
 - [[comparison-phytoextraction-vs-phytostabilization]]
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[comparison-pigeon-pea-vs-cowpea]]
+- [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pressure-canning-vs-water-bath-canning]]
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
@@ -352,6 +354,7 @@
 - [[comparison-root-cellaring-vs-food-dehydration]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-saffron-vs-turmeric-cultivation]]
+- [[comparison-sea-buckthorn-vs-aronia]]
 - [[comparison-sea-of-green-vs-screen-of-green]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
 - [[comparison-seaweed-extract-vs-fish-hydrolysate]]
@@ -581,6 +584,7 @@
 - [[query-how-do-i-grow-alliums-successfully]]
 - [[query-how-do-i-grow-brassicas-successfully]]
 - [[query-how-do-i-grow-cannabis-in-a-greenhouse]]
+- [[query-how-do-i-grow-carnivorous-plants-outdoors]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
 - [[query-how-do-i-grow-figs-in-cold-climates]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
@@ -588,6 +592,7 @@
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
 - [[query-how-do-i-grow-passion-fruit-in-a-cold-climate]]
+- [[query-how-do-i-grow-sea-buckthorn]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
@@ -631,6 +636,7 @@
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
 - [[query-how-do-i-start-farming-spirulina-at-home]]
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
+- [[query-how-do-i-start-making-kefir-at-home]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
 - [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
 - [[query-how-do-i-use-biochar-in-my-garden]]
@@ -1030,7 +1036,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[comparison-mealworm-farming-vs-cricket-farming]]
-- [[comparison-sea-buckthorn-vs-aronia]]
-- [[query-how-do-i-grow-sea-buckthorn]]
-- [[query-how-do-i-start-making-kefir-at-home]]

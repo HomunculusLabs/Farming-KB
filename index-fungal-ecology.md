@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2324 pages**
+**2325 pages**
 
 ## #
 
@@ -469,6 +469,7 @@
 - [[distribution-of-neurotropic-fungi]]
 - [[dna-barcoding-fungal-identification]]
 - [[downy-mildew-biology-diversity-peronosporales]]
+- [[dry-microwave-irradiation-spore-resistance]]
 - [[dry-rot-fungi-serpula-meruliporia]]
 
 ## E

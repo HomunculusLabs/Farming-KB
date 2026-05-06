@@ -1003,6 +1003,3 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
-- [[afghan-kush]]
-- [[pennywise-strain]]
-- [[sour-tsunami]]
