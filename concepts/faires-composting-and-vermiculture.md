@@ -10,9 +10,9 @@ sources:
 # Composting and Vermiculture
 
 Composting converts kitchen scraps, yard waste, and manure into rich soil amendment through [[decomposition|microbial decomposition]]. The [[teaming-with-microbes-compost-biology|compost biology]]
-driving this process involves successions of bacteria, actinomycetes, and fungi.
+driving this process involves successions of bacteria, [[actinomycetes-soil-biology|actinomycetes]], and fungi.
 Vermiculture uses worms (specifically red wigglers) to process organic waste even faster, producing nutrient-dense castings. See [[vermicomposting]] for detailed worm-based methods and [[fungal-decomposition-resource-quality-determinants|fungal decomposition dynamics]]
-that contribute to the later stages of compost breakdown. Together, these systems close the nutrient loop on a homestead, turning waste into fertility. For most households, food scraps constitute about 30% of garbage — material that can be returned to the soil instead of landfilled.
+that contribute to the later stages of compost breakdown. Together, these systems close the nutrient loop on a homestead, turning waste into fertility. For most households, food scraps constitute about 30% of garbage — material that can be returned to the soil instead of landfilled. This guide draws from [[nicole-faires|Nicole Faires]]' comprehensive homesteading reference.
 
 ## Kitchen Compost
 
@@ -97,7 +97,7 @@ Every couple of months, open the bin in bright light. Worms hate light and will 
 
 ## Composting Toilets
 
-A typical suburban toilet uses 3.5 gallons (13.25 liters) per flush. At three uses per day over a year, that equals 3,832 gallons (14,505 liters) of fresh water. Composting toilets eliminate this waste while producing valuable soil amendment.
+A typical suburban toilet uses 3.5 gallons (13.25 liters) per flush. At three uses per day over a year, that equals 3,832 gallons (14,505 liters) of fresh water. [[composting-toilets]] eliminate this waste while producing valuable soil amendment.
 
 ### Commercial Waterless Systems (Recommended)
 
@@ -119,7 +119,7 @@ Build your own system with a 5-gallon (19 liter) bucket fitted with a toilet sea
 
 ## Biomass Heat from Compost
 
-Compost decomposition produces significant heat. A compost pile reaches 140F (60C) and can maintain that for months. This heat can be captured passively by placing the compost heap inside a greenhouse or running plastic piping (thin-walled PVC or garden hose) through the pile. Water heated this way can be sent to a hot water tank. See [[passive-solar-and-biomass-energy]] for detailed designs.
+Compost decomposition produces significant heat. A compost pile reaches 140F (60C) and can maintain that for months. This heat can be captured passively by placing the compost heap inside a greenhouse or running plastic piping (thin-walled PVC or garden hose) through the pile. Water heated this way can be sent to a hot water tank. The resulting biochar-like residues can also enrich [[biochar-and-fungi|fungal communities]] in amended soils. See [[passive-solar-and-biomass-energy]] for detailed designs.
 
 ## Related
 
@@ -139,3 +139,4 @@ Compost decomposition produces significant heat. A compost pile reaches 140F (60
 - [[soil-food-web-structure]] -- microbial ecology behind composting
 - [[composting]] -- composting science and methods
 - [[natural-farming]] -- broader context of chemical-free agriculture
+- [[biochar]] -- biochar as a complementary soil amendment from organic waste

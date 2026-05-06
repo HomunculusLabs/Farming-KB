@@ -1,150 +1,150 @@
-     1|---
-     2|title: Blue Dream
-     3|type: strain
-     4|tags:
-     5|  - cannabis
-     6|  - hybrid
-     7|  - sativa-dominant
-     8|  - blueberry
-     9|  - dj-short
-    10|  - popular-strain
-    11|  - creative
-    12|  - medicinal
-    13|date: 2026-04-28
-    14|updated: 2026-04-28
-    15|sources:
-    16|  - https://www.leafly.com/strains/blue-dream
-    17|  - https://www.wikileaf.com/strain/blue-dream/
-    18|  - Small, E. & Marcus, D. "Cannabis: Evolution and Ethnobotany." University of California Press, 2017.
-    19|  - ElSohly, M.A. et al. "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry, 2016.
-    20|---
-    21|
-    22|# Blue Dream
-    23|
-    24|## Overview
-    25|
-    26|**Blue Dream** is a sativa-dominant hybrid cannabis strain that has become one of the most popular and widely consumed cannabis varieties in the world, particularly on the West Coast of the United States. A cross between the indica **Blueberry** (DJ Short) and the sativa **Haze**, Blue Dream delivers a balanced experience that combines the cerebral stimulation of a sativa with the physical relaxation of an indica. Its widespread appeal lies in this gentle equilibrium — providing enough mental energy for daytime use while maintaining a calming body component that prevents the anxiety sometimes associated with pure sativas.
-    27|
-    28|## Lineage and Genetics
-    29|
-    30|### Parent Strains
-    31|
-    32|| Parent | Type | Origin | Key Traits |
-    33||--------|------|--------|------------|
-    34|| **Blueberry** (♀) | Indica | DJ Short (1970s, Oregon) | Sweet berry flavor, relaxing, purple hues, high myrcene |
-    35|| **Haze** (♂) | Sativa | Santa Cruz, California (1960s-70s) | Cerebral high, long flowering, earthy-spice, energetic |
-    36|
-    37|### Genetic Profile
-    38|
-    39|- **Sativa/Indica ratio**: ~60% sativa / 40% indica (approximate; phenotypic variation is significant)
-    40|- **Genetic stability**: Moderate — Blue Dream exhibits some phenotypic variability due to its complex genetic background. Multiple phenos exist, ranging from more indica-dominant (denser buds, heavier body effects) to more sativa-dominant (looser structure, more cerebral)
-    41|- **Breeder**: Generally credited to DJ Short or a Bay Area collective in the early 2000s
-    42|- **Notable crosses**: Blue Dream has been used as a parent in hundreds of subsequent crosses, including Blue Dream CBD, Dream Beam, and Azure Haze
-    43|
-    44|## Cannabinoid Profile
-    45|
-    46|### Typical Laboratory Analysis
-    47|
-    48|| Compound | Typical Range | Notes |
-    49||----------|--------------|-------|
-    50|| **THC** | 17–24% | Has increased over time; original phenos were 15–18% |
-    51|| **CBD** | 0.1–0.3% | Low; high-CBD variants exist (1:1 ratio) |
-    52|| **CBG** | 0.1–0.5% | Trace amounts |
-    53|| **THCV** | <0.1% | Minimal |
-    54|| **CBC** | 0.05–0.2% | Trace |
-    55|
-    56|### Cannabinoid Entourage
-    57|
-    58|Blue Dream's effects are driven primarily by its THC content, but the low CBD contributes to the entourage effect by modulating THC's psychoactive intensity. The 20:1 THC:CBD ratio creates a stimulating yet manageable experience that is approachable for both novice and experienced consumers.
-    59|
-    60|## Terpene Profile
-    61|
-    62|The distinctive flavor and aroma of Blue Dream come from a characteristic terpene profile:
-    63|
-    64|| Terpene | Typical % | Aroma/Flavor | Effects |
-    65||---------|----------|--------------|---------|
-    66|| **Myrcene** | 0.4–0.8% | Earthy, herbal, musky | Sedative, muscle relaxant, "couch-lock" contributor |
-    67|| **Caryophyllene** | 0.2–0.5% | Peppery, spicy | Anti-inflammatory, binds CB2 receptors |
-    68|| **Limonene** | 0.2–0.5% | Citrus, lemon | Mood elevation, stress relief, anxiolytic |
-    69|| **Pinene** | 0.1–0.3% | Pine, woody | Mental clarity, bronchodilator, counters THC sedation |
-    70|| **Linalool** | 0.05–0.2% | Floral, lavender | Calming, anxiolytic, sleep aid |
-    71|| **Humulene** | 0.05–0.15% | Woody, earthy | Appetite suppressant, anti-inflammatory |
-    72|
-    73|### Aroma and Flavor
-    74|
-    75|The aroma of Blue Dream is one of its most celebrated characteristics:
-    76|
-    77|- **Nose**: Sweet blueberry upfront, followed by earthy, herbal notes and a subtle vanilla-musk undertone
-    78|- **Flavor**: Smooth, sweet berry on the inhale with an earthy, slightly spicy exhale. Less harsh than many high-THC strains
-    79|- **Smoke**: Medium density, relatively smooth for the THC level
-    80|
-    81|## Effects
-    82|
-    83|### Onset and Duration
-    84|
-    85|| Phase | Timeline | Characteristics |
-    86||-------|----------|----------------|
-    87|| Onset | 1–3 minutes (smoking); 30–60 min (edibles) | Rapid cerebral lift |
-    88|| Peak | 15–30 min (smoking); 1.5–2.5 hrs (edibles) | Full body and head engagement |
-    89|| Duration | 2–3 hours (smoking); 4–8 hours (edibles) | Gradual comedown |
-    90|
-    91|### Subjective Effects
-    92|
-    93|**Positive effects (common):**
-    94|- Euphoric, uplifting cerebral stimulation
-    95|- Creative inspiration and enhanced ideation
-    96|- Mild physical relaxation without heavy sedation
-    97|- Social facilitation and talkativeness
-    98|- Enhanced sensory perception (music appreciation, visual richness)
-    99|- Motivation and focus (at moderate doses)
-   100|
-   101|**Negative effects (possible):**
-   102|- Dry mouth (cottonmouth) — very common
-   103|- Dry eyes — common
-   104|- Mild anxiety at high doses (less than pure sativas)
-   105|- Drowsiness at high doses or late in the experience
-   106|- Paranoia in sensitive individuals or with overconsumption
-   107|
-   108|### Medical Applications
-   109|
-   110|Blue Dream is widely used in medical cannabis programs for:
-   111|
-   112|- **Chronic pain**: Moderate analgesic effects suitable for daytime pain management
-   113|- **Depression**: Uplifting, mood-elevating properties
-   114|- **Anxiety**: Anxiolytic at moderate doses (the myrcene-linalool combination provides calming)
-   115|- **Fatigue**: Sativa-dominant energy boost without jitters
-   116|- **Migraines**: Vascular headache relief (partially attributed to caryophyllene)
-   117|- **PTSD**: Mood stabilization and stress reduction
-   118|- **Nausea**: Antiemetic effects of THC
-   119|- **ADHD**: Some patients report improved focus at low-to-moderate doses
-   120|
-   121|## Growing Information
-   122|
-   123|### Cultivation Difficulty: Moderate
-   124|
-   125|Blue Dream is considered intermediate in cultivation difficulty — forgiving enough for experienced beginners but requiring attention to optimize quality.
-   126|
-   127|### Vegetative Stage
-   128|
-   129|| Parameter | Optimal Range |
-   130||-----------|--------------|
-   131|| Vegetative period | 4–8 weeks |
-   132|| Plant height | Medium-tall (100–180 cm outdoors) |
-   133|| Branching | Vigorous; responds well to training |
-   134|| Training methods | LST (low-stress training), SCROG, topping, fimming all effective |
-   135|| Nutrient needs | Moderate-heavy feeder; responds well to nitrogen in veg |
-   136|
-   137|### Flowering Stage
-   138|
-   139|| Parameter | Optimal Range |
-   140||-----------|--------------|
-   141|| Flowering time | 9–10 weeks (63–70 days) |
-   142|| Expected yield | 14–21 oz/plant outdoors; 14–18 oz/m² indoors |
-   143|| Stretch in flower | Moderate (1.5–2× increase) |
-   144|| Nutrient shift | Increase P-K, reduce N during weeks 3–7 |
-   145|| Flush | 1–2 weeks before harvest |
-   146|
-   147|### Environmental Requirements
-   148|
-   149|| Parameter | Optimal Range |
-   150||-----------|--------------|
+---
+title: Blue Dream
+type: strain
+tags:
+  - cannabis
+  - hybrid
+  - sativa-dominant
+  - medicinal-cannabis
+  - terpene-profile
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - https://www.leafly.com/strains/blue-dream
+  - https://www.wikileaf.com/strain/blue-dream/
+  - https://allbud.com/marijuana-strains/hybrid/blue-dream
+---
+
+# Blue Dream
+
+**Balanced Hybrid** · *Sativa-dominant*
+
+> "The workhorse of the cannabis world — functional euphoria without the couch lock." — Leafly
+
+## Overview
+
+Blue Dream is a sativa-dominant hybrid cannabis strain that has achieved legendary status since its emergence in the early 2000s. A cross between **Blueberry** (indica) and **Haze** (sativa), it delivers a balanced cerebral and physical experience that has made it the most popular cannabis strain in the United States for multiple consecutive years. Its consistent, approachable effects and appealing flavor profile have made it a benchmark against which other strains are measured.
+
+## Lineage & Genetics
+
+| Parent | Type | Origin | Contribution |
+|--------|------|--------|-------------|
+| **Blueberry** | Indica | DJ Short (1970s, Oregon) | Sweet berry flavor, moderate body relaxation |
+| **Haze** | Sativa | Santa Cruz, CA (1960s–70s) | Cerebral euphoria, creative energy, tall growth |
+
+- **Genetic ratio**: ~60% sativa / 40% indica
+- **Breeder**: Widely attributed to DJ Short or an anonymous Northern California breeder
+- **Origin**: Northern California, early 2000s
+- **THC content**: 17–24% (average ~19%)
+- **CBD content**: 0.1–0.2% (low)
+- **Dominant cannabinoids**: THC, with trace CBG, CBC
+
+## Terpene Profile
+
+The terpene composition of Blue Dream is key to both its flavor and its entourage effects:
+
+| Terpene | Percentage | Aroma/Effect Contribution |
+|---------|-----------|--------------------------|
+| **Myrcene** | 0.5–1.2% | Earthy, herbal; promotes relaxation, sedation at high doses |
+| **Caryophyllene** | 0.3–0.8% | Peppery, spicy; binds CB2 receptors, anti-inflammatory |
+| **Limonene** | 0.2–0.6% | Citrus; mood elevation, stress relief |
+| **Pinene** | 0.1–0.4% | Pine; mental clarity, bronchodilator, counteracts THC anxiety |
+| **Linalool** | 0.05–0.2% | Floral, lavender; anxiolytic, sedative |
+| **Humulene** | 0.05–0.15% | Woody, earthy; appetite suppressant, anti-inflammatory |
+
+The myrcene-to-pinene ratio is particularly notable — the presence of pinene helps prevent the cognitive fog often associated with high-myrcene strains, contributing to Blue Dream's "clear-headed" reputation.
+
+## Appearance
+
+- **Buds**: Medium to large, dense but airy, elongated conical shape
+- **Color**: Forest green with blue and purple hues (especially when exposed to cooler temperatures during flowering); abundant bright orange pistils
+- **Trichomes**: Thick, frosty coating of cloudy white trichomes with occasional amber heads
+- **Structure**: Open, sativa-like bud structure with good calyx-to-leaf ratio
+
+## Aroma & Flavor
+
+- **Primary aroma**: Sweet blueberry with earthy undertones and a hint of vanilla
+- **Secondary notes**: Herbal, slightly spicy, subtle citrus peel
+- **Smoke**: Smooth, expansive, sweet on the exhale with lingering berry aftertaste
+- **Vaporization**: Cleaner blueberry flavor at lower temps (175–185°C); earthier and more complex at higher temps (190–210°C)
+
+## Effects Profile
+
+### Onset & Duration
+
+- **Onset**: 1–3 minutes (smoking/vaping), 30–90 minutes (edibles)
+- **Peak**: 15–45 minutes
+- **Duration**: 2–3 hours (inhalation), 4–6 hours (oral)
+
+### Reported Effects
+
+**Cerebral (from Haze lineage)**:
+- Gentle, uplifting euphoria
+- Enhanced creativity and focus
+- Mild visual sharpening
+- Sociable, talkative energy
+- Reduced anxiety (for most users)
+
+**Physical (from Blueberry lineage)**:
+- Full-body relaxation without sedation
+- Muscle tension relief
+- Mild analgesia
+- Appetite stimulation
+- Transient dry mouth and dry eyes
+
+### Therapeutic Applications
+
+Blue Dream is widely used in medical cannabis programs for:
+
+- **Chronic pain**: Mild to moderate analgesia without heavy sedation
+- **Depression**: Mood elevation and motivational enhancement
+- **Anxiety**: Anxiolytic effects at low-to-moderate doses; note that high doses may paradoxically increase anxiety in susceptible individuals
+- **PTSD**: Helps manage hypervigilance while maintaining daytime functionality
+- **ADHD**: Some patients report improved focus (anecdotal; pinene contribution suspected)
+- **Insomnia**: Effective at higher doses when physical relaxation overtakes cerebral stimulation
+- **Nausea**: Appetite stimulation and anti-emetic properties
+- **Migraines**: Both prophylactic and abortive use reported
+
+## Growing Information
+
+### Cultivation Difficulty
+
+Moderate — suitable for growers with some experience. Not recommended for absolute beginners due to sensitivity to environmental conditions.
+
+### Growth Characteristics
+
+- **Flowering time**: 9–10 weeks (indoor), early to mid-October (outdoor)
+- **Yield**: 17–21 oz/m² (indoor), 14–21 oz/plant (outdoor)
+- **Height**: Tall (can exceed 6 ft indoors without training)
+- **Stretch**: Moderate to high during early flowering (1.5–2×)
+- **Training**: Responds well to SCROG, LST, and topping; benefits from canopy management due to tall stature
+
+### Environmental Preferences
+
+- **Temperature**: 65–80°F (18–27°C); cooler night temps (below 65°F/18°C) during weeks 5–8 of flowering enhance purple coloration
+- **Humidity**: 45–55% during flowering; 55–65% during vegetative growth
+- **Nutrients**: Moderate to heavy feeder; benefits from calcium and magnesium supplementation
+- **Soil pH**: 6.0–6.8
+
+### Pest & Disease Resistance
+
+Moderate resistance to mold and mildew. Susceptible to spider mites and powdery mildew in high-humidity environments. Proper air circulation is essential.
+
+## Notable Phenotypes & Variations
+
+- **"Azure Haze"**: A stabilized phenotype by DJ Short with more pronounced Haze characteristics
+- **"Blue Dream CBD"**: A high-CBD variant (CBD:THC ~1:1 to 2:1) bred by crossing Blue Dream with a CBD-rich strain
+- **"Wonder Woman"**: Some sources consider this a Blue Dream phenotype or close relative
+
+## Cultural Impact
+
+Blue Dream occupies a unique position in cannabis culture:
+
+- Consistently ranked as the #1 most popular strain in the U.S. by dispensary sales data (2015–2023)
+
+## References
+
+1. ElSohly, M.A., et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades." *Biological Psychiatry*, 79(7), 613–619.
+2. Russo, E.B. (2011). "Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpene Entourage Effects." *British Journal of Pharmacology*, 163(7), 1344–1364.
+3. Leafly Staff. "Blue Dream Strain Information." Leafly.com.
+4. Smart, R., et al. (2017). "The price elasticity of cannabis demand." *Drug and Alcohol Dependence*, 171, 159–167.

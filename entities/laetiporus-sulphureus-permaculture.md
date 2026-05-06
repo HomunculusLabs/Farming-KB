@@ -143,6 +143,8 @@ apply:
 
 ## See Also
 
+- [[laetiporus-sulphureus-entity]]
+
 - [[ganoderma-lucidum]] — medicinal polypore companion species
 - [[pleurotus-ostreatus]] — white-rot edible for complementary cultivation
 - [[fomitopsis-pinicola]] — red-belted polypore, co-occurring species

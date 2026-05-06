@@ -138,5 +138,7 @@ manifest in real-world outcomes.
 - [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-mu-farming-epistemology]]
 - [[masanobu-fukuoka]] -- biography of the philosopher-farmer
+- [[sepp-holzer]] -- Austrian farmer who independently developed similar principles of natural agriculture
+- [[toby-hemenway]] -- permaculture author who applied Fukuoka's ideas to suburban food forests
 - [[natural-farming]] -- natural farming methods and practice
 - [[permaculture]] -- related design philosophy for sustainable systems

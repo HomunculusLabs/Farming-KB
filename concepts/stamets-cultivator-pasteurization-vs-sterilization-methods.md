@@ -10,7 +10,7 @@ sources:
 # Pasteurization vs Sterilization Methods
 
 Mushroom cultivators employ two fundamentally different approaches to
-substrate preparation: pasteurization and sterilization. The choice
+[[substrate-preparation]]: pasteurization and sterilization. The choice
 between them depends on the species being grown, the substrate type,
 and the scale of operation. Understanding the distinction is critical
 for success, as improper treatment leads to contamination that can ruin
@@ -25,7 +25,7 @@ sterilize grain requires the destruction of more than 300,000
 contaminants per gram. This is achieved through autoclaving at 15 psi
 (250 degrees F) for 60-90 minutes in a pressure cooker or autoclave.
 
-Sterilization is required for grain spawn preparation and for
+Sterilization is required for [[grain-spawn-preparation]] and for
 sawdust-based substrates used for wood-decomposing species. The
 principles of [[stamets-grain-sterilization-contamination-sources]] apply. At a constant volume, pressure and temperature
 directly correspond (Boyle's Law). The effect of sterilizing at 60

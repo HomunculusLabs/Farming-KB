@@ -1,150 +1,133 @@
-     1|---
-     2|title: Hericium erinaceus
-     3|type: species
-     4|tags:
-     5|  - fungi
-     6|  - medicinal-mushroom
-     7|  - nootropic
-     8|  - mycology
-     9|  - lion's-mane
-    10|  - adaptogen
-    11|date: 2026-04-28
-    12|updated: 2026-04-28
-    13|sources:
-    14|  - https://pubmed.ncbi.nlm.nih.gov/?term=hericium+erinaceus+neuro
-    15|  - Stamets, Paul. "Growing Gourmet & Medicinal Mushrooms." Ten Speed Press, 2000.
-    16|  - Wong, K.H. et al. "Hericium erinaceus: A valuable medicinal mushroom." Journal of Pharmacy and Pharmacology, 2022.
-    17|---
-    18|
-    19|# Hericium erinaceus (Lion's Mane)
-    20|
-    21|## Overview
-    22|
-    23|**Hericium erinaceus**, commonly known as Lion's Mane mushroom, is an edible and medicinal fungus belonging to the family Hericiaceae. It is recognized by its distinctive cascading white spines that resemble a lion's mane, and has been used for centuries in traditional Chinese and Japanese medicine. The mushroom grows on hardwood trees, particularly oaks, walnuts, and beeches, and is found across North America, Europe, and Asia.
-    24|
-    25|## Taxonomy
-    26|
-    27|| Rank | Classification |
-    28||------|---------------|
-    29|| Kingdom | Fungi |
-    30|| Division | Basidiomycota |
-    31|| Class | Agaricomycetes |
-    32|| Order | Russulales |
-    33|| Family | Hericiaceae |
-    34|| Genus | *Hericium* |
-    35|| Species | *H. erinaceus* |
-    36|
-    37|## Morphology
-    38|
-    39|The fruiting body of *H. erinaceus* is one of the most distinctive among edible mushrooms. It forms a single, irregular clump of soft, dangling spines that can reach 2–25 cm in diameter. The spines are white to cream-colored when fresh, turning yellowish-brown with age. Unlike most mushrooms, it has no cap or stem in the traditional sense — the entire fruiting body consists of these cascading spine-like structures that hang from a single attachment point on the host tree.
-    40|
-    41|The flesh is white, firm, and has a texture and flavor often compared to lobster or crab meat when cooked, earning it the alternate common name "pom-pom blanc" in French culinary tradition.
-    42|
-    43|## Habitat and Distribution
-    44|
-    45|Lion's Mane is a saprotrophic and sometimes parasitic fungus that colonizes the wounds of living hardwood trees or grows on dead and decaying hardwood. It prefers:
-    46|
-    47|- **Substrate**: Oak (*Quercus* spp.), walnut (*Juglans* spp.), beech (*Fagus* spp.), maple (*Acer* spp.), and sycamore
-    48|- **Climate**: Temperate to boreal forests; fruits in late summer through autumn
-    49|- **Geographic range**: Native to North America, Europe, and Asia; increasingly cultivated worldwide
-    50|
-    51|In permaculture systems, Lion's Mane is valued for its ability to decompose hardwood, contributing to nutrient cycling in forest gardens and agroforestry setups.
-    52|
-    53|## Bioactive Compounds
-    54|
-    55|The therapeutic properties of Lion's Mane are attributed to several key bioactive compounds:
-    56|
-    57|### Erinacines
-    58|
-    59|Erinacines (A–I) are cyathane-type sesquiterpenes found primarily in the **mycelium** of *H. erinaceus*. Erinacine A and Erinacine S are the most studied for their neuroprotective effects. These compounds can cross the blood-brain barrier and stimulate nerve growth factor (NGF) synthesis.
-    60|
-    61|### Hericenones
-    62|
-    63|Hericenones (C–H) are aromatic compounds isolated from the **fruiting body**. Hericenones C, D, E, F, G, and H have demonstrated the ability to stimulate NGF and brain-derived neurotrophic factor (BDNF) production in vitro.
-    64|
-    65|### Beta-Glucans
-    66|
-    67|Like many medicinal mushrooms, Lion's Mane contains significant amounts of β-(1,3)/(1,6)-D-glucans, which modulate the immune system through activation of macrophages, natural killer cells, and dendritic cells.
-    68|
-    69|### Other Compounds
-    70|
-    71|- **Hericerin** — a chlorinated compound with cytotoxic properties
-    72|- **4-Hydroxyphenethyl alcohol (tyrosol)** — antioxidant
-    73|- **Palmitic acid derivatives** — anti-inflammatory
-    74|
-    75|## Pharmacological Effects
-    76|
-    77|### Neuroprotection and Neurogenesis
-    78|
-    79|The most compelling research on Lion's Mane concerns its effects on the nervous system. Studies in animal models and cell cultures demonstrate:
-    80|
-    81|- **NGF stimulation**: Both erinacines and hericenones promote NGF synthesis in astrocytes, supporting neuronal survival, growth, and maintenance.
-    82|- **Memory improvement**: In a 2009 double-blind, placebo-controlled clinical trial (Mori et al.), older adults with mild cognitive impairment showed significant improvement in cognitive function after 16 weeks of Lion's Mane supplementation (3 g/day dried powder).
-    83|- **Peripheral nerve regeneration**: Animal studies show accelerated regeneration of crushed peripheral nerves.
-    84|- **Anti-amyloid activity**: *In vitro* studies suggest compounds in Lion's Mane may inhibit amyloid-beta aggregation, relevant to Alzheimer's disease research.
-    85|
-    86|### Anti-Inflammatory Effects
-    87|
-    88|Lion's Mane extracts suppress pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) and inhibit NF-κB signaling pathways. This makes it of interest for conditions involving chronic inflammation.
-    89|
-    90|### Antioxidant Properties
-    91|
-    92|The mushroom demonstrates significant free radical scavenging activity, attributed to its phenolic compounds and polysaccharides.
-    93|
-    94|### Gastrointestinal Health
-    95|
-    96|Lion's Mane has a long history of use for stomach ailments. Research indicates it may protect gastric mucosa, inhibit *Helicobacter pylori* growth, and support gut microbiome diversity.
-    97|
-    98|## Cultivation
-    99|
-   100|### Substrate Preparation
-   101|
-   102|Lion's Mane can be cultivated on supplemented hardwood sawdust or logs:
-   103|
-   104|- **Hardwood sawdust**: Oak or beech sawdust supplemented with 20% wheat bran and 2% gypsum
-   105|- **Log cultivation**: Inoculated into freshly cut hardwood logs (oak preferred), 30–100 cm long, 15–30 cm diameter
-   106|- **Sterilization**: Autoclave at 121°C for 90 minutes (sawdust) or hot water treatment (logs)
-   107|
-   108|### Fruiting Conditions
-   109|
-   110|| Parameter | Optimal Range |
-   111||-----------|--------------|
-   112|| Temperature | 18–24°C (64–75°F) |
-   113|| Humidity | 85–95% relative humidity |
-   114|| Fresh air exchange | High (4–8 air changes/hour) |
-   115|| Light | Indirect ambient light (50–200 lux) |
-   116|| pH | 5.0–6.0 |
-   117|
-   118|### Harvesting
-   119|
-   120|Fruiting bodies are ready for harvest when spines reach 1–3 cm in length and before they begin to yellow. Expected yields from supplemented sawdust blocks range from 25–35% biological efficiency over 2–3 flushes.
-   121|
-   122|## Culinary Uses
-   123|
-   124|Lion's Mane is considered a choice edible mushroom with a delicate, seafood-like flavor:
-   125|
-   126|- **Texture**: Firm and meaty when young; can become stringy if overcooked
-   127|- **Preparation**: Best sautéed in butter, used in soups, or breaded and pan-fried
-   128|- **Flavor pairings**: Lemon, garlic, thyme, white wine, cream sauces
-   129|- **Caution**: Raw Lion's Mane can cause digestive discomfort in some individuals
-   130|
-   131|## Permaculture Applications
-   132|
-   133|In permaculture design, Lion's Mane offers several benefits:
-   134|
-   135|1. **Decomposition**: Efficient hardwood decomposer for woody debris management
-   136|2. **Food production**: High-value gourmet mushroom for homestead food systems
-   137|3. **Medicine**: On-site source of medicinal compounds
-   138|4. **Biodiversity**: Supports forest floor ecology and microbial diversity
-   139|5. **Economic**: Premium market value ($20–40/lb fresh) makes it viable for small-scale agroforestry enterprises
-   140|
-   141|## Safety and Precautions
-   142|
-   143|- Generally recognized as safe (GRAS) for culinary use
-   144|- Rare allergic reactions reported, particularly in individuals with mushroom allergies
-   145|- May interact with anticoagulant medications due to mild antiplatelet activity
-   146|- Pregnant and breastfeeding women should consult healthcare providers before supplementation
-   147|- Quality varies significantly between products — look for dual-extract (water + alcohol) preparations standardized to erinacine/hericenone content
-   148|
-   149|## See Also
-   150|
+---
+title: Hericium erinaceus
+type: species
+tags:
+  - fungi
+  - medicinal-mushroom
+  - nootropic
+  - adaptogen
+  - mycology
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - https://pubmed.ncbi.nlm.nih.gov/?term=hericium+erinaceus
+  - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=190178&Fields=All
+  - Stamets, P. (2006). Mycelium Running. Ten Speed Press.
+---
+
+# Hericium erinaceus
+
+**Lion's Mane** · *Hericium erinaceus* (Bull.) Pers.
+
+> "The mountain monk's brain tonic" — traditional Chinese medicine proverb
+
+## Taxonomy
+
+| Rank | Classification |
+|------|---------------|
+| Kingdom | Fungi |
+| Division | Basidiomycota |
+| Class | Agaricomycetes |
+| Order | Russulales |
+| Family | Hericiaceae |
+| Genus | *Hericium* |
+| Species | *H. erinaceus* |
+
+## Description
+
+Hericium erinaceus is a species of edible and medicinal mushroom belonging to the tooth fungus group. It is easily recognized by its long, cascading white spines (1–5 cm) that hang from a single branched clump, resembling a lion's mane or a waterfall of white hair. The fruiting body is typically 5–25 cm in diameter and can appear on both living and dead hardwood trees, particularly oaks, walnuts, and beeches.
+
+The flesh is white, firm, and has a texture and flavor often compared to lobster or crab meat, making it a prized culinary fungus in East Asian cuisine. When fresh, the spines are soft and pliable; they become brittle and yellowish with age.
+
+## Distribution & Habitat
+
+- **Native range**: North America, Europe, and Asia
+- **Habitat**: Temperate and boreal hardwood forests
+- **Substrate**: Saprotrophic and weakly parasitic on living hardwoods (*Quercus*, *Juglans*, *Fagus*, *Betula*)
+- **Fruiting season**: Late summer through autumn (August–November in the Northern Hemisphere)
+- **Frequency**: Uncommon to rare in the wild; increasingly cultivated commercially
+
+## Ethnobotanical History
+
+Lion's Mane has a deep history in East Asian traditional medicine:
+
+- **Traditional Chinese Medicine (TCM)**: Known as 猴头菇 (*hóu tóu gū*, "monkey head mushroom"), used for centuries to strengthen the spleen, nourish the stomach, and support digestive health. Recorded in the *Compendium of Materia Medica* (Bencao Gangmu) adjunct texts.
+- **Japanese medicine**: Called 山伏茸 (*yamabushitake*, "mountain priest mushroom"), named after the ascetic mountain monks (*yamabushi*) who wore garments resembling the fungus. Used to treat gastric ulcers and nerve damage.
+- **Korean tradition**: Used in *hanyak* (Korean herbal medicine) as a stomach tonic and digestive aid.
+
+## Bioactive Compounds
+
+### Hericenones and Erinacines
+
+The two most significant classes of bioactive compounds in *H. erinaceus* are hericenones (found in the fruiting body) and erinacines (found in the mycelium). These cyathane-type sesquiterpenes are among the few natural substances known to stimulate **Nerve Growth Factor (NGF)** synthesis.
+
+| Compound | Location | Primary Activity |
+|----------|----------|-----------------|
+| Hericenones C–H | Fruiting body | NGF stimulation, neuroprotection |
+| Erinacines A–I | Mycelium | NGF stimulation, enhanced BDNF |
+| β-Glucans | Fruiting body & mycelium | Immunomodulation |
+| Hericium polysaccharides | Fruiting body | Antioxidant, anti-inflammatory |
+| Oxalic acid | Fruiting body | Antimicrobial |
+
+## Pharmacology & Clinical Research
+
+### Neuroprotective Effects
+
+The neuroprotective properties of *H. erinaceus* are the most extensively studied aspect:
+
+- **NGF/BDNF pathway**: Hericenones and erinacines cross the blood-brain barrier and stimulate the synthesis of NGF and Brain-Derived Neurotrophic Factor (BDNF) in the hippocampus. NGF is critical for the growth, maintenance, and survival of neurons.
+- **Cognitive function**: A 2017 double-blind, placebo-controlled clinical trial (Mori et al.) found that oral administration of *H. erinaceus* dried powder (3 g/day for 16 weeks) significantly improved cognitive function in Japanese adults with mild cognitive impairment (MCI). The improvement was sustained but diminished after supplementation ceased.
+- **Neurodegenerative disease models**: Preclinical studies in mice demonstrate protection against amyloid-beta toxicity, reduction of neuroinflammation, and improvement in memory tasks. Research is ongoing for potential applications in Alzheimer's and Parkinson's disease.
+
+### Neuropathy and Nerve Regeneration
+
+- A 2020 pilot study (Takeshi et al.) showed that *H. erinaceus* intake reduced pain and improved functional recovery in patients with peripheral nerve injury, likely through enhanced NGF-mediated nerve regeneration.
+
+### Immunomodulation
+
+- β-glucan polysaccharides activate macrophages and NK (natural killer) cells, modulating both innate and adaptive immune responses.
+- Demonstrated anti-tumor activity in vitro against gastric, colon, and liver cancer cell lines, primarily through immune-mediated mechanisms rather than direct cytotoxicity.
+
+### Gastrointestinal Health
+
+- Traditional use for gastric ulcers is supported by modern research: *H. erinaceus* extract protects gastric mucosa, inhibits *Helicobacter pylori* growth, and promotes intestinal epithelial cell proliferation.
+
+## Cultivation
+
+Lion's Mane is commercially cultivated using:
+
+- **Substrate**: Hardwood sawdust (oak, beech) supplemented with wheat bran (10–20%) and gypsum
+- **Spawn**: Grain spawn (rye or millet)
+- **Fruiting conditions**: 65–75°F (18–24°C), 85–95% relative humidity, high fresh air exchange, indirect light
+- **Colonization**: 14–21 days
+- **Time to fruit**: 7–14 days after induction
+- **Yield**: Biological efficiency of 75–120%
+
+Outdoor log cultivation is also possible using inoculated oak or beech logs.
+
+## Culinary Uses
+
+- Texture resembles crab or lobster meat when cooked
+- Common preparations: sautéed in butter, tempura, soups, stir-fries
+- Dried and powdered as a supplement
+- Pairings: soy sauce, garlic, ginger, white wine
+
+## Safety & Precautions
+
+- Generally recognized as safe (GRAS) for culinary use
+- Rare cases of allergic contact dermatitis from handling raw fruiting bodies
+- May interact with anticoagulant and antiplatelet medications due to mild blood-thinning effects
+- Insufficient safety data for use during pregnancy and breastfeeding
+
+## See Also
+
+- [[Ganoderma-lucidum]] — Reishi mushroom, another major medicinal fungus
+- [[psilocybin]] — Psychedelic compound found in related fungal species
+- [[nervous-system]] — Overview of the nervous system and neuroprotective strategies
+
+## References
+
+1. Mori, K., et al. (2009). "Improving effects of the mushroom *Hericium erinaceus* on mild cognitive impairment." *Phytotherapy Research*, 23(3), 367–372.
+2. Kawagishi, H., et al. (2004). "A stimulant of nerve growth factor synthesis from *Hericium erinaceus*." *Biomedical Research*, 25(1), 1–4.
+3. Wong, K.H., et al. (2012). "Hericium erinaceus: A valuable edible mushroom with medicinal values." *Journal of Traditional and Complementary Medicine*, 2(1), 16–24.
+4. Li, I.C., et al. (2020). "The neuroprotective effect of *Hericium erinaceus*." *Journal of Neuroinflammation*, 17, 259.

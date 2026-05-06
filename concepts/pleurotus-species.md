@@ -17,12 +17,12 @@ culinary quality, medicinal properties, and ease of cultivation on diverse
 [[oyster-mushroom-substrates]]. Like [[lentinula-edodes|shiitake]] and other
 saprotrophic genera, Pleurotus species rely on [[fungal-spore-dispersal-mechanisms|spore dispersal]]
 for colonization of new substrates, and their [[cotter-mushroom-life-cycle-mycelium-biology|life cycle]]
-follows the typical mushroom pattern of mycelial colonization followed by fruiting.
+follows the typical mushroom pattern of [[mycelial-colonization]] followed by fruiting.
 
 ## Taxonomy and Classification
 
 Pleurotus belongs to the family Pleurotaceae within the order Agaricales. The
-genus was first described by Paul Kummer in 1871. Modern molecular phylogenetics
+genus was first described by Paul Kummer in 1871. Modern [[fungal-taxonomy]]
 has reorganized the genus several times, with some former Pleurotus species
 moved to other genera like Lentinus and Panus.
 
@@ -33,24 +33,25 @@ to the lateral, ear-shaped fruiting bodies typical of many species.
 
 ### Pleurotus ostreatus (Pearl Oyster)
 
-The classic oyster mushroom and the most widely cultivated species worldwide.
-Found naturally across temperate regions of the Northern Hemisphere, growing on
-dead or dying hardwood trees. Fruit bodies are fan-shaped with white to gray
+The classic [[oyster-mushroom]] and the most widely cultivated species worldwide.
+found naturally across temperate regions of the Northern Hemisphere, growing on
+dead or dying hardwood trees as [[saprotrophic-fungi]]. Fruit bodies are fan-shaped with white to gray
 caps, short off-center stems, and white gills that run down the stem
 (decurrent).
 
 Prefers temperatures of 15-18 degrees Celsius for fruiting. Known for fast
 colonization and reliable yields with [[biological-efficiency]] often exceeding
-100% on supplemented straw substrates.
+100% on supplemented straw substrates. See [[substrate-preparation]] for
+methods to optimize growing media.
 
-### Pleurotus pulmonarius (Phoenix Oyster / Indian Oyster)
+### [[pleurotus-pulmonarius|Pleurotus pulmonarius]] (Phoenix Oyster / Indian Oyster)
 
 Very similar to P. ostreatus but prefers warmer temperatures (20-24 degrees
 Celsius). Cap color ranges from white to pale tan. More tolerant of warmer
 conditions, making it popular in subtropical and tropical regions. Often
 confused with P. ostreatus in the wild.
 
-### Pleurotus eryngii (King Oyster)
+### [[pleurotus-eryngii|Pleurotus eryngii]] (King Oyster)
 
 Also called the king trumpet mushroom or eryngii. Distinctive thick, meaty
 stem and small cap. Native to Mediterranean regions, associated with roots of
@@ -61,21 +62,21 @@ Requires cooler fruiting temperatures (12-18 degrees Celsius) and longer
 growing cycles. Lower biological efficiency than other oyster species but
 higher per-unit market value.
 
-### Pleurotus djamor (Pink Oyster)
+### [[pleurotus-djamor|Pleurotus djamor]] (Pink Oyster)
 
 A tropical species producing vivid pink to salmon-colored fruit bodies. Very
 fast growing at warm temperatures (22-26 degrees Celsius). The intense color
 fades to pale pink or tan when cooked. Extremely aggressive colonizer but
 fruits have a very short shelf life (2-3 days) compared to other species.
 
-### Pleurotus citrinopileatus (Golden Oyster)
+### [[pleurotus-citrinopileatus|Pleurotus citrinopileatus]] (Golden Oyster)
 
 Producing bright yellow to golden fruit bodies, native to subtropical hardwood
 forests of East Asia. Fast-growing with a distinctive sweet, nutty flavor.
 Prefers warm temperatures similar to P. djamor. The golden color is vivid when
 fresh but fades significantly upon cooking or drying.
 
-### Pleurotus cystidiosus (Abalone Oyster)
+### [[pleurotus-cystidiosus|Pleurotus cystidiosus]] (Abalone Oyster)
 
 Named for the abalone-like appearance and texture of its fruit bodies. Native
 to subtropical Asia. Produces a unique extracellular mucilage during
@@ -113,7 +114,8 @@ Choosing which species to cultivate depends on:
 Pleurotus species produce a range of [[medicinal-mushroom-extraction-bioactive-compounds]]
 including:
 
-- **Lovastatin** -- a cholesterol-lowering compound found in several species
+- **Lovastatin** — a cholesterol-lowering compound found in several species;
+  see [[beta-glucans]] for related immunomodulatory research.
 - **Beta-glucans** -- immunomodulatory polysaccharides
 - **Pleuran** -- a specific beta-glucan from P. ostreatus with studied anti-
   inflammatory effects

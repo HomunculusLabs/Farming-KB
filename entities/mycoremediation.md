@@ -1,105 +1,147 @@
 ---
 title: Mycoremediation
-type: strain
-tags: [bioremediation, fungi, environmental-cleanup, phytoremediation, mycofiltration]
+type: species
+tags:
+  - permaculture
+  - mycology
+  - bioremediation
+  - fungi
+  - ecological-restoration
+  - phytoremediation
+  - pollution-cleanup
+  - brownfield-restoration
+  - paul-stamets
+  - mycofiltration
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremediation.md]
+sources:
+  - https://pubmed.ncbi.nlm.nih.gov/?term=mycoremediation+review
+  - "Stamets, Paul. 'Mycelium Running.' Ten Speed Press, 2005."
+  - "Thomas, D.J. & Gadd, G.M. 'Fungal Bioremediation.' Environmental Microbiology, 2010."
+  - "Kulshreshtha, S. et al. 'Mycoremediation of Polluted Soils.' Springer, 2022."
 ---
 
 # Mycoremediation
 
-**Mycoremediation** is the use of fungi and their enzymatic systems to degrade, sequester, or otherwise neutralize environmental contaminants from soil, water, and air. Coined by Paul Stamets, the term encompasses a diverse set of technologies that exploit the unique metabolic capabilities of fungi — particularly white-rot basidiomycetes — to break down pollutants that are recalcitrant to bacterial degradation. Mycoremediation represents one of the most promising biological approaches to environmental restoration, combining low cost, ecological compatibility, and the ability to treat complex mixtures of contaminants.
+## Overview
 
-## Principles of Fungal Degradation
+**Mycoremediation** is the use of fungi and their enzymatic systems to degrade, sequester, or neutralize environmental contaminants in soil, water, and other substrates. Coined and popularized by mycologist **Paul Stamets**, the term encompasses fungal-based strategies for ecological restoration — from breaking down petroleum hydrocarbons and pesticides to filtering heavy metals and treating wastewater. Mycoremediation leverages the extraordinary metabolic diversity of fungi, particularly their powerful extracellular enzymes, to address pollution that conventional technologies struggle to treat cost-effectively.
 
-### The White-Rot Advantage
+## Mechanisms of Action
 
-White-rot basidiomycetes (Order Polyporales and Agaricales) are the primary agents in mycoremediation due to their extracellular, non-specific lignin-degrading enzyme system. Unlike bacteria, which typically degrade specific compounds through targeted metabolic pathways, white-rot fungi secrete a suite of oxidoreductase enzymes into their surrounding environment that collectively attack the complex, three-dimensional polymer lignin — one of the most recalcitrant organic molecules on Earth. Because these enzymes are non-specific (acting on a wide range of aromatic structures), they simultaneously degrade many xenobiotic pollutants that share structural similarities with lignin.
+### Enzymatic Degradation
 
-### Key Enzymatic Systems
+Fungi secrete extracellular enzymes that break down complex organic molecules:
 
-1. **Laccases (EC 1.10.3.2):** Multicopper oxidases that oxidize phenolic compounds using molecular oxygen as the electron acceptor. With mediator compounds, laccase extends its activity to non-phenolic substrates. See [[laccase]] for detailed coverage.
+- **Lignin peroxidases (LiP)**: Oxidatively cleave non-phenolic aromatics; key for PAHs, dioxins, and lignin-like pollutants
+- **Manganese peroxidases (MnP)**: Oxidize Mn²⁺ to Mn³⁺; degrade phenolic compounds and PAHs
+- **Laccases**: Multi-copper oxidases; degrade phenols, anilines, dyes, pesticides, and endocrine disruptors
+- **Cytochrome P450 monooxygenases**: Phase I metabolism of diverse organic pollutants
+- **Esterases and cutinases**: Hydrolyze ester bonds in polyester plastics and ester-containing pesticides
 
-2. **Manganese peroxidase (MnP, EC 1.11.1.13):** Heme-containing glycoproteins that oxidize Mn²⁺ to Mn³⁺, which chelates with organic acids (oxalate, malonate, lactate) and diffuses into lignin to initiate peroxidative degradation. MnP is the most widely distributed ligninolytic peroxidasphanerochaete-chrysosporium. **Lignin peroxidase (LiP, EC 1.11.1.14):** Heme peroxidases that directly oxidize non-phenolic aromatic compounds with high redox potentials (>1.5 V), including veratryl alcohol (a natural mediator compound). LiP is produced by *Phanerochaete chrysosporipleurotus-eryngii number of other species.
+### Biosorption and Bioaccumulation
 
-4. **Versatile peroxidase (VP, EC 1.11.1.16):** A hybrid enzyme combining the catalytic properties of both MnP and LiP, capable of oxidizing Mn²⁺, phenolic compounds, and non-phenolic aromatic compounds. Found in *Pleurotus eryngii* and related species.
+- **Biosorption**: Metal ions bind to fungal cell walls (chitin, glucans, melanin) via ion exchange and complexation — works with living or dead biomass
+- **Bioaccumulation**: Active uptake concentrating metals 10–100× above ambient levels
+- **Precipitation**: Fungal metabolites precipitate heavy metals as insoluble complexes (e.g., copper oxalate)
 
-5. **Dye-decolorizing peroxidases (DyPs):** A more recently discovered peroxidase family (EC 1.11.1.x) that efficiently decolorize anthraquinone dyes and degrade certain pharmaceutical compounds.
+### Mycorrhizal Associations
 
-### Non-Enzymatic Mechanisms
+- **Ectomycorrhizal fungi**: Extend absorption zones and enhance phytoremediation by host plants
+- **Arbuscular mycorrhizal fungi**: Improve plant nutrient uptake and stress tolerance in contaminated soils
+- Mycorrhizae can directly degrade organics and immobilize heavy metals, reducing bioavailability
 
-Beyond enzymatic degradation, fungi contribute to contaminant removal through:
+### Cometabolism
 
-* **Biosorption:** Fungal cell walls contain chitin, glucans, and melanin with abundant functional groups (amine, carboxyl, hydroxyl, phosphate) that bind metal ions through ion exchange, complexation, and electrostatic attraction. Dead fungal biomass can biosorb heavy metals at capacities of 50–300 mg/g depending on the metal and species.
-* **Bioaccumulation:** Living fungal mycelium actively transports and sequesters metals intracellularly through metallothionein and phytochelatin production.
-* **Biovolatilization:** Some fungi convert inorganic contaminants to volatile forms that can be captured or dispersed, including selenium (to dimethyl selenide), arsenic (to trimethylarsine), and mercury (to elemental mercury vapor).
-* **Enzymatic immobilization:** Extracellular enzymes can polymerize or cross-link organicmycoremediation-of-pahs their bioavailability and mobility in soil.
+Fungi transform pollutants as secondary substrates — primary metabolism targets natural compounds (lignin, cellulose) while pollutant degradation occurs incidentally, important for recalcitrant compounds fungi cannot use as sole carbon sources.
 
-## Contaminant Classes and Treatment
+## Target Contaminants
 
-### Polycyclic Aromatic Hydrocarbons (PAHs)
+### Organic Pollutants
 
-PAHs are ubiquitous environmental pollutants generated by incomplete combustion of organic matter. Fungal [[mycoremediation-of-pahs]] follows a general progression:
+| Class | Examples | Key Fungal Groups |
+|-------|----------|-------------------|
+| Petroleum hydrocarbons | PAHs, BTEX, alkanes | White-rot fungi (*Pleurotus*, *Trametes*) |
+| Pesticides | DDT, atrazine, organophosphates | Basidiomycetes, soil saprotrophs |
+| Explosives | TNT, RDX | White-rot fungi |
+| PCBs | Aroclor mixtures | *P. chrysosporium*, *T. versicolor* |
+| Dyes | Azo dyes, anthraquinones | White-rot fungi (laccase/MnP) |
+| Plastics | Polyurethane, polyester | *Pestalotiopsis microspora*, *Pleurotus* spp. |
 
-* **Low molecular weight PAHs (2–3 rings):** Naphthalene, anthracene, and phenanthrene are relatively easily mineralized by white-rot fungi, with degradation efficiencies of 70–100% within 2–6 weeks.
-* **High molecular weight PAHs (4–6 rings):** Pyrene, chrysene, benzo[a]pyrene, and benzo[a]anthracene are more recalcitrant but can be degraded through cometabolism, particularly in laccase-mediator systems. Degradation efficiencies of 30–80% within 6–12 weeks.
-* **Mechanism:** Initial oxidation by laccase or MnP produces quinones and hydroxylated intermediates, which are then further oxidized through ring cleavage and side-chain degradation, ultimately yielding CO₂, H₂O, and cell biomass.
+### Inorganic Pollutants
 
-### Heavy Mettrametes-versicolornt of metal-contaminated environments relies primarily on biosorption:
+| Contaminant | Strategy | Notable Species |
+|-------------|----------|-----------------|
+| Lead, Cadmium | Biosorption | *A. niger*, *Rhizopus arrhizus* |
+| Mercury | Volatilization, biosorption | *Penicillium* spp. |
+| Chromium (Cr⁶⁺→Cr³⁺) | Reduction, biosorption | White-rot fungi |
 
-* **Lead (Pb²⁺):** Biosorption capacities of 100–300 mg/g dry biomass reported for *Pleurotus* and *Ganoderma* species
-* **Cadmium (Cd²⁺):** 50–150 mg/g dry biomass; *[[trametes-versicolor]]* is particularly effective
-* **Copper (Cu²⁺):** 20–80 mg/g; enhanced by the natural copper metabolism of white-rot fungi
-* **Chromium (Cr⁶⁺ → Cr³⁺):** Fungi reduce toxic hexavalent chromium to less toxic trivalent chromium through enzymatic and non-enzymatic mechanisms
-* **Arsenic (As):** Some fungi methylate arsenic, though volatilization products may be toxic
+## Key Fungal Species
 
-### Pesticides and Herbicides
+### White-Rot Fungi (Basidiomycota)
 
-* **Organophosphates:** Degraded by laccase and MnP through hydrolysis and oxidation of the P-O-aryl bond
-* **Organochlorines:** DDT, lindane, and dieldrin are slowly degraded through reductive dechlorination and oxidative pathways
-* **Atrazine and simazine:** Triazine herbicides are degraded by laccase through dealkylation and ring hydroxylation
-* **Glyphosate:** Some fungi mineralize glyphosate through the C-P lyase pathway, though bacterial degradation is generally more efficient
+The most important group for organic pollutant degradation — their lignin-decay role equips them with non-specific oxidative enzymes:
 
-### Petroleum Hydrocarbons
+- ***Phanerochaete chrysosporium***: Model organism; degrades PAHs, PCBs, DDT, TNT
+- ***Trametes versicolor*** (Turkey Tail): Robust laccase producer; degrades dyes, pharmaceuticals
+- ***Pleurotus ostreatus*** (Oyster Mushroom): Versatile petroleum degrader; edible — combined remediation and food production
+- ***Bjerkandera adusta***: High MnP activity; effective against azo dyes
 
-* **Aliphatic hydrocarbons:** C10–C30 alkanes are mineralized by fungi through terminal oxidation to carboxylic acids, followed by β-oxidation
-* **BTEX (benzene, toluene, ethylbenzene, xylene):** Degraded by laccase through ring hydroxylation and ring cleavage
-* **Motor oil and diesel:** Mixed hydrocarbon substrates are degraded at rates of 50–200 mg/kg/day by active fungal cultures
+### Other Groups
 
-## Mycofiltration
+- ***Rhizopus arrhizus***: Excellent heavy metal biosorbent
+- ***Aspergillus niger***: Oxalic acid production for metal chelation
+- ***Pisolithus tinctorius***: ECM fungus for mine site reforestation
+- ***Glomus intraradices*** (AMF): Reduces metal uptake while improving plant growth
 
-Mycofiltration is the application of mycelial mats as living filters to capture and degrade contaminants from flowing water:
+## Applications
 
-* **Stormwater treatment:** Wood chip beds inoculated with *Stropharia rugosoannulata* or *Pleurotus ostreatus* mycelium filter pathogens (99% *E. coli* reduction), sediments, and dissolved nutrients from stormwater runoff
-* **Agricultural runoff:** Mycofilters capture excess nitrogen, phosphorus, and pesticide residues before they reach waterways
-* **Wastewater polishing:** Fungal mycelium in constructed wetlands and biofilters provides tertiary treatment for municipal and industrial wastewater
-* **Design parameters:** Filter bed depth of 30–60 cm, hydraulic retention time of 2–24 hours, substrate of hardwood chips or straw inoculated with 10–20% spawn by volume
+### Soil Remediation
 
-## Implementation Strategies
+Myco-remediated soil involves: (1) mixing mycelial spawn or fungal-colonized substrate into contaminated soil, (2) allowing mycelial networks to colonize and secrete enzymes, (3) enzymatic degradation of contaminants over weeks to months, (4) monitoring via GC-MS or HPLC. Effective for petroleum spills, industrial sites, and agricultural runoff.
 
-### In Situ Mycoremediation
+### Water Treatment (Mycofiltration)
 
-* **Soil treatment:** Inoculation of contaminated soil with fungal spawn or mycelial slurry, often combined with organic amendments (straw, sawdust, compost) to support fungal growth
-* **Wood chip barriers:** Installation of mycelium-colonized wood chip trenches or berms along contamination flow paths
-* **Phytomycoremediation:** Combination of plant growth (for contaminant uptake and rhizosphere support) with fungal inoculation (for enhanced degradation), leveraging synergistic interactions
+- **Constructed biofilters**: Contaminated water passes through fungal mycelium beds
+- **Stormwater treatment**: Fungal mulch berms and swales filter road and agricultural runoff
+- **Wastewater polishing**: Remove residual pharmaceuticals and endocrine disruptors
+- **Aquaculture**: Fungal biofilters break down organic waste
 
-### Ex Situ Mycoremediation
+### Brownfield and Mine Restoration
 
-* **Biopiles:** Contaminated soil excavated and mixed with organic amendments and fungal inoculum, arranged in aerated piles with moisture and temperature control
-* **Slurry bioreactors:** Contaminated soil or sediment suspended in water with fungal inoculum and nutrient supplementation, providing maximum contact between contaminants and fungal enzymes
-* **Solid-state fermentation:** Contaminated organic waste (sawdust, straw) is directly inoculated and processed through controlled composting-like conditions
+Combined myco- and phytoremediation using metal-tolerant plants inoculated with mycorrhizae for industrial site restoration. Fungal amendments reduce heavy metal bioavailability while supporting plant establishment.
 
-## Limitations and Challenges
+## Advantages and Limitations
 
-* **Enzyme inhibition:** Heavy metals, high pollutant concentrations, and extreme pH can inhibit fungal enzyme production and activity
-* **Bioavailability:** Contaminants strongly adsorbed to soil organic matter or clay particles may be inaccessible to fungal enzymes
-* **Scale-up challenges:** Field performance often underperforms laboratory results due to variable environmental conditions, competition from native microorganisms, and heterogeneous contaminant distribution
-* **Regulatory uncertainty:** Mycoremediation products (partial degradation intermediates) may themselves be toxic; comprehenfungal-bioremediation of treated material is essential
-* **Time requirements:** Fungal remediation is inherently slower than physical or chemical treatment methods, typically requiring weeks to months
+**Advantages:**
+- Cost-effective ($10–50/ton vs. $100–500/ton for conventional methods)
+- Environmentally benign; no secondary pollution from treatment chemicals
+- In situ treatment — no excavation or transport required
+- Broad substrate specificity from non-specific enzyme systems
+- Low energy input; aesthetic and ecological co-benefits
+
+**Limitations:**
+- Slower than physical/chemical methods (weeks to months)
+- Temperature, moisture, pH, and nutrient conditions affect efficacy
+- Typically limited to top 30–60 cm of soil
+- Incomplete mineralization possible; some metabolites may be as toxic as parent compounds
+- Limited standardized protocols and regulatory frameworks
+
+## Notable Case Studies
+
+- **Oregon Stormwater**: *P. ostreatus* mycofilter sacks removed ~95% of coliform bacteria, nitrogen, and phosphorus from agricultural drainage
+- **Ecuadorian Amazon**: Oyster mushroom inoculation reduced petroleum hydrocarbons by 50–80% in 12 weeks; treated soil produced safe edible mushrooms
+- **Czech Military Site**: *P. chrysosporium* and *T. versicolor* achieved >90% TNT reduction in 8 weeks
+
+## Permaculture Integration
+
+1. **Zone 3–4**: Passive fungal remediation beds for runoff treatment
+2. **Myco-swales**: Fungal-inoculated contour swales for water management and filtration
+3. **Food forest buffers**: Oyster mushroom logs at contamination boundaries
+4. **Composting**: White-rot inoculation accelerates persistent organic compound degradation
 
 ## See Also
 
-* [[laccase]] — Key ligninolytic enzyme in fungal bioremediation
-* [[pleurotus-ostreatus]] — Oyster mushroom used in mycoremediation
-* [[stropharia-rugosoannulata]] — Wine-cap mushroom for mycofiltration
+- [[Pleurotus ostreatus]] — primary species for petroleum remediation
+- [[Trametes versicolor]] — key species for dye and pharmaceutical degradation
+- [[Laetiporus sulphureus]] — Chicken of the Woods, another polypore with remediation potential

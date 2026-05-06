@@ -30,8 +30,9 @@ comparison with the more widely studied [[mushroom-spore-printing-and-storage|sp
 ## The Genus Inocybe
 
 Inocybe is a large genus of agaricoid fungi within the family
-Cortinariaceae, with an estimated 300 to 400 species worldwide. The
-genus is characterized by:
+Cortinariaceae, with an estimated 300 to 400 species worldwide. Modern
+[[fungal-taxonomy]] has refined these estimates using molecular
+phylogenetics. The genus is characterized by:
 - Small to medium-sized basidiocarps
 - Brown to ochraceous coloration
 - Fibrous or scaly pileus surface
@@ -49,7 +50,7 @@ tend to be [[saprotrophic-fungi|saprotrophic]] or [[coprophilous-fungi-biodivers
 The Guzmán, Allen, and Gartz (1998) worldwide survey recognizes six
 confirmed neurotropic Inocybe species:
 
-### Inocybe aeruginascens
+### [[inocybe-aeruginascens|Inocybe aeruginascens]]
 
 I. aeruginascens is the most extensively studied and widely distributed
 neurotropic Inocybe species. It was originally described from Hungary by
@@ -68,7 +69,7 @@ through the work of German mycologists and chemists.
 - **Discovery as a neurotropic species**: The neurotropic properties
   of I. aeruginascens were discovered in Berlin in the early 1980s.
   Drewitz (1983) and Hohmeyer (1984) documented recreational use of
-  this species in urban parks. Gartz and Drewitz (1985, 1986) confirmed
+  this species in urban parks. [[jochen-gartz|Gartz]] and Drewitz (1985, 1986) confirmed
   the presence of psilocybin and psilocin.
 - **European distribution**: Widely distributed in Central Europe:
   - Germany: Babos (1968), Drewitz (1983), Hohmeyer (1984), Gartz
@@ -88,7 +89,7 @@ through the work of German mycologists and chemists.
 - **North American distribution**: Reported from the United States
   (Stamets, 1996), suggesting transcontinental distribution.
 
-### Inocybe coelestium
+### [[inocybe-coelestium|Inocybe coelestium]]
 
 I. coelestium was described as a neurotropic species from European
 collections. The species name references the celestial blue coloration
@@ -110,7 +111,7 @@ associated with its chemical properties.
 - **Chemistry**: Confirmed to contain indole compounds by Stijve et al.
   (1985), Singer (1986), Kuyper (1986), and Bresinsky and Besl (1990).
 
-### Inocybe haemacta
+### [[inocybe-haemacta|Inocybe haemacta]]
 
 I. haemacta is another neurotropic Inocybe species with primarily
 European distribution:
@@ -124,7 +125,7 @@ European distribution:
   Bresinsky and Besl, 1990).
 - **Chemistry**: Confirmed neurotropic by multiple researchers.
 
-### Inocybe tricolor
+### [[inocybe-tricolor|Inocybe tricolor]]
 
 I. tricolor, as the name suggests, shows variable coloration:
 - **Distribution**: Reported from the Netherlands (not directly cited
@@ -146,8 +147,10 @@ The neurotropic Inocybe species are significant for several reasons:
    species that contain dangerous toxins (particularly [[muscarine]]),
    unrelated to psilocybin. The presence of both neurotropic and
    toxic compounds in the same genus creates a significant
-   identification challenge. Misidentification of a toxic Inocybe
-   for a neurotropic one could have serious health consequences.
+   identification challenge — see [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
+   for an overview of dangerous fungal toxins. Misidentification of a
+   toxic Inocybe for a neurotropic one could have serious health
+   consequences.
 3. **Non-bluing species**: The neurotropic Inocybe species generally
    do not exhibit the characteristic blue bruising reaction of most
    psilocybin-containing fungi. This makes visual identification of
@@ -179,18 +182,20 @@ Inocybe species:
 - The full geographic range of all six confirmed species remains
   incompletely documented, particularly outside of Europe.
 - The ecological factors that influence psilocybin production in
-  mycorrhizal fungi are poorly understood.
+  [[mycorrhizal-fungi]] are poorly understood.
 - The relationship between the indole alkaloid content and the
   muscarine content in Inocybe species needs clarification.
 - Molecular phylogenetic studies could determine whether neurotropic
   Inocybe species form a monophyletic group or whether the trait has
-  evolved independently multiple times within the genus.
+  evolved independently multiple times within the genus. See also
+  [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] for the
+  biochemical pathways underlying these compounds.
 
 ## See Also
 
 - [[guzman-allen-gartz-neurotropic-inocybe-species]] -- taxonomy and distribution of neurotropic Inocybe
 - [[neurotropic-fungi-classification]] -- classification of all neurotropic fungi
-- [[guzman-allen-gartz-neurotropic-fungi-europe]] -- European neurotropic fungi distribution
+- [[guzman-allen-gartz-neurotropic-fungi-europe]] -- European [[neurotropic-fungi-distribution]]
 - [[psilocybin-bluing-reaction]] -- why most psilocybin fungi bruise blue, unlike Inocybe
 - [[neurotropic-fungi]] -- overview of all neurotropic fungal genera
 - [[psilocybin-and-indole-alkaloid-chemistry-in-fungi]] -- indole alkaloid biosynthesis

@@ -54,17 +54,17 @@ strengths and little available water.
 ## Spoilage of Low-Water-Activity Foods
 
 Foods with low water activities subject to fungal spoilage
-include salted fish, jams, jellies, and candy. Although a wide
+include salted fish, jams, jellies, and candy. The mycotoxins produced by some of these fungi pose serious health risks — see [[aflatoxins-mycotoxins-food]] for a detailed treatment. Although a wide
 variety of mitosporic fungi can be isolated from spoiled
 materials with low water activities, the important species are
-confined to the genera Aspergillus, Aureobasidium,
+confined to the genera Aspergillus (see [[aspergillus-niger-in-fungal-bioleaching|Aspergillus biology]]), Aureobasidium,
 Chrysosporium, Cladosporium, Fusarium, Geotrichum, Myrothecium,
-Oidiodendron, Paecilomyces, Penicillium, Rhizopus,
-Scopulariopsis, Trichoderma, Wallemia, and Xeromyces (Pitt
+Oidiodendron, Paecilomyces, Penicillium (see [[penicillium-chrysogenum]] and [[penicillium-expansum]]), Rhizopus,
+Scopulariopsis, [[trichoderma|Trichoderma]], Wallemia, and Xeromyces (Pitt
 1981; Pitt and Hocking 1997).
 
 Important osmophilic yeasts include Debaryomyces hansenii and
-Saccharomyces rouxii (Jennings 1984; Pitt and Hocking 1997).
+[[saccharomyces-cerevisiae|Saccharomyces rouxii]] (Jennings 1984; Pitt and Hocking 1997).
 These yeasts are particularly significant in the spoilage of
 sugar concentrates, dried fruits, and salted products.
 
