@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1862 pages**
+**1867 pages**
 
 ## #
 
@@ -201,6 +201,7 @@
 - [[agastache-rugosa]]
 - [[agricultural-mycorrhizae]]
 - [[agrimonia-eupatoria]]
+- [[agroclavine]]
 - [[agrocybe-aegerita-detailed]]
 - [[agrocybe-aegerita-entity]]
 - [[agrocybe-cylindracea]]
@@ -760,6 +761,7 @@
 - [[gary-lincoff]]
 - [[gary-payton]]
 - [[gaston-guzman]]
+- [[gaultheria-procumbens]]
 - [[gelato]]
 - [[gelato-cannabis]]
 - [[gentiana-lutea]]
@@ -804,6 +806,7 @@
 - [[grifola-frondosa]]
 - [[grifola-umbellata]]
 - [[grifolan]]
+- [[grindelia-squarrosa]]
 - [[gsc-cannabis]]
 - [[guaiol]]
 - [[guerrilla-mycology]]
@@ -1025,6 +1028,7 @@
 - [[laricifomes-officinalis]]
 - [[larry-og]]
 - [[latua-pubiflora]]
+- [[lava-cake]]
 - [[lavandula-angustifolia-entity]]
 - [[leccinum-insigne]]
 - [[leccinum-scabrum]]
@@ -1731,6 +1735,7 @@
 - [[suillus-americanus]]
 - [[suillus-bovinus]]
 - [[suillus-brevipes]]
+- [[suillus-cavipes]]
 - [[suillus-granulatus]]
 - [[suillus-grevillei]]
 - [[suillus-luteus]]
