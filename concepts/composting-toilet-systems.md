@@ -17,7 +17,7 @@ system types, design, maintenance, and legal considerations.
   flushing)
 - **Off-grid viability** — no water, septic, or sewer connection required
 - **Nutrient recovery** — returns nitrogen, phosphorus, and potassium to
-  the soil cycle
+  the soil cycle, similar to [[animal-manure-guide|animal manure]] management
 - **Reduced infrastructure** — no septic field, leach lines, or connection
   to municipal systems
 - **Cost savings** — eliminates septic installation ($5,000-15,000) and maintenance
@@ -120,7 +120,8 @@ A permanent installation with a larger composting chamber:
 ### Compost Safety
 - **Retention time**: minimum 12 months, preferably 18-24 months
 - **Temperature**: thermophilic composting (above 122F / 50C) for at least
-  3 days ensures pathogen kill
+  3 days ensures pathogen kill; see [[thermophilic-fungi]] for the biology
+  behind high-temperature decomposition
 - **Testing**: finished compost should test negative for fecal coliforms
   before use
 - **Application**: use on ornamental plants, comparison pruning fruit, and non-food crops;
@@ -132,7 +133,8 @@ A permanent installation with a larger composting chamber:
   to be "approved" by NSF International (NSF/ANSI 41 standard)
 - **Permits** may be required — check with your local health department
 - **Graywater** — if the toilet is part of a larger waterless system, you
-  may need graywater permits; see [[rainwater-harvesting-systems]] for
+  may need graywater permits; see [[rainwater-harvesting-systems]] and
+  [[urban-permaculture-rainwater-harvesting-graywater|graywater systems]] for
   water system design
 - **National standards**: NSF/ANSI 41 is the US standard for composting
   toilets; look for certified models

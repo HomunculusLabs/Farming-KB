@@ -84,7 +84,8 @@ channels dug on contour and filled with loose soil or organic matter to
 create a permeable barrier that allows water to infiltrate rather than
 flowing off the property. Keyline swales are positioned to receive water
 from the valley and distribute it along the ridge faces, complementing the
-moisture redistribution achieved by keyline cultivation.
+moisture redistribution achieved by keyline cultivation. See [[swale-design]]
+for detailed swale construction principles.
 
 ### Dams and Water Storage
 
@@ -116,7 +117,8 @@ established, other elements can be positioned to take advantage of the
 improved moisture regime. Tree crops in [[mollison-designers-windbreak-design-species]] systems benefit from more even soil moisture. Pastures and cropping
 areas become more productive and resilient. [[mollison-designers-free-range-poultry-systems]] have access to improved forage growth across a wider area.
 The keyline framework integrates all these elements into a coherent, water-
-efficient landscape design.
+efficient landscape design. For broader tree planting strategies, see
+[[windbreak-and-shelterbelt-design]].
 
 ## Summary
 
@@ -125,5 +127,6 @@ cultivation patterns and earthworks that distribute water evenly across the
 landscape. By identifying keypoints and keylines, cultivating on specific
 patterns, and building swales, dams, and spillways in relation to these lines,
 the designer creates a self-fertilizing, drought-resilient landscape. Keyline
-is foundational to broadacre permaculture design and connects water management
-to soil building, forestry, and productive agriculture.
+Keyline is foundational to broadacre permaculture design and connects water management
+to soil building, forestry, and productive agriculture. For related water storage
+options, see [[backyard-pond-building]].

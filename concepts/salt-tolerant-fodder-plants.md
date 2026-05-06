@@ -28,7 +28,8 @@ agricultural systems.
 
 Saltbushes are the most important group of salt-tolerant fodder shrubs.
 They concentrate salt onto the surface of their leaves, effectively
-removing salt from the soil. Yields can exceed 10 tonnes per hectare per
+removing salt from the soil. See [[atriplex-halimus]] for a detailed
+species profile. Yields can exceed 10 tonnes per hectare per year
 year for some species, though better growth rates are experienced in
 non-saline soils. Atriplex nummularia (old man saltbush) is widely
 recognized for fodder production. Atriplex canescens (four-winged
@@ -106,14 +107,16 @@ Coastal agricultural areas face salt spray, saline groundwater, and
 sandy soils. Salt-tolerant fodder species enable livestock production
 in these challenging environments while providing windbreak protection
 and soil stabilization. Mixed plantings of saltbush, bluebush, and
-coastal wattles create productive coastal grazing systems.
+coastal wattles create productive coastal grazing systems. See also
+[[windbreak-shelterbelt-species-selection]] for complementary shelter plantings.
 
 ### Saline Land Rehabilitation
 
 Salt-tolerant fodder plants are primary tools for rehabilitating saline
 degraded land. Their ability to extract and concentrate salt while
 providing agricultural output makes them economically viable
-rehabilitation agents. Over time, saltbush and companion species can
+rehabilitation agents. For soil-building cover crops that complement
+fodder systems, see [[ultra-low-green-manure-cover-crop-species]]. Over time, saltbush and companion species can
 reduce soil salinity levels, eventually allowing less salt-tolerant
 species to be introduced.
 

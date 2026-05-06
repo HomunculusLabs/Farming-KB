@@ -42,7 +42,7 @@ The no-feces-removing system solves most problems associated with modern livesto
 - **Reduces feed costs**: Manure is converted back into edible material, reducing external feed requirements
 - **Eliminates odor**: JMS application significantly reduces ammonia and other offensive smells
 - **Improves animal health**: The fermented bedding environment appears to support healthier animals
-- **Produces valuable compost**: The once-yearly removal yields high-quality organic material
+- **Produces valuable compost**: The once-yearly removal yields high-quality organic material; see [[animal-manure-guide]] for compost application guidance
 - **Reduces water pollution**: No manure runoff into waterways
 - **Increases feed conversion ratio**: JMS fed to animals (diluted 20x with water) improves digestion
 
@@ -77,10 +77,11 @@ The livestock system integrates with JADAM cropping through:
 - The system eliminates the need for purchased microbial products
 - The no-feces-removing principle parallels [[jadam-compost-free-approach]]
 - Bedding material (straw, rice husk) connects to [[jadam-natural-pesticide-philosophy]] thinking about local resources
+- [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation|JMS soil applications]] complement the livestock system in crop fields
 
 ## Broader Significance
 
-This system represents the [[jadam-ultra-low-cost-agriculture]] philosophy applied to animal husbandry: eliminate purchased inputs, reduce labor, and let natural biological processes do the work. It directly addresses the [[jadam-monoculture-critique]] by showing how integrated farming systems can be both more productive and less expensive than specialized, input-dependent operations.
+This system represents the [[jadam-ultra-low-cost-agriculture]] philosophy applied to animal husbandry: eliminate purchased inputs, reduce labor, and let natural biological processes do the work. For broader livestock integration patterns, see [[backyard-livestock-integration-design]]. It directly addresses the [[jadam-monoculture-critique]] by showing how integrated farming systems can be both more productive and less expensive than specialized, input-dependent operations.
 
 ## Related Concepts
 

@@ -41,7 +41,7 @@ signs of stress or reduced vigor.
 
 ## Damage Symptoms
 
-Whiteflies cause damage similar to spider mites, producing
+Whiteflies cause damage similar to [[thrips-cannabis|thrips]] and spider mites, producing
 visible symptoms on affected foliage:
 
 - White speckles or stipple marks appear on the upper
@@ -111,7 +111,8 @@ supplement to parasitic wasps.
 ## Chemical and Spray Control
 
 Whiteflies are relatively easy to control with natural spray
-programs when biological controls are insufficient:
+programs when biological controls are insufficient. For broader pest
+management strategies on cannabis, see [[ultra-low-cost-pest-control]]:
 
 - Homemade sprays applied at five to ten day intervals
 - [[cervantes-neem-oil-organic-pest-control]] applied at five to ten day intervals
@@ -134,4 +135,5 @@ before bringing them into the grow room. Quarantine new
 additions for at least two weeks. Maintain proper
 [[cervantes-air-quality-ventilation]] and avoid
 overcrowding, which creates the sheltered microclimates
-whiteflies prefer.
+whiteflies prefer. Other common cannabis pests like [[aphids-cannabis|aphids]]
+require similar preventive vigilance.
