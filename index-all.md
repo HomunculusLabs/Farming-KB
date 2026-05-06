@@ -1,6 +1,6 @@
 # Complete Page Index
 
-> All 13056 pages in the wiki, alphabetically.
+> All 13058 pages in the wiki, alphabetically.
 
 ## #
 
@@ -2600,6 +2600,7 @@
 - [[comparison-oyster-vs-shiitake-cultivation]]
 - [[comparison-oyster-vs-wine-cap-cultivation]]
 - [[comparison-papercrete-vs-cob-construction]]
+- [[comparison-parasitoid-wasps-vs-chemical-pesticides]]
 - [[comparison-passive-solar-vs-earth-sheltered]]
 - [[comparison-pasteurization-vs-sterilization]]
 - [[comparison-pasture-vs-silvopasture]]
@@ -10862,6 +10863,7 @@
 - [[query-how-do-mushrooms-contribute-to-soil-health]]
 - [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
 - [[query-how-do-nitrogen-fixing-plants-work-in-permaculture]]
+- [[query-how-do-parasitoid-wasps-control-pest-populations]]
 - [[query-how-do-photonic-crystals-create-structural-color]]
 - [[query-how-do-plants-defend-themselves-chemically]]
 - [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
