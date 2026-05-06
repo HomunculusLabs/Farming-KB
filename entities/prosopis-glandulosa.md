@@ -109,6 +109,8 @@ Within its native range, grazing management and fire regime restoration help mai
 
 ## See Also
 
+- [[exidia-glandulosa]]
+
 - [[robinia-pseudoacacia]]
 - [[caragana-arborescens]]
 - [[eleagnus-angustifolia]]

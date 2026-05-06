@@ -108,6 +108,8 @@ The fungus is also used in Korean traditional medicine (sanghwang) and Japanese 
 
 ## See Also
 
+- [[sanghuangporus-sanghuang]]
+
 - [[sanghuangporus-baumii]]
 - [[inonotus-obliquus]]
 - [[phellinus-linteus]]

@@ -143,6 +143,8 @@ As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 
 ## See Also
 
+- [[lepista-saeva]]
+
 - [[agaricus-bisporus]]
 - [[david-arora]]
 - [[lepista-sordida]]

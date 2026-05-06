@@ -194,3 +194,7 @@ Growers with access to adequate water and labor may find passion fruit more imme
 Both crops are complementary in a diversified tropical or subtropical farm system. Dragon fruit provides low-input, long-term production on marginal soils, while passion fruit delivers faster, higher yields where water and fertility are sufficient.
 
 Planting both allows staggered harvest windows, diversified market channels, and reduced risk from crop-specific pests or weather events. The combination also maximizes use of different microclimates and soil zones within a single farm. Both crops reward attentive management but differ fundamentally in the type and intensity of care required.
+
+## See Also
+
+- [[comparison-guava-vs-passion-fruit-cultivation]]

@@ -134,6 +134,10 @@ bioactive profiles differ from wild material. Optimal fruiting requires
 
 ## See Also
 
+- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
+- [[fungal-diversity-deserts-arid-lands]]
+- [[symbiosis-in-fungi]]
+
 - [Sanghuangporus vaninii](sanghuangporus-vaninii.md)
 - [Sanghuangporus baumii](sanghuangporus-baumii.md)
 - [Phellinus linteus](phellinus-linteus.md)

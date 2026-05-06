@@ -123,7 +123,7 @@ This makes comfrey leaves comparable to or better than farmyard manure. High pot
 ## See Also
 
 - [[dynamic-accumulators]] — Overview of nutrient-mining plants
-- [[permaculture-plants]] — Key plants for permaculture design
-- [[allantoin]] — Detailed chemistry and applications
-- [[pyrrolizidine-alkaloids]] — Toxicity and occurrence in plants
-- [[nettle]] — Another important permaculture dynamic accumulator
+- [[fiber-plants-permaculture]] — Key plants for permaculture design
+- allantoin — Detailed chemistry and applications
+- pyrrolizidine alkaloids — Toxicity and occurrence in plants
+- [[stinging-nettle]] — Another important permaculture dynamic accumulator

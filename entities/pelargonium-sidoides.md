@@ -148,6 +148,8 @@ EPs 7630 has been studied in children aged 1–12 years and demonstrates safety 
 
 ## See Also
 
+- [[pelargonium-graveolens]]
+
 - [[history-of-mycology-timeline]]
 
 - [[herbal-medicine]]

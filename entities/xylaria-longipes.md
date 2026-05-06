@@ -134,6 +134,10 @@ antagonistic activity.
 
 ## See Also
 
+- [[xylaria-polymorpha]]
+- [[bloomfield-cordyceps-insect-pathogens-behavior]]
+- [[litter-wood-decomposing-fungi]]
+
 - [Xylaria polymorpha](xylaria-polymorpha.md)
 - [Xylaria hypoxylon](xylaria-hypoxylon.md)
 - [Daldinia concentrica](daldinia-concentrica.md)

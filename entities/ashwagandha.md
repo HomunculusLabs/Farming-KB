@@ -127,7 +127,7 @@ Traditional practice recommends consuming with warm milk, ghee, or honey to enha
 
 ## See Also
 
-- [[adaptogenic-herbs]] — Overview of adaptogenic plants
+- [[adaptogenic-herbs-guide]] — Overview of adaptogenic plants
 - [[rhodiola-rosea]] — Another primary adaptogen
-- [[ayurvedic-medicine]] — Traditional Indian medicine system
-- [[withanolides]] — Detailed chemistry of withanolide compounds
+- [[herbal-medicine]] — Traditional Indian medicine system
+- withanolides — Detailed chemistry of withanolide compounds

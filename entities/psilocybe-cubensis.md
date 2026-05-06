@@ -132,5 +132,5 @@ Legal status varies significantly by jurisdiction. Psilocybin and psilocin are S
 
 - [[psilocybin]] — Primary psychoactive compound
 - [[psilocin]] — Active metabolite of psilocybin
-- [[fungal-cultivation]] — General mushroom cultivation techniques
-- [[entheogenic-fungi]] — Overview of psychoactive mushroom species
+- [[fungal-cultivation-methods]] — General mushroom cultivation techniques
+- [[entheogenic-fungi-history]] — Overview of psychoactive mushroom species

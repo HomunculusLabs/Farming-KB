@@ -139,6 +139,8 @@ wood decay cycling and contributes to soil humus formation.
 
 ## See Also
 
+- [[xylaria-longipes]]
+
 - [[xylaria-hypoxylon]] — Candlesnuff fungus, a common relative
 - [[xylaria-polymorpha-entity]] — Related entity entry
 - [[daldinia-concentrica]] — King Alfred's cakes, another Xylariaceae member

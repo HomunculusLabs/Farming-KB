@@ -138,6 +138,10 @@ depending on the destination country.
 
 ## See Also
 
+- [[ergot-fungi-claviceps-ergot-alkaloids]]
+- [[lysergic-acid]]
+- [[morning-glory-lsa-and-ergoline-alkaloids]]
+
 - [Agroclavine](agroclavine.md)
 - [Chanoclavine](chanoclavine.md)
 - [Lysergic acid amide](lysergic-acid-amide.md)

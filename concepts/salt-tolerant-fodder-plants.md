@@ -15,10 +15,10 @@ type: concept
 Salt tolerant fodder plants are essential components of [[permaculture]]
 systems in coastal, arid, and saline environments where conventional
 pasture species fail. These halophytic plants provide critical forage
-for livestock while simultaneously performing soil restoration functions
-including salt removal, erosion control, and windbreak protection. Many
-salt-tolerant species are also nitrogen fixers, adding fertility to
-marginal lands. The selection draws from Australian native species and
+for livestock in [[silvopasture]] systems while simultaneously performing
+soil restoration functions including salt removal, erosion control, and
+windbreak protection. Many salt-tolerant species are also [[nitrogen-fixing-trees]],
+adding fertility to marginal lands as part of broader [[agroforestry]] strategies. The selection draws from Australian native species and
 international halophytes that have proven value in difficult-site
 agricultural systems.
 
@@ -28,7 +28,8 @@ agricultural systems.
 
 Saltbushes are the most important group of salt-tolerant fodder shrubs.
 They concentrate salt onto the surface of their leaves, effectively
-removing salt from the soil. See [[atriplex-halimus]] for a detailed
+removing salt from the soil. See [[salt-tolerant-plant-guide]] for a
+comprehensive catalog of halophytic species, and [[atriplex-halimus]] for a detailed
 species profile. Yields can exceed 10 tonnes per hectare per year
 year for some species, though better growth rates are experienced in
 non-saline soils. Atriplex nummularia (old man saltbush) is widely
@@ -110,12 +111,18 @@ and soil stabilization. Mixed plantings of saltbush, bluebush, and
 coastal wattles create productive coastal grazing systems. See also
 [[windbreak-shelterbelt-species-selection]] for complementary shelter plantings.
 
+## See Also
+
+[[acid-and-alkaline-soil-management]] — Managing soil pH and alkalinity for crop production
+[[jadam-green-manure-crops-for-soil-salinity-reduction]] — JADAM approach to reducing soil salinity
+[[agroforestry]] — Integrating trees and shrubs with agricultural systems
+
 ### Saline Land Rehabilitation
 
 Salt-tolerant fodder plants are primary tools for rehabilitating saline
 degraded land. Their ability to extract and concentrate salt while
 providing agricultural output makes them economically viable
-rehabilitation agents. For soil-building cover crops that complement
+rehabilitation agents. For [[acid-and-alkaline-soil-management|soil amendment]] approaches that complement
 fodder systems, see [[ultra-low-green-manure-cover-crop-species]]. Over time, saltbush and companion species can
 reduce soil salinity levels, eventually allowing less salt-tolerant
 species to be introduced.

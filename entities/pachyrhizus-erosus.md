@@ -161,6 +161,8 @@ and firmer texture.
 
 ## See Also
 
+- [[pachyrhizus-tuberosus]]
+
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
 - [[tihkal-receptor-binding-serotonin]]

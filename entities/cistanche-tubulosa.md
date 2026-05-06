@@ -124,6 +124,8 @@ It is native to the arid regions of Central Asia, including the Taklamakan Deser
 
 ## See Also
 
+- [[cynomorium-songaricum]]
+
 - [[agroforestry]]
 - [[desertification]]
 - [[dom]]

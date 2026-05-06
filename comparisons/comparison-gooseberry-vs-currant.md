@@ -53,41 +53,9 @@ The fruit ranges from green to yellow, pink, red, or nearly black depending on v
 ### Currant
 
 Currant bushes are more upright and open than gooseberries, with smooth, thornless stems. Three main types are cultivated:
-
 - **Red currants** (*R. rubrum*): Bright, translucent red berries in dangling clusters. Very tart and acidic, excellent for jelly and garnish.
 - **White currants** (*R. rubrum* var. *alba*): A color variant of red currant with milder, sweeter flavor. Less common but excellent for fresh eating.
 - **Black currants** (*R. nigrum*): Dark purple-black berries with a distinctive musky, aromatic flavor. The most commercially significant Ribes crop due to high vitamin C content and use in health supplements.
-
-## Site Requirements
-
-### Sunlight
-
-Both gooseberries and currants tolerate partial shade, making them excellent understory plants in food forests. However:
-
-- **Gooseberries** perform best with morning sun and afternoon shade, especially in warm climates. Full sun in hot regions can scorch leaves and reduce fruit quality.
-- **Red and white currants** prefer full sun for maximum fruit production but tolerate 4–6 hours of direct sun.
-- **Black currants** are the most sun-tolerant of the group and produce the highest yields in full sun, though they tolerate partial shade.
-
-### Soil
-
-All Ribes species prefer similar soil conditions:
-
-- **pH**: 5.5–7.0 (slightly acidic)
-- **Texture**: Well-drained loam, rich in organic matter
-- **Moisture**: Consistent moisture — neither waterlogged nor drought-stressed
-- **Fertility**: Moderate. Apply compost annually; avoid excess nitrogen which promotes vegetative growth over fruit.
-
-Gooseberries are slightly more drought-tolerant once established due to their deeper root systems. Black currants are the most moisture-demanding.
-
-### Regional Restrictions
-
-**White Pine Blister Rust (WPBR)** is a serious concern. This fungus requires both *Ribes* species and white pine (*Pinus strobus*) to complete its life cycle. Many U.S. states restrict or ban Ribes cultivation near white pine forests:
-
-- **Maine, Massachusetts, Michigan, and others** restrict black currant cultivation.
-- **Resistant varieties** exist: 'Consort', 'Crusader', and 'Titania' black currants show WPBR resistance.
-- **Check local regulations** before planting Ribes in areas with significant white pine populations.
-
-European gooseberries are generally more susceptible to WPBR than American types.
 
 ## Planting and Establishment
 
@@ -154,38 +122,6 @@ Gooseberry powdery mildew (*Podosphaera mulsanthi*) is the most significant dise
 | **Spider Mites** | Stress plants in hot, dry conditions | Increase humidity, predatory mites |
 | **Birds** | Major pest of ripe fruit | Netting, scare devices |
 
-## Culinary Uses and Nutrition
-
-### Gooseberry
-
-- **Fresh eating**: Sweet dessert varieties (Hinnonmaki Red, Captivator, Poorman)
-- **Pies and tarts**: Classic gooseberry pie with sugar and pastry
-- **Gooseberry fool**: Traditional English dessert — stewed gooseberries folded into whipped cream
-- **Preserves**: Gooseberry jam, chutney, and pickled gooseberries
-- **Sauces**: Savory sauce for fatty fish (mackerel, goose) — traditional pairing in European cuisine
-- **Wine and cordials**: Gooseberry wine is a traditional English country wine
-
-### Currant
-
-- **Red currant jelly**: Classic garnish for roasted meats; high natural pectin makes excellent jelly
-- **White currant**: Sweet enough for fresh eating; elegant garnish
-- **Black currant juice and syrup**: Intensely flavored, very high in vitamin C (4× oranges)
-- **Crème de cassis**: French blackcurrant liqueur; essential ingredient in a Kir cocktail
-- **Black currant supplements**: Rich in anthocyanins; marketed for eye health and immune support
-- **Dried currants**: (Note: commercial "dried currants" are actually small raisins made from Black Corinth grapes, not true currants)
-
-### Nutritional Comparison (per 100g raw)
-
-| Nutrient | Gooseberry | Red Currant | Black Currant |
-|----------|-----------|-------------|---------------|
-| **Calories** | 44 kcal | 56 kcal | 63 kcal |
-| **Vitamin C** | 27 mg (45% DV) | 41 mg (68% DV) | 181 mg (302% DV) |
-| **Fiber** | 4.3 g | 4.3 g | — |
-| **Anthocyanins** | Low | Moderate | **Very High** |
-| **Iron** | 0.3 mg | 0.9 mg | 1.5 mg |
-
-Black currants are nutritional powerhouses, particularly for vitamin C and anthocyanin content. This drives their premium market value in the supplement industry.
-
 ## Top Variety Recommendations
 
 ### Gooseberry
@@ -237,8 +173,8 @@ Black currants are nutritional powerhouses, particularly for vitamin C and antho
 
 ## Related Topics
 
-- [[berry-and-small-fruit-growing|Berry and Small Fruit Growing]]
-- [[fruit-tree-care-and-orchard-management|Fruit Tree Care and Orchard Management]]
-- [[companion-planting-and-polycultures|Companion Planting and Polycultures]]
-- [[food-preservation-and-storage-methods|Food Preservation and Storage]]
-- [[orchard-fruit-guide|Orchard Fruit Guide]]
+- [[berry-fruit-production-in-permaculture|Berry and Small Fruit Growing]]
+- [[fruit-tree-grafting-guide|Fruit Tree Care and Orchard Management]]
+- [[mollison-designers-companion-planting-charts-and-principles|Companion Planting and Polycultures]]
+- [[lacto-fermentation-and-food-preservation-methods|Food Preservation and Storage]]
+- [[fruit-growing-guide-organic|Orchard Fruit Guide]]

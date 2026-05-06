@@ -117,6 +117,8 @@ It appears in numerous field guides as a textbook example of a dangerous edible-
 - Stem solid, tapered, matching cap coloration
 - Flesh orange, firm
 ## See Also
+
+- [[omphalotus-olivascens]]
 - [[amanita-muscaria]] — Another poisonous mushroom with distinctive appearance
 - [[clitocybe-nuda-entity]] — Woodland gilled mushroom, edible (Blewit)
 - [[psilocybe-cubensis]] — A gilled mushroom with different bioactive properties

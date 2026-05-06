@@ -187,6 +187,8 @@ in many regions. Key culinary characteristics:
   or the tropical S. herbstii, but these are not dangerously toxic.
 
 ## See Also
+
+- [[sparassis-latifolia]]
 - [[hericium-erinaceus]]
 - [[polyporus-umbellatus]]
 - [[trametes-versicolor]]

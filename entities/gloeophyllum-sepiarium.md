@@ -116,6 +116,6 @@ Despite its negative impact on timber products, G. sepiarium contributes to fore
 - [[trametes-trogii]]
 - [[sanghuangporus-linteus]]
 - [[sanghuangporus-vaninii]]
-- [[coriolopsis-aspera]]
-- [[phellinus-igniarius]]
+- [[coriolopsis-polyzona]]
+- [[phellinus-igniarius-entity]]
 - [[polyporus-umbellatus]]

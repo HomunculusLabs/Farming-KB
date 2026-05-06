@@ -142,6 +142,8 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 - Table grapes: 15-30 lbs/vine; Wine grapes: 8-15 lbs/vine
 - Significant production by year 3-4; full production by year 5-6
 ## See Also
+
+- [[rainbow-gtz]]
 - [[apple-tree-care]] for companion orchard fruit management
 - [[backyard-orchard-design]] for orchard layout and integration
 - [[stone-fruit-tree-care]] for companion fruit tree care

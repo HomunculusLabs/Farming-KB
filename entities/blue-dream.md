@@ -143,6 +143,6 @@ By the 2010s, Blue Dream was consistently among the top-selling strains in legal
 ## See Also
 
 - [[blueberry-cannabis]] — Indica parent strain
-- [[haze-cannabis]] — Sativa parent strain
-- [[cannabis-terpenes]] — Detailed terpene profiles and effects
-- [[cannabis-cultivation]] — Growing techniques and best practices
+- [[purple-haze-cannabis]] — Sativa parent strain
+- [[cannabis-terpene-profiles]] — Detailed terpene profiles and effects
+- cannabis cultivation — Growing techniques and best practices

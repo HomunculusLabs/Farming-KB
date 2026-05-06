@@ -133,8 +133,8 @@ This difference has measurable consequences. Vegetables grown with COF have been
 
 ## See Also
 
-- [[soil-fertility]]
+- [[building-soil-fertility-long-term]]
 - [[composting]]
-- [[cover-crops-and-green-manures]]
-- [[plant-spacing-and-yield]]
-- [[sustainable-food-production]]
+- [[cover-crops-green-manures]]
+- [[biointensive-close-plant-spacing]]
+- sustainable food production

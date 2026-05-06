@@ -142,6 +142,8 @@ nutritionally complete staple food base.
 
 ## See Also
 
+- [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
+
 - [[companion-planting-reference]]
 - [[comparison-companion-planting-vs-intercropping]]
 - [[comparison-green-manure-vs-cover-crops]]

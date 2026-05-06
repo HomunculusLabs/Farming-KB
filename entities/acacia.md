@@ -92,6 +92,8 @@ ensures an acacia exists for virtually every climate and soil condition.
 
 ## See Also
 
+- [[acacia-senegal]]
+
 - [[dynamic-accumulators-overview]]
 
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]

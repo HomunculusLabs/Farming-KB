@@ -108,14 +108,14 @@ Primary limitations for wider adoption include the long growing season (8–14 m
 - [[lathyrus-tuberosus]]
 - [[mucuna-pruriens]]
 - [[canavalia-ensiformis]]
-- [[dioclea-grandiflora]]
-- [[arachis-hypogaea]]
+- dioclea grandiflora
+- arachis hypogaea
 - [[glycine-max]]
-- [[vigna-unguiculata]]
-- [[phaseolus-vulgaris]]
+- vigna unguiculata
+- phaseolus vulgaris
 - [[moringa-oleifera]]
 - [[manihot-esculenta]]
-- [[zea-mays]]
+- zea mays
 - [[stropharia-rugosoannulata]]
 - [[azadirachta-indica]]
 - [[pisolithus-tinctorius]]

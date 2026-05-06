@@ -108,7 +108,7 @@ Climate change may affect distribution patterns, as the species is adapted to wa
 - [[trametes-hirsuta]]
 - [[trametes-trogii]]
 - [[coriolopsis-gallica]]
-- [[coriolopsis-aspera]]
+- [[coriolopsis-polyzona]]
 - [[daedaleopsis-confragosa]]
 - [[lenzites-betulina]]
 - [[gloeophyllum-trabeum]]

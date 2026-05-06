@@ -153,6 +153,8 @@ elderberries late summer) and spreads pest/disease risk across unrelated genera.
 
 ## See Also
 
+- [[comparison-gooseberry-vs-currant]]
+
 - [[pruning-fruit-trees-and-bushes]]
 - [[growing-tree-fruit-organically]]
 

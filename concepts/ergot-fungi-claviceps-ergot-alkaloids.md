@@ -122,6 +122,8 @@ ergot fungi across diverse climatic zones and grass hosts.
 
 ## See Also
 
+- [[elymoclavine]]
+
 - [[neurotropic-fungi-classification]]
 - [[psilocybin-tryptamine-chemistry-fungi]]
 - [[amanita-muscaria-and-ibotenic-acid-fungi]]

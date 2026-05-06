@@ -126,3 +126,7 @@ The sophisticated ethnopharmacological knowledge reflected in the
 indigenous pharmacological discovery. This knowledge was developed without
 any understanding of modern biochemistry and likely required extensive
 generational experimentation and observation.
+
+## See Also
+
+- [[norharmane]]

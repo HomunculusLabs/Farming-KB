@@ -85,6 +85,8 @@ makes it one of the most commercially interesting minor cannabinoids
 currently under investigation.
 
 ## See Also
+
+- [[thc-bomb]]
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
 - [[cannabigerol-cbg]]

@@ -114,7 +114,7 @@ These emerging tools promise to transform mycorrhizal research from descriptive 
 ## See Also
 
 - [[fungal-bioweathering-and-mineral-transformations]]
-- [[soil-fungi-and-ecosystem-function]]
-- [[biogeochemical-cycles]]
+- [[fungi-dominant-soil-biomass-ecosystem-engineers]]
+- [[mycorrhizal-fungi-in-biogeochemical-cycling]]
 - [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-networks]]
+- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

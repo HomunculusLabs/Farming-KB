@@ -105,4 +105,6 @@ two of planting.
 
 ## See Also
 
+- [[query-how-to-process-acorns-for-food]]
+
 - [[query-how-to-design-a-food-forest-on-a-slope]]

@@ -111,6 +111,8 @@ This acid production is commercially exploited in large-scale citric acid produc
 
 ## See Also
 
+- [[phellodon-niger]]
+
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 
 - [[gadd-fungal-metal-interactions]]

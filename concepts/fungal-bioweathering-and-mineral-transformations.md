@@ -115,7 +115,7 @@ Fungal weathering is not limited to natural geological settings. Fungi are signi
 ## See Also
 
 - [[mycorrhizal-fungi-in-biogeochemical-cycling]]
-- [[soil-fungi-and-ecosystem-function]]
-- [[biogeochemical-cycles]]
-- [[mineral-weathering]]
-- [[geomycology]]
+- [[fungi-dominant-soil-biomass-ecosystem-engineers]]
+- [[mycorrhizal-fungi-in-biogeochemical-cycling]]
+- [[fungal-mineral-weathering]]
+- geomycology

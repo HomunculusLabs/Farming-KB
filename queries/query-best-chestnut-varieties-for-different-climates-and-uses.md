@@ -140,47 +140,6 @@ updated: 2026-04-28 sources:
 - Site on north-facing slopes or higher elevations to reduce heat load
 - Monitor for oriental chestnut gall wasp; consider biological control releases of *Torymus sinensis*
 
-## Selection by Use Case
-
-### Fresh Eating and Roasting
-Priority: large nut size, easy peeling, sweet flavor, good storage 1. **Colossal** — large, reliable, widely available
-2. **Tsukuba** — very large, easy peeling
-3. **Marrone di Castel del Monte** — premium flavor
-4. **Bouche de Bétizac** — large, sweet
-5. **Auburn Super** — large, productive
-
-### Chestnut Flour Production
-Priority: high starch content, reliable production, easy processing, thin pellicle 1. **Negreta** — Spanish cultivar; traditional flour chestnut, high starch
-2. **Marigoule** — high-yielding, good starch content
-3. **Bournette** — French cultivar selected for flour production
-4. **Judia** — Portuguese cultivar; traditional flour variety
-5. Seedling European chestnuts — reliable flour producers, lower cost
-
-### Animal Feed (Silvopastoral Systems)
-Priority: reliable heavy cropping, low maintenance, blight resistance, tree vigor 1. **Dunstan chestnut** — heavy yield, large tree, wildlife and livestock favorite
-2. **Qing** — prolific Chinese cultivar, excellent blight resistance
-3. **Seedling Chinese chestnut** — lowest cost, good variability, hardy
-4. **Sleeping Giant** — for timber + mast production in forest systems
-5. **Seedling European chestnut** — traditional dehesa/montado tree
-
-### Pollination Planning
-
-Most chestnut varieties require cross-pollination for optimal nut set:
-- **Chestnuts are largely self-sterile** — plant at least two different varieties
-- **Pollinator distance**: Trees should be within 30 m of each other for effective cross-pollination
-- **Bloom timing**: Match bloom periods — early-blooming varieties (some Chinese) may not overlap with late-blooming varieties (some European)
-- **Chinese chestnuts** bloom over a long period and serve as universal pollinators for most cultivars
-- **Recommended pollinator pairs**:
-  - Colossal + any Chinese (Qing, Auburn Super, Cranz)   - Tsukuba + any Chinese or Japanese variety
-  - European cultivars + Chinese pollinators
-
-### How Many Trees to Plant
-
-| Situation | Minimum Trees | Recommended | |-----------|--------------|-------------|
-| Home garden (family use) | 2–3 | 3–5 (2 producers + 1 pollinator) | | Small farm / homestead | 5–10 | 8–15 mixed varieties |
-| Commercial orchard | 50+ | 100–300+ per hectare at 8–12 m spacing | | Agroforestry silvopasture | 20–50 | 30–80 per hectare at 10–15 m spacing |
-| Forest restoration | 100+ | 400–1100 per hectare at 3–5 m spacing |
-
 ## Where to Buy Chestnut Trees
 
 | Nursery | Specialization | Ships To | |---------|---------------|----------|
@@ -196,5 +155,6 @@ Most chestnut varieties require cross-pollination for optimal nut set:
 
 ## See Also
 
+- [[query-best-elderberry-varieties-for-different-climates-and-uses]]
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]
 - [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]

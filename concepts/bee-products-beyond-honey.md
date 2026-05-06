@@ -128,6 +128,8 @@ Bee venom contains approximately 18 pharmacologically active compounds:
 
 Value-added processing multiplies raw product value: beeswax candles (3-5x), propolis tincture (2-3x), pollen health products (2-4x).
 
-## Related Topics
+## Related
+
+- [[convolvulus-prostratus]] Topics
 
 Bee products connect to broader homestead production. Beeswax processing is part of [[soap-making-guide]]. Honey production and hive management tie into [[goat-husbandry]] and [[fungal-ecology]]. The medicinal properties of propolis and bee venom overlap with [[herbal-medicine]] and [[mycotoxins-and-human-health]] topics. Pollen collection relates to [[hay-and-forage-management]] and [[food-forest-design]] planting for bee nutrition.

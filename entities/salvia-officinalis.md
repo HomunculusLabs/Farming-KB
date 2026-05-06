@@ -130,6 +130,8 @@ Sage has an extensive history of medicinal use spanning over 2,000 years, docume
 - **Allergic reactions:** Rare but possible, particularly in individuals sensitized to other Lamiaceae species.
 
 ## See Also
+
+- [[salvia-hispanica]]
 - [[salvia-divinorum|Salvia divinorum]]
 - [[rosmarinus-officinalis-entity|Rosmarinus officinalis]]
 - [[lavandula-angustifolia-entity|Lavandula angustifolia]]

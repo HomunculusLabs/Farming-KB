@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Organic Livestock Farming (No Feces-Removing System)
 
-JADAM has developed an organic livestock farming method that eliminates the need for manure removal by using microorganisms to decompose animal waste in situ, converting it back into feed. This system draws from the Yamagishi movement of Japan and was further developed by Hankyu Cho.
+JADAM has developed an organic livestock farming method that eliminates the need for manure removal by using microorganisms to decompose animal waste in situ, converting it back into feed. This system draws from the Yamagishi movement of Japan and was further developed by [[youngsang-cho]]. It exemplifies the [[jadam-ultra-low-cost-agriculture]] philosophy of eliminating purchased inputs and reducing labor through biological processes, a core tenet of [[jadam-natural-farming-philosophy]].
 
 ## How the System Works
 
@@ -22,7 +22,7 @@ The core principle is simple: microorganisms feed on animal manure and convert i
 5. Feces does not pile up -- it is continuously recycled
 6. Manure needs to be removed only about once per year
 
-The system is almost completely free of smell and flies. The microorganisms do the work that would otherwise require expensive labor and equipment.
+The system is almost completely free of smell and flies. The microorganisms do the work that would otherwise require expensive labor and equipment. The microbial foundation connects to [[lactic-acid-bacteria]] and indigenous microorganism practices common across natural farming traditions.
 
 ## Shelter Design
 
@@ -49,6 +49,13 @@ The no-feces-removing system solves most problems associated with modern livesto
 ## JMS Application in Livestock
 
 [[jadam-microorganism-solution-jms]] serves multiple functions in the livestock system:
+
+## See Also
+
+[[animal-manure-guide]] — Comprehensive guide to using animal manure as fertilizer
+[[lactic-acid-bacteria]] — Role of LAB in fermentation and soil health
+[[jadam-compost-free-approach]] — JADAM philosophy of avoiding conventional composting
+[[ultra-low-jadam-fertilizer-program]] — JADAM's ultra-low-cost fertilizer program
 
 - Sprayed on floors to accelerate manure decomposition
 - Fed to animals (diluted 20x with water) to improve gut health
@@ -81,7 +88,7 @@ The livestock system integrates with JADAM cropping through:
 
 ## Broader Significance
 
-This system represents the [[jadam-ultra-low-cost-agriculture]] philosophy applied to animal husbandry: eliminate purchased inputs, reduce labor, and let natural biological processes do the work. For broader livestock integration patterns, see [[backyard-livestock-integration-design]]. It directly addresses the [[jadam-monoculture-critique]] by showing how integrated farming systems can be both more productive and less expensive than specialized, input-dependent operations.
+This system represents the [[jadam-ultra-low-cost-agriculture]] philosophy applied to animal husbandry: eliminate purchased inputs, reduce labor, and let natural biological processes do the work. The microbial foundation connects to [[lactic-acid-bacteria]] and [[vermicomposting]] as parallel approaches to waste transformation. For broader livestock integration patterns, see [[backyard-livestock-integration-design]]. It directly addresses the [[jadam-monoculture-critique]] by showing how integrated farming systems can be both more productive and less expensive than specialized, input-dependent operations.
 
 ## Related Concepts
 

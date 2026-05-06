@@ -70,6 +70,8 @@ Hygrophorus agathosmus is one of several late-season *Hygrophorus* species that 
 
 ## See Also
 
+- [[hygrophorus-chrysodon]]
+
 - [[cantharellus-cibarius]] — another fragrant, mycorrhizal edible fungus
 - [[pleurotus-ostreatus]] — commonly cultivated edible mushroom
 - [[amanita-muscaria]] — well-known mycorrhizal species with bioactive compounds

@@ -167,6 +167,8 @@ A: Seed (easy but variable), semi-hardwood cuttings (maintains variety traits), 
 
 ## See Also
 
+- [[query-how-to-grow-pomegranate-in-different-climates]]
+
 - passionfruit pests and diseases
 - [[mollison-designers-vine-and-fruit-tree-integration]]
 - tropical fruit in cool climates

@@ -1,163 +1,149 @@
 ---
 title: "Terminalia chebula"
-created: 2026-04-28
 type: species
 tags:
-  - herbal-plant
-  - ayurveda
-  - triphala
-  - tannins
-  - chebulagic-acid
-  - chebulinic-acid
-  - antioxidant
-  - anti-inflammatory
-  - adaptogen
-  - ethnobotany
+  - plants
   - combretaceae
+  - ayurvedic
+  - herbal-medicine
+  - tannins
+  - traditional-medicine
+  - permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Srikumar, R. et al. (2005). "Terminalia chebula — a review." Natural
-    Product Radiance, 4(3), 209-221.
-  - Bag, A. et al. (2013). "Evaluation of antibacterial potential of
-    Terminalia chebula against dental caries pathogens." BMC Complementary
-    and Alternative Medicine, 13:121.
-  - Lee, H.S. et al. (2007). "Inhibitory activities of Chebulagic acid
-    against herpes simplex virus." Phytotherapy Research, 21(10), 980-984.
-  - Reddy, V.D. et al. (2017). "Protective effect of Terminalia chebula
-    against d-Galactose-induced cognitive impairment." Journal of Food
-    Science and Technology, 54(4), 910-918.
+  - Anonymous (2003). "The Ayurvedic Pharmacopoeia of India." Government of India, Ministry of Health.
+  - Chattopadhyay, D. et al. (2014). "Terminalia chebula: update on its phytochemistry and therapeutic roles." Chinese Journal of Integrative Medicine, 20(7), 554-563.
+  - Saleem, A. et al. (2002). "Hepatoprotective effects of ethanolic extract of Terminalia chebula." Phytomedicine, 9(4), 321-325.
+  - Lee, H.S. et al. (2014). "Chebulagic acid and chebulinic acid from Terminalia chebula." Natural Product Sciences, 20(1), 45-50.
 ---
-
-# Terminalia chebula
 
 ## Overview
 
-**Terminalia chebula**, commonly known as **Haritaki** (Sanskrit), **Harad**
-(Hindi), or **Black Myrobalan**, is a deciduous tree in the family
-Combretaceae. It is one of the most revered plants in Ayurvedic medicine,
-considered a *rasayana* (rejuvenative) and forming a principal component of
-**Triphala** — the most widely used Ayurvedic polyherbal formulation, alongside
-*Emblica officinalis* (Amalaki) and *Terminalia bellirica* (Bibhitaki). The
-dried fruit has been used for over 3,000 years across South Asia, Tibet, and
-the Middle East. In Tibetan medicine it is known as *A-ru-ra* and called the
-"king of medicines."
+Terminalia chebula, commonly known as haritaki, harada, or black myrobalan, is a
+deciduous tree in the family Combretaceae. It is one of the most important
+medicinal plants in Ayurveda, where it is a constituent of the classical
+formulation Triphala (alongside T. bellirica and Emblica officinalis).
+
+The dried ripe fruits of T. chebula have been used for over 2,500 years in
+traditional medicine systems across South and Southeast Asia for treating
+digestive disorders, wound healing, and as a general rejuvenative tonic.
+
+Modern research has validated many traditional uses, identifying a rich
+profile of tannins, phenolic acids, and other bioactive compounds with
+antioxidant, anti-inflammatory, and antimicrobial properties.
 
 ## Taxonomy
 
-| Rank | Classification |
-|------|----------------|
-| Kingdom | Plantae |
-| Phylum | Tracheophyta |
-| Class | Magnoliopsida |
-| Order | Myrtales |
-| Family | Combretaceae |
-| Genus | *Terminalia* |
-| Species | *T. chebula* |
+- **Kingdom:** Plantae
+- **Clade:** Tracheophytes
+- **Clade:** Angiosperms
+- **Clade:** Eudicots
+- **Clade:** Rosids
+- **Order:** Myrtales
+- **Family:** Combretaceae
+- **Genus:** Terminalia
+- **Species:** T. chebula
+- **Authority:** Retz. (1789)
 
-## Botanical Description
+The genus Terminalia comprises approximately 250 species of tropical and
+subtropical trees. T. chebula is closely related to [[terminalia-bellirica]]
+(Indian beleric myrobalan), with which it forms half of the Triphala
+formulation.
 
-*T. chebula* is a medium to large deciduous tree, 20-30 m tall with a
-cylindrical bole up to 1 m diameter. Bark is dark brown to blackish, deeply
-fissured, exfoliating in thick flakes. Leaves are alternate, elliptic-oblong,
-7-20 cm long. Flowers are pale yellow in terminal spikes 5-15 cm long. The
-fruit is a drupe, 2-4 cm, green when young, yellowish-brown to blackish at
-maturity, containing a single seed.
+## Morphology
 
-Native to South and Southeast Asia — India, Nepal, Bangladesh, Myanmar,
-Thailand, and southern China. Grows in tropical dry and moist deciduous
-forests up to 1,500 m. Drought-tolerant.
+T. chebula is a medium to large deciduous tree reaching 20–30 m in height with
+a trunk diameter of 60–100 cm. The crown is broadly spreading with a rounded
+canopy.
 
-## Phytochemistry
+Leaves are alternate, elliptic to obovate, 7–20 cm long and 4–10 cm wide,
+with an acute or acuminate apex and rounded base. The leaf margin is entire
+and the surface is glabrous to thinly pubescent beneath.
 
-The fruit is extraordinarily rich in hydrolyzable tannins (20-40% dry weight).
-### Major Compounds
+Flowers are pale yellow to white, borne in axillary spikes 5–15 cm long.
+Individual flowers are small (5–8 mm), bisexual, with a 5-lobed calyx and no
+petals. Flowering occurs from March to May.
 
-- **Chebulagic acid**: Ellagitannin with potent antiviral, antioxidant, and
-  anti-inflammatory properties. Inhibits HIV-1 integrase, HCV NS3/4A
-  protease, and HSV-1/HSV-2. Also inhibits VEGF-induced angiogenesis.
-- **Chebulinic acid**: Ellagitannin with hepatoprotective and anti-diabetic
-  effects.
-- **Corilagin**: Ellagitannin with anti-inflammatory and neuroprotective
-  properties. Inhibits TGF-β/Smad signaling.
-- **Gallic acid**: Phenolic acid with antioxidant, antimicrobial, and
-  anti-cancer properties.
-- **Ellagic acid**: Polyphenol with antioxidant and anti-mutagenic activity.
-- **Chebulic acid**: Triterpenoid unique to *Terminalia* species.
-- **Arjunin, arjungenin**: Triterpenoid saponins with cardioprotective
-  effects.
+The fruit is a drupe, ovoid to ellipsoidal, 2–4 cm long, yellowish-green when
+immature turning yellowish-brown to blackish at maturity. The fruit contains
+a single large seed within a hard endocarp. Fruits mature from October to
+January.
 
-### Additional Constituents
+## Distribution and Habitat
 
-Fixed oils (linoleic, oleic, palmitic acids), amino acids, minerals (iron,
-manganese, zinc, copper), vitamins (ascorbic acid, thiamine), and
-beta-sitosterol.
+T. chebula is native to South and Southeast Asia, found throughout India, Nepal,
+Bhutan, Bangladesh, Sri Lanka, Myanmar, Thailand, and southern China.
 
-## Pharmacology
+It grows in a wide range of habitats from deciduous forests and dry mixed
+forests to sub-Himalayan tracts, typically at elevations of 300–1,200 m.
 
-### Gastrointestinal Effects
+The species thrives in well-drained sandy or loamy soils with annual rainfall
+of 750–2,000 mm. It is moderately frost-hardy and drought-tolerant once
+established.
 
-The primary traditional use is as a digestive tonic and laxative. Acts as a
-mild prokinetic agent, increasing intestinal motility. Tannins provide
-astringent properties at low doses; anthraquinone glycosides produce laxative
-effects at higher doses. Improves appetite, supports gastric mucosal
-  integrity. Efficacy confirmed in constipation-predominant IBS.
+## Chemistry and Pharmacology
 
-### Antioxidant Activity
+The dried fruits are rich in hydrolyzable tannins (25–32% dry weight), which
+constitute the primary bioactive fraction.
 
-Methanolic extracts demonstrate radical scavenging against DPPH, ABTS,
-ABTS, superoxide, and hydroxyl radicals. Chebulagic and chebulinic acids
-operate through hydrogen atom transfer and metal chelation. In vivo studies
-show increased SOD, catalase, and glutathione peroxidase with reduced lipid
-peroxidation.
+Key compounds include **chebulagic acid**, **chebulinic acid**, **chebulic
+acid**, **corilagin**, **gallic acid**, **ellagic acid**, and **punicalagin**.
 
-### Anti-inflammatory Effects
+These hydrolyzable tannins exhibit potent antioxidant activity through free
+radical scavenging, metal chelation, and upregulation of endogenous
+antioxidant enzymes.
 
-Inhibits NF-κB and MAPK signaling, reducing TNF-α, IL-1β, IL-6, and COX-2.
-Chebulagic acid specifically inhibits the NLRP3 inflammasome, a key mediator
-of chronic inflammation.
+Chebulagic acid and chebulinic acid have demonstrated anti-inflammatory
+activity via inhibition of NF-κB signaling and COX-2 expression. They also
+show antiviral properties against several enveloped viruses.
 
-### Antimicrobial Activity
+T. chebula extracts exhibit broad-spectrum antimicrobial activity against both
+Gram-positive and Gram-negative bacteria, as well as Candida species.
 
-Broad-spectrum antibacterial activity against *S. mutans*, *S. aureus*,
-*E. coli*, and *H. pylori*. MICs range from 0.25-2 mg/mL.
+Hepatoprotective effects have been demonstrated in animal models, with fruit
+extracts reducing liver damage from chemical hepatotoxins.
 
-### Neuroprotective Effects
+The fruit also exhibits anti-diabetic activity through alpha-glucosidase
+inhibition and improved glucose tolerance in diabetic animal models.
 
-Protection against cognitive impairment from scopolamine, aluminum chloride,
-and D-galactose. Mechanisms include acetylcholinesterase inhibition, reduced
-amyloid-beta aggregation, suppressed neuroinflammation, and enhanced BDNF
-expression.
+## Traditional Uses
 
-### Anti-diabetic and Wound Healing
+In Ayurveda, T. chebula fruit is classified as a rasayana (rejuvenative) and
+is one of the most versatile single-herb remedies. It is prescribed for
+constipation, diarrhea, hemorrhoids, digestive weakness, and respiratory
+complaints.
 
-Reduces fasting blood glucose, HbA1c, and improves insulin sensitivity.
-Chebulagic acid inhibits alpha-glucosidase and alpha-amylase. Topical
-application accelerates wound contraction, increases collagen deposition,
-and enhances angiogenesis.
+It is a key ingredient in **Triphala** (three fruits), one of the most widely
+used Ayurvedic formulations, alongside [[terminalia-bellirica]] (bibhitaki)
+and Emblica officinalis (amalaki).
 
-## Traditional and Modern Uses
+In Tibetan medicine, it is used as a component of many multi-herb formulas.
+In Unani medicine, the fruit is used as a digestive and astringent.
 
-| System | Application |
-|--------|-------------|
-| Ayurveda | Rasayana, digestive tonic, constipation, cough |
-| TCM | Chronic diarrhea, dysentery, cough, hoarseness |
-| Unani | Stomachic, carminative, anti-diarrheal |
-| Tibetan | "King of medicines" — broad-spectrum therapeutic |
-| Modern | Dietary supplement, oral care, skin care |
+Traditional preparation methods include powdering the dried fruit, preparing
+decoctions, or fermenting the fruit (known as "abhyanga haritaki").
 
-## Safety and Dosage
+## Permaculture Applications
 
-- Traditional: 3-6 g dried fruit powder daily
-- Modern supplements: 500-1000 mg extract, 2-3× daily
-- Generally well-tolerated; high doses may cause GI discomfort
-- Not recommended during pregnancy (uterine stimulant activity)
-- May potentiate anticoagulant therapy
+T. chebula has potential as a multipurpose agroforestry species in tropical
+and subtropical permaculture systems. The tree provides shade, timber-grade
+wood, and valuable medicinal fruits.
+
+It is suitable for use as a windbreak, soil stabilizer on slopes, and
+component of multi-strata food forest designs. The deep root system helps
+prevent erosion on degraded lands.
+
+T. chebula tolerates a range of soil conditions including moderately saline
+and alkaline soils, making it useful for rehabilitation of marginal lands.
 
 ## See Also
 
-- [[herbal-medicine]]
-
-- [[medicinal-mushrooms]]
-
+- [[terminalia-bellirica]]
+- [[terminalia-arjuna]]
+- [[terminalia-catappa]]
 - [[phyllanthus-emblica]]
+- [[moringa-oleifera]]
+- [[azadirachta-indica]]
+- [[centella-asiatica]]
+- [[bacopa-monnieri]]

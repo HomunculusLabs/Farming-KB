@@ -142,6 +142,10 @@ compounds that suppress weed germination.
 
 ## See Also
 
+- [[herbal-medicine]]
+- [[essential-amphetamines-and-natural-precursors]]
+- [[mollison-designers-tropical-soils-and-cation-exchange-management]]
+
 - [Pelargonium sidoides](pelargonium-sidoides.md)
 - [Lavandula angustifolia](lavandula-angustifolia.md)
 - [Rosmarinus officinalis](rosmarinus-officinalis-entity.md)

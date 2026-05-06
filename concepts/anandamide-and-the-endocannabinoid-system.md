@@ -17,7 +17,7 @@ Anandamide (N-arachidonoylethanolamide, abbreviated AEA) is an endogenous cannab
 
 Anandamide was isolated and identified by Raphael Mechoulam's research group at the Hebrew University of Jerusalem in 1992. The name derives from the Sanskrit word "ananda," meaning bliss or joy, reflecting the molecule's association with elevated mood and well-being.
 
-Its discovery was a direct consequence of research into how phytocannabinoids from the [[cannabis]] plant interact with mammalian physiology. The identification of anandamide confirmed that the human body produces its own cannabinoid-like compounds, validating the existence of the endocannabinoid system as a legitimate biological regulatory network rather than merely a pharmacological curiosity.
+Its discovery was a direct consequence of research into how phytocannabinoids from the cannabis plant interact with mammalian physiology. The identification of anandamide confirmed that the human body produces its own cannabinoid-like compounds, validating the existence of the endocannabinoid system as a legitimate biological regulatory network rather than merely a pharmacological curiosity.
 
 Prior to this discovery, the existence of cannabinoid receptors in the human brain (CB1, cloned in 1990) had posed a fundamental question: why would the body have receptors for compounds found in a specific plant? Anandamide answered this question by demonstrating that the body manufactures its own endogenous ligands for these receptors. This insight fundamentally reframed understanding of the brain-body connection and opened an entirely new field of neurobiological research.
 
@@ -113,8 +113,11 @@ Anandamide's role in mood regulation means that endocannabinoid tone influences 
 
 ## See Also
 
+- [[cannabis-endocannabinoid-system]]
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+
 - [[endocannabinoid system]]
 - [[THC]]
-- [[cannabidiol]]
-- [[cannabis]]
-- [[neuroplasticity]]
+- [[cannabidiol-cbd]]
+- cannabis
+- [[blesching-cannabis-neurogenesis-and-neuroplasticity]]

@@ -17,7 +17,9 @@ appear first near the top of the weakest plant in the garden
 and then move downward on the plant or fly off to infest
 other plants. Whiteflies can cause significant damage to
 cannabis crops if left unchecked, reducing both yield and
-[[cervantes-photosynthesis-chlorophyll-plant-science]].
+[[cervantes-photosynthesis-chlorophyll-plant-science]]. For a
+broader overview of cannabis pest management strategies, see
+[[integrated-pest-management]].
 
 ## Identification
 
@@ -106,7 +108,10 @@ for using this parasite:
 The fungus Verticillium lecanii, also known as
 Cephalosporium lecanii (trade name Mycotal), is also very
 effective against whiteflies and can be used as a
-supplement to parasitic wasps.
+supplement to parasitic wasps. Other common cannabis pests
+like [[spider-mites-cannabis]] and [[thrips-cannabis]] require
+similar integrated approaches combining biological and chemical
+controls. For predatory insect allies, see [[beneficial-insects-cannabis]].
 
 ## Chemical and Spray Control
 

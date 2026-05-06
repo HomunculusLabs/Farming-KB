@@ -69,6 +69,8 @@ The organic materials in COF release their nutrient content only as they decompo
 
 ## Related
 
+- [[complete-organic-fertilizer-formulation]]
+
 - [[solomon-gardening-when-it-counts-index]]
 - [[composting-science-solomon]]
 - [[intensive-gardening-critique-solomon]]

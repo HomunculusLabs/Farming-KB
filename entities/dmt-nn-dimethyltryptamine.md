@@ -122,6 +122,6 @@ DMT is **Schedule I** under the US Controlled Substances Act and similarly contr
 
 - [[5-meo-dmt]] — Related tryptamine with distinct pharmacology
 - [[psilocybin]] — Orally active natural psychedelic tryptamine
-- [[ayahuasca]] — Traditional DMT-containing preparation
-- [[monoamine-oxidase]] — Enzymes that metabolize DMT
-- [[5-ht2a-receptor]] — Primary receptor target of psychedelics
+- [[ayahuasca-botany-and-preparation]] — Traditional DMT-containing preparation
+- monoamine oxidase — Enzymes that metabolize DMT
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — Primary receptor target of psychedelics

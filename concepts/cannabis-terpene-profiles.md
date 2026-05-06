@@ -73,6 +73,10 @@ The interaction between a strain's terpene profile and its cannabinoid content (
 
 ## See Also
 
+- [[isopulegol]]
+
+- [[sabinene]]
+
 - [[gary-payton-cannabis]]
 
 - [[camphene]]

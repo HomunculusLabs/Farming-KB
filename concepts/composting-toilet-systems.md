@@ -7,10 +7,12 @@ sources: []
 tags: [reference]
 ---
 # Composting Toilet Systems
-[[composting-toilets]] treat human waste on-site through aerobic decomposition,
+[[composting]] is the biological backbone of [[composting-toilets]], which treat human waste on-site through aerobic decomposition,
 converting it into a safe, nutrient-rich soil amendment. They eliminate the
 need for conventional septic systems, reduce water consumption, and are a
-key component of off-grid sanitation infrastructure. This guide covers
+key component of [[permaculture]] off-grid sanitation infrastructure. The finished compost
+product can be integrated with [[vermicomposting]] and [[biochar-soil-amendment]]
+practices for enhanced soil building. This guide covers
 system types, design, maintenance, and legal considerations.
 ## Why Composting Toilets
 - **[[water-conservation]]** — eliminates 20-30% of indoor water use (toilet
@@ -18,6 +20,8 @@ system types, design, maintenance, and legal considerations.
 - **Off-grid viability** — no water, septic, or sewer connection required
 - **Nutrient recovery** — returns nitrogen, phosphorus, and potassium to
   the soil cycle, similar to [[animal-manure-guide|animal manure]] management
+- **Carbon sequestration** — finished compost contributes to soil organic
+  carbon; combining with [[biochar]] further stabilizes carbon long-term
 - **Reduced infrastructure** — no septic field, leach lines, or connection
   to municipal systems
 - **Cost savings** — eliminates septic installation ($5,000-15,000) and maintenance
@@ -148,4 +152,11 @@ A permanent installation with a larger composting chamber:
 | Maintenance | Frequent | Moderate | Frequent |
 | Best for | Cabins, small homes | Family homes | Off-grid homesteads |
 For complementary off-grid water and sanitation infrastructure, see
-[[well-drilling-and-maintenance]] and [[rainwater-harvesting-systems]].
+[[well-drilling-and-maintenance]], [[rainwater-harvesting-systems]], and
+[[water-management]].
+
+## See Also
+
+[[thermal-composting-vs-aact]] — Comparing thermal composting with actively aerated compost tea
+[[teaming-with-microbes-compost-biology]] — Microbial biology behind composting processes
+[[sustainable-living-habits-for-homesteads]] — Broader homestead sustainability practices
