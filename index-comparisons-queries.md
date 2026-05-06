@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**995 pages**
+**997 pages**
 
 ## A
 
@@ -200,6 +200,7 @@
 - [[comparison-fukuoka-vs-holzer]]
 - [[comparison-fukuoka-vs-jadam-farming]]
 - [[comparison-gabions-vs-check-dams]]
+- [[comparison-garlic-vs-onion-growing]]
 - [[comparison-goat-husbandry-vs-sheep-husbandry]]
 - [[comparison-goats-vs-sheep-in-permaculture-systems]]
 - [[comparison-grafting-vs-budding-fruit-trees]]
@@ -984,6 +985,7 @@
 - [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]
 - [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]
 - [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
+- [[query-what-is-the-difference-between-hardneck-and-softneck-garlic]]
 - [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]
 - [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]]
 - [[query-what-is-the-difference-between-indica-sativa-and-ruderalis-cannabis]]
