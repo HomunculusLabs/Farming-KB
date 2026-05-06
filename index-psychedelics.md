@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1260 pages**
+**1261 pages**
 
 ## #
 
@@ -1059,6 +1059,7 @@
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[psilocybin-serotonin-mimic-thalamic-filter-model]]
 - [[psilocybin-shelf-life-stability]]
+- [[psilocybin-stability-across-flushes]]
 - [[psilocybin-stoned-ape-hypothesis-critique]]
 - [[psilocybin-synthesis]]
 - [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
@@ -1341,4 +1342,3 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
-- [[2c-e]]

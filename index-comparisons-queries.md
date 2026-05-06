@@ -2,12 +2,16 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1042 pages**
+**1052 pages**
 
 ## A
 
 - [[african-psilocybin-mushroom-guide]]
 - [[asian-psilocybin-mushroom-guide]]
+
+## B
+
+- [[biodynamic-preparations-comparison]]
 
 ## C
 
@@ -160,6 +164,7 @@
 - [[comparison-constructed-wetland-vs-backyard-pond]]
 - [[comparison-coppicing-vs-pollarding]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
+- [[comparison-cowpea-vs-mung-bean]]
 - [[comparison-crop-rotation-vs-cover-cropping]]
 - [[comparison-dam-construction-vs-swale-design]]
 - [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
@@ -180,6 +185,7 @@
 - [[comparison-earthship-vs-cob-construction]]
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
 - [[comparison-elderberry-vs-echinacea]]
+- [[comparison-elderberry-vs-gooseberry-vs-currant]]
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
 - [[comparison-erect-vs-trailing-vs-primocane-brambles]]
 - [[comparison-ethnobotany-vs-ethnomycology]]
@@ -425,6 +431,8 @@
 - [[comparison-swale-vs-contour-line-water-management]]
 - [[comparison-swale-vs-rainwater-harvesting]]
 - [[comparison-syntropic-vs-permaculture]]
+- [[comparison-tamarind-vs-carob]]
+- [[comparison-tannins-vs-alkaloids-vs-glycosides]]
 - [[comparison-tempeh-vs-miso]]
 - [[comparison-tempeh-vs-tofu]]
 - [[comparison-terra-preta-vs-modern-biochar]]
@@ -553,7 +561,9 @@
 - [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 - [[query-best-citrus-varieties-for-different-climates]]
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
+- [[query-best-grain-legumes-for-a-small-homestead]]
 - [[query-best-light-schedule-for-cannabis]]
+- [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
 - [[query-best-native-fruiting-shrubs-for-permaculture-hedges]]
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
 - [[query-can-fungi-break-down-plastic-pollution]]
@@ -698,6 +708,7 @@
 - [[query-how-do-parasitoid-wasps-control-pest-populations]]
 - [[query-how-do-photonic-crystals-create-structural-color]]
 - [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]
+- [[query-how-do-plants-communicate-and-respond-to-stress]]
 - [[query-how-do-plants-defend-themselves-chemically]]
 - [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 - [[query-how-do-psychedelics-change-consciousness]]
@@ -770,6 +781,7 @@
 - [[query-how-to-fix-zinc-deficiency-in-cannabis]]
 - [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
+- [[query-how-to-grow-and-care-for-a-tamarind-tree]]
 - [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - [[query-how-to-grow-and-use-stinging-nettle]]
 - [[query-how-to-grow-ashwagandha-at-home]]
@@ -929,6 +941,7 @@
 - [[query-what-are-the-best-plants-for-a-hugelkultur-bed]]
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
+- [[query-what-are-the-health-benefits-of-dietary-polyphenols]]
 - [[query-what-are-the-health-benefits-of-lions-mane-mushroom]]
 - [[query-what-are-the-health-benefits-of-turkey-tail-mushroom]]
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
