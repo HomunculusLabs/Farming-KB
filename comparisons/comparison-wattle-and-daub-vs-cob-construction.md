@@ -141,6 +141,8 @@ Wattle and daub and cob are complementary rather than competing techniques. Both
 
 ## See Also
 
+- [[comparison-light-straw-clay-vs-hempcrete]]
+
 - [[comparison-wattle-and-daub-vs-straw-bale-construction]]
 
 - [[comparison-cob-construction-vs-straw-bale-construction]]

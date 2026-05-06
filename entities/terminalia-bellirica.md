@@ -125,10 +125,10 @@ The species responds well to organic manuring and tolerates moderately acidic to
 ## See Also
 
 - [[terminalia-chebula]]
-- [[combretaceae]]
-- [[triphala]]
-- [[ayurvedic-medicinal-plants]]
-- [[tropical-agroforestry-trees]]
-- [[ellagitannins]]
-- [[gallic-acid]]
-- [[myrobalan]]
+- combretaceae
+- [[terminalia-bellirica]]
+- [[amazonian-medicinal-plants-reference]]
+- [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
+- [[armillaria-gallica]]
+- [[armillaria-gallica]]
+- [[terminalia-bellirica]]

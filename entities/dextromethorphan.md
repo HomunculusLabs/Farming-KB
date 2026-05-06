@@ -1,146 +1,121 @@
 ---
-title: Dextromethorphan (DXM)
-created: 2026-04-28
+title: "Dextromethorphan"
 type: chemical
-tags: [dissociative, antitussive, NMDA-antagonist,
-  sigma-receptor, serotonin-syndrome-risk, OTC]
+aliases:
+  - DXM
+  - Dextromethorphan hydrobromide
+  - 3-methoxy-17-methylmorphinan
+  - Robitussin
+  - DXM hydrobromide
+tags:
+  - chemical
+  - dissociative
+  - psychedelic
+  - sigma-receptor-agonist
+  - nmda-antagonist
+  - cough-suppressant
+  - otc-drug
+  - harm-reduction
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - Welch, M.J. (2011). "Dextromethorphan." In: Stahl, S.M. (ed). "Stahl's Essential Psychopharmacology." Cambridge University Press.
+  - Boyer, E.W. (2004). "Dextromethorphan abuse." Pediatric Emergency Care 20(9): 589-592.
+  - Schindler, C.W. et al. (2002). "NMDA receptor pharmacology." Pharmacology & Therapeutics 95(1): 55-78.
+  - Mendelson, J. et al. (2001). "Dextromethorphan pharmacology." Journal of Clinical Psychopharmacology 21(5): 535-539.
+  - Wikipedia contributors (2025). "Dextromethorphan." Wikipedia. https://en.wikipedia.org/wiki/Dextromethorphan
 ---
 
-# Dextromethorphan (DXM)
+## Overview
 
-Dextromethorphan (3-methoxy-17-methylmorphinan) is a dissociative
-psychedelic and the dextrorotatory enantiomer of synthetic opioid
-racemethorphan. Widely used as an OTC antitussive, it produces
-dose-dependent dissociative effects at supratherapeutic doses
-through NMDA receptor antagonism and sigma-1 receptor agonism.
+Dextromethorphan (DXM) is a dissociative psychoactive compound of the morphinan class, widely used as an over-the-counter cough suppressant. At recreational doses far exceeding therapeutic levels, it produces dissociative, hallucinogenic, and euphoric effects mediated primarily through NMDA receptor antagonism and sigma-1 receptor agonism.
 
-Synthesized in 1946 and FDA-approved in 1958, DXM replaced
-codeine as the preferred OTC cough suppressant due to its lack of
-opioid receptor activity. In 2022, the FDA approved Auvelity
-(dextromethorphan/bupropion) for major depressive disorder,
-validating DXM's rapid-acting antidepressant properties.
+First synthesized in 1946 and approved by the FDA in 1958, DXM is one of the most widely used non-prescription drugs in the world. Its psychoactive properties at supratherapeutic doses have made it both a subject of pharmacological research and a commonly abused substance, particularly among adolescents.
 
-## Chemical Structure and Properties
+## Chemical Properties
 
-- **IUPAC name:** (4bS,8aR)-3-Methoxy-11-methyl-6,7,8,8a,9,
-  10-hexahydro-5H-9,4b-(epiminoethano)phenanthrene
 - **Molecular formula:** C₁₈H₂₅NO
 - **Molecular weight:** 271.40 g/mol
-- **CAS number:** 125-71-3 (free base), 6700-34-1 (HBr salt)
-- **Appearance:** White crystalline powder; HBr salt is
-  commercially available
-- **Solubility:** Freely soluble in water and alcohol (HBr salt)
-- **Melting point:** 126°C (hydrobromide monohydrate)
-- **pKa:** 8.3 (amine), 9.2 (phenol)
+- **IUPAC name:** 3-Methoxy-17-methyl-9,13,14,15,16,17-hexahydro-2H-6,7-methano-3-benzoxacyclotetradecine
+- **CAS number:** 125-71-3
+- **Form:** White crystalline powder (HBr salt)
+- **Solubility:** Freely soluble in water (as hydrobromide salt), soluble in ethanol
 
-DXM is a morphinan derivative related to codeine but with
-substitutions eliminating opioid receptor affinity. The 3-methoxy
-replaces the 3-hydroxy of active opioids, and it lacks the
-6-hydroxyl. These prevent μ-opioid activation (Ki >10,000 nM).
-The rigid morphinan ring enables PCP-site binding within the NMDA
-channel pore.
+DXM is the dextrorotatory enantiomer of the racemic compound levomethorphan, making it structurally related to both codeine and morphine but with no significant affinity for mu-opioid receptors at therapeutic doses. It is metabolized in the liver primarily by CYP2D6 to dextrorphan (DXO), its active metabolite.
 
 ## Pharmacology
 
-### Receptor Binding Profile
+DXM acts on multiple receptor systems, producing its characteristic dissociative and psychoactive effects through several mechanisms.
 
-| Receptor | Ki (nM) | Functional Activity |
-|----------|---------|-------------------|
-| NMDA (PCP site) | 1,000-2,000 | Uncompetitive antagonist |
-| Sigma-1 (σ₁) | 50-200 | Agonist |
-| Sigma-2 (σ₂) | 5,000-10,000 | Weak agonist |
-| SERT | 100-500 | Inhibitor (reuptake) |
-| μ-opioid | >10,000 | Negligible |
-| κ-opioid | >10,000 | Negligible |
+### Primary Mechanisms
 
-Dissociative effects are mediated by NMDA receptor antagonism —
-DXM binds within the ion channel pore at the PCP site in a use-
-dependent manner. Sigma-1 agonism contributes to antidepressant
-effects through ER-mitochondrion chaperone modulation of calcium
-signaling and neuroplasticity.
+- **NMDA receptor antagonist:** Blocks NMDA-type glutamate receptors at recreational doses, producing dissociation, analgesia, and perceptual alterations. This mechanism is shared with ketamine and PCP.
+- **Sigma-1 receptor agonist:** Modulates calcium signaling, neuroprotection, and psychotomimetic effects. The sigma-1 receptor plays a role in the anti-depressant and neuroplastic effects observed at sub-dissociative doses.
+- **SERT inhibitor:** Blocks serotonin reuptake at moderate to high doses, contributing to mild serotonergic effects and the risk of serotonin syndrome when combined with MAOIs or SSRIs.
 
-### Dose-Dependent Effects (Plateau Model)
+### Receptor Affinity Table
 
-1. **First plateau (100-250 mg):** Mild stimulation, heightened
-   music awareness, subtle spatial changes. Comparable to 1-2
-   drinks of alcohol.
-2. **Second plateau (250-500 mg):** Euphoria, sociability,
-   noticeable dissociation, mild visual distortions. Most
-   commonly sought recreational range.
-3. **Third plateau (500-1,000 mg):** Strong dissociation, body
-   image alterations, significant hallucinations, impaired motor
-   coordination, dreamlike waking states.
-4. **Fourth plateau (1,000-1,500+ mg):** Complete dissociation
-   resembling ketamine anesthesia. Sensory deprivation, ego
-   dissolution. Dangerous with significant toxicity risk.
+| Receptor | Affinity (Ki) | Effect |
+|----------|--------------|--------|
+| NMDA (PCP site) | ~0.5–2 µM | Dissociation |
+| Sigma-1 | ~0.1 µM | Modulatory |
+| SERT | ~2 µM | Serotonin reuptake inhibition |
+| Mu-opioid | Negligible | No analgesia at therapeutic dose |
 
-## Metabolism and Pharmacokinetics
+## Effects and Dosage
 
-DXM undergoes first-pass metabolism via CYP2D6 O-demethylation to
-dextrorphan (DXO), the primary active metabolite (Ki ~200 nM at
-NMDA, 5-10x more potent than DXM). Secondary pathway via CYP3A4
-produces 3-methoxymorphinan.
+DXM produces dose-dependent effects organized into four "plateaus" in recreational contexts, first described by William E. White in the DXM FAQ.
 
-CYP2D6 polymorphism creates distinct phenotypes: extensive
-metabolizers (~70-80%, DXM/DXO ratio <0.3), poor metabolizers
-(~5-10%, ratio >0.3 with elevated DXM and higher serotonin
-syndrome risk). Elimination half-lives: DXM 3-6 hr, DXO 3-4 hr.
-~80% excreted as dextrorphan glucuronide in urine within 24 hr.
+### Plateau System
 
-## Clinical Applications
+- **First plateau (1.5–2.5 mg/kg):** Mild stimulation, subtle perceptual changes, light euphoria, heightened music appreciation.
+- **Second plateau (2.5–7.5 mg/kg):** Dissociation, euphoria, visual distortions, floating sensation, mild closed-eye visuals.
+- **Third plateau (7.5–15 mg/kg):** Strong dissociation, significant impairment of motor function and coordination, vivid hallucinations, altered sense of time.
+- **Fourth plateau (15+ mg/kg):** Complete dissociation from body and environment, ego dissolution, intense hallucinations, high risk of adverse effects.
 
-### Antitussive
+Duration of effects is typically 4–8 hours depending on dose, with aftereffects (afterglow or hangover) persisting up to 24 hours. Individual response varies significantly based on CYP2D6 metabolic status.
 
-Approved at 10-30 mg doses (q4-8h) for cough suppression via
-medullary cough center NMDA antagonism. Available as single-
-ingredient Delsym (extended-release polistirex) and in
-combination products. Minimal side effects at therapeutic doses.
+## Medical Applications
 
-### Antidepressant (Auvelity)
+At therapeutic doses (10–30 mg), DXM acts as a cough suppressant by raising the cough threshold in the medulla. It is an ingredient in over 100 over-the-counter cold and cough preparations.
 
-FDA-approved August 2022 for MDD (DXM 45 mg / bupropion 105 mg
-BID). Bupropion inhibits CYP2D6 to increase DXM bioavailability
-and adds dopamine/norepinephrine reuptake inhibition. Significant
-improvement as early as Week 1 — distinguishing it from
-conventional antidepressants requiring 4-6 weeks. Sigma-1 agonism
-and NMDA antagonism underlie the rapid action.
+Research has investigated DXM as a rapid-acting antidepressant, particularly when combined with bupropion (as the FDA-approved drug Auvelity). The sigma-1 receptor agonism and NMDA antagonism are believed to underlie antidepressant effects, similar to the mechanism proposed for ketamine.
 
-## Toxicity and Adverse Effects
+Neuroprotective properties have been demonstrated in animal models of stroke and traumatic brain injury, though clinical applications remain investigational. DXM has also been studied for neuropathic pain and as a treatment for pseudobulbar affect.
 
-Recreational-dose adverse effects include tachycardia,
-hypertension, hyperthermia, nystagmus, ataxia, nausea, and
-vomiting. NMDA antagonism plus SERT inhibition creates
-significant serotonin syndrome risk, especially with MAOIs or
-SSRIs. Fatal MAOI interactions documented.
+## Harm Reduction and Risks
 
-Many OTC products contain acetaminophen alongside DXM.
-Hepatotoxicity risk is significant — toxic acetaminophen
-threshold (~10 g) is easily reached when abusing combination
-products. Chlorpheniramine and pseudoephedrine in combinations
-add further toxicity risk.
+At recreational doses, DXM carries several significant risks. Hyperthermia, tachycardia, hypertension, and nausea are common. The combination of serotonergic action with other serotonergic drugs can precipitate serotonin syndrome, a potentially fatal condition.
+
+Olney's lesions (vacuolization in brain neurons) were observed in rats administered very high doses, though subsequent research suggests these findings may not directly translate to humans. Nevertheless, frequent high-dose use is associated with cognitive deficits and psychological dependence.
+
+Many OTC DXM preparations contain additional active ingredients such as acetaminophen, chlorpheniramine, or guaifenesin, which become dangerously toxic at the doses needed for recreational DXM use. Harm reduction emphasizes using only pure DXM preparations (polistirex or hydrobromide).
 
 ## Legal Status
 
-Unscheduled in most countries, available OTC. US: not federally
-controlled, though several states restrict minor sales. DEA has
-considered scheduling but not acted. Australia and Sweden have
-imposed age restrictions or pharmacy-only requirements.
+DXM is unscheduled in most countries and available without prescription. In the United States, it is sold over-the-counter as a cough suppressant, though several states have implemented age restrictions on sales.
+
+Some countries have imposed restrictions: Denmark requires a prescription, and several nations limit the quantity that can be purchased at one time. The UK's Advisory Council on the Misuse of Drugs reviewed DXM in 2020 and recommended continued unscheduled status with monitoring.
+
+## Metabolism and Pharmacokinetics
+
+DXM is metabolized primarily by cytochrome P450 2D6 (CYP2D6) into dextrorphan (DXO), which has higher NMDA receptor affinity and is responsible for much of the dissociative activity. Approximately 5–10% of the population are CYP2D6 poor metabolizers, experiencing significantly stronger and longer effects at a given dose.
+
+Conversely, ultra-rapid metabolizers may experience reduced effects as DXM is converted to DXO more quickly. This pharmacogenetic variation is a critical factor in dosing and contributes to the unpredictable nature of the DXM experience across individuals.
+
+Peak plasma concentrations occur 1.5–2 hours after oral ingestion. The elimination half-life is approximately 3–4 hours for DXM and 4–5 hours for DXO. Extended-release polistirex formulations delay absorption, producing a longer but less intense effect profile.
 
 ## See Also
 
-- [[ephedrine]]
-- [[methoxetamine]]
-- [[serotonin]]
-
-- [[Ketamine]] — related dissociative anesthetic with more potent
-  NMDA antagonism and established rapid antidepressant use.
-- [[PCP]] — prototypical dissociative sharing DXM's NMDA binding
-  site within the channel pore.
-- [[Methoxetamine]] — designer dissociative derived from ketamine
-  with longer duration and different receptor profile.
-- [[Codeine]] — the opioid antitussive DXM was developed to replace.
-- [[Serotonin syndrome]] — potentially life-threatening condition
-  risked when DXM combines with serotonergic drugs.
+- [[ketamine]]
+- [[dextromethorphan]]
+- [[pcp]]
+- [[mescaline]]
+- [[psilocybin]]
+- [[muscimol]]
+- [[lsd]]
+- [[salvinorin-a]]
+- [[ibogaine]]
+- [[harmine]]
+- [[2c-b]]
+- [[ergine]]

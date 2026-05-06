@@ -109,8 +109,8 @@ Invasive potential is significant in temperate forest ecosystems outside its nat
 
 ## See Also
 
-- [[vincamine]]
-- [[vinca-major]]
+- [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
+- [[vinca-minor]]
 - [[catharanthus-roseus]]
 - [[ginkgo-biloba]]
 - [[bacopa-monnieri]]

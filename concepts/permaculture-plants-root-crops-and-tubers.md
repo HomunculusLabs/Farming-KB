@@ -110,6 +110,8 @@ While not technically root crops, several nut-producing trees serve the same cal
 
 ## See Also
 
+- [[query-what-are-the-best-ferns-for-a-shade-garden-or-food-forest]]
+
 - [[pachyrhizus-erosus]]
 
 - [[lathyrus-tuberosus]]

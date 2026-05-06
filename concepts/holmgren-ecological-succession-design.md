@@ -99,3 +99,4 @@ At Melliodora a combination of the second and third strategies has been pursued,
 - [[faires-permaculture-soil-and-sheet-mulching]]
 - [[permaculture-principle-catch-and-store-energy]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+- [[betula-pendula]]

@@ -119,7 +119,7 @@ The species name "albus" (white) refers to the pale peridium of young specimens,
 - [[pisolithus-arhizus]]
 - [[ectomycorrhizal-fungi]]
 - [[mycorrhizal-inoculation]]
-- [[reforestation-fungi]]
-- [[gasteromycetes]]
-- [[soil-rehabilitation]]
-- [[mine-site-rehabilitation]]
+- [[holzer-reforestation-after-fire]]
+- [[gasteromycetes-sacred-fungi]]
+- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
+- mine site rehabilitation

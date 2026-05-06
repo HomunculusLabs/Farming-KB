@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-Lion's Mane is an edible [[medicinal-mushroom]] belonging to the tooth fungus group within the [[Hericiaceae]] family. Named for its cascading white spines that resemble a lion's mane, it has been revered for centuries in [[traditional-chinese-medicine]] and Japanese herbalism. Modern science has identified it as one of the most potent natural [[nootropic]] substances due to its unique ability to stimulate [[nerve-growth-factor]] (NGF) synthesis. It has gained widespread popularity as a [[neuroprotective]] agent and [[adaptogen]], while remaining a prized [[culinary-mushroom]].
+Lion's Mane is an edible [[medicinal-mushroom-dietary-supplements]] belonging to the tooth fungus group within the [[Hericiaceae]] family. Named for its cascading white spines that resemble a lion's mane, it has been revered for centuries in [[medicinal-mushroom-dietary-supplements]] and Japanese herbalism. Modern science has identified it as one of the most potent natural [[nootropic-herbs-guide]] substances due to its unique ability to stimulate nerve growth factor (NGF) synthesis. It has gained widespread popularity as a [[blesching-cannabis-neurogenesis-and-neuroplasticity]] agent and [[adaptogenic-herbs-overview]], while remaining a prized [[palmer-mushroom-cooking-culinary-uses]].
 
 ## Taxonomy
 
@@ -81,7 +81,7 @@ Hericium polysaccharide (HDP) with anti-inflammatory activity; ergosterol; organ
 
 ### NGF Stimulation and Nerve Regeneration
 
-The hallmark action of Lion's Mane is stimulation of [[nerve-growth-factor]] synthesis:
+The hallmark action of Lion's Mane is stimulation of nerve growth factor synthesis:
 
 1. **Blood-brain barrier crossing:** Hericenones and erinacines upregulate NGF mRNA in the brain
 2. **Neurite outgrowth:** 40–60% enhancement of neurite extension in PC12 cells in vitro
@@ -90,7 +90,7 @@ The hallmark action of Lion's Mane is stimulation of [[nerve-growth-factor]] syn
 
 ### Cognitive Enhancement
 
-The landmark Mori et al. (2009) double-blind, placebo-controlled trial demonstrated significant cognitive improvement in subjects with [[mild-cognitive-impairment]] after 16 weeks of 3 g/day dried mushroom. Scores on the Revised Hasegawa Dementia Scale improved vs. placebo, and declined upon cessation, suggesting sustained intake is needed.
+The landmark Mori et al. (2009) double-blind, placebo-controlled trial demonstrated significant cognitive improvement in subjects with [[blesching-cannabis-neurogenesis-and-neuroplasticity]] after 16 weeks of 3 g/day dried mushroom. Scores on the Revised Hasegawa Dementia Scale improved vs. placebo, and declined upon cessation, suggesting sustained intake is needed.
 
 ### Neuroprotective Effects
 
@@ -109,7 +109,7 @@ Nagano et al. (2020) found 4 weeks of intake significantly reduced depression an
 
 ## Culinary Uses
 
-Lion's Mane is a premier [[culinary-mushroom]] with a firm, meaty texture and mild, sweet flavor compared to lobster or crab:
+Lion's Mane is a premier [[palmer-mushroom-cooking-culinary-uses]] with a firm, meaty texture and mild, sweet flavor compared to lobster or crab:
 
 - **Pan-fried** in butter with garlic, thyme, or white wine
 - **Seafood substitute** — breaded and pan-fried as vegan scallops or crab cakes
@@ -123,7 +123,7 @@ Cultivated on supplemented hardwood substrates. Common formulations include Mast
 
 ## Historical Use in Traditional Chinese Medicine
 
-In [[traditional-chinese-medicine]], Lion's Mane is called *Hóu Tóu Gū* (猴头菇, "monkey head mushroom"). Classical applications include:
+In [[medicinal-mushroom-dietary-supplements]], Lion's Mane is called *Hóu Tóu Gū* (猴头菇, "monkey head mushroom"). Classical applications include:
 
 - **Strengthening spleen and nourishing stomach** (*Jian Pi Yang Wei*) — primary indication for gastritis and ulcers
 - **Tonifying the five Zang organs** — supporting heart, liver, spleen, lung, kidney function
@@ -167,8 +167,8 @@ Consistent daily intake for 8–16 weeks appears necessary for cognitive effects
 
 ## See Also
 
-- [[reishi-mushroom]] — *Ganoderma lucidum*, premier medicinal mushroom of [[traditional-chinese-medicine]]
-- [[turkey-tail-mushroom]] — *Trametes versicolor*, immunomodulatory polysaccharide powerhouse
-- [[chaga]] — *Inonotus obliquus*, antioxidant-rich birch fungus
-- [[cordyceps]] — *Ophiocordyceps sinensis*, adaptogenic mushroom for energy and endurance
-- [[nerve-growth-factor]] — Target molecule for Lion's Mane's neurotrophic compounds
+- [[medicinal-mushroom-guide-reishi]] — *Ganoderma lucidum*, premier medicinal mushroom of [[medicinal-mushroom-dietary-supplements]]
+- [[turkey-tail-mushroom-cancer-research]] — *Trametes versicolor*, immunomodulatory polysaccharide powerhouse
+- chaga — *Inonotus obliquus*, antioxidant-rich birch fungus
+- cordyceps — *Ophiocordyceps sinensis*, adaptogenic mushroom for energy and endurance
+- nerve growth factor — Target molecule for Lion's Mane's neurotrophic compounds

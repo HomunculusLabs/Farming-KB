@@ -121,3 +121,4 @@ Replace invasive ornamentals with native species that provide similar aesthetic 
 | English ivy | Virginia creeper (Parthenocissus quinquefolia) | Native vine; fall color |
 | Japanese honeysuckle | Coral honeysuckle (Lonicera sempervirens) | Native; hummingpollinator-habitatsian olive | Serviceberry (Amelanchier laevis) | Edible berries; multi-season interest |
 | Purple loosestrife | Swamp milkweed, blue flag iris | Native wetland plants; [[pollinator-habitat]] |
+- [[prosopis-juliflora]]

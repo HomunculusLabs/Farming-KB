@@ -117,10 +117,10 @@ Monitoring programs in European parklands use systematic surveys of oak stands t
 ## See Also
 
 - [[inonotus-obliquus]]
-- [[inonotus-hispidus]]
-- [[hymenochaetaceae]]
+- [[inonotus-hispidus-entity]]
+- [[polypore-fungi-eastern-north-america]]
 - [[white-rot-fungi]]
-- [[oak-root-rot]]
-- [[polypore-fungi]]
-- [[tree-pathology]]
-- [[wood-decay-mechanisms]]
+- [[root-rot-cannabis]]
+- [[polypore-fungi-eastern-north-america]]
+- [[fungal-infections-human]]
+- [[fungi-in-the-environment-decomposition-wood-decay]]

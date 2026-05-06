@@ -175,8 +175,8 @@ As a cannabis cultivar, Blue Dream's legal status follows regional cannabis regu
 
 ## See Also
 
-- [[dj-short-blueberry]] — Indica-dominant parent strain
-- [[haze]] — Sativa parent strain
+- dj short blueberry — Indica-dominant parent strain
+- haze — Sativa parent strain
 - [[myrcene]] — Dominant terpene in Blue Dream
-- [[sativa-vs-indica]] — Cannabis taxonomy and effects spectrum
-- [[cannabis-terpenes]] — Overview of cannabis terpene science
+- [[cannabis-sativa-vs-indica-guide]] — Cannabis taxonomy and effects spectrum
+- [[cannabis-terpene-profiles]] — Overview of cannabis terpene science

@@ -113,6 +113,8 @@ Advances in understanding the molecular mechanisms of mycoparasitism, combined w
 
 ## Related
 
+- [[trichoderma-atroviride]]
+
 - [[mycorrhizal-carbon-sequestration]] Concepts
 
 - [[fungal-allelopathy-mechanisms-and-ecological-effects]]

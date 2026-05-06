@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-[[Yarrow]] is a hardy, aromatic perennial herb in the [[Asteraceae]] family, widely distributed across temperate regions of the Northern Hemisphere. Renowned for its feathery foliage and flat-topped clusters of tiny flowers, yarrow has been used in [[traditional-medicine]] for millennia. It is valued equally as a [[medicinal-herb]], a [[permaculture]] companion plant, and an ornamental garden specimen. The genus name *Achillea* honors the Greek hero Achilles, who reportedly used the plant to treat battlefield wounds.
+[[Yarrow]] is a hardy, aromatic perennial herb in the [[Asteraceae]] family, widely distributed across temperate regions of the Northern Hemisphere. Renowned for its feathery foliage and flat-topped clusters of tiny flowers, yarrow has been used in [[amazonian-medicinal-plants-reference]] for millennia. It is valued equally as a [[medicinal-herb-growing]], a [[permaculture]] companion plant, and an ornamental garden specimen. The genus name *Achillea* honors the Greek hero Achilles, who reportedly used the plant to treat battlefield wounds.
 
 ## Taxonomy
 
@@ -46,9 +46,9 @@ Several subspecies and varieties are recognized, reflecting its wide geographic 
 
 ## Morphology
 
-Yarrow is a rhizomatous perennial typically growing 30–90 cm tall. Its most distinctive feature is the finely dissected, feathery [[basal-rosette|basal]] leaves, 5–20 cm long, arranged alternately along the stem. Leaves are bipinnate or tripinnate, giving them a delicate, fern-like appearance.
+Yarrow is a rhizomatous perennial typically growing 30–90 cm tall. Its most distinctive feature is the finely dissected, feathery [[medicinal-herb-growing|basal]] leaves, 5–20 cm long, arranged alternately along the stem. Leaves are bipinnate or tripinnate, giving them a delicate, fern-like appearance.
 
-The inflorescence is a flat-topped or slightly domed corymb composed of numerous small flower heads (capitula). Each head contains 3–8 ray florets (white to pink) surrounding 10–30 yellow disk florets. Flowering occurs from June through September. The entire plant has a strong, camphoraceous aroma when crushed, due to its [[volatile-oils]].
+The inflorescence is a flat-topped or slightly domed corymb composed of numerous small flower heads (capitula). Each head contains 3–8 ray florets (white to pink) surrounding 10–30 yellow disk florets. Flowering occurs from June through September. The entire plant has a strong, camphoraceous aroma when crushed, due to its [[fungal-btex-volatile-compound-degradation]].
 
 ## Native Range and Distribution
 
@@ -81,7 +81,7 @@ Yarrow contains a diverse phytochemical profile responsible for its broad medici
 
 ## Medicinal Properties
 
-Yarrow is broadly classified as a [[wound-healing]] herb, a [[digestive-aid]], and an anti-inflammatory. Its key medicinal properties include:
+Yarrow is broadly classified as a [[blesching-cannabis-wound-care]] herb, a [[digestive-herbs-and-bitters]], and an anti-inflammatory. Its key medicinal properties include:
 
 - **Hemostatic** — Promotes blood clotting; historically applied to wounds and nosebleeds.
 - **Anti-inflammatory** — Reduces swelling and pain in musculoskeletal conditions and topical wounds.
@@ -107,11 +107,11 @@ Yarrow is a powerhouse in [[permaculture]] and ecological garden design:
 
 ### Companion Planting
 
-Yarrow is an excellent [[companion-planting]] partner. It attracts [[beneficial-insects]] including ladybugs, lacewings, hoverflies, and predatory wasps that control aphids and other pests. It is frequently interplanted with vegetables, fruit trees, and other herbs.
+Yarrow is an excellent [[companion-planting]] partner. It attracts [[query-how-do-i-design-habitat-for-beneficial-insects]] including ladybugs, lacewings, hoverflies, and predatory wasps that control aphids and other pests. It is frequently interplanted with vegetables, fruit trees, and other herbs.
 
 ### Nutrient Accumulator
 
-Yarrow is a deep-rooted dynamic accumulator, drawing minerals — particularly potassium, phosphorus, and copper — from subsoil layers and making them available through its decomposing leaf mulch. It is a key species in [[herbal-leys]] and [[chop-and-drop]] mulching systems.
+Yarrow is a deep-rooted dynamic accumulator, drawing minerals — particularly potassium, phosphorus, and copper — from subsoil layers and making them available through its decomposing leaf mulch. It is a key species in [[permaculture-plants-comfrey-chop-and-drop]] and [[permaculture-plants-comfrey-chop-and-drop]] mulching systems.
 
 ### Ground Cover and Erosion Control
 
@@ -119,7 +119,7 @@ Its spreading rhizomatous root system makes yarrow effective as a living ground 
 
 ### Pollinator Support
 
-Flat flower clusters provide an ideal landing platform for a wide range of [[pollinator-attractant|pollinators]], including bees, butterflies, and moths. It provides reliable mid-to-late-season nectar and pollen.
+Flat flower clusters provide an ideal landing platform for a wide range of [[pollinator-gardening|pollinators]], including bees, butterflies, and moths. It provides reliable mid-to-late-season nectar and pollen.
 
 ## Cultivation and Propagation
 
@@ -134,7 +134,7 @@ Yarrow is low-maintenance, deer-resistant, and generally pest-free. Overwatering
 
 ## Ecological Role
 
-Yarrow plays an important ecological role in meadow and grassland ecosystems. It provides food for a wide range of insects and is a larval host for some moth species. Its deep roots help break compacted soil and improve water infiltration. As a pioneer species, it readily colonizes disturbed ground, stabilizing soil and paving the way for successional plant communities. It is frequently included in [[ecological-restoration]] seed mixes.
+Yarrow plays an important ecological role in meadow and grassland ecosystems. It provides food for a wide range of insects and is a larval host for some moth species. Its deep roots help break compacted soil and improve water infiltration. As a pioneer species, it readily colonizes disturbed ground, stabilizing soil and paving the way for successional plant communities. It is frequently included in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] seed mixes.
 
 ## Safety and Contraindications
 
@@ -157,8 +157,8 @@ While yarrow is generally safe when used appropriately, several precautions appl
 
 ## See Also
 
-- [[chamomile]] — Related Asteraceae herb with overlapping uses
-- [[calendula]] — Wound-healing companion plant
+- [[chamomile-growing-guide]] — Related Asteraceae herb with overlapping uses
+- [[calendula-officinalis]] — Wound-healing companion plant
 - [[comfrey]] — Another dynamic accumulator and wound herb
 - [[stinging-nettle]] — Nutritive ally with complementary medicinal profile
-- [[mugwort]] — Related Artemisia species with digestive and menstrual uses
+- [[medicinal-herb-growing]] — Related Artemisia species with digestive and menstrual uses

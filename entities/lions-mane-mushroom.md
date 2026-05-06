@@ -146,7 +146,7 @@ Lion's Mane is generally regarded as safe (GRAS) with no significant adverse eff
 
 ## See Also
 
-- [[reishi-mushroom]] — *Ganoderma lucidum*, another prominent medicinal mushroom
-- [[turkey-tail-mushroom]] — *Trametes versicolor*, immunomodulatory polysaccharides
-- [[chaga]] — *Inonotus obliquus*, antioxidant powerhouse
-- [[nerve-growth-factor]] — Target molecule for neuroprotective compounds
+- [[medicinal-mushroom-guide-reishi]] — *Ganoderma lucidum*, another prominent medicinal mushroom
+- [[turkey-tail-mushroom-cancer-research]] — *Trametes versicolor*, immunomodulatory polysaccharides
+- chaga — *Inonotus obliquus*, antioxidant powerhouse
+- nerve growth factor — Target molecule for neuroprotective compounds

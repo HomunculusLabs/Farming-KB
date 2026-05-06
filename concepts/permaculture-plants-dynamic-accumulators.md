@@ -89,6 +89,11 @@ The high ash (mineral) content of tagasaste (4-10%) compared to wheat grain (2%)
 
 ## See Also
 
+- [[centaurea-cyanus]]
+
+- [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
+- [[glycine-max]]
+
 - [[permaculture-plants-ground-covers-and-accumulators]] - nutrient-accumulating ground covers
 - [[permaculture-plants-nitrogen-fixing-trees]] - nitrogen-fixing species
 - [[permaculture-plants-comfrey-chop-and-drop]] - chop-and-drop mulch systems

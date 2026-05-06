@@ -1341,3 +1341,4 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
+- [[2c-e]]

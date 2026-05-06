@@ -128,6 +128,12 @@ medicinal polypores.
 
 ## See Also
 
+- [[wolfiporia-cocos]]
+
+- [[coriolopsis-gallica]]
+- [[inonotus-dryadeus]]
+- [[sanghuangporus-vaninii]]
+
 - polypore fungi eastern north america
 - [[wood-decay-fungi]]
 - [[medicinal-mushrooms]]

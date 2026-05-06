@@ -151,6 +151,10 @@ Related: [[stamets-spawn-making-and-grain-culture]], [[agar-to-grain-wedge-trans
 
 ## See Also
 
+- [[hydnum-repens]]
+- [[oudenansiella-mucida]]
+- [[pholiota-aurivella]]
+
 - [[czech-aromatic-decorative-mushroom-legal-loophole]]
 - [[free-spore-ring-europe-mushroom-cultivation-network]]
 - [[hallucinogenic-mushroom-smoking-and-alternative-administration-routes]]

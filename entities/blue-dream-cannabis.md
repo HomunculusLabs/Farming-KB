@@ -139,7 +139,7 @@ The myrcene-forward profile with moderate β-caryophyllene and linalool creates 
 ## See Also
 
 - [[blueberry-cannabis]] — Indica parent strain
-- [[haze-cannabis]] — Sativa parent strain
+- [[purple-haze-cannabis]] — Sativa parent strain
 - [[myrcene]] — Dominant terpene
-- [[cannabis-chemotypes]] — Classification by cannabinoid profile
-- [[entourage-effect]] — Synergistic cannabinoid-terpene interaction
+- [[cannabis-phenotype-and-genotype-guide]] — Classification by cannabinoid profile
+- [[cannabinoid-terpene-entourage-effect]] — Synergistic cannabinoid-terpene interaction

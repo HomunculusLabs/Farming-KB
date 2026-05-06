@@ -141,6 +141,13 @@ These have distinctive features and few or no deadly lookalikes:
 6. **Hen of the Woods** — gray-brown clustered mass at base of oak trees, pores underneath
 ---
 ## See Also
+
+- [[orellanine]]
+
+- [[coprinellus-disseminatus]]
+
+- [[lactarius-piperatus]]
+- [[omphalotus-illudens]]
 - [[mushroom-identification]] -- systematic ID features, microscopy, field guides
 - [[mushroom-toxicity-identification-warnings]] -- detailed lookalike comparison table
 - [[edible-wild-mushrooms-by-region]] -- seasonal foraging guide with species profiles

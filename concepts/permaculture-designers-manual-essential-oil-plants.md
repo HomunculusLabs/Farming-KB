@@ -109,7 +109,10 @@ Timing of harvest significantly affects essential oil yield and quality. Most ar
 
 Post-harvest handling is critical for leaf and flower crops. Material should be distilled as quickly as possible after harvest — wilting reduces oil content. If distillation must be delayed, plant material should be dried in shade with good airflow rather than in direct sun, which volatilizes the most valuable aromatic compounds. For root-based oils such as vetiver, roots are typically harvested at 18-24 months, washed, chopped, and dried before distillation.
 
-## Related Topics
+## Related
+
+- [[cymbopogon-martinii]]
+- [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]] Topics
 
 - [[permaculture-designers-manual-beekeeping]] - pollination of aromatic plants
 - [[permaculture-designers-manual-crafts-and-income]] - income from essential oils

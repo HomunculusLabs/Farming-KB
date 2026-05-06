@@ -113,8 +113,8 @@ The species is compatible with mycorrhizal fungi and beneficial rhizobacteria, m
 - [[trichoderma-harzianum]]
 - [[trichoderma-reesei]]
 - [[trichoderma-viride]]
-- [[mycoparasitism]]
-- [[biological-control-agents]]
+- [[fungal-mycoparasitism-and-biocontrol-interactions]]
+- [[fungal-mycoparasitism-and-biocontrol-interactions]]
 - [[soil-food-web]]
-- [[induced-systemic-resistance]]
-- [[hypocreales]]
+- [[endophytic-mycorrhizal-induced-systemic-resistance]]
+- hypocreales

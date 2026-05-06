@@ -1,120 +1,156 @@
 ---
-title: "Purple Haze"
-created: 2026-04-28
+title: "Cannabis Strain Profiles: Purple Haze"
 type: strain
-tags: [cannabis, sativa, landrace-hybrid, classic-strain, psychedelic, 1960s]
+tags: [cannabis, strain, sativa, psychedelic, landrace, vietnam, colombia, thailand]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Earl, D. & Watson, D. (2023). The Cannabible 3. Green Candy Press."
-  - "Clarke, R.C. (1998). Hashish! Red Eye Press."
-  - "Emboden, W. (1972). Narcotic Plants. Studio Vista."
-  - "Leafly Strain Database. purple-haze. Accessed 2026."
+  - "Clarke, R.C. (1981). Marijuana Botany. Ronin Publishing."
+  - "ElSohly, M.A. et al. (2016). 'Changes in cannabis potency over the last two decades.' Biological Psychiatry, 79(7), 613-619."
+  - "Small, E. & Cronquist, A. (1976). 'A practical and natural taxonomy for Cannabis.' Taxon, 25(4), 405-435."
 ---
 
 # Purple Haze (Cannabis Strain)
 
-## Overview
+**Purple Haze** is a legendary **sativa-dominant cannabis strain** that became an icon of 1960s counterculture. Named after Jimi Hendrix's 1967 song of the same name, it is a landrace cross that combines the genetics of **Southeast Asian** and **South American** varieties.
 
-**Purple Haze** is a legendary cannabis strain that rose to cultural prominence in the 1960s, inextricably linked to the Jimi Hendrix song of the same name. It is a sativa-dominant hybrid believed to originate from a cross between **Purple Thai** (a Southeast Asian landrace) and **Haze** (a classic sativa bred in Northern California during the 1970s). Known for its vivid purple coloration, sweet berry aroma, and uplifting cerebral effects, Purple Haze remains one of the most iconic cannabis strains in history.
+## Genetic Profile
 
-## Genetic Lineage
+| Attribute | Detail |
+|---|---|
+| **Type** | Sativa-dominant (approximately 85% sativa / 15% indica) |
+| **Lineage** | Purple Thai (landrace) × Haze (Colombian × Mexican × Thai × Afghan) |
+| **Breeder** | Sam the Skunkman (originally cultivated in the 1960s–70s) |
+| **THC Content** | 14–20% (historically 8–12%) |
+| **CBD Content** | < 0.1% (negligible) |
+| **Flowering Time** | 9–10 weeks (indoor), mid-October (outdoor) |
+| **Yield** | Moderate (350–450 g/m² indoor) |
 
-```
-Purple Thai (Landrace sativa — Southeast Asia)
-    ×
-Haze (Colombian × Mexican × Thai × Afghani)
-    │
-    └── Purple Haze (Sativa-dominant hybrid)
-```
+The original Purple Haze genetics are considered largely **lost to cultivation**. Modern strains sold under this name are typically recreations that attempt to replicate the original phenotype, often crossing Purple Thai derivatives with Haze varieties.
 
-### Parent Strains
+## Terpene Profile
 
-**Purple Thai:** A pure or near-pure sativa landrace from Thailand, characterized by its dark purple pigmentation and tropical fruit flavors. It was one of the original "purple" strains that contributed color genetics to many modern hybrids.
+| Terpene | % of Total | Aroma/Effect Contribution |
+|---|---|---|
+| **Myrcene** | 0.5–1.2% | Earthy, herbal; sedative base note |
+| **Caryophyllene** | 0.3–0.8% | Peppery, spicy; anti-inflammatory |
+| **Limonene** | 0.2–0.6% | Citrus; mood elevation, stress relief |
+| **Pinene** | 0.1–0.4% | Pine; alertness, bronchodilation |
+| **Linalool** | 0.05–0.2% | Floral; calming, anxiolytic |
+| **Humulene** | 0.05–0.15% | Woody, earthy; appetite suppressant |
 
-**Haze:** Developed in the Santa Cruz, California area in the early 1970s, Haze is a complex polyhybrid combining Colombian, Mexican, Thai, and Afghani genetics. It became the genetic backbone for countless sativa-dominant hybrids and is considered one of the most important breeding lines in cannabis history.
-
-## Phenotype and Appearance
-
-True Purple Haze exhibits striking visual characteristics:
-
-- **Buds:** Medium to large, elongated and somewhat airy (typical of sativa-dominant strains)
-- **Color:** Deep violet to royal purple hues throughout the calyxes, with vibrant orange pistils and a generous coating of translucent trichomes. The purple coloration is caused by **anthocyanin** pigments activated by cooler growing temperatures (similar to autumn foliage color changes).
-- **Trichome coverage:** Dense, giving buds a frosty, crystalline appearance
-- **Leaf structure:** Long, narrow finger-like leaves characteristic of sativa genetics
-
-## Aroma and Flavor Profile
-
-Purple Haze delivers a complex and memorable sensory experience:
-
-- **Aroma:** Sweet, earthy notes of wild berries and grapes, underpinned by subtle spicy and herbal undertones. Some phenotypes express a distinctly tropical or citrus-forward nose.
-- **Flavor:** On inhalation, a smooth berry sweetness dominates, followed by earthy, slightly woody notes on exhalation. The smoke is typically described as smooth and not overly harsh.
-- **Terpene profile:** Dominated by **myrcene** (herbal, musky), **caryophyllene** (peppery, spicy), and **humulene** (earthy, woody), with secondary contributions from **linalool** (floral) and **pinene** (pine).
-
-## Cannabinoid Profile
-
-- **THC:** 18–22% (modern commercial cuts; original landrace versions were significantly lower, estimated 8–12%)
-- **CBD:** Very low, typically < 0.1%
-- **CBG:** Trace amounts
+The dominant aromatic character is a blend of **sweet berry** (from the Purple Thai parent) and **spicy, earthy haze** notes.
 
 ## Effects
 
-Purple Haze is celebrated for its **euphoric, cerebral, and energizing** effects, consistent with its sativa-dominant heritage:
-
 ### Primary Effects
-- **Euphoria** — Intense feelings of happiness and well-being
-- **Creativity** — Enhanced creative thinking and artistic inspiration
-- **Energy** — Uplifting, motivating stimulation without significant anxiety
-- **Focus** — Mild improvement in concentration for some users (though distraction is common at higher doses)
+- **Cerebral stimulation** — creative energy, mental clarity, euphoria
+- **Psychedelic quality** — enhanced sensory perception, visual richness, mild hallucinatory effects at higher doses
+- **Euphoria** — uplifting, socially engaging, talkative
+- **Energy** — motivating without jitters, suitable for daytime use
+- **Creativity** — enhanced divergent thinking, artistic inspiration
 
 ### Secondary Effects
-- **Social enhancement** — Loosened inhibitions and increased chattiness
-- **Sensory enhancement** — Heightened appreciation of music, art, and food
-- **Mild body relaxation** — A gentle physical ease that complements the cerebral stimulation
+- Mild body relaxation (from the 15% indica component)
+- Increased appetite
+- Heightened appreciation of music and art
+- Time perception alterations
 
-### Potential Negative Effects
-- Dry mouth and dry eyes (common across most cannabis strains)
-- Mild anxiety or paranoia at high doses (less pronounced than in many modern high-THC hybrids)
-- Dizziness in sensitive individuals
-- Couch-lock is rare but possible at very high doses
+### Potential Negatives
+- Anxiety or paranoia at high doses (especially in anxiety-prone individuals)
+- Dry mouth and dry eyes (common to most cannabis strains)
+- Mild dizziness in unaccustomed users
+- Insomnia if consumed too late in the day (despite sativa dominance)
 
-## Medicinal Applications
+## Appearance
 
-While primarily a recreational strain, Purple Haze has been used medicinally for:
+The defining visual characteristic is the **purple coloration** that develops under cool nighttime temperatures (below 15°C / 59°F during flowering):
 
-- **Mild depression** — The euphoric and mood-elevating effects can provide temporary relief
-- **Fatigue** — Energizing properties help combat low energy and lethargy
-- **Stress relief** — Calming cerebral effects without heavy sedation
-- **ADHD symptom management** — Some patients report improved focus (anecdotal)
-- **Mild pain** — Anti-inflammatory terpenes provide modest analgesic effects
+- **Buds:** Dense, elongated, medium-to-large with prominent calyxes
+- **Color:** Deep violet to lavender purple intermixed with bright green; orange pistils woven throughout
+- **Trichomes:** Abundant, frosty white to amber
+- **Structure:** Looser sativa bud structure with visible bract formation
+- **Leaves:** Narrow sativa-type leaves, some exhibiting purple hues
 
-## Cultivation
+The purple coloration is caused by **anthocyanin pigments** (primarily delphinidin and cyanidin derivatives) that accumulate in response to cold stress. This is a genetic trait inherited from the Purple Thai landrace parent.
+
+## Lineage Deep Dive
+
+### Purple Thai Parent
+A pure **landrace sativa** from Thailand, characterized by:
+- Long flowering period (14+ weeks in native climate)
+- Distinctive purple coloration in cooler conditions
+- Sweet, fruity aroma profile
+- Tall, lanky growth structure
+- High THC content with energetic, psychedelic effects
+
+### Haze Parent
+One of the most influential cannabis breeding lines, developed in Northern California in the 1960s-70s by the **Haze Brothers** (and further refined by Sam the Skunkman in the Netherlands):
+
+- Complex **4-way cross**: Colombian Gold × Mexican × Thai × Afghan
+- Extremely long flowering (12–14 weeks)
+- Potent psychedelic cerebral effects
+- Spicy, earthy, incense-like aroma
+- Foundation of countless modern sativa-dominant strains
+
+## Medical Applications
+
+- **Depression** — mood-elevating properties help manage depressive symptoms
+- **Fatigue** — energizing effects combat daytime lethargy
+- **ADHD** — some patients report improved focus (anecdotal)
+- **Stress relief** — euphoric effects reduce perceived stress
+- **Mild pain** — anti-inflammatory terpenes provide modest analgesia
+- **PTSD** — psychedelic effects may facilitate emotional processing (anecdotal; not clinically established)
+
+## Cultivation Notes
 
 ### Growing Difficulty: Moderate to Difficult
 
-Purple Haze can be challenging for novice cultivators due to its sativa characteristics:
+Challenges include the long flowering period, tall growth requiring space management, and the sensitivity of purple coloration to environmental conditions.
 
-- **Flowering time:** 9–11 weeks (relatively long)
-- **Yield:** Moderate (400–500 g/m² indoors)
-- **Height:** Can grow very tall (2m+ outdoors); requires training or topping
-- **Climate:** Prefers warm, Mediterranean-like conditions; cooler night temperatures during late flowering promote purple coloration
-- **Nutrient needs:** Moderate feeder; sensitive to over-fertilization, particularly nitrogen during flowering
+### Key Parameters
+
+| Parameter | Recommendation |
+|---|---|
+| **Photoperiod** | 12/12 for flowering (responsive to short days) |
+| **Temperature (day)** | 24–28°C |
+| **Temperature (night)** | 15–18°C for purple coloration |
+| **Humidity (veg)** | 50–70% |
+| **Humidity (flower)** | 40–50% |
+| **Nutrients** | Moderate N during veg; increased P/K during flowering |
+| **Training** | SCRoG, LST, or supercropping recommended for height control |
+| **Support** | Netting or trellis needed for tall colas |
 
 ### Color Enhancement
-
-To achieve the characteristic purple hue, growers reduce nighttime temperatures to 10–15°C during the final 2–3 weeks of flowering. This triggers anthocyanin production. Note that color is aesthetic and does not reliably indicate potency.
+To maximize purple expression:
+- Reduce nighttime temperatures to 10–15°C during weeks 5–8 of flowering
+- Avoid nitrogen excess (can mask anthocyanin expression)
+- Ensure adequate phosphorus for pigment development
+- Genetic factor is primary — not all phenotypes will express purple
 
 ## Cultural Significance
 
-Purple Haze occupies a unique place in cannabis culture. Jimi Hendrix's 1967 song "Purple Haze" — while reportedly inspired by a dream rather than the strain itself — became permanently associated with the cannabis variety. The strain became a symbol of the 1960s counterculture and psychedelic movement, and its name has since been referenced in countless songs, films, and works of art.
+Purple Haze occupies a unique position in cannabis culture:
+- **Name recognition** — arguably the most famous cannabis strain name globally
+- **1960s icon** — synonymous with psychedelic counterculture
+- **Music** — immortalized by Jimi Hendrix's 1967 psychedelic rock anthem
+- **Pop culture** — referenced in countless films, books, and artworks
+- **Genetic legacy** — parent or ancestor to hundreds of modern hybrid strains
 
-## Authenticity Concerns
+## Modern Availability
 
-True, genetically authentic Purple Haze is increasingly rare in commercial markets. Many strains sold under this name are actually **Purple Urkle**, **Granddaddy Purple**, or other purple-colored hybrids with different genetic backgrounds. Authentic Purple Haze genetics are preserved by a small number of dedicated breeders and seed banks.
+True Purple Haze genetics are rare. Most modern "Purple Haze" offerings are:
+1. **Recreations** — breeders crossing Purple Thai derivatives with Haze varieties
+2. **Purple strains** rebranded — any purple-colored strain may be marketed as Purple Haze
+3. **Hybrid crosses** — often containing some Haze lineage but significantly different from the original
+
+Notable related strains that carry Purple Haze genetics:
+- **Purple Haze × Northern Lights** — reduced flowering time, increased yield
+- **Amnesia Haze** — related Haze lineage, similar effects
+- **Super Silver Haze** — Haze descendant, three-time Cannabis Cup winner
 
 ## See Also
 
-- [[granddaddy-purple]] — popular modern purple indica strain
-- haze — the foundational sativa parent strain
-- [[cannabis-health-thc-tetrahydrocannabinol]] — primary psychoactive cannabinoid
-- [[cannabis-terpene-profiles]] — plant pigments responsible for purple coloration
+- [[cannabis-sativa]] — Cannabis sativa species overview
+- [[cannabis-indica]] — Cannabis indica species overview
+- [[landrace-strains]] — Indigenous cannabis populations

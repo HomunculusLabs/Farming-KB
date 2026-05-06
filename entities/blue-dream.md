@@ -23,16 +23,16 @@ sources:
 
 ## Overview
 
-[[Blue Dream]] is one of the most popular and widely recognized [[cannabis]] strains in the United States and beyond. A sativa-dominant [[hybrid]], Blue Dream has earned legendary status for delivering a balanced experience that combines an uplifting cerebral high with gentle full-body relaxation. Its accessibility, consistent effects, and agreeable flavor profile have made it a staple in both recreational and medical [[cannabis]] markets since the early 2000s.
+[[Blue Dream]] is one of the most popular and widely recognized cannabis strains in the United States and beyond. A sativa-dominant hybrid, Blue Dream has earned legendary status for delivering a balanced experience that combines an uplifting cerebral high with gentle full-body relaxation. Its accessibility, consistent effects, and agreeable flavor profile have made it a staple in both recreational and medical cannabis markets since the early 2000s.
 
-Blue Dream is often recommended as a beginner-friendly strain due to its moderate onset and well-rounded effects. It occupies a sweet spot between pure [[sativa]] energy and heavy [[indica]] sedation, making it versatile for a wide range of users and situations.
+Blue Dream is often recommended as a beginner-friendly strain due to its moderate onset and well-rounded effects. It occupies a sweet spot between pure sativa energy and heavy indica sedation, making it versatile for a wide range of users and situations.
 
 ## Genetic Lineage
 
 Blue Dream is a cross between two iconic strains:
 
-- **Blueberry** (female) — An [[indica]]-dominant strain bred by [[DJ Short]] in the 1970s, renowned for its deep purple hues and sweet berry flavor. Blueberry won the High Times Cannabis Cup in 2000 for Best Indica.
-- **Haze** (male) — A classic [[sativa]] landrace-influenced strain with origins tracing to Mexico, Colombia, Thailand, and possibly India. Haze provides the uplifting, energetic head high characteristic of Blue Dream.
+- **Blueberry** (female) — An indica-dominant strain bred by [[DJ Short]] in the 1970s, renowned for its deep purple hues and sweet berry flavor. Blueberry won the High Times Cannabis Cup in 2000 for Best Indica.
+- **Haze** (male) — A classic sativa landrace-influenced strain with origins tracing to Mexico, Colombia, Thailand, and possibly India. Haze provides the uplifting, energetic head high characteristic of Blue Dream.
 
 This pairing brings together the resin production and fruity terpene profile of Blueberry with the cerebral stimulation and soaring potency of Haze, resulting in a hybrid that captures the best qualities of both parent lines.
 
@@ -67,7 +67,7 @@ Blue Dream is notably low in [[CBD]], meaning its therapeutic benefits come prim
 
 Blue Dream's sensory profile is one of its most celebrated attributes:
 
-- **Aroma:** Sweet blueberry with undertones of earthy vanilla and subtle herbal notes. When ground, a sharper, slightly peppery quality from [[caryophyllene]] emerges.
+- **Aroma:** Sweet blueberry with undertones of earthy vanilla and subtle herbal notes. When ground, a sharper, slightly peppery quality from caryophyllene emerges.
 - **Flavor:** Smooth and fruity on the inhale, dominated by ripe blueberry sweetness with a creamy, vanilla-like finish. The exhale reveals earthy, herbal undertones with a faint hint of lavender. Many users describe it as reminiscent of a blueberry muffin or fresh berry cobbler.
 
 The flavor is generally considered smooth and non-harsh, contributing to Blue Dream's broad appeal.
@@ -91,7 +91,7 @@ The high is typically long-lasting (2–3 hours) with a gradual, smooth comedown
 
 ## Medical Applications
 
-Blue Dream is widely used in medical [[cannabis]] programs for a variety of conditions:
+Blue Dream is widely used in medical cannabis programs for a variety of conditions:
 
 - **Chronic pain:** Effective for mild to moderate pain, including back pain, arthritis, and nerve discomfort
 - **Depression and anxiety:** The uplifting cerebral effects can help alleviate symptoms of depression; low doses may reduce social anxiety
@@ -120,13 +120,13 @@ Nutrient requirements are moderate — Blue Dream is not a heavy feeder but bene
 
 ## History and Origin
 
-Blue Dream emerged in Northern [[California]] in the early to mid-2000s, during the state's burgeoning medical [[cannabis]] era. Its exact origins are somewhat debated, but it is widely accepted to have been created by crossing [[DJ Short]]'s celebrated Blueberry (an Afghani-indica cross developed in the Pacific Northwest during the 1970s) with a Haze male.
+Blue Dream emerged in Northern [[California]] in the early to mid-2000s, during the state's burgeoning medical cannabis era. Its exact origins are somewhat debated, but it is widely accepted to have been created by crossing [[DJ Short]]'s celebrated Blueberry (an Afghani-indica cross developed in the Pacific Northwest during the 1970s) with a Haze male.
 
-The strain gained traction in California's medical dispensaries before spreading to recreational markets as legalization expanded. Its rise paralleled the growth of California's cannabis industry, and it became one of the most commonly carried strains on dispensary shelves across the state. By the 2010s, Blue Dream had achieved near-ubiquitous status in legal [[cannabis]] markets throughout the US.
+The strain gained traction in California's medical dispensaries before spreading to recreational markets as legalization expanded. Its rise paralleled the growth of California's cannabis industry, and it became one of the most commonly carried strains on dispensary shelves across the state. By the 2010s, Blue Dream had achieved near-ubiquitous status in legal cannabis markets throughout the US.
 
 ## Popularity and Awards
 
-Blue Dream has consistently ranked among the top-selling strains in legal [[cannabis]] markets. Notable recognition includes:
+Blue Dream has consistently ranked among the top-selling strains in legal cannabis markets. Notable recognition includes:
 
 - **Leafly Strain of the Year** — multiple years, including 2015 and 2016
 - **High Times** Top 10 Strains of the Year — numerous listings
@@ -162,9 +162,9 @@ Starting with a low dose (1–2 puffs) and waiting 15 minutes before consuming m
 
 ## Legal Considerations
 
-The legal status of Blue Dream follows that of [[cannabis]] generally:
+The legal status of Blue Dream follows that of cannabis generally:
 
-- **United States:** Legal for medical use in states with medical [[cannabis]] programs and for recreational use in states that have legalized adult-use [[cannabis]] (as of 2026, this includes California, Colorado, Oregon, Washington, Nevada, Illinois, Michigan, New York, and others). It remains a Schedule I controlled substance at the federal level.
+- **United States:** Legal for medical use in states with medical cannabis programs and for recreational use in states that have legalized adult-use cannabis (as of 2026, this includes California, Colorado, Oregon, Washington, Nevada, Illinois, Michigan, New York, and others). It remains a Schedule I controlled substance at the federal level.
 - **Canada:** Legal nationwide for both medical and recreational use under the Cannabis Act.
 - **Europe:** Legal status varies by country. Available through medical programs in Germany, the Netherlands, and others. Recreational use is decriminalized or tolerated in some jurisdictions.
 - **Other regions:** Legal status varies widely; users should consult local regulations.

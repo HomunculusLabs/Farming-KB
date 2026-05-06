@@ -133,6 +133,6 @@ Excellent under fruit trees, and with tomatoes, peppers, cucumbers, and potatoes
 ## See Also
 
 - [[dynamic-accumulators]] — Plants that mine and concentrate soil nutrients
-- [[boraginaceae]] — Borage family
-- [[permaculture-guilds]] — Polycultural plant groupings
-- [[allantoin]] — Cell-proliferating compound in comfrey
+- boraginaceae — Borage family
+- [[permaculture-plant-guilds]] — Polycultural plant groupings
+- [[symphytum-officinale]] — Cell-proliferating compound in comfrey

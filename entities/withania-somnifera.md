@@ -126,5 +126,5 @@ A 2019 meta-analysis of 12 RCTs (n=1,202) found significant reduction in perceiv
 
 - [[rhodiola-rosea]] — Another well-studied adaptogenic herb
 - [[panax-ginseng]] — Traditional adaptogen from East Asian medicine
-- [[withanolides]] — Steroidal lactone class of bioactive compounds
-- [[adaptogens]] — Concept of stress-modulating substances
+- withanolides — Steroidal lactone class of bioactive compounds
+- [[adaptogenic-herbs-overview]] — Concept of stress-modulating substances

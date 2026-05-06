@@ -140,5 +140,5 @@ better in humid climates and where thermal mass is most beneficial.
 - [[comparison-wattle-and-daub-vs-cob-construction]]
 - [[comparison-lime-plaster-vs-earthen-plaster]]
 - [[query-how-do-i-build-with-hempcrete]]
-- [[wattle-and-daub-construction]]
-- [[natural-plasters-and-earthen-wall-finishes]]
+- [[comparison-wattle-and-daub-vs-cob-construction]]
+- [[earth-plaster-and-natural-finishes]]

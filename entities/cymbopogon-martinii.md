@@ -131,10 +131,10 @@ Distillation is typically performed within 2–4 hours of harvest for maximum oi
 ## See Also
 
 - [[cymbopogon-citratus]]
-- [[lemongrass]]
+- [[permaculture-designers-manual-essential-oil-plants]]
 - [[geraniol]]
-- [[essential-oil-plants]]
-- [[medicinal-grasses]]
-- [[aromatherapy-compounds]]
-- [[tropical-permaculture-plants]]
-- [[poaceae]]
+- [[permaculture-designers-manual-essential-oil-plants]]
+- [[permaculture-designers-manual-essential-oil-plants]]
+- aromatherapy compounds
+- [[permaculture-plants-dynamic-accumulators]]
+- poaceae

@@ -129,6 +129,8 @@ Mycorrhizal fungi form symbiotic relationships with plant roots — the fungi ge
 
 ## See Also
 
+- [[pisolithus-albus]]
+
 - [[james-trappe]]
 
 - [[soil-food-web-nutrient-cycling]] — where mycorrhizae fit in the ecosystem
