@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**985 pages**
+**995 pages**
 
 ## A
 
@@ -28,6 +28,7 @@
 - [[comparison-aeroponics-vs-aquaponics]]
 - [[comparison-aeroponics-vs-hydroponics]]
 - [[comparison-agar-vs-liquid-culture]]
+- [[comparison-agave-vs-prickly-pear-cultivation]]
 - [[comparison-alkaloids-vs-flavonoids-vs-terpenes]]
 - [[comparison-alley-cropping-vs-silvopasture]]
 - [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]
@@ -96,6 +97,7 @@
 - [[comparison-bsf-composting-vs-hot-composting]]
 - [[comparison-bsf-farming-vs-vermicomposting]]
 - [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
+- [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
 - [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]
 - [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
 - [[comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide]]
@@ -248,6 +250,7 @@
 - [[comparison-kratky-vs-dwc]]
 - [[comparison-lab-serum-vs-compost-tea]]
 - [[comparison-lacto-fermentation-vs-canning]]
+- [[comparison-lacto-fermentation-vs-kombucha]]
 - [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - [[comparison-lime-plaster-vs-earthen-plaster]]
@@ -262,6 +265,7 @@
 - [[comparison-living-soil-vs-hydroponic]]
 - [[comparison-lollipopping-vs-cannabis-pruning-and-defoliation]]
 - [[comparison-lollipopping-vs-supercropping]]
+- [[comparison-loquat-vs-persimmon-cultivation]]
 - [[comparison-main-lining-vs-screen-of-green]]
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 - [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
@@ -294,6 +298,7 @@
 - [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
 - [[comparison-neem-oil-vs-diatomaceous-earth]]
 - [[comparison-neem-oil-vs-pyrethrin]]
+- [[comparison-nettle-vs-comfrey]]
 - [[comparison-nft-vs-dwc]]
 - [[comparison-nft-vs-ebb-and-flow]]
 - [[comparison-no-till-vs-conventional-tillage]]
@@ -527,6 +532,7 @@
 - [[query-can-fungi-break-down-plastic-pollution]]
 - [[query-can-fungi-clean-up-oil-spills]]
 - [[query-can-moringa-be-used-for-water-purification]]
+- [[query-can-you-kombucha-ferment-things-other-than-tea]]
 - [[query-can-you-reveg-a-cannabis-plant-after-harvest]]
 - [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
 - [[query-difference-between-photoperiod-and-autoflowering-cannabis]]
@@ -726,6 +732,7 @@
 - [[query-how-to-fix-zinc-deficiency-in-cannabis]]
 - [[query-how-to-germinate-cannabis-seeds]]
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
+- [[query-how-to-grow-and-use-stinging-nettle]]
 - [[query-how-to-grow-ashwagandha-at-home]]
 - [[query-how-to-grow-avocados-in-cold-climates]]
 - [[query-how-to-grow-cannabis-in-an-aquaponics-system]]
@@ -842,6 +849,7 @@
 - [[query-spore-syringes-vs-liquid-culture]]
 - [[query-what-are-adaptogenic-herbs-and-how-do-i-grow-them]]
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
+- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
 - [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
@@ -858,6 +866,7 @@
 - [[query-what-are-the-benefits-of-no-till-gardening]]
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
 - [[query-what-are-the-best-companion-plants-for-cannabis]]
+- [[query-what-are-the-best-crops-for-a-desert-food-forest]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]
 - [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
 - [[query-what-are-the-best-fig-varieties-for-different-climates]]
@@ -938,6 +947,7 @@
 - [[query-what-is-integrated-pest-management-for-organic-gardens]]
 - [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]]
 - [[query-what-is-jadam-farming-and-how-does-it-work]]
+- [[query-what-is-jujube-and-how-do-i-grow-it]]
 - [[query-what-is-korean-natural-farming-and-how-does-it-work]]
 - [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
 - [[query-what-is-living-mulch-and-when-should-i-use-it]]
@@ -1036,8 +1046,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[comparison-loquat-vs-persimmon-cultivation]]
-- [[comparison-nettle-vs-comfrey]]
-- [[energy-efficiency-farming-systems-comparison]]
-- [[query-how-to-grow-and-use-stinging-nettle]]
-- [[query-what-is-jujube-and-how-do-i-grow-it]]

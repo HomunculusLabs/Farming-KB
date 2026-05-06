@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**848 pages**
+**849 pages**
 
 ## A
 
@@ -70,6 +70,7 @@
 - [[clay-pellet-seed-encapsulation]]
 - [[clay-seed-balls-tsuchi-dango]]
 - [[clay-seed-pellets]]
+- [[clay-seed-pellets-direct-seeding]]
 - [[cleve-backster-plant-perception-experiments]]
 - [[climate-and-microclimate-management]]
 - [[clubroot-disease-management]]
@@ -929,4 +930,3 @@
 ## Z
 
 - [[zone-1-intensive-garden]]
-- [[clay-seed-pellets-direct-seeding]]

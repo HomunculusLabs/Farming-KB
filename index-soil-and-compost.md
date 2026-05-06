@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**388 pages**
+**389 pages**
 
 ## A
 
@@ -296,6 +296,7 @@
 - [[no-till-grain-growing]]
 - [[no-till-grain-growing-methods]]
 - [[no-till-grain-strategy]]
+- [[no-till-rice-barley-succession]]
 - [[no-till-rice-winter-grain-succession]]
 - [[no-tillage-grain-systems]]
 - [[no-tillage-rice-barley-succession-cropping]]
@@ -457,4 +458,3 @@
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
 - [[wormery-construction]]
-- [[liebig-law-of-minimum]]

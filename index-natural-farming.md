@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**843 pages**
+**845 pages**
 
 ## A
 
@@ -336,6 +336,7 @@
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-philosophy-eating]]
 - [[fukuoka-philosophy-in-practice]]
+- [[fukuoka-philosophy-non-causality-nature]]
 - [[fukuoka-philosophy-of-mu-and-nature]]
 - [[fukuoka-philosophy-of-non-intervention]]
 - [[fukuoka-phyllotaxy-natural-branching-law]]
@@ -748,6 +749,7 @@
 
 - [[lactic-acid-bacteria-knf]]
 - [[lactic-acid-bacteria-natural-farming]]
+- [[liebig-law-of-minimum-critique-natural-farming]]
 
 ## M
 
@@ -900,5 +902,3 @@
 - [[ultra-low-jadam-sulfur-js]]
 - [[ultra-low-jadam-wetting-agent-jwa]]
 - [[ultra-low-water-softening-for-pesticide-efficacy]]
-- [[fukuoka-philosophy-non-causality-nature]]
-- [[liebig-law-of-minimum-critique-natural-farming]]
