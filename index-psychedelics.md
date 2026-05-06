@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1261 pages**
+**1262 pages**
 
 ## #
 
@@ -266,6 +266,7 @@
 - [[fukuoka-natural-livestock-integration-philosophy]]
 - [[fukuoka-road-spiritual-aspects-farming]]
 - [[fukuoka-somalia-desert-greening-mission]]
+- [[fukuoka-somalia-refugee-gardens-desert-revegetation]]
 - [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-spiritual-philosophy-farming]]
 - [[fukuoka-textdoc-absence-no-fertilizer-tests]]

@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**848 pages**
+**851 pages**
 
 ## A
 
@@ -205,8 +205,10 @@
 - [[fukuoka-indian-agriculture-observations]]
 - [[fukuoka-innocence-of-children]]
 - [[fukuoka-insects-create-new-rice-varieties]]
+- [[fukuoka-intermediate-species-sink-float-hypothesis]]
 - [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]
 - [[fukuoka-italian-agriculture-observations]]
+- [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]]
 - [[fukuoka-japan-postwar-agriculture]]
 - [[fukuoka-japanese-cooking-culture-disappearing]]
 - [[fukuoka-japanese-diet-worse]]
@@ -311,6 +313,7 @@
 - [[fukuoka-no-tillage-rice-barley-succession]]
 - [[fukuoka-no-weeding-no-pesticides]]
 - [[fukuoka-observation-based-farming]]
+- [[fukuoka-oil-companies-international-seed-war]]
 - [[fukuoka-old-rice-variety-testing]]
 - [[fukuoka-one-straw-revolution-conclusion]]
 - [[fukuoka-one-straw-revolution-impact]]

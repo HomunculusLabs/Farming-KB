@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1060 pages**
+**1062 pages**
 
 ## A
 
@@ -351,6 +351,7 @@
 - [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
 - [[comparison-persimmon-vs-pawpaw]]
 - [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
+- [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]]
 - [[comparison-phytoextraction-vs-phytostabilization]]
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[comparison-pigeon-pea-vs-cowpea]]
@@ -730,6 +731,7 @@
 - [[query-how-does-crop-rotation-improve-soil-health]]
 - [[query-how-does-foliar-feeding-work-for-cannabis]]
 - [[query-how-does-hemoglobin-know-when-to-release-oxygen]]
+- [[query-how-does-induced-systemic-resistance-work-and-how-can-biocontrol-agents-trigger-it]]
 - [[query-how-does-keyline-design-work-in-permaculture]]
 - [[query-how-does-kombucha-brewing-work]]
 - [[query-how-does-lacto-fermentation-work-for-food-preservation]]

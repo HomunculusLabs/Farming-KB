@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2165 pages**
+**2179 pages**
 
 ## #
 
@@ -331,6 +331,7 @@
 - [[arthrobotrys-oligospora]]
 - [[arthrospira-platensis]]
 - [[arthur-heffter]]
+- [[artocarpus-heterophyllus]]
 - [[arundinaria-gigantea]]
 - [[arundo-donax]]
 - [[asb-entity]]
@@ -383,6 +384,7 @@
 - [[benjamin-duggar]]
 - [[berberine]]
 - [[berberis-vulgaris]]
+- [[bertholletia-excelsa]]
 - [[beta-carboline]]
 - [[beta-caryophyllene]]
 - [[beta-d-entity]]
@@ -396,6 +398,7 @@
 - [[bis-tom-entity-pihkal]]
 - [[bisabolol]]
 - [[biscotti-cannabis-strain]]
+- [[biscotti-strain]]
 - [[bjerkandera-adusta]]
 - [[black-locust-entity]]
 - [[blackberry-kush]]
@@ -411,6 +414,7 @@
 - [[bod-entity]]
 - [[bod-entity-pihkal]]
 - [[boehmeria-nivea]]
+- [[boesenbergia-rotunda]]
 - [[boh-entity]]
 - [[boh-entity-pihkal]]
 - [[bohd-entity]]
@@ -444,6 +448,7 @@
 - [[bufotenine]]
 - [[buller-ahr]]
 - [[buscaline-entity]]
+- [[butylone]]
 
 ## C
 
@@ -508,6 +513,7 @@
 - [[chalciporus-piperatus]]
 - [[chamaecytisus-palmensis]]
 - [[chamomilla-recutita-entity]]
+- [[cheese-cannabis]]
 - [[chelidonium-majus]]
 - [[chemdawg]]
 - [[chemdawg-cannabis]]
@@ -676,12 +682,14 @@
 - [[det]]
 - [[det-entity-tihkal]]
 - [[dextromethorphan]]
+- [[dichomitus-squalens]]
 - [[dictyophora-indusiata]]
 - [[digitalis-purpurea]]
 - [[digoxin]]
 - [[dimethyltryptamine]]
 - [[dimethyltryptamine-n-oxide]]
 - [[dioscorea-alata]]
+- [[dioscorea-esculenta]]
 - [[diospyros-virginiana]]
 - [[diplopterys-cabrerana]]
 - [[dipt]]
@@ -1121,6 +1129,7 @@
 - [[jujube-entity]]
 - [[julius-palmer]]
 - [[jungle-cake]]
+- [[juniperus-communis]]
 - [[justicia-adhatoda]]
 - [[justicia-pectoralis]]
 
@@ -1715,6 +1724,7 @@
 - [[psilocybe-gallaeciae]]
 - [[psilocybe-graecia]]
 - [[psilocybe-guilartensis]]
+- [[psilocybe-heckelii]]
 - [[psilocybe-heliconia]]
 - [[psilocybe-hermescii]]
 - [[psilocybe-heterophyllia]]
@@ -1904,6 +1914,7 @@
 - [[sambucus-nigra]]
 - [[sandoz-pharmaceuticals]]
 - [[sanghuangporus-baumii]]
+- [[sanghuangporus-ctenophorus]]
 - [[sanghuangporus-linteus]]
 - [[sanghuangporus-sanghuang]]
 - [[sanghuangporus-vaninii]]
@@ -2042,6 +2053,7 @@
 - [[terminalia-bellirica]]
 - [[terminalia-catappa]]
 - [[terminalia-chebula]]
+- [[terminalia-ferdinandiana]]
 - [[termitomyces-eurhizus]]
 - [[termitomyces-eurrhizus]]
 - [[termitomyces-heimii]]
@@ -2123,6 +2135,7 @@
 - [[tricholoma-lobayense]]
 - [[tricholoma-matsutake]]
 - [[tricholoma-mongolicum]]
+- [[tricholoma-murrillianum]]
 - [[tricholoma-portentosum]]
 - [[tricholoma-terreum]]
 - [[tricholoma-tigrinum]]
@@ -2246,6 +2259,7 @@
 
 - [[zero-emissions-research-and-initiatives]]
 - [[zingiber-officinale]]
+- [[ziziphus-jujuba]]
 - [[zkittlez]]
 - [[zombie-kush]]
 - [[zookies]]
