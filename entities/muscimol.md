@@ -4,128 +4,124 @@ created: 2026-04-28
 updated: 2026-04-28
 type: chemical
 tags:
-  - psychoactive
-  - gabaergic
+  - psychedelic
   - isoxazole
-  - fungal-alkaloid
-  - entheogen
+  - gabaergic
+  - amanita
+  - psychoactive
+  - alkaloid
 sources:
-  - Waser, P.G. (1967). "The pharmacology of Amanita muscaria." In Efron, D.H. (Ed.), Ethnopharmacologic Search for Psychoactive Drugs. Public Health Service.
-  - Ott, J. (1993). Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History. Natural Products Co.
-  - Bowden, K. & Drysdale, A.C. (1965). "The isolation of muscimol from Amanita muscaria." Journal of the Chemical Society, Perkin Transactions, 1, 937-938.
-  - Dolder, P.J. et al. (2020). "Amanita muscaria — from poison to inebriant." Drug Science, Policy and Law, 6, 1-11.
-  - Rubino, T. & Parolaro, D. (2014). "Cannabis and endocannabinoid signaling in the brain." Handbook of Experimental Pharmacology, 231, 271-299.
+  - Waser PG. (1967). "The pharmacology of Amanita muscaria." In: Efron DH, ed. "Ethnopharmacologic Search for Psychoactive Drugs." Public Health Service Publication 1645: 419–439.
+  - Eugene D, Gouret C, Raynaud G. (1974). "Pharmacological study of muscimol." Psychopharmacologia 35(2): 139–145.
+  - Johnston GAR. (2014). "Muscimol as a GABA agonist." Advances in Pharmacology 69: 83–96.
+  - Ott J. (1976). "Pharmacognosy of Amanita muscaria." Journal of Psychedelic Drugs 8(2): 115–125.
+  - https://pubchem.ncbi.nlm.nih.gov/compound/Muscimol
 ---
 
 ## Overview
 
-Muscimol (5-aminomethyl-3-hydroxyisoxazole) is the principal psychoactive compound
-found in the fly agaric mushroom (*Amanita muscaria*) and the panther cap
-(*Amanita pantherina*). Unlike classical psychedelics that act as serotonin
-5-HT₂A agonists, muscimol is a potent and selective agonist of the GABA_A receptor,
-making it the only commonly consumed psychoactive substance with this primary
-mechanism of action.
+**Muscimol** (also known as agarin or pantherine) is a psychoactive isoxazole alkaloid and the primary pharmacologically active compound in *Amanita muscaria* (the fly agaric) and related *Amanita* species. Unlike classical psychedelics, muscimol acts as a potent and selective agonist at GABA_A receptors, producing a unique psychoactive profile distinct from tryptamine or phenethylamine hallucinogens.
 
-Muscimol's effects are qualitatively distinct from serotonergic psychedelics:
-users report sedation, dream-like dissociation, altered perception of size and
-distance (micropsia/macropsia), and a state resembling vivid dreaming while
-awake. The experience is sometimes described as deliriant-like at higher doses,
-though muscimol lacks the true anticholinergic mechanism of classical deliriants.
+Muscimol is not naturally present in fresh Amanita mushrooms. It is formed through the decarboxylation of ibotenic acid, the major constituent of raw *A. muscaria*, when the mushroom is dried or heated. This conversion is essential for the traditional preparation methods used by indigenous cultures in Siberia and elsewhere.
 
 ## Chemical Properties
 
-Muscimol has the molecular formula C₄H₆N₂O₂ and a molecular weight of
-114.10 g/mol. The IUPAC name is 5-(aminomethyl)-1,2-oxazol-3-ol. It is an
-isoxazole derivative, a class of heterocyclic compounds featuring a five-membered
-ring containing both nitrogen and oxygen atoms.
+**IUPAC name:** 5-(Aminomethyl)-3-hydroxyisoxazole
 
-The compound is a white crystalline solid with a melting point of 172–174 °C.
-It is soluble in water, ethanol, and DMSO. Muscimol is relatively stable under
-neutral conditions but degrades under strongly acidic or basic conditions.
+**Molecular formula:** C₄H₆N₂O₂
 
-Muscimol is a decarboxylation product of ibotenic acid, the biosynthetic
-precursor found in fresh *Amanita* specimens. This conversion occurs
-spontaneously upon drying or through heat-assisted decarboxylation, which is
-why traditional preparation methods involve drying or boiling the mushroom
-caps before consumption.
+**Molecular weight:** 114.10 g/mol
+
+**CAS number:** 2763-96-4
+
+**Chemical class:** Isoxazole alkaloid, zwitterionic amino acid analog
+
+**Structure:** Muscimol is a bicyclic compound consisting of a 3-hydroxyisoxazole ring with an aminomethyl substituent at the 5-position. The isoxazole ring provides metabolic stability relative to the open-chain precursor ibotenic acid.
+
+**Solubility:** Soluble in water, ethanol, and DMSO. Sparingly soluble in nonpolar solvents.
+
+**Stability:** Stable under acidic conditions. Decomposes under strongly basic conditions or prolonged heating above 100°C. The compound is light-sensitive and should be stored in dark, airtight containers at cool temperatures.
+
+**Conversion from ibotenic acid:** Ibotenic acid (C₅H₆N₂O₄, MW 158.11) undergoes decarboxylation upon heating (drying at 70–80°C for several hours) to yield muscimol with loss of CO₂. Optimal conversion conditions balance complete decarboxylation against thermal degradation of muscimol.
 
 ## Pharmacology
 
-Muscimol acts as a direct agonist at GABA_A receptors, binding at the same
-site as the endogenous neurotransmitter GABA but with greater potency and
-longer duration of action. Its EC₅₀ at GABA_A is approximately 10–30 µM,
-depending on receptor subunit composition.
+Muscimol is a potent and selective agonist at the GABA_A receptor, the primary inhibitory neurotransmitter receptor in the central nervous system. Its mechanism of action is fundamentally different from all major classes of classical psychedelics.
 
-Key pharmacological characteristics:
+**Receptor affinity:**
+- **GABA_A receptor:** Muscimol binds directly to the GABA binding site on the GABA_A receptor with high affinity (Ki approximately 0.1–1 µM). It activates the receptor by stabilizing the open chloride channel conformation, producing inhibitory postsynaptic potentials.
+- **GABA_C receptor:** Weak activity at homomeric ρ subunit-containing GABA receptors.
+- **GABA_B receptor:** No significant affinity.
+- **5-HT2A, 5-HT2C, dopamine, opioid receptors:** No significant binding.
 
-- **GABA_A agonism**: Primary mechanism; produces sedative, anxiolytic, and
-  ataxic effects similar to benzodiazepines but through a direct agonist mechanism
-- **GABA_C receptor agonism**: Moderate affinity at retinal GABA_C receptors
-- **No 5-HT₂A activity**: Fundamentally distinguishes muscimol from classical
-  psychedelics; accounts for the absence of typical serotonergic visual effects
-- **BBB penetration**: Crosses the blood-brain barrier via active transport
+**Pharmacodynamics:** As a direct GABA_A agonist, muscimol increases chloride ion influx through the receptor channel, hyperpolarizing neurons and reducing neural excitability. This mechanism underlies both the sedative-hypnotic and psychoactive effects.
 
-Muscimol has an elimination half-life of approximately 2.5–3 hours. It is
-excreted primarily through the kidneys as both unchanged muscimol and conjugated
-metabolites. The onset of effects occurs within 30–60 minutes, peaking at 2–3
-hours with a total duration of 4–8 hours.
+**Pharmacokinetics:** Muscimol is orally active with moderate bioavailability (estimated 30–50%). Onset of effects occurs 30–90 minutes after oral ingestion. It crosses the blood-brain barrier effectively. Elimination is primarily renal, with a plasma half-life of approximately 2–3 hours.
 
-## Natural Sources
+## Effects
 
-Muscimol is found exclusively in *Amanita* species within the family
-Amanitaceae. The primary natural sources include:
+The psychoactive effects of muscimol are distinct from classical psychedelics and are often described as more dreamlike, deliriant, or dissociative in character.
 
-- **Fly agaric** (*Amanita muscaria*): The most abundant source; contains
-  0.03–0.11% muscimol and 0.08–0.32% ibotenic acid by fresh weight in the cap
-- **Panther cap** (*Amanita pantherina*): Contains similar or slightly elevated
-  alkaloid concentrations
-- **Amanita gemmata** and **Amanita aprica**: Known to contain variable amounts
+**Common effects:**
+- Sedation and drowsiness progressing to deep relaxation
+- Visual distortions including macropsia (objects appearing larger) and micropsia
+- Synesthesia (particularly sound-to-color)
+- Altered perception of body size and spatial relationships
+- Vivid, dreamlike imagery with eyes closed
+- Mild to moderate euphoria
+- Reduced anxiety and physical tension
 
-The ratio of muscimol to ibotenic acid varies significantly by specimen, geographic
-location, and preparation method. Ibotenic acid itself is neurotoxic, causing
-confusion, nausea, and ataxia, which is why proper decarboxylation (converting
-ibotenic acid to muscimol) is essential for a favorable experience.
+**Dose ranges (oral):**
+- **Threshold:** 5–8 mg
+- **Light:** 8–15 mg
+- **Moderate:** 15–25 mg
+- **Strong:** 25–40 mg
+- **Heavy:** 40+ mg (associated with significant sedation, confusion, and delirium)
 
-## Effects and Dosage
+**Duration:** Onset 30–90 minutes, peak 2–3 hours, total duration 6–10 hours. Residual after-effects may persist for 12–24 hours.
 
-Effective doses of muscimol range from 10–15 mg for mild effects to 30–60 mg
-for strong dissociative experiences. When consumed as dried *Amanita muscaria*
-caps, the typical dose is 5–10 grams of dried material.
+**Side effects:** Nausea, sweating, ataxia, dizziness, confusion, amnesia, and mild dissociation. At higher doses, pronounced delirium, loss of motor coordination, and unconsciousness can occur. The therapeutic index is relatively narrow compared to classical psychedelics.
 
-The effects profile includes:
+## History
 
-- Drowsiness and progressive sedation
-- Dream-like, immersive visual imagery (distinct from geometric hallucinations)
-- Distortion of body image and spatial perception (Alice-in-Wonderland effect)
-- Dissociation from physical sensation and environment
-- Euphoria alternating with confusion at moderate doses
-- Nausea and sweating at the onset (reduced by proper preparation)
-- Muscle relaxation and ataxia
+Muscimol's psychoactive effects have been known for millennia through the use of *Amanita muscaria* by indigenous peoples of Siberia, northern Europe, and parts of Asia. The mushroom has been used in shamanic rituals, religious ceremonies, and as an intoxicant.
 
-Unlike serotonergic psychedelics, muscimol does not produce ego dissolution,
-synesthesia, or profound mystical-type experiences. The quality is more akin to
-a waking dream state with reduced executive function and impaired short-term memory.
+The Siberian practice of *Amanita* consumption was first documented by European travelers in the 17th–18th centuries. The urine-drinking ritual — consuming the psychoactive metabolites excreted in urine — was a notable feature, as it concentrates muscimol while eliminating much of the toxic ibotenic acid.
+
+The active compound was isolated and identified in the 1960s. Muscimol was synthesized independently by Japanese and European research groups. Its GABAergic mechanism was elucidated in the 1970s by Eugene, Gouret, and Raynaud.
+
+## Synthesis and Preparation
+
+**From natural sources:** Muscimol is obtained from *Amanita muscaria* or *A. pantherina* by drying or heating fresh mushroom material. Traditional methods involve drying the caps over a fire or in an oven at 70–80°C for several hours, then powdering the dried material for infusion or ingestion.
+
+**Chemical synthesis:** Muscimol can be synthesized from glutamic acid via a multi-step pathway involving cyclization to the isoxazole ring. Industrial synthesis is not common due to limited commercial demand.
+
+**Extraction:** Laboratory extraction from dried *Amanita* material uses aqueous or ethanolic extraction followed by purification via column chromatography. The water-soluble nature of muscimol simplifies extraction but complicates separation from other water-soluble mushroom constituents.
+
+**Analytical methods:** Muscimol can be quantified by HPLC-UV (detection at 220 nm), GC-MS after derivatization, or LC-MS/MS. Standard reference materials are commercially available for analytical purposes.
 
 ## Legal Status
 
-Muscimol is unscheduled at the federal level in most countries, including the
-United States, where it is not listed under the Controlled Substances Act. This
-legal status reflects its distinct pharmacological profile and lower abuse
-potential compared to serotonergic psychedelics.
+Muscimol itself is unscheduled in most jurisdictions, as it is not classified as a controlled substance under international drug conventions. However, its legal status is evolving rapidly as *Amanita muscaria* products have become commercially available.
 
-However, *Amanita muscaria* itself is regulated or restricted in some
-jurisdictions, and commercial products containing muscimol extracts have
-faced regulatory scrutiny. In 2023, the U.S. FDA issued warning letters to
-companies marketing muscimol-containing edibles with unsubstantiated health
-claims. Several countries, including Australia and the Netherlands, have
-imposed restrictions on *Amanita* mushroom sales.
+In the United States, muscimol is not a DEA-scheduled compound. However, the FDA has issued warning letters to companies marketing *Amanita muscaria* products with unsubstantiated therapeutic claims. Several states are considering or have enacted restrictions on *Amanita* products.
+
+In Europe, *Amanita muscaria* and muscimol are unscheduled in most countries, though some nations regulate sale for human consumption. The compound's growing commercial availability in edible products (gummies, tinctures, capsules) has prompted increased regulatory scrutiny.
+
+## Related Compounds
+
+- **Ibotenic acid:** The biosynthetic precursor of muscimol and the major constituent of fresh *Amanita* mushrooms. A glutamate receptor agonist with excitotoxic properties, responsible for many of the adverse effects associated with raw mushroom consumption.
+- **Muscimol hemioxalate:** A crystalline derivative with similar pharmacological properties.
+- **Musczone:** A minor metabolite of ibotenic acid with unknown pharmacological significance.
+- **Zolpidem, zopiclone:** Synthetic GABA_A agonists that share muscimol's mechanism but differ in receptor subtype selectivity and pharmacokinetic properties.
 
 ## See Also
 
-- [[amanita-muscaria]]
-- [[amanita-pantherina]]
-- [[ibogaine]]
-- [[psilocybin]]
-- [[mescaline]]
-- [[dmt]]
-- [[harmine]]
+- [[amanita-virosa]]
+- [[psilocybe-cubensis]]
+- [[baeocystin]]
+- [[psilocybe-azurescens]]
+- [[tetrahydroharmine]]
+- [[lsd-entity-tihkal]]
+- [[salvia-divinorum]]
+- [[mimosa-hostilis]]

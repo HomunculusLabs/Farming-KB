@@ -74,7 +74,9 @@ The dose-response curve for 2C-B is notably non-linear. While 16 mg may produce 
 
 The combination of empathogenic and psychedelic properties makes 2C-B particularly sensitive to set and setting. Unlike pure empathogens like MDMA, 2C-B's psychedelic component means that unresolved psychological material can surface during the experience. Integration practices (journaling, discussion with trusted friends, mindfulness) are especially valuable after 2C-B experiences. The non-linear dose-response curve means that reagent testing is essential — substances sold as 2C-B may actually be other phenethylamines with very different dose ranges and effect profiles.
 
-## Related Topics
+## Related
+
+- [[6-mapb]] Topics
 
 - [[turner-ecstasy-mdma-heart-opening-psychedelic]]
 - [[mescaline-peyote-san-pedro-cactus]]

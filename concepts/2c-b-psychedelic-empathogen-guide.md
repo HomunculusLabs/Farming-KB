@@ -88,6 +88,8 @@ At a low dose, the experience resembles a speedy acid high — enhanced percepti
 
 ## See Also
 
+- [[lsm]]
+
 - [[ecstasy-mdma-guide]] — related empathogen
 - [[mescaline-peyote-and-san-pedro-guide]] — related phenethylamine
 - [[mao-inhibitors-and-psychedelics]] — safety interactions

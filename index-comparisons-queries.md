@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1009 pages**
+**1010 pages**
 
 ## A
 
@@ -765,6 +765,7 @@
 - [[query-how-to-grow-mushrooms-on-straw]]
 - [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
 - [[query-how-to-grow-oyster-mushrooms-at-home]]
+- [[query-how-to-grow-passionfruit-in-different-climates]]
 - [[query-how-to-grow-potatoes-organically]]
 - [[query-how-to-grow-reishi-mushrooms]]
 - [[query-how-to-grow-shiitake-mushrooms]]
@@ -1060,4 +1061,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[query-how-to-grow-passionfruit-in-different-climates]]

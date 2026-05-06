@@ -90,6 +90,9 @@ Since this reference was compiled, thousands of new strains have been developed.
 
 ## See Also
 
+- [[georgia-pie]]
+- [[jet-fuel]]
+
 - [[cannabis-breeding-basics]]
 
 - [[cannabis-phenotype-and-genotype-guide]]

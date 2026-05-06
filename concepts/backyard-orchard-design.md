@@ -141,6 +141,8 @@ The space beneath and between fruit trees can be productive if designed carefull
 - Intended use (fresh eating, cooking, storage, preserving)
 - Rootstock appropriate for your soil and space
 ## See Also
+
+- [[amelanchier-alnifolia]]
 - [[apple-tree-care]] for detailed apple tree management
 - [[stone-fruit-tree-care]] for peach, plum, and cherry care
 - [[food-forest-design]] for integrating orchard trees into a perennial polyculture

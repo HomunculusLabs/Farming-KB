@@ -136,6 +136,8 @@ alkaloids.
 
 ## See Also
 
+- [[sassafras-albidum]]
+
 - [[galbulimima-belgraveana]]
 
 - [[golden-guide-hallucinogenic-plants-overview]]

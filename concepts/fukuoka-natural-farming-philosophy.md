@@ -137,6 +137,8 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 
 ## See Also
 
+- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
+
 - [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]
 - [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
 - [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]

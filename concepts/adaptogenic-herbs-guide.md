@@ -130,3 +130,7 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 - **Dried root powder:** 2-4g per day.
 - **Tincture:** 2-4ml, 2-3 times daily.
 - Take consistently for 4-8 weeks for full adaptogenic effects.
+
+## See Also
+
+- [[galium-aparine]]

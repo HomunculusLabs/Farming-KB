@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1241 pages**
+**1249 pages**
 
 ## #
 
@@ -231,6 +231,7 @@
 - [[entheogen-trichocereus-genus-mescaline-cacti]]
 - [[entheogen-vendors-and-sources]]
 - [[entheogen-virola-snuff-ethnobotany-chemistry]]
+- [[entheogenic-ceremony]]
 - [[entheogenic-ceremony-preparation]]
 - [[entheogenic-eleusis-theory-scholarly-reception]]
 - [[entheogenic-knowledge-secret-societies]]
@@ -437,6 +438,7 @@
 - [[fukuoka-textdoc-three-types-farming-comparison-yields]]
 - [[fukuoka-textdoc-three-ways-farming-compared]]
 - [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
+- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
 - [[fukuoka-textdoc-traditional-pest-control-pyrethrum-derris-fowl]]
 - [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]
 - [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]
@@ -680,6 +682,7 @@
 - [[mckenna-ecstasy-as-social-catalyst]]
 - [[mckenna-eleusinian-mysteries]]
 - [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]]
+- [[mckenna-epilogue-from-grasslands-to-the-starship]]
 - [[mckenna-eschatology-and-acceleration-of-history]]
 - [[mckenna-exploitation-cycles-drug-diplomacy]]
 - [[mckenna-exteriorization-soul-translinguistic-matter]]
@@ -723,12 +726,14 @@
 - [[mckenna-human-cognition-and-the-stoned-age]]
 - [[mckenna-huxley-mind-at-large-reducing-valve]]
 - [[mckenna-hyperspace-and-human-freedom]]
+- [[mckenna-hyperspace-law-and-the-remarkable-overmind]]
 - [[mckenna-inquisition-suppression-of-plant-knowledge]]
 - [[mckenna-invention-of-lsd-and-psychedelic-sixties]]
 - [[mckenna-jaynes-bicameral-mind-breakdown]]
 - [[mckenna-kurgan-waves-indo-european-invasion-partnership-collapse]]
 - [[mckenna-language-and-reality]]
 - [[mckenna-legalization-debate-and-archaic-revival]]
+- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]
 - [[mckenna-lumsden-wilson-gene-culture-coevolution]]
 - [[mckenna-maya-tobacco-shamanism-enemas]]
 - [[mckenna-mdma-and-drug-terror-of-the-1980s]]
@@ -744,8 +749,10 @@
 - [[mckenna-opium-wars-and-drug-diplomacy]]
 - [[mckenna-orientomania-and-european-discovery-of-hashish]]
 - [[mckenna-overmind-and-vegetable-mind]]
+- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
 - [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]]
 - [[mckenna-plants-and-primates-coevolution]]
+- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
 - [[mckenna-psilocybin-and-language-formation]]
 - [[mckenna-psilocybin-language-poetry-vocal-impulse]]
 - [[mckenna-psilocybin-three-levels-of-evolution]]
@@ -1043,6 +1050,7 @@
 - [[psilocybin-serotonin-mimic-thalamic-filter-model]]
 - [[psilocybin-shelf-life-stability]]
 - [[psilocybin-stoned-ape-hypothesis-critique]]
+- [[psilocybin-synthesis]]
 - [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
 - [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]
 - [[psilocybin-therapeutic-applications]]
@@ -1322,8 +1330,3 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
-- [[mckenna-epilogue-from-grasslands-to-the-starship]]
-- [[mckenna-hyperspace-law-and-the-remarkable-overmind]]
-- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]
-- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
-- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]

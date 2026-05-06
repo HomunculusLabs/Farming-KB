@@ -125,6 +125,9 @@ The hypothesis of dual-prong activity (immune stimulation plus direct toxicity t
 
 ## See Also
 
+- [[abortiporus-biennis]]
+- [[lenzites-betulina]]
+
 - [[ganoderma-lucidum-reishi-comprehensive-profile]]
 - [[reishi-cultivation-methods]]
 - [[maitake-cultivation]]

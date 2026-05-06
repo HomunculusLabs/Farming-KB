@@ -81,6 +81,8 @@ Bolete mycelium can also contribute to decomposition processes, particularly of 
 The conservation of bolete diversity depends on maintaining healthy forest ecosystems with diverse tree species compositions. Monoculture plantations support fewer bolete species than mixed-species forests, and forest fragmentation can isolate bolete populations and reduce genetic diversity. See [[fungal-conservation-strategies]] and [[mycoforestry-forest-management-with-fungi]] for conservation approaches.
 
 ## Related
+
+- [[suillus-lakei]]
 - [[mycoforestry-forest-restoration]]
 
 - [[mushroom-foraging-safety]]

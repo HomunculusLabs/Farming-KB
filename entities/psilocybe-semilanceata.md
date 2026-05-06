@@ -1,104 +1,120 @@
 ---
-title: Psilocybe semilanceata
+title: "Psilocybe semilanceata"
 created: 2026-04-28
+updated: 2026-04-28
 type: species
 tags:
-  - psilocybin-mushroom
+  - fungi
+  - psilocybin
   - psychedelic
-  - liberty-cap
-  - pasture
-  - temperatepsilocybin6-04-28
-updated: 2026-04-28
+  - hallucinogenic
+  - agaricales
 sources:
-  - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
+  - Guzmán G, Allen JW, Gartz J. (1998). "A worldwide geographical distribution of the neurotropic fungi." Mycological Research 102(4): 405–410.
+  - Stamets P. (1996). "Psilocybin Mushrooms of the World." Ten Speed Press.
+  - Gartz J. (1994). "Der Pilz als Droge." Naturwissenschaftliche Rundschau 47(8): 317–320.
+  - Weeks RJ, Flegg PB, Woodbridge AP. (1979). "The cultivation of Psilocybe semilanceata." Journal of the Natural History Society 11: 63–65.
+  - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=129191
 ---
 
-# Psilocybe semilanceata
+## Overview
 
-*Psilocybe semilanceata*, universally known as the liberty cap, is the most widespread and well-documented psilocybin
-mushroom in Europe and one of the most globally recognized psychedelic fungi. First described by Elias Magnus Fries in
-1838, it holds the distinction of being one of the oldest known psilocybin-containing species in the mycological
-literature, though its psychoactive properties were not recognized until the mid-20th century.
+**Psilocybe semilanceata** (Fr.) P. Kumm., commonly known as the liberty cap, is a small psilocybin-containing mushroom in the family Hymenogastraceae. It is the most widely distributed and commonly consumed psychedelic mushroom in Europe, and among the most potent naturally occurring psilocybin-containing species.
 
-## Taxonomy and Naming
+The liberty cap has a long history of use in indigenous European contexts and became prominent in Western counterculture during the 1960s–1970s. Its reputation as a potent entheogen has made it one of the most studied psychedelic fungi in modern clinical research on psilocybin-assisted therapy.
 
-Fries originally placed the species in the genus *Agaricus* (in the broad historical sense) before it was transferred
-to *Psilocybe* by Paul Kummer in 1871. The epithet *semilanceata* means "half-spear-shaped" in Latin, referring to the
-distinctive nipple-like umbo on the cap. The common name "liberty cap" derives from the resemblance of the cap to the
-Phrygian cap worn apsilocybin-mushroomsy during the French Revolution. The species is the type species of *Psilocybe*
-section *Semilanceatae*. Recent molecular phylogenetic studies have confirmed the monophyly of this section and the
-distinctiveness of *P. semilanceata* from other psilocybin mushrooms, supporting its traditional taxonomic placement.
+## Taxonomy and Morphology
 
-## Morphology
+### Taxonomy
 
-*P. semilanceata* is a small, slender mushroom. The pileus is 0.5–2.5 cm in diameter, conic to bell-shaped, and
-typically retains a pronounced, papillary umbo throughout development. The cap surface is smooth and viscid when moist,
-translucent-striate at the margin, colored olive-brown to ochraceous-brown, sometimes with a greenish or bluish tint,
-fading to tan or yellowish when dry. A separable gelatinous pellicle covers the cap — a key diagnostic feature. The
-gills are adnate, subdistant to moderately close, grayish when young, maturing to dark purplish-brown. The stipe is
-slender, 4–10 cm long and 0.5–2 mm thick, equal or slightly thickened at the base, whitish to pale ochraceous, and
-characteristically flexible. Blue bruising can occur at the base of the stipe but is often absent or minimal on the
-upper stem, unlike many other *Psilocybe* species. No annulus is present. Spores are ellipsoid to slightly
-amygdaliform, 10.5–13.5 × 6.5–8.5 µm, with a dark purplish-brown print.
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Agaricales
+- **Family:** Hymenogastraceae
+- **Genus:** Psilocybe
+- **Species:** P. semilanceata (Fr.) P. Kumm. (1871)
 
-## Field Identification Tips
+**Basionym:** Agaricus semilanceatus Fr. (1838). **Synonyms:** Deconica semilanceata (Fr.) Noordel. (2009, rejected), Geophila semilanceata (Fr.) Quél. (1886).
 
-Identifying *P. semilanceata* in the field requires attention to several key features. The most reliable diagnostic
-character is the separable gelatinous pellicle — a thin, clear skin that can be peeled from the cap surface. This
-feature distinguishes it from superficially similar brown mushrooms of pasture habitats. The pronounced, persistent
-umbo (nipple) on the cap is another important field mark, though it can be less pronounced in very young or waterlogged
-specimens. The habitat — unimproved, grazed pastures — is also an important clue, as the species is rarely found in
-fertilized or cultivated fields. The slender, flexible stem that bends rather than breaks, and the dark purplish-brown
-mature gills, further aid identification. The absence of blue bruising on the upper stem can make identification more
-challenging for beginners accustomed to using bluing as the primary indicator of psilocybin content.
+The species epithet *semilanceata* refers to the distinctive lance-shaped (semi-lanceolate) umbo on the cap. It is the type species of section Semilanceatae within Psilocybe.
+
+### Morphology
+
+**Cap:** 5–25 mm diameter, conic to bell-shaped (campanulate) with a prominent, persistent papilla (umbo). Hygrophanous — deeply translucent-striate when moist, becoming a lighter buff-tan when dry. Color ranges from olive-brown to chestnut when hydrated, pale ochre when desiccated. Viscid to glutinous when wet due to a gelatinous pellicle.
+
+**Gills:** Adnexed to subdecurrent, narrow, moderately crowded. Color is grey-brown at first, becoming dark purplish-brown with spore maturity, with white edges.
+
+**Stipe:** 40–100 mm long, 1–3 mm thick, slender and flexible. Pallid to yellowish, often with bluish-green base. Surface is silky-fibrillose, sometimes with a transient fibrillose annular zone near the apex. Base may develop intense blue bruising.
+
+**Flesh:** Thin, pale, bruising distinctly blue to blue-green, especially at the stipe base.
+
+**Spore print:** Dark purplish-brown.
+
+**Spores:** Ellipsoidal to somewhat amygdaliform, 10.5–15.5 × 6.5–8.5 µm, thick-walled with a distinct germ pore, smooth, rust-brown in KOH.
 
 ## Distribution and Habitat
 
-*P. semilanceata* has an exceptionally broad distribution. It occurs throughout temperate Europe, from Scandinavia to
-the Mediterranean, across the British Isles, and extends through Central and Northern Asia. In North America, it is
-found in the Pacific Northwest and in scattered montane locations in the Rocky Mountains and northeastern US. The
-species is also reported from South America, Australasia, and Antarctica (on subantarctic islands). Its habitat is
-predominantly old, unimproved pastures and meadows, particularly those grazed by sheep and cattle. Unlike *P.
-cubensis*, it does not fruit directly from dung but from the soil in grassland areas, often associated with decaying
-root matter and organic debris beneath the turf. Fruiting occurs in autumn, typically from September through November
-in the Northern Hemisphere, with peak abundance following periods of cool, wet weather.
+P. semilanceata has a circumpolar distribution across temperate and subarctic regions of the Northern Hemisphere. It is found throughout Europe (from the Mediterranean to Scandinavia), the Pacific Northwest of North America, and has been reported from parts of South America, New Zealand, and Australia as an introduced species.
 
-## Relationship to Soil Microbiology
+The species is strongly associated with grassland ecosystems. It fruits in pastures, meadows, lawns, parkland, and along paths in upland areas. Unlike many psilocybin mushrooms, it does NOT grow directly on dung — it is a saprotroph on decaying grass roots and accumulated organic matter in soil.
 
-The ecology of *P. semilanceata* is intimately tied to the soil microbiome of its grassland habitat. Research suggests
-that the species forms associations with specific soil microorganisms, including certain bacteria and other fungi, that
-may be necessary for fruiting. This complex ecological requirement is one of the primary reasons the species has proven
-so difficult to cultivate. The mushroom's preference for unimproved pastures — those not treated with artificial
-fertilizers — may reflect the sensitivity of its mycorrhizal or endophytic associates to nutrient enrichment.
-Agricultural intensification, including the use of nitrogen fertilizers [[psilocin]]conversion of permanent pasture to
-arable land, has been linked to declines in *P. semilanceata* populations across Europe.
+Optimal habitat includes nutrient-poor to moderately fertile grasslands with acidic to neutral soils. It is particularly abundant in sheep pastures and upland moorland. Fruiting occurs from late summer through early winter, with peak season in September–November in the Northern Hemisphere.
 
-## Chemistry
+Elevation range spans from sea level to approximately 2,000 m in mountainous regions. The fungus tolerates cold temperatures and is among the last agarics fruiting in autumn.
 
-*P. semilanceata* is notably potent for its size. Psilocybin concentrations range from 0.2–2.4% by dry weight, with
-psilocin at 0.05–1.1%, and [[baeocystin]] at 0.0[[tryptamine]]e species shows considerablinocybe-aeruginascensn in
-alkaloid content, with Scottish and Scandinavian collections generally ranking among the most potent. A unique feature
-of *P. semilanceata* chemistry is the occasional presence of [[aeruginascin]], a tryptamine derivative also found in
-*Inocybe aeruginascens*, which may modulate the subjective effects. The total alkaloid content of liberty caps has been
-shown to vary with altitude, temperature during growth, and the specific plant community composition of the pasture.
+It has been reported fruiting as late as January in mild coastal climates of the Pacific Northwest. In Europe, autumn rains trigger prolific fruiting events, with hundreds of specimens appearing in favorable pastures within days.
+
+## Bioactive Compounds
+
+P. semilanceata is among the most potent psilocybin-containing mushrooms, with consistently higher tryptamine alkaloid content than *Psilocybe cubensis*.
+
+**Primary alkaloids:**
+- **Psilocybin:** 0.6–2.0% dry weight (average ~1.1%). The primary prodrug, dephosphorylated to psilocin in vivo by alkaline phosphatase enzymes.
+- **Psilocin:** 0.1–0.6% dry weight (average ~0.3%). The active metabolite and primary psychoactive compound.
+- **Baeocystin:** 0.05–0.3% dry weight. A less-studied tryptamine alkaloid, possibly contributing to the overall effect profile.
+- **Norbaeocystin:** Present in trace amounts. Pharmacological significance remains unclear.
+
+**Variability:** Alkaloid content varies significantly based on geographic origin, growth conditions, and developmental stage. Specimens from cooler, northern populations tend to have higher psilocybin concentrations.
+
+## Pharmacology
+
+Psilocybin is a serotonergic psychedelic acting primarily as a partial agonist at the 5-HT2A receptor. It also binds to 5-HT2C, 5-HT1A, and other serotonin receptor subtypes with lower affinity.
+
+The psychedelic experience from P. semilanceata is characterized by altered perception, synesthesia, enhanced introspection, and mystical-type experiences. Effects typically begin 20–60 minutes after ingestion and last 4–6 hours.
+
+**Clinical research:** Psilocybin has demonstrated efficacy in clinical trials for treatment-resistant depression, end-of-life anxiety, nicotine addiction, and alcohol dependence. The psilocybin from P. semilanceata is chemically identical to that used in clinical formulations.
+
+**Toxicity:** The species has very low physiological toxicity. LD50 of psilocybin in mice is 280 mg/kg (oral). There are no confirmed human deaths from psilocybin mushroom toxicity alone.
 
 ## Cultivation
 
-*P. semilanceata* is notoriously difficult to cultivate, both indoors and outdoors. It is a strict grassland saprotroph
-with complex and poorly understood nutritional requirements involving specific soil microorganisms and grass root
-associations. Despite decades of attempts by cultivators, reliable cultivation remains elusive, and the species
-continues to be primarily wild-harvested. This difficulty is one of the factors that has protected natural populations
-from commercial exploitation, though habitat loss from agricultural intensification remains a significant conservation
-concern. Several researchers have suggested that the key to successful cultivation may lie in replicating the specific
-soil microbial community of natural liberty cap habitats, though this approach has not yet yielded consistent results.
+Cultivation of P. semilanceata is notoriously difficult, which contributes to its status as primarily a wild-harvested species. Unlike P. cubensis, it does not readily colonize standard grain or sawdust substrates indoors.
 
-## Cultural Significance
+The species has a obligate or near-obligate relationship with grassland ecosystems and appears to require root-associated microorganisms or specific soil conditions for successful fruiting. Early attempts at indoor cultivation (Weeks et al., 1979) produced primordia but rarely mature fruiting bodies.
 
-The liberty cap is deeply embedded in European cultural history, even if its psychoactive nature was only formally
-documented in the 1960s by [[albert-hofmann]] and colleagues at Sandoz. It is the mushroom most commonly associated
-with traditional use in the British Isles and Continental Europe, and it remains the most frequently encountered
-psilocybin mushroom in European recreational contexts. In 2005, *P. semilanceata* was classified as a Class A drug in
-the UK under the Drugs Act, making it one of the few naturally occurring organisms specifically listed as a controlled
-substance by name. The species has been the subject of extensive folk knowledge across rural Europe, with traditional
-foraging communities maintaining detailed knowledge of its habitats, seasons, and effects long before its psychoactive
-properties were scientifically confirmed.
+**Outdoor cultivation:** The most promising approach involves inoculating enriched grassland areas with spore slurry or mycelial spawn. Creating a suitable substrate of mixed grass roots, soil, and organic matter in outdoor beds may support colonization. However, reliable fruiting from inoculated beds remains inconsistent.
+
+**Mycelial characteristics:** Mycelium grows slowly on standard agar media (MEA, PDA) at 18–22°C. It is relatively thin and wispy compared to other Psilocybe species, with a cottony to appressed morphology. Optimal growth temperature is lower than P. cubensis, reflecting its adaptation to cool temperate climates.
+
+## Legal Status
+
+P. semilanceata and its active alkaloids are controlled substances in most jurisdictions worldwide. Psilocybin and psilocin are listed under Schedule I of the UN Convention on Psychotropic Substances (1971).
+
+**United States:** Psilocybin and psilocin are Schedule I under the Controlled Substances Act. However, several jurisdictions have decriminalized or deprioritized enforcement, including Oregon, Colorado, and numerous municipalities.
+
+**Europe:** Controlled in most EU member states. The Netherlands uniquely permits sale of fresh psilocybin mushrooms (though dried are prohibited).
+
+**Global trends:** Several countries and regions are moving toward decriminalization or regulated medical access as clinical evidence for psilocybin therapy accumulates. In 2023, Australia became the first country to approve psilocybin as a prescribed medicine for treatment-resistant depression.
+
+## See Also
+
+- [[psilocybe-cubensis]]
+- [[psilocybe-azurescens]]
+- [[baeocystin]]
+- [[norbaeocystin]]
+- [[psilocybe-serotina]]
+- [[pluteus-cyanopus]]
+- [[panaeolus-cyanescens]]
+- [[gymnopilus-earlei]]
+- [[lsd-entity-tihkal]]

@@ -125,6 +125,8 @@ degrees: muraya, sumi, and [[banco-sumiruna-muraya]].
 
 ## See Also
 
+- [[entheogenic-ceremony]]
+
 - [[ayahuasca-preparation]] -- The brewing process and its disciplines
 - [[spirit-mothers-of-plants]] -- The guardian spirits of individual plants
 - [[shamanic-powers-ayahuasca]] -- Powers received through plant-teachers

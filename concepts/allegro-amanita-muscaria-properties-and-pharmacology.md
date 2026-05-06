@@ -122,3 +122,7 @@ consciousness -- continues to provoke debate and inspire new lines of
 inquiry in the study of Ethnomycology and comparative religion.
 - [[allegro-fertility-philosophy-of-the-ancient-near-east]]
 - [[allegro-the-sacred-mushroom-amanita-identification]]
+
+## See Also
+
+- [[amanita-velosa]]

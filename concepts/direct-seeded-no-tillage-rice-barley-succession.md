@@ -1,124 +1,83 @@
 ---
-title: Direct-Seeded No-Tillage Rice Barley Succession
-created: 2026-04-28
+title: Direct-Seeded No-Tillage Rice/Barley Succession Cropping
 tags:
   - natural-farming
   - rice
   - barley
   - wheat
-  - no-tillage
-  - direct-seeding
-  - fukuoka
+  - no-till
   - cover-crops
+  - fukuoka
+  - grain-production
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
-type: concept
 ---
 
-# Direct-Seeded No-Tillage Rice Barley Succession
+# Direct-Seeded No-Tillage Rice/Barley Succession Cropping
 
-Direct-seeded no-tillage rice and barley (or wheat) succession in a clover cover is the core annual cropping system of [[Masanobu Fukuoka]]'s natural farming method. Developed over more than thirty years on his farm in Ehime Prefecture, Japan, this system produces roughly 22 bushels each of winter grain and rice per quarter-acre without any plowing, chemical fertilizer, composting, or pesticide application. Fukuoka described it as the essence of his "do-nothing" farming philosophy.
+Direct-seeded no-tillage rice/barley succession cropping is the core practical technique developed by [[Masanobu Fukuoka]] for his natural farming method. It eliminates plowing, chemical fertilizers, prepared compost, and pesticides while producing yields equal to or better than conventional scientific farming. The method relies on a [[clover]] ground cover and rice straw mulch to maintain soil fertility and suppress weeds naturally.
 
-## Historical Context
+## Overview of the Method
 
-Rice cultivation in Japan held a deeper meaning for farmers than simply growing a staple food crop. Fukuoka wrote that the farmer did not grow the rice; nature did, and the people born to the land partook of its blessings. The words "bountiful Land of Ripening Grain" expressed the joy of the Yamato people, who were able to receive the rich blessings of heaven and earth with a grateful heart.
+Fukuoka's method is essentially the symbiosis of rice and winter grain in a cover of clover. The field has not been plowed or turned in over thirty years, yet consistently yields close to 22 bushels of winter grain and 22 bushels of rice per quarter-acre. The entire annual cycle requires only the labor of one or two people.
 
-However, once man began to think that he grew the rice, scientific discrimination arose, creating a rift between the rice and the land. People lost their sense of unity with nature. Modern thinking reduced rice to just another foodstuff, and the labor of farmers was lowered to the production of a commercial article. The original purpose of rice production was gradually corrupted from cultivation of rice to starch production, and more precisely, to the pursuit of profits through the manufacture and sale of starch.
+The basic cycle proceeds as follows:
 
-Rice farming in Japan passed through several identifiable stages:
+- **Early autumn**: Broadcast clover and winter grain over the ripening heads of rice before the fall harvest. The rice straw is scattered uncut over the entire field after threshing.
+- **Before New Year**: Form clay pellets containing seed rice and scatter them over the straw cover. With winter grain growing and rice seed sown, there is nothing left to do until the winter grain harvest.
+- **Late May**: Harvest the winter grain while clover grows luxuriantly and rice shoots emerge from the clay pellets. Scatter the threshed straw uncut over the field.
+- **Early June**: Flood the field for four to five days to weaken the clover and give rice shoots a chance to break through. Leave unirrigated in June and July.
+- **August**: Run water through drainage ditches once every week or ten days until harvest.
 
-1. **1940: Primitive farming** based on improvements in tilling methods.
-2. **1950: Animal-powered agriculture** with increased fertilizer production.
-3. **1960: Scientific farming** through mechanization.
-4. **1970: Agribusiness** through energy-intensive systemized agriculture.
+## Clay Pellet Seed Coating
 
-Throughout this progression, the productivity of the land actually declined despite the appearance of technological advancement. Japan's calorie self-sufficiency dropped below 40 percent. Barley and wheat, once second only to rice in importance as winter staples, nearly vanished from Japanese soil as farmers were encouraged to abandon domestic production in favor of cheaper imported grain.
+The rice seeds are encased in clay pellets to protect them from birds and rodents and to time their germination naturally. The pellets are prepared by coating seeds with a layer of soil, then a layer of clay, creating microbe-containing pellets that remain dormant until rain and conditions are right for germination.
 
-## The Annual Cycle
+This technique was later adapted by Fukuoka for his desert revegetation proposals, where clay pellets containing the seeds of green manure trees, clover, alfalfa, and grain were scattered over arid land to restore vegetation.
 
-Fukuoka's no-tillage succession system follows a precise annual rhythm that requires the labor of only one or two people per quarter-acre:
+## Three Stages of Development
 
-### Autumn: Broadcasting Clover and Winter Grain
+Fukuoka passed through three stages in developing his method of barley and wheat cultivation:
 
-Clover and winter grain (barley or wheat) are broadcast over the ripening heads of rice before the fall harvest. This means the next crop's seeds are sown before the current crop is even harvested, a practice that conventional agriculture would consider impossible or reckless.
+1. **Tillage and ridge cultivation**: Traditional narrow seeding on ridges, with plowing and ridging operations.
+2. **Light-tillage, low-ridge or level-row cultivation**: Reducing tillage, discovering that no-tillage performed even better than light-tillage for barley. Introduced rice straw as a weed-suppressing mulch despite agricultural experts forbidding it.
+3. **Natural cropping based on no-tillage cultivation**: Moved from dibbling to drilling to individual seeding in furrows, eventually settling on broadcast seeding. Convinced that rice and barley, both grasses, could be grown identically through direct seeding on a level field.
 
-### Late Autumn: Rice Harvest and Straw Mulching
+## Key Discoveries
 
-The rice is harvested while treading on the young shoots of winter grain that have already germinated beneath the rice canopy. After leaving the rice to dry for three days, it is threshed and all the straw is scattered uncut over the entire field. If chicken droppings are available, these are scattered over the straw. The uncut straw serves as a protective mulch that retains moisture, suppresses weeds, and gradually decomposes to feed the soil.
+Through decades of experimentation, Fukuoka established several principles:
 
-### Winter: Sowing Rice in Clay Pellets
+- **No-tillage cultivation improves land**: Rather than degrading soil, continuous no-tillage direct-seeded succession cropping actually improves and enriches the soil over time.
+- **Straw mulch provides weed control**: Rice straw scattered on the field decomposes entirely by spring, leaving no trace of pathogenic microbes. Agricultural experts had strictly forbidden leaving straw on paddies due to disease fears.
+- **Clover suppresses weeds**: Ladino clover, once established, eliminates most garden weeds within two to three years. Annual weeds disappear in one year and biennials in two.
+- **Rice and barley are fundamentally the same crop**: Both are grasses that can be grown identically through direct seeding on a level field. The traditional separation of methods (transplanting rice vs. drilling barley on ridges) was unnecessary.
+- **The method works with any combination**: Mixed seeding and even simultaneous seeding of rice and barley are possible.
 
-Before the New Year, [[clay pellet seed balling|clay pellets]] containing seed rice are scattered over the straw-mulched field. With the winter grain already growing and the rice seed sown, there is now nothing left to do until the winter grain harvest. The farmer's work is essentially complete for several months.
+## Energy Efficiency
 
-### Late May: Winter Grain Harvest
+Natural farming produces approximately 130 pounds of rice, or 200,000 kilocalories of energy, per man-day of labor without any outside material inputs. This is roughly 100 times the daily caloric intake of a farmer on a natural diet.
 
-In late May, while harvesting the winter grain, the clover is growing luxuriantly and small shoots have emerged from the rice seed in the clay pellets. After harvesting, drying, and threshing the winter grain, all of the straw is scattered uncut over the field, adding another layer of mulch.
+The energy comparison across farming methods is dramatic:
+- Traditional farming with horses and oxen required roughly ten times the energy input of natural farming.
+- Small-scale mechanization doubled the energy input again.
+- Large-scale mechanization doubled it yet again.
 
-### Early June: Brief Flooding
+## Relationship to Modern No-Till Agriculture
 
-The field is flooded for four to five days to weaken the clover and give the rice shoots a chance to break through the clover cover. This is the only irrigation event that could be considered a management intervention, and it is minimal compared to the continuous flooding used in conventional rice paddies.
+While modern conservation agriculture and no-till farming share the principle of minimizing soil disturbance, Fukuoka's approach differs fundamentally. Modern no-till typically relies on chemical herbicides for weed control and synthetic fertilizers for nutrients. Fukuoka's method uses no chemicals at all, relying entirely on biological processes: clover for nitrogen fixation and weed suppression, straw mulch for moisture retention and soil building, and the natural soil ecosystem for nutrient cycling.
 
-### Summer: Minimal Water Management
+## The "Happy Hill" Rice Variety
 
-In June and July, the field is left unirrigated. In August, water is run through the drainage ditches once every week or ten days. This sparse irrigation regime contrasts sharply with the continuous flooding practiced in conventional rice cultivation.
-
-### Autumn: The Cycle Repeats
-
-As the rice ripens, clover and winter grain are again broadcast over the field, and the cycle begins anew.
-
-## The Three Stages of Development
-
-Fukuoka passed through three stages in developing his natural barley and wheat cropping method:
-
-### Stage 1: Tillage and Ridge Cultivation
-
-This was the conventional Japanese approach. Naked barley and wheat seed was drilled at a seeding width of 6 to 7 inches on ridges spaced 3 feet apart. Fukuoka experimented with broader, shallower seeding, increasing the sowing area by 25 to 40 percent, but found no observable improvement in yield and reduced crop stability. He tried sowing in two rows per ridge, but this also failed to improve results.
-
-### Stage 2: Level-Row, Light-Tillage or No-Tillage Cultivation
-
-Fukuoka moved from ridged to level-row cultivation, gradually reducing tillage. This stage involved abandoning the labor-intensive practices of plowing, breaking up clods, making seed furrows, sowing in furrows, covering with dirt, and applying prepared compost.
-
-### Stage 3: Natural Cropping Based on No-Tillage Cultivation
-
-The final stage eliminated all tillage and most human intervention. Broadcasting replaced drilling, straw mulch replaced compost, and clover replaced weeding. This is the system described above, which Fukuoka maintained for over thirty years.
-
-## Why It Works
-
-Fukuoka identified several interconnected reasons why this system succeeds without the inputs that conventional agriculture considers essential:
-
-**The clover living mulch**: Clover, as a legume, fixes atmospheric nitrogen and enriches the soil. Its dense growth suppresses weeds that would otherwise compete with the grain crops. When briefly flooded, it weakens enough to allow rice shoots to emerge, but recovers to protect the soil during the growing season.
-
-**Straw mulch**: The uncut rice and barley straw scattered over the field retains moisture, moderates soil temperature, prevents erosion, and gradually decomposes to feed soil microorganisms and provide organic matter.
-
-**No-tillage preservation of soil structure**: By never plowing the field, the natural soil structure built by roots, microorganisms, and earthworms is preserved. The soil remains loose, well-aerated, and biologically active. Conventional tillage destroys this structure and hardens the soil to the consistency of adobe.
-
-**[[clay pellet seed balling|Clay pellet]] seed protection**: Seeds encased in clay pellets are protected from predation and desiccation, allowing them to be sown months before the growing season without risk.
-
-**Biodiversity**: The presence of clover, multiple grain crops, diverse microorganisms, insects, and other organisms creates a balanced ecosystem that naturally suppresses pests and diseases without chemical intervention.
-
-## Yield Performance
-
-Fukuoka consistently harvested close to 22 bushels (1,300 pounds) each of winter grain and rice per quarter-acre, with a goal of eventually reaching 33 bushels per quarter-acre. These yields compared favorably with or exceeded conventional Japanese rice farming, which typically produced similar or lower yields despite vastly greater inputs of labor, chemicals, and machinery.
-
-He noted that conventional high-yield farming technology often did not increase net profits. The heavy application of chemical fertilizers and pesticides and indiscriminate mechanization appeared useful in reducing crop losses but were not effective techniques for increasing productivity. In fact, such practices hurt productivity. Chemical fertilizers could increase yields only when the soil was already poor and degraded, producing at most about 2 bushels per quarter-acre improvement. Green manure, nature's own fertilizer, and animal manure were cheaper and safer methods.
-
-## The "Do-Nothing" Philosophy
-
-Fukuoka called this method "do-nothing" farming, but the term is somewhat misleading. It does not mean laziness or neglect. Rather, it means eliminating unnecessary practices, expenditures, and labor by recognizing that nature, not man, grows the rice and wheat. The farmer's role is to cooperate with natural processes rather than to override them.
-
-Fukuoka reduced his labor to essentially just sowing seed and spreading straw. After thirty years of progressive elimination, he found that every time someone says "this is useful" or "one ought to do such-and-such," it is because man has created the preconditions that give this whatever-it-is its value. People create situations in which, without something they never needed in the first place, they are lost. And to escape this predicament, they make what appear to be new discoveries, which are then heralded as progress.
+Fukuoka created a hardy rice strain called "Happy Hill" with the blood of wild variants. It is one of the highest-yielding strains of rice in the world while maintaining natural disease resistance. A single head of Happy Hill could yield 5,000 grains in one year when sown over a ten-square-yard area, potentially expanding to enough seed for 7,000 acres within four years.
 
 ## See Also
 
 - [[Masanobu Fukuoka]]
-- [[natural farming]]
-- [[clay-pellet-seed-balling]]
-- [[clover as living mulch]]
-- [[do-nothing farming]]
-- [[five principles of natural farming]]
-- [[barley cultivation in Japan]]
-- [[rice cultivation history]]
-- [[composting]]
-- [[masanobu-fukuoka]]
+- [[four-principles-of-natural-farming]]
+- [[natural-orchard-ground-cover-management]]
+- [[clover-as-cover-crop]]
+- [[no-till-farming]]
+- [[green-manure-crops]]
+- [[crop-rotation-in-natural-farming]]

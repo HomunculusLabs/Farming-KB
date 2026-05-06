@@ -1,131 +1,103 @@
 ---
 title: Four Principles of Natural Farming
-created: 2026-04-28
-tags: [natural-farming, masanobu-fukuoka, philosophy, no-till, organic, permaculture]
+tags:
+  - natural-farming
+  - fukuoka
+  - philosophy
+  - agriculture
+  - no-till
+  - organic-farming
+  - permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - title: "The Natural Way of Farming"
-    author: "Masanobu Fukuoka"
-    pages: "133-180"
-type: concept
+  - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
 # Four Principles of Natural Farming
 
-The four principles of natural farming were articulated by Japanese farmer and philosopher [[Masanobu Fukuoka]] as the foundation of his "do-nothing" agricultural method. Developed over more than forty years of experimentation on his farm in Ehime Prefecture, Japan, these principles represent a radical departure from both conventional scientific agriculture and mainstream organic farming. Fukuoka demonstrated that by adhering to these four precepts, a farmer could achieve yields equal to or better than those of chemically intensive methods while reducing labor and costs to a fraction of conventional levels.
+The four principles of natural farming form the philosophical and practical foundation of [[Masanobu Fukuoka]]'s approach to agriculture. They are: no cultivation (no tillage), no fertilizer, no weeding or herbicides, and no pesticides. Together, these principles constitute what Fukuoka called "do-nothing" farming, a method that reduces human labor to essentially just sowing seed and spreading straw mulch.
 
-## Overview of the Principles
+## The "Do-Nothing" Philosophy
 
-The four principles are:
+The concept of "doing nothing" does not mean laziness or neglect. Rather, it means eliminating unnecessary human interventions and trusting the inherent productivity and self-regulating capacity of natural ecosystems. Fukuoka described this as the "methodless method of nature, the unmoving way of Bodhidharma."
 
-1. **No cultivation** (no tillage or plowing)
-2. **No fertilizer** (no chemical or prepared compost)
-3. **No weeding** (no herbicides or mechanical weed removal)
-4. **No pesticides** (no chemical or biological pest controls)
+The age of aggressive expansion in materialistic culture, Fukuoka argued, has ended. A new "do-nothing" age of consolidation and convergence has arrived. Human knowledge and effort expand and grow increasingly complex and wasteful without limit. The remedy is to halt this expansion, converge, simplify, and reduce knowledge and effort, in keeping with the laws of nature.
 
-Fukuoka insisted these were not mere techniques but expressions of a fundamental philosophical stance: that nature is complete and self-sufficient, and that human intervention in agricultural systems invariably creates the very problems it then seeks to solve. He called this the "methodless method" and described it as rooted in the Buddhist concept of Mu (nothingness).
+Natural farming is more than a revolution in agricultural techniques. It is the practical foundation of a spiritual movement, a revolution to change the way humanity lives.
 
 ## Principle One: No Cultivation
 
-### The Case Against Plowing
+### Why Plowing Is Thought Essential
 
-Conventional wisdom holds that plowing loosens soil, improves aeration, and incorporates fertilizers. Fukuoka challenged each of these assumptions through decades of direct observation. He argued that plowing actually compacts soil by breaking it into progressively finer particles with smaller interstitial spaces, producing a harder, denser earth rather than a softer one. The effect, he noted, is analogous to kneading bread dough.
+People reason that roots need air, water, and nutrients, so loosening the soil must speed crop growth. Plowing under chemical fertilizers is believed to increase their effectiveness. Conventional wisdom holds that tilling aerates the soil and encourages nitrification.
 
-### Evidence from Postwar Japan
+### Why Plowing Is Harmful
 
-After World War II, when herbicides became available in Japan, farmers who reduced plowing frequency while using herbicides for weed control discovered that their yields improved. This demonstrated that intertillage had been effective only as a weeding process and had been counterproductive as a means of loosening soil. The very practices that farmers believed were improving their soil were actually degrading it.
+Fukuoka demonstrated that plowing actually compacts soil and decreases air porosity. The effect is like kneading bread: turning soil breaks it into smaller particles with smaller interstitial spaces, resulting in harder, denser earth. After World War II, when Japanese farmers began using herbicides and reducing plowing frequency, their yields actually improved, showing that intertillage had been effective only as a weeding process, not as genuine soil loosening.
 
-### The Soil Works Itself
+### How Nature Tills the Soil
 
-In natural ecosystems, soil is aerated and enriched by the action of plant roots, earthworms, moles, and microorganisms. Grass roots penetrate twelve to fifteen inches or more, far deeper than the four to eight inches achieved by a plow. As roots wither and die, microorganisms proliferate, humus accumulates, and earthworm populations increase. This natural process, Fukuoka argued, is far more effective than any mechanical intervention.
+In nature, grasses and green manure crops work the soil to depths of twelve to fifteen inches or more, far deeper than the four to eight inches of typical plowing. Roots carry air and water deep into the earth. As roots wither and die, microorganisms proliferate, increasing humus and softening soil. Earthworms appear where there is humus, and moles begin burrowing through the soil.
 
-Fukuoka pointed to mountain forests as evidence: trees grow to magnificent heights without plowing, hoe, or fertilizer. The grasses and trees themselves, along with earthworms and moles, perform the work of the plow horse and oxen, continuously rearranging and renewing the soil. He noted that in nature, plants know exactly where they should grow: pines germinate in places suited for pines, ferns appropriate to the soil type appear on infertile land, and water-edge plants do not appear on mountain tops. This natural wisdom operates without human study or intervention.
-
-### Harmful Effects of Tillage
-
-Plowing disturbs the natural aggregation of soil particles, accelerates oxidation of organic matter, and destroys fungal networks. It encourages shallow root development in crop plants and creates a dependency cycle: soil that has been plowed becomes compacted when dried, requiring further plowing to break up again. Applying chemical fertilizers further encourages trees and crops to develop shallow root structures that extend along the topsoil rather than penetrating deep. The combination of tillage and fertilization progressively degrades soil health while creating the appearance of productivity.
+Fukuoka observed that trees in mountain forests grow to magnificent heights without plow or fertilizer, while the farmer's fields can grow only puny crops. The grasses plow the topsoil and the trees work the deeper layers. The soil lives of its own accord and plows itself.
 
 ## Principle Two: No Fertilizer
 
-### The Fertilizer Trap
+### The Fallacy of Fertilizer Dependence
 
-Fukuoka argued that the scientific reasoning behind fertilizer use contains a fundamental logical error. Scientists analyze plants, identify nutrients, apply those nutrients as fertilizer, observe growth, and conclude the fertilizer caused the growth. But this reasoning confuses correlation with causation and ignores the reality that plants grow of their own accord through their own biological processes.
+Scientists analyze plant tissues, identify nutrients, apply them as fertilizer, observe growth, and conclude that fertilizer is indispensable. But this reasoning reverses cause and effect. If a tree grows of its own accord, the uptake of nutrients by roots is not a cause but an effect of the tree's inherent growth processes.
 
-### Mountain Forest Evidence
+### Countless Evils of Fertilizer
 
-Fukuoka cited timber stands as proof that plants do not require applied nutrients. Reforested cedars in favorable areas produce approximately two tons of new growth per quarter-acre annually without any fertilizer application. When accounting for branches, leaves, and roots, annual production approaches four tons. This, he noted, is equivalent to standard fruit orchard production levels achieved only with heavy fertilization.
+Fukuoka documented numerous harms from fertilizer use:
 
-### The Countless Evils of Fertilizer
+1. **Temporary, local effect**: Fertilizer accelerates growth only temporarily and locally, while inevitably weakening crops, similar to rapid acceleration by hormones.
+2. **Lowered disease resistance**: Plants weakened by fertilizers become more susceptible to diseases and pests.
+3. **Massive waste**: About thirty percent of nitrogenous fertilizer applied to paddy fields is denitrified by soil microorganisms and escapes into the atmosphere. Phosphate fertilizers penetrate only about two inches into the soil surface.
+4. **Soil acidification**: More than seventy percent of ammonium sulfate, super-phosphate, and potassium sulfate is concentrated sulfuric acid. About 1.8 million tons of sulfuric acid were dumped annually on Japanese farmland, suppressing and killing soil microorganisms.
+5. **Trace element deficiency**: Heavy reliance on a few major nutrients creates deficiencies in zinc, manganese, boron, iodine, and other trace elements essential for crop health. Adding more of one fertilizer can render another ineffective.
 
-Fukuoka documented numerous harmful effects of chemical fertilizers:
+### One Hundred Million Microbes Per Gram
 
-- Fertilizers produce only temporary, localized growth acceleration while inevitably weakening crops
-- Plants grown with fertilizer have lowered resistance to diseases and pests
-- Approximately 30% of nitrogen from ammonium sulfate applied to paddy fields is denitrified by soil microorganisms and lost to the atmosphere
-- Phosphate fertilizers penetrate only about two inches into the soil surface
-- More than 70% of the "big three" fertilizers (ammonium sulfate, superphosphate, potassium sulfate) is concentrated sulfuric acid that acidifies soil
-- Japan was dumping approximately 1.8 million tons of sulfuric acid onto farmlands annually in fertilizer form
-- Trace element deficiencies develop as a consequence of relying on a small number of major nutrients
-
-### The Microbial World
-
-One gram of ordinary topsoil contains roughly 100 million bacteria, yeasts, molds, diatoms, and other microorganisms. These organisms exist for specific purposes, struggling, cooperating, and carrying on the cycles of nature. Chemical fertilizers disrupt this living community in ways that are still poorly understood and largely ignored by agricultural research.
+One gram of ordinary topsoil contains about one hundred million bacteria, yeasts, molds, diatoms, and other microorganisms. Far from being dead and inanimate, the soil is teeming with life. Each organism has a purpose, struggling, cooperating, and carrying on the cycles of nature. Into this living system, chemical fertilizers are thrown as powerful disruptors.
 
 ## Principle Three: No Weeding
 
-### Weeds as Contributors
+### Why Weeding Is Counterproductive
 
-Fukuoka observed that weeds are not inherently harmful to crops. In nature, no distinction exists between "crops" and "weeds" — these are categories invented by humans. Weeds can actually benefit crop plants by providing shade, retaining soil moisture, and contributing organic matter when they die back.
+Nature does not arbitrarily call one plant a weed and try to eradicate it. Weeds serve ecological functions: they protect soil from erosion, cycle nutrients, provide habitat for beneficial insects, and contribute organic matter when they die back. Constant weeding exposes soil to sun and rain, accelerating depletion.
 
-### The Clover Revolution
+### Natural Weed Management
 
-Fukuoka replaced weeding with the use of living ground covers, particularly clover. In his rice-barley succession system, clover serves as a nitrogen-fixing companion plant that suppresses unwanted weeds through competition while simultaneously enriching the soil. When the clover growth threatens to overwhelm young rice seedlings, he temporarily floods the field for four to seven days to weaken the clover without killing it.
+Rather than eradicating weeds, Fukuoka's approach manages them through competition and succession. A ground cover of clover gradually suppresses most weeds. Rice straw mulch prevents weed seed germination. When weeds do emerge, they are managed by flooding the rice paddy temporarily or by cutting rather than pulling.
 
-### Straw Mulch as Weed Control
-
-Fukuoka also used thick layers of uncut rice and barley straw as a mulch to suppress weed germination. The straw mulch conserves soil moisture, moderates soil temperature, and decomposes into humus. He confirmed that rice straw left on the ground during autumn decomposes entirely by spring, leaving no trace of pathogenic microbes.
+Fukuoka noted that one can understand the nature of soil more quickly by examining the weeds growing in it than by examining the soil itself. Weeds solve the problems of both soil and weeds.
 
 ## Principle Four: No Pesticides
 
-### Insect Pests Do Not Exist
+### The Ecological Cascade of Destruction
 
-Fukuoka made the provocative claim that, in truth, no crop diseases or insect pests exist. A thousand plant diseases exist in nature, yet in the natural balance, they cause no significant harm. It is only when human intervention disrupts ecological equilibrium that pest outbreaks become problematic.
+Fukuoka observed that the first application of pesticide to rice fields does not kill the hordes of rice leafhoppers, but tens of thousands of young spiders per square yard simply vanish, and swarms of fireflies disappear. The second application kills chalcid wasps, important natural predators, and leaves dragonfly larvae, tadpoles, and loaches as victims.
 
-### The Cascade of Destruction
+In his own fields, where spiders and frogs scrambled about, locusts jumped up, and dragonflies hovered overhead, whenever a large outbreak of leafhoppers occurred, spiders multiplied in response without fail. A natural balance asserted itself.
 
-Fukuoka documented how pesticide application in Japanese rice fields sets off a devastating chain reaction. The first application kills tens of thousands of young spiders per square yard and eliminates swarms of fireflies. The second application destroys chalcid wasps (important predators), dragonfly larvae, tadpoles, and loaches. The natural balance is progressively dismantled with each spraying.
+### The Myth of Pest Control
 
-He noted that toxic chemicals are applied at least eight times a year on Japanese rice fields, yet hardly any agricultural scientists had investigated why the amount of insect damage in these fields remained largely the same as in fields where no pesticides are used. The pesticide applications were killing natural predators faster than they were killing pests, leaving crops more vulnerable over time.
+Fukuoka cited the example of apple and strawberry production: toxic pesticides kill pollinating insects such as bees and gadflies, forcing humans to artificially pollinate each blossom. Man cannot possibly replace all the functions of plants and animals through scientific analysis and human knowledge.
 
-### The Herbicide-Vicious Cycle
+The cottony-cushion scale, once a major citrus pest in Japan, disappeared naturally with the release of the vedalia ladybug over forty years ago. After World War II, organophosphate pesticides killed the ladybugs, triggering severe scale outbreaks. In Fukuoka's unsprayed orchard, ladybugs continued controlling the pest.
 
-Fukuoka argued that humanity is kidding itself if it believes weeds can be controlled with herbicides. Herbicide use leaves hardy weeds resistant to chemicals or results in the emergence of totally unmanageable new weed strains. He cited the example of importing an insect pest to control herbicide-resistant Kentucky bluegrass spreading from road embankments. When that insect begins to attack crops, a new pesticide must be developed, setting into motion another vicious cycle of chemical dependency and ecological disruption.
+## The Centripetal vs. Centrifugal Model
 
-### The Myth of Selective Pesticides
-
-Fukuoka was deeply skeptical of so-called safe or selective pesticides. He argued that animal cells, plant cells, and microorganisms are fundamentally similar, and any substance effective against a target insect or pathogen also affects other organisms to some degree. Biological pesticides using natural predators were equally problematic, he argued, because the web of ecological relationships is too complex for humans to predict the consequences of manipulating any single species.
-
-## Results and Yields
-
-Fukuoka reported consistent yields of approximately 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre using his four-principle method. In terms of energy efficiency, natural farming produced approximately 130 pounds of rice (200,000 kilocalories of energy) per man-day of labor, without input of any outside materials. This was roughly 100 times the daily caloric intake of a farmer on a natural diet, and far more efficient than either traditional or mechanized scientific farming.
-
-## Philosophical Foundation
-
-The four principles are not merely agricultural techniques but derive from Fukuoka's broader worldview that nature is an indivisible whole that cannot be improved through human analysis and intervention. He described natural farming as "the methodless method of nature, the unmoving way of Bodhidharma" and believed it represented a path toward restoring humanity's relationship with the natural world.
-
-This philosophical foundation distinguishes natural farming from organic farming, permaculture, and other alternative agricultural movements. While these approaches may share specific techniques such as composting or cover cropping with natural farming, they differ fundamentally in their orientation toward human knowledge and action. Natural farming does not seek to manage or improve nature but to recognize nature's inherent completeness and minimize interference with its processes.
-
-Fukuoka's insight came during a moment of illumination in his youth when he understood the principle of "nothingness," or Mu. From that point, he dedicated his life to demonstrating that crops grow by themselves when given the opportunity, and that the elaborate apparatus of modern agriculture exists not because it is necessary but because previous interventions have made it appear so.
+Natural farming moves centripetally toward nature, converging toward a state of nothingness by the elimination of human labor. Scientific farming moves centrifugally away from nature, expanding through complex and diverse means toward "something-ness." Both may appear identical at a given point, but they move in opposite directions: one headed for zero and the other for infinity. Natural farming condenses inward, seeking ultimately a return to the true world of nature that transcends the world of relativity.
 
 ## See Also
 
-- [[clay-pellet-seed-broadcasting]]
-- [[composting]]
-- [[masanobu-fukuoka]]
-
-- [[Natural Farming vs Scientific Agriculture]]
-- [[Clay Pellet Seed Broadcasting]]
-- [[Direct-Seeded No-Tillage Rice Barley Succession in Clover]]
-- [[Pine Disease and Matsutake Mushroom Decline]]
 - [[Masanobu Fukuoka]]
+- [[direct-seeded-no-tillage-rice-barley-succession]]
+- [[natural-orchard-ground-cover-management]]
+- [[discriminating-vs-nondiscriminating-knowledge]]
+- [[no-till-farming]]
+- [[permaculture]]
+- [[natural-diet-and-seasonal-eating]]

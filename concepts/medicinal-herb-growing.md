@@ -100,4 +100,6 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 
 ## See Also
 
+- [[hibiscus-sabdariffa]]
+
 - [[lomatium-dissectum]]

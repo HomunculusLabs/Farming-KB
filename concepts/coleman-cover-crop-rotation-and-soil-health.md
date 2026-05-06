@@ -115,6 +115,9 @@ requirements further disrupts weed adaptation cycles.
 
 ## Related
 
+- [[camelina-sativa]]
+- [[canavalia-ensiformis]]
+
 - [[coleman-mobile-greenhouse-crop-rotation-patterns]] Concepts
 
 - [[coleman-compost-and-organic-fertility-management]] — compost as the
