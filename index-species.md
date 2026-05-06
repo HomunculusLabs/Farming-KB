@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2179 pages**
+**2192 pages**
 
 ## #
 
@@ -430,6 +430,7 @@
 - [[bom-entity-pihkal]]
 - [[bondarzewia-berkeleyi]]
 - [[borago-officinalis]]
+- [[boswellia-sacra]]
 - [[boswellia-serrata]]
 - [[botrytis-cinerea]]
 - [[brassinosteroid]]
@@ -467,6 +468,7 @@
 - [[camphor]]
 - [[cananga-odorata]]
 - [[canavalia-ensiformis]]
+- [[canavalia-gladiata]]
 - [[candida-albicans]]
 - [[canna-edulis]]
 - [[canna-indica]]
@@ -511,6 +513,7 @@
 - [[cetraria-islandica]]
 - [[chaetomium-globosum]]
 - [[chalciporus-piperatus]]
+- [[chamaecrista-fasciculata]]
 - [[chamaecytisus-palmensis]]
 - [[chamomilla-recutita-entity]]
 - [[cheese-cannabis]]
@@ -832,6 +835,7 @@
 - [[fermented-plant-juice]]
 - [[fermented-plant-juice-fpj]]
 - [[ferula-assafoetida]]
+- [[ferula-drudeana]]
 - [[ficus-carica]]
 - [[filipendula-ulmaria]]
 - [[fish-amino-acid]]
@@ -987,6 +991,7 @@
 - [[heimia-salicifolia-entity]]
 - [[helianthus-annuus-entity]]
 - [[helianthus-tuberosus]]
+- [[helichrysum-italicum]]
 - [[helvella-crispa]]
 - [[helvella-lacunosa]]
 - [[hericium-abietis]]
@@ -1038,6 +1043,7 @@
 - [[hypomyces-aurantius]]
 - [[hypomyces-lactifluorum]]
 - [[hypoxylon-fragiforme]]
+- [[hypoxylon-fuscum]]
 - [[hypsizygus-marmoreus]]
 - [[hypsizygus-tessulatus]]
 - [[hypsizygus-ulmarius]]
@@ -1141,6 +1147,7 @@
 - [[kavalactones]]
 - [[ketamine]]
 - [[keyline-design]]
+- [[khalifa-kush]]
 - [[koryaks]]
 - [[kosher-kush-entity]]
 - [[kuehneromyces-mutabilis]]
@@ -1221,6 +1228,7 @@
 - [[lespedeza-bicolor]]
 - [[leucaena-entity]]
 - [[leucaena-leucocephala]]
+- [[leucocoprinus-birnbaumii]]
 - [[levisticum-officinale]]
 - [[ligusticum-porteri]]
 - [[lilac-diesel]]
@@ -1390,6 +1398,7 @@
 - [[mmda-entity]]
 - [[mmda-entity-pihkal]]
 - [[mme-entity-pihkal]]
+- [[mochi-cannabis-strain]]
 - [[monacrosporium-haptotylum]]
 - [[monarda-didyma]]
 - [[monarda-fistulosa]]
@@ -1484,6 +1493,7 @@
 
 - [[ocimene]]
 - [[ocimum-basilicum]]
+- [[ocimum-gratissimum]]
 - [[ocimum-sanctum]]
 - [[ocimum-tenuiflorum]]
 - [[ocimum-tenuiflorum-entity]]
@@ -1758,6 +1768,7 @@
 - [[psilocybe-natmansii]]
 - [[psilocybe-oaxacensis]]
 - [[psilocybe-ovoideocystidiata]]
+- [[psilocybe-ovoidocystidiata]]
 - [[psilocybe-panaeoliformis]]
 - [[psilocybe-pelliculosa-entity]]
 - [[psilocybe-phyllogena]]
@@ -2033,6 +2044,7 @@
 - [[tagetes-lucida]]
 - [[tagetes-minuta]]
 - [[talaromyces-flavus]]
+- [[talinum-paniculatum]]
 - [[tamarillo]]
 - [[tamarindus-indica]]
 - [[tanacetum-parthenium]]
@@ -2067,6 +2079,7 @@
 - [[thai-stick]]
 - [[thai-stick-entity]]
 - [[thc-bomb]]
+- [[thc-o-acetate]]
 - [[thelephora-terrestris]]
 - [[theobroma-cacao]]
 - [[theobromine]]

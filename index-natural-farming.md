@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**851 pages**
+**852 pages**
 
 ## A
 
@@ -190,6 +190,7 @@
 - [[fukuoka-green-gulch-zen-center-desert-reclamation]]
 - [[fukuoka-green-manure-clover-revolution]]
 - [[fukuoka-green-rice-leafhopper-virus]]
+- [[fukuoka-greening-deserts]]
 - [[fukuoka-ground-cover-strategy]]
 - [[fukuoka-happy-hill-rice-strain]]
 - [[fukuoka-harry-roberts-zen-center-tribute]]

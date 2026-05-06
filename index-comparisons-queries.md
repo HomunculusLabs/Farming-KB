@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1062 pages**
+**1070 pages**
 
 ## A
 
@@ -64,6 +64,7 @@
 - [[comparison-beekeeping-basics-vs-top-bar-hive]]
 - [[comparison-beer-brewing-vs-cider-making]]
 - [[comparison-beer-vs-wine-making]]
+- [[comparison-beeswax-vs-shellac-vs-carnauba-wax]]
 - [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 - [[comparison-berry-growing-vs-fruit-tree-pruning]]
 - [[comparison-bim-vs-jadam-imo]]
@@ -134,6 +135,7 @@
 - [[comparison-chop-and-drop-mulching-vs-mulching-guide]]
 - [[comparison-chop-and-drop-vs-cover-crops]]
 - [[comparison-chop-and-drop-vs-sheet-mulching]]
+- [[comparison-cicadas-vs-locusts]]
 - [[comparison-cider-vs-mead-making]]
 - [[comparison-citrus-vs-mango-cultivation]]
 - [[comparison-cmh-vs-hps-grow-lights]]
@@ -376,6 +378,7 @@
 - [[comparison-reishi-vs-chaga-medicinal-mushrooms]]
 - [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
+- [[comparison-rewilding-vs-traditional-conservation]]
 - [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
@@ -409,6 +412,7 @@
 - [[comparison-silvopasture-vs-pasture]]
 - [[comparison-slip-form-stone-vs-timber-frame]]
 - [[comparison-smoking-vs-canning]]
+- [[comparison-snail-farming-vs-vermicomposting]]
 - [[comparison-sog-vs-scrog]]
 - [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]]
 - [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]]
@@ -720,6 +724,7 @@
 - [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
 - [[query-how-do-psychedelics-change-consciousness]]
 - [[query-how-do-slime-molds-decompose-organic-matter]]
+- [[query-how-do-trophic-cascades-work]]
 - [[query-how-do-white-rot-fungi-break-down-lignin]]
 - [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]
 - [[query-how-do-you-make-your-own-mushroom-spawn-at-home]]
@@ -881,6 +886,7 @@
 - [[query-how-to-start-a-backyard-orchard]]
 - [[query-how-to-start-a-food-forest]]
 - [[query-how-to-start-a-saffron-farm]]
+- [[query-how-to-start-a-small-scale-snail-farm]]
 - [[query-how-to-start-a-syntropic-farm]]
 - [[query-how-to-start-a-worm-compost-bin]]
 - [[query-how-to-start-a-worm-farm-for-profit]]
@@ -1028,6 +1034,7 @@
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]]
 - [[query-what-is-seed-viability-and-how-do-i-test-it]]
 - [[query-what-is-sheet-mulching-and-how-to-do-it]]
+- [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]]
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-what-is-super-cropping-and-when-to-do-it]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
@@ -1095,6 +1102,7 @@
 - [[query-who-is-sepp-holzer-and-what-is-his-method]]
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
 - [[query-why-cant-heat-engines-be-100-percent-efficient]]
+- [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]]
 
 ## R
 
