@@ -3,6 +3,7 @@ title: "Rankine Cycle"
 aliases: [steam power cycle, vapor power cycle, Clausius-Rankine cycle]
 tags: [thermodynamics, power-engineering, heat-engines, energy, engineering]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

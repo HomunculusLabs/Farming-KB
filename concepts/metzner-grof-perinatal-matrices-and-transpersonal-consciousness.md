@@ -1,4 +1,13 @@
-     1|---
+---
+title: Metzner Grof Perinatal Matrices And Transpersonal Consciousness
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: [reference]
+sources: []
+---
+
+1|---
      2|title: Grof Perinatal Matrices and Transpersonal Consciousness
      3|tags:
      4|  - grof

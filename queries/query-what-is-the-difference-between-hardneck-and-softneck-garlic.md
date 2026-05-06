@@ -8,6 +8,7 @@ sources:
   - ~/wiki/entities/allium-sativum-entity.md
   - ~/wiki/concepts/growing-alliums-organically.md
   - ~/wiki/concepts/solomon-growing-garlic-onions-leeks.md
+type: query
 ---
 
 # What Is the Difference Between Hardneck and Softneck Garlic?

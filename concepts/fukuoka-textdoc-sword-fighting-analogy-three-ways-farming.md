@@ -5,6 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Sword Fighting Analogy: One-Sword, Two-Sword, and No-Sword Schools of Farming

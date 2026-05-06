@@ -4,7 +4,9 @@ type: concept
 aliases: [Maxwell equations, Maxwell's equations, electromagnetic field equations]
 tags: [physics, electromagnetism, classical-electrodynamics, wave-equation]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 Maxwell's equations are the four foundational equations of classical electromagnetism,

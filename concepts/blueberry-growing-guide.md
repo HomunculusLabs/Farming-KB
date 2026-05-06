@@ -1,7 +1,10 @@
 ---
 title: "Blueberry Growing Guide"
 created: 2026-04-28
+updated: 2026-05-06
 type: concept
+tags: [reference]
+sources: []
 ---
 ## Overview
 Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation and variety selection, blueberries are reliable and productive in home gardens across most temperate regions.

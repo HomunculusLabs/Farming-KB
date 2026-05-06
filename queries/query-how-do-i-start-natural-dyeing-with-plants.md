@@ -4,6 +4,7 @@ tags: [query, natural-dyeing, plants, textiles, fiber-arts]
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: query
 ---
 
 # How Do I Start Natural Dyeing with Plants?

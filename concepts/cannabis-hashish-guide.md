@@ -1,7 +1,10 @@
 ---
 title: "Cannabis Hashish Guide"
 created: 2026-04-28
+updated: 2026-05-06
 type: concept
+tags: [reference]
+sources: []
 ---
 # Cannabis Hashish Guide
 ## Overview

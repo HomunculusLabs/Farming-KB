@@ -3,6 +3,7 @@ title: "Kirchhoff's Circuit Laws"
 aliases: [Kirchhoff laws, Kirchhoff current law, Kirchhoff voltage law, junction rule, loop rule]
 tags: [electrical-engineering, circuits, electromagnetism, physics, engineering]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

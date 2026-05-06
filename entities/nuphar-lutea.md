@@ -114,7 +114,7 @@ The plant features in the art and literature of the Impressionist period. Claude
 - [[nymphaea-caerulea]]
 - [[lemna-minor]]
 - [[trapa-natans]]
-- [[eichhornia-crassipes]]
-- [[nuphar]]
-- [[nymphaeaceae]]
+- eichhornia crassipes
+- nuphar
+- nymphaeaceae
 - [[colocasia-esculenta]]

@@ -3,6 +3,7 @@ title: "One-Carbon Metabolism"
 aliases: [one carbon metabolism, folate-mediated one-carbon metabolism, folate methionine cycle]
 tags: [biochemistry, metabolism, pharmacology, nutrition, epigenetics]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

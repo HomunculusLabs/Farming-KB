@@ -15,6 +15,7 @@ sources:
   - McKenna, T. (1992). "Food of the Gods." Bantam Books.
   - Coe, S.D. & Coe, M.D. (2013). "The True History of Chocolate." Thames & Hudson.
   - Dillinger, T.L. et al. (2000). "Food of the Gods." Journal of Nutrition.
+type: concept
 ---
 
 ## Overview

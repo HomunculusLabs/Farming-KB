@@ -114,7 +114,7 @@ The crop provides habitat for ground-nesting birds in agricultural landscapes. I
 - [[camelina-sativa]]
 - [[carthamus-tinctorius]]
 - [[daucus-carota]]
-- [[linum]]
-- [[linaceae]]
+- linum
+- linaceae
 - [[canavalia-ensiformis]]
 - [[lemna-minor]]

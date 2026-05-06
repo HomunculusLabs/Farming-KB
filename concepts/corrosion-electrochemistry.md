@@ -3,6 +3,7 @@ title: "Corrosion Electrochemistry"
 aliases: [electrochemical corrosion, corrosion cells, galvanic corrosion]
 tags: [materials-science, electrochemistry, engineering, corrosion, metals]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

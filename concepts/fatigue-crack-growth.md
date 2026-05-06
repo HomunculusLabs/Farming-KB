@@ -3,6 +3,7 @@ title: "Fatigue Crack Growth"
 aliases: [fatigue crack propagation, crack growth rate, Paris law fatigue]
 tags: [materials-science, fracture-mechanics, fatigue, engineering, reliability]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

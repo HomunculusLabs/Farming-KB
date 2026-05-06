@@ -17,6 +17,7 @@ sources:
   - https://www.gardeningknowhow.com/edible/fruits/passionfruit/passionfruit-vine-care.htm
   - https://www.fao.org/3/x4516e/x4516e06.htm
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/passiflora
+type: query
 ---
 
 # How to Grow Passionfruit in Different Climates?

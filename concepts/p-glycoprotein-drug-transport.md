@@ -3,6 +3,7 @@ title: "P-glycoprotein Drug Transport"
 aliases: [P-gp, ABCB1, MDR1, multidrug resistance protein 1]
 tags: [pharmacology, biochemistry, toxicology, drug-transport]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

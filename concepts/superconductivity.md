@@ -4,7 +4,9 @@ type: concept
 aliases: [superconductor, superconducting state, zero resistance, Meissner effect, Cooper pairing]
 tags: [physics, condensed-matter, materials-science, quantum-mechanics, cryogenics]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 Superconductivity is a quantum mechanical phenomenon in which certain materials exhibit

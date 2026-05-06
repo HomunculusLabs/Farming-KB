@@ -1,4 +1,5 @@
 ---
+title: Permaculture Community Structures And Legal Organizations
 permacultureculture Community Structures and Legal Organizations
 created: 2026-04-19
 updated: 2026-04-19

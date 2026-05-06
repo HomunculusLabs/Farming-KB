@@ -9,6 +9,7 @@ sources:
   - ~/wiki/concepts/alliums-growing-guide.md
   - ~/wiki/concepts/solomon-growing-garlic-onions-leeks.md
   - ~/wiki/concepts/growing-alliums-organically.md
+type: comparison
 ---
 
 # Garlic vs Onion Growing

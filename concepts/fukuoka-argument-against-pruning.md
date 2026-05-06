@@ -2,6 +2,7 @@
 title: "Fukuoka's Argument Against Pruning — Natural Tree Form"
 type: concept
 created: 2026-04-20
+updated: 2026-05-06
 type: concept
 updamasanobu-fukuokatype: concept
 tags: [fukuoka, natural-farming, philosophy]

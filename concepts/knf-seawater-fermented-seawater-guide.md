@@ -81,6 +81,10 @@ See also [[knf-indigenous-microorganism-culture]], [[knf-mineral-liquid]], [[knf
 
 ## See Also
 
+- [[cucurbita-pepo]]
+
+- [[gelsemium-sempervirens]]
+
 [[knf-seawater-and-fermented-seawater]], [[fermented-vegetables-guide]], [[kombucha-and-fermented-teas-guide]], [[knf-fermented-fruit-juice]], [[fermented-hot-sauce-guide]], [[knf-fermented-mixed-compost]], [[knf-fpj-ratio-guide]], [[psilocybin-extraction-guide]]
 
 ## Practical Applications

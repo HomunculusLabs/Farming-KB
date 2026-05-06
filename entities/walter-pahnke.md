@@ -1,6 +1,7 @@
 ---
 title: Walter Pahnke
 created: 2026-04-28
+updated: 2026-05-06
 type: person
 aliases:
   - Walter N. Pahnke
@@ -10,6 +11,8 @@ categories:
   - psychiatry
   - psychedelic-research
   - psychology-of-religion
+tags: [profile]
+sources: []
 ---
 
 # Walter Pahnke

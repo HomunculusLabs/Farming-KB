@@ -1,4 +1,5 @@
 ---
+title: 2 Me Dmt Entity Tihkal
 titldmt2-Me-DMT (2,N,N-Trimethyltryptamine) — TIHKAL Entry #34
 created: 2026-04-17
 updated: 2026-04-17

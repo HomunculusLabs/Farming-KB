@@ -3,6 +3,7 @@ title: "Euler-Bernoulli Beam Theory"
 aliases: [classical beam theory, engineering beam theory, Bernoulli beam theory]
 tags: [mechanics, structural-engineering, elasticity, beams, engineering]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

@@ -1,4 +1,5 @@
 ---
+title: Permaculture Mapping And Base Maps
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

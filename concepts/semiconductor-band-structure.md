@@ -3,6 +3,7 @@ title: "Semiconductor Band Structure"
 aliases: [energy bands in semiconductors, semiconductor band theory, band gap physics]
 tags: [solid-state-physics, electrical-engineering, materials-science, semiconductors]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

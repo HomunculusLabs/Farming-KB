@@ -5,6 +5,8 @@ question: "Why can't heat engines be 100 percent efficient?"
 tags: [thermodynamics, heat-engines, carnot-cycle, entropy, efficiency]
 related: [carnot-cycle-and-heat-engines, rankine-cycle, laws-of-thermodynamics]
 created: 2026-05-02
+updated: 2026-05-06
+sources: []
 ---
 
 # Why can't heat engines be 100 percent efficient?

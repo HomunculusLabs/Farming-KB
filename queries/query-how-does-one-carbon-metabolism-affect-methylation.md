@@ -3,6 +3,7 @@ title: "How does one-carbon metabolism affect methylation?"
 aliases: [how one-carbon metabolism affects methylation, folate methionine cycle methylation, methyl donors and one carbon metabolism]
 tags: [query, biochemistry, metabolism, epigenetics, nutrition]
 created: 2026-05-02
+updated: 2026-05-06
 type: query
 sources: []
 ---

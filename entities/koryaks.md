@@ -28,6 +28,7 @@ sources:
 created: 2026-05-02
 updated: 2026-05-02
 status: complete
+tags: [profile]
 ---
 
 # Koryaks

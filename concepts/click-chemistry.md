@@ -3,6 +3,7 @@ title: "Click Chemistry"
 aliases: [click reactions, bioorthogonal click chemistry, CuAAC chemistry]
 tags: [chemistry, organic-chemistry, bioconjugation, medicinal-chemistry]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

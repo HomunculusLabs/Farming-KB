@@ -5,6 +5,7 @@ updated: 2026-05-02
 type: concept
 tags: [nitrogen, soil-biology, bacteria, symbiosis, nutrient-cycling, agriculture,
   farming, science, soil-health, green-manure, cover-crop, biochemistry, plants]
+sources: []
 ---
 
 Biological nitrogen fixation (BNF) is the enzymatic conversion of atmospheric

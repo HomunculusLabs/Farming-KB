@@ -114,7 +114,7 @@ The plant is not listed under the Convention on International Trade in Endangere
 - [[conium-maculatus]]
 - [[taxus-baccata]]
 - [[datura-stramonium]]
-- [[strychnos-nux-vomica]]
+- strychnos nux vomica
 - [[hydrastis-canadensis]]
 - [[papaver-somniferum]]
 

@@ -3,6 +3,7 @@ title: "Phase-Change Materials for Thermal Energy Storage"
 aliases: [pcm, latent-heat-storage, phase-change-energy-storage]
 tags: [materials-science, thermodynamics, energy-storage, heat-transfer, engineering]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

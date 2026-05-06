@@ -146,5 +146,9 @@ Hardiness is limited to tropical and subtropical zones (USDA 10–12), with dama
 
 ## See Also
 
+- [[herbal-plant-remedies]]
+- [[query-how-to-make-herbal-salves-and-balms-at-home]]
+- [[cannabis-for-neuropathic-pain]]
+
 - [[gliricidia-sepium]]
 - [[leucaena-leucocephala]]

@@ -4,6 +4,8 @@ type: comparison
 tags: [biochemistry, physiology, hemoglobin, myoglobin, oxygen-binding]
 related: [hemoglobin-and-oxygen-transport, hemoglobin-oxygen-transport-biochemistry, allosteric-regulation]
 created: 2026-05-02
+updated: 2026-05-06
+sources: []
 ---
 # Hemoglobin vs Myoglobin
 Hemoglobin and myoglobin are related heme proteins that bind oxygen, but they solve different physiological problems.

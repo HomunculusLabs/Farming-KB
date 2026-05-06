@@ -4,7 +4,9 @@ type: concept
 aliases: [phase diagram, phase equilibria, Gibbs phase rule, eutectic, peritectic, TTT diagram, CCT diagram, precipitation hardening, CALPHAD]
 tags: [physics, materials-science, thermodynamics, metallurgy, phase-transformations, alloy-design, engineering]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 A **phase diagram** is a graphical map showing the equilibrium states of a material system as a function of thermodynamic variables (temperature, pressure, composition). Each region represents a stable phase or phase combination. For binary systems at constant pressure, the horizontal axis is composition (weight or atomic percent) and the vertical axis is temperature. A **tie line** drawn through a two-phase region gives the compositions of coexisting phases. The **lever rule** yields mass fractions: for overall composition x₀ between x_α and x_β, fraction of α is (x_β − x₀)/(x_β − x_α), fraction of β is (x₀ − x_α)/(x_β − x_α).

@@ -143,3 +143,9 @@ fMRI studies have revealed several consistent neural correlates of the psilocybi
 - **Mazatec**: Continuing unbroken tradition of ritual use, notably the **velada** ceremony guided by a curandera/o. Maria Sabina is the most famous Mazatec curandera.
 - **Western rediscovery**: R. Gordon Wasson's 1957 *Life* magazine article "Seeking the Magic Mushroom" introduced psilocybin mushrooms to Western audiences.
 - **Synthesis**: Albert Hofmann first synthesized psilocybin in 1958 at Sandoz Laboratories, where it was briefly marketed as **Indocybin** for psychotherapeutic research before being criminalized in the late 1960s.
+
+## See Also
+
+- [[psilocybin-mushroom-species-identification]]
+- [[psilocybin-consciousness-understanding]]
+- [[psilocybin-mushroom-global-distribution]]

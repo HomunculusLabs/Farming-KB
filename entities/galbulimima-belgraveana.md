@@ -26,6 +26,7 @@ taxonomy:
   genus: Galbulimima
   species: G. belgraveana
   authority: (F.Muell.) Sprague
+sources: []
 ---
 
 # Galbulimima belgraveana

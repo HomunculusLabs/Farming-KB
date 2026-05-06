@@ -136,6 +136,8 @@ guilds provide continuous nutrient cycling, while seasonal cover crops
 protect and feed annual growing areas between rotations.
 
 ## See Also
+
+- [[linum-usitatissimum]]
 - [[dynamic-accumulators-overview]]
 - [[comfrey-plant-guide]]
 - [[comparison-green-manure-vs-cover-crops]]

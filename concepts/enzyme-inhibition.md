@@ -3,6 +3,7 @@ title: "Enzyme Inhibition"
 aliases: [enzyme inhibitors, reversible inhibition, irreversible inhibition]
 tags: [biochemistry, enzymology, pharmacology, drug-discovery, toxicology]
 created: 2026-05-03
+updated: 2026-05-06
 type: concept
 sources: []
 ---

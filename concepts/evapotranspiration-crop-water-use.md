@@ -5,6 +5,7 @@ updated: 2026-05-02
 type: concept
 tags: [irrigation, water, hydrology, agriculture, crop-science, climate,
   soil-moisture, plant-physiology, meteorology, farming, drought, plants]
+sources: []
 ---
 
 Evapotranspiration (ET) is the combined process of water transfer from land

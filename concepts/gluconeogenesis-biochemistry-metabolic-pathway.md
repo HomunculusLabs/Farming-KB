@@ -1,6 +1,7 @@
 ---
 title: "Gluconeogenesis"
 created: 2026-04-28
+updated: 2026-05-06
 description: "Gluconeogenesis is the metabolic pathway by which glucose is synthesized from non-carbohydrate precursors such as lactate, glycerol, and glucogenic amino acids. It occurs primarily in the liver and renal cortex and is essential for maintaining blood glucose levels during fasting, starvation, and intense exercise."
 tags:
   - biochemistry
@@ -21,6 +22,7 @@ related:
   - diabetes-mellitus
   - hypoglycemia
 type: concept
+sources: []
 ---
 
 ## Overview and Biological Significance

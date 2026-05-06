@@ -1,6 +1,7 @@
 ---
 title: "Reactive Metabolites and Bioactivation Toxicology"
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [reactive metabolites, bioactivation, metabolic activation, covalent binding, hapten hypothesis]
 tags: [toxicology, pharmacology, drug-metabolism, biochemistry, medicinal-chemistry]
 date: 2026-05-02

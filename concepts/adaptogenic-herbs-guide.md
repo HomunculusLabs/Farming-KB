@@ -1,4 +1,5 @@
 ---
+title: Adaptogenic Herbs Guide
 ti
 
 # Adaptogenic Herbs Guide
@@ -40,7 +41,10 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 - Pregnancy (uterine stimulant). Autoimmune conditions. Hyperthyroidism. Nightshade allergy (Solanaceae family). May enhance effects of sedatives and thyroid medications.
 
 created: 2026-04-28
+updated: 2026-05-06
 type: concept
+tags: [reference]
+sources: []
 ---
 
 ## Rhodiola ([[rhodiola-rosea]])

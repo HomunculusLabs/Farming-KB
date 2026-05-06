@@ -3,6 +3,7 @@ title: "Computational Fluid Dynamics"
 aliases: [CFD, numerical fluid dynamics, fluid-flow simulation]
 tags: [engineering, fluid-dynamics, computational-physics, simulation, numerical-methods]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

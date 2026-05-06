@@ -3,6 +3,7 @@ title: "Heat Transfer Coefficient"
 aliases: [film coefficient, convective heat transfer coefficient, h coefficient]
 tags: [thermal-engineering, heat-transfer, fluid-dynamics, thermodynamics, engineering]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

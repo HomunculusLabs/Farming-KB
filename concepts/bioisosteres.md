@@ -3,6 +3,7 @@ title: "Bioisosteres"
 aliases: [bioisosterism, bioisosteric replacement, isosteric replacement]
 tags: [medicinal-chemistry, pharmacology, drug-discovery, organic-chemistry, ADME]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

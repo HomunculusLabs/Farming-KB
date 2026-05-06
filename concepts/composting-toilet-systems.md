@@ -4,6 +4,7 @@ created: 2026-04-28
 updated: 2026-04-12
 type: conceptdecompositionteading, off-grid, water, composting, sustainability, construction]
 sources: []
+tags: [reference]
 ---
 # Composting Toilet Systems
 [[composting-toilets]] treat human waste on-site through aerobic decomposition,

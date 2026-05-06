@@ -1,6 +1,7 @@
 ---
 title: DMT Extraction Guide
 created: 20dimethyltryptamine2026-04-12
+updated: 2026-05-06
 type: concept
 tags: [entheogen, chemistry, preparation, lab-technique, psychopharmacology, safety, biochemistry, methods, beginner, pharmacology]
 sources: []

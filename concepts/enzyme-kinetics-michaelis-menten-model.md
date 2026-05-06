@@ -1,9 +1,11 @@
 ---
 title: Enzyme Kinetics and the Michaelis-Menten Model
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [Michaelis-Menten kinetics, enzyme kinetics, Vmax, Km, enzyme catalysis]
 tags: [biochemistry, enzymology, kinetics, catalysis]
 type: concept
+sources: []
 ---
 
 ## The Michaelis-Menten Equation

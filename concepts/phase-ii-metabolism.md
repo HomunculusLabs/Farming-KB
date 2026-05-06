@@ -3,6 +3,7 @@ title: "Phase II Metabolism"
 aliases: [phase two metabolism, conjugation metabolism, xenobiotic conjugation]
 tags: [pharmacology, toxicology, biochemistry, drug-metabolism, xenobiotics]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

@@ -4,6 +4,7 @@ tags: [comparison, natural-building, wattle-and-daub, straw-bale, sustainable-ho
 date: 2026-04-28
 updated: 2026-04-28
 sources: []
+type: comparison
 ---
 
 # Wattle and Daub vs Straw Bale Construction

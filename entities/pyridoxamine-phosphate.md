@@ -19,6 +19,7 @@ related_concepts:
 sources:
   - https://pubchem.ncbi.nlm.nih.gov/compound/1053
   - https://en.wikipedia.org/wiki/Pyridoxamine
+tags: [profile]
 ---
 
 # Pyridoxamine Phosphate

@@ -9,6 +9,7 @@ sources:
   - "Morton, J. 1987. Pomegranate. In: Fruits of Warm Climates. Purdue University."
   - "Morton, J. 1987. Persimmon. In: Fruits of Warm Climates. Purdue University."
   - "USDA NRCS Plant Guide: Diospyros virginiana (American Persimmon). plants.usda.gov."
+type: comparison
 ---
 
 # Pomegranate vs Persimmon Cultivation

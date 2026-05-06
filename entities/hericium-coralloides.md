@@ -88,6 +88,8 @@ While *Hericium coralloides* shares many bioactive properties with the more exte
 
 ## See Also
 
+- [[hericium-coralloides-entity]]
+
 - [[hericium-erinaceus]]
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]]
 - [[stamets-cultivator-log-cultivation-shiitake-hericium]]

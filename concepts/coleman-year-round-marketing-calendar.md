@@ -5,6 +5,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md"]
 type: concept
+tags: [reference]
 ---
 
 # Year-Round Marketing Calendar

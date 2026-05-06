@@ -1,6 +1,7 @@
 ---
 title: R. Gordon Wasson
 created: 2026-04-28
+updated: 2026-05-06
 type: person
 subtype: ethnomycologist
 born: 1898-09-22
@@ -27,6 +28,7 @@ tags:
   - soma
   - mazatec
   - psilocybin
+sources: []
 ---
 
 Robert Gordon Wasson (September 22, 1898 – December 23, 1986) was an American banker, author, and amateur ethnomycologist who, together with his wife Valentina Pavlovna Wasson, pioneered the modern study of psychoactive mushrooms. He is credited with founding the field of **ethnomycology**, introducing the term **"magic mushroom"** to the English language, and catalyzing the global psychedelic movement through his 1957 *Life* magazine article. His research chain—Wasson's fieldwork leading to Roger Heim's botanical identification and Albert Hofmann's isolation of psilocybin—remains a paradigmatic example of how ethnobotanical discovery can lead to pharmacological breakthroughs.

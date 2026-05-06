@@ -3,6 +3,7 @@ title: "Oxidative Addition in Organometallic Chemistry"
 aliases: [oxidative addition, oxidative addition reaction, metal insertion]
 tags: [organometallic-chemistry, catalysis, inorganic-chemistry, organic-chemistry, reaction-mechanisms]
 created: 2026-05-03
+updated: 2026-05-06
 type: concept
 sources: []
 ---

@@ -3,6 +3,7 @@ title: "Idiosyncratic Drug Toxicity"
 aliases: [idiosyncratic drug reaction, IDR, IDILI, unpredictable drug toxicity]
 tags: [pharmacology, toxicology, immunology, drug-metabolism, safety]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

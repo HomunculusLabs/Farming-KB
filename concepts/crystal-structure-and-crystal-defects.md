@@ -10,7 +10,9 @@ related:
 tags: [materials-science, crystallography, defects, metallurgy, semiconductor,
   dislocations, grain-boundaries, precipitation, lattice-structure, xrd]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 Crystal structure and crystal defects are central concepts in materials

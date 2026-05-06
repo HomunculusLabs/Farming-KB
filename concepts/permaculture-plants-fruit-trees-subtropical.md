@@ -1,4 +1,5 @@
 ---
+title: Permaculture Plants Fruit Trees Subtropical
 permacultureculture Fruit Trees for Subtropical Climates
 created: 2026-04-26
 updated: 2026-04-24

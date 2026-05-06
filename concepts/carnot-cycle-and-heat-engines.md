@@ -8,7 +8,9 @@ related:
   - navier-stokes-equations
 tags: [thermodynamics, heat-engine, carnot, efficiency, energy-conversion, physics]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 The Carnot cycle is the foundational theoretical model of heat engine operation, establishing the maximum possible efficiency any engine can achieve when converting thermal energy into mechanical work. Proposed by Nicolas Léonard Sadi Carnot in 1824, it remains the benchmark against which all real engines are measured and was instrumental in the development of the second law of thermodynamics and the concept of entropy.

@@ -1,4 +1,5 @@
 ---
+title: Powell Psilocybin Harm Reduction
 psilocybinilocybin Harm Reduction"
 created: 2026-04-26
 sources: "The Psilocybin Solution — Simon G. Powell"

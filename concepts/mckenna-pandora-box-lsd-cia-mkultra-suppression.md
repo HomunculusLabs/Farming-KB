@@ -5,6 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of_the_gods.md
+type: concept
 ---
 
 # Pandora's Box, LSD, CIA Operations, and the Suppression of Psychedelic Research

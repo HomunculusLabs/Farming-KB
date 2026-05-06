@@ -12,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - raw/papers/mckenna_t-food_of_the-gods.md
+type: concept
 ---
 
 # Stropharia Cubensis as the Ur Plant

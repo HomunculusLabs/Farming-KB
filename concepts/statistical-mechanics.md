@@ -9,7 +9,9 @@ related:
 tags: [physics, statistical-mechanics, thermodynamics, entropy, boltzmann,
   quantum-statistics, ensemble-theory, partition-function, information-theory]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 Statistical mechanics is the branch of physics that bridges microscopic

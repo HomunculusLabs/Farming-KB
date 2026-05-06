@@ -3,6 +3,7 @@ title: "Induction Motor Operation"
 aliases: [asynchronous motor, induction machine, squirrel cage motor]
 tags: [electrical-engineering, electromagnetism, motors, power-systems, machinery]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

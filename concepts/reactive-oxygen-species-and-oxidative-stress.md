@@ -1,9 +1,11 @@
 ---
 title: "Reactive Oxygen Species and Oxidative Stress"
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [ROS, oxidative stress, free radicals, redox biology, lipid peroxidation, antioxidant defense]
 tags: [biochemistry, molecular-biology, toxicology, pharmacology, cell-biology, redox-signaling]
 type: concept
+sources: []
 ---
 
 ## Overview

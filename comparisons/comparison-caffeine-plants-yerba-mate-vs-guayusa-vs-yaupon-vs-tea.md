@@ -118,6 +118,10 @@ Guayusa is notable for approaching coffee-level caffeine while maintaining a smo
 
 ## See Also
 
+- [[nuphar-lutea]]
+
+- [[piscidia-piscipula]]
+
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[herb-growing-guide]]
 - [[food-forest-layers-and-species]]

@@ -1,6 +1,7 @@
 ---
 title: "Bjerkandera adusta"
 created: 2026-04-28
+updated: 2026-05-06
 type: organism
 aliases:
   - "smoky polypore"
@@ -20,6 +21,8 @@ habitat: "Dead hardwood, fallen logs, stumps in broadleaf forests"
 distribution: "Cosmopolitan; temperate regions worldwide"
 nutritional_mode: "Saprotrophic (white-rot)"
 genome_size: "~35-40 Mb"
+tags: [profile]
+sources: []
 ---
 
 # Bjerkandera adusta

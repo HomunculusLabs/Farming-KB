@@ -3,6 +3,7 @@ title: "Semiconductor P-N Junction"
 aliases: [pn junction, p-n diode junction, depletion junction]
 tags: [electrical-engineering, semiconductors, electronics, solid-state-physics, materials-science]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

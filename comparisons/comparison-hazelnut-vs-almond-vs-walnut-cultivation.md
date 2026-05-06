@@ -4,6 +4,7 @@ tags: [hazelnut, almond, walnut, nut-trees, comparison, orchard, homesteading, c
 date: 2026-04-28
 updated: 2026-04-28
 sources: [https://www.extension.oregonstate.edu, https://www.ucanr.edu, https://www.sare.org, https://www.fao.org, https://www.usda.gov]
+type: comparison
 ---
 
 # Hazelnut vs Almond vs Walnut Cultivation

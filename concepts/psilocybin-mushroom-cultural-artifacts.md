@@ -1,4 +1,5 @@
 ---
+title: Psilocybin Mushroom Cultural Artifacts
 psilocybin-mushroomMushroom Cultural Artifacts"
 tags:
   - mushroom-art

@@ -3,6 +3,7 @@ title: "Phase Transfer Catalysis"
 aliases: [phase-transfer catalyst, PTC, interphase catalysis]
 tags: [chemistry, organic-chemistry, catalysis, green-chemistry, process-chemistry]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

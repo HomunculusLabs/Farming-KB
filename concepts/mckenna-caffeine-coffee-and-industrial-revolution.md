@@ -14,6 +14,7 @@ sources:
   - McKenna, T. (1992). "Food of the Gods." Bantam Books.
   - Hobhouse, H. (1985). "Seeds of Change." Harper & Row.
   - Weinberg, B.A. & Bealer, B.K. (2001). "The World of Caffeine." Routledge.
+type: concept
 ---
 
 ## Overview

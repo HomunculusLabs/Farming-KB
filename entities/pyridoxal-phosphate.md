@@ -20,6 +20,7 @@ related_concepts:
 sources:
   - https://pubchem.ncbi.nlm.nih.gov/compound/1051
   - https://en.wikipedia.org/wiki/Pyridoxal_phosphate
+tags: [profile]
 ---
 
 # Pyridoxal Phosphate

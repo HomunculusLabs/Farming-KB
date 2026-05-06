@@ -3,6 +3,7 @@ title: "Urea Cycle Biochemistry"
 aliases: [ornithine cycle, urea synthesis, ammonia detoxification]
 tags: [biochemistry, metabolism, nitrogen, liver, toxicology]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

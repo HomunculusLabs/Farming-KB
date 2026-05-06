@@ -3,6 +3,7 @@ title: "Allosteric Regulation"
 aliases: [allostery, allosteric modulation, allosteric control]
 tags: [biochemistry, enzymology, pharmacology, protein-dynamics, regulation]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

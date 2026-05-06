@@ -1,4 +1,5 @@
 ---
+title: Amanita Muscaria Herb Of Immortality Soma Hypothesis
 titlsoma-hypothesisothesis in Amanita Muscaria: Herb of Immortality
 created: 2026-04-26
 updated: 2026-04-24

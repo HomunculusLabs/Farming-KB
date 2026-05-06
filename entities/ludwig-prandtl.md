@@ -1,6 +1,7 @@
 ---
 title: Ludwig Prandtl
 created: 2026-04-28
+updated: 2026-05-06
 type: person
 aliases:
   - Ludwig Prandtl
@@ -11,6 +12,8 @@ categories:
   - fluid-dynamics
   - aerodynamics
   - engineering
+tags: [profile]
+sources: []
 ---
 
 # Ludwig Prandtl

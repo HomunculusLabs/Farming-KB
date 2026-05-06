@@ -1,4 +1,13 @@
-     1|---
+---
+title: Mckenna Tryptamine Transtemporal Consciousness And Nunc Stans
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: [reference]
+sources: []
+---
+
+1|---
      2|title: Tryptamine Transtemporal Consciousness and the Nunc Stans
      3|tags:
      4|  - consciousness

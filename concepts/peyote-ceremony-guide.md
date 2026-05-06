@@ -1,6 +1,8 @@
 ---
+title: Peyote Ceremony Guide
 peyote-ceremonyeremony Guide
 created: 2026-0lophophora-williamsii-12
+updated: 2026-05-06
 type: concept
 tags: [entheogen, cacti, ethnobotany, mesoamerica, new-world, shamanism, spirituality, religion,mescaline psychopharmacology, safety, history, species]
 sources: []

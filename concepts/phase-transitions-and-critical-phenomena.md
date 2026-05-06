@@ -1,10 +1,12 @@
 ---
 title: "Phase Transitions and Critical Phenomena"
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [phase transitions, critical phenomena, critical exponents, universality, renormalization group]
 tags: [physics, thermodynamics, statistical-mechanics, condensed-matter, materials-science]
 related: [laws-of-thermodynamics, heat-transfer-mechanisms, navier-stokes-equations]
 type: concept
+sources: []
 ---
 
 ## Overview

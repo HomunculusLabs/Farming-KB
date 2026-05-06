@@ -16,6 +16,7 @@ sources:
   - https://doi.org/10.1111/nph.17099
   - https://doi.org/10.1094/PHYTO-07-17-0256-R
   - https://doi.org/10.1016/j.tplants.2021.01.005
+type: query
 ---
 
 # How Do Fungal Volatile Compounds Affect Plant Growth and Other Microorganisms?

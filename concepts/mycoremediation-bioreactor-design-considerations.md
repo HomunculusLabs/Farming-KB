@@ -1,8 +1,10 @@
 ---
 title: Mycoremediation Bioreactor Design Considerations
 created: 2026-04-28
+updated: 2026-05-06
 tags: [mycoremediation, bioreactor, bioremediation, engineering, fungi]
 type: concept
+sources: []
 ---
 
 # Mycoremediation Bioreactor Design Considerations

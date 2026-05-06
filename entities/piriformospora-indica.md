@@ -1,6 +1,7 @@
 ---
 title: "Piriformospora indica"
 created: 2026-04-28
+updated: 2026-05-06
 type: organism
 aliases:
   - "Serendipita indica"
@@ -20,6 +21,8 @@ discoverer: "Anwar Verma, Ajit Varma et al."
 habitat: "Rhizosphere soil, Thar Desert, Rajasthan, India"
 host_range: ">150 plant species"
 genome_size: "~25 Mb"
+tags: [profile]
+sources: []
 ---
 
 # Piriformospora indica

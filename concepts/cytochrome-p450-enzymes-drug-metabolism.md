@@ -1,9 +1,11 @@
 ---
 title: "Cytochrome P450 Enzymes — Drug Metabolism and Xenobiotic Biotransformation"
 created: 2026-04-28
+updated: 2026-05-06
 tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
 date: 2026-05-02
 type: concept
+sources: []
 ---
 
 ## Overview

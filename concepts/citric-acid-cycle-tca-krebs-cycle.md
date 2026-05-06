@@ -1,9 +1,11 @@
 ---
 title: "Citric Acid Cycle — TCA Cycle and Krebs Cycle"
 created: 2026-04-28
+updated: 2026-05-06
 tags: [biochemistry, metabolism, cellular-respiration, mitochondria, energy]
 date: 2026-05-02
 type: concept
+sources: []
 ---
 
 ## Overview

@@ -11,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
+type: concept
 ---
 
 # Psilocybe cubensis: Cattle Association and Probable African Origin

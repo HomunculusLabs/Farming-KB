@@ -132,6 +132,8 @@ sources:
 | Drug interactions | CYP450 modulation in vitro; clinical significance uncertain |
 
 ## See Also
+
+- [[gynostemma-pentaphyllum-entity]]
 - [[panax-ginseng]] — Ginsenoside structural analogues
 - adaptogens — Stress-modulating herb category
 - cucurbitaceae — Botanical family

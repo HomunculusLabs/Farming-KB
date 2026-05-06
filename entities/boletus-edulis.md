@@ -112,6 +112,8 @@ All are edible and similarly prized. The complex is distinguished from toxic bol
 
 ## See Also
 
+- [[boletus-edulis-entity]]
+
 - [[suillus-luteus]] — Slippery Jack, another ectomycorrhizal bolete
 - [[amanita-muscaria]] — Fly agaric, shares habitat with porcini
 - [[pleurotus-ostreatus]] — Oyster mushroom, contrasting saprotrophic ecology

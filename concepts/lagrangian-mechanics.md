@@ -3,6 +3,7 @@ title: "Lagrangian Mechanics"
 aliases: [analytical mechanics, Lagrange equations, variational mechanics]
 tags: [physics, mechanics, dynamics, engineering, mathematics]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

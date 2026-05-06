@@ -3,6 +3,7 @@ title: "Glutathione Conjugation"
 aliases: [GSH conjugation, glutathione S-transferase conjugation, mercapturic acid pathway]
 tags: [biochemistry, pharmacology, toxicology, xenobiotic-metabolism]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

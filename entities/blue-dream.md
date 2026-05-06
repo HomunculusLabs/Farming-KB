@@ -145,3 +145,9 @@ Blue Dream has achieved a near-iconic status in cannabis culture:
 - The strain has been referenced extensively in music, film, and television as a cultural touchstone for modern cannabis use.
 - Its balanced effects profile has made it a benchmark strain against which other hybrids are measured.
 - "Blue Dream" has become a genericized brand name in some markets, with unrelated strains occasionally being mislabeled as Blue Dream due to its market recognition.
+
+## See Also
+
+- [[cannabis-terpene-profiles]]
+- [[blue-dream-cannabis]]
+- [[blue-dream-cannabis-strain]]

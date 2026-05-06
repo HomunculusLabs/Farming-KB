@@ -1,9 +1,11 @@
 ---
 title: "Nucleophilic Substitution Reactions — SN1 and SN2 Mechanisms"
 created: 2026-04-28
+updated: 2026-05-06
 tags: [organic-chemistry, reaction-mechanism, nucleophile, leaving-group, stereochemistry]
 date: 2026-05-02
 type: concept
+sources: []
 ---
 
 ## Overview

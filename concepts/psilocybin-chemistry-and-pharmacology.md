@@ -12,6 +12,7 @@ updated: 2026-04-28
 sources:
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
   - raw/papers/carolina-mushrooms_08qxp.md
+type: concept
 ---
 
 # Psilocybin Chemistry and Pharmacology

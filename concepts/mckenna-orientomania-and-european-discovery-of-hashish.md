@@ -14,6 +14,7 @@ sources:
   - McKenna, T. (1992). "Food of the Gods." Bantam Books.
   - Rosenthal, E. (1971). "The Book of Hashish." Peter Owen.
   - Booth, M. (2003). "Cannabis: A History." St. Martin's Press.
+type: concept
 ---
 
 ## Overview

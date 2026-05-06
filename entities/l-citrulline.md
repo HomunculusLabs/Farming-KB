@@ -21,6 +21,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK513323/
 created: 2026-05-02
 updated: 2026-05-02
+tags: [profile]
 ---
 
 # L-Citrulline

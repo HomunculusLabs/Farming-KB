@@ -12,6 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - administrator-microsoft-word-fukuoka-textdoc.md
+type: concept
 ---
 
 # Four Principles of Natural Farming
@@ -96,8 +97,8 @@ Natural farming moves centripetally toward nature, converging toward a state of 
 
 - [[Masanobu Fukuoka]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
-- [[natural-orchard-ground-cover-management]]
-- [[discriminating-vs-nondiscriminating-knowledge]]
-- [[no-till-farming]]
+- [[fukuoka-natural-orchard-ground-cover]]
+- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
+- [[natural-farming-guide-no-till-grain-strategy]]
 - [[permaculture]]
 - [[natural-diet-and-seasonal-eating]]

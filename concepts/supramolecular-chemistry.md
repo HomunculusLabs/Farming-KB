@@ -3,6 +3,7 @@ title: "Supramolecular Chemistry"
 aliases: [supramolecular chemistry, noncovalent chemistry, molecular recognition chemistry]
 tags: [chemistry, organic-chemistry, materials-science, biochemistry, molecular-recognition]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

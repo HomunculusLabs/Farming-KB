@@ -1,9 +1,11 @@
 ---
 title: Lactobacillus plantarum
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [L. plantarum, Lactiplantibacillus plantarum]
 tags: [bacteria, probiotics, fermentation, lactic-acid-bacteria, microbiology]
 type: entity
+sources: []
 ---
 
 # Lactobacillus plantarum

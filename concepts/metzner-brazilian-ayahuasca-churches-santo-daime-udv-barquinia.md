@@ -1,4 +1,13 @@
-     1|---
+---
+title: Metzner Brazilian Ayahuasca Churches Santo Daime Udv Barquinia
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: [reference]
+sources: []
+---
+
+1|---
      2|title: Brazilian Ayahuasca Churches and Syncretic Entheogenic Ceremony
      3|tags:
      4|  - ayahuasca

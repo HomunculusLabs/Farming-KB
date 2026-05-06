@@ -170,3 +170,10 @@ Ashwagandha is a hardy, drought-tolerant plant well-suited to arid and semi-arid
 - **Diabetes medications**: May lower blood sugar; monitor glucose levels.
 - **Sedative interactions**: May potentiate benzodiazepines, barbiturates, and other CNS depressants.
 - **Iron overload**: The significant iron content may be problematic for individuals with hemochromatosis.
+
+## See Also
+
+- [[comparison-ashwagandha-vs-tulsi]]
+
+- [[adaptogenic-herbs-guide]]
+- [[ashwagandha-withania-somnifera]]

@@ -1,9 +1,11 @@
 ---
 title: "Phase II Conjugation Reactions in Drug Metabolism"
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [conjugation reactions, phase ii metabolism, drug conjugation, glucuronidation, sulfation, acetylation, glutathione conjugation]
 tags: [biochemistry, pharmacology, drug-metabolism, toxicology, enzymology]
 type: concept
+sources: []
 ---
 
 ## Overview

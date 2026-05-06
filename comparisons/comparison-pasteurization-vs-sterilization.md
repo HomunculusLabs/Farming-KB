@@ -1,4 +1,5 @@
 ---
+title: Comparison Pasteurization Vs Sterilization
 pasteurization-vs-sterilizationlization"
 tags: [pasteurization, sterilization, substrate-prep, contamination, mushroom-cultivation]
 date: 2026-04-25

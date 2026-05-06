@@ -116,5 +116,5 @@ The rapid scheduling response has been criticized by researchers who argue that 
 - [[valeriana-officinalis]]
 - [[melissa-officinalis]]
 - [[ocimum-basilicum]]
-- [[rosmarinus-officinalis]]
+- [[rosmarinus-officinalis-entity]]
 - [[salvia-officinalis]]

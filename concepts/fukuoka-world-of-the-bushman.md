@@ -69,6 +69,8 @@ See also: [[fukuoka-nature-god-limits-of-knowledge]], [[fukuoka-do-nothing-farmi
 
 ## See Also
 
+- [[dodonaea-viscosa]]
+
 [[hallucinogenic-plants-of-the-world]], [[fukuoka-machine-culture-doomed]], [[fukuoka-natural-farming-new-age]], [[fukuoka-road-back-to-nature-overview]], [[fukuoka-do-nothing-farming-and-spiritual-life]], [[fukuoka-natural-orchard-ground-cover]], [[fukuoka-natural-farming-method]], [[fukuoka-no-weeding-no-pesticides]]
 
 ## Practical Applications

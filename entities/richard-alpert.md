@@ -1,9 +1,11 @@
 ---
 title: Richard Alpert
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [Alpert, Richard, Ram Dass]
 tags: [psychology, psychedelics, spirituality, harvard, meditation]
 type: entity
+sources: []
 ---
 
 # Richard Alpert

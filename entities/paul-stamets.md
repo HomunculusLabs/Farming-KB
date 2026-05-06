@@ -151,3 +151,9 @@ Paul Stamets' impact extends across multiple domains:
 - **Extrapolation from lab to field**: Some of his more ambitious claims about mycoremediation (e.g., decomposing petroleum spills at scale) have been challenged by researchers who note that laboratory results don't always translate to field conditions.
 - **Peer review**: Stamets' most cited work is published in books and patents rather than peer-reviewed journals, which some academic mycologists cite as a limitation.
 - **Psilocybin advocacy**: His enthusiastic promotion of microdosing has been criticized for outpacing the clinical evidence base.
+
+## See Also
+
+- [[stamets-reishi-ganoderma-lucidum-cultivation]]
+- [[stamets-psylo-field-collection-techniques]]
+- [[stamets-harvesting-drying-and-storage]]

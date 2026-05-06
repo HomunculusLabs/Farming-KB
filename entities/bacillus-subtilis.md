@@ -1,6 +1,7 @@
 ---
 title: Bacillus subtilis
 created: 2026-04-28
+updated: 2026-05-06
 type: organism
 subtype: bacterium
 aliases:
@@ -16,6 +17,8 @@ taxonomy:
   family: Bacillaceae
   genus: Bacillus
   species: B. subtilis
+tags: [profile]
+sources: []
 ---
 
 # Bacillus subtilis

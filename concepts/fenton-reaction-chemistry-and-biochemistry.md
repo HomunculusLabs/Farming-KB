@@ -1,6 +1,7 @@
 ---
 title: "Fenton Reaction: Chemistry and Biochemistry"
 created: 2026-04-28
+updated: 2026-05-06
 aliases:
   - hydroxyl radical generation
   - iron-catalyzed oxidation
@@ -22,6 +23,7 @@ related:
   - bioremediation-fenton-chemistry
   - bioremediation-laccase-mediator-systems
 type: concept
+sources: []
 ---
 
 ## Overview

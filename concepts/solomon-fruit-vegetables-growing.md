@@ -1,7 +1,10 @@
 ---
 title: "Solomon Fruit Vegetables Growing"
 created: 2026-04-28
+updated: 2026-05-06
 type: concept
+tags: [reference]
+sources: []
 ---
 
 # [[legume-and-fruit-vegetable-harvest]]s: [[echinacea-growing-guide]]

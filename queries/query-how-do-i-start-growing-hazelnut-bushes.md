@@ -4,6 +4,7 @@ tags: [hazelnut, filbert, corylus, getting-started, planting-guide, nut-trees, h
 date: 2026-04-28
 updated: 2026-04-28
 sources: [https://www.extension.oregonstate.edu, https://www.sare.org, https://www.rhs.org.uk, https://www.fao.org, https://www.usda.gov]
+type: query
 ---
 
 # How Do I Start Growing Hazelnut Bushes?

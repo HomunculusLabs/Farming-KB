@@ -3,6 +3,7 @@ title: Cytochrome P450 Enzyme System
 aliases: [CYP450, P450, cytochrome p450, drug metabolism enzymes]
 tags: [biochemistry, pharmacology, toxicology, enzyme, drug-metabolism]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

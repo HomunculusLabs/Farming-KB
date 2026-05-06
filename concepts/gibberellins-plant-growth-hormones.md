@@ -1,9 +1,11 @@
 ---
 title: "Gibberellins — Plant Growth Hormones"
 created: 2026-04-28
+updated: 2026-05-06
 tags: [plant-hormones, gibberellins, plant-physiology, plant-growth, agriculture, green-revolution, seed-germination, flowering]
 date: 2026-05-02
 type: concept
+sources: []
 ---
 
 Gibberellins (GAs) are a large family of diterpenoid plant hormones

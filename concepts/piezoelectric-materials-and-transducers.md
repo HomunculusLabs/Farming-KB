@@ -3,6 +3,7 @@ title: "Piezoelectric Materials and Transducers"
 aliases: [piezoelectricity, piezoceramics, electromechanical-transducers]
 tags: [materials-science, electrical-engineering, sensors, acoustics, solid-state-physics]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

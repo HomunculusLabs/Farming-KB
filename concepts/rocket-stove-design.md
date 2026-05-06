@@ -1,4 +1,5 @@
 ---
+title: Rocket Stove Design
 rocket-stovet Stove Design
 created: 2026-04-12
 updated: 2026-04-12

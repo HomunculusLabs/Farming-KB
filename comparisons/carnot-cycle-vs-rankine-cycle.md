@@ -4,6 +4,8 @@ type: comparison
 tags: [thermodynamics, heat-engines, power-cycles, steam-power, efficiency]
 related: [carnot-cycle-and-heat-engines, rankine-cycle]
 created: 2026-05-02
+updated: 2026-05-06
+sources: []
 ---
 
 # Carnot Cycle vs Rankine Cycle

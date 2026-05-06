@@ -4,7 +4,9 @@ type: concept
 aliases: [Navier-Stokes, Navier Stokes equations, N-S equations, fluid motion equations]
 tags: [physics, fluid-dynamics, PDE, continuum-mechanics, CFD, engineering, mathematics]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 The **Navier-Stokes equations** are a set of coupled, nonlinear partial differential equations that describe the motion of viscous fluid substances. Together with the continuity equation (conservation of mass) and an equation of state, they form the foundational equations of classical fluid mechanics. They arise from applying Newton's second law to fluid motion, accounting for stresses from viscosity and pressure gradients. Named after Claude-Louis Navier (1785–1836) and George Gabriel Stokes (1819–1903), though Cauchy, Poisson, and Saint-Venant contributed key elements.

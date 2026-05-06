@@ -5,6 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - grahamholmes-what-a-plant-knowsindd.md
+type: concept
 ---
 
 # Garner and Allard Photoperiodism Experiment Methodology

@@ -5,6 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+type: concept
 ---
 
 # Brassinosteroid
@@ -162,6 +163,9 @@ unknown regulatory status of brassinosteroid-treated fungal products would
 need to be addressed before any commercial application could proceed.
 
 ## See Also
+
+- [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
+- [[brassinosteroid-fungal-growth-promotion]]
 
 - [[psilocybe-cubensis]] - the fungal species used in the brassinosteroid
   study

@@ -1,4 +1,5 @@
 ---
+title: Metzner Psychedelic Psychotherapy Clinical History
 psychedelic-psychotherapytherapy Clinical History
 created: 2026-04-24
 updated: 2026-04-24

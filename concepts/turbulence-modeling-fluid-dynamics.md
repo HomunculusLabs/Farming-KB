@@ -4,7 +4,9 @@ type: concept
 aliases: [turbulence models, RANS, LES, DNS, k-epsilon, k-omega, SST, Smagorinsky]
 tags: [physics, fluid-dynamics, CFD, engineering, turbulence, RANS, LES, computational-methods]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 ## Overview

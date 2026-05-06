@@ -1,4 +1,5 @@
 ---
+title: Amanita Muscaria Drying And Preparation
 amanita-muscariauscaria drying and preparation Guide
 created: 2026-04-19
 updated: 2026-04-18

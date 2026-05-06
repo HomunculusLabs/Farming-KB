@@ -4,6 +4,7 @@ tags: [query, parasitoid-wasps, biological-control, pest-management, entomology,
 date: 2026-04-28
 updated: 2026-04-28
 sources: [https://en.wikipedia.org/wiki/Parasitoid_wasp, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7349797/, https://www.ars.usda.gov/northeast-area/beltsville-md-barc/beltsville-agricultural-research-center/invasive-insect-biocontrol-and-behavior-laboratory/]
+type: query
 ---
 
 # How Do Parasitoid Wasps Control Pest Populations?

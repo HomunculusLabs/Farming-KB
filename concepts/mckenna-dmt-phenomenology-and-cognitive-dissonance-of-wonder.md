@@ -1,4 +1,13 @@
-     1|---
+---
+title: Mckenna Dmt Phenomenology And Cognitive Dissonance Of Wonder
+created: 2026-05-06
+updated: 2026-05-06
+type: concept
+tags: [reference]
+sources: []
+---
+
+1|---
      2|title: DMT Experience Phenomenology and the Cognitive Dissonance of Wonder
      3|tags:
      4|  - DMT

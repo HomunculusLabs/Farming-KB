@@ -127,3 +127,9 @@ Lion's Mane is considered one of the finest edible mushrooms, with a firm, meaty
 - *Hericium coralloides* (Coral Hedgehog) — similar appearance but with branched spines; also edible.
 - *Hericium americanum* — larger, more branched, found in eastern North America; edible.
 - *Hericium abietis* — grows on conifers; smaller and more compact.
+
+## See Also
+
+- [[hericium-coralloides]]
+- [[lions-mane-hericium-erinaceus]]
+- [[cancer-medicinal-mushrooms-hericium-erinaceus]]

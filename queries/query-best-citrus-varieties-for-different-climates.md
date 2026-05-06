@@ -14,6 +14,7 @@ sources:
   - CRFG (California Rare Fruit Growers) — Fruit Facts
   - Texas A&M AgriLife Extension — Citrus for the Home Garden
   - UC Master Gardener Program — Citrus for California Gardens
+type: query
 ---
 
 # What Are the Best Citrus Varieties for Different Climates?

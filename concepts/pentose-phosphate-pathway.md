@@ -1,9 +1,11 @@
 ---
 title: Pentose Phosphate Pathway
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [phosphogluconate pathway, hexose monophosphate shunt, HMP shunt, pentose phosphate shunt, PPP]
 tags: [biochemistry, metabolism, carbohydrate-metabolism, redox-biology, nucleotide-synthesis]
 type: concept
+sources: []
 ---
 
 ## Overview

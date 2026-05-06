@@ -4,7 +4,9 @@ type: concept
 aliases: [crystal dislocations, Burgers vector, slip systems, work hardening, Hall-Petch, Frank-Read source]
 tags: [physics, materials-science, engineering, crystal-plasticity, dislocations, metallurgy, deformation]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
+sources: []
 ---
 
 ## Overview

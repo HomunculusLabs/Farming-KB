@@ -3,6 +3,7 @@ title: "Catalytic Triad Enzyme Mechanism"
 aliases: [catalytic triad, charge relay triad, serine protease triad]
 tags: [biochemistry, enzymology, protein-chemistry, catalysis, proteases]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---

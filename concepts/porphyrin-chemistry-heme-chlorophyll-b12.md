@@ -1,9 +1,11 @@
 ---
 title: Porphyrin Chemistry and Heme-Chlorophyll-B12
 created: 2026-04-28
+updated: 2026-05-06
 aliases: [porphyrin, porphine, heme, chlorophyll, cobalamin, vitamin b12, tetrapyrrole, photodynamic therapy]
 tags: [chemistry, biochemistry, bioinorganic, metabolism, pharmacology, spectroscopy]
 type: concept
+sources: []
 ---
 
 ## Overview

@@ -3,6 +3,7 @@ title: "Photoredox Catalysis"
 aliases: [visible-light photoredox, photoredox chemistry, photoredox catalysis]
 tags: [organic-chemistry, catalysis, photochemistry, radical-chemistry, synthesis]
 created: 2026-05-02
+updated: 2026-05-06
 type: concept
 sources: []
 ---
