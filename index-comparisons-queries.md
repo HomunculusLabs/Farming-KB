@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1032 pages**
+**1042 pages**
 
 ## A
 
@@ -114,6 +114,7 @@
 - [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
 - [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
+- [[comparison-central-leader-vs-open-center-fruit-tree-training]]
 - [[comparison-chaga-vs-reishi]]
 - [[comparison-chaga-vs-reishi-medicinal]]
 - [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
@@ -263,6 +264,8 @@
 - [[comparison-lacto-fermentation-vs-kombucha]]
 - [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+- [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]]
+- [[comparison-light-straw-clay-vs-hempcrete]]
 - [[comparison-lime-plaster-vs-earthen-plaster]]
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-lions-mane-vs-cordyceps-cultivation]]
@@ -413,6 +416,7 @@
 - [[comparison-sprinkler-vs-drip-irrigation]]
 - [[comparison-square-foot-vs-raised-bed-gardening]]
 - [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
+- [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
 - [[comparison-straw-bale-vs-adobe]]
 - [[comparison-straw-bale-vs-rammed-earth]]
 - [[comparison-supercropping-vs-topping]]
@@ -441,6 +445,7 @@
 - [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]
 - [[comparison-turmeric-vs-ginger]]
 - [[comparison-two-row-vs-six-row-barley]]
+- [[comparison-vanilla-vs-cacao-cultivation]]
 - [[comparison-vermicomposting-vs-composting-organic-garden]]
 - [[comparison-vermicomposting-vs-hot-composting]]
 - [[comparison-vermicomposting-vs-leaf-mold]]
@@ -607,6 +612,7 @@
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]
 - [[query-how-do-i-design-planting-guilds-for-a-food-forest]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+- [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]]
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]]
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
@@ -625,6 +631,7 @@
 - [[query-how-do-i-grow-sea-buckthorn]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
+- [[query-how-do-i-grow-vanilla-at-home]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
 - [[query-how-do-i-identify-and-control-common-garden-pests-organically]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
@@ -904,6 +911,7 @@
 - [[query-what-are-the-best-crops-for-a-desert-food-forest]]
 - [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]
 - [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
+- [[query-what-are-the-best-ferns-for-a-shade-garden-or-food-forest]]
 - [[query-what-are-the-best-fig-varieties-for-different-climates]]
 - [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
 - [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
@@ -1040,6 +1048,7 @@
 - [[query-what-is-the-kratky-method-for-growing-cannabis]]
 - [[query-what-is-the-nitrogen-cycle-in-gardens-and-soil]]
 - [[query-what-is-the-role-of-actinomycetes-in-soil-health]]
+- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]
 - [[query-what-is-the-role-of-bacteria-in-soil-health]]
 - [[query-what-is-the-role-of-earthworms-in-soil-health]]
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
@@ -1055,6 +1064,7 @@
 - [[query-what-is-trap-cropping-and-how-does-it-work]]
 - [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
 - [[query-what-is-wattle-and-daub-and-how-do-i-build-with-it]]
+- [[query-when-and-how-should-i-prune-my-fruit-trees]]
 - [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
 - [[query-when-should-i-use-slip-form-stone-construction]]
 - [[query-which-cannabis-training-techniques-produce-highest-yields]]
@@ -1083,9 +1093,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[comparison-central-leader-vs-open-center-fruit-tree-training]]
-- [[comparison-vanilla-vs-cacao-cultivation]]
-- [[query-how-do-i-grow-vanilla-at-home]]
-- [[query-when-and-how-should-i-prune-my-fruit-trees]]
-- [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]]
-- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]

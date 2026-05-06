@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**390 pages**
+**393 pages**
 
 ## A
 
@@ -178,6 +178,8 @@
 
 - [[ingham-aact-brewing-techniques]]
 - [[ingham-aact-disease-suppression]]
+- [[ingham-aact-disease-suppression-competition-mechanisms]]
+- [[ingham-aact-disease-suppression-through-food-competition]]
 - [[ingham-aact-field-guide-index]]
 - [[ingham-aact-testing-methods]]
 - [[ingham-anaerobic-organisms-role-soil]]
@@ -201,6 +203,7 @@
 - [[ingham-foliar-compost-tea-application]]
 - [[ingham-foliar-pest-deterrence-aact]]
 - [[ingham-food-safety-compost-tea]]
+- [[ingham-inorganic-fertilizers-soil-biology-damage]]
 - [[ingham-light-uv-effects-compost-tea]]
 - [[ingham-microscope-identification-soil-biology]]
 - [[ingham-moss-algae-control]]
@@ -459,5 +462,3 @@
 - [[worm-ecology-soil-building]]
 - [[worm-farming-for-profit]]
 - [[wormery-construction]]
-- [[ingham-aact-disease-suppression-through-food-competition]]
-- [[ingham-inorganic-fertilizers-soil-biology-damage]]

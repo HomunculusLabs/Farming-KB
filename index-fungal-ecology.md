@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2343 pages**
+**2346 pages**
 
 ## #
 
@@ -1130,11 +1130,13 @@
 - [[fungi-in-the-environment-fungal-radionuclide-interactions]]
 - [[fungi-in-the-environment-fungal-soil-aggregation-structure]]
 - [[fungi-in-the-environment-fungal-spore-dispersal]]
+- [[fungi-in-the-environment-hyphal-tip-growth-and-spitzenkorper]]
 - [[fungi-in-the-environment-lichen-biology]]
 - [[fungi-in-the-environment-metal-transformations]]
 - [[fungi-in-the-environment-mineral-transformations-biogeochemical-cycling]]
 - [[fungi-in-the-environment-mycorrhizal-carbon-cycle-soil-carbon-pools]]
 - [[fungi-in-the-environment-plant-fungal-interactions]]
+- [[fungi-in-the-environment-reductive-oxidative-metal-precipitation]]
 - [[fungi-in-the-environment-rock-building-fungi]]
 - [[fungi-in-the-environment-saprotrophic-mycelial-foraging-strategies]]
 - [[fungi-in-the-environment-soil-fungal-community-structure]]
@@ -1522,6 +1524,7 @@
 - [[mycelial-archetype]]
 - [[mycelial-broth-alkaloid-production]]
 - [[mycelial-colonization]]
+- [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
 - [[mycelial-foraging-resource-allocation]]
 - [[mycelial-foraging-strategies-nutrient-translocation]]
 - [[mycelial-growth-and-colonization]]
@@ -2421,6 +2424,3 @@
 - [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
 - [[zygomycete-phylum-guide]]
 - [[zygomycota-phylogeny-classification-non-monophyletic]]
-- [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
-- [[fungi-in-the-environment-hyphal-tip-growth-and-spitzenkorper]]
-- [[fungi-in-the-environment-reductive-oxidative-metal-precipitation]]

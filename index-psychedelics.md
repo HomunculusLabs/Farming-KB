@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1256 pages**
+**1260 pages**
 
 ## #
 
@@ -90,6 +90,7 @@
 - [[ayahuasca-tourism-ethics-and-commodification]]
 - [[ayahuasca-tourism-infrastructure-peruvian-amazon]]
 - [[ayahuasca-tourism-legal-status-by-country]]
+- [[ayahuasca-tourism-medical-risks-prescription-interactions]]
 - [[ayahuasca-tourism-peru-retreat-landscape]]
 - [[ayahuasca-tourism-practitioners-and-safety-considerations]]
 - [[ayahuasca-tourism-shamanic-tourism-economics]]
@@ -200,6 +201,7 @@
 - [[dom-pihkal-68]]
 - [[dominator-culture-and-partnership-society]]
 - [[dosage-ambiguity-fuzzy-numbers-pihkal]]
+- [[dosage-unpredictability-psilocybin-subjective-experience]]
 - [[dose-effects-health-risks-psilocybin]]
 - [[dpt-compound-profile]]
 - [[duboisia-hopwoodii-pituri-ethnobotany]]
@@ -1032,6 +1034,7 @@
 - [[psilocybin-in-the-counter-culture]]
 - [[psilocybin-isolation-and-early-scientific-research]]
 - [[psilocybin-large-scale-production]]
+- [[psilocybin-level-stability-across-flushes]]
 - [[psilocybin-liquid-culture]]
 - [[psilocybin-methyl-alcohol-extraction-technique]]
 - [[psilocybin-miniculture-rye-grain-method-bigwood-beug]]
@@ -1128,6 +1131,7 @@
 ## R
 
 - [[rarian-plain-sacred-grain-eleusis]]
+- [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
 - [[ribosomal-rna-sequencing-yeast-identification]]
 - [[rigveda]]
 - [[roger-heim-scientific-study-psilocybin]]
@@ -1337,9 +1341,3 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
-- [[ayahuasca-tourism-medical-risks-prescription-interactions]]
-- [[dosage-unpredictability-psilocybin-subjective-experience]]
-- [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]
-- [[psilocybe-oaxacensis]]
-- [[psilocybin-level-stability-across-flushes]]
-- [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
