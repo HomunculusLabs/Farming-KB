@@ -1,111 +1,124 @@
 ---
-title: Acapulco Gold
-created: 2026-04-28
+title: "Acapulco Gold"
 type: strain
-tags:
-  - cannabis
-  - sativa
-  - landrace
-  - heirloom
-  - legacy-strain
+tags: [cannabis, landrace, sativa, strain-profile, heritage-genetics, mexican-landrace]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/acapulco-gold
-  - https://www.allbud.com/marijuana-strains/sativa/acapulco-gold
-  - Clarke, "Marijuana Botany" (1981)
-  - Emboden, "Cannabis: A History" (1972)
+  - https://www.leafly.com/strains/acapulco-gold - Strain database reference
+  - https://phylos.bio/ - Cannabis genetics and phylogenetics
+  - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. UC Press.
 ---
 
 # Acapulco Gold
 
-**Acapulco Gold** is a legendary **sativa-dominant** cannabis strain of Mexican landrace origin. Named after the Pacific coastal city of Acapulco in Guerrero state, it rose to prominence during the 1960s counterculture movement and is widely regarded as one of the most important foundational strains in cannabis genetics. True Acapulco Gold is considered functionally extinct in its original form, though numerous breeders have attempted to recreate its profile.
+## Overview
+
+**Acapulco Gold** is a legendary **sativa-dominant landrace cannabis strain** originating from the Guerrero region of Mexico, near the Pacific coast city of Acapulco. Named for its golden-amber hue when fully cured, it was one of the most iconic and sought-after strains of the 1960s and 1970s counterculture era. The strain represents a crucial piece of cannabis genetic heritage — a true landrace that served as a foundational parent for countless modern hybrids.
 
 ## Genetic Profile
 
-| Attribute | Detail |
-|-----------|--------|
-| **Type** | Sativa-dominant (approximately 80/20) |
-| **Origin** | Guerrero, Mexico (landrace) |
-| **Lineage** | Mexican landrace — no confirmed parent strains |
-| **THC Content** | 15–23% (historical estimates vary) |
-| **CBD Content** | < 1% |
-| **Flowering Time** | 9–11 weeks |
-| **Yield** | Moderate |
-| **Difficulty** | Moderate to difficult (sensitive to humidity) |
+- **Type:** Sativa landrace (≈85% sativa / 15% indica influence)
+- **Lineage:** Pure Mexican landrace from the Sierra Madre del Sur region
+- **Landrace origin:** Guerrero state, Mexico (Acantilado, Coyuca, and surrounding highlands)
+- **THC content:** 15–23% (modern interpretations; original landrace likely 8–12%)
+- **CBD content:** <1% in original form; some modern CBD-crosses reach 5–8%
+- **Terpene profile:** Myrcene (dominant), limonene, β-caryophyllene, pinene, humulene
 
 ## History and Cultural Significance
 
-Acapulco Gold occupies a unique place in cannabis history. During the 1960s and 1970s, marijuana was imported into the United States primarily from Mexico, Colombia, and Thailand. Mexican cannabis — particularly from the Guerrero region — was valued for its energetic, cerebral high and distinctive golden hue.
+### Origins
 
-### The Golden Age of Mexican Cannabis
+Acapulco Gold grew wild and was cultivated by indigenous communities in the mountains above Acapulco for centuries before it gained international fame. The strain thrived in the tropical climate of Guerrero — hot, humid, with well-defined wet and dry seasons. Local farmers selected phenotypes with the largest, most resinous buds, gradually refining the population over generations.
 
-The strain's name derives from its appearance: properly grown and cured Acapulco Gold develops a distinctive golden-brown coloration in the mature flowers, attributed to high trichome density and the specific growing conditions of the Guerrero highlands. The "gold" was not merely aesthetic — it signaled quality to consumers who had learned to distinguish between premium Mexican product and the compressed, lower-grade "brick weed" that dominated the market.
+### The 1960s Counterculture
 
-### The War on Drugs and Decline
+During the 1960s, American surfers, hippies, and counterculture travelers discovered Mexican cannabis during trips to Acapulco. The strain became synonymous with "the good weed" — a benchmark against which all other cannabis was measured. It was smuggled into the United States in massive quantities, and by the late 1960s, "Acapulco Gold" was a household name.
 
-The decline of authentic Acapulco Gold is directly tied to US drug policy:
+### Decline
 
-1. **Operation Intercept (1969):** The Nixon administration shut down the US-Mexico border for three weeks in a failed attempt to stem marijuana imports, disrupting supply chains.
-2. **Paraquat spraying (1975–1978):** The Mexican government, under US pressure, sprayed paraquat herbicide on cannabis fields. This poisoned crops caused health concerns and devastated the reputation of Mexican cannabis.
-3. **Domestic cultivation:** As imported cannabis became riskier and more expensive, American growers began cultivating domestic strains, leading to the development of new hybrids that displaced landrace imports.
+Several factors led to the near-extinction of the original Acapulco Gold:
 
-By the 1990s, authentic Acapulco Gold was exceedingly rare. The modern cannabis market is dominated by polyhybrid strains, and original Mexican landrace genetics have been largely replaced or crossbred beyond recognition.
+- **Operation Condor and Mexican eradication campaigns** (1970s) — aerial spraying of paraquat devastated outdoor crops
+- **The U.S. War on Drugs** — increased border security and crop destruction
+- **Commercial pressure** — farmers shifted to faster-growing, higher-yielding varieties
+- **Genetic dilution** — hybridization with imported strains for black market appeal
 
-## Terpene and Cannabinoid Profile
+By the 1990s, genuine Acapulco Gold landrace was considered functionally extinct in the wild. What remains today are **heirloom interpretations** — stabilized crosses and back-crosses using preserved Mexican landrace genetics.
 
-The characteristic aroma and flavor of Acapulco Gold are attributed to its distinctive terpene composition:
+### Preservation Efforts
 
-- **Myrcene** (dominant): Earthy, musky, herbal — contributes to the relaxing body component
-- **Caryophyllene**: Peppery, spicy — the only terpene known to directly activate CB2 receptors
-- **Limonene**: Citrus, bright — enhances mood and counteracts anxiety
-- **Pinene**: Pine, woody — promotes alertness and may improve memory retention
-- **Humulene**: Earthy, woody — anti-inflammatory properties
+- The **Phylos Bioscience Galaxy** project has sequenced several samples marketed as Acapulco Gold
+- Seed banks including **Ace Seeds**, **Old World Genetics**, and **Tropical Seeds Co.** have worked to preserve Mexican landrace lines
+- **Landrace preservation collectives** in Mexico are actively locating and cultivating original populations
 
-The interplay of these terpenes produces Acapulco Gold's signature scent: burnt toffee, aged leather, and tropical fruit with an undercurrent of earthy spice.
+## Phenotype Description
 
-## Effects Profile
+### Plant Structure
 
-Traditional reports describe Acapulco Gold as producing a **cerebral, uplifting, and energetic** high — characteristic of sativa landrace strains. Key effects include:
+The original Acapulco Gold grows as a **tall, lanky sativa** with significant internodal spacing:
 
-- **Euphoria:** Strong, immediate mood elevation
-- **Creativity:** Enhanced divergent thinking and artistic inspiration
-- **Energy:** Motivating and stimulating without jitteriness
-- **Focus:** Clear-headed cognitive effects, unlike the fog associated with many indica-heavy strains
-- **Duration:** Long-lasting — 3+ hours with a gradual comedown
+- **Height:** 150–250 cm outdoors; 100–150 cm indoors with training
+- **Node spacing:** Long internodes (8–15 cm)
+- **Branching:** Open, spreading structure with flexible branches
+- **Leaf morphology:** Narrow, serrated sativa leaflets, 7–11 fingers
+- **Stem:** Thick, flexible main stem with moderate lignification
+- **Root system:** Deep taproot in outdoor cultivation
 
-Adverse effects at higher doses may include dry mouth, dry eyes, mild paranoia (especially in anxiety-prone individuals), and increased heart rate.
+### Flower Characteristics
 
-## Growing Characteristics
+- **Bud structure:** Large, fluffy, slightly elongated colas
+- **Color:** Light to medium green with orange-gold pistils; cured buds develop a distinctive golden-amber sheen (hence the name)
+- **Trichome density:** Moderate to high; milky-white trichomes with occasional amber heads
+- **Pistil color:** Vibrant orange to golden-brown
+- **Calyx size:** Medium-large, swollen at maturity
 
-Authentic Acapulco Gold was adapted to the specific conditions of the Guerrero coast:
+### Aroma and Flavor
 
-- **Climate:** Tropical/subtropical, warm and humid
-- **Altitude:** Coastal lowlands to mid-elevation (500–1500 m)
-- **Photoperiod:** Equatorial photoperiod adaptation — flowering triggered by subtle light changes
-- **Structure:** Tall, lanky sativa growth pattern with long internodal spacing
-- **Flowers:** Large, airy, resinous colas that develop the characteristic golden color late in flowering
+Acapulco Gold is famous for its complex, multi-layered terpene profile:
 
-The strain is challenging to grow outside its native climate. It is sensitive to overwatering, prone to mold in high humidity, and requires a longer vegetative period than most modern hybrids. These factors, combined with its moderate yield, contributed to its displacement by easier-to-grow commercial varieties.
+- **Primary aroma:** Burnt caramel, sweet earth, and aged wood
+- **Secondary notes:** Citrus peel, nutmeg, black pepper, and a distinctive "Mexican brick weed" earthiness (but refined)
+- **Smoke:** Smooth, expansive, with a sweet-toasty aftertaste
+- **Ash:** Light gray to white (indicative of proper flushing and cure)
 
-## Modern Status and Preservation Efforts
+## Cultivation
 
-Several breeding projects have attempted to preserve or recreate Acapulco Gold:
+### Growing Conditions
 
-- **Seed banks:** Some heritage seed banks maintain Mexican landrace genetics sourced from traditional growers in Guerrero and surrounding regions.
-- **Recreation projects:** Breeders have crossed Mexican landrace males with modern females to approximate the Acapulco Gold profile while improving yield and disease resistance.
-- **Genetic testing:** Projects like the Landrace Project have begun genotyping historical cannabis samples to map the genetic relationships between legacy strains and their modern descendants.
+Acapulco Gold prefers conditions that mimic its tropical Mexican origin:
 
-The strain's genetic legacy persists in numerous modern hybrids that carry Mexican sativa genetics, even if they no longer bear the Acapulco Gold name.
+- **Climate:** Warm (22–30°C daytime), moderate humidity (50–70% RH)
+- **Photoperiod:** 12/12 flowering trigger; thrives at 13–14+ hours latitude
+- **Flowering time:** 10–12 weeks (original landrace) — some modern crosses finish in 8–10 weeks
+- **Yield:** Moderate (300–400 g/m² indoor; 400–600 g/plant outdoor)
+- **Nutrient needs:** Light to moderate feeder; sensitive to nitrogen excess in late flower
+- **Training:** Responds well to LST, SCROG, and topping; natural tendency to stretch
+
+### Challenges
+
+- **Long flowering period** — requires patience and stable environment
+- **Stretch** — can double or triple in height during early flowering
+- **Pest susceptibility** — spider mites and whiteflies attracted to sativa foliage
+- **Low yield relative to modern hybrids** — landrace genetics prioritize potency over production
+
+## Effects
+
+### Reported Effects
+
+- **Onset:** Gradual (15–30 minutes); characteristic of landrace sativas
+- **Cerebral:** Euphoric, uplifting, creatively stimulating, mildly psychedelic at higher doses
+- **Physical:** Energizing, light body buzz; not typically sedating
+- **Duration:** 2–4 hours depending on dose and tolerance
+- **Therapeutic applications:** Depression, fatigue, mild anxiety, creative blocks, ADHD symptoms
+
+### Cannabinoid Synergy
+
+The myrcene-dominant terpene profile contributes to the "creeper" effect — the high builds slowly and can surprise users accustomed to modern high-THC hybrids. The entourage effect with limonene and caryophyllene provides mood elevation and anti-inflammatory benefits.
 
 ## See Also
+- [[thai-stick-entity]]
+- Lamb's Bread
 
 - [[colombian-gold-entity]]
-- [[colombian-gold]]
-- [[malawi-gold]]
 - [[malawi-gold-entity]]
-
-- [[Mexican Landrace Strains]] — broader category of Mexican sativa varieties
-- [[Colombian Gold]] — comparable South American landrace strain
-- [[Cannabis Terpenes]] — detailed terpene profiles and effects
-- [[Cannabis Breeding History]] — from landraces to modern polyhybrids

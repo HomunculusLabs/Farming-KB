@@ -117,3 +117,4 @@ Water-based preparations are best for daily tonics, gentle support, and when rap
 - [[medicinal-plant-preparations-tinctures-salves-teas]]
 - [[calendula-salve-making]]
 - [[herbal-medicine]]
+- [[hyssopus-officinalis]]

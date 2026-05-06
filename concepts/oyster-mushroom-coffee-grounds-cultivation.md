@@ -134,3 +134,4 @@ humidity.
 - [[mushroom-classroom-education-demos]] for using coffee grounds cultivation
   in teaching settings
 - [[community-garden-mushroom-integration]] for scaling waste-based cultivation
+- [[comparison-coffee-vs-cacao-cultivation]]

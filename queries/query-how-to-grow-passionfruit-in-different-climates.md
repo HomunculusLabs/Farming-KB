@@ -172,3 +172,4 @@ A: Seed (easy but variable), semi-hardwood cuttings (maintains variety traits), 
 - [[holzer-frost-protection-techniques]]
 - [[fruit-growing-guide-organic]]
 - [[coleman-protected-cultivation]]
+- [[query-how-to-grow-guava-in-different-climates]]

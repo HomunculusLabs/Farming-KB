@@ -137,3 +137,4 @@ Both fungi are generally well tolerated, but note the following:
 - [[medicinal-mushroom-guide-reishi]]
 - [[reishi-mushroom-medicinal-research]]
 - [[medicinal-mushroom-guide-chaga]]
+- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

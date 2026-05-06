@@ -1,0 +1,163 @@
+---
+title: "Coffee vs Cacao Cultivation — A Side-by-Side Comparison"
+tags:
+  - coffee
+  - cacao
+  - tropical-crops
+  - agroforestry
+  - permaculture
+  - shade-grown
+  - tree-crops
+  - small-scale-farming
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - title: "FAO — Coffea spp. Ecocrop Fact Sheet"
+    url: "https://www.fao.org/ecocrop/CdData_EN.asp?ID=928"
+  - title: "FAO — Theobroma cacao Ecocrop Fact Sheet"
+    url: "https://www.fao.org/ecocrop/CdData_EN.asp?ID=1433"
+  - title: "World Agroforestry Centre — Coffee Agroforestry"
+    url: "https://www.worldagroforestry.org/knowledge/tree/caf%C3%A9/coffee"
+  - title: "Royal Botanic Gardens Kew — Theobroma cacao"
+    url: "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:595240-1"
+  - title: "Specialty Coffee Association — Arabica & Robusta"
+    url: "https://sca.coffee/research/standards"
+---
+
+# Coffee vs Cacao Cultivation
+
+A practical comparison for growers choosing between these two major tropical perennial crops — or considering growing them together in agroforestry systems.
+
+## Overview Comparison Table
+
+| Feature | Coffee (*Coffea arabica / C. canephora*) | Cacao (*Theobroma cacao*) |
+|---|---|---|
+| **Family** | Rubiaceae | Malvaceae |
+| **Origin** | Ethiopian highlands | Amazon basin |
+| **Growth form** | Upright shrub / small tree (3–8 m) | Understory tree (4–12 m) |
+| **Economic lifespan** | 25–40 years | 30–50+ years |
+| **Time to first harvest** | 3–4 years | 3–5 years |
+| **Altitude range** | 600–2,000 m (arabica) | 0–800 m |
+| **Annual rainfall** | 1,200–2,500 mm | 1,500–2,500 mm |
+| **Temperature range** | 15–24 °C (arabica) | 25–28 °C |
+| **Shade requirement** | Moderate (varies by variety) | High — understory species |
+
+## Climate Requirements
+
+**Coffee** thrives in cooler tropical or subtropical highlands. Arabica demands stable temperatures between 15–24 °C; frost is lethal and prolonged heat above 30 °C causes stress and poor bean quality. Robusta tolerates warmer lowland conditions (22–30 °C) but produces lower-grade beans. A distinct dry season of 2–3 months triggers uniform flowering.
+
+**Cacao** is a strictly lowland humid tropical crop. Optimal temperatures are 25–28 °C; below 15 °C growth stalls entirely, and even brief exposure to 10 °C can kill young trees. It requires consistent year-round rainfall (1,500–2,500 mm) with no extended dry period — the opposite of coffee's preference for seasonal dryness.
+
+**Verdict:** If your site is above 800 m with a dry season, coffee has the edge. Below 400 m with year-round rain, cacao is the clear choice. The narrow band in between (400–800 m) can support both with careful variety selection.
+
+## Soil Preferences
+
+**Coffee** prefers deep, well-drained volcanic loams with pH 5.0–6.5. It is sensitive to waterlogging but relatively tolerant of acidic soils. Root system is concentrated in the top 60 cm.
+
+**Cacao** favors deep, fertile, well-drained clay-loam soils with pH 5.5–7.0. It is more demanding on soil organic matter and nutrients (especially nitrogen, potassium, and magnesium) due to heavy fruit production. Roots also stay shallow, making mulching critical.
+
+## Shade Tolerance
+
+**Coffee** has a flexible shade requirement. Full-sun varieties (common in Brazil and Vietnam) maximize yield but require heavy chemical inputs. Shade-grown coffee (under Inga, Grevillea, or nitrogen-fixing legumes) produces slower-riening cherries with denser beans and superior flavor. Shade also reduces pest pressure and erosion.
+
+**Cacao** evolved as a true understory tree in Amazonian forests. It requires 30–50 % canopy cover for optimal growth. Full sun exposure causes leaf burn, reduced pod set, and higher stress. Shade trees (Gliricidia, Erythrina, Terminalia) are essentially mandatory for productive cacao.
+
+## Planting and Propagation
+
+**Coffee:** Seedlings are raised in nurseries for 6–12 months. Clonal propagation via cuttings or grafting is common for arabica to preserve quality traits. Spacing is typically 1.5–2.5 m within rows and 2–3 m between rows (1,500–3,500 plants/ha). Transplant during the rainy season.
+
+**Cacao:** Seeds lose viability quickly (1–2 weeks) and are usually planted directly in polybags or nursery beds. Grafting and budding are used for clonal propagation of superior varieties. Spacing is wider at 3–4 m × 3–4 m (625–1,100 trees/ha). Transplant at 4–6 months when seedlings reach 30–40 cm.
+
+## Growth Habits and Lifecycle
+
+**Coffee** is an evergreen shrub that produces flowers (and later cherries) on one-year-old wood. A mature tree bears fruit for 50+ years if well managed, though economic yields typically decline after 25–30 years. Floral initiation is triggered by short days and/or dry periods.
+
+**Cacao** flowers and fruits directly on the trunk and major branches (cauliflory). Trees flower year-round in ideal conditions, producing two main harvest peaks. Mature trees can fruit for 50+ years, with peak production from years 8–25. Unlike coffee, there is no required dry-season trigger.
+
+## Pruning and Maintenance
+
+**Coffee:** Annual pruning is critical. Remove dead, diseased, and weak branches. Single-stem systems require regular sucker removal. rejuvenation pruning (stumping to 30–45 cm) every 5–8 years restores productivity. Fertilizer applications (N-P-K) are typically split 2–3 times per year.
+
+**Cacao:** Prune to maintain a manageable height (3–5 m) for harvesting. Remove chupons (vertical suckers), water sprouts, and dead branches. Phytosanitary pruning to improve airflow reduces fungal disease. Fertilizer needs are higher than coffee due to heavy nutrient export in pods and beans.
+
+## Pest and Disease Challenges
+
+**Coffee:** Coffee leaf rust (*Hemileia vastatrix*) is the most devastating disease worldwide. Coffee berry borer (*Hypothenemus hampei*) is the primary insect pest. Arabica is highly susceptible to rust; Robusta has natural resistance. Other threats include CBD (coffee berry disease in Africa), nematodes, and mealybugs.
+
+**Cacao:** Frosty pod rot (*Moniliophthora roreri*) and witches' broom (*Moniliophthora perniciosa*) are catastrophic in Central and South America. Black pod (*Phytophthora spp.*) is the leading disease in West Africa (the world's largest production region). Major insect pests include mirids (sucking bugs), cocoa pod borer, and capsids.
+
+**Verdict:** Both crops face serious disease pressure. Coffee has more established resistant varieties; cacao breeding for disease resistance has been slower. Integrated pest management and genetic resistance are essential for both.
+
+## Harvesting and Processing
+
+**Coffee:** Cherries are hand-picked (selective picking for specialty) or strip-picked. Processing is either washed (wet method — superior for arabica) or natural (dry method). Post-harvest processing requires water access, drying space, and storage. Drying takes 7–21 days depending on method and climate.
+
+**Cacao:** Pods are hand-harvested year-round, cut from the tree with machetes. Beans are extracted, fermented (5–7 days in boxes or heaps), then dried (5–14 days). Processing is labor-intensive but requires no specialized equipment beyond fermentation boxes and drying racks. Post-harvest quality strongly affects chocolate flavor.
+
+**Verdict:** Cacao post-harvest is simpler (no milling, no water-intensive washing) but fermentation skill significantly affects final product value. Coffee processing requires more infrastructure but has a larger established market for quality premiums.
+
+## Yield Expectations
+
+| Metric | Coffee (Arabica) | Coffee (Robusta) | Cacao |
+|---|---|---|---|
+| Green bean yield | 500–1,200 kg/ha/yr | 800–2,000 kg/ha/yr | 300–800 kg/ha/yr |
+| Peak production | Years 6–15 | Years 5–12 | Years 8–25 |
+| Yield variability | Moderate | Moderate | High (weather-dependent) |
+
+Coffee generally offers higher per-hectare yields and more predictable harvests. Cacao yields are more variable due to pollination dependence (midges), weather sensitivity, and disease pressure.
+
+## Economic Considerations
+
+**Coffee** has a massive global market ($100B+ retail). Specialty coffee commands significant premiums ($3–6+/lb green). Price volatility is high but market infrastructure (cooperatives, exporters, roasters) is well-developed worldwide. Processing and marketing channels are accessible even for smallholders.
+
+**Cacao** has a smaller but growing specialty market (craft chocolate). Bulk prices are often near production cost for West African smallholders. The fine-flavor cacao market ( criollo and trinitario types) offers better margins. Value addition (fermentation expertise, direct trade, bean-to-bar) can dramatically improve returns.
+
+## Agroforestry Integration
+
+Both crops excel in agroforestry systems and are frequently grown together. Coffee serves as a mid-layer under taller shade trees. Cacao occupies a similar niche but with higher shade requirements. Common companion species include Inga, Gliricidia, Erythrina, fruit trees (avocado, citrus), and timber species (Cedrela, Gmelina).
+
+A **coffee-cacao intercrop** is feasible in the 400–800 m altitude band. Cacao provides the shade coffee needs; coffee provides additional income diversification. However, management complexity increases, and competition for nutrients can reduce yields of both if spacing is not carefully planned.
+
+## Permaculture Suitability
+
+**Coffee:** High suitability as a mid-canopy element in food forest systems. Nitrogen-fixing overstory, ground covers beneath, and poultry integration work well. Drought-tolerant once established. Good fit for Zones 9–11.
+
+**Cacao:** Excellent permaculture candidate in humid lowland tropics (Zones 11–12). Functions as the primary canopy fruit tree in a food forest. Requires reliable rainfall and wind protection. Pairs well with banana/plantain, taro, turmeric, and vanilla as understory companions.
+
+## Challenges for Small-Scale Growers
+
+**Coffee:**
+- Disease management (especially leaf rust) requires ongoing investment
+- Price volatility can devastate smallholder incomes
+- Processing infrastructure (washing stations, drying beds) requires capital
+- Quality consistency is difficult to maintain without training
+
+**Cacao:**
+- Pod borer and fungal diseases can cause 30–80 % crop loss
+- Fermentation and drying quality directly impacts sale price
+- Bulk market prices often below sustainable levels
+- Longer wait for full production (5+ years) strains cash flow
+- Requires more labor per unit of output than coffee
+
+## Summary and Verdict
+
+| Criteria | Better Choice |
+|---|---|
+| Cooler highland site (>800 m) | Coffee |
+| Hot, humid lowland site (<400 m) | Cacao |
+| Established market access | Coffee |
+| Simpler post-harvest processing | Cacao |
+| Higher per-hectare yield potential | Coffee |
+| Greater agroforestry shade integration | Cacao |
+| Shorter time to first harvest | Coffee (slight edge) |
+| Longer productive lifespan | Cacao |
+| Lower disease pressure | Coffee (marginally) |
+| Fine-flavor premium potential | Both (equal) |
+
+Both crops are exceptional choices for tropical perennial food systems. The deciding factor is almost always **site conditions** — specifically altitude, temperature, and rainfall pattern. Where conditions allow both, growing them together in a diversified agroforestry system maximizes resilience, income stability, and ecological benefits. Neither crop should be grown as a monoculture; both perform dramatically better — ecologically and economically — within diverse, multi-strata farming systems.
+
+## See Also
+
+- [[oyster-mushroom-coffee-grounds-cultivation]]
+- [[mollison-designers-shade-grown-coffee-and-cacao-systems]]
+- [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]

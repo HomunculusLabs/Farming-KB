@@ -136,3 +136,4 @@ to the nomenclatural complexity.
   potency variations across species
 - [[gartz-mushroom-identification-dangers-and-tips]] - Identification
   safety guidelines
+- [[pluteus-saliginus]]

@@ -85,3 +85,4 @@ For the lowest-cost approach with the fastest learning curve, JADAM is the clear
 - [[fukuoka-do-nothing-farming-and-spiritual-life]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+- [[comparison-biodynamic-farming-vs-organic-farming]]
