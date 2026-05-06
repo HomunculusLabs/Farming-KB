@@ -1,5 +1,6 @@
 ---
 title: "White Widow"
+created: 2026-05-06
 type: strain
 tags:
   - cannabis

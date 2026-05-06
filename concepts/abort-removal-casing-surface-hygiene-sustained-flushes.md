@@ -1,6 +1,8 @@
 ---
 title: Abort Removal and Casing Surface Hygiene for Sustained Mushroom Flushes
+created: 2026-05-06
 tags: [mycology, mushroom-cultivation, aborts, casing-hygiene, flush-management, contamination-prevention, pinhead, fruiting]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

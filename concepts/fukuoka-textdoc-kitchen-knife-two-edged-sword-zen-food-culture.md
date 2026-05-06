@@ -1,5 +1,6 @@
 ---
 title: "Kitchen Knife as Two-Edged Sword: Zen, Food, and True Culture"
+created: 2026-05-06
 tags: [natural-farming, philosophy, food-culture, zen, cooking, true-culture, spirituality, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28

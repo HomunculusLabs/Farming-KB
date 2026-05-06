@@ -128,6 +128,8 @@ Vetiver and bamboo are complementary rather than competing. In large-scale water
 
 ## See Also
 
+- [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
+
 - [[agroforestry]]
 - [[cover-crops]]
 - [[phytoremediation]]

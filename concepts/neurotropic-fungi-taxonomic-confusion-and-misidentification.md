@@ -1,6 +1,8 @@
 ---
 title: Neurotropic Fungi Taxonomic Confusion and Misidentification
+created: 2026-05-06
 tags: [mycology, taxonomy, neurotropic-fungi, psilocybe, identification, ethnomyology]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

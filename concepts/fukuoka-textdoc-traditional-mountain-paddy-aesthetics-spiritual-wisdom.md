@@ -1,5 +1,6 @@
 ---
 title: Traditional Mountain Paddy Aesthetics and Spiritual Wisdom
+created: 2026-05-06
 tags:
   - fukuoka
   - natural-farming

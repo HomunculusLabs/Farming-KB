@@ -1,5 +1,6 @@
 ---
 title: Psilocybe cubensis
+created: 2026-05-06
 tags:
   - mycology
   - mushroom

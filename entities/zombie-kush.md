@@ -163,4 +163,4 @@ weeks 6–8 of flowering. Plants reach a medium height of 80–120 cm indoors.
 - [[sour-diesel-cannabis]]
 - [[granddaddy-purple]]
 - [[myrcene]]
-- [[caryophyllene]]
+- [[beta-caryophyllene]]

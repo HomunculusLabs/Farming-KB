@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sourcesfungal-sporest3rpz/wiki/raw/papers/growing-psilocybe-azurescens.md
+sources: []
 ---
 
 # Sterilization

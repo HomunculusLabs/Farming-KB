@@ -100,8 +100,12 @@ and [[falconer-making-up-mushroom-beds|bed preparation]] for the full growing cy
 ## See Also
 
 - [[falconer-reinvigorating-old-mushroom-beds]]
-
 - [[falconer-earthing-over-the-beds]]
 - [[falconer-topdressing-with-loam]]
 - [[falconer-manure-for-mushroom-beds]]
 - [[falconer-mushroom-bed-construction]]
+- [[victorian-mushroom-cultivation]]
+- [[william-falconer]]
+- [[agaricus-bisporus-cultivation-biology]]
+- [[substrate-preparation]]
+- [[falconer-dosoris-mushroom-cellar]]

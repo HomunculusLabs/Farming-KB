@@ -1,5 +1,6 @@
 ---
 title: Amanita muscaria
+created: 2026-05-06
 tags:
   - mycology
   - mushroom
@@ -116,6 +117,9 @@ However, several EU countries have recently considered or implemented controls o
 The switch from psilocybin mushrooms to Amanita muscaria following legal bans represents a concerning public health development. Retailers motivated by economic interests moved to fill the market gap with a product that is chemically unrelated, potentially more dangerous, and less well understood in terms of recreational dosing and long-term health effects. This pattern illustrates how legislative responses to drug trends can create unintended incentives for the promotion of potentially more harmful alternatives.
 
 ## Related
+
+- [[agaricus-xanthodermus]]
+- [[amanita-ceceliae]]
 
 - [[nothofagus-obliqua]]
 

@@ -1,6 +1,8 @@
 ---
 title: "Agrovoltaics vs Traditional Solar Farms"
+created: 2026-05-06
 tags: [agrovoltaics, solar-energy, agriculture, dual-use-land, renewable-energy, land-use-efficiency]
+type: comparison
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -161,5 +163,5 @@ The choice between these approaches involves tradeoffs in energy yield, agricult
 ## See Also
 
 - [[water-harvesting-techniques-comparison]] — complementary water management strategies
-- [[windbreaks-hedgerows-and-shelterbelts]] — farm infrastructure for microclimate management
-- [[agroforestry-and-alley-cropping]] — dual land use with trees and crops
+- [[hemenway-hedgerow-and-shelterbelt-design]] — farm infrastructure for microclimate management
+- [[agroforestry]] — dual land use with trees and crops

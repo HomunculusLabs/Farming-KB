@@ -1,5 +1,6 @@
 ---
 title: "Wattle and Daub vs Straw Bale Construction"
+created: 2026-05-06
 tags: [comparison, natural-building, wattle-and-daub, straw-bale, sustainable-housing]
 date: 2026-04-28
 updated: 2026-04-28

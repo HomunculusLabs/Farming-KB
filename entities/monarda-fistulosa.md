@@ -137,7 +137,7 @@ substitute.
 - [[cymbopogon-citratus]]
 - [[agastache-foeniculum]]
 - [[leonurus-cardiaca]]
-- [[solidago-canadensis]]
+- solidago canadensis
 - [[asclepias-syriaca]]
 - [[echinacea-purpurea]]
 - [[hypericum-perforatum]]

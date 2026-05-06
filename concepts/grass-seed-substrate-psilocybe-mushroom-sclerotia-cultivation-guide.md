@@ -136,6 +136,8 @@ Harder-to-fruit strains benefit from **cold shocking** — placing them in the f
 
 ## See Also
 
+- [[grass-seed-species-selection-fungicide-contamination-mushroom-substrate]]
+
 - [[grass-seed-substrate-cultivation-psilocybe]]
 - [[grass-seed-cultivation-of-psilocybe-mushrooms]]
 - [[grass-seed-mushroom-cultivation]]

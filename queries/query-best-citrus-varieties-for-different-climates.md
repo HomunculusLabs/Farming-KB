@@ -1,5 +1,6 @@
 ---
 title: What Are the Best Citrus Varieties for Different Climates?
+created: 2026-05-06
 tags:
   - citrus
   - variety-selection

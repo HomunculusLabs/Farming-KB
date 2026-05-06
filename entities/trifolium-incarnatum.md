@@ -1,5 +1,6 @@
 ---
 title: Crimson Clover (Trifolium incarnatum)
+created: 2026-05-06
 type: species
 tags:
   - cover-crop

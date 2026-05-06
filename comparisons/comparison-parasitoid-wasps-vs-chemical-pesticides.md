@@ -1,5 +1,6 @@
 ---
 title: Parasitoid Wasps vs Chemical Pesticides
+created: 2026-05-06
 tags: [comparison, biological-control, parasitoid-wasps, chemical-pesticides, pest-management, ipm, agriculture, sustainability]
 date: 2026-04-28
 updated: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Mexico as Northern-Southern Mycobiotic Convergence Zone
+created: 2026-05-06
 tags:
   - biogeography
   - mexico

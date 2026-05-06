@@ -1,6 +1,8 @@
 ---
 title: McKenna Critique of SETI and Cultural Blindness to Alien Intelligence
+created: 2026-05-06
 tags:
+type: concept
   - seti
   - extraterrestrial
   - consciousness

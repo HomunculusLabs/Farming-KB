@@ -89,6 +89,9 @@ gardening. The potential undiscovered mycorrhizal associate suggests there is
 still much to learn about optimising its cultivation.
 
 ## See Also
+
+- [[diospyros-virginiana]]
+- [[monarda-fistulosa]]
 - Persimmon
 - American Chestnut
 - Mulberry
@@ -96,6 +99,9 @@ still much to learn about optimising its cultivation.
 - Native American Food Plants
 
 ## See Also
+
+- [[diospyros-virginiana]]
+- [[monarda-fistulosa]]
 - [[mycorrhizal-edible-mushroom-species-overview]]
 - [[permaculture-plants-fruit-trees-temperate]]
 - [[microfungal-species-diversity-large-areas]]

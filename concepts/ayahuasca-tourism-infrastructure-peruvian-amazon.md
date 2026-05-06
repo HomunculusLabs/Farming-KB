@@ -1,5 +1,6 @@
 ---
 title: "Ayahuasca Tourism Infrastructure and Economics in the Peruvian Amazon"
+created: 2026-05-06
 tags: [ayahuasca, tourism, peru, ucayali, iquitos, shipibo, economics, commodification, retreat, shamanism]
 date: 2026-04-28
 updated: 2026-04-28

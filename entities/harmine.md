@@ -143,5 +143,5 @@ many countries. Religious use of ayahuasca is protected in Brazil and Peru.
 - [[psilocybin]]
 - [[amanita-muscaria]]
 - [[ibogaine]]
-- [[myristicin]]
-- [[piper-methysticum]]
+- myristicin
+- piper methysticum

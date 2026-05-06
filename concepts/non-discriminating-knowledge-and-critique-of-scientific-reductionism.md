@@ -1,6 +1,8 @@
 ---
 title: Non-Discriminating Knowledge and the Critique of Scientific Reductionism
+created: 2026-05-06
 tags: [natural-farming, philosophy, Fukuoka, epistemology, reductionism, Mu, agriculture]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

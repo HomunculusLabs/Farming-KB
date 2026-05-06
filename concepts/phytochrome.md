@@ -1,5 +1,6 @@
 ---
 title: Phytochrome
+created: 2026-05-06
 tags: [botany, photobiology, photoreceptor, plant-physiology, molecular-biology]
 date: 2026-04-28
 updated: 2026-04-28

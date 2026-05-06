@@ -1,5 +1,6 @@
 ---
 title: "Orientomania and the European Discovery of Hashish"
+created: 2026-05-06
 tags:
   - history
   - cannabis

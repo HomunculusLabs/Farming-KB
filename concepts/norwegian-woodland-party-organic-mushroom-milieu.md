@@ -1,6 +1,8 @@
 ---
 title: Norwegian Woodland Party Organic Mushroom Milieu
+created: 2026-05-06
 tags:
+type: concept
   - norway
   - mushroom-use
   - subculture

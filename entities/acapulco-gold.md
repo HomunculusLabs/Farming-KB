@@ -1,5 +1,6 @@
 ---
 title: "Acapulco Gold"
+created: 2026-05-06
 type: strain
 tags: [cannabis, landrace, sativa, strain-profile, heritage-genetics, mexican-landrace]
 date: 2026-04-28

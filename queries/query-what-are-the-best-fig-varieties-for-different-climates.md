@@ -140,6 +140,8 @@ The most important rule: **plant what grows well for your neighbors**. Local nur
 
 ## See Also
 
+- [[query-best-chestnut-varieties-for-different-climates-and-uses]]
+
 - [[query-best-citrus-varieties-for-different-climates]]
 
 - [[query-what-are-the-best-mushroom-substrates-for-different-species]]

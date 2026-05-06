@@ -1,5 +1,6 @@
 ---
 title: Shamanic Ecstasy and Techniques
+created: 2026-05-06
 tags:
   - shamanism
   - ecstasy

@@ -1,5 +1,6 @@
 ---
 title: "Hugelkultur"
+created: 2026-05-06
 type: species
 tags: [permaculture, soil-building, raised-beds, carbon-sequestration, sustainable-agriculture]
 date: 2026-04-28

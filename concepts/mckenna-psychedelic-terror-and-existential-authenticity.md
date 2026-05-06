@@ -1,6 +1,8 @@
 ---
 title: Psychedelic Terror and Existential Authenticity in the Tryptamine Experience
+created: 2026-05-06
 tags:
+type: concept
   - psychedelics
   - terror
   - existentialism

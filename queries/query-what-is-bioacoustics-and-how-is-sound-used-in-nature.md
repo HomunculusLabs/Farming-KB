@@ -1,6 +1,8 @@
 ---
 title: "What Is Bioacoustics and How Is Sound Used in Nature?"
+created: 2026-05-06
 tags: [bioacoustics, animal-communication, sound-ecology, echolocation, acoustic-monitoring, bioacoustic-monitoring]
+type: query
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -129,3 +131,10 @@ Modern bioacoustics relies on a sophisticated toolkit spanning hardware, softwar
 - **Playback experiments:** Researchers use calibrated speakers to broadcast recorded or synthesized sounds in field or laboratory settings, testing how animals respond to specific acoustic cues — a critical method for establishing the behavioral function of vocalizations.
 - **Sound level meters and acoustic calibration:** Precise measurement of sound pressure levels (SPL) in the field is essential for quantifying signal amplitude, environmental noise, and the impact of anthropogenic noise. Calibration ensures comparability across studies and recording systems.
 - **Standardized protocols** exist for both terrestrial and marine acoustic measurements, including ANSI and IEC standards for microphone and hydrophone calibration. These standards ensure that measurements taken by different research groups worldwide are directly comparable.
+
+## See Also
+
+- [[query-how-do-i-identify-and-control-common-garden-pests-organically]]
+
+- [[query-what-is-mycelium-and-how-does-it-function-in-nature]]
+- [[query-what-are-the-best-fig-varieties-for-different-climates]]

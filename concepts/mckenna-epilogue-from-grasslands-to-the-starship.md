@@ -1,5 +1,6 @@
 ---
 title: Epilogue: From the Grasslands to the Starship
+created: 2026-05-06
 tags: [epilogue, eschatology, archaic-revival, starship, koestler, shamanism, human-destiny, paradise]
 date: 2026-04-28
 updated: 2026-04-28

@@ -1,5 +1,6 @@
 ---
 title: Seeing Nature Wholistically - Mt Fuji, Hokusai, and the Limits of Analysis
+created: 2026-05-06
 tags:
   - natural-farming
   - philosophy

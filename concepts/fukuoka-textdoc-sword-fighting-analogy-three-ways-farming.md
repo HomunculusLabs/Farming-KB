@@ -1,5 +1,6 @@
 ---
 title: "Sword Fighting Analogy: One-Sword, Two-Sword, and No-Sword Schools of Farming"
+created: 2026-05-06
 tags: [natural-farming, philosophy, mahayana, hinayana, scientific-farming, martial-arts-metaphor, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28

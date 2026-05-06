@@ -1,5 +1,6 @@
 ---
 title: Jar Shaking and Grain Redistribution for Mycelial Colonisation
+created: 2026-05-06
 tags: [mycelial-colonisation, grain-jar, shaking-technique, spawn-expansion, cultivation, colonisation-speed, contamination-prevention]
 date: 2026-04-28
 updated: 2026-04-28

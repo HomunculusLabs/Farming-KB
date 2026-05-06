@@ -1,5 +1,6 @@
 ---
 title: "Cacao and Chocolate in Mesoamerican Religion"
+created: 2026-05-06
 tags:
   - history
   - mesoamerica

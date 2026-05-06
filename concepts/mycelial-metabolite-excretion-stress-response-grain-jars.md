@@ -1,6 +1,8 @@
 ---
 title: Mycelial Metabolite Excretion and Stress Response in Grain Jars
+created: 2026-05-06
 tags: [mycology, mycelium, metabolites, stress-response, grain-jar, contamination, incubation, over-incubation]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

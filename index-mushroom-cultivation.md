@@ -1403,3 +1403,5 @@
 - [[working-with-agar-guide]]
 - [[working-with-agar-pouring-plates-and-sterile-technique]]
 - [[worldwide-distribution-psilocybin-mushrooms]]
+- [[microwave-sterilization]]
+- [[psilocybin-psilocin-variation-flushes]]

@@ -1,5 +1,6 @@
 ---
 title: Psilocybin in Human Evolution
+created: 2026-05-06
 tags:
   - human-evolution
   - psilocybin

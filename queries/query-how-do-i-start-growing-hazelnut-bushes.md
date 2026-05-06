@@ -1,5 +1,6 @@
 ---
 title: How Do I Start Growing Hazelnut Bushes?
+created: 2026-05-06
 tags: [hazelnut, filbert, corylus, getting-started, planting-guide, nut-trees, homesteading, beginner]
 date: 2026-04-28
 updated: 2026-04-28

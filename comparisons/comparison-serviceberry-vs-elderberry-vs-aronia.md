@@ -1,6 +1,8 @@
 ---
 title: "Serviceberry vs. Elderberry vs. Aronia (Chokeberry) — Cultivation Comparison"
+created: 2026-05-06
 tags: [comparisons, fruit-shrubs, permaculture, native-berries, serviceberry, elderberry, aronia, chokeberry]
+type: comparison
 date: 2026-04-28
 updated: 2026-04-28
 sources:

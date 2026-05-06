@@ -1,6 +1,8 @@
 ---
 title: Partnership vs Dominator Societies
+created: 2026-05-06
 tags: [cultural-theory, anthropology, feminism, riane-eisler, marija-gimbutas, terence-mckenna, social-organization, gender]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

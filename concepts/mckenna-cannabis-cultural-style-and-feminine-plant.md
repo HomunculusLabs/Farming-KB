@@ -1,5 +1,6 @@
 ---
 title: "Cannabis as a Cultural Style and the Feminine Plant"
+created: 2026-05-06
 tags:
   - cannabis
   - anthropology

@@ -1,5 +1,6 @@
 ---
 title: "What Is the Difference Between Hardneck and Softneck Garlic?"
+created: 2026-05-06
 tags: [query, garlic, varieties, cultivation, alliums]
 date: 2026-04-28
 updated: 2026-04-28

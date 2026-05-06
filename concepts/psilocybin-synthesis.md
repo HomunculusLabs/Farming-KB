@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Synthesis
+created: 2026-05-06
 tags: [chemistry, organic-synthesis, tryptamine, psilocybin, psilocin, phosphorylation]
 date: 2026-04-28
 updated: 2026-04-28

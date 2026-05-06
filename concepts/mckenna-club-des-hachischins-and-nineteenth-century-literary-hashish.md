@@ -1,5 +1,6 @@
 ---
 title: "Club des Hachischins and Nineteenth-Century Literary Hashish"
+created: 2026-05-06
 tags:
   - history
   - cannabis

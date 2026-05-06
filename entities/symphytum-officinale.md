@@ -1,5 +1,6 @@
 ---
 title: Symphytum officinale (Comfrey)
+created: 2026-05-06
 type: species
 tags: permaculture, dynamic-accumulator, herbal plants, polyculture
 date: 2026-04-28

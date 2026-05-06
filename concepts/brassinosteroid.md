@@ -1,5 +1,6 @@
 ---
 title: Brassinosteroid
+created: 2026-05-06
 tags: [phytohormone, plant-growth-regulator, steroid, brassinolide, mycology]
 date: 2026-04-28
 updated: 2026-04-28

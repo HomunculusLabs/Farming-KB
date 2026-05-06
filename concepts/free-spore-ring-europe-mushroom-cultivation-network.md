@@ -1,6 +1,8 @@
 ---
 title: Free Spore Ring Europe Mushroom Cultivation Network
+created: 2026-05-06
 tags:
+type: concept
   - mycology
   - psilocybin
   - cultivation

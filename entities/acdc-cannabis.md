@@ -1,5 +1,6 @@
 ---
 title: ACDC Cannabis Strain
+created: 2026-05-06
 type: strain
 tags: cannabis, cbd-dominant, medicinal-cannabis, hemp
 date: 2026-04-28

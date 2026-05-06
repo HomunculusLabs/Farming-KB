@@ -1,5 +1,6 @@
 ---
 title: "Scientific Farming Produces Deformed Fruit: Distortion and Incompleteness"
+created: 2026-05-06
 tags: [natural-farming, scientific-farming, philosophy, fruit-quality, distortion, incompleteness, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28

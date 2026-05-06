@@ -1,5 +1,6 @@
 ---
 title: "Blue Dream"
+created: 2026-05-06
 type: strain
 tags: [cannabis, hybrid, sativa-dominant, thc, terpenes, popular-strain]
 date: 2026-04-28

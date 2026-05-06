@@ -140,10 +140,10 @@ disseminated by wind and rain splash.
 ## See Also
 
 - [[coprinus-comatus]]
-- [[psathyrellaceae]]
-- [[coprine]]
-- [[acetaldehyde-dehydrogenase]]
-- [[disulfiram]]
+- psathyrellaceae
+- coprine
+- acetaldehyde dehydrogenase
+- disulfiram
 - [[amanita-phalloides]]
 - [[psilocybe-cubensis]]
-- [[deliquescent-fungi]]
+- deliquescent fungi

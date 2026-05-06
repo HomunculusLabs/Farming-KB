@@ -121,6 +121,8 @@ generally produces more abundant and healthier mushroom crops.
 - [[underground-fungal-networks]] can cover vast areas and function as single
   interconnected organisms
 
-## Related Questions
+## Related
+
+- [[query-what-is-bioacoustics-and-how-is-sound-used-in-nature]] Questions
 - [[query-how-does-mycoremediation-work-and-what-can-fungi-clean-up]]
 - query what is mycelium and how does it function in nature

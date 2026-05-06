@@ -1,5 +1,6 @@
 ---
 title: "Withania somnifera"
+created: 2026-05-06
 type: species
 tags: [herbal-plant, adaptogen, ayurveda, solanaceae, medicinal-plant, rasayana]
 date: 2026-04-28

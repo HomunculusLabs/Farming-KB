@@ -1,6 +1,8 @@
 ---
 title: DMT Hyperspace Entities
+created: 2026-05-06
 tags: [consciousness, dmt, tryptamines, psychedelics, entity-encounter, mysticism, terence-mckenna, hyperspace, ayahuasca]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

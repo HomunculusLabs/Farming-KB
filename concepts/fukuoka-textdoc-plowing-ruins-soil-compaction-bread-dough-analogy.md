@@ -1,5 +1,6 @@
 ---
 title: Plowing Ruins Soil - Compaction and the Bread Dough Analogy
+created: 2026-05-06
 tags:
   - natural-farming
   - no-tillage

@@ -1,5 +1,6 @@
 ---
 title: Hallucinogenic Mushroom Species Families Overview
+created: 2026-05-06
 tags: [taxonomy, psilocybe, strophariaceae, bolbitiaceae, coprinaceae, cortinariaceae, neurotropic-fungi, species-distribution]
 date: 2026-04-28
 updated: 2026-04-28

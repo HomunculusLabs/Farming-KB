@@ -1,6 +1,8 @@
 ---
 title: Jar Lid Loose Fit Preventing Vacuum in Mushroom Cultivation
+created: 2026-05-06
 tags: [mycology, sterilization, grain-jar, pressure-cooker, vacuum, contamination-prevention, substrate-preparation]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

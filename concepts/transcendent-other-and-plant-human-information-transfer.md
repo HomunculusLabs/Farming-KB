@@ -1,6 +1,8 @@
 ---
 title: Transcendent Other and Plant-Human Information Transfer
+created: 2026-05-06
 tags: [psychedelics, consciousness, evolution, ethnobotany, shamanism, McKenna, exopheromones]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

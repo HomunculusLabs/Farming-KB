@@ -1,6 +1,8 @@
 ---
 title: Psilocybe aztecorum Section Aztecorum: Alpine Neurotropic Fungi
+created: 2026-05-06
 tags: mycology, psilocybe, aztecorum, baeocystis, alpine, subalpine, mexico, biogeography, guzman-1998
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources: "Guzmán, Allen & Gartz (1998)"

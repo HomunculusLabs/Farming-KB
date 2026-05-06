@@ -1,6 +1,8 @@
 ---
 title: "How Does Phosphorus Availability Change Across Soil pH Levels?"
+created: 2026-05-06
 tags: [phosphorus, soil-ph, nutrient-availability, soil-chemistry, plant-nutrition]
+type: query
 date: 2026-04-28
 updated: 2026-04-28
 sources:

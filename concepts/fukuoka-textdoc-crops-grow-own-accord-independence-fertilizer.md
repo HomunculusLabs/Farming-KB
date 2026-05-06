@@ -1,5 +1,6 @@
 ---
 title: Crops Grow of Their Own Accord - Independence from Fertilizer
+created: 2026-05-06
 tags:
   - natural-farming
   - no-fertilizer

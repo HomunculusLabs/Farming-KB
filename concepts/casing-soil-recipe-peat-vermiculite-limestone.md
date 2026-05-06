@@ -1,5 +1,6 @@
 ---
 title: "Casing Soil Recipe and Sterilisation Debate in Small-Scale Mushroom Cultivation"
+created: 2026-05-06
 tags: [mycology, casing-soil, peat, vermiculite, limestone, sterilisation, pasteurisation, mushroom-cultivation, contamination]
 date: 2026-04-28
 updated: 2026-04-28

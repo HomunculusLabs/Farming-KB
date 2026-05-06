@@ -1,5 +1,6 @@
 ---
 title: Direct-Seeded No-Tillage Rice/Barley Succession Cropping
+created: 2026-05-06
 tags:
   - natural-farming
   - rice

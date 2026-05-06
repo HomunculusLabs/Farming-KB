@@ -1,5 +1,6 @@
 ---
 title: Ribwort Plantain (Plantago lanceolata)
+created: 2026-05-06
 type: species
 tags:
   - herbal-plants

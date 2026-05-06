@@ -1,6 +1,8 @@
 ---
 title: Exopheromones and Plant Intelligence
+created: 2026-05-06
 tags: [botany, ecology, psychopharmacology, plant-communication, exopheromones, terence-mckenna, alkaloids, coevolution]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

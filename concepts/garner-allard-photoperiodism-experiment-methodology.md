@@ -1,5 +1,6 @@
 ---
 title: Garner and Allard Photoperiodism Experiment Methodology
+created: 2026-05-06
 tags: [photoperiodism, plant-biology, maryland-mammoth, tobacco, garner-allard, light-manipulation, flowering, experimental-method]
 date: 2026-04-28
 updated: 2026-04-28

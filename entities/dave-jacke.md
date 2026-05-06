@@ -1,5 +1,6 @@
 ---
 title: "Dave Jacke"
+created: 2026-05-06
 type: person
 tags:
   - permaculture

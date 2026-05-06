@@ -1,5 +1,6 @@
 ---
 title: Hyperspace, the Law, and the Remarkable Overmind
+created: 2026-05-06
 tags: [dmt, hyperspace, law, schedule-i, jung, overmind, consciousness, tryptamine]
 date: 2026-04-28
 updated: 2026-04-28

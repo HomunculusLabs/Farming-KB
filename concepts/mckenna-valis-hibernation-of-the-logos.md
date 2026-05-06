@@ -1,6 +1,8 @@
 ---
 title: Valis and the Hibernation of the Logos
+created: 2026-05-06
 tags:
+type: concept
   - philip-k-dick
   - valis
   - logos

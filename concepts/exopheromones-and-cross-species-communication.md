@@ -1,5 +1,6 @@
 ---
 title: Exopheromones and Cross-Species Communication
+created: 2026-05-06
 tags:
   - exopheromones
   - chemical-ecology

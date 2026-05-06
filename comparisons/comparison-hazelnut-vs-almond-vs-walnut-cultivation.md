@@ -1,5 +1,6 @@
 ---
 title: Hazelnut vs Almond vs Walnut Cultivation
+created: 2026-05-06
 tags: [hazelnut, almond, walnut, nut-trees, comparison, orchard, homesteading, climate-zones, nut-crops]
 date: 2026-04-28
 updated: 2026-04-28

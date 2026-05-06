@@ -1,5 +1,6 @@
 ---
 title: "Eupatorium perfoliatum"
+created: 2026-05-06
 type: species
 tags:
   - herbal-plant

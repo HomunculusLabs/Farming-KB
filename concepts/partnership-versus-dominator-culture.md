@@ -1,5 +1,6 @@
 ---
 title: Partnership Versus Dominator Culture
+created: 2026-05-06
 tags:
   - cultural-evolution
   - mc-kenna

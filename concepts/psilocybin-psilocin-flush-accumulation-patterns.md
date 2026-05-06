@@ -1,5 +1,6 @@
 ---
 title: "Psilocybin and Psilocin Variation Across Flushes in Psilocybe Cubensis"
+created: 2026-05-06
 tags: [mycology, psilocybin, psilocin, alkaloid-variation, flush-number, psilocybe-cubensis, hplc-analysis, bigwood-beug]
 date: 2026-04-28
 updated: 2026-04-28

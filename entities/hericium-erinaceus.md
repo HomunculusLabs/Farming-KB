@@ -1,5 +1,6 @@
 ---
 title: "Hericium erinaceus"
+created: 2026-05-06
 type: species
 tags: [fungi, medicinal-mushroom, nootropic, mycology, lion's-mane, culinary]
 date: 2026-04-28

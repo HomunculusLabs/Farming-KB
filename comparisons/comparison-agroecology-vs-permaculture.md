@@ -1,5 +1,6 @@
 ---
 title: "Agroecology vs Permaculture"
+created: 2026-05-06
 tags:
   - agroecology
   - permaculture

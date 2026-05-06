@@ -1,6 +1,8 @@
 ---
 title: The Four Principles of Natural Farming
+created: 2026-05-06
 tags:
+type: concept
   - farming
   - natural-farming
   - fukuoka

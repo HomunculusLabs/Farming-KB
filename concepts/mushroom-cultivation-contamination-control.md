@@ -108,6 +108,8 @@ fungi while being compatible with mushroom mycelium.
 
 ## See Also
 
+- [[jar-lid-loose-fit-preventing-vacuum-mushroom-cultivation]]
+
 - [[oyster-mushroom-substrate-preparation]]
 - [[oyster-mushroom-spawn-production]]
 - [[mushroom-grow-room-design]]

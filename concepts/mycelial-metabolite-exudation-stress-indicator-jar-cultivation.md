@@ -174,6 +174,8 @@ of a week or more can significantly reduce productivity.
 
 ## See Also
 
+- [[mycelial-metabolite-excretion-stress-response-grain-jars]]
+
 - [[jar-shaking-grain-redistribution-mycelial-colonisation]]
 
 - [[fungal-secondary-metabolites-environment]]

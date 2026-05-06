@@ -1,6 +1,8 @@
 ---
 title: "What are the best native fruiting shrubs for permaculture hedges and edible borders?"
+created: 2026-05-06
 tags: [permaculture, native-plants, edible-landscaping, hedgerows, fruiting-shrubs, polyculture, food-forests, wildlife-habitat]
+type: query
 date: 2026-04-28
 updated: 2026-04-28
 sources:

@@ -1,5 +1,6 @@
 ---
 title: Hallucinogenic mushroom market in Europe
+created: 2026-05-06
 tags:
   - market
   - retail

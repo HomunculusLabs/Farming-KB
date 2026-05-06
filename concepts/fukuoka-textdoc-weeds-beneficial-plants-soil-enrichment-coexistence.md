@@ -1,5 +1,6 @@
 ---
 title: Weeds as Beneficial Plants - Soil Enrichment and Ecological Coexistence
+created: 2026-05-06
 tags:
   - natural-farming
   - weeds

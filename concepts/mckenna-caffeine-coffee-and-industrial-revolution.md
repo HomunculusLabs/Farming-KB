@@ -1,5 +1,6 @@
 ---
 title: "Caffeine, Coffee, and the Industrial Revolution"
+created: 2026-05-06
 tags:
   - history
   - caffeine

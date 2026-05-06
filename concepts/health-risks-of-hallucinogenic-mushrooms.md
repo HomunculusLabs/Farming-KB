@@ -1,5 +1,6 @@
 ---
 title: Health Risks of Hallucinogenic Mushrooms
+created: 2026-05-06
 tags: [health-risks, hallucinogenic-mushrooms, psilocybin, mental-health, somatic-effects, adverse-reactions, harm-reduction]
 date: 2026-04-28
 updated: 2026-04-28

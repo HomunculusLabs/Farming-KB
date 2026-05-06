@@ -1,5 +1,6 @@
 ---
 title: Specimen Misidentification and Erroneous Chemical Analyses in Neurotropic Fungi
+created: 2026-05-06
 tags:
   - taxonomy
   - chemistry

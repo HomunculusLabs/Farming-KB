@@ -1,5 +1,6 @@
 ---
 title: "How to Grow Passionfruit in Different Climates"
+created: 2026-05-06
 tags:
   - passionfruit
   - climate-zones

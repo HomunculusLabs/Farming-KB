@@ -1,5 +1,6 @@
 ---
 title: Sawdust and Wood Chips in Orchard Soil - Acidification Myth Debunked
+created: 2026-05-06
 tags:
   - natural-farming
   - soil-science

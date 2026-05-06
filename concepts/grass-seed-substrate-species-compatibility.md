@@ -1,5 +1,6 @@
 ---
 title: "Grass Seed Substrate Species Compatibility for Psilocybe and Panaeolus Cultivation"
+created: 2026-05-06
 tags: [mycology, grass-seed, substrate, psilocybe-mexicana, psilocybe-tampanensis, psilocybe-cubensis, panaeolus-subbalteatus, cultivation]
 date: 2026-04-28
 updated: 2026-04-28

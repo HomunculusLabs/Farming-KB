@@ -1,6 +1,8 @@
 ---
 title: "Coffee vs Cacao Cultivation — A Side-by-Side Comparison"
+created: 2026-05-06
 tags:
+type: comparison
   - coffee
   - cacao
   - tropical-crops

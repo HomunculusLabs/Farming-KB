@@ -1,6 +1,8 @@
 ---
 title: Direct-Seeded No-Tillage Rice-Barley Clover Succession
+created: 2026-05-06
 tags: [natural-farming, Fukuoka, rice, barley, no-till, cover-crops, clover, seed-balls]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

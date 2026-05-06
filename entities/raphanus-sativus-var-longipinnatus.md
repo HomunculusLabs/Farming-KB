@@ -1,5 +1,6 @@
 ---
 title: Daikon Radish (Raphanus sativus var. longipinnatus)
+created: 2026-05-06
 type: species
 tags:
   - root-vegetable

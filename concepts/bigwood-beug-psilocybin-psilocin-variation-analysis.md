@@ -117,4 +117,6 @@ Gartz cited Bigwood and Beug as reference 2 and reproduced their general finding
 
 ## See Also
 
+- [[psilocybin-psilocin-variation-flushes]]
+
 - [[psilocybin-potency-variation]]

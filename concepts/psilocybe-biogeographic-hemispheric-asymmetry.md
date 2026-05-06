@@ -1,6 +1,8 @@
 ---
 title: Psilocybe Biogeographic Hemispheric Asymmetry
+created: 2026-05-06
 tags: [mycology, biogeography, psilocybe, fungal-ecology, biodiversity, species-distribution]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

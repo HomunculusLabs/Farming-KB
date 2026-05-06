@@ -1,6 +1,8 @@
 ---
 title: DMT Onset Phenomenology and the Ripping Cellophane Experience
+created: 2026-05-06
 tags:
+type: concept
   - dmt
   - phenomenology
   - tryptamine

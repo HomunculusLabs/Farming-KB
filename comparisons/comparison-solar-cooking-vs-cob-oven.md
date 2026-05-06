@@ -131,6 +131,8 @@ The most resilient off-grid cooking system combines solar and
     tasks.
 
 ## See Also
+
+- [[comparison-agrovoltaics-vs-traditional-solar-farms]]
 - [[comparison-cob-oven-vs-rocket-stove]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[solar-oven-cooking]]

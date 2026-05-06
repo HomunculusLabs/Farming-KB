@@ -1,6 +1,8 @@
 ---
 title: Absence of DMT Motifs in Human Art History
+created: 2026-05-06
 tags:
+type: concept
   - art-history
   - dmt
   - psychedelics

@@ -1,6 +1,8 @@
 ---
 title: Czech Republic Aromatic Decorative Mushroom Legal Loophole
+created: 2026-05-06
 tags:
+type: concept
   - czech-republic
   - legal-loophole
   - mushroom-retail

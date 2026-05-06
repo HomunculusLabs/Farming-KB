@@ -1,5 +1,6 @@
 ---
 title: "Gymnocladus dioicus"
+created: 2026-05-06
 type: species
 tags:
   - fabaceae

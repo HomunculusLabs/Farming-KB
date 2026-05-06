@@ -1,5 +1,6 @@
 ---
 title: Southern Hemisphere Origin Hypothesis for Neurotropic Fungi
+created: 2026-05-06
 tags:
   - biogeography
   - psilocybe

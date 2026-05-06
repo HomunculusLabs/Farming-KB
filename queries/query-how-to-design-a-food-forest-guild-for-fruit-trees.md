@@ -151,6 +151,8 @@ Check the USDA Plant Hardiness Zone Map (source listed above) and consult local 
 
 ## See Also
 
+- [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
+
 - [[companion-planting]]
 - [[dynamic-accumulators]]
 - [[eric-toensmeier]]

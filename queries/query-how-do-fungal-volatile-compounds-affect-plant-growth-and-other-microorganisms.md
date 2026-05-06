@@ -1,5 +1,6 @@
 ---
 title: How Do Fungal Volatile Compounds Affect Plant Growth and Other Microorganisms?
+created: 2026-05-06
 tags:
   - fungal-volatile-organic-compounds
   - plant-microbe-interactions

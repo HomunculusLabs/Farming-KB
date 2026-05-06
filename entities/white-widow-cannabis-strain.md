@@ -1,5 +1,6 @@
 ---
 title: White Widow
+created: 2026-05-06
 type: strain
 tags:
   - cannabis
@@ -148,3 +149,10 @@ White Widow's influence on global cannabis culture is immeasurable:
 4. Royal Queen Seeds. "White Widow Growing Guide." royalqueenseeds.com.
 5. High Times Magazine. Cannabis Cup results archives, 1995–2010.
 6. Wikipedia contributors. "White Widow." Wikipedia, The Free Encyclopedia.
+
+## See Also
+
+- [[cannabis-minor-cannabinoids]]
+
+- [[cannabis-phenotype-and-genotype-guide]]
+- [[cannabis-plant-anatomy]]

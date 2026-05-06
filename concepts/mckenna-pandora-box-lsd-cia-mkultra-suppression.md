@@ -1,5 +1,6 @@
 ---
 title: Pandora's Box, LSD, CIA Operations, and the Suppression of Psychedelic Research
+created: 2026-05-06
 tags: [lsd, cia, mkultra, suppression, 1960s, psychopharmacology, deconditioning, drug-war]
 date: 2026-04-28
 updated: 2026-04-28

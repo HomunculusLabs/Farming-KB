@@ -1,5 +1,6 @@
 ---
 title: "Suillus cavipes"
+created: 2026-05-06
 type: species
 tags:
   - fungi

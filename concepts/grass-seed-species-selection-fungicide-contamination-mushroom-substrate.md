@@ -1,6 +1,8 @@
 ---
 title: Grass Seed Species Selection and Fungicide Contamination in Mushroom Substrate
+created: 2026-05-06
 tags: [mycology, grass-seed, substrate, fungicide, lolium-perenne, seed-selection, contamination, mushroom-cultivation]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

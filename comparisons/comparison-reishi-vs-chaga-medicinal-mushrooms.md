@@ -1,6 +1,8 @@
 ---
 title: 'Reishi vs Chaga Medicinal Mushrooms'
+created: 2026-05-06
 tags: [medicinal-mushrooms, reishi, chaga, adaptogens, beta-glucans, health, fungi]
+type: comparison
 date: 2026-05-03
 updated: 2026-05-03
 sources: general web search

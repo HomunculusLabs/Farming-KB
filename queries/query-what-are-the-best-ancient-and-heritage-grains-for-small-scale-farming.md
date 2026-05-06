@@ -1,6 +1,8 @@
 ---
 title: What Are the Best Ancient and Heritage Grains for Small-Scale Farming?
+created: 2026-05-06
 tags:
+type: query
   - ancient-grains
   - heritage-grains
   - small-scale-farming

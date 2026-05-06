@@ -112,6 +112,8 @@ Companion planting and fruit tree guilds exist on a continuum of ecological desi
 
 ## See Also
 
+- [[comparison-erect-vs-trailing-vs-primocane-brambles]]
+
 - [[guild-design-methodology]] for formal guild construction and co-action matrices
 - [[fruit-tree-guild-roles]] for the seven standard guild functions in detail
 - [[apple-centered-guild-design]] for the classic worked example

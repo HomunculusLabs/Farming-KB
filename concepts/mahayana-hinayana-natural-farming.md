@@ -1,6 +1,8 @@
 ---
 title: Mahayana vs Hinayana Natural Farming
+created: 2026-05-06
 tags:
+type: concept
   - farming
   - philosophy
   - natural-farming

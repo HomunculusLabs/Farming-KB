@@ -1,6 +1,8 @@
 ---
 title: 'How to Attract and Support Native Bee Pollinators'
+created: 2026-05-06
 tags: [native-bees, pollinators, conservation, habitat, wildflowers, nesting, solitary-bees, garden]
+type: query
 date: 2026-05-03
 updated: 2026-05-03
 sources: general web search

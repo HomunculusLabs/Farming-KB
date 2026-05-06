@@ -106,6 +106,8 @@ The original research paper examined the use of microwave irradiation for steril
 
 ## See Also
 
+- [[microwave-sterilization]]
+
 - [[microwave-surface-sterilization]]
 
 - [[mushroom-pasteurization]] -- pasteurisation techniques for bulk substrates

@@ -1,5 +1,6 @@
 ---
 title: Lion's Mane Mushroom
+created: 2026-05-06
 type: species
 tags:
   - mycology
@@ -148,3 +149,12 @@ Lion's Mane (*Hericium erinaceus*) is an edible and medicinal mushroom belonging
 4. Phan, C. W., David, P., Naidu, M., Wong, K. H., & Sabaratnam, V. (2015). Therapeutic potential of culinary-medicinal mushrooms for the management of neurodegenerative diseases. *Journal of Medicinal Food*, 18(2), 151–163.
 5. Chong, P. S., Fung, S. Y., Tan, S. N., & Ng, S. T. (2020). Hericium erinaceus: From culinary delicacy to the development of therapeutic applications for neurological health. *Frontiers in Aging Neuroscience*, 12, 151.
 6. Friedman, M. (2015). Chemistry, nutrition, and health-promoting properties of Hericium erinaceus (Lion's Mane) mushroom mycelium and fruiting body. *Journal of Agricultural and Food Chemistry*, 63(35), 7708–7716.
+
+## See Also
+
+- [[clavariadelphus-pistillaris]]
+- [[clitocybe-nebularis]]
+- [[hydnum-repens]]
+- [[hypoxylon-fragiforme]]
+- [[lactarius-piperatus]]
+- [[oudenansiella-mucida]]

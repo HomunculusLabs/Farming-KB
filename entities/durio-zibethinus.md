@@ -1,5 +1,6 @@
 ---
 title: "Durio zibethinus"
+created: 2026-05-06
 type: species
 tags:
   - durian

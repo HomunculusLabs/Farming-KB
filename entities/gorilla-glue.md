@@ -136,6 +136,8 @@ In 2017, the Gorilla Glue adhesive company (Gorilla Glue Inc.) initiated tradema
 
 ## See Also
 
+- [[cannabis-gorilla-glue]]
+
 - [[cannabis-terpene-profiles]]
 
 - [[entities/blue-dream-cannabis]]

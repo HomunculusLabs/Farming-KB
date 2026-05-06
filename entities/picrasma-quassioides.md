@@ -140,11 +140,13 @@ maintaining the ecological functions of the standing crop.
 
 ## See Also
 
-- [[simaroubaceae]]
-- [[quassinoids]]
-- [[quassia-amara]]
-- [[brucea-javanica]]
-- [[traditional-chinese-medicine]]
-- [[canthin-6-one]]
+- [[kaempferol]]
+
+- simaroubaceae
+- quassinoids
+- quassia amara
+- brucea javanica
+- traditional chinese medicine
+- canthin 6 one
 - [[moringa-oleifera]]
 - [[robinia-pseudoacacia]]

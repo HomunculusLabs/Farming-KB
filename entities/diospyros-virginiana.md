@@ -132,11 +132,11 @@ several sphinx moth species.
 
 ## See Also
 
-- [[diospyros-kaki]]
+- diospyros kaki
 - [[food-forest]]
 - [[agroforestry]]
 - [[morus-alba]]
-- [[asimina-triloba]]
+- [[pawpaw]]
 - [[juglans-nigra]]
 - [[robinia-pseudoacacia]]
-- [[native-american-food-plants]]
+- native american food plants

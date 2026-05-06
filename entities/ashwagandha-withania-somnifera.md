@@ -1,5 +1,6 @@
 ---
 title: Ashwagandha (Withania somnifera)
+created: 2026-05-06
 type: species
 tags:
   - herbal-plant
@@ -145,3 +146,9 @@ Withanolides exhibit positive allosteric modulation of GABA_A receptors, similar
 5. Wankhede S, et al. Efficacy in improving VO₂max. *J Ayurveda Integr Med*. 2022;13(1):67-73.
 6. Raut AA, et al. Thyroid hormone modulation in rats. *J Altern Complement Med*. 2012;18(3):276-279.
 7. Dar NJ, et al. Pharmacologic overview of *Withania somnifera*. *Phytother Res*. 2015;29(12):1792-1799.
+
+## See Also
+
+- [[ashwagandha]]
+- [[adaptogenic-herbs-guide]]
+- [[medicinal-plant-preparations-tinctures-salves-teas]]

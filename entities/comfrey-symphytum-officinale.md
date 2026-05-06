@@ -1,5 +1,6 @@
 ---
 title: Comfrey (Symphytum officinale)
+created: 2026-05-06
 type: species
 tags:
   - permaculture
@@ -145,3 +146,9 @@ Topical application on intact skin carries minimal systemic absorption risk, but
 3. Rode, D. "Comfrey: A Review of Its Biological Activity and Potential Health Risks." *Journal of Toxicology*, 2002.
 4. Culvenor, C.C.J. "Pyrrolizidine Alkaloids in Comfrey." *Natural Toxins*, 1983.
 5. PFAF. *Symphytum officinale — Plants for a Future Database.* https://pfaf.org
+
+## See Also
+
+- [[comfrey]]
+- [[comfrey-as-dynamic-accumulator]]
+- [[dynamic-accumulator-chop-and-drop-mulching]]

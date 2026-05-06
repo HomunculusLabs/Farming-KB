@@ -1,6 +1,8 @@
 ---
 title: Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas
+created: 2026-05-06
 tags: mycology, psilocybe, cubensis, coprophilous, biogeography, cattle, dung, introduction, guzman-1998, ecology
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources: "Guzmán, Allen & Gartz (1998)"

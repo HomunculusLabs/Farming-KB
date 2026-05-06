@@ -1,5 +1,6 @@
 ---
 title: Psilocybin
+created: 2026-05-06
 type: chemical
 tags:
   - psychedelic
@@ -150,3 +151,11 @@ The UN Convention on Psychotropic Substances (1971) lists psilocybin in Schedule
 5. Johnson, M.W., et al. (2014). "Psilocybin: fMRI-Measured Brain Mechanisms." *Cerebral Cortex*, 24(8), 1833–1840.
 6. Fricke, J., et al. (2019). "Phase 1 Study of Psilocybin." *European Neuropsychopharmacology*, 29(7), 823–834.
 7. COMPASS Pathways (2022). "Efficacy and Safety in Treatment-Resistant Depression." *NEJM*, 387(18), 1637–1647.
+
+## See Also
+
+- [[psilocybin-mushroom-cultivation-compost-basics]]
+- [[bad-trip]]
+
+- [[psilocybe-cubensis]]
+- [[psilocybe-semilanceata]]

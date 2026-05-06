@@ -1,6 +1,8 @@
 ---
 title: "How to Grow Guava in Different Climates"
+created: 2026-05-06
 tags:
+type: query
   - guava
   - tropical-fruit
   - climate-zones

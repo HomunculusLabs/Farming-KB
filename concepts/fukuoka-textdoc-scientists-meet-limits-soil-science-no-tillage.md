@@ -1,5 +1,6 @@
 ---
 title: "When Scientists Meet Their Limits: Soil Science Confronts No-Tillage Farming"
+created: 2026-05-06
 tags: [natural-farming, no-tillage, soil-science, scientific-limits, epistemology, agricultural-research, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28

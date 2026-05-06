@@ -1,5 +1,6 @@
 ---
 title: Strophariaceae Family in Ethnomycology
+created: 2026-05-06
 tags:
   - mycology
   - ethnomycology

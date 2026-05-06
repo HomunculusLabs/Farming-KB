@@ -1,5 +1,6 @@
 ---
 title: Psilocybin Chemistry and Pharmacology
+created: 2026-05-06
 tags:
   - mycology
   - psilocybin

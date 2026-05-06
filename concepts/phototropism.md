@@ -1,5 +1,6 @@
 ---
 title: Phototropism
+created: 2026-05-06
 tags: [botany, plant-physiology, photobiology, tropism, phytochrome]
 date: 2026-04-28
 updated: 2026-04-28

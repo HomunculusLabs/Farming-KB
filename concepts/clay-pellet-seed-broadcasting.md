@@ -1,6 +1,8 @@
 ---
 title: Clay Pellet Seed Broadcasting for Desert Revegetation
+created: 2026-05-06
 tags:
+type: concept
   - farming
   - revegetation
   - desertification

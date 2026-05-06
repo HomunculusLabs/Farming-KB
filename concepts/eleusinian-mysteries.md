@@ -1,6 +1,8 @@
 ---
 title: Eleusinian Mysteries
+created: 2026-05-06
 tags: [ancient-greece, mystery-cults, psychedelics, religion, eleusis, demeter, kykeon, ergot, terence-mckenna]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

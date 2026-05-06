@@ -71,7 +71,7 @@ Many experts claim that Lungau is not suitable for growing cereal crops and that
 ## See Also
 - [[holzer-roundwood-shelters-earth-cellars]]
 
-Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[holzer-water-landscapes-pond-building]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]].
+Related topics in this wiki include: [[sepp-holzer-method]], [[sepp-holzer-livestock-integration]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-permaculture-landscape-design]], [[holzer-raised-bed-design-principles]], [[holzer-water-landscapes-pond-building]], [[holzer-microclimates-permaculture]], [[holzer-fruit-trees-no-pruning]], [[holzer-assessing-the-land]], [[holzer-green-manure-crops]], [[holzer-terrace-construction-guide]], [[holzer-past-mistakes-modern-agriculture]], [[holzer-thailand-permaculture-project]], [[sepp-holzer-earth-cellars-and-philosophy]], [[hugelkultur-bed-construction-detailed]], [[water-catchment-permaculture]], [[acid-and-alkaline-soil-management]].
 
 Sepp Holzer began farming on his family's steep mountain land in Austria as a teenager, learning through experimentation.
 The Krameterhof demonstrates that high-altitude farms can be more productive than conventional lowland operations.

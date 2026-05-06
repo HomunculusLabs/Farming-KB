@@ -127,9 +127,9 @@ Pest resistance is moderate, with standard preventive measures recommended.
 
 - [[mac-1]]
 - [[kush-mints]]
-- [[cookies-lineage]]
-- [[og-lineage]]
+- [[girl-scout-cookies]]
+- [[og-kush]]
 - [[gelato]]
 - [[runtz]]
-- [[animal-cookies]]
+- animal cookies
 - [[wedding-cake]]

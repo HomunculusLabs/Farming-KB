@@ -1,6 +1,8 @@
 ---
 title: Hallucinogenic Mushroom Smoking and Alternative Administration Routes
+created: 2026-05-06
 tags:
+type: concept
   - psilocybin
   - administration
   - smoking

@@ -1,5 +1,6 @@
 ---
 title: Elaphomyces and Cordyceps Ceremonial Complex in Oaxaca
+created: 2026-05-06
 tags:
   - ethnomycology
   - cordyceps

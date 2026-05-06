@@ -1,5 +1,6 @@
 ---
 title: Psilocybe cubensis Cattle Association and Probable African Origin
+created: 2026-05-06
 tags:
   - psilocybe
   - biogeography

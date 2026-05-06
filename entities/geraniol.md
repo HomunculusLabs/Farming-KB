@@ -1,5 +1,6 @@
 ---
 title: "Geraniol"
+created: 2026-05-06
 type: chemical
 tags:
   - monoterpene

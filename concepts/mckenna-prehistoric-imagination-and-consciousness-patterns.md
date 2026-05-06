@@ -1,5 +1,6 @@
 ---
 title: Prehistoric Imagination and Consciousness Patterns
+created: 2026-05-06
 tags: [consciousness, evolution, imagination, language, huxley, reducing-valve, stoned-ape]
 date: 2026-04-28
 updated: 2026-04-28

@@ -1,6 +1,8 @@
 ---
 title: Energy Efficiency in Natural Farming
+created: 2026-05-06
 tags:
+type: concept
   - farming
   - energy-efficiency
   - natural-farming

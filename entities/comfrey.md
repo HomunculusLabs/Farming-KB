@@ -1,5 +1,6 @@
 ---
 title: "Symphytum officinale"
+created: 2026-05-06
 type: species
 tags: [herbal-plant, permaculture, dynamic-accumulator, medicinal-plant, boraginaceae, compost-crop]
 date: 2026-04-28

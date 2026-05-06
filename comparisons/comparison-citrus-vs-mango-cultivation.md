@@ -1,5 +1,6 @@
 ---
 title: Citrus vs Mango Cultivation
+created: 2026-05-06
 tags:
   - citrus
   - mango

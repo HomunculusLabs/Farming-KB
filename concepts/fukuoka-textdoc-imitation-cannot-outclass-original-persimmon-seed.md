@@ -1,5 +1,6 @@
 ---
 title: "Imitation Cannot Outclass the Original: The Persimmon Seed Argument"
+created: 2026-05-06
 tags: [natural-farming, philosophy, scientific-farming, technology-limits, nature-superiority, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28

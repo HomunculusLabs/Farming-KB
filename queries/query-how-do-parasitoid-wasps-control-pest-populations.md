@@ -1,5 +1,6 @@
 ---
 title: How Do Parasitoid Wasps Control Pest Populations?
+created: 2026-05-06
 tags: [query, parasitoid-wasps, biological-control, pest-management, entomology, agriculture]
 date: 2026-04-28
 updated: 2026-04-28

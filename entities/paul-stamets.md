@@ -1,5 +1,6 @@
 ---
 title: "Paul Stamets"
+created: 2026-05-06
 type: person
 tags:
   - mycologist

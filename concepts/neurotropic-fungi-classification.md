@@ -1,5 +1,6 @@
 ---
 title: Neurotropic Fungi Classification
+created: 2026-05-06
 tags:
   - mycology
   - neurotropic-fungi

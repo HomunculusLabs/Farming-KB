@@ -1,6 +1,8 @@
 ---
 title: Biodynamic Farming vs Organic Farming
+created: 2026-05-06
 tags:
+type: comparison
   - biodynamic
   - organic
   - agriculture

@@ -148,4 +148,4 @@ anthropogenic substrates including woodchip mulch and compost heaps.
 - [[amanita-phalloides]]
 - [[inocybe-geophylla]]
 - [[clitopilus-prunulus]]
-- [[entoloma-sinuatun]]
+- entoloma sinuatun

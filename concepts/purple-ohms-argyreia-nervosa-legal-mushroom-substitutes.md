@@ -1,6 +1,8 @@
 ---
 title: Purple Ohms and Argyreia Nervosa Legal Mushroom Substitutes
+created: 2026-05-06
 tags:
+type: concept
   - legal-highs
   - argyreia-nervosa
   - hawaiian-baby-woodrose

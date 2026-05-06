@@ -1,5 +1,6 @@
 ---
 title: "Microwave Sterilisation of Contaminated Surfaces Using Trace Water Enhancement"
+created: 2026-05-06
 tags: [sterilisation, microwave, 2.45-ghz, surface-decontamination, bacterial-kill, spore-resistance, steam-flash, nasa, atwater]
 date: 2026-04-28
 updated: 2026-04-28

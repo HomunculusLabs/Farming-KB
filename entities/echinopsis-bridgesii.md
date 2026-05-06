@@ -1,5 +1,6 @@
 ---
 title: Echinopsis bridgesii (Bolivian Torch)
+created: 2026-05-06
 type: species
 tags:
   - cactus

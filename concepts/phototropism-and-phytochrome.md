@@ -1,5 +1,6 @@
 ---
 title: Phototropism and Phytochrome in Plants
+created: 2026-05-06
 tags:
   - botany
   - plant-senses

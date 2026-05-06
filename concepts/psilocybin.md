@@ -1,5 +1,6 @@
 ---
 title: Psilocybin
+created: 2026-05-06
 tags:
   - pharmacology
   - tryptamine
@@ -110,6 +111,8 @@ Onset of effects occurs between 10 and 60 minutes depending on the modality of i
 The only multi-year trend data available on hallucinogenic mushroom use were derived from six consecutive annual readership surveys conducted by a UK clubbing magazine (Mixmag, 2000 to 2005). These data showed that lifetime prevalence estimates increased between 2003 and 2004, while last-month prevalence increased significantly from 2.4% in 2002 to 18% in 2004. However, caution is required in interpreting these data, as different characteristics of the non-probability samples and changes in survey methodology may account for some of the sudden increase.
 
 ## Related
+
+- [[psilocybin-mushroom-cultivation-compost-basics]]
 
 - [[psilocybin-biosynthesis-pathway]] Concepts
 

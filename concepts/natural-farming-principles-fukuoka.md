@@ -1,5 +1,6 @@
 ---
 title: Natural Farming Principles of Masanobu Fukuoka
+created: 2026-05-06
 tags:
   - farming
   - agriculture

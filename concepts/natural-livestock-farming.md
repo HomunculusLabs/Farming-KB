@@ -1,6 +1,8 @@
 ---
 title: Natural Livestock Farming
+created: 2026-05-06
 tags:
+type: concept
   - farming
   - livestock
   - natural-farming

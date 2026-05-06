@@ -1,5 +1,6 @@
 ---
 title: Stropharia Cubensis as the Ur Plant
+created: 2026-05-06
 tags:
   - mycology
   - stropharia-cubensis

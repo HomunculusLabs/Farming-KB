@@ -1,5 +1,6 @@
 ---
 title: "Wild Dagga (Leonotis leonurus)"
+created: 2026-05-06
 type: species
 tags:
   - herbal-plant

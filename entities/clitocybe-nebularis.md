@@ -133,8 +133,8 @@ nutrients released by autumn leaf and needle fall.
 
 ## See Also
 
-- [[tricholomataceae]]
-- [[nebularin]]
+- tricholomataceae
+- nebularin
 - [[trametes-versicolor]]
 - [[lentinula-edodes]]
 - [[boletus-edulis]]

@@ -1,5 +1,6 @@
 ---
 title: "Garlic vs Onion Growing"
+created: 2026-05-06
 tags: [comparison, alliums, garlic, onions, vegetable-cultivation]
 date: 2026-04-28
 updated: 2026-04-28

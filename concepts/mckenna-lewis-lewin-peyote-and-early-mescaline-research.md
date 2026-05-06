@@ -1,5 +1,6 @@
 ---
 title: Lewis Lewin, Peyote, and the Birth of Psychopharmacology
+created: 2026-05-06
 tags: [psychopharmacology, mescaline, peyote, lewis-lewin, havelock-ellis, beringer, history]
 date: 2026-04-28
 updated: 2026-04-28

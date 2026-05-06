@@ -1,6 +1,8 @@
 ---
 title: Polyethylene Sheeting Fruiting Bins for Small-Scale Mushroom Cultivation
+created: 2026-05-06
 tags: [mycology, fruiting, humidity, polyethylene, plastic-bin, mushroom-cultivation, environmental-control, air-exchange]
+type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:

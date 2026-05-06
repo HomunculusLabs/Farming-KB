@@ -146,3 +146,8 @@ multiple independent loci.
 - [[basidiomycota-classification-major-clades]]
 - [[chytrid-phylogeny-zoospore-diversity-basal-fungi]]
 - [[zygomycota-phylogeny-classification-non-monophyletic]]
+- [[ascomycete-phylum-guide]]
+- [[symbiosis-in-fungi]]
+- [[lichenized-fungi-diversity]]
+- [[bloomfield-aspergillus-biology-and-aflatoxins]]
+- [[white-rot-fungi]]
