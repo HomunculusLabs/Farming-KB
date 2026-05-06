@@ -119,3 +119,11 @@ Cannabis can facilitate each of these steps, particularly the identification and
 ## Summary
 
 Beliefs are not passive ideas but active forces with measurable physiological consequences. Chronic fear-based beliefs contribute to conditions ranging from cardiovascular disease to [[cannabis-health-ptsd]], while healing-oriented beliefs can activate the body's self-regenerating capacities. Cannabis, by reducing psychological defenses and increasing access to suppressed emotional material, may serve as a valuable adjunct to established belief-reprogramming practices such as NLP, clinical hypnosis, and mindfulness meditation.
+
+## See Also
+
+- [[blesching-cannabis-autism]]
+- [[blesching-cannabis-childbirth-pain]]
+- [[blesching-cannabis-four-prime-cannabinoids]]
+- [[blesching-cannabis-cancer-night-sweats]]
+- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]

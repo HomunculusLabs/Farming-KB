@@ -142,7 +142,7 @@ regulations should be checked before introducing azolla to new water bodies.
 
 ## See Also
 
-- [[nitrogen-fixation]] · [[glycine-max-soybean-permaculture]]
+- [[biological-nitrogen-fixation-agriculture]] · [[glycine-max-soybean-permaculture]]
 - [[trifolium-pratense]] · [[lupinus-albus]]
 - [[chinampas]] · [[dynamic-accumulators]]
-- [[spirulina]] · [[biochar]]
+- spirulina · [[biochar]]

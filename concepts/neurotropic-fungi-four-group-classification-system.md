@@ -127,3 +127,11 @@ Beyond the four main groups, several other fungi have been reported with neurotr
 - **Dictyophora indusiata** — Used for divination among Chinantec Indians in Oaxaca; available in three forms, all considered "narcotic"
 
 The confusion around some of these species often stems from shared indigenous names with confirmed neurotropic species. The Mazatec name "nise" (little bird) is used for both Psilocybe mexicana and the unrelated Schizophyllum commune, despite their entirely different properties.
+
+## See Also
+
+- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+- [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
+- [[neurotropic-fungi-classification]]
+- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
+- [[neurotropic-fungi-in-africa]]

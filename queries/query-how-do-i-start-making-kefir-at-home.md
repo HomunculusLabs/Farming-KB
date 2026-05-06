@@ -140,3 +140,11 @@ Freezing is possible but risky — many grains don't survive. Refrigeration in m
 ---
 
 *Last reviewed: 2026-04-28. Consult a healthcare provider before making dietary changes.*
+
+## See Also
+
+- [[query-how-do-i-start-making-fermented-dairy-at-home]]
+- [[query-how-to-start-growing-mushrooms-at-home]]
+- [[query-how-do-i-start-farming-spirulina-at-home]]
+- [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
+- [[query-how-to-start-a-food-forest]]

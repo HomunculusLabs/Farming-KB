@@ -143,3 +143,7 @@ In Nordic and Scandinavian cuisine, reindeer lichen is occasionally used:
 
 ## Biomonitoring
 
+## See Also
+
+- [[cladonia-stellaris]]
+- [[cladonia-alpestris]]

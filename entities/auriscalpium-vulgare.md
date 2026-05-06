@@ -119,6 +119,9 @@ it near the Polyporales and the Thelephorales.
 
 ## See Also
 
+- [[foeniculum-vulgare-entity]]
+- [[origanum-vulgare-entity]]
+
 [[Hydnellum peckii]] · [[Hericium erinaceus]] · [[Fistulina hepatica]] ·
 [[Sarcodon imbricatus]] · [[Hydnum repandum]] · [[Lentinula edodes]] ·
 [[Pisolithus]] · [[Thelephora terrestris]] · [[Tricholoma matsutake]]

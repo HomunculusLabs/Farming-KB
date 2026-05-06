@@ -125,6 +125,8 @@ Structurally related compounds such as [[4-ho-mipt]], [[4-ho-met]], and [[alpha-
 
 ## See Also
 
+- [[3-meo-pce]]
+
 - [[5-meo-dmt]] — Potent 5-methoxy tryptamine, non-oral, short duration
 - [[5-meo-mipt]] — Closest structural analogue, more visual than auditory
 - [[dimethyltryptamine]] — Endogenous tryptamine, basis for comparison

@@ -112,6 +112,12 @@ listed in Schedule I. All EU member states control these substances. See [[hallu
 
 ## See Also
 
+- [[powell-mayan-civilisation-and-psilocybin-mushroom-use]]
+- [[psilocybin-mushroom-chemistry]]
+- [[psilocybin-mushroom-substrate-ecology]]
+- [[psilocybin-mushroom-potency-and-dosage-guide]]
+- [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
+
 - [[hallucinogenic mushrooms]]
 - [[Psilocybe cubensis]]
 - [[Psilocybe semilanceata]]

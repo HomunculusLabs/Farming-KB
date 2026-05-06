@@ -139,6 +139,8 @@ Growing herbs indoors extends the harvest year-round, especially for tender pere
 - Reduce watering compared to outdoor conditions
 - Rosemary is notoriously difficult indoors — mist regularly, provide excellent drainage
 ## See Also
+
+- [[satureja-hortensis]]
 - [[lettuce-and-leafy-greens]] for companion greens
 - [[urban-farming-methods]] for container and indoor growing techniques
 - [[seasonal-gardening-calendar]] for planting and harvesting timing

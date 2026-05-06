@@ -126,3 +126,11 @@ The genetic stability and desirability of OG Kush have given rise to numerous di
 The interaction between OG Kush's dominant terpenes and its cannabinoid profile illustrates the entourage effect — the theory that cannabis compounds produce synergistic therapeutic outcomes when consumed together rather than in isolation. Myrcene's sedative properties amplify THC's psychoactive effects while potentially reducing anxiety, limonene enhances mood elevation and provides anti-anxiety benefits, and caryophyllene contributes analgesic effects via CB2 receptor activation without adding to psychoactive intensity. This specific terpene-cannabinoid combination is thought to underlie OG Kush's characteristic experience: a euphoric, cerebral onset that smoothly transitions into deep physical relaxation.
 
 OG Kush is frequently cited as one of the most important cannabis strains ever developed, alongside foundational varieties like Skunk #1, Northern Lights, and Haze.
+
+## See Also
+
+- [[og-kush-cannabis-entity]]
+- [[blackberry-kush]]
+- [[hindu-kush-cannabis-entity]]
+- [[afghan-kush]]
+- [[purple-kush]]

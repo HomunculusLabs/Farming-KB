@@ -109,7 +109,9 @@ In cultivation, C. capitata is relatively easy from seed, though the cold strati
 
 For growers in suitable climates, C. capitata rewards patience with minimal maintenance demands once established. Its multi-functional role as ornamental, wildlife support, soil builder, and edible fruit producer exemplifies the permaculture principle of stacking functions in a single element, making it a strong candidate for food forest mid-layers and mixed hedgerows alike.
 
-## Related Topics
+## Related
+
+- [[cornus-mas]] Topics
 
 - [[permaculture-food-forest-design-principles]]
 - [[permaculture-tree-crop-systems]]

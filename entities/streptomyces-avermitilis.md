@@ -145,4 +145,6 @@ caused by roundworm parasites." Shared one-half; other half to Tu Youyou.
 
 ## See Also
 
+- [[streptomyces-griseus]]
+
 - [[streptomyces]]

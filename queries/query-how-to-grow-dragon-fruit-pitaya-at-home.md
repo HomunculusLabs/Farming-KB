@@ -157,3 +157,11 @@ Yes, with caveats. Dragon fruit needs strong light to flower and fruit.
 3. Set up a trellis and place in full sun (6–8 hours). Transition gradually.
 4. Water every 7–10 days in summer, every 3–4 weeks in winter. Fertilize every 6–8 weeks with 8-8-8, switch to 2-10-10 in late spring.
 5. Upgrade to a 15–25 gallon pot after year one. Hand-pollinate if indoors. Harvest when fully colored and slightly soft.
+
+## See Also
+
+- [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
+- [[query-how-to-grow-medicinal-herbs-at-home]]
+- [[query-how-to-grow-ashwagandha-at-home]]
+- [[query-how-to-grow-sprouts-and-microgreens-at-home]]
+- [[query-how-do-i-grow-passion-fruit-in-a-cold-climate]]

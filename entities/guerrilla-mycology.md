@@ -146,6 +146,12 @@ Guerrilla mycology raises important questions:
 
 ## See Also
 
+- [[amanita-caesarea-mycology]]
+- [[contamination-prevention-mycology]]
+- [[victorian-mycology-and-fairy-rings]]
+- [[bloomfield-buller-experimental-mycology]]
+- [[history-of-mycology-timeline]]
+
 - [[Mycorrhizal Networks]] — fungal-plant symbiosis in ecosystems
 - [[Mycoremediation]] — comprehensive overview of fungal bioremediation
 - [[Pleurotus Ostreatus]] — oyster mushroom biology and cultivation

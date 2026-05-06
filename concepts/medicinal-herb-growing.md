@@ -89,7 +89,10 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 - Salves: combine infused oil with beeswax (1:4 to 1:5 beeswax to oil ratio).
 - Honey: herbs infused in raw honey. Excellent for cough syrups and soothing preparations.
 
-## Related Concepts
+## Related
+
+- [[lycium-barbarum]]
+- [[rosa-canina]] Concepts
 
 - [[greenhouse-growing-guide]] -- many medicinal herbs can be grown year-round in a greenhouse
 - [[wild-foraging-guide]] -- some medicinal herbs can also be wildcrafted

@@ -148,3 +148,10 @@ Ashwagandha's most well-documented effect is its ability to modulate the **hypot
 3. Wankhede, S., et al. (2015). "Examining the effect of Withania somnifera supplementation on muscle strength and recovery." *Journal of the International Society of Sports Nutrition*, 12, 43.
 4. Dar, N.J., et al. (2015). "Pharmacological review of Withania somnifera." *Phytomedicine*, 22(12), 1099–1111.
 5. Chandrasekhar, K., et al. (2012). "A prospective, randomized double-blind, placebo-controlled study of safety and efficacy of Ashwagandha root extract." *Indian Journal of Psychological Medicine*, 34(3), 255–262.
+
+## See Also
+
+- [[comparison-ashwagandha-vs-tulsi]]
+- [[ashwagandha-withania-somnifera]]
+- [[query-how-to-grow-ashwagandha-at-home]]
+- [[ashwagandha-growing-guide]]

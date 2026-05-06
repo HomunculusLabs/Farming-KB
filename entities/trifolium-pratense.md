@@ -125,6 +125,6 @@ white clover.
 ## See Also
 
 - [[trifolium-repens]] · [[lupinus-albus]] · [[lespedeza-bicolor]]
-- [[medicago-sativa]] · [[glycine-max-soybean-permaculture]]
+- [[alfalfa-medicago-sativa]] · [[glycine-max-soybean-permaculture]]
 - [[dynamic-accumulators]] · [[companion-planting-guild]]
 - [[food-forest-permaculture]] · [[three-sisters]]

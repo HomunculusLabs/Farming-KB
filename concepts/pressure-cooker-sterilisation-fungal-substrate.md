@@ -118,3 +118,7 @@ Regardless of the specific model chosen, proper maintenance — regular gasket i
 ## Integration with Workflow
 
 Sterilisation sits between substrate preparation and [[inoculation-methods]] in the cultivation workflow. Jars should ideally be inoculated within 24 hours of sterilisation. The longer the interval, the greater the contamination risk through microscopic foil gaps. Planning inoculation immediately after cooling minimises this risk. A well-organised cultivator times the sterilisation cycle to complete in the evening, allowing overnight cooling with inoculation first thing the next morning.
+
+## See Also
+
+- [[fungal-carbon-substrate-utilization-efficiency]]

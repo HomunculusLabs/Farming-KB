@@ -146,3 +146,11 @@ Avoid chemical pesticides — stick to **organic, gentle treatments**.
 | Aphid clusters on new growth | Aphid infestation | Spray with neem oil or rinse with water |
 
 For more detailed cultivation guidance, see [[carnivorous plants biology and cultivation]] and [[bog gardens]]. For water sourcing tips, visit [[rainwater harvesting]].
+
+## See Also
+
+- [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
+- [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]
+- [[query-how-to-grow-potatoes-organically]]
+- [[query-how-to-read-cannabis-plants-for-nutrient-problems]]
+- [[query-how-do-i-manage-ph-in-my-cannabis-grow]]

@@ -118,6 +118,12 @@ first-ever seizure in 2006, from a Dutch retailer.
 
 ## See Also
 
+- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
+- [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]]
+- [[hallucinogenic-mushroom-user-terminology-and-brand-names]]
+- [[emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology]]
+- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
+
 - [[hallucinogenic mushrooms]]
 - [[psilocybin]]
 - [[Psilocybe cubensis]]

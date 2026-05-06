@@ -105,7 +105,7 @@ Avoid consuming mature, flowering nettle as it may irritate the urinary tract.
 
 - Nettle is one of the highest non-leguminous [[dynamic-accumulators]],
   concentrating nitrogen, iron, calcium, and potassium in its leaves.
-- Young spring shoots are among the most nutritious [[medicinal-herb-growing-guide]]
+- Young spring shoots are among the most nutritious [[herb-growing-guide]]
   greens available, with 25 to 30 percent protein when dried.
 - Fermented [[comfrey-as-dynamic-accumulator|nettle tea]] provides a
   nitrogen-rich liquid fertilizer comparable to commercial organic feeds.
@@ -117,7 +117,7 @@ Avoid consuming mature, flowering nettle as it may irritate the urinary tract.
   cooking, making nettle safe to handle and eat once processed.
 - Nettle can be combined with [[chop-and-drop-mulching]] systems to cycle
   nutrients from deep subsoil layers back to the surface.
-- [[herbal-medicine-making]] with nettle includes teas, tinctures, and
+- [[herbal-medicine-making-basics]] with nettle includes teas, tinctures, and
   infused oils for topical anti-inflammatory applications.
 
 ## Related Questions

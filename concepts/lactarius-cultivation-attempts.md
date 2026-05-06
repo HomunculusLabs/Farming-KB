@@ -90,6 +90,8 @@ The most promising avenue may be integration of Lactarius cultivation with other
 
 ## See Also
 
+- [[lactarius-camphoratus]]
+
 - [[lactarius-rufus]]
 
 - [[edible-wild-mushroom-guide]]

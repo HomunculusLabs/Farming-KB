@@ -123,6 +123,8 @@ system. Adding vertical growing elements from SFG to deep bed systems saves
 space for both approaches.
 
 ## See Also
+
+- [[comparison-loquat-vs-persimmon-cultivation]]
 - [[raised-bed-gardening]] — bed construction fundamentals shared by both methods
 - [[biointensive-gardening-overview]] — another intensive growing approach
 - [[sheet-mulching-guide]] — no-dig alternative for bed preparation

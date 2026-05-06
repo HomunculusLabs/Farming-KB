@@ -123,6 +123,12 @@ Cookie-family terpene profiles (sweet, earthy, bakery-like with gas undertones) 
 
 ## See Also
 
+- [[query-best-light-schedule-for-cannabis]]
+- [[cannabis-cloning-rooting-cuttings-method-clarke]]
+- [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]
+- [[cannabis-hashish-guide]]
+- [[cannabis-menopause-research]]
+
 - [[OG Kush]] — legendary parent strain
 - [[Durban Poison]] — pure sativa landrace parent
 - [[Gelato]] — popular GSC descendant

@@ -21,7 +21,7 @@ combine both for maximum soil-building benefit.
 
 ## Stinging Nettle
 
-[[stinging-nettle-cultivation-foraging-nutrition-and-uses]]
+[[query-how-to-grow-and-use-stinging-nettle]]
 
 Nettle is a herbaceous perennial that spreads aggressively through rhizomes,
 forming dense stands in moist, nitrogen-rich soils. It typically grows 1 to 2
@@ -118,7 +118,7 @@ growth stages.
 
 ## See Also
 
-- [[nutrient-and-dynamic-accumulators]]
+- [[dynamic-accumulators-overview]]
 - [[chop-and-drop-mulching]]
 - [[comparison-comfrey-vs-yarrow]]
 - [[comparison-comfrey-vs-dandelion]]

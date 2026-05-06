@@ -148,3 +148,11 @@ users.
 - Dry mouth and dry eyes
 - Mild tachycardia
 - Potential for depersonalization in susceptible individuals
+
+## See Also
+
+- [[permplant-black-locust-nitrogen-fixing-timber]]
+- [[black-soldier-fly-larvae-as-feed]]
+- [[fukuoka-black-wattle-fertilizer-tree-method]]
+- [[sooty-molds-black-mildews-tropical-foliar-fungi]]
+- [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]]

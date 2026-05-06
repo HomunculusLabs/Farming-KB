@@ -150,4 +150,6 @@ marginal land.
 
 ## See Also
 
+- [[hippophae-rhamnoides]]
+
 - [[query-how-do-i-grow-sea-buckthorn]]

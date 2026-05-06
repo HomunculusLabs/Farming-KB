@@ -108,4 +108,6 @@ King Stropharia occupies a unique ecological niche as a bacterially-dependent de
 
 ## See Also
 
+- [[stropharia-rugosoannulata-permaculture]]
+
 - [[stropharia-venenata-japanese-bluing-species]]

@@ -148,3 +148,6 @@ Nutrient requirements are moderate to heavy during weeks 4–8 of flowering,
 with a preference for phosphorus and potassium supplementation in the
 final weeks to support trichome production.
 
+## See Also
+
+- [[turkestan-mint-lagochilus-inebrians]]

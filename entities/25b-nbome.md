@@ -152,4 +152,6 @@ lower potency.
 
 ## See Also
 
+- [[25i-nbome]]
+
 - [[serotonin]]

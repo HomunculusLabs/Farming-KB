@@ -145,6 +145,6 @@ immediate confirmation if the identity is already strongly suspected.
 - [[leccinum-scabrum]]
 - [[suillus-luteus]]
 - [[gyroporus-cyanescens]]
-- [[xerocomellus-chrysenteron]]
+- xerocomellus chrysenteron
 - [[rubroboletus-satanas]]
 - [[chalciporus-piperatus]]

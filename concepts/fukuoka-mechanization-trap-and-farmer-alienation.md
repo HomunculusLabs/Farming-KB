@@ -140,6 +140,12 @@ natural patterns that once sustained both the land and the people who worked it.
 
 ## See Also
 
+- [[fukuoka-energy-productivity-and-the-mechanization-trap]]
+- [[fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food]]
+- [[fukuoka-natural-farming-weed-and-insect-philosophy]]
+- [[fukuoka-weed-management-and-green-manure]]
+- [[fukuoka-textdoc-critique-mechanization-agriculture]]
+
 - [Energy Efficiency and the Mechanization 
 Trap](fukuoka-energy-productivity-and-the-mechanization-trap.md)
 - [Fukuoka One Straw Revolution](fukuoka-one-straw-revolution.md)

@@ -145,6 +145,11 @@ it. The seeds are too small to be significant food for birds.
 
 ## See Also
 
+- [[ergot-fungi-and-ergotism-claviceps-purpurea]]
+- [[claviceps-purpurea]]
+- [[echinacea-purpurea]]
+- [[bloomfield-ergot-claviceps-purpurea-ergotism]]
+
 - [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
 
 - strophanthus kombe · convallaria majalis · nerium oleander

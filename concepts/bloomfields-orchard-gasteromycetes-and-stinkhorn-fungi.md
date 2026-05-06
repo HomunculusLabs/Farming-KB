@@ -171,4 +171,10 @@ wheeled, the dew of heaven was beading on a mushroom.
 
 ## See Also
 
+- [[mr-bloomfields-stinkhorn-fungi-and-insect-spore-dispersal]]
+- [[bloomfields-orchard-mushroom-hunting-and-identification]]
+- [[bloomfields-orchard-fungal-biology-and-ecology]]
+- [[stinkhorn-fungi-gasteromycetes]]
+- [[bloomfields-orchard-notable-mycologists-buller-and-lloyd]]
+
 - [[mushroom-hunting-and-identification]]

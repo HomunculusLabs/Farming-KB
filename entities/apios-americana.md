@@ -122,6 +122,8 @@ in the 19th century, noting its superior keeping quality and protein content.
 
 ## See Also
 
+- [[persea-americana-entity]]
+
 [[Pachyrhizus erosus]] · [[Dioscorea alata]] · [[Trifolium repens]] ·
 [[Arachis pintoi]] · [[Mucuna pruriens]] · [[Apios]] · [[Fabaceae]] ·
 [[Vicia villosa]] · [[Comfrey]] · [[Tagasaste]] · [[Eleagnus angustifolia]]

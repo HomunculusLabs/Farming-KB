@@ -148,3 +148,6 @@ Indoor flowering time is 9–10 weeks, with yields of approximately
 The plants can grow tall and benefit from topping, low-stress training,
 or SCROG methods to control height and maximize light exposure.
 
+## See Also
+
+- [[tangie-cannabis]]

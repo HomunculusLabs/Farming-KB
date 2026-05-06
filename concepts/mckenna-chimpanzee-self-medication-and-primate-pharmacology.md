@@ -139,3 +139,11 @@ Evolution](indole-hallucinogens-and-human-evolution.md)
 Africa](psilocybin-mushrooms-in-prehistoric-africa.md)
 - [Stoned Ape Hypothesis](stoned-ape-hypothesis.md)
 - [Zoopharmacognosy](zoopharmacognosy.md)
+
+## See Also
+
+- [[mckenna-food-gods-chimpanzee-aspilia-self-med]]
+- [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
+- [[mckenna-legalization-debate-and-archaic-revival]]
+- [[mckenna-vegetable-mind-and-gaian-holism]]
+- [[mckenna-drugs-governments-and-intelligence-agencies]]

@@ -148,3 +148,7 @@ The consequences of misidentification are fatal.
 - **Mycorrhizal partner:** Essential for oak and chestnut woodland health,
   facilitating nutrient exchange and root system connectivity
 - **Food forest integration:** Can be encouraged in established Mediterranean
+
+## See Also
+
+- [[amanita-caesarea]]

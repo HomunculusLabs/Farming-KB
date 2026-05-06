@@ -120,6 +120,12 @@ Dried sclerotia should be stored in an airtight container with a desiccant packe
 
 ## See Also
 
+- [[psilocybe-hochetschii]]
+- [[psilocybe-dumetorum]]
+- [[grass-seed-cultivation-of-psilocybe-mushrooms]]
+- [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
+- [[psilocybe-fuscoflocculosa]]
+
 - [[Psilocybe mexicana]] — type species of the sclerotia-producing complex
 - [[Psilocybe tampanensis]] — "philosopher's stones," another sclerotia producer
 - [[Psilocybe galindoi]] — closely related Mexican species

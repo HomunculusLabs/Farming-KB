@@ -122,3 +122,11 @@ Metzner discussed the three principal terms used for these substances:
 - **"Entheogenic"** — Proposed by R. Gordon Wasson and Jonathan Ott; has the same root as "enthusiasm"; means "releasing or expressing the divine within"
 
 These terms are used interchangeably in the literature, though each carries different connotations about the nature of the experience and the appropriate context for use.
+
+## See Also
+
+- [[metzner-psycholytic-psychedelic-therapy-models]]
+- [[psychedelic-therapy-models-comparison]]
+- [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
+- [[psycholytic-and-psychedelic-therapy-models]]
+- [[metzner-psychedelic-psychotherapy-clinical-history]]

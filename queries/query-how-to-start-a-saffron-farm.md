@@ -136,3 +136,11 @@ Saffron farming is a high-value, low-volume specialty crop best suited to small-
 ---
 
 *Last reviewed: 2026-04-28 | This is a query-style research document, not professional agricultural advice. Consult local extension services before making investment decisions.*
+
+## See Also
+
+- [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
+- [[query-how-to-start-a-syntropic-farm]]
+- [[query-how-to-start-a-worm-farm-for-profit]]
+- [[query-how-to-start-a-food-forest]]
+- [[query-how-to-start-growing-mushrooms-at-home]]

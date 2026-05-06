@@ -151,4 +151,10 @@ The realization that the most comprehensive and scientifically sophisticated pes
 
 ## See Also
 
+- [[fukuoka-kochi-rice-borer-eradication-debacle]]
+- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
+- [[fukuoka-textdoc-perennial-rice-biennial-cultivation-exploration]]
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+- [[fukuoka-textdoc-happy-hill-rice-strain-world-food]]
+
 - [[natural-farming]]

@@ -145,6 +145,12 @@ Doses vary enormously by mushroom potency and preparation. Always start low.
 
 ## See Also
 
+- [[2c-c-compound-profile]]
+- [[2c-t-2-compound-profile]]
+- [[mdma-compound-profile]]
+- [[medicinal-mushroom-compound-extraction]]
+- [[psilocybin-compound]]
+
 - [[Amanita muscaria]] — primary natural source
 - [[Ibotenic acid]] — excitatory precursor compound
 - [[Psilocybin]] — serotonergic psychedelic for mechanism comparison

@@ -87,4 +87,7 @@ Cecil Terence Ingold was a British mycologist who spent most of his career at Bi
 
 ## See Also
 
+- [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
+- [[aquatic-hyphomycetes-and-ingoldian-spores]]
+
 - [[decomposition]]

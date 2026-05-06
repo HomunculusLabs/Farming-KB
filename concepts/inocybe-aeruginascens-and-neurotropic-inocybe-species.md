@@ -85,7 +85,6 @@ through the work of German mycologists and chemists.
   - Switzerland: Stijve and Kuyper (1985), Gartz (1995b, 1996).
   - Denmark: Kuyper (1986).
   - Bulgaria: Kuyper (1986).
-
 - **North American distribution**: Reported from the United States
   (Stamets, 1996), suggesting transcontinental distribution.
 
@@ -97,9 +96,7 @@ associated with its chemical properties.
 - **Distribution**: Reported from Germany (Stijve et al., 1985; Stijve
   and Kuyper, 1985; Kuyper, 1986), Austria (Stijve and Kuyper, 1985;
   Kuyper, 1986), Czech Republic (Kuyper, 1986), Netherlands (Kuyper,
-
 (Section truncated for length.)
-
   America, it occurs in the United States (Stamets, 1996) and Mexico
   (Bandala et al., 1988).
 - **I. corydalina var. erinaceomorpha**: This variety, named for its

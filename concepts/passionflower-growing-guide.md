@@ -137,6 +137,8 @@ store dried herb in airtight containers for up to 2 years.
 An established vine produces 2-4 lbs fresh herb per year (approximately
 0.5-1 lb dried), plus edible fruit if flowers are not all harvested.
 ## See Also
+
+- [[passionflower-passiflora]]
 - [[valerian-growing-guide]] -- the classic combination with passionflower
   for sleep and relaxation formulas
 - [[yarrow-plant-guide]] -- pair with passionflower in nervine tea blends

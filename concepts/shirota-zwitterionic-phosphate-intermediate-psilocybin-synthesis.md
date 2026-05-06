@@ -160,4 +160,9 @@ sources: [raw/papers/psilocybin-synthesis-shirota.md]
 
 ## See Also
 
+- [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]
+- [[shirota-psilocin-psilocybin-synthesis]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
+
 - [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]

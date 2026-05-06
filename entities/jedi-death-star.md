@@ -145,4 +145,9 @@ look elsewhere.
 
 ## See Also
 
+- [[schultes-datura-holy-flower-north-star]]
+- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
+- [[psilocybin-and-death-anxiety]]
+- [[fukuoka-heart-sutra-and-illusion-of-life-death]]
+
 - [[bloomfield-sudden-oak-death-phytophthora-species-diversity]]

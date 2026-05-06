@@ -148,3 +148,7 @@ That's serious food security from a single tree.
 Breadfruit is one of the most productive and low-maintenance staple trees for a tropical food forest. With proper site selection, drainage, and companion planting, a single tree can feed a family for decades.
 
 *See also: [[query-what-is-breadfruit-and-how-can-i-grow-it]], [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], [[pdc-food-forest-layers-and-succession]], [[permaculture-zone-and-sector-planning]], [[query-what-is-agroforestry-and-how-can-i-start]]*
+
+## See Also
+
+- [[query-what-is-jujube-and-how-do-i-grow-it]]

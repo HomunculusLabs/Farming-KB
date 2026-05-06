@@ -131,3 +131,9 @@ Orchid mycorrhizal fungi, by contrast, supply nitrogen primarily through the **s
 ## Summary
 
 Orchid mycorrhizae and ericoid mycorrhizae represent two highly specialized evolutionary solutions to nutritional challenges, but they solve fundamentally different problems. Orchid mycorrhizae evolved to support a unique life history strategy involving dust-seed dispersal and initial mycoheterotrophy, with carbon flowing predominantly from fungus to plant. Ericoid mycorrhizae evolved to exploit acidic, organic-matter-rich soils where conventional nutrient acquisition is insufficient, with fungi serving as powerful organic nitrogen decomposers. Both associations feature intracellular fungal structures, but the orchid peloton (digested) and the ericoid hyphal coil (intact) reflect fundamentally different exchange mechanisms. Together, they demonstrate the remarkable functional diversity of mycorrhizal symbioses and underscore that "mycorrhiza" encompasses a spectrum of nutritional strategies far beyond the familiar arbuscular and ectomycorrhizal paradigms.
+
+## See Also
+
+- [[ericoid-and-orchid-mycorrhizae]]
+- [[comparison-amf-vs-ericoid-mycorrhiza]]
+- [[ericoid-mycorrhizae-types-and-ecology]]

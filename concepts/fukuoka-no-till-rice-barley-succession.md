@@ -88,4 +88,6 @@ See also: [[fukuoka-early-farming-experiments]], [[fukuoka-why-tillage-destroys-
 
 ## See Also
 
+- [[no-till-rice-barley-succession]]
+
 - [[fukuoka-no-tillage-rice-barley-succession]]

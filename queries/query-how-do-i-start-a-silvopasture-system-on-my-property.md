@@ -187,3 +187,11 @@ Most beginners succeed by starting with a primary goal and one or two secondary 
 - **Your county extension office**: Soil testing, tree species recommendations, forage variety trials, and local workshops.
 - **Savanna Institute**: Resources on silvopasture establishment in the upper Midwest, including case studies and design templates.
 - ** grazingschools.com**: Hands-on workshops on rotational grazing management applicable to silvopasture.
+
+## See Also
+
+- [[query-how-do-i-design-a-duck-pond-system-for-permaculture]]
+- [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
+- [[query-how-to-start-a-food-forest]]
+- [[query-how-to-start-growing-mushrooms-at-home]]
+- [[query-how-do-i-create-a-permaculture-zone-plan-for-my-property]]

@@ -156,6 +156,12 @@ Guilds are most commonly applied in **Zones 1 and 2** (home garden and food fore
 
 ## See Also
 
+- [[comparison-fruit-tree-guilds-vs-companion-planting]]
+- [[natural-farming-guide-companion-planting-guilds]]
+- [[permaculture-plant-guilds-companion-planting]]
+- [[query-how-does-companion-planting-work-in-a-food-forest]]
+- [[comparison-companion-planting-vs-crop-rotation]]
+
 - [[Food-Forests]] — Multi-layered perennial polyculture systems built from guild design principles
 - [[Nitrogen-Fixing-Plants]] — Comprehensive list of leguminous and actinorhizal nitrogen fixers
 - [[Dynamic-Accumulators]] — Plants that mine minerals from deep soil layers

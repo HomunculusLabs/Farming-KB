@@ -900,3 +900,5 @@
 - [[ultra-low-jadam-sulfur-js]]
 - [[ultra-low-jadam-wetting-agent-jwa]]
 - [[ultra-low-water-softening-for-pesticide-efficacy]]
+- [[fukuoka-philosophy-non-causality-nature]]
+- [[liebig-law-of-minimum-critique-natural-farming]]

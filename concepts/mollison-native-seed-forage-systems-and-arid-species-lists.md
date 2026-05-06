@@ -92,6 +92,8 @@ Poultry on range in mixed orchards greatly reduce the larvae of insect pests, es
 
 ## Related
 
+- [[atriplex-halimus]]
+
 - [[forage-and-fodder-trees-permaculture-systems]] Concepts
 
 - [[mollison-arid-lands-design-and-erosion-control]]

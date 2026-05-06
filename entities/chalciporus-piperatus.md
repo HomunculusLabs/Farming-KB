@@ -134,4 +134,4 @@ not an indicator of toxicity in this species.
 - [[rubroboletus-satanas]]
 - [[leccinum-scabrum]]
 - [[gyroporus-cyanescens]]
-- [[xerocomellus-chrysenteron]]
+- xerocomellus chrysenteron

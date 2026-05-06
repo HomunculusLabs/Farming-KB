@@ -128,6 +128,8 @@ Gram-scale synthesis of psilocin and psilocybin without chromatographic purifica
 **Previous yields**: Psilocybin synthesis was only 20% (Troxler 1959) and 47% (Nichols 1999) — this method represents a major improvement, achieving gram-scale production without any chromatographic purification.
 ## Related
 
+- [[muscimol-compound]]
+
 - [[galantamine]] Pages
 - [[mushroom-growing-reference]] — Cultivation parameters and species tips
 - [[psychedelic-compounds-reference]] — Compound pharmacology and dosing

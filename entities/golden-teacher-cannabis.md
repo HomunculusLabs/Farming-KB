@@ -148,3 +148,10 @@ open spore trading, contributing to inter-vendor variability.
 - [[Psilocybin]] — The primary psychoactive compound produced by the strain.
 - [[Psilocin]] — The dephosphorylated, active metabolite of psilocybin.
 - [[Spore print]] — Method of collecting and identifying fungal spores.
+
+## See Also
+
+- [[golden-teacher]]
+- [[golden-teacher-cubensis]]
+- [[golden-teacher-psilocybe-cubensis]]
+- [[golden-guide-cannabis-historical-use]]

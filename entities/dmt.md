@@ -124,3 +124,11 @@ Typical DMT doses vary significantly by route of administration:
 - **Oral (ayahuasca):** 25–75 mg DMT content (variable based on brew strength; always combined with MAOI-containing Banisteriopsis caapi)
 
 The smoked route is the most common in non-traditional contexts, typically using a glass pipe or vaporizer. The freebase form vaporizes at approximately 60–80°C. Proper technique is important: too high a temperature degrades the compound, while too low fails to vaporize it effectively. Sub-breakthrough doses (10–25 mg) produce milder visual and cognitive effects without full ego dissolution, and are sometimes used for introductory experiences or microdosing exploration, though formal research on DMT microdosing is extremely limited compared to psilocybin microdosing.
+
+## See Also
+
+- [[turner-dmt-hyperspace-and-smoked-tryptamines]]
+- [[4-5-mdo-dmt-entity-tihkal]]
+- [[pineal-gland-dmt-entheogenic-experience]]
+- [[turner-essential-psychedelics-5-meo-dmt-void-experience]]
+- [[schultes-mimosa-jurema-dmt-brazil]]

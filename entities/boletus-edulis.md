@@ -107,6 +107,8 @@ strategies.
 
 ## See Also
 
+- [[boletus-regius]]
+
 - [[boletus-pinophilus]]
 - [[cantharellus-cibarius]]
 - [[tricholoma-matsutake]]

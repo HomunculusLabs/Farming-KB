@@ -127,5 +127,5 @@ The resin and fruit provide diversified income streams in agroforestry systems.
 - [[boswellia-serrata]]
 - [[rhus-typhina]]
 - [[rhus-coriaria]]
-- [[olea-europaea]]
-- [[myrtus-communis]]
+- olea europaea
+- myrtus communis

@@ -120,7 +120,7 @@ and serves as a food source for various invertebrates and small mammals.
 
 - [[gyromitra-esculenta]]
 - [[morchella-esculenta]]
-- [[verpa-bohemica]]
-- [[disciotis-venosa]]
-- [[helvella-acetabulum]]
-- [[helvella-elastica]]
+- verpa bohemica
+- disciotis venosa
+- helvella acetabulum
+- helvella elastica

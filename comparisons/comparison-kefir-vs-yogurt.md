@@ -122,4 +122,7 @@ Live kefir continues fermenting slowly in the refrigerator, becoming progressive
 
 ## See Also
 
+- [[comparison-kefir-vs-kombucha]]
+- [[comparison-kombucha-vs-kefir]]
+
 - [[lactobacillus]]

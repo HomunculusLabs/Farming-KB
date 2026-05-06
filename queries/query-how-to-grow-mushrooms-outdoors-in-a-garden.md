@@ -100,4 +100,6 @@ Practical integration strategies:
 
 ## See Also
 
+- [[query-how-do-i-grow-carnivorous-plants-outdoors]]
+
 - [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]

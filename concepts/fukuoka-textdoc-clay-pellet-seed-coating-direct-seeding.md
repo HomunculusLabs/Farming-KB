@@ -157,3 +157,7 @@ sources: [raw/papers/fukuoka-the-one-straw-revolution.md]
    152|- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
    153|- [[do-nothing-farming]]
    154|
+
+## See Also
+
+- [[clay-seed-pellets-direct-seeding]]

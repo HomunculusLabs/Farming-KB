@@ -133,6 +133,12 @@ ACDC's status varies by jurisdiction. In the United States, hemp-derived ACDC (t
 
 ## See Also
 
+- [[cannabis-mexican-strain-description-clarke]]
+- [[cannabis-strain-peptide]]
+- [[cannabis-strain-starship]]
+- [[cannabis-strain-goldstar]]
+- [[cannabis-strain-sherpa]]
+
 - [[acdc]]
 
 - [[Cannabidiol (CBD)]] — primary cannabinoid

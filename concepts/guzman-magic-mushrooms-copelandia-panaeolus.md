@@ -130,3 +130,11 @@ It is important to note that not all species in Panaeolus and Panaeolina are neu
 ## Global Distribution Summary
 
 The Panaeoloideae achieve their highest species diversity in tropical and subtropical regions, where warm temperatures, high humidity, and abundant herbivore dung create optimal conditions. However, several species extend into temperate regions, particularly P. subbalteatus, P. fimicola, P. sphinctrinus, and [[Panaeolina foenisecii]], which are among the most commonly encountered neurotropic fungi in temperate pastures worldwide. This combination of tropical diversity and temperate distribution makes the Panaeoloideae one of the most cosmopolitan groups of neurotropic fungi on Earth.
+
+## See Also
+
+- [[guzman-magic-mushrooms-temperate-zone-species]]
+- [[guzman-magic-mushrooms-psilocybe-species-list]]
+- [[guzman-magic-mushrooms-ethnomycological-traditions]]
+- [[guzman-magic-mushrooms-global-biogeography]]
+- [[guzman-magic-mushrooms-chemical-constituents]]

@@ -140,6 +140,8 @@ sources:
 
 ## See Also
 
+- [[cannabis-strain-harlequin]]
+
 - [[colombian-gold]]
 
 - [[Cannabidiol]] — primary therapeutic compound

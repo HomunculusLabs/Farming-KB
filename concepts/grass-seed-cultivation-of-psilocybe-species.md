@@ -123,6 +123,12 @@ The mycelium of [[Psilocybe tampanensis]] and [[Psilocybe mexicana]] can produce
 
 ## See Also
 
+- [[grass-seed-cultivation-of-psilocybe-mushrooms]]
+- [[grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide]]
+- [[grass-seed-substrate-cultivation-psilocybe]]
+- [[grass-seed-mushroom-cultivation]]
+- [[mollison-tropical-pasture-grass-species-selection-and-management]]
+
 - [[Psilocybe mexicana]]
 - [[Psilocybe tampanensis]]
 - [[Sclerotia Formation in Fungi]]

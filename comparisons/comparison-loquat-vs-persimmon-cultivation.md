@@ -12,7 +12,7 @@ sources:
 
 # Loquat vs Persimmon Cultivation
 
-A detailed comparison of two outstanding winter/spring fruiting trees for home orchards, food forests, and permaculture systems. See also [[loquat-cultivation-and-variety-guide]] and [[persimmon-cultivation-and-variety-guide]].
+A detailed comparison of two outstanding winter/spring fruiting trees for home orchards, food forests, and permaculture systems. See also [[loquat-entity]] and [[permplant-persimmon-diospyros-kaki-fruit-tree]].
 
 ## Quick Comparison Table
 
@@ -118,4 +118,4 @@ Loquats and persimmons can absolutely be grown together. They share similar soil
 
 ---
 
-*See [[loquat-cultivation-and-variety-guide]] and [[persimmon-cultivation-and-variety-guide]] for detailed variety recommendations and regional growing advice.*
+*See [[loquat-entity]] and [[permplant-persimmon-diospyros-kaki-fruit-tree]] for detailed variety recommendations and regional growing advice.*

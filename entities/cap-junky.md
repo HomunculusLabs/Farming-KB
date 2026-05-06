@@ -116,6 +116,12 @@ control to express its full terpene potential.
 
 ## See Also
 
+- [[comparison-oyster-vs-wine-cap-cultivation]]
+- [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
+- [[liberty-cap-psilocybe-semilanceata-history-biology]]
+- [[wine-cap-mushroom-cultivation]]
+- [[query-how-to-grow-wine-cap-mushrooms]]
+
 [[Alien Cookies]] · [[MAC (Miracle Alien Cookies)]] · [[GMO]] · [[Wedding Cake]] ·
 [[Ice Cream Cake]] · [[Gary Payton]] · [[Jealousy]] · [[Kush Mints]] ·
 [[Do-Si-Dos]] · [[Animal Cookies]] · [[Runtz]]

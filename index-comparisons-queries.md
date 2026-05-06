@@ -1036,3 +1036,8 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
+- [[comparison-loquat-vs-persimmon-cultivation]]
+- [[comparison-nettle-vs-comfrey]]
+- [[energy-efficiency-farming-systems-comparison]]
+- [[query-how-to-grow-and-use-stinging-nettle]]
+- [[query-what-is-jujube-and-how-do-i-grow-it]]

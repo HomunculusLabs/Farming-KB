@@ -149,4 +149,10 @@ With hired labor, expect 2–3× materials cost. Costs vary by region and hemp a
 
 ## See Also
 
+- [[query-what-is-wattle-and-daub-and-how-do-i-build-with-it]]
+- [[query-how-do-i-build-a-wicking-bed-for-my-garden]]
+- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+- [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
+- [[query-how-to-build-a-passive-solar-greenhouse]]
+
 - [[natural-building]]

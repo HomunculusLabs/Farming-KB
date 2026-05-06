@@ -138,6 +138,8 @@ at planting time, though commercial inoculum is not widely available.
 
 ## See Also
 
+- [[hygrophorus-chlorophanus]]
+
 - [[cantharellus-cibarius]]
 - [[boletus-edulis]]
 - [[lactarius-deliciosus]]

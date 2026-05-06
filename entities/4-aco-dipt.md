@@ -124,6 +124,12 @@ is often governed by analogue drug legislation:
 
 ## See Also
 
+- [[5-6-mdo-dipt-entity-tihkal]]
+- [[dipt]]
+- [[5-meo-dipt-entity-tihkal]]
+- [[4-ho-dipt-entity-tihkal]]
+- [[dipt-entity-tihkal]]
+
 - [[Tryptamine]]
 - [[5-HT2A-Receptor]]
 - [[Psilocin]]

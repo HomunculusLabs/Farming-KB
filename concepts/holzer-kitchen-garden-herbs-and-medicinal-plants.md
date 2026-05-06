@@ -120,4 +120,6 @@ they might be, should be as diverse as possible. He also considers it very
 important for children to learn something about the medicinal and poisonous
 properties of plants.
 ## See Also
+
+- [[cistus-incanus]]
 - [[achillea-millefolium]]

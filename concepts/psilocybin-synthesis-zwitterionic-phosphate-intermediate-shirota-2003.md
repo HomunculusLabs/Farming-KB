@@ -132,3 +132,11 @@ The 3-dimethylaminooxalyl-4-acetylindole intermediate (compound 6) was obtained 
 - **ESIMS**: m/z 275.1 [M + H]+ (77%), 233.1 [M - Ac + H]+ (100%)
 
 This compound was formed by treating the acetyl-protected indole with oxalyl chloride in ether, yielding yellow crystals of the oxalyl chloride intermediate, followed by reaction with dimethylamine in THF with pyridine.
+
+## See Also
+
+- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
+- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
+- [[shirota-psilocin-psilocybin-synthesis]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]

@@ -119,6 +119,12 @@ The serendipitous discovery of the self-purifying zwitterionic intermediate was 
 
 ## See Also
 
+- [[psilocybin-psilocin-chemical-synthesis]]
+- [[psilocybin-psilocin-chemical-synthesis-shirota]]
+- [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
+- [[shirota-psilocin-psilocybin-synthesis]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+
 - [[Psilocybin]]
 - [[Tryptamine Alkaloids]]
 - [[Serotonin Receptor Pharmacology]]

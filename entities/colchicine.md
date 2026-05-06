@@ -176,6 +176,8 @@ its role in cardiovascular medicine.
 
 ## See Also
 
+- [[cannabis-polyploidy-colchicine-treatment-clarke]]
+
 - [[cervantes-colchicine-polyploidy-mutagenesis]]
 
 - [[Colchicum autumnale]]

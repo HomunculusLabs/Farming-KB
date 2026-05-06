@@ -117,6 +117,8 @@ Annual production exceeds 1 million tonnes, with Argentina producing ~60%, follo
 
 ## See Also
 
+- [[ilex-guayusa]]
+
 - [[Caffeine]] — primary active xanthine alkaloid
 - [[Theobromine]] — secondary stimulant in mate
 - [[Camellia sinensis]] — tea, comparative antioxidant profile

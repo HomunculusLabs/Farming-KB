@@ -196,3 +196,8 @@ Overwintered plants produce earlier and more heavily in their second year, as th
 | **Peak harvest** | Mid-summer through first frost | Pick regularly to encourage more production |
 | **Seed saving** | Late season | Select best fully ripe fruit |
 | **Overwintering** | Before first frost | Prune, pot, bring indoors |
+
+## See Also
+
+- [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
+- [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]]

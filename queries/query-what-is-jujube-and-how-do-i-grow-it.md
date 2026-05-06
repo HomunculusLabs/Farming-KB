@@ -11,7 +11,7 @@ sources:
 
 # What Is Jujube (Chinese Date) and How Do I Grow It?
 
-A comprehensive growing guide for one of the most underappreciated [[fruit-trees]]
+A comprehensive growing guide for one of the most underappreciated fruit trees
 in temperate and subtropical orchards.
 
 ## What Is Jujube?
@@ -37,16 +37,16 @@ sugar content. Brix levels can reach 20–30% in fully dried fruit.
 
 Jujube is exceptionally adaptable. It is hardy in **USDA zones 5–9**, tolerating
 winter lows to -20°F (-29°C) and summer heat exceeding 110°F (43°C). The tree has a
-very low [[chill-hour]] requirement — often under 200 hours — making it ideal for
+very low chill hour requirement — often under 200 hours — making it ideal for
 warm-winter regions where stone fruits and apples struggle. Late spring frosts are
-rarely a problem since jujube leafs out very late compared to most [[fruit-trees]].
+rarely a problem since jujube leafs out very late compared to most fruit trees.
 
 ## What Soil Does Jujube Prefer?
 
 Jujube tolerates an extraordinarily wide range of soil conditions. It prefers
 **well-drained soil** but handles sandy, loamy, clay-loam, and even rocky soils.
 Acceptable pH ranges from approximately **5.5 to 8.5**. Once established, the tree is
-deeply [[drought-tolerant]] thanks to an extensive taproot system. Waterlogging is
+deeply [[drought-tolerant-planting-design]] thanks to an extensive taproot system. Waterlogging is
 the primary soil-related failure point — avoid planting in low-lying wet areas.
 
 ## How Do I Plant a Jujube Tree?
@@ -56,7 +56,7 @@ the primary soil-related failure point — avoid planting in low-lying wet areas
 15–20 feet apart in rows, or 12–15 feet for tighter orchard plantings. Dig a hole
 twice as wide as the root system but no deeper. Most jujube varieties are
 **self-fruitful**, so a single tree will produce fruit. The notable exception is
-**Li**, which benefits from a pollinizer such as Lang. See [[fruit-tree-planting]]
+**Li**, which benefits from a pollinizer such as Lang. See [[holzer-fruit-tree-planting-method]]
 for general planting techniques.
 
 ## How Do I Care for Jujube?
@@ -94,11 +94,11 @@ Harvest typically runs from **late summer through fall (August–October)** depe
 on variety and region. Early varieties like Honey Jar begin ripening in mid-August,
 while late varieties like Sherwood can extend into late October or early November.
 Fruit does not ripen all at once — expect multiple harvests over several weeks.
-Color changes from green to yellow-green to brownish-red. For fresh eating, harvest when half to fully colored; for drying, allow fruit to fully ripen on the tree. See [[harvest-calendar]] for regional timing.
+Color changes from green to yellow-green to brownish-red. For fresh eating, harvest when half to fully colored; for drying, allow fruit to fully ripen on the tree. See [[pdc-yield-harvest-and-seasonal-calendar]] for regional timing.
 
 ## What Pests and Diseases Affect Jujube?
 
-Jujubes are **remarkably pest-resistant** compared to most [[fruit-trees]]. Serious
+Jujubes are **remarkably pest-resistant** compared to most fruit trees. Serious
 insect or disease problems are rare. The main pest of note is the **cotton bollworm**
 (*Helicoverpa armigera*), which may feed on fruit in some southern growing regions.
 Birds may peck at ripe fruit but are rarely a major issue. Fungal diseases are
@@ -107,7 +107,7 @@ spray program is typically required.
 
 ## How Is Jujube Used?
 
-Jujube is one of the most versatile [[fruit-trees]] in the kitchen:
+Jujube is one of the most versatile fruit trees in the kitchen:
 
 - **Fresh eating** — Crisp and refreshing straight off the tree.
 - **Drying** — The traditional preparation; dried fruit stores for months to years.
@@ -121,7 +121,7 @@ Jujube is one of the most versatile [[fruit-trees]] in the kitchen:
 
 ## Can Jujube Grow in Containers?
 
-Yes. Jujube adapts well to [[container-gardening|container culture]], especially
+Yes. Jujube adapts well to [[container-gardening-techniques|container culture]], especially
 dwarf and semi-dwarf varieties. A 15–25 gallon container provides adequate root space.
 Use a well-draining potting mix and water regularly since containers dry faster than
 ground soil. Container-grown jujubes may fruit slightly earlier than field-planted
@@ -137,7 +137,7 @@ Jujube is an outstanding addition to any [[food-forest]] or [[permaculture]] des
 - **Nurse tree** — Thorny young growth protects sensitive understory plantings from
   browsing animals.
 - **Bee forage** — Small, fragrant flowers provide late-season nectar for
-  [[pollinators]] when many other bloom periods have ended.
+  [[beneficial-insects-pollinators]] when many other bloom periods have ended.
 - **Wildlife food** — Fallen fruit feeds birds, deer, and other wildlife.
 - **Low maintenance** — Minimal pest pressure and fertilizer needs align well with
   low-input [[permaculture]] principles.

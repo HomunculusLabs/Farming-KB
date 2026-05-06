@@ -142,6 +142,12 @@ Combined myco- and phytoremediation using metal-tolerant plants inoculated with 
 
 ## See Also
 
+- [[mycoremediation-oil-spills]]
+- [[staycare-mycoremediation-of-pharmaceutical-contaminants]]
+- [[mycoremediation-advantages-limitations]]
+- [[mycoremediation-textile-dye-degradation]]
+- [[mycoremediation-enzyme-production-optimization]]
+
 - [[Pleurotus ostreatus]] — primary species for petroleum remediation
 - [[Trametes versicolor]] — key species for dye and pharmaceutical degradation
 - [[Laetiporus sulphureus]] — Chicken of the Woods, another polypore with remediation potential

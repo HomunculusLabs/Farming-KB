@@ -142,6 +142,12 @@ achievable with proper training. Outdoors, plants can produce
 
 ## See Also
 
+- [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
+- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+- [[mescal-bean-sophora-secundiflora-vision-dance]]
+- [[bean-growing-guide]]
+- [[ice-cream-bean-entity]]
+
 - [[Space-Queen]]
 - [[Cinderella-99]]
 - [[Romulan]]

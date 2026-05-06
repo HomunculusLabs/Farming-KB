@@ -150,4 +150,10 @@ This proposal — sowing clay pellets containing seeds of desert-appropriate pla
 
 ## See Also
 
+- [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]
+- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+- [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
+- [[fukuoka-textdoc-straw-mulching-rice-barley-cropping]]
+- [[fukuoka-textdoc-village-philosophy-disappearance]]
+
 - [[natural-farming]]

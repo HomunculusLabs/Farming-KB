@@ -131,3 +131,11 @@ The primary risks are psychological rather than physiological:
 ### Contraindications
 
 Use is contraindicated in individuals taking monoamine oxidase inhibitors (MAOIs), lithium, or serotonergic psychiatric medications, as well as those with a history of psychotic disorders or severe cardiovascular disease.
+
+## See Also
+
+- [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
+- [[psilocybe-cubensis-profile]]
+- [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]
+- [[psilocybe-cubensis-miniculture-method]]
+- [[psilocybe-cubensis-potency-variation-by-flush]]

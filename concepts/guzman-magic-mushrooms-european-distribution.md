@@ -132,3 +132,11 @@ Several European species have been the focus of intensive chemical and pharmacol
 - [[Psilocybe bohemica]]: A central European species first described from the Czech Republic, this species has been the subject of extensive chemical analysis by Semerdzieva, Wurst, and their colleagues, contributing significantly to understanding the alkaloid profiles of European Psilocybe.
 
 - [[Psilocybe serbica]]: Originally described from Yugoslavia, this species is found in southeastern and central Europe and represents one of the more potent European Psilocybe species.
+
+## See Also
+
+- [[guzman-magic-mushrooms-temperate-zone-species]]
+- [[gartz-magic-mushrooms-global-distribution-patterns]]
+- [[guzman-magic-mushrooms-psilocybe-species-list]]
+- [[guzman-magic-mushrooms-ethnomycological-traditions]]
+- [[guzman-magic-mushrooms-global-biogeography]]

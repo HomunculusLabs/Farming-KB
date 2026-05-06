@@ -131,3 +131,11 @@ Harder-to-fruit strains benefit from **cold shocking** — placing them in the f
 ## Sclerotia Production
 
 [[Psilocybe tampanensis]] and [[Psilocybe mexicana]] produce **sclerotia** while still colonising in the jar — no casing is needed for sclerotia production. Simply leave fully colonised jars in a clean, preferably dark location. In the experience of the authors, sclerotia of P. tampanensis continue to enlarge until **4 months after inoculation**. Sclerotia of these species also form in the casing layer of cased trays.
+
+## See Also
+
+- [[grass-seed-substrate-cultivation-psilocybe]]
+- [[grass-seed-cultivation-of-psilocybe-mushrooms]]
+- [[grass-seed-mushroom-cultivation]]
+- [[grass-seed-cultivation-of-psilocybe-species]]
+- [[mushroom-cultivation-troubleshooting-guide]]

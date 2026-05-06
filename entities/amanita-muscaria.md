@@ -113,6 +113,12 @@ Legal status varies by jurisdiction. **United States:** not federally scheduled;
 
 ## See Also
 
+- [[amanita-muscaria-in-eastern-religions]]
+- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
+- [[golden-guide-amanita-muscaria-and-soma]]
+- [[amanita-muscaria-cultural-history]]
+- [[muscimol-and-amanita-muscaria]]
+
 - *Amanita phalloides* — Death Cap, the world's most lethal mushroom
 - *Amanita pantherina* — Panther Cap, a more toxic relative
 - Muscimol — the primary psychoactive compound

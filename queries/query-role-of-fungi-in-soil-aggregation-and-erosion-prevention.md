@@ -115,3 +115,11 @@ To maximize fungal contributions to soil aggregation and erosion prevention:
 ## Summary
 
 Fungi are essential architects of soil structure. Their hyphal networks physically bind soil particles, their glomalin and EPS chemically cement aggregates, and their organic matter processing creates the building blocks of stable soil structure. By forming water-stable aggregates, fungi reduce erosion by improving resistance to raindrop impact, enhancing water infiltration, increasing surface roughness, and strengthening soil cohesion. Arbuscular mycorrhizal fungi are the most important fungal group for soil aggregation in most ecosystems, and their conservation through reduced tillage, diverse cropping, and moderate nutrient management is a key strategy for sustainable erosion control.
+
+## See Also
+
+- [[query-what-is-the-role-of-lignin-in-soil-health-and-decomposition]]
+- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
+- [[query-what-is-the-role-of-bacteria-in-soil-health]]
+- [[query-what-is-the-role-of-fungi-in-decomposition]]
+- [[query-what-is-the-nitrogen-cycle-in-gardens-and-soil]]

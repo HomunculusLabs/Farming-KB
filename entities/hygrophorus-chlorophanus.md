@@ -125,6 +125,8 @@ forest habitats with established mycorrhizal networks.
 
 ## See Also
 
+- [[hygrophorus-russula]]
+
 - [[Hygrophorus]]
 - [[Hygrophorus-psittacinus]]
 - [[Hygrophorus-hypothejus]]

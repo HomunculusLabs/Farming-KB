@@ -138,6 +138,8 @@ preparation before using any medicinal herb.
 
 ## See Also
 
+- [[comparison-nettle-vs-comfrey]]
+
 - [[comfrey-plant-guide]] for detailed comfrey cultivation and uses
 - [[yarrow-plant-guide]] for comprehensive yarrow information
 - [[comparison-dynamic-accumulators-vs-cover-crops]]

@@ -121,6 +121,8 @@ This staged approach maximizes the utility of each structure while spreading inv
 
 ## See Also
 
+- [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
+
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
 - [[greenhouse-growing-essentials]]
 - [[cold-frame-gardening]]

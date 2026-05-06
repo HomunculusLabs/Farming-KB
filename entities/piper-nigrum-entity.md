@@ -135,6 +135,8 @@ global pepper production exceeds 600,000 tonnes annually, and it
 remains the most traded spice by volume and value.
 ## See Also
 
+- [[piper-betle]]
+
 - [[piper-guineense-entity]]
 - [[cinnamomum-verum]]
 - [[zingiber-officinale]]

@@ -143,3 +143,11 @@ Reishi (*Ganoderma lingzhi* / *G. lucidum*), Lion's Mane (*Hericium erinaceus*),
 | **Cultivation ease** | Moderate | Easy–moderate | Easy |
 | **Culinary use** | Bitter; tea/extract only | Excellent edible when fresh | Too tough; extract only |
 | **Best for** | Daily adaptogen | Cognitive support | Acute immune support |
+
+## See Also
+
+- [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
+- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
+- [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
+- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
+- [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]]

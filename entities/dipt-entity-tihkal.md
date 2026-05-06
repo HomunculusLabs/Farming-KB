@@ -72,6 +72,8 @@ The mono-isopropyl analogue, N-isopropyltryptamine (IPT), has been prepared via 
 
 ## See Also
 
+- [[4-aco-dipt]]
+
 - [[5-meo-dipt-entity-tihkal]] -- 5-methoxy analogue
 - [[4-ho-dipt-entity-tihkal]] -- 4-hydroxy analogue
 - [[eipt-entity-tihkal]] -- N-ethyl-N-isopropyl analogue

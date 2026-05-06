@@ -136,6 +136,6 @@ crops in Mediterranean food forests.
 - [[rhus-typhina]]
 - [[pistacia-lentiscus]]
 - [[boswellia-serrata]]
-- [[zataria-multiflora]]
+- zataria multiflora
 - [[piper-nigrum-entity]]
 - [[capsicum-annuum]]

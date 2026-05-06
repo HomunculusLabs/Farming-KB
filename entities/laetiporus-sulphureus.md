@@ -138,6 +138,9 @@ Cultivation of *Laetiporus sulphureus* is possible but less developed than for m
 
 ## See Also
 
+- [[laetiporus-sulphureus-entity]]
+- [[laetiporus-sulphureus-permaculture]]
+
 - [[Hericium erinaceus]] — Lion's Mane, another prized edible bracket fungus
 - [[Ganoderma lucidum]] — Reishi, a medicinal polypore sharing similar tree hosts
 - [[Grifola frondosa]] — Maitake, another large, shelf-forming edible mushroom

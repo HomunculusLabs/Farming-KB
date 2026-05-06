@@ -137,4 +137,10 @@ Happy fermenting! 🍚✨
 
 ## See Also
 
+- [[query-what-are-the-best-fermented-beverages-for-beginners-to-make-at-home]]
+- [[query-how-to-make-agar-plates-for-mushroom-cultivation]]
+- [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
+- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
+- [[query-how-to-make-herbal-infused-oils-at-home]]
+
 - [[aspergillus-oryzae]]

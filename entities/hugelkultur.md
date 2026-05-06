@@ -123,3 +123,11 @@ Hugelkultur exemplifies a core permaculture principle: converting a "problem" (e
 - **Sepp Holzer's Krameterhof (Austria):** The birthplace of modern hugelkultur, Holzer's 45-hectare farm at 1,100–1,500 m elevation integrates terraced hugelkultur beds with swale systems and ponds, producing year-round food in a marginal alpine climate.
 - **Paul Wheaton's Wheaton Labs (Montana, USA):** Large-scale hugelkultur beds exceeding 30 meters in length, demonstrated through extensive documentation on Permies.com and YouTube, introducing the technique to a global practitioner community.
 - **Ben Falk's Whole Systems Design (Vermont, USA):** Terraced hugelkultur systems on sloped land integrated with food forests, demonstrating the technique in a cold-climate regenerative agriculture context.
+
+## See Also
+
+- [[hemenway-hugelkultur-guide]]
+- [[holzer-raised-bed-techniques-hugelkultur]]
+- [[comparison-hugelkultur-vs-terracing]]
+- [[query-how-do-i-start-a-hugelkultur-bed]]
+- [[hugelkultur-bed-construction-detailed]]

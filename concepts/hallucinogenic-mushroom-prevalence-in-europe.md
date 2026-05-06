@@ -118,6 +118,12 @@ drugs" in Austria; Netherlands data includes mescaline, 2CB, ayahuasca, ketamine
 
 ## See Also
 
+- [[hallucinogenic-mushroom-prevalence-europe]]
+- [[emcdda-hallucinogenic-mushroom-prevalence-europe]]
+- [[emcdda-hallucinogenic-mushroom-legal-status-europe]]
+- [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
+- [[hallucinogenic-mushroom-legal-status-europe]]
+
 - [[hallucinogenic mushrooms]]
 - [[psilocybin]]
 - [[hallucinogenic mushroom legal status EU]]

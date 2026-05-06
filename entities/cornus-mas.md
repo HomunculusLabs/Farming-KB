@@ -141,6 +141,8 @@ species in temperate permaculture design:
 
 ## See Also
 
+- [[permaculture-dogwood-cornus-capitata]]
+
 - [[Cornus-servicina]]
 - [[Cornaceae]]
 - [[Edible-Fruits]]

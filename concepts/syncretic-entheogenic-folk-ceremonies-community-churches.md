@@ -128,3 +128,9 @@ Nevertheless, these movements serve an important function in preserving and tran
 ## Cultural Significance
 
 These syncretic religious movements, particularly the ayahuasca churches in Brazil, have made profoundly spiritually transforming experiences accessible to a large number and wide spectrum of people across all walks of life. They represent the beginnings of a broader cultural transformation movement, bridging indigenous shamanic traditions with organized community religious practice. Their growth from small Amazonian communities to international organizations with satellite centers in North America and Europe demonstrates the enduring human need for direct, experiential spiritual practice with plant medicines.
+
+## See Also
+
+- [[metzner-syncretic-entheogenic-folk-ceremonies-community-ritual]]
+- [[metzner-syncretic-entheogenic-folk-ceremonies]]
+- [[entheogenic-syncretic-churches-brazil]]

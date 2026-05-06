@@ -147,4 +147,7 @@ The pharmacological activity of *P. ginseng* is primarily attributed to ginsenos
 
 ## See Also
 
+- [[panax-notoginseng]]
+- [[panax-quinquefolius]]
+
 - [[herbal-medicine]]

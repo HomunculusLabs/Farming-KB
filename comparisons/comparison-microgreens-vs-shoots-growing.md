@@ -148,4 +148,10 @@ Choose **shoots** when maximizing yield per seed, extending harvest windows, and
 
 ## See Also
 
+- [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]
+- [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+- [[comparison-berry-growing-vs-fruit-tree-pruning]]
+- [[cervantes-growing-mediums-comparison]]
+- [[comparison-pepper-growing-guide-vs-tomato-growing-guide]]
+
 - [[appropriate-technology]]

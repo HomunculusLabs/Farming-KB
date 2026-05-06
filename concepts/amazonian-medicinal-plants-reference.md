@@ -95,6 +95,9 @@ The chicua bird (Piaya cayana) serves as a living oracle when harvesting ayahuas
 
 ## Related
 
+- [[croton-lechleri]]
+- [[eleutherine-bulbosa]]
+
 - [[arnica-montana]]
 - [[clitoria-ternatea]]
 - [[codonopsis-pilosula]]

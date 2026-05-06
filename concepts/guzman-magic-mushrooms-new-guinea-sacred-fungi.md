@@ -121,3 +121,11 @@ Several factors complicate the chemical analysis of New Guinea sacred fungi:
 The New Guinea sacred fungi find parallels in other parts of the world where fungal species are used ceremonially without confirmed chemical analysis. In Mexico, several species of [[Lycoperdon]] (puffballs) and [[Vascellum]] were documented as sacred fungi by Heim and Wasson, though their psychoactive status was never definitively confirmed. Similarly, in various Asian traditions, species of [[Dictyophora indusiata]] (the veiled lady mushroom) have been used as sacred or medicinal fungi despite uncertain chemistry.
 
 These cases collectively suggest that the global inventory of psychoactive fungi may be significantly larger than currently documented, and that many species used traditionally by indigenous peoples await proper chemical investigation.
+
+## See Also
+
+- [[guzman-magic-mushrooms-temperate-zone-species]]
+- [[guzman-magic-mushrooms-psilocybe-species-list]]
+- [[guzman-magic-mushrooms-ethnomycological-traditions]]
+- [[guzman-magic-mushrooms-global-biogeography]]
+- [[guzman-magic-mushrooms-chemical-constituents]]

@@ -142,6 +142,12 @@ Golden Teacher occupies a prominent place in contemporary psychedelic culture:
 
 ## See Also
 
+- [[golden-teacher-cubensis]]
+- [[golden-teacher]]
+- [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
+- [[psilocybe-cubensis-profile]]
+- [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]
+
 - [Psilocybe cubensis](#) — Parent species
 - [Psilocybin](#) — Primary psychoactive compound
 - [Penis Envy (strain)](#) — High-potency *P. cubensis* strain

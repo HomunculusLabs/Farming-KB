@@ -82,7 +82,9 @@ As research grows increasingly specialized, it advances into ever more narrowly 
 
 Fukuoka's critique of Liebig's law undermines the intellectual foundation of conventional fertilizer management. If there is no reliably identifiable limiting factor, if factors cannot be manipulated independently, and if the effects of interventions cannot be predicted, then the entire framework of targeted nutrient supplementation collapses. What remains is the recognition that nature, left to itself, achieves its own balance.
 
-## Related Concepts
+## Related
+
+- [[liebig-law-of-minimum-critique-natural-farming]] Concepts
 
 - [[fukuoka-illusions-of-scientific-farming]]
 - [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]

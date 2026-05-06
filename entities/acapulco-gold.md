@@ -99,6 +99,11 @@ The strain's genetic legacy persists in numerous modern hybrids that carry Mexic
 
 ## See Also
 
+- [[colombian-gold-entity]]
+- [[colombian-gold]]
+- [[malawi-gold]]
+- [[malawi-gold-entity]]
+
 - [[Mexican Landrace Strains]] — broader category of Mexican sativa varieties
 - [[Colombian Gold]] — comparable South American landrace strain
 - [[Cannabis Terpenes]] — detailed terpene profiles and effects

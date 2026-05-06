@@ -149,6 +149,8 @@ but ventures no further.
 
 ## See Also
 
+- [[fukuoka-philosophy-non-causality-nature]]
+
 - [[natural-farming-five-principles]]
 - [[soil-self-enrichment]]
 - [[natural-diet-and-seasonal-eating]]

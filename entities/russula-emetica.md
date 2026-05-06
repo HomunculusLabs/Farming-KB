@@ -76,6 +76,8 @@ pressure, soil biology, yields, and long-term resilience.
 
 ## See Also
 
+- [[russula-xerampelina]]
+
 - [[cortinarius-cinnamomeus]]
 
 - [[russula-edible-species]]
