@@ -103,6 +103,8 @@ The species contributes to forest health by facilitating nutrient turnover and c
 
 ## See Also
 
+- [[sanghuangporus-ctenophorus]]
+
 - [[sanghuangporus-vaninii]]
 - [[sanghuangporus-baumii]]
 - [[inonotus-obliquus]]

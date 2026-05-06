@@ -124,6 +124,8 @@ In permaculture and agroforestry systems, T. bellerica serves as a large canopy 
 
 ## See Also
 
+- [[terminalia-ferdinandiana]]
+
 - [[terminalia-chebula]]
 - [[phyllanthus-emblica]]
 - triphala

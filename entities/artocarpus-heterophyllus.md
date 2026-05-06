@@ -1,0 +1,132 @@
+---
+title: "Artocarpus heterophyllus"
+type: species
+tags:
+  - tree
+  - tropical
+  - permaculture
+  - edible-fruit
+  - moraceae
+  - agroforestry
+  - largest-fruit
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Jagtap, U.B. & Bapat, V.A. (2010). "Artocarpus heterophyllus Lam.: a review of its phytochemistry and pharmacology." Current Pharmaceutical Biotechnology, 11(6), 595-610.
+  - Haq, N. (2006). "Jackfruit: Artocarpus heterophyllus." International Centre for Underutilised Crops, Southampton, UK.
+  - Rahman, M.A. et al. (1999). "Jackfruit cultivation in Bangladesh." In: Fruits of Warm Climates. Julia F. Morton, Miami.
+  - Soejarto, D.D. (1969). "Artocarpus heterophyllus: the jackfruit." Economic Botany, 23(4), 325-340.
+  - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:630757-1
+---
+
+## Overview
+
+**Artocarpus heterophyllus**, commonly known as jackfruit, is the largest tree-borne fruit in the world, belonging to the mulberry family Moraceae.
+
+Individual fruits can weigh up to 55 kg and reach 90 cm in length, making it a remarkable example of botanical gigantism.
+
+Native to South and Southeast Asia, the species has become naturalized across tropical regions worldwide.
+
+Every part of the tree has economic value: fruit, seeds, timber, latex, and leaves all serve distinct purposes.
+
+## Taxonomy and Morphology
+
+**Classification:**
+
+- Kingdom: Plantae
+- Order: Rosales
+- Family: Moraceae
+- Genus: Artocarpus
+- Species: A. heterophyllus Lam.
+
+Described by Jean-Baptiste Lamarck in 1789.
+
+The genus Artocarpus includes approximately 60 species, with breadfruit (A. altilis) and cempedak (A. integer) as close relatives.
+
+**Morphology:**
+
+Jackfruit is a fast-growing evergreen tree reaching 15-20 meters in height under favorable conditions.
+
+The trunk is straight, 30-80 cm in diameter, with greyish-brown, rough, and flaky bark.
+
+All parts of the tree exude a sticky white latex when cut or damaged.
+
+Leaves are alternate, glossy dark green, leathery, and elliptic to obovate, 15-25 cm long.
+
+Young leaves are lobed or deeply incised; mature leaves are generally entire.
+
+The fruit is a syncarp (compound fruit) formed from the fusion of numerous flowers.
+
+Each fruit contains 100-500 individual fleshy perianths (the edible "bulbs") surrounding smooth seeds.
+
+Seeds are ellipsoid, 2-3 cm long, brown, and contain 10-15% protein with a chestnut-like flavor when cooked.
+
+## Distribution and Habitat
+
+Native to the Western Ghats of India and possibly the rainforests of Malaysia and Indonesia.
+
+Now widely cultivated throughout tropical Asia, Africa, the Caribbean, and Central and South America.
+
+Optimal growth occurs at elevations below 1000 meters with annual rainfall of 1500-2500 mm.
+
+The tree tolerates a wide range of tropical soils but performs best in deep, well-drained alluvial or loamy soils.
+
+It is moderately drought-tolerant once established but is sensitive to waterlogging and frost.
+
+Jackfruit is increasingly planted in tropical agroforestry systems across Africa and Latin America.
+
+## Nutritional Value
+
+Jackfruit bulbs are low in calories (approximately 95 kcal per 100 g fresh weight) and rich in dietary fiber.
+
+The fruit provides significant vitamin C (13.7 mg/100 g), vitamin A, and B-complex vitamins.
+
+Potassium content is notably high (448 mg/100 g), supporting cardiovascular health.
+
+The bulbs contain phytonutrients including carotenoids (beta-carotene, lutein), flavonoids, and isoflavones.
+
+Jackfruit seeds are nutritionally dense, containing 12-15% protein and 30-40% carbohydrates.
+
+Boiled or roasted seeds have a texture and flavor comparable to chestnuts or boiled potatoes.
+
+## Cultivation
+
+Propagation is primarily by seed, though superior varieties are propagated by grafting, budding, or air-layering.
+
+Seedlings begin bearing fruit at 3-4 years; grafted trees may fruit within 2-3 years.
+
+Peak production typically occurs at 15-20 years, with individual trees producing 100-200 fruits annually.
+
+Flowering occurs on short shoots and on the main trunk (cauliflory), with male and female inflorescences on the same tree.
+
+Fruit development takes 3-8 months depending on cultivar and environmental conditions.
+
+The species is relatively pest-resistant, though fruit borers and shoot borers can cause significant losses.
+
+## Permaculture and Agroforestry Applications
+
+Jackfruit serves as a productive upper-canopy element in tropical food forest designs.
+
+Its dense canopy provides significant shade for understory crops including coffee, cacao, turmeric, and ginger.
+
+As a nitrogen-efficient species with extensive root systems, it helps stabilize soil on sloping terrain.
+
+The timber (called "jackwood") is highly valued for furniture, construction, and musical instruments.
+
+Leaves serve as fodder for cattle and goats during dry seasons when other forage is scarce.
+
+The sticky latex has traditional applications as a waterproofing agent and adhesive.
+
+Fallen leaves and fruit rinds contribute substantially to mulch and soil organic matter.
+
+## See Also
+
+- [[boesenbergia-rotunda]]
+
+[[theobroma-cacao]]
+[[moringa-oleifera]]
+[[bertholletia-excelsa]]
+[[persea-americana-entity]]
+carica papaya
+[[glycine-max]]
+[[anacardium-occidentale]]

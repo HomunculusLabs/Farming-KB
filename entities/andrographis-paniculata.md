@@ -1,150 +1,143 @@
 ---
-title: Andrographis paniculata
-created: 2026-04-28
+title: "Andrographis paniculata"
 type: species
 tags:
-  - herbal-plant
-  - medicinal-plant
-  - immunomodulator
-  - antiviral
-  - anti-inflammatory
   - acanthaceae
-  - ayurvedic
-  - traditional-chinese-medicine
-  - bitter-principle
-  - ethnobotany
+  - medicinal-herb
+  - ayurvedic-medicine
+  - tcm
+  - immunomodulator
+  - hepatoprotective
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Coon, J.T. & Ernst, E. (2004). 'Andrographis paniculata in the treatment of upper respiratory tract infections: a systematic review of safety and efficacy.' Planta Medica, vol. 70, no. 4, pp. 293-298."
-  - "Panossian, A. et al. (2002). 'Andrographis paniculata: A review of its pharmacology and clinical efficacy.' Phytomedicine, vol. 9, no. 5, pp. 423-433."
-  - "Okhuarobo, A. et al. (2014). 'Medicinal uses of Andrographis paniculata and its active constituents.' African Journal of Traditional Medicine, vol. 11, no. 5."
-  - "Chopra, R.N. et al. (1956). 'Glossary of Indian Medicinal Plants.' CSIR, New Delhi."
-  - "Puri, A. (1993). 'The Indian Pharmacopoeia.' Controller of Publications, New Delhi."
+  - Calabrese, C. et al. (2000). "Effects of a standardized Andrographis paniculata extract on upper respiratory infection symptoms." Journal of Alternative and Complementary Medicine, 6(3), 217-223.
+  - Chang, H.M. & But, P.P.H. (1986). Pharmacology and Applications of Chinese Materia Medica, Vol. 1. World Scientific Publishing.
+  - Jarukamjorn, K. & Nemoto, N. (2008). "Pharmacological aspects of Andrographis paniculata on health and its major diterpenoid constituent andrographolide." Journal of Health Science, 54(4), 370-381.
+  - Subramanian, P. et al. (2008). "Andrographolide: a potential cancer therapeutic agent from Andrographis paniculata." Current Medicinal Chemistry, 15(24), 2530-2539.
+  - Puri, A. et al. (1993). "Immunostimulant activity of andrographolide." International Journal of Immunopharmacology, 15(1), 1-7.
 ---
 
-# Andrographis paniculata
+## Overview
 
-**Green Chiretta** | **King of Bitters** | **Bhunimba** | **Kalmegh** | **Chuan Xin Lian** | **Creat** | **Hempedu Bumi**
+Andrographis paniculata, known as green chiretta, kalmegh, or the "king of bitters,"
+is an annual herbaceous plant in the family Acanthaceae. Native to South and Southeast
+Asia, it is one of the most widely used medicinal plants in both Ayurvedic and
+traditional Chinese medicine.
 
-*Andrographis paniculata* is an annual herbaceous plant in the acanthus family (Acanthaceae), native to South Asia and Southeast Asia, and one of the most clinically studied medicinal plants in modern phytotherapy. Revered in Ayurveda as *Bhunimba* (literally "the bitter one") and in Traditional Chinese Medicine (TCM) as *Chuan Xin Lian*, it has been used for centuries to treat infections, fevers, and digestive complaints. Modern research has validated its immunostimulatory, antiviral, anti-inflammatory, and hepatoprotective properties, with the strongest clinical evidence supporting its use for upper respiratory tract infections (URTIs). The plant's extreme bitterness — among the most bitter botanicals known — is itself considered therapeutically significant in traditional medical systems.
+The species derives its common name from its intensely bitter taste, attributed to
+diterpenoid lactones — primarily andrographolide — which constitute its principal
+bioactive compounds. Clinical evidence supports its efficacy in treating upper
+respiratory tract infections and as an immunomodulatory agent.
 
-## Taxonomy
+## Taxonomy and Morphology
 
-- **Kingdom:** Plantae
-- **Clade:** Angiosperms, Eudicots, Asterids
-- **Order:** Lamiales
-- **Family:** Acanthaceae
-- **Genus:** *Andrographis*
-- **Species:** *A. paniculata* (Burm.f.) Nees
-- **First described:** Wallich ex Nees, 1832 (originally as *Justicia paniculata* by Burman, 1768)
+**Kingdom:** Plantae — **Family:** Acanthaceae — **Genus:** Andrographis
 
-The genus *Andrographis* contains approximately 28 species distributed across tropical and subtropical Asia. *A. paniculata* is by far the most medicinally significant member of the genus. The specific epithet *paniculata* refers to the paniculate (branched, loose) arrangement of the inflorescence.
+Andrographis paniculata (Burm.f.) Nees was described by Christian Gottfried Daniel
+Nees von Esenbeck. The genus Andrographis contains approximately 28 species distributed
+across tropical Asia.
 
-## Botanical Description
+The plant is an erect, branching annual growing 30–110 cm tall. Stems are
+quadrangular, slender, and dark green, with prominent nodes at leaf junctions.
 
-- **Growth habit:** Erect, annual herb, 30–110 cm tall; branching in the upper portion
-- **Stems:** Slender, quadrangular (four-angled), green to purplish-green, glabrous or sparsely pubescent
-- **Leaves:** Simple, opposite, lanceolate to lance-oblong, 4–12 cm long × 1–3 cm wide; acute apex, cuneate base; margin entire; glabrous on both surfaces; prominent midrib; dark green, somewhat shiny
-- **Flowers:** Small, tubular, borne in axillary and terminal panicles; calyx 5-lobed, green; corolla white to pale pink with purplish markings, 2-lipped, approximately 1–1.5 cm long; blooming from July to September in its native range
-- **Fruit:** Capsule, linear-oblong, approximately 2 cm long, containing numerous small seeds
-- **Seeds:** Small, oblong, yellowish-brown, approximately 2 mm long
-- **Root:** Fibrous, relatively shallow root system
+Leaves are simple, opposite, lanceolate to ovate-lanceolate, 4–8 cm long and
+1–3 cm wide. The lamina is glabrous to sparsely pubescent with an acute apex
+and cuneate base. Venation is prominent with 4–6 lateral nerve pairs.
+
+Flowers are borne in axillary and terminal racemes. Individual flowers are small,
+approximately 1.5 cm long, with a white to pale pink bilabiate corolla. The lower
+lip is marked with purple streaks. Flowering occurs from July through September
+in its native range.
+
+Fruits are linear-oblong capsules approximately 2 cm long, containing numerous
+small, yellowish-brown seeds with longitudinal ridges.
 
 ## Distribution and Habitat
 
-- **Native range:** Indian subcontinent (India, Sri Lanka, Bangladesh, Nepal), Southeast Asia (Thailand, Myanmar, Vietnam, Malaysia, Indonesia, southern China)
-- **Introduced/Cultivated:** Widely cultivated as a medicinal crop in India, China, Thailand, Indonesia, Malaysia, and parts of Africa and tropical America
-- **Habitat:** Open, disturbed areas, forest margins, roadsides, cultivated fields; thrives in moist, fertile soils in tropical and subtropical climates
-- **Climate:** Tropical and subtropical; prefers warm, humid conditions; USDA zones 10–12
-- **Altitude:** Sea level to 500 m, occasionally found up to 1,000 m
-- **Soil:** Prefers well-drained loamy soils rich in organic matter; pH 5.5–7.5; tolerates poor soils but alkaloid content is higher in nutrient-rich conditions
+A. paniculata is native to the Indian subcontinent, Sri Lanka, southern China,
+and mainland Southeast Asia. It has been introduced and naturalized in the
+Caribbean, Central America, and parts of tropical Africa.
 
-## Chemical Constituents
+The species grows in a variety of habitats including forest margins, disturbed
+ground, riverbanks, and cultivated fields. It prefers moist, well-drained loamy
+soils with a pH of 5.5–7.5 and annual rainfall of 1,000–2,000 mm.
 
-The pharmacological activity of *A. paniculata* is primarily attributed to a group of diterpenoid lactones and flavonoids:
+Optimal growth temperature is 25–30°C, with growth declining significantly
+below 15°C. It is cultivated commercially in India, Thailand, China, and
+Indonesia, with India producing the bulk of global raw material supply.
 
-### Primary Active Compounds
+## Bioactive Compounds
 
-- **Andrographolide (C₂₀H₃₀O₅):** The principal bioactive constituent, comprising 0.5–6.0% of dried leaf weight. A bicyclic diterpenoid lactone with potent immunostimulatory, anti-inflammatory, antiviral, and hepatoprotective activity. Andrographolide modulates NF-κB signaling, inhibits COX-2 and iNOS expression, and enhances both innate and adaptive immune responses. It is the compound most responsible for the plant's clinical efficacy in respiratory infections.
-- **Neoandrographolide:** A related diterpenoid lactone with immunostimulatory and anti-inflammatory properties; contributes to overall activity
-- **14-Deoxy-11,12-didehydroandrographolide:** Diterpenoid lactone with significant anti-inflammatory and antipyretic (fever-reducing) activity
-- **Andrographiside:** A glucoside of andrographolide with moderate anti-inflammatory activity
-- **Deoxyandrographolide:** Minor diterpenoid with hepatoprotective properties
+Andrographolide, a bicyclic diterpenoid lactone, is the primary bioactive
+constituent, comprising 1–3% of dried leaf weight. Its IUPAC name is
+3-[2-[(1R,4aS,5R,6R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-
+decahydronaphthalen-1-yl]ethylidene]dihydrofuran-2(3H)-one.
 
-### Flavonoids and Other Compounds
+Additional diterpenoids include neoandrographolide (0.5–1.2%), 14-deoxy-
+andrographolide, 14-deoxy-11,12-didehydroandrographolide, and andrographanin.
 
-- **Flavonoids:** Including andrographin, homoandrographin, and panicolin — antioxidant and anti-inflammatory
-- **Polyphenols:** Various phenolic acids with antioxidant capacity
-- **Volatile oils and alkaloids:** Trace quantities
+Flavonoids present include apigenin-7,4'-dimethyl ether, luteolin, and
+oroxylin A. The plant also contains polyphenols including chlorogenic acid
+and caffeic acid derivatives.
+
+Alkaloid content is minimal; the bitterness is predominantly diterpenoid
+in origin. Total andrographolide content varies with harvest stage, peaking
+during early flowering.
 
 ## Pharmacology
 
-### Immunomodulatory Activity
+Immunomodulatory activity is the most clinically validated effect. Andrographolide
+stimulates both innate and adaptive immune responses, enhancing phagocytosis,
+antibody production, and lymphocyte proliferation.
 
-Andrographolide is a potent immunostimulant affecting multiple immune parameters:
+Anti-inflammatory effects are mediated through inhibition of NF-κB signaling,
+COX-2 suppression, and reduction of pro-inflammatory cytokines including TNF-α,
+IL-1β, and IL-6. These mechanisms underpin efficacy in upper respiratory
+infections.
 
-- **Enhances phagocytosis:** Stimulates macrophage and neutrophil activity
-- **Stimulates antibody production:** Increases IgG and IgA antibody levels
-- **Promotes lymphocyte proliferation:** Enhances T-cell and B-cell activity
-- **Activates NK cells:** Increases cytotoxicity against virus-infected and cancerous cells
-- **Modulates cytokine production:** Upregulates IFN-γ and IL-2 while modulating TNF-α and IL-6 through NF-κB regulation
+Hepatoprotective activity has been demonstrated in models of carbon tetrachloride
+and paracetamol-induced hepatotoxicity. Andrographolide reduces elevated serum
+transaminases and improves hepatic histopathology.
 
-### Antiviral and Anti-inflammatory Activity
+Anticancer properties are an active area of research. Andrographolide induces
+cell cycle arrest at G0/G1 phase and apoptosis in multiple cancer cell lines
+including breast, prostate, and colorectal carcinoma, with relatively low
+toxicity to normal cells.
 
-- **Antiviral:** Demonstrated activity against influenza A, HSV-1/2, hepatitis B, and dengue in vitro
-- **Anti-inflammatory:** Inhibits NF-κB activation, suppresses COX-2 and iNOS expression, reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6); comparable to NSAIDs in animal models without gastrointestinal side effects
-- **Hepatoprotective:** Protects hepatocytes from CCl4, paracetamol, and alcohol-induced damage
-- **Anticancer:** Induces apoptosis in multiple cancer cell lines; primarily preclinical
-- **Antidiabetic and antimalarial:** Preliminary evidence in animal models and in vitro
+Antidiabetic effects include reduction of fasting blood glucose and improved
+glucose tolerance in streptozotocin-induced diabetic models, mediated through
+increased insulin secretion and enhanced peripheral glucose uptake.
 
-### Clinical Evidence
+## Traditional and Clinical Use
 
-The strongest clinical evidence supports *A. paniculata* for upper respiratory tract infections:
+In Ayurveda, the whole plant (known as Bhunimba or Kalmegh) is used as a bitter
+tonic for liver disorders, jaundice, and digestive complaints. It is classified
+as a tikta (bitter) and katu (pungent) rasa herb.
 
-- **URTI prevention and treatment:** Multiple meta-analyses of RCTs demonstrate standardized *Andrographis* extracts (SHA-10 or Kan Jang) significantly reduce duration and severity of common cold symptoms. A 2004 systematic review (Coon & Ernst) found consistent evidence across 7 double-blind trials. Typical symptom reduction: 2–4 days faster than placebo.
+In traditional Chinese medicine, the herb is called Chuan Xin Lian and is
+prescribed for clearing heat, resolving toxicity, and treating sore throats
+and respiratory infections.
 
-## Traditional Use
+Meta-analyses of randomized controlled trials have confirmed superiority of
+standardized A. paniculata extract over placebo for reducing symptoms and
+duration of uncomplicated upper respiratory tract infections. Effect sizes
+are comparable to standard analgesic treatment.
 
-### Ayurveda
+## Cultivation
 
-Known as *Bhunimba* (or *Kalmegh* in Hindi/Urdu), classified as a *tikta rasa* (bitter taste) herb with *ushna virya* (hot potency). Prescribed for:
+Propagation is primarily by seed, sown in nursery beds and transplanted at
+4–6 weeks. Seed rate is approximately 2–3 kg/ha. Germination occurs within
+7–10 days under warm, moist conditions.
 
-- *Jvara* (fever) — considered one of the best herbs for all types of fever
-- *Kamala* (jaundice and liver disorders)
-- *Pravahika* (dysentery and diarrheal diseases)
-- *Vishama jvara* (malaria-like intermittent fevers)
-- *Shotha* (inflammation and edema)
-- *Krimi* (intestinal worms)
-- Skin diseases, wounds, and general debility
+Spacing of 30 × 30 cm is standard, yielding approximately 100,000 plants
+per hectare. Harvesting occurs at full flowering (90–110 days from sowing),
+when andrographolide content peaks. Whole aerial parts are cut 10–15 cm above
+ground level to allow regrowth for a second harvest.
 
-### Traditional Chinese Medicine
-
-Known as *Chuan Xin Lian* (穿心莲, "penetrating the heart lotus"), used to:
-
-- Clear heat and detoxify — one of the primary heat-clearing herbs in the TCM pharmacopoeia
-- Treat sore throat, tonsillitis, and respiratory infections
-- Address damp-heat conditions including diarrhea and dysentery
-- Reduce inflammation and swelling
-
-### Southeast Asian Traditions
-
-- **Thailand:** *Fa Thalai Jone* — one of the most important traditional medicines; officially listed in the Thai Pharmacopoeia; used for fever, cold, diarrhea, and as a general tonic
-- **Malaysia:** *Hempedu Bumi* ("bile of the earth") — used for diabetes, hypertension, and liver disorders
-- **Indonesia:** *Sambiloto* — widely used in *jamu* traditional medicine for fever and digestive complaints
-
-## Warnings
-
-- **Pregnancy:** Contraindicated — abortifacient activity reported
-- **Lactation:** Safety not established; avoid during breastfeeding
-- **Autoimmune conditions:** Immunostimulatory effects may exacerbate autoimmune diseases
-- **Bitter taste:** Can cause GI discomfort at high doses
-- **Drug interactions:** May enhance anticoagulants, antihypertensives, and immunosuppressants
+Average dry herb yield is 2,000–3,500 kg/ha. Post-harvest processing involves
+shade drying to preserve andrographolide content, followed by milling.
 
 ## See Also
 
-- [[echinacea-purpurea]] — Another immunostimulatory herb for respiratory infections
-- [[sambucus-nigra]] — Elderberry, antiviral for respiratory conditions
-- [[hypericum-perforatum]] — St. John's Wort, anti-inflammatory with antiviral properties
-- [[glycyrrhiza-glabra]] — Licorice root, hepatoprotective and anti-inflammatory
-- [[scutellaria-baicalensis]] — Chinese skullcap, heat-clearing TCM herb with antiviral activity
+[[silybum-marianum]] · [[phyllanthus-niruri]] · [[tinospora-cordifolia]] · [[ocimum-tenuiflorum]] · [[glycyrrhiza-glabra]] · [[picrorhiza-kurroa]] · [[azadirachta-indica]] · [[justicia-adhatoda]]

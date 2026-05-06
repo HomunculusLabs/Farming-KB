@@ -134,6 +134,8 @@ Biscotti is highly valued by extract artists due to exceptional resin production
 
 ## See Also
 
+- [[biscotti-strain]]
+
 - [[gelato-cannabis]] — direct parent strain, Sunset Sherbet × Thin Mint GSC
 - [[girl-scout-cookies]] — foundational Cookies family strain
 - [[og-kush]] — ancestor through the South Florida OG lineage

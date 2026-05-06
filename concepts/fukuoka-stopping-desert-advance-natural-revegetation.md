@@ -139,6 +139,8 @@ in humanity's relationship to the living earth.
 
 ## See Also
 
+- [[fukuoka-somalia-refugee-gardens-desert-revegetation]]
+
 - [[fukuoka-desert-greening-projects]]
 - [[fukuoka-clay-pellet-desert-greening]]
 - [[fukuoka-green-belt-projects]]

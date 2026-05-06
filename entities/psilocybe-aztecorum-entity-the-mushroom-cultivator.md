@@ -126,6 +126,8 @@ extensively documented.
 
 ## See Also
 
+- [[psilocybe-heckelii]]
+
 - [[psilocybe-aztecorum-entity]]
 
 - [[psilocybe-angustispora]]

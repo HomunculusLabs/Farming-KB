@@ -143,7 +143,9 @@ Whey is a valuable byproduct of cheese making:
 - Rubbery mozzarella: Curd not hot enough during stretching (must reach 135 F)
 - Off-flavors: Old milk, unclean equipment, or contamination
 
-## Related Topics
+## Related
+
+- [[cheese-cannabis]] Topics
 
 - [[food-fermentation-guide]] for the science of bacterial cultures in food
 - [[food-dehydration-guide]] for preserving aged cheeses

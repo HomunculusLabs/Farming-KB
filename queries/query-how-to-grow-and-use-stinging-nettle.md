@@ -124,6 +124,8 @@ Avoid consuming mature, flowering nettle as it may irritate the urinary tract.
 
 ## Related
 
+- [[query-how-do-i-grow-cacao-and-process-it-into-chocolate]]
+
 - [[stinging-nettle]] Questions
 
 - [[query-how-do-i-use-comfrey-in-the-garden]]

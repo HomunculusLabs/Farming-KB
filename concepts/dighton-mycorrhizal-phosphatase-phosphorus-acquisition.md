@@ -116,6 +116,8 @@ product suppression of the enzyme system.
 
 ## See Also
 
+- [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]]
+
 - [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
 - [[dighton-fungal-roles-in-nutrient-cycling]]
 - [[dighton-ectomycorrhizal-ecosystem-impact]]

@@ -39,7 +39,7 @@ Both crops are confined to humid tropical and subtropical regions, but their spe
 
 ## Soil Preferences
 
-**Cacao** prefers deep, well-drained, fertile loams with high organic matter content (3–5%). Optimal soil pH is 5.0–6.5 (slightly acidic). Cacao is sensitive to poor drainage and waterlogging, which promotes root rot caused by *Phytophthora* species. Volcanic soils and alluvial soils are ideal. A minimum soil depth of 1.5 m is recommended.
+**Cacao** prefers deep, well-drained, fertile loams with high [[lowenfels-composting-science-microbiology|organic matter]] content (3–5%). Optimal soil pH is 5.0–6.5 (slightly acidic). Cacao is sensitive to poor drainage and waterlogging, which promotes root rot caused by *Phytophthora* species. Volcanic soils and alluvial soils are ideal. A minimum soil depth of 1.5 m is recommended.
 
 **Black pepper** grows best in well-drained, rich loamy soils with a pH of 5.5–6.5. It requires soils with good moisture-holding capacity but sharp drainage. Red laterite soils and sandy loams are common growing substrates in India and Southeast Asia. Black pepper is somewhat more tolerant of shallow and less fertile soils than cacao, though yields decline significantly under suboptimal conditions.
 
@@ -83,7 +83,7 @@ This is one of the most significant practical differences between the two crops.
 
 ## Harvest and Post-Harvest Processing
 
-**Cacao** pods are harvested manually when they change color (yellowing or reddening depending on variety). Pods are opened to extract the wet beans surrounded by mucilaginous pulp. Post-harvest processing involves [[fermentation]] (5–7 days in boxes or heaps), which develops flavor precursors, followed by drying (5–14 days) to reduce moisture to 6–8%. Dried beans are then bagged for export. Fermentation and drying quality critically determine the market value, especially for fine-flavor cacao.
+**Cacao** pods are harvested manually when they change color (yellowing or reddening depending on variety). Pods are opened to extract the wet beans surrounded by mucilaginous pulp. Post-harvest processing involves fermentation (5–7 days in boxes or heaps), which develops flavor precursors, followed by drying (5–14 days) to reduce moisture to 6–8%. Dried beans are then bagged for export. Fermentation and drying quality critically determine the market value, especially for fine-flavor cacao.
 
 **Black pepper** spikes are harvested when berries begin turning from green to yellowish-red. For black pepper, entire spikes are picked and spread on drying floors or in solar dryers for 7–10 days. During drying, berries shrivel and turn black, yielding the familiar peppercorn. For white pepper, berries are harvested fully ripe, retted in water for 7–14 days to soften the pericarp, which is then removed by rubbing and washing. Processing is simpler than cacao but requires careful drying to prevent mold and aflatoxin contamination.
 

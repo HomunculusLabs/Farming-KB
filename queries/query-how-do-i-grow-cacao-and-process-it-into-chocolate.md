@@ -13,31 +13,29 @@ sources:
 
 ## Can You Grow Cacao at Home?
 
-Yes, but with caveats. Cacao (*Theobroma cacao*) is a strictly tropical understory tree native to the Amazon basin. It thrives in humid conditions with consistent warmth and filtered sunlight. Growing cacao at home is realistic if you live in a frost-free tropical climate (USDA zones 11–12) or have a heated greenhouse. A single tree can produce enough pods for small-batch chocolate, but expect a multi-year commitment before your first harvest. For a broader look at tropical [[tropical-crop-cultivation]], cacao is one of the more demanding species compared to bananas or papayas.
+Yes, but with caveats. Cacao (*Theobroma cacao*) is a strictly tropical understory tree native to the Amazon basin. It thrives in humid conditions with consistent warmth and filtered sunlight. Growing cacao at home is realistic if you live in a frost-free tropical climate (USDA zones 11–12) or have a heated greenhouse. A single tree can produce enough pods for small-batch chocolate, but expect a multi-year commitment before your first harvest. For a broader look at tropical [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]], cacao is one of the more demanding species compared to bananas or papayas.
 
 ## What Climate Zone Do I Need?
 
 Cacao requires:
-
 - **Temperature:** 21–32 °C (70–90 °F) year-round, never below 15 °C (59 °F)
 - **Rainfall:** 1,500–2,500 mm (60–100 in) annually, well-distributed
 - **Humidity:** 70–90% relative humidity
 - **USDA Hardiness Zones:** 11–12 (southern Florida, Hawaii, Puerto Rico, tropical Pacific islands)
 - **Shade:** Young trees need 40–60% shade; mature trees tolerate more light but still prefer partial canopy
 
-If you are outside these zones, a climate-controlled greenhouse with supplemental humidity and heating is your only option. See [[greenhouse-growing-tropicals]] for setup details.
+If you are outside these zones, a climate-controlled greenhouse with supplemental humidity and heating is your only option. See [[permaculture-greenhouse-indoor-growing]] for setup details.
 
 ## How Do I Start Cacao from Seed?
 
 Cacao seeds lose viability within 1–2 weeks of being removed from the pod, so freshness is critical. Germination steps:
-
 1. **Obtain fresh pods** from a reputable source or local grower. Seeds must still be moist and plump.
 2. **Extract seeds** by opening the pod and pulling them free. Do not wash off the white mucilage pulp — it aids germination.
 3. **Plant immediately** in a loose, well-draining medium (e.g., 50% peat/coir + 50% perlite/vermiculite). Place seeds 2–3 cm deep with the pointed end down.
 4. **Keep warm and humid** — 27–30 °C (80–86 °F) with 80%+ humidity. A propagation heat mat and clear humidity dome work well.
 5. **Germination** typically occurs in 7–21 days. Expect 70–90% success with fresh seed.
 
-Seedlings are sensitive to root disturbance; transplant into individual containers when the first true leaves appear. For more on [[seed-germination-techniques]], consult that guide.
+Seedlings are sensitive to root disturbance; transplant into individual containers when the first true leaves appear. For more on [[seed-germination-techniques-solomon]], consult that guide.
 
 ## What Soil and Site Conditions Does Cacao Need?
 
@@ -50,7 +48,7 @@ Seedlings are sensitive to root disturbance; transplant into individual containe
 | Wind protection | Essential — cacao has brittle branches |
 | Elevation | 0–600 m (0–2,000 ft); some varieties tolerate up to 900 m |
 
-Avoid heavy clay soils and low-lying areas prone to flooding. Raised beds or mounds improve drainage in marginal sites. For soil amendment strategies, see [[soil-preparation-for-fruit-trees]].
+Avoid heavy clay soils and low-lying areas prone to flooding. Raised beds or mounds improve drainage in marginal sites. For soil amendment strategies, see [[query-how-to-design-a-food-forest-guild-for-fruit-trees]].
 
 ## How Do I Plant and Care for Young Cacao Trees?
 
@@ -66,7 +64,7 @@ Avoid heavy clay soils and low-lying areas prone to flooding. Raised beds or mou
 - **Watering:** Keep soil consistently moist but never waterlogged. During dry spells, water deeply 2–3 times per week.
 - **Fertilizing:** Apply a balanced fertilizer (e.g., 10-10-10) quarterly, plus micronutrient sprays (boron, zinc) twice yearly.
 - **Mulching:** Maintain a 5–10 cm layer of organic mulch around the base, keeping it away from the trunk.
-- **Pruning:** Remove dead, diseased, or crossing branches. Shape young trees to encourage a low, spreading canopy (see [[pruning-tropical-fruit-trees]]).
+- **Pruning:** Remove dead, diseased, or crossing branches. Shape young trees to encourage a low, spreading canopy (see [[no-pruning-fruit-trees]]).
 
 ## How Long Until My Tree Produces Pods?
 
@@ -81,8 +79,7 @@ From seed, cacao trees begin flowering at **3–5 years**. Pods mature about 150
 | **Witches' broom** (Moniliophthora perniciosa) | Bunched, distorted shoots; unproductive growth | Prune affected branches; resistant varieties; fungicide sprays |
 | **Mirids (Sahlbergella)** | Feeding damage on pods and shoots; dark spots | Neem oil sprays; biological control with ants |
 | **Mammals** (squirrels, monkeys, rodents) | Pod damage and theft | Protective netting; traps; companion plant barriers |
-
-Integrated pest management is essential. See [[pest-management-in-tropical-orchards]] for detailed strategies.
+Integrated pest management is essential. See [[query-what-is-integrated-pest-management-for-organic-gardens]] for detailed strategies.
 
 ## When and How Do I Harvest Cacao Pods?
 
@@ -105,7 +102,7 @@ Fermentation is the most critical step for flavor development. It removes the pu
 5. **Temperature:** Internal temperature should reach 45–50 °C (113–122 °F) by day 2–3.
 6. **End point:** Beans turn from white/pale to brown, the pulp drains away, and the astringent smell gives way to a sweet, fruity, vinegar-like aroma.
 
-Successful fermentation depends on a sequence of yeasts → lactic acid bacteria → acetic acid bacteria → Bacillus species. For the science behind this, see [[fermentation-principles-for-food-processing]].
+Successful fermentation depends on a sequence of yeasts → lactic acid bacteria → acetic acid bacteria → Bacillus species. For the science behind this, see fermentation principles for food processing.
 
 ## How Do I Dry and Roast the Beans?
 
@@ -128,7 +125,6 @@ Successful fermentation depends on a sequence of yeasts → lactic acid bacteria
 ### Winnowing
 
 Crack roasted beans with a rolling pin, grain mill, or specialized cracker. Separate the shells (nibs fall out) by:
-
 - **Manual:** Toss cracked beans in a bowl; the breeze blows away lighter shells.
 - **Hair dryer:** Set to cool/low and blow shells away from nibs on a tray.
 - **Winnowing machine:** Best for larger batches.
@@ -153,12 +149,11 @@ Crack roasted beans with a rolling pin, grain mill, or specialized cracker. Sepa
 4. **Test** by spreading a thin layer on parchment. It should set within 3–5 minutes with a glossy finish and clean snap.
 5. **Pour** into molds and cool at 12–15 °C (54–59 °F) for 30–60 minutes.
 
-For more detail on tempering and equipment, see [[chocolate-making-at-home]].
+For more detail on tempering and equipment, see [[query-how-do-i-start-making-fermented-dairy-at-home]].
 
 ## Can I Grow Cacao in a Greenhouse in Cooler Climates?
 
 Yes, but it requires a significant investment in climate control:
-
 - **Minimum size:** 3 × 3 m (10 × 10 ft) per tree for adequate airflow and light.
 - **Temperature control:** Maintain 24–30 °C (75–86 °F) daytime, 18–21 °C (64–70 °F) nighttime. Heating pads or a radiant heater are essential in winter.
 - **Humidity:** 70%+ via misting systems, humidifiers, or pebble trays.
@@ -166,12 +161,11 @@ Yes, but it requires a significant investment in climate control:
 - **Pollination:** Cacao is pollinated by tiny midges (Ceratopogonidae), absent in most greenhouses. Hand-pollinate flowers using a fine brush — transfer pollen from one flower to another on the same tree or a different tree.
 - **Ventilation:** Critical to prevent fungal diseases. Use oscillating fans and screened vents.
 
-A greenhouse-grown tree may produce fewer pods but can still yield enough for small-batch chocolate. See [[greenhouse-growing-tropicals]] for construction and management tips.
+A greenhouse-grown tree may produce fewer pods but can still yield enough for small-batch chocolate. See [[permaculture-greenhouse-indoor-growing]] for construction and management tips.
 
 ## What Are the Best Companion Plants for Cacao?
 
 Cacao naturally grows under a tropical canopy, making [[agroforestry]] companion planting both practical and beneficial:
-
 | Companion | Benefit |
 |-----------|---------|
 | **Banana/plantain** (Musa spp.) | Fast shade establishment; windbreak; mulch from leaves |
@@ -182,7 +176,6 @@ Cacao naturally grows under a tropical canopy, making [[agroforestry]] companion
 | **Breadfruit** (Artocarpus altilis) | Deep shade for mature trees; food crop |
 | **Black pepper** (Piper nigrum) | Climbs cacao trunks; additional income |
 | **Timber trees** (Cordia, Terminalia) | Long-term shade and timber harvest |
-
 Avoid planting aggressive root competitors or allelopathic species near cacao. The ideal agroforestry system provides 25–50% overhead shade.
 
 ## Summary / Quick Reference

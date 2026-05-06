@@ -146,3 +146,7 @@ since they may repel beneficials as well.
 Nearly any pollen- or nectar-producing flower will
 attract beneficial insects. These fall into two
 ## See Also
+
+- [[food-forest-design]] for applying these plant roles in edible landscape design
+- [[mycorrhizal-fungi]] for the underground fungal partners that connect plant guilds
+- [[plant-guild]] for how multiple plant roles combine in complementary groupings

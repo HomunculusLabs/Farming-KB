@@ -105,6 +105,8 @@ gourmet mushrooms, including Chanterelles, Boletes, and Truffles.
 
 ## See Also
 
+- [[tricholoma-murrillianum]]
+
 - [[fukuoka-matsutake-artificial-cultivation-attempt]]
 - [[cantharellus-cibarius]]
 - [[boletus-edulis]]

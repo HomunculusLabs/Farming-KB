@@ -145,3 +145,7 @@ productive species in saline conditions. Damaged roots of Z. jujuba
 produce suckers that can be separated and transplanted. See also
 [[vegetative-propagation-methods-mollison]] and [[biointensive-seed-saving]]
 for general propagation techniques.
+
+## See Also
+
+- [[ziziphus-jujuba]]

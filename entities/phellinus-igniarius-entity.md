@@ -143,6 +143,8 @@ raised concerns in China and Korea. Cultivation is challenging due to slow
 growth and specific substrate requirements.
 
 ## See Also
+
+- [[dichomitus-squalens]]
 - [[phellinus-linteus]]
 - [[phellinus-ferreus]]
 - [[inonotus-hispidus-entity]]

@@ -108,6 +108,8 @@ Processed yam products include yam flour, dehydrated yam chips, and instant yam 
 
 ## See Also
 
+- [[dioscorea-esculenta]]
+
 - [[pachyrhizus-erosus]]
 - [[colocasia-esculenta]]
 - [[mollison-designers-cassava-tropical-root-crops]]

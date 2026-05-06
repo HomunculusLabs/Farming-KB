@@ -146,3 +146,7 @@ Thinning primarily applies to outdoor growers but is also relevant for
 SOG, ScrOG, and BOG indoor setups. The goal is to maintain uniform plant
 height across the grow area for even light distribution.
 ## See Also
+
+- [[cannabis-vegetative-stage]] for timing and context of topping and pruning
+- [[cannabis-flowering-stage]] for why pruning must stop before bloom
+- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] for advanced training integration

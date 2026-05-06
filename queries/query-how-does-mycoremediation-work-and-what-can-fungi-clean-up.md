@@ -108,7 +108,9 @@ part of an integrated remediation strategy rather than a standalone solution.
 - mycoforestry|Mycoforestry integrates remediation with reforestation on contaminated land
 - Works best as part of an integrated strategy with biostimulation-techniques|biostimulation and bioaugmentation-strategies|bioaugmentation
 
-## Related Questions
+## Related
+
+- [[query-how-does-induced-systemic-resistance-work-and-how-can-biocontrol-agents-trigger-it]] Questions
 [[query-what-is-mycoremediation-and-how-does-it-work]]
 [[query-can-fungi-clean-up-oil-spills]]
 [[query-difference-between-white-rot-and-brown-rot-fungi]]

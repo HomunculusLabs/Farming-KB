@@ -101,6 +101,8 @@ Fukuoka's natural barley and rice method consistently produced yields comparable
 
 ## See Also
 
+- [[fukuoka-intermediate-species-sink-float-hypothesis]]
+
 - [[fukuoka-winter-grain-rice-rotation]]
 - [[fukuoka-rice-barley-step-by-step-method]]
 - [[fukuoka-rice-barley-no-till-method]]

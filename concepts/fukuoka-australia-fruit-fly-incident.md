@@ -100,6 +100,8 @@ into the country past the quarantine barrier.
 
 ## See Also
 
+- [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]]
+
 - [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
 
 - [[fukuoka-medfly-quarantine]]

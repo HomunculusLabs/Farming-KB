@@ -185,3 +185,6 @@ challenges for standardization in both research and therapeutic applications.
 - [[psilocybe-cubensis-profile]]
 
 - [[psilocybin-biosynthesis-pathway]]
+- [[amanita-muscaria-chemistry-and-pharmacology]] for comparison with the GABAergic muscimol/ibotenic acid pathway
+- [[neurotropic-fungi-world-checklist]] for species-level potency data
+- [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]] for contradictory chemical analyses

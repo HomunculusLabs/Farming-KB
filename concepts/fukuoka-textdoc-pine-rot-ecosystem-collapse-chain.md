@@ -92,7 +92,9 @@ The cascade effects extend far beyond the pines themselves:
 
 This chain of ecological disruption — each intervention creating the need for further intervention — demonstrates the futility of symptom-based approaches to what are systemic problems.
 
-## Related Concepts
+## Related
+
+- [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]] Concepts
 
 - [[fukuoka-pine-blight-matsutake-research|Pine Blight and Matsutake Research]]
 - [[fukuoka-pine-environment-collapse-japan|Pine Environment Collapse in Japan]]

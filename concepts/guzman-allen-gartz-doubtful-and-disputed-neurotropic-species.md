@@ -127,3 +127,5 @@ of species used as sacred fungi without reliable chemical verification.
 ## See Also
 
 - [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
+- [[neurotropic-fungi-world-checklist]] for the classification framework these disputes inform
+- [[psilocybin-chemistry-and-pharmacology]] for the chemical analysis methods underlying these debates
