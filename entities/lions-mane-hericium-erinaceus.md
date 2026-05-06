@@ -1,24 +1,27 @@
 ---
-title: Lion's Mane Mushroom (Hericium erinaceus)
-created: 2026-04-28
+title: Lion's Mane Mushroom
 type: species
 tags:
-  - fungi
-  - medicinal-mushroom
-  - nootropic
   - mycology
-  - neuroprotective
+  - medicinal-fungi
+  - nootropic
+  - adaptogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Wong, K.H. et al. (2022). "Hericium erinaceus: A comprehensive review of its traditional uses, phytochemistry, and pharmacological properties." Frontiers in Pharmacology, 13, 873872.
-  - Mori, K. et al. (2009). "Improving effects of the mushroom Yamabushitake (Hericium erinaceus) on mild cognitive impairment." Phytotherapy Research, 23(3), 367-372.
-  - Kawagishi, H. et al. (2004). "Two kinds of novel compounds that stimulate nerve growth factor synthesis, hericenones and erinacines." Biotechnology Letters, 26(4), 327-330.
-  - Li, I.C. et al. (2020). "Neurohealth properties of Hericium erinaceus (Lion's Mane) mushroom and its bioactive compounds." Journal of Fungi, 6(4), 294.
-  - Friedman, M. (2015). "Mushroom polysaccharides: Chemistry, bioactivity, and health benefits." Journal of Agricultural and Food Chemistry, 63(45), 9863-9873.
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6466254/
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8866364/
+  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/hericium-erinaceus
+  - https://www.frontiersin.org/articles/10.3389/fphar.2023.1252878/full
+  - https://www.britishmycologicalsociety.org/
+  - https://www.mycobank.org/
 ---
 
-# Lion's Mane Mushroom (Hericium erinaceus)
+# Lion's Mane Mushroom (*Hericium erinaceus*)
+
+## Overview
+
+Lion's Mane (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group. Renowned for its cascading white spines that resemble a lion's mane, it has garnered significant scientific attention for its neurotrophic and neuroprotective properties. It is one of the most studied medicinal mushrooms in modern neuroscience research, with particular interest in its potential to stimulate nerve growth factor (NGF) synthesis and support cognitive function.
 
 ## Taxonomy
 
@@ -32,115 +35,116 @@ sources:
 | Genus | *Hericium* |
 | Species | *H. erinaceus* |
 
-First described by Linnaeus in 1753 as *Hydnum erinaceus*, later reclassified into *Hericium* by Persoon in 1797. The epithet *erinaceus* is Latin for "hedgehog," referring to the cascading spiny fruiting body.
+- **Authority:** (Bull.) Pers. (1797)
+- **Synonyms:** *Hydnum erinaceus* Bull., *Steccherinum erinaceum* (Bull.) Banker
+- **Common names:** Lion's Mane, Bearded Tooth, Bearded Hedgehog, Satyr's Beard, Yamabushitake (Japan), Hóu Tóu Gū (China)
 
 ## Morphology
 
-The fruiting body of *Hericium erinaceus* is among the most distinctive of all edible mushrooms:
+- **Fruiting body:** 5–25 cm across, forming irregular, spherical to ovoid masses of soft, pendant spines
+- **Spines (teeth):** 1–5 cm long, 1–2 mm thick, white to cream, cascading downward from a short, solid stalk or branching base
+- **Context (flesh):** White, soft and tender when young, becoming tough and fibrous with age
+- **Spore print:** White
+- **Spores:** Globose to subglobose, 5–7 × 5–6 µm, smooth, amyloid
+- **Odor & taste:** Mild, pleasant, slightly sweet; taste often compared to lobster or crab
 
-- **Fruiting body**: Large, irregular mass of soft, hanging spines (teeth), 5–25 cm in diameter. Spines are 1–6 cm long, white to cream-colored, descending from a branched base.
-- **Spore print**: White. Spores spherical to subglobose, 5–7 µm, amyloid.
-- **Flesh**: White and fleshy when young, becoming tough with age. Cooks to a texture often compared to lobster or crab.
-- **Lifecycle**: White-rot saprotroph and facultative parasite; annual fruiting bodies in late summer through autumn.
+### Foraging Identification Tips
 
-## Habitat and Distribution
+- Look for pendant white spines growing on dead or dying hardwoods, especially oaks and walnuts
+- Distinguish from other *Hericium* species: *H. coralloides* branches from a central point (more coral-like), *H. americanum* has longer spines on more distinct branches, *H. erinaceus* has unbranched spines growing from a single mass
+- Always confirm spore print is white; avoid collecting from polluted areas or near treated wood
+- Young, fresh specimens are preferred for both culinary and medicinal use
 
-Found across temperate and boreal forests of the Northern Hemisphere, with significant populations in North America (eastern deciduous forests, Pacific Northwest), Europe (widespread but declining), and Asia (abundant in China, Japan, Korea). Grows predominantly on dead or dying hardwoods — especially oaks (*Quercus*), walnuts (*Juglans*), beeches (*Fagus*), and sycamores (*Platanus*). Prefers mature forests with abundant coarse woody debris; fruits after sustained cool, wet periods.
+## Habitat & Distribution
+
+- **Substrate:** Saprotrophic on dead and dying hardwoods; occasionally weakly parasitic on living trees
+- **Preferred hosts:** Oak (*Quercus* spp.), walnut (*Juglans* spp.), beech (*Fagus* spp.), birch (*Betula* spp.), sycamore, and maple
+- **Geographic range:** Widely distributed across North America (east of the Rocky Mountains), Europe, and Asia. Found in temperate and boreal forests
+- **Fruiting season:** Late summer to autumn (August–November in the Northern Hemisphere); occasionally in spring
 
 ## Cultivation
 
-Commercially cultivated on supplemented hardwood sawdust blocks:
+| Parameter | Optimal Range |
+|-----------|--------------|
+| Substrate | Hardwood sawdust (oak, beech), supplemented with bran (10–20%) |
+| Temperature (colonization) | 22–26 °C |
+| Temperature (fruiting) | 16–20 °C |
+| Humidity | 85–95% RH |
+| Light | Indirect ambient light (500–1000 lux) |
+| Fresh air exchange | High (critical for proper spine formation) |
+| pH | 5.0–6.5 |
+| Colonization time | 14–21 days |
+| Time to first harvest | 28–40 days from inoculation |
 
-- **Substrate**: Hardwood sawdust supplemented with wheat or rice bran (10–20%).
-- **Spawn colonization**: 14–21 days at 22–25°C.
-- **Fruiting induction**: Reduced temperature (16–20°C), high humidity (85–95%), indirect light.
-- **Yield**: Biological efficiency 50–120%; harvest 7–14 days after primordia.
-- **Methods**: Bottles, bags, and logs common in commercial operations, particularly in Japan and China.
+- Commercially cultivated on sterilized hardwood sawdust blocks or supplemented sawdust in bags
+- Cold shock (drop to 10–15 °C for 12–24 hours) can trigger fruiting initiation
+- Biological efficiency typically ranges from 70–120%
+- Yields of 200–400 g fresh per kg dry substrate are common in commercial operations
 
 ## Bioactive Compounds
 
-### Hericenones
+### Hericenones and Erinacines (Neurotrophic Compounds)
 
-Aromatic compounds isolated from the fruiting body. At least 13 hericenones (A–H, C3–C6, P–Q) identified. Hericenones C, D, E, F, G, and H stimulate nerve growth factor (NGF) synthesis in cultured astrocytes. These lipophilic compounds are found primarily in the fruiting body, not the mycelium.
+| Compound Class | Location | Key Compounds |
+|----------------|----------|---------------|
+| Hericenones | Fruitbody | Hericenones C, D, E, F, G, H |
+| Erinacines | Mycelium | Erinacines A, B, C, D, E, F, G, H, I, S |
 
-### Erinacines
+- **Erinacine A** is considered the most potent stimulator of NGF synthesis, found exclusively in the mycelial culture
+- **Hericenones C and D** have demonstrated NGF-enhancing activity in vitro and in vivo
+- Both compound classes are small, lipophilic molecules capable of crossing the blood-brain barrier
 
-Cyathane-type diterpenoids isolated predominantly from mycelial culture. Erinacines A–I and S have been characterized, with erinacine A being the most studied. Erinacines are more potent NGF stimulators than hericenones and are found in the mycelium rather than the fruiting body — a critical distinction for supplement formulation.
+### Polysaccharides and Other Compounds
 
-### β-Glucan Polysaccharides
+- **β-Glucans:** (1→3)-β-D-glucan and (1→6)-β-D-glucan linkages; immunomodulatory activity; content ranges from 15–30% dry weight depending on substrate and strain
+- **Hericium polysaccharides:** Water-soluble heteroglycans with demonstrated antitumor and antioxidant activity
+- **Other constituents:** Ergosterol (provitamin D₂), lectins, terpenoids, and phenolic compounds (hericenols, hericenonols)
+- **Amino acid profile:** Rich in glutamic acid, aspartic acid, and essential amino acids
 
-Rich in β-(1,3)(1,6)-D-glucans (15–30% dry weight), contributing to immunomodulatory and anti-inflammatory activity. Additional constituents include hericiumones (phenolic antioxidants), terpenoids, sterols, and antimicrobial lectins.
+## Traditional & Modern Uses
 
-## Medicinal Properties
+### Traditional Medicine
+
+- **Traditional Chinese Medicine (TCM):** Used for centuries to nourish the spleen, strengthen the stomach, and promote digestion
+- **Japanese Kampo medicine:** Known as *yamabushitake*; historically used by Buddhist monks to enhance concentration during meditation
+- **Other traditions:** Applied topically for wound healing; consumed as a general tonic for vitality and longevity
+
+### Modern Applications
+
+- **Nootropic supplement:** Widely marketed and studied for cognitive enhancement, memory support, and neuroprotection
+- **Neurological conditions:** Investigated in clinical trials for mild cognitive impairment (MCI), Alzheimer's disease, and Parkinson's disease
+- **Mental health:** Studied for potential antidepressant and anxiolytic effects via modulation of the gut-brain axis
+- **Immune support:** β-glucan content supports innate immune function
+
+## Pharmacology
 
 ### Nerve Growth Factor (NGF) Stimulation
 
-The most significant pharmacological action of *H. erinaceus* is stimulation of NGF synthesis. NGF is essential for neuronal growth, maintenance, and survival. Both hericenones and erinacines cross the blood-brain barrier and upregulate NGF mRNA expression in the hippocampus and cortex.
+- Erinacines and hericenones stimulate NGF synthesis via activation of the PI3K/Akt and MAPK/ERK signaling pathways in astrocytes
+- In a landmark 2009 double-blind, placebo-controlled clinical trial (Mori et al.), 50–80 year-old subjects with mild cognitive impairment showed significant improvement in cognitive function after 16 weeks of oral *H. erinaceus* supplementation (3 g/day dried powder)
+- Cognitive scores declined after cessation, suggesting sustained intake is necessary
 
-### Cognitive Enhancement
+### Additional Pharmacological Activities
 
-A landmark 2009 double-blind, placebo-controlled trial (Mori et al.) demonstrated that 16 weeks of oral *H. erinaceus* (3 g/day dried powder) significantly improved cognitive function in subjects with mild cognitive impairment. Improvements diminished after supplementation ceased, suggesting ongoing intake is required.
-
-### Nerve Regeneration
-
-Animal studies show erinacines promote peripheral nerve regeneration following crush injuries, accelerate functional recovery, and reduce neuropathic pain. Potential applications include peripheral neuropathy, diabetic nerve damage, and post-surgical nerve repair.
-
-### Neuroprotective Effects
-
-Multiple protective mechanisms have been identified:
-
-- **Anti-amyloid**: Inhibits β-amyloid plaque formation in Alzheimer's disease models.
-- **Anti-inflammatory**: Reduces neuroinflammation by modulating microglial activation and suppressing NF-κB signaling.
-- **Antioxidant**: Scavenges reactive oxygen species; upregulates SOD, catalase, and GPx.
-- **Anti-apoptotic**: Protects neurons from glutamate-induced excitotoxicity.
-
-### Additional Properties
-
-- **Antidepressant/anxiolytic**: Reduces depressive-like behaviors in animal models via hippocampal BDNF/TrkB pathway modulation.
-- **Gastroprotective**: Protects against ethanol- and NSAID-induced gastric mucosal damage.
-- **Immunomodulatory**: β-glucans enhance macrophage activity, NK cell cytotoxicity, and cytokine production.
+- **Anti-inflammatory:** Suppresses NF-κB and MAPK inflammatory signaling cascades; reduces pro-inflammatory cytokines (TNF-α, IL-1β, IL-6)
+- **Antioxidant:** Scavenges free radicals; upregulates endogenous antioxidant enzymes (SOD, catalase, GPx)
+- **Antitumor:** Polysaccharide fractions have demonstrated antitumor activity against gastric, colon, and breast cancer cell lines; apoptosis induction via mitochondrial pathways
+- **Gut health:** Promotes growth of beneficial gut microbiota (*Bifidobacterium*, *Lactobacillus*); supports intestinal barrier integrity
+- **Myelination:** In vitro and animal studies suggest potential for enhancing myelination processes relevant to demyelinating conditions
 
 ## Culinary Uses
 
-Prized for its delicate, sweet, seafood-like flavor compared to lobster, crab, or scallops. Applications include pan-frying in butter, incorporation into risottos, pastas, and cream soups, and use as a shellfish substitute in vegetarian cuisine. Young, fresh specimens with white spines offer the best texture. Should be cooked thoroughly before consumption.
+- **Texture:** Tender and meaty when young; comparable to crab or lobster meat; suitable as a seafood substitute
+- **Preparation:** Best when cooked—sauté, pan-fry, grill, or deep-fry; do not consume raw in large quantities
+- **Flavor pairings:** Butter, garlic, cream sauces, lemon, thyme, white wine; pairs well with risotto, pasta, and omelets
+- **Storage:** Refrigerate fresh specimens for up to 7–10 days; dehydrate for long-term storage (retains bioactive compounds)
+- **Nutrition:** Low in calories; good source of protein, fiber, potassium, zinc, and ergothioneine (antioxidant amino acid)
 
-## Dosage and Preparation
+## References
 
-| Form | Typical Dose | Notes |
-|------|-------------|-------|
-| Dried fruiting body powder | 1–3 g/day | Most common; standard in clinical trials |
-| Dual extract (fruiting body) | 500–1,000 mg/day | Concentrated hericenones and β-glucans |
-| Mycelial extract | 500 mg/day | Primary source of erinacines |
-| Fresh mushroom | 100–300 g/day | Culinary preparation |
-| Tincture (1:1) | 2–4 mL/day | Sublingual or in water |
-
-Dual extraction (water + ethanol) captures both water-soluble β-glucans and alcohol-soluble hericenones. Products combining fruiting body and mycelium offer the broadest spectrum (hericenones + erinacines).
-
-## Research Status
-
-Research has accelerated since 2010. Active areas include:
-
-- **Clinical trials**: Ongoing Phase II trials for Alzheimer's and Parkinson's disease.
-- **Mechanistic studies**: Mapping of NGF signaling pathways and downstream neurotrophic effects.
-- **Formulation research**: Bioavailability enhancement via liposomal delivery and standardization of active compounds.
-- **Comparative studies**: Head-to-head comparisons of fruiting body, mycelium, and combined formulations.
-
-The evidence base is strongest for cognitive enhancement in MCI; large-scale RCTs are still needed for definitive clinical recommendations.
-
-## Safety Profile
-
-*H. erinaceus* is generally regarded as safe (GRAS) with centuries of dietary use in East Asian cuisine and medicine:
-
-- **Adverse effects**: Rare; occasional mild GI discomfort (nausea, bloating) at higher doses.
-- **Allergies**: Case reports of contact dermatitis from handling fresh specimens; rare respiratory sensitivity in cultivation workers.
-- **Drug interactions**: No well-documented interactions; theoretical concern with immunosuppressants due to β-glucan content.
-- **Pregnancy/lactation**: Insufficient data; caution advised.
-- **Toxicity**: No acute toxicity at doses up to 5 g/kg in animal studies. No chronic adverse effects at standard supplemental doses.
-
-## See Also
-
-- [[lions-mane-indoor-cultivation]]
-- [[comparison-lions-mane-vs-reishi-medicinal-mushrooms]]
-- [[comparison-lions-mane-vs-cordyceps-cultivation]]
-- [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
-- [[lions-mane-guide]]
+1. Mori, K., Inatomi, S., Ouchi, K., Azumi, Y., & Tuchida, T. (2009). Improving effects of the mushroom *Yamabushitake* (Hericium erinaceus) on mild cognitive impairment: A double-blind placebo-controlled clinical trial. *Phytotherapy Research*, 23(3), 367–372.
+2. Wong, K. H., Sabaratnam, V., Abdullah, N., Kuppusamy, U. R., & Naidu, M. (2007). Effects of cultivation techniques and processing on antimicrobial and antioxidant activities of *Hericium erinaceus* (Bull.: Fr.) Pers. *Food Chemistry*, 101(4), 1657–1663.
+3. Wang, C., Zhao, J., Liu, S., Yang, F., Tang, L., & Fang, G. (2014). Cytotoxic and immunomodulatory activities of polysaccharides from *Hericium erinaceus*. *International Journal of Biological Macromolecules*, 66, 351–356.
+4. Phan, C. W., David, P., Naidu, M., Wong, K. H., & Sabaratnam, V. (2015). Therapeutic potential of culinary-medicinal mushrooms for the management of neurodegenerative diseases. *Journal of Medicinal Food*, 18(2), 151–163.
+5. Chong, P. S., Fung, S. Y., Tan, S. N., & Ng, S. T. (2020). Hericium erinaceus: From culinary delicacy to the development of therapeutic applications for neurological health. *Frontiers in Aging Neuroscience*, 12, 151.
+6. Friedman, M. (2015). Chemistry, nutrition, and health-promoting properties of Hericium erinaceus (Lion's Mane) mushroom mycelium and fruiting body. *Journal of Agricultural and Food Chemistry*, 63(35), 7708–7716.

@@ -1,159 +1,147 @@
 ---
-title: "Comfrey (Symphytum officinale)"
-created: 2026-04-28
+title: Comfrey (Symphytum officinale)
 type: species
 tags:
   - permaculture
+  - herbal-plant
   - dynamic-accumulator
-  - medicinal-plant
-  - compost-crop
-  - soil-remediation
+  - medicinal
+  - boraginaceae
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Hoffmann, D. (2003). Medical Herbalism: The Science and Practice of Herbal Medicine. Healing Arts Press."
-  - "Whitefield, P. (2004). The Earth Care Manual: A Permaculture Handbook for Britain and Other Temperate Climates. Permanent Publications."
-  - "Foster, S. & Duke, J.A. (2014). A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. 3rd ed. Houghton Mifflin Harcourt."
-  - "Rodale, J.I. (1971). The Encyclopedia of Organic Gardening. Rodale Books."
-  - "Rode, D. (2002). Comfrey: Past, Present and Future. Northampton: GR Heffernan."
+  - https://pfaf.org/user/Plant.aspx?LatinName=Symphytum+officinale
+  - https://www.fs.usda.gov/wildflowers/plant-of-the-week/symphytum_officinale.shtml
+  - https://pubmed.ncbi.nlm.nih.gov/?term=symphytum+officinale+pyrrolizidine+alkaloids
+  - https://www.rhs.org.uk/plants/10888/symphytum-officinale/details
+  - https://www.ema.europa.eu/en/documents/herbal-monograph/final-eu-herbal-monograph-symphyti-radicis-folium-herba-revision-1_en.pdf
 ---
 
 # Comfrey (*Symphytum officinale*)
 
-Comfrey is a vigorous, deep-rooted perennial herb in the family Boraginaceae,
-long valued in both traditional herbal medicine and permaculture systems for its
-remarkable biomass production and nutrient-accumulating capabilities.
+## Overview
+Comfrey is a perennial herbaceous plant in the family Boraginaceae, native to Europe and naturalized across temperate regions worldwide. Renowned in both permaculture and herbal medicine, it is valued for its deep taproot system capable of mining nutrients from subsoil horizons and its wound-healing properties. The genus name *Symphytum* derives from the Greek *symphyein* ("to unite"), reflecting its traditional use in knitting bones and tissues. Common names include knitbone, boneset, and bruisewort.
 
 ## Taxonomy
-
-| Rank | Classification |
-|------|---------------|
-| Family | Boraginaceae |
-| Genus | *Symphytum* |
-| Species | *S. officinale* |
-| Common names | Comfrey, knitbone, boneset, bruisewort |
+- **Kingdom:** Plantae · **Order:** Boraginales · **Family:** Boraginaceae
+- **Genus:** *Symphytum* · **Species:** *S. officinale* L.
+- **Synonyms:** *S. consolida*, *S. peregrinum* (often conflated with Russian comfrey *S. × uplandicum*)
 
 ## Morphology
+- **Growth habit:** Clump-forming perennial, 60–150 cm tall
+- **Roots:** Thick branched taproot extending 1.5–3 m deep; black exterior, white fleshy interior; extremely difficult to eradicate
+- **Stems:** Erect, hollow, bristly-hairy, branched in upper portions
+- **Leaves:** Large lanceolate to ovate, 15–30 cm; basal rosette with winged petioles; upper leaves sessile; coarse trichomes
+- **Flowers:** Bell-shaped, pendulous, 12–18 mm; creamy-white to purple-pink; cymose scorpioid inflorescences; blooms May–July
+- **Fruit:** Cluster of four glossy black nutlets (schizocarps)
 
-Comfrey is a clump-forming perennial growing 60–150 cm tall with large,
-lance-shaped, hairy leaves up to 30 cm long arranged in a rosette. Smaller stem
-leaves clasp the hairy, winged stems. Bell-shaped flowers appear from late
-spring through midsummer in nodding clusters (cymes), ranging from creamy-white
-to purple-violet. The thick, branching taproot extends 2 m+ into the subsoil —
-the basis of its dynamic accumulator status.
-
-## Native Range
-
-*S. officinale* is native to Europe and western Asia, from the British Isles
-eastward through central Europe into the Caucasus and western Siberia. It grows
-naturally in damp meadows, riverbanks, ditches, and woodland edges, and has been
-widely naturalized in temperate regions worldwide.
-
-## Permaculture Role
+## Permaculture Applications
 
 ### Dynamic Accumulator
+Comfrey is the quintessential dynamic accumulator. Its deep taproot mines potassium, phosphorus, calcium, and trace minerals from subsoil layers inaccessible to shallow-rooted plants, depositing them in above-ground biomass.
 
-Comfrey is one of the premier dynamic accumulators in temperate permaculture.
-Its deep taproot mines potassium (K), phosphorus (P), calcium (Ca), and trace
-minerals from subsoil horizons inaccessible to shallower-rooted plants, concentrating
-them in the leaf tissue for cycling back through the system. The root architecture
-also acts as a biological subsoiler, penetrating compacted layers to improve soil
-structure and drainage while drawing leached nutrients back into the biological cycle.
+| Nutrient | Comfrey Leaf (dry weight) | Typical Garden Soil |
+|----------|--------------------------|---------------------|
+| Nitrogen (N) | 3.0–5.0% | Low (fast-depleting) |
+| Phosphorus (P) | 0.8–1.5% | Moderate |
+| Potassium (K) | 5.0–8.0% | Often deficient |
+| Calcium (Ca) | 2.0–3.0% | Variable |
 
 ### Chop-and-Drop Mulch
+Leaves can be cut 3–5 times per growing season. Fresh leaves decompose rapidly (~6 weeks), releasing nutrients directly to the soil surface. Each cutting yields roughly 1–2 kg of fresh biomass per mature plant.
 
-A well-established comfrey plant can be cut 4–6 times per growing season. The
-harvested foliage is laid directly as surface mulch around fruit trees,
-vegetables, or other crops. As it decomposes, it releases concentrated
-nutrients and adds organic matter to the topsoil.
+### Compost Tea
+Leaves are fermented in water (1:10 weight ratio) for 3–6 weeks to produce a potassium-rich liquid fertilizer:
 
-### Compost Tea and Liquid Fertilizer
+| Input | N | P₂O₅ | K₂O |
+|-------|---|------|-----|
+| Fresh comfrey leaves | 0.7% | 0.3% | 2.0% |
+| Comfrey tea (diluted) | ~0.05% | ~0.02% | ~0.15% |
 
-Comfrey tea is a fermented liquid fertilizer prepared by steeping fresh leaves
-in water (1:5 weight ratio) for 3–6 weeks. The resulting potassium-rich liquid
-is excellent for flowering and fruiting plants (tomatoes, berries). Dilute 1:10
-before application. A drip method — packing leaves in a container with a drain
-hole — produces concentrated liquid without the strong odor of fermentation.
+### Nutrient Mining
+Placed in fruit tree guilds or under heavy feeders (tomatoes, potatoes), comfrey acts as a nutrient pump, cycling deep minerals into the active root zone of companion crops.
 
-## Bioactive Compounds
+## Phytochemistry
+- **Allantoin (0.4–1.0%):** Cell-proliferant; promotes granulation tissue and epithelialization
+- **Rosmarinic acid:** Potent anti-inflammatory and antioxidant phenolic acid
+- **Symphytine & Consolidine:** Toxic pyrrolizidine alkaloids (PAs) specific to *Symphytum*
+- **Pyrrolizidine alkaloids (PAs):** Dried leaf: 200–4,000 µg/g; dried root: 1,000–8,000 µg/g; varies by cultivar, part, and harvest timing
+- **Mucilage (up to 30%):** Demulcent polysaccharides; **Tannins (2–5%), Triterpenes & Saponins:** Anti-inflammatory and astringent
 
-| Compound | Category | Notes |
-|----------|----------|-------|
-| Allantoin | Cell-proliferant | Promotes tissue regeneration and wound healing |
-| Rosmarinic acid | Phenolic acid | Anti-inflammatory, antioxidant |
-| Symphytine | Pyrrolizidine alkaloid (PA) | Hepatotoxic; concentrated in roots |
-| 7-Acetylintermedine | Pyrrolizidine alkaloid | Hepatotoxic |
-| Mucilage | Polysaccharide | Demulcent, soothes irritated tissues |
-| Tannins | Polyphenol | Astringent, supports wound healing |
+## Traditional & Medicinal Uses
+- **Bone knitting (knitbone):** Poultices of crushed leaves and roots applied to fractures; allantoin stimulates osteoblast activity
+- **Wound healing:** External application for cuts, abrasions, ulcers, and burns; accelerates tissue regeneration
+- **Anti-inflammatory:** Topical preparations for sprains, strains, and arthritis; rosmarinic acid inhibits COX-2 and 5-LOX pathways
+- **Demulcent:** Historically used internally for gastric ulcers and bronchitis (now strongly contraindicated due to PA hepatotoxicity)
 
-Allantoin is the signature compound (0.6–1.2% of dried leaf weight), stimulating
-cell proliferation and used in dermatological preparations worldwide. Rosmarinic
-acid contributes anti-inflammatory activity. PAs, primarily in the root, are the
-primary safety concern.
+> ⚠️ **Safety Warning:** Internal use is prohibited in Australia, Canada, Germany, and the US due to hepatotoxic PAs. The EMA (2011) recommends a maximum oral PA intake of 0.007 µg/kg body weight/day. External use on unbroken skin for limited durations is the only currently accepted application.
 
-## Traditional Medicinal Uses
+## Cultivation & Propagation
 
-Comfrey has an extensive history in European folk medicine. Its common name
-"knitbone" reflects its traditional reputation for accelerating bone and tissue
-repair:
-- **Wound healing** — poultices of bruised leaves or root applied to cuts,
-  ulcers, burns, and abrasions to promote tissue regeneration.
-- **Bone setting** — external wraps of comfrey root applied to fractures and
-  sprains, supported by allantoin's cell-proliferant action.
-- **Anti-inflammatory applications** — for joint pain, arthritis, gout, and
-  muscle strains.
-- **Respiratory support** — historically used as a decoction for coughs and
-  bronchitis (now contraindicated internally).
+### Bocking Cultivars
+Developed by Lawrence D. Hills at the Henry Doubleday Research Association, these sterile *S. × uplandicum* hybrids are selected for specific traits:
 
-### Topical vs. Internal Use
+| Cultivar | Trait | PA Content | Vigor |
+|----------|-------|------------|-------|
+| Bocking 4 | High potash, vigorous | Moderate | Very high |
+| **Bocking 14** | High protein, sterile, highest biomass | Lower than wild type | Highest |
+| Bocking 1 | Deep root, high mineral content | Moderate | High |
 
-Due to confirmed PA hepatotoxicity, modern herbal practice restricts comfrey to
-**topical use only**. External preparations — creams, ointments, poultices, and
-infused oils — are generally safe for short-term use on unbroken skin. Internal
-use is not recommended; regulatory agencies in the EU, UK, Australia, and Canada
-have restricted or banned oral comfrey products.
+**Bocking 14** is the most widely recommended: triploid and sterile (no viable seed), eliminating invasive spread risk while maximizing biomass (up to 5 cuttings/season, ~20 t/ha/year fresh weight).
 
-## Safety Concerns
+### Propagation Methods
+- **Root cuttings:** 2–5 cm sections planted 5 cm deep in spring; highest success rate
+- **Crown division:** Divide established clumps in early spring or autumn; each section needs a growing bud
+- **Offsets:** Not applicable for Bocking 14 (sterile); wild comfrey spreads readily by seed
 
-The pyrrolizidine alkaloids (PAs) in comfrey — chiefly symphytine and
-7-acetylintermedine — are **hepatotoxic**, causing hepatic veno-occlusive
-disease (VOD). PAs are also genotoxic and potentially carcinogenic, with root
-preparations containing roughly 10× higher PA concentrations than leaf material.
-Children, pregnant or breastfeeding women, and individuals with liver disease
-should avoid comfrey entirely.
+## Fertilizer Production
 
-## Companion Planting Benefits
+### Comfrey Tea Recipe
+1. Harvest mature leaves (avoid flowering stems), pack into a container and weigh down
+2. Cover with water (1:10 fresh leaf-to-water ratio), cover loosely
+3. Ferment 3–6 weeks in a warm location
+4. Dilute 1:10 with water before application
 
-- **Fruit tree guilds** — comfrey in the drip line provides consistent mulch
-  and mineral feed.
-- **Nitrogen fixation support** — deep roots create channels benefiting
-  associated leguminous nitrogen fixers.
-- **Pest deterrence** — dense foliage provides habitat for predatory insects
-  (ground beetles, spiders).
-- **Barrier planting** — established clumps suppress weeds through shade and
-  root competition.
+### NPK Comparison
 
-## Cultivation and Propagation
+| Fertilizer Source | N (%) | P (%) | K (%) |
+|-------------------|-------|-------|-------|
+| Comfrey leaves (fresh) | 0.7 | 0.3 | 2.0 |
+| Comfrey leaves (dry) | 3.0–5.0 | 0.8–1.5 | 5.0–8.0 |
+| Comfrey tea (fermented) | ~0.5 | ~0.2 | ~3.0 |
+| Horse manure | 0.7 | 0.3 | 0.6 |
+| Garden compost | 0.5 | 0.3 | 0.5 |
+| Nettle tea | 0.5 | 0.1 | 0.5 |
 
-Comfrey thrives in full sun to partial shade in deep, moist, fertile soils (pH
-6.0–7.0), tolerates wet clay, and is cold-hardy (USDA zones 3–9). Propagation
-is most commonly by root cuttings: 5–10 cm sections planted horizontally 2–5 cm
-deep in spring or autumn. Crown division is also effective; seed germination is
-low and unreliable. Once established, comfrey is virtually indestructible and
-can become invasive — the sterile cultivar *Symphytum × uplandicum* 'Bocking 14'
-is widely recommended as it produces no viable seed and has higher biomass
-yields.
+Comfrey tea provides 3–5× the potassium of manure-based compost, especially valuable for fruiting and flowering crops.
 
-## Biomass Production
+## Companion Planting
+- **Fruit trees:** Drip line guild placement for nutrient cycling and biomass mulch
+- **Potatoes & tomatoes:** Potassium boost improves tuber and fruit quality
+- **Currants & berries:** Benefits from potash-rich mulch
+- **Avoid near:** Direct-seeded annual beds (deep root competes for moisture); best as a border or guild plant
 
-A mature plant produces 4–5 kg fresh leaf material per year (~1 kg dried).
-Yields of 15–20 tonnes/ha are achievable with 60–90 cm spacing. 'Bocking 14'
-is preferred, bred by Lawrence Hills at the Henry Doubleday Research Association
-for maximum protein and mineral content.
+## Safety & Toxicity
 
-## See Also
+### Hepatic Veno-Occlusive Disease (VOD)
+PAs are metabolized by hepatic CYP450 to dehydropyrrolizidine (dehydro-PAs), which form DNA-protein crosslinks in hepatocytes, causing VOD. Symptoms include abdominal pain, ascites, hepatomegaly, and liver failure. VOD can be acute or chronic with cumulative exposure.
 
-- [[mollison-comfrey-waste-recycling-soil-building]]
-- [[comparison-comfrey-vs-yarrow]]
+### PA Content by Plant Part
 
-- [[symphytum-officinale]]
+| Part | PA Content (dry weight) | Risk Level |
+|------|------------------------|------------|
+| Root | 1,000–8,000 µg/g | Highest |
+| Young leaf | 200–1,000 µg/g | High |
+| Mature leaf | 500–4,000 µg/g | High |
+| Stem | 100–500 µg/g | Moderate |
+| Flower | 50–200 µg/g | Lower |
+
+### Internal vs. External Use Debate
+Topical application on intact skin carries minimal systemic absorption risk, but damaged skin allows PA transdermal uptake. Regulatory agencies universally advise against internal consumption. Products labeled for external use only should not be applied to open wounds. Pregnant and breastfeeding women, children, and individuals with liver impairment should avoid all comfrey preparations.
+
+## References
+1. EMA/HMPC. *Assessment report on Symphyti radix and Symphyti herba.* European Medicines Agency, 2011.
+2. Hills, L.D. *Comfrey: Past, Present and Future.* Henry Doubleday Research Association, 1976.
+3. Rode, D. "Comfrey: A Review of Its Biological Activity and Potential Health Risks." *Journal of Toxicology*, 2002.
+4. Culvenor, C.C.J. "Pyrrolizidine Alkaloids in Comfrey." *Natural Toxins*, 1983.
+5. PFAF. *Symphytum officinale — Plants for a Future Database.* https://pfaf.org
