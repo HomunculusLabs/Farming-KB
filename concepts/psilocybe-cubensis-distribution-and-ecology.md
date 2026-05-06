@@ -143,6 +143,8 @@ coprophilous habit and represent a distinct ecological group within the genus.
 
 ## See Also
 
+- [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]]
+
 - [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]
 
 - [[psilocybin-mushroom-distribution-worldwide]]

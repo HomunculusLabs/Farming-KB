@@ -124,6 +124,8 @@ Lion's mane may also have mild antidepressant and anxiolytic effects, based on a
 
 ## Related
 
+- [[query-what-are-the-health-benefits-of-dietary-polyphenols]]
+
 - [[lions-mane-mushroom]] Questions
 - [[query-what-are-the-health-benefits-of-turkey-tail-mushroom]]
 - [[mushroom-foraging-safety-guide]]

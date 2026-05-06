@@ -128,3 +128,9 @@ Three primary methods work well at scale:
 Ferns are among the most **deer-resistant** shade garden plants available. The vast majority of ferns contain chemical compounds (including tannins, alkaloids, and in some cases thiaminase) that make them unpalatable to deer. In areas with heavy deer pressure, ferns can form the backbone of a shade garden when other perennials are repeatedly browsed.
 
 Notable deer-resistant ferns include: Christmas fern, Japanese painted fern, ostrich fern, maidenhair fern (*Adiantum*), hayscented fern, and royal fern. However, young fiddleheads of edible species may occasionally be browsed in early spring before other forage is available. Once fronds mature and unfurl, deer almost universally avoid them. In extreme cases of overpopulation, deer may browse any plant — but ferns remain one of the safest bets.
+
+## See Also
+
+- [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
+- [[query-what-are-the-best-crops-for-a-desert-food-forest]]
+- [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]

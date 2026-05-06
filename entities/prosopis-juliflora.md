@@ -103,19 +103,21 @@ In managed agroforestry systems, spacing of 5–10 m between trees is recommende
 
 ## See Also
 
+- [[prosopis-glandulosa]]
+
 - [[gliricidia-sepium]]
 - [[leucaena-leucocephala]]
 - [[sesbania-grandiflora]]
 - [[acacia-mearnsii]]
 - [[dalbergia-sissoo]]
 - [[robinia-pseudoacacia]]
-- [[nitrogen-fixation]]
+- [[biological-nitrogen-fixation-agriculture]]
 - [[agroforestry]]
 - [[food-forest]]
 - [[keyline-design]]
 - [[silvopasture]]
 - [[honey-locust-entity]]
 - [[gleditsia-triacanthos]]
-- [[invasive-species]]
+- [[invasive-species-management]]
 - [[swale]]
 - [[biochar]]

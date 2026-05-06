@@ -148,6 +148,8 @@ These complementary methods ensure comprehensive phytochemical profiling when in
 
 ## See Also
 
+- [[comparison-tannins-vs-alkaloids-vs-glycosides]]
+
 - [[artemisia-annua]]
 - [[artemisinin]]
 - [[berberine]]

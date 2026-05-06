@@ -1,132 +1,148 @@
 ---
-title: Durban Poison
-created: 2026-04-28
+title: "Durban Poison"
 type: strain
 tags:
-  - landrace
+  - cannabis
   - sativa
+  - landrace
   - african-genetics
-  - terpinolene-dominant
-  - energizing
-  - daytime
-  - south-africa
-  - breeding-stock
+  - uplifting
+  - terpene-profile
+  - dagga
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Strain Database
-  - Erowid Cannabis Vault
-  - Phylos Bioscience Genetic Research
-  - Wikipedia — List of Cannabis Strains
-  - Alchimia Grow Shop — Landrace Strain Profiles
-  - cannabis.seedfinders.eu
-  - MJBizDaily — Strain Genetics Reports
-  - ACS Laboratory — Terpene Profiling Data
+  - "The Cannabible" series, Jason King (2001-2007)
+  - "The Emerald Triangle: Inside the Secret Market of the World's Most Expensive Weed", Emily Brady (2020)
+  - https://www.leafly.com/strains/durban-poison
+  - Clarke, R.C. & Merlin, M.D. "Cannabis: Evolution and Ethnobotany." University of California Press, 2013.
 ---
 
 # Durban Poison
 
-Durban Poison is a pure sativa cannabis landrace strain originating from the city of Durban, South Africa. Widely regarded as one of the most iconic and genetically significant African landrace strains in global cannabis culture, Durban Poison has served as foundational breeding stock for countless modern hybrids. Its name pays homage to its port of origin on the southeastern coast of South Africa, where it was cultivated for generations by local growers before being introduced to the wider world in the 1970s.
+## Overview
 
-## Genetic Lineage
+**Durban Poison** is a pure *Cannabis sativa* landrace strain originating from the port city of Durban, South Africa. One of the few widely available pure sativa cultivars, it is celebrated for its energizing, clear-headed effects and distinctive anise-and-citrus aroma. The strain has become a foundational parent in modern breeding programs, contributing genetics to numerous hybrid cultivars valued for their uplifting profiles.
 
-Durban Poison is a **pure landrace sativa** with no confirmed hybrid parentage. It originates from the KwaZulu-Natal province of South Africa, where indigenous and local farming communities cultivated it in the subtropical coastal climate around Durban. The genetics are considered 100% sativa, exhibiting tall growth, narrow leaflets, and long flowering cycles characteristic of equatorial and subtropical sativa varieties.
+## Genetic History
 
-The strain was first brought to the United States and Europe in the 1970s by cannabis enthusiasts and breeders who recognized its unique qualities. Notably, legendary breeder Ed Rosenthal is credited with early work popularizing Durban Poison in North America. Dutch seed banks, particularly Dutch Passion, further stabilized and commercialized the genetics beginning in the late 1980s, making Durban Poison one of the first African landraces widely available through seed catalogs.
+### Landrace Origins
 
-### Influence on Modern Hybrids
+Durban Poison descends from cannabis populations cultivated by indigenous communities in the KwaZulu-Natal region of South Africa for centuries. The local *dagga* varieties developed under the region's subtropical climate — warm, humid summers with abundant sunshine — selecting for tall stature, long flowering cycles, and high THC production.
 
-Durban Poison has contributed its genetics to numerous popular hybrids, including:
+### Introduction to the West
 
-- **Girl Scout Cookies (GSC)** — a cross of Durban Poison × OG Kush
-- **Cherry Pie** — Durban Poison × Granddaddy Purple
-- **Trainwreck** (some phenotypes) — includes Durban Poison lineage
-- **Thin Mint Cookies** — a GSC phenotype retaining Durban influence
-- **Berry White** — Durban Poison × White Widow (in some lines)
+The strain was collected by cannabis breeder **Ed Rosenthal** during a trip to South Africa in the late 1970s. Rosenthal brought seeds back to the United States, where they were stabilized and selectively bred by Dutch seed companies in the 1980s and 1990s. The Dutch breeding work refined the strain while largely preserving its landrace character.
 
-Its genetic stability and potency make it a preferred parent strain for breeders seeking to add energy, resin production, and a distinctive terpene profile to new cultivars.
+### Lineage & Progeny
+
+- **Classification**: Pure *Cannabis sativa* landrace (no confirmed indica or ruderalis admixture)
+- **Key progeny**: Girl Scout Cookies (Durban Poison × OG Kush), Cherry Pie, Tangie
+- **Breeder**: Stabilized by Dutch Passion Seeds
+
+## Morphology & Growth
+
+### Plant Structure
+
+Durban Poison exhibits classic sativa morphology:
+
+- **Height**: 150–200 cm outdoors; 80–130 cm indoors with training
+- **Structure**: Open, lanky branching with long internodal spacing
+- **Leaves**: Narrow, serrated leaflets typical of sativa expression; some phenotype variation in leaf width
+- **Buds**: Medium-dense, elongated calyxes with prominent pistils; frosty trichome coverage at maturity
+
+### Flowering Characteristics
+
+| Trait | Value |
+|-------|-------|
+| Flowering time (indoor) | 8–9 weeks |
+| Flowering time (outdoor) | Late October harvest (Northern Hemisphere) |
+| Yield (indoor) | 350–450 g/m² |
+| Yield (outdoor) | 500–600 g/plant |
+| THC content | 15–25% |
+| CBD content | < 0.1% (negligible) |
+
+### Cultivation Notes
+
+- Performs well in both tropical and Mediterranean climates
+- Tolerates heat well but is sensitive to cold temperatures below 10°C
+- Requires vertical space or aggressive training (LST, ScrOG) indoors
+- Moderate nutrient requirements — prone to nitrogen toxicity if overfed during flowering
+- Natural pest resistance due to high terpene content, particularly resistant to spider mites
 
 ## Terpene Profile
 
-Durban Poison is distinguished by a **terpinolene-dominant** terpene profile, which is relatively uncommon among cannabis strains. The three primary terpenes are:
+Durban Poison's terpene composition is one of its most distinctive features:
 
-### Terpinolene (Dominant)
+### Dominant Terpenes
 
-Terpinolene is the signature terpene of Durban Poison, contributing to its complex aromatic profile. It is found at notably high concentrations — often 1–3% by weight, which places Durban Poison among the most terpinolene-rich strains available. Terpinolene imparts notes of pine, wood, herbs, citrus, and a faint floral sweetness. Research suggests terpinolene may have antioxidant, mildly sedative, and antifungal properties, though in Durban Poison's context it contributes more to the strain's complex sensory experience than to sedation.
+1. **Terpinolene** (0.5–1.5%) — The defining terpene; contributes floral, piney, herbal, and slightly fruity notes. Rarely dominant in cannabis strains, terpinolene is associated with antioxidant and sedative properties in isolation.
 
-### Myrcene
+2. **Myrcene** (0.3–1.0%) — The most common cannabis terpene; adds earthy, herbal undertones. Contributes to the entourage effect despite being secondary here.
 
-Myrcene, the most common terpene across all cannabis strains, is present in Durban Poison at moderate levels. It adds earthy, musky, and herbal undertones to the aroma and flavor. Myrcene is believed to contribute to the entourage effect and may support the strain's body-relaxing undertones, though Durban Poison's overall effect remains distinctly uplifting.
+3. **Ocimene** (0.2–0.8%) — Sweet, woody, herbaceous notes. Found in mint, basil, and mango.
 
-### Ocimene
+4. **Pinene** (0.2–0.6%) — Both α- and β-pinene present; contributes pine needle aroma and bronchodilatory effects.
 
-Ocimene rounds out the primary terpene trio with sweet, woody, and herbaceous notes. Found at moderate concentrations in Durban Poison, ocimene is associated with potential anti-inflammatory and decongestant properties. It contributes to the strain's bright, almost sweet anise-like aftertaste.
+5. **Caryophyllene** (0.1–0.4%) — Peppery, spicy notes; functions as a dietary cannabinoid by binding to CB2 receptors.
 
-### Secondary Terpenes
+### Minor Terpenes
 
-Small amounts of pinene, limonene, and humulene are also typically present, adding subtle layers of forest floor, citrus zest, and spicy-woody depth to the overall bouquet.
+Linalool, humulene, and limonene present in trace amounts contributing to the strain's complex bouquet.
 
-## Aroma and Flavor
+## Effects Profile
 
-Durban Poison presents a highly distinctive sensory profile:
+### Subjective Experience
 
-- **Aroma:** Sweet, earthy, and anise-like with strong notes of licorice, clove, and pine. A Dank, pungent quality underlies the sweetness, with subtle citrus and herbal tones.
-- **Flavor:** On inhalation, users report a smooth sweetness reminiscent of black licorice and earthy herbs. The exhale brings out more pine, anise, and a slightly spicy, peppery finish. The flavor is often described as "clean" and complex, lacking the heavy skunk notes common in many strains.
+Durban Poison is widely regarded as one of the most functional sativa strains available:
 
-## Effects
+- **Onset**: Rapid (5–15 minutes when inhaled)
+- **Duration**: 2–4 hours
+- **Head high**: Cerebral, clear-headed stimulation without the "racy" anxiety some sativas produce
+- **Body effects**: Minimal physical sedation; slight energetic buzz
+- **Creativity**: Enhanced focus and divergent thinking reported by many users
+- **Social effects**: Promotes conversation and engagement
 
-Durban Poison is renowned for its **pure sativa effects**, delivering a clear-headed, uplifting, and energetic experience:
+### Therapeutic Applications
 
-- **Cerebral stimulation:** Users report a rush of creative energy and mental clarity, making it popular among artists, writers, and professionals seeking a functional daytime strain.
-- **Focus enhancement:** Unlike many sativas that can cause racing thoughts, Durban Poison is often noted for promoting sustained concentration and productivity.
-- **Mood elevation:** Euphoric and uplifting effects are common, with reduced anxiety and an overall sense of well-being reported by many users.
-- **Physical energy:** A mild body buzz accompanies the cerebral effects without causing heavy sedation, though higher doses can produce a slightly more relaxed physical sensation.
-- **Appetite stimulation:** Increased appetite is a commonly reported side effect.
-- **Duration:** Effects typically last 2–4 hours, with a relatively clean comedown.
+Anecdotal and clinical reports suggest utility for:
 
-### Medical Applications
+- **ADHD**: Focusing effects without the anxiety of stimulant medications
+- **Fatigue**: Daytime energy promotion (not recommended for evening use)
+- **Depression**: Mood elevation and motivational enhancement
+- **Nausea**: Antiemetic properties typical of THC-rich strains
+- **Stress**: Functional stress relief that doesn't impair productivity
 
-Durban Poison is frequently used medicinally for:
+### Potential Adverse Effects
 
-- Fatigue and low energy
-- Depression and mood disorders
-- ADHD (anecdotal reports of improved focus)
-- Mild stress and anxiety
-- Nausea and appetite loss
-- Chronic pain (mild to moderate, especially with functional impairment)
+- Dry mouth and dry eyes (common to most cannabis)
+- Mild anxiety at higher doses (less pronounced than many sativas)
+- Insomnia if consumed too close to bedtime
+- Paranoia in susceptible individuals at doses above personal tolerance
 
-It is generally not recommended for insomnia due to its stimulating properties.
+## Aroma & Flavor
 
-## Cultivation Characteristics
+The sensory profile of Durban Poison is distinctive and complex:
 
-Durban Poison is considered a moderately challenging strain to cultivate, rewarding experienced growers with high yields and exceptional resin production when grown correctly.
+- **Primary**: Sweet anise, licorice, and black licorice
+- **Secondary**: Earthy, herbal, with citrus undertones
+- **Tertiary**: Pine, spice, and a subtle chalky/mineral quality
+- **Aftertaste**: Clean, slightly sweet with lingering anise
 
-### Growth Pattern
+The aroma is often described as reminiscent of black licorice or fennel, which is unusual in cannabis and makes Durban Poison one of the most identifiable strains by scent alone.
 
-- **Height:** Plants can grow very tall (up to 2–3 meters outdoors), characteristic of pure sativas.
-- **Structure:** Long internodal spacing, narrow serrated leaflets, and robust branching.
-- **Flowering time:** 8–9 weeks indoors; late October to early November outdoors in the Northern Hemisphere.
-- **Yield:** Moderate to high — 350–450 g/m² indoors; 500–700 g/plant outdoors.
-- **Resistance:** Good resistance to mold and pests, likely a result of its landrace heritage adapted to humid subtropical conditions.
+## Cultural Significance
 
-### Growing Conditions
+Durban Poison holds a unique position in cannabis culture as:
 
-- **Climate:** Prefers warm, sunny, and slightly humid environments resembling its native South African coast.
-- **Light:** Requires intense light for optimal growth and resin production.
-- **Training:** Responds well to low-stress training (LST) and topping to control height and promote lateral branching. Screen of Green (ScrOG) methods are commonly used indoors.
-- **Nutrients:** Moderate feeder; benefits from phosphorus and potassium during flowering to support dense bud development.
-- **Container size:** Large containers (15–25+ gallons) or in-ground planting recommended for outdoor grows due to vigorous root growth.
-
-### Phenotypic Variation
-
-As a landrace, Durban Poison can exhibit moderate phenotypic variation even from stabilized seed stock. Some phenotypes lean sweeter with more anise notes, while others express more pine and earthy characteristics. Growers often select mother plants based on preferred aroma and growth traits over multiple generations.
-
-## Summary
-
-Durban Poison stands as one of the most important and beloved landrace sativa strains in cannabis history. Its South African origins, unique terpinolene-dominant terpene profile, clear-headed effects, and role as foundational breeding stock have cemented its status as a cornerstone of global cannabis genetics. Whether consumed for creative focus, daytime energy, or as a building block for new cultivars, Durban Poison remains a pure and potent expression of African sativa excellence.
+- One of the few commercially successful pure landrace strains available worldwide
+- A "gateway sativa" often recommended to indica-preferring consumers exploring sativa effects
+- A cornerstone breeding parent whose genetics appear in dozens of award-winning hybrids
+- A strain that has maintained its original character despite decades of commercial cultivation — relatively rare for a strain with its market longevity
 
 ## See Also
 
-- [[girl-scout-cookies]]
-- [[granddaddy-purple]]
-- [[screen-of-green]]
+- [[cannabis-terpene-profiles]] — Comprehensive terpene reference for cannabis
+- [[og-kush]] — Indica-dominant parent of many Durban Poison hybrids
+- [[girl-scout-cookies]] — Notable Durban Poison progeny strain
+- [[cannabis-landrace-strains]] — Guide to pure geographic cannabis varieties

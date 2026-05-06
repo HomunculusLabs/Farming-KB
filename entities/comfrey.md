@@ -151,4 +151,4 @@ Comfrey contains hepatotoxic PAs, primarily **symphytine** and **echimidine**, w
 
 - [[urtica-dioica]] — Stinging nettle, another dynamic accumulator for permaculture
 - [[trifolium-repens]] — White clover, nitrogen-fixing ground cover
-- [[tagetes-erecta]] — Marigold, companion planting pest deterrent
+- [[tagetes-erecta-entity]] — Marigold, companion planting pest deterrent

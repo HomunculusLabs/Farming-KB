@@ -112,9 +112,9 @@ The plant propagates extremely easily from stem cuttings, which root within 1–
 ## See Also
 
 - [[tulsi]]
-- [[mentha-spice|mint]]
-- [[rosemary]]
-- [[thyme]]
+- [[mentha-spicata|mint]]
+- rosemary
+- thyme
 - [[salvia-officinalis]]
 - [[damiana-turnera-diffusa]]
 - [[comfrey-permaculture]]

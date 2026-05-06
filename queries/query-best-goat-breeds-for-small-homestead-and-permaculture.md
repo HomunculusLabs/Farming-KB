@@ -151,6 +151,8 @@ and management.*
 
 ## See Also
 
+- [[query-best-grain-legumes-for-a-small-homestead]]
+
 - [[holzer-wild-cattle-and-old-breeds]]
 - [[homestead-permaculture-design]]
 - [[mollison-designers-thatch-and-natural-roofing-in-permaculture]]

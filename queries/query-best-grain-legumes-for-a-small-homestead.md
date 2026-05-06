@@ -52,7 +52,6 @@ Fava beans are arguably the most useful pulse for a small homestead. They tolera
 - Chop stems at ground level after harvest and leave roots in place — they're loaded with fixed nitrogen
 
 **Yield Expectation**: 1.5–3 kg per 10 m row (dry seed)
-
 **Storage**: Dry seeds store 2–3 years in airtight containers. Fresh favas freeze well after blanching.
 
 ### 2. Chickpea (Garbanzo Bean) — *Cicer arietinum*
@@ -70,7 +69,6 @@ Chickpeas are the homesteader's gateway to Middle Eastern and Indian cooking —
 - Desi types are easier to grow in marginal conditions; kabuli types need better soil and more consistent moisture
 
 **Yield Expectation**: 0.5–1.5 kg per 10 m row (dry seed)
-
 **Storage**: Excellent — dry chickpeas store 3+ years. Cook and freeze in batches for convenience.
 
 ### 3. Dry Pea — *Pisum sativum*
@@ -88,7 +86,6 @@ Dry peas are among the easiest grain legumes to grow. Their short season (80–1
 - Thresh by flailing dried plants in a tarp and winnow with a fan
 
 **Yield Expectation**: 1–2.5 kg per 10 m row (dry seed)
-
 **Storage**: Split peas store 2–3 years dry. Cooked peas freeze well for quick meals.
 
 ### 4. Cowpea (Black-eyed Pea) — *Vigna unguiculata*
@@ -106,7 +103,6 @@ Cowpea is the homestead pulse for tough conditions. Where other crops wilt and f
 - Young leaves can be harvested throughout the season for cooked greens — don't remove more than 30% of foliage
 
 **Yield Expectation**: 0.8–2 kg per 10 m row (dry seed) + significant leaf harvest
-
 **Storage**: Dry seeds store 1–2 years. Freeze or use hermetic storage to control bruchid beetles.
 
 ### 5. Common Dry Bean — *Phaseolus vulgaris*
@@ -124,7 +120,6 @@ Common beans offer the greatest culinary diversity of any pulse — kidney, navy
 - Shell by hand or thresh in a bag/bucket; winnow to clean
 
 **Yield Expectation**: 0.5–1.5 kg per 10 m row (bush); 1–3 kg per 10 m row (pole)
-
 **Storage**: Excellent — dry beans store 3–5 years. One of the longest-storing staple foods.
 
 ### 6. Pigeon Pea — *Cajanus cajan*
@@ -142,7 +137,6 @@ Pigeon pea is unique among grain legumes as a woody perennial shrub that produce
 - Intercrop with cereals, fruit trees, or vegetables as a productive living support
 
 **Yield Expectation**: 1–3 kg per plant per year (dry seed), plus significant prunings for mulch
-
 **Storage**: Dry pigeon peas (toor dal) store 2–3 years. Split pigeon peas are the basis of sambar and dal across South Asia.
 
 ## Designing Your Homestead Pulse Rotation
@@ -179,7 +173,6 @@ Ground cover: Perennial peanut (*Arachis pintoi*) as living mulch
 ## Maximizing Nitrogen Fixation
 
 To get the most soil-building benefit from your pulse crops:
-
 1. **Inoculate correctly**: Use the right rhizobial strain for each species. Check nodulation by digging up roots mid-season — effective nodules are pink/red inside.
 2. **Leave roots in the ground**: Never pull pulse roots at harvest. Cut stems at soil level and let the root system decompose in place, releasing fixed nitrogen.
 3. **Maximize biomass**: More above-ground growth means more nitrogen fixed. Adequate phosphorus and potassium (but NOT excess nitrogen) support strong pulse growth.
@@ -198,3 +191,9 @@ To get the most soil-building benefit from your pulse crops:
 ## Seed Sources for Homesteaders
 
 Seek out regionally adapted varieties from small seed companies and seed exchanges rather than generic commercial seed. Heirloom and landrace varieties often outperform modern cultivars in low-input homestead systems because they were selected for resilience rather than maximum yield under perfect conditions.
+
+## See Also
+
+- [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
+- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
+- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]

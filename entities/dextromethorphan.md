@@ -109,7 +109,7 @@ Peak plasma concentrations occur 1.5–2 hours after oral ingestion. The elimina
 
 - [[ketamine]]
 - [[dextromethorphan]]
-- [[pcp]]
+- pcp
 - [[mescaline]]
 - [[psilocybin]]
 - [[muscimol]]

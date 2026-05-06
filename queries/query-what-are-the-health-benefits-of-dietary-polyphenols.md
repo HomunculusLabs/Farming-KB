@@ -125,8 +125,8 @@ Based on current evidence:
 
 ## See Also
 
-- [[polyphenols-and-plant-defense-chemistry|Polyphenols and Plant Defense Chemistry]] — the parent topic page covering chemistry, biosynthesis, and ecological roles
-- [[plant-defense-chemistry-and-secondary-metabolites|Plant Defense Chemistry and Secondary Metabolites]]
-- [[herbal-medicine-making|Herbal Medicine Making]]
-- [[ethnobotany-and-sacred-plant-traditions|Ethnobotany and Sacred Plant Traditions]]
-- [[caffeine-plants-and-stimulant-herb-cultivation|Caffeine Plants and Stimulant Herb Cultivation]]
+- Polyphenols and Plant Defense Chemistry — the parent topic page covering chemistry, biosynthesis, and ecological roles
+- Plant Defense Chemistry and Secondary Metabolites
+- [[herbal-medicine-making-basics|Herbal Medicine Making]]
+- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany|Ethnobotany and Sacred Plant Traditions]]
+- [[query-what-are-caffeine-plants-and-how-do-i-grow-them|Caffeine Plants and Stimulant Herb Cultivation]]

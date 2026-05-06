@@ -150,3 +150,10 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
 For most home growers, a **complementary planting of all three** provides
 successive harvests (currants early summer, gooseberries mid-summer,
 elderberries late summer) and spreads pest/disease risk across unrelated genera.
+
+## See Also
+
+- [[pruning-fruit-trees-and-bushes]]
+- [[growing-tree-fruit-organically]]
+
+- [[fruit-tree-propagation]]

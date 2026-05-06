@@ -143,6 +143,8 @@ individuals. It is suitable for sautéing, braising, soups, and preserves
 well when pickled or dried. The violet colour fades entirely upon cooking,
 yielding a greyish-brown appearance.
 ## See Also
+
+- [[clitocybe-nuda]]
 - Tricholomataceae
 - Cortinarius
 - [[laccaria-laccata]]

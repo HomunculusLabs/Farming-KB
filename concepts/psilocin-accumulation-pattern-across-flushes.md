@@ -45,7 +45,7 @@ The delayed accumulation of psilocin relative to [[psilocybin]] supports the hyp
 
 ## Relationship to the Psilocybin-to-Psilocin Ratio
 
-The [[psilocybin-to-psilocin-ratio]] changes dramatically across flushes. In early flushes where psilocin is absent or near-zero, the ratio is essentially infinite. By flush 4, when psilocin peaks, the ratio drops significantly. This ratio shift may influence subjective effects, since psilocin is more readily absorbed and crosses the blood-brain barrier more efficiently than psilocybin. Psilocin is the compound that directly binds to serotonin 5-HT2A receptors, while psilocybin must first be dephosphorylated by alkaline phosphatases in the body.
+The [[psilocybin-psilocin-variation-flushes]] changes dramatically across flushes. In early flushes where psilocin is absent or near-zero, the ratio is essentially infinite. By flush 4, when psilocin peaks, the ratio drops significantly. This ratio shift may influence subjective effects, since psilocin is more readily absorbed and crosses the blood-brain barrier more efficiently than psilocybin. Psilocin is the compound that directly binds to serotonin 5-HT2A receptors, while psilocybin must first be dephosphorylated by alkaline phosphatases in the body.
 
 ### Approximate Ratio Trend Across Flushes
 
@@ -76,7 +76,7 @@ This cross-strain consistency strengthens the conclusion that the delayed psiloc
 
 ## Analytical Methodology
 
-Bigwood and Beug used reversed-phase [[high-performance-liquid-chromatography]] (HPLC) calibrated against standards from the National Institute on Drug Abuse (NIDA). The detection limit was approximately 0.01 ug for both compounds. Results were qualitatively confirmed by [[thin-layer-chromatography]] using a butanol-acetic acid-water (12:3:5) solvent system. The linear calibration range was 0.2 to 3 ug total psilocybin or psilocin with 10% repeatability. A Hewlett-Packard 8380A reporting integrator-plotter was used for peak quantification.
+Bigwood and Beug used reversed-phase high performance liquid chromatography (HPLC) calibrated against standards from the National Institute on Drug Abuse (NIDA). The detection limit was approximately 0.01 ug for both compounds. Results were qualitatively confirmed by thin layer chromatography using a butanol-acetic acid-water (12:3:5) solvent system. The linear calibration range was 0.2 to 3 ug total psilocybin or psilocin with 10% repeatability. A Hewlett-Packard 8380A reporting integrator-plotter was used for peak quantification.
 
 ## Limitations and Considerations
 
@@ -99,13 +99,13 @@ These hypotheses are not mutually exclusive, and the actual mechanism may involv
 
 ## Seasonal and Environmental Modulation
 
-While the Bigwood and Beug study was conducted under controlled indoor conditions, subsequent research on related [[psilocybe]] species has suggested that environmental factors such as temperature fluctuations, ultraviolet light exposure, and substrate composition can modulate alkaloid accumulation patterns. Lower growing temperatures have been associated with higher psilocybin levels in some studies, though the effect on psilocin specifically has not been well characterized.
+While the Bigwood and Beug study was conducted under controlled indoor conditions, subsequent research on related psilocybe species has suggested that environmental factors such as temperature fluctuations, ultraviolet light exposure, and substrate composition can modulate alkaloid accumulation patterns. Lower growing temperatures have been associated with higher psilocybin levels in some studies, though the effect on psilocin specifically has not been well characterized.
 
 The controlled conditions of the miniculture system (constant temperature, regulated moisture via syringe, indoor lighting) were chosen specifically to isolate flush number as the primary variable. In wild or less controlled cultivation environments, additional sources of variation would compound the flush-dependent pattern, making real-world potency prediction even more challenging.
 
 ## Implications for Clinical Research
 
-The flush-dependent variation in psilocin has implications beyond recreational use. Clinical trials and therapeutic applications that use natural mushroom material rather than synthesized psilocybin must account for the fact that the [[psilocybin-to-psilocin-ratio]] and total tryptamine content will vary depending on which flushes are included in the preparation. This represents an additional source of variability beyond the well-documented effects of strain, substrate, and handling.
+The flush-dependent variation in psilocin has implications beyond recreational use. Clinical trials and therapeutic applications that use natural mushroom material rather than synthesized psilocybin must account for the fact that the [[psilocybin-psilocin-variation-flushes]] and total tryptamine content will vary depending on which flushes are included in the preparation. This represents an additional source of variability beyond the well-documented effects of strain, substrate, and handling.
 
 For researchers seeking to standardize natural preparations, the data suggest that blending material from flushes 3 through 5 would provide the most representative psilocin content, while material from flush 1 would provide a psilocin-free preparation containing only psilocybin. These differences could meaningfully affect pharmacokinetics and subjective experience in clinical settings.
 

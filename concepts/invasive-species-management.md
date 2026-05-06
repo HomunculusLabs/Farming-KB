@@ -122,3 +122,7 @@ Replace invasive ornamentals with native species that provide similar aesthetic 
 | Japanese honeysuckle | Coral honeysuckle (Lonicera sempervirens) | Native; hummingpollinator-habitatsian olive | Serviceberry (Amelanchier laevis) | Edible berries; multi-season interest |
 | Purple loosestrife | Swamp milkweed, blue flag iris | Native wetland plants; [[pollinator-habitat]] |
 - [[prosopis-juliflora]]
+
+## See Also
+
+- [[amaranthus-palmeri]]

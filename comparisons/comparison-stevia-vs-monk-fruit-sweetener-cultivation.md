@@ -151,3 +151,9 @@ Monk fruit extract commands a significantly higher price than stevia leaf or ext
 | **Propagation ease** | Easy (cuttings) | Moderate (tissue culture preferred) |
 
 Both crops represent promising alternatives to sugar cane and sugar beet for natural sweetener production. Stevia is the more practical choice for most growers due to its adaptability, while monk fruit offers superior taste and higher value for those who can meet its demanding cultivation requirements.
+
+## See Also
+
+- [[hamilton-soft-fruit-cultivation]]
+- [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
+- [[fruit-tree-propagation]]

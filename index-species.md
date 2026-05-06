@@ -2209,3 +2209,8 @@
 - [[zkittlez]]
 - [[zombie-kush]]
 - [[zookies]]
+- [[antrodia-cinnamomea]]
+- [[auricularia-delicata]]
+- [[hydnellum-aurantiacum]]
+- [[nephroma-arcticum]]
+- [[trametes-coccinea]]

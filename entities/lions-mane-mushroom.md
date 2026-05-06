@@ -148,5 +148,9 @@ Lion's Mane is generally regarded as safe (GRAS) with no significant adverse eff
 
 - [[medicinal-mushroom-guide-reishi]] — *Ganoderma lucidum*, another prominent medicinal mushroom
 - [[turkey-tail-mushroom-cancer-research]] — *Trametes versicolor*, immunomodulatory polysaccharides
-- chaga — *Inonotus obliquus*, antioxidant powerhouse
-- nerve growth factor — Target molecule for neuroprotective compounds
+- [[ganoderma-lucidum]] — Reishi, the premier adaptogenic medicinal mushroom
+- [[lentinula-edodes]] — Shiitake, widely cultivated edible and medicinal mushroom
+- [[pleurotus-ostreatus]] — Oyster mushroom, another easily cultivated edible species
+- [[phellinus-linteus]] — Sanghwang, a medicinal polypore with immunomodulatory properties
+- [[beta-glucan-receptor-binding]] — Receptor mechanisms underlying fungal immunomodulation
+- [[adaptogenic-herbs-guide]] — Broader context of adaptogenic compounds in herbal medicine

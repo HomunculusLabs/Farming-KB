@@ -115,6 +115,8 @@ Not threatened; common and widespread. Rated as Least Concern by most regional a
 
 ## See Also
 
+- [[auricularia-delicata]]
+
 - [[auricularia-auricula-judae]]
 - [[tremella-mesenterica]]
 - [[tremella-fuciformis]]

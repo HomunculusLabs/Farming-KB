@@ -122,3 +122,9 @@ Beautiful, fragrant, and deer-resistant. English lavender varieties ('Hidcote', 
 ## Final Notes
 
 Start small — three to four herbs in containers is the perfect beginning. You can always expand next season as your confidence grows. The most important principle to remember: Mediterranean herbs are adapted to hot, dry, rocky hillsides. When in doubt, err on the side of less water, more sun, and poorer soil. Your herbs will reward you with intense flavor and vigorous growth for years to come.
+
+## See Also
+
+- [[query-what-are-the-best-ferns-for-a-shade-garden-or-food-forest]]
+- [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
+- [[query-what-is-the-best-natural-plaster-for-earthship-or-cob-walls]]

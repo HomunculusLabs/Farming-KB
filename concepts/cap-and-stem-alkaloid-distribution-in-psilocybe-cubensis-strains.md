@@ -19,7 +19,7 @@ Bigwood and Beug (1982) performed cap-versus-stem alkaloid analysis on three str
 
 ## Analytical Results: First Flush Cap vs Stem
 
-All values in mg/g dry weight, first flush, rye-grain substrate. Caps and stems were carefully dissected from fresh fruiting bodies before freeze-drying and analysis via reversed-phase [[high-performance-liquid-chromatography]].
+All values in mg/g dry weight, first flush, rye-grain substrate. Caps and stems were carefully dissected from fresh fruiting bodies before freeze-drying and analysis via reversed-phase high performance liquid chromatography.
 
 ### Psilocybin Distribution
 
@@ -47,7 +47,7 @@ The higher psilocybin concentration in caps aligns with the biological role of t
 
 In the M.R. and Ecuadorian strains, all detectable psilocin in first-flush mushrooms was found in the **stems only**, with zero psilocin in the caps. The Amazon strain showed the reverse pattern: a trace of psilocin (0.1 mg/g) in the cap and none in the stem.
 
-This stem-localization of psilocin in two of three strains is particularly interesting because it suggests that the [[dephosphorylation]] of psilocybin to psilocin may occur preferentially in stipe tissue, possibly due to several mechanisms:
+This stem-localization of psilocin in two of three strains is particularly interesting because it suggests that the dephosphorylation of psilocybin to psilocin may occur preferentially in stipe tissue, possibly due to several mechanisms:
 
 - **Different phosphatase enzyme expression** in stem versus cap tissue, with stem tissue expressing higher levels of the phosphatase enzyme that converts psilocybin to psilocin. Tissue-specific gene expression is well-documented in fungi during fruiting body development.
 - **pH or microenvironmental differences** between tissue types that favor or inhibit the dephosphorylation reaction. Stems may have a slightly different pH, ionic composition, or redox environment that promotes phosphatase activity.
@@ -65,7 +65,7 @@ The fact that the M.R. and Ecuadorian strains showed the same pattern (caps high
 The uneven distribution of [[alkaloid biosynthesis]] products across fruiting body tissues has practical implications for consumers and cultivators:
 
 - **Caps are more potent per gram**: In most strains, caps contain significantly more psilocybin by dry weight than stems. Dried cap material is generally more potent than stem material for psilocybin content.
-- **Whole mushroom consumption averages the difference**: Eating whole fruiting bodies (caps and stems together) provides a blended alkaloid profile. Selective consumption of only caps or only stems would alter the [[psilocybin-to-psilocin-ratio]] experienced.
+- **Whole mushroom consumption averages the difference**: Eating whole fruiting bodies (caps and stems together) provides a blended alkaloid profile. Selective consumption of only caps or only stems would alter the [[psilocybin-psilocin-variation-flushes]] experienced.
 - **Drying and preparation effects**: If caps and stems are separated during processing, drying, or cooking, the resulting preparations may have significantly different potency profiles and potentially different subjective effects.
 - **Dosage precision**: For research or therapeutic applications requiring precise dosing, homogenizing whole dried mushrooms (caps and stems together) provides the most representative alkaloid profile and reduces the risk of biased dosing from tissue-selective preparation.
 
@@ -79,7 +79,7 @@ The tissue-specific distribution patterns may reflect functional roles of these 
 
 ## Methodological Notes
 
-Bigwood and Beug analyzed caps and stems separately by carefully dissecting fresh fruiting bodies before freeze-drying. Analysis was performed using [[high-performance-liquid-chromatography]] with detection limits of approximately 0.01 ug for both compounds. The first-flush time point was specifically chosen because it maximized the contrast between psilocin-containing and psilocin-absent tissues, making tissue-specific differences more readily detectable. All three strains analyzed were cultivated on the same rye-grain substrate for comparability.
+Bigwood and Beug analyzed caps and stems separately by carefully dissecting fresh fruiting bodies before freeze-drying. Analysis was performed using high performance liquid chromatography with detection limits of approximately 0.01 ug for both compounds. The first-flush time point was specifically chosen because it maximized the contrast between psilocin-containing and psilocin-absent tissues, making tissue-specific differences more readily detectable. All three strains analyzed were cultivated on the same rye-grain substrate for comparability.
 
 ## Relationship to the Flush Variation Pattern
 
@@ -116,4 +116,4 @@ For manufacturers of mushroom-derived products (teas, tinctures, capsules, choco
 - [[psilocybin-stability-across-flushes]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
 - [[psilocybin-biosynthesis-pathway]]
-- [[dephosphorylation]]
+- dephosphorylation

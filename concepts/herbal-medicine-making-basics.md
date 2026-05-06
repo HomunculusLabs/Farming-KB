@@ -119,6 +119,8 @@ Essential kitchen and herbalism tools:
 
 ## See Also
 
+- [[mullein]]
+
 - [[marrubium-vulgare]]
 
 - [[polygonatum-biflorum]]

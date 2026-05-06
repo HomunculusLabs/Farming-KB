@@ -143,6 +143,8 @@ non-edible fungi in popular science media.
 
 ## See Also
 
+- [[hydnellum-aurantiacum]]
+
 - [[sarcodon-imbricatus]]
 - [[laccaria-bicolor]]
 - [[laricifomes-officinalis]]

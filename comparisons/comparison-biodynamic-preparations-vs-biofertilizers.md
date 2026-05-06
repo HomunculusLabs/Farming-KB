@@ -145,6 +145,8 @@ microorganism collection methods that parallel biofertilizer concepts
 while sharing biodynamic's emphasis on on-farm self-sufficiency.
 
 ## See Also
+
+- [[biodynamic-preparations-comparison]]
 - [[comparison-knf-vs-biodynamic]]
 - [[comparison-biochar-vs-biofertilizer]]
 - [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]

@@ -33,7 +33,7 @@ Across three independent minicultures of an Amazonian strain, psilocybin levels 
 
 The key distinction from [[psilocin-accumulation-pattern-across-flushes]] is the absence of any progressive accumulation pattern. While psilocin starts at zero and builds to a peak around flush 4, psilocybin appears to be produced at relatively consistent levels from the very first flush onward. This suggests that psilocybin biosynthesis is an early-established metabolic function of the fruiting mycelium, activated as soon as the organism transitions from vegetative to reproductive growth, whereas psilocin production depends on additional time-dependent processes that only engage after repeated fruiting cycles.
 
-The independence of psilocybin levels from flush number also means that early-flush mushrooms are not necessarily less potent in terms of total psychoactive content. They simply have a different [[psilocybin-to-psilocin-ratio]], with psilocybin being the dominant or sole alkaloid present.
+The independence of psilocybin levels from flush number also means that early-flush mushrooms are not necessarily less potent in terms of total psychoactive content. They simply have a different [[psilocybin-psilocin-variation-flushes]], with psilocybin being the dominant or sole alkaloid present.
 
 ## Magnitude Difference: Psilocybin Always Dominant
 

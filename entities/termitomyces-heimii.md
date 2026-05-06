@@ -152,6 +152,8 @@ viability.
 
 ## See Also
 
+- [[termitomyces-eurrhizus]]
+
 - [[termitomyces-african-mushrooms]]
 
 - [[roger-heim]]

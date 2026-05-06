@@ -127,6 +127,8 @@ actual strain is a well-balanced hybrid. The film's cultural impact resulted
 in a significant increase in demand, establishing it as one of the most
 commercially successful cannabis strain brands worldwide.
 ## See Also
+
+- [[pineapple-express]]
 - Trainwreck
 - [[og-kush]]
 - [[sour-diesel]]

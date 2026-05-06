@@ -126,6 +126,8 @@ processing, preserves, and value-added products — from a single linear plantin
 
 ## See Also
 
+- [[comparison-elderberry-vs-gooseberry-vs-currant]]
+
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-sea-buckthorn-vs-aronia]]
 - [[comparison-top-bar-hive-vs-warre-hive]]

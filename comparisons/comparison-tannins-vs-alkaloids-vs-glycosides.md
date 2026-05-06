@@ -14,7 +14,7 @@ sources:
 
 # Tannins vs Alkaloids vs Glycosides
 
-A structured comparison of three major classes of plant secondary metabolites. See also [[plant-defense-chemistry-and-secondary-metabolites]] for the broader context and [[allelopathy-and-chemical-warfare-in-plants]] for ecological warfare roles.
+A structured comparison of three major classes of plant secondary metabolites. See also plant defense chemistry and secondary metabolites for the broader context and [[fungal-allelopathy-mechanisms-and-ecological-effects]] for ecological warfare roles.
 
 ## At a Glance
 
@@ -25,10 +25,10 @@ A structured comparison of three major classes of plant secondary metabolites. S
 | **Solubility** | Water-soluble (especially hydrolyzable); astringent; forms complexes with proteins and metals | Generally water-soluble as salts; many are alkaline; soluble in organic solvents (chloroform, ether) | Water-soluble due to sugar group; aglycone freed by hydrolysis (enzymatic or acid) |
 | **Biological Functions** | Protein precipitation, metal chelation, antioxidant activity, membrane protection | Neuroreceptor modulation, enzyme inhibition, DNA intercalation, membrane disruption | Storage of bioactive aglycones, defense when hydrolyzed, signaling, pigment formation |
 | **Toxicity** | Low acute toxicity; chronic high intake impairs iron absorption and protein digestion | Often highly potent; range from mild (caffeine) to deadly (strychnine, aconitine) | Varies by aglycone: cardiac glycosides (highly toxic), cyanogenic glycosides (cyanide release), saponins (moderate) |
-| **Ecological Roles** | Anti-herbivory (astringency deters feeding), antimicrobial, UV protection, allelopathy | Anti-herbivory (bitterness, neurotoxicity), anti-pathogen, pollinator deterrence or attraction | Defense reservoirs (activated on tissue damage), allelopathic agents, [[phytohormones-and-plant-growth-regulation|growth regulators]] |
+| **Ecological Roles** | Anti-herbivory (astringency deters feeding), antimicrobial, UV protection, allelopathy | Anti-herbivory (bitterness, neurotoxicity), anti-pathogen, pollinator deterrence or attraction | Defense reservoirs (activated on tissue damage), allelopathic agents, [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses|growth regulators]] |
 | **Notable Compounds** | Tannic acid, catechin, proanthocyanidins, ellagic acid | Caffeine, nicotine, morphine, quinine, atropine, strychnine, cocaine | Amygdalin (cyanogenic), digitoxin (cardiac), sennosides (anthraquinone), salicin (phenolic) |
 | **Human Uses** | Leather tanning, wine astringency, antioxidants, diarrhea treatment, astringent tonics | Pharmaceuticals (analgesics, antimalarials, stimulants), narcotics, spices, traditional medicine | Medicines (cardiac drugs, laxatives, analgesics), flavorings, dyes, industrial precursors |
-| **Agricultural Significance** | Reduced digestibility in forage crops; breeding for low tannin varieties (sorghum, legumes); beneficial in some silage | Crop protection potential; nicotine analogs as botanical insecticides (see [[botanical-pesticides-and-natural-pest-control]]); alkaloid-rich weeds | Weed management (sorgoleone); glycoside-rich cover crops for pest deterrence; cyanogenic glycosides as livestock toxin risk |
+| **Agricultural Significance** | Reduced digestibility in forage crops; breeding for low tannin varieties (sorghum, legumes); beneficial in some silage | Crop protection potential; nicotine analogs as botanical insecticides (see [[jadam-pest-control-with-natural-pesticides-jhs]]); alkaloid-rich weeds | Weed management (sorgoleone); glycoside-rich cover crops for pest deterrence; cyanogenic glycosides as livestock toxin risk |
 
 ## Chemical Nature: What Makes Each Class Distinct
 
@@ -69,7 +69,7 @@ Glycosides consist of a sugar (the *glycone*) linked via a glycosidic bond to a 
 
 **Molecular size** separates tannins from the others. Tannins are relatively large polymers (500–3,000+ Da) that act primarily through physical-chemical mechanisms — precipitating proteins and binding metals. Alkaloids and glycosides are typically smaller molecules (150–500 Da) with more specific biochemical targets.
 
-**Sugar as a delivery system** is the hallmark of glycosides. The sugar moiety renders the molecule water-soluble and often biologically inactive until enzymatic cleavage releases the aglycone. This makes glycosides a "stored weapon" strategy — the plant keeps the toxin safely bound until herbivore chewing mixes the enzyme (β-glucosidase) with the substrate, triggering a rapid chemical defense response. See [[allelopathy-and-chemical-warfare-in-plants]] for broader chemical ecology context.
+**Sugar as a delivery system** is the hallmark of glycosides. The sugar moiety renders the molecule water-soluble and often biologically inactive until enzymatic cleavage releases the aglycone. This makes glycosides a "stored weapon" strategy — the plant keeps the toxin safely bound until herbivore chewing mixes the enzyme (β-glucosidase) with the substrate, triggering a rapid chemical defense response. See [[fungal-allelopathy-mechanisms-and-ecological-effects]] for broader chemical ecology context.
 
 **Sensory signature** provides practical differentiation: tannins are astringent (mouth-puckering), alkaloids are typically bitter, and glycosides vary but are often tasteless until hydrolysis occurs.
 
@@ -80,15 +80,15 @@ These metabolite classes frequently co-occur in the same plant tissues and can i
 - **Tannin-alkaloid interactions**: Some plants produce both simultaneously, creating a dual defense where tannins reduce protein digestibility while alkaloids deliver neurotoxic effects (e.g., *Datura* species).
 - **Caffeine is both an alkaloid and a glycoside precursor**: Caffeine nucleotides are glycosylated intermediates in purine alkaloid biosynthesis.
 - **Flavonoid glycosides** bridge the glycoside and tannin worlds — many are precursors to condensed tannins and function as antioxidants in their own right.
-- **Defense layering**: As discussed in [[plant-defense-chemistry-and-secondary-metabolites]], plants stack multiple metabolite classes to create redundant, multi-target defenses that are harder for herbivores and pathogens to evolve around.
-- **Volatile connections**: Some glycoside aglycones are released as [[plant-volatile-organic-compounds-and-chemical-ecology|volatile organic compounds]] upon tissue damage, providing both local and airborne defense signaling.
+- **Defense layering**: As discussed in plant defense chemistry and secondary metabolites, plants stack multiple metabolite classes to create redundant, multi-target defenses that are harder for herbivores and pathogens to evolve around.
+- **Volatile connections**: Some glycoside aglycones are released as [[singh-fungal-volatile-organic-compounds-biodegradation|volatile organic compounds]] upon tissue damage, providing both local and airborne defense signaling.
 
 ## Practical Implications
 
 ### For Growers
 
 - **Forage quality**: High tannin content in sorghum, birdsfoot trefoil, and some legumes reduces protein availability to livestock. Select low-tannin cultivars for animal feed, though moderate condensed tannins can reduce bloat and improve nitrogen utilization in ruminants.
-- **Crop protection**: Alkaloid-producing plants (e.g., nicotine in tobacco, pyrethrins in chrysanthemum relatives) offer templates for [[botanical-pesticides-and-natural-pest-control]]. Breeding for enhanced defensive alkaloids is an active research area.
+- **Crop protection**: Alkaloid-producing plants (e.g., nicotine in tobacco, pyrethrins in chrysanthemum relatives) offer templates for [[jadam-pest-control-with-natural-pesticides-jhs]]. Breeding for enhanced defensive alkaloids is an active research area.
 - **Glycoside risks**: Cyanogenic glycosides in cassava, sorghum, and flax require proper processing (soaking, fermentation, drying) before human or animal consumption. Drought stress can dramatically increase cyanogenic potential.
 
 ### For Foragers
@@ -117,8 +117,8 @@ Understanding the distinct chemistry and ecology of these three metabolite class
 
 ## Related Topics
 
-- [[plant-defense-chemistry-and-secondary-metabolites]] — Overview of secondary metabolite classes and their roles in plant defense
-- [[allelopathy-and-chemical-warfare-in-plants]] — How plants use chemicals to compete and defend
-- [[botanical-pesticides-and-natural-pest-control]] — Applied use of plant metabolites for pest management
-- [[phytohormones-and-plant-growth-regulation]] — Primary metabolites that regulate growth and development
-- [[plant-volatile-organic-compounds-and-chemical-ecology]] — Airborne signals and their ecological functions
+- plant defense chemistry and secondary metabolites — Overview of secondary metabolite classes and their roles in plant defense
+- [[fungal-allelopathy-mechanisms-and-ecological-effects]] — How plants use chemicals to compete and defend
+- [[jadam-pest-control-with-natural-pesticides-jhs]] — Applied use of plant metabolites for pest management
+- [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]] — Primary metabolites that regulate growth and development
+- [[singh-fungal-volatile-organic-compounds-biodegradation]] — Airborne signals and their ecological functions

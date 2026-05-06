@@ -145,6 +145,8 @@ The evolutionary impact of such compounds would be amplified in omnivorous speci
 
 ## See Also
 
+- [[dioscorea-alata]]
+
 - [[mckenna-diet-symbiosis-human-evolution]]
 - [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[mckenna-plants-and-primates-coevolution]]

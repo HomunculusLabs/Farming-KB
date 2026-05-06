@@ -103,6 +103,8 @@ in every season without leaving soil bare.
 
 ## Related
 
+- [[query-best-mediterranean-herbs-for-beginner-herb-garden]]
+
 - [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] Questions
 - [[query-how-do-i-start-a-no-till-garden-bed]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]

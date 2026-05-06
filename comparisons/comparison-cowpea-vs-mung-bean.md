@@ -163,3 +163,9 @@ Mung bean's smaller seed size makes it slightly more vulnerable to rapid infesta
 ## Conclusion
 
 Cowpea and mung bean are complementary rather than competing species. Cowpea is the rugged survivor — adapted to extreme heat, drought, and poor soils, providing reliable yields where few other crops can. Mung bean is the quick specialist — a fast-maturing, high-quality pulse that excels in environments with adequate moisture and shorter growing windows. In tropical homesteads and permaculture systems, growing both species across different seasons and microclimates maximizes protein production, soil health benefits, and dietary diversity throughout the year.
+
+## See Also
+
+- [[legume-nitrogen-fixation-mechanism]]
+- [[cover-crop-species-comparison]]
+- [[permaculture-plants-root-crops-and-tubers]]

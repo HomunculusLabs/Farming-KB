@@ -123,4 +123,6 @@ For most smallholder tropical systems, a **cowpea–pigeon pea relay** (perennia
 
 ## See Also
 
+- [[comparison-cowpea-vs-mung-bean]]
+
 - [[comparison-perlite-vs-vermiculite]]

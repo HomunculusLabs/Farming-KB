@@ -148,6 +148,8 @@ conservation biology. The complete world inventory of lichenized fungi
 is expected to total about 18,000 species.
 
 ## See Also
+
+- [[nephroma-arcticum]]
 - [[biodiversity-fungi-soil-ecosystems]]
 - [[biodiversity-fungi-plant-mutualisms]]
 - [[biodiversity-fungi-endophytes-tropical-plants]]

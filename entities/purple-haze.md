@@ -153,4 +153,4 @@ Notable related strains that carry Purple Haze genetics:
 
 - [[cannabis-sativa]] — Cannabis sativa species overview
 - [[cannabis-indica]] — Cannabis indica species overview
-- [[landrace-strains]] — Indigenous cannabis populations
+- [[cannabis-landrace-strains]] — Indigenous cannabis populations

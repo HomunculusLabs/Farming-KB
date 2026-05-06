@@ -37,7 +37,7 @@ The water-to-grain ratio of 1.5:1 was chosen to provide sufficient moisture for 
 
 After full colonization (28 days), the grain was cased with a 2 cm deep layer composed of:
 - **2 parts peat moss** (provides moisture retention and physical structure)
-- **1 part calcium carbonate** (buffers pH to approximately neutral, which is optimal for fruiting initiation in most [[psilocybe]] species)
+- **1 part calcium carbonate** (buffers pH to approximately neutral, which is optimal for fruiting initiation in most psilocybe species)
 - **2 parts perlite and/or vermiculite** (improves aeration and water-holding capacity while maintaining an open structure)
 
 The casing layer serves as a non-nutritive moisture reservoir that triggers fruiting by creating a humid microclimate at the substrate surface while exposing the mycelium to evaporative cues that stimulate pin formation. The calcium carbonate buffer is critical because peat moss is naturally acidic (pH 3.5 to 4.5), and most cultivated mushrooms fruit best near neutral pH.
@@ -62,7 +62,7 @@ The casing layer serves as a non-nutritive moisture reservoir that triggers frui
 - **Flush count**: Typically 5 to 6 flushes before the mycelium exhausted its productive capacity and stopped producing fruiting bodies
 - **Harvest timing**: Each flush was harvested as soon as sporocarps were mature, defined by veil expansion approaching or reaching the point of rupture
 
-The total yield of 2.7 g per jar, while modest by commercial standards, was sufficient for the analytical purposes of the study, which required only small quantities of material for [[high-performance-liquid-chromatography]] analysis. The priority was reproducibility and experimental control rather than maximum biomass production.
+The total yield of 2.7 g per jar, while modest by commercial standards, was sufficient for the analytical purposes of the study, which required only small quantities of material for high performance liquid chromatography analysis. The priority was reproducibility and experimental control rather than maximum biomass production.
 
 ## Advantages of the Miniculture Approach
 
@@ -118,4 +118,4 @@ Cultivators interested in adapting the miniculture method for contemporary use m
 - [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
 - [[psilocybin-stability-across-flushes]]
 - [[psilocin-accumulation-pattern-across-flushes]]
-- [[casing-layer-techniques-for-mushroom-cultivation]]
+- [[gourmet-medicinal-mushroom-casing-layer-techniques]]

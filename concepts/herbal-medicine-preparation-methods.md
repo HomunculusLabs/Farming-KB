@@ -104,6 +104,8 @@ Water-based preparations are best for daily tonics, gentle support, and when rap
 
 ## See Also
 
+- [[plectranthus-amboinicus]]
+
 - [[boswellia-serrata]]
 
 - [[withania-somnifera]]

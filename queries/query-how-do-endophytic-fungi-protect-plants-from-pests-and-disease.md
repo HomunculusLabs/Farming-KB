@@ -91,7 +91,9 @@ protection.
 - [[comparison-amf-vs-endophytic-fungi|Endophytes and AMF]] are
   complementary: endophytes defend while mycorrhizae feed
 
-## Related Questions
+## Related
+
+- [[query-how-do-plants-communicate-and-respond-to-stress]] Questions
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
 - [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]

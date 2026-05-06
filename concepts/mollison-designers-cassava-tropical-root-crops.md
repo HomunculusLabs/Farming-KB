@@ -144,3 +144,9 @@ this reason, cassava is best harvested as needed rather than stored fresh.
 Processing into dried flour or fermented products extends storage life to
 several months. The [[mollison-designers-cold-caves-root-cellar-storage]] concept applies differently in the tropics, where
 below-ground storage may be too warm and humid for root crops.
+
+## See Also
+
+- [[manihot-esculenta]]
+
+- [[xanthosoma-sagittifolium]]

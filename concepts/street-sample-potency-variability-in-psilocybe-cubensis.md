@@ -113,5 +113,5 @@ As jurisdictions move toward regulated access to psilocybin mushrooms, the varia
 - [[psilocin-accumulation-pattern-across-flushes]]
 - [[bigwood-beug-psilocybin-psilocin-variation-analysis]]
 - [[psilocybe-cubensis-cultivation]]
-- [[harm-reduction-principles-for-psychedelic-use]]
-- [[dosage-variability]]
+- [[psychedelic-safety-and-harm-reduction]]
+- dosage variability

@@ -145,6 +145,8 @@ research has been pursued. Three main production methods exist:
 
 ## See Also
 
+- [[antrodia-cinnamomea]]
+
 - [[ganoderma-lucidum]] — The lingzhi mushroom, a fellow polyporaceous
   medicinal fungus with overlapping hepatoprotective applications
 - [[trametes-versicolor]] — Turkey tail polypore with well-studied

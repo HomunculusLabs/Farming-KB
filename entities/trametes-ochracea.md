@@ -110,6 +110,8 @@ Microscopically, spore dimensions and hyphal features provide definitive identif
 
 ## See Also
 
+- [[trametes-coccinea]]
+
 - [[trametes-versicolor]]
 - [[trametes-hirsuta]]
 - [[coriolopsis-gallica]]

@@ -124,7 +124,9 @@ unique contribution to the world's ethnopharmacological heritage.
 Its continued use in traditional societies and growing interest
 worldwide attest to its enduring cultural importance.
 
-## Related Topics
+## Related
+
+- [[piper-methysticum]] Topics
 
 - [[plants-of-the-gods-geography-hallucinogenic-plants]] —
   global distribution of psychoactive plants including kava

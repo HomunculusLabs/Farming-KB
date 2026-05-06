@@ -938,3 +938,4 @@
 ## Z
 
 - [[zone-1-intensive-garden]]
+- [[manihot-esculenta]]

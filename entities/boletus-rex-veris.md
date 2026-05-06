@@ -118,4 +118,4 @@ The species contains ergosterol (provitamin D2), which converts to vitamin D2 up
 - [[lactarius-deliciosus]]
 - [[suillus-granulatus]]
 - [[leccinum-scabrum]]
-- [[xerocomellus-chrysenteron]]
+- xerocomellus chrysenteron
