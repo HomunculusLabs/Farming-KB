@@ -12,8 +12,8 @@ type: concept
 # Falconer Loam for Mushroom Beds
 
 Chapter XII of William Falconer's *Mushrooms: How to Grow Them* (1891)
-addresses the selection and evaluation of loam (soil) for mushroom
-cultivation. Loam served multiple purposes: casing spawned beds,
+addresses the selection and evaluation of loam (soil) for [[mushroom-growing-substrates|mushroom
+cultivation]]. Loam served multiple purposes: casing spawned beds,
 topdressing bearing beds, filling cavities from removed stumps, and mixing
 with manure to form the beds themselves.
 
@@ -22,7 +22,8 @@ with manure to form the beds themselves.
 The ideal loam was rich, fresh, mellow soil such as florists eagerly
 sought for potting and greenhouse purposes. Falconer's preferred material
 was fresh sod loam -- the top spit from a pasture field, gathered in early
-fall and stacked without added manure. The sods were broken up with a
+fall and stacked without added manure. A healthy [[soil-food-web|soil food web]] in the loam
+was essential for supporting vigorous mycelial growth. The sods were broken up with a
 spade or fork, the toughest parts thrown aside, and the finer earthy
 portion used in its rough state, never sifted. Green, soddy parts that
 were not too rough were allowed to remain, as they did no harm to the
@@ -40,7 +41,9 @@ similar material were to be rejected. Such loam could be used at once.
 
 Garden soil was used more frequently than any other sort, with highly
 satisfactory results overall. Falconer's greatest objection was the amount
-of insects it contained on account of repeated heavy manurings.
+of insects it contained on account of repeated heavy manurings. This
+contrasts with the carefully prepared [[falconer-fire-fang-manure-preparation|fire-fang manure]]
+process used for the growing medium itself.
 
 ## Roadside Dirt
 
@@ -55,7 +58,8 @@ inferior to stiffer and more fibrous earth." Rich dark soil from slopes
 and dry hollows in woods could be used with success, though mushrooms do
 not naturally grow in woods. Peat soil or swamp muck composted for two or
 three years failed to give good returns -- mushrooms came up through it
-but did not "take kindly to it."
+but did not "take kindly to it." This aligns with the broader understanding of [[mycorrhizal-networks|fungal-soil relationships]]
+that determine substrate suitability, and echoes findings discussed in [[mushroom-nutrition-manure-fermentation|mushroom nutrition research]].
 
 ## Heavy Clayey Loam
 
@@ -90,7 +94,8 @@ had seen heavy crops of spontaneous mushrooms in violet and carnation beds
 where soil contained at least one-fourth rotted manure. In such beds
 planted artificially with [[falconer-mushroom-spawn-preparation]],
 good crops were raised, and the mycelium often formed a white web right
-through the lumps of old manure rather than evading them.
+through the lumps of old manure rather than evading them. See also [[falconer-spawning-the-beds|spawning technique]]
+and [[falconer-making-up-mushroom-beds|bed preparation]] for the full growing cycle.
 
 ## See Also
 

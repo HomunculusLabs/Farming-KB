@@ -10,7 +10,7 @@ sources: ["raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"]
 
 **Updated:** 2026-04-24
 
-Calcium phosphate is a targeted bionutrient used in natural farming to support plants during the critical changeover period between vegetative growth and reproductive development. Based on the theory of Nutrioperiodism developed by Japanese horticulturist Yasushi Inoue in the 1930s, calcium phosphate addresses a specific nutritional need that occurs at a transitional stage of plant development, analogous to "morning sickness" in pregnancy.
+Calcium phosphate is a targeted bionutrient used in natural farming to support plants during the critical changeover period between vegetative growth and reproductive development. Based on the theory of Nutrioperiodism developed by Japanese horticulturist Yasushi Inoue in the 1930s, calcium phosphate addresses a specific nutritional need that occurs at a transitional stage of plant development, analogous to "morning sickness" in pregnancy. This preparation is part of the broader [[korean-natural-farming|Korean Natural Farming]] toolkit and complements [[beneficial-indigenous-microorganisms-bim|indigenous microorganism]] inoculations.
 
 Related preparations include [[bionutrients-lab-lactic-acid-bacteria-serum]], [[bionutrients-lab-fermented-fruit-juice-ffj]], [[bionutrients-lab-fermented-plant-juice-fpj]], [[bionutrients-lab-fish-aminos]], and [[bionutrients-lab-oriental-herbal-nutrients-ohn]].
 
@@ -109,3 +109,5 @@ The use of calcium phosphate exemplifies several natural farming principles:
 - **Observation-based:** Farmers must observe their crops to identify the changeover period
 - **Minimal intervention:** A single targeted application at the right time can have outsized effects
 - **Natural materials:** Avoids synthetic calcium or phosphate fertilizers
+
+For cannabis cultivators, calcium phosphate application during the changeover from [[cannabis-vegetative-stage|vegetative growth]] to [[cannabis-flowering-stage|flowering]] can improve bud quality and reduce transition stress.

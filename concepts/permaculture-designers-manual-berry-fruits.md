@@ -119,7 +119,9 @@ A well-designed berry polyculture uses companion plants to reduce pest pressure,
 - **Beer traps**: Sink shallow dishes of beer at soil level to trap slugs (especially for strawberries)
 - **Sulfur dust**: Apply to gooseberries and currants for powdery mildew control (acceptable in organic systems)
 
-## Related Topics
+## Related
+
+- [[comparison-serviceberry-vs-elderberry-vs-aronia]] Topics
 
 - [[permaculture-designers-manual-cover-crops-detailed]]
 - [[permaculture-designers-manual-food-forest-guilds]]

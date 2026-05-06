@@ -137,6 +137,10 @@ For natural farming practitioners, Fukuoka's critique means avoiding genetically
 
 ## See Also
 
+- [[direct-seeded-no-tillage-rice-barley-clover-succession]]
+- [[four-principles-natural-farming]]
+- [[gabe-brown]]
+
 - [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
 
 - [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]

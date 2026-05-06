@@ -16,7 +16,7 @@ type: concept
 
 # Ascomycota Phylogeny - Major Classes and Lineages
 
-The Ascomycota is the largest phylum of Kingdom Fungi, with
+The Ascomycota is the largest phylum of Kingdom [[fungal-phylogeny-kingdom-classification|Fungi]], with
 approximately 32,000 described species. It is characterized by the
 production of meiospores (ascospores) within sac-shaped cells
 (asci) and includes many of the most ecologically and economically
@@ -46,14 +46,14 @@ such as rusts.
 
 Other notable members include:
 - **Pneumocystis jiroveci**: causal agent of pneumocystis
-  pneumonia, an opportunistic pathogen of immunocompromised
+  pneumonia, an [[keratinophilic-fungi|opportunistic pathogen]] of immunocompromised
   patients
 - **Schizosaccharomyces** (fission yeasts): important model
   organisms in cell biology
 - **Saitoella complicata**: an asexual soil-dwelling yeast
 - **Neolecta**: an ascoma-producing genus that produces stipitate,
   tonguelike sporocarps with asci in a hymenial layer lacking
-  sterile cells (paraphyses)
+  sterile cells (paraphyses), belonging to the [[fungal-phylogeny-systematics|fungal phylogenetic]] tree's basal branches
 
 The Archiascomycetes is probably not monophyletic but encompasses
 a series of basal lineages. Studies involving multiple independent
@@ -79,7 +79,8 @@ display filamentous growth or produce ascophores.
 The Euascomycetes is the largest class of Ascomycota and arguably
 the most successful group of fungi, including parasites, pathogens,
 and mutualists of plants, algae, and animals, as well as saprobes
-able to decompose virtually all known organic substrata.
+able to decompose virtually all known organic substrata. The [[soil-food-web|soil food web]]
+depends heavily on ascomycete decomposers for nutrient cycling, alongside [[actinomycetes-soil-biology|actinomycetes]] and other fungal groups.
 
 ### Apothecial Lineages
 
@@ -92,7 +93,7 @@ Helvella.
 
 The other major group of apothecial ascomycetes includes the
 lichenized species of Lecanorales sensu lato (more than 7000
-species). In rDNA analyses, two main groups of lichenized
+species). These [[mycorrhizal-fungi|lichen-fungal symbioses]] are among the oldest and most widespread mutualisms on Earth. In rDNA analyses, two main groups of lichenized
 ascomycetes are resolved: one containing apothecial Lecanorales
 s.l., and another comprising the Arthoniales, possibly more
 closely related to Pleosporales and pyrenomycetes.
@@ -109,7 +110,7 @@ traditional groupings are not all supported by molecular data.
 
 The plectomycete clade includes the Eurotiales and Onygenales,
 which contain many medically and industrially important fungi.
-The Eurotiales includes Penicillium and Aspergillus, while the
+The Eurotiales includes Penicillium and Aspergillus, genera central to both industrial fermentation and antibiotic discovery, while the
 Onygenales contains [[keratinophilic-fungi]]
 and systemic pathogens.
 

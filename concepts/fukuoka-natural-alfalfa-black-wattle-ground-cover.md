@@ -14,7 +14,8 @@ type: concept
 Nothing surpasses ladino clover in dealing with weeds, but in warm regions
 where it tends to lose its vigor in the summer, and in cold, dry areas, mixed
 seeding with alfalfa is desirable. This works especially well on earthen
-levees, for example.
+levees, for example. This approach to [[cover-cropping-guide|cover cropping]]
+is central to the [[fukuoka-four-principles-natural-farming|four principles of natural farming]].
 
 ## Alfalfa for Deep Soil Improvement
 
@@ -22,7 +23,9 @@ Alfalfa is very deep-rooted, sending roots down to depths of six feet or
 more. This makes it ideal for improving the deeper soil strata. A hardy
 perennial, it is of great practical value, being resistant to droughty and
 cold conditions as well as to high temperatures. When mixed with clover,
-alfalfa helps to eliminate other herbs and grasses. Wider use of this
+alfalfa helps to eliminate other herbs and grasses. The deep roots of
+legumes like alfalfa also support [[mycorrhizal-networks|mycorrhizal fungal
+networks]] that connect plants across the orchard. Wider use of this
 valuable legume should be made in Japan for soil improvement and as a feed
 and forage crop. Other legumes such as lupine, a summer crop, may also be
 used with good results.
@@ -80,13 +83,16 @@ large number of these acacia among the fruit trees and five or six years
 later fell all the fruit trees and acacias at once, then replant the entire
 orchard with three- to four-year saplings. Not only would this be a far
 better method of replenishing the soil than running a bulldozer through the
-orchard and replanting, it would also rejuvenate the land.
+orchard and replanting, it would also rejuvenate the land. This approach
+complements the broader [[fukuoka-natural-orchard-development|orchard
+development]] strategy.
 
 The black wattle grows constantly throughout the year, always sending out new
 shoots. These attract aphids and scales, which support a growing population
 of ladybugs. One important role of the black wattle then is to serve as a
-protective tree for beneficial insects. Planting five or so of these trees
-per quarter-acre keeps scales and mites down to a minimum.
+protective tree for [[beneficial-insects-pollinators|beneficial insects]].
+Planting five or so of these trees per quarter-acre keeps scales and mites
+down to a minimum.
 
 ## Managing Ground Cover Succession
 

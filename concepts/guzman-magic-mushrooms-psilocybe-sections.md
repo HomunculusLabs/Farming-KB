@@ -125,6 +125,14 @@ The sectional classification of Psilocybe has important biogeographic implicatio
 
 ## See Also
 
+- [[neurotropic-fungi-taxonomic-confusion-and-misidentification]]
+- [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]
+- [[psilocybe-atarhizomatos]]
+- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
+- [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
+- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]
+- [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
+
 - [[specimen-misidentification-erroneous-chemical-analyses-guzman-1998]]
 - [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]
 

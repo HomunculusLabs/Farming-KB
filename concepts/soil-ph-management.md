@@ -143,4 +143,6 @@ The goal is to build a self-regulating system where pH stays within the optimal 
 
 ## Related
 
+- [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
+
 - [[plant-nutrient-deficiency-guide]]

@@ -72,7 +72,19 @@ McKenna's thesis has been criticized as:
 
 Despite these criticisms, McKenna's work has been enormously influential in popularizing the idea that psychoactive plants deserve serious consideration in understanding human cultural evolution. His concept of the "Archaic Revival" has resonated with movements toward ecological consciousness, indigenous rights, and psychedelic renaissance.
 
-## Related Topics
+## Related
+
+- [[dmt-hyperspace-entities]]
+- [[exopheromones-and-plant-intelligence]]
+- [[mckenna-absence-of-dmt-motifs-in-art-history]]
+- [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]
+- [[mckenna-psychedelic-terror-and-existential-authenticity]]
+- [[mckenna-valis-hibernation-of-the-logos]]
+- [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]
+- [[partnership-vs-dominator-societies]]
+- [[psilocybe-biogeographic-hemispheric-asymmetry]]
+- [[stoned-ape-theory]]
+- [[transcendent-other-and-plant-human-information-transfer]] Topics
 
 - [[terence-mckenna-stoned-ape-hypothesis]] for the evolutionary component
 - [[psychedelic-plants-in-ancient-cultures]] for historical evidence

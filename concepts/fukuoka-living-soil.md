@@ -10,13 +10,13 @@ sources:
 
 # The Living Soil
 
-Masanobu Fukuoka's understanding of soil is foundational to his [[fukuoka-four-principles-natural-farming]]. The soil under natural conditions is not an inert growing medium but a living system -- a community of microorganisms, fungi, earthworms, and organic matter that maintains its own fertility.
+Masanobu Fukuoka's understanding of soil is foundational to his [[fukuoka-four-principles-natural-farming]]. The soil under natural conditions is not an inert growing medium but a living system -- a community of microorganisms, [[soil-food-web|soil organisms]], fungi, earthworms, and organic matter that maintains its own fertility.
 
 ## The Soil Teems with Life
 
 People call the soil mineral matter, but some one hundred million bacteria, yeasts, molds, diatoms, and other microbes live in just one gram of ordinary topsoil. Far from being dead and inanimate, the soil is teeming with life. These microorganisms do not exist without reason. Each lives for a purpose, struggling, cooperating, and carrying on the cycles of nature.
 
-The more scientists learn, the more they realize just how awesome is the complexity and mystery of nature. They find this to be a world filled with boundless, inscrutable riddles. The amount of research material that lies hidden in a single gram of soil, a single particle, is mind-boggling.
+The more scientists learn, the more they realize just how awesome is the complexity and mystery of nature. They find this to be a world filled with boundless, inscrutable riddles. The amount of research material that lies hidden in a single gram of soil, a single particle, is mind-boggling. Modern [[actinomycetes-soil-biology|actinomycete research]] and [[bacterial-to-fungal-soil-succession|soil succession studies]] continue to validate Fukuoka's observations.
 
 This living community is what Fukuoka calls the [[fukuoka-bushman-world-ecological-balance]] of the soil. When this community is intact, the soil maintains its own fertility, structure, and health. When it is disrupted by human intervention -- through tillage, chemicals, or compaction -- the soil degrades and the farmer must work ever harder to maintain productivity.
 
@@ -30,7 +30,7 @@ Farmers usually plow the soil to a depth of about four to eight inches, whereas 
 
 ## The Humus Cycle
 
-When leaves fall and plants die back, they form a layer of organic matter on the soil surface. This material is broken down by fungi, bacteria, and soil invertebrates into humus -- a dark, complex organic substance that gives soil its fertility, water-holding capacity, and crumb structure.
+When leaves fall and plants die back, they form a layer of organic matter on the soil surface. This material is broken down by fungi, bacteria, and soil invertebrates into humus -- a dark, complex organic substance that gives soil its fertility, water-holding capacity, and crumb structure. This process mirrors the [[permaculture|permaculture]] principle of returning outputs as inputs.
 
 In Fukuoka's [[fukuoka-straw-mulch-philosophy]] approach, the cycle is maintained by returning all crop residues to the field surface rather than removing or burning them. The straw decomposes in place, feeding the soil microbial community and maintaining the humus layer that sustains fertility year after year.
 
@@ -40,13 +40,13 @@ Fukuoka went ahead and used rice straw despite agricultural experts strictly for
 
 Earthworms are among the most important inhabitants of living soil. They appear where there is humus, and as their numbers increase, moles begin burrowing through the soil. The burrows created by worms and moles serve as natural channels for air and water penetration, eliminating the supposed need for mechanical aeration through tillage.
 
-Earthworms consume organic matter and soil particles, passing them through their digestive systems and casting nutrient-rich material back onto the soil surface. Their burrowing activity keeps the soil loose and well-structured without any human intervention. In Fukuoka's fields, which had not been plowed in over thirty years, the soil remained loose and fertile precisely because this natural soil-working community was allowed to thrive.
+Earthworms consume organic matter and soil particles, passing them through their digestive systems and casting nutrient-rich material back onto the soil surface. Their burrowing activity keeps the soil loose and well-structured without any human intervention. The role of [[mycorrhizal-fungi]] as complementary partners in this underground ecosystem is increasingly recognized by soil scientists. In Fukuoka's fields, which had not been plowed in over thirty years, the soil remained loose and fertile precisely because this natural soil-working community was allowed to thrive.
 
 The soil lives of its own accord and plows itself. It needs no help from man. In nature, the very grasses and trees, and the earthworms and moles in the ground, have acted the part of plowhorse and oxen, completely rearranging and renewing the soil. What can be more desirable to the farmer than being able to work the fields without pulling a plow or swinging a hoe?
 
 ## Mycorrhizal Networks
 
-Beneath the visible soil surface, vast networks of mycorrhizal fungi connect plant roots to each other and to the wider soil ecosystem. These fungal associations help plants access water and nutrients that would otherwise be unavailable, particularly phosphorus and trace minerals. In return, the plants provide the fungi with carbohydrates produced through photosynthesis.
+Beneath the visible soil surface, vast networks of [[mycorrhizal-networks|mycorrhizal fungi]] connect plant roots to each other and to the wider soil ecosystem. These fungal associations help plants access water and nutrients that would otherwise be unavailable, particularly phosphorus and trace minerals. In return, the plants provide the fungi with carbohydrates produced through photosynthesis.
 
 When soil is repeatedly disturbed by tillage, these mycorrhizal networks are severed and destroyed. The plants lose access to this underground nutrient exchange system and become dependent on applied fertilizers -- creating the very dependency that [[fukuoka-compost-unnecessary-philosophy]]. Natural farming, by leaving the soil undisturbed, preserves these networks and allows them to develop fully over time.
 

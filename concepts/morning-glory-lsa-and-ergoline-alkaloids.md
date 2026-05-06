@@ -134,7 +134,9 @@ vendors, creating a legal gray area.
 - Borsutzky, M. et al. (2002). Nervenarzt, 73, 892-896.
 - Petroski, R.J. et al. (1992). Nat Toxins, 1, 84-88.
 
-## Related Topics
+## Related
+
+- [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]] Topics
 
 [[hallucinogenic-plants-native-to-united-states]] surveys psychoactive flora found growing wild in the US, including several ergoline-containing species.
 [[psilocybin-containing-mushrooms-in-us]] covers the other major class of naturally occurring hallucinogenic organisms in the United States.

@@ -134,6 +134,17 @@ Pods used medicinally as a remedy for bowel conditions in children. Highly nutri
 
 ## Related
 
+- [[azolla-caroliniana]]
+- [[euterpe-oleracea]]
+- [[laurus-nobilis]]
+- [[mesembrine]]
+- [[nerium-oleander]]
+- [[platanus-x-hispanica]]
+- [[ptychopetalum-olacoides]]
+- [[quercetin]]
+- [[rosa-damascena]]
+- [[vanilla-planifolia]]
+
 - [[insectary-plants-guide]]
 - [[garden-plant-groupings]]
 - [[food-forest-understory-plants]]

@@ -114,4 +114,7 @@ The [[mollison-designers-design-client-interview-and-site-assessment-process]] s
 and ethical commitments, ensuring that the design aligns with both the
 client's goals and permaculture ethics.
 ## See Also
+
+- [[comparison-agroecology-vs-permaculture]]
+- [[query-best-native-fruiting-shrubs-for-permaculture-hedges]]
 - [[mollison-designers-design-ethics-and-principles]]

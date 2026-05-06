@@ -30,7 +30,8 @@ vegetable seeds is profound. Between 0-38 degrees C (32-100 degrees
 F), the time to germinate can be reduced to one-tenth or one-fourth
 of that in cold soils by increasing soil temperatures. However, at
 the extremes of this range, many plants have limiting factors which
-result in no germination.
+result in no germination. Understanding these thresholds is critical for [[mollison-plant-nursery-species-selection|species selection]]
+in any permaculture system.
 
 While almost all vegetable seed will germinate in soils at 15-20
 degrees C (59-68 degrees F), some species have specific requirements:
@@ -66,7 +67,7 @@ refrigerator when taken to warmer climates. Apple seeds stored in
 sand or chestnuts in peat sprout in this way, and can be potted out
 as they shoot. This reproduces the exposure to cold at about 0-5
 degrees C (32-40 degrees F) that they normally experience at the
-litter level in cold forests or marshes.
+litter level in cold forests or marshes. This technique connects directly to [[mollison-cold-climate-strategies-detailed]]. See also [[mollison-seed-resources-and-sovereignty]] for sourcing cold-adapted varieties.
 
 Wild rice and other "soft" aquatic seeds are stored in open ponds,
 or under water in an ordinary refrigerator. Stratification can also
@@ -137,3 +138,13 @@ breaking dormancy for [[permaculture-designers-manual-pioneer-species]], ensurin
 local seed sovereignty through [[mollison-seed-resources-and-sovereignty]]. The overall approach is to work with natural seed
 adaptations rather than against them, using gentle, low-energy
 methods that mirror natural processes.
+
+## See Also
+
+- [[mollison-plant-nursery-species-selection]]
+- [[mollison-seed-resources-and-sovereignty]]
+- [[mollison-cold-climate-strategies-detailed]]
+- [[mollison-designers-seed-pelleting-and-pretreatment]]
+- [[permaculture-designers-manual-pioneer-species]]
+- [[permaculture-designers-manual-plant-nursery]]
+- [[biointensive-seed-saving]]
