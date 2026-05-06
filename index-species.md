@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2007 pages**
+**2012 pages**
 
 ## #
 
@@ -452,7 +452,9 @@
 - [[cannabigerol-cbg]]
 - [[cannabigerolic-acid-cbga]]
 - [[cannabinol-cbn]]
+- [[cannabis-blue-dream]]
 - [[cannabis-indica]]
+- [[cannabis-northern-lights]]
 - [[cannabis-ruderalis]]
 - [[cannabis-sativa]]
 - [[cantharellus-cibarius]]
@@ -747,6 +749,7 @@
 - [[eucommia-ulmoides]]
 - [[eudarluca-caricis]]
 - [[eugenia-bone]]
+- [[eugenia-caryophyllata]]
 - [[eugenol]]
 - [[eupatorium-perfoliatum]]
 - [[euryale-ferox]]
@@ -963,6 +966,7 @@
 - [[hypsizygus-marmoreus]]
 - [[hypsizygus-tessulatus]]
 - [[hypsizygus-ulmarius]]
+- [[hyssopus-officinalis]]
 
 ## I
 
@@ -1529,6 +1533,7 @@
 - [[pluteus-nigroviridis]]
 - [[pluteus-romellii]]
 - [[pluteus-salicinus]]
+- [[pluteus-saliginus]]
 - [[pluteus-salvinus]]
 - [[pluteus-umbrosus]]
 - [[pluteus-villosus]]

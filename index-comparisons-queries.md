@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1014 pages**
+**1020 pages**
 
 ## A
 
@@ -73,6 +73,7 @@
 - [[comparison-biochar-vs-mycoremediation]]
 - [[comparison-biochar-vs-mycorrhiza]]
 - [[comparison-biochar-vs-vermicomposting]]
+- [[comparison-biodynamic-farming-vs-organic-farming]]
 - [[comparison-biodynamic-preparations-vs-biofertilizers]]
 - [[comparison-biodynamic-vs-biointensive]]
 - [[comparison-biodynamic-vs-permaculture]]
@@ -139,6 +140,7 @@
 - [[comparison-cob-vs-timber-frame]]
 - [[comparison-coco-coir-cannabis-vs-peat-free-gardening]]
 - [[comparison-coco-coir-vs-peat]]
+- [[comparison-coffee-vs-cacao-cultivation]]
 - [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
 - [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
 - [[comparison-comfrey-vs-dandelion]]
@@ -352,6 +354,7 @@
 - [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]
 - [[comparison-reciprocal-roof-vs-timber-frame]]
 - [[comparison-regenerative-vs-biodynamic]]
+- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]
 - [[comparison-reishi-vs-lions-mane-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]
@@ -710,6 +713,7 @@
 - [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
 - [[query-how-does-vermicomposting-work]]
 - [[query-how-mycorrhizal-fungi-help-plants]]
+- [[query-how-to-attract-and-support-native-bee-pollinators]]
 - [[query-how-to-attract-native-bees-and-beneficial-insects]]
 - [[query-how-to-brew-a-fungal-dominant-compost-tea]]
 - [[query-how-to-brew-kombucha-at-home-step-by-step]]
@@ -759,6 +763,7 @@
 - [[query-how-to-grow-dragon-fruit-pitaya-at-home]]
 - [[query-how-to-grow-food-in-small-spaces-vertically]]
 - [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]]
+- [[query-how-to-grow-guava-in-different-climates]]
 - [[query-how-to-grow-king-stropharia-garden-giant-mushrooms]]
 - [[query-how-to-grow-medicinal-herbs-at-home]]
 - [[query-how-to-grow-morel-mushrooms]]
@@ -882,6 +887,7 @@
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]]
 - [[query-what-are-the-benefits-of-no-till-gardening]]
+- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
 - [[query-what-are-the-best-companion-plants-for-cannabis]]
 - [[query-what-are-the-best-crops-for-a-desert-food-forest]]
