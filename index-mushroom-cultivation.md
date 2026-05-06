@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1325 pages**
+**1326 pages**
 
 ## #
 
@@ -516,6 +516,7 @@
 - [[hallucinogenic-mushroom-legal-status-eu]]
 - [[hallucinogenic-mushroom-legal-status-europe]]
 - [[hallucinogenic-mushroom-legislation-in-europe]]
+- [[hallucinogenic-mushroom-market-in-europe]]
 - [[hallucinogenic-mushroom-online-retail-markets]]
 - [[hallucinogenic-mushroom-prevalence-europe]]
 - [[hallucinogenic-mushroom-prevalence-in-europe]]

@@ -2,10 +2,11 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**1934 pages**
+**1944 pages**
 
 ## #
 
+- [[1b-lsd]]
 - [[1cp-lsd]]
 - [[1p-lsd]]
 - [[1v-lsd]]
@@ -201,6 +202,7 @@
 - [[agaritine]]
 - [[agastache-foeniculum]]
 - [[agastache-rugosa]]
+- [[agave-americana]]
 - [[agricultural-mycorrhizae]]
 - [[agrimonia-eupatoria]]
 - [[agroclavine]]
@@ -261,6 +263,7 @@
 - [[amanita-vaginata]]
 - [[amanita-velosa]]
 - [[amanita-verna]]
+- [[amanita-virosa]]
 - [[amnesia-haze]]
 - [[amorpha-fruticosa]]
 - [[ampelomyces-quisqualis]]
@@ -300,6 +303,7 @@
 - [[armillaria-mellea]]
 - [[armillaria-mellea-entity]]
 - [[armillaria-ostoyae]]
+- [[armillaria-tabescens]]
 - [[arnica-montana]]
 - [[aronia-melanocarpa]]
 - [[artemisia-absinthium]]
@@ -658,6 +662,7 @@
 - [[duboisia-hopwoodii]]
 - [[duddingtonia-flagrans]]
 - [[durban-poison]]
+- [[durio-zibethinus]]
 - [[dynamic-accumulators]]
 
 ## E
@@ -1055,6 +1060,7 @@
 - [[laetisaria-arvalis]]
 - [[lambs-bread]]
 - [[lambsbread]]
+- [[lantana-camara]]
 - [[laricifomes-officinalis]]
 - [[larry-og]]
 - [[latua-pubiflora]]
@@ -1319,6 +1325,7 @@
 - [[northern-lights]]
 - [[northern-lights-cannabis]]
 - [[northern-lights-entity]]
+- [[nothofagus-obliqua]]
 - [[nyc-diesel]]
 - [[nymphaea-ampla]]
 - [[nymphaea-caerulea]]
@@ -1676,6 +1683,7 @@
 - [[roger-heim]]
 - [[roland-griffiths]]
 - [[rolf-singer]]
+- [[romulan]]
 - [[rosa-canina]]
 - [[rosmarinus-officinalis-entity]]
 - [[royal-gorilla]]
@@ -1823,6 +1831,7 @@
 - [[tagetes-minuta]]
 - [[talaromyces-flavus]]
 - [[tamarillo]]
+- [[tamarindus-indica]]
 - [[tanacetum-parthenium]]
 - [[tangerine-dream]]
 - [[tangie]]
@@ -1847,6 +1856,7 @@
 - [[thai-stick]]
 - [[thai-stick-entity]]
 - [[thelephora-terrestris]]
+- [[theobroma-cacao]]
 - [[theobromine]]
 - [[thin-mint]]
 - [[three-sisters]]

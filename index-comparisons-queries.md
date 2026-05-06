@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1005 pages**
+**1007 pages**
 
 ## A
 
@@ -216,6 +216,7 @@
 - [[comparison-greywater-vs-constructed-wetland]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
 - [[comparison-hardneck-vs-softneck-garlic]]
+- [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
@@ -649,6 +650,7 @@
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
 - [[query-how-do-i-start-farming-spirulina-at-home]]
+- [[query-how-do-i-start-growing-hazelnut-bushes]]
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
 - [[query-how-do-i-start-making-kefir-at-home]]
 - [[query-how-do-i-start-natural-dyeing-with-plants]]

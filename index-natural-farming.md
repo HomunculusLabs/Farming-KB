@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**845 pages**
+**846 pages**
 
 ## A
 
@@ -800,6 +800,7 @@
 - [[natural-farming-poster-input-free-farming]]
 - [[natural-farming-poster-korean-methods-summary]]
 - [[natural-farming-poster-korean-techniques-summary]]
+- [[natural-farming-principles-fukuoka]]
 - [[natural-farming-seed-balls]]
 - [[natural-farming-seed-saving]]
 - [[natural-farming-soil-building]]
