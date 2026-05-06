@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2331 pages**
+**2335 pages**
 
 ## #
 
@@ -568,6 +568,7 @@
 - [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
 - [[formulation-and-delivery-of-fungal-inocula]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
+- [[free-spore-ring-europe-mushroom-cultivation-network]]
 - [[freshwater-fungal-habitats-conservation-urgency]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 - [[freshwater-fungi-biodiversity]]
@@ -1775,6 +1776,8 @@
 - [[neurotropic-fungi-japan-east-asia-species-cultural-context]]
 - [[neurotropic-fungi-mycologist-distribution-bias]]
 - [[neurotropic-fungi-of-mexico-and-mesoamerica]]
+- [[neurotropic-fungi-taxonomic-confusion-and-misidentification]]
+- [[neurotropic-fungi-underground-trade-legislation-guzman-1998]]
 - [[neurotropic-fungi-volatility-and-potency-degradation]]
 - [[neurotropic-fungi-world-checklist]]
 - [[next-generation-sequencing-hidden-fungal-diversity]]
@@ -1884,6 +1887,7 @@
 - [[proteomics-early-am-symbiosis-stages]]
 - [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]
 - [[psilocybe-aztecorum-profile]]
+- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
 - [[psilocybe-baeocystis-profile]]
 - [[psilocybe-bohemica-central-european]]
 - [[psilocybe-caerulescens-profile]]

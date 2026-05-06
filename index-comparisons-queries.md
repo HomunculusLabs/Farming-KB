@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1010 pages**
+**1014 pages**
 
 ## A
 
@@ -29,6 +29,7 @@
 - [[comparison-aeroponics-vs-hydroponics]]
 - [[comparison-agar-vs-liquid-culture]]
 - [[comparison-agave-vs-prickly-pear-cultivation]]
+- [[comparison-agroecology-vs-permaculture]]
 - [[comparison-alkaloids-vs-flavonoids-vs-terpenes]]
 - [[comparison-alley-cropping-vs-silvopasture]]
 - [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]
@@ -376,6 +377,7 @@
 - [[comparison-seed-starting-vs-direct-seeding]]
 - [[comparison-sepp-holzer-vs-biodynamic]]
 - [[comparison-sepp-holzer-vs-permaculture-design]]
+- [[comparison-serviceberry-vs-elderberry-vs-aronia]]
 - [[comparison-sheet-mulching-vs-chop-and-drop]]
 - [[comparison-sheet-mulching-vs-chop-and-drop-mulching]]
 - [[comparison-sheet-mulching-vs-double-digging]]
@@ -537,6 +539,7 @@
 - [[query-best-citrus-varieties-for-different-climates]]
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 - [[query-best-light-schedule-for-cannabis]]
+- [[query-best-native-fruiting-shrubs-for-permaculture-hedges]]
 - [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
 - [[query-can-fungi-break-down-plastic-pollution]]
 - [[query-can-fungi-clean-up-oil-spills]]
@@ -699,6 +702,7 @@
 - [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
 - [[query-how-does-no-till-cannabis-cultivation-work]]
 - [[query-how-does-one-carbon-metabolism-affect-methylation]]
+- [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]
 - [[query-how-does-phytoremediation-work-and-what-plants-are-best-for-it]]
 - [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]]
 - [[query-how-does-rock-dust-improve-soil-fertility]]

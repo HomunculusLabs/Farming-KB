@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**205 pages**
+**206 pages**
 
 ## A
 
@@ -168,6 +168,7 @@
 - [[natural-building-materials-guide]]
 - [[natural-building-overview]]
 - [[natural-farm-food-preservation-methods]]
+- [[natural-livestock-farming]]
 - [[natural-pool-building]]
 - [[nut-butter-making]]
 

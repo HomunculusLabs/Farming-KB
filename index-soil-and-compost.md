@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**389 pages**
+**390 pages**
 
 ## A
 
@@ -90,6 +90,7 @@
 
 ## D
 
+- [[direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[direct-seeded-no-tillage-rice-winter-grain-succession]]

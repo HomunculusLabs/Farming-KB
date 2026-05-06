@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**846 pages**
+**848 pages**
 
 ## A
 
@@ -71,6 +71,7 @@
 
 - [[effective-microorganisms-em]]
 - [[electron-transport-chain-mitochondrial-respiration]]
+- [[energy-efficiency-natural-farming]]
 - [[european-psycholytic-therapy-1960s-1970s]]
 
 ## F
@@ -78,6 +79,7 @@
 - [[fermented-plant-extract-fpe]]
 - [[fermented-plant-juice-preparation-and-application]]
 - [[fish-amino-acid-faa]]
+- [[four-principles-natural-farming]]
 - [[four-principles-of-natural-farming]]
 - [[four-principles-of-natural-farming-fukuoka]]
 - [[fukuoka-africa-natural-farming]]

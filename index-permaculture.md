@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1566 pages**
+**1565 pages**
 
 ## A
 
@@ -1527,7 +1527,6 @@
 - [[sepp-holzer-terracing-and-hugelkultur]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]
 - [[sewage-waste-recycling-permaculture]]
-- [[sheet-mulching]]
 - [[sheet-mulching-guide]]
 - [[sheet-mulching-lasagna-gardening]]
 - [[sheet-mulching-methods-urban-permaculture]]

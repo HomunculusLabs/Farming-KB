@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**849 pages**
+**851 pages**
 
 ## A
 
@@ -167,6 +167,7 @@
 - [[edible-landscaping]]
 - [[elderberry-growing-guide]]
 - [[evapotranspiration-crop-water-use]]
+- [[exopheromones-and-plant-intelligence]]
 - [[extending-growing-season]]
 
 ## F
@@ -849,6 +850,7 @@
 - [[tompkins-soviet-plant-research-gunar-academy]]
 - [[top-bar-hive]]
 - [[town-garden-design]]
+- [[transcendent-other-and-plant-human-information-transfer]]
 - [[transplanting-techniques-low-input]]
 - [[transplanting-techniques-solomon]]
 - [[trap-cropping]]

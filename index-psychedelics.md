@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1249 pages**
+**1255 pages**
 
 ## #
 
@@ -182,6 +182,7 @@
 - [[dmt-experience-and-hyperspace-entities]]
 - [[dmt-extraction-guide]]
 - [[dmt-hyperspace-and-machine-elves]]
+- [[dmt-hyperspace-entities]]
 - [[dmt-reference]]
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[dmt-smoking-and-administration-methods]]
@@ -637,6 +638,7 @@
 - [[mariri-phantom-sorcery]]
 - [[maya-entheogens]]
 - [[mckenna-abandonment-of-the-mystery]]
+- [[mckenna-absence-of-dmt-motifs-in-art-history]]
 - [[mckenna-acquired-tastes-chemical-addiction-syndrome]]
 - [[mckenna-agriculture-and-the-fall-from-paradise]]
 - [[mckenna-alcohol-alchemy-spirit]]
@@ -663,6 +665,7 @@
 - [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]
 - [[mckenna-coca-mama-coca-inca-goddess-tradition]]
 - [[mckenna-consciousness-expansion-and-drug-war]]
+- [[mckenna-critique-of-seti-and-cultural-blindness]]
 - [[mckenna-diet-symbiosis-human-evolution]]
 - [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
 - [[mckenna-dionysus-dying-god-archetype]]
@@ -674,6 +677,7 @@
 - [[mckenna-dmt-entities-borges-and-archaic-secret]]
 - [[mckenna-dmt-experience-and-hyperspace]]
 - [[mckenna-dmt-experience-and-overmind]]
+- [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]
 - [[mckenna-dmt-phenomenology-and-cognitive-dissonance-of-wonder]]
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 - [[mckenna-dominator-vs-partnership-society-model]]
@@ -758,6 +762,7 @@
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-psychedelic-plant-use-in-antiquity]]
 - [[mckenna-psychedelic-shamanism]]
+- [[mckenna-psychedelic-terror-and-existential-authenticity]]
 - [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]
 - [[mckenna-roland-fischer-psilocybin-visual-acuity]]
 - [[mckenna-search-for-soma-vedic-enigma]]
@@ -790,6 +795,7 @@
 - [[mckenna-tryptamines-logos-consciousness]]
 - [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
 - [[mckenna-ur-plant-hypothesis]]
+- [[mckenna-valis-hibernation-of-the-logos]]
 - [[mckenna-vedic-soma-indo-european-mysteries]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
 - [[mckenna-war-as-vector-of-addiction]]
