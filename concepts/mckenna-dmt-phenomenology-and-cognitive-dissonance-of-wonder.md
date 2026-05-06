@@ -24,9 +24,7 @@
     24|Consciousness." His description traces the complete arc of a smoked DMT session, from
     25|onset through the encounter with [[self-transforming machine elves]] to the cognitive
     26|dissonance that arises when the human mind confronts translinguistic objects. This
-    27|account remains a foundational text in the literature of [[tryptamine hallucinogens and
-    28|consciousness]] and provides the experiential basis for McKenna's broader [[tryptamine
-    29|consciousness theory]].
+    27|account remains a foundational text in the literature of [[tryptamine hallucinogens and-28|consciousness]] and provides the experiential basis for McKenna's broader [[tryptamine|consciousness theory]].
     30|
     31|## Onset: The First Fifteen Seconds
     32|
@@ -65,8 +63,7 @@
     65|McKenna connected the DMT experience to the twenty-fourth fragment of Heraclitus: "The
     66|Aeon is a child at play with colored balls." In the tryptamine state, he reported, one
     67|not only becomes the Aeon at play with colored balls but meets entities as well. In
-    68|The Invisible Landscape, he and his brother Dennis described these as [[self-transforming
-    69|machine elves]]: "dynamically contorting topological modules that are somehow distinct
+    68|The Invisible Landscape, he and his brother Dennis described these as machine elves: "dynamically contorting topological modules that are somehow distinct
     70|from the surrounding background, which is itself undergoing continuous transformation."
     71|The elves remind McKenna of the Munchkin scene in The Wizard of Oz after the death
     72|certificate for the Witch of the East. They have "very squeaky voices and they sing a

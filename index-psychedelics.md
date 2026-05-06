@@ -1322,3 +1322,8 @@
 ## Z
 
 - [[zoroaster-mazda-religion-haoma]]
+- [[mckenna-epilogue-from-grasslands-to-the-starship]]
+- [[mckenna-hyperspace-law-and-the-remarkable-overmind]]
+- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]
+- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
+- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]

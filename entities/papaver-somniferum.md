@@ -164,6 +164,8 @@ Poppy seeds are widely consumed globally:
 
 ## See Also
 
+- [[papaver-rhoeas]]
+
 - [[medicinal-mushrooms]]
 
 - [[mckenna-opium-wars-and-drug-diplomacy]]

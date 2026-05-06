@@ -2028,3 +2028,8 @@
 - [[zingiber-officinale]]
 - [[zkittlez]]
 - [[zookies]]
+- [[gymnopilus-earlei]]
+- [[papaver-rhoeas]]
+- [[pluteus-cyanopus]]
+- [[psilocybe-serotina]]
+- [[tanacetum-vulgare]]

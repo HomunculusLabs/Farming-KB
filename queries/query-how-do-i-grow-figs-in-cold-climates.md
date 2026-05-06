@@ -145,6 +145,8 @@ fermentation. Choose closed-eye varieties like Celeste to prevent this issue.
 
 ## Related
 
+- [[query-how-to-grow-passionfruit-in-different-climates]]
+
 - [[query-how-to-grow-avocados-in-cold-climates]] Questions
 
 - [[query-how-to-build-a-raised-bed-garden]]

@@ -121,6 +121,8 @@ well-drained soil and full sun but tolerates partial shade. Hardy to USDA zone
 
 ## See Also
 
+- [[tanacetum-vulgare]]
+
 - [[matricaria-chamomilla]]
 - [[achillea-millefolium]]
 - chrysanthemum

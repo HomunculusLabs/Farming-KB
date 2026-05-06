@@ -50,8 +50,7 @@ Psilocybin and psilocin are volatile compounds that degrade over time,
 particularly when exposed to heat, light, and atmospheric oxygen. This
 degradation has several important practical and scientific consequences:
 
-**Specimen age.** Chemical analyses of herbarium specimens of [[Psilocybe
-semilanceata]] demonstrated a clear inverse relationship between specimen age
+**Specimen age.** Chemical analyses of herbarium specimens of [[Psilocybe-semilanceata]] demonstrated a clear inverse relationship between specimen age
 and psilocybin content: 0.014% dry weight in specimens from 1869, 0.67% from
 1954, and 0.84% from 1976. This progressive loss explains why indigenous
 Mazatec practitioners in Mexico traditionally discard dried mushroom specimens
@@ -66,8 +65,7 @@ leaving the room, suggesting that volatile psilocin can be absorbed through
 inhalation at sufficient concentrations.
 
 **Age-dependent alkaloid profiles.** Repke et al. (1977) demonstrated
-variations in baeocystin presence according to specimen age. In [[Psilocybe
-baeocystis]] and [[Psilocybe cyanescens]], no trace of indoles could be detected
+variations in baeocystin presence according to specimen age. In [[Psilocybe-baeocystis]] and [[Psilocybe cyanescens]], no trace of indoles could be detected
 20 to 60 days after collection. Different indole alkaloids degrade at different
 rates, meaning the chemical profile of a given species changes significantly
 over time.
@@ -121,8 +119,7 @@ fundamental changes in thought, mood, and personality integration.
 Substances that produce psychotic and delirious effects without the classic
 visual disturbances are classified as pseudo-hallucinogens. The ibotenic acid-
 containing [[Amanita]] species belong to an entirely different pharmacological
-category, acting as GABA receptor modulators. The active chemicals in [[Amanita
-muscaria]] — muscimol, ibotenic acid, and muscarine — are "totally different
+category, acting as GABA receptor modulators. The active chemicals in [[Amanita-muscaria]] — muscimol, ibotenic acid, and muscarine — are "totally different
 from mushrooms containing psilocybin" and carry substantially greater toxicity
 risks, with some closely related Amanita species being fatally poisonous.
 
@@ -150,8 +147,7 @@ and Singer (1986) to confirm that certain species are neurotropic.
 In recreational and traditional contexts, psilocybin mushrooms are typically
 ingested orally, either eaten fresh or dried, or brewed into a tea. The EMCDDA
 (2006) noted that mushrooms are "typically chopped and ingested or brewed in
-tea." Sclerotia-forming species such as [[Psilocybe mexicana]] and [[Psilocybe
-tampanensis]] produce hardened masses of mycelium known as "truffles" or
+tea." Sclerotia-forming species such as [[Psilocybe mexicana]] and [[Psilocybe-tampanensis]] produce hardened masses of mycelium known as "truffles" or
 "philosopher's stones," consumed in the same manner.
 
 Onset of effects typically occurs within 20 to 60 minutes after ingestion, with

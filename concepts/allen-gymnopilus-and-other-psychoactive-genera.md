@@ -145,6 +145,8 @@ pore, while *Panaeolus* spores possess one.
 
 ## See Also
 
+- [[psilocybe-serotina]]
+
 - [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-pans-cyanescens-australia-distribution]]
 - [[allen-psilocybin-potency-australian-species]]

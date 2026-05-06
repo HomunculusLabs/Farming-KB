@@ -76,8 +76,7 @@
     76|[[psychedelic psychotherapy]] was a legitimate form of scientific inquiry rather than a
     77|purely clinical or mystical endeavor. The realms of consciousness accessed through
     78|these substances, including [[Grof perinatal matrices and transpersonal consciousness]]
-    79|and the encounter with [[spirit beings and multiple realities in entheogenic
-    80|experience]], could be studied with the same rigor that biologists apply to cellular
+    79|and the encounter with [[spirit beings and multiple realities in entheogenic-80|experience]], could be studied with the same rigor that biologists apply to cellular
     81|structures.
     82|
     83|The microscope metaphor also suggests that the knowledge gained through psychedelic
@@ -143,8 +142,7 @@
    143|
    144|## Application to Shamanic and Hybrid Contexts
    145|
-   146|The amplifier and microscope metaphors also illuminate the practice of [[shamanic
-   147|healing and divination]] in indigenous cultures. The shaman's elaborate ritual
+   146|The amplifier and microscope metaphors also illuminate the practice of healing and divination in indigenous cultures. The shaman's elaborate ritual
    148|preparations, including fasting, purification, and the invocation of specific
    149|[[spirit beings]], can be understood as the careful arrangement of set and setting to
    150|direct the amplifying effect of the [[psychoactive plants]] toward specific therapeutic

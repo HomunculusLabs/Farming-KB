@@ -107,8 +107,7 @@ proven to be poisonous.
 
 **Misidentification.** Many chemical studies used misidentified material. Early
 studies reporting psilocybin in [[Psilocybe pseudobullacea]] likely used
-specimens of a different, unnamed neurotropic species. [[Psilocybe
-coprinifacies]] has been subject to extensive taxonomic confusion.
+specimens of a different, unnamed neurotropic species. [[Psilocybe-coprinifacies]] has been subject to extensive taxonomic confusion.
 
 **Contradictory chemical results.** [[Panaeolina foenisecii]], a cosmopolitan
 lawn mushroom, has been reported both with and without psilocybin. It is now
@@ -130,8 +129,7 @@ species because both produce white fruit bodies on cow dung.
 
 Several common edible species have been incorrectly reported as hallucinogenic.
 [[Laetiporus sulphureus]] and [[Meripilus giganteus]] contain hordenine and
-tyramine, which can cause dizziness, but are widely eaten. [[Chlorophyllum
-molybdites]] is poisonous despite its Yoruba name "a jegba ariwo-orun" (eat and
+tyramine, which can cause dizziness, but are widely eaten. [[Chlorophyllum-molybdites]] is poisonous despite its Yoruba name "a jegba ariwo-orun" (eat and
 hear voices from heaven). [[Ganoderma lobatum]] was venerated in a Mexican church
 in Chignahuapan, Puebla — a church built specifically in honor of the fungus —
 but its use likely relates to proximity to active [[Psilocybe]] species in the

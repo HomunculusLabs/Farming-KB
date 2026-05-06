@@ -137,6 +137,8 @@ responsible for its spread.
 
 ## See Also
 
+- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]
+
 - [[peyote-and-mescaline]]
 
 - [[golden-guide-hallucinogenic-plants-overview]]

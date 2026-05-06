@@ -142,6 +142,8 @@ are actually G. ventricosus, an inactive look-alike.
 
 ## See Also
 
+- [[gymnopilus-earlei]]
+
 - [[gymnopilus-validipes]]
 
 - [[stamets-psylo-minor-genera-inocybe-pluteus]]

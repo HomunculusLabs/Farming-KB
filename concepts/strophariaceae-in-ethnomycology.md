@@ -164,8 +164,7 @@ Denmark, the Netherlands, Germany, Estonia, the UK, and Ireland.
 
 [[Psilocybe cubensis]] was the most commonly marketed species, sold under
 variety names such as "Mexican," "Thai," "Colombian," and "Amazonian."
-Sclerotia-forming species such as [[Psilocybe mexicana]] and [[Psilocybe
-tampanensis]], sold as "truffles" or "philosopher's stones," were also
+Sclerotia-forming species such as [[Psilocybe mexicana]] and [[Psilocybe-tampanensis]], sold as "truffles" or "philosopher's stones," were also
 commercially available. Legal responses led to emerging interest in alternative
 psychoactive mushrooms, particularly [[Amanita muscaria]], which presents
 distinct and potentially serious toxicity risks due to its ibotenic acid and

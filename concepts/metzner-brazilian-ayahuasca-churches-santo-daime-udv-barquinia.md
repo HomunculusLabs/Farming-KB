@@ -22,8 +22,7 @@
     22|# Brazilian Ayahuasca Churches and Syncretic Entheogenic Ceremony
     23|
     24|In Brazil, the use of [[ayahuasca-brewing-guide]] has been organized into at least three legally
-    25|recognized churches that represent a unique form of [[syncretic entheogenic folk
-    26|ceremony]] blending indigenous Amazonian shamanic practices with Catholic, African, and
+    25|recognized churches that represent a unique form of [[syncretic entheogenic folk-26|ceremony]] blending indigenous Amazonian shamanic practices with Catholic, African, and
     27|esoteric spiritual traditions. The Santo Daime, the Uniao de Vegetal (UDV), and the
     28|Barquinia each emerged in the mid-twentieth century from contact between rubber tappers
     29|working in the Amazon region and indigenous or mestizo [[ayahuasca-brewing-guide]] practitioners.
@@ -86,8 +85,7 @@
     86|worship. The hymns, called "hinos," are considered to be received directly from the
     87|spiritual realm and function as vehicles for both individual and collective healing. The
     88|dancing and singing create a rhythmic structure that supports the flow of the
-    89|entheogenic experience, similar to the role of [[shamanic singing and icaros in
-    90|ayahuasca ceremony]] in indigenous Amazonian practice. The kinesthetic element of the
+    89|entheogenic experience, similar to the role of [[shamanic singing and icaros in-90|ayahuasca ceremony]] in indigenous Amazonian practice. The kinesthetic element of the
     91|dancing adds a somatic dimension to the experience that is absent from the more
     92|sedentary UDV format.
     93|

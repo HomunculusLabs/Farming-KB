@@ -104,8 +104,7 @@
    104|states without drugs.
    105|
    106|The transpersonal realms include experiences of cosmic unity, encounters with
-   107|archetypal figures and [[spirit beings and multiple realities in entheogenic
-   108|experience]], identification with animals, plants, or inorganic matter, past-life
+   107|archetypal figures and [[spirit beings and multiple realities in entheogenic-108|experience]], identification with animals, plants, or inorganic matter, past-life
    109|experiences, precognition, telepathy, and experiences of the dying process. These
    110|phenomena could not be explained within the biographical or perinatal frameworks and
    111|required a fundamental expansion of the theoretical model of the human psyche.

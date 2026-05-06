@@ -14,7 +14,7 @@ sources:
 
 # Psilocybin
 
-Psilocybin is the primary psychoactive compound found in hallucinogenic mushrooms of the [[Psilocybe]] genus and related taxa. It is a naturally occurring indolealkylamine classified as a tryptamine, placing it in the same broad chemical family as LSD, DMT, and the endogenous neurotransmitter serotonin.
+Psilocybin is the primary psychoactive compound found in hallucinogenic mushrooms of the [[psilocybe-silvatica]] genus and related taxa. It is a naturally occurring indolealkylamine classified as a tryptamine, placing it in the same broad chemical family as LSD, DMT, and the endogenous neurotransmitter serotonin.
 
 ## Chemical Identity
 
@@ -41,20 +41,20 @@ These compounds are thought to be less psychoactive than psilocybin and psilocin
 
 Psilocybin is produced by more than 100 known species of mushroom spanning several fungal families. The primary genera include:
 
-- [[Psilocybe]] (family Strophariaceae): the predominant genus in recreational use
-- [[Conocybe]] (family Bolbitiaceae)
-- [[Copelandia]] and [[Panaeolus]] (family Coprinaceae)
-- [[Inocybe]] (family Cortinariaceae)
+- [[psilocybe-silvatica]] (family Strophariaceae): the predominant genus in recreational use
+- [[stamets-psylo-minor-genera-conocybe-gymnopilus]] (family Bolbitiaceae)
+- [[copelandia-genus-species-guide]] and [[panaeolus-venenosus]] (family Coprinaceae)
+- [[inocybe-haemacta]] (family Cortinariaceae)
 
 The list of species and their geographical distribution is continuously revised by mycologists as new taxa are described and existing classifications are refined through molecular phylogenetics.
 
-Psilocybin is not produced by members of the Agaricaceae family such as [[Amanita muscaria]], which contain entirely different active chemicals including muscimol, ibotenic acid, and muscarine. These compounds act on GABA and glutamate receptors rather than serotonin pathways.
+Psilocybin is not produced by members of the Agaricaceae family such as [[amanita-muscaria]], which contain entirely different active chemicals including muscimol, ibotenic acid, and muscarine. These compounds act on GABA and glutamate receptors rather than serotonin pathways.
 
 ## Potency Variation
 
-Potency varies considerably depending on species, variety, geographic origin, growing conditions, and the age of the mushroom at harvest. The most potent species such as [[Psilocybe semilanceata]] (liberty caps) may contain up to 1% psilocybin by dry weight. Specific high-potency species like Psilocybe azurescens and Psilocybe bohemica have been reported with even higher concentrations in certain samples.
+Potency varies considerably depending on species, variety, geographic origin, growing conditions, and the age of the mushroom at harvest. The most potent species such as [[psilocybe-semilanceata]] (liberty caps) may contain up to 1% psilocybin by dry weight. Specific high-potency species like Psilocybe azurescens and Psilocybe bohemica have been reported with even higher concentrations in certain samples.
 
-More commonly cultivated species such as [[Psilocybe cubensis]] typically contain psilocybin and psilocin at concentrations up to approximately 0.6%. These values are used for initial orientation only, as actual potency within a single species can vary significantly between individual specimens and between growing batches.
+More commonly cultivated species such as [[psilocybe-cubensis]] typically contain psilocybin and psilocin at concentrations up to approximately 0.6%. These values are used for initial orientation only, as actual potency within a single species can vary significantly between individual specimens and between growing batches.
 
 ## Dosage and Psychoactive Thresholds
 
@@ -84,7 +84,7 @@ The legal status of the mushrooms themselves has been more complex. Because psil
 
 ## Acute Toxicity Profile
 
-The acute toxicity of psilocybin is considered low. Fatal intoxications directly attributable to psilocybin mushroom consumption are exceedingly rare, with only one allegedly toxicologically confirmed death reported in France. There is no evidence of chronic toxicity, and no irreversible organ damage from psilocybin has been reported. Psychological and physical dependence does not develop, and there are no recognized withdrawal symptoms. Insufficient data exist regarding mutagenicity and teratogenicity to draw firm conclusions.
+The acute toxicity of psilocybin is considered low. Fatal intoxications directly attributable to [[psilocybin-mushroom-species-identification|psilocybin mushroom]] consumption are exceedingly rare, with only one allegedly toxicologically confirmed death reported in France. There is no evidence of chronic toxicity, and no irreversible organ damage from psilocybin has been reported. Psychological and physical dependence does not develop, and there are no recognized withdrawal symptoms. Insufficient data exist regarding mutagenicity and teratogenicity to draw firm conclusions.
 
 ## Historical Context
 
@@ -112,11 +112,11 @@ The only multi-year trend data available on hallucinogenic mushroom use were der
 
 - [[psilocybin-biosynthesis-pathway]] Concepts
 
-- [[Psilocybe]] - the predominant mushroom genus containing psilocybin
-- [[Psilocybe cubensis]] - the most commonly cultivated and marketed species
-- [[Psilocybe semilanceata]] - the most common wild European species
-- [[Serotonin]] - the neurotransmitter system through which psilocybin acts
-- [[Bad trip]] - acute psychological adverse reactions to psilocybin
-- [[Hallucinogenic mushroom market in Europe]] - retail and distribution patterns
-- [[Amanita muscaria]] - a chemically distinct hallucinogenic mushroom species
-- [[Conocybe]] - another genus of psilocybin-containing mushrooms
+- [[psilocybe-silvatica]] - the predominant mushroom genus containing psilocybin
+- [[psilocybe-cubensis]] - the most commonly cultivated and marketed species
+- [[psilocybe-semilanceata]] - the most common wild European species
+- [[serotonin]] - the neurotransmitter system through which psilocybin acts
+- [[bad-trip]] - acute psychological adverse reactions to psilocybin
+- [[hallucinogenic-mushroom-market-in-europe]] - retail and distribution patterns
+- [[amanita-muscaria]] - a chemically distinct hallucinogenic mushroom species
+- [[stamets-psylo-minor-genera-conocybe-gymnopilus]] - another genus of psilocybin-containing mushrooms

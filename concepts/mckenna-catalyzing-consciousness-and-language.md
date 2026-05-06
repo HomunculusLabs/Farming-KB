@@ -111,6 +111,8 @@ McKenna's analysis fits within his broader framework of the [[mckenna-food-of-th
 
 ## See Also
 
+- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
+
 - [[mckenna-catalyzing-consciousness-language-formation]]
 - [[mckenna-food-of-the-gods-thesis]]
 - [[mckenna-archaic-revival]]

@@ -86,6 +86,10 @@ The ancient Sumerian and Babylonian civilizations that arose in the Fertile Cres
 
 ## See Also
 
+- [[mckenna-epilogue-from-grasslands-to-the-starship]]
+
+- [[mckenna-hyperspace-law-and-the-remarkable-overmind]]
+
 [[dominator-culture-and-partnership-society]]
 
 [[mckenna-food-of-the-gods-thesis]]
