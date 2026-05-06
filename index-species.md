@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**2151 pages**
+**2165 pages**
 
 ## #
 
@@ -177,6 +177,7 @@
 - [[acacia-acuminata]]
 - [[acacia-confusa]]
 - [[acacia-mearnsii]]
+- [[acacia-senegal]]
 - [[acalypha-racemosa]]
 - [[acapulco-gold]]
 - [[acdc]]
@@ -451,6 +452,7 @@
 - [[calcarisporium-arbuscula]]
 - [[calea-zacatechichi]]
 - [[calendula-officinalis]]
+- [[calliandra-calothyrsus]]
 - [[calocybe-gambosa]]
 - [[calocybe-indica]]
 - [[calvatia-gigantea]]
@@ -508,6 +510,7 @@
 - [[chamomilla-recutita-entity]]
 - [[chelidonium-majus]]
 - [[chemdawg]]
+- [[chemdawg-cannabis]]
 - [[chemdawg-entity]]
 - [[chemdog]]
 - [[chenopodium-album]]
@@ -580,6 +583,7 @@
 - [[conocybe-smithii]]
 - [[conocybe-tenera]]
 - [[convallaria-majalis]]
+- [[convolvulus-prostratus]]
 - [[copelandia-anomalus]]
 - [[copelandia-cambodginiensis]]
 - [[copelandia-cyanescens]]
@@ -601,6 +605,7 @@
 - [[coriandrum-sativum]]
 - [[coriolopsis-capitata]]
 - [[coriolopsis-gallica]]
+- [[coriolopsis-polyzona]]
 - [[coriolopsis-trogii]]
 - [[coriolus-versicolor]]
 - [[corneliu-e-giurgea]]
@@ -628,12 +633,14 @@
 - [[curculigo-orchioides]]
 - [[curcuma-longa]]
 - [[curcumin]]
+- [[cuscuta-chinensis]]
 - [[cyclocybe-cylindracea]]
 - [[cylindrocarpon-destructans]]
 - [[cymbopogon-citratus]]
 - [[cymbopogon-flexuosus]]
 - [[cymbopogon-martinii]]
 - [[cynara-scolymus-entity]]
+- [[cynomorium-songaricum]]
 - [[cystoderma-amianthinum]]
 
 ## D
@@ -692,6 +699,7 @@
 - [[dmpea-entity-pihkal]]
 - [[dmt]]
 - [[dmt-entity-tihkal]]
+- [[dmt-nn-dimethyltryptamine]]
 - [[do-si-dos]]
 - [[do-si-dos-entity]]
 - [[doam-entity]]
@@ -801,6 +809,7 @@
 - [[euryale-ferox]]
 - [[eurycoma-longifolia]]
 - [[euterpe-oleracea]]
+- [[exidia-glandulosa]]
 - [[exophiala-dermatitidis]]
 
 ## F
@@ -1423,7 +1432,6 @@
 
 ## N
 
-- [[n,n-dimethyltryptamine]]
 - [[n-arachidonoyl-dopamine-nada]]
 - [[n-dmt]]
 - [[n-methyl-pea-entity]]
@@ -1450,6 +1458,7 @@
 - [[nn-dmt]]
 - [[noladin-ether]]
 - [[norbaeocystin]]
+- [[norharmane]]
 - [[noribogaine]]
 - [[noribogaine-entity]]
 - [[norpsilocin]]
@@ -1476,6 +1485,7 @@
 - [[oidiodendron-maius]]
 - [[omphalotus-illudens]]
 - [[omphalotus-olearius]]
+- [[omphalotus-olivascens]]
 - [[onobrychis-viciifolia]]
 - [[ophiocordyceps-sinensis]]
 - [[ophiocordyceps-unilateralis]]
@@ -1570,6 +1580,7 @@
 - [[phellinus-igniarius-entity]]
 - [[phellinus-linteus]]
 - [[phellinus-weirii]]
+- [[phellodon-niger]]
 - [[phenethylamine-pharmacology]]
 - [[pholiota-adiposa]]
 - [[pholiota-aurivella]]
@@ -1812,6 +1823,7 @@
 
 ## R
 
+- [[rainbow-gtz]]
 - [[ralph-metzner]]
 - [[ramaria-botrytis]]
 - [[ramaria-formosa]]
@@ -1883,6 +1895,7 @@
 - [[salvia-apiana]]
 - [[salvia-divinorum]]
 - [[salvia-divinorum-entity]]
+- [[salvia-hispanica]]
 - [[salvia-miltiorrhiza]]
 - [[salvia-officinalis]]
 - [[salvinorin-a]]
@@ -2197,6 +2210,7 @@
 - [[walter-stoll]]
 - [[wayne-lewis]]
 - [[wedding-cake]]
+- [[wedding-cake-cannabis]]
 - [[weraroa-novae-zelandiae]]
 - [[white-rhino]]
 - [[white-runtz]]

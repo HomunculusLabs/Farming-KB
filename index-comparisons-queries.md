@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1054 pages**
+**1060 pages**
 
 ## A
 
@@ -104,6 +104,7 @@
 - [[comparison-bsf-composting-vs-hot-composting]]
 - [[comparison-bsf-farming-vs-vermicomposting]]
 - [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
+- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
 - [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
 - [[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]
 - [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
@@ -189,6 +190,7 @@
 - [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
 - [[comparison-erect-vs-trailing-vs-primocane-brambles]]
 - [[comparison-ethnobotany-vs-ethnomycology]]
+- [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
 - [[comparison-fennel-vs-dill]]
 - [[comparison-fermentation-vs-canning]]
 - [[comparison-fermented-plant-extract-vs-compost-tea]]
@@ -229,6 +231,7 @@
 - [[comparison-greenhouse-vs-underground-walipini]]
 - [[comparison-greywater-vs-constructed-wetland]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
+- [[comparison-guava-vs-passion-fruit-cultivation]]
 - [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
@@ -561,6 +564,7 @@
 - [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]]
 - [[query-best-chestnut-varieties-for-different-climates-and-uses]]
 - [[query-best-citrus-varieties-for-different-climates]]
+- [[query-best-elderberry-varieties-for-different-climates-and-uses]]
 - [[query-best-goat-breeds-for-small-homestead-and-permaculture]]
 - [[query-best-grain-legumes-for-a-small-homestead]]
 - [[query-best-light-schedule-for-cannabis]]
@@ -629,6 +633,7 @@
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[query-how-do-i-grow-alliums-successfully]]
 - [[query-how-do-i-grow-brassicas-successfully]]
+- [[query-how-do-i-grow-cacao-and-process-it-into-chocolate]]
 - [[query-how-do-i-grow-cannabis-in-a-greenhouse]]
 - [[query-how-do-i-grow-carnivorous-plants-outdoors]]
 - [[query-how-do-i-grow-cordyceps-mushrooms]]
@@ -806,6 +811,7 @@
 - [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
 - [[query-how-to-grow-oyster-mushrooms-at-home]]
 - [[query-how-to-grow-passionfruit-in-different-climates]]
+- [[query-how-to-grow-pomegranate-in-different-climates]]
 - [[query-how-to-grow-potatoes-organically]]
 - [[query-how-to-grow-reishi-mushrooms]]
 - [[query-how-to-grow-shiitake-mushrooms]]
